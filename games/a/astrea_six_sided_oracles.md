@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 54.00% | ~50 |
-| Purification Pioneer | 52.00% | ~48 |
-| Dicesmithing Time! | 49.00% | ~45 |
-| Mechanical Buddy | 49.00% | ~45 |
+| Meissa's Savior | 55.00% | ~51 |
+| Purification Pioneer | 53.00% | ~49 |
+| Mechanical Buddy | 49.00% | ~46 |
+| Dicesmithing Time! | 48.00% | ~45 |
 | Endless Tricks | 43.00% | ~40 |
-| Sanctuary Guardian | 41.00% | ~38 |
+| Sanctuary Guardian | 42.00% | ~39 |
 | Noctuan Champion | 37.00% | ~34 |
-| Mind Illuminator | 36.00% | ~33 |
-| Wild's Keeper | 36.00% | ~33 |
-| Stellar Dismantler | 32.00% | ~29 |
+| Mind Illuminator | 35.00% | ~33 |
+| Wild's Keeper | 35.00% | ~33 |
+| Stellar Dismantler | 31.00% | ~29 |
 | Anomaly Destroyer | 27.00% | ~25 |
-| Eridanian Champion | 26.00% | ~24 |
+| Eridanian Champion | 27.00% | ~25 |
 | Lacertian Champion | 26.00% | ~24 |
 | Astral Adventurer | 24.00% | ~22 |
 | Apian Champion | 24.00% | ~22 |
 | Star Killer | 23.00% | ~21 |
-| Loyal Partner | 21.00% | ~19 |
-| Behenian Champion | 21.00% | ~19 |
+| Loyal Partner | 20.00% | ~19 |
+| Behenian Champion | 20.00% | ~19 |
 | Shard Spender | 17.00% | ~16 |
 | Unbeatable | 16.00% | ~15 |
 | Aquarian Champion | 16.00% | ~15 |
@@ -42,9 +42,9 @@
 | The Dark Moon | 8.00% | ~7 |
 | The Distorted Sage | 8.00% | ~7 |
 | Behenian Hero | 8.00% | ~7 |
-| Can't touch this | 7.00% | ~6 |
-| Denying Destiny | 7.00% | ~6 |
-| Behenian Mastery | 7.00% | ~6 |
+| Can't touch this | 6.00% | ~6 |
+| Denying Destiny | 6.00% | ~6 |
+| Behenian Mastery | 6.00% | ~6 |
 | If I Had Failed... | 5.00% | ~5 |
 | Purification Avatar | 5.00% | ~5 |
 | The Abyssal Terror | 5.00% | ~5 |
@@ -103,7 +103,7 @@
 | The world goes round... | 0.00% | ~0 |
 | Unepic Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92 (Ranked 446)  
+Progressed: 93 (Ranked 445)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,3 +144,4 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-26 | 88 | 0 |
 | 2023-11-27 | 90 | 0 |
 | 2023-11-28 | 92 | 0 |
+| 2023-11-29 | 93 | 0 |

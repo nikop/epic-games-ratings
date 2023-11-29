@@ -9,9 +9,9 @@
 | The great escape | 31.00% | ~247 |
 | The Preacher's fate | 30.00% | ~239 |
 | A new dawn | 24.00% | ~191 |
+| True G3M4R | 22.00% | ~175 |
 | Scholar | 22.00% | ~175 |
 | A good beginning | 21.00% | ~167 |
-| True G3M4R | 21.00% | ~167 |
 | The darkness | 21.00% | ~167 |
 | One last step | 20.00% | ~159 |
 | I did it | 19.00% | ~151 |
@@ -21,12 +21,12 @@
 | Peace walker | 18.00% | ~143 |
 | Champollion | 18.00% | ~143 |
 | Feels like springtime | 16.00% | ~127 |
+| Alchemists Express | 16.00% | ~127 |
 | Open door | 15.00% | ~119 |
-| Alchemists Express | 15.00% | ~119 |
 | Free at last | 13.00% | ~103 |
 | Rascal | 13.00% | ~103 |
 | A Link to the Past | 12.00% | ~96 |
-| A great audience | 10.00% | ~80 |
+| A great audience | 11.00% | ~88 |
 | For its own good | 10.00% | ~80 |
 | Fashion victim | 4.00% | ~32 |
 ## Popularity (Based on EOS Achievements)

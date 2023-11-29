@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4473,
+  "EOS_Progressed": 4476,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 614,
+  "EOS_NewPlayers": 615,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -3334,6 +3334,11 @@
       "Time": "2023-11-29T05:06:02.8653151+00:00",
       "NumProgressed": 4473,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-11-29T06:06:32.3541324+00:00",
+      "NumProgressed": 4476,
+      "NumCompleted": 44
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -3362,7 +3367,7 @@
       "Name": "Collect the mask",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1431
+      "UsersEstimate": 1432
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_OPENGATE",
@@ -3370,7 +3375,7 @@
       "Name": "Unlock the gate",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1431
+      "UsersEstimate": 1432
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_PC",
@@ -3378,7 +3383,7 @@
       "Name": "Unlock the PC",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1610
+      "UsersEstimate": 1611
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_SOFA",
@@ -3386,7 +3391,7 @@
       "Name": "Move the sofa",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -3394,7 +3399,7 @@
       "Name": "Turn on the TV",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2507
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -3402,7 +3407,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 3534
+      "UsersEstimate": 3536
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -3450,7 +3455,7 @@
       "Name": "Unlock the PC in Speedrun",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_SOFA",
@@ -3466,21 +3471,21 @@
       "Name": "Turn on the TV in Speedrun",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     }
   ],
   "AchievementSets": [
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 4473,
+      "Progressed": 4476,
       "Completed": 44
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-11-29T05:06:02.8653148+00:00",
+  "LastChanged_Achievements": "2023-11-29T06:06:32.3541319+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:09.231679+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:59:03.9598192+00:00",
-  "LastUpdate_Achievements": "2023-11-29T05:06:02.8653402+00:00"
+  "LastUpdate_Ratings": "2023-11-29T05:59:36.8483179+00:00",
+  "LastUpdate_Achievements": "2023-11-29T06:06:32.3541563+00:00"
 }

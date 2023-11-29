@@ -6,14 +6,14 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~12,991 |
-| Finding Your Footing | 26.00% | ~12,509 |
-| Nomad | 17.00% | ~8,179 |
-| Picking Up Speed | 16.00% | ~7,698 |
-| Welcome Maya | 14.00% | ~6,736 |
-| Scout | 11.00% | ~5,292 |
-| Sightseer | 11.00% | ~5,292 |
-| Amateur | 10.00% | ~4,811 |
+| Rookie | 27.00% | ~12,992 |
+| Finding Your Footing | 26.00% | ~12,511 |
+| Nomad | 17.00% | ~8,180 |
+| Picking Up Speed | 16.00% | ~7,699 |
+| Welcome Maya | 14.00% | ~6,737 |
+| Scout | 11.00% | ~5,293 |
+| Sightseer | 11.00% | ~5,293 |
+| Amateur | 10.00% | ~4,812 |
 | Unlock Maya | 8.00% | ~3,849 |
 | Wanderer | 8.00% | ~3,849 |
 | Enter Paz | 7.00% | ~3,368 |
@@ -21,12 +21,12 @@ Number of Ratings: 332  (23.09.2022)
 | My Little Friend | 5.00% | ~2,406 |
 | One With The Board | 5.00% | ~2,406 |
 | Voyager | 5.00% | ~2,406 |
-| Junkie | 3.00% | ~1,443 |
-| Traveler | 3.00% | ~1,443 |
-| Unlock Paz | 3.00% | ~1,443 |
-| Human Flight | 3.00% | ~1,443 |
-| Sandboarder | 3.00% | ~1,443 |
-| Izel Has Arrived | 3.00% | ~1,443 |
+| Junkie | 3.00% | ~1,444 |
+| Traveler | 3.00% | ~1,444 |
+| Unlock Paz | 3.00% | ~1,444 |
+| Human Flight | 3.00% | ~1,444 |
+| Sandboarder | 3.00% | ~1,444 |
+| Izel Has Arrived | 3.00% | ~1,444 |
 | Explorer | 2.00% | ~962 |
 | Pro | 2.00% | ~962 |
 | Journeyer | 2.00% | ~962 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~48 |
 | Windswept | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,113 (Ranked 113)  
+Progressed: 48,118 (Ranked 113)  
 Completed: 5 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 5 (0.01%) (Ranked 343)
 | 2023-11-26 | 47,893 | 5 |
 | 2023-11-27 | 48,000 | 5 |
 | 2023-11-28 | 48,087 | 5 |
-| 2023-11-29 | 48,113 | 5 |
+| 2023-11-29 | 48,118 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 440)  
 Sum: 374 (Ranked 350)  

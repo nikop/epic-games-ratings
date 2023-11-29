@@ -5,24 +5,24 @@ Rating: 4.40 (Ranked 737)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~105,573 |
-| 74 miles East of Otaheité | 56.00% | ~73,901 |
-| Interesting... | 42.00% | ~55,426 |
-| The Everhart Expedition | 40.00% | ~52,786 |
+| A Family Heirloom | 80.00% | ~105,574 |
+| 74 miles East of Otaheité | 56.00% | ~73,902 |
+| Interesting... | 42.00% | ~55,427 |
+| The Everhart Expedition | 40.00% | ~52,787 |
 | The Vanishing of the Lady Shannon | 30.00% | ~39,590 |
 | Seaside Serenade | 30.00% | ~39,590 |
-| Halfway there | 29.00% | ~38,270 |
-| A brigantine, a brig and a barque | 28.00% | ~36,950 |
-| 506 East Hampden Avenue | 28.00% | ~36,950 |
+| Halfway there | 29.00% | ~38,271 |
+| A brigantine, a brig and a barque | 28.00% | ~36,951 |
+| 506 East Hampden Avenue | 28.00% | ~36,951 |
 | Weekend at Walakea's | 27.00% | ~35,631 |
 | Quite a Show | 27.00% | ~35,631 |
 | Dark Water Ride | 25.00% | ~32,992 |
 | Sunken | 25.00% | ~32,992 |
 | Deep Cut | 24.00% | ~31,672 |
-| FHALGOF'N' | 23.00% | ~30,352 |
+| FHALGOF'N' | 23.00% | ~30,353 |
 | Marsh Cannery | 21.00% | ~27,713 |
 | Greetings from Y'ha-nthlei! | 18.00% | ~23,754 |
-| The only thing I have now | 17.00% | ~22,434 |
+| The only thing I have now | 17.00% | ~22,435 |
 | Naacalvision | 16.00% | ~21,115 |
 | Not Another Boring Slideshow! | 15.00% | ~19,795 |
 | I'll make a note of that... | 9.00% | ~11,877 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 737)
 | Gently down the stream... | 1.00% | ~1,320 |
 | Meta-reference | 1.00% | ~1,320 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,966 (Ranked 82)  
+Progressed: 131,968 (Ranked 82)  
 Completed: 1,152 (0.87%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 1,152 (0.87%) (Ranked 174)
 | 2023-11-26 | 131,710 | 1,145 |
 | 2023-11-27 | 131,827 | 1,150 |
 | 2023-11-28 | 131,935 | 1,152 |
-| 2023-11-29 | 131,966 | 1,152 |
+| 2023-11-29 | 131,968 | 1,152 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

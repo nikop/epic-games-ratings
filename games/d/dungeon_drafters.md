@@ -19,10 +19,10 @@
 | Card Completionist | 9.00% | ~9 |
 | The Bodyguard | 7.00% | ~7 |
 | Braving Miasma | 7.00% | ~7 |
+| No Stone Unturned | 7.00% | ~7 |
 | The Apprentice | 6.00% | ~6 |
 | The Familiar | 6.00% | ~6 |
 | Oracle Mastery | 6.00% | ~6 |
-| No Stone Unturned | 6.00% | ~6 |
 | The Plot Thickens | 5.00% | ~5 |
 | Ancient Nemesis | 4.00% | ~4 |
 | Raider Mastery | 4.00% | ~4 |

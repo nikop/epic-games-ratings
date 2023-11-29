@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2304,
+  "EOS_Progressed": 2305,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5517,6 +5517,11 @@
       "Time": "2023-11-29T00:09:16.5964375+00:00",
       "NumProgressed": 2304,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T06:09:44.9000635+00:00",
+      "NumProgressed": 2305,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5785,7 +5790,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -5920,14 +5925,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2304,
+      "Progressed": 2305,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-29T05:09:34.976214+00:00",
+  "LastChanged_Achievements": "2023-11-29T06:09:44.9000633+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:35.7913611+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:59:34.4453843+00:00",
-  "LastUpdate_Achievements": "2023-11-29T05:09:34.976272+00:00"
+  "LastUpdate_Ratings": "2023-11-29T06:00:08.1996471+00:00",
+  "LastUpdate_Achievements": "2023-11-29T06:09:44.900123+00:00"
 }

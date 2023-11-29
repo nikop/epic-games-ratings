@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24696,
+  "EOS_Progressed": 24697,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2572,
+  "EOS_NewPlayers": 2563,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8309,6 +8309,11 @@
       "Time": "2023-11-29T05:09:34.0505129+00:00",
       "NumProgressed": 24696,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T06:09:43.9634055+00:00",
+      "NumProgressed": 24697,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -8321,7 +8326,7 @@
       "Name": "The Galaxy\u0027s Finest (Story Mode)",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3704
+      "UsersEstimate": 3705
     },
     {
       "ID": "achievement_10",
@@ -8545,7 +8550,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 23461
+      "UsersEstimate": 23462
     },
     {
       "ID": "achievement_36",
@@ -8561,7 +8566,7 @@
       "Name": "Asset Secured",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3210
+      "UsersEstimate": 3211
     },
     {
       "ID": "achievement_38",
@@ -8665,7 +8670,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3210
+      "UsersEstimate": 3211
     },
     {
       "ID": "achievement_7",
@@ -8696,7 +8701,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 24696,
+      "Progressed": 24697,
       "Completed": 1
     }
   ],
@@ -8704,8 +8709,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-11-29T05:09:34.0505127+00:00",
+  "LastChanged_Achievements": "2023-11-29T06:09:43.9634052+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:13.346216+00:00",
-  "LastUpdate_Ratings": "2023-11-29T05:02:56.9291993+00:00",
-  "LastUpdate_Achievements": "2023-11-29T05:09:34.0505816+00:00"
+  "LastUpdate_Ratings": "2023-11-29T06:03:20.7061844+00:00",
+  "LastUpdate_Achievements": "2023-11-29T06:09:43.9634736+00:00"
 }

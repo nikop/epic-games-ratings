@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,7 +145,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4422,
+  "EOS_Progressed": 4424,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
@@ -7915,6 +7915,11 @@
       "Time": "2023-11-29T04:11:07.1790937+00:00",
       "NumProgressed": 4422,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-29T06:05:08.3933029+00:00",
+      "NumProgressed": 4424,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7934,7 +7939,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "Ach003",
@@ -7956,9 +7961,9 @@
       "ID": "Ach005",
       "SetID": "12n4k20",
       "Name": "Headliner",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 398
+      "UsersEstimate": 354
     },
     {
       "ID": "Ach006",
@@ -8038,7 +8043,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "Ach016",
@@ -8054,7 +8059,7 @@
       "Name": "I play my own way!",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "Ach018",
@@ -8102,7 +8107,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "Ach024",
@@ -8134,7 +8139,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "Ach028",
@@ -8206,7 +8211,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "Ach037",
@@ -8414,7 +8419,7 @@
       "Name": "NOW we got a kickass hideout!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "Ach063",
@@ -8493,13 +8498,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4422,
+      "Progressed": 4424,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2943,
+      "Progressed": 2945,
       "Completed": 1930
     }
   ],
@@ -8507,8 +8512,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-29T05:04:40.5572216+00:00",
+  "LastChanged_Achievements": "2023-11-29T06:05:08.3933026+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:57:19.9074927+00:00",
-  "LastUpdate_Achievements": "2023-11-29T05:04:40.5573161+00:00"
+  "LastUpdate_Ratings": "2023-11-29T05:57:48.5011574+00:00",
+  "LastUpdate_Achievements": "2023-11-29T06:05:08.3933805+00:00"
 }

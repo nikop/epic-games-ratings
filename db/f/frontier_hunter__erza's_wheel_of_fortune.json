@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 419,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 291,
+  "EOS_NewPlayers": 289,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -1424,9 +1424,9 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "7pimpda",
       "Name": "Arms Mechanic",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 189
+      "UsersEstimate": 193
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -1448,9 +1448,9 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "7pimpda",
       "Name": "Fashion Connoisseur",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 210
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -1665,8 +1665,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-29T05:04:56.8775586+00:00",
+  "LastChanged_Achievements": "2023-11-29T06:05:24.821493+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:58:07.7890912+00:00",
-  "LastUpdate_Achievements": "2023-11-29T05:04:56.8775958+00:00"
+  "LastUpdate_Ratings": "2023-11-29T05:58:38.4802875+00:00",
+  "LastUpdate_Achievements": "2023-11-29T06:05:24.8215549+00:00"
 }

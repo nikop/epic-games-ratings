@@ -10,7 +10,7 @@ Rating: 3.82 (Ranked 1,031)
 | Cold Caller | 40.00% | ~216,139 |
 | A Bit On The Side | 27.00% | ~145,894 |
 | Backdoor | 25.00% | ~135,087 |
-| Rank Amateur | 22.00% | ~118,876 |
+| Rank Amateur | 22.00% | ~118,877 |
 | Three Way | 19.00% | ~102,666 |
 | Deadly Assassin | 16.00% | ~86,456 |
 | Gutshot | 14.00% | ~75,649 |
@@ -51,7 +51,7 @@ Rating: 3.82 (Ranked 1,031)
 | Rounder | 0.10% | ~540 |
 | Top Dog | 0.10% | ~540 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 540,347 (Ranked 33)  
+Progressed: 540,348 (Ranked 33)  
 Completed: 2 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 2 (0.00%) (Ranked 363)
 | 2023-11-26 | 540,015 | 2 |
 | 2023-11-27 | 540,176 | 2 |
 | 2023-11-28 | 540,318 | 2 |
-| 2023-11-29 | 540,347 | 2 |
+| 2023-11-29 | 540,348 | 2 |
 ## Awards
 Max (Great for Beginners): 62  (Ranked 415)  
 Sum: 182 (Ranked 410)  

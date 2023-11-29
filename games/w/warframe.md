@@ -1,7 +1,7 @@
 # Warframe
 [Store](https://store.epicgames.com/en-US/p/warframe)  
 [View Rawdata](../../db/w/warframe.json)  
-Rating: 4.61 (Ranked 385)  
+Rating: 4.61 (Ranked 386)  
 Number of Ratings: 12,660  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 18,689  (Ranked 23)  

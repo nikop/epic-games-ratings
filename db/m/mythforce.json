@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -800,9 +800,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5172,
+  "EOS_Progressed": 5176,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10135,6 +10135,11 @@
       "Time": "2023-11-29T05:04:44.0781726+00:00",
       "NumProgressed": 5172,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-29T06:05:11.890183+00:00",
+      "NumProgressed": 5176,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -10147,7 +10152,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -10187,7 +10192,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -10195,7 +10200,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1346
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -10219,7 +10224,7 @@
       "Name": "The Fourth Gate",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "MF_Ach_HarderTheyFall",
@@ -10227,7 +10232,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -10235,7 +10240,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -10243,7 +10248,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 879
+      "UsersEstimate": 880
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -10259,7 +10264,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -10267,7 +10272,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -10275,7 +10280,7 @@
       "Name": "On this Episode!",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -10283,7 +10288,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -10299,7 +10304,7 @@
       "Name": "Spending Spree",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -10315,7 +10320,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -10330,15 +10335,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5172,
+      "Progressed": 5176,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-28T16:58:30.5378717+00:00",
-  "LastChanged_Achievements": "2023-11-29T05:04:44.0781721+00:00",
+  "LastChanged_Achievements": "2023-11-29T06:05:11.8901826+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:57.8728893+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:58:22.957645+00:00",
-  "LastUpdate_Achievements": "2023-11-29T05:04:44.0782509+00:00"
+  "LastUpdate_Ratings": "2023-11-29T05:58:54.3330322+00:00",
+  "LastUpdate_Achievements": "2023-11-29T06:05:11.8902367+00:00"
 }

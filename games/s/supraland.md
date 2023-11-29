@@ -1,37 +1,37 @@
 # Supraland
 [Store](https://store.epicgames.com/en-US/p/supraland)  
 [View Rawdata](../../db/s/supraland.json)  
-Rating: 4.61 (Ranked 385)  
+Rating: 4.61 (Ranked 386)  
 Number of Ratings: 25,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~727,022 |
-| The Blues | 85.00% | ~624,211 |
-| Fast | 66.00% | ~484,682 |
-| Healthbar | 55.00% | ~403,901 |
-| Force Cube | 53.00% | ~389,214 |
-| Double Jump | 48.00% | ~352,496 |
-| Regeneration | 47.00% | ~345,152 |
-| Triple Jump | 43.00% | ~315,777 |
-| Climb the hill | 42.00% | ~308,434 |
-| Through the fire pipe | 39.00% | ~286,403 |
-| MacGuffin | 38.00% | ~279,059 |
-| Just once | 37.00% | ~271,715 |
+| Out of bed | 99.00% | ~727,024 |
+| The Blues | 85.00% | ~624,213 |
+| Fast | 66.00% | ~484,683 |
+| Healthbar | 55.00% | ~403,902 |
+| Force Cube | 53.00% | ~389,215 |
+| Double Jump | 48.00% | ~352,497 |
+| Regeneration | 47.00% | ~345,153 |
+| Triple Jump | 43.00% | ~315,778 |
+| Climb the hill | 42.00% | ~308,435 |
+| Through the fire pipe | 39.00% | ~286,404 |
+| MacGuffin | 38.00% | ~279,060 |
+| Just once | 37.00% | ~271,716 |
 | Armor | 30.00% | ~220,310 |
-| True holy spirit | 28.00% | ~205,622 |
+| True holy spirit | 28.00% | ~205,623 |
 | That's how electronics work obviously | 27.00% | ~198,279 |
 | Force Cube Catapult | 25.00% | ~183,592 |
-| Holy Sword | 23.00% | ~168,904 |
-| Telefrag | 23.00% | ~168,904 |
+| Holy Sword | 23.00% | ~168,905 |
+| Telefrag | 23.00% | ~168,905 |
 | Freed from prison | 21.00% | ~154,217 |
 | Stomp | 21.00% | ~154,217 |
 | Double Health | 19.00% | ~139,530 |
 | Green Keycard | 18.00% | ~132,186 |
-| Buckle | 17.00% | ~124,842 |
+| Buckle | 17.00% | ~124,843 |
 | Rattle Hag | 16.00% | ~117,499 |
 | All Shells | 15.00% | ~110,155 |
-| Beam | 14.00% | ~102,811 |
+| Beam | 14.00% | ~102,812 |
 | Health Drink | 13.00% | ~95,468 |
 | Helped a star | 13.00% | ~95,468 |
 | 9 | 13.00% | ~95,468 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~734 |
 | DLC: Top of the world | 0.10% | ~734 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 734,366 (Ranked 20)  
+Progressed: 734,368 (Ranked 20)  
 Completed: 764 (0.10%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 764 (0.10%) (Ranked 288)
 | 2023-11-26 | 734,194 | 764 |
 | 2023-11-27 | 734,275 | 764 |
 | 2023-11-28 | 734,356 | 764 |
-| 2023-11-29 | 734,366 | 764 |
+| 2023-11-29 | 734,368 | 764 |
 ## Awards
 Max (Challenging Puzzles): 7,734  (Ranked 50)  
 Sum: 10,092 (Ranked 91)  

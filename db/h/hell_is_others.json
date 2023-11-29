@@ -1267,9 +1267,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 258834,
+  "EOS_Progressed": 258836,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22697,6 +22697,11 @@
       "Time": "2023-11-29T05:05:46.2185396+00:00",
       "NumProgressed": 258834,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-29T06:06:15.6059185+00:00",
+      "NumProgressed": 258836,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -22708,7 +22713,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18118
+      "UsersEstimate": 18119
     },
     {
       "ID": "Act2",
@@ -22812,7 +22817,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25883
+      "UsersEstimate": 25884
     },
     {
       "ID": "CreditLevel2",
@@ -23100,7 +23105,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25883
+      "UsersEstimate": 25884
     },
     {
       "ID": "ReachNDays2",
@@ -23155,7 +23160,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 258834,
+      "Progressed": 258836,
       "Completed": 3
     }
   ],
@@ -23163,8 +23168,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-11-27T13:59:21.5794063+00:00",
-  "LastChanged_Achievements": "2023-11-29T05:05:46.2185393+00:00",
+  "LastChanged_Achievements": "2023-11-29T06:06:15.6059181+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:31.8373031+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:59:28.3191798+00:00",
-  "LastUpdate_Achievements": "2023-11-29T05:05:46.2186544+00:00"
+  "LastUpdate_Ratings": "2023-11-29T06:00:01.7403104+00:00",
+  "LastUpdate_Achievements": "2023-11-29T06:06:15.6060297+00:00"
 }

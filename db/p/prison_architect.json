@@ -2,7 +2,7 @@
   "ID": "3ffb410dab2d409aacd39a1abc6fcbba",
   "Name": "Prison Architect",
   "ProductSlug": "prison-architect",
-  "Ranking_Rating": 385,
+  "Ranking_Rating": 386,
   "Ranking_Popularity": 199,
   "Ranking_PopularitySum": 146,
   "Ranking_EOS_Progress": 75,
@@ -7131,9 +7131,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 198652,
+  "EOS_Progressed": 198655,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 2360,
+  "EOS_NewPlayers": 2358,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32546,6 +32546,11 @@
       "Time": "2023-11-29T05:09:06.58828+00:00",
       "NumProgressed": 198652,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-29T06:09:16.304977+00:00",
+      "NumProgressed": 198655,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 16,
@@ -32589,7 +32594,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 31784
+      "UsersEstimate": 31785
     },
     {
       "ID": "Achievement_13",
@@ -32637,7 +32642,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 49663
+      "UsersEstimate": 49664
     },
     {
       "ID": "Achievement_5",
@@ -32684,15 +32689,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 198652,
+      "Progressed": 198655,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-11-29T01:49:09.3653017+00:00",
-  "LastChanged_Achievements": "2023-11-29T05:09:06.5882797+00:00",
+  "LastChanged_Achievements": "2023-11-29T06:09:16.3049764+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:12.7295199+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:57:05.3231734+00:00",
-  "LastUpdate_Achievements": "2023-11-29T05:09:06.5884412+00:00"
+  "LastUpdate_Ratings": "2023-11-29T05:57:33.0498081+00:00",
+  "LastUpdate_Achievements": "2023-11-29T06:09:16.3050758+00:00"
 }

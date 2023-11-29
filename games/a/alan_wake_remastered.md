@@ -15,7 +15,7 @@ Number of Ratings: 524  (23.09.2022)
 | Park Ranger | 28.00% | ~27,057 |
 | Paging Mr. Wake | 28.00% | ~27,057 |
 | Back! Back, I Say! | 27.00% | ~26,091 |
-| Finders Keepers | 26.00% | ~25,124 |
+| Finders Keepers | 27.00% | ~26,091 |
 | Damn Good Cup of Coffee | 25.00% | ~24,158 |
 | Sound and Fury | 24.00% | ~23,192 |
 | Missed by a Mile | 24.00% | ~23,192 |

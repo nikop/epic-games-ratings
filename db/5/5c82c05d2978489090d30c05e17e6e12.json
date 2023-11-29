@@ -119,9 +119,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 59926,
+  "EOS_Progressed": 59945,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 12881,
+  "EOS_NewPlayers": 12780,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -1629,6 +1629,11 @@
       "Time": "2023-11-29T05:05:18.5294149+00:00",
       "NumProgressed": 59926,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-11-29T06:05:47.2538594+00:00",
+      "NumProgressed": 59945,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -1641,7 +1646,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 22173
+      "UsersEstimate": 22180
     },
     {
       "ID": "Achievement_10",
@@ -1729,7 +1734,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 16180
+      "UsersEstimate": 16185
     },
     {
       "ID": "Achievement_20",
@@ -1817,7 +1822,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 6592
+      "UsersEstimate": 6594
     },
     {
       "ID": "Achievement_30",
@@ -1841,7 +1846,7 @@
       "Name": "Art Director",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "Achievement_33",
@@ -1865,7 +1870,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 4794
+      "UsersEstimate": 4796
     },
     {
       "ID": "Achievement_5",
@@ -1873,7 +1878,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3596
+      "UsersEstimate": 3597
     },
     {
       "ID": "Achievement_6",
@@ -1905,14 +1910,14 @@
       "Name": "Shielded by L\u00FFs",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     }
   ],
   "AchievementSets": [
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 59926,
+      "Progressed": 59945,
       "Completed": 36
     }
   ],
@@ -1920,8 +1925,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-11-28T23:59:55.1809012+00:00",
-  "LastChanged_Achievements": "2023-11-29T05:05:18.5294144+00:00",
+  "LastChanged_Achievements": "2023-11-29T06:05:47.253859+00:00",
   "LastUpdate_AppInfo": "2023-11-23T11:57:10.0145945+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:59:51.0859113+00:00",
-  "LastUpdate_Achievements": "2023-11-29T05:05:18.5294386+00:00"
+  "LastUpdate_Ratings": "2023-11-29T06:00:25.0594938+00:00",
+  "LastUpdate_Achievements": "2023-11-29T06:05:47.2538893+00:00"
 }

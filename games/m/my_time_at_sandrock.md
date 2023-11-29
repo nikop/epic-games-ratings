@@ -17,20 +17,20 @@ Number of Ratings: 892  (23.09.2022)
 | One of the Cool Kids | 72.00% | ~354 |
 | Yakmel Whisperer | 69.00% | ~339 |
 | Diamonds are Forever | 67.00% | ~329 |
+| Pack Mule | 66.00% | ~324 |
 | Can We Keep It? | 66.00% | ~324 |
-| Pack Mule | 65.00% | ~319 |
 | I Do! | 62.00% | ~304 |
 | Unboxing | 60.00% | ~295 |
 | Chatterbox | 58.00% | ~285 |
 | First Love | 58.00% | ~285 |
-| Financially Secure | 56.00% | ~275 |
+| Financially Secure | 57.00% | ~280 |
 | Big Game Hunter | 55.00% | ~270 |
 | Got Served | 55.00% | ~270 |
+| Better Late than Never | 52.00% | ~255 |
 | Officially Official | 52.00% | ~255 |
 | Mole Masher | 52.00% | ~255 |
 | Panda-kin | 51.00% | ~250 |
 | Builder of the Month | 51.00% | ~250 |
-| Better Late than Never | 51.00% | ~250 |
 | Elementary, My Dear | 51.00% | ~250 |
 | Happier-est Place on Earth | 51.00% | ~250 |
 | What Plants Crave | 50.00% | ~246 |
@@ -58,7 +58,7 @@ Number of Ratings: 892  (23.09.2022)
 | Newton | 29.00% | ~142 |
 | It Belongs in a Museum! | 29.00% | ~142 |
 | Do Your Part | 28.00% | ~137 |
-| Pro Gamer | 25.00% | ~123 |
+| Pro Gamer | 26.00% | ~128 |
 | Cardistry | 19.00% | ~93 |
 | It's High Noon... | 13.00% | ~64 |
 | Strong Arms | 13.00% | ~64 |

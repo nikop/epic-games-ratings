@@ -2,9 +2,9 @@
   "ID": "2015d187216e4b33b88edee66282e4a1",
   "Name": "The Legend of Tianding",
   "ProductSlug": "the-legend-of-tianding",
-  "Ranking_EOS_Progress": 539,
-  "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_Progress": 536,
+  "Ranking_EOS_Completed": 92,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26,
+  "EOS_Progressed": 27,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.85,
+  "EOS_Completed_Percentage": 3.7,
   "EosHistory": [
     {
       "Time": "2023-09-28T09:07:03.7102413+00:00",
@@ -170,6 +170,11 @@
       "Time": "2023-11-26T13:07:40.3103028+00:00",
       "NumProgressed": 26,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T06:05:41.9006691+00:00",
+      "NumProgressed": 27,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-28T03:06:31.4397832+00:00",
@@ -180,7 +185,7 @@
       "ID": "BeatBossChen",
       "SetID": "123m9l1",
       "Name": "Death Battle",
-      "Percentage": 50,
+      "Percentage": 48,
       "XP": 100,
       "UsersEstimate": 13
     },
@@ -188,7 +193,7 @@
       "ID": "BeatBossKawa",
       "SetID": "123m9l1",
       "Name": "Phantom Kunoichi",
-      "Percentage": 50,
+      "Percentage": 48,
       "XP": 100,
       "UsersEstimate": 13
     },
@@ -196,7 +201,7 @@
       "ID": "BeatBossNaka",
       "SetID": "123m9l1",
       "Name": "Killing Machine",
-      "Percentage": 50,
+      "Percentage": 48,
       "XP": 100,
       "UsersEstimate": 13
     },
@@ -204,7 +209,7 @@
       "ID": "BeatBossShimada",
       "SetID": "123m9l1",
       "Name": "Final Showdown",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 100,
       "UsersEstimate": 11
     },
@@ -212,7 +217,7 @@
       "ID": "BeatBossTing",
       "SetID": "123m9l1",
       "Name": "Divine Retribution",
-      "Percentage": 46,
+      "Percentage": 44,
       "XP": 100,
       "UsersEstimate": 12
     },
@@ -220,7 +225,7 @@
       "ID": "BeatBossWang",
       "SetID": "123m9l1",
       "Name": "Eat the Rich",
-      "Percentage": 58,
+      "Percentage": 56,
       "XP": 100,
       "UsersEstimate": 15
     },
@@ -228,7 +233,7 @@
       "ID": "BigEater",
       "SetID": "123m9l1",
       "Name": "Big Eater",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -236,7 +241,7 @@
       "ID": "ClarifyRumors",
       "SetID": "123m9l1",
       "Name": "Dispel Rumors",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -244,7 +249,7 @@
       "ID": "Collector",
       "SetID": "123m9l1",
       "Name": "Collector",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -252,7 +257,7 @@
       "ID": "ExpressTrainExplorer",
       "SetID": "123m9l1",
       "Name": "Tour Guide",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -268,7 +273,7 @@
       "ID": "FinishTheGame",
       "SetID": "123m9l1",
       "Name": "The End of an Outlaw",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 20,
       "UsersEstimate": 11
     },
@@ -278,13 +283,13 @@
       "Name": "Hero Arrives",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "HardcorePlayer",
       "SetID": "123m9l1",
       "Name": "The Hero of the People",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -300,7 +305,7 @@
       "ID": "MightySword",
       "SetID": "123m9l1",
       "Name": "Demon Slayer",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -308,7 +313,7 @@
       "ID": "MilitaryFactoryExplorer",
       "SetID": "123m9l1",
       "Name": "Urban Explorer",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -316,7 +321,7 @@
       "ID": "OmamoriExpert",
       "SetID": "123m9l1",
       "Name": "Taoist",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -324,7 +329,7 @@
       "ID": "RescueAKuai",
       "SetID": "123m9l1",
       "Name": "Steal Her Away",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -332,7 +337,7 @@
       "ID": "SaveMatsumoto",
       "SetID": "123m9l1",
       "Name": "Captain Mustache",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 20,
       "UsersEstimate": 11
     },
@@ -340,7 +345,7 @@
       "ID": "SewerExplorer",
       "SetID": "123m9l1",
       "Name": "Sewer Rat",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -348,7 +353,7 @@
       "ID": "Survivor",
       "SetID": "123m9l1",
       "Name": "Not Today",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -364,7 +369,7 @@
       "ID": "ThreatenLiHong",
       "SetID": "123m9l1",
       "Name": "Coward",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -380,7 +385,7 @@
       "ID": "TrickLiHong",
       "SetID": "123m9l1",
       "Name": "Fight Fire With Fire",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
       "UsersEstimate": 7
     }
@@ -389,7 +394,7 @@
     {
       "ID": "123m9l1",
       "IsBase": true,
-      "Progressed": 26,
+      "Progressed": 27,
       "Completed": 1
     }
   ],
@@ -397,8 +402,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-11-29T05:05:13.4135163+00:00",
+  "LastChanged_Achievements": "2023-11-29T06:05:41.9006687+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:56.2230551+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:57:55.0756644+00:00",
-  "LastUpdate_Achievements": "2023-11-29T05:05:13.4135327+00:00"
+  "LastUpdate_Ratings": "2023-11-29T05:58:25.2179415+00:00",
+  "LastUpdate_Achievements": "2023-11-29T06:05:41.900686+00:00"
 }

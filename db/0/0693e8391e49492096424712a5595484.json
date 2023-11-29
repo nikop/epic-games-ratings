@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -2136,9 +2136,9 @@
       "ID": "BasiliskBroom",
       "SetID": "db30heh",
       "Name": "Sweeping Prop",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 126
+      "UsersEstimate": 132
     },
     {
       "ID": "BasiliskFishingRod",
@@ -2176,9 +2176,9 @@
       "ID": "BearRum",
       "SetID": "db30heh",
       "Name": "Ready for Bed",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 110
     },
     {
       "ID": "BearSword",
@@ -2312,9 +2312,9 @@
       "ID": "HastrmanRum",
       "SetID": "db30heh",
       "Name": "That\u0027s Not Water",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 116
+      "UsersEstimate": 121
     },
     {
       "ID": "HatFlower",
@@ -2384,9 +2384,9 @@
       "ID": "Priestess",
       "SetID": "db30heh",
       "Name": "Blessed",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 284
+      "UsersEstimate": 289
     },
     {
       "ID": "PrincessThrone",
@@ -2456,9 +2456,9 @@
       "ID": "SleepingBasiliskPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Poppy Sleep",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 95
     },
     {
       "ID": "SwordDiamond",
@@ -2495,8 +2495,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-11-29T05:04:54.3015226+00:00",
+  "LastChanged_Achievements": "2023-11-29T06:05:22.3158983+00:00",
   "LastUpdate_AppInfo": "2023-11-29T01:48:50.1912977+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:57:41.1615068+00:00",
-  "LastUpdate_Achievements": "2023-11-29T05:04:54.3015633+00:00"
+  "LastUpdate_Ratings": "2023-11-29T05:58:10.5172742+00:00",
+  "LastUpdate_Achievements": "2023-11-29T06:05:22.3159308+00:00"
 }

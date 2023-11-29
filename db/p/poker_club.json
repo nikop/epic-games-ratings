@@ -985,9 +985,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 540347,
+  "EOS_Progressed": 540348,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1234,
+  "EOS_NewPlayers": 1228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26240,6 +26240,11 @@
       "Time": "2023-11-29T05:05:06.7781684+00:00",
       "NumProgressed": 540347,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-29T06:05:35.0159353+00:00",
+      "NumProgressed": 540348,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -26523,7 +26528,7 @@
       "Name": "Rank Amateur",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 118876
+      "UsersEstimate": 118877
     },
     {
       "ID": "RegularPunter",
@@ -26610,7 +26615,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 540347,
+      "Progressed": 540348,
       "Completed": 2
     }
   ],
@@ -26618,8 +26623,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-11-26T16:59:21.6017221+00:00",
-  "LastChanged_Achievements": "2023-11-29T05:05:06.778168+00:00",
+  "LastChanged_Achievements": "2023-11-29T06:05:35.0159345+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:00.682354+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:57:05.6042105+00:00",
-  "LastUpdate_Achievements": "2023-11-29T05:05:06.7782889+00:00"
+  "LastUpdate_Ratings": "2023-11-29T05:57:33.3273635+00:00",
+  "LastUpdate_Achievements": "2023-11-29T06:05:35.0160503+00:00"
 }

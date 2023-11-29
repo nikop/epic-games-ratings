@@ -2,9 +2,9 @@
   "ID": "a940fa38f001486a9884640924119576",
   "Name": "Astrea Six Sided Oracles",
   "ProductSlug": "astrea-six-sided-oracles-33c949",
-  "Ranking_EOS_Progress": 446,
+  "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 92,
+  "EOS_Progressed": 93,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -464,6 +464,11 @@
       "Time": "2023-11-28T10:05:22.4141218+00:00",
       "NumProgressed": 92,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T06:06:23.9409966+00:00",
+      "NumProgressed": 93,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -666,7 +671,7 @@
       "ID": "Canttouchthis",
       "SetID": "1jeo1g7",
       "Name": "Can\u0027t touch this",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -682,7 +687,7 @@
       "ID": "DenyingDestiny",
       "SetID": "1jeo1g7",
       "Name": "Denying Destiny",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -698,7 +703,7 @@
       "ID": "DicesmithingTime",
       "SetID": "1jeo1g7",
       "Name": "Dicesmithing Time!",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 5,
       "UsersEstimate": 45
     },
@@ -802,7 +807,7 @@
       "ID": "LoyalPartner",
       "SetID": "1jeo1g7",
       "Name": "Loyal Partner",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 19
     },
@@ -820,21 +825,21 @@
       "Name": "Mechanical Buddy",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "MeissasSavior",
       "SetID": "1jeo1g7",
       "Name": "Meissa\u0027s Savior",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
       "UsersEstimate": 33
     },
@@ -898,9 +903,9 @@
       "ID": "PurificationPioneer",
       "SetID": "1jeo1g7",
       "Name": "Purification Pioneer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ReflexiveMind",
@@ -930,9 +935,9 @@
       "ID": "SanctuaryGuardian",
       "SetID": "1jeo1g7",
       "Name": "Sanctuary Guardian",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Sentinelphobic",
@@ -978,7 +983,7 @@
       "ID": "StellarDismantler",
       "SetID": "1jeo1g7",
       "Name": "Stellar Dismantler",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
       "UsersEstimate": 29
     },
@@ -1106,7 +1111,7 @@
       "ID": "WildsKeeper",
       "SetID": "1jeo1g7",
       "Name": "Wild\u0027s Keeper",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
       "UsersEstimate": 33
     },
@@ -1162,7 +1167,7 @@
       "ID": "BehenianChampion",
       "SetID": "1jeo1g7",
       "Name": "Behenian Champion",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -1178,7 +1183,7 @@
       "ID": "BehenianMastery",
       "SetID": "1jeo1g7",
       "Name": "Behenian Mastery",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 6
     },
@@ -1186,9 +1191,9 @@
       "ID": "EridanianChampion",
       "SetID": "1jeo1g7",
       "Name": "Eridanian Champion",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "EridanianHero",
@@ -1259,14 +1264,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 92,
+      "Progressed": 93,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-11-29T05:05:54.5705663+00:00",
+  "LastChanged_Achievements": "2023-11-29T06:06:23.9409962+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:14.6113679+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:57:24.1893957+00:00",
-  "LastUpdate_Achievements": "2023-11-29T05:05:54.5706525+00:00"
+  "LastUpdate_Ratings": "2023-11-29T05:57:52.970931+00:00",
+  "LastUpdate_Achievements": "2023-11-29T06:06:23.9410778+00:00"
 }

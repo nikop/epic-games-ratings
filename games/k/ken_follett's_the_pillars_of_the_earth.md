@@ -6,13 +6,13 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,692 |
+| Tattletale | 40.00% | ~6,693 |
 | Man of politics | 34.00% | ~5,689 |
-| Friends of sorts | 33.00% | ~5,521 |
-| Yet another secret | 33.00% | ~5,521 |
+| Friends of sorts | 33.00% | ~5,522 |
+| Yet another secret | 33.00% | ~5,522 |
 | Let there be darkness | 32.00% | ~5,354 |
-| End of Book One | 30.00% | ~5,019 |
-| Garden of Eden | 24.00% | ~4,015 |
+| End of Book One | 30.00% | ~5,020 |
+| Garden of Eden | 24.00% | ~4,016 |
 | Wannabe knight | 23.00% | ~3,848 |
 | Full house | 23.00% | ~3,848 |
 | Help an old friend | 21.00% | ~3,514 |
@@ -25,7 +25,7 @@ Number of Ratings: 368  (23.09.2022)
 | Jack was here! | 14.00% | ~2,342 |
 | Exterminator | 13.00% | ~2,175 |
 | Whodunnit | 12.00% | ~2,008 |
-| First profit | 11.00% | ~1,840 |
+| First profit | 11.00% | ~1,841 |
 | Good midwife | 10.00% | ~1,673 |
 | Friar Tuck | 10.00% | ~1,673 |
 | Team player | 10.00% | ~1,673 |
@@ -35,7 +35,7 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,506 |
 | The truth revealed | 9.00% | ~1,506 |
 | The End. | 9.00% | ~1,506 |
-| A cry for help | 8.00% | ~1,338 |
+| A cry for help | 8.00% | ~1,339 |
 | Silentium est aureum | 7.00% | ~1,171 |
 | Rebel without a cause | 6.00% | ~1,004 |
 | Staring contest champion | 5.00% | ~837 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~502 |
 | Boy of mystery | 2.00% | ~335 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,731 (Ranked 148)  
+Progressed: 16,732 (Ranked 148)  
 Completed: 116 (0.69%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 116 (0.69%) (Ranked 185)
 | 2023-11-26 | 16,690 | 116 |
 | 2023-11-27 | 16,709 | 116 |
 | 2023-11-28 | 16,728 | 116 |
-| 2023-11-29 | 16,731 | 116 |
+| 2023-11-29 | 16,732 | 116 |
 ## Awards
 Max (Easy Puzzles): 155  (Ranked 315)  
 Sum: 198 (Ranked 400)  

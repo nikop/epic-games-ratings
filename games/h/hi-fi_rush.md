@@ -5,31 +5,31 @@ Rating: 4.87 (Ranked 22)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 19.00% | ~840 |
+| Feeling the beat! | 19.00% | ~841 |
 | Start with a bang! | 18.00% | ~796 |
 | You can pet the cat! | 17.00% | ~752 |
 | Who put gears in there? | 16.00% | ~708 |
-| Cream of the Crop | 15.00% | ~663 |
-| Thanks for the free chip, Peppermint! | 15.00% | ~663 |
+| Cream of the Crop | 15.00% | ~664 |
+| Thanks for the free chip, Peppermint! | 15.00% | ~664 |
 | You got this, Peppermint? | 14.00% | ~619 |
 | Perfect Parry | 13.00% | ~575 |
 | Alright, that felt AWESOME! | 13.00% | ~575 |
 | This will cost you big time | 12.00% | ~531 |
 | Uh, they were broken when I got here | 12.00% | ~531 |
-| I play my own way! | 11.00% | ~486 |
-| Z-shielding's got nothing on us! | 11.00% | ~486 |
-| Kissing the sky! | 11.00% | ~486 |
+| I play my own way! | 11.00% | ~487 |
+| Z-shielding's got nothing on us! | 11.00% | ~487 |
+| Kissing the sky! | 11.00% | ~487 |
 | The Negotiator | 10.00% | ~442 |
 | Whoa! There's ANOTHER health bar!? | 10.00% | ~442 |
-| Headliner | 9.00% | ~398 |
 | You must like calling me in, Chai | 9.00% | ~398 |
 | Out in a puff of smoke | 9.00% | ~398 |
 | I look cool. But I can look COOLER. | 9.00% | ~398 |
 | Does that say weakpoint? | 9.00% | ~398 |
+| Headliner | 8.00% | ~354 |
 | Time to pay up! | 8.00% | ~354 |
 | Who's the boss now? | 8.00% | ~354 |
 | Perfecter Parry-er! | 8.00% | ~354 |
-| NOW we got a kickass hideout! | 8.00% | ~235 |
+| NOW we got a kickass hideout! | 8.00% | ~236 |
 | I have to read these things? | 7.00% | ~310 |
 | Well that was a rush! | 5.00% | ~221 |
 | Beat-hit mania | 5.00% | ~221 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 22)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,422 (Ranked 194)  
+Progressed: 4,424 (Ranked 194)  
 Completed: 8 (0.18%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 8 (0.18%) (Ranked 265)
 | 2023-11-26 | 4,367 | 8 |
 | 2023-11-27 | 4,394 | 8 |
 | 2023-11-28 | 4,417 | 8 |
-| 2023-11-29 | 4,422 | 8 |
+| 2023-11-29 | 4,424 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

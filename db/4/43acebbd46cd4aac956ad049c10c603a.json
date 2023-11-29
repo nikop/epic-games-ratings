@@ -157,9 +157,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 764,
+  "EOS_Progressed": 766,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 336,
+  "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1677,6 +1677,11 @@
       "Time": "2023-11-29T02:00:09.8916994+00:00",
       "NumProgressed": 764,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T06:06:46.2557761+00:00",
+      "NumProgressed": 766,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1703,17 +1708,17 @@
       "ID": "AnthropicHills",
       "SetID": "1n308hc",
       "Name": "Anthropic Hills",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "Archaeologist",
       "SetID": "1n308hc",
       "Name": "Archaeologist",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Balance",
@@ -1799,9 +1804,9 @@
       "ID": "EcstaticTruth",
       "SetID": "1n308hc",
       "Name": "Ecstatic Truth",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Excellent",
@@ -1847,9 +1852,9 @@
       "ID": "HighPlain",
       "SetID": "1n308hc",
       "Name": "High Plain",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "IntoTheMachine",
@@ -1935,9 +1940,9 @@
       "ID": "NotWhatItSeems",
       "SetID": "1n308hc",
       "Name": "Not What It Seems",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Overload",
@@ -1967,9 +1972,9 @@
       "ID": "PuzzleFiend",
       "SetID": "1n308hc",
       "Name": "Puzzle Fiend",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "RemnantsOfThePast",
@@ -2160,7 +2165,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 764,
+      "Progressed": 766,
       "Completed": 1
     }
   ],
@@ -2168,8 +2173,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-28T04:58:21.1400637+00:00",
-  "LastChanged_Achievements": "2023-11-29T05:06:16.9196411+00:00",
+  "LastChanged_Achievements": "2023-11-29T06:06:46.2557752+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6295228+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:58:18.0204011+00:00",
-  "LastUpdate_Achievements": "2023-11-29T05:06:16.9197097+00:00"
+  "LastUpdate_Ratings": "2023-11-29T05:58:49.1346824+00:00",
+  "LastUpdate_Achievements": "2023-11-29T06:06:46.255835+00:00"
 }

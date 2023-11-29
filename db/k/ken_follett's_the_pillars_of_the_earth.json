@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16731,
+  "EOS_Progressed": 16732,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -15098,6 +15098,11 @@
       "Time": "2023-11-29T05:04:10.6281457+00:00",
       "NumProgressed": 16731,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-11-29T06:04:37.6284019+00:00",
+      "NumProgressed": 16732,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15149,7 +15154,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5521
+      "UsersEstimate": 5522
     },
     {
       "ID": "tpote_achievement_15",
@@ -15197,7 +15202,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5521
+      "UsersEstimate": 5522
     },
     {
       "ID": "tpote_achievement_20",
@@ -15213,7 +15218,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 5019
+      "UsersEstimate": 5020
     },
     {
       "ID": "tpote_achievement_22",
@@ -15237,7 +15242,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1840
+      "UsersEstimate": 1841
     },
     {
       "ID": "tpote_achievement_25",
@@ -15325,7 +15330,7 @@
       "Name": "A cry for help",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "tpote_achievement_35",
@@ -15373,7 +15378,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6692
+      "UsersEstimate": 6693
     },
     {
       "ID": "tpote_achievement_40",
@@ -15397,7 +15402,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4015
+      "UsersEstimate": 4016
     },
     {
       "ID": "tpote_achievement_6",
@@ -15436,15 +15441,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16731,
+      "Progressed": 16732,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-29T05:04:10.6281454+00:00",
+  "LastChanged_Achievements": "2023-11-29T06:04:37.6284016+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:06.2264545+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:58:48.4365694+00:00",
-  "LastUpdate_Achievements": "2023-11-29T05:04:10.6282398+00:00"
+  "LastUpdate_Ratings": "2023-11-29T05:59:20.4491874+00:00",
+  "LastUpdate_Achievements": "2023-11-29T06:04:37.6284834+00:00"
 }

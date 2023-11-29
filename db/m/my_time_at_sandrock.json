@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 240,
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1724,7 +1724,7 @@
   ],
   "EOS_Progressed": 491,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4727,9 +4727,9 @@
       "ID": "M_BACKPACK",
       "SetID": "80dcan0",
       "Name": "Pack Mule",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 324
     },
     {
       "ID": "M_COMMISSION",
@@ -4759,9 +4759,9 @@
       "ID": "M_GOLS",
       "SetID": "80dcan0",
       "Name": "Financially Secure",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 280
     },
     {
       "ID": "M_HOME_RANK",
@@ -4807,9 +4807,9 @@
       "ID": "P_CRANELIFT",
       "SetID": "80dcan0",
       "Name": "Better Late than Never",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 255
     },
     {
       "ID": "P_ENVIRONMENT",
@@ -4967,9 +4967,9 @@
       "ID": "S_GAMECOIN",
       "SetID": "80dcan0",
       "Name": "Pro Gamer",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 128
     },
     {
       "ID": "S_GHOST",
@@ -5135,8 +5135,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-11-27T21:58:01.0601305+00:00",
-  "LastChanged_Achievements": "2023-11-29T05:05:34.620664+00:00",
+  "LastChanged_Achievements": "2023-11-29T06:06:03.7345771+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:01.0814627+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:58:16.7117368+00:00",
-  "LastUpdate_Achievements": "2023-11-29T05:05:34.6207163+00:00"
+  "LastUpdate_Ratings": "2023-11-29T05:58:47.7472677+00:00",
+  "LastUpdate_Achievements": "2023-11-29T06:06:03.7346333+00:00"
 }

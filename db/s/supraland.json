@@ -2,7 +2,7 @@
   "ID": "ae373893881044d2bf26d6f8363a120e",
   "Name": "Supraland",
   "ProductSlug": "supraland",
-  "Ranking_Rating": 385,
+  "Ranking_Rating": 386,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 91,
   "Ranking_EOS_Progress": 20,
@@ -3217,9 +3217,9 @@
       "Count": 196
     }
   ],
-  "EOS_Progressed": 734366,
+  "EOS_Progressed": 734368,
   "EOS_Completed": 764,
-  "EOS_NewPlayers": 784,
+  "EOS_NewPlayers": 785,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -28262,6 +28262,11 @@
       "Time": "2023-11-29T04:14:45.4313001+00:00",
       "NumProgressed": 734366,
       "NumCompleted": 764
+    },
+    {
+      "Time": "2023-11-29T06:09:10.8702147+00:00",
+      "NumProgressed": 734368,
+      "NumCompleted": 764
     }
   ],
   "TotalAchievements": 98,
@@ -28329,7 +28334,7 @@
       "Name": "Beam",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 102811
+      "UsersEstimate": 102812
     },
     {
       "ID": "BeatTheBigOne",
@@ -28361,7 +28366,7 @@
       "Name": "Buckle",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 124842
+      "UsersEstimate": 124843
     },
     {
       "ID": "Burglar1",
@@ -28489,7 +28494,7 @@
       "Name": "Double Jump",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 352496
+      "UsersEstimate": 352497
     },
     {
       "ID": "FireFlies",
@@ -28505,7 +28510,7 @@
       "Name": "Through the fire pipe",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 286403
+      "UsersEstimate": 286404
     },
     {
       "ID": "FliesBeam",
@@ -28521,7 +28526,7 @@
       "Name": "Force Cube",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 389214
+      "UsersEstimate": 389215
     },
     {
       "ID": "Force_Cube_Catapult",
@@ -28633,7 +28638,7 @@
       "Name": "Healthbar",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 403901
+      "UsersEstimate": 403902
     },
     {
       "ID": "Healthregen",
@@ -28641,7 +28646,7 @@
       "Name": "Regeneration",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 345152
+      "UsersEstimate": 345153
     },
     {
       "ID": "HelpedAStar",
@@ -28657,7 +28662,7 @@
       "Name": "Climb the hill",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 308434
+      "UsersEstimate": 308435
     },
     {
       "ID": "Holy_Sword",
@@ -28665,7 +28670,7 @@
       "Name": "Holy Sword",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 168904
+      "UsersEstimate": 168905
     },
     {
       "ID": "Horticultural",
@@ -28713,7 +28718,7 @@
       "Name": "Just once",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 271715
+      "UsersEstimate": 271716
     },
     {
       "ID": "MacGuffin",
@@ -28721,7 +28726,7 @@
       "Name": "MacGuffin",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 279059
+      "UsersEstimate": 279060
     },
     {
       "ID": "Magic",
@@ -28785,7 +28790,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 727022
+      "UsersEstimate": 727024
     },
     {
       "ID": "PanicLights",
@@ -28905,7 +28910,7 @@
       "Name": "Fast",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 484682
+      "UsersEstimate": 484683
     },
     {
       "ID": "Strong",
@@ -28937,7 +28942,7 @@
       "Name": "Telefrag",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 168904
+      "UsersEstimate": 168905
     },
     {
       "ID": "The_Blues",
@@ -28945,7 +28950,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 624211
+      "UsersEstimate": 624213
     },
     {
       "ID": "ThroughPipe",
@@ -28985,7 +28990,7 @@
       "Name": "Triple Jump",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 315777
+      "UsersEstimate": 315778
     },
     {
       "ID": "True_Holy_Spirit",
@@ -28993,7 +28998,7 @@
       "Name": "True holy spirit",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 205622
+      "UsersEstimate": 205623
     },
     {
       "ID": "Waldoh",
@@ -29056,15 +29061,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 734366,
+      "Progressed": 734368,
       "Completed": 764
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2023-11-26T18:58:55.5347651+00:00",
-  "LastChanged_Achievements": "2023-11-29T05:09:01.3104535+00:00",
+  "LastChanged_Achievements": "2023-11-29T06:09:10.8702144+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:20.2711294+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:59:07.9256186+00:00",
-  "LastUpdate_Achievements": "2023-11-29T05:09:01.3106242+00:00"
+  "LastUpdate_Ratings": "2023-11-29T05:59:41.0620493+00:00",
+  "LastUpdate_Achievements": "2023-11-29T06:09:10.8703831+00:00"
 }

@@ -203,9 +203,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10240,
+  "EOS_Progressed": 10242,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 2753,
+  "EOS_NewPlayers": 2744,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2463,6 +2463,11 @@
       "Time": "2023-11-29T05:04:51.1118227+00:00",
       "NumProgressed": 10240,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-29T06:05:19.0289747+00:00",
+      "NumProgressed": 10242,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -2531,7 +2536,7 @@
       "Name": "Secrets Out",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "UNLOCK_ALL_4_DOORS_1_3",
@@ -2554,7 +2559,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 10240,
+      "Progressed": 10242,
       "Completed": 34
     }
   ],
@@ -2562,8 +2567,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-11-25T10:00:25.1151094+00:00",
-  "LastChanged_Achievements": "2023-11-29T05:04:51.1118224+00:00",
+  "LastChanged_Achievements": "2023-11-29T06:05:19.0289743+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:17.5649017+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:58:18.2603403+00:00",
-  "LastUpdate_Achievements": "2023-11-29T05:04:51.11184+00:00"
+  "LastUpdate_Ratings": "2023-11-29T05:58:49.3842843+00:00",
+  "LastUpdate_Achievements": "2023-11-29T06:05:19.0289915+00:00"
 }

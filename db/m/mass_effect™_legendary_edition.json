@@ -4921,9 +4921,9 @@
       "ID": "achievement_76",
       "SetID": "d252ncf",
       "Name": "Broke, Blind, and Bedlam",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 492
     },
     {
       "ID": "achievement_77",
@@ -5141,8 +5141,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-29T05:08:48.6509523+00:00",
+  "LastChanged_Achievements": "2023-11-29T06:08:57.7283929+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:10.3433357+00:00",
-  "LastUpdate_Ratings": "2023-11-29T05:02:55.4602723+00:00",
-  "LastUpdate_Achievements": "2023-11-29T05:08:48.6511274+00:00"
+  "LastUpdate_Ratings": "2023-11-29T06:03:19.1941713+00:00",
+  "LastUpdate_Achievements": "2023-11-29T06:08:57.7285394+00:00"
 }

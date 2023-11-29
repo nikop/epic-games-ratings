@@ -1236,17 +1236,17 @@
       "ID": "ach_main02horde_creatures",
       "SetID": "4hg22ll",
       "Name": "For the Horde!",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 394
+      "UsersEstimate": 399
     },
     {
       "ID": "ach_main02horde_traps",
       "SetID": "4hg22ll",
       "Name": "Trap Master",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 266
+      "UsersEstimate": 271
     },
     {
       "ID": "ach_main03demon_completed",
@@ -1699,8 +1699,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-29T05:06:25.4544678+00:00",
+  "LastChanged_Achievements": "2023-11-29T06:06:55.5800067+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:53.3530612+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:59:45.6148091+00:00",
-  "LastUpdate_Achievements": "2023-11-29T05:06:25.4545108+00:00"
+  "LastUpdate_Ratings": "2023-11-29T06:00:19.3868612+00:00",
+  "LastUpdate_Achievements": "2023-11-29T06:06:55.5800481+00:00"
 }

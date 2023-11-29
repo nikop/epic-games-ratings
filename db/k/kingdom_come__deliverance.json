@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 343,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
@@ -8907,9 +8907,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 810365,
+  "EOS_Progressed": 810366,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 1029,
+  "EOS_NewPlayers": 1027,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -33942,6 +33942,11 @@
       "Time": "2023-11-29T05:08:48.2616578+00:00",
       "NumProgressed": 810365,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-11-29T06:08:57.2612376+00:00",
+      "NumProgressed": 810366,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 82,
@@ -33977,7 +33982,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 129658
+      "UsersEstimate": 129659
     },
     {
       "ID": "Awakening",
@@ -34065,7 +34070,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 202591
+      "UsersEstimate": 202592
     },
     {
       "ID": "Chivalrous",
@@ -34113,7 +34118,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 81036
+      "UsersEstimate": 81037
     },
     {
       "ID": "DavidHorak",
@@ -34169,7 +34174,7 @@
       "Name": "Firestarter",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 129658
+      "UsersEstimate": 129659
     },
     {
       "ID": "Freud",
@@ -34273,7 +34278,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 105347
+      "UsersEstimate": 105348
     },
     {
       "ID": "Judas",
@@ -34608,15 +34613,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 810365,
+      "Progressed": 810366,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-11-28T15:58:42.3029063+00:00",
-  "LastChanged_Achievements": "2023-11-29T05:08:48.2616575+00:00",
+  "LastChanged_Achievements": "2023-11-29T06:08:57.2612373+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:02.8106757+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:58:43.4735085+00:00",
-  "LastUpdate_Achievements": "2023-11-29T05:08:48.2618082+00:00"
+  "LastUpdate_Ratings": "2023-11-29T05:59:15.2346098+00:00",
+  "LastUpdate_Achievements": "2023-11-29T06:08:57.2613924+00:00"
 }
