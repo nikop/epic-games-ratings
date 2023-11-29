@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -293,9 +293,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3374,
+  "EOS_Progressed": 3375,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5968,6 +5968,11 @@
       "Time": "2023-11-29T12:05:01.6382953+00:00",
       "NumProgressed": 3374,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T15:04:44.10679+00:00",
+      "NumProgressed": 3375,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -5995,7 +6000,7 @@
       "Name": "Mutual Loyalty",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_BASE_12",
@@ -6027,7 +6032,7 @@
       "Name": "Tiqqun Contender",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_BASE_17",
@@ -6067,7 +6072,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "ACH_BASE_22",
@@ -6091,7 +6096,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "ACH_BASE_25",
@@ -6131,7 +6136,7 @@
       "Name": "A Thousand Strong",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "ACH_BASE_3",
@@ -6139,7 +6144,7 @@
       "Name": "Catastrophe Avoided",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_BASE_30",
@@ -6171,7 +6176,7 @@
       "Name": "Fully Recycled",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "ACH_BASE_34",
@@ -6179,7 +6184,7 @@
       "Name": "Ready for a New World",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "ACH_BASE_35",
@@ -6243,7 +6248,7 @@
       "Name": "Space Greenhouse",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_BASE_45",
@@ -6291,7 +6296,7 @@
       "Name": "Tiqqun Unchained",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_BASE_50",
@@ -6355,7 +6360,7 @@
       "Name": "The Ship of Theseus",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "ACH_BASE_6",
@@ -6371,7 +6376,7 @@
       "Name": "Crunch Culture",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_BASE_61",
@@ -6387,7 +6392,7 @@
       "Name": "Soylent Green",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_BASE_63",
@@ -6434,13 +6439,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1558,
+      "Progressed": 1559,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3374,
+      "Progressed": 3375,
       "Completed": 0
     }
   ],
@@ -6448,8 +6453,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-10-25T12:00:08.7067292+00:00",
-  "LastChanged_Achievements": "2023-11-29T14:05:33.9797905+00:00",
+  "LastChanged_Achievements": "2023-11-29T15:04:44.1067895+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:09.2779829+00:00",
-  "LastUpdate_Ratings": "2023-11-29T14:00:10.286445+00:00",
-  "LastUpdate_Achievements": "2023-11-29T14:05:33.9798462+00:00"
+  "LastUpdate_Ratings": "2023-11-29T14:59:25.2688819+00:00",
+  "LastUpdate_Achievements": "2023-11-29T15:04:44.106874+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -147,9 +147,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7073,
+  "EOS_Progressed": 7077,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1196,
+  "EOS_NewPlayers": 1190,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4917,6 +4917,11 @@
       "Time": "2023-11-29T14:09:46.5580599+00:00",
       "NumProgressed": 7073,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-29T15:09:16.1202486+00:00",
+      "NumProgressed": 7077,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -4937,7 +4942,7 @@
       "Name": "Baby Steps",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1486
     },
     {
       "ID": "BeLikeWater",
@@ -4985,7 +4990,7 @@
       "Name": "Explosive Personality",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "FasterThanLight",
@@ -5001,7 +5006,7 @@
       "Name": "First Time?",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 1980
+      "UsersEstimate": 1982
     },
     {
       "ID": "FuneralForTheDeath",
@@ -5033,7 +5038,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -5073,7 +5078,7 @@
       "Name": "Nasty!",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "NoMoreTotems",
@@ -5081,7 +5086,7 @@
       "Name": "No More Totems",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "NotLikeTheOthers",
@@ -5097,7 +5102,7 @@
       "Name": "One-Star Man",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ScorchSquad",
@@ -5121,7 +5126,7 @@
       "Name": "The Old-School Way",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "TheQuarterback",
@@ -5129,7 +5134,7 @@
       "Name": "The Quarterback",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "ThisIsDharma",
@@ -5153,7 +5158,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -5161,7 +5166,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -5200,7 +5205,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7073,
+      "Progressed": 7077,
       "Completed": 8
     }
   ],
@@ -5208,8 +5213,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-29T13:05:55.0870892+00:00",
-  "LastChanged_Achievements": "2023-11-29T14:09:46.5580596+00:00",
+  "LastChanged_Achievements": "2023-11-29T15:09:16.1202476+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6423909+00:00",
-  "LastUpdate_Ratings": "2023-11-29T13:59:47.4155321+00:00",
-  "LastUpdate_Achievements": "2023-11-29T14:09:46.5580954+00:00"
+  "LastUpdate_Ratings": "2023-11-29T14:59:09.1280199+00:00",
+  "LastUpdate_Achievements": "2023-11-29T15:09:16.120299+00:00"
 }

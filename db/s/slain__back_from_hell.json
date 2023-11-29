@@ -4,11 +4,11 @@
   "ProductSlug": "slain-aea303",
   "Ranking_Rating": 845,
   "Ranking_Popularity": 334,
-  "Ranking_PopularitySum": 431,
+  "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 122,
-  "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_Completed": 309,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -238,9 +238,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 41171,
+  "EOS_Progressed": 41173,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 395,
+  "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -24558,6 +24558,11 @@
       "Time": "2023-11-29T14:05:58.2819674+00:00",
       "NumProgressed": 41171,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-29T15:05:03.2741598+00:00",
+      "NumProgressed": 41173,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -24800,7 +24805,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 41171,
+      "Progressed": 41173,
       "Completed": 26
     }
   ],
@@ -24808,8 +24813,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-11-29T14:05:58.2819671+00:00",
+  "LastChanged_Achievements": "2023-11-29T15:05:03.2741593+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:57.6169847+00:00",
-  "LastUpdate_Ratings": "2023-11-29T13:59:45.878751+00:00",
-  "LastUpdate_Achievements": "2023-11-29T14:05:58.282071+00:00"
+  "LastUpdate_Ratings": "2023-11-29T14:59:07.9658155+00:00",
+  "LastUpdate_Achievements": "2023-11-29T15:05:03.2743612+00:00"
 }

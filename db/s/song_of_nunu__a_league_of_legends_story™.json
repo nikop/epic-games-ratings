@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1011,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -2201,25 +2201,25 @@
       "ID": "EV_ACH04",
       "SetID": "6jeac23",
       "Name": "No Bites",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 546
+      "UsersEstimate": 556
     },
     {
       "ID": "EV_ACH05",
       "SetID": "6jeac23",
       "Name": "Tear of Freedom",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 516
+      "UsersEstimate": 526
     },
     {
       "ID": "EV_ACH06",
       "SetID": "6jeac23",
       "Name": "A Tragic Reminder",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 435
+      "UsersEstimate": 445
     },
     {
       "ID": "EV_ACH07",
@@ -2305,9 +2305,9 @@
       "ID": "EV_ACH17",
       "SetID": "6jeac23",
       "Name": "Iceborn",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 546
+      "UsersEstimate": 556
     },
     {
       "ID": "EV_ACH18",
@@ -2536,8 +2536,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-29T14:10:05.6702524+00:00",
+  "LastChanged_Achievements": "2023-11-29T15:09:30.9290777+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:19.9678993+00:00",
-  "LastUpdate_Ratings": "2023-11-29T14:00:33.2146988+00:00",
-  "LastUpdate_Achievements": "2023-11-29T14:10:05.6702819+00:00"
+  "LastUpdate_Ratings": "2023-11-29T14:59:41.8900566+00:00",
+  "LastUpdate_Achievements": "2023-11-29T15:09:30.9291326+00:00"
 }

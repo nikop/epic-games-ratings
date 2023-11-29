@@ -19,7 +19,7 @@
 | Get out of here! | 56.00% | ~19 |
 | The Circle | 53.00% | ~18 |
 | Necromancer's Apprentice | 50.00% | ~17 |
-| Redecorating | 41.00% | ~14 |
+| Redecorating | 44.00% | ~15 |
 | Friend of Sevenkeeps | 32.00% | ~11 |
 | Slave to the rhythm | 29.00% | ~10 |
 | Bad JuJu | 29.00% | ~10 |

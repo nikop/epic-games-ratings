@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 799,
+  "EOS_Progressed": 800,
   "EOS_Completed": 131,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 16.4,
+  "EOS_Completed_Percentage": 16.38,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3391,6 +3391,11 @@
       "Time": "2023-11-29T13:11:52.021354+00:00",
       "NumProgressed": 799,
       "NumCompleted": 131
+    },
+    {
+      "Time": "2023-11-29T15:04:49.6174065+00:00",
+      "NumProgressed": 800,
+      "NumCompleted": 131
     }
   ],
   "TotalAchievements": 22,
@@ -3402,7 +3407,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "LEVEL_002",
@@ -3410,7 +3415,7 @@
       "Name": "A tiny town",
       "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "LEVEL_003",
@@ -3418,7 +3423,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "LEVEL_004",
@@ -3426,7 +3431,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "LEVEL_005",
@@ -3577,7 +3582,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 799,
+      "Progressed": 800,
       "Completed": 131
     }
   ],
@@ -3585,8 +3590,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-11-29T14:05:41.0054226+00:00",
+  "LastChanged_Achievements": "2023-11-29T15:04:49.6174061+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:17.2540089+00:00",
-  "LastUpdate_Ratings": "2023-11-29T14:00:27.5711085+00:00",
-  "LastUpdate_Achievements": "2023-11-29T14:05:41.0054505+00:00"
+  "LastUpdate_Ratings": "2023-11-29T14:59:37.781713+00:00",
+  "LastUpdate_Achievements": "2023-11-29T15:04:49.6174404+00:00"
 }

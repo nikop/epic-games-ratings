@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -643,9 +643,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471527,
+  "EOS_Progressed": 471528,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 341,
+  "EOS_NewPlayers": 337,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23853,6 +23853,11 @@
       "Time": "2023-11-29T14:10:09.3889974+00:00",
       "NumProgressed": 471527,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-29T15:09:33.9833071+00:00",
+      "NumProgressed": 471528,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -23880,7 +23885,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113166
+      "UsersEstimate": 113167
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -24040,7 +24045,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94305
+      "UsersEstimate": 94306
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -24048,7 +24053,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160319
+      "UsersEstimate": 160320
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -24495,21 +24500,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15461,
+      "Progressed": 15462,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471527,
+      "Progressed": 471528,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-29T14:10:09.3889972+00:00",
+  "LastChanged_Achievements": "2023-11-29T15:09:33.9833067+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:35.6450304+00:00",
-  "LastUpdate_Ratings": "2023-11-29T13:57:59.6213245+00:00",
-  "LastUpdate_Achievements": "2023-11-29T14:10:09.3891663+00:00"
+  "LastUpdate_Ratings": "2023-11-29T14:57:49.4353379+00:00",
+  "LastUpdate_Achievements": "2023-11-29T15:09:33.9835013+00:00"
 }

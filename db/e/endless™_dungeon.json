@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -2312,9 +2312,9 @@
       "ID": "ACHIEVEMENT_BLOB_BOSS",
       "SetID": "9991201",
       "Name": "Blobmeister",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 327
+      "UsersEstimate": 339
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -2527,8 +2527,8 @@
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-29T14:05:40.0258444+00:00",
+  "LastChanged_Achievements": "2023-11-29T15:04:48.8692757+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.3423297+00:00",
-  "LastUpdate_Ratings": "2023-11-29T14:01:17.5287434+00:00",
-  "LastUpdate_Achievements": "2023-11-29T14:05:40.0258678+00:00"
+  "LastUpdate_Ratings": "2023-11-29T15:00:15.0744234+00:00",
+  "LastUpdate_Achievements": "2023-11-29T15:04:48.8693112+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -553,7 +553,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2806,
+  "EOS_Progressed": 2808,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 0,
@@ -8358,6 +8358,11 @@
       "Time": "2023-11-29T14:09:28.3505203+00:00",
       "NumProgressed": 2806,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-29T15:09:02.1786821+00:00",
+      "NumProgressed": 2808,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -8449,7 +8454,7 @@
       "Name": "Crystal Mining",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "dailyquestcompletionist",
@@ -8489,7 +8494,7 @@
       "Name": "Dragon Slayer",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ebonyjungleliberator",
@@ -8561,7 +8566,7 @@
       "Name": "Four Leaf Clover",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "frostfireliberator",
@@ -8601,7 +8606,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "herewegoagain",
@@ -8609,7 +8614,7 @@
       "Name": "Here We Go Again",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "heroinspection",
@@ -8681,7 +8686,7 @@
       "Name": "Master Enchanter",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "mastery",
@@ -8761,7 +8766,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1487
+      "UsersEstimate": 1488
     },
     {
       "ID": "prestigiousx10",
@@ -8769,7 +8774,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "relicofthepast",
@@ -8825,7 +8830,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1599
+      "UsersEstimate": 1601
     },
     {
       "ID": "thealchemist",
@@ -8849,7 +8854,7 @@
       "Name": "The father of Dragons",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "thegameison",
@@ -8857,7 +8862,7 @@
       "Name": "The game is on",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "thepowerofawakening",
@@ -8889,7 +8894,7 @@
       "Name": "Trader",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -8929,7 +8934,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2610
+      "UsersEstimate": 2611
     },
     {
       "ID": "warmachinesarmy",
@@ -8945,7 +8950,7 @@
       "Name": "Weekly Quest Completionist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "whatliesbehindthebush",
@@ -8961,14 +8966,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2189
+      "UsersEstimate": 2190
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2806,
+      "Progressed": 2808,
       "Completed": 2
     }
   ],
@@ -8976,8 +8981,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-28T14:02:57.4349611+00:00",
-  "LastChanged_Achievements": "2023-11-29T14:09:28.3505198+00:00",
+  "LastChanged_Achievements": "2023-11-29T15:09:02.1786813+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:01.7095439+00:00",
-  "LastUpdate_Ratings": "2023-11-29T13:57:20.6550383+00:00",
-  "LastUpdate_Achievements": "2023-11-29T14:09:28.3506101+00:00"
+  "LastUpdate_Ratings": "2023-11-29T14:57:19.7428375+00:00",
+  "LastUpdate_Achievements": "2023-11-29T15:09:02.1787895+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1514,9 +1514,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131393,
+  "EOS_Progressed": 131397,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 331,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -23314,6 +23314,11 @@
       "Time": "2023-11-29T14:03:49.9332266+00:00",
       "NumProgressed": 131393,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-29T15:03:23.6989483+00:00",
+      "NumProgressed": 131397,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -23373,7 +23378,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11825
+      "UsersEstimate": 11826
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -23381,7 +23386,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31534
+      "UsersEstimate": 31535
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -23389,7 +23394,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11825
+      "UsersEstimate": 11826
     },
     {
       "ID": "ACH_COP_DORK",
@@ -23405,7 +23410,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36790
+      "UsersEstimate": 36791
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -23429,7 +23434,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21023
+      "UsersEstimate": 21024
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -23453,7 +23458,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 17081
+      "UsersEstimate": 17082
     },
     {
       "ID": "ACH_COP_STAR",
@@ -23461,7 +23466,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21023
+      "UsersEstimate": 21024
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -23469,7 +23474,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14453
+      "UsersEstimate": 14454
     },
     {
       "ID": "ACH_CUNO",
@@ -23485,7 +23490,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 13139
+      "UsersEstimate": 13140
     },
     {
       "ID": "ACH_GLUTEN",
@@ -23541,7 +23546,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 18395
+      "UsersEstimate": 18396
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -23605,7 +23610,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 18395
+      "UsersEstimate": 18396
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -23644,15 +23649,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131393,
+      "Progressed": 131397,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-28T12:00:15.5937153+00:00",
-  "LastChanged_Achievements": "2023-11-29T14:03:49.933226+00:00",
+  "LastChanged_Achievements": "2023-11-29T15:03:23.6989479+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:19.415585+00:00",
-  "LastUpdate_Ratings": "2023-11-29T14:00:32.5281653+00:00",
-  "LastUpdate_Achievements": "2023-11-29T14:03:49.9333256+00:00"
+  "LastUpdate_Ratings": "2023-11-29T14:59:41.331513+00:00",
+  "LastUpdate_Achievements": "2023-11-29T15:03:23.6990986+00:00"
 }

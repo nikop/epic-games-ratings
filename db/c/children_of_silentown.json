@@ -4,8 +4,8 @@
   "ProductSlug": "children-of-silentown-52cc21",
   "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 379,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
     "PcReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 222,
+  "EOS_Progressed": 223,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -431,6 +431,11 @@
       "Time": "2023-11-28T19:04:55.6406105+00:00",
       "NumProgressed": 222,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T15:04:15.4002074+00:00",
+      "NumProgressed": 223,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -440,9 +445,9 @@
       "ID": "BlueTrick",
       "SetID": "9kk0gal",
       "Name": "Blue\u0027s drawing",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 118
+      "UsersEstimate": 116
     },
     {
       "ID": "Cat",
@@ -456,17 +461,17 @@
       "ID": "Cellar",
       "SetID": "9kk0gal",
       "Name": "Glass shards",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 98
     },
     {
       "ID": "DogHair",
       "SetID": "9kk0gal",
       "Name": "Coal\u0027s fur",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 129
+      "UsersEstimate": 127
     },
     {
       "ID": "Doll",
@@ -530,7 +535,7 @@
       "Name": "Complicated padlock",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "Furball",
@@ -546,7 +551,7 @@
       "Name": "Mysterious paintings",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "HugeSnail",
@@ -562,7 +567,7 @@
       "Name": "Egghead Lucy",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "Offroad",
@@ -602,15 +607,15 @@
       "Name": "Spyglass",
       "Percentage": 83,
       "XP": 30,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "Toy",
       "SetID": "9kk0gal",
       "Name": "Broken toy",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 169
     },
     {
       "ID": "Trinket",
@@ -618,23 +623,23 @@
       "Name": "Lucky charm",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "Trumpet",
       "SetID": "9kk0gal",
       "Name": "Trumpet",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 196
     },
     {
       "ID": "Well",
       "SetID": "9kk0gal",
       "Name": "Depths of the well",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 58
     },
     {
       "ID": "Windmill",
@@ -649,7 +654,7 @@
     {
       "ID": "9kk0gal",
       "IsBase": true,
-      "Progressed": 222,
+      "Progressed": 223,
       "Completed": 0
     }
   ],
@@ -657,8 +662,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-11-29T14:04:56.5287359+00:00",
+  "LastChanged_Achievements": "2023-11-29T15:04:15.400207+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:14.2711259+00:00",
-  "LastUpdate_Ratings": "2023-11-29T14:00:20.0810616+00:00",
-  "LastUpdate_Achievements": "2023-11-29T14:04:56.5287524+00:00"
+  "LastUpdate_Ratings": "2023-11-29T14:59:32.2262975+00:00",
+  "LastUpdate_Achievements": "2023-11-29T15:04:15.4002301+00:00"
 }

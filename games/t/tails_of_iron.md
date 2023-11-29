@@ -26,7 +26,7 @@ Rating: 4.55 (Ranked 505)
 | Return Power To The Depths | 36.00% | ~781 |
 | Defeat Ratnor Rodentson | 30.00% | ~651 |
 | Return the Statues | 27.00% | ~586 |
-| Defeat Rattus Augustail | 26.00% | ~564 |
+| Defeat Rattus Augustail | 27.00% | ~586 |
 | Complete the Chefs Book | 25.00% | ~542 |
 | Complete Ranger Faction | 21.00% | ~456 |
 | Defeat Avor Warden of the Northern Wastes | 20.00% | ~434 |
@@ -34,10 +34,10 @@ Rating: 4.55 (Ranked 505)
 | Complete Arena Faction | 16.00% | ~347 |
 | Complete Redgi's Armory | 8.00% | ~174 |
 | King of Kings | 8.00% | ~174 |
-| A new Warchief rises | 0.90% | ~20 |
+| A new Warchief rises | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,170 (Ranked 223)  
-Completed: 10 (0.46%) (Ranked 211)  
+Completed: 11 (0.51%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -214,7 +214,7 @@ Completed: 10 (0.46%) (Ranked 211)
 | 2023-11-26 | 2,128 | 9 |
 | 2023-11-27 | 2,144 | 10 |
 | 2023-11-28 | 2,163 | 11 |
-| 2023-11-29 | 2,170 | 10 |
+| 2023-11-29 | 2,170 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

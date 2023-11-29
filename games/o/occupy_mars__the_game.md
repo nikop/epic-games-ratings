@@ -1,7 +1,7 @@
 # Occupy Mars: The Game
 [Store](https://store.epicgames.com/en-US/p/occupy-mars)  
 [View Rawdata](../../db/o/occupy_mars__the_game.json)  
-Rating: 4.03 (Ranked 994)  
+Rating: 4.03 (Ranked 995)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,21 +11,21 @@ Rating: 4.03 (Ranked 994)
 | Zero Waste | 30.00% | ~525 |
 | Occupy Mars! | 30.00% | ~525 |
 | Bob The Builder | 30.00% | ~525 |
-| I am the greatest botanist on this planet. | 29.00% | ~507 |
+| I am the greatest botanist on this planet. | 29.00% | ~508 |
 | Gardener | 26.00% | ~455 |
 | Miner | 26.00% | ~455 |
-| Houston we have a problem | 23.00% | ~402 |
-| Detective | 19.00% | ~332 |
+| Houston we have a problem | 23.00% | ~403 |
+| Detective | 19.00% | ~333 |
 | The Collector | 18.00% | ~315 |
-| Get your hands dirty | 11.00% | ~192 |
+| Get your hands dirty | 11.00% | ~193 |
 | Space Forest | 10.00% | ~175 |
 | All Wheel Trouble | 8.00% | ~140 |
 | DeDust | 5.00% | ~88 |
 | ITS crash site | 5.00% | ~88 |
 | “Aliens” | 4.00% | ~70 |
 | Plumber | 4.00% | ~70 |
-| Hard Landing | 3.00% | ~52 |
-| To infinity and beyond! | 3.00% | ~52 |
+| Hard Landing | 3.00% | ~53 |
+| To infinity and beyond! | 3.00% | ~53 |
 | Driver's License | 2.00% | ~35 |
 | Explosive Miner | 2.00% | ~35 |
 | Planetary Defence | 2.00% | ~35 |
@@ -54,7 +54,7 @@ Rating: 4.03 (Ranked 994)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,750 (Ranked 233)  
+Progressed: 1,751 (Ranked 233)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,6 +246,7 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-26 | 1,743 | 0 |
 | 2023-11-27 | 1,747 | 0 |
 | 2023-11-28 | 1,750 | 0 |
+| 2023-11-29 | 1,751 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

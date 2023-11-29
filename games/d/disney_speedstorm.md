@@ -5,32 +5,32 @@ Rating: 4.40 (Ranked 737)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 11.00% | ~34,811 |
-| IT MAKES BOOM! | 7.00% | ~22,152 |
-| EXTRA BOOST | 5.00% | ~15,823 |
-| PROTECTED | 4.00% | ~12,659 |
-| PRO | 4.00% | ~12,659 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,494 |
-| AGGRESSIVE RACER | 3.00% | ~9,494 |
-| A TIGER'S FEAR | 2.00% | ~6,329 |
+| ROOKIE | 11.00% | ~34,815 |
+| IT MAKES BOOM! | 7.00% | ~22,155 |
+| EXTRA BOOST | 5.00% | ~15,825 |
+| PROTECTED | 4.00% | ~12,660 |
+| PRO | 4.00% | ~12,660 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,495 |
+| AGGRESSIVE RACER | 3.00% | ~9,495 |
+| A TIGER'S FEAR | 2.00% | ~6,330 |
 | IT'S A LONG WAY TO THE TOP | 1.00% | ~3,165 |
 | ACE SPEEDSTER | 1.00% | ~3,165 |
-| RELEASE THE KRAKEN | 0.90% | ~2,848 |
-| BE OUR GUEST | 0.90% | ~2,848 |
-| MASTER | 0.90% | ~2,848 |
-| LEGENDARY HERO | 0.90% | ~2,848 |
+| RELEASE THE KRAKEN | 0.90% | ~2,849 |
+| BE OUR GUEST | 0.90% | ~2,849 |
+| MASTER | 0.90% | ~2,849 |
+| LEGENDARY HERO | 0.90% | ~2,849 |
 | TRAINING HARD | 0.80% | ~2,532 |
 | DEFEAT OUR CHAMPION | 0.80% | ~2,532 |
 | FRIENDLY | 0.80% | ~2,532 |
-| THE EYE OF THE HUNTER | 0.70% | ~2,215 |
+| THE EYE OF THE HUNTER | 0.70% | ~2,216 |
 | EXPERIENCED CREW | 0.60% | ~1,899 |
-| ACE DEFENDER | 0.50% | ~1,582 |
+| ACE DEFENDER | 0.50% | ~1,583 |
 | ACE BRAWLER | 0.40% | ~1,266 |
 | ACE TRICKSTER | 0.40% | ~1,266 |
-| FRAMED! | 0.30% | ~949 |
+| FRAMED! | 0.30% | ~950 |
 | PERFECTLY POISED | 0.20% | ~633 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 316,463 (Ranked 52)  
+Progressed: 316,502 (Ranked 52)  
 Completed: 347 (0.11%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 347 (0.11%) (Ranked 281)
 | 2023-11-26 | 314,023 | 333 |
 | 2023-11-27 | 315,001 | 338 |
 | 2023-11-28 | 315,946 | 344 |
-| 2023-11-29 | 316,463 | 347 |
+| 2023-11-29 | 316,502 | 347 |
 ## Awards
 Max (Great for Beginners): 93  (Ranked 375)  
 Sum: 680 (Ranked 299)  

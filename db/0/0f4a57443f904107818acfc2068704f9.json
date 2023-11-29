@@ -4,8 +4,8 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 761,
+  "EOS_Progressed": 762,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 387,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1537,6 +1537,11 @@
       "Time": "2023-11-29T12:04:15.5093506+00:00",
       "NumProgressed": 761,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T15:03:57.6516487+00:00",
+      "NumProgressed": 762,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1605,7 +1610,7 @@
       "Name": "Pathfinder",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "CompleteChapter10",
@@ -1613,7 +1618,7 @@
       "Name": "You da Boss, Now",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "CompleteChapter11",
@@ -1693,7 +1698,7 @@
       "Name": "Met the Enemy",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "CompleteChapter3",
@@ -1701,7 +1706,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "CompleteChapter4",
@@ -1709,7 +1714,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "CompleteChapter5",
@@ -1717,7 +1722,7 @@
       "Name": "Breathing Easy",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "CompleteChapter6",
@@ -1725,7 +1730,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "CompleteChapter7",
@@ -1797,7 +1802,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1821,7 +1826,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Win50ConquestBattles",
@@ -1844,14 +1849,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 761,
+      "Progressed": 762,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-29T14:04:33.2179783+00:00",
+  "LastChanged_Achievements": "2023-11-29T15:03:57.6516482+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-29T13:57:13.9375476+00:00",
-  "LastUpdate_Achievements": "2023-11-29T14:04:33.2180033+00:00"
+  "LastUpdate_Ratings": "2023-11-29T14:57:14.8874038+00:00",
+  "LastUpdate_Achievements": "2023-11-29T15:03:57.6516748+00:00"
 }
