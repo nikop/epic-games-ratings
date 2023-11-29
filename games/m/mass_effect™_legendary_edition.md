@@ -7,7 +7,7 @@
 | Distinguished Service Medal | 93.00% | ~1,346 |
 | Spectre Inductee | 80.00% | ~1,158 |
 | Medal of Exploration I | 72.00% | ~1,042 |
-| Recruit | 67.00% | ~969 |
+| Recruit | 68.00% | ~984 |
 | Search and Rescue | 67.00% | ~969 |
 | Quarian Ally | 63.00% | ~912 |
 | Medal of Heroism | 60.00% | ~868 |

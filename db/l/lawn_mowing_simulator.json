@@ -2206,9 +2206,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 684312,
+  "EOS_Progressed": 684316,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 1596,
+  "EOS_NewPlayers": 1594,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27671,6 +27671,11 @@
       "Time": "2023-11-29T03:09:26.2060927+00:00",
       "NumProgressed": 684312,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-29T04:15:32.8615756+00:00",
+      "NumProgressed": 684316,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 54,
@@ -27682,7 +27687,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 540606
+      "UsersEstimate": 540610
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -27762,7 +27767,7 @@
       "Name": "Where there\u0027s muck there\u0027s brass",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27372
+      "UsersEstimate": 27373
     },
     {
       "ID": "COMPLETE_ONE_CONTRACT",
@@ -27770,7 +27775,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 246352
+      "UsersEstimate": 246354
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -27922,7 +27927,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 212137
+      "UsersEstimate": 212138
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -28002,7 +28007,7 @@
       "Name": "Bigger and better",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27372
+      "UsersEstimate": 27373
     },
     {
       "ID": "PICK_UP_250_OBJECTS",
@@ -28034,7 +28039,7 @@
       "Name": "Worked your grass off",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 5474
+      "UsersEstimate": 5475
     },
     {
       "ID": "RP_CREDIBLE",
@@ -28082,7 +28087,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 123176
+      "UsersEstimate": 123177
     },
     {
       "ID": "RP_TRUSTED",
@@ -28106,22 +28111,22 @@
       "Name": "Aggressive expansion",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 27372
+      "UsersEstimate": 27373
     }
   ],
   "AchievementSets": [
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 684312,
+      "Progressed": 684316,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-11-27T01:45:56.2783952+00:00",
-  "LastChanged_Achievements": "2023-11-29T03:09:26.2060924+00:00",
+  "LastChanged_Achievements": "2023-11-29T04:15:32.8615754+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:21.4586634+00:00",
-  "LastUpdate_Ratings": "2023-11-29T02:59:28.0970469+00:00",
-  "LastUpdate_Achievements": "2023-11-29T03:09:26.2062485+00:00"
+  "LastUpdate_Ratings": "2023-11-29T04:05:42.6222062+00:00",
+  "LastUpdate_Achievements": "2023-11-29T04:15:32.861708+00:00"
 }

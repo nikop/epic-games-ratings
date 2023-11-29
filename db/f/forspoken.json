@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 343,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -427,9 +427,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 43107,
+  "EOS_Progressed": 43108,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13642,6 +13642,11 @@
       "Time": "2023-11-29T02:27:37.1837575+00:00",
       "NumProgressed": 43107,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-29T04:11:56.9086241+00:00",
+      "NumProgressed": 43108,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -13805,7 +13810,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3017
+      "UsersEstimate": 3018
     },
     {
       "ID": "CUFF_ATTACK",
@@ -14076,22 +14081,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 43107,
+      "Progressed": 43108,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 7944,
-      "Completed": 7944
+      "Progressed": 7945,
+      "Completed": 7945
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-11-02T16:59:48.513459+00:00",
-  "LastChanged_Achievements": "2023-11-29T03:05:11.0147201+00:00",
+  "LastChanged_Achievements": "2023-11-29T04:11:56.9086237+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:10.8816772+00:00",
-  "LastUpdate_Ratings": "2023-11-29T03:00:15.3147254+00:00",
-  "LastUpdate_Achievements": "2023-11-29T03:05:11.0148103+00:00"
+  "LastUpdate_Ratings": "2023-11-29T04:07:42.7880322+00:00",
+  "LastUpdate_Achievements": "2023-11-29T04:11:56.9087083+00:00"
 }

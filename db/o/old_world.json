@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2046,9 +2046,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15535,
+  "EOS_Progressed": 15536,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16736,6 +16736,11 @@
       "Time": "2023-11-29T01:58:48.0067771+00:00",
       "NumProgressed": 15535,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-29T04:12:04.1314258+00:00",
+      "NumProgressed": 15536,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -18409,9 +18414,9 @@
       "ID": "ACHIEVEMENT_OLD_WORLD_ORDER",
       "SetID": "9201eeb",
       "Name": "Old World Order",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_ONE_TRUE_FAITH",
@@ -18449,9 +18454,9 @@
       "ID": "ACHIEVEMENT_PLAY_FFA",
       "SetID": "9201eeb",
       "Name": "Play a Free-For-All Game (\u003E2 Players)",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 62
     },
     {
       "ID": "ACHIEVEMENT_PLAY_HOTSEAT",
@@ -18499,7 +18504,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -18641,9 +18646,9 @@
       "ID": "ACHIEVEMENT_ROMA_PANTHEON",
       "SetID": "9201eeb",
       "Name": "Pantheon in Roma",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_STAT_SEVEN_WONDERS",
@@ -19482,21 +19487,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15535,
+      "Progressed": 15536,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15535,
+      "Progressed": 15536,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-27T16:01:26.663656+00:00",
-  "LastChanged_Achievements": "2023-11-29T03:05:16.0561556+00:00",
+  "LastChanged_Achievements": "2023-11-29T04:12:04.1314253+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.3516564+00:00",
-  "LastUpdate_Ratings": "2023-11-29T02:57:30.8488382+00:00",
-  "LastUpdate_Achievements": "2023-11-29T03:05:16.0574095+00:00"
+  "LastUpdate_Ratings": "2023-11-29T04:02:45.6962526+00:00",
+  "LastUpdate_Achievements": "2023-11-29T04:12:04.1322962+00:00"
 }

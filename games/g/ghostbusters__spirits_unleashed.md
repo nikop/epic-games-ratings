@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.51 (Ranked 571)  
+Rating: 4.50 (Ranked 591)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -45,7 +45,7 @@ Rating: 4.51 (Ranked 571)
 | Reckless | 1.00% | ~317 |
 | Rivalry | 1.00% | ~317 |
 | Terrifying | 1.00% | ~317 |
-| Surprise! | 0.90% | ~285 |
+| Surprise! | 0.90% | ~286 |
 | Therapeutic | 0.70% | ~222 |
 | Master Collector | 0.50% | ~159 |
 | Rift Seeker | 0.50% | ~159 |
@@ -57,7 +57,7 @@ Rating: 4.51 (Ranked 571)
 | Line em' up | 0.10% | ~32 |
 | Ultimate Defense | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,722 (Ranked 124)  
+Progressed: 31,724 (Ranked 124)  
 Completed: 69 (0.22%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,16 +280,16 @@ Completed: 69 (0.22%) (Ranked 255)
 | 2023-11-26 | 31,638 | 69 |
 | 2023-11-27 | 31,673 | 69 |
 | 2023-11-28 | 31,716 | 69 |
-| 2023-11-29 | 31,722 | 69 |
+| 2023-11-29 | 31,724 | 69 |
 ## Awards
 Max (Great for Beginners): 319  (Ranked 251)  
-Sum: 2,858 (Ranked 178)  
+Sum: 2,859 (Ranked 178)  
 Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 319 |
 | This game is Great for Quick Sessions | 313 |
-| This game has Diverse Characters | 299 |
+| This game has Diverse Characters | 300 |
 | This game is Highly Recommended | 283 |
 | This game has Amazing Storytelling | 282 |
 | This game has Competitive Players | 280 |
@@ -526,3 +526,4 @@ Diff (max vs sum): 73
 | 2023-11-26 | 4.50 | 319 | 2,851 |
 | 2023-11-27 | 4.50 | 319 | 2,857 |
 | 2023-11-28 | 4.51 | 319 | 2,858 |
+| 2023-11-29 | 4.50 | 319 | 2,859 |

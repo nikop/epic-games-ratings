@@ -4,8 +4,8 @@
 Rating: 4.62 (Ranked 366)  
 ## Awards
 Max (Highly Recommended): 47  (Ranked 443)  
-Sum: 274 (Ranked 377)  
-Diff (max vs sum): 66  
+Sum: 275 (Ranked 376)  
+Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 47 |
@@ -16,7 +16,7 @@ Diff (max vs sum): 66
 | This game is Extremely Fun | 36 |
 | This game is Great for Quick Sessions | 36 |
 | This game has Amazing Storytelling | 35 |
-| This game has Amazing Characters | 30 |
+| This game has Amazing Characters | 31 |
 | This game has Competitive Players | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -82,4 +82,4 @@ Diff (max vs sum): 66
 | 2023-11-24 | 4.62 | 46 | 267 |
 | 2023-11-27 | 4.62 | 46 | 268 |
 | 2023-11-28 | 4.62 | 47 | 269 |
-| 2023-11-29 | 4.62 | 47 | 274 |
+| 2023-11-29 | 4.62 | 47 | 275 |

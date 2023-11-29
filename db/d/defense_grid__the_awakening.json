@@ -2062,9 +2062,9 @@
       "Count": 73
     }
   ],
-  "EOS_Progressed": 490590,
+  "EOS_Progressed": 490591,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 395,
+  "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25417,6 +25417,11 @@
       "Time": "2023-11-29T01:56:25.3695819+00:00",
       "NumProgressed": 490590,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-29T04:09:39.0862785+00:00",
+      "NumProgressed": 490591,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 87,
@@ -25444,7 +25449,7 @@
       "Name": "Arsenal",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 225671
+      "UsersEstimate": 225672
     },
     {
       "ID": "BASEDEFENDER",
@@ -25484,7 +25489,7 @@
       "Name": "Burn Baby Burn",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 289448
+      "UsersEstimate": 289449
     },
     {
       "ID": "CHAS",
@@ -25524,7 +25529,7 @@
       "Name": "Close Call",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 245295
+      "UsersEstimate": 245296
     },
     {
       "ID": "COMBATTURMOIL",
@@ -25556,7 +25561,7 @@
       "Name": "Death From Above",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 78494
+      "UsersEstimate": 78495
     },
     {
       "ID": "DIVERSITY",
@@ -25572,7 +25577,7 @@
       "Name": "Eradicator",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 328695
+      "UsersEstimate": 328696
     },
     {
       "ID": "EXTERMINATOR",
@@ -25580,7 +25585,7 @@
       "Name": "Exterminator",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 176612
+      "UsersEstimate": 176613
     },
     {
       "ID": "FAITHFULCOMPANION",
@@ -25620,7 +25625,7 @@
       "Name": "First Blood",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 397378
+      "UsersEstimate": 397379
     },
     {
       "ID": "FLAWLESSVICTORY",
@@ -25700,7 +25705,7 @@
       "Name": "Happy Returns",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 382660
+      "UsersEstimate": 382661
     },
     {
       "ID": "HEADTRAUMA",
@@ -25716,7 +25721,7 @@
       "Name": "Hey! That\u0027s mine!",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 382660
+      "UsersEstimate": 382661
     },
     {
       "ID": "HIGHVOLTAGE",
@@ -25764,7 +25769,7 @@
       "Name": "Leadhead",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 348319
+      "UsersEstimate": 348320
     },
     {
       "ID": "LIQUIDATOR",
@@ -25876,7 +25881,7 @@
       "Name": "Penny Pincher",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 240389
+      "UsersEstimate": 240390
     },
     {
       "ID": "PEWPEW",
@@ -25884,7 +25889,7 @@
       "Name": "Pew Pew",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 245295
+      "UsersEstimate": 245296
     },
     {
       "ID": "PLANETARYSERVICE",
@@ -25940,7 +25945,7 @@
       "Name": "Retry",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 78494
+      "UsersEstimate": 78495
     },
     {
       "ID": "RETRYAGAIN",
@@ -26092,7 +26097,7 @@
       "Name": "What IS that?",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 245295
+      "UsersEstimate": 245296
     },
     {
       "ID": "XENOCIDE",
@@ -26108,7 +26113,7 @@
       "Name": "Yellow Beats Green",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 274730
+      "UsersEstimate": 274731
     },
     {
       "ID": "YOUMONSTER",
@@ -26123,15 +26128,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 490590,
+      "Progressed": 490591,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2023-11-29T01:52:46.4996179+00:00",
-  "LastChanged_Achievements": "2023-11-29T03:03:33.7004992+00:00",
+  "LastChanged_Achievements": "2023-11-29T04:09:39.0862781+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:28.3034659+00:00",
-  "LastUpdate_Ratings": "2023-11-29T02:59:42.232265+00:00",
-  "LastUpdate_Achievements": "2023-11-29T03:03:33.7006906+00:00"
+  "LastUpdate_Ratings": "2023-11-29T04:06:03.8045367+00:00",
+  "LastUpdate_Achievements": "2023-11-29T04:09:39.0864337+00:00"
 }

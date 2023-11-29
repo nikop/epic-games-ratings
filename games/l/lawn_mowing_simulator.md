@@ -6,17 +6,17 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 79.00% | ~540,606 |
-| Every story has a beginning | 36.00% | ~246,352 |
-| The first of many | 31.00% | ~212,137 |
-| Positive word of mouth | 18.00% | ~123,176 |
+| The dream begins | 79.00% | ~540,610 |
+| Every story has a beginning | 36.00% | ~246,354 |
+| The first of many | 31.00% | ~212,138 |
+| Positive word of mouth | 18.00% | ~123,177 |
 | Lawn in the U.S.A. | 15.00% | ~102,647 |
 | Blade Runner | 9.00% | ~61,588 |
 | Credible | 7.00% | ~47,902 |
 | Teamwork makes the dream work | 6.00% | ~41,059 |
-| Where there's muck there's brass | 4.00% | ~27,372 |
-| Bigger and better | 4.00% | ~27,372 |
-| Aggressive expansion | 4.00% | ~27,372 |
+| Where there's muck there's brass | 4.00% | ~27,373 |
+| Bigger and better | 4.00% | ~27,373 |
+| Aggressive expansion | 4.00% | ~27,373 |
 | Size isn't everything | 3.00% | ~20,529 |
 | Close shave | 3.00% | ~20,529 |
 | Established | 3.00% | ~20,529 |
@@ -33,7 +33,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Jack of all trades | 0.90% | ~6,159 |
 | All hands on deck | 0.90% | ~6,159 |
 | Professional | 0.90% | ~6,159 |
-| Worked your grass off | 0.80% | ~5,474 |
+| Worked your grass off | 0.80% | ~5,475 |
 | Phoenix rises | 0.40% | ~2,737 |
 | Cut Loose | 0.40% | ~2,737 |
 | Esteemed | 0.40% | ~2,737 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~684 |
 | Mo mowers, mo problems | 0.10% | ~684 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 684,312 (Ranked 27)  
+Progressed: 684,316 (Ranked 27)  
 Completed: 18 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 18 (0.00%) (Ranked 363)
 | 2023-11-26 | 683,871 | 18 |
 | 2023-11-27 | 684,102 | 18 |
 | 2023-11-28 | 684,282 | 18 |
-| 2023-11-29 | 684,312 | 18 |
+| 2023-11-29 | 684,316 | 18 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 300)  
 Sum: 989 (Ranked 263)  

@@ -1,18 +1,18 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.50 (Ranked 592)  
+Rating: 4.50 (Ranked 591)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~311,199 |
-| Jeef Skeejj | 44.00% | ~207,466 |
-| Careful planning | 39.00% | ~183,890 |
-| Second Coming | 34.00% | ~160,314 |
+| The Shutdown | 66.00% | ~311,200 |
+| Jeef Skeejj | 44.00% | ~207,467 |
+| Careful planning | 39.00% | ~183,891 |
+| Second Coming | 34.00% | ~160,315 |
 | Jeef Skagg | 30.00% | ~141,454 |
-| Mother | 25.00% | ~117,878 |
-| In space, no one can hear you scream | 24.00% | ~113,163 |
+| Mother | 25.00% | ~117,879 |
+| In space, no one can hear you scream | 24.00% | ~113,164 |
 | Chapter I: Echoes | 22.00% | ~103,733 |
 | Excelsior Rule | 22.00% | ~103,733 |
 | Things persisted in not being what they seemed | 20.00% | ~94,303 |
@@ -20,9 +20,9 @@ Number of Ratings: 1,003  (23.09.2022)
 | May His passing cleanse the world | 15.00% | ~70,727 |
 | Chapter II: Fallible Flesh | 15.00% | ~70,727 |
 | Pope Zenon | 15.00% | ~70,727 |
-| Tetsuo | 11.00% | ~51,866 |
-| Plan for the worst | 11.00% | ~51,866 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~47,151 |
+| Tetsuo | 11.00% | ~51,867 |
+| Plan for the worst | 11.00% | ~51,867 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~47,152 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,721 |
 | Through the mirror | 8.00% | ~37,721 |
 | General Vivar | 8.00% | ~37,721 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~15 |
 | Kronos Rule | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 471,513 (Ranked 40)  
+Progressed: 471,515 (Ranked 40)  
 Completed: 20 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 20 (0.00%) (Ranked 363)
 | 2023-11-26 | 471,412 | 20 |
 | 2023-11-27 | 471,462 | 20 |
 | 2023-11-28 | 471,508 | 20 |
-| 2023-11-29 | 471,513 | 20 |
+| 2023-11-29 | 471,515 | 20 |
 ## Awards
 Max (Character Customization): 223  (Ranked 276)  
 Sum: 245 (Ranked 384)  

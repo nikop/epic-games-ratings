@@ -241,7 +241,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15738,
+  "EOS_Progressed": 15739,
   "EOS_Completed": 39,
   "EOS_NewPlayers": 528,
   "EOS_NewCompleters": 4,
@@ -12621,6 +12621,11 @@
       "Time": "2023-11-29T03:06:25.0220386+00:00",
       "NumProgressed": 15738,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-11-29T04:13:41.7238852+00:00",
+      "NumProgressed": 15739,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12879,9 +12884,9 @@
       "ID": "32",
       "SetID": "9nnpo9n",
       "Name": "Safe Cracker",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 102
     },
     {
       "ID": "33",
@@ -12912,22 +12917,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15738,
+      "Progressed": 15739,
       "Completed": 39
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1692,
-      "Completed": 750
+      "Progressed": 1693,
+      "Completed": 751
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-28T18:00:52.6774218+00:00",
-  "LastChanged_Achievements": "2023-11-29T03:06:25.0220381+00:00",
+  "LastChanged_Achievements": "2023-11-29T04:13:41.7238848+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-11-29T02:59:56.4388786+00:00",
-  "LastUpdate_Achievements": "2023-11-29T03:06:25.0221429+00:00"
+  "LastUpdate_Ratings": "2023-11-29T04:06:26.0377814+00:00",
+  "LastUpdate_Achievements": "2023-11-29T04:13:41.7239604+00:00"
 }

@@ -12,7 +12,7 @@
 | The Condor | 25.00% | ~111 |
 | The End | 24.00% | ~106 |
 | The Necroevolution | 21.00% | ~93 |
-| Krauta is alive | 18.00% | ~80 |
+| Krauta is alive | 19.00% | ~84 |
 | Volcanologist | 18.00% | ~80 |
 | Peacemaker | 17.00% | ~75 |
 | The Alliance | 17.00% | ~75 |
@@ -35,7 +35,7 @@
 | No more mistakes | 0.70% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 443 (Ranked 320)  
-Completed: 1 (0.23%) (Ranked 251)  
+Completed: 1 (0.23%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

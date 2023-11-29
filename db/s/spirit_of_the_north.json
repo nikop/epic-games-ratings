@@ -3,11 +3,11 @@
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
   "Ranking_Rating": 781,
-  "Ranking_Popularity": 517,
+  "Ranking_Popularity": 518,
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 75472,
+  "EOS_Progressed": 75473,
   "EOS_Completed": 404,
-  "EOS_NewPlayers": 640,
+  "EOS_NewPlayers": 639,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -24843,6 +24843,11 @@
       "Time": "2023-11-29T03:08:52.7221027+00:00",
       "NumProgressed": 75472,
       "NumCompleted": 404
+    },
+    {
+      "Time": "2023-11-29T04:14:45.9344721+00:00",
+      "NumProgressed": 75473,
+      "NumCompleted": 404
     }
   ],
   "TotalAchievements": 24,
@@ -24934,7 +24939,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 40000
+      "UsersEstimate": 40001
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -24974,7 +24979,7 @@
       "Name": "OLD COMPANION",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6792
+      "UsersEstimate": 6793
     },
     {
       "ID": "PLAGUE_DOCTOR",
@@ -24982,7 +24987,7 @@
       "Name": "PLAGUE DOCTOR",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 6792
+      "UsersEstimate": 6793
     },
     {
       "ID": "SPIRITED_AWAY",
@@ -25045,7 +25050,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 75472,
+      "Progressed": 75473,
       "Completed": 404
     }
   ],
@@ -25053,8 +25058,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-11-29T03:08:52.7221012+00:00",
+  "LastChanged_Achievements": "2023-11-29T04:14:45.9344717+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:00.17465+00:00",
-  "LastUpdate_Ratings": "2023-11-29T02:57:27.5210336+00:00",
-  "LastUpdate_Achievements": "2023-11-29T03:08:52.7222326+00:00"
+  "LastUpdate_Ratings": "2023-11-29T04:02:40.3759564+00:00",
+  "LastUpdate_Achievements": "2023-11-29T04:14:45.9346106+00:00"
 }

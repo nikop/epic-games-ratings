@@ -11119,10 +11119,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 49391,
       "NumberOfAwardsMax": 24728
+    },
+    {
+      "Time": "2023-11-29T04:08:01.0874433+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 49394,
+      "NumberOfAwardsMax": 24728
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49391,
+  "NumberOfAwards": 49394,
   "NumberOfAwardsMax": 24728,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11160,7 +11166,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1276
+      "Count": 1279
     },
     {
       "Text": "This game has Diverse Characters",
@@ -11199,9 +11205,9 @@
       "Count": 821
     }
   ],
-  "EOS_Progressed": 303532,
+  "EOS_Progressed": 303536,
   "EOS_Completed": 519,
-  "EOS_NewPlayers": 950,
+  "EOS_NewPlayers": 948,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -35179,6 +35185,11 @@
       "Time": "2023-11-29T03:09:23.4572317+00:00",
       "NumProgressed": 303532,
       "NumCompleted": 519
+    },
+    {
+      "Time": "2023-11-29T04:15:29.2826725+00:00",
+      "NumProgressed": 303536,
+      "NumCompleted": 519
     }
   ],
   "TotalAchievements": 45,
@@ -35190,7 +35201,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48565
+      "UsersEstimate": 48566
     },
     {
       "ID": "PFA_10",
@@ -35310,7 +35321,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39459
+      "UsersEstimate": 39460
     },
     {
       "ID": "PFA_24",
@@ -35414,7 +35425,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30353
+      "UsersEstimate": 30354
     },
     {
       "ID": "PFA_36",
@@ -35478,7 +35489,7 @@
       "Name": "Raising Expectations",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 21247
+      "UsersEstimate": 21248
     },
     {
       "ID": "PFA_43",
@@ -35526,7 +35537,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42494
+      "UsersEstimate": 42495
     },
     {
       "ID": "PFA_8",
@@ -35534,7 +35545,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39459
+      "UsersEstimate": 39460
     },
     {
       "ID": "PFA_9",
@@ -35542,23 +35553,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30353
+      "UsersEstimate": 30354
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303532,
+      "Progressed": 303536,
       "Completed": 519
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-28T23:02:28.7623918+00:00",
-  "LastChanged_Achievements": "2023-11-29T03:09:23.4572314+00:00",
+  "LastChanged": "2023-11-29T04:08:01.0874431+00:00",
+  "LastChanged_Achievements": "2023-11-29T04:15:29.282672+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7292094+00:00",
-  "LastUpdate_Ratings": "2023-11-29T03:02:28.1320031+00:00",
-  "LastUpdate_Achievements": "2023-11-29T03:09:23.4573449+00:00"
+  "LastUpdate_Ratings": "2023-11-29T04:08:01.0874438+00:00",
+  "LastUpdate_Achievements": "2023-11-29T04:15:29.2828146+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 104,
   "Ranking_PopularitySum": 129,
   "Ranking_EOS_Progress": 69,
-  "Ranking_EOS_Completed": 251,
+  "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 26,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -4911,11 +4911,11 @@
       "Count": 378
     }
   ],
-  "EOS_Progressed": 230230,
-  "EOS_Completed": 541,
-  "EOS_NewPlayers": 4897,
+  "EOS_Progressed": 230250,
+  "EOS_Completed": 542,
+  "EOS_NewPlayers": 4894,
   "EOS_NewCompleters": 41,
-  "EOS_Completed_Percentage": 0.23,
+  "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
       "Time": "2023-07-21T17:05:35.5618698+00:00",
@@ -20446,6 +20446,11 @@
       "Time": "2023-11-29T03:08:38.9182042+00:00",
       "NumProgressed": 230230,
       "NumCompleted": 541
+    },
+    {
+      "Time": "2023-11-29T04:14:26.5331116+00:00",
+      "NumProgressed": 230250,
+      "NumCompleted": 542
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20642,7 +20647,7 @@
       "Name": "First of Many",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -20897,13 +20902,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 230230,
-      "Completed": 541
+      "Progressed": 230250,
+      "Completed": 542
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 9395,
+      "Progressed": 9415,
       "Completed": 167
     }
   ],
@@ -20911,8 +20916,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-28T23:02:58.3294243+00:00",
-  "LastChanged_Achievements": "2023-11-29T03:08:38.9182038+00:00",
+  "LastChanged_Achievements": "2023-11-29T04:14:26.5331113+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-29T03:02:55.9325387+00:00",
-  "LastUpdate_Achievements": "2023-11-29T03:08:38.9183101+00:00"
+  "LastUpdate_Ratings": "2023-11-29T04:08:43.0205175+00:00",
+  "LastUpdate_Achievements": "2023-11-29T04:14:26.5332036+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Marvel\u0027s Spider-Man Remastered",
   "ProductSlug": "marvels-spider-man-remastered",
   "Ranking_Rating": 32,
-  "Ranking_Popularity": 31,
+  "Ranking_Popularity": 30,
   "Ranking_PopularitySum": 55,
   "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 493,
+  "Ranking_EOS_NewPlayers": 494,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-08-12T15:00:00+00:00",
@@ -7871,18 +7871,24 @@
       "Rating": 4.86,
       "NumberOfAwards": 22489,
       "NumberOfAwardsMax": 13285
+    },
+    {
+      "Time": "2023-11-29T04:04:38.2288591+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 22497,
+      "NumberOfAwardsMax": 13292
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22489,
-  "NumberOfAwardsMax": 13285,
+  "NumberOfAwards": 22497,
+  "NumberOfAwardsMax": 13292,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 13285
+      "Count": 13292
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7942,7 +7948,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1032
+      "Count": 1033
     },
     {
       "Text": "This game is Educational",
@@ -7963,8 +7969,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-12T18:01:31.1852692+00:00",
   "FirstSeenRating": "2022-08-12T21:01:33.6251933+00:00",
-  "LastChanged": "2023-11-27T21:58:15.9355898+00:00",
+  "LastChanged": "2023-11-29T04:04:38.2288589+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:54.6054684+00:00",
-  "LastUpdate_Ratings": "2023-11-29T02:58:45.3316493+00:00",
-  "LastUpdate_Achievements": "2023-11-29T03:05:57.1118169+00:00"
+  "LastUpdate_Ratings": "2023-11-29T04:04:38.2288594+00:00",
+  "LastUpdate_Achievements": "2023-11-29T04:13:01.8912146+00:00"
 }

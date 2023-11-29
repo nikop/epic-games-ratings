@@ -1955,10 +1955,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 1602,
       "NumberOfAwardsMax": 203
+    },
+    {
+      "Time": "2023-11-29T04:08:42.0699106+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 1603,
+      "NumberOfAwardsMax": 203
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1602,
+  "NumberOfAwards": 1603,
   "NumberOfAwardsMax": 203,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1984,7 +1990,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 190
+      "Count": 191
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2041,9 +2047,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 281603,
+  "EOS_Progressed": 281604,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 764,
+  "EOS_NewPlayers": 762,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27501,6 +27507,11 @@
       "Time": "2023-11-29T03:04:05.0592277+00:00",
       "NumProgressed": 281603,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T04:10:24.4307597+00:00",
+      "NumProgressed": 281604,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -27736,7 +27747,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 230914
+      "UsersEstimate": 230915
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -27751,15 +27762,15 @@
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 281603,
+      "Progressed": 281604,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
-  "LastChanged": "2023-11-25T01:46:07.4142269+00:00",
-  "LastChanged_Achievements": "2023-11-29T03:04:05.0592272+00:00",
+  "LastChanged": "2023-11-29T04:08:42.0699105+00:00",
+  "LastChanged_Achievements": "2023-11-29T04:10:24.4307593+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.1899023+00:00",
-  "LastUpdate_Ratings": "2023-11-29T03:02:55.3282544+00:00",
-  "LastUpdate_Achievements": "2023-11-29T03:04:05.0593452+00:00"
+  "LastUpdate_Ratings": "2023-11-29T04:08:42.0699109+00:00",
+  "LastUpdate_Achievements": "2023-11-29T04:10:24.43093+00:00"
 }

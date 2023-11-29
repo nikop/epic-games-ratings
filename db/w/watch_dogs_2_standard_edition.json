@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 147,
   "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 493,
+  "Ranking_EOS_NewPlayers": 494,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2016-11-15T15:21:00+00:00",
@@ -7831,10 +7831,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4355,
       "NumberOfAwardsMax": 590
+    },
+    {
+      "Time": "2023-11-29T04:03:53.4716547+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4357,
+      "NumberOfAwardsMax": 590
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4355,
+  "NumberOfAwards": 4357,
   "NumberOfAwardsMax": 590,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7872,7 +7878,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 537
+      "Count": 539
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -7910,8 +7916,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2023-11-29T01:50:38.1969998+00:00",
+  "LastChanged": "2023-11-29T04:03:53.4716545+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:46.8784236+00:00",
-  "LastUpdate_Ratings": "2023-11-29T02:58:15.5857258+00:00",
-  "LastUpdate_Achievements": "2023-11-29T03:08:07.6031978+00:00"
+  "LastUpdate_Ratings": "2023-11-29T04:03:53.4716552+00:00",
+  "LastUpdate_Achievements": "2023-11-29T04:13:43.0282154+00:00"
 }

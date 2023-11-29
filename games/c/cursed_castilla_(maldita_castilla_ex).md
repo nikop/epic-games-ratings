@@ -7,8 +7,8 @@
 | Pioneer | 28.00% | ~20 |
 | Firefighter | 7.00% | ~5 |
 | Collector | 6.00% | ~4 |
+| St. Martin | 6.00% | ~4 |
 | Summoner | 4.00% | ~3 |
-| St. Martin | 4.00% | ~3 |
 | Invisible encounter | 3.00% | ~2 |
 | Bad knight | 3.00% | ~2 |
 | Gentleman | 1.00% | ~1 |

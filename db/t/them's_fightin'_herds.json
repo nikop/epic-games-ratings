@@ -3,11 +3,11 @@
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
   "Ranking_Rating": 417,
-  "Ranking_Popularity": 517,
-  "Ranking_PopularitySum": 492,
+  "Ranking_Popularity": 512,
+  "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
@@ -287,18 +287,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 46,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2023-11-29T04:05:35.0139224+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 47,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 46,
-  "NumberOfAwardsMax": 26,
+  "NumberOfAwards": 47,
+  "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has Diverse Characters",
@@ -307,9 +313,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 232852,
+  "EOS_Progressed": 232854,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 281,
+  "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22897,6 +22903,11 @@
       "Time": "2023-11-29T02:29:01.967969+00:00",
       "NumProgressed": 232852,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-29T04:13:55.5081165+00:00",
+      "NumProgressed": 232854,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -23068,7 +23079,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 51227
+      "UsersEstimate": 51228
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -23131,16 +23142,16 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 232852,
+      "Progressed": 232854,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-12-19T18:57:06.8658934+00:00",
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
-  "LastChanged": "2023-11-22T11:00:30.8027045+00:00",
-  "LastChanged_Achievements": "2023-11-29T03:08:16.7798074+00:00",
+  "LastChanged": "2023-11-29T04:05:35.013922+00:00",
+  "LastChanged_Achievements": "2023-11-29T04:13:55.5081157+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:18.2076606+00:00",
-  "LastUpdate_Ratings": "2023-11-29T02:59:23.1204751+00:00",
-  "LastUpdate_Achievements": "2023-11-29T03:08:16.7799486+00:00"
+  "LastUpdate_Ratings": "2023-11-29T04:05:35.0139228+00:00",
+  "LastUpdate_Achievements": "2023-11-29T04:13:55.5082994+00:00"
 }

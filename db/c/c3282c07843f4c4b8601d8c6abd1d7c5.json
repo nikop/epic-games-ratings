@@ -4,7 +4,7 @@
   "ProductSlug": "fractals-of-destiny-afbda4",
   "Ranking_EOS_Progress": 700,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 493,
+  "Ranking_EOS_NewPlayers": 494,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -112,8 +112,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-22T01:44:07.1414242+00:00",
-  "LastChanged_Achievements": "2023-11-29T03:03:23.3582333+00:00",
+  "LastChanged_Achievements": "2023-11-29T04:09:24.40045+00:00",
   "LastUpdate_AppInfo": "2023-11-24T04:57:18.7311827+00:00",
-  "LastUpdate_Ratings": "2023-11-29T02:58:28.3604731+00:00",
-  "LastUpdate_Achievements": "2023-11-29T03:03:23.3582411+00:00"
+  "LastUpdate_Ratings": "2023-11-29T04:04:12.9795004+00:00",
+  "LastUpdate_Achievements": "2023-11-29T04:09:24.400458+00:00"
 }

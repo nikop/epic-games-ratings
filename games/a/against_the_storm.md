@@ -8,10 +8,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | Abandoned Settlement | 1.00% | ~175 |
 | Overgrown Library | 1.00% | ~175 |
-| Petrified Necropolis | 0.90% | ~158 |
+| Petrified Necropolis | 1.00% | ~175 |
+| Gathering Storm | 0.90% | ~158 |
 | Frosts | 0.80% | ~140 |
 | Ominous Presence | 0.80% | ~140 |
-| Gathering Storm | 0.80% | ~140 |
 | Land of Greed | 0.70% | ~123 |
 | Untamed Wilds | 0.60% | ~105 |
 | Serving Ale | 0.10% | ~18 |

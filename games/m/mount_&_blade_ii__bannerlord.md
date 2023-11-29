@@ -1,7 +1,7 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.74 (Ranked 159)  
+Rating: 4.74 (Ranked 160)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -16,9 +16,9 @@ Number of Ratings: 5,603  (23.09.2022)
 | King Solomon | 18.00% | ~11,980 |
 | Apple of my eye | 16.00% | ~10,649 |
 | I can do it | 16.00% | ~10,649 |
-| Against all odds | 13.00% | ~8,652 |
-| God of the Arena | 13.00% | ~8,652 |
-| This Is Our Land | 13.00% | ~8,652 |
+| Against all odds | 13.00% | ~8,653 |
+| God of the Arena | 13.00% | ~8,653 |
+| This Is Our Land | 13.00% | ~8,653 |
 | Duelist | 10.00% | ~6,656 |
 | Dynasty | 10.00% | ~6,656 |
 | I spit on your grave | 10.00% | ~6,656 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,557 (Ranked 104)  
+Progressed: 66,558 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-26 | 66,306 | 0 |
 | 2023-11-27 | 66,427 | 0 |
 | 2023-11-28 | 66,549 | 0 |
-| 2023-11-29 | 66,557 | 0 |
+| 2023-11-29 | 66,558 | 0 |
 ## Awards
 Max (Character Customization): 7,443  (Ranked 53)  
 Sum: 15,488 (Ranked 68)  

@@ -6,23 +6,23 @@ Rating: 4.44 (Ranked 676)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~1,856 |
-| Confirming Suspicions | 41.00% | ~1,619 |
-| The Kraken Wakes | 37.00% | ~1,461 |
+| Confirming Suspicions | 41.00% | ~1,620 |
+| The Kraken Wakes | 37.00% | ~1,462 |
 | It's Starting to Crack | 34.00% | ~1,343 |
 | Change the Channel | 31.00% | ~1,224 |
 | Lord of War | 30.00% | ~1,185 |
-| Taking it back | 29.00% | ~1,145 |
+| Taking it back | 29.00% | ~1,146 |
 | Resourceful | 27.00% | ~1,066 |
 | Target America | 27.00% | ~1,066 |
-| The Kraken Sleeps | 25.00% | ~987 |
+| The Kraken Sleeps | 25.00% | ~988 |
 | Liberté | 23.00% | ~908 |
 | Organ Grinder | 23.00% | ~908 |
 | As Quiet as a Mouse | 23.00% | ~908 |
 | Sharpshooter | 22.00% | ~869 |
 | Gunslinger | 19.00% | ~750 |
 | Explosive Efficiency | 19.00% | ~750 |
-| Just a Flesh Wound | 17.00% | ~671 |
-| Der Geist | 17.00% | ~671 |
+| Just a Flesh Wound | 17.00% | ~672 |
+| Der Geist | 17.00% | ~672 |
 | Climbing the Ladder | 16.00% | ~632 |
 | Close Quarters | 16.00% | ~632 |
 | Snake in the Grass | 16.00% | ~632 |
@@ -32,18 +32,18 @@ Rating: 4.44 (Ranked 676)
 | No Stone Unturned | 14.00% | ~553 |
 | Opposing Force | 14.00% | ~553 |
 | Fields of Glory | 14.00% | ~553 |
-| Enemy at the Gates | 13.00% | ~513 |
-| Set Europe Ablaze | 13.00% | ~513 |
+| Enemy at the Gates | 13.00% | ~514 |
+| Set Europe Ablaze | 13.00% | ~514 |
 | Precision Is Key | 10.00% | ~395 |
 | My Little Friend | 10.00% | ~395 |
-| Rigged to Blow | 9.00% | ~355 |
+| Rigged to Blow | 9.00% | ~356 |
 | Herr Today, Gone Tomorrow | 7.00% | ~273 |
 | Operation Foxley | 6.00% | ~234 |
-| The Long Game | 5.00% | ~197 |
-| Tinkerer | 5.00% | ~197 |
-| It'll Buff Right Out | 5.00% | ~197 |
-| Road Rage | 5.00% | ~197 |
-| Don't hold your breath | 5.00% | ~197 |
+| The Long Game | 5.00% | ~198 |
+| Tinkerer | 5.00% | ~198 |
+| It'll Buff Right Out | 5.00% | ~198 |
+| Road Rage | 5.00% | ~198 |
+| Don't hold your breath | 5.00% | ~198 |
 | Last Resort | 5.00% | ~195 |
 | Siegebreaker | 5.00% | ~195 |
 | Ghost of Falaise | 5.00% | ~195 |
@@ -64,8 +64,8 @@ Rating: 4.44 (Ranked 676)
 | Reich To The Point | 2.00% | ~78 |
 | Covert Elimination | 2.00% | ~78 |
 | Sink or Swim | 2.00% | ~78 |
-| Best of the Best | 1.00% | ~39 |
-| Sight Beyond Sights | 1.00% | ~39 |
+| Best of the Best | 1.00% | ~40 |
+| Sight Beyond Sights | 1.00% | ~40 |
 | From Führer Away | 1.00% | ~39 |
 | Alpha | 1.00% | ~39 |
 | Das Familienjuwel | 1.00% | ~39 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 676)
 | Stroll in the Woods | 0.60% | ~23 |
 | Going Overboard | 0.60% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,949 (Ranked 197)  
+Progressed: 3,950 (Ranked 197)  
 Completed: 11 (0.28%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,6 +298,7 @@ Completed: 11 (0.28%) (Ranked 244)
 | 2023-11-26 | 3,939 | 11 |
 | 2023-11-27 | 3,945 | 11 |
 | 2023-11-28 | 3,949 | 11 |
+| 2023-11-29 | 3,950 | 11 |
 ## Awards
 Max (Great for Beginners): 27  (Ranked 512)  
 Sum: 27 (Ranked 526)  

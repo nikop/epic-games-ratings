@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -1167,9 +1167,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 67697,
+  "EOS_Progressed": 67701,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 474,
+  "EOS_NewPlayers": 477,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10807,6 +10807,11 @@
       "Time": "2023-11-29T03:04:30.6281504+00:00",
       "NumProgressed": 67697,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-11-29T04:11:00.3593876+00:00",
+      "NumProgressed": 67701,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -10819,7 +10824,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23694
+      "UsersEstimate": 23695
     },
     {
       "ID": "10",
@@ -10883,7 +10888,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 12185
+      "UsersEstimate": 12186
     },
     {
       "ID": "3",
@@ -10946,7 +10951,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 67697,
+      "Progressed": 67701,
       "Completed": 38
     }
   ],
@@ -10954,8 +10959,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-28T06:57:26.2111087+00:00",
-  "LastChanged_Achievements": "2023-11-29T03:04:30.6281499+00:00",
+  "LastChanged_Achievements": "2023-11-29T04:11:00.3593872+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:13.9511371+00:00",
-  "LastUpdate_Ratings": "2023-11-29T02:57:43.7475877+00:00",
-  "LastUpdate_Achievements": "2023-11-29T03:04:30.6282063+00:00"
+  "LastUpdate_Ratings": "2023-11-29T04:03:05.306626+00:00",
+  "LastUpdate_Achievements": "2023-11-29T04:11:00.3594453+00:00"
 }
