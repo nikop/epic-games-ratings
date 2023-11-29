@@ -4,7 +4,7 @@
   "Ranking_EOS_Progress": 580,
   "Ranking_EOS_Completed": 34,
   "Ranking_EOS_NewPlayers": 494,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -117,33 +117,33 @@
       "ID": "AshesInTheMaw",
       "SetID": "c36hpcf",
       "Name": "Ashes in The Maw",
-      "Percentage": 19,
+      "Percentage": 25,
       "XP": 200,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "AshesToAshes",
       "SetID": "c36hpcf",
       "Name": "Ashes to Ashes",
-      "Percentage": 25,
+      "Percentage": 31,
       "XP": 155,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Elusive",
       "SetID": "c36hpcf",
       "Name": "Elusive",
-      "Percentage": 25,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "EndInSight",
       "SetID": "c36hpcf",
       "Name": "End in Sight",
-      "Percentage": 19,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "FunAndGamesAhead",
@@ -299,8 +299,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-15T10:05:55.6712787+00:00",
-  "LastChanged_Achievements": "2023-11-29T10:06:16.8675228+00:00",
+  "LastChanged_Achievements": "2023-11-29T11:08:50.1660723+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:12.9758527+00:00",
-  "LastUpdate_Ratings": "2023-11-29T09:59:33.0534256+00:00",
-  "LastUpdate_Achievements": "2023-11-29T10:06:16.867534+00:00"
+  "LastUpdate_Ratings": "2023-11-29T11:01:24.6444889+00:00",
+  "LastUpdate_Achievements": "2023-11-29T11:08:50.166085+00:00"
 }

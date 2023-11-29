@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -293,9 +293,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3372,
+  "EOS_Progressed": 3373,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5958,6 +5958,11 @@
       "Time": "2023-11-29T08:04:40.2623378+00:00",
       "NumProgressed": 3372,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T11:06:25.6998507+00:00",
+      "NumProgressed": 3373,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -5969,7 +5974,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "ACH_BASE_10",
@@ -5977,7 +5982,7 @@
       "Name": "Man\u0027s Best Friend",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_BASE_11",
@@ -6119,9 +6124,9 @@
       "ID": "ACH_BASE_29",
       "SetID": "92iocjf",
       "Name": "A Thousand Strong",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 607
     },
     {
       "ID": "ACH_BASE_3",
@@ -6424,13 +6429,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1556,
+      "Progressed": 1557,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3372,
+      "Progressed": 3373,
       "Completed": 0
     }
   ],
@@ -6438,8 +6443,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-10-25T12:00:08.7067292+00:00",
-  "LastChanged_Achievements": "2023-11-29T10:04:34.9817198+00:00",
+  "LastChanged_Achievements": "2023-11-29T11:06:25.6998503+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:09.2779829+00:00",
-  "LastUpdate_Ratings": "2023-11-29T09:59:12.3485269+00:00",
-  "LastUpdate_Achievements": "2023-11-29T10:04:34.9817962+00:00"
+  "LastUpdate_Ratings": "2023-11-29T11:00:52.391549+00:00",
+  "LastUpdate_Achievements": "2023-11-29T11:06:25.6999365+00:00"
 }

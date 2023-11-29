@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 376,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -936,9 +936,9 @@
       "ID": "FIRST_MINIBOSS_DEFEATED",
       "SetID": "apihg0e",
       "Name": "Unknown Threat",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 308
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -984,9 +984,9 @@
       "ID": "MAIN_CLEAR_ISLAND1",
       "SetID": "apihg0e",
       "Name": "The Beginning",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 68
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -1159,8 +1159,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-29T10:08:25.9780801+00:00",
+  "LastChanged_Achievements": "2023-11-29T11:09:30.3643564+00:00",
   "LastUpdate_AppInfo": "2023-11-28T17:56:55.9843317+00:00",
-  "LastUpdate_Ratings": "2023-11-29T10:02:39.3778915+00:00",
-  "LastUpdate_Achievements": "2023-11-29T10:08:25.9781068+00:00"
+  "LastUpdate_Ratings": "2023-11-29T11:03:37.4637268+00:00",
+  "LastUpdate_Achievements": "2023-11-29T11:09:30.3643818+00:00"
 }

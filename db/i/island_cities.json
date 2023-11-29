@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 795,
+  "EOS_Progressed": 796,
   "EOS_Completed": 131,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 16.48,
+  "EOS_Completed_Percentage": 16.46,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3376,6 +3376,11 @@
       "Time": "2023-11-29T10:04:40.197854+00:00",
       "NumProgressed": 795,
       "NumCompleted": 131
+    },
+    {
+      "Time": "2023-11-29T11:06:33.3086067+00:00",
+      "NumProgressed": 796,
+      "NumCompleted": 131
     }
   ],
   "TotalAchievements": 22,
@@ -3387,7 +3392,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "LEVEL_002",
@@ -3395,7 +3400,7 @@
       "Name": "A tiny town",
       "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "LEVEL_003",
@@ -3411,7 +3416,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "LEVEL_005",
@@ -3443,7 +3448,7 @@
       "Name": "Passion for sports",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "LEVEL_009",
@@ -3451,7 +3456,7 @@
       "Name": "Who loves trains?",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "LEVEL_010",
@@ -3562,7 +3567,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 795,
+      "Progressed": 796,
       "Completed": 131
     }
   ],
@@ -3570,8 +3575,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-11-29T10:04:40.1978535+00:00",
+  "LastChanged_Achievements": "2023-11-29T11:06:33.308606+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:17.2540089+00:00",
-  "LastUpdate_Ratings": "2023-11-29T09:59:24.2860775+00:00",
-  "LastUpdate_Achievements": "2023-11-29T10:04:40.1978796+00:00"
+  "LastUpdate_Ratings": "2023-11-29T11:01:10.6587966+00:00",
+  "LastUpdate_Achievements": "2023-11-29T11:06:33.3086471+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 115404,
+  "EOS_Progressed": 115405,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 607,
+  "EOS_NewPlayers": 605,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -19534,6 +19534,11 @@
       "Time": "2023-11-29T10:08:55.703775+00:00",
       "NumProgressed": 115404,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-29T11:10:12.4779213+00:00",
+      "NumProgressed": 115405,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -19553,7 +19558,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 88861
+      "UsersEstimate": 88862
     },
     {
       "ID": "EAwards_10",
@@ -19561,7 +19566,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13848
+      "UsersEstimate": 13849
     },
     {
       "ID": "EAwards_11",
@@ -19617,7 +19622,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42699
+      "UsersEstimate": 42700
     },
     {
       "ID": "EAwards_18",
@@ -19649,7 +19654,7 @@
       "Name": "King of the Hill",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12694
+      "UsersEstimate": 12695
     },
     {
       "ID": "EAwards_21",
@@ -19697,7 +19702,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12694
+      "UsersEstimate": 12695
     },
     {
       "ID": "EAwards_27",
@@ -19913,7 +19918,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13848
+      "UsersEstimate": 13849
     },
     {
       "ID": "EAwards_8",
@@ -19921,7 +19926,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13848
+      "UsersEstimate": 13849
     },
     {
       "ID": "EAwards_9",
@@ -19929,14 +19934,14 @@
       "Name": "Grapple Expert",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12694
+      "UsersEstimate": 12695
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 115404,
+      "Progressed": 115405,
       "Completed": 50
     }
   ],
@@ -19944,8 +19949,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-11-29T10:08:55.7037748+00:00",
+  "LastChanged_Achievements": "2023-11-29T11:10:12.4779209+00:00",
   "LastUpdate_AppInfo": "2023-11-24T04:57:18.5110707+00:00",
-  "LastUpdate_Ratings": "2023-11-29T09:57:17.0647506+00:00",
-  "LastUpdate_Achievements": "2023-11-29T10:08:55.7038703+00:00"
+  "LastUpdate_Ratings": "2023-11-29T10:57:57.1058529+00:00",
+  "LastUpdate_Achievements": "2023-11-29T11:10:12.4780394+00:00"
 }

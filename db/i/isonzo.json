@@ -949,9 +949,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9109,
+  "EOS_Progressed": 9110,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -8419,6 +8419,11 @@
       "Time": "2023-11-29T10:05:50.4046293+00:00",
       "NumProgressed": 9109,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-29T11:08:12.2314106+00:00",
+      "NumProgressed": 9110,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -8462,7 +8467,7 @@
       "Name": "Cercatore d\u0027Oro",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ISONZO_ACH_COMPAGNIA_DELLA_MORTE",
@@ -8622,7 +8627,7 @@
       "Name": "Peak Performance",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 4281
+      "UsersEstimate": 4282
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -8678,7 +8683,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2459
+      "UsersEstimate": 2460
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -8758,7 +8763,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4554
+      "UsersEstimate": 4555
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -8789,7 +8794,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9109,
+      "Progressed": 9110,
       "Completed": 10
     }
   ],
@@ -8797,8 +8802,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-11-26T17:59:39.1110954+00:00",
-  "LastChanged_Achievements": "2023-11-29T10:05:50.4046291+00:00",
+  "LastChanged_Achievements": "2023-11-29T11:08:12.2314101+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:09.0414673+00:00",
-  "LastUpdate_Ratings": "2023-11-29T10:00:11.594972+00:00",
-  "LastUpdate_Achievements": "2023-11-29T10:05:50.4046885+00:00"
+  "LastUpdate_Ratings": "2023-11-29T11:02:22.8828663+00:00",
+  "LastUpdate_Achievements": "2023-11-29T11:08:12.2315028+00:00"
 }

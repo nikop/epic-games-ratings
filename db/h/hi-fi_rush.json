@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4424,
+  "EOS_Progressed": 4425,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7920,6 +7920,11 @@
       "Time": "2023-11-29T06:05:08.3933029+00:00",
       "NumProgressed": 4424,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-29T11:06:37.90032+00:00",
+      "NumProgressed": 4425,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7961,9 +7966,9 @@
       "ID": "Ach005",
       "SetID": "12n4k20",
       "Name": "Headliner",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 398
     },
     {
       "ID": "Ach006",
@@ -8123,7 +8128,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "Ach026",
@@ -8498,13 +8503,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4424,
+      "Progressed": 4425,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2945,
+      "Progressed": 2946,
       "Completed": 1930
     }
   ],
@@ -8512,8 +8517,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-29T10:04:43.4493516+00:00",
+  "LastChanged_Achievements": "2023-11-29T11:06:37.9003198+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-11-29T09:57:36.2613912+00:00",
-  "LastUpdate_Achievements": "2023-11-29T10:04:43.4494289+00:00"
+  "LastUpdate_Ratings": "2023-11-29T10:58:27.1802175+00:00",
+  "LastUpdate_Achievements": "2023-11-29T11:06:37.9004081+00:00"
 }

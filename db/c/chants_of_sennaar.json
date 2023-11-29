@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 796,
+  "EOS_Progressed": 797,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 5.4,
   "EosHistory": [
@@ -3230,6 +3230,11 @@
       "Time": "2023-11-29T07:05:55.9386552+00:00",
       "NumProgressed": 796,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-11-29T11:06:48.6024716+00:00",
+      "NumProgressed": 797,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 25,
@@ -3289,7 +3294,7 @@
       "Name": "Open door",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "META_RESULT_1-3",
@@ -3297,7 +3302,7 @@
       "Name": "Free at last",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "META_RESULT_1-4",
@@ -3305,7 +3310,7 @@
       "Name": "Feels like springtime",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "META_RESULT_2-3",
@@ -3337,7 +3342,7 @@
       "Name": "Alchemists Express",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -3345,7 +3350,7 @@
       "Name": "Rascal",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -3359,9 +3364,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 231
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -3385,7 +3390,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3440,14 +3445,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 796,
+      "Progressed": 797,
       "Completed": 43
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-29T10:04:50.9724228+00:00",
+  "LastChanged_Achievements": "2023-11-29T11:06:48.6024712+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-11-29T09:58:06.6946129+00:00",
-  "LastUpdate_Achievements": "2023-11-29T10:04:50.9724523+00:00"
+  "LastUpdate_Ratings": "2023-11-29T10:59:12.6233088+00:00",
+  "LastUpdate_Achievements": "2023-11-29T11:06:48.6025091+00:00"
 }

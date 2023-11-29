@@ -7,7 +7,7 @@
 | Distinguished Service Medal | 93.00% | ~1,348 |
 | Spectre Inductee | 80.00% | ~1,159 |
 | Medal of Exploration I | 72.00% | ~1,043 |
-| Recruit | 67.00% | ~971 |
+| Recruit | 68.00% | ~985 |
 | Search and Rescue | 67.00% | ~971 |
 | Quarian Ally | 63.00% | ~913 |
 | Medal of Heroism | 60.00% | ~869 |
@@ -69,11 +69,11 @@
 | Treason | 29.00% | ~420 |
 | Agent | 29.00% | ~420 |
 | Digital Exorcist | 29.00% | ~420 |
+| Untouchable | 28.00% | ~406 |
 | Mission Accomplished | 28.00% | ~406 |
 | Suicide Mission | 28.00% | ~406 |
 | Against All Odds | 28.00% | ~406 |
 | Mobilizer | 28.00% | ~406 |
-| Untouchable | 27.00% | ~391 |
 | Giant Killer | 27.00% | ~391 |
 | A House Divided | 27.00% | ~391 |
 | Eye of the Hurricane | 26.00% | ~377 |

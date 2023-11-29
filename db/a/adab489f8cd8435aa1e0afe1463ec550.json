@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 574,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -447,9 +447,9 @@
       "ID": "9",
       "SetID": "6hl9l7f",
       "Name": "Maximum Power",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -462,8 +462,8 @@
   ],
   "FirstSeen": "2023-09-29T05:01:32.9866964+00:00",
   "FirstSeenAchievements": "2023-07-16T05:02:49.5531761+00:00",
-  "LastChanged_Achievements": "2023-11-29T10:06:12.9525004+00:00",
+  "LastChanged_Achievements": "2023-11-29T11:08:44.6573901+00:00",
   "LastUpdate_AppInfo": "2023-11-26T15:57:05.7612382+00:00",
-  "LastUpdate_Ratings": "2023-11-29T09:59:11.7405582+00:00",
-  "LastUpdate_Achievements": "2023-11-29T10:06:12.9525268+00:00"
+  "LastUpdate_Ratings": "2023-11-29T11:00:51.4795058+00:00",
+  "LastUpdate_Achievements": "2023-11-29T11:08:44.65742+00:00"
 }
