@@ -5,18 +5,18 @@ Rating: 4.68 (Ranked 255)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,612 |
+| Getting on the Step | 94.00% | ~5,613 |
 | On the Top Step | 88.00% | ~5,254 |
 | Setting up for Success | 78.00% | ~4,657 |
 | Team Orders | 75.00% | ~4,478 |
-| Engineer | 56.00% | ~3,343 |
+| Engineer | 56.00% | ~3,344 |
 | Familiar Faces | 48.00% | ~2,866 |
-| Sharing the Love | 43.00% | ~2,567 |
-| Going the Extra Mile | 43.00% | ~2,567 |
+| Sharing the Love | 43.00% | ~2,568 |
+| Going the Extra Mile | 43.00% | ~2,568 |
 | Hitting a Season | 40.00% | ~2,388 |
 | A Dozen Pieces | 34.00% | ~2,030 |
 | Challenge Yourself | 34.00% | ~2,030 |
-| Making History | 32.00% | ~1,910 |
+| Making History | 32.00% | ~1,911 |
 | Network Success | 28.00% | ~1,672 |
 | Writing a new Chapter | 26.00% | ~1,552 |
 | Spring Cleaning | 24.00% | ~1,433 |
@@ -33,15 +33,15 @@ Rating: 4.68 (Ranked 255)
 | Spinning Around | 14.00% | ~836 |
 | Eagle Eye | 13.00% | ~776 |
 | Switcheroo | 13.00% | ~776 |
-| All in a Weekend's Work | 12.00% | ~716 |
-| Friendly Competition | 12.00% | ~716 |
-| Recycle | 12.00% | ~716 |
+| All in a Weekend's Work | 12.00% | ~717 |
+| Friendly Competition | 12.00% | ~717 |
+| Recycle | 12.00% | ~717 |
 | Tinkerer | 10.00% | ~597 |
 | Undisputed Winner | 9.00% | ~537 |
 | Living up to Expectations | 7.00% | ~418 |
 | Smooth Operator | 7.00% | ~418 |
 | For all Those Back at the Factory | 6.00% | ~358 |
-| Peak Performance | 5.00% | ~298 |
+| Peak Performance | 5.00% | ~299 |
 | Hitting a Century | 4.00% | ~239 |
 | Loyal Bond | 4.00% | ~239 |
 | Seasoned Rookie | 3.00% | ~179 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 255)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,970 (Ranked 186)  
+Progressed: 5,971 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,17 +132,17 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-26 | 5,930 | 0 |
 | 2023-11-27 | 5,947 | 0 |
 | 2023-11-28 | 5,957 | 0 |
-| 2023-11-29 | 5,970 | 0 |
+| 2023-11-29 | 5,971 | 0 |
 ## Awards
 Max (Diverse Characters): 26  (Ranked 520)  
-Sum: 95 (Ranked 452)  
-Diff (max vs sum): 68  
+Sum: 96 (Ranked 450)  
+Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |
 | This game has Diverse Characters | 26 |
+| This game is Highly Recommended | 25 |
 | This game is Great for Quick Sessions | 24 |
-| This game is Highly Recommended | 24 |
 | This game has a Competitive Community | 24 |
 | This game is Extremely Fun | 21 |
 ## Ratings History
@@ -229,4 +229,4 @@ Diff (max vs sum): 68
 | 2023-11-26 | 4.68 | 24 | 92 |
 | 2023-11-27 | 4.68 | 26 | 94 |
 | 2023-11-28 | 4.68 | 26 | 95 |
-| 2023-11-29 | 4.68 | 26 | 95 |
+| 2023-11-29 | 4.68 | 26 | 96 |

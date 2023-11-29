@@ -7,14 +7,14 @@ Number of Ratings: 98  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You Shall Not Pass | 51.00% | ~4,652 |
-| Tutti Eroi! | 50.00% | ~4,560 |
+| Tutti Eroi! | 50.00% | ~4,561 |
 | Peak Performance | 47.00% | ~4,287 |
-| Avanti Savoia! | 44.00% | ~4,013 |
-| Mamma Mia! | 35.00% | ~3,192 |
+| Avanti Savoia! | 44.00% | ~4,014 |
+| Mamma Mia! | 35.00% | ~3,193 |
 | Conrad von Hotzensocks | 32.00% | ~2,919 |
 | Gabriele D'Annunzio | 32.00% | ~2,919 |
 | Silver Lining | 27.00% | ~2,463 |
-| Aurelio Baruzzi | 21.00% | ~1,915 |
+| Aurelio Baruzzi | 21.00% | ~1,916 |
 | Decimation | 20.00% | ~1,824 |
 | Donatello | 19.00% | ~1,733 |
 | The Italian Job | 19.00% | ~1,733 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~36 |
 | Can I Go Home Now? | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,121 (Ranked 169)  
+Progressed: 9,122 (Ranked 169)  
 Completed: 10 (0.11%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,20 +269,20 @@ Completed: 10 (0.11%) (Ranked 281)
 | 2023-11-26 | 9,056 | 10 |
 | 2023-11-27 | 9,080 | 10 |
 | 2023-11-28 | 9,106 | 10 |
-| 2023-11-29 | 9,121 | 10 |
+| 2023-11-29 | 9,122 | 10 |
 ## Awards
 Max (Diverse Characters): 38  (Ranked 463)  
-Sum: 287 (Ranked 371)  
-Diff (max vs sum): 92  
+Sum: 288 (Ranked 368)  
+Diff (max vs sum): 95  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 38 |
 | This game is Highly Recommended | 37 |
 | This game is Extremely Fun | 35 |
 | This game has Realistic Visuals | 35 |
+| This game has Challenging Combat | 32 |
 | This game has Amazing Characters | 32 |
 | This game has Quickly Understood Controls | 31 |
-| This game has Challenging Combat | 31 |
 | This game is Educational | 28 |
 | This game has Competitive Players | 26 |
 | This game has Amazing Storytelling | 22 |
@@ -416,3 +416,4 @@ Diff (max vs sum): 92
 | 2023-11-24 | 4.56 | - | 38 | 285 |
 | 2023-11-25 | 4.56 | - | 38 | 286 |
 | 2023-11-26 | 4.56 | - | 38 | 287 |
+| 2023-11-29 | 4.56 | - | 38 | 288 |

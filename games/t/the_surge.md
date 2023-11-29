@@ -6,30 +6,30 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,567 |
-| I'll Be Back | 85.00% | ~4,129 |
-| Sorry, I Dropped This | 77.00% | ~3,741 |
-| First Day on the Job | 77.00% | ~3,741 |
-| Butcher's Bill | 55.00% | ~2,672 |
-| P.A.X | 38.00% | ~1,846 |
-| Hey Listen | 37.00% | ~1,797 |
-| OPERATOR | 36.00% | ~1,749 |
-| It's Blue Light | 33.00% | ~1,603 |
+| On My Own Two Feet | 94.00% | ~4,568 |
+| I'll Be Back | 85.00% | ~4,131 |
+| Sorry, I Dropped This | 77.00% | ~3,742 |
+| First Day on the Job | 77.00% | ~3,742 |
+| Butcher's Bill | 55.00% | ~2,673 |
+| P.A.X | 38.00% | ~1,847 |
+| Hey Listen | 37.00% | ~1,798 |
+| OPERATOR | 36.00% | ~1,750 |
+| It's Blue Light | 33.00% | ~1,604 |
 | Most Wanted | 27.00% | ~1,312 |
 | Infidel | 24.00% | ~1,166 |
-| Firebug | 21.00% | ~1,020 |
-| GOLIATH | 21.00% | ~1,020 |
-| I Choose You | 18.00% | ~874 |
-| Nothing to Lose | 18.00% | ~874 |
-| Big Sister | 16.00% | ~777 |
-| SENTINEL | 16.00% | ~777 |
+| Firebug | 21.00% | ~1,021 |
+| GOLIATH | 21.00% | ~1,021 |
+| I Choose You | 18.00% | ~875 |
+| Nothing to Lose | 18.00% | ~875 |
+| Big Sister | 16.00% | ~778 |
+| SENTINEL | 16.00% | ~778 |
 | Gear Up | 15.00% | ~729 |
 | Core Power | 13.00% | ~632 |
 | The Black Cerberus | 12.00% | ~583 |
 | Watchman | 12.00% | ~583 |
-| CREO Killed the Video Star | 11.00% | ~534 |
-| Who's in Charge Here? | 11.00% | ~534 |
-| Shall Not Pass | 11.00% | ~534 |
+| CREO Killed the Video Star | 11.00% | ~535 |
+| Who's in Charge Here? | 11.00% | ~535 |
+| Shall Not Pass | 11.00% | ~535 |
 | Right Tool for the Job | 10.00% | ~486 |
 | Melting Down | 9.00% | ~437 |
 | Raging Drones | 9.00% | ~437 |
@@ -43,7 +43,7 @@ Number of Ratings: 62  (23.09.2022)
 | Follow the White Rabbit | 7.00% | ~340 |
 | Liberation | 7.00% | ~340 |
 | Risk Assessment | 7.00% | ~340 |
-| Carbon Cat | 6.00% | ~291 |
+| Carbon Cat | 6.00% | ~292 |
 | It Lives! It Sniffs! It Conquers! | 5.00% | ~243 |
 | Man of Steel | 5.00% | ~243 |
 | Jack of All Trades | 5.00% | ~243 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~29 |
 | The Surge | 0.40% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,858 (Ranked 192)  
+Progressed: 4,860 (Ranked 192)  
 Completed: 18 (0.37%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 18 (0.37%) (Ranked 227)
 | 2023-11-26 | 4,854 | 18 |
 | 2023-11-27 | 4,855 | 18 |
 | 2023-11-28 | 4,857 | 18 |
-| 2023-11-29 | 4,858 | 18 |
+| 2023-11-29 | 4,860 | 18 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 501)  
 Sum: 29 (Ranked 516)  

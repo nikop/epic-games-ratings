@@ -2,9 +2,9 @@
   "ID": "0f4a57443f904107818acfc2068704f9",
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
-  "Ranking_EOS_Progress": 279,
+  "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 774,
+  "EOS_Progressed": 775,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 363,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1567,6 +1567,11 @@
       "Time": "2023-11-29T21:04:22.3172982+00:00",
       "NumProgressed": 774,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T22:04:02.4573288+00:00",
+      "NumProgressed": 775,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1627,7 +1632,7 @@
       "Name": "Knight-Vexillor",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "CompleteChapter1",
@@ -1635,7 +1640,7 @@
       "Name": "Pathfinder",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "CompleteChapter10",
@@ -1643,7 +1648,7 @@
       "Name": "You da Boss, Now",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "CompleteChapter11",
@@ -1753,17 +1758,17 @@
       "ID": "CompleteChapter6",
       "SetID": "52ail55",
       "Name": "More Waagh, More Problems",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 140
     },
     {
       "ID": "CompleteChapter7",
       "SetID": "52ail55",
       "Name": "First to be Forged, Never to Fail!",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 116
     },
     {
       "ID": "CompleteChapter8",
@@ -1859,7 +1864,7 @@
       "Name": "Warmaster Supreme",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "WinAllConquestBattlesInARun",
@@ -1874,14 +1879,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 774,
+      "Progressed": 775,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-29T21:04:22.3172979+00:00",
+  "LastChanged_Achievements": "2023-11-29T22:04:02.4573285+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-29T20:57:45.4617074+00:00",
-  "LastUpdate_Achievements": "2023-11-29T21:04:22.3173331+00:00"
+  "LastUpdate_Ratings": "2023-11-29T21:57:26.1177136+00:00",
+  "LastUpdate_Achievements": "2023-11-29T22:04:02.4573566+00:00"
 }

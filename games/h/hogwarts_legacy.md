@@ -26,7 +26,7 @@ Rating: 4.76 (Ranked 128)
 | The Avenging Gazelle | 8.00% | ~24,287 |
 | Beast Friends | 8.00% | ~24,287 |
 | Flight the Good Flight | 8.00% | ~24,287 |
-| Raising Expectations | 7.00% | ~21,251 |
+| Raising Expectations | 7.00% | ~21,252 |
 | The Seeker of Knowledge | 6.00% | ~18,216 |
 | The Root of the Problem | 6.00% | ~18,216 |
 | Third Time's a Charm | 6.00% | ~18,216 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 128)
 | The Nature of the Beast | 0.70% | ~2,125 |
 | Collector's Edition | 0.30% | ~911 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,592 (Ranked 54)  
+Progressed: 303,593 (Ranked 54)  
 Completed: 519 (0.17%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,10 +274,10 @@ Completed: 519 (0.17%) (Ranked 267)
 | 2023-11-26 | 303,320 | 515 |
 | 2023-11-27 | 303,418 | 518 |
 | 2023-11-28 | 303,515 | 519 |
-| 2023-11-29 | 303,592 | 519 |
+| 2023-11-29 | 303,593 | 519 |
 ## Awards
 Max (Character Customization): 24,755  (Ranked 17)  
-Sum: 49,437 (Ranked 30)  
+Sum: 49,442 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -289,7 +289,7 @@ Diff (max vs sum): -13
 | This game is Extremely Fun | 1,279 |
 | This game is Relaxing | 1,277 |
 | This game has Amazing Characters | 1,237 |
-| This game is Highly Recommended | 1,211 |
+| This game is Highly Recommended | 1,216 |
 | This game has Quickly Understood Controls | 1,181 |
 | This game has Beautiful Visuals | 1,066 |
 | This game has a Creative Community | 821 |
@@ -546,4 +546,4 @@ Diff (max vs sum): -13
 | 2023-11-26 | 4.76 | 24,684 | 49,249 |
 | 2023-11-27 | 4.76 | 24,711 | 49,337 |
 | 2023-11-28 | 4.76 | 24,728 | 49,391 |
-| 2023-11-29 | 4.76 | 24,755 | 49,437 |
+| 2023-11-29 | 4.76 | 24,755 | 49,442 |

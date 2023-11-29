@@ -38,8 +38,8 @@
 | Overtaking the Master | 2.00% | ~46 |
 | Next Level | 1.00% | ~23 |
 | I Don't Stop | 1.00% | ~23 |
+| In Search of Perfection | 0.70% | ~16 |
 | Exhausted but Happy | 0.60% | ~14 |
-| In Search of Perfection | 0.60% | ~14 |
 | Globe-trotter | 0.50% | ~12 |
 | Maximum Endurance | 0.30% | ~7 |
 | All My Own Toys | 0.20% | ~5 |

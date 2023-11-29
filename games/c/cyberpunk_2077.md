@@ -6,17 +6,17 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 11.00% | ~105,916 |
-| Gun Fu | 6.00% | ~57,772 |
-| The Fool | 5.00% | ~48,143 |
-| Right Back At Ya | 4.00% | ~38,515 |
-| The Lovers | 3.00% | ~28,886 |
-| Full Body Conversion | 2.00% | ~19,257 |
-| Stanislavski's Method | 2.00% | ~19,257 |
-| The Hermit | 2.00% | ~19,257 |
-| The Wheel of Fortune | 2.00% | ~19,257 |
-| True Soldier | 2.00% | ~19,257 |
-| Relic Ruler | 2.00% | ~1,830 |
+| V for Vendetta | 11.00% | ~105,922 |
+| Gun Fu | 6.00% | ~57,776 |
+| The Fool | 5.00% | ~48,146 |
+| Right Back At Ya | 4.00% | ~38,517 |
+| The Lovers | 3.00% | ~28,888 |
+| Full Body Conversion | 2.00% | ~19,259 |
+| Stanislavski's Method | 2.00% | ~19,259 |
+| The Hermit | 2.00% | ~19,259 |
+| The Wheel of Fortune | 2.00% | ~19,259 |
+| True Soldier | 2.00% | ~19,259 |
+| Relic Ruler | 2.00% | ~1,831 |
 | Christmas Tree Attack | 1.00% | ~9,629 |
 | The Quick and the Dead | 1.00% | ~9,629 |
 | Life of the Road | 1.00% | ~9,629 |
@@ -32,23 +32,23 @@ Number of Ratings: 32,700  (23.09.2022)
 | I Am The Law | 0.70% | ~6,740 |
 | Two Heads, One Bullet | 0.70% | ~6,740 |
 | Judy vs Night City | 0.70% | ~6,740 |
-| Spin Doctor | 0.70% | ~640 |
+| Spin Doctor | 0.70% | ~641 |
 | Easy Come, Easy Go | 0.60% | ~549 |
-| The Wandering Fool | 0.50% | ~4,814 |
-| King of Wands | 0.50% | ~457 |
-| Dirty Deeds | 0.50% | ~457 |
-| To Bad Decisions! | 0.40% | ~3,851 |
-| Ten out of Ten | 0.40% | ~3,851 |
-| The Sun | 0.40% | ~3,851 |
+| The Wandering Fool | 0.50% | ~4,815 |
+| King of Wands | 0.50% | ~458 |
+| Dirty Deeds | 0.50% | ~458 |
+| To Bad Decisions! | 0.40% | ~3,852 |
+| Ten out of Ten | 0.40% | ~3,852 |
+| The Sun | 0.40% | ~3,852 |
 | Autojock | 0.30% | ~2,889 |
 | Must Be Rats | 0.30% | ~2,889 |
 | Breathtaking | 0.30% | ~2,889 |
 | The Star | 0.30% | ~2,889 |
-| The APB is Not Enough | 0.30% | ~274 |
-| Judgement Day | 0.30% | ~274 |
-| King of Pentacles | 0.30% | ~274 |
-| King of Swords | 0.30% | ~274 |
-| The Tower | 0.30% | ~274 |
+| The APB is Not Enough | 0.30% | ~275 |
+| Judgement Day | 0.30% | ~275 |
+| King of Pentacles | 0.30% | ~275 |
+| King of Swords | 0.30% | ~275 |
+| The Tower | 0.30% | ~275 |
 | Temperance | 0.20% | ~1,926 |
 | King of Cups | 0.20% | ~183 |
 | City Lights | 0.10% | ~963 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 962,869 (Ranked 15)  
+Progressed: 962,926 (Ranked 15)  
 Completed: 2,823 (0.29%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 2,823 (0.29%) (Ranked 238)
 | 2023-11-26 | 950,531 | 2,816 |
 | 2023-11-27 | 955,649 | 2,818 |
 | 2023-11-28 | 960,226 | 2,821 |
-| 2023-11-29 | 962,869 | 2,823 |
+| 2023-11-29 | 962,926 | 2,823 |
 ## Awards
 Max (Character Customization): 111,778  (Ranked 9)  
 Sum: 373,471 (Ranked 9)  

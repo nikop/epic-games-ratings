@@ -927,7 +927,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7364,
+  "EOS_Progressed": 7365,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
@@ -8852,6 +8852,11 @@
       "Time": "2023-11-29T16:10:10.7624322+00:00",
       "NumProgressed": 7364,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T22:08:45.850068+00:00",
+      "NumProgressed": 7365,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8903,7 +8908,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4492
+      "UsersEstimate": 4493
     },
     {
       "ID": "Control_All_Relics",
@@ -8967,7 +8972,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5670
+      "UsersEstimate": 5671
     },
     {
       "ID": "First_Race_Met",
@@ -8975,7 +8980,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5302
+      "UsersEstimate": 5303
     },
     {
       "ID": "First_Ship_Designed",
@@ -8983,7 +8988,7 @@
       "Name": "Design a Ship",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1988
+      "UsersEstimate": 1989
     },
     {
       "ID": "First_Stream_Travel",
@@ -8999,7 +9004,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5670
+      "UsersEstimate": 5671
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -9167,7 +9172,7 @@
       "Name": "Commodity Seller",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1767
+      "UsersEstimate": 1768
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -9183,7 +9188,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4418
+      "UsersEstimate": 4419
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -9438,15 +9443,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7364,
+      "Progressed": 7365,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-11-24T10:59:15.0247193+00:00",
-  "LastChanged_Achievements": "2023-11-29T21:09:05.7642773+00:00",
+  "LastChanged_Achievements": "2023-11-29T22:08:45.8500678+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:12.8136336+00:00",
-  "LastUpdate_Ratings": "2023-11-29T20:58:00.6026723+00:00",
-  "LastUpdate_Achievements": "2023-11-29T21:09:05.7643838+00:00"
+  "LastUpdate_Ratings": "2023-11-29T21:57:41.4435709+00:00",
+  "LastUpdate_Achievements": "2023-11-29T22:08:45.8501443+00:00"
 }

@@ -5543,7 +5543,7 @@
   ],
   "EOS_Progressed": 8964,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 481,
+  "EOS_NewPlayers": 480,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -13603,9 +13603,9 @@
       "ID": "achievement_a45",
       "SetID": "3m4b0pk",
       "Name": "Kitted Out",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 4661
+      "UsersEstimate": 4751
     },
     {
       "ID": "achievement_a46",
@@ -13724,8 +13724,8 @@
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
   "LastChanged": "2023-11-29T20:59:15.7598877+00:00",
-  "LastChanged_Achievements": "2023-11-29T21:09:02.3980362+00:00",
+  "LastChanged_Achievements": "2023-11-29T22:08:42.2936944+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:07.2165049+00:00",
-  "LastUpdate_Ratings": "2023-11-29T20:59:15.7598881+00:00",
-  "LastUpdate_Achievements": "2023-11-29T21:09:02.3981416+00:00"
+  "LastUpdate_Ratings": "2023-11-29T21:58:56.6934656+00:00",
+  "LastUpdate_Achievements": "2023-11-29T22:08:42.293753+00:00"
 }

@@ -11149,10 +11149,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 49437,
       "NumberOfAwardsMax": 24755
+    },
+    {
+      "Time": "2023-11-29T22:02:35.288443+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 49442,
+      "NumberOfAwardsMax": 24755
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49437,
+  "NumberOfAwards": 49442,
   "NumberOfAwardsMax": 24755,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11208,7 +11214,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1211
+      "Count": 1216
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -11229,9 +11235,9 @@
       "Count": 821
     }
   ],
-  "EOS_Progressed": 303592,
+  "EOS_Progressed": 303593,
   "EOS_Completed": 519,
-  "EOS_NewPlayers": 903,
+  "EOS_NewPlayers": 891,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -35299,6 +35305,11 @@
       "Time": "2023-11-29T21:09:39.9452209+00:00",
       "NumProgressed": 303592,
       "NumCompleted": 519
+    },
+    {
+      "Time": "2023-11-29T22:09:20.402744+00:00",
+      "NumProgressed": 303593,
+      "NumCompleted": 519
     }
   ],
   "TotalAchievements": 45,
@@ -35598,7 +35609,7 @@
       "Name": "Raising Expectations",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 21251
+      "UsersEstimate": 21252
     },
     {
       "ID": "PFA_43",
@@ -35669,16 +35680,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303592,
+      "Progressed": 303593,
       "Completed": 519
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-29T20:02:28.3503519+00:00",
-  "LastChanged_Achievements": "2023-11-29T21:09:39.9452206+00:00",
+  "LastChanged": "2023-11-29T22:02:35.2884429+00:00",
+  "LastChanged_Achievements": "2023-11-29T22:09:20.4027438+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7292094+00:00",
-  "LastUpdate_Ratings": "2023-11-29T21:02:56.8186797+00:00",
-  "LastUpdate_Achievements": "2023-11-29T21:09:39.945378+00:00"
+  "LastUpdate_Ratings": "2023-11-29T22:02:35.2884434+00:00",
+  "LastUpdate_Achievements": "2023-11-29T22:09:20.4028761+00:00"
 }

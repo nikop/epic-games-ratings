@@ -5,22 +5,22 @@ Rating: 4.55 (Ranked 506)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 82.00% | ~11,323 |
-| Pay 'n' Spray | 52.00% | ~7,181 |
-| All Dressed Up for San Fierro | 26.00% | ~3,590 |
+| Getting Started | 82.00% | ~11,325 |
+| Pay 'n' Spray | 52.00% | ~7,182 |
+| All Dressed Up for San Fierro | 26.00% | ~3,591 |
 | The American Dream | 20.00% | ~2,762 |
 | School's Out | 19.00% | ~2,624 |
 | Smooth Moves | 17.00% | ~2,348 |
-| What happens in Las Venturas... | 16.00% | ~2,209 |
-| Today Was a Good Day | 16.00% | ~2,209 |
+| What happens in Las Venturas... | 16.00% | ~2,210 |
+| Today Was a Good Day | 16.00% | ~2,210 |
 | Horror of the Santa Maria | 11.00% | ~1,519 |
 | Liberty City State of Mind | 10.00% | ~1,381 |
 | Original Gangster | 9.00% | ~1,243 |
 | The End of the Line | 8.00% | ~1,105 |
 | With Extra Dip | 7.00% | ~967 |
 | Saviour | 6.00% | ~829 |
-| They Can’t Stop All of Us | 5.00% | ~690 |
-| Rescue a Kitten Too? | 5.00% | ~690 |
+| They Can’t Stop All of Us | 5.00% | ~691 |
+| Rescue a Kitten Too? | 5.00% | ~691 |
 | What are the Odds | 4.00% | ~552 |
 | I’ll Have Two Number 9s | 3.00% | ~414 |
 | Bike or Biker | 3.00% | ~414 |
@@ -41,8 +41,8 @@ Rating: 4.55 (Ranked 506)
 | ...Here we go again | 0.50% | ~69 |
 | I Ain't No Buster | 0.40% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,809 (Ranked 156)  
-Completed: 55 (0.40%) (Ranked 220)  
+Progressed: 13,811 (Ranked 156)  
+Completed: 56 (0.41%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -264,11 +264,11 @@ Completed: 55 (0.40%) (Ranked 220)
 | 2023-11-26 | 13,786 | 54 |
 | 2023-11-27 | 13,794 | 54 |
 | 2023-11-28 | 13,801 | 54 |
-| 2023-11-29 | 13,809 | 55 |
+| 2023-11-29 | 13,811 | 56 |
 ## Awards
 Max (Great Boss Battles): 410  (Ranked 229)  
-Sum: 680 (Ranked 299)  
-Diff (max vs sum): -70  
+Sum: 680 (Ranked 300)  
+Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 410 |

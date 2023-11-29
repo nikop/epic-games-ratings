@@ -15896,9 +15896,9 @@
       "Count": 13751
     }
   ],
-  "EOS_Progressed": 962869,
+  "EOS_Progressed": 962926,
   "EOS_Completed": 2823,
-  "EOS_NewPlayers": 49192,
+  "EOS_NewPlayers": 49082,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -41261,6 +41261,11 @@
       "Time": "2023-11-29T21:03:54.3687384+00:00",
       "NumProgressed": 962869,
       "NumCompleted": 2823
+    },
+    {
+      "Time": "2023-11-29T22:03:35.2261848+00:00",
+      "NumProgressed": 962926,
+      "NumCompleted": 2823
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -41281,7 +41286,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3851
+      "UsersEstimate": 3852
     },
     {
       "ID": "BushidoAndChill",
@@ -41297,7 +41302,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19257
+      "UsersEstimate": 19259
     },
     {
       "ID": "Denied",
@@ -41305,7 +41310,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 38515
+      "UsersEstimate": 38517
     },
     {
       "ID": "FollowingTheRiver",
@@ -41321,7 +41326,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4814
+      "UsersEstimate": 4815
     },
     {
       "ID": "Gearhead",
@@ -41345,7 +41350,7 @@
       "Name": "Gun Fu",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 57772
+      "UsersEstimate": 57776
     },
     {
       "ID": "Gunslinger",
@@ -41449,7 +41454,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19257
+      "UsersEstimate": 19259
     },
     {
       "ID": "Specialist",
@@ -41457,7 +41462,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3851
+      "UsersEstimate": 3852
     },
     {
       "ID": "Temperance",
@@ -41489,7 +41494,7 @@
       "Name": "The Fool",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48143
+      "UsersEstimate": 48146
     },
     {
       "ID": "TheHermit",
@@ -41497,7 +41502,7 @@
       "Name": "The Hermit",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19257
+      "UsersEstimate": 19259
     },
     {
       "ID": "TheHightPriestess",
@@ -41513,7 +41518,7 @@
       "Name": "The Lovers",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 28886
+      "UsersEstimate": 28888
     },
     {
       "ID": "TheStar",
@@ -41529,7 +41534,7 @@
       "Name": "The Sun",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3851
+      "UsersEstimate": 3852
     },
     {
       "ID": "TheWheelOfFortune",
@@ -41537,7 +41542,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19257
+      "UsersEstimate": 19259
     },
     {
       "ID": "TheWorld",
@@ -41569,7 +41574,7 @@
       "Name": "True Soldier",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 19257
+      "UsersEstimate": 19259
     },
     {
       "ID": "TrueWarrior",
@@ -41601,7 +41606,7 @@
       "Name": "V for Vendetta",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 105916
+      "UsersEstimate": 105922
     },
     {
       "ID": "YipMan",
@@ -41649,7 +41654,7 @@
       "Name": "The APB is Not Enough",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "Easycomeeasygo",
@@ -41673,7 +41678,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "Kingofcups",
@@ -41713,7 +41718,7 @@
       "Name": "Relic Ruler",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 1830
+      "UsersEstimate": 1831
     },
     {
       "ID": "UltimateSurvivor",
@@ -41737,7 +41742,7 @@
       "Name": "Judgement Day",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "IHateSpider",
@@ -41761,7 +41766,7 @@
       "Name": "King of Pentacles",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "KingOfTheSwords",
@@ -41769,7 +41774,7 @@
       "Name": "King of Swords",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "KingOfTheWands",
@@ -41777,7 +41782,7 @@
       "Name": "King of Wands",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "TheTower",
@@ -41785,7 +41790,7 @@
       "Name": "The Tower",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "DirtyWork",
@@ -41793,7 +41798,7 @@
       "Name": "Dirty Deeds",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "EasyComeEasyGo",
@@ -41808,21 +41813,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 962869,
+      "Progressed": 962926,
       "Completed": 2823
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 91492,
+      "Progressed": 91549,
       "Completed": 10274
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-29T21:00:41.8385022+00:00",
-  "LastChanged_Achievements": "2023-11-29T21:03:54.3687381+00:00",
+  "LastChanged_Achievements": "2023-11-29T22:03:35.2261844+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:09.4602955+00:00",
-  "LastUpdate_Ratings": "2023-11-29T21:00:41.8385027+00:00",
-  "LastUpdate_Achievements": "2023-11-29T21:03:54.3689071+00:00"
+  "LastUpdate_Ratings": "2023-11-29T22:02:31.7299549+00:00",
+  "LastUpdate_Achievements": "2023-11-29T22:03:35.2263499+00:00"
 }

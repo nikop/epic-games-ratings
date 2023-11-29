@@ -6,27 +6,27 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 42.00% | ~5,951 |
-| It's a good start | 10.00% | ~1,417 |
+| Bye Bye | 42.00% | ~5,955 |
+| It's a good start | 10.00% | ~1,418 |
 | Bonjour! | 8.00% | ~1,134 |
 | Quack | 8.00% | ~1,134 |
-| The Assistant | 6.00% | ~850 |
-| The Blue Marl | 6.00% | ~850 |
-| Ostinata | 5.00% | ~708 |
-| Better than nothing? | 5.00% | ~708 |
+| The Assistant | 6.00% | ~851 |
+| The Blue Marl | 6.00% | ~851 |
+| Ostinata | 5.00% | ~709 |
+| Better than nothing? | 5.00% | ~709 |
 | A long journey | 4.00% | ~567 |
 | Big Money | 3.00% | ~425 |
 | Keep the doctor away | 3.00% | ~425 |
 | Surprise of Langhe | 3.00% | ~425 |
 | Famous | 3.00% | ~425 |
-| What is that? A castle? | 2.00% | ~283 |
-| A lot of space | 2.00% | ~283 |
-| A big garage | 2.00% | ~283 |
-| Millionaire | 2.00% | ~283 |
-| Exotic | 2.00% | ~283 |
-| Pastry Chef | 2.00% | ~283 |
-| Welcome to the club | 2.00% | ~283 |
-| Very Important Winemaker | 2.00% | ~283 |
+| What is that? A castle? | 2.00% | ~284 |
+| A lot of space | 2.00% | ~284 |
+| A big garage | 2.00% | ~284 |
+| Millionaire | 2.00% | ~284 |
+| Exotic | 2.00% | ~284 |
+| Pastry Chef | 2.00% | ~284 |
+| Welcome to the club | 2.00% | ~284 |
+| Very Important Winemaker | 2.00% | ~284 |
 | King of Langhe | 1.00% | ~142 |
 | Gem of Monferrato | 1.00% | ~142 |
 | Treasure of Roero | 0.70% | ~99 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Big deals | 0.10% | ~14 |
 | Master Winemaker | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,170 (Ranked 153)  
+Progressed: 14,179 (Ranked 153)  
 Completed: 12 (0.08%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 12 (0.08%) (Ranked 298)
 | 2023-11-26 | 13,881 | 12 |
 | 2023-11-27 | 13,999 | 12 |
 | 2023-11-28 | 14,081 | 12 |
-| 2023-11-29 | 14,170 | 12 |
+| 2023-11-29 | 14,179 | 12 |
 ## Awards
 Max (Relaxing): 207  (Ranked 286)  
 Sum: 1,730 (Ranked 222)  

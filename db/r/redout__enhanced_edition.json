@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 236376,
+  "EOS_Progressed": 236378,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 377,
+  "EOS_NewPlayers": 376,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -23807,6 +23807,11 @@
       "Time": "2023-11-29T21:03:44.1089906+00:00",
       "NumProgressed": 236376,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-11-29T22:03:24.8742885+00:00",
+      "NumProgressed": 236378,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -23834,7 +23839,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 66185
+      "UsersEstimate": 66186
     },
     {
       "ID": "CENTAUR",
@@ -23850,7 +23855,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 26001
+      "UsersEstimate": 26002
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -23906,7 +23911,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 47275
+      "UsersEstimate": 47276
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -23954,7 +23959,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 78004
+      "UsersEstimate": 78005
     },
     {
       "ID": "NOBUNAGA",
@@ -24082,22 +24087,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 96914
+      "UsersEstimate": 96915
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 236376,
+      "Progressed": 236378,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-11-29T21:03:44.1089903+00:00",
+  "LastChanged_Achievements": "2023-11-29T22:03:24.8742882+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:54.8147859+00:00",
-  "LastUpdate_Ratings": "2023-11-29T20:59:08.0448185+00:00",
-  "LastUpdate_Achievements": "2023-11-29T21:03:44.1091386+00:00"
+  "LastUpdate_Ratings": "2023-11-29T21:58:48.0789057+00:00",
+  "LastUpdate_Achievements": "2023-11-29T22:03:24.8744531+00:00"
 }

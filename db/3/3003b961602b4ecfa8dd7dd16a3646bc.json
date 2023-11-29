@@ -366,9 +366,9 @@
       "ID": "ACH_22_QUARRY",
       "SetID": "9dl0ei6",
       "Name": "Much too many stones",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_23_MILL",
@@ -390,9 +390,9 @@
       "ID": "ACH_25_BEACH",
       "SetID": "9dl0ei6",
       "Name": "Surfer",
-      "Percentage": 42,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_26_SIDEQUEST",
@@ -421,8 +421,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-11-29T21:09:38.9042351+00:00",
+  "LastChanged_Achievements": "2023-11-29T22:09:19.2762543+00:00",
   "LastUpdate_AppInfo": "2023-11-26T23:57:17.243865+00:00",
-  "LastUpdate_Ratings": "2023-11-29T20:59:15.5208302+00:00",
-  "LastUpdate_Achievements": "2023-11-29T21:09:38.9042629+00:00"
+  "LastUpdate_Ratings": "2023-11-29T21:58:56.1697991+00:00",
+  "LastUpdate_Achievements": "2023-11-29T22:09:19.276268+00:00"
 }

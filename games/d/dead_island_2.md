@@ -5,15 +5,15 @@ Rating: 4.54 (Ranked 527)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,599 |
-| Break A Leg | 2.00% | ~14,555 |
-| Coup de Grâce | 2.00% | ~14,555 |
-| Hazardous Materials | 2.00% | ~14,555 |
-| Hotel California | 2.00% | ~14,555 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,555 |
-| Welcome To Hell-A | 2.00% | ~14,555 |
-| One of Us | 2.00% | ~1,066 |
-| Pork Chopped | 2.00% | ~1,066 |
+| Whatever It Takes | 3.00% | ~1,600 |
+| Break A Leg | 2.00% | ~14,556 |
+| Coup de Grâce | 2.00% | ~14,556 |
+| Hazardous Materials | 2.00% | ~14,556 |
+| Hotel California | 2.00% | ~14,556 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,556 |
+| Welcome To Hell-A | 2.00% | ~14,556 |
+| One of Us | 2.00% | ~1,067 |
+| Pork Chopped | 2.00% | ~1,067 |
 | Dr. Reed, I Presume? | 1.00% | ~7,278 |
 | Git Gutte! | 1.00% | ~7,278 |
 | Anger Management | 1.00% | ~7,278 |
@@ -37,7 +37,7 @@ Rating: 4.54 (Ranked 527)
 | Humanity Distilled | 0.80% | ~5,822 |
 | Down with the Sickness | 0.80% | ~5,822 |
 | Max Headroom | 0.80% | ~5,822 |
-| Not Even My Final Form | 0.70% | ~5,094 |
+| Not Even My Final Form | 0.70% | ~5,095 |
 | Jumbo Keyring | 0.60% | ~4,367 |
 | Go, Bobcats! | 0.60% | ~4,367 |
 | Rising Star | 0.60% | ~4,367 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 527)
 | Bucket List | 0.10% | ~728 |
 | Wilhelm | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 727,774 (Ranked 21)  
+Progressed: 727,795 (Ranked 21)  
 Completed: 2,450 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 2,450 (0.34%) (Ranked 231)
 | 2023-11-26 | 726,037 | 2,441 |
 | 2023-11-27 | 726,753 | 2,443 |
 | 2023-11-28 | 727,374 | 2,447 |
-| 2023-11-29 | 727,774 | 2,450 |
+| 2023-11-29 | 727,795 | 2,450 |
 ## Awards
 Max (Great Boss Battles): 7,803  (Ranked 49)  
 Sum: 11,959 (Ranked 84)  

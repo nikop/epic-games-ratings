@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 87.00% | ~434 |
-| Thalya – Simply Immortal | 87.00% | ~434 |
-| For the Horde! | 81.00% | ~404 |
-| Hammer Time, Round Two | 79.00% | ~394 |
-| The Hellwoods | 73.00% | ~364 |
-| The Plains of Strothalm | 68.00% | ~339 |
-| Experienced Thalya | 68.00% | ~339 |
-| Thalya's Concentrated Fury | 67.00% | ~334 |
-| Bad Elves Go Everywhere | 65.00% | ~324 |
-| Master of Magic | 63.00% | ~314 |
-| Heroes’ Gorge | 61.00% | ~304 |
-| Unicorn steaks – fresh off the hoof! | 59.00% | ~294 |
-| Magic Accidents | 58.00% | ~289 |
-| Trap Master | 55.00% | ~274 |
-| Minions, Minions! | 53.00% | ~264 |
-| The Ascent | 52.00% | ~259 |
-| It's Warm and Cozy at Home | 52.00% | ~259 |
+| The Last Stand | 87.00% | ~435 |
+| Thalya – Simply Immortal | 87.00% | ~435 |
+| For the Horde! | 81.00% | ~405 |
+| Hammer Time, Round Two | 79.00% | ~395 |
+| The Hellwoods | 73.00% | ~365 |
+| The Plains of Strothalm | 68.00% | ~340 |
+| Experienced Thalya | 68.00% | ~340 |
+| Thalya's Concentrated Fury | 67.00% | ~335 |
+| Bad Elves Go Everywhere | 65.00% | ~325 |
+| Master of Magic | 63.00% | ~315 |
+| Heroes’ Gorge | 60.00% | ~300 |
+| Unicorn steaks – fresh off the hoof! | 58.00% | ~290 |
+| Magic Accidents | 57.00% | ~285 |
+| Trap Master | 55.00% | ~275 |
+| Minions, Minions! | 53.00% | ~265 |
+| The Ascent | 52.00% | ~260 |
+| It's Warm and Cozy at Home | 52.00% | ~260 |
 | Hard Work | 47.00% | ~235 |
 | YOU SHALL NOT PASS! | 46.00% | ~230 |
-| The Big Eaty | 45.00% | ~225 |
+| The Big Eaty | 46.00% | ~230 |
 | Pure Dynamite! | 42.00% | ~210 |
 | “… like son” | 41.00% | ~205 |
 | Mana Cannon | 37.00% | ~185 |
-| Dungeonlord Gorgu | 36.00% | ~180 |
+| Dungeonlord Gorgu | 37.00% | ~185 |
+| The Cathedral of Light | 35.00% | ~175 |
 | Shame! Shame! Shame! | 35.00% | ~175 |
-| The Cathedral of Light | 34.00% | ~170 |
 | Tanos' Crusade Against Thalya | 31.00% | ~155 |
 | All’s Well That Ends Evil | 26.00% | ~130 |
 | Unstoppable Horde | 25.00% | ~125 |
@@ -47,8 +47,8 @@
 | Sabotage! | 15.00% | ~75 |
 | Brimstone Shaken, Not Stirred | 15.00% | ~75 |
 | Bonus Evilness | 14.00% | ~70 |
+| The Rune Sockets of Finitude (Part 1) | 14.00% | ~70 |
 | Raiders of the Lost Stone | 13.00% | ~65 |
-| The Rune Sockets of Finitude (Part 1) | 13.00% | ~65 |
 | My Little Torture Chamber | 12.00% | ~60 |
 | Lavalumps on Ice! | 12.00% | ~60 |
 | The Rune Sockets of Finitude (Part 2) | 12.00% | ~60 |
@@ -66,7 +66,7 @@
 | No Mana, No Cry | 4.00% | ~20 |
 | I Don't Need Any Help | 4.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 499 (Ranked 310)  
+Progressed: 500 (Ranked 310)  
 Completed: 8 (1.60%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,4 +91,4 @@ Completed: 8 (1.60%) (Ranked 139)
 | 2023-11-26 | 452 | 6 |
 | 2023-11-27 | 477 | 7 |
 | 2023-11-28 | 489 | 8 |
-| 2023-11-29 | 499 | 8 |
+| 2023-11-29 | 500 | 8 |

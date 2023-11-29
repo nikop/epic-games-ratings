@@ -408,9 +408,9 @@
       "ID": "AC_BOSS_04",
       "SetID": "16i2akc",
       "Name": "Heresy",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "AC_COMBO_1",
@@ -600,9 +600,9 @@
       "ID": "AC_ROCKET_MAX",
       "SetID": "16i2akc",
       "Name": "Rocket",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AC_ROSCOBOSS",
@@ -647,8 +647,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-29T21:04:12.1131537+00:00",
+  "LastChanged_Achievements": "2023-11-29T22:03:52.6558824+00:00",
   "LastUpdate_AppInfo": "2023-11-28T18:57:05.8641658+00:00",
-  "LastUpdate_Ratings": "2023-11-29T21:00:14.4948742+00:00",
-  "LastUpdate_Achievements": "2023-11-29T21:04:12.1131827+00:00"
+  "LastUpdate_Ratings": "2023-11-29T21:59:55.1417073+00:00",
+  "LastUpdate_Achievements": "2023-11-29T22:03:52.6559139+00:00"
 }

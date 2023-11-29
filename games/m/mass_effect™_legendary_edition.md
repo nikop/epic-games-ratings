@@ -9,7 +9,7 @@
 | Medal of Exploration I | 72.00% | ~1,047 |
 | Recruit | 68.00% | ~989 |
 | Search and Rescue | 67.00% | ~974 |
-| Quarian Ally | 63.00% | ~916 |
+| Quarian Ally | 64.00% | ~931 |
 | Medal of Heroism | 60.00% | ~872 |
 | Honorarium of Corporate Service | 59.00% | ~858 |
 | Medal of Exploration II | 54.00% | ~785 |
@@ -21,8 +21,8 @@
 | Soldier | 49.00% | ~712 |
 | Soldier Ally | 46.00% | ~669 |
 | Asari Ally | 46.00% | ~669 |
+| Principled | 46.00% | ~669 |
 | Medal of Exploration III | 45.00% | ~654 |
-| Principled | 45.00% | ~654 |
 | Paramour I | 44.00% | ~640 |
 | Colonial Savior | 44.00% | ~640 |
 | Missing in Action | 44.00% | ~640 |
@@ -84,8 +84,8 @@
 | Weapon Specialist | 24.00% | ~349 |
 | Pathfinder | 24.00% | ~349 |
 | Arbiter | 24.00% | ~349 |
+| Lost and Found | 24.00% | ~349 |
 | Savior | 23.00% | ~334 |
-| Lost and Found | 23.00% | ~334 |
 | Paramour II | 22.00% | ~320 |
 | Party Crasher | 22.00% | ~320 |
 | Hard Target | 21.00% | ~305 |

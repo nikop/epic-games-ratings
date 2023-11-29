@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 455,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 91
     }
   ],
-  "EOS_Progressed": 253395,
+  "EOS_Progressed": 253397,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 599,
+  "EOS_NewPlayers": 594,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25489,6 +25489,11 @@
       "Time": "2023-11-29T21:05:55.4018854+00:00",
       "NumProgressed": 253395,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-29T22:05:36.3886616+00:00",
+      "NumProgressed": 253397,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -25540,7 +25545,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 30407
+      "UsersEstimate": 30408
     },
     {
       "ID": "ACH_ENJOY",
@@ -25564,7 +25569,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 32941
+      "UsersEstimate": 32942
     },
     {
       "ID": "ACH_HATTRICK",
@@ -25915,7 +25920,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 253395,
+      "Progressed": 253397,
       "Completed": 7
     }
   ],
@@ -25923,8 +25928,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-22T22:59:02.1390079+00:00",
-  "LastChanged_Achievements": "2023-11-29T21:05:55.4018851+00:00",
+  "LastChanged_Achievements": "2023-11-29T22:05:36.3886614+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:16.3700247+00:00",
-  "LastUpdate_Ratings": "2023-11-29T20:58:42.1137262+00:00",
-  "LastUpdate_Achievements": "2023-11-29T21:05:55.4020404+00:00"
+  "LastUpdate_Ratings": "2023-11-29T21:58:22.3680542+00:00",
+  "LastUpdate_Achievements": "2023-11-29T22:05:36.388828+00:00"
 }

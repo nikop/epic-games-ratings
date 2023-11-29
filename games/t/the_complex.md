@@ -11,9 +11,9 @@
 | Beat It | 51.00% | ~331 |
 | Free Champagne | 48.00% | ~312 |
 | Storage Hunter | 47.00% | ~305 |
-| Falling For You | 43.00% | ~279 |
+| Falling For You | 44.00% | ~286 |
 | Trust Me For Once | 28.00% | ~182 |
-| Lab Rat | 24.00% | ~156 |
+| Lab Rat | 25.00% | ~162 |
 | Stalemate | 20.00% | ~130 |
 | Kindar Surprise | 18.00% | ~117 |
 | MVP - Most Vanishing Person | 14.00% | ~91 |

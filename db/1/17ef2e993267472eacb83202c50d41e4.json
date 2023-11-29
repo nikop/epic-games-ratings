@@ -83,7 +83,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8373,
+  "EOS_Progressed": 8374,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
@@ -7583,6 +7583,11 @@
       "Time": "2023-11-29T21:09:44.9314949+00:00",
       "NumProgressed": 8373,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T22:09:25.2860574+00:00",
+      "NumProgressed": 8374,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -7961,9 +7966,9 @@
       "ID": "MaxTowersKilled3",
       "SetID": "12d07c7",
       "Name": "Destroyed 3 Towers in a single match",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 754
+      "UsersEstimate": 837
     },
     {
       "ID": "MaxTowersKilled6",
@@ -8003,7 +8008,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "NeutralKills200",
@@ -8186,7 +8191,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8373,
+      "Progressed": 8374,
       "Completed": 1
     }
   ],
@@ -8194,8 +8199,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-28T13:57:22.5296785+00:00",
-  "LastChanged_Achievements": "2023-11-29T21:09:44.9314946+00:00",
+  "LastChanged_Achievements": "2023-11-29T22:09:25.2860571+00:00",
   "LastUpdate_AppInfo": "2023-11-28T15:57:00.1791972+00:00",
-  "LastUpdate_Ratings": "2023-11-29T20:58:12.4080537+00:00",
-  "LastUpdate_Achievements": "2023-11-29T21:09:44.9316138+00:00"
+  "LastUpdate_Ratings": "2023-11-29T21:57:52.7176086+00:00",
+  "LastUpdate_Achievements": "2023-11-29T22:09:25.2861342+00:00"
 }

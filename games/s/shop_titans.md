@@ -10,7 +10,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 6.00% | ~8,572 |
 | Tinkle of Coins | 6.00% | ~8,572 |
 | Titan's First Steps | 6.00% | ~8,572 |
-| Disintermediation | 4.00% | ~5,715 |
+| Disintermediation | 5.00% | ~7,144 |
 | Another Satisfied Customer | 4.00% | ~5,715 |
 | It's Free Real Estate | 4.00% | ~5,715 |
 | Budding Merchant | 4.00% | ~5,715 |
@@ -43,6 +43,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Locally Sourced | 2.00% | ~2,857 |
 | Flying off the Shelves | 2.00% | ~2,857 |
 | This Power Level...! | 2.00% | ~2,857 |
+| Omae wa Mou Shindeiru | 2.00% | ~2,857 |
 | Hidden Potential | 2.00% | ~2,857 |
 | Power of Love | 2.00% | ~2,857 |
 | Expansion in Session | 2.00% | ~2,857 |
@@ -76,7 +77,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Archivist | 1.00% | ~1,429 |
 | Fillin' the Bin | 1.00% | ~1,429 |
 | Industrial Evolution | 1.00% | ~1,429 |
-| Omae wa Mou Shindeiru | 1.00% | ~1,429 |
 | Master of Transmutation | 1.00% | ~1,429 |
 | Supercharged | 1.00% | ~1,429 |
 | Thank You Tom Nook | 1.00% | ~1,429 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~429 |
 | Capitalist Camaraderie | 0.20% | ~286 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,866 (Ranked 80)  
+Progressed: 142,874 (Ranked 80)  
 Completed: 289 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 289 (0.20%) (Ranked 258)
 | 2023-11-26 | 142,346 | 274 |
 | 2023-11-27 | 142,546 | 278 |
 | 2023-11-28 | 142,735 | 284 |
-| 2023-11-29 | 142,866 | 289 |
+| 2023-11-29 | 142,874 | 289 |
 ## Awards
 Max (Great for Beginners): 4,855  (Ranked 75)  
 Sum: 27,625 (Ranked 50)  

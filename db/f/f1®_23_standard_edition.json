@@ -4,7 +4,7 @@
   "ProductSlug": "f1-23",
   "Ranking_Rating": 255,
   "Ranking_Popularity": 520,
-  "Ranking_PopularitySum": 452,
+  "Ranking_PopularitySum": 450,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 181,
@@ -637,10 +637,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 95,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2023-11-29T21:58:22.4876365+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 96,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 95,
+  "NumberOfAwards": 96,
   "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -660,7 +666,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Diverse Characters",
@@ -681,9 +687,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5970,
+  "EOS_Progressed": 5971,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6501,6 +6507,11 @@
       "Time": "2023-11-29T21:05:32.8755867+00:00",
       "NumProgressed": 5970,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T22:05:13.2815147+00:00",
+      "NumProgressed": 5971,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -6561,7 +6572,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 5612
+      "UsersEstimate": 5613
     },
     {
       "ID": "achievement_0008",
@@ -6593,7 +6604,7 @@
       "Name": "All in a Weekend\u0027s Work",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "achievement_0012",
@@ -6689,7 +6700,7 @@
       "Name": "Sharing the Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2567
+      "UsersEstimate": 2568
     },
     {
       "ID": "achievement_0024",
@@ -6713,7 +6724,7 @@
       "Name": "Friendly Competition",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "achievement_0027",
@@ -6753,7 +6764,7 @@
       "Name": "Recycle",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "achievement_0032",
@@ -6769,7 +6780,7 @@
       "Name": "Engineer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 3343
+      "UsersEstimate": 3344
     },
     {
       "ID": "achievement_0034",
@@ -6857,7 +6868,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 2567
+      "UsersEstimate": 2568
     },
     {
       "ID": "achievement_0045",
@@ -6865,7 +6876,7 @@
       "Name": "Making History",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1911
     },
     {
       "ID": "achievement_0046",
@@ -6881,7 +6892,7 @@
       "Name": "Peak Performance",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "achievement_0048",
@@ -6904,16 +6915,16 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5970,
+      "Progressed": 5971,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2023-11-29T20:58:42.2322809+00:00",
-  "LastChanged_Achievements": "2023-11-29T21:05:32.8755863+00:00",
+  "LastChanged": "2023-11-29T21:58:22.4876364+00:00",
+  "LastChanged_Achievements": "2023-11-29T22:05:13.2815144+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:16.1347365+00:00",
-  "LastUpdate_Ratings": "2023-11-29T20:58:42.2322814+00:00",
-  "LastUpdate_Achievements": "2023-11-29T21:05:32.8756509+00:00"
+  "LastUpdate_Ratings": "2023-11-29T21:58:22.4876369+00:00",
+  "LastUpdate_Achievements": "2023-11-29T22:05:13.2815807+00:00"
 }

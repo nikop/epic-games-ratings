@@ -7291,10 +7291,10 @@
       "Count": 3788
     }
   ],
-  "EOS_Progressed": 142866,
+  "EOS_Progressed": 142874,
   "EOS_Completed": 289,
-  "EOS_NewPlayers": 1837,
-  "EOS_NewCompleters": 96,
+  "EOS_NewPlayers": 1838,
+  "EOS_NewCompleters": 95,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -30406,6 +30406,11 @@
       "Time": "2023-11-29T21:04:25.2318908+00:00",
       "NumProgressed": 142866,
       "NumCompleted": 289
+    },
+    {
+      "Time": "2023-11-29T22:04:05.4984254+00:00",
+      "NumProgressed": 142874,
+      "NumCompleted": 289
     }
   ],
   "TotalAchievements": 112,
@@ -30679,9 +30684,9 @@
       "ID": "craft01",
       "SetID": "anfd17p",
       "Name": "Disintermediation",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5715
+      "UsersEstimate": 7144
     },
     {
       "ID": "craft02",
@@ -30735,9 +30740,9 @@
       "ID": "damage03",
       "SetID": "anfd17p",
       "Name": "Omae wa Mou Shindeiru",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1429
+      "UsersEstimate": 2857
     },
     {
       "ID": "donovan_a",
@@ -31312,15 +31317,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 142866,
+      "Progressed": 142874,
       "Completed": 289
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-29T05:02:50.6487414+00:00",
-  "LastChanged_Achievements": "2023-11-29T21:04:25.2318905+00:00",
+  "LastChanged_Achievements": "2023-11-29T22:04:05.498425+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-11-29T21:03:09.0519773+00:00",
-  "LastUpdate_Achievements": "2023-11-29T21:04:25.2320757+00:00"
+  "LastUpdate_Ratings": "2023-11-29T22:02:47.7254951+00:00",
+  "LastUpdate_Achievements": "2023-11-29T22:04:05.4986143+00:00"
 }

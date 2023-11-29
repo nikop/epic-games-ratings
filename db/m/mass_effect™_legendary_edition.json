@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1454,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -4522,9 +4522,9 @@
       "ID": "achievement_28",
       "SetID": "b9pe172",
       "Name": "Quarian Ally",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 916
+      "UsersEstimate": 931
     },
     {
       "ID": "achievement_29",
@@ -4546,9 +4546,9 @@
       "ID": "achievement_30",
       "SetID": "b9pe172",
       "Name": "Principled",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 75,
-      "UsersEstimate": 654
+      "UsersEstimate": 669
     },
     {
       "ID": "achievement_31",
@@ -5146,9 +5146,9 @@
       "ID": "achievement_99",
       "SetID": "d252ncf",
       "Name": "Lost and Found",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 334
+      "UsersEstimate": 349
     }
   ],
   "AchievementSets": [
@@ -5166,8 +5166,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-29T21:08:58.8992213+00:00",
+  "LastChanged_Achievements": "2023-11-29T22:08:38.9207869+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:10.3433357+00:00",
-  "LastUpdate_Ratings": "2023-11-29T21:03:13.3457222+00:00",
-  "LastUpdate_Achievements": "2023-11-29T21:08:58.8993687+00:00"
+  "LastUpdate_Ratings": "2023-11-29T22:02:52.1128651+00:00",
+  "LastUpdate_Achievements": "2023-11-29T22:08:38.9209715+00:00"
 }

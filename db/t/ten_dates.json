@@ -2,9 +2,9 @@
   "ID": "b5ab16ebd552476688116e187acd2151",
   "Name": "Ten Dates",
   "ProductSlug": "ten-dates-9a188a",
-  "Ranking_EOS_Progress": 354,
+  "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 310,
+  "EOS_Progressed": 311,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.29,
   "EosHistory": [
@@ -641,6 +641,11 @@
       "Time": "2023-11-28T13:13:49.0598376+00:00",
       "NumProgressed": 310,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-29T22:08:40.4230926+00:00",
+      "NumProgressed": 311,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 19,
@@ -682,9 +687,9 @@
       "ID": "profile_misha",
       "SetID": "6h5h9ho",
       "Name": "Let it begin",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 152
     },
     {
       "ID": "profile_ryan",
@@ -716,7 +721,7 @@
       "Name": "The activist",
       "Percentage": 23,
       "XP": 90,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "success_bash",
@@ -803,7 +808,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 310,
+      "Progressed": 311,
       "Completed": 4
     }
   ],
@@ -811,8 +816,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-11-29T21:09:00.6009944+00:00",
+  "LastChanged_Achievements": "2023-11-29T22:08:40.4230922+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:09.5366094+00:00",
-  "LastUpdate_Ratings": "2023-11-29T21:00:12.8935279+00:00",
-  "LastUpdate_Achievements": "2023-11-29T21:09:00.6010089+00:00"
+  "LastUpdate_Ratings": "2023-11-29T21:59:53.5459294+00:00",
+  "LastUpdate_Achievements": "2023-11-29T22:08:40.4231062+00:00"
 }

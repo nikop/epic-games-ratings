@@ -13098,11 +13098,17 @@
       "Rating": 4.51,
       "NumberOfAwards": 280434,
       "NumberOfAwardsMax": 36768
+    },
+    {
+      "Time": "2023-11-29T21:58:52.4687879+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 280678,
+      "NumberOfAwardsMax": 36896
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 280434,
-  "NumberOfAwardsMax": 36768,
+  "NumberOfAwards": 280678,
+  "NumberOfAwardsMax": 36896,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -13115,7 +13121,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 36768
+      "Count": 36896
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -13133,7 +13139,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 31124
+      "Count": 31183
     },
     {
       "Text": "This game has Amazing Characters",
@@ -13163,7 +13169,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 28626
+      "Count": 28683
     },
     {
       "Text": "This game has a Competitive Community",
@@ -13172,9 +13178,9 @@
       "Count": 27339
     }
   ],
-  "EOS_Progressed": 1053630,
+  "EOS_Progressed": 1053780,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 15708,
+  "EOS_NewPlayers": 15768,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -38822,6 +38828,11 @@
       "Time": "2023-11-29T21:09:45.9292436+00:00",
       "NumProgressed": 1053630,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-11-29T22:09:26.406313+00:00",
+      "NumProgressed": 1053780,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 232,
@@ -39001,7 +39012,7 @@
       "Name": "Zealous",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2107
+      "UsersEstimate": 2108
     },
     {
       "ID": "ACH_023",
@@ -39009,7 +39020,7 @@
       "Name": "It wakes",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2107
+      "UsersEstimate": 2108
     },
     {
       "ID": "ACH_024",
@@ -39017,7 +39028,7 @@
       "Name": "Not half bad",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2107
+      "UsersEstimate": 2108
     },
     {
       "ID": "ACH_025",
@@ -39039,9 +39050,9 @@
       "ID": "ACH_027",
       "SetID": "bdmlp8o",
       "Name": "Apt Survivor",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1054
+      "UsersEstimate": 2108
     },
     {
       "ID": "ACH_028",
@@ -39137,7 +39148,7 @@
       "Name": "Skillful",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2107
+      "UsersEstimate": 2108
     },
     {
       "ID": "ACH_040",
@@ -39145,7 +39156,7 @@
       "Name": "I",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2107
+      "UsersEstimate": 2108
     },
     {
       "ID": "ACH_041",
@@ -40599,9 +40610,9 @@
       "ID": "ACH_225",
       "SetID": "16jml5b",
       "Name": "Make Some Noise",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1054
+      "UsersEstimate": 2108
     },
     {
       "ID": "ACH_226",
@@ -40688,21 +40699,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1053630,
+      "Progressed": 1053780,
       "Completed": 66
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1053630,
+      "Progressed": 1053780,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-11-29T20:59:12.5536243+00:00",
-  "LastChanged_Achievements": "2023-11-29T21:09:45.9292434+00:00",
+  "LastChanged": "2023-11-29T21:58:52.4687863+00:00",
+  "LastChanged_Achievements": "2023-11-29T22:09:26.4063127+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:00.7078103+00:00",
-  "LastUpdate_Ratings": "2023-11-29T20:59:12.5536248+00:00",
-  "LastUpdate_Achievements": "2023-11-29T21:09:45.9297583+00:00"
+  "LastUpdate_Ratings": "2023-11-29T21:58:52.4687883+00:00",
+  "LastUpdate_Achievements": "2023-11-29T22:09:26.4068977+00:00"
 }

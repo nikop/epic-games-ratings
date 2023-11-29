@@ -67,7 +67,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 677,
+  "EOS_Progressed": 679,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 336,
   "EOS_NewCompleters": 0,
@@ -1527,6 +1527,11 @@
       "Time": "2023-11-29T21:09:37.1204048+00:00",
       "NumProgressed": 677,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T22:09:17.5348882+00:00",
+      "NumProgressed": 679,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1579,7 +1584,7 @@
       "Name": "Vehicle Builder",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "achievement_15",
@@ -1603,7 +1608,7 @@
       "Name": "Your first time?",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "achievement_18",
@@ -1627,7 +1632,7 @@
       "Name": "Team Principal",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 521
+      "UsersEstimate": 523
     },
     {
       "ID": "achievement_20",
@@ -1667,7 +1672,7 @@
       "Name": "Miracle in the Mountains",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "achievement_25",
@@ -1746,7 +1751,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 677,
+      "Progressed": 679,
       "Completed": 0
     }
   ],
@@ -1754,8 +1759,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-11-29T19:59:52.365085+00:00",
-  "LastChanged_Achievements": "2023-11-29T21:09:37.1204046+00:00",
+  "LastChanged_Achievements": "2023-11-29T22:09:17.5348878+00:00",
   "LastUpdate_AppInfo": "2023-11-28T21:56:52.2952246+00:00",
-  "LastUpdate_Ratings": "2023-11-29T21:00:21.9383791+00:00",
-  "LastUpdate_Achievements": "2023-11-29T21:09:37.120431+00:00"
+  "LastUpdate_Ratings": "2023-11-29T22:00:02.1401633+00:00",
+  "LastUpdate_Achievements": "2023-11-29T22:09:17.5349115+00:00"
 }

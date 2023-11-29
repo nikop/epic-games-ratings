@@ -5,10 +5,10 @@ Rating: 4.87 (Ranked 22)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 19.00% | ~841 |
+| Feeling the beat! | 19.00% | ~842 |
 | Start with a bang! | 18.00% | ~797 |
 | You can pet the cat! | 17.00% | ~753 |
-| Who put gears in there? | 16.00% | ~708 |
+| Who put gears in there? | 16.00% | ~709 |
 | Cream of the Crop | 15.00% | ~664 |
 | Thanks for the free chip, Peppermint! | 15.00% | ~664 |
 | You got this, Peppermint? | 14.00% | ~620 |
@@ -48,7 +48,7 @@ Rating: 4.87 (Ranked 22)
 | Call me Turbo Chai | 2.00% | ~59 |
 | I'm not done with you yet | 1.00% | ~44 |
 | You ever parry a volcano? | 1.00% | ~44 |
-| New bad guys? No problem! | 1.00% | ~29 |
+| New bad guys? No problem! | 1.00% | ~30 |
 | OK, well THEY came after ME! | 0.90% | ~40 |
 | Easy Listening | 0.60% | ~27 |
 | Problem solved... wait, what? | 0.50% | ~22 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 22)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,428 (Ranked 194)  
+Progressed: 4,429 (Ranked 194)  
 Completed: 8 (0.18%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 8 (0.18%) (Ranked 265)
 | 2023-11-26 | 4,367 | 8 |
 | 2023-11-27 | 4,394 | 8 |
 | 2023-11-28 | 4,417 | 8 |
-| 2023-11-29 | 4,428 | 8 |
+| 2023-11-29 | 4,429 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -147,9 +147,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7096,
+  "EOS_Progressed": 7097,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1160,
+  "EOS_NewPlayers": 1157,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4947,6 +4947,11 @@
       "Time": "2023-11-29T20:08:48.5230467+00:00",
       "NumProgressed": 7096,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-29T22:09:07.0795274+00:00",
+      "NumProgressed": 7097,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5061,9 +5066,9 @@
       "ID": "HalfManHalfMachine",
       "SetID": "acc6ea0",
       "Name": "Half Man, Half Machine",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 710
+      "UsersEstimate": 781
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -5103,7 +5108,7 @@
       "Name": "Nasty!",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "NoMoreTotems",
@@ -5151,7 +5156,7 @@
       "Name": "The Old-School Way",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "TheQuarterback",
@@ -5230,7 +5235,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7096,
+      "Progressed": 7097,
       "Completed": 8
     }
   ],
@@ -5238,8 +5243,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-29T13:05:55.0870892+00:00",
-  "LastChanged_Achievements": "2023-11-29T21:09:26.7435276+00:00",
+  "LastChanged_Achievements": "2023-11-29T22:09:07.0795271+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6423909+00:00",
-  "LastUpdate_Ratings": "2023-11-29T20:59:33.9039458+00:00",
-  "LastUpdate_Achievements": "2023-11-29T21:09:26.7435781+00:00"
+  "LastUpdate_Ratings": "2023-11-29T21:59:14.5796985+00:00",
+  "LastUpdate_Achievements": "2023-11-29T22:09:07.079573+00:00"
 }

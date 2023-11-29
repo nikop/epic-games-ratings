@@ -9,18 +9,18 @@ Number of Ratings: 292  (23.09.2022)
 | Adept | 32.00% | ~92 |
 | Double Kill | 24.00% | ~69 |
 | Critical Hit | 11.00% | ~32 |
+| Veteran | 10.00% | ~29 |
 | Dressed For Success | 9.00% | ~26 |
-| Veteran | 9.00% | ~26 |
 | Sorcerous Spree | 6.00% | ~17 |
 | Humiliation | 5.00% | ~14 |
 | Veni, Vidi, Vici | 4.00% | ~12 |
 | Multi Kill | 3.00% | ~9 |
 | Whoops! | 3.00% | ~9 |
+| Master | 3.00% | ~9 |
 | Expert Essence Employment | 3.00% | ~9 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~9 |
 | Such A Fungi | 2.00% | ~6 |
 | Landlord Extraordinaire | 2.00% | ~6 |
-| Master | 2.00% | ~6 |
 | The Song of Stoutheart | 1.00% | ~3 |
 | This Spot's Taken | 1.00% | ~3 |
 | Deepstrike | 1.00% | ~3 |
@@ -37,6 +37,8 @@ Number of Ratings: 292  (23.09.2022)
 | Fully Charged | 0.30% | ~1 |
 | Barbecue | 0.30% | ~1 |
 | In The Thick of It | 0.30% | ~1 |
+| Together For Her | 0.30% | ~1 |
+| An Empress's Hope | 0.30% | ~1 |
 | From the Ashes | 0.30% | ~1 |
 | The Marsh Expands | 0.30% | ~1 |
 | Get Over Here! | 0.30% | ~1 |
@@ -51,8 +53,6 @@ Number of Ratings: 292  (23.09.2022)
 | Die by the Sword | 0.00% | ~0 |
 | Full House | 0.00% | ~0 |
 | Killing Spree | 0.00% | ~0 |
-| Together For Her | 0.00% | ~0 |
-| An Empress's Hope | 0.00% | ~0 |
 | Proof That Luck Can Be Consistent | 0.00% | ~0 |
 | Oops! | 0.00% | ~0 |
 | Death From Above | 0.00% | ~0 |

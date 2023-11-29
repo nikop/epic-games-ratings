@@ -4,10 +4,10 @@
   "ProductSlug": "isonzo",
   "Ranking_Rating": 492,
   "Ranking_Popularity": 463,
-  "Ranking_PopularitySum": 371,
+  "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -875,10 +875,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 287,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-11-29T21:57:14.3384823+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 288,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 287,
+  "NumberOfAwards": 288,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -904,7 +910,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game has Diverse Characters",
@@ -949,9 +955,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9121,
+  "EOS_Progressed": 9122,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -8459,6 +8465,11 @@
       "Time": "2023-11-29T21:06:23.3428477+00:00",
       "NumProgressed": 9121,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-29T22:06:05.0318629+00:00",
+      "NumProgressed": 9122,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -8478,7 +8489,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 1915
+      "UsersEstimate": 1916
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -8486,7 +8497,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4013
+      "UsersEstimate": 4014
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -8638,7 +8649,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3192
+      "UsersEstimate": 3193
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -8798,7 +8809,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4560
+      "UsersEstimate": 4561
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -8829,16 +8840,16 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9121,
+      "Progressed": 9122,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
-  "LastChanged": "2023-11-26T17:59:39.1110954+00:00",
-  "LastChanged_Achievements": "2023-11-29T21:06:23.3428474+00:00",
+  "LastChanged": "2023-11-29T21:57:14.3384821+00:00",
+  "LastChanged_Achievements": "2023-11-29T22:06:05.0318627+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:09.0414673+00:00",
-  "LastUpdate_Ratings": "2023-11-29T20:57:34.0970112+00:00",
-  "LastUpdate_Achievements": "2023-11-29T21:06:23.3429253+00:00"
+  "LastUpdate_Ratings": "2023-11-29T21:57:14.338483+00:00",
+  "LastUpdate_Achievements": "2023-11-29T22:06:05.0319299+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "arons-adventure-1e76cd",
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
@@ -703,9 +703,9 @@
       "ID": "WASHING",
       "SetID": "40o4f14",
       "Name": "Needs washing",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "WITCH",
@@ -734,8 +734,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-29T21:05:45.2405168+00:00",
+  "LastChanged_Achievements": "2023-11-29T22:05:25.8353155+00:00",
   "LastUpdate_AppInfo": "2023-11-22T23:57:14.5078939+00:00",
-  "LastUpdate_Ratings": "2023-11-29T20:59:03.5251886+00:00",
-  "LastUpdate_Achievements": "2023-11-29T21:05:45.2405468+00:00"
+  "LastUpdate_Ratings": "2023-11-29T21:58:43.5620319+00:00",
+  "LastUpdate_Achievements": "2023-11-29T22:05:25.8353378+00:00"
 }

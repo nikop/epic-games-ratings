@@ -440,7 +440,7 @@
   ],
   "EOS_Progressed": 288,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1500,17 +1500,17 @@
       "ID": "LothCampaign",
       "SetID": "71c0n9i",
       "Name": "Together For Her",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LothCampaignFinaleOnHard",
       "SetID": "71c0n9i",
       "Name": "An Empress\u0027s Hope",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MultiKill",
@@ -1644,17 +1644,17 @@
       "ID": "WielderLevel2",
       "SetID": "71c0n9i",
       "Name": "Veteran",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "WielderLevel3",
       "SetID": "71c0n9i",
       "Name": "Master",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "WielderLevel4",
@@ -1748,8 +1748,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-29T21:04:24.0421422+00:00",
+  "LastChanged_Achievements": "2023-11-29T22:04:04.2077066+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:52.6052196+00:00",
-  "LastUpdate_Ratings": "2023-11-29T20:59:23.5408255+00:00",
-  "LastUpdate_Achievements": "2023-11-29T21:04:24.0421876+00:00"
+  "LastUpdate_Ratings": "2023-11-29T21:59:04.431454+00:00",
+  "LastUpdate_Achievements": "2023-11-29T22:04:04.2077574+00:00"
 }

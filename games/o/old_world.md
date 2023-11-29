@@ -139,13 +139,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | All Nations | 0.80% | ~124 |
 | Kmt Unified | 0.80% | ~124 |
 | Ishtar Gate in Babylon | 0.70% | ~109 |
+| Carthage - Ox Hide | 0.70% | ~109 |
 | Peacemaker | 0.70% | ~109 |
 | Learn to Play 5 | 0.70% | ~109 |
 | Cataphract Archer | 0.70% | ~109 |
 | The Great Mage | 0.70% | ~109 |
 | Kush | 0.70% | ~109 |
 | Beja Archer | 0.70% | ~109 |
-| Carthage - Ox Hide | 0.60% | ~93 |
 | Old | 0.60% | ~93 |
 | Old World Order | 0.60% | ~93 |
 | Ten Crowns | 0.60% | ~93 |
