@@ -63,7 +63,7 @@
   "Tags": [],
   "EOS_Progressed": 672,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 341,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1524,9 +1524,9 @@
       "ID": "achievement_10",
       "SetID": "jnappp",
       "Name": "Asphalt Artist",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 181
+      "UsersEstimate": 188
     },
     {
       "ID": "achievement_11",
@@ -1660,9 +1660,9 @@
       "ID": "achievement_26",
       "SetID": "jnappp",
       "Name": "Driver\u0027s Alliance",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 34
     },
     {
       "ID": "achievement_3",
@@ -1733,8 +1733,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-11-29T12:00:09.1025016+00:00",
-  "LastChanged_Achievements": "2023-11-29T17:09:12.2669674+00:00",
+  "LastChanged_Achievements": "2023-11-29T18:09:26.6698894+00:00",
   "LastUpdate_AppInfo": "2023-11-28T21:56:52.2952246+00:00",
-  "LastUpdate_Ratings": "2023-11-29T16:59:54.2488153+00:00",
-  "LastUpdate_Achievements": "2023-11-29T17:09:12.2669915+00:00"
+  "LastUpdate_Ratings": "2023-11-29T18:00:15.8138885+00:00",
+  "LastUpdate_Achievements": "2023-11-29T18:09:26.6699062+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "8f25cbefde7d4e7c8537aa860415d0b5",
   "Name": "Voltaire: The Vegan Vampire",
   "ProductSlug": "voltaire-e1c517",
-  "Ranking_EOS_Progress": 422,
+  "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-02-27T17:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 118,
+  "EOS_Progressed": 119,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -256,6 +256,11 @@
       "Time": "2023-11-26T18:03:28.8370683+00:00",
       "NumProgressed": 118,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T18:04:27.040318+00:00",
+      "NumProgressed": 119,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -299,7 +304,7 @@
       "Name": "Good to grow",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "FISH",
@@ -323,15 +328,15 @@
       "Name": "Make it rain",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "GLOWBUG",
       "SetID": "3c20ib3",
       "Name": "Shine bright",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 21
     },
     {
       "ID": "GRAVEYARD",
@@ -339,7 +344,7 @@
       "Name": "So it begins",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "HUNTING",
@@ -347,7 +352,7 @@
       "Name": "Peaceful skies",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "HUNTSMAN",
@@ -377,9 +382,9 @@
       "ID": "KILL_ELCAPITAN",
       "SetID": "3c20ib3",
       "Name": "Ay ay yarrr!",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "KILL_ENEMIES",
@@ -435,7 +440,7 @@
       "Name": "Holy Crops!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "REACH_10",
@@ -497,7 +502,7 @@
       "ID": "UNLOCK_WELL",
       "SetID": "3c20ib3",
       "Name": "Irrigation not irritation",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
       "UsersEstimate": 42
     },
@@ -514,7 +519,7 @@
     {
       "ID": "3c20ib3",
       "IsBase": true,
-      "Progressed": 118,
+      "Progressed": 119,
       "Completed": 0
     }
   ],
@@ -522,8 +527,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2023-11-29T17:04:22.305745+00:00",
+  "LastChanged_Achievements": "2023-11-29T18:04:27.0403173+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:55.672734+00:00",
-  "LastUpdate_Ratings": "2023-11-29T16:56:55.2171495+00:00",
-  "LastUpdate_Achievements": "2023-11-29T17:04:22.305762+00:00"
+  "LastUpdate_Ratings": "2023-11-29T17:57:23.4979551+00:00",
+  "LastUpdate_Achievements": "2023-11-29T18:04:27.0403358+00:00"
 }

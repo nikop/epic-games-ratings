@@ -2,12 +2,12 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 1006,
+  "Ranking_Rating": 1005,
   "Ranking_Popularity": 75,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 51,
+  "Ranking_EOS_NewPlayers": 50,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -7291,10 +7291,10 @@
       "Count": 3788
     }
   ],
-  "EOS_Progressed": 142834,
+  "EOS_Progressed": 142843,
   "EOS_Completed": 289,
-  "EOS_NewPlayers": 1837,
-  "EOS_NewCompleters": 97,
+  "EOS_NewPlayers": 1836,
+  "EOS_NewCompleters": 96,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -30386,6 +30386,11 @@
       "Time": "2023-11-29T17:04:09.1375183+00:00",
       "NumProgressed": 142834,
       "NumCompleted": 289
+    },
+    {
+      "Time": "2023-11-29T18:04:14.1745265+00:00",
+      "NumProgressed": 142843,
+      "NumCompleted": 289
     }
   ],
   "TotalAchievements": 112,
@@ -30451,9 +30456,9 @@
       "ID": "ascend02",
       "SetID": "anfd17p",
       "Name": "Above the Norm",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1428
+      "UsersEstimate": 2857
     },
     {
       "ID": "ascend03",
@@ -30565,7 +30570,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8570
+      "UsersEstimate": 8571
     },
     {
       "ID": "chest02",
@@ -30629,7 +30634,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8570
+      "UsersEstimate": 8571
     },
     {
       "ID": "commonres02",
@@ -30661,7 +30666,7 @@
       "Name": "Disintermediation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5713
+      "UsersEstimate": 5714
     },
     {
       "ID": "craft02",
@@ -30749,7 +30754,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5713
+      "UsersEstimate": 5714
     },
     {
       "ID": "energy02",
@@ -30773,7 +30778,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5713
+      "UsersEstimate": 5714
     },
     {
       "ID": "expansion02",
@@ -30869,7 +30874,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8570
+      "UsersEstimate": 8571
     },
     {
       "ID": "gold02",
@@ -30981,7 +30986,7 @@
       "Name": "Budding Merchant",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5713
+      "UsersEstimate": 5714
     },
     {
       "ID": "level02",
@@ -31173,7 +31178,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5713
+      "UsersEstimate": 5714
     },
     {
       "ID": "sell02",
@@ -31213,7 +31218,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8570
+      "UsersEstimate": 8571
     },
     {
       "ID": "twinenchant01",
@@ -31261,7 +31266,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5713
+      "UsersEstimate": 5714
     },
     {
       "ID": "workers02",
@@ -31292,15 +31297,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 142834,
+      "Progressed": 142843,
       "Completed": 289
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-29T05:02:50.6487414+00:00",
-  "LastChanged_Achievements": "2023-11-29T17:04:09.1375178+00:00",
+  "LastChanged_Achievements": "2023-11-29T18:04:14.1745261+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-11-29T17:02:51.1233258+00:00",
-  "LastUpdate_Achievements": "2023-11-29T17:04:09.1377044+00:00"
+  "LastUpdate_Ratings": "2023-11-29T18:02:59.5731484+00:00",
+  "LastUpdate_Achievements": "2023-11-29T18:04:14.1747071+00:00"
 }

@@ -6,8 +6,8 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Me and My Familiar | 4.00% | ~60 |
 | The Cost of Heroism | 4.00% | ~60 |
-| Me and My Familiar | 3.00% | ~45 |
 | Gotta Ca... Must Collect All of Them | 3.00% | ~45 |
 | Passing Shadow | 3.00% | ~45 |
 | This Too Shall Pass | 3.00% | ~45 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Thwack! | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,493 (Ranked 241)  
+Progressed: 1,494 (Ranked 241)  
 Completed: 6 (0.40%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 6 (0.40%) (Ranked 220)
 | 2023-11-26 | 1,490 | 6 |
 | 2023-11-27 | 1,491 | 6 |
 | 2023-11-28 | 1,492 | 6 |
-| 2023-11-29 | 1,493 | 6 |
+| 2023-11-29 | 1,494 | 6 |
 ## Awards
 Max (Character Customization): 29  (Ranked 501)  
 Sum: 29 (Ranked 516)  

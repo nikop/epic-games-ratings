@@ -5,13 +5,13 @@ Rating: 4.04 (Ranked 990)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,614 |
-| World Map | 78.00% | ~2,193 |
-| Temple of Eternals | 57.00% | ~1,602 |
-| Prestigious | 53.00% | ~1,490 |
+| Victor | 93.00% | ~2,616 |
+| World Map | 78.00% | ~2,194 |
+| Temple of Eternals | 57.00% | ~1,603 |
+| Prestigious | 53.00% | ~1,491 |
 | Fellowship Power | 42.00% | ~1,181 |
 | Guild Power | 24.00% | ~675 |
-| Prestigious x10 | 21.00% | ~590 |
+| Prestigious x10 | 21.00% | ~591 |
 | The game is on | 19.00% | ~534 |
 | Exotic Merchant | 17.00% | ~478 |
 | Dragon Clicker | 16.00% | ~450 |
@@ -21,12 +21,12 @@ Rating: 4.04 (Ranked 990)
 | Dragon Master | 14.00% | ~394 |
 | Enlightenment | 14.00% | ~394 |
 | Hero inspection | 14.00% | ~394 |
-| Lieutenant | 13.00% | ~365 |
-| Milestone collector | 12.00% | ~337 |
-| Mysterious Rock | 12.00% | ~337 |
-| Natural Talent | 12.00% | ~337 |
-| Superior | 12.00% | ~337 |
-| The Unstoppable | 12.00% | ~337 |
+| Lieutenant | 13.00% | ~366 |
+| Milestone collector | 12.00% | ~338 |
+| Mysterious Rock | 12.00% | ~338 |
+| Natural Talent | 12.00% | ~338 |
+| Superior | 12.00% | ~338 |
+| The Unstoppable | 12.00% | ~338 |
 | Scientist | 10.00% | ~281 |
 | The power of Awakening | 10.00% | ~281 |
 | Challenger | 9.00% | ~253 |
@@ -59,8 +59,8 @@ Rating: 4.04 (Ranked 990)
 | Legendary | 5.00% | ~141 |
 | Missions Dedication | 5.00% | ~141 |
 | The Alchemist | 5.00% | ~141 |
-| Arena Challenger | 4.00% | ~112 |
-| Ebony Jungle Liberator | 4.00% | ~112 |
+| Arena Challenger | 4.00% | ~113 |
+| Ebony Jungle Liberator | 4.00% | ~113 |
 | Gear Enchanting | 3.00% | ~84 |
 | Mythic Power | 3.00% | ~84 |
 | What lies behind the bush | 3.00% | ~84 |
@@ -76,12 +76,12 @@ Rating: 4.04 (Ranked 990)
 | Transmute | 1.00% | ~28 |
 | Tree of Life | 1.00% | ~28 |
 | Silverwood liberator | 0.90% | ~25 |
-| Beast War Machines | 0.80% | ~22 |
+| Beast War Machines | 0.80% | ~23 |
 | Ultimate War Machines | 0.60% | ~17 |
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,811 (Ranked 213)  
+Progressed: 2,813 (Ranked 213)  
 Completed: 2 (0.07%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 2 (0.07%) (Ranked 303)
 | 2023-11-26 | 2,735 | 2 |
 | 2023-11-27 | 2,771 | 2 |
 | 2023-11-28 | 2,791 | 2 |
-| 2023-11-29 | 2,811 | 2 |
+| 2023-11-29 | 2,813 | 2 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 483)  
 Sum: 134 (Ranked 429)  

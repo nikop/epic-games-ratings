@@ -7,23 +7,23 @@
 | Feels Familiar | 75.00% | ~760 |
 | I Broke It | 72.00% | ~730 |
 | Better On Ice | 67.00% | ~679 |
+| Notai Notes | 67.00% | ~679 |
+| Blue Dreams | 66.00% | ~669 |
 | Cutie Poro | 66.00% | ~669 |
-| Notai Notes | 66.00% | ~669 |
-| Blue Dreams | 65.00% | ~659 |
 | He's Famous! | 65.00% | ~659 |
 | Krugmazing | 63.00% | ~639 |
 | Moneyball | 60.00% | ~608 |
 | The Fire Below the Mountain | 60.00% | ~608 |
-| No Bites | 54.00% | ~548 |
+| No Bites | 55.00% | ~558 |
 | Iceborn | 54.00% | ~548 |
+| Tear of Freedom | 52.00% | ~527 |
 | Boom Things | 52.00% | ~527 |
-| Tear of Freedom | 51.00% | ~517 |
 | My Darkest Day | 48.00% | ~487 |
 | Rhythm Of Willump | 46.00% | ~466 |
-| The Relentless Storm | 45.00% | ~456 |
+| The Relentless Storm | 46.00% | ~466 |
 | A Tragic Reminder | 43.00% | ~436 |
 | 3000 Year Blackout | 43.00% | ~436 |
-| The Finisher | 41.00% | ~416 |
+| The Finisher | 42.00% | ~426 |
 | So Close | 40.00% | ~406 |
 | You Get Used To It | 40.00% | ~406 |
 | True Legends | 39.00% | ~395 |

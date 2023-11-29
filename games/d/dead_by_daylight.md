@@ -6,6 +6,7 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Zealous | 0.20% | ~2,106 |
 | It wakes | 0.20% | ~2,106 |
 | Not half bad | 0.20% | ~2,106 |
 | Skillful | 0.20% | ~2,106 |
@@ -31,7 +32,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Nerves of steel | 0.10% | ~1,053 |
 | Perfect Escape | 0.10% | ~1,053 |
 | Perfect Killing | 0.10% | ~1,053 |
-| Zealous | 0.10% | ~1,053 |
 | Bloody Millionaire | 0.10% | ~1,053 |
 | Gifts for the Fog | 0.10% | ~1,053 |
 | Apt Survivor | 0.10% | ~1,053 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,053 |
 | Adept Good Guy | 0.10% | ~1,053 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,052,923 (Ranked 14)  
+Progressed: 1,053,085 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -462,10 +462,10 @@ Completed: 61 (0.01%) (Ranked 343)
 | 2023-11-26 | 1,047,100 | 60 |
 | 2023-11-27 | 1,048,888 | 61 |
 | 2023-11-28 | 1,050,827 | 61 |
-| 2023-11-29 | 1,052,923 | 61 |
+| 2023-11-29 | 1,053,085 | 61 |
 ## Awards
 Max (Diverse Characters): 36,768  (Ranked 15)  
-Sum: 280,243 (Ranked 12)  
+Sum: 280,303 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -475,7 +475,7 @@ Diff (max vs sum): 3
 | This game has Competitive Players | 31,473 |
 | This game is Extremely Fun | 31,124 |
 | This game has Challenging Combat | 30,990 |
-| This game has Quickly Understood Controls | 30,309 |
+| This game has Quickly Understood Controls | 30,369 |
 | This game has Amazing Storytelling | 28,626 |
 | This game has a Competitive Community | 27,339 |
 | This game has Obsessive Gameplay | 16,768 |
@@ -792,4 +792,4 @@ Diff (max vs sum): 3
 | 2023-11-26 | 4.51 | - | 36,632 | 279,309 |
 | 2023-11-27 | 4.51 | - | 36,673 | 279,577 |
 | 2023-11-28 | 4.51 | - | 36,768 | 280,046 |
-| 2023-11-29 | 4.51 | - | 36,768 | 280,243 |
+| 2023-11-29 | 4.51 | - | 36,768 | 280,303 |

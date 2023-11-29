@@ -3311,9 +3311,9 @@
       "Count": 326
     }
   ],
-  "EOS_Progressed": 17525,
+  "EOS_Progressed": 17526,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -14406,6 +14406,11 @@
       "Time": "2023-11-29T17:08:25.4338192+00:00",
       "NumProgressed": 17525,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-29T18:08:41.1268192+00:00",
+      "NumProgressed": 17526,
+      "NumCompleted": 51
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -14832,9 +14837,9 @@
       "ID": "WinNearGreed",
       "SetID": "cfbk359",
       "Name": "Land of Greed",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 140
     },
     {
       "ID": "WinNearLibrary",
@@ -14864,17 +14869,17 @@
       "ID": "WinNearStorms",
       "SetID": "cfbk359",
       "Name": "Gathering Storm",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 175
     },
     {
       "ID": "WinNearUntamedWilds",
       "SetID": "cfbk359",
       "Name": "Untamed Wilds",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 123
     },
     {
       "ID": "WinWithFoxes",
@@ -14889,15 +14894,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17525,
+      "Progressed": 17526,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-29T13:05:48.4677553+00:00",
-  "LastChanged_Achievements": "2023-11-29T17:08:25.4338188+00:00",
+  "LastChanged_Achievements": "2023-11-29T18:08:41.1268188+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:56.4973761+00:00",
-  "LastUpdate_Ratings": "2023-11-29T16:58:56.559003+00:00",
-  "LastUpdate_Achievements": "2023-11-29T17:08:25.4339126+00:00"
+  "LastUpdate_Ratings": "2023-11-29T17:59:20.9245784+00:00",
+  "LastUpdate_Achievements": "2023-11-29T18:08:41.1268984+00:00"
 }

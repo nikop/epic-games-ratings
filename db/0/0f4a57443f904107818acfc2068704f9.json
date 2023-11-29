@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 766,
+  "EOS_Progressed": 767,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 378,
+  "EOS_NewPlayers": 376,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1547,6 +1547,11 @@
       "Time": "2023-11-29T16:05:30.0461744+00:00",
       "NumProgressed": 766,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T18:04:11.3203332+00:00",
+      "NumProgressed": 767,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1615,15 +1620,15 @@
       "Name": "Pathfinder",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "CompleteChapter10",
       "SetID": "52ail55",
       "Name": "You da Boss, Now",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 77
     },
     {
       "ID": "CompleteChapter11",
@@ -1703,7 +1708,7 @@
       "Name": "Met the Enemy",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "CompleteChapter3",
@@ -1741,9 +1746,9 @@
       "ID": "CompleteChapter7",
       "SetID": "52ail55",
       "Name": "First to be Forged, Never to Fail!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 123
     },
     {
       "ID": "CompleteChapter8",
@@ -1854,14 +1859,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 766,
+      "Progressed": 767,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-29T17:04:06.4464566+00:00",
+  "LastChanged_Achievements": "2023-11-29T18:04:11.320333+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-29T16:57:02.2182288+00:00",
-  "LastUpdate_Achievements": "2023-11-29T17:04:06.4464866+00:00"
+  "LastUpdate_Ratings": "2023-11-29T17:57:30.5063106+00:00",
+  "LastUpdate_Achievements": "2023-11-29T18:04:11.3203547+00:00"
 }

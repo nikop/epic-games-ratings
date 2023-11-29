@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 380,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 296,
+  "EOS_NewPlayers": 292,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1108,9 +1108,9 @@
       "ID": "SKILL_ALL_OBTAINED",
       "SetID": "apihg0e",
       "Name": "Unrivaled Aptitude",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 15
     },
     {
       "ID": "SPEED_STATUS_REACH_NUM",
@@ -1179,8 +1179,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-29T17:08:20.7318745+00:00",
+  "LastChanged_Achievements": "2023-11-29T18:08:36.6693878+00:00",
   "LastUpdate_AppInfo": "2023-11-28T17:56:55.9843317+00:00",
-  "LastUpdate_Ratings": "2023-11-29T17:02:42.9656344+00:00",
-  "LastUpdate_Achievements": "2023-11-29T17:08:20.7319218+00:00"
+  "LastUpdate_Ratings": "2023-11-29T18:02:52.0019786+00:00",
+  "LastUpdate_Achievements": "2023-11-29T18:08:36.6694108+00:00"
 }

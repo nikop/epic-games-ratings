@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1470,
+  "EOS_Progressed": 1471,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4379,6 +4379,11 @@
       "Time": "2023-11-29T15:09:34.1801105+00:00",
       "NumProgressed": 1470,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T18:09:33.8067034+00:00",
+      "NumProgressed": 1471,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4615,7 +4620,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "achievement_36",
@@ -4631,7 +4636,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "achievement_38",
@@ -4663,7 +4668,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "achievement_41",
@@ -4797,9 +4802,9 @@
       "ID": "achievement_56",
       "SetID": "cemm4l8",
       "Name": "Support the troops",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 74
+      "UsersEstimate": 88
     },
     {
       "ID": "achievement_57",
@@ -4894,13 +4899,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1470,
+      "Progressed": 1471,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1470,
+      "Progressed": 1471,
       "Completed": 1
     }
   ],
@@ -4908,8 +4913,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-29T17:09:19.608599+00:00",
+  "LastChanged_Achievements": "2023-11-29T18:09:33.806703+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:02.7370766+00:00",
-  "LastUpdate_Ratings": "2023-11-29T16:57:17.5815197+00:00",
-  "LastUpdate_Achievements": "2023-11-29T17:09:19.6086554+00:00"
+  "LastUpdate_Ratings": "2023-11-29T17:57:44.8183856+00:00",
+  "LastUpdate_Achievements": "2023-11-29T18:09:33.8067719+00:00"
 }

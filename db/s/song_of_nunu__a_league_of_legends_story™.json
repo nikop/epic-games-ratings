@@ -2187,9 +2187,9 @@
       "ID": "EV_ACH01",
       "SetID": "6jeac23",
       "Name": "Blue Dreams",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 659
+      "UsersEstimate": 669
     },
     {
       "ID": "EV_ACH02",
@@ -2211,17 +2211,17 @@
       "ID": "EV_ACH04",
       "SetID": "6jeac23",
       "Name": "No Bites",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 548
+      "UsersEstimate": 558
     },
     {
       "ID": "EV_ACH05",
       "SetID": "6jeac23",
       "Name": "Tear of Freedom",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 517
+      "UsersEstimate": 527
     },
     {
       "ID": "EV_ACH06",
@@ -2443,9 +2443,9 @@
       "ID": "EV_ACH33",
       "SetID": "6jeac23",
       "Name": "Notai Notes",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 669
+      "UsersEstimate": 679
     },
     {
       "ID": "EV_ACH34",
@@ -2467,17 +2467,17 @@
       "ID": "EV_ACH36",
       "SetID": "6jeac23",
       "Name": "The Relentless Storm",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 456
+      "UsersEstimate": 466
     },
     {
       "ID": "EV_ACH37",
       "SetID": "6jeac23",
       "Name": "The Finisher",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 416
+      "UsersEstimate": 426
     },
     {
       "ID": "EV_ACH38",
@@ -2546,8 +2546,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-29T17:09:16.4502618+00:00",
+  "LastChanged_Achievements": "2023-11-29T18:09:30.7670027+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:19.9678993+00:00",
-  "LastUpdate_Ratings": "2023-11-29T16:59:35.767135+00:00",
-  "LastUpdate_Achievements": "2023-11-29T17:09:16.4502977+00:00"
+  "LastUpdate_Ratings": "2023-11-29T17:59:58.6511151+00:00",
+  "LastUpdate_Achievements": "2023-11-29T18:09:30.7670392+00:00"
 }

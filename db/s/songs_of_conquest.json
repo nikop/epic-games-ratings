@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,7 +438,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 284,
+  "EOS_Progressed": 285,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
@@ -1283,6 +1283,11 @@
       "Time": "2023-11-29T17:04:08.0479786+00:00",
       "NumProgressed": 284,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T18:04:13.0890497+00:00",
+      "NumProgressed": 285,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1557,9 +1562,9 @@
       "ID": "ReclaimTown",
       "SetID": "71c0n9i",
       "Name": "Don\u0027t Touch My Stuff",
-      "Percentage": 0.4,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -1621,17 +1626,17 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 91
     },
     {
       "ID": "WielderLevel2",
       "SetID": "71c0n9i",
       "Name": "Veteran",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "WielderLevel3",
@@ -1645,9 +1650,9 @@
       "ID": "WielderLevel4",
       "SetID": "71c0n9i",
       "Name": "Grand Master",
-      "Percentage": 0.4,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "WinBattleBeforeEnemyTurn",
@@ -1726,15 +1731,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 284,
+      "Progressed": 285,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-29T17:04:08.0479782+00:00",
+  "LastChanged_Achievements": "2023-11-29T18:04:13.0890491+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:52.6052196+00:00",
-  "LastUpdate_Ratings": "2023-11-29T16:58:49.6950911+00:00",
-  "LastUpdate_Achievements": "2023-11-29T17:04:08.0480176+00:00"
+  "LastUpdate_Ratings": "2023-11-29T17:59:15.0330502+00:00",
+  "LastUpdate_Achievements": "2023-11-29T18:04:13.0890827+00:00"
 }

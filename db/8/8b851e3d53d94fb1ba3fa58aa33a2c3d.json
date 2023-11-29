@@ -392,9 +392,9 @@
       "ID": "APHRODITE",
       "SetID": "e4de54",
       "Name": "Aphrodite",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "APOLLO",
@@ -679,8 +679,8 @@
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-11-29T17:05:04.3896923+00:00",
+  "LastChanged_Achievements": "2023-11-29T18:05:06.5534555+00:00",
   "LastUpdate_AppInfo": "2023-11-25T06:57:20.100659+00:00",
-  "LastUpdate_Ratings": "2023-11-29T16:56:58.4406696+00:00",
-  "LastUpdate_Achievements": "2023-11-29T17:05:04.3897204+00:00"
+  "LastUpdate_Ratings": "2023-11-29T17:57:26.5672487+00:00",
+  "LastUpdate_Achievements": "2023-11-29T18:05:06.5534795+00:00"
 }

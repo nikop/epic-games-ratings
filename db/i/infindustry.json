@@ -678,9 +678,9 @@
       "ID": "Harvester",
       "SetID": "82ojhod",
       "Name": "Harvester",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Healer",
@@ -741,8 +741,8 @@
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-11-29T17:03:17.6851437+00:00",
+  "LastChanged_Achievements": "2023-11-29T18:03:25.4182745+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:17.5561637+00:00",
-  "LastUpdate_Ratings": "2023-11-29T16:58:42.0142291+00:00",
-  "LastUpdate_Achievements": "2023-11-29T17:03:17.6851551+00:00"
+  "LastUpdate_Ratings": "2023-11-29T17:59:08.4818205+00:00",
+  "LastUpdate_Achievements": "2023-11-29T18:03:25.4182867+00:00"
 }

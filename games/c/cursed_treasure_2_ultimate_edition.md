@@ -52,7 +52,7 @@
 | Deadman's Chest | 29.00% | ~52 |
 | Monument Keeper | 28.00% | ~51 |
 | Brilliant: Free Coast | 27.00% | ~49 |
-| Brilliant: The Deep | 24.00% | ~43 |
+| Brilliant: The Deep | 25.00% | ~45 |
 | Starry: Free Coast | 24.00% | ~43 |
 | Starry: The Deep | 23.00% | ~42 |
 | Loveless | 19.00% | ~34 |

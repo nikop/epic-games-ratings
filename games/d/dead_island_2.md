@@ -5,15 +5,15 @@ Rating: 4.54 (Ranked 526)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,596 |
-| Break A Leg | 2.00% | ~14,553 |
-| Coup de Grâce | 2.00% | ~14,553 |
-| Hazardous Materials | 2.00% | ~14,553 |
-| Hotel California | 2.00% | ~14,553 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,553 |
-| Welcome To Hell-A | 2.00% | ~14,553 |
-| One of Us | 2.00% | ~1,064 |
-| Pork Chopped | 2.00% | ~1,064 |
+| Whatever It Takes | 3.00% | ~1,597 |
+| Break A Leg | 2.00% | ~14,554 |
+| Coup de Grâce | 2.00% | ~14,554 |
+| Hazardous Materials | 2.00% | ~14,554 |
+| Hotel California | 2.00% | ~14,554 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,554 |
+| Welcome To Hell-A | 2.00% | ~14,554 |
+| One of Us | 2.00% | ~1,065 |
+| Pork Chopped | 2.00% | ~1,065 |
 | Dr. Reed, I Presume? | 1.00% | ~7,277 |
 | Git Gutte! | 1.00% | ~7,277 |
 | Anger Management | 1.00% | ~7,277 |
@@ -34,8 +34,8 @@ Rating: 4.54 (Ranked 526)
 | This is My Weapon | 1.00% | ~7,277 |
 | Making Your Mark | 0.90% | ~6,549 |
 | I Am the Resurrection | 0.90% | ~6,549 |
-| Humanity Distilled | 0.80% | ~5,821 |
-| Max Headroom | 0.80% | ~5,821 |
+| Humanity Distilled | 0.80% | ~5,822 |
+| Max Headroom | 0.80% | ~5,822 |
 | Not Even My Final Form | 0.70% | ~5,094 |
 | Down with the Sickness | 0.70% | ~5,094 |
 | Jumbo Keyring | 0.60% | ~4,366 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 526)
 | Bucket List | 0.10% | ~728 |
 | Wilhelm | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 727,673 (Ranked 21)  
-Completed: 2,449 (0.34%) (Ranked 231)  
+Progressed: 727,697 (Ranked 21)  
+Completed: 2,450 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -280,15 +280,15 @@ Completed: 2,449 (0.34%) (Ranked 231)
 | 2023-11-26 | 726,037 | 2,441 |
 | 2023-11-27 | 726,753 | 2,443 |
 | 2023-11-28 | 727,374 | 2,447 |
-| 2023-11-29 | 727,673 | 2,449 |
+| 2023-11-29 | 727,697 | 2,450 |
 ## Awards
 Max (Great Boss Battles): 7,803  (Ranked 49)  
-Sum: 11,950 (Ranked 84)  
+Sum: 11,954 (Ranked 84)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,803 |
-| This game is Great for Beginners | 601 |
+| This game is Great for Beginners | 605 |
 | This game has Diverse Characters | 570 |
 | This game has Quickly Understood Controls | 539 |
 | This game is Relaxing | 515 |
@@ -521,4 +521,4 @@ Diff (max vs sum): -35
 | 2023-11-26 | 4.54 | 7,731 | 11,835 |
 | 2023-11-27 | 4.54 | 7,760 | 11,883 |
 | 2023-11-28 | 4.54 | 7,784 | 11,921 |
-| 2023-11-29 | 4.54 | 7,803 | 11,950 |
+| 2023-11-29 | 4.54 | 7,803 | 11,954 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 405,
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -943,9 +943,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 665213,
+  "EOS_Progressed": 665214,
   "EOS_Completed": 172,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -22013,6 +22013,11 @@
       "Time": "2023-11-29T16:06:50.7570766+00:00",
       "NumProgressed": 665213,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-11-29T18:05:07.0769857+00:00",
+      "NumProgressed": 665214,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 48,
@@ -22024,7 +22029,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 478953
+      "UsersEstimate": 478954
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -22288,7 +22293,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166303
+      "UsersEstimate": 166304
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -22407,15 +22412,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 665213,
+      "Progressed": 665214,
       "Completed": 172
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-24T17:58:48.2867936+00:00",
-  "LastChanged_Achievements": "2023-11-29T17:05:04.8596914+00:00",
+  "LastChanged_Achievements": "2023-11-29T18:05:07.0769853+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:15.2357147+00:00",
-  "LastUpdate_Ratings": "2023-11-29T16:57:51.9573823+00:00",
-  "LastUpdate_Achievements": "2023-11-29T17:05:04.8598083+00:00"
+  "LastUpdate_Ratings": "2023-11-29T17:58:18.3037647+00:00",
+  "LastUpdate_Achievements": "2023-11-29T18:05:07.0770841+00:00"
 }

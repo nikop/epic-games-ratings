@@ -661,9 +661,9 @@
       "ID": "aq_achievement_8",
       "SetID": "7jh86ne",
       "Name": "Sorry Grandpa",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "aq_achievement_9",
@@ -686,8 +686,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-11-29T17:09:15.8655822+00:00",
+  "LastChanged_Achievements": "2023-11-29T18:09:30.0743836+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:01.8965253+00:00",
-  "LastUpdate_Ratings": "2023-11-29T16:57:07.1509728+00:00",
-  "LastUpdate_Achievements": "2023-11-29T17:09:15.8656096+00:00"
+  "LastUpdate_Ratings": "2023-11-29T17:57:35.3542519+00:00",
+  "LastUpdate_Achievements": "2023-11-29T18:09:30.0744092+00:00"
 }

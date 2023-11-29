@@ -4,7 +4,7 @@
   "ProductSlug": "children-of-silentown-52cc21",
   "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 379,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -613,9 +613,9 @@
       "ID": "Toy",
       "SetID": "9kk0gal",
       "Name": "Broken toy",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 169
+      "UsersEstimate": 172
     },
     {
       "ID": "Trinket",
@@ -629,9 +629,9 @@
       "ID": "Trumpet",
       "SetID": "9kk0gal",
       "Name": "Trumpet",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 196
+      "UsersEstimate": 198
     },
     {
       "ID": "Well",
@@ -662,8 +662,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-11-29T17:04:24.666242+00:00",
+  "LastChanged_Achievements": "2023-11-29T18:04:29.3768575+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:14.2711259+00:00",
-  "LastUpdate_Ratings": "2023-11-29T16:59:26.0715393+00:00",
-  "LastUpdate_Achievements": "2023-11-29T17:04:24.6662605+00:00"
+  "LastUpdate_Ratings": "2023-11-29T17:59:48.8340517+00:00",
+  "LastUpdate_Achievements": "2023-11-29T18:04:29.3768733+00:00"
 }

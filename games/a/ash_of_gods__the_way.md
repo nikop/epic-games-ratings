@@ -6,33 +6,33 @@
 | ---- | ---------- | ----- |
 | First success | 97.00% | ~35 |
 | Suicide squad | 61.00% | ~22 |
+| Train hard, fight easy | 36.00% | ~13 |
 | First blood | 36.00% | ~13 |
-| Train hard, fight easy | 33.00% | ~12 |
 | Under cover | 33.00% | ~12 |
 | All for one! | 31.00% | ~11 |
 | Royal blessing | 28.00% | ~10 |
-| A hidden snake | 25.00% | ~9 |
-| Blood and sand | 25.00% | ~9 |
-| Surpass the teacher | 19.00% | ~7 |
-| Vene, vidi, vici | 19.00% | ~7 |
-| She-Wolf | 17.00% | ~6 |
+| A hidden snake | 28.00% | ~10 |
+| Blood and sand | 28.00% | ~10 |
+| Surpass the teacher | 22.00% | ~8 |
+| Vene, vidi, vici | 22.00% | ~8 |
+| She-Wolf | 19.00% | ~7 |
+| Power of Inquisition | 17.00% | ~6 |
 | Crimson rivers | 14.00% | ~5 |
-| Power of Inquisition | 14.00% | ~5 |
+| The champion of the arena | 14.00% | ~5 |
 | Help of the Gell | 14.00% | ~5 |
 | Trial by cold | 14.00% | ~5 |
 | For the greater good | 11.00% | ~4 |
 | Berkanan Borgia | 11.00% | ~4 |
-| The champion of the arena | 11.00% | ~4 |
 | Rage | 11.00% | ~4 |
 | Punish the Punisher | 11.00% | ~4 |
 | Protect the Healer! | 11.00% | ~4 |
 | Collector | 8.00% | ~3 |
 | Overplay the rogue | 8.00% | ~3 |
+| The best apprentice | 8.00% | ~3 |
 | Stronger than Gellian steel | 8.00% | ~3 |
 | By own strength | 8.00% | ~3 |
 | The End | 8.00% | ~3 |
 | Nothing is settled | 8.00% | ~3 |
-| The best apprentice | 6.00% | ~2 |
 | First among Frisians | 6.00% | ~2 |
 | The power of persuasion | 6.00% | ~2 |
 | Deadly strike | 6.00% | ~2 |

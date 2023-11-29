@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -504,9 +504,9 @@
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 55,
+      "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -568,9 +568,9 @@
       "ID": "AC_MUSIC_CONCERT",
       "SetID": "16i2akc",
       "Name": "Band",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "AC_PISTOL_MAX",
@@ -608,9 +608,9 @@
       "ID": "AC_ROSCOBOSS",
       "SetID": "16i2akc",
       "Name": "Loss",
-      "Percentage": 53,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -647,8 +647,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-29T17:03:55.795776+00:00",
+  "LastChanged_Achievements": "2023-11-29T18:04:00.9475947+00:00",
   "LastUpdate_AppInfo": "2023-11-28T18:57:05.8641658+00:00",
-  "LastUpdate_Ratings": "2023-11-29T16:59:46.377126+00:00",
-  "LastUpdate_Achievements": "2023-11-29T17:03:55.7958041+00:00"
+  "LastUpdate_Ratings": "2023-11-29T18:00:08.4477732+00:00",
+  "LastUpdate_Achievements": "2023-11-29T18:04:00.947618+00:00"
 }

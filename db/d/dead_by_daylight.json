@@ -13080,10 +13080,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 280243,
       "NumberOfAwardsMax": 36768
+    },
+    {
+      "Time": "2023-11-29T17:59:02.6785694+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 280303,
+      "NumberOfAwardsMax": 36768
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 280243,
+  "NumberOfAwards": 280303,
   "NumberOfAwardsMax": 36768,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -13133,7 +13139,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 30309
+      "Count": 30369
     },
     {
       "Text": "This game has Challenging Combat",
@@ -13154,9 +13160,9 @@
       "Count": 27339
     }
   ],
-  "EOS_Progressed": 1052923,
+  "EOS_Progressed": 1053085,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 15450,
+  "EOS_NewPlayers": 15488,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -38784,6 +38790,11 @@
       "Time": "2023-11-29T17:09:21.6605641+00:00",
       "NumProgressed": 1052923,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-11-29T18:09:35.8494938+00:00",
+      "NumProgressed": 1053085,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 232,
@@ -38961,9 +38972,9 @@
       "ID": "ACH_022",
       "SetID": "bdmlp8o",
       "Name": "Zealous",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1053
+      "UsersEstimate": 2106
     },
     {
       "ID": "ACH_023",
@@ -40650,21 +40661,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1052923,
-      "Completed": 65
+      "Progressed": 1053085,
+      "Completed": 66
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1052923,
+      "Progressed": 1053085,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-11-29T16:00:17.8826132+00:00",
-  "LastChanged_Achievements": "2023-11-29T17:09:21.6605637+00:00",
+  "LastChanged": "2023-11-29T17:59:02.6785692+00:00",
+  "LastChanged_Achievements": "2023-11-29T18:09:35.8494933+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:00.7078103+00:00",
-  "LastUpdate_Ratings": "2023-11-29T16:58:36.8307579+00:00",
-  "LastUpdate_Achievements": "2023-11-29T17:09:21.6611013+00:00"
+  "LastUpdate_Ratings": "2023-11-29T17:59:02.6785698+00:00",
+  "LastUpdate_Achievements": "2023-11-29T18:09:35.8500067+00:00"
 }

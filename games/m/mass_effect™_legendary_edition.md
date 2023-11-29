@@ -57,9 +57,9 @@
 | Ghost of the Father | 31.00% | ~450 |
 | The Cure | 31.00% | ~450 |
 | Big Game Hunter | 31.00% | ~450 |
+| Revenge! | 31.00% | ~450 |
 | Focused | 30.00% | ~436 |
 | Fade Away | 30.00% | ~436 |
-| Revenge! | 30.00% | ~436 |
 | Digital Exorcist | 30.00% | ~436 |
 | Heart of Darkness | 30.00% | ~436 |
 | Bringer of War | 30.00% | ~436 |

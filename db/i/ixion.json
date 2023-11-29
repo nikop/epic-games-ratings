@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -293,9 +293,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3375,
+  "EOS_Progressed": 3376,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5973,6 +5973,11 @@
       "Time": "2023-11-29T15:04:44.10679+00:00",
       "NumProgressed": 3375,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T18:04:57.9401026+00:00",
+      "NumProgressed": 3376,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6200,7 +6205,7 @@
       "Name": "Access Granted",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_BASE_37",
@@ -6328,7 +6333,7 @@
       "Name": "All in Good Health",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_BASE_56",
@@ -6439,13 +6444,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1559,
+      "Progressed": 1560,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3375,
+      "Progressed": 3376,
       "Completed": 0
     }
   ],
@@ -6453,8 +6458,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-10-25T12:00:08.7067292+00:00",
-  "LastChanged_Achievements": "2023-11-29T17:04:55.1753407+00:00",
+  "LastChanged_Achievements": "2023-11-29T18:04:57.9401021+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:09.2779829+00:00",
-  "LastUpdate_Ratings": "2023-11-29T16:59:18.1671128+00:00",
-  "LastUpdate_Achievements": "2023-11-29T17:04:55.1754103+00:00"
+  "LastUpdate_Ratings": "2023-11-29T17:59:41.6847597+00:00",
+  "LastUpdate_Achievements": "2023-11-29T18:04:57.940158+00:00"
 }

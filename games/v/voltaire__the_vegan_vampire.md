@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| So it begins | 87.00% | ~103 |
-| Good to grow | 61.00% | ~72 |
+| So it begins | 87.00% | ~104 |
+| Good to grow | 61.00% | ~73 |
 | Fashionista | 38.00% | ~45 |
-| Irrigation not irritation | 36.00% | ~42 |
+| Irrigation not irritation | 35.00% | ~42 |
 | Graduated | 32.00% | ~38 |
+| Ay ay yarrr! | 22.00% | ~26 |
 | Night Shift | 22.00% | ~26 |
-| Ay ay yarrr! | 21.00% | ~25 |
-| Shine bright | 19.00% | ~22 |
+| Shine bright | 18.00% | ~21 |
 | It's about the journey | 12.00% | ~14 |
 | C'who? | 11.00% | ~13 |
 | There be sand in me shorts | 11.00% | ~13 |
-| Make it rain | 8.00% | ~9 |
-| Peaceful skies | 8.00% | ~9 |
-| Holy Crops! | 8.00% | ~9 |
+| Make it rain | 8.00% | ~10 |
+| Peaceful skies | 8.00% | ~10 |
+| Holy Crops! | 8.00% | ~10 |
 | Do you wanna build a snowboiii? | 7.00% | ~8 |
 | It gets everywhere | 7.00% | ~8 |
 | Who let the pets out? | 4.00% | ~5 |
@@ -36,7 +36,7 @@
 | Fauna Connoisseur | 0.00% | ~0 |
 | Daddy Issues | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118 (Ranked 422)  
+Progressed: 119 (Ranked 420)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,6 +77,7 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-09-09 | 113 | 0 |
 | 2023-11-25 | 115 | 0 |
 | 2023-11-26 | 118 | 0 |
+| 2023-11-29 | 119 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

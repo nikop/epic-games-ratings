@@ -6,10 +6,10 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 31.00% | ~88 |
+| Adept | 32.00% | ~91 |
 | Double Kill | 24.00% | ~68 |
 | Critical Hit | 11.00% | ~31 |
-| Veteran | 10.00% | ~28 |
+| Veteran | 9.00% | ~26 |
 | Dressed For Success | 8.00% | ~23 |
 | Sorcerous Spree | 6.00% | ~17 |
 | Humiliation | 5.00% | ~14 |
@@ -30,6 +30,8 @@ Number of Ratings: 292  (23.09.2022)
 | Death To Diplomacy | 0.70% | ~2 |
 | Versatile Wielder | 0.70% | ~2 |
 | Coming Through! | 0.70% | ~2 |
+| Don't Touch My Stuff | 0.70% | ~2 |
+| Grand Master | 0.70% | ~2 |
 | Hello There | 0.40% | ~1 |
 | Unlimited Power! | 0.40% | ~1 |
 | Fully Charged | 0.40% | ~1 |
@@ -37,11 +39,9 @@ Number of Ratings: 292  (23.09.2022)
 | In The Thick of It | 0.40% | ~1 |
 | From the Ashes | 0.40% | ~1 |
 | The Marsh Expands | 0.40% | ~1 |
-| Don't Touch My Stuff | 0.40% | ~1 |
 | Get Over Here! | 0.40% | ~1 |
 | Cleave | 0.40% | ~1 |
 | Ultra Kill | 0.40% | ~1 |
-| Grand Master | 0.40% | ~1 |
 | Bringer of Ruin | 0.00% | ~0 |
 | Attack Bonanza | 0.00% | ~0 |
 | The Price of Freedom | 0.00% | ~0 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 284 (Ranked 362)  
+Progressed: 285 (Ranked 362)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-26 | 250 | 0 |
 | 2023-11-27 | 261 | 0 |
 | 2023-11-28 | 273 | 0 |
-| 2023-11-29 | 284 | 0 |
+| 2023-11-29 | 285 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 512)  
 Sum: 194 (Ranked 404)  

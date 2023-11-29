@@ -2,7 +2,7 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_Rating": 677,
+  "Ranking_Rating": 678,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 239,
@@ -4266,9 +4266,9 @@
       "ID": "THE_WATCHERS",
       "SetID": "9a4jnji",
       "Name": "The Watchers",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 366
     },
     {
       "ID": "WIPE_OUT",
@@ -4291,8 +4291,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-11-27T18:02:43.7042176+00:00",
-  "LastChanged_Achievements": "2023-11-29T17:09:18.0935564+00:00",
+  "LastChanged_Achievements": "2023-11-29T18:09:32.2691846+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:23.756402+00:00",
-  "LastUpdate_Ratings": "2023-11-29T17:02:43.0846775+00:00",
-  "LastUpdate_Achievements": "2023-11-29T17:09:18.0935974+00:00"
+  "LastUpdate_Ratings": "2023-11-29T18:02:52.1505969+00:00",
+  "LastUpdate_Achievements": "2023-11-29T18:09:32.2692358+00:00"
 }

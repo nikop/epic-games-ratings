@@ -1,21 +1,21 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 1,006)  
+Rating: 3.99 (Ranked 1,005)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 6.00% | ~8,570 |
-| Basic in Bulk | 6.00% | ~8,570 |
-| Tinkle of Coins | 6.00% | ~8,570 |
-| Titan's First Steps | 6.00% | ~8,570 |
-| Disintermediation | 4.00% | ~5,713 |
-| Another Satisfied Customer | 4.00% | ~5,713 |
-| It's Free Real Estate | 4.00% | ~5,713 |
-| Budding Merchant | 4.00% | ~5,713 |
-| Capitalism Ho! | 4.00% | ~5,713 |
-| Own the Means of Production | 4.00% | ~5,713 |
+| Sponsored by Argon | 6.00% | ~8,571 |
+| Basic in Bulk | 6.00% | ~8,571 |
+| Tinkle of Coins | 6.00% | ~8,571 |
+| Titan's First Steps | 6.00% | ~8,571 |
+| Disintermediation | 4.00% | ~5,714 |
+| Another Satisfied Customer | 4.00% | ~5,714 |
+| It's Free Real Estate | 4.00% | ~5,714 |
+| Budding Merchant | 4.00% | ~5,714 |
+| Capitalism Ho! | 4.00% | ~5,714 |
+| Own the Means of Production | 4.00% | ~5,714 |
 | The Daily Grind | 3.00% | ~4,285 |
 | One Easy Payment | 3.00% | ~4,285 |
 | Some Assembly Required | 3.00% | ~4,285 |
@@ -29,6 +29,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | On the Path to Greatness | 2.00% | ~2,857 |
 | A Notch Above the Rest | 2.00% | ~2,857 |
 | Ascended | 2.00% | ~2,857 |
+| Above the Norm | 2.00% | ~2,857 |
 | Tax not Included | 2.00% | ~2,857 |
 | The King's Caprice | 2.00% | ~2,857 |
 | Research & Development | 2.00% | ~2,857 |
@@ -68,7 +69,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cream of the Crop | 1.00% | ~1,428 |
 | Top of the World | 1.00% | ~1,428 |
 | Proud Paladin | 1.00% | ~1,428 |
-| Above the Norm | 1.00% | ~1,428 |
 | Constellated | 1.00% | ~1,428 |
 | A Ronin Reborn | 1.00% | ~1,428 |
 | Thirst for Knowledge | 1.00% | ~1,428 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~429 |
 | Capitalist Camaraderie | 0.20% | ~286 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,834 (Ranked 80)  
+Progressed: 142,843 (Ranked 80)  
 Completed: 289 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 289 (0.20%) (Ranked 258)
 | 2023-11-26 | 142,346 | 274 |
 | 2023-11-27 | 142,546 | 278 |
 | 2023-11-28 | 142,735 | 284 |
-| 2023-11-29 | 142,834 | 289 |
+| 2023-11-29 | 142,843 | 289 |
 ## Awards
 Max (Great for Beginners): 4,855  (Ranked 75)  
 Sum: 27,625 (Ranked 50)  

@@ -19,16 +19,16 @@
 | Rebel Unleashed | 42.00% | ~10 |
 | Starry Night | 38.00% | ~9 |
 | Finish Him! | 38.00% | ~9 |
-| Locksley's Tears | 33.00% | ~8 |
+| Locksley's Tears | 38.00% | ~9 |
 | Assault on the Ram | 33.00% | ~8 |
 | First Aid | 33.00% | ~8 |
 | Merry Go Round | 33.00% | ~8 |
 | Ultra Rebel Instinct | 25.00% | ~6 |
 | Ascending Will | 21.00% | ~5 |
 | Take Action! | 21.00% | ~5 |
+| Brilliant Executioner | 17.00% | ~4 |
 | Ultra Combo | 17.00% | ~4 |
 | Haute Couture | 17.00% | ~4 |
-| Brilliant Executioner | 13.00% | ~3 |
 | The Gang prevails | 13.00% | ~3 |
 | Hidden Experiment | 13.00% | ~3 |
 | Into the Lion's Den | 13.00% | ~3 |

@@ -18,9 +18,9 @@
 | Roostwig has entered the building | 33.00% | ~27 |
 | Mystery solved | 31.00% | ~26 |
 | Game Over! | 31.00% | ~26 |
+| Sorry Grandpa | 31.00% | ~26 |
 | GG | 30.00% | ~25 |
 | NOW GO AWAY! | 30.00% | ~25 |
-| Sorry Grandpa | 30.00% | ~25 |
 | Shattered | 29.00% | ~24 |
 | You've got mail! | 29.00% | ~24 |
 | Beekeeper | 29.00% | ~24 |

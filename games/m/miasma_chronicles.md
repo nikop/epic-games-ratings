@@ -1,7 +1,7 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.44 (Ranked 677)  
+Rating: 4.44 (Ranked 678)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -34,7 +34,7 @@ Rating: 4.44 (Ranked 677)
 | There Can Be Only One! | 27.00% | ~430 |
 | Silent but Violent | 26.00% | ~414 |
 | Chain Killer | 23.00% | ~366 |
-| The Watchers | 22.00% | ~350 |
+| The Watchers | 23.00% | ~366 |
 | Commando | 17.00% | ~270 |
 | Dr Jones | 17.00% | ~270 |
 | Newtonian Knockout | 17.00% | ~270 |

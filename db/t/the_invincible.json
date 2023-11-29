@@ -4,7 +4,7 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 448,
+  "EOS_Progressed": 449,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1200,6 +1200,11 @@
       "Time": "2023-11-29T17:08:25.1363749+00:00",
       "NumProgressed": 448,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T18:08:40.7983744+00:00",
+      "NumProgressed": 449,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1212,7 +1217,7 @@
       "Name": "The Teleprobe",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "AchvAllMemories",
@@ -1380,7 +1385,7 @@
       "Name": "The field base",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "AchvReachCamp",
@@ -1412,7 +1417,7 @@
       "Name": "Survivors",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -1443,14 +1448,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 448,
+      "Progressed": 449,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-29T17:08:25.1363745+00:00",
+  "LastChanged_Achievements": "2023-11-29T18:08:40.7983738+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-11-29T16:58:34.8524823+00:00",
-  "LastUpdate_Achievements": "2023-11-29T17:08:25.1363968+00:00"
+  "LastUpdate_Ratings": "2023-11-29T17:59:00.810288+00:00",
+  "LastUpdate_Achievements": "2023-11-29T18:08:40.7983975+00:00"
 }

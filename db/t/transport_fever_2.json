@@ -4889,9 +4889,9 @@
       "ID": "achAccumulate100M",
       "SetID": "dgl390n",
       "Name": "Transport shark",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 756
+      "UsersEstimate": 775
     },
     {
       "ID": "achAccumulate100MHard",
@@ -5249,9 +5249,9 @@
       "ID": "achMissionAllMedals",
       "SetID": "dgl390n",
       "Name": "Exemplary student",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 794
+      "UsersEstimate": 813
     },
     {
       "ID": "achMuseumLine",
@@ -5385,8 +5385,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-11-26T18:59:22.1295963+00:00",
-  "LastChanged_Achievements": "2023-11-29T17:05:42.1907406+00:00",
+  "LastChanged_Achievements": "2023-11-29T18:05:43.5514491+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:28.7031709+00:00",
-  "LastUpdate_Ratings": "2023-11-29T16:59:54.688113+00:00",
-  "LastUpdate_Achievements": "2023-11-29T17:05:42.1907995+00:00"
+  "LastUpdate_Ratings": "2023-11-29T18:00:16.1901289+00:00",
+  "LastUpdate_Achievements": "2023-11-29T18:05:43.5515009+00:00"
 }

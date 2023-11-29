@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1663,
+  "EOS_Progressed": 1664,
   "EOS_Completed": 118,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 7.1,
+  "EOS_Completed_Percentage": 7.09,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -3939,6 +3939,11 @@
       "Time": "2023-11-29T17:09:14.3728448+00:00",
       "NumProgressed": 1663,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2023-11-29T18:09:28.5473867+00:00",
+      "NumProgressed": 1664,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 30,
@@ -3950,7 +3955,7 @@
       "Name": "A fresh start",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 1580
+      "UsersEstimate": 1581
     },
     {
       "ID": "LEVEL_002",
@@ -3958,7 +3963,7 @@
       "Name": "Promising crop",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1331
     },
     {
       "ID": "LEVEL_003",
@@ -3966,7 +3971,7 @@
       "Name": "A horse in the country",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "LEVEL_004",
@@ -3974,7 +3979,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "LEVEL_005",
@@ -4046,7 +4051,7 @@
       "Name": "Higher ground",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "LEVEL_014",
@@ -4060,9 +4065,9 @@
       "ID": "LEVEL_015",
       "SetID": "212bg48",
       "Name": "Flatland",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 266
     },
     {
       "ID": "LEVEL_016",
@@ -4189,14 +4194,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1663,
+      "Progressed": 1664,
       "Completed": 118
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-11-29T17:09:14.3728446+00:00",
+  "LastChanged_Achievements": "2023-11-29T18:09:28.5473864+00:00",
   "LastUpdate_AppInfo": "2023-11-28T03:57:10.4793564+00:00",
-  "LastUpdate_Ratings": "2023-11-29T17:02:40.5905249+00:00",
-  "LastUpdate_Achievements": "2023-11-29T17:09:14.3728961+00:00"
+  "LastUpdate_Ratings": "2023-11-29T18:02:49.7252886+00:00",
+  "LastUpdate_Achievements": "2023-11-29T18:09:28.5474191+00:00"
 }

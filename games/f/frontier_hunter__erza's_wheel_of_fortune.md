@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 91.00% | ~395 |
-| Training Simulation | 76.00% | ~330 |
-| Kuku Bird Hunter | 62.00% | ~269 |
-| Storm Traveller | 56.00% | ~243 |
-| Fashion Connoisseur | 50.00% | ~217 |
-| Wolf King Killer | 50.00% | ~217 |
-| Arms Mechanic | 45.00% | ~195 |
-| Flower Thief | 41.00% | ~178 |
-| Apostle of Flame | 37.00% | ~161 |
-| Beginner Cook | 35.00% | ~152 |
-| Beginner Artificer | 35.00% | ~152 |
+| Travel Streamer | 91.00% | ~397 |
+| Training Simulation | 75.00% | ~327 |
+| Kuku Bird Hunter | 62.00% | ~270 |
+| Storm Traveller | 55.00% | ~240 |
+| Fashion Connoisseur | 50.00% | ~218 |
+| Wolf King Killer | 50.00% | ~218 |
+| Arms Mechanic | 45.00% | ~196 |
+| Flower Thief | 41.00% | ~179 |
+| Apostle of Flame | 36.00% | ~157 |
+| Beginner Cook | 35.00% | ~153 |
+| Beginner Artificer | 35.00% | ~153 |
 | Seal Breaker | 31.00% | ~135 |
-| Handyman | 27.00% | ~117 |
+| Handyman | 27.00% | ~118 |
 | Giant Lizard Killer | 26.00% | ~113 |
-| Guardian | 25.00% | ~108 |
-| Nosebleeder | 24.00% | ~104 |
+| Guardian | 25.00% | ~109 |
+| Nosebleeder | 24.00% | ~105 |
 | Trader | 20.00% | ~87 |
-| Weapon Boost | 20.00% | ~87 |
-| Flying Kobold Killer | 16.00% | ~69 |
-| Youth Magnet | 16.00% | ~69 |
-| Master Artificer | 16.00% | ~69 |
+| Weapon Boost | 19.00% | ~83 |
+| Flying Kobold Killer | 17.00% | ~74 |
+| Youth Magnet | 16.00% | ~70 |
+| Master Artificer | 16.00% | ~70 |
 | Furious Scorpion Killer | 15.00% | ~65 |
-| Lethal Blade Mantis Killer | 15.00% | ~65 |
-| Squeaky Clean | 15.00% | ~65 |
-| Kind Adventurer | 13.00% | ~56 |
+| Lethal Blade Mantis Killer | 14.00% | ~61 |
+| Squeaky Clean | 14.00% | ~61 |
+| Kind Adventurer | 13.00% | ~57 |
 | Mermaid Killer | 12.00% | ~52 |
 | Cave Master | 12.00% | ~52 |
 | Face Slapper | 11.00% | ~48 |
 | Master Cook | 8.00% | ~35 |
-| Berserker Slayer | 7.00% | ~30 |
+| Berserker Slayer | 7.00% | ~31 |
 | Boss challenge | 6.00% | ~26 |
 | Giantess Slayer | 6.00% | ~26 |
 | Warden Slayer | 6.00% | ~26 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 1.00% | ~4 |
 | Warden Challenge | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 434 (Ranked 323)  
+Progressed: 436 (Ranked 321)  
 Completed: 1 (0.23%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 1 (0.23%) (Ranked 251)
 | 2023-11-26 | 341 | 1 |
 | 2023-11-27 | 379 | 1 |
 | 2023-11-28 | 411 | 1 |
-| 2023-11-29 | 434 | 1 |
+| 2023-11-29 | 436 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

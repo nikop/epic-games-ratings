@@ -2,7 +2,7 @@
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
-  "Ranking_Rating": 677,
+  "Ranking_Rating": 678,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 209,
@@ -471,9 +471,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3279,
+  "EOS_Progressed": 3280,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.12,
   "EosHistory": [
@@ -5001,6 +5001,11 @@
       "Time": "2023-11-29T14:03:30.7309506+00:00",
       "NumProgressed": 3279,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2023-11-29T18:03:23.283524+00:00",
+      "NumProgressed": 3280,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 14,
@@ -5020,7 +5025,7 @@
       "Name": "Case Closed",
       "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -5108,7 +5113,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -5123,7 +5128,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3279,
+      "Progressed": 3280,
       "Completed": 135
     }
   ],
@@ -5131,8 +5136,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-11-18T13:02:58.1900278+00:00",
-  "LastChanged_Achievements": "2023-11-29T17:03:15.4110975+00:00",
+  "LastChanged_Achievements": "2023-11-29T18:03:23.2835234+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.1918151+00:00",
-  "LastUpdate_Ratings": "2023-11-29T16:58:30.8984078+00:00",
-  "LastUpdate_Achievements": "2023-11-29T17:03:15.4111268+00:00"
+  "LastUpdate_Ratings": "2023-11-29T17:58:56.665927+00:00",
+  "LastUpdate_Achievements": "2023-11-29T18:03:23.2835572+00:00"
 }
