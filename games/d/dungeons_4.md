@@ -51,8 +51,8 @@
 | The Rune Sockets of Finitude (Part 1) | 13.00% | ~64 |
 | My Little Torture Chamber | 12.00% | ~59 |
 | Lavalumps on Ice! | 12.00% | ~59 |
+| The Rune Sockets of Finitude (Part 2) | 12.00% | ~59 |
 | Rubble and Ashes | 11.00% | ~54 |
-| The Rune Sockets of Finitude (Part 2) | 11.00% | ~54 |
 | To Infinity And Beyond! | 10.00% | ~49 |
 | The Last Stand - This Time For Real! | 10.00% | ~49 |
 | Untouchable | 9.00% | ~44 |
@@ -66,7 +66,7 @@
 | No Mana, No Cry | 4.00% | ~20 |
 | I Don't Need Any Help | 4.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 492 (Ranked 311)  
+Progressed: 492 (Ranked 312)  
 Completed: 8 (1.63%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |

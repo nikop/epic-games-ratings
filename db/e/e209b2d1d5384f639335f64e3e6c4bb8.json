@@ -245,9 +245,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 327297,
+  "EOS_Progressed": 327301,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2306,
+  "EOS_NewPlayers": 2303,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11860,6 +11860,11 @@
       "Time": "2023-11-29T06:06:24.2910132+00:00",
       "NumProgressed": 327297,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T07:07:30.3799273+00:00",
+      "NumProgressed": 327301,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -11888,7 +11893,7 @@
       "Name": "Expedition complete - Medium",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "ACHV_M01_COMPLETE",
@@ -11896,7 +11901,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 144011
+      "UsersEstimate": 144012
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -11904,7 +11909,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 104735
+      "UsersEstimate": 104736
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -11912,7 +11917,7 @@
       "Name": "Cape Wrath",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 68732
+      "UsersEstimate": 68733
     },
     {
       "ID": "ACHV_M04_COMPLETE",
@@ -12248,20 +12253,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 166921
+      "UsersEstimate": 166924
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 327297,
+      "Progressed": 327301,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 327286,
+      "Progressed": 327290,
       "Completed": 0
     }
   ],
@@ -12269,8 +12274,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2023-11-27T04:58:45.0464699+00:00",
-  "LastChanged_Achievements": "2023-11-29T06:06:24.291013+00:00",
+  "LastChanged_Achievements": "2023-11-29T07:07:30.379927+00:00",
   "LastUpdate_AppInfo": "2023-11-24T01:41:56.867045+00:00",
-  "LastUpdate_Ratings": "2023-11-29T05:59:25.7304793+00:00",
-  "LastUpdate_Achievements": "2023-11-29T06:06:24.2910822+00:00"
+  "LastUpdate_Ratings": "2023-11-29T07:00:19.7647063+00:00",
+  "LastUpdate_Achievements": "2023-11-29T07:07:30.3800226+00:00"
 }

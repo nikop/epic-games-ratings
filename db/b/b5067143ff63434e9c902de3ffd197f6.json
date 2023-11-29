@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12125,
+  "EOS_Progressed": 12129,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1283,
+  "EOS_NewPlayers": 1281,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7029,6 +7029,11 @@
       "Time": "2023-11-29T06:05:32.7985345+00:00",
       "NumProgressed": 12125,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T07:06:18.9960757+00:00",
+      "NumProgressed": 12129,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -7073,7 +7078,7 @@
       "Name": "KITTY",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_MEGLAB",
@@ -7089,7 +7094,7 @@
       "Name": "RUN",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_SECRETENDING",
@@ -7137,7 +7142,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3152
+      "UsersEstimate": 3154
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -7177,7 +7182,7 @@
       "Name": "Glitchy",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_WINLEVEL5",
@@ -7193,7 +7198,7 @@
       "Name": "The Dark Road",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_WINLEVEL94",
@@ -7209,7 +7214,7 @@
       "Name": "Endless",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_WINLEVELFUN",
@@ -7217,7 +7222,7 @@
       "Name": "FUN",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_WINLEVELLIGHTOUT",
@@ -7225,21 +7230,21 @@
       "Name": "Lights Out",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     }
   ],
   "AchievementSets": [
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 12125,
+      "Progressed": 12129,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-11-29T06:05:32.798534+00:00",
+  "LastChanged_Achievements": "2023-11-29T07:06:18.9960753+00:00",
   "LastUpdate_AppInfo": "2023-11-27T17:57:10.4801965+00:00",
-  "LastUpdate_Ratings": "2023-11-29T05:59:41.9749457+00:00",
-  "LastUpdate_Achievements": "2023-11-29T06:05:32.7985818+00:00"
+  "LastUpdate_Ratings": "2023-11-29T07:00:44.7360989+00:00",
+  "LastUpdate_Achievements": "2023-11-29T07:06:18.9961266+00:00"
 }

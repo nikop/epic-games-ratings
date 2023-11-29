@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13594,
+  "EOS_Progressed": 13595,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 1647,
+  "EOS_NewPlayers": 1638,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1825,6 +1825,11 @@
       "Time": "2023-11-29T06:08:48.1159603+00:00",
       "NumProgressed": 13594,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-29T07:08:43.3363046+00:00",
+      "NumProgressed": 13595,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -1845,7 +1850,7 @@
       "Name": "Together We Fight",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "ACH_AE_11",
@@ -1933,7 +1938,7 @@
       "Name": "Let It Out",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1359
+      "UsersEstimate": 1360
     },
     {
       "ID": "ACH_AE_21",
@@ -2085,7 +2090,7 @@
       "Name": "Betrayal",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "ACH_AE_7",
@@ -2093,7 +2098,7 @@
       "Name": "Renewal",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1359
+      "UsersEstimate": 1360
     },
     {
       "ID": "ACH_AE_8",
@@ -2101,7 +2106,7 @@
       "Name": "Prisoner Dilemma",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1359
+      "UsersEstimate": 1360
     },
     {
       "ID": "ACH_AE_9",
@@ -2109,14 +2114,14 @@
       "Name": "Paradise Lost",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     }
   ],
   "AchievementSets": [
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 13594,
+      "Progressed": 13595,
       "Completed": 11
     }
   ],
@@ -2124,8 +2129,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-11-29T04:59:31.3373245+00:00",
-  "LastChanged_Achievements": "2023-11-29T06:08:48.1159598+00:00",
+  "LastChanged_Achievements": "2023-11-29T07:08:43.336304+00:00",
   "LastUpdate_AppInfo": "2023-11-28T15:57:01.0190602+00:00",
-  "LastUpdate_Ratings": "2023-11-29T06:00:04.9600154+00:00",
-  "LastUpdate_Achievements": "2023-11-29T06:08:48.1159913+00:00"
+  "LastUpdate_Ratings": "2023-11-29T07:01:20.2385748+00:00",
+  "LastUpdate_Achievements": "2023-11-29T07:08:43.3363376+00:00"
 }

@@ -10,7 +10,7 @@ Number of Ratings: 292  (23.09.2022)
 | Double Kill | 24.00% | ~66 |
 | Critical Hit | 11.00% | ~30 |
 | Veteran | 10.00% | ~28 |
-| Dressed For Success | 7.00% | ~19 |
+| Dressed For Success | 8.00% | ~22 |
 | Sorcerous Spree | 6.00% | ~16 |
 | Humiliation | 5.00% | ~14 |
 | Whoops! | 4.00% | ~11 |

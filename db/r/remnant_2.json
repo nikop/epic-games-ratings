@@ -4911,9 +4911,9 @@
       "Count": 378
     }
   ],
-  "EOS_Progressed": 230284,
+  "EOS_Progressed": 230298,
   "EOS_Completed": 542,
-  "EOS_NewPlayers": 4890,
+  "EOS_NewPlayers": 4887,
   "EOS_NewCompleters": 41,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -20461,6 +20461,11 @@
       "Time": "2023-11-29T06:08:57.0405238+00:00",
       "NumProgressed": 230284,
       "NumCompleted": 542
+    },
+    {
+      "Time": "2023-11-29T07:08:55.7428781+00:00",
+      "NumProgressed": 230298,
+      "NumCompleted": 542
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20823,9 +20828,9 @@
       "ID": "Upgrade_Relic",
       "SetID": "bkp3b1a",
       "Name": "Make Some Room",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 691
     },
     {
       "ID": "Upgrade_Standard_Weapon_A",
@@ -20912,13 +20917,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 230284,
+      "Progressed": 230298,
       "Completed": 542
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 9449,
+      "Progressed": 9463,
       "Completed": 167
     }
   ],
@@ -20926,8 +20931,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-28T23:02:58.3294243+00:00",
-  "LastChanged_Achievements": "2023-11-29T06:08:57.0405235+00:00",
+  "LastChanged_Achievements": "2023-11-29T07:08:55.7428779+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-29T06:03:25.4694456+00:00",
-  "LastUpdate_Achievements": "2023-11-29T06:08:57.0406093+00:00"
+  "LastUpdate_Ratings": "2023-11-29T07:03:18.9643336+00:00",
+  "LastUpdate_Achievements": "2023-11-29T07:08:55.7429644+00:00"
 }

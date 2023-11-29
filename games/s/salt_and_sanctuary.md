@@ -6,16 +6,16 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~447,763 |
-| The Three | 64.00% | ~345,263 |
-| The Banquet | 40.00% | ~215,789 |
+| Find Sanctuary | 83.00% | ~447,764 |
+| The Three | 64.00% | ~345,264 |
+| The Banquet | 40.00% | ~215,790 |
 | Devara's Light | 31.00% | ~167,237 |
 | The Iron Ones | 19.00% | ~102,500 |
-| The Village | 17.00% | ~91,710 |
+| The Village | 17.00% | ~91,711 |
 | The Forest | 15.00% | ~80,921 |
 | The Keep | 14.00% | ~75,526 |
-| Branded | 13.00% | ~70,131 |
-| The Imposter | 13.00% | ~70,131 |
+| Branded | 13.00% | ~70,132 |
+| The Imposter | 13.00% | ~70,132 |
 | The Castle | 11.00% | ~59,342 |
 | The Dome | 9.00% | ~48,553 |
 | The Red Hall | 9.00% | ~48,553 |
@@ -36,15 +36,15 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Palace | 4.00% | ~21,579 |
 | Find Salvation | 3.00% | ~16,184 |
 | The Unspeakable Deep | 3.00% | ~16,184 |
-| Coastrock | 2.00% | ~10,789 |
-| Devoted | 2.00% | ~10,789 |
-| Dominion | 2.00% | ~10,789 |
-| Keepers of Fire and Sky | 2.00% | ~10,789 |
-| Order of the Betrayer | 2.00% | ~10,789 |
-| Wise Words | 2.00% | ~10,789 |
+| Coastrock | 2.00% | ~10,790 |
+| Devoted | 2.00% | ~10,790 |
+| Dominion | 2.00% | ~10,790 |
+| Keepers of Fire and Sky | 2.00% | ~10,790 |
+| Order of the Betrayer | 2.00% | ~10,790 |
+| Wise Words | 2.00% | ~10,790 |
 | Fading Fast | 1.00% | ~5,395 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 539,473 (Ranked 34)  
+Progressed: 539,475 (Ranked 34)  
 Completed: 1,628 (0.30%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,16 +267,16 @@ Completed: 1,628 (0.30%) (Ranked 237)
 | 2023-11-26 | 539,293 | 1,623 |
 | 2023-11-27 | 539,372 | 1,624 |
 | 2023-11-28 | 539,450 | 1,628 |
-| 2023-11-29 | 539,473 | 1,628 |
+| 2023-11-29 | 539,475 | 1,628 |
 ## Awards
 Max (Challenging Combat): 293  (Ranked 256)  
-Sum: 2,004 (Ranked 214)  
+Sum: 2,005 (Ranked 214)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 293 |
+| This game is Highly Recommended | 265 |
 | This game has Quickly Understood Controls | 264 |
-| This game is Highly Recommended | 264 |
 | This game has Diverse Characters | 245 |
 | This game is Extremely Fun | 245 |
 | This game has Amazing Storytelling | 235 |
@@ -474,3 +474,4 @@ Diff (max vs sum): 42
 | 2023-11-25 | 4.61 | - | 293 | 2,002 |
 | 2023-11-26 | 4.61 | - | 293 | 2,003 |
 | 2023-11-28 | 4.61 | - | 293 | 2,004 |
+| 2023-11-29 | 4.61 | - | 293 | 2,005 |

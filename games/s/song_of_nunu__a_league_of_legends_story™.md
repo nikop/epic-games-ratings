@@ -37,7 +37,7 @@
 | On The Rocks | 34.00% | ~341 |
 | Snowy Poro | 32.00% | ~321 |
 | Never Gets Old | 31.00% | ~311 |
-| Vertical Power | 26.00% | ~261 |
+| Vertical Power | 27.00% | ~271 |
 | One From The Heart | 14.00% | ~141 |
 | Yummy | 10.00% | ~100 |
 | Snowball Fightn't | 10.00% | ~100 |

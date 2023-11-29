@@ -1119,9 +1119,9 @@
       "ID": "Dust_fighter",
       "SetID": "b7i210",
       "Name": "Dust fighter",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 139
     },
     {
       "ID": "Engineer",
@@ -1151,9 +1151,9 @@
       "ID": "Fixer",
       "SetID": "b7i210",
       "Name": "Fixer",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     },
     {
       "ID": "Florist",
@@ -1167,9 +1167,9 @@
       "ID": "Game_changer",
       "SetID": "b7i210",
       "Name": "Game changer",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 112
+      "UsersEstimate": 114
     },
     {
       "ID": "Justice",
@@ -1215,17 +1215,17 @@
       "ID": "Samaritan",
       "SetID": "b7i210",
       "Name": "Samaritan",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 116
     },
     {
       "ID": "Street_food",
       "SetID": "b7i210",
       "Name": "Street food",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 112
+      "UsersEstimate": 114
     },
     {
       "ID": "Tower_builder",
@@ -1254,8 +1254,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-11-29T06:06:19.3907244+00:00",
+  "LastChanged_Achievements": "2023-11-29T07:07:23.5135288+00:00",
   "LastUpdate_AppInfo": "2023-11-28T06:57:03.7256389+00:00",
-  "LastUpdate_Ratings": "2023-11-29T05:58:54.6968279+00:00",
-  "LastUpdate_Achievements": "2023-11-29T06:06:19.3907453+00:00"
+  "LastUpdate_Ratings": "2023-11-29T06:59:31.6783326+00:00",
+  "LastUpdate_Achievements": "2023-11-29T07:07:23.5135442+00:00"
 }

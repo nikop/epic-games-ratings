@@ -5,13 +5,13 @@ Rating: 4.40 (Ranked 737)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 11.00% | ~34,791 |
-| IT MAKES BOOM! | 7.00% | ~22,140 |
-| EXTRA BOOST | 5.00% | ~15,814 |
-| PROTECTED | 4.00% | ~12,651 |
-| PRO | 4.00% | ~12,651 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,488 |
-| AGGRESSIVE RACER | 3.00% | ~9,488 |
+| ROOKIE | 11.00% | ~34,794 |
+| IT MAKES BOOM! | 7.00% | ~22,141 |
+| EXTRA BOOST | 5.00% | ~15,815 |
+| PROTECTED | 4.00% | ~12,652 |
+| PRO | 4.00% | ~12,652 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,489 |
+| AGGRESSIVE RACER | 3.00% | ~9,489 |
 | A TIGER'S FEAR | 2.00% | ~6,326 |
 | IT'S A LONG WAY TO THE TOP | 1.00% | ~3,163 |
 | ACE SPEEDSTER | 1.00% | ~3,163 |
@@ -24,13 +24,13 @@ Rating: 4.40 (Ranked 737)
 | FRIENDLY | 0.80% | ~2,530 |
 | THE EYE OF THE HUNTER | 0.70% | ~2,214 |
 | EXPERIENCED CREW | 0.60% | ~1,898 |
-| ACE DEFENDER | 0.50% | ~1,581 |
+| ACE DEFENDER | 0.50% | ~1,582 |
 | ACE BRAWLER | 0.40% | ~1,265 |
 | ACE TRICKSTER | 0.40% | ~1,265 |
 | FRAMED! | 0.30% | ~949 |
 | PERFECTLY POISED | 0.20% | ~633 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 316,281 (Ranked 52)  
+Progressed: 316,306 (Ranked 52)  
 Completed: 344 (0.11%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,17 +249,17 @@ Completed: 344 (0.11%) (Ranked 281)
 | 2023-11-26 | 314,023 | 333 |
 | 2023-11-27 | 315,001 | 338 |
 | 2023-11-28 | 315,946 | 344 |
-| 2023-11-29 | 316,281 | 344 |
+| 2023-11-29 | 316,306 | 344 |
 ## Awards
 Max (Great for Beginners): 93  (Ranked 375)  
-Sum: 676 (Ranked 302)  
+Sum: 677 (Ranked 302)  
 Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 93 |
 | This game is Great for Quick Sessions | 82 |
 | This game has Diverse Characters | 78 |
-| This game has Amazing Characters | 56 |
+| This game has Amazing Characters | 57 |
 | This game is Highly Recommended | 52 |
 | This game has Playful Visuals | 51 |
 | This game has a Competitive Community | 49 |
@@ -330,4 +330,4 @@ Diff (max vs sum): 73
 | 2023-11-26 | 4.39 | 87 | 658 |
 | 2023-11-27 | 4.39 | 89 | 665 |
 | 2023-11-28 | 4.40 | 93 | 675 |
-| 2023-11-29 | 4.40 | 93 | 676 |
+| 2023-11-29 | 4.40 | 93 | 677 |

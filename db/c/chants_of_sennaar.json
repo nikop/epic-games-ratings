@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 72,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -21,10 +21,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 796,
-  "EOS_Completed": 42,
+  "EOS_Completed": 43,
   "EOS_NewPlayers": 149,
-  "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 5.28,
+  "EOS_NewCompleters": 8,
+  "EOS_Completed_Percentage": 5.4,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3225,6 +3225,11 @@
       "Time": "2023-11-29T04:11:18.6171323+00:00",
       "NumProgressed": 796,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-11-29T07:05:55.9386552+00:00",
+      "NumProgressed": 796,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 25,
@@ -3250,9 +3255,9 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 143
+      "UsersEstimate": 151
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -3436,13 +3441,13 @@
       "ID": "2gma9an",
       "IsBase": true,
       "Progressed": 796,
-      "Completed": 42
+      "Completed": 43
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-29T06:05:16.2060575+00:00",
+  "LastChanged_Achievements": "2023-11-29T07:05:55.9386547+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-11-29T05:58:18.2323726+00:00",
-  "LastUpdate_Achievements": "2023-11-29T06:05:16.2060869+00:00"
+  "LastUpdate_Ratings": "2023-11-29T06:58:34.9780562+00:00",
+  "LastUpdate_Achievements": "2023-11-29T07:05:55.9386898+00:00"
 }

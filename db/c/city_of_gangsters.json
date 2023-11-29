@@ -802,9 +802,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 354475,
+  "EOS_Progressed": 354476,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 968,
+  "EOS_NewPlayers": 967,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26102,6 +26102,11 @@
       "Time": "2023-11-29T06:08:36.3619244+00:00",
       "NumProgressed": 354475,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-29T07:08:27.0734106+00:00",
+      "NumProgressed": 354476,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -26321,7 +26326,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 163058
+      "UsersEstimate": 163059
     },
     {
       "ID": "ach028",
@@ -26521,7 +26526,7 @@
       "Name": "Liquor Lord",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21268
+      "UsersEstimate": 21269
     },
     {
       "ID": "ach053",
@@ -26585,7 +26590,7 @@
       "Name": "Safety in Numbers",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21268
+      "UsersEstimate": 21269
     },
     {
       "ID": "ach061",
@@ -26609,7 +26614,7 @@
       "Name": "Moving Experiences",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21268
+      "UsersEstimate": 21269
     },
     {
       "ID": "ach065",
@@ -26673,7 +26678,7 @@
       "Name": "Wise Head",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21268
+      "UsersEstimate": 21269
     },
     {
       "ID": "ach073",
@@ -26681,7 +26686,7 @@
       "Name": "Show \u2018em the Sugar",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21268
+      "UsersEstimate": 21269
     },
     {
       "ID": "ach074",
@@ -26697,7 +26702,7 @@
       "Name": "Killing Them Softly",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21268
+      "UsersEstimate": 21269
     },
     {
       "ID": "ach076",
@@ -26752,7 +26757,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 354475,
+      "Progressed": 354476,
       "Completed": 7
     }
   ],
@@ -26760,8 +26765,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-11-26T08:58:41.2212064+00:00",
-  "LastChanged_Achievements": "2023-11-29T06:08:36.3619241+00:00",
+  "LastChanged_Achievements": "2023-11-29T07:08:27.0734102+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.701398+00:00",
-  "LastUpdate_Ratings": "2023-11-29T06:00:12.9793227+00:00",
-  "LastUpdate_Achievements": "2023-11-29T06:08:36.3621221+00:00"
+  "LastUpdate_Ratings": "2023-11-29T07:01:32.4594246+00:00",
+  "LastUpdate_Achievements": "2023-11-29T07:08:27.0735666+00:00"
 }

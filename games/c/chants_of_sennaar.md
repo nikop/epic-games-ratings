@@ -15,10 +15,10 @@
 | The darkness | 21.00% | ~167 |
 | One last step | 20.00% | ~159 |
 | I did it | 19.00% | ~151 |
+| Peace walker | 19.00% | ~151 |
 | Cable guy | 19.00% | ~151 |
 | Half the way | 19.00% | ~151 |
 | In this together | 18.00% | ~143 |
-| Peace walker | 18.00% | ~143 |
 | Champollion | 18.00% | ~143 |
 | Feels like springtime | 16.00% | ~127 |
 | Alchemists Express | 16.00% | ~127 |
@@ -31,7 +31,7 @@
 | Fashion victim | 4.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 796 (Ranked 275)  
-Completed: 42 (5.28%) (Ranked 72)  
+Completed: 43 (5.40%) (Ranked 72)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -160,4 +160,4 @@ Completed: 42 (5.28%) (Ranked 72)
 | 2023-11-26 | 761 | 38 |
 | 2023-11-27 | 772 | 41 |
 | 2023-11-28 | 792 | 42 |
-| 2023-11-29 | 796 | 42 |
+| 2023-11-29 | 796 | 43 |

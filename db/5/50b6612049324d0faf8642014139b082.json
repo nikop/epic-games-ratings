@@ -55,9 +55,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 666,
+  "EOS_Progressed": 667,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 357,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1475,6 +1475,11 @@
       "Time": "2023-11-29T04:15:24.7756143+00:00",
       "NumProgressed": 666,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T07:09:52.4607434+00:00",
+      "NumProgressed": 667,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1493,9 +1498,9 @@
       "ID": "achievement_10",
       "SetID": "jnappp",
       "Name": "Asphalt Artist",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 173
+      "UsersEstimate": 180
     },
     {
       "ID": "achievement_11",
@@ -1551,13 +1556,13 @@
       "Name": "Your first time?",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "achievement_18",
       "SetID": "jnappp",
       "Name": "Personalised Podium",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 40,
       "UsersEstimate": 5
     },
@@ -1565,7 +1570,7 @@
       "ID": "achievement_19",
       "SetID": "jnappp",
       "Name": "In the Headlights",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -1575,13 +1580,13 @@
       "Name": "Team Principal",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "achievement_20",
       "SetID": "jnappp",
       "Name": "Regularity Renaissance",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -1597,7 +1602,7 @@
       "ID": "achievement_22",
       "SetID": "jnappp",
       "Name": "Snowgloeb",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -1605,7 +1610,7 @@
       "ID": "achievement_23",
       "SetID": "jnappp",
       "Name": "El Matador",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -1629,9 +1634,9 @@
       "ID": "achievement_26",
       "SetID": "jnappp",
       "Name": "Driver\u0027s Alliance",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 33
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_3",
@@ -1685,7 +1690,7 @@
       "ID": "achievement_9",
       "SetID": "jnappp",
       "Name": "Perfect Score",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 40,
       "UsersEstimate": 1
     }
@@ -1694,7 +1699,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 666,
+      "Progressed": 667,
       "Completed": 0
     }
   ],
@@ -1702,8 +1707,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-11-28T20:00:54.5834404+00:00",
-  "LastChanged_Achievements": "2023-11-29T06:09:38.6116861+00:00",
+  "LastChanged_Achievements": "2023-11-29T07:09:52.460743+00:00",
   "LastUpdate_AppInfo": "2023-11-28T21:56:52.2952246+00:00",
-  "LastUpdate_Ratings": "2023-11-29T05:59:57.6580151+00:00",
-  "LastUpdate_Achievements": "2023-11-29T06:09:38.61171+00:00"
+  "LastUpdate_Ratings": "2023-11-29T07:01:09.4638464+00:00",
+  "LastUpdate_Achievements": "2023-11-29T07:09:52.4607735+00:00"
 }

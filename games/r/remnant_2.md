@@ -19,6 +19,7 @@ Rating: 4.75 (Ranked 149)
 | Equal Measures | 0.30% | ~691 |
 | Duality | 0.30% | ~691 |
 | Boss'n Up | 0.30% | ~691 |
+| Make Some Room | 0.30% | ~691 |
 | Trait Chaser | 0.30% | ~691 |
 | Am I Seeing This? | 0.20% | ~461 |
 | Ghost in the Machine | 0.20% | ~461 |
@@ -42,7 +43,6 @@ Rating: 4.75 (Ranked 149)
 | All These Traits� | 0.20% | ~461 |
 | The Ultimate Weapon | 0.20% | ~461 |
 | Almost There | 0.20% | ~461 |
-| Make Some Room | 0.20% | ~461 |
 | Good, But Could Be Better! | 0.20% | ~461 |
 | No One Should Have All That Power | 0.20% | ~461 |
 | Transmutate | 0.20% | ~461 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 149)
 | Maxed Out! | 0.10% | ~230 |
 | A Foul Feast | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,284 (Ranked 69)  
+Progressed: 230,298 (Ranked 69)  
 Completed: 542 (0.24%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 542 (0.24%) (Ranked 249)
 | 2023-11-26 | 229,012 | 534 |
 | 2023-11-27 | 229,605 | 538 |
 | 2023-11-28 | 230,188 | 541 |
-| 2023-11-29 | 230,284 | 542 |
+| 2023-11-29 | 230,298 | 542 |
 ## Awards
 Max (Great Boss Battles): 2,498  (Ranked 104)  
 Sum: 6,104 (Ranked 129)  

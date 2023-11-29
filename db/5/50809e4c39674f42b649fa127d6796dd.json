@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 374,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 327,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1139,9 +1139,9 @@
       "ID": "TOTAL_DESTROYED_OBJECT",
       "SetID": "apihg0e",
       "Name": "Swath of Destruction",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 108
     }
   ],
   "AchievementSets": [
@@ -1154,8 +1154,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-29T06:08:48.4918759+00:00",
+  "LastChanged_Achievements": "2023-11-29T07:08:43.8703333+00:00",
   "LastUpdate_AppInfo": "2023-11-28T17:56:55.9843317+00:00",
-  "LastUpdate_Ratings": "2023-11-29T06:03:06.2461527+00:00",
-  "LastUpdate_Achievements": "2023-11-29T06:08:48.491901+00:00"
+  "LastUpdate_Ratings": "2023-11-29T07:02:20.3070942+00:00",
+  "LastUpdate_Achievements": "2023-11-29T07:08:43.8703572+00:00"
 }

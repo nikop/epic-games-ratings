@@ -1099,10 +1099,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 395,
       "NumberOfAwardsMax": 98
+    },
+    {
+      "Time": "2023-11-29T06:58:07.3420074+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 396,
+      "NumberOfAwardsMax": 98
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 395,
+  "NumberOfAwards": 396,
   "NumberOfAwardsMax": 98,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1140,7 +1146,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1167,9 +1173,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 67701,
+  "EOS_Progressed": 67703,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 471,
+  "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10812,6 +10818,11 @@
       "Time": "2023-11-29T04:11:00.3593876+00:00",
       "NumProgressed": 67701,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-11-29T07:05:37.3259389+00:00",
+      "NumProgressed": 67703,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -10824,7 +10835,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23695
+      "UsersEstimate": 23696
     },
     {
       "ID": "10",
@@ -10888,7 +10899,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 12186
+      "UsersEstimate": 12187
     },
     {
       "ID": "3",
@@ -10951,16 +10962,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 67701,
+      "Progressed": 67703,
       "Completed": 38
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-11-28T06:57:26.2111087+00:00",
-  "LastChanged_Achievements": "2023-11-29T06:05:03.3123673+00:00",
+  "LastChanged": "2023-11-29T06:58:07.3420072+00:00",
+  "LastChanged_Achievements": "2023-11-29T07:05:37.3259385+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:13.9511371+00:00",
-  "LastUpdate_Ratings": "2023-11-29T05:58:00.060645+00:00",
-  "LastUpdate_Achievements": "2023-11-29T06:05:03.3124206+00:00"
+  "LastUpdate_Ratings": "2023-11-29T06:58:07.3420079+00:00",
+  "LastUpdate_Achievements": "2023-11-29T07:05:37.3259911+00:00"
 }
