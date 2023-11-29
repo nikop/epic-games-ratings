@@ -1,14 +1,14 @@
 # Remnant 2
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.75 (Ranked 149)  
+Rating: 4.75 (Ranked 148)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Killing Jar | 0.70% | ~1,613 |
 | Regicide | 0.70% | ~67 |
-| First of Many | 0.60% | ~1,382 |
-| Master of the Dark Arts | 0.60% | ~57 |
+| First of Many | 0.60% | ~1,383 |
+| Master of the Dark Arts | 0.60% | ~58 |
 | Not Your Average Trait | 0.50% | ~1,152 |
 | Expanding Horizons | 0.40% | ~922 |
 | Quest for Survival | 0.40% | ~922 |
@@ -21,6 +21,7 @@ Rating: 4.75 (Ranked 149)
 | Duality | 0.30% | ~691 |
 | Boss'n Up | 0.30% | ~691 |
 | Make Some Room | 0.30% | ~691 |
+| Good, But Could Be Better! | 0.30% | ~691 |
 | Trait Chaser | 0.30% | ~691 |
 | Ghost in the Machine | 0.20% | ~461 |
 | Chaos | 0.20% | ~461 |
@@ -30,6 +31,7 @@ Rating: 4.75 (Ranked 149)
 | The God Gambit | 0.20% | ~461 |
 | Dark Designs | 0.20% | ~461 |
 | Madman's Paradise | 0.20% | ~461 |
+| Tall Tales | 0.20% | ~461 |
 | Blue Goddess | 0.20% | ~461 |
 | Top Performer | 0.20% | ~461 |
 | Shhh...It's a Secret | 0.20% | ~461 |
@@ -43,7 +45,6 @@ Rating: 4.75 (Ranked 149)
 | All These Traits� | 0.20% | ~461 |
 | The Ultimate Weapon | 0.20% | ~461 |
 | Almost There | 0.20% | ~461 |
-| Good, But Could Be Better! | 0.20% | ~461 |
 | No One Should Have All That Power | 0.20% | ~461 |
 | Transmutate | 0.20% | ~461 |
 | Succession | 0.20% | ~19 |
@@ -52,7 +53,6 @@ Rating: 4.75 (Ranked 149)
 | Only Human | 0.10% | ~230 |
 | Red Room | 0.10% | ~230 |
 | The Agenda | 0.10% | ~230 |
-| Tall Tales | 0.10% | ~230 |
 | The Trigger | 0.10% | ~230 |
 | Cutting Edge | 0.10% | ~230 |
 | The Collector | 0.10% | ~230 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 149)
 | Maxed Out! | 0.10% | ~230 |
 | A Foul Feast | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,387 (Ranked 69)  
+Progressed: 230,431 (Ranked 69)  
 Completed: 542 (0.24%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 542 (0.24%) (Ranked 249)
 | 2023-11-26 | 229,012 | 534 |
 | 2023-11-27 | 229,605 | 538 |
 | 2023-11-28 | 230,188 | 541 |
-| 2023-11-29 | 230,387 | 542 |
+| 2023-11-29 | 230,431 | 542 |
 ## Awards
 Max (Great Boss Battles): 2,498  (Ranked 104)  
 Sum: 6,111 (Ranked 129)  

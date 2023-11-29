@@ -3237,10 +3237,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 3232,
       "NumberOfAwardsMax": 441
+    },
+    {
+      "Time": "2023-11-29T13:05:48.4677555+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 3233,
+      "NumberOfAwardsMax": 441
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3232,
+  "NumberOfAwards": 3233,
   "NumberOfAwardsMax": 441,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3254,7 +3260,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 430
+      "Count": 431
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3307,7 +3313,7 @@
   ],
   "EOS_Progressed": 17524,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -14813,9 +14819,9 @@
       "ID": "WinNearFrosts",
       "SetID": "cfbk359",
       "Name": "Frosts",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 158
     },
     {
       "ID": "WinNearGreed",
@@ -14845,9 +14851,9 @@
       "ID": "WinNearPresence",
       "SetID": "cfbk359",
       "Name": "Ominous Presence",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 158
     },
     {
       "ID": "WinNearStorms",
@@ -14884,9 +14890,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-11-27T19:58:26.3844836+00:00",
-  "LastChanged_Achievements": "2023-11-29T12:08:59.9583931+00:00",
+  "LastChanged": "2023-11-29T13:05:48.4677553+00:00",
+  "LastChanged_Achievements": "2023-11-29T13:15:13.2352167+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:56.4973761+00:00",
-  "LastUpdate_Ratings": "2023-11-29T11:59:13.5622321+00:00",
-  "LastUpdate_Achievements": "2023-11-29T12:08:59.9585093+00:00"
+  "LastUpdate_Ratings": "2023-11-29T13:05:48.467756+00:00",
+  "LastUpdate_Achievements": "2023-11-29T13:15:13.2352941+00:00"
 }

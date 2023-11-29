@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 761,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1603,9 +1603,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 571
+      "UsersEstimate": 578
     },
     {
       "ID": "CompleteChapter10",
@@ -1850,8 +1850,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-29T12:04:15.5093501+00:00",
+  "LastChanged_Achievements": "2023-11-29T13:10:43.7992807+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-29T11:57:24.9856795+00:00",
-  "LastUpdate_Achievements": "2023-11-29T12:04:15.5093818+00:00"
+  "LastUpdate_Ratings": "2023-11-29T13:03:20.1137616+00:00",
+  "LastUpdate_Achievements": "2023-11-29T13:10:43.7993054+00:00"
 }

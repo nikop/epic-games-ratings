@@ -15,8 +15,8 @@ Rating: 4.87 (Ranked 22)
 | Perfect Parry | 13.00% | ~575 |
 | Alright, that felt AWESOME! | 13.00% | ~575 |
 | This will cost you big time | 12.00% | ~531 |
+| I play my own way! | 12.00% | ~531 |
 | Uh, they were broken when I got here | 12.00% | ~531 |
-| I play my own way! | 11.00% | ~487 |
 | Z-shielding's got nothing on us! | 11.00% | ~487 |
 | Kissing the sky! | 11.00% | ~487 |
 | The Negotiator | 10.00% | ~442 |

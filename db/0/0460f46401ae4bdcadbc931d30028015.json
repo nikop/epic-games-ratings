@@ -4,10 +4,10 @@
   "ProductSlug": "madden-nfl-24",
   "Ranking_Rating": 900,
   "Ranking_Popularity": 471,
-  "Ranking_PopularitySum": 452,
+  "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -739,10 +739,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 93,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-11-29T13:07:00.412336+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 113,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 93,
+  "NumberOfAwards": 113,
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -769,11 +775,17 @@
       "Prefix": "This game is",
       "Type": "Highly Recommended",
       "Count": 26
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 20
     }
   ],
-  "EOS_Progressed": 3939,
+  "EOS_Progressed": 3940,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6211,6 +6223,11 @@
       "Time": "2023-11-29T07:06:48.1826441+00:00",
       "NumProgressed": 3939,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T13:12:55.9967987+00:00",
+      "NumProgressed": 3940,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -6263,7 +6280,7 @@
       "Name": "ROTY",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "achievement_15",
@@ -6375,7 +6392,7 @@
       "Name": "Bragging Rights",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "achievement_9",
@@ -6390,16 +6407,16 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3939,
+      "Progressed": 3940,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-18T01:36:55.7733992+00:00",
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged": "2023-11-28T19:00:52.7181889+00:00",
-  "LastChanged_Achievements": "2023-11-29T12:05:56.6995935+00:00",
+  "LastChanged": "2023-11-29T13:07:00.4123358+00:00",
+  "LastChanged_Achievements": "2023-11-29T13:12:55.9967983+00:00",
   "LastUpdate_AppInfo": "2023-11-23T06:57:01.9632293+00:00",
-  "LastUpdate_Ratings": "2023-11-29T12:00:06.3858572+00:00",
-  "LastUpdate_Achievements": "2023-11-29T12:05:56.6996321+00:00"
+  "LastUpdate_Ratings": "2023-11-29T13:07:00.4123363+00:00",
+  "LastUpdate_Achievements": "2023-11-29T13:12:55.9968366+00:00"
 }

@@ -23,10 +23,10 @@
 | Tailor-Made | 5.00% | ~8 |
 | Gotta Go Fast! | 4.00% | ~7 |
 | Say My Name | 4.00% | ~7 |
+| Tempus Fugit | 4.00% | ~7 |
 | POI Hunter | 3.00% | ~5 |
 | Seven-League Boots | 3.00% | ~5 |
 | First Things First | 3.00% | ~5 |
-| Tempus Fugit | 3.00% | ~5 |
 | Déjà-Vu | 2.00% | ~3 |
 | The Joy of Discovery | 2.00% | ~3 |
 | Geek | 2.00% | ~3 |

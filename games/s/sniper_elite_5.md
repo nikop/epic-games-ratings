@@ -1,34 +1,34 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.44 (Ranked 676)  
+Rating: 4.44 (Ranked 677)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,856 |
+| Meeting Resistance | 47.00% | ~1,857 |
 | Confirming Suspicions | 41.00% | ~1,620 |
 | The Kraken Wakes | 37.00% | ~1,462 |
 | It's Starting to Crack | 34.00% | ~1,343 |
-| Change the Channel | 31.00% | ~1,224 |
+| Change the Channel | 31.00% | ~1,225 |
 | Lord of War | 30.00% | ~1,185 |
 | Taking it back | 29.00% | ~1,146 |
-| Resourceful | 27.00% | ~1,066 |
-| Target America | 27.00% | ~1,066 |
+| Resourceful | 27.00% | ~1,067 |
+| Target America | 27.00% | ~1,067 |
 | The Kraken Sleeps | 25.00% | ~988 |
-| Liberté | 23.00% | ~908 |
-| Organ Grinder | 23.00% | ~908 |
-| As Quiet as a Mouse | 23.00% | ~908 |
+| Liberté | 23.00% | ~909 |
+| Organ Grinder | 23.00% | ~909 |
+| As Quiet as a Mouse | 23.00% | ~909 |
 | Sharpshooter | 22.00% | ~869 |
-| Gunslinger | 19.00% | ~750 |
-| Explosive Efficiency | 19.00% | ~750 |
+| Gunslinger | 19.00% | ~751 |
+| Explosive Efficiency | 19.00% | ~751 |
 | Just a Flesh Wound | 17.00% | ~672 |
 | Der Geist | 17.00% | ~672 |
 | Climbing the Ladder | 16.00% | ~632 |
 | Close Quarters | 16.00% | ~632 |
 | Snake in the Grass | 16.00% | ~632 |
-| Skirmisher | 15.00% | ~592 |
-| Die Nussknacker Sweet! | 15.00% | ~592 |
-| Brains of the Operation | 15.00% | ~592 |
+| Skirmisher | 15.00% | ~593 |
+| Die Nussknacker Sweet! | 15.00% | ~593 |
+| Brains of the Operation | 15.00% | ~593 |
 | No Stone Unturned | 14.00% | ~553 |
 | Opposing Force | 14.00% | ~553 |
 | Fields of Glory | 14.00% | ~553 |
@@ -49,10 +49,10 @@ Rating: 4.44 (Ranked 676)
 | Ghost of Falaise | 5.00% | ~195 |
 | Strategist | 4.00% | ~158 |
 | Locomotion Commotion | 4.00% | ~158 |
-| From Paris with Love | 3.00% | ~118 |
-| Burn after reading | 3.00% | ~118 |
-| Souvenir hunter | 3.00% | ~118 |
-| Shoot for the Moon | 3.00% | ~118 |
+| From Paris with Love | 3.00% | ~119 |
+| Burn after reading | 3.00% | ~119 |
+| Souvenir hunter | 3.00% | ~119 |
+| Shoot for the Moon | 3.00% | ~119 |
 | If You Go Down To The Woods Today | 3.00% | ~117 |
 | Fight Another Day | 3.00% | ~117 |
 | Shipbreaker | 3.00% | ~117 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 676)
 | Stroll in the Woods | 0.60% | ~23 |
 | Going Overboard | 0.60% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,950 (Ranked 197)  
+Progressed: 3,951 (Ranked 197)  
 Completed: 11 (0.28%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 11 (0.28%) (Ranked 244)
 | 2023-11-26 | 3,939 | 11 |
 | 2023-11-27 | 3,945 | 11 |
 | 2023-11-28 | 3,949 | 11 |
-| 2023-11-29 | 3,950 | 11 |
+| 2023-11-29 | 3,951 | 11 |
 ## Awards
 Max (Great for Beginners): 27  (Ranked 512)  
 Sum: 27 (Ranked 526)  

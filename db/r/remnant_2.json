@@ -2,7 +2,7 @@
   "ID": "aa598567414d42378187b8861da550f7",
   "Name": "Remnant 2",
   "ProductSlug": "remnant-2",
-  "Ranking_Rating": 149,
+  "Ranking_Rating": 148,
   "Ranking_Popularity": 104,
   "Ranking_PopularitySum": 129,
   "Ranking_EOS_Progress": 69,
@@ -4917,9 +4917,9 @@
       "Count": 378
     }
   ],
-  "EOS_Progressed": 230387,
+  "EOS_Progressed": 230431,
   "EOS_Completed": 542,
-  "EOS_NewPlayers": 4825,
+  "EOS_NewPlayers": 4817,
   "EOS_NewCompleters": 40,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -20497,6 +20497,11 @@
       "Time": "2023-11-29T12:09:04.425637+00:00",
       "NumProgressed": 230387,
       "NumCompleted": 542
+    },
+    {
+      "Time": "2023-11-29T13:15:19.0277812+00:00",
+      "NumProgressed": 230431,
+      "NumCompleted": 542
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20675,9 +20680,9 @@
       "ID": "Meet_Mudtooth",
       "SetID": "bkp3b1a",
       "Name": "Tall Tales",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 461
     },
     {
       "ID": "Meet_Nimue",
@@ -20693,7 +20698,7 @@
       "Name": "First of Many",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1383
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -20867,9 +20872,9 @@
       "ID": "Upgrade_Standard_Weapon_A",
       "SetID": "bkp3b1a",
       "Name": "Good, But Could Be Better!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 461
+      "UsersEstimate": 691
     },
     {
       "ID": "Upgrade_Standard_Weapon_B",
@@ -20925,7 +20930,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -20948,13 +20953,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 230387,
+      "Progressed": 230431,
       "Completed": 542
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 9552,
+      "Progressed": 9596,
       "Completed": 167
     }
   ],
@@ -20962,8 +20967,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-29T12:03:20.9709798+00:00",
-  "LastChanged_Achievements": "2023-11-29T12:09:04.4256366+00:00",
+  "LastChanged_Achievements": "2023-11-29T13:15:19.0277808+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-29T12:03:20.9709803+00:00",
-  "LastUpdate_Achievements": "2023-11-29T12:09:04.4257322+00:00"
+  "LastUpdate_Ratings": "2023-11-29T13:09:28.5189959+00:00",
+  "LastUpdate_Achievements": "2023-11-29T13:15:19.0278728+00:00"
 }

@@ -1,25 +1,25 @@
 # Q.U.B.E. 2
 [Store](https://store.epicgames.com/en-US/p/q-u-b-e-2)  
 [View Rawdata](../../db/q/q.u.b.e._2.json)  
-Rating: 4.44 (Ranked 676)  
+Rating: 4.44 (Ranked 677)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~31,243 |
-| Quick Understanding of Block Extrusion | 68.00% | ~28,327 |
-| Nature or Nurture | 52.00% | ~21,662 |
-| Power Glove | 50.00% | ~20,828 |
-| Forgotten Memories | 43.00% | ~17,913 |
-| Cogs in the Machine | 36.00% | ~14,997 |
-| Mission Success | 22.00% | ~9,165 |
-| There's No Place Like Home | 22.00% | ~9,165 |
-| Green Cube Killer | 19.00% | ~7,915 |
-| Path to Salvation | 17.00% | ~7,082 |
-| Infinity Loop | 16.00% | ~6,665 |
-| Descendants | 14.00% | ~5,832 |
-| The Flawed Teacher | 12.00% | ~4,999 |
-| To Infinity and Beyond | 6.00% | ~2,499 |
+| Lost in Space | 75.00% | ~31,247 |
+| Quick Understanding of Block Extrusion | 68.00% | ~28,331 |
+| Nature or Nurture | 52.00% | ~21,665 |
+| Power Glove | 50.00% | ~20,832 |
+| Forgotten Memories | 43.00% | ~17,915 |
+| Cogs in the Machine | 36.00% | ~14,999 |
+| Mission Success | 22.00% | ~9,166 |
+| There's No Place Like Home | 22.00% | ~9,166 |
+| Green Cube Killer | 19.00% | ~7,916 |
+| Path to Salvation | 17.00% | ~7,083 |
+| Infinity Loop | 16.00% | ~6,666 |
+| Descendants | 14.00% | ~5,833 |
+| The Flawed Teacher | 12.00% | ~5,000 |
+| To Infinity and Beyond | 6.00% | ~2,500 |
 | The Truthful Enemy | 5.00% | ~2,083 |
 | Home Stretch | 2.00% | ~833 |
 | Get me out of here | 2.00% | ~833 |
@@ -36,8 +36,8 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 1.00% | ~417 |
 | Expert Collector | 1.00% | ~417 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,657 (Ranked 119)  
-Completed: 175 (0.42%) (Ranked 217)  
+Progressed: 41,663 (Ranked 119)  
+Completed: 175 (0.42%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -136,7 +136,7 @@ Completed: 175 (0.42%) (Ranked 217)
 | 2023-11-26 | 41,333 | 174 |
 | 2023-11-27 | 41,463 | 174 |
 | 2023-11-28 | 41,606 | 175 |
-| 2023-11-29 | 41,657 | 175 |
+| 2023-11-29 | 41,663 | 175 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

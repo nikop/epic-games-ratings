@@ -3,11 +3,11 @@
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 749,
-  "Ranking_Popularity": 433,
+  "Ranking_Popularity": 428,
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1199,18 +1199,24 @@
       "Rating": 4.39,
       "NumberOfAwards": 350,
       "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2023-11-29T13:07:09.8976544+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 351,
+      "NumberOfAwardsMax": 52
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 350,
-  "NumberOfAwardsMax": 51,
+  "NumberOfAwards": 351,
+  "NumberOfAwardsMax": 52,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 51
+      "Count": 52
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1267,7 +1273,7 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 258839,
+  "EOS_Progressed": 258841,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
@@ -22717,6 +22723,11 @@
       "Time": "2023-11-29T12:06:18.5422795+00:00",
       "NumProgressed": 258839,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-29T13:13:25.0393246+00:00",
+      "NumProgressed": 258841,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -22776,7 +22787,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80240
+      "UsersEstimate": 80241
     },
     {
       "ID": "BackHomeNTimes",
@@ -23175,16 +23186,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 258839,
+      "Progressed": 258841,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-11-27T13:59:21.5794063+00:00",
-  "LastChanged_Achievements": "2023-11-29T12:06:18.5422791+00:00",
+  "LastChanged": "2023-11-29T13:07:09.8976542+00:00",
+  "LastChanged_Achievements": "2023-11-29T13:13:25.0393244+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:31.8373031+00:00",
-  "LastUpdate_Ratings": "2023-11-29T12:00:13.0844996+00:00",
-  "LastUpdate_Achievements": "2023-11-29T12:06:18.5424309+00:00"
+  "LastUpdate_Ratings": "2023-11-29T13:07:09.8976546+00:00",
+  "LastUpdate_Achievements": "2023-11-29T13:13:25.0394465+00:00"
 }

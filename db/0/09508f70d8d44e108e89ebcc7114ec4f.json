@@ -4,7 +4,7 @@
   "ProductSlug": "match-village-5f41dd",
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewPlayers": 380,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
@@ -1532,9 +1532,9 @@
       "ID": "fishing_house",
       "SetID": "ap7g2g4",
       "Name": "Big fishing house",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 86
     },
     {
       "ID": "fun!",
@@ -1667,8 +1667,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-11-29T12:08:56.839075+00:00",
+  "LastChanged_Achievements": "2023-11-29T13:15:09.0324498+00:00",
   "LastUpdate_AppInfo": "2023-11-24T02:17:11.1273819+00:00",
-  "LastUpdate_Ratings": "2023-11-29T12:00:41.2834186+00:00",
-  "LastUpdate_Achievements": "2023-11-29T12:08:56.8390989+00:00"
+  "LastUpdate_Ratings": "2023-11-29T13:08:48.7984275+00:00",
+  "LastUpdate_Achievements": "2023-11-29T13:15:09.0324716+00:00"
 }

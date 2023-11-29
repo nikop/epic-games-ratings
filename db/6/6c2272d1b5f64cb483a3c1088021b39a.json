@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1227,
+  "EOS_Progressed": 1228,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4299,6 +4299,11 @@
       "Time": "2023-11-29T05:09:35.0902162+00:00",
       "NumProgressed": 1227,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T13:16:21.2541131+00:00",
+      "NumProgressed": 1228,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4478,7 +4483,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "elemental_stones_2",
@@ -4636,9 +4641,9 @@
       "ID": "lord_of_the_tower_3",
       "SetID": "53c1p3k",
       "Name": "Lord of the Tower 3",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "nimble_thief_1",
@@ -4718,7 +4723,7 @@
       "Name": "Sophisticated Alchemist 1",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "sophisticated_alchemist_2",
@@ -4837,14 +4842,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1227,
+      "Progressed": 1228,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-11-29T12:09:52.7835162+00:00",
+  "LastChanged_Achievements": "2023-11-29T13:16:21.2541127+00:00",
   "LastUpdate_AppInfo": "2023-11-28T15:57:00.3278219+00:00",
-  "LastUpdate_Ratings": "2023-11-29T11:58:14.9201739+00:00",
-  "LastUpdate_Achievements": "2023-11-29T12:09:52.7835739+00:00"
+  "LastUpdate_Ratings": "2023-11-29T13:04:27.7906623+00:00",
+  "LastUpdate_Achievements": "2023-11-29T13:16:21.2541676+00:00"
 }

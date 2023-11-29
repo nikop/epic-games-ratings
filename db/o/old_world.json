@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2046,9 +2046,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15538,
+  "EOS_Progressed": 15539,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16751,6 +16751,11 @@
       "Time": "2023-11-29T08:05:30.2559039+00:00",
       "NumProgressed": 15538,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-29T13:12:50.9966235+00:00",
+      "NumProgressed": 15539,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16912,9 +16917,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_1",
       "SetID": "9201eeb",
       "Name": "Carthage - Ox Hide",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 93
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_1_BRONZE",
@@ -18424,9 +18429,9 @@
       "ID": "ACHIEVEMENT_OLD_WORLD_ORDER",
       "SetID": "9201eeb",
       "Name": "Old World Order",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 93
     },
     {
       "ID": "ACHIEVEMENT_ONE_TRUE_FAITH",
@@ -19488,30 +19493,30 @@
       "ID": "ACHIEVEMENT_UNIT_BEJA_ARCHER",
       "SetID": "9201eeb",
       "Name": "Beja Archer",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 93
     }
   ],
   "AchievementSets": [
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15538,
+      "Progressed": 15539,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15538,
+      "Progressed": 15539,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-27T16:01:26.663656+00:00",
-  "LastChanged_Achievements": "2023-11-29T12:05:52.6879791+00:00",
+  "LastChanged_Achievements": "2023-11-29T13:12:50.9966231+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.3516564+00:00",
-  "LastUpdate_Ratings": "2023-11-29T11:57:54.1274815+00:00",
-  "LastUpdate_Achievements": "2023-11-29T12:05:52.6889119+00:00"
+  "LastUpdate_Ratings": "2023-11-29T13:03:59.9235131+00:00",
+  "LastUpdate_Achievements": "2023-11-29T13:12:50.997473+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1519,7 +1519,7 @@
   ],
   "EOS_Progressed": 7020,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -13828,9 +13828,9 @@
       "ID": "SURVIVE_FIRST_AUTUMN",
       "SetID": "5349c2e",
       "Name": "Winter Is Coming",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1966
+      "UsersEstimate": 2036
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
@@ -13932,8 +13932,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-11-28T03:59:11.5381254+00:00",
-  "LastChanged_Achievements": "2023-11-29T12:06:29.3537803+00:00",
+  "LastChanged_Achievements": "2023-11-29T13:13:39.0578124+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:23.1121034+00:00",
-  "LastUpdate_Ratings": "2023-11-29T11:59:56.8040592+00:00",
-  "LastUpdate_Achievements": "2023-11-29T12:06:29.3538526+00:00"
+  "LastUpdate_Ratings": "2023-11-29T13:06:47.2834962+00:00",
+  "LastUpdate_Achievements": "2023-11-29T13:13:39.0579039+00:00"
 }

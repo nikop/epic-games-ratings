@@ -4427,9 +4427,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77419,
+  "EOS_Progressed": 77420,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 592,
+  "EOS_NewPlayers": 593,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24402,6 +24402,11 @@
       "Time": "2023-11-29T12:04:29.9949781+00:00",
       "NumProgressed": 77419,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-11-29T13:11:03.0969052+00:00",
+      "NumProgressed": 77420,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -24525,7 +24530,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13935
+      "UsersEstimate": 13936
     },
     {
       "ID": "CLAYFACE_3",
@@ -24573,7 +24578,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 10064
+      "UsersEstimate": 10065
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -24621,7 +24626,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10064
+      "UsersEstimate": 10065
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -24637,7 +24642,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21677
+      "UsersEstimate": 21678
     },
     {
       "ID": "FREEZE_1_5",
@@ -24805,7 +24810,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26322
+      "UsersEstimate": 26323
     },
     {
       "ID": "MYSTERY_02",
@@ -24837,7 +24842,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13935
+      "UsersEstimate": 13936
     },
     {
       "ID": "MYSTERY_06",
@@ -24900,13 +24905,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77419,
+      "Progressed": 77420,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47699,
+      "Progressed": 47700,
       "Completed": 2675
     }
   ],
@@ -24914,8 +24919,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-29T02:20:45.7879739+00:00",
-  "LastChanged_Achievements": "2023-11-29T12:04:29.9949775+00:00",
+  "LastChanged_Achievements": "2023-11-29T13:11:03.0969047+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:48.4544768+00:00",
-  "LastUpdate_Ratings": "2023-11-29T11:58:53.9981282+00:00",
-  "LastUpdate_Achievements": "2023-11-29T12:04:29.9951063+00:00"
+  "LastUpdate_Ratings": "2023-11-29T13:05:21.5454439+00:00",
+  "LastUpdate_Achievements": "2023-11-29T13:11:03.0970127+00:00"
 }

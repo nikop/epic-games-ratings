@@ -139,17 +139,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | All Nations | 0.80% | ~124 |
 | Kmt Unified | 0.80% | ~124 |
 | Ishtar Gate in Babylon | 0.70% | ~109 |
-| Carthage - Ox Hide | 0.70% | ~109 |
 | Peacemaker | 0.70% | ~109 |
 | Learn to Play 5 | 0.70% | ~109 |
-| Old World Order | 0.70% | ~109 |
 | Cataphract Archer | 0.70% | ~109 |
 | The Great Mage | 0.70% | ~109 |
 | Kush | 0.70% | ~109 |
-| Beja Archer | 0.70% | ~109 |
+| Carthage - Ox Hide | 0.60% | ~93 |
 | Old | 0.60% | ~93 |
+| Old World Order | 0.60% | ~93 |
 | Ten Crowns | 0.60% | ~93 |
 | No Undo | 0.60% | ~93 |
+| Beja Archer | 0.60% | ~93 |
 | Ancient | 0.50% | ~78 |
 | Glorious Difficulty | 0.50% | ~78 |
 | Hatti | 0.50% | ~78 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,538 (Ranked 152)  
+Progressed: 15,539 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -572,7 +572,7 @@ Completed: 5 (0.03%) (Ranked 327)
 | 2023-11-26 | 15,514 | 5 |
 | 2023-11-27 | 15,525 | 5 |
 | 2023-11-28 | 15,534 | 5 |
-| 2023-11-29 | 15,538 | 5 |
+| 2023-11-29 | 15,539 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,879 (Ranked 218)  

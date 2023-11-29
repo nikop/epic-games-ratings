@@ -1,18 +1,18 @@
 # Q.U.B.E. 10th Anniversary
 [Store](https://store.epicgames.com/en-US/p/qube-10th-anniversary-59e999)  
 [View Rawdata](../../db/q/q.u.b.e._10th_anniversary.json)  
-Rating: 4.44 (Ranked 676)  
+Rating: 4.44 (Ranked 677)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 23.00% | ~5,208 |
-| Sector 2 | 21.00% | ~4,755 |
-| Crush That Cube! | 17.00% | ~3,849 |
-| Sector 3 | 17.00% | ~3,849 |
-| Crush That Ball! | 14.00% | ~3,170 |
-| Sector 4 | 14.00% | ~3,170 |
+| Sector 1 | 23.00% | ~5,209 |
+| Sector 2 | 21.00% | ~4,756 |
+| Crush That Cube! | 17.00% | ~3,850 |
+| Sector 3 | 17.00% | ~3,850 |
+| Crush That Ball! | 14.00% | ~3,171 |
+| Sector 4 | 14.00% | ~3,171 |
 | Sector 5 | 9.00% | ~2,038 |
-| Sector 6 | 8.00% | ~1,811 |
+| Sector 6 | 8.00% | ~1,812 |
 | Feeling the Blues | 6.00% | ~1,359 |
 | Squished | 6.00% | ~1,359 |
 | Finale | 6.00% | ~1,359 |
@@ -30,7 +30,7 @@ Rating: 4.44 (Ranked 676)
 | Silver Trophy | 1.00% | ~226 |
 | Maxed Out | 1.00% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,642 (Ranked 136)  
+Progressed: 22,649 (Ranked 136)  
 Completed: 117 (0.52%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 117 (0.52%) (Ranked 203)
 | 2023-11-26 | 22,281 | 104 |
 | 2023-11-27 | 22,417 | 110 |
 | 2023-11-28 | 22,582 | 115 |
-| 2023-11-29 | 22,642 | 117 |
+| 2023-11-29 | 22,649 | 117 |
 ## Awards
 Max (Challenging Puzzles): 20  (Ranked 549)  
 Sum: 20 (Ranked 550)  

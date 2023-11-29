@@ -9,9 +9,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Abandoned Settlement | 1.00% | ~175 |
 | Overgrown Library | 1.00% | ~175 |
 | Petrified Necropolis | 1.00% | ~175 |
+| Frosts | 0.90% | ~158 |
+| Ominous Presence | 0.90% | ~158 |
 | Gathering Storm | 0.90% | ~158 |
-| Frosts | 0.80% | ~140 |
-| Ominous Presence | 0.80% | ~140 |
 | Land of Greed | 0.70% | ~123 |
 | Untamed Wilds | 0.60% | ~105 |
 | Serving Ale | 0.10% | ~18 |
@@ -292,12 +292,12 @@ Completed: 51 (0.29%) (Ranked 238)
 | 2023-11-29 | 17,524 | 51 |
 ## Awards
 Max (Quickly Understood Controls): 441  (Ranked 222)  
-Sum: 3,232 (Ranked 173)  
+Sum: 3,233 (Ranked 173)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 441 |
-| This game is Relaxing | 430 |
+| This game is Relaxing | 431 |
 | This game is Great for Beginners | 420 |
 | This game is Extremely Fun | 407 |
 | This game is Highly Recommended | 390 |
@@ -548,3 +548,4 @@ Diff (max vs sum): 49
 | 2023-11-24 | 4.81 | - | 440 | 3,230 |
 | 2023-11-26 | 4.81 | - | 440 | 3,231 |
 | 2023-11-27 | 4.81 | - | 441 | 3,232 |
+| 2023-11-29 | 4.81 | - | 441 | 3,233 |

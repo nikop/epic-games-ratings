@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 461,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -428,9 +428,9 @@
       "ID": "KR4_ACHIEVEMENT_BILBO_DOOR",
       "SetID": "caeik3h",
       "Name": "Far Over the Misty Mountains",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "KR4_ACHIEVEMENT_BLACKBROTHER",
@@ -1012,9 +1012,9 @@
       "ID": "KR4_ACHIEVEMENT_WINTER_QUEEN",
       "SetID": "caeik3h",
       "Name": "More Than A Legend",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     }
   ],
   "AchievementSets": [
@@ -1027,8 +1027,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-29T12:03:49.7675028+00:00",
+  "LastChanged_Achievements": "2023-11-29T13:10:08.9325922+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:14.7123281+00:00",
-  "LastUpdate_Ratings": "2023-11-29T11:57:35.4516523+00:00",
-  "LastUpdate_Achievements": "2023-11-29T12:03:49.7675736+00:00"
+  "LastUpdate_Ratings": "2023-11-29T13:03:34.0737325+00:00",
+  "LastUpdate_Achievements": "2023-11-29T13:10:08.9326634+00:00"
 }

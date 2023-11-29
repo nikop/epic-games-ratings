@@ -4,7 +4,7 @@
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 539,
   "Ranking_Popularity": 349,
-  "Ranking_PopularitySum": 442,
+  "Ranking_PopularitySum": 443,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 203,
@@ -885,7 +885,7 @@
   ],
   "EOS_Progressed": 11128,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -13678,8 +13678,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-28T17:00:04.053138+00:00",
-  "LastChanged_Achievements": "2023-11-29T12:09:01.2101944+00:00",
+  "LastChanged_Achievements": "2023-11-29T13:15:14.9051041+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:45.8574591+00:00",
-  "LastUpdate_Ratings": "2023-11-29T12:00:38.1380456+00:00",
-  "LastUpdate_Achievements": "2023-11-29T12:09:01.2102689+00:00"
+  "LastUpdate_Ratings": "2023-11-29T13:07:44.6929382+00:00",
+  "LastUpdate_Achievements": "2023-11-29T13:15:14.9051777+00:00"
 }

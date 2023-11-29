@@ -13,7 +13,7 @@ Rating: 4.05 (Ranked 986)
 | Initiate | 56.00% | ~178 |
 | Thrada-Kul | 52.00% | ~165 |
 | Gravity-Challenged Rocks | 43.00% | ~136 |
-| Soldier | 36.00% | ~114 |
+| Soldier | 37.00% | ~117 |
 | All the Major Food Groups | 36.00% | ~114 |
 | Beggars Would Ride | 32.00% | ~101 |
 | Socialite | 30.00% | ~95 |

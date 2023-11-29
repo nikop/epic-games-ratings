@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -5846,9 +5846,9 @@
       "ID": "ML_ACHIEVEMENT_39",
       "SetID": "c7hf6a4",
       "Name": "Champagne Spray",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 554
+      "UsersEstimate": 577
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -5941,8 +5941,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-29T12:09:52.7333722+00:00",
+  "LastChanged_Achievements": "2023-11-29T13:16:21.1899171+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:35.7913611+00:00",
-  "LastUpdate_Ratings": "2023-11-29T12:00:19.5031564+00:00",
-  "LastUpdate_Achievements": "2023-11-29T12:09:52.7334398+00:00"
+  "LastUpdate_Ratings": "2023-11-29T13:07:19.0116064+00:00",
+  "LastUpdate_Achievements": "2023-11-29T13:16:21.1899685+00:00"
 }

@@ -63,7 +63,7 @@
   "Tags": [],
   "EOS_Progressed": 668,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 348,
+  "EOS_NewPlayers": 346,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1517,9 +1517,9 @@
       "ID": "achievement_11",
       "SetID": "jnappp",
       "Name": "Gravel Guru",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 174
+      "UsersEstimate": 180
     },
     {
       "ID": "achievement_12",
@@ -1718,8 +1718,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-11-29T12:00:09.1025016+00:00",
-  "LastChanged_Achievements": "2023-11-29T12:09:46.0877315+00:00",
+  "LastChanged_Achievements": "2023-11-29T13:16:13.3744958+00:00",
   "LastUpdate_AppInfo": "2023-11-28T21:56:52.2952246+00:00",
-  "LastUpdate_Ratings": "2023-11-29T12:00:09.1025127+00:00",
-  "LastUpdate_Achievements": "2023-11-29T12:09:46.0877552+00:00"
+  "LastUpdate_Ratings": "2023-11-29T13:07:04.2751999+00:00",
+  "LastUpdate_Achievements": "2023-11-29T13:16:13.3745151+00:00"
 }

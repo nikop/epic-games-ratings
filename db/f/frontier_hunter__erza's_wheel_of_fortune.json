@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 425,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 280,
+  "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -1604,9 +1604,9 @@
       "ID": "ACHIEVEMENT_43",
       "SetID": "7pimpda",
       "Name": "Warden Slayer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -1685,8 +1685,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-29T12:05:27.3026616+00:00",
+  "LastChanged_Achievements": "2023-11-29T13:12:17.7193994+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-11-29T11:58:47.318647+00:00",
-  "LastUpdate_Achievements": "2023-11-29T12:05:27.3027047+00:00"
+  "LastUpdate_Ratings": "2023-11-29T13:05:13.0280421+00:00",
+  "LastUpdate_Achievements": "2023-11-29T13:12:17.7194271+00:00"
 }

@@ -6967,10 +6967,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11940,
       "NumberOfAwardsMax": 7803
+    },
+    {
+      "Time": "2023-11-29T13:04:22.0501611+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11942,
+      "NumberOfAwardsMax": 7803
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11940,
+  "NumberOfAwards": 11942,
   "NumberOfAwardsMax": 7803,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7020,7 +7026,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 513
+      "Count": 515
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7029,9 +7035,9 @@
       "Count": 500
     }
   ],
-  "EOS_Progressed": 727568,
+  "EOS_Progressed": 727588,
   "EOS_Completed": 2449,
-  "EOS_NewPlayers": 5239,
+  "EOS_NewPlayers": 5208,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -32564,6 +32570,11 @@
       "Time": "2023-11-29T12:08:38.2282999+00:00",
       "NumProgressed": 727568,
       "NumCompleted": 2449
+    },
+    {
+      "Time": "2023-11-29T13:14:44.9670494+00:00",
+      "NumProgressed": 727588,
+      "NumCompleted": 2449
     }
   ],
   "TotalAchievements": 51,
@@ -32639,7 +32650,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14551
+      "UsersEstimate": 14552
     },
     {
       "ID": "ach_contender",
@@ -32695,7 +32706,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14551
+      "UsersEstimate": 14552
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -32719,7 +32730,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14551
+      "UsersEstimate": 14552
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -32735,7 +32746,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14551
+      "UsersEstimate": 14552
     },
     {
       "ID": "ach_impressive_aim",
@@ -32767,7 +32778,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "ach_knock_down",
@@ -32855,7 +32866,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14551
+      "UsersEstimate": 14552
     },
     {
       "ID": "ach_survival_expert",
@@ -32879,7 +32890,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "ach_thesacrifice",
@@ -32911,7 +32922,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14551
+      "UsersEstimate": 14552
     },
     {
       "ID": "ach_well_known_survivor",
@@ -32919,7 +32930,7 @@
       "Name": "Rising Star",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "ach_well_trained",
@@ -32935,7 +32946,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "ach_dark_magic",
@@ -32943,7 +32954,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1594
     },
     {
       "ID": "ach_gardening_tools",
@@ -32959,7 +32970,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -32982,22 +32993,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 727568,
+      "Progressed": 727588,
       "Completed": 2449
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 53110,
+      "Progressed": 53130,
       "Completed": 36613
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-29T09:57:50.35862+00:00",
-  "LastChanged_Achievements": "2023-11-29T12:08:38.2282996+00:00",
+  "LastChanged": "2023-11-29T13:04:22.050161+00:00",
+  "LastChanged_Achievements": "2023-11-29T13:14:44.9670492+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-29T11:58:10.7130091+00:00",
-  "LastUpdate_Achievements": "2023-11-29T12:08:38.228467+00:00"
+  "LastUpdate_Ratings": "2023-11-29T13:04:22.0501615+00:00",
+  "LastUpdate_Achievements": "2023-11-29T13:14:44.967172+00:00"
 }
