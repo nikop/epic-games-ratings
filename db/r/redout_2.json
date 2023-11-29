@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1171,
+  "EOS_Progressed": 1172,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1124,6 +1124,11 @@
       "Time": "2023-11-28T17:09:26.3069897+00:00",
       "NumProgressed": 1171,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T02:31:32.5702814+00:00",
+      "NumProgressed": 1172,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1207,7 +1212,7 @@
       "Name": "Ride in the rising sun",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ALLTRACKSGENESIS",
@@ -1439,7 +1444,7 @@
       "Name": "Suit up",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ONEMODULE",
@@ -1550,7 +1555,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1171,
+      "Progressed": 1172,
       "Completed": 0
     }
   ],
@@ -1558,8 +1563,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-11-23T19:59:23.2109032+00:00",
-  "LastChanged_Achievements": "2023-11-29T02:02:20.2879568+00:00",
+  "LastChanged_Achievements": "2023-11-29T02:31:32.570281+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:45.636515+00:00",
-  "LastUpdate_Ratings": "2023-11-29T01:55:05.0356457+00:00",
-  "LastUpdate_Achievements": "2023-11-29T02:02:20.2880141+00:00"
+  "LastUpdate_Ratings": "2023-11-29T02:22:54.9666429+00:00",
+  "LastUpdate_Achievements": "2023-11-29T02:31:32.570315+00:00"
 }

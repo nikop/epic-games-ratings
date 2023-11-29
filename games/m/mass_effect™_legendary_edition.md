@@ -109,10 +109,10 @@
 | Electronics Specialist | 14.00% | ~203 |
 | Combined Arms | 12.00% | ~174 |
 | Bruiser | 12.00% | ~174 |
+| Overload Specialist | 11.00% | ~159 |
 | Warp Mastery | 11.00% | ~159 |
 | Always Prepared | 10.00% | ~145 |
 | Paramour III | 10.00% | ~145 |
-| Overload Specialist | 10.00% | ~145 |
 | Barrier Mastery | 9.00% | ~130 |
 | Sky High | 9.00% | ~130 |
 | Hijacker | 9.00% | ~130 |

@@ -2188,9 +2188,9 @@
       "Count": 255
     }
   ],
-  "EOS_Progressed": 216392,
+  "EOS_Progressed": 216394,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 1259,
+  "EOS_NewPlayers": 1257,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -27668,6 +27668,11 @@
       "Time": "2023-11-29T01:55:53.9082456+00:00",
       "NumProgressed": 216392,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-11-29T02:25:37.3973705+00:00",
+      "NumProgressed": 216394,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 44,
@@ -27767,7 +27772,7 @@
       "Name": "Happy Planning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15147
+      "UsersEstimate": 15148
     },
     {
       "ID": "HighFiveTheMoon",
@@ -27783,7 +27788,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15147
+      "UsersEstimate": 15148
     },
     {
       "ID": "ItsRainingMen",
@@ -27799,7 +27804,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 15147
+      "UsersEstimate": 15148
     },
     {
       "ID": "Mercyful",
@@ -27895,7 +27900,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17311
+      "UsersEstimate": 17312
     },
     {
       "ID": "Rollin",
@@ -27927,7 +27932,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17311
+      "UsersEstimate": 17312
     },
     {
       "ID": "TanukiTime",
@@ -28023,22 +28028,22 @@
       "Name": "Yabu",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 15147
+      "UsersEstimate": 15148
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 216392,
+      "Progressed": 216394,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-28T14:59:28.9312629+00:00",
-  "LastChanged_Achievements": "2023-11-29T01:55:53.9082452+00:00",
+  "LastChanged_Achievements": "2023-11-29T02:25:37.3973701+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:23.8145991+00:00",
-  "LastUpdate_Ratings": "2023-11-29T01:52:31.7287786+00:00",
-  "LastUpdate_Achievements": "2023-11-29T01:55:53.9083807+00:00"
+  "LastUpdate_Ratings": "2023-11-29T02:21:48.7271483+00:00",
+  "LastUpdate_Achievements": "2023-11-29T02:25:37.3974996+00:00"
 }

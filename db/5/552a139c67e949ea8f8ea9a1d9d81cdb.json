@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1214,
+  "EOS_Progressed": 1215,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2662,6 +2662,11 @@
       "Time": "2023-11-29T01:56:43.880513+00:00",
       "NumProgressed": 1214,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T02:26:12.6694014+00:00",
+      "NumProgressed": 1215,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2674,7 +2679,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2682,7 +2687,7 @@
       "Name": "Acrobat",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -2690,7 +2695,7 @@
       "Name": "Out of control",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -2834,7 +2839,7 @@
       "Name": "I\u0027m in charge here!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -2850,7 +2855,7 @@
       "Name": "The Scorpion",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -2930,7 +2935,7 @@
       "Name": "Spin the wheel",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -2962,7 +2967,7 @@
       "Name": "Better too much",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -3010,27 +3015,27 @@
       "Name": "Mission complete",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1214,
+      "Progressed": 1215,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 882,
-      "Completed": 882
+      "Progressed": 883,
+      "Completed": 883
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-29T01:56:43.8805126+00:00",
+  "LastChanged_Achievements": "2023-11-29T02:26:12.669401+00:00",
   "LastUpdate_AppInfo": "2023-11-23T02:56:55.439879+00:00",
-  "LastUpdate_Ratings": "2023-11-29T01:53:32.7333195+00:00",
-  "LastUpdate_Achievements": "2023-11-29T01:56:43.880548+00:00"
+  "LastUpdate_Ratings": "2023-11-29T02:22:28.8539272+00:00",
+  "LastUpdate_Achievements": "2023-11-29T02:26:12.6694388+00:00"
 }

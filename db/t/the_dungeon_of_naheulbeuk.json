@@ -1419,9 +1419,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 240243,
+  "EOS_Progressed": 240244,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1467,
+  "EOS_NewPlayers": 1462,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20339,6 +20339,11 @@
       "Time": "2023-11-29T02:01:27.8886709+00:00",
       "NumProgressed": 240243,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-29T02:30:54.2534016+00:00",
+      "NumProgressed": 240244,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -20750,7 +20755,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19219
+      "UsersEstimate": 19220
     },
     {
       "ID": "DwarfElf15Support",
@@ -21053,21 +21058,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 240243,
+      "Progressed": 240244,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 240243,
+      "Progressed": 240244,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-28T10:58:38.4570753+00:00",
-  "LastChanged_Achievements": "2023-11-29T02:01:27.8886705+00:00",
+  "LastChanged_Achievements": "2023-11-29T02:30:54.2534012+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:00.6949957+00:00",
-  "LastUpdate_Ratings": "2023-11-29T01:51:37.9148838+00:00",
-  "LastUpdate_Achievements": "2023-11-29T02:01:27.8888092+00:00"
+  "LastUpdate_Ratings": "2023-11-29T02:21:12.8756117+00:00",
+  "LastUpdate_Achievements": "2023-11-29T02:30:54.2535754+00:00"
 }

@@ -3247,9 +3247,9 @@
       "Count": 254
     }
   ],
-  "EOS_Progressed": 84331,
+  "EOS_Progressed": 84332,
   "EOS_Completed": 166,
-  "EOS_NewPlayers": 822,
+  "EOS_NewPlayers": 820,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -28072,6 +28072,11 @@
       "Time": "2023-11-29T01:57:43.5093765+00:00",
       "NumProgressed": 84331,
       "NumCompleted": 166
+    },
+    {
+      "Time": "2023-11-29T02:26:55.6336684+00:00",
+      "NumProgressed": 84332,
+      "NumCompleted": 166
     }
   ],
   "TotalAchievements": 30,
@@ -28123,7 +28128,7 @@
       "Name": "Landlord",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 9276
+      "UsersEstimate": 9277
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -28139,7 +28144,7 @@
       "Name": "Most Achievements",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 9276
+      "UsersEstimate": 9277
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -28163,7 +28168,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 31202
+      "UsersEstimate": 31203
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -28275,7 +28280,7 @@
       "Name": "Frequent tester",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 6746
+      "UsersEstimate": 6747
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -28283,7 +28288,7 @@
       "Name": "Hellenic Elysium",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 9276
+      "UsersEstimate": 9277
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -28299,7 +28304,7 @@
       "Name": "Grand champion",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 9276
+      "UsersEstimate": 9277
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -28315,22 +28320,22 @@
       "Name": "Determined",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 6746
+      "UsersEstimate": 6747
     }
   ],
   "AchievementSets": [
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 84331,
+      "Progressed": 84332,
       "Completed": 166
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-11-27T21:57:34.1560719+00:00",
-  "LastChanged_Achievements": "2023-11-29T01:57:43.5093761+00:00",
+  "LastChanged_Achievements": "2023-11-29T02:26:55.6336678+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:29.0449406+00:00",
-  "LastUpdate_Ratings": "2023-11-29T01:50:21.1566839+00:00",
-  "LastUpdate_Achievements": "2023-11-29T01:57:43.5095009+00:00"
+  "LastUpdate_Ratings": "2023-11-29T02:20:22.0613849+00:00",
+  "LastUpdate_Achievements": "2023-11-29T02:26:55.6338248+00:00"
 }

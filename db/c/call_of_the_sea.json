@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 131951,
+  "EOS_Progressed": 131952,
   "EOS_Completed": 1152,
-  "EOS_NewPlayers": 1019,
+  "EOS_NewPlayers": 1018,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -25663,6 +25663,11 @@
       "Time": "2023-11-29T01:56:24.6357238+00:00",
       "NumProgressed": 131951,
       "NumCompleted": 1152
+    },
+    {
+      "Time": "2023-11-29T02:25:58.9894304+00:00",
+      "NumProgressed": 131952,
+      "NumCompleted": 1152
     }
   ],
   "TotalAchievements": 34,
@@ -25690,7 +25695,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 55419
+      "UsersEstimate": 55420
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -25730,7 +25735,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 105561
+      "UsersEstimate": 105562
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -25754,7 +25759,7 @@
       "Name": "A brigantine, a brig and a barque",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 36946
+      "UsersEstimate": 36947
     },
     {
       "ID": "ACH_L02_BASECAMP_END",
@@ -25762,7 +25767,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 52780
+      "UsersEstimate": 52781
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -25786,7 +25791,7 @@
       "Name": "The Vanishing of the Lady Shannon",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 39585
+      "UsersEstimate": 39586
     },
     {
       "ID": "ACH_L03_BLACKBEACH_OBJ",
@@ -25802,7 +25807,7 @@
       "Name": "Seaside Serenade",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 39585
+      "UsersEstimate": 39586
     },
     {
       "ID": "ACH_L03_PIANO",
@@ -25850,7 +25855,7 @@
       "Name": "506 East Hampden Avenue",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 36946
+      "UsersEstimate": 36947
     },
     {
       "ID": "ACH_L04B_DESERT_OBJ",
@@ -25945,7 +25950,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 131951,
+      "Progressed": 131952,
       "Completed": 1152
     }
   ],
@@ -25953,8 +25958,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-11-24T21:59:26.7035134+00:00",
-  "LastChanged_Achievements": "2023-11-29T01:56:24.6357233+00:00",
+  "LastChanged_Achievements": "2023-11-29T02:25:58.9894301+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:33.6152409+00:00",
-  "LastUpdate_Ratings": "2023-11-29T01:49:46.5426638+00:00",
-  "LastUpdate_Achievements": "2023-11-29T01:56:24.6358556+00:00"
+  "LastUpdate_Ratings": "2023-11-29T02:19:59.401461+00:00",
+  "LastUpdate_Achievements": "2023-11-29T02:25:58.9895505+00:00"
 }

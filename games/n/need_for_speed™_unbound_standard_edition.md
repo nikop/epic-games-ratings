@@ -4,41 +4,41 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 92.00% | ~10,367 |
-| Cool Whip | 90.00% | ~10,142 |
-| Fashion Killa | 88.00% | ~9,917 |
-| Drop the Beat | 86.00% | ~9,691 |
-| Hey Lakeshore | 85.00% | ~9,579 |
-| 100 Miles and Runnin' | 84.00% | ~9,466 |
+| Throwing up Tags | 92.00% | ~10,368 |
+| Cool Whip | 90.00% | ~10,143 |
+| Fashion Killa | 88.00% | ~9,918 |
+| Drop the Beat | 86.00% | ~9,692 |
+| Hey Lakeshore | 85.00% | ~9,580 |
+| 100 Miles and Runnin' | 84.00% | ~9,467 |
 | Public Enemy | 82.00% | ~9,241 |
-| Rebel Without a Pause | 67.00% | ~7,550 |
-| Hey Speedie! | 67.00% | ~7,550 |
-| Most Wanted | 64.00% | ~7,212 |
+| Rebel Without a Pause | 67.00% | ~7,551 |
+| Hey Speedie! | 67.00% | ~7,551 |
+| Most Wanted | 64.00% | ~7,213 |
 | New Crew | 62.00% | ~6,987 |
 | Serious Guap | 53.00% | ~5,973 |
 | Style it Out | 53.00% | ~5,973 |
 | Escape Artist | 53.00% | ~5,973 |
 | Untouchable | 52.00% | ~5,860 |
-| Oh, It's On | 50.00% | ~5,634 |
-| Rydell's Rydes | 48.00% | ~5,409 |
+| Oh, It's On | 50.00% | ~5,635 |
+| Rydell's Rydes | 49.00% | ~5,522 |
 | Cash Money Millionaire | 46.00% | ~5,184 |
 | Lake Better Watch Out | 39.00% | ~4,395 |
-| #Blessed | 34.00% | ~3,831 |
+| #Blessed | 34.00% | ~3,832 |
 | Access All Areas | 33.00% | ~3,719 |
-| Found Family | 31.00% | ~3,493 |
+| Found Family | 31.00% | ~3,494 |
 | In the Flow | 29.00% | ~3,268 |
 | The Collector | 29.00% | ~3,268 |
 | Kick it | 29.00% | ~3,268 |
-| Top Billin' | 22.00% | ~2,479 |
+| Top Billin' | 21.00% | ~2,367 |
 | Teacher's Pet | 20.00% | ~2,254 |
-| Full House | 18.00% | ~2,028 |
-| Superstar | 18.00% | ~2,028 |
+| Full House | 18.00% | ~2,029 |
+| Superstar | 18.00% | ~2,029 |
 | B for My Name | 17.00% | ~1,916 |
 | Mixtape | 17.00% | ~1,916 |
 | Bring Your A Game | 15.00% | ~1,690 |
 | Flow Master | 12.00% | ~1,352 |
-| The Bear Champ | 5.00% | ~563 |
-| Heaven Spot | 5.00% | ~563 |
+| The Bear Champ | 5.00% | ~564 |
+| Heaven Spot | 5.00% | ~564 |
 | Adbusting | 4.00% | ~451 |
 | In The Zone | 3.00% | ~338 |
 | Caught On Camera | 3.00% | ~338 |
@@ -46,7 +46,7 @@
 | Catch My Drift | 2.00% | ~225 |
 | Cleaning Up | 2.00% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,269 (Ranked 161)  
+Progressed: 11,270 (Ranked 161)  
 Completed: 52 (0.46%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,4 +121,4 @@ Completed: 52 (0.46%) (Ranked 211)
 | 2023-11-26 | 11,100 | 51 |
 | 2023-11-27 | 11,181 | 52 |
 | 2023-11-28 | 11,263 | 52 |
-| 2023-11-29 | 11,269 | 52 |
+| 2023-11-29 | 11,270 | 52 |

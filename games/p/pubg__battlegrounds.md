@@ -5,23 +5,23 @@ Rating: 3.97 (Ranked 1,010)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 72.00% | ~531,526 |
-| Health Junkie | 39.00% | ~287,910 |
-| You Complete Me | 38.00% | ~280,527 |
-| Guardian Angel | 33.00% | ~243,616 |
-| Devil Inside Me | 26.00% | ~191,940 |
-| Fantastic Four | 19.00% | ~140,264 |
-| Killing Spree | 18.00% | ~132,881 |
-| Marksman Novice | 16.00% | ~118,117 |
-| First Blood | 12.00% | ~88,588 |
-| Top 10 | 12.00% | ~88,588 |
-| Now You See Me, Now You Don't | 10.00% | ~73,823 |
-| Marksman Expert | 8.00% | ~59,058 |
-| CQB Novice | 7.00% | ~51,676 |
-| Collateral Damage | 6.00% | ~44,294 |
+| Blood on My Hands | 72.00% | ~531,537 |
+| Health Junkie | 39.00% | ~287,916 |
+| You Complete Me | 38.00% | ~280,533 |
+| Guardian Angel | 33.00% | ~243,621 |
+| Devil Inside Me | 26.00% | ~191,944 |
+| Fantastic Four | 19.00% | ~140,267 |
+| Killing Spree | 18.00% | ~132,884 |
+| Marksman Novice | 16.00% | ~118,119 |
+| First Blood | 12.00% | ~88,590 |
+| Top 10 | 12.00% | ~88,590 |
+| Now You See Me, Now You Don't | 10.00% | ~73,825 |
+| Marksman Expert | 8.00% | ~59,060 |
+| CQB Novice | 7.00% | ~51,677 |
+| Collateral Damage | 6.00% | ~44,295 |
 | Airborne | 5.00% | ~36,912 |
 | Pacifist | 5.00% | ~36,912 |
-| Last Survivor | 4.00% | ~29,529 |
+| Last Survivor | 4.00% | ~29,530 |
 | Marksman Master | 3.00% | ~22,147 |
 | Trigonometry Novice | 3.00% | ~22,147 |
 | First Come, First Served | 3.00% | ~22,147 |
@@ -43,7 +43,7 @@ Rating: 3.97 (Ranked 1,010)
 | Nade King Master | 0.10% | ~738 |
 | Shoot the Knee | 0.10% | ~738 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 738,230 (Ranked 19)  
+Progressed: 738,246 (Ranked 19)  
 Completed: 11 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,14 +266,14 @@ Completed: 11 (0.00%) (Ranked 363)
 | 2023-11-26 | 734,299 | 11 |
 | 2023-11-27 | 736,236 | 11 |
 | 2023-11-28 | 738,056 | 11 |
-| 2023-11-29 | 738,230 | 11 |
+| 2023-11-29 | 738,246 | 11 |
 ## Awards
-Max (Competitive Players): 4,976  (Ranked 72)  
-Sum: 16,277 (Ranked 66)  
+Max (Competitive Players): 4,993  (Ranked 72)  
+Sum: 16,294 (Ranked 66)  
 Diff (max vs sum): 6  
 | Award | Count |
 | ----- | ----- |
-| This game has Competitive Players | 4,976 |
+| This game has Competitive Players | 4,993 |
 | This game has Challenging Combat | 4,373 |
 | This game is Highly Recommended | 4,048 |
 | This game has Quickly Understood Controls | 3,335 |
@@ -559,3 +559,4 @@ Diff (max vs sum): 6
 | 2023-11-26 | 3.97 | 4,927 | 16,150 |
 | 2023-11-27 | 3.97 | 4,952 | 16,216 |
 | 2023-11-28 | 3.97 | 4,976 | 16,277 |
+| 2023-11-29 | 3.97 | 4,993 | 16,294 |

@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 414,
+  "EOS_Progressed": 415,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 290,
+  "EOS_NewPlayers": 288,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -1267,6 +1267,11 @@
       "Time": "2023-11-29T01:58:15.8437512+00:00",
       "NumProgressed": 414,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T02:27:19.0423672+00:00",
+      "NumProgressed": 415,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1278,7 +1283,7 @@
       "Name": "Travel Streamer",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1300,9 +1305,9 @@
       "ID": "ACHIEVEMENT_12",
       "SetID": "7pimpda",
       "Name": "Nosebleeder",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 104
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -1406,7 +1411,7 @@
       "Name": "Arms Mechanic",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -1430,7 +1435,7 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -1598,7 +1603,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -1622,7 +1627,7 @@
       "Name": "Seal Breaker",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -1637,7 +1642,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 414,
+      "Progressed": 415,
       "Completed": 1
     }
   ],
@@ -1645,8 +1650,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-29T01:58:15.8437507+00:00",
+  "LastChanged_Achievements": "2023-11-29T02:27:19.0423668+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-11-29T01:50:48.1264757+00:00",
-  "LastUpdate_Achievements": "2023-11-29T01:58:15.8437868+00:00"
+  "LastUpdate_Ratings": "2023-11-29T02:20:39.7248511+00:00",
+  "LastUpdate_Achievements": "2023-11-29T02:27:19.0423988+00:00"
 }

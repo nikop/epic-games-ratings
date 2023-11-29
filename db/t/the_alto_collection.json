@@ -844,9 +844,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 48099,
+  "EOS_Progressed": 48102,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 834,
+  "EOS_NewPlayers": 833,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26014,6 +26014,11 @@
       "Time": "2023-11-29T01:57:43.9835396+00:00",
       "NumProgressed": 48099,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-29T02:26:55.9787346+00:00",
+      "NumProgressed": 48102,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -26065,7 +26070,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12987
+      "UsersEstimate": 12988
     },
     {
       "ID": "goals180",
@@ -26201,7 +26206,7 @@
       "Name": "Unlock Tupa",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "playerWingsuit",
@@ -26233,7 +26238,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 12506
+      "UsersEstimate": 12507
     },
     {
       "ID": "sandboarder",
@@ -26336,15 +26341,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 48099,
+      "Progressed": 48102,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-11-25T16:58:44.1865876+00:00",
-  "LastChanged_Achievements": "2023-11-29T01:57:43.9835392+00:00",
+  "LastChanged_Achievements": "2023-11-29T02:26:55.9787342+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:43.8978111+00:00",
-  "LastUpdate_Ratings": "2023-11-29T01:53:27.8902745+00:00",
-  "LastUpdate_Achievements": "2023-11-29T01:57:43.9836764+00:00"
+  "LastUpdate_Ratings": "2023-11-29T02:22:25.7263364+00:00",
+  "LastUpdate_Achievements": "2023-11-29T02:26:55.9788584+00:00"
 }

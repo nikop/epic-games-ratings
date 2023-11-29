@@ -22,7 +22,7 @@
 | Senior Major Baran | 11.00% | ~33 |
 | Lieutenant Colonel Baran | 9.00% | ~27 |
 | Colonel Baran | 8.00% | ~24 |
-| Brigadier General Baran | 6.00% | ~18 |
+| Brigadier General Baran | 7.00% | ~21 |
 | Lieutenant General Baran | 6.00% | ~18 |
 | EMERAID RAM | 5.00% | ~15 |
 | GOLDEN RAM | 0.00% | ~0 |

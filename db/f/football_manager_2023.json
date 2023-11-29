@@ -8101,7 +8101,7 @@
       "Count": 633
     }
   ],
-  "EOS_Progressed": 361262,
+  "EOS_Progressed": 361263,
   "EOS_Completed": 26,
   "EOS_NewPlayers": 1886,
   "EOS_NewCompleters": 0,
@@ -33181,6 +33181,11 @@
       "Time": "2023-11-29T02:02:22.3050065+00:00",
       "NumProgressed": 361262,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-29T02:31:34.2168303+00:00",
+      "NumProgressed": 361263,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 100,
@@ -33312,7 +33317,7 @@
       "Name": "Thumping",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 140892
+      "UsersEstimate": 140893
     },
     {
       "ID": "achievement_bragging_rights",
@@ -33320,7 +33325,7 @@
       "Name": "Bragging Rights",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 14450
+      "UsersEstimate": 14451
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -33336,7 +33341,7 @@
       "Name": "Clean Sheet",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 195081
+      "UsersEstimate": 195082
     },
     {
       "ID": "achievement_clean_sheet_network",
@@ -33360,7 +33365,7 @@
       "Name": "World Beaters",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14450
+      "UsersEstimate": 14451
     },
     {
       "ID": "achievement_cupset_between_friends",
@@ -33384,7 +33389,7 @@
       "Name": "Parked The Tank",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 14450
+      "UsersEstimate": 14451
     },
     {
       "ID": "achievement_drilling_down",
@@ -33448,7 +33453,7 @@
       "Name": "World Renowned",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 14450
+      "UsersEstimate": 14451
     },
     {
       "ID": "achievement_get_offered_an_international_manager_job",
@@ -33512,7 +33517,7 @@
       "Name": "They\u0027re a Natural",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 111991
+      "UsersEstimate": 111992
     },
     {
       "ID": "achievement_import_to_victory",
@@ -33576,7 +33581,7 @@
       "Name": "Motivational Speaker",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 245658
+      "UsersEstimate": 245659
     },
     {
       "ID": "achievement_new_kids_on_the_block",
@@ -33600,7 +33605,7 @@
       "Name": "One of Us, One of Us!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 223982
+      "UsersEstimate": 223983
     },
     {
       "ID": "achievement_people_pleaser",
@@ -33640,7 +33645,7 @@
       "Name": "Star Player",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 101153
+      "UsersEstimate": 101154
     },
     {
       "ID": "achievement_reach_top_of_hall_of_fame",
@@ -33664,7 +33669,7 @@
       "Name": "Record Signing",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 111991
+      "UsersEstimate": 111992
     },
     {
       "ID": "achievement_red_hot_newgen",
@@ -33680,7 +33685,7 @@
       "Name": "Scoring Streak",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 140892
+      "UsersEstimate": 140893
     },
     {
       "ID": "achievement_sell_50_million_plus_player",
@@ -33744,7 +33749,7 @@
       "Name": "The Only Stat That Matters",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 101153
+      "UsersEstimate": 101154
     },
     {
       "ID": "achievement_the_peoples_champion",
@@ -33776,7 +33781,7 @@
       "Name": "Goal Machine",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 72252
+      "UsersEstimate": 72253
     },
     {
       "ID": "achievement_unbeaten_host_in_fantasy_draft",
@@ -33832,7 +33837,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 140892
+      "UsersEstimate": 140893
     },
     {
       "ID": "achievement_win_3_consecutive_league_titles",
@@ -33848,7 +33853,7 @@
       "Name": "A Game of Two Halves",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 43351
+      "UsersEstimate": 43352
     },
     {
       "ID": "achievement_win_fantasy_draft",
@@ -33880,7 +33885,7 @@
       "Name": "First Victory",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 198694
+      "UsersEstimate": 198695
     },
     {
       "ID": "achievement_won_international_championship",
@@ -33991,7 +33996,7 @@
     {
       "ID": "26pcimd",
       "IsBase": true,
-      "Progressed": 361262,
+      "Progressed": 361263,
       "Completed": 26
     }
   ],
@@ -33999,8 +34004,8 @@
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.5210365+00:00",
   "LastChanged": "2023-11-29T01:51:45.5098059+00:00",
-  "LastChanged_Achievements": "2023-11-29T02:02:22.3050062+00:00",
+  "LastChanged_Achievements": "2023-11-29T02:31:34.2168299+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:03.613663+00:00",
-  "LastUpdate_Ratings": "2023-11-29T01:51:45.5098065+00:00",
-  "LastUpdate_Achievements": "2023-11-29T02:02:22.3051893+00:00"
+  "LastUpdate_Ratings": "2023-11-29T02:21:17.761416+00:00",
+  "LastUpdate_Achievements": "2023-11-29T02:31:34.2170523+00:00"
 }

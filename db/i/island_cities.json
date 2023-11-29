@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 791,
+  "EOS_Progressed": 792,
   "EOS_Completed": 131,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 16.56,
+  "EOS_Completed_Percentage": 16.54,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3356,6 +3356,11 @@
       "Time": "2023-11-29T01:57:48.1331585+00:00",
       "NumProgressed": 791,
       "NumCompleted": 131
+    },
+    {
+      "Time": "2023-11-29T02:26:59.1005697+00:00",
+      "NumProgressed": 792,
+      "NumCompleted": 131
     }
   ],
   "TotalAchievements": 22,
@@ -3367,7 +3372,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "LEVEL_002",
@@ -3375,7 +3380,7 @@
       "Name": "A tiny town",
       "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "LEVEL_003",
@@ -3383,7 +3388,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "LEVEL_004",
@@ -3407,7 +3412,7 @@
       "Name": "Found an oasis",
       "Percentage": 43,
       "XP": 35,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "LEVEL_007",
@@ -3431,7 +3436,7 @@
       "Name": "Who loves trains?",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "LEVEL_010",
@@ -3439,7 +3444,7 @@
       "Name": "Easy and steady climb",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "LEVEL_011",
@@ -3503,7 +3508,7 @@
       "Name": "Le jardin magnifique",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "LEVEL_019",
@@ -3511,7 +3516,7 @@
       "Name": "Aiming for a living and human city",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "LEVEL_020",
@@ -3519,7 +3524,7 @@
       "Name": "City of dreams",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "LEVEL_021",
@@ -3527,7 +3532,7 @@
       "Name": "Happy Christmas night!",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "LEVEL_022",
@@ -3535,14 +3540,14 @@
       "Name": "Night walk along the beach",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 791,
+      "Progressed": 792,
       "Completed": 131
     }
   ],
@@ -3550,8 +3555,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-11-29T01:57:48.133158+00:00",
+  "LastChanged_Achievements": "2023-11-29T02:26:59.1005693+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:17.2540089+00:00",
-  "LastUpdate_Ratings": "2023-11-29T01:52:16.1849014+00:00",
-  "LastUpdate_Achievements": "2023-11-29T01:57:48.1331909+00:00"
+  "LastUpdate_Ratings": "2023-11-29T02:21:38.2060477+00:00",
+  "LastUpdate_Achievements": "2023-11-29T02:26:59.1006051+00:00"
 }

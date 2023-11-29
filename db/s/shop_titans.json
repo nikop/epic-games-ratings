@@ -7285,10 +7285,10 @@
       "Count": 3788
     }
   ],
-  "EOS_Progressed": 142758,
-  "EOS_Completed": 287,
-  "EOS_NewPlayers": 1867,
-  "EOS_NewCompleters": 96,
+  "EOS_Progressed": 142760,
+  "EOS_Completed": 288,
+  "EOS_NewPlayers": 1864,
+  "EOS_NewCompleters": 97,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -30300,6 +30300,11 @@
       "Time": "2023-11-29T01:56:37.8686068+00:00",
       "NumProgressed": 142758,
       "NumCompleted": 287
+    },
+    {
+      "Time": "2023-11-29T02:26:08.3662235+00:00",
+      "NumProgressed": 142760,
+      "NumCompleted": 288
     }
   ],
   "TotalAchievements": 112,
@@ -30479,7 +30484,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8565
+      "UsersEstimate": 8566
     },
     {
       "ID": "chest02",
@@ -30543,7 +30548,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8565
+      "UsersEstimate": 8566
     },
     {
       "ID": "commonres02",
@@ -31127,7 +31132,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8565
+      "UsersEstimate": 8566
     },
     {
       "ID": "twinenchant01",
@@ -31206,15 +31211,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 142758,
-      "Completed": 287
+      "Progressed": 142760,
+      "Completed": 288
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-28T17:02:56.0809909+00:00",
-  "LastChanged_Achievements": "2023-11-29T01:56:37.8686063+00:00",
+  "LastChanged_Achievements": "2023-11-29T02:26:08.3662231+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-11-29T01:55:15.5552984+00:00",
-  "LastUpdate_Achievements": "2023-11-29T01:56:37.8687918+00:00"
+  "LastUpdate_Ratings": "2023-11-29T02:25:11.8117652+00:00",
+  "LastUpdate_Achievements": "2023-11-29T02:26:08.3664325+00:00"
 }

@@ -3437,9 +3437,9 @@
       "Count": 48
     }
   ],
-  "EOS_Progressed": 419815,
+  "EOS_Progressed": 419816,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 1866,
+  "EOS_NewPlayers": 1861,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20182,6 +20182,11 @@
       "Time": "2023-11-29T01:56:54.3433666+00:00",
       "NumProgressed": 419815,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-11-29T02:26:20.2030983+00:00",
+      "NumProgressed": 419816,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 89,
@@ -20297,7 +20302,7 @@
       "Name": "Close call!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 125944
+      "UsersEstimate": 125945
     },
     {
       "ID": "AchievementCommonCause",
@@ -20321,7 +20326,7 @@
       "Name": "Dealmaker",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 306465
+      "UsersEstimate": 306466
     },
     {
       "ID": "AchievementDigitalAge_NAME",
@@ -20361,7 +20366,7 @@
       "Name": "Forgot something",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 146935
+      "UsersEstimate": 146936
     },
     {
       "ID": "AchievementForgotten",
@@ -20377,7 +20382,7 @@
       "Name": "Full garage",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 256087
+      "UsersEstimate": 256088
     },
     {
       "ID": "AchievementGemologist_NAME",
@@ -20417,7 +20422,7 @@
       "Name": "Individual delivery",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 197313
+      "UsersEstimate": 197314
     },
     {
       "ID": "AchievementIndustrialAge",
@@ -20473,7 +20478,7 @@
       "Name": "Juggler",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 151133
+      "UsersEstimate": 151134
     },
     {
       "ID": "AchievementJustInTime",
@@ -20513,7 +20518,7 @@
       "Name": "Mega-railroad",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 96557
+      "UsersEstimate": 96558
     },
     {
       "ID": "AchievementMetroBuilder",
@@ -20673,7 +20678,7 @@
       "Name": "Steam Age",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 67170
+      "UsersEstimate": 67171
     },
     {
       "ID": "AchievementTheHare",
@@ -20729,7 +20734,7 @@
       "Name": "Upgrade complete",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 96557
+      "UsersEstimate": 96558
     },
     {
       "ID": "AchievementUrbanizationAge",
@@ -20904,21 +20909,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 419156,
+      "Progressed": 419157,
       "Completed": 10
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 419815,
+      "Progressed": 419816,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-11-28T22:59:23.9893658+00:00",
-  "LastChanged_Achievements": "2023-11-29T01:56:54.3433662+00:00",
+  "LastChanged_Achievements": "2023-11-29T02:26:20.2030979+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:06.1864282+00:00",
-  "LastUpdate_Ratings": "2023-11-29T01:52:32.8719667+00:00",
-  "LastUpdate_Achievements": "2023-11-29T01:56:54.3435129+00:00"
+  "LastUpdate_Ratings": "2023-11-29T02:21:49.4615625+00:00",
+  "LastUpdate_Achievements": "2023-11-29T02:26:20.203248+00:00"
 }

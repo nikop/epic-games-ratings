@@ -1167,9 +1167,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 67693,
+  "EOS_Progressed": 67694,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 471,
+  "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10797,6 +10797,11 @@
       "Time": "2023-11-29T00:04:22.0202672+00:00",
       "NumProgressed": 67693,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-11-29T02:26:56.9105467+00:00",
+      "NumProgressed": 67694,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -10897,7 +10902,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5415
+      "UsersEstimate": 5416
     },
     {
       "ID": "6",
@@ -10936,7 +10941,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 67693,
+      "Progressed": 67694,
       "Completed": 38
     }
   ],
@@ -10944,8 +10949,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-28T06:57:26.2111087+00:00",
-  "LastChanged_Achievements": "2023-11-29T01:57:45.369381+00:00",
+  "LastChanged_Achievements": "2023-11-29T02:26:56.9105461+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:13.9511371+00:00",
-  "LastUpdate_Ratings": "2023-11-29T01:49:49.2281555+00:00",
-  "LastUpdate_Achievements": "2023-11-29T01:57:45.3694312+00:00"
+  "LastUpdate_Ratings": "2023-11-29T02:20:01.1863272+00:00",
+  "LastUpdate_Achievements": "2023-11-29T02:26:56.9106101+00:00"
 }

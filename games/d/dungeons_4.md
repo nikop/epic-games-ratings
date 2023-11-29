@@ -27,7 +27,7 @@
 | Pure Dynamite! | 41.00% | ~201 |
 | “… like son” | 39.00% | ~191 |
 | Mana Cannon | 37.00% | ~181 |
-| Dungeonlord Gorgu | 35.00% | ~172 |
+| Dungeonlord Gorgu | 36.00% | ~176 |
 | Shame! Shame! Shame! | 34.00% | ~167 |
 | The Cathedral of Light | 33.00% | ~162 |
 | Tanos' Crusade Against Thalya | 31.00% | ~152 |
