@@ -12,7 +12,7 @@
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 13 | [The Riflemen](games/t/the_riflemen.md) | 26.44% |
+| 13 | [The Riflemen](games/t/the_riflemen.md) | 26.43% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.16% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -96,7 +96,7 @@
 | 94 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.40% |
 | 95 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 96 | [Bunny Park](games/b/bunny_park.md) | 3.31% |
-| 97 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.20% |
+| 97 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.19% |
 | 98 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.17% |
 | 99 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
 | 100 | [Doodle God](games/d/doodle_god.md) | 3.11% |
@@ -125,7 +125,7 @@
 | 123 | [Bloodshore](games/b/bloodshore.md) | 2.29% |
 | 124 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.25% |
 | 125 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.22% |
-| 126 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.07% |
+| 126 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.06% |
 | 127 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.94% |
 | 128 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.92% |
 | 129 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.90% |
@@ -136,10 +136,10 @@
 | 133 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.78% |
 | 135 | [Five Dates](games/f/five_dates.md) | 1.75% |
 | 135 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 1.75% |
-| 137 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.68% |
+| 137 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.69% |
 | 138 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.65% |
 | 139 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.64% |
-| 140 | [Dungeons 4](games/d/dungeons_4.md) | 1.63% |
+| 140 | [Dungeons 4](games/d/dungeons_4.md) | 1.62% |
 | 141 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.57% |
 | 141 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
 | 143 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.54% |
@@ -204,8 +204,8 @@
 | 202 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.53% |
 | 203 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.52% |
 | 203 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.52% |
-| 205 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.51% |
-| 205 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.51% |
+| 203 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.52% |
+| 206 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.51% |
 | 207 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.49% |
 | 207 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.49% |
 | 209 | [Eternights](games/e/eternights.md) | 0.48% |

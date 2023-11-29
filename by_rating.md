@@ -31,19 +31,19 @@
 | 22 | [Rayman Origins](games/r/rayman_origins.md) | 4.87 | 36 | 471 |
 | 22 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 13,286 | 31 |
 | 22 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 22 | 537 |
-| 32 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 557 |
-| 32 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 139 | 325 |
-| 32 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 43 | 454 |
-| 32 | [Inscryption](games/i/inscryption.md) | 4.86 | 348 | 241 |
-| 32 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 13,292 | 30 |
-| 32 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 98 | 363 |
-| 32 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 160 | 313 |
-| 32 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,563 | 129 |
-| 32 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.86 | 0 | 557 |
-| 32 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 4.86 | 35 | 476 |
-| 32 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 545 | 206 |
-| 32 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.86 | 0 | 557 |
-| 32 | [WarmSnow](games/w/warmsnow.md) | 4.86 | 0 | 557 |
+| 22 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.87 | 545 | 206 |
+| 33 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 557 |
+| 33 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 139 | 325 |
+| 33 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 43 | 454 |
+| 33 | [Inscryption](games/i/inscryption.md) | 4.86 | 348 | 241 |
+| 33 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 13,292 | 30 |
+| 33 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 98 | 363 |
+| 33 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 160 | 313 |
+| 33 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,563 | 129 |
+| 33 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.86 | 0 | 557 |
+| 33 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 4.86 | 35 | 476 |
+| 33 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.86 | 0 | 557 |
+| 33 | [WarmSnow](games/w/warmsnow.md) | 4.86 | 0 | 557 |
 | 45 | [Blasphemous](games/b/blasphemous.md) | 4.85 | 159 | 314 |
 | 45 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 8,089 | 47 |
 | 45 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,643 | 68 |
@@ -70,7 +70,7 @@
 | 66 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.82 | 0 | 557 |
 | 66 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 557 |
 | 66 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 483 |
-| 66 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 902 | 160 |
+| 66 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 909 | 160 |
 | 66 | [Sifu](games/s/sifu.md) | 4.82 | 6,852 | 55 |
 | 66 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 428 | 226 |
 | 66 | [Superliminal](games/s/superliminal.md) | 4.82 | 0 | 557 |
@@ -91,20 +91,20 @@
 | 87 | [Huntdown](games/h/huntdown.md) | 4.80 | 0 | 557 |
 | 87 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 0 | 557 |
 | 87 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,527 | 102 |
+| 87 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 125 | 338 |
 | 87 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 322 | 250 |
 | 87 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.80 | 44 | 449 |
 | 87 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 103 | 356 |
 | 87 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 557 |
-| 96 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,581 | 127 |
-| 96 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 659 | 188 |
-| 96 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 167 | 309 |
-| 96 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 557 |
-| 96 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,160 | 142 |
-| 96 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 816 | 170 |
-| 96 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 6,123 | 62 |
-| 96 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 405 | 231 |
-| 96 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 125 | 338 |
-| 96 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 557 |
+| 97 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,581 | 127 |
+| 97 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 659 | 188 |
+| 97 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 167 | 309 |
+| 97 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 557 |
+| 97 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,160 | 142 |
+| 97 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 816 | 170 |
+| 97 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 6,123 | 62 |
+| 97 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 405 | 231 |
+| 97 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 557 |
 | 106 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.78 | 364 | 240 |
 | 106 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.78 | 53 | 426 |
 | 106 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 10,840 | 37 |
@@ -113,7 +113,7 @@
 | 111 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.77 | 37 | 467 |
 | 111 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 7,879 | 48 |
 | 111 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.77 | 0 | 557 |
-| 111 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 8,158 | 45 |
+| 111 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 8,172 | 45 |
 | 111 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.77 | 1,868 | 117 |
 | 111 | [Outlast](games/o/outlast.md) | 4.77 | 0 | 557 |
 | 111 | [Quake](games/q/quake.md) | 4.77 | 52 | 428 |
