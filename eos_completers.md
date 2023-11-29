@@ -11,7 +11,7 @@
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.24% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 11 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 12 | [The Riflemen](games/t/the_riflemen.md) | 26.21% |
+| 12 | [The Riflemen](games/t/the_riflemen.md) | 26.19% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.40% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 14 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -62,8 +62,8 @@
 | 60 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.09% |
 | 61 | [Time Loader](games/t/time_loader.md) | 7.03% |
 | 62 | [Scorn](games/s/scorn.md) | 6.95% |
-| 63 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.73% |
-| 64 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 6.67% |
+| 63 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 6.67% |
+| 63 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.67% |
 | 65 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.40% |
 | 66 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 66 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 6.25% |
@@ -72,7 +72,7 @@
 | 70 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
 | 71 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 71 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 73 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.48% |
+| 73 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.47% |
 | 74 | [JARS](games/j/jars.md) | 5.00% |
 | 75 | [Bugsnax](games/b/bugsnax.md) | 4.84% |
 | 76 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |
@@ -182,12 +182,12 @@
 | 180 | [Infindustry](games/i/infindustry.md) | 0.82% |
 | 181 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.81% |
 | 182 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
-| 183 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.79% |
+| 183 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.78% |
 | 184 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
 | 185 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.69% |
 | 185 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.69% |
 | 187 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.64% |
-| 187 | [Dead Space](games/d/dead_space.md) | 0.64% |
+| 188 | [Dead Space](games/d/dead_space.md) | 0.63% |
 | 189 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.62% |
 | 190 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.61% |
 | 191 | [Potion Permit](games/p/potion_permit.md) | 0.60% |
@@ -200,13 +200,13 @@
 | 195 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.58% |
 | 199 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 199 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.55% |
-| 201 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.53% |
-| 201 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
-| 203 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.52% |
-| 203 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.52% |
-| 203 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.52% |
-| 206 | [Tails of Iron](games/t/tails_of_iron.md) | 0.51% |
-| 206 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.51% |
+| 199 | [Tails of Iron](games/t/tails_of_iron.md) | 0.55% |
+| 202 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.53% |
+| 202 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
+| 204 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.52% |
+| 204 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.52% |
+| 204 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.52% |
+| 207 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.51% |
 | 208 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.49% |
 | 208 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.49% |
 | 210 | [Eternights](games/e/eternights.md) | 0.48% |
