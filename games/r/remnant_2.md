@@ -21,6 +21,7 @@ Rating: 4.75 (Ranked 148)
 | Blue Goddess | 0.30% | ~692 |
 | Duality | 0.30% | ~692 |
 | Boss'n Up | 0.30% | ~692 |
+| Almost There | 0.30% | ~692 |
 | Make Some Room | 0.30% | ~692 |
 | Good, But Could Be Better! | 0.30% | ~692 |
 | Trait Chaser | 0.30% | ~692 |
@@ -45,7 +46,6 @@ Rating: 4.75 (Ranked 148)
 | Scrap Hoarder | 0.20% | ~461 |
 | All These Traits� | 0.20% | ~461 |
 | The Ultimate Weapon | 0.20% | ~461 |
-| Almost There | 0.20% | ~461 |
 | No One Should Have All That Power | 0.20% | ~461 |
 | Transmutate | 0.20% | ~461 |
 | Succession | 0.20% | ~19 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | Maxed Out! | 0.10% | ~231 |
 | A Foul Feast | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,510 (Ranked 69)  
+Progressed: 230,548 (Ranked 69)  
 Completed: 542 (0.24%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,21 +197,21 @@ Completed: 542 (0.24%) (Ranked 249)
 | 2023-11-26 | 229,012 | 534 |
 | 2023-11-27 | 229,605 | 538 |
 | 2023-11-28 | 230,188 | 541 |
-| 2023-11-29 | 230,510 | 542 |
+| 2023-11-29 | 230,548 | 542 |
 ## Awards
 Max (Great Boss Battles): 2,518  (Ranked 104)  
-Sum: 6,136 (Ranked 129)  
+Sum: 6,146 (Ranked 129)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,518 |
-| This game has Diverse Characters | 403 |
+| This game has Diverse Characters | 409 |
 | This game is Highly Recommended | 391 |
 | This game has Challenging Combat | 389 |
 | This game is Extremely Fun | 380 |
 | This game is Relaxing | 378 |
 | This game has Amazing Storytelling | 373 |
-| This game has Quickly Understood Controls | 359 |
+| This game has Quickly Understood Controls | 363 |
 | This game has Amazing Characters | 352 |
 | This game has Unique Visuals | 309 |
 | This game has a Creative Community | 284 |
@@ -344,4 +344,4 @@ Diff (max vs sum): -25
 | 2023-11-26 | 4.75 | 2,455 | 5,967 |
 | 2023-11-27 | 4.75 | 2,480 | 6,045 |
 | 2023-11-28 | 4.75 | 2,498 | 6,104 |
-| 2023-11-29 | 4.75 | 2,518 | 6,136 |
+| 2023-11-29 | 4.75 | 2,518 | 6,146 |

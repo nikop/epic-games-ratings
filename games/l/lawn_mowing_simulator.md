@@ -1,19 +1,19 @@
 # Lawn Mowing Simulator
 [Store](https://store.epicgames.com/en-US/p/lawn-mowing-simulator-838bf3)  
 [View Rawdata](../../db/l/lawn_mowing_simulator.json)  
-Rating: 4.07 (Ranked 978)  
+Rating: 4.07 (Ranked 979)  
 Number of Ratings: 5,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 79.00% | ~540,673 |
-| Every story has a beginning | 36.00% | ~246,383 |
-| The first of many | 31.00% | ~212,163 |
-| Positive word of mouth | 18.00% | ~123,191 |
-| Lawn in the U.S.A. | 15.00% | ~102,659 |
-| Blade Runner | 9.00% | ~61,596 |
-| Credible | 7.00% | ~47,908 |
-| Teamwork makes the dream work | 6.00% | ~41,064 |
+| The dream begins | 79.00% | ~540,684 |
+| Every story has a beginning | 36.00% | ~246,388 |
+| The first of many | 31.00% | ~212,167 |
+| Positive word of mouth | 18.00% | ~123,194 |
+| Lawn in the U.S.A. | 15.00% | ~102,662 |
+| Blade Runner | 9.00% | ~61,597 |
+| Credible | 7.00% | ~47,909 |
+| Teamwork makes the dream work | 6.00% | ~41,065 |
 | Where there's muck there's brass | 4.00% | ~27,376 |
 | Bigger and better | 4.00% | ~27,376 |
 | Aggressive expansion | 4.00% | ~27,376 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~684 |
 | Mo mowers, mo problems | 0.10% | ~684 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 684,396 (Ranked 27)  
+Progressed: 684,410 (Ranked 27)  
 Completed: 18 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 18 (0.00%) (Ranked 363)
 | 2023-11-26 | 683,871 | 18 |
 | 2023-11-27 | 684,102 | 18 |
 | 2023-11-28 | 684,282 | 18 |
-| 2023-11-29 | 684,396 | 18 |
+| 2023-11-29 | 684,410 | 18 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 300)  
 Sum: 989 (Ranked 263)  

@@ -26,45 +26,45 @@ Number of Ratings: 12,664  (23.09.2022)
 | One-Armed Bandit | 3.00% | ~4,285 |
 | Dungeon Imports | 3.00% | ~4,285 |
 | Through Repetition, Perfection | 3.00% | ~4,285 |
-| On the Path to Greatness | 2.00% | ~2,856 |
-| A Notch Above the Rest | 2.00% | ~2,856 |
-| Ascended | 2.00% | ~2,856 |
-| Tax not Included | 2.00% | ~2,856 |
-| The King's Caprice | 2.00% | ~2,856 |
-| Research & Development | 2.00% | ~2,856 |
-| Vanity, Verily | 2.00% | ~2,856 |
-| Big Game Hunting | 2.00% | ~2,856 |
-| Fated Encounters | 2.00% | ~2,856 |
-| For the Hoard! | 2.00% | ~2,856 |
-| Blank Page Syndrome | 2.00% | ~2,856 |
-| Scrapbooker | 2.00% | ~2,856 |
-| Demand for Supplies | 2.00% | ~2,856 |
-| Locally Sourced | 2.00% | ~2,856 |
-| Flying off the Shelves | 2.00% | ~2,856 |
-| This Power Level...! | 2.00% | ~2,856 |
-| Hidden Potential | 2.00% | ~2,856 |
-| Power of Love | 2.00% | ~2,856 |
-| Expansion in Session | 2.00% | ~2,856 |
-| Efficient Floor Space | 2.00% | ~2,856 |
-| Cranked up to 11 | 2.00% | ~2,856 |
-| Flawless Fusion | 2.00% | ~2,856 |
-| Trash to Treasure | 2.00% | ~2,856 |
-| Gem Expert | 2.00% | ~2,856 |
-| Gild-Gotten Goods | 2.00% | ~2,856 |
-| Royal Ransom | 2.00% | ~2,856 |
-| Mammonite | 2.00% | ~2,856 |
-| Helping Hand | 2.00% | ~2,856 |
-| Fat Cat Tag Team | 2.00% | ~2,856 |
-| Accomplished Merchant | 2.00% | ~2,856 |
-| Laden with Loot | 2.00% | ~2,856 |
-| Natural 20 | 2.00% | ~2,856 |
-| Seasoned Journeyman | 2.00% | ~2,856 |
-| Did we pack lunch? | 2.00% | ~2,856 |
-| Black Friday Special | 2.00% | ~2,856 |
-| Magical Harmony | 2.00% | ~2,856 |
-| Special Ingredient | 2.00% | ~2,856 |
-| Arcane Industries | 2.00% | ~2,856 |
-| Complete Monopoly | 2.00% | ~2,856 |
+| On the Path to Greatness | 2.00% | ~2,857 |
+| A Notch Above the Rest | 2.00% | ~2,857 |
+| Ascended | 2.00% | ~2,857 |
+| Tax not Included | 2.00% | ~2,857 |
+| The King's Caprice | 2.00% | ~2,857 |
+| Research & Development | 2.00% | ~2,857 |
+| Vanity, Verily | 2.00% | ~2,857 |
+| Big Game Hunting | 2.00% | ~2,857 |
+| Fated Encounters | 2.00% | ~2,857 |
+| For the Hoard! | 2.00% | ~2,857 |
+| Blank Page Syndrome | 2.00% | ~2,857 |
+| Scrapbooker | 2.00% | ~2,857 |
+| Demand for Supplies | 2.00% | ~2,857 |
+| Locally Sourced | 2.00% | ~2,857 |
+| Flying off the Shelves | 2.00% | ~2,857 |
+| This Power Level...! | 2.00% | ~2,857 |
+| Hidden Potential | 2.00% | ~2,857 |
+| Power of Love | 2.00% | ~2,857 |
+| Expansion in Session | 2.00% | ~2,857 |
+| Efficient Floor Space | 2.00% | ~2,857 |
+| Cranked up to 11 | 2.00% | ~2,857 |
+| Flawless Fusion | 2.00% | ~2,857 |
+| Trash to Treasure | 2.00% | ~2,857 |
+| Gem Expert | 2.00% | ~2,857 |
+| Gild-Gotten Goods | 2.00% | ~2,857 |
+| Royal Ransom | 2.00% | ~2,857 |
+| Mammonite | 2.00% | ~2,857 |
+| Helping Hand | 2.00% | ~2,857 |
+| Fat Cat Tag Team | 2.00% | ~2,857 |
+| Accomplished Merchant | 2.00% | ~2,857 |
+| Laden with Loot | 2.00% | ~2,857 |
+| Natural 20 | 2.00% | ~2,857 |
+| Seasoned Journeyman | 2.00% | ~2,857 |
+| Did we pack lunch? | 2.00% | ~2,857 |
+| Black Friday Special | 2.00% | ~2,857 |
+| Magical Harmony | 2.00% | ~2,857 |
+| Special Ingredient | 2.00% | ~2,857 |
+| Arcane Industries | 2.00% | ~2,857 |
+| Complete Monopoly | 2.00% | ~2,857 |
 | Cream of the Crop | 1.00% | ~1,428 |
 | Top of the World | 1.00% | ~1,428 |
 | Proud Paladin | 1.00% | ~1,428 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~428 |
 | Capitalist Camaraderie | 0.20% | ~286 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,825 (Ranked 80)  
+Progressed: 142,831 (Ranked 80)  
 Completed: 289 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 289 (0.20%) (Ranked 258)
 | 2023-11-26 | 142,346 | 274 |
 | 2023-11-27 | 142,546 | 278 |
 | 2023-11-28 | 142,735 | 284 |
-| 2023-11-29 | 142,825 | 289 |
+| 2023-11-29 | 142,831 | 289 |
 ## Awards
 Max (Great for Beginners): 4,855  (Ranked 75)  
 Sum: 27,625 (Ranked 50)  

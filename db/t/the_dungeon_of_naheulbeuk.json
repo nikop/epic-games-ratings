@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1419,7 +1419,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 240316,
+  "EOS_Progressed": 240322,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1461,
   "EOS_NewCompleters": 0,
@@ -20409,6 +20409,11 @@
       "Time": "2023-11-29T15:08:55.5082432+00:00",
       "NumProgressed": 240316,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-29T16:10:12.4565953+00:00",
+      "NumProgressed": 240322,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -20420,7 +20425,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7209
+      "UsersEstimate": 7210
     },
     {
       "ID": "100Fail",
@@ -20452,7 +20457,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7209
+      "UsersEstimate": 7210
     },
     {
       "ID": "BookCollection",
@@ -20468,7 +20473,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16822
+      "UsersEstimate": 16823
     },
     {
       "ID": "Chapter2",
@@ -20484,7 +20489,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7209
+      "UsersEstimate": 7210
     },
     {
       "ID": "Chapter4",
@@ -20820,7 +20825,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19225
+      "UsersEstimate": 19226
     },
     {
       "ID": "DwarfElf15Support",
@@ -20868,7 +20873,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 84111
+      "UsersEstimate": 84113
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -20916,7 +20921,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 21628
+      "UsersEstimate": 21629
     },
     {
       "ID": "FollowBraztok",
@@ -21123,21 +21128,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 240316,
+      "Progressed": 240322,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 240316,
+      "Progressed": 240322,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-28T10:58:38.4570753+00:00",
-  "LastChanged_Achievements": "2023-11-29T15:08:55.5082427+00:00",
+  "LastChanged_Achievements": "2023-11-29T16:10:12.4565949+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:00.6949957+00:00",
-  "LastUpdate_Ratings": "2023-11-29T14:59:11.9978178+00:00",
-  "LastUpdate_Achievements": "2023-11-29T15:08:55.5084534+00:00"
+  "LastUpdate_Ratings": "2023-11-29T16:00:55.7065376+00:00",
+  "LastUpdate_Achievements": "2023-11-29T16:10:12.4567478+00:00"
 }

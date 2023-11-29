@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 526)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,595 |
+| Whatever It Takes | 3.00% | ~1,596 |
 | Break A Leg | 2.00% | ~14,553 |
 | Coup de Grâce | 2.00% | ~14,553 |
 | Hazardous Materials | 2.00% | ~14,553 |
@@ -14,30 +14,30 @@ Rating: 4.54 (Ranked 526)
 | Welcome To Hell-A | 2.00% | ~14,553 |
 | One of Us | 2.00% | ~1,064 |
 | Pork Chopped | 2.00% | ~1,064 |
-| Dr. Reed, I Presume? | 1.00% | ~7,276 |
-| Git Gutte! | 1.00% | ~7,276 |
-| Anger Management | 1.00% | ~7,276 |
-| Perks of the Job | 1.00% | ~7,276 |
-| Bookworm | 1.00% | ~7,276 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,276 |
-| But Doctor, I am Butcho | 1.00% | ~7,276 |
-| Slayer Squad | 1.00% | ~7,276 |
-| Can't Handle the Truth | 1.00% | ~7,276 |
-| Like Riding a Bike | 1.00% | ~7,276 |
-| Friends Like These | 1.00% | ~7,276 |
-| Apex Predator | 1.00% | ~7,276 |
-| Zombologist | 1.00% | ~7,276 |
-| Ooh, Shiny! | 1.00% | ~7,276 |
-| A Patton Emerges | 1.00% | ~7,276 |
-| Stacking the Deck | 1.00% | ~7,276 |
-| Our True Nature | 1.00% | ~7,276 |
-| This is My Weapon | 1.00% | ~7,276 |
+| Dr. Reed, I Presume? | 1.00% | ~7,277 |
+| Git Gutte! | 1.00% | ~7,277 |
+| Anger Management | 1.00% | ~7,277 |
+| Perks of the Job | 1.00% | ~7,277 |
+| Bookworm | 1.00% | ~7,277 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,277 |
+| But Doctor, I am Butcho | 1.00% | ~7,277 |
+| Slayer Squad | 1.00% | ~7,277 |
+| Can't Handle the Truth | 1.00% | ~7,277 |
+| Like Riding a Bike | 1.00% | ~7,277 |
+| Friends Like These | 1.00% | ~7,277 |
+| Apex Predator | 1.00% | ~7,277 |
+| Zombologist | 1.00% | ~7,277 |
+| Ooh, Shiny! | 1.00% | ~7,277 |
+| A Patton Emerges | 1.00% | ~7,277 |
+| Stacking the Deck | 1.00% | ~7,277 |
+| Our True Nature | 1.00% | ~7,277 |
+| This is My Weapon | 1.00% | ~7,277 |
 | Making Your Mark | 0.90% | ~6,549 |
 | I Am the Resurrection | 0.90% | ~6,549 |
 | Humanity Distilled | 0.80% | ~5,821 |
 | Max Headroom | 0.80% | ~5,821 |
-| Not Even My Final Form | 0.70% | ~5,093 |
-| Down with the Sickness | 0.70% | ~5,093 |
+| Not Even My Final Form | 0.70% | ~5,094 |
+| Down with the Sickness | 0.70% | ~5,094 |
 | Jumbo Keyring | 0.60% | ~4,366 |
 | Go, Bobcats! | 0.60% | ~4,366 |
 | Rising Star | 0.60% | ~4,366 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 526)
 | Bucket List | 0.10% | ~728 |
 | Wilhelm | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 727,637 (Ranked 21)  
+Progressed: 727,657 (Ranked 21)  
 Completed: 2,449 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,10 +280,10 @@ Completed: 2,449 (0.34%) (Ranked 231)
 | 2023-11-26 | 726,037 | 2,441 |
 | 2023-11-27 | 726,753 | 2,443 |
 | 2023-11-28 | 727,374 | 2,447 |
-| 2023-11-29 | 727,637 | 2,449 |
+| 2023-11-29 | 727,657 | 2,449 |
 ## Awards
 Max (Great Boss Battles): 7,803  (Ranked 49)  
-Sum: 11,942 (Ranked 84)  
+Sum: 11,944 (Ranked 84)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
@@ -292,7 +292,7 @@ Diff (max vs sum): -35
 | This game has Diverse Characters | 570 |
 | This game has Quickly Understood Controls | 539 |
 | This game is Relaxing | 515 |
-| This game has Amazing Storytelling | 500 |
+| This game has Amazing Storytelling | 502 |
 | This game is Highly Recommended | 485 |
 | This game is Extremely Fun | 483 |
 | This game has Amazing Characters | 446 |
@@ -521,4 +521,4 @@ Diff (max vs sum): -35
 | 2023-11-26 | 4.54 | 7,731 | 11,835 |
 | 2023-11-27 | 4.54 | 7,760 | 11,883 |
 | 2023-11-28 | 4.54 | 7,784 | 11,921 |
-| 2023-11-29 | 4.54 | 7,803 | 11,942 |
+| 2023-11-29 | 4.54 | 7,803 | 11,944 |

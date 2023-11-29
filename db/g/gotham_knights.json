@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4427,9 +4427,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77423,
+  "EOS_Progressed": 77424,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 589,
+  "EOS_NewPlayers": 584,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24417,6 +24417,11 @@
       "Time": "2023-11-29T15:04:12.2171175+00:00",
       "NumProgressed": 77423,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-11-29T16:05:51.8058248+00:00",
+      "NumProgressed": 77424,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -24516,7 +24521,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11613
+      "UsersEstimate": 11614
     },
     {
       "ID": "CHALLENGES_1",
@@ -24652,7 +24657,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21678
+      "UsersEstimate": 21679
     },
     {
       "ID": "FREEZE_1_5",
@@ -24668,7 +24673,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14710
+      "UsersEstimate": 14711
     },
     {
       "ID": "FREEZE_3",
@@ -24860,7 +24865,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11613
+      "UsersEstimate": 11614
     },
     {
       "ID": "MYSTERY_07",
@@ -24915,13 +24920,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77423,
+      "Progressed": 77424,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47703,
+      "Progressed": 47704,
       "Completed": 2675
     }
   ],
@@ -24929,8 +24934,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-29T02:20:45.7879739+00:00",
-  "LastChanged_Achievements": "2023-11-29T15:04:12.217117+00:00",
+  "LastChanged_Achievements": "2023-11-29T16:05:51.8058241+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:48.4544768+00:00",
-  "LastUpdate_Ratings": "2023-11-29T14:58:44.2672306+00:00",
-  "LastUpdate_Achievements": "2023-11-29T15:04:12.217292+00:00"
+  "LastUpdate_Ratings": "2023-11-29T16:00:14.3021017+00:00",
+  "LastUpdate_Achievements": "2023-11-29T16:05:51.8060201+00:00"
 }

@@ -24,10 +24,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4497,
+  "EOS_Progressed": 4498,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 602,
-  "EOS_NewCompleters": 12,
+  "EOS_NewPlayers": 592,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
     {
@@ -3379,6 +3379,11 @@
       "Time": "2023-11-29T15:06:18.6156075+00:00",
       "NumProgressed": 4497,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-11-29T16:08:51.998707+00:00",
+      "NumProgressed": 4498,
+      "NumCompleted": 45
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -3391,7 +3396,7 @@
       "Name": "Finish The Hidden Room",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_HIDDENROOM",
@@ -3399,7 +3404,7 @@
       "Name": "Unlock the secret room",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_MASK",
@@ -3439,7 +3444,7 @@
       "Name": "Turn on the TV",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 2518
+      "UsersEstimate": 2519
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -3518,14 +3523,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 4497,
+      "Progressed": 4498,
       "Completed": 45
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-11-29T15:06:18.6156065+00:00",
+  "LastChanged_Achievements": "2023-11-29T16:08:51.9987065+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:09.231679+00:00",
-  "LastUpdate_Ratings": "2023-11-29T14:59:37.7980021+00:00",
-  "LastUpdate_Achievements": "2023-11-29T15:06:18.6156444+00:00"
+  "LastUpdate_Ratings": "2023-11-29T16:01:34.5048441+00:00",
+  "LastUpdate_Achievements": "2023-11-29T16:08:51.9987397+00:00"
 }

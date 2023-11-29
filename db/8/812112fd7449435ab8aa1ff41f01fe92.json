@@ -2,10 +2,10 @@
   "ID": "812112fd7449435ab8aa1ff41f01fe92",
   "Name": "Jump Challenge!",
   "ProductSlug": "jump-challenge-228ff0",
-  "Ranking_EOS_Progress": 546,
+  "Ranking_EOS_Progress": 547,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-23T18:00:00+00:00",
     "PcReleaseDate": "2022-03-19T04:00:00+00:00",
@@ -201,9 +201,9 @@
       "ID": "DEATH_LIGHTNING",
       "SetID": "5629o35",
       "Name": "Storm Chaser",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FIRST_DEATH",
@@ -225,9 +225,9 @@
       "ID": "REACH_SKY",
       "SetID": "5629o35",
       "Name": "Sky is not the limit",
-      "Percentage": 4,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "REACH_SPACE",
@@ -257,9 +257,9 @@
       "ID": "SCORE_600",
       "SetID": "5629o35",
       "Name": "S Tier Jumper",
-      "Percentage": 4,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "STARS_100",
@@ -287,8 +287,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-13T15:03:01.800397+00:00",
-  "LastChanged_Achievements": "2023-11-29T15:05:39.4043965+00:00",
+  "LastChanged_Achievements": "2023-11-29T16:07:56.9430643+00:00",
   "LastUpdate_AppInfo": "2023-11-27T15:57:06.2327335+00:00",
-  "LastUpdate_Ratings": "2023-11-29T14:58:13.078827+00:00",
-  "LastUpdate_Achievements": "2023-11-29T15:05:39.4044146+00:00"
+  "LastUpdate_Ratings": "2023-11-29T15:59:27.8372673+00:00",
+  "LastUpdate_Achievements": "2023-11-29T16:07:56.9430761+00:00"
 }

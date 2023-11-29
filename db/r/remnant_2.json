@@ -4849,10 +4849,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6136,
       "NumberOfAwardsMax": 2518
+    },
+    {
+      "Time": "2023-11-29T16:04:04.1303568+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6146,
+      "NumberOfAwardsMax": 2518
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6136,
+  "NumberOfAwards": 6146,
   "NumberOfAwardsMax": 2518,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4884,13 +4890,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 403
+      "Count": 409
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 359
+      "Count": 363
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4923,9 +4929,9 @@
       "Count": 378
     }
   ],
-  "EOS_Progressed": 230510,
+  "EOS_Progressed": 230548,
   "EOS_Completed": 542,
-  "EOS_NewPlayers": 4827,
+  "EOS_NewPlayers": 4823,
   "EOS_NewCompleters": 40,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -20518,6 +20524,11 @@
       "Time": "2023-11-29T15:08:45.3199851+00:00",
       "NumProgressed": 230510,
       "NumCompleted": 542
+    },
+    {
+      "Time": "2023-11-29T16:09:58.2944665+00:00",
+      "NumProgressed": 230548,
+      "NumCompleted": 542
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20872,9 +20883,9 @@
       "ID": "Upgrade_Boss_Weapon_B",
       "SetID": "bkp3b1a",
       "Name": "Almost There",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 692
     },
     {
       "ID": "Upgrade_Relic",
@@ -20969,22 +20980,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 230510,
+      "Progressed": 230548,
       "Completed": 542
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 9675,
+      "Progressed": 9713,
       "Completed": 167
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-29T14:03:19.1388537+00:00",
-  "LastChanged_Achievements": "2023-11-29T15:08:45.3199848+00:00",
+  "LastChanged": "2023-11-29T16:04:04.1303566+00:00",
+  "LastChanged_Achievements": "2023-11-29T16:09:58.2944658+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-29T15:02:59.6744811+00:00",
-  "LastUpdate_Achievements": "2023-11-29T15:08:45.3200901+00:00"
+  "LastUpdate_Ratings": "2023-11-29T16:04:04.1303574+00:00",
+  "LastUpdate_Achievements": "2023-11-29T16:09:58.2945959+00:00"
 }

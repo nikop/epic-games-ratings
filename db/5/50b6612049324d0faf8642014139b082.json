@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -61,9 +61,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 670,
+  "EOS_Progressed": 672,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 345,
+  "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1501,6 +1501,11 @@
       "Time": "2023-11-29T15:09:27.0761185+00:00",
       "NumProgressed": 670,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T16:10:57.2418174+00:00",
+      "NumProgressed": 672,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1569,15 +1574,15 @@
       "Name": "Class Act",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_17",
       "SetID": "jnappp",
       "Name": "Your first time?",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 335
+      "UsersEstimate": 343
     },
     {
       "ID": "achievement_18",
@@ -1601,7 +1606,7 @@
       "Name": "Team Principal",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 509
+      "UsersEstimate": 511
     },
     {
       "ID": "achievement_20",
@@ -1697,7 +1702,7 @@
       "Name": "NEW PB!",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "achievement_8",
@@ -1720,7 +1725,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 670,
+      "Progressed": 672,
       "Completed": 0
     }
   ],
@@ -1728,8 +1733,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-11-29T12:00:09.1025016+00:00",
-  "LastChanged_Achievements": "2023-11-29T15:09:27.0761183+00:00",
+  "LastChanged_Achievements": "2023-11-29T16:10:57.2418171+00:00",
   "LastUpdate_AppInfo": "2023-11-28T21:56:52.2952246+00:00",
-  "LastUpdate_Ratings": "2023-11-29T15:00:00.0715405+00:00",
-  "LastUpdate_Achievements": "2023-11-29T15:09:27.0761407+00:00"
+  "LastUpdate_Ratings": "2023-11-29T16:02:07.4435364+00:00",
+  "LastUpdate_Achievements": "2023-11-29T16:10:57.2418506+00:00"
 }

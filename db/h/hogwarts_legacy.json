@@ -11217,9 +11217,9 @@
       "Count": 821
     }
   ],
-  "EOS_Progressed": 303568,
+  "EOS_Progressed": 303570,
   "EOS_Completed": 519,
-  "EOS_NewPlayers": 936,
+  "EOS_NewPlayers": 929,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -35257,6 +35257,11 @@
       "Time": "2023-11-29T15:09:30.2637683+00:00",
       "NumProgressed": 303568,
       "NumCompleted": 519
+    },
+    {
+      "Time": "2023-11-29T16:11:02.6912356+00:00",
+      "NumProgressed": 303570,
+      "NumCompleted": 519
     }
   ],
   "TotalAchievements": 45,
@@ -35276,7 +35281,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33392
+      "UsersEstimate": 33393
     },
     {
       "ID": "PFA_11",
@@ -35284,7 +35289,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33392
+      "UsersEstimate": 33393
     },
     {
       "ID": "PFA_12",
@@ -35292,7 +35297,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33392
+      "UsersEstimate": 33393
     },
     {
       "ID": "PFA_13",
@@ -35300,7 +35305,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 33392
+      "UsersEstimate": 33393
     },
     {
       "ID": "PFA_14",
@@ -35316,7 +35321,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24285
+      "UsersEstimate": 24286
     },
     {
       "ID": "PFA_16",
@@ -35332,7 +35337,7 @@
       "Name": "Beast Friends",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24285
+      "UsersEstimate": 24286
     },
     {
       "ID": "PFA_18",
@@ -35348,7 +35353,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 24285
+      "UsersEstimate": 24286
     },
     {
       "ID": "PFA_2",
@@ -35372,7 +35377,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33392
+      "UsersEstimate": 33393
     },
     {
       "ID": "PFA_22",
@@ -35524,7 +35529,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33392
+      "UsersEstimate": 33393
     },
     {
       "ID": "PFA_4",
@@ -35596,7 +35601,7 @@
       "Name": "First Class Student",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45535
+      "UsersEstimate": 45536
     },
     {
       "ID": "PFA_7",
@@ -35627,7 +35632,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303568,
+      "Progressed": 303570,
       "Completed": 519
     }
   ],
@@ -35635,8 +35640,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-29T11:03:30.0730771+00:00",
-  "LastChanged_Achievements": "2023-11-29T15:09:30.2637679+00:00",
+  "LastChanged_Achievements": "2023-11-29T16:11:02.6912353+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7292094+00:00",
-  "LastUpdate_Ratings": "2023-11-29T15:02:34.2027319+00:00",
-  "LastUpdate_Achievements": "2023-11-29T15:09:30.2639245+00:00"
+  "LastUpdate_Ratings": "2023-11-29T16:03:26.3300309+00:00",
+  "LastUpdate_Achievements": "2023-11-29T16:11:02.6914415+00:00"
 }

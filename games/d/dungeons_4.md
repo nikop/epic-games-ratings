@@ -24,10 +24,10 @@
 | YOU SHALL NOT PASS! | 46.00% | ~229 |
 | Hard Work | 46.00% | ~229 |
 | The Big Eaty | 44.00% | ~219 |
-| Pure Dynamite! | 41.00% | ~204 |
+| Pure Dynamite! | 42.00% | ~209 |
 | “… like son” | 39.00% | ~194 |
 | Mana Cannon | 37.00% | ~184 |
-| Dungeonlord Gorgu | 35.00% | ~174 |
+| Dungeonlord Gorgu | 36.00% | ~179 |
 | The Cathedral of Light | 34.00% | ~169 |
 | Shame! Shame! Shame! | 34.00% | ~169 |
 | Tanos' Crusade Against Thalya | 31.00% | ~154 |
@@ -40,7 +40,7 @@
 | Forbidden Knowledge | 21.00% | ~104 |
 | If Looks Could Kill | 21.00% | ~104 |
 | Ghost Pirates? Ghost Heroes! | 20.00% | ~99 |
-| The Finitude Drill | 18.00% | ~89 |
+| The Finitude Drill | 19.00% | ~94 |
 | Stop Tanos! | 17.00% | ~84 |
 | Doom Hill | 16.00% | ~80 |
 | Sacrificial Pit = Garbage Disposal? | 15.00% | ~75 |
@@ -53,8 +53,8 @@
 | Lavalumps on Ice! | 12.00% | ~60 |
 | The Rune Sockets of Finitude (Part 2) | 12.00% | ~60 |
 | Rubble and Ashes | 11.00% | ~55 |
+| The Last Stand - This Time For Real! | 11.00% | ~55 |
 | To Infinity And Beyond! | 10.00% | ~50 |
-| The Last Stand - This Time For Real! | 10.00% | ~50 |
 | Untouchable | 9.00% | ~45 |
 | To the Max! | 9.00% | ~45 |
 | Mirror, Mirror | 8.00% | ~40 |

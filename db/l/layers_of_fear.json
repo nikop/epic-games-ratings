@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -822,9 +822,9 @@
       "ID": "sign_of_weakness",
       "SetID": "f2im8d",
       "Name": "Sign of weakness",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "something_important",
@@ -917,8 +917,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-11-29T15:05:21.5967117+00:00",
+  "LastChanged_Achievements": "2023-11-29T16:07:31.3131682+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:59.9446154+00:00",
-  "LastUpdate_Ratings": "2023-11-29T14:58:34.7064465+00:00",
-  "LastUpdate_Achievements": "2023-11-29T15:05:21.596763+00:00"
+  "LastUpdate_Ratings": "2023-11-29T16:00:00.559344+00:00",
+  "LastUpdate_Achievements": "2023-11-29T16:07:31.3132204+00:00"
 }

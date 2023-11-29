@@ -12,6 +12,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Getting A Glimpse | 0.50% | ~1,202 |
 | A Quick Escape | 0.50% | ~1,202 |
 | Uncharted Territory | 0.50% | ~1,202 |
+| Ambitious Intent | 0.40% | ~962 |
 | Nothing To Lose | 0.40% | ~962 |
 | Heavy Hitter | 0.40% | ~962 |
 | Delving Deeper | 0.40% | ~962 |
@@ -32,7 +33,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | An Offering | 0.40% | ~962 |
 | Expensive Look | 0.40% | ~7 |
 | What Doesn't Kill You | 0.40% | ~7 |
-| Ambitious Intent | 0.30% | ~721 |
 | Consecutive Curses | 0.30% | ~721 |
 | Dig Your Own Grave | 0.30% | ~721 |
 | Who To Trust? | 0.30% | ~721 |
@@ -47,6 +47,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stone Touch | 0.30% | ~721 |
 | Doing Time | 0.30% | ~721 |
 | Toxic | 0.30% | ~721 |
+| Acid Bath | 0.30% | ~721 |
 | New Perspectives | 0.30% | ~721 |
 | Shadow Walker | 0.30% | ~721 |
 | Flesh Wound | 0.30% | ~721 |
@@ -64,7 +65,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Illuminate, Eliminate | 0.20% | ~481 |
 | Chain Reaction | 0.20% | ~481 |
 | Spreading Plague | 0.20% | ~481 |
-| Acid Bath | 0.20% | ~481 |
 | Antivenom | 0.20% | ~481 |
 | Decisions, Decisions | 0.20% | ~481 |
 | Snake Sneak | 0.20% | ~481 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,384 (Ranked 62)  
+Progressed: 240,387 (Ranked 62)  
 Completed: 291 (0.12%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -368,7 +368,7 @@ Completed: 291 (0.12%) (Ranked 280)
 | 2023-11-26 | 240,273 | 291 |
 | 2023-11-27 | 240,313 | 291 |
 | 2023-11-28 | 240,354 | 291 |
-| 2023-11-29 | 240,384 | 291 |
+| 2023-11-29 | 240,387 | 291 |
 ## Awards
 Max (Great for Beginners): 1,534  (Ranked 132)  
 Sum: 13,234 (Ranked 78)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -112,7 +112,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 746,
+  "EOS_Progressed": 747,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
@@ -837,6 +837,11 @@
       "Time": "2023-11-29T09:06:32.2249346+00:00",
       "NumProgressed": 746,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T16:08:43.1757639+00:00",
+      "NumProgressed": 747,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -872,7 +877,7 @@
       "Name": "Big Spender",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "Clarity_of_Mind",
@@ -888,7 +893,7 @@
       "Name": "Club Star",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "Combine",
@@ -936,7 +941,7 @@
       "Name": "I just love stuff!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "I_think_its_broke",
@@ -960,7 +965,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "Lady_Luck",
@@ -998,9 +1003,9 @@
       "ID": "So_Fresh",
       "SetID": "gl7plp",
       "Name": "So Fresh and So clean clean",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 52
     },
     {
       "ID": "Supreme_Bartender_Ann",
@@ -1072,7 +1077,7 @@
       "Name": "The truth is out there",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "This_cant_be_right",
@@ -1135,7 +1140,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 746,
+      "Progressed": 747,
       "Completed": 0
     }
   ],
@@ -1143,8 +1148,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-11-29T15:06:12.1614032+00:00",
+  "LastChanged_Achievements": "2023-11-29T16:08:43.1757634+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:12.8827125+00:00",
-  "LastUpdate_Ratings": "2023-11-29T14:57:34.1432858+00:00",
-  "LastUpdate_Achievements": "2023-11-29T15:06:12.1614317+00:00"
+  "LastUpdate_Ratings": "2023-11-29T15:58:29.4226344+00:00",
+  "LastUpdate_Achievements": "2023-11-29T16:08:43.1757947+00:00"
 }

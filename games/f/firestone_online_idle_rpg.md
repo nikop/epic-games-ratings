@@ -5,15 +5,15 @@ Rating: 4.04 (Ranked 990)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,611 |
-| World Map | 78.00% | ~2,190 |
+| Victor | 93.00% | ~2,612 |
+| World Map | 78.00% | ~2,191 |
 | Temple of Eternals | 57.00% | ~1,601 |
-| Prestigious | 53.00% | ~1,488 |
-| Fellowship Power | 42.00% | ~1,179 |
+| Prestigious | 53.00% | ~1,489 |
+| Fellowship Power | 42.00% | ~1,180 |
 | Guild Power | 24.00% | ~674 |
 | Prestigious x10 | 21.00% | ~590 |
 | The game is on | 19.00% | ~534 |
-| Exotic Merchant | 17.00% | ~477 |
+| Exotic Merchant | 17.00% | ~478 |
 | Dragon Clicker | 16.00% | ~449 |
 | Miner Clicker | 16.00% | ~449 |
 | Full Party | 15.00% | ~421 |
@@ -46,13 +46,13 @@ Rating: 4.04 (Ranked 990)
 | Dragon Slayer | 7.00% | ~197 |
 | Trader | 7.00% | ~197 |
 | Weekly Quest Completionist | 7.00% | ~197 |
-| Blueprint Upgrades | 6.00% | ~168 |
-| Enchanting skill | 6.00% | ~168 |
-| Engineer Mastery | 6.00% | ~168 |
-| How Do You Turn This On? | 6.00% | ~168 |
-| Lock And Load | 6.00% | ~168 |
-| Sailor | 6.00% | ~168 |
-| The Expeditioner | 6.00% | ~168 |
+| Blueprint Upgrades | 6.00% | ~169 |
+| Enchanting skill | 6.00% | ~169 |
+| Engineer Mastery | 6.00% | ~169 |
+| How Do You Turn This On? | 6.00% | ~169 |
+| Lock And Load | 6.00% | ~169 |
+| Sailor | 6.00% | ~169 |
+| The Expeditioner | 6.00% | ~169 |
 | Active Member | 5.00% | ~140 |
 | Ancient Knowledge | 5.00% | ~140 |
 | Background Story | 5.00% | ~140 |
@@ -81,7 +81,7 @@ Rating: 4.04 (Ranked 990)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,808 (Ranked 213)  
+Progressed: 2,809 (Ranked 213)  
 Completed: 2 (0.07%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 2 (0.07%) (Ranked 303)
 | 2023-11-26 | 2,735 | 2 |
 | 2023-11-27 | 2,771 | 2 |
 | 2023-11-28 | 2,791 | 2 |
-| 2023-11-29 | 2,808 | 2 |
+| 2023-11-29 | 2,809 | 2 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 483)  
 Sum: 134 (Ranked 429)  

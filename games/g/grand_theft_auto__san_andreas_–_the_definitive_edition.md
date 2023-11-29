@@ -5,17 +5,17 @@ Rating: 4.55 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 82.00% | ~11,320 |
+| Getting Started | 82.00% | ~11,321 |
 | Pay 'n' Spray | 52.00% | ~7,179 |
-| All Dressed Up for San Fierro | 26.00% | ~3,589 |
+| All Dressed Up for San Fierro | 26.00% | ~3,590 |
 | The American Dream | 20.00% | ~2,761 |
 | School's Out | 19.00% | ~2,623 |
 | Smooth Moves | 17.00% | ~2,347 |
 | What happens in Las Venturas... | 16.00% | ~2,209 |
 | Today Was a Good Day | 16.00% | ~2,209 |
 | Horror of the Santa Maria | 11.00% | ~1,519 |
-| Liberty City State of Mind | 10.00% | ~1,380 |
-| Original Gangster | 9.00% | ~1,242 |
+| Liberty City State of Mind | 10.00% | ~1,381 |
+| Original Gangster | 9.00% | ~1,243 |
 | The End of the Line | 8.00% | ~1,104 |
 | With Extra Dip | 7.00% | ~966 |
 | Saviour | 6.00% | ~828 |
@@ -41,8 +41,8 @@ Rating: 4.55 (Ranked 505)
 | ...Here we go again | 0.50% | ~69 |
 | I Ain't No Buster | 0.40% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,805 (Ranked 156)  
-Completed: 54 (0.39%) (Ranked 222)  
+Progressed: 13,806 (Ranked 156)  
+Completed: 55 (0.40%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -264,14 +264,14 @@ Completed: 54 (0.39%) (Ranked 222)
 | 2023-11-26 | 13,786 | 54 |
 | 2023-11-27 | 13,794 | 54 |
 | 2023-11-28 | 13,801 | 54 |
-| 2023-11-29 | 13,805 | 54 |
+| 2023-11-29 | 13,806 | 55 |
 ## Awards
-Max (Great Boss Battles): 408  (Ranked 230)  
-Sum: 678 (Ranked 302)  
-Diff (max vs sum): -72  
+Max (Great Boss Battles): 410  (Ranked 229)  
+Sum: 680 (Ranked 299)  
+Diff (max vs sum): -70  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 408 |
+| This game has Great Boss Battles | 410 |
 | This game is Relaxing | 38 |
 | This game has Amazing Characters | 37 |
 | This game is Great for Beginners | 37 |
@@ -469,3 +469,4 @@ Diff (max vs sum): -72
 | 2023-11-26 | 4.55 | 407 | 639 |
 | 2023-11-27 | 4.55 | 407 | 675 |
 | 2023-11-28 | 4.55 | 408 | 678 |
+| 2023-11-29 | 4.55 | 410 | 680 |

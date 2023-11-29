@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -304,7 +304,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1806,
+  "EOS_Progressed": 1807,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
@@ -4189,6 +4189,11 @@
       "Time": "2023-11-29T15:08:34.3920498+00:00",
       "NumProgressed": 1806,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-29T16:09:42.3782649+00:00",
+      "NumProgressed": 1807,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4272,7 +4277,7 @@
       "Name": "Lock, Stock",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "E1M1",
@@ -4328,7 +4333,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "High_noon",
@@ -4392,7 +4397,7 @@
       "Name": "Mosquito bite",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "Scout",
@@ -4439,15 +4444,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1806,
+      "Progressed": 1807,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-29T15:08:34.3920494+00:00",
+  "LastChanged_Achievements": "2023-11-29T16:09:42.3782644+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:35.5363143+00:00",
-  "LastUpdate_Ratings": "2023-11-29T14:57:49.5411285+00:00",
-  "LastUpdate_Achievements": "2023-11-29T15:08:34.3921005+00:00"
+  "LastUpdate_Ratings": "2023-11-29T15:58:51.7857253+00:00",
+  "LastUpdate_Achievements": "2023-11-29T16:09:42.3783052+00:00"
 }

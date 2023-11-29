@@ -6,17 +6,17 @@ Number of Ratings: 48  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Plenty More to Go | 88.00% | ~618 |
+| Plenty More to Go | 88.00% | ~619 |
 | All Bark, No Bite | 77.00% | ~541 |
-| Hopeful Hunter | 68.00% | ~477 |
-| Amateur Adventurer | 65.00% | ~456 |
-| The Road to Recovery | 64.00% | ~449 |
-| Partners? | 63.00% | ~442 |
-| Magical Mineral Golem | 56.00% | ~393 |
-| On Outlander Lane | 55.00% | ~386 |
-| First Time Fishing | 52.00% | ~365 |
-| A Girl About the Town | 51.00% | ~358 |
-| First Time Hunting | 50.00% | ~351 |
+| Hopeful Hunter | 68.00% | ~478 |
+| Amateur Adventurer | 65.00% | ~457 |
+| The Road to Recovery | 64.00% | ~450 |
+| Partners? | 63.00% | ~443 |
+| Magical Mineral Golem | 56.00% | ~394 |
+| On Outlander Lane | 55.00% | ~387 |
+| First Time Fishing | 52.00% | ~366 |
+| A Girl About the Town | 51.00% | ~359 |
+| First Time Hunting | 50.00% | ~352 |
 | Rune Wall Wreckage | 49.00% | ~344 |
 | ...And Your Tax Money | 47.00% | ~330 |
 | The Lords of the Snowpeak | 41.00% | ~288 |
@@ -34,13 +34,13 @@ Number of Ratings: 48  (23.09.2022)
 | The Lava Ruins...On Foot! | 28.00% | ~197 |
 | Meat Master | 27.00% | ~190 |
 | The Snowpeak...On Foot! | 27.00% | ~190 |
-| Armor Master | 25.00% | ~176 |
 | Fishing Master | 25.00% | ~176 |
-| The Pride of the Town | 23.00% | ~161 |
-| This Treasure I've Found | 21.00% | ~147 |
-| New Nevaeh's Number One Customer | 21.00% | ~147 |
-| Arms Master | 20.00% | ~140 |
-| Rune Scholar | 17.00% | ~119 |
+| Armor Master | 24.00% | ~169 |
+| The Pride of the Town | 23.00% | ~162 |
+| This Treasure I've Found | 21.00% | ~148 |
+| New Nevaeh's Number One Customer | 21.00% | ~148 |
+| Arms Master | 19.00% | ~134 |
+| Rune Scholar | 17.00% | ~120 |
 | No Treasure Left Behind | 14.00% | ~98 |
 | One-Hundred Resident Record | 12.00% | ~84 |
 | Sommelier | 12.00% | ~84 |
@@ -57,8 +57,8 @@ Number of Ratings: 48  (23.09.2022)
 | Full Force - Isha | 8.00% | ~56 |
 | Rising Champion | 7.00% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702 (Ranked 284)  
-Completed: 60 (8.55%) (Ranked 50)  
+Progressed: 703 (Ranked 284)  
+Completed: 60 (8.53%) (Ranked 50)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,6 +99,7 @@ Completed: 60 (8.55%) (Ranked 50)
 | 2023-11-07 | 699 | 60 |
 | 2023-11-27 | 701 | 60 |
 | 2023-11-28 | 702 | 60 |
+| 2023-11-29 | 703 | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
