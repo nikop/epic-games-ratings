@@ -18,12 +18,12 @@
 | The Witch’s Haunt | 32.00% | ~7 |
 | A Cabin Boy with Potential | 32.00% | ~7 |
 | Trapped in Time | 27.00% | ~6 |
+| Thanksgiving Day | 18.00% | ~4 |
 | Don’t Touch the Rum! | 18.00% | ~4 |
 | Oh... You didn't think to bring it? | 18.00% | ~4 |
-| Thanksgiving Day | 14.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 22 (Ranked 548)  
-Completed: 2 (9.09%) (Ranked 46)  
+Completed: 3 (13.64%) (Ranked 31)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -44,6 +44,7 @@ Completed: 2 (9.09%) (Ranked 46)
 | 2023-11-12 | 20 | 2 |
 | 2023-11-25 | 21 | 2 |
 | 2023-11-26 | 22 | 2 |
+| 2023-11-29 | 22 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

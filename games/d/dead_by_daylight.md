@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,052 |
 | Adept Good Guy | 0.10% | ~1,052 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,051,654 (Ranked 14)  
+Progressed: 1,051,733 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -462,7 +462,7 @@ Completed: 61 (0.01%) (Ranked 343)
 | 2023-11-26 | 1,047,100 | 60 |
 | 2023-11-27 | 1,048,888 | 61 |
 | 2023-11-28 | 1,050,827 | 61 |
-| 2023-11-29 | 1,051,654 | 61 |
+| 2023-11-29 | 1,051,733 | 61 |
 ## Awards
 Max (Diverse Characters): 36,768  (Ranked 15)  
 Sum: 280,046 (Ranked 12)  

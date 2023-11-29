@@ -1366,9 +1366,9 @@
       "ID": "AchvReachCamp",
       "SetID": "1hj060c",
       "Name": "The Camp",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 235
     },
     {
       "ID": "AchvReachCity",
@@ -1429,8 +1429,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-29T07:08:49.8806461+00:00",
+  "LastChanged_Achievements": "2023-11-29T08:08:42.0016098+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-11-29T06:59:17.0962727+00:00",
-  "LastUpdate_Achievements": "2023-11-29T07:08:49.8806728+00:00"
+  "LastUpdate_Ratings": "2023-11-29T07:58:31.9999096+00:00",
+  "LastUpdate_Achievements": "2023-11-29T08:08:42.0016311+00:00"
 }

@@ -6,31 +6,31 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~39,056 |
-| Blood Moon | 73.00% | ~33,542 |
-| Path of the Necromancer | 65.00% | ~29,866 |
+| Improvement | 85.00% | ~39,057 |
+| Blood Moon | 73.00% | ~33,543 |
+| Path of the Necromancer | 65.00% | ~29,867 |
 | Chainbreaker - I | 60.00% | ~27,569 |
-| Cursed Creature | 57.00% | ~26,190 |
-| Extraction | 57.00% | ~26,190 |
-| Chainbreaker - II | 55.00% | ~25,271 |
-| Necromancer's Apprentice | 51.00% | ~23,433 |
+| Cursed Creature | 57.00% | ~26,191 |
+| Extraction | 57.00% | ~26,191 |
+| Chainbreaker - II | 55.00% | ~25,272 |
+| Necromancer's Apprentice | 51.00% | ~23,434 |
 | Keeper of Keys | 47.00% | ~21,596 |
 | Distillation | 43.00% | ~19,758 |
-| Transmutation | 42.00% | ~19,298 |
+| Transmutation | 42.00% | ~19,299 |
 | Mountain King - I | 41.00% | ~18,839 |
-| Prepared Necromancer | 40.00% | ~18,379 |
+| Prepared Necromancer | 40.00% | ~18,380 |
 | Mountain King - II | 39.00% | ~17,920 |
-| Blind Rage | 38.00% | ~17,460 |
+| Blind Rage | 38.00% | ~17,461 |
 | Mad Genius | 35.00% | ~16,082 |
-| Cannon Fodder - I | 34.00% | ~15,622 |
-| Soul of Lies | 34.00% | ~15,622 |
-| Bane of Mercenaries - I | 32.00% | ~14,703 |
+| Cannon Fodder - I | 34.00% | ~15,623 |
+| Soul of Lies | 34.00% | ~15,623 |
+| Bane of Mercenaries - I | 32.00% | ~14,704 |
 | Bane of Mercenaries - II | 31.00% | ~14,244 |
 | Cannon Fodder - II | 29.00% | ~13,325 |
 | Shadow Between Worlds | 29.00% | ~13,325 |
-| Bane of Monsters | 28.00% | ~12,865 |
-| Chainbreaker - III | 28.00% | ~12,865 |
-| Revealed Secrets - I | 26.00% | ~11,946 |
+| Bane of Monsters | 28.00% | ~12,866 |
+| Chainbreaker - III | 28.00% | ~12,866 |
+| Revealed Secrets - I | 26.00% | ~11,947 |
 | Revealed Secrets - II | 25.00% | ~11,487 |
 | Blood Elemental | 24.00% | ~11,028 |
 | Unholy Bones | 23.00% | ~10,568 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.50% | ~230 |
 | Renowned Researcher | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,948 (Ranked 114)  
+Progressed: 45,949 (Ranked 114)  
 Completed: 25 (0.05%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 25 (0.05%) (Ranked 316)
 | 2023-11-26 | 45,811 | 25 |
 | 2023-11-27 | 45,880 | 25 |
 | 2023-11-28 | 45,937 | 25 |
-| 2023-11-29 | 45,948 | 25 |
+| 2023-11-29 | 45,949 | 25 |
 ## Awards
 Max (Character Customization): 2,161  (Ranked 109)  
 Sum: 4,202 (Ranked 151)  

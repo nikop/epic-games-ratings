@@ -27892,9 +27892,9 @@
       "ID": "21_ThrowAI_Trophy",
       "SetID": "adcm20g",
       "Name": "Dance of the Praying Mantis",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 2153
+      "UsersEstimate": 2870
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -28226,8 +28226,8 @@
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-11-29T01:52:23.4294907+00:00",
-  "LastChanged_Achievements": "2023-11-29T07:05:17.9288472+00:00",
+  "LastChanged_Achievements": "2023-11-29T08:04:29.5487889+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:20.5864979+00:00",
-  "LastUpdate_Ratings": "2023-11-29T07:00:44.0838733+00:00",
-  "LastUpdate_Achievements": "2023-11-29T07:05:17.9289845+00:00"
+  "LastUpdate_Ratings": "2023-11-29T07:59:29.2160793+00:00",
+  "LastUpdate_Achievements": "2023-11-29T08:04:29.5489097+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1514,9 +1514,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131379,
+  "EOS_Progressed": 131382,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 331,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -23284,6 +23284,11 @@
       "Time": "2023-11-29T07:03:42.3181913+00:00",
       "NumProgressed": 131379,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-29T08:03:15.8897386+00:00",
+      "NumProgressed": 131382,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -23327,7 +23332,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23648
+      "UsersEstimate": 23649
     },
     {
       "ID": "ACH_COP_BAD",
@@ -23351,7 +23356,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31531
+      "UsersEstimate": 31532
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -23375,7 +23380,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36786
+      "UsersEstimate": 36787
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -23423,7 +23428,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 17079
+      "UsersEstimate": 17080
     },
     {
       "ID": "ACH_COP_STAR",
@@ -23614,15 +23619,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131379,
+      "Progressed": 131382,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-28T12:00:15.5937153+00:00",
-  "LastChanged_Achievements": "2023-11-29T07:03:42.3181908+00:00",
+  "LastChanged_Achievements": "2023-11-29T08:03:15.8897384+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:19.415585+00:00",
-  "LastUpdate_Ratings": "2023-11-29T07:00:42.2597495+00:00",
-  "LastUpdate_Achievements": "2023-11-29T07:03:42.318427+00:00"
+  "LastUpdate_Ratings": "2023-11-29T07:59:27.9356425+00:00",
+  "LastUpdate_Achievements": "2023-11-29T08:03:15.8898618+00:00"
 }

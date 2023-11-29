@@ -1,22 +1,22 @@
 # Lawn Mowing Simulator
 [Store](https://store.epicgames.com/en-US/p/lawn-mowing-simulator-838bf3)  
 [View Rawdata](../../db/l/lawn_mowing_simulator.json)  
-Rating: 4.07 (Ranked 977)  
+Rating: 4.07 (Ranked 978)  
 Number of Ratings: 5,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 79.00% | ~540,624 |
-| Every story has a beginning | 36.00% | ~246,360 |
-| The first of many | 31.00% | ~212,144 |
-| Positive word of mouth | 18.00% | ~123,180 |
-| Lawn in the U.S.A. | 15.00% | ~102,650 |
-| Blade Runner | 9.00% | ~61,590 |
-| Credible | 7.00% | ~47,903 |
+| The dream begins | 79.00% | ~540,628 |
+| Every story has a beginning | 36.00% | ~246,362 |
+| The first of many | 31.00% | ~212,145 |
+| Positive word of mouth | 18.00% | ~123,181 |
+| Lawn in the U.S.A. | 15.00% | ~102,651 |
+| Blade Runner | 9.00% | ~61,591 |
+| Credible | 7.00% | ~47,904 |
 | Teamwork makes the dream work | 6.00% | ~41,060 |
-| Where there's muck there's brass | 4.00% | ~27,373 |
-| Bigger and better | 4.00% | ~27,373 |
-| Aggressive expansion | 4.00% | ~27,373 |
+| Where there's muck there's brass | 4.00% | ~27,374 |
+| Bigger and better | 4.00% | ~27,374 |
+| Aggressive expansion | 4.00% | ~27,374 |
 | Size isn't everything | 3.00% | ~20,530 |
 | Close shave | 3.00% | ~20,530 |
 | Established | 3.00% | ~20,530 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~684 |
 | Mo mowers, mo problems | 0.10% | ~684 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 684,334 (Ranked 27)  
+Progressed: 684,339 (Ranked 27)  
 Completed: 18 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 18 (0.00%) (Ranked 363)
 | 2023-11-26 | 683,871 | 18 |
 | 2023-11-27 | 684,102 | 18 |
 | 2023-11-28 | 684,282 | 18 |
-| 2023-11-29 | 684,334 | 18 |
+| 2023-11-29 | 684,339 | 18 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 300)  
 Sum: 989 (Ranked 263)  

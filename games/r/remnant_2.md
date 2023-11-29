@@ -11,6 +11,7 @@ Rating: 4.75 (Ranked 149)
 | Master of the Dark Arts | 0.60% | ~57 |
 | Expanding Horizons | 0.40% | ~921 |
 | Not Your Average Trait | 0.40% | ~921 |
+| Am I Seeing This? | 0.30% | ~691 |
 | Gleaming the Cube | 0.30% | ~691 |
 | Not So Special Now | 0.30% | ~691 |
 | Quest for Survival | 0.30% | ~691 |
@@ -21,7 +22,6 @@ Rating: 4.75 (Ranked 149)
 | Boss'n Up | 0.30% | ~691 |
 | Make Some Room | 0.30% | ~691 |
 | Trait Chaser | 0.30% | ~691 |
-| Am I Seeing This? | 0.20% | ~461 |
 | Ghost in the Machine | 0.20% | ~461 |
 | Chaos | 0.20% | ~461 |
 | Traitor | 0.20% | ~461 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 149)
 | Maxed Out! | 0.10% | ~230 |
 | A Foul Feast | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,298 (Ranked 69)  
+Progressed: 230,318 (Ranked 69)  
 Completed: 542 (0.24%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 542 (0.24%) (Ranked 249)
 | 2023-11-26 | 229,012 | 534 |
 | 2023-11-27 | 229,605 | 538 |
 | 2023-11-28 | 230,188 | 541 |
-| 2023-11-29 | 230,298 | 542 |
+| 2023-11-29 | 230,318 | 542 |
 ## Awards
 Max (Great Boss Battles): 2,498  (Ranked 104)  
 Sum: 6,104 (Ranked 129)  

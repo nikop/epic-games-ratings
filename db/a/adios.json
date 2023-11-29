@@ -123,7 +123,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 79387,
+  "EOS_Progressed": 79388,
   "EOS_Completed": 856,
   "EOS_NewPlayers": 468,
   "EOS_NewCompleters": 6,
@@ -24983,6 +24983,11 @@
       "Time": "2023-11-29T07:04:37.3085628+00:00",
       "NumProgressed": 79387,
       "NumCompleted": 856
+    },
+    {
+      "Time": "2023-11-29T08:03:59.0745499+00:00",
+      "NumProgressed": 79388,
+      "NumCompleted": 856
     }
   ],
   "TotalAchievements": 25,
@@ -25042,7 +25047,7 @@
       "Name": "Butcher",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 3175
+      "UsersEstimate": 3176
     },
     {
       "ID": "Cut Call",
@@ -25058,7 +25063,7 @@
       "Name": "Fair\u0027s Fair",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 3175
+      "UsersEstimate": 3176
     },
     {
       "ID": "HardWorker",
@@ -25066,7 +25071,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15877
+      "UsersEstimate": 15878
     },
     {
       "ID": "Hearty",
@@ -25162,7 +25167,7 @@
       "Name": "Spicy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3175
+      "UsersEstimate": 3176
     },
     {
       "ID": "Taco Toto",
@@ -25193,7 +25198,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 79387,
+      "Progressed": 79388,
       "Completed": 856
     }
   ],
@@ -25201,8 +25206,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-11-29T07:04:37.3085626+00:00",
+  "LastChanged_Achievements": "2023-11-29T08:03:59.0745497+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:30.5641615+00:00",
-  "LastUpdate_Ratings": "2023-11-29T07:01:13.0677717+00:00",
-  "LastUpdate_Achievements": "2023-11-29T07:04:37.3086735+00:00"
+  "LastUpdate_Ratings": "2023-11-29T07:59:48.6004939+00:00",
+  "LastUpdate_Achievements": "2023-11-29T08:03:59.0746459+00:00"
 }

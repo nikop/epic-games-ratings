@@ -3,9 +3,9 @@
   "Name": "Seven Doors",
   "ProductSlug": "seven-doors-7039de",
   "Ranking_EOS_Progress": 548,
-  "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_Completed": 31,
+  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-02-20T23:00:00+00:00",
     "PcReleaseDate": "2020-06-25T22:00:00+00:00",
@@ -32,10 +32,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 22,
-  "EOS_Completed": 2,
+  "EOS_Completed": 3,
   "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 9.09,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 13.64,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:05.6926532+00:00",
@@ -141,6 +141,11 @@
       "Time": "2023-11-26T11:08:23.7013449+00:00",
       "NumProgressed": 22,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-29T08:08:52.8867604+00:00",
+      "NumProgressed": 22,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 17,
@@ -158,9 +163,9 @@
       "ID": "ACH_10",
       "SetID": "15cie2",
       "Name": "Thanksgiving Day",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_11",
@@ -288,15 +293,15 @@
       "ID": "15cie2",
       "IsBase": true,
       "Progressed": 22,
-      "Completed": 2
+      "Completed": 3
     }
   ],
   "FirstSeen": "2023-02-21T11:57:52.4454821+00:00",
   "FirstSeenRating": "2023-03-31T05:57:43.4272245+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.6926568+00:00",
   "LastChanged": "2023-03-31T05:57:43.4272246+00:00",
-  "LastChanged_Achievements": "2023-11-29T07:09:04.938366+00:00",
+  "LastChanged_Achievements": "2023-11-29T08:08:52.8867602+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:18.1989147+00:00",
-  "LastUpdate_Ratings": "2023-11-29T07:00:38.7540321+00:00",
-  "LastUpdate_Achievements": "2023-11-29T07:09:04.9383765+00:00"
+  "LastUpdate_Ratings": "2023-11-29T07:59:25.5520253+00:00",
+  "LastUpdate_Achievements": "2023-11-29T08:08:52.8867687+00:00"
 }

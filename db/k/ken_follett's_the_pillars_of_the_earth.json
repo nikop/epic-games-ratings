@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16733,
+  "EOS_Progressed": 16734,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -15108,6 +15108,11 @@
       "Time": "2023-11-29T07:05:01.6273836+00:00",
       "NumProgressed": 16733,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-11-29T08:04:17.852721+00:00",
+      "NumProgressed": 16734,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15383,7 +15388,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6693
+      "UsersEstimate": 6694
     },
     {
       "ID": "tpote_achievement_40",
@@ -15439,22 +15444,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5689
+      "UsersEstimate": 5690
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16733,
+      "Progressed": 16734,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-29T07:05:01.6273832+00:00",
+  "LastChanged_Achievements": "2023-11-29T08:04:17.8527208+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:06.2264545+00:00",
-  "LastUpdate_Ratings": "2023-11-29T07:00:11.4085135+00:00",
-  "LastUpdate_Achievements": "2023-11-29T07:05:01.6274696+00:00"
+  "LastUpdate_Ratings": "2023-11-29T07:59:07.5899322+00:00",
+  "LastUpdate_Achievements": "2023-11-29T08:04:17.8528165+00:00"
 }

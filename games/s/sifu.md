@@ -29,6 +29,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Take damage to save time | 0.50% | ~3,588 |
 | Martial Hub | 0.50% | ~134 |
 | Scareless | 0.40% | ~2,870 |
+| Dance of the Praying Mantis | 0.40% | ~2,870 |
 | Qi Gong: Mind | 0.40% | ~2,870 |
 | I know Kung-Fu | 0.40% | ~2,870 |
 | Kung-Fu Tussle | 0.40% | ~2,870 |
@@ -36,7 +37,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Muk Yan Master | 0.30% | ~2,153 |
 | Tiger on Fire | 0.30% | ~2,153 |
 | Detective Story | 0.30% | ~2,153 |
-| Dance of the Praying Mantis | 0.30% | ~2,153 |
 | Source of Flying Daggers | 0.20% | ~1,435 |
 | Iron Money | 0.20% | ~1,435 |
 | Legendary Talismans of Wuxing | 0.20% | ~1,435 |

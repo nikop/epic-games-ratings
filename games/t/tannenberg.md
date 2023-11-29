@@ -6,16 +6,16 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~124,214 |
-| Comeback | 82.00% | ~114,444 |
-| Information is Key | 80.00% | ~111,653 |
-| Unlucky | 70.00% | ~97,696 |
-| Anarchist | 68.00% | ~94,905 |
-| Wallhack | 65.00% | ~90,718 |
+| Immovable Object | 89.00% | ~124,215 |
+| Comeback | 82.00% | ~114,445 |
+| Information is Key | 80.00% | ~111,654 |
+| Unlucky | 70.00% | ~97,697 |
+| Anarchist | 68.00% | ~94,906 |
+| Wallhack | 65.00% | ~90,719 |
 | Steady Supply | 60.00% | ~83,740 |
-| Lucky Shot | 53.00% | ~73,970 |
-| Forward Observer | 52.00% | ~72,574 |
-| Ring Ring! | 52.00% | ~72,574 |
+| Lucky Shot | 53.00% | ~73,971 |
+| Forward Observer | 52.00% | ~72,575 |
+| Ring Ring! | 52.00% | ~72,575 |
 | Bossing Around | 45.00% | ~62,805 |
 | Frostbite | 45.00% | ~62,805 |
 | Night Owl | 44.00% | ~61,409 |
@@ -30,7 +30,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Leeroy | 33.00% | ~46,057 |
 | Lost Batallion | 33.00% | ~46,057 |
 | This is MY Machine Gun! | 32.00% | ~44,661 |
-| Together As One | 31.00% | ~43,265 |
+| Together As One | 31.00% | ~43,266 |
 | Gavrilo Princip | 27.00% | ~37,683 |
 | Lead Harvest | 25.00% | ~34,892 |
 | Skynet Confirmed | 23.00% | ~32,100 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,256 |
 | Road to Berlin | 0.60% | ~837 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,566 (Ranked 81)  
+Progressed: 139,567 (Ranked 81)  
 Completed: 32 (0.02%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 32 (0.02%) (Ranked 334)
 | 2023-11-26 | 139,343 | 32 |
 | 2023-11-27 | 139,438 | 32 |
 | 2023-11-28 | 139,543 | 32 |
-| 2023-11-29 | 139,566 | 32 |
+| 2023-11-29 | 139,567 | 32 |
 ## Awards
 Max (Competitive Players): 335  (Ranked 245)  
 Sum: 3,283 (Ranked 170)  

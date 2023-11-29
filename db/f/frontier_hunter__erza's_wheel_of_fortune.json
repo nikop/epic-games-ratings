@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 420,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -1413,9 +1413,9 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "7pimpda",
       "Name": "Beginner Cook",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 147
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -1670,8 +1670,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-29T07:06:07.7657137+00:00",
+  "LastChanged_Achievements": "2023-11-29T08:05:05.3154608+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-11-29T06:59:06.5917723+00:00",
-  "LastUpdate_Achievements": "2023-11-29T07:06:07.7657446+00:00"
+  "LastUpdate_Ratings": "2023-11-29T07:58:25.4361538+00:00",
+  "LastUpdate_Achievements": "2023-11-29T08:05:05.3154885+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "city-of-gangsters-6c2974",
   "Ranking_Rating": 846,
   "Ranking_Popularity": 437,
-  "Ranking_PopularitySum": 402,
+  "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -752,10 +752,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 197,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-11-29T08:00:01.8369418+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 198,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 197,
+  "NumberOfAwards": 198,
   "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -775,7 +781,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -802,7 +808,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 354476,
+  "EOS_Progressed": 354479,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 967,
   "EOS_NewCompleters": 0,
@@ -26107,6 +26113,11 @@
       "Time": "2023-11-29T07:08:27.0734106+00:00",
       "NumProgressed": 354476,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-29T08:08:25.5485628+00:00",
+      "NumProgressed": 354479,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -26222,7 +26233,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 53171
+      "UsersEstimate": 53172
     },
     {
       "ID": "ach015",
@@ -26326,7 +26337,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 163059
+      "UsersEstimate": 163060
     },
     {
       "ID": "ach028",
@@ -26342,7 +26353,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38992
+      "UsersEstimate": 38993
     },
     {
       "ID": "ach030",
@@ -26454,7 +26465,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24813
+      "UsersEstimate": 24814
     },
     {
       "ID": "ach044",
@@ -26478,7 +26489,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24813
+      "UsersEstimate": 24814
     },
     {
       "ID": "ach047",
@@ -26518,7 +26529,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38992
+      "UsersEstimate": 38993
     },
     {
       "ID": "ach052",
@@ -26646,7 +26657,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 56716
+      "UsersEstimate": 56717
     },
     {
       "ID": "ach069",
@@ -26726,7 +26737,7 @@
       "Name": "People Person",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24813
+      "UsersEstimate": 24814
     },
     {
       "ID": "ach079",
@@ -26757,16 +26768,16 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 354476,
+      "Progressed": 354479,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-08-11T21:00:23.9390359+00:00",
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
-  "LastChanged": "2023-11-26T08:58:41.2212064+00:00",
-  "LastChanged_Achievements": "2023-11-29T07:08:27.0734102+00:00",
+  "LastChanged": "2023-11-29T08:00:01.8369416+00:00",
+  "LastChanged_Achievements": "2023-11-29T08:08:25.5485626+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.701398+00:00",
-  "LastUpdate_Ratings": "2023-11-29T07:01:32.4594246+00:00",
-  "LastUpdate_Achievements": "2023-11-29T07:08:27.0735666+00:00"
+  "LastUpdate_Ratings": "2023-11-29T08:00:01.8369421+00:00",
+  "LastUpdate_Achievements": "2023-11-29T08:08:25.548711+00:00"
 }

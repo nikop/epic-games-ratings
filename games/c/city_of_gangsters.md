@@ -5,24 +5,24 @@ Rating: 4.29 (Ranked 846)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~163,059 |
-| Copacetic Coordination | 16.00% | ~56,716 |
-| Fronting the Money | 15.00% | ~53,171 |
+| Corner Clout | 46.00% | ~163,060 |
+| Copacetic Coordination | 16.00% | ~56,717 |
+| Fronting the Money | 15.00% | ~53,172 |
 | The Dawn of Automation | 14.00% | ~49,627 |
 | Extraordinary Logistics | 14.00% | ~49,627 |
 | Dirty Money | 13.00% | ~46,082 |
 | Family First | 13.00% | ~46,082 |
 | Cleaning House | 12.00% | ~42,537 |
 | Room in the Back | 12.00% | ~42,537 |
-| Beating the Heat | 11.00% | ~38,992 |
-| Booze Baron | 11.00% | ~38,992 |
+| Beating the Heat | 11.00% | ~38,993 |
+| Booze Baron | 11.00% | ~38,993 |
 | Friends on the Force | 10.00% | ~35,448 |
 | Neighborhood Watch | 10.00% | ~35,448 |
 | Core Corps | 8.00% | ~28,358 |
 | Sizeable Stash | 8.00% | ~28,358 |
-| Street Fighter | 7.00% | ~24,813 |
-| Friendly Gestures | 7.00% | ~24,813 |
-| People Person | 7.00% | ~24,813 |
+| Street Fighter | 7.00% | ~24,814 |
+| Friendly Gestures | 7.00% | ~24,814 |
+| People Person | 7.00% | ~24,814 |
 | Liquor Lord | 6.00% | ~21,269 |
 | Safety in Numbers | 6.00% | ~21,269 |
 | Moving Experiences | 6.00% | ~21,269 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 846)
 | High Pillow | 0.10% | ~354 |
 | Station Master | 0.10% | ~354 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 354,476 (Ranked 49)  
+Progressed: 354,479 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,17 +309,17 @@ Completed: 7 (0.00%) (Ranked 363)
 | 2023-11-26 | 354,247 | 7 |
 | 2023-11-27 | 354,361 | 7 |
 | 2023-11-28 | 354,460 | 7 |
-| 2023-11-29 | 354,476 | 7 |
+| 2023-11-29 | 354,479 | 7 |
 ## Awards
 Max (Great for Beginners): 50  (Ranked 437)  
-Sum: 197 (Ranked 402)  
-Diff (max vs sum): 35  
+Sum: 198 (Ranked 400)  
+Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 50 |
 | This game is Highly Recommended | 35 |
 | This game is Relaxing | 32 |
-| This game is Extremely Fun | 30 |
+| This game is Extremely Fun | 31 |
 | This game has Quickly Understood Controls | 25 |
 | This game has Easy Combat | 25 |
 | This game has Diverse Characters | 25 |
@@ -430,3 +430,4 @@ Diff (max vs sum): 35
 | 2023-11-24 | 4.29 | 49 | 195 |
 | 2023-11-25 | 4.29 | 49 | 196 |
 | 2023-11-26 | 4.29 | 50 | 197 |
+| 2023-11-29 | 4.29 | 50 | 198 |

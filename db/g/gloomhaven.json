@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -2573,9 +2573,9 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 23562,
+  "EOS_Progressed": 23566,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1350,
+  "EOS_NewPlayers": 1352,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11108,6 +11108,11 @@
       "Time": "2023-11-29T06:08:27.0830438+00:00",
       "NumProgressed": 23562,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T08:08:16.1294154+00:00",
+      "NumProgressed": 23566,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -11144,7 +11149,7 @@
       "Name": "Merchant of doom",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "Achievement_Trophy05",
@@ -11296,7 +11301,7 @@
       "Name": "Grizzled veteran",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3534
+      "UsersEstimate": 3535
     },
     {
       "ID": "Achievement_Trophy24",
@@ -11304,7 +11309,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 9660
+      "UsersEstimate": 9662
     },
     {
       "ID": "Achievement_Trophy25",
@@ -11312,7 +11317,7 @@
       "Name": "You activated my trap card!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "Achievement_Trophy26",
@@ -11320,7 +11325,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 8011
+      "UsersEstimate": 8012
     },
     {
       "ID": "Achievement_Trophy27",
@@ -11336,7 +11341,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7775
+      "UsersEstimate": 7777
     },
     {
       "ID": "Achievement_Trophy29",
@@ -11352,7 +11357,7 @@
       "Name": "Spread the plague",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 6833
+      "UsersEstimate": 6834
     },
     {
       "ID": "Achievement_Trophy31",
@@ -11360,7 +11365,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 7304
+      "UsersEstimate": 7305
     },
     {
       "ID": "Achievement_Trophy32",
@@ -11392,7 +11397,7 @@
       "Name": "The Pro from Dover",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "Achievement_Trophy36",
@@ -11408,7 +11413,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 5890
+      "UsersEstimate": 5892
     },
     {
       "ID": "Achievement_Trophy38",
@@ -11424,7 +11429,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4477
+      "UsersEstimate": 4478
     },
     {
       "ID": "Achievement_Trophy40",
@@ -11440,7 +11445,7 @@
       "Name": "Obstacle race",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "Achievement_Trophy42",
@@ -11504,7 +11509,7 @@
       "Name": "Anatomy Lesson",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3534
+      "UsersEstimate": 3535
     },
     {
       "ID": "Achievement_Trophy50",
@@ -11607,7 +11612,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 23562,
+      "Progressed": 23566,
       "Completed": 1
     }
   ],
@@ -11615,8 +11620,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-28T02:58:56.0622889+00:00",
-  "LastChanged_Achievements": "2023-11-29T07:08:13.9123797+00:00",
+  "LastChanged_Achievements": "2023-11-29T08:08:16.1294152+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:22.2817081+00:00",
-  "LastUpdate_Ratings": "2023-11-29T07:00:49.5616918+00:00",
-  "LastUpdate_Achievements": "2023-11-29T07:08:13.9124481+00:00"
+  "LastUpdate_Ratings": "2023-11-29T07:59:32.5563898+00:00",
+  "LastUpdate_Achievements": "2023-11-29T08:08:16.1295027+00:00"
 }

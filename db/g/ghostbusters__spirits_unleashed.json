@@ -3481,10 +3481,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2859,
       "NumberOfAwardsMax": 319
+    },
+    {
+      "Time": "2023-11-29T07:58:27.4453653+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2860,
+      "NumberOfAwardsMax": 319
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2859,
+  "NumberOfAwards": 2860,
   "NumberOfAwardsMax": 319,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3516,7 +3522,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 276
+      "Count": 277
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3561,9 +3567,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31727,
+  "EOS_Progressed": 31729,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 363,
+  "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -20826,6 +20832,11 @@
       "Time": "2023-11-29T05:03:56.4292962+00:00",
       "NumProgressed": 31727,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-11-29T08:04:01.9845872+00:00",
+      "NumProgressed": 31729,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -21141,7 +21152,7 @@
       "Name": "Stylish",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2855
+      "UsersEstimate": 2856
     },
     {
       "ID": "Summoner",
@@ -21244,16 +21255,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31727,
+      "Progressed": 31729,
       "Completed": 69
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-11-29T04:04:06.2446147+00:00",
-  "LastChanged_Achievements": "2023-11-29T07:04:41.1264529+00:00",
+  "LastChanged": "2023-11-29T07:58:27.4453651+00:00",
+  "LastChanged_Achievements": "2023-11-29T08:04:01.9845869+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:05.0819015+00:00",
-  "LastUpdate_Ratings": "2023-11-29T06:59:09.6302632+00:00",
-  "LastUpdate_Achievements": "2023-11-29T07:04:41.1265761+00:00"
+  "LastUpdate_Ratings": "2023-11-29T07:58:27.4453657+00:00",
+  "LastUpdate_Achievements": "2023-11-29T08:04:01.9846794+00:00"
 }

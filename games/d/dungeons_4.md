@@ -8,21 +8,21 @@
 | Thalya – Simply Immortal | 87.00% | ~428 |
 | For the Horde! | 81.00% | ~399 |
 | Hammer Time, Round Two | 79.00% | ~389 |
-| The Hellwoods | 73.00% | ~359 |
+| The Hellwoods | 74.00% | ~364 |
 | The Plains of Strothalm | 68.00% | ~335 |
-| Experienced Thalya | 67.00% | ~330 |
+| Experienced Thalya | 68.00% | ~335 |
 | Thalya's Concentrated Fury | 66.00% | ~325 |
 | Bad Elves Go Everywhere | 65.00% | ~320 |
 | Master of Magic | 63.00% | ~310 |
 | Heroes’ Gorge | 60.00% | ~295 |
+| Magic Accidents | 58.00% | ~285 |
 | Unicorn steaks – fresh off the hoof! | 58.00% | ~285 |
-| Magic Accidents | 57.00% | ~280 |
 | Trap Master | 55.00% | ~271 |
 | Minions, Minions! | 53.00% | ~261 |
 | The Ascent | 51.00% | ~251 |
 | It's Warm and Cozy at Home | 51.00% | ~251 |
+| Hard Work | 47.00% | ~231 |
 | YOU SHALL NOT PASS! | 46.00% | ~226 |
-| Hard Work | 46.00% | ~226 |
 | The Big Eaty | 44.00% | ~216 |
 | Pure Dynamite! | 41.00% | ~202 |
 | “… like son” | 39.00% | ~192 |
@@ -39,7 +39,7 @@
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 21.00% | ~103 |
 | Forbidden Knowledge | 21.00% | ~103 |
 | If Looks Could Kill | 21.00% | ~103 |
-| Ghost Pirates? Ghost Heroes! | 19.00% | ~93 |
+| Ghost Pirates? Ghost Heroes! | 20.00% | ~98 |
 | The Finitude Drill | 18.00% | ~89 |
 | Stop Tanos! | 17.00% | ~84 |
 | Doom Hill | 16.00% | ~79 |
@@ -58,15 +58,15 @@
 | Untouchable | 9.00% | ~44 |
 | To the Max! | 9.00% | ~44 |
 | Mirror, Mirror | 8.00% | ~39 |
+| Evilification | 8.00% | ~39 |
 | Gorgu is in the Best of Health | 7.00% | ~34 |
 | Laser Eyes Are So Useless | 7.00% | ~34 |
 | Heal Heal Blessing | 7.00% | ~34 |
-| Evilification | 7.00% | ~34 |
 | Hands Off My Stones | 5.00% | ~25 |
 | No Mana, No Cry | 4.00% | ~20 |
 | I Don't Need Any Help | 4.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 492 (Ranked 312)  
+Progressed: 492 (Ranked 311)  
 Completed: 8 (1.63%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |

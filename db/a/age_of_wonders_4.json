@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -501,9 +501,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5536,
+  "EOS_Progressed": 5537,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7626,6 +7626,11 @@
       "Time": "2023-11-28T20:03:31.2719354+00:00",
       "NumProgressed": 5536,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-29T08:03:19.9630743+00:00",
+      "NumProgressed": 5537,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7899,9 +7904,9 @@
       "ID": "4",
       "SetID": "3aa2279",
       "Name": "The Eternal Court",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 33
     },
     {
       "ID": "40",
@@ -7915,9 +7920,9 @@
       "ID": "41",
       "SetID": "3aa2279",
       "Name": "Jack of All Tomes",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 11
     },
     {
       "ID": "42",
@@ -8116,13 +8121,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5536,
+      "Progressed": 5537,
       "Completed": 4766
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5536,
+      "Progressed": 5537,
       "Completed": 7
     }
   ],
@@ -8130,8 +8135,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-28T19:59:57.0422452+00:00",
-  "LastChanged_Achievements": "2023-11-29T07:03:47.7798964+00:00",
+  "LastChanged_Achievements": "2023-11-29T08:03:19.9630742+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.6428194+00:00",
-  "LastUpdate_Ratings": "2023-11-29T07:00:13.7239894+00:00",
-  "LastUpdate_Achievements": "2023-11-29T07:03:47.7799681+00:00"
+  "LastUpdate_Ratings": "2023-11-29T07:59:09.0857006+00:00",
+  "LastUpdate_Achievements": "2023-11-29T08:03:19.9631507+00:00"
 }

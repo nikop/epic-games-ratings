@@ -8,7 +8,7 @@
 | Welcome to the Tower | 36.00% | ~287 |
 | The great escape | 31.00% | ~247 |
 | The Preacher's fate | 30.00% | ~239 |
-| A new dawn | 24.00% | ~191 |
+| A new dawn | 25.00% | ~199 |
 | True G3M4R | 22.00% | ~175 |
 | Scholar | 22.00% | ~175 |
 | A good beginning | 21.00% | ~167 |
@@ -20,9 +20,9 @@
 | Half the way | 19.00% | ~151 |
 | In this together | 18.00% | ~143 |
 | Champollion | 18.00% | ~143 |
+| Open door | 16.00% | ~127 |
 | Feels like springtime | 16.00% | ~127 |
 | Alchemists Express | 16.00% | ~127 |
-| Open door | 15.00% | ~119 |
 | Free at last | 13.00% | ~103 |
 | Rascal | 13.00% | ~103 |
 | A Link to the Past | 12.00% | ~96 |

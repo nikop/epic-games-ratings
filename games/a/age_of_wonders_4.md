@@ -42,10 +42,10 @@ Rating: 4.61 (Ranked 386)
 | Prometheus Avenged | 0.80% | ~44 |
 | A Conqueror's Cohort | 0.80% | ~44 |
 | The Creator | 0.70% | ~39 |
+| The Eternal Court | 0.60% | ~33 |
 | Lord of Chaos | 0.50% | ~28 |
 | Eternal Lord | 0.50% | ~28 |
 | Manufactured War | 0.50% | ~28 |
-| The Eternal Court | 0.50% | ~28 |
 | Pruning for Progress | 0.50% | ~28 |
 | I've Got Everything I Need Right Here | 0.40% | ~22 |
 | God Emperor | 0.40% | ~22 |
@@ -54,19 +54,19 @@ Rating: 4.61 (Ranked 386)
 | One for All, All for One | 0.40% | ~22 |
 | Duality | 0.40% | ~22 |
 | The Magic That Empowers Me! | 0.20% | ~11 |
+| Jack of All Tomes | 0.20% | ~11 |
 | Betrayal Most Foul | 0.20% | ~11 |
 | A Very Special Ring | 0.20% | ~11 |
 | Snap Out of It! | 0.10% | ~6 |
 | I Want to Break Free | 0.10% | ~6 |
 | Against the Odds | 0.10% | ~6 |
-| Jack of All Tomes | 0.10% | ~6 |
 | Returning Circle | 0.10% | ~6 |
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,536 (Ranked 189)  
+Progressed: 5,537 (Ranked 189)  
 Completed: 7 (0.13%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,6 +257,7 @@ Completed: 7 (0.13%) (Ranked 273)
 | 2023-11-26 | 5,515 | 7 |
 | 2023-11-27 | 5,524 | 7 |
 | 2023-11-28 | 5,536 | 7 |
+| 2023-11-29 | 5,537 | 7 |
 ## Awards
 Max (Great for Beginners): 35  (Ranked 476)  
 Sum: 81 (Ranked 462)  
