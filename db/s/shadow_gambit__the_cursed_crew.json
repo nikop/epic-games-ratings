@@ -125,9 +125,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 975,
+  "EOS_Progressed": 976,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.18,
   "EosHistory": [
@@ -3215,6 +3215,11 @@
       "Time": "2023-11-29T20:05:18.512544+00:00",
       "NumProgressed": 975,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-29T23:05:28.0283074+00:00",
+      "NumProgressed": 976,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3227,7 +3232,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -3251,7 +3256,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "_05_FinishAct2",
@@ -3259,7 +3264,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -3267,7 +3272,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "_07_FinishAct3",
@@ -3283,7 +3288,7 @@
       "Name": "Swabbie",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "_09_Completion_20",
@@ -3299,7 +3304,7 @@
       "Name": "Buccaneer",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "_11_Completion_40",
@@ -3323,7 +3328,7 @@
       "Name": "Corsair",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "_14_Completion_70",
@@ -3355,7 +3360,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -3363,7 +3368,7 @@
       "Name": "Fully Decked",
       "Percentage": 6,
       "XP": 125,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -3434,7 +3439,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 975,
+      "Progressed": 976,
       "Completed": 31
     }
   ],
@@ -3442,8 +3447,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-29T18:57:59.7478521+00:00",
-  "LastChanged_Achievements": "2023-11-29T22:05:29.0105206+00:00",
+  "LastChanged_Achievements": "2023-11-29T23:05:28.0283071+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:16.5506412+00:00",
-  "LastUpdate_Ratings": "2023-11-29T21:57:48.9012882+00:00",
-  "LastUpdate_Achievements": "2023-11-29T22:05:29.0105493+00:00"
+  "LastUpdate_Ratings": "2023-11-29T22:57:46.2264347+00:00",
+  "LastUpdate_Achievements": "2023-11-29T23:05:28.0283366+00:00"
 }

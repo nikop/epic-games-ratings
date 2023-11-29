@@ -1419,9 +1419,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 240377,
+  "EOS_Progressed": 240383,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1454,
+  "EOS_NewPlayers": 1447,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20444,6 +20444,11 @@
       "Time": "2023-11-29T22:08:46.9986975+00:00",
       "NumProgressed": 240377,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-29T23:08:34.7388382+00:00",
+      "NumProgressed": 240383,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -20503,7 +20508,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16826
+      "UsersEstimate": 16827
     },
     {
       "ID": "Chapter2",
@@ -20855,7 +20860,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19230
+      "UsersEstimate": 19231
     },
     {
       "ID": "DwarfElf15Support",
@@ -20903,7 +20908,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 84132
+      "UsersEstimate": 84134
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -21158,21 +21163,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 240377,
+      "Progressed": 240383,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 240377,
+      "Progressed": 240383,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-28T10:58:38.4570753+00:00",
-  "LastChanged_Achievements": "2023-11-29T22:08:46.9986973+00:00",
+  "LastChanged_Achievements": "2023-11-29T23:08:34.738838+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:00.6949957+00:00",
-  "LastUpdate_Ratings": "2023-11-29T21:59:17.7766423+00:00",
-  "LastUpdate_Achievements": "2023-11-29T22:08:46.9988583+00:00"
+  "LastUpdate_Ratings": "2023-11-29T22:59:13.9609018+00:00",
+  "LastUpdate_Achievements": "2023-11-29T23:08:34.739022+00:00"
 }

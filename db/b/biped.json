@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7193,
+  "EOS_Progressed": 7195,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13294,6 +13294,11 @@
       "Time": "2023-11-29T21:05:34.7209872+00:00",
       "NumProgressed": 7193,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T23:05:14.6885489+00:00",
+      "NumProgressed": 7195,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -13321,7 +13326,7 @@
       "Name": "Telepathic",
       "Percentage": 9,
       "XP": 70,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "12",
@@ -13361,7 +13366,7 @@
       "Name": "Dense Forest",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "3",
@@ -13385,7 +13390,7 @@
       "Name": "Snowy Peak",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "6",
@@ -13424,7 +13429,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 7193,
+      "Progressed": 7195,
       "Completed": 0
     }
   ],
@@ -13432,8 +13437,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-11-29T22:05:15.1619561+00:00",
+  "LastChanged_Achievements": "2023-11-29T23:05:14.6885486+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:07.0754942+00:00",
-  "LastUpdate_Ratings": "2023-11-29T21:59:50.2733077+00:00",
-  "LastUpdate_Achievements": "2023-11-29T22:05:15.162025+00:00"
+  "LastUpdate_Ratings": "2023-11-29T22:59:46.7920788+00:00",
+  "LastUpdate_Achievements": "2023-11-29T23:05:14.6886517+00:00"
 }

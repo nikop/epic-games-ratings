@@ -13,7 +13,7 @@ Rating: 4.50 (Ranked 592)
 | Through the Darkness | 44.00% | ~192 |
 | No Mercy | 43.00% | ~187 |
 | The Return of a Rat | 42.00% | ~183 |
-| Fat of the Earth | 36.00% | ~157 |
+| Fat of the Earth | 37.00% | ~161 |
 | Last Man Standing | 32.00% | ~140 |
 | He's Seen It All | 28.00% | ~122 |
 | Great Hero | 28.00% | ~122 |

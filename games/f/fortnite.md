@@ -5,18 +5,18 @@ Rating: 4.28 (Ranked 856)
 Number of Ratings: 2,283,925  (23.09.2022)  
 ## Awards
 Max (Competitive Players): 2,280,476  (Ranked 1)  
-Sum: 16,107,243 (Ranked 1)  
+Sum: 16,168,234 (Ranked 1)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game has Competitive Players | 2,280,476 |
-| This game has Quickly Understood Controls | 2,164,584 |
-| This game is Extremely Fun | 2,123,905 |
-| This game has Diverse Characters | 2,090,426 |
-| This game has Amazing Storytelling | 1,973,702 |
-| This game has Amazing Characters | 1,945,774 |
-| This game is Highly Recommended | 1,925,845 |
-| This game has a Competitive Community | 1,602,531 |
+| This game has Quickly Understood Controls | 2,174,321 |
+| This game is Extremely Fun | 2,133,785 |
+| This game has Diverse Characters | 2,099,801 |
+| This game has Amazing Storytelling | 1,982,515 |
+| This game has Amazing Characters | 1,954,451 |
+| This game is Highly Recommended | 1,934,324 |
+| This game has a Competitive Community | 1,608,561 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -327,4 +327,4 @@ Diff (max vs sum): 0
 | 2023-11-26 | 4.28 | - | 2,249,874 | 15,959,949 |
 | 2023-11-27 | 4.28 | - | 2,260,259 | 16,029,982 |
 | 2023-11-28 | 4.28 | - | 2,270,015 | 16,095,793 |
-| 2023-11-29 | 4.28 | - | 2,280,476 | 16,107,243 |
+| 2023-11-29 | 4.28 | - | 2,280,476 | 16,168,234 |

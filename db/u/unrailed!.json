@@ -2837,9 +2837,9 @@
       "Count": 148
     }
   ],
-  "EOS_Progressed": 666207,
+  "EOS_Progressed": 666210,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1560,
+  "EOS_NewPlayers": 1557,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28342,6 +28342,11 @@
       "Time": "2023-11-29T22:09:13.7090712+00:00",
       "NumProgressed": 666207,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-29T23:09:01.8668423+00:00",
+      "NumProgressed": 666210,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -28353,7 +28358,7 @@
       "Name": "Stroller",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 99931
+      "UsersEstimate": 99932
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -28393,7 +28398,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 119917
+      "UsersEstimate": 119918
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -28601,7 +28606,7 @@
       "Name": "Incurious",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 113255
+      "UsersEstimate": 113256
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -28609,7 +28614,7 @@
       "Name": "Mojave Courier",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 39972
+      "UsersEstimate": 39973
     },
     {
       "ID": "_03_02_NANUK",
@@ -28673,7 +28678,7 @@
       "Name": "Climate Change",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 106593
+      "UsersEstimate": 106594
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -28768,15 +28773,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 666207,
+      "Progressed": 666210,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-11-24T09:59:15.1264226+00:00",
-  "LastChanged_Achievements": "2023-11-29T22:09:13.7090709+00:00",
+  "LastChanged_Achievements": "2023-11-29T23:09:01.8668419+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:04.271404+00:00",
-  "LastUpdate_Ratings": "2023-11-29T21:58:44.8780435+00:00",
-  "LastUpdate_Achievements": "2023-11-29T22:09:13.7091864+00:00"
+  "LastUpdate_Ratings": "2023-11-29T22:58:41.5197444+00:00",
+  "LastUpdate_Achievements": "2023-11-29T23:09:01.8669733+00:00"
 }

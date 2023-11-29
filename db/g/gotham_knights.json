@@ -4,7 +4,7 @@
   "ProductSlug": "gotham-knights",
   "Ranking_Rating": 933,
   "Ranking_Popularity": 98,
-  "Ranking_PopularitySum": 141,
+  "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 268,
   "Ranking_EOS_NewPlayers": 109,
@@ -4365,10 +4365,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 5080,
       "NumberOfAwardsMax": 2980
+    },
+    {
+      "Time": "2023-11-29T22:58:47.1270032+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 5081,
+      "NumberOfAwardsMax": 2980
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5080,
+  "NumberOfAwards": 5081,
   "NumberOfAwardsMax": 2980,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4412,7 +4418,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 264
+      "Count": 265
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4433,9 +4439,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77447,
+  "EOS_Progressed": 77449,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 587,
+  "EOS_NewPlayers": 584,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24458,6 +24464,11 @@
       "Time": "2023-11-29T22:04:16.4580368+00:00",
       "NumProgressed": 77447,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-11-29T23:04:16.2008214+00:00",
+      "NumProgressed": 77449,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -24517,7 +24528,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17038
+      "UsersEstimate": 17039
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -24581,7 +24592,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13940
+      "UsersEstimate": 13941
     },
     {
       "ID": "CLAYFACE_3",
@@ -24693,7 +24704,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21685
+      "UsersEstimate": 21686
     },
     {
       "ID": "FREEZE_1_5",
@@ -24701,7 +24712,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15489
+      "UsersEstimate": 15490
     },
     {
       "ID": "FREEZE_2",
@@ -24773,7 +24784,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 27106
+      "UsersEstimate": 27107
     },
     {
       "ID": "HARLEY_2",
@@ -24789,7 +24800,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15489
+      "UsersEstimate": 15490
     },
     {
       "ID": "HARLEY_4",
@@ -24837,7 +24848,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15489
+      "UsersEstimate": 15490
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -24861,7 +24872,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26332
+      "UsersEstimate": 26333
     },
     {
       "ID": "MYSTERY_02",
@@ -24877,7 +24888,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17038
+      "UsersEstimate": 17039
     },
     {
       "ID": "MYSTERY_04",
@@ -24885,7 +24896,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15489
+      "UsersEstimate": 15490
     },
     {
       "ID": "MYSTERY_05",
@@ -24893,7 +24904,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13940
+      "UsersEstimate": 13941
     },
     {
       "ID": "MYSTERY_06",
@@ -24956,22 +24967,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77447,
+      "Progressed": 77449,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47727,
+      "Progressed": 47729,
       "Completed": 2675
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-11-29T17:59:00.4240875+00:00",
-  "LastChanged_Achievements": "2023-11-29T22:04:16.4580365+00:00",
+  "LastChanged": "2023-11-29T22:58:47.127003+00:00",
+  "LastChanged_Achievements": "2023-11-29T23:04:16.2008212+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:48.4544768+00:00",
-  "LastUpdate_Ratings": "2023-11-29T21:58:50.3443189+00:00",
-  "LastUpdate_Achievements": "2023-11-29T22:04:16.4581788+00:00"
+  "LastUpdate_Ratings": "2023-11-29T22:58:47.1270038+00:00",
+  "LastUpdate_Achievements": "2023-11-29T23:04:16.200978+00:00"
 }

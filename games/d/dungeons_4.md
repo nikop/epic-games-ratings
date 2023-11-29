@@ -31,13 +31,13 @@
 | The Cathedral of Light | 35.00% | ~175 |
 | Shame! Shame! Shame! | 35.00% | ~175 |
 | Tanos' Crusade Against Thalya | 31.00% | ~155 |
-| All’s Well That Ends Evil | 26.00% | ~130 |
-| Unstoppable Horde | 25.00% | ~125 |
+| All’s Well That Ends Evil | 27.00% | ~135 |
+| Unstoppable Horde | 26.00% | ~130 |
 | Master of the Undead | 24.00% | ~120 |
-| The Duel | 23.00% | ~115 |
+| The Duel | 24.00% | ~120 |
 | Hungry, Hungry Gorgu! | 22.00% | ~110 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 22.00% | ~110 |
-| Forbidden Knowledge | 21.00% | ~105 |
+| Forbidden Knowledge | 22.00% | ~110 |
 | If Looks Could Kill | 21.00% | ~105 |
 | Ghost Pirates? Ghost Heroes! | 20.00% | ~100 |
 | The Finitude Drill | 19.00% | ~95 |
@@ -48,15 +48,15 @@
 | Brimstone Shaken, Not Stirred | 15.00% | ~75 |
 | Bonus Evilness | 14.00% | ~70 |
 | The Rune Sockets of Finitude (Part 1) | 14.00% | ~70 |
+| My Little Torture Chamber | 13.00% | ~65 |
 | Raiders of the Lost Stone | 13.00% | ~65 |
-| My Little Torture Chamber | 12.00% | ~60 |
 | Lavalumps on Ice! | 12.00% | ~60 |
 | The Rune Sockets of Finitude (Part 2) | 12.00% | ~60 |
 | Rubble and Ashes | 11.00% | ~55 |
 | The Last Stand - This Time For Real! | 11.00% | ~55 |
+| To the Max! | 10.00% | ~50 |
 | To Infinity And Beyond! | 10.00% | ~50 |
 | Untouchable | 9.00% | ~45 |
-| To the Max! | 9.00% | ~45 |
 | Mirror, Mirror | 8.00% | ~40 |
 | Evilification | 8.00% | ~40 |
 | Gorgu is in the Best of Health | 7.00% | ~35 |

@@ -4,7 +4,7 @@
   "ProductSlug": "1775-rebellion-aa5b41",
   "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 499,
+  "Ranking_EOS_NewPlayers": 498,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-10-13T11:00:00+00:00",
@@ -21,6 +21,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
@@ -32,7 +34,8 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
-  "LastUpdate_AppInfo": "2023-11-22T21:57:09.8027851+00:00",
-  "LastUpdate_Ratings": "2023-11-29T21:58:16.6752551+00:00",
-  "LastUpdate_Achievements": "2023-11-29T22:05:22.7465231+00:00"
+  "FirstSeen": "2023-11-29T22:58:14.0056081+00:00",
+  "LastUpdate_AppInfo": "2023-11-29T22:56:59.3405156+00:00",
+  "LastUpdate_Ratings": "2023-11-29T22:58:14.0056098+00:00",
+  "LastUpdate_Achievements": "2023-11-29T23:05:22.304424+00:00"
 }

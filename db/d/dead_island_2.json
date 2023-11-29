@@ -6997,10 +6997,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11959,
       "NumberOfAwardsMax": 7803
+    },
+    {
+      "Time": "2023-11-29T22:58:06.1430751+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11961,
+      "NumberOfAwardsMax": 7803
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11959,
+  "NumberOfAwards": 11961,
   "NumberOfAwardsMax": 7803,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7014,7 +7020,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 570
+      "Count": 572
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7059,9 +7065,9 @@
       "Count": 502
     }
   ],
-  "EOS_Progressed": 727795,
+  "EOS_Progressed": 727809,
   "EOS_Completed": 2450,
-  "EOS_NewPlayers": 5041,
+  "EOS_NewPlayers": 5031,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -32644,6 +32650,11 @@
       "Time": "2023-11-29T22:08:11.6644079+00:00",
       "NumProgressed": 727795,
       "NumCompleted": 2450
+    },
+    {
+      "Time": "2023-11-29T23:07:59.1285208+00:00",
+      "NumProgressed": 727809,
+      "NumCompleted": 2450
     }
   ],
   "TotalAchievements": 51,
@@ -33023,7 +33034,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "ach_gardening_tools",
@@ -33062,22 +33073,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 727795,
+      "Progressed": 727809,
       "Completed": 2450
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 53337,
-      "Completed": 36614
+      "Progressed": 53351,
+      "Completed": 36615
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-29T20:58:28.6870772+00:00",
-  "LastChanged_Achievements": "2023-11-29T22:08:11.6644076+00:00",
+  "LastChanged": "2023-11-29T22:58:06.1430749+00:00",
+  "LastChanged_Achievements": "2023-11-29T23:07:59.1285206+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-29T21:58:09.0347375+00:00",
-  "LastUpdate_Achievements": "2023-11-29T22:08:11.6645717+00:00"
+  "LastUpdate_Ratings": "2023-11-29T22:58:06.1430756+00:00",
+  "LastUpdate_Achievements": "2023-11-29T23:07:59.1286659+00:00"
 }

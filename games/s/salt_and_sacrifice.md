@@ -6,61 +6,61 @@ Number of Ratings: 2,205  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Champion | 90.00% | ~60,733 |
-| The Pyromancer | 86.00% | ~58,034 |
-| The Wastes | 83.00% | ~56,009 |
-| Waste Not | 80.00% | ~53,985 |
-| The Cryomancer | 76.00% | ~51,286 |
-| Stock Up | 75.00% | ~50,611 |
-| The Hydromancer | 73.00% | ~49,261 |
-| The Matriarch | 70.00% | ~47,237 |
-| The Aeromancer | 66.00% | ~44,537 |
-| The Huntsman | 65.00% | ~43,863 |
-| The Venomancer | 65.00% | ~43,863 |
-| Dawnlight Order | 64.00% | ~43,188 |
-| The Electromancer | 61.00% | ~41,163 |
-| The Terramancer | 59.00% | ~39,814 |
-| The Exalted | 57.00% | ~38,464 |
-| Sheriff Inquisitors | 55.00% | ~37,115 |
-| Blueheart Runners | 54.00% | ~36,440 |
-| The Necromancer | 52.00% | ~35,090 |
-| The Swamp | 50.00% | ~33,740 |
-| The Fungalmancer | 47.00% | ~31,716 |
-| The Thaumamancer | 47.00% | ~31,716 |
-| The Hag | 45.00% | ~30,366 |
-| The Corpumancer | 42.00% | ~28,342 |
-| The Mountain | 40.00% | ~26,992 |
-| The Treeheart | 40.00% | ~26,992 |
-| Shroud Alliance | 39.00% | ~26,318 |
-| The Two Monks | 37.00% | ~24,968 |
-| The Neuromancer | 35.00% | ~23,618 |
-| Oathbound Watchers | 33.00% | ~22,269 |
-| The Chronomancer | 32.00% | ~21,594 |
-| The Mechanomancer | 32.00% | ~21,594 |
-| The Copse | 30.00% | ~20,244 |
-| The Dragon | 30.00% | ~20,244 |
-| The Dracomancer | 30.00% | ~20,244 |
-| Well Stocked | 28.00% | ~18,895 |
-| The Umbramancer | 28.00% | ~18,895 |
-| Chaos Hunger | 27.00% | ~18,220 |
-| The Kinetomancer | 27.00% | ~18,220 |
-| The Sanguimancer | 27.00% | ~18,220 |
-| The Luminimancer | 26.00% | ~17,545 |
-| The Bibliomancer | 25.00% | ~16,870 |
-| The Skylord | 25.00% | ~16,870 |
-| The Firelord | 24.00% | ~16,195 |
-| The Diablomancer | 22.00% | ~14,846 |
-| Want Not | 21.00% | ~14,171 |
-| The Sacrifice | 21.00% | ~14,171 |
-| The King | 19.00% | ~12,821 |
-| Take Your Place | 14.00% | ~9,447 |
-| The Nomad | 14.00% | ~9,447 |
+| The Champion | 90.00% | ~60,736 |
+| The Pyromancer | 86.00% | ~58,037 |
+| The Wastes | 83.00% | ~56,013 |
+| Waste Not | 80.00% | ~53,988 |
+| The Cryomancer | 76.00% | ~51,289 |
+| Stock Up | 75.00% | ~50,614 |
+| The Hydromancer | 73.00% | ~49,264 |
+| The Matriarch | 70.00% | ~47,240 |
+| The Aeromancer | 66.00% | ~44,540 |
+| The Huntsman | 65.00% | ~43,865 |
+| The Venomancer | 65.00% | ~43,865 |
+| Dawnlight Order | 64.00% | ~43,190 |
+| The Electromancer | 61.00% | ~41,166 |
+| The Terramancer | 59.00% | ~39,816 |
+| The Exalted | 56.00% | ~37,792 |
+| Sheriff Inquisitors | 55.00% | ~37,117 |
+| Blueheart Runners | 54.00% | ~36,442 |
+| The Necromancer | 52.00% | ~35,092 |
+| The Swamp | 50.00% | ~33,742 |
+| The Fungalmancer | 47.00% | ~31,718 |
+| The Thaumamancer | 47.00% | ~31,718 |
+| The Hag | 45.00% | ~30,368 |
+| The Corpumancer | 42.00% | ~28,344 |
+| The Mountain | 40.00% | ~26,994 |
+| The Treeheart | 40.00% | ~26,994 |
+| Shroud Alliance | 39.00% | ~26,319 |
+| The Two Monks | 37.00% | ~24,969 |
+| The Neuromancer | 35.00% | ~23,620 |
+| Oathbound Watchers | 33.00% | ~22,270 |
+| The Chronomancer | 32.00% | ~21,595 |
+| The Mechanomancer | 32.00% | ~21,595 |
+| The Copse | 30.00% | ~20,246 |
+| The Dragon | 30.00% | ~20,246 |
+| The Dracomancer | 30.00% | ~20,246 |
+| Well Stocked | 28.00% | ~18,896 |
+| The Umbramancer | 28.00% | ~18,896 |
+| Chaos Hunger | 27.00% | ~18,221 |
+| The Kinetomancer | 27.00% | ~18,221 |
+| The Sanguimancer | 27.00% | ~18,221 |
+| The Luminimancer | 26.00% | ~17,546 |
+| The Bibliomancer | 25.00% | ~16,871 |
+| The Skylord | 25.00% | ~16,871 |
+| The Firelord | 24.00% | ~16,196 |
+| The Diablomancer | 22.00% | ~14,847 |
+| Want Not | 21.00% | ~14,172 |
+| The Sacrifice | 21.00% | ~14,172 |
+| The King | 19.00% | ~12,822 |
+| Take Your Place | 14.00% | ~9,448 |
+| The Nomad | 14.00% | ~9,448 |
 | The Soldier | 11.00% | ~7,423 |
 | Make The Climb | 10.00% | ~6,748 |
 | The Scholar | 10.00% | ~6,748 |
 | Top Shelf | 5.00% | ~3,374 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,481 (Ranked 103)  
+Progressed: 67,485 (Ranked 103)  
 Completed: 1,263 (1.87%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 1,263 (1.87%) (Ranked 130)
 | 2023-11-26 | 67,380 | 1,262 |
 | 2023-11-27 | 67,412 | 1,263 |
 | 2023-11-28 | 67,458 | 1,263 |
-| 2023-11-29 | 67,481 | 1,263 |
+| 2023-11-29 | 67,485 | 1,263 |
 ## Awards
 Max (Character Customization): 988  (Ranked 154)  
 Sum: 1,987 (Ranked 215)  

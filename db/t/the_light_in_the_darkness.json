@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2703,
+  "EOS_Progressed": 2704,
   "EOS_Completed": 243,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 8.99,
   "EosHistory": [
@@ -7486,6 +7486,11 @@
       "Time": "2023-11-29T12:06:41.0292248+00:00",
       "NumProgressed": 2703,
       "NumCompleted": 243
+    },
+    {
+      "Time": "2023-11-29T23:07:51.0873426+00:00",
+      "NumProgressed": 2704,
+      "NumCompleted": 243
     }
   ],
   "TotalAchievements": 12,
@@ -7497,7 +7502,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "Bernard",
@@ -7505,7 +7510,7 @@
       "Name": "Bernard",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "Building the Fox",
@@ -7535,9 +7540,9 @@
       "ID": "Jakob",
       "SetID": "b40dflc",
       "Name": "Jakob",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 405
+      "UsersEstimate": 379
     },
     {
       "ID": "Jude",
@@ -7545,7 +7550,7 @@
       "Name": "Jude",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "Le Juif et la France",
@@ -7553,7 +7558,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "Little Helper",
@@ -7592,7 +7597,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2703,
+      "Progressed": 2704,
       "Completed": 243
     }
   ],
@@ -7600,8 +7605,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-11-29T22:08:03.7146465+00:00",
+  "LastChanged_Achievements": "2023-11-29T23:07:51.0873423+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:10.2088874+00:00",
-  "LastUpdate_Ratings": "2023-11-29T21:59:31.883593+00:00",
-  "LastUpdate_Achievements": "2023-11-29T22:08:03.7146978+00:00"
+  "LastUpdate_Ratings": "2023-11-29T22:59:28.1213311+00:00",
+  "LastUpdate_Achievements": "2023-11-29T23:07:51.0873805+00:00"
 }

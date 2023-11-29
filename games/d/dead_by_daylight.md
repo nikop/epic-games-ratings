@@ -6,10 +6,11 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| It wakes | 0.30% | ~3,162 |
 | Zealous | 0.20% | ~2,108 |
-| It wakes | 0.20% | ~2,108 |
 | Not half bad | 0.20% | ~2,108 |
 | Apt Survivor | 0.20% | ~2,108 |
+| Survival Treasures | 0.20% | ~2,108 |
 | Skillful | 0.20% | ~2,108 |
 | I | 0.20% | ~2,108 |
 | Make Some Noise | 0.20% | ~2,108 |
@@ -38,7 +39,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Gifts for the Fog | 0.10% | ~1,054 |
 | Apt Killer | 0.10% | ~1,054 |
 | Risk it all | 0.10% | ~1,054 |
-| Survival Treasures | 0.10% | ~1,054 |
 | Vulture | 0.10% | ~1,054 |
 | Adept Jake | 0.10% | ~1,054 |
 | Adept Dwight | 0.10% | ~1,054 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,054 |
 | Adept Good Guy | 0.10% | ~1,054 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,053,780 (Ranked 14)  
+Progressed: 1,053,910 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -462,17 +462,17 @@ Completed: 61 (0.01%) (Ranked 343)
 | 2023-11-26 | 1,047,100 | 60 |
 | 2023-11-27 | 1,048,888 | 61 |
 | 2023-11-28 | 1,050,827 | 61 |
-| 2023-11-29 | 1,053,780 | 61 |
+| 2023-11-29 | 1,053,910 | 61 |
 ## Awards
 Max (Diverse Characters): 36,896  (Ranked 15)  
-Sum: 280,678 (Ranked 12)  
+Sum: 280,728 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 36,896 |
 | This game is Highly Recommended | 32,106 |
 | This game has Amazing Characters | 31,639 |
-| This game has Competitive Players | 31,473 |
+| This game has Competitive Players | 31,523 |
 | This game is Extremely Fun | 31,183 |
 | This game has Challenging Combat | 30,990 |
 | This game has Quickly Understood Controls | 30,369 |
@@ -792,4 +792,4 @@ Diff (max vs sum): 3
 | 2023-11-26 | 4.51 | - | 36,632 | 279,309 |
 | 2023-11-27 | 4.51 | - | 36,673 | 279,577 |
 | 2023-11-28 | 4.51 | - | 36,768 | 280,046 |
-| 2023-11-29 | 4.51 | - | 36,896 | 280,678 |
+| 2023-11-29 | 4.51 | - | 36,896 | 280,728 |

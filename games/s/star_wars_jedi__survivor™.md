@@ -38,8 +38,8 @@ Rating: 4.50 (Ranked 592)
 | It's a Trap | 27.00% | ~2,420 |
 | You've Got A Friend | 23.00% | ~2,062 |
 | King of the World | 17.00% | ~1,524 |
+| Max Capacity | 15.00% | ~1,345 |
 | Reconnaissance | 15.00% | ~1,345 |
-| Max Capacity | 14.00% | ~1,255 |
 | A Presence I've Not Felt Since... | 14.00% | ~1,255 |
 | Slam Dunk | 12.00% | ~1,076 |
 | Star Tours | 11.00% | ~986 |

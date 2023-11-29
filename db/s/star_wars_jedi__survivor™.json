@@ -5543,7 +5543,7 @@
   ],
   "EOS_Progressed": 8964,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 480,
+  "EOS_NewPlayers": 477,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -13515,9 +13515,9 @@
       "ID": "achievement_a35",
       "SetID": "3m4b0pk",
       "Name": "Max Capacity",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1345
     },
     {
       "ID": "achievement_a36",
@@ -13724,8 +13724,8 @@
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
   "LastChanged": "2023-11-29T20:59:15.7598877+00:00",
-  "LastChanged_Achievements": "2023-11-29T22:08:42.2936944+00:00",
+  "LastChanged_Achievements": "2023-11-29T23:08:30.1552039+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:07.2165049+00:00",
-  "LastUpdate_Ratings": "2023-11-29T21:58:56.6934656+00:00",
-  "LastUpdate_Achievements": "2023-11-29T22:08:42.293753+00:00"
+  "LastUpdate_Ratings": "2023-11-29T22:58:52.9181133+00:00",
+  "LastUpdate_Achievements": "2023-11-29T23:08:30.1552642+00:00"
 }

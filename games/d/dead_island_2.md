@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 527)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,600 |
+| Whatever It Takes | 3.00% | ~1,601 |
 | Break A Leg | 2.00% | ~14,556 |
 | Coup de Grâce | 2.00% | ~14,556 |
 | Hazardous Materials | 2.00% | ~14,556 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 527)
 | Bucket List | 0.10% | ~728 |
 | Wilhelm | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 727,795 (Ranked 21)  
+Progressed: 727,809 (Ranked 21)  
 Completed: 2,450 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,16 +280,16 @@ Completed: 2,450 (0.34%) (Ranked 231)
 | 2023-11-26 | 726,037 | 2,441 |
 | 2023-11-27 | 726,753 | 2,443 |
 | 2023-11-28 | 727,374 | 2,447 |
-| 2023-11-29 | 727,795 | 2,450 |
+| 2023-11-29 | 727,809 | 2,450 |
 ## Awards
 Max (Great Boss Battles): 7,803  (Ranked 49)  
-Sum: 11,959 (Ranked 84)  
+Sum: 11,961 (Ranked 84)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,803 |
 | This game is Great for Beginners | 605 |
-| This game has Diverse Characters | 570 |
+| This game has Diverse Characters | 572 |
 | This game has Quickly Understood Controls | 539 |
 | This game is Relaxing | 515 |
 | This game has Amazing Storytelling | 502 |
@@ -521,4 +521,4 @@ Diff (max vs sum): -35
 | 2023-11-26 | 4.54 | 7,731 | 11,835 |
 | 2023-11-27 | 4.54 | 7,760 | 11,883 |
 | 2023-11-28 | 4.54 | 7,784 | 11,921 |
-| 2023-11-29 | 4.54 | 7,803 | 11,959 |
+| 2023-11-29 | 4.54 | 7,803 | 11,961 |
