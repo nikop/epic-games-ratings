@@ -282,9 +282,9 @@
       "ID": "BP-12",
       "SetID": "7fc93f2",
       "Name": "Cozy Autumn",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 115
+      "UsersEstimate": 118
     },
     {
       "ID": "BP-13",
@@ -347,8 +347,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5432443+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.424044+00:00",
   "LastChanged": "2023-03-31T05:58:48.5432443+00:00",
-  "LastChanged_Achievements": "2023-11-28T23:08:52.3765381+00:00",
+  "LastChanged_Achievements": "2023-11-29T00:08:48.2237235+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.4430448+00:00",
-  "LastUpdate_Ratings": "2023-11-28T22:59:48.1463595+00:00",
-  "LastUpdate_Achievements": "2023-11-28T23:08:52.3765485+00:00"
+  "LastUpdate_Ratings": "2023-11-28T23:59:42.4923973+00:00",
+  "LastUpdate_Achievements": "2023-11-29T00:08:48.2237358+00:00"
 }

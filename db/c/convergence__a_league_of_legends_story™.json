@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 941,
+  "EOS_Progressed": 942,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -2524,6 +2524,11 @@
       "Time": "2023-11-27T22:09:12.8081937+00:00",
       "NumProgressed": 941,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-29T00:08:44.6663223+00:00",
+      "NumProgressed": 942,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2591,7 +2596,7 @@
       "Name": "Clovemary for Remembering",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "CosmeticCompletion1",
@@ -2671,7 +2676,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "GadgetCompletion1",
@@ -2719,7 +2724,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "LacunaCompleted",
@@ -2741,7 +2746,7 @@
       "ID": "NoCritterSump",
       "SetID": "a9e499d",
       "Name": "Wildlife Protection",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 25,
       "UsersEstimate": 8
     },
@@ -2911,7 +2916,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "WarwickDefeated",
@@ -2951,14 +2956,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 941,
+      "Progressed": 942,
       "Completed": 6
     }
   ],
@@ -2966,8 +2971,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-11-28T23:08:48.7953965+00:00",
+  "LastChanged_Achievements": "2023-11-29T00:08:44.6663217+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.4880941+00:00",
-  "LastUpdate_Ratings": "2023-11-28T22:58:59.0910392+00:00",
-  "LastUpdate_Achievements": "2023-11-28T23:08:48.7954334+00:00"
+  "LastUpdate_Ratings": "2023-11-28T23:58:53.8861945+00:00",
+  "LastUpdate_Achievements": "2023-11-29T00:08:44.6663649+00:00"
 }

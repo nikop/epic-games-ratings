@@ -57,7 +57,7 @@
   "Tags": [],
   "EOS_Progressed": 665,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 362,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1520,9 +1520,9 @@
       "ID": "achievement_14",
       "SetID": "jnappp",
       "Name": "Vehicle Builder",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 25,
-      "UsersEstimate": 246
+      "UsersEstimate": 253
     },
     {
       "ID": "achievement_15",
@@ -1656,9 +1656,9 @@
       "ID": "achievement_6",
       "SetID": "jnappp",
       "Name": "Keepin it real",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 20
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_7",
@@ -1697,8 +1697,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-11-28T20:00:54.5834404+00:00",
-  "LastChanged_Achievements": "2023-11-28T23:09:14.7693575+00:00",
+  "LastChanged_Achievements": "2023-11-29T00:09:10.0901581+00:00",
   "LastUpdate_AppInfo": "2023-11-28T21:56:52.2952246+00:00",
-  "LastUpdate_Ratings": "2023-11-28T22:59:33.8633234+00:00",
-  "LastUpdate_Achievements": "2023-11-28T23:09:14.7693765+00:00"
+  "LastUpdate_Ratings": "2023-11-28T23:59:28.0062537+00:00",
+  "LastUpdate_Achievements": "2023-11-29T00:09:10.0901817+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4417,
+  "EOS_Progressed": 4420,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7900,6 +7900,11 @@
       "Time": "2023-11-28T23:04:31.3347507+00:00",
       "NumProgressed": 4417,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-29T00:04:26.6114649+00:00",
+      "NumProgressed": 4420,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7911,7 +7916,7 @@
       "Name": "Start with a bang!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "Ach002",
@@ -7951,7 +7956,7 @@
       "Name": "Time to pay up!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "Ach007",
@@ -7959,7 +7964,7 @@
       "Name": "Who\u0027s the boss now?",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "Ach008",
@@ -8087,7 +8092,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "Ach024",
@@ -8103,7 +8108,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "Ach026",
@@ -8151,7 +8156,7 @@
       "Name": "Perfect Parry",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "Ach032",
@@ -8159,7 +8164,7 @@
       "Name": "Perfecter Parry-er!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "Ach033",
@@ -8287,7 +8292,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "Ach049",
@@ -8478,13 +8483,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4417,
+      "Progressed": 4420,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2938,
+      "Progressed": 2941,
       "Completed": 1930
     }
   ],
@@ -8492,8 +8497,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-28T23:04:31.3347503+00:00",
+  "LastChanged_Achievements": "2023-11-29T00:04:26.6114645+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-11-28T22:57:25.7258843+00:00",
-  "LastUpdate_Achievements": "2023-11-28T23:04:31.334903+00:00"
+  "LastUpdate_Ratings": "2023-11-28T23:57:21.0793712+00:00",
+  "LastUpdate_Achievements": "2023-11-29T00:04:26.6115409+00:00"
 }

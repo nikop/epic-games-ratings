@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3066,
+  "EOS_Progressed": 3071,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -4551,6 +4551,11 @@
       "Time": "2023-11-28T22:05:41.906756+00:00",
       "NumProgressed": 3066,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-29T00:05:49.8530164+00:00",
+      "NumProgressed": 3071,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -4570,7 +4575,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "FALLEN_TREE",
@@ -4586,7 +4591,7 @@
       "Name": "Helping the little ones",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "MOVE_ON",
@@ -4594,7 +4599,7 @@
       "Name": "The will to move on",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "REUNION",
@@ -4602,7 +4607,7 @@
       "Name": "Reunion",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "SLIDERS",
@@ -4634,7 +4639,7 @@
       "Name": "Stronger together",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "THE_END",
@@ -4658,14 +4663,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3066,
+      "Progressed": 3071,
       "Completed": 6
     }
   ],
@@ -4673,8 +4678,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-11-28T23:05:53.4805355+00:00",
+  "LastChanged_Achievements": "2023-11-29T00:05:49.853016+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:11.4172753+00:00",
-  "LastUpdate_Ratings": "2023-11-28T22:59:05.2496821+00:00",
-  "LastUpdate_Achievements": "2023-11-28T23:05:53.480563+00:00"
+  "LastUpdate_Ratings": "2023-11-28T23:58:59.9187143+00:00",
+  "LastUpdate_Achievements": "2023-11-29T00:05:49.8530512+00:00"
 }

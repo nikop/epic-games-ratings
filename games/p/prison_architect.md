@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~199 |
 | ... It's What You Can Prove | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 198,598 (Ranked 75)  
+Progressed: 198,602 (Ranked 75)  
 Completed: 11 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,6 +246,7 @@ Completed: 11 (0.01%) (Ranked 343)
 | 2023-11-26 | 198,020 | 11 |
 | 2023-11-27 | 198,331 | 11 |
 | 2023-11-28 | 198,598 | 11 |
+| 2023-11-29 | 198,602 | 11 |
 ## Awards
 Max (Great for Beginners): 583  (Ranked 199)  
 Sum: 4,488 (Ranked 146)  

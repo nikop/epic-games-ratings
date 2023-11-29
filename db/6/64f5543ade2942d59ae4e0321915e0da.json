@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -443,9 +443,9 @@
       "ID": "AC_DEATH_1",
       "SetID": "16i2akc",
       "Name": "Corpse",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "AC_DEATH_2",
@@ -507,9 +507,9 @@
       "ID": "AC_DISTANCE_3",
       "SetID": "16i2akc",
       "Name": "Voyage",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 45,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -642,8 +642,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-28T23:03:28.1714693+00:00",
+  "LastChanged_Achievements": "2023-11-29T00:03:23.0484078+00:00",
   "LastUpdate_AppInfo": "2023-11-28T18:57:05.8641658+00:00",
-  "LastUpdate_Ratings": "2023-11-28T22:59:26.4754095+00:00",
-  "LastUpdate_Achievements": "2023-11-28T23:03:28.171496+00:00"
+  "LastUpdate_Ratings": "2023-11-28T23:59:20.8341569+00:00",
+  "LastUpdate_Achievements": "2023-11-29T00:03:23.0484368+00:00"
 }

@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1212,
+  "EOS_Progressed": 1213,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2652,6 +2652,11 @@
       "Time": "2023-11-28T22:03:31.7624427+00:00",
       "NumProgressed": 1212,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T00:03:38.6161279+00:00",
+      "NumProgressed": 1213,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2664,7 +2669,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2680,7 +2685,7 @@
       "Name": "Out of control",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -2704,7 +2709,7 @@
       "Name": "Now try online",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -2814,9 +2819,9 @@
       "ID": "ML_ACHIEVEMENT_20",
       "SetID": "5k00jcd",
       "Name": "Challenge accepted!",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 182
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -2832,7 +2837,7 @@
       "Name": "The Octopus",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -2848,7 +2853,7 @@
       "Name": "The Terrordactyl",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ML_ACHIEVEMENT_25",
@@ -2904,7 +2909,7 @@
       "Name": "Shopping time!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -2920,7 +2925,7 @@
       "Name": "Spin the wheel",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -2928,7 +2933,7 @@
       "Name": "Beyond the limit",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -3000,27 +3005,27 @@
       "Name": "Mission complete",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1212,
+      "Progressed": 1213,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 880,
-      "Completed": 880
+      "Progressed": 881,
+      "Completed": 881
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-28T23:03:44.2224558+00:00",
+  "LastChanged_Achievements": "2023-11-29T00:03:38.6161275+00:00",
   "LastUpdate_AppInfo": "2023-11-23T02:56:55.439879+00:00",
-  "LastUpdate_Ratings": "2023-11-28T23:00:02.3122138+00:00",
-  "LastUpdate_Achievements": "2023-11-28T23:03:44.2224971+00:00"
+  "LastUpdate_Ratings": "2023-11-28T23:59:56.1377376+00:00",
+  "LastUpdate_Achievements": "2023-11-29T00:03:38.6161623+00:00"
 }

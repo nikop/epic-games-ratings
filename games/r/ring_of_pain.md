@@ -44,6 +44,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | The Bestiary | 0.30% | ~721 |
 | Shootout | 0.30% | ~721 |
 | Stone Touch | 0.30% | ~721 |
+| Doing Time | 0.30% | ~721 |
 | Toxic | 0.30% | ~721 |
 | New Perspectives | 0.30% | ~721 |
 | Shadow Walker | 0.30% | ~721 |
@@ -62,7 +63,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stop Hitting Yourself | 0.20% | ~481 |
 | Illuminate, Eliminate | 0.20% | ~481 |
 | Chain Reaction | 0.20% | ~481 |
-| Doing Time | 0.20% | ~481 |
 | Spreading Plague | 0.20% | ~481 |
 | Acid Bath | 0.20% | ~481 |
 | Antivenom | 0.20% | ~481 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,354 (Ranked 62)  
+Progressed: 240,355 (Ranked 62)  
 Completed: 291 (0.12%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -368,6 +368,7 @@ Completed: 291 (0.12%) (Ranked 280)
 | 2023-11-26 | 240,273 | 291 |
 | 2023-11-27 | 240,313 | 291 |
 | 2023-11-28 | 240,354 | 291 |
+| 2023-11-29 | 240,355 | 291 |
 ## Awards
 Max (Great for Beginners): 1,534  (Ranked 131)  
 Sum: 13,232 (Ranked 78)  

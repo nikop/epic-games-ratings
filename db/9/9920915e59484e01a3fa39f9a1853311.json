@@ -2,6 +2,9 @@
   "ID": "9920915e59484e01a3fa39f9a1853311",
   "Name": "Starship Troopers: Extermination",
   "ProductSlug": "starship-troopers-extermination-57f59d",
+  "Ranking_Rating": 1048,
+  "Ranking_Popularity": 557,
+  "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 493,
@@ -19,7 +22,15 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "RatingHistory": [],
+  "Rating": 3.42,
+  "RatingHistory": [
+    {
+      "Time": "2023-11-28T23:59:42.197719+00:00",
+      "Rating": 3.42,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
@@ -35,7 +46,9 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2023-11-22T04:01:03.8575668+00:00",
+  "FirstSeenRating": "2023-11-28T23:59:42.1977188+00:00",
+  "LastChanged": "2023-11-28T23:59:42.1977189+00:00",
   "LastUpdate_AppInfo": "2023-11-28T18:57:06.5239113+00:00",
-  "LastUpdate_Ratings": "2023-11-28T22:59:47.7871099+00:00",
-  "LastUpdate_Achievements": "2023-11-28T23:05:04.3790601+00:00"
+  "LastUpdate_Ratings": "2023-11-28T23:59:42.1977197+00:00",
+  "LastUpdate_Achievements": "2023-11-29T00:04:59.7465328+00:00"
 }

@@ -1,7 +1,7 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.68 (Ranked 254)  
+Rating: 4.67 (Ranked 275)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -134,8 +134,8 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-28 | 5,957 | 0 |
 ## Awards
 Max (Diverse Characters): 26  (Ranked 516)  
-Sum: 95 (Ranked 450)  
-Diff (max vs sum): 66  
+Sum: 95 (Ranked 451)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |

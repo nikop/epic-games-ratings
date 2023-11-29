@@ -21,7 +21,7 @@
 | Bonds of Enmity | 53.00% | ~179 |
 | Helpful Heart | 53.00% | ~179 |
 | Master of the Skies | 49.00% | ~166 |
-| Counter Specialist | 48.00% | ~162 |
+| Counter Specialist | 49.00% | ~166 |
 | Axer of Auspice | 44.00% | ~149 |
 | Fair Means or Foul | 43.00% | ~145 |
 | Mighty Marmelizer | 42.00% | ~142 |

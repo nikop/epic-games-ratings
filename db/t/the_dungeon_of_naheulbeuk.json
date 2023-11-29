@@ -1419,9 +1419,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 240228,
+  "EOS_Progressed": 240238,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1466,
+  "EOS_NewPlayers": 1471,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20329,6 +20329,11 @@
       "Time": "2023-11-28T23:08:43.2384597+00:00",
       "NumProgressed": 240228,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-29T00:08:39.0785848+00:00",
+      "NumProgressed": 240238,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -20396,7 +20401,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9609
+      "UsersEstimate": 9610
     },
     {
       "ID": "Chapter3",
@@ -20740,7 +20745,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19218
+      "UsersEstimate": 19219
     },
     {
       "ID": "DwarfElf15Support",
@@ -20772,7 +20777,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12011
+      "UsersEstimate": 12012
     },
     {
       "ID": "ElfEpic",
@@ -20788,7 +20793,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 84080
+      "UsersEstimate": 84083
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -20804,7 +20809,7 @@
       "Name": "GG EZ",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9609
+      "UsersEstimate": 9610
     },
     {
       "ID": "EndCombatOneHp",
@@ -20812,7 +20817,7 @@
       "Name": "DM intervention",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9609
+      "UsersEstimate": 9610
     },
     {
       "ID": "EndGameCursed",
@@ -20988,7 +20993,7 @@
       "Name": "Speedrun",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12011
+      "UsersEstimate": 12012
     },
     {
       "ID": "SupportCount4",
@@ -21036,28 +21041,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9609
+      "UsersEstimate": 9610
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 240228,
+      "Progressed": 240238,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 240228,
+      "Progressed": 240238,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-28T10:58:38.4570753+00:00",
-  "LastChanged_Achievements": "2023-11-28T23:08:43.2384595+00:00",
+  "LastChanged_Achievements": "2023-11-29T00:08:39.0785845+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:00.6949957+00:00",
-  "LastUpdate_Ratings": "2023-11-28T22:58:48.335582+00:00",
-  "LastUpdate_Achievements": "2023-11-28T23:08:43.2385916+00:00"
+  "LastUpdate_Ratings": "2023-11-28T23:58:43.3278383+00:00",
+  "LastUpdate_Achievements": "2023-11-29T00:08:39.0787401+00:00"
 }

@@ -751,17 +751,17 @@
       "ID": "KR4_ACHIEVEMENT_KING",
       "SetID": "caeik3h",
       "Name": "The True King",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 100,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "KR4_ACHIEVEMENT_LINIREA",
       "SetID": "caeik3h",
       "Name": "Rightful Owner",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "KR4_ACHIEVEMENT_MADAGASCAR",
@@ -1022,8 +1022,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-28T23:03:12.263207+00:00",
+  "LastChanged_Achievements": "2023-11-29T00:03:07.8017492+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:14.7123281+00:00",
-  "LastUpdate_Ratings": "2023-11-28T22:57:06.4429741+00:00",
-  "LastUpdate_Achievements": "2023-11-28T23:03:12.2632804+00:00"
+  "LastUpdate_Ratings": "2023-11-28T23:57:02.1478231+00:00",
+  "LastUpdate_Achievements": "2023-11-29T00:03:07.8018051+00:00"
 }

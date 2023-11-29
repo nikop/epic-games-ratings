@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 442,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1180,9 +1180,9 @@
       "ID": "AchvActivateProbe",
       "SetID": "1hj060c",
       "Name": "The Teleprobe",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 186
     },
     {
       "ID": "AchvAllMemories",
@@ -1356,25 +1356,25 @@
       "ID": "AchvReachCamp",
       "SetID": "1hj060c",
       "Name": "The Camp",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 230
     },
     {
       "ID": "AchvReachCity",
       "SetID": "1hj060c",
       "Name": "The City",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 164
     },
     {
       "ID": "AchvReachCondor",
       "SetID": "1hj060c",
       "Name": "The Condor",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 110
     },
     {
       "ID": "AchvSurvivors",
@@ -1419,8 +1419,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-28T23:08:29.9610397+00:00",
+  "LastChanged_Achievements": "2023-11-29T00:08:25.5957575+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-11-28T22:58:22.387294+00:00",
-  "LastUpdate_Achievements": "2023-11-28T23:08:29.9610631+00:00"
+  "LastUpdate_Ratings": "2023-11-28T23:58:17.9022618+00:00",
+  "LastUpdate_Achievements": "2023-11-29T00:08:25.5957801+00:00"
 }

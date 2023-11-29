@@ -2,12 +2,12 @@
   "ID": "b7773a08a6fa41e3a0fbc4c1e51c95a4",
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
-  "Ranking_Rating": 254,
+  "Ranking_Rating": 275,
   "Ranking_Popularity": 516,
-  "Ranking_PopularitySum": 450,
+  "Ranking_PopularitySum": 451,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.68,
+  "Rating": 4.67,
   "RatingHistory": [
     {
       "Time": "2023-07-03T02:21:27.1613315+00:00",
@@ -623,6 +623,12 @@
     {
       "Time": "2023-11-28T19:58:15.0331043+00:00",
       "Rating": 4.68,
+      "NumberOfAwards": 95,
+      "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2023-11-28T23:57:49.3344802+00:00",
+      "Rating": 4.67,
       "NumberOfAwards": 95,
       "NumberOfAwardsMax": 26
     }
@@ -6859,9 +6865,9 @@
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2023-11-28T19:58:15.0331041+00:00",
-  "LastChanged_Achievements": "2023-11-28T23:04:47.8107356+00:00",
+  "LastChanged": "2023-11-28T23:57:49.33448+00:00",
+  "LastChanged_Achievements": "2023-11-29T00:04:43.4565739+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:16.1347365+00:00",
-  "LastUpdate_Ratings": "2023-11-28T22:57:52.8445311+00:00",
-  "LastUpdate_Achievements": "2023-11-28T23:04:47.8108245+00:00"
+  "LastUpdate_Ratings": "2023-11-28T23:57:49.3344807+00:00",
+  "LastUpdate_Achievements": "2023-11-29T00:04:43.4566335+00:00"
 }

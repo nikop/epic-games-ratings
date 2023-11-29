@@ -9,7 +9,7 @@
 | Debris Gatherer | 60.00% | ~181 |
 | Beginner Decorator | 49.00% | ~148 |
 | Helpful Bot-terfly | 46.00% | ~139 |
-| Cozy Autumn | 38.00% | ~115 |
+| Cozy Autumn | 39.00% | ~118 |
 | Bunny Party | 35.00% | ~106 |
 | Stylish Decorator | 31.00% | ~94 |
 | Ace Decorator | 23.00% | ~69 |

@@ -8,7 +8,7 @@ Rating: 4.62 (Ranked 365)
 | Time Heals All Wounds | 33.00% | ~311 |
 | The Mysterious Stranger | 26.00% | ~245 |
 | Rail Rat | 26.00% | ~245 |
-| Immaculate Aim | 23.00% | ~216 |
+| Immaculate Aim | 23.00% | ~217 |
 | Make Up For Lost Time | 22.00% | ~207 |
 | Time Flies | 22.00% | ~207 |
 | The Prince in Heels | 22.00% | ~207 |
@@ -26,9 +26,9 @@ Rating: 4.62 (Ranked 365)
 | Right On Time | 19.00% | ~179 |
 | Golem Chaser | 19.00% | ~179 |
 | Check Your Pulse | 19.00% | ~179 |
-| The Man Who Shattered Time | 18.00% | ~169 |
-| The Loose Cannon | 18.00% | ~169 |
-| The Family Fortune | 18.00% | ~169 |
+| The Man Who Shattered Time | 18.00% | ~170 |
+| The Loose Cannon | 18.00% | ~170 |
+| The Family Fortune | 18.00% | ~170 |
 | Street Style | 17.00% | ~160 |
 | Whiz Kid | 15.00% | ~141 |
 | Cartographer | 15.00% | ~141 |
@@ -47,7 +47,7 @@ Rating: 4.62 (Ranked 365)
 | Corin Goes Home | 8.00% | ~75 |
 | Sartorialist | 8.00% | ~75 |
 | Golem Hunter | 7.00% | ~66 |
-| Clovemary for Remembering | 6.00% | ~56 |
+| Clovemary for Remembering | 6.00% | ~57 |
 | Hexlock for Protection | 5.00% | ~47 |
 | Rungs Was Right | 5.00% | ~47 |
 | Wunderkind | 2.00% | ~19 |
@@ -55,11 +55,11 @@ Rating: 4.62 (Ranked 365)
 | Thinking Two Steps Ahead | 1.00% | ~9 |
 | A Lesson in Precision | 1.00% | ~9 |
 | No Time to Waste | 1.00% | ~9 |
-| Wildlife Protection | 0.90% | ~8 |
+| Wildlife Protection | 0.80% | ~8 |
 | Going to Live Forever | 0.60% | ~6 |
 | Raw Talent | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 941 (Ranked 270)  
+Progressed: 942 (Ranked 270)  
 Completed: 6 (0.64%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,6 +198,7 @@ Completed: 6 (0.64%) (Ranked 187)
 | 2023-11-25 | 936 | 6 |
 | 2023-11-26 | 938 | 6 |
 | 2023-11-27 | 941 | 6 |
+| 2023-11-29 | 942 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

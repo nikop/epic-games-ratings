@@ -3464,9 +3464,9 @@
       "ID": "LEVEL_014",
       "SetID": "3khpmem",
       "Name": "Not lonely anymore",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 166
+      "UsersEstimate": 174
     },
     {
       "ID": "LEVEL_015",
@@ -3480,9 +3480,9 @@
       "ID": "LEVEL_016",
       "SetID": "3khpmem",
       "Name": "The beach is right there",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 150
+      "UsersEstimate": 158
     },
     {
       "ID": "LEVEL_017",
@@ -3545,8 +3545,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-11-28T23:04:28.7796106+00:00",
+  "LastChanged_Achievements": "2023-11-29T00:04:23.890128+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:17.2540089+00:00",
-  "LastUpdate_Ratings": "2023-11-28T22:59:13.23144+00:00",
-  "LastUpdate_Achievements": "2023-11-28T23:04:28.7796364+00:00"
+  "LastUpdate_Ratings": "2023-11-28T23:59:07.7639422+00:00",
+  "LastUpdate_Achievements": "2023-11-29T00:04:23.8901579+00:00"
 }

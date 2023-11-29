@@ -6,20 +6,20 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~311,195 |
-| Jeef Skeejj | 44.00% | ~207,464 |
-| Careful planning | 39.00% | ~183,888 |
-| Second Coming | 34.00% | ~160,313 |
-| Jeef Skagg | 30.00% | ~141,452 |
-| Mother | 25.00% | ~117,877 |
-| In space, no one can hear you scream | 24.00% | ~113,162 |
+| The Shutdown | 66.00% | ~311,197 |
+| Jeef Skeejj | 44.00% | ~207,465 |
+| Careful planning | 39.00% | ~183,889 |
+| Second Coming | 34.00% | ~160,314 |
+| Jeef Skagg | 30.00% | ~141,453 |
+| Mother | 25.00% | ~117,878 |
+| In space, no one can hear you scream | 24.00% | ~113,163 |
 | Chapter I: Echoes | 22.00% | ~103,732 |
 | Excelsior Rule | 22.00% | ~103,732 |
 | Things persisted in not being what they seemed | 20.00% | ~94,302 |
-| Knightmare Frames | 15.00% | ~70,726 |
-| May His passing cleanse the world | 15.00% | ~70,726 |
-| Chapter II: Fallible Flesh | 15.00% | ~70,726 |
-| Pope Zenon | 15.00% | ~70,726 |
+| Knightmare Frames | 15.00% | ~70,727 |
+| May His passing cleanse the world | 15.00% | ~70,727 |
+| Chapter II: Fallible Flesh | 15.00% | ~70,727 |
+| Pope Zenon | 15.00% | ~70,727 |
 | Tetsuo | 11.00% | ~51,866 |
 | Plan for the worst | 11.00% | ~51,866 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~47,151 |
@@ -31,24 +31,24 @@ Number of Ratings: 1,003  (23.09.2022)
 | Admiral Okonkwo | 7.00% | ~33,006 |
 | The Survivalists | 7.00% | ~33,006 |
 | The Tech Specialist | 7.00% | ~33,006 |
-| Chapter V: Memories of None | 6.00% | ~28,290 |
-| Meet your maker | 6.00% | ~28,290 |
-| The Impersonator | 6.00% | ~28,290 |
-| The Kid | 6.00% | ~28,290 |
-| The Evangelist | 6.00% | ~28,290 |
-| The Inquisitor | 6.00% | ~28,290 |
-| The Ace Pilot | 6.00% | ~28,290 |
-| The Tech Med | 6.00% | ~28,290 |
-| The Mech Soldier | 6.00% | ~28,290 |
-| The lucky charm | 6.00% | ~28,290 |
-| The Anonymous | 6.00% | ~28,290 |
-| The Smuggler | 6.00% | ~28,290 |
-| The Crazy Repairman | 6.00% | ~28,290 |
-| The Weasel | 6.00% | ~28,290 |
-| Kill the Doctor | 5.00% | ~23,575 |
-| Forsaken | 5.00% | ~23,575 |
-| Mercy | 5.00% | ~23,575 |
-| Jericho Rule | 5.00% | ~23,575 |
+| Chapter V: Memories of None | 6.00% | ~28,291 |
+| Meet your maker | 6.00% | ~28,291 |
+| The Impersonator | 6.00% | ~28,291 |
+| The Kid | 6.00% | ~28,291 |
+| The Evangelist | 6.00% | ~28,291 |
+| The Inquisitor | 6.00% | ~28,291 |
+| The Ace Pilot | 6.00% | ~28,291 |
+| The Tech Med | 6.00% | ~28,291 |
+| The Mech Soldier | 6.00% | ~28,291 |
+| The lucky charm | 6.00% | ~28,291 |
+| The Anonymous | 6.00% | ~28,291 |
+| The Smuggler | 6.00% | ~28,291 |
+| The Crazy Repairman | 6.00% | ~28,291 |
+| The Weasel | 6.00% | ~28,291 |
+| Kill the Doctor | 5.00% | ~23,576 |
+| Forsaken | 5.00% | ~23,576 |
+| Mercy | 5.00% | ~23,576 |
+| Jericho Rule | 5.00% | ~23,576 |
 | Geno Rule | 3.00% | ~14,145 |
 | Hammer Rule | 3.00% | ~14,145 |
 | Survivor | 2.00% | ~9,430 |
@@ -61,6 +61,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | The greatest admiral of all time | 0.50% | ~2,358 |
 | Soldiers of Fortune | 0.40% | ~62 |
 | The Extractor | 0.20% | ~31 |
+| The Executioner | 0.20% | ~31 |
 | Liberator | 0.10% | ~472 |
 | The Art of War | 0.10% | ~472 |
 | Geno Mastery | 0.10% | ~472 |
@@ -76,7 +77,6 @@ Number of Ratings: 1,003  (23.09.2022)
 | Excelsior Supremacy | 0.10% | ~472 |
 | The Blade | 0.10% | ~15 |
 | The Ghost | 0.10% | ~15 |
-| The Executioner | 0.10% | ~15 |
 | Savior | 0.10% | ~15 |
 | The God of War | 0.10% | ~15 |
 | Horus Mastery | 0.10% | ~15 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~15 |
 | Kronos Rule | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 471,508 (Ranked 40)  
+Progressed: 471,511 (Ranked 40)  
 Completed: 20 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,6 +309,7 @@ Completed: 20 (0.00%) (Ranked 363)
 | 2023-11-26 | 471,412 | 20 |
 | 2023-11-27 | 471,462 | 20 |
 | 2023-11-28 | 471,508 | 20 |
+| 2023-11-29 | 471,511 | 20 |
 ## Awards
 Max (Character Customization): 223  (Ranked 276)  
 Sum: 245 (Ranked 383)  

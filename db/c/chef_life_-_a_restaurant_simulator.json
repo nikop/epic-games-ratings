@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 709,
+  "EOS_Progressed": 710,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3132,6 +3132,11 @@
       "Time": "2023-11-28T23:08:26.5759592+00:00",
       "NumProgressed": 709,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T00:08:22.3818038+00:00",
+      "NumProgressed": 710,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3279,7 +3284,7 @@
       "Name": "Sous-Chef",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Level20",
@@ -3311,7 +3316,7 @@
       "Name": "Rolling in Dough",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "OpenRestaurant",
@@ -3319,7 +3324,7 @@
       "Name": "The Big Day",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "Packing20",
@@ -3455,14 +3460,14 @@
       "Name": "Well-Stocked Kitchen",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     }
   ],
   "AchievementSets": [
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 709,
+      "Progressed": 710,
       "Completed": 0
     }
   ],
@@ -3470,8 +3475,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-11-28T23:08:26.5759588+00:00",
+  "LastChanged_Achievements": "2023-11-29T00:08:22.3818032+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:20.506363+00:00",
-  "LastUpdate_Ratings": "2023-11-28T22:57:31.6721058+00:00",
-  "LastUpdate_Achievements": "2023-11-28T23:08:26.5760039+00:00"
+  "LastUpdate_Ratings": "2023-11-28T23:57:27.7091005+00:00",
+  "LastUpdate_Achievements": "2023-11-29T00:08:22.3818378+00:00"
 }

@@ -1044,9 +1044,9 @@
       "ID": "The_Warlord",
       "SetID": "gl7plp",
       "Name": "The Warlord",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 141
+      "UsersEstimate": 149
     },
     {
       "ID": "The_things_they_print_nowadays",
@@ -1133,8 +1133,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-11-28T23:05:47.0148784+00:00",
+  "LastChanged_Achievements": "2023-11-29T00:05:43.3612831+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:12.8827125+00:00",
-  "LastUpdate_Ratings": "2023-11-28T22:57:14.5142076+00:00",
-  "LastUpdate_Achievements": "2023-11-28T23:05:47.0149254+00:00"
+  "LastUpdate_Ratings": "2023-11-28T23:57:09.9400047+00:00",
+  "LastUpdate_Achievements": "2023-11-29T00:05:43.3613123+00:00"
 }
