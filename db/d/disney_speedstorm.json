@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_Rating": 737,
   "Ranking_Popularity": 375,
-  "Ranking_PopularitySum": 302,
+  "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 17,
@@ -1489,10 +1489,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 677,
       "NumberOfAwardsMax": 93
+    },
+    {
+      "Time": "2023-11-29T11:59:11.4963161+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 680,
+      "NumberOfAwardsMax": 93
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 677,
+  "NumberOfAwards": 680,
   "NumberOfAwardsMax": 93,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1500,7 +1506,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 78
+      "Count": 81
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1569,10 +1575,10 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 316385,
-  "EOS_Completed": 346,
-  "EOS_NewPlayers": 9034,
-  "EOS_NewCompleters": 28,
+  "EOS_Progressed": 316407,
+  "EOS_Completed": 347,
+  "EOS_NewPlayers": 9026,
+  "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
     {
@@ -14169,6 +14175,11 @@
       "Time": "2023-11-29T11:06:33.3297016+00:00",
       "NumProgressed": 316385,
       "NumCompleted": 346
+    },
+    {
+      "Time": "2023-11-29T12:05:07.2125782+00:00",
+      "NumProgressed": 316407,
+      "NumCompleted": 347
     }
   ],
   "TotalAchievements": 24,
@@ -14188,7 +14199,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 15819
+      "UsersEstimate": 15820
     },
     {
       "ID": "11",
@@ -14220,7 +14231,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 22147
+      "UsersEstimate": 22148
     },
     {
       "ID": "15",
@@ -14236,7 +14247,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 0.9,
       "XP": 45,
-      "UsersEstimate": 2847
+      "UsersEstimate": 2848
     },
     {
       "ID": "17",
@@ -14244,7 +14255,7 @@
       "Name": "BE OUR GUEST",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 2847
+      "UsersEstimate": 2848
     },
     {
       "ID": "18",
@@ -14276,7 +14287,7 @@
       "Name": "PROTECTED",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 12655
+      "UsersEstimate": 12656
     },
     {
       "ID": "21",
@@ -14332,7 +14343,7 @@
       "Name": "ROOKIE",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 34802
+      "UsersEstimate": 34805
     },
     {
       "ID": "6",
@@ -14340,7 +14351,7 @@
       "Name": "PRO",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 12655
+      "UsersEstimate": 12656
     },
     {
       "ID": "7",
@@ -14348,7 +14359,7 @@
       "Name": "MASTER",
       "Percentage": 0.9,
       "XP": 65,
-      "UsersEstimate": 2847
+      "UsersEstimate": 2848
     },
     {
       "ID": "8",
@@ -14364,23 +14375,23 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 2847
+      "UsersEstimate": 2848
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 316385,
-      "Completed": 346
+      "Progressed": 316407,
+      "Completed": 347
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged": "2023-11-29T06:59:43.0280765+00:00",
-  "LastChanged_Achievements": "2023-11-29T11:06:33.3297014+00:00",
+  "LastChanged": "2023-11-29T11:59:11.4963159+00:00",
+  "LastChanged_Achievements": "2023-11-29T12:05:07.2125774+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:04.1206554+00:00",
-  "LastUpdate_Ratings": "2023-11-29T11:00:18.2730235+00:00",
-  "LastUpdate_Achievements": "2023-11-29T11:06:33.3297982+00:00"
+  "LastUpdate_Ratings": "2023-11-29T11:59:11.4963166+00:00",
+  "LastUpdate_Achievements": "2023-11-29T12:05:07.2126517+00:00"
 }

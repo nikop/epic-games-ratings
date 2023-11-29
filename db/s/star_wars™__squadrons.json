@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24731,
+  "EOS_Progressed": 24735,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2554,
+  "EOS_NewPlayers": 2546,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8339,6 +8339,11 @@
       "Time": "2023-11-29T11:10:45.710995+00:00",
       "NumProgressed": 24731,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T12:09:51.8433097+00:00",
+      "NumProgressed": 24735,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -8399,7 +8404,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 4946
+      "UsersEstimate": 4947
     },
     {
       "ID": "achievement_16",
@@ -8503,7 +8508,7 @@
       "Name": "Unkillable",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1978
+      "UsersEstimate": 1979
     },
     {
       "ID": "achievement_28",
@@ -8559,7 +8564,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 4699
+      "UsersEstimate": 4700
     },
     {
       "ID": "achievement_34",
@@ -8575,7 +8580,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 23494
+      "UsersEstimate": 23498
     },
     {
       "ID": "achievement_36",
@@ -8591,7 +8596,7 @@
       "Name": "Asset Secured",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3215
+      "UsersEstimate": 3216
     },
     {
       "ID": "achievement_38",
@@ -8607,7 +8612,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5935
+      "UsersEstimate": 5936
     },
     {
       "ID": "achievement_4",
@@ -8695,7 +8700,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3215
+      "UsersEstimate": 3216
     },
     {
       "ID": "achievement_7",
@@ -8711,7 +8716,7 @@
       "Name": "A Better Idea",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5935
+      "UsersEstimate": 5936
     },
     {
       "ID": "achievement_9",
@@ -8726,7 +8731,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 24731,
+      "Progressed": 24735,
       "Completed": 1
     }
   ],
@@ -8734,8 +8739,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-11-29T11:10:45.7109945+00:00",
+  "LastChanged_Achievements": "2023-11-29T12:09:51.843309+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:13.346216+00:00",
-  "LastUpdate_Ratings": "2023-11-29T11:03:58.6453937+00:00",
-  "LastUpdate_Achievements": "2023-11-29T11:10:45.7110644+00:00"
+  "LastUpdate_Ratings": "2023-11-29T12:03:16.0444353+00:00",
+  "LastUpdate_Achievements": "2023-11-29T12:09:51.8433888+00:00"
 }

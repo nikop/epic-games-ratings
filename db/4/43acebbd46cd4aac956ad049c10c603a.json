@@ -157,9 +157,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 768,
+  "EOS_Progressed": 769,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 333,
+  "EOS_NewPlayers": 334,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1692,6 +1692,11 @@
       "Time": "2023-11-29T11:08:51.3064741+00:00",
       "NumProgressed": 768,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T12:08:27.5830204+00:00",
+      "NumProgressed": 769,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1742,9 +1747,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 23
     },
     {
       "ID": "BreakTheLoop",
@@ -1822,9 +1827,9 @@
       "ID": "Excellent",
       "SetID": "1n308hc",
       "Name": "Excellent",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "FloodedValley",
@@ -1926,9 +1931,9 @@
       "ID": "MuseumVisitor",
       "SetID": "1n308hc",
       "Name": "Museum Visitor",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 23
     },
     {
       "ID": "NewBeginning",
@@ -1950,9 +1955,9 @@
       "ID": "NotWhatItSeems",
       "SetID": "1n308hc",
       "Name": "Not What It Seems",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Overload",
@@ -1982,9 +1987,9 @@
       "ID": "PuzzleFiend",
       "SetID": "1n308hc",
       "Name": "Puzzle Fiend",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "RemnantsOfThePast",
@@ -2118,9 +2123,9 @@
       "ID": "TouchGrass",
       "SetID": "1n308hc",
       "Name": "Touch Grass",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TrevorsBiographer",
@@ -2175,7 +2180,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 768,
+      "Progressed": 769,
       "Completed": 1
     }
   ],
@@ -2183,8 +2188,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-28T04:58:21.1400637+00:00",
-  "LastChanged_Achievements": "2023-11-29T11:08:51.3064736+00:00",
+  "LastChanged_Achievements": "2023-11-29T12:08:27.5830199+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6295228+00:00",
-  "LastUpdate_Ratings": "2023-11-29T10:59:58.7340841+00:00",
-  "LastUpdate_Achievements": "2023-11-29T11:08:51.3065372+00:00"
+  "LastUpdate_Ratings": "2023-11-29T11:58:58.5348337+00:00",
+  "LastUpdate_Achievements": "2023-11-29T12:08:27.5830713+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -293,7 +293,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3373,
+  "EOS_Progressed": 3374,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
@@ -5963,6 +5963,11 @@
       "Time": "2023-11-29T11:06:25.6998507+00:00",
       "NumProgressed": 3373,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T12:05:01.6382953+00:00",
+      "NumProgressed": 3374,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6038,7 +6043,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "ACH_BASE_19",
@@ -6054,7 +6059,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "ACH_BASE_21",
@@ -6078,7 +6083,7 @@
       "Name": "Space Society",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "ACH_BASE_24",
@@ -6278,7 +6283,7 @@
       "Name": "Ain\u0027t Nobody Got Time for That",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "ACH_BASE_5",
@@ -6429,13 +6434,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1557,
+      "Progressed": 1558,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3373,
+      "Progressed": 3374,
       "Completed": 0
     }
   ],
@@ -6443,8 +6448,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-10-25T12:00:08.7067292+00:00",
-  "LastChanged_Achievements": "2023-11-29T11:06:25.6998503+00:00",
+  "LastChanged_Achievements": "2023-11-29T12:05:01.6382948+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:09.2779829+00:00",
-  "LastUpdate_Ratings": "2023-11-29T11:00:52.391549+00:00",
-  "LastUpdate_Achievements": "2023-11-29T11:06:25.6999365+00:00"
+  "LastUpdate_Ratings": "2023-11-29T11:59:35.358372+00:00",
+  "LastUpdate_Achievements": "2023-11-29T12:05:01.6383606+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "50b6612049324d0faf8642014139b082",
   "Name": "EA SPORTS\u2122 WRC",
   "ProductSlug": "wrc-23",
-  "Ranking_Rating": 838,
+  "Ranking_Rating": 906,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 290,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.3,
+  "Rating": 4.21,
   "RatingHistory": [
     {
       "Time": "2023-11-25T01:40:43.9281936+00:00",
@@ -49,6 +49,12 @@
       "Rating": 4.3,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-29T12:00:09.1025123+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -57,7 +63,7 @@
   "Tags": [],
   "EOS_Progressed": 668,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 352,
+  "EOS_NewPlayers": 348,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1711,9 +1717,9 @@
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged": "2023-11-28T20:00:54.5834404+00:00",
-  "LastChanged_Achievements": "2023-11-29T11:10:38.6179108+00:00",
+  "LastChanged": "2023-11-29T12:00:09.1025016+00:00",
+  "LastChanged_Achievements": "2023-11-29T12:09:46.0877315+00:00",
   "LastUpdate_AppInfo": "2023-11-28T21:56:52.2952246+00:00",
-  "LastUpdate_Ratings": "2023-11-29T11:01:43.1137169+00:00",
-  "LastUpdate_Achievements": "2023-11-29T11:10:38.6179373+00:00"
+  "LastUpdate_Ratings": "2023-11-29T12:00:09.1025127+00:00",
+  "LastUpdate_Achievements": "2023-11-29T12:09:46.0877552+00:00"
 }

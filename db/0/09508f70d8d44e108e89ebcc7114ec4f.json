@@ -4,7 +4,7 @@
   "ProductSlug": "match-village-5f41dd",
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 381,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 427,
+  "EOS_Progressed": 428,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.81,
+  "EOS_Completed_Percentage": 2.8,
   "EosHistory": [
     {
       "Time": "2023-05-18T11:00:53.5227902+00:00",
@@ -1454,6 +1454,11 @@
       "Time": "2023-11-28T21:08:58.3961668+00:00",
       "NumProgressed": 427,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-29T12:08:56.8390755+00:00",
+      "NumProgressed": 428,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -1465,7 +1470,7 @@
       "Name": "Aquatic Farm",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "balloon",
@@ -1473,7 +1478,7 @@
       "Name": "Balloon",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "big_house",
@@ -1481,7 +1486,7 @@
       "Name": "Big House",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "brewery",
@@ -1489,7 +1494,7 @@
       "Name": "Brewery",
       "Percentage": 85,
       "XP": 30,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "church",
@@ -1497,7 +1502,7 @@
       "Name": "Church",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "circus",
@@ -1505,7 +1510,7 @@
       "Name": "Circus",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "expedition",
@@ -1513,7 +1518,7 @@
       "Name": "Expedition",
       "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "fish_trade",
@@ -1569,7 +1574,7 @@
       "Name": "Match 3",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "match_6",
@@ -1577,7 +1582,7 @@
       "Name": "Match 6",
       "Percentage": 85,
       "XP": 25,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "match_9",
@@ -1585,7 +1590,7 @@
       "Name": "Match 9",
       "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "mill",
@@ -1593,7 +1598,7 @@
       "Name": "Mill",
       "Percentage": 81,
       "XP": 30,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "sawmill",
@@ -1601,7 +1606,7 @@
       "Name": "Sawmill",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "seaweed_farm",
@@ -1641,7 +1646,7 @@
       "Name": "Wheat farm",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "wood",
@@ -1656,14 +1661,14 @@
     {
       "ID": "ap7g2g4",
       "IsBase": true,
-      "Progressed": 427,
+      "Progressed": 428,
       "Completed": 12
     }
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-11-29T11:09:31.6119238+00:00",
+  "LastChanged_Achievements": "2023-11-29T12:08:56.839075+00:00",
   "LastUpdate_AppInfo": "2023-11-24T02:17:11.1273819+00:00",
-  "LastUpdate_Ratings": "2023-11-29T11:03:21.8109508+00:00",
-  "LastUpdate_Achievements": "2023-11-29T11:09:31.6119431+00:00"
+  "LastUpdate_Ratings": "2023-11-29T12:00:41.2834186+00:00",
+  "LastUpdate_Achievements": "2023-11-29T12:08:56.8390989+00:00"
 }

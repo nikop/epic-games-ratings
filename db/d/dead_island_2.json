@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 23,
+  "Ranking_EOS_NewPlayers": 24,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -7029,9 +7029,9 @@
       "Count": 500
     }
   ],
-  "EOS_Progressed": 727553,
+  "EOS_Progressed": 727568,
   "EOS_Completed": 2449,
-  "EOS_NewPlayers": 5251,
+  "EOS_NewPlayers": 5239,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -32559,6 +32559,11 @@
       "Time": "2023-11-29T11:09:06.1585773+00:00",
       "NumProgressed": 727553,
       "NumCompleted": 2449
+    },
+    {
+      "Time": "2023-11-29T12:08:38.2282999+00:00",
+      "NumProgressed": 727568,
+      "NumCompleted": 2449
     }
   ],
   "TotalAchievements": 51,
@@ -32578,7 +32583,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5820
+      "UsersEstimate": 5821
     },
     {
       "ID": "ach_ammo_ran",
@@ -32810,7 +32815,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5820
+      "UsersEstimate": 5821
     },
     {
       "ID": "ach_revival_tour",
@@ -32866,7 +32871,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 5820
+      "UsersEstimate": 5821
     },
     {
       "ID": "ach_the_vcla",
@@ -32977,13 +32982,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 727553,
+      "Progressed": 727568,
       "Completed": 2449
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 53095,
+      "Progressed": 53110,
       "Completed": 36613
     }
   ],
@@ -32991,8 +32996,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-29T09:57:50.35862+00:00",
-  "LastChanged_Achievements": "2023-11-29T11:09:06.1585767+00:00",
+  "LastChanged_Achievements": "2023-11-29T12:08:38.2282996+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-29T10:58:48.7461679+00:00",
-  "LastUpdate_Achievements": "2023-11-29T11:09:06.1587519+00:00"
+  "LastUpdate_Ratings": "2023-11-29T11:58:10.7130091+00:00",
+  "LastUpdate_Achievements": "2023-11-29T12:08:38.228467+00:00"
 }

@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 760,
+  "EOS_Progressed": 761,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 400,
+  "EOS_NewPlayers": 399,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1532,6 +1532,11 @@
       "Time": "2023-11-29T11:05:21.9338913+00:00",
       "NumProgressed": 760,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T12:04:15.5093506+00:00",
+      "NumProgressed": 761,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1566,9 +1571,9 @@
       "ID": "CompleteCampaignChampion",
       "SetID": "52ail55",
       "Name": "Celestant-Prime",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "CompleteCampaignLorekeeper",
@@ -1600,7 +1605,7 @@
       "Name": "Pathfinder",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "CompleteChapter10",
@@ -1638,9 +1643,9 @@
       "ID": "CompleteChapter14",
       "SetID": "52ail55",
       "Name": "For Harkanibus!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 46
     },
     {
       "ID": "CompleteChapter15",
@@ -1704,7 +1709,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "CompleteChapter5",
@@ -1839,14 +1844,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 760,
+      "Progressed": 761,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-29T11:05:21.9338911+00:00",
+  "LastChanged_Achievements": "2023-11-29T12:04:15.5093501+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-29T10:57:42.5475797+00:00",
-  "LastUpdate_Achievements": "2023-11-29T11:05:21.9339166+00:00"
+  "LastUpdate_Ratings": "2023-11-29T11:57:24.9856795+00:00",
+  "LastUpdate_Achievements": "2023-11-29T12:04:15.5093818+00:00"
 }

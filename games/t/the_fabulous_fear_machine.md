@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 23.00% | ~10 |
+| Master trainee | 22.00% | ~10 |
 | You have three wishes left | 20.00% | ~9 |
 | The battle of Great Britain | 18.00% | ~8 |
 | Jung's dream | 16.00% | ~7 |
 | Pulp! Where Monsters Dwell | 16.00% | ~7 |
-| Pulp! Terror Tales in the Night | 14.00% | ~6 |
-| A continent with chemistry | 14.00% | ~6 |
+| Pulp! Terror Tales in the Night | 13.00% | ~6 |
+| A continent with chemistry | 13.00% | ~6 |
 | Giant | 11.00% | ~5 |
 | A rival with no options | 11.00% | ~5 |
 | The happy farmer girl | 11.00% | ~5 |
@@ -26,11 +26,11 @@
 | ECO mode | 7.00% | ~3 |
 | Diagnosis: fear | 7.00% | ~3 |
 | Ambition is... blind | 7.00% | ~3 |
-| You had one wish left | 5.00% | ~2 |
-| Blood Red Island | 5.00% | ~2 |
-| Et in arcadia ego | 5.00% | ~2 |
-| The scholar | 5.00% | ~2 |
-| Welcome to Hellville | 5.00% | ~2 |
+| You had one wish left | 4.00% | ~2 |
+| Blood Red Island | 4.00% | ~2 |
+| Et in arcadia ego | 4.00% | ~2 |
+| The scholar | 4.00% | ~2 |
+| Welcome to Hellville | 4.00% | ~2 |
 | You've awakened the beast | 2.00% | ~1 |
 | Hate is... addictive | 2.00% | ~1 |
 | Blessed antennas | 2.00% | ~1 |
@@ -52,7 +52,7 @@
 | Troy is burning! | 0.00% | ~0 |
 | A new Hindenburg | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44 (Ranked 506)  
+Progressed: 45 (Ranked 505)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,3 +81,4 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-24 | 40 | 0 |
 | 2023-11-25 | 43 | 0 |
 | 2023-11-26 | 44 | 0 |
+| 2023-11-29 | 45 | 0 |

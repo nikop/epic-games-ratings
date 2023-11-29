@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,305 |
-| Off to a good start | 67.00% | ~982 |
-| Do... or do not. There is no try | 50.00% | ~733 |
-| A good blaster at your side | 31.00% | ~454 |
+| New Recruit | 90.00% | ~1,320 |
+| Off to a good start | 67.00% | ~983 |
+| Do... or do not. There is no try | 50.00% | ~734 |
+| A good blaster at your side | 31.00% | ~455 |
 | I suggest a new strategy | 19.00% | ~279 |
 | Scrap collector | 18.00% | ~264 |
 | All right, I'll give it a try | 17.00% | ~249 |
 | Great shot, kid! | 17.00% | ~249 |
 | The power of the Force | 14.00% | ~205 |
-| Collector | 14.00% | ~205 |
 | Together we can rule the galaxy | 14.00% | ~205 |
 | Shoot first | 14.00% | ~205 |
+| Collector | 13.00% | ~191 |
 | Survivor | 10.00% | ~147 |
 | Tell Jabba that I've got his money | 9.00% | ~132 |
 | Best star-pilot in the galaxy | 9.00% | ~132 |
@@ -36,7 +36,6 @@
 | Your journey has only started | 3.00% | ~44 |
 | On the ball | 3.00% | ~44 |
 | Don't underestimate the Force | 3.00% | ~44 |
-| Hold the line! | 2.00% | ~29 |
 | The Force is strong with this one | 2.00% | ~29 |
 | Determined | 2.00% | ~29 |
 | Precision shot | 2.00% | ~29 |
@@ -46,6 +45,7 @@
 | Alternative solution | 2.00% | ~29 |
 | What will you become? | 2.00% | ~29 |
 | Disturbed tranquility | 2.00% | ~29 |
+| Hold the line! | 1.00% | ~15 |
 | Playing the objective | 1.00% | ~15 |
 | Ackbar's Elite | 1.00% | ~15 |
 | You have your moments | 1.00% | ~15 |
@@ -53,10 +53,10 @@
 | Stop that Droid | 1.00% | ~15 |
 | Onwards! | 1.00% | ~15 |
 | The circle is now complete | 1.00% | ~15 |
-| A New Hope | 0.80% | ~12 |
 | Walker defender | 0.80% | ~12 |
 | No such thing as luck | 0.80% | ~12 |
 | Do we take prisoners? | 0.80% | ~12 |
+| A New Hope | 0.70% | ~10 |
 | I’ll take that bet | 0.60% | ~9 |
 | Stay on target | 0.40% | ~6 |
 | Greed can be a very powerful ally | 0.40% | ~6 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,466 (Ranked 242)  
+Progressed: 1,467 (Ranked 242)  
 Completed: 1 (0.07%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 1 (0.07%) (Ranked 303)
 | 2023-11-26 | 1,444 | 1 |
 | 2023-11-27 | 1,451 | 1 |
 | 2023-11-28 | 1,464 | 1 |
-| 2023-11-29 | 1,466 | 1 |
+| 2023-11-29 | 1,467 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -281,9 +281,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2285,
+  "EOS_Progressed": 2286,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6281,6 +6281,11 @@
       "Time": "2023-11-29T08:05:44.7558964+00:00",
       "NumProgressed": 2285,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T12:06:06.7888836+00:00",
+      "NumProgressed": 2286,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -6316,7 +6321,7 @@
       "Name": "Resistance is futile",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "A04",
@@ -6372,7 +6377,7 @@
       "Name": "From X to Y",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1668
+      "UsersEstimate": 1669
     },
     {
       "ID": "A11",
@@ -6388,7 +6393,7 @@
       "Name": "Departure",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1692
     },
     {
       "ID": "A13",
@@ -6396,7 +6401,7 @@
       "Name": "Seven at one stroke",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "A14",
@@ -6412,7 +6417,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "A16",
@@ -6468,7 +6473,7 @@
       "Name": "Brainstorm",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "A23",
@@ -6540,7 +6545,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "A32",
@@ -6564,7 +6569,7 @@
       "Name": "Producer",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "A35",
@@ -6612,7 +6617,7 @@
       "Name": "Mind the Gap",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1486
     },
     {
       "ID": "A41",
@@ -6620,7 +6625,7 @@
       "Name": "Right through the middle",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "A42",
@@ -6668,7 +6673,7 @@
       "Name": "Travel Company",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "A48",
@@ -6684,7 +6689,7 @@
       "Name": "Financial Shark",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "A50",
@@ -6731,7 +6736,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2285,
+      "Progressed": 2286,
       "Completed": 0
     }
   ],
@@ -6739,8 +6744,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-11-10T17:14:58.1028148+00:00",
-  "LastChanged_Achievements": "2023-11-29T11:07:54.3423491+00:00",
+  "LastChanged_Achievements": "2023-11-29T12:06:06.7888832+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:05.9441553+00:00",
-  "LastUpdate_Ratings": "2023-11-29T10:58:09.8343423+00:00",
-  "LastUpdate_Achievements": "2023-11-29T11:07:54.3424247+00:00"
+  "LastUpdate_Ratings": "2023-11-29T11:57:43.9019273+00:00",
+  "LastUpdate_Achievements": "2023-11-29T12:06:06.7889534+00:00"
 }

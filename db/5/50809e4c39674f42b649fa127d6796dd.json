@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 376,
+  "EOS_Progressed": 377,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -822,6 +822,11 @@
       "Time": "2023-11-29T08:08:37.662143+00:00",
       "NumProgressed": 376,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T12:08:55.9505492+00:00",
+      "NumProgressed": 377,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -896,9 +901,9 @@
       "ID": "FIRST_ALL_MISSION_CLEAR",
       "SetID": "apihg0e",
       "Name": "Perfect Run",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 109
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -906,7 +911,7 @@
       "Name": "Big Encounter",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -938,7 +943,7 @@
       "Name": "Unknown Threat",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -946,7 +951,7 @@
       "Name": "Speed Demon",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1026,7 +1031,7 @@
       "Name": "The Journey Begins",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1153,14 +1158,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 376,
+      "Progressed": 377,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-29T11:09:30.3643564+00:00",
+  "LastChanged_Achievements": "2023-11-29T12:08:55.9505488+00:00",
   "LastUpdate_AppInfo": "2023-11-28T17:56:55.9843317+00:00",
-  "LastUpdate_Ratings": "2023-11-29T11:03:37.4637268+00:00",
-  "LastUpdate_Achievements": "2023-11-29T11:09:30.3643818+00:00"
+  "LastUpdate_Ratings": "2023-11-29T12:03:02.0388316+00:00",
+  "LastUpdate_Achievements": "2023-11-29T12:08:55.9505727+00:00"
 }

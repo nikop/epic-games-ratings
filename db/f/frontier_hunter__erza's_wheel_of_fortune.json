@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 424,
+  "EOS_Progressed": 425,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 284,
+  "EOS_NewPlayers": 280,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -1302,6 +1302,11 @@
       "Time": "2023-11-29T11:07:00.2796697+00:00",
       "NumProgressed": 424,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T12:05:27.302662+00:00",
+      "NumProgressed": 425,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1313,7 +1318,7 @@
       "Name": "Travel Streamer",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1343,9 +1348,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "7pimpda",
       "Name": "Flying Kobold Killer",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 68
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -1367,17 +1372,17 @@
       "ID": "ACHIEVEMENT_16",
       "SetID": "7pimpda",
       "Name": "Lethal Blade Mantis Killer",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_17",
       "SetID": "7pimpda",
       "Name": "Squeaky Clean",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -1401,7 +1406,7 @@
       "Name": "Training Simulation",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1425,7 +1430,7 @@
       "Name": "Beginner Cook",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -1447,9 +1452,9 @@
       "ID": "ACHIEVEMENT_25",
       "SetID": "7pimpda",
       "Name": "Beginner Artificer",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 148
+      "UsersEstimate": 153
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -1479,9 +1484,9 @@
       "ID": "ACHIEVEMENT_3",
       "SetID": "7pimpda",
       "Name": "Kuku Bird Hunter",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 267
+      "UsersEstimate": 264
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1505,7 +1510,7 @@
       "Name": "Boss challenge",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -1569,7 +1574,7 @@
       "Name": "Storm Traveller",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -1657,7 +1662,7 @@
       "Name": "Seal Breaker",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -1665,14 +1670,14 @@
       "Name": "Handyman",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 424,
+      "Progressed": 425,
       "Completed": 1
     }
   ],
@@ -1680,8 +1685,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-29T11:07:00.2796693+00:00",
+  "LastChanged_Achievements": "2023-11-29T12:05:27.3026616+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-11-29T10:59:42.9112689+00:00",
-  "LastUpdate_Achievements": "2023-11-29T11:07:00.279707+00:00"
+  "LastUpdate_Ratings": "2023-11-29T11:58:47.318647+00:00",
+  "LastUpdate_Achievements": "2023-11-29T12:05:27.3027047+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "desktop-girlfriend-neo-136f5a",
   "Ranking_EOS_Progress": 484,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-10-25T04:00:00+00:00",
@@ -503,9 +503,9 @@
       "ID": "HAB",
       "SetID": "2621k8c",
       "Name": "Healthy and beautiful",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "HBACAAD",
@@ -631,9 +631,9 @@
       "ID": "LP",
       "SetID": "2621k8c",
       "Name": "Lazy person",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "LTW",
@@ -967,17 +967,17 @@
       "ID": "THOASOK",
       "SetID": "2621k8c",
       "Name": "To have only a smattering of knowledge",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TMBM",
       "SetID": "2621k8c",
       "Name": "The most beautiful memory",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "TMOL",
@@ -1070,8 +1070,8 @@
   ],
   "FirstSeen": "2023-11-21T16:57:18.9896255+00:00",
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2023-11-29T11:10:48.2123064+00:00",
+  "LastChanged_Achievements": "2023-11-29T12:09:53.8488404+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.1854671+00:00",
-  "LastUpdate_Ratings": "2023-11-29T10:58:08.9582202+00:00",
-  "LastUpdate_Achievements": "2023-11-29T11:10:48.2123926+00:00"
+  "LastUpdate_Ratings": "2023-11-29T11:57:43.4080603+00:00",
+  "LastUpdate_Achievements": "2023-11-29T12:09:53.8489222+00:00"
 }

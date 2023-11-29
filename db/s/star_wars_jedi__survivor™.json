@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-04-28T04:00:00+00:00",
     "PcReleaseDate": "2023-04-28T04:00:00+00:00",
@@ -5529,9 +5529,9 @@
       "Count": 137
     }
   ],
-  "EOS_Progressed": 8944,
+  "EOS_Progressed": 8945,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 494,
+  "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -13229,6 +13229,11 @@
       "Time": "2023-11-29T08:08:51.0025623+00:00",
       "NumProgressed": 8944,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-29T12:09:09.3348261+00:00",
+      "NumProgressed": 8945,
+      "NumCompleted": 53
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:45.8400368+00:00",
@@ -13241,7 +13246,7 @@
       "Name": "Rooftop Duel",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 8855
+      "UsersEstimate": 8856
     },
     {
       "ID": "achievement_a10",
@@ -13249,7 +13254,7 @@
       "Name": "Tragedy",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 4561
+      "UsersEstimate": 4562
     },
     {
       "ID": "achievement_a11",
@@ -13265,7 +13270,7 @@
       "Name": "Into the Abyss",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 4293
+      "UsersEstimate": 4294
     },
     {
       "ID": "achievement_a13",
@@ -13273,7 +13278,7 @@
       "Name": "A Place You Could Call Home",
       "Percentage": 46,
       "XP": 70,
-      "UsersEstimate": 4114
+      "UsersEstimate": 4115
     },
     {
       "ID": "achievement_a14",
@@ -13313,7 +13318,7 @@
       "Name": "They Never Saw It Coming",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 6887
+      "UsersEstimate": 6888
     },
     {
       "ID": "achievement_a19",
@@ -13329,7 +13334,7 @@
       "Name": "For Saw Gerrera",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 8765
+      "UsersEstimate": 8766
     },
     {
       "ID": "achievement_a20",
@@ -13361,7 +13366,7 @@
       "Name": "Mirror Match",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 5724
+      "UsersEstimate": 5725
     },
     {
       "ID": "achievement_a24",
@@ -13401,7 +13406,7 @@
       "Name": "King of the World",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1520
+      "UsersEstimate": 1521
     },
     {
       "ID": "achievement_a29",
@@ -13417,7 +13422,7 @@
       "Name": "Grab Some Seat",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 8139
+      "UsersEstimate": 8140
     },
     {
       "ID": "achievement_a30",
@@ -13449,7 +13454,7 @@
       "Name": "Skywalker",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 5545
+      "UsersEstimate": 5546
     },
     {
       "ID": "achievement_a34",
@@ -13473,7 +13478,7 @@
       "Name": "Can You Pet the Bogling?",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 7781
+      "UsersEstimate": 7782
     },
     {
       "ID": "achievement_a37",
@@ -13593,7 +13598,7 @@
       "Name": "Survivors, We Adapt",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 7066
+      "UsersEstimate": 7067
     },
     {
       "ID": "achievement_a50",
@@ -13633,7 +13638,7 @@
       "Name": "Among the Masters",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 6976
+      "UsersEstimate": 6977
     },
     {
       "ID": "achievement_a7",
@@ -13641,7 +13646,7 @@
       "Name": "For the Path",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 5903
+      "UsersEstimate": 5904
     },
     {
       "ID": "achievement_a8",
@@ -13649,7 +13654,7 @@
       "Name": "Out of Bedlam",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 5545
+      "UsersEstimate": 5546
     },
     {
       "ID": "achievement_a9",
@@ -13664,7 +13669,7 @@
     {
       "ID": "3m4b0pk",
       "IsBase": true,
-      "Progressed": 8944,
+      "Progressed": 8945,
       "Completed": 53
     }
   ],
@@ -13672,8 +13677,8 @@
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
   "LastChanged": "2023-11-29T04:04:21.1822425+00:00",
-  "LastChanged_Achievements": "2023-11-29T11:09:48.5404584+00:00",
+  "LastChanged_Achievements": "2023-11-29T12:09:09.3348258+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:07.2165049+00:00",
-  "LastUpdate_Ratings": "2023-11-29T11:00:00.4378742+00:00",
-  "LastUpdate_Achievements": "2023-11-29T11:09:48.5405263+00:00"
+  "LastUpdate_Ratings": "2023-11-29T11:58:59.7277055+00:00",
+  "LastUpdate_Achievements": "2023-11-29T12:09:09.3349157+00:00"
 }

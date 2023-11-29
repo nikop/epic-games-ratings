@@ -5,39 +5,39 @@ Rating: 4.20 (Ranked 914)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Better jot that down | 45.00% | ~5 |
-| Quick like a Kat | 36.00% | ~4 |
-| The beginning of a beautiful collection | 36.00% | ~4 |
-| Cinephile | 36.00% | ~4 |
-| Piecing the story together | 36.00% | ~4 |
-| Kats always land on their feet | 27.00% | ~3 |
-| Kat-like reflexes | 27.00% | ~3 |
-| Stellar extra-vehicular activities score | 27.00% | ~3 |
-| Peruser | 27.00% | ~3 |
-| Pannapictagraphist | 27.00% | ~3 |
-| Curiosity didn't kill the Kat | 27.00% | ~3 |
-| As the story unfolds... | 27.00% | ~3 |
-| Chronicler | 27.00% | ~3 |
-| Delivered Us Mars | 27.00% | ~3 |
-| Desperate Times | 27.00% | ~3 |
-| When ACE met AYLA | 18.00% | ~2 |
-| Simulacrum | 18.00% | ~2 |
+| The beginning of a beautiful collection | 45.00% | ~5 |
+| Better jot that down | 36.00% | ~4 |
 | Reading is fundamental | 18.00% | ~2 |
-| Take a look | 18.00% | ~2 |
-| Their batteries were low and it got dark | 18.00% | ~2 |
-| On the Precipice | 18.00% | ~2 |
 | Moonbear | 18.00% | ~2 |
-| The Dream for These Folks | 18.00% | ~2 |
-| Like Animals | 18.00% | ~2 |
-| A Nice Place to Live | 18.00% | ~2 |
-| Not the Rabbits, Not the Bees | 18.00% | ~2 |
 | Home Is... | 18.00% | ~2 |
-| Wants and Needs | 18.00% | ~2 |
-| Shai-Hulud? | 18.00% | ~2 |
-| The Gang | 18.00% | ~2 |
-| Getting the hang of it | 9.00% | ~1 |
-| Want to Go to Space? | 9.00% | ~1 |
+| Kats always land on their feet | 9.00% | ~1 |
+| Quick like a Kat | 9.00% | ~1 |
+| Kat-like reflexes | 9.00% | ~1 |
+| Stellar extra-vehicular activities score | 9.00% | ~1 |
+| Peruser | 9.00% | ~1 |
+| Pannapictagraphist | 9.00% | ~1 |
+| Take a look | 9.00% | ~1 |
+| Cinephile | 9.00% | ~1 |
+| Piecing the story together | 9.00% | ~1 |
+| Curiosity didn't kill the Kat | 9.00% | ~1 |
+| As the story unfolds... | 9.00% | ~1 |
+| Chronicler | 9.00% | ~1 |
+| Delivered Us Mars | 9.00% | ~1 |
 | Who waits five minutes, seriously? | 9.00% | ~1 |
+| When ACE met AYLA | 0.00% | ~0 |
+| Simulacrum | 0.00% | ~0 |
+| Getting the hang of it | 0.00% | ~0 |
+| Their batteries were low and it got dark | 0.00% | ~0 |
+| On the Precipice | 0.00% | ~0 |
+| The Dream for These Folks | 0.00% | ~0 |
+| Like Animals | 0.00% | ~0 |
+| A Nice Place to Live | 0.00% | ~0 |
+| Not the Rabbits, Not the Bees | 0.00% | ~0 |
+| Wants and Needs | 0.00% | ~0 |
+| Desperate Times | 0.00% | ~0 |
+| Want to Go to Space? | 0.00% | ~0 |
+| Shai-Hulud? | 0.00% | ~0 |
+| The Gang | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 11 (Ranked 602)  
 Completed: 0 (0.00%) (Ranked 363)  

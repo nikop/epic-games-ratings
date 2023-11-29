@@ -4,7 +4,7 @@
   "ProductSlug": "international-basketball-manager-23-561576",
   "Ranking_EOS_Progress": 620,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
@@ -151,9 +151,9 @@
       "ID": "ACH_FIRST_STAR_MANAGER",
       "SetID": "1lnhagg",
       "Name": "The First Star",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FIRST_WIN",
@@ -303,9 +303,9 @@
       "ID": "ACH_WIN_BY_40",
       "SetID": "1lnhagg",
       "Name": "Overpowered",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_WIN_EUROLEAGUE",
@@ -342,8 +342,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2023-11-29T11:07:21.0506178+00:00",
+  "LastChanged_Achievements": "2023-11-29T12:05:42.5609018+00:00",
   "LastUpdate_AppInfo": "2023-11-24T01:41:54.711803+00:00",
-  "LastUpdate_Ratings": "2023-11-29T10:59:02.9160596+00:00",
-  "LastUpdate_Achievements": "2023-11-29T11:07:21.0506365+00:00"
+  "LastUpdate_Ratings": "2023-11-29T11:58:20.3187983+00:00",
+  "LastUpdate_Achievements": "2023-11-29T12:05:42.5609185+00:00"
 }

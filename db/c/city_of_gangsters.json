@@ -2,7 +2,7 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 846,
+  "Ranking_Rating": 845,
   "Ranking_Popularity": 437,
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 49,
@@ -808,7 +808,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 354488,
+  "EOS_Progressed": 354490,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 961,
   "EOS_NewCompleters": 0,
@@ -26133,6 +26133,11 @@
       "Time": "2023-11-29T11:09:15.5272352+00:00",
       "NumProgressed": 354488,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-29T12:08:45.094608+00:00",
+      "NumProgressed": 354490,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -26248,7 +26253,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 53173
+      "UsersEstimate": 53174
     },
     {
       "ID": "ach015",
@@ -26272,7 +26277,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 46083
+      "UsersEstimate": 46084
     },
     {
       "ID": "ach018",
@@ -26352,7 +26357,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 163064
+      "UsersEstimate": 163065
     },
     {
       "ID": "ach028",
@@ -26496,7 +26501,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 46083
+      "UsersEstimate": 46084
     },
     {
       "ID": "ach046",
@@ -26656,7 +26661,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 49628
+      "UsersEstimate": 49629
     },
     {
       "ID": "ach067",
@@ -26680,7 +26685,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 49628
+      "UsersEstimate": 49629
     },
     {
       "ID": "ach070",
@@ -26783,7 +26788,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 354488,
+      "Progressed": 354490,
       "Completed": 7
     }
   ],
@@ -26791,8 +26796,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-11-29T08:00:01.8369416+00:00",
-  "LastChanged_Achievements": "2023-11-29T11:09:15.5272347+00:00",
+  "LastChanged_Achievements": "2023-11-29T12:08:45.0946076+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.701398+00:00",
-  "LastUpdate_Ratings": "2023-11-29T11:02:06.4367571+00:00",
-  "LastUpdate_Achievements": "2023-11-29T11:09:15.5273958+00:00"
+  "LastUpdate_Ratings": "2023-11-29T12:00:24.3408004+00:00",
+  "LastUpdate_Achievements": "2023-11-29T12:08:45.0947872+00:00"
 }

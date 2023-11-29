@@ -4,7 +4,7 @@
   "ProductSlug": "toasterball-a52f2a",
   "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 494,
+  "Ranking_EOS_NewPlayers": 495,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-09-22T11:00:00+00:00",
@@ -530,8 +530,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-22T08:03:11.942138+00:00",
-  "LastChanged_Achievements": "2023-11-29T11:10:47.2624316+00:00",
+  "LastChanged_Achievements": "2023-11-29T12:09:53.0460734+00:00",
   "LastUpdate_AppInfo": "2023-11-24T13:56:58.9304144+00:00",
-  "LastUpdate_Ratings": "2023-11-29T10:59:59.6968602+00:00",
-  "LastUpdate_Achievements": "2023-11-29T11:10:47.2624697+00:00"
+  "LastUpdate_Ratings": "2023-11-29T11:58:59.2318937+00:00",
+  "LastUpdate_Achievements": "2023-11-29T12:09:53.0461123+00:00"
 }
