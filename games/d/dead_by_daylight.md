@@ -6,11 +6,11 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 0.20% | ~2,106 |
-| It wakes | 0.20% | ~2,106 |
-| Not half bad | 0.20% | ~2,106 |
-| Skillful | 0.20% | ~2,106 |
-| I | 0.20% | ~2,106 |
+| Zealous | 0.20% | ~2,107 |
+| It wakes | 0.20% | ~2,107 |
+| Not half bad | 0.20% | ~2,107 |
+| Skillful | 0.20% | ~2,107 |
+| I | 0.20% | ~2,107 |
 | The Grand Sacrifice | 0.10% | ~1,053 |
 | A bite for the Entity | 0.10% | ~1,053 |
 | A feast for the Entity | 0.10% | ~1,053 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,053 |
 | Adept Good Guy | 0.10% | ~1,053 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,053,085 (Ranked 14)  
+Progressed: 1,053,286 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -462,7 +462,7 @@ Completed: 61 (0.01%) (Ranked 343)
 | 2023-11-26 | 1,047,100 | 60 |
 | 2023-11-27 | 1,048,888 | 61 |
 | 2023-11-28 | 1,050,827 | 61 |
-| 2023-11-29 | 1,053,085 | 61 |
+| 2023-11-29 | 1,053,286 | 61 |
 ## Awards
 Max (Diverse Characters): 36,768  (Ranked 15)  
 Sum: 280,303 (Ranked 12)  

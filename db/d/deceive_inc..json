@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18945,
+  "EOS_Progressed": 18947,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13299,6 +13299,11 @@
       "Time": "2023-11-29T11:04:45.5730845+00:00",
       "NumProgressed": 18945,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-29T19:03:56.4702335+00:00",
+      "NumProgressed": 18947,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13374,7 +13379,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4357
+      "UsersEstimate": 4358
     },
     {
       "ID": "0010",
@@ -13398,7 +13403,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3031
+      "UsersEstimate": 3032
     },
     {
       "ID": "0013",
@@ -13406,7 +13411,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1894
+      "UsersEstimate": 1895
     },
     {
       "ID": "0014",
@@ -13414,7 +13419,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3031
+      "UsersEstimate": 3032
     },
     {
       "ID": "0015",
@@ -13462,7 +13467,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1894
+      "UsersEstimate": 1895
     },
     {
       "ID": "0021",
@@ -13510,7 +13515,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2273
+      "UsersEstimate": 2274
     },
     {
       "ID": "0027",
@@ -13526,7 +13531,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4357
+      "UsersEstimate": 4358
     },
     {
       "ID": "0029",
@@ -13574,7 +13579,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2273
+      "UsersEstimate": 2274
     },
     {
       "ID": "0035",
@@ -13597,7 +13602,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18945,
+      "Progressed": 18947,
       "Completed": 4
     }
   ],
@@ -13605,8 +13610,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-11-29T18:03:45.1008803+00:00",
+  "LastChanged_Achievements": "2023-11-29T19:03:56.470233+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:26.0982772+00:00",
-  "LastUpdate_Ratings": "2023-11-29T17:58:27.3966701+00:00",
-  "LastUpdate_Achievements": "2023-11-29T18:03:45.1009434+00:00"
+  "LastUpdate_Ratings": "2023-11-29T18:58:31.6196751+00:00",
+  "LastUpdate_Achievements": "2023-11-29T19:03:56.4703003+00:00"
 }

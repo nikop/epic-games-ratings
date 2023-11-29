@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1471,
+  "EOS_Progressed": 1472,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4384,6 +4384,11 @@
       "Time": "2023-11-29T18:09:33.8067034+00:00",
       "NumProgressed": 1471,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T19:09:40.0198663+00:00",
+      "NumProgressed": 1472,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4620,7 +4625,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "achievement_36",
@@ -4660,7 +4665,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "achievement_40",
@@ -4899,13 +4904,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1471,
+      "Progressed": 1472,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1471,
+      "Progressed": 1472,
       "Completed": 1
     }
   ],
@@ -4913,8 +4918,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-29T18:09:33.806703+00:00",
+  "LastChanged_Achievements": "2023-11-29T19:09:40.0198659+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:02.7370766+00:00",
-  "LastUpdate_Ratings": "2023-11-29T17:57:44.8183856+00:00",
-  "LastUpdate_Achievements": "2023-11-29T18:09:33.8067719+00:00"
+  "LastUpdate_Ratings": "2023-11-29T18:57:49.627738+00:00",
+  "LastUpdate_Achievements": "2023-11-29T19:09:40.019928+00:00"
 }

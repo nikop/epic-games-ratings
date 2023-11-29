@@ -5,18 +5,18 @@ Rating: 4.42 (Ranked 716)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 76.00% | ~1,739 |
-| A new Journey | 75.00% | ~1,716 |
-| Departure | 74.00% | ~1,693 |
-| From X to Y | 73.00% | ~1,670 |
+| Country Bumpkin | 76.00% | ~1,740 |
+| A new Journey | 75.00% | ~1,717 |
+| Departure | 74.00% | ~1,694 |
+| From X to Y | 73.00% | ~1,671 |
 | Way of Iron | 70.00% | ~1,602 |
 | Mystery Tour | 69.00% | ~1,579 |
-| We brake for nobody | 68.00% | ~1,556 |
-| Brainstorm | 66.00% | ~1,510 |
-| Travel Company | 66.00% | ~1,510 |
-| Mind the Gap | 65.00% | ~1,487 |
-| All around the World | 63.00% | ~1,441 |
-| Right through the middle | 58.00% | ~1,327 |
+| We brake for nobody | 68.00% | ~1,557 |
+| Brainstorm | 66.00% | ~1,511 |
+| Travel Company | 66.00% | ~1,511 |
+| Mind the Gap | 65.00% | ~1,488 |
+| All around the World | 63.00% | ~1,442 |
+| Right through the middle | 58.00% | ~1,328 |
 | Facility Manager | 54.00% | ~1,236 |
 | Poor Devil | 54.00% | ~1,236 |
 | Producer | 51.00% | ~1,167 |
@@ -27,17 +27,17 @@ Rating: 4.42 (Ranked 716)
 | Bull and bear | 34.00% | ~778 |
 | Stoker | 33.00% | ~755 |
 | Full Steam ahead | 32.00% | ~732 |
-| Financial Shark | 31.00% | ~709 |
-| Socializer | 31.00% | ~709 |
-| All mine | 30.00% | ~686 |
-| Mole | 30.00% | ~686 |
+| Financial Shark | 31.00% | ~710 |
+| Socializer | 31.00% | ~710 |
+| All mine | 30.00% | ~687 |
+| Mole | 30.00% | ~687 |
 | General Manager | 28.00% | ~641 |
 | Country Life | 28.00% | ~641 |
 | Hostile Takeover | 25.00% | ~572 |
 | Seven at one stroke | 24.00% | ~549 |
-| Breaking Ground | 22.00% | ~503 |
-| Trailblazer | 21.00% | ~480 |
-| Traffic Junction | 21.00% | ~480 |
+| Breaking Ground | 22.00% | ~504 |
+| Trailblazer | 21.00% | ~481 |
+| Traffic Junction | 21.00% | ~481 |
 | Traffic Jam | 20.00% | ~458 |
 | Networker | 18.00% | ~412 |
 | Resistance is futile | 17.00% | ~389 |
@@ -61,7 +61,7 @@ Rating: 4.42 (Ranked 716)
 | United States | 0.60% | ~14 |
 | Together we stand | 0.60% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,288 (Ranked 221)  
+Progressed: 2,289 (Ranked 221)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-26 | 2,258 | 0 |
 | 2023-11-27 | 2,265 | 0 |
 | 2023-11-28 | 2,278 | 0 |
-| 2023-11-29 | 2,288 | 0 |
+| 2023-11-29 | 2,289 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

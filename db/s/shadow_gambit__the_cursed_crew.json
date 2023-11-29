@@ -2,13 +2,13 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_Rating": 125,
+  "Ranking_Rating": 111,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 97,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.76,
+  "Rating": 4.77,
   "RatingHistory": [
     {
       "Time": "2023-09-02T15:58:27.8231569+00:00",
@@ -111,6 +111,12 @@
     {
       "Time": "2023-11-25T18:59:32.1748248+00:00",
       "Rating": 4.76,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-29T18:57:59.7478524+00:00",
+      "Rating": 4.77,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -3222,9 +3228,9 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 633
+      "UsersEstimate": 643
     },
     {
       "ID": "_03_FinishAct1",
@@ -3246,9 +3252,9 @@
       "ID": "_05_FinishAct2",
       "SetID": "8a1io5d",
       "Name": "The Gambit Has Begun",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 302
+      "UsersEstimate": 312
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -3430,9 +3436,9 @@
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged": "2023-11-25T18:59:32.1748246+00:00",
-  "LastChanged_Achievements": "2023-11-29T18:05:40.3638121+00:00",
+  "LastChanged": "2023-11-29T18:57:59.7478521+00:00",
+  "LastChanged_Achievements": "2023-11-29T19:05:49.4416413+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:16.5506412+00:00",
-  "LastUpdate_Ratings": "2023-11-29T17:57:54.7620121+00:00",
-  "LastUpdate_Achievements": "2023-11-29T18:05:40.3638336+00:00"
+  "LastUpdate_Ratings": "2023-11-29T18:57:59.7478526+00:00",
+  "LastUpdate_Achievements": "2023-11-29T19:05:49.4416776+00:00"
 }

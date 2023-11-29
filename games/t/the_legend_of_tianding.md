@@ -26,13 +26,13 @@
 | Tomb Raider | 22.00% | ~6 |
 | The Real O.G. | 19.00% | ~5 |
 | Talk to the Fist | 19.00% | ~5 |
+| The Hero of the People | 11.00% | ~3 |
 | Collector | 7.00% | ~2 |
-| The Hero of the People | 7.00% | ~2 |
+| The Legend | 7.00% | ~2 |
 | Taoist | 7.00% | ~2 |
-| The Legend | 4.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 27 (Ranked 537)  
-Completed: 1 (3.70%) (Ranked 92)  
+Completed: 2 (7.41%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -58,7 +58,7 @@ Completed: 1 (3.70%) (Ranked 92)
 | 2023-11-23 | 22 | 1 |
 | 2023-11-24 | 23 | 1 |
 | 2023-11-26 | 26 | 1 |
-| 2023-11-29 | 27 | 1 |
+| 2023-11-29 | 27 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

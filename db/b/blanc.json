@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3074,
+  "EOS_Progressed": 3075,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -4571,6 +4571,11 @@
       "Time": "2023-11-29T16:08:51.6835856+00:00",
       "NumProgressed": 3074,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-29T19:06:39.4844232+00:00",
+      "NumProgressed": 3075,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -4598,7 +4603,7 @@
       "Name": "Sheltered by the fallen tree",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "HELPING_LITTLE_ONES",
@@ -4654,7 +4659,7 @@
       "Name": "Stronger together",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "THE_END",
@@ -4678,14 +4683,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3074,
+      "Progressed": 3075,
       "Completed": 6
     }
   ],
@@ -4693,8 +4698,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-11-29T18:06:30.9699318+00:00",
+  "LastChanged_Achievements": "2023-11-29T19:06:39.4844227+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:11.4172753+00:00",
-  "LastUpdate_Ratings": "2023-11-29T17:59:45.9804534+00:00",
-  "LastUpdate_Achievements": "2023-11-29T18:06:30.9699628+00:00"
+  "LastUpdate_Ratings": "2023-11-29T18:59:48.0365834+00:00",
+  "LastUpdate_Achievements": "2023-11-29T19:06:39.4844546+00:00"
 }

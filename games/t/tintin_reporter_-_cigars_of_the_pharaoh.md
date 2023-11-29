@@ -22,9 +22,9 @@
 | The Eyes! | 4.00% | ~3 |
 | Keep the Doctor Away | 4.00% | ~3 |
 | Just a Palm Tree | 4.00% | ~3 |
+| Under the Hood | 4.00% | ~3 |
 | The Corporal's Golden Boy | 4.00% | ~3 |
 | Punctual | 4.00% | ~3 |
-| Under the Hood | 3.00% | ~2 |
 | Long Live Gaipajama! | 3.00% | ~2 |
 | Eyes Shut | 3.00% | ~2 |
 | A Diagnosis | 3.00% | ~2 |

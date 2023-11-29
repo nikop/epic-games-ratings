@@ -7,7 +7,7 @@
 | Distinguished Service Medal | 93.00% | ~1,350 |
 | Spectre Inductee | 80.00% | ~1,162 |
 | Medal of Exploration I | 72.00% | ~1,045 |
-| Recruit | 67.00% | ~973 |
+| Recruit | 68.00% | ~987 |
 | Search and Rescue | 67.00% | ~973 |
 | Quarian Ally | 63.00% | ~915 |
 | Medal of Heroism | 60.00% | ~871 |
@@ -16,7 +16,7 @@
 | Council Legion of Merit | 54.00% | ~784 |
 | Turian Ally | 53.00% | ~770 |
 | Medal of Honor | 52.00% | ~755 |
-| Meritorious Service Medal | 51.00% | ~741 |
+| Meritorious Service Medal | 52.00% | ~755 |
 | Charismatic | 50.00% | ~726 |
 | Soldier | 49.00% | ~711 |
 | Soldier Ally | 46.00% | ~668 |

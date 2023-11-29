@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9234,9 +9234,9 @@
       "Count": 976
     }
   ],
-  "EOS_Progressed": 125116,
+  "EOS_Progressed": 125117,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 795,
+  "EOS_NewPlayers": 785,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32839,6 +32839,11 @@
       "Time": "2023-11-29T18:05:32.739615+00:00",
       "NumProgressed": 125116,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-29T19:05:41.9280296+00:00",
+      "NumProgressed": 125117,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 65,
@@ -32882,7 +32887,7 @@
       "Name": "Resurrection",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 77572
+      "UsersEstimate": 77573
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -32890,7 +32895,7 @@
       "Name": "Unleash Hell",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 85079
+      "UsersEstimate": 85080
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -32914,7 +32919,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 78823
+      "UsersEstimate": 78824
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -32930,7 +32935,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 85079
+      "UsersEstimate": 85080
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -33010,7 +33015,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 42539
+      "UsersEstimate": 42540
     },
     {
       "ID": "combat_kill_fanatics",
@@ -33066,7 +33071,7 @@
       "Name": "Catch and Decease",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 18767
+      "UsersEstimate": 18768
     },
     {
       "ID": "combat_kill_librarian",
@@ -33074,7 +33079,7 @@
       "Name": "Overdue Notice",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 41288
+      "UsersEstimate": 41289
     },
     {
       "ID": "combat_kill_pillagers",
@@ -33218,7 +33223,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 86330
+      "UsersEstimate": 86331
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -33234,7 +33239,7 @@
       "Name": "Triage",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3753
+      "UsersEstimate": 3754
     },
     {
       "ID": "inn_first_time",
@@ -33242,7 +33247,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 116358
+      "UsersEstimate": 116359
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -33282,7 +33287,7 @@
       "Name": "Utopia",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 11260
+      "UsersEstimate": 11261
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -33369,15 +33374,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 125116,
+      "Progressed": 125117,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-11-29T15:59:55.237215+00:00",
-  "LastChanged_Achievements": "2023-11-29T18:05:32.7396146+00:00",
+  "LastChanged_Achievements": "2023-11-29T19:05:41.9280288+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:41.5668132+00:00",
-  "LastUpdate_Ratings": "2023-11-29T17:58:47.8632746+00:00",
-  "LastUpdate_Achievements": "2023-11-29T18:05:32.739765+00:00"
+  "LastUpdate_Ratings": "2023-11-29T18:58:50.9076253+00:00",
+  "LastUpdate_Achievements": "2023-11-29T19:05:41.9281733+00:00"
 }

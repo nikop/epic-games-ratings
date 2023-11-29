@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 104,
   "Ranking_EOS_Progress": 5,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 40,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 39,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2021-10-07T15:00:00+00:00",
     "PcReleaseDate": "2019-01-29T12:00:00+00:00",
@@ -5291,10 +5291,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 8162,
       "NumberOfAwardsMax": 1110
+    },
+    {
+      "Time": "2023-11-29T18:59:33.2393353+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 8163,
+      "NumberOfAwardsMax": 1110
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8162,
+  "NumberOfAwards": 8163,
   "NumberOfAwardsMax": 1110,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5338,7 +5344,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 914
+      "Count": 915
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5359,9 +5365,9 @@
       "Count": 674
     }
   ],
-  "EOS_Progressed": 3585368,
+  "EOS_Progressed": 3585386,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 2631,
+  "EOS_NewPlayers": 2629,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30984,6 +30990,11 @@
       "Time": "2023-11-29T18:04:07.6611846+00:00",
       "NumProgressed": 3585368,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-11-29T19:04:19.2719035+00:00",
+      "NumProgressed": 3585386,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 52,
@@ -31003,7 +31014,7 @@
       "Name": "The Best of Both Worlds",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 896342
+      "UsersEstimate": 896346
     },
     {
       "ID": "BRICK",
@@ -31019,7 +31030,7 @@
       "Name": "I\u0027m broke, Uncle!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 71707
+      "UsersEstimate": 71708
     },
     {
       "ID": "BSOD",
@@ -31035,7 +31046,7 @@
       "Name": "Double trouble",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 573659
+      "UsersEstimate": 573662
     },
     {
       "ID": "BUILD_2",
@@ -31043,7 +31054,7 @@
       "Name": "Triple threat",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 107561
+      "UsersEstimate": 107562
     },
     {
       "ID": "BUILD_3",
@@ -31059,7 +31070,7 @@
       "Name": "Back in the black",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1398294
+      "UsersEstimate": 1398301
     },
     {
       "ID": "CASH_2",
@@ -31075,7 +31086,7 @@
       "Name": "You rock at this!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 107561
+      "UsersEstimate": 107562
     },
     {
       "ID": "CASH_4",
@@ -31083,7 +31094,7 @@
       "Name": "Maybe you should try something else?",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 71707
+      "UsersEstimate": 71708
     },
     {
       "ID": "CRYSIS",
@@ -31091,7 +31102,7 @@
       "Name": "But can it run Crysis?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 322683
+      "UsersEstimate": 322685
     },
     {
       "ID": "DATE",
@@ -31123,7 +31134,7 @@
       "Name": "Get your wings",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 717074
+      "UsersEstimate": 717077
     },
     {
       "ID": "HBPC_TIME",
@@ -31155,7 +31166,7 @@
       "Name": "That\u0027s what I\u0027m talking about",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1039757
+      "UsersEstimate": 1039762
     },
     {
       "ID": "JOBS_2",
@@ -31163,7 +31174,7 @@
       "Name": "Smashing it",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 394390
+      "UsersEstimate": 394392
     },
     {
       "ID": "JOBS_3",
@@ -31171,7 +31182,7 @@
       "Name": "Taking care of business",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 71707
+      "UsersEstimate": 71708
     },
     {
       "ID": "JOBS_4",
@@ -31195,7 +31206,7 @@
       "Name": "From humble beginnings...",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 250976
+      "UsersEstimate": 250977
     },
     {
       "ID": "LEVEL_2",
@@ -31203,7 +31214,7 @@
       "Name": "Things are under control",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 71707
+      "UsersEstimate": 71708
     },
     {
       "ID": "LEVEL_3",
@@ -31219,7 +31230,7 @@
       "Name": "Mr big business",
       "Percentage": 0.4,
       "XP": 75,
-      "UsersEstimate": 14341
+      "UsersEstimate": 14342
     },
     {
       "ID": "LEVEL_5",
@@ -31235,7 +31246,7 @@
       "Name": "You need to plug it in...",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 1756830
+      "UsersEstimate": 1756839
     },
     {
       "ID": "NO_PASTE",
@@ -31243,7 +31254,7 @@
       "Name": "Easy to forget",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1649269
+      "UsersEstimate": 1649278
     },
     {
       "ID": "OPC_BM_1",
@@ -31291,7 +31302,7 @@
       "Name": "Perfection",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 71707
+      "UsersEstimate": 71708
     },
     {
       "ID": "PLAY_INET",
@@ -31299,7 +31310,7 @@
       "Name": "My favourite feature...",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 322683
+      "UsersEstimate": 322685
     },
     {
       "ID": "PLAY_MUSIC",
@@ -31307,7 +31318,7 @@
       "Name": "Your music sucks",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 107561
+      "UsersEstimate": 107562
     },
     {
       "ID": "RADS",
@@ -31347,7 +31358,7 @@
       "Name": "Calling in Sick",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 71707
+      "UsersEstimate": 71708
     },
     {
       "ID": "STARS_1",
@@ -31355,7 +31366,7 @@
       "Name": "Customer satisfaction",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 250976
+      "UsersEstimate": 250977
     },
     {
       "ID": "STARS_2",
@@ -31410,15 +31421,15 @@
     {
       "ID": "m0injl",
       "IsBase": true,
-      "Progressed": 3585368,
+      "Progressed": 3585386,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:21:06.3204437+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.9861995+00:00",
-  "LastChanged": "2023-11-28T22:58:51.10758+00:00",
-  "LastChanged_Achievements": "2023-11-29T18:04:07.661184+00:00",
+  "LastChanged": "2023-11-29T18:59:33.2393351+00:00",
+  "LastChanged_Achievements": "2023-11-29T19:04:19.271903+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:02.2207557+00:00",
-  "LastUpdate_Ratings": "2023-11-29T17:59:31.0138493+00:00",
-  "LastUpdate_Achievements": "2023-11-29T18:04:07.6613163+00:00"
+  "LastUpdate_Ratings": "2023-11-29T18:59:33.2393359+00:00",
+  "LastUpdate_Achievements": "2023-11-29T19:04:19.2720225+00:00"
 }

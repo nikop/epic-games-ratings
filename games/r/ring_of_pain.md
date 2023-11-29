@@ -35,6 +35,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | What Doesn't Kill You | 0.40% | ~7 |
 | Consecutive Curses | 0.30% | ~721 |
 | Dig Your Own Grave | 0.30% | ~721 |
+| Well Prepared | 0.30% | ~721 |
 | Who To Trust? | 0.30% | ~721 |
 | Walk It Off | 0.30% | ~721 |
 | Just Chilling | 0.30% | ~721 |
@@ -58,7 +59,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Max Damage! | 0.20% | ~481 |
 | A Rough Road | 0.20% | ~481 |
 | To The Death! | 0.20% | ~481 |
-| Well Prepared | 0.20% | ~481 |
 | Berzerker | 0.20% | ~481 |
 | Don't Ignore Me! | 0.20% | ~481 |
 | All Consuming | 0.20% | ~481 |

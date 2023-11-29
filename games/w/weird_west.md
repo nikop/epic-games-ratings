@@ -6,12 +6,12 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,770 |
-| Self-Improvement | 71.00% | ~1,428 |
-| Perky | 65.00% | ~1,307 |
-| Let’s Ride | 59.00% | ~1,186 |
-| Welcome to the Weird West | 56.00% | ~1,126 |
-| Dead or Alive | 55.00% | ~1,106 |
+| Unforgiven | 88.00% | ~1,771 |
+| Self-Improvement | 71.00% | ~1,429 |
+| Perky | 65.00% | ~1,308 |
+| Let’s Ride | 59.00% | ~1,187 |
+| Welcome to the Weird West | 56.00% | ~1,127 |
+| Dead or Alive | 55.00% | ~1,107 |
 | Full House | 37.00% | ~744 |
 | Off the Trail | 34.00% | ~684 |
 | Justice Served | 29.00% | ~583 |
@@ -26,10 +26,10 @@ Number of Ratings: 125  (23.09.2022)
 | For Balance | 16.00% | ~322 |
 | Here Comes Santa Claus | 16.00% | ~322 |
 | Winds of War | 16.00% | ~322 |
-| Dog Days | 13.00% | ~261 |
-| Out on the Ebb Tide | 13.00% | ~261 |
-| Turning the Tables | 13.00% | ~261 |
-| Workers' Rights | 13.00% | ~261 |
+| Dog Days | 13.00% | ~262 |
+| Out on the Ebb Tide | 13.00% | ~262 |
+| Turning the Tables | 13.00% | ~262 |
+| Workers' Rights | 13.00% | ~262 |
 | Elusive Prey | 12.00% | ~241 |
 | Power Behind the Pulpit | 12.00% | ~241 |
 | Something Wicked This Way Comes… | 12.00% | ~241 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.50% | ~10 |
 | Winter Has Come | 0.40% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,011 (Ranked 228)  
+Progressed: 2,012 (Ranked 228)  
 Completed: 7 (0.35%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,6 +228,7 @@ Completed: 7 (0.35%) (Ranked 229)
 | 2023-11-25 | 2,007 | 7 |
 | 2023-11-26 | 2,009 | 7 |
 | 2023-11-27 | 2,011 | 7 |
+| 2023-11-29 | 2,012 | 7 |
 ## Awards
 Max (Impact the Story): 29  (Ranked 501)  
 Sum: 29 (Ranked 516)  

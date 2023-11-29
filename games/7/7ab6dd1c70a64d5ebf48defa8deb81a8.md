@@ -32,13 +32,13 @@
 | Miner | 3.00% | ~7 |
 | Slayer | 2.00% | ~5 |
 | All There Is | 2.00% | ~5 |
+| False God | 2.00% | ~5 |
 | A Queen's Tale | 2.00% | ~5 |
 | Flawless Victory | 1.00% | ~2 |
-| False God | 1.00% | ~2 |
 | All That Gold | 1.00% | ~2 |
 | Summiter | 1.00% | ~2 |
+| Forgemaster | 0.80% | ~2 |
 | Shardbearer | 0.80% | ~2 |
-| Forgemaster | 0.40% | ~1 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 237 (Ranked 376)  

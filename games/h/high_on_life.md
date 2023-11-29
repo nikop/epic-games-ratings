@@ -13,6 +13,7 @@ Rating: 4.64 (Ranked 335)
 | G3 Graduation | 3.00% | ~738 |
 | Cold-Blooded Driller | 3.00% | ~738 |
 | Who's The Boss? | 3.00% | ~738 |
+| Don't Knife The Hand That Feeds | 3.00% | ~738 |
 | Creature Feature | 2.00% | ~492 |
 | Lezduit! | 2.00% | ~492 |
 | RIP Davey Glutes | 2.00% | ~492 |
@@ -21,7 +22,6 @@ Rating: 4.64 (Ranked 335)
 | Hardest Battle In The Game | 2.00% | ~492 |
 | Self-Actualization | 2.00% | ~492 |
 | Fallout Doesn't Let You Do This | 2.00% | ~492 |
-| Don't Knife The Hand That Feeds | 2.00% | ~492 |
 | Spent 15 Hours At The Alien Strip Club | 2.00% | ~492 |
 | Series Wrap on Suit-O | 2.00% | ~492 |
 | Eatin' Good in the Neighborhood | 1.00% | ~246 |
@@ -31,7 +31,7 @@ Rating: 4.64 (Ranked 335)
 | Mux Ado About Shipping | 0.80% | ~15 |
 | Gunning For Your Job | 0.70% | ~172 |
 | We Paid For The Rights To Put A Whole Movie In Here | 0.60% | ~148 |
-| Fall In Love With A Parasite | 0.50% | ~9 |
+| Fall In Love With A Parasite | 0.50% | ~10 |
 | Sequel-Bait | 0.40% | ~98 |
 | Playing Favorites | 0.30% | ~74 |
 | Carried Stan's Load To Completion | 0.30% | ~74 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 335)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,606 (Ranked 130)  
+Progressed: 24,609 (Ranked 130)  
 Completed: 14 (0.06%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 14 (0.06%) (Ranked 308)
 | 2023-11-26 | 24,574 | 14 |
 | 2023-11-27 | 24,585 | 14 |
 | 2023-11-28 | 24,598 | 14 |
-| 2023-11-29 | 24,606 | 14 |
+| 2023-11-29 | 24,609 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

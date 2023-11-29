@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -1024,9 +1024,9 @@
       "ID": "ACH_11",
       "SetID": "efe2lj",
       "Name": "Forgemaster",
-      "Percentage": 0.4,
+      "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_12",
@@ -1152,9 +1152,9 @@
       "ID": "ACH_27",
       "SetID": "efe2lj",
       "Name": "False God",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_28",
@@ -1239,8 +1239,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-29T18:09:29.567591+00:00",
+  "LastChanged_Achievements": "2023-11-29T19:09:36.0295917+00:00",
   "LastUpdate_AppInfo": "2023-11-27T19:57:22.2061003+00:00",
-  "LastUpdate_Ratings": "2023-11-29T17:57:17.810604+00:00",
-  "LastUpdate_Achievements": "2023-11-29T18:09:29.567615+00:00"
+  "LastUpdate_Ratings": "2023-11-29T18:57:23.3041871+00:00",
+  "LastUpdate_Achievements": "2023-11-29T19:09:36.0296163+00:00"
 }

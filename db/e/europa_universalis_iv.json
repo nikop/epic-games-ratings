@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 29,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -12583,10 +12583,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 59258,
       "NumberOfAwardsMax": 7199
+    },
+    {
+      "Time": "2023-11-29T18:57:42.5402333+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 59275,
+      "NumberOfAwardsMax": 7199
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 59258,
+  "NumberOfAwards": 59275,
   "NumberOfAwardsMax": 7199,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -12600,7 +12606,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 6823
+      "Count": 6840
     },
     {
       "Text": "This game has Diverse Characters",
@@ -12657,9 +12663,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 465846,
+  "EOS_Progressed": 465872,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4513,
+  "EOS_NewPlayers": 4502,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38262,6 +38268,11 @@
       "Time": "2023-11-29T18:04:02.8420276+00:00",
       "NumProgressed": 465846,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T19:04:14.852462+00:00",
+      "NumProgressed": 465872,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -38911,9 +38922,9 @@
       "ID": "achievement_disciples_of_enlightenment",
       "SetID": "67mdiil",
       "Name": "Disciples of Enlightenment",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 466
     },
     {
       "ID": "achievement_dont_be_cilli",
@@ -41176,21 +41187,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 465846,
+      "Progressed": 465872,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 465846,
+      "Progressed": 465872,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-29T15:58:11.7429479+00:00",
-  "LastChanged_Achievements": "2023-11-29T18:04:02.8420271+00:00",
+  "LastChanged": "2023-11-29T18:57:42.5402331+00:00",
+  "LastChanged_Achievements": "2023-11-29T19:04:14.8524616+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:13.9553272+00:00",
-  "LastUpdate_Ratings": "2023-11-29T17:57:37.4210965+00:00",
-  "LastUpdate_Achievements": "2023-11-29T18:04:02.8430253+00:00"
+  "LastUpdate_Ratings": "2023-11-29T18:57:42.5402336+00:00",
+  "LastUpdate_Achievements": "2023-11-29T19:04:14.8534952+00:00"
 }

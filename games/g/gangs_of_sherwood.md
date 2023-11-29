@@ -13,14 +13,14 @@
 | MAX LEVEL | 63.00% | ~15 |
 | Tap Dancing | 58.00% | ~14 |
 | Right between the eyes | 50.00% | ~12 |
+| Rebel Unleashed | 46.00% | ~11 |
 | Merry Co-operation | 42.00% | ~10 |
 | Savior | 42.00% | ~10 |
 | Spring Board | 42.00% | ~10 |
-| Rebel Unleashed | 42.00% | ~10 |
 | Starry Night | 38.00% | ~9 |
 | Finish Him! | 38.00% | ~9 |
 | Locksley's Tears | 38.00% | ~9 |
-| Assault on the Ram | 33.00% | ~8 |
+| Assault on the Ram | 38.00% | ~9 |
 | First Aid | 33.00% | ~8 |
 | Merry Go Round | 33.00% | ~8 |
 | Ultra Rebel Instinct | 25.00% | ~6 |

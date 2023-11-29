@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
     "PcReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -246,9 +246,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 1277,
+  "EOS_Progressed": 1278,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1631,6 +1631,11 @@
       "Time": "2023-11-27T17:08:07.5800738+00:00",
       "NumProgressed": 1277,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T19:08:44.5195618+00:00",
+      "NumProgressed": 1278,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -1786,7 +1791,7 @@
       "Name": "Memoirs of a Nibbler",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "MYST_KNIFE",
@@ -1826,7 +1831,7 @@
       "Name": "Rising Star",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "SECOND_THOUGHT",
@@ -1888,16 +1893,16 @@
       "ID": "WELCOME_TO_TRUDOGRAD",
       "SetID": "62d2oh4",
       "Name": "Fresh Prince of Trudograd",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1112
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1277,
+      "Progressed": 1278,
       "Completed": 0
     }
   ],
@@ -1905,8 +1910,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-11-22T02:59:27.1616324+00:00",
-  "LastChanged_Achievements": "2023-11-29T18:08:38.1574881+00:00",
+  "LastChanged_Achievements": "2023-11-29T19:08:44.5195614+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:17.2630497+00:00",
-  "LastUpdate_Ratings": "2023-11-29T17:59:17.5293573+00:00",
-  "LastUpdate_Achievements": "2023-11-29T18:08:38.1575128+00:00"
+  "LastUpdate_Ratings": "2023-11-29T18:59:19.4631007+00:00",
+  "LastUpdate_Achievements": "2023-11-29T19:08:44.5195866+00:00"
 }

@@ -1,18 +1,18 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 125)  
+Rating: 4.76 (Ranked 126)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,572 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,573 |
 | First Class Student | 15.00% | ~45,537 |
 | Troll with the Punches | 14.00% | ~42,501 |
-| A Keen Sense of Spell | 13.00% | ~39,465 |
-| That's a Keeper | 13.00% | ~39,465 |
-| The Defender of Dragons | 12.00% | ~36,429 |
-| Loom for Improvement | 12.00% | ~36,429 |
-| A Talent for Spending | 12.00% | ~36,429 |
+| A Keen Sense of Spell | 13.00% | ~39,466 |
+| That's a Keeper | 13.00% | ~39,466 |
+| The Defender of Dragons | 12.00% | ~36,430 |
+| Loom for Improvement | 12.00% | ~36,430 |
+| A Talent for Spending | 12.00% | ~36,430 |
 | Grappling with a Graphorn | 11.00% | ~33,394 |
 | The One Who Mastered Memories | 11.00% | ~33,394 |
 | The Hallowed Hero | 11.00% | ~33,394 |
@@ -26,7 +26,7 @@ Rating: 4.76 (Ranked 125)
 | The Avenging Gazelle | 8.00% | ~24,286 |
 | Beast Friends | 8.00% | ~24,286 |
 | Flight the Good Flight | 8.00% | ~24,286 |
-| Raising Expectations | 7.00% | ~21,250 |
+| Raising Expectations | 7.00% | ~21,251 |
 | The Seeker of Knowledge | 6.00% | ~18,215 |
 | The Root of the Problem | 6.00% | ~18,215 |
 | Third Time's a Charm | 6.00% | ~18,215 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 125)
 | The Nature of the Beast | 0.70% | ~2,125 |
 | Collector's Edition | 0.30% | ~911 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,578 (Ranked 54)  
+Progressed: 303,581 (Ranked 54)  
 Completed: 519 (0.17%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,14 +274,14 @@ Completed: 519 (0.17%) (Ranked 267)
 | 2023-11-26 | 303,320 | 515 |
 | 2023-11-27 | 303,418 | 518 |
 | 2023-11-28 | 303,515 | 519 |
-| 2023-11-29 | 303,578 | 519 |
+| 2023-11-29 | 303,581 | 519 |
 ## Awards
-Max (Character Customization): 24,728  (Ranked 17)  
-Sum: 49,406 (Ranked 30)  
+Max (Character Customization): 24,755  (Ranked 17)  
+Sum: 49,433 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 24,728 |
+| This game has Inclusive Character Customization | 24,755 |
 | This game has Great Boss Battles | 12,630 |
 | This game is Great for Beginners | 1,360 |
 | This game has Amazing Storytelling | 1,309 |
@@ -546,4 +546,4 @@ Diff (max vs sum): -13
 | 2023-11-26 | 4.76 | 24,684 | 49,249 |
 | 2023-11-27 | 4.76 | 24,711 | 49,337 |
 | 2023-11-28 | 4.76 | 24,728 | 49,391 |
-| 2023-11-29 | 4.76 | 24,728 | 49,406 |
+| 2023-11-29 | 4.76 | 24,755 | 49,433 |

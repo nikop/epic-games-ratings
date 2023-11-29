@@ -18,16 +18,16 @@
 | The beast within | 35.00% | ~35 |
 | It's getting dark | 35.00% | ~35 |
 | Sensitive soul | 34.00% | ~34 |
-| Hard Rock | 32.00% | ~32 |
+| Hard Rock | 33.00% | ~33 |
 | Rooftop | 31.00% | ~31 |
 | Homeless | 30.00% | ~30 |
 | Big badaboom! | 29.00% | ~29 |
 | Bookworm | 26.00% | ~26 |
 | Payback | 26.00% | ~26 |
 | Nokron tower | 25.00% | ~25 |
+| Magnitude 5 | 25.00% | ~25 |
 | Full power | 24.00% | ~24 |
 | "Ah sh*t... Here we go again!" | 24.00% | ~24 |
-| Magnitude 5 | 24.00% | ~24 |
 | Compulsive hoarder | 23.00% | ~23 |
 | GG EZ | 17.00% | ~17 |
 | Comeback | 17.00% | ~17 |

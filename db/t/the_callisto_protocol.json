@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1517,9 +1517,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 16493,
+  "EOS_Progressed": 16494,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -9257,6 +9257,11 @@
       "Time": "2023-11-28T18:07:39.563657+00:00",
       "NumProgressed": 16493,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-11-29T19:08:22.0544969+00:00",
+      "NumProgressed": 16494,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 47,
@@ -9300,7 +9305,7 @@
       "Name": "Flesh Wound",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -9643,13 +9648,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16493,
+      "Progressed": 16494,
       "Completed": 81
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4419,
+      "Progressed": 4420,
       "Completed": 29
     }
   ],
@@ -9657,8 +9662,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-28T23:02:49.4230575+00:00",
-  "LastChanged_Achievements": "2023-11-29T18:06:43.9983295+00:00",
+  "LastChanged_Achievements": "2023-11-29T19:08:22.0544966+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:08.1426858+00:00",
-  "LastUpdate_Ratings": "2023-11-29T18:03:01.4034188+00:00",
-  "LastUpdate_Achievements": "2023-11-29T18:06:43.9983831+00:00"
+  "LastUpdate_Ratings": "2023-11-29T19:03:11.8490863+00:00",
+  "LastUpdate_Achievements": "2023-11-29T19:08:22.0545616+00:00"
 }

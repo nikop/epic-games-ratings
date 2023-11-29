@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 343,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -269,9 +269,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17151,
+  "EOS_Progressed": 17152,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6934,6 +6934,11 @@
       "Time": "2023-11-29T14:07:27.8532105+00:00",
       "NumProgressed": 17151,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T19:06:34.8291239+00:00",
+      "NumProgressed": 17152,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -6945,7 +6950,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16293
+      "UsersEstimate": 16294
     },
     {
       "ID": "ACH001",
@@ -6953,7 +6958,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14750
+      "UsersEstimate": 14751
     },
     {
       "ID": "ACH0010",
@@ -7105,7 +7110,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14921
+      "UsersEstimate": 14922
     },
     {
       "ID": "ACH005",
@@ -7121,7 +7126,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 6860
+      "UsersEstimate": 6861
     },
     {
       "ID": "ACH007",
@@ -7152,7 +7157,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 17151,
+      "Progressed": 17152,
       "Completed": 1
     }
   ],
@@ -7160,8 +7165,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-11-08T21:10:20.8275261+00:00",
-  "LastChanged_Achievements": "2023-11-29T18:06:25.9711744+00:00",
+  "LastChanged_Achievements": "2023-11-29T19:06:34.8291235+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:28.1704783+00:00",
-  "LastUpdate_Ratings": "2023-11-29T17:58:38.7183786+00:00",
-  "LastUpdate_Achievements": "2023-11-29T18:06:25.9712138+00:00"
+  "LastUpdate_Ratings": "2023-11-29T18:58:41.8387133+00:00",
+  "LastUpdate_Achievements": "2023-11-29T19:06:34.8291703+00:00"
 }

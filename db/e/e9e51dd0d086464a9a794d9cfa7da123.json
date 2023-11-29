@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 279,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-10-25T04:00:00+00:00",
     "PcReleaseDate": "2023-10-25T04:00:00+00:00",
@@ -687,9 +687,9 @@
       "ID": "MC",
       "SetID": "2621k8c",
       "Name": "Motion Capture",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MS",
@@ -1070,8 +1070,8 @@
   ],
   "FirstSeen": "2023-11-21T16:57:18.9896255+00:00",
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2023-11-29T18:09:34.3081207+00:00",
+  "LastChanged_Achievements": "2023-11-29T19:09:40.3486976+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.1854671+00:00",
-  "LastUpdate_Ratings": "2023-11-29T17:57:49.2478916+00:00",
-  "LastUpdate_Achievements": "2023-11-29T18:09:34.3081958+00:00"
+  "LastUpdate_Ratings": "2023-11-29T18:57:53.9833+00:00",
+  "LastUpdate_Achievements": "2023-11-29T19:09:40.348773+00:00"
 }

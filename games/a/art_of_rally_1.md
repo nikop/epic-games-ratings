@@ -6,18 +6,18 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,913 |
-| keep it tidy | 78.00% | ~8,054 |
+| light attack | 96.00% | ~9,914 |
+| keep it tidy | 78.00% | ~8,055 |
 | podium | 72.00% | ~7,435 |
 | medium attack | 60.00% | ~6,196 |
 | brail | 57.00% | ~5,886 |
-| good drivers have dead flies on the side windows | 44.00% | ~4,543 |
-| grocery-getter | 40.00% | ~4,130 |
+| good drivers have dead flies on the side windows | 44.00% | ~4,544 |
+| grocery-getter | 40.00% | ~4,131 |
 | rwd only | 27.00% | ~2,788 |
 | food tour: pasta | 27.00% | ~2,788 |
 | autopilot | 22.00% | ~2,272 |
 | you can't treat a car like a human being. a car requires love | 22.00% | ~2,272 |
-| to finish first, first you must finish | 21.00% | ~2,168 |
+| to finish first, first you must finish | 21.00% | ~2,169 |
 | turbo | 20.00% | ~2,065 |
 | food tour: pretzel | 20.00% | ~2,065 |
 | bicycle race | 15.00% | ~1,549 |
@@ -26,8 +26,8 @@ Number of Ratings: 56  (23.09.2022)
 | night ride | 14.00% | ~1,446 |
 | the artist | 14.00% | ~1,446 |
 | snorkel | 14.00% | ~1,446 |
-| perkele | 13.00% | ~1,342 |
-| where is the stage? | 13.00% | ~1,342 |
+| perkele | 13.00% | ~1,343 |
+| where is the stage? | 13.00% | ~1,343 |
 | maximum attack | 11.00% | ~1,136 |
 | espresso | 10.00% | ~1,033 |
 | parallel universe | 10.00% | ~1,033 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.40% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,326 (Ranked 165)  
+Progressed: 10,327 (Ranked 165)  
 Completed: 9 (0.09%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,6 +209,7 @@ Completed: 9 (0.09%) (Ranked 291)
 | 2023-11-25 | 10,323 | 9 |
 | 2023-11-27 | 10,325 | 9 |
 | 2023-11-28 | 10,326 | 9 |
+| 2023-11-29 | 10,327 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

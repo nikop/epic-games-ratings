@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 45.00% | ~1,040 |
-| First Love | 43.00% | ~994 |
+| Eat My Dust | 45.00% | ~1,041 |
+| First Love | 43.00% | ~995 |
 | Clean Race | 41.00% | ~948 |
-| Hear That Roar! | 39.00% | ~901 |
-| Rivals to the End | 28.00% | ~647 |
-| Bitter Rivalry | 27.00% | ~624 |
+| Hear That Roar! | 39.00% | ~902 |
+| Rivals to the End | 28.00% | ~648 |
+| Bitter Rivalry | 27.00% | ~625 |
 | Champagne Spray | 25.00% | ~578 |
 | We're Going to Need a Bigger Garage | 24.00% | ~555 |
-| Legendary!!! | 20.00% | ~462 |
+| Legendary!!! | 20.00% | ~463 |
 | Restored and Ready | 19.00% | ~439 |
 | I Want One Too! | 19.00% | ~439 |
 | Quick Pit Stop | 19.00% | ~439 |
@@ -23,8 +23,8 @@
 | Is It the Right Size? | 8.00% | ~185 |
 | Evangelist | 6.00% | ~139 |
 | Make It Your Own! | 5.00% | ~116 |
-| Cherry Blossom and Temples | 4.00% | ~92 |
-| I Make the Rules! | 4.00% | ~92 |
+| Cherry Blossom and Temples | 4.00% | ~93 |
+| I Make the Rules! | 4.00% | ~93 |
 | Spoilt for Choice | 3.00% | ~69 |
 | La Dolce Vita | 3.00% | ~69 |
 | The Road to Liberty | 3.00% | ~69 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,311 (Ranked 219)  
+Progressed: 2,313 (Ranked 219)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,4 +143,4 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-26 | 2,286 | 0 |
 | 2023-11-27 | 2,295 | 0 |
 | 2023-11-28 | 2,303 | 0 |
-| 2023-11-29 | 2,311 | 0 |
+| 2023-11-29 | 2,313 | 0 |

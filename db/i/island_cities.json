@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 27,
   "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -34,7 +34,7 @@
   "EOS_Progressed": 802,
   "EOS_Completed": 132,
   "EOS_NewPlayers": 40,
-  "EOS_NewCompleters": 2,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 16.46,
   "EosHistory": [
     {
@@ -3506,9 +3506,9 @@
       "ID": "LEVEL_013",
       "SetID": "3khpmem",
       "Name": "Elevated ring",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 184
     },
     {
       "ID": "LEVEL_014",
@@ -3595,8 +3595,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-11-29T18:05:03.4581422+00:00",
+  "LastChanged_Achievements": "2023-11-29T19:05:13.8008599+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:17.2540089+00:00",
-  "LastUpdate_Ratings": "2023-11-29T17:59:54.1996961+00:00",
-  "LastUpdate_Achievements": "2023-11-29T18:05:03.4581654+00:00"
+  "LastUpdate_Ratings": "2023-11-29T18:59:56.1547537+00:00",
+  "LastUpdate_Achievements": "2023-11-29T19:05:13.8008857+00:00"
 }

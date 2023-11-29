@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 358,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 17.32,
   "EosHistory": [
@@ -1414,9 +1414,9 @@
       "ID": "ach_complete_10",
       "SetID": "5e260i9",
       "Name": "Clever thinking!",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 100,
-      "UsersEstimate": 290
+      "UsersEstimate": 294
     },
     {
       "ID": "ach_complete_30",
@@ -1438,9 +1438,9 @@
       "ID": "ach_hint_3",
       "SetID": "5e260i9",
       "Name": "A helping hand!",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 40,
-      "UsersEstimate": 222
+      "UsersEstimate": 226
     },
     {
       "ID": "ach_hint_6",
@@ -1470,9 +1470,9 @@
       "ID": "ach_minigames_10",
       "SetID": "5e260i9",
       "Name": "Inquiring mind!",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 80,
-      "UsersEstimate": 247
+      "UsersEstimate": 251
     },
     {
       "ID": "ach_skip_1",
@@ -1509,8 +1509,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-11-29T18:08:29.0089411+00:00",
+  "LastChanged_Achievements": "2023-11-29T19:08:35.7615333+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.3167471+00:00",
-  "LastUpdate_Ratings": "2023-11-29T18:00:31.3173626+00:00",
-  "LastUpdate_Achievements": "2023-11-29T18:08:29.0089553+00:00"
+  "LastUpdate_Ratings": "2023-11-29T19:00:32.158686+00:00",
+  "LastUpdate_Achievements": "2023-11-29T19:08:35.7615482+00:00"
 }

@@ -125,9 +125,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 60217,
+  "EOS_Progressed": 60246,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 11042,
+  "EOS_NewPlayers": 10815,
   "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1700,6 +1700,11 @@
       "Time": "2023-11-29T18:05:45.9731557+00:00",
       "NumProgressed": 60217,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-11-29T19:05:54.9448263+00:00",
+      "NumProgressed": 60246,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -1712,7 +1717,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 22280
+      "UsersEstimate": 22291
     },
     {
       "ID": "Achievement_10",
@@ -1766,9 +1771,9 @@
       "ID": "Achievement_16",
       "SetID": "2md12pi",
       "Name": "Diligent Hogbunny",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 361
+      "UsersEstimate": 422
     },
     {
       "ID": "Achievement_17",
@@ -1800,7 +1805,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 16259
+      "UsersEstimate": 16266
     },
     {
       "ID": "Achievement_20",
@@ -1888,7 +1893,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 6624
+      "UsersEstimate": 6627
     },
     {
       "ID": "Achievement_30",
@@ -1936,7 +1941,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 4817
+      "UsersEstimate": 4820
     },
     {
       "ID": "Achievement_5",
@@ -1944,7 +1949,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3613
+      "UsersEstimate": 3615
     },
     {
       "ID": "Achievement_6",
@@ -1960,7 +1965,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "Achievement_8",
@@ -1968,7 +1973,7 @@
       "Name": "House In Order",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "Achievement_9",
@@ -1983,7 +1988,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 60217,
+      "Progressed": 60246,
       "Completed": 41
     }
   ],
@@ -1991,8 +1996,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-11-29T15:02:27.7188344+00:00",
-  "LastChanged_Achievements": "2023-11-29T18:05:45.9731553+00:00",
+  "LastChanged_Achievements": "2023-11-29T19:05:54.9448259+00:00",
   "LastUpdate_AppInfo": "2023-11-23T11:57:10.0145945+00:00",
-  "LastUpdate_Ratings": "2023-11-29T18:00:41.2335027+00:00",
-  "LastUpdate_Achievements": "2023-11-29T18:05:45.973178+00:00"
+  "LastUpdate_Ratings": "2023-11-29T19:02:50.8796337+00:00",
+  "LastUpdate_Achievements": "2023-11-29T19:05:54.9448551+00:00"
 }

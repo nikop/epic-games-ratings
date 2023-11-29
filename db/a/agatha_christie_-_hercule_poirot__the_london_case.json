@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 111,
   "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
     "PcReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -251,17 +251,17 @@
       "ID": "ACH_013",
       "SetID": "7b646ck",
       "Name": "Seeking the truth",
-      "Percentage": 58,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_014",
       "SetID": "7b646ck",
       "Name": "Little grey cells",
-      "Percentage": 50,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_015",
@@ -307,25 +307,25 @@
       "ID": "ACH_02",
       "SetID": "7b646ck",
       "Name": "The Gala",
-      "Percentage": 53,
-      "XP": 25,
-      "UsersEstimate": 19
-    },
-    {
-      "ID": "ACH_020",
-      "SetID": "7b646ck",
-      "Name": "An old friend",
       "Percentage": 56,
       "XP": 25,
       "UsersEstimate": 20
     },
     {
+      "ID": "ACH_020",
+      "SetID": "7b646ck",
+      "Name": "An old friend",
+      "Percentage": 58,
+      "XP": 25,
+      "UsersEstimate": 21
+    },
+    {
       "ID": "ACH_021",
       "SetID": "7b646ck",
       "Name": "A curious gathering",
-      "Percentage": 53,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_022",
@@ -379,9 +379,9 @@
       "ID": "ACH_028",
       "SetID": "7b646ck",
       "Name": "Impossible is possible",
-      "Percentage": 50,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_029",
@@ -395,9 +395,9 @@
       "ID": "ACH_03",
       "SetID": "7b646ck",
       "Name": "The Missing Magdalene",
-      "Percentage": 50,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_030",
@@ -435,9 +435,9 @@
       "ID": "ACH_034",
       "SetID": "7b646ck",
       "Name": "DI Hardwicke",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_035",
@@ -459,9 +459,9 @@
       "ID": "ACH_037",
       "SetID": "7b646ck",
       "Name": "Arthur Hastings",
-      "Percentage": 50,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_038",
@@ -594,8 +594,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-11-29T18:08:27.3323503+00:00",
+  "LastChanged_Achievements": "2023-11-29T19:08:34.2016183+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:12.8789195+00:00",
-  "LastUpdate_Ratings": "2023-11-29T18:03:08.3731264+00:00",
-  "LastUpdate_Achievements": "2023-11-29T18:08:27.3323761+00:00"
+  "LastUpdate_Ratings": "2023-11-29T19:03:18.8571206+00:00",
+  "LastUpdate_Achievements": "2023-11-29T19:08:34.2016451+00:00"
 }

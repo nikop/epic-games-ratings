@@ -6,16 +6,16 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~116,358 |
+| A Place to Lay Your Head | 93.00% | ~116,359 |
 | Don't Make Me Turn This Coach Around | 72.00% | ~90,084 |
-| A Clear Conscience | 69.00% | ~86,330 |
-| Unleash Hell | 68.00% | ~85,079 |
-| Unfulfilled Desires | 68.00% | ~85,079 |
+| A Clear Conscience | 69.00% | ~86,331 |
+| Unleash Hell | 68.00% | ~85,080 |
+| Unfulfilled Desires | 68.00% | ~85,080 |
 | Funny Guy | 67.00% | ~83,828 |
 | Unshackled | 67.00% | ~83,828 |
 | Long Live the King | 66.00% | ~82,577 |
-| Wyrdly Reconstructed | 63.00% | ~78,823 |
-| Resurrection | 62.00% | ~77,572 |
+| Wyrdly Reconstructed | 63.00% | ~78,824 |
+| Resurrection | 62.00% | ~77,573 |
 | Boxcar Kid | 61.00% | ~76,321 |
 | To Grandmother's House | 61.00% | ~76,321 |
 | Rush Hour | 60.00% | ~75,070 |
@@ -28,8 +28,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Harvest Festival | 37.00% | ~46,293 |
 | Hot Air | 37.00% | ~46,293 |
 | Merry Time | 36.00% | ~45,042 |
-| Creep and Sleep | 34.00% | ~42,539 |
-| Overdue Notice | 33.00% | ~41,288 |
+| Creep and Sleep | 34.00% | ~42,540 |
+| Overdue Notice | 33.00% | ~41,289 |
 | Banishment | 32.00% | ~40,037 |
 | Whale | 32.00% | ~40,037 |
 | FNG | 30.00% | ~37,535 |
@@ -46,18 +46,18 @@ Number of Ratings: 7,767  (23.09.2022)
 | This Belongs in a Museum | 17.00% | ~21,270 |
 | It Happens | 17.00% | ~21,270 |
 | Handled | 16.00% | ~20,019 |
-| Catch and Decease | 15.00% | ~18,767 |
+| Catch and Decease | 15.00% | ~18,768 |
 | Not Today! | 14.00% | ~17,516 |
 | Deprogramming | 14.00% | ~17,516 |
 | Shrine of Reflection | 12.00% | ~15,014 |
 | When You Want Something Done Right | 12.00% | ~15,014 |
 | Body of Work | 10.00% | ~12,512 |
-| Utopia | 9.00% | ~11,260 |
+| Utopia | 9.00% | ~11,261 |
 | No More Mouths to Feed | 7.00% | ~8,758 |
 | Hat Trick | 7.00% | ~8,758 |
 | Ichthyophobic | 6.00% | ~7,507 |
 | The World As It Was | 4.00% | ~5,005 |
-| Triage | 3.00% | ~3,753 |
+| Triage | 3.00% | ~3,754 |
 | A Life Well Lived | 2.00% | ~2,502 |
 | Clearing the Ledger | 2.00% | ~2,502 |
 | Pub Crawl | 2.00% | ~2,502 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~125 |
 | No Gravestone Left Unturned | 0.10% | ~125 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125,116 (Ranked 84)  
+Progressed: 125,117 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 2 (0.00%) (Ranked 363)
 | 2023-11-26 | 124,857 | 2 |
 | 2023-11-27 | 124,959 | 2 |
 | 2023-11-28 | 125,060 | 2 |
-| 2023-11-29 | 125,116 | 2 |
+| 2023-11-29 | 125,117 | 2 |
 ## Awards
 Max (Character Customization): 7,544  (Ranked 52)  
 Sum: 19,901 (Ranked 59)  

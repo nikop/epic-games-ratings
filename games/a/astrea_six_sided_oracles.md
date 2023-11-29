@@ -38,11 +38,11 @@
 | Anomaly Control | 9.00% | ~8 |
 | Lacertian Hero | 9.00% | ~8 |
 | Artificer | 7.00% | ~7 |
+| Can't touch this | 7.00% | ~7 |
 | The Chaos Artisan | 7.00% | ~7 |
 | The Dark Moon | 7.00% | ~7 |
 | The Distorted Sage | 7.00% | ~7 |
 | Behenian Hero | 7.00% | ~7 |
-| Can't touch this | 6.00% | ~6 |
 | Denying Destiny | 6.00% | ~6 |
 | Behenian Mastery | 6.00% | ~6 |
 | If I Had Failed... | 5.00% | ~5 |

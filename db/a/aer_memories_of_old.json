@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25162,
+  "EOS_Progressed": 25164,
   "EOS_Completed": 478,
-  "EOS_NewPlayers": 480,
+  "EOS_NewPlayers": 478,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.9,
   "EosHistory": [
@@ -24384,6 +24384,11 @@
       "Time": "2023-11-29T18:06:05.597343+00:00",
       "NumProgressed": 25162,
       "NumCompleted": 478
+    },
+    {
+      "Time": "2023-11-29T19:06:14.786454+00:00",
+      "NumProgressed": 25164,
+      "NumCompleted": 478
     }
   ],
   "TotalAchievements": 20,
@@ -24451,7 +24456,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3019
+      "UsersEstimate": 3020
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -24467,7 +24472,7 @@
       "Name": "Hide and Seek",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -24507,7 +24512,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3019
+      "UsersEstimate": 3020
     },
     {
       "ID": "INTRO_FINISHED",
@@ -24515,7 +24520,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 19123
+      "UsersEstimate": 19125
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -24547,22 +24552,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4529
+      "UsersEstimate": 4530
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 25162,
+      "Progressed": 25164,
       "Completed": 478
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-11-29T18:06:05.5973424+00:00",
+  "LastChanged_Achievements": "2023-11-29T19:06:14.7864535+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.8906099+00:00",
-  "LastUpdate_Ratings": "2023-11-29T17:57:25.8231793+00:00",
-  "LastUpdate_Achievements": "2023-11-29T18:06:05.5974568+00:00"
+  "LastUpdate_Ratings": "2023-11-29T18:57:31.0905288+00:00",
+  "LastUpdate_Achievements": "2023-11-29T19:06:14.7865667+00:00"
 }

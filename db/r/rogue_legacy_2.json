@@ -2,13 +2,13 @@
   "ID": "4966d5da285c4f2c876937844b0e23ee",
   "Name": "Rogue Legacy 2",
   "ProductSlug": "rogue-legacy-2",
-  "Ranking_Rating": 44,
+  "Ranking_Rating": 43,
   "Ranking_Popularity": 276,
   "Ranking_PopularitySum": 223,
-  "Ranking_EOS_Progress": 131,
+  "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1494,9 +1494,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 23625,
+  "EOS_Progressed": 23627,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10059,6 +10059,11 @@
       "Time": "2023-11-29T18:08:57.6317871+00:00",
       "NumProgressed": 23625,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-29T19:09:04.2834132+00:00",
+      "NumProgressed": 23627,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -10190,7 +10195,7 @@
       "Name": "For Survival",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "BossForestDefeated",
@@ -10198,7 +10203,7 @@
       "Name": "Harvest and Home",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -10222,7 +10227,7 @@
       "Name": "For Love",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "BossStudyDefeated",
@@ -10230,7 +10235,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -10246,7 +10251,7 @@
       "Name": "Suns and Soldiers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "BoxerBoss",
@@ -10262,7 +10267,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "EndTimerFail",
@@ -10366,7 +10371,7 @@
       "Name": "Jack of all Trades",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "UnlockHighestUnity",
@@ -10374,28 +10379,28 @@
       "Name": "Color Coordination",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 23625,
+      "Progressed": 23627,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 2555,
+      "Progressed": 2557,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-11-23T01:44:15.9568537+00:00",
-  "LastChanged_Achievements": "2023-11-29T18:08:57.6317866+00:00",
+  "LastChanged_Achievements": "2023-11-29T19:09:04.2834128+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:12.4844907+00:00",
-  "LastUpdate_Ratings": "2023-11-29T17:57:55.8833765+00:00",
-  "LastUpdate_Achievements": "2023-11-29T18:08:57.6318368+00:00"
+  "LastUpdate_Ratings": "2023-11-29T18:58:00.8955936+00:00",
+  "LastUpdate_Achievements": "2023-11-29T19:09:04.2834658+00:00"
 }

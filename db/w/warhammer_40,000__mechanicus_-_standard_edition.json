@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -948,7 +948,7 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 228250,
+  "EOS_Progressed": 228253,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 470,
   "EOS_NewCompleters": 0,
@@ -25338,6 +25338,11 @@
       "Time": "2023-11-29T18:09:26.0126244+00:00",
       "NumProgressed": 228250,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-29T19:09:32.4090884+00:00",
+      "NumProgressed": 228253,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -25349,7 +25354,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 45650
+      "UsersEstimate": 45651
     },
     {
       "ID": "ACH_BASE_10",
@@ -25357,7 +25362,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59345
+      "UsersEstimate": 59346
     },
     {
       "ID": "ACH_BASE_11",
@@ -25389,7 +25394,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20542
+      "UsersEstimate": 20543
     },
     {
       "ID": "ACH_BASE_16",
@@ -25405,7 +25410,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20542
+      "UsersEstimate": 20543
     },
     {
       "ID": "ACH_BASE_18",
@@ -25413,7 +25418,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20542
+      "UsersEstimate": 20543
     },
     {
       "ID": "ACH_BASE_19",
@@ -25477,7 +25482,7 @@
       "Name": "Hard",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACH_BASE_26",
@@ -25493,7 +25498,7 @@
       "Name": "Sensory overload",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACH_BASE_28",
@@ -25501,7 +25506,7 @@
       "Name": "Transonic Blur",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACH_BASE_29",
@@ -25549,7 +25554,7 @@
       "Name": "Not the Men-of-Iron",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACH_BASE_34",
@@ -25613,14 +25618,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20542
+      "UsersEstimate": 20543
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 228250,
+      "Progressed": 228253,
       "Completed": 5
     }
   ],
@@ -25628,8 +25633,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-11-28T02:26:12.6557311+00:00",
-  "LastChanged_Achievements": "2023-11-29T18:09:26.0126238+00:00",
+  "LastChanged_Achievements": "2023-11-29T19:09:32.4090879+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:35.278824+00:00",
-  "LastUpdate_Ratings": "2023-11-29T17:58:03.8742052+00:00",
-  "LastUpdate_Achievements": "2023-11-29T18:09:26.0127535+00:00"
+  "LastUpdate_Ratings": "2023-11-29T18:58:08.8411201+00:00",
+  "LastUpdate_Achievements": "2023-11-29T19:09:32.4092333+00:00"
 }

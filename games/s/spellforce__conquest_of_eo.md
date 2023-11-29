@@ -8,15 +8,15 @@
 | Home Sweet Home | 91.00% | ~32 |
 | First to the post | 91.00% | ~32 |
 | A kind of Magic | 86.00% | ~30 |
-| Connected | 83.00% | ~29 |
-| Expansion | 77.00% | ~27 |
-| Harvest Time | 71.00% | ~25 |
+| Connected | 86.00% | ~30 |
+| Expansion | 80.00% | ~28 |
+| Harvest Time | 74.00% | ~26 |
 | Mine! | 71.00% | ~25 |
 | Artificer's Apprentice | 63.00% | ~22 |
-| Fly the friendly Sky | 57.00% | ~20 |
+| Fly the friendly Sky | 60.00% | ~21 |
+| Get out of here! | 57.00% | ~20 |
 | Alchemist's Apprentice | 54.00% | ~19 |
 | Friend of Lyraine | 54.00% | ~19 |
-| Get out of here! | 54.00% | ~19 |
 | The Circle | 51.00% | ~18 |
 | Necromancer's Apprentice | 49.00% | ~17 |
 | Redecorating | 43.00% | ~15 |
