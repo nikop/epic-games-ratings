@@ -10,15 +10,15 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Old Grandmaster | 0.70% | ~5,023 |
 | Life is your teacher | 0.70% | ~5,023 |
 | Project Arena | 0.70% | ~188 |
-| The Assault | 0.60% | ~4,305 |
-| The Hateful Pole Fighter | 0.60% | ~4,305 |
-| A Lady's Blood in the Snow | 0.60% | ~4,305 |
-| State of constant learning | 0.60% | ~4,305 |
-| Qi Gong: Breath | 0.60% | ~4,305 |
-| Qi Gong: Essence | 0.60% | ~4,305 |
-| Lightning Hands | 0.60% | ~4,305 |
-| Path of the Prospect | 0.60% | ~4,305 |
-| Rumble in the Hangar | 0.60% | ~4,305 |
+| The Assault | 0.60% | ~4,306 |
+| The Hateful Pole Fighter | 0.60% | ~4,306 |
+| A Lady's Blood in the Snow | 0.60% | ~4,306 |
+| State of constant learning | 0.60% | ~4,306 |
+| Qi Gong: Breath | 0.60% | ~4,306 |
+| Qi Gong: Essence | 0.60% | ~4,306 |
+| Lightning Hands | 0.60% | ~4,306 |
+| Path of the Prospect | 0.60% | ~4,306 |
+| Rumble in the Hangar | 0.60% | ~4,306 |
 | Fight the way you practice | 0.60% | ~161 |
 | Lady Wing Chun | 0.50% | ~3,588 |
 | Furious Fists | 0.50% | ~3,588 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,582 (Ranked 22)  
+Progressed: 717,584 (Ranked 22)  
 Completed: 12,941 (1.80%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 12,941 (1.80%) (Ranked 132)
 | 2023-11-26 | 717,455 | 12,940 |
 | 2023-11-27 | 717,516 | 12,940 |
 | 2023-11-28 | 717,575 | 12,941 |
-| 2023-11-29 | 717,582 | 12,941 |
+| 2023-11-29 | 717,584 | 12,941 |
 ## Awards
 Max (Great Boss Battles): 6,852  (Ranked 55)  
 Sum: 11,998 (Ranked 83)  

@@ -553,7 +553,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2796,
+  "EOS_Progressed": 2797,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 0,
@@ -8333,6 +8333,11 @@
       "Time": "2023-11-29T04:14:49.4872618+00:00",
       "NumProgressed": 2796,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-29T05:09:04.1371269+00:00",
+      "NumProgressed": 2797,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -8448,7 +8453,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "dragonmaster",
@@ -8456,7 +8461,7 @@
       "Name": "Dragon Master",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "dragonslayer",
@@ -8512,7 +8517,7 @@
       "Name": "Enlightenment",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "exoticmerchant",
@@ -8528,7 +8533,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "fourleafclover",
@@ -8552,7 +8557,7 @@
       "Name": "Full Party",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "gearenchanting",
@@ -8592,7 +8597,7 @@
       "Name": "Hero inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "howdoyouturnthison",
@@ -8616,7 +8621,7 @@
       "Name": "Inspection",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "jewelenchanting",
@@ -8640,7 +8645,7 @@
       "Name": "Lieutenant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "lockandload",
@@ -8680,7 +8685,7 @@
       "Name": "Miner Clicker",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "missionsdedication",
@@ -8904,7 +8909,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2600
+      "UsersEstimate": 2601
     },
     {
       "ID": "warmachinesarmy",
@@ -8936,14 +8941,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2796,
+      "Progressed": 2797,
       "Completed": 2
     }
   ],
@@ -8951,8 +8956,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-28T14:02:57.4349611+00:00",
-  "LastChanged_Achievements": "2023-11-29T04:14:49.4872611+00:00",
+  "LastChanged_Achievements": "2023-11-29T05:09:04.1371265+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:01.7095439+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:02:09.7386592+00:00",
-  "LastUpdate_Achievements": "2023-11-29T04:14:49.4873505+00:00"
+  "LastUpdate_Ratings": "2023-11-29T04:56:54.4314499+00:00",
+  "LastUpdate_Achievements": "2023-11-29T05:09:04.1372176+00:00"
 }

@@ -558,7 +558,7 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16730,
+  "EOS_Progressed": 16731,
   "EOS_Completed": 116,
   "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
@@ -15093,6 +15093,11 @@
       "Time": "2023-11-29T01:57:09.0095975+00:00",
       "NumProgressed": 16730,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-11-29T05:04:10.6281457+00:00",
+      "NumProgressed": 16731,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15128,7 +15133,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "tpote_achievement_13",
@@ -15136,7 +15141,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "tpote_achievement_14",
@@ -15184,7 +15189,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3011
+      "UsersEstimate": 3012
     },
     {
       "ID": "tpote_achievement_2",
@@ -15256,7 +15261,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3011
+      "UsersEstimate": 3012
     },
     {
       "ID": "tpote_achievement_28",
@@ -15296,7 +15301,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 3011
+      "UsersEstimate": 3012
     },
     {
       "ID": "tpote_achievement_32",
@@ -15344,7 +15349,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "tpote_achievement_38",
@@ -15416,7 +15421,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3513
+      "UsersEstimate": 3514
     },
     {
       "ID": "tpote_achievement_9",
@@ -15424,22 +15429,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5688
+      "UsersEstimate": 5689
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16730,
+      "Progressed": 16731,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-29T04:10:23.8149556+00:00",
+  "LastChanged_Achievements": "2023-11-29T05:04:10.6281454+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:06.2264545+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:05:07.8357387+00:00",
-  "LastUpdate_Achievements": "2023-11-29T04:10:23.8150705+00:00"
+  "LastUpdate_Ratings": "2023-11-29T04:58:48.4365694+00:00",
+  "LastUpdate_Achievements": "2023-11-29T05:04:10.6282398+00:00"
 }

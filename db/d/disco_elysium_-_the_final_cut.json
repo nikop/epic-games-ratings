@@ -1514,7 +1514,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131373,
+  "EOS_Progressed": 131375,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 0,
@@ -23269,6 +23269,11 @@
       "Time": "2023-11-29T01:55:48.3674468+00:00",
       "NumProgressed": 131373,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-29T05:03:15.03469+00:00",
+      "NumProgressed": 131375,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -23312,7 +23317,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23647
+      "UsersEstimate": 23648
     },
     {
       "ID": "ACH_COP_BAD",
@@ -23320,7 +23325,7 @@
       "Name": "Baddest Of the Bad Cops",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2627
+      "UsersEstimate": 2628
     },
     {
       "ID": "ACH_COP_BORING",
@@ -23360,7 +23365,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36784
+      "UsersEstimate": 36785
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -23392,7 +23397,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27588
+      "UsersEstimate": 27589
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -23400,7 +23405,7 @@
       "Name": "Expert Advanced Remote Viewer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2627
+      "UsersEstimate": 2628
     },
     {
       "ID": "ACH_COP_SORRY",
@@ -23408,7 +23413,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 17078
+      "UsersEstimate": 17079
     },
     {
       "ID": "ACH_COP_STAR",
@@ -23432,7 +23437,7 @@
       "Name": "Recruit Detective Kuuno de Ruyter",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2627
+      "UsersEstimate": 2628
     },
     {
       "ID": "ACH_DOLORES",
@@ -23440,7 +23445,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 13137
+      "UsersEstimate": 13138
     },
     {
       "ID": "ACH_GLUTEN",
@@ -23568,7 +23573,7 @@
       "Name": "Wheel of Pleasure and Light",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2627
+      "UsersEstimate": 2628
     },
     {
       "ID": "ACH_POWERARMOR",
@@ -23599,15 +23604,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131373,
+      "Progressed": 131375,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-28T12:00:15.5937153+00:00",
-  "LastChanged_Achievements": "2023-11-29T04:09:02.3578702+00:00",
+  "LastChanged_Achievements": "2023-11-29T05:03:15.0346894+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:19.415585+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:05:38.2480282+00:00",
-  "LastUpdate_Achievements": "2023-11-29T04:09:02.3579791+00:00"
+  "LastUpdate_Ratings": "2023-11-29T04:59:07.2157757+00:00",
+  "LastUpdate_Achievements": "2023-11-29T05:03:15.0348197+00:00"
 }

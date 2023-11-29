@@ -6,7 +6,7 @@ Rating: 4.44 (Ranked 676)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sector 1 | 23.00% | ~5,202 |
-| Sector 2 | 20.00% | ~4,524 |
+| Sector 2 | 21.00% | ~4,750 |
 | Crush That Cube! | 17.00% | ~3,845 |
 | Sector 3 | 17.00% | ~3,845 |
 | Crush That Ball! | 14.00% | ~3,167 |

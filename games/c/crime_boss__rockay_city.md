@@ -11,13 +11,13 @@ Rating: 3.95 (Ranked 1,012)
 | Underworld Initiate | 2.00% | ~1,833 |
 | Too Old for This | 2.00% | ~1,833 |
 | Fancy Pants | 2.00% | ~1,833 |
-| Roid Ranger | 1.00% | ~916 |
-| Case Closed | 1.00% | ~916 |
-| King of the Hill | 1.00% | ~916 |
-| Off the Rocks | 1.00% | ~916 |
-| Raider’s Ruin | 1.00% | ~916 |
-| Dragonslayer | 1.00% | ~916 |
-| Rockay Rex | 1.00% | ~916 |
+| Roid Ranger | 1.00% | ~917 |
+| Case Closed | 1.00% | ~917 |
+| King of the Hill | 1.00% | ~917 |
+| Off the Rocks | 1.00% | ~917 |
+| Raider’s Ruin | 1.00% | ~917 |
+| Dragonslayer | 1.00% | ~917 |
+| Rockay Rex | 1.00% | ~917 |
 | Hidden Sonata | 0.90% | ~825 |
 | True Player | 0.90% | ~825 |
 | Track Star | 0.80% | ~733 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,012)
 | Full House | 0.10% | ~92 |
 | Geek Out | 0.10% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,650 (Ranked 92)  
+Progressed: 91,651 (Ranked 92)  
 Completed: 58 (0.06%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 58 (0.06%) (Ranked 308)
 | 2023-11-26 | 91,597 | 57 |
 | 2023-11-27 | 91,616 | 58 |
 | 2023-11-28 | 91,644 | 58 |
-| 2023-11-29 | 91,650 | 58 |
+| 2023-11-29 | 91,651 | 58 |
 ## Awards
 Max (Diverse Characters): 545  (Ranked 206)  
 Sum: 2,613 (Ranked 187)  

@@ -17,6 +17,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Serving Ale | 0.10% | ~18 |
 | Feeding The People | 0.10% | ~18 |
 | Human Utopia | 0.10% | ~18 |
+| Lizard Utopia | 0.10% | ~18 |
 | Efficient Explorer | 0.10% | ~18 |
 | Refinery | 0.10% | ~18 |
 | Homesick | 0.10% | ~18 |
@@ -61,7 +62,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.00% | ~0 |
 | Beaver Utopia | 0.00% | ~0 |
 | Harpy Utopia | 0.00% | ~0 |
-| Lizard Utopia | 0.00% | ~0 |
 | The Queen's Chosen | 0.00% | ~0 |
 | Treasure | 0.00% | ~0 |
 | Ruins | 0.00% | ~0 |

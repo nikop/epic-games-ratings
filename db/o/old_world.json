@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2046,7 +2046,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15536,
+  "EOS_Progressed": 15537,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
@@ -16741,6 +16741,11 @@
       "Time": "2023-11-29T04:12:04.1314258+00:00",
       "NumProgressed": 15536,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-29T05:05:19.9767976+00:00",
+      "NumProgressed": 15537,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -18574,9 +18579,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_EGYPT",
       "SetID": "7l38kb8",
       "Name": "Egyptian Paganism",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 311
+      "UsersEstimate": 466
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_GREECE",
@@ -19487,21 +19492,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15536,
+      "Progressed": 15537,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15536,
+      "Progressed": 15537,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-27T16:01:26.663656+00:00",
-  "LastChanged_Achievements": "2023-11-29T04:12:04.1314253+00:00",
+  "LastChanged_Achievements": "2023-11-29T05:05:19.9767973+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.3516564+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:02:45.6962526+00:00",
-  "LastUpdate_Achievements": "2023-11-29T04:12:04.1322962+00:00"
+  "LastUpdate_Ratings": "2023-11-29T04:57:18.6085691+00:00",
+  "LastUpdate_Achievements": "2023-11-29T05:05:19.9776849+00:00"
 }

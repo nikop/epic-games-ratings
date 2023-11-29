@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 219,
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 343,
-  "Ranking_EOS_NewPlayers": 50,
+  "Ranking_EOS_NewPlayers": 51,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
@@ -3363,18 +3363,24 @@
       "Rating": 4.44,
       "NumberOfAwards": 1854,
       "NumberOfAwardsMax": 926
+    },
+    {
+      "Time": "2023-11-29T04:59:14.6654819+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 1859,
+      "NumberOfAwardsMax": 931
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1854,
-  "NumberOfAwardsMax": 926,
+  "NumberOfAwards": 1859,
+  "NumberOfAwardsMax": 931,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 926
+      "Count": 931
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3437,9 +3443,9 @@
       "Count": 48
     }
   ],
-  "EOS_Progressed": 419823,
+  "EOS_Progressed": 419825,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 1853,
+  "EOS_NewPlayers": 1850,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20197,6 +20203,11 @@
       "Time": "2023-11-29T04:10:08.5116152+00:00",
       "NumProgressed": 419823,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-11-29T05:04:00.66871+00:00",
+      "NumProgressed": 419825,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 89,
@@ -20256,7 +20267,7 @@
       "Name": "At the last moment!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 25189
+      "UsersEstimate": 25190
     },
     {
       "ID": "AchievementAtomicAge_NAME",
@@ -20296,7 +20307,7 @@
       "Name": "Bridgemania",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 58775
+      "UsersEstimate": 58776
     },
     {
       "ID": "AchievementBuilder",
@@ -20312,7 +20323,7 @@
       "Name": "Close call!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 125947
+      "UsersEstimate": 125948
     },
     {
       "ID": "AchievementCommonCause",
@@ -20336,7 +20347,7 @@
       "Name": "Dealmaker",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 306471
+      "UsersEstimate": 306472
     },
     {
       "ID": "AchievementDigitalAge_NAME",
@@ -20376,7 +20387,7 @@
       "Name": "Forgot something",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 146938
+      "UsersEstimate": 146939
     },
     {
       "ID": "AchievementForgotten",
@@ -20392,7 +20403,7 @@
       "Name": "Full garage",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 256092
+      "UsersEstimate": 256093
     },
     {
       "ID": "AchievementGemologist_NAME",
@@ -20408,7 +20419,7 @@
       "Name": "Get out my way",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 117550
+      "UsersEstimate": 117551
     },
     {
       "ID": "AchievementGlobalisationAge",
@@ -20432,7 +20443,7 @@
       "Name": "Individual delivery",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 197317
+      "UsersEstimate": 197318
     },
     {
       "ID": "AchievementIndustrialAge",
@@ -20488,7 +20499,7 @@
       "Name": "Juggler",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 151136
+      "UsersEstimate": 151137
     },
     {
       "ID": "AchievementJustInTime",
@@ -20528,7 +20539,7 @@
       "Name": "Mega-railroad",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 96559
+      "UsersEstimate": 96560
     },
     {
       "ID": "AchievementMetroBuilder",
@@ -20568,7 +20579,7 @@
       "Name": "Multilevel road",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 62973
+      "UsersEstimate": 62974
     },
     {
       "ID": "AchievementNeedToThink",
@@ -20576,7 +20587,7 @@
       "Name": "Need to think",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 58775
+      "UsersEstimate": 58776
     },
     {
       "ID": "AchievementNonStop",
@@ -20584,7 +20595,7 @@
       "Name": "Non-Stop",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 188920
+      "UsersEstimate": 188921
     },
     {
       "ID": "AchievementOneWay",
@@ -20608,7 +20619,7 @@
       "Name": "Overseer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 25189
+      "UsersEstimate": 25190
     },
     {
       "ID": "AchievementPinkRuby_NAME",
@@ -20720,7 +20731,7 @@
       "Name": "To the eyeballs!",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 214110
+      "UsersEstimate": 214111
     },
     {
       "ID": "AchievementTourismAge",
@@ -20744,7 +20755,7 @@
       "Name": "Upgrade complete",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 96559
+      "UsersEstimate": 96560
     },
     {
       "ID": "AchievementUrbanizationAge",
@@ -20919,21 +20930,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 419164,
+      "Progressed": 419166,
       "Completed": 10
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 419823,
+      "Progressed": 419825,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
-  "LastChanged": "2023-11-28T22:59:23.9893658+00:00",
-  "LastChanged_Achievements": "2023-11-29T04:10:08.5116148+00:00",
+  "LastChanged": "2023-11-29T04:59:14.6654818+00:00",
+  "LastChanged_Achievements": "2023-11-29T05:04:00.6687096+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:06.1864282+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:05:49.8472997+00:00",
-  "LastUpdate_Achievements": "2023-11-29T04:10:08.5117434+00:00"
+  "LastUpdate_Ratings": "2023-11-29T04:59:14.6654822+00:00",
+  "LastUpdate_Achievements": "2023-11-29T05:04:00.6688395+00:00"
 }

@@ -5,14 +5,14 @@ Rating: 4.84 (Ranked 51)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~229,719 |
-| Private Club | 74.00% | ~186,805 |
-| Rogue Guild | 65.00% | ~164,085 |
-| I Watched the Intro | 57.00% | ~143,890 |
-| Covert Consortium | 55.00% | ~138,841 |
+| Forgotten Sorority | 91.00% | ~229,720 |
+| Private Club | 74.00% | ~186,806 |
+| Rogue Guild | 65.00% | ~164,086 |
+| I Watched the Intro | 57.00% | ~143,891 |
+| Covert Consortium | 55.00% | ~138,842 |
 | Goat Queen | 53.00% | ~133,793 |
 | Reach the Stratosphere | 51.00% | ~128,744 |
-| Synchronization Complete | 47.00% | ~118,646 |
+| Synchronization Complete | 47.00% | ~118,647 |
 | Secret Society | 45.00% | ~113,598 |
 | Shadow Syndicate | 38.00% | ~95,927 |
 | What a Waste of Money | 33.00% | ~83,305 |
@@ -22,12 +22,12 @@ Rating: 4.84 (Ranked 51)
 | Real Buoy | 27.00% | ~68,159 |
 | Raider of the Lost Parking Garage | 26.00% | ~65,634 |
 | Welcome to Earth | 25.00% | ~63,110 |
-| Into the Matrix | 19.00% | ~47,963 |
+| Into the Matrix | 19.00% | ~47,964 |
 | Egg Simulator | 18.00% | ~45,439 |
 | Where is It? | 17.00% | ~42,915 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~37,866 |
 | 401(K.O.) | 15.00% | ~37,866 |
-| Black Market | 14.00% | ~35,341 |
+| Black Market | 14.00% | ~35,342 |
 | Car Cave | 12.00% | ~30,293 |
 | Club Mohair | 8.00% | ~20,195 |
 | A Center for Ants? | 8.00% | ~20,195 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 51)
 | Move! That! Bus! | 0.60% | ~1,515 |
 | G.O.A.T | 0.40% | ~1,010 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,439 (Ranked 60)  
+Progressed: 252,440 (Ranked 60)  
 Completed: 892 (0.35%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 892 (0.35%) (Ranked 229)
 | 2023-11-26 | 252,231 | 889 |
 | 2023-11-27 | 252,347 | 892 |
 | 2023-11-28 | 252,430 | 892 |
-| 2023-11-29 | 252,439 | 892 |
+| 2023-11-29 | 252,440 | 892 |
 ## Awards
 Max (Great for Beginners): 472  (Ranked 216)  
 Sum: 3,925 (Ranked 157)  

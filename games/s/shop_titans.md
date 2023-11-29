@@ -9,7 +9,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 6.00% | ~8,566 |
 | Basic in Bulk | 6.00% | ~8,566 |
 | Titan's First Steps | 6.00% | ~8,566 |
-| Tinkle of Coins | 5.00% | ~7,138 |
+| Tinkle of Coins | 5.00% | ~7,139 |
 | Disintermediation | 4.00% | ~5,711 |
 | Another Satisfied Customer | 4.00% | ~5,711 |
 | It's Free Real Estate | 4.00% | ~5,711 |
@@ -26,44 +26,44 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 3.00% | ~4,283 |
 | Through Repetition, Perfection | 3.00% | ~4,283 |
 | Own the Means of Production | 3.00% | ~4,283 |
-| On the Path to Greatness | 2.00% | ~2,855 |
-| A Notch Above the Rest | 2.00% | ~2,855 |
-| Ascended | 2.00% | ~2,855 |
-| Tax not Included | 2.00% | ~2,855 |
-| The King's Caprice | 2.00% | ~2,855 |
-| Research & Development | 2.00% | ~2,855 |
-| Vanity, Verily | 2.00% | ~2,855 |
-| Big Game Hunting | 2.00% | ~2,855 |
-| Fated Encounters | 2.00% | ~2,855 |
-| For the Hoard! | 2.00% | ~2,855 |
-| Blank Page Syndrome | 2.00% | ~2,855 |
-| Scrapbooker | 2.00% | ~2,855 |
-| Demand for Supplies | 2.00% | ~2,855 |
-| Locally Sourced | 2.00% | ~2,855 |
-| Flying off the Shelves | 2.00% | ~2,855 |
-| This Power Level...! | 2.00% | ~2,855 |
-| Hidden Potential | 2.00% | ~2,855 |
-| Power of Love | 2.00% | ~2,855 |
-| Expansion in Session | 2.00% | ~2,855 |
-| Efficient Floor Space | 2.00% | ~2,855 |
-| Cranked up to 11 | 2.00% | ~2,855 |
-| Flawless Fusion | 2.00% | ~2,855 |
-| Trash to Treasure | 2.00% | ~2,855 |
-| Gem Expert | 2.00% | ~2,855 |
-| Gild-Gotten Goods | 2.00% | ~2,855 |
-| Royal Ransom | 2.00% | ~2,855 |
-| Mammonite | 2.00% | ~2,855 |
-| Helping Hand | 2.00% | ~2,855 |
-| Accomplished Merchant | 2.00% | ~2,855 |
-| Laden with Loot | 2.00% | ~2,855 |
-| Natural 20 | 2.00% | ~2,855 |
-| Seasoned Journeyman | 2.00% | ~2,855 |
-| Did we pack lunch? | 2.00% | ~2,855 |
-| Black Friday Special | 2.00% | ~2,855 |
-| Magical Harmony | 2.00% | ~2,855 |
-| Special Ingredient | 2.00% | ~2,855 |
-| Arcane Industries | 2.00% | ~2,855 |
-| Complete Monopoly | 2.00% | ~2,855 |
+| On the Path to Greatness | 2.00% | ~2,856 |
+| A Notch Above the Rest | 2.00% | ~2,856 |
+| Ascended | 2.00% | ~2,856 |
+| Tax not Included | 2.00% | ~2,856 |
+| The King's Caprice | 2.00% | ~2,856 |
+| Research & Development | 2.00% | ~2,856 |
+| Vanity, Verily | 2.00% | ~2,856 |
+| Big Game Hunting | 2.00% | ~2,856 |
+| Fated Encounters | 2.00% | ~2,856 |
+| For the Hoard! | 2.00% | ~2,856 |
+| Blank Page Syndrome | 2.00% | ~2,856 |
+| Scrapbooker | 2.00% | ~2,856 |
+| Demand for Supplies | 2.00% | ~2,856 |
+| Locally Sourced | 2.00% | ~2,856 |
+| Flying off the Shelves | 2.00% | ~2,856 |
+| This Power Level...! | 2.00% | ~2,856 |
+| Hidden Potential | 2.00% | ~2,856 |
+| Power of Love | 2.00% | ~2,856 |
+| Expansion in Session | 2.00% | ~2,856 |
+| Efficient Floor Space | 2.00% | ~2,856 |
+| Cranked up to 11 | 2.00% | ~2,856 |
+| Flawless Fusion | 2.00% | ~2,856 |
+| Trash to Treasure | 2.00% | ~2,856 |
+| Gem Expert | 2.00% | ~2,856 |
+| Gild-Gotten Goods | 2.00% | ~2,856 |
+| Royal Ransom | 2.00% | ~2,856 |
+| Mammonite | 2.00% | ~2,856 |
+| Helping Hand | 2.00% | ~2,856 |
+| Accomplished Merchant | 2.00% | ~2,856 |
+| Laden with Loot | 2.00% | ~2,856 |
+| Natural 20 | 2.00% | ~2,856 |
+| Seasoned Journeyman | 2.00% | ~2,856 |
+| Did we pack lunch? | 2.00% | ~2,856 |
+| Black Friday Special | 2.00% | ~2,856 |
+| Magical Harmony | 2.00% | ~2,856 |
+| Special Ingredient | 2.00% | ~2,856 |
+| Arcane Industries | 2.00% | ~2,856 |
+| Complete Monopoly | 2.00% | ~2,856 |
 | Cream of the Crop | 1.00% | ~1,428 |
 | Top of the World | 1.00% | ~1,428 |
 | Proud Paladin | 1.00% | ~1,428 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~428 |
 | Capitalist Camaraderie | 0.20% | ~286 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,770 (Ranked 80)  
+Progressed: 142,775 (Ranked 80)  
 Completed: 288 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,14 +342,14 @@ Completed: 288 (0.20%) (Ranked 258)
 | 2023-11-26 | 142,346 | 274 |
 | 2023-11-27 | 142,546 | 278 |
 | 2023-11-28 | 142,735 | 284 |
-| 2023-11-29 | 142,770 | 288 |
+| 2023-11-29 | 142,775 | 288 |
 ## Awards
-Max (Great for Beginners): 4,851  (Ranked 75)  
-Sum: 27,621 (Ranked 50)  
+Max (Great for Beginners): 4,855  (Ranked 75)  
+Sum: 27,625 (Ranked 50)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,851 |
+| This game is Great for Beginners | 4,855 |
 | This game is Relaxing | 4,049 |
 | This game has Quickly Understood Controls | 4,035 |
 | This game has Diverse Characters | 3,952 |
@@ -662,3 +662,4 @@ Diff (max vs sum): 25
 | 2023-11-26 | 3.99 | - | 4,848 | 27,608 |
 | 2023-11-27 | 3.99 | - | 4,848 | 27,609 |
 | 2023-11-28 | 3.99 | - | 4,851 | 27,621 |
+| 2023-11-29 | 3.99 | - | 4,855 | 27,625 |

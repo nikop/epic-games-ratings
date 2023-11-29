@@ -3,12 +3,12 @@
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
   "Ranking_Rating": 445,
-  "Ranking_Popularity": 131,
+  "Ranking_Popularity": 132,
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3496,9 +3496,9 @@
       "Count": 745
     }
   ],
-  "EOS_Progressed": 240362,
+  "EOS_Progressed": 240364,
   "EOS_Completed": 291,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -26526,6 +26526,11 @@
       "Time": "2023-11-29T04:15:35.3792154+00:00",
       "NumProgressed": 240362,
       "NumCompleted": 291
+    },
+    {
+      "Time": "2023-11-29T05:09:36.8445911+00:00",
+      "NumProgressed": 240364,
+      "NumCompleted": 291
     }
   ],
   "TotalAchievements": 138,
@@ -26655,9 +26660,9 @@
       "ID": "DEPTH6",
       "SetID": "5l8oe0h",
       "Name": "Getting A Glimpse",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 961
+      "UsersEstimate": 1202
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -27640,13 +27645,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240362,
+      "Progressed": 240364,
       "Completed": 291
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1842,
+      "Progressed": 1844,
       "Completed": 391
     }
   ],
@@ -27654,8 +27659,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-29T04:07:47.7070354+00:00",
-  "LastChanged_Achievements": "2023-11-29T04:15:35.3792151+00:00",
+  "LastChanged_Achievements": "2023-11-29T05:09:36.8445907+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.3413354+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:07:47.707036+00:00",
-  "LastUpdate_Achievements": "2023-11-29T04:15:35.3794438+00:00"
+  "LastUpdate_Ratings": "2023-11-29T04:59:56.7338965+00:00",
+  "LastUpdate_Achievements": "2023-11-29T05:09:36.8448192+00:00"
 }

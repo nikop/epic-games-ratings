@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -141,9 +141,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7042,
+  "EOS_Progressed": 7043,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1283,
+  "EOS_NewPlayers": 1272,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4861,6 +4861,11 @@
       "Time": "2023-11-29T04:15:08.7306199+00:00",
       "NumProgressed": 7042,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-29T05:09:17.6192336+00:00",
+      "NumProgressed": 7043,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5065,7 +5070,7 @@
       "Name": "The Old-School Way",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "TheQuarterback",
@@ -5144,7 +5149,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7042,
+      "Progressed": 7043,
       "Completed": 8
     }
   ],
@@ -5152,8 +5157,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-28T07:58:21.1482847+00:00",
-  "LastChanged_Achievements": "2023-11-29T04:15:08.7306192+00:00",
+  "LastChanged_Achievements": "2023-11-29T05:09:17.6192331+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6423909+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:04:49.5951353+00:00",
-  "LastUpdate_Achievements": "2023-11-29T04:15:08.7306653+00:00"
+  "LastUpdate_Ratings": "2023-11-29T04:58:37.1133741+00:00",
+  "LastUpdate_Achievements": "2023-11-29T05:09:17.6192749+00:00"
 }

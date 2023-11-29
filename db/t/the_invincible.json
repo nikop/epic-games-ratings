@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -1361,9 +1361,9 @@
       "ID": "AchvReachCamp",
       "SetID": "1hj060c",
       "Name": "The Camp",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 235
     },
     {
       "ID": "AchvReachCity",
@@ -1424,8 +1424,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-29T04:14:20.4973038+00:00",
+  "LastChanged_Achievements": "2023-11-29T05:08:43.8857475+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:04:13.171006+00:00",
-  "LastUpdate_Achievements": "2023-11-29T04:14:20.4973278+00:00"
+  "LastUpdate_Ratings": "2023-11-29T04:58:14.1405828+00:00",
+  "LastUpdate_Achievements": "2023-11-29T05:08:43.8857708+00:00"
 }

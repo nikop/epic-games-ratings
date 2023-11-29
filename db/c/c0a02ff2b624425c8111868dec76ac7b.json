@@ -2,9 +2,9 @@
   "ID": "c0a02ff2b624425c8111868dec76ac7b",
   "Name": "Worldless",
   "ProductSlug": "worldless-49eae3",
-  "Ranking_EOS_Progress": 434,
+  "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 102,
+  "EOS_Progressed": 104,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -424,6 +424,11 @@
       "Time": "2023-11-28T17:04:00.5184103+00:00",
       "NumProgressed": 102,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T05:04:03.4333928+00:00",
+      "NumProgressed": 104,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-17T13:09:54.2114838+00:00",
@@ -484,7 +489,7 @@
       "Name": "Together",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_BIPOLAR_ABSORBED",
@@ -548,7 +553,7 @@
       "Name": "Absorption",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_LIGHTNING_NIGHTMARE_ABSORBED",
@@ -627,14 +632,14 @@
     {
       "ID": "cagp2pi",
       "IsBase": true,
-      "Progressed": 102,
+      "Progressed": 104,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-11-29T04:10:12.8573193+00:00",
+  "LastChanged_Achievements": "2023-11-29T05:04:03.4333924+00:00",
   "LastUpdate_AppInfo": "2023-11-24T13:56:57.9833029+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:05:44.3013034+00:00",
-  "LastUpdate_Achievements": "2023-11-29T04:10:12.8573348+00:00"
+  "LastUpdate_Ratings": "2023-11-29T04:59:11.0459862+00:00",
+  "LastUpdate_Achievements": "2023-11-29T05:04:03.4334077+00:00"
 }

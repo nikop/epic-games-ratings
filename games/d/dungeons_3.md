@@ -6,15 +6,15 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~29,083 |
+| The Shadow strikes | 70.00% | ~29,084 |
 | The Evilest Evil | 59.00% | ~24,513 |
-| Twistram is devastated | 58.00% | ~24,097 |
+| Twistram is devastated | 58.00% | ~24,098 |
 | The Gehenna Stones | 50.00% | ~20,774 |
-| No one has to die today! | 47.00% | ~19,527 |
+| No one has to die today! | 47.00% | ~19,528 |
 | Death and destruction! | 46.00% | ~19,112 |
 | The Swamplanders from the swamplands | 44.00% | ~18,281 |
-| The One-Huge-Army-Building Evil | 41.00% | ~17,034 |
-| Rusty Steel | 41.00% | ~17,034 |
+| The One-Huge-Army-Building Evil | 41.00% | ~17,035 |
+| Rusty Steel | 41.00% | ~17,035 |
 | The last burger | 38.00% | ~15,788 |
 | Braiiiiins! | 38.00% | ~15,788 |
 | Hands off the Dungeonheart! | 36.00% | ~14,957 |
@@ -31,15 +31,15 @@ Number of Ratings: 1,635  (23.09.2022)
 | Tide Master | 26.00% | ~10,802 |
 | Difficult family relationships | 25.00% | ~10,387 |
 | MASS-O-BOT | 25.00% | ~10,387 |
-| Prepare the grave | 24.00% | ~9,971 |
-| Angel of Fire | 24.00% | ~9,971 |
+| Prepare the grave | 24.00% | ~9,972 |
+| Angel of Fire | 24.00% | ~9,972 |
 | Where there is Light, there is Shadow | 23.00% | ~9,556 |
-| At the foot of Mount Destiny | 22.00% | ~9,140 |
+| At the foot of Mount Destiny | 22.00% | ~9,141 |
 | The Force disturbed | 21.00% | ~8,725 |
-| The Victorious Evil | 20.00% | ~8,309 |
+| The Victorious Evil | 20.00% | ~8,310 |
 | Chorus of damnation | 19.00% | ~7,894 |
 | We don’t have time! | 19.00% | ~7,894 |
-| The Stones’ Power | 18.00% | ~7,478 |
+| The Stones’ Power | 18.00% | ~7,479 |
 | Flat as a pancake | 17.00% | ~7,063 |
 | Lifeguard | 17.00% | ~7,063 |
 | Can’t stand the sight of Dark Elf blood | 15.00% | ~6,232 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~831 |
 | Sacrifices! | 2.00% | ~831 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,547 (Ranked 120)  
+Progressed: 41,548 (Ranked 120)  
 Completed: 333 (0.80%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 333 (0.80%) (Ranked 182)
 | 2023-11-26 | 41,313 | 330 |
 | 2023-11-27 | 41,409 | 333 |
 | 2023-11-28 | 41,527 | 333 |
-| 2023-11-29 | 41,547 | 333 |
+| 2023-11-29 | 41,548 | 333 |
 ## Awards
 Max (Great for Beginners): 379  (Ranked 236)  
 Sum: 2,781 (Ranked 182)  

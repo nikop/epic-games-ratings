@@ -11205,9 +11205,9 @@
       "Count": 821
     }
   ],
-  "EOS_Progressed": 303536,
+  "EOS_Progressed": 303537,
   "EOS_Completed": 519,
-  "EOS_NewPlayers": 948,
+  "EOS_NewPlayers": 945,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -35190,6 +35190,11 @@
       "Time": "2023-11-29T04:15:29.2826725+00:00",
       "NumProgressed": 303536,
       "NumCompleted": 519
+    },
+    {
+      "Time": "2023-11-29T05:09:31.9798775+00:00",
+      "NumProgressed": 303537,
+      "NumCompleted": 519
     }
   ],
   "TotalAchievements": 45,
@@ -35529,7 +35534,7 @@
       "Name": "First Class Student",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45530
+      "UsersEstimate": 45531
     },
     {
       "ID": "PFA_7",
@@ -35560,7 +35565,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303536,
+      "Progressed": 303537,
       "Completed": 519
     }
   ],
@@ -35568,8 +35573,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-29T04:08:01.0874431+00:00",
-  "LastChanged_Achievements": "2023-11-29T04:15:29.282672+00:00",
+  "LastChanged_Achievements": "2023-11-29T05:09:31.9798772+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7292094+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:08:01.0874438+00:00",
-  "LastUpdate_Achievements": "2023-11-29T04:15:29.2828146+00:00"
+  "LastUpdate_Ratings": "2023-11-29T05:00:05.0598376+00:00",
+  "LastUpdate_Achievements": "2023-11-29T05:09:31.9800128+00:00"
 }

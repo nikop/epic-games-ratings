@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1464,
+  "EOS_Progressed": 1465,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4349,6 +4349,11 @@
       "Time": "2023-11-28T23:09:22.0254468+00:00",
       "NumProgressed": 1464,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T05:09:35.8576357+00:00",
+      "NumProgressed": 1465,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4393,7 +4398,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "achievement_14",
@@ -4585,7 +4590,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "achievement_36",
@@ -4601,7 +4606,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "achievement_38",
@@ -4864,13 +4869,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1464,
+      "Progressed": 1465,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1464,
+      "Progressed": 1465,
       "Completed": 1
     }
   ],
@@ -4878,8 +4883,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-29T04:15:34.1672453+00:00",
+  "LastChanged_Achievements": "2023-11-29T05:09:35.8576352+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:02.7370766+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:02:23.0232902+00:00",
-  "LastUpdate_Achievements": "2023-11-29T04:15:34.1673033+00:00"
+  "LastUpdate_Ratings": "2023-11-29T04:57:03.9644027+00:00",
+  "LastUpdate_Achievements": "2023-11-29T05:09:35.8576929+00:00"
 }

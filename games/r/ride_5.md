@@ -10,8 +10,8 @@
 | Hear That Roar! | 39.00% | ~899 |
 | Rivals to the End | 28.00% | ~645 |
 | Bitter Rivalry | 27.00% | ~622 |
+| Champagne Spray | 25.00% | ~576 |
 | We're Going to Need a Bigger Garage | 24.00% | ~553 |
-| Champagne Spray | 24.00% | ~553 |
 | Legendary!!! | 20.00% | ~461 |
 | Restored and Ready | 19.00% | ~438 |
 | I Want One Too! | 19.00% | ~438 |

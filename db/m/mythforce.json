@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -800,9 +800,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5171,
+  "EOS_Progressed": 5172,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10130,6 +10130,11 @@
       "Time": "2023-11-29T01:57:57.2716448+00:00",
       "NumProgressed": 5171,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-29T05:04:44.0781726+00:00",
+      "NumProgressed": 5172,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -10174,7 +10179,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 1189
+      "UsersEstimate": 1190
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -10190,7 +10195,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1344
+      "UsersEstimate": 1345
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -10198,7 +10203,7 @@
       "Name": "First Strike",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -10325,15 +10330,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5171,
+      "Progressed": 5172,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-28T16:58:30.5378717+00:00",
-  "LastChanged_Achievements": "2023-11-29T04:11:12.602062+00:00",
+  "LastChanged_Achievements": "2023-11-29T05:04:44.0781721+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:57.8728893+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:04:27.0811975+00:00",
-  "LastUpdate_Achievements": "2023-11-29T04:11:12.6021844+00:00"
+  "LastUpdate_Ratings": "2023-11-29T04:58:22.957645+00:00",
+  "LastUpdate_Achievements": "2023-11-29T05:04:44.0782509+00:00"
 }

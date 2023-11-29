@@ -9,8 +9,8 @@
 | Collector | 6.00% | ~4 |
 | St. Martin | 6.00% | ~4 |
 | Summoner | 4.00% | ~3 |
+| Bad knight | 4.00% | ~3 |
 | Invisible encounter | 3.00% | ~2 |
-| Bad knight | 3.00% | ~2 |
 | Gentleman | 1.00% | ~1 |
 | A note from a Mort | 1.00% | ~1 |
 | Martyr | 1.00% | ~1 |

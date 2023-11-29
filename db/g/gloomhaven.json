@@ -2573,9 +2573,9 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 23558,
+  "EOS_Progressed": 23560,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1357,
+  "EOS_NewPlayers": 1356,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11098,6 +11098,11 @@
       "Time": "2023-11-29T04:13:43.7066544+00:00",
       "NumProgressed": 23558,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T05:08:18.7075185+00:00",
+      "NumProgressed": 23560,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -11150,7 +11155,7 @@
       "Name": "Who\u0027s the Boss?",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 2591
+      "UsersEstimate": 2592
     },
     {
       "ID": "Achievement_Trophy07",
@@ -11294,7 +11299,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 9659
+      "UsersEstimate": 9660
     },
     {
       "ID": "Achievement_Trophy25",
@@ -11326,7 +11331,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7774
+      "UsersEstimate": 7775
     },
     {
       "ID": "Achievement_Trophy29",
@@ -11350,7 +11355,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 7303
+      "UsersEstimate": 7304
     },
     {
       "ID": "Achievement_Trophy32",
@@ -11374,7 +11379,7 @@
       "Name": "Augmented rat",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2591
+      "UsersEstimate": 2592
     },
     {
       "ID": "Achievement_Trophy35",
@@ -11454,7 +11459,7 @@
       "Name": "Quad damage",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1413
+      "UsersEstimate": 1414
     },
     {
       "ID": "Achievement_Trophy45",
@@ -11486,7 +11491,7 @@
       "Name": "Doom and gloom",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2591
+      "UsersEstimate": 2592
     },
     {
       "ID": "Achievement_Trophy49",
@@ -11597,7 +11602,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 23558,
+      "Progressed": 23560,
       "Completed": 1
     }
   ],
@@ -11605,8 +11610,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-28T02:58:56.0622889+00:00",
-  "LastChanged_Achievements": "2023-11-29T04:13:43.706654+00:00",
+  "LastChanged_Achievements": "2023-11-29T05:08:18.7075181+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:22.2817081+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:05:45.4405751+00:00",
-  "LastUpdate_Achievements": "2023-11-29T04:13:43.7067233+00:00"
+  "LastUpdate_Ratings": "2023-11-29T04:59:11.8825099+00:00",
+  "LastUpdate_Achievements": "2023-11-29T05:08:18.707588+00:00"
 }

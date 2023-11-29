@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1215,
+  "EOS_Progressed": 1216,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2667,6 +2667,11 @@
       "Time": "2023-11-29T02:26:12.6694014+00:00",
       "NumProgressed": 1215,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T05:03:53.2659844+00:00",
+      "NumProgressed": 1216,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2727,7 +2732,7 @@
       "Name": "Globetrotter",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -2821,9 +2826,9 @@
       "ID": "ML_ACHIEVEMENT_19",
       "SetID": "5k00jcd",
       "Name": "Well begun\u2026",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 486
+      "UsersEstimate": 474
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -2919,7 +2924,7 @@
       "Name": "Shopping time!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -2951,7 +2956,7 @@
       "Name": "Extra gear",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -3022,20 +3027,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1215,
+      "Progressed": 1216,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 883,
-      "Completed": 883
+      "Progressed": 884,
+      "Completed": 884
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-29T04:09:57.6656113+00:00",
+  "LastChanged_Achievements": "2023-11-29T05:03:53.2659842+00:00",
   "LastUpdate_AppInfo": "2023-11-23T02:56:55.439879+00:00",
-  "LastUpdate_Ratings": "2023-11-29T04:07:39.9199681+00:00",
-  "LastUpdate_Achievements": "2023-11-29T04:09:57.6656557+00:00"
+  "LastUpdate_Ratings": "2023-11-29T04:59:52.0330891+00:00",
+  "LastUpdate_Achievements": "2023-11-29T05:03:53.2660246+00:00"
 }
