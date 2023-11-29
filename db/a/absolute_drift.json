@@ -469,9 +469,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1553250,
+  "EOS_Progressed": 1553259,
   "EOS_Completed": 735,
-  "EOS_NewPlayers": 1240,
+  "EOS_NewPlayers": 1239,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -25944,6 +25944,11 @@
       "Time": "2023-11-29T19:08:17.1226305+00:00",
       "NumProgressed": 1553250,
       "NumCompleted": 735
+    },
+    {
+      "Time": "2023-11-29T20:06:14.77171+00:00",
+      "NumProgressed": 1553259,
+      "NumCompleted": 735
     }
   ],
   "TotalAchievements": 20,
@@ -26003,7 +26008,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 139792
+      "UsersEstimate": 139793
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -26011,7 +26016,7 @@
       "Name": "Hoon Airlines",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 15532
+      "UsersEstimate": 15533
     },
     {
       "ID": "ACH_INSANE_SKILLS",
@@ -26051,7 +26056,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 155325
+      "UsersEstimate": 155326
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -26059,7 +26064,7 @@
       "Name": "Midnight Master",
       "Percentage": 1,
       "XP": 95,
-      "UsersEstimate": 15532
+      "UsersEstimate": 15533
     },
     {
       "ID": "ACH_MULTIPLIER_MASTER",
@@ -26067,7 +26072,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 139792
+      "UsersEstimate": 139793
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -26075,7 +26080,7 @@
       "Name": "Sake Bombs",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 15532
+      "UsersEstimate": 15533
     },
     {
       "ID": "ACH_SPIN_DOCTOR",
@@ -26099,7 +26104,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 77662
+      "UsersEstimate": 77663
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -26114,15 +26119,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1553250,
+      "Progressed": 1553259,
       "Completed": 735
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-11-20T10:57:26.3491363+00:00",
-  "LastChanged_Achievements": "2023-11-29T19:08:17.1226301+00:00",
+  "LastChanged_Achievements": "2023-11-29T20:06:14.7717096+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0187854+00:00",
-  "LastUpdate_Ratings": "2023-11-29T18:59:00.8245807+00:00",
-  "LastUpdate_Achievements": "2023-11-29T19:08:17.122755+00:00"
+  "LastUpdate_Ratings": "2023-11-29T19:58:37.6668647+00:00",
+  "LastUpdate_Achievements": "2023-11-29T20:06:14.7719225+00:00"
 }

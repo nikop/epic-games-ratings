@@ -6,15 +6,15 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~49,704 |
-| Get Busy Living | 16.00% | ~31,810 |
-| Samuel Norton | 9.00% | ~17,893 |
+| Stone Walls | 25.00% | ~49,707 |
+| Get Busy Living | 16.00% | ~31,813 |
+| Samuel Norton | 9.00% | ~17,895 |
 | Spare The Rod | 5.00% | ~9,941 |
-| Don't Put Me In The Dark | 3.00% | ~5,964 |
-| Wait and Hope | 3.00% | ~5,964 |
-| I May Have Found A Way Out Of Here | 3.00% | ~5,964 |
-| Throw The Book At Them | 2.00% | ~3,976 |
-| Iron Bars | 2.00% | ~3,976 |
+| Don't Put Me In The Dark | 3.00% | ~5,965 |
+| Wait and Hope | 3.00% | ~5,965 |
+| I May Have Found A Way Out Of Here | 3.00% | ~5,965 |
+| Throw The Book At Them | 2.00% | ~3,977 |
+| Iron Bars | 2.00% | ~3,977 |
 | D.B. Cooper | 1.00% | ~1,988 |
 | Reformation | 0.60% | ~1,193 |
 | Crowd Control | 0.50% | ~994 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~199 |
 | ... It's What You Can Prove | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 198,814 (Ranked 75)  
+Progressed: 198,829 (Ranked 75)  
 Completed: 11 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,23 +246,23 @@ Completed: 11 (0.01%) (Ranked 343)
 | 2023-11-26 | 198,020 | 11 |
 | 2023-11-27 | 198,331 | 11 |
 | 2023-11-28 | 198,598 | 11 |
-| 2023-11-29 | 198,814 | 11 |
+| 2023-11-29 | 198,829 | 11 |
 ## Awards
 Max (Great for Beginners): 583  (Ranked 199)  
-Sum: 4,492 (Ranked 146)  
+Sum: 4,497 (Ranked 146)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 583 |
 | This game is Extremely Fun | 573 |
-| This game is Highly Recommended | 533 |
+| This game is Highly Recommended | 534 |
 | This game has Quickly Understood Controls | 530 |
 | This game is Relaxing | 521 |
 | This game has Diverse Characters | 487 |
-| This game has Amazing Storytelling | 477 |
+| This game has Amazing Storytelling | 480 |
 | This game is Educational | 459 |
 | This game has Amazing Characters | 440 |
-| This game has a Creative Community | 348 |
+| This game has a Creative Community | 349 |
 | This game has Obsessive Gameplay | 234 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -577,4 +577,4 @@ Diff (max vs sum): 53
 | 2023-11-26 | 4.61 | - | 580 | 4,476 |
 | 2023-11-27 | 4.61 | - | 583 | 4,482 |
 | 2023-11-28 | 4.61 | - | 583 | 4,488 |
-| 2023-11-29 | 4.61 | - | 583 | 4,492 |
+| 2023-11-29 | 4.61 | - | 583 | 4,497 |

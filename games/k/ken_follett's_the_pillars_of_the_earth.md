@@ -6,13 +6,13 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,697 |
+| Tattletale | 40.00% | ~6,698 |
 | Man of politics | 34.00% | ~5,693 |
-| Friends of sorts | 33.00% | ~5,525 |
-| Yet another secret | 33.00% | ~5,525 |
+| Friends of sorts | 33.00% | ~5,526 |
+| Yet another secret | 33.00% | ~5,526 |
 | Let there be darkness | 32.00% | ~5,358 |
-| End of Book One | 30.00% | ~5,023 |
-| Garden of Eden | 24.00% | ~4,018 |
+| End of Book One | 30.00% | ~5,024 |
+| Garden of Eden | 24.00% | ~4,019 |
 | Wannabe knight | 23.00% | ~3,851 |
 | Full house | 23.00% | ~3,851 |
 | Help an old friend | 21.00% | ~3,516 |
@@ -20,7 +20,7 @@ Number of Ratings: 368  (23.09.2022)
 | Negotiation skills | 18.00% | ~3,014 |
 | Workers' union | 18.00% | ~3,014 |
 | End of Book Two | 18.00% | ~3,014 |
-| Everything's in order | 17.00% | ~2,846 |
+| Everything's in order | 17.00% | ~2,847 |
 | Twist of Fate | 14.00% | ~2,344 |
 | Jack was here! | 14.00% | ~2,344 |
 | Exterminator | 13.00% | ~2,177 |
@@ -35,7 +35,7 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,507 |
 | The truth revealed | 9.00% | ~1,507 |
 | The End. | 9.00% | ~1,507 |
-| A cry for help | 8.00% | ~1,339 |
+| A cry for help | 8.00% | ~1,340 |
 | Silentium est aureum | 7.00% | ~1,172 |
 | Rebel without a cause | 6.00% | ~1,005 |
 | Staring contest champion | 5.00% | ~837 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~502 |
 | Boy of mystery | 2.00% | ~335 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,743 (Ranked 148)  
+Progressed: 16,745 (Ranked 148)  
 Completed: 116 (0.69%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 116 (0.69%) (Ranked 185)
 | 2023-11-26 | 16,690 | 116 |
 | 2023-11-27 | 16,709 | 116 |
 | 2023-11-28 | 16,728 | 116 |
-| 2023-11-29 | 16,743 | 116 |
+| 2023-11-29 | 16,745 | 116 |
 ## Awards
 Max (Easy Puzzles): 155  (Ranked 315)  
 Sum: 198 (Ranked 400)  

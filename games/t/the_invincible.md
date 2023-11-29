@@ -10,7 +10,7 @@
 | The field base | 32.00% | ~144 |
 | Survivors | 28.00% | ~126 |
 | The Condor | 25.00% | ~113 |
-| The End | 24.00% | ~108 |
+| The End | 25.00% | ~113 |
 | The Necroevolution | 21.00% | ~95 |
 | Krauta is alive | 19.00% | ~86 |
 | Volcanologist | 19.00% | ~86 |
@@ -24,7 +24,7 @@
 | I remember everything! | 10.00% | ~45 |
 | Violent solution | 7.00% | ~32 |
 | Another giant | 7.00% | ~32 |
-| Innate curiosity | 6.00% | ~27 |
+| Innate curiosity | 7.00% | ~32 |
 | The Invincible | 5.00% | ~23 |
 | I leave no man behind | 5.00% | ~23 |
 | Strong objection | 4.00% | ~18 |

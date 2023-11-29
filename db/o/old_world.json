@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2058,9 +2058,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15542,
+  "EOS_Progressed": 15544,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16778,6 +16778,11 @@
       "Time": "2023-11-29T19:05:59.2902701+00:00",
       "NumProgressed": 15542,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-29T20:05:28.5787463+00:00",
+      "NumProgressed": 15544,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16867,9 +16872,9 @@
       "ID": "ACHIEVEMENT_BABYLON_HANGING_GARDENS",
       "SetID": "9201eeb",
       "Name": "Hanging Gardens in Babylon",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 311
     },
     {
       "ID": "ACHIEVEMENT_BABYLON_ISHTAR_GATE",
@@ -19524,21 +19529,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15542,
+      "Progressed": 15544,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15542,
+      "Progressed": 15544,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-29T17:58:00.0362268+00:00",
-  "LastChanged_Achievements": "2023-11-29T19:05:59.2902696+00:00",
+  "LastChanged_Achievements": "2023-11-29T20:05:28.578746+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.3516564+00:00",
-  "LastUpdate_Ratings": "2023-11-29T18:58:04.9740992+00:00",
-  "LastUpdate_Achievements": "2023-11-29T19:05:59.2912026+00:00"
+  "LastUpdate_Ratings": "2023-11-29T19:57:43.921555+00:00",
+  "LastUpdate_Achievements": "2023-11-29T20:05:28.5796537+00:00"
 }

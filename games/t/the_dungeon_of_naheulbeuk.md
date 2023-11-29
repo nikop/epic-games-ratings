@@ -6,19 +6,19 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~84,120 |
-| Alt+F4 | 9.00% | ~21,631 |
+| Sowwy! | 35.00% | ~84,124 |
+| Alt+F4 | 9.00% | ~21,632 |
 | Where's that freaking Dwarf? | 8.00% | ~19,228 |
-| Déjà vu | 7.00% | ~16,824 |
-| Sock! SOCK! | 5.00% | ~12,017 |
-| Speedrun | 5.00% | ~12,017 |
+| Déjà vu | 7.00% | ~16,825 |
+| Sock! SOCK! | 5.00% | ~12,018 |
+| Speedrun | 5.00% | ~12,018 |
 | A beer, two curses, three companions | 4.00% | ~9,614 |
 | GG EZ | 4.00% | ~9,614 |
 | DM intervention | 4.00% | ~9,614 |
 | Fireproof Wizardess | 4.00% | ~9,614 |
-| Livin' in a dwarven paradise | 3.00% | ~7,210 |
-| Way of the Wimp | 3.00% | ~7,210 |
-| The plot thickens... At the tavern | 3.00% | ~7,210 |
+| Livin' in a dwarven paradise | 3.00% | ~7,211 |
+| Way of the Wimp | 3.00% | ~7,211 |
+| The plot thickens... At the tavern | 3.00% | ~7,211 |
 | Shiny and Crôm | 2.00% | ~4,807 |
 | The demons' feast | 2.00% | ~4,807 |
 | The Great Library | 2.00% | ~4,807 |
@@ -38,12 +38,12 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 2.00% | ~4,807 |
 | Team Building Exercise | 2.00% | ~4,807 |
 | Oh, when I'll be level 10... | 2.00% | ~4,807 |
-| %#*!$*! | 1.00% | ~2,403 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,403 |
-| Dead for good | 1.00% | ~2,403 |
-| Gargantua | 1.00% | ~2,403 |
-| Lust and Debauchery | 1.00% | ~2,403 |
-| Material Girl | 1.00% | ~2,403 |
+| %#*!$*! | 1.00% | ~2,404 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,404 |
+| Dead for good | 1.00% | ~2,404 |
+| Gargantua | 1.00% | ~2,404 |
+| Lust and Debauchery | 1.00% | ~2,404 |
+| Material Girl | 1.00% | ~2,404 |
 | In Navalu's footsteps | 0.90% | ~2,163 |
 | Lëgal Legend | 0.80% | ~1,923 |
 | We come in peace | 0.70% | ~1,682 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~240 |
 | Dwarf Candy | 0.10% | ~240 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,344 (Ranked 63)  
+Progressed: 240,355 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 7 (0.00%) (Ranked 363)
 | 2023-11-26 | 239,885 | 7 |
 | 2023-11-27 | 240,063 | 7 |
 | 2023-11-28 | 240,228 | 7 |
-| 2023-11-29 | 240,344 | 7 |
+| 2023-11-29 | 240,355 | 7 |
 ## Awards
 Max (Character Customization): 240  (Ranked 272)  
 Sum: 484 (Ranked 329)  

@@ -1615,9 +1615,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13807,
+  "EOS_Progressed": 13808,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -15195,6 +15195,11 @@
       "Time": "2023-11-29T18:09:05.0284982+00:00",
       "NumProgressed": 13807,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-29T20:08:38.1866115+00:00",
+      "NumProgressed": 13808,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 35,
@@ -15206,7 +15211,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11322
+      "UsersEstimate": 11323
     },
     {
       "ID": "ACH02",
@@ -15214,7 +15219,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "ACH03",
@@ -15254,7 +15259,7 @@
       "Name": "The American Dream",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 2761
+      "UsersEstimate": 2762
     },
     {
       "ID": "ACH08",
@@ -15302,7 +15307,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2623
+      "UsersEstimate": 2624
     },
     {
       "ID": "ACH14",
@@ -15485,7 +15490,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13807,
+      "Progressed": 13808,
       "Completed": 55
     }
   ],
@@ -15493,8 +15498,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-29T15:59:38.0972261+00:00",
-  "LastChanged_Achievements": "2023-11-29T19:09:12.0700662+00:00",
+  "LastChanged_Achievements": "2023-11-29T20:08:38.1866112+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:29.1736391+00:00",
-  "LastUpdate_Ratings": "2023-11-29T18:58:39.3955898+00:00",
-  "LastUpdate_Achievements": "2023-11-29T19:09:12.070151+00:00"
+  "LastUpdate_Ratings": "2023-11-29T19:58:17.2909868+00:00",
+  "LastUpdate_Achievements": "2023-11-29T20:08:38.1867097+00:00"
 }

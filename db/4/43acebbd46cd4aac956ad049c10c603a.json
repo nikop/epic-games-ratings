@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -163,9 +163,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 776,
+  "EOS_Progressed": 778,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 322,
+  "EOS_NewPlayers": 321,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1723,6 +1723,11 @@
       "Time": "2023-11-29T18:06:38.9091861+00:00",
       "NumProgressed": 776,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T20:06:14.6106408+00:00",
+      "NumProgressed": 778,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1749,9 +1754,9 @@
       "ID": "AnthropicHills",
       "SetID": "1n308hc",
       "Name": "Anthropic Hills",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Archaeologist",
@@ -1789,17 +1794,17 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 23
     },
     {
       "ID": "ChasingTheLight",
       "SetID": "1n308hc",
       "Name": "Chasing the Light",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     },
     {
       "ID": "Chicken",
@@ -1813,17 +1818,17 @@
       "ID": "CircularOasis",
       "SetID": "1n308hc",
       "Name": "Circular Oasis",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "DesolateIsland",
       "SetID": "1n308hc",
       "Name": "Desolate Island",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Discovery",
@@ -1861,9 +1866,9 @@
       "ID": "FloodedValley",
       "SetID": "1n308hc",
       "Name": "Flooded Valley",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "GnothiSeauton",
@@ -1885,9 +1890,9 @@
       "ID": "GrasslandsRing",
       "SetID": "1n308hc",
       "Name": "Grasslands Ring",
-      "Percentage": 0.5,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "HighPlain",
@@ -2013,9 +2018,9 @@
       "ID": "PuzzleFiend",
       "SetID": "1n308hc",
       "Name": "Puzzle Fiend",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "RemnantsOfThePast",
@@ -2093,9 +2098,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TheEdgeOfForever",
@@ -2133,9 +2138,9 @@
       "ID": "TheThiefOfFire",
       "SetID": "1n308hc",
       "Name": "The Thief of Fire",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     },
     {
       "ID": "TheWordEndures",
@@ -2189,9 +2194,9 @@
       "ID": "WoodedPlateau",
       "SetID": "1n308hc",
       "Name": "Wooded Plateau",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     },
     {
       "ID": "YourBiggestFan",
@@ -2206,7 +2211,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 776,
+      "Progressed": 778,
       "Completed": 1
     }
   ],
@@ -2214,8 +2219,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-29T18:59:07.9515154+00:00",
-  "LastChanged_Achievements": "2023-11-29T19:08:16.9464796+00:00",
+  "LastChanged_Achievements": "2023-11-29T20:06:14.6106405+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6295228+00:00",
-  "LastUpdate_Ratings": "2023-11-29T18:59:07.9515158+00:00",
-  "LastUpdate_Achievements": "2023-11-29T19:08:16.9465215+00:00"
+  "LastUpdate_Ratings": "2023-11-29T19:58:44.5564758+00:00",
+  "LastUpdate_Achievements": "2023-11-29T20:06:14.6106833+00:00"
 }

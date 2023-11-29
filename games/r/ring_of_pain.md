@@ -31,8 +31,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Explorer | 0.40% | ~962 |
 | Sneaky | 0.40% | ~962 |
 | An Offering | 0.40% | ~962 |
-| Expensive Look | 0.40% | ~7 |
-| What Doesn't Kill You | 0.40% | ~7 |
+| Expensive Look | 0.40% | ~8 |
+| What Doesn't Kill You | 0.40% | ~8 |
 | Consecutive Curses | 0.30% | ~721 |
 | Dig Your Own Grave | 0.30% | ~721 |
 | Well Prepared | 0.30% | ~721 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,392 (Ranked 62)  
+Progressed: 240,398 (Ranked 62)  
 Completed: 291 (0.12%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -368,7 +368,7 @@ Completed: 291 (0.12%) (Ranked 280)
 | 2023-11-26 | 240,273 | 291 |
 | 2023-11-27 | 240,313 | 291 |
 | 2023-11-28 | 240,354 | 291 |
-| 2023-11-29 | 240,392 | 291 |
+| 2023-11-29 | 240,398 | 291 |
 ## Awards
 Max (Great for Beginners): 1,534  (Ranked 132)  
 Sum: 13,234 (Ranked 78)  

@@ -6,16 +6,16 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 32.00% | ~91 |
-| Double Kill | 24.00% | ~68 |
-| Critical Hit | 11.00% | ~31 |
+| Adept | 32.00% | ~92 |
+| Double Kill | 24.00% | ~69 |
+| Critical Hit | 11.00% | ~32 |
+| Dressed For Success | 9.00% | ~26 |
 | Veteran | 9.00% | ~26 |
-| Dressed For Success | 8.00% | ~23 |
 | Sorcerous Spree | 6.00% | ~17 |
 | Humiliation | 5.00% | ~14 |
-| Whoops! | 4.00% | ~11 |
 | Veni, Vidi, Vici | 4.00% | ~11 |
 | Multi Kill | 3.00% | ~9 |
+| Whoops! | 3.00% | ~9 |
 | Expert Essence Employment | 3.00% | ~9 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~9 |
 | Such A Fungi | 2.00% | ~6 |
@@ -32,16 +32,16 @@ Number of Ratings: 292  (23.09.2022)
 | Coming Through! | 0.70% | ~2 |
 | Don't Touch My Stuff | 0.70% | ~2 |
 | Grand Master | 0.70% | ~2 |
-| Hello There | 0.40% | ~1 |
-| Unlimited Power! | 0.40% | ~1 |
-| Fully Charged | 0.40% | ~1 |
-| Barbecue | 0.40% | ~1 |
-| In The Thick of It | 0.40% | ~1 |
-| From the Ashes | 0.40% | ~1 |
-| The Marsh Expands | 0.40% | ~1 |
-| Get Over Here! | 0.40% | ~1 |
-| Cleave | 0.40% | ~1 |
-| Ultra Kill | 0.40% | ~1 |
+| Hello There | 0.30% | ~1 |
+| Unlimited Power! | 0.30% | ~1 |
+| Fully Charged | 0.30% | ~1 |
+| Barbecue | 0.30% | ~1 |
+| In The Thick of It | 0.30% | ~1 |
+| From the Ashes | 0.30% | ~1 |
+| The Marsh Expands | 0.30% | ~1 |
+| Get Over Here! | 0.30% | ~1 |
+| Cleave | 0.30% | ~1 |
+| Ultra Kill | 0.30% | ~1 |
 | Bringer of Ruin | 0.00% | ~0 |
 | Attack Bonanza | 0.00% | ~0 |
 | The Price of Freedom | 0.00% | ~0 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 285 (Ranked 362)  
+Progressed: 287 (Ranked 361)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-26 | 250 | 0 |
 | 2023-11-27 | 261 | 0 |
 | 2023-11-28 | 273 | 0 |
-| 2023-11-29 | 285 | 0 |
+| 2023-11-29 | 287 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 512)  
 Sum: 194 (Ranked 404)  

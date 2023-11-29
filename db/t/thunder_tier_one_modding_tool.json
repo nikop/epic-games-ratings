@@ -4,8 +4,8 @@
   "ProductSlug": "thunder-tier-one-modkit",
   "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 497,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 499,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-25T21:57:48.6271017+00:00",
-  "LastUpdate_Ratings": "2023-11-29T19:02:54.7859141+00:00",
-  "LastUpdate_Achievements": "2023-11-29T19:06:23.4374244+00:00"
+  "LastUpdate_Ratings": "2023-11-29T20:02:27.9634472+00:00",
+  "LastUpdate_Achievements": "2023-11-29T20:05:51.7999371+00:00"
 }

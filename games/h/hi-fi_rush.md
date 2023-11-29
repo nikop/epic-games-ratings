@@ -21,11 +21,11 @@ Rating: 4.87 (Ranked 22)
 | Kissing the sky! | 11.00% | ~487 |
 | The Negotiator | 10.00% | ~443 |
 | Whoa! There's ANOTHER health bar!? | 10.00% | ~443 |
-| Headliner | 9.00% | ~398 |
-| You must like calling me in, Chai | 9.00% | ~398 |
-| Out in a puff of smoke | 9.00% | ~398 |
-| I look cool. But I can look COOLER. | 9.00% | ~398 |
-| Does that say weakpoint? | 9.00% | ~398 |
+| Headliner | 9.00% | ~399 |
+| You must like calling me in, Chai | 9.00% | ~399 |
+| Out in a puff of smoke | 9.00% | ~399 |
+| I look cool. But I can look COOLER. | 9.00% | ~399 |
+| Does that say weakpoint? | 9.00% | ~399 |
 | Time to pay up! | 8.00% | ~354 |
 | Who's the boss now? | 8.00% | ~354 |
 | Perfecter Parry-er! | 8.00% | ~354 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 22)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,427 (Ranked 194)  
+Progressed: 4,428 (Ranked 194)  
 Completed: 8 (0.18%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 8 (0.18%) (Ranked 265)
 | 2023-11-26 | 4,367 | 8 |
 | 2023-11-27 | 4,394 | 8 |
 | 2023-11-28 | 4,417 | 8 |
-| 2023-11-29 | 4,427 | 8 |
+| 2023-11-29 | 4,428 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

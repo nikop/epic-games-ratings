@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 100,
   "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
     "PcReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -472,9 +472,9 @@
       "ID": "605862",
       "SetID": "4lpaifm",
       "Name": "Half the Kingdom",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "605872",
@@ -528,9 +528,9 @@
       "ID": "740512",
       "SetID": "4lpaifm",
       "Name": "Honorable Santa",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 54
     },
     {
       "ID": "844452",
@@ -553,8 +553,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-11-29T19:04:06.8553945+00:00",
+  "LastChanged_Achievements": "2023-11-29T20:03:37.4121654+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.8631435+00:00",
-  "LastUpdate_Ratings": "2023-11-29T18:59:41.5981767+00:00",
-  "LastUpdate_Achievements": "2023-11-29T19:04:06.8554059+00:00"
+  "LastUpdate_Ratings": "2023-11-29T19:59:17.6258343+00:00",
+  "LastUpdate_Achievements": "2023-11-29T20:03:37.4121772+00:00"
 }

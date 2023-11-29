@@ -6,9 +6,9 @@
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 322,
-  "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_Completed": 250,
+  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 435,
+  "EOS_Progressed": 436,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -463,6 +463,11 @@
       "Time": "2023-11-28T01:56:34.483203+00:00",
       "NumProgressed": 435,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T20:08:04.444913+00:00",
+      "NumProgressed": 436,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -498,7 +503,7 @@
       "Name": "Experimentalist",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "collect-discounted-items1",
@@ -544,9 +549,9 @@
       "ID": "fat-human",
       "SetID": "799afm0",
       "Name": "Fat of the Earth",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 157
     },
     {
       "ID": "finished-quest-cube",
@@ -554,7 +559,7 @@
       "Name": "Impossible Cube",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "finished-quest-flight",
@@ -570,7 +575,7 @@
       "Name": "Campaigning",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "finished-quest-nurgle",
@@ -602,7 +607,7 @@
       "Name": "Catch Jonathan_tostar",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "finished-quest-sci",
@@ -618,7 +623,7 @@
       "Name": "To the Moon and Back",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "finished-quest-sword",
@@ -650,7 +655,7 @@
       "Name": "Last Man Standing",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "save-zombie",
@@ -688,9 +693,9 @@
       "ID": "win-first-biom",
       "SetID": "799afm0",
       "Name": "Vanquisher of Robots",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 335
+      "UsersEstimate": 331
     },
     {
       "ID": "win-first-level",
@@ -698,7 +703,7 @@
       "Name": "Good start!",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "win-koth-fights1",
@@ -706,7 +711,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "win-koth-fights2",
@@ -730,7 +735,7 @@
       "Name": "Through the Darkness",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "win-with-3-cultists",
@@ -753,7 +758,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 435,
+      "Progressed": 436,
       "Completed": 1
     }
   ],
@@ -761,8 +766,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-11-29T19:08:37.4206792+00:00",
+  "LastChanged_Achievements": "2023-11-29T20:08:04.4449127+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:54.2944425+00:00",
-  "LastUpdate_Ratings": "2023-11-29T18:59:15.2611241+00:00",
-  "LastUpdate_Achievements": "2023-11-29T19:08:37.4206982+00:00"
+  "LastUpdate_Ratings": "2023-11-29T19:58:51.9778449+00:00",
+  "LastUpdate_Achievements": "2023-11-29T20:08:04.4449358+00:00"
 }

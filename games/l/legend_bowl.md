@@ -1,7 +1,7 @@
 # Legend Bowl
 [Store](https://store.epicgames.com/en-US/p/legend-bowl-10bc86)  
 [View Rawdata](../../db/l/legend_bowl.json)  
-Rating: 4.76 (Ranked 126)  
+Rating: 4.76 (Ranked 127)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12194,
+  "EOS_Progressed": 12200,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1253,
+  "EOS_NewPlayers": 1245,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7094,6 +7094,11 @@
       "Time": "2023-11-29T19:05:41.2667477+00:00",
       "NumProgressed": 12194,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T20:05:10.3414753+00:00",
+      "NumProgressed": 12200,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -7202,7 +7207,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3170
+      "UsersEstimate": 3172
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -7210,7 +7215,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -7218,7 +7223,7 @@
       "Name": "Dreamer!",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -7297,14 +7302,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 12194,
+      "Progressed": 12200,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-11-29T19:05:41.2667472+00:00",
+  "LastChanged_Achievements": "2023-11-29T20:05:10.3414746+00:00",
   "LastUpdate_AppInfo": "2023-11-27T17:57:10.4801965+00:00",
-  "LastUpdate_Ratings": "2023-11-29T19:00:01.2744561+00:00",
-  "LastUpdate_Achievements": "2023-11-29T19:05:41.2667878+00:00"
+  "LastUpdate_Ratings": "2023-11-29T19:59:36.774721+00:00",
+  "LastUpdate_Achievements": "2023-11-29T20:05:10.3415222+00:00"
 }

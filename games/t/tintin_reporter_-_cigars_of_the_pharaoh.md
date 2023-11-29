@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | My Papyrus! | 75.00% | ~56 |
 | A Loyal Friend | 36.00% | ~27 |
-| Abandon Ship! | 20.00% | ~15 |
+| Abandon Ship! | 21.00% | ~16 |
 | The Tomb of Kih-Oskh | 17.00% | ~13 |
 | The Weighing of the Soul | 15.00% | ~11 |
 | Cat Lover | 8.00% | ~6 |
@@ -30,6 +30,7 @@
 | A Diagnosis | 3.00% | ~2 |
 | Threat | 3.00% | ~2 |
 | Tintin, Reporter | 1.00% | ~1 |
+| Mountain Runner | 1.00% | ~1 |
 | A Yummy Detour | 1.00% | ~1 |
 | The Pharaoh's New Clothes | 1.00% | ~1 |
 | Subtlety | 1.00% | ~1 |
@@ -39,7 +40,6 @@
 | Escaping War | 0.00% | ~0 |
 | Jungle Runner | 0.00% | ~0 |
 | Broken Brotherhood | 0.00% | ~0 |
-| Mountain Runner | 0.00% | ~0 |
 | Guilt | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 75 (Ranked 464)  

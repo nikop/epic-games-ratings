@@ -2,13 +2,13 @@
   "ID": "2744acda6a2e493e9894b389b6564df7",
   "Name": "SnowRunner",
   "ProductSlug": "snowrunner",
-  "Ranking_Rating": 126,
+  "Ranking_Rating": 127,
   "Ranking_Popularity": 33,
   "Ranking_PopularitySum": 21,
   "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 497,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 499,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2020-04-28T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -13456,6 +13456,6 @@
   "FirstSeen": "2022-07-22T20:17:33.5806012+00:00",
   "LastChanged": "2023-11-29T18:58:50.9338861+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:41.695379+00:00",
-  "LastUpdate_Ratings": "2023-11-29T18:58:50.9338867+00:00",
-  "LastUpdate_Achievements": "2023-11-29T19:05:45.0479005+00:00"
+  "LastUpdate_Ratings": "2023-11-29T19:58:28.2137863+00:00",
+  "LastUpdate_Achievements": "2023-11-29T20:05:13.7753332+00:00"
 }

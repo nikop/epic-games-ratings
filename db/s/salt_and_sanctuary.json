@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 214,
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2832,10 +2832,10 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 539522,
-  "EOS_Completed": 1628,
-  "EOS_NewPlayers": 619,
-  "EOS_NewCompleters": 7,
+  "EOS_Progressed": 539523,
+  "EOS_Completed": 1629,
+  "EOS_NewPlayers": 613,
+  "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -27472,6 +27472,11 @@
       "Time": "2023-11-29T19:04:43.7745076+00:00",
       "NumProgressed": 539522,
       "NumCompleted": 1628
+    },
+    {
+      "Time": "2023-11-29T20:04:13.4647867+00:00",
+      "NumProgressed": 539523,
+      "NumCompleted": 1629
     }
   ],
   "TotalAchievements": 37,
@@ -27539,7 +27544,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 447803
+      "UsersEstimate": 447804
     },
     {
       "ID": "HONED",
@@ -27603,7 +27608,7 @@
       "Name": "The Castle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 59347
+      "UsersEstimate": 59348
     },
     {
       "ID": "THE_CAVE",
@@ -27739,7 +27744,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 345294
+      "UsersEstimate": 345295
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -27778,15 +27783,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 539522,
-      "Completed": 1628
+      "Progressed": 539523,
+      "Completed": 1629
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-11-29T06:57:53.6037267+00:00",
-  "LastChanged_Achievements": "2023-11-29T19:04:43.7745069+00:00",
+  "LastChanged_Achievements": "2023-11-29T20:04:13.4647864+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:00.6010345+00:00",
-  "LastUpdate_Ratings": "2023-11-29T18:58:08.7125217+00:00",
-  "LastUpdate_Achievements": "2023-11-29T19:04:43.7746259+00:00"
+  "LastUpdate_Ratings": "2023-11-29T19:57:47.5735731+00:00",
+  "LastUpdate_Achievements": "2023-11-29T20:04:13.4649437+00:00"
 }

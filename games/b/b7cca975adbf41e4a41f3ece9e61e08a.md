@@ -48,7 +48,7 @@ Rating: 4.75 (Ranked 148)
 | Tall; Grande; Venti | 2.00% | ~208 |
 | Limerence | 2.00% | ~208 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,396 (Ranked 163)  
+Progressed: 10,396 (Ranked 164)  
 Completed: 176 (1.69%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |

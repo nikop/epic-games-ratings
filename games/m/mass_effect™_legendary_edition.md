@@ -17,8 +17,8 @@
 | Turian Ally | 53.00% | ~770 |
 | Medal of Honor | 52.00% | ~755 |
 | Meritorious Service Medal | 52.00% | ~755 |
+| Soldier | 50.00% | ~726 |
 | Charismatic | 50.00% | ~726 |
-| Soldier | 49.00% | ~711 |
 | Soldier Ally | 46.00% | ~668 |
 | Asari Ally | 46.00% | ~668 |
 | Principled | 46.00% | ~668 |
@@ -38,8 +38,8 @@
 | The Professor | 38.00% | ~552 |
 | The Archangel | 37.00% | ~537 |
 | Power Full | 37.00% | ~537 |
+| The Convict | 36.00% | ~523 |
 | Colony Defense | 35.00% | ~508 |
-| The Convict | 35.00% | ~508 |
 | The Krogan | 35.00% | ~508 |
 | Broke, Blind, and Bedlam | 34.00% | ~494 |
 | A Personal Touch | 32.00% | ~465 |
@@ -79,10 +79,10 @@
 | Eye of the Hurricane | 26.00% | ~378 |
 | World Shaker | 26.00% | ~378 |
 | First Aid Specialist | 25.00% | ~363 |
+| Pathfinder | 25.00% | ~363 |
 | Tunnel Rat | 25.00% | ~363 |
 | Liberator | 25.00% | ~363 |
 | Weapon Specialist | 24.00% | ~348 |
-| Pathfinder | 24.00% | ~348 |
 | Arbiter | 24.00% | ~348 |
 | Savior | 23.00% | ~334 |
 | Lost and Found | 23.00% | ~334 |

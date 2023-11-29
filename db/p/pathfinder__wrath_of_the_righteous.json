@@ -2,13 +2,13 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 126,
+  "Ranking_Rating": 127,
   "Ranking_Popularity": 122,
   "Ranking_PopularitySum": 120,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4329,18 +4329,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 7095,
       "NumberOfAwardsMax": 1749
+    },
+    {
+      "Time": "2023-11-29T19:57:11.971521+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7097,
+      "NumberOfAwardsMax": 1751
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7095,
-  "NumberOfAwardsMax": 1749,
+  "NumberOfAwards": 7097,
+  "NumberOfAwardsMax": 1751,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1749
+      "Count": 1751
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -17158,9 +17164,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-11-28T18:01:27.6571779+00:00",
-  "LastChanged_Achievements": "2023-11-29T19:09:04.7580716+00:00",
+  "LastChanged": "2023-11-29T19:57:11.9715208+00:00",
+  "LastChanged_Achievements": "2023-11-29T20:08:31.544186+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:49.3159315+00:00",
-  "LastUpdate_Ratings": "2023-11-29T18:57:31.211494+00:00",
-  "LastUpdate_Achievements": "2023-11-29T19:09:04.7582304+00:00"
+  "LastUpdate_Ratings": "2023-11-29T19:57:11.9715213+00:00",
+  "LastUpdate_Achievements": "2023-11-29T20:08:31.544337+00:00"
 }

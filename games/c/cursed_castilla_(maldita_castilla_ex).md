@@ -21,7 +21,7 @@
 | Runner | 1.00% | ~1 |
 | Legendary knight | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71 (Ranked 466)  
+Progressed: 71 (Ranked 467)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |

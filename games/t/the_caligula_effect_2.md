@@ -15,7 +15,7 @@ Number of Ratings: 32  (23.09.2022)
 | Philanthropist | 39.00% | ~94 |
 | Test Your Luck | 34.00% | ~82 |
 | Behind the Curtain | 33.00% | ~80 |
-| Master of Surprise | 29.00% | ~70 |
+| Master of Surprise | 30.00% | ~72 |
 | Be Who You Wanna Be | 27.00% | ~65 |
 | Counter Champion | 25.00% | ~60 |
 | Friendly Neighborhood | 24.00% | ~58 |

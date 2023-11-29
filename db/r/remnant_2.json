@@ -6,7 +6,7 @@
   "Ranking_Popularity": 104,
   "Ranking_PopularitySum": 129,
   "Ranking_EOS_Progress": 69,
-  "Ranking_EOS_Completed": 249,
+  "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 27,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -4935,11 +4935,11 @@
       "Count": 378
     }
   ],
-  "EOS_Progressed": 230625,
-  "EOS_Completed": 542,
-  "EOS_NewPlayers": 4811,
-  "EOS_NewCompleters": 39,
-  "EOS_Completed_Percentage": 0.24,
+  "EOS_Progressed": 230652,
+  "EOS_Completed": 541,
+  "EOS_NewPlayers": 4812,
+  "EOS_NewCompleters": 38,
+  "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
       "Time": "2023-07-21T17:05:35.5618698+00:00",
@@ -20550,6 +20550,11 @@
       "Time": "2023-11-29T19:08:51.882891+00:00",
       "NumProgressed": 230625,
       "NumCompleted": 542
+    },
+    {
+      "Time": "2023-11-29T20:08:18.8244416+00:00",
+      "NumProgressed": 230652,
+      "NumCompleted": 541
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20562,7 +20567,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -20642,7 +20647,7 @@
       "Name": "The Killing Jar",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1614
+      "UsersEstimate": 1615
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -20682,7 +20687,7 @@
       "Name": "Quest for Survival",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -21001,22 +21006,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 230625,
-      "Completed": 542
+      "Progressed": 230652,
+      "Completed": 541
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 9790,
-      "Completed": 168
+      "Progressed": 9817,
+      "Completed": 169
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-29T18:03:10.5559018+00:00",
-  "LastChanged_Achievements": "2023-11-29T19:08:51.8828906+00:00",
+  "LastChanged_Achievements": "2023-11-29T20:08:18.8244414+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-29T19:03:20.921167+00:00",
-  "LastUpdate_Achievements": "2023-11-29T19:08:51.8829866+00:00"
+  "LastUpdate_Ratings": "2023-11-29T20:02:51.2458312+00:00",
+  "LastUpdate_Achievements": "2023-11-29T20:08:18.8245348+00:00"
 }

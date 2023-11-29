@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,7 +145,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4427,
+  "EOS_Progressed": 4428,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
@@ -7935,6 +7935,11 @@
       "Time": "2023-11-29T16:06:50.655354+00:00",
       "NumProgressed": 4427,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-29T20:04:46.3674591+00:00",
+      "NumProgressed": 4428,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7978,7 +7983,7 @@
       "Name": "Headliner",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "Ach006",
@@ -8146,7 +8151,7 @@
       "Name": "You must like calling me in, Chai",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "Ach027",
@@ -8170,7 +8175,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "Ach030",
@@ -8274,7 +8279,7 @@
       "Name": "I look cool. But I can look COOLER.",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "Ach043",
@@ -8362,7 +8367,7 @@
       "Name": "Does that say weakpoint?",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "Ach054",
@@ -8513,13 +8518,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4427,
+      "Progressed": 4428,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2948,
+      "Progressed": 2949,
       "Completed": 1930
     }
   ],
@@ -8527,8 +8532,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-29T19:05:17.3718779+00:00",
+  "LastChanged_Achievements": "2023-11-29T20:04:46.3674587+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-11-29T18:58:06.2103717+00:00",
-  "LastUpdate_Achievements": "2023-11-29T19:05:17.3719615+00:00"
+  "LastUpdate_Ratings": "2023-11-29T19:57:45.1574371+00:00",
+  "LastUpdate_Achievements": "2023-11-29T20:04:46.3675408+00:00"
 }

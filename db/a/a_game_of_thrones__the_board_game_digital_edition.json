@@ -2,7 +2,7 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 906,
+  "Ranking_Rating": 907,
   "Ranking_Popularity": 334,
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 125,
@@ -1326,9 +1326,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 29370,
+  "EOS_Progressed": 29374,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -25306,6 +25306,11 @@
       "Time": "2023-11-29T19:09:16.1189613+00:00",
       "NumProgressed": 29370,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-11-29T20:08:42.2489253+00:00",
+      "NumProgressed": 29374,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 22,
@@ -25341,7 +25346,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "1019",
@@ -25357,7 +25362,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "1021",
@@ -25365,7 +25370,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "1022",
@@ -25413,7 +25418,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2643
+      "UsersEstimate": 2644
     },
     {
       "ID": "1028",
@@ -25437,7 +25442,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5874
+      "UsersEstimate": 5875
     },
     {
       "ID": "1031",
@@ -25453,7 +25458,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11748
+      "UsersEstimate": 11750
     },
     {
       "ID": "1033",
@@ -25477,7 +25482,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3818
+      "UsersEstimate": 3819
     },
     {
       "ID": "1036",
@@ -25492,15 +25497,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 29370,
+      "Progressed": 29374,
       "Completed": 81
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-24T16:03:24.7183261+00:00",
-  "LastChanged_Achievements": "2023-11-29T19:09:16.1189608+00:00",
+  "LastChanged_Achievements": "2023-11-29T20:08:42.2489249+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:55.1522502+00:00",
-  "LastUpdate_Ratings": "2023-11-29T18:59:20.1645473+00:00",
-  "LastUpdate_Achievements": "2023-11-29T19:09:16.1191105+00:00"
+  "LastUpdate_Ratings": "2023-11-29T19:58:56.9537029+00:00",
+  "LastUpdate_Achievements": "2023-11-29T20:08:42.2491062+00:00"
 }

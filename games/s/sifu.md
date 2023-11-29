@@ -20,7 +20,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Lightning Hands | 0.60% | ~4,306 |
 | Path of the Prospect | 0.60% | ~4,306 |
 | Rumble in the Hangar | 0.60% | ~4,306 |
-| Fight the way you practice | 0.60% | ~161 |
+| Fight the way you practice | 0.60% | ~162 |
 | Lady Wing Chun | 0.50% | ~3,588 |
 | Furious Fists | 0.50% | ~3,588 |
 | Kill Nil | 0.50% | ~3,588 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,612 (Ranked 22)  
+Progressed: 717,618 (Ranked 22)  
 Completed: 12,941 (1.80%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 12,941 (1.80%) (Ranked 132)
 | 2023-11-26 | 717,455 | 12,940 |
 | 2023-11-27 | 717,516 | 12,940 |
 | 2023-11-28 | 717,575 | 12,941 |
-| 2023-11-29 | 717,612 | 12,941 |
+| 2023-11-29 | 717,618 | 12,941 |
 ## Awards
 Max (Great Boss Battles): 6,858  (Ranked 55)  
 Sum: 12,016 (Ranked 83)  

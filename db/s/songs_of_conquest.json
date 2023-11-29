@@ -5,10 +5,10 @@
   "Ranking_Rating": 231,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 404,
-  "Ranking_EOS_Progress": 362,
+  "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 285,
+  "EOS_Progressed": 287,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1288,6 +1288,11 @@
       "Time": "2023-11-29T18:04:13.0890497+00:00",
       "NumProgressed": 285,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T20:03:54.4437248+00:00",
+      "NumProgressed": 287,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1322,9 +1327,9 @@
       "ID": "ArtifactsEquipped",
       "SetID": "71c0n9i",
       "Name": "Dressed For Success",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "AttackCount",
@@ -1362,7 +1367,7 @@
       "ID": "BurrowUp",
       "SetID": "71c0n9i",
       "Name": "Hello There",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1378,7 +1383,7 @@
       "ID": "ChainLightningKills",
       "SetID": "71c0n9i",
       "Name": "Unlimited Power!",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1386,7 +1391,7 @@
       "ID": "ChargerCount",
       "SetID": "71c0n9i",
       "Name": "Fully Charged",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1404,7 +1409,7 @@
       "Name": "Critical Hit",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Deepstrike",
@@ -1444,13 +1449,13 @@
       "Name": "Double Kill",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "FlameAttackKillCount",
       "SetID": "71c0n9i",
       "Name": "Barbecue",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1458,7 +1463,7 @@
       "ID": "FrontlineFighterCount",
       "SetID": "71c0n9i",
       "Name": "In The Thick of It",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1538,15 +1543,15 @@
       "ID": "QuickRetaliationDeath",
       "SetID": "71c0n9i",
       "Name": "Whoops!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "RanaCampaign",
       "SetID": "71c0n9i",
       "Name": "From the Ashes",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -1554,7 +1559,7 @@
       "ID": "RanaCampaignFinaleOnHard",
       "SetID": "71c0n9i",
       "Name": "The Marsh Expands",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -1586,7 +1591,7 @@
       "ID": "SwapIntoPoisonCloud",
       "SetID": "71c0n9i",
       "Name": "Get Over Here!",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1594,7 +1599,7 @@
       "ID": "SweepKillCount",
       "SetID": "71c0n9i",
       "Name": "Cleave",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1618,7 +1623,7 @@
       "ID": "UltraKill",
       "SetID": "71c0n9i",
       "Name": "Ultra Kill",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -1628,7 +1633,7 @@
       "Name": "Adept",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "WielderLevel2",
@@ -1731,15 +1736,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 285,
+      "Progressed": 287,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-29T19:04:24.5554828+00:00",
+  "LastChanged_Achievements": "2023-11-29T20:03:54.4437244+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:52.6052196+00:00",
-  "LastUpdate_Ratings": "2023-11-29T18:59:16.808571+00:00",
-  "LastUpdate_Achievements": "2023-11-29T19:04:24.5555274+00:00"
+  "LastUpdate_Ratings": "2023-11-29T19:58:53.423127+00:00",
+  "LastUpdate_Achievements": "2023-11-29T20:03:54.4437664+00:00"
 }

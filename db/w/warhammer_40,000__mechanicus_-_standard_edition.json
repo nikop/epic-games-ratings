@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -880,10 +880,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 2200,
       "NumberOfAwardsMax": 290
+    },
+    {
+      "Time": "2023-11-29T19:57:47.6880391+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2201,
+      "NumberOfAwardsMax": 290
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2200,
+  "NumberOfAwards": 2201,
   "NumberOfAwardsMax": 290,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -915,7 +921,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 269
+      "Count": 270
     },
     {
       "Text": "This game has Diverse Characters",
@@ -948,7 +954,7 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 228253,
+  "EOS_Progressed": 228258,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 470,
   "EOS_NewCompleters": 0,
@@ -25343,6 +25349,11 @@
       "Time": "2023-11-29T19:09:32.4090884+00:00",
       "NumProgressed": 228253,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-29T20:08:58.7327659+00:00",
+      "NumProgressed": 228258,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -25354,7 +25365,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 45651
+      "UsersEstimate": 45652
     },
     {
       "ID": "ACH_BASE_10",
@@ -25362,7 +25373,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59346
+      "UsersEstimate": 59347
     },
     {
       "ID": "ACH_BASE_11",
@@ -25402,7 +25413,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22825
+      "UsersEstimate": 22826
     },
     {
       "ID": "ACH_BASE_17",
@@ -25602,7 +25613,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 27390
+      "UsersEstimate": 27391
     },
     {
       "ID": "ACH_BASE_8",
@@ -25625,16 +25636,16 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 228253,
+      "Progressed": 228258,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2023-11-28T02:26:12.6557311+00:00",
-  "LastChanged_Achievements": "2023-11-29T19:09:32.4090879+00:00",
+  "LastChanged": "2023-11-29T19:57:47.6880389+00:00",
+  "LastChanged_Achievements": "2023-11-29T20:08:58.7327656+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:35.278824+00:00",
-  "LastUpdate_Ratings": "2023-11-29T18:58:08.8411201+00:00",
-  "LastUpdate_Achievements": "2023-11-29T19:09:32.4092333+00:00"
+  "LastUpdate_Ratings": "2023-11-29T19:57:47.6880397+00:00",
+  "LastUpdate_Achievements": "2023-11-29T20:08:58.7329098+00:00"
 }

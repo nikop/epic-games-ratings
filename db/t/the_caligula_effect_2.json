@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 378,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-06-23T03:00:00+00:00",
     "PcReleaseDate": "2022-06-23T03:00:00+00:00",
@@ -467,9 +467,9 @@
       "ID": "ACH_41",
       "SetID": "2eg5kgc",
       "Name": "Master of Surprise",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_42",
@@ -547,8 +547,8 @@
   "FirstSeen": "2022-07-22T20:19:58.3140985+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.7038898+00:00",
   "LastChanged": "2023-03-31T05:57:16.8033506+00:00",
-  "LastChanged_Achievements": "2023-11-29T19:09:37.860986+00:00",
+  "LastChanged_Achievements": "2023-11-29T20:09:04.1197934+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:54.7124744+00:00",
-  "LastUpdate_Ratings": "2023-11-29T18:57:33.6820821+00:00",
-  "LastUpdate_Achievements": "2023-11-29T19:09:37.8610141+00:00"
+  "LastUpdate_Ratings": "2023-11-29T19:57:14.3845822+00:00",
+  "LastUpdate_Achievements": "2023-11-29T20:09:04.1198223+00:00"
 }

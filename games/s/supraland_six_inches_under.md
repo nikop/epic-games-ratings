@@ -39,7 +39,7 @@ Number of Ratings: 209  (23.09.2022)
 | Translocator | 80.00% | ~1,866 |
 | Inner Peace | 78.00% | ~1,820 |
 | Diamond Pickaxe | 77.00% | ~1,796 |
-| Killed them all | 76.00% | ~1,773 |
+| Killed them all | 77.00% | ~1,796 |
 | Trickle Down Economy | 76.00% | ~1,773 |
 | Win | 76.00% | ~1,773 |
 | Greenhouse | 72.00% | ~1,680 |
