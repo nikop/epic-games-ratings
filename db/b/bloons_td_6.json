@@ -2,13 +2,13 @@
   "ID": "6a8dfa6e441e4f2f9048a98776c6077d",
   "Name": "Bloons TD 6",
   "ProductSlug": "bloons-td-6-bf95a0",
-  "Ranking_Rating": 111,
+  "Ranking_Rating": 112,
   "Ranking_Popularity": 48,
   "Ranking_PopularitySum": 34,
   "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 499,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2022-07-19T12:00:00+00:00",
     "PcReleaseDate": "2022-07-19T12:00:00+00:00",
@@ -11251,10 +11251,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 42547,
       "NumberOfAwardsMax": 7879
+    },
+    {
+      "Time": "2023-11-29T20:58:09.9694713+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 42557,
+      "NumberOfAwardsMax": 7879
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 42547,
+  "NumberOfAwards": 42557,
   "NumberOfAwardsMax": 7879,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -11322,7 +11328,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 2906
+      "Count": 2916
     },
     {
       "Text": "This game has a Creative Community",
@@ -11349,8 +11355,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-23T14:00:48.5667099+00:00",
   "FirstSeenRating": "2022-08-21T19:00:52.0889932+00:00",
-  "LastChanged": "2023-11-29T19:57:40.1844818+00:00",
+  "LastChanged": "2023-11-29T20:58:09.9694711+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:59.888462+00:00",
-  "LastUpdate_Ratings": "2023-11-29T19:57:40.1844827+00:00",
-  "LastUpdate_Achievements": "2023-11-29T20:04:27.4534376+00:00"
+  "LastUpdate_Ratings": "2023-11-29T20:58:09.9694717+00:00",
+  "LastUpdate_Achievements": "2023-11-29T21:04:57.1795112+00:00"
 }

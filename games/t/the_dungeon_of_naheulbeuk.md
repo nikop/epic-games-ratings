@@ -1,21 +1,21 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 445)  
+Rating: 4.58 (Ranked 446)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~84,124 |
-| Alt+F4 | 9.00% | ~21,632 |
-| Where's that freaking Dwarf? | 8.00% | ~19,228 |
-| Déjà vu | 7.00% | ~16,825 |
+| Sowwy! | 35.00% | ~84,130 |
+| Alt+F4 | 9.00% | ~21,633 |
+| Where's that freaking Dwarf? | 8.00% | ~19,230 |
+| Déjà vu | 7.00% | ~16,826 |
 | Sock! SOCK! | 5.00% | ~12,018 |
 | Speedrun | 5.00% | ~12,018 |
-| A beer, two curses, three companions | 4.00% | ~9,614 |
-| GG EZ | 4.00% | ~9,614 |
-| DM intervention | 4.00% | ~9,614 |
-| Fireproof Wizardess | 4.00% | ~9,614 |
+| A beer, two curses, three companions | 4.00% | ~9,615 |
+| GG EZ | 4.00% | ~9,615 |
+| DM intervention | 4.00% | ~9,615 |
+| Fireproof Wizardess | 4.00% | ~9,615 |
 | Livin' in a dwarven paradise | 3.00% | ~7,211 |
 | Way of the Wimp | 3.00% | ~7,211 |
 | The plot thickens... At the tavern | 3.00% | ~7,211 |
@@ -46,7 +46,7 @@ Number of Ratings: 118  (23.09.2022)
 | Material Girl | 1.00% | ~2,404 |
 | In Navalu's footsteps | 0.90% | ~2,163 |
 | Lëgal Legend | 0.80% | ~1,923 |
-| We come in peace | 0.70% | ~1,682 |
+| We come in peace | 0.70% | ~1,683 |
 | Holistic Adventuring Party | 0.60% | ~1,442 |
 | An old poacher makes the best gamekeeper | 0.60% | ~1,442 |
 | Law and Order | 0.60% | ~1,442 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~240 |
 | Dwarf Candy | 0.10% | ~240 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,355 (Ranked 63)  
+Progressed: 240,370 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 7 (0.00%) (Ranked 363)
 | 2023-11-26 | 239,885 | 7 |
 | 2023-11-27 | 240,063 | 7 |
 | 2023-11-28 | 240,228 | 7 |
-| 2023-11-29 | 240,355 | 7 |
+| 2023-11-29 | 240,370 | 7 |
 ## Awards
 Max (Character Customization): 240  (Ranked 272)  
 Sum: 484 (Ranked 329)  

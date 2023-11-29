@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -1203,9 +1203,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 179
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -1226,8 +1226,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-11-29T20:03:33.5562473+00:00",
-  "LastUpdate_AppInfo": "2023-11-22T19:57:01.3377699+00:00",
-  "LastUpdate_Ratings": "2023-11-29T20:02:41.4718107+00:00",
-  "LastUpdate_Achievements": "2023-11-29T20:03:33.5562732+00:00"
+  "LastChanged_Achievements": "2023-11-29T21:04:02.2695127+00:00",
+  "LastUpdate_AppInfo": "2023-11-29T20:57:25.9655457+00:00",
+  "LastUpdate_Ratings": "2023-11-29T21:03:09.8538056+00:00",
+  "LastUpdate_Achievements": "2023-11-29T21:04:02.2695326+00:00"
 }

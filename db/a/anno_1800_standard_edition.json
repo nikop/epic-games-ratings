@@ -2,13 +2,13 @@
   "ID": "oregano",
   "Name": "Anno 1800 Standard Edition",
   "ProductSlug": "anno-1800",
-  "Ranking_Rating": 78,
+  "Ranking_Rating": 80,
   "Ranking_Popularity": 115,
   "Ranking_PopularitySum": 74,
   "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 499,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2019-05-30T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -10917,10 +10917,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 14663,
       "NumberOfAwardsMax": 1893
+    },
+    {
+      "Time": "2023-11-29T21:00:26.863765+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 14669,
+      "NumberOfAwardsMax": 1893
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14663,
+  "NumberOfAwards": 14669,
   "NumberOfAwardsMax": 1893,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -10934,7 +10940,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1781
+      "Count": 1787
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -11002,8 +11008,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2023-11-29T19:00:22.1341403+00:00",
+  "LastChanged": "2023-11-29T21:00:26.8637648+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:07.8644792+00:00",
-  "LastUpdate_Ratings": "2023-11-29T19:59:57.2959222+00:00",
-  "LastUpdate_Achievements": "2023-11-29T20:04:15.2443033+00:00"
+  "LastUpdate_Ratings": "2023-11-29T21:00:26.8637655+00:00",
+  "LastUpdate_Achievements": "2023-11-29T21:04:44.8359496+00:00"
 }

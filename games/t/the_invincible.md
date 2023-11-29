@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 54.00% | ~244 |
-| The Teleprobe | 42.00% | ~189 |
-| The City | 37.00% | ~167 |
-| The field base | 32.00% | ~144 |
-| Survivors | 28.00% | ~126 |
+| The Camp | 54.00% | ~245 |
+| The Teleprobe | 42.00% | ~190 |
+| The City | 37.00% | ~168 |
+| The field base | 32.00% | ~145 |
+| Survivors | 28.00% | ~127 |
 | The Condor | 25.00% | ~113 |
 | The End | 25.00% | ~113 |
 | The Necroevolution | 21.00% | ~95 |
@@ -16,7 +16,7 @@
 | Volcanologist | 19.00% | ~86 |
 | Peacemaker | 17.00% | ~77 |
 | The Alliance | 17.00% | ~77 |
-| On her own | 14.00% | ~63 |
+| On her own | 15.00% | ~68 |
 | Beyond divisions | 14.00% | ~63 |
 | Fierce fight | 12.00% | ~54 |
 | Evacuation | 12.00% | ~54 |
@@ -34,7 +34,7 @@
 | Convoy list | 1.00% | ~5 |
 | No more mistakes | 0.70% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 451 (Ranked 318)  
+Progressed: 453 (Ranked 318)  
 Completed: 1 (0.22%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,4 +58,4 @@ Completed: 1 (0.22%) (Ranked 254)
 | 2023-11-26 | 375 | 1 |
 | 2023-11-27 | 399 | 1 |
 | 2023-11-28 | 442 | 1 |
-| 2023-11-29 | 451 | 1 |
+| 2023-11-29 | 453 | 1 |

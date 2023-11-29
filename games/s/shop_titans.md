@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 1,005)  
+Rating: 3.99 (Ranked 1,006)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,12 +10,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 6.00% | ~8,572 |
 | Tinkle of Coins | 6.00% | ~8,572 |
 | Titan's First Steps | 6.00% | ~8,572 |
-| Disintermediation | 4.00% | ~5,714 |
-| Another Satisfied Customer | 4.00% | ~5,714 |
-| It's Free Real Estate | 4.00% | ~5,714 |
-| Budding Merchant | 4.00% | ~5,714 |
-| Capitalism Ho! | 4.00% | ~5,714 |
-| Own the Means of Production | 4.00% | ~5,714 |
+| Disintermediation | 4.00% | ~5,715 |
+| Another Satisfied Customer | 4.00% | ~5,715 |
+| It's Free Real Estate | 4.00% | ~5,715 |
+| Budding Merchant | 4.00% | ~5,715 |
+| Capitalism Ho! | 4.00% | ~5,715 |
+| Own the Means of Production | 4.00% | ~5,715 |
 | The Daily Grind | 3.00% | ~4,286 |
 | One Easy Payment | 3.00% | ~4,286 |
 | Some Assembly Required | 3.00% | ~4,286 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~429 |
 | Capitalist Camaraderie | 0.20% | ~286 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,860 (Ranked 80)  
+Progressed: 142,866 (Ranked 80)  
 Completed: 289 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 289 (0.20%) (Ranked 258)
 | 2023-11-26 | 142,346 | 274 |
 | 2023-11-27 | 142,546 | 278 |
 | 2023-11-28 | 142,735 | 284 |
-| 2023-11-29 | 142,860 | 289 |
+| 2023-11-29 | 142,866 | 289 |
 ## Awards
 Max (Great for Beginners): 4,855  (Ranked 75)  
 Sum: 27,625 (Ranked 50)  

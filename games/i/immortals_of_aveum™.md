@@ -1,7 +1,7 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.05 (Ranked 986)  
+Rating: 4.05 (Ranked 987)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,7 +18,7 @@ Rating: 4.05 (Ranked 986)
 | Beggars Would Ride | 32.00% | ~102 |
 | Socialite | 30.00% | ~95 |
 | Control is an Illusion | 29.00% | ~92 |
-| The Means to Save It | 24.00% | ~76 |
+| The Means to Save It | 25.00% | ~80 |
 | Resilience to Sin | 21.00% | ~67 |
 | A Familiar Nest | 20.00% | ~64 |
 | Geas Aristeya | 20.00% | ~64 |

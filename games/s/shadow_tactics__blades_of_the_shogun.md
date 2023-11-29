@@ -1,23 +1,23 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.67 (Ranked 276)  
+Rating: 4.67 (Ranked 278)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~25,984 |
-| A thief's beginning | 10.00% | ~21,653 |
-| Thorough | 10.00% | ~21,653 |
-| Disguised | 9.00% | ~19,488 |
-| Rollin' | 9.00% | ~19,488 |
-| Tanuki Time | 9.00% | ~19,488 |
+| Genin | 12.00% | ~25,985 |
+| A thief's beginning | 10.00% | ~21,654 |
+| Thorough | 10.00% | ~21,654 |
+| Disguised | 9.00% | ~19,489 |
+| Rollin' | 9.00% | ~19,489 |
+| Tanuki Time | 9.00% | ~19,489 |
 | Rescue Takuma | 8.00% | ~17,323 |
 | Stoned Ox | 8.00% | ~17,323 |
-| Happy Planning | 7.00% | ~15,157 |
-| Ice Ice Yuki | 7.00% | ~15,157 |
-| Jonin | 7.00% | ~15,157 |
-| Yabu | 7.00% | ~15,157 |
+| Happy Planning | 7.00% | ~15,158 |
+| Ice Ice Yuki | 7.00% | ~15,158 |
+| Jonin | 7.00% | ~15,158 |
+| Yabu | 7.00% | ~15,158 |
 | Chunin | 6.00% | ~12,992 |
 | Flying Rocks | 6.00% | ~12,992 |
 | Mugen Unchained | 6.00% | ~12,992 |
@@ -25,10 +25,10 @@ Number of Ratings: 495  (23.09.2022)
 | Okkoto | 5.00% | ~10,827 |
 | Prisoners | 5.00% | ~10,827 |
 | Too Early | 5.00% | ~10,827 |
-| Gear up | 4.00% | ~8,661 |
-| Happy little accidents | 4.00% | ~8,661 |
-| Noboru | 4.00% | ~8,661 |
-| Still Rollin' | 4.00% | ~8,661 |
+| Gear up | 4.00% | ~8,662 |
+| Happy little accidents | 4.00% | ~8,662 |
+| Noboru | 4.00% | ~8,662 |
+| Still Rollin' | 4.00% | ~8,662 |
 | It's raining men | 3.00% | ~6,496 |
 | Stoned | 3.00% | ~6,496 |
 | The Old Way | 3.00% | ~6,496 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~217 |
 | Release the Kraken | 0.10% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,532 (Ranked 72)  
+Progressed: 216,541 (Ranked 72)  
 Completed: 100 (0.05%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 100 (0.05%) (Ranked 316)
 | 2023-11-26 | 216,075 | 99 |
 | 2023-11-27 | 216,232 | 99 |
 | 2023-11-28 | 216,376 | 100 |
-| 2023-11-29 | 216,532 | 100 |
+| 2023-11-29 | 216,541 | 100 |
 ## Awards
 Max (Great for Beginners): 579  (Ranked 200)  
 Sum: 4,880 (Ranked 144)  

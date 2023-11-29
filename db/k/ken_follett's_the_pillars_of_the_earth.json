@@ -2,13 +2,13 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 571,
+  "Ranking_Rating": 572,
   "Ranking_Popularity": 315,
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -558,7 +558,7 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16745,
+  "EOS_Progressed": 16747,
   "EOS_Completed": 116,
   "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
@@ -15148,6 +15148,11 @@
       "Time": "2023-11-29T20:04:16.1068105+00:00",
       "NumProgressed": 16745,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-11-29T21:04:45.7910111+00:00",
+      "NumProgressed": 16747,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15159,7 +15164,7 @@
       "Name": "Good midwife",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1674
+      "UsersEstimate": 1675
     },
     {
       "ID": "tpote_achievement_10",
@@ -15175,7 +15180,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3851
+      "UsersEstimate": 3852
     },
     {
       "ID": "tpote_achievement_12",
@@ -15199,7 +15204,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5526
+      "UsersEstimate": 5527
     },
     {
       "ID": "tpote_achievement_15",
@@ -15215,7 +15220,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2344
+      "UsersEstimate": 2345
     },
     {
       "ID": "tpote_achievement_17",
@@ -15231,7 +15236,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1674
+      "UsersEstimate": 1675
     },
     {
       "ID": "tpote_achievement_19",
@@ -15247,7 +15252,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5526
+      "UsersEstimate": 5527
     },
     {
       "ID": "tpote_achievement_20",
@@ -15319,7 +15324,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2009
+      "UsersEstimate": 2010
     },
     {
       "ID": "tpote_achievement_29",
@@ -15335,7 +15340,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5358
+      "UsersEstimate": 5359
     },
     {
       "ID": "tpote_achievement_30",
@@ -15343,7 +15348,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1674
+      "UsersEstimate": 1675
     },
     {
       "ID": "tpote_achievement_31",
@@ -15359,7 +15364,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2344
+      "UsersEstimate": 2345
     },
     {
       "ID": "tpote_achievement_33",
@@ -15423,7 +15428,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6698
+      "UsersEstimate": 6699
     },
     {
       "ID": "tpote_achievement_40",
@@ -15455,7 +15460,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3851
+      "UsersEstimate": 3852
     },
     {
       "ID": "tpote_achievement_7",
@@ -15471,7 +15476,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3516
+      "UsersEstimate": 3517
     },
     {
       "ID": "tpote_achievement_9",
@@ -15479,22 +15484,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5693
+      "UsersEstimate": 5694
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16745,
+      "Progressed": 16747,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-29T20:04:16.1068102+00:00",
+  "LastChanged_Achievements": "2023-11-29T21:04:45.791011+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:06.2264545+00:00",
-  "LastUpdate_Ratings": "2023-11-29T19:59:15.8452489+00:00",
-  "LastUpdate_Achievements": "2023-11-29T20:04:16.1069151+00:00"
+  "LastUpdate_Ratings": "2023-11-29T20:59:45.3656395+00:00",
+  "LastUpdate_Achievements": "2023-11-29T21:04:45.7910949+00:00"
 }

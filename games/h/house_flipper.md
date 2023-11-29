@@ -1,13 +1,13 @@
 # House Flipper
 [Store](https://store.epicgames.com/en-US/p/house-flipper)  
 [View Rawdata](../../db/h/house_flipper.json)  
-Rating: 4.69 (Ranked 231)  
+Rating: 4.69 (Ranked 232)  
 Number of Ratings: 1,023  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 95.00% | ~20,331 |
-| Strongman | 31.00% | ~6,634 |
+| First money | 95.00% | ~20,332 |
+| Strongman | 31.00% | ~6,635 |
 | Alpha Male | 20.00% | ~4,280 |
 | Just Enough | 19.00% | ~4,066 |
 | Pro-creative | 19.00% | ~4,066 |
@@ -30,7 +30,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Do it ASAP | 0.60% | ~128 |
 | Senior Estate Agent | 0.60% | ~128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,401 (Ranked 140)  
+Progressed: 21,402 (Ranked 140)  
 Completed: 21 (0.10%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,14 +252,14 @@ Completed: 21 (0.10%) (Ranked 288)
 | 2023-11-26 | 21,378 | 21 |
 | 2023-11-27 | 21,388 | 21 |
 | 2023-11-28 | 21,395 | 21 |
-| 2023-11-29 | 21,401 | 21 |
+| 2023-11-29 | 21,402 | 21 |
 ## Awards
-Max (Great for Beginners): 323  (Ranked 249)  
-Sum: 2,255 (Ranked 201)  
+Max (Great for Beginners): 324  (Ranked 249)  
+Sum: 2,256 (Ranked 201)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 323 |
+| This game is Great for Beginners | 324 |
 | This game is Educational | 242 |
 | This game is Extremely Fun | 230 |
 | This game is Relaxing | 230 |
@@ -451,3 +451,4 @@ Diff (max vs sum): 48
 | 2023-11-19 | 4.69 | - | 322 | 2,252 |
 | 2023-11-22 | 4.69 | - | 323 | 2,253 |
 | 2023-11-28 | 4.69 | - | 323 | 2,255 |
+| 2023-11-29 | 4.69 | - | 324 | 2,256 |

@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 92.00% | ~10,415 |
-| Cool Whip | 90.00% | ~10,189 |
-| Fashion Killa | 88.00% | ~9,962 |
-| Drop the Beat | 86.00% | ~9,736 |
-| Hey Lakeshore | 85.00% | ~9,623 |
+| Throwing up Tags | 92.00% | ~10,416 |
+| Cool Whip | 90.00% | ~10,190 |
+| Fashion Killa | 88.00% | ~9,963 |
+| Drop the Beat | 86.00% | ~9,737 |
+| Hey Lakeshore | 85.00% | ~9,624 |
 | 100 Miles and Runnin' | 84.00% | ~9,510 |
-| Public Enemy | 82.00% | ~9,283 |
-| Hey Speedie! | 68.00% | ~7,698 |
-| Rebel Without a Pause | 67.00% | ~7,585 |
-| Most Wanted | 64.00% | ~7,245 |
-| New Crew | 62.00% | ~7,019 |
-| Serious Guap | 53.00% | ~6,000 |
-| Style it Out | 53.00% | ~6,000 |
-| Escape Artist | 53.00% | ~6,000 |
+| Public Enemy | 82.00% | ~9,284 |
+| Hey Speedie! | 68.00% | ~7,699 |
+| Rebel Without a Pause | 67.00% | ~7,586 |
+| Most Wanted | 64.00% | ~7,246 |
+| New Crew | 62.00% | ~7,020 |
+| Serious Guap | 53.00% | ~6,001 |
+| Style it Out | 53.00% | ~6,001 |
+| Escape Artist | 53.00% | ~6,001 |
 | Untouchable | 52.00% | ~5,887 |
-| Oh, It's On | 50.00% | ~5,660 |
-| Rydell's Rydes | 48.00% | ~5,434 |
+| Oh, It's On | 50.00% | ~5,661 |
+| Rydell's Rydes | 48.00% | ~5,435 |
 | Cash Money Millionaire | 46.00% | ~5,208 |
-| Lake Better Watch Out | 39.00% | ~4,415 |
+| Lake Better Watch Out | 39.00% | ~4,416 |
 | #Blessed | 34.00% | ~3,849 |
 | Access All Areas | 33.00% | ~3,736 |
 | Found Family | 31.00% | ~3,510 |
 | In the Flow | 29.00% | ~3,283 |
 | The Collector | 29.00% | ~3,283 |
 | Kick it | 29.00% | ~3,283 |
-| Top Billin' | 21.00% | ~2,377 |
+| Top Billin' | 21.00% | ~2,378 |
 | Teacher's Pet | 20.00% | ~2,264 |
 | Full House | 18.00% | ~2,038 |
 | Superstar | 18.00% | ~2,038 |
@@ -46,7 +46,7 @@
 | Catch My Drift | 2.00% | ~226 |
 | Cleaning Up | 2.00% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,321 (Ranked 161)  
+Progressed: 11,322 (Ranked 161)  
 Completed: 52 (0.46%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,4 +121,4 @@ Completed: 52 (0.46%) (Ranked 212)
 | 2023-11-26 | 11,100 | 51 |
 | 2023-11-27 | 11,181 | 52 |
 | 2023-11-28 | 11,263 | 52 |
-| 2023-11-29 | 11,321 | 52 |
+| 2023-11-29 | 11,322 | 52 |

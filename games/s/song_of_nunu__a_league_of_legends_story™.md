@@ -11,19 +11,19 @@
 | Blue Dreams | 66.00% | ~671 |
 | He's Famous! | 66.00% | ~671 |
 | Cutie Poro | 66.00% | ~671 |
-| Krugmazing | 63.00% | ~640 |
+| Krugmazing | 64.00% | ~650 |
 | Moneyball | 60.00% | ~610 |
 | The Fire Below the Mountain | 60.00% | ~610 |
 | No Bites | 55.00% | ~559 |
-| Iceborn | 54.00% | ~549 |
+| Iceborn | 55.00% | ~559 |
+| Tear of Freedom | 52.00% | ~528 |
 | Boom Things | 52.00% | ~528 |
-| Tear of Freedom | 51.00% | ~518 |
-| My Darkest Day | 48.00% | ~488 |
+| My Darkest Day | 49.00% | ~498 |
 | Rhythm Of Willump | 46.00% | ~467 |
-| The Relentless Storm | 45.00% | ~457 |
+| The Relentless Storm | 46.00% | ~467 |
 | A Tragic Reminder | 43.00% | ~437 |
 | 3000 Year Blackout | 43.00% | ~437 |
-| The Finisher | 41.00% | ~417 |
+| The Finisher | 42.00% | ~427 |
 | So Close | 40.00% | ~406 |
 | You Get Used To It | 40.00% | ~406 |
 | True Legends | 39.00% | ~396 |

@@ -2,13 +2,13 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 366,
+  "Ranking_Rating": 367,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 942,
+  "EOS_Progressed": 943,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -2529,6 +2529,11 @@
       "Time": "2023-11-29T00:08:44.6663223+00:00",
       "NumProgressed": 942,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-29T21:09:12.5466328+00:00",
+      "NumProgressed": 943,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2588,7 +2593,7 @@
       "Name": "Like Clockwork",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ClovemaryGift",
@@ -2668,7 +2673,7 @@
       "Name": "The Betrayer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -2882,9 +2887,9 @@
       "ID": "SumpChests1",
       "SetID": "a9e499d",
       "Name": "Sump Explorer",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 94
     },
     {
       "ID": "SyronGift",
@@ -2940,7 +2945,7 @@
       "Name": "Good Neighbor",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "Zarkon1Defeated",
@@ -2963,7 +2968,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 942,
+      "Progressed": 943,
       "Completed": 6
     }
   ],
@@ -2971,8 +2976,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-11-29T20:08:34.087115+00:00",
+  "LastChanged_Achievements": "2023-11-29T21:09:12.5466323+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.4880941+00:00",
-  "LastUpdate_Ratings": "2023-11-29T19:59:17.8058392+00:00",
-  "LastUpdate_Achievements": "2023-11-29T20:08:34.0871542+00:00"
+  "LastUpdate_Ratings": "2023-11-29T20:59:47.3913709+00:00",
+  "LastUpdate_Achievements": "2023-11-29T21:09:12.5466851+00:00"
 }

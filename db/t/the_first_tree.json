@@ -2,13 +2,13 @@
   "ID": "489c2ca47aaa4190b694184b979d3b23",
   "Name": "The First Tree",
   "ProductSlug": "the-first-tree",
-  "Ranking_Rating": 998,
+  "Ranking_Rating": 999,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38420,
+  "EOS_Progressed": 38421,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19605,6 +19605,11 @@
       "Time": "2023-11-29T20:05:14.0808796+00:00",
       "NumProgressed": 38420,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-11-29T21:05:44.0477416+00:00",
+      "NumProgressed": 38421,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 14,
@@ -19704,7 +19709,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 29583
+      "UsersEstimate": 29584
     },
     {
       "ID": "roots",
@@ -19712,7 +19717,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6531
+      "UsersEstimate": 6532
     },
     {
       "ID": "secretItem",
@@ -19727,15 +19732,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 38420,
+      "Progressed": 38421,
       "Completed": 120
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-11-16T13:58:53.3342311+00:00",
-  "LastChanged_Achievements": "2023-11-29T20:05:14.0808792+00:00",
+  "LastChanged_Achievements": "2023-11-29T21:05:44.0477414+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:33.3086908+00:00",
-  "LastUpdate_Ratings": "2023-11-29T19:58:26.0724312+00:00",
-  "LastUpdate_Achievements": "2023-11-29T20:05:14.0809925+00:00"
+  "LastUpdate_Ratings": "2023-11-29T20:58:56.351156+00:00",
+  "LastUpdate_Achievements": "2023-11-29T21:05:44.0478456+00:00"
 }

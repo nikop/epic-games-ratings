@@ -1,7 +1,7 @@
 # Port Royale 4
 [Store](https://store.epicgames.com/en-US/p/port-royale-4)  
 [View Rawdata](../../db/p/port_royale_4.json)  
-Rating: 4.03 (Ranked 995)  
+Rating: 4.03 (Ranked 996)  
 Number of Ratings: 53  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,7 +12,7 @@ Number of Ratings: 53  (23.09.2022)
 | Gofer | 57.00% | ~603 |
 | 3, 2, 1, mine | 56.00% | ~592 |
 | O Captain! My Captain! | 55.00% | ~582 |
-| Seafarer | 51.00% | ~540 |
+| Seafarer | 52.00% | ~550 |
 | Intangible | 43.00% | ~455 |
 | Greed for gold | 43.00% | ~455 |
 | I'm out of here for a while | 42.00% | ~444 |

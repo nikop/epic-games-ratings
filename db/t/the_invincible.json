@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 451,
+  "EOS_Progressed": 453,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1210,6 +1210,11 @@
       "Time": "2023-11-29T19:08:47.1134777+00:00",
       "NumProgressed": 451,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-29T21:08:52.8610121+00:00",
+      "NumProgressed": 453,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1222,7 +1227,7 @@
       "Name": "The Teleprobe",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "AchvAllMemories",
@@ -1236,9 +1241,9 @@
       "ID": "AchvAssertive",
       "SetID": "1hj060c",
       "Name": "On her own",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 68
     },
     {
       "ID": "AchvBattleScore",
@@ -1390,7 +1395,7 @@
       "Name": "The field base",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "AchvReachCamp",
@@ -1398,7 +1403,7 @@
       "Name": "The Camp",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "AchvReachCity",
@@ -1406,7 +1411,7 @@
       "Name": "The City",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "AchvReachCondor",
@@ -1422,7 +1427,7 @@
       "Name": "Survivors",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -1453,14 +1458,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 451,
+      "Progressed": 453,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-29T20:08:14.2734321+00:00",
+  "LastChanged_Achievements": "2023-11-29T21:08:52.8610117+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-11-29T19:58:40.5436939+00:00",
-  "LastUpdate_Achievements": "2023-11-29T20:08:14.2734552+00:00"
+  "LastUpdate_Ratings": "2023-11-29T20:59:10.7484472+00:00",
+  "LastUpdate_Achievements": "2023-11-29T21:08:52.861036+00:00"
 }

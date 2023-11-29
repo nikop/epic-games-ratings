@@ -1,17 +1,17 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.81 (Ranked 78)  
+Rating: 4.81 (Ranked 80)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Abandoned Settlement | 1.00% | ~175 |
+| Frosts | 1.00% | ~175 |
 | Overgrown Library | 1.00% | ~175 |
 | Petrified Necropolis | 1.00% | ~175 |
+| Ominous Presence | 1.00% | ~175 |
 | Gathering Storm | 1.00% | ~175 |
-| Frosts | 0.90% | ~158 |
-| Ominous Presence | 0.90% | ~158 |
 | Land of Greed | 0.80% | ~140 |
 | Untamed Wilds | 0.70% | ~123 |
 | Serving Ale | 0.10% | ~18 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.00% | ~0 |
 | Ruins | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,528 (Ranked 146)  
+Progressed: 17,529 (Ranked 146)  
 Completed: 51 (0.29%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 51 (0.29%) (Ranked 238)
 | 2023-11-26 | 17,488 | 56 |
 | 2023-11-27 | 17,506 | 56 |
 | 2023-11-28 | 17,518 | 54 |
-| 2023-11-29 | 17,528 | 51 |
+| 2023-11-29 | 17,529 | 51 |
 ## Awards
 Max (Quickly Understood Controls): 441  (Ranked 222)  
 Sum: 3,235 (Ranked 173)  

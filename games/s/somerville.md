@@ -1,7 +1,7 @@
 # Somerville
 [Store](https://store.epicgames.com/en-US/p/somerville-229529)  
 [View Rawdata](../../db/s/somerville.json)  
-Rating: 4.22 (Ranked 901)  
+Rating: 4.22 (Ranked 902)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,7 +9,7 @@ Rating: 4.22 (Ranked 901)
 | Worlds best dad | 2.00% | ~33 |
 | Resignation Reprise | 1.00% | ~17 |
 | Admiring the view | 0.90% | ~15 |
-| War of the worlds | 0.70% | ~12 |
+| War of the worlds | 0.80% | ~13 |
 | Blues Jam | 0.50% | ~8 |
 | Family First | 0.50% | ~8 |
 | “Here boy…“ | 0.50% | ~8 |

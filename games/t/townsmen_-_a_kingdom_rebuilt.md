@@ -1,7 +1,7 @@
 # Townsmen - A Kingdom Rebuilt
 [Store](https://store.epicgames.com/en-US/p/townsmen-a-kingdom-rebuilt-07c09d)  
 [View Rawdata](../../db/t/townsmen_-_a_kingdom_rebuilt.json)  
-Rating: 4.25 (Ranked 880)  
+Rating: 4.25 (Ranked 881)  
 Number of Ratings: 37  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,8 +9,8 @@ Number of Ratings: 37  (23.09.2022)
 | Eureka! | 13.00% | ~567 |
 | Tax-man I | 12.00% | ~523 |
 | A new beginning | 12.00% | ~523 |
-| Friends from the past | 11.00% | ~480 |
-| I like to build stuff... I | 9.00% | ~392 |
+| Friends from the past | 10.00% | ~436 |
+| I like to build stuff... I | 9.00% | ~393 |
 | Builder I | 8.00% | ~349 |
 | An honorable Governor I | 8.00% | ~349 |
 | Researcher | 8.00% | ~349 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,361 (Ranked 195)  
+Progressed: 4,362 (Ranked 195)  
 Completed: 3 (0.07%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 3 (0.07%) (Ranked 303)
 | 2023-11-25 | 4,357 | 3 |
 | 2023-11-26 | 4,358 | 3 |
 | 2023-11-27 | 4,360 | 3 |
-| 2023-11-29 | 4,361 | 3 |
+| 2023-11-29 | 4,362 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

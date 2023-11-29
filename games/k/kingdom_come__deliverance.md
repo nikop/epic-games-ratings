@@ -1,33 +1,33 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 199)  
+Rating: 4.71 (Ranked 200)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~259,344 |
-| Cavalier | 25.00% | ~202,612 |
-| Fatso | 23.00% | ~186,404 |
-| Awakening | 21.00% | ~170,194 |
-| Ranger | 20.00% | ~162,090 |
-| Scrooge | 20.00% | ~162,090 |
-| Anorectic | 16.00% | ~129,672 |
-| Firestarter | 16.00% | ~129,672 |
+| Blacksmith's Son | 32.00% | ~259,346 |
+| Cavalier | 25.00% | ~202,614 |
+| Fatso | 23.00% | ~186,405 |
+| Awakening | 21.00% | ~170,196 |
+| Ranger | 20.00% | ~162,091 |
+| Scrooge | 20.00% | ~162,091 |
+| Anorectic | 16.00% | ~129,673 |
+| Firestarter | 16.00% | ~129,673 |
 | Bookworm | 15.00% | ~121,568 |
-| Insomniac | 13.00% | ~105,358 |
-| Buddy | 12.00% | ~97,254 |
-| Thief | 12.00% | ~97,254 |
+| Insomniac | 13.00% | ~105,359 |
+| Buddy | 12.00% | ~97,255 |
+| Thief | 12.00% | ~97,255 |
 | Sinner | 11.00% | ~89,150 |
 | Traveller | 11.00% | ~89,150 |
-| Convict | 10.00% | ~81,045 |
-| Haggler | 9.00% | ~72,940 |
+| Convict | 10.00% | ~81,046 |
+| Haggler | 9.00% | ~72,941 |
 | McLovin | 7.00% | ~56,732 |
 | Runt | 7.00% | ~56,732 |
 | Casanova | 6.00% | ~48,627 |
-| Bad Trip | 5.00% | ~40,522 |
-| Monk | 5.00% | ~40,522 |
-| Serial Killer | 5.00% | ~40,522 |
+| Bad Trip | 5.00% | ~40,523 |
+| Monk | 5.00% | ~40,523 |
+| Serial Killer | 5.00% | ~40,523 |
 | Bastard | 4.00% | ~32,418 |
 | Hunter | 4.00% | ~32,418 |
 | Plague Doctor | 4.00% | ~32,418 |
@@ -44,13 +44,13 @@ Number of Ratings: 9,133  (23.09.2022)
 | Robber Baron | 2.00% | ~16,209 |
 | Talmberger | 2.00% | ~16,209 |
 | The End | 2.00% | ~16,209 |
-| Woman's Lot | 1.00% | ~8,104 |
-| Chivalrous Soul | 1.00% | ~8,104 |
-| Spoilsport | 1.00% | ~8,104 |
-| Freud | 1.00% | ~8,104 |
-| Gambler | 1.00% | ~8,104 |
-| Master Huntsman | 1.00% | ~8,104 |
-| Stealth Killer | 1.00% | ~8,104 |
+| Woman's Lot | 1.00% | ~8,105 |
+| Chivalrous Soul | 1.00% | ~8,105 |
+| Spoilsport | 1.00% | ~8,105 |
+| Freud | 1.00% | ~8,105 |
+| Gambler | 1.00% | ~8,105 |
+| Master Huntsman | 1.00% | ~8,105 |
+| Stealth Killer | 1.00% | ~8,105 |
 | Bailiff | 0.90% | ~7,294 |
 | Tracker | 0.90% | ~7,294 |
 | David Horak | 0.80% | ~6,484 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~810 |
 | Wingman | 0.10% | ~810 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 810,450 (Ranked 17)  
+Progressed: 810,456 (Ranked 17)  
 Completed: 52 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 52 (0.01%) (Ranked 343)
 | 2023-11-26 | 810,082 | 52 |
 | 2023-11-27 | 810,216 | 52 |
 | 2023-11-28 | 810,342 | 52 |
-| 2023-11-29 | 810,450 | 52 |
+| 2023-11-29 | 810,456 | 52 |
 ## Awards
 Max (Character Customization): 7,634  (Ranked 51)  
 Sum: 28,364 (Ranked 49)  

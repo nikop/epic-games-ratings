@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 381,
+  "EOS_Progressed": 382,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 0,
@@ -847,6 +847,11 @@
       "Time": "2023-11-29T19:08:43.1544487+00:00",
       "NumProgressed": 381,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T21:08:48.8809247+00:00",
+      "NumProgressed": 382,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -915,7 +920,7 @@
       "Name": "Combo Convert",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -923,7 +928,7 @@
       "Name": "Perfect Run",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -955,7 +960,7 @@
       "Name": "Celestial Rain",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -963,7 +968,7 @@
       "Name": "Unknown Threat",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -971,7 +976,7 @@
       "Name": "Speed Demon",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1171,21 +1176,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 381,
+      "Progressed": 382,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-29T20:08:10.474332+00:00",
+  "LastChanged_Achievements": "2023-11-29T21:08:48.8809245+00:00",
   "LastUpdate_AppInfo": "2023-11-28T17:56:55.9843317+00:00",
-  "LastUpdate_Ratings": "2023-11-29T20:02:33.3418115+00:00",
-  "LastUpdate_Achievements": "2023-11-29T20:08:10.4743628+00:00"
+  "LastUpdate_Ratings": "2023-11-29T21:03:01.7117383+00:00",
+  "LastUpdate_Achievements": "2023-11-29T21:08:48.8809495+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 27,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 804,
-  "EOS_Completed": 132,
-  "EOS_NewPlayers": 42,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 16.42,
+  "EOS_Progressed": 805,
+  "EOS_Completed": 133,
+  "EOS_NewPlayers": 43,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 16.52,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3406,6 +3406,11 @@
       "Time": "2023-11-29T20:04:42.9786772+00:00",
       "NumProgressed": 804,
       "NumCompleted": 132
+    },
+    {
+      "Time": "2023-11-29T21:05:12.5711976+00:00",
+      "NumProgressed": 805,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 22,
@@ -3417,7 +3422,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "LEVEL_002",
@@ -3425,7 +3430,7 @@
       "Name": "A tiny town",
       "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "LEVEL_003",
@@ -3441,7 +3446,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "LEVEL_005",
@@ -3473,7 +3478,7 @@
       "Name": "Passion for sports",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "LEVEL_009",
@@ -3481,7 +3486,7 @@
       "Name": "Who loves trains?",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "LEVEL_010",
@@ -3511,9 +3516,9 @@
       "ID": "LEVEL_013",
       "SetID": "3khpmem",
       "Name": "Elevated ring",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 185
+      "UsersEstimate": 177
     },
     {
       "ID": "LEVEL_014",
@@ -3583,25 +3588,25 @@
       "ID": "LEVEL_022",
       "SetID": "3khpmem",
       "Name": "Night walk along the beach",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 129
+      "UsersEstimate": 137
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 804,
-      "Completed": 132
+      "Progressed": 805,
+      "Completed": 133
     }
   ],
   "FirstSeen": "2023-04-28T06:58:06.5817191+00:00",
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-11-29T20:04:42.978677+00:00",
+  "LastChanged_Achievements": "2023-11-29T21:05:12.5711972+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:17.2540089+00:00",
-  "LastUpdate_Ratings": "2023-11-29T19:59:31.7214123+00:00",
-  "LastUpdate_Achievements": "2023-11-29T20:04:42.9787156+00:00"
+  "LastUpdate_Ratings": "2023-11-29T21:00:01.3221711+00:00",
+  "LastUpdate_Achievements": "2023-11-29T21:05:12.5712347+00:00"
 }

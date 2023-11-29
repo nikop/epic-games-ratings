@@ -2,13 +2,13 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 199,
+  "Ranking_Rating": 200,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -245,7 +245,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7838,
+  "EOS_Progressed": 7839,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
@@ -8525,6 +8525,11 @@
       "Time": "2023-11-29T09:08:26.3897524+00:00",
       "NumProgressed": 7838,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-29T21:08:39.790499+00:00",
+      "NumProgressed": 7839,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -8584,7 +8589,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -8703,7 +8708,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7838,
+      "Progressed": 7839,
       "Completed": 34
     }
   ],
@@ -8711,8 +8716,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-22T17:57:52.5029935+00:00",
-  "LastChanged_Achievements": "2023-11-29T20:08:01.1431465+00:00",
+  "LastChanged_Achievements": "2023-11-29T21:08:39.7904987+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:19.2388904+00:00",
-  "LastUpdate_Ratings": "2023-11-29T19:57:58.3216015+00:00",
-  "LastUpdate_Achievements": "2023-11-29T20:08:01.1431932+00:00"
+  "LastUpdate_Ratings": "2023-11-29T20:58:27.9026966+00:00",
+  "LastUpdate_Achievements": "2023-11-29T21:08:39.7905492+00:00"
 }

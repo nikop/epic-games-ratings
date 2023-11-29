@@ -2,7 +2,7 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 505,
+  "Ranking_Rating": 506,
   "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 156,
@@ -1615,9 +1615,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13808,
+  "EOS_Progressed": 13809,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -15200,6 +15200,11 @@
       "Time": "2023-11-29T20:08:38.1866115+00:00",
       "NumProgressed": 13808,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-29T21:09:16.6134087+00:00",
+      "NumProgressed": 13809,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 35,
@@ -15267,7 +15272,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 7180
+      "UsersEstimate": 7181
     },
     {
       "ID": "ACH09",
@@ -15331,7 +15336,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2347
+      "UsersEstimate": 2348
     },
     {
       "ID": "ACH17",
@@ -15347,7 +15352,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "ACH19",
@@ -15490,7 +15495,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13808,
+      "Progressed": 13809,
       "Completed": 55
     }
   ],
@@ -15498,8 +15503,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-29T15:59:38.0972261+00:00",
-  "LastChanged_Achievements": "2023-11-29T20:08:38.1866112+00:00",
+  "LastChanged_Achievements": "2023-11-29T21:09:16.6134084+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:29.1736391+00:00",
-  "LastUpdate_Ratings": "2023-11-29T19:58:17.2909868+00:00",
-  "LastUpdate_Achievements": "2023-11-29T20:08:38.1867097+00:00"
+  "LastUpdate_Ratings": "2023-11-29T20:58:47.5947587+00:00",
+  "LastUpdate_Achievements": "2023-11-29T21:09:16.6134915+00:00"
 }

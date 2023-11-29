@@ -2,13 +2,13 @@
   "ID": "cobra",
   "Name": "My Time At Portia",
   "ProductSlug": "my-time-at-portia",
-  "Ranking_Rating": 276,
+  "Ranking_Rating": 278,
   "Ranking_Popularity": 106,
   "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 499,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2019-01-15T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -3373,10 +3373,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 4943,
       "NumberOfAwardsMax": 2287
+    },
+    {
+      "Time": "2023-11-29T21:00:03.2534503+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4944,
+      "NumberOfAwardsMax": 2287
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4943,
+  "NumberOfAwards": 4944,
   "NumberOfAwardsMax": 2287,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3396,7 +3402,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 301
+      "Count": 302
     },
     {
       "Text": "This game has Easy Combat",
@@ -3470,8 +3476,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:29.4113784+00:00",
-  "LastChanged": "2023-11-29T16:01:37.937835+00:00",
+  "LastChanged": "2023-11-29T21:00:03.2534502+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:18.6149569+00:00",
-  "LastUpdate_Ratings": "2023-11-29T19:59:33.6589089+00:00",
-  "LastUpdate_Achievements": "2023-11-29T20:05:12.1151065+00:00"
+  "LastUpdate_Ratings": "2023-11-29T21:00:03.2534506+00:00",
+  "LastUpdate_Achievements": "2023-11-29T21:05:42.0636473+00:00"
 }

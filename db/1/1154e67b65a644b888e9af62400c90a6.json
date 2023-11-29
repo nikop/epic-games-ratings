@@ -2,13 +2,13 @@
   "ID": "1154e67b65a644b888e9af62400c90a6",
   "Name": "Palia",
   "ProductSlug": "palia-0d428e",
-  "Ranking_Rating": 609,
-  "Ranking_Popularity": 186,
-  "Ranking_PopularitySum": 227,
+  "Ranking_Rating": 610,
+  "Ranking_Popularity": 185,
+  "Ranking_PopularitySum": 226,
   "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 499,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-10-24T17:00:00+00:00",
     "PcReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -1193,18 +1193,24 @@
       "Rating": 4.49,
       "NumberOfAwards": 1638,
       "NumberOfAwardsMax": 685
+    },
+    {
+      "Time": "2023-11-29T21:00:45.2645694+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 1655,
+      "NumberOfAwardsMax": 697
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1638,
-  "NumberOfAwardsMax": 685,
+  "NumberOfAwards": 1655,
+  "NumberOfAwardsMax": 697,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 685
+      "Count": 697
     },
     {
       "Text": "This game is Relaxing",
@@ -1252,7 +1258,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 95
+      "Count": 100
     },
     {
       "Text": "This game has Easy Combat",
@@ -1285,8 +1291,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2023-11-29T14:02:37.3528925+00:00",
+  "LastChanged": "2023-11-29T21:00:45.2645692+00:00",
   "LastUpdate_AppInfo": "2023-11-28T19:57:03.5176823+00:00",
-  "LastUpdate_Ratings": "2023-11-29T20:00:15.2729028+00:00",
-  "LastUpdate_Achievements": "2023-11-29T20:03:46.2659636+00:00"
+  "LastUpdate_Ratings": "2023-11-29T21:00:45.2645697+00:00",
+  "LastUpdate_Achievements": "2023-11-29T21:04:15.393513+00:00"
 }

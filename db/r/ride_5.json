@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2314,
+  "EOS_Progressed": 2315,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5562,6 +5562,11 @@
       "Time": "2023-11-29T20:09:05.5043145+00:00",
       "NumProgressed": 2314,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T21:09:43.2418657+00:00",
+      "NumProgressed": 2315,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5582,7 +5587,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -5590,7 +5595,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -5646,7 +5651,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -5870,7 +5875,7 @@
       "Name": "Eat My Dust",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -5878,7 +5883,7 @@
       "Name": "Champagne Spray",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -5965,14 +5970,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2314,
+      "Progressed": 2315,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-29T20:09:05.5043143+00:00",
+  "LastChanged_Achievements": "2023-11-29T21:09:43.2418655+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:35.7913611+00:00",
-  "LastUpdate_Ratings": "2023-11-29T20:00:02.3432111+00:00",
-  "LastUpdate_Achievements": "2023-11-29T20:09:05.5043642+00:00"
+  "LastUpdate_Ratings": "2023-11-29T21:00:32.4254239+00:00",
+  "LastUpdate_Achievements": "2023-11-29T21:09:43.2419351+00:00"
 }

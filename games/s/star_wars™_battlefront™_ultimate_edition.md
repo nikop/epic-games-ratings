@@ -53,7 +53,7 @@
 | Stop that Droid | 1.00% | ~15 |
 | Onwards! | 1.00% | ~15 |
 | The circle is now complete | 1.00% | ~15 |
-| Walker defender | 0.80% | ~12 |
+| Walker defender | 0.90% | ~13 |
 | No such thing as luck | 0.80% | ~12 |
 | Do we take prisoners? | 0.80% | ~12 |
 | A New Hope | 0.70% | ~10 |

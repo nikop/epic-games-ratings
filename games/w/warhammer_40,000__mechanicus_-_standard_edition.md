@@ -1,7 +1,7 @@
 # Warhammer 40,000: Mechanicus - Standard Edition
 [Store](https://store.epicgames.com/en-US/p/warhammer-mechanicus-0e4b71)  
 [View Rawdata](../../db/w/warhammer_40,000__mechanicus_-_standard_edition.json)  
-Rating: 4.43 (Ranked 693)  
+Rating: 4.43 (Ranked 694)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,7 +13,7 @@ Rating: 4.43 (Ranked 693)
 | Taser Goad | 9.00% | ~20,543 |
 | Radium Ready | 9.00% | ~20,543 |
 | Half a cog | 9.00% | ~20,543 |
-| Watch them crumble | 6.00% | ~13,695 |
+| Watch them crumble | 6.00% | ~13,696 |
 | Competent Cohort | 4.00% | ~9,130 |
 | Celestial Cartography Catastrophe | 4.00% | ~9,130 |
 | One with the Machine | 4.00% | ~9,130 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 693)
 | Perma-live | 0.10% | ~228 |
 | Purge the Heretek | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,258 (Ranked 70)  
+Progressed: 228,259 (Ranked 70)  
 Completed: 5 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 5 (0.00%) (Ranked 363)
 | 2023-11-26 | 228,095 | 5 |
 | 2023-11-27 | 228,156 | 5 |
 | 2023-11-28 | 228,217 | 5 |
-| 2023-11-29 | 228,258 | 5 |
+| 2023-11-29 | 228,259 | 5 |
 ## Awards
 Max (Highly Recommended): 290  (Ranked 258)  
 Sum: 2,201 (Ranked 206)  

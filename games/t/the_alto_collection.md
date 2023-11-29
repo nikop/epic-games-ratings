@@ -1,23 +1,23 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.71 (Ranked 199)  
+Rating: 4.71 (Ranked 200)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~13,006 |
-| Finding Your Footing | 26.00% | ~12,524 |
-| Nomad | 17.00% | ~8,189 |
-| Picking Up Speed | 16.00% | ~7,707 |
-| Welcome Maya | 14.00% | ~6,744 |
-| Scout | 11.00% | ~5,299 |
-| Sightseer | 11.00% | ~5,299 |
-| Amateur | 10.00% | ~4,817 |
+| Rookie | 27.00% | ~13,008 |
+| Finding Your Footing | 26.00% | ~12,527 |
+| Nomad | 17.00% | ~8,190 |
+| Picking Up Speed | 16.00% | ~7,709 |
+| Welcome Maya | 14.00% | ~6,745 |
+| Scout | 11.00% | ~5,300 |
+| Sightseer | 11.00% | ~5,300 |
+| Amateur | 10.00% | ~4,818 |
 | Unlock Maya | 8.00% | ~3,854 |
 | Wanderer | 8.00% | ~3,854 |
-| Enter Paz | 7.00% | ~3,372 |
-| Aviator | 6.00% | ~2,890 |
+| Enter Paz | 7.00% | ~3,373 |
+| Aviator | 6.00% | ~2,891 |
 | My Little Friend | 5.00% | ~2,409 |
 | One With The Board | 5.00% | ~2,409 |
 | Voyager | 5.00% | ~2,409 |
@@ -27,11 +27,11 @@ Number of Ratings: 332  (23.09.2022)
 | Human Flight | 3.00% | ~1,445 |
 | Sandboarder | 3.00% | ~1,445 |
 | Izel Has Arrived | 3.00% | ~1,445 |
-| Explorer | 2.00% | ~963 |
-| Pro | 2.00% | ~963 |
-| Journeyer | 2.00% | ~963 |
-| Unlock Izel | 2.00% | ~963 |
-| Here Comes Felipe | 2.00% | ~963 |
+| Explorer | 2.00% | ~964 |
+| Pro | 2.00% | ~964 |
+| Journeyer | 2.00% | ~964 |
+| Unlock Izel | 2.00% | ~964 |
+| Here Comes Felipe | 2.00% | ~964 |
 | Hoist the Mainsail | 1.00% | ~482 |
 | Daredevil | 1.00% | ~482 |
 | Introducing Sumara | 1.00% | ~482 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~48 |
 | Windswept | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,171 (Ranked 113)  
+Progressed: 48,179 (Ranked 113)  
 Completed: 5 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 5 (0.01%) (Ranked 343)
 | 2023-11-26 | 47,893 | 5 |
 | 2023-11-27 | 48,000 | 5 |
 | 2023-11-28 | 48,087 | 5 |
-| 2023-11-29 | 48,171 | 5 |
+| 2023-11-29 | 48,179 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 440)  
 Sum: 375 (Ranked 350)  

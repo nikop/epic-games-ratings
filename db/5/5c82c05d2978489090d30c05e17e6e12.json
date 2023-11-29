@@ -2,7 +2,7 @@
   "ID": "5c82c05d2978489090d30c05e17e6e12",
   "Name": "EARTHLOCK",
   "ProductSlug": "earthlock-e7d979",
-  "Ranking_Rating": 990,
+  "Ranking_Rating": 991,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 106,
@@ -125,9 +125,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 60273,
+  "EOS_Progressed": 60313,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 10626,
+  "EOS_NewPlayers": 10476,
   "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1710,6 +1710,11 @@
       "Time": "2023-11-29T20:05:24.0852087+00:00",
       "NumProgressed": 60273,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-11-29T21:05:53.6460463+00:00",
+      "NumProgressed": 60313,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -1722,7 +1727,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 22301
+      "UsersEstimate": 22316
     },
     {
       "ID": "Achievement_10",
@@ -1754,7 +1759,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1809
     },
     {
       "ID": "Achievement_14",
@@ -1810,7 +1815,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 16274
+      "UsersEstimate": 16285
     },
     {
       "ID": "Achievement_20",
@@ -1850,7 +1855,7 @@
       "Name": "Custodian of Scrollroads",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1809
     },
     {
       "ID": "Achievement_25",
@@ -1874,7 +1879,7 @@
       "Name": "Critter King",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "Achievement_28",
@@ -1898,7 +1903,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 6630
+      "UsersEstimate": 6634
     },
     {
       "ID": "Achievement_30",
@@ -1922,7 +1927,7 @@
       "Name": "Art Director",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "Achievement_33",
@@ -1930,7 +1935,7 @@
       "Name": "Family Ties",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "Achievement_34",
@@ -1946,7 +1951,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 4822
+      "UsersEstimate": 4825
     },
     {
       "ID": "Achievement_5",
@@ -1954,7 +1959,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3616
+      "UsersEstimate": 3619
     },
     {
       "ID": "Achievement_6",
@@ -1962,7 +1967,7 @@
       "Name": "The Red-Haired Enigma",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1809
     },
     {
       "ID": "Achievement_7",
@@ -1970,7 +1975,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "Achievement_8",
@@ -1978,7 +1983,7 @@
       "Name": "House In Order",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "Achievement_9",
@@ -1993,7 +1998,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 60273,
+      "Progressed": 60313,
       "Completed": 41
     }
   ],
@@ -2001,8 +2006,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-11-29T15:02:27.7188344+00:00",
-  "LastChanged_Achievements": "2023-11-29T20:05:24.0852085+00:00",
+  "LastChanged_Achievements": "2023-11-29T21:05:53.6460459+00:00",
   "LastUpdate_AppInfo": "2023-11-23T11:57:10.0145945+00:00",
-  "LastUpdate_Ratings": "2023-11-29T20:00:14.3350636+00:00",
-  "LastUpdate_Achievements": "2023-11-29T20:05:24.0852353+00:00"
+  "LastUpdate_Ratings": "2023-11-29T21:00:44.4342529+00:00",
+  "LastUpdate_Achievements": "2023-11-29T21:05:53.6460776+00:00"
 }

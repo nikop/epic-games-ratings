@@ -2,13 +2,13 @@
   "ID": "d5cbd232ad304c91aacc20f31849435c",
   "Name": "House Flipper",
   "ProductSlug": "house-flipper",
-  "Ranking_Rating": 231,
+  "Ranking_Rating": 232,
   "Ranking_Popularity": 249,
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -2029,18 +2029,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 2255,
       "NumberOfAwardsMax": 323
+    },
+    {
+      "Time": "2023-11-29T20:59:22.4009445+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2256,
+      "NumberOfAwardsMax": 324
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2255,
-  "NumberOfAwardsMax": 323,
+  "NumberOfAwards": 2256,
+  "NumberOfAwardsMax": 324,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 323
+      "Count": 324
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2103,9 +2109,9 @@
       "Count": 219
     }
   ],
-  "EOS_Progressed": 21401,
+  "EOS_Progressed": 21402,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10833,6 +10839,11 @@
       "Time": "2023-11-29T20:03:57.0566299+00:00",
       "NumProgressed": 21401,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-11-29T21:04:26.9049635+00:00",
+      "NumProgressed": 21402,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -10892,7 +10903,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20331
+      "UsersEstimate": 20332
     },
     {
       "ID": "GameOver",
@@ -11004,7 +11015,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6634
+      "UsersEstimate": 6635
     },
     {
       "ID": "VeronicaLiptson",
@@ -11027,15 +11038,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21401,
+      "Progressed": 21402,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2023-11-28T13:58:32.9656467+00:00",
-  "LastChanged_Achievements": "2023-11-29T20:03:57.0566295+00:00",
+  "LastChanged": "2023-11-29T20:59:22.4009443+00:00",
+  "LastChanged_Achievements": "2023-11-29T21:04:26.9049631+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:03.9254817+00:00",
-  "LastUpdate_Ratings": "2023-11-29T19:58:52.2418514+00:00",
-  "LastUpdate_Achievements": "2023-11-29T20:03:57.0566736+00:00"
+  "LastUpdate_Ratings": "2023-11-29T20:59:22.4009448+00:00",
+  "LastUpdate_Achievements": "2023-11-29T21:04:26.9050357+00:00"
 }

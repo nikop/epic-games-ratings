@@ -1,7 +1,7 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.20 (Ranked 914)  
+Rating: 4.20 (Ranked 915)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -19,9 +19,9 @@ Rating: 4.20 (Ranked 914)
 | I feel drawn to it | 0.30% | ~963 |
 | Here to stay | 0.30% | ~963 |
 | Counting on you | 0.30% | ~963 |
+| This is the end | 0.30% | ~963 |
 | They won't last long | 0.30% | ~963 |
 | Bring it on! | 0.30% | ~963 |
-| This is the end | 0.20% | ~642 |
 | We can choose to fight | 0.20% | ~642 |
 | Their fate is sealed | 0.20% | ~642 |
 | Not even from this world | 0.20% | ~642 |
@@ -46,7 +46,7 @@ Rating: 4.20 (Ranked 914)
 | They wanted yet another monster… | 0.00% | ~0 |
 | Something... unnatural | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 320,950 (Ranked 51)  
+Progressed: 320,971 (Ranked 51)  
 Completed: 4 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 4 (0.00%) (Ranked 363)
 | 2023-11-26 | 319,464 | 4 |
 | 2023-11-27 | 320,009 | 4 |
 | 2023-11-28 | 320,512 | 4 |
-| 2023-11-29 | 320,950 | 4 |
+| 2023-11-29 | 320,971 | 4 |
 ## Awards
 Max (Great Boss Battles): 63  (Ranked 412)  
 Sum: 63 (Ranked 476)  

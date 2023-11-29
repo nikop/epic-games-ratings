@@ -1,7 +1,7 @@
 # War Mongrels
 [Store](https://store.epicgames.com/en-US/p/war-mongrels)  
 [View Rawdata](../../db/w/war_mongrels.json)  
-Rating: 4.37 (Ranked 773)  
+Rating: 4.37 (Ranked 774)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,7 +13,7 @@ Number of Ratings: 34  (23.09.2022)
 | The Breaking Point | 44.00% | ~285 |
 | Here Comes the Boom | 42.00% | ~272 |
 | Prospector | 41.00% | ~265 |
-| Sniper Wolf | 39.00% | ~252 |
+| Sniper Wolf | 40.00% | ~259 |
 | Treasure Hunter | 38.00% | ~246 |
 | The Motivation | 38.00% | ~246 |
 | Heroism | 35.00% | ~226 |

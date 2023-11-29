@@ -1,7 +1,7 @@
 # Sonic Origins
 [Store](https://store.epicgames.com/en-US/p/sonic-origins)  
 [View Rawdata](../../db/s/sonic_origins.json)  
-Rating: 4.58 (Ranked 445)  
+Rating: 4.58 (Ranked 446)  
 Number of Ratings: 154  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -26,7 +26,7 @@ Number of Ratings: 154  (23.09.2022)
 | Shut Down Metal Sonic | 40.00% | ~250 |
 | Museum Time | 40.00% | ~250 |
 | Very First Mission Clear! | 40.00% | ~250 |
-| Beware Moto Bugs! | 38.00% | ~238 |
+| Beware Moto Bugs! | 39.00% | ~244 |
 | Cleared Sonic the Hedgehog 2 | 38.00% | ~238 |
 | Cleared Sonic CD | 37.00% | ~231 |
 | Cleared Sonic the Hedgehog 3 & Knuckles | 34.00% | ~213 |

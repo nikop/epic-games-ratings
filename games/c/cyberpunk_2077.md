@@ -1,33 +1,33 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.65 (Ranked 311)  
+Rating: 4.65 (Ranked 312)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 11.00% | ~105,908 |
-| Gun Fu | 6.00% | ~57,768 |
-| The Fool | 5.00% | ~48,140 |
-| Right Back At Ya | 4.00% | ~38,512 |
-| The Lovers | 3.00% | ~28,884 |
-| Full Body Conversion | 2.00% | ~19,256 |
-| Stanislavski's Method | 2.00% | ~19,256 |
-| The Hermit | 2.00% | ~19,256 |
-| The Wheel of Fortune | 2.00% | ~19,256 |
-| True Soldier | 2.00% | ~19,256 |
-| Relic Ruler | 2.00% | ~1,829 |
-| Christmas Tree Attack | 1.00% | ~9,628 |
-| The Quick and the Dead | 1.00% | ~9,628 |
-| Life of the Road | 1.00% | ~9,628 |
-| The High Priestess | 1.00% | ~9,628 |
-| True Warrior | 1.00% | ~9,628 |
-| Legend of The Afterlife | 1.00% | ~9,628 |
-| All the President's Men | 1.00% | ~914 |
-| Arachnophobia | 1.00% | ~914 |
-| Bushido and Chill | 0.90% | ~8,665 |
-| The World | 0.90% | ~8,665 |
-| Master Crafter | 0.80% | ~7,702 |
+| V for Vendetta | 11.00% | ~105,916 |
+| Gun Fu | 6.00% | ~57,772 |
+| The Fool | 5.00% | ~48,143 |
+| Right Back At Ya | 4.00% | ~38,515 |
+| The Lovers | 3.00% | ~28,886 |
+| Full Body Conversion | 2.00% | ~19,257 |
+| Stanislavski's Method | 2.00% | ~19,257 |
+| The Hermit | 2.00% | ~19,257 |
+| The Wheel of Fortune | 2.00% | ~19,257 |
+| True Soldier | 2.00% | ~19,257 |
+| Relic Ruler | 2.00% | ~1,830 |
+| Christmas Tree Attack | 1.00% | ~9,629 |
+| The Quick and the Dead | 1.00% | ~9,629 |
+| Life of the Road | 1.00% | ~9,629 |
+| The High Priestess | 1.00% | ~9,629 |
+| True Warrior | 1.00% | ~9,629 |
+| Legend of The Afterlife | 1.00% | ~9,629 |
+| All the President's Men | 1.00% | ~915 |
+| Arachnophobia | 1.00% | ~915 |
+| Bushido and Chill | 0.90% | ~8,666 |
+| The World | 0.90% | ~8,666 |
+| Master Crafter | 0.80% | ~7,703 |
 | To Protect and Serve | 0.70% | ~6,740 |
 | I Am The Law | 0.70% | ~6,740 |
 | Two Heads, One Bullet | 0.70% | ~6,740 |
@@ -40,10 +40,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | To Bad Decisions! | 0.40% | ~3,851 |
 | Ten out of Ten | 0.40% | ~3,851 |
 | The Sun | 0.40% | ~3,851 |
-| Autojock | 0.30% | ~2,888 |
-| Must Be Rats | 0.30% | ~2,888 |
-| Breathtaking | 0.30% | ~2,888 |
-| The Star | 0.30% | ~2,888 |
+| Autojock | 0.30% | ~2,889 |
+| Must Be Rats | 0.30% | ~2,889 |
+| Breathtaking | 0.30% | ~2,889 |
+| The Star | 0.30% | ~2,889 |
 | The APB is Not Enough | 0.30% | ~274 |
 | Judgement Day | 0.30% | ~274 |
 | King of Pentacles | 0.30% | ~274 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 962,804 (Ranked 15)  
+Progressed: 962,869 (Ranked 15)  
 Completed: 2,823 (0.29%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,17 +297,17 @@ Completed: 2,823 (0.29%) (Ranked 238)
 | 2023-11-26 | 950,531 | 2,816 |
 | 2023-11-27 | 955,649 | 2,818 |
 | 2023-11-28 | 960,226 | 2,821 |
-| 2023-11-29 | 962,804 | 2,823 |
+| 2023-11-29 | 962,869 | 2,823 |
 ## Awards
 Max (Character Customization): 111,778  (Ranked 9)  
-Sum: 373,366 (Ranked 9)  
+Sum: 373,471 (Ranked 9)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 111,778 |
 | This game has Great Boss Battles | 80,199 |
 | This game is Great for Beginners | 22,542 |
-| This game has Diverse Characters | 22,042 |
+| This game has Diverse Characters | 22,147 |
 | This game is Highly Recommended | 21,150 |
 | This game has Amazing Storytelling | 20,997 |
 | This game is Extremely Fun | 20,793 |
@@ -632,4 +632,4 @@ Diff (max vs sum): 0
 | 2023-11-26 | 4.65 | - | 109,140 | 366,585 |
 | 2023-11-27 | 4.65 | - | 110,030 | 368,854 |
 | 2023-11-28 | 4.65 | - | 110,923 | 371,115 |
-| 2023-11-29 | 4.65 | - | 111,778 | 373,366 |
+| 2023-11-29 | 4.65 | - | 111,778 | 373,471 |

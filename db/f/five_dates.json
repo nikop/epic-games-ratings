@@ -3,9 +3,9 @@
   "Name": "Five Dates",
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 288,
-  "Ranking_EOS_Completed": 135,
+  "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -31,10 +31,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 689,
-  "EOS_Completed": 12,
-  "EOS_NewPlayers": 32,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.74,
+  "EOS_Completed": 11,
+  "EOS_NewPlayers": 31,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 1.6,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.144074+00:00",
@@ -1765,6 +1765,11 @@
       "Time": "2023-11-29T20:08:46.2921551+00:00",
       "NumProgressed": 689,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-29T21:09:24.4898646+00:00",
+      "NumProgressed": 689,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 15,
@@ -1806,9 +1811,9 @@
       "ID": "hold_my_beer",
       "SetID": "c4ipj3h",
       "Name": "Hold my Beer",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 448
+      "UsersEstimate": 455
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -1896,15 +1901,15 @@
       "ID": "c4ipj3h",
       "IsBase": true,
       "Progressed": 689,
-      "Completed": 12
+      "Completed": 11
     }
   ],
   "FirstSeen": "2022-10-18T05:01:58.3974344+00:00",
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-11-29T20:08:46.2921548+00:00",
+  "LastChanged_Achievements": "2023-11-29T21:09:24.4898644+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:08.7163399+00:00",
-  "LastUpdate_Ratings": "2023-11-29T19:57:22.9933747+00:00",
-  "LastUpdate_Achievements": "2023-11-29T20:08:46.292173+00:00"
+  "LastUpdate_Ratings": "2023-11-29T20:57:52.4591609+00:00",
+  "LastUpdate_Achievements": "2023-11-29T21:09:24.4898845+00:00"
 }

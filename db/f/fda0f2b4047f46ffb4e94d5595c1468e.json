@@ -2,13 +2,13 @@
   "ID": "fda0f2b4047f46ffb4e94d5595c1468e",
   "Name": "Mortal Kombat 1",
   "ProductSlug": "mortal-kombat-1",
-  "Ranking_Rating": 609,
+  "Ranking_Rating": 610,
   "Ranking_Popularity": 126,
-  "Ranking_PopularitySum": 137,
+  "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -3115,10 +3115,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 5241,
       "NumberOfAwardsMax": 1617
+    },
+    {
+      "Time": "2023-11-29T21:03:08.7096515+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 5245,
+      "NumberOfAwardsMax": 1617
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5241,
+  "NumberOfAwards": 5245,
   "NumberOfAwardsMax": 1617,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3156,7 +3162,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 372
+      "Count": 376
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3195,9 +3201,9 @@
       "Count": 402
     }
   ],
-  "EOS_Progressed": 9382,
+  "EOS_Progressed": 9383,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 595,
+  "EOS_NewPlayers": 590,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9935,6 +9941,11 @@
       "Time": "2023-11-29T20:05:46.7297064+00:00",
       "NumProgressed": 9382,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T21:06:16.5752311+00:00",
+      "NumProgressed": 9383,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -9987,7 +9998,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 7036
+      "UsersEstimate": 7037
     },
     {
       "ID": "ach07",
@@ -10043,7 +10054,7 @@
       "Name": "Making Friends Is Easy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1876
+      "UsersEstimate": 1877
     },
     {
       "ID": "ach14",
@@ -10083,7 +10094,7 @@
       "Name": "Adventure Time",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3471
+      "UsersEstimate": 3472
     },
     {
       "ID": "ach19",
@@ -10155,7 +10166,7 @@
       "Name": "So Krafty",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 3002
+      "UsersEstimate": 3003
     },
     {
       "ID": "ach28",
@@ -10187,7 +10198,7 @@
       "Name": "Not So Big Now, Are You??",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 3002
+      "UsersEstimate": 3003
     },
     {
       "ID": "ach32",
@@ -10211,7 +10222,7 @@
       "Name": "Always Accessorize",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 3002
+      "UsersEstimate": 3003
     },
     {
       "ID": "ach35",
@@ -10243,7 +10254,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4128
+      "UsersEstimate": 4129
     },
     {
       "ID": "ach39",
@@ -10275,7 +10286,7 @@
       "Name": "Quest Master",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 4034
+      "UsersEstimate": 4035
     },
     {
       "ID": "ach43",
@@ -10283,7 +10294,7 @@
       "Name": "Working Overtime",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 4128
+      "UsersEstimate": 4129
     },
     {
       "ID": "ach44",
@@ -10346,16 +10357,16 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 9382,
+      "Progressed": 9383,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-11-29T20:02:40.3164815+00:00",
-  "LastChanged_Achievements": "2023-11-29T20:05:46.7297061+00:00",
+  "LastChanged": "2023-11-29T21:03:08.7096513+00:00",
+  "LastChanged_Achievements": "2023-11-29T21:06:16.5752308+00:00",
   "LastUpdate_AppInfo": "2023-11-25T10:57:15.5645679+00:00",
-  "LastUpdate_Ratings": "2023-11-29T20:02:40.316482+00:00",
-  "LastUpdate_Achievements": "2023-11-29T20:05:46.729796+00:00"
+  "LastUpdate_Ratings": "2023-11-29T21:03:08.7096517+00:00",
+  "LastUpdate_Achievements": "2023-11-29T21:06:16.5753347+00:00"
 }

@@ -1,27 +1,27 @@
 # MORDHAU
 [Store](https://store.epicgames.com/en-US/p/mordhau)  
 [View Rawdata](../../db/m/mordhau.json)  
-Rating: 4.38 (Ranked 764)  
+Rating: 4.38 (Ranked 765)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~766,458 |
-| The ABCs | 43.00% | ~672,606 |
-| Home Run | 41.00% | ~641,322 |
-| Keeps Coming Off | 41.00% | ~641,322 |
-| Guts | 20.00% | ~312,840 |
-| Meat Grinder | 19.00% | ~297,198 |
-| Burning Man | 16.00% | ~250,272 |
-| Lived to Tell the Tale | 12.00% | ~187,704 |
-| Highlander | 10.00% | ~156,420 |
-| Unstoppable | 10.00% | ~156,420 |
-| Just a Scratch | 9.00% | ~140,778 |
-| Tough Nut to Crack | 6.00% | ~93,852 |
-| Yoink | 6.00% | ~93,852 |
-| Long List of Names | 4.00% | ~62,568 |
-| Pyromaniac | 4.00% | ~62,568 |
-| The Queen of Weapons | 4.00% | ~62,568 |
-| This isn’t Sparta | 3.00% | ~46,926 |
+| Justice from the Grave | 49.00% | ~766,469 |
+| The ABCs | 43.00% | ~672,615 |
+| Home Run | 41.00% | ~641,331 |
+| Keeps Coming Off | 41.00% | ~641,331 |
+| Guts | 20.00% | ~312,844 |
+| Meat Grinder | 19.00% | ~297,202 |
+| Burning Man | 16.00% | ~250,276 |
+| Lived to Tell the Tale | 12.00% | ~187,707 |
+| Highlander | 10.00% | ~156,422 |
+| Unstoppable | 10.00% | ~156,422 |
+| Just a Scratch | 9.00% | ~140,780 |
+| Tough Nut to Crack | 6.00% | ~93,853 |
+| Yoink | 6.00% | ~93,853 |
+| Long List of Names | 4.00% | ~62,569 |
+| Pyromaniac | 4.00% | ~62,569 |
+| The Queen of Weapons | 4.00% | ~62,569 |
+| This isn’t Sparta | 3.00% | ~46,927 |
 | Crybaby | 2.00% | ~31,284 |
 | Eagle Eye | 2.00% | ~31,284 |
 | I Know Kung Fu | 2.00% | ~31,284 |
@@ -33,9 +33,9 @@ Rating: 4.38 (Ranked 764)
 | Boxer | 0.90% | ~14,078 |
 | Training Accident | 0.90% | ~14,078 |
 | Flyswatter | 0.80% | ~12,514 |
-| Friend Indeed | 0.70% | ~10,949 |
-| Rock’n’Roll | 0.70% | ~10,949 |
-| Virtuoso | 0.70% | ~10,949 |
+| Friend Indeed | 0.70% | ~10,950 |
+| Rock’n’Roll | 0.70% | ~10,950 |
+| Virtuoso | 0.70% | ~10,950 |
 | Vlad the Impaler | 0.40% | ~6,257 |
 | Whack-A-Mole | 0.40% | ~6,257 |
 | Clobbered | 0.20% | ~3,128 |
@@ -44,7 +44,7 @@ Rating: 4.38 (Ranked 764)
 | That’s No Ordinary Cold | 0.10% | ~1,564 |
 | Stairway to Hell | 0.10% | ~1,564 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,564,200 (Ranked 7)  
+Progressed: 1,564,222 (Ranked 7)  
 Completed: 69 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,10 +267,10 @@ Completed: 69 (0.00%) (Ranked 363)
 | 2023-11-26 | 1,563,103 | 68 |
 | 2023-11-27 | 1,563,482 | 68 |
 | 2023-11-28 | 1,563,877 | 69 |
-| 2023-11-29 | 1,564,200 | 69 |
+| 2023-11-29 | 1,564,222 | 69 |
 ## Awards
 Max (Diverse Characters): 994  (Ranked 153)  
-Sum: 5,153 (Ranked 139)  
+Sum: 5,157 (Ranked 139)  
 Diff (max vs sum): 14  
 | Award | Count |
 | ----- | ----- |
@@ -279,7 +279,7 @@ Diff (max vs sum): 14
 | This game is Highly Recommended | 806 |
 | This game has Amazing Characters | 671 |
 | This game is Extremely Fun | 659 |
-| This game has Competitive Players | 621 |
+| This game has Competitive Players | 625 |
 | This game has Amazing Storytelling | 561 |
 | This game has Quickly Understood Controls | 132 |
 | This game is Great for Quick Sessions | 28 |
@@ -514,4 +514,4 @@ Diff (max vs sum): 14
 | 2023-11-26 | 4.38 | 979 | 5,100 |
 | 2023-11-27 | 4.38 | 984 | 5,120 |
 | 2023-11-28 | 4.38 | 989 | 5,135 |
-| 2023-11-29 | 4.38 | 994 | 5,153 |
+| 2023-11-29 | 4.38 | 994 | 5,157 |

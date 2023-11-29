@@ -1,7 +1,7 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.62 (Ranked 366)  
+Rating: 4.62 (Ranked 367)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -21,8 +21,8 @@ Rating: 4.62 (Ranked 366)
 | Honest Mistake | 21.00% | ~198 |
 | Fast Learner | 21.00% | ~198 |
 | Immaculate Aim | 21.00% | ~198 |
-| Like Clockwork | 20.00% | ~188 |
-| The Betrayer | 20.00% | ~188 |
+| Like Clockwork | 20.00% | ~189 |
+| The Betrayer | 20.00% | ~189 |
 | Right On Time | 19.00% | ~179 |
 | Golem Chaser | 19.00% | ~179 |
 | Check Your Pulse | 19.00% | ~179 |
@@ -33,14 +33,14 @@ Rating: 4.62 (Ranked 366)
 | Whiz Kid | 15.00% | ~141 |
 | Cartographer | 15.00% | ~141 |
 | Treasure Trove | 14.00% | ~132 |
-| Good Neighbor | 13.00% | ~122 |
+| Good Neighbor | 13.00% | ~123 |
 | Chaincrawler Explorer | 12.00% | ~113 |
 | Family Memories | 12.00% | ~113 |
 | Ask Questions Later | 12.00% | ~113 |
-| Sump Explorer | 11.00% | ~104 |
 | Syron for Hope | 11.00% | ~104 |
 | Factorywood Explorer | 10.00% | ~94 |
 | Fairgrounds Explorer | 10.00% | ~94 |
+| Sump Explorer | 10.00% | ~94 |
 | Theater Explorer | 10.00% | ~94 |
 | Cultivair Explorer | 9.00% | ~85 |
 | Entresol Explorer | 9.00% | ~85 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 366)
 | Going to Live Forever | 0.60% | ~6 |
 | Raw Talent | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 942 (Ranked 270)  
+Progressed: 943 (Ranked 270)  
 Completed: 6 (0.64%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 6 (0.64%) (Ranked 187)
 | 2023-11-25 | 936 | 6 |
 | 2023-11-26 | 938 | 6 |
 | 2023-11-27 | 941 | 6 |
-| 2023-11-29 | 942 | 6 |
+| 2023-11-29 | 943 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

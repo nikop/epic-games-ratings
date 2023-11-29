@@ -2,12 +2,12 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 78,
+  "Ranking_Rating": 80,
   "Ranking_Popularity": 222,
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 3619,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3323,9 +3323,9 @@
       "Count": 326
     }
   ],
-  "EOS_Progressed": 17528,
+  "EOS_Progressed": 17529,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -14433,6 +14433,11 @@
       "Time": "2023-11-29T20:08:14.8145738+00:00",
       "NumProgressed": 17528,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-29T21:08:53.3965104+00:00",
+      "NumProgressed": 17529,
+      "NumCompleted": 51
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -14851,9 +14856,9 @@
       "ID": "WinNearFrosts",
       "SetID": "cfbk359",
       "Name": "Frosts",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 175
     },
     {
       "ID": "WinNearGreed",
@@ -14883,9 +14888,9 @@
       "ID": "WinNearPresence",
       "SetID": "cfbk359",
       "Name": "Ominous Presence",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 175
     },
     {
       "ID": "WinNearStorms",
@@ -14916,15 +14921,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17528,
+      "Progressed": 17529,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-29T19:58:59.3865694+00:00",
-  "LastChanged_Achievements": "2023-11-29T20:08:14.8145733+00:00",
+  "LastChanged_Achievements": "2023-11-29T21:08:53.3965101+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:56.4973761+00:00",
-  "LastUpdate_Ratings": "2023-11-29T19:58:59.3865698+00:00",
-  "LastUpdate_Achievements": "2023-11-29T20:08:14.8146727+00:00"
+  "LastUpdate_Ratings": "2023-11-29T20:59:29.5092651+00:00",
+  "LastUpdate_Achievements": "2023-11-29T21:08:53.3965967+00:00"
 }
