@@ -21,8 +21,8 @@ Number of Ratings: 1,047  (23.09.2022)
 | Upgrades not mandatory | 29.00% | ~6,777 |
 | Artificial selection | 28.00% | ~6,543 |
 | Control freak | 27.00% | ~6,309 |
+| Running Wild | 27.00% | ~6,309 |
 | Finish line | 26.00% | ~6,076 |
-| Running Wild | 26.00% | ~6,076 |
 | Unstoppable force | 22.00% | ~5,141 |
 | Wave of mutilation | 22.00% | ~5,141 |
 | Can't Run Can't Hide | 16.00% | ~3,739 |

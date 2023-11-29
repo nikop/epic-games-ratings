@@ -34,10 +34,10 @@ Rating: 4.61 (Ranked 385)
 | Sehiran Oasis | 1.00% | ~55 |
 | Seal the Deal | 1.00% | ~55 |
 | Spoils of War | 1.00% | ~55 |
+| Preparation Is Everything | 0.90% | ~50 |
 | Dawn of the Dread | 0.90% | ~50 |
 | Arch Mage | 0.80% | ~44 |
 | Crimson Caldera | 0.80% | ~44 |
-| Preparation Is Everything | 0.80% | ~44 |
 | Blood of the Dragon | 0.80% | ~44 |
 | Prometheus Avenged | 0.80% | ~44 |
 | A Conqueror's Cohort | 0.80% | ~44 |

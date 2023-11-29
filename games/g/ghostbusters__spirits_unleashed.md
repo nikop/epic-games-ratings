@@ -49,9 +49,9 @@ Rating: 4.51 (Ranked 571)
 | Therapeutic | 0.70% | ~222 |
 | Master Collector | 0.50% | ~159 |
 | Rift Seeker | 0.50% | ~159 |
+| Ghost Expert | 0.30% | ~95 |
 | Catostrophic Destroyer | 0.20% | ~63 |
 | I don't need these | 0.20% | ~63 |
-| Ghost Expert | 0.20% | ~63 |
 | Little Help Here | 0.20% | ~63 |
 | Mycophile | 0.20% | ~63 |
 | Line em' up | 0.10% | ~32 |

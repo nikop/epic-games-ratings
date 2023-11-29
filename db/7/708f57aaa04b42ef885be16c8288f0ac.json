@@ -141,9 +141,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7035,
+  "EOS_Progressed": 7036,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1289,
+  "EOS_NewPlayers": 1282,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4851,6 +4851,11 @@
       "Time": "2023-11-29T02:31:14.7768175+00:00",
       "NumProgressed": 7035,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-29T03:09:08.552723+00:00",
+      "NumProgressed": 7036,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -4871,7 +4876,7 @@
       "Name": "Baby Steps",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1477
+      "UsersEstimate": 1478
     },
     {
       "ID": "BeLikeWater",
@@ -4943,7 +4948,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "GarbageMan",
@@ -5103,7 +5108,7 @@
       "Name": "Digestive Issues",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -5134,7 +5139,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7035,
+      "Progressed": 7036,
       "Completed": 8
     }
   ],
@@ -5142,8 +5147,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-28T07:58:21.1482847+00:00",
-  "LastChanged_Achievements": "2023-11-29T02:31:14.7768172+00:00",
+  "LastChanged_Achievements": "2023-11-29T03:09:08.5527225+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6423909+00:00",
-  "LastUpdate_Ratings": "2023-11-29T02:21:09.8847073+00:00",
-  "LastUpdate_Achievements": "2023-11-29T02:31:14.7768607+00:00"
+  "LastUpdate_Ratings": "2023-11-29T02:58:52.7801553+00:00",
+  "LastUpdate_Achievements": "2023-11-29T03:09:08.5527646+00:00"
 }

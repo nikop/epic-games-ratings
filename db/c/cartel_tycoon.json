@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 698,
+  "EOS_Progressed": 699,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -2329,6 +2329,11 @@
       "Time": "2023-11-28T19:07:19.7898823+00:00",
       "NumProgressed": 698,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-29T03:05:39.8396691+00:00",
+      "NumProgressed": 699,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -2340,7 +2345,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "cool-shirts",
@@ -2356,15 +2361,15 @@
       "Name": "Architect of Fortunes",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "dont-miss-calls",
       "SetID": "bed33dd",
       "Name": "Didn\u0027t Miss A Single One",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 321
+      "UsersEstimate": 315
     },
     {
       "ID": "female-conqueror",
@@ -2380,7 +2385,7 @@
       "Name": "That was base",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "hire-lieutenant",
@@ -2388,7 +2393,7 @@
       "Name": "Our Man",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "kill-lieutenants",
@@ -2412,7 +2417,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "product-profit",
@@ -2428,7 +2433,7 @@
       "Name": "Bad Trip",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "rename-lieutenant",
@@ -2452,7 +2457,7 @@
       "Name": "Spread",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "send-smuggling",
@@ -2476,7 +2481,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "use-submarine",
@@ -2491,15 +2496,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 698,
+      "Progressed": 699,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-09-23T20:57:48.080138+00:00",
-  "LastChanged_Achievements": "2023-11-29T02:28:05.9465859+00:00",
+  "LastChanged_Achievements": "2023-11-29T03:05:39.8396686+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:08.8665232+00:00",
-  "LastUpdate_Ratings": "2023-11-29T02:21:24.9677479+00:00",
-  "LastUpdate_Achievements": "2023-11-29T02:28:05.9466173+00:00"
+  "LastUpdate_Ratings": "2023-11-29T02:59:07.9105118+00:00",
+  "LastUpdate_Achievements": "2023-11-29T03:05:39.8396899+00:00"
 }

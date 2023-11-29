@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -771,7 +771,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3932,
+  "EOS_Progressed": 3933,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 0,
@@ -6191,6 +6191,11 @@
       "Time": "2023-11-29T01:58:56.3853821+00:00",
       "NumProgressed": 3932,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-29T03:05:21.6132256+00:00",
+      "NumProgressed": 3933,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -6211,7 +6216,7 @@
       "Name": "Stud Finder",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "achievement_11",
@@ -6331,7 +6336,7 @@
       "Name": "Change of Scenery",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "achievement_6",
@@ -6339,7 +6344,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "achievement_7",
@@ -6355,7 +6360,7 @@
       "Name": "Bragging Rights",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "achievement_9",
@@ -6370,7 +6375,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3932,
+      "Progressed": 3933,
       "Completed": 0
     }
   ],
@@ -6378,8 +6383,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-28T19:00:52.7181889+00:00",
-  "LastChanged_Achievements": "2023-11-29T02:27:47.7908845+00:00",
+  "LastChanged_Achievements": "2023-11-29T03:05:21.6132252+00:00",
   "LastUpdate_AppInfo": "2023-11-23T06:57:01.9632293+00:00",
-  "LastUpdate_Ratings": "2023-11-29T02:21:56.7652441+00:00",
-  "LastUpdate_Achievements": "2023-11-29T02:27:47.79092+00:00"
+  "LastUpdate_Ratings": "2023-11-29T02:59:40.6225237+00:00",
+  "LastUpdate_Achievements": "2023-11-29T03:05:21.6132666+00:00"
 }

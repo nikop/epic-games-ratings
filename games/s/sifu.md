@@ -7,9 +7,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 1.00% | ~269 |
+| The Old Grandmaster | 0.70% | ~5,023 |
 | Life is your teacher | 0.70% | ~5,023 |
 | Project Arena | 0.70% | ~188 |
-| The Old Grandmaster | 0.60% | ~4,305 |
 | The Assault | 0.60% | ~4,305 |
 | The Hateful Pole Fighter | 0.60% | ~4,305 |
 | A Lady's Blood in the Snow | 0.60% | ~4,305 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,580 (Ranked 22)  
+Progressed: 717,581 (Ranked 22)  
 Completed: 12,941 (1.80%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 12,941 (1.80%) (Ranked 132)
 | 2023-11-26 | 717,455 | 12,940 |
 | 2023-11-27 | 717,516 | 12,940 |
 | 2023-11-28 | 717,575 | 12,941 |
-| 2023-11-29 | 717,580 | 12,941 |
+| 2023-11-29 | 717,581 | 12,941 |
 ## Awards
 Max (Great Boss Battles): 6,852  (Ranked 55)  
 Sum: 11,998 (Ranked 83)  

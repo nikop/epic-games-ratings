@@ -1409,7 +1409,7 @@
   ],
   "EOS_Progressed": 23368,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 445,
+  "EOS_NewPlayers": 442,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -25758,9 +25758,9 @@
       "ID": "RunningWild",
       "SetID": "6ce5bmd",
       "Name": "Running Wild",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 6076
+      "UsersEstimate": 6309
     },
     {
       "ID": "Scrapped",
@@ -25900,8 +25900,8 @@
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-11-27T13:59:27.5493328+00:00",
-  "LastChanged_Achievements": "2023-11-29T02:27:56.5684645+00:00",
+  "LastChanged_Achievements": "2023-11-29T03:05:30.5939602+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:34.7247145+00:00",
-  "LastUpdate_Ratings": "2023-11-29T02:22:08.3781157+00:00",
-  "LastUpdate_Achievements": "2023-11-29T02:27:56.5686077+00:00"
+  "LastUpdate_Ratings": "2023-11-29T02:59:51.5540573+00:00",
+  "LastUpdate_Achievements": "2023-11-29T03:05:30.5941124+00:00"
 }

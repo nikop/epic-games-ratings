@@ -42,6 +42,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Save Our Souls | 0.30% | ~721 |
 | Destroy Your Fears | 0.30% | ~721 |
 | The Bestiary | 0.30% | ~721 |
+| Stop Hitting Yourself | 0.30% | ~721 |
 | Shootout | 0.30% | ~721 |
 | Stone Touch | 0.30% | ~721 |
 | Doing Time | 0.30% | ~721 |
@@ -60,7 +61,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Berzerker | 0.20% | ~481 |
 | Don't Ignore Me! | 0.20% | ~481 |
 | All Consuming | 0.20% | ~481 |
-| Stop Hitting Yourself | 0.20% | ~481 |
 | Illuminate, Eliminate | 0.20% | ~481 |
 | Chain Reaction | 0.20% | ~481 |
 | Spreading Plague | 0.20% | ~481 |

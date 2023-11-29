@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -4916,9 +4916,9 @@
       "ID": "achievement_76",
       "SetID": "d252ncf",
       "Name": "Broke, Blind, and Bedlam",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 492
     },
     {
       "ID": "achievement_77",
@@ -5136,8 +5136,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-29T02:30:45.2461929+00:00",
+  "LastChanged_Achievements": "2023-11-29T03:08:39.456703+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:10.3433357+00:00",
-  "LastUpdate_Ratings": "2023-11-29T02:25:16.6622085+00:00",
-  "LastUpdate_Achievements": "2023-11-29T02:30:45.2463632+00:00"
+  "LastUpdate_Ratings": "2023-11-29T03:02:49.6483392+00:00",
+  "LastUpdate_Achievements": "2023-11-29T03:08:39.4568673+00:00"
 }

@@ -9,7 +9,7 @@
 | For the Horde! | 81.00% | ~397 |
 | Hammer Time, Round Two | 79.00% | ~387 |
 | The Hellwoods | 74.00% | ~363 |
-| The Plains of Strothalm | 68.00% | ~333 |
+| The Plains of Strothalm | 69.00% | ~338 |
 | Experienced Thalya | 68.00% | ~333 |
 | Thalya's Concentrated Fury | 67.00% | ~328 |
 | Bad Elves Go Everywhere | 65.00% | ~318 |
@@ -28,8 +28,8 @@
 | “… like son” | 39.00% | ~191 |
 | Mana Cannon | 37.00% | ~181 |
 | Dungeonlord Gorgu | 36.00% | ~176 |
+| The Cathedral of Light | 34.00% | ~167 |
 | Shame! Shame! Shame! | 34.00% | ~167 |
-| The Cathedral of Light | 33.00% | ~162 |
 | Tanos' Crusade Against Thalya | 31.00% | ~152 |
 | All’s Well That Ends Evil | 26.00% | ~127 |
 | Unstoppable Horde | 25.00% | ~122 |

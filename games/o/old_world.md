@@ -160,6 +160,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Three Man Chariot | 0.50% | ~78 |
 | Siege Tower | 0.50% | ~78 |
 | Conquest Victory | 0.50% | ~78 |
+| Deposed Tribe | 0.50% | ~78 |
 | Rmt n Kmt Buhen | 0.50% | ~78 |
 | Greater Kmt Unified | 0.50% | ~78 |
 | Bronze Victory (Carthage 1) | 0.40% | ~62 |
@@ -170,7 +171,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Nenikekamen | 0.40% | ~62 |
 | Assyria | 0.40% | ~62 |
 | Necropolis in Waset | 0.40% | ~62 |
-| Deposed Tribe | 0.40% | ~62 |
 | Prosperous Kmt | 0.40% | ~62 |
 | Gold Victory (Carthage 1) | 0.30% | ~47 |
 | Carthage - Riches and Influence | 0.30% | ~47 |

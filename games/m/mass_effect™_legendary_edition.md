@@ -41,7 +41,7 @@
 | The Convict | 35.00% | ~506 |
 | Colony Defense | 34.00% | ~492 |
 | The Krogan | 34.00% | ~492 |
-| Broke, Blind, and Bedlam | 33.00% | ~478 |
+| Broke, Blind, and Bedlam | 34.00% | ~492 |
 | A Personal Touch | 32.00% | ~463 |
 | Ghost Ship | 32.00% | ~463 |
 | The Assassin | 32.00% | ~463 |

@@ -551,9 +551,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 41624,
+  "EOS_Progressed": 41626,
   "EOS_Completed": 175,
-  "EOS_NewPlayers": 1134,
+  "EOS_NewPlayers": 1133,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -8731,6 +8731,11 @@
       "Time": "2023-11-29T02:30:35.5185031+00:00",
       "NumProgressed": 41624,
       "NumCompleted": 175
+    },
+    {
+      "Time": "2023-11-29T03:08:29.6744892+00:00",
+      "NumProgressed": 41626,
+      "NumCompleted": 175
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -8743,7 +8748,7 @@
       "Name": "Descendants",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 5827
+      "UsersEstimate": 5828
     },
     {
       "ID": "ACH_BLUEEND",
@@ -8783,7 +8788,7 @@
       "Name": "Home Stretch",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "ACH_DLC1GOLD",
@@ -8807,7 +8812,7 @@
       "Name": "Get me out of here",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "ACH_DLC2ALLCOLLECTABLES",
@@ -8871,7 +8876,7 @@
       "Name": "Laser Sharp",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "ACH_EXSITE",
@@ -8887,7 +8892,7 @@
       "Name": "Mission Success",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 9157
+      "UsersEstimate": 9158
     },
     {
       "ID": "ACH_HUB2",
@@ -8903,7 +8908,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 21644
+      "UsersEstimate": 21646
     },
     {
       "ID": "ACH_PEAK",
@@ -8911,7 +8916,7 @@
       "Name": "There\u0027s No Place Like Home",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 9157
+      "UsersEstimate": 9158
     },
     {
       "ID": "ACH_PROPELL",
@@ -8919,7 +8924,7 @@
       "Name": "To Infinity and Beyond",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2497
+      "UsersEstimate": 2498
     },
     {
       "ID": "ACH_REDEND",
@@ -8935,7 +8940,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 28304
+      "UsersEstimate": 28306
     },
     {
       "ID": "ACH_S4",
@@ -8943,7 +8948,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 20812
+      "UsersEstimate": 20813
     },
     {
       "ID": "ACH_S5",
@@ -8959,7 +8964,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 31218
+      "UsersEstimate": 31220
     },
     {
       "ID": "ACH_STATUE",
@@ -8967,22 +8972,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 17898
+      "UsersEstimate": 17899
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 41624,
+      "Progressed": 41626,
       "Completed": 175
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-11-25T10:58:21.218684+00:00",
-  "LastChanged_Achievements": "2023-11-29T02:30:35.5185027+00:00",
+  "LastChanged_Achievements": "2023-11-29T03:08:29.6744887+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:06.5276065+00:00",
-  "LastUpdate_Ratings": "2023-11-29T02:21:52.6874228+00:00",
-  "LastUpdate_Achievements": "2023-11-29T02:30:35.5186067+00:00"
+  "LastUpdate_Ratings": "2023-11-29T02:59:36.5391287+00:00",
+  "LastUpdate_Achievements": "2023-11-29T03:08:29.6745435+00:00"
 }

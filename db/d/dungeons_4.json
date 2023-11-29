@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 490,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.63,
   "EosHistory": [
@@ -1271,9 +1271,9 @@
       "ID": "ach_main04undead_completed",
       "SetID": "4hg22ll",
       "Name": "The Plains of Strothalm",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 338
     },
     {
       "ID": "ach_main04undead_minions",
@@ -1423,9 +1423,9 @@
       "ID": "ach_main10fire_completed",
       "SetID": "4hg22ll",
       "Name": "The Cathedral of Light",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 167
     },
     {
       "ID": "ach_main10fire_freehorde",
@@ -1694,8 +1694,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-29T02:28:48.2998191+00:00",
+  "LastChanged_Achievements": "2023-11-29T03:06:22.6637685+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:53.3530612+00:00",
-  "LastUpdate_Ratings": "2023-11-29T02:22:21.5798295+00:00",
-  "LastUpdate_Achievements": "2023-11-29T02:28:48.299865+00:00"
+  "LastUpdate_Ratings": "2023-11-29T03:00:04.8097782+00:00",
+  "LastUpdate_Achievements": "2023-11-29T03:06:22.6638273+00:00"
 }

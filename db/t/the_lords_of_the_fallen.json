@@ -2,9 +2,9 @@
   "ID": "f2d5f78997994c9891b8f23d962be28e",
   "Name": "Lords of the Fallen",
   "ProductSlug": "lords-of-the-fallen",
-  "Ranking_Rating": 914,
+  "Ranking_Rating": 926,
   "Ranking_Popularity": 303,
-  "Ranking_PopularitySum": 352,
+  "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 121,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.2,
+  "Rating": 4.19,
   "RatingHistory": [
     {
       "Time": "2023-10-15T11:58:59.8898367+00:00",
@@ -625,10 +625,16 @@
       "Rating": 4.2,
       "NumberOfAwards": 364,
       "NumberOfAwardsMax": 175
+    },
+    {
+      "Time": "2023-11-29T02:58:28.8007807+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 385,
+      "NumberOfAwardsMax": 175
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 364,
+  "NumberOfAwards": 385,
   "NumberOfAwardsMax": 175,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -661,11 +667,17 @@
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
       "Count": 20
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 21
     }
   ],
   "EOS_Progressed": 2140,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 428,
+  "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4090,9 +4102,9 @@
   "FirstSeen": "2023-10-13T16:58:40.9012964+00:00",
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
-  "LastChanged": "2023-11-28T23:58:18.0952491+00:00",
-  "LastChanged_Achievements": "2023-11-29T02:26:13.4234337+00:00",
+  "LastChanged": "2023-11-29T02:58:28.8007806+00:00",
+  "LastChanged_Achievements": "2023-11-29T03:03:47.5302493+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:54.9278986+00:00",
-  "LastUpdate_Ratings": "2023-11-29T02:20:46.7124907+00:00",
-  "LastUpdate_Achievements": "2023-11-29T02:26:13.4234906+00:00"
+  "LastUpdate_Ratings": "2023-11-29T02:58:28.800781+00:00",
+  "LastUpdate_Achievements": "2023-11-29T03:03:47.5303066+00:00"
 }

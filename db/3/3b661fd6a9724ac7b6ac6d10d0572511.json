@@ -7469,10 +7469,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 21853,
       "NumberOfAwardsMax": 9696
+    },
+    {
+      "Time": "2023-11-29T03:00:10.9410606+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 21858,
+      "NumberOfAwardsMax": 9696
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21853,
+  "NumberOfAwards": 21858,
   "NumberOfAwardsMax": 9696,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7516,7 +7522,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1304
+      "Count": 1309
     },
     {
       "Text": "This game has Unique Visuals",
@@ -7543,9 +7549,9 @@
       "Count": 1365
     }
   ],
-  "EOS_Progressed": 1787963,
+  "EOS_Progressed": 1787973,
   "EOS_Completed": 714,
-  "EOS_NewPlayers": 6858,
+  "EOS_NewPlayers": 6856,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -27943,6 +27949,11 @@
       "Time": "2023-11-29T02:31:38.1494586+00:00",
       "NumProgressed": 1787963,
       "NumCompleted": 714
+    },
+    {
+      "Time": "2023-11-29T03:09:31.584635+00:00",
+      "NumProgressed": 1787973,
+      "NumCompleted": 714
     }
   ],
   "TotalAchievements": 1328,
@@ -28010,7 +28021,7 @@
       "Name": "The Collector",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 89398
+      "UsersEstimate": 89399
     },
     {
       "ID": "armed_and_dangerous",
@@ -28026,7 +28037,7 @@
       "Name": "Would You Like Your Receipt?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 89398
+      "UsersEstimate": 89399
     },
     {
       "ID": "armored_1",
@@ -29154,7 +29165,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 196676
+      "UsersEstimate": 196677
     },
     {
       "ID": "brooklyn_2",
@@ -32570,7 +32581,7 @@
       "Name": "Guilty of Crime",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 125157
+      "UsersEstimate": 125158
     },
     {
       "ID": "halloween_1",
@@ -33666,7 +33677,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 160917
+      "UsersEstimate": 160918
     },
     {
       "ID": "no_turning_back",
@@ -33674,7 +33685,7 @@
       "Name": "No Turning Back",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 143037
+      "UsersEstimate": 143038
     },
     {
       "ID": "orange_1",
@@ -38458,7 +38469,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 89398
+      "UsersEstimate": 89399
     },
     {
       "ID": "wwh_1",
@@ -38562,7 +38573,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 160917
+      "UsersEstimate": 160918
     },
     {
       "ID": "you_shall_not_pass",
@@ -38577,22 +38588,22 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1787963,
+      "Progressed": 1787973,
       "Completed": 714
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1787963,
+      "Progressed": 1787973,
       "Completed": 115
     }
   ],
   "FirstSeen": "2023-06-08T18:57:07.8003815+00:00",
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
-  "LastChanged": "2023-11-28T22:59:59.7761457+00:00",
-  "LastChanged_Achievements": "2023-11-29T02:31:38.1494582+00:00",
+  "LastChanged": "2023-11-29T03:00:10.9410605+00:00",
+  "LastChanged_Achievements": "2023-11-29T03:09:31.5846346+00:00",
   "LastUpdate_AppInfo": "2023-11-24T04:57:18.1805829+00:00",
-  "LastUpdate_Ratings": "2023-11-29T02:22:26.2666295+00:00",
-  "LastUpdate_Achievements": "2023-11-29T02:31:38.1619932+00:00"
+  "LastUpdate_Ratings": "2023-11-29T03:00:10.941061+00:00",
+  "LastUpdate_Achievements": "2023-11-29T03:09:31.5967144+00:00"
 }

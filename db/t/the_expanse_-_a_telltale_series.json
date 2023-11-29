@@ -241,9 +241,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15737,
+  "EOS_Progressed": 15738,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 527,
+  "EOS_NewPlayers": 528,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -12616,6 +12616,11 @@
       "Time": "2023-11-29T02:28:50.6500949+00:00",
       "NumProgressed": 15737,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-11-29T03:06:25.0220386+00:00",
+      "NumProgressed": 15738,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12652,7 +12657,7 @@
       "Name": "Data Archivist",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "13",
@@ -12684,7 +12689,7 @@
       "Name": "Drug Gifter",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "17",
@@ -12748,7 +12753,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "24",
@@ -12884,7 +12889,7 @@
       "Name": "Zen Master",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "34",
@@ -12907,13 +12912,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15737,
+      "Progressed": 15738,
       "Completed": 39
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1691,
+      "Progressed": 1692,
       "Completed": 750
     }
   ],
@@ -12921,8 +12926,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-28T18:00:52.6774218+00:00",
-  "LastChanged_Achievements": "2023-11-29T02:28:50.6500943+00:00",
+  "LastChanged_Achievements": "2023-11-29T03:06:25.0220381+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-11-29T02:22:13.392708+00:00",
-  "LastUpdate_Achievements": "2023-11-29T02:28:50.6501757+00:00"
+  "LastUpdate_Ratings": "2023-11-29T02:59:56.4388786+00:00",
+  "LastUpdate_Achievements": "2023-11-29T03:06:25.0221429+00:00"
 }

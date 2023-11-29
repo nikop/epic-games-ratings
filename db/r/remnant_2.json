@@ -4911,9 +4911,9 @@
       "Count": 378
     }
   ],
-  "EOS_Progressed": 230227,
+  "EOS_Progressed": 230230,
   "EOS_Completed": 541,
-  "EOS_NewPlayers": 4908,
+  "EOS_NewPlayers": 4897,
   "EOS_NewCompleters": 41,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -20441,6 +20441,11 @@
       "Time": "2023-11-29T02:30:44.6650152+00:00",
       "NumProgressed": 230227,
       "NumCompleted": 541
+    },
+    {
+      "Time": "2023-11-29T03:08:38.9182042+00:00",
+      "NumProgressed": 230230,
+      "NumCompleted": 541
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20611,9 +20616,9 @@
       "ID": "Meet_Meidra",
       "SetID": "bkp3b1a",
       "Name": "Equal Measures",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 691
     },
     {
       "ID": "Meet_Mudtooth",
@@ -20892,13 +20897,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 230227,
+      "Progressed": 230230,
       "Completed": 541
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 9392,
+      "Progressed": 9395,
       "Completed": 167
     }
   ],
@@ -20906,8 +20911,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-28T23:02:58.3294243+00:00",
-  "LastChanged_Achievements": "2023-11-29T02:30:44.6650149+00:00",
+  "LastChanged_Achievements": "2023-11-29T03:08:38.9182038+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-29T02:25:22.8545299+00:00",
-  "LastUpdate_Achievements": "2023-11-29T02:30:44.6651131+00:00"
+  "LastUpdate_Ratings": "2023-11-29T03:02:55.9325387+00:00",
+  "LastUpdate_Achievements": "2023-11-29T03:08:38.9183101+00:00"
 }

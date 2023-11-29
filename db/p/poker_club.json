@@ -985,9 +985,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 540336,
+  "EOS_Progressed": 540338,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1239,
+  "EOS_NewPlayers": 1241,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26225,6 +26225,11 @@
       "Time": "2023-11-29T02:27:29.0817142+00:00",
       "NumProgressed": 540336,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-29T03:05:02.7283511+00:00",
+      "NumProgressed": 540338,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -26300,7 +26305,7 @@
       "Name": "Check Yourself",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 21613
+      "UsersEstimate": 21614
     },
     {
       "ID": "ChokeADozenDonkeys",
@@ -26332,7 +26337,7 @@
       "Name": "Cold Caller",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 216134
+      "UsersEstimate": 216135
     },
     {
       "ID": "DeadlyAssassin",
@@ -26388,7 +26393,7 @@
       "Name": "Handy",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 226941
+      "UsersEstimate": 226942
     },
     {
       "ID": "HoldingYourOwn",
@@ -26428,7 +26433,7 @@
       "Name": "Moneymaker",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 21613
+      "UsersEstimate": 21614
     },
     {
       "ID": "NeverGiveUp",
@@ -26484,7 +26489,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 410655
+      "UsersEstimate": 410657
     },
     {
       "ID": "ProPlayer",
@@ -26588,14 +26593,14 @@
       "Name": "W.H.I.P.",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 64840
+      "UsersEstimate": 64841
     }
   ],
   "AchievementSets": [
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 540336,
+      "Progressed": 540338,
       "Completed": 2
     }
   ],
@@ -26603,8 +26608,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-11-26T16:59:21.6017221+00:00",
-  "LastChanged_Achievements": "2023-11-29T02:27:29.0817137+00:00",
+  "LastChanged_Achievements": "2023-11-29T03:05:02.7283507+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:00.682354+00:00",
-  "LastUpdate_Ratings": "2023-11-29T02:19:35.5275279+00:00",
-  "LastUpdate_Achievements": "2023-11-29T02:27:29.0818418+00:00"
+  "LastUpdate_Ratings": "2023-11-29T02:57:16.4050384+00:00",
+  "LastUpdate_Achievements": "2023-11-29T03:05:02.7284673+00:00"
 }
