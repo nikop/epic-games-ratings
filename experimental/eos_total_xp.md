@@ -271,6 +271,7 @@
 | [Eternights](../games/e/eternights.md) | 25 | 1,000 |
 | [Evalina The Sorceress](../games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6 | 1,000 |
 | [Eximius: Seize the Frontline](../games/e/eximius__seize_the_frontline.md) | 16 | 1,000 |
+| [Extreme Formula Championship](../games/1/1903efa2b18040089ecbd796f9ec3a16.md) | 5 | 1,000 |
 | [F1® 22 Standard Edition](../games/f/f1®_22_standard_edition.md) | 50 | 1,000 |
 | [F1® 23](../games/f/f1®_23_standard_edition.md) | 49 | 1,000 |
 | [Fabular: Once Upon a Spacetime](../games/f/fabular__once_upon_a_spacetime.md) | 8 | 1,000 |
