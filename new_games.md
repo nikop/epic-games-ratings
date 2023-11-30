@@ -5,7 +5,7 @@
 | [Champions Ascension](games/a/a3499df604cc40488fdba44d01acd1fd.md) | 2023-11-30 | - |  | - | - |
 | [Dizzy Fight](games/0/0e75b2d3188d42378ba82dccbfa48891.md) | 2023-11-30 | 5 (1,000 XP) | 0 | - | - |
 | [Dungeon No Dungeon_Tyrant's Endgame](games/7/7b65870a995e41339f9fa75744afb23d.md) | 2023-11-30 | - |  | - | - |
-| [MetalCore](games/m/metalcore.md) | 2023-11-30 | - |  | - | - |
+| [MetalCore](games/m/metalcore.md) | 2023-11-30 | - |  | - | 0 |
 | [Perfect Plan](games/9/940b0294778e4db2bec01cc908fda18a.md) | 2023-11-30 | - |  | - | - |
 | [The Crust](games/t/the_crust.md) | 2023-11-30 | - |  | - | - |
 | [Tiki Tandems](games/b/b40c9a6594ec42518376f7899c4daa22.md) | 2023-11-30 | - |  | - | - |
@@ -24,7 +24,7 @@
 | [Mosaics Galore 2](games/b/b4ca61f0058d4bd1b2a27da72bd328be.md) | 2023-11-23 | - |  | - | - |
 | [Jump Challenge!](games/8/812112fd7449435ab8aa1ff41f01fe92.md) | 2023-11-23 | 18 (1,000 XP) | 24 | - | 0 |
 | [Dreamhaven](games/8/806346adc3804b3488db9e09f26fad72.md) | 2023-11-23 | - |  | - | 0 |
-| [Dying Light 2 Stay Human - Black Friday Edition](games/d/dying_light_2_stay_human.md) | 2023-11-23 | 65 (1,200 XP) | 699,832 | 4.58 | 10,312 |
+| [Dying Light 2 Stay Human - Black Friday Edition](games/d/dying_light_2_stay_human.md) | 2023-11-23 | 65 (1,200 XP) | 699,879 | 4.58 | 10,312 |
 | [Magnetism](games/1/1f5c217a910f4c00aaee91c20b34bb46.md) | 2023-11-23 | 9 (1,000 XP) | 1 | - | - |
 | [Master of Music](games/7/7fdda6b99bc343a29aa49dd90395ae0a.md) | 2023-11-22 | - |  | - | 0 |
 | [Persha and the Magic Labyrinth -Arabian Nyaights-](games/3/3645577654d440e4a833ce60dac7ccf3.md) | 2023-11-22 | 43 (1,000 XP) | 6 | - | - |
@@ -48,12 +48,12 @@
 | [SkyMatch](games/c/c1d3e4bfa6144a7095d16a8ce487cf74.md) | 2023-11-18 | - |  | - | - |
 | [Cooking Trip New Challenge. Collector's Edition](games/e/eb5c6704ff734d0cad7717cddb28cae0.md) | 2023-11-17 | - |  | - | 0 |
 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 2023-11-17 | 6 (1,000 XP) | 61 | - | 0 |
-| [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2023-11-17 | 37 (1,000 XP) | 778 | - | 0 |
+| [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2023-11-17 | 37 (1,000 XP) | 779 | - | 0 |
 | [Flunky Farm](games/3/389061e1584946a58872a5ca03d08443.md) | 2023-11-17 | - |  | - | 0 |
 | [Galactic Empire](games/6/684f406af86a4a7eb01a8b263e7280e2.md) | 2023-11-17 | 67 (1,000 XP) | 2 | - | - |
 | [Oxygen Cocktail](games/b/be46e9830cad476eb46085098aee4afb.md) | 2023-11-16 | - |  | - | - |
 | [Universe for Sale](games/6/60525048f11c46b88bb6d7492ce7b67d.md) | 2023-11-16 | - |  | - | 0 |
-| [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 2023-11-16 | 34 (1,000 XP) | 60,441 | 4.04 | 0 |
+| [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 2023-11-16 | 34 (1,000 XP) | 60,454 | 4.04 | 0 |
 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 2023-11-16 | - |  | - | 0 |
 | [COLD WAR 2395: SOLUS](games/d/d51af83d7b874a69910b1280373403b8.md) | 2023-11-16 | - |  | - | 0 |
 | [Car Parking Real Driving Sim](games/3/385fc5b23bd240edb3ad852f4b520eef.md) | 2023-11-15 | - |  | - | 0 |
@@ -65,10 +65,10 @@
 | [WARSHIFT](games/d/d59d2460487f408d8d26e89165ff7fec.md) | 2023-11-15 | - |  | - | 0 |
 | [Cave Digger 2](games/9/959857360f1a4558b390204178101bc3.md) | 2023-11-14 | 24 (1,000 XP) | 10 | - | 0 |
 | [Iron Heart Steam Tower](games/8/80cddcf6787546d383143dc989ae1ada.md) | 2023-11-14 | - |  | - | 0 |
-| [Metalstorm](games/m/metalstorm.md) | 2023-11-14 | - |  | 4.53 | 0 |
+| [Metalstorm](games/m/metalstorm.md) | 2023-11-14 | - |  | 4.54 | 0 |
 | [Backpack Hero](games/0/0dc17d69dbfa4dd7b4eeb480d3adad6d.md) | 2023-11-14 | 35 (1,000 XP) | 1 | - | 0 |
 | [Ghoul Castle 3D - Gold Edition](games/9/993ca702abc944ce8098d24da7cd03d1.md) | 2023-11-14 | - |  | - | 0 |
-| [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 2023-11-14 | 35 (1,000 XP) | 13,678 | 4.35 | 0 |
+| [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 2023-11-14 | 35 (1,000 XP) | 13,683 | 4.35 | 0 |
 | [KarmaZoo](games/k/karmazoo.md) | 2023-11-14 | - |  | - | 0 |
 | [Fish](games/6/6c291b93c3314ae8b2c78c8ddbf3965d.md) | 2023-11-14 | - |  | - | - |
 | [UFO ROBOT GRENDIZER - The Feast of the Wolves](games/u/ufo_robot_grendizer_-_the_feast_of_the_wolves.md) | 2023-11-14 | 30 (1,000 XP) | 6 | - | 0 |
@@ -98,11 +98,11 @@
 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 2023-11-08 | 9 (1,000 XP) | 9 | - | - |
 | [Outbreak The New Nightmare Revisited](games/e/e38a7072e15a4f528887c3b887a8bb89.md) | 2023-11-08 | 12 (1,000 XP) | 18 | - | - |
 | [Godzilla Voxel Wars](games/8/8549e5bffe744f67933bf4f8689030c4.md) | 2023-11-08 | 63 (1,000 XP) | 27 | - | 0 |
-| [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 2023-11-07 | 76 (1,000 XP) | 23,374 | - | 0 |
+| [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 2023-11-07 | 76 (1,000 XP) | 23,392 | - | 0 |
 | [ROD Multiplayer Car Driving](games/2/2b630014226346b798149e8d26c390c4.md) | 2023-11-07 | - |  | - | 0 |
 | [Uncontained](games/f/f997635f6f6a4d62b592943e93fe7931.md) | 2023-11-07 | - |  | - | - |
 | [Meta Lordz](games/6/63d008723df74b828d6916c39b26052d.md) | 2023-11-06 | - |  | - | 0 |
-| [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | 100 (1,000 XP) | 22,826 | 4.77 | 28 |
+| [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | 100 (1,000 XP) | 22,832 | 4.77 | 28 |
 | [The Invincible](games/t/the_invincible.md) | 2023-11-06 | 29 (1,000 XP) | 455 | - | 0 |
 | [3D PrintMaster Simulator](games/9/996ae60e3cd84c7fb374489c1b9a8d88.md) | 2023-11-06 | - |  | - | 0 |
 | [The Hive](games/3/3778010ababa48d387d44ee9fd61b517.md) | 2023-11-05 | 39 (1,000 XP) | 19 | - | 0 |
@@ -120,12 +120,12 @@
 | [Victorian Admirals Panama Crisis 1885](games/0/0448f335654444ff96557f63dcd33596.md) | 2023-11-03 | - |  | - | 0 |
 | [Tad the Lost Explorer](games/t/tad_the_lost_explorer.md) | 2023-11-02 | 27 (1,000 XP) | 1 | - | 0 |
 | [Mosaics Galore](games/0/00b0ca412bb94ca9a6945f71b2a16cc5.md) | 2023-11-02 | - |  | - | - |
-| [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 2023-11-02 | 59 (1,000 XP) | 782 | 4.85 | 37 |
+| [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 2023-11-02 | 59 (1,000 XP) | 784 | 4.85 | 37 |
 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 2023-11-02 | 27 (1,000 XP) | 705 | 4.09 | 27 |
 | [The Smurfs 2 - The Prisoner of the Green Stone](games/7/76939a6fe2b54f9299254c99a9aebd35.md) | 2023-11-02 | 37 (1,000 XP) | 1 | - | 0 |
 | [DINOSAURS: Mission Dino Camp](games/2/20938450f73b48a9bb1a5243bcac965b.md) | 2023-11-01 | 21 (1,000 XP) | 0 | - | 0 |
 | [Dude, Where Is My Beer?](games/7/7c6b6697df584024be9c60a1da59096b.md) | 2023-11-01 | 22 (1,000 XP) | 62 | - | 0 |
-| [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 2023-11-01 | 44 (1,000 XP) | 1,023 | - | 0 |
+| [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 2023-11-01 | 44 (1,000 XP) | 1,024 | - | 0 |
 | [Tennis Elbow Manager 2](games/4/489af9bcd6534007a4ce5c36c810f6cb.md) | 2023-11-01 | - |  | - | 0 |
 | [My Demon Wife](games/m/my_demon_wife.md) | 2023-10-31 | 17 (1,000 XP) | 1 | - | 0 |
 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2023-10-31 | 36 (1,000 XP) | 237 | - | 0 |
@@ -141,4 +141,3 @@
 | [Dead By Murder](games/d/d1a966320cca4315888baf5acd3ab932.md) | 2023-10-31 | - |  | - | - |
 | [Unlimited Escape](games/b/b8feca2997b64cb189b227f342c59411.md) | 2023-10-31 | - |  | - | - |
 | [Don´t STOP](games/5/5c4165012e554a9582b070e6d9c20f6e.md) | 2023-10-31 | - |  | - | - |
-| [REMORE INFESTED KINGDOM](games/2/27ac7a9891e546e3937d21797b5409b9.md) | 2023-10-31 | 14 (1,000 XP) | 2 | - | 0 |

@@ -10,7 +10,7 @@
 | 6 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 557 |
 | 6 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,949 | 112 |
 | 6 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 557 |
-| 11 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 8,780 | 42 |
+| 11 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 8,791 | 42 |
 | 11 | [Firework](games/f/firework.md) | 4.89 | 0 | 557 |
 | 11 | [RimWorld](games/r/rimworld.md) | 4.89 | 456 | 220 |
 | 11 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 557 |
@@ -419,7 +419,7 @@
 | 386 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 590 | 198 |
 | 418 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 15,038 | 25 |
 | 418 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 557 |
-| 418 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,965 | 73 |
+| 418 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,969 | 73 |
 | 418 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 223 | 276 |
 | 418 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 79 | 392 |
 | 418 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 4.60 | 0 | 557 |
@@ -531,6 +531,7 @@
 | 527 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 36 | 472 |
 | 527 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.54 | 0 | 557 |
 | 527 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.54 | 169 | 308 |
+| 527 | [Metalstorm](games/m/metalstorm.md) | 4.54 | 0 | 557 |
 | 527 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.54 | 0 | 557 |
 | 527 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 981 | 155 |
 | 527 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 34 | 483 |
@@ -539,23 +540,22 @@
 | 527 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 0 | 557 |
 | 527 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.54 | 644 | 191 |
 | 527 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 373 | 238 |
-| 540 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.53 | 0 | 557 |
-| 540 | [Dauntless](games/d/dauntless.md) | 4.53 | 24,178 | 18 |
-| 540 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 23 | 534 |
-| 540 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 35 | 477 |
-| 540 | [Everything](games/e/everything.md) | 4.53 | 0 | 557 |
-| 540 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.53 | 1,455 | 134 |
-| 540 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.53 | 113 | 348 |
-| 540 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,535 | 131 |
-| 540 | [Metalstorm](games/m/metalstorm.md) | 4.53 | 0 | 557 |
-| 540 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.53 | 0 | 557 |
-| 540 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.53 | 0 | 557 |
-| 540 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 557 |
-| 540 | [Sable](games/s/sable.md) | 4.53 | 25 | 524 |
-| 540 | [Souldiers](games/s/souldiers.md) | 4.53 | 0 | 557 |
-| 540 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 528 | 209 |
-| 540 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 557 |
-| 540 | [Verdun](games/v/verdun.md) | 4.53 | 103 | 357 |
+| 541 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.53 | 0 | 557 |
+| 541 | [Dauntless](games/d/dauntless.md) | 4.53 | 24,178 | 18 |
+| 541 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 23 | 534 |
+| 541 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 35 | 477 |
+| 541 | [Everything](games/e/everything.md) | 4.53 | 0 | 557 |
+| 541 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.53 | 1,455 | 134 |
+| 541 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.53 | 113 | 348 |
+| 541 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,535 | 131 |
+| 541 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.53 | 0 | 557 |
+| 541 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.53 | 0 | 557 |
+| 541 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 557 |
+| 541 | [Sable](games/s/sable.md) | 4.53 | 25 | 524 |
+| 541 | [Souldiers](games/s/souldiers.md) | 4.53 | 0 | 557 |
+| 541 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 528 | 209 |
+| 541 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 557 |
+| 541 | [Verdun](games/v/verdun.md) | 4.53 | 103 | 357 |
 | 557 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.52 | 0 | 557 |
 | 557 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 0 | 557 |
 | 557 | [Duskers](games/d/duskers.md) | 4.52 | 0 | 557 |
@@ -628,7 +628,7 @@
 | 610 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 0 | 557 |
 | 610 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.49 | 0 | 557 |
 | 610 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.49 | 0 | 557 |
-| 610 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.49 | 8,607 | 43 |
+| 610 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.49 | 8,613 | 43 |
 | 610 | [The Riflemen](games/t/the_riflemen.md) | 4.49 | 0 | 557 |
 | 610 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 0 | 557 |
 | 610 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 38 | 463 |
