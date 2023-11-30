@@ -117,6 +117,7 @@
 | [Minigolf Blast](games/0/0d088fcaab2d4c41954845267cb28b39.md) | 2024-02-29 | - |  | - | - |
 | [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2024-02-29 | 19 (1,000 XP) | 456 | - | 0 |
 | [Life by You](games/l/life_by_you.md) | 2024-03-05 | - |  | - | - |
+| [Homeworld 3](games/h/homeworld_3.md) | 2024-03-08 | - |  | - | - |
 | [Tall Poppy 2](games/7/71f1ccd53d6a46c8a44b9e5425af0723.md) | 2024-03-29 | - |  | - | - |
 | [Almost Formula](games/c/c738515085eb490fb8c13acf3749e9e9.md) | 2024-03-31 | - |  | - | - |
 | [Campfire - Cozy AI Villagers](games/3/3f7a5911da8e4605a607533e5933fc7e.md) | 2024-03-31 | - |  | - | - |
@@ -139,7 +140,7 @@
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
 | [Forgotten Runiverse](games/2/28102c9b12f0424cb937170f7f6286b9.md) | 2024-06-30 | - |  | - | - |
 | [I Love Finding Cats](games/2/22d7d08b02de4ce79b0316ced5064741.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 355,878 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 355,888 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -470,7 +471,6 @@
 | [Exotic Cars VI](games/e/exotic_cars_vi.md) | 2099-01-02 | - |  | - | - |
 | [Frostpunk 2](games/f/frostpunk_2.md) | 2099-01-02 | - |  | - | - |
 | [GALAHAD 3093](games/g/galahad_3093.md) | 2099-01-02 | - |  | - | - |
-| [Homeworld 3](games/h/homeworld_3.md) | 2099-01-02 | - |  | - | - |
 | [Read Only Memories: NEURODIVER](games/r/read_only_memories__neurodiver.md) | 2099-01-02 | - |  | - | - |
 | [REPLACED](games/r/replaced.md) | 2099-01-02 | - |  | - | - |
 | [Rollers of The Realm: Reunion](games/r/rollers_of_the_realm__reunion.md) | 2099-01-02 | - |  | - | - |
