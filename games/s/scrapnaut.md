@@ -1,25 +1,25 @@
 # Scrapnaut
 [Store](https://store.epicgames.com/en-US/p/scrapnaut)  
 [View Rawdata](../../db/s/scrapnaut.json)  
-Rating: 4.28 (Ranked 854)  
+Rating: 4.28 (Ranked 855)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | My New Home | 62.00% | ~301 |
+| Mushroom Picker | 57.00% | ~276 |
 | Scrap Gatherer | 57.00% | ~276 |
-| Mushroom Picker | 56.00% | ~272 |
-| Scrapper | 46.00% | ~223 |
+| Scrapper | 47.00% | ~228 |
 | Teleport | 45.00% | ~218 |
 | Cook | 44.00% | ~213 |
 | Scrap Master | 38.00% | ~184 |
 | Smelter | 36.00% | ~175 |
 | Digger | 33.00% | ~160 |
-| Electro-Scrap Gatherer | 32.00% | ~155 |
+| Electro-Scrap Gatherer | 33.00% | ~160 |
 | Survivor | 31.00% | ~150 |
 | Lumberjack | 30.00% | ~146 |
+| Robot Destroyer | 30.00% | ~146 |
 | Herbalist | 29.00% | ~141 |
-| Robot Destroyer | 29.00% | ~141 |
 | Prepper | 26.00% | ~126 |
 | Electro-Scrap Master | 24.00% | ~116 |
 | Robot Hunter | 21.00% | ~102 |

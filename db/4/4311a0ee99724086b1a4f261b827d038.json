@@ -647,9 +647,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 234893,
+  "EOS_Progressed": 234897,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1141,
+  "EOS_NewPlayers": 1135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15622,6 +15622,11 @@
       "Time": "2023-11-30T09:09:24.7902653+00:00",
       "NumProgressed": 234893,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T10:10:22.1075104+00:00",
+      "NumProgressed": 234897,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -15698,7 +15703,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21140
+      "UsersEstimate": 21141
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -15818,7 +15823,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 32885
+      "UsersEstimate": 32886
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -15890,7 +15895,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 58723
+      "UsersEstimate": 58724
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -15905,7 +15910,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 234893,
+      "Progressed": 234897,
       "Completed": 0
     }
   ],
@@ -15913,8 +15918,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-11-28T13:02:09.2290114+00:00",
-  "LastChanged_Achievements": "2023-11-30T09:09:24.7902648+00:00",
+  "LastChanged_Achievements": "2023-11-30T10:10:22.10751+00:00",
   "LastUpdate_AppInfo": "2023-11-24T02:17:11.33261+00:00",
-  "LastUpdate_Ratings": "2023-11-30T08:58:03.4006466+00:00",
-  "LastUpdate_Achievements": "2023-11-30T09:09:24.7903555+00:00"
+  "LastUpdate_Ratings": "2023-11-30T09:58:49.9264603+00:00",
+  "LastUpdate_Achievements": "2023-11-30T10:10:22.1076068+00:00"
 }

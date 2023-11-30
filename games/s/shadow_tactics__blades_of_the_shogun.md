@@ -6,12 +6,12 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~25,993 |
-| A thief's beginning | 10.00% | ~21,661 |
-| Thorough | 10.00% | ~21,661 |
-| Disguised | 9.00% | ~19,495 |
-| Rollin' | 9.00% | ~19,495 |
-| Tanuki Time | 9.00% | ~19,495 |
+| Genin | 12.00% | ~25,994 |
+| A thief's beginning | 10.00% | ~21,662 |
+| Thorough | 10.00% | ~21,662 |
+| Disguised | 9.00% | ~19,496 |
+| Rollin' | 9.00% | ~19,496 |
+| Tanuki Time | 9.00% | ~19,496 |
 | Rescue Takuma | 8.00% | ~17,329 |
 | Stoned Ox | 8.00% | ~17,329 |
 | Happy Planning | 7.00% | ~15,163 |
@@ -25,13 +25,13 @@ Number of Ratings: 495  (23.09.2022)
 | Okkoto | 5.00% | ~10,831 |
 | Prisoners | 5.00% | ~10,831 |
 | Too Early | 5.00% | ~10,831 |
-| Gear up | 4.00% | ~8,664 |
-| Happy little accidents | 4.00% | ~8,664 |
-| Noboru | 4.00% | ~8,664 |
-| Still Rollin' | 4.00% | ~8,664 |
-| It's raining men | 3.00% | ~6,498 |
-| Stoned | 3.00% | ~6,498 |
-| The Old Way | 3.00% | ~6,498 |
+| Gear up | 4.00% | ~8,665 |
+| Happy little accidents | 4.00% | ~8,665 |
+| Noboru | 4.00% | ~8,665 |
+| Still Rollin' | 4.00% | ~8,665 |
+| It's raining men | 3.00% | ~6,499 |
+| Stoned | 3.00% | ~6,499 |
+| The Old Way | 3.00% | ~6,499 |
 | Atheist Ox | 2.00% | ~4,332 |
 | No Gimmicks | 2.00% | ~4,332 |
 | Old Man | 2.00% | ~4,332 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~217 |
 | Release the Kraken | 0.10% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,612 (Ranked 72)  
+Progressed: 216,617 (Ranked 72)  
 Completed: 100 (0.05%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,10 +275,10 @@ Completed: 100 (0.05%) (Ranked 315)
 | 2023-11-27 | 216,232 | 99 |
 | 2023-11-28 | 216,376 | 100 |
 | 2023-11-29 | 216,552 | 100 |
-| 2023-11-30 | 216,612 | 100 |
+| 2023-11-30 | 216,617 | 100 |
 ## Awards
 Max (Great for Beginners): 579  (Ranked 200)  
-Sum: 4,884 (Ranked 144)  
+Sum: 4,885 (Ranked 144)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -288,7 +288,7 @@ Diff (max vs sum): 56
 | This game has Amazing Storytelling | 519 |
 | This game has Amazing Characters | 501 |
 | This game is Relaxing | 499 |
-| This game has Challenging Combat | 496 |
+| This game has Challenging Combat | 497 |
 | This game is Highly Recommended | 495 |
 | This game has Quickly Understood Controls | 459 |
 | This game has a Creative Community | 255 |
@@ -521,4 +521,4 @@ Diff (max vs sum): 56
 | 2023-11-27 | 4.67 | - | 578 | 4,876 |
 | 2023-11-28 | 4.67 | - | 578 | 4,879 |
 | 2023-11-29 | 4.67 | - | 579 | 4,883 |
-| 2023-11-30 | 4.67 | - | 579 | 4,884 |
+| 2023-11-30 | 4.67 | - | 579 | 4,885 |

@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 383,
+  "EOS_Progressed": 384,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -857,6 +857,11 @@
       "Time": "2023-11-30T01:55:40.5820552+00:00",
       "NumProgressed": 383,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T10:09:18.9156249+00:00",
+      "NumProgressed": 384,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -885,7 +890,7 @@
       "Name": "Ares Island Explorer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND3",
@@ -909,7 +914,7 @@
       "Name": "Hardened Hedgehog",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ENEMY_DEFEATED_ALL",
@@ -917,15 +922,15 @@
       "Name": "Easy Prey",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "FIRST_ACCEL_COMBO",
       "SetID": "apihg0e",
       "Name": "Combo Convert",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 134
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -941,7 +946,7 @@
       "Name": "Big Encounter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -973,7 +978,7 @@
       "Name": "Unknown Threat",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -981,7 +986,7 @@
       "Name": "Speed Demon",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1109,7 +1114,7 @@
       "Name": "Herculean Hedgehog",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "RING_LIMIT_REACH_NUM",
@@ -1117,7 +1122,7 @@
       "Name": "Hearty Hedgehog",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "SKILL_ALL_OBTAINED",
@@ -1149,7 +1154,7 @@
       "Name": "Kronos Island Expert",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "SUB_CLEAR_ISLAND2",
@@ -1188,14 +1193,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 383,
+      "Progressed": 384,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-30T09:08:38.0516458+00:00",
+  "LastChanged_Achievements": "2023-11-30T10:09:18.9156247+00:00",
   "LastUpdate_AppInfo": "2023-11-28T17:56:55.9843317+00:00",
-  "LastUpdate_Ratings": "2023-11-30T09:02:41.1442689+00:00",
-  "LastUpdate_Achievements": "2023-11-30T09:08:38.0516773+00:00"
+  "LastUpdate_Ratings": "2023-11-30T10:03:19.4157166+00:00",
+  "LastUpdate_Achievements": "2023-11-30T10:09:18.9156473+00:00"
 }

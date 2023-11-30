@@ -16,14 +16,14 @@
 | The Fire Below the Mountain | 61.00% | ~626 |
 | No Bites | 54.00% | ~554 |
 | Iceborn | 54.00% | ~554 |
+| Tear of Freedom | 52.00% | ~534 |
 | Boom Things | 52.00% | ~534 |
-| Tear of Freedom | 51.00% | ~523 |
-| My Darkest Day | 48.00% | ~492 |
+| My Darkest Day | 49.00% | ~503 |
 | Rhythm Of Willump | 46.00% | ~472 |
 | The Relentless Storm | 46.00% | ~472 |
 | A Tragic Reminder | 44.00% | ~451 |
 | 3000 Year Blackout | 43.00% | ~441 |
-| The Finisher | 41.00% | ~421 |
+| The Finisher | 42.00% | ~431 |
 | So Close | 40.00% | ~410 |
 | You Get Used To It | 39.00% | ~400 |
 | True Legends | 39.00% | ~400 |
@@ -41,7 +41,7 @@
 | One From The Heart | 14.00% | ~144 |
 | Yummy | 10.00% | ~103 |
 | Snowball Fightn't | 10.00% | ~103 |
-| It Was Him | 7.00% | ~72 |
+| It Was Him | 8.00% | ~82 |
 | Handy Yeti | 7.00% | ~72 |
 | The Pied Piper Of Freljord | 5.00% | ~51 |
 | Braum's Poro Ranch | 3.00% | ~31 |

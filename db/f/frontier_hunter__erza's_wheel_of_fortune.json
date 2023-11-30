@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 447,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 270,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1418,9 +1418,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "7pimpda",
       "Name": "Flying Kobold Killer",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 76
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -1570,9 +1570,9 @@
       "ID": "ACHIEVEMENT_31",
       "SetID": "7pimpda",
       "Name": "Weapon Boost",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 94
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -1755,8 +1755,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-30T09:05:25.2511284+00:00",
+  "LastChanged_Achievements": "2023-11-30T10:07:07.0756098+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-11-30T08:58:58.20298+00:00",
-  "LastUpdate_Achievements": "2023-11-30T09:05:25.2511729+00:00"
+  "LastUpdate_Ratings": "2023-11-30T10:00:07.526945+00:00",
+  "LastUpdate_Achievements": "2023-11-30T10:07:07.0756413+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
   "Ranking_Rating": 739,
-  "Ranking_Popularity": 376,
-  "Ranking_PopularitySum": 299,
+  "Ranking_Popularity": 369,
+  "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 17,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -1507,11 +1507,17 @@
       "Rating": 4.4,
       "NumberOfAwards": 684,
       "NumberOfAwardsMax": 93
+    },
+    {
+      "Time": "2023-11-30T10:00:41.4231143+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 687,
+      "NumberOfAwardsMax": 96
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 684,
-  "NumberOfAwardsMax": 93,
+  "NumberOfAwards": 687,
+  "NumberOfAwardsMax": 96,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1524,7 +1530,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 93
+      "Count": 96
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1587,10 +1593,10 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 317233,
-  "EOS_Completed": 351,
-  "EOS_NewPlayers": 8846,
-  "EOS_NewCompleters": 31,
+  "EOS_Progressed": 317248,
+  "EOS_Completed": 356,
+  "EOS_NewPlayers": 8841,
+  "EOS_NewCompleters": 36,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
     {
@@ -14297,6 +14303,11 @@
       "Time": "2023-11-30T09:05:05.7619785+00:00",
       "NumProgressed": 317233,
       "NumCompleted": 351
+    },
+    {
+      "Time": "2023-11-30T10:06:40.6765291+00:00",
+      "NumProgressed": 317248,
+      "NumCompleted": 356
     }
   ],
   "TotalAchievements": 24,
@@ -14348,7 +14359,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 22206
+      "UsersEstimate": 22207
     },
     {
       "ID": "15",
@@ -14404,7 +14415,7 @@
       "Name": "PROTECTED",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 12689
+      "UsersEstimate": 12690
     },
     {
       "ID": "21",
@@ -14460,7 +14471,7 @@
       "Name": "ROOKIE",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 34896
+      "UsersEstimate": 34897
     },
     {
       "ID": "6",
@@ -14468,7 +14479,7 @@
       "Name": "PRO",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 12689
+      "UsersEstimate": 12690
     },
     {
       "ID": "7",
@@ -14499,16 +14510,16 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 317233,
-      "Completed": 351
+      "Progressed": 317248,
+      "Completed": 356
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged": "2023-11-30T02:59:28.3271301+00:00",
-  "LastChanged_Achievements": "2023-11-30T09:05:05.7619782+00:00",
+  "LastChanged": "2023-11-30T10:00:41.4231141+00:00",
+  "LastChanged_Achievements": "2023-11-30T10:06:40.6765288+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:04.1206554+00:00",
-  "LastUpdate_Ratings": "2023-11-30T08:59:20.9678183+00:00",
-  "LastUpdate_Achievements": "2023-11-30T09:05:05.7620408+00:00"
+  "LastUpdate_Ratings": "2023-11-30T10:00:41.4231145+00:00",
+  "LastUpdate_Achievements": "2023-11-30T10:06:40.6766012+00:00"
 }

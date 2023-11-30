@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 44,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -7149,9 +7149,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 198950,
+  "EOS_Progressed": 198953,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 2294,
+  "EOS_NewPlayers": 2290,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32704,6 +32704,11 @@
       "Time": "2023-11-30T09:09:04.4575686+00:00",
       "NumProgressed": 198950,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-30T10:09:54.5338523+00:00",
+      "NumProgressed": 198953,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 16,
@@ -32731,7 +32736,7 @@
       "Name": "Don\u0027t Put Me In The Dark",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5968
+      "UsersEstimate": 5969
     },
     {
       "ID": "Achievement_11",
@@ -32739,7 +32744,7 @@
       "Name": "Wait and Hope",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5968
+      "UsersEstimate": 5969
     },
     {
       "ID": "Achievement_12",
@@ -32771,7 +32776,7 @@
       "Name": "I May Have Found A Way Out Of Here",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 5968
+      "UsersEstimate": 5969
     },
     {
       "ID": "Achievement_2",
@@ -32842,15 +32847,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 198950,
+      "Progressed": 198953,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-11-29T23:57:37.5003822+00:00",
-  "LastChanged_Achievements": "2023-11-30T09:09:04.4575681+00:00",
+  "LastChanged_Achievements": "2023-11-30T10:09:54.5338518+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:12.7295199+00:00",
-  "LastUpdate_Ratings": "2023-11-30T08:57:53.4110831+00:00",
-  "LastUpdate_Achievements": "2023-11-30T09:09:04.4576998+00:00"
+  "LastUpdate_Ratings": "2023-11-30T09:58:35.0380765+00:00",
+  "LastUpdate_Achievements": "2023-11-30T10:09:54.5339638+00:00"
 }

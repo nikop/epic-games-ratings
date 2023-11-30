@@ -2,7 +2,7 @@
   "ID": "611482b8586142cda48a0786eb8a127c",
   "Name": "Dead by Daylight",
   "ProductSlug": "dead-by-daylight",
-  "Ranking_Rating": 571,
+  "Ranking_Rating": 572,
   "Ranking_Popularity": 15,
   "Ranking_PopularitySum": 12,
   "Ranking_EOS_Progress": 14,
@@ -13190,9 +13190,9 @@
       "Count": 27339
     }
   ],
-  "EOS_Progressed": 1054760,
+  "EOS_Progressed": 1054853,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 16015,
+  "EOS_NewPlayers": 16059,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -38900,6 +38900,11 @@
       "Time": "2023-11-30T09:09:35.1790864+00:00",
       "NumProgressed": 1054760,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-11-30T10:10:35.3387272+00:00",
+      "NumProgressed": 1054853,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 232,
@@ -39077,9 +39082,9 @@
       "ID": "ACH_022",
       "SetID": "bdmlp8o",
       "Name": "Zealous",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2110
+      "UsersEstimate": 3165
     },
     {
       "ID": "ACH_023",
@@ -39087,15 +39092,15 @@
       "Name": "It wakes",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 3164
+      "UsersEstimate": 3165
     },
     {
       "ID": "ACH_024",
       "SetID": "bdmlp8o",
       "Name": "Not half bad",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2110
+      "UsersEstimate": 3165
     },
     {
       "ID": "ACH_025",
@@ -39215,7 +39220,7 @@
       "Name": "Skillful",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 3164
+      "UsersEstimate": 3165
     },
     {
       "ID": "ACH_040",
@@ -40766,21 +40771,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1054760,
+      "Progressed": 1054853,
       "Completed": 66
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1054760,
+      "Progressed": 1054853,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-11-30T08:59:06.1047971+00:00",
-  "LastChanged_Achievements": "2023-11-30T09:09:35.179086+00:00",
+  "LastChanged_Achievements": "2023-11-30T10:10:35.3387268+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:00.7078103+00:00",
-  "LastUpdate_Ratings": "2023-11-30T08:59:06.1047977+00:00",
-  "LastUpdate_Achievements": "2023-11-30T09:09:35.1796011+00:00"
+  "LastUpdate_Ratings": "2023-11-30T10:00:19.6763153+00:00",
+  "LastUpdate_Achievements": "2023-11-30T10:10:35.3392522+00:00"
 }

@@ -14,8 +14,8 @@ Rating: 4.04 (Ranked 991)
 | Prestigious x10 | 21.00% | ~593 |
 | The game is on | 19.00% | ~537 |
 | Exotic Merchant | 17.00% | ~480 |
+| Full Party | 17.00% | ~480 |
 | Dragon Clicker | 16.00% | ~452 |
-| Full Party | 16.00% | ~452 |
 | Miner Clicker | 16.00% | ~452 |
 | Inspection | 15.00% | ~424 |
 | Dragon Master | 14.00% | ~396 |

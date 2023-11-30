@@ -41,9 +41,9 @@ Rating: 4.68 (Ranked 254)
 | Living up to Expectations | 7.00% | ~418 |
 | Smooth Operator | 7.00% | ~418 |
 | For all Those Back at the Factory | 6.00% | ~359 |
+| Loyal Bond | 5.00% | ~299 |
 | Peak Performance | 5.00% | ~299 |
 | Hitting a Century | 4.00% | ~239 |
-| Loyal Bond | 4.00% | ~239 |
 | Seasoned Rookie | 3.00% | ~179 |
 | Wait, I know you? | 3.00% | ~179 |
 | Filling in the Gaps | 2.00% | ~120 |

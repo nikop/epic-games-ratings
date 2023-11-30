@@ -2,12 +2,12 @@
   "ID": "c1edd23d035a4df0bbc419f2d0fbb40d",
   "Name": "Scrapnaut",
   "ProductSlug": "scrapnaut",
-  "Ranking_Rating": 854,
+  "Ranking_Rating": 855,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -1672,9 +1672,9 @@
       "ID": "ACH_COLLECT_10_MUSHROOMS",
       "SetID": "7c4cldc",
       "Name": "Mushroom Picker",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -1704,9 +1704,9 @@
       "ID": "ACH_COLLECT_50_ELECTROSCRAP",
       "SetID": "7c4cldc",
       "Name": "Electro-Scrap Gatherer",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_COLLECT_50_SCRAP",
@@ -1776,17 +1776,17 @@
       "ID": "ACH_KILL_20",
       "SetID": "7c4cldc",
       "Name": "Scrapper",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 223
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_KILL_50",
       "SetID": "7c4cldc",
       "Name": "Robot Destroyer",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 141
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_MAKE_CANNED_FOOD",
@@ -1881,8 +1881,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-11-17T17:00:24.0955126+00:00",
-  "LastChanged_Achievements": "2023-11-30T09:08:23.0824469+00:00",
+  "LastChanged_Achievements": "2023-11-30T10:08:58.4658093+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:54.617805+00:00",
-  "LastUpdate_Ratings": "2023-11-30T08:59:02.0906119+00:00",
-  "LastUpdate_Achievements": "2023-11-30T09:08:23.0824682+00:00"
+  "LastUpdate_Ratings": "2023-11-30T10:00:13.5456329+00:00",
+  "LastUpdate_Achievements": "2023-11-30T10:08:58.4658351+00:00"
 }

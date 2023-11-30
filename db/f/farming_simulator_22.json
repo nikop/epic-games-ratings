@@ -11838,9 +11838,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 54248,
+  "EOS_Progressed": 54249,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1759,
+  "EOS_NewPlayers": 1756,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32398,6 +32398,11 @@
       "Time": "2023-11-30T09:05:13.2345748+00:00",
       "NumProgressed": 54248,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-30T10:06:51.0769348+00:00",
+      "NumProgressed": 54249,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -32505,7 +32510,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 32006
+      "UsersEstimate": 32007
     },
     {
       "ID": "DeliveryGrapes",
@@ -32545,7 +32550,7 @@
       "Name": "Plant get enough",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 32006
+      "UsersEstimate": 32007
     },
     {
       "ID": "Harvested",
@@ -32665,7 +32670,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 30921
+      "UsersEstimate": 30922
     },
     {
       "ID": "PetDog",
@@ -32681,7 +32686,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 30921
+      "UsersEstimate": 30922
     },
     {
       "ID": "Sow",
@@ -32697,7 +32702,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 33091
+      "UsersEstimate": 33092
     },
     {
       "ID": "Stones",
@@ -32713,7 +32718,7 @@
       "Name": "Field Trip",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 22784
+      "UsersEstimate": 22785
     },
     {
       "ID": "TruckDriving",
@@ -32752,15 +32757,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 54248,
+      "Progressed": 54249,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-11-29T20:59:35.0984635+00:00",
-  "LastChanged_Achievements": "2023-11-30T09:05:13.2345744+00:00",
+  "LastChanged_Achievements": "2023-11-30T10:06:51.0769343+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:04.5374775+00:00",
-  "LastUpdate_Ratings": "2023-11-30T08:59:28.9361516+00:00",
-  "LastUpdate_Achievements": "2023-11-30T09:05:13.2347012+00:00"
+  "LastUpdate_Ratings": "2023-11-30T10:00:52.3246664+00:00",
+  "LastUpdate_Achievements": "2023-11-30T10:06:51.0770445+00:00"
 }

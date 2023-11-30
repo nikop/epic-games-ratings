@@ -307,9 +307,9 @@
       "ID": "ACH_ENEMY_FIRE",
       "SetID": "5akmpni",
       "Name": "Tap Dancing",
-      "Percentage": 56,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_ENEMY_LEDGE_FALL",
@@ -443,9 +443,9 @@
       "ID": "ACH_LAUNCH_ENEMY",
       "SetID": "5akmpni",
       "Name": "Spring Board",
-      "Percentage": 37,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_LONG_REBEL_INSTINCT",
@@ -467,9 +467,9 @@
       "ID": "ACH_MONEY_TO_POOR",
       "SetID": "5akmpni",
       "Name": "The Altruist",
-      "Percentage": 74,
+      "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_NO_SIBLINGS",
@@ -585,8 +585,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-11-30T09:03:40.900042+00:00",
+  "LastChanged_Achievements": "2023-11-30T10:04:45.9888287+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:56.6360588+00:00",
-  "LastUpdate_Ratings": "2023-11-30T08:58:54.0550087+00:00",
-  "LastUpdate_Achievements": "2023-11-30T09:03:40.9000768+00:00"
+  "LastUpdate_Ratings": "2023-11-30T10:00:00.9059877+00:00",
+  "LastUpdate_Achievements": "2023-11-30T10:04:45.9888682+00:00"
 }

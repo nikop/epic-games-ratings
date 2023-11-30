@@ -2,7 +2,7 @@
   "ID": "696f412c815b40089807922419188f43",
   "Name": "Sengoku Dynasty",
   "ProductSlug": "sengoku-dynasty-2b3586",
-  "Ranking_Rating": 1039,
+  "Ranking_Rating": 1041,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 764,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 3.8,
+  "Rating": 3.77,
   "RatingHistory": [
     {
       "Time": "2023-08-21T09:58:13.4050345+00:00",
@@ -167,6 +167,12 @@
       "Rating": 3.8,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-30T10:00:20.2571458+00:00",
+      "Rating": 3.77,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -185,8 +191,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-11T01:35:10.8340746+00:00",
   "FirstSeenRating": "2023-08-21T09:58:13.4050342+00:00",
-  "LastChanged": "2023-11-26T14:57:04.1107084+00:00",
+  "LastChanged": "2023-11-30T10:00:20.2571457+00:00",
   "LastUpdate_AppInfo": "2023-11-24T01:41:55.7764217+00:00",
-  "LastUpdate_Ratings": "2023-11-30T08:59:06.4735607+00:00",
-  "LastUpdate_Achievements": "2023-11-30T09:04:42.4201091+00:00"
+  "LastUpdate_Ratings": "2023-11-30T10:00:20.2571461+00:00",
+  "LastUpdate_Achievements": "2023-11-30T10:06:09.4744585+00:00"
 }

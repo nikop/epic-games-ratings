@@ -850,7 +850,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 48226,
+  "EOS_Progressed": 48229,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 803,
   "EOS_NewCompleters": 0,
@@ -26175,6 +26175,11 @@
       "Time": "2023-11-30T09:05:03.2906852+00:00",
       "NumProgressed": 48226,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-30T10:06:37.3050833+00:00",
+      "NumProgressed": 48229,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -26226,7 +26231,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 13021
+      "UsersEstimate": 13022
     },
     {
       "ID": "goals180",
@@ -26306,7 +26311,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 8198
+      "UsersEstimate": 8199
     },
     {
       "ID": "novice",
@@ -26314,7 +26319,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7716
+      "UsersEstimate": 7717
     },
     {
       "ID": "playerFelipe",
@@ -26394,7 +26399,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 12539
+      "UsersEstimate": 12540
     },
     {
       "ID": "sandboarder",
@@ -26497,15 +26502,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 48226,
+      "Progressed": 48229,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-11-29T16:56:50.2159506+00:00",
-  "LastChanged_Achievements": "2023-11-30T09:05:03.2906848+00:00",
+  "LastChanged_Achievements": "2023-11-30T10:06:37.3050828+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:43.8978111+00:00",
-  "LastUpdate_Ratings": "2023-11-30T08:57:27.2664806+00:00",
-  "LastUpdate_Achievements": "2023-11-30T09:05:03.2908375+00:00"
+  "LastUpdate_Ratings": "2023-11-30T09:57:57.2108924+00:00",
+  "LastUpdate_Achievements": "2023-11-30T10:06:37.3052087+00:00"
 }

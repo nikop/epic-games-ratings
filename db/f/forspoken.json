@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -433,9 +433,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 43138,
+  "EOS_Progressed": 43139,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13748,6 +13748,11 @@
       "Time": "2023-11-30T09:05:44.117678+00:00",
       "NumProgressed": 43138,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-30T10:07:33.3965866+00:00",
+      "NumProgressed": 43139,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -14095,7 +14100,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3882
+      "UsersEstimate": 3883
     },
     {
       "ID": "SPRING_ALL",
@@ -14182,22 +14187,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 43138,
+      "Progressed": 43139,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 7975,
-      "Completed": 7975
+      "Progressed": 7976,
+      "Completed": 7976
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-11-29T18:00:42.1149813+00:00",
-  "LastChanged_Achievements": "2023-11-30T09:05:44.1176774+00:00",
+  "LastChanged_Achievements": "2023-11-30T10:07:33.3965861+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:10.8816772+00:00",
-  "LastUpdate_Ratings": "2023-11-30T09:02:39.0568486+00:00",
-  "LastUpdate_Achievements": "2023-11-30T09:05:44.1178567+00:00"
+  "LastUpdate_Ratings": "2023-11-30T10:03:16.170367+00:00",
+  "LastUpdate_Achievements": "2023-11-30T10:07:33.3966863+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 450,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -689,7 +689,7 @@
   ],
   "EOS_Progressed": 5976,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6721,9 +6721,9 @@
       "ID": "achievement_0024",
       "SetID": "9123ogc",
       "Name": "Loyal Bond",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 299
     },
     {
       "ID": "achievement_0025",
@@ -6938,8 +6938,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-29T21:58:22.4876364+00:00",
-  "LastChanged_Achievements": "2023-11-30T09:05:26.2532514+00:00",
+  "LastChanged_Achievements": "2023-11-30T10:07:08.4019875+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:16.1347365+00:00",
-  "LastUpdate_Ratings": "2023-11-30T08:58:36.5794315+00:00",
-  "LastUpdate_Achievements": "2023-11-30T09:05:26.2533031+00:00"
+  "LastUpdate_Ratings": "2023-11-30T09:59:36.1262544+00:00",
+  "LastUpdate_Achievements": "2023-11-30T10:07:08.4020416+00:00"
 }

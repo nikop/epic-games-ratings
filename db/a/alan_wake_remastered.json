@@ -569,9 +569,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 96787,
+  "EOS_Progressed": 96788,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 1550,
+  "EOS_NewPlayers": 1544,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -23599,6 +23599,11 @@
       "Time": "2023-11-30T09:09:32.8911375+00:00",
       "NumProgressed": 96787,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-11-30T10:10:32.5163112+00:00",
+      "NumProgressed": 96788,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 67,
@@ -23610,7 +23615,7 @@
       "Name": "Follow the Light",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 56136
+      "UsersEstimate": 56137
     },
     {
       "ID": "02",
@@ -23650,7 +23655,7 @@
       "Name": "Park Ranger",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 27100
+      "UsersEstimate": 27101
     },
     {
       "ID": "07",
@@ -23658,7 +23663,7 @@
       "Name": "Heavy Metal",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 19357
+      "UsersEstimate": 19358
     },
     {
       "ID": "08",
@@ -23698,7 +23703,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 19357
+      "UsersEstimate": 19358
     },
     {
       "ID": "13",
@@ -23738,7 +23743,7 @@
       "Name": "Departure",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 11614
+      "UsersEstimate": 11615
     },
     {
       "ID": "18",
@@ -23850,7 +23855,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 26132
+      "UsersEstimate": 26133
     },
     {
       "ID": "32",
@@ -23890,7 +23895,7 @@
       "Name": "Carny",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3871
+      "UsersEstimate": 3872
     },
     {
       "ID": "37",
@@ -23906,7 +23911,7 @@
       "Name": "An Idyllic Small Town",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3871
+      "UsersEstimate": 3872
     },
     {
       "ID": "39",
@@ -23930,7 +23935,7 @@
       "Name": "Finders Keepers",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 26132
+      "UsersEstimate": 26133
     },
     {
       "ID": "42",
@@ -23946,7 +23951,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 28068
+      "UsersEstimate": 28069
     },
     {
       "ID": "44",
@@ -24145,21 +24150,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 96787,
+      "Progressed": 96788,
       "Completed": 105
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 60255,
+      "Progressed": 60256,
       "Completed": 89
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-11-23T00:00:36.1638519+00:00",
-  "LastChanged_Achievements": "2023-11-30T09:09:32.8911372+00:00",
+  "LastChanged_Achievements": "2023-11-30T10:10:32.516311+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:20.1598049+00:00",
-  "LastUpdate_Ratings": "2023-11-30T08:58:43.8552895+00:00",
-  "LastUpdate_Achievements": "2023-11-30T09:09:32.8912679+00:00"
+  "LastUpdate_Ratings": "2023-11-30T09:59:46.8631375+00:00",
+  "LastUpdate_Achievements": "2023-11-30T10:10:32.5164377+00:00"
 }

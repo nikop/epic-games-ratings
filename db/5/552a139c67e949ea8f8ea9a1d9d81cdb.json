@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1224,
+  "EOS_Progressed": 1225,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2712,6 +2712,11 @@
       "Time": "2023-11-30T08:04:20.5967644+00:00",
       "NumProgressed": 1224,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T10:05:40.425376+00:00",
+      "NumProgressed": 1225,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2724,7 +2729,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2732,7 +2737,7 @@
       "Name": "Acrobat",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -2772,7 +2777,7 @@
       "Name": "Globetrotter",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -2812,7 +2817,7 @@
       "Name": "Immortal",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -2828,7 +2833,7 @@
       "Name": "Shapeshifter",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -2860,7 +2865,7 @@
       "Name": "International license",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ML_ACHIEVEMENT_19",
@@ -2972,7 +2977,7 @@
       "Name": "Spendthrift",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ML_ACHIEVEMENT_33",
@@ -2988,7 +2993,7 @@
       "Name": "Beyond the limit",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -2996,7 +3001,7 @@
       "Name": "Extra gear",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -3036,7 +3041,7 @@
       "Name": "A little nest egg",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -3060,27 +3065,27 @@
       "Name": "Mission complete",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1224,
+      "Progressed": 1225,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 892,
-      "Completed": 892
+      "Progressed": 893,
+      "Completed": 893
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-30T09:04:21.0942415+00:00",
+  "LastChanged_Achievements": "2023-11-30T10:05:40.4253756+00:00",
   "LastUpdate_AppInfo": "2023-11-30T02:56:57.3535816+00:00",
-  "LastUpdate_Ratings": "2023-11-30T08:57:28.1199236+00:00",
-  "LastUpdate_Achievements": "2023-11-30T09:04:21.0942749+00:00"
+  "LastUpdate_Ratings": "2023-11-30T09:57:58.4520844+00:00",
+  "LastUpdate_Achievements": "2023-11-30T10:05:40.4254156+00:00"
 }

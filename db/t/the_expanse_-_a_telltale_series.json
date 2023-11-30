@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -241,9 +241,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15777,
+  "EOS_Progressed": 15778,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 480,
+  "EOS_NewPlayers": 477,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -12721,6 +12721,11 @@
       "Time": "2023-11-30T09:03:28.4688767+00:00",
       "NumProgressed": 15777,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-11-30T10:04:29.0759642+00:00",
+      "NumProgressed": 15778,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12765,7 +12770,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1736
     },
     {
       "ID": "14",
@@ -13012,13 +13017,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15777,
+      "Progressed": 15778,
       "Completed": 39
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1731,
+      "Progressed": 1732,
       "Completed": 755
     }
   ],
@@ -13026,8 +13031,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-28T18:00:52.6774218+00:00",
-  "LastChanged_Achievements": "2023-11-30T09:03:28.4688765+00:00",
+  "LastChanged_Achievements": "2023-11-30T10:04:29.0759639+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-11-30T09:00:23.5914412+00:00",
-  "LastUpdate_Achievements": "2023-11-30T09:03:28.4689644+00:00"
+  "LastUpdate_Ratings": "2023-11-30T10:03:10.7477309+00:00",
+  "LastUpdate_Achievements": "2023-11-30T10:04:29.0760828+00:00"
 }

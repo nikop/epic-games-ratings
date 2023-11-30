@@ -6,20 +6,20 @@
 | ---- | ---------- | ----- |
 | Escape from Fleed | 14.00% | ~1 |
 | Strength in Defeat | 14.00% | ~1 |
+| The Remains of Fleed | 14.00% | ~1 |
+| Life of Pi | 14.00% | ~1 |
 | A Good Paint Job | 14.00% | ~1 |
+| Technology first! | 14.00% | ~1 |
+| The Legend | 14.00% | ~1 |
 | Gold Seeker | 0.00% | ~0 |
 | A Land of Peace | 0.00% | ~0 |
 | The Power of Friendship | 0.00% | ~0 |
 | First Contact | 0.00% | ~0 |
-| The Remains of Fleed | 0.00% | ~0 |
-| Life of Pi | 0.00% | ~0 |
-| Technology first! | 0.00% | ~0 |
 | The Keeper of Fleed | 0.00% | ~0 |
 | The Planner | 0.00% | ~0 |
 | Earth's Savior | 0.00% | ~0 |
 | Iron Fist | 0.00% | ~0 |
 | The Exterminator | 0.00% | ~0 |
-| The Legend | 0.00% | ~0 |
 | You can't fool me! | 0.00% | ~0 |
 | The Collector | 0.00% | ~0 |
 | The Broken Guard | 0.00% | ~0 |

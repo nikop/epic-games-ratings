@@ -17,7 +17,7 @@ Rating: 4.57 (Ranked 475)
 | The merciful one | 45.00% | ~26 |
 | Ladies' man | 43.00% | ~25 |
 | Ferocious wild boars | 31.00% | ~18 |
-| Idiot | 29.00% | ~17 |
+| Idiot | 31.00% | ~18 |
 | Wise man | 28.00% | ~16 |
 | Beast slayer | 28.00% | ~16 |
 | Ogre friend | 26.00% | ~15 |

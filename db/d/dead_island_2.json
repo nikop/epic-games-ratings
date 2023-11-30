@@ -7009,18 +7009,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 11963,
       "NumberOfAwardsMax": 7803
+    },
+    {
+      "Time": "2023-11-30T09:59:16.3699297+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11981,
+      "NumberOfAwardsMax": 7821
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11963,
-  "NumberOfAwardsMax": 7803,
+  "NumberOfAwards": 11981,
+  "NumberOfAwardsMax": 7821,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 7803
+      "Count": 7821
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7071,10 +7077,10 @@
       "Count": 502
     }
   ],
-  "EOS_Progressed": 727918,
-  "EOS_Completed": 2451,
-  "EOS_NewPlayers": 4937,
-  "EOS_NewCompleters": 24,
+  "EOS_Progressed": 727932,
+  "EOS_Completed": 2453,
+  "EOS_NewPlayers": 4932,
+  "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -32711,6 +32717,11 @@
       "Time": "2023-11-30T09:08:24.9991475+00:00",
       "NumProgressed": 727918,
       "NumCompleted": 2451
+    },
+    {
+      "Time": "2023-11-30T10:09:01.0215206+00:00",
+      "NumProgressed": 727932,
+      "NumCompleted": 2453
     }
   ],
   "TotalAchievements": 51,
@@ -32738,7 +32749,7 @@
       "Name": "Git Gutte!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14558
+      "UsersEstimate": 14559
     },
     {
       "ID": "ach_anger_management",
@@ -32786,7 +32797,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14558
+      "UsersEstimate": 14559
     },
     {
       "ID": "ach_contender",
@@ -32842,7 +32853,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14558
+      "UsersEstimate": 14559
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -32858,7 +32869,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5095
+      "UsersEstimate": 5096
     },
     {
       "ID": "ach_hazardous_materials",
@@ -32866,7 +32877,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14558
+      "UsersEstimate": 14559
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -32882,7 +32893,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14558
+      "UsersEstimate": 14559
     },
     {
       "ID": "ach_impressive_aim",
@@ -33002,7 +33013,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14558
+      "UsersEstimate": 14559
     },
     {
       "ID": "ach_survival_expert",
@@ -33058,7 +33069,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14558
+      "UsersEstimate": 14559
     },
     {
       "ID": "ach_well_known_survivor",
@@ -33129,22 +33140,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 727918,
-      "Completed": 2451
+      "Progressed": 727932,
+      "Completed": 2453
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 53460,
+      "Progressed": 53474,
       "Completed": 36615
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-30T02:21:14.3342391+00:00",
-  "LastChanged_Achievements": "2023-11-30T09:08:24.9991471+00:00",
+  "LastChanged": "2023-11-30T09:59:16.3699296+00:00",
+  "LastChanged_Achievements": "2023-11-30T10:09:01.0215202+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-30T08:58:23.0665671+00:00",
-  "LastUpdate_Achievements": "2023-11-30T09:08:24.9992908+00:00"
+  "LastUpdate_Ratings": "2023-11-30T09:59:16.3699301+00:00",
+  "LastUpdate_Achievements": "2023-11-30T10:09:01.0216436+00:00"
 }

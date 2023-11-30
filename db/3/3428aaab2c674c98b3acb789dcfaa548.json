@@ -8309,9 +8309,9 @@
       "Count": 1252
     }
   ],
-  "EOS_Progressed": 849444,
+  "EOS_Progressed": 849456,
   "EOS_Completed": 210,
-  "EOS_NewPlayers": 4652,
+  "EOS_NewPlayers": 4641,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -30504,6 +30504,11 @@
       "Time": "2023-11-30T09:08:10.945804+00:00",
       "NumProgressed": 849444,
       "NumCompleted": 210
+    },
+    {
+      "Time": "2023-11-30T10:08:21.8525594+00:00",
+      "NumProgressed": 849456,
+      "NumCompleted": 210
     }
   ],
   "TotalAchievements": 75,
@@ -30515,7 +30520,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 212361
+      "UsersEstimate": 212364
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -30555,7 +30560,7 @@
       "Name": "Blast Mastery",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 25483
+      "UsersEstimate": 25484
     },
     {
       "ID": "ACHIEVEMENT_CARAVAN_MASTER",
@@ -30579,7 +30584,7 @@
       "Name": "Cash Out",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8494
+      "UsersEstimate": 8495
     },
     {
       "ID": "ACHIEVEMENT_COMBAT_VETERAN",
@@ -30619,7 +30624,7 @@
       "Name": "Curios and Relics",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 25483
+      "UsersEstimate": 25484
     },
     {
       "ID": "ACHIEVEMENT_DESERT_SURVIVALIST",
@@ -30739,7 +30744,7 @@
       "Name": "Lead Dealer",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 42472
+      "UsersEstimate": 42473
     },
     {
       "ID": "ACHIEVEMENT_LITTLE_WHEEL",
@@ -30755,7 +30760,7 @@
       "Name": "Love the Bomb",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8494
+      "UsersEstimate": 8495
     },
     {
       "ID": "ACHIEVEMENT_MAKE_UP_YOUR_MIND",
@@ -30827,7 +30832,7 @@
       "Name": "No Gods, No Masters",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8494
+      "UsersEstimate": 8495
     },
     {
       "ID": "ACHIEVEMENT_NO_TUMBLER_FUMBLER",
@@ -30923,7 +30928,7 @@
       "Name": "Ring-a-Ding-Ding",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 42472
+      "UsersEstimate": 42473
     },
     {
       "ID": "ACHIEVEMENT_ROCKETS_RED_GLARE",
@@ -30971,7 +30976,7 @@
       "Name": "Talent Pool",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 8494
+      "UsersEstimate": 8495
     },
     {
       "ID": "ACHIEVEMENT_THAT_LUCKY_OL_SUN",
@@ -30995,7 +31000,7 @@
       "Name": "The Boss",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 25483
+      "UsersEstimate": 25484
     },
     {
       "ID": "ACHIEVEMENT_THE_COURIER_WHO_BROKE_THE_BANK",
@@ -31067,7 +31072,7 @@
       "Name": "Walker of the Mojave",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 42472
+      "UsersEstimate": 42473
     },
     {
       "ID": "ACHIEVEMENT_WARHEAD_HUNTER",
@@ -31083,7 +31088,7 @@
       "Name": "When We Remembered Zion",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 25483
+      "UsersEstimate": 25484
     },
     {
       "ID": "ACHIEVEMENT_WILD_CARD",
@@ -31091,7 +31096,7 @@
       "Name": "Wild Card",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8494
+      "UsersEstimate": 8495
     },
     {
       "ID": "ACHIEVEMENT_YOULL_KNOW_WHEN_IT_HAPPENS",
@@ -31107,20 +31112,20 @@
       "Name": "You Run Barter Town",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 42472
+      "UsersEstimate": 42473
     }
   ],
   "AchievementSets": [
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 849444,
+      "Progressed": 849456,
       "Completed": 253
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 849444,
+      "Progressed": 849456,
       "Completed": 210
     }
   ],
@@ -31128,8 +31133,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-11-30T05:01:23.8660038+00:00",
-  "LastChanged_Achievements": "2023-11-30T09:08:10.9458034+00:00",
+  "LastChanged_Achievements": "2023-11-30T10:08:21.852559+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:14.6747134+00:00",
-  "LastUpdate_Ratings": "2023-11-30T08:59:59.3226307+00:00",
-  "LastUpdate_Achievements": "2023-11-30T09:08:10.9459392+00:00"
+  "LastUpdate_Ratings": "2023-11-30T10:01:36.119228+00:00",
+  "LastUpdate_Achievements": "2023-11-30T10:08:21.8526913+00:00"
 }

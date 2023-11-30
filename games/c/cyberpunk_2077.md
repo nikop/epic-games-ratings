@@ -6,33 +6,33 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 11.00% | ~105,988 |
-| Gun Fu | 6.00% | ~57,812 |
-| The Fool | 5.00% | ~48,176 |
-| Right Back At Ya | 4.00% | ~38,541 |
-| The Lovers | 4.00% | ~38,541 |
-| Full Body Conversion | 2.00% | ~19,271 |
-| Stanislavski's Method | 2.00% | ~19,271 |
-| The Hermit | 2.00% | ~19,271 |
-| The Wheel of Fortune | 2.00% | ~19,271 |
-| True Soldier | 2.00% | ~19,271 |
-| Relic Ruler | 2.00% | ~1,843 |
-| Christmas Tree Attack | 1.00% | ~9,635 |
-| The Quick and the Dead | 1.00% | ~9,635 |
-| Life of the Road | 1.00% | ~9,635 |
-| The High Priestess | 1.00% | ~9,635 |
-| True Warrior | 1.00% | ~9,635 |
-| Legend of The Afterlife | 1.00% | ~9,635 |
-| All the President's Men | 1.00% | ~921 |
-| Arachnophobia | 1.00% | ~921 |
-| Bushido and Chill | 0.90% | ~8,672 |
-| The World | 0.90% | ~8,672 |
-| Master Crafter | 0.80% | ~7,708 |
-| Two Heads, One Bullet | 0.80% | ~7,708 |
+| V for Vendetta | 11.00% | ~105,997 |
+| Gun Fu | 6.00% | ~57,817 |
+| The Fool | 5.00% | ~48,181 |
+| Right Back At Ya | 4.00% | ~38,544 |
+| The Lovers | 4.00% | ~38,544 |
+| Full Body Conversion | 2.00% | ~19,272 |
+| Stanislavski's Method | 2.00% | ~19,272 |
+| The Hermit | 2.00% | ~19,272 |
+| The Wheel of Fortune | 2.00% | ~19,272 |
+| True Soldier | 2.00% | ~19,272 |
+| Relic Ruler | 2.00% | ~1,845 |
+| Christmas Tree Attack | 1.00% | ~9,636 |
+| The Quick and the Dead | 1.00% | ~9,636 |
+| Life of the Road | 1.00% | ~9,636 |
+| The High Priestess | 1.00% | ~9,636 |
+| True Warrior | 1.00% | ~9,636 |
+| Legend of The Afterlife | 1.00% | ~9,636 |
+| All the President's Men | 1.00% | ~922 |
+| Arachnophobia | 1.00% | ~922 |
+| Bushido and Chill | 0.90% | ~8,673 |
+| The World | 0.90% | ~8,673 |
+| Master Crafter | 0.80% | ~7,709 |
+| Two Heads, One Bullet | 0.80% | ~7,709 |
 | To Protect and Serve | 0.70% | ~6,745 |
 | I Am The Law | 0.70% | ~6,745 |
 | Judy vs Night City | 0.70% | ~6,745 |
-| Spin Doctor | 0.70% | ~645 |
+| Spin Doctor | 0.70% | ~646 |
 | Dirty Deeds | 0.60% | ~553 |
 | Easy Come, Easy Go | 0.60% | ~553 |
 | The Wandering Fool | 0.50% | ~4,818 |
@@ -44,11 +44,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | Must Be Rats | 0.30% | ~2,891 |
 | Breathtaking | 0.30% | ~2,891 |
 | The Star | 0.30% | ~2,891 |
-| The APB is Not Enough | 0.30% | ~276 |
-| Judgement Day | 0.30% | ~276 |
-| King of Pentacles | 0.30% | ~276 |
-| King of Swords | 0.30% | ~276 |
-| The Tower | 0.30% | ~276 |
+| The APB is Not Enough | 0.30% | ~277 |
+| Judgement Day | 0.30% | ~277 |
+| King of Pentacles | 0.30% | ~277 |
+| King of Swords | 0.30% | ~277 |
+| The Tower | 0.30% | ~277 |
 | Temperance | 0.20% | ~1,927 |
 | King of Cups | 0.20% | ~184 |
 | City Lights | 0.10% | ~964 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 963,526 (Ranked 15)  
-Completed: 2,824 (0.29%) (Ranked 238)  
+Progressed: 963,612 (Ranked 15)  
+Completed: 2,825 (0.29%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -298,15 +298,15 @@ Completed: 2,824 (0.29%) (Ranked 238)
 | 2023-11-27 | 955,649 | 2,818 |
 | 2023-11-28 | 960,226 | 2,821 |
 | 2023-11-29 | 962,972 | 2,823 |
-| 2023-11-30 | 963,526 | 2,824 |
+| 2023-11-30 | 963,612 | 2,825 |
 ## Awards
 Max (Character Customization): 111,778  (Ranked 9)  
-Sum: 373,584 (Ranked 9)  
+Sum: 374,156 (Ranked 9)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 111,778 |
-| This game has Great Boss Battles | 80,199 |
+| This game has Great Boss Battles | 80,771 |
 | This game is Great for Beginners | 22,542 |
 | This game has Diverse Characters | 22,147 |
 | This game is Highly Recommended | 21,150 |
@@ -634,4 +634,4 @@ Diff (max vs sum): 0
 | 2023-11-27 | 4.65 | - | 110,030 | 368,854 |
 | 2023-11-28 | 4.65 | - | 110,923 | 371,115 |
 | 2023-11-29 | 4.65 | - | 111,778 | 373,471 |
-| 2023-11-30 | 4.65 | - | 111,778 | 373,584 |
+| 2023-11-30 | 4.65 | - | 111,778 | 374,156 |

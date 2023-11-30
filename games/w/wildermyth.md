@@ -1,7 +1,7 @@
 # Wildermyth
 [Store](https://store.epicgames.com/en-US/p/wildermyth-593344)  
 [View Rawdata](../../db/w/wildermyth.json)  
-Rating: 4.78 (Ranked 107)  
+Rating: 4.78 (Ranked 106)  
 Number of Ratings: 45  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -28,6 +28,7 @@ Number of Ratings: 45  (23.09.2022)
 | Empty the Caves | 0.50% | ~7 |
 | Chain Reaction | 0.50% | ~7 |
 | Another Tale to Tell | 0.50% | ~7 |
+| Astrology | 0.50% | ~7 |
 | No Time for Clawmonsters | 0.50% | ~7 |
 | Everfading | 0.40% | ~6 |
 | Storied Past | 0.30% | ~4 |
@@ -37,7 +38,6 @@ Number of Ratings: 45  (23.09.2022)
 | All My Birds, Safely Home | 0.30% | ~4 |
 | Some Say I'm Too Flashy | 0.30% | ~4 |
 | Into Mulch | 0.30% | ~4 |
-| Astrology | 0.30% | ~4 |
 | Lochias's Hunger | 0.30% | ~4 |
 | No More Nightmares | 0.20% | ~3 |
 | In Soil, In Smoke | 0.20% | ~3 |
@@ -53,10 +53,10 @@ Number of Ratings: 45  (23.09.2022)
 | Back into the Sea | 0.10% | ~1 |
 | A Hunger, Sated | 0.10% | ~1 |
 | War-Ender | 0.10% | ~1 |
+| Fight Like a Bird | 0.10% | ~1 |
 | Grillmaster | 0.10% | ~1 |
 | Drauvenslayers | 0.00% | ~0 |
 | Peacemaker | 0.00% | ~0 |
-| Fight Like a Bird | 0.00% | ~0 |
 | Solid as the Hills | 0.00% | ~0 |
 | We Call That Mortificient! | 0.00% | ~0 |
 | Symbiosis | 0.00% | ~0 |

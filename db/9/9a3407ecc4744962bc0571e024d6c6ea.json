@@ -2656,9 +2656,9 @@
       "ID": "Relic",
       "SetID": "3ai6ml8",
       "Name": "Relic",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 766
+      "UsersEstimate": 776
     },
     {
       "ID": "SkeletonCrew",
@@ -2711,8 +2711,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-11-30T09:09:11.1364882+00:00",
+  "LastChanged_Achievements": "2023-11-30T10:10:03.7304638+00:00",
   "LastUpdate_AppInfo": "2023-11-29T20:57:24.7424697+00:00",
-  "LastUpdate_Ratings": "2023-11-30T08:58:40.0360582+00:00",
-  "LastUpdate_Achievements": "2023-11-30T09:09:11.1365085+00:00"
+  "LastUpdate_Ratings": "2023-11-30T09:59:41.5503786+00:00",
+  "LastUpdate_Achievements": "2023-11-30T10:10:03.7304863+00:00"
 }

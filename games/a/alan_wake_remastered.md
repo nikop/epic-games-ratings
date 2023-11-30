@@ -6,16 +6,16 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 58.00% | ~56,136 |
+| Follow the Light | 58.00% | ~56,137 |
 | Let There Be Light | 49.00% | ~47,426 |
 | Float Like a Butterfly | 47.00% | ~45,490 |
 | Nordic Walking | 39.00% | ~37,747 |
 | Bright Falls' Finest | 38.00% | ~36,779 |
 | Under a Thin Layer of Skin | 34.00% | ~32,908 |
-| Paging Mr. Wake | 29.00% | ~28,068 |
-| Park Ranger | 28.00% | ~27,100 |
-| Back! Back, I Say! | 27.00% | ~26,132 |
-| Finders Keepers | 27.00% | ~26,132 |
+| Paging Mr. Wake | 29.00% | ~28,069 |
+| Park Ranger | 28.00% | ~27,101 |
+| Back! Back, I Say! | 27.00% | ~26,133 |
+| Finders Keepers | 27.00% | ~26,133 |
 | Damn Good Cup of Coffee | 25.00% | ~24,197 |
 | They're Heeeeeere! | 24.00% | ~23,229 |
 | Sound and Fury | 24.00% | ~23,229 |
@@ -25,8 +25,8 @@ Number of Ratings: 524  (23.09.2022)
 | Iron Horse | 21.00% | ~20,325 |
 | Collateral Carnage | 21.00% | ~20,325 |
 | Come One, Come All | 21.00% | ~20,325 |
-| Heavy Metal | 20.00% | ~19,357 |
-| Perchance to Dream | 20.00% | ~19,357 |
+| Heavy Metal | 20.00% | ~19,358 |
+| Perchance to Dream | 20.00% | ~19,358 |
 | It's Not Just a Typewriter Brand | 19.00% | ~18,390 |
 | Thunder and Lightning | 19.00% | ~18,390 |
 | Gatekeeper | 18.00% | ~17,422 |
@@ -36,7 +36,7 @@ Number of Ratings: 524  (23.09.2022)
 | Right of Way | 15.00% | ~14,518 |
 | What Light Through Yonder Window | 14.00% | ~13,550 |
 | Tornado Wrangler | 13.00% | ~12,582 |
-| Departure | 12.00% | ~11,614 |
+| Departure | 12.00% | ~11,615 |
 | Hardboiled Writer | 10.00% | ~9,679 |
 | Drink 'Em Both Up | 9.00% | ~8,711 |
 | A Friend in Need | 9.00% | ~5,423 |
@@ -46,8 +46,8 @@ Number of Ratings: 524  (23.09.2022)
 | KBF-FM | 7.00% | ~6,775 |
 | A Friend Indeed | 7.00% | ~4,218 |
 | Ding! | 6.00% | ~3,615 |
-| Carny | 4.00% | ~3,871 |
-| An Idyllic Small Town | 4.00% | ~3,871 |
+| Carny | 4.00% | ~3,872 |
+| An Idyllic Small Town | 4.00% | ~3,872 |
 | Kill Your Darlings | 4.00% | ~2,410 |
 | Heartbreaker | 4.00% | ~2,410 |
 | Medical Opinions | 3.00% | ~2,904 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | No Punctuation | 0.20% | ~121 |
 | Licensed Properties | 0.20% | ~121 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96,787 (Ranked 90)  
+Progressed: 96,788 (Ranked 90)  
 Completed: 105 (0.11%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 105 (0.11%) (Ranked 280)
 | 2023-11-27 | 96,414 | 104 |
 | 2023-11-28 | 96,591 | 105 |
 | 2023-11-29 | 96,741 | 105 |
-| 2023-11-30 | 96,787 | 105 |
+| 2023-11-30 | 96,788 | 105 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

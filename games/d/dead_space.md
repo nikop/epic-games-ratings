@@ -5,31 +5,31 @@ Rating: 4.64 (Ranked 336)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 93.00% | ~1,908 |
-| Welcome Aboard | 85.00% | ~1,744 |
+| Marksman | 93.00% | ~1,909 |
+| Welcome Aboard | 85.00% | ~1,745 |
 | Lab Rat | 76.00% | ~1,560 |
-| All Systems Go | 67.00% | ~1,375 |
-| Brute Force | 66.00% | ~1,354 |
-| Cannon Fodder | 62.00% | ~1,272 |
-| Autofire | 58.00% | ~1,190 |
-| True Believer | 58.00% | ~1,190 |
+| All Systems Go | 67.00% | ~1,376 |
+| Brute Force | 66.00% | ~1,355 |
+| Cannon Fodder | 62.00% | ~1,273 |
+| Autofire | 58.00% | ~1,191 |
+| True Believer | 58.00% | ~1,191 |
 | Story Teller | 57.00% | ~1,170 |
-| Raise the Stakes | 56.00% | ~1,149 |
-| Surgeon | 54.00% | ~1,108 |
+| Raise the Stakes | 56.00% | ~1,150 |
+| Surgeon | 54.00% | ~1,109 |
 | Exterminator | 53.00% | ~1,088 |
 | Greenhouse Effect | 53.00% | ~1,088 |
-| Freeze | 52.00% | ~1,067 |
-| S.O.S. | 47.00% | ~964 |
+| Freeze | 52.00% | ~1,068 |
+| S.O.S. | 47.00% | ~965 |
 | Full Arsenal | 46.00% | ~944 |
-| Get Off My Ship! | 45.00% | ~923 |
-| Strange Transmissions | 45.00% | ~923 |
-| Wreckage | 44.00% | ~903 |
+| Get Off My Ship! | 45.00% | ~924 |
+| Strange Transmissions | 45.00% | ~924 |
+| Wreckage | 43.00% | ~883 |
 | Live with the Hot Ones | 42.00% | ~862 |
-| Keeper of the Faith | 41.00% | ~841 |
+| Keeper of the Faith | 41.00% | ~842 |
 | Betrayed | 40.00% | ~821 |
-| Exodus | 39.00% | ~800 |
-| Legend Teller | 39.00% | ~800 |
-| Mindless Prey | 39.00% | ~800 |
+| Exodus | 39.00% | ~801 |
+| Legend Teller | 39.00% | ~801 |
+| Mindless Prey | 39.00% | ~801 |
 | There's Always Peng! | 38.00% | ~780 |
 | Front Toward Enemy | 34.00% | ~698 |
 | A Cut Above | 33.00% | ~677 |
@@ -53,7 +53,7 @@ Rating: 4.64 (Ranked 336)
 | Untouchable | 2.00% | ~41 |
 | One Gun | 2.00% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,052 (Ranked 226)  
+Progressed: 2,053 (Ranked 226)  
 Completed: 13 (0.63%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 13 (0.63%) (Ranked 188)
 | 2023-11-27 | 2,021 | 13 |
 | 2023-11-28 | 2,037 | 13 |
 | 2023-11-29 | 2,048 | 13 |
-| 2023-11-30 | 2,052 | 13 |
+| 2023-11-30 | 2,053 | 13 |
 ## Awards
 Max (Great Boss Battles): 117  (Ranked 344)  
 Sum: 117 (Ranked 438)  

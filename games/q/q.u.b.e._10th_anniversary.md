@@ -20,17 +20,17 @@ Rating: 4.45 (Ranked 664)
 | Did That Work? -- No! | 5.00% | ~1,140 |
 | Master Room | 3.00% | ~684 |
 | Bronze Trophy | 2.00% | ~456 |
-| Phew! | 2.00% | ~456 |
 | The Puzzle Master | 2.00% | ~456 |
 | Completed It. | 2.00% | ~456 |
 | The Collector | 1.00% | ~228 |
 | Master Of The Collectables | 1.00% | ~228 |
 | Gold Trophy | 1.00% | ~228 |
 | Hopefully that's all of them! | 1.00% | ~228 |
+| Phew! | 1.00% | ~228 |
 | Silver Trophy | 1.00% | ~228 |
 | Maxed Out | 1.00% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,798 (Ranked 137)  
+Progressed: 22,801 (Ranked 137)  
 Completed: 120 (0.53%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 120 (0.53%) (Ranked 202)
 | 2023-11-27 | 22,417 | 110 |
 | 2023-11-28 | 22,582 | 115 |
 | 2023-11-29 | 22,743 | 119 |
-| 2023-11-30 | 22,798 | 120 |
+| 2023-11-30 | 22,801 | 120 |
 ## Awards
 Max (Challenging Puzzles): 20  (Ranked 549)  
 Sum: 20 (Ranked 550)  

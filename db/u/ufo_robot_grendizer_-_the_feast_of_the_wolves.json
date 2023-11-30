@@ -4,7 +4,7 @@
   "ProductSlug": "goldorak-d90cf1",
   "Ranking_EOS_Progress": 625,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 375,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -122,17 +122,17 @@
       "ID": "ACH_FIRSTLEGENDARYLOOT",
       "SetID": "ch874lb",
       "Name": "The Remains of Fleed",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FIRSTMEDITATION",
       "SetID": "ch874lb",
       "Name": "Life of Pi",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FIRSTSKINCHANGE",
@@ -146,9 +146,9 @@
       "ID": "ACH_FIRSTUPGRADE",
       "SetID": "ch874lb",
       "Name": "Technology first!",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FLEEDKEEPER",
@@ -194,9 +194,9 @@
       "ID": "ACH_LEGENDARYMATERIAL",
       "SetID": "ch874lb",
       "Name": "The Legend",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_PERFECTDODGE",
@@ -321,8 +321,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2023-11-30T09:08:51.4447517+00:00",
+  "LastChanged_Achievements": "2023-11-30T10:09:37.2169376+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:04.0837308+00:00",
-  "LastUpdate_Ratings": "2023-11-30T08:59:16.7949222+00:00",
-  "LastUpdate_Achievements": "2023-11-30T09:08:51.4447788+00:00"
+  "LastUpdate_Ratings": "2023-11-30T10:00:35.4476863+00:00",
+  "LastUpdate_Achievements": "2023-11-30T10:09:37.2169546+00:00"
 }

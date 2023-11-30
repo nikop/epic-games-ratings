@@ -20,9 +20,9 @@
 | Giant Lizard Killer | 26.00% | ~116 |
 | Guardian | 25.00% | ~112 |
 | Nosebleeder | 25.00% | ~112 |
+| Weapon Boost | 21.00% | ~94 |
 | Trader | 20.00% | ~89 |
-| Weapon Boost | 20.00% | ~89 |
-| Flying Kobold Killer | 16.00% | ~72 |
+| Flying Kobold Killer | 17.00% | ~76 |
 | Youth Magnet | 16.00% | ~72 |
 | Master Artificer | 16.00% | ~72 |
 | Furious Scorpion Killer | 15.00% | ~67 |
