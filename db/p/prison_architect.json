@@ -2,7 +2,7 @@
   "ID": "3ffb410dab2d409aacd39a1abc6fcbba",
   "Name": "Prison Architect",
   "ProductSlug": "prison-architect",
-  "Ranking_Rating": 387,
+  "Ranking_Rating": 388,
   "Ranking_Popularity": 199,
   "Ranking_PopularitySum": 146,
   "Ranking_EOS_Progress": 75,
@@ -7161,9 +7161,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 199117,
+  "EOS_Progressed": 199124,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 2248,
+  "EOS_NewPlayers": 2238,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32781,6 +32781,11 @@
       "Time": "2023-11-30T22:09:35.9384241+00:00",
       "NumProgressed": 199117,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-30T23:09:10.5481129+00:00",
+      "NumProgressed": 199124,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 16,
@@ -32824,7 +32829,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 31859
+      "UsersEstimate": 31860
     },
     {
       "ID": "Achievement_13",
@@ -32872,7 +32877,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 49779
+      "UsersEstimate": 49781
     },
     {
       "ID": "Achievement_5",
@@ -32919,15 +32924,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 199117,
+      "Progressed": 199124,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-11-30T21:58:46.7296545+00:00",
-  "LastChanged_Achievements": "2023-11-30T22:09:35.9384238+00:00",
+  "LastChanged_Achievements": "2023-11-30T23:09:10.5481124+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:12.7295199+00:00",
-  "LastUpdate_Ratings": "2023-11-30T21:58:46.7296551+00:00",
-  "LastUpdate_Achievements": "2023-11-30T22:09:35.9385805+00:00"
+  "LastUpdate_Ratings": "2023-11-30T22:58:16.8589569+00:00",
+  "LastUpdate_Achievements": "2023-11-30T23:09:10.5482128+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
@@ -2218,9 +2218,9 @@
       "Count": 255
     }
   ],
-  "EOS_Progressed": 216728,
+  "EOS_Progressed": 216733,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 1311,
+  "EOS_NewPlayers": 1307,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -27923,6 +27923,11 @@
       "Time": "2023-11-30T22:04:48.5150356+00:00",
       "NumProgressed": 216728,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-11-30T23:04:04.6704534+00:00",
+      "NumProgressed": 216733,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 44,
@@ -28006,7 +28011,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 26007
+      "UsersEstimate": 26008
     },
     {
       "ID": "HappyLittleAccidents",
@@ -28110,7 +28115,7 @@
       "Name": "Okkoto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 10836
+      "UsersEstimate": 10837
     },
     {
       "ID": "OldMan",
@@ -28134,7 +28139,7 @@
       "Name": "Prisoners",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10836
+      "UsersEstimate": 10837
     },
     {
       "ID": "ReleaseTheKraken",
@@ -28150,7 +28155,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17338
+      "UsersEstimate": 17339
     },
     {
       "ID": "Rollin",
@@ -28182,7 +28187,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17338
+      "UsersEstimate": 17339
     },
     {
       "ID": "TanukiTime",
@@ -28246,7 +28251,7 @@
       "Name": "Too Early",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10836
+      "UsersEstimate": 10837
     },
     {
       "ID": "Warzone",
@@ -28285,15 +28290,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 216728,
+      "Progressed": 216733,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-30T22:01:54.3996832+00:00",
-  "LastChanged_Achievements": "2023-11-30T22:04:48.5150352+00:00",
+  "LastChanged_Achievements": "2023-11-30T23:04:04.670453+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:23.8145991+00:00",
-  "LastUpdate_Ratings": "2023-11-30T22:01:54.3996838+00:00",
-  "LastUpdate_Achievements": "2023-11-30T22:04:48.5151659+00:00"
+  "LastUpdate_Ratings": "2023-11-30T23:00:30.8433002+00:00",
+  "LastUpdate_Achievements": "2023-11-30T23:04:04.6705663+00:00"
 }

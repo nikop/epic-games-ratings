@@ -871,9 +871,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3767,
+  "EOS_Progressed": 3768,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6366,6 +6366,11 @@
       "Time": "2023-11-30T22:03:46.7876587+00:00",
       "NumProgressed": 3767,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T23:03:16.9125103+00:00",
+      "NumProgressed": 3768,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -6402,7 +6407,7 @@
       "Name": "Stud Finder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 1544
+      "UsersEstimate": 1545
     },
     {
       "ID": "achievement_13",
@@ -6418,7 +6423,7 @@
       "Name": "Dealmaker",
       "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1469
+      "UsersEstimate": 1470
     },
     {
       "ID": "achievement_15",
@@ -6434,7 +6439,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "achievement_17",
@@ -6490,7 +6495,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "achievement_4",
@@ -6506,7 +6511,7 @@
       "Name": "Already in Progress",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "achievement_6",
@@ -6545,7 +6550,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3767,
+      "Progressed": 3768,
       "Completed": 0
     }
   ],
@@ -6553,8 +6558,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-11-30T00:00:12.6571835+00:00",
-  "LastChanged_Achievements": "2023-11-30T22:03:46.7876582+00:00",
+  "LastChanged_Achievements": "2023-11-30T23:03:16.9125098+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.624471+00:00",
-  "LastUpdate_Ratings": "2023-11-30T22:03:01.0032912+00:00",
-  "LastUpdate_Achievements": "2023-11-30T22:03:46.7877345+00:00"
+  "LastUpdate_Ratings": "2023-11-30T23:02:42.230657+00:00",
+  "LastUpdate_Achievements": "2023-11-30T23:03:16.9125891+00:00"
 }

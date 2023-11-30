@@ -17,8 +17,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Wyrdly Reconstructed | 63.00% | ~78,877 |
 | Resurrection | 62.00% | ~77,625 |
 | Boxcar Kid | 61.00% | ~76,373 |
+| Rush Hour | 61.00% | ~76,373 |
 | To Grandmother's House | 61.00% | ~76,373 |
-| Rush Hour | 60.00% | ~75,121 |
 | Serenity Now! | 54.00% | ~67,609 |
 | Hope Rekindled | 50.00% | ~62,600 |
 | Ramble On | 50.00% | ~62,600 |
@@ -41,8 +41,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Eyes Up | 22.00% | ~27,544 |
 | Road Trip | 22.00% | ~27,544 |
 | It Rings a Bell | 20.00% | ~25,040 |
+| Escape from the Black Hole | 19.00% | ~23,788 |
 | Dissector | 18.00% | ~22,536 |
-| Escape from the Black Hole | 18.00% | ~22,536 |
 | This Belongs in a Museum | 17.00% | ~21,284 |
 | It Happens | 17.00% | ~21,284 |
 | Handled | 16.00% | ~20,032 |

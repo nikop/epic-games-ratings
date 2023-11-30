@@ -9300,9 +9300,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 66730,
+  "EOS_Progressed": 66735,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 896,
+  "EOS_NewPlayers": 898,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32980,6 +32980,11 @@
       "Time": "2023-11-30T22:10:10.6814003+00:00",
       "NumProgressed": 66730,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T23:09:37.8094937+00:00",
+      "NumProgressed": 66735,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -32991,7 +32996,7 @@
       "Name": "Against all odds",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8675
+      "UsersEstimate": 8676
     },
     {
       "ID": "Apple of my eye",
@@ -32999,7 +33004,7 @@
       "Name": "Apple of my eye",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10677
+      "UsersEstimate": 10678
     },
     {
       "ID": "Bannerlord",
@@ -33007,7 +33012,7 @@
       "Name": "Bannerlord",
       "Percentage": 24,
       "XP": 65,
-      "UsersEstimate": 16015
+      "UsersEstimate": 16016
     },
     {
       "ID": "Best served cold",
@@ -33047,7 +33052,7 @@
       "Name": "Crowdfunded",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3336
+      "UsersEstimate": 3337
     },
     {
       "ID": "Crackshot",
@@ -33063,7 +33068,7 @@
       "Name": "Crush your enemies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3336
+      "UsersEstimate": 3337
     },
     {
       "ID": "Duelist",
@@ -33071,7 +33076,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6673
+      "UsersEstimate": 6674
     },
     {
       "ID": "Dynasty",
@@ -33079,7 +33084,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 6673
+      "UsersEstimate": 6674
     },
     {
       "ID": "Entrepreneur",
@@ -33119,7 +33124,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8675
+      "UsersEstimate": 8676
     },
     {
       "ID": "Great Granny",
@@ -33151,7 +33156,7 @@
       "Name": "Horde breaker",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 16015
+      "UsersEstimate": 16016
     },
     {
       "ID": "I can do it",
@@ -33159,7 +33164,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10677
+      "UsersEstimate": 10678
     },
     {
       "ID": "I spit on your grave",
@@ -33167,7 +33172,7 @@
       "Name": "I spit on your grave",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6673
+      "UsersEstimate": 6674
     },
     {
       "ID": "Jack of All Trades",
@@ -33183,7 +33188,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 12011
+      "UsersEstimate": 12012
     },
     {
       "ID": "Kingslayer",
@@ -33215,7 +33220,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 22021
+      "UsersEstimate": 22023
     },
     {
       "ID": "Lawbringer",
@@ -33223,7 +33228,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26692
+      "UsersEstimate": 26694
     },
     {
       "ID": "Lawmaker",
@@ -33231,7 +33236,7 @@
       "Name": "Lawmaker",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 16015
+      "UsersEstimate": 16016
     },
     {
       "ID": "Long live the Empire",
@@ -33247,7 +33252,7 @@
       "Name": "Mastery",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 5338
+      "UsersEstimate": 5339
     },
     {
       "ID": "Minor Clan",
@@ -33271,7 +33276,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3336
+      "UsersEstimate": 3337
     },
     {
       "ID": "Real Estate",
@@ -33325,9 +33330,9 @@
       "ID": "Supreme Emperor",
       "SetID": "den0lp1",
       "Name": "Supreme Emperor",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 200,
-      "UsersEstimate": 1335
+      "UsersEstimate": 667
     },
     {
       "ID": "Swordbearer",
@@ -33335,7 +33340,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6673
+      "UsersEstimate": 6674
     },
     {
       "ID": "The king is pleased",
@@ -33343,7 +33348,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12679
+      "UsersEstimate": 12680
     },
     {
       "ID": "This Is Our Land",
@@ -33351,7 +33356,7 @@
       "Name": "This Is Our Land",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 9342
+      "UsersEstimate": 9343
     },
     {
       "ID": "This is Sparta",
@@ -33367,15 +33372,15 @@
       "Name": "Trained",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 16015
+      "UsersEstimate": 16016
     },
     {
       "ID": "Undercover",
       "SetID": "den0lp1",
       "Name": "Undercover",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 534
+      "UsersEstimate": 601
     },
     {
       "ID": "Veni vidi vici",
@@ -33391,22 +33396,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6673
+      "UsersEstimate": 6674
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 66730,
+      "Progressed": 66735,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-30T19:02:31.7800571+00:00",
-  "LastChanged_Achievements": "2023-11-30T22:10:10.6813998+00:00",
+  "LastChanged_Achievements": "2023-11-30T23:09:37.8094932+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:24.2741585+00:00",
-  "LastUpdate_Ratings": "2023-11-30T21:02:38.6449924+00:00",
-  "LastUpdate_Achievements": "2023-11-30T22:10:10.6815132+00:00"
+  "LastUpdate_Ratings": "2023-11-30T22:57:09.031624+00:00",
+  "LastUpdate_Achievements": "2023-11-30T23:09:37.809623+00:00"
 }

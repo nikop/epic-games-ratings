@@ -2,7 +2,7 @@
   "ID": "d3f97f301cb746d5b6e15424edb28afc",
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
-  "Ranking_Rating": 387,
+  "Ranking_Rating": 388,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 258,
@@ -2989,9 +2989,9 @@
       "ID": "GSS_ACH_32_TRASH_03",
       "SetID": "5fn8ia4",
       "Name": "It has to be clean!",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 762
+      "UsersEstimate": 773
     },
     {
       "ID": "GSS_ACH_33_FLY",
@@ -3406,8 +3406,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-28T04:59:34.1023632+00:00",
-  "LastChanged_Achievements": "2023-11-30T22:05:55.9828212+00:00",
+  "LastChanged_Achievements": "2023-11-30T23:04:56.9277114+00:00",
   "LastUpdate_AppInfo": "2023-11-27T17:57:10.8459621+00:00",
-  "LastUpdate_Ratings": "2023-11-30T21:57:39.8336579+00:00",
-  "LastUpdate_Achievements": "2023-11-30T22:05:55.9828991+00:00"
+  "LastUpdate_Ratings": "2023-11-30T22:57:28.5824413+00:00",
+  "LastUpdate_Achievements": "2023-11-30T23:04:56.9277913+00:00"
 }

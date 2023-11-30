@@ -1,16 +1,16 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.61 (Ranked 387)  
+Rating: 4.61 (Ranked 388)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | But this one is mine | 4.00% | ~222 |
-| Realm Estate | 3.00% | ~166 |
-| A Wonderful Discovery | 3.00% | ~166 |
-| Secret Technique | 3.00% | ~166 |
-| Walls Cannot Stop Us | 3.00% | ~166 |
-| From Friends to Family | 3.00% | ~166 |
+| Realm Estate | 3.00% | ~167 |
+| A Wonderful Discovery | 3.00% | ~167 |
+| Secret Technique | 3.00% | ~167 |
+| Walls Cannot Stop Us | 3.00% | ~167 |
+| From Friends to Family | 3.00% | ~167 |
 | Valley of Wonders | 2.00% | ~111 |
 | There Can Only Be One! | 2.00% | ~111 |
 | Full Ascension | 2.00% | ~111 |
@@ -21,20 +21,20 @@ Rating: 4.61 (Ranked 387)
 | In a Liege of Your Own | 2.00% | ~111 |
 | Freed Lands of Manuhari | 2.00% | ~111 |
 | Chaos Surge | 2.00% | ~111 |
-| Return of the Wizard King | 1.00% | ~55 |
-| Enchanted Archipelago | 1.00% | ~55 |
-| Digging for Treasure | 1.00% | ~55 |
-| My Final Form | 1.00% | ~55 |
-| Fiery Friend | 1.00% | ~55 |
-| Impenetrable Fortress | 1.00% | ~55 |
-| Intimidation Tactics | 1.00% | ~55 |
-| Here be Dragons | 1.00% | ~55 |
-| Tipping the Scales | 1.00% | ~55 |
-| Mighty Hoard | 1.00% | ~55 |
-| Sehiran Oasis | 1.00% | ~55 |
-| Seal the Deal | 1.00% | ~55 |
-| Spoils of War | 1.00% | ~55 |
-| Dawn of the Dread | 1.00% | ~55 |
+| Return of the Wizard King | 1.00% | ~56 |
+| Enchanted Archipelago | 1.00% | ~56 |
+| Digging for Treasure | 1.00% | ~56 |
+| My Final Form | 1.00% | ~56 |
+| Fiery Friend | 1.00% | ~56 |
+| Impenetrable Fortress | 1.00% | ~56 |
+| Intimidation Tactics | 1.00% | ~56 |
+| Here be Dragons | 1.00% | ~56 |
+| Tipping the Scales | 1.00% | ~56 |
+| Mighty Hoard | 1.00% | ~56 |
+| Sehiran Oasis | 1.00% | ~56 |
+| Seal the Deal | 1.00% | ~56 |
+| Spoils of War | 1.00% | ~56 |
+| Dawn of the Dread | 1.00% | ~56 |
 | Preparation Is Everything | 0.90% | ~50 |
 | Blood of the Dragon | 0.90% | ~50 |
 | Prometheus Avenged | 0.90% | ~50 |
@@ -45,12 +45,12 @@ Rating: 4.61 (Ranked 387)
 | Lord of Chaos | 0.60% | ~33 |
 | Manufactured War | 0.60% | ~33 |
 | The Eternal Court | 0.60% | ~33 |
+| I've Got Everything I Need Right Here | 0.50% | ~28 |
 | God Emperor | 0.50% | ~28 |
 | Eternal Lord | 0.50% | ~28 |
 | Pruning for Progress | 0.50% | ~28 |
 | Grexolis | 0.50% | ~28 |
 | One for All, All for One | 0.50% | ~28 |
-| I've Got Everything I Need Right Here | 0.40% | ~22 |
 | The Goddess of Nature | 0.40% | ~22 |
 | Duality | 0.40% | ~22 |
 | Betrayal Most Foul | 0.30% | ~17 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 387)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,549 (Ranked 189)  
+Progressed: 5,551 (Ranked 189)  
 Completed: 7 (0.13%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 7 (0.13%) (Ranked 272)
 | 2023-11-27 | 5,524 | 7 |
 | 2023-11-28 | 5,536 | 7 |
 | 2023-11-29 | 5,544 | 7 |
-| 2023-11-30 | 5,549 | 7 |
+| 2023-11-30 | 5,551 | 7 |
 ## Awards
 Max (Great for Beginners): 35  (Ranked 477)  
 Sum: 84 (Ranked 461)  

@@ -28,9 +28,9 @@ Rating: 4.64 (Ranked 337)
 | Live with the Hot Ones | 41.00% | ~847 |
 | Betrayed | 40.00% | ~827 |
 | Legend Teller | 39.00% | ~806 |
+| Mindless Prey | 39.00% | ~806 |
 | Exodus | 38.00% | ~785 |
 | There's Always Peng! | 38.00% | ~785 |
-| Mindless Prey | 38.00% | ~785 |
 | Front Toward Enemy | 34.00% | ~703 |
 | A Cut Above | 33.00% | ~682 |
 | Set A Benchmark | 30.00% | ~620 |

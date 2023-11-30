@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 482,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1325,
+  "EOS_Progressed": 1326,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3078,6 +3078,11 @@
       "Time": "2023-11-30T07:09:06.5926137+00:00",
       "NumProgressed": 1325,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T23:09:21.8819787+00:00",
+      "NumProgressed": 1326,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3097,7 +3102,7 @@
       "Name": "Career criminal",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "CHEEKI_BREEKI_1",
@@ -3145,7 +3150,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "EXPERT_1",
@@ -3161,7 +3166,7 @@
       "Name": "Explorer",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "GHOSTBUSTER",
@@ -3209,7 +3214,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "LOVE_GURU_1",
@@ -3217,7 +3222,7 @@
       "Name": "Love Guru",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -3225,7 +3230,7 @@
       "Name": "Neanderthal",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "NO_NAME",
@@ -3313,7 +3318,7 @@
       "Name": "Savant",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "SECRET_ROOM",
@@ -3329,7 +3334,7 @@
       "Name": "Cosmic Horror",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "SUPERHUMAN_1",
@@ -3343,9 +3348,9 @@
       "ID": "TRAVELER_1",
       "SetID": "bf13m8j",
       "Name": "Traveler",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 332
     },
     {
       "ID": "VVE",
@@ -3376,15 +3381,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1325,
+      "Progressed": 1326,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-11-30T22:09:51.0367616+00:00",
+  "LastChanged_Achievements": "2023-11-30T23:09:21.8819784+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:23.5946943+00:00",
-  "LastUpdate_Ratings": "2023-11-30T21:59:19.5061128+00:00",
-  "LastUpdate_Achievements": "2023-11-30T22:09:51.0368061+00:00"
+  "LastUpdate_Ratings": "2023-11-30T22:58:41.1065946+00:00",
+  "LastUpdate_Achievements": "2023-11-30T23:09:21.8820063+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 532248,
+  "EOS_Progressed": 532249,
   "EOS_Completed": 503,
-  "EOS_NewPlayers": 374,
+  "EOS_NewPlayers": 372,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -24252,6 +24252,11 @@
       "Time": "2023-11-30T22:05:11.1619459+00:00",
       "NumProgressed": 532248,
       "NumCompleted": 503
+    },
+    {
+      "Time": "2023-11-30T23:04:21.7507982+00:00",
+      "NumProgressed": 532249,
+      "NumCompleted": 503
     }
   ],
   "TotalAchievements": 57,
@@ -24519,7 +24524,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 180964
+      "UsersEstimate": 180965
     },
     {
       "ID": "4",
@@ -24607,7 +24612,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 180964
+      "UsersEstimate": 180965
     },
     {
       "ID": "5",
@@ -24639,7 +24644,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 244834
+      "UsersEstimate": 244835
     },
     {
       "ID": "53",
@@ -24718,15 +24723,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 532248,
+      "Progressed": 532249,
       "Completed": 503
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-11-30T22:05:11.1619455+00:00",
+  "LastChanged_Achievements": "2023-11-30T23:04:21.7507977+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:56.9532267+00:00",
-  "LastUpdate_Ratings": "2023-11-30T22:00:38.18854+00:00",
-  "LastUpdate_Achievements": "2023-11-30T22:05:11.16213+00:00"
+  "LastUpdate_Ratings": "2023-11-30T22:59:37.8943025+00:00",
+  "LastUpdate_Achievements": "2023-11-30T23:04:21.7509281+00:00"
 }

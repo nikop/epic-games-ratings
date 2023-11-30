@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 484,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -490,9 +490,9 @@
       "ID": "AC_DEATH_ENEMIES_2",
       "SetID": "16i2akc",
       "Name": "Psycopath",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -657,8 +657,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-30T22:05:14.2264855+00:00",
+  "LastChanged_Achievements": "2023-11-30T23:04:24.1787887+00:00",
   "LastUpdate_AppInfo": "2023-11-28T18:57:05.8641658+00:00",
-  "LastUpdate_Ratings": "2023-11-30T21:57:16.7148696+00:00",
-  "LastUpdate_Achievements": "2023-11-30T22:05:14.226514+00:00"
+  "LastUpdate_Ratings": "2023-11-30T22:57:11.8741067+00:00",
+  "LastUpdate_Achievements": "2023-11-30T23:04:24.1788172+00:00"
 }

@@ -11,7 +11,7 @@
 | All Dead, All Dead | 41.00% | ~45 |
 | Misfire | 39.00% | ~43 |
 | The Invisible Man | 36.00% | ~40 |
-| The Miracle | 35.00% | ~38 |
+| The Miracle | 36.00% | ~40 |
 | We Will Rock You | 26.00% | ~29 |
 | Rock It | 23.00% | ~25 |
 | Friends Will Be Friends | 9.00% | ~10 |

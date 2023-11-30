@@ -4,7 +4,7 @@
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
   "Ranking_Rating": 572,
   "Ranking_Popularity": 317,
-  "Ranking_PopularitySum": 400,
+  "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 164,
@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16769,
+  "EOS_Progressed": 16770,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -15228,6 +15228,11 @@
       "Time": "2023-11-30T22:05:58.2207363+00:00",
       "NumProgressed": 16769,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-11-30T23:04:58.5565895+00:00",
+      "NumProgressed": 16770,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15319,7 +15324,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3018
+      "UsersEstimate": 3019
     },
     {
       "ID": "tpote_achievement_2",
@@ -15391,7 +15396,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3018
+      "UsersEstimate": 3019
     },
     {
       "ID": "tpote_achievement_28",
@@ -15431,7 +15436,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 3018
+      "UsersEstimate": 3019
     },
     {
       "ID": "tpote_achievement_32",
@@ -15551,7 +15556,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3521
+      "UsersEstimate": 3522
     },
     {
       "ID": "tpote_achievement_9",
@@ -15559,22 +15564,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5701
+      "UsersEstimate": 5702
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16769,
+      "Progressed": 16770,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-30T22:05:58.220736+00:00",
+  "LastChanged_Achievements": "2023-11-30T23:04:58.556589+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:06.2264545+00:00",
-  "LastUpdate_Ratings": "2023-11-30T22:01:20.3654679+00:00",
-  "LastUpdate_Achievements": "2023-11-30T22:05:58.2208423+00:00"
+  "LastUpdate_Ratings": "2023-11-30T23:00:06.7371925+00:00",
+  "LastUpdate_Achievements": "2023-11-30T23:04:58.5566723+00:00"
 }

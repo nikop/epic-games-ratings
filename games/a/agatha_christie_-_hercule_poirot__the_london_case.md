@@ -51,7 +51,7 @@
 | A perilous journey | 8.00% | ~3 |
 | Perkins | 8.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36 (Ranked 521)  
+Progressed: 36 (Ranked 522)  
 Completed: 1 (2.78%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -578,9 +578,9 @@
       "ID": "ACH_FINISH_GAME",
       "SetID": "cagp2pi",
       "Name": "Edda and Aven",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_FIRST_ABSORPTION",
@@ -658,9 +658,9 @@
       "ID": "ACH_YINYANG_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Yin-Yang",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
@@ -673,8 +673,8 @@
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-11-30T22:05:48.6825267+00:00",
+  "LastChanged_Achievements": "2023-11-30T23:04:51.1765351+00:00",
   "LastUpdate_AppInfo": "2023-11-24T13:56:57.9833029+00:00",
-  "LastUpdate_Ratings": "2023-11-30T22:01:51.2298776+00:00",
-  "LastUpdate_Achievements": "2023-11-30T22:05:48.6825372+00:00"
+  "LastUpdate_Ratings": "2023-11-30T23:00:28.3392029+00:00",
+  "LastUpdate_Achievements": "2023-11-30T23:04:51.1765528+00:00"
 }

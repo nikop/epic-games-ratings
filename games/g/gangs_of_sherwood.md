@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Act of Kindness | 90.00% | ~27 |
 | Air Fighter | 87.00% | ~26 |
-| Act of Kindness | 87.00% | ~26 |
 | The Altruist | 77.00% | ~23 |
-| Oo-De-Lally | 70.00% | ~21 |
+| Oo-De-Lally | 73.00% | ~22 |
 | Treasure Hunter | 70.00% | ~21 |
 | Watch your Step! | 63.00% | ~19 |
 | Tap Dancing | 60.00% | ~18 |

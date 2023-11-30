@@ -991,9 +991,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 540612,
+  "EOS_Progressed": 540616,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1202,
+  "EOS_NewPlayers": 1206,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26451,6 +26451,11 @@
       "Time": "2023-11-30T22:07:15.5307674+00:00",
       "NumProgressed": 540612,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-30T23:05:58.0415549+00:00",
+      "NumProgressed": 540616,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -26462,7 +26467,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 145965
+      "UsersEstimate": 145966
     },
     {
       "ID": "Backdoor",
@@ -26470,7 +26475,7 @@
       "Name": "Backdoor",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 135153
+      "UsersEstimate": 135154
     },
     {
       "ID": "BeforeYouWreckYourself",
@@ -26486,7 +26491,7 @@
       "Name": "Bet Bet Bet",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 54061
+      "UsersEstimate": 54062
     },
     {
       "ID": "BlindmansBluff",
@@ -26526,7 +26531,7 @@
       "Name": "Check Yourself",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 21624
+      "UsersEstimate": 21625
     },
     {
       "ID": "ChokeADozenDonkeys",
@@ -26558,7 +26563,7 @@
       "Name": "Cold Caller",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 216245
+      "UsersEstimate": 216246
     },
     {
       "ID": "DeadlyAssassin",
@@ -26566,7 +26571,7 @@
       "Name": "Deadly Assassin",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 86498
+      "UsersEstimate": 86499
     },
     {
       "ID": "DogEatDog",
@@ -26614,7 +26619,7 @@
       "Name": "Handy",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 227057
+      "UsersEstimate": 227059
     },
     {
       "ID": "HoldingYourOwn",
@@ -26654,7 +26659,7 @@
       "Name": "Moneymaker",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 21624
+      "UsersEstimate": 21625
     },
     {
       "ID": "NeverGiveUp",
@@ -26710,7 +26715,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 410865
+      "UsersEstimate": 410868
     },
     {
       "ID": "ProPlayer",
@@ -26734,7 +26739,7 @@
       "Name": "Rank Amateur",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 118935
+      "UsersEstimate": 118936
     },
     {
       "ID": "RegularPunter",
@@ -26790,7 +26795,7 @@
       "Name": "Three Way",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 102716
+      "UsersEstimate": 102717
     },
     {
       "ID": "TopDog",
@@ -26814,14 +26819,14 @@
       "Name": "W.H.I.P.",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 64873
+      "UsersEstimate": 64874
     }
   ],
   "AchievementSets": [
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 540612,
+      "Progressed": 540616,
       "Completed": 2
     }
   ],
@@ -26829,8 +26834,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-11-29T22:57:38.4069669+00:00",
-  "LastChanged_Achievements": "2023-11-30T22:07:15.5307671+00:00",
+  "LastChanged_Achievements": "2023-11-30T23:05:58.0415544+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:00.682354+00:00",
-  "LastUpdate_Ratings": "2023-11-30T21:58:47.2266927+00:00",
-  "LastUpdate_Achievements": "2023-11-30T22:07:15.530933+00:00"
+  "LastUpdate_Ratings": "2023-11-30T22:58:17.1459336+00:00",
+  "LastUpdate_Achievements": "2023-11-30T23:05:58.0416968+00:00"
 }

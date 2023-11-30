@@ -2837,9 +2837,9 @@
       "Count": 148
     }
   ],
-  "EOS_Progressed": 666368,
+  "EOS_Progressed": 666373,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1515,
+  "EOS_NewPlayers": 1514,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28462,6 +28462,11 @@
       "Time": "2023-11-30T22:10:01.3897606+00:00",
       "NumProgressed": 666368,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-30T23:09:30.4907274+00:00",
+      "NumProgressed": 666373,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -28473,7 +28478,7 @@
       "Name": "Stroller",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 99955
+      "UsersEstimate": 99956
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -28481,7 +28486,7 @@
       "Name": "Hiker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 79964
+      "UsersEstimate": 79965
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -28513,7 +28518,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 119946
+      "UsersEstimate": 119947
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -28793,7 +28798,7 @@
       "Name": "Climate Change",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 106619
+      "UsersEstimate": 106620
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -28881,22 +28886,22 @@
       "Name": "Saved by Nausica\u00E4",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 33318
+      "UsersEstimate": 33319
     }
   ],
   "AchievementSets": [
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 666368,
+      "Progressed": 666373,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-11-24T09:59:15.1264226+00:00",
-  "LastChanged_Achievements": "2023-11-30T22:10:01.3897603+00:00",
+  "LastChanged_Achievements": "2023-11-30T23:09:30.490727+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:04.271404+00:00",
-  "LastUpdate_Ratings": "2023-11-30T22:00:19.5248178+00:00",
-  "LastUpdate_Achievements": "2023-11-30T22:10:01.3899168+00:00"
+  "LastUpdate_Ratings": "2023-11-30T22:59:24.483605+00:00",
+  "LastUpdate_Achievements": "2023-11-30T23:09:30.4908416+00:00"
 }

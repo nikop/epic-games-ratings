@@ -18,7 +18,7 @@ Rating: 4.57 (Ranked 476)
 | Ladies' man | 42.00% | ~25 |
 | Ferocious wild boars | 31.00% | ~18 |
 | Idiot | 31.00% | ~18 |
-| Wise man | 27.00% | ~16 |
+| Wise man | 29.00% | ~17 |
 | Beast slayer | 27.00% | ~16 |
 | Ogre friend | 25.00% | ~15 |
 | Hard worker | 25.00% | ~15 |

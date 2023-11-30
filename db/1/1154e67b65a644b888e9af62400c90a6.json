@@ -3,8 +3,8 @@
   "Name": "Palia",
   "ProductSlug": "palia-0d428e",
   "Ranking_Rating": 611,
-  "Ranking_Popularity": 185,
-  "Ranking_PopularitySum": 223,
+  "Ranking_Popularity": 183,
+  "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 766,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 497,
@@ -1253,18 +1253,24 @@
       "Rating": 4.49,
       "NumberOfAwards": 1705,
       "NumberOfAwardsMax": 697
+    },
+    {
+      "Time": "2023-11-30T22:57:16.1779843+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 1743,
+      "NumberOfAwardsMax": 720
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1705,
-  "NumberOfAwardsMax": 697,
+  "NumberOfAwards": 1743,
+  "NumberOfAwardsMax": 720,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 697
+      "Count": 720
     },
     {
       "Text": "This game is Relaxing",
@@ -1294,13 +1300,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 107
+      "Count": 113
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 97
+      "Count": 106
     },
     {
       "Text": "This game has a Kind Community",
@@ -1345,8 +1351,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2023-11-30T21:57:22.6194077+00:00",
+  "LastChanged": "2023-11-30T22:57:16.1779841+00:00",
   "LastUpdate_AppInfo": "2023-11-28T19:57:03.5176823+00:00",
-  "LastUpdate_Ratings": "2023-11-30T21:57:22.6194081+00:00",
-  "LastUpdate_Achievements": "2023-11-30T22:05:17.5096395+00:00"
+  "LastUpdate_Ratings": "2023-11-30T22:57:16.1779846+00:00",
+  "LastUpdate_Achievements": "2023-11-30T23:04:26.6072238+00:00"
 }

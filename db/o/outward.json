@@ -6042,9 +6042,9 @@
       "ID": "ThroughFireAndFlame",
       "SetID": "c4hee28",
       "Name": "Through fire and flame.",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "VanquisherOfNightmares_52",
@@ -6082,8 +6082,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-11-28T01:47:09.603113+00:00",
-  "LastChanged_Achievements": "2023-11-30T22:04:25.1588482+00:00",
+  "LastChanged_Achievements": "2023-11-30T23:03:46.7032224+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:25.5279181+00:00",
-  "LastUpdate_Ratings": "2023-11-30T21:57:17.3240596+00:00",
-  "LastUpdate_Achievements": "2023-11-30T22:04:25.1589026+00:00"
+  "LastUpdate_Ratings": "2023-11-30T22:57:12.2531351+00:00",
+  "LastUpdate_Achievements": "2023-11-30T23:03:46.7032717+00:00"
 }

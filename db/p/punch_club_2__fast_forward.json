@@ -1905,9 +1905,9 @@
       "ID": "unlock_way",
       "SetID": "69co12a",
       "Name": "Your own way",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 128
     },
     {
       "ID": "work_promotion_1",
@@ -1929,9 +1929,9 @@
       "ID": "work_promotion_3",
       "SetID": "69co12a",
       "Name": "Employee of the year",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 214
     }
   ],
   "AchievementSets": [
@@ -1944,8 +1944,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-11-30T22:07:42.5326776+00:00",
+  "LastChanged_Achievements": "2023-11-30T23:06:18.9767645+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:14.0939135+00:00",
-  "LastUpdate_Ratings": "2023-11-30T21:58:34.3862445+00:00",
-  "LastUpdate_Achievements": "2023-11-30T22:07:42.5327283+00:00"
+  "LastUpdate_Ratings": "2023-11-30T22:58:08.4081978+00:00",
+  "LastUpdate_Achievements": "2023-11-30T23:06:18.9768132+00:00"
 }

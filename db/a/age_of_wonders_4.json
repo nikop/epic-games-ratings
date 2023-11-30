@@ -2,7 +2,7 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 387,
+  "Ranking_Rating": 388,
   "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 189,
@@ -507,9 +507,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5549,
+  "EOS_Progressed": 5551,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7687,6 +7687,11 @@
       "Time": "2023-11-30T20:04:44.8057764+00:00",
       "NumProgressed": 5549,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-30T23:04:04.976712+00:00",
+      "NumProgressed": 5551,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7720,9 +7725,9 @@
       "ID": "12",
       "SetID": "3aa2279",
       "Name": "I\u0027ve Got Everything I Need Right Here",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 28
     },
     {
       "ID": "13",
@@ -7746,7 +7751,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "16",
@@ -7786,7 +7791,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "20",
@@ -7810,7 +7815,7 @@
       "Name": "Realm Estate",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "23",
@@ -7818,7 +7823,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "24",
@@ -7826,7 +7831,7 @@
       "Name": "Secret Technique",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "25",
@@ -7834,7 +7839,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "26",
@@ -7850,7 +7855,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "28",
@@ -7858,7 +7863,7 @@
       "Name": "From Friends to Family",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "29",
@@ -7898,7 +7903,7 @@
       "Name": "My Final Form",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "33",
@@ -7930,7 +7935,7 @@
       "Name": "Fiery Friend",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "37",
@@ -7954,7 +7959,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "4",
@@ -7970,7 +7975,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "41",
@@ -8050,7 +8055,7 @@
       "Name": "Here be Dragons",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "46",
@@ -8058,7 +8063,7 @@
       "Name": "Tipping the Scales",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "47",
@@ -8082,7 +8087,7 @@
       "Name": "Mighty Hoard",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "50",
@@ -8106,7 +8111,7 @@
       "Name": "Sehiran Oasis",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "53",
@@ -8130,7 +8135,7 @@
       "Name": "Seal the Deal",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "56",
@@ -8146,7 +8151,7 @@
       "Name": "Spoils of War",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "58",
@@ -8154,7 +8159,7 @@
       "Name": "Dawn of the Dread",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "59",
@@ -8177,13 +8182,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5549,
+      "Progressed": 5551,
       "Completed": 4766
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5549,
+      "Progressed": 5551,
       "Completed": 7
     }
   ],
@@ -8191,8 +8196,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-29T19:59:17.4564892+00:00",
-  "LastChanged_Achievements": "2023-11-30T22:04:49.0485123+00:00",
+  "LastChanged_Achievements": "2023-11-30T23:04:04.9767115+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.6428194+00:00",
-  "LastUpdate_Ratings": "2023-11-30T22:01:24.564183+00:00",
-  "LastUpdate_Achievements": "2023-11-30T22:04:49.0485989+00:00"
+  "LastUpdate_Ratings": "2023-11-30T23:00:09.0774566+00:00",
+  "LastUpdate_Achievements": "2023-11-30T23:04:04.9767905+00:00"
 }

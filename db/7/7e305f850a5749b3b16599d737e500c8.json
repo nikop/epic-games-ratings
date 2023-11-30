@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 195,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 37.95,
   "EosHistory": [
@@ -1191,9 +1191,9 @@
       "ID": "Fixer",
       "SetID": "b7i210",
       "Name": "Fixer",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 115
     },
     {
       "ID": "Florist",
@@ -1255,9 +1255,9 @@
       "ID": "Samaritan",
       "SetID": "b7i210",
       "Name": "Samaritan",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 121
     },
     {
       "ID": "Street_food",
@@ -1294,8 +1294,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-11-30T22:03:54.271635+00:00",
+  "LastChanged_Achievements": "2023-11-30T23:03:22.6131669+00:00",
   "LastUpdate_AppInfo": "2023-11-28T06:57:03.7256389+00:00",
-  "LastUpdate_Ratings": "2023-11-30T22:00:42.4386652+00:00",
-  "LastUpdate_Achievements": "2023-11-30T22:03:54.2716515+00:00"
+  "LastUpdate_Ratings": "2023-11-30T22:59:40.8725452+00:00",
+  "LastUpdate_Achievements": "2023-11-30T23:03:22.613184+00:00"
 }

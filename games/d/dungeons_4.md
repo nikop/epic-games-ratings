@@ -28,8 +28,8 @@
 | Pure Dynamite! | 42.00% | ~213 |
 | Dungeonlord Gorgu | 39.00% | ~197 |
 | Shame! Shame! Shame! | 39.00% | ~197 |
+| Mana Cannon | 38.00% | ~192 |
 | The Cathedral of Light | 38.00% | ~192 |
-| Mana Cannon | 37.00% | ~187 |
 | Tanos' Crusade Against Thalya | 32.00% | ~162 |
 | Unstoppable Horde | 28.00% | ~142 |
 | All’s Well That Ends Evil | 28.00% | ~142 |
@@ -38,15 +38,15 @@
 | Hungry, Hungry Gorgu! | 23.00% | ~116 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 23.00% | ~116 |
 | Forbidden Knowledge | 23.00% | ~116 |
+| If Looks Could Kill | 23.00% | ~116 |
 | Ghost Pirates? Ghost Heroes! | 22.00% | ~111 |
-| If Looks Could Kill | 22.00% | ~111 |
 | The Finitude Drill | 20.00% | ~101 |
 | Stop Tanos! | 18.00% | ~91 |
 | Doom Hill | 18.00% | ~91 |
+| Bonus Evilness | 16.00% | ~81 |
 | Sabotage! | 16.00% | ~81 |
 | Brimstone Shaken, Not Stirred | 16.00% | ~81 |
 | Sacrificial Pit = Garbage Disposal? | 15.00% | ~76 |
-| Bonus Evilness | 15.00% | ~76 |
 | Raiders of the Lost Stone | 14.00% | ~71 |
 | The Rune Sockets of Finitude (Part 1) | 14.00% | ~71 |
 | My Little Torture Chamber | 13.00% | ~66 |

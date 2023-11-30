@@ -28,9 +28,9 @@
 | Handyman | 60.00% | ~214 |
 | Champion – starter pack | 60.00% | ~214 |
 | It's good to be alive | 60.00% | ~214 |
+| Employee of the year | 60.00% | ~214 |
 | Fight for life | 59.00% | ~210 |
 | Own four walls | 59.00% | ~210 |
-| Employee of the year | 59.00% | ~210 |
 | Little hacker | 58.00% | ~206 |
 | Intriguing candies | 58.00% | ~206 |
 | Legal courier | 55.00% | ~196 |
@@ -55,8 +55,8 @@
 | Undercover robot | 37.00% | ~132 |
 | Problems of cyborgs | 36.00% | ~128 |
 | Absolute Champion! | 36.00% | ~128 |
+| Your own way | 36.00% | ~128 |
 | Not little hacker | 35.00% | ~125 |
-| Your own way | 35.00% | ~125 |
 | Trap disarmed | 34.00% | ~121 |
 | The lonesome road | 34.00% | ~121 |
 | Key memories | 34.00% | ~121 |

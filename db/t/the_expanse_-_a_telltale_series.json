@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -241,9 +241,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15793,
+  "EOS_Progressed": 15794,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 449,
+  "EOS_NewPlayers": 448,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -12761,6 +12761,11 @@
       "Time": "2023-11-30T21:04:36.3057385+00:00",
       "NumProgressed": 15793,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-11-30T23:03:45.6409356+00:00",
+      "NumProgressed": 15794,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13035,9 +13040,9 @@
       "ID": "34",
       "SetID": "9nnpo9n",
       "Name": "Master Negotiator",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 52
+      "UsersEstimate": 70
     },
     {
       "ID": "35",
@@ -13052,22 +13057,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15793,
+      "Progressed": 15794,
       "Completed": 39
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1747,
-      "Completed": 763
+      "Progressed": 1748,
+      "Completed": 764
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-28T18:00:52.6774218+00:00",
-  "LastChanged_Achievements": "2023-11-30T22:04:23.6546892+00:00",
+  "LastChanged_Achievements": "2023-11-30T23:03:45.6409351+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-11-30T22:02:59.64825+00:00",
-  "LastUpdate_Achievements": "2023-11-30T22:04:23.6547762+00:00"
+  "LastUpdate_Ratings": "2023-11-30T23:02:41.2629375+00:00",
+  "LastUpdate_Achievements": "2023-11-30T23:03:45.6410124+00:00"
 }

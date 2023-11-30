@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lost forever | 3.00% | ~8 |
+| At least you tried | 2.00% | ~6 |
 | Silver Button | 2.00% | ~6 |
 | Minimalist lifestyle | 1.00% | ~3 |
 | I deliver the presents! | 1.00% | ~3 |
 | A new HOME | 1.00% | ~3 |
-| At least you tried | 1.00% | ~3 |
 | Golden Button | 1.00% | ~3 |
 | Golden Carrot | 1.00% | ~3 |
 | Golden Hat | 1.00% | ~3 |
@@ -23,7 +23,7 @@
 | Golden Scarf | 0.40% | ~1 |
 | Bling Bling | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 279 (Ranked 365)  
+Progressed: 280 (Ranked 364)  
 Completed: 1 (0.36%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,3 +89,4 @@ Completed: 1 (0.36%) (Ranked 228)
 | 2023-11-24 | 277 | 1 |
 | 2023-11-25 | 278 | 1 |
 | 2023-11-28 | 279 | 1 |
+| 2023-11-30 | 280 | 1 |

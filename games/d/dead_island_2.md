@@ -6,13 +6,13 @@ Rating: 4.54 (Ranked 528)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Whatever It Takes | 3.00% | ~1,613 |
-| Git Gutte! | 2.00% | ~14,564 |
-| Break A Leg | 2.00% | ~14,564 |
-| Coup de Grâce | 2.00% | ~14,564 |
-| Hazardous Materials | 2.00% | ~14,564 |
-| Hotel California | 2.00% | ~14,564 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,564 |
-| Welcome To Hell-A | 2.00% | ~14,564 |
+| Git Gutte! | 2.00% | ~14,565 |
+| Break A Leg | 2.00% | ~14,565 |
+| Coup de Grâce | 2.00% | ~14,565 |
+| Hazardous Materials | 2.00% | ~14,565 |
+| Hotel California | 2.00% | ~14,565 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,565 |
+| Welcome To Hell-A | 2.00% | ~14,565 |
 | One of Us | 2.00% | ~1,075 |
 | Pork Chopped | 2.00% | ~1,075 |
 | Dr. Reed, I Presume? | 1.00% | ~7,282 |
@@ -37,7 +37,7 @@ Rating: 4.54 (Ranked 528)
 | Max Headroom | 0.90% | ~6,554 |
 | Humanity Distilled | 0.80% | ~5,826 |
 | Down with the Sickness | 0.80% | ~5,826 |
-| Not Even My Final Form | 0.70% | ~5,097 |
+| Not Even My Final Form | 0.70% | ~5,098 |
 | Jumbo Keyring | 0.60% | ~4,369 |
 | Go, Bobcats! | 0.60% | ~4,369 |
 | Rising Star | 0.60% | ~4,369 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 528)
 | Bucket List | 0.10% | ~728 |
 | Wilhelm | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,214 (Ranked 21)  
+Progressed: 728,231 (Ranked 21)  
 Completed: 2,456 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 2,456 (0.34%) (Ranked 231)
 | 2023-11-27 | 726,753 | 2,443 |
 | 2023-11-28 | 727,374 | 2,447 |
 | 2023-11-29 | 727,809 | 2,450 |
-| 2023-11-30 | 728,214 | 2,456 |
+| 2023-11-30 | 728,231 | 2,456 |
 ## Awards
 Max (Great Boss Battles): 7,821  (Ranked 49)  
 Sum: 11,987 (Ranked 84)  
