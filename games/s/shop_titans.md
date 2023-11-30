@@ -16,16 +16,16 @@ Number of Ratings: 12,664  (23.09.2022)
 | Budding Merchant | 4.00% | ~5,717 |
 | Capitalism Ho! | 4.00% | ~5,717 |
 | Own the Means of Production | 4.00% | ~5,717 |
-| The Daily Grind | 3.00% | ~4,287 |
-| One Easy Payment | 3.00% | ~4,287 |
-| Some Assembly Required | 3.00% | ~4,287 |
-| Bounty Hunters | 3.00% | ~4,287 |
-| Flooding the Market | 3.00% | ~4,287 |
-| Where it Hurts | 3.00% | ~4,287 |
-| Pretty Penny | 3.00% | ~4,287 |
-| One-Armed Bandit | 3.00% | ~4,287 |
-| Dungeon Imports | 3.00% | ~4,287 |
-| Through Repetition, Perfection | 3.00% | ~4,287 |
+| The Daily Grind | 3.00% | ~4,288 |
+| One Easy Payment | 3.00% | ~4,288 |
+| Some Assembly Required | 3.00% | ~4,288 |
+| Bounty Hunters | 3.00% | ~4,288 |
+| Flooding the Market | 3.00% | ~4,288 |
+| Where it Hurts | 3.00% | ~4,288 |
+| Pretty Penny | 3.00% | ~4,288 |
+| One-Armed Bandit | 3.00% | ~4,288 |
+| Dungeon Imports | 3.00% | ~4,288 |
+| Through Repetition, Perfection | 3.00% | ~4,288 |
 | On the Path to Greatness | 2.00% | ~2,858 |
 | A Notch Above the Rest | 2.00% | ~2,858 |
 | Ascended | 2.00% | ~2,858 |
@@ -107,8 +107,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Eternal Crusade | 0.90% | ~1,286 |
 | The Greatest Grind | 0.70% | ~1,000 |
 | All or Nothing! | 0.70% | ~1,000 |
-| Anything not Nailed Down | 0.60% | ~857 |
-| Marvels from the World Over | 0.60% | ~857 |
+| Anything not Nailed Down | 0.60% | ~858 |
+| Marvels from the World Over | 0.60% | ~858 |
 | Bane of Legends | 0.50% | ~715 |
 | Ultimate Collector | 0.50% | ~715 |
 | Unleashed Potential | 0.50% | ~715 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~429 |
 | Capitalist Camaraderie | 0.20% | ~286 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,913 (Ranked 80)  
+Progressed: 142,918 (Ranked 80)  
 Completed: 289 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,15 +343,15 @@ Completed: 289 (0.20%) (Ranked 257)
 | 2023-11-27 | 142,546 | 278 |
 | 2023-11-28 | 142,735 | 284 |
 | 2023-11-29 | 142,879 | 289 |
-| 2023-11-30 | 142,913 | 289 |
+| 2023-11-30 | 142,918 | 289 |
 ## Awards
 Max (Great for Beginners): 4,858  (Ranked 75)  
-Sum: 27,633 (Ranked 50)  
+Sum: 27,637 (Ranked 50)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,858 |
-| This game is Relaxing | 4,049 |
+| This game is Relaxing | 4,053 |
 | This game has Quickly Understood Controls | 4,035 |
 | This game has Diverse Characters | 3,955 |
 | This game is Highly Recommended | 3,788 |
@@ -664,4 +664,4 @@ Diff (max vs sum): 25
 | 2023-11-27 | 3.99 | - | 4,848 | 27,609 |
 | 2023-11-28 | 3.99 | - | 4,851 | 27,621 |
 | 2023-11-29 | 3.99 | - | 4,855 | 27,625 |
-| 2023-11-30 | 3.99 | - | 4,858 | 27,633 |
+| 2023-11-30 | 3.99 | - | 4,858 | 27,637 |

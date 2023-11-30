@@ -4,8 +4,8 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 445,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2018-09-17T22:00:00+00:00",
@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 775,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1366,8 +1366,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-11-30T06:04:14.4315547+00:00",
+  "LastChanged_Achievements": "2023-11-30T07:04:14.5938333+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:56:57.1894294+00:00",
-  "LastUpdate_Ratings": "2023-11-30T06:00:01.4591913+00:00",
-  "LastUpdate_Achievements": "2023-11-30T06:04:14.4315802+00:00"
+  "LastUpdate_Ratings": "2023-11-30T07:00:13.444384+00:00",
+  "LastUpdate_Achievements": "2023-11-30T07:04:14.5938611+00:00"
 }

@@ -6,15 +6,15 @@ Rating: 4.44 (Ranked 679)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~1,860 |
-| Confirming Suspicions | 41.00% | ~1,622 |
+| Confirming Suspicions | 41.00% | ~1,623 |
 | The Kraken Wakes | 37.00% | ~1,464 |
-| It's Starting to Crack | 34.00% | ~1,345 |
+| It's Starting to Crack | 34.00% | ~1,346 |
 | Change the Channel | 31.00% | ~1,227 |
 | Lord of War | 30.00% | ~1,187 |
 | Taking it back | 29.00% | ~1,148 |
-| Resourceful | 27.00% | ~1,068 |
-| Target America | 27.00% | ~1,068 |
-| The Kraken Sleeps | 25.00% | ~989 |
+| Resourceful | 27.00% | ~1,069 |
+| Target America | 27.00% | ~1,069 |
+| The Kraken Sleeps | 25.00% | ~990 |
 | Liberté | 23.00% | ~910 |
 | Organ Grinder | 23.00% | ~910 |
 | As Quiet as a Mouse | 23.00% | ~910 |
@@ -32,13 +32,13 @@ Rating: 4.44 (Ranked 679)
 | No Stone Unturned | 14.00% | ~554 |
 | Opposing Force | 14.00% | ~554 |
 | Fields of Glory | 14.00% | ~554 |
-| Enemy at the Gates | 13.00% | ~514 |
-| Set Europe Ablaze | 13.00% | ~514 |
+| Enemy at the Gates | 13.00% | ~515 |
+| Set Europe Ablaze | 13.00% | ~515 |
 | Precision Is Key | 10.00% | ~396 |
 | My Little Friend | 10.00% | ~396 |
 | Rigged to Blow | 9.00% | ~356 |
 | Herr Today, Gone Tomorrow | 7.00% | ~274 |
-| Operation Foxley | 6.00% | ~234 |
+| Operation Foxley | 6.00% | ~235 |
 | The Long Game | 5.00% | ~198 |
 | Tinkerer | 5.00% | ~198 |
 | It'll Buff Right Out | 5.00% | ~198 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 679)
 | Stroll in the Woods | 0.60% | ~23 |
 | Going Overboard | 0.60% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,957 (Ranked 197)  
+Progressed: 3,958 (Ranked 197)  
 Completed: 11 (0.28%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 11 (0.28%) (Ranked 244)
 | 2023-11-27 | 3,945 | 11 |
 | 2023-11-28 | 3,949 | 11 |
 | 2023-11-29 | 3,955 | 11 |
-| 2023-11-30 | 3,957 | 11 |
+| 2023-11-30 | 3,958 | 11 |
 ## Awards
 Max (Great for Beginners): 27  (Ranked 512)  
 Sum: 27 (Ranked 526)  

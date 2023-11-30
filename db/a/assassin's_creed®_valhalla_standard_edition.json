@@ -4,11 +4,11 @@
   "ProductSlug": "assassins-creed-valhalla",
   "Ranking_Rating": 418,
   "Ranking_Popularity": 25,
-  "Ranking_PopularitySum": 38,
+  "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 764,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2020-11-17T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -12625,10 +12625,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 36430,
       "NumberOfAwardsMax": 15038
+    },
+    {
+      "Time": "2023-11-30T06:59:03.5022818+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 36447,
+      "NumberOfAwardsMax": 15038
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 36430,
+  "NumberOfAwards": 36447,
   "NumberOfAwardsMax": 15038,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12642,7 +12648,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 9754
+      "Count": 9771
     },
     {
       "Text": "This game is Highly Recommended",
@@ -12716,8 +12722,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2023-11-29T21:58:32.3902828+00:00",
+  "LastChanged": "2023-11-30T06:59:03.5022816+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:34.9937248+00:00",
-  "LastUpdate_Ratings": "2023-11-30T05:58:51.1180416+00:00",
-  "LastUpdate_Achievements": "2023-11-30T06:03:44.0461384+00:00"
+  "LastUpdate_Ratings": "2023-11-30T06:59:03.5022822+00:00",
+  "LastUpdate_Achievements": "2023-11-30T07:03:45.3890179+00:00"
 }

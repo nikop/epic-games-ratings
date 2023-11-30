@@ -7247,10 +7247,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27633,
       "NumberOfAwardsMax": 4858
+    },
+    {
+      "Time": "2023-11-30T07:02:59.6892625+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27637,
+      "NumberOfAwardsMax": 4858
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27633,
+  "NumberOfAwards": 27637,
   "NumberOfAwardsMax": 4858,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7288,7 +7294,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4049
+      "Count": 4053
     },
     {
       "Text": "This game has Playful Visuals",
@@ -7303,9 +7309,9 @@
       "Count": 3788
     }
   ],
-  "EOS_Progressed": 142913,
+  "EOS_Progressed": 142918,
   "EOS_Completed": 289,
-  "EOS_NewPlayers": 1845,
+  "EOS_NewPlayers": 1846,
   "EOS_NewCompleters": 95,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -30463,6 +30469,11 @@
       "Time": "2023-11-30T06:04:28.5321742+00:00",
       "NumProgressed": 142913,
       "NumCompleted": 289
+    },
+    {
+      "Time": "2023-11-30T07:04:28.711392+00:00",
+      "NumProgressed": 142918,
+      "NumCompleted": 289
     }
   ],
   "TotalAchievements": 112,
@@ -30474,7 +30485,7 @@
       "Name": "The Daily Grind",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4287
+      "UsersEstimate": 4288
     },
     {
       "ID": "advlevel02",
@@ -30554,7 +30565,7 @@
       "Name": "One Easy Payment",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4287
+      "UsersEstimate": 4288
     },
     {
       "ID": "bigsale02",
@@ -30578,7 +30589,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4287
+      "UsersEstimate": 4288
     },
     {
       "ID": "blueprint02",
@@ -30610,7 +30621,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4287
+      "UsersEstimate": 4288
     },
     {
       "ID": "boss02",
@@ -30746,7 +30757,7 @@
       "Name": "Flooding the Market",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4287
+      "UsersEstimate": 4288
     },
     {
       "ID": "craft03",
@@ -30778,7 +30789,7 @@
       "Name": "Where it Hurts",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4287
+      "UsersEstimate": 4288
     },
     {
       "ID": "damage02",
@@ -30954,7 +30965,7 @@
       "Name": "Pretty Penny",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4287
+      "UsersEstimate": 4288
     },
     {
       "ID": "gold03",
@@ -31026,7 +31037,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4287
+      "UsersEstimate": 4288
     },
     {
       "ID": "jackslot02",
@@ -31098,7 +31109,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4287
+      "UsersEstimate": 4288
     },
     {
       "ID": "loot02",
@@ -31122,7 +31133,7 @@
       "Name": "Anything not Nailed Down",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "master01",
@@ -31130,7 +31141,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4287
+      "UsersEstimate": 4288
     },
     {
       "ID": "master02",
@@ -31234,7 +31245,7 @@
       "Name": "Marvels from the World Over",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "rudo_a",
@@ -31369,15 +31380,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 142913,
+      "Progressed": 142918,
       "Completed": 289
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-11-30T05:02:59.1963115+00:00",
-  "LastChanged_Achievements": "2023-11-30T06:04:28.5321736+00:00",
+  "LastChanged": "2023-11-30T07:02:59.6892623+00:00",
+  "LastChanged_Achievements": "2023-11-30T07:04:28.7113918+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-11-30T06:02:58.9277583+00:00",
-  "LastUpdate_Achievements": "2023-11-30T06:04:28.5323559+00:00"
+  "LastUpdate_Ratings": "2023-11-30T07:02:59.6892628+00:00",
+  "LastUpdate_Achievements": "2023-11-30T07:04:28.7115778+00:00"
 }

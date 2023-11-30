@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 445,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
     "PcReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -396,17 +396,17 @@
       "ID": "beat_c1_diamond",
       "SetID": "3448go",
       "Name": "Wax On, Wax Off",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "beat_c1_gold",
       "SetID": "3448go",
       "Name": "Venture Time",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "beat_c1_silver",
@@ -908,9 +908,9 @@
       "ID": "trophies_10",
       "SetID": "3448go",
       "Name": "Look What I Found!",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "trophies_117",
@@ -979,8 +979,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-11-30T06:03:39.7215104+00:00",
+  "LastChanged_Achievements": "2023-11-30T07:03:41.3655826+00:00",
   "LastUpdate_AppInfo": "2023-11-30T02:19:29.0815732+00:00",
-  "LastUpdate_Ratings": "2023-11-30T05:58:30.9289628+00:00",
-  "LastUpdate_Achievements": "2023-11-30T06:03:39.721576+00:00"
+  "LastUpdate_Ratings": "2023-11-30T06:58:44.0560358+00:00",
+  "LastUpdate_Achievements": "2023-11-30T07:03:41.365645+00:00"
 }

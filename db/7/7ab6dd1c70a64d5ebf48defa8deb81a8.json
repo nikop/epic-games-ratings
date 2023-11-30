@@ -4,8 +4,8 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238,
+  "EOS_Progressed": 239,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -940,6 +940,11 @@
       "Time": "2023-11-30T05:09:58.3312092+00:00",
       "NumProgressed": 238,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-30T07:09:20.4667637+00:00",
+      "NumProgressed": 239,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 36,
@@ -949,9 +954,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_02",
@@ -967,7 +972,7 @@
       "Name": "Powerful Allies",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_04",
@@ -1047,7 +1052,7 @@
       "Name": "Adventurer",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_14",
@@ -1127,7 +1132,7 @@
       "Name": "Geared Up",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_24",
@@ -1151,7 +1156,7 @@
       "Name": "Scholar",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_27",
@@ -1238,14 +1243,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 238,
+      "Progressed": 239,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-30T06:09:38.1224192+00:00",
+  "LastChanged_Achievements": "2023-11-30T07:09:20.4667634+00:00",
   "LastUpdate_AppInfo": "2023-11-27T19:57:22.2061003+00:00",
-  "LastUpdate_Ratings": "2023-11-30T05:57:30.779769+00:00",
-  "LastUpdate_Achievements": "2023-11-30T06:09:38.1224474+00:00"
+  "LastUpdate_Ratings": "2023-11-30T06:57:43.9368361+00:00",
+  "LastUpdate_Achievements": "2023-11-30T07:09:20.4667888+00:00"
 }

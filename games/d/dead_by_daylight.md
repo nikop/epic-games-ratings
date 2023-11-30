@@ -8,6 +8,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | ---- | ---------- | ----- |
 | It wakes | 0.30% | ~3,164 |
 | Skillful | 0.30% | ~3,164 |
+| No one left behind | 0.20% | ~2,109 |
 | Medic | 0.20% | ~2,109 |
 | Handyman | 0.20% | ~2,109 |
 | Zealous | 0.20% | ~2,109 |
@@ -15,6 +16,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Apt Survivor | 0.20% | ~2,109 |
 | Survival Treasures | 0.20% | ~2,109 |
 | I | 0.20% | ~2,109 |
+| II | 0.20% | ~2,109 |
 | Sorted | 0.20% | ~2,109 |
 | Healthy Obsession | 0.20% | ~2,109 |
 | Resurgence | 0.20% | ~2,109 |
@@ -34,7 +36,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Backdoor Escape | 0.10% | ~1,055 |
 | The Key to Escape | 0.10% | ~1,055 |
 | I've got your back | 0.10% | ~1,055 |
-| No one left behind | 0.10% | ~1,055 |
 | Nerves of steel | 0.10% | ~1,055 |
 | Perfect Escape | 0.10% | ~1,055 |
 | Perfect Killing | 0.10% | ~1,055 |
@@ -50,7 +51,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Trapper | 0.10% | ~1,055 |
 | Adept Wraith | 0.10% | ~1,055 |
 | Adept Hillbilly | 0.10% | ~1,055 |
-| II | 0.10% | ~1,055 |
 | III | 0.10% | ~1,055 |
 | III-50 | 0.10% | ~1,055 |
 | In the void she walks | 0.10% | ~1,055 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,055 |
 | Adept Good Guy | 0.10% | ~1,055 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,054,565 (Ranked 14)  
+Progressed: 1,054,634 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -463,7 +463,7 @@ Completed: 61 (0.01%) (Ranked 342)
 | 2023-11-27 | 1,048,888 | 61 |
 | 2023-11-28 | 1,050,827 | 61 |
 | 2023-11-29 | 1,053,910 | 61 |
-| 2023-11-30 | 1,054,565 | 61 |
+| 2023-11-30 | 1,054,634 | 61 |
 ## Awards
 Max (Diverse Characters): 36,896  (Ranked 15)  
 Sum: 280,728 (Ranked 12)  

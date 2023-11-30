@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -871,9 +871,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3763,
+  "EOS_Progressed": 3764,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6346,6 +6346,11 @@
       "Time": "2023-11-30T04:08:32.521228+00:00",
       "NumProgressed": 3763,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T07:08:25.9183057+00:00",
+      "NumProgressed": 3764,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -6390,7 +6395,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1994
+      "UsersEstimate": 1995
     },
     {
       "ID": "achievement_14",
@@ -6406,7 +6411,7 @@
       "Name": "MVP",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 1994
+      "UsersEstimate": 1995
     },
     {
       "ID": "achievement_16",
@@ -6525,7 +6530,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3763,
+      "Progressed": 3764,
       "Completed": 0
     }
   ],
@@ -6533,8 +6538,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-11-30T00:00:12.6571835+00:00",
-  "LastChanged_Achievements": "2023-11-30T06:08:41.9480884+00:00",
+  "LastChanged_Achievements": "2023-11-30T07:08:25.9183054+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.624471+00:00",
-  "LastUpdate_Ratings": "2023-11-30T06:02:44.4418668+00:00",
-  "LastUpdate_Achievements": "2023-11-30T06:08:41.9481192+00:00"
+  "LastUpdate_Ratings": "2023-11-30T07:02:45.4255717+00:00",
+  "LastUpdate_Achievements": "2023-11-30T07:08:25.9183446+00:00"
 }

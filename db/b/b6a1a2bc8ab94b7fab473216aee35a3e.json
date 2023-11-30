@@ -4,8 +4,8 @@
   "ProductSlug": "hotel-a-resort-simulator",
   "Ranking_EOS_Progress": 668,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -265,8 +265,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-07T20:06:29.6581139+00:00",
-  "LastChanged_Achievements": "2023-11-30T06:04:12.7226273+00:00",
+  "LastChanged_Achievements": "2023-11-30T07:04:12.9297812+00:00",
   "LastUpdate_AppInfo": "2023-11-24T02:17:11.7764128+00:00",
-  "LastUpdate_Ratings": "2023-11-30T05:59:18.8931882+00:00",
-  "LastUpdate_Achievements": "2023-11-30T06:04:12.7226413+00:00"
+  "LastUpdate_Ratings": "2023-11-30T06:59:31.882925+00:00",
+  "LastUpdate_Achievements": "2023-11-30T07:04:12.9297926+00:00"
 }

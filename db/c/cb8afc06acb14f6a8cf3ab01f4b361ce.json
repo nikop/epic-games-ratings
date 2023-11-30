@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 32,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -377,7 +377,7 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 321117,
+  "EOS_Progressed": 321134,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 4303,
   "EOS_NewCompleters": 0,
@@ -7837,6 +7837,11 @@
       "Time": "2023-11-30T06:04:09.0009891+00:00",
       "NumProgressed": 321117,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-30T07:04:09.3258926+00:00",
+      "NumProgressed": 321134,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -7849,7 +7854,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6422
+      "UsersEstimate": 6423
     },
     {
       "ID": "S02_BRDA",
@@ -7857,7 +7862,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6422
+      "UsersEstimate": 6423
     },
     {
       "ID": "S03_OTWA",
@@ -7881,7 +7886,7 @@
       "Name": "Back to your senses",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "S06_LWTC",
@@ -7985,7 +7990,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6422
+      "UsersEstimate": 6423
     },
     {
       "ID": "S19_CHALLENGES",
@@ -8017,7 +8022,7 @@
       "Name": "They won\u0027t last long",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "S23_ETHEREAL",
@@ -8079,9 +8084,9 @@
       "ID": "S30_DIAMOND",
       "SetID": "4j44ol8",
       "Name": "Bring it on!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 963
+      "UsersEstimate": 1285
     },
     {
       "ID": "S31_CHNG_DIAMOND",
@@ -8168,7 +8173,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 321117,
+      "Progressed": 321134,
       "Completed": 4
     }
   ],
@@ -8176,8 +8181,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-11-28T23:59:47.9302057+00:00",
-  "LastChanged_Achievements": "2023-11-30T06:04:09.0009885+00:00",
+  "LastChanged_Achievements": "2023-11-30T07:04:09.3258923+00:00",
   "LastUpdate_AppInfo": "2023-11-23T19:57:06.8100094+00:00",
-  "LastUpdate_Ratings": "2023-11-30T05:57:29.1486325+00:00",
-  "LastUpdate_Achievements": "2023-11-30T06:04:09.0010512+00:00"
+  "LastUpdate_Ratings": "2023-11-30T06:57:42.3673388+00:00",
+  "LastUpdate_Achievements": "2023-11-30T07:04:09.3259369+00:00"
 }

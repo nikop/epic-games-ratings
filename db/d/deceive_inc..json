@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,7 +289,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18949,
+  "EOS_Progressed": 18950,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
@@ -13314,6 +13314,11 @@
       "Time": "2023-11-30T06:03:58.3054704+00:00",
       "NumProgressed": 18949,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-30T07:03:59.0731629+00:00",
+      "NumProgressed": 18950,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13333,7 +13338,7 @@
       "Name": "License to Thrill",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "0003",
@@ -13341,7 +13346,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3221
+      "UsersEstimate": 3222
     },
     {
       "ID": "0004",
@@ -13437,7 +13442,7 @@
       "Name": "The terminals are not enough",
       "Percentage": 1,
       "XP": 115,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "0016",
@@ -13461,7 +13466,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1705
+      "UsersEstimate": 1706
     },
     {
       "ID": "0019",
@@ -13469,7 +13474,7 @@
       "Name": "Lose Another Day",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "0020",
@@ -13549,7 +13554,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2463
+      "UsersEstimate": 2464
     },
     {
       "ID": "0030",
@@ -13612,7 +13617,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18949,
+      "Progressed": 18950,
       "Completed": 4
     }
   ],
@@ -13620,8 +13625,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-11-30T06:03:58.3054702+00:00",
+  "LastChanged_Achievements": "2023-11-30T07:03:59.0731626+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:26.0982772+00:00",
-  "LastUpdate_Ratings": "2023-11-30T05:58:37.7725853+00:00",
-  "LastUpdate_Achievements": "2023-11-30T06:03:58.3055397+00:00"
+  "LastUpdate_Ratings": "2023-11-30T06:58:50.5768963+00:00",
+  "LastUpdate_Achievements": "2023-11-30T07:03:59.073254+00:00"
 }

@@ -11173,10 +11173,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 49473,
       "NumberOfAwardsMax": 24755
+    },
+    {
+      "Time": "2023-11-30T07:02:50.1146631+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 49476,
+      "NumberOfAwardsMax": 24755
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49473,
+  "NumberOfAwards": 49476,
   "NumberOfAwardsMax": 24755,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11196,7 +11202,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 1066
+      "Count": 1069
     },
     {
       "Text": "This game has Amazing Characters",
@@ -11253,9 +11259,9 @@
       "Count": 825
     }
   ],
-  "EOS_Progressed": 303612,
+  "EOS_Progressed": 303613,
   "EOS_Completed": 519,
-  "EOS_NewPlayers": 873,
+  "EOS_NewPlayers": 869,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -35363,6 +35369,11 @@
       "Time": "2023-11-30T05:09:58.1255201+00:00",
       "NumProgressed": 303612,
       "NumCompleted": 519
+    },
+    {
+      "Time": "2023-11-30T07:09:20.358312+00:00",
+      "NumProgressed": 303613,
+      "NumCompleted": 519
     }
   ],
   "TotalAchievements": 45,
@@ -35430,7 +35441,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36433
+      "UsersEstimate": 36434
     },
     {
       "ID": "PFA_17",
@@ -35502,7 +35513,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36433
+      "UsersEstimate": 36434
     },
     {
       "ID": "PFA_25",
@@ -35526,7 +35537,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 12144
+      "UsersEstimate": 12145
     },
     {
       "ID": "PFA_28",
@@ -35558,7 +35569,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36433
+      "UsersEstimate": 36434
     },
     {
       "ID": "PFA_31",
@@ -35574,7 +35585,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12144
+      "UsersEstimate": 12145
     },
     {
       "ID": "PFA_33",
@@ -35622,7 +35633,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 12144
+      "UsersEstimate": 12145
     },
     {
       "ID": "PFA_39",
@@ -35694,7 +35705,7 @@
       "Name": "The Wise Owl",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12144
+      "UsersEstimate": 12145
     },
     {
       "ID": "PFA_6",
@@ -35733,16 +35744,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303612,
+      "Progressed": 303613,
       "Completed": 519
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-30T04:00:30.6376319+00:00",
-  "LastChanged_Achievements": "2023-11-30T06:09:37.9636264+00:00",
+  "LastChanged": "2023-11-30T07:02:50.114663+00:00",
+  "LastChanged_Achievements": "2023-11-30T07:09:20.3583117+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7292094+00:00",
-  "LastUpdate_Ratings": "2023-11-30T06:02:49.3112617+00:00",
-  "LastUpdate_Achievements": "2023-11-30T06:09:37.9637684+00:00"
+  "LastUpdate_Ratings": "2023-11-30T07:02:50.1146634+00:00",
+  "LastUpdate_Achievements": "2023-11-30T07:09:20.3584604+00:00"
 }

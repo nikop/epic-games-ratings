@@ -7,8 +7,8 @@ Number of Ratings: 401  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sink Beneath the Waves | 36.00% | ~14,901 |
-| Sweet Sorrow | 18.00% | ~7,450 |
-| Rules the Waves | 17.00% | ~7,036 |
+| Sweet Sorrow | 18.00% | ~7,451 |
+| Rules the Waves | 17.00% | ~7,037 |
 | Thou, All-Shaking Thunder | 15.00% | ~6,209 |
 | Rival | 14.00% | ~5,795 |
 | Correspondent | 12.00% | ~4,967 |
@@ -19,10 +19,10 @@ Number of Ratings: 401  (23.09.2022)
 | The Fall of the House | 11.00% | ~4,553 |
 | Shipmate | 11.00% | ~4,553 |
 | One Year at Zee | 8.00% | ~3,311 |
-| Pupil | 7.00% | ~2,897 |
-| Salvager | 7.00% | ~2,897 |
-| Open Your Ears | 7.00% | ~2,897 |
-| The Ascent of Man | 7.00% | ~2,897 |
+| Pupil | 7.00% | ~2,898 |
+| Salvager | 7.00% | ~2,898 |
+| Open Your Ears | 7.00% | ~2,898 |
+| The Ascent of Man | 7.00% | ~2,898 |
 | Zee Fever | 5.00% | ~2,070 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,656 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,656 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~41 |
 | Ten Years at Zee | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,391 (Ranked 121)  
+Progressed: 41,393 (Ranked 121)  
 Completed: 4 (0.01%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 4 (0.01%) (Ranked 342)
 | 2023-11-27 | 41,295 | 4 |
 | 2023-11-28 | 41,343 | 4 |
 | 2023-11-29 | 41,382 | 4 |
-| 2023-11-30 | 41,391 | 4 |
+| 2023-11-30 | 41,393 | 4 |
 ## Awards
 Max (Character Customization): 219  (Ranked 281)  
 Sum: 292 (Ranked 367)  

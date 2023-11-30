@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -716,9 +716,9 @@
       "ID": "EndlessTricks",
       "SetID": "1jeo1g7",
       "Name": "Endless Tricks",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "EridanianChampionAchievement",
@@ -812,9 +812,9 @@
       "ID": "LoyalPartner",
       "SetID": "1jeo1g7",
       "Name": "Loyal Partner",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "MechanicIntegration",
@@ -1275,8 +1275,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-11-30T06:06:35.0544766+00:00",
+  "LastChanged_Achievements": "2023-11-30T07:06:31.2435045+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:14.6113679+00:00",
-  "LastUpdate_Ratings": "2023-11-30T05:58:17.2064947+00:00",
-  "LastUpdate_Achievements": "2023-11-30T06:06:35.054551+00:00"
+  "LastUpdate_Ratings": "2023-11-30T06:58:30.6597085+00:00",
+  "LastUpdate_Achievements": "2023-11-30T07:06:31.2435771+00:00"
 }

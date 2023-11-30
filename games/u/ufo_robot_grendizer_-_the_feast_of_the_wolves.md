@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Good Paint Job | 17.00% | ~1 |
+| A Good Paint Job | 14.00% | ~1 |
 | Gold Seeker | 0.00% | ~0 |
 | A Land of Peace | 0.00% | ~0 |
 | The Power of Friendship | 0.00% | ~0 |
@@ -35,7 +35,7 @@
 | The Vega Turtle | 0.00% | ~0 |
 | Vengeance of the Wolf | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 628)  
+Progressed: 7 (Ranked 625)  
 Completed: 0 (0.00%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -45,3 +45,4 @@ Completed: 0 (0.00%) (Ranked 362)
 | 2023-11-24 | 4 | 0 |
 | 2023-11-27 | 5 | 0 |
 | 2023-11-29 | 6 | 0 |
+| 2023-11-30 | 7 | 0 |

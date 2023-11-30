@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -9276,9 +9276,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 66660,
+  "EOS_Progressed": 66661,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 938,
+  "EOS_NewPlayers": 935,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32876,6 +32876,11 @@
       "Time": "2023-11-30T06:09:39.1792659+00:00",
       "NumProgressed": 66660,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T07:09:21.5129724+00:00",
+      "NumProgressed": 66661,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -32903,7 +32908,7 @@
       "Name": "Bannerlord",
       "Percentage": 24,
       "XP": 65,
-      "UsersEstimate": 15998
+      "UsersEstimate": 15999
     },
     {
       "ID": "Best served cold",
@@ -33047,7 +33052,7 @@
       "Name": "Horde breaker",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 15998
+      "UsersEstimate": 15999
     },
     {
       "ID": "I can do it",
@@ -33127,7 +33132,7 @@
       "Name": "Lawmaker",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 15998
+      "UsersEstimate": 15999
     },
     {
       "ID": "Long live the Empire",
@@ -33239,7 +33244,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12665
+      "UsersEstimate": 12666
     },
     {
       "ID": "This Is Our Land",
@@ -33247,7 +33252,7 @@
       "Name": "This Is Our Land",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 9332
+      "UsersEstimate": 9333
     },
     {
       "ID": "This is Sparta",
@@ -33263,7 +33268,7 @@
       "Name": "Trained",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 15998
+      "UsersEstimate": 15999
     },
     {
       "ID": "Undercover",
@@ -33294,15 +33299,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 66660,
+      "Progressed": 66661,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-29T21:00:12.4126572+00:00",
-  "LastChanged_Achievements": "2023-11-30T06:09:39.1792656+00:00",
+  "LastChanged_Achievements": "2023-11-30T07:09:21.5129721+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:24.2741585+00:00",
-  "LastUpdate_Ratings": "2023-11-30T06:00:13.8382089+00:00",
-  "LastUpdate_Achievements": "2023-11-30T06:09:39.1793893+00:00"
+  "LastUpdate_Ratings": "2023-11-30T07:00:26.4986448+00:00",
+  "LastUpdate_Achievements": "2023-11-30T07:09:21.5131223+00:00"
 }

@@ -13,6 +13,7 @@
 | Six's Song | 31.00% | ~5 |
 | Highly Sprung | 31.00% | ~5 |
 | I'm Losing You | 31.00% | ~5 |
+| Kitchen Hand | 31.00% | ~5 |
 | Not Alone | 31.00% | ~5 |
 | Rascal | 31.00% | ~5 |
 | So Close | 31.00% | ~5 |
@@ -22,12 +23,11 @@
 | Ashes in The Maw | 25.00% | ~4 |
 | End in Sight | 25.00% | ~4 |
 | Hard to the Core | 25.00% | ~4 |
-| Kitchen Hand | 25.00% | ~4 |
+| Is Anybody Out There? | 25.00% | ~4 |
 | Little Lost Things | 25.00% | ~4 |
-| Is Anybody Out There? | 19.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 16 (Ranked 581)  
-Completed: 2 (12.50%) (Ranked 34)  
+Completed: 3 (18.75%) (Ranked 22)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -44,3 +44,4 @@ Completed: 2 (12.50%) (Ranked 34)
 | 2023-10-19 | 13 | 1 |
 | 2023-11-16 | 13 | 2 |
 | 2023-11-20 | 16 | 2 |
+| 2023-11-30 | 16 | 3 |

@@ -3,12 +3,12 @@
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
   "Ranking_Rating": 948,
-  "Ranking_Popularity": 501,
+  "Ranking_Popularity": 502,
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -433,9 +433,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 43135,
+  "EOS_Progressed": 43136,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13733,6 +13733,11 @@
       "Time": "2023-11-30T05:07:07.3228796+00:00",
       "NumProgressed": 43135,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-30T07:05:52.682216+00:00",
+      "NumProgressed": 43136,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -13896,7 +13901,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3019
+      "UsersEstimate": 3020
     },
     {
       "ID": "CUFF_ATTACK",
@@ -14167,22 +14172,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 43135,
+      "Progressed": 43136,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 7972,
-      "Completed": 7972
+      "Progressed": 7973,
+      "Completed": 7973
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-11-29T18:00:42.1149813+00:00",
-  "LastChanged_Achievements": "2023-11-30T06:05:55.0127342+00:00",
+  "LastChanged_Achievements": "2023-11-30T07:05:52.6822157+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:10.8816772+00:00",
-  "LastUpdate_Ratings": "2023-11-30T06:02:49.0641059+00:00",
-  "LastUpdate_Achievements": "2023-11-30T06:05:55.0128169+00:00"
+  "LastUpdate_Ratings": "2023-11-30T07:02:49.8771024+00:00",
+  "LastUpdate_Achievements": "2023-11-30T07:05:52.6823018+00:00"
 }
