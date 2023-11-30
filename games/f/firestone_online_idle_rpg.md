@@ -1,34 +1,34 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.04 (Ranked 991)  
+Rating: 4.04 (Ranked 992)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,627 |
-| World Map | 78.00% | ~2,204 |
-| Temple of Eternals | 57.00% | ~1,610 |
-| Prestigious | 53.00% | ~1,497 |
-| Fellowship Power | 42.00% | ~1,186 |
+| Victor | 93.00% | ~2,629 |
+| World Map | 78.00% | ~2,205 |
+| Temple of Eternals | 57.00% | ~1,611 |
+| Prestigious | 53.00% | ~1,498 |
+| Fellowship Power | 42.00% | ~1,187 |
 | Guild Power | 24.00% | ~678 |
-| Prestigious x10 | 21.00% | ~593 |
+| Prestigious x10 | 21.00% | ~594 |
 | The game is on | 19.00% | ~537 |
-| Exotic Merchant | 17.00% | ~480 |
-| Full Party | 17.00% | ~480 |
+| Exotic Merchant | 17.00% | ~481 |
+| Full Party | 17.00% | ~481 |
 | Dragon Clicker | 16.00% | ~452 |
 | Miner Clicker | 16.00% | ~452 |
 | Inspection | 15.00% | ~424 |
 | Dragon Master | 14.00% | ~396 |
 | Enlightenment | 14.00% | ~396 |
 | Hero inspection | 14.00% | ~396 |
-| Lieutenant | 13.00% | ~367 |
+| Lieutenant | 13.00% | ~368 |
 | Milestone collector | 12.00% | ~339 |
 | Mysterious Rock | 12.00% | ~339 |
 | Natural Talent | 12.00% | ~339 |
 | Superior | 12.00% | ~339 |
 | The Unstoppable | 12.00% | ~339 |
 | Scientist | 11.00% | ~311 |
-| The power of Awakening | 10.00% | ~282 |
+| The power of Awakening | 10.00% | ~283 |
 | Challenger | 9.00% | ~254 |
 | Daily Quest Completionist | 9.00% | ~254 |
 | Doing My Part | 9.00% | ~254 |
@@ -39,11 +39,11 @@ Rating: 4.04 (Ranked 991)
 | Relic Of The Past | 9.00% | ~254 |
 | Scroll Master | 9.00% | ~254 |
 | Four Leaf Clover | 8.00% | ~226 |
-| Here We Go Again | 8.00% | ~226 |
 | Master Enchanter | 8.00% | ~226 |
 | The father of Dragons | 8.00% | ~226 |
 | Crystal Mining | 7.00% | ~198 |
 | Dragon Slayer | 7.00% | ~198 |
+| Here We Go Again | 7.00% | ~198 |
 | Trader | 7.00% | ~198 |
 | Blueprint Upgrades | 6.00% | ~170 |
 | Enchanting skill | 6.00% | ~170 |
@@ -64,11 +64,11 @@ Rating: 4.04 (Ranked 991)
 | Gear Enchanting | 3.00% | ~85 |
 | Mythic Power | 3.00% | ~85 |
 | What lies behind the bush | 3.00% | ~85 |
-| Cauldron Liberator | 2.00% | ~56 |
-| Enchanting skill x5 | 2.00% | ~56 |
-| Guardian Master | 2.00% | ~56 |
-| Pokerface | 2.00% | ~56 |
-| Titan Power | 2.00% | ~56 |
+| Cauldron Liberator | 2.00% | ~57 |
+| Enchanting skill x5 | 2.00% | ~57 |
+| Guardian Master | 2.00% | ~57 |
+| Pokerface | 2.00% | ~57 |
+| Titan Power | 2.00% | ~57 |
 | Angel Power | 1.00% | ~28 |
 | Conqueror | 1.00% | ~28 |
 | Enhanced War Machines | 1.00% | ~28 |
@@ -81,7 +81,7 @@ Rating: 4.04 (Ranked 991)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,825 (Ranked 213)  
+Progressed: 2,827 (Ranked 213)  
 Completed: 2 (0.07%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 2 (0.07%) (Ranked 302)
 | 2023-11-27 | 2,771 | 2 |
 | 2023-11-28 | 2,791 | 2 |
 | 2023-11-29 | 2,822 | 2 |
-| 2023-11-30 | 2,825 | 2 |
+| 2023-11-30 | 2,827 | 2 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 483)  
 Sum: 134 (Ranked 430)  

@@ -1,15 +1,15 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.40 (Ranked 739)  
+Rating: 4.40 (Ranked 740)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 11.00% | ~34,901 |
-| IT MAKES BOOM! | 7.00% | ~22,210 |
-| EXTRA BOOST | 5.00% | ~15,864 |
-| PROTECTED | 4.00% | ~12,691 |
-| PRO | 4.00% | ~12,691 |
+| ROOKIE | 11.00% | ~34,904 |
+| IT MAKES BOOM! | 7.00% | ~22,212 |
+| EXTRA BOOST | 5.00% | ~15,866 |
+| PROTECTED | 4.00% | ~12,692 |
+| PRO | 4.00% | ~12,692 |
 | HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,519 |
 | AGGRESSIVE RACER | 3.00% | ~9,519 |
 | A TIGER'S FEAR | 2.00% | ~6,346 |
@@ -24,14 +24,14 @@ Rating: 4.40 (Ranked 739)
 | DEFEAT OUR CHAMPION | 0.80% | ~2,538 |
 | THE EYE OF THE HUNTER | 0.70% | ~2,221 |
 | EXPERIENCED CREW | 0.60% | ~1,904 |
-| ACE DEFENDER | 0.50% | ~1,586 |
+| ACE DEFENDER | 0.50% | ~1,587 |
 | ACE BRAWLER | 0.40% | ~1,269 |
 | ACE TRICKSTER | 0.40% | ~1,269 |
 | FRAMED! | 0.30% | ~952 |
 | PERFECTLY POISED | 0.20% | ~635 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 317,285 (Ranked 52)  
-Completed: 364 (0.11%) (Ranked 281)  
+Progressed: 317,311 (Ranked 52)  
+Completed: 366 (0.12%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -250,10 +250,10 @@ Completed: 364 (0.11%) (Ranked 281)
 | 2023-11-27 | 315,001 | 338 |
 | 2023-11-28 | 315,946 | 344 |
 | 2023-11-29 | 316,923 | 349 |
-| 2023-11-30 | 317,285 | 364 |
+| 2023-11-30 | 317,311 | 366 |
 ## Awards
 Max (Great for Beginners): 96  (Ranked 369)  
-Sum: 687 (Ranked 298)  
+Sum: 689 (Ranked 298)  
 Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
@@ -266,7 +266,7 @@ Diff (max vs sum): 71
 | This game has a Competitive Community | 49 |
 | This game has Competitive Players | 47 |
 | This game is Extremely Fun | 46 |
-| This game has Quickly Understood Controls | 42 |
+| This game has Quickly Understood Controls | 44 |
 | This game has Amazing Storytelling | 41 |
 | This game is Relaxing | 41 |
 ## Ratings History
@@ -332,4 +332,4 @@ Diff (max vs sum): 71
 | 2023-11-27 | 4.39 | 89 | 665 |
 | 2023-11-28 | 4.40 | 93 | 675 |
 | 2023-11-29 | 4.40 | 93 | 682 |
-| 2023-11-30 | 4.40 | 96 | 687 |
+| 2023-11-30 | 4.40 | 96 | 689 |

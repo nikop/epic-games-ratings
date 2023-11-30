@@ -22,8 +22,8 @@
 | The Ascent | 52.00% | ~261 |
 | It's Warm and Cozy at Home | 52.00% | ~261 |
 | Hard Work | 47.00% | ~235 |
+| The Big Eaty | 47.00% | ~235 |
 | YOU SHALL NOT PASS! | 46.00% | ~230 |
-| The Big Eaty | 46.00% | ~230 |
 | Pure Dynamite! | 42.00% | ~210 |
 | “… like son” | 42.00% | ~210 |
 | Dungeonlord Gorgu | 38.00% | ~190 |
@@ -39,7 +39,7 @@
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 23.00% | ~115 |
 | Forbidden Knowledge | 22.00% | ~110 |
 | If Looks Could Kill | 22.00% | ~110 |
-| Ghost Pirates? Ghost Heroes! | 20.00% | ~100 |
+| Ghost Pirates? Ghost Heroes! | 21.00% | ~105 |
 | The Finitude Drill | 19.00% | ~95 |
 | Stop Tanos! | 18.00% | ~90 |
 | Doom Hill | 17.00% | ~85 |

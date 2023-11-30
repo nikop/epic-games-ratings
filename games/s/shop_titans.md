@@ -1,21 +1,21 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 1,006)  
+Rating: 3.99 (Ranked 1,007)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 6.00% | ~8,576 |
-| Basic in Bulk | 6.00% | ~8,576 |
-| Tinkle of Coins | 6.00% | ~8,576 |
-| Titan's First Steps | 6.00% | ~8,576 |
+| Sponsored by Argon | 6.00% | ~8,577 |
+| Basic in Bulk | 6.00% | ~8,577 |
+| Tinkle of Coins | 6.00% | ~8,577 |
+| Titan's First Steps | 6.00% | ~8,577 |
 | Disintermediation | 5.00% | ~7,147 |
-| Another Satisfied Customer | 4.00% | ~5,717 |
-| It's Free Real Estate | 4.00% | ~5,717 |
-| Budding Merchant | 4.00% | ~5,717 |
-| Capitalism Ho! | 4.00% | ~5,717 |
-| Own the Means of Production | 4.00% | ~5,717 |
+| Another Satisfied Customer | 4.00% | ~5,718 |
+| It's Free Real Estate | 4.00% | ~5,718 |
+| Budding Merchant | 4.00% | ~5,718 |
+| Capitalism Ho! | 4.00% | ~5,718 |
+| Own the Means of Production | 4.00% | ~5,718 |
 | The Daily Grind | 3.00% | ~4,288 |
 | One Easy Payment | 3.00% | ~4,288 |
 | Some Assembly Required | 3.00% | ~4,288 |
@@ -62,6 +62,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Natural 20 | 2.00% | ~2,859 |
 | Seasoned Journeyman | 2.00% | ~2,859 |
 | Did we pack lunch? | 2.00% | ~2,859 |
+| Attrition Mission | 2.00% | ~2,859 |
 | Black Friday Special | 2.00% | ~2,859 |
 | Magical Harmony | 2.00% | ~2,859 |
 | Special Ingredient | 2.00% | ~2,859 |
@@ -94,7 +95,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Bountiful Harvest | 1.00% | ~1,429 |
 | Precision Engineering | 1.00% | ~1,429 |
 | Scourge of the Seas | 1.00% | ~1,429 |
-| Attrition Mission | 1.00% | ~1,429 |
 | Glittering Collection | 1.00% | ~1,429 |
 | Treasure Trove | 1.00% | ~1,429 |
 | Moment of Respite | 1.00% | ~1,429 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~429 |
 | Capitalist Camaraderie | 0.20% | ~286 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,935 (Ranked 80)  
+Progressed: 142,944 (Ranked 80)  
 Completed: 290 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,7 +343,7 @@ Completed: 290 (0.20%) (Ranked 257)
 | 2023-11-27 | 142,546 | 278 |
 | 2023-11-28 | 142,735 | 284 |
 | 2023-11-29 | 142,879 | 289 |
-| 2023-11-30 | 142,935 | 290 |
+| 2023-11-30 | 142,944 | 290 |
 ## Awards
 Max (Great for Beginners): 4,858  (Ranked 75)  
 Sum: 27,637 (Ranked 50)  

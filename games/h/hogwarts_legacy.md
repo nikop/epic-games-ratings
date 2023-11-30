@@ -1,15 +1,15 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 129)  
+Rating: 4.76 (Ranked 130)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,580 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,581 |
 | First Class Student | 15.00% | ~45,544 |
 | Troll with the Punches | 14.00% | ~42,508 |
-| A Keen Sense of Spell | 13.00% | ~39,471 |
-| That's a Keeper | 13.00% | ~39,471 |
+| A Keen Sense of Spell | 13.00% | ~39,472 |
+| That's a Keeper | 13.00% | ~39,472 |
 | The Defender of Dragons | 12.00% | ~36,435 |
 | Loom for Improvement | 12.00% | ~36,435 |
 | A Talent for Spending | 12.00% | ~36,435 |
@@ -19,10 +19,10 @@ Rating: 4.76 (Ranked 129)
 | The Hero of Hogwarts | 11.00% | ~33,399 |
 | Challenge Accepted | 11.00% | ~33,399 |
 | Coasting Along | 11.00% | ~33,399 |
-| Followed the Butterflies | 10.00% | ~30,362 |
-| Rising From the Ashes | 10.00% | ~30,362 |
-| A Sallow Grave | 9.00% | ~27,326 |
-| The Spell Master | 9.00% | ~27,326 |
+| Followed the Butterflies | 10.00% | ~30,363 |
+| Rising From the Ashes | 10.00% | ~30,363 |
+| A Sallow Grave | 9.00% | ~27,327 |
+| The Spell Master | 9.00% | ~27,327 |
 | The Avenging Gazelle | 8.00% | ~24,290 |
 | Beast Friends | 8.00% | ~24,290 |
 | Flight the Good Flight | 8.00% | ~24,290 |
@@ -40,18 +40,18 @@ Rating: 4.76 (Ranked 129)
 | Put Down Roots | 3.00% | ~9,109 |
 | The Auror's Apprentice | 3.00% | ~9,109 |
 | Floo Around the World | 3.00% | ~9,109 |
-| The Good Samaritan | 2.00% | ~6,072 |
-| Rise to the Challenges | 2.00% | ~6,072 |
-| Demiguise Dread | 2.00% | ~6,072 |
-| Finishing Touches | 2.00% | ~6,072 |
-| A Forte for Achievement | 2.00% | ~6,072 |
+| The Good Samaritan | 2.00% | ~6,073 |
+| Rise to the Challenges | 2.00% | ~6,073 |
+| Demiguise Dread | 2.00% | ~6,073 |
+| Finishing Touches | 2.00% | ~6,073 |
+| A Forte for Achievement | 2.00% | ~6,073 |
 | Savvy Spender | 1.00% | ~3,036 |
 | Merlin's Beard! | 1.00% | ~3,036 |
 | Spilled Milk | 0.90% | ~2,733 |
 | The Nature of the Beast | 0.70% | ~2,125 |
 | Collector's Edition | 0.30% | ~911 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,625 (Ranked 54)  
+Progressed: 303,629 (Ranked 54)  
 Completed: 519 (0.17%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 519 (0.17%) (Ranked 266)
 | 2023-11-27 | 303,418 | 518 |
 | 2023-11-28 | 303,515 | 519 |
 | 2023-11-29 | 303,596 | 519 |
-| 2023-11-30 | 303,625 | 519 |
+| 2023-11-30 | 303,629 | 519 |
 ## Awards
 Max (Character Customization): 24,755  (Ranked 17)  
 Sum: 49,476 (Ranked 30)  

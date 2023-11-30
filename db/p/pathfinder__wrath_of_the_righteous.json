@@ -2,13 +2,13 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 129,
+  "Ranking_Rating": 130,
   "Ranking_Popularity": 122,
   "Ranking_PopularitySum": 120,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -17170,8 +17170,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-11-29T19:57:11.9715208+00:00",
-  "LastChanged_Achievements": "2023-11-30T12:09:10.5495723+00:00",
+  "LastChanged_Achievements": "2023-11-30T13:14:45.3704938+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:49.3159315+00:00",
-  "LastUpdate_Ratings": "2023-11-30T11:57:48.592068+00:00",
-  "LastUpdate_Achievements": "2023-11-30T12:09:10.549723+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:03:53.1696324+00:00",
+  "LastUpdate_Achievements": "2023-11-30T13:14:45.3706515+00:00"
 }

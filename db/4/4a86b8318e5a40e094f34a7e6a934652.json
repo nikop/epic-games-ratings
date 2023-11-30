@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 232,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.29,
   "EosHistory": [
@@ -1075,9 +1075,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 50,
-      "UsersEstimate": 160
+      "UsersEstimate": 162
     },
     {
       "ID": "BRING_PROSPERO",
@@ -1099,9 +1099,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 137
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -1226,8 +1226,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-11-30T12:04:25.9856109+00:00",
+  "LastChanged_Achievements": "2023-11-30T13:09:56.4005213+00:00",
   "LastUpdate_AppInfo": "2023-11-29T20:57:25.9655457+00:00",
-  "LastUpdate_Ratings": "2023-11-30T12:03:13.643316+00:00",
-  "LastUpdate_Achievements": "2023-11-30T12:04:25.9856235+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:08:44.6401442+00:00",
+  "LastUpdate_Achievements": "2023-11-30T13:09:56.400538+00:00"
 }

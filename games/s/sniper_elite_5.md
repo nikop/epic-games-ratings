@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.44 (Ranked 679)  
+Rating: 4.44 (Ranked 680)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -78,7 +78,7 @@ Rating: 4.44 (Ranked 679)
 | Going Overboard | 0.60% | ~23 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,958 (Ranked 197)  
-Completed: 11 (0.28%) (Ranked 244)  
+Completed: 11 (0.28%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,12 +2,12 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 506,
+  "Ranking_Rating": 507,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -241,7 +241,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15778,
+  "EOS_Progressed": 15779,
   "EOS_Completed": 39,
   "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 4,
@@ -12726,6 +12726,11 @@
       "Time": "2023-11-30T10:04:29.0759642+00:00",
       "NumProgressed": 15778,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-11-30T13:09:29.241383+00:00",
+      "NumProgressed": 15779,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12890,7 +12895,7 @@
       "Name": "Bosmang",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "28",
@@ -13017,13 +13022,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15778,
+      "Progressed": 15779,
       "Completed": 39
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1732,
+      "Progressed": 1733,
       "Completed": 755
     }
   ],
@@ -13031,8 +13036,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-28T18:00:52.6774218+00:00",
-  "LastChanged_Achievements": "2023-11-30T12:03:58.9596625+00:00",
+  "LastChanged_Achievements": "2023-11-30T13:09:29.2413828+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-11-30T12:03:00.3609429+00:00",
-  "LastUpdate_Achievements": "2023-11-30T12:03:58.9597321+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:06:41.8129556+00:00",
+  "LastUpdate_Achievements": "2023-11-30T13:09:29.2414454+00:00"
 }

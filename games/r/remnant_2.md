@@ -1,7 +1,7 @@
 # Remnant 2
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.75 (Ranked 148)  
+Rating: 4.75 (Ranked 150)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,6 +13,7 @@ Rating: 4.75 (Ranked 148)
 | Expanding Horizons | 0.40% | ~924 |
 | Quest for Survival | 0.40% | ~924 |
 | Familiar Face | 0.40% | ~924 |
+| Boss'n Up | 0.40% | ~924 |
 | Am I Seeing This? | 0.30% | ~693 |
 | Gleaming the Cube | 0.30% | ~693 |
 | Not So Special Now | 0.30% | ~693 |
@@ -21,8 +22,8 @@ Rating: 4.75 (Ranked 148)
 | Blue Goddess | 0.30% | ~693 |
 | Duality | 0.30% | ~693 |
 | Top Performer | 0.30% | ~693 |
+| Shhh...It's a Secret | 0.30% | ~693 |
 | Was This Supposed To Happen? | 0.30% | ~693 |
-| Boss'n Up | 0.30% | ~693 |
 | Almost There | 0.30% | ~693 |
 | Make Some Room | 0.30% | ~693 |
 | Good, But Could Be Better! | 0.30% | ~693 |
@@ -37,7 +38,6 @@ Rating: 4.75 (Ranked 148)
 | Madman's Paradise | 0.20% | ~462 |
 | The Agenda | 0.20% | ~462 |
 | Tall Tales | 0.20% | ~462 |
-| Shhh...It's a Secret | 0.20% | ~462 |
 | Bad Moon Rising | 0.20% | ~462 |
 | Strapped | 0.20% | ~462 |
 | Edgelord | 0.20% | ~462 |
@@ -45,6 +45,7 @@ Rating: 4.75 (Ranked 148)
 | Scrap Collector | 0.20% | ~462 |
 | Scrap Hoarder | 0.20% | ~462 |
 | All These Traits� | 0.20% | ~462 |
+| Carnage in C-Minor | 0.20% | ~462 |
 | The Ultimate Weapon | 0.20% | ~462 |
 | No One Should Have All That Power | 0.20% | ~462 |
 | Transmutate | 0.20% | ~462 |
@@ -57,11 +58,10 @@ Rating: 4.75 (Ranked 148)
 | Cutting Edge | 0.10% | ~231 |
 | The Collector | 0.10% | ~231 |
 | Proving Grounds | 0.10% | ~231 |
-| Carnage in C-Minor | 0.10% | ~231 |
 | Maxed Out! | 0.10% | ~231 |
 | A Foul Feast | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,940 (Ranked 69)  
+Progressed: 230,985 (Ranked 69)  
 Completed: 541 (0.23%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 541 (0.23%) (Ranked 250)
 | 2023-11-27 | 229,605 | 538 |
 | 2023-11-28 | 230,188 | 541 |
 | 2023-11-29 | 230,694 | 542 |
-| 2023-11-30 | 230,940 | 541 |
+| 2023-11-30 | 230,985 | 541 |
 ## Awards
 Max (Great Boss Battles): 2,518  (Ranked 104)  
 Sum: 6,174 (Ranked 129)  

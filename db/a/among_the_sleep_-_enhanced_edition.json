@@ -2,7 +2,7 @@
   "ID": "53ef2f4592684c4c97d6d32e40467274",
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
-  "Ranking_Rating": 846,
+  "Ranking_Rating": 847,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 91,
@@ -488,9 +488,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 94095,
+  "EOS_Progressed": 94100,
   "EOS_Completed": 426,
-  "EOS_NewPlayers": 651,
+  "EOS_NewPlayers": 654,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -25373,6 +25373,11 @@
       "Time": "2023-11-30T12:08:41.1180464+00:00",
       "NumProgressed": 94095,
       "NumCompleted": 426
+    },
+    {
+      "Time": "2023-11-30T13:14:16.2822377+00:00",
+      "NumProgressed": 94100,
+      "NumCompleted": 426
     }
   ],
   "TotalAchievements": 10,
@@ -25448,7 +25453,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 32933
+      "UsersEstimate": 32935
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -25456,22 +25461,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 10350
+      "UsersEstimate": 10351
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 94095,
+      "Progressed": 94100,
       "Completed": 426
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-10-29T15:00:28.7354435+00:00",
-  "LastChanged_Achievements": "2023-11-30T12:08:41.1180458+00:00",
+  "LastChanged_Achievements": "2023-11-30T13:14:16.2822373+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:06.9929583+00:00",
-  "LastUpdate_Ratings": "2023-11-30T12:03:13.2305189+00:00",
-  "LastUpdate_Achievements": "2023-11-30T12:08:41.1181988+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:08:44.2294398+00:00",
+  "LastUpdate_Achievements": "2023-11-30T13:14:16.2823631+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 907,
+  "Ranking_Rating": 908,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -541,7 +541,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8679,
+  "EOS_Progressed": 8680,
   "EOS_Completed": 60,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 1,
@@ -11516,6 +11516,11 @@
       "Time": "2023-11-30T11:07:04.6494142+00:00",
       "NumProgressed": 8679,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-11-30T13:12:11.3178122+00:00",
+      "NumProgressed": 8680,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 29,
@@ -11631,7 +11636,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1475
+      "UsersEstimate": 1476
     },
     {
       "ID": "ACH15",
@@ -11758,7 +11763,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8679,
+      "Progressed": 8680,
       "Completed": 60
     }
   ],
@@ -11766,8 +11771,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-11-24T13:06:28.1547378+00:00",
-  "LastChanged_Achievements": "2023-11-30T12:06:44.2831293+00:00",
+  "LastChanged_Achievements": "2023-11-30T13:12:11.3178117+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:05.6726179+00:00",
-  "LastUpdate_Ratings": "2023-11-30T11:59:56.1884404+00:00",
-  "LastUpdate_Achievements": "2023-11-30T12:06:44.2831857+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:06:01.0038151+00:00",
+  "LastUpdate_Achievements": "2023-11-30T13:12:11.3179352+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 527,
+  "Ranking_Rating": 528,
   "Ranking_Popularity": 49,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 21,
@@ -7077,9 +7077,9 @@
       "Count": 502
     }
   ],
-  "EOS_Progressed": 727963,
+  "EOS_Progressed": 727987,
   "EOS_Completed": 2453,
-  "EOS_NewPlayers": 4917,
+  "EOS_NewPlayers": 4911,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -32732,6 +32732,11 @@
       "Time": "2023-11-30T12:08:35.0002495+00:00",
       "NumProgressed": 727963,
       "NumCompleted": 2453
+    },
+    {
+      "Time": "2023-11-30T13:14:10.3848226+00:00",
+      "NumProgressed": 727987,
+      "NumCompleted": 2453
     }
   ],
   "TotalAchievements": 51,
@@ -32759,7 +32764,7 @@
       "Name": "Git Gutte!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14559
+      "UsersEstimate": 14560
     },
     {
       "ID": "ach_anger_management",
@@ -32807,7 +32812,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14559
+      "UsersEstimate": 14560
     },
     {
       "ID": "ach_contender",
@@ -32863,7 +32868,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14559
+      "UsersEstimate": 14560
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -32887,7 +32892,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14559
+      "UsersEstimate": 14560
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -32903,7 +32908,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14559
+      "UsersEstimate": 14560
     },
     {
       "ID": "ach_impressive_aim",
@@ -33023,7 +33028,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14559
+      "UsersEstimate": 14560
     },
     {
       "ID": "ach_survival_expert",
@@ -33079,7 +33084,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14559
+      "UsersEstimate": 14560
     },
     {
       "ID": "ach_well_known_survivor",
@@ -33103,7 +33108,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "ach_dark_magic",
@@ -33111,7 +33116,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1605
+      "UsersEstimate": 1606
     },
     {
       "ID": "ach_gardening_tools",
@@ -33127,7 +33132,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -33150,13 +33155,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 727963,
+      "Progressed": 727987,
       "Completed": 2453
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 53505,
+      "Progressed": 53529,
       "Completed": 36616
     }
   ],
@@ -33164,8 +33169,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-30T09:59:16.3699296+00:00",
-  "LastChanged_Achievements": "2023-11-30T12:08:35.0002492+00:00",
+  "LastChanged_Achievements": "2023-11-30T13:14:10.3848222+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-30T11:58:38.0147791+00:00",
-  "LastUpdate_Achievements": "2023-11-30T12:08:35.0003932+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:04:42.6053796+00:00",
+  "LastUpdate_Achievements": "2023-11-30T13:14:10.3849424+00:00"
 }

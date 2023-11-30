@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | All Set Up | 98.00% | ~679 |
-| Digital Casanova | 96.00% | ~665 |
+| Digital Casanova | 97.00% | ~672 |
 | Hold my Beer | 66.00% | ~457 |
 | Nueva Beginnings | 35.00% | ~243 |
 | Only Thyme Will Tell | 32.00% | ~222 |
 | We Go Again | 31.00% | ~215 |
 | Not Alone | 30.00% | ~208 |
 | Booty Call | 28.00% | ~194 |
-| In Contempt of Duvet | 26.00% | ~180 |
+| In Contempt of Duvet | 27.00% | ~187 |
 | Planting the Seed | 21.00% | ~146 |
 | Light Sleepers | 15.00% | ~104 |
 | Smooth Criminal | 8.00% | ~55 |

@@ -2,13 +2,13 @@
   "ID": "aeac94c7a11048758064b82f8f8d20ed",
   "Name": "Mount \u0026 Blade II: Bannerlord",
   "ProductSlug": "mount-and-blade-2",
-  "Ranking_Rating": 160,
+  "Ranking_Rating": 161,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -9208,24 +9208,30 @@
       "Rating": 4.74,
       "NumberOfAwards": 15504,
       "NumberOfAwardsMax": 7451
+    },
+    {
+      "Time": "2023-11-30T13:06:29.4496694+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15518,
+      "NumberOfAwardsMax": 7459
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15504,
-  "NumberOfAwardsMax": 7451,
+  "NumberOfAwards": 15518,
+  "NumberOfAwardsMax": 7459,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7451
+      "Count": 7459
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 949
+      "Count": 954
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9273,7 +9279,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 861
+      "Count": 862
     },
     {
       "Text": "This game has a Creative Community",
@@ -9288,7 +9294,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 66678,
+  "EOS_Progressed": 66682,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 922,
   "EOS_NewCompleters": 0,
@@ -32918,6 +32924,11 @@
       "Time": "2023-11-30T12:09:42.1464751+00:00",
       "NumProgressed": 66678,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T13:15:15.4633547+00:00",
+      "NumProgressed": 66682,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -32929,7 +32940,7 @@
       "Name": "Against all odds",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8668
+      "UsersEstimate": 8669
     },
     {
       "ID": "Apple of my eye",
@@ -32937,7 +32948,7 @@
       "Name": "Apple of my eye",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10668
+      "UsersEstimate": 10669
     },
     {
       "ID": "Bannerlord",
@@ -32945,7 +32956,7 @@
       "Name": "Bannerlord",
       "Percentage": 24,
       "XP": 65,
-      "UsersEstimate": 16003
+      "UsersEstimate": 16004
     },
     {
       "ID": "Best served cold",
@@ -33057,7 +33068,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8668
+      "UsersEstimate": 8669
     },
     {
       "ID": "Great Granny",
@@ -33089,7 +33100,7 @@
       "Name": "Horde breaker",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 16003
+      "UsersEstimate": 16004
     },
     {
       "ID": "I can do it",
@@ -33097,7 +33108,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10668
+      "UsersEstimate": 10669
     },
     {
       "ID": "I spit on your grave",
@@ -33121,7 +33132,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 12002
+      "UsersEstimate": 12003
     },
     {
       "ID": "Kingslayer",
@@ -33137,7 +33148,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4667
+      "UsersEstimate": 4668
     },
     {
       "ID": "Lance-a-lot",
@@ -33153,7 +33164,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 22004
+      "UsersEstimate": 22005
     },
     {
       "ID": "Lawbringer",
@@ -33161,7 +33172,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26671
+      "UsersEstimate": 26673
     },
     {
       "ID": "Lawmaker",
@@ -33169,7 +33180,7 @@
       "Name": "Lawmaker",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 16003
+      "UsersEstimate": 16004
     },
     {
       "ID": "Long live the Empire",
@@ -33185,7 +33196,7 @@
       "Name": "Mastery",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 5334
+      "UsersEstimate": 5335
     },
     {
       "ID": "Minor Clan",
@@ -33281,7 +33292,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12669
+      "UsersEstimate": 12670
     },
     {
       "ID": "This Is Our Land",
@@ -33305,7 +33316,7 @@
       "Name": "Trained",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 16003
+      "UsersEstimate": 16004
     },
     {
       "ID": "Undercover",
@@ -33336,15 +33347,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 66678,
+      "Progressed": 66682,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-11-30T12:00:26.193404+00:00",
-  "LastChanged_Achievements": "2023-11-30T12:09:42.1464748+00:00",
+  "LastChanged": "2023-11-30T13:06:29.4496692+00:00",
+  "LastChanged_Achievements": "2023-11-30T13:15:15.4633544+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:24.2741585+00:00",
-  "LastUpdate_Ratings": "2023-11-30T12:00:26.1934047+00:00",
-  "LastUpdate_Achievements": "2023-11-30T12:09:42.1465843+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:06:29.4496698+00:00",
+  "LastUpdate_Achievements": "2023-11-30T13:15:15.4634789+00:00"
 }

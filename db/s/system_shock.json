@@ -2,13 +2,13 @@
   "ID": "e49aaa31c1324e398e0b1029a0c6d390",
   "Name": "System Shock",
   "ProductSlug": "system-shock",
-  "Ranking_Rating": 254,
+  "Ranking_Rating": 255,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 656,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 497,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 498,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-05-30T15:00:00+00:00",
     "PcReleaseDate": "2023-05-30T15:00:00+00:00",
@@ -569,8 +569,8 @@
   "FirstSeenRating": "2023-06-14T13:58:13.4205723+00:00",
   "FirstSeenAchievements": "2023-05-26T00:04:35.1577542+00:00",
   "LastChanged": "2023-11-29T13:03:31.4344695+00:00",
-  "LastChanged_Achievements": "2023-11-30T12:05:27.8358744+00:00",
+  "LastChanged_Achievements": "2023-11-30T13:10:56.7902289+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:10.8240942+00:00",
-  "LastUpdate_Ratings": "2023-11-30T11:58:00.9301184+00:00",
-  "LastUpdate_Achievements": "2023-11-30T12:05:27.8359071+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:04:06.3293878+00:00",
+  "LastUpdate_Achievements": "2023-11-30T13:10:56.7902593+00:00"
 }

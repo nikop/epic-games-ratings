@@ -2,13 +2,13 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 446,
+  "Ranking_Rating": 447,
   "Ranking_Popularity": 272,
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1419,9 +1419,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 240438,
+  "EOS_Progressed": 240446,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1437,
+  "EOS_NewPlayers": 1432,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20514,6 +20514,11 @@
       "Time": "2023-11-30T12:09:06.9887927+00:00",
       "NumProgressed": 240438,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-30T13:14:41.8126215+00:00",
+      "NumProgressed": 240446,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -20925,7 +20930,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19235
+      "UsersEstimate": 19236
     },
     {
       "ID": "DwarfElf15Support",
@@ -20973,7 +20978,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 84153
+      "UsersEstimate": 84156
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -21021,7 +21026,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 21639
+      "UsersEstimate": 21640
     },
     {
       "ID": "FollowBraztok",
@@ -21228,21 +21233,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 240438,
+      "Progressed": 240446,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 240438,
+      "Progressed": 240446,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-28T10:58:38.4570753+00:00",
-  "LastChanged_Achievements": "2023-11-30T12:09:06.9887924+00:00",
+  "LastChanged_Achievements": "2023-11-30T13:14:41.8126211+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:00.6949957+00:00",
-  "LastUpdate_Ratings": "2023-11-30T11:59:47.8392231+00:00",
-  "LastUpdate_Achievements": "2023-11-30T12:09:06.9889282+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:05:51.3789567+00:00",
+  "LastUpdate_Achievements": "2023-11-30T13:14:41.8127562+00:00"
 }

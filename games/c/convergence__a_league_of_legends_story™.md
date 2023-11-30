@@ -1,13 +1,13 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.62 (Ranked 367)  
+Rating: 4.62 (Ranked 368)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 33.00% | ~312 |
+| Rail Rat | 27.00% | ~255 |
 | The Mysterious Stranger | 26.00% | ~246 |
-| Rail Rat | 26.00% | ~246 |
 | Immaculate Aim | 23.00% | ~217 |
 | Make Up For Lost Time | 22.00% | ~208 |
 | Time Flies | 22.00% | ~208 |

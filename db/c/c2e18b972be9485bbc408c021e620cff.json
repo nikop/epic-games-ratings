@@ -2,13 +2,13 @@
   "ID": "c2e18b972be9485bbc408c021e620cff",
   "Name": "Train Sim World\u00AE 4: Standard Edition",
   "ProductSlug": "train-sim-world-4",
-  "Ranking_Rating": 831,
+  "Ranking_Rating": 832,
   "Ranking_Popularity": 401,
   "Ranking_PopularitySum": 421,
   "Ranking_EOS_Progress": 764,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 497,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 498,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-09-26T17:00:00+00:00",
     "PcReleaseDate": "2023-09-26T17:00:00+00:00",
@@ -702,8 +702,8 @@
   "FirstSeenRating": "2023-09-28T19:59:46.8251254+00:00",
   "FirstSeenAchievements": "2023-08-15T22:07:16.7768201+00:00",
   "LastChanged": "2023-11-29T16:58:41.3753204+00:00",
-  "LastChanged_Achievements": "2023-11-30T12:04:42.548436+00:00",
+  "LastChanged_Achievements": "2023-11-30T13:10:12.6469504+00:00",
   "LastUpdate_AppInfo": "2023-11-29T01:48:51.2944902+00:00",
-  "LastUpdate_Ratings": "2023-11-30T11:59:27.505304+00:00",
-  "LastUpdate_Achievements": "2023-11-30T12:04:42.5484379+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:05:30.65437+00:00",
+  "LastUpdate_Achievements": "2023-11-30T13:10:12.6469537+00:00"
 }

@@ -1,23 +1,23 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.68 (Ranked 254)  
+Rating: 4.68 (Ranked 255)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,617 |
-| On the Top Step | 88.00% | ~5,259 |
-| Setting up for Success | 78.00% | ~4,661 |
-| Team Orders | 75.00% | ~4,482 |
+| Getting on the Step | 94.00% | ~5,618 |
+| On the Top Step | 88.00% | ~5,260 |
+| Setting up for Success | 78.00% | ~4,662 |
+| Team Orders | 75.00% | ~4,483 |
 | Engineer | 56.00% | ~3,347 |
-| Familiar Faces | 48.00% | ~2,868 |
+| Familiar Faces | 48.00% | ~2,869 |
 | Sharing the Love | 43.00% | ~2,570 |
 | Going the Extra Mile | 43.00% | ~2,570 |
-| Hitting a Season | 40.00% | ~2,390 |
+| Hitting a Season | 40.00% | ~2,391 |
 | A Dozen Pieces | 34.00% | ~2,032 |
 | Challenge Yourself | 34.00% | ~2,032 |
-| Making History | 32.00% | ~1,912 |
-| Network Success | 28.00% | ~1,673 |
+| Making History | 32.00% | ~1,913 |
+| Network Success | 28.00% | ~1,674 |
 | Writing a new Chapter | 26.00% | ~1,554 |
 | Spring Cleaning | 24.00% | ~1,434 |
 | Reduce | 21.00% | ~1,255 |
@@ -27,8 +27,8 @@ Rating: 4.68 (Ranked 254)
 | One for the Book | 17.00% | ~1,016 |
 | Proving Them Wrong | 17.00% | ~1,016 |
 | Gathering Dust | 16.00% | ~956 |
-| Oil and Water | 15.00% | ~896 |
-| Hitting a Bullseye | 15.00% | ~896 |
+| Oil and Water | 15.00% | ~897 |
+| Hitting a Bullseye | 15.00% | ~897 |
 | Lightning Round the World | 14.00% | ~837 |
 | Spinning Around | 14.00% | ~837 |
 | Eagle Eye | 13.00% | ~777 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 254)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,976 (Ranked 186)  
+Progressed: 5,977 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 0 (0.00%) (Ranked 362)
 | 2023-11-27 | 5,947 | 0 |
 | 2023-11-28 | 5,957 | 0 |
 | 2023-11-29 | 5,971 | 0 |
-| 2023-11-30 | 5,976 | 0 |
+| 2023-11-30 | 5,977 | 0 |
 ## Awards
 Max (Diverse Characters): 26  (Ranked 520)  
 Sum: 96 (Ranked 450)  

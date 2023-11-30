@@ -1,7 +1,7 @@
 # Songs of Conquest
 [Store](https://store.epicgames.com/en-US/p/songs-of-conquest)  
 [View Rawdata](../../db/s/songs_of_conquest.json)  
-Rating: 4.69 (Ranked 232)  
+Rating: 4.69 (Ranked 233)  
 Number of Ratings: 292  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -21,11 +21,11 @@ Number of Ratings: 292  (23.09.2022)
 | Venisti, Vidisti, Perdidisti | 3.00% | ~9 |
 | Such A Fungi | 2.00% | ~6 |
 | Landlord Extraordinaire | 2.00% | ~6 |
+| Trojan Horse | 2.00% | ~6 |
 | The Song of Stoutheart | 1.00% | ~3 |
 | This Spot's Taken | 1.00% | ~3 |
 | Deepstrike | 1.00% | ~3 |
 | Infernal Influence | 1.00% | ~3 |
-| Trojan Horse | 1.00% | ~3 |
 | Pyrrhic Victory | 1.00% | ~3 |
 | Death To Diplomacy | 0.70% | ~2 |
 | Versatile Wielder | 0.70% | ~2 |

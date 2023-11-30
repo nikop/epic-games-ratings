@@ -2,10 +2,10 @@
   "ID": "ef02301060454cfd8345fae625743294",
   "Name": "Sands of Aura",
   "ProductSlug": "sands-of-aura",
-  "Ranking_EOS_Progress": 451,
+  "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
     "PcReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 88,
+  "EOS_Progressed": 89,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -445,6 +445,11 @@
       "Time": "2023-11-29T21:06:14.7663827+00:00",
       "NumProgressed": 88,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T13:12:08.2423268+00:00",
+      "NumProgressed": 89,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-14T11:03:32.7947841+00:00",
@@ -535,7 +540,7 @@
       "ID": "COLLECT_ALL_BREW_RECIPES",
       "SetID": "cm0d613",
       "Name": "Sommelier",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -647,7 +652,7 @@
       "ID": "DEFEAT_BELFRY_SOLO",
       "SetID": "cm0d613",
       "Name": "Let Me Solo Them",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -655,7 +660,7 @@
       "ID": "DEFEAT_FERRUM_BOSSES",
       "SetID": "cm0d613",
       "Name": "Dousing a Venerable Flame",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -679,7 +684,7 @@
       "ID": "DISCOVER_ONCEMAN_TOWN",
       "SetID": "cm0d613",
       "Name": "The River Styx",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -839,7 +844,7 @@
       "ID": "SMITH_UPGRADE_1",
       "SetID": "cm0d613",
       "Name": "Advanced Armaments",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -857,7 +862,7 @@
       "Name": "Setting Sail",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "UBAANI_DEFEAT",
@@ -920,7 +925,7 @@
     {
       "ID": "cm0d613",
       "IsBase": true,
-      "Progressed": 88,
+      "Progressed": 89,
       "Completed": 0
     }
   ],
@@ -928,8 +933,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-11-30T12:06:41.0361962+00:00",
+  "LastChanged_Achievements": "2023-11-30T13:12:08.2423263+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:25.50781+00:00",
-  "LastUpdate_Ratings": "2023-11-30T12:00:28.3487277+00:00",
-  "LastUpdate_Achievements": "2023-11-30T12:06:41.0362438+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:06:31.5508223+00:00",
+  "LastUpdate_Achievements": "2023-11-30T13:12:08.2423629+00:00"
 }

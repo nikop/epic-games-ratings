@@ -1,7 +1,7 @@
 # The Caligula Effect 2
 [Store](https://store.epicgames.com/en-US/p/the-caligula-effect-2-a51f60)  
 [View Rawdata](../../db/t/the_caligula_effect_2.json)  
-Rating: 4.44 (Ranked 679)  
+Rating: 4.44 (Ranked 680)  
 Number of Ratings: 32  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -17,9 +17,9 @@ Number of Ratings: 32  (23.09.2022)
 | Behind the Curtain | 33.00% | ~80 |
 | Master of Surprise | 30.00% | ~72 |
 | Be Who You Wanna Be | 27.00% | ~65 |
+| Investment Ban-χ-ing | 25.00% | ~60 |
 | Counter Champion | 25.00% | ~60 |
 | Friendly Neighborhood | 24.00% | ~58 |
-| Investment Ban-χ-ing | 24.00% | ~58 |
 | Combo Commando | 24.00% | ~58 |
 | One-Track Mind | 23.00% | ~55 |
 | Nice Doing Business | 23.00% | ~55 |
@@ -28,9 +28,9 @@ Number of Ratings: 32  (23.09.2022)
 | The Greater Good | 20.00% | ~48 |
 | Depths of the Heart | 20.00% | ~48 |
 | Selfish Decisions | 19.00% | ~46 |
+| Extracurricular Affair | 19.00% | ~46 |
 | Lost Souls For Sale | 19.00% | ~46 |
 | Pulling Heartstrings | 18.00% | ~43 |
-| Extracurricular Affair | 18.00% | ~43 |
 | Trigger Finger | 18.00% | ~43 |
 | Hopes Rewarded | 17.00% | ~41 |
 | Guarding Guru | 17.00% | ~41 |

@@ -13,6 +13,7 @@
 | Hammer Time | 8.00% | ~3 |
 | Gibbing Love | 6.00% | ~2 |
 | Feel the Spark | 6.00% | ~2 |
+| Escape From M.C. | 6.00% | ~2 |
 | Head of the Snake | 3.00% | ~1 |
 | Barbecue Time | 3.00% | ~1 |
 | Vehicular Mayhem | 3.00% | ~1 |
@@ -21,7 +22,6 @@
 | Chief | 3.00% | ~1 |
 | Flawless Victory | 3.00% | ~1 |
 | For Science | 3.00% | ~1 |
-| Escape From M.C. | 3.00% | ~1 |
 | Restore Honor | 3.00% | ~1 |
 | Bring Down the Corp | 3.00% | ~1 |
 | Millionaire | 3.00% | ~1 |

@@ -2,7 +2,7 @@
   "ID": "f5d9b93771214e4cbd60506539d1cfc6",
   "Name": "Guacamelee! Super Turbo Championship Edition",
   "ProductSlug": "guacamelee-stce-7cdbc8",
-  "Ranking_Rating": 527,
+  "Ranking_Rating": 528,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 79,
@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 154778,
+  "EOS_Progressed": 154780,
   "EOS_Completed": 350,
-  "EOS_NewPlayers": 858,
+  "EOS_NewPlayers": 852,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -19943,6 +19943,11 @@
       "Time": "2023-11-30T12:05:55.9954722+00:00",
       "NumProgressed": 154778,
       "NumCompleted": 350
+    },
+    {
+      "Time": "2023-11-30T13:11:24.4558958+00:00",
+      "NumProgressed": 154780,
+      "NumCompleted": 350
     }
   ],
   "TotalAchievements": 31,
@@ -19962,7 +19967,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 108345
+      "UsersEstimate": 108346
     },
     {
       "ID": "EAwards_10",
@@ -19978,7 +19983,7 @@
       "Name": "Pollo Power",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 32503
+      "UsersEstimate": 32504
     },
     {
       "ID": "EAwards_12",
@@ -19986,7 +19991,7 @@
       "Name": "Last Straw",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 26312
+      "UsersEstimate": 26313
     },
     {
       "ID": "EAwards_13",
@@ -20002,7 +20007,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 60363
+      "UsersEstimate": 60364
     },
     {
       "ID": "EAwards_15",
@@ -20010,7 +20015,7 @@
       "Name": "No Encore!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18573
+      "UsersEstimate": 18574
     },
     {
       "ID": "EAwards_16",
@@ -20026,7 +20031,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 34051
+      "UsersEstimate": 34052
     },
     {
       "ID": "EAwards_18",
@@ -20034,7 +20039,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 34051
+      "UsersEstimate": 34052
     },
     {
       "ID": "EAwards_19",
@@ -20162,7 +20167,7 @@
       "Name": "Licking his Wounds",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18573
+      "UsersEstimate": 18574
     },
     {
       "ID": "EAwards_6",
@@ -20170,7 +20175,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 38694
+      "UsersEstimate": 38695
     },
     {
       "ID": "EAwards_7",
@@ -20194,14 +20199,14 @@
       "Name": "Nooks and Crannies",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18573
+      "UsersEstimate": 18574
     }
   ],
   "AchievementSets": [
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 154778,
+      "Progressed": 154780,
       "Completed": 350
     }
   ],
@@ -20209,8 +20214,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-11-30T12:05:55.995472+00:00",
+  "LastChanged_Achievements": "2023-11-30T13:11:24.4558952+00:00",
   "LastUpdate_AppInfo": "2023-11-24T04:57:18.3123546+00:00",
-  "LastUpdate_Ratings": "2023-11-30T11:57:42.8036934+00:00",
-  "LastUpdate_Achievements": "2023-11-30T12:05:55.9955688+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:03:48.0463105+00:00",
+  "LastUpdate_Achievements": "2023-11-30T13:11:24.4560074+00:00"
 }

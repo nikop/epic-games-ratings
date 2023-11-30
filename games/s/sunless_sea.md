@@ -1,23 +1,23 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 446)  
+Rating: 4.58 (Ranked 447)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~14,904 |
-| Sweet Sorrow | 18.00% | ~7,452 |
-| Rules the Waves | 17.00% | ~7,038 |
-| Thou, All-Shaking Thunder | 15.00% | ~6,210 |
-| Rival | 14.00% | ~5,796 |
-| Correspondent | 12.00% | ~4,968 |
-| Lose Your Mind | 12.00% | ~4,968 |
-| Sound Mind? | 12.00% | ~4,968 |
-| Salt's Curse | 11.00% | ~4,554 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~4,554 |
-| The Fall of the House | 11.00% | ~4,554 |
-| Shipmate | 11.00% | ~4,554 |
+| Sink Beneath the Waves | 36.00% | ~14,906 |
+| Sweet Sorrow | 18.00% | ~7,453 |
+| Rules the Waves | 17.00% | ~7,039 |
+| Thou, All-Shaking Thunder | 15.00% | ~6,211 |
+| Rival | 14.00% | ~5,797 |
+| Correspondent | 12.00% | ~4,969 |
+| Lose Your Mind | 12.00% | ~4,969 |
+| Sound Mind? | 12.00% | ~4,969 |
+| Salt's Curse | 11.00% | ~4,555 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~4,555 |
+| The Fall of the House | 11.00% | ~4,555 |
+| Shipmate | 11.00% | ~4,555 |
 | One Year at Zee | 8.00% | ~3,312 |
 | Pupil | 7.00% | ~2,898 |
 | Salvager | 7.00% | ~2,898 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~41 |
 | Ten Years at Zee | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,401 (Ranked 121)  
+Progressed: 41,405 (Ranked 121)  
 Completed: 4 (0.01%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 4 (0.01%) (Ranked 342)
 | 2023-11-27 | 41,295 | 4 |
 | 2023-11-28 | 41,343 | 4 |
 | 2023-11-29 | 41,382 | 4 |
-| 2023-11-30 | 41,401 | 4 |
+| 2023-11-30 | 41,405 | 4 |
 ## Awards
 Max (Character Customization): 219  (Ranked 281)  
 Sum: 292 (Ranked 367)  

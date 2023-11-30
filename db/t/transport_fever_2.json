@@ -2,13 +2,13 @@
   "ID": "1760fff3738043f2870594d94487fa4b",
   "Name": "Transport Fever 2",
   "ProductSlug": "transport-fever-2",
-  "Ranking_Rating": 254,
+  "Ranking_Rating": 255,
   "Ranking_Popularity": 449,
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -5396,8 +5396,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-11-30T04:00:13.8776971+00:00",
-  "LastChanged_Achievements": "2023-11-30T12:06:16.8614627+00:00",
+  "LastChanged_Achievements": "2023-11-30T13:11:44.784423+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:28.7031709+00:00",
-  "LastUpdate_Ratings": "2023-11-30T11:57:15.8000294+00:00",
-  "LastUpdate_Achievements": "2023-11-30T12:06:16.8615372+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:03:23.2474159+00:00",
+  "LastUpdate_Achievements": "2023-11-30T13:11:44.7844983+00:00"
 }

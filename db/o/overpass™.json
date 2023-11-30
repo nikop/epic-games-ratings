@@ -2,13 +2,13 @@
   "ID": "90c3f58497da48d789cc39bff57dc2f4",
   "Name": "OVERPASS\u2122",
   "ProductSlug": "overpass",
-  "Ranking_Rating": 855,
+  "Ranking_Rating": 856,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 764,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 497,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 498,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2020-02-27T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -97,6 +97,6 @@
   "FirstSeenRating": "2022-09-27T09:01:01.2666865+00:00",
   "LastChanged": "2023-11-13T14:57:33.9895954+00:00",
   "LastUpdate_AppInfo": "2023-11-25T10:57:15.1098265+00:00",
-  "LastUpdate_Ratings": "2023-11-30T11:59:29.4866381+00:00",
-  "LastUpdate_Achievements": "2023-11-30T12:08:52.8359559+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:05:32.5985639+00:00",
+  "LastUpdate_Achievements": "2023-11-30T13:14:27.6971077+00:00"
 }

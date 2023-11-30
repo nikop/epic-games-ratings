@@ -2,13 +2,13 @@
   "ID": "e0172a81e4f0430e88c3156bdadfd088",
   "Name": "Solitairica",
   "ProductSlug": "solitairica",
-  "Ranking_Rating": 593,
+  "Ranking_Rating": 594,
   "Ranking_Popularity": 383,
   "Ranking_PopularitySum": 312,
   "Ranking_EOS_Progress": 764,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 497,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 498,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2020-12-29T16:00:00+00:00",
     "PcReleaseDate": "2020-12-29T16:00:00+00:00",
@@ -1198,6 +1198,6 @@
   "FirstSeen": "2022-07-22T20:20:54.4785127+00:00",
   "LastChanged": "2023-11-24T18:59:00.2235623+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:12.0459925+00:00",
-  "LastUpdate_Ratings": "2023-11-30T11:57:56.0785731+00:00",
-  "LastUpdate_Achievements": "2023-11-30T12:05:52.9274864+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:04:01.4463843+00:00",
+  "LastUpdate_Achievements": "2023-11-30T13:11:21.4349513+00:00"
 }

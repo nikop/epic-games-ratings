@@ -2,13 +2,13 @@
   "ID": "100f8957d16d4d2d89716775b5767779",
   "Name": "Riverbond",
   "ProductSlug": "riverbond-782aa4",
-  "Ranking_Rating": 640,
+  "Ranking_Rating": 641,
   "Ranking_Popularity": 549,
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 532224,
+  "EOS_Progressed": 532226,
   "EOS_Completed": 503,
-  "EOS_NewPlayers": 379,
+  "EOS_NewPlayers": 378,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -24207,6 +24207,11 @@
       "Time": "2023-11-30T12:04:33.7078764+00:00",
       "NumProgressed": 532224,
       "NumCompleted": 503
+    },
+    {
+      "Time": "2023-11-30T13:10:04.0806256+00:00",
+      "NumProgressed": 532226,
+      "NumCompleted": 503
     }
   ],
   "TotalAchievements": 57,
@@ -24226,7 +24231,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 239501
+      "UsersEstimate": 239502
     },
     {
       "ID": "11",
@@ -24234,7 +24239,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 372557
+      "UsersEstimate": 372558
     },
     {
       "ID": "12",
@@ -24242,7 +24247,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 117089
+      "UsersEstimate": 117090
     },
     {
       "ID": "13",
@@ -24266,7 +24271,7 @@
       "Name": "Walking The Line",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 53222
+      "UsersEstimate": 53223
     },
     {
       "ID": "16",
@@ -24282,7 +24287,7 @@
       "Name": "Moving On Up",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 31933
+      "UsersEstimate": 31934
     },
     {
       "ID": "18",
@@ -24298,7 +24303,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 329979
+      "UsersEstimate": 329980
     },
     {
       "ID": "2",
@@ -24306,7 +24311,7 @@
       "Name": "Not So Cute Anymore",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 53222
+      "UsersEstimate": 53223
     },
     {
       "ID": "20",
@@ -24354,7 +24359,7 @@
       "Name": "Owl Knows Best",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 31933
+      "UsersEstimate": 31934
     },
     {
       "ID": "26",
@@ -24362,7 +24367,7 @@
       "Name": "Mind the Moose",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 31933
+      "UsersEstimate": 31934
     },
     {
       "ID": "27",
@@ -24394,7 +24399,7 @@
       "Name": "Oh, Romeo!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 31933
+      "UsersEstimate": 31934
     },
     {
       "ID": "30",
@@ -24402,7 +24407,7 @@
       "Name": "Seek the Rainbow",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 10644
+      "UsersEstimate": 10645
     },
     {
       "ID": "31",
@@ -24410,7 +24415,7 @@
       "Name": "Words of Truth",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 10644
+      "UsersEstimate": 10645
     },
     {
       "ID": "32",
@@ -24442,7 +24447,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 266112
+      "UsersEstimate": 266113
     },
     {
       "ID": "36",
@@ -24458,7 +24463,7 @@
       "Name": "Dressed to Kill",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 31933
+      "UsersEstimate": 31934
     },
     {
       "ID": "38",
@@ -24474,7 +24479,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 180956
+      "UsersEstimate": 180957
     },
     {
       "ID": "4",
@@ -24482,7 +24487,7 @@
       "Name": "Beast Mode",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 31933
+      "UsersEstimate": 31934
     },
     {
       "ID": "40",
@@ -24498,7 +24503,7 @@
       "Name": "Star Power",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 10644
+      "UsersEstimate": 10645
     },
     {
       "ID": "42",
@@ -24546,7 +24551,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 329979
+      "UsersEstimate": 329980
     },
     {
       "ID": "48",
@@ -24562,7 +24567,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 180956
+      "UsersEstimate": 180957
     },
     {
       "ID": "5",
@@ -24578,7 +24583,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 74511
+      "UsersEstimate": 74512
     },
     {
       "ID": "51",
@@ -24594,7 +24599,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 244823
+      "UsersEstimate": 244824
     },
     {
       "ID": "53",
@@ -24658,7 +24663,7 @@
       "Name": "Justice Served",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 10644
+      "UsersEstimate": 10645
     },
     {
       "ID": "9",
@@ -24673,15 +24678,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 532224,
+      "Progressed": 532226,
       "Completed": 503
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-11-30T12:04:33.7078761+00:00",
+  "LastChanged_Achievements": "2023-11-30T13:10:04.080625+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:56.9532267+00:00",
-  "LastUpdate_Ratings": "2023-11-30T11:59:27.5724313+00:00",
-  "LastUpdate_Achievements": "2023-11-30T12:04:33.7080063+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:05:30.7485143+00:00",
+  "LastUpdate_Achievements": "2023-11-30T13:10:04.0807777+00:00"
 }

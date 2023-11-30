@@ -3,9 +3,9 @@
   "Name": "100 Doors - Escape from Prison",
   "ProductSlug": "100-doors-escape-from-prison-1e0ba3",
   "Ranking_EOS_Progress": 333,
-  "Ranking_EOS_Completed": 25,
+  "Ranking_EOS_Completed": 24,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
     "PcReleaseDate": "2022-06-15T07:00:00+00:00",
@@ -1453,9 +1453,9 @@
       "ID": "ach_hint_3",
       "SetID": "5e260i9",
       "Name": "A helping hand!",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 40,
-      "UsersEstimate": 224
+      "UsersEstimate": 228
     },
     {
       "ID": "ach_hint_6",
@@ -1524,8 +1524,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-11-30T12:08:42.226872+00:00",
+  "LastChanged_Achievements": "2023-11-30T13:14:17.0703202+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.3167471+00:00",
-  "LastUpdate_Ratings": "2023-11-30T12:03:00.4871835+00:00",
-  "LastUpdate_Achievements": "2023-11-30T12:08:42.2268865+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:06:42.0272414+00:00",
+  "LastUpdate_Achievements": "2023-11-30T13:14:17.0703358+00:00"
 }

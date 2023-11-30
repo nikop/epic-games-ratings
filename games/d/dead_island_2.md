@@ -1,20 +1,20 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 527)  
+Rating: 4.54 (Ranked 528)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,605 |
-| Git Gutte! | 2.00% | ~14,559 |
-| Break A Leg | 2.00% | ~14,559 |
-| Coup de Grâce | 2.00% | ~14,559 |
-| Hazardous Materials | 2.00% | ~14,559 |
-| Hotel California | 2.00% | ~14,559 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,559 |
-| Welcome To Hell-A | 2.00% | ~14,559 |
-| One of Us | 2.00% | ~1,070 |
-| Pork Chopped | 2.00% | ~1,070 |
+| Whatever It Takes | 3.00% | ~1,606 |
+| Git Gutte! | 2.00% | ~14,560 |
+| Break A Leg | 2.00% | ~14,560 |
+| Coup de Grâce | 2.00% | ~14,560 |
+| Hazardous Materials | 2.00% | ~14,560 |
+| Hotel California | 2.00% | ~14,560 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,560 |
+| Welcome To Hell-A | 2.00% | ~14,560 |
+| One of Us | 2.00% | ~1,071 |
+| Pork Chopped | 2.00% | ~1,071 |
 | Dr. Reed, I Presume? | 1.00% | ~7,280 |
 | Anger Management | 1.00% | ~7,280 |
 | Perks of the Job | 1.00% | ~7,280 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 527)
 | Bucket List | 0.10% | ~728 |
 | Wilhelm | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 727,963 (Ranked 21)  
+Progressed: 727,987 (Ranked 21)  
 Completed: 2,453 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 2,453 (0.34%) (Ranked 231)
 | 2023-11-27 | 726,753 | 2,443 |
 | 2023-11-28 | 727,374 | 2,447 |
 | 2023-11-29 | 727,809 | 2,450 |
-| 2023-11-30 | 727,963 | 2,453 |
+| 2023-11-30 | 727,987 | 2,453 |
 ## Awards
 Max (Great Boss Battles): 7,821  (Ranked 49)  
 Sum: 11,981 (Ranked 84)  

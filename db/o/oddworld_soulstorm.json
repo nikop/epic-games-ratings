@@ -2,13 +2,13 @@
   "ID": "e099f2abf3324d248054bf14c476fbc0",
   "Name": "Oddworld: Soulstorm Enhanced Edition",
   "ProductSlug": "oddworld-soulstorm",
-  "Ranking_Rating": 185,
+  "Ranking_Rating": 186,
   "Ranking_Popularity": 460,
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 764,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 497,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 498,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2021-04-05T22:00:00+00:00",
     "PcReleaseDate": "2021-04-05T22:00:00+00:00",
@@ -273,6 +273,6 @@
   "FirstSeen": "2022-07-22T20:32:54.3777281+00:00",
   "LastChanged": "2023-04-10T15:58:47.6575411+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:30.379717+00:00",
-  "LastUpdate_Ratings": "2023-11-30T11:58:45.5666869+00:00",
-  "LastUpdate_Achievements": "2023-11-30T12:06:00.9387549+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:04:50.3530534+00:00",
+  "LastUpdate_Achievements": "2023-11-30T13:11:29.2015187+00:00"
 }

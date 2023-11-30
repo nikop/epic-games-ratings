@@ -2,7 +2,7 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 129,
+  "Ranking_Rating": 130,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
@@ -11259,9 +11259,9 @@
       "Count": 825
     }
   ],
-  "EOS_Progressed": 303625,
+  "EOS_Progressed": 303629,
   "EOS_Completed": 519,
-  "EOS_NewPlayers": 864,
+  "EOS_NewPlayers": 863,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -35394,6 +35394,11 @@
       "Time": "2023-11-30T12:09:41.0340303+00:00",
       "NumProgressed": 303625,
       "NumCompleted": 519
+    },
+    {
+      "Time": "2023-11-30T13:15:14.2663635+00:00",
+      "NumProgressed": 303629,
+      "NumCompleted": 519
     }
   ],
   "TotalAchievements": 45,
@@ -35405,7 +35410,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48580
+      "UsersEstimate": 48581
     },
     {
       "ID": "PFA_10",
@@ -35477,7 +35482,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 27326
+      "UsersEstimate": 27327
     },
     {
       "ID": "PFA_19",
@@ -35501,7 +35506,7 @@
       "Name": "The Good Samaritan",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 6072
+      "UsersEstimate": 6073
     },
     {
       "ID": "PFA_21",
@@ -35525,7 +35530,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39471
+      "UsersEstimate": 39472
     },
     {
       "ID": "PFA_24",
@@ -35629,7 +35634,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30362
+      "UsersEstimate": 30363
     },
     {
       "ID": "PFA_36",
@@ -35637,7 +35642,7 @@
       "Name": "Rise to the Challenges",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 6072
+      "UsersEstimate": 6073
     },
     {
       "ID": "PFA_37",
@@ -35677,7 +35682,7 @@
       "Name": "Demiguise Dread",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6072
+      "UsersEstimate": 6073
     },
     {
       "ID": "PFA_41",
@@ -35701,7 +35706,7 @@
       "Name": "Finishing Touches",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 6072
+      "UsersEstimate": 6073
     },
     {
       "ID": "PFA_44",
@@ -35709,7 +35714,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27326
+      "UsersEstimate": 27327
     },
     {
       "ID": "PFA_45",
@@ -35717,7 +35722,7 @@
       "Name": "A Forte for Achievement",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 6072
+      "UsersEstimate": 6073
     },
     {
       "ID": "PFA_5",
@@ -35749,7 +35754,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39471
+      "UsersEstimate": 39472
     },
     {
       "ID": "PFA_9",
@@ -35757,14 +35762,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30362
+      "UsersEstimate": 30363
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303625,
+      "Progressed": 303629,
       "Completed": 519
     }
   ],
@@ -35772,8 +35777,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-30T07:02:50.114663+00:00",
-  "LastChanged_Achievements": "2023-11-30T12:09:41.03403+00:00",
+  "LastChanged_Achievements": "2023-11-30T13:15:14.266363+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7292094+00:00",
-  "LastUpdate_Ratings": "2023-11-30T11:57:14.1719244+00:00",
-  "LastUpdate_Achievements": "2023-11-30T12:09:41.0341905+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:03:21.5455152+00:00",
+  "LastUpdate_Achievements": "2023-11-30T13:15:14.2664805+00:00"
 }

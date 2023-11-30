@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -975,9 +975,9 @@
       "ID": "ACH_03",
       "SetID": "efe2lj",
       "Name": "Powerful Allies",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_04",
@@ -1254,8 +1254,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-30T12:09:41.0683056+00:00",
+  "LastChanged_Achievements": "2023-11-30T13:15:14.3283747+00:00",
   "LastUpdate_AppInfo": "2023-11-27T19:57:22.2061003+00:00",
-  "LastUpdate_Ratings": "2023-11-30T11:57:39.4507481+00:00",
-  "LastUpdate_Achievements": "2023-11-30T12:09:41.0683315+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:03:45.3610552+00:00",
+  "LastUpdate_Achievements": "2023-11-30T13:15:14.3283947+00:00"
 }

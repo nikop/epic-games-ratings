@@ -2,7 +2,7 @@
   "ID": "aa598567414d42378187b8861da550f7",
   "Name": "Remnant 2",
   "ProductSlug": "remnant-2",
-  "Ranking_Rating": 148,
+  "Ranking_Rating": 150,
   "Ranking_Popularity": 104,
   "Ranking_PopularitySum": 129,
   "Ranking_EOS_Progress": 69,
@@ -4959,10 +4959,10 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 230940,
+  "EOS_Progressed": 230985,
   "EOS_Completed": 541,
-  "EOS_NewPlayers": 4709,
-  "EOS_NewCompleters": 36,
+  "EOS_NewPlayers": 4722,
+  "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -20659,6 +20659,11 @@
       "Time": "2023-11-30T12:08:57.3835241+00:00",
       "NumProgressed": 230940,
       "NumCompleted": 541
+    },
+    {
+      "Time": "2023-11-30T13:14:32.2466768+00:00",
+      "NumProgressed": 230985,
+      "NumCompleted": 541
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20877,9 +20882,9 @@
       "ID": "Obtain_Archetype_Secret",
       "SetID": "bkp3b1a",
       "Name": "Shhh...It\u0027s a Secret",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 462
+      "UsersEstimate": 693
     },
     {
       "ID": "Obtain_Blood_Moon_Item",
@@ -20901,9 +20906,9 @@
       "ID": "Obtain_Boss_Weapon",
       "SetID": "bkp3b1a",
       "Name": "Boss\u0027n Up",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 693
+      "UsersEstimate": 924
     },
     {
       "ID": "Obtain_Guns_A",
@@ -20997,9 +21002,9 @@
       "ID": "Obtain_Water_Harp_Item",
       "SetID": "bkp3b1a",
       "Name": "Carnage in C-Minor",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 462
     },
     {
       "ID": "Upgrade_Boss_Weapon_A",
@@ -21110,13 +21115,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 230940,
+      "Progressed": 230985,
       "Completed": 541
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 10105,
+      "Progressed": 10150,
       "Completed": 172
     }
   ],
@@ -21124,8 +21129,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-30T05:03:15.9209637+00:00",
-  "LastChanged_Achievements": "2023-11-30T12:08:57.3835238+00:00",
+  "LastChanged_Achievements": "2023-11-30T13:14:32.2466764+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-30T12:03:24.1483504+00:00",
-  "LastUpdate_Achievements": "2023-11-30T12:08:57.3836361+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:08:54.4513206+00:00",
+  "LastUpdate_Achievements": "2023-11-30T13:14:32.2467999+00:00"
 }

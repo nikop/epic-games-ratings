@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4435,
+  "EOS_Progressed": 4436,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7970,6 +7970,11 @@
       "Time": "2023-11-30T12:05:41.6595021+00:00",
       "NumProgressed": 4435,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-30T13:11:10.2728034+00:00",
+      "NumProgressed": 4436,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7979,9 +7984,9 @@
       "ID": "Ach001",
       "SetID": "12n4k20",
       "Name": "Start with a bang!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 798
+      "UsersEstimate": 843
     },
     {
       "ID": "Ach002",
@@ -8141,7 +8146,7 @@
       "Name": "I have to read these things?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "Ach022",
@@ -8469,7 +8474,7 @@
       "Name": "NOW we got a kickass hideout!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "Ach063",
@@ -8548,13 +8553,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4435,
+      "Progressed": 4436,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2956,
+      "Progressed": 2957,
       "Completed": 1930
     }
   ],
@@ -8562,8 +8567,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-30T12:05:41.6595018+00:00",
+  "LastChanged_Achievements": "2023-11-30T13:11:10.272803+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-11-30T11:58:22.6330085+00:00",
-  "LastUpdate_Achievements": "2023-11-30T12:05:41.6596054+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:04:27.8027106+00:00",
+  "LastUpdate_Achievements": "2023-11-30T13:11:10.2729077+00:00"
 }

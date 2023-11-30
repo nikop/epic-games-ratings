@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -417,9 +417,9 @@
       "ID": "KR4_ACHIEVEMENT_ASRA_MAX",
       "SetID": "caeik3h",
       "Name": "Mistress of Shadows",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "KR4_ACHIEVEMENT_BARNY",
@@ -705,9 +705,9 @@
       "ID": "KR4_ACHIEVEMENT_JOKULL",
       "SetID": "caeik3h",
       "Name": "How To Tame Your Dragon",
-      "Percentage": 73,
+      "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "KR4_ACHIEVEMENT_KERMIT",
@@ -1032,8 +1032,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-30T12:04:21.6751506+00:00",
+  "LastChanged_Achievements": "2023-11-30T13:09:51.9296201+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:14.7123281+00:00",
-  "LastUpdate_Ratings": "2023-11-30T11:58:03.0085671+00:00",
-  "LastUpdate_Achievements": "2023-11-30T12:04:21.6752219+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:04:09.1663022+00:00",
+  "LastUpdate_Achievements": "2023-11-30T13:09:51.9296783+00:00"
 }

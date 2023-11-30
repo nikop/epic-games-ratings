@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,632 (Ranked 22)  
+Progressed: 717,633 (Ranked 22)  
 Completed: 12,941 (1.80%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 12,941 (1.80%) (Ranked 132)
 | 2023-11-27 | 717,516 | 12,940 |
 | 2023-11-28 | 717,575 | 12,941 |
 | 2023-11-29 | 717,624 | 12,941 |
-| 2023-11-30 | 717,632 | 12,941 |
+| 2023-11-30 | 717,633 | 12,941 |
 ## Awards
 Max (Great Boss Battles): 6,858  (Ranked 55)  
 Sum: 12,017 (Ranked 83)  
