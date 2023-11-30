@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -800,10 +800,10 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5217,
+  "EOS_Progressed": 5218,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 194,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 195,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
     {
@@ -10210,6 +10210,11 @@
       "Time": "2023-11-30T02:29:04.1823754+00:00",
       "NumProgressed": 5217,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-30T03:05:32.7690802+00:00",
+      "NumProgressed": 5218,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -10262,7 +10267,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -10270,7 +10275,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -10405,15 +10410,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5217,
+      "Progressed": 5218,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-28T16:58:30.5378717+00:00",
-  "LastChanged_Achievements": "2023-11-30T02:29:04.182375+00:00",
+  "LastChanged_Achievements": "2023-11-30T03:05:32.7690797+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:57.8728893+00:00",
-  "LastUpdate_Ratings": "2023-11-30T02:22:28.5109105+00:00",
-  "LastUpdate_Achievements": "2023-11-30T02:29:04.1824458+00:00"
+  "LastUpdate_Ratings": "2023-11-30T02:59:19.8127117+00:00",
+  "LastUpdate_Achievements": "2023-11-30T03:05:32.7691512+00:00"
 }

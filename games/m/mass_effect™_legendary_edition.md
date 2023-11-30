@@ -58,10 +58,10 @@
 | The Cure | 31.00% | ~451 |
 | Big Game Hunter | 31.00% | ~451 |
 | Revenge! | 31.00% | ~451 |
+| Bringer of War | 31.00% | ~451 |
 | Focused | 30.00% | ~436 |
 | Fade Away | 30.00% | ~436 |
 | Heart of Darkness | 30.00% | ~436 |
-| Bringer of War | 30.00% | ~436 |
 | Archivist | 29.00% | ~422 |
 | Friend or Foe | 29.00% | ~422 |
 | Cat's in the Cradle | 29.00% | ~422 |

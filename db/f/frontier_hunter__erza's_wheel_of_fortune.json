@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 443,
+  "EOS_Progressed": 444,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 1,
@@ -1357,6 +1357,11 @@
       "Time": "2023-11-30T02:29:20.6074259+00:00",
       "NumProgressed": 443,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T03:05:46.8160683+00:00",
+      "NumProgressed": 444,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1368,15 +1373,15 @@
       "Name": "Travel Streamer",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ACHIEVEMENT_10",
       "SetID": "7pimpda",
       "Name": "Giant Lizard Killer",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 111
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -1392,7 +1397,7 @@
       "Name": "Nosebleeder",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -1416,7 +1421,7 @@
       "Name": "Furious Scorpion Killer",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -1424,7 +1429,7 @@
       "Name": "Lethal Blade Mantis Killer",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -1432,7 +1437,7 @@
       "Name": "Squeaky Clean",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -1488,7 +1493,7 @@
       "Name": "Master Cook",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -1496,7 +1501,7 @@
       "Name": "Arms Mechanic",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -1536,7 +1541,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1704,7 +1709,7 @@
       "Name": "Apostle of Flame",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -1727,7 +1732,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 443,
+      "Progressed": 444,
       "Completed": 1
     }
   ],
@@ -1735,8 +1740,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-30T02:29:20.6074256+00:00",
+  "LastChanged_Achievements": "2023-11-30T03:05:46.8160681+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-11-30T02:22:06.5142563+00:00",
-  "LastUpdate_Achievements": "2023-11-30T02:29:20.6074675+00:00"
+  "LastUpdate_Ratings": "2023-11-30T02:59:02.1697712+00:00",
+  "LastUpdate_Achievements": "2023-11-30T03:05:46.8161083+00:00"
 }

@@ -5,27 +5,27 @@ Rating: 4.51 (Ranked 571)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~169,745 |
-| FIRST BLOOD | 40.00% | ~150,884 |
-| KEVIN! | 30.00% | ~113,163 |
-| JACK OF ALL TRADES | 23.00% | ~86,759 |
-| CRIMINAL | 20.00% | ~75,442 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~41,493 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~33,949 |
-| HONORS STUDENT | 8.00% | ~30,177 |
+| MASTER CHEF | 45.00% | ~169,749 |
+| FIRST BLOOD | 40.00% | ~150,888 |
+| KEVIN! | 30.00% | ~113,166 |
+| JACK OF ALL TRADES | 23.00% | ~86,760 |
+| CRIMINAL | 20.00% | ~75,444 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~41,494 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~33,950 |
+| HONORS STUDENT | 8.00% | ~30,178 |
 | BUTCHER | 6.00% | ~22,633 |
 | INDIVIDUAL APPROACH | 5.00% | ~18,861 |
 | RAMBO | 5.00% | ~18,861 |
-| HELL'S KITCHEN | 4.00% | ~15,088 |
-| CELEBRITY | 3.00% | ~11,316 |
-| MARTYR | 3.00% | ~11,316 |
+| HELL'S KITCHEN | 4.00% | ~15,089 |
+| CELEBRITY | 3.00% | ~11,317 |
+| MARTYR | 3.00% | ~11,317 |
 | GRATITUDE | 2.00% | ~7,544 |
 | PATTY-KILLER | 2.00% | ~7,544 |
 | EXPERIMENTALIST | 1.00% | ~3,772 |
 | GOURMET | 1.00% | ~3,772 |
 | LAW-ABIDING CITIZEN | 1.00% | ~3,772 |
 | PRUDENT | 1.00% | ~3,772 |
-| SCATTERBRAIN | 0.70% | ~2,640 |
+| SCATTERBRAIN | 0.70% | ~2,641 |
 | HIGH TECHNOLOGIES | 0.60% | ~2,263 |
 | TASTE UNTASTY | 0.50% | ~1,886 |
 | DEBTOR | 0.20% | ~754 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 571)
 | MISTER ALL THUMBS | 0.10% | ~377 |
 | TRAVELER | 0.10% | ~377 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 377,211 (Ranked 46)  
+Progressed: 377,219 (Ranked 46)  
 Completed: 43 (0.01%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 43 (0.01%) (Ranked 342)
 | 2023-11-27 | 376,180 | 41 |
 | 2023-11-28 | 376,670 | 42 |
 | 2023-11-29 | 377,136 | 43 |
-| 2023-11-30 | 377,211 | 43 |
+| 2023-11-30 | 377,219 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

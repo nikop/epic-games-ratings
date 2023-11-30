@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-04-27T15:00:00+00:00",
     "PcReleaseDate": "2020-11-20T00:00:00+00:00",
@@ -991,9 +991,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 540479,
+  "EOS_Progressed": 540480,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1211,
+  "EOS_NewPlayers": 1207,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26351,6 +26351,11 @@
       "Time": "2023-11-30T02:29:34.883145+00:00",
       "NumProgressed": 540479,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-30T03:05:58.827805+00:00",
+      "NumProgressed": 540480,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -26362,7 +26367,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 145929
+      "UsersEstimate": 145930
     },
     {
       "ID": "Backdoor",
@@ -26514,7 +26519,7 @@
       "Name": "Handy",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 227001
+      "UsersEstimate": 227002
     },
     {
       "ID": "HoldingYourOwn",
@@ -26610,7 +26615,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 410764
+      "UsersEstimate": 410765
     },
     {
       "ID": "ProPlayer",
@@ -26634,7 +26639,7 @@
       "Name": "Rank Amateur",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 118905
+      "UsersEstimate": 118906
     },
     {
       "ID": "RegularPunter",
@@ -26714,14 +26719,14 @@
       "Name": "W.H.I.P.",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 64857
+      "UsersEstimate": 64858
     }
   ],
   "AchievementSets": [
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 540479,
+      "Progressed": 540480,
       "Completed": 2
     }
   ],
@@ -26729,8 +26734,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-11-29T22:57:38.4069669+00:00",
-  "LastChanged_Achievements": "2023-11-30T02:29:34.8831447+00:00",
+  "LastChanged_Achievements": "2023-11-30T03:05:58.8278048+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:00.682354+00:00",
-  "LastUpdate_Ratings": "2023-11-30T02:20:34.5390607+00:00",
-  "LastUpdate_Achievements": "2023-11-30T02:29:34.8832811+00:00"
+  "LastUpdate_Ratings": "2023-11-30T02:57:48.1686888+00:00",
+  "LastUpdate_Achievements": "2023-11-30T03:05:58.8279376+00:00"
 }

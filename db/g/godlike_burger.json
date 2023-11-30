@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 30,
+  "Ranking_EOS_NewPlayers": 31,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 377211,
+  "EOS_Progressed": 377219,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 4352,
+  "EOS_NewPlayers": 4345,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7916,6 +7916,11 @@
       "Time": "2023-11-30T02:26:55.3008586+00:00",
       "NumProgressed": 377211,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-11-30T03:03:43.4740901+00:00",
+      "NumProgressed": 377219,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 28,
@@ -7935,7 +7940,7 @@
       "Name": "CELEBRITY",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 11316
+      "UsersEstimate": 11317
     },
     {
       "ID": "GB_CORRUPTIONIST",
@@ -7951,7 +7956,7 @@
       "Name": "CRIMINAL",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 75442
+      "UsersEstimate": 75444
     },
     {
       "ID": "GB_DEBTOR",
@@ -7975,7 +7980,7 @@
       "Name": "FIRST BLOOD",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 150884
+      "UsersEstimate": 150888
     },
     {
       "ID": "GB_GOURMET",
@@ -7991,7 +7996,7 @@
       "Name": "GRANDMA WOULD BE PROUD",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 41493
+      "UsersEstimate": 41494
     },
     {
       "ID": "GB_GRATITUDE",
@@ -8007,7 +8012,7 @@
       "Name": "HELL\u0027S KITCHEN",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 15088
+      "UsersEstimate": 15089
     },
     {
       "ID": "GB_HIGH_TECHNOLOGIES",
@@ -8023,7 +8028,7 @@
       "Name": "HONORS STUDENT",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 30177
+      "UsersEstimate": 30178
     },
     {
       "ID": "GB_INDIVIDUAL_APPROACH",
@@ -8047,7 +8052,7 @@
       "Name": "JACK OF ALL TRADES",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 86759
+      "UsersEstimate": 86760
     },
     {
       "ID": "GB_KEVIN",
@@ -8055,7 +8060,7 @@
       "Name": "KEVIN!",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 113163
+      "UsersEstimate": 113166
     },
     {
       "ID": "GB_LAW_ABIDING_CITIZEN",
@@ -8071,7 +8076,7 @@
       "Name": "MARTYR",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 11316
+      "UsersEstimate": 11317
     },
     {
       "ID": "GB_MASTER_CHEF",
@@ -8079,7 +8084,7 @@
       "Name": "MASTER CHEF",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 169745
+      "UsersEstimate": 169749
     },
     {
       "ID": "GB_MISTER_ALL_THUMBS",
@@ -8119,7 +8124,7 @@
       "Name": "SCATTERBRAIN",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 2640
+      "UsersEstimate": 2641
     },
     {
       "ID": "GB_TASTE_UNTASTY",
@@ -8143,14 +8148,14 @@
       "Name": "WITHOUT BREAKING A SWEAT",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 33949
+      "UsersEstimate": 33950
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 377211,
+      "Progressed": 377219,
       "Completed": 43
     }
   ],
@@ -8158,8 +8163,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-10-28T12:59:45.1014127+00:00",
-  "LastChanged_Achievements": "2023-11-30T02:26:55.3008584+00:00",
+  "LastChanged_Achievements": "2023-11-30T03:03:43.4740892+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:07.125583+00:00",
-  "LastUpdate_Ratings": "2023-11-30T02:25:58.8535629+00:00",
-  "LastUpdate_Achievements": "2023-11-30T02:26:55.3009059+00:00"
+  "LastUpdate_Ratings": "2023-11-30T03:02:56.8399778+00:00",
+  "LastUpdate_Achievements": "2023-11-30T03:03:43.4741416+00:00"
 }

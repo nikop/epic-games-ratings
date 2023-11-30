@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1258,
+  "EOS_Progressed": 1259,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2280,6 +2280,11 @@
       "Time": "2023-11-30T02:28:54.0046849+00:00",
       "NumProgressed": 1258,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T03:05:24.2857958+00:00",
+      "NumProgressed": 1259,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -2364,7 +2369,7 @@
       "Name": "What\u0027s Behind Every Door?",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR",
@@ -2372,7 +2377,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -2388,7 +2393,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -2531,14 +2536,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1258,
+      "Progressed": 1259,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-30T02:28:54.0046845+00:00",
+  "LastChanged_Achievements": "2023-11-30T03:05:24.2857954+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.3423297+00:00",
-  "LastUpdate_Ratings": "2023-11-30T02:19:43.1685911+00:00",
-  "LastUpdate_Achievements": "2023-11-30T02:28:54.0047072+00:00"
+  "LastUpdate_Ratings": "2023-11-30T02:57:05.6008421+00:00",
+  "LastUpdate_Achievements": "2023-11-30T03:05:24.2858336+00:00"
 }

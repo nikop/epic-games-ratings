@@ -6,7 +6,7 @@
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 93,
-  "Ranking_EOS_Completed": 231,
+  "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
@@ -203,11 +203,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 88059,
+  "EOS_Progressed": 88060,
   "EOS_Completed": 295,
-  "EOS_NewPlayers": 696,
+  "EOS_NewPlayers": 695,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 0.34,
+  "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
       "Time": "2023-08-03T10:03:35.2173803+00:00",
@@ -12653,6 +12653,11 @@
       "Time": "2023-11-30T02:28:10.4006202+00:00",
       "NumProgressed": 88059,
       "NumCompleted": 295
+    },
+    {
+      "Time": "2023-11-30T03:04:47.7757242+00:00",
+      "NumProgressed": 88060,
+      "NumCompleted": 295
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -12665,7 +12670,7 @@
       "Name": "Welcome to Dodo Peak",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 70447
+      "UsersEstimate": 70448
     },
     {
       "ID": "grp_beet",
@@ -12681,7 +12686,7 @@
       "Name": "Two month\u0027s rent",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 67805
+      "UsersEstimate": 67806
     },
     {
       "ID": "grp_endless",
@@ -12777,7 +12782,7 @@
       "Name": "Killing one stone with two birds",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 9686
+      "UsersEstimate": 9687
     },
     {
       "ID": "grp_store_ftux",
@@ -12785,7 +12790,7 @@
       "Name": "Birds of a Feather",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 37865
+      "UsersEstimate": 37866
     },
     {
       "ID": "grp_weekly_beaten",
@@ -12800,7 +12805,7 @@
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 88059,
+      "Progressed": 88060,
       "Completed": 295
     }
   ],
@@ -12808,8 +12813,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2023-11-29T09:58:32.9214782+00:00",
-  "LastChanged_Achievements": "2023-11-30T02:28:10.4006196+00:00",
+  "LastChanged_Achievements": "2023-11-30T03:04:47.7757239+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:17.1314286+00:00",
-  "LastUpdate_Ratings": "2023-11-30T02:22:15.9953596+00:00",
-  "LastUpdate_Achievements": "2023-11-30T02:28:10.4006815+00:00"
+  "LastUpdate_Ratings": "2023-11-30T02:59:09.5975533+00:00",
+  "LastUpdate_Achievements": "2023-11-30T03:04:47.7757861+00:00"
 }

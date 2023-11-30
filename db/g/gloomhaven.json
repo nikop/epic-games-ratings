@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -2573,9 +2573,9 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 23707,
+  "EOS_Progressed": 23708,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1348,
+  "EOS_NewPlayers": 1341,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11203,6 +11203,11 @@
       "Time": "2023-11-30T02:31:27.7002538+00:00",
       "NumProgressed": 23707,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T03:07:57.2880756+00:00",
+      "NumProgressed": 23708,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -11415,7 +11420,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 8060
+      "UsersEstimate": 8061
     },
     {
       "ID": "Achievement_Trophy27",
@@ -11431,7 +11436,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7823
+      "UsersEstimate": 7824
     },
     {
       "ID": "Achievement_Trophy29",
@@ -11519,7 +11524,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4504
+      "UsersEstimate": 4505
     },
     {
       "ID": "Achievement_Trophy40",
@@ -11702,7 +11707,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 23707,
+      "Progressed": 23708,
       "Completed": 1
     }
   ],
@@ -11710,8 +11715,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-28T02:58:56.0622889+00:00",
-  "LastChanged_Achievements": "2023-11-30T02:31:27.7002533+00:00",
+  "LastChanged_Achievements": "2023-11-30T03:07:57.2880752+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:22.2817081+00:00",
-  "LastUpdate_Ratings": "2023-11-30T02:23:38.3623408+00:00",
-  "LastUpdate_Achievements": "2023-11-30T02:31:27.7003292+00:00"
+  "LastUpdate_Ratings": "2023-11-30T03:00:17.3216329+00:00",
+  "LastUpdate_Achievements": "2023-11-30T03:07:57.288143+00:00"
 }

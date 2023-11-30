@@ -1501,10 +1501,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 682,
       "NumberOfAwardsMax": 93
+    },
+    {
+      "Time": "2023-11-30T02:59:28.3271303+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 684,
+      "NumberOfAwardsMax": 93
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 682,
+  "NumberOfAwards": 684,
   "NumberOfAwardsMax": 93,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1566,7 +1572,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 44
+      "Count": 46
     },
     {
       "Text": "This game has Playful Visuals",
@@ -1581,10 +1587,10 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 317067,
-  "EOS_Completed": 349,
-  "EOS_NewPlayers": 8879,
-  "EOS_NewCompleters": 29,
+  "EOS_Progressed": 317084,
+  "EOS_Completed": 350,
+  "EOS_NewPlayers": 8874,
+  "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
     {
@@ -14256,6 +14262,11 @@
       "Time": "2023-11-30T02:28:55.2370013+00:00",
       "NumProgressed": 317067,
       "NumCompleted": 349
+    },
+    {
+      "Time": "2023-11-30T03:05:25.3027868+00:00",
+      "NumProgressed": 317084,
+      "NumCompleted": 350
     }
   ],
   "TotalAchievements": 24,
@@ -14275,7 +14286,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 15853
+      "UsersEstimate": 15854
     },
     {
       "ID": "11",
@@ -14299,7 +14310,7 @@
       "Name": "EXPERIENCED CREW",
       "Percentage": 0.6,
       "XP": 70,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     },
     {
       "ID": "14",
@@ -14307,7 +14318,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 22195
+      "UsersEstimate": 22196
     },
     {
       "ID": "15",
@@ -14379,7 +14390,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 0.7,
       "XP": 55,
-      "UsersEstimate": 2219
+      "UsersEstimate": 2220
     },
     {
       "ID": "23",
@@ -14387,7 +14398,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 6341
+      "UsersEstimate": 6342
     },
     {
       "ID": "24",
@@ -14395,7 +14406,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 9512
+      "UsersEstimate": 9513
     },
     {
       "ID": "3",
@@ -14411,7 +14422,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 9512
+      "UsersEstimate": 9513
     },
     {
       "ID": "5",
@@ -14419,7 +14430,7 @@
       "Name": "ROOKIE",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 34877
+      "UsersEstimate": 34879
     },
     {
       "ID": "6",
@@ -14458,16 +14469,16 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 317067,
-      "Completed": 349
+      "Progressed": 317084,
+      "Completed": 350
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged": "2023-11-29T21:59:07.9208886+00:00",
-  "LastChanged_Achievements": "2023-11-30T02:28:55.237001+00:00",
+  "LastChanged": "2023-11-30T02:59:28.3271301+00:00",
+  "LastChanged_Achievements": "2023-11-30T03:05:25.3027866+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:04.1206554+00:00",
-  "LastUpdate_Ratings": "2023-11-30T02:22:38.7361318+00:00",
-  "LastUpdate_Achievements": "2023-11-30T02:28:55.2370909+00:00"
+  "LastUpdate_Ratings": "2023-11-30T02:59:28.3271308+00:00",
+  "LastUpdate_Achievements": "2023-11-30T03:05:25.3028594+00:00"
 }

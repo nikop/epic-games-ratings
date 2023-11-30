@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2053,9 +2053,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 281694,
+  "EOS_Progressed": 281695,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 751,
+  "EOS_NewPlayers": 748,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27628,6 +27628,11 @@
       "Time": "2023-11-30T02:28:19.5673621+00:00",
       "NumProgressed": 281694,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T03:04:55.1551563+00:00",
+      "NumProgressed": 281695,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -27687,7 +27692,7 @@
       "Name": "Contender",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 28169
+      "UsersEstimate": 28170
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -27863,7 +27868,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 230989
+      "UsersEstimate": 230990
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -27878,15 +27883,15 @@
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 281694,
+      "Progressed": 281695,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-11-29T18:03:10.0663707+00:00",
-  "LastChanged_Achievements": "2023-11-30T02:28:19.5673618+00:00",
+  "LastChanged_Achievements": "2023-11-30T03:04:55.155156+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.1899023+00:00",
-  "LastUpdate_Ratings": "2023-11-30T02:26:12.9342805+00:00",
-  "LastUpdate_Achievements": "2023-11-30T02:28:19.5675137+00:00"
+  "LastUpdate_Ratings": "2023-11-30T03:03:08.4280837+00:00",
+  "LastUpdate_Achievements": "2023-11-30T03:04:55.155277+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "immortals-fenyx-rising",
   "Ranking_Rating": 418,
   "Ranking_Popularity": 172,
-  "Ranking_PopularitySum": 250,
+  "Ranking_PopularitySum": 249,
   "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2020-12-03T16:00:00+00:00",
     "PcReleaseDate": "2020-12-03T16:00:00+00:00",
@@ -2086,10 +2086,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 1159,
       "NumberOfAwardsMax": 780
+    },
+    {
+      "Time": "2023-11-30T03:02:50.357169+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1161,
+      "NumberOfAwardsMax": 780
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1159,
+  "NumberOfAwards": 1161,
   "NumberOfAwardsMax": 780,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2127,7 +2133,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 53
+      "Count": 55
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2165,8 +2171,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:58.8142388+00:00",
-  "LastChanged": "2023-11-29T22:02:42.8291958+00:00",
+  "LastChanged": "2023-11-30T03:02:50.3571689+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:45.3767708+00:00",
-  "LastUpdate_Ratings": "2023-11-30T02:25:51.4185474+00:00",
-  "LastUpdate_Achievements": "2023-11-30T02:27:24.1236818+00:00"
+  "LastUpdate_Ratings": "2023-11-30T03:02:50.3571694+00:00",
+  "LastUpdate_Achievements": "2023-11-30T03:04:07.8003794+00:00"
 }

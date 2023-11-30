@@ -105,21 +105,21 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Blade | 1.00% | ~1,429 |
 | The Free Encyclopedia | 0.90% | ~1,286 |
 | Eternal Crusade | 0.90% | ~1,286 |
+| The Greatest Grind | 0.70% | ~1,000 |
 | All or Nothing! | 0.70% | ~1,000 |
 | Anything not Nailed Down | 0.60% | ~857 |
-| The Greatest Grind | 0.60% | ~857 |
 | Marvels from the World Over | 0.60% | ~857 |
-| Bane of Legends | 0.50% | ~714 |
-| Ultimate Collector | 0.50% | ~714 |
-| Unleashed Potential | 0.50% | ~714 |
-| JACKPOT!!! | 0.50% | ~714 |
+| Bane of Legends | 0.50% | ~715 |
+| Ultimate Collector | 0.50% | ~715 |
+| Unleashed Potential | 0.50% | ~715 |
+| JACKPOT!!! | 0.50% | ~715 |
 | Oligarch Monarch | 0.40% | ~572 |
 | Merchant Extraordinaire | 0.40% | ~572 |
 | To Hell and Back | 0.30% | ~429 |
 | Cash Only Please | 0.30% | ~429 |
 | Capitalist Camaraderie | 0.20% | ~286 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,897 (Ranked 80)  
+Progressed: 142,901 (Ranked 80)  
 Completed: 289 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,7 +343,7 @@ Completed: 289 (0.20%) (Ranked 257)
 | 2023-11-27 | 142,546 | 278 |
 | 2023-11-28 | 142,735 | 284 |
 | 2023-11-29 | 142,879 | 289 |
-| 2023-11-30 | 142,897 | 289 |
+| 2023-11-30 | 142,901 | 289 |
 ## Awards
 Max (Great for Beginners): 4,855  (Ranked 75)  
 Sum: 27,630 (Ranked 50)  

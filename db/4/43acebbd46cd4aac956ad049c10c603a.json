@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -2201,9 +2201,9 @@
       "ID": "WesternDelta",
       "SetID": "1n308hc",
       "Name": "Western Delta",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "WoodedPlateau",
@@ -2234,8 +2234,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-29T18:59:07.9515154+00:00",
-  "LastChanged_Achievements": "2023-11-30T02:26:17.8218491+00:00",
+  "LastChanged_Achievements": "2023-11-30T03:03:12.6868686+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6295228+00:00",
-  "LastUpdate_Ratings": "2023-11-30T02:22:21.3188865+00:00",
-  "LastUpdate_Achievements": "2023-11-30T02:26:17.8220208+00:00"
+  "LastUpdate_Ratings": "2023-11-30T02:59:13.8116758+00:00",
+  "LastUpdate_Achievements": "2023-11-30T03:03:12.687066+00:00"
 }

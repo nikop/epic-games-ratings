@@ -5,14 +5,14 @@ Rating: 4.40 (Ranked 739)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 11.00% | ~34,877 |
-| IT MAKES BOOM! | 7.00% | ~22,195 |
-| EXTRA BOOST | 5.00% | ~15,853 |
+| ROOKIE | 11.00% | ~34,879 |
+| IT MAKES BOOM! | 7.00% | ~22,196 |
+| EXTRA BOOST | 5.00% | ~15,854 |
 | PROTECTED | 4.00% | ~12,683 |
 | PRO | 4.00% | ~12,683 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,512 |
-| AGGRESSIVE RACER | 3.00% | ~9,512 |
-| A TIGER'S FEAR | 2.00% | ~6,341 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,513 |
+| AGGRESSIVE RACER | 3.00% | ~9,513 |
+| A TIGER'S FEAR | 2.00% | ~6,342 |
 | IT'S A LONG WAY TO THE TOP | 1.00% | ~3,171 |
 | ACE SPEEDSTER | 1.00% | ~3,171 |
 | RELEASE THE KRAKEN | 0.90% | ~2,854 |
@@ -22,16 +22,16 @@ Rating: 4.40 (Ranked 739)
 | LEGENDARY HERO | 0.90% | ~2,854 |
 | TRAINING HARD | 0.80% | ~2,537 |
 | DEFEAT OUR CHAMPION | 0.80% | ~2,537 |
-| THE EYE OF THE HUNTER | 0.70% | ~2,219 |
-| EXPERIENCED CREW | 0.60% | ~1,902 |
+| THE EYE OF THE HUNTER | 0.70% | ~2,220 |
+| EXPERIENCED CREW | 0.60% | ~1,903 |
 | ACE DEFENDER | 0.50% | ~1,585 |
 | ACE BRAWLER | 0.40% | ~1,268 |
 | ACE TRICKSTER | 0.40% | ~1,268 |
 | FRAMED! | 0.30% | ~951 |
 | PERFECTLY POISED | 0.20% | ~634 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 317,067 (Ranked 52)  
-Completed: 349 (0.11%) (Ranked 280)  
+Progressed: 317,084 (Ranked 52)  
+Completed: 350 (0.11%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -250,10 +250,10 @@ Completed: 349 (0.11%) (Ranked 280)
 | 2023-11-27 | 315,001 | 338 |
 | 2023-11-28 | 315,946 | 344 |
 | 2023-11-29 | 316,923 | 349 |
-| 2023-11-30 | 317,067 | 349 |
+| 2023-11-30 | 317,084 | 350 |
 ## Awards
 Max (Great for Beginners): 93  (Ranked 376)  
-Sum: 682 (Ranked 299)  
+Sum: 684 (Ranked 299)  
 Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
@@ -265,7 +265,7 @@ Diff (max vs sum): 77
 | This game has Playful Visuals | 51 |
 | This game has a Competitive Community | 49 |
 | This game has Competitive Players | 47 |
-| This game is Extremely Fun | 44 |
+| This game is Extremely Fun | 46 |
 | This game has Quickly Understood Controls | 42 |
 | This game has Amazing Storytelling | 41 |
 | This game is Relaxing | 41 |
@@ -332,3 +332,4 @@ Diff (max vs sum): 77
 | 2023-11-27 | 4.39 | 89 | 665 |
 | 2023-11-28 | 4.40 | 93 | 675 |
 | 2023-11-29 | 4.40 | 93 | 682 |
+| 2023-11-30 | 4.40 | 93 | 684 |

@@ -33,7 +33,7 @@ Rating: 4.24 (Ranked 887)
 | Master Builder | 0.10% | ~756 |
 | Hard working | 0.10% | ~756 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 755,772 (Ranked 18)  
+Progressed: 755,773 (Ranked 18)  
 Completed: 4 (0.00%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 4 (0.00%) (Ranked 362)
 | 2023-11-27 | 755,351 | 4 |
 | 2023-11-28 | 755,526 | 4 |
 | 2023-11-29 | 755,743 | 4 |
-| 2023-11-30 | 755,772 | 4 |
+| 2023-11-30 | 755,773 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

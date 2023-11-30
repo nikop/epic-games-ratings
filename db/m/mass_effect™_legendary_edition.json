@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1455,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -4991,9 +4991,9 @@
       "ID": "achievement_80",
       "SetID": "d252ncf",
       "Name": "Bringer of War",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 436
+      "UsersEstimate": 451
     },
     {
       "ID": "achievement_81",
@@ -5171,8 +5171,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-30T02:32:04.3657921+00:00",
+  "LastChanged_Achievements": "2023-11-30T03:08:27.8901979+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:10.3433357+00:00",
-  "LastUpdate_Ratings": "2023-11-30T02:26:04.68251+00:00",
-  "LastUpdate_Achievements": "2023-11-30T02:32:04.3659481+00:00"
+  "LastUpdate_Ratings": "2023-11-30T03:03:01.5536965+00:00",
+  "LastUpdate_Achievements": "2023-11-30T03:08:27.8903622+00:00"
 }

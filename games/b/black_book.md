@@ -6,22 +6,22 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 28.00% | ~15,924 |
+| Initiation | 28.00% | ~15,925 |
 | Student | 22.00% | ~12,512 |
 | Knower | 16.00% | ~9,100 |
 | Listener | 15.00% | ~8,531 |
-| Aspen Tree | 14.00% | ~7,962 |
-| Healer | 14.00% | ~7,962 |
+| Aspen Tree | 14.00% | ~7,963 |
+| Healer | 14.00% | ~7,963 |
 | Soldier | 12.00% | ~6,825 |
 | Cow Level | 11.00% | ~6,256 |
 | Scientist | 11.00% | ~6,256 |
-| Water | 10.00% | ~5,687 |
-| Old Friend | 9.00% | ~5,118 |
-| Herbalist | 9.00% | ~5,118 |
-| New Spirits | 9.00% | ~5,118 |
-| Voipel | 9.00% | ~5,118 |
-| Wolf | 9.00% | ~5,118 |
-| Black Mage | 9.00% | ~5,118 |
+| Water | 10.00% | ~5,688 |
+| Old Friend | 9.00% | ~5,119 |
+| Herbalist | 9.00% | ~5,119 |
+| New Spirits | 9.00% | ~5,119 |
+| Voipel | 9.00% | ~5,119 |
+| Wolf | 9.00% | ~5,119 |
+| Black Mage | 9.00% | ~5,119 |
 | Card Player | 8.00% | ~4,550 |
 | Dead Friend | 8.00% | ~4,550 |
 | Pine Tree | 8.00% | ~4,550 |
@@ -50,14 +50,14 @@ Number of Ratings: 96  (23.09.2022)
 | Cheater | 3.00% | ~1,706 |
 | Diplomat | 3.00% | ~1,706 |
 | White Head | 3.00% | ~1,706 |
-| Revelation | 2.00% | ~1,137 |
-| Mistress of Hell | 2.00% | ~1,137 |
-| Detective | 2.00% | ~1,137 |
-| Great Sorceress | 2.00% | ~1,137 |
-| Own Way | 2.00% | ~1,137 |
+| Revelation | 2.00% | ~1,138 |
+| Mistress of Hell | 2.00% | ~1,138 |
+| Detective | 2.00% | ~1,138 |
+| Great Sorceress | 2.00% | ~1,138 |
+| Own Way | 2.00% | ~1,138 |
 | Word Master | 0.20% | ~114 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,872 (Ranked 109)  
+Progressed: 56,875 (Ranked 109)  
 Completed: 57 (0.10%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 57 (0.10%) (Ranked 287)
 | 2023-11-27 | 56,451 | 56 |
 | 2023-11-28 | 56,657 | 56 |
 | 2023-11-29 | 56,849 | 56 |
-| 2023-11-30 | 56,872 | 57 |
+| 2023-11-30 | 56,875 | 57 |
 ## Awards
 Max (Character Customization): 90  (Ranked 381)  
 Sum: 90 (Ranked 457)  

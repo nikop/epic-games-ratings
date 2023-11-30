@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 91.00% | ~403 |
+| Travel Streamer | 91.00% | ~404 |
 | Training Simulation | 76.00% | ~337 |
-| Kuku Bird Hunter | 61.00% | ~270 |
+| Kuku Bird Hunter | 61.00% | ~271 |
 | Storm Traveller | 55.00% | ~244 |
 | Fashion Connoisseur | 50.00% | ~222 |
 | Wolf King Killer | 50.00% | ~222 |
-| Arms Mechanic | 45.00% | ~199 |
+| Arms Mechanic | 45.00% | ~200 |
 | Flower Thief | 41.00% | ~182 |
-| Apostle of Flame | 36.00% | ~159 |
+| Apostle of Flame | 36.00% | ~160 |
 | Beginner Artificer | 35.00% | ~155 |
 | Beginner Cook | 34.00% | ~151 |
 | Seal Breaker | 30.00% | ~133 |
 | Handyman | 27.00% | ~120 |
-| Giant Lizard Killer | 26.00% | ~115 |
+| Giant Lizard Killer | 25.00% | ~111 |
 | Guardian | 25.00% | ~111 |
-| Nosebleeder | 24.00% | ~106 |
+| Nosebleeder | 24.00% | ~107 |
 | Trader | 20.00% | ~89 |
 | Weapon Boost | 20.00% | ~89 |
 | Flying Kobold Killer | 16.00% | ~71 |
 | Youth Magnet | 16.00% | ~71 |
 | Master Artificer | 16.00% | ~71 |
-| Furious Scorpion Killer | 15.00% | ~66 |
-| Lethal Blade Mantis Killer | 15.00% | ~66 |
-| Squeaky Clean | 15.00% | ~66 |
+| Furious Scorpion Killer | 15.00% | ~67 |
+| Lethal Blade Mantis Killer | 15.00% | ~67 |
+| Squeaky Clean | 15.00% | ~67 |
 | Kind Adventurer | 13.00% | ~58 |
 | Mermaid Killer | 12.00% | ~53 |
 | Cave Master | 12.00% | ~53 |
 | Face Slapper | 11.00% | ~49 |
-| Master Cook | 8.00% | ~35 |
+| Master Cook | 8.00% | ~36 |
 | Berserker Slayer | 7.00% | ~31 |
 | Boss challenge | 6.00% | ~27 |
 | Giantess Slayer | 5.00% | ~22 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 1.00% | ~4 |
 | Warden Challenge | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 443 (Ranked 321)  
+Progressed: 444 (Ranked 321)  
 Completed: 1 (0.23%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 1 (0.23%) (Ranked 250)
 | 2023-11-27 | 379 | 1 |
 | 2023-11-28 | 411 | 1 |
 | 2023-11-29 | 439 | 1 |
-| 2023-11-30 | 443 | 1 |
+| 2023-11-30 | 444 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

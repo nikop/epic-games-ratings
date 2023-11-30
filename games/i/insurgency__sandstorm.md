@@ -6,20 +6,20 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~24,738 |
+| Wallbanger | 5.00% | ~24,739 |
 | Exploitative | 4.00% | ~19,791 |
 | Point Shooting | 4.00% | ~19,791 |
 | Wet Feet | 4.00% | ~19,791 |
-| High Speed Low Drag | 3.00% | ~14,843 |
-| Lucky | 3.00% | ~14,843 |
-| Stylin' | 3.00% | ~14,843 |
-| Turf War | 3.00% | ~14,843 |
-| Banged | 2.00% | ~9,895 |
-| Checkpoint Victory | 2.00% | ~9,895 |
-| First Blood | 2.00% | ~9,895 |
-| Flaccid Paralysis | 2.00% | ~9,895 |
-| Push Victory | 2.00% | ~9,895 |
-| Self-destructive | 2.00% | ~9,895 |
+| High Speed Low Drag | 3.00% | ~14,844 |
+| Lucky | 3.00% | ~14,844 |
+| Stylin' | 3.00% | ~14,844 |
+| Turf War | 3.00% | ~14,844 |
+| Banged | 2.00% | ~9,896 |
+| Checkpoint Victory | 2.00% | ~9,896 |
+| First Blood | 2.00% | ~9,896 |
+| Flaccid Paralysis | 2.00% | ~9,896 |
+| Push Victory | 2.00% | ~9,896 |
+| Self-destructive | 2.00% | ~9,896 |
 | Blindfire | 1.00% | ~4,948 |
 | Ruthless | 1.00% | ~4,948 |
 | Semper Paratus | 1.00% | ~4,948 |
@@ -29,7 +29,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | Personal | 0.90% | ~4,453 |
 | Grounded | 0.80% | ~3,958 |
 | Play to Win | 0.80% | ~3,958 |
-| Special Delivery | 0.70% | ~3,463 |
+| Special Delivery | 0.70% | ~3,464 |
 | Firefight Victory | 0.60% | ~2,969 |
 | #1 | 0.60% | ~2,969 |
 | Cinematic | 0.50% | ~2,474 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~495 |
 | Road Hazard | 0.10% | ~495 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 494,769 (Ranked 37)  
+Progressed: 494,786 (Ranked 37)  
 Completed: 2 (0.00%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 2 (0.00%) (Ranked 362)
 | 2023-11-27 | 493,246 | 2 |
 | 2023-11-28 | 494,142 | 2 |
 | 2023-11-29 | 494,673 | 2 |
-| 2023-11-30 | 494,769 | 2 |
+| 2023-11-30 | 494,786 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 400  (Ranked 233)  
 Sum: 3,188 (Ranked 174)  

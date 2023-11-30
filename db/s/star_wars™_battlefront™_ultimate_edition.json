@@ -4,8 +4,8 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1474,
+  "EOS_Progressed": 1476,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4399,6 +4399,11 @@
       "Time": "2023-11-30T01:56:41.8715021+00:00",
       "NumProgressed": 1474,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T03:09:18.2133274+00:00",
+      "NumProgressed": 1476,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4459,7 +4464,7 @@
       "Name": "The Force is strong with this one",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_16",
@@ -4483,7 +4488,7 @@
       "Name": "The power of the Force",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "achievement_19",
@@ -4505,9 +4510,9 @@
       "ID": "achievement_20",
       "SetID": "271ol84",
       "Name": "Collector",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 207
     },
     {
       "ID": "achievement_21",
@@ -4531,7 +4536,7 @@
       "Name": "Determined",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_24",
@@ -4555,7 +4560,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "achievement_27",
@@ -4595,7 +4600,7 @@
       "Name": "Precision shot",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_31",
@@ -4603,7 +4608,7 @@
       "Name": "Scrap collector",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "achievement_32",
@@ -4635,7 +4640,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "achievement_36",
@@ -4643,7 +4648,7 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_37",
@@ -4651,7 +4656,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "achievement_38",
@@ -4683,7 +4688,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "achievement_41",
@@ -4691,7 +4696,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_42",
@@ -4715,7 +4720,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_45",
@@ -4723,7 +4728,7 @@
       "Name": "This is a new day, a new beginning",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_46",
@@ -4763,7 +4768,7 @@
       "Name": "Shoot first",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "achievement_50",
@@ -4771,7 +4776,7 @@
       "Name": "City in the Clouds",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_51",
@@ -4803,7 +4808,7 @@
       "Name": "That\u0027s no moon",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_55",
@@ -4835,7 +4840,7 @@
       "Name": "Alternative solution",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_59",
@@ -4859,7 +4864,7 @@
       "Name": "What will you become?",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_61",
@@ -4883,7 +4888,7 @@
       "Name": "Disturbed tranquility",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_7",
@@ -4914,13 +4919,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1474,
+      "Progressed": 1476,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1474,
+      "Progressed": 1476,
       "Completed": 1
     }
   ],
@@ -4928,8 +4933,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-30T02:33:04.0711038+00:00",
+  "LastChanged_Achievements": "2023-11-30T03:09:18.2133269+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:02.7370766+00:00",
-  "LastUpdate_Ratings": "2023-11-30T02:20:32.2525283+00:00",
-  "LastUpdate_Achievements": "2023-11-30T02:33:04.0711884+00:00"
+  "LastUpdate_Ratings": "2023-11-30T02:57:46.3375293+00:00",
+  "LastUpdate_Achievements": "2023-11-30T03:09:18.2134029+00:00"
 }
