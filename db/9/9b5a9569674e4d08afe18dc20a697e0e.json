@@ -479,9 +479,9 @@
       "ID": "ADVENTURE",
       "SetID": "40o4f14",
       "Name": "Adventure awaits",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 100,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "BARON",
@@ -551,9 +551,9 @@
       "ID": "GENERAL",
       "SetID": "40o4f14",
       "Name": "General",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "GOLSA",
@@ -575,9 +575,9 @@
       "ID": "HERO",
       "SetID": "40o4f14",
       "Name": "Hero",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "KING",
@@ -734,8 +734,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-30T07:05:47.1132777+00:00",
+  "LastChanged_Achievements": "2023-11-30T08:05:37.3566872+00:00",
   "LastUpdate_AppInfo": "2023-11-30T01:44:08.4871505+00:00",
-  "LastUpdate_Ratings": "2023-11-30T06:59:14.5531181+00:00",
-  "LastUpdate_Achievements": "2023-11-30T07:05:47.1132986+00:00"
+  "LastUpdate_Ratings": "2023-11-30T07:58:52.9388269+00:00",
+  "LastUpdate_Achievements": "2023-11-30T08:05:37.3567103+00:00"
 }

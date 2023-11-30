@@ -9276,9 +9276,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 66661,
+  "EOS_Progressed": 66663,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 935,
+  "EOS_NewPlayers": 934,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32881,6 +32881,11 @@
       "Time": "2023-11-30T07:09:21.5129724+00:00",
       "NumProgressed": 66661,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T08:09:11.3335156+00:00",
+      "NumProgressed": 66663,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -32932,7 +32937,7 @@
       "Name": "Butterlord",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5999
+      "UsersEstimate": 6000
     },
     {
       "ID": "Catch",
@@ -33116,7 +33121,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21998
+      "UsersEstimate": 21999
     },
     {
       "ID": "Lawbringer",
@@ -33124,7 +33129,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26664
+      "UsersEstimate": 26665
     },
     {
       "ID": "Lawmaker",
@@ -33284,7 +33289,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2666
+      "UsersEstimate": 2667
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -33299,15 +33304,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 66661,
+      "Progressed": 66663,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-29T21:00:12.4126572+00:00",
-  "LastChanged_Achievements": "2023-11-30T07:09:21.5129721+00:00",
+  "LastChanged_Achievements": "2023-11-30T08:09:11.333515+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:24.2741585+00:00",
-  "LastUpdate_Ratings": "2023-11-30T07:00:26.4986448+00:00",
-  "LastUpdate_Achievements": "2023-11-30T07:09:21.5131223+00:00"
+  "LastUpdate_Ratings": "2023-11-30T08:00:02.7330839+00:00",
+  "LastUpdate_Achievements": "2023-11-30T08:09:11.3336634+00:00"
 }

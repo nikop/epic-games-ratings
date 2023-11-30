@@ -233,7 +233,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 154764,
+  "EOS_Progressed": 154765,
   "EOS_Completed": 350,
   "EOS_NewPlayers": 854,
   "EOS_NewCompleters": 11,
@@ -19918,6 +19918,11 @@
       "Time": "2023-11-30T07:05:33.0947701+00:00",
       "NumProgressed": 154764,
       "NumCompleted": 350
+    },
+    {
+      "Time": "2023-11-30T08:05:23.2263851+00:00",
+      "NumProgressed": 154765,
+      "NumCompleted": 350
     }
   ],
   "TotalAchievements": 31,
@@ -19937,7 +19942,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 108335
+      "UsersEstimate": 108336
     },
     {
       "ID": "EAwards_10",
@@ -19953,7 +19958,7 @@
       "Name": "Pollo Power",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 32500
+      "UsersEstimate": 32501
     },
     {
       "ID": "EAwards_12",
@@ -20161,7 +20166,7 @@
       "Name": "Flawless",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 58810
+      "UsersEstimate": 58811
     },
     {
       "ID": "EAwards_9",
@@ -20176,7 +20181,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 154764,
+      "Progressed": 154765,
       "Completed": 350
     }
   ],
@@ -20184,8 +20189,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-11-30T07:05:33.0947698+00:00",
+  "LastChanged_Achievements": "2023-11-30T08:05:23.2263845+00:00",
   "LastUpdate_AppInfo": "2023-11-24T04:57:18.3123546+00:00",
-  "LastUpdate_Ratings": "2023-11-30T06:57:46.517257+00:00",
-  "LastUpdate_Achievements": "2023-11-30T07:05:33.0948864+00:00"
+  "LastUpdate_Ratings": "2023-11-30T07:57:25.6684862+00:00",
+  "LastUpdate_Achievements": "2023-11-30T08:05:23.2264976+00:00"
 }

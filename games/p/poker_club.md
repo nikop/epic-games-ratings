@@ -5,21 +5,21 @@ Rating: 3.82 (Ranked 1,032)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~410,781 |
-| Handy | 42.00% | ~227,010 |
-| Cold Caller | 40.00% | ~216,200 |
-| A Bit On The Side | 27.00% | ~145,935 |
-| Backdoor | 25.00% | ~135,125 |
-| Rank Amateur | 22.00% | ~118,910 |
-| Three Way | 19.00% | ~102,695 |
-| Deadly Assassin | 16.00% | ~86,480 |
-| Gutshot | 14.00% | ~75,670 |
-| Risk It For A Biscuit | 14.00% | ~75,670 |
-| Showoff | 13.00% | ~70,265 |
-| W.H.I.P. | 12.00% | ~64,860 |
-| Bet Bet Bet | 10.00% | ~54,050 |
-| Blindman's Bluff | 9.00% | ~48,645 |
-| Poker Joker | 9.00% | ~48,645 |
+| Pro Creation | 76.00% | ~410,785 |
+| Handy | 42.00% | ~227,013 |
+| Cold Caller | 40.00% | ~216,202 |
+| A Bit On The Side | 27.00% | ~145,937 |
+| Backdoor | 25.00% | ~135,126 |
+| Rank Amateur | 22.00% | ~118,911 |
+| Three Way | 19.00% | ~102,696 |
+| Deadly Assassin | 16.00% | ~86,481 |
+| Gutshot | 14.00% | ~75,671 |
+| Risk It For A Biscuit | 14.00% | ~75,671 |
+| Showoff | 13.00% | ~70,266 |
+| W.H.I.P. | 12.00% | ~64,861 |
+| Bet Bet Bet | 10.00% | ~54,051 |
+| Blindman's Bluff | 9.00% | ~48,646 |
+| Poker Joker | 9.00% | ~48,646 |
 | Never Give Up | 8.00% | ~43,240 |
 | The Bigger They Are | 8.00% | ~43,240 |
 | Total Knock Out | 8.00% | ~43,240 |
@@ -51,7 +51,7 @@ Rating: 3.82 (Ranked 1,032)
 | Rounder | 0.10% | ~541 |
 | Top Dog | 0.10% | ~541 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 540,501 (Ranked 33)  
+Progressed: 540,506 (Ranked 33)  
 Completed: 2 (0.00%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 2 (0.00%) (Ranked 362)
 | 2023-11-27 | 540,176 | 2 |
 | 2023-11-28 | 540,318 | 2 |
 | 2023-11-29 | 540,462 | 2 |
-| 2023-11-30 | 540,501 | 2 |
+| 2023-11-30 | 540,506 | 2 |
 ## Awards
 Max (Great for Beginners): 62  (Ranked 415)  
 Sum: 183 (Ranked 410)  

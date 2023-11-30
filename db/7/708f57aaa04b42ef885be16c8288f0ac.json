@@ -5,7 +5,7 @@
   "Ranking_Rating": 148,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
-  "Ranking_EOS_Progress": 181,
+  "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 91,
@@ -147,9 +147,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7117,
+  "EOS_Progressed": 7118,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1132,
+  "EOS_NewPlayers": 1123,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4987,6 +4987,11 @@
       "Time": "2023-11-30T07:09:07.344104+00:00",
       "NumProgressed": 7117,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-30T08:08:57.2196949+00:00",
+      "NumProgressed": 7118,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5173,9 +5178,9 @@
       "ID": "ScorchSquad",
       "SetID": "acc6ea0",
       "Name": "Scorch Squaaad!",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 57
     },
     {
       "ID": "TheFloorIsLava",
@@ -5270,7 +5275,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7117,
+      "Progressed": 7118,
       "Completed": 8
     }
   ],
@@ -5278,8 +5283,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-29T13:05:55.0870892+00:00",
-  "LastChanged_Achievements": "2023-11-30T07:09:07.3441037+00:00",
+  "LastChanged_Achievements": "2023-11-30T08:08:57.2196943+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6423909+00:00",
-  "LastUpdate_Ratings": "2023-11-30T06:59:46.6546764+00:00",
-  "LastUpdate_Achievements": "2023-11-30T07:09:07.3441454+00:00"
+  "LastUpdate_Ratings": "2023-11-30T07:59:23.5344789+00:00",
+  "LastUpdate_Achievements": "2023-11-30T08:08:57.2197368+00:00"
 }

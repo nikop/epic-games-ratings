@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -28121,9 +28121,9 @@
       "ID": "34_TimedTakedown",
       "SetID": "adcm20g",
       "Name": "Lightning Hands",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4306
+      "UsersEstimate": 5023
     },
     {
       "ID": "35_WideStrike",
@@ -28351,8 +28351,8 @@
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-11-30T05:01:25.8357673+00:00",
-  "LastChanged_Achievements": "2023-11-30T07:05:00.576408+00:00",
+  "LastChanged_Achievements": "2023-11-30T08:04:50.5682825+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:20.5864979+00:00",
-  "LastUpdate_Ratings": "2023-11-30T07:00:19.5355016+00:00",
-  "LastUpdate_Achievements": "2023-11-30T07:05:00.5765187+00:00"
+  "LastUpdate_Ratings": "2023-11-30T07:59:56.0105765+00:00",
+  "LastUpdate_Achievements": "2023-11-30T08:04:50.568411+00:00"
 }

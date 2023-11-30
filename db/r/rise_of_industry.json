@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 755799,
+  "EOS_Progressed": 755802,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1804,
+  "EOS_NewPlayers": 1798,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25959,6 +25959,11 @@
       "Time": "2023-11-30T07:05:19.889735+00:00",
       "NumProgressed": 755799,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-30T08:05:09.8293805+00:00",
+      "NumProgressed": 755802,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -26034,7 +26039,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 279646
+      "UsersEstimate": 279647
     },
     {
       "ID": "ach_demolish_trees",
@@ -26098,7 +26103,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 362784
+      "UsersEstimate": 362785
     },
     {
       "ID": "ach_produced",
@@ -26185,7 +26190,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 755799,
+      "Progressed": 755802,
       "Completed": 4
     }
   ],
@@ -26193,8 +26198,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-10-31T23:59:21.8716431+00:00",
-  "LastChanged_Achievements": "2023-11-30T07:05:19.8897347+00:00",
+  "LastChanged_Achievements": "2023-11-30T08:05:09.8293798+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:35.1283048+00:00",
-  "LastUpdate_Ratings": "2023-11-30T06:59:02.6812151+00:00",
-  "LastUpdate_Achievements": "2023-11-30T07:05:19.8898513+00:00"
+  "LastUpdate_Ratings": "2023-11-30T07:58:40.791444+00:00",
+  "LastUpdate_Achievements": "2023-11-30T08:05:09.8295174+00:00"
 }

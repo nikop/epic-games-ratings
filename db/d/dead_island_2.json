@@ -7071,9 +7071,9 @@
       "Count": 502
     }
   ],
-  "EOS_Progressed": 727898,
+  "EOS_Progressed": 727908,
   "EOS_Completed": 2451,
-  "EOS_NewPlayers": 4954,
+  "EOS_NewPlayers": 4947,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -32701,6 +32701,11 @@
       "Time": "2023-11-30T07:08:14.9830532+00:00",
       "NumProgressed": 727898,
       "NumCompleted": 2451
+    },
+    {
+      "Time": "2023-11-30T08:06:35.4719903+00:00",
+      "NumProgressed": 727908,
+      "NumCompleted": 2451
     }
   ],
   "TotalAchievements": 51,
@@ -32784,7 +32789,7 @@
       "Name": "On Safari",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3639
+      "UsersEstimate": 3640
     },
     {
       "ID": "ach_defensive",
@@ -32816,7 +32821,7 @@
       "Name": "Smorgasbord",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3639
+      "UsersEstimate": 3640
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -32888,7 +32893,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3639
+      "UsersEstimate": 3640
     },
     {
       "ID": "ach_investigator",
@@ -33040,7 +33045,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3639
+      "UsersEstimate": 3640
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -33080,7 +33085,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1604
     },
     {
       "ID": "ach_gardening_tools",
@@ -33110,22 +33115,22 @@
       "ID": "ach_zombie_predator",
       "SetID": "344c43k",
       "Name": "Top That, Tisha!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 214
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 727898,
+      "Progressed": 727908,
       "Completed": 2451
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 53440,
+      "Progressed": 53450,
       "Completed": 36615
     }
   ],
@@ -33133,8 +33138,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-30T02:21:14.3342391+00:00",
-  "LastChanged_Achievements": "2023-11-30T07:08:14.983053+00:00",
+  "LastChanged_Achievements": "2023-11-30T08:06:35.4719897+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-30T06:58:40.3130684+00:00",
-  "LastUpdate_Achievements": "2023-11-30T07:08:14.983185+00:00"
+  "LastUpdate_Ratings": "2023-11-30T07:58:18.7943563+00:00",
+  "LastUpdate_Achievements": "2023-11-30T08:06:35.4721113+00:00"
 }

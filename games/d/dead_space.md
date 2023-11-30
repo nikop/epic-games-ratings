@@ -17,8 +17,8 @@ Rating: 4.64 (Ranked 336)
 | Raise the Stakes | 56.00% | ~1,149 |
 | Surgeon | 54.00% | ~1,108 |
 | Exterminator | 53.00% | ~1,088 |
+| Greenhouse Effect | 53.00% | ~1,088 |
 | Freeze | 52.00% | ~1,067 |
-| Greenhouse Effect | 52.00% | ~1,067 |
 | S.O.S. | 47.00% | ~964 |
 | Full Arsenal | 46.00% | ~944 |
 | Get Off My Ship! | 45.00% | ~923 |

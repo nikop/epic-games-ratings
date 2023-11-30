@@ -13,18 +13,18 @@
 | Mind Illuminator | 37.00% | ~35 |
 | Wild's Keeper | 37.00% | ~35 |
 | Noctuan Champion | 36.00% | ~34 |
-| Stellar Dismantler | 32.00% | ~30 |
+| Stellar Dismantler | 33.00% | ~31 |
+| Eridanian Champion | 30.00% | ~28 |
 | Lacertian Champion | 30.00% | ~28 |
 | Anomaly Destroyer | 29.00% | ~27 |
-| Eridanian Champion | 29.00% | ~27 |
+| Apian Champion | 26.00% | ~24 |
 | Astral Adventurer | 24.00% | ~23 |
-| Apian Champion | 24.00% | ~23 |
+| Star Killer | 24.00% | ~23 |
 | Loyal Partner | 23.00% | ~22 |
-| Star Killer | 23.00% | ~22 |
 | Behenian Champion | 21.00% | ~20 |
 | Shard Spender | 19.00% | ~18 |
 | Unbeatable | 18.00% | ~17 |
-| Aquarian Champion | 16.00% | ~15 |
+| Aquarian Champion | 17.00% | ~16 |
 | Astral Seeker | 15.00% | ~14 |
 | Stellar Haste | 15.00% | ~14 |
 | Heart Gate | 14.00% | ~13 |
@@ -32,7 +32,7 @@
 | The Corruption Goddess | 13.00% | ~12 |
 | The Goddes Avatar | 13.00% | ~12 |
 | Sadistic Plan | 12.00% | ~11 |
-| Heavy Purger | 10.00% | ~9 |
+| Heavy Purger | 11.00% | ~10 |
 | Wave Bender | 10.00% | ~9 |
 | Apian Hero | 10.00% | ~9 |
 | Anomaly Control | 9.00% | ~8 |

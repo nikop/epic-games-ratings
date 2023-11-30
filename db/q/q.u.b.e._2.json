@@ -6,9 +6,9 @@
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 119,
-  "Ranking_EOS_Completed": 218,
+  "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -551,9 +551,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 41765,
+  "EOS_Progressed": 41766,
   "EOS_Completed": 176,
-  "EOS_NewPlayers": 1099,
+  "EOS_NewPlayers": 1097,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -8871,6 +8871,11 @@
       "Time": "2023-11-30T07:08:28.8274102+00:00",
       "NumProgressed": 41765,
       "NumCompleted": 176
+    },
+    {
+      "Time": "2023-11-30T08:08:18.7470744+00:00",
+      "NumProgressed": 41766,
+      "NumCompleted": 176
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -8899,7 +8904,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 7935
+      "UsersEstimate": 7936
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -9019,7 +9024,7 @@
       "Name": "Infinity Loop",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 6682
+      "UsersEstimate": 6683
     },
     {
       "ID": "ACH_HUB1",
@@ -9027,7 +9032,7 @@
       "Name": "Mission Success",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 9188
+      "UsersEstimate": 9189
     },
     {
       "ID": "ACH_HUB2",
@@ -9051,7 +9056,7 @@
       "Name": "There\u0027s No Place Like Home",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 9188
+      "UsersEstimate": 9189
     },
     {
       "ID": "ACH_PROPELL",
@@ -9075,7 +9080,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 28400
+      "UsersEstimate": 28401
     },
     {
       "ID": "ACH_S4",
@@ -9083,7 +9088,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 20882
+      "UsersEstimate": 20883
     },
     {
       "ID": "ACH_S5",
@@ -9091,7 +9096,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 15035
+      "UsersEstimate": 15036
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -9114,15 +9119,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 41765,
+      "Progressed": 41766,
       "Completed": 176
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-11-25T10:58:21.218684+00:00",
-  "LastChanged_Achievements": "2023-11-30T07:08:28.8274099+00:00",
+  "LastChanged_Achievements": "2023-11-30T08:08:18.7470738+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:06.5276065+00:00",
-  "LastUpdate_Ratings": "2023-11-30T07:00:29.2440656+00:00",
-  "LastUpdate_Achievements": "2023-11-30T07:08:28.8274679+00:00"
+  "LastUpdate_Ratings": "2023-11-30T08:00:05.5438261+00:00",
+  "LastUpdate_Achievements": "2023-11-30T08:08:18.7471252+00:00"
 }

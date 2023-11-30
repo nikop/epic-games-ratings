@@ -339,9 +339,9 @@
       "ID": "COMPLETE_BASEMENT",
       "SetID": "dademeo",
       "Name": "Complete basement",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "COMPLETE_FACTORY",
@@ -435,9 +435,9 @@
       "ID": "SECRET_HIDEOUT",
       "SetID": "dademeo",
       "Name": "Secret hideout",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -450,8 +450,8 @@
   ],
   "FirstSeen": "2023-06-24T07:57:28.1262112+00:00",
   "FirstSeenAchievements": "2023-05-09T08:01:56.5974066+00:00",
-  "LastChanged_Achievements": "2023-11-30T07:08:33.9121428+00:00",
+  "LastChanged_Achievements": "2023-11-30T08:08:23.9241458+00:00",
   "LastUpdate_AppInfo": "2023-11-29T01:48:50.0032011+00:00",
-  "LastUpdate_Ratings": "2023-11-30T06:58:38.1290358+00:00",
-  "LastUpdate_Achievements": "2023-11-30T07:08:33.9121528+00:00"
+  "LastUpdate_Ratings": "2023-11-30T07:58:16.4391373+00:00",
+  "LastUpdate_Achievements": "2023-11-30T08:08:23.9241579+00:00"
 }

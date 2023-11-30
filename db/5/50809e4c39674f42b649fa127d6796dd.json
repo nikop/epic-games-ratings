@@ -923,9 +923,9 @@
       "ID": "FIRST_ACCEL_COMBO",
       "SetID": "apihg0e",
       "Name": "Combo Convert",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 138
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -1194,8 +1194,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-30T07:08:29.605874+00:00",
+  "LastChanged_Achievements": "2023-11-30T08:08:19.5432508+00:00",
   "LastUpdate_AppInfo": "2023-11-28T17:56:55.9843317+00:00",
-  "LastUpdate_Ratings": "2023-11-30T07:02:53.9053315+00:00",
-  "LastUpdate_Achievements": "2023-11-30T07:08:29.6058954+00:00"
+  "LastUpdate_Ratings": "2023-11-30T08:02:39.1307091+00:00",
+  "LastUpdate_Achievements": "2023-11-30T08:08:19.543276+00:00"
 }

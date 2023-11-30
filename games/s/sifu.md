@@ -9,6 +9,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Diligence as a goal | 1.00% | ~269 |
 | The Old Grandmaster | 0.70% | ~5,023 |
 | Life is your teacher | 0.70% | ~5,023 |
+| Lightning Hands | 0.70% | ~5,023 |
 | Project Arena | 0.70% | ~189 |
 | The Assault | 0.60% | ~4,306 |
 | The Hateful Pole Fighter | 0.60% | ~4,306 |
@@ -17,7 +18,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 0.60% | ~4,306 |
 | Qi Gong: Breath | 0.60% | ~4,306 |
 | Qi Gong: Essence | 0.60% | ~4,306 |
-| Lightning Hands | 0.60% | ~4,306 |
 | Path of the Prospect | 0.60% | ~4,306 |
 | Rumble in the Hangar | 0.60% | ~4,306 |
 | Fight the way you practice | 0.60% | ~162 |

@@ -1523,9 +1523,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 7034,
+  "EOS_Progressed": 7035,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -13723,6 +13723,11 @@
       "Time": "2023-11-30T05:08:05.083634+00:00",
       "NumProgressed": 7034,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-30T08:03:03.2763822+00:00",
+      "NumProgressed": 7035,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -13750,7 +13755,7 @@
       "Name": "Disassembled",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "DISMANTLE_ITEMS_50",
@@ -13758,7 +13763,7 @@
       "Name": "Nothing Wasted",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "HARVEST_CROPS_200",
@@ -13774,7 +13779,7 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5346
+      "UsersEstimate": 5347
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -13782,7 +13787,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5135
+      "UsersEstimate": 5136
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -13790,7 +13795,7 @@
       "Name": "A Party Now",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "HUNT_DEER_20",
@@ -13806,7 +13811,7 @@
       "Name": "Oh Deer!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "HUNT_RABBIT_20",
@@ -13838,7 +13843,7 @@
       "Name": "Don\u0027t Cry Wolf",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "KILL_RAIDER",
@@ -13846,7 +13851,7 @@
       "Name": "Retribution",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 2954
+      "UsersEstimate": 2955
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -13902,7 +13907,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 2954
+      "UsersEstimate": 2955
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -13918,7 +13923,7 @@
       "Name": "Winter Is Here",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1758
+      "UsersEstimate": 1759
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -13926,7 +13931,7 @@
       "Name": "All Year Round",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "SURVIVE_SEVEN_DAY",
@@ -13950,7 +13955,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 3165
+      "UsersEstimate": 3166
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -13981,15 +13986,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7034,
+      "Progressed": 7035,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-11-30T04:00:01.4428922+00:00",
-  "LastChanged_Achievements": "2023-11-30T07:03:14.7357346+00:00",
+  "LastChanged_Achievements": "2023-11-30T08:03:03.2763816+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:23.1121034+00:00",
-  "LastUpdate_Ratings": "2023-11-30T07:00:23.8983314+00:00",
-  "LastUpdate_Achievements": "2023-11-30T07:03:14.7358226+00:00"
+  "LastUpdate_Ratings": "2023-11-30T08:00:00.1880395+00:00",
+  "LastUpdate_Achievements": "2023-11-30T08:03:03.2764613+00:00"
 }

@@ -20,6 +20,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Sorted | 0.20% | ~2,109 |
 | Healthy Obsession | 0.20% | ~2,109 |
 | Resurgence | 0.20% | ~2,109 |
+| Preemptive Strike | 0.20% | ~2,109 |
 | Make Some Noise | 0.20% | ~2,109 |
 | The Grand Sacrifice | 0.10% | ~1,055 |
 | A bite for the Entity | 0.10% | ~1,055 |
@@ -174,7 +175,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Close Shave | 0.10% | ~1,055 |
 | Adept Yun-Jin | 0.10% | ~1,055 |
 | Biological Weaponry | 0.10% | ~1,055 |
-| Preemptive Strike | 0.10% | ~1,055 |
 | Adept Nemesis | 0.10% | ~1,055 |
 | Raccoon City Recruit | 0.10% | ~1,055 |
 | Adept Leon | 0.10% | ~1,055 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,055 |
 | Adept Good Guy | 0.10% | ~1,055 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,054,634 (Ranked 14)  
+Progressed: 1,054,686 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -463,7 +463,7 @@ Completed: 61 (0.01%) (Ranked 342)
 | 2023-11-27 | 1,048,888 | 61 |
 | 2023-11-28 | 1,050,827 | 61 |
 | 2023-11-29 | 1,053,910 | 61 |
-| 2023-11-30 | 1,054,634 | 61 |
+| 2023-11-30 | 1,054,686 | 61 |
 ## Awards
 Max (Diverse Characters): 36,896  (Ranked 15)  
 Sum: 280,728 (Ranked 12)  

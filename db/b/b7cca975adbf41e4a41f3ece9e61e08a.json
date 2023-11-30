@@ -181,9 +181,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 10407,
+  "EOS_Progressed": 10408,
   "EOS_Completed": 178,
-  "EOS_NewPlayers": 1240,
+  "EOS_NewPlayers": 1230,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -5026,6 +5026,11 @@
       "Time": "2023-11-30T07:08:19.93819+00:00",
       "NumProgressed": 10407,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2023-11-30T08:06:40.3948397+00:00",
+      "NumProgressed": 10408,
+      "NumCompleted": 178
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -5038,7 +5043,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 91,
       "XP": 20,
-      "UsersEstimate": 9470
+      "UsersEstimate": 9471
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -5046,7 +5051,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 8950
+      "UsersEstimate": 8951
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -5070,7 +5075,7 @@
       "Name": "Off We Sail Tonight",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1977
+      "UsersEstimate": 1978
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -5134,7 +5139,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 7493
+      "UsersEstimate": 7494
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -5142,7 +5147,7 @@
       "Name": "Happy Family",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 3642
+      "UsersEstimate": 3643
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_21",
@@ -5174,7 +5179,7 @@
       "Name": "Love Actually",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 4995
+      "UsersEstimate": 4996
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -5182,7 +5187,7 @@
       "Name": "Absolutely Elegant",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 3434
+      "UsersEstimate": 3435
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_26",
@@ -5190,7 +5195,7 @@
       "Name": "Still Single",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 3330
+      "UsersEstimate": 3331
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -5246,7 +5251,7 @@
       "Name": "What I Want Is You",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 6244
+      "UsersEstimate": 6245
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -5254,7 +5259,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 5932
+      "UsersEstimate": 5933
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -5278,7 +5283,7 @@
       "Name": "ONE PUNCH",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 3538
+      "UsersEstimate": 3539
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -5286,7 +5291,7 @@
       "Name": "FIRST LOVE",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 3538
+      "UsersEstimate": 3539
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_0",
@@ -5310,7 +5315,7 @@
       "Name": "Drama CP: Reel to Real",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3538
+      "UsersEstimate": 3539
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_3",
@@ -5342,7 +5347,7 @@
       "Name": "Worthless Speech",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3642
+      "UsersEstimate": 3643
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_7",
@@ -5373,7 +5378,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 10407,
+      "Progressed": 10408,
       "Completed": 178
     }
   ],
@@ -5381,8 +5386,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-11-29T14:58:18.5447186+00:00",
-  "LastChanged_Achievements": "2023-11-30T07:08:19.9381897+00:00",
+  "LastChanged_Achievements": "2023-11-30T08:06:40.3948392+00:00",
   "LastUpdate_AppInfo": "2023-11-25T01:40:00.6082481+00:00",
-  "LastUpdate_Ratings": "2023-11-30T06:58:57.2912353+00:00",
-  "LastUpdate_Achievements": "2023-11-30T07:08:19.9382419+00:00"
+  "LastUpdate_Ratings": "2023-11-30T07:58:35.4869988+00:00",
+  "LastUpdate_Achievements": "2023-11-30T08:06:40.3948837+00:00"
 }

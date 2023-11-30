@@ -509,9 +509,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 101576,
+  "EOS_Progressed": 101579,
   "EOS_Completed": 1030,
-  "EOS_NewPlayers": 1161,
+  "EOS_NewPlayers": 1159,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -26094,6 +26094,11 @@
       "Time": "2023-11-30T07:09:04.7317337+00:00",
       "NumProgressed": 101576,
       "NumCompleted": 1030
+    },
+    {
+      "Time": "2023-11-30T08:08:54.5556692+00:00",
+      "NumProgressed": 101579,
+      "NumCompleted": 1030
     }
   ],
   "TotalAchievements": 56,
@@ -26105,7 +26110,7 @@
       "Name": "Just The Two of Us",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 33520
+      "UsersEstimate": 33521
     },
     {
       "ID": "ach_001_game_complete",
@@ -26137,7 +26142,7 @@
       "Name": "Amateur Historian",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 7110
+      "UsersEstimate": 7111
     },
     {
       "ID": "ach_005_machinist_mask",
@@ -26153,7 +26158,7 @@
       "Name": "The Beetle Mask",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 7110
+      "UsersEstimate": 7111
     },
     {
       "ID": "ach_007_climbers_mask",
@@ -26177,7 +26182,7 @@
       "Name": "The Guard Mask",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 7110
+      "UsersEstimate": 7111
     },
     {
       "ID": "ach_010_scrapper_mask",
@@ -26217,7 +26222,7 @@
       "Name": "Chum Novice",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 16252
+      "UsersEstimate": 16253
     },
     {
       "ID": "ach_015_all_chum_eggs",
@@ -26257,7 +26262,7 @@
       "Name": "Rowleys Way",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11173
+      "UsersEstimate": 11174
     },
     {
       "ID": "ach_020_door_centre_of_brunswick",
@@ -26281,7 +26286,7 @@
       "Name": "Thread The Needle",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 15236
+      "UsersEstimate": 15237
     },
     {
       "ID": "ach_023_open_sandwyrm",
@@ -26313,7 +26318,7 @@
       "Name": "Up On High",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 25394
+      "UsersEstimate": 25395
     },
     {
       "ID": "ach_027_fix_atomic_heart",
@@ -26345,7 +26350,7 @@
       "Name": "Smoked Out",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7110
+      "UsersEstimate": 7111
     },
     {
       "ID": "ach_031_enter_hercules_beetle_nest",
@@ -26361,7 +26366,7 @@
       "Name": "Got Your Nose",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 24378
+      "UsersEstimate": 24379
     },
     {
       "ID": "ach_033_collect_slicer_beetle_poo",
@@ -26377,7 +26382,7 @@
       "Name": "A Hard Place",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7110
+      "UsersEstimate": 7111
     },
     {
       "ID": "ach_035_collect_bike_parts_1",
@@ -26417,7 +26422,7 @@
       "Name": "Simoon",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 34536
+      "UsersEstimate": 34537
     },
     {
       "ID": "ach_040_customise_hoverbike",
@@ -26425,7 +26430,7 @@
       "Name": "Under The Hood",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 25394
+      "UsersEstimate": 25395
     },
     {
       "ID": "ach_041_talk_to_npcs_1",
@@ -26433,7 +26438,7 @@
       "Name": "The Gift of Gab",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 24378
+      "UsersEstimate": 24379
     },
     {
       "ID": "ach_042_talk_to_npcs_2",
@@ -26441,7 +26446,7 @@
       "Name": "Silver-Tongued Sable",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 16252
+      "UsersEstimate": 16253
     },
     {
       "ID": "ach_043_climb_large_distance",
@@ -26449,7 +26454,7 @@
       "Name": "Sticky Paws",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 16252
+      "UsersEstimate": 16253
     },
     {
       "ID": "ach_044_open_chests_1",
@@ -26489,7 +26494,7 @@
       "Name": "Bubble Up",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 16252
+      "UsersEstimate": 16253
     },
     {
       "ID": "ach_049_fall_from_large_height",
@@ -26552,15 +26557,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 101576,
+      "Progressed": 101579,
       "Completed": 1030
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-11-23T17:58:18.7561537+00:00",
-  "LastChanged_Achievements": "2023-11-30T07:09:04.7317333+00:00",
+  "LastChanged_Achievements": "2023-11-30T08:08:54.5556685+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:12.9898742+00:00",
-  "LastUpdate_Ratings": "2023-11-30T07:02:52.7351728+00:00",
-  "LastUpdate_Achievements": "2023-11-30T07:09:04.7319657+00:00"
+  "LastUpdate_Ratings": "2023-11-30T08:02:37.8298454+00:00",
+  "LastUpdate_Achievements": "2023-11-30T08:08:54.5558218+00:00"
 }

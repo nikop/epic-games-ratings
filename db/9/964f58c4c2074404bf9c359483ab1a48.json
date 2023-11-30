@@ -2025,9 +2025,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1291140,
+  "EOS_Progressed": 1291141,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1482,
+  "EOS_NewPlayers": 1476,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23265,6 +23265,11 @@
       "Time": "2023-11-30T07:06:35.5127269+00:00",
       "NumProgressed": 1291140,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T08:06:26.3499726+00:00",
+      "NumProgressed": 1291141,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -23388,7 +23393,7 @@
       "Name": "10 Kills as a Ghost!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 142025
+      "UsersEstimate": 142026
     },
     {
       "ID": "10_ghost_wins",
@@ -23412,7 +23417,7 @@
       "Name": "10 Kills as a Hunter!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 206582
+      "UsersEstimate": 206583
     },
     {
       "ID": "10_hunter_wins",
@@ -23611,7 +23616,7 @@
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1291140,
+      "Progressed": 1291141,
       "Completed": 0
     }
   ],
@@ -23619,8 +23624,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2023-11-30T06:59:42.8914084+00:00",
-  "LastChanged_Achievements": "2023-11-30T07:06:35.5127266+00:00",
+  "LastChanged_Achievements": "2023-11-30T08:06:26.349972+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:18.8249356+00:00",
-  "LastUpdate_Ratings": "2023-11-30T06:59:42.891409+00:00",
-  "LastUpdate_Achievements": "2023-11-30T07:06:35.5128522+00:00"
+  "LastUpdate_Ratings": "2023-11-30T07:59:19.8367205+00:00",
+  "LastUpdate_Achievements": "2023-11-30T08:06:26.3500838+00:00"
 }

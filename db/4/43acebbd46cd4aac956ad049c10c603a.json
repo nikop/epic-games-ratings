@@ -165,7 +165,7 @@
   ],
   "EOS_Progressed": 784,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 309,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2153,17 +2153,17 @@
       "ID": "TheThiefOfFire",
       "SetID": "1n308hc",
       "Name": "The Thief of Fire",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 24
     },
     {
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 47
     },
     {
       "ID": "TouchGrass",
@@ -2234,8 +2234,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-29T18:59:07.9515154+00:00",
-  "LastChanged_Achievements": "2023-11-30T07:03:18.591444+00:00",
+  "LastChanged_Achievements": "2023-11-30T08:03:07.2855466+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6295228+00:00",
-  "LastUpdate_Ratings": "2023-11-30T06:59:26.1207553+00:00",
-  "LastUpdate_Achievements": "2023-11-30T07:03:18.5915304+00:00"
+  "LastUpdate_Ratings": "2023-11-30T07:59:04.2349739+00:00",
+  "LastUpdate_Achievements": "2023-11-30T08:03:07.2855913+00:00"
 }

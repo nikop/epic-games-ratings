@@ -8131,9 +8131,9 @@
       "Count": 633
     }
   ],
-  "EOS_Progressed": 361527,
+  "EOS_Progressed": 361528,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 1852,
+  "EOS_NewPlayers": 1847,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -33361,6 +33361,11 @@
       "Time": "2023-11-30T07:09:25.0993158+00:00",
       "NumProgressed": 361527,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-30T08:09:15.0948322+00:00",
+      "NumProgressed": 361528,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 100,
@@ -33380,7 +33385,7 @@
       "Name": "You\u0027re on Fire",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 86766
+      "UsersEstimate": 86767
     },
     {
       "ID": "achievement_10_matches_without_losing",
@@ -33444,7 +33449,7 @@
       "Name": "Tremendous Trio",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 86766
+      "UsersEstimate": 86767
     },
     {
       "ID": "achievement_5_clean_sheets_in_a_row",
@@ -33476,7 +33481,7 @@
       "Name": "\u0022I Would Love It If We Beat Them\u0022",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 151841
+      "UsersEstimate": 151842
     },
     {
       "ID": "achievement_beating_expectations",
@@ -33660,7 +33665,7 @@
       "Name": "Goal Rush",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 97612
+      "UsersEstimate": 97613
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -33676,7 +33681,7 @@
       "Name": "Hat-trick",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 166302
+      "UsersEstimate": 166303
     },
     {
       "ID": "achievement_head_to_head",
@@ -33692,7 +33697,7 @@
       "Name": "They\u0027re a Natural",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 112073
+      "UsersEstimate": 112074
     },
     {
       "ID": "achievement_import_to_victory",
@@ -33748,7 +33753,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 86766
+      "UsersEstimate": 86767
     },
     {
       "ID": "achievement_motivational_speaker",
@@ -33756,7 +33761,7 @@
       "Name": "Motivational Speaker",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 245838
+      "UsersEstimate": 245839
     },
     {
       "ID": "achievement_new_kids_on_the_block",
@@ -33772,7 +33777,7 @@
       "Name": "One Of Our Own",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 126534
+      "UsersEstimate": 126535
     },
     {
       "ID": "achievement_one_of_us",
@@ -33788,7 +33793,7 @@
       "Name": "People Pleaser",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 137380
+      "UsersEstimate": 137381
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -33836,7 +33841,7 @@
       "Name": "Record Sale",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 86766
+      "UsersEstimate": 86767
     },
     {
       "ID": "achievement_record_signing",
@@ -33844,7 +33849,7 @@
       "Name": "Record Signing",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 112073
+      "UsersEstimate": 112074
     },
     {
       "ID": "achievement_red_hot_newgen",
@@ -33892,7 +33897,7 @@
       "Name": "#DoneDeal",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 191609
+      "UsersEstimate": 191610
     },
     {
       "ID": "achievement_signed_a_player_from_another_network_user",
@@ -33932,7 +33937,7 @@
       "Name": "The People\u0027s Champion",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 97612
+      "UsersEstimate": 97613
     },
     {
       "ID": "achievement_the_player_whisperer",
@@ -33940,7 +33945,7 @@
       "Name": "The Player Whisperer",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 242223
+      "UsersEstimate": 242224
     },
     {
       "ID": "achievement_the_unstoppables",
@@ -33956,7 +33961,7 @@
       "Name": "Goal Machine",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 72305
+      "UsersEstimate": 72306
     },
     {
       "ID": "achievement_unbeaten_host_in_fantasy_draft",
@@ -34171,7 +34176,7 @@
     {
       "ID": "26pcimd",
       "IsBase": true,
-      "Progressed": 361527,
+      "Progressed": 361528,
       "Completed": 26
     }
   ],
@@ -34179,8 +34184,8 @@
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.5210365+00:00",
   "LastChanged": "2023-11-30T03:59:32.1859899+00:00",
-  "LastChanged_Achievements": "2023-11-30T07:09:25.0993156+00:00",
+  "LastChanged_Achievements": "2023-11-30T08:09:15.0948316+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:03.613663+00:00",
-  "LastUpdate_Ratings": "2023-11-30T06:59:54.7872278+00:00",
-  "LastUpdate_Achievements": "2023-11-30T07:09:25.0994803+00:00"
+  "LastUpdate_Ratings": "2023-11-30T07:59:31.1596345+00:00",
+  "LastUpdate_Achievements": "2023-11-30T08:09:15.0950031+00:00"
 }
