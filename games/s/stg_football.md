@@ -3,9 +3,9 @@
 [View Rawdata](../../db/s/stg_football.json)  
 Rating: 4.42 (Ranked 719)  
 ## Awards
-Max (Great for Beginners): 51  (Ranked 434)  
+Max (Great for Beginners): 51  (Ranked 435)  
 Sum: 398 (Ranked 343)  
-Diff (max vs sum): 91  
+Diff (max vs sum): 92  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 51 |

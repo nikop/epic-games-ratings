@@ -2062,7 +2062,7 @@
       "Count": 73
     }
   ],
-  "EOS_Progressed": 490651,
+  "EOS_Progressed": 490652,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 0,
@@ -25547,6 +25547,11 @@
       "Time": "2023-11-30T08:04:07.8959585+00:00",
       "NumProgressed": 490651,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-30T09:04:08.6227445+00:00",
+      "NumProgressed": 490652,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 87,
@@ -25574,7 +25579,7 @@
       "Name": "Arsenal",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 225699
+      "UsersEstimate": 225700
     },
     {
       "ID": "BASEDEFENDER",
@@ -25614,7 +25619,7 @@
       "Name": "Burn Baby Burn",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 289484
+      "UsersEstimate": 289485
     },
     {
       "ID": "CHAS",
@@ -25702,7 +25707,7 @@
       "Name": "Eradicator",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 328736
+      "UsersEstimate": 328737
     },
     {
       "ID": "EXTERMINATOR",
@@ -25710,7 +25715,7 @@
       "Name": "Exterminator",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 176634
+      "UsersEstimate": 176635
     },
     {
       "ID": "FAITHFULCOMPANION",
@@ -25750,7 +25755,7 @@
       "Name": "First Blood",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 397427
+      "UsersEstimate": 397428
     },
     {
       "ID": "FLAWLESSVICTORY",
@@ -25758,7 +25763,7 @@
       "Name": "Flawless Victory",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 206073
+      "UsersEstimate": 206074
     },
     {
       "ID": "FLURRY",
@@ -25814,7 +25819,7 @@
       "Name": "Great Ball of Fire",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 157008
+      "UsersEstimate": 157009
     },
     {
       "ID": "GUNCRAZY",
@@ -25830,7 +25835,7 @@
       "Name": "Happy Returns",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 382708
+      "UsersEstimate": 382709
     },
     {
       "ID": "HEADTRAUMA",
@@ -25846,7 +25851,7 @@
       "Name": "Hey! That\u0027s mine!",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 382708
+      "UsersEstimate": 382709
     },
     {
       "ID": "HIGHVOLTAGE",
@@ -25878,7 +25883,7 @@
       "Name": "Kaboom!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 147195
+      "UsersEstimate": 147196
     },
     {
       "ID": "KICKSTARTER",
@@ -25894,7 +25899,7 @@
       "Name": "Leadhead",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 348362
+      "UsersEstimate": 348363
     },
     {
       "ID": "LIQUIDATOR",
@@ -26086,7 +26091,7 @@
       "Name": "Salvage Rights",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 260045
+      "UsersEstimate": 260046
     },
     {
       "ID": "SAVANTGENIUS",
@@ -26102,7 +26107,7 @@
       "Name": "Sharpshooter",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 166821
+      "UsersEstimate": 166822
     },
     {
       "ID": "SHELLSHOCKED",
@@ -26142,7 +26147,7 @@
       "Name": "Surplus",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 318923
+      "UsersEstimate": 318924
     },
     {
       "ID": "TEMPORALWOULDHAVEBEENNICE",
@@ -26253,15 +26258,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 490651,
+      "Progressed": 490652,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2023-11-29T01:52:46.4996179+00:00",
-  "LastChanged_Achievements": "2023-11-30T08:04:07.8959579+00:00",
+  "LastChanged_Achievements": "2023-11-30T09:04:08.6227442+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:28.3034659+00:00",
-  "LastUpdate_Ratings": "2023-11-30T08:00:11.232162+00:00",
-  "LastUpdate_Achievements": "2023-11-30T08:04:07.8961336+00:00"
+  "LastUpdate_Ratings": "2023-11-30T09:00:15.3832178+00:00",
+  "LastUpdate_Achievements": "2023-11-30T09:04:08.6229011+00:00"
 }

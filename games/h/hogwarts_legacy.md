@@ -1,7 +1,7 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 128)  
+Rating: 4.76 (Ranked 129)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,12 +13,12 @@ Rating: 4.76 (Ranked 128)
 | The Defender of Dragons | 12.00% | ~36,434 |
 | Loom for Improvement | 12.00% | ~36,434 |
 | A Talent for Spending | 12.00% | ~36,434 |
-| Grappling with a Graphorn | 11.00% | ~33,397 |
-| The One Who Mastered Memories | 11.00% | ~33,397 |
-| The Hallowed Hero | 11.00% | ~33,397 |
-| The Hero of Hogwarts | 11.00% | ~33,397 |
-| Challenge Accepted | 11.00% | ~33,397 |
-| Coasting Along | 11.00% | ~33,397 |
+| Grappling with a Graphorn | 11.00% | ~33,398 |
+| The One Who Mastered Memories | 11.00% | ~33,398 |
+| The Hallowed Hero | 11.00% | ~33,398 |
+| The Hero of Hogwarts | 11.00% | ~33,398 |
+| Challenge Accepted | 11.00% | ~33,398 |
+| Coasting Along | 11.00% | ~33,398 |
 | Followed the Butterflies | 10.00% | ~30,361 |
 | Rising From the Ashes | 10.00% | ~30,361 |
 | A Sallow Grave | 9.00% | ~27,325 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 128)
 | The Nature of the Beast | 0.70% | ~2,125 |
 | Collector's Edition | 0.30% | ~911 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,613 (Ranked 54)  
+Progressed: 303,614 (Ranked 54)  
 Completed: 519 (0.17%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 519 (0.17%) (Ranked 266)
 | 2023-11-27 | 303,418 | 518 |
 | 2023-11-28 | 303,515 | 519 |
 | 2023-11-29 | 303,596 | 519 |
-| 2023-11-30 | 303,613 | 519 |
+| 2023-11-30 | 303,614 | 519 |
 ## Awards
 Max (Character Customization): 24,755  (Ranked 17)  
 Sum: 49,476 (Ranked 30)  

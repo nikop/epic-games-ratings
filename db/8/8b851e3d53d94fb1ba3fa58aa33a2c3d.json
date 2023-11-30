@@ -373,9 +373,9 @@
       "ID": "ANDREAS_AND_THE_CHAMBER_OF_SECRETS",
       "SetID": "e4de54",
       "Name": "Andreas and the chamber of secrets",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ANXIETY",
@@ -437,9 +437,9 @@
       "ID": "A_STRANGE_SPRING",
       "SetID": "e4de54",
       "Name": "A strange spring",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "BAD_MUSICIAN",
@@ -461,9 +461,9 @@
       "ID": "BEVERAGE_OF_THE_GODS",
       "SetID": "e4de54",
       "Name": "Beverage of the gods",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CAREFULNESS",
@@ -684,8 +684,8 @@
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-11-30T08:05:08.1433609+00:00",
+  "LastChanged_Achievements": "2023-11-30T09:05:09.1307578+00:00",
   "LastUpdate_AppInfo": "2023-11-25T06:57:20.100659+00:00",
-  "LastUpdate_Ratings": "2023-11-30T07:57:31.6807476+00:00",
-  "LastUpdate_Achievements": "2023-11-30T08:05:08.1433958+00:00"
+  "LastUpdate_Ratings": "2023-11-30T08:57:34.9394314+00:00",
+  "LastUpdate_Achievements": "2023-11-30T09:05:09.1307815+00:00"
 }

@@ -2504,9 +2504,9 @@
       "ID": "EV_ACH35",
       "SetID": "6jeac23",
       "Name": "The Fire Below the Mountain",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 616
+      "UsersEstimate": 626
     },
     {
       "ID": "EV_ACH36",
@@ -2591,8 +2591,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-30T08:09:11.5206365+00:00",
+  "LastChanged_Achievements": "2023-11-30T09:09:30.5582672+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:19.9678993+00:00",
-  "LastUpdate_Ratings": "2023-11-30T07:59:55.2743037+00:00",
-  "LastUpdate_Achievements": "2023-11-30T08:09:11.5206808+00:00"
+  "LastUpdate_Ratings": "2023-11-30T08:59:59.6621038+00:00",
+  "LastUpdate_Achievements": "2023-11-30T09:09:30.5583053+00:00"
 }

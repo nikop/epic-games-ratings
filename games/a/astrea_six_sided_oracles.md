@@ -21,7 +21,7 @@
 | Astral Adventurer | 24.00% | ~23 |
 | Star Killer | 24.00% | ~23 |
 | Loyal Partner | 23.00% | ~22 |
-| Behenian Champion | 21.00% | ~20 |
+| Behenian Champion | 22.00% | ~21 |
 | Shard Spender | 19.00% | ~18 |
 | Unbeatable | 18.00% | ~17 |
 | Aquarian Champion | 17.00% | ~16 |

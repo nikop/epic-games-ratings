@@ -269,9 +269,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17153,
+  "EOS_Progressed": 17154,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6944,6 +6944,11 @@
       "Time": "2023-11-29T23:06:13.3761821+00:00",
       "NumProgressed": 17153,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T09:08:13.0014136+00:00",
+      "NumProgressed": 17154,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -6955,7 +6960,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16295
+      "UsersEstimate": 16296
     },
     {
       "ID": "ACH001",
@@ -7051,7 +7056,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12350
+      "UsersEstimate": 12351
     },
     {
       "ID": "ACH0020",
@@ -7115,7 +7120,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14923
+      "UsersEstimate": 14924
     },
     {
       "ID": "ACH005",
@@ -7123,7 +7128,7 @@
       "Name": "Head First",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 2744
+      "UsersEstimate": 2745
     },
     {
       "ID": "ACH006",
@@ -7131,7 +7136,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 6861
+      "UsersEstimate": 6862
     },
     {
       "ID": "ACH007",
@@ -7162,7 +7167,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 17153,
+      "Progressed": 17154,
       "Completed": 1
     }
   ],
@@ -7170,8 +7175,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-11-08T21:10:20.8275261+00:00",
-  "LastChanged_Achievements": "2023-11-30T08:06:22.7817892+00:00",
+  "LastChanged_Achievements": "2023-11-30T09:08:13.0014131+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:28.1704783+00:00",
-  "LastUpdate_Ratings": "2023-11-30T07:58:38.8592687+00:00",
-  "LastUpdate_Achievements": "2023-11-30T08:06:22.7818311+00:00"
+  "LastUpdate_Ratings": "2023-11-30T08:58:43.1189213+00:00",
+  "LastUpdate_Achievements": "2023-11-30T09:08:13.0014604+00:00"
 }

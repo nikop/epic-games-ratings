@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -301,7 +301,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1752,
+  "EOS_Progressed": 1753,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
@@ -4411,6 +4411,11 @@
       "Time": "2023-11-30T08:06:16.866837+00:00",
       "NumProgressed": 1752,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T09:08:07.0638967+00:00",
+      "NumProgressed": 1753,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4494,7 +4499,7 @@
       "Name": "The Collector",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -4805,7 +4810,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1752,
+      "Progressed": 1753,
       "Completed": 0
     }
   ],
@@ -4813,8 +4818,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-11-14T15:58:19.7440127+00:00",
-  "LastChanged_Achievements": "2023-11-30T08:06:16.8668364+00:00",
+  "LastChanged_Achievements": "2023-11-30T09:08:07.0638963+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:04.1060902+00:00",
-  "LastUpdate_Ratings": "2023-11-30T07:58:52.7045411+00:00",
-  "LastUpdate_Achievements": "2023-11-30T08:06:16.8668837+00:00"
+  "LastUpdate_Ratings": "2023-11-30T08:58:56.975402+00:00",
+  "LastUpdate_Achievements": "2023-11-30T09:08:07.0639655+00:00"
 }

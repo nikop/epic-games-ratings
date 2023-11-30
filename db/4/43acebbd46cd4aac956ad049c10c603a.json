@@ -165,7 +165,7 @@
   ],
   "EOS_Progressed": 784,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 308,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2009,9 +2009,9 @@
       "ID": "Overload",
       "SetID": "1n308hc",
       "Name": "Overload",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 39
     },
     {
       "ID": "Persistent",
@@ -2073,9 +2073,9 @@
       "ID": "SingleRod",
       "SetID": "1n308hc",
       "Name": "Single Rod",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Sinner",
@@ -2234,8 +2234,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-29T18:59:07.9515154+00:00",
-  "LastChanged_Achievements": "2023-11-30T08:03:07.2855466+00:00",
+  "LastChanged_Achievements": "2023-11-30T09:03:08.1576232+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6295228+00:00",
-  "LastUpdate_Ratings": "2023-11-30T07:59:04.2349739+00:00",
-  "LastUpdate_Achievements": "2023-11-30T08:03:07.2855913+00:00"
+  "LastUpdate_Ratings": "2023-11-30T08:59:08.1735508+00:00",
+  "LastUpdate_Achievements": "2023-11-30T09:03:08.1576631+00:00"
 }

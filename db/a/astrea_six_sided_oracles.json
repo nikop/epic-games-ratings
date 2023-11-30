@@ -1172,9 +1172,9 @@
       "ID": "BehenianChampion",
       "SetID": "1jeo1g7",
       "Name": "Behenian Champion",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "BehenianHero",
@@ -1275,8 +1275,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-11-30T08:06:22.3153859+00:00",
+  "LastChanged_Achievements": "2023-11-30T09:08:12.5300219+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:14.6113679+00:00",
-  "LastUpdate_Ratings": "2023-11-30T07:58:08.3927421+00:00",
-  "LastUpdate_Achievements": "2023-11-30T08:06:22.3154672+00:00"
+  "LastUpdate_Ratings": "2023-11-30T08:58:12.2251353+00:00",
+  "LastUpdate_Achievements": "2023-11-30T09:08:12.5301135+00:00"
 }

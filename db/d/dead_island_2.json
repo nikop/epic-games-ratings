@@ -7071,9 +7071,9 @@
       "Count": 502
     }
   ],
-  "EOS_Progressed": 727908,
+  "EOS_Progressed": 727918,
   "EOS_Completed": 2451,
-  "EOS_NewPlayers": 4947,
+  "EOS_NewPlayers": 4937,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -32706,6 +32706,11 @@
       "Time": "2023-11-30T08:06:35.4719903+00:00",
       "NumProgressed": 727908,
       "NumCompleted": 2451
+    },
+    {
+      "Time": "2023-11-30T09:08:24.9991475+00:00",
+      "NumProgressed": 727918,
+      "NumCompleted": 2451
     }
   ],
   "TotalAchievements": 51,
@@ -32909,7 +32914,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 4367
+      "UsersEstimate": 4368
     },
     {
       "ID": "ach_knock_down",
@@ -33021,7 +33026,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4367
+      "UsersEstimate": 4368
     },
     {
       "ID": "ach_thesacrifice",
@@ -33061,7 +33066,7 @@
       "Name": "Rising Star",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 4367
+      "UsersEstimate": 4368
     },
     {
       "ID": "ach_well_trained",
@@ -33124,13 +33129,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 727908,
+      "Progressed": 727918,
       "Completed": 2451
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 53450,
+      "Progressed": 53460,
       "Completed": 36615
     }
   ],
@@ -33138,8 +33143,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-30T02:21:14.3342391+00:00",
-  "LastChanged_Achievements": "2023-11-30T08:06:35.4719897+00:00",
+  "LastChanged_Achievements": "2023-11-30T09:08:24.9991471+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-30T07:58:18.7943563+00:00",
-  "LastUpdate_Achievements": "2023-11-30T08:06:35.4721113+00:00"
+  "LastUpdate_Ratings": "2023-11-30T08:58:23.0665671+00:00",
+  "LastUpdate_Achievements": "2023-11-30T09:08:24.9992908+00:00"
 }

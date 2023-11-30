@@ -19,7 +19,7 @@
 | Handyman | 27.00% | ~121 |
 | Giant Lizard Killer | 26.00% | ~116 |
 | Guardian | 25.00% | ~112 |
-| Nosebleeder | 24.00% | ~107 |
+| Nosebleeder | 25.00% | ~112 |
 | Trader | 20.00% | ~89 |
 | Weapon Boost | 20.00% | ~89 |
 | Flying Kobold Killer | 16.00% | ~72 |

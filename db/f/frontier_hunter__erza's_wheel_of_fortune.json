@@ -1410,9 +1410,9 @@
       "ID": "ACHIEVEMENT_12",
       "SetID": "7pimpda",
       "Name": "Nosebleeder",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 112
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -1755,8 +1755,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-30T08:05:24.1376361+00:00",
+  "LastChanged_Achievements": "2023-11-30T09:05:25.2511284+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-11-30T07:58:53.7849794+00:00",
-  "LastUpdate_Achievements": "2023-11-30T08:05:24.1376696+00:00"
+  "LastUpdate_Ratings": "2023-11-30T08:58:58.20298+00:00",
+  "LastUpdate_Achievements": "2023-11-30T09:05:25.2511729+00:00"
 }

@@ -1766,9 +1766,9 @@
       "ID": "achievement_5",
       "SetID": "18al4io",
       "Name": "Initiate",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 179
     },
     {
       "ID": "achievement_50",
@@ -1886,9 +1886,9 @@
       "ID": "achievement_9",
       "SetID": "18al4io",
       "Name": "Beggars Would Ride",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 105
     }
   ],
   "AchievementSets": [
@@ -1903,8 +1903,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-26T15:58:20.3340426+00:00",
-  "LastChanged_Achievements": "2023-11-30T08:08:31.4697221+00:00",
+  "LastChanged_Achievements": "2023-11-30T09:08:49.9579266+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:20.7077171+00:00",
-  "LastUpdate_Ratings": "2023-11-30T07:59:55.8496078+00:00",
-  "LastUpdate_Achievements": "2023-11-30T08:08:31.4697557+00:00"
+  "LastUpdate_Ratings": "2023-11-30T09:00:00.1842893+00:00",
+  "LastUpdate_Achievements": "2023-11-30T09:08:49.9579597+00:00"
 }

@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4432,
+  "EOS_Progressed": 4433,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7960,6 +7960,11 @@
       "Time": "2023-11-30T06:05:20.0506726+00:00",
       "NumProgressed": 4432,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-30T09:05:09.9133559+00:00",
+      "NumProgressed": 4433,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8163,7 +8168,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "Ach026",
@@ -8371,7 +8376,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "Ach052",
@@ -8538,13 +8543,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4432,
+      "Progressed": 4433,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2953,
+      "Progressed": 2954,
       "Completed": 1930
     }
   ],
@@ -8552,8 +8557,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-30T08:05:08.8506195+00:00",
+  "LastChanged_Achievements": "2023-11-30T09:05:09.9133554+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-11-30T07:58:04.1067324+00:00",
-  "LastUpdate_Achievements": "2023-11-30T08:05:08.8507029+00:00"
+  "LastUpdate_Ratings": "2023-11-30T08:58:07.6224751+00:00",
+  "LastUpdate_Achievements": "2023-11-30T09:05:09.9134366+00:00"
 }

@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44123,
+  "EOS_Progressed": 44124,
   "EOS_Completed": 242,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -18294,6 +18294,11 @@
       "Time": "2023-11-30T01:50:17.3843358+00:00",
       "NumProgressed": 44123,
       "NumCompleted": 242
+    },
+    {
+      "Time": "2023-11-30T09:03:10.8377687+00:00",
+      "NumProgressed": 44124,
+      "NumCompleted": 242
     }
   ],
   "TotalAchievements": 44,
@@ -18305,7 +18310,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25150
+      "UsersEstimate": 25151
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -18425,7 +18430,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35298
+      "UsersEstimate": 35299
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -18481,7 +18486,7 @@
       "Name": "Soul Reaver",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 10148
+      "UsersEstimate": 10149
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -18537,7 +18542,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 14119
+      "UsersEstimate": 14120
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -18545,7 +18550,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27797
+      "UsersEstimate": 27798
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -18577,7 +18582,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29562
+      "UsersEstimate": 29563
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -18609,7 +18614,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19855
+      "UsersEstimate": 19856
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -18641,7 +18646,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41034
+      "UsersEstimate": 41035
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -18656,7 +18661,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44123,
+      "Progressed": 44124,
       "Completed": 242
     }
   ],
@@ -18664,8 +18669,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-11-30T08:03:10.01025+00:00",
+  "LastChanged_Achievements": "2023-11-30T09:03:10.8377686+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.6732457+00:00",
-  "LastUpdate_Ratings": "2023-11-30T08:02:44.9760049+00:00",
-  "LastUpdate_Achievements": "2023-11-30T08:03:10.0103506+00:00"
+  "LastUpdate_Ratings": "2023-11-30T09:02:46.1098108+00:00",
+  "LastUpdate_Achievements": "2023-11-30T09:03:10.8378594+00:00"
 }

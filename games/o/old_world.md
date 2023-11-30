@@ -77,6 +77,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 2.00% | ~311 |
 | Learn to Play 3 | 2.00% | ~311 |
 | Greece | 2.00% | ~311 |
+| Power to the People | 2.00% | ~311 |
 | Manichaeism | 2.00% | ~311 |
 | Mythology | 2.00% | ~311 |
 | Points Victory | 2.00% | ~311 |
@@ -105,7 +106,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 1.00% | ~156 |
 | Carthage | 1.00% | ~156 |
 | One True Faith | 1.00% | ~156 |
-| Power to the People | 1.00% | ~156 |
 | Assyrian Paganism | 1.00% | ~156 |
 | Persian Paganism | 1.00% | ~156 |
 | Building Wonders | 1.00% | ~156 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,551 (Ranked 152)  
+Progressed: 15,553 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -573,7 +573,7 @@ Completed: 5 (0.03%) (Ranked 326)
 | 2023-11-27 | 15,525 | 5 |
 | 2023-11-28 | 15,534 | 5 |
 | 2023-11-29 | 15,545 | 5 |
-| 2023-11-30 | 15,551 | 5 |
+| 2023-11-30 | 15,553 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,882 (Ranked 218)  

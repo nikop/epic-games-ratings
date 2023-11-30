@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 288,
+  "EOS_Progressed": 289,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1298,6 +1298,11 @@
       "Time": "2023-11-29T21:04:24.0421427+00:00",
       "NumProgressed": 288,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T09:04:17.1418927+00:00",
+      "NumProgressed": 289,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1548,9 +1553,9 @@
       "ID": "QuickRetaliationDeath",
       "SetID": "71c0n9i",
       "Name": "Whoops!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "RanaCampaign",
@@ -1741,15 +1746,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 288,
+      "Progressed": 289,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-30T08:04:16.4469209+00:00",
+  "LastChanged_Achievements": "2023-11-30T09:04:17.1418921+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:52.6052196+00:00",
-  "LastUpdate_Ratings": "2023-11-30T07:59:13.3266147+00:00",
-  "LastUpdate_Achievements": "2023-11-30T08:04:16.4469663+00:00"
+  "LastUpdate_Ratings": "2023-11-30T08:59:17.3298612+00:00",
+  "LastUpdate_Achievements": "2023-11-30T09:04:17.1419433+00:00"
 }
