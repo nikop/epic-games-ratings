@@ -145,7 +145,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4431,
+  "EOS_Progressed": 4432,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
@@ -7955,6 +7955,11 @@
       "Time": "2023-11-30T04:05:10.418033+00:00",
       "NumProgressed": 4431,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-30T06:05:20.0506726+00:00",
+      "NumProgressed": 4432,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8006,7 +8011,7 @@
       "Name": "Time to pay up!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "Ach007",
@@ -8014,7 +8019,7 @@
       "Name": "Who\u0027s the boss now?",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "Ach008",
@@ -8174,7 +8179,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "Ach028",
@@ -8214,7 +8219,7 @@
       "Name": "Perfecter Parry-er!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "Ach033",
@@ -8246,7 +8251,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "Ach037",
@@ -8533,13 +8538,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4431,
+      "Progressed": 4432,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2952,
+      "Progressed": 2953,
       "Completed": 1930
     }
   ],
@@ -8547,8 +8552,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-30T05:06:18.3482124+00:00",
+  "LastChanged_Achievements": "2023-11-30T06:05:20.0506723+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-11-30T04:58:32.5412102+00:00",
-  "LastUpdate_Achievements": "2023-11-30T05:06:18.3482884+00:00"
+  "LastUpdate_Ratings": "2023-11-30T05:58:12.8443724+00:00",
+  "LastUpdate_Achievements": "2023-11-30T06:05:20.0507593+00:00"
 }

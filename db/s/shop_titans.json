@@ -7303,9 +7303,9 @@
       "Count": 3788
     }
   ],
-  "EOS_Progressed": 142910,
+  "EOS_Progressed": 142913,
   "EOS_Completed": 289,
-  "EOS_NewPlayers": 1847,
+  "EOS_NewPlayers": 1845,
   "EOS_NewCompleters": 95,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -30458,6 +30458,11 @@
       "Time": "2023-11-30T05:05:05.8292365+00:00",
       "NumProgressed": 142910,
       "NumCompleted": 289
+    },
+    {
+      "Time": "2023-11-30T06:04:28.5321742+00:00",
+      "NumProgressed": 142913,
+      "NumCompleted": 289
     }
   ],
   "TotalAchievements": 112,
@@ -30821,7 +30826,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5716
+      "UsersEstimate": 5717
     },
     {
       "ID": "energy02",
@@ -30845,7 +30850,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5716
+      "UsersEstimate": 5717
     },
     {
       "ID": "expansion02",
@@ -31053,7 +31058,7 @@
       "Name": "Budding Merchant",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5716
+      "UsersEstimate": 5717
     },
     {
       "ID": "level02",
@@ -31245,7 +31250,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5716
+      "UsersEstimate": 5717
     },
     {
       "ID": "sell02",
@@ -31333,7 +31338,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5716
+      "UsersEstimate": 5717
     },
     {
       "ID": "workers02",
@@ -31364,15 +31369,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 142910,
+      "Progressed": 142913,
       "Completed": 289
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-30T05:02:59.1963115+00:00",
-  "LastChanged_Achievements": "2023-11-30T05:05:05.829236+00:00",
+  "LastChanged_Achievements": "2023-11-30T06:04:28.5321736+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-11-30T05:02:59.1963123+00:00",
-  "LastUpdate_Achievements": "2023-11-30T05:05:05.8294302+00:00"
+  "LastUpdate_Ratings": "2023-11-30T06:02:58.9277583+00:00",
+  "LastUpdate_Achievements": "2023-11-30T06:04:28.5323559+00:00"
 }

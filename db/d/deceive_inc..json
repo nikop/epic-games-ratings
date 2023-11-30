@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18948,
+  "EOS_Progressed": 18949,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13309,6 +13309,11 @@
       "Time": "2023-11-29T23:03:35.9845793+00:00",
       "NumProgressed": 18948,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-30T06:03:58.3054704+00:00",
+      "NumProgressed": 18949,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13320,7 +13325,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5684
+      "UsersEstimate": 5685
     },
     {
       "ID": "0002",
@@ -13607,7 +13612,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18948,
+      "Progressed": 18949,
       "Completed": 4
     }
   ],
@@ -13615,8 +13620,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-11-30T05:04:23.9041027+00:00",
+  "LastChanged_Achievements": "2023-11-30T06:03:58.3054702+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:26.0982772+00:00",
-  "LastUpdate_Ratings": "2023-11-30T04:59:11.3042192+00:00",
-  "LastUpdate_Achievements": "2023-11-30T05:04:23.9041805+00:00"
+  "LastUpdate_Ratings": "2023-11-30T05:58:37.7725853+00:00",
+  "LastUpdate_Achievements": "2023-11-30T06:03:58.3055397+00:00"
 }

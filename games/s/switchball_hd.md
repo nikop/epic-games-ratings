@@ -8,8 +8,8 @@
 | Speedroller Rookie | 47.00% | ~78 |
 | Metalball Badge | 20.00% | ~33 |
 | Powerball Badge | 14.00% | ~23 |
+| Airball Badge | 2.00% | ~3 |
 | Spyglass | 2.00% | ~3 |
-| Airball Badge | 1.00% | ~2 |
 | Speedroller Trainee | 0.60% | ~1 |
 | Speedroller Expert | 0.00% | ~0 |
 | Speedroller Master | 0.00% | ~0 |

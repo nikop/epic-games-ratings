@@ -6,27 +6,27 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 58.00% | ~56,131 |
-| Let There Be Light | 49.00% | ~47,421 |
-| Float Like a Butterfly | 47.00% | ~45,485 |
-| Nordic Walking | 39.00% | ~37,743 |
-| Bright Falls' Finest | 38.00% | ~36,775 |
-| Under a Thin Layer of Skin | 34.00% | ~32,904 |
-| Paging Mr. Wake | 29.00% | ~28,065 |
+| Follow the Light | 58.00% | ~56,132 |
+| Let There Be Light | 49.00% | ~47,422 |
+| Float Like a Butterfly | 47.00% | ~45,486 |
+| Nordic Walking | 39.00% | ~37,744 |
+| Bright Falls' Finest | 38.00% | ~36,776 |
+| Under a Thin Layer of Skin | 34.00% | ~32,905 |
+| Paging Mr. Wake | 29.00% | ~28,066 |
 | Park Ranger | 28.00% | ~27,098 |
 | Back! Back, I Say! | 27.00% | ~26,130 |
 | Finders Keepers | 27.00% | ~26,130 |
-| Damn Good Cup of Coffee | 25.00% | ~24,194 |
-| They're Heeeeeere! | 24.00% | ~23,226 |
-| Sound and Fury | 24.00% | ~23,226 |
-| Missed by a Mile | 24.00% | ~23,226 |
+| Damn Good Cup of Coffee | 25.00% | ~24,195 |
+| They're Heeeeeere! | 24.00% | ~23,227 |
+| Sound and Fury | 24.00% | ~23,227 |
+| Missed by a Mile | 24.00% | ~23,227 |
 | Wheels Within Wheels | 23.00% | ~22,259 |
 | The Six-Gun Scribe | 22.00% | ~21,291 |
-| Iron Horse | 21.00% | ~20,323 |
-| Collateral Carnage | 21.00% | ~20,323 |
-| Come One, Come All | 21.00% | ~20,323 |
-| Heavy Metal | 20.00% | ~19,355 |
-| Perchance to Dream | 20.00% | ~19,355 |
+| Iron Horse | 21.00% | ~20,324 |
+| Collateral Carnage | 21.00% | ~20,324 |
+| Come One, Come All | 21.00% | ~20,324 |
+| Heavy Metal | 20.00% | ~19,356 |
+| Perchance to Dream | 20.00% | ~19,356 |
 | It's Not Just a Typewriter Brand | 19.00% | ~18,388 |
 | Thunder and Lightning | 19.00% | ~18,388 |
 | Gatekeeper | 18.00% | ~17,420 |
@@ -41,9 +41,9 @@ Number of Ratings: 524  (23.09.2022)
 | Drink 'Em Both Up | 9.00% | ~8,710 |
 | A Friend in Need | 9.00% | ~5,422 |
 | Children of the Elder God | 8.00% | ~7,742 |
-| Boob Tube | 7.00% | ~6,774 |
-| If It Flies, It Burns | 7.00% | ~6,774 |
-| KBF-FM | 7.00% | ~6,774 |
+| Boob Tube | 7.00% | ~6,775 |
+| If It Flies, It Burns | 7.00% | ~6,775 |
+| KBF-FM | 7.00% | ~6,775 |
 | A Friend Indeed | 7.00% | ~4,217 |
 | Ding! | 6.00% | ~3,615 |
 | Carny | 4.00% | ~3,871 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | No Punctuation | 0.20% | ~120 |
 | Licensed Properties | 0.20% | ~120 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96,777 (Ranked 90)  
+Progressed: 96,779 (Ranked 90)  
 Completed: 105 (0.11%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 105 (0.11%) (Ranked 280)
 | 2023-11-27 | 96,414 | 104 |
 | 2023-11-28 | 96,591 | 105 |
 | 2023-11-29 | 96,741 | 105 |
-| 2023-11-30 | 96,777 | 105 |
+| 2023-11-30 | 96,779 | 105 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -7071,10 +7071,10 @@
       "Count": 502
     }
   ],
-  "EOS_Progressed": 727878,
+  "EOS_Progressed": 727886,
   "EOS_Completed": 2451,
-  "EOS_NewPlayers": 4967,
-  "EOS_NewCompleters": 25,
+  "EOS_NewPlayers": 4958,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -32691,6 +32691,11 @@
       "Time": "2023-11-30T05:08:24.656041+00:00",
       "NumProgressed": 727878,
       "NumCompleted": 2451
+    },
+    {
+      "Time": "2023-11-30T06:08:30.8257216+00:00",
+      "NumProgressed": 727886,
+      "NumCompleted": 2451
     }
   ],
   "TotalAchievements": 51,
@@ -33062,7 +33067,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "ach_dark_magic",
@@ -33086,7 +33091,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -33109,13 +33114,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 727878,
+      "Progressed": 727886,
       "Completed": 2451
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 53420,
+      "Progressed": 53428,
       "Completed": 36615
     }
   ],
@@ -33123,8 +33128,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-30T02:21:14.3342391+00:00",
-  "LastChanged_Achievements": "2023-11-30T05:08:24.6560406+00:00",
+  "LastChanged_Achievements": "2023-11-30T06:08:30.8257213+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-30T04:58:55.0760487+00:00",
-  "LastUpdate_Achievements": "2023-11-30T05:08:24.6561985+00:00"
+  "LastUpdate_Ratings": "2023-11-30T05:58:27.0066543+00:00",
+  "LastUpdate_Achievements": "2023-11-30T06:08:30.825866+00:00"
 }

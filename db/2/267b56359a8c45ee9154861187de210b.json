@@ -4,7 +4,7 @@
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -412,9 +412,9 @@
       "ID": "beat_c1_silver",
       "SetID": "3448go",
       "Name": "Treasured Momentum",
-      "Percentage": 59,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "beat_c1a_bronze",
@@ -979,8 +979,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-11-30T05:03:57.7778165+00:00",
+  "LastChanged_Achievements": "2023-11-30T06:03:39.7215104+00:00",
   "LastUpdate_AppInfo": "2023-11-30T02:19:29.0815732+00:00",
-  "LastUpdate_Ratings": "2023-11-30T04:59:00.7821988+00:00",
-  "LastUpdate_Achievements": "2023-11-30T05:03:57.7778826+00:00"
+  "LastUpdate_Ratings": "2023-11-30T05:58:30.9289628+00:00",
+  "LastUpdate_Achievements": "2023-11-30T06:03:39.721576+00:00"
 }

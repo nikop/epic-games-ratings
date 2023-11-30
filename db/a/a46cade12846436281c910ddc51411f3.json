@@ -2,7 +2,7 @@
   "ID": "a46cade12846436281c910ddc51411f3",
   "Name": "Dros",
   "ProductSlug": "dros-6da0b2",
-  "Ranking_EOS_Progress": 569,
+  "Ranking_EOS_Progress": 564,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 498,
   "Ranking_EOS_NewCompleters": 137,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18,
+  "EOS_Progressed": 19,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -114,6 +114,11 @@
       "Time": "2023-11-06T20:18:11.1216748+00:00",
       "NumProgressed": 18,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T06:09:37.9098252+00:00",
+      "NumProgressed": 19,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T00:02:23.2553608+00:00",
@@ -132,7 +137,7 @@
       "ID": "CAPTAIN_ARM",
       "SetID": "1k0m0ab",
       "Name": "Handy Man",
-      "Percentage": 78,
+      "Percentage": 74,
       "XP": 25,
       "UsersEstimate": 14
     },
@@ -140,7 +145,7 @@
       "ID": "CATCHDROG_ZLOFF",
       "SetID": "1k0m0ab",
       "Name": "Engineer Zloff",
-      "Percentage": 28,
+      "Percentage": 26,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -148,7 +153,7 @@
       "ID": "CATCHMENT_SEAL",
       "SetID": "1k0m0ab",
       "Name": "Earth Seal",
-      "Percentage": 28,
+      "Percentage": 26,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -156,7 +161,7 @@
       "ID": "CATCH_MADAME_BOUVINE",
       "SetID": "1k0m0ab",
       "Name": "Tower of Love",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -164,7 +169,7 @@
       "ID": "CATCH_PIPES_TUNNEL",
       "SetID": "1k0m0ab",
       "Name": "Hidden Refuge",
-      "Percentage": 28,
+      "Percentage": 26,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -172,7 +177,7 @@
       "ID": "CATCH_SOUNDPROOF",
       "SetID": "1k0m0ab",
       "Name": "Padded Hut",
-      "Percentage": 28,
+      "Percentage": 26,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -180,7 +185,7 @@
       "ID": "DISTILLERY_SEAL",
       "SetID": "1k0m0ab",
       "Name": "Air Seal",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -188,7 +193,7 @@
       "ID": "DLR_MEMBER",
       "SetID": "1k0m0ab",
       "Name": "Resistance Fighter",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -196,7 +201,7 @@
       "ID": "DRINK_BLITZ",
       "SetID": "1k0m0ab",
       "Name": "PRIMA BLITZ",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -204,7 +209,7 @@
       "ID": "DRINK_BLUE",
       "SetID": "1k0m0ab",
       "Name": "PRIMA BLUE",
-      "Percentage": 28,
+      "Percentage": 26,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -212,7 +217,7 @@
       "ID": "DRINK_GAZE",
       "SetID": "1k0m0ab",
       "Name": "PRIMA GAZE",
-      "Percentage": 44,
+      "Percentage": 42,
       "XP": 25,
       "UsersEstimate": 8
     },
@@ -220,7 +225,7 @@
       "ID": "DRINK_JOLT",
       "SetID": "1k0m0ab",
       "Name": "PRIMA JOLT",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -228,7 +233,7 @@
       "ID": "DRINK_RUSH",
       "SetID": "1k0m0ab",
       "Name": "PRIMA RUSH",
-      "Percentage": 39,
+      "Percentage": 37,
       "XP": 25,
       "UsersEstimate": 7
     },
@@ -236,7 +241,7 @@
       "ID": "DROSTOWN_TICKET",
       "SetID": "1k0m0ab",
       "Name": "Fair Trade",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 25,
       "UsersEstimate": 6
     },
@@ -276,7 +281,7 @@
       "ID": "FISHERMAN_CATCH",
       "SetID": "1k0m0ab",
       "Name": "Fishy Business",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -284,7 +289,7 @@
       "ID": "FURNACE_SEAL",
       "SetID": "1k0m0ab",
       "Name": "Fire Seal",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -300,7 +305,7 @@
       "ID": "GARDEN_GUARDS",
       "SetID": "1k0m0ab",
       "Name": "Gotcha!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -308,7 +313,7 @@
       "ID": "JAILBREAK",
       "SetID": "1k0m0ab",
       "Name": "Jailbreak",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -316,7 +321,7 @@
       "ID": "LILLIES_BOUNTYARMOUR",
       "SetID": "1k0m0ab",
       "Name": "Abandoned Hunter",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -324,7 +329,7 @@
       "ID": "MODERAT_AIR",
       "SetID": "1k0m0ab",
       "Name": "Moderat Air",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -332,7 +337,7 @@
       "ID": "MODERAT_EARTH",
       "SetID": "1k0m0ab",
       "Name": "Moderat Earth",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -348,7 +353,7 @@
       "ID": "MODERAT_WATER",
       "SetID": "1k0m0ab",
       "Name": "Moderat Water",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -356,7 +361,7 @@
       "ID": "NETHERTOWN_SOGGY",
       "SetID": "1k0m0ab",
       "Name": "Soggy Bottom Blop",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -364,7 +369,7 @@
       "ID": "NEWFLESH",
       "SetID": "1k0m0ab",
       "Name": "New Flesh",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -436,7 +441,7 @@
       "ID": "SPIRITEDVOICE",
       "SetID": "1k0m0ab",
       "Name": "A Spirited Voice",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
       "UsersEstimate": 4
     }
@@ -445,14 +450,14 @@
     {
       "ID": "1k0m0ab",
       "IsBase": true,
-      "Progressed": 18,
+      "Progressed": 19,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-13T17:57:40.8250998+00:00",
   "FirstSeenAchievements": "2023-08-07T02:00:19.8030023+00:00",
-  "LastChanged_Achievements": "2023-11-30T05:09:58.0258427+00:00",
+  "LastChanged_Achievements": "2023-11-30T06:09:37.9098248+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:17.3654973+00:00",
-  "LastUpdate_Ratings": "2023-11-30T05:02:49.8432602+00:00",
-  "LastUpdate_Achievements": "2023-11-30T05:09:58.0258698+00:00"
+  "LastUpdate_Ratings": "2023-11-30T06:02:52.5160716+00:00",
+  "LastUpdate_Achievements": "2023-11-30T06:09:37.9098496+00:00"
 }

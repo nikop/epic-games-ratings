@@ -2206,9 +2206,9 @@
       "Count": 255
     }
   ],
-  "EOS_Progressed": 216581,
+  "EOS_Progressed": 216584,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 1290,
+  "EOS_NewPlayers": 1288,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -27826,6 +27826,11 @@
       "Time": "2023-11-30T05:04:19.7164887+00:00",
       "NumProgressed": 216581,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-11-30T06:03:55.2659078+00:00",
+      "NumProgressed": 216584,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 44,
@@ -27877,7 +27882,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19492
+      "UsersEstimate": 19493
     },
     {
       "ID": "FiveShadows",
@@ -27949,7 +27954,7 @@
       "Name": "It\u0027s raining men",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6497
+      "UsersEstimate": 6498
     },
     {
       "ID": "Jonin",
@@ -28053,7 +28058,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17326
+      "UsersEstimate": 17327
     },
     {
       "ID": "Rollin",
@@ -28061,7 +28066,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19492
+      "UsersEstimate": 19493
     },
     {
       "ID": "StillRollin",
@@ -28077,7 +28082,7 @@
       "Name": "Stoned",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6497
+      "UsersEstimate": 6498
     },
     {
       "ID": "StonedOx",
@@ -28085,7 +28090,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17326
+      "UsersEstimate": 17327
     },
     {
       "ID": "TanukiTime",
@@ -28093,7 +28098,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19492
+      "UsersEstimate": 19493
     },
     {
       "ID": "TheCave",
@@ -28117,7 +28122,7 @@
       "Name": "The Old Way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6497
+      "UsersEstimate": 6498
     },
     {
       "ID": "Thorough",
@@ -28133,7 +28138,7 @@
       "Name": "Time Paradox",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "UndeservedHonor",
@@ -28188,15 +28193,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 216581,
+      "Progressed": 216584,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-30T01:47:22.2511941+00:00",
-  "LastChanged_Achievements": "2023-11-30T05:04:19.7164881+00:00",
+  "LastChanged_Achievements": "2023-11-30T06:03:55.2659073+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:23.8145991+00:00",
-  "LastUpdate_Ratings": "2023-11-30T05:01:34.1325067+00:00",
-  "LastUpdate_Achievements": "2023-11-30T05:04:19.7166462+00:00"
+  "LastUpdate_Ratings": "2023-11-30T06:00:12.5911445+00:00",
+  "LastUpdate_Achievements": "2023-11-30T06:03:55.266044+00:00"
 }

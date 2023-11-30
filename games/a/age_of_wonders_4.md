@@ -36,9 +36,9 @@ Rating: 4.61 (Ranked 386)
 | Spoils of War | 1.00% | ~55 |
 | Dawn of the Dread | 1.00% | ~55 |
 | Preparation Is Everything | 0.90% | ~50 |
+| Blood of the Dragon | 0.90% | ~50 |
 | Arch Mage | 0.80% | ~44 |
 | Crimson Caldera | 0.80% | ~44 |
-| Blood of the Dragon | 0.80% | ~44 |
 | Prometheus Avenged | 0.80% | ~44 |
 | A Conqueror's Cohort | 0.80% | ~44 |
 | The Creator | 0.70% | ~39 |

@@ -489,7 +489,7 @@
       "Count": 91
     }
   ],
-  "EOS_Progressed": 253413,
+  "EOS_Progressed": 253414,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 587,
   "EOS_NewCompleters": 0,
@@ -25519,6 +25519,11 @@
       "Time": "2023-11-30T05:07:14.4872919+00:00",
       "NumProgressed": 253413,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-30T06:06:00.2424391+00:00",
+      "NumProgressed": 253414,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -25746,7 +25751,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 63353
+      "UsersEstimate": 63354
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -25850,7 +25855,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 63353
+      "UsersEstimate": 63354
     },
     {
       "ID": "ACH_SOREAD",
@@ -25945,7 +25950,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 253413,
+      "Progressed": 253414,
       "Completed": 7
     }
   ],
@@ -25953,8 +25958,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-22T22:59:02.1390079+00:00",
-  "LastChanged_Achievements": "2023-11-30T05:07:14.4872913+00:00",
+  "LastChanged_Achievements": "2023-11-30T06:06:00.2424387+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:16.3700247+00:00",
-  "LastUpdate_Ratings": "2023-11-30T04:59:16.2866942+00:00",
-  "LastUpdate_Achievements": "2023-11-30T05:07:14.4874252+00:00"
+  "LastUpdate_Ratings": "2023-11-30T05:58:41.2267647+00:00",
+  "LastUpdate_Achievements": "2023-11-30T06:06:00.2426056+00:00"
 }

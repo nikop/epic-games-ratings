@@ -768,9 +768,9 @@
       "ID": "ACHIEVEMENT_AIRBALL_BADGE_ID",
       "SetID": "2h9pc72",
       "Name": "Airball Badge",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_MARBLEBALL_BADGE_ID",
@@ -847,8 +847,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:34.7709022+00:00",
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-11-30T05:09:54.5772169+00:00",
+  "LastChanged_Achievements": "2023-11-30T06:09:35.3298659+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:02.7698905+00:00",
-  "LastUpdate_Ratings": "2023-11-30T04:58:20.3233958+00:00",
-  "LastUpdate_Achievements": "2023-11-30T05:09:54.577229+00:00"
+  "LastUpdate_Ratings": "2023-11-30T05:58:05.0375887+00:00",
+  "LastUpdate_Achievements": "2023-11-30T06:09:35.3298758+00:00"
 }

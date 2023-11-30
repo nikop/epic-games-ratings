@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 55,
   "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -2252,9 +2252,9 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 377
+      "UsersEstimate": 382
     },
     {
       "ID": "DevilRope",
@@ -2316,9 +2316,9 @@
       "ID": "HastrmanAmanita",
       "SetID": "db30heh",
       "Name": "Tastes Funny",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 266
+      "UsersEstimate": 271
     },
     {
       "ID": "HastrmanHappy",
@@ -2428,9 +2428,9 @@
       "ID": "RogueEat",
       "SetID": "db30heh",
       "Name": "Debt Free",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 494
+      "UsersEstimate": 499
     },
     {
       "ID": "RogueKing",
@@ -2484,9 +2484,9 @@
       "ID": "SwordDiamond",
       "SetID": "db30heh",
       "Name": "Precious Barter",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 255
+      "UsersEstimate": 260
     },
     {
       "ID": "SwordMoneyBag",
@@ -2515,8 +2515,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-11-30T05:06:38.1776842+00:00",
+  "LastChanged_Achievements": "2023-11-30T06:05:34.2442258+00:00",
   "LastUpdate_AppInfo": "2023-11-29T01:48:50.1912977+00:00",
-  "LastUpdate_Ratings": "2023-11-30T04:59:06.9686652+00:00",
-  "LastUpdate_Achievements": "2023-11-30T05:06:38.177751+00:00"
+  "LastUpdate_Ratings": "2023-11-30T05:58:34.8991108+00:00",
+  "LastUpdate_Achievements": "2023-11-30T06:05:34.2442562+00:00"
 }

@@ -402,9 +402,9 @@
       "ID": "ACH_THE_INVISIBLE",
       "SetID": "ca3jj1k",
       "Name": "The Invisible Man",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_THE_MIRACLE",
@@ -435,8 +435,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2023-11-30T05:06:48.1302642+00:00",
+  "LastChanged_Achievements": "2023-11-30T06:05:41.3658904+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.2001335+00:00",
-  "LastUpdate_Ratings": "2023-11-30T04:57:12.6381386+00:00",
-  "LastUpdate_Achievements": "2023-11-30T05:06:48.1302849+00:00"
+  "LastUpdate_Ratings": "2023-11-30T05:57:20.8648417+00:00",
+  "LastUpdate_Achievements": "2023-11-30T06:05:41.3659065+00:00"
 }

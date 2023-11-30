@@ -2579,9 +2579,9 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 23718,
+  "EOS_Progressed": 23720,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1342,
+  "EOS_NewPlayers": 1338,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11224,6 +11224,11 @@
       "Time": "2023-11-30T05:08:22.8113487+00:00",
       "NumProgressed": 23718,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T06:08:29.3943897+00:00",
+      "NumProgressed": 23720,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -11420,7 +11425,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 9724
+      "UsersEstimate": 9725
     },
     {
       "ID": "Achievement_Trophy25",
@@ -11436,7 +11441,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 8064
+      "UsersEstimate": 8065
     },
     {
       "ID": "Achievement_Trophy27",
@@ -11452,7 +11457,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7827
+      "UsersEstimate": 7828
     },
     {
       "ID": "Achievement_Trophy29",
@@ -11468,7 +11473,7 @@
       "Name": "Spread the plague",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 6878
+      "UsersEstimate": 6879
     },
     {
       "ID": "Achievement_Trophy31",
@@ -11492,7 +11497,7 @@
       "Name": "Pack leader",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "Achievement_Trophy34",
@@ -11540,7 +11545,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4506
+      "UsersEstimate": 4507
     },
     {
       "ID": "Achievement_Trophy40",
@@ -11548,7 +11553,7 @@
       "Name": "Pain is your friend",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "Achievement_Trophy41",
@@ -11556,7 +11561,7 @@
       "Name": "Obstacle race",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3083
+      "UsersEstimate": 3084
     },
     {
       "ID": "Achievement_Trophy42",
@@ -11564,7 +11569,7 @@
       "Name": "Black death",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "Achievement_Trophy43",
@@ -11604,7 +11609,7 @@
       "Name": "Play it again, Sam",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "Achievement_Trophy48",
@@ -11723,7 +11728,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 23718,
+      "Progressed": 23720,
       "Completed": 1
     }
   ],
@@ -11731,8 +11736,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-30T05:01:30.8478549+00:00",
-  "LastChanged_Achievements": "2023-11-30T05:08:22.8113482+00:00",
+  "LastChanged_Achievements": "2023-11-30T06:08:29.3943894+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:22.2817081+00:00",
-  "LastUpdate_Ratings": "2023-11-30T05:01:30.8478555+00:00",
-  "LastUpdate_Achievements": "2023-11-30T05:08:22.8114221+00:00"
+  "LastUpdate_Ratings": "2023-11-30T06:00:10.4392368+00:00",
+  "LastUpdate_Achievements": "2023-11-30T06:08:29.3944616+00:00"
 }

@@ -4518,9 +4518,9 @@
       "ID": "elite_deck_2",
       "SetID": "53c1p3k",
       "Name": "Elite Deck 2",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "elite_deck_3",
@@ -4853,8 +4853,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-11-30T05:10:02.3095218+00:00",
+  "LastChanged_Achievements": "2023-11-30T06:09:41.2262923+00:00",
   "LastUpdate_AppInfo": "2023-11-28T15:57:00.3278219+00:00",
-  "LastUpdate_Ratings": "2023-11-30T04:59:01.72785+00:00",
-  "LastUpdate_Achievements": "2023-11-30T05:10:02.3095811+00:00"
+  "LastUpdate_Ratings": "2023-11-30T05:58:31.4608186+00:00",
+  "LastUpdate_Achievements": "2023-11-30T06:09:41.2263655+00:00"
 }

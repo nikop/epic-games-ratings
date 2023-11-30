@@ -6,22 +6,22 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~626,750 |
-| Death From Above | 45.00% | ~613,125 |
-| Master of the Household | 38.00% | ~517,750 |
-| Death of the Party | 35.00% | ~476,875 |
-| NEXUS-47 | 32.00% | ~436,000 |
-| The Last Tango | 31.00% | ~422,375 |
-| Nightmare Fuel | 30.00% | ~408,750 |
-| The Result of Previous Training | 28.00% | ~381,500 |
-| Tools of the Trade | 28.00% | ~381,500 |
-| Cleared for Field Duty | 27.00% | ~367,875 |
-| Seizing the Opportunity | 26.00% | ~354,250 |
-| Bullet Train | 21.00% | ~286,125 |
-| Stylish Assassin | 20.00% | ~272,500 |
-| Silent Assassin | 14.00% | ~190,750 |
-| Rise Up | 12.00% | ~163,500 |
-| Evil Wine Club | 11.00% | ~149,875 |
+| Unseen Assassin | 46.00% | ~626,752 |
+| Death From Above | 45.00% | ~613,127 |
+| Master of the Household | 38.00% | ~517,752 |
+| Death of the Party | 35.00% | ~476,877 |
+| NEXUS-47 | 32.00% | ~436,002 |
+| The Last Tango | 31.00% | ~422,377 |
+| Nightmare Fuel | 30.00% | ~408,752 |
+| The Result of Previous Training | 28.00% | ~381,501 |
+| Tools of the Trade | 28.00% | ~381,501 |
+| Cleared for Field Duty | 27.00% | ~367,876 |
+| Seizing the Opportunity | 26.00% | ~354,251 |
+| Bullet Train | 21.00% | ~286,126 |
+| Stylish Assassin | 20.00% | ~272,501 |
+| Silent Assassin | 14.00% | ~190,751 |
+| Rise Up | 12.00% | ~163,501 |
+| Evil Wine Club | 11.00% | ~149,876 |
 | Console Cowboy | 10.00% | ~136,250 |
 | Last Stop | 10.00% | ~136,250 |
 | A New Profile | 9.00% | ~122,625 |
@@ -52,9 +52,9 @@ Number of Ratings: 21,082  (23.09.2022)
 | Bird Art | 2.00% | ~27,250 |
 | Top of the Class | 1.00% | ~13,625 |
 | Ripe for the Picking | 1.00% | ~13,625 |
-| The Creative Assassin | 0.70% | ~9,537 |
+| The Creative Assassin | 0.70% | ~9,538 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,362,500 (Ranked 9)  
+Progressed: 1,362,505 (Ranked 9)  
 Completed: 2,193 (0.16%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,10 +278,10 @@ Completed: 2,193 (0.16%) (Ranked 267)
 | 2023-11-27 | 1,361,898 | 2,193 |
 | 2023-11-28 | 1,362,159 | 2,193 |
 | 2023-11-29 | 1,362,445 | 2,193 |
-| 2023-11-30 | 1,362,500 | 2,193 |
+| 2023-11-30 | 1,362,505 | 2,193 |
 ## Awards
 Max (Diverse Characters): 10,854  (Ranked 37)  
-Sum: 74,434 (Ranked 22)  
+Sum: 74,440 (Ranked 22)  
 Diff (max vs sum): 15  
 | Award | Count |
 | ----- | ----- |
@@ -289,7 +289,7 @@ Diff (max vs sum): 15
 | This game is Highly Recommended | 9,776 |
 | This game is Extremely Fun | 9,438 |
 | This game has Amazing Storytelling | 9,296 |
-| This game has Amazing Characters | 9,144 |
+| This game has Amazing Characters | 9,150 |
 | This game has Quickly Understood Controls | 8,719 |
 | This game has a Creative Community | 8,620 |
 | This game is Relaxing | 8,587 |
@@ -634,4 +634,4 @@ Diff (max vs sum): 15
 | 2023-11-27 | 4.78 | - | 10,835 | 74,368 |
 | 2023-11-28 | 4.78 | - | 10,840 | 74,397 |
 | 2023-11-29 | 4.78 | - | 10,840 | 74,420 |
-| 2023-11-30 | 4.78 | - | 10,854 | 74,434 |
+| 2023-11-30 | 4.78 | - | 10,854 | 74,440 |

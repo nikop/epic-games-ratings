@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 172,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -3247,10 +3247,10 @@
       "Count": 254
     }
   ],
-  "EOS_Progressed": 84443,
+  "EOS_Progressed": 84444,
   "EOS_Completed": 166,
-  "EOS_NewPlayers": 824,
-  "EOS_NewCompleters": 2,
+  "EOS_NewPlayers": 822,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -28207,6 +28207,11 @@
       "Time": "2023-11-30T05:06:08.9157104+00:00",
       "NumProgressed": 84443,
       "NumCompleted": 166
+    },
+    {
+      "Time": "2023-11-30T06:05:13.1771479+00:00",
+      "NumProgressed": 84444,
+      "NumCompleted": 166
     }
   ],
   "TotalAchievements": 30,
@@ -28386,7 +28391,7 @@
       "Name": "Money money",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 12666
+      "UsersEstimate": 12667
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -28410,7 +28415,7 @@
       "Name": "Frequent tester",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 6755
+      "UsersEstimate": 6756
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -28450,22 +28455,22 @@
       "Name": "Determined",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 6755
+      "UsersEstimate": 6756
     }
   ],
   "AchievementSets": [
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 84443,
+      "Progressed": 84444,
       "Completed": 166
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-11-27T21:57:34.1560719+00:00",
-  "LastChanged_Achievements": "2023-11-30T05:06:08.9157099+00:00",
+  "LastChanged_Achievements": "2023-11-30T06:05:13.1771476+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:29.0449406+00:00",
-  "LastUpdate_Ratings": "2023-11-30T04:59:22.4587977+00:00",
-  "LastUpdate_Achievements": "2023-11-30T05:06:08.9158567+00:00"
+  "LastUpdate_Ratings": "2023-11-30T05:58:45.4929505+00:00",
+  "LastUpdate_Achievements": "2023-11-30T06:05:13.1773142+00:00"
 }

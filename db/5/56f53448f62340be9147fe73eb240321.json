@@ -4,7 +4,7 @@
   "ProductSlug": "100-worlds-escape-the-room-c6f972",
   "Ranking_EOS_Progress": 628,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-07-24T22:00:00+00:00",
@@ -80,9 +80,9 @@
       "ID": "ach_50_items",
       "SetID": "c0bphk8",
       "Name": "Sharp-sighted!",
-      "Percentage": 67,
+      "Percentage": 83,
       "XP": 130,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_50_levels",
@@ -96,9 +96,9 @@
       "ID": "ach_first_step",
       "SetID": "c0bphk8",
       "Name": "Game Opened",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_hint_3",
@@ -174,8 +174,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-19T06:01:22.7935728+00:00",
-  "LastChanged_Achievements": "2023-11-30T05:04:51.217425+00:00",
+  "LastChanged_Achievements": "2023-11-30T06:04:18.0363328+00:00",
   "LastUpdate_AppInfo": "2023-11-29T17:57:14.9560804+00:00",
-  "LastUpdate_Ratings": "2023-11-30T04:59:33.398333+00:00",
-  "LastUpdate_Achievements": "2023-11-30T05:04:51.2174331+00:00"
+  "LastUpdate_Ratings": "2023-11-30T05:58:52.7577644+00:00",
+  "LastUpdate_Achievements": "2023-11-30T06:04:18.0363406+00:00"
 }

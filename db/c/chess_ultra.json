@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 219934,
+  "EOS_Progressed": 219935,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 971,
+  "EOS_NewPlayers": 969,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25928,6 +25928,11 @@
       "Time": "2023-11-30T05:06:04.6902139+00:00",
       "NumProgressed": 219934,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-30T06:05:10.1791127+00:00",
+      "NumProgressed": 219935,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -26027,7 +26032,7 @@
       "Name": "Doubled Pawn",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 125362
+      "UsersEstimate": 125363
     },
     {
       "ID": "Elo",
@@ -26115,7 +26120,7 @@
       "Name": "O-O-O",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 28591
+      "UsersEstimate": 28592
     },
     {
       "ID": "Octopus",
@@ -26123,7 +26128,7 @@
       "Name": "Octopus",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 28591
+      "UsersEstimate": 28592
     },
     {
       "ID": "PieceCollector",
@@ -26242,7 +26247,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 219934,
+      "Progressed": 219935,
       "Completed": 2
     }
   ],
@@ -26250,8 +26255,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-11-14T13:07:38.4889289+00:00",
-  "LastChanged_Achievements": "2023-11-30T05:06:04.6902131+00:00",
+  "LastChanged_Achievements": "2023-11-30T06:05:10.1791123+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:56:55.7462157+00:00",
-  "LastUpdate_Ratings": "2023-11-30T05:00:45.5867523+00:00",
-  "LastUpdate_Achievements": "2023-11-30T05:06:04.6903378+00:00"
+  "LastUpdate_Ratings": "2023-11-30T05:59:40.304365+00:00",
+  "LastUpdate_Achievements": "2023-11-30T06:05:10.1792421+00:00"
 }

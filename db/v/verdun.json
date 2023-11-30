@@ -1859,7 +1859,7 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 65044,
+  "EOS_Progressed": 65045,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 646,
   "EOS_NewCompleters": 0,
@@ -26454,6 +26454,11 @@
       "Time": "2023-11-30T05:07:19.1312754+00:00",
       "NumProgressed": 65044,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-30T06:06:03.5161217+00:00",
+      "NumProgressed": 65045,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -26465,7 +26470,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 35774
+      "UsersEstimate": 35775
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -26697,7 +26702,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 16911
+      "UsersEstimate": 16912
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -26833,7 +26838,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 50734
+      "UsersEstimate": 50735
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -26929,22 +26934,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 24066
+      "UsersEstimate": 24067
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 65044,
+      "Progressed": 65045,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-11-27T09:57:50.3082491+00:00",
-  "LastChanged_Achievements": "2023-11-30T05:07:19.1312749+00:00",
+  "LastChanged_Achievements": "2023-11-30T06:06:03.5161215+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:58.4579333+00:00",
-  "LastUpdate_Ratings": "2023-11-30T05:00:35.4853682+00:00",
-  "LastUpdate_Achievements": "2023-11-30T05:07:19.1314117+00:00"
+  "LastUpdate_Ratings": "2023-11-30T05:59:33.6944799+00:00",
+  "LastUpdate_Achievements": "2023-11-30T06:06:03.5162824+00:00"
 }

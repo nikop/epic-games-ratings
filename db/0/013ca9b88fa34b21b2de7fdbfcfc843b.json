@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8169,
+  "EOS_Progressed": 8170,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7733,6 +7733,11 @@
       "Time": "2023-11-30T05:09:57.5270281+00:00",
       "NumProgressed": 8169,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T06:09:37.5226034+00:00",
+      "NumProgressed": 8170,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -7753,7 +7758,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 5800
+      "UsersEstimate": 5801
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -7769,7 +7774,7 @@
       "Name": "Open the Gate!",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2777
+      "UsersEstimate": 2778
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -7897,7 +7902,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 4983
+      "UsersEstimate": 4984
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -7921,7 +7926,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3839
+      "UsersEstimate": 3840
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -8024,22 +8029,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8169,
+      "Progressed": 8170,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 786,
-      "Completed": 786
+      "Progressed": 787,
+      "Completed": 787
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-26T23:02:38.616334+00:00",
-  "LastChanged_Achievements": "2023-11-30T05:09:57.5270275+00:00",
+  "LastChanged_Achievements": "2023-11-30T06:09:37.5226032+00:00",
   "LastUpdate_AppInfo": "2023-11-24T08:57:08.562767+00:00",
-  "LastUpdate_Ratings": "2023-11-30T05:03:03.9107431+00:00",
-  "LastUpdate_Achievements": "2023-11-30T05:09:57.5270831+00:00"
+  "LastUpdate_Ratings": "2023-11-30T06:03:01.9348988+00:00",
+  "LastUpdate_Achievements": "2023-11-30T06:09:37.5226524+00:00"
 }

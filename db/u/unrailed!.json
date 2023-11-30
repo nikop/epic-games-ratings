@@ -2837,9 +2837,9 @@
       "Count": 148
     }
   ],
-  "EOS_Progressed": 666248,
+  "EOS_Progressed": 666251,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1558,
+  "EOS_NewPlayers": 1553,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28377,6 +28377,11 @@
       "Time": "2023-11-30T05:09:49.129172+00:00",
       "NumProgressed": 666248,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-30T06:09:31.4977326+00:00",
+      "NumProgressed": 666251,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -28388,7 +28393,7 @@
       "Name": "Stroller",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 99937
+      "UsersEstimate": 99938
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -28404,7 +28409,7 @@
       "Name": "Voyager",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 19987
+      "UsersEstimate": 19988
     },
     {
       "ID": "_01_03_DISTANCE_1000_EASY",
@@ -28436,7 +28441,7 @@
       "Name": "Advanced Hiker",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 86612
+      "UsersEstimate": 86613
     },
     {
       "ID": "_01_07_DISTANCE_500_MEDIUM",
@@ -28492,7 +28497,7 @@
       "Name": "Expert Wayfarer",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     },
     {
       "ID": "_01_14_DISTANCE_2000_HARD",
@@ -28516,7 +28521,7 @@
       "Name": "Orient Express",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 19987
+      "UsersEstimate": 19988
     },
     {
       "ID": "_01_22_TRACKS_2000",
@@ -28556,7 +28561,7 @@
       "Name": "Marathon",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 19987
+      "UsersEstimate": 19988
     },
     {
       "ID": "_02_00_DUCKY_DANGER",
@@ -28588,7 +28593,7 @@
       "Name": "Destructionist",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 19987
+      "UsersEstimate": 19988
     },
     {
       "ID": "_02_04_INDUSTRIALIST",
@@ -28636,7 +28641,7 @@
       "Name": "Incurious",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 113262
+      "UsersEstimate": 113263
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -28652,7 +28657,7 @@
       "Name": "Nanuk",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3997
+      "UsersEstimate": 3998
     },
     {
       "ID": "_03_03_SATANS_MINION",
@@ -28796,22 +28801,22 @@
       "Name": "Saved by Nausica\u00E4",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 33312
+      "UsersEstimate": 33313
     }
   ],
   "AchievementSets": [
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 666248,
+      "Progressed": 666251,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-11-24T09:59:15.1264226+00:00",
-  "LastChanged_Achievements": "2023-11-30T05:09:49.1291716+00:00",
+  "LastChanged_Achievements": "2023-11-30T06:09:31.4977322+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:04.271404+00:00",
-  "LastUpdate_Ratings": "2023-11-30T04:59:50.3346739+00:00",
-  "LastUpdate_Achievements": "2023-11-30T05:09:49.1293044+00:00"
+  "LastUpdate_Ratings": "2023-11-30T05:59:03.7556165+00:00",
+  "LastUpdate_Achievements": "2023-11-30T06:09:31.4979233+00:00"
 }

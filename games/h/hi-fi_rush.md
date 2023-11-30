@@ -17,8 +17,8 @@ Rating: 4.87 (Ranked 22)
 | This will cost you big time | 12.00% | ~532 |
 | I play my own way! | 12.00% | ~532 |
 | Uh, they were broken when I got here | 12.00% | ~532 |
-| Z-shielding's got nothing on us! | 11.00% | ~487 |
-| Kissing the sky! | 11.00% | ~487 |
+| Z-shielding's got nothing on us! | 11.00% | ~488 |
+| Kissing the sky! | 11.00% | ~488 |
 | The Negotiator | 10.00% | ~443 |
 | Whoa! There's ANOTHER health bar!? | 10.00% | ~443 |
 | Headliner | 9.00% | ~399 |
@@ -26,9 +26,9 @@ Rating: 4.87 (Ranked 22)
 | Out in a puff of smoke | 9.00% | ~399 |
 | I look cool. But I can look COOLER. | 9.00% | ~399 |
 | Does that say weakpoint? | 9.00% | ~399 |
-| Time to pay up! | 8.00% | ~354 |
-| Who's the boss now? | 8.00% | ~354 |
-| Perfecter Parry-er! | 8.00% | ~354 |
+| Time to pay up! | 8.00% | ~355 |
+| Who's the boss now? | 8.00% | ~355 |
+| Perfecter Parry-er! | 8.00% | ~355 |
 | NOW we got a kickass hideout! | 8.00% | ~236 |
 | I have to read these things? | 7.00% | ~310 |
 | Well that was a rush! | 5.00% | ~222 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 22)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,431 (Ranked 194)  
+Progressed: 4,432 (Ranked 194)  
 Completed: 8 (0.18%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 8 (0.18%) (Ranked 264)
 | 2023-11-27 | 4,394 | 8 |
 | 2023-11-28 | 4,417 | 8 |
 | 2023-11-29 | 4,429 | 8 |
-| 2023-11-30 | 4,431 | 8 |
+| 2023-11-30 | 4,432 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
