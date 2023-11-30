@@ -3579,9 +3579,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31769,
+  "EOS_Progressed": 31773,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 336,
+  "EOS_NewPlayers": 335,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -20949,6 +20949,11 @@
       "Time": "2023-11-30T20:05:38.6252577+00:00",
       "NumProgressed": 31769,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-11-30T21:05:59.6352568+00:00",
+      "NumProgressed": 31773,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -21008,7 +21013,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1589
     },
     {
       "ID": "Collector",
@@ -21048,7 +21053,7 @@
       "Name": "Discovery",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1589
     },
     {
       "ID": "Dont_Need_These",
@@ -21096,7 +21101,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1589
     },
     {
       "ID": "GB_In_Training",
@@ -21248,7 +21253,7 @@
       "Name": "Solo Capture",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1589
     },
     {
       "ID": "Stunner",
@@ -21264,7 +21269,7 @@
       "Name": "Stylish",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2859
+      "UsersEstimate": 2860
     },
     {
       "ID": "Summoner",
@@ -21288,7 +21293,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1589
     },
     {
       "ID": "Teamwork",
@@ -21296,7 +21301,7 @@
       "Name": "Teamwork",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1589
     },
     {
       "ID": "Terrifying",
@@ -21367,7 +21372,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31769,
+      "Progressed": 31773,
       "Completed": 69
     }
   ],
@@ -21375,8 +21380,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-30T20:00:14.9564054+00:00",
-  "LastChanged_Achievements": "2023-11-30T20:05:38.6252572+00:00",
+  "LastChanged_Achievements": "2023-11-30T21:05:59.6352563+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:05.0819015+00:00",
-  "LastUpdate_Ratings": "2023-11-30T20:00:14.956406+00:00",
-  "LastUpdate_Achievements": "2023-11-30T20:05:38.6253542+00:00"
+  "LastUpdate_Ratings": "2023-11-30T21:00:36.2764572+00:00",
+  "LastUpdate_Achievements": "2023-11-30T21:05:59.6353634+00:00"
 }

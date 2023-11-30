@@ -2,9 +2,9 @@
   "ID": "4cbfe407ada24702a556b6e4d28a8800",
   "Name": "WILD HEARTS\u2122 Standard Edition",
   "ProductSlug": "wild-hearts",
-  "Ranking_EOS_Progress": 341,
+  "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -18,11 +18,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 340,
+  "EOS_Progressed": 341,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.06,
+  "EOS_Completed_Percentage": 2.05,
   "EosHistory": [
     {
       "Time": "2023-09-19T03:08:38.9448107+00:00",
@@ -1583,6 +1583,11 @@
       "Time": "2023-11-30T04:05:05.7773698+00:00",
       "NumProgressed": 340,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-30T21:06:56.5019055+00:00",
+      "NumProgressed": 341,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -1595,7 +1600,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "achievement_10",
@@ -1603,7 +1608,7 @@
       "Name": "Karakuri Trail",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "achievement_11",
@@ -1627,7 +1632,7 @@
       "Name": "Karakuri Fortress",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "achievement_14",
@@ -1641,9 +1646,9 @@
       "ID": "achievement_15",
       "SetID": "2cpn27e",
       "Name": "Memory Rouser",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 215
     },
     {
       "ID": "achievement_16",
@@ -1651,7 +1656,7 @@
       "Name": "Distance Devourer",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "achievement_17",
@@ -1667,7 +1672,7 @@
       "Name": "Man-Machine Master",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "achievement_19",
@@ -1683,7 +1688,7 @@
       "Name": "Mountain Splitter",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "achievement_20",
@@ -1747,7 +1752,7 @@
       "Name": "Mighty Marmelizer",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "achievement_28",
@@ -1755,7 +1760,7 @@
       "Name": "Flawless Crystal",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "achievement_29",
@@ -1763,7 +1768,7 @@
       "Name": "Fair Means or Foul",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "achievement_3",
@@ -1827,7 +1832,7 @@
       "Name": "Bewitched by Bathing",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_37",
@@ -1835,7 +1840,7 @@
       "Name": "Hidden History",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "achievement_38",
@@ -1851,7 +1856,7 @@
       "Name": "Big Spender",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_4",
@@ -1867,7 +1872,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "achievement_41",
@@ -1905,17 +1910,17 @@
       "ID": "achievement_45",
       "SetID": "2cpn27e",
       "Name": "Helpful Heart",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 181
     },
     {
       "ID": "achievement_46",
       "SetID": "2cpn27e",
       "Name": "Charmed by the Hunt",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 222
     },
     {
       "ID": "achievement_47",
@@ -1939,7 +1944,7 @@
       "Name": "Reincarnation Cycle Stopper",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "achievement_6",
@@ -1947,7 +1952,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "achievement_7",
@@ -1955,7 +1960,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "achievement_8",
@@ -1971,20 +1976,20 @@
       "Name": "Karakuri Minato",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     }
   ],
   "AchievementSets": [
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 340,
+      "Progressed": 341,
       "Completed": 7
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-30T20:06:33.0651803+00:00",
+  "LastChanged_Achievements": "2023-11-30T21:06:56.5019049+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:52.7646149+00:00",
-  "LastUpdate_Ratings": "2023-11-30T19:57:47.6288333+00:00",
-  "LastUpdate_Achievements": "2023-11-30T20:06:33.0652246+00:00"
+  "LastUpdate_Ratings": "2023-11-30T20:57:53.1514779+00:00",
+  "LastUpdate_Achievements": "2023-11-30T21:06:56.5019529+00:00"
 }

@@ -7,12 +7,12 @@
 | The Last Stand | 88.00% | ~445 |
 | Thalya – Simply Immortal | 88.00% | ~445 |
 | For the Horde! | 81.00% | ~410 |
-| Hammer Time, Round Two | 79.00% | ~400 |
+| Hammer Time, Round Two | 80.00% | ~405 |
 | The Hellwoods | 74.00% | ~374 |
 | The Plains of Strothalm | 68.00% | ~344 |
 | Experienced Thalya | 68.00% | ~344 |
 | Thalya's Concentrated Fury | 67.00% | ~339 |
-| Bad Elves Go Everywhere | 65.00% | ~329 |
+| Bad Elves Go Everywhere | 66.00% | ~334 |
 | Master of Magic | 63.00% | ~319 |
 | Heroes’ Gorge | 61.00% | ~309 |
 | Unicorn steaks – fresh off the hoof! | 59.00% | ~299 |
@@ -26,33 +26,33 @@
 | The Big Eaty | 46.00% | ~233 |
 | “… like son” | 43.00% | ~218 |
 | Pure Dynamite! | 42.00% | ~213 |
+| Dungeonlord Gorgu | 39.00% | ~197 |
 | Shame! Shame! Shame! | 39.00% | ~197 |
-| Dungeonlord Gorgu | 38.00% | ~192 |
+| The Cathedral of Light | 38.00% | ~192 |
 | Mana Cannon | 37.00% | ~187 |
-| The Cathedral of Light | 37.00% | ~187 |
 | Tanos' Crusade Against Thalya | 32.00% | ~162 |
+| Unstoppable Horde | 28.00% | ~142 |
 | All’s Well That Ends Evil | 28.00% | ~142 |
-| Unstoppable Horde | 27.00% | ~137 |
 | Master of the Undead | 25.00% | ~126 |
-| The Duel | 24.00% | ~121 |
+| The Duel | 25.00% | ~126 |
 | Hungry, Hungry Gorgu! | 23.00% | ~116 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 23.00% | ~116 |
 | Forbidden Knowledge | 23.00% | ~116 |
 | Ghost Pirates? Ghost Heroes! | 22.00% | ~111 |
 | If Looks Could Kill | 22.00% | ~111 |
-| The Finitude Drill | 19.00% | ~96 |
+| The Finitude Drill | 20.00% | ~101 |
 | Stop Tanos! | 18.00% | ~91 |
-| Doom Hill | 17.00% | ~86 |
+| Doom Hill | 18.00% | ~91 |
+| Sabotage! | 16.00% | ~81 |
 | Brimstone Shaken, Not Stirred | 16.00% | ~81 |
 | Sacrificial Pit = Garbage Disposal? | 15.00% | ~76 |
 | Bonus Evilness | 15.00% | ~76 |
-| Sabotage! | 15.00% | ~76 |
 | Raiders of the Lost Stone | 14.00% | ~71 |
 | The Rune Sockets of Finitude (Part 1) | 14.00% | ~71 |
 | My Little Torture Chamber | 13.00% | ~66 |
-| Lavalumps on Ice! | 12.00% | ~61 |
+| Lavalumps on Ice! | 13.00% | ~66 |
+| Rubble and Ashes | 12.00% | ~61 |
 | The Rune Sockets of Finitude (Part 2) | 12.00% | ~61 |
-| Rubble and Ashes | 11.00% | ~56 |
 | The Last Stand - This Time For Real! | 11.00% | ~56 |
 | To the Max! | 10.00% | ~51 |
 | To Infinity And Beyond! | 10.00% | ~51 |

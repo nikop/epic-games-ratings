@@ -165,7 +165,7 @@
   ],
   "EOS_Progressed": 795,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 286,
+  "EOS_NewPlayers": 283,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1823,9 +1823,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 56
     },
     {
       "ID": "BreakTheLoop",
@@ -1847,9 +1847,9 @@
       "ID": "ChasingTheLight",
       "SetID": "1n308hc",
       "Name": "Chasing the Light",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 24
     },
     {
       "ID": "Chicken",
@@ -1967,9 +1967,9 @@
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 40
     },
     {
       "ID": "LostMarshes",
@@ -1999,9 +1999,9 @@
       "ID": "MuseumExplorer",
       "SetID": "1n308hc",
       "Name": "Museum Explorer",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 32
     },
     {
       "ID": "MuseumVisitor",
@@ -2183,9 +2183,9 @@
       "ID": "TheThiefOfFire",
       "SetID": "1n308hc",
       "Name": "The Thief of Fire",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 32
     },
     {
       "ID": "TheWordEndures",
@@ -2264,8 +2264,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-29T18:59:07.9515154+00:00",
-  "LastChanged_Achievements": "2023-11-30T20:03:51.5182969+00:00",
+  "LastChanged_Achievements": "2023-11-30T21:04:07.3150444+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-11-30T20:00:27.5210166+00:00",
-  "LastUpdate_Achievements": "2023-11-30T20:03:51.5183952+00:00"
+  "LastUpdate_Ratings": "2023-11-30T21:00:49.682488+00:00",
+  "LastUpdate_Achievements": "2023-11-30T21:04:07.3150868+00:00"
 }

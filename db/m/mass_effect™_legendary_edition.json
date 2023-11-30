@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1465,
+  "EOS_Progressed": 1466,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -4168,6 +4168,11 @@
       "Time": "2023-11-30T20:09:18.782321+00:00",
       "NumProgressed": 1465,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-30T21:09:31.4908383+00:00",
+      "NumProgressed": 1466,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -4292,7 +4297,7 @@
       "Name": "Always Prepared",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "achievement_112",
@@ -4380,7 +4385,7 @@
       "Name": "Paramour II",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "achievement_122",
@@ -4388,7 +4393,7 @@
       "Name": "Paramour III",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "achievement_123",
@@ -4404,7 +4409,7 @@
       "Name": "Recruit",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "achievement_125",
@@ -4412,7 +4417,7 @@
       "Name": "Soldier",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "achievement_126",
@@ -4452,7 +4457,7 @@
       "Name": "Sabotage Specialist",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "achievement_16",
@@ -4492,7 +4497,7 @@
       "Name": "Medal of Heroism",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 879
+      "UsersEstimate": 880
     },
     {
       "ID": "achievement_20",
@@ -4508,15 +4513,15 @@
       "Name": "Medal of Exploration I",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "achievement_22",
       "SetID": "b9pe172",
       "Name": "Medal of Exploration II",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 791
+      "UsersEstimate": 777
     },
     {
       "ID": "achievement_23",
@@ -4524,7 +4529,7 @@
       "Name": "Medal of Exploration III",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "achievement_24",
@@ -4548,7 +4553,7 @@
       "Name": "Krogan Ally",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "achievement_27",
@@ -4556,7 +4561,7 @@
       "Name": "Turian Ally",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "achievement_28",
@@ -4580,7 +4585,7 @@
       "Name": "Distinguished Service Medal",
       "Percentage": 93,
       "XP": 25,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "achievement_30",
@@ -4588,7 +4593,7 @@
       "Name": "Principled",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "achievement_31",
@@ -4596,7 +4601,7 @@
       "Name": "Spectre Inductee",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 1172
+      "UsersEstimate": 1173
     },
     {
       "ID": "achievement_32",
@@ -4604,7 +4609,7 @@
       "Name": "Charismatic",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "achievement_33",
@@ -4668,7 +4673,7 @@
       "Name": "Council Legion of Merit",
       "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "achievement_40",
@@ -4756,7 +4761,7 @@
       "Name": "Honorarium of Corporate Service",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "achievement_50",
@@ -4884,7 +4889,7 @@
       "Name": "Merciless",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "achievement_65",
@@ -4940,7 +4945,7 @@
       "Name": "Operative",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "achievement_71",
@@ -4978,9 +4983,9 @@
       "ID": "achievement_75",
       "SetID": "d252ncf",
       "Name": "Revenge!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 440
     },
     {
       "ID": "achievement_76",
@@ -5068,7 +5073,7 @@
       "Name": "Party Crasher",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "achievement_86",
@@ -5195,19 +5200,19 @@
     {
       "ID": "b9pe172",
       "IsBase": true,
-      "Progressed": 1465,
+      "Progressed": 1466,
       "Completed": 6
     },
     {
       "ID": "d252ncf",
       "IsBase": false,
-      "Progressed": 1465,
+      "Progressed": 1466,
       "Completed": 4
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-30T20:09:18.7823205+00:00",
+  "LastChanged_Achievements": "2023-11-30T21:09:31.490838+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:10.3433357+00:00",
-  "LastUpdate_Ratings": "2023-11-30T20:03:14.6696133+00:00",
-  "LastUpdate_Achievements": "2023-11-30T20:09:18.7824758+00:00"
+  "LastUpdate_Ratings": "2023-11-30T21:03:16.9687184+00:00",
+  "LastUpdate_Achievements": "2023-11-30T21:09:31.4909901+00:00"
 }

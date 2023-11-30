@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1535,7 +1535,7 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 7041,
+  "EOS_Progressed": 7042,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
@@ -13770,6 +13770,11 @@
       "Time": "2023-11-30T18:03:23.9089512+00:00",
       "NumProgressed": 7041,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-30T21:04:00.9105298+00:00",
+      "NumProgressed": 7042,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -13781,7 +13786,7 @@
       "Name": "Get A Room",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 5281
+      "UsersEstimate": 5282
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -13789,7 +13794,7 @@
       "Name": "Beam Me Up",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 3661
+      "UsersEstimate": 3662
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -13813,7 +13818,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 4717
+      "UsersEstimate": 4718
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -13821,7 +13826,7 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5351
+      "UsersEstimate": 5352
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -13829,7 +13834,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5140
+      "UsersEstimate": 5141
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -13893,7 +13898,7 @@
       "Name": "Retribution",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 2957
+      "UsersEstimate": 2958
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -13901,7 +13906,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 4295
+      "UsersEstimate": 4296
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -13925,7 +13930,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 3309
+      "UsersEstimate": 3310
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -13949,7 +13954,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 2957
+      "UsersEstimate": 2958
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -13989,7 +13994,7 @@
       "Name": "Novice Researcher",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 4717
+      "UsersEstimate": 4718
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -13997,7 +14002,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 3168
+      "UsersEstimate": 3169
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -14021,22 +14026,22 @@
       "Name": "Studious Researcher",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 3661
+      "UsersEstimate": 3662
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7041,
+      "Progressed": 7042,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-11-30T18:00:41.6530659+00:00",
-  "LastChanged_Achievements": "2023-11-30T20:03:45.3834085+00:00",
+  "LastChanged_Achievements": "2023-11-30T21:04:00.9105296+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:23.1121034+00:00",
-  "LastUpdate_Ratings": "2023-11-30T19:02:28.2522897+00:00",
-  "LastUpdate_Achievements": "2023-11-30T20:03:45.3835076+00:00"
+  "LastUpdate_Ratings": "2023-11-30T20:57:10.5559641+00:00",
+  "LastUpdate_Achievements": "2023-11-30T21:04:00.9105865+00:00"
 }

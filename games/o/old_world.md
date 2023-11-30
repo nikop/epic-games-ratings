@@ -11,20 +11,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 6.00% | ~934 |
 | Friendly Family | 6.00% | ~934 |
 | Intrepid | 5.00% | ~778 |
-| Able | 4.00% | ~622 |
-| Architect | 4.00% | ~622 |
-| Good | 4.00% | ~622 |
-| Just | 4.00% | ~622 |
-| Learned | 4.00% | ~622 |
-| Mason | 4.00% | ~622 |
-| Noble | 4.00% | ~622 |
-| Pioneer | 4.00% | ~622 |
-| Strong | 4.00% | ~622 |
-| Hanging Gardens | 4.00% | ~622 |
-| Oracle | 4.00% | ~622 |
-| Judaism | 4.00% | ~622 |
-| Naming Landmarks | 4.00% | ~622 |
-| Trade Caravan | 4.00% | ~622 |
+| Able | 4.00% | ~623 |
+| Architect | 4.00% | ~623 |
+| Good | 4.00% | ~623 |
+| Just | 4.00% | ~623 |
+| Learned | 4.00% | ~623 |
+| Mason | 4.00% | ~623 |
+| Noble | 4.00% | ~623 |
+| Pioneer | 4.00% | ~623 |
+| Strong | 4.00% | ~623 |
+| Hanging Gardens | 4.00% | ~623 |
+| Oracle | 4.00% | ~623 |
+| Judaism | 4.00% | ~623 |
+| Naming Landmarks | 4.00% | ~623 |
+| Trade Caravan | 4.00% | ~623 |
 | Ambitious | 3.00% | ~467 |
 | Brilliant | 3.00% | ~467 |
 | Enlightened | 3.00% | ~467 |
@@ -133,11 +133,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.90% | ~140 |
 | Turreted Elephant | 0.90% | ~140 |
 | Poetic Leader | 0.90% | ~140 |
-| Noble Difficulty | 0.80% | ~124 |
-| Cao'an | 0.80% | ~124 |
-| Adur Burzen-Mihr | 0.80% | ~124 |
-| All Nations | 0.80% | ~124 |
-| Kmt Unified | 0.80% | ~124 |
+| Noble Difficulty | 0.80% | ~125 |
+| Cao'an | 0.80% | ~125 |
+| Adur Burzen-Mihr | 0.80% | ~125 |
+| All Nations | 0.80% | ~125 |
+| Kmt Unified | 0.80% | ~125 |
 | Ishtar Gate in Babylon | 0.70% | ~109 |
 | Carthage - Ox Hide | 0.70% | ~109 |
 | Peacemaker | 0.70% | ~109 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,561 (Ranked 152)  
+Progressed: 15,563 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -573,7 +573,7 @@ Completed: 5 (0.03%) (Ranked 326)
 | 2023-11-27 | 15,525 | 5 |
 | 2023-11-28 | 15,534 | 5 |
 | 2023-11-29 | 15,545 | 5 |
-| 2023-11-30 | 15,561 | 5 |
+| 2023-11-30 | 15,563 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,882 (Ranked 218)  

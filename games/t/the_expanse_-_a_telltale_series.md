@@ -6,13 +6,13 @@ Rating: 4.55 (Ranked 507)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 11.00% | ~1,737 |
-| Bosmang | 7.00% | ~1,105 |
-| The Pit and the Pirates | 6.00% | ~947 |
-| Martian Music | 6.00% | ~947 |
-| Drone Dodger | 6.00% | ~947 |
-| Captain Drummer | 6.00% | ~947 |
-| Celebrations are in Order | 6.00% | ~947 |
-| Impossible Objects | 6.00% | ~947 |
+| Bosmang | 7.00% | ~1,106 |
+| The Pit and the Pirates | 6.00% | ~948 |
+| Martian Music | 6.00% | ~948 |
+| Drone Dodger | 6.00% | ~948 |
+| Captain Drummer | 6.00% | ~948 |
+| Celebrations are in Order | 6.00% | ~948 |
+| Impossible Objects | 6.00% | ~948 |
 | Safe Cracker | 6.00% | ~105 |
 | Zen Master | 6.00% | ~105 |
 | Stogie for Fogey | 5.00% | ~790 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 507)
 | Scavenger Star | 0.10% | ~16 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,790 (Ranked 151)  
+Progressed: 15,793 (Ranked 151)  
 Completed: 39 (0.25%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 39 (0.25%) (Ranked 248)
 | 2023-11-27 | 15,689 | 36 |
 | 2023-11-28 | 15,732 | 39 |
 | 2023-11-29 | 15,765 | 39 |
-| 2023-11-30 | 15,790 | 39 |
+| 2023-11-30 | 15,793 | 39 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

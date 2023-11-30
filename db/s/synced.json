@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -1185,9 +1185,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 67792,
+  "EOS_Progressed": 67798,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 450,
+  "EOS_NewPlayers": 453,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -11000,6 +11000,11 @@
       "Time": "2023-11-30T20:06:30.4398209+00:00",
       "NumProgressed": 67792,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-11-30T21:06:53.6038287+00:00",
+      "NumProgressed": 67798,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -11012,7 +11017,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23727
+      "UsersEstimate": 23729
     },
     {
       "ID": "10",
@@ -11076,7 +11081,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 12203
+      "UsersEstimate": 12204
     },
     {
       "ID": "3",
@@ -11084,7 +11089,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8813
+      "UsersEstimate": 8814
     },
     {
       "ID": "4",
@@ -11092,7 +11097,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6779
+      "UsersEstimate": 6780
     },
     {
       "ID": "5",
@@ -11100,7 +11105,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5423
+      "UsersEstimate": 5424
     },
     {
       "ID": "6",
@@ -11139,7 +11144,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 67792,
+      "Progressed": 67798,
       "Completed": 38
     }
   ],
@@ -11147,8 +11152,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-30T15:59:22.6557041+00:00",
-  "LastChanged_Achievements": "2023-11-30T20:06:30.4398204+00:00",
+  "LastChanged_Achievements": "2023-11-30T21:06:53.6038281+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:13.9511371+00:00",
-  "LastUpdate_Ratings": "2023-11-30T19:59:18.743233+00:00",
-  "LastUpdate_Achievements": "2023-11-30T20:06:30.4398779+00:00"
+  "LastUpdate_Ratings": "2023-11-30T20:59:33.8993472+00:00",
+  "LastUpdate_Achievements": "2023-11-30T21:06:53.6038876+00:00"
 }

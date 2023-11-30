@@ -2955,9 +2955,9 @@
       "ID": "AC28",
       "SetID": "l4abp0",
       "Name": "The Punished One",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 510
+      "UsersEstimate": 520
     },
     {
       "ID": "AC29",
@@ -2979,9 +2979,9 @@
       "ID": "AC31",
       "SetID": "l4abp0",
       "Name": "The Merciless One",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 448
+      "UsersEstimate": 458
     },
     {
       "ID": "AC32",
@@ -3108,8 +3108,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-11-18T16:58:56.9508532+00:00",
-  "LastChanged_Achievements": "2023-11-30T20:08:59.5745729+00:00",
+  "LastChanged_Achievements": "2023-11-30T21:09:11.28604+00:00",
   "LastUpdate_AppInfo": "2023-11-29T01:48:53.5271416+00:00",
-  "LastUpdate_Ratings": "2023-11-30T19:57:33.2390392+00:00",
-  "LastUpdate_Achievements": "2023-11-30T20:08:59.5746179+00:00"
+  "LastUpdate_Ratings": "2023-11-30T20:57:37.6479553+00:00",
+  "LastUpdate_Achievements": "2023-11-30T21:09:11.2860846+00:00"
 }

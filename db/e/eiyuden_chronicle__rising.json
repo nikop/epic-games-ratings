@@ -2,7 +2,7 @@
   "ID": "a4824407d9ec4f6a8c13919e732f9400",
   "Name": "Eiyuden Chronicle: Rising",
   "ProductSlug": "eiyuden-chronicle-rising",
-  "Ranking_Rating": 573,
+  "Ranking_Rating": 572,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 284,
@@ -507,9 +507,9 @@
       "ID": "ACHIEVEMENT012",
       "SetID": "dejhjd5",
       "Name": "The Go-To Girl",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 260
+      "UsersEstimate": 267
     },
     {
       "ID": "ACHIEVEMENT013",
@@ -827,8 +827,8 @@
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-11-25T08:59:07.0870694+00:00",
-  "LastChanged_Achievements": "2023-11-30T20:04:47.6110565+00:00",
+  "LastChanged_Achievements": "2023-11-30T21:05:06.0829024+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:12.4041094+00:00",
-  "LastUpdate_Ratings": "2023-11-30T19:58:47.014389+00:00",
-  "LastUpdate_Achievements": "2023-11-30T20:04:47.6110965+00:00"
+  "LastUpdate_Ratings": "2023-11-30T20:58:59.2983313+00:00",
+  "LastUpdate_Achievements": "2023-11-30T21:05:06.0829406+00:00"
 }

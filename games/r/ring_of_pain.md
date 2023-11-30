@@ -63,6 +63,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Barbecue | 0.20% | ~481 |
 | Berzerker | 0.20% | ~481 |
 | Juggernaut | 0.20% | ~481 |
+| Clearing The Room | 0.20% | ~481 |
 | Don't Ignore Me! | 0.20% | ~481 |
 | All Consuming | 0.20% | ~481 |
 | Illuminate, Eliminate | 0.20% | ~481 |
@@ -72,6 +73,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Snake Sneak | 0.20% | ~481 |
 | The Long Run | 0.20% | ~481 |
 | Obsessed | 0.20% | ~481 |
+| Sentimental Value | 0.20% | ~481 |
 | Precious | 0.20% | ~481 |
 | Raw Power | 0.20% | ~4 |
 | Achievement Hunter | 0.10% | ~240 |
@@ -99,7 +101,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Resourceful | 0.10% | ~240 |
 | Become The Nightmare | 0.10% | ~240 |
 | Trail Of Death | 0.10% | ~240 |
-| Clearing The Room | 0.10% | ~240 |
 | Blizzard | 0.10% | ~240 |
 | The Boulder | 0.10% | ~240 |
 | Overthrown | 0.10% | ~240 |
@@ -131,7 +132,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Quick To Pick | 0.10% | ~240 |
 | Tunnel Vision | 0.10% | ~240 |
 | Martial Master | 0.10% | ~240 |
-| Sentimental Value | 0.10% | ~240 |
 | Nudie Run | 0.10% | ~240 |
 | You Call That A Knife? | 0.10% | ~240 |
 | Scrounger Appreciation | 0.10% | ~2 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,441 (Ranked 63)  
+Progressed: 240,443 (Ranked 63)  
 Completed: 291 (0.12%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -369,7 +369,7 @@ Completed: 291 (0.12%) (Ranked 280)
 | 2023-11-27 | 240,313 | 291 |
 | 2023-11-28 | 240,354 | 291 |
 | 2023-11-29 | 240,403 | 291 |
-| 2023-11-30 | 240,441 | 291 |
+| 2023-11-30 | 240,443 | 291 |
 ## Awards
 Max (Great for Beginners): 1,534  (Ranked 132)  
 Sum: 13,236 (Ranked 78)  

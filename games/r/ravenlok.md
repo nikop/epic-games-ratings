@@ -21,9 +21,9 @@
 | Piece of Cake | 43.00% | ~488 |
 | Gooey Delight! | 42.00% | ~476 |
 | Glimmer of Hope | 42.00% | ~476 |
+| Nightmare Fuel | 41.00% | ~465 |
 | The Guardian | 41.00% | ~465 |
 | Teacups for Toppy | 41.00% | ~465 |
-| Nightmare Fuel | 40.00% | ~454 |
 | Take Heart | 40.00% | ~454 |
 | Stronger! | 40.00% | ~454 |
 | Well Rested | 40.00% | ~454 |
@@ -39,9 +39,9 @@
 | Heartbreaker | 36.00% | ~408 |
 | Kidnapped! | 36.00% | ~408 |
 | Pull the Plug | 35.00% | ~397 |
+| Soul Slayer | 35.00% | ~397 |
 | All Heart | 35.00% | ~397 |
 | Trick Question! | 35.00% | ~397 |
-| Soul Slayer | 34.00% | ~386 |
 | The Downfall | 34.00% | ~386 |
 | Final Showdown | 34.00% | ~386 |
 | Spot of Tea? | 34.00% | ~386 |

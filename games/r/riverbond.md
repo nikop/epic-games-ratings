@@ -1,16 +1,16 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 642)  
+Rating: 4.47 (Ranked 641)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~372,572 |
+| First Step | 70.00% | ~372,573 |
 | Now You're Talking | 62.00% | ~329,993 |
 | Steel Yourself | 62.00% | ~329,993 |
-| Window Dressing | 50.00% | ~266,123 |
-| Trigger Happy | 46.00% | ~244,833 |
+| Window Dressing | 50.00% | ~266,124 |
+| Trigger Happy | 46.00% | ~244,834 |
 | Riverborn | 45.00% | ~239,511 |
 | Starry Eyed | 34.00% | ~180,964 |
 | Poking Around | 34.00% | ~180,964 |
@@ -20,9 +20,9 @@ Number of Ratings: 617  (23.09.2022)
 | Wind At Our Backs | 22.00% | ~117,094 |
 | To the Beat | 20.00% | ~106,449 |
 | Sunny Shores | 17.00% | ~90,482 |
-| Sunday Best | 16.00% | ~85,159 |
+| Sunday Best | 16.00% | ~85,160 |
 | To Victory! | 15.00% | ~79,837 |
-| Two of a Kind | 14.00% | ~74,514 |
+| Two of a Kind | 14.00% | ~74,515 |
 | Keep On Trucking | 13.00% | ~69,192 |
 | Going on an Adventure | 11.00% | ~58,547 |
 | Make Peace, Not War | 11.00% | ~58,547 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,597 |
 | Point Taken | 0.20% | ~1,064 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 532,246 (Ranked 35)  
+Progressed: 532,247 (Ranked 35)  
 Completed: 503 (0.09%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 503 (0.09%) (Ranked 290)
 | 2023-11-27 | 532,114 | 502 |
 | 2023-11-28 | 532,156 | 503 |
 | 2023-11-29 | 532,202 | 503 |
-| 2023-11-30 | 532,246 | 503 |
+| 2023-11-30 | 532,247 | 503 |
 ## Awards
 Max (Relaxing): 20  (Ranked 550)  
 Sum: 20 (Ranked 551)  

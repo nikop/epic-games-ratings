@@ -6,10 +6,10 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~84,175 |
-| Alt+F4 | 9.00% | ~21,645 |
-| Where's that freaking Dwarf? | 8.00% | ~19,240 |
-| Déjà vu | 7.00% | ~16,835 |
+| Sowwy! | 35.00% | ~84,178 |
+| Alt+F4 | 9.00% | ~21,646 |
+| Where's that freaking Dwarf? | 8.00% | ~19,241 |
+| Déjà vu | 7.00% | ~16,836 |
 | Sock! SOCK! | 5.00% | ~12,025 |
 | Speedrun | 5.00% | ~12,025 |
 | A beer, two curses, three companions | 4.00% | ~9,620 |
@@ -44,18 +44,18 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 1.00% | ~2,405 |
 | Lust and Debauchery | 1.00% | ~2,405 |
 | Material Girl | 1.00% | ~2,405 |
-| In Navalu's footsteps | 0.90% | ~2,164 |
+| In Navalu's footsteps | 0.90% | ~2,165 |
 | Lëgal Legend | 0.80% | ~1,924 |
-| We come in peace | 0.70% | ~1,683 |
+| We come in peace | 0.70% | ~1,684 |
 | Holistic Adventuring Party | 0.60% | ~1,443 |
 | An old poacher makes the best gamekeeper | 0.60% | ~1,443 |
 | Law and Order | 0.60% | ~1,443 |
-| Scholar of the Lands of Fangh | 0.50% | ~1,202 |
+| Scholar of the Lands of Fangh | 0.50% | ~1,203 |
 | Friendly fire | 0.40% | ~962 |
 | I'd rather... Just... Sing! | 0.40% | ~962 |
 | It's been a hard day's night | 0.40% | ~962 |
-| The number of the counting shalt be 7 | 0.30% | ~721 |
-| Inception | 0.30% | ~721 |
+| The number of the counting shalt be 7 | 0.30% | ~722 |
+| Inception | 0.30% | ~722 |
 | Cursed die | 0.20% | ~481 |
 | The Blood Countess | 0.20% | ~481 |
 | Free customer service | 0.20% | ~481 |
@@ -67,35 +67,35 @@ Number of Ratings: 118  (23.09.2022)
 | Death is for wimps | 0.20% | ~481 |
 | Super-Ultra-Lydian | 0.20% | ~481 |
 | Demisemiquaver | 0.20% | ~481 |
-| Necrophilia | 0.10% | ~240 |
-| He’s alive! Aliiiive! | 0.10% | ~240 |
-| Restless night | 0.10% | ~240 |
-| King of the Arena | 0.10% | ~240 |
-| Finally free | 0.10% | ~240 |
-| Hoarding | 0.10% | ~240 |
-| Staff cut | 0.10% | ~240 |
-| Legendary brew | 0.10% | ~240 |
-| Elite Adventurers | 0.10% | ~240 |
-| Take your time back in time | 0.10% | ~240 |
-| Egghead | 0.10% | ~240 |
-| A broken clock… | 0.10% | ~240 |
-| Sleep schedule mastery | 0.10% | ~240 |
-| Cute Dungeon | 0.10% | ~240 |
-| Mystical Dungeon | 0.10% | ~240 |
-| Gloomy Dungeon | 0.10% | ~240 |
-| Power struggle | 0.10% | ~240 |
-| Hit snooze | 0.10% | ~240 |
-| Living legends of the Lands of Fangh | 0.10% | ~240 |
-| Minmaxer | 0.10% | ~240 |
-| Iron Golems Tamer | 0.10% | ~240 |
-| And they lived happily ever after... | 0.10% | ~240 |
-| Star-crossed lovers | 0.10% | ~240 |
-| Pyrrhic victory | 0.10% | ~240 |
-| Lord of the Drunks | 0.10% | ~240 |
-| Dumb and dumber | 0.10% | ~240 |
-| Dwarf Candy | 0.10% | ~240 |
+| Necrophilia | 0.10% | ~241 |
+| He’s alive! Aliiiive! | 0.10% | ~241 |
+| Restless night | 0.10% | ~241 |
+| King of the Arena | 0.10% | ~241 |
+| Finally free | 0.10% | ~241 |
+| Hoarding | 0.10% | ~241 |
+| Staff cut | 0.10% | ~241 |
+| Legendary brew | 0.10% | ~241 |
+| Elite Adventurers | 0.10% | ~241 |
+| Take your time back in time | 0.10% | ~241 |
+| Egghead | 0.10% | ~241 |
+| A broken clock… | 0.10% | ~241 |
+| Sleep schedule mastery | 0.10% | ~241 |
+| Cute Dungeon | 0.10% | ~241 |
+| Mystical Dungeon | 0.10% | ~241 |
+| Gloomy Dungeon | 0.10% | ~241 |
+| Power struggle | 0.10% | ~241 |
+| Hit snooze | 0.10% | ~241 |
+| Living legends of the Lands of Fangh | 0.10% | ~241 |
+| Minmaxer | 0.10% | ~241 |
+| Iron Golems Tamer | 0.10% | ~241 |
+| And they lived happily ever after... | 0.10% | ~241 |
+| Star-crossed lovers | 0.10% | ~241 |
+| Pyrrhic victory | 0.10% | ~241 |
+| Lord of the Drunks | 0.10% | ~241 |
+| Dumb and dumber | 0.10% | ~241 |
+| Dwarf Candy | 0.10% | ~241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,499 (Ranked 62)  
+Progressed: 240,509 (Ranked 62)  
 Completed: 7 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 7 (0.00%) (Ranked 363)
 | 2023-11-27 | 240,063 | 7 |
 | 2023-11-28 | 240,228 | 7 |
 | 2023-11-29 | 240,383 | 7 |
-| 2023-11-30 | 240,499 | 7 |
+| 2023-11-30 | 240,509 | 7 |
 ## Awards
 Max (Character Customization): 240  (Ranked 272)  
 Sum: 485 (Ranked 329)  

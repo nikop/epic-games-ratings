@@ -1,40 +1,41 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.51 (Ranked 573)  
+Rating: 4.51 (Ranked 572)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.40% | ~4,224 |
-| Skillful | 0.40% | ~4,224 |
-| Zealous | 0.30% | ~3,168 |
-| Not half bad | 0.30% | ~3,168 |
-| Apt Survivor | 0.30% | ~3,168 |
-| I | 0.30% | ~3,168 |
-| Make Some Noise | 0.30% | ~3,168 |
-| The Grand Sacrifice | 0.20% | ~2,112 |
-| Agonizing Escape | 0.20% | ~2,112 |
-| Backdoor Escape | 0.20% | ~2,112 |
-| I've got your back | 0.20% | ~2,112 |
-| No one left behind | 0.20% | ~2,112 |
-| Medic | 0.20% | ~2,112 |
-| Handyman | 0.20% | ~2,112 |
-| Perfect Escape | 0.20% | ~2,112 |
-| Perfect Killing | 0.20% | ~2,112 |
-| Bloody Millionaire | 0.20% | ~2,112 |
-| Apt Killer | 0.20% | ~2,112 |
-| Risk it all | 0.20% | ~2,112 |
-| Survival Treasures | 0.20% | ~2,112 |
-| II | 0.20% | ~2,112 |
-| III | 0.20% | ~2,112 |
-| Sorted | 0.20% | ~2,112 |
-| Wounded Healer | 0.20% | ~2,112 |
-| Healthy Obsession | 0.20% | ~2,112 |
-| Resurgence | 0.20% | ~2,112 |
-| Close Shave | 0.20% | ~2,112 |
-| Preemptive Strike | 0.20% | ~2,112 |
-| Humanitarian | 0.20% | ~2,112 |
+| It wakes | 0.40% | ~4,225 |
+| Skillful | 0.40% | ~4,225 |
+| Zealous | 0.30% | ~3,169 |
+| Not half bad | 0.30% | ~3,169 |
+| Apt Survivor | 0.30% | ~3,169 |
+| Survival Treasures | 0.30% | ~3,169 |
+| I | 0.30% | ~3,169 |
+| Make Some Noise | 0.30% | ~3,169 |
+| The Grand Sacrifice | 0.20% | ~2,113 |
+| Agonizing Escape | 0.20% | ~2,113 |
+| Backdoor Escape | 0.20% | ~2,113 |
+| I've got your back | 0.20% | ~2,113 |
+| No one left behind | 0.20% | ~2,113 |
+| Medic | 0.20% | ~2,113 |
+| Handyman | 0.20% | ~2,113 |
+| Perfect Escape | 0.20% | ~2,113 |
+| Perfect Killing | 0.20% | ~2,113 |
+| Bloody Millionaire | 0.20% | ~2,113 |
+| Apt Killer | 0.20% | ~2,113 |
+| Risk it all | 0.20% | ~2,113 |
+| II | 0.20% | ~2,113 |
+| III | 0.20% | ~2,113 |
+| Engineer | 0.20% | ~2,113 |
+| Sorted | 0.20% | ~2,113 |
+| Wounded Healer | 0.20% | ~2,113 |
+| Healthy Obsession | 0.20% | ~2,113 |
+| Resurgence | 0.20% | ~2,113 |
+| Close Shave | 0.20% | ~2,113 |
+| Preemptive Strike | 0.20% | ~2,113 |
+| Humanitarian | 0.20% | ~2,113 |
 | A bite for the Entity | 0.10% | ~1,056 |
 | A feast for the Entity | 0.10% | ~1,056 |
 | Blood on your hands | 0.10% | ~1,056 |
@@ -72,7 +73,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Shocking Treatment | 0.10% | ~1,056 |
 | Mad House | 0.10% | ~1,056 |
 | Adept Doctor | 0.10% | ~1,056 |
-| Engineer | 0.10% | ~1,056 |
 | Leapfrog | 0.10% | ~1,056 |
 | Adept Min | 0.10% | ~1,056 |
 | The man behind the bush | 0.10% | ~1,056 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,056 |
 | Adept Good Guy | 0.10% | ~1,056 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,056,122 (Ranked 14)  
+Progressed: 1,056,291 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -463,15 +463,15 @@ Completed: 61 (0.01%) (Ranked 343)
 | 2023-11-27 | 1,048,888 | 61 |
 | 2023-11-28 | 1,050,827 | 61 |
 | 2023-11-29 | 1,053,910 | 61 |
-| 2023-11-30 | 1,056,122 | 61 |
+| 2023-11-30 | 1,056,291 | 61 |
 ## Awards
 Max (Diverse Characters): 36,896  (Ranked 15)  
-Sum: 280,864 (Ranked 12)  
+Sum: 280,909 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 36,896 |
-| This game is Highly Recommended | 32,106 |
+| This game is Highly Recommended | 32,151 |
 | This game has Amazing Characters | 31,639 |
 | This game has Competitive Players | 31,523 |
 | This game is Extremely Fun | 31,183 |
@@ -794,4 +794,4 @@ Diff (max vs sum): 3
 | 2023-11-27 | 4.51 | - | 36,673 | 279,577 |
 | 2023-11-28 | 4.51 | - | 36,768 | 280,046 |
 | 2023-11-29 | 4.51 | - | 36,896 | 280,728 |
-| 2023-11-30 | 4.51 | - | 36,896 | 280,864 |
+| 2023-11-30 | 4.51 | - | 36,896 | 280,909 |

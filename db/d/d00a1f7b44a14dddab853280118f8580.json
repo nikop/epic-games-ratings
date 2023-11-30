@@ -4,7 +4,7 @@
   "ProductSlug": "100-doors-escape-from-prison-1e0ba3",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 362,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 17.96,
   "EosHistory": [
@@ -1447,9 +1447,9 @@
       "ID": "ach_complete_30",
       "SetID": "5e260i9",
       "Name": "Brilliant mind!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 200,
-      "UsersEstimate": 174
+      "UsersEstimate": 177
     },
     {
       "ID": "ach_complete_tutorial",
@@ -1534,8 +1534,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-11-30T20:08:54.4490748+00:00",
+  "LastChanged_Achievements": "2023-11-30T21:09:05.6932521+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.3167471+00:00",
-  "LastUpdate_Ratings": "2023-11-30T20:02:53.8488824+00:00",
-  "LastUpdate_Achievements": "2023-11-30T20:08:54.4491235+00:00"
+  "LastUpdate_Ratings": "2023-11-30T21:02:54.2040097+00:00",
+  "LastUpdate_Achievements": "2023-11-30T21:09:05.693268+00:00"
 }

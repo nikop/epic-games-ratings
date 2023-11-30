@@ -11,8 +11,8 @@ Number of Ratings: 546  (23.09.2022)
 | Focus! | 63.00% | ~5,272 |
 | Rescued Elder Ent | 63.00% | ~5,272 |
 | The End of the Gold Mane Knights | 49.00% | ~4,100 |
+| False Goddess, Disappear | 42.00% | ~3,515 |
 | Rules of Etiquette | 42.00% | ~3,515 |
-| False Goddess, Disappear | 41.00% | ~3,431 |
 | Quick Movements | 35.00% | ~2,929 |
 | Inventory Management | 35.00% | ~2,929 |
 | The Fall of the Leonia Order | 32.00% | ~2,678 |

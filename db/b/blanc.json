@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3086,
+  "EOS_Progressed": 3089,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -4616,6 +4616,11 @@
       "Time": "2023-11-30T20:03:55.4092225+00:00",
       "NumProgressed": 3086,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-30T21:04:11.3309808+00:00",
+      "NumProgressed": 3089,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -4635,7 +4640,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "FALLEN_TREE",
@@ -4651,7 +4656,7 @@
       "Name": "Helping the little ones",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "MOVE_ON",
@@ -4723,14 +4728,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3086,
+      "Progressed": 3089,
       "Completed": 6
     }
   ],
@@ -4738,8 +4743,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-11-30T20:03:55.409222+00:00",
+  "LastChanged_Achievements": "2023-11-30T21:04:11.3309803+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:11.4172753+00:00",
-  "LastUpdate_Ratings": "2023-11-30T20:01:23.996569+00:00",
-  "LastUpdate_Achievements": "2023-11-30T20:03:55.4092563+00:00"
+  "LastUpdate_Ratings": "2023-11-30T21:01:51.2654543+00:00",
+  "LastUpdate_Achievements": "2023-11-30T21:04:11.3310105+00:00"
 }

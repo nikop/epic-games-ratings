@@ -188,6 +188,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Seriously?! | 0.10% | ~466 |
 | Shahanshah | 0.10% | ~466 |
 | Shemot is Not | 0.10% | ~466 |
+| Sikh Pun | 0.10% | ~466 |
 | Sinaasappel! | 0.10% | ~466 |
 | The Six Nations | 0.10% | ~466 |
 | Sleepless in Seattle | 0.10% | ~466 |
@@ -333,7 +334,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Sailor Mon | 0.00% | ~0 |
 | Saladins Legacy | 0.00% | ~0 |
 | Foremost Servitor of Jagannath | 0.00% | ~0 |
-| Sikh Pun | 0.00% | ~0 |
 | Spaghetti Western | 0.00% | ~0 |
 | Stardust Crusaders | 0.00% | ~0 |
 | Stern des Südens | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 466,438 (Ranked 41)  
+Progressed: 466,483 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -594,7 +594,7 @@ Completed: 1 (0.00%) (Ranked 363)
 | 2023-11-27 | 465,000 | 1 |
 | 2023-11-28 | 465,485 | 1 |
 | 2023-11-29 | 465,985 | 1 |
-| 2023-11-30 | 466,438 | 1 |
+| 2023-11-30 | 466,483 | 1 |
 ## Awards
 Max (Educational): 7,217  (Ranked 54)  
 Sum: 59,362 (Ranked 24)  

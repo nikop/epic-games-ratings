@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wanderer | 79.00% | ~75 |
-| Something important | 76.00% | ~72 |
-| A piece of the story | 58.00% | ~55 |
+| Wanderer | 78.00% | ~75 |
+| Something important | 76.00% | ~73 |
+| A piece of the story | 57.00% | ~55 |
 | It's covered up for a reason | 44.00% | ~42 |
 | Do what you have to | 43.00% | ~41 |
 | Scraps of love | 43.00% | ~41 |
 | The artist’s impression | 43.00% | ~41 |
-| Refuse to look | 36.00% | ~34 |
-| Sign of weakness | 35.00% | ~33 |
+| Refuse to look | 35.00% | ~34 |
+| Sign of weakness | 34.00% | ~33 |
 | Finished it | 27.00% | ~26 |
 | Face your fears | 22.00% | ~21 |
 | Playtime | 13.00% | ~12 |
 | Tough conversation | 13.00% | ~12 |
 | Whispers long forgotten | 13.00% | ~12 |
-| The tragedy unfolds | 12.00% | ~11 |
-| First steps | 11.00% | ~10 |
-| True Reflection | 11.00% | ~10 |
+| The tragedy unfolds | 11.00% | ~11 |
+| First steps | 10.00% | ~10 |
+| True Reflection | 10.00% | ~10 |
 | A new way | 9.00% | ~9 |
 | Breaking free | 9.00% | ~9 |
 | A Slice of Life | 9.00% | ~9 |
@@ -57,7 +57,7 @@
 | Once Upon a Time | 0.00% | ~0 |
 | Rocket Science | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95 (Ranked 444)  
+Progressed: 96 (Ranked 444)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,4 +99,4 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-27 | 89 | 0 |
 | 2023-11-28 | 92 | 0 |
 | 2023-11-29 | 94 | 0 |
-| 2023-11-30 | 95 | 0 |
+| 2023-11-30 | 96 | 0 |

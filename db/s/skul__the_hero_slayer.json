@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -5741,9 +5741,9 @@
       "ID": "FakeGoddessGone",
       "SetID": "97dk767",
       "Name": "False Goddess, Disappear",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 3431
+      "UsersEstimate": 3515
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -5893,8 +5893,8 @@
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-11-30T17:59:28.8313715+00:00",
-  "LastChanged_Achievements": "2023-11-30T20:06:29.5946868+00:00",
+  "LastChanged_Achievements": "2023-11-30T21:06:52.8872756+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.1005476+00:00",
-  "LastUpdate_Ratings": "2023-11-30T20:00:11.3672841+00:00",
-  "LastUpdate_Achievements": "2023-11-30T20:06:29.5947249+00:00"
+  "LastUpdate_Ratings": "2023-11-30T21:00:32.3582798+00:00",
+  "LastUpdate_Achievements": "2023-11-30T21:06:52.8873099+00:00"
 }

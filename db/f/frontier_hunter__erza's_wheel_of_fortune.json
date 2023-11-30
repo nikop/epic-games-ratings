@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 459,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1594,9 +1594,9 @@
       "ID": "ACHIEVEMENT_3",
       "SetID": "7pimpda",
       "Name": "Kuku Bird Hunter",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 285
+      "UsersEstimate": 289
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1795,8 +1795,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-30T20:07:00.5665026+00:00",
+  "LastChanged_Achievements": "2023-11-30T21:07:25.8852978+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-11-30T20:00:12.4735889+00:00",
-  "LastUpdate_Achievements": "2023-11-30T20:07:00.5665459+00:00"
+  "LastUpdate_Ratings": "2023-11-30T21:00:33.6066123+00:00",
+  "LastUpdate_Achievements": "2023-11-30T21:07:25.8853386+00:00"
 }

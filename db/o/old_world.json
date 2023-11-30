@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2058,9 +2058,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15561,
+  "EOS_Progressed": 15563,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16838,6 +16838,11 @@
       "Time": "2023-11-30T20:07:42.7069882+00:00",
       "NumProgressed": 15561,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-30T21:08:10.5460632+00:00",
+      "NumProgressed": 15563,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -17177,7 +17182,7 @@
       "Name": "Able",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
@@ -17201,7 +17206,7 @@
       "Name": "Architect",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -17305,7 +17310,7 @@
       "Name": "Good",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
@@ -17353,7 +17358,7 @@
       "Name": "Just",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_KEYSTONE",
@@ -17369,7 +17374,7 @@
       "Name": "Learned",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LIBERATOR",
@@ -17401,7 +17406,7 @@
       "Name": "Mason",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
@@ -17417,7 +17422,7 @@
       "Name": "Noble",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_OLD",
@@ -17441,7 +17446,7 @@
       "Name": "Pioneer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_READY",
@@ -17481,7 +17486,7 @@
       "Name": "Strong",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
@@ -17633,7 +17638,7 @@
       "Name": "Noble Difficulty",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_STRONG",
@@ -18217,7 +18222,7 @@
       "Name": "Hanging Gardens",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
@@ -18241,7 +18246,7 @@
       "Name": "Cao\u0027an",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM",
@@ -18249,7 +18254,7 @@
       "Name": "Adur Burzen-Mihr",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ISHTAR_GATE",
@@ -18297,7 +18302,7 @@
       "Name": "Oracle",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
@@ -18633,7 +18638,7 @@
       "Name": "Judaism",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_MANICHAEISM",
@@ -18769,7 +18774,7 @@
       "Name": "Naming Landmarks",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
@@ -18881,7 +18886,7 @@
       "Name": "Trade Caravan",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CATAPHRACT_ARCHER",
@@ -18961,7 +18966,7 @@
       "Name": "All Nations",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_AMBITION",
@@ -19249,7 +19254,7 @@
       "Name": "Kmt Unified",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_EGYPT1_PHARAOH_MAJOR_VICTORY",
@@ -19584,21 +19589,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15561,
+      "Progressed": 15563,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15561,
+      "Progressed": 15563,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-29T17:58:00.0362268+00:00",
-  "LastChanged_Achievements": "2023-11-30T20:07:42.7069876+00:00",
+  "LastChanged_Achievements": "2023-11-30T21:08:10.5460626+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.3516564+00:00",
-  "LastUpdate_Ratings": "2023-11-30T19:58:59.6501106+00:00",
-  "LastUpdate_Achievements": "2023-11-30T20:07:42.7078928+00:00"
+  "LastUpdate_Ratings": "2023-11-30T20:59:13.1284693+00:00",
+  "LastUpdate_Achievements": "2023-11-30T21:08:10.5469267+00:00"
 }

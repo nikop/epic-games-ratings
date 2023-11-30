@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2179,
+  "EOS_Progressed": 2180,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3682,6 +3682,11 @@
       "Time": "2023-11-30T18:05:24.7545331+00:00",
       "NumProgressed": 2179,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-30T21:06:32.9848242+00:00",
+      "NumProgressed": 2180,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 30,
@@ -3693,7 +3698,7 @@
       "Name": "Become King",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1612
+      "UsersEstimate": 1613
     },
     {
       "ID": "Collect20Gold",
@@ -3701,7 +3706,7 @@
       "Name": "Collect Gold",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "Collect20Iron",
@@ -3725,7 +3730,7 @@
       "Name": "Return the Statues",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "CollectAllWeaponsAndGear",
@@ -3765,7 +3770,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "CompleteGuardFaction",
@@ -3773,7 +3778,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "CompleteHunterFaction",
@@ -3821,7 +3826,7 @@
       "Name": "Defeat Rattus Augustail",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "FixTheTravellersWagon",
@@ -3837,7 +3842,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "GetTHWeapon",
@@ -3845,7 +3850,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "Kill25Bugs",
@@ -3869,7 +3874,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "MeetTheMoles",
@@ -3877,7 +3882,7 @@
       "Name": "Meet the Creatures from the Deep",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "MysteryKingsChamber",
@@ -3901,7 +3906,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "RepairThroneRoom",
@@ -3925,29 +3930,29 @@
       "Name": "Return Power To The Depths",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2179,
+      "Progressed": 2180,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 820,
-      "Completed": 820
+      "Progressed": 821,
+      "Completed": 821
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-11-30T20:06:10.3746265+00:00",
+  "LastChanged_Achievements": "2023-11-30T21:06:32.9848236+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:11.7059189+00:00",
-  "LastUpdate_Ratings": "2023-11-30T19:58:34.8899337+00:00",
-  "LastUpdate_Achievements": "2023-11-30T20:06:10.374663+00:00"
+  "LastUpdate_Ratings": "2023-11-30T20:58:46.0016754+00:00",
+  "LastUpdate_Achievements": "2023-11-30T21:06:32.9848612+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "50bbaf85f4454b1c88786efeede5b302",
   "Name": "Goat Simulator 3",
   "ProductSlug": "goat-simulator-3",
-  "Ranking_Rating": 51,
+  "Ranking_Rating": 50,
   "Ranking_Popularity": 216,
   "Ranking_PopularitySum": 157,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -5467,9 +5467,9 @@
       "Count": 342
     }
   ],
-  "EOS_Progressed": 252574,
+  "EOS_Progressed": 252575,
   "EOS_Completed": 893,
-  "EOS_NewPlayers": 887,
+  "EOS_NewPlayers": 883,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -29877,6 +29877,11 @@
       "Time": "2023-11-30T20:10:11.7096045+00:00",
       "NumProgressed": 252574,
       "NumCompleted": 893
+    },
+    {
+      "Time": "2023-11-30T21:10:27.7169885+00:00",
+      "NumProgressed": 252575,
+      "NumCompleted": 893
     }
   ],
   "TotalAchievements": 39,
@@ -29896,7 +29901,7 @@
       "Name": "Cannibanana",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5051
+      "UsersEstimate": 5052
     },
     {
       "ID": "AchievementBatGoatID",
@@ -29944,7 +29949,7 @@
       "Name": "Raider of the Lost Parking Garage",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 65669
+      "UsersEstimate": 65670
     },
     {
       "ID": "AchievementCastleRenovationID",
@@ -29952,7 +29957,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 229842
+      "UsersEstimate": 229843
     },
     {
       "ID": "AchievementClownID",
@@ -29984,7 +29989,7 @@
       "Name": "Egg Simulator",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 45463
+      "UsersEstimate": 45464
     },
     {
       "ID": "AchievementFrenchFikaID",
@@ -30000,7 +30005,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 83349
+      "UsersEstimate": 83350
     },
     {
       "ID": "AchievementGoatID",
@@ -30016,7 +30021,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 133864
+      "UsersEstimate": 133865
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -30048,7 +30053,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 113658
+      "UsersEstimate": 113659
     },
     {
       "ID": "AchievementIntroID",
@@ -30056,7 +30061,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 143967
+      "UsersEstimate": 143968
     },
     {
       "ID": "AchievementLootBoxID",
@@ -30096,7 +30101,7 @@
       "Name": "Daredevil",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 5051
+      "UsersEstimate": 5052
     },
     {
       "ID": "AchievementRedactedID",
@@ -30120,7 +30125,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 186905
+      "UsersEstimate": 186906
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -30184,7 +30189,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 164173
+      "UsersEstimate": 164174
     },
     {
       "ID": "AchievementWhaleID",
@@ -30199,7 +30204,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 252574,
+      "Progressed": 252575,
       "Completed": 893
     }
   ],
@@ -30207,8 +30212,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-11-30T17:59:28.0060829+00:00",
-  "LastChanged_Achievements": "2023-11-30T20:10:11.7096041+00:00",
+  "LastChanged_Achievements": "2023-11-30T21:10:27.7169882+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:49.2082143+00:00",
-  "LastUpdate_Ratings": "2023-11-30T20:00:10.3075869+00:00",
-  "LastUpdate_Achievements": "2023-11-30T20:10:11.7097448+00:00"
+  "LastUpdate_Ratings": "2023-11-30T21:00:31.1902499+00:00",
+  "LastUpdate_Achievements": "2023-11-30T21:10:27.7171614+00:00"
 }

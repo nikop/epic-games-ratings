@@ -1,7 +1,7 @@
 # Eiyuden Chronicle: Rising
 [Store](https://store.epicgames.com/en-US/p/eiyuden-chronicle-rising)  
 [View Rawdata](../../db/e/eiyuden_chronicle__rising.json)  
-Rating: 4.51 (Ranked 573)  
+Rating: 4.51 (Ranked 572)  
 Number of Ratings: 48  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -20,7 +20,7 @@ Number of Ratings: 48  (23.09.2022)
 | Rune Wall Wreckage | 49.00% | ~344 |
 | ...And Your Tax Money | 47.00% | ~330 |
 | The Lords of the Snowpeak | 41.00% | ~288 |
-| The Go-To Girl | 37.00% | ~260 |
+| The Go-To Girl | 38.00% | ~267 |
 | Scavenger's Honor | 37.00% | ~260 |
 | Natural Born Monster-Killer | 37.00% | ~260 |
 | The Great Forest...On Foot! | 37.00% | ~260 |

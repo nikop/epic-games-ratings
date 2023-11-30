@@ -11197,10 +11197,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 49515,
       "NumberOfAwardsMax": 24781
+    },
+    {
+      "Time": "2023-11-30T20:57:31.0042022+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 49519,
+      "NumberOfAwardsMax": 24781
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49515,
+  "NumberOfAwards": 49519,
   "NumberOfAwardsMax": 24781,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11262,7 +11268,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1313
+      "Count": 1317
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -11277,9 +11283,9 @@
       "Count": 825
     }
   ],
-  "EOS_Progressed": 303651,
+  "EOS_Progressed": 303655,
   "EOS_Completed": 519,
-  "EOS_NewPlayers": 833,
+  "EOS_NewPlayers": 831,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -35447,6 +35453,11 @@
       "Time": "2023-11-30T20:10:12.2978514+00:00",
       "NumProgressed": 303651,
       "NumCompleted": 519
+    },
+    {
+      "Time": "2023-11-30T21:10:28.2882257+00:00",
+      "NumProgressed": 303655,
+      "NumCompleted": 519
     }
   ],
   "TotalAchievements": 45,
@@ -35458,7 +35469,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48584
+      "UsersEstimate": 48585
     },
     {
       "ID": "PFA_10",
@@ -35514,7 +35525,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36438
+      "UsersEstimate": 36439
     },
     {
       "ID": "PFA_17",
@@ -35586,7 +35597,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36438
+      "UsersEstimate": 36439
     },
     {
       "ID": "PFA_25",
@@ -35642,7 +35653,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36438
+      "UsersEstimate": 36439
     },
     {
       "ID": "PFA_31",
@@ -35682,7 +35693,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30365
+      "UsersEstimate": 30366
     },
     {
       "ID": "PFA_36",
@@ -35794,7 +35805,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42511
+      "UsersEstimate": 42512
     },
     {
       "ID": "PFA_8",
@@ -35810,23 +35821,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30365
+      "UsersEstimate": 30366
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303651,
+      "Progressed": 303655,
       "Completed": 519
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-30T19:57:27.1392297+00:00",
-  "LastChanged_Achievements": "2023-11-30T20:10:12.2978508+00:00",
+  "LastChanged": "2023-11-30T20:57:31.0042019+00:00",
+  "LastChanged_Achievements": "2023-11-30T21:10:28.2882249+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7292094+00:00",
-  "LastUpdate_Ratings": "2023-11-30T19:57:27.1392303+00:00",
-  "LastUpdate_Achievements": "2023-11-30T20:10:12.2979867+00:00"
+  "LastUpdate_Ratings": "2023-11-30T20:57:31.0042034+00:00",
+  "LastUpdate_Achievements": "2023-11-30T21:10:28.2883913+00:00"
 }

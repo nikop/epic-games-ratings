@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1585,10 +1585,10 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 160562,
-  "EOS_Completed": 25,
-  "EOS_NewPlayers": 856,
-  "EOS_NewCompleters": 24,
+  "EOS_Progressed": 160572,
+  "EOS_Completed": 30,
+  "EOS_NewPlayers": 860,
+  "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
     {
@@ -17475,6 +17475,11 @@
       "Time": "2023-11-30T20:04:08.9360802+00:00",
       "NumProgressed": 160562,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-11-30T21:04:25.3379271+00:00",
+      "NumProgressed": 160572,
+      "NumCompleted": 30
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -17829,9 +17834,9 @@
       "ID": "MISC_FINISHNG",
       "SetID": "72k7oh",
       "Name": "Touch of Otherwhere",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 160
     },
     {
       "ID": "MISC_OVERLOADITEM",
@@ -17854,21 +17859,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 160145,
+      "Progressed": 160155,
       "Completed": 1226
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 160562,
-      "Completed": 25
+      "Progressed": 160572,
+      "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-29T06:00:31.1535071+00:00",
-  "LastChanged_Achievements": "2023-11-30T20:04:08.9360796+00:00",
+  "LastChanged_Achievements": "2023-11-30T21:04:25.3379265+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.8251651+00:00",
-  "LastUpdate_Ratings": "2023-11-30T19:57:53.6891506+00:00",
-  "LastUpdate_Achievements": "2023-11-30T20:04:08.93617+00:00"
+  "LastUpdate_Ratings": "2023-11-30T20:58:00.8337248+00:00",
+  "LastUpdate_Achievements": "2023-11-30T21:04:25.3380488+00:00"
 }

@@ -2035,9 +2035,9 @@
       "ID": "ACHV_FULLYMODDED",
       "SetID": "cceobco",
       "Name": "Fully Modded",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 84
+      "UsersEstimate": 93
     },
     {
       "ID": "ACHV_HARDBOILED",
@@ -2083,9 +2083,9 @@
       "ID": "ACHV_NANONIC3",
       "SetID": "cceobco",
       "Name": "Nanonic III",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 76
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHV_OUTERCORE",
@@ -2202,8 +2202,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-11-30T20:09:14.7051737+00:00",
+  "LastChanged_Achievements": "2023-11-30T21:09:27.1668225+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:00.6784988+00:00",
-  "LastUpdate_Ratings": "2023-11-30T20:01:00.5937613+00:00",
-  "LastUpdate_Achievements": "2023-11-30T20:09:14.7052012+00:00"
+  "LastUpdate_Ratings": "2023-11-30T21:01:25.8842973+00:00",
+  "LastUpdate_Achievements": "2023-11-30T21:09:27.1668465+00:00"
 }

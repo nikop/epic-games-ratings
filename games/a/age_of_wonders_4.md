@@ -54,10 +54,10 @@ Rating: 4.61 (Ranked 387)
 | One for All, All for One | 0.40% | ~22 |
 | Duality | 0.40% | ~22 |
 | Betrayal Most Foul | 0.30% | ~17 |
+| Snap Out of It! | 0.20% | ~11 |
 | The Magic That Empowers Me! | 0.20% | ~11 |
 | Jack of All Tomes | 0.20% | ~11 |
 | A Very Special Ring | 0.20% | ~11 |
-| Snap Out of It! | 0.10% | ~6 |
 | I Want to Break Free | 0.10% | ~6 |
 | Against the Odds | 0.10% | ~6 |
 | Returning Circle | 0.10% | ~6 |
