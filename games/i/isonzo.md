@@ -19,7 +19,7 @@ Number of Ratings: 98  (23.09.2022)
 | Donatello | 19.00% | ~1,734 |
 | The Italian Job | 19.00% | ~1,734 |
 | Veni Vidi Vici | 19.00% | ~1,734 |
-| Insubordination | 18.00% | ~1,642 |
+| Insubordination | 18.00% | ~1,643 |
 | Ragazzi del '99 | 17.00% | ~1,551 |
 | Luigi Cadorna | 15.00% | ~1,369 |
 | The Lion of the Isonzo | 14.00% | ~1,278 |
@@ -29,7 +29,7 @@ Number of Ratings: 98  (23.09.2022)
 | Die Bosniaken Kommen! | 11.00% | ~1,004 |
 | Machiavelli | 11.00% | ~1,004 |
 | Thus With A Kiss | 11.00% | ~1,004 |
-| The Devil's Paintbrush | 10.00% | ~912 |
+| The Devil's Paintbrush | 10.00% | ~913 |
 | Dante's Inferno | 9.00% | ~821 |
 | I Have the High Ground | 9.00% | ~821 |
 | Millenial | 9.00% | ~821 |
@@ -41,18 +41,18 @@ Number of Ratings: 98  (23.09.2022)
 | Generalissimo | 4.00% | ~365 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~365 |
 | Seeing Red | 3.00% | ~274 |
-| Farewell to Arms | 2.00% | ~182 |
-| Ponte of No Return | 2.00% | ~182 |
-| Soča Drag | 2.00% | ~182 |
-| Saboteur | 2.00% | ~182 |
+| Farewell to Arms | 2.00% | ~183 |
+| Ponte of No Return | 2.00% | ~183 |
+| Soča Drag | 2.00% | ~183 |
+| Saboteur | 2.00% | ~183 |
 | Compagnia della Morte | 1.00% | ~91 |
 | Drop and Give Me 20 | 1.00% | ~91 |
 | Malpractice | 1.00% | ~91 |
 | Rome Wasn't Built In A Day | 1.00% | ~91 |
-| "Sacro Egoismo" | 0.40% | ~36 |
+| "Sacro Egoismo" | 0.40% | ~37 |
 | Can I Go Home Now? | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,125 (Ranked 169)  
+Progressed: 9,126 (Ranked 169)  
 Completed: 10 (0.11%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 10 (0.11%) (Ranked 282)
 | 2023-11-27 | 9,080 | 10 |
 | 2023-11-28 | 9,106 | 10 |
 | 2023-11-29 | 9,122 | 10 |
-| 2023-11-30 | 9,125 | 10 |
+| 2023-11-30 | 9,126 | 10 |
 ## Awards
 Max (Diverse Characters): 38  (Ranked 463)  
 Sum: 288 (Ranked 368)  

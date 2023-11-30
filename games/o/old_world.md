@@ -150,7 +150,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old World Order | 0.60% | ~93 |
 | Ten Crowns | 0.60% | ~93 |
 | No Undo | 0.60% | ~93 |
-| Ancient | 0.50% | ~78 |
 | Glorious Difficulty | 0.50% | ~78 |
 | Hatti | 0.50% | ~78 |
 | Persia | 0.50% | ~78 |
@@ -165,6 +164,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greater Kmt Unified | 0.50% | ~78 |
 | Bronze Victory (Carthage 1) | 0.40% | ~62 |
 | Silver Victory (Carthage 1) | 0.40% | ~62 |
+| Ancient | 0.40% | ~62 |
 | Magnificent Difficulty | 0.40% | ~62 |
 | The Eternal Treaty | 0.40% | ~62 |
 | Run, Pheidippides, Run! | 0.40% | ~62 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,555 (Ranked 152)  
+Progressed: 15,556 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -573,7 +573,7 @@ Completed: 5 (0.03%) (Ranked 326)
 | 2023-11-27 | 15,525 | 5 |
 | 2023-11-28 | 15,534 | 5 |
 | 2023-11-29 | 15,545 | 5 |
-| 2023-11-30 | 15,555 | 5 |
+| 2023-11-30 | 15,556 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,882 (Ranked 218)  

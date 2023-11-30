@@ -4,7 +4,7 @@
   "ProductSlug": "arons-adventure-1e76cd",
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
@@ -588,9 +588,9 @@
       "ID": "KING",
       "SetID": "40o4f14",
       "Name": "King",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "LIBERATOR",
@@ -739,8 +739,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-30T13:11:38.201789+00:00",
+  "LastChanged_Achievements": "2023-11-30T14:06:57.4042241+00:00",
   "LastUpdate_AppInfo": "2023-11-30T01:44:08.4871505+00:00",
-  "LastUpdate_Ratings": "2023-11-30T13:05:17.4238772+00:00",
-  "LastUpdate_Achievements": "2023-11-30T13:11:38.2018138+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:59:51.6430587+00:00",
+  "LastUpdate_Achievements": "2023-11-30T14:06:57.4042503+00:00"
 }

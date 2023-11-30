@@ -12,7 +12,7 @@ Number of Ratings: 292  (23.09.2022)
 | Veteran | 10.00% | ~29 |
 | Dressed For Success | 9.00% | ~26 |
 | Sorcerous Spree | 6.00% | ~17 |
-| Humiliation | 5.00% | ~14 |
+| Humiliation | 5.00% | ~15 |
 | Whoops! | 4.00% | ~12 |
 | Veni, Vidi, Vici | 4.00% | ~12 |
 | Multi Kill | 3.00% | ~9 |
@@ -30,13 +30,13 @@ Number of Ratings: 292  (23.09.2022)
 | Death To Diplomacy | 0.70% | ~2 |
 | Versatile Wielder | 0.70% | ~2 |
 | Coming Through! | 0.70% | ~2 |
+| Barbecue | 0.70% | ~2 |
 | Don't Touch My Stuff | 0.70% | ~2 |
 | Ultra Kill | 0.70% | ~2 |
 | Grand Master | 0.70% | ~2 |
 | Hello There | 0.30% | ~1 |
 | Unlimited Power! | 0.30% | ~1 |
 | Fully Charged | 0.30% | ~1 |
-| Barbecue | 0.30% | ~1 |
 | In The Thick of It | 0.30% | ~1 |
 | Together For Her | 0.30% | ~1 |
 | An Empress's Hope | 0.30% | ~1 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290 (Ranked 360)  
+Progressed: 291 (Ranked 360)  
 Completed: 0 (0.00%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 0 (0.00%) (Ranked 362)
 | 2023-11-27 | 261 | 0 |
 | 2023-11-28 | 273 | 0 |
 | 2023-11-29 | 288 | 0 |
-| 2023-11-30 | 290 | 0 |
+| 2023-11-30 | 291 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 512)  
 Sum: 194 (Ranked 404)  

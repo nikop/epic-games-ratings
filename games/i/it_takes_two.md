@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Struck A Pose | 88.00% | ~22,002 |
-| Fried Friendship | 87.00% | ~21,752 |
-| Look At Him Go | 78.00% | ~19,502 |
-| On Rails Experience | 57.00% | ~14,251 |
-| A Daring Devil | 52.00% | ~13,001 |
-| It Took Two | 44.00% | ~11,001 |
-| Break the Bank | 43.00% | ~10,751 |
-| Bug Sized Relaxation | 22.00% | ~5,500 |
-| Plastic Prison Breakers | 17.00% | ~4,250 |
-| Terror Of The Seven Seas | 16.00% | ~4,000 |
-| Realize Your Art | 12.00% | ~3,000 |
-| Force Triangulated | 12.00% | ~3,000 |
-| Meditation Maestro | 12.00% | ~3,000 |
-| Lost And Found | 11.00% | ~2,750 |
-| Something Fishy | 11.00% | ~2,750 |
-| Platforming Prodigy | 9.00% | ~2,250 |
-| Snackosaurus | 8.00% | ~2,000 |
-| Mood Swing | 7.00% | ~1,750 |
-| Faraway Frequencies | 4.00% | ~1,000 |
-| Minigame Megalomania | 3.00% | ~750 |
+| Struck A Pose | 88.00% | ~22,021 |
+| Fried Friendship | 87.00% | ~21,771 |
+| Look At Him Go | 78.00% | ~19,519 |
+| On Rails Experience | 57.00% | ~14,264 |
+| A Daring Devil | 52.00% | ~13,012 |
+| It Took Two | 44.00% | ~11,011 |
+| Break the Bank | 43.00% | ~10,760 |
+| Bug Sized Relaxation | 22.00% | ~5,505 |
+| Plastic Prison Breakers | 17.00% | ~4,254 |
+| Terror Of The Seven Seas | 16.00% | ~4,004 |
+| Realize Your Art | 12.00% | ~3,003 |
+| Force Triangulated | 12.00% | ~3,003 |
+| Meditation Maestro | 12.00% | ~3,003 |
+| Lost And Found | 11.00% | ~2,753 |
+| Something Fishy | 11.00% | ~2,753 |
+| Platforming Prodigy | 9.00% | ~2,252 |
+| Snackosaurus | 8.00% | ~2,002 |
+| Mood Swing | 7.00% | ~1,752 |
+| Faraway Frequencies | 4.00% | ~1,001 |
+| Minigame Megalomania | 3.00% | ~751 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,002 (Ranked 128)  
+Progressed: 25,024 (Ranked 128)  
 Completed: 106 (0.42%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,4 +101,4 @@ Completed: 106 (0.42%) (Ranked 217)
 | 2023-11-27 | 24,529 | 105 |
 | 2023-11-28 | 24,716 | 105 |
 | 2023-11-29 | 24,901 | 106 |
-| 2023-11-30 | 25,002 | 106 |
+| 2023-11-30 | 25,024 | 106 |

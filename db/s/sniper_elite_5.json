@@ -6,7 +6,7 @@
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 197,
-  "Ranking_EOS_Completed": 243,
+  "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
@@ -8389,9 +8389,9 @@
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
       "SetID": "bm6el81",
       "Name": "Enemy at the Gates",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 515
+      "UsersEstimate": 554
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -8932,8 +8932,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-29T01:50:55.7506147+00:00",
-  "LastChanged_Achievements": "2023-11-30T13:09:29.5063467+00:00",
+  "LastChanged_Achievements": "2023-11-30T14:04:32.5284927+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:04.6853838+00:00",
-  "LastUpdate_Ratings": "2023-11-30T13:05:23.2056378+00:00",
-  "LastUpdate_Achievements": "2023-11-30T13:09:29.5064221+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:59:58.2649257+00:00",
+  "LastUpdate_Achievements": "2023-11-30T14:04:32.5286084+00:00"
 }

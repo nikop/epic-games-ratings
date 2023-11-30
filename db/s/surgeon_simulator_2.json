@@ -2,7 +2,7 @@
   "ID": "7f1fa336313d48eca0a802170aa8dd8a",
   "Name": "Surgeon Simulator 2",
   "ProductSlug": "surgeon-simulator-2",
-  "Ranking_Rating": 720,
+  "Ranking_Rating": 695,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 764,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.43,
   "NumberOfRatings": 22,
   "RatingHistory": [
     {
@@ -99,6 +99,12 @@
       "Rating": 4.42,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-30T13:59:26.4997642+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -117,8 +123,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:35.9477941+00:00",
   "FirstSeenRating": "2022-08-10T16:30:22.2242938+00:00",
-  "LastChanged": "2023-10-09T10:02:33.3383349+00:00",
+  "LastChanged": "2023-11-30T13:59:26.499764+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:03.6658585+00:00",
-  "LastUpdate_Ratings": "2023-11-30T13:04:56.9302494+00:00",
-  "LastUpdate_Achievements": "2023-11-30T13:14:38.803491+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:59:26.4997646+00:00",
+  "LastUpdate_Achievements": "2023-11-30T14:09:25.8048199+00:00"
 }

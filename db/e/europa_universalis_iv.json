@@ -12619,10 +12619,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 59315,
       "NumberOfAwardsMax": 7207
+    },
+    {
+      "Time": "2023-11-30T13:58:27.6509151+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 59325,
+      "NumberOfAwardsMax": 7207
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 59315,
+  "NumberOfAwards": 59325,
   "NumberOfAwardsMax": 7207,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -12648,7 +12654,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 6777
+      "Count": 6787
     },
     {
       "Text": "This game is Educational",
@@ -12693,9 +12699,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 466204,
+  "EOS_Progressed": 466235,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4482,
+  "EOS_NewPlayers": 4484,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38393,6 +38399,11 @@
       "Time": "2023-11-30T13:10:12.6852414+00:00",
       "NumProgressed": 466204,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T14:05:20.4105815+00:00",
+      "NumProgressed": 466235,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -38634,9 +38645,9 @@
       "ID": "achievement_assemble_instructions_needed",
       "SetID": "8p2n7he",
       "Name": "Assembly Instructions Needed",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 466
     },
     {
       "ID": "achievement_at_every_continent",
@@ -41307,21 +41318,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 466204,
+      "Progressed": 466235,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 466204,
+      "Progressed": 466235,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-30T11:57:59.1821124+00:00",
-  "LastChanged_Achievements": "2023-11-30T13:10:12.685241+00:00",
+  "LastChanged": "2023-11-30T13:58:27.6509149+00:00",
+  "LastChanged_Achievements": "2023-11-30T14:05:20.4105809+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:13.9553272+00:00",
-  "LastUpdate_Ratings": "2023-11-30T13:04:04.6520856+00:00",
-  "LastUpdate_Achievements": "2023-11-30T13:10:12.6862885+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:58:27.6509156+00:00",
+  "LastUpdate_Achievements": "2023-11-30T14:05:20.4118291+00:00"
 }

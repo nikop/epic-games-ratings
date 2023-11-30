@@ -3267,9 +3267,9 @@
       "ID": "_05_FinishAct2",
       "SetID": "8a1io5d",
       "Name": "The Gambit Has Begun",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 303
+      "UsersEstimate": 313
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -3452,8 +3452,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-29T18:57:59.7478521+00:00",
-  "LastChanged_Achievements": "2023-11-30T13:11:40.9885897+00:00",
+  "LastChanged_Achievements": "2023-11-30T14:07:00.6173567+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:16.5506412+00:00",
-  "LastUpdate_Ratings": "2023-11-30T13:04:21.8455539+00:00",
-  "LastUpdate_Achievements": "2023-11-30T13:11:40.9886244+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:58:47.760482+00:00",
+  "LastUpdate_Achievements": "2023-11-30T14:07:00.6173829+00:00"
 }

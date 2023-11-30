@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1482,
+  "EOS_Progressed": 1483,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
@@ -4429,6 +4429,11 @@
       "Time": "2023-11-30T13:15:18.2438164+00:00",
       "NumProgressed": 1482,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T14:10:10.6391211+00:00",
+      "NumProgressed": 1483,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4513,7 +4518,7 @@
       "Name": "The power of the Force",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "achievement_19",
@@ -4585,7 +4590,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "achievement_27",
@@ -4665,7 +4670,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 1334
+      "UsersEstimate": 1335
     },
     {
       "ID": "achievement_36",
@@ -4681,7 +4686,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 993
+      "UsersEstimate": 994
     },
     {
       "ID": "achievement_38",
@@ -4713,7 +4718,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "achievement_41",
@@ -4745,7 +4750,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "achievement_45",
@@ -4793,7 +4798,7 @@
       "Name": "Shoot first",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "achievement_50",
@@ -4944,13 +4949,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1482,
+      "Progressed": 1483,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1482,
+      "Progressed": 1483,
       "Completed": 1
     }
   ],
@@ -4958,8 +4963,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-30T13:15:18.2438161+00:00",
+  "LastChanged_Achievements": "2023-11-30T14:10:10.6391206+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:02.7370766+00:00",
-  "LastUpdate_Ratings": "2023-11-30T13:04:12.325708+00:00",
-  "LastUpdate_Achievements": "2023-11-30T13:15:18.2438735+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:58:35.8519892+00:00",
+  "LastUpdate_Achievements": "2023-11-30T14:10:10.6391999+00:00"
 }

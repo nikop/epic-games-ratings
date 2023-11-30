@@ -6,11 +6,11 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 0.30% | ~3,165 |
-| It wakes | 0.30% | ~3,165 |
-| Not half bad | 0.30% | ~3,165 |
-| Skillful | 0.30% | ~3,165 |
-| I | 0.30% | ~3,165 |
+| Zealous | 0.30% | ~3,166 |
+| It wakes | 0.30% | ~3,166 |
+| Not half bad | 0.30% | ~3,166 |
+| Skillful | 0.30% | ~3,166 |
+| I | 0.30% | ~3,166 |
 | The Grand Sacrifice | 0.20% | ~2,110 |
 | No one left behind | 0.20% | ~2,110 |
 | Medic | 0.20% | ~2,110 |
@@ -22,6 +22,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Sorted | 0.20% | ~2,110 |
 | Healthy Obsession | 0.20% | ~2,110 |
 | Resurgence | 0.20% | ~2,110 |
+| Close Shave | 0.20% | ~2,110 |
 | Preemptive Strike | 0.20% | ~2,110 |
 | Humanitarian | 0.20% | ~2,110 |
 | Make Some Noise | 0.20% | ~2,110 |
@@ -173,7 +174,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Multi-tasker | 0.10% | ~1,055 |
 | Adept Trickster | 0.10% | ~1,055 |
 | Insult and Injury | 0.10% | ~1,055 |
-| Close Shave | 0.10% | ~1,055 |
 | Adept Yun-Jin | 0.10% | ~1,055 |
 | Biological Weaponry | 0.10% | ~1,055 |
 | Adept Nemesis | 0.10% | ~1,055 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,055 |
 | Adept Good Guy | 0.10% | ~1,055 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,055,134 (Ranked 14)  
+Progressed: 1,055,233 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -463,7 +463,7 @@ Completed: 61 (0.01%) (Ranked 342)
 | 2023-11-27 | 1,048,888 | 61 |
 | 2023-11-28 | 1,050,827 | 61 |
 | 2023-11-29 | 1,053,910 | 61 |
-| 2023-11-30 | 1,055,134 | 61 |
+| 2023-11-30 | 1,055,233 | 61 |
 ## Awards
 Max (Diverse Characters): 36,896  (Ranked 15)  
 Sum: 280,788 (Ranked 12)  

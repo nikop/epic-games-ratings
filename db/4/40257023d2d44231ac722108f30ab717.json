@@ -2,9 +2,9 @@
   "ID": "40257023d2d44231ac722108f30ab717",
   "Name": "Orten Was The Case",
   "ProductSlug": "orten-was-the-case-d108fb",
-  "Ranking_EOS_Progress": 629,
-  "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 375,
+  "Ranking_EOS_Progress": 625,
+  "Ranking_EOS_Completed": 30,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-11-29T00:00:00+00:00",
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 7,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 16.67,
+  "EOS_Completed_Percentage": 14.29,
   "EosHistory": [
     {
       "Time": "2023-10-30T17:05:12.224578+00:00",
@@ -62,6 +62,11 @@
       "Time": "2023-11-30T13:14:32.4048696+00:00",
       "NumProgressed": 6,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T14:09:18.7735895+00:00",
+      "NumProgressed": 7,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-25T12:03:08.1004675+00:00",
@@ -72,7 +77,7 @@
       "ID": "ABOTHEABOMINATION",
       "SetID": "51l0gl8",
       "Name": "Abo The Abomination",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -80,7 +85,7 @@
       "ID": "BLOCKPARTY",
       "SetID": "51l0gl8",
       "Name": "Block Party",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -88,7 +93,7 @@
       "ID": "FISHSCALES",
       "SetID": "51l0gl8",
       "Name": "Fishscale",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -96,7 +101,7 @@
       "ID": "FLASHBACK",
       "SetID": "51l0gl8",
       "Name": "Flashback",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -104,7 +109,7 @@
       "ID": "GETRICHORDIETRYING",
       "SetID": "51l0gl8",
       "Name": "Get Rich Or Die Trying",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -112,7 +117,7 @@
       "ID": "HOOLABALOO",
       "SetID": "51l0gl8",
       "Name": "Hoolabaloo",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -120,7 +125,7 @@
       "ID": "HOOPDREAMS",
       "SetID": "51l0gl8",
       "Name": "Hoop Dreams",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -128,7 +133,7 @@
       "ID": "KINGOFTHELINE",
       "SetID": "51l0gl8",
       "Name": "King Of The Line",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -136,7 +141,7 @@
       "ID": "LORDOFTHEFLIES",
       "SetID": "51l0gl8",
       "Name": "Lord Of The Flies",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -144,7 +149,7 @@
       "ID": "MONSTERSLAYER",
       "SetID": "51l0gl8",
       "Name": "Monster Slayer",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -152,7 +157,7 @@
       "ID": "POSSESSED",
       "SetID": "51l0gl8",
       "Name": "Possessed",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -160,7 +165,7 @@
       "ID": "RIP",
       "SetID": "51l0gl8",
       "Name": "R.I.P",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -168,7 +173,7 @@
       "ID": "SPIDERSLAYER",
       "SetID": "51l0gl8",
       "Name": "Spider Slayer",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -176,15 +181,15 @@
       "ID": "THEEND",
       "SetID": "51l0gl8",
       "Name": "The End",
-      "Percentage": 33,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "THEPROPHECY",
       "SetID": "51l0gl8",
       "Name": "The Prophecy",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 150,
       "UsersEstimate": 1
     },
@@ -192,7 +197,7 @@
       "ID": "WINGMAN",
       "SetID": "51l0gl8",
       "Name": "Wingman",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 150,
       "UsersEstimate": 1
     }
@@ -201,13 +206,13 @@
     {
       "ID": "51l0gl8",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 7,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-10-25T12:03:08.1004674+00:00",
-  "LastChanged_Achievements": "2023-11-30T13:14:32.4048692+00:00",
+  "LastChanged_Achievements": "2023-11-30T14:09:18.773588+00:00",
   "LastUpdate_AppInfo": "2023-11-29T13:56:57.5675213+00:00",
-  "LastUpdate_Ratings": "2023-11-30T13:04:40.0179844+00:00",
-  "LastUpdate_Achievements": "2023-11-30T13:14:32.4048789+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:59:08.2677809+00:00",
+  "LastUpdate_Achievements": "2023-11-30T14:09:18.7736033+00:00"
 }

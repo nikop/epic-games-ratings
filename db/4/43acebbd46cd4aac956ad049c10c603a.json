@@ -165,7 +165,7 @@
   ],
   "EOS_Progressed": 786,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 303,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1803,9 +1803,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 47
     },
     {
       "ID": "BreakTheLoop",
@@ -1955,9 +1955,9 @@
       "ID": "LostMarshes",
       "SetID": "1n308hc",
       "Name": "Lost Marshes",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     },
     {
       "ID": "MistressOfRiddles",
@@ -2043,9 +2043,9 @@
       "ID": "PuzzleFiend",
       "SetID": "1n308hc",
       "Name": "Puzzle Fiend",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     },
     {
       "ID": "RemnantsOfThePast",
@@ -2244,8 +2244,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-29T18:59:07.9515154+00:00",
-  "LastChanged_Achievements": "2023-11-30T13:09:09.567902+00:00",
-  "LastUpdate_AppInfo": "2023-11-23T13:56:58.6295228+00:00",
-  "LastUpdate_Ratings": "2023-11-30T13:05:28.5410453+00:00",
-  "LastUpdate_Achievements": "2023-11-30T13:09:09.5679791+00:00"
+  "LastChanged_Achievements": "2023-11-30T14:04:09.7821064+00:00",
+  "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
+  "LastUpdate_Ratings": "2023-11-30T14:00:04.3380632+00:00",
+  "LastUpdate_Achievements": "2023-11-30T14:04:09.7821603+00:00"
 }

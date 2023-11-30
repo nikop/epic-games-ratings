@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 808,
+  "EOS_Progressed": 809,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 5.45,
+  "EOS_Completed_Percentage": 5.44,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3290,6 +3290,11 @@
       "Time": "2023-11-30T13:11:17.0437681+00:00",
       "NumProgressed": 808,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-11-30T14:06:33.2191202+00:00",
+      "NumProgressed": 809,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 25,
@@ -3309,7 +3314,7 @@
       "Name": "In this together",
       "Percentage": 18,
       "XP": 200,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "META_ALL_LINK",
@@ -3421,7 +3426,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -3437,15 +3442,15 @@
       "Name": "Champollion",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 299
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3469,7 +3474,7 @@
       "Name": "The great escape",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "PROGRESS_N3",
@@ -3500,14 +3505,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 808,
+      "Progressed": 809,
       "Completed": 44
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-30T13:11:17.0437676+00:00",
+  "LastChanged_Achievements": "2023-11-30T14:06:33.2191195+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-11-30T13:04:59.553002+00:00",
-  "LastUpdate_Achievements": "2023-11-30T13:11:17.0438011+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:59:29.5818415+00:00",
+  "LastUpdate_Achievements": "2023-11-30T14:06:33.2191566+00:00"
 }

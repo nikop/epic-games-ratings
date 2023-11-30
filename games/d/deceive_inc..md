@@ -6,8 +6,8 @@ Rating: 4.58 (Ranked 447)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On Deceive Inc.'s Secret Service | 30.00% | ~5,685 |
-| Mainframe Hacker | 23.00% | ~4,358 |
-| The Spy who eliminated me | 23.00% | ~4,358 |
+| Mainframe Hacker | 23.00% | ~4,359 |
+| The Spy who eliminated me | 23.00% | ~4,359 |
 | Tomorrow Never Dyes | 22.00% | ~4,169 |
 | From the Vault with Love | 18.00% | ~3,411 |
 | Never Say Loser Again | 18.00% | ~3,411 |
@@ -19,18 +19,18 @@ Rating: 4.58 (Ranked 447)
 | A view to Win | 13.00% | ~2,464 |
 | The Living Portrait | 12.00% | ~2,274 |
 | Smells Like Trouble | 12.00% | ~2,274 |
-| My Motto, My Creed | 11.00% | ~2,084 |
-| Private Collection | 11.00% | ~2,084 |
-| Killer Looks | 11.00% | ~2,084 |
-| Hostile Takeover | 11.00% | ~2,084 |
+| My Motto, My Creed | 11.00% | ~2,085 |
+| Private Collection | 11.00% | ~2,085 |
+| Killer Looks | 11.00% | ~2,085 |
+| Hostile Takeover | 11.00% | ~2,085 |
 | Keycards Royale | 10.00% | ~1,895 |
 | Dr. No Kill | 10.00% | ~1,895 |
 | In It to Win It | 9.00% | ~1,706 |
 | Security Supervisor | 6.00% | ~1,137 |
 | License to Thrill | 5.00% | ~948 |
 | Social of Solace | 4.00% | ~758 |
-| Live and let lie | 3.00% | ~568 |
-| Safe Withdrawal | 3.00% | ~568 |
+| Live and let lie | 3.00% | ~569 |
+| Safe Withdrawal | 3.00% | ~569 |
 | Branch Manager | 2.00% | ~379 |
 | Call Me Maybe | 2.00% | ~379 |
 | PHD in VIP | 2.00% | ~379 |
@@ -42,7 +42,7 @@ Rating: 4.58 (Ranked 447)
 | Extraction Confusion | 0.20% | ~38 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,950 (Ranked 144)  
+Progressed: 18,951 (Ranked 144)  
 Completed: 4 (0.02%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 4 (0.02%) (Ranked 333)
 | 2023-11-27 | 18,932 | 4 |
 | 2023-11-28 | 18,944 | 4 |
 | 2023-11-29 | 18,948 | 4 |
-| 2023-11-30 | 18,950 | 4 |
+| 2023-11-30 | 18,951 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

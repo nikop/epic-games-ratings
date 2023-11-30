@@ -31,8 +31,8 @@ Rating: 4.44 (Ranked 680)
 | Brains of the Operation | 15.00% | ~594 |
 | No Stone Unturned | 14.00% | ~554 |
 | Opposing Force | 14.00% | ~554 |
+| Enemy at the Gates | 14.00% | ~554 |
 | Fields of Glory | 14.00% | ~554 |
-| Enemy at the Gates | 13.00% | ~515 |
 | Set Europe Ablaze | 13.00% | ~515 |
 | Precision Is Key | 10.00% | ~396 |
 | My Little Friend | 10.00% | ~396 |
@@ -78,7 +78,7 @@ Rating: 4.44 (Ranked 680)
 | Going Overboard | 0.60% | ~23 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,958 (Ranked 197)  
-Completed: 11 (0.28%) (Ranked 243)  
+Completed: 11 (0.28%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

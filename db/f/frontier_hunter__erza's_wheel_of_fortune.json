@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 451,
+  "EOS_Progressed": 453,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 1,
@@ -1387,6 +1387,11 @@
       "Time": "2023-11-30T13:11:25.2771031+00:00",
       "NumProgressed": 451,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T14:06:42.6246551+00:00",
+      "NumProgressed": 453,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1396,9 +1401,9 @@
       "ID": "ACHIEVEMENT_1",
       "SetID": "7pimpda",
       "Name": "Travel Streamer",
-      "Percentage": 92,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 415
+      "UsersEstimate": 412
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1406,7 +1411,7 @@
       "Name": "Giant Lizard Killer",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -1486,7 +1491,7 @@
       "Name": "Training Simulation",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1510,7 +1515,7 @@
       "Name": "Beginner Cook",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -1524,9 +1529,9 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "7pimpda",
       "Name": "Arms Mechanic",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 208
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -1534,7 +1539,7 @@
       "Name": "Beginner Artificer",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -1558,7 +1563,7 @@
       "Name": "Trader",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -1566,7 +1571,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1582,7 +1587,7 @@
       "Name": "Weapon Boost",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -1654,7 +1659,7 @@
       "Name": "Storm Traveller",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -1716,9 +1721,9 @@
       "ID": "ACHIEVEMENT_5",
       "SetID": "7pimpda",
       "Name": "Wolf King Killer",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 226
+      "UsersEstimate": 231
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -1726,7 +1731,7 @@
       "Name": "Flower Thief",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -1734,7 +1739,7 @@
       "Name": "Apostle of Flame",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -1742,7 +1747,7 @@
       "Name": "Seal Breaker",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -1757,7 +1762,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 451,
+      "Progressed": 453,
       "Completed": 1
     }
   ],
@@ -1765,8 +1770,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-30T13:11:25.2771027+00:00",
+  "LastChanged_Achievements": "2023-11-30T14:06:42.6246542+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-11-30T13:05:18.3379393+00:00",
-  "LastUpdate_Achievements": "2023-11-30T13:11:25.2771335+00:00"
+  "LastUpdate_Ratings": "2023-11-30T13:59:52.6813756+00:00",
+  "LastUpdate_Achievements": "2023-11-30T14:06:42.6246976+00:00"
 }

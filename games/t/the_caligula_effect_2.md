@@ -24,7 +24,7 @@ Number of Ratings: 32  (23.09.2022)
 | One-Track Mind | 23.00% | ~55 |
 | Nice Doing Business | 23.00% | ~55 |
 | Stay Winning | 23.00% | ~55 |
-| WIRE Guru | 21.00% | ~51 |
+| WIRE Guru | 22.00% | ~53 |
 | The Greater Good | 20.00% | ~48 |
 | Depths of the Heart | 20.00% | ~48 |
 | Selfish Decisions | 19.00% | ~46 |

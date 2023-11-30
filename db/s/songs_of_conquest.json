@@ -438,7 +438,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 290,
+  "EOS_Progressed": 291,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
@@ -1308,6 +1308,11 @@
       "Time": "2023-11-30T12:04:48.222166+00:00",
       "NumProgressed": 290,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T14:05:26.5277574+00:00",
+      "NumProgressed": 291,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1470,9 +1475,9 @@
       "ID": "FlameAttackKillCount",
       "SetID": "71c0n9i",
       "Name": "Barbecue",
-      "Percentage": 0.3,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FrontlineFighterCount",
@@ -1680,7 +1685,7 @@
       "Name": "Humiliation",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -1751,15 +1756,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 290,
+      "Progressed": 291,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-30T13:10:18.3583415+00:00",
+  "LastChanged_Achievements": "2023-11-30T14:05:26.5277569+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:52.6052196+00:00",
-  "LastUpdate_Ratings": "2023-11-30T13:05:37.5558665+00:00",
-  "LastUpdate_Achievements": "2023-11-30T13:10:18.3583842+00:00"
+  "LastUpdate_Ratings": "2023-11-30T14:00:14.7042457+00:00",
+  "LastUpdate_Achievements": "2023-11-30T14:05:26.5278106+00:00"
 }

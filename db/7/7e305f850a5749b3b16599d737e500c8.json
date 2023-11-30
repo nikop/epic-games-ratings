@@ -3,7 +3,7 @@
   "Name": "Boxville",
   "ProductSlug": "boxville-2b75d3",
   "Ranking_EOS_Progress": 391,
-  "Ranking_EOS_Completed": 9,
+  "Ranking_EOS_Completed": 8,
   "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 12,
   "Store": {
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 194,
-  "EOS_Completed": 72,
+  "EOS_Completed": 73,
   "EOS_NewPlayers": 68,
-  "EOS_NewCompleters": 22,
-  "EOS_Completed_Percentage": 37.11,
+  "EOS_NewCompleters": 23,
+  "EOS_Completed_Percentage": 37.63,
   "EosHistory": [
     {
       "Time": "2023-05-08T15:02:14.2317541+00:00",
@@ -1119,6 +1119,11 @@
       "Time": "2023-11-30T11:04:00.5287646+00:00",
       "NumProgressed": 194,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-11-30T14:04:07.9263383+00:00",
+      "NumProgressed": 194,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 18,
@@ -1128,9 +1133,9 @@
       "ID": "Best_friends_forever",
       "SetID": "b7i210",
       "Name": "Best friends forever",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 150,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Dreamkeeper",
@@ -1274,13 +1279,13 @@
       "ID": "b7i210",
       "IsBase": true,
       "Progressed": 194,
-      "Completed": 72
+      "Completed": 73
     }
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-11-30T13:09:07.9239528+00:00",
+  "LastChanged_Achievements": "2023-11-30T14:04:07.9263375+00:00",
   "LastUpdate_AppInfo": "2023-11-28T06:57:03.7256389+00:00",
-  "LastUpdate_Ratings": "2023-11-30T13:05:34.0714562+00:00",
-  "LastUpdate_Achievements": "2023-11-30T13:09:07.9239694+00:00"
+  "LastUpdate_Ratings": "2023-11-30T14:00:10.7144689+00:00",
+  "LastUpdate_Achievements": "2023-11-30T14:04:07.9263581+00:00"
 }

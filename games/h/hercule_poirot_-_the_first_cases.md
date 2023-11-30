@@ -15,7 +15,7 @@ Rating: 4.35 (Ranked 791)
 | Major Felix Hagen | 55.00% | ~246 |
 | Fine-toothed Comb | 54.00% | ~241 |
 | Florette Duval | 54.00% | ~241 |
-| Order and Method | 52.00% | ~232 |
+| Order and Method | 53.00% | ~237 |
 | The Altercation | 50.00% | ~224 |
 | Truth from Within | 49.00% | ~219 |
 | The Major | 47.00% | ~210 |
@@ -38,9 +38,9 @@ Rating: 4.35 (Ranked 791)
 | The Family | 28.00% | ~125 |
 | Well-travelled | 27.00% | ~121 |
 | Thinking of Everything | 27.00% | ~121 |
+| Exquisite Artwork | 26.00% | ~116 |
 | Archibald Sterling | 26.00% | ~116 |
 | Viscount Edwin Van den Bosch | 26.00% | ~116 |
-| Exquisite Artwork | 25.00% | ~112 |
 | Well-prepared | 21.00% | ~94 |
 | The Truth | 21.00% | ~94 |
 | I Like an Audience | 19.00% | ~85 |

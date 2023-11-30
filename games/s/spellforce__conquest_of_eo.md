@@ -20,11 +20,11 @@
 | The Circle | 53.00% | ~19 |
 | Necromancer's Apprentice | 50.00% | ~18 |
 | Redecorating | 44.00% | ~16 |
-| Friend of Sevenkeeps | 31.00% | ~11 |
+| Friend of Sevenkeeps | 33.00% | ~12 |
 | Slave to the rhythm | 28.00% | ~10 |
+| Sevenkeeps Seat of Kings | 28.00% | ~10 |
 | Bad JuJu | 28.00% | ~10 |
 | Castle Meldec | 25.00% | ~9 |
-| Sevenkeeps Seat of Kings | 25.00% | ~9 |
 | Friend of Alluvyan | 19.00% | ~7 |
 | Friend of Gillyshire | 19.00% | ~7 |
 | Friend of Connach | 19.00% | ~7 |

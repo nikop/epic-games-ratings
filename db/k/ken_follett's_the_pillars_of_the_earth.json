@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16755,
+  "EOS_Progressed": 16756,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -15188,6 +15188,11 @@
       "Time": "2023-11-30T13:10:39.0732022+00:00",
       "NumProgressed": 16755,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-11-30T14:05:50.0736581+00:00",
+      "NumProgressed": 16756,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15263,7 +15268,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2848
+      "UsersEstimate": 2849
     },
     {
       "ID": "tpote_achievement_18",
@@ -15303,7 +15308,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 5026
+      "UsersEstimate": 5027
     },
     {
       "ID": "tpote_achievement_22",
@@ -15526,15 +15531,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16755,
+      "Progressed": 16756,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-30T13:10:39.0732018+00:00",
+  "LastChanged_Achievements": "2023-11-30T14:05:50.0736574+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:06.2264545+00:00",
-  "LastUpdate_Ratings": "2023-11-30T13:06:01.9398574+00:00",
-  "LastUpdate_Achievements": "2023-11-30T13:10:39.0733124+00:00"
+  "LastUpdate_Ratings": "2023-11-30T14:00:40.3366397+00:00",
+  "LastUpdate_Achievements": "2023-11-30T14:05:50.0737678+00:00"
 }

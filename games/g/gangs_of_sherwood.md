@@ -12,18 +12,18 @@
 | Treasure Hunter | 70.00% | ~19 |
 | Tap Dancing | 59.00% | ~16 |
 | MAX LEVEL | 56.00% | ~15 |
-| Right between the eyes | 48.00% | ~13 |
+| Right between the eyes | 52.00% | ~14 |
 | Spring Board | 44.00% | ~12 |
 | Starry Night | 41.00% | ~11 |
 | Savior | 41.00% | ~11 |
 | Rebel Unleashed | 41.00% | ~11 |
 | Merry Co-operation | 37.00% | ~10 |
-| Finish Him! | 33.00% | ~9 |
+| Finish Him! | 37.00% | ~10 |
 | Locksley's Tears | 33.00% | ~9 |
 | Assault on the Ram | 33.00% | ~9 |
 | First Aid | 30.00% | ~8 |
 | Merry Go Round | 30.00% | ~8 |
-| Ultra Rebel Instinct | 22.00% | ~6 |
+| Ultra Rebel Instinct | 26.00% | ~7 |
 | Ascending Will | 19.00% | ~5 |
 | Ultra Combo | 19.00% | ~5 |
 | Take Action! | 19.00% | ~5 |
