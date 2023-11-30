@@ -7,9 +7,9 @@ Rating: 4.76 (Ranked 128)
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 16.00% | ~48,578 |
 | First Class Student | 15.00% | ~45,542 |
-| Troll with the Punches | 14.00% | ~42,505 |
-| A Keen Sense of Spell | 13.00% | ~39,469 |
-| That's a Keeper | 13.00% | ~39,469 |
+| Troll with the Punches | 14.00% | ~42,506 |
+| A Keen Sense of Spell | 13.00% | ~39,470 |
+| That's a Keeper | 13.00% | ~39,470 |
 | The Defender of Dragons | 12.00% | ~36,433 |
 | Loom for Improvement | 12.00% | ~36,433 |
 | A Talent for Spending | 12.00% | ~36,433 |
@@ -30,9 +30,9 @@ Rating: 4.76 (Ranked 128)
 | The Seeker of Knowledge | 6.00% | ~18,217 |
 | The Root of the Problem | 6.00% | ~18,217 |
 | Third Time's a Charm | 6.00% | ~18,217 |
-| The Toast of the Town | 5.00% | ~15,180 |
-| The Gryffindor in the Graveyard | 5.00% | ~15,180 |
-| The Ends Petrify the Means | 5.00% | ~15,180 |
+| The Toast of the Town | 5.00% | ~15,181 |
+| The Gryffindor in the Graveyard | 5.00% | ~15,181 |
+| The Ends Petrify the Means | 5.00% | ~15,181 |
 | Going Through the Potions | 4.00% | ~12,144 |
 | Room with a View | 4.00% | ~12,144 |
 | The Intrepid Explorer | 4.00% | ~12,144 |
@@ -47,11 +47,11 @@ Rating: 4.76 (Ranked 128)
 | A Forte for Achievement | 2.00% | ~6,072 |
 | Savvy Spender | 1.00% | ~3,036 |
 | Merlin's Beard! | 1.00% | ~3,036 |
-| Spilled Milk | 0.90% | ~2,732 |
+| Spilled Milk | 0.90% | ~2,733 |
 | The Nature of the Beast | 0.70% | ~2,125 |
 | Collector's Edition | 0.30% | ~911 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,610 (Ranked 54)  
+Progressed: 303,612 (Ranked 54)  
 Completed: 519 (0.17%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 519 (0.17%) (Ranked 266)
 | 2023-11-27 | 303,418 | 518 |
 | 2023-11-28 | 303,515 | 519 |
 | 2023-11-29 | 303,596 | 519 |
-| 2023-11-30 | 303,610 | 519 |
+| 2023-11-30 | 303,612 | 519 |
 ## Awards
 Max (Character Customization): 24,755  (Ranked 17)  
 Sum: 49,473 (Ranked 30)  

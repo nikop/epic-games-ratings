@@ -123,7 +123,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 79436,
+  "EOS_Progressed": 79437,
   "EOS_Completed": 856,
   "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 6,
@@ -25068,6 +25068,11 @@
       "Time": "2023-11-30T04:04:21.3101313+00:00",
       "NumProgressed": 79436,
       "NumCompleted": 856
+    },
+    {
+      "Time": "2023-11-30T05:05:08.7823266+00:00",
+      "NumProgressed": 79437,
+      "NumCompleted": 856
     }
   ],
   "TotalAchievements": 25,
@@ -25119,7 +25124,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14298
+      "UsersEstimate": 14299
     },
     {
       "ID": "Butcher",
@@ -25278,7 +25283,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 79436,
+      "Progressed": 79437,
       "Completed": 856
     }
   ],
@@ -25286,8 +25291,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-11-30T04:04:21.310131+00:00",
+  "LastChanged_Achievements": "2023-11-30T05:05:08.782326+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:30.5641615+00:00",
-  "LastUpdate_Ratings": "2023-11-30T04:00:15.8050052+00:00",
-  "LastUpdate_Achievements": "2023-11-30T04:04:21.3102711+00:00"
+  "LastUpdate_Ratings": "2023-11-30T05:01:52.4631697+00:00",
+  "LastUpdate_Achievements": "2023-11-30T05:05:08.7824663+00:00"
 }

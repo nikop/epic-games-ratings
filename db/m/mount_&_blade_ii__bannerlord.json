@@ -9276,9 +9276,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 66657,
+  "EOS_Progressed": 66659,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 939,
+  "EOS_NewPlayers": 941,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32866,6 +32866,11 @@
       "Time": "2023-11-30T04:09:29.6429893+00:00",
       "NumProgressed": 66657,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T05:09:59.5831116+00:00",
+      "NumProgressed": 66659,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -32877,7 +32882,7 @@
       "Name": "Against all odds",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8665
+      "UsersEstimate": 8666
     },
     {
       "ID": "Apple of my eye",
@@ -33005,7 +33010,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8665
+      "UsersEstimate": 8666
     },
     {
       "ID": "Great Granny",
@@ -33069,7 +33074,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 11998
+      "UsersEstimate": 11999
     },
     {
       "ID": "Kingslayer",
@@ -33109,7 +33114,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26663
+      "UsersEstimate": 26664
     },
     {
       "ID": "Lawmaker",
@@ -33284,15 +33289,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 66657,
+      "Progressed": 66659,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-29T21:00:12.4126572+00:00",
-  "LastChanged_Achievements": "2023-11-30T04:09:29.642989+00:00",
+  "LastChanged_Achievements": "2023-11-30T05:09:59.5831109+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:24.2741585+00:00",
-  "LastUpdate_Ratings": "2023-11-30T04:00:03.9753876+00:00",
-  "LastUpdate_Achievements": "2023-11-30T04:09:29.6431268+00:00"
+  "LastUpdate_Ratings": "2023-11-30T05:01:36.1738826+00:00",
+  "LastUpdate_Achievements": "2023-11-30T05:09:59.5832369+00:00"
 }

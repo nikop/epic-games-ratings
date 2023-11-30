@@ -5,14 +5,14 @@ Rating: 4.54 (Ranked 527)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,602 |
-| Git Gutte! | 2.00% | ~14,557 |
-| Break A Leg | 2.00% | ~14,557 |
-| Coup de Grâce | 2.00% | ~14,557 |
-| Hazardous Materials | 2.00% | ~14,557 |
-| Hotel California | 2.00% | ~14,557 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,557 |
-| Welcome To Hell-A | 2.00% | ~14,557 |
+| Whatever It Takes | 3.00% | ~1,603 |
+| Git Gutte! | 2.00% | ~14,558 |
+| Break A Leg | 2.00% | ~14,558 |
+| Coup de Grâce | 2.00% | ~14,558 |
+| Hazardous Materials | 2.00% | ~14,558 |
+| Hotel California | 2.00% | ~14,558 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,558 |
+| Welcome To Hell-A | 2.00% | ~14,558 |
 | One of Us | 2.00% | ~1,068 |
 | Pork Chopped | 2.00% | ~1,068 |
 | Dr. Reed, I Presume? | 1.00% | ~7,279 |
@@ -45,8 +45,8 @@ Rating: 4.54 (Ranked 527)
 | Smorgasbord | 0.50% | ~3,639 |
 | Internet Famous | 0.50% | ~3,639 |
 | Variety is the Spice of Death | 0.50% | ~3,639 |
-| Make it So | 0.40% | ~2,911 |
-| LA Influential | 0.40% | ~2,911 |
+| Make it So | 0.40% | ~2,912 |
+| LA Influential | 0.40% | ~2,912 |
 | Sole Survivor | 0.30% | ~2,184 |
 | Gore Horse | 0.30% | ~2,184 |
 | Sharpest Tool in the Box | 0.30% | ~2,184 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 527)
 | Bucket List | 0.10% | ~728 |
 | Wilhelm | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 727,873 (Ranked 21)  
+Progressed: 727,878 (Ranked 21)  
 Completed: 2,451 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 2,451 (0.34%) (Ranked 231)
 | 2023-11-27 | 726,753 | 2,443 |
 | 2023-11-28 | 727,374 | 2,447 |
 | 2023-11-29 | 727,809 | 2,450 |
-| 2023-11-30 | 727,873 | 2,451 |
+| 2023-11-30 | 727,878 | 2,451 |
 ## Awards
 Max (Great Boss Battles): 7,803  (Ranked 49)  
 Sum: 11,963 (Ranked 84)  

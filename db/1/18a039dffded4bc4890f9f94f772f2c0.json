@@ -2,9 +2,9 @@
   "ID": "18a039dffded4bc4890f9f94f772f2c0",
   "Name": "ELECTRON ZARAFTOR",
   "ProductSlug": "electron-zaraftor-751dfc",
-  "Ranking_EOS_Progress": 763,
+  "Ranking_EOS_Progress": 764,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewPlayers": 498,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-11-10T12:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-13T11:04:18.4577692+00:00",
-  "LastChanged_Achievements": "2023-11-30T04:03:31.3665488+00:00",
+  "LastChanged_Achievements": "2023-11-30T05:03:59.0664795+00:00",
   "LastUpdate_AppInfo": "2023-11-24T13:56:57.6882849+00:00",
-  "LastUpdate_Ratings": "2023-11-30T03:59:54.5149554+00:00",
-  "LastUpdate_Achievements": "2023-11-30T04:03:31.3665521+00:00"
+  "LastUpdate_Ratings": "2023-11-30T05:01:21.9698819+00:00",
+  "LastUpdate_Achievements": "2023-11-30T05:03:59.0664825+00:00"
 }

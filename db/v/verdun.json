@@ -1859,7 +1859,7 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 65043,
+  "EOS_Progressed": 65044,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 646,
   "EOS_NewCompleters": 0,
@@ -26449,6 +26449,11 @@
       "Time": "2023-11-30T04:05:53.5202786+00:00",
       "NumProgressed": 65043,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-30T05:07:19.1312754+00:00",
+      "NumProgressed": 65044,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -26580,7 +26585,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 15610
+      "UsersEstimate": 15611
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -26724,7 +26729,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 26017
+      "UsersEstimate": 26018
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -26748,7 +26753,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 40977
+      "UsersEstimate": 40978
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -26772,7 +26777,7 @@
       "Name": "Basic Training",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 15610
+      "UsersEstimate": 15611
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -26780,7 +26785,7 @@
       "Name": "Battle hardened",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5203
+      "UsersEstimate": 5204
     },
     {
       "ID": "VERDUN_ACH_LEVEL75",
@@ -26931,15 +26936,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 65043,
+      "Progressed": 65044,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-11-27T09:57:50.3082491+00:00",
-  "LastChanged_Achievements": "2023-11-30T04:05:53.5202784+00:00",
+  "LastChanged_Achievements": "2023-11-30T05:07:19.1312749+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:58.4579333+00:00",
-  "LastUpdate_Ratings": "2023-11-30T03:59:24.2588297+00:00",
-  "LastUpdate_Achievements": "2023-11-30T04:05:53.5204172+00:00"
+  "LastUpdate_Ratings": "2023-11-30T05:00:35.4853682+00:00",
+  "LastUpdate_Achievements": "2023-11-30T05:07:19.1314117+00:00"
 }

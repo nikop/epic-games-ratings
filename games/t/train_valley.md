@@ -22,7 +22,7 @@ Number of Ratings: 28  (23.09.2022)
 | Let's roll! | 27.00% | ~143 |
 | Ouroboros | 25.00% | ~132 |
 | Non Stop! | 24.00% | ~127 |
-| Foreman | 21.00% | ~111 |
+| Foreman | 22.00% | ~116 |
 | Russia | 20.00% | ~106 |
 | America | 19.00% | ~101 |
 | Missed it! | 19.00% | ~101 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Juggler | 0.40% | ~2 |
 | Maniac vandal | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 529 (Ranked 307)  
+Progressed: 529 (Ranked 308)  
 Completed: 2 (0.38%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |

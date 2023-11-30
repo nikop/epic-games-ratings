@@ -11253,7 +11253,7 @@
       "Count": 825
     }
   ],
-  "EOS_Progressed": 303610,
+  "EOS_Progressed": 303612,
   "EOS_Completed": 519,
   "EOS_NewPlayers": 878,
   "EOS_NewCompleters": 6,
@@ -35358,6 +35358,11 @@
       "Time": "2023-11-30T04:09:28.732172+00:00",
       "NumProgressed": 303610,
       "NumCompleted": 519
+    },
+    {
+      "Time": "2023-11-30T05:09:58.1255201+00:00",
+      "NumProgressed": 303612,
+      "NumCompleted": 519
     }
   ],
   "TotalAchievements": 45,
@@ -35457,7 +35462,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15180
+      "UsersEstimate": 15181
     },
     {
       "ID": "PFA_20",
@@ -35489,7 +35494,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39469
+      "UsersEstimate": 39470
     },
     {
       "ID": "PFA_24",
@@ -35577,7 +35582,7 @@
       "Name": "Spilled Milk",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2732
+      "UsersEstimate": 2733
     },
     {
       "ID": "PFA_34",
@@ -35633,7 +35638,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15180
+      "UsersEstimate": 15181
     },
     {
       "ID": "PFA_40",
@@ -35649,7 +35654,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 15180
+      "UsersEstimate": 15181
     },
     {
       "ID": "PFA_42",
@@ -35705,7 +35710,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42505
+      "UsersEstimate": 42506
     },
     {
       "ID": "PFA_8",
@@ -35713,7 +35718,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39469
+      "UsersEstimate": 39470
     },
     {
       "ID": "PFA_9",
@@ -35728,7 +35733,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303610,
+      "Progressed": 303612,
       "Completed": 519
     }
   ],
@@ -35736,8 +35741,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-30T04:00:30.6376319+00:00",
-  "LastChanged_Achievements": "2023-11-30T04:09:28.7321718+00:00",
+  "LastChanged_Achievements": "2023-11-30T05:09:58.1255196+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7292094+00:00",
-  "LastUpdate_Ratings": "2023-11-30T04:00:30.6376327+00:00",
-  "LastUpdate_Achievements": "2023-11-30T04:09:28.7322938+00:00"
+  "LastUpdate_Ratings": "2023-11-30T05:02:45.1149393+00:00",
+  "LastUpdate_Achievements": "2023-11-30T05:09:58.1256355+00:00"
 }

@@ -125,9 +125,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 60489,
+  "EOS_Progressed": 60512,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 9596,
+  "EOS_NewPlayers": 9521,
   "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1750,6 +1750,11 @@
       "Time": "2023-11-30T04:05:47.9988823+00:00",
       "NumProgressed": 60489,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-11-30T05:07:11.375871+00:00",
+      "NumProgressed": 60512,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -1762,7 +1767,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 22381
+      "UsersEstimate": 22389
     },
     {
       "ID": "Achievement_10",
@@ -1810,7 +1815,7 @@
       "Name": "Lango Plantmaster",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Achievement_16",
@@ -1818,7 +1823,7 @@
       "Name": "Diligent Hogbunny",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "Achievement_17",
@@ -1826,7 +1831,7 @@
       "Name": "Great Wave Alumni",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Achievement_18",
@@ -1834,7 +1839,7 @@
       "Name": "Champions of Umbra",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "Achievement_19",
@@ -1842,7 +1847,7 @@
       "Name": "Fearless in Karba",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "Achievement_2",
@@ -1850,7 +1855,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 16332
+      "UsersEstimate": 16338
     },
     {
       "ID": "Achievement_20",
@@ -1858,7 +1863,7 @@
       "Name": "Disciple of the Onurasi",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Achievement_21",
@@ -1898,7 +1903,7 @@
       "Name": "Konkylian Custodian",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "Achievement_26",
@@ -1914,7 +1919,7 @@
       "Name": "Critter King",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "Achievement_28",
@@ -1930,7 +1935,7 @@
       "Name": "Gold Finger",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "Achievement_3",
@@ -1938,7 +1943,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 6654
+      "UsersEstimate": 6656
     },
     {
       "ID": "Achievement_30",
@@ -1954,7 +1959,7 @@
       "Name": "Well Traveled",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Achievement_32",
@@ -1962,7 +1967,7 @@
       "Name": "Art Director",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "Achievement_33",
@@ -1970,7 +1975,7 @@
       "Name": "Family Ties",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "Achievement_34",
@@ -1986,7 +1991,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 4839
+      "UsersEstimate": 4841
     },
     {
       "ID": "Achievement_5",
@@ -1994,7 +1999,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3629
+      "UsersEstimate": 3631
     },
     {
       "ID": "Achievement_6",
@@ -2026,14 +2031,14 @@
       "Name": "Shielded by L\u00FFs",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     }
   ],
   "AchievementSets": [
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 60489,
+      "Progressed": 60512,
       "Completed": 41
     }
   ],
@@ -2041,8 +2046,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-11-29T15:02:27.7188344+00:00",
-  "LastChanged_Achievements": "2023-11-30T04:05:47.998882+00:00",
+  "LastChanged_Achievements": "2023-11-30T05:07:11.3758703+00:00",
   "LastUpdate_AppInfo": "2023-11-23T11:57:10.0145945+00:00",
-  "LastUpdate_Ratings": "2023-11-30T04:00:29.5275985+00:00",
-  "LastUpdate_Achievements": "2023-11-30T04:05:47.9989322+00:00"
+  "LastUpdate_Ratings": "2023-11-30T05:02:43.4173482+00:00",
+  "LastUpdate_Achievements": "2023-11-30T05:07:11.3759204+00:00"
 }

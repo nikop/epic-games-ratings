@@ -313,9 +313,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 232886,
+  "EOS_Progressed": 232888,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 282,
+  "EOS_NewPlayers": 283,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22993,6 +22993,11 @@
       "Time": "2023-11-30T04:06:44.676544+00:00",
       "NumProgressed": 232886,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-30T05:08:30.8208384+00:00",
+      "NumProgressed": 232888,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -23068,7 +23073,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 83839
+      "UsersEstimate": 83840
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -23148,7 +23153,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 79181
+      "UsersEstimate": 79182
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -23204,7 +23209,7 @@
       "Name": "Makin\u0027 Bacon",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 9315
+      "UsersEstimate": 9316
     },
     {
       "ID": "WIN_1_ONLINE_MATCH",
@@ -23227,7 +23232,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 232886,
+      "Progressed": 232888,
       "Completed": 5
     }
   ],
@@ -23235,8 +23240,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-11-29T04:05:35.013922+00:00",
-  "LastChanged_Achievements": "2023-11-30T04:06:44.6765437+00:00",
+  "LastChanged_Achievements": "2023-11-30T05:08:30.8208379+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:18.2076606+00:00",
-  "LastUpdate_Ratings": "2023-11-30T03:59:53.4365931+00:00",
-  "LastUpdate_Achievements": "2023-11-30T04:06:44.6766831+00:00"
+  "LastUpdate_Ratings": "2023-11-30T05:01:20.2508622+00:00",
+  "LastUpdate_Achievements": "2023-11-30T05:08:30.820932+00:00"
 }

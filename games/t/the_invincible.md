@@ -8,7 +8,7 @@
 | The Teleprobe | 43.00% | ~196 |
 | The City | 38.00% | ~173 |
 | The field base | 33.00% | ~150 |
-| Survivors | 28.00% | ~127 |
+| Survivors | 29.00% | ~132 |
 | The Condor | 25.00% | ~114 |
 | The End | 24.00% | ~109 |
 | The Necroevolution | 21.00% | ~96 |
@@ -18,7 +18,7 @@
 | The Alliance | 17.00% | ~77 |
 | On her own | 15.00% | ~68 |
 | Beyond divisions | 14.00% | ~64 |
-| Fierce fight | 12.00% | ~55 |
+| Fierce fight | 13.00% | ~59 |
 | Evacuation | 12.00% | ~55 |
 | Flying Objects Operator | 11.00% | ~50 |
 | I remember everything! | 10.00% | ~46 |

@@ -7,24 +7,24 @@ Number of Ratings: 6,336  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Escaped Tartarus | 89.00% | ~637,802 |
-| Escaped Asphodel | 79.00% | ~566,138 |
+| Escaped Asphodel | 79.00% | ~566,139 |
 | Arms Collector | 70.00% | ~501,642 |
 | Friends in High Places | 67.00% | ~480,143 |
-| Escaped Elysium | 66.00% | ~472,976 |
-| Chthonic Colleagues | 62.00% | ~444,311 |
-| Is There No Escape? | 52.00% | ~372,648 |
+| Escaped Elysium | 66.00% | ~472,977 |
+| Chthonic Colleagues | 62.00% | ~444,312 |
+| Is There No Escape? | 52.00% | ~372,649 |
 | Death Dealer | 45.00% | ~322,484 |
 | Skelly Slayer | 42.00% | ~300,985 |
-| Well Stocked | 40.00% | ~286,652 |
+| Well Stocked | 40.00% | ~286,653 |
 | Back to Work | 38.00% | ~272,320 |
-| Day-or-Night Trader | 37.00% | ~265,153 |
-| Blessed by the Gods | 37.00% | ~265,153 |
-| Urge to Sing | 36.00% | ~257,987 |
+| Day-or-Night Trader | 37.00% | ~265,154 |
+| Blessed by the Gods | 37.00% | ~265,154 |
+| Urge to Sing | 36.00% | ~257,988 |
 | Blood Bound | 35.00% | ~250,821 |
 | Three-Headed Boy | 32.00% | ~229,322 |
 | River Denizens | 28.00% | ~200,657 |
 | Grown Close | 28.00% | ~200,657 |
-| Home Makeover | 27.00% | ~193,490 |
+| Home Makeover | 27.00% | ~193,491 |
 | Had to Happen | 25.00% | ~179,158 |
 | The Family Secret | 25.00% | ~179,158 |
 | Tools of the Architect | 23.00% | ~164,825 |
@@ -40,7 +40,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | The Useless Trinket | 13.00% | ~93,162 |
 | Champion of Elysium | 13.00% | ~93,162 |
 | Slashed Benefits | 12.00% | ~85,996 |
-| Haste of Hermes | 11.00% | ~78,829 |
+| Haste of Hermes | 11.00% | ~78,830 |
 | Bad Call | 10.00% | ~71,663 |
 | Nyx's Mirror | 10.00% | ~71,663 |
 | Night and Darkness | 10.00% | ~71,663 |
@@ -48,7 +48,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Dark Reflections | 9.00% | ~64,497 |
 | Thanks, But No Thanks | 9.00% | ~64,497 |
 | Infernal Arms | 9.00% | ~64,497 |
-| Divided by Death | 8.00% | ~57,330 |
+| Divided by Death | 8.00% | ~57,331 |
 | Harsh Conditions | 7.00% | ~50,164 |
 | One for the Ages | 7.00% | ~50,164 |
 | Complete Set | 6.00% | ~42,998 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,665 |
 | Friends Forever | 4.00% | ~28,665 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,631 (Ranked 23)  
+Progressed: 716,632 (Ranked 23)  
 Completed: 6,508 (0.91%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 6,508 (0.91%) (Ranked 172)
 | 2023-11-27 | 716,247 | 6,505 |
 | 2023-11-28 | 716,446 | 6,506 |
 | 2023-11-29 | 716,610 | 6,508 |
-| 2023-11-30 | 716,631 | 6,508 |
+| 2023-11-30 | 716,632 | 6,508 |
 ## Awards
 Max (Character Customization): 3,393  (Ranked 93)  
 Sum: 8,279 (Ranked 103)  

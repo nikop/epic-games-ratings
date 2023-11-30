@@ -2,9 +2,9 @@
   "ID": "269f94247b4f471b9381fd4052bf1fad",
   "Name": "Born of Bread",
   "ProductSlug": "born-of-bread-008e66",
-  "Ranking_EOS_Progress": 763,
+  "Ranking_EOS_Progress": 764,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewPlayers": 498,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2023-11-30T04:05:46.682749+00:00",
+  "LastChanged_Achievements": "2023-11-30T05:07:09.4444677+00:00",
   "LastUpdate_AppInfo": "2023-11-29T20:57:25.6802786+00:00",
-  "LastUpdate_Ratings": "2023-11-30T03:59:51.5851461+00:00",
-  "LastUpdate_Achievements": "2023-11-30T04:05:46.682751+00:00"
+  "LastUpdate_Ratings": "2023-11-30T05:01:17.4168154+00:00",
+  "LastUpdate_Achievements": "2023-11-30T05:07:09.4444708+00:00"
 }

@@ -4879,10 +4879,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6171,
       "NumberOfAwardsMax": 2518
+    },
+    {
+      "Time": "2023-11-30T05:03:15.9209641+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6174,
+      "NumberOfAwardsMax": 2518
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6171,
+  "NumberOfAwards": 6174,
   "NumberOfAwardsMax": 2518,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4950,12 +4956,12 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 378
+      "Count": 381
     }
   ],
-  "EOS_Progressed": 230757,
+  "EOS_Progressed": 230768,
   "EOS_Completed": 541,
-  "EOS_NewPlayers": 4712,
+  "EOS_NewPlayers": 4697,
   "EOS_NewCompleters": 37,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -20613,6 +20619,11 @@
       "Time": "2023-11-30T04:08:45.1875705+00:00",
       "NumProgressed": 230757,
       "NumCompleted": 541
+    },
+    {
+      "Time": "2023-11-30T05:08:58.5243118+00:00",
+      "NumProgressed": 230768,
+      "NumCompleted": 541
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20775,9 +20786,9 @@
       "ID": "Meet_Flautist",
       "SetID": "bkp3b1a",
       "Name": "Familiar Face",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 692
+      "UsersEstimate": 923
     },
     {
       "ID": "Meet_Meidra",
@@ -21025,7 +21036,7 @@
       "Name": "Regicide",
       "Percentage": 0.7,
       "XP": 75,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -21041,7 +21052,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -21064,22 +21075,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 230757,
+      "Progressed": 230768,
       "Completed": 541
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 9922,
+      "Progressed": 9933,
       "Completed": 170
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-30T02:26:13.3574527+00:00",
-  "LastChanged_Achievements": "2023-11-30T04:08:45.1875701+00:00",
+  "LastChanged": "2023-11-30T05:03:15.9209637+00:00",
+  "LastChanged_Achievements": "2023-11-30T05:08:58.5243113+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-30T04:03:02.0665218+00:00",
-  "LastUpdate_Achievements": "2023-11-30T04:08:45.1876885+00:00"
+  "LastUpdate_Ratings": "2023-11-30T05:03:15.9209652+00:00",
+  "LastUpdate_Achievements": "2023-11-30T05:08:58.5243983+00:00"
 }

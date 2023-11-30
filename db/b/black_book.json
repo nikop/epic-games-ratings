@@ -663,9 +663,9 @@
       "Count": 90
     }
   ],
-  "EOS_Progressed": 56877,
+  "EOS_Progressed": 56881,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 1701,
+  "EOS_NewPlayers": 1694,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11473,6 +11473,11 @@
       "Time": "2023-11-30T04:03:41.0673596+00:00",
       "NumProgressed": 56877,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-11-30T05:04:12.912609+00:00",
+      "NumProgressed": 56881,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -11501,7 +11506,7 @@
       "Name": "Worthy",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3981
+      "UsersEstimate": 3982
     },
     {
       "ID": "ASPEN_TREE",
@@ -11525,7 +11530,7 @@
       "Name": "Black Book",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3981
+      "UsersEstimate": 3982
     },
     {
       "ID": "BLACK_SORCERER",
@@ -11533,7 +11538,7 @@
       "Name": "Black Sorcerer",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3981
+      "UsersEstimate": 3982
     },
     {
       "ID": "CARD_PLAYER",
@@ -11557,7 +11562,7 @@
       "Name": "Cow Level",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 6256
+      "UsersEstimate": 6257
     },
     {
       "ID": "DEAD_MAN",
@@ -11565,7 +11570,7 @@
       "Name": "Dead Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3981
+      "UsersEstimate": 3982
     },
     {
       "ID": "DETECTIVE",
@@ -11597,7 +11602,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 12513
+      "UsersEstimate": 12514
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -11605,7 +11610,7 @@
       "Name": "Scientist",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 6256
+      "UsersEstimate": 6257
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -11621,7 +11626,7 @@
       "Name": "Fern",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3981
+      "UsersEstimate": 3982
     },
     {
       "ID": "FRIENDS",
@@ -11629,7 +11634,7 @@
       "Name": "100 Friends",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3981
+      "UsersEstimate": 3982
     },
     {
       "ID": "GOOD_END",
@@ -11685,7 +11690,7 @@
       "Name": "Initiation",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 15926
+      "UsersEstimate": 15927
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -11733,7 +11738,7 @@
       "Name": "Soldier",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 6825
+      "UsersEstimate": 6826
     },
     {
       "ID": "NORMAL_END",
@@ -11757,7 +11762,7 @@
       "Name": "Researcher",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3981
+      "UsersEstimate": 3982
     },
     {
       "ID": "PINE_TREE",
@@ -11781,7 +11786,7 @@
       "Name": "Savvy",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3981
+      "UsersEstimate": 3982
     },
     {
       "ID": "SINNER",
@@ -11861,7 +11866,7 @@
       "Name": "Knower",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 9100
+      "UsersEstimate": 9101
     },
     {
       "ID": "ZNATKOST_2",
@@ -11884,15 +11889,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 56877,
+      "Progressed": 56881,
       "Completed": 57
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-11-24T14:58:20.0827646+00:00",
-  "LastChanged_Achievements": "2023-11-30T04:03:41.0673593+00:00",
+  "LastChanged_Achievements": "2023-11-30T05:04:12.9126086+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:46.0067578+00:00",
-  "LastUpdate_Ratings": "2023-11-30T03:57:23.4581151+00:00",
-  "LastUpdate_Achievements": "2023-11-30T04:03:41.067443+00:00"
+  "LastUpdate_Ratings": "2023-11-30T04:57:31.7120737+00:00",
+  "LastUpdate_Achievements": "2023-11-30T05:04:12.9126816+00:00"
 }

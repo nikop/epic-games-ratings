@@ -7,7 +7,7 @@ Rating: 4.05 (Ranked 986)
 | ---- | ---------- | ----- |
 | Unforeseen | 91.00% | ~290 |
 | Battlefields Have Memories | 88.00% | ~281 |
-| Enlisted | 84.00% | ~268 |
+| Enlisted | 85.00% | ~271 |
 | Maybe Engage a Little | 80.00% | ~255 |
 | No More Names | 69.00% | ~220 |
 | Initiate | 55.00% | ~175 |
@@ -16,8 +16,8 @@ Rating: 4.05 (Ranked 986)
 | Soldier | 37.00% | ~118 |
 | All the Major Food Groups | 36.00% | ~115 |
 | Beggars Would Ride | 32.00% | ~102 |
+| Control is an Illusion | 30.00% | ~96 |
 | Socialite | 30.00% | ~96 |
-| Control is an Illusion | 29.00% | ~93 |
 | The Means to Save It | 24.00% | ~77 |
 | Resilience to Sin | 21.00% | ~67 |
 | A Familiar Nest | 20.00% | ~64 |

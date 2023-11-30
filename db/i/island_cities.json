@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 807,
+  "EOS_Progressed": 808,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 16.48,
+  "EOS_Completed_Percentage": 16.46,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3416,6 +3416,11 @@
       "Time": "2023-11-30T01:52:26.4397541+00:00",
       "NumProgressed": 807,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2023-11-30T05:06:12.7262057+00:00",
+      "NumProgressed": 808,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 22,
@@ -3427,7 +3432,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "LEVEL_002",
@@ -3435,7 +3440,7 @@
       "Name": "A tiny town",
       "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "LEVEL_003",
@@ -3451,7 +3456,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "LEVEL_005",
@@ -3483,7 +3488,7 @@
       "Name": "Passion for sports",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "LEVEL_009",
@@ -3531,7 +3536,7 @@
       "Name": "Not lonely anymore",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "LEVEL_015",
@@ -3539,7 +3544,7 @@
       "Name": "Monumental tribute",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "LEVEL_016",
@@ -3547,7 +3552,7 @@
       "Name": "The beach is right there",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "LEVEL_017",
@@ -3602,7 +3607,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 807,
+      "Progressed": 808,
       "Completed": 133
     }
   ],
@@ -3610,8 +3615,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-11-30T04:05:06.5751651+00:00",
+  "LastChanged_Achievements": "2023-11-30T05:06:12.7262052+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:17.2540089+00:00",
-  "LastUpdate_Ratings": "2023-11-30T03:59:51.945453+00:00",
-  "LastUpdate_Achievements": "2023-11-30T04:05:06.575196+00:00"
+  "LastUpdate_Ratings": "2023-11-30T05:01:18.0168902+00:00",
+  "LastUpdate_Achievements": "2023-11-30T05:06:12.7262346+00:00"
 }

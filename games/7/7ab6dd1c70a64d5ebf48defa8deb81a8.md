@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trinity | 12.00% | ~28 |
+| Trinity | 12.00% | ~29 |
 | Break Out | 11.00% | ~26 |
 | Find Allies | 10.00% | ~24 |
 | I Found It | 10.00% | ~24 |
@@ -23,9 +23,9 @@
 | To Battle | 5.00% | ~12 |
 | Godslayer | 5.00% | ~12 |
 | Alchemist | 5.00% | ~12 |
-| The Mentor | 4.00% | ~9 |
-| Essence Blow | 4.00% | ~9 |
-| Fine Feathers Make Fine Birds | 4.00% | ~9 |
+| The Mentor | 4.00% | ~10 |
+| Essence Blow | 4.00% | ~10 |
+| Fine Feathers Make Fine Birds | 4.00% | ~10 |
 | Clear Sight | 3.00% | ~7 |
 | Airborne | 3.00% | ~7 |
 | Shatterer | 3.00% | ~7 |
@@ -41,7 +41,7 @@
 | Shardbearer | 0.80% | ~2 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237 (Ranked 377)  
+Progressed: 238 (Ranked 376)  
 Completed: 2 (0.84%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,3 +91,4 @@ Completed: 2 (0.84%) (Ranked 177)
 | 2023-11-26 | 226 | 2 |
 | 2023-11-27 | 230 | 2 |
 | 2023-11-28 | 237 | 2 |
+| 2023-11-30 | 238 | 2 |

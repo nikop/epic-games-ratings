@@ -765,9 +765,9 @@
       "ID": "TINGWD_CHAP_END_05",
       "SetID": "c0imaa6",
       "Name": "It\u0027s not over yet",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "TINGWD_CHAP_END_06",
@@ -948,8 +948,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-11-30T04:03:24.3964581+00:00",
+  "LastChanged_Achievements": "2023-11-30T05:03:49.3618347+00:00",
   "LastUpdate_AppInfo": "2023-11-27T19:57:22.8137198+00:00",
-  "LastUpdate_Ratings": "2023-11-30T03:58:04.2583109+00:00",
-  "LastUpdate_Achievements": "2023-11-30T04:03:24.3964814+00:00"
+  "LastUpdate_Ratings": "2023-11-30T04:58:32.9189154+00:00",
+  "LastUpdate_Achievements": "2023-11-30T05:03:49.3618594+00:00"
 }

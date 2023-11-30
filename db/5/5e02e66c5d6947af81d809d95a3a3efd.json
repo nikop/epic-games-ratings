@@ -2,9 +2,9 @@
   "ID": "5e02e66c5d6947af81d809d95a3a3efd",
   "Name": "Brain Show",
   "ProductSlug": "brain-show-89d0fd",
-  "Ranking_EOS_Progress": 763,
+  "Ranking_EOS_Progress": 764,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewPlayers": 498,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-11-28T05:30:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-28T08:57:09.8258059+00:00",
-  "LastUpdate_Ratings": "2023-11-30T03:57:26.716413+00:00",
-  "LastUpdate_Achievements": "2023-11-30T04:06:22.2534643+00:00"
+  "LastUpdate_Ratings": "2023-11-30T04:57:36.846258+00:00",
+  "LastUpdate_Achievements": "2023-11-30T05:07:59.4683096+00:00"
 }

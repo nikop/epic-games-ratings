@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 154757,
+  "EOS_Progressed": 154759,
   "EOS_Completed": 350,
-  "EOS_NewPlayers": 862,
+  "EOS_NewPlayers": 861,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -19903,6 +19903,11 @@
       "Time": "2023-11-30T04:05:25.0734984+00:00",
       "NumProgressed": 154757,
       "NumCompleted": 350
+    },
+    {
+      "Time": "2023-11-30T05:06:39.0559451+00:00",
+      "NumProgressed": 154759,
+      "NumCompleted": 350
     }
   ],
   "TotalAchievements": 31,
@@ -19922,7 +19927,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 108330
+      "UsersEstimate": 108331
     },
     {
       "ID": "EAwards_10",
@@ -19954,7 +19959,7 @@
       "Name": "Next-gen!!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9285
+      "UsersEstimate": 9286
     },
     {
       "ID": "EAwards_14",
@@ -19962,7 +19967,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 60355
+      "UsersEstimate": 60356
     },
     {
       "ID": "EAwards_15",
@@ -20010,7 +20015,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 43332
+      "UsersEstimate": 43333
     },
     {
       "ID": "EAwards_20",
@@ -20130,7 +20135,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 38689
+      "UsersEstimate": 38690
     },
     {
       "ID": "EAwards_7",
@@ -20161,7 +20166,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 154757,
+      "Progressed": 154759,
       "Completed": 350
     }
   ],
@@ -20169,8 +20174,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-11-30T04:05:25.0734981+00:00",
+  "LastChanged_Achievements": "2023-11-30T05:06:39.0559443+00:00",
   "LastUpdate_AppInfo": "2023-11-24T04:57:18.3123546+00:00",
-  "LastUpdate_Ratings": "2023-11-30T03:57:23.8515937+00:00",
-  "LastUpdate_Achievements": "2023-11-30T04:05:25.073635+00:00"
+  "LastUpdate_Ratings": "2023-11-30T04:57:32.2893378+00:00",
+  "LastUpdate_Achievements": "2023-11-30T05:06:39.0560355+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_Rating": 633,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
-  "Ranking_EOS_Progress": 307,
+  "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 137,
@@ -1487,9 +1487,9 @@
       "ID": "18_foreman",
       "SetID": "chb1m60",
       "Name": "Foreman",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 116
     },
     {
       "ID": "19_justintime",
@@ -1671,8 +1671,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-09-23T19:00:36.0392229+00:00",
-  "LastChanged_Achievements": "2023-11-30T04:03:56.2371797+00:00",
+  "LastChanged_Achievements": "2023-11-30T05:04:33.7614407+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:13.4562338+00:00",
-  "LastUpdate_Ratings": "2023-11-30T03:58:02.5867861+00:00",
-  "LastUpdate_Achievements": "2023-11-30T04:03:56.2372093+00:00"
+  "LastUpdate_Ratings": "2023-11-30T04:58:30.7384457+00:00",
+  "LastUpdate_Achievements": "2023-11-30T05:04:33.7614739+00:00"
 }

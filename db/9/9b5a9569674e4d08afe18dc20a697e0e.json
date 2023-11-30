@@ -4,7 +4,7 @@
   "ProductSlug": "arons-adventure-1e76cd",
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
@@ -495,9 +495,9 @@
       "ID": "CHAIR",
       "SetID": "40o4f14",
       "Name": "A nice view",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CRASHING",
@@ -734,8 +734,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-30T04:05:39.2557263+00:00",
+  "LastChanged_Achievements": "2023-11-30T05:06:59.1516922+00:00",
   "LastUpdate_AppInfo": "2023-11-30T01:44:08.4871505+00:00",
-  "LastUpdate_Ratings": "2023-11-30T03:58:52.673052+00:00",
-  "LastUpdate_Achievements": "2023-11-30T04:05:39.255748+00:00"
+  "LastUpdate_Ratings": "2023-11-30T04:59:48.4427939+00:00",
+  "LastUpdate_Achievements": "2023-11-30T05:06:59.1517399+00:00"
 }

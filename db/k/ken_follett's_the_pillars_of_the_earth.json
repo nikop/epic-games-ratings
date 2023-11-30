@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16750,
+  "EOS_Progressed": 16752,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -15168,6 +15168,11 @@
       "Time": "2023-11-30T02:28:19.2573181+00:00",
       "NumProgressed": 16750,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-11-30T05:05:34.0760569+00:00",
+      "NumProgressed": 16752,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15195,7 +15200,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3852
+      "UsersEstimate": 3853
     },
     {
       "ID": "tpote_achievement_12",
@@ -15227,7 +15232,7 @@
       "Name": "Care, like a brother cares",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "tpote_achievement_16",
@@ -15283,7 +15288,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 5025
+      "UsersEstimate": 5026
     },
     {
       "ID": "tpote_achievement_22",
@@ -15299,7 +15304,7 @@
       "Name": "A brush with death",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "tpote_achievement_24",
@@ -15307,7 +15312,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1842
+      "UsersEstimate": 1843
     },
     {
       "ID": "tpote_achievement_25",
@@ -15355,7 +15360,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5360
+      "UsersEstimate": 5361
     },
     {
       "ID": "tpote_achievement_30",
@@ -15403,7 +15408,7 @@
       "Name": "Self-defense",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "tpote_achievement_36",
@@ -15443,7 +15448,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6700
+      "UsersEstimate": 6701
     },
     {
       "ID": "tpote_achievement_40",
@@ -15475,7 +15480,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3852
+      "UsersEstimate": 3853
     },
     {
       "ID": "tpote_achievement_7",
@@ -15483,7 +15488,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1172
+      "UsersEstimate": 1173
     },
     {
       "ID": "tpote_achievement_8",
@@ -15499,22 +15504,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5695
+      "UsersEstimate": 5696
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16750,
+      "Progressed": 16752,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-30T04:04:39.1349472+00:00",
+  "LastChanged_Achievements": "2023-11-30T05:05:34.0760564+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:06.2264545+00:00",
-  "LastUpdate_Ratings": "2023-11-30T03:59:35.8597326+00:00",
-  "LastUpdate_Achievements": "2023-11-30T04:04:39.1350343+00:00"
+  "LastUpdate_Ratings": "2023-11-30T05:00:52.6176117+00:00",
+  "LastUpdate_Achievements": "2023-11-30T05:05:34.0761311+00:00"
 }

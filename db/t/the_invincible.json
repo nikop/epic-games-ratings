@@ -1264,9 +1264,9 @@
       "ID": "AchvBattleScore",
       "SetID": "1hj060c",
       "Name": "Fierce fight",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 59
     },
     {
       "ID": "AchvBombStop",
@@ -1440,9 +1440,9 @@
       "ID": "AchvSurvivors",
       "SetID": "1hj060c",
       "Name": "Survivors",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 132
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -1479,8 +1479,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-30T04:08:40.1230897+00:00",
+  "LastChanged_Achievements": "2023-11-30T05:08:51.1260649+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-11-30T03:59:00.1696133+00:00",
-  "LastUpdate_Achievements": "2023-11-30T04:08:40.1231126+00:00"
+  "LastUpdate_Ratings": "2023-11-30T04:59:59.4584258+00:00",
+  "LastUpdate_Achievements": "2023-11-30T05:08:51.1260881+00:00"
 }

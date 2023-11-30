@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2021-09-23T13:00:00+00:00",
     "PcReleaseDate": "2021-09-23T13:00:00+00:00",
@@ -509,10 +509,10 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 101566,
-  "EOS_Completed": 1029,
-  "EOS_NewPlayers": 1166,
-  "EOS_NewCompleters": 15,
+  "EOS_Progressed": 101567,
+  "EOS_Completed": 1030,
+  "EOS_NewPlayers": 1162,
+  "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
     {
@@ -26079,6 +26079,11 @@
       "Time": "2023-11-30T04:09:12.5139598+00:00",
       "NumProgressed": 101566,
       "NumCompleted": 1029
+    },
+    {
+      "Time": "2023-11-30T05:09:36.0683737+00:00",
+      "NumProgressed": 101567,
+      "NumCompleted": 1030
     }
   ],
   "TotalAchievements": 56,
@@ -26402,7 +26407,7 @@
       "Name": "Simoon",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 34532
+      "UsersEstimate": 34533
     },
     {
       "ID": "ach_040_customise_hoverbike",
@@ -26537,15 +26542,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 101566,
-      "Completed": 1029
+      "Progressed": 101567,
+      "Completed": 1030
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-11-23T17:58:18.7561537+00:00",
-  "LastChanged_Achievements": "2023-11-30T04:09:12.5139593+00:00",
+  "LastChanged_Achievements": "2023-11-30T05:09:36.0683732+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:12.9898742+00:00",
-  "LastUpdate_Ratings": "2023-11-30T04:00:33.0793143+00:00",
-  "LastUpdate_Achievements": "2023-11-30T04:09:12.5141238+00:00"
+  "LastUpdate_Ratings": "2023-11-30T05:02:48.7398133+00:00",
+  "LastUpdate_Achievements": "2023-11-30T05:09:36.0685201+00:00"
 }

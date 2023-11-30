@@ -9,7 +9,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Diligence as a goal | 1.00% | ~269 |
 | The Old Grandmaster | 0.70% | ~5,023 |
 | Life is your teacher | 0.70% | ~5,023 |
-| Project Arena | 0.70% | ~188 |
+| Project Arena | 0.70% | ~189 |
 | The Assault | 0.60% | ~4,306 |
 | The Hateful Pole Fighter | 0.60% | ~4,306 |
 | A Lady's Blood in the Snow | 0.60% | ~4,306 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,627 (Ranked 22)  
+Progressed: 717,629 (Ranked 22)  
 Completed: 12,941 (1.80%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,15 +291,15 @@ Completed: 12,941 (1.80%) (Ranked 132)
 | 2023-11-27 | 717,516 | 12,940 |
 | 2023-11-28 | 717,575 | 12,941 |
 | 2023-11-29 | 717,624 | 12,941 |
-| 2023-11-30 | 717,627 | 12,941 |
+| 2023-11-30 | 717,629 | 12,941 |
 ## Awards
 Max (Great Boss Battles): 6,858  (Ranked 55)  
-Sum: 12,016 (Ranked 83)  
+Sum: 12,017 (Ranked 83)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,858 |
-| This game has Diverse Characters | 665 |
+| This game has Diverse Characters | 666 |
 | This game has Challenging Combat | 611 |
 | This game has Amazing Storytelling | 596 |
 | This game has Amazing Characters | 581 |
@@ -629,3 +629,4 @@ Diff (max vs sum): -28
 | 2023-11-27 | 4.82 | - | 6,847 | 11,989 |
 | 2023-11-28 | 4.82 | - | 6,852 | 11,997 |
 | 2023-11-29 | 4.82 | - | 6,858 | 12,016 |
+| 2023-11-30 | 4.82 | - | 6,858 | 12,017 |

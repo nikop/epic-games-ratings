@@ -25,7 +25,7 @@
 | YOU SHALL NOT PASS! | 46.00% | ~230 |
 | The Big Eaty | 46.00% | ~230 |
 | Pure Dynamite! | 42.00% | ~210 |
-| “… like son” | 41.00% | ~205 |
+| “… like son” | 42.00% | ~210 |
 | Dungeonlord Gorgu | 38.00% | ~190 |
 | Mana Cannon | 37.00% | ~185 |
 | Shame! Shame! Shame! | 36.00% | ~180 |
