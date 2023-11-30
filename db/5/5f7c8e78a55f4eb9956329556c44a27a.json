@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
     "PcReleaseDate": "2020-08-06T17:00:00+00:00",
@@ -677,9 +677,9 @@
       "ID": "TINGWD_ANIMAL",
       "SetID": "c0imaa6",
       "Name": "A friend of the animals... or not.",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "TINGWD_BEATEM",
@@ -821,9 +821,9 @@
       "ID": "TINGWD_HEADSHOT",
       "SetID": "c0imaa6",
       "Name": "Headshot",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "TINGWD_HONEY",
@@ -948,8 +948,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-11-30T03:03:31.8066216+00:00",
+  "LastChanged_Achievements": "2023-11-30T04:03:24.3964581+00:00",
   "LastUpdate_AppInfo": "2023-11-27T19:57:22.8137198+00:00",
-  "LastUpdate_Ratings": "2023-11-30T02:58:04.6719262+00:00",
-  "LastUpdate_Achievements": "2023-11-30T03:03:31.806646+00:00"
+  "LastUpdate_Ratings": "2023-11-30T03:58:04.2583109+00:00",
+  "LastUpdate_Achievements": "2023-11-30T04:03:24.3964814+00:00"
 }

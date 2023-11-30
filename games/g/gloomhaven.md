@@ -6,19 +6,19 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 41.00% | ~9,720 |
-| Overkill | 34.00% | ~8,061 |
-| Vaccine Incoming | 33.00% | ~7,824 |
-| A normal day in Gloomhaven | 31.00% | ~7,349 |
-| Spread the plague | 29.00% | ~6,875 |
-| Get over here! | 25.00% | ~5,927 |
+| I'm not dead yet | 41.00% | ~9,722 |
+| Overkill | 34.00% | ~8,062 |
+| Vaccine Incoming | 33.00% | ~7,825 |
+| A normal day in Gloomhaven | 31.00% | ~7,351 |
+| Spread the plague | 29.00% | ~6,876 |
+| Get over here! | 25.00% | ~5,928 |
 | Just when I thought I was out... | 19.00% | ~4,505 |
-| Precious! | 17.00% | ~4,030 |
-| Mine... All Mine... | 17.00% | ~4,030 |
-| Grizzled veteran | 15.00% | ~3,556 |
-| Anatomy Lesson | 15.00% | ~3,556 |
-| Light of my life | 14.00% | ~3,319 |
-| Obstacle race | 13.00% | ~3,082 |
+| Precious! | 17.00% | ~4,031 |
+| Mine... All Mine... | 17.00% | ~4,031 |
+| Grizzled veteran | 15.00% | ~3,557 |
+| Anatomy Lesson | 15.00% | ~3,557 |
+| Light of my life | 14.00% | ~3,320 |
+| Obstacle race | 13.00% | ~3,083 |
 | You activated my trap card! | 12.00% | ~2,845 |
 | Who's the Boss? | 11.00% | ~2,608 |
 | Augmented rat | 11.00% | ~2,608 |
@@ -28,11 +28,11 @@ Number of Ratings: 68  (23.09.2022)
 | Pain is your friend | 8.00% | ~1,897 |
 | Black death | 8.00% | ~1,897 |
 | Play it again, Sam | 8.00% | ~1,897 |
-| Quad damage | 6.00% | ~1,422 |
-| Power Up! | 5.00% | ~1,185 |
-| Caught off guard | 5.00% | ~1,185 |
-| Pretty lights! | 5.00% | ~1,185 |
-| Now you see me... | 5.00% | ~1,185 |
+| Quad damage | 6.00% | ~1,423 |
+| Power Up! | 5.00% | ~1,186 |
+| Caught off guard | 5.00% | ~1,186 |
+| Pretty lights! | 5.00% | ~1,186 |
+| Now you see me... | 5.00% | ~1,186 |
 | Merchant of doom | 4.00% | ~948 |
 | The Pro from Dover | 4.00% | ~948 |
 | I hate portals | 3.00% | ~711 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~24 |
 | Murder Death Kill | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,708 (Ranked 131)  
+Progressed: 23,712 (Ranked 131)  
 Completed: 1 (0.00%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 1 (0.00%) (Ranked 362)
 | 2023-11-27 | 23,367 | 1 |
 | 2023-11-28 | 23,528 | 1 |
 | 2023-11-29 | 23,685 | 1 |
-| 2023-11-30 | 23,708 | 1 |
+| 2023-11-30 | 23,712 | 1 |
 ## Awards
 Max (Character Customization): 3,590  (Ranked 90)  
 Sum: 8,391 (Ranked 101)  

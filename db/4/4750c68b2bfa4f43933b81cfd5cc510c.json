@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-09-29T00:00:00+00:00",
     "PcReleaseDate": "2023-09-29T00:00:00+00:00",
@@ -2163,9 +2163,9 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 55461,
+  "EOS_Progressed": 55462,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1502,
+  "EOS_NewPlayers": 1495,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10328,6 +10328,11 @@
       "Time": "2023-11-30T03:03:55.9777091+00:00",
       "NumProgressed": 55461,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T04:03:46.5929796+00:00",
+      "NumProgressed": 55462,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -10356,7 +10361,7 @@
       "Name": "Bullseye",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 4991
+      "UsersEstimate": 4992
     },
     {
       "ID": "achievement_12",
@@ -10364,7 +10369,7 @@
       "Name": "PlayStyles\u002B",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 35495
+      "UsersEstimate": 35496
     },
     {
       "ID": "achievement_13",
@@ -10380,7 +10385,7 @@
       "Name": "The Alchemist",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 27730
+      "UsersEstimate": 27731
     },
     {
       "ID": "achievement_15",
@@ -10404,7 +10409,7 @@
       "Name": "One Moment Please!",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 32722
+      "UsersEstimate": 32723
     },
     {
       "ID": "achievement_18",
@@ -10412,7 +10417,7 @@
       "Name": "Welcome to the Big Leagues!",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 26621
+      "UsersEstimate": 26622
     },
     {
       "ID": "achievement_19",
@@ -10460,7 +10465,7 @@
       "Name": "Graduation Day",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 26621
+      "UsersEstimate": 26622
     },
     {
       "ID": "achievement_24",
@@ -10532,7 +10537,7 @@
       "Name": "Dazzling Personality",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 12201
+      "UsersEstimate": 12202
     },
     {
       "ID": "achievement_32",
@@ -10628,7 +10633,7 @@
       "Name": "Dead-ball specialist",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 32722
+      "UsersEstimate": 32723
     },
     {
       "ID": "achievement_7",
@@ -10644,7 +10649,7 @@
       "Name": "Power Shot",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 41041
+      "UsersEstimate": 41042
     },
     {
       "ID": "achievement_9",
@@ -10659,7 +10664,7 @@
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 55461,
+      "Progressed": 55462,
       "Completed": 0
     }
   ],
@@ -10667,8 +10672,8 @@
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
   "LastChanged": "2023-11-30T02:59:34.7064198+00:00",
-  "LastChanged_Achievements": "2023-11-30T03:03:55.9777086+00:00",
+  "LastChanged_Achievements": "2023-11-30T04:03:46.5929792+00:00",
   "LastUpdate_AppInfo": "2023-11-24T04:57:18.8436707+00:00",
-  "LastUpdate_Ratings": "2023-11-30T02:59:34.7064203+00:00",
-  "LastUpdate_Achievements": "2023-11-30T03:03:55.9778009+00:00"
+  "LastUpdate_Ratings": "2023-11-30T03:59:23.1468155+00:00",
+  "LastUpdate_Achievements": "2023-11-30T04:03:46.5930405+00:00"
 }

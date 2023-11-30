@@ -6,16 +6,16 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~727,120 |
-| The Blues | 85.00% | ~624,295 |
-| Fast | 66.00% | ~484,747 |
+| Out of bed | 99.00% | ~727,121 |
+| The Blues | 85.00% | ~624,296 |
+| Fast | 66.00% | ~484,748 |
 | Healthbar | 55.00% | ~403,956 |
-| Force Cube | 53.00% | ~389,266 |
-| Double Jump | 48.00% | ~352,543 |
+| Force Cube | 53.00% | ~389,267 |
+| Double Jump | 48.00% | ~352,544 |
 | Regeneration | 47.00% | ~345,199 |
 | Triple Jump | 43.00% | ~315,820 |
-| Climb the hill | 42.00% | ~308,475 |
-| Through the fire pipe | 39.00% | ~286,441 |
+| Climb the hill | 42.00% | ~308,476 |
+| Through the fire pipe | 39.00% | ~286,442 |
 | MacGuffin | 38.00% | ~279,097 |
 | Just once | 37.00% | ~271,752 |
 | Armor | 30.00% | ~220,340 |
@@ -26,17 +26,17 @@ Number of Ratings: 25,175  (23.09.2022)
 | Telefrag | 23.00% | ~168,927 |
 | Freed from prison | 21.00% | ~154,238 |
 | Stomp | 21.00% | ~154,238 |
-| Double Health | 19.00% | ~139,548 |
+| Double Health | 19.00% | ~139,549 |
 | Green Keycard | 18.00% | ~132,204 |
 | Buckle | 17.00% | ~124,859 |
-| Rattle Hag | 16.00% | ~117,514 |
+| Rattle Hag | 16.00% | ~117,515 |
 | All Shells | 15.00% | ~110,170 |
 | Beam | 14.00% | ~102,825 |
-| Health Drink | 13.00% | ~95,480 |
-| Helped a star | 13.00% | ~95,480 |
-| 9 | 13.00% | ~95,480 |
-| Purple Cube | 13.00% | ~95,480 |
-| Supraball Noob | 13.00% | ~95,480 |
+| Health Drink | 13.00% | ~95,481 |
+| Helped a star | 13.00% | ~95,481 |
+| 9 | 13.00% | ~95,481 |
+| Purple Cube | 13.00% | ~95,481 |
+| Supraball Noob | 13.00% | ~95,481 |
 | Strong | 12.00% | ~88,136 |
 | Blue King's lair | 11.00% | ~80,791 |
 | Payback | 11.00% | ~80,791 |
@@ -44,13 +44,13 @@ Number of Ratings: 25,175  (23.09.2022)
 | Got the gun back | 11.00% | ~80,791 |
 | Infiltrated | 11.00% | ~80,791 |
 | Robbed | 11.00% | ~80,791 |
-| Fire Flies | 10.00% | ~73,446 |
-| Cave Flies | 10.00% | ~73,446 |
-| Gold Scam | 10.00% | ~73,446 |
-| Gold Scam Uncovered | 10.00% | ~73,446 |
-| Panic Lights | 10.00% | ~73,446 |
-| Translocator | 10.00% | ~73,446 |
-| Yellow Shot Button | 10.00% | ~73,446 |
+| Fire Flies | 10.00% | ~73,447 |
+| Cave Flies | 10.00% | ~73,447 |
+| Gold Scam | 10.00% | ~73,447 |
+| Gold Scam Uncovered | 10.00% | ~73,447 |
+| Panic Lights | 10.00% | ~73,447 |
+| Translocator | 10.00% | ~73,447 |
+| Yellow Shot Button | 10.00% | ~73,447 |
 | Moon Door | 9.00% | ~66,102 |
 | Momentum | 9.00% | ~66,102 |
 | Through the tiny pipe | 9.00% | ~66,102 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~734 |
 | DLC: Top of the world | 0.10% | ~734 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 734,465 (Ranked 20)  
+Progressed: 734,466 (Ranked 20)  
 Completed: 764 (0.10%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 764 (0.10%) (Ranked 287)
 | 2023-11-27 | 734,275 | 764 |
 | 2023-11-28 | 734,356 | 764 |
 | 2023-11-29 | 734,455 | 764 |
-| 2023-11-30 | 734,465 | 764 |
+| 2023-11-30 | 734,466 | 764 |
 ## Awards
 Max (Challenging Puzzles): 7,736  (Ranked 50)  
 Sum: 10,094 (Ranked 91)  

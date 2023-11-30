@@ -6,7 +6,7 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 7.00% | ~1,088 |
+| Play a Single Player Game | 7.00% | ~1,089 |
 | Explorer | 6.00% | ~933 |
 | Settler | 6.00% | ~933 |
 | Friendly Family | 6.00% | ~933 |
@@ -25,31 +25,31 @@ Number of Ratings: 1,307  (23.09.2022)
 | Judaism | 4.00% | ~622 |
 | Naming Landmarks | 4.00% | ~622 |
 | Trade Caravan | 4.00% | ~622 |
-| Ambitious | 3.00% | ~466 |
-| Brilliant | 3.00% | ~466 |
-| Enlightened | 3.00% | ~466 |
-| Fountainhead | 3.00% | ~466 |
-| Glorious | 3.00% | ~466 |
-| Keystone | 3.00% | ~466 |
-| Magnificent | 3.00% | ~466 |
-| Warrior | 3.00% | ~466 |
-| Wise | 3.00% | ~466 |
-| Developing Cities | 3.00% | ~466 |
-| Strong Cities | 3.00% | ~466 |
-| Able Difficulty | 3.00% | ~466 |
-| Furious Family | 3.00% | ~466 |
-| Great Ziggurat | 3.00% | ~466 |
-| Ishtar Gate | 3.00% | ~466 |
-| Lighthouse | 3.00% | ~466 |
-| Pyramids | 3.00% | ~466 |
-| Learn to Play 1 | 3.00% | ~466 |
-| Christianity | 3.00% | ~466 |
-| Babylonian Paganism | 3.00% | ~466 |
-| Carthaginian Paganism | 3.00% | ~466 |
-| Egyptian Paganism | 3.00% | ~466 |
-| Greek Paganism | 3.00% | ~466 |
-| Roman Paganism | 3.00% | ~466 |
-| Zoroastrianism | 3.00% | ~466 |
+| Ambitious | 3.00% | ~467 |
+| Brilliant | 3.00% | ~467 |
+| Enlightened | 3.00% | ~467 |
+| Fountainhead | 3.00% | ~467 |
+| Glorious | 3.00% | ~467 |
+| Keystone | 3.00% | ~467 |
+| Magnificent | 3.00% | ~467 |
+| Warrior | 3.00% | ~467 |
+| Wise | 3.00% | ~467 |
+| Developing Cities | 3.00% | ~467 |
+| Strong Cities | 3.00% | ~467 |
+| Able Difficulty | 3.00% | ~467 |
+| Furious Family | 3.00% | ~467 |
+| Great Ziggurat | 3.00% | ~467 |
+| Ishtar Gate | 3.00% | ~467 |
+| Lighthouse | 3.00% | ~467 |
+| Pyramids | 3.00% | ~467 |
+| Learn to Play 1 | 3.00% | ~467 |
+| Christianity | 3.00% | ~467 |
+| Babylonian Paganism | 3.00% | ~467 |
+| Carthaginian Paganism | 3.00% | ~467 |
+| Egyptian Paganism | 3.00% | ~467 |
+| Greek Paganism | 3.00% | ~467 |
+| Roman Paganism | 3.00% | ~467 |
+| Zoroastrianism | 3.00% | ~467 |
 | Regicide | 2.00% | ~311 |
 | Hanging Gardens in Babylon | 2.00% | ~311 |
 | Beloved | 2.00% | ~311 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,550 (Ranked 152)  
+Progressed: 15,551 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -573,7 +573,7 @@ Completed: 5 (0.03%) (Ranked 326)
 | 2023-11-27 | 15,525 | 5 |
 | 2023-11-28 | 15,534 | 5 |
 | 2023-11-29 | 15,545 | 5 |
-| 2023-11-30 | 15,550 | 5 |
+| 2023-11-30 | 15,551 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,882 (Ranked 218)  

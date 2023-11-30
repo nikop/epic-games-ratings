@@ -42,9 +42,9 @@ Rating: 4.61 (Ranked 386)
 | Prometheus Avenged | 0.80% | ~44 |
 | A Conqueror's Cohort | 0.80% | ~44 |
 | The Creator | 0.70% | ~39 |
+| Lord of Chaos | 0.60% | ~33 |
 | The Eternal Court | 0.60% | ~33 |
 | God Emperor | 0.50% | ~28 |
-| Lord of Chaos | 0.50% | ~28 |
 | Eternal Lord | 0.50% | ~28 |
 | Manufactured War | 0.50% | ~28 |
 | Pruning for Progress | 0.50% | ~28 |

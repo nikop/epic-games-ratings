@@ -26,7 +26,7 @@ Rating: 4.55 (Ranked 506)
 | Return Power To The Depths | 36.00% | ~783 |
 | Defeat Ratnor Rodentson | 30.00% | ~652 |
 | Return the Statues | 27.00% | ~587 |
-| Defeat Rattus Augustail | 26.00% | ~566 |
+| Defeat Rattus Augustail | 27.00% | ~587 |
 | Complete the Chefs Book | 25.00% | ~544 |
 | Complete Ranger Faction | 21.00% | ~457 |
 | Defeat Avor Warden of the Northern Wastes | 20.00% | ~435 |

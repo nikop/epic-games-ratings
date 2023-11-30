@@ -2,9 +2,9 @@
   "ID": "ce6933f42c924ff8af432359d83ddd7e",
   "Name": "Mystery in the Office",
   "ProductSlug": "mystery-in-the-office-f629ad",
-  "Ranking_EOS_Progress": 252,
+  "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 1178,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 4.33,
   "EosHistory": [
@@ -2613,9 +2613,9 @@
       "ID": "ACH_FRUIT_BOWLS",
       "SetID": "6f5dahd",
       "Name": "An apple a day",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 75,
-      "UsersEstimate": 636
+      "UsersEstimate": 648
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
@@ -2661,9 +2661,9 @@
       "ID": "ACH_THE_END",
       "SetID": "6f5dahd",
       "Name": "Exit",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 65,
-      "UsersEstimate": 648
+      "UsersEstimate": 660
     }
   ],
   "AchievementSets": [
@@ -2676,8 +2676,8 @@
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-30T03:08:47.019951+00:00",
+  "LastChanged_Achievements": "2023-11-30T04:09:04.1328246+00:00",
   "LastUpdate_AppInfo": "2023-11-24T16:56:56.882422+00:00",
-  "LastUpdate_Ratings": "2023-11-30T02:59:12.0897666+00:00",
-  "LastUpdate_Achievements": "2023-11-30T03:08:47.0199725+00:00"
+  "LastUpdate_Ratings": "2023-11-30T03:59:02.6190606+00:00",
+  "LastUpdate_Achievements": "2023-11-30T04:09:04.1328419+00:00"
 }

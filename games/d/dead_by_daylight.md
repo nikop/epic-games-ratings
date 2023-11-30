@@ -8,12 +8,14 @@ Number of Ratings: 70,340  (23.09.2022)
 | ---- | ---------- | ----- |
 | It wakes | 0.30% | ~3,163 |
 | Skillful | 0.30% | ~3,163 |
+| Medic | 0.20% | ~2,109 |
 | Handyman | 0.20% | ~2,109 |
 | Zealous | 0.20% | ~2,109 |
 | Not half bad | 0.20% | ~2,109 |
 | Apt Survivor | 0.20% | ~2,109 |
 | Survival Treasures | 0.20% | ~2,109 |
 | I | 0.20% | ~2,109 |
+| Sorted | 0.20% | ~2,109 |
 | Resurgence | 0.20% | ~2,109 |
 | Make Some Noise | 0.20% | ~2,109 |
 | The Grand Sacrifice | 0.10% | ~1,054 |
@@ -32,7 +34,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | The Key to Escape | 0.10% | ~1,054 |
 | I've got your back | 0.10% | ~1,054 |
 | No one left behind | 0.10% | ~1,054 |
-| Medic | 0.10% | ~1,054 |
 | Nerves of steel | 0.10% | ~1,054 |
 | Perfect Escape | 0.10% | ~1,054 |
 | Perfect Killing | 0.10% | ~1,054 |
@@ -79,7 +80,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Skilled Huntress | 0.10% | ~1,054 |
 | Adept Huntress | 0.10% | ~1,054 |
 | Cottage Owner | 0.10% | ~1,054 |
-| Sorted | 0.10% | ~1,054 |
 | Adept David | 0.10% | ~1,054 |
 | Butcherin' | 0.10% | ~1,054 |
 | Texas BBQ | 0.10% | ~1,054 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,054 |
 | Adept Good Guy | 0.10% | ~1,054 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,054,288 (Ranked 14)  
+Progressed: 1,054,401 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -463,7 +463,7 @@ Completed: 61 (0.01%) (Ranked 342)
 | 2023-11-27 | 1,048,888 | 61 |
 | 2023-11-28 | 1,050,827 | 61 |
 | 2023-11-29 | 1,053,910 | 61 |
-| 2023-11-30 | 1,054,288 | 61 |
+| 2023-11-30 | 1,054,401 | 61 |
 ## Awards
 Max (Diverse Characters): 36,896  (Ranked 15)  
 Sum: 280,728 (Ranked 12)  

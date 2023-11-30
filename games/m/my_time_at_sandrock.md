@@ -1,7 +1,7 @@
 # My Time at Sandrock
 [Store](https://store.epicgames.com/en-US/p/my-time-at-sandrock)  
 [View Rawdata](../../db/m/my_time_at_sandrock.json)  
-Rating: 4.68 (Ranked 255)  
+Rating: 4.68 (Ranked 254)  
 Number of Ratings: 892  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,7 +9,7 @@ Number of Ratings: 892  (23.09.2022)
 | Adept Assembler | 226.00% | ~1,107 |
 | Iron Chef | 163.00% | ~799 |
 | Greeno-B-Gone | 120.00% | ~588 |
-| Super Spelunker | 114.00% | ~559 |
+| Super Spelunker | 115.00% | ~564 |
 | Your Especially Earned Trajectory | 98.00% | ~480 |
 | The Little Wood that Could | 87.00% | ~426 |
 | One of the Cool Kids | 75.00% | ~368 |

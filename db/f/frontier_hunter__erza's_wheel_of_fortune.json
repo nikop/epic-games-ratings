@@ -3,9 +3,9 @@
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 321,
-  "Ranking_EOS_Completed": 250,
+  "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 444,
+  "EOS_Progressed": 445,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 270,
+  "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.23,
+  "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:54.4863714+00:00",
@@ -1362,6 +1362,11 @@
       "Time": "2023-11-30T03:05:46.8160683+00:00",
       "NumProgressed": 444,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T04:05:25.8640727+00:00",
+      "NumProgressed": 445,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1373,7 +1378,7 @@
       "Name": "Travel Streamer",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1387,9 +1392,9 @@
       "ID": "ACHIEVEMENT_11",
       "SetID": "7pimpda",
       "Name": "Guardian",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 107
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -1461,7 +1466,7 @@
       "Name": "Training Simulation",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1509,7 +1514,7 @@
       "Name": "Beginner Artificer",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -1629,7 +1634,7 @@
       "Name": "Storm Traveller",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -1707,9 +1712,9 @@
       "ID": "ACHIEVEMENT_7",
       "SetID": "7pimpda",
       "Name": "Apostle of Flame",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 160
+      "UsersEstimate": 165
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -1717,7 +1722,7 @@
       "Name": "Seal Breaker",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -1732,7 +1737,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 444,
+      "Progressed": 445,
       "Completed": 1
     }
   ],
@@ -1740,8 +1745,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-30T03:05:46.8160681+00:00",
+  "LastChanged_Achievements": "2023-11-30T04:05:25.8640725+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-11-30T02:59:02.1697712+00:00",
-  "LastUpdate_Achievements": "2023-11-30T03:05:46.8161083+00:00"
+  "LastUpdate_Ratings": "2023-11-30T03:58:53.5175533+00:00",
+  "LastUpdate_Achievements": "2023-11-30T04:05:25.8641088+00:00"
 }

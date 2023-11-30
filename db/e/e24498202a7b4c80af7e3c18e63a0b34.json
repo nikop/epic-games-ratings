@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7116,
+  "EOS_Progressed": 7117,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -6449,6 +6449,11 @@
       "Time": "2023-11-30T03:04:34.3005381+00:00",
       "NumProgressed": 7116,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-11-30T04:04:20.7328576+00:00",
+      "NumProgressed": 7117,
+      "NumCompleted": 42
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -6461,7 +6466,7 @@
       "Name": "First of Many",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 6191
+      "UsersEstimate": 6192
     },
     {
       "ID": "achievement_01_02",
@@ -6477,7 +6482,7 @@
       "Name": "Brand New Ride",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 4554
+      "UsersEstimate": 4555
     },
     {
       "ID": "achievement_01_04",
@@ -6485,7 +6490,7 @@
       "Name": "Bzzzt",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 5266
+      "UsersEstimate": 5267
     },
     {
       "ID": "achievement_01_05",
@@ -6517,7 +6522,7 @@
       "Name": "Trophy Collector",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 5337
+      "UsersEstimate": 5338
     },
     {
       "ID": "achievement_01_09",
@@ -6573,7 +6578,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1921
+      "UsersEstimate": 1922
     },
     {
       "ID": "achievement_02_06",
@@ -6597,7 +6602,7 @@
       "Name": "Car Specialist",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "achievement_03_01",
@@ -6621,7 +6626,7 @@
       "Name": "Morocco - Check!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "achievement_03_04",
@@ -6645,7 +6650,7 @@
       "Name": "Passport Complete",
       "Percentage": 3,
       "XP": 125,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "achievement_03_07",
@@ -6653,7 +6658,7 @@
       "Name": "Golden Amateur Champion",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "achievement_03_08",
@@ -6677,7 +6682,7 @@
       "Name": "Customization Collector",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "achievement_03_11",
@@ -6709,7 +6714,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3771
+      "UsersEstimate": 3772
     },
     {
       "ID": "achievement_04_04",
@@ -6725,7 +6730,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 2419
+      "UsersEstimate": 2420
     },
     {
       "ID": "achievement_04_06",
@@ -6741,7 +6746,7 @@
       "Name": "Nitro Saver",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 3629
+      "UsersEstimate": 3630
     },
     {
       "ID": "achievement_04_08",
@@ -6749,7 +6754,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 6120
+      "UsersEstimate": 6121
     },
     {
       "ID": "achievement_04_09",
@@ -6764,7 +6769,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 7116,
+      "Progressed": 7117,
       "Completed": 42
     }
   ],
@@ -6772,8 +6777,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-11-30T01:44:39.305196+00:00",
-  "LastChanged_Achievements": "2023-11-30T03:04:34.3005376+00:00",
+  "LastChanged_Achievements": "2023-11-30T04:04:20.7328571+00:00",
   "LastUpdate_AppInfo": "2023-11-23T21:57:06.7248226+00:00",
-  "LastUpdate_Ratings": "2023-11-30T02:57:31.8252089+00:00",
-  "LastUpdate_Achievements": "2023-11-30T03:04:34.3005794+00:00"
+  "LastUpdate_Ratings": "2023-11-30T03:57:34.5659142+00:00",
+  "LastUpdate_Achievements": "2023-11-30T04:04:20.7329029+00:00"
 }

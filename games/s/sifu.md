@@ -28,11 +28,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Old Child | 0.50% | ~3,588 |
 | Take damage to save time | 0.50% | ~3,588 |
 | Martial Hub | 0.50% | ~135 |
-| Scareless | 0.40% | ~2,870 |
-| Dance of the Praying Mantis | 0.40% | ~2,870 |
-| Qi Gong: Mind | 0.40% | ~2,870 |
-| I know Kung-Fu | 0.40% | ~2,870 |
-| Kung-Fu Tussle | 0.40% | ~2,870 |
+| Scareless | 0.40% | ~2,871 |
+| Dance of the Praying Mantis | 0.40% | ~2,871 |
+| Qi Gong: Mind | 0.40% | ~2,871 |
+| I know Kung-Fu | 0.40% | ~2,871 |
+| Kung-Fu Tussle | 0.40% | ~2,871 |
 | Bloody Sport | 0.40% | ~108 |
 | Muk Yan Master | 0.30% | ~2,153 |
 | Tiger on Fire | 0.30% | ~2,153 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,625 (Ranked 22)  
+Progressed: 717,627 (Ranked 22)  
 Completed: 12,941 (1.80%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 12,941 (1.80%) (Ranked 132)
 | 2023-11-27 | 717,516 | 12,940 |
 | 2023-11-28 | 717,575 | 12,941 |
 | 2023-11-29 | 717,624 | 12,941 |
-| 2023-11-30 | 717,625 | 12,941 |
+| 2023-11-30 | 717,627 | 12,941 |
 ## Awards
 Max (Great Boss Battles): 6,858  (Ranked 55)  
 Sum: 12,016 (Ranked 83)  

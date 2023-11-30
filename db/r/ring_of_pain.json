@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 279,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3508,9 +3508,9 @@
       "Count": 745
     }
   ],
-  "EOS_Progressed": 240414,
+  "EOS_Progressed": 240415,
   "EOS_Completed": 291,
-  "EOS_NewPlayers": 331,
+  "EOS_NewPlayers": 330,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -26638,6 +26638,11 @@
       "Time": "2023-11-30T03:09:19.3846616+00:00",
       "NumProgressed": 240414,
       "NumCompleted": 291
+    },
+    {
+      "Time": "2023-11-30T04:09:33.9285725+00:00",
+      "NumProgressed": 240415,
+      "NumCompleted": 291
     }
   ],
   "TotalAchievements": 138,
@@ -26807,9 +26812,9 @@
       "ID": "DIEBOSS",
       "SetID": "5l8oe0h",
       "Name": "To The Death!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 721
     },
     {
       "ID": "DIEHARD",
@@ -27752,13 +27757,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240414,
+      "Progressed": 240415,
       "Completed": 291
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1894,
+      "Progressed": 1895,
       "Completed": 392
     }
   ],
@@ -27766,8 +27771,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-29T21:57:08.2602483+00:00",
-  "LastChanged_Achievements": "2023-11-30T03:09:19.3846612+00:00",
+  "LastChanged_Achievements": "2023-11-30T04:09:33.928572+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.3413354+00:00",
-  "LastUpdate_Ratings": "2023-11-30T02:57:09.6411588+00:00",
-  "LastUpdate_Achievements": "2023-11-30T03:09:19.3849062+00:00"
+  "LastUpdate_Ratings": "2023-11-30T03:57:15.1427708+00:00",
+  "LastUpdate_Achievements": "2023-11-30T04:09:33.9288035+00:00"
 }

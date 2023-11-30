@@ -31,6 +31,7 @@ Number of Ratings: 292  (23.09.2022)
 | Versatile Wielder | 0.70% | ~2 |
 | Coming Through! | 0.70% | ~2 |
 | Don't Touch My Stuff | 0.70% | ~2 |
+| Ultra Kill | 0.70% | ~2 |
 | Grand Master | 0.70% | ~2 |
 | Hello There | 0.30% | ~1 |
 | Unlimited Power! | 0.30% | ~1 |
@@ -43,7 +44,6 @@ Number of Ratings: 292  (23.09.2022)
 | The Marsh Expands | 0.30% | ~1 |
 | Get Over Here! | 0.30% | ~1 |
 | Cleave | 0.30% | ~1 |
-| Ultra Kill | 0.30% | ~1 |
 | Bringer of Ruin | 0.00% | ~0 |
 | Attack Bonanza | 0.00% | ~0 |
 | The Price of Freedom | 0.00% | ~0 |

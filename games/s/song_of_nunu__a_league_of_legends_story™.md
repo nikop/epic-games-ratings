@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feels Familiar | 75.00% | ~769 |
-| I Broke It | 72.00% | ~738 |
+| I Broke It | 73.00% | ~748 |
 | Better On Ice | 68.00% | ~697 |
 | Notai Notes | 67.00% | ~687 |
 | Blue Dreams | 66.00% | ~676 |
@@ -20,7 +20,7 @@
 | Tear of Freedom | 51.00% | ~523 |
 | My Darkest Day | 48.00% | ~492 |
 | Rhythm Of Willump | 46.00% | ~472 |
-| The Relentless Storm | 45.00% | ~461 |
+| The Relentless Storm | 46.00% | ~472 |
 | A Tragic Reminder | 44.00% | ~451 |
 | 3000 Year Blackout | 43.00% | ~441 |
 | The Finisher | 41.00% | ~420 |

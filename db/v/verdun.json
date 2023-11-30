@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -1859,9 +1859,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 65042,
+  "EOS_Progressed": 65043,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 647,
+  "EOS_NewPlayers": 646,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26444,6 +26444,11 @@
       "Time": "2023-11-30T03:06:17.3279224+00:00",
       "NumProgressed": 65042,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-30T04:05:53.5202786+00:00",
+      "NumProgressed": 65043,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -26455,7 +26460,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 35773
+      "UsersEstimate": 35774
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -26711,7 +26716,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 20813
+      "UsersEstimate": 20814
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -26743,7 +26748,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 40976
+      "UsersEstimate": 40977
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -26799,7 +26804,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16260
+      "UsersEstimate": 16261
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -26823,7 +26828,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 50733
+      "UsersEstimate": 50734
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -26871,7 +26876,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8455
+      "UsersEstimate": 8456
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -26926,15 +26931,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 65042,
+      "Progressed": 65043,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-11-27T09:57:50.3082491+00:00",
-  "LastChanged_Achievements": "2023-11-30T03:06:17.3279219+00:00",
+  "LastChanged_Achievements": "2023-11-30T04:05:53.5202784+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:58.4579333+00:00",
-  "LastUpdate_Ratings": "2023-11-30T02:59:35.9633908+00:00",
-  "LastUpdate_Achievements": "2023-11-30T03:06:17.3281441+00:00"
+  "LastUpdate_Ratings": "2023-11-30T03:59:24.2588297+00:00",
+  "LastUpdate_Achievements": "2023-11-30T04:05:53.5204172+00:00"
 }

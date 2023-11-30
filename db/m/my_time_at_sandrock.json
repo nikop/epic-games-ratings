@@ -2,13 +2,13 @@
   "ID": "e65d8864e0e84d6eb7fe228b2041c15f",
   "Name": "My Time at Sandrock",
   "ProductSlug": "my-time-at-sandrock",
-  "Ranking_Rating": 255,
+  "Ranking_Rating": 254,
   "Ranking_Popularity": 196,
   "Ranking_PopularitySum": 240,
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
     "PcReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -4812,9 +4812,9 @@
       "ID": "F_RUIN_S_ALL",
       "SetID": "80dcan0",
       "Name": "Super Spelunker",
-      "Percentage": 114,
+      "Percentage": 115,
       "XP": 30,
-      "UsersEstimate": 559
+      "UsersEstimate": 564
     },
     {
       "ID": "M_ASSEMBLER_DIAGRAM",
@@ -5236,8 +5236,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-11-29T20:59:13.4548212+00:00",
-  "LastChanged_Achievements": "2023-11-30T03:06:30.4835146+00:00",
+  "LastChanged_Achievements": "2023-11-30T04:06:05.6073042+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:01.0814627+00:00",
-  "LastUpdate_Ratings": "2023-11-30T02:59:12.3643135+00:00",
-  "LastUpdate_Achievements": "2023-11-30T03:06:30.4835751+00:00"
+  "LastUpdate_Ratings": "2023-11-30T03:59:02.8884514+00:00",
+  "LastUpdate_Achievements": "2023-11-30T04:06:05.6073795+00:00"
 }

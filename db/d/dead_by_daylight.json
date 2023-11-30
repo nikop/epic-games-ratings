@@ -13184,9 +13184,9 @@
       "Count": 27339
     }
   ],
-  "EOS_Progressed": 1054288,
+  "EOS_Progressed": 1054401,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 15880,
+  "EOS_NewPlayers": 15913,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -38864,6 +38864,11 @@
       "Time": "2023-11-30T03:09:20.2025974+00:00",
       "NumProgressed": 1054288,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-11-30T04:09:34.6756471+00:00",
+      "NumProgressed": 1054401,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 232,
@@ -39001,9 +39006,9 @@
       "ID": "ACH_017",
       "SetID": "bdmlp8o",
       "Name": "Medic",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1054
+      "UsersEstimate": 2109
     },
     {
       "ID": "ACH_018",
@@ -39441,9 +39446,9 @@
       "ID": "ACH_072",
       "SetID": "bdmlp8o",
       "Name": "Sorted",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1054
+      "UsersEstimate": 2109
     },
     {
       "ID": "ACH_073",
@@ -40730,21 +40735,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1054288,
+      "Progressed": 1054401,
       "Completed": 66
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1054288,
+      "Progressed": 1054401,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-11-29T22:58:49.1571511+00:00",
-  "LastChanged_Achievements": "2023-11-30T03:09:20.2025969+00:00",
+  "LastChanged_Achievements": "2023-11-30T04:09:34.6756467+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:00.7078103+00:00",
-  "LastUpdate_Ratings": "2023-11-30T02:59:11.4086449+00:00",
-  "LastUpdate_Achievements": "2023-11-30T03:09:20.2031378+00:00"
+  "LastUpdate_Ratings": "2023-11-30T03:59:02.0048769+00:00",
+  "LastUpdate_Achievements": "2023-11-30T04:09:34.6761728+00:00"
 }

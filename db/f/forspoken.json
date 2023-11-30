@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -433,9 +433,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 43130,
+  "EOS_Progressed": 43132,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13723,6 +13723,11 @@
       "Time": "2023-11-30T01:53:09.1593135+00:00",
       "NumProgressed": 43130,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-30T04:05:45.0486485+00:00",
+      "NumProgressed": 43132,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -13894,7 +13899,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2156
+      "UsersEstimate": 2157
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -13950,7 +13955,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2156
+      "UsersEstimate": 2157
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -14157,22 +14162,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 43130,
+      "Progressed": 43132,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 7967,
-      "Completed": 7967
+      "Progressed": 7969,
+      "Completed": 7969
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-11-29T18:00:42.1149813+00:00",
-  "LastChanged_Achievements": "2023-11-30T03:06:08.0496156+00:00",
+  "LastChanged_Achievements": "2023-11-30T04:05:45.048648+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:10.8816772+00:00",
-  "LastUpdate_Ratings": "2023-11-30T03:02:42.1563384+00:00",
-  "LastUpdate_Achievements": "2023-11-30T03:06:08.0497125+00:00"
+  "LastUpdate_Ratings": "2023-11-30T04:00:30.3904992+00:00",
+  "LastUpdate_Achievements": "2023-11-30T04:05:45.0487353+00:00"
 }

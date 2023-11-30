@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -1059,9 +1059,9 @@
       "ID": "ACQUAINTANCE_EARL",
       "SetID": "aniflfk",
       "Name": "Holy Macaroni!",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 206
+      "UsersEstimate": 209
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -1099,9 +1099,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 132
+      "UsersEstimate": 135
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -1226,8 +1226,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-11-30T03:04:05.8415935+00:00",
+  "LastChanged_Achievements": "2023-11-30T04:03:55.4078593+00:00",
   "LastUpdate_AppInfo": "2023-11-29T20:57:25.9655457+00:00",
-  "LastUpdate_Ratings": "2023-11-30T03:02:57.2513855+00:00",
-  "LastUpdate_Achievements": "2023-11-30T03:04:05.8416113+00:00"
+  "LastUpdate_Ratings": "2023-11-30T04:02:52.0821439+00:00",
+  "LastUpdate_Achievements": "2023-11-30T04:03:55.407877+00:00"
 }

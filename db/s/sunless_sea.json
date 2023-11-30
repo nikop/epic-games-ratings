@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -754,9 +754,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 41388,
+  "EOS_Progressed": 41389,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 366,
+  "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -23509,6 +23509,11 @@
       "Time": "2023-11-30T02:30:05.9962732+00:00",
       "NumProgressed": 41388,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-30T04:06:00.2610574+00:00",
+      "NumProgressed": 41389,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -23648,7 +23653,7 @@
       "Name": "Never Stop Sinking...",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ach_die5",
@@ -23768,7 +23773,7 @@
       "Name": "His bones in whispers",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ach_portdeep",
@@ -23776,7 +23781,7 @@
       "Name": "The beauty of the deep",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ach_portdragon",
@@ -23784,7 +23789,7 @@
       "Name": "The dragon in the zee",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ach_portfish",
@@ -23792,7 +23797,7 @@
       "Name": "Thanks for all the fish",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ach_portknife",
@@ -23816,7 +23821,7 @@
       "Name": "Those are pearls that were his eyes",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ach_portregret",
@@ -23824,7 +23829,7 @@
       "Name": "No regrets",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ach_portrose",
@@ -23840,7 +23845,7 @@
       "Name": "Under the zee",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ach_scion",
@@ -23904,7 +23909,7 @@
       "Name": "Depth charge",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ach_underpressure",
@@ -23951,15 +23956,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 41388,
+      "Progressed": 41389,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-11-28T11:59:28.088711+00:00",
-  "LastChanged_Achievements": "2023-11-30T03:06:24.797653+00:00",
+  "LastChanged_Achievements": "2023-11-30T04:06:00.2610569+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:59.5207793+00:00",
-  "LastUpdate_Ratings": "2023-11-30T02:59:37.7670211+00:00",
-  "LastUpdate_Achievements": "2023-11-30T03:06:24.797828+00:00"
+  "LastUpdate_Ratings": "2023-11-30T03:59:26.0554788+00:00",
+  "LastUpdate_Achievements": "2023-11-30T04:06:00.2611898+00:00"
 }

@@ -34,6 +34,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Expensive Look | 0.40% | ~8 |
 | What Doesn't Kill You | 0.40% | ~8 |
 | Consecutive Curses | 0.30% | ~721 |
+| To The Death! | 0.30% | ~721 |
 | Dig Your Own Grave | 0.30% | ~721 |
 | Well Prepared | 0.30% | ~721 |
 | Who To Trust? | 0.30% | ~721 |
@@ -58,7 +59,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shadow Spreads | 0.20% | ~481 |
 | Max Damage! | 0.20% | ~481 |
 | A Rough Road | 0.20% | ~481 |
-| To The Death! | 0.20% | ~481 |
 | Berzerker | 0.20% | ~481 |
 | Don't Ignore Me! | 0.20% | ~481 |
 | All Consuming | 0.20% | ~481 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,414 (Ranked 62)  
+Progressed: 240,415 (Ranked 62)  
 Completed: 291 (0.12%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -369,7 +369,7 @@ Completed: 291 (0.12%) (Ranked 279)
 | 2023-11-27 | 240,313 | 291 |
 | 2023-11-28 | 240,354 | 291 |
 | 2023-11-29 | 240,403 | 291 |
-| 2023-11-30 | 240,414 | 291 |
+| 2023-11-30 | 240,415 | 291 |
 ## Awards
 Max (Great for Beginners): 1,534  (Ranked 132)  
 Sum: 13,236 (Ranked 78)  
