@@ -80,7 +80,7 @@
 | [Redfall](../games/r/redfall.md) | 66 | 1,000 |
 | [Zombie Army 4: Dead War](../games/z/zombie_army_4__dead_war.md) | 66 | 1,000 |
 | [Darkest Dungeon II](../games/d/darkest_dungeon_ii.md) | 65 | 1,000 |
-| [Dying Light 2 Stay Human - Black Friday Edition](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 |
+| [Dying Light 2 Stay Human](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 |
 | [Deadwater Saloon](../games/0/0011a38fecb741dc9923879a4f490d42.md) | 64 | 1,000 |
 | [Revans](../games/d/dc5c7673e02543d6b57e9579d970702f.md) | 64 | 1,000 |
 | [DEATH STRANDING](../games/d/death_stranding.md) | 63 | 1,000 |
@@ -220,6 +220,7 @@
 | [Dice Legacy](../games/d/dice_legacy.md) | 45 | 1,000 |
 | [Frontier Hunter: Erza's Wheel of Fortune](../games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 45 | 1,000 |
 | [Ghostrunner](../games/g/ghostrunner.md) | 45 | 1,195 |
+| [GRIME](../games/g/grime.md) | 45 | 1,200 |
 | [Hogwarts Legacy](../games/h/hogwarts_legacy.md) | 45 | 1,000 |
 | [Isonzo](../games/i/isonzo.md) | 45 | 1,000 |
 | [LEGO® Star Wars™: The Skywalker Saga](../games/l/lego®_star_wars™__the_skywalker_saga.md) | 45 | 1,000 |
@@ -784,6 +785,7 @@
 | [Wild Animal Sports Day](../games/w/wild_animal_sports_day.md) | 10 | 1,000 |
 | [ALAN-13 Reformation](../games/f/f514ca89c14c49858748fd9569d35d52.md) | 9 | 1,000 |
 | [Doodle Devil](../games/d/doodle_devil.md) | 9 | 1,000 |
+| [Horse Racing](../games/e/e4e71e80487245b682ed399fa518964e.md) | 9 | 1,000 |
 | [Magnetism](../games/1/1f5c217a910f4c00aaee91c20b34bb46.md) | 9 | 1,000 |
 | [Supfly Delivery Simulator](../games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 9 | 1,000 |
 | [Switchball HD](../games/s/switchball_hd.md) | 9 | 1,000 |

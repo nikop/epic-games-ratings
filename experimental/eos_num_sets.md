@@ -13,7 +13,7 @@
 | [Dead by Daylight](../games/d/dead_by_daylight.md) | 232 | 5,585 | 2 |
 | [Dead Island 2](../games/d/dead_island_2.md) | 51 | 1,150 | 2 |
 | [Destiny 2](../games/d/destiny_2.md) | 23 | 1,240 | 2 |
-| [Dying Light 2 Stay Human - Black Friday Edition](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 | 2 |
+| [Dying Light 2 Stay Human](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 | 2 |
 | [Europa Universalis IV](../games/e/europa_universalis_iv.md) | 363 | 5,330 | 2 |
 | [Fae Farm](../games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 35 | 1,000 | 2 |
 | [Fallout: New Vegas](../games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 75 | 1,655 | 2 |
@@ -22,7 +22,7 @@
 | [Galactic Civilizations IV: Supernova](../games/g/galactic_civilizations_iv__supernova.md) | 77 | 1,060 | 2 |
 | [Ghostrunner](../games/g/ghostrunner.md) | 45 | 1,195 | 2 |
 | [Gotham Knights](../games/g/gotham_knights.md) | 61 | 1,390 | 2 |
-| [GRIME](../games/g/grime.md) | 0 | 0 | 2 |
+| [GRIME](../games/g/grime.md) | 45 | 1,200 | 2 |
 | [Hi-Fi RUSH](../games/h/hi-fi_rush.md) | 71 | 1,250 | 2 |
 | [High On Life](../games/h/high_on_life.md) | 44 | 1,195 | 2 |
 | [Homeworld: Deserts of Kharak](../games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 48 | 1,440 | 2 |

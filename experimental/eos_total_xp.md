@@ -33,7 +33,8 @@
 | [Remnant 2](../games/r/remnant_2.md) | 55 | 1,250 |
 | [Destiny 2](../games/d/destiny_2.md) | 23 | 1,240 |
 | [Rogue Legacy 2](../games/r/rogue_legacy_2.md) | 39 | 1,240 |
-| [Dying Light 2 Stay Human - Black Friday Edition](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 |
+| [Dying Light 2 Stay Human](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 |
+| [GRIME](../games/g/grime.md) | 45 | 1,200 |
 | [Stray Blade](../games/s/stray_blade.md) | 52 | 1,200 |
 | [The Expanse - A Telltale Series](../games/t/the_expanse_-_a_telltale_series.md) | 35 | 1,200 |
 | [Ghostrunner](../games/g/ghostrunner.md) | 45 | 1,195 |
@@ -363,6 +364,7 @@
 | [Horizon Chase Turbo](../games/h/horizon_chase_turbo.md) | 37 | 1,000 |
 | [HORSE CLUB Adventures](../games/3/3003b961602b4ecfa8dd7dd16a3646bc.md) | 27 | 1,000 |
 | [HORSE CLUB Adventures 2 - Hazelwood Stories](../games/f/f03926dee08f4c29b20d907c4cb5f9e4.md) | 42 | 1,000 |
+| [Horse Racing](../games/e/e4e71e80487245b682ed399fa518964e.md) | 9 | 1,000 |
 | [Horse Tales - Emerald Valley Ranch](../games/h/horse_tales_-_emerald_valley_ranch.md) | 33 | 1,000 |
 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](../games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 43 | 1,000 |
 | [Hotel Renovator](../games/h/hotel_renovator.md) | 27 | 1,000 |
