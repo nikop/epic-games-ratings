@@ -1,31 +1,31 @@
 # Love Is All Around
 [Store](https://store.epicgames.com/en-US/p/love-is-all-around-3a8046)  
 [View Rawdata](../../db/b/b7cca975adbf41e4a41f3ece9e61e08a.json)  
-Rating: 4.75 (Ranked 149)  
+Rating: 4.75 (Ranked 148)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 91.00% | ~9,462 |
-| I Challenge You To Save More Money! | 86.00% | ~8,942 |
-| I Love How Tough You Are | 72.00% | ~7,487 |
-| Wanna Come To My Place For Dinner? | 66.00% | ~6,863 |
-| What I Want Is You | 60.00% | ~6,239 |
-| To Be Or Not To Be | 57.00% | ~5,927 |
-| Are You Alright? | 50.00% | ~5,199 |
-| Love Actually | 48.00% | ~4,991 |
-| Drama King | 42.00% | ~4,367 |
-| You're Really Something Else | 37.00% | ~3,847 |
-| Go Clean up In Your Own Way | 36.00% | ~3,743 |
-| Happy Family | 35.00% | ~3,639 |
-| ONE PUNCH | 34.00% | ~3,535 |
-| FIRST LOVE | 34.00% | ~3,535 |
-| Drama CP: Reel to Real | 34.00% | ~3,535 |
-| Worthless Speech | 34.00% | ~3,535 |
-| Absolutely Elegant | 33.00% | ~3,431 |
-| Still Single | 32.00% | ~3,327 |
-| Go Get Some Fries On The Pier | 29.00% | ~3,015 |
-| Days Of Innocence | 29.00% | ~3,015 |
-| David | 29.00% | ~3,015 |
+| Last Night...Did We... | 91.00% | ~9,465 |
+| I Challenge You To Save More Money! | 86.00% | ~8,945 |
+| I Love How Tough You Are | 72.00% | ~7,489 |
+| Wanna Come To My Place For Dinner? | 66.00% | ~6,865 |
+| What I Want Is You | 60.00% | ~6,241 |
+| To Be Or Not To Be | 57.00% | ~5,929 |
+| Are You Alright? | 50.00% | ~5,200 |
+| Love Actually | 48.00% | ~4,992 |
+| Drama King | 42.00% | ~4,368 |
+| You're Really Something Else | 37.00% | ~3,848 |
+| Go Clean up In Your Own Way | 36.00% | ~3,744 |
+| Happy Family | 35.00% | ~3,640 |
+| ONE PUNCH | 34.00% | ~3,536 |
+| FIRST LOVE | 34.00% | ~3,536 |
+| Drama CP: Reel to Real | 34.00% | ~3,536 |
+| Worthless Speech | 34.00% | ~3,536 |
+| Absolutely Elegant | 33.00% | ~3,432 |
+| Still Single | 32.00% | ~3,328 |
+| Go Get Some Fries On The Pier | 29.00% | ~3,016 |
+| Days Of Innocence | 29.00% | ~3,016 |
+| David | 29.00% | ~3,016 |
 | All I Have Is Money | 25.00% | ~2,600 |
 | A Slap In The Face! | 25.00% | ~2,600 |
 | Lover In Dark Alley | 24.00% | ~2,496 |
@@ -48,7 +48,7 @@ Rating: 4.75 (Ranked 149)
 | Tall; Grande; Venti | 2.00% | ~208 |
 | Limerence | 2.00% | ~208 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,398 (Ranked 164)  
+Progressed: 10,401 (Ranked 164)  
 Completed: 176 (1.69%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,6 +102,7 @@ Completed: 176 (1.69%) (Ranked 136)
 | 2023-11-27 | 10,225 | 170 |
 | 2023-11-28 | 10,324 | 174 |
 | 2023-11-29 | 10,398 | 176 |
+| 2023-11-30 | 10,401 | 176 |
 ## Awards
 Max (Impact the Story): 23  (Ranked 534)  
 Sum: 23 (Ranked 537)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4362,
+  "EOS_Progressed": 4363,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1626,6 +1626,11 @@
       "Time": "2023-11-29T21:09:45.3177167+00:00",
       "NumProgressed": 4362,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-30T01:56:43.3011554+00:00",
+      "NumProgressed": 4363,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -1661,7 +1666,7 @@
       "Name": "Another one bites the dust",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACHIEVEMENT_BREAD1",
@@ -1773,7 +1778,7 @@
       "Name": "Experienced decorator",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACHIEVEMENT_ELECTION_FACTIONS",
@@ -1917,7 +1922,7 @@
       "Name": "An honorable Governor II",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACHIEVEMENT_PRESTIGE3",
@@ -1981,7 +1986,7 @@
       "Name": "Full-time job III",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED1",
@@ -2285,7 +2290,7 @@
       "Name": "Tax-man I",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "ACHIEVEMENT_TAXES2",
@@ -2309,7 +2314,7 @@
       "Name": "Tax-man IV",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACHIEVEMENT_TAXES5",
@@ -2341,7 +2346,7 @@
       "Name": "A time consuming game III",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACHIEVEMENT_TIME4",
@@ -2373,7 +2378,7 @@
       "Name": "Tools of the trade II",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACHIEVEMENT_TOOLS3",
@@ -2389,7 +2394,7 @@
       "Name": "A new beginning",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION02",
@@ -2444,15 +2449,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4362,
+      "Progressed": 4363,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-11-16T20:57:28.2396436+00:00",
-  "LastChanged_Achievements": "2023-11-30T00:08:49.1061917+00:00",
+  "LastChanged_Achievements": "2023-11-30T01:56:43.3011546+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:46.3467623+00:00",
-  "LastUpdate_Ratings": "2023-11-29T23:57:03.565881+00:00",
-  "LastUpdate_Achievements": "2023-11-30T00:08:49.106288+00:00"
+  "LastUpdate_Ratings": "2023-11-30T01:44:16.5285895+00:00",
+  "LastUpdate_Achievements": "2023-11-30T01:56:43.3012846+00:00"
 }

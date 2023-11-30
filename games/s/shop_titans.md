@@ -6,26 +6,26 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 6.00% | ~8,573 |
-| Basic in Bulk | 6.00% | ~8,573 |
-| Tinkle of Coins | 6.00% | ~8,573 |
-| Titan's First Steps | 6.00% | ~8,573 |
-| Disintermediation | 5.00% | ~7,144 |
-| Another Satisfied Customer | 4.00% | ~5,715 |
-| It's Free Real Estate | 4.00% | ~5,715 |
-| Budding Merchant | 4.00% | ~5,715 |
-| Capitalism Ho! | 4.00% | ~5,715 |
-| Own the Means of Production | 4.00% | ~5,715 |
-| The Daily Grind | 3.00% | ~4,286 |
-| One Easy Payment | 3.00% | ~4,286 |
-| Some Assembly Required | 3.00% | ~4,286 |
-| Bounty Hunters | 3.00% | ~4,286 |
-| Flooding the Market | 3.00% | ~4,286 |
-| Where it Hurts | 3.00% | ~4,286 |
-| Pretty Penny | 3.00% | ~4,286 |
-| One-Armed Bandit | 3.00% | ~4,286 |
-| Dungeon Imports | 3.00% | ~4,286 |
-| Through Repetition, Perfection | 3.00% | ~4,286 |
+| Sponsored by Argon | 6.00% | ~8,574 |
+| Basic in Bulk | 6.00% | ~8,574 |
+| Tinkle of Coins | 6.00% | ~8,574 |
+| Titan's First Steps | 6.00% | ~8,574 |
+| Disintermediation | 5.00% | ~7,145 |
+| Another Satisfied Customer | 4.00% | ~5,716 |
+| It's Free Real Estate | 4.00% | ~5,716 |
+| Budding Merchant | 4.00% | ~5,716 |
+| Capitalism Ho! | 4.00% | ~5,716 |
+| Own the Means of Production | 4.00% | ~5,716 |
+| The Daily Grind | 3.00% | ~4,287 |
+| One Easy Payment | 3.00% | ~4,287 |
+| Some Assembly Required | 3.00% | ~4,287 |
+| Bounty Hunters | 3.00% | ~4,287 |
+| Flooding the Market | 3.00% | ~4,287 |
+| Where it Hurts | 3.00% | ~4,287 |
+| Pretty Penny | 3.00% | ~4,287 |
+| One-Armed Bandit | 3.00% | ~4,287 |
+| Dungeon Imports | 3.00% | ~4,287 |
+| Through Repetition, Perfection | 3.00% | ~4,287 |
 | On the Path to Greatness | 2.00% | ~2,858 |
 | A Notch Above the Rest | 2.00% | ~2,858 |
 | Ascended | 2.00% | ~2,858 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~429 |
 | Capitalist Camaraderie | 0.20% | ~286 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,881 (Ranked 80)  
+Progressed: 142,894 (Ranked 80)  
 Completed: 289 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,20 +343,20 @@ Completed: 289 (0.20%) (Ranked 257)
 | 2023-11-27 | 142,546 | 278 |
 | 2023-11-28 | 142,735 | 284 |
 | 2023-11-29 | 142,879 | 289 |
-| 2023-11-30 | 142,881 | 289 |
+| 2023-11-30 | 142,894 | 289 |
 ## Awards
 Max (Great for Beginners): 4,855  (Ranked 75)  
-Sum: 27,625 (Ranked 50)  
+Sum: 27,630 (Ranked 50)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,855 |
 | This game is Relaxing | 4,049 |
 | This game has Quickly Understood Controls | 4,035 |
-| This game has Diverse Characters | 3,952 |
+| This game has Diverse Characters | 3,955 |
 | This game is Highly Recommended | 3,788 |
 | This game has Easy Combat | 3,734 |
-| This game has Playful Visuals | 3,212 |
+| This game has Playful Visuals | 3,214 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -664,3 +664,4 @@ Diff (max vs sum): 25
 | 2023-11-27 | 3.99 | - | 4,848 | 27,609 |
 | 2023-11-28 | 3.99 | - | 4,851 | 27,621 |
 | 2023-11-29 | 3.99 | - | 4,855 | 27,625 |
+| 2023-11-30 | 3.99 | - | 4,855 | 27,630 |

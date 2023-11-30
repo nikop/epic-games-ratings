@@ -20,6 +20,7 @@ Rating: 3.45 (Ranked 1,049)
 | Neighborhood Revitalization | 1.00% | ~18 |
 | Enter of Your Own Free Will | 1.00% | ~18 |
 | Welcome to the Neighborhood | 1.00% | ~18 |
+| Bad Wiring | 1.00% | ~18 |
 | Sic Transit Umbra | 1.00% | ~18 |
 | Radio Silence | 1.00% | ~18 |
 | Bell-ringer | 1.00% | ~18 |
@@ -28,7 +29,6 @@ Rating: 3.45 (Ranked 1,049)
 | Heart Attack | 1.00% | ~18 |
 | Skin of Their Teeth | 1.00% | ~18 |
 | Harvest’s End | 1.00% | ~18 |
-| Bad Wiring | 0.90% | ~16 |
 | Silence Is Golden | 0.80% | ~14 |
 | Helping Hand | 0.80% | ~14 |
 | Contingency Plans | 0.70% | ~12 |

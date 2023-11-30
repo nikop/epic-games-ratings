@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1473,
+  "EOS_Progressed": 1474,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
@@ -4394,6 +4394,11 @@
       "Time": "2023-11-29T20:09:06.2465964+00:00",
       "NumProgressed": 1473,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T01:56:41.8715021+00:00",
+      "NumProgressed": 1474,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4502,7 +4507,7 @@
       "Name": "Collector",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "achievement_21",
@@ -4606,7 +4611,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "achievement_33",
@@ -4630,7 +4635,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 1326
+      "UsersEstimate": 1327
     },
     {
       "ID": "achievement_36",
@@ -4646,15 +4651,15 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "achievement_38",
       "SetID": "271ol84",
       "Name": "Survivor",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 133
     },
     {
       "ID": "achievement_39",
@@ -4678,7 +4683,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "achievement_41",
@@ -4804,9 +4809,9 @@
       "ID": "achievement_55",
       "SetID": "cemm4l8",
       "Name": "Stop that Droid",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_56",
@@ -4846,7 +4851,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "achievement_60",
@@ -4909,13 +4914,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1473,
+      "Progressed": 1474,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1473,
+      "Progressed": 1474,
       "Completed": 1
     }
   ],
@@ -4923,8 +4928,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-30T00:08:47.6459805+00:00",
+  "LastChanged_Achievements": "2023-11-30T01:56:41.8715014+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:02.7370766+00:00",
-  "LastUpdate_Ratings": "2023-11-29T23:57:35.7828835+00:00",
-  "LastUpdate_Achievements": "2023-11-30T00:08:47.6460543+00:00"
+  "LastUpdate_Ratings": "2023-11-30T01:44:52.849559+00:00",
+  "LastUpdate_Achievements": "2023-11-30T01:56:41.8716466+00:00"
 }

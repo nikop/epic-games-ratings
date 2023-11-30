@@ -10,11 +10,11 @@ Number of Ratings: 892  (23.09.2022)
 | Iron Chef | 163.00% | ~799 |
 | Greeno-B-Gone | 120.00% | ~588 |
 | Super Spelunker | 114.00% | ~559 |
-| Your Especially Earned Trajectory | 97.00% | ~475 |
-| The Little Wood that Could | 86.00% | ~421 |
+| Your Especially Earned Trajectory | 98.00% | ~480 |
+| The Little Wood that Could | 87.00% | ~426 |
 | One of the Cool Kids | 75.00% | ~368 |
 | On that Grindset | 74.00% | ~363 |
-| No Mountain Wide Enough | 73.00% | ~358 |
+| No Mountain Wide Enough | 74.00% | ~363 |
 | Yakmel Whisperer | 71.00% | ~348 |
 | Diamonds are Forever | 69.00% | ~338 |
 | Pack Mule | 67.00% | ~328 |
@@ -28,9 +28,9 @@ Number of Ratings: 892  (23.09.2022)
 | Got Served | 57.00% | ~279 |
 | Officially Official | 54.00% | ~265 |
 | Mole Masher | 54.00% | ~265 |
+| Panda-kin | 53.00% | ~260 |
 | Builder of the Month | 53.00% | ~260 |
 | Better Late than Never | 53.00% | ~260 |
-| Panda-kin | 52.00% | ~255 |
 | Elementary, My Dear | 52.00% | ~255 |
 | Happier-est Place on Earth | 52.00% | ~255 |
 | You Don't Win Friends With Salad | 52.00% | ~255 |
@@ -39,13 +39,13 @@ Number of Ratings: 892  (23.09.2022)
 | Anti-Santa | 51.00% | ~250 |
 | Commissions, commissions...! | 50.00% | ~245 |
 | Martle's Dream | 50.00% | ~245 |
+| Waste Not Want Not | 50.00% | ~245 |
 | Lifeline Pipeline | 49.00% | ~240 |
 | Call Me Fishmael | 49.00% | ~240 |
-| Waste Not Want Not | 49.00% | ~240 |
 | Finishing Touches | 47.00% | ~230 |
-| Bridging the Gap | 44.00% | ~216 |
+| Bridging the Gap | 45.00% | ~220 |
 | Got the Flow Back | 42.00% | ~206 |
-| My Time Mansion | 39.00% | ~191 |
+| My Time Mansion | 40.00% | ~196 |
 | Who Ya Gonna Call...? | 39.00% | ~191 |
 | Sepia Toned Memories | 38.00% | ~186 |
 | Time Flies | 37.00% | ~181 |

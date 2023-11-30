@@ -4,7 +4,7 @@
   "ProductSlug": "arons-adventure-1e76cd",
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 121,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -687,9 +687,9 @@
       "ID": "SNEAKY",
       "SetID": "40o4f14",
       "Name": "Sneaky",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "SOUL",
@@ -734,8 +734,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-30T00:05:22.7544387+00:00",
-  "LastUpdate_AppInfo": "2023-11-22T23:57:14.5078939+00:00",
-  "LastUpdate_Ratings": "2023-11-29T23:58:40.0560488+00:00",
-  "LastUpdate_Achievements": "2023-11-30T00:05:22.7544655+00:00"
+  "LastChanged_Achievements": "2023-11-30T01:53:02.793132+00:00",
+  "LastUpdate_AppInfo": "2023-11-30T01:44:08.4871505+00:00",
+  "LastUpdate_Ratings": "2023-11-30T01:46:05.3961124+00:00",
+  "LastUpdate_Achievements": "2023-11-30T01:53:02.7931638+00:00"
 }

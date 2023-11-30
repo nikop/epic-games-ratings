@@ -15,8 +15,8 @@
 | Bad Elves Go Everywhere | 65.00% | ~325 |
 | Master of Magic | 63.00% | ~315 |
 | Heroes’ Gorge | 60.00% | ~300 |
+| Magic Accidents | 58.00% | ~290 |
 | Unicorn steaks – fresh off the hoof! | 58.00% | ~290 |
-| Magic Accidents | 57.00% | ~285 |
 | Trap Master | 55.00% | ~275 |
 | Minions, Minions! | 53.00% | ~265 |
 | The Ascent | 52.00% | ~260 |
@@ -44,9 +44,9 @@
 | Stop Tanos! | 17.00% | ~85 |
 | Doom Hill | 17.00% | ~85 |
 | Sacrificial Pit = Garbage Disposal? | 15.00% | ~75 |
+| Bonus Evilness | 15.00% | ~75 |
 | Sabotage! | 15.00% | ~75 |
 | Brimstone Shaken, Not Stirred | 15.00% | ~75 |
-| Bonus Evilness | 14.00% | ~70 |
 | The Rune Sockets of Finitude (Part 1) | 14.00% | ~70 |
 | My Little Torture Chamber | 13.00% | ~65 |
 | Raiders of the Lost Stone | 13.00% | ~65 |

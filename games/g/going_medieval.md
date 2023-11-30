@@ -6,26 +6,26 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Having A Field Day | 76.00% | ~5,344 |
-| Get A Room | 75.00% | ~5,274 |
-| Reap What You Sow | 73.00% | ~5,133 |
-| The First Day | 69.00% | ~4,852 |
-| Green Thumb | 67.00% | ~4,711 |
-| Novice Researcher | 67.00% | ~4,711 |
+| Having A Field Day | 76.00% | ~5,345 |
+| Get A Room | 75.00% | ~5,275 |
+| Reap What You Sow | 73.00% | ~5,134 |
+| The First Day | 69.00% | ~4,853 |
+| Green Thumb | 67.00% | ~4,712 |
+| Novice Researcher | 67.00% | ~4,712 |
 | Home Cooked Meal | 61.00% | ~4,290 |
 | Onward | 58.00% | ~4,079 |
 | The First Week | 55.00% | ~3,868 |
 | Beam Me Up | 52.00% | ~3,657 |
 | Studious Researcher | 52.00% | ~3,657 |
-| Putting Food on the Table | 47.00% | ~3,305 |
-| Adept Researcher | 45.00% | ~3,164 |
-| Retribution | 42.00% | ~2,953 |
-| ...And Don’t Come Back! | 42.00% | ~2,953 |
-| Feast or Famine | 38.00% | ~2,672 |
-| Heating Up | 32.00% | ~2,250 |
+| Putting Food on the Table | 47.00% | ~3,306 |
+| Adept Researcher | 45.00% | ~3,165 |
+| Retribution | 42.00% | ~2,954 |
+| ...And Don’t Come Back! | 42.00% | ~2,954 |
+| Feast or Famine | 38.00% | ~2,673 |
+| Heating Up | 32.00% | ~2,251 |
 | Luminary Researcher | 31.00% | ~2,180 |
-| Fit For A King | 29.00% | ~2,039 |
-| Winter Is Coming | 29.00% | ~2,039 |
+| Fit For A King | 29.00% | ~2,040 |
+| Winter Is Coming | 29.00% | ~2,040 |
 | Winter Is Here | 25.00% | ~1,758 |
 | Disassembled | 22.00% | ~1,547 |
 | A Party Now | 22.00% | ~1,547 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~141 |
 | Wabbit Season | 0.50% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,032 (Ranked 182)  
+Progressed: 7,033 (Ranked 182)  
 Completed: 14 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,6 +241,7 @@ Completed: 14 (0.20%) (Ranked 257)
 | 2023-11-27 | 6,995 | 14 |
 | 2023-11-28 | 7,016 | 14 |
 | 2023-11-29 | 7,032 | 14 |
+| 2023-11-30 | 7,033 | 14 |
 ## Awards
 Max (Great for Beginners): 126  (Ranked 337)  
 Sum: 1,026 (Ranked 260)  

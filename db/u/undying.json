@@ -4,7 +4,7 @@
   "ProductSlug": "undying",
   "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewPlayers": 498,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2021-10-19T13:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:32.7113981+00:00",
   "LastChanged": "2023-03-31T05:58:32.7113982+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:06.0911201+00:00",
-  "LastUpdate_Ratings": "2023-11-29T23:59:22.8171573+00:00",
-  "LastUpdate_Achievements": "2023-11-30T00:04:34.6827634+00:00"
+  "LastUpdate_Ratings": "2023-11-30T01:46:52.3815314+00:00",
+  "LastUpdate_Achievements": "2023-11-30T01:52:09.4624336+00:00"
 }

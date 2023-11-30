@@ -6,14 +6,14 @@ Number of Ratings: 1,023  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 95.00% | ~20,333 |
+| First money | 95.00% | ~20,334 |
 | Strongman | 31.00% | ~6,635 |
+| Just Enough | 20.00% | ~4,281 |
 | Alpha Male | 20.00% | ~4,281 |
-| Just Enough | 19.00% | ~4,067 |
 | Pro-creative | 19.00% | ~4,067 |
-| Worth Every Penny | 14.00% | ~2,996 |
-| Family man | 13.00% | ~2,782 |
-| Junior Estate Agent | 13.00% | ~2,782 |
+| Worth Every Penny | 14.00% | ~2,997 |
+| Family man | 13.00% | ~2,783 |
+| Junior Estate Agent | 13.00% | ~2,783 |
 | Mystery | 10.00% | ~2,140 |
 | Artistic soul | 10.00% | ~2,140 |
 | Estate Agent | 5.00% | ~1,070 |
@@ -30,7 +30,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Do it ASAP | 0.60% | ~128 |
 | Senior Estate Agent | 0.60% | ~128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,403 (Ranked 140)  
+Progressed: 21,404 (Ranked 140)  
 Completed: 21 (0.10%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,9 +253,10 @@ Completed: 21 (0.10%) (Ranked 287)
 | 2023-11-27 | 21,388 | 21 |
 | 2023-11-28 | 21,395 | 21 |
 | 2023-11-29 | 21,403 | 21 |
+| 2023-11-30 | 21,404 | 21 |
 ## Awards
 Max (Great for Beginners): 324  (Ranked 249)  
-Sum: 2,256 (Ranked 201)  
+Sum: 2,257 (Ranked 201)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
@@ -269,7 +270,7 @@ Diff (max vs sum): 48
 | This game has Amazing Storytelling | 215 |
 | This game has Amazing Characters | 192 |
 | This game has Obsessive Gameplay | 173 |
-| This game has Easy Combat | 164 |
+| This game has Easy Combat | 165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -452,3 +453,4 @@ Diff (max vs sum): 48
 | 2023-11-22 | 4.69 | - | 323 | 2,253 |
 | 2023-11-28 | 4.69 | - | 323 | 2,255 |
 | 2023-11-29 | 4.69 | - | 324 | 2,256 |
+| 2023-11-30 | 4.69 | - | 324 | 2,257 |

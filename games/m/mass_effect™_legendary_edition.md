@@ -38,8 +38,8 @@
 | The Professor | 38.00% | ~553 |
 | The Archangel | 37.00% | ~538 |
 | Power Full | 37.00% | ~538 |
+| The Convict | 36.00% | ~524 |
 | Colony Defense | 35.00% | ~509 |
-| The Convict | 35.00% | ~509 |
 | The Krogan | 35.00% | ~509 |
 | Broke, Blind, and Bedlam | 34.00% | ~495 |
 | A Personal Touch | 32.00% | ~466 |

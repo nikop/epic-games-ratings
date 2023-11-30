@@ -15,10 +15,10 @@
 | Bucolic city | 5.00% | ~20 |
 | Soviet town | 5.00% | ~20 |
 | Clean energy | 4.00% | ~16 |
+| Food producer | 2.00% | ~8 |
 | I love books! | 2.00% | ~8 |
 | King of fish | 2.00% | ~8 |
 | I love parks | 2.00% | ~8 |
-| Food producer | 1.00% | ~4 |
 | Metropolurbek | 1.00% | ~4 |
 | Rebel city | 0.80% | ~3 |
 | Banking city | 0.50% | ~2 |

@@ -2,12 +2,12 @@
   "ID": "fe2b8b6b2b934557a719d104c25623e7",
   "Name": "Lumberjack\u0027s Dynasty",
   "ProductSlug": "lumberjacks-dynasty",
-  "Ranking_Rating": 974,
+  "Ranking_Rating": 979,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewPlayers": 498,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2021-04-29T10:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.08,
+  "Rating": 4.07,
   "NumberOfRatings": 61,
   "RatingHistory": [
     {
@@ -261,6 +261,12 @@
       "Rating": 4.08,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-30T01:45:58.0849147+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -278,8 +284,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:56.3417334+00:00",
-  "LastChanged": "2023-11-13T13:57:44.4879316+00:00",
+  "LastChanged": "2023-11-30T01:45:58.0849144+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:46.0566775+00:00",
-  "LastUpdate_Ratings": "2023-11-29T23:58:33.5668349+00:00",
-  "LastUpdate_Achievements": "2023-11-30T00:05:14.9467207+00:00"
+  "LastUpdate_Ratings": "2023-11-30T01:45:58.084915+00:00",
+  "LastUpdate_Achievements": "2023-11-30T01:52:53.9444959+00:00"
 }

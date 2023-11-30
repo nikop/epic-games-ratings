@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1221,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2851,9 +2851,9 @@
       "ID": "ML_ACHIEVEMENT_19",
       "SetID": "5k00jcd",
       "Name": "Well begun\u2026",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 476
+      "UsersEstimate": 488
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -3064,8 +3064,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-30T00:04:05.3713759+00:00",
+  "LastChanged_Achievements": "2023-11-30T01:51:36.373445+00:00",
   "LastUpdate_AppInfo": "2023-11-23T02:56:55.439879+00:00",
-  "LastUpdate_Ratings": "2023-11-29T23:57:11.9360008+00:00",
-  "LastUpdate_Achievements": "2023-11-30T00:04:05.3714116+00:00"
+  "LastUpdate_Ratings": "2023-11-30T01:44:26.0141673+00:00",
+  "LastUpdate_Achievements": "2023-11-30T01:51:36.3735068+00:00"
 }

@@ -1788,9 +1788,9 @@
       "ID": "achievement_32",
       "SetID": "2cpn27e",
       "Name": "Style Seeker",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 92
     },
     {
       "ID": "achievement_33",
@@ -1978,8 +1978,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-30T00:04:49.0848826+00:00",
+  "LastChanged_Achievements": "2023-11-30T01:52:25.5909261+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:52.7646149+00:00",
-  "LastUpdate_Ratings": "2023-11-29T23:57:00.8078414+00:00",
-  "LastUpdate_Achievements": "2023-11-30T00:04:49.0849287+00:00"
+  "LastUpdate_Ratings": "2023-11-30T01:44:13.3849683+00:00",
+  "LastUpdate_Achievements": "2023-11-30T01:52:25.5910212+00:00"
 }

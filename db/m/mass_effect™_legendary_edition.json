@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1455,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -4687,9 +4687,9 @@
       "ID": "achievement_46",
       "SetID": "d252ncf",
       "Name": "The Convict",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 509
+      "UsersEstimate": 524
     },
     {
       "ID": "achievement_47",
@@ -5171,8 +5171,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-30T00:08:02.2981155+00:00",
+  "LastChanged_Achievements": "2023-11-30T01:55:51.6529823+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:10.3433357+00:00",
-  "LastUpdate_Ratings": "2023-11-30T00:02:45.2327862+00:00",
-  "LastUpdate_Achievements": "2023-11-30T00:08:02.2982939+00:00"
+  "LastUpdate_Ratings": "2023-11-30T01:50:04.8473692+00:00",
+  "LastUpdate_Achievements": "2023-11-30T01:55:51.6532592+00:00"
 }

@@ -47,8 +47,8 @@ Rating: 4.50 (Ranked 592)
 | Terrifying | 1.00% | ~317 |
 | Surprise! | 0.90% | ~286 |
 | Therapeutic | 0.70% | ~222 |
+| Rift Seeker | 0.60% | ~190 |
 | Master Collector | 0.50% | ~159 |
-| Rift Seeker | 0.50% | ~159 |
 | Ghost Expert | 0.30% | ~95 |
 | Catostrophic Destroyer | 0.20% | ~63 |
 | I don't need these | 0.20% | ~63 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 592)
 | Line em' up | 0.10% | ~32 |
 | Ultimate Defense | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,745 (Ranked 124)  
+Progressed: 31,746 (Ranked 124)  
 Completed: 69 (0.22%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 69 (0.22%) (Ranked 254)
 | 2023-11-27 | 31,673 | 69 |
 | 2023-11-28 | 31,716 | 69 |
 | 2023-11-29 | 31,744 | 69 |
-| 2023-11-30 | 31,745 | 69 |
+| 2023-11-30 | 31,746 | 69 |
 ## Awards
 Max (Great for Beginners): 319  (Ranked 251)  
 Sum: 2,860 (Ranked 178)  

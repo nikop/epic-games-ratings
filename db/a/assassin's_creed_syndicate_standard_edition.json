@@ -4,10 +4,10 @@
   "ProductSlug": "assassins-creed-syndicate",
   "Ranking_Rating": 571,
   "Ranking_Popularity": 329,
-  "Ranking_PopularitySum": 266,
+  "Ranking_PopularitySum": 265,
   "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewPlayers": 498,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2020-02-20T16:00:00+00:00",
@@ -3042,10 +3042,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 966,
       "NumberOfAwardsMax": 132
+    },
+    {
+      "Time": "2023-11-30T01:45:41.0771379+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 967,
+      "NumberOfAwardsMax": 132
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 966,
+  "NumberOfAwards": 967,
   "NumberOfAwardsMax": 132,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3107,7 +3113,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 83
+      "Count": 84
     },
     {
       "Text": "This game has Easy Combat",
@@ -3133,8 +3139,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.1720529+00:00",
-  "LastChanged": "2023-11-29T16:58:03.8260179+00:00",
+  "LastChanged": "2023-11-30T01:45:41.0771377+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:28.364064+00:00",
-  "LastUpdate_Ratings": "2023-11-29T23:58:19.154811+00:00",
-  "LastUpdate_Achievements": "2023-11-30T00:06:23.0243242+00:00"
+  "LastUpdate_Ratings": "2023-11-30T01:45:41.0771382+00:00",
+  "LastUpdate_Achievements": "2023-11-30T01:55:20.2926163+00:00"
 }

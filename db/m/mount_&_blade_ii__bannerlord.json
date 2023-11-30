@@ -2,7 +2,7 @@
   "ID": "aeac94c7a11048758064b82f8f8d20ed",
   "Name": "Mount \u0026 Blade II: Bannerlord",
   "ProductSlug": "mount-and-blade-2",
-  "Ranking_Rating": 161,
+  "Ranking_Rating": 160,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 104,
@@ -9276,9 +9276,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 66654,
+  "EOS_Progressed": 66655,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 940,
+  "EOS_NewPlayers": 939,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32851,6 +32851,11 @@
       "Time": "2023-11-29T23:09:09.3064467+00:00",
       "NumProgressed": 66654,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T01:56:38.3847914+00:00",
+      "NumProgressed": 66655,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -32942,7 +32947,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6665
+      "UsersEstimate": 6666
     },
     {
       "ID": "Dynasty",
@@ -32950,7 +32955,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 6665
+      "UsersEstimate": 6666
     },
     {
       "ID": "Entrepreneur",
@@ -33038,7 +33043,7 @@
       "Name": "I spit on your grave",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6665
+      "UsersEstimate": 6666
     },
     {
       "ID": "Jack of All Trades",
@@ -33206,7 +33211,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6665
+      "UsersEstimate": 6666
     },
     {
       "ID": "The king is pleased",
@@ -33262,22 +33267,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6665
+      "UsersEstimate": 6666
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 66654,
+      "Progressed": 66655,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-29T21:00:12.4126572+00:00",
-  "LastChanged_Achievements": "2023-11-30T00:08:44.379781+00:00",
+  "LastChanged_Achievements": "2023-11-30T01:56:38.3847909+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:24.2741585+00:00",
-  "LastUpdate_Ratings": "2023-11-29T23:59:49.8908042+00:00",
-  "LastUpdate_Achievements": "2023-11-30T00:08:44.3799151+00:00"
+  "LastUpdate_Ratings": "2023-11-30T01:47:23.6664267+00:00",
+  "LastUpdate_Achievements": "2023-11-30T01:56:38.385054+00:00"
 }

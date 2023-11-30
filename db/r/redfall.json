@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2545,9 +2545,9 @@
       "ID": "Achievement_017",
       "SetID": "6b34g18",
       "Name": "Bad Wiring",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "Achievement_018",
@@ -2962,8 +2962,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-11-22T22:57:36.1602113+00:00",
-  "LastChanged_Achievements": "2023-11-30T00:04:32.929899+00:00",
+  "LastChanged_Achievements": "2023-11-30T01:52:07.6595718+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:55.6017296+00:00",
-  "LastUpdate_Ratings": "2023-11-29T23:57:25.8085938+00:00",
-  "LastUpdate_Achievements": "2023-11-30T00:04:32.9299662+00:00"
+  "LastUpdate_Ratings": "2023-11-30T01:44:41.4235381+00:00",
+  "LastUpdate_Achievements": "2023-11-30T01:52:07.6596827+00:00"
 }

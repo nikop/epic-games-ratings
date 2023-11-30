@@ -4,8 +4,8 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 290,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -31,10 +31,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1133,
-  "EOS_Completed": 86,
+  "EOS_Completed": 87,
   "EOS_NewPlayers": 13,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.59,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 7.68,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -3115,6 +3115,11 @@
       "Time": "2023-11-28T04:05:16.2079035+00:00",
       "NumProgressed": 1133,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2023-11-30T01:53:28.7427244+00:00",
+      "NumProgressed": 1133,
+      "NumCompleted": 87
     }
   ],
   "TotalAchievements": 50,
@@ -3180,9 +3185,9 @@
       "ID": "16",
       "SetID": "d0g98p",
       "Name": "Soul Slayer",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 385
+      "UsersEstimate": 397
     },
     {
       "ID": "17",
@@ -3468,9 +3473,9 @@
       "ID": "49",
       "SetID": "d0g98p",
       "Name": "Final Showdown",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 397
     },
     {
       "ID": "5",
@@ -3526,15 +3531,15 @@
       "ID": "d0g98p",
       "IsBase": true,
       "Progressed": 1133,
-      "Completed": 86
+      "Completed": 87
     }
   ],
   "FirstSeen": "2023-05-04T05:57:24.2490249+00:00",
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-11-30T00:05:46.0902286+00:00",
+  "LastChanged_Achievements": "2023-11-30T01:53:28.7427236+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:10.1400559+00:00",
-  "LastUpdate_Ratings": "2023-11-29T23:57:28.0177907+00:00",
-  "LastUpdate_Achievements": "2023-11-30T00:05:46.0902793+00:00"
+  "LastUpdate_Ratings": "2023-11-30T01:44:44.0537584+00:00",
+  "LastUpdate_Achievements": "2023-11-30T01:53:28.7428207+00:00"
 }

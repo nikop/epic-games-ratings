@@ -2605,9 +2605,9 @@
       "ID": "ACH_DONUTS",
       "SetID": "6f5dahd",
       "Name": "Sweet tooth",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 45,
-      "UsersEstimate": 813
+      "UsersEstimate": 825
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -2676,8 +2676,8 @@
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-30T00:08:19.3952206+00:00",
+  "LastChanged_Achievements": "2023-11-30T01:56:11.1836915+00:00",
   "LastUpdate_AppInfo": "2023-11-24T16:56:56.882422+00:00",
-  "LastUpdate_Ratings": "2023-11-29T23:58:50.130303+00:00",
-  "LastUpdate_Achievements": "2023-11-30T00:08:19.3952423+00:00"
+  "LastUpdate_Ratings": "2023-11-30T01:46:16.6648971+00:00",
+  "LastUpdate_Achievements": "2023-11-30T01:56:11.183737+00:00"
 }

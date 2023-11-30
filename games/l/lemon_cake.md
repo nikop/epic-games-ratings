@@ -16,8 +16,8 @@
 | Verdant Greenhouse | 11.00% | ~18 |
 | Gotta Go Fast | 9.00% | ~15 |
 | Swing The Broom | 9.00% | ~15 |
+| Master Baker | 8.00% | ~13 |
 | Bakery Business | 7.00% | ~11 |
-| Master Baker | 7.00% | ~11 |
 | The Famous Lemon Cake | 7.00% | ~11 |
 | A Loving Home | 7.00% | ~11 |
 | Bakery Empire | 6.00% | ~10 |

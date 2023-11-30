@@ -1,7 +1,7 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.74 (Ranked 161)  
+Rating: 4.74 (Ranked 160)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -19,11 +19,11 @@ Number of Ratings: 5,603  (23.09.2022)
 | This Is Our Land | 14.00% | ~9,332 |
 | Against all odds | 13.00% | ~8,665 |
 | God of the Arena | 13.00% | ~8,665 |
-| Duelist | 10.00% | ~6,665 |
-| Dynasty | 10.00% | ~6,665 |
-| I spit on your grave | 10.00% | ~6,665 |
-| Swordbearer | 10.00% | ~6,665 |
-| What have the Romans ever done for us? | 10.00% | ~6,665 |
+| Duelist | 10.00% | ~6,666 |
+| Dynasty | 10.00% | ~6,666 |
+| I spit on your grave | 10.00% | ~6,666 |
+| Swordbearer | 10.00% | ~6,666 |
+| What have the Romans ever done for us? | 10.00% | ~6,666 |
 | Butterlord | 9.00% | ~5,999 |
 | Mastery | 8.00% | ~5,332 |
 | Know your enemy | 7.00% | ~4,666 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,654 (Ranked 104)  
+Progressed: 66,655 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,6 +282,7 @@ Completed: 0 (0.00%) (Ranked 362)
 | 2023-11-27 | 66,427 | 0 |
 | 2023-11-28 | 66,549 | 0 |
 | 2023-11-29 | 66,654 | 0 |
+| 2023-11-30 | 66,655 | 0 |
 ## Awards
 Max (Character Customization): 7,451  (Ranked 53)  
 Sum: 15,500 (Ranked 68)  

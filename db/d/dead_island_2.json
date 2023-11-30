@@ -7065,10 +7065,10 @@
       "Count": 502
     }
   ],
-  "EOS_Progressed": 727821,
+  "EOS_Progressed": 727843,
   "EOS_Completed": 2450,
-  "EOS_NewPlayers": 5016,
-  "EOS_NewCompleters": 25,
+  "EOS_NewPlayers": 5002,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -32660,6 +32660,11 @@
       "Time": "2023-11-30T00:06:25.1206627+00:00",
       "NumProgressed": 727821,
       "NumCompleted": 2450
+    },
+    {
+      "Time": "2023-11-30T01:55:22.6004138+00:00",
+      "NumProgressed": 727843,
+      "NumCompleted": 2450
     }
   ],
   "TotalAchievements": 51,
@@ -32679,15 +32684,15 @@
       "Name": "Making Your Mark",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6550
+      "UsersEstimate": 6551
     },
     {
       "ID": "ach_ammo_ran",
       "SetID": "7km39fm",
       "Name": "Git Gutte!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7278
+      "UsersEstimate": 14557
     },
     {
       "ID": "ach_anger_management",
@@ -32735,7 +32740,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14556
+      "UsersEstimate": 14557
     },
     {
       "ID": "ach_contender",
@@ -32791,7 +32796,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14556
+      "UsersEstimate": 14557
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -32815,7 +32820,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14556
+      "UsersEstimate": 14557
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -32831,7 +32836,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14556
+      "UsersEstimate": 14557
     },
     {
       "ID": "ach_impressive_aim",
@@ -32855,7 +32860,7 @@
       "Name": "Sole Survivor",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2184
     },
     {
       "ID": "ach_jumbo_keyring",
@@ -32895,7 +32900,7 @@
       "Name": "Gore Horse",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2184
     },
     {
       "ID": "ach_metropolitan",
@@ -32935,7 +32940,7 @@
       "Name": "Sharpest Tool in the Box",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2184
     },
     {
       "ID": "ach_skilled_up",
@@ -32951,7 +32956,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14556
+      "UsersEstimate": 14557
     },
     {
       "ID": "ach_survival_expert",
@@ -33007,7 +33012,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14556
+      "UsersEstimate": 14557
     },
     {
       "ID": "ach_well_known_survivor",
@@ -33031,7 +33036,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "ach_dark_magic",
@@ -33039,7 +33044,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "ach_gardening_tools",
@@ -33055,7 +33060,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -33078,13 +33083,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 727821,
+      "Progressed": 727843,
       "Completed": 2450
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 53363,
+      "Progressed": 53385,
       "Completed": 36615
     }
   ],
@@ -33092,8 +33097,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-29T22:58:06.1430749+00:00",
-  "LastChanged_Achievements": "2023-11-30T00:06:25.1206624+00:00",
+  "LastChanged_Achievements": "2023-11-30T01:55:22.6004131+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-29T23:58:05.7557678+00:00",
-  "LastUpdate_Achievements": "2023-11-30T00:06:25.1208098+00:00"
+  "LastUpdate_Ratings": "2023-11-30T01:45:26.540359+00:00",
+  "LastUpdate_Achievements": "2023-11-30T01:55:22.6007004+00:00"
 }

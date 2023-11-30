@@ -203,9 +203,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 88057,
+  "EOS_Progressed": 88058,
   "EOS_Completed": 295,
-  "EOS_NewPlayers": 699,
+  "EOS_NewPlayers": 695,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -12643,6 +12643,11 @@
       "Time": "2023-11-30T00:04:16.0060056+00:00",
       "NumProgressed": 88057,
       "NumCompleted": 295
+    },
+    {
+      "Time": "2023-11-30T01:51:48.999206+00:00",
+      "NumProgressed": 88058,
+      "NumCompleted": 295
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -12663,7 +12668,7 @@
       "Name": "The early bird gets the beet",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 17611
+      "UsersEstimate": 17612
     },
     {
       "ID": "grp_collect_ruby",
@@ -12671,7 +12676,7 @@
       "Name": "Two month\u0027s rent",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 67804
+      "UsersEstimate": 67805
     },
     {
       "ID": "grp_endless",
@@ -12751,7 +12756,7 @@
       "Name": "Money doesn\u0027t grow on trees",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 65162
+      "UsersEstimate": 65163
     },
     {
       "ID": "grp_speed",
@@ -12790,7 +12795,7 @@
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 88057,
+      "Progressed": 88058,
       "Completed": 295
     }
   ],
@@ -12798,8 +12803,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2023-11-29T09:58:32.9214782+00:00",
-  "LastChanged_Achievements": "2023-11-30T00:04:16.0060052+00:00",
+  "LastChanged_Achievements": "2023-11-30T01:51:48.9992054+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:17.1314286+00:00",
-  "LastUpdate_Ratings": "2023-11-29T23:58:47.877782+00:00",
-  "LastUpdate_Achievements": "2023-11-30T00:04:16.0060791+00:00"
+  "LastUpdate_Ratings": "2023-11-30T01:46:13.640184+00:00",
+  "LastUpdate_Achievements": "2023-11-30T01:51:48.9993011+00:00"
 }

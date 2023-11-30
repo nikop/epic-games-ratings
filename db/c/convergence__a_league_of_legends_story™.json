@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 943,
+  "EOS_Progressed": 944,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -2534,6 +2534,11 @@
       "Time": "2023-11-29T21:09:12.5466328+00:00",
       "NumProgressed": 943,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-30T01:56:07.3473518+00:00",
+      "NumProgressed": 944,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2585,15 +2590,15 @@
       "Name": "Corin Goes Home",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ClockworkProgress1",
       "SetID": "a9e499d",
       "Name": "Like Clockwork",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 179
     },
     {
       "ID": "ClovemaryGift",
@@ -2609,7 +2614,7 @@
       "Name": "Sartorialist",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "CosmeticProgress1",
@@ -2697,15 +2702,15 @@
       "Name": "Whiz Kid",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "GrindingTime1",
       "SetID": "a9e499d",
       "Name": "Rail Rat",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 245
     },
     {
       "ID": "HexlockGift",
@@ -2737,7 +2742,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "MapCompletion1",
@@ -2745,7 +2750,7 @@
       "Name": "Cartographer",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "NoCritterSump",
@@ -2785,7 +2790,7 @@
       "Name": "Time Flies",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ParryBoss",
@@ -2825,7 +2830,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "RewindDamage1",
@@ -2833,7 +2838,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "RewindParry",
@@ -2953,7 +2958,7 @@
       "Name": "The Brass Boss",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "Zarkon2Defeated",
@@ -2968,7 +2973,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 943,
+      "Progressed": 944,
       "Completed": 6
     }
   ],
@@ -2976,8 +2981,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-11-30T00:08:15.9875209+00:00",
+  "LastChanged_Achievements": "2023-11-30T01:56:07.3473512+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.4880941+00:00",
-  "LastUpdate_Ratings": "2023-11-29T23:59:25.1991293+00:00",
-  "LastUpdate_Achievements": "2023-11-30T00:08:15.987574+00:00"
+  "LastUpdate_Ratings": "2023-11-30T01:46:54.9854003+00:00",
+  "LastUpdate_Achievements": "2023-11-30T01:56:07.3474336+00:00"
 }

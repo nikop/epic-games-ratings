@@ -2,12 +2,12 @@
   "ID": "argyle",
   "Name": "Trials Rising Standard Edition",
   "ProductSlug": "trials-rising",
-  "Ranking_Rating": 186,
+  "Ranking_Rating": 185,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewPlayers": 498,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2019-02-26T15:00:00+00:00",
@@ -335,6 +335,6 @@
   "FirstSeenRating": "2022-08-06T00:01:51.7192819+00:00",
   "LastChanged": "2023-10-30T10:58:25.5268903+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:09.3633046+00:00",
-  "LastUpdate_Ratings": "2023-11-29T23:02:30.4626233+00:00",
-  "LastUpdate_Achievements": "2023-11-30T00:08:30.9107749+00:00"
+  "LastUpdate_Ratings": "2023-11-30T01:44:10.4388433+00:00",
+  "LastUpdate_Achievements": "2023-11-30T01:56:23.769363+00:00"
 }

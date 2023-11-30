@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -2035,10 +2035,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2256,
       "NumberOfAwardsMax": 324
+    },
+    {
+      "Time": "2023-11-30T01:46:27.0551493+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2257,
+      "NumberOfAwardsMax": 324
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2256,
+  "NumberOfAwards": 2257,
   "NumberOfAwardsMax": 324,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2100,7 +2106,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 164
+      "Count": 165
     },
     {
       "Text": "This game has a Creative Community",
@@ -2109,9 +2115,9 @@
       "Count": 219
     }
   ],
-  "EOS_Progressed": 21403,
+  "EOS_Progressed": 21404,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10849,6 +10855,11 @@
       "Time": "2023-11-29T23:04:06.1883947+00:00",
       "NumProgressed": 21403,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-11-30T01:51:34.1749769+00:00",
+      "NumProgressed": 21404,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -10860,7 +10871,7 @@
       "Name": "Family man",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2782
+      "UsersEstimate": 2783
     },
     {
       "ID": "CarMechanic",
@@ -10892,7 +10903,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2996
+      "UsersEstimate": 2997
     },
     {
       "ID": "EstateAgent",
@@ -10908,7 +10919,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20333
+      "UsersEstimate": 20334
     },
     {
       "ID": "GameOver",
@@ -10948,7 +10959,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2782
+      "UsersEstimate": 2783
     },
     {
       "ID": "KnockKnock",
@@ -10970,9 +10981,9 @@
       "ID": "MrAndMrsJantart",
       "SetID": "d0jo315",
       "Name": "Just Enough",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4067
+      "UsersEstimate": 4281
     },
     {
       "ID": "Negotiator",
@@ -11043,15 +11054,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21403,
+      "Progressed": 21404,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2023-11-29T20:59:22.4009443+00:00",
-  "LastChanged_Achievements": "2023-11-30T00:04:03.469354+00:00",
+  "LastChanged": "2023-11-30T01:46:27.0551491+00:00",
+  "LastChanged_Achievements": "2023-11-30T01:51:34.1749761+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:03.9254817+00:00",
-  "LastUpdate_Ratings": "2023-11-29T23:58:59.4420531+00:00",
-  "LastUpdate_Achievements": "2023-11-30T00:04:03.4694105+00:00"
+  "LastUpdate_Ratings": "2023-11-30T01:46:27.0551497+00:00",
+  "LastUpdate_Achievements": "2023-11-30T01:51:34.1750261+00:00"
 }

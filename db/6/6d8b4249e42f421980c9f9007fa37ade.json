@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 336,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -527,9 +527,9 @@
       "ID": "Epic_ChainSaw_1",
       "SetID": "ba1m2fc",
       "Name": "Maimed Bodies",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Epic_Challenger_1",
@@ -831,9 +831,9 @@
       "ID": "Epic_SwampPet_1",
       "SetID": "ba1m2fc",
       "Name": "The Indescribable",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Epic_Swamp_1",
@@ -894,8 +894,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-11-30T00:05:23.3457375+00:00",
+  "LastChanged_Achievements": "2023-11-30T01:53:03.3639919+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:16.1827945+00:00",
-  "LastUpdate_Ratings": "2023-11-29T23:57:59.7058155+00:00",
-  "LastUpdate_Achievements": "2023-11-30T00:05:23.3458063+00:00"
+  "LastUpdate_Ratings": "2023-11-30T01:45:20.0072458+00:00",
+  "LastUpdate_Achievements": "2023-11-30T01:53:03.3640501+00:00"
 }

@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~1,326 |
-| Off to a good start | 67.00% | ~987 |
-| Do... or do not. There is no try | 50.00% | ~736 |
+| New Recruit | 90.00% | ~1,327 |
+| Off to a good start | 67.00% | ~988 |
+| Do... or do not. There is no try | 50.00% | ~737 |
 | A good blaster at your side | 31.00% | ~457 |
 | I suggest a new strategy | 19.00% | ~280 |
 | Scrap collector | 18.00% | ~265 |
-| All right, I'll give it a try | 17.00% | ~250 |
-| Great shot, kid! | 17.00% | ~250 |
+| All right, I'll give it a try | 17.00% | ~251 |
+| Great shot, kid! | 17.00% | ~251 |
 | The power of the Force | 14.00% | ~206 |
 | Together we can rule the galaxy | 14.00% | ~206 |
 | Shoot first | 14.00% | ~206 |
-| Collector | 13.00% | ~191 |
-| Survivor | 10.00% | ~147 |
+| Collector | 13.00% | ~192 |
 | Tell Jabba that I've got his money | 9.00% | ~133 |
 | Best star-pilot in the galaxy | 9.00% | ~133 |
+| Survivor | 9.00% | ~133 |
 | Never tell me the odds! | 8.00% | ~118 |
 | A cunning warrior | 8.00% | ~118 |
 | What's the cargo? | 7.00% | ~103 |
@@ -50,10 +50,10 @@
 | Ackbar's Elite | 1.00% | ~15 |
 | You have your moments | 1.00% | ~15 |
 | When surrounded by war... | 1.00% | ~15 |
-| Stop that Droid | 1.00% | ~15 |
 | Onwards! | 1.00% | ~15 |
 | The circle is now complete | 1.00% | ~15 |
 | Walker defender | 0.90% | ~13 |
+| Stop that Droid | 0.90% | ~13 |
 | No such thing as luck | 0.80% | ~12 |
 | Do we take prisoners? | 0.80% | ~12 |
 | A New Hope | 0.70% | ~10 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,473 (Ranked 242)  
+Progressed: 1,474 (Ranked 242)  
 Completed: 1 (0.07%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,6 +143,7 @@ Completed: 1 (0.07%) (Ranked 302)
 | 2023-11-27 | 1,451 | 1 |
 | 2023-11-28 | 1,464 | 1 |
 | 2023-11-29 | 1,473 | 1 |
+| 2023-11-30 | 1,474 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
