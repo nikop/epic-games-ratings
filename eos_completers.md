@@ -7,11 +7,11 @@
 | 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.72% |
 | 6 | [greensheen Production](games/g/greensheen_production.md) | 46.67% |
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.22% |
-| 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 37.63% |
+| 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 37.44% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.24% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 11 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 12 | [The Riflemen](games/t/the_riflemen.md) | 26.02% |
+| 12 | [The Riflemen](games/t/the_riflemen.md) | 26.00% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.40% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 14 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -33,7 +33,7 @@
 | 30 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 14.29% |
 | 32 | [Seven Doors](games/s/seven_doors.md) | 13.64% |
 | 33 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 13.33% |
-| 34 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 12.82% |
+| 34 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 12.66% |
 | 35 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.38% |
 | 36 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 36 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 11.11% |
@@ -72,7 +72,7 @@
 | 70 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
 | 71 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 71 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 73 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.44% |
+| 73 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.43% |
 | 74 | [JARS](games/j/jars.md) | 5.00% |
 | 75 | [Bugsnax](games/b/bugsnax.md) | 4.84% |
 | 76 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |
@@ -103,10 +103,10 @@
 | 101 | [Monster Harvest](games/m/monster_harvest.md) | 3.08% |
 | 101 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.08% |
 | 103 | [The Complex](games/t/the_complex.md) | 3.07% |
-| 104 | [Destiny 2](games/d/destiny_2.md) | 3.05% |
+| 104 | [Destiny 2](games/d/destiny_2.md) | 3.06% |
 | 105 | [HordeCore](games/h/hordecore.md) | 3.04% |
 | 106 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.97% |
-| 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.96% |
+| 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.95% |
 | 108 | [Without Escape](games/w/without_escape.md) | 2.94% |
 | 109 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 110 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.80% |
@@ -127,8 +127,8 @@
 | 125 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.22% |
 | 126 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.06% |
 | 127 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.92% |
-| 127 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.92% |
-| 129 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.90% |
+| 128 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.90% |
+| 128 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.90% |
 | 130 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.87% |
 | 130 | [Somerville](games/s/somerville.md) | 1.87% |
 | 132 | [Sifu](games/s/sifu.md) | 1.80% |
@@ -201,9 +201,9 @@
 | 199 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 199 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.55% |
 | 199 | [Tails of Iron](games/t/tails_of_iron.md) | 0.55% |
-| 202 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.53% |
-| 202 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.53% |
-| 202 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
+| 202 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.54% |
+| 203 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.53% |
+| 203 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
 | 205 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.52% |
 | 206 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.51% |
 | 206 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.51% |
