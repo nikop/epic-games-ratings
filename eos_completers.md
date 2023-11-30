@@ -11,7 +11,7 @@
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.24% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 11 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 12 | [The Riflemen](games/t/the_riflemen.md) | 26.08% |
+| 12 | [The Riflemen](games/t/the_riflemen.md) | 26.07% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.40% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 14 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -21,19 +21,19 @@
 | 19 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 19 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 20.00% |
 | 19 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
-| 22 | [Doodle Devil](games/d/doodle_devil.md) | 18.60% |
-| 23 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 18.18% |
-| 24 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 17.45% |
-| 25 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 16.67% |
-| 25 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 16.67% |
-| 27 | [Island Cities](games/i/island_cities.md) | 16.46% |
-| 28 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.47% |
-| 29 | [Remains](games/r/remains.md) | 14.55% |
-| 30 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
-| 31 | [Seven Doors](games/s/seven_doors.md) | 13.64% |
-| 32 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 13.33% |
-| 33 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 12.82% |
-| 34 | [laserlemon Production](games/l/laserlemon_production.md) | 12.50% |
+| 22 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
+| 23 | [Doodle Devil](games/d/doodle_devil.md) | 18.60% |
+| 24 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 18.18% |
+| 25 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 17.45% |
+| 26 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 16.67% |
+| 26 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 16.67% |
+| 28 | [Island Cities](games/i/island_cities.md) | 16.46% |
+| 29 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.47% |
+| 30 | [Remains](games/r/remains.md) | 14.55% |
+| 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
+| 32 | [Seven Doors](games/s/seven_doors.md) | 13.64% |
+| 33 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 13.33% |
+| 34 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 12.82% |
 | 35 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.34% |
 | 36 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 36 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 11.11% |
