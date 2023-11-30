@@ -61,6 +61,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Max Damage! | 0.20% | ~481 |
 | A Rough Road | 0.20% | ~481 |
 | Berzerker | 0.20% | ~481 |
+| Juggernaut | 0.20% | ~481 |
 | Don't Ignore Me! | 0.20% | ~481 |
 | All Consuming | 0.20% | ~481 |
 | Illuminate, Eliminate | 0.20% | ~481 |
@@ -91,7 +92,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Powerful Potion | 0.10% | ~240 |
 | For Science | 0.10% | ~240 |
 | Willing the World | 0.10% | ~240 |
-| Juggernaut | 0.10% | ~240 |
 | Gigantic | 0.10% | ~240 |
 | Power Score | 0.10% | ~240 |
 | Predator | 0.10% | ~240 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,432 (Ranked 63)  
+Progressed: 240,433 (Ranked 63)  
 Completed: 291 (0.12%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -369,7 +369,7 @@ Completed: 291 (0.12%) (Ranked 280)
 | 2023-11-27 | 240,313 | 291 |
 | 2023-11-28 | 240,354 | 291 |
 | 2023-11-29 | 240,403 | 291 |
-| 2023-11-30 | 240,432 | 291 |
+| 2023-11-30 | 240,433 | 291 |
 ## Awards
 Max (Great for Beginners): 1,534  (Ranked 132)  
 Sum: 13,236 (Ranked 78)  

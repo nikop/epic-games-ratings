@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4437,
+  "EOS_Progressed": 4439,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7980,6 +7980,11 @@
       "Time": "2023-11-30T15:07:05.2940157+00:00",
       "NumProgressed": 4437,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-30T16:06:54.5010146+00:00",
+      "NumProgressed": 4439,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7989,9 +7994,9 @@
       "ID": "Ach001",
       "SetID": "12n4k20",
       "Name": "Start with a bang!",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 843
+      "UsersEstimate": 799
     },
     {
       "ID": "Ach002",
@@ -8007,7 +8012,7 @@
       "Name": "This will cost you big time",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "Ach004",
@@ -8023,7 +8028,7 @@
       "Name": "Headliner",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "Ach006",
@@ -8119,7 +8124,7 @@
       "Name": "I play my own way!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "Ach018",
@@ -8191,7 +8196,7 @@
       "Name": "You must like calling me in, Chai",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "Ach027",
@@ -8215,7 +8220,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "Ach030",
@@ -8247,7 +8252,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "Ach034",
@@ -8319,7 +8324,7 @@
       "Name": "I look cool. But I can look COOLER.",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "Ach043",
@@ -8391,7 +8396,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "Ach052",
@@ -8407,7 +8412,7 @@
       "Name": "Does that say weakpoint?",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "Ach054",
@@ -8558,13 +8563,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4437,
+      "Progressed": 4439,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2958,
+      "Progressed": 2960,
       "Completed": 1930
     }
   ],
@@ -8572,8 +8577,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-30T15:07:05.2940152+00:00",
+  "LastChanged_Achievements": "2023-11-30T16:06:54.5010142+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-11-30T14:59:14.6775654+00:00",
-  "LastUpdate_Achievements": "2023-11-30T15:07:05.2941165+00:00"
+  "LastUpdate_Ratings": "2023-11-30T15:59:03.5453073+00:00",
+  "LastUpdate_Achievements": "2023-11-30T16:06:54.5011438+00:00"
 }

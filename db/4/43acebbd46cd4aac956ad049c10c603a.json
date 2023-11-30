@@ -165,7 +165,7 @@
   ],
   "EOS_Progressed": 786,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2179,17 +2179,17 @@
       "ID": "TouchGrass",
       "SetID": "1n308hc",
       "Name": "Touch Grass",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 31
     },
     {
       "ID": "TrevorsBiographer",
       "SetID": "1n308hc",
       "Name": "Trevor\u0027s Biographer",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "VerdantCanyon",
@@ -2244,8 +2244,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-29T18:59:07.9515154+00:00",
-  "LastChanged_Achievements": "2023-11-30T15:04:08.9535239+00:00",
+  "LastChanged_Achievements": "2023-11-30T16:03:57.2680005+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-11-30T15:00:50.1406719+00:00",
-  "LastUpdate_Achievements": "2023-11-30T15:04:08.9535745+00:00"
+  "LastUpdate_Ratings": "2023-11-30T16:00:37.3300948+00:00",
+  "LastUpdate_Achievements": "2023-11-30T16:03:57.2680416+00:00"
 }

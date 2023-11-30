@@ -6,32 +6,32 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 11.00% | ~106,059 |
-| Gun Fu | 6.00% | ~57,851 |
-| The Fool | 5.00% | ~48,209 |
-| Right Back At Ya | 4.00% | ~38,567 |
-| The Lovers | 4.00% | ~38,567 |
-| Full Body Conversion | 2.00% | ~19,284 |
-| Christmas Tree Attack | 2.00% | ~19,284 |
-| Stanislavski's Method | 2.00% | ~19,284 |
-| The Hermit | 2.00% | ~19,284 |
-| The Wheel of Fortune | 2.00% | ~19,284 |
-| True Soldier | 2.00% | ~19,284 |
-| Relic Ruler | 2.00% | ~1,856 |
-| The Quick and the Dead | 1.00% | ~9,642 |
-| Life of the Road | 1.00% | ~9,642 |
-| The High Priestess | 1.00% | ~9,642 |
-| True Warrior | 1.00% | ~9,642 |
-| Legend of The Afterlife | 1.00% | ~9,642 |
-| All the President's Men | 1.00% | ~928 |
-| Arachnophobia | 1.00% | ~928 |
+| V for Vendetta | 11.00% | ~106,070 |
+| Gun Fu | 6.00% | ~57,857 |
+| The Fool | 5.00% | ~48,214 |
+| Right Back At Ya | 4.00% | ~38,571 |
+| The Lovers | 4.00% | ~38,571 |
+| Full Body Conversion | 2.00% | ~19,286 |
+| Christmas Tree Attack | 2.00% | ~19,286 |
+| Stanislavski's Method | 2.00% | ~19,286 |
+| The Hermit | 2.00% | ~19,286 |
+| The Wheel of Fortune | 2.00% | ~19,286 |
+| True Soldier | 2.00% | ~19,286 |
+| True Warrior | 2.00% | ~19,286 |
+| Relic Ruler | 2.00% | ~1,858 |
+| The Quick and the Dead | 1.00% | ~9,643 |
+| Life of the Road | 1.00% | ~9,643 |
+| The High Priestess | 1.00% | ~9,643 |
+| Legend of The Afterlife | 1.00% | ~9,643 |
+| All the President's Men | 1.00% | ~929 |
+| Arachnophobia | 1.00% | ~929 |
 | Bushido and Chill | 0.90% | ~8,678 |
 | Master Crafter | 0.90% | ~8,678 |
 | The World | 0.90% | ~8,678 |
-| I Am The Law | 0.80% | ~7,713 |
-| Two Heads, One Bullet | 0.80% | ~7,713 |
-| Judy vs Night City | 0.80% | ~7,713 |
-| To Protect and Serve | 0.70% | ~6,749 |
+| I Am The Law | 0.80% | ~7,714 |
+| Two Heads, One Bullet | 0.80% | ~7,714 |
+| Judy vs Night City | 0.80% | ~7,714 |
+| To Protect and Serve | 0.70% | ~6,750 |
 | Spin Doctor | 0.70% | ~650 |
 | King of Wands | 0.60% | ~557 |
 | Dirty Deeds | 0.60% | ~557 |
@@ -41,15 +41,15 @@ Number of Ratings: 32,700  (23.09.2022)
 | Ten out of Ten | 0.40% | ~3,857 |
 | The Star | 0.40% | ~3,857 |
 | The Sun | 0.40% | ~3,857 |
-| The Tower | 0.40% | ~371 |
+| The Tower | 0.40% | ~372 |
 | Autojock | 0.30% | ~2,893 |
 | Must Be Rats | 0.30% | ~2,893 |
 | Breathtaking | 0.30% | ~2,893 |
-| The APB is Not Enough | 0.30% | ~278 |
-| Judgement Day | 0.30% | ~278 |
-| King of Pentacles | 0.30% | ~278 |
-| King of Swords | 0.30% | ~278 |
-| Temperance | 0.20% | ~1,928 |
+| The APB is Not Enough | 0.30% | ~279 |
+| Judgement Day | 0.30% | ~279 |
+| King of Pentacles | 0.30% | ~279 |
+| King of Swords | 0.30% | ~279 |
+| Temperance | 0.20% | ~1,929 |
 | King of Cups | 0.20% | ~186 |
 | City Lights | 0.10% | ~964 |
 | Frequent Flyer | 0.10% | ~964 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 964,176 (Ranked 15)  
+Progressed: 964,277 (Ranked 15)  
 Completed: 2,827 (0.29%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,10 +298,10 @@ Completed: 2,827 (0.29%) (Ranked 238)
 | 2023-11-27 | 955,649 | 2,818 |
 | 2023-11-28 | 960,226 | 2,821 |
 | 2023-11-29 | 962,972 | 2,823 |
-| 2023-11-30 | 964,176 | 2,827 |
+| 2023-11-30 | 964,277 | 2,827 |
 ## Awards
 Max (Character Customization): 111,778  (Ranked 9)  
-Sum: 374,598 (Ranked 9)  
+Sum: 374,732 (Ranked 9)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -313,7 +313,7 @@ Diff (max vs sum): 0
 | This game has Amazing Storytelling | 21,110 |
 | This game is Extremely Fun | 20,793 |
 | This game has Amazing Characters | 20,557 |
-| This game is Relaxing | 19,838 |
+| This game is Relaxing | 19,972 |
 | This game has Quickly Understood Controls | 19,827 |
 | This game has a Creative Community | 13,831 |
 | This game has Obsessive Gameplay | 3,165 |
@@ -634,4 +634,4 @@ Diff (max vs sum): 0
 | 2023-11-27 | 4.65 | - | 110,030 | 368,854 |
 | 2023-11-28 | 4.65 | - | 110,923 | 371,115 |
 | 2023-11-29 | 4.65 | - | 111,778 | 373,471 |
-| 2023-11-30 | 4.65 | - | 111,778 | 374,598 |
+| 2023-11-30 | 4.65 | - | 111,778 | 374,732 |

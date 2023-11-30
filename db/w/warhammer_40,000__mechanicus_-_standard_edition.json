@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -960,9 +960,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 228308,
+  "EOS_Progressed": 228311,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 471,
+  "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25455,6 +25455,11 @@
       "Time": "2023-11-30T15:10:25.2388971+00:00",
       "NumProgressed": 228308,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-30T16:10:17.3106723+00:00",
+      "NumProgressed": 228311,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -25474,7 +25479,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59360
+      "UsersEstimate": 59361
     },
     {
       "ID": "ACH_BASE_11",
@@ -25546,7 +25551,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13698
+      "UsersEstimate": 13699
     },
     {
       "ID": "ACH_BASE_20",
@@ -25737,7 +25742,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 228308,
+      "Progressed": 228311,
       "Completed": 5
     }
   ],
@@ -25745,8 +25750,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-11-30T08:58:10.4059133+00:00",
-  "LastChanged_Achievements": "2023-11-30T15:10:25.2388965+00:00",
+  "LastChanged_Achievements": "2023-11-30T16:10:17.3106719+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:35.278824+00:00",
-  "LastUpdate_Ratings": "2023-11-30T14:59:18.6737961+00:00",
-  "LastUpdate_Achievements": "2023-11-30T15:10:25.2390423+00:00"
+  "LastUpdate_Ratings": "2023-11-30T15:59:08.5464535+00:00",
+  "LastUpdate_Achievements": "2023-11-30T16:10:17.310799+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1229,
+  "EOS_Progressed": 1230,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4309,6 +4309,11 @@
       "Time": "2023-11-30T04:09:31.9428063+00:00",
       "NumProgressed": 1229,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T16:10:25.719532+00:00",
+      "NumProgressed": 1230,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4368,7 +4373,7 @@
       "Name": "Call of Mana 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "call_of_mana_2",
@@ -4488,7 +4493,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "elemental_stones_2",
@@ -4512,7 +4517,7 @@
       "Name": "Elite Deck 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "elite_deck_2",
@@ -4536,7 +4541,7 @@
       "Name": "From Day to Day 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "from_day_to_day_2",
@@ -4560,7 +4565,7 @@
       "Name": "Glitter of Gold 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "glitter_of_gold_2",
@@ -4704,7 +4709,7 @@
       "Name": "Punctual 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "punctual_2",
@@ -4847,14 +4852,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1229,
+      "Progressed": 1230,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-11-30T15:10:33.7089964+00:00",
+  "LastChanged_Achievements": "2023-11-30T16:10:25.7195318+00:00",
   "LastUpdate_AppInfo": "2023-11-28T15:57:00.3278219+00:00",
-  "LastUpdate_Ratings": "2023-11-30T14:59:43.5646419+00:00",
-  "LastUpdate_Achievements": "2023-11-30T15:10:33.7090778+00:00"
+  "LastUpdate_Ratings": "2023-11-30T15:59:32.684156+00:00",
+  "LastUpdate_Achievements": "2023-11-30T16:10:25.7195951+00:00"
 }

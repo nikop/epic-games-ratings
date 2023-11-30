@@ -6,16 +6,16 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 6.00% | ~8,577 |
-| Basic in Bulk | 6.00% | ~8,577 |
-| Tinkle of Coins | 6.00% | ~8,577 |
-| Titan's First Steps | 6.00% | ~8,577 |
-| Disintermediation | 5.00% | ~7,148 |
-| Another Satisfied Customer | 4.00% | ~5,718 |
-| It's Free Real Estate | 4.00% | ~5,718 |
-| Budding Merchant | 4.00% | ~5,718 |
-| Capitalism Ho! | 4.00% | ~5,718 |
-| Own the Means of Production | 4.00% | ~5,718 |
+| Sponsored by Argon | 6.00% | ~8,578 |
+| Basic in Bulk | 6.00% | ~8,578 |
+| Tinkle of Coins | 6.00% | ~8,578 |
+| Titan's First Steps | 6.00% | ~8,578 |
+| Disintermediation | 5.00% | ~7,149 |
+| Another Satisfied Customer | 4.00% | ~5,719 |
+| It's Free Real Estate | 4.00% | ~5,719 |
+| Budding Merchant | 4.00% | ~5,719 |
+| Capitalism Ho! | 4.00% | ~5,719 |
+| Own the Means of Production | 4.00% | ~5,719 |
 | The Daily Grind | 3.00% | ~4,289 |
 | One Easy Payment | 3.00% | ~4,289 |
 | Some Assembly Required | 3.00% | ~4,289 |
@@ -64,6 +64,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Seasoned Journeyman | 2.00% | ~2,859 |
 | Did we pack lunch? | 2.00% | ~2,859 |
 | Attrition Mission | 2.00% | ~2,859 |
+| Glittering Collection | 2.00% | ~2,859 |
 | Black Friday Special | 2.00% | ~2,859 |
 | Magical Harmony | 2.00% | ~2,859 |
 | Special Ingredient | 2.00% | ~2,859 |
@@ -95,7 +96,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Bountiful Harvest | 1.00% | ~1,430 |
 | Precision Engineering | 1.00% | ~1,430 |
 | Scourge of the Seas | 1.00% | ~1,430 |
-| Glittering Collection | 1.00% | ~1,430 |
 | Treasure Trove | 1.00% | ~1,430 |
 | Moment of Respite | 1.00% | ~1,430 |
 | King's Shadow | 1.00% | ~1,430 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~429 |
 | Capitalist Camaraderie | 0.20% | ~286 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,958 (Ranked 80)  
+Progressed: 142,973 (Ranked 80)  
 Completed: 290 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,7 +343,7 @@ Completed: 290 (0.20%) (Ranked 257)
 | 2023-11-27 | 142,546 | 278 |
 | 2023-11-28 | 142,735 | 284 |
 | 2023-11-29 | 142,879 | 289 |
-| 2023-11-30 | 142,958 | 290 |
+| 2023-11-30 | 142,973 | 290 |
 ## Awards
 Max (Great for Beginners): 4,858  (Ranked 75)  
 Sum: 27,637 (Ranked 50)  

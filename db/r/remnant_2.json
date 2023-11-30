@@ -4891,10 +4891,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6194,
       "NumberOfAwardsMax": 2533
+    },
+    {
+      "Time": "2023-11-30T16:03:30.3183706+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6202,
+      "NumberOfAwardsMax": 2533
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6194,
+  "NumberOfAwards": 6202,
   "NumberOfAwardsMax": 2533,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4914,7 +4920,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 380
+      "Count": 385
     },
     {
       "Text": "This game has Challenging Combat",
@@ -4926,7 +4932,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 409
+      "Count": 412
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4965,10 +4971,10 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 231073,
+  "EOS_Progressed": 231117,
   "EOS_Completed": 541,
-  "EOS_NewPlayers": 4728,
-  "EOS_NewCompleters": 35,
+  "EOS_NewPlayers": 4738,
+  "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -20680,6 +20686,11 @@
       "Time": "2023-11-30T15:09:29.4397111+00:00",
       "NumProgressed": 231073,
       "NumCompleted": 541
+    },
+    {
+      "Time": "2023-11-30T16:09:20.2743434+00:00",
+      "NumProgressed": 231117,
+      "NumCompleted": 541
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20738,9 +20749,9 @@
       "ID": "Defeat_Cube",
       "SetID": "bkp3b1a",
       "Name": "Gleaming the Cube",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 693
+      "UsersEstimate": 924
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -20876,7 +20887,7 @@
       "Name": "First of Many",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -20996,7 +21007,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1155
+      "UsersEstimate": 1156
     },
     {
       "ID": "Obtain_Traits_B",
@@ -21100,7 +21111,7 @@
       "Name": "Succession",
       "Percentage": 0.2,
       "XP": 75,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "DLC1_Obtain_Archetype",
@@ -21124,29 +21135,29 @@
       "Name": "You Shall Pass",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 231073,
+      "Progressed": 231117,
       "Completed": 541
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 10238,
+      "Progressed": 10282,
       "Completed": 173
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-30T15:03:42.5906766+00:00",
-  "LastChanged_Achievements": "2023-11-30T15:09:29.4397108+00:00",
+  "LastChanged": "2023-11-30T16:03:30.3183704+00:00",
+  "LastChanged_Achievements": "2023-11-30T16:09:20.2743431+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-30T15:03:42.5906771+00:00",
-  "LastUpdate_Achievements": "2023-11-30T15:09:29.439813+00:00"
+  "LastUpdate_Ratings": "2023-11-30T16:03:30.318371+00:00",
+  "LastUpdate_Achievements": "2023-11-30T16:09:20.27445+00:00"
 }

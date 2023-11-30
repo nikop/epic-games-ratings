@@ -4,7 +4,7 @@
   "ProductSlug": "starvin-martian-fc5ae1",
   "Ranking_EOS_Progress": 764,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 498,
+  "Ranking_EOS_NewPlayers": 499,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-30T05:57:10.7516434+00:00",
-  "LastUpdate_Ratings": "2023-11-30T14:58:02.8768382+00:00",
-  "LastUpdate_Achievements": "2023-11-30T15:07:59.1412589+00:00"
+  "LastUpdate_Ratings": "2023-11-30T15:57:52.2751219+00:00",
+  "LastUpdate_Achievements": "2023-11-30T16:07:49.067216+00:00"
 }

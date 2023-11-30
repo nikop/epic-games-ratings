@@ -4,7 +4,7 @@
   "ProductSlug": "100-doors-escape-from-prison-1e0ba3",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 362,
-  "EOS_Completed": 63,
-  "EOS_NewPlayers": 144,
+  "EOS_Completed": 64,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 19,
-  "EOS_Completed_Percentage": 17.4,
+  "EOS_Completed_Percentage": 17.68,
   "EosHistory": [
     {
       "Time": "2023-07-27T20:02:52.2340673+00:00",
@@ -1419,6 +1419,11 @@
       "Time": "2023-11-30T11:09:02.6110891+00:00",
       "NumProgressed": 362,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-11-30T16:08:58.4998767+00:00",
+      "NumProgressed": 362,
+      "NumCompleted": 64
     }
   ],
   "AchievementsAdded": "2023-07-27T20:02:52.2356404+00:00",
@@ -1519,13 +1524,13 @@
       "ID": "5e260i9",
       "IsBase": true,
       "Progressed": 362,
-      "Completed": 63
+      "Completed": 64
     }
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-11-30T15:09:07.975633+00:00",
+  "LastChanged_Achievements": "2023-11-30T16:08:58.4998763+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.3167471+00:00",
-  "LastUpdate_Ratings": "2023-11-30T15:03:09.018903+00:00",
-  "LastUpdate_Achievements": "2023-11-30T15:09:07.9756552+00:00"
+  "LastUpdate_Ratings": "2023-11-30T16:02:57.5199563+00:00",
+  "LastUpdate_Achievements": "2023-11-30T16:08:58.4998908+00:00"
 }

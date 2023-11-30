@@ -4445,9 +4445,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77480,
+  "EOS_Progressed": 77482,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 578,
+  "EOS_NewPlayers": 577,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24535,6 +24535,11 @@
       "Time": "2023-11-30T15:06:07.4421332+00:00",
       "NumProgressed": 77480,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-11-30T16:05:55.6233378+00:00",
+      "NumProgressed": 77482,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -24658,7 +24663,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13946
+      "UsersEstimate": 13947
     },
     {
       "ID": "CLAYFACE_3",
@@ -24706,7 +24711,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 10072
+      "UsersEstimate": 10073
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -24754,7 +24759,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10072
+      "UsersEstimate": 10073
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -24770,7 +24775,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21694
+      "UsersEstimate": 21695
     },
     {
       "ID": "FREEZE_1_5",
@@ -24786,7 +24791,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14721
+      "UsersEstimate": 14722
     },
     {
       "ID": "FREEZE_3",
@@ -24850,7 +24855,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26343
+      "UsersEstimate": 26344
     },
     {
       "ID": "HARLEY_2",
@@ -24890,7 +24895,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38740
+      "UsersEstimate": 38741
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -24938,7 +24943,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26343
+      "UsersEstimate": 26344
     },
     {
       "ID": "MYSTERY_02",
@@ -24970,7 +24975,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13946
+      "UsersEstimate": 13947
     },
     {
       "ID": "MYSTERY_06",
@@ -25033,13 +25038,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77480,
+      "Progressed": 77482,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47760,
+      "Progressed": 47762,
       "Completed": 2675
     }
   ],
@@ -25047,8 +25052,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-30T08:59:04.0074158+00:00",
-  "LastChanged_Achievements": "2023-11-30T15:06:07.4421324+00:00",
+  "LastChanged_Achievements": "2023-11-30T16:05:55.6233376+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:48.4544768+00:00",
-  "LastUpdate_Ratings": "2023-11-30T15:00:43.4037114+00:00",
-  "LastUpdate_Achievements": "2023-11-30T15:06:07.442288+00:00"
+  "LastUpdate_Ratings": "2023-11-30T16:00:30.8128164+00:00",
+  "LastUpdate_Achievements": "2023-11-30T16:05:55.623494+00:00"
 }

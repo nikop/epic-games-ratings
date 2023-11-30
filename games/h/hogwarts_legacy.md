@@ -13,19 +13,19 @@ Rating: 4.76 (Ranked 130)
 | The Defender of Dragons | 12.00% | ~36,436 |
 | Loom for Improvement | 12.00% | ~36,436 |
 | A Talent for Spending | 12.00% | ~36,436 |
-| Grappling with a Graphorn | 11.00% | ~33,399 |
-| The One Who Mastered Memories | 11.00% | ~33,399 |
-| The Hallowed Hero | 11.00% | ~33,399 |
-| The Hero of Hogwarts | 11.00% | ~33,399 |
-| Challenge Accepted | 11.00% | ~33,399 |
-| Coasting Along | 11.00% | ~33,399 |
+| Grappling with a Graphorn | 11.00% | ~33,400 |
+| The One Who Mastered Memories | 11.00% | ~33,400 |
+| The Hallowed Hero | 11.00% | ~33,400 |
+| The Hero of Hogwarts | 11.00% | ~33,400 |
+| Challenge Accepted | 11.00% | ~33,400 |
+| Coasting Along | 11.00% | ~33,400 |
 | Followed the Butterflies | 10.00% | ~30,363 |
 | Rising From the Ashes | 10.00% | ~30,363 |
 | A Sallow Grave | 9.00% | ~27,327 |
 | The Spell Master | 9.00% | ~27,327 |
-| The Avenging Gazelle | 8.00% | ~24,290 |
-| Beast Friends | 8.00% | ~24,290 |
-| Flight the Good Flight | 8.00% | ~24,290 |
+| The Avenging Gazelle | 8.00% | ~24,291 |
+| Beast Friends | 8.00% | ~24,291 |
+| Flight the Good Flight | 8.00% | ~24,291 |
 | Raising Expectations | 7.00% | ~21,254 |
 | The Seeker of Knowledge | 6.00% | ~18,218 |
 | The Root of the Problem | 6.00% | ~18,218 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 130)
 | The Nature of the Beast | 0.70% | ~2,125 |
 | Collector's Edition | 0.30% | ~911 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,631 (Ranked 54)  
+Progressed: 303,632 (Ranked 54)  
 Completed: 519 (0.17%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,10 +275,10 @@ Completed: 519 (0.17%) (Ranked 266)
 | 2023-11-27 | 303,418 | 518 |
 | 2023-11-28 | 303,515 | 519 |
 | 2023-11-29 | 303,596 | 519 |
-| 2023-11-30 | 303,631 | 519 |
+| 2023-11-30 | 303,632 | 519 |
 ## Awards
 Max (Character Customization): 24,755  (Ranked 17)  
-Sum: 49,484 (Ranked 30)  
+Sum: 49,489 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -289,7 +289,7 @@ Diff (max vs sum): -13
 | This game has Diverse Characters | 1,310 |
 | This game is Relaxing | 1,280 |
 | This game is Extremely Fun | 1,279 |
-| This game has Amazing Characters | 1,237 |
+| This game has Amazing Characters | 1,242 |
 | This game is Highly Recommended | 1,216 |
 | This game has Quickly Understood Controls | 1,185 |
 | This game has Beautiful Visuals | 1,069 |
@@ -548,4 +548,4 @@ Diff (max vs sum): -13
 | 2023-11-27 | 4.76 | 24,711 | 49,337 |
 | 2023-11-28 | 4.76 | 24,728 | 49,391 |
 | 2023-11-29 | 4.76 | 24,755 | 49,466 |
-| 2023-11-30 | 4.76 | 24,755 | 49,484 |
+| 2023-11-30 | 4.76 | 24,755 | 49,489 |

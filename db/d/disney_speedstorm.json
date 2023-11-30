@@ -1605,10 +1605,10 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 317383,
-  "EOS_Completed": 370,
-  "EOS_NewPlayers": 8814,
-  "EOS_NewCompleters": 48,
+  "EOS_Progressed": 317432,
+  "EOS_Completed": 375,
+  "EOS_NewPlayers": 8801,
+  "EOS_NewCompleters": 53,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
     {
@@ -14345,6 +14345,11 @@
       "Time": "2023-11-30T15:06:58.7861691+00:00",
       "NumProgressed": 317383,
       "NumCompleted": 370
+    },
+    {
+      "Time": "2023-11-30T16:06:47.7931039+00:00",
+      "NumProgressed": 317432,
+      "NumCompleted": 375
     }
   ],
   "TotalAchievements": 24,
@@ -14364,7 +14369,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 15869
+      "UsersEstimate": 15872
     },
     {
       "ID": "11",
@@ -14388,7 +14393,7 @@
       "Name": "EXPERIENCED CREW",
       "Percentage": 0.6,
       "XP": 70,
-      "UsersEstimate": 1904
+      "UsersEstimate": 1905
     },
     {
       "ID": "14",
@@ -14396,7 +14401,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 22217
+      "UsersEstimate": 22220
     },
     {
       "ID": "15",
@@ -14412,7 +14417,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 0.9,
       "XP": 45,
-      "UsersEstimate": 2856
+      "UsersEstimate": 2857
     },
     {
       "ID": "17",
@@ -14420,7 +14425,7 @@
       "Name": "BE OUR GUEST",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 2856
+      "UsersEstimate": 2857
     },
     {
       "ID": "18",
@@ -14452,7 +14457,7 @@
       "Name": "PROTECTED",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 12695
+      "UsersEstimate": 12697
     },
     {
       "ID": "21",
@@ -14476,7 +14481,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 6348
+      "UsersEstimate": 6349
     },
     {
       "ID": "24",
@@ -14484,7 +14489,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 9521
+      "UsersEstimate": 9523
     },
     {
       "ID": "3",
@@ -14492,7 +14497,7 @@
       "Name": "FRIENDLY",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 2856
+      "UsersEstimate": 2857
     },
     {
       "ID": "4",
@@ -14500,7 +14505,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 9521
+      "UsersEstimate": 9523
     },
     {
       "ID": "5",
@@ -14508,7 +14513,7 @@
       "Name": "ROOKIE",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 34912
+      "UsersEstimate": 34918
     },
     {
       "ID": "6",
@@ -14516,7 +14521,7 @@
       "Name": "PRO",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 12695
+      "UsersEstimate": 12697
     },
     {
       "ID": "7",
@@ -14524,7 +14529,7 @@
       "Name": "MASTER",
       "Percentage": 0.9,
       "XP": 65,
-      "UsersEstimate": 2856
+      "UsersEstimate": 2857
     },
     {
       "ID": "8",
@@ -14540,23 +14545,23 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 2856
+      "UsersEstimate": 2857
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 317383,
-      "Completed": 370
+      "Progressed": 317432,
+      "Completed": 375
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2023-11-30T15:01:10.1290419+00:00",
-  "LastChanged_Achievements": "2023-11-30T15:06:58.7861685+00:00",
+  "LastChanged_Achievements": "2023-11-30T16:06:47.7931036+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:04.1206554+00:00",
-  "LastUpdate_Ratings": "2023-11-30T15:01:10.1290423+00:00",
-  "LastUpdate_Achievements": "2023-11-30T15:06:58.786278+00:00"
+  "LastUpdate_Ratings": "2023-11-30T16:00:58.922049+00:00",
+  "LastUpdate_Achievements": "2023-11-30T16:06:47.7932078+00:00"
 }

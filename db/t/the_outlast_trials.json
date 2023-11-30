@@ -4,10 +4,10 @@
   "ProductSlug": "the-outlast-trials",
   "Ranking_Rating": 296,
   "Ranking_Popularity": 283,
-  "Ranking_PopularitySum": 250,
+  "Ranking_PopularitySum": 249,
   "Ranking_EOS_Progress": 764,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 498,
+  "Ranking_EOS_NewPlayers": 499,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-05-18T17:00:00+00:00",
@@ -3271,10 +3271,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 1163,
       "NumberOfAwardsMax": 217
+    },
+    {
+      "Time": "2023-11-30T15:58:44.9250257+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 1164,
+      "NumberOfAwardsMax": 217
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1163,
+  "NumberOfAwards": 1164,
   "NumberOfAwardsMax": 217,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3318,7 +3324,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 169
+      "Count": 170
     },
     {
       "Text": "This game is Educational",
@@ -3351,8 +3357,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
-  "LastChanged": "2023-11-30T13:04:15.9100498+00:00",
+  "LastChanged": "2023-11-30T15:58:44.9250255+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:00.7346769+00:00",
-  "LastUpdate_Ratings": "2023-11-30T14:58:56.2656747+00:00",
-  "LastUpdate_Achievements": "2023-11-30T15:08:49.5354465+00:00"
+  "LastUpdate_Ratings": "2023-11-30T15:58:44.9250262+00:00",
+  "LastUpdate_Achievements": "2023-11-30T16:08:40.178627+00:00"
 }

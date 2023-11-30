@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -4398,9 +4398,9 @@
       "ID": "STB_MISSION5A_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Glyndemere",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 587
+      "UsersEstimate": 614
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -4575,8 +4575,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-11-30T15:06:56.2584097+00:00",
+  "LastChanged_Achievements": "2023-11-30T16:06:45.3550401+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:12.1795379+00:00",
-  "LastUpdate_Ratings": "2023-11-30T14:58:29.1822565+00:00",
-  "LastUpdate_Achievements": "2023-11-30T15:06:56.2584668+00:00"
+  "LastUpdate_Ratings": "2023-11-30T15:58:18.6405385+00:00",
+  "LastUpdate_Achievements": "2023-11-30T16:06:45.3551002+00:00"
 }

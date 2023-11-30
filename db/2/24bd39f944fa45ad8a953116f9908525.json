@@ -381,9 +381,9 @@
       "ID": "ach_11_scarvengerEA",
       "SetID": "16n29hg",
       "Name": "Super Scavenger",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_12_worldMap",
@@ -740,8 +740,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-11-30T15:05:18.5592165+00:00",
+  "LastChanged_Achievements": "2023-11-30T16:05:05.7961891+00:00",
   "LastUpdate_AppInfo": "2023-11-29T20:57:25.545137+00:00",
-  "LastUpdate_Ratings": "2023-11-30T15:02:00.0210414+00:00",
-  "LastUpdate_Achievements": "2023-11-30T15:05:18.5592611+00:00"
+  "LastUpdate_Ratings": "2023-11-30T16:01:49.0096185+00:00",
+  "LastUpdate_Achievements": "2023-11-30T16:05:05.7962239+00:00"
 }

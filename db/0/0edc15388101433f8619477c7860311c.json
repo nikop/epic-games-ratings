@@ -363,9 +363,9 @@
       "ID": "KarmaEyes",
       "SetID": "7m88n8p",
       "Name": "Karma in My Eyes",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Letters",
@@ -411,9 +411,9 @@
       "ID": "Professions",
       "SetID": "7m88n8p",
       "Name": "Different People Specialize in Different Professions",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ProtectedPower",
@@ -435,25 +435,25 @@
       "ID": "SeeNoEvil",
       "SetID": "7m88n8p",
       "Name": "See No Evil",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "SeeingThrough",
       "SetID": "7m88n8p",
       "Name": "Seeing through Vanity",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 65,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "TimeManagement",
       "SetID": "7m88n8p",
       "Name": "Master of Time Management",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "WaitingForSalvation",
@@ -482,8 +482,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-11-30T15:06:07.6786258+00:00",
+  "LastChanged_Achievements": "2023-11-30T16:05:55.8734944+00:00",
   "LastUpdate_AppInfo": "2023-11-27T10:57:15.6283933+00:00",
-  "LastUpdate_Ratings": "2023-11-30T14:59:54.0996736+00:00",
-  "LastUpdate_Achievements": "2023-11-30T15:06:07.6786446+00:00"
+  "LastUpdate_Ratings": "2023-11-30T15:59:43.1913743+00:00",
+  "LastUpdate_Achievements": "2023-11-30T16:05:55.873508+00:00"
 }

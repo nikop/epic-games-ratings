@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -5455,9 +5455,9 @@
       "Count": 342
     }
   ],
-  "EOS_Progressed": 252558,
+  "EOS_Progressed": 252559,
   "EOS_Completed": 893,
-  "EOS_NewPlayers": 893,
+  "EOS_NewPlayers": 889,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -29840,6 +29840,11 @@
       "Time": "2023-11-30T15:10:29.5283845+00:00",
       "NumProgressed": 252558,
       "NumCompleted": 893
+    },
+    {
+      "Time": "2023-11-30T16:10:21.641507+00:00",
+      "NumProgressed": 252559,
+      "NumCompleted": 893
     }
   ],
   "TotalAchievements": 39,
@@ -29899,7 +29904,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 75767
+      "UsersEstimate": 75768
     },
     {
       "ID": "AchievementBoulderID",
@@ -29915,7 +29920,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 229828
+      "UsersEstimate": 229829
     },
     {
       "ID": "AchievementClownID",
@@ -29939,7 +29944,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 70716
+      "UsersEstimate": 70717
     },
     {
       "ID": "AchievementEggID",
@@ -29947,7 +29952,7 @@
       "Name": "Egg Simulator",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 45460
+      "UsersEstimate": 45461
     },
     {
       "ID": "AchievementFrenchFikaID",
@@ -30011,7 +30016,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 113651
+      "UsersEstimate": 113652
     },
     {
       "ID": "AchievementIntroID",
@@ -30019,7 +30024,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 143958
+      "UsersEstimate": 143959
     },
     {
       "ID": "AchievementLootBoxID",
@@ -30083,7 +30088,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 186893
+      "UsersEstimate": 186894
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -30131,7 +30136,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 118702
+      "UsersEstimate": 118703
     },
     {
       "ID": "AchievementTrinketID",
@@ -30162,7 +30167,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 252558,
+      "Progressed": 252559,
       "Completed": 893
     }
   ],
@@ -30170,8 +30175,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-11-29T22:58:39.5999656+00:00",
-  "LastChanged_Achievements": "2023-11-30T15:10:29.5283842+00:00",
+  "LastChanged_Achievements": "2023-11-30T16:10:21.6415067+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:49.2082143+00:00",
-  "LastUpdate_Ratings": "2023-11-30T15:00:29.8873623+00:00",
-  "LastUpdate_Achievements": "2023-11-30T15:10:29.5285106+00:00"
+  "LastUpdate_Ratings": "2023-11-30T16:00:18.6840634+00:00",
+  "LastUpdate_Achievements": "2023-11-30T16:10:21.6416527+00:00"
 }

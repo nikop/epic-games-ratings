@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16758,
+  "EOS_Progressed": 16759,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -15198,6 +15198,11 @@
       "Time": "2023-11-30T15:06:19.8727757+00:00",
       "NumProgressed": 16758,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-11-30T16:06:08.2782099+00:00",
+      "NumProgressed": 16759,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15217,7 +15222,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "tpote_achievement_11",
@@ -15225,7 +15230,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3854
+      "UsersEstimate": 3855
     },
     {
       "ID": "tpote_achievement_12",
@@ -15289,7 +15294,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3016
+      "UsersEstimate": 3017
     },
     {
       "ID": "tpote_achievement_2",
@@ -15313,7 +15318,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 5027
+      "UsersEstimate": 5028
     },
     {
       "ID": "tpote_achievement_22",
@@ -15361,7 +15366,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3016
+      "UsersEstimate": 3017
     },
     {
       "ID": "tpote_achievement_28",
@@ -15401,7 +15406,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 3016
+      "UsersEstimate": 3017
     },
     {
       "ID": "tpote_achievement_32",
@@ -15473,7 +15478,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6703
+      "UsersEstimate": 6704
     },
     {
       "ID": "tpote_achievement_40",
@@ -15505,7 +15510,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3854
+      "UsersEstimate": 3855
     },
     {
       "ID": "tpote_achievement_7",
@@ -15536,15 +15541,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16758,
+      "Progressed": 16759,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-30T15:06:19.8727751+00:00",
+  "LastChanged_Achievements": "2023-11-30T16:06:08.2782092+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:06.2264545+00:00",
-  "LastUpdate_Ratings": "2023-11-30T15:01:39.1988249+00:00",
-  "LastUpdate_Achievements": "2023-11-30T15:06:19.8728938+00:00"
+  "LastUpdate_Ratings": "2023-11-30T16:01:27.9897101+00:00",
+  "LastUpdate_Achievements": "2023-11-30T16:06:08.2782961+00:00"
 }

@@ -12,7 +12,7 @@ Number of Ratings: 292  (23.09.2022)
 | Veteran | 10.00% | ~29 |
 | Dressed For Success | 9.00% | ~26 |
 | Sorcerous Spree | 6.00% | ~17 |
-| Humiliation | 5.00% | ~15 |
+| Humiliation | 6.00% | ~17 |
 | Whoops! | 4.00% | ~12 |
 | Veni, Vidi, Vici | 4.00% | ~12 |
 | Multi Kill | 3.00% | ~9 |
@@ -22,11 +22,11 @@ Number of Ratings: 292  (23.09.2022)
 | Such A Fungi | 2.00% | ~6 |
 | Landlord Extraordinaire | 2.00% | ~6 |
 | Trojan Horse | 2.00% | ~6 |
+| Pyrrhic Victory | 2.00% | ~6 |
 | The Song of Stoutheart | 1.00% | ~3 |
 | This Spot's Taken | 1.00% | ~3 |
 | Deepstrike | 1.00% | ~3 |
 | Infernal Influence | 1.00% | ~3 |
-| Pyrrhic Victory | 1.00% | ~3 |
 | Death To Diplomacy | 0.70% | ~2 |
 | Versatile Wielder | 0.70% | ~2 |
 | Coming Through! | 0.70% | ~2 |

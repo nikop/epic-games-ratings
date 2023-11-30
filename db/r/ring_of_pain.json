@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3508,9 +3508,9 @@
       "Count": 745
     }
   ],
-  "EOS_Progressed": 240432,
+  "EOS_Progressed": 240433,
   "EOS_Completed": 291,
-  "EOS_NewPlayers": 329,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -26683,6 +26683,11 @@
       "Time": "2023-11-30T15:10:36.3564271+00:00",
       "NumProgressed": 240432,
       "NumCompleted": 291
+    },
+    {
+      "Time": "2023-11-30T16:10:28.4702152+00:00",
+      "NumProgressed": 240433,
+      "NumCompleted": 291
     }
   ],
   "TotalAchievements": 138,
@@ -27028,9 +27033,9 @@
       "ID": "HIGHDEFENSE",
       "SetID": "5l8oe0h",
       "Name": "Juggernaut",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 481
     },
     {
       "ID": "HIGHHEALTH",
@@ -27797,13 +27802,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240432,
+      "Progressed": 240433,
       "Completed": 291
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1912,
+      "Progressed": 1913,
       "Completed": 392
     }
   ],
@@ -27811,8 +27816,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-29T21:57:08.2602483+00:00",
-  "LastChanged_Achievements": "2023-11-30T15:10:36.3564267+00:00",
+  "LastChanged_Achievements": "2023-11-30T16:10:28.470215+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.3413354+00:00",
-  "LastUpdate_Ratings": "2023-11-30T14:58:01.8766298+00:00",
-  "LastUpdate_Achievements": "2023-11-30T15:10:36.3566687+00:00"
+  "LastUpdate_Ratings": "2023-11-30T15:57:51.3006839+00:00",
+  "LastUpdate_Achievements": "2023-11-30T16:10:28.4704752+00:00"
 }

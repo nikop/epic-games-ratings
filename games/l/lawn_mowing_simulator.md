@@ -6,27 +6,27 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 79.00% | ~540,847 |
-| Every story has a beginning | 36.00% | ~246,462 |
-| The first of many | 31.00% | ~212,231 |
-| Positive word of mouth | 18.00% | ~123,231 |
-| Lawn in the U.S.A. | 15.00% | ~102,692 |
-| Blade Runner | 9.00% | ~61,615 |
-| Credible | 7.00% | ~47,923 |
-| Teamwork makes the dream work | 6.00% | ~41,077 |
+| The dream begins | 79.00% | ~540,859 |
+| Every story has a beginning | 36.00% | ~246,468 |
+| The first of many | 31.00% | ~212,236 |
+| Positive word of mouth | 18.00% | ~123,234 |
+| Lawn in the U.S.A. | 15.00% | ~102,695 |
+| Blade Runner | 9.00% | ~61,617 |
+| Credible | 7.00% | ~47,924 |
+| Teamwork makes the dream work | 6.00% | ~41,078 |
 | Where there's muck there's brass | 4.00% | ~27,385 |
 | Bigger and better | 4.00% | ~27,385 |
 | Aggressive expansion | 4.00% | ~27,385 |
-| Size isn't everything | 3.00% | ~20,538 |
-| Close shave | 3.00% | ~20,538 |
-| Established | 3.00% | ~20,538 |
-| Fighting on all fronts | 2.00% | ~13,692 |
-| Mighty Mowing Park Ranger | 2.00% | ~13,692 |
-| Every good deed… | 2.00% | ~13,692 |
-| Leaner and meaner | 2.00% | ~13,692 |
-| The top of the mountain | 2.00% | ~13,692 |
-| First step on the ladder | 2.00% | ~13,692 |
-| Trusted | 2.00% | ~13,692 |
+| Size isn't everything | 3.00% | ~20,539 |
+| Close shave | 3.00% | ~20,539 |
+| Established | 3.00% | ~20,539 |
+| Fighting on all fronts | 2.00% | ~13,693 |
+| Mighty Mowing Park Ranger | 2.00% | ~13,693 |
+| Every good deed… | 2.00% | ~13,693 |
+| Leaner and meaner | 2.00% | ~13,693 |
+| The top of the mountain | 2.00% | ~13,693 |
+| First step on the ladder | 2.00% | ~13,693 |
+| Trusted | 2.00% | ~13,693 |
 | Earn your stripes | 0.90% | ~6,162 |
 | Lawn & Order | 0.90% | ~6,162 |
 | The grass is always greener | 0.90% | ~6,162 |
@@ -34,9 +34,9 @@ Number of Ratings: 5,086  (23.09.2022)
 | All hands on deck | 0.90% | ~6,162 |
 | Professional | 0.90% | ~6,162 |
 | Worked your grass off | 0.80% | ~5,477 |
-| Phoenix rises | 0.40% | ~2,738 |
-| Cut Loose | 0.40% | ~2,738 |
-| Esteemed | 0.40% | ~2,738 |
+| Phoenix rises | 0.40% | ~2,739 |
+| Cut Loose | 0.40% | ~2,739 |
+| Esteemed | 0.40% | ~2,739 |
 | Hard times | 0.30% | ~2,054 |
 | Zero to hero | 0.20% | ~1,369 |
 | In it for the long haul | 0.20% | ~1,369 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~685 |
 | Mo mowers, mo problems | 0.10% | ~685 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 684,616 (Ranked 27)  
+Progressed: 684,632 (Ranked 27)  
 Completed: 18 (0.00%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 18 (0.00%) (Ranked 362)
 | 2023-11-27 | 684,102 | 18 |
 | 2023-11-28 | 684,282 | 18 |
 | 2023-11-29 | 684,496 | 18 |
-| 2023-11-30 | 684,616 | 18 |
+| 2023-11-30 | 684,632 | 18 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 300)  
 Sum: 989 (Ranked 263)  
