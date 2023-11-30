@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1934,
+  "EOS_Progressed": 1935,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7318,6 +7318,11 @@
       "Time": "2023-11-30T18:06:13.5503883+00:00",
       "NumProgressed": 1934,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T19:07:28.2593462+00:00",
+      "NumProgressed": 1935,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7327,9 +7332,9 @@
       "ID": "ach_defeat_aliens_250",
       "SetID": "bm61c2p",
       "Name": "Know The Enemy",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 97
+      "UsersEstimate": 116
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -7359,9 +7364,9 @@
       "ID": "ach_gold_rewards_100",
       "SetID": "bm61c2p",
       "Name": "Gold Achiever",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 58
+      "UsersEstimate": 77
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -7399,9 +7404,9 @@
       "ID": "ach_silver_rewards_50",
       "SetID": "bm61c2p",
       "Name": "Silver Achiever",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 116
     },
     {
       "ID": "objective_headquarters_10",
@@ -7457,7 +7462,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -7521,7 +7526,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -7537,7 +7542,7 @@
       "Name": "Stocking Up",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -7553,7 +7558,7 @@
       "Name": "On Target",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -7632,7 +7637,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1934,
+      "Progressed": 1935,
       "Completed": 1
     }
   ],
@@ -7640,8 +7645,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-21T23:00:15.982699+00:00",
-  "LastChanged_Achievements": "2023-11-30T18:06:13.5503876+00:00",
+  "LastChanged_Achievements": "2023-11-30T19:07:28.2593459+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:27.1285109+00:00",
-  "LastUpdate_Ratings": "2023-11-30T18:02:38.0946992+00:00",
-  "LastUpdate_Achievements": "2023-11-30T18:06:13.5504751+00:00"
+  "LastUpdate_Ratings": "2023-11-30T19:02:35.6758603+00:00",
+  "LastUpdate_Achievements": "2023-11-30T19:07:28.2594366+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -299,9 +299,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3377,
+  "EOS_Progressed": 3380,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5989,6 +5989,11 @@
       "Time": "2023-11-29T19:05:08.4853497+00:00",
       "NumProgressed": 3377,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T19:06:37.731155+00:00",
+      "NumProgressed": 3380,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6000,7 +6005,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "ACH_BASE_10",
@@ -6064,7 +6069,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "ACH_BASE_19",
@@ -6088,7 +6093,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "ACH_BASE_22",
@@ -6104,7 +6109,7 @@
       "Name": "Space Society",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "ACH_BASE_24",
@@ -6112,7 +6117,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "ACH_BASE_25",
@@ -6128,7 +6133,7 @@
       "Name": "Sightseeing",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ACH_BASE_27",
@@ -6136,7 +6141,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "ACH_BASE_28",
@@ -6168,7 +6173,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "ACH_BASE_31",
@@ -6208,7 +6213,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "ACH_BASE_36",
@@ -6224,7 +6229,7 @@
       "Name": "Necessary Enhancement",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ACH_BASE_38",
@@ -6384,7 +6389,7 @@
       "Name": "Hope Seeker",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "ACH_BASE_60",
@@ -6432,7 +6437,7 @@
       "Name": "From the Past",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ACH_BASE_8",
@@ -6455,13 +6460,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1561,
+      "Progressed": 1564,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3377,
+      "Progressed": 3380,
       "Completed": 0
     }
   ],
@@ -6469,8 +6474,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-11-29T21:59:30.1166071+00:00",
-  "LastChanged_Achievements": "2023-11-30T18:05:37.6266153+00:00",
+  "LastChanged_Achievements": "2023-11-30T19:06:37.7311547+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:09.2779829+00:00",
-  "LastUpdate_Ratings": "2023-11-30T18:00:20.0039326+00:00",
-  "LastUpdate_Achievements": "2023-11-30T18:05:37.6267044+00:00"
+  "LastUpdate_Ratings": "2023-11-30T19:01:27.7051799+00:00",
+  "LastUpdate_Achievements": "2023-11-30T19:06:37.7312628+00:00"
 }

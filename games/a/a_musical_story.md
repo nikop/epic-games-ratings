@@ -16,7 +16,7 @@
 | Briget's | 55.00% | ~58 |
 | Sound of Noise | 50.00% | ~53 |
 | Big City Music | 48.00% | ~51 |
-| Love at First Sight | 46.00% | ~49 |
+| Love at First Sight | 47.00% | ~50 |
 | First Kiss | 40.00% | ~42 |
 | Symbiosis | 37.00% | ~39 |
 | A Bigger Band | 35.00% | ~37 |
@@ -59,7 +59,7 @@
 | Pinewood | 0.90% | ~1 |
 | Love is All | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 106 (Ranked 431)  
+Progressed: 106 (Ranked 432)  
 Completed: 1 (0.94%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |

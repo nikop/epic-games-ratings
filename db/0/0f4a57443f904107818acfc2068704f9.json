@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 782,
+  "EOS_Progressed": 784,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 320,
+  "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1597,6 +1597,11 @@
       "Time": "2023-11-30T18:04:49.5749288+00:00",
       "NumProgressed": 782,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T19:05:29.7057563+00:00",
+      "NumProgressed": 784,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1665,7 +1670,7 @@
       "Name": "Pathfinder",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 594
+      "UsersEstimate": 596
     },
     {
       "ID": "CompleteChapter10",
@@ -1681,7 +1686,7 @@
       "Name": "The Artefact is Mine",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "CompleteChapter12",
@@ -1737,7 +1742,7 @@
       "Name": "Who Needs Reinforcements?",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "CompleteChapter18",
@@ -1753,7 +1758,7 @@
       "Name": "Met the Enemy",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "CompleteChapter3",
@@ -1761,7 +1766,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "CompleteChapter4",
@@ -1881,7 +1886,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Win50ConquestBattles",
@@ -1904,14 +1909,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 782,
+      "Progressed": 784,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-30T18:04:49.5749283+00:00",
+  "LastChanged_Achievements": "2023-11-30T19:05:29.7057561+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-30T17:58:04.0565248+00:00",
-  "LastUpdate_Achievements": "2023-11-30T18:04:49.574983+00:00"
+  "LastUpdate_Ratings": "2023-11-30T18:58:09.4289798+00:00",
+  "LastUpdate_Achievements": "2023-11-30T19:05:29.7058055+00:00"
 }

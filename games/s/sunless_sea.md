@@ -6,11 +6,11 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~14,909 |
-| Sweet Sorrow | 18.00% | ~7,455 |
+| Sink Beneath the Waves | 36.00% | ~14,911 |
+| Sweet Sorrow | 18.00% | ~7,456 |
 | Rules the Waves | 17.00% | ~7,041 |
-| Thou, All-Shaking Thunder | 15.00% | ~6,212 |
-| Rival | 14.00% | ~5,798 |
+| Thou, All-Shaking Thunder | 15.00% | ~6,213 |
+| Rival | 14.00% | ~5,799 |
 | Correspondent | 12.00% | ~4,970 |
 | Lose Your Mind | 12.00% | ~4,970 |
 | Sound Mind? | 12.00% | ~4,970 |
@@ -18,7 +18,7 @@ Number of Ratings: 401  (23.09.2022)
 | HE SUN THE SUN THE SUN T | 11.00% | ~4,556 |
 | The Fall of the House | 11.00% | ~4,556 |
 | Shipmate | 11.00% | ~4,556 |
-| One Year at Zee | 8.00% | ~3,313 |
+| One Year at Zee | 8.00% | ~3,314 |
 | Pupil | 7.00% | ~2,899 |
 | Salvager | 7.00% | ~2,899 |
 | Open Your Ears | 7.00% | ~2,899 |
@@ -26,9 +26,9 @@ Number of Ratings: 401  (23.09.2022)
 | Zee Fever | 5.00% | ~2,071 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,657 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,657 |
-| Storm's Curse | 3.00% | ~1,242 |
-| We're Gonna Need a Bigger Boat | 3.00% | ~1,242 |
-| Come Closer | 3.00% | ~1,242 |
+| Storm's Curse | 3.00% | ~1,243 |
+| We're Gonna Need a Bigger Boat | 3.00% | ~1,243 |
+| Come Closer | 3.00% | ~1,243 |
 | Roaring Rise | 2.00% | ~828 |
 | I am the Captain of my Soul | 2.00% | ~828 |
 | A buoyant escape | 1.00% | ~414 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~41 |
 | Ten Years at Zee | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,415 (Ranked 121)  
+Progressed: 41,420 (Ranked 121)  
 Completed: 4 (0.01%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 4 (0.01%) (Ranked 342)
 | 2023-11-27 | 41,295 | 4 |
 | 2023-11-28 | 41,343 | 4 |
 | 2023-11-29 | 41,382 | 4 |
-| 2023-11-30 | 41,415 | 4 |
+| 2023-11-30 | 41,420 | 4 |
 ## Awards
 Max (Character Customization): 219  (Ranked 281)  
 Sum: 292 (Ranked 367)  

@@ -2,9 +2,9 @@
   "ID": "62560bfc19784544900746539bf8dc4a",
   "Name": "OPUS: Echo of Starsong - Full Bloom Edition",
   "ProductSlug": "opus-echo-of-starsong-6209ec",
-  "Ranking_EOS_Progress": 765,
+  "Ranking_EOS_Progress": 766,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewPlayers": 498,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:28.444162+00:00",
   "LastChanged": "2023-03-31T05:57:28.4441621+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:37.8177585+00:00",
-  "LastUpdate_Ratings": "2023-11-30T17:58:39.6003536+00:00",
-  "LastUpdate_Achievements": "2023-11-30T18:03:27.049384+00:00"
+  "LastUpdate_Ratings": "2023-11-30T18:59:01.2948575+00:00",
+  "LastUpdate_Achievements": "2023-11-30T19:03:50.5085026+00:00"
 }

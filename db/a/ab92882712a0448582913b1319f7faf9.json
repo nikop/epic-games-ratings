@@ -2,9 +2,9 @@
   "ID": "ab92882712a0448582913b1319f7faf9",
   "Name": "Planeticus",
   "ProductSlug": "planeticusgame-5dd84a",
-  "Ranking_EOS_Progress": 765,
+  "Ranking_EOS_Progress": 766,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewPlayers": 498,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-09-12T06:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-08T09:05:03.8110043+00:00",
-  "LastChanged_Achievements": "2023-11-30T18:06:07.1601515+00:00",
+  "LastChanged_Achievements": "2023-11-30T19:07:19.0191877+00:00",
   "LastUpdate_AppInfo": "2023-11-30T02:19:30.6538019+00:00",
-  "LastUpdate_Ratings": "2023-11-30T17:59:59.8077466+00:00",
-  "LastUpdate_Achievements": "2023-11-30T18:06:07.1601549+00:00"
+  "LastUpdate_Ratings": "2023-11-30T19:00:58.6748392+00:00",
+  "LastUpdate_Achievements": "2023-11-30T19:07:19.0191906+00:00"
 }

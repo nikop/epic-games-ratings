@@ -4,7 +4,7 @@
   "ProductSlug": "classic-racing-manager-679706",
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 354,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 480,
+  "EOS_Progressed": 481,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1079,6 +1079,11 @@
       "Time": "2023-11-29T07:09:58.5196617+00:00",
       "NumProgressed": 480,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T19:10:22.5116684+00:00",
+      "NumProgressed": 481,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -1154,15 +1159,15 @@
       "Name": "Newbie",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "ACHIEVEMENT_15",
       "SetID": "76k7b7p",
       "Name": "Amateur newbie",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -1594,7 +1599,7 @@
       "Name": "No brakes",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -1816,9 +1821,9 @@
       "ID": "ACHIEVEMENT_31",
       "SetID": "76k7b7p",
       "Name": "Hattrick",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_311",
@@ -2385,14 +2390,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 480,
+      "Progressed": 481,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-11-30T18:09:50.0919164+00:00",
+  "LastChanged_Achievements": "2023-11-30T19:10:22.5116682+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:10.2873616+00:00",
-  "LastUpdate_Ratings": "2023-11-30T17:57:48.4571016+00:00",
-  "LastUpdate_Achievements": "2023-11-30T18:09:50.09214+00:00"
+  "LastUpdate_Ratings": "2023-11-30T18:57:46.5841391+00:00",
+  "LastUpdate_Achievements": "2023-11-30T19:10:22.5120357+00:00"
 }

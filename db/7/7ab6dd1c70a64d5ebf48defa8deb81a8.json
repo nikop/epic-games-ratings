@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -1076,9 +1076,9 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_16",
@@ -1259,8 +1259,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-30T18:09:46.0920709+00:00",
+  "LastChanged_Achievements": "2023-11-30T19:10:17.6846626+00:00",
   "LastUpdate_AppInfo": "2023-11-27T19:57:22.2061003+00:00",
-  "LastUpdate_Ratings": "2023-11-30T17:57:50.9692064+00:00",
-  "LastUpdate_Achievements": "2023-11-30T18:09:46.0920933+00:00"
+  "LastUpdate_Ratings": "2023-11-30T18:57:50.2786677+00:00",
+  "LastUpdate_Achievements": "2023-11-30T19:10:17.6846923+00:00"
 }

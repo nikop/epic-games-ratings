@@ -238,9 +238,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 41225,
+  "EOS_Progressed": 41227,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 394,
+  "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -24668,6 +24668,11 @@
       "Time": "2023-11-30T18:05:55.9742848+00:00",
       "NumProgressed": 41225,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-30T19:07:02.8595271+00:00",
+      "NumProgressed": 41227,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -24687,7 +24692,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8657
+      "UsersEstimate": 8658
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -24719,7 +24724,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -24791,7 +24796,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -24910,7 +24915,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 41225,
+      "Progressed": 41227,
       "Completed": 26
     }
   ],
@@ -24918,8 +24923,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-11-30T18:05:55.9742842+00:00",
+  "LastChanged_Achievements": "2023-11-30T19:07:02.8595268+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:57.6169847+00:00",
-  "LastUpdate_Ratings": "2023-11-30T18:00:01.5238539+00:00",
-  "LastUpdate_Achievements": "2023-11-30T18:05:55.9744087+00:00"
+  "LastUpdate_Ratings": "2023-11-30T19:01:01.2996566+00:00",
+  "LastUpdate_Achievements": "2023-11-30T19:07:02.8597629+00:00"
 }

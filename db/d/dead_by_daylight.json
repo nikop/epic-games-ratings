@@ -13122,10 +13122,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 280831,
       "NumberOfAwardsMax": 36896
+    },
+    {
+      "Time": "2023-11-30T19:00:28.5610895+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 280864,
+      "NumberOfAwardsMax": 36896
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 280831,
+  "NumberOfAwards": 280864,
   "NumberOfAwardsMax": 36896,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -13175,7 +13181,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 30369
+      "Count": 30402
     },
     {
       "Text": "This game has Challenging Combat",
@@ -13196,9 +13202,9 @@
       "Count": 27382
     }
   ],
-  "EOS_Progressed": 1055827,
+  "EOS_Progressed": 1055970,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 16352,
+  "EOS_NewPlayers": 16366,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -38951,6 +38957,11 @@
       "Time": "2023-11-30T18:09:52.2099246+00:00",
       "NumProgressed": 1055827,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-11-30T19:10:24.8476398+00:00",
+      "NumProgressed": 1055970,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 232,
@@ -39048,9 +39059,9 @@
       "ID": "ACH_012",
       "SetID": "bdmlp8o",
       "Name": "Agonizing Escape",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1056
+      "UsersEstimate": 2112
     },
     {
       "ID": "ACH_013",
@@ -39072,9 +39083,9 @@
       "ID": "ACH_015",
       "SetID": "bdmlp8o",
       "Name": "I\u0027ve got your back",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1056
+      "UsersEstimate": 2112
     },
     {
       "ID": "ACH_016",
@@ -39120,9 +39131,9 @@
       "ID": "ACH_021",
       "SetID": "bdmlp8o",
       "Name": "Perfect Killing",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 1056
+      "UsersEstimate": 2112
     },
     {
       "ID": "ACH_022",
@@ -39130,7 +39141,7 @@
       "Name": "Zealous",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 3167
+      "UsersEstimate": 3168
     },
     {
       "ID": "ACH_023",
@@ -39138,7 +39149,7 @@
       "Name": "It wakes",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 4223
+      "UsersEstimate": 4224
     },
     {
       "ID": "ACH_024",
@@ -39146,7 +39157,7 @@
       "Name": "Not half bad",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 3167
+      "UsersEstimate": 3168
     },
     {
       "ID": "ACH_025",
@@ -39176,9 +39187,9 @@
       "ID": "ACH_028",
       "SetID": "bdmlp8o",
       "Name": "Apt Killer",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1056
+      "UsersEstimate": 2112
     },
     {
       "ID": "ACH_029",
@@ -39266,7 +39277,7 @@
       "Name": "Skillful",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 4223
+      "UsersEstimate": 4224
     },
     {
       "ID": "ACH_040",
@@ -39274,7 +39285,7 @@
       "Name": "I",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 3167
+      "UsersEstimate": 3168
     },
     {
       "ID": "ACH_041",
@@ -40728,9 +40739,9 @@
       "ID": "ACH_225",
       "SetID": "16jml5b",
       "Name": "Make Some Noise",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2112
+      "UsersEstimate": 3168
     },
     {
       "ID": "ACH_226",
@@ -40817,21 +40828,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1055827,
+      "Progressed": 1055970,
       "Completed": 66
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1055827,
+      "Progressed": 1055970,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-11-30T17:00:56.9105619+00:00",
-  "LastChanged_Achievements": "2023-11-30T18:09:52.209924+00:00",
+  "LastChanged": "2023-11-30T19:00:28.5610893+00:00",
+  "LastChanged_Achievements": "2023-11-30T19:10:24.8476392+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:00.7078103+00:00",
-  "LastUpdate_Ratings": "2023-11-30T17:59:38.1369463+00:00",
-  "LastUpdate_Achievements": "2023-11-30T18:09:52.2104665+00:00"
+  "LastUpdate_Ratings": "2023-11-30T19:00:28.56109+00:00",
+  "LastUpdate_Achievements": "2023-11-30T19:10:24.8483364+00:00"
 }

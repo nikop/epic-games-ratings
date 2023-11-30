@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1029,
+  "EOS_Progressed": 1030,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -2232,6 +2232,11 @@
       "Time": "2023-11-30T18:09:47.475176+00:00",
       "NumProgressed": 1029,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-30T19:10:19.1657685+00:00",
+      "NumProgressed": 1030,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-10-23T06:09:19.5228409+00:00",
@@ -2244,7 +2249,7 @@
       "Name": "Blue Dreams",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "EV_ACH02",
@@ -2252,7 +2257,7 @@
       "Name": "My Darkest Day",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "EV_ACH03",
@@ -2260,7 +2265,7 @@
       "Name": "He\u0027s Famous!",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "EV_ACH04",
@@ -2276,7 +2281,7 @@
       "Name": "Tear of Freedom",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "EV_ACH06",
@@ -2348,7 +2353,7 @@
       "Name": "Boom Things",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "EV_ACH15",
@@ -2380,7 +2385,7 @@
       "Name": "Snowy Poro",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "EV_ACH19",
@@ -2412,7 +2417,7 @@
       "Name": "Bullseye",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "EV_ACH23",
@@ -2436,7 +2441,7 @@
       "Name": "Rhythm Of Willump",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "EV_ACH26",
@@ -2452,7 +2457,7 @@
       "Name": "I Broke It",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "EV_ACH28",
@@ -2460,7 +2465,7 @@
       "Name": "The Pied Piper Of Freljord",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "EV_ACH29",
@@ -2468,7 +2473,7 @@
       "Name": "Cutie Poro",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "EV_ACH30",
@@ -2500,7 +2505,7 @@
       "Name": "Notai Notes",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "EV_ACH34",
@@ -2524,7 +2529,7 @@
       "Name": "The Relentless Storm",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "EV_ACH37",
@@ -2532,7 +2537,7 @@
       "Name": "The Finisher",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "EV_ACH38",
@@ -2595,14 +2600,14 @@
     {
       "ID": "6jeac23",
       "IsBase": true,
-      "Progressed": 1029,
+      "Progressed": 1030,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-30T18:09:47.4751753+00:00",
+  "LastChanged_Achievements": "2023-11-30T19:10:19.1657683+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:19.9678993+00:00",
-  "LastUpdate_Ratings": "2023-11-30T18:00:39.0157084+00:00",
-  "LastUpdate_Achievements": "2023-11-30T18:09:47.4752173+00:00"
+  "LastUpdate_Ratings": "2023-11-30T19:01:54.4351036+00:00",
+  "LastUpdate_Achievements": "2023-11-30T19:10:19.1658251+00:00"
 }

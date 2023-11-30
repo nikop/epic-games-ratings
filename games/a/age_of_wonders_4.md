@@ -10,11 +10,11 @@ Rating: 4.61 (Ranked 387)
 | A Wonderful Discovery | 3.00% | ~166 |
 | Secret Technique | 3.00% | ~166 |
 | Walls Cannot Stop Us | 3.00% | ~166 |
+| From Friends to Family | 3.00% | ~166 |
 | Valley of Wonders | 2.00% | ~111 |
 | There Can Only Be One! | 2.00% | ~111 |
 | Full Ascension | 2.00% | ~111 |
 | Bone Peddler | 2.00% | ~111 |
-| From Friends to Family | 2.00% | ~111 |
 | Stronger Together | 2.00% | ~111 |
 | Magical Synergy | 2.00% | ~111 |
 | Seat of Power | 2.00% | ~111 |
@@ -43,10 +43,10 @@ Rating: 4.61 (Ranked 387)
 | A Conqueror's Cohort | 0.80% | ~44 |
 | The Creator | 0.70% | ~39 |
 | Lord of Chaos | 0.60% | ~33 |
+| Manufactured War | 0.60% | ~33 |
 | The Eternal Court | 0.60% | ~33 |
 | God Emperor | 0.50% | ~28 |
 | Eternal Lord | 0.50% | ~28 |
-| Manufactured War | 0.50% | ~28 |
 | Pruning for Progress | 0.50% | ~28 |
 | I've Got Everything I Need Right Here | 0.40% | ~22 |
 | The Goddess of Nature | 0.40% | ~22 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 387)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,547 (Ranked 189)  
+Progressed: 5,548 (Ranked 189)  
 Completed: 7 (0.13%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 7 (0.13%) (Ranked 272)
 | 2023-11-27 | 5,524 | 7 |
 | 2023-11-28 | 5,536 | 7 |
 | 2023-11-29 | 5,544 | 7 |
-| 2023-11-30 | 5,547 | 7 |
+| 2023-11-30 | 5,548 | 7 |
 ## Awards
 Max (Great for Beginners): 35  (Ranked 477)  
 Sum: 84 (Ranked 461)  

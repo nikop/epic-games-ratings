@@ -6,19 +6,24 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.40% | ~4,223 |
-| Skillful | 0.40% | ~4,223 |
-| Zealous | 0.30% | ~3,167 |
-| Not half bad | 0.30% | ~3,167 |
-| I | 0.30% | ~3,167 |
+| It wakes | 0.40% | ~4,224 |
+| Skillful | 0.40% | ~4,224 |
+| Zealous | 0.30% | ~3,168 |
+| Not half bad | 0.30% | ~3,168 |
+| I | 0.30% | ~3,168 |
+| Make Some Noise | 0.30% | ~3,168 |
 | The Grand Sacrifice | 0.20% | ~2,112 |
+| Agonizing Escape | 0.20% | ~2,112 |
 | Backdoor Escape | 0.20% | ~2,112 |
+| I've got your back | 0.20% | ~2,112 |
 | No one left behind | 0.20% | ~2,112 |
 | Medic | 0.20% | ~2,112 |
 | Handyman | 0.20% | ~2,112 |
 | Perfect Escape | 0.20% | ~2,112 |
+| Perfect Killing | 0.20% | ~2,112 |
 | Bloody Millionaire | 0.20% | ~2,112 |
 | Apt Survivor | 0.20% | ~2,112 |
+| Apt Killer | 0.20% | ~2,112 |
 | Survival Treasures | 0.20% | ~2,112 |
 | II | 0.20% | ~2,112 |
 | III | 0.20% | ~2,112 |
@@ -28,7 +33,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Close Shave | 0.20% | ~2,112 |
 | Preemptive Strike | 0.20% | ~2,112 |
 | Humanitarian | 0.20% | ~2,112 |
-| Make Some Noise | 0.20% | ~2,112 |
 | A bite for the Entity | 0.10% | ~1,056 |
 | A feast for the Entity | 0.10% | ~1,056 |
 | Blood on your hands | 0.10% | ~1,056 |
@@ -39,13 +43,9 @@ Number of Ratings: 70,340  (23.09.2022)
 | The Grind | 0.10% | ~1,056 |
 | Escape Artist | 0.10% | ~1,056 |
 | Made it out alive! | 0.10% | ~1,056 |
-| Agonizing Escape | 0.10% | ~1,056 |
 | The Key to Escape | 0.10% | ~1,056 |
-| I've got your back | 0.10% | ~1,056 |
 | Nerves of steel | 0.10% | ~1,056 |
-| Perfect Killing | 0.10% | ~1,056 |
 | Gifts for the Fog | 0.10% | ~1,056 |
-| Apt Killer | 0.10% | ~1,056 |
 | Risk it all | 0.10% | ~1,056 |
 | Vulture | 0.10% | ~1,056 |
 | Adept Jake | 0.10% | ~1,056 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,056 |
 | Adept Good Guy | 0.10% | ~1,056 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,055,827 (Ranked 14)  
+Progressed: 1,055,970 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -463,10 +463,10 @@ Completed: 61 (0.01%) (Ranked 342)
 | 2023-11-27 | 1,048,888 | 61 |
 | 2023-11-28 | 1,050,827 | 61 |
 | 2023-11-29 | 1,053,910 | 61 |
-| 2023-11-30 | 1,055,827 | 61 |
+| 2023-11-30 | 1,055,970 | 61 |
 ## Awards
 Max (Diverse Characters): 36,896  (Ranked 15)  
-Sum: 280,831 (Ranked 12)  
+Sum: 280,864 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -476,7 +476,7 @@ Diff (max vs sum): 3
 | This game has Competitive Players | 31,523 |
 | This game is Extremely Fun | 31,183 |
 | This game has Challenging Combat | 31,050 |
-| This game has Quickly Understood Controls | 30,369 |
+| This game has Quickly Understood Controls | 30,402 |
 | This game has Amazing Storytelling | 28,683 |
 | This game has a Competitive Community | 27,382 |
 | This game has Obsessive Gameplay | 16,768 |
@@ -794,4 +794,4 @@ Diff (max vs sum): 3
 | 2023-11-27 | 4.51 | - | 36,673 | 279,577 |
 | 2023-11-28 | 4.51 | - | 36,768 | 280,046 |
 | 2023-11-29 | 4.51 | - | 36,896 | 280,728 |
-| 2023-11-30 | 4.51 | - | 36,896 | 280,831 |
+| 2023-11-30 | 4.51 | - | 36,896 | 280,864 |

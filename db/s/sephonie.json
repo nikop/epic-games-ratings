@@ -2,9 +2,9 @@
   "ID": "70f82c43d9f4460bbebfe355d56fe987",
   "Name": "Sephonie",
   "ProductSlug": "sephonie-6ab6f7",
-  "Ranking_EOS_Progress": 765,
+  "Ranking_EOS_Progress": 766,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewPlayers": 498,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-04-26T15:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:27.212709+00:00",
   "LastChanged": "2023-03-31T05:58:27.2127091+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:04.8748464+00:00",
-  "LastUpdate_Ratings": "2023-11-30T18:00:08.0250079+00:00",
-  "LastUpdate_Achievements": "2023-11-30T18:05:11.8161124+00:00"
+  "LastUpdate_Ratings": "2023-11-30T19:01:10.9217552+00:00",
+  "LastUpdate_Achievements": "2023-11-30T19:06:01.4450737+00:00"
 }

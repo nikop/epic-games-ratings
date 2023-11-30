@@ -2,9 +2,9 @@
   "ID": "172112126caf448aa6e069b16a9f0118",
   "Name": "Forest Grove",
   "ProductSlug": "forest-grove-6b05cf",
-  "Ranking_EOS_Progress": 576,
-  "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_Progress": 571,
+  "Ranking_EOS_Completed": 70,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-11-28T13:00:00+00:00",
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 17,
+  "EOS_Progressed": 18,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.88,
+  "EOS_Completed_Percentage": 5.56,
   "EosHistory": [
     {
       "Time": "2023-10-10T13:09:13.100464+00:00",
@@ -67,6 +67,11 @@
       "Time": "2023-11-30T18:06:24.2462044+00:00",
       "NumProgressed": 17,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T19:07:42.9343024+00:00",
+      "NumProgressed": 18,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-10T13:09:13.1022392+00:00",
@@ -77,9 +82,9 @@
       "ID": "1",
       "SetID": "36pe9e2",
       "Name": "Entered the Nanodeck",
-      "Percentage": 59,
+      "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "10",
@@ -93,9 +98,9 @@
       "ID": "11",
       "SetID": "36pe9e2",
       "Name": "Felt Sadness",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "12",
@@ -109,9 +114,9 @@
       "ID": "2",
       "SetID": "36pe9e2",
       "Name": "Found Secret Area",
-      "Percentage": 12,
+      "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "3",
@@ -125,15 +130,15 @@
       "ID": "4",
       "SetID": "36pe9e2",
       "Name": "Played the Piano",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "5",
       "SetID": "36pe9e2",
       "Name": "Set the Time",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 90,
       "UsersEstimate": 2
     },
@@ -174,13 +179,13 @@
     {
       "ID": "36pe9e2",
       "IsBase": true,
-      "Progressed": 17,
+      "Progressed": 18,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-10-10T13:09:13.1022391+00:00",
-  "LastChanged_Achievements": "2023-11-30T18:06:24.2462039+00:00",
+  "LastChanged_Achievements": "2023-11-30T19:07:42.9343019+00:00",
   "LastUpdate_AppInfo": "2023-11-28T18:57:03.2699178+00:00",
-  "LastUpdate_Ratings": "2023-11-30T17:58:45.8915922+00:00",
-  "LastUpdate_Achievements": "2023-11-30T18:06:24.2462118+00:00"
+  "LastUpdate_Ratings": "2023-11-30T18:59:11.3326527+00:00",
+  "LastUpdate_Achievements": "2023-11-30T19:07:42.9343124+00:00"
 }

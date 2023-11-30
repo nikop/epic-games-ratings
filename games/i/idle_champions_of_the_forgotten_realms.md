@@ -1,12 +1,12 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 984)  
+Rating: 4.06 (Ranked 983)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 0.40% | ~950 |
+| A Brief Tour of the Realms | 0.40% | ~951 |
 | Beast Intentions | 0.20% | ~475 |
 | The Cursed Farmer | 0.20% | ~475 |
 | The Beginning is the End | 0.20% | ~408 |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~204 |
 | See You on the Flipside | 0.10% | ~204 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,621 (Ranked 64)  
+Progressed: 237,627 (Ranked 64)  
 Completed: 2,489 (1.05%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -763,10 +763,10 @@ Completed: 2,489 (1.05%) (Ranked 163)
 | 2023-11-27 | 237,265 | 2,481 |
 | 2023-11-28 | 237,394 | 2,484 |
 | 2023-11-29 | 237,519 | 2,485 |
-| 2023-11-30 | 237,621 | 2,489 |
+| 2023-11-30 | 237,627 | 2,489 |
 ## Awards
 Max (Great for Beginners): 5,576  (Ranked 70)  
-Sum: 32,676 (Ranked 41)  
+Sum: 32,678 (Ranked 41)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -774,7 +774,7 @@ Diff (max vs sum): 29
 | This game has Diverse Characters | 5,550 |
 | This game has Quickly Understood Controls | 4,827 |
 | This game is Relaxing | 4,717 |
-| This game has Amazing Characters | 4,232 |
+| This game has Amazing Characters | 4,234 |
 | This game is Highly Recommended | 4,227 |
 | This game has Playful Visuals | 3,547 |
 ## Ratings History
@@ -1088,4 +1088,4 @@ Diff (max vs sum): 29
 | 2023-11-27 | 4.06 | - | 5,566 | 32,640 |
 | 2023-11-28 | 4.06 | - | 5,569 | 32,655 |
 | 2023-11-29 | 4.06 | - | 5,576 | 32,673 |
-| 2023-11-30 | 4.06 | - | 5,576 | 32,676 |
+| 2023-11-30 | 4.06 | - | 5,576 | 32,678 |

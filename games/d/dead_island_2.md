@@ -5,14 +5,14 @@ Rating: 4.54 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,609 |
-| Git Gutte! | 2.00% | ~14,562 |
-| Break A Leg | 2.00% | ~14,562 |
-| Coup de Grâce | 2.00% | ~14,562 |
-| Hazardous Materials | 2.00% | ~14,562 |
-| Hotel California | 2.00% | ~14,562 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,562 |
-| Welcome To Hell-A | 2.00% | ~14,562 |
+| Whatever It Takes | 3.00% | ~1,610 |
+| Git Gutte! | 2.00% | ~14,563 |
+| Break A Leg | 2.00% | ~14,563 |
+| Coup de Grâce | 2.00% | ~14,563 |
+| Hazardous Materials | 2.00% | ~14,563 |
+| Hotel California | 2.00% | ~14,563 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,563 |
+| Welcome To Hell-A | 2.00% | ~14,563 |
 | One of Us | 2.00% | ~1,073 |
 | Pork Chopped | 2.00% | ~1,073 |
 | Dr. Reed, I Presume? | 1.00% | ~7,281 |
@@ -41,12 +41,12 @@ Rating: 4.54 (Ranked 528)
 | Jumbo Keyring | 0.60% | ~4,369 |
 | Go, Bobcats! | 0.60% | ~4,369 |
 | Rising Star | 0.60% | ~4,369 |
-| On Safari | 0.50% | ~3,640 |
-| Smorgasbord | 0.50% | ~3,640 |
-| Internet Famous | 0.50% | ~3,640 |
-| Variety is the Spice of Death | 0.50% | ~3,640 |
-| Make it So | 0.40% | ~2,912 |
-| LA Influential | 0.40% | ~2,912 |
+| On Safari | 0.50% | ~3,641 |
+| Smorgasbord | 0.50% | ~3,641 |
+| Internet Famous | 0.50% | ~3,641 |
+| Variety is the Spice of Death | 0.50% | ~3,641 |
+| Make it So | 0.40% | ~2,913 |
+| LA Influential | 0.40% | ~2,913 |
 | Top That, Tisha! | 0.40% | ~215 |
 | Sole Survivor | 0.30% | ~2,184 |
 | Gore Horse | 0.30% | ~2,184 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 528)
 | Bucket List | 0.10% | ~728 |
 | Wilhelm | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,095 (Ranked 21)  
+Progressed: 728,128 (Ranked 21)  
 Completed: 2,456 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,10 +281,10 @@ Completed: 2,456 (0.34%) (Ranked 231)
 | 2023-11-27 | 726,753 | 2,443 |
 | 2023-11-28 | 727,374 | 2,447 |
 | 2023-11-29 | 727,809 | 2,450 |
-| 2023-11-30 | 728,095 | 2,456 |
+| 2023-11-30 | 728,128 | 2,456 |
 ## Awards
 Max (Great Boss Battles): 7,821  (Ranked 49)  
-Sum: 11,986 (Ranked 84)  
+Sum: 11,987 (Ranked 84)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
@@ -293,7 +293,7 @@ Diff (max vs sum): -35
 | This game has Diverse Characters | 572 |
 | This game has Quickly Understood Controls | 539 |
 | This game is Relaxing | 518 |
-| This game has Amazing Storytelling | 502 |
+| This game has Amazing Storytelling | 503 |
 | This game is Extremely Fun | 491 |
 | This game is Highly Recommended | 487 |
 | This game has Amazing Characters | 451 |
@@ -523,4 +523,4 @@ Diff (max vs sum): -35
 | 2023-11-27 | 4.54 | 7,760 | 11,883 |
 | 2023-11-28 | 4.54 | 7,784 | 11,921 |
 | 2023-11-29 | 4.54 | 7,803 | 11,961 |
-| 2023-11-30 | 4.54 | 7,821 | 11,986 |
+| 2023-11-30 | 4.54 | 7,821 | 11,987 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1585,10 +1585,10 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 160547,
-  "EOS_Completed": 17,
-  "EOS_NewPlayers": 856,
-  "EOS_NewCompleters": 16,
+  "EOS_Progressed": 160557,
+  "EOS_Completed": 22,
+  "EOS_NewPlayers": 859,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
     {
@@ -17465,6 +17465,11 @@
       "Time": "2023-11-30T18:03:51.6131293+00:00",
       "NumProgressed": 160547,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-11-30T19:04:10.4600863+00:00",
+      "NumProgressed": 160557,
+      "NumCompleted": 22
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -17827,9 +17832,9 @@
       "ID": "MISC_OVERLOADITEM",
       "SetID": "72k7oh",
       "Name": "Enrich",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 160
     },
     {
       "ID": "MISC_OVERLOADTRAIT",
@@ -17844,21 +17849,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 160130,
+      "Progressed": 160140,
       "Completed": 1226
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 160547,
-      "Completed": 17
+      "Progressed": 160557,
+      "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-29T06:00:31.1535071+00:00",
-  "LastChanged_Achievements": "2023-11-30T18:03:51.6131286+00:00",
+  "LastChanged_Achievements": "2023-11-30T19:04:10.4600859+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.8251651+00:00",
-  "LastUpdate_Ratings": "2023-11-30T17:57:45.0745081+00:00",
-  "LastUpdate_Achievements": "2023-11-30T18:03:51.6132323+00:00"
+  "LastUpdate_Ratings": "2023-11-30T18:57:41.4948409+00:00",
+  "LastUpdate_Achievements": "2023-11-30T19:04:10.4603147+00:00"
 }

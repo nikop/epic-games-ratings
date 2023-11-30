@@ -4,7 +4,7 @@
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4276,
+  "EOS_Progressed": 4277,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -10704,6 +10704,11 @@
       "Time": "2023-11-30T18:04:50.5070292+00:00",
       "NumProgressed": 4276,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-11-30T19:05:31.3494774+00:00",
+      "NumProgressed": 4277,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 16,
@@ -10779,7 +10784,7 @@
       "Name": "Color flood",
       "Percentage": 32,
       "XP": 65,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "ach_first_picture",
@@ -10803,7 +10808,7 @@
       "Name": "Food - unlocked",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1539
+      "UsersEstimate": 1540
     },
     {
       "ID": "ach_game_opened",
@@ -10811,7 +10816,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 3207
+      "UsersEstimate": 3208
     },
     {
       "ID": "ach_magic_wand",
@@ -10835,21 +10840,21 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4276,
+      "Progressed": 4277,
       "Completed": 36
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-11-30T18:04:50.5070285+00:00",
+  "LastChanged_Achievements": "2023-11-30T19:05:31.3494769+00:00",
   "LastUpdate_AppInfo": "2023-11-24T20:57:04.2285438+00:00",
-  "LastUpdate_Ratings": "2023-11-30T18:02:38.5843225+00:00",
-  "LastUpdate_Achievements": "2023-11-30T18:04:50.5070896+00:00"
+  "LastUpdate_Ratings": "2023-11-30T19:02:36.4364481+00:00",
+  "LastUpdate_Achievements": "2023-11-30T19:05:31.3496166+00:00"
 }

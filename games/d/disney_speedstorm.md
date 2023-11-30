@@ -5,33 +5,33 @@ Rating: 4.40 (Ranked 740)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 11.00% | ~34,928 |
-| IT MAKES BOOM! | 7.00% | ~22,227 |
-| EXTRA BOOST | 5.00% | ~15,876 |
-| PROTECTED | 4.00% | ~12,701 |
-| PRO | 4.00% | ~12,701 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,526 |
-| AGGRESSIVE RACER | 3.00% | ~9,526 |
-| A TIGER'S FEAR | 2.00% | ~6,351 |
-| IT'S A LONG WAY TO THE TOP | 1.00% | ~3,175 |
-| ACE SPEEDSTER | 1.00% | ~3,175 |
+| ROOKIE | 11.00% | ~34,937 |
+| IT MAKES BOOM! | 7.00% | ~22,233 |
+| EXTRA BOOST | 5.00% | ~15,880 |
+| PROTECTED | 4.00% | ~12,704 |
+| PRO | 4.00% | ~12,704 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,528 |
+| AGGRESSIVE RACER | 3.00% | ~9,528 |
+| A TIGER'S FEAR | 2.00% | ~6,352 |
+| IT'S A LONG WAY TO THE TOP | 1.00% | ~3,176 |
+| ACE SPEEDSTER | 1.00% | ~3,176 |
 | RELEASE THE KRAKEN | 0.90% | ~2,858 |
 | BE OUR GUEST | 0.90% | ~2,858 |
 | FRIENDLY | 0.90% | ~2,858 |
 | MASTER | 0.90% | ~2,858 |
 | LEGENDARY HERO | 0.90% | ~2,858 |
-| TRAINING HARD | 0.80% | ~2,540 |
-| DEFEAT OUR CHAMPION | 0.80% | ~2,540 |
+| TRAINING HARD | 0.80% | ~2,541 |
+| DEFEAT OUR CHAMPION | 0.80% | ~2,541 |
 | THE EYE OF THE HUNTER | 0.70% | ~2,223 |
-| EXPERIENCED CREW | 0.60% | ~1,905 |
+| EXPERIENCED CREW | 0.60% | ~1,906 |
 | ACE DEFENDER | 0.50% | ~1,588 |
 | ACE BRAWLER | 0.40% | ~1,270 |
 | ACE TRICKSTER | 0.40% | ~1,270 |
 | FRAMED! | 0.30% | ~953 |
 | PERFECTLY POISED | 0.20% | ~635 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 317,529 (Ranked 52)  
-Completed: 383 (0.12%) (Ranked 280)  
+Progressed: 317,609 (Ranked 52)  
+Completed: 385 (0.12%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -250,7 +250,7 @@ Completed: 383 (0.12%) (Ranked 280)
 | 2023-11-27 | 315,001 | 338 |
 | 2023-11-28 | 315,946 | 344 |
 | 2023-11-29 | 316,923 | 349 |
-| 2023-11-30 | 317,529 | 383 |
+| 2023-11-30 | 317,609 | 385 |
 ## Awards
 Max (Great for Beginners): 96  (Ranked 369)  
 Sum: 693 (Ranked 298)  

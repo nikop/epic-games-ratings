@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 195,
-  "EOS_Completed": 73,
-  "EOS_NewPlayers": 67,
-  "EOS_NewCompleters": 23,
-  "EOS_Completed_Percentage": 37.44,
+  "EOS_Completed": 74,
+  "EOS_NewPlayers": 64,
+  "EOS_NewCompleters": 24,
+  "EOS_Completed_Percentage": 37.95,
   "EosHistory": [
     {
       "Time": "2023-05-08T15:02:14.2317541+00:00",
@@ -1129,6 +1129,11 @@
       "Time": "2023-11-30T15:04:06.2953631+00:00",
       "NumProgressed": 195,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-11-30T19:03:49.6867985+00:00",
+      "NumProgressed": 195,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 18,
@@ -1218,9 +1223,9 @@
       "ID": "Liberator",
       "SetID": "b7i210",
       "Name": "Liberator",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "Peacemaker",
@@ -1234,17 +1239,17 @@
       "ID": "Repair",
       "SetID": "b7i210",
       "Name": "Repair",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "Rusty",
       "SetID": "b7i210",
       "Name": "Rusty",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "Samaritan",
@@ -1284,13 +1289,13 @@
       "ID": "b7i210",
       "IsBase": true,
       "Progressed": 195,
-      "Completed": 73
+      "Completed": 74
     }
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-11-30T18:03:26.5595559+00:00",
+  "LastChanged_Achievements": "2023-11-30T19:03:49.6867981+00:00",
   "LastUpdate_AppInfo": "2023-11-28T06:57:03.7256389+00:00",
-  "LastUpdate_Ratings": "2023-11-30T17:59:47.110133+00:00",
-  "LastUpdate_Achievements": "2023-11-30T18:03:26.559573+00:00"
+  "LastUpdate_Ratings": "2023-11-30T19:00:40.9832816+00:00",
+  "LastUpdate_Achievements": "2023-11-30T19:03:49.6868193+00:00"
 }

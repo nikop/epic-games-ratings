@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251717,
+  "EOS_Progressed": 251720,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20152,6 +20152,11 @@
       "Time": "2023-11-30T18:09:27.8353066+00:00",
       "NumProgressed": 251717,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-30T19:09:52.4246215+00:00",
+      "NumProgressed": 251720,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -20259,7 +20264,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45309
+      "UsersEstimate": 45310
     },
     {
       "ID": "curator",
@@ -20267,7 +20272,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50343
+      "UsersEstimate": 50344
     },
     {
       "ID": "didYourTime",
@@ -20339,7 +20344,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133410
+      "UsersEstimate": 133412
     },
     {
       "ID": "indegestible",
@@ -20363,7 +20368,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65446
+      "UsersEstimate": 65447
     },
     {
       "ID": "justABit",
@@ -20379,7 +20384,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20137
+      "UsersEstimate": 20138
     },
     {
       "ID": "lockupLockdown",
@@ -20395,7 +20400,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 35240
+      "UsersEstimate": 35241
     },
     {
       "ID": "myFirstRunbow",
@@ -20403,7 +20408,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125858
+      "UsersEstimate": 125860
     },
     {
       "ID": "notScared",
@@ -20483,7 +20488,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32723
+      "UsersEstimate": 32724
     },
     {
       "ID": "treeMedalist",
@@ -20530,7 +20535,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251717,
+      "Progressed": 251720,
       "Completed": 6
     }
   ],
@@ -20538,8 +20543,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-11-30T18:09:27.8353059+00:00",
+  "LastChanged_Achievements": "2023-11-30T19:09:52.4246212+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:52.8693744+00:00",
-  "LastUpdate_Ratings": "2023-11-30T17:59:35.161308+00:00",
-  "LastUpdate_Achievements": "2023-11-30T18:09:27.8354409+00:00"
+  "LastUpdate_Ratings": "2023-11-30T19:00:24.3240085+00:00",
+  "LastUpdate_Achievements": "2023-11-30T19:09:52.4248704+00:00"
 }

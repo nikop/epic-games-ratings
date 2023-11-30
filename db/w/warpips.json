@@ -3,11 +3,11 @@
   "Name": "Warpips",
   "ProductSlug": "warpips-57e2c4",
   "Ranking_Rating": 695,
-  "Ranking_Popularity": 496,
-  "Ranking_PopularitySum": 406,
-  "Ranking_EOS_Progress": 765,
+  "Ranking_Popularity": 497,
+  "Ranking_PopularitySum": 405,
+  "Ranking_EOS_Progress": 766,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewPlayers": 498,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -739,10 +739,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 192,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2023-11-30T18:56:53.6829982+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 193,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 192,
+  "NumberOfAwards": 193,
   "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -768,7 +774,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -815,9 +821,9 @@
   "FirstSeen": "2022-07-22T20:30:43.3276462+00:00",
   "FirstSeenRating": "2022-08-17T17:32:36.298975+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:17.8561641+00:00",
-  "LastChanged": "2023-11-24T13:02:10.7675998+00:00",
-  "LastChanged_Achievements": "2023-11-30T18:04:45.7642136+00:00",
+  "LastChanged": "2023-11-30T18:56:53.6829976+00:00",
+  "LastChanged_Achievements": "2023-11-30T19:05:24.688072+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:06.3847897+00:00",
-  "LastUpdate_Ratings": "2023-11-30T17:02:34.2429816+00:00",
-  "LastUpdate_Achievements": "2023-11-30T18:04:45.7642171+00:00"
+  "LastUpdate_Ratings": "2023-11-30T18:56:53.6829985+00:00",
+  "LastUpdate_Achievements": "2023-11-30T19:05:24.6880755+00:00"
 }

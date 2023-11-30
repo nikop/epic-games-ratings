@@ -163,7 +163,7 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 790,
+  "EOS_Progressed": 793,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 290,
   "EOS_NewCompleters": 0,
@@ -1763,6 +1763,11 @@
       "Time": "2023-11-30T18:03:28.4459859+00:00",
       "NumProgressed": 790,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T19:03:52.4098776+00:00",
+      "NumProgressed": 793,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1781,17 +1786,17 @@
       "ID": "AbInitio",
       "SetID": "1n308hc",
       "Name": "Ab Initio",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 48
     },
     {
       "ID": "AnthropicHills",
       "SetID": "1n308hc",
       "Name": "Anthropic Hills",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Archaeologist",
@@ -1815,7 +1820,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "BreakTheLoop",
@@ -1877,17 +1882,17 @@
       "ID": "EasternWetlands",
       "SetID": "1n308hc",
       "Name": "Eastern Wetlands",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 24
     },
     {
       "ID": "EcstaticTruth",
       "SetID": "1n308hc",
       "Name": "Ecstatic Truth",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Excellent",
@@ -1933,9 +1938,9 @@
       "ID": "HighPlain",
       "SetID": "1n308hc",
       "Name": "High Plain",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "IntoTheMachine",
@@ -1981,9 +1986,9 @@
       "ID": "Mnemosyne",
       "SetID": "1n308hc",
       "Name": "Mnemosyne",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MuseumExplorer",
@@ -2063,7 +2068,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "RenaissanceRobot",
@@ -2141,9 +2146,9 @@
       "ID": "TheEdgeOfForever",
       "SetID": "1n308hc",
       "Name": "The Edge of Forever",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "TheFuture",
@@ -2165,9 +2170,9 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 48
     },
     {
       "ID": "TheThiefOfFire",
@@ -2183,7 +2188,7 @@
       "Name": "The Word Endures",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "TouchGrass",
@@ -2197,9 +2202,9 @@
       "ID": "TrevorsBiographer",
       "SetID": "1n308hc",
       "Name": "Trevor\u0027s Biographer",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     },
     {
       "ID": "VerdantCanyon",
@@ -2246,7 +2251,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 790,
+      "Progressed": 793,
       "Completed": 1
     }
   ],
@@ -2254,8 +2259,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-29T18:59:07.9515154+00:00",
-  "LastChanged_Achievements": "2023-11-30T18:03:28.445985+00:00",
+  "LastChanged_Achievements": "2023-11-30T19:03:52.4098774+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-11-30T17:59:40.8604375+00:00",
-  "LastUpdate_Achievements": "2023-11-30T18:03:28.4460423+00:00"
+  "LastUpdate_Ratings": "2023-11-30T19:00:32.360483+00:00",
+  "LastUpdate_Achievements": "2023-11-30T19:03:52.4099422+00:00"
 }

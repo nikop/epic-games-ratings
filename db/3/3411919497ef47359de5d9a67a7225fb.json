@@ -2,9 +2,9 @@
   "ID": "3411919497ef47359de5d9a67a7225fb",
   "Name": "DinoDash",
   "ProductSlug": "dinodashgame-46ad90",
-  "Ranking_EOS_Progress": 765,
+  "Ranking_EOS_Progress": 766,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewPlayers": 498,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-06-30T00:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-04T21:57:05.7085476+00:00",
   "LastUpdate_AppInfo": "2023-11-24T13:56:59.0728855+00:00",
-  "LastUpdate_Ratings": "2023-11-30T17:58:51.5762035+00:00",
-  "LastUpdate_Achievements": "2023-11-30T18:06:27.9028924+00:00"
+  "LastUpdate_Ratings": "2023-11-30T18:59:19.8459787+00:00",
+  "LastUpdate_Achievements": "2023-11-30T19:07:48.1342531+00:00"
 }

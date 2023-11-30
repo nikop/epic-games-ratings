@@ -2,9 +2,9 @@
   "ID": "d054771c2f3c4f4fb7d7028eca6ccca0",
   "Name": "Pinball M",
   "ProductSlug": "pinball-m-755276",
-  "Ranking_EOS_Progress": 464,
+  "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 77,
+  "EOS_Progressed": 108,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -42,6 +42,11 @@
       "Time": "2023-11-30T18:04:21.060135+00:00",
       "NumProgressed": 77,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T19:04:50.9918924+00:00",
+      "NumProgressed": 108,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -52,7 +57,7 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "c167foo",
       "Name": "Rite of Passage",
-      "Percentage": 8,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -60,7 +65,7 @@
       "ID": "ACHIEVEMENT_02",
       "SetID": "c167foo",
       "Name": "Done for Today",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -68,7 +73,7 @@
       "ID": "ACHIEVEMENT_08",
       "SetID": "c167foo",
       "Name": "Wicked Zeroes",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -76,7 +81,7 @@
       "ID": "ACHIEVEMENT_09",
       "SetID": "c167foo",
       "Name": "Highest Among the Highest",
-      "Percentage": 13,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -84,7 +89,7 @@
       "ID": "ACHIEVEMENT_10",
       "SetID": "c167foo",
       "Name": "Gruesome Ball Handler",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -92,7 +97,7 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "c167foo",
       "Name": "Monster Power",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -100,7 +105,7 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "c167foo",
       "Name": "Power Overwhelming",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -116,15 +121,15 @@
       "ID": "ACHIEVEMENT_16",
       "SetID": "c167foo",
       "Name": "Terrible Journey",
-      "Percentage": 9,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_17",
       "SetID": "c167foo",
       "Name": "Dark Prizes",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -132,7 +137,7 @@
       "ID": "ACHIEVEMENT_18",
       "SetID": "c167foo",
       "Name": "Skull Collector",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -140,7 +145,7 @@
       "ID": "ACHIEVEMENT_19",
       "SetID": "c167foo",
       "Name": "Grim Challenger",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -156,7 +161,7 @@
       "ID": "ACHIEVEMENT_21",
       "SetID": "c167foo",
       "Name": "Worthy Badge",
-      "Percentage": 12,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -164,7 +169,7 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "c167foo",
       "Name": "High Level Mastery",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -212,7 +217,7 @@
       "ID": "ACHIEVEMENT_29",
       "SetID": "c167foo",
       "Name": "Your Own Nightmare",
-      "Percentage": 12,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -220,7 +225,7 @@
       "ID": "ACHIEVEMENT_30",
       "SetID": "c167foo",
       "Name": "Competitor",
-      "Percentage": 8,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -228,7 +233,7 @@
       "ID": "ACHIEVEMENT_31",
       "SetID": "c167foo",
       "Name": "Little Victory",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -236,15 +241,15 @@
       "ID": "ACHIEVEMENT_32",
       "SetID": "c167foo",
       "Name": "Personal Sanctuary",
-      "Percentage": 9,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_33",
       "SetID": "c167foo",
       "Name": "Lair Expanded",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -252,7 +257,7 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "c167foo",
       "Name": "Unlocked Relic",
-      "Percentage": 12,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -260,7 +265,7 @@
       "ID": "ACHIEVEMENT_35",
       "SetID": "c167foo",
       "Name": "Half Way to Darkness",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -268,7 +273,7 @@
       "ID": "ACHIEVEMENT_36",
       "SetID": "c167foo",
       "Name": "Path of Damnation",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 70,
       "UsersEstimate": 4
     },
@@ -284,7 +289,7 @@
       "ID": "ACHIEVEMENT_38",
       "SetID": "c167foo",
       "Name": "Profile Outfitted",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -308,7 +313,7 @@
       "ID": "ACHIEVEMENT_41",
       "SetID": "c167foo",
       "Name": "The Arrival of It",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -324,7 +329,7 @@
       "ID": "ACHIEVEMENT_43",
       "SetID": "c167foo",
       "Name": "We are all mad here",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -388,7 +393,7 @@
       "ID": "ACHIEVEMENT_51",
       "SetID": "c167foo",
       "Name": "Trap Season",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -429,13 +434,13 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 77,
+      "Progressed": 108,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-11-30T18:04:21.0601343+00:00",
+  "LastChanged_Achievements": "2023-11-30T19:04:50.991892+00:00",
   "LastUpdate_AppInfo": "2023-11-28T10:57:06.6543167+00:00",
-  "LastUpdate_Ratings": "2023-11-30T17:58:28.7333104+00:00",
-  "LastUpdate_Achievements": "2023-11-30T18:04:21.0601626+00:00"
+  "LastUpdate_Ratings": "2023-11-30T18:58:45.0858357+00:00",
+  "LastUpdate_Achievements": "2023-11-30T19:04:50.9919331+00:00"
 }

@@ -14,7 +14,7 @@ Rating: 4.37 (Ranked 775)
 | Lord Clayton | 23.00% | ~76 |
 | The other side of the mirror | 16.00% | ~53 |
 | Little Mary | 15.00% | ~50 |
-| There is freedom in awakening | 11.00% | ~36 |
+| There is freedom in awakening | 12.00% | ~40 |
 | Ritual | 10.00% | ~33 |
 | Cowardice | 9.00% | ~30 |
 | Bloodrush | 8.00% | ~26 |

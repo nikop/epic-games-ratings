@@ -4,7 +4,7 @@
 Rating: 3.94 (Ranked 1,018)  
 ## Awards
 Max (Highly Recommended): 403  (Ranked 232)  
-Sum: 2,849 (Ranked 179)  
+Sum: 2,852 (Ranked 179)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): 53
 | This game has Amazing Characters | 353 |
 | This game has Quickly Understood Controls | 352 |
 | This game has a Competitive Community | 329 |
-| This game has Playful Visuals | 325 |
+| This game has Playful Visuals | 328 |
 | This game has Amazing Storytelling | 322 |
 | This game is Great for Beginners | 306 |
 | This game is Relaxing | 20 |
@@ -69,4 +69,4 @@ Diff (max vs sum): 53
 | 2023-11-27 | 3.93 | 389 | 2,776 |
 | 2023-11-28 | 3.93 | 393 | 2,807 |
 | 2023-11-29 | 3.93 | 403 | 2,835 |
-| 2023-11-30 | 3.94 | 403 | 2,849 |
+| 2023-11-30 | 3.94 | 403 | 2,852 |

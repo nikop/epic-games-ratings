@@ -9214,10 +9214,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 15518,
       "NumberOfAwardsMax": 7459
+    },
+    {
+      "Time": "2023-11-30T19:02:31.7800574+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15521,
+      "NumberOfAwardsMax": 7459
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15518,
+  "NumberOfAwards": 15521,
   "NumberOfAwardsMax": 7459,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9255,7 +9261,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 876
+      "Count": 879
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9294,9 +9300,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 66713,
+  "EOS_Progressed": 66714,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 907,
+  "EOS_NewPlayers": 896,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32954,6 +32960,11 @@
       "Time": "2023-11-30T18:09:47.2443988+00:00",
       "NumProgressed": 66713,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T19:10:19.1101102+00:00",
+      "NumProgressed": 66714,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -33157,7 +33168,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 12008
+      "UsersEstimate": 12009
     },
     {
       "ID": "Kingslayer",
@@ -33189,7 +33200,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 22015
+      "UsersEstimate": 22016
     },
     {
       "ID": "Lawbringer",
@@ -33197,7 +33208,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26685
+      "UsersEstimate": 26686
     },
     {
       "ID": "Lawmaker",
@@ -33317,7 +33328,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12675
+      "UsersEstimate": 12676
     },
     {
       "ID": "This Is Our Land",
@@ -33372,15 +33383,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 66713,
+      "Progressed": 66714,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-11-30T13:06:29.4496692+00:00",
-  "LastChanged_Achievements": "2023-11-30T18:09:47.2443982+00:00",
+  "LastChanged": "2023-11-30T19:02:31.7800571+00:00",
+  "LastChanged_Achievements": "2023-11-30T19:10:19.1101099+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:24.2741585+00:00",
-  "LastUpdate_Ratings": "2023-11-30T18:00:43.8928898+00:00",
-  "LastUpdate_Achievements": "2023-11-30T18:09:47.2445265+00:00"
+  "LastUpdate_Ratings": "2023-11-30T19:02:31.780058+00:00",
+  "LastUpdate_Achievements": "2023-11-30T19:10:19.1103468+00:00"
 }

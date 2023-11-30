@@ -5,29 +5,29 @@ Rating: 4.58 (Ranked 446)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 29.00% | ~979 |
-| Sputnik 2049 | 26.00% | ~878 |
-| Infinite Growth... | 25.00% | ~844 |
-| Without Breaking Some Eggs... | 24.00% | ~810 |
+| Wakey Wakey | 29.00% | ~980 |
+| Sputnik 2049 | 26.00% | ~879 |
+| Infinite Growth... | 25.00% | ~845 |
+| Without Breaking Some Eggs... | 24.00% | ~811 |
 | A Thousand Strong | 18.00% | ~608 |
 | Ready for a New World | 18.00% | ~608 |
-| Space Society | 17.00% | ~574 |
+| Space Society | 17.00% | ~575 |
 | Permanent Redesigns | 15.00% | ~507 |
 | Fully Recycled | 14.00% | ~473 |
 | The Ship of Theseus | 14.00% | ~473 |
 | Guy de Borderlands | 13.00% | ~439 |
 | Ain't Nobody Got Time for That | 13.00% | ~439 |
-| Exceeding Capacity | 12.00% | ~405 |
-| Breaking Protocol | 12.00% | ~405 |
-| Hope Seeker | 12.00% | ~405 |
-| A Hunk of Junk | 11.00% | ~371 |
+| Exceeding Capacity | 12.00% | ~406 |
+| Breaking Protocol | 12.00% | ~406 |
+| Hope Seeker | 12.00% | ~406 |
+| A Hunk of Junk | 11.00% | ~372 |
 | Man's Best Friend | 9.00% | ~304 |
 | Power Outage | 8.00% | ~270 |
 | Convenient Transport | 8.00% | ~270 |
 | Please Make it Stop! | 8.00% | ~270 |
-| Sightseeing | 7.00% | ~236 |
-| Necessary Enhancement | 7.00% | ~236 |
-| From the Past | 7.00% | ~236 |
+| Sightseeing | 7.00% | ~237 |
+| Necessary Enhancement | 7.00% | ~237 |
+| From the Past | 7.00% | ~237 |
 | Access Granted | 6.00% | ~203 |
 | All in Good Health | 6.00% | ~203 |
 | Oats | 5.00% | ~169 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 446)
 | Suburban Perfection | 0.10% | ~3 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,377 (Ranked 207)  
+Progressed: 3,380 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,6 +278,7 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-27 | 3,367 | 0 |
 | 2023-11-28 | 3,371 | 0 |
 | 2023-11-29 | 3,377 | 0 |
+| 2023-11-30 | 3,380 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

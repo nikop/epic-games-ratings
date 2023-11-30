@@ -6,14 +6,14 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~26,685 |
-| Landlord | 33.00% | ~22,015 |
+| Lawbringer | 40.00% | ~26,686 |
+| Landlord | 33.00% | ~22,016 |
 | Bannerlord | 24.00% | ~16,011 |
 | Horde breaker | 24.00% | ~16,011 |
 | Lawmaker | 24.00% | ~16,011 |
 | Trained | 24.00% | ~16,011 |
-| The king is pleased | 19.00% | ~12,675 |
-| King Solomon | 18.00% | ~12,008 |
+| The king is pleased | 19.00% | ~12,676 |
+| King Solomon | 18.00% | ~12,009 |
 | Apple of my eye | 16.00% | ~10,674 |
 | I can do it | 16.00% | ~10,674 |
 | This Is Our Land | 14.00% | ~9,340 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,713 (Ranked 104)  
+Progressed: 66,714 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,10 +282,10 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-27 | 66,427 | 0 |
 | 2023-11-28 | 66,549 | 0 |
 | 2023-11-29 | 66,654 | 0 |
-| 2023-11-30 | 66,713 | 0 |
+| 2023-11-30 | 66,714 | 0 |
 ## Awards
 Max (Character Customization): 7,459  (Ranked 53)  
-Sum: 15,518 (Ranked 68)  
+Sum: 15,521 (Ranked 68)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -294,7 +294,7 @@ Diff (max vs sum): -15
 | This game has Diverse Characters | 1,029 |
 | This game is Highly Recommended | 954 |
 | This game is Extremely Fun | 889 |
-| This game has Amazing Storytelling | 876 |
+| This game has Amazing Storytelling | 879 |
 | This game has Amazing Characters | 873 |
 | This game is Relaxing | 862 |
 | This game has Quickly Understood Controls | 841 |
@@ -623,4 +623,4 @@ Diff (max vs sum): -15
 | 2023-11-27 | 4.74 | - | 7,437 | 15,474 |
 | 2023-11-28 | 4.74 | - | 7,443 | 15,488 |
 | 2023-11-29 | 4.74 | - | 7,451 | 15,500 |
-| 2023-11-30 | 4.74 | - | 7,459 | 15,518 |
+| 2023-11-30 | 4.74 | - | 7,459 | 15,521 |

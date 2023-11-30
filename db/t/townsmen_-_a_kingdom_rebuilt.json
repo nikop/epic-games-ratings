@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -2328,9 +2328,9 @@
       "ID": "ACHIEVEMENT_TIME1",
       "SetID": "9eacipp",
       "Name": "A time consuming game I",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 393
     },
     {
       "ID": "ACHIEVEMENT_TIME2",
@@ -2456,8 +2456,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-11-16T20:57:28.2396436+00:00",
-  "LastChanged_Achievements": "2023-11-30T18:09:51.7994632+00:00",
+  "LastChanged_Achievements": "2023-11-30T19:10:24.647348+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:46.3467623+00:00",
-  "LastUpdate_Ratings": "2023-11-30T17:57:43.6016946+00:00",
-  "LastUpdate_Achievements": "2023-11-30T18:09:51.7995668+00:00"
+  "LastUpdate_Ratings": "2023-11-30T18:57:39.3481999+00:00",
+  "LastUpdate_Achievements": "2023-11-30T19:10:24.6474778+00:00"
 }

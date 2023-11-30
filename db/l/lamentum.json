@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewPlayers": 498,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
@@ -464,9 +464,9 @@
       "ID": "achievement_08",
       "SetID": "7881h0d",
       "Name": "There is freedom in awakening",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 40
     },
     {
       "ID": "achievement_09",
@@ -561,8 +561,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-11-30T18:03:57.0312889+00:00",
+  "LastChanged_Achievements": "2023-11-30T19:04:17.9371595+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:09.6801882+00:00",
-  "LastUpdate_Ratings": "2023-11-30T17:57:45.7368235+00:00",
-  "LastUpdate_Achievements": "2023-11-30T18:03:57.0313024+00:00"
+  "LastUpdate_Ratings": "2023-11-30T18:57:42.4377247+00:00",
+  "LastUpdate_Achievements": "2023-11-30T19:04:17.9371784+00:00"
 }

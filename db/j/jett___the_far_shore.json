@@ -2,9 +2,9 @@
   "ID": "d5dc736cb39c4b09b32a0049a4009d67",
   "Name": "JETT: The Far Shore \u002B Given Time",
   "ProductSlug": "jett-the-far-shore",
-  "Ranking_EOS_Progress": 765,
+  "Ranking_EOS_Progress": 766,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewPlayers": 498,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2021-10-05T13:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:52.4013626+00:00",
   "LastChanged": "2023-03-31T05:57:52.4013627+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:14.3506718+00:00",
-  "LastUpdate_Ratings": "2023-11-30T18:02:51.0977651+00:00",
-  "LastUpdate_Achievements": "2023-11-30T18:08:13.7647491+00:00"
+  "LastUpdate_Ratings": "2023-11-30T19:02:53.9114969+00:00",
+  "LastUpdate_Achievements": "2023-11-30T19:08:09.1051636+00:00"
 }
