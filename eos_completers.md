@@ -11,7 +11,7 @@
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.24% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 11 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 12 | [The Riflemen](games/t/the_riflemen.md) | 25.89% |
+| 12 | [The Riflemen](games/t/the_riflemen.md) | 25.87% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.40% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 14 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -70,9 +70,9 @@
 | 68 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.88% |
 | 69 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
 | 70 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
-| 70 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 5.56% |
 | 70 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 73 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.41% |
+| 72 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.41% |
+| 73 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 5.26% |
 | 74 | [JARS](games/j/jars.md) | 5.00% |
 | 75 | [Bugsnax](games/b/bugsnax.md) | 4.84% |
 | 76 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |
@@ -96,13 +96,13 @@
 | 94 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.40% |
 | 95 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 96 | [Bunny Park](games/b/bunny_park.md) | 3.31% |
-| 97 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.17% |
-| 98 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.16% |
-| 99 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
-| 100 | [Doodle God](games/d/doodle_god.md) | 3.10% |
-| 101 | [Monster Harvest](games/m/monster_harvest.md) | 3.08% |
-| 101 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.08% |
-| 103 | [The Complex](games/t/the_complex.md) | 3.07% |
+| 97 | [The Complex](games/t/the_complex.md) | 3.23% |
+| 98 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.17% |
+| 99 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.16% |
+| 100 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
+| 101 | [Doodle God](games/d/doodle_god.md) | 3.10% |
+| 102 | [Monster Harvest](games/m/monster_harvest.md) | 3.08% |
+| 102 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.08% |
 | 104 | [Destiny 2](games/d/destiny_2.md) | 3.06% |
 | 105 | [HordeCore](games/h/hordecore.md) | 3.04% |
 | 106 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.97% |
@@ -122,7 +122,7 @@
 | 120 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.41% |
 | 120 | [Night Book](games/n/night_book.md) | 2.41% |
 | 122 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
-| 123 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
+| 123 | [Bloodshore](games/b/bloodshore.md) | 2.26% |
 | 124 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.25% |
 | 125 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.22% |
 | 126 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.05% |
