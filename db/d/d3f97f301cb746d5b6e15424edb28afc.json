@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -61,7 +61,7 @@
   "Tags": [],
   "EOS_Progressed": 1115,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2697,9 +2697,9 @@
       "ID": "ACH_FISH",
       "SetID": "5fn8ia4",
       "Name": "Fishy Business",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_WASHCAR_01",
@@ -3057,9 +3057,9 @@
       "ID": "GSS_ACH_43_CARAVAN_02",
       "SetID": "5fn8ia4",
       "Name": "Raising the Stakes",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 457
+      "UsersEstimate": 468
     },
     {
       "ID": "GSS_ACH_44_CARAVAN_03",
@@ -3097,9 +3097,9 @@
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 3",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 780
+      "UsersEstimate": 792
     },
     {
       "ID": "GSS_ACH_49_UPGRADE_STATION_03",
@@ -3386,8 +3386,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-28T04:59:34.1023632+00:00",
-  "LastChanged_Achievements": "2023-11-30T16:06:05.4552733+00:00",
+  "LastChanged_Achievements": "2023-11-30T17:06:33.3768315+00:00",
   "LastUpdate_AppInfo": "2023-11-27T17:57:10.8459621+00:00",
-  "LastUpdate_Ratings": "2023-11-30T15:57:30.328036+00:00",
-  "LastUpdate_Achievements": "2023-11-30T16:06:05.4553869+00:00"
+  "LastUpdate_Ratings": "2023-11-30T16:57:52.3686722+00:00",
+  "LastUpdate_Achievements": "2023-11-30T17:06:33.3769422+00:00"
 }

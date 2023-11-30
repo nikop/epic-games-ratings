@@ -2,10 +2,10 @@
   "ID": "be4b391bc31d465ebeba92b9b822b798",
   "Name": "Milky Way Prince \u2013 The Vampire Star",
   "ProductSlug": "milky-way-prince-the-vampire-star",
-  "Ranking_EOS_Progress": 764,
+  "Ranking_EOS_Progress": 765,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 499,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2020-08-13T13:00:00+00:00",
     "PcReleaseDate": null,
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:17.4073625+00:00",
   "LastChanged": "2023-03-31T05:57:17.4073626+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:33.725305+00:00",
-  "LastUpdate_Ratings": "2023-11-30T15:57:29.069396+00:00",
-  "LastUpdate_Achievements": "2023-11-30T16:04:38.7241277+00:00"
+  "LastUpdate_Ratings": "2023-11-30T16:57:51.1400669+00:00",
+  "LastUpdate_Achievements": "2023-11-30T17:05:04.4231429+00:00"
 }

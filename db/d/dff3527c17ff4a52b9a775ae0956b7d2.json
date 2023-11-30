@@ -2,10 +2,10 @@
   "ID": "dff3527c17ff4a52b9a775ae0956b7d2",
   "Name": "Vasilisa the Wise",
   "ProductSlug": "vasilisa-82d93e",
-  "Ranking_EOS_Progress": 764,
+  "Ranking_EOS_Progress": 765,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 499,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-09-26T14:00:00+00:00",
     "PcReleaseDate": "2023-09-26T14:00:00+00:00",
@@ -32,7 +32,7 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
-  "LastUpdate_AppInfo": "2023-11-23T16:57:15.8585524+00:00",
-  "LastUpdate_Ratings": "2023-11-30T15:59:39.7479737+00:00",
-  "LastUpdate_Achievements": "2023-11-30T16:10:00.5066462+00:00"
+  "LastUpdate_AppInfo": "2023-11-30T16:57:25.0690378+00:00",
+  "LastUpdate_Ratings": "2023-11-30T17:00:03.4856706+00:00",
+  "LastUpdate_Achievements": "2023-11-30T17:10:29.6069727+00:00"
 }

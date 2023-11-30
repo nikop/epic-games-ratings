@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Strength in Defeat | 29.00% | ~2 |
-| Escape from Fleed | 14.00% | ~1 |
-| The Remains of Fleed | 14.00% | ~1 |
-| Life of Pi | 14.00% | ~1 |
-| A Good Paint Job | 14.00% | ~1 |
-| Technology first! | 14.00% | ~1 |
-| Iron Fist | 14.00% | ~1 |
-| The Legend | 14.00% | ~1 |
-| The Vega Turtle | 14.00% | ~1 |
+| Strength in Defeat | 25.00% | ~2 |
+| Escape from Fleed | 13.00% | ~1 |
+| The Remains of Fleed | 13.00% | ~1 |
+| Life of Pi | 13.00% | ~1 |
+| A Good Paint Job | 13.00% | ~1 |
+| Technology first! | 13.00% | ~1 |
+| Iron Fist | 13.00% | ~1 |
+| The Legend | 13.00% | ~1 |
+| The Vega Turtle | 13.00% | ~1 |
 | Gold Seeker | 0.00% | ~0 |
 | A Land of Peace | 0.00% | ~0 |
 | The Power of Friendship | 0.00% | ~0 |
@@ -35,7 +35,7 @@
 | The Ultimate Attack | 0.00% | ~0 |
 | Vengeance of the Wolf | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7 (Ranked 625)  
+Progressed: 8 (Ranked 622)  
 Completed: 0 (0.00%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -45,4 +45,4 @@ Completed: 0 (0.00%) (Ranked 362)
 | 2023-11-24 | 4 | 0 |
 | 2023-11-27 | 5 | 0 |
 | 2023-11-29 | 6 | 0 |
-| 2023-11-30 | 7 | 0 |
+| 2023-11-30 | 8 | 0 |

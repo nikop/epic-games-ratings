@@ -6,16 +6,17 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.40% | ~4,222 |
+| It wakes | 0.40% | ~4,223 |
+| Skillful | 0.40% | ~4,223 |
 | Zealous | 0.30% | ~3,167 |
 | Not half bad | 0.30% | ~3,167 |
-| Skillful | 0.30% | ~3,167 |
 | I | 0.30% | ~3,167 |
 | The Grand Sacrifice | 0.20% | ~2,111 |
 | Backdoor Escape | 0.20% | ~2,111 |
 | No one left behind | 0.20% | ~2,111 |
 | Medic | 0.20% | ~2,111 |
 | Handyman | 0.20% | ~2,111 |
+| Perfect Escape | 0.20% | ~2,111 |
 | Bloody Millionaire | 0.20% | ~2,111 |
 | Apt Survivor | 0.20% | ~2,111 |
 | Survival Treasures | 0.20% | ~2,111 |
@@ -41,7 +42,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | The Key to Escape | 0.10% | ~1,056 |
 | I've got your back | 0.10% | ~1,056 |
 | Nerves of steel | 0.10% | ~1,056 |
-| Perfect Escape | 0.10% | ~1,056 |
 | Perfect Killing | 0.10% | ~1,056 |
 | Gifts for the Fog | 0.10% | ~1,056 |
 | Apt Killer | 0.10% | ~1,056 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,056 |
 | Adept Good Guy | 0.10% | ~1,056 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,055,535 (Ranked 14)  
+Progressed: 1,055,665 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -463,10 +463,10 @@ Completed: 61 (0.01%) (Ranked 342)
 | 2023-11-27 | 1,048,888 | 61 |
 | 2023-11-28 | 1,050,827 | 61 |
 | 2023-11-29 | 1,053,910 | 61 |
-| 2023-11-30 | 1,055,535 | 61 |
+| 2023-11-30 | 1,055,665 | 61 |
 ## Awards
 Max (Diverse Characters): 36,896  (Ranked 15)  
-Sum: 280,788 (Ranked 12)  
+Sum: 280,831 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -478,7 +478,7 @@ Diff (max vs sum): 3
 | This game has Challenging Combat | 31,050 |
 | This game has Quickly Understood Controls | 30,369 |
 | This game has Amazing Storytelling | 28,683 |
-| This game has a Competitive Community | 27,339 |
+| This game has a Competitive Community | 27,382 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
 ## Ratings History
@@ -794,4 +794,4 @@ Diff (max vs sum): 3
 | 2023-11-27 | 4.51 | - | 36,673 | 279,577 |
 | 2023-11-28 | 4.51 | - | 36,768 | 280,046 |
 | 2023-11-29 | 4.51 | - | 36,896 | 280,728 |
-| 2023-11-30 | 4.51 | - | 36,896 | 280,788 |
+| 2023-11-30 | 4.51 | - | 36,896 | 280,831 |

@@ -15,10 +15,10 @@ Number of Ratings: 292  (23.09.2022)
 | Humiliation | 6.00% | ~17 |
 | Whoops! | 4.00% | ~12 |
 | Veni, Vidi, Vici | 4.00% | ~12 |
+| Venisti, Vidisti, Perdidisti | 4.00% | ~12 |
 | Multi Kill | 3.00% | ~9 |
 | Master | 3.00% | ~9 |
 | Expert Essence Employment | 3.00% | ~9 |
-| Venisti, Vidisti, Perdidisti | 3.00% | ~9 |
 | Such A Fungi | 2.00% | ~6 |
 | Landlord Extraordinaire | 2.00% | ~6 |
 | Trojan Horse | 2.00% | ~6 |

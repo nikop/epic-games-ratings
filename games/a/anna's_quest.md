@@ -11,9 +11,9 @@
 | My lost nightingale | 36.00% | ~30 |
 | Fussy eater | 35.00% | ~29 |
 | Honey, honey, honey… | 34.00% | ~28 |
+| Back to the anvil | 34.00% | ~28 |
 | Kekekeke... | 34.00% | ~28 |
 | A very special drink | 33.00% | ~27 |
-| Back to the anvil | 33.00% | ~27 |
 | So soothing... | 33.00% | ~27 |
 | Roostwig has entered the building | 33.00% | ~27 |
 | Mystery solved | 31.00% | ~26 |
@@ -25,8 +25,8 @@
 | You've got mail! | 29.00% | ~24 |
 | Beekeeper | 29.00% | ~24 |
 | Far away from home | 29.00% | ~24 |
+| Show me your true self | 28.00% | ~23 |
 | Mischief maker | 28.00% | ~23 |
-| Show me your true self | 27.00% | ~22 |
 | Memories | 27.00% | ~22 |
 | No posters allowed | 27.00% | ~22 |
 | Little genius | 27.00% | ~22 |

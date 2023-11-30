@@ -2,10 +2,10 @@
   "ID": "26bf8fe08d064d399c477e5e31d9f3bd",
   "Name": "Citizen Conflict",
   "ProductSlug": "citizen-conflict-95e40e",
-  "Ranking_EOS_Progress": 764,
+  "Ranking_EOS_Progress": 765,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 499,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-11-21T08:00:00+00:00",
     "PcReleaseDate": "2023-08-29T23:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-21T11:57:29.6445085+00:00",
   "LastUpdate_AppInfo": "2023-11-29T15:57:41.7347075+00:00",
-  "LastUpdate_Ratings": "2023-11-30T15:59:28.09582+00:00",
-  "LastUpdate_Achievements": "2023-11-30T16:08:44.7071367+00:00"
+  "LastUpdate_Ratings": "2023-11-30T16:59:51.0903457+00:00",
+  "LastUpdate_Achievements": "2023-11-30T17:09:13.0971412+00:00"
 }

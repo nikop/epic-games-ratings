@@ -2,10 +2,10 @@
   "ID": "ad3283cc38a64db89c010975976948de",
   "Name": "Buddy and Friends in Halloween",
   "ProductSlug": "buddy-and-friends-in-halloween-192190",
-  "Ranking_EOS_Progress": 535,
+  "Ranking_EOS_Progress": 536,
   "Ranking_EOS_Completed": 40,
   "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
     "PcReleaseDate": "2023-10-18T15:00:00+00:00",
@@ -243,9 +243,9 @@
       "ID": "LEVEL_135_002",
       "SetID": "5g7b0mb",
       "Name": "Doors - 135 pieces",
-      "Percentage": 25,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "LEVEL_135_003",
@@ -434,8 +434,8 @@
   ],
   "FirstSeen": "2023-10-25T11:59:09.0555301+00:00",
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2023-11-30T16:07:03.5165864+00:00",
+  "LastChanged_Achievements": "2023-11-30T17:07:31.8158269+00:00",
   "LastUpdate_AppInfo": "2023-11-30T02:19:32.8726994+00:00",
-  "LastUpdate_Ratings": "2023-11-30T15:57:27.2072426+00:00",
-  "LastUpdate_Achievements": "2023-11-30T16:07:03.5166134+00:00"
+  "LastUpdate_Ratings": "2023-11-30T16:57:49.1122578+00:00",
+  "LastUpdate_Achievements": "2023-11-30T17:07:31.8158517+00:00"
 }

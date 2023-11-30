@@ -4,11 +4,11 @@
   "ProductSlug": "god-of-war",
   "Ranking_Rating": 16,
   "Ranking_Popularity": 82,
-  "Ranking_PopularitySum": 100,
-  "Ranking_EOS_Progress": 764,
+  "Ranking_PopularitySum": 99,
+  "Ranking_EOS_Progress": 765,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 499,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-01-14T16:00:00+00:00",
     "PcReleaseDate": "2022-01-14T16:00:00+00:00",
@@ -3921,10 +3921,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 8471,
       "NumberOfAwardsMax": 4410
+    },
+    {
+      "Time": "2023-11-30T17:00:03.3383508+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 8477,
+      "NumberOfAwardsMax": 4410
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8471,
+  "NumberOfAwards": 8477,
   "NumberOfAwardsMax": 4410,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3938,7 +3944,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2291
+      "Count": 2297
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4030,8 +4036,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:02.7260883+00:00",
-  "LastChanged": "2023-11-30T15:59:39.6374575+00:00",
+  "LastChanged": "2023-11-30T17:00:03.3383506+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:25.3167885+00:00",
-  "LastUpdate_Ratings": "2023-11-30T15:59:39.6374581+00:00",
-  "LastUpdate_Achievements": "2023-11-30T16:05:05.710536+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:00:03.3383511+00:00",
+  "LastUpdate_Achievements": "2023-11-30T17:05:32.394445+00:00"
 }

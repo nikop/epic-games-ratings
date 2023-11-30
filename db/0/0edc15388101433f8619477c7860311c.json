@@ -4,8 +4,8 @@
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
   "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
     "PcReleaseDate": "2022-08-24T16:00:00+00:00",
@@ -323,9 +323,9 @@
       "ID": "HauntingSpecter",
       "SetID": "7m88n8p",
       "Name": "Haunting Specter",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "HeartHurt",
@@ -339,9 +339,9 @@
       "ID": "HideAndSeek",
       "SetID": "7m88n8p",
       "Name": "Hide-and-Seek Expert",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 65,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "HonoraryAlumni",
@@ -371,17 +371,17 @@
       "ID": "Letters",
       "SetID": "7m88n8p",
       "Name": "Conveying Love through Letters",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "LoveCrawler",
       "SetID": "7m88n8p",
       "Name": "Love Crawler",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "MoneyCamouflage",
@@ -482,8 +482,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-11-30T16:05:55.8734944+00:00",
+  "LastChanged_Achievements": "2023-11-30T17:06:23.7405989+00:00",
   "LastUpdate_AppInfo": "2023-11-27T10:57:15.6283933+00:00",
-  "LastUpdate_Ratings": "2023-11-30T15:59:43.1913743+00:00",
-  "LastUpdate_Achievements": "2023-11-30T16:05:55.873508+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:00:06.7498946+00:00",
+  "LastUpdate_Achievements": "2023-11-30T17:06:23.7406181+00:00"
 }

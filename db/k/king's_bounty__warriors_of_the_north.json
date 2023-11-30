@@ -2,10 +2,10 @@
   "ID": "fff229c3c1b147318de72344269ad3c6",
   "Name": "King\u0027s Bounty: Warriors of the North",
   "ProductSlug": "kings-bounty-the-warriors-of-the-north-fa2850",
-  "Ranking_EOS_Progress": 764,
+  "Ranking_EOS_Progress": 765,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 499,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-03-08T00:00:00+00:00",
     "PcReleaseDate": "2012-10-26T00:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:27.8833948+00:00",
   "LastChanged": "2023-03-31T05:58:27.8833949+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:08.54568+00:00",
-  "LastUpdate_Ratings": "2023-11-30T15:58:29.4405214+00:00",
-  "LastUpdate_Achievements": "2023-11-30T16:05:49.4135755+00:00"
+  "LastUpdate_Ratings": "2023-11-30T16:58:52.3185039+00:00",
+  "LastUpdate_Achievements": "2023-11-30T17:06:17.2761776+00:00"
 }

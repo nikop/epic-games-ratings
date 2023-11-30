@@ -2,10 +2,10 @@
   "ID": "17f8225091734385a60a3213e5c543dc",
   "Name": "Firegirl: Hack \u0027n Splash Rescue DX",
   "ProductSlug": "firegirl-29bf39",
-  "Ranking_EOS_Progress": 764,
+  "Ranking_EOS_Progress": 765,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 499,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-10-11T15:00:00+00:00",
     "PcReleaseDate": "2021-12-14T16:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:18.8280616+00:00",
   "LastChanged": "2023-03-31T05:58:18.8280617+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:01.1945424+00:00",
-  "LastUpdate_Ratings": "2023-11-30T16:01:14.9733432+00:00",
-  "LastUpdate_Achievements": "2023-11-30T16:08:17.1184541+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:01:37.6572935+00:00",
+  "LastUpdate_Achievements": "2023-11-30T17:08:45.0408211+00:00"
 }

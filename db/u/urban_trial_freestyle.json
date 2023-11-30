@@ -2,10 +2,10 @@
   "ID": "2d0646f36f184a2890d0d254738296ce",
   "Name": "Urban Trial Freestyle",
   "ProductSlug": "urban-trial-freestyle-b30b3e",
-  "Ranking_EOS_Progress": 764,
+  "Ranking_EOS_Progress": 765,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 499,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-05-13T13:00:00+00:00",
     "PcReleaseDate": "2013-09-18T00:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:09.9728543+00:00",
   "LastChanged": "2023-03-31T05:57:09.9728544+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:19.6581762+00:00",
-  "LastUpdate_Ratings": "2023-11-30T15:59:30.2030628+00:00",
-  "LastUpdate_Achievements": "2023-11-30T16:10:03.0677762+00:00"
+  "LastUpdate_Ratings": "2023-11-30T16:59:53.2453337+00:00",
+  "LastUpdate_Achievements": "2023-11-30T17:10:31.9584257+00:00"
 }

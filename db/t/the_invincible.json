@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -1356,9 +1356,9 @@
       "ID": "AchvKrautaAlive",
       "SetID": "1hj060c",
       "Name": "Krauta is alive",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 93
     },
     {
       "ID": "AchvLava",
@@ -1444,9 +1444,9 @@
       "ID": "AchvReachCity",
       "SetID": "1hj060c",
       "Name": "The City",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 181
     },
     {
       "ID": "AchvReachCondor",
@@ -1499,8 +1499,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-30T16:09:13.6255254+00:00",
+  "LastChanged_Achievements": "2023-11-30T17:09:42.3402424+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-11-30T16:00:31.3782927+00:00",
-  "LastUpdate_Achievements": "2023-11-30T16:09:13.6255498+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:00:53.987448+00:00",
+  "LastUpdate_Achievements": "2023-11-30T17:09:42.3402676+00:00"
 }

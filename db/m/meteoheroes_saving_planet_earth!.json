@@ -2,10 +2,10 @@
   "ID": "23b2b1f2df5c45f8b9761e507c1c0c62",
   "Name": "MeteoHeroes Saving Planet Earth!",
   "ProductSlug": "meteoheroes-saving-planet-earth-72d999",
-  "Ranking_EOS_Progress": 764,
+  "Ranking_EOS_Progress": 765,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 499,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-10-03T22:00:00+00:00",
     "PcReleaseDate": "2023-10-03T22:00:00+00:00",
@@ -241,8 +241,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:54:09.1678318+00:00",
-  "LastChanged_Achievements": "2023-11-30T16:09:47.7078202+00:00",
+  "LastChanged_Achievements": "2023-11-30T17:10:17.0491693+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:56.3540508+00:00",
-  "LastUpdate_Ratings": "2023-11-30T16:00:10.8470605+00:00",
-  "LastUpdate_Achievements": "2023-11-30T16:09:47.7078324+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:00:33.9476572+00:00",
+  "LastUpdate_Achievements": "2023-11-30T17:10:17.0491852+00:00"
 }

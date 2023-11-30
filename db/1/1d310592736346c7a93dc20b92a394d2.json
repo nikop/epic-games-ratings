@@ -2,10 +2,10 @@
   "ID": "1d310592736346c7a93dc20b92a394d2",
   "Name": "United Football",
   "ProductSlug": "united-football-0279e8",
-  "Ranking_EOS_Progress": 764,
+  "Ranking_EOS_Progress": 765,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 499,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-11-13T19:00:00+00:00",
     "PcReleaseDate": "2023-11-13T19:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-14T14:57:46.7831112+00:00",
   "LastUpdate_AppInfo": "2023-11-27T09:56:53.2997752+00:00",
-  "LastUpdate_Ratings": "2023-11-30T15:59:54.8046807+00:00",
-  "LastUpdate_Achievements": "2023-11-30T16:07:18.360485+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:00:18.5991647+00:00",
+  "LastUpdate_Achievements": "2023-11-30T17:07:46.8185279+00:00"
 }

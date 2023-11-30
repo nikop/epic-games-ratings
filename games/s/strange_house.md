@@ -11,7 +11,7 @@
 | Underground | 9.00% | ~3 |
 | Piglet | 6.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33 (Ranked 527)  
+Progressed: 33 (Ranked 528)  
 Completed: 0 (0.00%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |

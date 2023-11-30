@@ -6,9 +6,9 @@
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 265,
-  "Ranking_EOS_Completed": 97,
+  "Ranking_EOS_Completed": 98,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -125,11 +125,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 979,
+  "EOS_Progressed": 980,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.17,
+  "EOS_Completed_Percentage": 3.16,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -3230,6 +3230,11 @@
       "Time": "2023-11-30T15:07:50.0982595+00:00",
       "NumProgressed": 979,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-30T17:08:08.2413058+00:00",
+      "NumProgressed": 980,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3242,7 +3247,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -3250,7 +3255,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "_03_FinishAct1",
@@ -3274,7 +3279,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -3282,7 +3287,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "_07_FinishAct3",
@@ -3314,7 +3319,7 @@
       "Name": "Buccaneer",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "_11_Completion_40",
@@ -3426,7 +3431,7 @@
       "Name": "Jaded Judge",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -3449,7 +3454,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 979,
+      "Progressed": 980,
       "Completed": 31
     }
   ],
@@ -3457,8 +3462,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-29T18:57:59.7478521+00:00",
-  "LastChanged_Achievements": "2023-11-30T16:07:39.9730155+00:00",
+  "LastChanged_Achievements": "2023-11-30T17:08:08.2413052+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:16.5506412+00:00",
-  "LastUpdate_Ratings": "2023-11-30T15:58:53.8817808+00:00",
-  "LastUpdate_Achievements": "2023-11-30T16:07:39.9730676+00:00"
+  "LastUpdate_Ratings": "2023-11-30T16:59:17.7685805+00:00",
+  "LastUpdate_Achievements": "2023-11-30T17:08:08.2413456+00:00"
 }

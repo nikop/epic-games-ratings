@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 483,
   "Ranking_EOS_Completed": 136,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -394,9 +394,9 @@
       "ID": "AC_BOSS_01",
       "SetID": "16i2akc",
       "Name": "Misery",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "AC_BOSS_02",
@@ -490,9 +490,9 @@
       "ID": "AC_DEATH_ENEMIES_2",
       "SetID": "16i2akc",
       "Name": "Psycopath",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -657,8 +657,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-30T16:05:19.5202341+00:00",
+  "LastChanged_Achievements": "2023-11-30T17:05:46.9664196+00:00",
   "LastUpdate_AppInfo": "2023-11-28T18:57:05.8641658+00:00",
-  "LastUpdate_Ratings": "2023-11-30T16:02:42.637659+00:00",
-  "LastUpdate_Achievements": "2023-11-30T16:05:19.5202625+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:02:35.1427036+00:00",
+  "LastUpdate_Achievements": "2023-11-30T17:05:46.966449+00:00"
 }

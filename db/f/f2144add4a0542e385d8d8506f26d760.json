@@ -2,10 +2,10 @@
   "ID": "f2144add4a0542e385d8d8506f26d760",
   "Name": "PHANTOM GALAXIES\u2122",
   "ProductSlug": "phantom-galaxies-8f4ca5",
-  "Ranking_EOS_Progress": 764,
+  "Ranking_EOS_Progress": 765,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 499,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-11-15T09:00:00+00:00",
     "PcReleaseDate": "2023-11-15T09:00:00+00:00",
@@ -35,7 +35,7 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2023-11-15T13:05:25.7745698+00:00",
-  "LastUpdate_AppInfo": "2023-11-23T16:57:16.5416228+00:00",
-  "LastUpdate_Ratings": "2023-11-30T16:00:08.781459+00:00",
-  "LastUpdate_Achievements": "2023-11-30T16:06:17.5057874+00:00"
+  "LastUpdate_AppInfo": "2023-11-30T16:57:25.4518732+00:00",
+  "LastUpdate_Ratings": "2023-11-30T17:00:32.0432607+00:00",
+  "LastUpdate_Achievements": "2023-11-30T17:06:45.1042325+00:00"
 }

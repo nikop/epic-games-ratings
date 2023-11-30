@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -1185,9 +1185,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 67782,
+  "EOS_Progressed": 67786,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 456,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10980,6 +10980,11 @@
       "Time": "2023-11-30T16:06:44.3361905+00:00",
       "NumProgressed": 67782,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-11-30T17:07:12.3247003+00:00",
+      "NumProgressed": 67786,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -10992,7 +10997,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23724
+      "UsersEstimate": 23725
     },
     {
       "ID": "10",
@@ -11008,7 +11013,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2033
+      "UsersEstimate": 2034
     },
     {
       "ID": "12",
@@ -11016,7 +11021,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2033
+      "UsersEstimate": 2034
     },
     {
       "ID": "13",
@@ -11072,7 +11077,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6778
+      "UsersEstimate": 6779
     },
     {
       "ID": "5",
@@ -11119,7 +11124,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 67782,
+      "Progressed": 67786,
       "Completed": 38
     }
   ],
@@ -11127,8 +11132,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-30T15:59:22.6557041+00:00",
-  "LastChanged_Achievements": "2023-11-30T16:06:44.3361903+00:00",
+  "LastChanged_Achievements": "2023-11-30T17:07:12.3246999+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:13.9511371+00:00",
-  "LastUpdate_Ratings": "2023-11-30T15:59:22.6557046+00:00",
-  "LastUpdate_Achievements": "2023-11-30T16:06:44.3362454+00:00"
+  "LastUpdate_Ratings": "2023-11-30T16:59:45.6099072+00:00",
+  "LastUpdate_Achievements": "2023-11-30T17:07:12.3247618+00:00"
 }

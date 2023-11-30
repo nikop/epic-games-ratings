@@ -2,10 +2,10 @@
   "ID": "11ef23cb08494085a28c342bf7c6034f",
   "Name": "Hamsterdam",
   "ProductSlug": "hamsterdam",
-  "Ranking_EOS_Progress": 764,
+  "Ranking_EOS_Progress": 765,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 499,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
     "PcReleaseDate": "2019-07-31T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:23.8016757+00:00",
   "LastChanged": "2023-03-31T05:57:23.8016758+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:45.5052947+00:00",
-  "LastUpdate_Ratings": "2023-11-30T15:57:32.1081214+00:00",
-  "LastUpdate_Achievements": "2023-11-30T16:05:00.0153732+00:00"
+  "LastUpdate_Ratings": "2023-11-30T16:57:54.1943518+00:00",
+  "LastUpdate_Achievements": "2023-11-30T17:05:26.6524217+00:00"
 }

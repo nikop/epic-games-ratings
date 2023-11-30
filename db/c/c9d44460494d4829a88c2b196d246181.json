@@ -2,10 +2,10 @@
   "ID": "c9d44460494d4829a88c2b196d246181",
   "Name": "Hellen\u0027s Gallery: Making Story with AI",
   "ProductSlug": "projecthellen-b5df12",
-  "Ranking_EOS_Progress": 764,
+  "Ranking_EOS_Progress": 765,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 499,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-09-25T00:00:00+00:00",
     "PcReleaseDate": "2023-09-25T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.0409106+00:00",
-  "LastUpdate_Ratings": "2023-11-30T16:00:49.8837992+00:00",
-  "LastUpdate_Achievements": "2023-11-30T16:03:34.4464927+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:01:10.7991986+00:00",
+  "LastUpdate_Achievements": "2023-11-30T17:03:58.6730156+00:00"
 }

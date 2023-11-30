@@ -15,28 +15,28 @@ Rating: 4.54 (Ranked 528)
 | Welcome To Hell-A | 2.00% | ~14,561 |
 | One of Us | 2.00% | ~1,072 |
 | Pork Chopped | 2.00% | ~1,072 |
-| Dr. Reed, I Presume? | 1.00% | ~7,280 |
-| Anger Management | 1.00% | ~7,280 |
-| Perks of the Job | 1.00% | ~7,280 |
-| Bookworm | 1.00% | ~7,280 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,280 |
-| But Doctor, I am Butcho | 1.00% | ~7,280 |
-| Slayer Squad | 1.00% | ~7,280 |
-| Can't Handle the Truth | 1.00% | ~7,280 |
-| Like Riding a Bike | 1.00% | ~7,280 |
-| Friends Like These | 1.00% | ~7,280 |
-| Apex Predator | 1.00% | ~7,280 |
-| Zombologist | 1.00% | ~7,280 |
-| Ooh, Shiny! | 1.00% | ~7,280 |
-| A Patton Emerges | 1.00% | ~7,280 |
-| I Am the Resurrection | 1.00% | ~7,280 |
-| Stacking the Deck | 1.00% | ~7,280 |
-| Our True Nature | 1.00% | ~7,280 |
-| This is My Weapon | 1.00% | ~7,280 |
-| Making Your Mark | 0.90% | ~6,552 |
-| Humanity Distilled | 0.80% | ~5,824 |
-| Down with the Sickness | 0.80% | ~5,824 |
-| Max Headroom | 0.80% | ~5,824 |
+| Dr. Reed, I Presume? | 1.00% | ~7,281 |
+| Anger Management | 1.00% | ~7,281 |
+| Perks of the Job | 1.00% | ~7,281 |
+| Bookworm | 1.00% | ~7,281 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,281 |
+| But Doctor, I am Butcho | 1.00% | ~7,281 |
+| Slayer Squad | 1.00% | ~7,281 |
+| Can't Handle the Truth | 1.00% | ~7,281 |
+| Like Riding a Bike | 1.00% | ~7,281 |
+| Friends Like These | 1.00% | ~7,281 |
+| Apex Predator | 1.00% | ~7,281 |
+| Zombologist | 1.00% | ~7,281 |
+| Ooh, Shiny! | 1.00% | ~7,281 |
+| A Patton Emerges | 1.00% | ~7,281 |
+| I Am the Resurrection | 1.00% | ~7,281 |
+| Stacking the Deck | 1.00% | ~7,281 |
+| Our True Nature | 1.00% | ~7,281 |
+| This is My Weapon | 1.00% | ~7,281 |
+| Making Your Mark | 0.90% | ~6,553 |
+| Humanity Distilled | 0.80% | ~5,825 |
+| Down with the Sickness | 0.80% | ~5,825 |
+| Max Headroom | 0.80% | ~5,825 |
 | Not Even My Final Form | 0.70% | ~5,096 |
 | Jumbo Keyring | 0.60% | ~4,368 |
 | Go, Bobcats! | 0.60% | ~4,368 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 528)
 | Bucket List | 0.10% | ~728 |
 | Wilhelm | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,049 (Ranked 21)  
-Completed: 2,455 (0.34%) (Ranked 231)  
+Progressed: 728,066 (Ranked 21)  
+Completed: 2,456 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -281,10 +281,10 @@ Completed: 2,455 (0.34%) (Ranked 231)
 | 2023-11-27 | 726,753 | 2,443 |
 | 2023-11-28 | 727,374 | 2,447 |
 | 2023-11-29 | 727,809 | 2,450 |
-| 2023-11-30 | 728,049 | 2,455 |
+| 2023-11-30 | 728,066 | 2,456 |
 ## Awards
 Max (Great Boss Battles): 7,821  (Ranked 49)  
-Sum: 11,984 (Ranked 84)  
+Sum: 11,986 (Ranked 84)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
@@ -294,7 +294,7 @@ Diff (max vs sum): -35
 | This game has Quickly Understood Controls | 539 |
 | This game is Relaxing | 518 |
 | This game has Amazing Storytelling | 502 |
-| This game is Extremely Fun | 489 |
+| This game is Extremely Fun | 491 |
 | This game is Highly Recommended | 487 |
 | This game has Amazing Characters | 451 |
 ## Ratings History
@@ -523,4 +523,4 @@ Diff (max vs sum): -35
 | 2023-11-27 | 4.54 | 7,760 | 11,883 |
 | 2023-11-28 | 4.54 | 7,784 | 11,921 |
 | 2023-11-29 | 4.54 | 7,803 | 11,961 |
-| 2023-11-30 | 4.54 | 7,821 | 11,984 |
+| 2023-11-30 | 4.54 | 7,821 | 11,986 |

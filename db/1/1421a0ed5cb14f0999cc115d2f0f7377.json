@@ -2,10 +2,10 @@
   "ID": "1421a0ed5cb14f0999cc115d2f0f7377",
   "Name": "Brick Breaker Premium 3",
   "ProductSlug": "brick-breaker-premium-3-2ae7ce",
-  "Ranking_EOS_Progress": 764,
+  "Ranking_EOS_Progress": 765,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 499,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-06-16T23:00:00+00:00",
     "PcReleaseDate": "2018-06-22T23:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-28T06:57:04.5811228+00:00",
-  "LastUpdate_Ratings": "2023-11-30T16:02:51.5638265+00:00",
-  "LastUpdate_Achievements": "2023-11-30T16:07:06.0147071+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:02:45.0099012+00:00",
+  "LastUpdate_Achievements": "2023-11-30T17:07:34.2714698+00:00"
 }

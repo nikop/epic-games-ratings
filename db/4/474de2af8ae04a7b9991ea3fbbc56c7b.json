@@ -2,10 +2,10 @@
   "ID": "474de2af8ae04a7b9991ea3fbbc56c7b",
   "Name": "CounterAttack: Uprising",
   "ProductSlug": "counterattackuprising-06aed8",
-  "Ranking_EOS_Progress": 764,
+  "Ranking_EOS_Progress": 765,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 499,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2019-03-11T07:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-26T20:57:11.965899+00:00",
-  "LastUpdate_Ratings": "2023-11-30T16:00:17.6982308+00:00",
-  "LastUpdate_Achievements": "2023-11-30T16:08:15.1764343+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:00:40.7419182+00:00",
+  "LastUpdate_Achievements": "2023-11-30T17:08:43.1407616+00:00"
 }

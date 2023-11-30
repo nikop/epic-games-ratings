@@ -2,10 +2,10 @@
   "ID": "e1963d929f33401d91ebc2f564ebe094",
   "Name": "Oirbo",
   "ProductSlug": "oirbo-c063b7",
-  "Ranking_EOS_Progress": 764,
+  "Ranking_EOS_Progress": 765,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 499,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-07-19T14:00:00+00:00",
     "PcReleaseDate": "2023-07-19T14:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-30T17:57:24.8700987+00:00",
   "LastUpdate_AppInfo": "2023-11-29T01:48:51.7661959+00:00",
-  "LastUpdate_Ratings": "2023-11-30T16:01:03.696777+00:00",
-  "LastUpdate_Achievements": "2023-11-30T16:04:47.6798899+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:01:26.3626331+00:00",
+  "LastUpdate_Achievements": "2023-11-30T17:05:13.7990624+00:00"
 }

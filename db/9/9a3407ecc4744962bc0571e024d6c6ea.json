@@ -4,8 +4,8 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 971,
+  "EOS_Progressed": 972,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
@@ -2539,6 +2539,11 @@
       "Time": "2023-11-30T14:09:45.738504+00:00",
       "NumProgressed": 971,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-30T17:10:24.7858193+00:00",
+      "NumProgressed": 972,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -2559,7 +2564,7 @@
       "Name": "Boston Hay Day",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "BoxingClever",
@@ -2631,7 +2636,7 @@
       "Name": "Lights Out",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "MiCasaSuCasa",
@@ -2639,7 +2644,7 @@
       "Name": "Mi Casa Su Casa",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "OnceMoreIntoTheBreach",
@@ -2647,7 +2652,7 @@
       "Name": "Once more into the Breach",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "Outpatient",
@@ -2663,7 +2668,7 @@
       "Name": "Relic",
       "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "SkeletonCrew",
@@ -2687,7 +2692,7 @@
       "Name": "The Safety of Disbelief",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "TragedyDocumented",
@@ -2703,21 +2708,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 971,
+      "Progressed": 972,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-11-30T16:09:55.2864284+00:00",
+  "LastChanged_Achievements": "2023-11-30T17:10:24.7858188+00:00",
   "LastUpdate_AppInfo": "2023-11-29T20:57:24.7424697+00:00",
-  "LastUpdate_Ratings": "2023-11-30T15:59:52.9867553+00:00",
-  "LastUpdate_Achievements": "2023-11-30T16:09:55.2864516+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:00:16.8777886+00:00",
+  "LastUpdate_Achievements": "2023-11-30T17:10:24.7858518+00:00"
 }

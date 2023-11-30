@@ -2,10 +2,10 @@
   "ID": "98a33c69dd4c462a877089ca59716a52",
   "Name": "Tormented Souls 2",
   "ProductSlug": "tormented-souls-2-28a1eb",
-  "Ranking_EOS_Progress": 764,
+  "Ranking_EOS_Progress": 765,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 499,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-30T02:19:29.5849525+00:00",
-  "LastUpdate_Ratings": "2023-11-30T16:00:19.0364721+00:00",
-  "LastUpdate_Achievements": "2023-11-30T16:04:32.5132581+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:00:42.1095159+00:00",
+  "LastUpdate_Achievements": "2023-11-30T17:04:58.0844269+00:00"
 }

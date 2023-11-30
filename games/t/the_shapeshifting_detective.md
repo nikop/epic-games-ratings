@@ -16,10 +16,10 @@
 | Highlander | 18.00% | ~44 |
 | You Had One Job | 14.00% | ~35 |
 | Book 'em Danny | 13.00% | ~32 |
-| Poetent | 12.00% | ~30 |
+| Poetent | 13.00% | ~32 |
 | Voyeur | 11.00% | ~27 |
 | Oscar Winning Performance | 10.00% | ~25 |
-| Put A Ring On It | 9.00% | ~22 |
+| Put A Ring On It | 10.00% | ~25 |
 | Heavy Rayne | 8.00% | ~20 |
 | Chicken | 7.00% | ~17 |
 | Show Me Some Skin | 5.00% | ~12 |

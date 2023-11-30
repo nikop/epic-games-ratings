@@ -4,8 +4,8 @@
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 475,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
     "PcReleaseDate": "2023-09-12T09:00:00+00:00",
@@ -569,8 +569,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-11-30T16:09:54.1067329+00:00",
+  "LastChanged_Achievements": "2023-11-30T17:10:23.6081395+00:00",
   "LastUpdate_AppInfo": "2023-11-25T02:57:17.602935+00:00",
-  "LastUpdate_Ratings": "2023-11-30T16:00:37.815561+00:00",
-  "LastUpdate_Achievements": "2023-11-30T16:09:54.1067459+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:01:00.7625742+00:00",
+  "LastUpdate_Achievements": "2023-11-30T17:10:23.6081564+00:00"
 }

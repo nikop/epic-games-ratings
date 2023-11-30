@@ -4971,10 +4971,10 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 231117,
-  "EOS_Completed": 541,
-  "EOS_NewPlayers": 4738,
-  "EOS_NewCompleters": 33,
+  "EOS_Progressed": 231160,
+  "EOS_Completed": 542,
+  "EOS_NewPlayers": 4747,
+  "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -20691,6 +20691,11 @@
       "Time": "2023-11-30T16:09:20.2743434+00:00",
       "NumProgressed": 231117,
       "NumCompleted": 541
+    },
+    {
+      "Time": "2023-11-30T17:09:49.4049666+00:00",
+      "NumProgressed": 231160,
+      "NumCompleted": 542
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20703,7 +20708,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -20751,7 +20756,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -20823,7 +20828,7 @@
       "Name": "Quest for Survival",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -20855,7 +20860,7 @@
       "Name": "Familiar Face",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "Meet_Meidra",
@@ -20935,7 +20940,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "Obtain_Guns_A",
@@ -21142,13 +21147,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 231117,
-      "Completed": 541
+      "Progressed": 231160,
+      "Completed": 542
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 10282,
+      "Progressed": 10325,
       "Completed": 173
     }
   ],
@@ -21156,8 +21161,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-30T16:03:30.3183704+00:00",
-  "LastChanged_Achievements": "2023-11-30T16:09:20.2743431+00:00",
+  "LastChanged_Achievements": "2023-11-30T17:09:49.4049662+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-30T16:03:30.318371+00:00",
-  "LastUpdate_Achievements": "2023-11-30T16:09:20.27445+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:03:54.0935889+00:00",
+  "LastUpdate_Achievements": "2023-11-30T17:09:49.4050727+00:00"
 }

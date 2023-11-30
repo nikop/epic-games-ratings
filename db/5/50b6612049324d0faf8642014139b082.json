@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -67,7 +67,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 689,
+  "EOS_Progressed": 690,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
@@ -1557,6 +1557,11 @@
       "Time": "2023-11-30T13:15:11.6331196+00:00",
       "NumProgressed": 689,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T17:10:47.0914174+00:00",
+      "NumProgressed": 690,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1623,9 +1628,9 @@
       "ID": "achievement_16",
       "SetID": "jnappp",
       "Name": "Class Act",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 138
     },
     {
       "ID": "achievement_17",
@@ -1633,7 +1638,7 @@
       "Name": "Your first time?",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "achievement_18",
@@ -1753,7 +1758,7 @@
       "Name": "NEW PB!",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "achievement_8",
@@ -1776,7 +1781,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 689,
+      "Progressed": 690,
       "Completed": 0
     }
   ],
@@ -1784,8 +1789,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-11-29T19:59:52.365085+00:00",
-  "LastChanged_Achievements": "2023-11-30T16:10:18.2559637+00:00",
+  "LastChanged_Achievements": "2023-11-30T17:10:47.091417+00:00",
   "LastUpdate_AppInfo": "2023-11-28T21:56:52.2952246+00:00",
-  "LastUpdate_Ratings": "2023-11-30T15:57:35.9033989+00:00",
-  "LastUpdate_Achievements": "2023-11-30T16:10:18.2559803+00:00"
+  "LastUpdate_Ratings": "2023-11-30T16:57:58.0380609+00:00",
+  "LastUpdate_Achievements": "2023-11-30T17:10:47.0914421+00:00"
 }

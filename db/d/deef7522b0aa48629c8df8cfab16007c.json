@@ -2,10 +2,10 @@
   "ID": "deef7522b0aa48629c8df8cfab16007c",
   "Name": "Time Flies",
   "ProductSlug": "time-flies-d2d42a",
-  "Ranking_EOS_Progress": 764,
+  "Ranking_EOS_Progress": 765,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 499,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-29T01:48:52.7239176+00:00",
-  "LastUpdate_Ratings": "2023-11-30T16:01:58.9350545+00:00",
-  "LastUpdate_Achievements": "2023-11-30T16:07:27.9027785+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:02:21.7200559+00:00",
+  "LastUpdate_Achievements": "2023-11-30T17:07:56.5115283+00:00"
 }

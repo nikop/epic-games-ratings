@@ -4,11 +4,11 @@
   "ProductSlug": "skul-the-hero-slayer",
   "Ranking_Rating": 186,
   "Ranking_Popularity": 328,
-  "Ranking_PopularitySum": 270,
+  "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -1053,10 +1053,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 935,
       "NumberOfAwardsMax": 134
+    },
+    {
+      "Time": "2023-11-30T17:00:43.0485633+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 936,
+      "NumberOfAwardsMax": 134
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 935,
+  "NumberOfAwards": 936,
   "NumberOfAwardsMax": 134,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1094,7 +1100,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 91
+      "Count": 92
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1129,7 +1135,7 @@
   ],
   "EOS_Progressed": 8367,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5875,9 +5881,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2023-11-29T10:59:41.988118+00:00",
-  "LastChanged_Achievements": "2023-11-30T16:06:42.9653997+00:00",
+  "LastChanged": "2023-11-30T17:00:43.0485631+00:00",
+  "LastChanged_Achievements": "2023-11-30T17:07:10.9509921+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.1005476+00:00",
-  "LastUpdate_Ratings": "2023-11-30T16:00:19.9682701+00:00",
-  "LastUpdate_Achievements": "2023-11-30T16:06:42.9654349+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:00:43.0485637+00:00",
+  "LastUpdate_Achievements": "2023-11-30T17:07:10.9510648+00:00"
 }

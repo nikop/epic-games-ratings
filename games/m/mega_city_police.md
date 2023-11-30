@@ -32,7 +32,7 @@
 | Dust to Dust | 0.00% | ~0 |
 | Knife Juggler | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36 (Ranked 520)  
+Progressed: 36 (Ranked 521)  
 Completed: 1 (2.78%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |

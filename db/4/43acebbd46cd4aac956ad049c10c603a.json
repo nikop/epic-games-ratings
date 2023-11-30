@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 137,
+  "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -163,9 +163,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 786,
+  "EOS_Progressed": 788,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 290,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1753,6 +1753,11 @@
       "Time": "2023-11-30T12:03:38.6501769+00:00",
       "NumProgressed": 786,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T17:04:21.6353252+00:00",
+      "NumProgressed": 788,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1891,9 +1896,9 @@
       "ID": "FloodedValley",
       "SetID": "1n308hc",
       "Name": "Flooded Valley",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     },
     {
       "ID": "GnothiSeauton",
@@ -1915,9 +1920,9 @@
       "ID": "GrasslandsRing",
       "SetID": "1n308hc",
       "Name": "Grasslands Ring",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     },
     {
       "ID": "HighPlain",
@@ -1949,7 +1954,7 @@
       "Name": "Lord of the Files",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "LostMarshes",
@@ -2067,9 +2072,9 @@
       "ID": "ScientiaVincereTenebras",
       "SetID": "1n308hc",
       "Name": "Scientia Vincere Tenebras",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     },
     {
       "ID": "Signatory",
@@ -2109,7 +2114,7 @@
       "Name": "Team Spirit",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "TextAdventurer",
@@ -2181,7 +2186,7 @@
       "Name": "Touch Grass",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "TrevorsBiographer",
@@ -2205,7 +2210,7 @@
       "Name": "Wanderers",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "WesternDelta",
@@ -2219,9 +2224,9 @@
       "ID": "WoodedPlateau",
       "SetID": "1n308hc",
       "Name": "Wooded Plateau",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 24
     },
     {
       "ID": "YourBiggestFan",
@@ -2236,7 +2241,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 786,
+      "Progressed": 788,
       "Completed": 1
     }
   ],
@@ -2244,8 +2249,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-29T18:59:07.9515154+00:00",
-  "LastChanged_Achievements": "2023-11-30T16:03:57.2680005+00:00",
+  "LastChanged_Achievements": "2023-11-30T17:04:21.6353248+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-11-30T16:00:37.3300948+00:00",
-  "LastUpdate_Achievements": "2023-11-30T16:03:57.2680416+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:01:00.3314233+00:00",
+  "LastUpdate_Achievements": "2023-11-30T17:04:21.6353677+00:00"
 }

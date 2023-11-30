@@ -7,8 +7,8 @@
 | The Last Stand | 88.00% | ~444 |
 | Thalya – Simply Immortal | 88.00% | ~444 |
 | For the Horde! | 81.00% | ~408 |
-| Hammer Time, Round Two | 79.00% | ~398 |
-| The Hellwoods | 73.00% | ~368 |
+| Hammer Time, Round Two | 80.00% | ~403 |
+| The Hellwoods | 74.00% | ~373 |
 | The Plains of Strothalm | 68.00% | ~343 |
 | Experienced Thalya | 68.00% | ~343 |
 | Thalya's Concentrated Fury | 67.00% | ~338 |
@@ -16,7 +16,7 @@
 | Master of Magic | 63.00% | ~318 |
 | Heroes’ Gorge | 61.00% | ~307 |
 | Unicorn steaks – fresh off the hoof! | 59.00% | ~297 |
-| Magic Accidents | 57.00% | ~287 |
+| Magic Accidents | 58.00% | ~292 |
 | Trap Master | 56.00% | ~282 |
 | Minions, Minions! | 53.00% | ~267 |
 | The Ascent | 52.00% | ~262 |
@@ -24,24 +24,24 @@
 | Hard Work | 47.00% | ~237 |
 | YOU SHALL NOT PASS! | 46.00% | ~232 |
 | The Big Eaty | 46.00% | ~232 |
+| “… like son” | 43.00% | ~217 |
 | Pure Dynamite! | 42.00% | ~212 |
-| “… like son” | 42.00% | ~212 |
 | Dungeonlord Gorgu | 38.00% | ~192 |
 | Shame! Shame! Shame! | 38.00% | ~192 |
 | Mana Cannon | 37.00% | ~186 |
 | The Cathedral of Light | 36.00% | ~181 |
 | Tanos' Crusade Against Thalya | 32.00% | ~161 |
-| All’s Well That Ends Evil | 27.00% | ~136 |
-| Unstoppable Horde | 26.00% | ~131 |
+| All’s Well That Ends Evil | 28.00% | ~141 |
+| Unstoppable Horde | 27.00% | ~136 |
 | Master of the Undead | 24.00% | ~121 |
 | The Duel | 24.00% | ~121 |
 | Hungry, Hungry Gorgu! | 23.00% | ~116 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 23.00% | ~116 |
 | Forbidden Knowledge | 23.00% | ~116 |
 | If Looks Could Kill | 22.00% | ~111 |
-| Ghost Pirates? Ghost Heroes! | 20.00% | ~101 |
+| Ghost Pirates? Ghost Heroes! | 21.00% | ~106 |
 | The Finitude Drill | 19.00% | ~96 |
-| Stop Tanos! | 17.00% | ~86 |
+| Stop Tanos! | 18.00% | ~91 |
 | Doom Hill | 17.00% | ~86 |
 | Sacrificial Pit = Garbage Disposal? | 15.00% | ~76 |
 | Bonus Evilness | 15.00% | ~76 |
@@ -63,7 +63,7 @@
 | Laser Eyes Are So Useless | 7.00% | ~35 |
 | Heal Heal Blessing | 7.00% | ~35 |
 | Hands Off My Stones | 6.00% | ~30 |
-| No Mana, No Cry | 4.00% | ~20 |
+| No Mana, No Cry | 5.00% | ~25 |
 | I Don't Need Any Help | 4.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 504 (Ranked 310)  
