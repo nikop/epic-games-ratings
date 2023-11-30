@@ -3,7 +3,7 @@
   "Name": "LEGO\u00AE Builder\u0027s Journey",
   "ProductSlug": "lego-builders-journey",
   "Ranking_EOS_Progress": 765,
-  "Ranking_EOS_Completed": 362,
+  "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 500,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:30.0001664+00:00",
   "LastChanged": "2023-03-31T05:58:30.0001665+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:41.1112547+00:00",
-  "LastUpdate_Ratings": "2023-11-30T17:03:29.7223955+00:00",
-  "LastUpdate_Achievements": "2023-11-30T17:05:57.7958166+00:00"
+  "LastUpdate_Ratings": "2023-11-30T18:02:52.5821199+00:00",
+  "LastUpdate_Achievements": "2023-11-30T18:04:46.3742433+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Scarf",
   "ProductSlug": "scarf-dd1030",
   "Ranking_EOS_Progress": 765,
-  "Ranking_EOS_Completed": 362,
+  "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 500,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
@@ -50,8 +50,8 @@
   "FirstSeenRating": "2023-03-31T05:58:33.1229503+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:21.5581434+00:00",
   "LastChanged": "2023-03-31T05:58:33.1229504+00:00",
-  "LastChanged_Achievements": "2023-11-30T17:06:01.4475233+00:00",
+  "LastChanged_Achievements": "2023-11-30T18:04:49.0432811+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:36.5352006+00:00",
-  "LastUpdate_Ratings": "2023-11-30T17:00:20.0438898+00:00",
-  "LastUpdate_Achievements": "2023-11-30T17:06:01.4475258+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:59:12.1597604+00:00",
+  "LastUpdate_Achievements": "2023-11-30T18:04:49.0432842+00:00"
 }

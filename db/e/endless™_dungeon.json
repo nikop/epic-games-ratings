@@ -3,7 +3,7 @@
   "Name": "ENDLESS\u2122 Dungeon",
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 249,
-  "Ranking_EOS_Completed": 362,
+  "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1261,
+  "EOS_Progressed": 1262,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
@@ -2295,6 +2295,11 @@
       "Time": "2023-11-30T10:06:39.4377141+00:00",
       "NumProgressed": 1261,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T18:05:41.5276963+00:00",
+      "NumProgressed": 1262,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -2339,7 +2344,7 @@
       "Name": "Blobmeister",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -2363,7 +2368,7 @@
       "Name": "Pest Control",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -2387,7 +2392,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -2546,14 +2551,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1261,
+      "Progressed": 1262,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-30T17:07:14.4917738+00:00",
+  "LastChanged_Achievements": "2023-11-30T18:05:41.5276955+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.3423297+00:00",
-  "LastUpdate_Ratings": "2023-11-30T16:58:08.3857183+00:00",
-  "LastUpdate_Achievements": "2023-11-30T17:07:14.4918182+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:57:41.6460648+00:00",
+  "LastUpdate_Achievements": "2023-11-30T18:05:41.5277425+00:00"
 }

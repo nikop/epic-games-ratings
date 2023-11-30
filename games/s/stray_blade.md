@@ -58,7 +58,7 @@
 | Lost and Found | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 127 (Ranked 414)  
-Completed: 0 (0.00%) (Ranked 362)  
+Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

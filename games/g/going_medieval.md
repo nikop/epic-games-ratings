@@ -6,24 +6,24 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Having A Field Day | 76.00% | ~5,350 |
-| Get A Room | 75.00% | ~5,280 |
-| Reap What You Sow | 73.00% | ~5,139 |
-| The First Day | 70.00% | ~4,928 |
+| Having A Field Day | 76.00% | ~5,351 |
+| Get A Room | 75.00% | ~5,281 |
+| Reap What You Sow | 73.00% | ~5,140 |
+| The First Day | 69.00% | ~4,858 |
 | Green Thumb | 67.00% | ~4,717 |
 | Novice Researcher | 67.00% | ~4,717 |
-| Home Cooked Meal | 61.00% | ~4,294 |
-| Onward | 58.00% | ~4,083 |
-| The First Week | 55.00% | ~3,872 |
+| Home Cooked Meal | 61.00% | ~4,295 |
+| Onward | 58.00% | ~4,084 |
+| The First Week | 55.00% | ~3,873 |
 | Beam Me Up | 52.00% | ~3,661 |
 | Studious Researcher | 52.00% | ~3,661 |
 | Putting Food on the Table | 47.00% | ~3,309 |
 | Adept Researcher | 45.00% | ~3,168 |
 | Retribution | 42.00% | ~2,957 |
 | ...And Don’t Come Back! | 42.00% | ~2,957 |
-| Feast or Famine | 38.00% | ~2,675 |
+| Feast or Famine | 38.00% | ~2,676 |
 | Heating Up | 32.00% | ~2,253 |
-| Luminary Researcher | 31.00% | ~2,182 |
+| Luminary Researcher | 31.00% | ~2,183 |
 | Fit For A King | 29.00% | ~2,042 |
 | Winter Is Coming | 29.00% | ~2,042 |
 | Winter Is Here | 25.00% | ~1,760 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~141 |
 | Wabbit Season | 0.50% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,040 (Ranked 182)  
+Progressed: 7,041 (Ranked 182)  
 Completed: 14 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,11 +241,11 @@ Completed: 14 (0.20%) (Ranked 257)
 | 2023-11-27 | 6,995 | 14 |
 | 2023-11-28 | 7,016 | 14 |
 | 2023-11-29 | 7,032 | 14 |
-| 2023-11-30 | 7,040 | 14 |
+| 2023-11-30 | 7,041 | 14 |
 ## Awards
 Max (Great for Beginners): 126  (Ranked 337)  
-Sum: 1,028 (Ranked 260)  
-Diff (max vs sum): 77  
+Sum: 1,029 (Ranked 259)  
+Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 126 |
@@ -256,7 +256,7 @@ Diff (max vs sum): 77
 | This game is Highly Recommended | 105 |
 | This game has Amazing Characters | 97 |
 | This game has Amazing Storytelling | 88 |
-| This game has Unique Visuals | 86 |
+| This game has Unique Visuals | 87 |
 | This game has a Creative Community | 72 |
 | This game has Obsessive Gameplay | 56 |
 | This game is Educational | 21 |
@@ -422,4 +422,4 @@ Diff (max vs sum): 77
 | 2023-11-25 | 4.60 | - | 125 | 1,024 |
 | 2023-11-26 | 4.60 | - | 126 | 1,025 |
 | 2023-11-28 | 4.60 | - | 126 | 1,026 |
-| 2023-11-30 | 4.60 | - | 126 | 1,028 |
+| 2023-11-30 | 4.60 | - | 126 | 1,029 |

@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | START | 93.00% | ~279 |
 | Ram Corporal | 86.00% | ~258 |
-| Ram Sergeant | 68.00% | ~204 |
+| Ram Sergeant | 69.00% | ~207 |
 | Ram Staff Sergeant | 68.00% | ~204 |
 | Ram First Sergeant | 60.00% | ~180 |
 | Senior Sergeant Baran | 59.00% | ~177 |
@@ -28,7 +28,7 @@
 | GOLDEN RAM | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 300 (Ranked 356)  
-Completed: 0 (0.00%) (Ranked 362)  
+Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

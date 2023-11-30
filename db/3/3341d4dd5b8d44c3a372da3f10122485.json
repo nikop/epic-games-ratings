@@ -4,8 +4,8 @@
   "ProductSlug": "samorost-2-1b9bb1",
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 5,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -974,9 +974,9 @@
       "ID": "Budoar",
       "SetID": "823jm6g",
       "Name": "Budoir",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 80,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "Intro",
@@ -1014,9 +1014,9 @@
       "ID": "Les",
       "SetID": "823jm6g",
       "Name": "Woods",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 80,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "Majak",
@@ -1030,17 +1030,17 @@
       "ID": "Nora",
       "SetID": "823jm6g",
       "Name": "Burrow",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 75,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "Planina",
       "SetID": "823jm6g",
       "Name": "Plain",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 80,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "Poklop",
@@ -1085,8 +1085,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-11-30T17:04:13.5843763+00:00",
+  "LastChanged_Achievements": "2023-11-30T18:03:22.7343796+00:00",
   "LastUpdate_AppInfo": "2023-11-25T02:57:16.5914345+00:00",
-  "LastUpdate_Ratings": "2023-11-30T16:58:10.3667665+00:00",
-  "LastUpdate_Achievements": "2023-11-30T17:04:13.5843951+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:57:42.9590341+00:00",
+  "LastUpdate_Achievements": "2023-11-30T18:03:22.7343983+00:00"
 }

@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Air Fighter | 89.00% | ~24 |
-| Act of Kindness | 89.00% | ~24 |
-| The Altruist | 78.00% | ~21 |
-| Oo-De-Lally | 70.00% | ~19 |
-| Watch your Step! | 70.00% | ~19 |
-| Treasure Hunter | 70.00% | ~19 |
-| Tap Dancing | 63.00% | ~17 |
-| MAX LEVEL | 56.00% | ~15 |
-| Right between the eyes | 52.00% | ~14 |
-| Spring Board | 44.00% | ~12 |
-| Starry Night | 41.00% | ~11 |
-| Savior | 41.00% | ~11 |
-| Rebel Unleashed | 41.00% | ~11 |
-| Merry Co-operation | 37.00% | ~10 |
-| Finish Him! | 37.00% | ~10 |
-| Locksley's Tears | 33.00% | ~9 |
-| Assault on the Ram | 33.00% | ~9 |
-| First Aid | 30.00% | ~8 |
-| Merry Go Round | 30.00% | ~8 |
-| Ultra Rebel Instinct | 26.00% | ~7 |
-| Ascending Will | 19.00% | ~5 |
-| Ultra Combo | 19.00% | ~5 |
-| Take Action! | 19.00% | ~5 |
-| Brilliant Executioner | 15.00% | ~4 |
-| Haute Couture | 15.00% | ~4 |
+| Act of Kindness | 89.00% | ~25 |
+| Air Fighter | 86.00% | ~24 |
+| The Altruist | 79.00% | ~22 |
+| Oo-De-Lally | 71.00% | ~20 |
+| Treasure Hunter | 71.00% | ~20 |
+| Watch your Step! | 68.00% | ~19 |
+| Tap Dancing | 61.00% | ~17 |
+| MAX LEVEL | 57.00% | ~16 |
+| Right between the eyes | 50.00% | ~14 |
+| Spring Board | 43.00% | ~12 |
+| Starry Night | 39.00% | ~11 |
+| Savior | 39.00% | ~11 |
+| Rebel Unleashed | 39.00% | ~11 |
+| Merry Co-operation | 36.00% | ~10 |
+| Finish Him! | 36.00% | ~10 |
+| Locksley's Tears | 32.00% | ~9 |
+| Assault on the Ram | 32.00% | ~9 |
+| First Aid | 29.00% | ~8 |
+| Merry Go Round | 29.00% | ~8 |
+| Ultra Rebel Instinct | 25.00% | ~7 |
+| Ascending Will | 21.00% | ~6 |
+| Ultra Combo | 18.00% | ~5 |
+| Take Action! | 18.00% | ~5 |
+| Brilliant Executioner | 14.00% | ~4 |
+| Haute Couture | 14.00% | ~4 |
 | The Gang prevails | 11.00% | ~3 |
 | Hidden Experiment | 11.00% | ~3 |
 | Into the Lion's Den | 11.00% | ~3 |
@@ -58,8 +58,8 @@
 | Master of All | 0.00% | ~0 |
 | Fashionista | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27 (Ranked 538)  
-Completed: 0 (0.00%) (Ranked 362)  
+Progressed: 28 (Ranked 536)  
+Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -69,4 +69,4 @@ Completed: 0 (0.00%) (Ranked 362)
 | 2023-11-27 | 14 | 0 |
 | 2023-11-28 | 21 | 0 |
 | 2023-11-29 | 24 | 0 |
-| 2023-11-30 | 27 | 0 |
+| 2023-11-30 | 28 | 0 |

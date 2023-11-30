@@ -5,9 +5,9 @@
   "Ranking_Rating": 233,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 404,
-  "Ranking_EOS_Progress": 360,
-  "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_Progress": 359,
+  "Ranking_EOS_Completed": 363,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 291,
+  "EOS_Progressed": 292,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1313,6 +1313,11 @@
       "Time": "2023-11-30T14:05:26.5277574+00:00",
       "NumProgressed": 291,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T18:04:52.1537282+00:00",
+      "NumProgressed": 292,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1605,7 +1610,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -1685,7 +1690,7 @@
       "Name": "Humiliation",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -1756,15 +1761,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 291,
+      "Progressed": 292,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-30T17:06:05.7349374+00:00",
+  "LastChanged_Achievements": "2023-11-30T18:04:52.1537272+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:52.6052196+00:00",
-  "LastUpdate_Ratings": "2023-11-30T17:01:14.5008411+00:00",
-  "LastUpdate_Achievements": "2023-11-30T17:06:05.7349766+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:59:51.7396986+00:00",
+  "LastUpdate_Achievements": "2023-11-30T18:04:52.1537917+00:00"
 }

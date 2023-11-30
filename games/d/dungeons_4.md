@@ -6,21 +6,21 @@
 | ---- | ---------- | ----- |
 | The Last Stand | 88.00% | ~444 |
 | Thalya – Simply Immortal | 88.00% | ~444 |
-| For the Horde! | 81.00% | ~408 |
-| Hammer Time, Round Two | 80.00% | ~403 |
-| The Hellwoods | 74.00% | ~373 |
+| For the Horde! | 81.00% | ~409 |
+| Hammer Time, Round Two | 79.00% | ~399 |
+| The Hellwoods | 73.00% | ~369 |
 | The Plains of Strothalm | 68.00% | ~343 |
 | Experienced Thalya | 68.00% | ~343 |
 | Thalya's Concentrated Fury | 67.00% | ~338 |
 | Bad Elves Go Everywhere | 65.00% | ~328 |
 | Master of Magic | 63.00% | ~318 |
-| Heroes’ Gorge | 61.00% | ~307 |
-| Unicorn steaks – fresh off the hoof! | 59.00% | ~297 |
-| Magic Accidents | 58.00% | ~292 |
-| Trap Master | 56.00% | ~282 |
-| Minions, Minions! | 53.00% | ~267 |
-| The Ascent | 52.00% | ~262 |
-| It's Warm and Cozy at Home | 52.00% | ~262 |
+| Heroes’ Gorge | 60.00% | ~303 |
+| Unicorn steaks – fresh off the hoof! | 59.00% | ~298 |
+| Magic Accidents | 58.00% | ~293 |
+| Trap Master | 56.00% | ~283 |
+| Minions, Minions! | 53.00% | ~268 |
+| The Ascent | 52.00% | ~263 |
+| It's Warm and Cozy at Home | 52.00% | ~263 |
 | Hard Work | 47.00% | ~237 |
 | YOU SHALL NOT PASS! | 46.00% | ~232 |
 | The Big Eaty | 46.00% | ~232 |
@@ -28,9 +28,9 @@
 | Pure Dynamite! | 42.00% | ~212 |
 | Dungeonlord Gorgu | 38.00% | ~192 |
 | Shame! Shame! Shame! | 38.00% | ~192 |
-| Mana Cannon | 37.00% | ~186 |
-| The Cathedral of Light | 36.00% | ~181 |
-| Tanos' Crusade Against Thalya | 32.00% | ~161 |
+| Mana Cannon | 37.00% | ~187 |
+| The Cathedral of Light | 37.00% | ~187 |
+| Tanos' Crusade Against Thalya | 32.00% | ~162 |
 | All’s Well That Ends Evil | 28.00% | ~141 |
 | Unstoppable Horde | 27.00% | ~136 |
 | Master of the Undead | 24.00% | ~121 |
@@ -43,17 +43,17 @@
 | The Finitude Drill | 19.00% | ~96 |
 | Stop Tanos! | 18.00% | ~91 |
 | Doom Hill | 17.00% | ~86 |
+| Brimstone Shaken, Not Stirred | 16.00% | ~81 |
 | Sacrificial Pit = Garbage Disposal? | 15.00% | ~76 |
 | Bonus Evilness | 15.00% | ~76 |
 | Sabotage! | 15.00% | ~76 |
-| Brimstone Shaken, Not Stirred | 15.00% | ~76 |
 | The Rune Sockets of Finitude (Part 1) | 14.00% | ~71 |
 | My Little Torture Chamber | 13.00% | ~66 |
 | Raiders of the Lost Stone | 13.00% | ~66 |
-| Lavalumps on Ice! | 12.00% | ~60 |
-| The Rune Sockets of Finitude (Part 2) | 12.00% | ~60 |
-| Rubble and Ashes | 11.00% | ~55 |
-| The Last Stand - This Time For Real! | 11.00% | ~55 |
+| Lavalumps on Ice! | 12.00% | ~61 |
+| The Rune Sockets of Finitude (Part 2) | 12.00% | ~61 |
+| Rubble and Ashes | 11.00% | ~56 |
+| The Last Stand - This Time For Real! | 11.00% | ~56 |
 | To the Max! | 10.00% | ~50 |
 | To Infinity And Beyond! | 10.00% | ~50 |
 | Mirror, Mirror | 9.00% | ~45 |
@@ -66,8 +66,8 @@
 | No Mana, No Cry | 5.00% | ~25 |
 | I Don't Need Any Help | 4.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 504 (Ranked 310)  
-Completed: 8 (1.59%) (Ranked 139)  
+Progressed: 505 (Ranked 310)  
+Completed: 9 (1.78%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -92,4 +92,4 @@ Completed: 8 (1.59%) (Ranked 139)
 | 2023-11-27 | 477 | 7 |
 | 2023-11-28 | 489 | 8 |
 | 2023-11-29 | 500 | 8 |
-| 2023-11-30 | 504 | 8 |
+| 2023-11-30 | 505 | 9 |

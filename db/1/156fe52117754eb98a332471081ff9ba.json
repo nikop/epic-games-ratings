@@ -3,7 +3,7 @@
   "Name": "CadriaItemShop",
   "ProductSlug": "cadriaitemshop-8fe97e",
   "Ranking_EOS_Progress": 765,
-  "Ranking_EOS_Completed": 362,
+  "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 500,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
@@ -474,8 +474,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-18T07:01:34.2359081+00:00",
-  "LastChanged_Achievements": "2023-11-30T17:04:40.7537657+00:00",
+  "LastChanged_Achievements": "2023-11-30T18:03:52.0032015+00:00",
   "LastUpdate_AppInfo": "2023-11-28T18:57:07.5626053+00:00",
-  "LastUpdate_Ratings": "2023-11-30T17:03:35.9021768+00:00",
-  "LastUpdate_Achievements": "2023-11-30T17:04:40.7538072+00:00"
+  "LastUpdate_Ratings": "2023-11-30T18:02:56.6370339+00:00",
+  "LastUpdate_Achievements": "2023-11-30T18:03:52.0032351+00:00"
 }

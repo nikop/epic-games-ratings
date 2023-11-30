@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -1423,17 +1423,17 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 196
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
       "SetID": "8d3ci0",
       "Name": "Putting challenge",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 90
+      "UsersEstimate": 93
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -1518,8 +1518,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-11-30T17:07:36.7645636+00:00",
+  "LastChanged_Achievements": "2023-11-30T18:05:57.1480535+00:00",
   "LastUpdate_AppInfo": "2023-11-26T02:20:29.6479156+00:00",
-  "LastUpdate_Ratings": "2023-11-30T16:59:10.025311+00:00",
-  "LastUpdate_Achievements": "2023-11-30T17:07:36.7645806+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:58:24.3072829+00:00",
+  "LastUpdate_Achievements": "2023-11-30T18:05:57.1480813+00:00"
 }

@@ -13,12 +13,12 @@
 | Scholar | 9.00% | ~22 |
 | A Taste of Wrath | 8.00% | ~19 |
 | Adventurer | 8.00% | ~19 |
-| Tributes of Caladrias | 8.00% | ~19 |
 | Shatter Them All | 8.00% | ~19 |
 | Big Bazar | 8.00% | ~19 |
-| Fashion Victim | 8.00% | ~19 |
-| Stone Collection | 8.00% | ~19 |
 | The Collector | 8.00% | ~19 |
+| Tributes of Caladrias | 7.00% | ~17 |
+| Fashion Victim | 7.00% | ~17 |
+| Stone Collection | 7.00% | ~17 |
 | Calm before the Storm | 5.00% | ~12 |
 | To Battle | 5.00% | ~12 |
 | Godslayer | 5.00% | ~12 |
@@ -29,10 +29,10 @@
 | Clear Sight | 3.00% | ~7 |
 | Airborne | 3.00% | ~7 |
 | Shatterer | 3.00% | ~7 |
-| Miner | 3.00% | ~7 |
 | Slayer | 2.00% | ~5 |
 | All There Is | 2.00% | ~5 |
 | False God | 2.00% | ~5 |
+| Miner | 2.00% | ~5 |
 | A Queen's Tale | 2.00% | ~5 |
 | Flawless Victory | 1.00% | ~2 |
 | All That Gold | 1.00% | ~2 |
@@ -41,7 +41,7 @@
 | Shardbearer | 0.80% | ~2 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240 (Ranked 376)  
+Progressed: 241 (Ranked 375)  
 Completed: 2 (0.83%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,4 +91,4 @@ Completed: 2 (0.83%) (Ranked 178)
 | 2023-11-26 | 226 | 2 |
 | 2023-11-27 | 230 | 2 |
 | 2023-11-28 | 237 | 2 |
-| 2023-11-30 | 240 | 2 |
+| 2023-11-30 | 241 | 2 |

@@ -3,8 +3,8 @@
   "Name": "Who\u0027s Your Daddy?!",
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 349,
-  "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_Completed": 363,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 315,
+  "EOS_Progressed": 318,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -959,6 +959,11 @@
       "Time": "2023-11-29T20:04:11.2259597+00:00",
       "NumProgressed": 315,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T18:05:09.4172412+00:00",
+      "NumProgressed": 318,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -979,15 +984,15 @@
       "Name": "Iced Iced Baby",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "5",
       "SetID": "5pi96jj",
       "Name": "What\u0027s Cooking?",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 29
     },
     {
       "ID": "6",
@@ -1009,9 +1014,9 @@
       "ID": "8",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s On Fire",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 127
     },
     {
       "ID": "9",
@@ -1027,15 +1032,15 @@
       "Name": "Turn a Rat into a Snack",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "REMAKE_002",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s First...",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 238
     },
     {
       "ID": "REMAKE_004",
@@ -1043,7 +1048,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 195
+      "UsersEstimate": 197
     },
     {
       "ID": "Remake_005",
@@ -1057,9 +1062,9 @@
       "ID": "Remake_006",
       "SetID": "5pi96jj",
       "Name": "Attempted Vehicular Infanticide",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "Remake_007",
@@ -1067,7 +1072,7 @@
       "Name": "Deez Buffs Make Me Go Nuts",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "Remake_008",
@@ -1083,7 +1088,7 @@
       "Name": "Make a fish your dish",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Remake_010",
@@ -1099,7 +1104,7 @@
       "Name": "Imma Powder Out",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Remake_12",
@@ -1115,7 +1120,7 @@
       "Name": "Toasted",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Remake_14",
@@ -1123,7 +1128,7 @@
       "Name": "This is not how you play Slip and Die",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Remake_15",
@@ -1131,7 +1136,7 @@
       "Name": "Ready for the Big Leagues",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Remake_16",
@@ -1155,7 +1160,7 @@
       "Name": "Disobedient",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Remake_19",
@@ -1163,7 +1168,7 @@
       "Name": "Pan Head",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Remake_20",
@@ -1171,7 +1176,7 @@
       "Name": "Dug Straight Down",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Remake_21",
@@ -1194,14 +1199,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 315,
+      "Progressed": 318,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-30T17:06:29.7800522+00:00",
+  "LastChanged_Achievements": "2023-11-30T18:05:09.4172406+00:00",
   "LastUpdate_AppInfo": "2023-11-27T21:57:11.1049797+00:00",
-  "LastUpdate_Ratings": "2023-11-30T17:01:03.830656+00:00",
-  "LastUpdate_Achievements": "2023-11-30T17:06:29.7800746+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:59:43.6099009+00:00",
+  "LastUpdate_Achievements": "2023-11-30T18:05:09.4172688+00:00"
 }

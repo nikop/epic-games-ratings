@@ -4445,9 +4445,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77483,
+  "EOS_Progressed": 77484,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 575,
+  "EOS_NewPlayers": 569,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24545,6 +24545,11 @@
       "Time": "2023-11-30T17:06:23.4662754+00:00",
       "NumProgressed": 77483,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-11-30T18:05:04.8811795+00:00",
+      "NumProgressed": 77484,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -24644,7 +24649,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11622
+      "UsersEstimate": 11623
     },
     {
       "ID": "CHALLENGES_1",
@@ -24660,7 +24665,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16271
+      "UsersEstimate": 16272
     },
     {
       "ID": "CLAYFACE_2",
@@ -24740,7 +24745,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6973
+      "UsersEstimate": 6974
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -24780,7 +24785,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21695
+      "UsersEstimate": 21696
     },
     {
       "ID": "FREEZE_1_5",
@@ -24860,7 +24865,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26344
+      "UsersEstimate": 26345
     },
     {
       "ID": "HARLEY_2",
@@ -24916,7 +24921,7 @@
       "Name": "A Momentum Occasion",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2324
+      "UsersEstimate": 2325
     },
     {
       "ID": "HERO_PROGRESSION_4",
@@ -24932,7 +24937,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20920
+      "UsersEstimate": 20921
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -24948,7 +24953,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26344
+      "UsersEstimate": 26345
     },
     {
       "ID": "MYSTERY_02",
@@ -24988,7 +24993,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11622
+      "UsersEstimate": 11623
     },
     {
       "ID": "MYSTERY_07",
@@ -25020,7 +25025,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6973
+      "UsersEstimate": 6974
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -25036,20 +25041,20 @@
       "Name": "Bat Out of Hell",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2324
+      "UsersEstimate": 2325
     }
   ],
   "AchievementSets": [
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77483,
+      "Progressed": 77484,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47763,
+      "Progressed": 47764,
       "Completed": 2675
     }
   ],
@@ -25057,8 +25062,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-30T08:59:04.0074158+00:00",
-  "LastChanged_Achievements": "2023-11-30T17:06:23.4662749+00:00",
+  "LastChanged_Achievements": "2023-11-30T18:05:04.8811789+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:48.4544768+00:00",
-  "LastUpdate_Ratings": "2023-11-30T17:00:53.4161706+00:00",
-  "LastUpdate_Achievements": "2023-11-30T17:06:23.4663839+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:59:35.9489241+00:00",
+  "LastUpdate_Achievements": "2023-11-30T18:05:04.8813255+00:00"
 }

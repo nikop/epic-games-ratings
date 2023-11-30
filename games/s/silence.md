@@ -10,11 +10,11 @@
 | Demolition expert | 39.00% | ~67 |
 | I didn't do it! | 39.00% | ~67 |
 | Keep away from children | 36.00% | ~62 |
-| Open up wide | 35.00% | ~60 |
-| Wooooooow! | 35.00% | ~60 |
-| Artistic fool | 32.00% | ~55 |
-| Let the boot talk | 30.00% | ~51 |
-| Shadow on the wall | 30.00% | ~51 |
+| Open up wide | 34.00% | ~58 |
+| Wooooooow! | 34.00% | ~58 |
+| Artistic fool | 33.00% | ~57 |
+| Let the boot talk | 30.00% | ~52 |
+| Shadow on the wall | 30.00% | ~52 |
 | Chapter II | 25.00% | ~43 |
 | Handyman | 22.00% | ~38 |
 | Bubblekillerfamily | 22.00% | ~38 |
@@ -22,11 +22,11 @@
 | Chapter III | 22.00% | ~38 |
 | Like a moth in the Wind | 22.00% | ~38 |
 | Quite a buggy game | 21.00% | ~36 |
-| Pacifist | 19.00% | ~32 |
-| Mirror mirror on the wall... | 19.00% | ~32 |
-| It's not easy being green! | 18.00% | ~31 |
-| Home is where the heart is | 18.00% | ~31 |
+| Pacifist | 19.00% | ~33 |
+| Mirror mirror on the wall... | 19.00% | ~33 |
 | Fastidious Clown | 17.00% | ~29 |
+| It's not easy being green! | 17.00% | ~29 |
+| Home is where the heart is | 17.00% | ~29 |
 | Death is a part of life | 14.00% | ~24 |
 | Master of Thermodynamics | 13.00% | ~22 |
 | To err is human... | 12.00% | ~21 |
@@ -51,8 +51,8 @@
 | Sherlock Holmes | 0.60% | ~1 |
 | Do not feed the fish! | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 171 (Ranked 398)  
-Completed: 0 (0.00%) (Ranked 362)  
+Progressed: 172 (Ranked 397)  
+Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -111,6 +111,7 @@ Completed: 0 (0.00%) (Ranked 362)
 | 2023-11-19 | 169 | 0 |
 | 2023-11-20 | 170 | 0 |
 | 2023-11-21 | 171 | 0 |
+| 2023-11-30 | 172 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -4648,9 +4648,9 @@
       "ID": "achievement_39",
       "SetID": "b9pe172",
       "Name": "Ghost Ship",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 468
+      "UsersEstimate": 482
     },
     {
       "ID": "achievement_4",
@@ -4984,9 +4984,9 @@
       "ID": "achievement_77",
       "SetID": "d252ncf",
       "Name": "Digital Exorcist",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 424
+      "UsersEstimate": 439
     },
     {
       "ID": "achievement_78",
@@ -5196,8 +5196,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-30T17:09:52.7874584+00:00",
+  "LastChanged_Achievements": "2023-11-30T18:09:04.3844393+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:10.3433357+00:00",
-  "LastUpdate_Ratings": "2023-11-30T17:03:44.6955893+00:00",
-  "LastUpdate_Achievements": "2023-11-30T17:09:52.7876111+00:00"
+  "LastUpdate_Ratings": "2023-11-30T18:03:02.6521508+00:00",
+  "LastUpdate_Achievements": "2023-11-30T18:09:04.3845958+00:00"
 }

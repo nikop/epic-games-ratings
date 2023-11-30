@@ -5,16 +5,16 @@ Rating: 4.54 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,608 |
-| Git Gutte! | 2.00% | ~14,561 |
-| Break A Leg | 2.00% | ~14,561 |
-| Coup de Grâce | 2.00% | ~14,561 |
-| Hazardous Materials | 2.00% | ~14,561 |
-| Hotel California | 2.00% | ~14,561 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,561 |
-| Welcome To Hell-A | 2.00% | ~14,561 |
-| One of Us | 2.00% | ~1,072 |
-| Pork Chopped | 2.00% | ~1,072 |
+| Whatever It Takes | 3.00% | ~1,609 |
+| Git Gutte! | 2.00% | ~14,562 |
+| Break A Leg | 2.00% | ~14,562 |
+| Coup de Grâce | 2.00% | ~14,562 |
+| Hazardous Materials | 2.00% | ~14,562 |
+| Hotel California | 2.00% | ~14,562 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,562 |
+| Welcome To Hell-A | 2.00% | ~14,562 |
+| One of Us | 2.00% | ~1,073 |
+| Pork Chopped | 2.00% | ~1,073 |
 | Dr. Reed, I Presume? | 1.00% | ~7,281 |
 | Anger Management | 1.00% | ~7,281 |
 | Perks of the Job | 1.00% | ~7,281 |
@@ -34,20 +34,20 @@ Rating: 4.54 (Ranked 528)
 | Our True Nature | 1.00% | ~7,281 |
 | This is My Weapon | 1.00% | ~7,281 |
 | Making Your Mark | 0.90% | ~6,553 |
+| Max Headroom | 0.90% | ~6,553 |
 | Humanity Distilled | 0.80% | ~5,825 |
 | Down with the Sickness | 0.80% | ~5,825 |
-| Max Headroom | 0.80% | ~5,825 |
-| Not Even My Final Form | 0.70% | ~5,096 |
-| Jumbo Keyring | 0.60% | ~4,368 |
-| Go, Bobcats! | 0.60% | ~4,368 |
-| Rising Star | 0.60% | ~4,368 |
+| Not Even My Final Form | 0.70% | ~5,097 |
+| Jumbo Keyring | 0.60% | ~4,369 |
+| Go, Bobcats! | 0.60% | ~4,369 |
+| Rising Star | 0.60% | ~4,369 |
 | On Safari | 0.50% | ~3,640 |
 | Smorgasbord | 0.50% | ~3,640 |
 | Internet Famous | 0.50% | ~3,640 |
 | Variety is the Spice of Death | 0.50% | ~3,640 |
 | Make it So | 0.40% | ~2,912 |
 | LA Influential | 0.40% | ~2,912 |
-| Top That, Tisha! | 0.40% | ~214 |
+| Top That, Tisha! | 0.40% | ~215 |
 | Sole Survivor | 0.30% | ~2,184 |
 | Gore Horse | 0.30% | ~2,184 |
 | Sharpest Tool in the Box | 0.30% | ~2,184 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 528)
 | Bucket List | 0.10% | ~728 |
 | Wilhelm | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,066 (Ranked 21)  
+Progressed: 728,095 (Ranked 21)  
 Completed: 2,456 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 2,456 (0.34%) (Ranked 231)
 | 2023-11-27 | 726,753 | 2,443 |
 | 2023-11-28 | 727,374 | 2,447 |
 | 2023-11-29 | 727,809 | 2,450 |
-| 2023-11-30 | 728,066 | 2,456 |
+| 2023-11-30 | 728,095 | 2,456 |
 ## Awards
 Max (Great Boss Battles): 7,821  (Ranked 49)  
 Sum: 11,986 (Ranked 84)  

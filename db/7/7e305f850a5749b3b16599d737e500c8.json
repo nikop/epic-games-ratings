@@ -4,7 +4,7 @@
   "ProductSlug": "boxville-2b75d3",
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 195,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 37.44,
   "EosHistory": [
@@ -1146,9 +1146,9 @@
       "ID": "Dreamkeeper",
       "SetID": "b7i210",
       "Name": "Dreamkeeper",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 105
+      "UsersEstimate": 107
     },
     {
       "ID": "Dust_fighter",
@@ -1202,9 +1202,9 @@
       "ID": "Game_changer",
       "SetID": "b7i210",
       "Name": "Game changer",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 119
     },
     {
       "ID": "Justice",
@@ -1258,9 +1258,9 @@
       "ID": "Street_food",
       "SetID": "b7i210",
       "Name": "Street food",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 119
     },
     {
       "ID": "Tower_builder",
@@ -1274,9 +1274,9 @@
       "ID": "Troubleshooter",
       "SetID": "b7i210",
       "Name": "Troubleshooter",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 109
     }
   ],
   "AchievementSets": [
@@ -1289,8 +1289,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-11-30T17:04:18.768613+00:00",
+  "LastChanged_Achievements": "2023-11-30T18:03:26.5595559+00:00",
   "LastUpdate_AppInfo": "2023-11-28T06:57:03.7256389+00:00",
-  "LastUpdate_Ratings": "2023-11-30T17:01:08.8118052+00:00",
-  "LastUpdate_Achievements": "2023-11-30T17:04:18.7686369+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:59:47.110133+00:00",
+  "LastUpdate_Achievements": "2023-11-30T18:03:26.559573+00:00"
 }

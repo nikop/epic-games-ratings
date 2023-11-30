@@ -5,8 +5,8 @@
   "Ranking_Rating": 889,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
-  "Ranking_EOS_Progress": 289,
-  "Ranking_EOS_Completed": 362,
+  "Ranking_EOS_Progress": 288,
+  "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
@@ -67,9 +67,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 690,
+  "EOS_Progressed": 692,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 309,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1562,6 +1562,11 @@
       "Time": "2023-11-30T17:10:47.0914174+00:00",
       "NumProgressed": 690,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T18:09:43.3044569+00:00",
+      "NumProgressed": 692,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1582,7 +1587,7 @@
       "Name": "Asphalt Artist",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "achievement_11",
@@ -1590,7 +1595,7 @@
       "Name": "Gravel Guru",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "achievement_12",
@@ -1598,7 +1603,7 @@
       "Name": "Snow Specialist",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "achievement_13",
@@ -1614,7 +1619,7 @@
       "Name": "Vehicle Builder",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "achievement_15",
@@ -1638,7 +1643,7 @@
       "Name": "Your first time?",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "achievement_18",
@@ -1662,7 +1667,7 @@
       "Name": "Team Principal",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 531
+      "UsersEstimate": 533
     },
     {
       "ID": "achievement_20",
@@ -1708,9 +1713,9 @@
       "ID": "achievement_25",
       "SetID": "jnappp",
       "Name": "E-stonia",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 41
+      "UsersEstimate": 35
     },
     {
       "ID": "achievement_26",
@@ -1718,7 +1723,7 @@
       "Name": "Driver\u0027s Alliance",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "achievement_3",
@@ -1781,7 +1786,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 690,
+      "Progressed": 692,
       "Completed": 0
     }
   ],
@@ -1789,8 +1794,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-11-29T19:59:52.365085+00:00",
-  "LastChanged_Achievements": "2023-11-30T17:10:47.091417+00:00",
+  "LastChanged_Achievements": "2023-11-30T18:09:43.3044561+00:00",
   "LastUpdate_AppInfo": "2023-11-28T21:56:52.2952246+00:00",
-  "LastUpdate_Ratings": "2023-11-30T16:57:58.0380609+00:00",
-  "LastUpdate_Achievements": "2023-11-30T17:10:47.0914421+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:57:34.5754006+00:00",
+  "LastUpdate_Achievements": "2023-11-30T18:09:43.3044789+00:00"
 }

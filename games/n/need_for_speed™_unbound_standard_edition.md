@@ -5,32 +5,32 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Throwing up Tags | 93.00% | ~10,595 |
-| Cool Whip | 90.00% | ~10,253 |
-| Fashion Killa | 88.00% | ~10,025 |
-| Drop the Beat | 86.00% | ~9,797 |
-| Hey Lakeshore | 85.00% | ~9,683 |
-| 100 Miles and Runnin' | 84.00% | ~9,569 |
-| Public Enemy | 82.00% | ~9,341 |
+| Cool Whip | 90.00% | ~10,254 |
+| Fashion Killa | 88.00% | ~10,026 |
+| Drop the Beat | 86.00% | ~9,798 |
+| Hey Lakeshore | 85.00% | ~9,684 |
+| 100 Miles and Runnin' | 84.00% | ~9,570 |
+| Public Enemy | 82.00% | ~9,342 |
 | Rebel Without a Pause | 68.00% | ~7,747 |
 | Hey Speedie! | 68.00% | ~7,747 |
-| Most Wanted | 64.00% | ~7,291 |
-| New Crew | 62.00% | ~7,063 |
+| Most Wanted | 64.00% | ~7,292 |
+| New Crew | 62.00% | ~7,064 |
 | Escape Artist | 54.00% | ~6,152 |
 | Serious Guap | 53.00% | ~6,038 |
 | Style it Out | 53.00% | ~6,038 |
 | Untouchable | 52.00% | ~5,924 |
 | Oh, It's On | 50.00% | ~5,696 |
-| Rydell's Rydes | 49.00% | ~5,582 |
-| Cash Money Millionaire | 46.00% | ~5,240 |
+| Rydell's Rydes | 49.00% | ~5,583 |
+| Cash Money Millionaire | 46.00% | ~5,241 |
 | Lake Better Watch Out | 39.00% | ~4,443 |
-| #Blessed | 34.00% | ~3,873 |
-| Access All Areas | 33.00% | ~3,759 |
+| #Blessed | 34.00% | ~3,874 |
+| Access All Areas | 33.00% | ~3,760 |
 | Found Family | 31.00% | ~3,532 |
 | In the Flow | 29.00% | ~3,304 |
 | The Collector | 29.00% | ~3,304 |
 | Kick it | 29.00% | ~3,304 |
-| Top Billin' | 21.00% | ~2,392 |
-| Teacher's Pet | 20.00% | ~2,278 |
+| Top Billin' | 21.00% | ~2,393 |
+| Teacher's Pet | 20.00% | ~2,279 |
 | Full House | 18.00% | ~2,051 |
 | Superstar | 18.00% | ~2,051 |
 | B for My Name | 17.00% | ~1,937 |
@@ -46,7 +46,7 @@
 | Catch My Drift | 2.00% | ~228 |
 | Cleaning Up | 2.00% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,392 (Ranked 161)  
+Progressed: 11,393 (Ranked 161)  
 Completed: 52 (0.46%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,4 +122,4 @@ Completed: 52 (0.46%) (Ranked 212)
 | 2023-11-27 | 11,181 | 52 |
 | 2023-11-28 | 11,263 | 52 |
 | 2023-11-29 | 11,330 | 52 |
-| 2023-11-30 | 11,392 | 52 |
+| 2023-11-30 | 11,393 | 52 |

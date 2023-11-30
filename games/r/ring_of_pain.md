@@ -60,6 +60,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shadow Spreads | 0.20% | ~481 |
 | Max Damage! | 0.20% | ~481 |
 | A Rough Road | 0.20% | ~481 |
+| Barbecue | 0.20% | ~481 |
 | Berzerker | 0.20% | ~481 |
 | Juggernaut | 0.20% | ~481 |
 | Don't Ignore Me! | 0.20% | ~481 |
@@ -84,7 +85,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | New Game+ | 0.10% | ~240 |
 | Friend of Vermin | 0.10% | ~240 |
 | Hanging On | 0.10% | ~240 |
-| Barbecue | 0.10% | ~240 |
 | Explosive Betrayal | 0.10% | ~240 |
 | A Hard Carry | 0.10% | ~240 |
 | Grave Digger | 0.10% | ~240 |

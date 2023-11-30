@@ -6,7 +6,7 @@
   "Ranking_Popularity": 534,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 164,
-  "Ranking_EOS_Completed": 135,
+  "Ranking_EOS_Completed": 136,
   "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
@@ -187,9 +187,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 10440,
+  "EOS_Progressed": 10441,
   "EOS_Completed": 178,
-  "EOS_NewPlayers": 1080,
+  "EOS_NewPlayers": 1077,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.7,
   "EosHistory": [
@@ -5077,6 +5077,11 @@
       "Time": "2023-11-30T17:09:24.4331377+00:00",
       "NumProgressed": 10440,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2023-11-30T18:08:44.1918458+00:00",
+      "NumProgressed": 10441,
+      "NumCompleted": 178
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -5089,7 +5094,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 91,
       "XP": 20,
-      "UsersEstimate": 9500
+      "UsersEstimate": 9501
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -5097,7 +5102,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 8978
+      "UsersEstimate": 8979
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -5185,7 +5190,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 7517
+      "UsersEstimate": 7518
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -5209,7 +5214,7 @@
       "Name": "Love You Three Thousand",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_23",
@@ -5225,7 +5230,7 @@
       "Name": "Love Actually",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 5011
+      "UsersEstimate": 5012
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -5233,7 +5238,7 @@
       "Name": "Absolutely Elegant",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 3445
+      "UsersEstimate": 3446
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_26",
@@ -5265,7 +5270,7 @@
       "Name": "Can You Do This Or Not?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -5273,7 +5278,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 6890
+      "UsersEstimate": 6891
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -5281,7 +5286,7 @@
       "Name": "New Yoga Pose Unlocked",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1149
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_31",
@@ -5297,7 +5302,7 @@
       "Name": "What I Want Is You",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 6264
+      "UsersEstimate": 6265
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -5353,7 +5358,7 @@
       "Name": "Go Clean up In Your Own Way",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 3758
+      "UsersEstimate": 3759
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_2",
@@ -5424,7 +5429,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 10440,
+      "Progressed": 10441,
       "Completed": 178
     }
   ],
@@ -5432,8 +5437,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-11-30T15:00:03.5385193+00:00",
-  "LastChanged_Achievements": "2023-11-30T17:09:24.4331372+00:00",
+  "LastChanged_Achievements": "2023-11-30T18:08:44.1918451+00:00",
   "LastUpdate_AppInfo": "2023-11-25T01:40:00.6082481+00:00",
-  "LastUpdate_Ratings": "2023-11-30T17:00:16.0662114+00:00",
-  "LastUpdate_Achievements": "2023-11-30T17:09:24.4331859+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:59:09.2793503+00:00",
+  "LastUpdate_Achievements": "2023-11-30T18:08:44.1918971+00:00"
 }

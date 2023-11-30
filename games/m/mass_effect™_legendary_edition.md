@@ -42,8 +42,8 @@
 | The Convict | 35.00% | ~512 |
 | The Krogan | 35.00% | ~512 |
 | Broke, Blind, and Bedlam | 34.00% | ~497 |
+| Ghost Ship | 33.00% | ~482 |
 | A Personal Touch | 32.00% | ~468 |
-| Ghost Ship | 32.00% | ~468 |
 | The Assassin | 32.00% | ~468 |
 | The Justicar | 32.00% | ~468 |
 | The Quarian | 32.00% | ~468 |
@@ -60,6 +60,7 @@
 | Revenge! | 31.00% | ~453 |
 | Focused | 30.00% | ~439 |
 | Fade Away | 30.00% | ~439 |
+| Digital Exorcist | 30.00% | ~439 |
 | Heart of Darkness | 30.00% | ~439 |
 | Bringer of War | 30.00% | ~439 |
 | Archivist | 29.00% | ~424 |
@@ -68,7 +69,6 @@
 | Doppelganger | 29.00% | ~424 |
 | Treason | 29.00% | ~424 |
 | Agent | 29.00% | ~424 |
-| Digital Exorcist | 29.00% | ~424 |
 | Mobilizer | 29.00% | ~424 |
 | Untouchable | 28.00% | ~409 |
 | Mission Accomplished | 28.00% | ~409 |

@@ -27,8 +27,8 @@
 | Far away from home | 29.00% | ~24 |
 | Show me your true self | 28.00% | ~23 |
 | Mischief maker | 28.00% | ~23 |
+| No posters allowed | 28.00% | ~23 |
 | Memories | 27.00% | ~22 |
-| No posters allowed | 27.00% | ~22 |
 | Little genius | 27.00% | ~22 |
 | Turn the last page | 24.00% | ~20 |
 | Pain in the hands | 24.00% | ~20 |

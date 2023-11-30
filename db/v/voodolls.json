@@ -3,7 +3,7 @@
   "Name": "Voodolls",
   "ProductSlug": "voodolls-46c6a8",
   "Ranking_EOS_Progress": 765,
-  "Ranking_EOS_Completed": 362,
+  "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 500,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-23T03:57:49.6191361+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:10.5483022+00:00",
-  "LastUpdate_Ratings": "2023-11-30T16:58:52.7019994+00:00",
-  "LastUpdate_Achievements": "2023-11-30T17:06:59.5796821+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:58:11.9929061+00:00",
+  "LastUpdate_Achievements": "2023-11-30T18:05:30.8040543+00:00"
 }

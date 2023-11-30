@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
@@ -83,7 +83,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8419,
+  "EOS_Progressed": 8422,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 0,
@@ -7658,6 +7658,11 @@
       "Time": "2023-11-30T17:10:56.9881344+00:00",
       "NumProgressed": 8419,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T18:09:51.380607+00:00",
+      "NumProgressed": 8422,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -7726,7 +7731,7 @@
       "Name": "Spent 50000 Credits",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "DHUpgraded1",
@@ -7748,9 +7753,9 @@
       "ID": "EAUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded Energy Amplifier to Level 3",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 76
     },
     {
       "ID": "EEUpgraded1",
@@ -7790,7 +7795,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2610
+      "UsersEstimate": 2611
     },
     {
       "ID": "GamesPlayed10",
@@ -7878,7 +7883,7 @@
       "Name": "Purchased Healing Grenade",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "HSPurchased1",
@@ -7958,7 +7963,7 @@
       "Name": "Upgraded the LMG to Level 3",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "LaserUpgraded1",
@@ -7982,7 +7987,7 @@
       "Name": "Spent 25000 Credits in a single match",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "MaxDamageDone30000",
@@ -8054,7 +8059,7 @@
       "Name": "200 Minion Eliminations",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "MinionKills2000",
@@ -8078,7 +8083,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "NeutralKills200",
@@ -8126,7 +8131,7 @@
       "Name": "Upgraded the Pulse Rifle to Level 3",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "QAUpgraded1",
@@ -8142,7 +8147,7 @@
       "Name": "Upgraded Quantum Trigger to Level 3",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "RAPurchased1",
@@ -8182,7 +8187,7 @@
       "Name": "Upgraded the SMG to Level 3",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "SOVUpgraded1",
@@ -8254,14 +8259,14 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8419,
+      "Progressed": 8422,
       "Completed": 1
     }
   ],
@@ -8269,8 +8274,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-28T13:57:22.5296785+00:00",
-  "LastChanged_Achievements": "2023-11-30T17:10:56.9881337+00:00",
+  "LastChanged_Achievements": "2023-11-30T18:09:51.3806064+00:00",
   "LastUpdate_AppInfo": "2023-11-28T15:57:00.1791972+00:00",
-  "LastUpdate_Ratings": "2023-11-30T16:59:23.3293671+00:00",
-  "LastUpdate_Achievements": "2023-11-30T17:10:56.9882186+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:58:33.2077499+00:00",
+  "LastUpdate_Achievements": "2023-11-30T18:09:51.3806918+00:00"
 }

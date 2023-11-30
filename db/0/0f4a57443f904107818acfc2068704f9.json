@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 781,
+  "EOS_Progressed": 782,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 325,
+  "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1592,6 +1592,11 @@
       "Time": "2023-11-30T07:04:24.8500456+00:00",
       "NumProgressed": 781,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T18:04:49.5749288+00:00",
+      "NumProgressed": 782,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1684,7 +1689,7 @@
       "Name": "Grumblin\u0027 Bellies",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "CompleteChapter13",
@@ -1714,9 +1719,9 @@
       "ID": "CompleteChapter16",
       "SetID": "52ail55",
       "Name": "Our Own Miracle",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 39
     },
     {
       "ID": "CompleteChapter17",
@@ -1748,7 +1753,7 @@
       "Name": "Met the Enemy",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "CompleteChapter3",
@@ -1764,7 +1769,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "CompleteChapter5",
@@ -1852,7 +1857,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1899,14 +1904,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 781,
+      "Progressed": 782,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-30T17:06:01.9231364+00:00",
+  "LastChanged_Achievements": "2023-11-30T18:04:49.5749283+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-30T16:58:41.4034261+00:00",
-  "LastUpdate_Achievements": "2023-11-30T17:06:01.92317+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:58:04.0565248+00:00",
+  "LastUpdate_Achievements": "2023-11-30T18:04:49.574983+00:00"
 }

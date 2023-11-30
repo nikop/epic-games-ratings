@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~1,338 |
-| Off to a good start | 67.00% | ~996 |
-| Do... or do not. There is no try | 50.00% | ~744 |
-| A good blaster at your side | 31.00% | ~461 |
+| New Recruit | 90.00% | ~1,342 |
+| Off to a good start | 67.00% | ~999 |
+| Do... or do not. There is no try | 50.00% | ~746 |
+| A good blaster at your side | 31.00% | ~462 |
 | I suggest a new strategy | 19.00% | ~283 |
 | Scrap collector | 18.00% | ~268 |
 | All right, I'll give it a try | 17.00% | ~253 |
 | Great shot, kid! | 17.00% | ~253 |
-| The power of the Force | 14.00% | ~208 |
-| Together we can rule the galaxy | 14.00% | ~208 |
-| Shoot first | 14.00% | ~208 |
-| Collector | 13.00% | ~193 |
+| The power of the Force | 14.00% | ~209 |
+| Together we can rule the galaxy | 14.00% | ~209 |
+| Shoot first | 14.00% | ~209 |
+| Collector | 13.00% | ~194 |
 | Tell Jabba that I've got his money | 9.00% | ~134 |
 | Best star-pilot in the galaxy | 9.00% | ~134 |
 | Survivor | 9.00% | ~134 |
@@ -24,13 +24,13 @@
 | What's the cargo? | 7.00% | ~104 |
 | Impressive. Most impressive. | 6.00% | ~89 |
 | Judge me by my size, do you? | 6.00% | ~89 |
-| "Gonk? Gonk!" | 5.00% | ~74 |
-| Distinguished | 5.00% | ~74 |
-| A tremor in the Force | 5.00% | ~74 |
-| Support the troops | 5.00% | ~74 |
-| Safety ain't the point of a joyride | 4.00% | ~59 |
-| Not bad for a little furball | 4.00% | ~59 |
-| Patience you must have | 4.00% | ~59 |
+| "Gonk? Gonk!" | 5.00% | ~75 |
+| Distinguished | 5.00% | ~75 |
+| A tremor in the Force | 5.00% | ~75 |
+| Support the troops | 5.00% | ~75 |
+| Safety ain't the point of a joyride | 4.00% | ~60 |
+| Not bad for a little furball | 4.00% | ~60 |
+| Patience you must have | 4.00% | ~60 |
 | I've been waiting for you | 3.00% | ~45 |
 | When 900 years old you reach... | 3.00% | ~45 |
 | Your journey has only started | 3.00% | ~45 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,487 (Ranked 242)  
+Progressed: 1,491 (Ranked 242)  
 Completed: 1 (0.07%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 1 (0.07%) (Ranked 302)
 | 2023-11-27 | 1,451 | 1 |
 | 2023-11-28 | 1,464 | 1 |
 | 2023-11-29 | 1,473 | 1 |
-| 2023-11-30 | 1,487 | 1 |
+| 2023-11-30 | 1,491 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

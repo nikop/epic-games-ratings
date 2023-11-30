@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 55,
   "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -2180,9 +2180,9 @@
       "ID": "BearPistol",
       "SetID": "db30heh",
       "Name": "Ouch!",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 287
+      "UsersEstimate": 292
     },
     {
       "ID": "BearPoppiesBroth",
@@ -2268,9 +2268,9 @@
       "ID": "Drunkard",
       "SetID": "db30heh",
       "Name": "Drunkard",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 149
+      "UsersEstimate": 154
     },
     {
       "ID": "DwarDevil",
@@ -2404,9 +2404,9 @@
       "ID": "Priestess",
       "SetID": "db30heh",
       "Name": "Blessed",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 287
+      "UsersEstimate": 292
     },
     {
       "ID": "PrincessThrone",
@@ -2452,9 +2452,9 @@
       "ID": "RogueRum",
       "SetID": "db30heh",
       "Name": "In Good Spirits",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 425
+      "UsersEstimate": 430
     },
     {
       "ID": "SleepingBasiliskAmanita",
@@ -2515,8 +2515,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-11-30T17:07:43.0633989+00:00",
+  "LastChanged_Achievements": "2023-11-30T18:06:01.6394429+00:00",
   "LastUpdate_AppInfo": "2023-11-29T01:48:50.1912977+00:00",
-  "LastUpdate_Ratings": "2023-11-30T17:00:01.4969842+00:00",
-  "LastUpdate_Achievements": "2023-11-30T17:07:43.0634433+00:00"
+  "LastUpdate_Ratings": "2023-11-30T17:58:58.9881973+00:00",
+  "LastUpdate_Achievements": "2023-11-30T18:06:01.6394803+00:00"
 }
