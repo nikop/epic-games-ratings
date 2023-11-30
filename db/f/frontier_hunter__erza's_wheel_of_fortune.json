@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 453,
+  "EOS_Progressed": 454,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 267,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1392,6 +1392,11 @@
       "Time": "2023-11-30T14:06:42.6246551+00:00",
       "NumProgressed": 453,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T15:07:26.9068545+00:00",
+      "NumProgressed": 454,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1403,7 +1408,7 @@
       "Name": "Travel Streamer",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1419,15 +1424,15 @@
       "Name": "Guardian",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACHIEVEMENT_12",
       "SetID": "7pimpda",
       "Name": "Nosebleeder",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -1435,7 +1440,7 @@
       "Name": "Flying Kobold Killer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -1443,7 +1448,7 @@
       "Name": "Youth Magnet",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -1489,9 +1494,9 @@
       "ID": "ACHIEVEMENT_2",
       "SetID": "7pimpda",
       "Name": "Training Simulation",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 344
+      "UsersEstimate": 350
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1531,7 +1536,7 @@
       "Name": "Arms Mechanic",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -1547,7 +1552,7 @@
       "Name": "Master Artificer",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -1555,7 +1560,7 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -1569,9 +1574,9 @@
       "ID": "ACHIEVEMENT_3",
       "SetID": "7pimpda",
       "Name": "Kuku Bird Hunter",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 281
+      "UsersEstimate": 286
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1593,9 +1598,9 @@
       "ID": "ACHIEVEMENT_32",
       "SetID": "7pimpda",
       "Name": "Boss challenge",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -1723,7 +1728,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -1755,14 +1760,14 @@
       "Name": "Handyman",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 453,
+      "Progressed": 454,
       "Completed": 1
     }
   ],
@@ -1770,8 +1775,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-30T14:06:42.6246542+00:00",
+  "LastChanged_Achievements": "2023-11-30T15:07:26.9068539+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-11-30T13:59:52.6813756+00:00",
-  "LastUpdate_Achievements": "2023-11-30T14:06:42.6246976+00:00"
+  "LastUpdate_Ratings": "2023-11-30T15:00:32.3144124+00:00",
+  "LastUpdate_Achievements": "2023-11-30T15:07:26.9068911+00:00"
 }

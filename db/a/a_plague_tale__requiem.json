@@ -653,7 +653,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 14039,
+  "EOS_Progressed": 14040,
   "EOS_Completed": 55,
   "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
@@ -11808,6 +11808,11 @@
       "Time": "2023-11-30T11:06:30.2038812+00:00",
       "NumProgressed": 14039,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-30T15:07:44.187211+00:00",
+      "NumProgressed": 14040,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 35,
@@ -11819,7 +11824,7 @@
       "Name": "Under a New Sun",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 13056
+      "UsersEstimate": 13057
     },
     {
       "ID": "ACH_02",
@@ -11827,7 +11832,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 11091
+      "UsersEstimate": 11092
     },
     {
       "ID": "ACH_03",
@@ -11835,7 +11840,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 10389
+      "UsersEstimate": 10390
     },
     {
       "ID": "ACH_04",
@@ -11851,7 +11856,7 @@
       "Name": "In our Wake",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 9687
+      "UsersEstimate": 9688
     },
     {
       "ID": "ACH_06",
@@ -11875,7 +11880,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 8704
+      "UsersEstimate": 8705
     },
     {
       "ID": "ACH_09",
@@ -11907,7 +11912,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 6598
+      "UsersEstimate": 6599
     },
     {
       "ID": "ACH_13",
@@ -11931,7 +11936,7 @@
       "Name": "Dying Sun",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 4773
+      "UsersEstimate": 4774
     },
     {
       "ID": "ACH_16",
@@ -12027,7 +12032,7 @@
       "Name": "Night guard",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 6177
+      "UsersEstimate": 6178
     },
     {
       "ID": "ACH_28",
@@ -12035,7 +12040,7 @@
       "Name": "Alchemist",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 9687
+      "UsersEstimate": 9688
     },
     {
       "ID": "ACH_29",
@@ -12091,14 +12096,14 @@
       "Name": "Mercy",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 3369
+      "UsersEstimate": 3370
     }
   ],
   "AchievementSets": [
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 14039,
+      "Progressed": 14040,
       "Completed": 55
     }
   ],
@@ -12106,8 +12111,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-11-30T13:06:18.8266058+00:00",
-  "LastChanged_Achievements": "2023-11-30T14:06:55.9689476+00:00",
+  "LastChanged_Achievements": "2023-11-30T15:07:44.1872104+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:18.0182859+00:00",
-  "LastUpdate_Ratings": "2023-11-30T14:01:00.6935265+00:00",
-  "LastUpdate_Achievements": "2023-11-30T14:06:55.9690759+00:00"
+  "LastUpdate_Ratings": "2023-11-30T15:02:05.9183263+00:00",
+  "LastUpdate_Achievements": "2023-11-30T15:07:44.1872898+00:00"
 }

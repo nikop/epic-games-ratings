@@ -11,21 +11,21 @@ Number of Ratings: 70,340  (23.09.2022)
 | Not half bad | 0.30% | ~3,166 |
 | Skillful | 0.30% | ~3,166 |
 | I | 0.30% | ~3,166 |
-| The Grand Sacrifice | 0.20% | ~2,110 |
-| No one left behind | 0.20% | ~2,110 |
-| Medic | 0.20% | ~2,110 |
-| Handyman | 0.20% | ~2,110 |
-| Bloody Millionaire | 0.20% | ~2,110 |
-| Apt Survivor | 0.20% | ~2,110 |
-| Survival Treasures | 0.20% | ~2,110 |
-| II | 0.20% | ~2,110 |
-| Sorted | 0.20% | ~2,110 |
-| Healthy Obsession | 0.20% | ~2,110 |
-| Resurgence | 0.20% | ~2,110 |
-| Close Shave | 0.20% | ~2,110 |
-| Preemptive Strike | 0.20% | ~2,110 |
-| Humanitarian | 0.20% | ~2,110 |
-| Make Some Noise | 0.20% | ~2,110 |
+| The Grand Sacrifice | 0.20% | ~2,111 |
+| No one left behind | 0.20% | ~2,111 |
+| Medic | 0.20% | ~2,111 |
+| Handyman | 0.20% | ~2,111 |
+| Bloody Millionaire | 0.20% | ~2,111 |
+| Apt Survivor | 0.20% | ~2,111 |
+| Survival Treasures | 0.20% | ~2,111 |
+| II | 0.20% | ~2,111 |
+| Sorted | 0.20% | ~2,111 |
+| Healthy Obsession | 0.20% | ~2,111 |
+| Resurgence | 0.20% | ~2,111 |
+| Close Shave | 0.20% | ~2,111 |
+| Preemptive Strike | 0.20% | ~2,111 |
+| Humanitarian | 0.20% | ~2,111 |
+| Make Some Noise | 0.20% | ~2,111 |
 | A bite for the Entity | 0.10% | ~1,055 |
 | A feast for the Entity | 0.10% | ~1,055 |
 | Blood on your hands | 0.10% | ~1,055 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,055 |
 | Adept Good Guy | 0.10% | ~1,055 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,055,233 (Ranked 14)  
+Progressed: 1,055,378 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -463,7 +463,7 @@ Completed: 61 (0.01%) (Ranked 342)
 | 2023-11-27 | 1,048,888 | 61 |
 | 2023-11-28 | 1,050,827 | 61 |
 | 2023-11-29 | 1,053,910 | 61 |
-| 2023-11-30 | 1,055,233 | 61 |
+| 2023-11-30 | 1,055,378 | 61 |
 ## Awards
 Max (Diverse Characters): 36,896  (Ranked 15)  
 Sum: 280,788 (Ranked 12)  

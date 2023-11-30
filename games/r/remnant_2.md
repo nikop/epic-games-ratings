@@ -1,13 +1,13 @@
 # Remnant 2
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.75 (Ranked 149)  
+Rating: 4.75 (Ranked 150)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 0.70% | ~1,617 |
-| Regicide | 0.70% | ~71 |
-| Master of the Dark Arts | 0.70% | ~71 |
+| The Killing Jar | 0.70% | ~1,618 |
+| Regicide | 0.70% | ~72 |
+| Master of the Dark Arts | 0.70% | ~72 |
 | First of Many | 0.60% | ~1,386 |
 | Not Your Average Trait | 0.50% | ~1,155 |
 | Expanding Horizons | 0.40% | ~924 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 149)
 | Maxed Out! | 0.10% | ~231 |
 | A Foul Feast | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,027 (Ranked 69)  
+Progressed: 231,073 (Ranked 69)  
 Completed: 541 (0.23%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,17 +198,17 @@ Completed: 541 (0.23%) (Ranked 250)
 | 2023-11-27 | 229,605 | 538 |
 | 2023-11-28 | 230,188 | 541 |
 | 2023-11-29 | 230,694 | 542 |
-| 2023-11-30 | 231,027 | 541 |
+| 2023-11-30 | 231,073 | 541 |
 ## Awards
-Max (Great Boss Battles): 2,518  (Ranked 104)  
-Sum: 6,174 (Ranked 129)  
-Diff (max vs sum): -25  
+Max (Great Boss Battles): 2,533  (Ranked 102)  
+Sum: 6,194 (Ranked 129)  
+Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,518 |
+| This game has Great Boss Battles | 2,533 |
 | This game has Diverse Characters | 409 |
 | This game is Highly Recommended | 400 |
-| This game has Challenging Combat | 389 |
+| This game has Challenging Combat | 394 |
 | This game is Relaxing | 381 |
 | This game is Extremely Fun | 380 |
 | This game has Amazing Storytelling | 376 |
@@ -346,4 +346,4 @@ Diff (max vs sum): -25
 | 2023-11-27 | 4.75 | 2,480 | 6,045 |
 | 2023-11-28 | 4.75 | 2,498 | 6,104 |
 | 2023-11-29 | 4.75 | 2,518 | 6,163 |
-| 2023-11-30 | 4.75 | 2,518 | 6,174 |
+| 2023-11-30 | 4.75 | 2,533 | 6,194 |

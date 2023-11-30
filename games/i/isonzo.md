@@ -17,9 +17,9 @@ Number of Ratings: 98  (23.09.2022)
 | Aurelio Baruzzi | 21.00% | ~1,916 |
 | Decimation | 20.00% | ~1,825 |
 | Donatello | 19.00% | ~1,734 |
+| Insubordination | 19.00% | ~1,734 |
 | The Italian Job | 19.00% | ~1,734 |
 | Veni Vidi Vici | 19.00% | ~1,734 |
-| Insubordination | 18.00% | ~1,643 |
 | Ragazzi del '99 | 17.00% | ~1,551 |
 | Luigi Cadorna | 15.00% | ~1,369 |
 | The Lion of the Isonzo | 14.00% | ~1,278 |

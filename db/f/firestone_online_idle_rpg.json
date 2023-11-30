@@ -2,7 +2,7 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 992,
+  "Ranking_Rating": 993,
   "Ranking_Popularity": 483,
   "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 213,
@@ -553,9 +553,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2829,
+  "EOS_Progressed": 2830,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8423,6 +8423,11 @@
       "Time": "2023-11-30T14:09:36.4219837+00:00",
       "NumProgressed": 2829,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-30T15:09:52.1546915+00:00",
+      "NumProgressed": 2830,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -8434,7 +8439,7 @@
       "Name": "Active Member",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ancientknowledge",
@@ -8442,7 +8447,7 @@
       "Name": "Ancient Knowledge",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "angelpower",
@@ -8466,7 +8471,7 @@
       "Name": "Background Story",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "beastwarmachines",
@@ -8618,7 +8623,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "fourleafclover",
@@ -8722,7 +8727,7 @@
       "Name": "Legendary",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "lieutenant",
@@ -8762,7 +8767,7 @@
       "Name": "Milestone collector",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "minerclicker",
@@ -8778,7 +8783,7 @@
       "Name": "Missions Dedication",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "movinguptheladder",
@@ -8794,7 +8799,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "mythicpower",
@@ -8810,7 +8815,7 @@
       "Name": "Natural Talent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "pokerface",
@@ -8826,7 +8831,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1499
+      "UsersEstimate": 1500
     },
     {
       "ID": "prestigiousx10",
@@ -8882,7 +8887,7 @@
       "Name": "Superior",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "templeofeternals",
@@ -8898,7 +8903,7 @@
       "Name": "The Alchemist",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "theexpeditioner",
@@ -8938,7 +8943,7 @@
       "Name": "The Unstoppable",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "titanpower",
@@ -8994,7 +8999,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2631
+      "UsersEstimate": 2632
     },
     {
       "ID": "warmachinesarmy",
@@ -9033,7 +9038,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2829,
+      "Progressed": 2830,
       "Completed": 2
     }
   ],
@@ -9041,8 +9046,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-28T14:02:57.4349611+00:00",
-  "LastChanged_Achievements": "2023-11-30T14:09:36.4219829+00:00",
+  "LastChanged_Achievements": "2023-11-30T15:09:52.154691+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:01.7095439+00:00",
-  "LastUpdate_Ratings": "2023-11-30T13:58:26.1433315+00:00",
-  "LastUpdate_Achievements": "2023-11-30T14:09:36.4221042+00:00"
+  "LastUpdate_Ratings": "2023-11-30T14:58:36.8607647+00:00",
+  "LastUpdate_Achievements": "2023-11-30T15:09:52.1547883+00:00"
 }

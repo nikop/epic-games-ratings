@@ -2,9 +2,9 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 276,
+  "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 809,
+  "EOS_Progressed": 810,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 5.44,
+  "EOS_Completed_Percentage": 5.43,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3295,6 +3295,11 @@
       "Time": "2023-11-30T14:06:33.2191202+00:00",
       "NumProgressed": 809,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-11-30T15:07:14.9623816+00:00",
+      "NumProgressed": 810,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 25,
@@ -3354,7 +3359,7 @@
       "Name": "Open door",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "META_RESULT_1-3",
@@ -3370,15 +3375,15 @@
       "Name": "Feels like springtime",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "META_RESULT_2-3",
       "SetID": "2gma9an",
       "Name": "A great audience",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 81
     },
     {
       "ID": "META_RESULT_2-4",
@@ -3402,7 +3407,7 @@
       "Name": "Alchemists Express",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -3450,7 +3455,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3466,7 +3471,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "PROGRESS_N2",
@@ -3505,14 +3510,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 809,
+      "Progressed": 810,
       "Completed": 44
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-30T14:06:33.2191195+00:00",
+  "LastChanged_Achievements": "2023-11-30T15:07:14.962381+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-11-30T13:59:29.5818415+00:00",
-  "LastUpdate_Achievements": "2023-11-30T14:06:33.2191566+00:00"
+  "LastUpdate_Ratings": "2023-11-30T15:00:02.3960792+00:00",
+  "LastUpdate_Achievements": "2023-11-30T15:07:14.9624076+00:00"
 }

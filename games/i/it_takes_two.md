@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Struck A Pose | 88.00% | ~22,021 |
-| Fried Friendship | 87.00% | ~21,771 |
-| Look At Him Go | 78.00% | ~19,519 |
-| On Rails Experience | 57.00% | ~14,264 |
-| A Daring Devil | 52.00% | ~13,012 |
-| It Took Two | 44.00% | ~11,011 |
-| Break the Bank | 43.00% | ~10,760 |
-| Bug Sized Relaxation | 22.00% | ~5,505 |
-| Plastic Prison Breakers | 17.00% | ~4,254 |
-| Terror Of The Seven Seas | 16.00% | ~4,004 |
-| Realize Your Art | 12.00% | ~3,003 |
-| Force Triangulated | 12.00% | ~3,003 |
-| Meditation Maestro | 12.00% | ~3,003 |
-| Lost And Found | 11.00% | ~2,753 |
-| Something Fishy | 11.00% | ~2,753 |
-| Platforming Prodigy | 9.00% | ~2,252 |
-| Snackosaurus | 8.00% | ~2,002 |
-| Mood Swing | 7.00% | ~1,752 |
+| Struck A Pose | 88.00% | ~22,033 |
+| Fried Friendship | 87.00% | ~21,782 |
+| Look At Him Go | 78.00% | ~19,529 |
+| On Rails Experience | 57.00% | ~14,271 |
+| A Daring Devil | 52.00% | ~13,019 |
+| It Took Two | 44.00% | ~11,016 |
+| Break the Bank | 43.00% | ~10,766 |
+| Bug Sized Relaxation | 22.00% | ~5,508 |
+| Plastic Prison Breakers | 17.00% | ~4,256 |
+| Terror Of The Seven Seas | 16.00% | ~4,006 |
+| Realize Your Art | 12.00% | ~3,004 |
+| Force Triangulated | 12.00% | ~3,004 |
+| Meditation Maestro | 12.00% | ~3,004 |
+| Lost And Found | 11.00% | ~2,754 |
+| Something Fishy | 11.00% | ~2,754 |
+| Platforming Prodigy | 9.00% | ~2,253 |
+| Snackosaurus | 8.00% | ~2,003 |
+| Mood Swing | 7.00% | ~1,753 |
 | Faraway Frequencies | 4.00% | ~1,001 |
 | Minigame Megalomania | 3.00% | ~751 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,024 (Ranked 128)  
+Progressed: 25,037 (Ranked 128)  
 Completed: 106 (0.42%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,4 +101,4 @@ Completed: 106 (0.42%) (Ranked 217)
 | 2023-11-27 | 24,529 | 105 |
 | 2023-11-28 | 24,716 | 105 |
 | 2023-11-29 | 24,901 | 106 |
-| 2023-11-30 | 25,024 | 106 |
+| 2023-11-30 | 25,037 | 106 |

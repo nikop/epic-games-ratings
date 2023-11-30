@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4436,
+  "EOS_Progressed": 4437,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7975,6 +7975,11 @@
       "Time": "2023-11-30T13:11:10.2728034+00:00",
       "NumProgressed": 4436,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-30T15:07:05.2940157+00:00",
+      "NumProgressed": 4437,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7994,7 +7999,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "Ach003",
@@ -8098,7 +8103,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "Ach016",
@@ -8553,13 +8558,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4436,
+      "Progressed": 4437,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2957,
+      "Progressed": 2958,
       "Completed": 1930
     }
   ],
@@ -8567,8 +8572,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-30T14:06:25.6409245+00:00",
+  "LastChanged_Achievements": "2023-11-30T15:07:05.2940152+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-11-30T13:58:54.7958391+00:00",
-  "LastUpdate_Achievements": "2023-11-30T14:06:25.6410429+00:00"
+  "LastUpdate_Ratings": "2023-11-30T14:59:14.6775654+00:00",
+  "LastUpdate_Achievements": "2023-11-30T15:07:05.2941165+00:00"
 }

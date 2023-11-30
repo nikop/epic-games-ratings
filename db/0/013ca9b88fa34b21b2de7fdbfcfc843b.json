@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8176,
+  "EOS_Progressed": 8179,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7753,6 +7753,11 @@
       "Time": "2023-11-30T13:15:13.6823452+00:00",
       "NumProgressed": 8176,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T15:10:29.0784399+00:00",
+      "NumProgressed": 8179,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -7765,15 +7770,15 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5887
+      "UsersEstimate": 5889
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "A Thorny Situation",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5805
+      "UsersEstimate": 5725
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -7781,7 +7786,7 @@
       "Name": "Calm Sailing",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3025
+      "UsersEstimate": 3026
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -7789,7 +7794,7 @@
       "Name": "Open the Gate!",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2780
+      "UsersEstimate": 2781
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -7797,7 +7802,7 @@
       "Name": "Clear the Air",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1554
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -7861,7 +7866,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3516
+      "UsersEstimate": 3517
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -7869,7 +7874,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 4006
+      "UsersEstimate": 4008
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -7901,7 +7906,7 @@
       "Name": "Humble Collector",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3516
+      "UsersEstimate": 3517
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -7917,7 +7922,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 4987
+      "UsersEstimate": 4989
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -7925,7 +7930,7 @@
       "Name": "Mist Walker",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2616
+      "UsersEstimate": 2617
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -7941,7 +7946,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3843
+      "UsersEstimate": 3844
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -7981,7 +7986,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1880
+      "UsersEstimate": 1881
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -8044,22 +8049,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8176,
+      "Progressed": 8179,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 793,
-      "Completed": 793
+      "Progressed": 796,
+      "Completed": 796
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-26T23:02:38.616334+00:00",
-  "LastChanged_Achievements": "2023-11-30T14:10:05.6136529+00:00",
+  "LastChanged_Achievements": "2023-11-30T15:10:29.0784395+00:00",
   "LastUpdate_AppInfo": "2023-11-24T08:57:08.562767+00:00",
-  "LastUpdate_Ratings": "2023-11-30T14:03:41.5776029+00:00",
-  "LastUpdate_Achievements": "2023-11-30T14:10:05.6137387+00:00"
+  "LastUpdate_Ratings": "2023-11-30T15:03:30.5590294+00:00",
+  "LastUpdate_Achievements": "2023-11-30T15:10:29.0784873+00:00"
 }

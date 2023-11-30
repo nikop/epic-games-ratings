@@ -6,7 +6,7 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 0.20% | ~932 |
+| Until death do us apart | 0.20% | ~933 |
 | A Blessed Nation | 0.10% | ~466 |
 | A Decent Reserve | 0.10% | ~466 |
 | A Hero’s Welcome | 0.10% | ~466 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 466,235 (Ranked 41)  
+Progressed: 466,274 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -594,15 +594,15 @@ Completed: 1 (0.00%) (Ranked 362)
 | 2023-11-27 | 465,000 | 1 |
 | 2023-11-28 | 465,485 | 1 |
 | 2023-11-29 | 465,985 | 1 |
-| 2023-11-30 | 466,235 | 1 |
+| 2023-11-30 | 466,274 | 1 |
 ## Awards
 Max (Educational): 7,207  (Ranked 54)  
-Sum: 59,325 (Ranked 24)  
+Sum: 59,332 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,207 |
-| This game has Diverse Characters | 6,961 |
+| This game has Diverse Characters | 6,968 |
 | This game is Highly Recommended | 6,910 |
 | This game has Challenging Combat | 6,840 |
 | This game is Extremely Fun | 6,787 |
@@ -931,4 +931,4 @@ Diff (max vs sum): 30
 | 2023-11-27 | 4.69 | - | 7,187 | 59,114 |
 | 2023-11-28 | 4.69 | - | 7,199 | 59,195 |
 | 2023-11-29 | 4.69 | - | 7,207 | 59,283 |
-| 2023-11-30 | 4.69 | - | 7,207 | 59,325 |
+| 2023-11-30 | 4.69 | - | 7,207 | 59,332 |

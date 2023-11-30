@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -125,7 +125,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 978,
+  "EOS_Progressed": 979,
   "EOS_Completed": 31,
   "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 1,
@@ -3225,6 +3225,11 @@
       "Time": "2023-11-30T01:53:06.1062882+00:00",
       "NumProgressed": 978,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-30T15:07:50.0982595+00:00",
+      "NumProgressed": 979,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3245,7 +3250,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "_03_FinishAct1",
@@ -3253,7 +3258,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3261,7 +3266,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "_05_FinishAct2",
@@ -3317,7 +3322,7 @@
       "Name": "Seadog",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "_12_Completion_50",
@@ -3381,7 +3386,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -3389,7 +3394,7 @@
       "Name": "Fishy Fish",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -3444,7 +3449,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 978,
+      "Progressed": 979,
       "Completed": 31
     }
   ],
@@ -3452,8 +3457,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-29T18:57:59.7478521+00:00",
-  "LastChanged_Achievements": "2023-11-30T14:07:00.6173567+00:00",
+  "LastChanged_Achievements": "2023-11-30T15:07:50.0982587+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:16.5506412+00:00",
-  "LastUpdate_Ratings": "2023-11-30T13:58:47.760482+00:00",
-  "LastUpdate_Achievements": "2023-11-30T14:07:00.6173829+00:00"
+  "LastUpdate_Ratings": "2023-11-30T14:59:05.3855442+00:00",
+  "LastUpdate_Achievements": "2023-11-30T15:07:50.0982859+00:00"
 }

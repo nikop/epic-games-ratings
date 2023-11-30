@@ -10,7 +10,7 @@
 | Oo-De-Lally | 70.00% | ~19 |
 | Watch your Step! | 70.00% | ~19 |
 | Treasure Hunter | 70.00% | ~19 |
-| Tap Dancing | 59.00% | ~16 |
+| Tap Dancing | 63.00% | ~17 |
 | MAX LEVEL | 56.00% | ~15 |
 | Right between the eyes | 52.00% | ~14 |
 | Spring Board | 44.00% | ~12 |

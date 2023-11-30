@@ -1260,9 +1260,9 @@
       "ID": "AchvActivateProbe",
       "SetID": "1hj060c",
       "Name": "The Teleprobe",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 200
     },
     {
       "ID": "AchvAllMemories",
@@ -1364,9 +1364,9 @@
       "ID": "AchvLava",
       "SetID": "1hj060c",
       "Name": "Volcanologist",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 88
     },
     {
       "ID": "AchvLeaveNoManBehind",
@@ -1444,9 +1444,9 @@
       "ID": "AchvReachCity",
       "SetID": "1hj060c",
       "Name": "The City",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 176
     },
     {
       "ID": "AchvReachCondor",
@@ -1499,8 +1499,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-30T14:09:13.490441+00:00",
+  "LastChanged_Achievements": "2023-11-30T15:09:22.8213556+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-11-30T13:59:59.7405999+00:00",
-  "LastUpdate_Achievements": "2023-11-30T14:09:13.4904733+00:00"
+  "LastUpdate_Ratings": "2023-11-30T15:00:43.8625154+00:00",
+  "LastUpdate_Achievements": "2023-11-30T15:09:22.8213801+00:00"
 }

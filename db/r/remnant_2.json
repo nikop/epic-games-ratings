@@ -2,8 +2,8 @@
   "ID": "aa598567414d42378187b8861da550f7",
   "Name": "Remnant 2",
   "ProductSlug": "remnant-2",
-  "Ranking_Rating": 149,
-  "Ranking_Popularity": 104,
+  "Ranking_Rating": 150,
+  "Ranking_Popularity": 102,
   "Ranking_PopularitySum": 129,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 250,
@@ -4885,18 +4885,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 6174,
       "NumberOfAwardsMax": 2518
+    },
+    {
+      "Time": "2023-11-30T15:03:42.5906768+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6194,
+      "NumberOfAwardsMax": 2533
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6174,
-  "NumberOfAwardsMax": 2518,
+  "NumberOfAwards": 6194,
+  "NumberOfAwardsMax": 2533,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2518
+      "Count": 2533
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4914,7 +4920,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 389
+      "Count": 394
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4959,9 +4965,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 231027,
+  "EOS_Progressed": 231073,
   "EOS_Completed": 541,
-  "EOS_NewPlayers": 4724,
+  "EOS_NewPlayers": 4728,
   "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -20669,6 +20675,11 @@
       "Time": "2023-11-30T14:09:18.5885659+00:00",
       "NumProgressed": 231027,
       "NumCompleted": 541
+    },
+    {
+      "Time": "2023-11-30T15:09:29.4397111+00:00",
+      "NumProgressed": 231073,
+      "NumCompleted": 541
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20761,7 +20772,7 @@
       "Name": "The Killing Jar",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1617
+      "UsersEstimate": 1618
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -21081,7 +21092,7 @@
       "Name": "Regicide",
       "Percentage": 0.7,
       "XP": 75,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -21097,7 +21108,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -21120,22 +21131,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 231027,
+      "Progressed": 231073,
       "Completed": 541
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 10192,
-      "Completed": 172
+      "Progressed": 10238,
+      "Completed": 173
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-30T05:03:15.9209637+00:00",
-  "LastChanged_Achievements": "2023-11-30T14:09:18.5885652+00:00",
+  "LastChanged": "2023-11-30T15:03:42.5906766+00:00",
+  "LastChanged_Achievements": "2023-11-30T15:09:29.4397108+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-30T14:03:50.559088+00:00",
-  "LastUpdate_Achievements": "2023-11-30T14:09:18.5887061+00:00"
+  "LastUpdate_Ratings": "2023-11-30T15:03:42.5906771+00:00",
+  "LastUpdate_Achievements": "2023-11-30T15:09:29.439813+00:00"
 }

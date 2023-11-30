@@ -4,7 +4,7 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14044,
+  "EOS_Progressed": 14047,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15539,6 +15539,11 @@
       "Time": "2023-11-30T11:04:42.7833477+00:00",
       "NumProgressed": 14044,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T15:05:08.5957404+00:00",
+      "NumProgressed": 14047,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -15550,7 +15555,7 @@
       "Name": "Self Portrait",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1685
+      "UsersEstimate": 1686
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -15622,7 +15627,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 6179
+      "UsersEstimate": 6181
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -15749,14 +15754,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 14044,
+      "Progressed": 14047,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-11-30T14:04:55.2943187+00:00",
+  "LastChanged_Achievements": "2023-11-30T15:05:08.5957395+00:00",
   "LastUpdate_AppInfo": "2023-11-25T04:57:09.2141151+00:00",
-  "LastUpdate_Ratings": "2023-11-30T13:59:13.6536232+00:00",
-  "LastUpdate_Achievements": "2023-11-30T14:04:55.2944407+00:00"
+  "LastUpdate_Ratings": "2023-11-30T14:59:40.4939034+00:00",
+  "LastUpdate_Achievements": "2023-11-30T15:05:08.595824+00:00"
 }

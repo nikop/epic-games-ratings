@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 137,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -61,7 +61,7 @@
   "Tags": [],
   "EOS_Progressed": 1115,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2769,9 +2769,9 @@
       "ID": "GSS_ACH_06_FUEL_01",
       "SetID": "5fn8ia4",
       "Name": "Fueled it good!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1026
     },
     {
       "ID": "GSS_ACH_07_FUEL_02",
@@ -2841,9 +2841,9 @@
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
       "SetID": "5fn8ia4",
       "Name": "Skills to Pay the Bills",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 792
+      "UsersEstimate": 803
     },
     {
       "ID": "GSS_ACH_16_ORDER_FUEL",
@@ -2865,9 +2865,9 @@
       "ID": "GSS_ACH_18_ALIENS",
       "SetID": "5fn8ia4",
       "Name": "ALIENS!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 513
+      "UsersEstimate": 524
     },
     {
       "ID": "GSS_ACH_19_RUDY",
@@ -2969,9 +2969,9 @@
       "ID": "GSS_ACH_32_TRASH_03",
       "SetID": "5fn8ia4",
       "Name": "It has to be clean!",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 758
+      "UsersEstimate": 769
     },
     {
       "ID": "GSS_ACH_33_FLY",
@@ -3081,9 +3081,9 @@
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
       "SetID": "5fn8ia4",
       "Name": "Need the Car Parts!",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 847
+      "UsersEstimate": 859
     },
     {
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
@@ -3361,9 +3361,9 @@
       "ID": "GSS_ACH_88_DECORATION_02",
       "SetID": "5fn8ia4",
       "Name": "Decorating Better",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 323
     },
     {
       "ID": "GSS_ACH_89_DECORATION_03",
@@ -3386,8 +3386,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-28T04:59:34.1023632+00:00",
-  "LastChanged_Achievements": "2023-11-30T14:05:47.7783385+00:00",
+  "LastChanged_Achievements": "2023-11-30T15:06:17.1031377+00:00",
   "LastUpdate_AppInfo": "2023-11-27T17:57:10.8459621+00:00",
-  "LastUpdate_Ratings": "2023-11-30T13:57:44.7751914+00:00",
-  "LastUpdate_Achievements": "2023-11-30T14:05:47.7784251+00:00"
+  "LastUpdate_Ratings": "2023-11-30T14:57:40.6884899+00:00",
+  "LastUpdate_Achievements": "2023-11-30T15:06:17.1032453+00:00"
 }

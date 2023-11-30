@@ -1,54 +1,54 @@
 # Love Is All Around
 [Store](https://store.epicgames.com/en-US/p/love-is-all-around-3a8046)  
 [View Rawdata](../../db/b/b7cca975adbf41e4a41f3ece9e61e08a.json)  
-Rating: 4.75 (Ranked 149)  
+Rating: 4.76 (Ranked 130)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 91.00% | ~9,492 |
-| I Challenge You To Save More Money! | 86.00% | ~8,971 |
-| I Love How Tough You Are | 72.00% | ~7,510 |
-| Wanna Come To My Place For Dinner? | 66.00% | ~6,884 |
-| What I Want Is You | 60.00% | ~6,259 |
-| To Be Or Not To Be | 57.00% | ~5,946 |
-| Are You Alright? | 50.00% | ~5,216 |
-| Love Actually | 48.00% | ~5,007 |
-| Drama King | 42.00% | ~4,381 |
-| You're Really Something Else | 37.00% | ~3,859 |
-| Go Clean up In Your Own Way | 36.00% | ~3,755 |
-| Happy Family | 35.00% | ~3,651 |
-| Worthless Speech | 35.00% | ~3,651 |
-| ONE PUNCH | 34.00% | ~3,547 |
-| FIRST LOVE | 34.00% | ~3,547 |
-| Drama CP: Reel to Real | 34.00% | ~3,547 |
-| Absolutely Elegant | 33.00% | ~3,442 |
-| Still Single | 32.00% | ~3,338 |
-| Days Of Innocence | 30.00% | ~3,129 |
-| Go Get Some Fries On The Pier | 29.00% | ~3,025 |
-| David | 29.00% | ~3,025 |
-| All I Have Is Money | 25.00% | ~2,608 |
-| A Slap In The Face! | 25.00% | ~2,608 |
-| Lover In Dark Alley | 24.00% | ~2,503 |
-| That's So You | 24.00% | ~2,503 |
-| SALUTE | 24.00% | ~2,503 |
-| Let Me Be Your Toy Boy | 23.00% | ~2,399 |
-| Off We Sail Tonight | 19.00% | ~1,982 |
-| Love You Three Thousand | 16.00% | ~1,669 |
-| Can You Do This Or Not? | 16.00% | ~1,669 |
-| Doesn't Matter I'll Handle It | 14.00% | ~1,460 |
+| Last Night...Did We... | 91.00% | ~9,497 |
+| I Challenge You To Save More Money! | 86.00% | ~8,975 |
+| I Love How Tough You Are | 72.00% | ~7,514 |
+| Wanna Come To My Place For Dinner? | 66.00% | ~6,888 |
+| What I Want Is You | 60.00% | ~6,262 |
+| To Be Or Not To Be | 57.00% | ~5,949 |
+| Are You Alright? | 50.00% | ~5,218 |
+| Love Actually | 48.00% | ~5,009 |
+| Drama King | 42.00% | ~4,383 |
+| You're Really Something Else | 37.00% | ~3,861 |
+| Go Clean up In Your Own Way | 36.00% | ~3,757 |
+| Happy Family | 35.00% | ~3,653 |
+| Worthless Speech | 35.00% | ~3,653 |
+| ONE PUNCH | 34.00% | ~3,548 |
+| FIRST LOVE | 34.00% | ~3,548 |
+| Drama CP: Reel to Real | 34.00% | ~3,548 |
+| Absolutely Elegant | 33.00% | ~3,444 |
+| Still Single | 32.00% | ~3,340 |
+| Days Of Innocence | 30.00% | ~3,131 |
+| Go Get Some Fries On The Pier | 29.00% | ~3,026 |
+| David | 29.00% | ~3,026 |
+| All I Have Is Money | 25.00% | ~2,609 |
+| A Slap In The Face! | 25.00% | ~2,609 |
+| Lover In Dark Alley | 24.00% | ~2,505 |
+| That's So You | 24.00% | ~2,505 |
+| SALUTE | 24.00% | ~2,505 |
+| Let Me Be Your Toy Boy | 23.00% | ~2,400 |
+| Off We Sail Tonight | 19.00% | ~1,983 |
+| Love You Three Thousand | 16.00% | ~1,670 |
+| Can You Do This Or Not? | 16.00% | ~1,670 |
+| Doesn't Matter I'll Handle It | 14.00% | ~1,461 |
 | The Flash | 12.00% | ~1,252 |
-| New Yoga Pose Unlocked | 11.00% | ~1,147 |
+| New Yoga Pose Unlocked | 11.00% | ~1,148 |
 | My Dear Love! | 9.00% | ~939 |
 | Counting Sheep? | 9.00% | ~939 |
 | This Ain't Right In Many Ways... | 9.00% | ~939 |
-| Life Is A Rollercoaster | 8.00% | ~834 |
-| Boys Need To Protect Themselves | 8.00% | ~834 |
-| Stubborn Noob | 8.00% | ~834 |
+| Life Is A Rollercoaster | 8.00% | ~835 |
+| Boys Need To Protect Themselves | 8.00% | ~835 |
+| Stubborn Noob | 8.00% | ~835 |
 | Hurrah! | 2.00% | ~209 |
 | Tall; Grande; Venti | 2.00% | ~209 |
 | Limerence | 2.00% | ~209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,431 (Ranked 164)  
+Progressed: 10,436 (Ranked 164)  
 Completed: 178 (1.71%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 178 (1.71%) (Ranked 135)
 | 2023-11-27 | 10,225 | 170 |
 | 2023-11-28 | 10,324 | 174 |
 | 2023-11-29 | 10,398 | 176 |
-| 2023-11-30 | 10,431 | 178 |
+| 2023-11-30 | 10,436 | 178 |
 ## Awards
 Max (Impact the Story): 23  (Ranked 534)  
 Sum: 23 (Ranked 537)  
@@ -135,3 +135,4 @@ Diff (max vs sum): -3
 | 2023-11-25 | 4.75 | 0 | 0 |
 | 2023-11-26 | 4.75 | 22 | 22 |
 | 2023-11-29 | 4.75 | 23 | 23 |
+| 2023-11-30 | 4.76 | 23 | 23 |

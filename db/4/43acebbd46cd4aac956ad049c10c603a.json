@@ -165,7 +165,7 @@
   ],
   "EOS_Progressed": 786,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 302,
+  "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1819,9 +1819,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 39
     },
     {
       "ID": "ChasingTheLight",
@@ -1843,9 +1843,9 @@
       "ID": "CircularOasis",
       "SetID": "1n308hc",
       "Name": "Circular Oasis",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "DesolateIsland",
@@ -2051,9 +2051,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 39
     },
     {
       "ID": "RenaissanceRobot",
@@ -2107,9 +2107,9 @@
       "ID": "TeamSpirit",
       "SetID": "1n308hc",
       "Name": "Team Spirit",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 31
     },
     {
       "ID": "TextAdventurer",
@@ -2244,8 +2244,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-29T18:59:07.9515154+00:00",
-  "LastChanged_Achievements": "2023-11-30T14:04:09.7821064+00:00",
+  "LastChanged_Achievements": "2023-11-30T15:04:08.9535239+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-11-30T14:00:04.3380632+00:00",
-  "LastUpdate_Achievements": "2023-11-30T14:04:09.7821603+00:00"
+  "LastUpdate_Ratings": "2023-11-30T15:00:50.1406719+00:00",
+  "LastUpdate_Achievements": "2023-11-30T15:04:08.9535745+00:00"
 }

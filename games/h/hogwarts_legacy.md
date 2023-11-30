@@ -6,13 +6,13 @@ Rating: 4.76 (Ranked 130)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 16.00% | ~48,581 |
-| First Class Student | 15.00% | ~45,544 |
+| First Class Student | 15.00% | ~45,545 |
 | Troll with the Punches | 14.00% | ~42,508 |
 | A Keen Sense of Spell | 13.00% | ~39,472 |
 | That's a Keeper | 13.00% | ~39,472 |
-| The Defender of Dragons | 12.00% | ~36,435 |
-| Loom for Improvement | 12.00% | ~36,435 |
-| A Talent for Spending | 12.00% | ~36,435 |
+| The Defender of Dragons | 12.00% | ~36,436 |
+| Loom for Improvement | 12.00% | ~36,436 |
+| A Talent for Spending | 12.00% | ~36,436 |
 | Grappling with a Graphorn | 11.00% | ~33,399 |
 | The One Who Mastered Memories | 11.00% | ~33,399 |
 | The Hallowed Hero | 11.00% | ~33,399 |
@@ -30,9 +30,9 @@ Rating: 4.76 (Ranked 130)
 | The Seeker of Knowledge | 6.00% | ~18,218 |
 | The Root of the Problem | 6.00% | ~18,218 |
 | Third Time's a Charm | 6.00% | ~18,218 |
-| The Toast of the Town | 5.00% | ~15,181 |
-| The Gryffindor in the Graveyard | 5.00% | ~15,181 |
-| The Ends Petrify the Means | 5.00% | ~15,181 |
+| The Toast of the Town | 5.00% | ~15,182 |
+| The Gryffindor in the Graveyard | 5.00% | ~15,182 |
+| The Ends Petrify the Means | 5.00% | ~15,182 |
 | Going Through the Potions | 4.00% | ~12,145 |
 | Room with a View | 4.00% | ~12,145 |
 | The Intrepid Explorer | 4.00% | ~12,145 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 130)
 | The Nature of the Beast | 0.70% | ~2,125 |
 | Collector's Edition | 0.30% | ~911 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,629 (Ranked 54)  
+Progressed: 303,631 (Ranked 54)  
 Completed: 519 (0.17%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,23 +275,23 @@ Completed: 519 (0.17%) (Ranked 266)
 | 2023-11-27 | 303,418 | 518 |
 | 2023-11-28 | 303,515 | 519 |
 | 2023-11-29 | 303,596 | 519 |
-| 2023-11-30 | 303,629 | 519 |
+| 2023-11-30 | 303,631 | 519 |
 ## Awards
 Max (Character Customization): 24,755  (Ranked 17)  
-Sum: 49,476 (Ranked 30)  
+Sum: 49,484 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 24,755 |
 | This game has Great Boss Battles | 12,651 |
-| This game is Great for Beginners | 1,360 |
+| This game is Great for Beginners | 1,364 |
 | This game has Amazing Storytelling | 1,313 |
 | This game has Diverse Characters | 1,310 |
 | This game is Relaxing | 1,280 |
 | This game is Extremely Fun | 1,279 |
 | This game has Amazing Characters | 1,237 |
 | This game is Highly Recommended | 1,216 |
-| This game has Quickly Understood Controls | 1,181 |
+| This game has Quickly Understood Controls | 1,185 |
 | This game has Beautiful Visuals | 1,069 |
 | This game has a Creative Community | 825 |
 ## Ratings History
@@ -548,4 +548,4 @@ Diff (max vs sum): -13
 | 2023-11-27 | 4.76 | 24,711 | 49,337 |
 | 2023-11-28 | 4.76 | 24,728 | 49,391 |
 | 2023-11-29 | 4.76 | 24,755 | 49,466 |
-| 2023-11-30 | 4.76 | 24,755 | 49,476 |
+| 2023-11-30 | 4.76 | 24,755 | 49,484 |

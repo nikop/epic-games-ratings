@@ -4,7 +4,7 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -736,9 +736,9 @@
       "ID": "ACH_JUST_MARRIED",
       "SetID": "8h8m55b",
       "Name": "Just Married",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_LISTEN_ALL_SONG",
@@ -959,8 +959,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-11-30T14:06:16.3686149+00:00",
+  "LastChanged_Achievements": "2023-11-30T15:06:53.4242051+00:00",
   "LastUpdate_AppInfo": "2023-11-28T18:57:07.4987948+00:00",
-  "LastUpdate_Ratings": "2023-11-30T14:03:34.3709449+00:00",
-  "LastUpdate_Achievements": "2023-11-30T14:06:16.3686554+00:00"
+  "LastUpdate_Ratings": "2023-11-30T15:03:19.7684619+00:00",
+  "LastUpdate_Achievements": "2023-11-30T15:06:53.4242468+00:00"
 }

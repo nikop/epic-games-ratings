@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -241,9 +241,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15783,
+  "EOS_Progressed": 15784,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 476,
+  "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -12736,6 +12736,11 @@
       "Time": "2023-11-30T14:04:32.1639747+00:00",
       "NumProgressed": 15783,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-11-30T15:04:38.381333+00:00",
+      "NumProgressed": 15784,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12788,7 +12793,7 @@
       "Name": "Doctor Approved",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "15",
@@ -12820,7 +12825,7 @@
       "Name": "Bottoms up!",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "19",
@@ -12844,7 +12849,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "21",
@@ -12884,7 +12889,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "26",
@@ -13027,13 +13032,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15783,
+      "Progressed": 15784,
       "Completed": 39
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1737,
+      "Progressed": 1738,
       "Completed": 756
     }
   ],
@@ -13041,8 +13046,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-28T18:00:52.6774218+00:00",
-  "LastChanged_Achievements": "2023-11-30T14:04:32.1639738+00:00",
+  "LastChanged_Achievements": "2023-11-30T15:04:38.3813324+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-11-30T14:03:26.2917956+00:00",
-  "LastUpdate_Achievements": "2023-11-30T14:04:32.1640386+00:00"
+  "LastUpdate_Ratings": "2023-11-30T15:03:08.6433971+00:00",
+  "LastUpdate_Achievements": "2023-11-30T15:04:38.381424+00:00"
 }

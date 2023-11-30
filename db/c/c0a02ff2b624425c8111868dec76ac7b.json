@@ -496,9 +496,9 @@
       "ID": "ACH_ALL_WEAPONS",
       "SetID": "cagp2pi",
       "Name": "Weapon Master",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_ANGEL_ABSORBED",
@@ -568,9 +568,9 @@
       "ID": "ACH_FINISH_GAME",
       "SetID": "cagp2pi",
       "Name": "Edda and Aven",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_FIRST_ABSORPTION",
@@ -648,9 +648,9 @@
       "ID": "ACH_YINYANG_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Yin-Yang",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
@@ -663,8 +663,8 @@
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-11-30T14:05:41.8687356+00:00",
+  "LastChanged_Achievements": "2023-11-30T15:06:09.4179619+00:00",
   "LastUpdate_AppInfo": "2023-11-24T13:56:57.9833029+00:00",
-  "LastUpdate_Ratings": "2023-11-30T14:03:07.3172199+00:00",
-  "LastUpdate_Achievements": "2023-11-30T14:05:41.8687544+00:00"
+  "LastUpdate_Ratings": "2023-11-30T15:02:12.990243+00:00",
+  "LastUpdate_Achievements": "2023-11-30T15:06:09.4179759+00:00"
 }

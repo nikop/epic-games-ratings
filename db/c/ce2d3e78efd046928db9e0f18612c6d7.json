@@ -2,9 +2,9 @@
   "ID": "ce2d3e78efd046928db9e0f18612c6d7",
   "Name": "Hanoi Puzzles - Solid Match",
   "ProductSlug": "hanoi-puzzles-solid-match-6a9e0c",
-  "Ranking_EOS_Progress": 462,
+  "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 34,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-11-11T18:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78,
+  "EOS_Progressed": 79,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 12.82,
+  "EOS_Completed_Percentage": 12.66,
   "EosHistory": [
     {
       "Time": "2023-11-02T21:11:02.0754149+00:00",
@@ -399,6 +399,11 @@
       "Time": "2023-11-29T12:09:45.9165046+00:00",
       "NumProgressed": 78,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-30T15:10:25.4707762+00:00",
+      "NumProgressed": 79,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-11-02T15:09:10.4117013+00:00",
@@ -411,13 +416,13 @@
       "Name": "First tower built",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "02_ACHIEVEMENT_Level_10",
       "SetID": "6opd2eg",
       "Name": "Hanoi beginner",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 10,
       "UsersEstimate": 58
     },
@@ -489,7 +494,7 @@
       "ID": "11_ACHIEVEMENT_Shortcut_Master",
       "SetID": "6opd2eg",
       "Name": "Shortcut Master",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 200,
       "UsersEstimate": 13
     }
@@ -498,14 +503,14 @@
     {
       "ID": "6opd2eg",
       "IsBase": true,
-      "Progressed": 78,
+      "Progressed": 79,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2023-11-30T14:10:02.7164098+00:00",
+  "LastChanged_Achievements": "2023-11-30T15:10:25.470776+00:00",
   "LastUpdate_AppInfo": "2023-11-28T06:57:03.3272261+00:00",
-  "LastUpdate_Ratings": "2023-11-30T13:59:31.58316+00:00",
-  "LastUpdate_Achievements": "2023-11-30T14:10:02.7164215+00:00"
+  "LastUpdate_Ratings": "2023-11-30T15:00:05.198202+00:00",
+  "LastUpdate_Achievements": "2023-11-30T15:10:25.4707844+00:00"
 }
