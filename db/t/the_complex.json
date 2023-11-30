@@ -4,7 +4,7 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 649,
+  "EOS_Progressed": 650,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.08,
   "EosHistory": [
@@ -1055,6 +1055,11 @@
       "Time": "2023-11-29T20:08:21.0226443+00:00",
       "NumProgressed": 649,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-30T11:09:19.8768156+00:00",
+      "NumProgressed": 650,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 20,
@@ -1066,7 +1071,7 @@
       "Name": "Beat It",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "blast_from_the_past",
@@ -1090,7 +1095,7 @@
       "Name": "The Nano Glitches And The Martyr",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ending_2",
@@ -1098,7 +1103,7 @@
       "Name": "Second Chances",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ending_3",
@@ -1170,7 +1175,7 @@
       "Name": "Kamikaze",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "kindar_surprise",
@@ -1202,7 +1207,7 @@
       "Name": "Storage Hunter",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "the_rebel_and_the_doctor",
@@ -1210,7 +1215,7 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 58,
       "XP": 100,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "tough_decision",
@@ -1218,14 +1223,14 @@
       "Name": "Tough Decision",
       "Percentage": 94,
       "XP": 50,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 649,
+      "Progressed": 650,
       "Completed": 20
     }
   ],
@@ -1233,8 +1238,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-11-30T10:09:34.0547896+00:00",
+  "LastChanged_Achievements": "2023-11-30T11:09:19.8768145+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:06.3422687+00:00",
-  "LastUpdate_Ratings": "2023-11-30T10:00:50.297632+00:00",
-  "LastUpdate_Achievements": "2023-11-30T10:09:34.0548057+00:00"
+  "LastUpdate_Ratings": "2023-11-30T11:00:03.0992057+00:00",
+  "LastUpdate_Achievements": "2023-11-30T11:09:19.8768373+00:00"
 }

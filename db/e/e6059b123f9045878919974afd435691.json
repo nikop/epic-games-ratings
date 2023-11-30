@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1063,
+  "EOS_Progressed": 1064,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2754,6 +2754,11 @@
       "Time": "2023-11-28T21:10:03.1398719+00:00",
       "NumProgressed": 1063,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T11:09:59.0632297+00:00",
+      "NumProgressed": 1064,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2765,7 +2770,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -2805,7 +2810,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -2837,7 +2842,7 @@
       "Name": "Capraphobia",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2981,7 +2986,7 @@
       "Name": "Fire Alarm",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "FREEB_ACHIEVEMENT_1",
@@ -3037,7 +3042,7 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -3045,7 +3050,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -3141,7 +3146,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -3157,7 +3162,7 @@
       "Name": "Night Snack",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -3213,7 +3218,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -3292,14 +3297,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1063,
+      "Progressed": 1064,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-11-30T10:10:27.5469993+00:00",
+  "LastChanged_Achievements": "2023-11-30T11:09:59.0632292+00:00",
   "LastUpdate_AppInfo": "2023-11-24T01:41:53.7695274+00:00",
-  "LastUpdate_Ratings": "2023-11-30T10:01:50.9972831+00:00",
-  "LastUpdate_Achievements": "2023-11-30T10:10:27.5470505+00:00"
+  "LastUpdate_Ratings": "2023-11-30T11:00:44.7639657+00:00",
+  "LastUpdate_Achievements": "2023-11-30T11:09:59.0632929+00:00"
 }

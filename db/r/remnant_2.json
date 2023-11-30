@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 27,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
     "PcReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -4959,9 +4959,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 230874,
+  "EOS_Progressed": 230902,
   "EOS_Completed": 541,
-  "EOS_NewPlayers": 4690,
+  "EOS_NewPlayers": 4701,
   "EOS_NewCompleters": 37,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -20649,6 +20649,11 @@
       "Time": "2023-11-30T10:09:30.8840243+00:00",
       "NumProgressed": 230874,
       "NumCompleted": 541
+    },
+    {
+      "Time": "2023-11-30T11:09:17.502106+00:00",
+      "NumProgressed": 230902,
+      "NumCompleted": 541
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20661,7 +20666,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -20781,7 +20786,7 @@
       "Name": "Quest for Survival",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -20813,7 +20818,7 @@
       "Name": "Familiar Face",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "Meet_Meidra",
@@ -20883,9 +20888,9 @@
       "ID": "Obtain_Boss_Alt_Reward",
       "SetID": "bkp3b1a",
       "Name": "Was This Supposed To Happen?",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 462
+      "UsersEstimate": 693
     },
     {
       "ID": "Obtain_Boss_Weapon",
@@ -20965,7 +20970,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1155
     },
     {
       "ID": "Obtain_Traits_B",
@@ -21100,13 +21105,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 230874,
+      "Progressed": 230902,
       "Completed": 541
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 10039,
+      "Progressed": 10067,
       "Completed": 171
     }
   ],
@@ -21114,8 +21119,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-30T05:03:15.9209637+00:00",
-  "LastChanged_Achievements": "2023-11-30T10:09:30.8840239+00:00",
+  "LastChanged_Achievements": "2023-11-30T11:09:17.5021056+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-30T10:03:43.7521499+00:00",
-  "LastUpdate_Achievements": "2023-11-30T10:09:30.8841682+00:00"
+  "LastUpdate_Ratings": "2023-11-30T11:03:49.9520216+00:00",
+  "LastUpdate_Achievements": "2023-11-30T11:09:17.5022314+00:00"
 }

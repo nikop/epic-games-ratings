@@ -1866,9 +1866,9 @@
       "ID": "nueva_beginnings",
       "SetID": "c4ipj3h",
       "Name": "Nueva Beginnings",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 242
+      "UsersEstimate": 249
     },
     {
       "ID": "only_thyme_will_tell",
@@ -1923,8 +1923,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-11-30T10:10:07.199318+00:00",
+  "LastChanged_Achievements": "2023-11-30T11:09:44.0081264+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:08.7163399+00:00",
-  "LastUpdate_Ratings": "2023-11-30T09:58:23.2349706+00:00",
-  "LastUpdate_Achievements": "2023-11-30T10:10:07.1993333+00:00"
+  "LastUpdate_Ratings": "2023-11-30T10:58:21.2309045+00:00",
+  "LastUpdate_Achievements": "2023-11-30T11:09:44.0081482+00:00"
 }

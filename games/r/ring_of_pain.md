@@ -48,6 +48,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shootout | 0.30% | ~721 |
 | Stone Touch | 0.30% | ~721 |
 | Doing Time | 0.30% | ~721 |
+| Spreading Plague | 0.30% | ~721 |
 | Toxic | 0.30% | ~721 |
 | Acid Bath | 0.30% | ~721 |
 | New Perspectives | 0.30% | ~721 |
@@ -64,7 +65,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | All Consuming | 0.20% | ~481 |
 | Illuminate, Eliminate | 0.20% | ~481 |
 | Chain Reaction | 0.20% | ~481 |
-| Spreading Plague | 0.20% | ~481 |
 | Antivenom | 0.20% | ~481 |
 | Decisions, Decisions | 0.20% | ~481 |
 | Snake Sneak | 0.20% | ~481 |
@@ -146,7 +146,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 240,423 (Ranked 63)  
-Completed: 291 (0.12%) (Ranked 279)  
+Completed: 291 (0.12%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

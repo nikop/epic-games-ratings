@@ -4177,9 +4177,9 @@
       "ID": "achievement_101",
       "SetID": "d252ncf",
       "Name": "Combined Arms",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 175
+      "UsersEstimate": 190
     },
     {
       "ID": "achievement_102",
@@ -5025,9 +5025,9 @@
       "ID": "achievement_83",
       "SetID": "d252ncf",
       "Name": "Pathfinder",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 364
     },
     {
       "ID": "achievement_84",
@@ -5181,8 +5181,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-30T10:09:33.2124456+00:00",
+  "LastChanged_Achievements": "2023-11-30T11:09:19.3497764+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:10.3433357+00:00",
-  "LastUpdate_Ratings": "2023-11-30T10:03:34.9646473+00:00",
-  "LastUpdate_Achievements": "2023-11-30T10:09:33.2125979+00:00"
+  "LastUpdate_Ratings": "2023-11-30T11:03:43.9174072+00:00",
+  "LastUpdate_Achievements": "2023-11-30T11:09:19.3499788+00:00"
 }

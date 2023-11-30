@@ -7,12 +7,12 @@
 | Travel Streamer | 91.00% | ~407 |
 | Training Simulation | 76.00% | ~340 |
 | Kuku Bird Hunter | 62.00% | ~277 |
-| Storm Traveller | 55.00% | ~246 |
+| Storm Traveller | 56.00% | ~250 |
 | Fashion Connoisseur | 50.00% | ~224 |
 | Wolf King Killer | 50.00% | ~224 |
 | Arms Mechanic | 45.00% | ~201 |
 | Flower Thief | 41.00% | ~183 |
-| Apostle of Flame | 36.00% | ~161 |
+| Apostle of Flame | 37.00% | ~165 |
 | Beginner Cook | 35.00% | ~156 |
 | Beginner Artificer | 35.00% | ~156 |
 | Seal Breaker | 30.00% | ~134 |
@@ -35,7 +35,7 @@
 | Master Cook | 8.00% | ~36 |
 | Berserker Slayer | 7.00% | ~31 |
 | Boss challenge | 6.00% | ~27 |
-| Giantess Slayer | 5.00% | ~22 |
+| Giantess Slayer | 6.00% | ~27 |
 | Warden Slayer | 5.00% | ~22 |
 | Silver Moon Wolf King Challenge | 3.00% | ~13 |
 | Rebellious | 2.00% | ~9 |

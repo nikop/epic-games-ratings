@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 101,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -2579,9 +2579,9 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 23731,
+  "EOS_Progressed": 23732,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1334,
+  "EOS_NewPlayers": 1333,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11249,6 +11249,11 @@
       "Time": "2023-11-30T10:08:59.0433159+00:00",
       "NumProgressed": 23731,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T11:08:54.4158268+00:00",
+      "NumProgressed": 23732,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -11301,7 +11306,7 @@
       "Name": "Who\u0027s the Boss?",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 2610
+      "UsersEstimate": 2611
     },
     {
       "ID": "Achievement_Trophy07",
@@ -11477,7 +11482,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7831
+      "UsersEstimate": 7832
     },
     {
       "ID": "Achievement_Trophy29",
@@ -11517,7 +11522,7 @@
       "Name": "Pack leader",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "Achievement_Trophy34",
@@ -11525,7 +11530,7 @@
       "Name": "Augmented rat",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2610
+      "UsersEstimate": 2611
     },
     {
       "ID": "Achievement_Trophy35",
@@ -11573,7 +11578,7 @@
       "Name": "Pain is your friend",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "Achievement_Trophy41",
@@ -11589,7 +11594,7 @@
       "Name": "Black death",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "Achievement_Trophy43",
@@ -11629,7 +11634,7 @@
       "Name": "Play it again, Sam",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "Achievement_Trophy48",
@@ -11637,7 +11642,7 @@
       "Name": "Doom and gloom",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2610
+      "UsersEstimate": 2611
     },
     {
       "ID": "Achievement_Trophy49",
@@ -11748,7 +11753,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 23731,
+      "Progressed": 23732,
       "Completed": 1
     }
   ],
@@ -11756,8 +11761,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-30T05:01:30.8478549+00:00",
-  "LastChanged_Achievements": "2023-11-30T10:08:59.0433155+00:00",
+  "LastChanged_Achievements": "2023-11-30T11:08:54.4158264+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:22.2817081+00:00",
-  "LastUpdate_Ratings": "2023-11-30T10:01:42.2786657+00:00",
-  "LastUpdate_Achievements": "2023-11-30T10:08:59.0433846+00:00"
+  "LastUpdate_Ratings": "2023-11-30T11:00:38.7312977+00:00",
+  "LastUpdate_Achievements": "2023-11-30T11:08:54.4159212+00:00"
 }

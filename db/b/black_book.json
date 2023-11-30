@@ -663,9 +663,9 @@
       "Count": 90
     }
   ],
-  "EOS_Progressed": 56912,
+  "EOS_Progressed": 56915,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 1697,
+  "EOS_NewPlayers": 1694,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11503,6 +11503,11 @@
       "Time": "2023-11-30T10:04:46.7102596+00:00",
       "NumProgressed": 56912,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-11-30T11:04:35.3489971+00:00",
+      "NumProgressed": 56915,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -11587,7 +11592,7 @@
       "Name": "Cow Level",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 6260
+      "UsersEstimate": 6261
     },
     {
       "ID": "DEAD_MAN",
@@ -11635,7 +11640,7 @@
       "Name": "Scientist",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 6260
+      "UsersEstimate": 6261
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -11667,7 +11672,7 @@
       "Name": "Righteous",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2276
+      "UsersEstimate": 2277
     },
     {
       "ID": "GREAT_SORCERER",
@@ -11715,7 +11720,7 @@
       "Name": "Initiation",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 15935
+      "UsersEstimate": 15936
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -11747,7 +11752,7 @@
       "Name": "Musician",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2276
+      "UsersEstimate": 2277
     },
     {
       "ID": "NEW_SPIRITS",
@@ -11763,7 +11768,7 @@
       "Name": "Soldier",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 6829
+      "UsersEstimate": 6830
     },
     {
       "ID": "NORMAL_END",
@@ -11771,7 +11776,7 @@
       "Name": "Koldun",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2276
+      "UsersEstimate": 2277
     },
     {
       "ID": "OLD_SPIRITS",
@@ -11867,15 +11872,15 @@
       "Name": "Water",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 5691
+      "UsersEstimate": 5692
     },
     {
       "ID": "WOLF",
       "SetID": "bijn3c8",
       "Name": "Wolf",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 4553
+      "UsersEstimate": 5122
     },
     {
       "ID": "WORD_MASTER",
@@ -11914,15 +11919,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 56912,
+      "Progressed": 56915,
       "Completed": 57
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-11-24T14:58:20.0827646+00:00",
-  "LastChanged_Achievements": "2023-11-30T10:04:46.7102592+00:00",
+  "LastChanged_Achievements": "2023-11-30T11:04:35.3489968+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:46.0067578+00:00",
-  "LastUpdate_Ratings": "2023-11-30T09:57:59.1245927+00:00",
-  "LastUpdate_Achievements": "2023-11-30T10:04:46.710325+00:00"
+  "LastUpdate_Ratings": "2023-11-30T10:58:04.4365372+00:00",
+  "LastUpdate_Achievements": "2023-11-30T11:04:35.3490772+00:00"
 }

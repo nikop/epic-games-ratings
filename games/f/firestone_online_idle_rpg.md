@@ -27,7 +27,7 @@ Rating: 4.04 (Ranked 991)
 | Natural Talent | 12.00% | ~339 |
 | Superior | 12.00% | ~339 |
 | The Unstoppable | 12.00% | ~339 |
-| Scientist | 10.00% | ~282 |
+| Scientist | 11.00% | ~311 |
 | The power of Awakening | 10.00% | ~282 |
 | Challenger | 9.00% | ~254 |
 | Daily Quest Completionist | 9.00% | ~254 |
@@ -303,8 +303,8 @@ Completed: 2 (0.07%) (Ranked 302)
 | 2023-11-30 | 2,825 | 2 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 483)  
-Sum: 134 (Ranked 429)  
-Diff (max vs sum): 54  
+Sum: 134 (Ranked 430)  
+Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 34 |

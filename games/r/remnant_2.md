@@ -9,10 +9,10 @@ Rating: 4.75 (Ranked 148)
 | Regicide | 0.70% | ~70 |
 | Master of the Dark Arts | 0.70% | ~70 |
 | First of Many | 0.60% | ~1,385 |
-| Not Your Average Trait | 0.50% | ~1,154 |
-| Expanding Horizons | 0.40% | ~923 |
-| Quest for Survival | 0.40% | ~923 |
-| Familiar Face | 0.40% | ~923 |
+| Not Your Average Trait | 0.50% | ~1,155 |
+| Expanding Horizons | 0.40% | ~924 |
+| Quest for Survival | 0.40% | ~924 |
+| Familiar Face | 0.40% | ~924 |
 | Am I Seeing This? | 0.30% | ~693 |
 | Gleaming the Cube | 0.30% | ~693 |
 | Not So Special Now | 0.30% | ~693 |
@@ -21,6 +21,7 @@ Rating: 4.75 (Ranked 148)
 | Blue Goddess | 0.30% | ~693 |
 | Duality | 0.30% | ~693 |
 | Top Performer | 0.30% | ~693 |
+| Was This Supposed To Happen? | 0.30% | ~693 |
 | Boss'n Up | 0.30% | ~693 |
 | Almost There | 0.30% | ~693 |
 | Make Some Room | 0.30% | ~693 |
@@ -38,7 +39,6 @@ Rating: 4.75 (Ranked 148)
 | Tall Tales | 0.20% | ~462 |
 | Shhh...It's a Secret | 0.20% | ~462 |
 | Bad Moon Rising | 0.20% | ~462 |
-| Was This Supposed To Happen? | 0.20% | ~462 |
 | Strapped | 0.20% | ~462 |
 | Edgelord | 0.20% | ~462 |
 | The Web | 0.20% | ~462 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | Maxed Out! | 0.10% | ~231 |
 | A Foul Feast | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,874 (Ranked 69)  
+Progressed: 230,902 (Ranked 69)  
 Completed: 541 (0.23%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 541 (0.23%) (Ranked 250)
 | 2023-11-27 | 229,605 | 538 |
 | 2023-11-28 | 230,188 | 541 |
 | 2023-11-29 | 230,694 | 542 |
-| 2023-11-30 | 230,874 | 541 |
+| 2023-11-30 | 230,902 | 541 |
 ## Awards
 Max (Great Boss Battles): 2,518  (Ranked 104)  
 Sum: 6,174 (Ranked 129)  

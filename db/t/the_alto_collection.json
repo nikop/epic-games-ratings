@@ -850,9 +850,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 48229,
+  "EOS_Progressed": 48236,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 803,
+  "EOS_NewPlayers": 808,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26180,6 +26180,11 @@
       "Time": "2023-11-30T10:06:37.3050833+00:00",
       "NumProgressed": 48229,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-30T11:05:56.6760368+00:00",
+      "NumProgressed": 48236,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -26215,7 +26220,7 @@
       "Name": "Scout",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5305
+      "UsersEstimate": 5306
     },
     {
       "ID": "distance500000",
@@ -26231,7 +26236,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 13022
+      "UsersEstimate": 13024
     },
     {
       "ID": "goals180",
@@ -26247,7 +26252,7 @@
       "Name": "Amateur",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4823
+      "UsersEstimate": 4824
     },
     {
       "ID": "goals75",
@@ -26303,7 +26308,7 @@
       "Name": "My Little Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2411
+      "UsersEstimate": 2412
     },
     {
       "ID": "nomad",
@@ -26311,7 +26316,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 8199
+      "UsersEstimate": 8200
     },
     {
       "ID": "novice",
@@ -26319,7 +26324,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7717
+      "UsersEstimate": 7718
     },
     {
       "ID": "playerFelipe",
@@ -26343,7 +26348,7 @@
       "Name": "Unlock Maya",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3858
+      "UsersEstimate": 3859
     },
     {
       "ID": "playerPaz",
@@ -26383,7 +26388,7 @@
       "Name": "One With The Board",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2411
+      "UsersEstimate": 2412
     },
     {
       "ID": "proximityFly1000",
@@ -26399,7 +26404,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 12540
+      "UsersEstimate": 12541
     },
     {
       "ID": "sandboarder",
@@ -26415,7 +26420,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5305
+      "UsersEstimate": 5306
     },
     {
       "ID": "ultimate",
@@ -26455,7 +26460,7 @@
       "Name": "Welcome Maya",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6752
+      "UsersEstimate": 6753
     },
     {
       "ID": "unlockpaz",
@@ -26463,7 +26468,7 @@
       "Name": "Enter Paz",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3376
+      "UsersEstimate": 3377
     },
     {
       "ID": "vandal",
@@ -26479,7 +26484,7 @@
       "Name": "Voyager",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2411
+      "UsersEstimate": 2412
     },
     {
       "ID": "wanderer",
@@ -26487,7 +26492,7 @@
       "Name": "Wanderer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3858
+      "UsersEstimate": 3859
     },
     {
       "ID": "windswept",
@@ -26502,15 +26507,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 48229,
+      "Progressed": 48236,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-11-29T16:56:50.2159506+00:00",
-  "LastChanged_Achievements": "2023-11-30T10:06:37.3050828+00:00",
+  "LastChanged_Achievements": "2023-11-30T11:05:56.6760361+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:43.8978111+00:00",
-  "LastUpdate_Ratings": "2023-11-30T09:57:57.2108924+00:00",
-  "LastUpdate_Achievements": "2023-11-30T10:06:37.3052087+00:00"
+  "LastUpdate_Ratings": "2023-11-30T10:58:03.166967+00:00",
+  "LastUpdate_Achievements": "2023-11-30T11:05:56.6761589+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 32,
+  "Ranking_EOS_NewPlayers": 30,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -377,9 +377,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 321183,
+  "EOS_Progressed": 321209,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4313,
+  "EOS_NewPlayers": 4325,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7857,6 +7857,11 @@
       "Time": "2023-11-30T10:05:11.1808278+00:00",
       "NumProgressed": 321183,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-30T11:04:53.1302905+00:00",
+      "NumProgressed": 321209,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -8181,14 +8186,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2569
+      "UsersEstimate": 2570
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 321183,
+      "Progressed": 321209,
       "Completed": 4
     }
   ],
@@ -8196,8 +8201,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-11-28T23:59:47.9302057+00:00",
-  "LastChanged_Achievements": "2023-11-30T10:05:11.180827+00:00",
+  "LastChanged_Achievements": "2023-11-30T11:04:53.13029+00:00",
   "LastUpdate_AppInfo": "2023-11-23T19:57:06.8100094+00:00",
-  "LastUpdate_Ratings": "2023-11-30T09:57:53.8038697+00:00",
-  "LastUpdate_Achievements": "2023-11-30T10:05:11.1808867+00:00"
+  "LastUpdate_Ratings": "2023-11-30T10:58:00.7637425+00:00",
+  "LastUpdate_Achievements": "2023-11-30T11:04:53.1303475+00:00"
 }

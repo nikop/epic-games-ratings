@@ -6,9 +6,9 @@
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 180,
-  "Ranking_EOS_Completed": 280,
+  "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -147,11 +147,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7122,
-  "EOS_Completed": 8,
-  "EOS_NewPlayers": 1120,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.11,
+  "EOS_Progressed": 7125,
+  "EOS_Completed": 9,
+  "EOS_NewPlayers": 1110,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
     {
       "Time": "2023-10-17T16:05:13.3734944+00:00",
@@ -4997,6 +4997,11 @@
       "Time": "2023-11-30T09:09:16.1748446+00:00",
       "NumProgressed": 7122,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-30T11:09:46.537075+00:00",
+      "NumProgressed": 7125,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5081,7 +5086,7 @@
       "Name": "First Time?",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 1994
+      "UsersEstimate": 1995
     },
     {
       "ID": "FuneralForTheDeath",
@@ -5113,7 +5118,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -5161,7 +5166,7 @@
       "Name": "No More Totems",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "NotLikeTheOthers",
@@ -5209,7 +5214,7 @@
       "Name": "The Quarterback",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1638
+      "UsersEstimate": 1639
     },
     {
       "ID": "ThisIsDharma",
@@ -5225,7 +5230,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "UnResurrected",
@@ -5233,7 +5238,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -5241,7 +5246,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -5265,7 +5270,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "k01101110",
@@ -5280,16 +5285,16 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7122,
-      "Completed": 8
+      "Progressed": 7125,
+      "Completed": 9
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-29T13:05:55.0870892+00:00",
-  "LastChanged_Achievements": "2023-11-30T10:10:10.606543+00:00",
+  "LastChanged_Achievements": "2023-11-30T11:09:46.5370745+00:00",
   "LastUpdate_AppInfo": "2023-11-23T13:56:58.6423909+00:00",
-  "LastUpdate_Ratings": "2023-11-30T10:00:50.6489993+00:00",
-  "LastUpdate_Achievements": "2023-11-30T10:10:10.606577+00:00"
+  "LastUpdate_Ratings": "2023-11-30T11:00:03.3392509+00:00",
+  "LastUpdate_Achievements": "2023-11-30T11:09:46.5371129+00:00"
 }

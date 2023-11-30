@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -600,9 +600,9 @@
       "ID": "ACH_BREW_LATTEART_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "It\u0027s a masterpiece!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH_CAT_SHELTER",
@@ -792,9 +792,9 @@
       "ID": "ACH_OVERFLOWING_WARMTH",
       "SetID": "8h8m55b",
       "Name": "\u201COverflowing Warmth: CBAW\u201D",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_REMEMBRANCE",
@@ -959,8 +959,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-11-30T10:06:35.5972981+00:00",
+  "LastChanged_Achievements": "2023-11-30T11:05:55.3341773+00:00",
   "LastUpdate_AppInfo": "2023-11-28T18:57:07.4987948+00:00",
-  "LastUpdate_Ratings": "2023-11-30T10:03:23.5631833+00:00",
-  "LastUpdate_Achievements": "2023-11-30T10:06:35.5973306+00:00"
+  "LastUpdate_Ratings": "2023-11-30T11:03:35.8331232+00:00",
+  "LastUpdate_Achievements": "2023-11-30T11:05:55.3342091+00:00"
 }

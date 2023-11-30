@@ -79,10 +79,10 @@
 | A House Divided | 27.00% | ~394 |
 | First Aid Specialist | 26.00% | ~379 |
 | World Shaker | 26.00% | ~379 |
+| Pathfinder | 25.00% | ~364 |
 | Tunnel Rat | 25.00% | ~364 |
 | Liberator | 25.00% | ~364 |
 | Weapon Specialist | 24.00% | ~350 |
-| Pathfinder | 24.00% | ~350 |
 | Arbiter | 24.00% | ~350 |
 | Lost and Found | 24.00% | ~350 |
 | Savior | 23.00% | ~335 |
@@ -107,7 +107,7 @@
 | Throw Mastery | 16.00% | ~233 |
 | Mail Slot | 14.00% | ~204 |
 | Electronics Specialist | 14.00% | ~204 |
-| Combined Arms | 12.00% | ~175 |
+| Combined Arms | 13.00% | ~190 |
 | Bruiser | 12.00% | ~175 |
 | Overload Specialist | 11.00% | ~160 |
 | Warp Mastery | 11.00% | ~160 |

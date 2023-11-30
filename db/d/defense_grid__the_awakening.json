@@ -2062,9 +2062,9 @@
       "Count": 73
     }
   ],
-  "EOS_Progressed": 490655,
+  "EOS_Progressed": 490656,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 401,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25557,6 +25557,11 @@
       "Time": "2023-11-30T10:05:23.4763932+00:00",
       "NumProgressed": 490655,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-30T11:05:02.4008689+00:00",
+      "NumProgressed": 490656,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 87,
@@ -25584,7 +25589,7 @@
       "Name": "Arsenal",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 225701
+      "UsersEstimate": 225702
     },
     {
       "ID": "BASEDEFENDER",
@@ -25624,7 +25629,7 @@
       "Name": "Burn Baby Burn",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 289486
+      "UsersEstimate": 289487
     },
     {
       "ID": "CHAS",
@@ -25712,7 +25717,7 @@
       "Name": "Eradicator",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 328739
+      "UsersEstimate": 328740
     },
     {
       "ID": "EXTERMINATOR",
@@ -25768,7 +25773,7 @@
       "Name": "Flawless Victory",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 206075
+      "UsersEstimate": 206076
     },
     {
       "ID": "FLURRY",
@@ -25840,7 +25845,7 @@
       "Name": "Happy Returns",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 382711
+      "UsersEstimate": 382712
     },
     {
       "ID": "HEADTRAUMA",
@@ -25856,7 +25861,7 @@
       "Name": "Hey! That\u0027s mine!",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 382711
+      "UsersEstimate": 382712
     },
     {
       "ID": "HIGHVOLTAGE",
@@ -25880,7 +25885,7 @@
       "Name": "I Spy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 314019
+      "UsersEstimate": 314020
     },
     {
       "ID": "KABOOM",
@@ -25888,7 +25893,7 @@
       "Name": "Kaboom!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 147196
+      "UsersEstimate": 147197
     },
     {
       "ID": "KICKSTARTER",
@@ -25904,7 +25909,7 @@
       "Name": "Leadhead",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 348365
+      "UsersEstimate": 348366
     },
     {
       "ID": "LIQUIDATOR",
@@ -26048,7 +26053,7 @@
       "Name": "Power Builder",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 83411
+      "UsersEstimate": 83412
     },
     {
       "ID": "PYRRHICVICTORY",
@@ -26096,7 +26101,7 @@
       "Name": "Salvage Rights",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 260047
+      "UsersEstimate": 260048
     },
     {
       "ID": "SAVANTGENIUS",
@@ -26263,15 +26268,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 490655,
+      "Progressed": 490656,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2023-11-29T01:52:46.4996179+00:00",
-  "LastChanged_Achievements": "2023-11-30T10:05:23.4763929+00:00",
+  "LastChanged_Achievements": "2023-11-30T11:05:02.4008684+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:28.3034659+00:00",
-  "LastUpdate_Ratings": "2023-11-30T10:02:58.7163467+00:00",
-  "LastUpdate_Achievements": "2023-11-30T10:05:23.4765398+00:00"
+  "LastUpdate_Ratings": "2023-11-30T11:03:19.2165462+00:00",
+  "LastUpdate_Achievements": "2023-11-30T11:05:02.4010204+00:00"
 }

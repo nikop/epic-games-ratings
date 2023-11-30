@@ -4,7 +4,7 @@
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 991,
   "Ranking_Popularity": 483,
-  "Ranking_PopularitySum": 429,
+  "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 142,
@@ -555,7 +555,7 @@
   ],
   "EOS_Progressed": 2825,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8846,9 +8846,9 @@
       "ID": "scientist",
       "SetID": "3nl4bcg",
       "Name": "Scientist",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 311
     },
     {
       "ID": "scrollmaster",
@@ -9031,8 +9031,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-28T14:02:57.4349611+00:00",
-  "LastChanged_Achievements": "2023-11-30T10:09:52.0080819+00:00",
+  "LastChanged_Achievements": "2023-11-30T11:09:32.9709545+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:01.7095439+00:00",
-  "LastUpdate_Ratings": "2023-11-30T09:58:20.2242317+00:00",
-  "LastUpdate_Achievements": "2023-11-30T10:09:52.0082015+00:00"
+  "LastUpdate_Ratings": "2023-11-30T10:58:19.1924878+00:00",
+  "LastUpdate_Achievements": "2023-11-30T11:09:32.9710532+00:00"
 }

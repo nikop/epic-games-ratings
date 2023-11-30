@@ -10,7 +10,9 @@
 | Life of Pi | 14.00% | ~1 |
 | A Good Paint Job | 14.00% | ~1 |
 | Technology first! | 14.00% | ~1 |
+| Iron Fist | 14.00% | ~1 |
 | The Legend | 14.00% | ~1 |
+| The Vega Turtle | 14.00% | ~1 |
 | Gold Seeker | 0.00% | ~0 |
 | A Land of Peace | 0.00% | ~0 |
 | The Power of Friendship | 0.00% | ~0 |
@@ -18,7 +20,6 @@
 | The Keeper of Fleed | 0.00% | ~0 |
 | The Planner | 0.00% | ~0 |
 | Earth's Savior | 0.00% | ~0 |
-| Iron Fist | 0.00% | ~0 |
 | The Exterminator | 0.00% | ~0 |
 | You can't fool me! | 0.00% | ~0 |
 | The Collector | 0.00% | ~0 |
@@ -32,7 +33,6 @@
 | The Royal Guard | 0.00% | ~0 |
 | The Space Hydra | 0.00% | ~0 |
 | The Ultimate Attack | 0.00% | ~0 |
-| The Vega Turtle | 0.00% | ~0 |
 | Vengeance of the Wolf | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7 (Ranked 625)  

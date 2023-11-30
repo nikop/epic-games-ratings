@@ -5,18 +5,18 @@ Rating: 4.43 (Ranked 694)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 76.00% | ~1,740 |
+| Country Bumpkin | 76.00% | ~1,741 |
 | A new Journey | 75.00% | ~1,718 |
 | Departure | 74.00% | ~1,695 |
 | From X to Y | 73.00% | ~1,672 |
-| Way of Iron | 70.00% | ~1,603 |
-| Mystery Tour | 69.00% | ~1,580 |
-| We brake for nobody | 68.00% | ~1,557 |
-| Brainstorm | 66.00% | ~1,511 |
-| Travel Company | 66.00% | ~1,511 |
-| Mind the Gap | 65.00% | ~1,488 |
+| Way of Iron | 70.00% | ~1,604 |
+| Mystery Tour | 69.00% | ~1,581 |
+| We brake for nobody | 68.00% | ~1,558 |
+| Brainstorm | 66.00% | ~1,512 |
+| Travel Company | 66.00% | ~1,512 |
+| Mind the Gap | 65.00% | ~1,489 |
 | All around the World | 63.00% | ~1,443 |
-| Right through the middle | 58.00% | ~1,328 |
+| Right through the middle | 58.00% | ~1,329 |
 | Facility Manager | 54.00% | ~1,237 |
 | Poor Devil | 54.00% | ~1,237 |
 | Producer | 51.00% | ~1,168 |
@@ -33,7 +33,7 @@ Rating: 4.43 (Ranked 694)
 | Mole | 30.00% | ~687 |
 | General Manager | 28.00% | ~641 |
 | Country Life | 28.00% | ~641 |
-| Hostile Takeover | 25.00% | ~572 |
+| Hostile Takeover | 25.00% | ~573 |
 | Seven at one stroke | 24.00% | ~550 |
 | Breaking Ground | 22.00% | ~504 |
 | Trailblazer | 21.00% | ~481 |
@@ -61,7 +61,7 @@ Rating: 4.43 (Ranked 694)
 | United States | 0.60% | ~14 |
 | Together we stand | 0.60% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,290 (Ranked 221)  
+Progressed: 2,291 (Ranked 221)  
 Completed: 0 (0.00%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 0 (0.00%) (Ranked 362)
 | 2023-11-27 | 2,265 | 0 |
 | 2023-11-28 | 2,278 | 0 |
 | 2023-11-29 | 2,289 | 0 |
-| 2023-11-30 | 2,290 | 0 |
+| 2023-11-30 | 2,291 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

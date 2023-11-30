@@ -2,9 +2,9 @@
   "ID": "cf318a791de349f2b724136be105a6f1",
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
-  "Ranking_EOS_Progress": 318,
+  "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 455,
+  "EOS_Progressed": 456,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 0,
@@ -1230,6 +1230,11 @@
       "Time": "2023-11-30T00:07:55.9642507+00:00",
       "NumProgressed": 455,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T11:09:12.8361505+00:00",
+      "NumProgressed": 456,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1306,7 +1311,7 @@
       "Name": "The Alliance",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "AchvDoom",
@@ -1338,7 +1343,7 @@
       "Name": "Krauta is alive",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "AchvLava",
@@ -1408,17 +1413,17 @@
       "ID": "AchvReachBase",
       "SetID": "1hj060c",
       "Name": "The field base",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 155
     },
     {
       "ID": "AchvReachCamp",
       "SetID": "1hj060c",
       "Name": "The Camp",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 246
     },
     {
       "ID": "AchvReachCity",
@@ -1473,14 +1478,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 455,
+      "Progressed": 456,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-30T10:09:24.4137047+00:00",
+  "LastChanged_Achievements": "2023-11-30T11:09:12.8361496+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-11-30T10:00:17.0766869+00:00",
-  "LastUpdate_Achievements": "2023-11-30T10:09:24.4137339+00:00"
+  "LastUpdate_Ratings": "2023-11-30T10:59:40.2159343+00:00",
+  "LastUpdate_Achievements": "2023-11-30T11:09:12.8361734+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "6d8b4249e42f421980c9f9007fa37ade",
   "Name": "Return to Abyss \u91CD\u8FD4\u6DF1\u6E0A",
   "ProductSlug": "return-to-abyss-226301",
-  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112,
+  "EOS_Progressed": 113,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -494,6 +494,11 @@
       "Time": "2023-11-29T10:05:13.2387385+00:00",
       "NumProgressed": 112,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T11:06:32.2476587+00:00",
+      "NumProgressed": 113,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -503,9 +508,9 @@
       "ID": "Epic_ArcGenerator_1",
       "SetID": "ba1m2fc",
       "Name": "10,000-Volt Electric Field",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 79
     },
     {
       "ID": "Epic_AsteroidBase_1",
@@ -521,7 +526,7 @@
       "Name": "Pilgrim",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Epic_ChainSaw_1",
@@ -553,7 +558,7 @@
       "Name": "Good Harvest",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Epic_DangerousDrive_1",
@@ -593,7 +598,7 @@
       "Name": "Dream",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Epic_Experience_100000000",
@@ -663,7 +668,7 @@
       "ID": "Epic_HolyLight_1",
       "SetID": "ba1m2fc",
       "Name": "Exorcism",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 10,
       "UsersEstimate": 86
     },
@@ -679,7 +684,7 @@
       "ID": "Epic_Hunter_c0190900-91ca-4012-b070-e45fedf5cf41_1",
       "SetID": "ba1m2fc",
       "Name": "Wrecking Ball",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 20,
       "UsersEstimate": 67
     },
@@ -697,15 +702,15 @@
       "Name": "Extinction",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Epic_KillElite_500",
       "SetID": "ba1m2fc",
       "Name": "Mousetrap",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 14
     },
     {
       "ID": "Epic_Kill_1000000",
@@ -713,7 +718,7 @@
       "Name": "Easy Defeat",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Epic_Live_100000",
@@ -823,7 +828,7 @@
       "ID": "Epic_SpendMoney_100000",
       "SetID": "ba1m2fc",
       "Name": "God of Wealth",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
       "UsersEstimate": 32
     },
@@ -855,7 +860,7 @@
       "ID": "Epic_Tornado_1",
       "SetID": "ba1m2fc",
       "Name": "Winds of Destruction",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
       "UsersEstimate": 69
     },
@@ -888,14 +893,14 @@
     {
       "ID": "ba1m2fc",
       "IsBase": true,
-      "Progressed": 112,
+      "Progressed": 113,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-11-30T10:07:26.6483101+00:00",
+  "LastChanged_Achievements": "2023-11-30T11:06:32.2476583+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:16.1827945+00:00",
-  "LastUpdate_Ratings": "2023-11-30T09:59:08.4364626+00:00",
-  "LastUpdate_Achievements": "2023-11-30T10:07:26.6483623+00:00"
+  "LastUpdate_Ratings": "2023-11-30T10:58:52.1915352+00:00",
+  "LastUpdate_Achievements": "2023-11-30T11:06:32.247706+00:00"
 }

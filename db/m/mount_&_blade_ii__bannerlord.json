@@ -9282,9 +9282,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 66669,
+  "EOS_Progressed": 66670,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 926,
+  "EOS_NewPlayers": 919,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32902,6 +32902,11 @@
       "Time": "2023-11-30T10:10:29.5140126+00:00",
       "NumProgressed": 66669,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T11:10:00.5738232+00:00",
+      "NumProgressed": 66670,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -32969,7 +32974,7 @@
       "Name": "Crowdfunded",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3333
+      "UsersEstimate": 3334
     },
     {
       "ID": "Crackshot",
@@ -32985,7 +32990,7 @@
       "Name": "Crush your enemies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3333
+      "UsersEstimate": 3334
     },
     {
       "ID": "Duelist",
@@ -33105,7 +33110,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 12000
+      "UsersEstimate": 12001
     },
     {
       "ID": "Kingslayer",
@@ -33193,7 +33198,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3333
+      "UsersEstimate": 3334
     },
     {
       "ID": "Real Estate",
@@ -33320,15 +33325,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 66669,
+      "Progressed": 66670,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-30T10:01:47.1891263+00:00",
-  "LastChanged_Achievements": "2023-11-30T10:10:29.5140124+00:00",
+  "LastChanged_Achievements": "2023-11-30T11:10:00.5738228+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:24.2741585+00:00",
-  "LastUpdate_Ratings": "2023-11-30T10:01:47.1891268+00:00",
-  "LastUpdate_Achievements": "2023-11-30T10:10:29.5141231+00:00"
+  "LastUpdate_Ratings": "2023-11-30T11:00:42.1208397+00:00",
+  "LastUpdate_Achievements": "2023-11-30T11:10:00.5739709+00:00"
 }
