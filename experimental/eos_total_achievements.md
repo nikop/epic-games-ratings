@@ -433,6 +433,7 @@
 | [Ad Infinitum](../games/a/ad_infinitum.md) | 29 | 1,000 |
 | [Airoheart](../games/a/airoheart.md) | 29 | 1,000 |
 | [ArcRunner](../games/a/arcrunner.md) | 29 | 1,150 |
+| [Black Academy](../games/5/5bc5fe63f152435caf6a316d66bc87e3.md) | 29 | 1,000 |
 | [BROK the InvestiGator](../games/b/brok_the_investigator.md) | 29 | 1,000 |
 | [De-Exit - Eternal Matters](../games/d/de-exit_-_eternal_matters.md) | 29 | 1,000 |
 | [Filament](../games/f/filament.md) | 29 | 1,000 |

@@ -128,6 +128,7 @@
 | [Battlefield™ 2042](../games/b/battlefield™_2042.md) | 34 | 1,000 |
 | [Beach Invasion 1944](../games/b/beach_invasion_1944.md) | 40 | 1,000 |
 | [Biped](../games/b/biped.md) | 15 | 1,000 |
+| [Black Academy](../games/5/5bc5fe63f152435caf6a316d66bc87e3.md) | 29 | 1,000 |
 | [Black Book](../games/b/black_book.md) | 50 | 1,000 |
 | [Black Widow: Recharged](../games/b/black_widow__recharged.md) | 14 | 1,000 |
 | [BLACKTAIL](../games/b/blacktail.md) | 32 | 1,000 |
