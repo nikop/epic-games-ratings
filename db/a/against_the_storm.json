@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 3628,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3255,10 +3255,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 3235,
       "NumberOfAwardsMax": 441
+    },
+    {
+      "Time": "2023-11-30T20:00:49.1752541+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 3236,
+      "NumberOfAwardsMax": 441
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3235,
+  "NumberOfAwards": 3236,
   "NumberOfAwardsMax": 441,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3320,7 +3326,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 326
+      "Count": 327
     }
   ],
   "EOS_Progressed": 17539,
@@ -14754,9 +14760,9 @@
       "ID": "WinNearWatchtower",
       "SetID": "cfbk359",
       "Name": "Watchtower",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "WinOnCoral",
@@ -14922,9 +14928,9 @@
       "ID": "WinNearLibrary",
       "SetID": "cfbk359",
       "Name": "Overgrown Library",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 351
     },
     {
       "ID": "WinNearPetrified",
@@ -14977,9 +14983,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-11-29T19:58:59.3865694+00:00",
-  "LastChanged_Achievements": "2023-11-30T19:09:10.9088309+00:00",
+  "LastChanged": "2023-11-30T20:00:49.175254+00:00",
+  "LastChanged_Achievements": "2023-11-30T20:09:10.3918182+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:56.4973761+00:00",
-  "LastUpdate_Ratings": "2023-11-30T19:00:56.2093488+00:00",
-  "LastUpdate_Achievements": "2023-11-30T19:09:10.909012+00:00"
+  "LastUpdate_Ratings": "2023-11-30T20:00:49.1752545+00:00",
+  "LastUpdate_Achievements": "2023-11-30T20:09:10.3919131+00:00"
 }

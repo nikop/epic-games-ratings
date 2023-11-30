@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -3166,9 +3166,9 @@
       "ID": "13",
       "SetID": "d0g98p",
       "Name": "Extinct Again!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 408
+      "UsersEstimate": 420
     },
     {
       "ID": "14",
@@ -3543,8 +3543,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-11-30T19:08:05.0011135+00:00",
+  "LastChanged_Achievements": "2023-11-30T20:07:48.621977+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:10.1400559+00:00",
-  "LastUpdate_Ratings": "2023-11-30T18:58:18.312268+00:00",
-  "LastUpdate_Achievements": "2023-11-30T19:08:05.0012006+00:00"
+  "LastUpdate_Ratings": "2023-11-30T19:58:27.5288732+00:00",
+  "LastUpdate_Achievements": "2023-11-30T20:07:48.6220284+00:00"
 }

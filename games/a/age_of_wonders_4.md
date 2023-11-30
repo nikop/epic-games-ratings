@@ -37,9 +37,9 @@ Rating: 4.61 (Ranked 387)
 | Dawn of the Dread | 1.00% | ~55 |
 | Preparation Is Everything | 0.90% | ~50 |
 | Blood of the Dragon | 0.90% | ~50 |
+| Prometheus Avenged | 0.90% | ~50 |
 | Arch Mage | 0.80% | ~44 |
 | Crimson Caldera | 0.80% | ~44 |
-| Prometheus Avenged | 0.80% | ~44 |
 | A Conqueror's Cohort | 0.80% | ~44 |
 | The Creator | 0.70% | ~39 |
 | Lord of Chaos | 0.60% | ~33 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 387)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,548 (Ranked 189)  
+Progressed: 5,549 (Ranked 189)  
 Completed: 7 (0.13%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 7 (0.13%) (Ranked 272)
 | 2023-11-27 | 5,524 | 7 |
 | 2023-11-28 | 5,536 | 7 |
 | 2023-11-29 | 5,544 | 7 |
-| 2023-11-30 | 5,548 | 7 |
+| 2023-11-30 | 5,549 | 7 |
 ## Awards
 Max (Great for Beginners): 35  (Ranked 477)  
 Sum: 84 (Ranked 461)  

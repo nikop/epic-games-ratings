@@ -11,20 +11,20 @@ Number of Ratings: 892  (23.09.2022)
 | Greeno-B-Gone | 122.00% | ~593 |
 | Super Spelunker | 119.00% | ~578 |
 | Your Especially Earned Trajectory | 100.00% | ~486 |
-| The Little Wood that Could | 90.00% | ~437 |
+| The Little Wood that Could | 91.00% | ~442 |
 | On that Grindset | 77.00% | ~374 |
 | One of the Cool Kids | 76.00% | ~369 |
 | No Mountain Wide Enough | 75.00% | ~364 |
 | Yakmel Whisperer | 73.00% | ~355 |
-| Diamonds are Forever | 70.00% | ~340 |
+| Diamonds are Forever | 71.00% | ~345 |
+| Pack Mule | 69.00% | ~335 |
 | Can We Keep It? | 69.00% | ~335 |
-| Pack Mule | 68.00% | ~330 |
 | I Do! | 66.00% | ~321 |
 | Unboxing | 63.00% | ~306 |
 | First Love | 62.00% | ~301 |
 | Chatterbox | 61.00% | ~296 |
 | Financially Secure | 60.00% | ~292 |
-| Big Game Hunter | 58.00% | ~282 |
+| Big Game Hunter | 59.00% | ~287 |
 | Got Served | 58.00% | ~282 |
 | Builder of the Month | 55.00% | ~267 |
 | Better Late than Never | 55.00% | ~267 |
@@ -32,7 +32,7 @@ Number of Ratings: 892  (23.09.2022)
 | Panda-kin | 54.00% | ~262 |
 | Officially Official | 54.00% | ~262 |
 | Elementary, My Dear | 54.00% | ~262 |
-| Happier-est Place on Earth | 53.00% | ~258 |
+| Happier-est Place on Earth | 54.00% | ~262 |
 | You Don't Win Friends With Salad | 53.00% | ~258 |
 | Knowledge is Power | 52.00% | ~253 |
 | What Plants Crave | 52.00% | ~253 |
@@ -40,16 +40,16 @@ Number of Ratings: 892  (23.09.2022)
 | Waste Not Want Not | 52.00% | ~253 |
 | Commissions, commissions...! | 51.00% | ~248 |
 | Martle's Dream | 51.00% | ~248 |
+| Lifeline Pipeline | 51.00% | ~248 |
 | Call Me Fishmael | 51.00% | ~248 |
-| Lifeline Pipeline | 50.00% | ~243 |
 | Finishing Touches | 48.00% | ~233 |
 | Bridging the Gap | 47.00% | ~228 |
 | Got the Flow Back | 43.00% | ~209 |
 | My Time Mansion | 40.00% | ~194 |
 | Sepia Toned Memories | 40.00% | ~194 |
 | Who Ya Gonna Call...? | 40.00% | ~194 |
+| Jewel of the Eufaula | 39.00% | ~190 |
 | Time Flies | 38.00% | ~185 |
-| Jewel of the Eufaula | 38.00% | ~185 |
 | Kind of a Big Deal | 35.00% | ~170 |
 | He Can Spin A Yarn... | 34.00% | ~165 |
 | Just What I Always Wanted! | 34.00% | ~165 |

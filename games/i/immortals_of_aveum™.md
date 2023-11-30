@@ -11,7 +11,7 @@ Rating: 4.05 (Ranked 987)
 | Maybe Engage a Little | 80.00% | ~255 |
 | No More Names | 69.00% | ~220 |
 | Initiate | 56.00% | ~179 |
-| Thrada-Kul | 51.00% | ~163 |
+| Thrada-Kul | 52.00% | ~166 |
 | Gravity-Challenged Rocks | 43.00% | ~137 |
 | Soldier | 37.00% | ~118 |
 | All the Major Food Groups | 36.00% | ~115 |
@@ -19,8 +19,8 @@ Rating: 4.05 (Ranked 987)
 | Control is an Illusion | 30.00% | ~96 |
 | Socialite | 30.00% | ~96 |
 | The Means to Save It | 24.00% | ~77 |
-| Resilience to Sin | 21.00% | ~67 |
-| A Familiar Nest | 20.00% | ~64 |
+| Resilience to Sin | 22.00% | ~70 |
+| A Familiar Nest | 21.00% | ~67 |
 | Geas Aristeya | 20.00% | ~64 |
 | Periapt Alizarin | 20.00% | ~64 |
 | A Perfect Cycle | 18.00% | ~57 |

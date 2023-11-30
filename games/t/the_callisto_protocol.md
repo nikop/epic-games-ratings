@@ -34,9 +34,9 @@ Rating: 4.19 (Ranked 927)
 | Big Spender | 1.00% | ~44 |
 | This Isn't About Escape | 1.00% | ~44 |
 | Armed to the Teeth | 0.90% | ~40 |
+| Parole Denied | 0.80% | ~35 |
 | Information Overload | 0.80% | ~35 |
 | Grim Reaper | 0.70% | ~115 |
-| Parole Denied | 0.70% | ~31 |
 | Mugshot | 0.60% | ~99 |
 | Instigator | 0.60% | ~27 |
 | Quick Pick | 0.60% | ~27 |

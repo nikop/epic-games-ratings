@@ -4,7 +4,7 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 466,
+  "EOS_Progressed": 467,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1255,6 +1255,11 @@
       "Time": "2023-11-30T18:08:56.8754142+00:00",
       "NumProgressed": 466,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T20:09:08.7955389+00:00",
+      "NumProgressed": 467,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1265,9 +1270,9 @@
       "ID": "AchvActivateProbe",
       "SetID": "1hj060c",
       "Name": "The Teleprobe",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 201
     },
     {
       "ID": "AchvAllMemories",
@@ -1433,9 +1438,9 @@
       "ID": "AchvReachBase",
       "SetID": "1hj060c",
       "Name": "The field base",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 159
     },
     {
       "ID": "AchvReachCamp",
@@ -1443,7 +1448,7 @@
       "Name": "The Camp",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "AchvReachCity",
@@ -1459,7 +1464,7 @@
       "Name": "The Condor",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "AchvSurvivors",
@@ -1467,7 +1472,7 @@
       "Name": "Survivors",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -1498,14 +1503,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 466,
+      "Progressed": 467,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-30T19:09:09.2648604+00:00",
+  "LastChanged_Achievements": "2023-11-30T20:09:08.7955384+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-11-30T19:00:25.9677093+00:00",
-  "LastUpdate_Achievements": "2023-11-30T19:09:09.2649002+00:00"
+  "LastUpdate_Ratings": "2023-11-30T20:00:21.8756386+00:00",
+  "LastUpdate_Achievements": "2023-11-30T20:09:08.7955648+00:00"
 }

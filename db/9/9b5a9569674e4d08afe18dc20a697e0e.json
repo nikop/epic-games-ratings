@@ -2,7 +2,7 @@
   "ID": "9b5a9569674e4d08afe18dc20a697e0e",
   "Name": "Aron\u0027s Adventure: Magic Reborn",
   "ProductSlug": "arons-adventure-1e76cd",
-  "Ranking_EOS_Progress": 417,
+  "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 138,
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 122,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -524,9 +524,9 @@
       "ID": "DISCIPLE",
       "SetID": "40o4f14",
       "Name": "Disciple",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "DRAGON",
@@ -739,8 +739,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-30T19:07:32.8551907+00:00",
+  "LastChanged_Achievements": "2023-11-30T20:07:18.7503734+00:00",
   "LastUpdate_AppInfo": "2023-11-30T01:44:08.4871505+00:00",
-  "LastUpdate_Ratings": "2023-11-30T19:00:14.4682584+00:00",
-  "LastUpdate_Achievements": "2023-11-30T19:07:32.8552287+00:00"
+  "LastUpdate_Ratings": "2023-11-30T20:00:11.0859054+00:00",
+  "LastUpdate_Achievements": "2023-11-30T20:07:18.750394+00:00"
 }

@@ -5,24 +5,24 @@ Rating: 4.46 (Ranked 650)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 23.00% | ~5,260 |
-| Sector 2 | 21.00% | ~4,803 |
-| Crush That Cube! | 18.00% | ~4,117 |
-| Sector 3 | 18.00% | ~4,117 |
-| Sector 4 | 15.00% | ~3,430 |
-| Crush That Ball! | 14.00% | ~3,202 |
-| Sector 5 | 9.00% | ~2,058 |
-| Sector 6 | 8.00% | ~1,830 |
-| Feeling the Blues | 6.00% | ~1,372 |
-| Squished | 6.00% | ~1,372 |
-| Finale | 6.00% | ~1,372 |
-| Sector 7 | 6.00% | ~1,372 |
+| Sector 1 | 23.00% | ~5,264 |
+| Sector 2 | 21.00% | ~4,806 |
+| Crush That Cube! | 18.00% | ~4,120 |
+| Sector 3 | 18.00% | ~4,120 |
+| Sector 4 | 15.00% | ~3,433 |
+| Crush That Ball! | 14.00% | ~3,204 |
+| Sector 5 | 9.00% | ~2,060 |
+| Sector 6 | 8.00% | ~1,831 |
+| Feeling the Blues | 6.00% | ~1,373 |
+| Squished | 6.00% | ~1,373 |
+| Finale | 6.00% | ~1,373 |
+| Sector 7 | 6.00% | ~1,373 |
 | Did That Work? -- No! | 5.00% | ~1,144 |
-| Master Room | 3.00% | ~686 |
-| Bronze Trophy | 2.00% | ~457 |
-| Phew! | 2.00% | ~457 |
-| The Puzzle Master | 2.00% | ~457 |
-| Completed It. | 2.00% | ~457 |
+| Master Room | 3.00% | ~687 |
+| Bronze Trophy | 2.00% | ~458 |
+| Phew! | 2.00% | ~458 |
+| The Puzzle Master | 2.00% | ~458 |
+| Completed It. | 2.00% | ~458 |
 | The Collector | 1.00% | ~229 |
 | Master Of The Collectables | 1.00% | ~229 |
 | Gold Trophy | 1.00% | ~229 |
@@ -30,8 +30,8 @@ Rating: 4.46 (Ranked 650)
 | Silver Trophy | 1.00% | ~229 |
 | Maxed Out | 1.00% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,870 (Ranked 137)  
-Completed: 123 (0.54%) (Ranked 202)  
+Progressed: 22,888 (Ranked 137)  
+Completed: 124 (0.54%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -77,14 +77,14 @@ Completed: 123 (0.54%) (Ranked 202)
 | 2023-11-27 | 22,417 | 110 |
 | 2023-11-28 | 22,582 | 115 |
 | 2023-11-29 | 22,743 | 119 |
-| 2023-11-30 | 22,870 | 123 |
+| 2023-11-30 | 22,888 | 124 |
 ## Awards
-Max (Challenging Puzzles): 20  (Ranked 549)  
-Sum: 20 (Ranked 550)  
-Diff (max vs sum): -1  
+Max (Challenging Puzzles): 21  (Ranked 544)  
+Sum: 21 (Ranked 546)  
+Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 20 |
+| This game features Challenging Puzzles | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -119,4 +119,4 @@ Diff (max vs sum): -1
 | 2023-11-24 | 4.43 | 20 | 20 |
 | 2023-11-28 | 4.44 | 20 | 20 |
 | 2023-11-29 | 4.45 | 20 | 20 |
-| 2023-11-30 | 4.46 | 20 | 20 |
+| 2023-11-30 | 4.46 | 21 | 21 |

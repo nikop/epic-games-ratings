@@ -2,12 +2,12 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 908,
-  "Ranking_Popularity": 472,
-  "Ranking_PopularitySum": 442,
+  "Ranking_Rating": 903,
+  "Ranking_Popularity": 463,
+  "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.21,
+  "Rating": 4.22,
   "RatingHistory": [
     {
       "Time": "2023-08-25T11:00:17.1063519+00:00",
@@ -751,11 +751,17 @@
       "Rating": 4.21,
       "NumberOfAwards": 114,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-11-30T20:02:42.6351472+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 116,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 114,
-  "NumberOfAwardsMax": 36,
+  "NumberOfAwards": 116,
+  "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -768,7 +774,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 36
+      "Count": 38
     },
     {
       "Text": "This game has Playful Visuals",
@@ -789,7 +795,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3952,
+  "EOS_Progressed": 3954,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
@@ -6264,6 +6270,11 @@
       "Time": "2023-11-30T18:06:32.5042587+00:00",
       "NumProgressed": 3952,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T20:07:39.0643639+00:00",
+      "NumProgressed": 3954,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -6284,7 +6295,7 @@
       "Name": "Stud Finder",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 1383
+      "UsersEstimate": 1384
     },
     {
       "ID": "achievement_11",
@@ -6292,7 +6303,7 @@
       "Name": "Big Spender",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "achievement_12",
@@ -6300,7 +6311,7 @@
       "Name": "Dealmaker",
       "Percentage": 27,
       "XP": 60,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "achievement_13",
@@ -6308,7 +6319,7 @@
       "Name": "MVP",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "achievement_14",
@@ -6316,7 +6327,7 @@
       "Name": "ROTY",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "achievement_15",
@@ -6372,7 +6383,7 @@
       "Name": "Saw It Coming",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 2292
+      "UsersEstimate": 2293
     },
     {
       "ID": "achievement_21",
@@ -6428,7 +6439,7 @@
       "Name": "Bragging Rights",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 1146
+      "UsersEstimate": 1147
     },
     {
       "ID": "achievement_9",
@@ -6443,16 +6454,16 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3952,
+      "Progressed": 3954,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-18T01:36:55.7733992+00:00",
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged": "2023-11-29T22:59:56.0698665+00:00",
-  "LastChanged_Achievements": "2023-11-30T19:07:54.983105+00:00",
+  "LastChanged": "2023-11-30T20:02:42.6351469+00:00",
+  "LastChanged_Achievements": "2023-11-30T20:07:39.0643634+00:00",
   "LastUpdate_AppInfo": "2023-11-30T06:57:22.8292477+00:00",
-  "LastUpdate_Ratings": "2023-11-30T19:02:35.6913823+00:00",
-  "LastUpdate_Achievements": "2023-11-30T19:07:54.9831686+00:00"
+  "LastUpdate_Ratings": "2023-11-30T20:02:42.6351475+00:00",
+  "LastUpdate_Achievements": "2023-11-30T20:07:39.0644032+00:00"
 }

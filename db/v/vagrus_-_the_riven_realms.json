@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 203,
+  "EOS_Progressed": 204,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -781,6 +781,11 @@
       "Time": "2023-11-30T12:04:05.6408122+00:00",
       "NumProgressed": 203,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T20:04:28.8212763+00:00",
+      "NumProgressed": 204,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -1344,7 +1349,7 @@
       "Name": "Press-ganged",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1470,9 +1475,9 @@
       "ID": "Vanilla_ThePackage",
       "SetID": "27kik8p",
       "Name": "The Package",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "Vanilla_ThePilgrimageEnds",
@@ -1583,7 +1588,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 203,
+      "Progressed": 204,
       "Completed": 0
     }
   ],
@@ -1591,8 +1596,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-11-30T19:04:31.3339319+00:00",
+  "LastChanged_Achievements": "2023-11-30T20:04:28.8212757+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:54.8906494+00:00",
-  "LastUpdate_Ratings": "2023-11-30T19:00:22.5329607+00:00",
-  "LastUpdate_Achievements": "2023-11-30T19:04:31.3341131+00:00"
+  "LastUpdate_Ratings": "2023-11-30T20:00:18.3322624+00:00",
+  "LastUpdate_Achievements": "2023-11-30T20:04:28.8213692+00:00"
 }

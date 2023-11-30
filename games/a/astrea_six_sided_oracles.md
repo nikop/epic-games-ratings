@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 54.00% | ~51 |
-| Purification Pioneer | 52.00% | ~49 |
-| Mechanical Buddy | 49.00% | ~46 |
-| Dicesmithing Time! | 48.00% | ~45 |
-| Endless Tricks | 44.00% | ~41 |
-| Sanctuary Guardian | 43.00% | ~40 |
+| Meissa's Savior | 55.00% | ~52 |
+| Purification Pioneer | 53.00% | ~50 |
+| Mechanical Buddy | 49.00% | ~47 |
+| Dicesmithing Time! | 48.00% | ~46 |
+| Endless Tricks | 43.00% | ~41 |
+| Sanctuary Guardian | 43.00% | ~41 |
 | Mind Illuminator | 37.00% | ~35 |
 | Wild's Keeper | 37.00% | ~35 |
 | Noctuan Champion | 36.00% | ~34 |
 | Stellar Dismantler | 33.00% | ~31 |
-| Eridanian Champion | 30.00% | ~28 |
-| Lacertian Champion | 30.00% | ~28 |
-| Anomaly Destroyer | 29.00% | ~27 |
-| Apian Champion | 26.00% | ~24 |
+| Eridanian Champion | 29.00% | ~28 |
+| Lacertian Champion | 29.00% | ~28 |
+| Anomaly Destroyer | 28.00% | ~27 |
+| Apian Champion | 25.00% | ~24 |
 | Astral Adventurer | 24.00% | ~23 |
 | Star Killer | 24.00% | ~23 |
 | Loyal Partner | 23.00% | ~22 |
@@ -33,10 +33,10 @@
 | The Goddes Avatar | 13.00% | ~12 |
 | Sadistic Plan | 12.00% | ~11 |
 | Heavy Purger | 11.00% | ~10 |
-| Wave Bender | 10.00% | ~9 |
-| Apian Hero | 10.00% | ~9 |
-| Anomaly Control | 9.00% | ~8 |
-| Lacertian Hero | 9.00% | ~8 |
+| Wave Bender | 9.00% | ~9 |
+| Apian Hero | 9.00% | ~9 |
+| Anomaly Control | 8.00% | ~8 |
+| Lacertian Hero | 8.00% | ~8 |
 | Artificer | 7.00% | ~7 |
 | Can't touch this | 7.00% | ~7 |
 | The Chaos Artisan | 7.00% | ~7 |
@@ -103,7 +103,7 @@
 | The world goes round... | 0.00% | ~0 |
 | Unepic Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94 (Ranked 446)  
+Progressed: 95 (Ranked 444)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,3 +145,4 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-27 | 90 | 0 |
 | 2023-11-28 | 92 | 0 |
 | 2023-11-29 | 94 | 0 |
+| 2023-11-30 | 95 | 0 |

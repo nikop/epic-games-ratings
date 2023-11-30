@@ -4,7 +4,7 @@
   "ProductSlug": "100-doors-escape-from-prison-1e0ba3",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 362,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 17.96,
   "EosHistory": [
@@ -1439,9 +1439,9 @@
       "ID": "ach_complete_10",
       "SetID": "5e260i9",
       "Name": "Clever thinking!",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 100,
-      "UsersEstimate": 293
+      "UsersEstimate": 297
     },
     {
       "ID": "ach_complete_30",
@@ -1534,8 +1534,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-11-30T19:08:53.5883821+00:00",
+  "LastChanged_Achievements": "2023-11-30T20:08:54.4490748+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.3167471+00:00",
-  "LastUpdate_Ratings": "2023-11-30T19:02:48.0412611+00:00",
-  "LastUpdate_Achievements": "2023-11-30T19:08:53.5884088+00:00"
+  "LastUpdate_Ratings": "2023-11-30T20:02:53.8488824+00:00",
+  "LastUpdate_Achievements": "2023-11-30T20:08:54.4491235+00:00"
 }

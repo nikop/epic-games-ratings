@@ -4,7 +4,7 @@
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1030,
+  "EOS_Progressed": 1031,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 0,
@@ -2237,6 +2237,11 @@
       "Time": "2023-11-30T19:10:19.1657685+00:00",
       "NumProgressed": 1030,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-30T20:10:14.0403441+00:00",
+      "NumProgressed": 1031,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-10-23T06:09:19.5228409+00:00",
@@ -2273,7 +2278,7 @@
       "Name": "No Bites",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "EV_ACH05",
@@ -2289,7 +2294,7 @@
       "Name": "A Tragic Reminder",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "EV_ACH07",
@@ -2297,7 +2302,7 @@
       "Name": "3000 Year Blackout",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "EV_ACH08",
@@ -2345,7 +2350,7 @@
       "Name": "It Is Not Over",
       "Percentage": 34,
       "XP": 90,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "EV_ACH14",
@@ -2361,7 +2366,7 @@
       "Name": "Better On Ice",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "EV_ACH16",
@@ -2369,7 +2374,7 @@
       "Name": "Krugmazing",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "EV_ACH17",
@@ -2377,7 +2382,7 @@
       "Name": "Iceborn",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "EV_ACH18",
@@ -2393,15 +2398,15 @@
       "Name": "On The Rocks",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "EV_ACH20",
       "SetID": "6jeac23",
       "Name": "True Legends",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 412
+      "UsersEstimate": 402
     },
     {
       "ID": "EV_ACH21",
@@ -2433,7 +2438,7 @@
       "Name": "Never Gets Old",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "EV_ACH25",
@@ -2449,7 +2454,7 @@
       "Name": "Moneyball",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "EV_ACH27",
@@ -2457,7 +2462,7 @@
       "Name": "I Broke It",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "EV_ACH28",
@@ -2489,7 +2494,7 @@
       "Name": "Feels Familiar",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "EV_ACH32",
@@ -2505,7 +2510,7 @@
       "Name": "Notai Notes",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "EV_ACH34",
@@ -2521,7 +2526,7 @@
       "Name": "The Fire Below the Mountain",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "EV_ACH36",
@@ -2600,14 +2605,14 @@
     {
       "ID": "6jeac23",
       "IsBase": true,
-      "Progressed": 1030,
+      "Progressed": 1031,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-30T19:10:19.1657683+00:00",
+  "LastChanged_Achievements": "2023-11-30T20:10:14.0403436+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:19.9678993+00:00",
-  "LastUpdate_Ratings": "2023-11-30T19:01:54.4351036+00:00",
-  "LastUpdate_Achievements": "2023-11-30T19:10:19.1658251+00:00"
+  "LastUpdate_Ratings": "2023-11-30T20:01:43.0338686+00:00",
+  "LastUpdate_Achievements": "2023-11-30T20:10:14.0403842+00:00"
 }

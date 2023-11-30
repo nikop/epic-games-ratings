@@ -2,9 +2,9 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 276,
+  "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 811,
+  "EOS_Progressed": 812,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 5.43,
+  "EOS_Completed_Percentage": 5.42,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3305,6 +3305,11 @@
       "Time": "2023-11-30T18:05:54.1867839+00:00",
       "NumProgressed": 811,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-11-30T20:06:49.2280518+00:00",
+      "NumProgressed": 812,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 25,
@@ -3348,15 +3353,15 @@
       "Name": "A good beginning",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 154
+      "UsersEstimate": 162
     },
     {
       "ID": "META_RESULT_1-2",
@@ -3420,7 +3425,7 @@
       "Name": "Rascal",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -3428,7 +3433,7 @@
       "Name": "True G3M4R",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -3484,7 +3489,7 @@
       "Name": "The great escape",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "PROGRESS_N3",
@@ -3500,7 +3505,7 @@
       "Name": "The darkness",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "PROGRESS_N5",
@@ -3515,14 +3520,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 811,
+      "Progressed": 812,
       "Completed": 44
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-30T19:07:00.4833401+00:00",
+  "LastChanged_Achievements": "2023-11-30T20:06:49.2280513+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-11-30T18:59:44.4727085+00:00",
-  "LastUpdate_Achievements": "2023-11-30T19:07:00.4834039+00:00"
+  "LastUpdate_Ratings": "2023-11-30T19:59:45.6729373+00:00",
+  "LastUpdate_Achievements": "2023-11-30T20:06:49.2280868+00:00"
 }

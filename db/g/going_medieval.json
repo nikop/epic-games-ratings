@@ -1537,7 +1537,7 @@
   ],
   "EOS_Progressed": 7041,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -13939,9 +13939,9 @@
       "ID": "SURVIVE_FIRST_DAY",
       "SetID": "5349c2e",
       "Name": "The First Day",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 4858
+      "UsersEstimate": 4929
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -14035,8 +14035,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-11-30T18:00:41.6530659+00:00",
-  "LastChanged_Achievements": "2023-11-30T19:03:46.0634048+00:00",
+  "LastChanged_Achievements": "2023-11-30T20:03:45.3834085+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:23.1121034+00:00",
   "LastUpdate_Ratings": "2023-11-30T19:02:28.2522897+00:00",
-  "LastUpdate_Achievements": "2023-11-30T19:03:46.0635434+00:00"
+  "LastUpdate_Achievements": "2023-11-30T20:03:45.3835076+00:00"
 }

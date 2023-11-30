@@ -2,7 +2,7 @@
   "ID": "3e8745caaecf4adb9e358de5df7b8a41",
   "Name": "Infindustry",
   "ProductSlug": "infindustry-cccc40",
-  "Ranking_EOS_Progress": 417,
+  "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 138,
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 122,
+  "EOS_Progressed": 123,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.82,
+  "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
     {
       "Time": "2023-04-26T07:04:01.8730008+00:00",
@@ -629,6 +629,11 @@
       "Time": "2023-11-29T17:03:17.685144+00:00",
       "NumProgressed": 122,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T20:04:21.3408712+00:00",
+      "NumProgressed": 123,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 12,
@@ -735,14 +740,14 @@
     {
       "ID": "82ojhod",
       "IsBase": true,
-      "Progressed": 122,
+      "Progressed": 123,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-11-30T19:04:23.436564+00:00",
+  "LastChanged_Achievements": "2023-11-30T20:04:21.3408706+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:17.5561637+00:00",
-  "LastUpdate_Ratings": "2023-11-30T19:00:36.8310853+00:00",
-  "LastUpdate_Achievements": "2023-11-30T19:04:23.4365792+00:00"
+  "LastUpdate_Ratings": "2023-11-30T20:00:31.5205099+00:00",
+  "LastUpdate_Achievements": "2023-11-30T20:04:21.3408832+00:00"
 }

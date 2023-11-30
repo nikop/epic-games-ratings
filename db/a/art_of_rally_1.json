@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10327,
+  "EOS_Progressed": 10328,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1919,6 +1919,11 @@
       "Time": "2023-11-29T19:04:57.5083344+00:00",
       "NumProgressed": 10327,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-30T20:06:10.793037+00:00",
+      "NumProgressed": 10328,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -2042,7 +2047,7 @@
       "Name": "rwd only",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2788
+      "UsersEstimate": 2789
     },
     {
       "ID": "ACH_COMPLETE_GROUP4",
@@ -2050,7 +2055,7 @@
       "Name": "turbo",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2065
+      "UsersEstimate": 2066
     },
     {
       "ID": "ACH_COMPLETE_GROUPA",
@@ -2090,7 +2095,7 @@
       "Name": "keep it tidy",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 8055
+      "UsersEstimate": 8056
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -2138,7 +2143,7 @@
       "Name": "brail",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5886
+      "UsersEstimate": 5887
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -2154,7 +2159,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9914
+      "UsersEstimate": 9915
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -2170,7 +2175,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6196
+      "UsersEstimate": 6197
     },
     {
       "ID": "ACH_NIGHT",
@@ -2242,7 +2247,7 @@
       "Name": "food tour: pretzel",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2065
+      "UsersEstimate": 2066
     },
     {
       "ID": "ACH_TOUR_ITALY",
@@ -2250,7 +2255,7 @@
       "Name": "food tour: pasta",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2788
+      "UsersEstimate": 2789
     },
     {
       "ID": "ACH_WEEKLY",
@@ -2266,22 +2271,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7435
+      "UsersEstimate": 7436
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10327,
+      "Progressed": 10328,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-11-30T19:06:19.9425545+00:00",
+  "LastChanged_Achievements": "2023-11-30T20:06:10.7930366+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:05.4868696+00:00",
-  "LastUpdate_Ratings": "2023-11-30T19:01:23.1809103+00:00",
-  "LastUpdate_Achievements": "2023-11-30T19:06:19.9426112+00:00"
+  "LastUpdate_Ratings": "2023-11-30T20:01:13.9441343+00:00",
+  "LastUpdate_Achievements": "2023-11-30T20:06:10.7930765+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -1771,9 +1771,9 @@
       "ID": "OFFICE_CLERK",
       "SetID": "8eejhlh",
       "Name": "Office Clerk",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 193
+      "UsersEstimate": 200
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -1828,8 +1828,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-11-30T19:09:07.7262594+00:00",
+  "LastChanged_Achievements": "2023-11-30T20:09:07.3684818+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.6156226+00:00",
-  "LastUpdate_Ratings": "2023-11-30T19:00:42.4227126+00:00",
-  "LastUpdate_Achievements": "2023-11-30T19:09:07.726299+00:00"
+  "LastUpdate_Ratings": "2023-11-30T20:00:36.5584983+00:00",
+  "LastUpdate_Achievements": "2023-11-30T20:09:07.3684991+00:00"
 }

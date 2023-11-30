@@ -6,14 +6,15 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Overgrown Library | 2.00% | ~351 |
 | Abandoned Settlement | 1.00% | ~175 |
 | Frosts | 1.00% | ~175 |
-| Overgrown Library | 1.00% | ~175 |
 | Petrified Necropolis | 1.00% | ~175 |
 | Ominous Presence | 1.00% | ~175 |
 | Gathering Storm | 1.00% | ~175 |
 | Land of Greed | 0.90% | ~158 |
 | Untamed Wilds | 0.80% | ~140 |
+| Watchtower | 0.20% | ~35 |
 | Serving Ale | 0.10% | ~18 |
 | Feeding The People | 0.10% | ~18 |
 | Human Utopia | 0.10% | ~18 |
@@ -42,7 +43,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Statue of the Forefathers | 0.10% | ~18 |
 | Forsaken Gods Temple | 0.10% | ~18 |
 | Corrosive Torrent | 0.10% | ~18 |
-| Watchtower | 0.10% | ~18 |
 | Coral Forest | 0.10% | ~18 |
 | Cursed Lands | 0.10% | ~18 |
 | The Marshlands | 0.10% | ~18 |
@@ -293,7 +293,7 @@ Completed: 49 (0.28%) (Ranked 242)
 | 2023-11-30 | 17,539 | 51 |
 ## Awards
 Max (Quickly Understood Controls): 441  (Ranked 223)  
-Sum: 3,235 (Ranked 173)  
+Sum: 3,236 (Ranked 173)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -302,7 +302,7 @@ Diff (max vs sum): 50
 | This game is Great for Beginners | 421 |
 | This game is Extremely Fun | 407 |
 | This game is Highly Recommended | 390 |
-| This game has Unique Visuals | 326 |
+| This game has Unique Visuals | 327 |
 | This game has Amazing Storytelling | 318 |
 | This game has Amazing Characters | 286 |
 | This game has Obsessive Gameplay | 254 |
@@ -550,3 +550,4 @@ Diff (max vs sum): 50
 | 2023-11-26 | 4.81 | - | 440 | 3,231 |
 | 2023-11-27 | 4.81 | - | 441 | 3,232 |
 | 2023-11-29 | 4.81 | - | 441 | 3,235 |
+| 2023-11-30 | 4.81 | - | 441 | 3,236 |

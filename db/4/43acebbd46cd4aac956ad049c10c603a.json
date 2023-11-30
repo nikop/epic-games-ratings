@@ -3,11 +3,11 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 43,
-  "Ranking_Popularity": 467,
+  "Ranking_Popularity": 468,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -163,9 +163,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 793,
+  "EOS_Progressed": 795,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 290,
+  "EOS_NewPlayers": 286,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1768,6 +1768,11 @@
       "Time": "2023-11-30T19:03:52.4098776+00:00",
       "NumProgressed": 793,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T20:03:51.5182975+00:00",
+      "NumProgressed": 795,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1810,9 +1815,9 @@
       "ID": "Balance",
       "SetID": "1n308hc",
       "Name": "Balance",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BecomingSmarter",
@@ -1834,9 +1839,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 48
     },
     {
       "ID": "ChasingTheLight",
@@ -1938,9 +1943,9 @@
       "ID": "HighPlain",
       "SetID": "1n308hc",
       "Name": "High Plain",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "IntoTheMachine",
@@ -2010,9 +2015,9 @@
       "ID": "NewBeginning",
       "SetID": "1n308hc",
       "Name": "A New Beginning",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NewMorality",
@@ -2186,9 +2191,9 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 56
     },
     {
       "ID": "TouchGrass",
@@ -2226,9 +2231,9 @@
       "ID": "WesternDelta",
       "SetID": "1n308hc",
       "Name": "Western Delta",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "WoodedPlateau",
@@ -2251,7 +2256,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 793,
+      "Progressed": 795,
       "Completed": 1
     }
   ],
@@ -2259,8 +2264,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-29T18:59:07.9515154+00:00",
-  "LastChanged_Achievements": "2023-11-30T19:03:52.4098774+00:00",
+  "LastChanged_Achievements": "2023-11-30T20:03:51.5182969+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-11-30T19:00:32.360483+00:00",
-  "LastUpdate_Achievements": "2023-11-30T19:03:52.4099422+00:00"
+  "LastUpdate_Ratings": "2023-11-30T20:00:27.5210166+00:00",
+  "LastUpdate_Achievements": "2023-11-30T20:03:51.5183952+00:00"
 }

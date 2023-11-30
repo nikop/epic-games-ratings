@@ -6,15 +6,15 @@
 | ---- | ---------- | ----- |
 | Air Fighter | 90.00% | ~26 |
 | Act of Kindness | 90.00% | ~26 |
-| The Altruist | 76.00% | ~22 |
+| The Altruist | 79.00% | ~23 |
 | Oo-De-Lally | 72.00% | ~21 |
 | Treasure Hunter | 72.00% | ~21 |
 | Watch your Step! | 66.00% | ~19 |
 | Tap Dancing | 62.00% | ~18 |
 | MAX LEVEL | 55.00% | ~16 |
 | Right between the eyes | 48.00% | ~14 |
+| Spring Board | 45.00% | ~13 |
 | Starry Night | 41.00% | ~12 |
-| Spring Board | 41.00% | ~12 |
 | Savior | 38.00% | ~11 |
 | Rebel Unleashed | 38.00% | ~11 |
 | Merry Co-operation | 34.00% | ~10 |

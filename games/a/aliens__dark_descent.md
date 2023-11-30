@@ -39,7 +39,7 @@ Rating: 4.50 (Ranked 594)
 | The Cable Guy | 21.00% | ~783 |
 | Bandage Lover | 20.00% | ~746 |
 | Regicide | 17.00% | ~634 |
-| This Went Smoothly | 14.00% | ~522 |
+| This Went Smoothly | 15.00% | ~559 |
 | Flawless Victory | 13.00% | ~485 |
 | Heavy Steps | 13.00% | ~485 |
 | Perfect Enhancements | 10.00% | ~373 |
@@ -212,9 +212,9 @@ Completed: 3 (0.08%) (Ranked 297)
 | 2023-11-29 | 3,725 | 3 |
 | 2023-11-30 | 3,728 | 3 |
 ## Awards
-Max (Great Boss Battles): 36  (Ranked 472)  
+Max (Great Boss Battles): 36  (Ranked 473)  
 Sum: 36 (Ranked 505)  
-Diff (max vs sum): -33  
+Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 36 |

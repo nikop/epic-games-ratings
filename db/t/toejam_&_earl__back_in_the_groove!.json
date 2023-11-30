@@ -6,7 +6,7 @@
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 108,
-  "Ranking_EOS_Completed": 342,
+  "Ranking_EOS_Completed": 343,
   "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58035,
+  "EOS_Progressed": 58036,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13346,6 +13346,11 @@
       "Time": "2023-11-30T19:08:16.5821852+00:00",
       "NumProgressed": 58035,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-30T20:08:19.5154498+00:00",
+      "NumProgressed": 58036,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -13421,7 +13426,7 @@
       "Name": "Fall Fest",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4062
+      "UsersEstimate": 4063
     },
     {
       "ID": "FlyingPresent",
@@ -13693,7 +13698,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4062
+      "UsersEstimate": 4063
     },
     {
       "ID": "TimelySplash",
@@ -13748,7 +13753,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58035,
+      "Progressed": 58036,
       "Completed": 6
     }
   ],
@@ -13756,8 +13761,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-11-30T19:08:16.582185+00:00",
+  "LastChanged_Achievements": "2023-11-30T20:08:19.5154495+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:48.4965941+00:00",
-  "LastUpdate_Ratings": "2023-11-30T18:57:37.9746114+00:00",
-  "LastUpdate_Achievements": "2023-11-30T19:08:16.5823352+00:00"
+  "LastUpdate_Ratings": "2023-11-30T19:57:50.3364273+00:00",
+  "LastUpdate_Achievements": "2023-11-30T20:08:19.5155449+00:00"
 }

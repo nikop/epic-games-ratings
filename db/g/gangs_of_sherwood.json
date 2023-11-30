@@ -4,7 +4,7 @@
   "ProductSlug": "gangs-of-sherwood",
   "Ranking_EOS_Progress": 534,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -451,9 +451,9 @@
       "ID": "ACH_LAUNCH_ENEMY",
       "SetID": "5akmpni",
       "Name": "Spring Board",
-      "Percentage": 41,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_LONG_REBEL_INSTINCT",
@@ -475,9 +475,9 @@
       "ID": "ACH_MONEY_TO_POOR",
       "SetID": "5akmpni",
       "Name": "The Altruist",
-      "Percentage": 76,
+      "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_NO_SIBLINGS",
@@ -593,8 +593,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-11-30T19:04:39.7286904+00:00",
+  "LastChanged_Achievements": "2023-11-30T20:04:36.7752784+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:56.6360588+00:00",
-  "LastUpdate_Ratings": "2023-11-30T19:00:09.2558891+00:00",
-  "LastUpdate_Achievements": "2023-11-30T19:04:39.7287371+00:00"
+  "LastUpdate_Ratings": "2023-11-30T20:00:06.5949341+00:00",
+  "LastUpdate_Achievements": "2023-11-30T20:04:36.7753182+00:00"
 }
