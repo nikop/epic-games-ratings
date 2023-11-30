@@ -28,8 +28,8 @@
 | “… like son” | 41.00% | ~205 |
 | Mana Cannon | 37.00% | ~185 |
 | Dungeonlord Gorgu | 37.00% | ~185 |
+| Shame! Shame! Shame! | 36.00% | ~180 |
 | The Cathedral of Light | 35.00% | ~175 |
-| Shame! Shame! Shame! | 35.00% | ~175 |
 | Tanos' Crusade Against Thalya | 31.00% | ~155 |
 | All’s Well That Ends Evil | 27.00% | ~135 |
 | Unstoppable Horde | 26.00% | ~130 |
@@ -56,8 +56,8 @@
 | The Last Stand - This Time For Real! | 11.00% | ~55 |
 | To the Max! | 10.00% | ~50 |
 | To Infinity And Beyond! | 10.00% | ~50 |
+| Mirror, Mirror | 9.00% | ~45 |
 | Untouchable | 9.00% | ~45 |
-| Mirror, Mirror | 8.00% | ~40 |
 | Evilification | 8.00% | ~40 |
 | Gorgu is in the Best of Health | 7.00% | ~35 |
 | Laser Eyes Are So Useless | 7.00% | ~35 |

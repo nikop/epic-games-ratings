@@ -45,9 +45,9 @@
 | Underground dwellers | 42.00% | ~149 |
 | Responsible approach | 42.00% | ~149 |
 | Deal with life | 41.00% | ~146 |
+| Poisoned fighter | 41.00% | ~146 |
 | Mom got better | 40.00% | ~142 |
 | GYM professional | 40.00% | ~142 |
-| Poisoned fighter | 40.00% | ~142 |
 | The die is cast | 40.00% | ~142 |
 | Get out of my apartment! | 39.00% | ~138 |
 | Seashell hunter | 38.00% | ~135 |

@@ -1,17 +1,18 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.51 (Ranked 572)  
+Rating: 4.51 (Ranked 571)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It wakes | 0.30% | ~3,162 |
+| Skillful | 0.30% | ~3,162 |
+| Handyman | 0.20% | ~2,108 |
 | Zealous | 0.20% | ~2,108 |
 | Not half bad | 0.20% | ~2,108 |
 | Apt Survivor | 0.20% | ~2,108 |
 | Survival Treasures | 0.20% | ~2,108 |
-| Skillful | 0.20% | ~2,108 |
 | I | 0.20% | ~2,108 |
 | Make Some Noise | 0.20% | ~2,108 |
 | The Grand Sacrifice | 0.10% | ~1,054 |
@@ -31,7 +32,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | I've got your back | 0.10% | ~1,054 |
 | No one left behind | 0.10% | ~1,054 |
 | Medic | 0.10% | ~1,054 |
-| Handyman | 0.10% | ~1,054 |
 | Nerves of steel | 0.10% | ~1,054 |
 | Perfect Escape | 0.10% | ~1,054 |
 | Perfect Killing | 0.10% | ~1,054 |
@@ -239,8 +239,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,054 |
 | Adept Good Guy | 0.10% | ~1,054 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,053,910 (Ranked 14)  
-Completed: 61 (0.01%) (Ranked 343)  
+Progressed: 1,054,020 (Ranked 14)  
+Completed: 61 (0.01%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -463,6 +463,7 @@ Completed: 61 (0.01%) (Ranked 343)
 | 2023-11-27 | 1,048,888 | 61 |
 | 2023-11-28 | 1,050,827 | 61 |
 | 2023-11-29 | 1,053,910 | 61 |
+| 2023-11-30 | 1,054,020 | 61 |
 ## Awards
 Max (Diverse Characters): 36,896  (Ranked 15)  
 Sum: 280,728 (Ranked 12)  

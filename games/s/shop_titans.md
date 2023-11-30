@@ -65,6 +65,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Black Friday Special | 2.00% | ~2,858 |
 | Magical Harmony | 2.00% | ~2,858 |
 | Special Ingredient | 2.00% | ~2,858 |
+| Exotic Commodities | 2.00% | ~2,858 |
 | Arcane Industries | 2.00% | ~2,858 |
 | Complete Monopoly | 2.00% | ~2,858 |
 | Cream of the Crop | 1.00% | ~1,429 |
@@ -100,7 +101,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Shadow | 1.00% | ~1,429 |
 | Master Recycler | 1.00% | ~1,429 |
 | All Accounted For | 1.00% | ~1,429 |
-| Exotic Commodities | 1.00% | ~1,429 |
 | Economy of Scarce | 1.00% | ~1,429 |
 | King's Blade | 1.00% | ~1,429 |
 | The Free Encyclopedia | 0.90% | ~1,286 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~429 |
 | Capitalist Camaraderie | 0.20% | ~286 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,879 (Ranked 80)  
-Completed: 289 (0.20%) (Ranked 258)  
+Progressed: 142,881 (Ranked 80)  
+Completed: 289 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -343,6 +343,7 @@ Completed: 289 (0.20%) (Ranked 258)
 | 2023-11-27 | 142,546 | 278 |
 | 2023-11-28 | 142,735 | 284 |
 | 2023-11-29 | 142,879 | 289 |
+| 2023-11-30 | 142,881 | 289 |
 ## Awards
 Max (Great for Beginners): 4,855  (Ranked 75)  
 Sum: 27,625 (Ranked 50)  

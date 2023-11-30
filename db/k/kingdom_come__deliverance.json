@@ -6,7 +6,7 @@
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 17,
-  "Ranking_EOS_Completed": 343,
+  "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
@@ -8919,9 +8919,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 810463,
+  "EOS_Progressed": 810464,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 1031,
+  "EOS_NewPlayers": 1026,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -34039,6 +34039,11 @@
       "Time": "2023-11-29T23:08:25.7714088+00:00",
       "NumProgressed": 810463,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-11-30T00:08:01.3370659+00:00",
+      "NumProgressed": 810464,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 82,
@@ -34138,7 +34143,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 121569
+      "UsersEstimate": 121570
     },
     {
       "ID": "Buddy",
@@ -34250,7 +34255,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 186406
+      "UsersEstimate": 186407
     },
     {
       "ID": "Fighter",
@@ -34705,15 +34710,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 810463,
+      "Progressed": 810464,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-11-29T22:59:17.483203+00:00",
-  "LastChanged_Achievements": "2023-11-29T23:08:25.7714085+00:00",
+  "LastChanged_Achievements": "2023-11-30T00:08:01.3370657+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:02.8106757+00:00",
-  "LastUpdate_Ratings": "2023-11-29T22:59:17.4832038+00:00",
-  "LastUpdate_Achievements": "2023-11-29T23:08:25.7715762+00:00"
+  "LastUpdate_Ratings": "2023-11-29T23:59:18.4364734+00:00",
+  "LastUpdate_Achievements": "2023-11-30T00:08:01.3372422+00:00"
 }

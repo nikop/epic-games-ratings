@@ -2,11 +2,11 @@
   "ID": "611482b8586142cda48a0786eb8a127c",
   "Name": "Dead by Daylight",
   "ProductSlug": "dead-by-daylight",
-  "Ranking_Rating": 572,
+  "Ranking_Rating": 571,
   "Ranking_Popularity": 15,
   "Ranking_PopularitySum": 12,
   "Ranking_EOS_Progress": 14,
-  "Ranking_EOS_Completed": 343,
+  "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 9,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
@@ -13184,9 +13184,9 @@
       "Count": 27339
     }
   ],
-  "EOS_Progressed": 1053910,
+  "EOS_Progressed": 1054020,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 15824,
+  "EOS_NewPlayers": 15851,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -38844,6 +38844,11 @@
       "Time": "2023-11-29T23:09:14.8025029+00:00",
       "NumProgressed": 1053910,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-11-30T00:08:49.7549778+00:00",
+      "NumProgressed": 1054020,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 232,
@@ -38989,9 +38994,9 @@
       "ID": "ACH_018",
       "SetID": "bdmlp8o",
       "Name": "Handyman",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1054
+      "UsersEstimate": 2108
     },
     {
       "ID": "ACH_019",
@@ -39157,9 +39162,9 @@
       "ID": "ACH_039",
       "SetID": "bdmlp8o",
       "Name": "Skillful",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2108
+      "UsersEstimate": 3162
     },
     {
       "ID": "ACH_040",
@@ -40710,21 +40715,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1053910,
+      "Progressed": 1054020,
       "Completed": 66
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1053910,
+      "Progressed": 1054020,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-11-29T22:58:49.1571511+00:00",
-  "LastChanged_Achievements": "2023-11-29T23:09:14.8025022+00:00",
+  "LastChanged_Achievements": "2023-11-30T00:08:49.7549772+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:00.7078103+00:00",
-  "LastUpdate_Ratings": "2023-11-29T22:58:49.1571522+00:00",
-  "LastUpdate_Achievements": "2023-11-29T23:09:14.8032728+00:00"
+  "LastUpdate_Ratings": "2023-11-29T23:58:49.438384+00:00",
+  "LastUpdate_Achievements": "2023-11-30T00:08:49.7555061+00:00"
 }

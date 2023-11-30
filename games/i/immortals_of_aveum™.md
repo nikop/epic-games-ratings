@@ -5,20 +5,20 @@ Rating: 4.05 (Ranked 987)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 91.00% | ~289 |
-| Battlefields Have Memories | 88.00% | ~280 |
-| Enlisted | 85.00% | ~270 |
-| Maybe Engage a Little | 80.00% | ~254 |
-| No More Names | 69.00% | ~219 |
-| Initiate | 56.00% | ~178 |
-| Thrada-Kul | 52.00% | ~165 |
+| Unforeseen | 91.00% | ~290 |
+| Battlefields Have Memories | 87.00% | ~278 |
+| Enlisted | 84.00% | ~268 |
+| Maybe Engage a Little | 80.00% | ~255 |
+| No More Names | 69.00% | ~220 |
+| Initiate | 55.00% | ~175 |
+| Thrada-Kul | 51.00% | ~163 |
 | Gravity-Challenged Rocks | 43.00% | ~137 |
 | Soldier | 37.00% | ~118 |
-| All the Major Food Groups | 36.00% | ~114 |
+| All the Major Food Groups | 36.00% | ~115 |
 | Beggars Would Ride | 32.00% | ~102 |
-| Socialite | 30.00% | ~95 |
-| Control is an Illusion | 29.00% | ~92 |
-| The Means to Save It | 25.00% | ~80 |
+| Socialite | 30.00% | ~96 |
+| Control is an Illusion | 29.00% | ~93 |
+| The Means to Save It | 24.00% | ~77 |
 | Resilience to Sin | 21.00% | ~67 |
 | A Familiar Nest | 20.00% | ~64 |
 | Geas Aristeya | 20.00% | ~64 |
@@ -31,8 +31,8 @@ Rating: 4.05 (Ranked 987)
 | Good Boy | 11.00% | ~35 |
 | Periapt Viridian | 9.00% | ~29 |
 | Shroudfane Explorer | 9.00% | ~29 |
-| Best Dressed | 8.00% | ~25 |
-| Armaments Azure | 8.00% | ~25 |
+| Best Dressed | 8.00% | ~26 |
+| Armaments Azure | 8.00% | ~26 |
 | Armaments Gules | 7.00% | ~22 |
 | Kitted Out | 6.00% | ~19 |
 | Scholar | 5.00% | ~16 |
@@ -53,7 +53,7 @@ Rating: 4.05 (Ranked 987)
 | Out of Time | 0.60% | ~2 |
 | Fowl Play | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 318 (Ranked 348)  
+Progressed: 319 (Ranked 348)  
 Completed: 1 (0.31%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,6 +121,7 @@ Completed: 1 (0.31%) (Ranked 235)
 | 2023-11-27 | 311 | 1 |
 | 2023-11-28 | 315 | 1 |
 | 2023-11-29 | 318 | 1 |
+| 2023-11-30 | 319 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

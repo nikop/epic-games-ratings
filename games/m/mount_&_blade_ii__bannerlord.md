@@ -34,8 +34,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Freedom! | 3.00% | ~2,000 |
 | Long live the Empire! | 3.00% | ~2,000 |
 | Real Estate | 3.00% | ~2,000 |
+| Supreme Emperor | 2.00% | ~1,333 |
 | Entrepreneur | 1.00% | ~667 |
-| Supreme Emperor | 1.00% | ~667 |
 | Crackshot | 0.90% | ~600 |
 | Undercover | 0.90% | ~600 |
 | Fat Cat | 0.70% | ~467 |
@@ -59,7 +59,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 66,654 (Ranked 104)  
-Completed: 0 (0.00%) (Ranked 363)  
+Completed: 0 (0.00%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

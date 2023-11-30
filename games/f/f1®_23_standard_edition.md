@@ -5,20 +5,20 @@ Rating: 4.68 (Ranked 255)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,613 |
-| On the Top Step | 88.00% | ~5,254 |
-| Setting up for Success | 78.00% | ~4,657 |
-| Team Orders | 75.00% | ~4,478 |
+| Getting on the Step | 94.00% | ~5,614 |
+| On the Top Step | 88.00% | ~5,255 |
+| Setting up for Success | 78.00% | ~4,658 |
+| Team Orders | 75.00% | ~4,479 |
 | Engineer | 56.00% | ~3,344 |
-| Familiar Faces | 48.00% | ~2,866 |
+| Familiar Faces | 48.00% | ~2,867 |
 | Sharing the Love | 43.00% | ~2,568 |
 | Going the Extra Mile | 43.00% | ~2,568 |
-| Hitting a Season | 40.00% | ~2,388 |
+| Hitting a Season | 40.00% | ~2,389 |
 | A Dozen Pieces | 34.00% | ~2,030 |
 | Challenge Yourself | 34.00% | ~2,030 |
 | Making History | 32.00% | ~1,911 |
 | Network Success | 28.00% | ~1,672 |
-| Writing a new Chapter | 26.00% | ~1,552 |
+| Writing a new Chapter | 26.00% | ~1,553 |
 | Spring Cleaning | 24.00% | ~1,433 |
 | Reduce | 21.00% | ~1,254 |
 | Ups and Downs | 21.00% | ~1,254 |
@@ -26,7 +26,7 @@ Rating: 4.68 (Ranked 255)
 | Reuse | 18.00% | ~1,075 |
 | One for the Book | 17.00% | ~1,015 |
 | Proving Them Wrong | 17.00% | ~1,015 |
-| Gathering Dust | 16.00% | ~955 |
+| Gathering Dust | 16.00% | ~956 |
 | Oil and Water | 15.00% | ~896 |
 | Hitting a Bullseye | 15.00% | ~896 |
 | Lightning Round the World | 14.00% | ~836 |
@@ -55,8 +55,8 @@ Rating: 4.68 (Ranked 255)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,971 (Ranked 186)  
-Completed: 0 (0.00%) (Ranked 363)  
+Progressed: 5,972 (Ranked 186)  
+Completed: 0 (0.00%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -133,6 +133,7 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-27 | 5,947 | 0 |
 | 2023-11-28 | 5,957 | 0 |
 | 2023-11-29 | 5,971 | 0 |
+| 2023-11-30 | 5,972 | 0 |
 ## Awards
 Max (Diverse Characters): 26  (Ranked 520)  
 Sum: 96 (Ranked 450)  

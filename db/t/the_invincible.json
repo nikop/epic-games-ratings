@@ -3,9 +3,9 @@
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 318,
-  "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_Completed": 362,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -21,10 +21,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 455,
-  "EOS_Completed": 1,
-  "EOS_NewPlayers": 222,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.22,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 220,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-11-03T20:06:30.4846843+00:00",
@@ -1225,6 +1225,11 @@
       "Time": "2023-11-29T23:08:20.345487+00:00",
       "NumProgressed": 455,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T00:07:55.9642507+00:00",
+      "NumProgressed": 455,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1235,9 +1240,9 @@
       "ID": "AchvActivateProbe",
       "SetID": "1hj060c",
       "Name": "The Teleprobe",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 196
     },
     {
       "ID": "AchvAllMemories",
@@ -1403,17 +1408,17 @@
       "ID": "AchvReachBase",
       "SetID": "1hj060c",
       "Name": "The field base",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 150
     },
     {
       "ID": "AchvReachCamp",
       "SetID": "1hj060c",
       "Name": "The Camp",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 250
     },
     {
       "ID": "AchvReachCity",
@@ -1469,13 +1474,13 @@
       "ID": "1hj060c",
       "IsBase": true,
       "Progressed": 455,
-      "Completed": 1
+      "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-29T23:08:20.3454867+00:00",
+  "LastChanged_Achievements": "2023-11-30T00:07:55.9642502+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-11-29T22:58:47.4742238+00:00",
-  "LastUpdate_Achievements": "2023-11-29T23:08:20.3455124+00:00"
+  "LastUpdate_Ratings": "2023-11-29T23:58:47.7099458+00:00",
+  "LastUpdate_Achievements": "2023-11-30T00:07:55.9642739+00:00"
 }

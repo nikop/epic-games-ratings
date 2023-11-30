@@ -1,26 +1,26 @@
 # Slain: Back From Hell
 [Store](https://store.epicgames.com/en-US/p/slain-aea303)  
 [View Rawdata](../../db/s/slain__back_from_hell.json)  
-Rating: 4.29 (Ranked 846)  
+Rating: 4.29 (Ranked 845)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 21.00% | ~8,649 |
-| A Good Day To Die | 15.00% | ~6,178 |
-| Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~2,471 |
-| Right Back Atcha | 6.00% | ~2,471 |
-| Killed by Death | 5.00% | ~2,059 |
-| Kill 'Em All | 4.00% | ~1,647 |
+| Man 'O War | 21.00% | ~8,650 |
+| A Good Day To Die | 15.00% | ~6,179 |
+| Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~2,472 |
+| Right Back Atcha | 6.00% | ~2,472 |
+| Killed by Death | 5.00% | ~2,060 |
+| Kill 'Em All | 4.00% | ~1,648 |
 | Down Boy! | 2.00% | ~824 |
 | A Snowball's Chance in Hell | 2.00% | ~824 |
 | Enjoy The Silence | 1.00% | ~412 |
 | Sure Footed As A Goat | 0.90% | ~371 |
 | Backdoor Man | 0.90% | ~371 |
-| Thorn in My Herbicide | 0.80% | ~329 |
-| Red In Tooth And Claw | 0.80% | ~329 |
-| Death Becomes Her | 0.80% | ~329 |
-| The Sky Is Falling | 0.80% | ~329 |
-| Schadenfreude | 0.80% | ~329 |
+| Thorn in My Herbicide | 0.80% | ~330 |
+| Red In Tooth And Claw | 0.80% | ~330 |
+| Death Becomes Her | 0.80% | ~330 |
+| The Sky Is Falling | 0.80% | ~330 |
+| Schadenfreude | 0.80% | ~330 |
 | Start As You Mean To Go On | 0.70% | ~288 |
 | Hail the Great Horned Metal God! | 0.70% | ~288 |
 | That'll Come In Handy... | 0.70% | ~288 |
@@ -35,8 +35,8 @@ Rating: 4.29 (Ranked 846)
 | Heart Of Steel | 0.10% | ~41 |
 | Death or Glory | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,187 (Ranked 122)  
-Completed: 26 (0.06%) (Ranked 309)  
+Progressed: 41,192 (Ranked 122)  
+Completed: 26 (0.06%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -259,6 +259,7 @@ Completed: 26 (0.06%) (Ranked 309)
 | 2023-11-27 | 41,114 | 26 |
 | 2023-11-28 | 41,151 | 26 |
 | 2023-11-29 | 41,187 | 26 |
+| 2023-11-30 | 41,192 | 26 |
 ## Awards
 Max (Great Boss Battles): 127  (Ranked 334)  
 Sum: 127 (Ranked 432)  

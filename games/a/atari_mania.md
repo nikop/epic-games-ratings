@@ -24,7 +24,7 @@
 | Cheese, I have tricked Glitch so many time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4 (Ranked 650)  
-Completed: 0 (0.00%) (Ranked 363)  
+Completed: 0 (0.00%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

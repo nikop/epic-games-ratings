@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2173,
+  "EOS_Progressed": 2175,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3657,6 +3657,11 @@
       "Time": "2023-11-29T23:04:35.9609687+00:00",
       "NumProgressed": 2173,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-30T00:04:33.1601023+00:00",
+      "NumProgressed": 2175,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 30,
@@ -3668,7 +3673,7 @@
       "Name": "Become King",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1610
     },
     {
       "ID": "Collect20Gold",
@@ -3684,7 +3689,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "Collect50MonsterParts",
@@ -3692,7 +3697,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1262
     },
     {
       "ID": "CollectAllStatues",
@@ -3732,7 +3737,7 @@
       "Name": "Complete the Chefs Book",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "CompleteElderFaction",
@@ -3740,7 +3745,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "CompleteGuardFaction",
@@ -3748,7 +3753,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 1782
+      "UsersEstimate": 1784
     },
     {
       "ID": "CompleteHunterFaction",
@@ -3756,7 +3761,7 @@
       "Name": "Complete Ranger Faction",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "CompleteStoryDM",
@@ -3794,9 +3799,9 @@
       "ID": "DefeatRattusAugustus",
       "SetID": "9lj35g4",
       "Name": "Defeat Rattus Augustail",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 587
+      "UsersEstimate": 566
     },
     {
       "ID": "FixTheTravellersWagon",
@@ -3804,7 +3809,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "GetRangedWeapon",
@@ -3812,7 +3817,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "GetTHWeapon",
@@ -3820,7 +3825,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1239
+      "UsersEstimate": 1240
     },
     {
       "ID": "Kill25Bugs",
@@ -3828,7 +3833,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     },
     {
       "ID": "Kill25Frogs",
@@ -3836,7 +3841,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "Kill25Mozi",
@@ -3844,7 +3849,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "MeetTheMoles",
@@ -3852,7 +3857,7 @@
       "Name": "Meet the Creatures from the Deep",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "MysteryKingsChamber",
@@ -3868,7 +3873,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "RepairSmith",
@@ -3892,7 +3897,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "ReturnPowerInMines",
@@ -3900,29 +3905,29 @@
       "Name": "Return Power To The Depths",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2173,
+      "Progressed": 2175,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 814,
-      "Completed": 814
+      "Progressed": 816,
+      "Completed": 816
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-11-29T23:04:35.9609685+00:00",
+  "LastChanged_Achievements": "2023-11-30T00:04:33.1601016+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:11.7059189+00:00",
-  "LastUpdate_Ratings": "2023-11-29T22:57:33.5532307+00:00",
-  "LastUpdate_Achievements": "2023-11-29T23:04:35.9610045+00:00"
+  "LastUpdate_Ratings": "2023-11-29T23:57:33.0492987+00:00",
+  "LastUpdate_Achievements": "2023-11-30T00:04:33.1601368+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "5f4daf40211246acaddd707f7b4e8f56",
   "Name": "Madden NFL 23",
   "ProductSlug": "madden-nfl-23",
-  "Ranking_Rating": 863,
+  "Ranking_Rating": 862,
   "Ranking_Popularity": 458,
-  "Ranking_PopularitySum": 439,
+  "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 200,
-  "Ranking_EOS_Completed": 363,
+  "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -833,10 +833,16 @@
       "Rating": 4.27,
       "NumberOfAwards": 116,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2023-11-30T00:00:12.6571839+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 117,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 116,
+  "NumberOfAwards": 117,
   "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -850,7 +856,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game is Highly Recommended",
@@ -865,7 +871,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3754,
+  "EOS_Progressed": 3755,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
@@ -6320,6 +6326,11 @@
       "Time": "2023-11-29T23:08:12.6395373+00:00",
       "NumProgressed": 3754,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T00:07:48.6167041+00:00",
+      "NumProgressed": 3755,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -6356,7 +6367,7 @@
       "Name": "Stud Finder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 1539
+      "UsersEstimate": 1540
     },
     {
       "ID": "achievement_13",
@@ -6380,7 +6391,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2027
+      "UsersEstimate": 2028
     },
     {
       "ID": "achievement_16",
@@ -6388,7 +6399,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "achievement_17",
@@ -6466,9 +6477,9 @@
       "ID": "achievement_6",
       "SetID": "c8fif6p",
       "Name": "Change of Scenery",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 601
+      "UsersEstimate": 638
     },
     {
       "ID": "achievement_7",
@@ -6499,16 +6510,16 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3754,
+      "Progressed": 3755,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-10-21T06:01:19.8599973+00:00",
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
-  "LastChanged": "2023-11-28T04:59:43.3080235+00:00",
-  "LastChanged_Achievements": "2023-11-29T23:08:12.6395369+00:00",
+  "LastChanged": "2023-11-30T00:00:12.6571835+00:00",
+  "LastChanged_Achievements": "2023-11-30T00:07:48.6167037+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.624471+00:00",
-  "LastUpdate_Ratings": "2023-11-29T23:00:14.5040793+00:00",
-  "LastUpdate_Achievements": "2023-11-29T23:08:12.6395768+00:00"
+  "LastUpdate_Ratings": "2023-11-30T00:00:12.6571843+00:00",
+  "LastUpdate_Achievements": "2023-11-30T00:07:48.6167485+00:00"
 }

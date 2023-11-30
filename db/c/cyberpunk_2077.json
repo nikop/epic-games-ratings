@@ -15896,9 +15896,9 @@
       "Count": 13751
     }
   ],
-  "EOS_Progressed": 962972,
+  "EOS_Progressed": 963007,
   "EOS_Completed": 2823,
-  "EOS_NewPlayers": 48946,
+  "EOS_NewPlayers": 48691,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -41271,6 +41271,11 @@
       "Time": "2023-11-29T23:03:34.2917255+00:00",
       "NumProgressed": 962972,
       "NumCompleted": 2823
+    },
+    {
+      "Time": "2023-11-30T00:03:31.5772896+00:00",
+      "NumProgressed": 963007,
+      "NumCompleted": 2823
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -41307,7 +41312,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19259
+      "UsersEstimate": 19260
     },
     {
       "ID": "Denied",
@@ -41315,7 +41320,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 38519
+      "UsersEstimate": 38520
     },
     {
       "ID": "FollowingTheRiver",
@@ -41355,7 +41360,7 @@
       "Name": "Gun Fu",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 57778
+      "UsersEstimate": 57780
     },
     {
       "ID": "Gunslinger",
@@ -41459,7 +41464,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19259
+      "UsersEstimate": 19260
     },
     {
       "ID": "Specialist",
@@ -41499,7 +41504,7 @@
       "Name": "The Fool",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48149
+      "UsersEstimate": 48150
     },
     {
       "ID": "TheHermit",
@@ -41507,7 +41512,7 @@
       "Name": "The Hermit",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19259
+      "UsersEstimate": 19260
     },
     {
       "ID": "TheHightPriestess",
@@ -41523,7 +41528,7 @@
       "Name": "The Lovers",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 28889
+      "UsersEstimate": 28890
     },
     {
       "ID": "TheStar",
@@ -41547,7 +41552,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19259
+      "UsersEstimate": 19260
     },
     {
       "ID": "TheWorld",
@@ -41579,7 +41584,7 @@
       "Name": "True Soldier",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 19259
+      "UsersEstimate": 19260
     },
     {
       "ID": "TrueWarrior",
@@ -41611,7 +41616,7 @@
       "Name": "V for Vendetta",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 105927
+      "UsersEstimate": 105931
     },
     {
       "ID": "YipMan",
@@ -41723,7 +41728,7 @@
       "Name": "Relic Ruler",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 1832
+      "UsersEstimate": 1833
     },
     {
       "ID": "UltimateSurvivor",
@@ -41818,21 +41823,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 962972,
+      "Progressed": 963007,
       "Completed": 2823
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 91595,
+      "Progressed": 91630,
       "Completed": 10274
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-29T21:00:41.8385022+00:00",
-  "LastChanged_Achievements": "2023-11-29T23:03:34.2917252+00:00",
+  "LastChanged_Achievements": "2023-11-30T00:03:31.5772892+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:09.4602955+00:00",
-  "LastUpdate_Ratings": "2023-11-29T23:02:28.3809651+00:00",
-  "LastUpdate_Achievements": "2023-11-29T23:03:34.2918997+00:00"
+  "LastUpdate_Ratings": "2023-11-30T00:00:15.1883459+00:00",
+  "LastUpdate_Achievements": "2023-11-30T00:03:31.5775044+00:00"
 }

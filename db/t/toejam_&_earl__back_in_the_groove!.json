@@ -6,9 +6,9 @@
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 108,
-  "Ranking_EOS_Completed": 343,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_Completed": 342,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58027,
+  "EOS_Progressed": 58030,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13316,6 +13316,11 @@
       "Time": "2023-11-29T22:05:57.9321053+00:00",
       "NumProgressed": 58027,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-30T00:05:54.8997579+00:00",
+      "NumProgressed": 58030,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -13399,7 +13404,7 @@
       "Name": "Flying Present Catcher",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2901
+      "UsersEstimate": 2902
     },
     {
       "ID": "FlyingPresentMaster",
@@ -13415,7 +13420,7 @@
       "Name": "Food Taster",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 5222
+      "UsersEstimate": 5223
     },
     {
       "ID": "FoolMeTwice",
@@ -13639,7 +13644,7 @@
       "Name": "Sunflower Master",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2901
+      "UsersEstimate": 2902
     },
     {
       "ID": "Teamwork",
@@ -13718,7 +13723,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58027,
+      "Progressed": 58030,
       "Completed": 6
     }
   ],
@@ -13726,8 +13731,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-11-29T23:05:56.6611684+00:00",
+  "LastChanged_Achievements": "2023-11-30T00:05:54.8997575+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:48.4965941+00:00",
-  "LastUpdate_Ratings": "2023-11-29T22:57:02.3422535+00:00",
-  "LastUpdate_Achievements": "2023-11-29T23:05:56.6612426+00:00"
+  "LastUpdate_Ratings": "2023-11-29T23:57:02.6421428+00:00",
+  "LastUpdate_Achievements": "2023-11-30T00:05:54.8998646+00:00"
 }

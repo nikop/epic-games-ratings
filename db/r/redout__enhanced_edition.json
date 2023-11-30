@@ -6,8 +6,8 @@
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 65,
-  "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_Completed": 333,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 236381,
+  "EOS_Progressed": 236382,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 375,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -23817,6 +23817,11 @@
       "Time": "2023-11-29T23:03:23.7850013+00:00",
       "NumProgressed": 236381,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-11-30T00:03:21.1448026+00:00",
+      "NumProgressed": 236382,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -23852,7 +23857,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 18910
+      "UsersEstimate": 18911
     },
     {
       "ID": "CHALLENGER",
@@ -23892,7 +23897,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 18910
+      "UsersEstimate": 18911
     },
     {
       "ID": "FLAWLESS",
@@ -24092,22 +24097,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 96916
+      "UsersEstimate": 96917
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 236381,
+      "Progressed": 236382,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-11-29T23:03:23.7850007+00:00",
+  "LastChanged_Achievements": "2023-11-30T00:03:21.1448023+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:54.8147859+00:00",
-  "LastUpdate_Ratings": "2023-11-29T22:58:44.8368956+00:00",
-  "LastUpdate_Achievements": "2023-11-29T23:03:23.7851818+00:00"
+  "LastUpdate_Ratings": "2023-11-29T23:58:44.4955147+00:00",
+  "LastUpdate_Achievements": "2023-11-30T00:03:21.1449441+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 229,
-  "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_Completed": 315,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1930,
+  "EOS_Progressed": 1931,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7298,6 +7298,11 @@
       "Time": "2023-11-29T18:05:34.3987639+00:00",
       "NumProgressed": 1930,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T00:05:19.9435783+00:00",
+      "NumProgressed": 1931,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7309,7 +7314,7 @@
       "Name": "Know The Enemy",
       "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -7333,7 +7338,7 @@
       "Name": "Player Betrayer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -7381,7 +7386,7 @@
       "Name": "Silver Achiever",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "objective_headquarters_10",
@@ -7413,7 +7418,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -7453,7 +7458,7 @@
       "Name": "Major",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "objective_hero_level_up_6",
@@ -7485,7 +7490,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -7565,7 +7570,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -7612,7 +7617,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1930,
+      "Progressed": 1931,
       "Completed": 1
     }
   ],
@@ -7620,8 +7625,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-21T23:00:15.982699+00:00",
-  "LastChanged_Achievements": "2023-11-29T23:05:22.4080398+00:00",
+  "LastChanged_Achievements": "2023-11-30T00:05:19.943578+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:27.1285109+00:00",
-  "LastUpdate_Ratings": "2023-11-29T22:59:55.294361+00:00",
-  "LastUpdate_Achievements": "2023-11-29T23:05:22.4081004+00:00"
+  "LastUpdate_Ratings": "2023-11-29T23:59:55.737076+00:00",
+  "LastUpdate_Achievements": "2023-11-30T00:05:19.9436301+00:00"
 }

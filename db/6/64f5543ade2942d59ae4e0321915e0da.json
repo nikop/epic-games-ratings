@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -384,9 +384,9 @@
       "ID": "AC_BOSS_01",
       "SetID": "16i2akc",
       "Name": "Misery",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "AC_BOSS_02",
@@ -647,8 +647,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-29T23:03:51.752633+00:00",
+  "LastChanged_Achievements": "2023-11-30T00:03:48.9367592+00:00",
   "LastUpdate_AppInfo": "2023-11-28T18:57:05.8641658+00:00",
-  "LastUpdate_Ratings": "2023-11-29T22:59:51.6372576+00:00",
-  "LastUpdate_Achievements": "2023-11-29T23:03:51.7526555+00:00"
+  "LastUpdate_Ratings": "2023-11-29T23:59:52.0340475+00:00",
+  "LastUpdate_Achievements": "2023-11-30T00:03:48.9367841+00:00"
 }

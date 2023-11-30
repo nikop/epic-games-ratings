@@ -77,7 +77,7 @@ Rating: 4.14 (Ranked 956)
 | Powerup! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1 (Ranked 701)  
-Completed: 0 (0.00%) (Ranked 363)  
+Completed: 0 (0.00%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

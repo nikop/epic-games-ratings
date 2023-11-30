@@ -3,9 +3,9 @@
   "Name": "Worldless",
   "ProductSlug": "worldless-49eae3",
   "Ranking_EOS_Progress": 430,
-  "Ranking_EOS_Completed": 363,
+  "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
     "PcReleaseDate": "2023-11-21T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107,
+  "EOS_Progressed": 108,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -444,6 +444,11 @@
       "Time": "2023-11-29T23:04:18.168675+00:00",
       "NumProgressed": 107,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T00:04:14.9314805+00:00",
+      "NumProgressed": 108,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-17T13:09:54.2114838+00:00",
@@ -454,9 +459,9 @@
       "ID": "ACH_ADAPTATION_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Adaptation",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_ALL_COMBAT_SKILLS",
@@ -494,9 +499,9 @@
       "ID": "ACH_ANGEL_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Angel",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_AVEN_UNLOCKED",
@@ -512,7 +517,7 @@
       "Name": "Duality",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_BRANCH_ALL_SLOTS",
@@ -566,7 +571,7 @@
       "ID": "ACH_FIRST_ABSORPTION",
       "SetID": "cagp2pi",
       "Name": "Absorption",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 20,
       "UsersEstimate": 90
     },
@@ -647,14 +652,14 @@
     {
       "ID": "cagp2pi",
       "IsBase": true,
-      "Progressed": 107,
+      "Progressed": 108,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-11-29T23:04:18.1686746+00:00",
+  "LastChanged_Achievements": "2023-11-30T00:04:14.9314801+00:00",
   "LastUpdate_AppInfo": "2023-11-24T13:56:57.9833029+00:00",
-  "LastUpdate_Ratings": "2023-11-29T22:59:45.1797966+00:00",
-  "LastUpdate_Achievements": "2023-11-29T23:04:18.1686887+00:00"
+  "LastUpdate_Ratings": "2023-11-29T23:59:45.6144676+00:00",
+  "LastUpdate_Achievements": "2023-11-30T00:04:14.9314968+00:00"
 }

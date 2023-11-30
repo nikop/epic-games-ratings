@@ -3,9 +3,9 @@
   "Name": "NHRA Championship Drag Racing - Speed For All",
   "ProductSlug": "nhra-championship-drag-racing-speed-for-all-690d95",
   "Ranking_EOS_Progress": 271,
-  "Ranking_EOS_Completed": 363,
+  "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 376,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-01-03T20:29:00+00:00",
     "PcReleaseDate": "2022-08-26T16:00:00+00:00",
@@ -1148,8 +1148,8 @@
   "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "LastChanged_Achievements": "2023-11-29T23:06:04.2306723+00:00",
+  "LastChanged_Achievements": "2023-11-30T00:06:02.5574609+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:39.4352117+00:00",
-  "LastUpdate_Ratings": "2023-11-29T22:58:29.9402398+00:00",
-  "LastUpdate_Achievements": "2023-11-29T23:06:04.2306931+00:00"
+  "LastUpdate_Ratings": "2023-11-29T23:58:29.8455942+00:00",
+  "LastUpdate_Achievements": "2023-11-30T00:06:02.5575039+00:00"
 }

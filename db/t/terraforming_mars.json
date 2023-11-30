@@ -6,7 +6,7 @@
   "Ranking_Popularity": 209,
   "Ranking_PopularitySum": 172,
   "Ranking_EOS_Progress": 94,
-  "Ranking_EOS_Completed": 258,
+  "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
@@ -3247,9 +3247,9 @@
       "Count": 254
     }
   ],
-  "EOS_Progressed": 84427,
+  "EOS_Progressed": 84428,
   "EOS_Completed": 166,
-  "EOS_NewPlayers": 836,
+  "EOS_NewPlayers": 830,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -28177,6 +28177,11 @@
       "Time": "2023-11-29T23:04:49.8672046+00:00",
       "NumProgressed": 84427,
       "NumCompleted": 166
+    },
+    {
+      "Time": "2023-11-30T00:04:47.1457816+00:00",
+      "NumProgressed": 84428,
+      "NumCompleted": 166
     }
   ],
   "TotalAchievements": 30,
@@ -28252,7 +28257,7 @@
       "Name": "Variety Expert",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 7598
+      "UsersEstimate": 7599
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -28364,7 +28369,7 @@
       "Name": "Final touch",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 29549
+      "UsersEstimate": 29550
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -28427,15 +28432,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 84427,
+      "Progressed": 84428,
       "Completed": 166
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-11-27T21:57:34.1560719+00:00",
-  "LastChanged_Achievements": "2023-11-29T23:04:49.8672043+00:00",
+  "LastChanged_Achievements": "2023-11-30T00:04:47.1457813+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:29.0449406+00:00",
-  "LastUpdate_Ratings": "2023-11-29T22:58:23.6869821+00:00",
-  "LastUpdate_Achievements": "2023-11-29T23:04:49.8673079+00:00"
+  "LastUpdate_Ratings": "2023-11-29T23:58:23.773938+00:00",
+  "LastUpdate_Achievements": "2023-11-30T00:04:47.1458857+00:00"
 }

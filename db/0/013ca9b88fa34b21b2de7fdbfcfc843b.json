@@ -6,9 +6,9 @@
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 175,
-  "Ranking_EOS_Completed": 343,
+  "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8166,
+  "EOS_Progressed": 8167,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7718,6 +7718,11 @@
       "Time": "2023-11-29T23:09:08.3762684+00:00",
       "NumProgressed": 8166,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T00:08:43.3034411+00:00",
+      "NumProgressed": 8167,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -7738,7 +7743,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 5798
+      "UsersEstimate": 5799
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -7746,7 +7751,7 @@
       "Name": "Calm Sailing",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3021
+      "UsersEstimate": 3022
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -7754,7 +7759,7 @@
       "Name": "Open the Gate!",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2776
+      "UsersEstimate": 2777
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -7826,7 +7831,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3511
+      "UsersEstimate": 3512
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -7834,7 +7839,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 4001
+      "UsersEstimate": 4002
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -7866,7 +7871,7 @@
       "Name": "Humble Collector",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3511
+      "UsersEstimate": 3512
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -7882,7 +7887,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 4981
+      "UsersEstimate": 4982
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -8009,22 +8014,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8166,
+      "Progressed": 8167,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 783,
-      "Completed": 783
+      "Progressed": 784,
+      "Completed": 784
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-26T23:02:38.616334+00:00",
-  "LastChanged_Achievements": "2023-11-29T23:09:08.3762682+00:00",
+  "LastChanged_Achievements": "2023-11-30T00:08:43.3034408+00:00",
   "LastUpdate_AppInfo": "2023-11-24T08:57:08.562767+00:00",
-  "LastUpdate_Ratings": "2023-11-29T23:02:47.5624151+00:00",
-  "LastUpdate_Achievements": "2023-11-29T23:09:08.3763303+00:00"
+  "LastUpdate_Ratings": "2023-11-30T00:02:43.7639622+00:00",
+  "LastUpdate_Achievements": "2023-11-30T00:08:43.3034917+00:00"
 }

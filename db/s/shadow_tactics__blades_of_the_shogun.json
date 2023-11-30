@@ -6,7 +6,7 @@
   "Ranking_Popularity": 200,
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 72,
-  "Ranking_EOS_Completed": 316,
+  "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
@@ -2120,10 +2120,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 4880,
       "NumberOfAwardsMax": 579
+    },
+    {
+      "Time": "2023-11-29T23:59:48.7170668+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4883,
+      "NumberOfAwardsMax": 579
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4880,
+  "NumberOfAwards": 4883,
   "NumberOfAwardsMax": 579,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2143,13 +2149,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 498
+      "Count": 499
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 517
+      "Count": 519
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2194,9 +2200,9 @@
       "Count": 255
     }
   ],
-  "EOS_Progressed": 216552,
+  "EOS_Progressed": 216556,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 1283,
+  "EOS_NewPlayers": 1285,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -27784,6 +27790,11 @@
       "Time": "2023-11-29T23:03:32.7525469+00:00",
       "NumProgressed": 216552,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-11-30T00:03:29.9443874+00:00",
+      "NumProgressed": 216556,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 44,
@@ -27795,7 +27806,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 21655
+      "UsersEstimate": 21656
     },
     {
       "ID": "AtheistOx",
@@ -27867,7 +27878,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 25986
+      "UsersEstimate": 25987
     },
     {
       "ID": "HappyLittleAccidents",
@@ -28083,7 +28094,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 21655
+      "UsersEstimate": 21656
     },
     {
       "ID": "TimeParadox",
@@ -28146,15 +28157,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 216552,
+      "Progressed": 216556,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2023-11-29T04:05:48.7087934+00:00",
-  "LastChanged_Achievements": "2023-11-29T23:03:32.7525466+00:00",
+  "LastChanged": "2023-11-29T23:59:48.7170666+00:00",
+  "LastChanged_Achievements": "2023-11-30T00:03:29.944387+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:23.8145991+00:00",
-  "LastUpdate_Ratings": "2023-11-29T22:59:48.3945999+00:00",
-  "LastUpdate_Achievements": "2023-11-29T23:03:32.752711+00:00"
+  "LastUpdate_Ratings": "2023-11-29T23:59:48.7170671+00:00",
+  "LastUpdate_Achievements": "2023-11-30T00:03:29.9445206+00:00"
 }

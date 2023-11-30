@@ -1,7 +1,7 @@
 # while True: learn()
 [Store](https://store.epicgames.com/en-US/p/while-true-learn)  
 [View Rawdata](../../db/w/while_true__learn().json)  
-Rating: 4.51 (Ranked 572)  
+Rating: 4.51 (Ranked 571)  
 Number of Ratings: 896  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -36,7 +36,7 @@ Number of Ratings: 896  (23.09.2022)
 | The Scrooge | 0.10% | ~612 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 612,215 (Ranked 30)  
-Completed: 548 (0.09%) (Ranked 291)  
+Completed: 548 (0.09%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

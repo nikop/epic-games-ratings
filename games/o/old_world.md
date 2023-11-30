@@ -9,8 +9,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 7.00% | ~1,088 |
 | Explorer | 6.00% | ~933 |
 | Settler | 6.00% | ~933 |
+| Friendly Family | 6.00% | ~933 |
 | Intrepid | 5.00% | ~777 |
-| Friendly Family | 5.00% | ~777 |
 | Able | 4.00% | ~622 |
 | Architect | 4.00% | ~622 |
 | Good | 4.00% | ~622 |
@@ -171,6 +171,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Nenikekamen | 0.40% | ~62 |
 | Assyria | 0.40% | ~62 |
 | Play a Free-For-All Game (>2 Players) | 0.40% | ~62 |
+| Circus Maximus in Roma | 0.40% | ~62 |
 | Necropolis in Waset | 0.40% | ~62 |
 | Prosperous Kmt | 0.40% | ~62 |
 | Gold Victory (Carthage 1) | 0.30% | ~47 |
@@ -184,7 +185,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Tell the Spartans | 0.30% | ~47 |
 | Medo-Babylonian Conquest | 0.30% | ~47 |
 | Apadana in Parsa | 0.30% | ~47 |
-| Circus Maximus in Roma | 0.30% | ~47 |
 | Pantheon in Roma | 0.30% | ~47 |
 | Randomized Leaders | 0.30% | ~47 |
 | Barbarian Horde | 0.20% | ~31 |
@@ -349,8 +349,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,545 (Ranked 152)  
-Completed: 5 (0.03%) (Ranked 327)  
+Progressed: 15,547 (Ranked 152)  
+Completed: 5 (0.03%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -573,6 +573,7 @@ Completed: 5 (0.03%) (Ranked 327)
 | 2023-11-27 | 15,525 | 5 |
 | 2023-11-28 | 15,534 | 5 |
 | 2023-11-29 | 15,545 | 5 |
+| 2023-11-30 | 15,547 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,882 (Ranked 218)  

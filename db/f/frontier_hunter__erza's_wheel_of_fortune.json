@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 439,
+  "EOS_Progressed": 440,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 1,
@@ -1342,6 +1342,11 @@
       "Time": "2023-11-29T22:05:12.4533091+00:00",
       "NumProgressed": 439,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T00:05:08.994733+00:00",
+      "NumProgressed": 440,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1353,7 +1358,7 @@
       "Name": "Travel Streamer",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1377,7 +1382,7 @@
       "Name": "Nosebleeder",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -1431,9 +1436,9 @@
       "ID": "ACHIEVEMENT_19",
       "SetID": "7pimpda",
       "Name": "Mermaid Killer",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 57
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -1521,7 +1526,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1609,7 +1614,7 @@
       "Name": "Storm Traveller",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -1695,9 +1700,9 @@
       "ID": "ACHIEVEMENT_8",
       "SetID": "7pimpda",
       "Name": "Seal Breaker",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 136
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -1712,7 +1717,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 439,
+      "Progressed": 440,
       "Completed": 1
     }
   ],
@@ -1720,8 +1725,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-29T23:05:11.5697178+00:00",
+  "LastChanged_Achievements": "2023-11-30T00:05:08.9947325+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-11-29T22:58:41.0744897+00:00",
-  "LastUpdate_Achievements": "2023-11-29T23:05:11.5697549+00:00"
+  "LastUpdate_Ratings": "2023-11-29T23:58:41.0020735+00:00",
+  "LastUpdate_Achievements": "2023-11-30T00:05:08.9947824+00:00"
 }

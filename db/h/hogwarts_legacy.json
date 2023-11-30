@@ -6,7 +6,7 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
-  "Ranking_EOS_Completed": 267,
+  "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
@@ -11241,9 +11241,9 @@
       "Count": 821
     }
   ],
-  "EOS_Progressed": 303596,
+  "EOS_Progressed": 303599,
   "EOS_Completed": 519,
-  "EOS_NewPlayers": 885,
+  "EOS_NewPlayers": 876,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -35321,6 +35321,11 @@
       "Time": "2023-11-29T23:09:08.6130224+00:00",
       "NumProgressed": 303596,
       "NumCompleted": 519
+    },
+    {
+      "Time": "2023-11-30T00:08:43.7197041+00:00",
+      "NumProgressed": 303599,
+      "NumCompleted": 519
     }
   ],
   "TotalAchievements": 45,
@@ -35332,7 +35337,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48575
+      "UsersEstimate": 48576
     },
     {
       "ID": "PFA_10",
@@ -35452,7 +35457,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39467
+      "UsersEstimate": 39468
     },
     {
       "ID": "PFA_24",
@@ -35660,7 +35665,7 @@
       "Name": "First Class Student",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45539
+      "UsersEstimate": 45540
     },
     {
       "ID": "PFA_7",
@@ -35668,7 +35673,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42503
+      "UsersEstimate": 42504
     },
     {
       "ID": "PFA_8",
@@ -35676,7 +35681,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39467
+      "UsersEstimate": 39468
     },
     {
       "ID": "PFA_9",
@@ -35691,7 +35696,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303596,
+      "Progressed": 303599,
       "Completed": 519
     }
   ],
@@ -35699,8 +35704,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-29T23:02:32.566535+00:00",
-  "LastChanged_Achievements": "2023-11-29T23:09:08.6130221+00:00",
+  "LastChanged_Achievements": "2023-11-30T00:08:43.7197039+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7292094+00:00",
-  "LastUpdate_Ratings": "2023-11-29T23:02:32.5665357+00:00",
-  "LastUpdate_Achievements": "2023-11-29T23:09:08.613146+00:00"
+  "LastUpdate_Ratings": "2023-11-30T00:02:28.4505376+00:00",
+  "LastUpdate_Achievements": "2023-11-30T00:08:43.7198269+00:00"
 }

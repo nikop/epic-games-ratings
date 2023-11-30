@@ -5,38 +5,38 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Horn prize! | 48.00% | ~32 |
-| Beast Quest | 35.00% | ~23 |
-| Monster Hunt | 35.00% | ~23 |
+| Beast Quest | 34.00% | ~23 |
+| Monster Hunt | 34.00% | ~23 |
 | Orb Gatherer | 33.00% | ~22 |
 | Space worm! | 33.00% | ~22 |
-| Beast Hunter | 32.00% | ~21 |
-| Loot, loot! | 32.00% | ~21 |
+| Beast Hunter | 31.00% | ~21 |
+| Loot, loot! | 31.00% | ~21 |
 | Vanquisher! | 30.00% | ~20 |
 | Orb Collector | 30.00% | ~20 |
 | Twin slayer! | 30.00% | ~20 |
 | Snakehead! | 30.00% | ~20 |
 | Unmasked! | 30.00% | ~20 |
 | Mercenary! | 30.00% | ~20 |
-| Beast Knight | 29.00% | ~19 |
-| Fly, you fool! | 29.00% | ~19 |
+| Beast Knight | 28.00% | ~19 |
+| Fly, you fool! | 28.00% | ~19 |
 | Relic Collector | 27.00% | ~18 |
-| God of the Tower! | 26.00% | ~17 |
-| Cartographer | 26.00% | ~17 |
-| Wizard Mastery | 20.00% | ~13 |
-| Rogue Mastery | 17.00% | ~11 |
+| God of the Tower! | 25.00% | ~17 |
+| Cartographer | 25.00% | ~17 |
+| Wizard Mastery | 19.00% | ~13 |
+| Rogue Mastery | 16.00% | ~11 |
 | Fighter Mastery | 15.00% | ~10 |
 | Slay the Monster! | 15.00% | ~10 |
-| Destoy all monsters! | 14.00% | ~9 |
+| Destoy all monsters! | 13.00% | ~9 |
 | Gorgonslayer Mastery | 12.00% | ~8 |
 | Built for adventure | 12.00% | ~8 |
 | Collector Mastery | 12.00% | ~8 |
 | True Black Knight | 9.00% | ~6 |
 | Freedom Monster | 9.00% | ~6 |
-| No match for me! | 5.00% | ~3 |
-| True Titan | 5.00% | ~3 |
+| No match for me! | 4.00% | ~3 |
+| True Titan | 4.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 473)  
-Completed: 3 (4.55%) (Ranked 81)  
+Progressed: 67 (Ranked 472)  
+Completed: 3 (4.48%) (Ranked 83)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -55,6 +55,7 @@ Completed: 3 (4.55%) (Ranked 81)
 | 2023-08-08 | 64 | 3 |
 | 2023-08-20 | 65 | 3 |
 | 2023-10-13 | 66 | 3 |
+| 2023-11-30 | 67 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

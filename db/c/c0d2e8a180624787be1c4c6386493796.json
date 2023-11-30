@@ -3,9 +3,9 @@
   "Name": "Kingdom Rush Vengeance",
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 461,
-  "Ranking_EOS_Completed": 363,
+  "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 290,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -628,9 +628,9 @@
       "ID": "KR4_ACHIEVEMENT_HAPPY_NEW_YEAR",
       "SetID": "caeik3h",
       "Name": "Happy New Year!",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "KR4_ACHIEVEMENT_HEROIC",
@@ -764,9 +764,9 @@
       "ID": "KR4_ACHIEVEMENT_LINIREA",
       "SetID": "caeik3h",
       "Name": "Rightful Owner",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "KR4_ACHIEVEMENT_MADAGASCAR",
@@ -1027,8 +1027,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-29T23:03:37.2451968+00:00",
+  "LastChanged_Achievements": "2023-11-30T00:03:34.5537122+00:00",
   "LastUpdate_AppInfo": "2023-11-23T16:57:14.7123281+00:00",
-  "LastUpdate_Ratings": "2023-11-29T22:57:32.8143551+00:00",
-  "LastUpdate_Achievements": "2023-11-29T23:03:37.2452666+00:00"
+  "LastUpdate_Ratings": "2023-11-29T23:57:32.3102385+00:00",
+  "LastUpdate_Achievements": "2023-11-30T00:03:34.5537695+00:00"
 }
