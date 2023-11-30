@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
@@ -2206,9 +2206,9 @@
       "Count": 255
     }
   ],
-  "EOS_Progressed": 216570,
+  "EOS_Progressed": 216573,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 1292,
+  "EOS_NewPlayers": 1294,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -27806,6 +27806,11 @@
       "Time": "2023-11-30T01:50:56.8050463+00:00",
       "NumProgressed": 216570,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-11-30T02:27:09.2815048+00:00",
+      "NumProgressed": 216573,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 44,
@@ -27857,7 +27862,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19491
+      "UsersEstimate": 19492
     },
     {
       "ID": "FiveShadows",
@@ -27889,7 +27894,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 25988
+      "UsersEstimate": 25989
     },
     {
       "ID": "HappyLittleAccidents",
@@ -27993,7 +27998,7 @@
       "Name": "Okkoto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 10828
+      "UsersEstimate": 10829
     },
     {
       "ID": "OldMan",
@@ -28017,7 +28022,7 @@
       "Name": "Prisoners",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10828
+      "UsersEstimate": 10829
     },
     {
       "ID": "ReleaseTheKraken",
@@ -28041,7 +28046,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19491
+      "UsersEstimate": 19492
     },
     {
       "ID": "StillRollin",
@@ -28073,7 +28078,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19491
+      "UsersEstimate": 19492
     },
     {
       "ID": "TheCave",
@@ -28129,7 +28134,7 @@
       "Name": "Too Early",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10828
+      "UsersEstimate": 10829
     },
     {
       "ID": "Warzone",
@@ -28168,15 +28173,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 216570,
+      "Progressed": 216573,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-30T01:47:22.2511941+00:00",
-  "LastChanged_Achievements": "2023-11-30T01:50:56.8050456+00:00",
+  "LastChanged_Achievements": "2023-11-30T02:27:09.2815044+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:23.8145991+00:00",
-  "LastUpdate_Ratings": "2023-11-30T01:47:22.2511948+00:00",
-  "LastUpdate_Achievements": "2023-11-30T01:50:56.8053664+00:00"
+  "LastUpdate_Ratings": "2023-11-30T02:23:41.2886155+00:00",
+  "LastUpdate_Achievements": "2023-11-30T02:27:09.2816187+00:00"
 }

@@ -6,17 +6,17 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 11.00% | ~105,939 |
-| Gun Fu | 6.00% | ~57,785 |
-| The Fool | 5.00% | ~48,154 |
-| Right Back At Ya | 4.00% | ~38,523 |
+| V for Vendetta | 11.00% | ~105,942 |
+| Gun Fu | 6.00% | ~57,787 |
+| The Fool | 5.00% | ~48,156 |
+| Right Back At Ya | 4.00% | ~38,524 |
 | The Lovers | 3.00% | ~28,893 |
 | Full Body Conversion | 2.00% | ~19,262 |
 | Stanislavski's Method | 2.00% | ~19,262 |
 | The Hermit | 2.00% | ~19,262 |
 | The Wheel of Fortune | 2.00% | ~19,262 |
 | True Soldier | 2.00% | ~19,262 |
-| Relic Ruler | 2.00% | ~1,834 |
+| Relic Ruler | 2.00% | ~1,835 |
 | Christmas Tree Attack | 1.00% | ~9,631 |
 | The Quick and the Dead | 1.00% | ~9,631 |
 | Life of the Road | 1.00% | ~9,631 |
@@ -34,7 +34,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Judy vs Night City | 0.70% | ~6,742 |
 | Spin Doctor | 0.70% | ~642 |
 | Easy Come, Easy Go | 0.60% | ~550 |
-| The Wandering Fool | 0.50% | ~4,815 |
+| The Wandering Fool | 0.50% | ~4,816 |
 | King of Wands | 0.50% | ~459 |
 | Dirty Deeds | 0.50% | ~459 |
 | To Bad Decisions! | 0.40% | ~3,852 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 963,085 (Ranked 15)  
+Progressed: 963,112 (Ranked 15)  
 Completed: 2,823 (0.29%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 2,823 (0.29%) (Ranked 238)
 | 2023-11-27 | 955,649 | 2,818 |
 | 2023-11-28 | 960,226 | 2,821 |
 | 2023-11-29 | 962,972 | 2,823 |
-| 2023-11-30 | 963,085 | 2,823 |
+| 2023-11-30 | 963,112 | 2,823 |
 ## Awards
 Max (Character Customization): 111,778  (Ranked 9)  
 Sum: 373,471 (Ranked 9)  

@@ -3219,9 +3219,9 @@
       "Count": 402
     }
   ],
-  "EOS_Progressed": 9393,
+  "EOS_Progressed": 9394,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 580,
+  "EOS_NewPlayers": 578,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9984,6 +9984,11 @@
       "Time": "2023-11-30T01:53:38.3889544+00:00",
       "NumProgressed": 9393,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T02:30:20.6081249+00:00",
+      "NumProgressed": 9394,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -10020,7 +10025,7 @@
       "Name": "What Just Happened??",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 2254
+      "UsersEstimate": 2255
     },
     {
       "ID": "ach05",
@@ -10036,7 +10041,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 7045
+      "UsersEstimate": 7046
     },
     {
       "ID": "ach07",
@@ -10044,7 +10049,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 5260
+      "UsersEstimate": 5261
     },
     {
       "ID": "ach08",
@@ -10052,7 +10057,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3757
+      "UsersEstimate": 3758
     },
     {
       "ID": "ach09",
@@ -10090,9 +10095,9 @@
       "ID": "ach13",
       "SetID": "47in8n6",
       "Name": "Making Friends Is Easy",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 1879
+      "UsersEstimate": 1973
     },
     {
       "ID": "ach14",
@@ -10124,7 +10129,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 4884
+      "UsersEstimate": 4885
     },
     {
       "ID": "ach18",
@@ -10132,7 +10137,7 @@
       "Name": "Adventure Time",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3475
+      "UsersEstimate": 3476
     },
     {
       "ID": "ach19",
@@ -10188,7 +10193,7 @@
       "Name": "Talis-Mania",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "ach26",
@@ -10220,7 +10225,7 @@
       "Name": "Unstoppable",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 2254
+      "UsersEstimate": 2255
     },
     {
       "ID": "ach30",
@@ -10252,7 +10257,7 @@
       "Name": "Vanquished",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "ach34",
@@ -10268,7 +10273,7 @@
       "Name": "Kollector",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "ach36",
@@ -10284,7 +10289,7 @@
       "Name": "ABACABB",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 5354
+      "UsersEstimate": 5355
     },
     {
       "ID": "ach38",
@@ -10300,7 +10305,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3851
+      "UsersEstimate": 3852
     },
     {
       "ID": "ach40",
@@ -10316,7 +10321,7 @@
       "Name": "Stop Hiding",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 3381
+      "UsersEstimate": 3382
     },
     {
       "ID": "ach42",
@@ -10364,7 +10369,7 @@
       "Name": "Big Spender",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 2066
+      "UsersEstimate": 2067
     },
     {
       "ID": "ach48",
@@ -10388,14 +10393,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3663
+      "UsersEstimate": 3664
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 9393,
+      "Progressed": 9394,
       "Completed": 0
     }
   ],
@@ -10403,8 +10408,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-11-30T01:49:58.9054147+00:00",
-  "LastChanged_Achievements": "2023-11-30T01:53:38.3889537+00:00",
+  "LastChanged_Achievements": "2023-11-30T02:30:20.6081245+00:00",
   "LastUpdate_AppInfo": "2023-11-25T10:57:15.5645679+00:00",
-  "LastUpdate_Ratings": "2023-11-30T01:49:58.9054153+00:00",
-  "LastUpdate_Achievements": "2023-11-30T01:53:38.389042+00:00"
+  "LastUpdate_Ratings": "2023-11-30T02:25:57.8348324+00:00",
+  "LastUpdate_Achievements": "2023-11-30T02:30:20.6081988+00:00"
 }

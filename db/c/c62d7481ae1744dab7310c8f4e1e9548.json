@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewPlayers": 408,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -635,9 +635,9 @@
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "Kour",
@@ -826,8 +826,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-11-30T01:50:58.9135935+00:00",
+  "LastChanged_Achievements": "2023-11-30T02:27:11.9964424+00:00",
   "LastUpdate_AppInfo": "2023-11-25T02:57:15.8005887+00:00",
-  "LastUpdate_Ratings": "2023-11-30T01:47:29.2790033+00:00",
-  "LastUpdate_Achievements": "2023-11-30T01:50:58.9136386+00:00"
+  "LastUpdate_Ratings": "2023-11-30T02:23:50.1479269+00:00",
+  "LastUpdate_Achievements": "2023-11-30T02:27:11.9964648+00:00"
 }

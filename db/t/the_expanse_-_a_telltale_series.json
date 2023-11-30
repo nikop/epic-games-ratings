@@ -241,9 +241,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15770,
+  "EOS_Progressed": 15771,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 494,
+  "EOS_NewPlayers": 495,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -12696,6 +12696,11 @@
       "Time": "2023-11-30T01:50:37.1274896+00:00",
       "NumProgressed": 15770,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-11-30T02:26:45.9053789+00:00",
+      "NumProgressed": 15771,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12756,7 +12761,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "16",
@@ -12772,7 +12777,7 @@
       "Name": "Spore Taste",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "18",
@@ -12852,7 +12857,7 @@
       "Name": "Call it Even",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "27",
@@ -12956,7 +12961,7 @@
       "Name": "Safe Cracker",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "33",
@@ -12964,7 +12969,7 @@
       "Name": "Zen Master",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "34",
@@ -12987,13 +12992,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15770,
+      "Progressed": 15771,
       "Completed": 39
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1724,
+      "Progressed": 1725,
       "Completed": 755
     }
   ],
@@ -13001,8 +13006,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-28T18:00:52.6774218+00:00",
-  "LastChanged_Achievements": "2023-11-30T01:50:37.1274888+00:00",
+  "LastChanged_Achievements": "2023-11-30T02:26:45.9053786+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-11-30T01:47:48.8617297+00:00",
-  "LastUpdate_Achievements": "2023-11-30T01:50:37.1276664+00:00"
+  "LastUpdate_Ratings": "2023-11-30T02:25:34.4486378+00:00",
+  "LastUpdate_Achievements": "2023-11-30T02:26:45.9054419+00:00"
 }

@@ -35,7 +35,7 @@
 | Unstoppable Horde | 26.00% | ~130 |
 | Master of the Undead | 24.00% | ~120 |
 | The Duel | 24.00% | ~120 |
-| Hungry, Hungry Gorgu! | 22.00% | ~110 |
+| Hungry, Hungry Gorgu! | 23.00% | ~115 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 22.00% | ~110 |
 | Forbidden Knowledge | 22.00% | ~110 |
 | If Looks Could Kill | 21.00% | ~105 |

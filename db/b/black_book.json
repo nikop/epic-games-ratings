@@ -663,9 +663,9 @@
       "Count": 90
     }
   ],
-  "EOS_Progressed": 56868,
+  "EOS_Progressed": 56872,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 1718,
+  "EOS_NewPlayers": 1709,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11458,6 +11458,11 @@
       "Time": "2023-11-30T01:50:51.2817685+00:00",
       "NumProgressed": 56868,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-11-30T02:27:02.8005699+00:00",
+      "NumProgressed": 56872,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -11526,7 +11531,7 @@
       "Name": "Card Player",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4549
+      "UsersEstimate": 4550
     },
     {
       "ID": "CHEATER",
@@ -11542,7 +11547,7 @@
       "Name": "Cow Level",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 6255
+      "UsersEstimate": 6256
     },
     {
       "ID": "DEAD_MAN",
@@ -11582,7 +11587,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 12511
+      "UsersEstimate": 12512
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -11590,7 +11595,7 @@
       "Name": "Scientist",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 6255
+      "UsersEstimate": 6256
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -11670,7 +11675,7 @@
       "Name": "Initiation",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 15923
+      "UsersEstimate": 15924
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -11678,7 +11683,7 @@
       "Name": "Vorsa",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2843
+      "UsersEstimate": 2844
     },
     {
       "ID": "MERMAID_FREE",
@@ -11686,7 +11691,7 @@
       "Name": "Dead Friend",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4549
+      "UsersEstimate": 4550
     },
     {
       "ID": "MERMAID_NOT_FREE",
@@ -11718,7 +11723,7 @@
       "Name": "Soldier",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 6824
+      "UsersEstimate": 6825
     },
     {
       "ID": "NORMAL_END",
@@ -11750,7 +11755,7 @@
       "Name": "Pine Tree",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4549
+      "UsersEstimate": 4550
     },
     {
       "ID": "PROSHKA_LOYAL",
@@ -11782,7 +11787,7 @@
       "Name": "Susanin",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2843
+      "UsersEstimate": 2844
     },
     {
       "ID": "TALES_1",
@@ -11790,7 +11795,7 @@
       "Name": "Listener",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 8530
+      "UsersEstimate": 8531
     },
     {
       "ID": "TALES_2",
@@ -11798,7 +11803,7 @@
       "Name": "Collector",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4549
+      "UsersEstimate": 4550
     },
     {
       "ID": "TALES_3",
@@ -11814,7 +11819,7 @@
       "Name": "Traveller",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2843
+      "UsersEstimate": 2844
     },
     {
       "ID": "WATER",
@@ -11846,7 +11851,7 @@
       "Name": "Knower",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 9099
+      "UsersEstimate": 9100
     },
     {
       "ID": "ZNATKOST_2",
@@ -11869,15 +11874,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 56868,
+      "Progressed": 56872,
       "Completed": 57
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-11-24T14:58:20.0827646+00:00",
-  "LastChanged_Achievements": "2023-11-30T01:50:51.281768+00:00",
+  "LastChanged_Achievements": "2023-11-30T02:27:02.8005696+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:46.0067578+00:00",
-  "LastUpdate_Ratings": "2023-11-30T01:44:26.8550697+00:00",
-  "LastUpdate_Achievements": "2023-11-30T01:50:51.2819436+00:00"
+  "LastUpdate_Ratings": "2023-11-30T02:19:59.2749673+00:00",
+  "LastUpdate_Achievements": "2023-11-30T02:27:02.8006565+00:00"
 }

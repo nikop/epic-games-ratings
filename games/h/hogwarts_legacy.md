@@ -10,19 +10,19 @@ Rating: 4.76 (Ranked 128)
 | Troll with the Punches | 14.00% | ~42,505 |
 | A Keen Sense of Spell | 13.00% | ~39,469 |
 | That's a Keeper | 13.00% | ~39,469 |
-| The Defender of Dragons | 12.00% | ~36,432 |
-| Loom for Improvement | 12.00% | ~36,432 |
-| A Talent for Spending | 12.00% | ~36,432 |
-| Grappling with a Graphorn | 11.00% | ~33,396 |
-| The One Who Mastered Memories | 11.00% | ~33,396 |
-| The Hallowed Hero | 11.00% | ~33,396 |
-| The Hero of Hogwarts | 11.00% | ~33,396 |
-| Challenge Accepted | 11.00% | ~33,396 |
-| Coasting Along | 11.00% | ~33,396 |
-| Followed the Butterflies | 10.00% | ~30,360 |
-| Rising From the Ashes | 10.00% | ~30,360 |
-| A Sallow Grave | 9.00% | ~27,324 |
-| The Spell Master | 9.00% | ~27,324 |
+| The Defender of Dragons | 12.00% | ~36,433 |
+| Loom for Improvement | 12.00% | ~36,433 |
+| A Talent for Spending | 12.00% | ~36,433 |
+| Grappling with a Graphorn | 11.00% | ~33,397 |
+| The One Who Mastered Memories | 11.00% | ~33,397 |
+| The Hallowed Hero | 11.00% | ~33,397 |
+| The Hero of Hogwarts | 11.00% | ~33,397 |
+| Challenge Accepted | 11.00% | ~33,397 |
+| Coasting Along | 11.00% | ~33,397 |
+| Followed the Butterflies | 10.00% | ~30,361 |
+| Rising From the Ashes | 10.00% | ~30,361 |
+| A Sallow Grave | 9.00% | ~27,325 |
+| The Spell Master | 9.00% | ~27,325 |
 | The Avenging Gazelle | 8.00% | ~24,288 |
 | Beast Friends | 8.00% | ~24,288 |
 | Flight the Good Flight | 8.00% | ~24,288 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 128)
 | The Nature of the Beast | 0.70% | ~2,125 |
 | Collector's Edition | 0.30% | ~911 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,604 (Ranked 54)  
+Progressed: 303,606 (Ranked 54)  
 Completed: 519 (0.17%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,10 +275,10 @@ Completed: 519 (0.17%) (Ranked 266)
 | 2023-11-27 | 303,418 | 518 |
 | 2023-11-28 | 303,515 | 519 |
 | 2023-11-29 | 303,596 | 519 |
-| 2023-11-30 | 303,604 | 519 |
+| 2023-11-30 | 303,606 | 519 |
 ## Awards
 Max (Character Customization): 24,755  (Ranked 17)  
-Sum: 49,466 (Ranked 30)  
+Sum: 49,469 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -287,8 +287,8 @@ Diff (max vs sum): -13
 | This game is Great for Beginners | 1,360 |
 | This game has Amazing Storytelling | 1,313 |
 | This game has Diverse Characters | 1,310 |
+| This game is Relaxing | 1,280 |
 | This game is Extremely Fun | 1,279 |
-| This game is Relaxing | 1,277 |
 | This game has Amazing Characters | 1,237 |
 | This game is Highly Recommended | 1,216 |
 | This game has Quickly Understood Controls | 1,181 |
@@ -548,3 +548,4 @@ Diff (max vs sum): -13
 | 2023-11-27 | 4.76 | 24,711 | 49,337 |
 | 2023-11-28 | 4.76 | 24,728 | 49,391 |
 | 2023-11-29 | 4.76 | 24,755 | 49,466 |
+| 2023-11-30 | 4.76 | 24,755 | 49,469 |

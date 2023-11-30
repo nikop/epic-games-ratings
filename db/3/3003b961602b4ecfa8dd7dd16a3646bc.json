@@ -4,7 +4,7 @@
   "ProductSlug": "horse-club-adventures-19e7a0",
   "Ranking_EOS_Progress": 525,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
@@ -203,17 +203,17 @@
       "ID": "ACH_01_TUTORIAL",
       "SetID": "9dl0ei6",
       "Name": "Tutorial",
-      "Percentage": 71,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_02_FIRSTRACE",
       "SetID": "9dl0ei6",
       "Name": "First Race",
-      "Percentage": 88,
+      "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_03_TRAININGRACE2",
@@ -379,9 +379,9 @@
       "ID": "ACH_23_MILL",
       "SetID": "9dl0ei6",
       "Name": "The mill rattles by the rushing stream",
-      "Percentage": 65,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_24_STONECIRCLE",
@@ -426,8 +426,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-11-30T01:56:36.4290755+00:00",
+  "LastChanged_Achievements": "2023-11-30T02:32:57.5217388+00:00",
   "LastUpdate_AppInfo": "2023-11-26T23:57:17.243865+00:00",
-  "LastUpdate_Ratings": "2023-11-30T01:46:19.3332605+00:00",
-  "LastUpdate_Achievements": "2023-11-30T01:56:36.4291024+00:00"
+  "LastUpdate_Ratings": "2023-11-30T02:22:22.4564909+00:00",
+  "LastUpdate_Achievements": "2023-11-30T02:32:57.5217551+00:00"
 }

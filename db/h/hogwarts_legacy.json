@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11161,10 +11161,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 49466,
       "NumberOfAwardsMax": 24755
+    },
+    {
+      "Time": "2023-11-30T02:25:42.0532685+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 49469,
+      "NumberOfAwardsMax": 24755
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49466,
+  "NumberOfAwards": 49469,
   "NumberOfAwardsMax": 24755,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11214,7 +11220,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1277
+      "Count": 1280
     },
     {
       "Text": "This game is Highly Recommended",
@@ -11241,9 +11247,9 @@
       "Count": 821
     }
   ],
-  "EOS_Progressed": 303604,
+  "EOS_Progressed": 303606,
   "EOS_Completed": 519,
-  "EOS_NewPlayers": 875,
+  "EOS_NewPlayers": 876,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -35331,6 +35337,11 @@
       "Time": "2023-11-30T01:56:37.6307831+00:00",
       "NumProgressed": 303604,
       "NumCompleted": 519
+    },
+    {
+      "Time": "2023-11-30T02:32:59.0803213+00:00",
+      "NumProgressed": 303606,
+      "NumCompleted": 519
     }
   ],
   "TotalAchievements": 45,
@@ -35350,7 +35361,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33396
+      "UsersEstimate": 33397
     },
     {
       "ID": "PFA_11",
@@ -35358,7 +35369,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33396
+      "UsersEstimate": 33397
     },
     {
       "ID": "PFA_12",
@@ -35366,7 +35377,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33396
+      "UsersEstimate": 33397
     },
     {
       "ID": "PFA_13",
@@ -35374,7 +35385,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 33396
+      "UsersEstimate": 33397
     },
     {
       "ID": "PFA_14",
@@ -35398,7 +35409,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36432
+      "UsersEstimate": 36433
     },
     {
       "ID": "PFA_17",
@@ -35414,7 +35425,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 27324
+      "UsersEstimate": 27325
     },
     {
       "ID": "PFA_19",
@@ -35446,7 +35457,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33396
+      "UsersEstimate": 33397
     },
     {
       "ID": "PFA_22",
@@ -35470,7 +35481,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36432
+      "UsersEstimate": 36433
     },
     {
       "ID": "PFA_25",
@@ -35526,7 +35537,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36432
+      "UsersEstimate": 36433
     },
     {
       "ID": "PFA_31",
@@ -35566,7 +35577,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30360
+      "UsersEstimate": 30361
     },
     {
       "ID": "PFA_36",
@@ -35598,7 +35609,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33396
+      "UsersEstimate": 33397
     },
     {
       "ID": "PFA_4",
@@ -35646,7 +35657,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27324
+      "UsersEstimate": 27325
     },
     {
       "ID": "PFA_45",
@@ -35694,23 +35705,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30360
+      "UsersEstimate": 30361
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303604,
+      "Progressed": 303606,
       "Completed": 519
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-29T23:02:32.566535+00:00",
-  "LastChanged_Achievements": "2023-11-30T01:56:37.6307825+00:00",
+  "LastChanged": "2023-11-30T02:25:42.0532684+00:00",
+  "LastChanged_Achievements": "2023-11-30T02:32:59.0803207+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7292094+00:00",
-  "LastUpdate_Ratings": "2023-11-30T01:47:54.9286412+00:00",
-  "LastUpdate_Achievements": "2023-11-30T01:56:37.631084+00:00"
+  "LastUpdate_Ratings": "2023-11-30T02:25:42.0532689+00:00",
+  "LastUpdate_Achievements": "2023-11-30T02:32:59.0805147+00:00"
 }

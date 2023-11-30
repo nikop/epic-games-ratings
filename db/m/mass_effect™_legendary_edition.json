@@ -4375,9 +4375,9 @@
       "ID": "achievement_125",
       "SetID": "d252ncf",
       "Name": "Soldier",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 713
+      "UsersEstimate": 728
     },
     {
       "ID": "achievement_126",
@@ -5171,8 +5171,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-30T01:55:51.6529823+00:00",
+  "LastChanged_Achievements": "2023-11-30T02:32:04.3657921+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:10.3433357+00:00",
-  "LastUpdate_Ratings": "2023-11-30T01:50:04.8473692+00:00",
-  "LastUpdate_Achievements": "2023-11-30T01:55:51.6532592+00:00"
+  "LastUpdate_Ratings": "2023-11-30T02:26:04.68251+00:00",
+  "LastUpdate_Achievements": "2023-11-30T02:32:04.3659481+00:00"
 }

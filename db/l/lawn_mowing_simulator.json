@@ -2206,9 +2206,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 684516,
+  "EOS_Progressed": 684518,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 1623,
+  "EOS_NewPlayers": 1622,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27781,6 +27781,11 @@
       "Time": "2023-11-30T01:56:40.8383871+00:00",
       "NumProgressed": 684516,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-30T02:33:02.8579372+00:00",
+      "NumProgressed": 684518,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 54,
@@ -27792,7 +27797,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 540768
+      "UsersEstimate": 540769
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -27904,7 +27909,7 @@
       "Name": "Size isn\u0027t everything",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 20535
+      "UsersEstimate": 20536
     },
     {
       "ID": "CONTRACT_WITHIN_10SEC",
@@ -27912,7 +27917,7 @@
       "Name": "Close shave",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 20535
+      "UsersEstimate": 20536
     },
     {
       "ID": "DLC001_CHALLENGES",
@@ -28032,7 +28037,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 212200
+      "UsersEstimate": 212201
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -28096,7 +28101,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 102677
+      "UsersEstimate": 102678
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -28168,7 +28173,7 @@
       "Name": "Established",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 20535
+      "UsersEstimate": 20536
     },
     {
       "ID": "RP_ESTEEMED",
@@ -28208,7 +28213,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 61606
+      "UsersEstimate": 61607
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -28223,15 +28228,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 684516,
+      "Progressed": 684518,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-11-27T01:45:56.2783952+00:00",
-  "LastChanged_Achievements": "2023-11-30T01:56:40.8383867+00:00",
+  "LastChanged_Achievements": "2023-11-30T02:33:02.8579369+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:21.4586634+00:00",
-  "LastUpdate_Ratings": "2023-11-30T01:47:17.7105592+00:00",
-  "LastUpdate_Achievements": "2023-11-30T01:56:40.8386362+00:00"
+  "LastUpdate_Ratings": "2023-11-30T02:23:35.9332823+00:00",
+  "LastUpdate_Achievements": "2023-11-30T02:33:02.8581499+00:00"
 }

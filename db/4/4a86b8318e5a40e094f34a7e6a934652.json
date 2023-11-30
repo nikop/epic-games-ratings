@@ -1123,9 +1123,9 @@
       "ID": "GROW_20_PLANTS",
       "SetID": "aniflfk",
       "Name": "Farmer",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 125
     },
     {
       "ID": "HOUSEWARMING",
@@ -1171,9 +1171,9 @@
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 128
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -1226,8 +1226,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-11-30T01:51:07.186567+00:00",
+  "LastChanged_Achievements": "2023-11-30T02:27:21.7937048+00:00",
   "LastUpdate_AppInfo": "2023-11-29T20:57:25.9655457+00:00",
-  "LastUpdate_Ratings": "2023-11-30T01:50:00.6011391+00:00",
-  "LastUpdate_Achievements": "2023-11-30T01:51:07.1865924+00:00"
+  "LastUpdate_Ratings": "2023-11-30T02:25:59.3655319+00:00",
+  "LastUpdate_Achievements": "2023-11-30T02:27:21.7937213+00:00"
 }

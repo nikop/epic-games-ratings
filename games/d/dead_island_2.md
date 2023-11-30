@@ -15,24 +15,24 @@ Rating: 4.54 (Ranked 527)
 | Welcome To Hell-A | 2.00% | ~14,557 |
 | One of Us | 2.00% | ~1,068 |
 | Pork Chopped | 2.00% | ~1,068 |
-| Dr. Reed, I Presume? | 1.00% | ~7,278 |
-| Anger Management | 1.00% | ~7,278 |
-| Perks of the Job | 1.00% | ~7,278 |
-| Bookworm | 1.00% | ~7,278 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,278 |
-| But Doctor, I am Butcho | 1.00% | ~7,278 |
-| Slayer Squad | 1.00% | ~7,278 |
-| Can't Handle the Truth | 1.00% | ~7,278 |
-| Like Riding a Bike | 1.00% | ~7,278 |
-| Friends Like These | 1.00% | ~7,278 |
-| Apex Predator | 1.00% | ~7,278 |
-| Zombologist | 1.00% | ~7,278 |
-| Ooh, Shiny! | 1.00% | ~7,278 |
-| A Patton Emerges | 1.00% | ~7,278 |
-| I Am the Resurrection | 1.00% | ~7,278 |
-| Stacking the Deck | 1.00% | ~7,278 |
-| Our True Nature | 1.00% | ~7,278 |
-| This is My Weapon | 1.00% | ~7,278 |
+| Dr. Reed, I Presume? | 1.00% | ~7,279 |
+| Anger Management | 1.00% | ~7,279 |
+| Perks of the Job | 1.00% | ~7,279 |
+| Bookworm | 1.00% | ~7,279 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,279 |
+| But Doctor, I am Butcho | 1.00% | ~7,279 |
+| Slayer Squad | 1.00% | ~7,279 |
+| Can't Handle the Truth | 1.00% | ~7,279 |
+| Like Riding a Bike | 1.00% | ~7,279 |
+| Friends Like These | 1.00% | ~7,279 |
+| Apex Predator | 1.00% | ~7,279 |
+| Zombologist | 1.00% | ~7,279 |
+| Ooh, Shiny! | 1.00% | ~7,279 |
+| A Patton Emerges | 1.00% | ~7,279 |
+| I Am the Resurrection | 1.00% | ~7,279 |
+| Stacking the Deck | 1.00% | ~7,279 |
+| Our True Nature | 1.00% | ~7,279 |
+| This is My Weapon | 1.00% | ~7,279 |
 | Making Your Mark | 0.90% | ~6,551 |
 | Humanity Distilled | 0.80% | ~5,823 |
 | Down with the Sickness | 0.80% | ~5,823 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 527)
 | Bucket List | 0.10% | ~728 |
 | Wilhelm | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 727,843 (Ranked 21)  
-Completed: 2,450 (0.34%) (Ranked 231)  
+Progressed: 727,854 (Ranked 21)  
+Completed: 2,451 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -281,10 +281,10 @@ Completed: 2,450 (0.34%) (Ranked 231)
 | 2023-11-27 | 726,753 | 2,443 |
 | 2023-11-28 | 727,374 | 2,447 |
 | 2023-11-29 | 727,809 | 2,450 |
-| 2023-11-30 | 727,843 | 2,450 |
+| 2023-11-30 | 727,854 | 2,451 |
 ## Awards
 Max (Great Boss Battles): 7,803  (Ranked 49)  
-Sum: 11,961 (Ranked 84)  
+Sum: 11,963 (Ranked 84)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
@@ -295,7 +295,7 @@ Diff (max vs sum): -35
 | This game is Relaxing | 515 |
 | This game has Amazing Storytelling | 502 |
 | This game is Extremely Fun | 489 |
-| This game is Highly Recommended | 485 |
+| This game is Highly Recommended | 487 |
 | This game has Amazing Characters | 451 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -523,3 +523,4 @@ Diff (max vs sum): -35
 | 2023-11-27 | 4.54 | 7,760 | 11,883 |
 | 2023-11-28 | 4.54 | 7,784 | 11,921 |
 | 2023-11-29 | 4.54 | 7,803 | 11,961 |
+| 2023-11-30 | 4.54 | 7,803 | 11,963 |

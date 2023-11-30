@@ -4113,9 +4113,9 @@
       "Count": 1078
     }
   ],
-  "EOS_Progressed": 80663,
+  "EOS_Progressed": 80664,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 1020,
+  "EOS_NewPlayers": 1018,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -29463,6 +29463,11 @@
       "Time": "2023-11-30T01:56:00.7573008+00:00",
       "NumProgressed": 80663,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-11-30T02:32:14.9890596+00:00",
+      "NumProgressed": 80664,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 53,
@@ -29490,7 +29495,7 @@
       "Name": "Quality Time",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 14519
+      "UsersEstimate": 14520
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -29522,7 +29527,7 @@
       "Name": "Finders Keepers",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 20972
+      "UsersEstimate": 20973
     },
     {
       "ID": "complet_epilogue_mission",
@@ -29594,7 +29599,7 @@
       "Name": "Tune Up",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 27425
+      "UsersEstimate": 27426
     },
     {
       "ID": "customize_a_weapon",
@@ -29602,7 +29607,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 29845
+      "UsersEstimate": 29846
     },
     {
       "ID": "cutting_edge_materials",
@@ -29650,7 +29655,7 @@
       "Name": "A Young Empire",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 20972
+      "UsersEstimate": 20973
     },
     {
       "ID": "empire_tier_3",
@@ -29690,7 +29695,7 @@
       "Name": "Work Ethic",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 18552
+      "UsersEstimate": 18553
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -29858,7 +29863,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 33878
+      "UsersEstimate": 33879
     },
     {
       "ID": "whole_map_purple",
@@ -29897,13 +29902,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 80663,
+      "Progressed": 80664,
       "Completed": 54
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 52300,
+      "Progressed": 52301,
       "Completed": 4402
     }
   ],
@@ -29911,8 +29916,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-11-29T03:02:52.3773284+00:00",
-  "LastChanged_Achievements": "2023-11-30T01:56:00.7573001+00:00",
+  "LastChanged_Achievements": "2023-11-30T02:32:14.9890593+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:12.0685781+00:00",
-  "LastUpdate_Ratings": "2023-11-30T01:50:07.9578483+00:00",
-  "LastUpdate_Achievements": "2023-11-30T01:56:00.757585+00:00"
+  "LastUpdate_Ratings": "2023-11-30T02:26:08.5024857+00:00",
+  "LastUpdate_Achievements": "2023-11-30T02:32:14.9891802+00:00"
 }
