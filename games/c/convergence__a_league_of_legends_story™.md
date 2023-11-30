@@ -6,8 +6,8 @@ Rating: 4.62 (Ranked 367)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 33.00% | ~312 |
-| The Mysterious Stranger | 26.00% | ~245 |
-| Rail Rat | 26.00% | ~245 |
+| The Mysterious Stranger | 26.00% | ~246 |
+| Rail Rat | 26.00% | ~246 |
 | Immaculate Aim | 23.00% | ~217 |
 | Make Up For Lost Time | 22.00% | ~208 |
 | Time Flies | 22.00% | ~208 |
@@ -22,17 +22,17 @@ Rating: 4.62 (Ranked 367)
 | Fast Learner | 21.00% | ~198 |
 | Immaculate Aim | 21.00% | ~198 |
 | The Betrayer | 20.00% | ~189 |
-| Right On Time | 19.00% | ~179 |
-| Like Clockwork | 19.00% | ~179 |
-| Golem Chaser | 19.00% | ~179 |
-| Check Your Pulse | 19.00% | ~179 |
+| Right On Time | 19.00% | ~180 |
+| Like Clockwork | 19.00% | ~180 |
+| Golem Chaser | 19.00% | ~180 |
+| Check Your Pulse | 19.00% | ~180 |
 | The Man Who Shattered Time | 18.00% | ~170 |
 | The Loose Cannon | 18.00% | ~170 |
 | The Family Fortune | 18.00% | ~170 |
-| Street Style | 17.00% | ~160 |
-| Whiz Kid | 15.00% | ~142 |
+| Street Style | 17.00% | ~161 |
 | Cartographer | 15.00% | ~142 |
 | Treasure Trove | 14.00% | ~132 |
+| Whiz Kid | 14.00% | ~132 |
 | Good Neighbor | 13.00% | ~123 |
 | Chaincrawler Explorer | 12.00% | ~113 |
 | Family Memories | 12.00% | ~113 |
@@ -59,8 +59,8 @@ Rating: 4.62 (Ranked 367)
 | Going to Live Forever | 0.60% | ~6 |
 | Raw Talent | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 944 (Ranked 270)  
-Completed: 6 (0.64%) (Ranked 187)  
+Progressed: 945 (Ranked 270)  
+Completed: 6 (0.63%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -199,7 +199,7 @@ Completed: 6 (0.64%) (Ranked 187)
 | 2023-11-26 | 938 | 6 |
 | 2023-11-27 | 941 | 6 |
 | 2023-11-29 | 943 | 6 |
-| 2023-11-30 | 944 | 6 |
+| 2023-11-30 | 945 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,26 +6,26 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Having A Field Day | 76.00% | ~5,347 |
-| Get A Room | 75.00% | ~5,277 |
-| Reap What You Sow | 73.00% | ~5,136 |
-| The First Day | 69.00% | ~4,855 |
-| Green Thumb | 67.00% | ~4,714 |
-| Novice Researcher | 67.00% | ~4,714 |
-| Home Cooked Meal | 61.00% | ~4,292 |
+| Having A Field Day | 76.00% | ~5,348 |
+| Get A Room | 75.00% | ~5,278 |
+| Reap What You Sow | 73.00% | ~5,137 |
+| The First Day | 69.00% | ~4,856 |
+| Green Thumb | 67.00% | ~4,715 |
+| Novice Researcher | 67.00% | ~4,715 |
+| Home Cooked Meal | 61.00% | ~4,293 |
 | Onward | 58.00% | ~4,081 |
 | The First Week | 55.00% | ~3,870 |
 | Beam Me Up | 52.00% | ~3,659 |
 | Studious Researcher | 52.00% | ~3,659 |
 | Putting Food on the Table | 47.00% | ~3,307 |
-| Adept Researcher | 45.00% | ~3,166 |
-| Retribution | 42.00% | ~2,955 |
-| ...And Don’t Come Back! | 42.00% | ~2,955 |
+| Adept Researcher | 45.00% | ~3,167 |
+| Retribution | 42.00% | ~2,956 |
+| ...And Don’t Come Back! | 42.00% | ~2,956 |
 | Feast or Famine | 38.00% | ~2,674 |
 | Heating Up | 32.00% | ~2,252 |
 | Luminary Researcher | 31.00% | ~2,181 |
-| Fit For A King | 29.00% | ~2,040 |
-| Winter Is Coming | 29.00% | ~2,040 |
+| Fit For A King | 29.00% | ~2,041 |
+| Winter Is Coming | 29.00% | ~2,041 |
 | Winter Is Here | 25.00% | ~1,759 |
 | Disassembled | 22.00% | ~1,548 |
 | A Party Now | 22.00% | ~1,548 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~141 |
 | Wabbit Season | 0.50% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,036 (Ranked 182)  
+Progressed: 7,037 (Ranked 182)  
 Completed: 14 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 14 (0.20%) (Ranked 257)
 | 2023-11-27 | 6,995 | 14 |
 | 2023-11-28 | 7,016 | 14 |
 | 2023-11-29 | 7,032 | 14 |
-| 2023-11-30 | 7,036 | 14 |
+| 2023-11-30 | 7,037 | 14 |
 ## Awards
 Max (Great for Beginners): 126  (Ranked 337)  
 Sum: 1,027 (Ranked 260)  

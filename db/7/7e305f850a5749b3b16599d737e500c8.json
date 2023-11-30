@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 9,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2022-09-30T08:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 194,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 37.11,
   "EosHistory": [
@@ -1136,9 +1136,9 @@
       "ID": "Dreamkeeper",
       "SetID": "b7i210",
       "Name": "Dreamkeeper",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 105
+      "UsersEstimate": 107
     },
     {
       "ID": "Dust_fighter",
@@ -1200,9 +1200,9 @@
       "ID": "Justice",
       "SetID": "b7i210",
       "Name": "Justice",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 97
     },
     {
       "ID": "Liberator",
@@ -1264,9 +1264,9 @@
       "ID": "Troubleshooter",
       "SetID": "b7i210",
       "Name": "Troubleshooter",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 109
     }
   ],
   "AchievementSets": [
@@ -1279,8 +1279,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-11-30T11:04:00.5287638+00:00",
+  "LastChanged_Achievements": "2023-11-30T12:03:36.919416+00:00",
   "LastUpdate_AppInfo": "2023-11-28T06:57:03.7256389+00:00",
-  "LastUpdate_Ratings": "2023-11-30T10:59:49.6694988+00:00",
-  "LastUpdate_Achievements": "2023-11-30T11:04:00.5287863+00:00"
+  "LastUpdate_Ratings": "2023-11-30T11:59:30.8498503+00:00",
+  "LastUpdate_Achievements": "2023-11-30T12:03:36.9194307+00:00"
 }

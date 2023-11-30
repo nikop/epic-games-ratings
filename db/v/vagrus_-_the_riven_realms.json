@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 375,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 202,
+  "EOS_Progressed": 203,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -776,6 +776,11 @@
       "Time": "2023-11-27T21:08:31.3190539+00:00",
       "NumProgressed": 202,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T12:04:05.6408122+00:00",
+      "NumProgressed": 203,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -787,7 +792,7 @@
       "Name": "Randomized",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Vanilla_Abolitionists",
@@ -1019,7 +1024,7 @@
       "Name": "Conquered",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Vanilla_DeputiesMaxedOut",
@@ -1403,7 +1408,7 @@
       "Name": "A Second Chance",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1578,7 +1583,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 202,
+      "Progressed": 203,
       "Completed": 0
     }
   ],
@@ -1586,8 +1591,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-11-30T11:04:28.8486269+00:00",
+  "LastChanged_Achievements": "2023-11-30T12:04:05.6408118+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:54.8906494+00:00",
-  "LastUpdate_Ratings": "2023-11-30T10:59:38.0432155+00:00",
-  "LastUpdate_Achievements": "2023-11-30T11:04:28.848713+00:00"
+  "LastUpdate_Ratings": "2023-11-30T11:59:19.1939576+00:00",
+  "LastUpdate_Achievements": "2023-11-30T12:04:05.640941+00:00"
 }

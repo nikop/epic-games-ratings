@@ -2,7 +2,7 @@
   "ID": "f9af68c0b03e425999c18381eb45e5fb",
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
-  "Ranking_EOS_Progress": 320,
+  "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 94,
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 447,
+  "EOS_Progressed": 449,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 1,
@@ -1377,6 +1377,11 @@
       "Time": "2023-11-30T08:05:24.1376368+00:00",
       "NumProgressed": 447,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T12:05:56.8144303+00:00",
+      "NumProgressed": 449,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1386,9 +1391,9 @@
       "ID": "ACHIEVEMENT_1",
       "SetID": "7pimpda",
       "Name": "Travel Streamer",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 413
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1396,7 +1401,7 @@
       "Name": "Giant Lizard Killer",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -1418,9 +1423,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "7pimpda",
       "Name": "Flying Kobold Killer",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -1476,7 +1481,7 @@
       "Name": "Training Simulation",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1500,7 +1505,7 @@
       "Name": "Beginner Cook",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -1514,9 +1519,9 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "7pimpda",
       "Name": "Arms Mechanic",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 201
+      "UsersEstimate": 207
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -1524,7 +1529,7 @@
       "Name": "Beginner Artificer",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -1548,7 +1553,7 @@
       "Name": "Trader",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -1556,7 +1561,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1570,9 +1575,9 @@
       "ID": "ACHIEVEMENT_31",
       "SetID": "7pimpda",
       "Name": "Weapon Boost",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -1644,7 +1649,7 @@
       "Name": "Storm Traveller",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -1674,9 +1679,9 @@
       "ID": "ACHIEVEMENT_43",
       "SetID": "7pimpda",
       "Name": "Warden Slayer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -1706,9 +1711,9 @@
       "ID": "ACHIEVEMENT_5",
       "SetID": "7pimpda",
       "Name": "Wolf King Killer",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 224
+      "UsersEstimate": 229
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -1716,7 +1721,7 @@
       "Name": "Flower Thief",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -1724,15 +1729,15 @@
       "Name": "Apostle of Flame",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACHIEVEMENT_8",
       "SetID": "7pimpda",
       "Name": "Seal Breaker",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 134
+      "UsersEstimate": 139
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -1747,7 +1752,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 447,
+      "Progressed": 449,
       "Completed": 1
     }
   ],
@@ -1755,8 +1760,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-30T11:06:18.5413762+00:00",
+  "LastChanged_Achievements": "2023-11-30T12:05:56.81443+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-11-30T10:59:33.6003001+00:00",
-  "LastUpdate_Achievements": "2023-11-30T11:06:18.5414077+00:00"
+  "LastUpdate_Ratings": "2023-11-30T11:59:14.946858+00:00",
+  "LastUpdate_Achievements": "2023-11-30T12:05:56.8144923+00:00"
 }

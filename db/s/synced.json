@@ -1173,9 +1173,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 67774,
+  "EOS_Progressed": 67775,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 469,
+  "EOS_NewPlayers": 468,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10948,6 +10948,11 @@
       "Time": "2023-11-30T11:05:56.8898817+00:00",
       "NumProgressed": 67774,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-11-30T12:05:35.0100788+00:00",
+      "NumProgressed": 67775,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -11024,7 +11029,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 12199
+      "UsersEstimate": 12200
     },
     {
       "ID": "3",
@@ -11040,7 +11045,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6777
+      "UsersEstimate": 6778
     },
     {
       "ID": "5",
@@ -11087,7 +11092,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 67774,
+      "Progressed": 67775,
       "Completed": 38
     }
   ],
@@ -11095,8 +11100,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-29T06:58:07.3420072+00:00",
-  "LastChanged_Achievements": "2023-11-30T11:05:56.8898814+00:00",
+  "LastChanged_Achievements": "2023-11-30T12:05:35.0100785+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:13.9511371+00:00",
-  "LastUpdate_Ratings": "2023-11-30T10:58:56.1702445+00:00",
-  "LastUpdate_Achievements": "2023-11-30T11:05:56.8899521+00:00"
+  "LastUpdate_Ratings": "2023-11-30T11:58:35.3675838+00:00",
+  "LastUpdate_Achievements": "2023-11-30T12:05:35.0101391+00:00"
 }

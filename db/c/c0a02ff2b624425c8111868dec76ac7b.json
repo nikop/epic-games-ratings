@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 108,
+  "EOS_Progressed": 109,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -449,6 +449,11 @@
       "Time": "2023-11-30T00:04:14.9314805+00:00",
       "NumProgressed": 108,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-30T12:05:02.1207285+00:00",
+      "NumProgressed": 109,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-17T13:09:54.2114838+00:00",
@@ -459,9 +464,9 @@
       "ID": "ACH_ADAPTATION_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Adaptation",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_ALL_COMBAT_SKILLS",
@@ -531,9 +536,9 @@
       "ID": "ACH_DARK_PALADIN_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Dark Paladin",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_DEMON_ABSORBED",
@@ -652,14 +657,14 @@
     {
       "ID": "cagp2pi",
       "IsBase": true,
-      "Progressed": 108,
+      "Progressed": 109,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-11-30T11:05:25.1526369+00:00",
+  "LastChanged_Achievements": "2023-11-30T12:05:02.1207281+00:00",
   "LastUpdate_AppInfo": "2023-11-24T13:56:57.9833029+00:00",
-  "LastUpdate_Ratings": "2023-11-30T11:00:37.6334731+00:00",
-  "LastUpdate_Achievements": "2023-11-30T11:05:25.1526534+00:00"
+  "LastUpdate_Ratings": "2023-11-30T12:00:21.5894665+00:00",
+  "LastUpdate_Achievements": "2023-11-30T12:05:02.1207442+00:00"
 }

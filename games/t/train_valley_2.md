@@ -6,45 +6,45 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~306,664 |
-| Full garage | 61.00% | ~256,253 |
-| To the eyeballs! | 51.00% | ~214,244 |
-| Individual delivery | 47.00% | ~197,441 |
-| Non-Stop | 45.00% | ~189,039 |
-| Juggler | 36.00% | ~151,231 |
-| Forgot something | 35.00% | ~147,030 |
-| Close call! | 30.00% | ~126,026 |
-| Get out my way | 28.00% | ~117,624 |
-| Common cause | 26.00% | ~109,223 |
-| Critical care | 26.00% | ~109,223 |
-| Mega-railroad | 23.00% | ~96,620 |
-| Upgrade complete | 23.00% | ~96,620 |
-| Just in time! | 18.00% | ~75,616 |
-| Builder | 17.00% | ~71,415 |
-| Long Haul | 17.00% | ~71,303 |
-| Steam Age | 16.00% | ~67,214 |
-| Multilevel road | 15.00% | ~63,013 |
-| Bridgemania | 14.00% | ~58,812 |
-| Need to think | 14.00% | ~58,812 |
-| The Tortoise | 12.00% | ~50,410 |
+| Dealmaker | 73.00% | ~306,669 |
+| Full garage | 61.00% | ~256,258 |
+| To the eyeballs! | 51.00% | ~214,248 |
+| Individual delivery | 47.00% | ~197,445 |
+| Non-Stop | 45.00% | ~189,043 |
+| Juggler | 36.00% | ~151,234 |
+| Forgot something | 35.00% | ~147,033 |
+| Close call! | 30.00% | ~126,028 |
+| Get out my way | 28.00% | ~117,627 |
+| Common cause | 26.00% | ~109,225 |
+| Critical care | 26.00% | ~109,225 |
+| Mega-railroad | 23.00% | ~96,622 |
+| Upgrade complete | 23.00% | ~96,622 |
+| Just in time! | 18.00% | ~75,617 |
+| Builder | 17.00% | ~71,416 |
+| Long Haul | 17.00% | ~71,304 |
+| Steam Age | 16.00% | ~67,215 |
+| Multilevel road | 15.00% | ~63,014 |
+| Bridgemania | 14.00% | ~58,813 |
+| Need to think | 14.00% | ~58,813 |
+| The Tortoise | 12.00% | ~50,411 |
 | Beginner | 11.00% | ~46,210 |
 | Without a lunch break | 11.00% | ~46,210 |
-| One way | 10.00% | ~42,009 |
-| Relocation | 10.00% | ~42,009 |
-| Industrial Age | 9.00% | ~37,808 |
+| One way | 10.00% | ~42,010 |
+| Relocation | 10.00% | ~42,010 |
+| Industrial Age | 9.00% | ~37,809 |
 | Just One More Valley | 9.00% | ~37,749 |
-| Prick of conscience | 8.00% | ~33,607 |
-| Missed it! | 7.00% | ~29,406 |
-| At the last moment! | 6.00% | ~25,205 |
-| Overseer | 6.00% | ~25,205 |
-| Highlander | 5.00% | ~21,004 |
-| Jewelry accuracy | 5.00% | ~21,004 |
-| Stargazer | 5.00% | ~21,004 |
-| Bridge builder | 4.00% | ~16,803 |
-| Electrical Age | 4.00% | ~16,803 |
-| Engineer | 4.00% | ~16,803 |
-| Large construction | 4.00% | ~16,803 |
-| Squander | 4.00% | ~16,803 |
+| Prick of conscience | 8.00% | ~33,608 |
+| Missed it! | 7.00% | ~29,407 |
+| At the last moment! | 6.00% | ~25,206 |
+| Overseer | 6.00% | ~25,206 |
+| Highlander | 5.00% | ~21,005 |
+| Jewelry accuracy | 5.00% | ~21,005 |
+| Stargazer | 5.00% | ~21,005 |
+| Bridge builder | 4.00% | ~16,804 |
+| Electrical Age | 4.00% | ~16,804 |
+| Engineer | 4.00% | ~16,804 |
+| Large construction | 4.00% | ~16,804 |
+| Squander | 4.00% | ~16,804 |
 | Globalisation Age | 3.00% | ~12,603 |
 | Living it large | 3.00% | ~12,603 |
 | Sabotage | 3.00% | ~12,603 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~419 |
 | World Zapper | 0.10% | ~419 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 420,087 (Ranked 45)  
+Progressed: 420,095 (Ranked 45)  
 Completed: 23 (0.01%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,10 +282,10 @@ Completed: 23 (0.01%) (Ranked 342)
 | 2023-11-27 | 419,592 | 23 |
 | 2023-11-28 | 419,797 | 23 |
 | 2023-11-29 | 419,997 | 23 |
-| 2023-11-30 | 420,087 | 23 |
+| 2023-11-30 | 420,095 | 23 |
 ## Awards
 Max (Challenging Puzzles): 931  (Ranked 159)  
-Sum: 1,866 (Ranked 219)  
+Sum: 1,867 (Ranked 219)  
 Diff (max vs sum): -60  
 | Award | Count |
 | ----- | ----- |
@@ -298,7 +298,7 @@ Diff (max vs sum): -60
 | This game is Highly Recommended | 93 |
 | This game has Challenging Combat | 82 |
 | This game has Amazing Storytelling | 67 |
-| This game has a Creative Community | 64 |
+| This game has a Creative Community | 65 |
 | This game has Amazing Characters | 50 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -494,4 +494,4 @@ Diff (max vs sum): -60
 | 2023-11-27 | 4.44 | - | 922 | 1,848 |
 | 2023-11-28 | 4.44 | - | 926 | 1,854 |
 | 2023-11-29 | 4.44 | - | 931 | 1,864 |
-| 2023-11-30 | 4.44 | - | 931 | 1,866 |
+| 2023-11-30 | 4.44 | - | 931 | 1,867 |

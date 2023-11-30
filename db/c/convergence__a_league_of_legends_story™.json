@@ -39,11 +39,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 944,
+  "EOS_Progressed": 945,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.64,
+  "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
     {
       "Time": "2023-05-23T23:05:09.8369672+00:00",
@@ -2539,6 +2539,11 @@
       "Time": "2023-11-30T01:56:07.3473518+00:00",
       "NumProgressed": 944,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-30T12:09:12.9752142+00:00",
+      "NumProgressed": 945,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2582,7 +2587,7 @@
       "Name": "Right On Time",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ClockworkCompletion1",
@@ -2598,7 +2603,7 @@
       "Name": "Like Clockwork",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ClovemaryGift",
@@ -2622,7 +2627,7 @@
       "Name": "Street Style",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "CultivairChests1",
@@ -2670,7 +2675,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2700,9 +2705,9 @@
       "ID": "GadgetProgress1",
       "SetID": "a9e499d",
       "Name": "Whiz Kid",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 132
     },
     {
       "ID": "GrindingTime1",
@@ -2710,7 +2715,7 @@
       "Name": "Rail Rat",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "HexlockGift",
@@ -2862,7 +2867,7 @@
       "Name": "Golem Chaser",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "SkillCompletion1",
@@ -2910,7 +2915,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "TheaterChests1",
@@ -2973,7 +2978,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 944,
+      "Progressed": 945,
       "Completed": 6
     }
   ],
@@ -2981,8 +2986,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-11-30T11:09:32.7518444+00:00",
+  "LastChanged_Achievements": "2023-11-30T12:09:12.9752077+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.4880941+00:00",
-  "LastUpdate_Ratings": "2023-11-30T11:00:16.9005859+00:00",
-  "LastUpdate_Achievements": "2023-11-30T11:09:32.7519035+00:00"
+  "LastUpdate_Ratings": "2023-11-30T11:59:59.2334412+00:00",
+  "LastUpdate_Achievements": "2023-11-30T12:09:12.9752558+00:00"
 }

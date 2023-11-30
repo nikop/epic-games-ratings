@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Strength in Defeat | 29.00% | ~2 |
 | Escape from Fleed | 14.00% | ~1 |
-| Strength in Defeat | 14.00% | ~1 |
 | The Remains of Fleed | 14.00% | ~1 |
 | Life of Pi | 14.00% | ~1 |
 | A Good Paint Job | 14.00% | ~1 |

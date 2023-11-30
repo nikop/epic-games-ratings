@@ -28,6 +28,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Donation | 0.40% | ~962 |
 | C-C-Combo | 0.40% | ~962 |
 | Deflection | 0.40% | ~962 |
+| Toxic | 0.40% | ~962 |
 | Explorer | 0.40% | ~962 |
 | Sneaky | 0.40% | ~962 |
 | An Offering | 0.40% | ~962 |
@@ -49,7 +50,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stone Touch | 0.30% | ~721 |
 | Doing Time | 0.30% | ~721 |
 | Spreading Plague | 0.30% | ~721 |
-| Toxic | 0.30% | ~721 |
 | Acid Bath | 0.30% | ~721 |
 | New Perspectives | 0.30% | ~721 |
 | Shadow Walker | 0.30% | ~721 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,423 (Ranked 63)  
+Progressed: 240,424 (Ranked 63)  
 Completed: 291 (0.12%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -369,7 +369,7 @@ Completed: 291 (0.12%) (Ranked 280)
 | 2023-11-27 | 240,313 | 291 |
 | 2023-11-28 | 240,354 | 291 |
 | 2023-11-29 | 240,403 | 291 |
-| 2023-11-30 | 240,423 | 291 |
+| 2023-11-30 | 240,424 | 291 |
 ## Awards
 Max (Great for Beginners): 1,534  (Ranked 132)  
 Sum: 13,236 (Ranked 78)  

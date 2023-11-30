@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Struck A Pose | 88.00% | ~21,970 |
-| Fried Friendship | 87.00% | ~21,720 |
-| Look At Him Go | 78.00% | ~19,473 |
-| On Rails Experience | 57.00% | ~14,231 |
-| A Daring Devil | 52.00% | ~12,982 |
-| It Took Two | 44.00% | ~10,985 |
-| Break the Bank | 43.00% | ~10,735 |
-| Bug Sized Relaxation | 22.00% | ~5,493 |
-| Plastic Prison Breakers | 17.00% | ~4,244 |
-| Terror Of The Seven Seas | 16.00% | ~3,995 |
-| Realize Your Art | 12.00% | ~2,996 |
-| Force Triangulated | 12.00% | ~2,996 |
-| Meditation Maestro | 12.00% | ~2,996 |
-| Lost And Found | 11.00% | ~2,746 |
-| Something Fishy | 11.00% | ~2,746 |
-| Platforming Prodigy | 9.00% | ~2,247 |
-| Snackosaurus | 8.00% | ~1,997 |
-| Mood Swing | 7.00% | ~1,748 |
+| Struck A Pose | 88.00% | ~21,985 |
+| Fried Friendship | 87.00% | ~21,735 |
+| Look At Him Go | 78.00% | ~19,487 |
+| On Rails Experience | 57.00% | ~14,240 |
+| A Daring Devil | 52.00% | ~12,991 |
+| It Took Two | 44.00% | ~10,993 |
+| Break the Bank | 43.00% | ~10,743 |
+| Bug Sized Relaxation | 22.00% | ~5,496 |
+| Plastic Prison Breakers | 17.00% | ~4,247 |
+| Terror Of The Seven Seas | 16.00% | ~3,997 |
+| Realize Your Art | 12.00% | ~2,998 |
+| Force Triangulated | 12.00% | ~2,998 |
+| Meditation Maestro | 12.00% | ~2,998 |
+| Lost And Found | 11.00% | ~2,748 |
+| Something Fishy | 11.00% | ~2,748 |
+| Platforming Prodigy | 9.00% | ~2,248 |
+| Snackosaurus | 8.00% | ~1,999 |
+| Mood Swing | 7.00% | ~1,749 |
 | Faraway Frequencies | 4.00% | ~999 |
 | Minigame Megalomania | 3.00% | ~749 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,966 (Ranked 129)  
+Progressed: 24,983 (Ranked 129)  
 Completed: 106 (0.42%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,4 +101,4 @@ Completed: 106 (0.42%) (Ranked 217)
 | 2023-11-27 | 24,529 | 105 |
 | 2023-11-28 | 24,716 | 105 |
 | 2023-11-29 | 24,901 | 106 |
-| 2023-11-30 | 24,966 | 106 |
+| 2023-11-30 | 24,983 | 106 |

@@ -62,7 +62,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Natural 20 | 2.00% | ~2,859 |
 | Seasoned Journeyman | 2.00% | ~2,859 |
 | Did we pack lunch? | 2.00% | ~2,859 |
-| Attrition Mission | 2.00% | ~2,859 |
 | Black Friday Special | 2.00% | ~2,859 |
 | Magical Harmony | 2.00% | ~2,859 |
 | Special Ingredient | 2.00% | ~2,859 |
@@ -95,6 +94,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Bountiful Harvest | 1.00% | ~1,429 |
 | Precision Engineering | 1.00% | ~1,429 |
 | Scourge of the Seas | 1.00% | ~1,429 |
+| Attrition Mission | 1.00% | ~1,429 |
 | Glittering Collection | 1.00% | ~1,429 |
 | Treasure Trove | 1.00% | ~1,429 |
 | Moment of Respite | 1.00% | ~1,429 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~429 |
 | Capitalist Camaraderie | 0.20% | ~286 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,933 (Ranked 80)  
-Completed: 289 (0.20%) (Ranked 257)  
+Progressed: 142,935 (Ranked 80)  
+Completed: 290 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -343,7 +343,7 @@ Completed: 289 (0.20%) (Ranked 257)
 | 2023-11-27 | 142,546 | 278 |
 | 2023-11-28 | 142,735 | 284 |
 | 2023-11-29 | 142,879 | 289 |
-| 2023-11-30 | 142,933 | 289 |
+| 2023-11-30 | 142,935 | 290 |
 ## Awards
 Max (Great for Beginners): 4,858  (Ranked 75)  
 Sum: 27,637 (Ranked 50)  

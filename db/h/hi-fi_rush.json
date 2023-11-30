@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4433,
+  "EOS_Progressed": 4435,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7965,6 +7965,11 @@
       "Time": "2023-11-30T09:05:09.9133559+00:00",
       "NumProgressed": 4433,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-30T12:05:41.6595021+00:00",
+      "NumProgressed": 4435,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8000,7 +8005,7 @@
       "Name": "The Negotiator",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "Ach005",
@@ -8112,7 +8117,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "Ach019",
@@ -8152,7 +8157,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "Ach024",
@@ -8216,7 +8221,7 @@
       "Name": "Perfect Parry",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "Ach032",
@@ -8344,7 +8349,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "Ach048",
@@ -8352,7 +8357,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "Ach049",
@@ -8543,13 +8548,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4433,
+      "Progressed": 4435,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2954,
+      "Progressed": 2956,
       "Completed": 1930
     }
   ],
@@ -8557,8 +8562,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-30T11:06:03.4100909+00:00",
+  "LastChanged_Achievements": "2023-11-30T12:05:41.6595018+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-11-30T10:58:43.9221275+00:00",
-  "LastUpdate_Achievements": "2023-11-30T11:06:03.4101852+00:00"
+  "LastUpdate_Ratings": "2023-11-30T11:58:22.6330085+00:00",
+  "LastUpdate_Achievements": "2023-11-30T12:05:41.6596054+00:00"
 }

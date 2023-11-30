@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 138,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1480,
+  "EOS_Progressed": 1481,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4419,6 +4419,11 @@
       "Time": "2023-11-30T11:10:03.4944984+00:00",
       "NumProgressed": 1480,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T12:09:45.1026682+00:00",
+      "NumProgressed": 1481,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4623,7 +4628,7 @@
       "Name": "Scrap collector",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "achievement_32",
@@ -4653,9 +4658,9 @@
       "ID": "achievement_35",
       "SetID": "271ol84",
       "Name": "New Recruit",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1333
     },
     {
       "ID": "achievement_36",
@@ -4934,13 +4939,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1480,
+      "Progressed": 1481,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1480,
+      "Progressed": 1481,
       "Completed": 1
     }
   ],
@@ -4948,8 +4953,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-30T11:10:03.4944979+00:00",
+  "LastChanged_Achievements": "2023-11-30T12:09:45.102668+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:02.7370766+00:00",
-  "LastUpdate_Ratings": "2023-11-30T10:58:28.5259444+00:00",
-  "LastUpdate_Achievements": "2023-11-30T11:10:03.494563+00:00"
+  "LastUpdate_Ratings": "2023-11-30T11:58:06.2534905+00:00",
+  "LastUpdate_Achievements": "2023-11-30T12:09:45.1027275+00:00"
 }

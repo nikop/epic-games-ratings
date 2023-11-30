@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 362,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 17.4,
   "EosHistory": [
@@ -1485,9 +1485,9 @@
       "ID": "ach_minigames_10",
       "SetID": "5e260i9",
       "Name": "Inquiring mind!",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 80,
-      "UsersEstimate": 250
+      "UsersEstimate": 253
     },
     {
       "ID": "ach_skip_1",
@@ -1524,8 +1524,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-11-30T11:09:02.6110886+00:00",
+  "LastChanged_Achievements": "2023-11-30T12:08:42.226872+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.3167471+00:00",
-  "LastUpdate_Ratings": "2023-11-30T11:03:27.6314891+00:00",
-  "LastUpdate_Achievements": "2023-11-30T11:09:02.611109+00:00"
+  "LastUpdate_Ratings": "2023-11-30T12:03:00.4871835+00:00",
+  "LastUpdate_Achievements": "2023-11-30T12:08:42.2268865+00:00"
 }
