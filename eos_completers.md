@@ -215,9 +215,9 @@
 | 213 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
 | 213 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.45% |
 | 215 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.44% |
-| 216 | [It Takes Two](games/i/it_takes_two.md) | 0.43% |
 | 216 | [Tchia](games/t/tchia.md) | 0.43% |
-| 218 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.42% |
+| 217 | [It Takes Two](games/i/it_takes_two.md) | 0.42% |
+| 217 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.42% |
 | 219 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.41% |
 | 219 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.41% |
 | 221 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.40% |

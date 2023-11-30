@@ -4,7 +4,7 @@
 | [The Ecdysis](games/8/824dd71739cf45fba9d997979856c5a9.md) | 2023-11-30 | - |  | - | - |
 | [Pinball M](games/d/d054771c2f3c4f4fb7d7028eca6ccca0.md) | 2023-11-30 | 47 (1,000 XP) | 1 | - | - |
 | [Zi](games/9/9824e1bd7ad44702a573bf07f0822bfa.md) | 2023-11-30 | - |  | - | - |
-| [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2023-11-30 | 53 (1,000 XP) | 25 | - | - |
+| [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2023-11-30 | 53 (1,000 XP) | 26 | - | - |
 | [Gladiator : Blades of Fury](games/2/285b64782090429a8c055d913b2c93f1.md) | 2023-11-30 | 6 (1,000 XP) | 3 | - | - |
 | [Christmas Mahjong](games/9/9a884ebe02d948d4b50c46e909f7b0dd.md) | 2023-11-30 | - |  | - | - |
 | [Black Academy](games/5/5bc5fe63f152435caf6a316d66bc87e3.md) | 2023-12-01 | 29 (1,000 XP) | 0 | - | - |
@@ -19,6 +19,7 @@
 | [Born of Bread](games/2/269f94247b4f471b9381fd4052bf1fad.md) | 2023-12-05 | - |  | - | - |
 | [1001 Jigsaw. World Tour: London](games/8/817bb3befd094b0f8ec6d5df1ffb4623.md) | 2023-12-06 | - |  | - | - |
 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 2023-12-07 | - |  | - | - |
+| [Miniland Adventure](games/8/8900287f0941428abcdd1b92af29abce.md) | 2023-12-07 | 52 (1,000 XP) | 3 | - | - |
 | [NINJA KATO 1](games/1/1d712926020a45dc8fe28cb4c963c9ce.md) | 2023-12-08 | 8 (1,000 XP) | 1 | - | - |
 | [Reiwa outliers](games/d/d9d2436669b34bb09595b0a997509eda.md) | 2023-12-08 | - |  | - | - |
 | [Royal Roads 2: The Magic Box](games/3/370fb1cb51b54f8dab0bcd71a7612b8c.md) | 2023-12-09 | - |  | - | - |
@@ -140,7 +141,7 @@
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
 | [Forgotten Runiverse](games/2/28102c9b12f0424cb937170f7f6286b9.md) | 2024-06-30 | - |  | - | - |
 | [I Love Finding Cats](games/2/22d7d08b02de4ce79b0316ced5064741.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 355,850 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 355,867 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -353,7 +354,6 @@
 | [Meta Nemesis](games/m/meta_nemesis.md) | 2099-01-01 | - |  | - | - |
 | [Midnight Pufferfish Show](games/4/4019249f7e6b41f8b063d7a3b36840dd.md) | 2099-01-01 | - |  | - | - |
 | [Mimic](games/2/2483b3cc6cc0474eadf938933d0b5929.md) | 2099-01-01 | - |  | - | - |
-| [Miniland Adventure](games/8/8900287f0941428abcdd1b92af29abce.md) | 2099-01-01 | 52 (1,000 XP) | 3 | - | - |
 | [Moon Mystery](games/m/moon_mystery.md) | 2099-01-01 | - |  | - | - |
 | [Moonray](games/1/1972d7d943d144318403545b8ae517ed.md) | 2099-01-01 | - |  | - | - |
 | [Morbid The Lords of Ire](games/m/morbid_the_lords_of_ire.md) | 2099-01-01 | - |  | - | - |

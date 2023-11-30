@@ -451,7 +451,7 @@
 | 446 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 187 | 295 |
 | 446 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 557 |
 | 446 | [Deceive Inc.](games/d/deceive_inc..md) | 4.58 | 0 | 557 |
-| 446 | [Dying Light 2 Stay Human - Black Friday Edition](games/d/dying_light_2_stay_human.md) | 4.58 | 10,312 | 39 |
+| 446 | [Dying Light 2 Stay Human - Black Friday Edition](games/d/dying_light_2_stay_human.md) | 4.58 | 10,326 | 39 |
 | 446 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 266 | 265 |
 | 446 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.58 | 21 | 544 |
 | 446 | [GRIME](games/g/grime.md) | 4.58 | 54 | 423 |
@@ -545,7 +545,7 @@
 | 541 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 23 | 534 |
 | 541 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 35 | 477 |
 | 541 | [Everything](games/e/everything.md) | 4.53 | 0 | 557 |
-| 541 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.53 | 1,455 | 134 |
+| 541 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.53 | 1,462 | 134 |
 | 541 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.53 | 113 | 348 |
 | 541 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,535 | 131 |
 | 541 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.53 | 0 | 557 |
@@ -937,7 +937,7 @@
 | 933 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 557 |
 | 933 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 557 |
 | 933 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,980 | 98 |
-| 933 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 213,117 | 5 |
+| 933 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 213,228 | 5 |
 | 933 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 369 |
 | 940 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 97 | 367 |
 | 940 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.17 | 0 | 557 |

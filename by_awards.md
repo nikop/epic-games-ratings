@@ -4,7 +4,7 @@
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 633,318 | 4.47 | 640 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 316,732 | 4.68 | 254 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 266,127 | 4.68 | 254 |
-| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 213,117 | 4.18 | 933 |
+| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 213,228 | 4.18 | 933 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 203,205 | 4.88 | 16 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 152,327 | 4.51 | 571 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 121,516 | 4.69 | 232 |
@@ -38,7 +38,7 @@
 | 36 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,663 | 4.69 | 232 |
 | 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,854 | 4.78 | 107 |
 | 38 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,484 | 4.61 | 386 |
-| 39 | [Dying Light 2 Stay Human - Black Friday Edition](games/d/dying_light_2_stay_human.md) | 10,312 | 4.58 | 446 |
+| 39 | [Dying Light 2 Stay Human - Black Friday Edition](games/d/dying_light_2_stay_human.md) | 10,326 | 4.58 | 446 |
 | 40 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 9,710 | 4.58 | 446 |
 | 41 | [Control](games/c/control.md) | 8,803 | 4.61 | 386 |
 | 42 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,791 | 4.89 | 11 |
@@ -133,7 +133,7 @@
 | 131 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,535 | 4.53 | 541 |
 | 132 | [Ring of Pain](games/r/ring_of_pain.md) | 1,534 | 4.58 | 446 |
 | 133 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,501 | 4.87 | 22 |
-| 134 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 1,455 | 4.53 | 541 |
+| 134 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 1,462 | 4.53 | 541 |
 | 135 | [XCOM® 2](games/x/xcom®_2.md) | 1,362 | 4.55 | 506 |
 | 136 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,342 | 4.70 | 216 |
 | 137 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,319 | 4.61 | 386 |
