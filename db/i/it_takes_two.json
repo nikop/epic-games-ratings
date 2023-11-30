@@ -4,8 +4,8 @@
   "ProductSlug": "it-takes-two",
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewPlayers": 54,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-06-10T11:00:00+00:00",
     "PcReleaseDate": "2021-03-25T11:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 25068,
+  "EOS_Progressed": 25069,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 1631,
+  "EOS_NewPlayers": 1632,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -8398,6 +8398,11 @@
       "Time": "2023-11-30T21:09:29.6077806+00:00",
       "NumProgressed": 25068,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-11-30T22:09:14.5551307+00:00",
+      "NumProgressed": 25069,
+      "NumCompleted": 106
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -8418,7 +8423,7 @@
       "Name": "Snackosaurus",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "achievement_11",
@@ -8458,7 +8463,7 @@
       "Name": "Lost And Found",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2757
+      "UsersEstimate": 2758
     },
     {
       "ID": "achievement_16",
@@ -8474,7 +8479,7 @@
       "Name": "Something Fishy",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2757
+      "UsersEstimate": 2758
     },
     {
       "ID": "achievement_18",
@@ -8514,7 +8519,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 21809
+      "UsersEstimate": 21810
     },
     {
       "ID": "achievement_4",
@@ -8522,7 +8527,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 22060
+      "UsersEstimate": 22061
     },
     {
       "ID": "achievement_5",
@@ -8546,7 +8551,7 @@
       "Name": "Look At Him Go",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 19553
+      "UsersEstimate": 19554
     },
     {
       "ID": "achievement_8",
@@ -8554,7 +8559,7 @@
       "Name": "Break the Bank",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 10779
+      "UsersEstimate": 10780
     },
     {
       "ID": "achievement_9",
@@ -8562,20 +8567,20 @@
       "Name": "A Daring Devil",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 13035
+      "UsersEstimate": 13036
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 25068,
+      "Progressed": 25069,
       "Completed": 106
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-11-30T21:09:29.6077803+00:00",
+  "LastChanged_Achievements": "2023-11-30T22:09:14.5551304+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:15.6228469+00:00",
-  "LastUpdate_Ratings": "2023-11-30T20:59:30.7606187+00:00",
-  "LastUpdate_Achievements": "2023-11-30T21:09:29.6078334+00:00"
+  "LastUpdate_Ratings": "2023-11-30T21:59:21.8429125+00:00",
+  "LastUpdate_Achievements": "2023-11-30T22:09:14.5551783+00:00"
 }

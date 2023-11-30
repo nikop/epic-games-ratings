@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,612 |
+| Whatever It Takes | 3.00% | ~1,613 |
 | Git Gutte! | 2.00% | ~14,564 |
 | Break A Leg | 2.00% | ~14,564 |
 | Coup de Grâce | 2.00% | ~14,564 |
@@ -47,17 +47,17 @@ Rating: 4.54 (Ranked 528)
 | Variety is the Spice of Death | 0.50% | ~3,641 |
 | Make it So | 0.40% | ~2,913 |
 | LA Influential | 0.40% | ~2,913 |
+| Gore Horse | 0.40% | ~2,913 |
 | Top That, Tisha! | 0.40% | ~215 |
 | Sole Survivor | 0.30% | ~2,185 |
-| Gore Horse | 0.30% | ~2,185 |
 | Sharpest Tool in the Box | 0.30% | ~2,185 |
 | Survival Skills | 0.20% | ~1,456 |
-| Lawn and Order | 0.20% | ~107 |
+| Lawn and Order | 0.20% | ~108 |
 | Donk! | 0.10% | ~728 |
 | Bucket List | 0.10% | ~728 |
 | Wilhelm | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,192 (Ranked 21)  
+Progressed: 728,214 (Ranked 21)  
 Completed: 2,456 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 2,456 (0.34%) (Ranked 231)
 | 2023-11-27 | 726,753 | 2,443 |
 | 2023-11-28 | 727,374 | 2,447 |
 | 2023-11-29 | 727,809 | 2,450 |
-| 2023-11-30 | 728,192 | 2,456 |
+| 2023-11-30 | 728,214 | 2,456 |
 ## Awards
 Max (Great Boss Battles): 7,821  (Ranked 49)  
 Sum: 11,987 (Ranked 84)  

@@ -60,6 +60,7 @@
 | Focused | 30.00% | ~440 |
 | Fade Away | 30.00% | ~440 |
 | Revenge! | 30.00% | ~440 |
+| Digital Exorcist | 30.00% | ~440 |
 | Heart of Darkness | 30.00% | ~440 |
 | Bringer of War | 30.00% | ~440 |
 | Archivist | 29.00% | ~425 |
@@ -68,7 +69,6 @@
 | Doppelganger | 29.00% | ~425 |
 | Treason | 29.00% | ~425 |
 | Agent | 29.00% | ~425 |
-| Digital Exorcist | 29.00% | ~425 |
 | Mobilizer | 29.00% | ~425 |
 | Untouchable | 28.00% | ~410 |
 | Mission Accomplished | 28.00% | ~410 |
@@ -102,12 +102,12 @@
 | Patriot | 18.00% | ~264 |
 | Master and Commander | 18.00% | ~264 |
 | Legend | 17.00% | ~249 |
+| Long Service Medal | 16.00% | ~235 |
 | Sabotage Specialist | 16.00% | ~235 |
-| Long Service Medal | 15.00% | ~220 |
 | Throw Mastery | 15.00% | ~220 |
 | Mail Slot | 14.00% | ~205 |
 | Electronics Specialist | 14.00% | ~205 |
-| Combined Arms | 12.00% | ~176 |
+| Combined Arms | 13.00% | ~191 |
 | Bruiser | 11.00% | ~161 |
 | Overload Specialist | 11.00% | ~161 |
 | Warp Mastery | 11.00% | ~161 |

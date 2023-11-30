@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~1,343 |
+| New Recruit | 90.00% | ~1,344 |
 | Off to a good start | 67.00% | ~1,000 |
 | Do... or do not. There is no try | 50.00% | ~746 |
 | A good blaster at your side | 30.00% | ~448 |
-| I suggest a new strategy | 19.00% | ~283 |
+| I suggest a new strategy | 19.00% | ~284 |
 | Scrap collector | 18.00% | ~269 |
 | All right, I'll give it a try | 17.00% | ~254 |
 | Great shot, kid! | 17.00% | ~254 |
@@ -21,7 +21,7 @@
 | Survivor | 9.00% | ~134 |
 | Never tell me the odds! | 8.00% | ~119 |
 | A cunning warrior | 8.00% | ~119 |
-| What's the cargo? | 7.00% | ~104 |
+| What's the cargo? | 7.00% | ~105 |
 | Impressive. Most impressive. | 6.00% | ~90 |
 | Judge me by my size, do you? | 6.00% | ~90 |
 | "Gonk? Gonk!" | 5.00% | ~75 |
@@ -53,12 +53,12 @@
 | Onwards! | 1.00% | ~15 |
 | The circle is now complete | 1.00% | ~15 |
 | Walker defender | 0.90% | ~13 |
+| Do we take prisoners? | 0.90% | ~13 |
 | Stop that Droid | 0.90% | ~13 |
 | No such thing as luck | 0.80% | ~12 |
-| Do we take prisoners? | 0.80% | ~12 |
 | A New Hope | 0.70% | ~10 |
 | I’ll take that bet | 0.60% | ~9 |
-| Stay on target | 0.40% | ~6 |
+| Stay on target | 0.50% | ~7 |
 | Greed can be a very powerful ally | 0.40% | ~6 |
 | That got him! | 0.30% | ~4 |
 | in a galaxy far, far away.... | 0.30% | ~4 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,492 (Ranked 242)  
+Progressed: 1,493 (Ranked 242)  
 Completed: 1 (0.07%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 1 (0.07%) (Ranked 302)
 | 2023-11-27 | 1,451 | 1 |
 | 2023-11-28 | 1,464 | 1 |
 | 2023-11-29 | 1,473 | 1 |
-| 2023-11-30 | 1,492 | 1 |
+| 2023-11-30 | 1,493 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

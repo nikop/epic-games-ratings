@@ -45,10 +45,10 @@ Rating: 3.45 (Ranked 1,050)
 | Sisterhood | 0.40% | ~7 |
 | What Lies Below | 0.40% | ~7 |
 | Bloody Initiate | 0.40% | ~7 |
+| Dexterity Save | 0.40% | ~7 |
 | Neighborhood Watch | 0.30% | ~5 |
 | So Anyway I Started Blasting | 0.30% | ~5 |
 | Under a Bushel | 0.30% | ~5 |
-| Dexterity Save | 0.30% | ~5 |
 | Good Samaritan | 0.30% | ~5 |
 | Friendgineering | 0.20% | ~4 |
 | Enemy of My Enemy | 0.20% | ~4 |

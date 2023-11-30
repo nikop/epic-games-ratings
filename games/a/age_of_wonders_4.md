@@ -48,10 +48,10 @@ Rating: 4.61 (Ranked 387)
 | God Emperor | 0.50% | ~28 |
 | Eternal Lord | 0.50% | ~28 |
 | Pruning for Progress | 0.50% | ~28 |
+| Grexolis | 0.50% | ~28 |
+| One for All, All for One | 0.50% | ~28 |
 | I've Got Everything I Need Right Here | 0.40% | ~22 |
 | The Goddess of Nature | 0.40% | ~22 |
-| Grexolis | 0.40% | ~22 |
-| One for All, All for One | 0.40% | ~22 |
 | Duality | 0.40% | ~22 |
 | Betrayal Most Foul | 0.30% | ~17 |
 | Snap Out of It! | 0.20% | ~11 |

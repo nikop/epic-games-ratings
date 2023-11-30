@@ -7,27 +7,27 @@ Number of Ratings: 28  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting started | 78.00% | ~413 |
-| Close call! | 72.00% | ~381 |
-| Builder | 53.00% | ~280 |
-| Pangs of conscience | 46.00% | ~243 |
+| Close call! | 72.00% | ~382 |
+| Builder | 52.00% | ~276 |
+| Pangs of conscience | 46.00% | ~244 |
 | Living it large! | 45.00% | ~238 |
-| Collector | 43.00% | ~227 |
-| Need to think | 43.00% | ~227 |
+| Collector | 43.00% | ~228 |
+| Need to think | 43.00% | ~228 |
 | Completely nuts! | 41.00% | ~217 |
 | Just in time! | 34.00% | ~180 |
-| Europe | 33.00% | ~175 |
+| Europe | 32.00% | ~170 |
 | Madness! | 31.00% | ~164 |
 | It's no coincidence. | 30.00% | ~159 |
 | Philatelist | 27.00% | ~143 |
 | Let's roll! | 27.00% | ~143 |
 | Ouroboros | 25.00% | ~132 |
 | Non Stop! | 24.00% | ~127 |
-| Foreman | 22.00% | ~116 |
+| Foreman | 22.00% | ~117 |
 | Russia | 20.00% | ~106 |
 | America | 19.00% | ~101 |
 | Missed it! | 19.00% | ~101 |
 | Sabotage | 17.00% | ~90 |
-| Achtung! | 12.00% | ~63 |
+| Achtung! | 12.00% | ~64 |
 | Japan | 11.00% | ~58 |
 | Woodcutter | 11.00% | ~58 |
 | Engineer | 11.00% | ~58 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Juggler | 0.40% | ~2 |
 | Maniac vandal | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 529 (Ranked 308)  
+Progressed: 530 (Ranked 308)  
 Completed: 2 (0.38%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,6 +163,7 @@ Completed: 2 (0.38%) (Ranked 225)
 | 2023-11-18 | 527 | 2 |
 | 2023-11-28 | 528 | 2 |
 | 2023-11-29 | 529 | 2 |
+| 2023-11-30 | 530 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

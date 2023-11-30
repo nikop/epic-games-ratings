@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2058,9 +2058,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15563,
+  "EOS_Progressed": 15565,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16843,6 +16843,11 @@
       "Time": "2023-11-30T21:08:10.5460632+00:00",
       "NumProgressed": 15563,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-30T22:07:42.8014829+00:00",
+      "NumProgressed": 15565,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16908,9 +16913,9 @@
       "ID": "ACHIEVEMENT_ASSASSINATED_BY_HEIR",
       "SetID": "9201eeb",
       "Name": "Bad Heir Day",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 156
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_HEIR",
@@ -18606,7 +18611,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -19204,9 +19209,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_TUTOR_HYPATIA",
       "SetID": "9201eeb",
       "Name": "Hypatia the Teacher",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_THE_ROYAL_COUPLE",
@@ -19589,21 +19594,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15563,
+      "Progressed": 15565,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15563,
+      "Progressed": 15565,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-29T17:58:00.0362268+00:00",
-  "LastChanged_Achievements": "2023-11-30T21:08:10.5460626+00:00",
+  "LastChanged_Achievements": "2023-11-30T22:07:42.8014825+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.3516564+00:00",
-  "LastUpdate_Ratings": "2023-11-30T20:59:13.1284693+00:00",
-  "LastUpdate_Achievements": "2023-11-30T21:08:10.5469267+00:00"
+  "LastUpdate_Ratings": "2023-11-30T21:59:05.3763131+00:00",
+  "LastUpdate_Achievements": "2023-11-30T22:07:42.8023489+00:00"
 }

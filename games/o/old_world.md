@@ -6,7 +6,7 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 7.00% | ~1,089 |
+| Play a Single Player Game | 7.00% | ~1,090 |
 | Explorer | 6.00% | ~934 |
 | Settler | 6.00% | ~934 |
 | Friendly Family | 6.00% | ~934 |
@@ -84,6 +84,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Single Player Game | 2.00% | ~311 |
 | Kushite Pyramids | 2.00% | ~311 |
 | Kushite Paganism | 2.00% | ~311 |
+| Bad Heir Day | 1.00% | ~156 |
 | Capable | 1.00% | ~156 |
 | Devout | 1.00% | ~156 |
 | Invincible | 1.00% | ~156 |
@@ -126,7 +127,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 1.00% | ~156 |
 | Double Victory | 1.00% | ~156 |
 | The Clergy | 1.00% | ~156 |
-| Bad Heir Day | 0.90% | ~140 |
 | Clerics | 0.90% | ~140 |
 | Egypt | 0.90% | ~140 |
 | Rome | 0.90% | ~140 |
@@ -200,6 +200,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Macedonian Wars | 0.20% | ~31 |
 | Punic Wars | 0.20% | ~31 |
 | Word of God | 0.20% | ~31 |
+| Hypatia the Teacher | 0.20% | ~31 |
 | Kmt Golden Age | 0.20% | ~31 |
 | Glory to The Aten | 0.20% | ~31 |
 | Akhenaten's Legacy | 0.20% | ~31 |
@@ -306,7 +307,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.10% | ~16 |
 | Pilgrimage | 0.10% | ~16 |
 | Patriarch St Paul | 0.10% | ~16 |
-| Hypatia the Teacher | 0.10% | ~16 |
 | Only Kem | 0.10% | ~16 |
 | Sepat Wase Forever | 0.10% | ~16 |
 | Pharaonic Greater Kmt Unified | 0.10% | ~16 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,563 (Ranked 152)  
+Progressed: 15,565 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -573,7 +573,7 @@ Completed: 5 (0.03%) (Ranked 326)
 | 2023-11-27 | 15,525 | 5 |
 | 2023-11-28 | 15,534 | 5 |
 | 2023-11-29 | 15,545 | 5 |
-| 2023-11-30 | 15,563 | 5 |
+| 2023-11-30 | 15,565 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,882 (Ranked 218)  

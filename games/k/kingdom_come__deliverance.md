@@ -6,28 +6,28 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~259,382 |
-| Cavalier | 25.00% | ~202,642 |
-| Fatso | 23.00% | ~186,431 |
-| Awakening | 21.00% | ~170,220 |
-| Ranger | 20.00% | ~162,114 |
-| Scrooge | 20.00% | ~162,114 |
-| Anorectic | 16.00% | ~129,691 |
-| Firestarter | 16.00% | ~129,691 |
+| Blacksmith's Son | 32.00% | ~259,384 |
+| Cavalier | 25.00% | ~202,644 |
+| Fatso | 23.00% | ~186,432 |
+| Awakening | 21.00% | ~170,221 |
+| Ranger | 20.00% | ~162,115 |
+| Scrooge | 20.00% | ~162,115 |
+| Anorectic | 16.00% | ~129,692 |
+| Firestarter | 16.00% | ~129,692 |
 | Bookworm | 15.00% | ~121,586 |
-| Insomniac | 13.00% | ~105,374 |
-| Buddy | 12.00% | ~97,268 |
-| Thief | 12.00% | ~97,268 |
+| Insomniac | 13.00% | ~105,375 |
+| Buddy | 12.00% | ~97,269 |
+| Thief | 12.00% | ~97,269 |
 | Sinner | 11.00% | ~89,163 |
 | Traveller | 11.00% | ~89,163 |
-| Convict | 10.00% | ~81,057 |
-| Haggler | 9.00% | ~72,951 |
+| Convict | 10.00% | ~81,058 |
+| Haggler | 9.00% | ~72,952 |
 | McLovin | 7.00% | ~56,740 |
 | Runt | 7.00% | ~56,740 |
 | Casanova | 6.00% | ~48,634 |
-| Bad Trip | 5.00% | ~40,528 |
-| Monk | 5.00% | ~40,528 |
-| Serial Killer | 5.00% | ~40,528 |
+| Bad Trip | 5.00% | ~40,529 |
+| Monk | 5.00% | ~40,529 |
+| Serial Killer | 5.00% | ~40,529 |
 | Bastard | 4.00% | ~32,423 |
 | Hunter | 4.00% | ~32,423 |
 | Plague Doctor | 4.00% | ~32,423 |
@@ -35,15 +35,15 @@ Number of Ratings: 9,133  (23.09.2022)
 | Conqueror | 3.00% | ~24,317 |
 | Ginger in a Pickle | 3.00% | ~24,317 |
 | Kingdom did not come | 3.00% | ~24,317 |
-| Completionist | 2.00% | ~16,211 |
-| Death by splinter | 2.00% | ~16,211 |
-| King Charming | 2.00% | ~16,211 |
-| Knightrider | 2.00% | ~16,211 |
-| Level Cap | 2.00% | ~16,211 |
-| Arena Master | 2.00% | ~16,211 |
-| Robber Baron | 2.00% | ~16,211 |
-| Talmberger | 2.00% | ~16,211 |
-| The End | 2.00% | ~16,211 |
+| Completionist | 2.00% | ~16,212 |
+| Death by splinter | 2.00% | ~16,212 |
+| King Charming | 2.00% | ~16,212 |
+| Knightrider | 2.00% | ~16,212 |
+| Level Cap | 2.00% | ~16,212 |
+| Arena Master | 2.00% | ~16,212 |
+| Robber Baron | 2.00% | ~16,212 |
+| Talmberger | 2.00% | ~16,212 |
+| The End | 2.00% | ~16,212 |
 | Woman's Lot | 1.00% | ~8,106 |
 | Chivalrous Soul | 1.00% | ~8,106 |
 | Spoilsport | 1.00% | ~8,106 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~811 |
 | Wingman | 0.10% | ~811 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 810,570 (Ranked 17)  
+Progressed: 810,575 (Ranked 17)  
 Completed: 52 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 52 (0.01%) (Ranked 343)
 | 2023-11-27 | 810,216 | 52 |
 | 2023-11-28 | 810,342 | 52 |
 | 2023-11-29 | 810,463 | 52 |
-| 2023-11-30 | 810,570 | 52 |
+| 2023-11-30 | 810,575 | 52 |
 ## Awards
 Max (Character Customization): 7,637  (Ranked 51)  
 Sum: 28,368 (Ranked 49)  

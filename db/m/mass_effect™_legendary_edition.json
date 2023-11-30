@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -4207,9 +4207,9 @@
       "ID": "achievement_101",
       "SetID": "d252ncf",
       "Name": "Combined Arms",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 176
+      "UsersEstimate": 191
     },
     {
       "ID": "achievement_102",
@@ -4399,9 +4399,9 @@
       "ID": "achievement_123",
       "SetID": "d252ncf",
       "Name": "Long Service Medal",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 125,
-      "UsersEstimate": 220
+      "UsersEstimate": 235
     },
     {
       "ID": "achievement_124",
@@ -4999,9 +4999,9 @@
       "ID": "achievement_77",
       "SetID": "d252ncf",
       "Name": "Digital Exorcist",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 425
+      "UsersEstimate": 440
     },
     {
       "ID": "achievement_78",
@@ -5211,8 +5211,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-30T21:09:31.490838+00:00",
+  "LastChanged_Achievements": "2023-11-30T22:09:16.3104464+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:10.3433357+00:00",
-  "LastUpdate_Ratings": "2023-11-30T21:03:16.9687184+00:00",
-  "LastUpdate_Achievements": "2023-11-30T21:09:31.4909901+00:00"
+  "LastUpdate_Ratings": "2023-11-30T22:03:20.6994676+00:00",
+  "LastUpdate_Achievements": "2023-11-30T22:09:16.3105983+00:00"
 }

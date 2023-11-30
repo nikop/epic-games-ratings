@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 3628,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3329,7 +3329,7 @@
       "Count": 327
     }
   ],
-  "EOS_Progressed": 17539,
+  "EOS_Progressed": 17540,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 129,
   "EOS_NewCompleters": -7,
@@ -14494,6 +14494,11 @@
       "Time": "2023-11-30T18:08:57.9709873+00:00",
       "NumProgressed": 17539,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-11-30T22:09:08.0777065+00:00",
+      "NumProgressed": 17540,
+      "NumCompleted": 49
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -14920,9 +14925,9 @@
       "ID": "WinNearGreed",
       "SetID": "cfbk359",
       "Name": "Land of Greed",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 175
     },
     {
       "ID": "WinNearLibrary",
@@ -14977,15 +14982,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17539,
+      "Progressed": 17540,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-30T20:00:49.175254+00:00",
-  "LastChanged_Achievements": "2023-11-30T21:09:22.5710708+00:00",
+  "LastChanged_Achievements": "2023-11-30T22:09:08.0777062+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:56.4973761+00:00",
-  "LastUpdate_Ratings": "2023-11-30T21:01:13.6292354+00:00",
-  "LastUpdate_Achievements": "2023-11-30T21:09:22.5711666+00:00"
+  "LastUpdate_Ratings": "2023-11-30T22:00:57.2333475+00:00",
+  "LastUpdate_Achievements": "2023-11-30T22:09:08.0778133+00:00"
 }

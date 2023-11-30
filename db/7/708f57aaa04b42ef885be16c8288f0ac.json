@@ -159,9 +159,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7157,
+  "EOS_Progressed": 7159,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1057,
+  "EOS_NewPlayers": 1055,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -5064,6 +5064,11 @@
       "Time": "2023-11-30T21:10:10.6227471+00:00",
       "NumProgressed": 7157,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-30T22:09:52.814906+00:00",
+      "NumProgressed": 7159,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5116,7 +5121,7 @@
       "Name": "Connection Lost",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "Eavesdropper",
@@ -5148,7 +5153,7 @@
       "Name": "First Time?",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "FuneralForTheDeath",
@@ -5228,7 +5233,7 @@
       "Name": "No More Totems",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "NotLikeTheOthers",
@@ -5276,7 +5281,7 @@
       "Name": "The Quarterback",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1646
+      "UsersEstimate": 1647
     },
     {
       "ID": "ThisIsDharma",
@@ -5300,7 +5305,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -5332,7 +5337,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "k01101110",
@@ -5347,7 +5352,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7157,
+      "Progressed": 7159,
       "Completed": 9
     }
   ],
@@ -5355,8 +5360,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-30T14:00:26.4003307+00:00",
-  "LastChanged_Achievements": "2023-11-30T21:10:10.6227466+00:00",
+  "LastChanged_Achievements": "2023-11-30T22:09:52.8149053+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-11-30T21:01:20.4466104+00:00",
-  "LastUpdate_Achievements": "2023-11-30T21:10:10.6227881+00:00"
+  "LastUpdate_Ratings": "2023-11-30T22:01:04.1183768+00:00",
+  "LastUpdate_Achievements": "2023-11-30T22:09:52.8149562+00:00"
 }

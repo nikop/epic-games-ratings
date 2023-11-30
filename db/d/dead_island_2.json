@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewPlayers": 26,
   "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -7095,9 +7095,9 @@
       "Count": 503
     }
   ],
-  "EOS_Progressed": 728192,
+  "EOS_Progressed": 728214,
   "EOS_Completed": 2456,
-  "EOS_NewPlayers": 4810,
+  "EOS_NewPlayers": 4797,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -32795,6 +32795,11 @@
       "Time": "2023-11-30T21:08:55.9869343+00:00",
       "NumProgressed": 728192,
       "NumCompleted": 2456
+    },
+    {
+      "Time": "2023-11-30T22:08:43.7700307+00:00",
+      "NumProgressed": 728214,
+      "NumCompleted": 2456
     }
   ],
   "TotalAchievements": 51,
@@ -33028,9 +33033,9 @@
       "ID": "ach_magnum_opus",
       "SetID": "7km39fm",
       "Name": "Gore Horse",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2913
     },
     {
       "ID": "ach_metropolitan",
@@ -33174,7 +33179,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1612
+      "UsersEstimate": 1613
     },
     {
       "ID": "ach_gardening_tools",
@@ -33182,7 +33187,7 @@
       "Name": "Lawn and Order",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ach_pork_chops",
@@ -33213,13 +33218,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 728192,
+      "Progressed": 728214,
       "Completed": 2456
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 53734,
+      "Progressed": 53756,
       "Completed": 36617
     }
   ],
@@ -33227,8 +33232,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-30T18:59:18.4572925+00:00",
-  "LastChanged_Achievements": "2023-11-30T21:08:55.9869338+00:00",
+  "LastChanged_Achievements": "2023-11-30T22:08:43.7700306+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-11-30T20:59:37.4870941+00:00",
-  "LastUpdate_Achievements": "2023-11-30T21:08:55.9870693+00:00"
+  "LastUpdate_Ratings": "2023-11-30T21:59:28.0630161+00:00",
+  "LastUpdate_Achievements": "2023-11-30T22:08:43.7701497+00:00"
 }

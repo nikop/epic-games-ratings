@@ -38,11 +38,11 @@ Rating: 4.64 (Ranked 337)
 | Meet Frasier from Frasier | 0.30% | ~6 |
 | Epic Legendary Prize | 0.20% | ~49 |
 | Mods Please Ban | 0.20% | ~49 |
+| Luglox Genocide | 0.20% | ~49 |
 | A Starfish Is Born | 0.20% | ~49 |
 | Give Away All Your Money | 0.20% | ~4 |
 | It's Like The Santa Clause | 0.20% | ~4 |
 | Playing Card To Get | 0.10% | ~25 |
-| Luglox Genocide | 0.10% | ~25 |
 | Seeing All The Sights | 0.10% | ~25 |
 | That's B.A.L.L., Folks | 0.10% | ~2 |
 | Cardbored | 0.10% | ~2 |

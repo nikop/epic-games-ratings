@@ -9,8 +9,8 @@
 | For the Horde! | 81.00% | ~410 |
 | Hammer Time, Round Two | 80.00% | ~405 |
 | The Hellwoods | 74.00% | ~374 |
-| The Plains of Strothalm | 68.00% | ~344 |
-| Experienced Thalya | 68.00% | ~344 |
+| The Plains of Strothalm | 69.00% | ~349 |
+| Experienced Thalya | 69.00% | ~349 |
 | Thalya's Concentrated Fury | 67.00% | ~339 |
 | Bad Elves Go Everywhere | 66.00% | ~334 |
 | Master of Magic | 63.00% | ~319 |
@@ -22,8 +22,8 @@
 | The Ascent | 52.00% | ~263 |
 | It's Warm and Cozy at Home | 52.00% | ~263 |
 | Hard Work | 47.00% | ~238 |
+| The Big Eaty | 47.00% | ~238 |
 | YOU SHALL NOT PASS! | 46.00% | ~233 |
-| The Big Eaty | 46.00% | ~233 |
 | “… like son” | 43.00% | ~218 |
 | Pure Dynamite! | 42.00% | ~213 |
 | Dungeonlord Gorgu | 39.00% | ~197 |
@@ -53,9 +53,9 @@
 | Lavalumps on Ice! | 13.00% | ~66 |
 | Rubble and Ashes | 12.00% | ~61 |
 | The Rune Sockets of Finitude (Part 2) | 12.00% | ~61 |
+| To Infinity And Beyond! | 11.00% | ~56 |
 | The Last Stand - This Time For Real! | 11.00% | ~56 |
 | To the Max! | 10.00% | ~51 |
-| To Infinity And Beyond! | 10.00% | ~51 |
 | Mirror, Mirror | 9.00% | ~46 |
 | Untouchable | 9.00% | ~46 |
 | Evilification | 8.00% | ~40 |

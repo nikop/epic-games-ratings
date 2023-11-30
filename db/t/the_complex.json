@@ -3,9 +3,9 @@
   "Name": "The Complex",
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 291,
-  "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_Completed": 97,
+  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -31,10 +31,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 651,
-  "EOS_Completed": 20,
+  "EOS_Completed": 21,
   "EOS_NewPlayers": 12,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.07,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 3.23,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -1065,6 +1065,11 @@
       "Time": "2023-11-30T13:14:34.7247028+00:00",
       "NumProgressed": 651,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-30T22:09:15.55494+00:00",
+      "NumProgressed": 651,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 20,
@@ -1098,9 +1103,9 @@
       "ID": "ending_1",
       "SetID": "d4f4pll",
       "Name": "The Nano Glitches And The Martyr",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 52
     },
     {
       "ID": "ending_2",
@@ -1236,15 +1241,15 @@
       "ID": "d4f4pll",
       "IsBase": true,
       "Progressed": 651,
-      "Completed": 20
+      "Completed": 21
     }
   ],
   "FirstSeen": "2022-10-09T13:32:29.6918033+00:00",
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-11-30T21:09:30.7220925+00:00",
+  "LastChanged_Achievements": "2023-11-30T22:09:15.5549394+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:06.3422687+00:00",
-  "LastUpdate_Ratings": "2023-11-30T21:01:20.0370391+00:00",
-  "LastUpdate_Achievements": "2023-11-30T21:09:30.7221082+00:00"
+  "LastUpdate_Ratings": "2023-11-30T22:01:03.4765924+00:00",
+  "LastUpdate_Achievements": "2023-11-30T22:09:15.5549575+00:00"
 }

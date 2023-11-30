@@ -261,9 +261,9 @@ Completed: 537 (0.26%) (Ranked 247)
 | 2023-11-29 | 206,217 | 535 |
 | 2023-11-30 | 206,261 | 537 |
 ## Awards
-Max (Challenging Puzzles): 573  (Ranked 203)  
+Max (Challenging Puzzles): 573  (Ranked 204)  
 Sum: 668 (Ranked 306)  
-Diff (max vs sum): -103  
+Diff (max vs sum): -102  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 573 |

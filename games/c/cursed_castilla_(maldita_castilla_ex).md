@@ -11,10 +11,10 @@
 | Summoner | 4.00% | ~3 |
 | Bad knight | 4.00% | ~3 |
 | Invisible encounter | 3.00% | ~2 |
+| A note from a Mort | 3.00% | ~2 |
+| Champion | 3.00% | ~2 |
 | Gentleman | 1.00% | ~1 |
-| A note from a Mort | 1.00% | ~1 |
 | Martyr | 1.00% | ~1 |
-| Champion | 1.00% | ~1 |
 | Hero | 1.00% | ~1 |
 | Purist | 1.00% | ~1 |
 | Swordmaster | 1.00% | ~1 |

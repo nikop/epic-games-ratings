@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4445,9 +4445,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77490,
+  "EOS_Progressed": 77491,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 560,
+  "EOS_NewPlayers": 556,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24565,6 +24565,11 @@
       "Time": "2023-11-30T21:06:05.6616145+00:00",
       "NumProgressed": 77490,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-11-30T22:05:46.8448841+00:00",
+      "NumProgressed": 77491,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -24728,7 +24733,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3874
+      "UsersEstimate": 3875
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -24888,7 +24893,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19372
+      "UsersEstimate": 19373
     },
     {
       "ID": "HARLEY_3",
@@ -24904,7 +24909,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12398
+      "UsersEstimate": 12399
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -24920,7 +24925,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38745
+      "UsersEstimate": 38746
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -24952,7 +24957,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20922
+      "UsersEstimate": 20923
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -24976,7 +24981,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19372
+      "UsersEstimate": 19373
     },
     {
       "ID": "MYSTERY_03",
@@ -25063,13 +25068,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77490,
+      "Progressed": 77491,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47770,
+      "Progressed": 47771,
       "Completed": 2675
     }
   ],
@@ -25077,8 +25082,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-30T08:59:04.0074158+00:00",
-  "LastChanged_Achievements": "2023-11-30T21:06:05.6616139+00:00",
+  "LastChanged_Achievements": "2023-11-30T22:05:46.8448838+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:48.4544768+00:00",
-  "LastUpdate_Ratings": "2023-11-30T21:00:43.0526382+00:00",
-  "LastUpdate_Achievements": "2023-11-30T21:06:05.6617226+00:00"
+  "LastUpdate_Ratings": "2023-11-30T22:00:28.3697509+00:00",
+  "LastUpdate_Achievements": "2023-11-30T22:05:46.845056+00:00"
 }

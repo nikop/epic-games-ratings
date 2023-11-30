@@ -187,9 +187,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 10444,
+  "EOS_Progressed": 10445,
   "EOS_Completed": 178,
-  "EOS_NewPlayers": 1070,
+  "EOS_NewPlayers": 1069,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.7,
   "EosHistory": [
@@ -5087,6 +5087,11 @@
       "Time": "2023-11-30T19:08:50.818843+00:00",
       "NumProgressed": 10444,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2023-11-30T22:08:49.9042983+00:00",
+      "NumProgressed": 10445,
+      "NumCompleted": 178
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -5099,7 +5104,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 91,
       "XP": 20,
-      "UsersEstimate": 9504
+      "UsersEstimate": 9505
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -5107,7 +5112,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 8982
+      "UsersEstimate": 8983
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -5131,7 +5136,7 @@
       "Name": "Off We Sail Tonight",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -5179,7 +5184,7 @@
       "Name": "Days Of Innocence",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 3133
+      "UsersEstimate": 3134
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -5203,7 +5208,7 @@
       "Name": "Happy Family",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 3655
+      "UsersEstimate": 3656
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_21",
@@ -5235,7 +5240,7 @@
       "Name": "Love Actually",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 5013
+      "UsersEstimate": 5014
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -5283,7 +5288,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 6893
+      "UsersEstimate": 6894
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -5307,7 +5312,7 @@
       "Name": "What I Want Is You",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 6266
+      "UsersEstimate": 6267
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -5315,7 +5320,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 5953
+      "UsersEstimate": 5954
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -5395,7 +5400,7 @@
       "Name": "You\u0027re Really Something Else",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 3864
+      "UsersEstimate": 3865
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_6",
@@ -5403,7 +5408,7 @@
       "Name": "Worthless Speech",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3655
+      "UsersEstimate": 3656
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_7",
@@ -5411,7 +5416,7 @@
       "Name": "Drama King",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 4386
+      "UsersEstimate": 4387
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_8",
@@ -5434,7 +5439,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 10444,
+      "Progressed": 10445,
       "Completed": 178
     }
   ],
@@ -5442,8 +5447,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-11-30T15:00:03.5385193+00:00",
-  "LastChanged_Achievements": "2023-11-30T21:09:02.8639822+00:00",
+  "LastChanged_Achievements": "2023-11-30T22:08:49.904298+00:00",
   "LastUpdate_AppInfo": "2023-11-25T01:40:00.6082481+00:00",
-  "LastUpdate_Ratings": "2023-11-30T21:00:05.0388029+00:00",
-  "LastUpdate_Achievements": "2023-11-30T21:09:02.8640215+00:00"
+  "LastUpdate_Ratings": "2023-11-30T21:59:52.2308035+00:00",
+  "LastUpdate_Achievements": "2023-11-30T22:08:49.9043526+00:00"
 }

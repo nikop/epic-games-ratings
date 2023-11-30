@@ -42,8 +42,8 @@
 | Soul Slayer | 35.00% | ~397 |
 | All Heart | 35.00% | ~397 |
 | Trick Question! | 35.00% | ~397 |
+| Final Showdown | 35.00% | ~397 |
 | The Downfall | 34.00% | ~386 |
-| Final Showdown | 34.00% | ~386 |
 | Spot of Tea? | 34.00% | ~386 |
 | Going Home | 34.00% | ~386 |
 | Extraordinary! | 33.00% | ~374 |

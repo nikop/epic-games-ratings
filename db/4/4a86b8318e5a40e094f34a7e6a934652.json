@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 233,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.29,
   "EosHistory": [
@@ -1064,9 +1064,9 @@
       "ID": "ACQUAINTANCE_EARL",
       "SetID": "aniflfk",
       "Name": "Holy Macaroni!",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 207
+      "UsersEstimate": 210
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -1128,9 +1128,9 @@
       "ID": "GROW_20_PLANTS",
       "SetID": "aniflfk",
       "Name": "Farmer",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 128
     },
     {
       "ID": "HOUSEWARMING",
@@ -1208,9 +1208,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 177
+      "UsersEstimate": 179
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -1231,8 +1231,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-11-30T21:05:15.2425599+00:00",
+  "LastChanged_Achievements": "2023-11-30T22:05:00.3284527+00:00",
   "LastUpdate_AppInfo": "2023-11-29T20:57:25.9655457+00:00",
-  "LastUpdate_Ratings": "2023-11-30T21:03:11.0444617+00:00",
-  "LastUpdate_Achievements": "2023-11-30T21:05:15.2425839+00:00"
+  "LastUpdate_Ratings": "2023-11-30T22:03:15.3496697+00:00",
+  "LastUpdate_Achievements": "2023-11-30T22:05:00.3284703+00:00"
 }

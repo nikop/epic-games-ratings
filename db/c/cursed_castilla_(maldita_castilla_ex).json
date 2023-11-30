@@ -4,8 +4,8 @@
   "ProductSlug": "cursed-castilla-maldita-castilla-ex-adaa43",
   "Ranking_EOS_Progress": 467,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-11-17T07:00:00+00:00",
     "PcReleaseDate": "2016-10-20T10:00:00+00:00",
@@ -230,9 +230,9 @@
       "ID": "cc_achievement_08",
       "SetID": "177a8ba",
       "Name": "A note from a Mort",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "cc_achievement_09",
@@ -254,9 +254,9 @@
       "ID": "cc_achievement_11",
       "SetID": "177a8ba",
       "Name": "Champion",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "cc_achievement_12",
@@ -311,8 +311,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.7963027+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.4421841+00:00",
   "LastChanged": "2023-03-31T05:57:25.7963028+00:00",
-  "LastChanged_Achievements": "2023-11-30T21:10:26.9395729+00:00",
+  "LastChanged_Achievements": "2023-11-30T22:10:07.7885343+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:23.2742131+00:00",
-  "LastUpdate_Ratings": "2023-11-30T20:57:15.2311983+00:00",
-  "LastUpdate_Achievements": "2023-11-30T21:10:26.9395813+00:00"
+  "LastUpdate_Ratings": "2023-11-30T21:57:18.9234273+00:00",
+  "LastUpdate_Achievements": "2023-11-30T22:10:07.7885428+00:00"
 }

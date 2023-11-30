@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 129,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 26,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
     "PcReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -4903,10 +4903,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6206,
       "NumberOfAwardsMax": 2533
+    },
+    {
+      "Time": "2023-11-30T22:03:28.9531615+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6208,
+      "NumberOfAwardsMax": 2533
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6206,
+  "NumberOfAwards": 6208,
   "NumberOfAwardsMax": 2533,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4920,7 +4926,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 400
+      "Count": 402
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4977,9 +4983,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 231333,
+  "EOS_Progressed": 231372,
   "EOS_Completed": 542,
-  "EOS_NewPlayers": 4794,
+  "EOS_NewPlayers": 4798,
   "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -20722,6 +20728,11 @@
       "Time": "2023-11-30T21:09:27.4387709+00:00",
       "NumProgressed": 231333,
       "NumCompleted": 542
+    },
+    {
+      "Time": "2023-11-30T22:09:12.5919107+00:00",
+      "NumProgressed": 231372,
+      "NumCompleted": 542
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20814,7 +20825,7 @@
       "Name": "The Killing Jar",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1619
+      "UsersEstimate": 1620
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -21134,7 +21145,7 @@
       "Name": "Regicide",
       "Percentage": 0.7,
       "XP": 75,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -21150,7 +21161,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -21158,7 +21169,7 @@
       "Name": "A Foul Feast",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "DLC1_Obtain_Warden_Reward",
@@ -21173,22 +21184,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 231333,
+      "Progressed": 231372,
       "Completed": 542
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 10498,
+      "Progressed": 10537,
       "Completed": 176
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-30T20:03:23.3953468+00:00",
-  "LastChanged_Achievements": "2023-11-30T21:09:27.4387703+00:00",
+  "LastChanged": "2023-11-30T22:03:28.9531614+00:00",
+  "LastChanged_Achievements": "2023-11-30T22:09:12.5919103+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-30T21:03:36.7131654+00:00",
-  "LastUpdate_Achievements": "2023-11-30T21:09:27.4388619+00:00"
+  "LastUpdate_Ratings": "2023-11-30T22:03:28.953162+00:00",
+  "LastUpdate_Achievements": "2023-11-30T22:09:12.5920312+00:00"
 }

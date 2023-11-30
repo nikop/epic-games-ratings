@@ -8,7 +8,7 @@ Number of Ratings: 292  (23.09.2022)
 | ---- | ---------- | ----- |
 | Adept | 34.00% | ~100 |
 | Double Kill | 25.00% | ~74 |
-| Critical Hit | 12.00% | ~35 |
+| Critical Hit | 13.00% | ~38 |
 | Veteran | 11.00% | ~32 |
 | Dressed For Success | 9.00% | ~27 |
 | Sorcerous Spree | 6.00% | ~18 |
@@ -27,12 +27,12 @@ Number of Ratings: 292  (23.09.2022)
 | This Spot's Taken | 1.00% | ~3 |
 | Deepstrike | 1.00% | ~3 |
 | Infernal Influence | 1.00% | ~3 |
+| Ultra Kill | 1.00% | ~3 |
 | Death To Diplomacy | 0.70% | ~2 |
 | Versatile Wielder | 0.70% | ~2 |
 | Coming Through! | 0.70% | ~2 |
 | Barbecue | 0.70% | ~2 |
 | Don't Touch My Stuff | 0.70% | ~2 |
-| Ultra Kill | 0.70% | ~2 |
 | Grand Master | 0.70% | ~2 |
 | Hello There | 0.30% | ~1 |
 | Unlimited Power! | 0.30% | ~1 |

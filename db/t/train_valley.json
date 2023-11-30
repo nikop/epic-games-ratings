@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -132,9 +132,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 529,
+  "EOS_Progressed": 530,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1342,6 +1342,11 @@
       "Time": "2023-11-29T01:56:08.2982717+00:00",
       "NumProgressed": 529,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-30T22:05:02.1479727+00:00",
+      "NumProgressed": 530,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1361,7 +1366,7 @@
       "Name": "Collector",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "03_philatelist",
@@ -1385,7 +1390,7 @@
       "Name": "Pangs of conscience",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "06_living",
@@ -1399,9 +1404,9 @@
       "ID": "07_europe",
       "SetID": "chb1m60",
       "Name": "Europe",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 175
+      "UsersEstimate": 170
     },
     {
       "ID": "08_america",
@@ -1479,9 +1484,9 @@
       "ID": "17_builder",
       "SetID": "chb1m60",
       "Name": "Builder",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 280
+      "UsersEstimate": 276
     },
     {
       "ID": "18_foreman",
@@ -1489,7 +1494,7 @@
       "Name": "Foreman",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "19_justintime",
@@ -1529,7 +1534,7 @@
       "Name": "Close call!",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "24_mega",
@@ -1617,7 +1622,7 @@
       "Name": "Need to think",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "35_achtung",
@@ -1625,7 +1630,7 @@
       "Name": "Achtung!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "36_supercrash",
@@ -1664,15 +1669,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 529,
+      "Progressed": 530,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-09-23T19:00:36.0392229+00:00",
-  "LastChanged_Achievements": "2023-11-30T21:05:17.1605207+00:00",
+  "LastChanged_Achievements": "2023-11-30T22:05:02.1479722+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:13.4562338+00:00",
-  "LastUpdate_Ratings": "2023-11-30T20:59:13.5305049+00:00",
-  "LastUpdate_Achievements": "2023-11-30T21:05:17.1605536+00:00"
+  "LastUpdate_Ratings": "2023-11-30T21:59:05.9016475+00:00",
+  "LastUpdate_Achievements": "2023-11-30T22:05:02.1480045+00:00"
 }

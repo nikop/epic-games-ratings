@@ -2,10 +2,10 @@
   "ID": "172112126caf448aa6e069b16a9f0118",
   "Name": "Forest Grove",
   "ProductSlug": "forest-grove-6b05cf",
-  "Ranking_EOS_Progress": 571,
-  "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_Progress": 565,
+  "Ranking_EOS_Completed": 73,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-28T13:00:00+00:00",
     "PcReleaseDate": "2023-11-28T13:00:00+00:00",
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 18,
+  "EOS_Progressed": 19,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.56,
+  "EOS_Completed_Percentage": 5.26,
   "EosHistory": [
     {
       "Time": "2023-10-10T13:09:13.100464+00:00",
@@ -72,6 +72,11 @@
       "Time": "2023-11-30T19:07:42.9343024+00:00",
       "NumProgressed": 18,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-30T22:07:28.3608673+00:00",
+      "NumProgressed": 19,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-10T13:09:13.1022392+00:00",
@@ -82,7 +87,7 @@
       "ID": "1",
       "SetID": "36pe9e2",
       "Name": "Entered the Nanodeck",
-      "Percentage": 61,
+      "Percentage": 58,
       "XP": 50,
       "UsersEstimate": 11
     },
@@ -90,7 +95,7 @@
       "ID": "10",
       "SetID": "36pe9e2",
       "Name": "Solved the Case",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -106,7 +111,7 @@
       "ID": "12",
       "SetID": "36pe9e2",
       "Name": "Honors Investigator",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -114,7 +119,7 @@
       "ID": "2",
       "SetID": "36pe9e2",
       "Name": "Found Secret Area",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 90,
       "UsersEstimate": 3
     },
@@ -122,7 +127,7 @@
       "ID": "3",
       "SetID": "36pe9e2",
       "Name": "Found Secret Room",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -146,7 +151,7 @@
       "ID": "6",
       "SetID": "36pe9e2",
       "Name": "Aligned Hovercams",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -154,7 +159,7 @@
       "ID": "7",
       "SetID": "36pe9e2",
       "Name": "Listened to Audio Fragments",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -162,7 +167,7 @@
       "ID": "8",
       "SetID": "36pe9e2",
       "Name": "Read Between the Lines",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -170,7 +175,7 @@
       "ID": "9",
       "SetID": "36pe9e2",
       "Name": "Submit your Case Report",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 90,
       "UsersEstimate": 1
     }
@@ -179,13 +184,13 @@
     {
       "ID": "36pe9e2",
       "IsBase": true,
-      "Progressed": 18,
+      "Progressed": 19,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-10-10T13:09:13.1022391+00:00",
-  "LastChanged_Achievements": "2023-11-30T21:07:54.8258487+00:00",
+  "LastChanged_Achievements": "2023-11-30T22:07:28.3608667+00:00",
   "LastUpdate_AppInfo": "2023-11-28T18:57:03.2699178+00:00",
-  "LastUpdate_Ratings": "2023-11-30T20:59:30.2978866+00:00",
-  "LastUpdate_Achievements": "2023-11-30T21:07:54.8258565+00:00"
+  "LastUpdate_Ratings": "2023-11-30T21:59:21.3759396+00:00",
+  "LastUpdate_Achievements": "2023-11-30T22:07:28.3608753+00:00"
 }

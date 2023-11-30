@@ -2,13 +2,13 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 792,
+  "Ranking_Rating": 791,
   "Ranking_Popularity": 286,
   "Ranking_PopularitySum": 222,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1075,9 +1075,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 14309,
+  "EOS_Progressed": 14311,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 841,
+  "EOS_NewPlayers": 831,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -11965,6 +11965,11 @@
       "Time": "2023-11-30T21:09:39.1287241+00:00",
       "NumProgressed": 14309,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-30T22:09:23.5254096+00:00",
+      "NumProgressed": 14311,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -12025,7 +12030,7 @@
       "Name": "Bye Bye",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 6010
+      "UsersEstimate": 6011
     },
     {
       "ID": "a_19",
@@ -12041,7 +12046,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "a_20",
@@ -12081,7 +12086,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "a_26",
@@ -12224,7 +12229,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 14309,
+      "Progressed": 14311,
       "Completed": 12
     }
   ],
@@ -12232,8 +12237,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-27T12:03:17.4706024+00:00",
-  "LastChanged_Achievements": "2023-11-30T21:09:39.1287237+00:00",
+  "LastChanged_Achievements": "2023-11-30T22:09:23.5254092+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:21.5449859+00:00",
-  "LastUpdate_Ratings": "2023-11-30T21:03:10.7674274+00:00",
-  "LastUpdate_Achievements": "2023-11-30T21:09:39.1288081+00:00"
+  "LastUpdate_Ratings": "2023-11-30T22:03:15.1640659+00:00",
+  "LastUpdate_Achievements": "2023-11-30T22:09:23.5254732+00:00"
 }

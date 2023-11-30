@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 138,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 390,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1009,9 +1009,9 @@
       "ID": "FIRST_POWER_BOOST",
       "SetID": "apihg0e",
       "Name": "Speed Demon",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 176
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1224,8 +1224,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-30T21:09:14.9676014+00:00",
+  "LastChanged_Achievements": "2023-11-30T22:09:01.2113227+00:00",
   "LastUpdate_AppInfo": "2023-11-28T17:56:55.9843317+00:00",
-  "LastUpdate_Ratings": "2023-11-30T21:03:01.0258413+00:00",
-  "LastUpdate_Achievements": "2023-11-30T21:09:14.9676361+00:00"
+  "LastUpdate_Ratings": "2023-11-30T22:03:06.1805375+00:00",
+  "LastUpdate_Achievements": "2023-11-30T22:09:01.2113466+00:00"
 }
