@@ -11,22 +11,22 @@
 | 9 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 37.11% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 11 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 12 | [The Riflemen](games/t/the_riflemen.md) | 26.04% |
+| 12 | [The Riflemen](games/t/the_riflemen.md) | 26.03% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.40% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 14 | [Overloop](games/o/overloop.md) | 25.00% |
 | 16 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 17 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 24.19% |
+| 17 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 23.81% |
 | 18 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
 | 19 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
-| 19 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 20.00% |
 | 19 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
-| 22 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
-| 23 | [Doodle Devil](games/d/doodle_devil.md) | 18.60% |
-| 24 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 18.18% |
-| 25 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 17.40% |
-| 26 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 16.67% |
-| 26 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 16.67% |
+| 21 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
+| 22 | [Doodle Devil](games/d/doodle_devil.md) | 18.60% |
+| 23 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 18.18% |
+| 24 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 17.40% |
+| 25 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 16.67% |
+| 25 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 16.67% |
+| 25 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 16.67% |
 | 28 | [Island Cities](games/i/island_cities.md) | 16.44% |
 | 29 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.47% |
 | 30 | [Remains](games/r/remains.md) | 14.55% |
@@ -101,8 +101,8 @@
 | 99 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
 | 100 | [Doodle God](games/d/doodle_god.md) | 3.10% |
 | 101 | [Monster Harvest](games/m/monster_harvest.md) | 3.08% |
-| 101 | [The Complex](games/t/the_complex.md) | 3.08% |
 | 101 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.08% |
+| 103 | [The Complex](games/t/the_complex.md) | 3.07% |
 | 104 | [Destiny 2](games/d/destiny_2.md) | 3.05% |
 | 105 | [HordeCore](games/h/hordecore.md) | 3.04% |
 | 106 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.97% |
@@ -238,13 +238,13 @@
 | 235 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 237 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.30% |
 | 238 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
-| 238 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.29% |
 | 238 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.29% |
 | 238 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.29% |
 | 238 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.29% |
 | 238 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.29% |
-| 244 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.28% |
-| 244 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
+| 243 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.28% |
+| 243 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.28% |
+| 243 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
 | 246 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.27% |
 | 247 | [Filament](games/f/filament.md) | 0.26% |
 | 248 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.25% |
@@ -279,13 +279,13 @@
 | 272 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
 | 272 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.13% |
 | 272 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.13% |
+| 280 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.12% |
 | 280 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
-| 281 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.11% |
-| 281 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.11% |
-| 281 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.11% |
-| 281 | [Isonzo](games/i/isonzo.md) | 0.11% |
-| 281 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
-| 281 | [Partisans 1941](games/p/partisans_1941.md) | 0.11% |
+| 282 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.11% |
+| 282 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.11% |
+| 282 | [Isonzo](games/i/isonzo.md) | 0.11% |
+| 282 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
+| 282 | [Partisans 1941](games/p/partisans_1941.md) | 0.11% |
 | 287 | [Black Book](games/b/black_book.md) | 0.10% |
 | 287 | [House Flipper](games/h/house_flipper.md) | 0.10% |
 | 287 | [Supraland](games/s/supraland.md) | 0.10% |
@@ -762,4 +762,4 @@
 | 362 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 362 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 362 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,622 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,623 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
