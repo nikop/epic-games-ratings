@@ -11,7 +11,7 @@
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.24% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 11 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 12 | [The Riflemen](games/t/the_riflemen.md) | 26.10% |
+| 12 | [The Riflemen](games/t/the_riflemen.md) | 26.09% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.40% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 14 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -26,7 +26,7 @@
 | 24 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 17.45% |
 | 25 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 16.67% |
 | 25 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 16.67% |
-| 27 | [Island Cities](games/i/island_cities.md) | 16.48% |
+| 27 | [Island Cities](games/i/island_cities.md) | 16.46% |
 | 28 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.47% |
 | 29 | [Remains](games/r/remains.md) | 14.55% |
 | 30 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
@@ -54,7 +54,7 @@
 | 52 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.75% |
 | 53 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.67% |
-| 55 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.56% |
+| 55 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.53% |
 | 56 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.41% |
 | 57 | [Anna's Quest](games/a/anna's_quest.md) | 7.23% |
 | 58 | [Sonic Origins](games/s/sonic_origins.md) | 7.20% |
@@ -118,9 +118,9 @@
 | 116 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.54% |
 | 117 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.52% |
 | 118 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 119 | [Night Book](games/n/night_book.md) | 2.43% |
-| 120 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.42% |
-| 120 | [Lamentum](games/l/lamentum.md) | 2.42% |
+| 119 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.42% |
+| 119 | [Lamentum](games/l/lamentum.md) | 2.42% |
+| 119 | [Night Book](games/n/night_book.md) | 2.42% |
 | 122 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
 | 123 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 124 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.25% |
@@ -386,6 +386,7 @@
 | 362 | [Astrea Six Sided Oracles](games/a/astrea_six_sided_oracles.md) | 0.00% |
 | 362 | [Atari Mania](games/a/atari_mania.md) | 0.00% |
 | 362 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 0.00% |
+| 362 | [Aviatrix Official](games/7/79312789a26f41dd99cd05ee30e5c524.md) | 0.00% |
 | 362 | [Backpack Hero](games/0/0dc17d69dbfa4dd7b4eeb480d3adad6d.md) | 0.00% |
 | 362 | [Backrooms: Realm of Shadows](games/b/b5067143ff63434e9c902de3ffd197f6.md) | 0.00% |
 | 362 | [Batora: Lost Haven](games/c/c609e63aa7f44e55835f51df979ee6b8.md) | 0.00% |
