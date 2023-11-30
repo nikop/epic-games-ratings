@@ -685,6 +685,7 @@
 | [Tannenberg](../games/t/tannenberg.md) | 67 | 1,000 |
 | [Tchia](../games/t/tchia.md) | 21 | 1,000 |
 | [Ten Dates](../games/t/ten_dates.md) | 19 | 1,000 |
+| [Tenement](../games/7/78d14ec62d2a41d095ac4facc9278617.md) | 60 | 1,000 |
 | [Terminal Velocity™: Boosted Edition](../games/t/terminal_velocity™__boosted_edition.md) | 32 | 1,000 |
 | [Terraforming Mars](../games/t/terraforming_mars.md) | 30 | 1,000 |
 | [Terror of Hemasaurus](../games/t/terror_of_hemasaurus.md) | 30 | 1,000 |

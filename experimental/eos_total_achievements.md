@@ -105,6 +105,7 @@
 | [Paquerette Down the Bunburrows](../games/3/3c8f3297965d4326b0b16a6aeb968b5d.md) | 60 | 1,000 |
 | [Rogue Spirit](../games/r/rogue_spirit.md) | 60 | 1,000 |
 | [Sifu](../games/s/sifu.md) | 60 | 1,720 |
+| [Tenement](../games/7/78d14ec62d2a41d095ac4facc9278617.md) | 60 | 1,000 |
 | [WTC - Relentless Protagonist](../games/w/wtc_-_relentless_protagonist.md) | 60 | 1,000 |
 | [Against the Storm](../games/a/against_the_storm.md) | 59 | 1,000 |
 | [PC Building Simulator 2](../games/p/pc_building_simulator_2.md) | 59 | 1,000 |
