@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251739,
+  "EOS_Progressed": 251740,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20197,6 +20197,11 @@
       "Time": "2023-12-01T07:09:02.2453068+00:00",
       "NumProgressed": 251739,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-01T08:09:20.1917811+00:00",
+      "NumProgressed": 251740,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -20440,7 +20445,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 35243
+      "UsersEstimate": 35244
     },
     {
       "ID": "myFirstRunbow",
@@ -20575,7 +20580,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251739,
+      "Progressed": 251740,
       "Completed": 6
     }
   ],
@@ -20583,8 +20588,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-01T07:09:02.2453063+00:00",
+  "LastChanged_Achievements": "2023-12-01T08:09:20.1917808+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:52.8693744+00:00",
-  "LastUpdate_Ratings": "2023-12-01T06:59:35.5974728+00:00",
-  "LastUpdate_Achievements": "2023-12-01T07:09:02.2454123+00:00"
+  "LastUpdate_Ratings": "2023-12-01T07:59:56.1214148+00:00",
+  "LastUpdate_Achievements": "2023-12-01T08:09:20.1919159+00:00"
 }

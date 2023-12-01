@@ -167,7 +167,7 @@
   "Tags": [],
   "EOS_Progressed": 7181,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1011,
+  "EOS_NewPlayers": 1009,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -5197,9 +5197,9 @@
       "ID": "FirstTime",
       "SetID": "acc6ea0",
       "Name": "First Time?",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2011
+      "UsersEstimate": 2082
     },
     {
       "ID": "FuneralForTheDeath",
@@ -5406,8 +5406,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-01T01:56:51.5365548+00:00",
-  "LastChanged_Achievements": "2023-12-01T07:09:07.0875568+00:00",
+  "LastChanged_Achievements": "2023-12-01T08:09:25.8534515+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-01T06:59:59.9556106+00:00",
-  "LastUpdate_Achievements": "2023-12-01T07:09:07.0876058+00:00"
+  "LastUpdate_Ratings": "2023-12-01T08:00:24.3720767+00:00",
+  "LastUpdate_Achievements": "2023-12-01T08:09:25.8534975+00:00"
 }

@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8459,
+  "EOS_Progressed": 8460,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7718,6 +7718,11 @@
       "Time": "2023-12-01T07:09:25.1889993+00:00",
       "NumProgressed": 8459,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-01T08:09:45.030673+00:00",
+      "NumProgressed": 8460,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -7850,7 +7855,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2622
+      "UsersEstimate": 2623
     },
     {
       "ID": "GamesPlayed10",
@@ -8321,7 +8326,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8459,
+      "Progressed": 8460,
       "Completed": 1
     }
   ],
@@ -8329,8 +8334,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-28T13:57:22.5296785+00:00",
-  "LastChanged_Achievements": "2023-12-01T07:09:25.1889988+00:00",
+  "LastChanged_Achievements": "2023-12-01T08:09:45.0306724+00:00",
   "LastUpdate_AppInfo": "2023-11-28T15:57:00.1791972+00:00",
-  "LastUpdate_Ratings": "2023-12-01T06:58:37.3252746+00:00",
-  "LastUpdate_Achievements": "2023-12-01T07:09:25.1890786+00:00"
+  "LastUpdate_Ratings": "2023-12-01T07:58:50.84807+00:00",
+  "LastUpdate_Achievements": "2023-12-01T08:09:45.0307923+00:00"
 }

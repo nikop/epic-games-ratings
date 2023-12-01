@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 364,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 17.86,
   "EosHistory": [
@@ -1465,9 +1465,9 @@
       "ID": "ach_complete_tutorial",
       "SetID": "5e260i9",
       "Name": "Welcome aboard!",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 80,
-      "UsersEstimate": 346
+      "UsersEstimate": 349
     },
     {
       "ID": "ach_hint_3",
@@ -1544,8 +1544,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-12-01T07:06:42.9917486+00:00",
+  "LastChanged_Achievements": "2023-12-01T08:08:37.0229066+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.3167471+00:00",
-  "LastUpdate_Ratings": "2023-12-01T07:00:39.008788+00:00",
-  "LastUpdate_Achievements": "2023-12-01T07:06:42.9917639+00:00"
+  "LastUpdate_Ratings": "2023-12-01T08:02:49.0514172+00:00",
+  "LastUpdate_Achievements": "2023-12-01T08:08:37.022922+00:00"
 }

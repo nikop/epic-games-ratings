@@ -4,7 +4,7 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 464,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1441,9 +1441,9 @@
       "ID": "ACHIEVEMENT_1",
       "SetID": "7pimpda",
       "Name": "Travel Streamer",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 427
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1457,9 +1457,9 @@
       "ID": "ACHIEVEMENT_11",
       "SetID": "7pimpda",
       "Name": "Guardian",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -1810,8 +1810,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-01T07:05:41.6983268+00:00",
+  "LastChanged_Achievements": "2023-12-01T08:06:17.6137138+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-12-01T06:59:30.409604+00:00",
-  "LastUpdate_Achievements": "2023-12-01T07:05:41.6983616+00:00"
+  "LastUpdate_Ratings": "2023-12-01T07:59:50.2039644+00:00",
+  "LastUpdate_Achievements": "2023-12-01T08:06:17.6137464+00:00"
 }

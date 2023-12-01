@@ -30,9 +30,9 @@ Rating: 4.55 (Ranked 507)
 | Thorston Mayer | 3.00% | ~474 |
 | Data Logger | 2.00% | ~316 |
 | Miraculous Maya | 2.00% | ~316 |
+| Data Master | 2.00% | ~316 |
 | Brother's Reaper | 1.00% | ~158 |
 | No Belter Left Behind | 1.00% | ~158 |
-| Data Master | 1.00% | ~158 |
 | Debris Spree | 0.90% | ~142 |
 | Data Recoverer | 0.80% | ~126 |
 | Urshanabi Hoarder | 0.60% | ~95 |

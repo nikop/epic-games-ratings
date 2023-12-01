@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,615 |
+| Whatever It Takes | 3.00% | ~1,616 |
 | Git Gutte! | 2.00% | ~14,566 |
 | Break A Leg | 2.00% | ~14,566 |
 | Coup de Grâce | 2.00% | ~14,566 |
@@ -39,8 +39,8 @@ Rating: 4.54 (Ranked 528)
 | Down with the Sickness | 0.80% | ~5,826 |
 | Not Even My Final Form | 0.70% | ~5,098 |
 | Jumbo Keyring | 0.70% | ~5,098 |
+| Go, Bobcats! | 0.70% | ~5,098 |
 | Rising Star | 0.70% | ~5,098 |
-| Go, Bobcats! | 0.60% | ~4,370 |
 | Make it So | 0.50% | ~3,642 |
 | On Safari | 0.50% | ~3,642 |
 | Smorgasbord | 0.50% | ~3,642 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 528)
 | Bucket List | 0.10% | ~728 |
 | Wilhelm | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,304 (Ranked 21)  
-Completed: 2,456 (0.34%) (Ranked 231)  
+Progressed: 728,310 (Ranked 21)  
+Completed: 2,457 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -282,15 +282,15 @@ Completed: 2,456 (0.34%) (Ranked 231)
 | 2023-11-28 | 727,374 | 2,447 |
 | 2023-11-29 | 727,809 | 2,450 |
 | 2023-11-30 | 728,231 | 2,456 |
-| 2023-12-01 | 728,304 | 2,456 |
+| 2023-12-01 | 728,310 | 2,457 |
 ## Awards
 Max (Great Boss Battles): 7,821  (Ranked 49)  
-Sum: 11,994 (Ranked 84)  
+Sum: 11,998 (Ranked 84)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,821 |
-| This game is Great for Beginners | 605 |
+| This game is Great for Beginners | 609 |
 | This game has Diverse Characters | 576 |
 | This game has Quickly Understood Controls | 539 |
 | This game is Relaxing | 518 |
@@ -525,4 +525,4 @@ Diff (max vs sum): -35
 | 2023-11-28 | 4.54 | 7,784 | 11,921 |
 | 2023-11-29 | 4.54 | 7,803 | 11,961 |
 | 2023-11-30 | 4.54 | 7,821 | 11,987 |
-| 2023-12-01 | 4.54 | 7,821 | 11,994 |
+| 2023-12-01 | 4.54 | 7,821 | 11,998 |

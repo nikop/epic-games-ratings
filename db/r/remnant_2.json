@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
     "PcReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -5001,10 +5001,10 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 231613,
-  "EOS_Completed": 542,
-  "EOS_NewPlayers": 4892,
-  "EOS_NewCompleters": 30,
+  "EOS_Progressed": 231634,
+  "EOS_Completed": 543,
+  "EOS_NewPlayers": 4893,
+  "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -20791,6 +20791,11 @@
       "Time": "2023-12-01T07:08:37.1820853+00:00",
       "NumProgressed": 231613,
       "NumCompleted": 542
+    },
+    {
+      "Time": "2023-12-01T08:08:52.0558092+00:00",
+      "NumProgressed": 231634,
+      "NumCompleted": 543
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20803,7 +20808,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -20851,7 +20856,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -20923,7 +20928,7 @@
       "Name": "Quest for Survival",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -20955,7 +20960,7 @@
       "Name": "Familiar Face",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "Meet_Meidra",
@@ -21035,7 +21040,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "Obtain_Guns_A",
@@ -21203,7 +21208,7 @@
       "Name": "Regicide",
       "Percentage": 0.7,
       "XP": 75,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -21219,7 +21224,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -21242,13 +21247,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 231613,
-      "Completed": 542
+      "Progressed": 231634,
+      "Completed": 543
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 10778,
+      "Progressed": 10799,
       "Completed": 177
     }
   ],
@@ -21256,8 +21261,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-01T06:03:30.7089672+00:00",
-  "LastChanged_Achievements": "2023-12-01T07:08:37.1820849+00:00",
+  "LastChanged_Achievements": "2023-12-01T08:08:52.0558086+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-12-01T07:02:59.761162+00:00",
-  "LastUpdate_Achievements": "2023-12-01T07:08:37.1821817+00:00"
+  "LastUpdate_Ratings": "2023-12-01T08:03:11.7643451+00:00",
+  "LastUpdate_Achievements": "2023-12-01T08:08:52.0559206+00:00"
 }

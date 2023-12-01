@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 136,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
     "PcReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -187,9 +187,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 10463,
+  "EOS_Progressed": 10464,
   "EOS_Completed": 179,
-  "EOS_NewPlayers": 1036,
+  "EOS_NewPlayers": 1031,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -5132,6 +5132,11 @@
       "Time": "2023-12-01T07:06:41.4381179+00:00",
       "NumProgressed": 10463,
       "NumCompleted": 179
+    },
+    {
+      "Time": "2023-12-01T08:08:35.3432782+00:00",
+      "NumProgressed": 10464,
+      "NumCompleted": 179
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -5144,7 +5149,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 91,
       "XP": 20,
-      "UsersEstimate": 9521
+      "UsersEstimate": 9522
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -5152,7 +5157,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 8998
+      "UsersEstimate": 8999
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -5216,7 +5221,7 @@
       "Name": "Go Get Some Fries On The Pier",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 3034
+      "UsersEstimate": 3035
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_18",
@@ -5240,7 +5245,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 7533
+      "UsersEstimate": 7534
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -5256,7 +5261,7 @@
       "Name": "Let Me Be Your Toy Boy",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 2406
+      "UsersEstimate": 2407
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_22",
@@ -5280,7 +5285,7 @@
       "Name": "Love Actually",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 5022
+      "UsersEstimate": 5023
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -5384,7 +5389,7 @@
       "Name": "ONE PUNCH",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 3557
+      "UsersEstimate": 3558
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -5392,7 +5397,7 @@
       "Name": "FIRST LOVE",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 3557
+      "UsersEstimate": 3558
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_0",
@@ -5416,7 +5421,7 @@
       "Name": "Drama CP: Reel to Real",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3557
+      "UsersEstimate": 3558
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_3",
@@ -5424,7 +5429,7 @@
       "Name": "David",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 3034
+      "UsersEstimate": 3035
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_4",
@@ -5440,7 +5445,7 @@
       "Name": "You\u0027re Really Something Else",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 3871
+      "UsersEstimate": 3872
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_6",
@@ -5456,7 +5461,7 @@
       "Name": "Drama King",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 4394
+      "UsersEstimate": 4395
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_8",
@@ -5479,7 +5484,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 10463,
+      "Progressed": 10464,
       "Completed": 179
     }
   ],
@@ -5487,8 +5492,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-11-30T15:00:03.5385193+00:00",
-  "LastChanged_Achievements": "2023-12-01T07:06:41.4381174+00:00",
+  "LastChanged_Achievements": "2023-12-01T08:08:35.3432778+00:00",
   "LastUpdate_AppInfo": "2023-11-25T01:40:00.6082481+00:00",
-  "LastUpdate_Ratings": "2023-12-01T06:59:11.9824187+00:00",
-  "LastUpdate_Achievements": "2023-12-01T07:06:41.4381578+00:00"
+  "LastUpdate_Ratings": "2023-12-01T07:59:28.9434216+00:00",
+  "LastUpdate_Achievements": "2023-12-01T08:08:35.3433263+00:00"
 }

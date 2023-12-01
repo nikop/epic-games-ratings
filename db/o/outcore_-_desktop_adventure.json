@@ -4,7 +4,7 @@
   "ProductSlug": "outcore-desktop-adventure-eb3aff",
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-05-07T07:00:00+00:00",
@@ -166,17 +166,17 @@
       "ID": "CompletedChapter1",
       "SetID": "7ejh407",
       "Name": "Defeated Captain Tutorial",
-      "Percentage": 60,
+      "Percentage": 64,
       "XP": 200,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "CompletedChapter2",
       "SetID": "7ejh407",
       "Name": "Defeated Booty The Bootleg",
-      "Percentage": 28,
+      "Percentage": 32,
       "XP": 200,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "CompletedChapter3",
@@ -373,8 +373,8 @@
   ],
   "FirstSeen": "2023-05-08T18:00:59.2575901+00:00",
   "FirstSeenAchievements": "2023-05-02T18:05:17.3554395+00:00",
-  "LastChanged_Achievements": "2023-12-01T07:06:00.2368265+00:00",
+  "LastChanged_Achievements": "2023-12-01T08:06:38.7627544+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:17.577377+00:00",
-  "LastUpdate_Ratings": "2023-12-01T06:58:51.2768554+00:00",
-  "LastUpdate_Achievements": "2023-12-01T07:06:00.2368393+00:00"
+  "LastUpdate_Ratings": "2023-12-01T07:59:06.0143314+00:00",
+  "LastUpdate_Achievements": "2023-12-01T08:06:38.7627793+00:00"
 }

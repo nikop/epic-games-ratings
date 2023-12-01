@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 821,
+  "EOS_Progressed": 822,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 5.36,
+  "EOS_Completed_Percentage": 5.35,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3335,6 +3335,11 @@
       "Time": "2023-12-01T06:07:14.7613462+00:00",
       "NumProgressed": 821,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-12-01T08:06:07.6685856+00:00",
+      "NumProgressed": 822,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 25,
@@ -3394,7 +3399,7 @@
       "Name": "Open door",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "META_RESULT_1-3",
@@ -3410,7 +3415,7 @@
       "Name": "Feels like springtime",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "META_RESULT_2-3",
@@ -3442,7 +3447,7 @@
       "Name": "Alchemists Express",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -3466,7 +3471,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -3522,7 +3527,7 @@
       "Name": "A new dawn",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "PROGRESS_N4",
@@ -3545,14 +3550,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 821,
+      "Progressed": 822,
       "Completed": 44
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-01T07:05:32.8937731+00:00",
+  "LastChanged_Achievements": "2023-12-01T08:06:07.6685851+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-12-01T06:59:11.2474738+00:00",
-  "LastUpdate_Achievements": "2023-12-01T07:05:32.8938079+00:00"
+  "LastUpdate_Ratings": "2023-12-01T07:59:28.0067123+00:00",
+  "LastUpdate_Achievements": "2023-12-01T08:06:07.6686319+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "d054771c2f3c4f4fb7d7028eca6ccca0",
   "Name": "Pinball M",
   "ProductSlug": "pinball-m-755276",
-  "Ranking_EOS_Progress": 337,
+  "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 139,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 352,
+  "EOS_Progressed": 359,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -104,6 +104,11 @@
       "Time": "2023-12-01T07:04:06.0571161+00:00",
       "NumProgressed": 352,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T08:04:28.1080906+00:00",
+      "NumProgressed": 359,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -162,7 +167,7 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "c167foo",
       "Name": "Power Overwhelming",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -202,7 +207,7 @@
       "ID": "ACHIEVEMENT_19",
       "SetID": "c167foo",
       "Name": "Grim Challenger",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -491,14 +496,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 352,
+      "Progressed": 359,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-01T07:04:06.0571158+00:00",
+  "LastChanged_Achievements": "2023-12-01T08:04:28.1080898+00:00",
   "LastUpdate_AppInfo": "2023-11-28T10:57:06.6543167+00:00",
-  "LastUpdate_Ratings": "2023-12-01T06:58:32.9842008+00:00",
-  "LastUpdate_Achievements": "2023-12-01T07:04:06.0571449+00:00"
+  "LastUpdate_Ratings": "2023-12-01T07:58:44.8560234+00:00",
+  "LastUpdate_Achievements": "2023-12-01T08:04:28.108121+00:00"
 }

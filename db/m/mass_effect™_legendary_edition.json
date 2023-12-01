@@ -4436,9 +4436,9 @@
       "ID": "achievement_127",
       "SetID": "d252ncf",
       "Name": "Bruiser",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 176
     },
     {
       "ID": "achievement_13",
@@ -5216,8 +5216,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-01T07:08:40.5679316+00:00",
+  "LastChanged_Achievements": "2023-12-01T08:08:56.0375404+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:10.3433357+00:00",
-  "LastUpdate_Ratings": "2023-12-01T07:02:53.1154318+00:00",
-  "LastUpdate_Achievements": "2023-12-01T07:08:40.5681012+00:00"
+  "LastUpdate_Ratings": "2023-12-01T08:03:05.0360796+00:00",
+  "LastUpdate_Achievements": "2023-12-01T08:08:56.0377368+00:00"
 }

@@ -7051,10 +7051,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11994,
       "NumberOfAwardsMax": 7821
+    },
+    {
+      "Time": "2023-12-01T07:59:09.625828+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11998,
+      "NumberOfAwardsMax": 7821
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11994,
+  "NumberOfAwards": 11998,
   "NumberOfAwardsMax": 7821,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7080,7 +7086,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 605
+      "Count": 609
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7113,10 +7119,10 @@
       "Count": 503
     }
   ],
-  "EOS_Progressed": 728304,
-  "EOS_Completed": 2456,
-  "EOS_NewPlayers": 4717,
-  "EOS_NewCompleters": 27,
+  "EOS_Progressed": 728310,
+  "EOS_Completed": 2457,
+  "EOS_NewPlayers": 4709,
+  "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -32858,6 +32864,11 @@
       "Time": "2023-12-01T07:06:36.7850535+00:00",
       "NumProgressed": 728304,
       "NumCompleted": 2456
+    },
+    {
+      "Time": "2023-12-01T08:08:30.0048371+00:00",
+      "NumProgressed": 728310,
+      "NumCompleted": 2457
     }
   ],
   "TotalAchievements": 51,
@@ -33171,9 +33182,9 @@
       "ID": "ach_the_vcla",
       "SetID": "7km39fm",
       "Name": "Go, Bobcats!",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4370
+      "UsersEstimate": 5098
     },
     {
       "ID": "ach_thesacrifice",
@@ -33237,7 +33248,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1615
+      "UsersEstimate": 1616
     },
     {
       "ID": "ach_gardening_tools",
@@ -33276,22 +33287,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 728304,
-      "Completed": 2456
+      "Progressed": 728310,
+      "Completed": 2457
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 53846,
+      "Progressed": 53852,
       "Completed": 36618
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-12-01T06:58:54.4789101+00:00",
-  "LastChanged_Achievements": "2023-12-01T07:06:36.7850531+00:00",
+  "LastChanged": "2023-12-01T07:59:09.6258278+00:00",
+  "LastChanged_Achievements": "2023-12-01T08:08:30.0048366+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-12-01T06:58:54.4789107+00:00",
-  "LastUpdate_Achievements": "2023-12-01T07:06:36.7851716+00:00"
+  "LastUpdate_Ratings": "2023-12-01T07:59:09.6258285+00:00",
+  "LastUpdate_Achievements": "2023-12-01T08:08:30.0049936+00:00"
 }

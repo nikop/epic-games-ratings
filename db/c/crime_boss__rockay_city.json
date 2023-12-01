@@ -4,10 +4,10 @@
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 1014,
   "Ranking_Popularity": 206,
-  "Ranking_PopularitySum": 186,
+  "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4807,10 +4807,16 @@
       "Rating": 3.95,
       "NumberOfAwards": 2624,
       "NumberOfAwardsMax": 548
+    },
+    {
+      "Time": "2023-12-01T07:59:38.658173+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 3138,
+      "NumberOfAwardsMax": 548
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2624,
+  "NumberOfAwards": 3138,
   "NumberOfAwardsMax": 548,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4842,7 +4848,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 509
+      "Count": 514
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4871,7 +4877,7 @@
   ],
   "EOS_Progressed": 91675,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -27245,9 +27251,9 @@
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-12-01T02:59:26.7314714+00:00",
-  "LastChanged_Achievements": "2023-12-01T07:04:53.9510211+00:00",
+  "LastChanged": "2023-12-01T07:59:38.6581728+00:00",
+  "LastChanged_Achievements": "2023-12-01T08:05:23.3499466+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:51.3334037+00:00",
-  "LastUpdate_Ratings": "2023-12-01T06:59:20.2881243+00:00",
-  "LastUpdate_Achievements": "2023-12-01T07:04:53.9511368+00:00"
+  "LastUpdate_Ratings": "2023-12-01T07:59:38.6581735+00:00",
+  "LastUpdate_Achievements": "2023-12-01T08:05:23.3500956+00:00"
 }

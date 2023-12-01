@@ -108,7 +108,7 @@
 | Mail Slot | 14.00% | ~205 |
 | Electronics Specialist | 14.00% | ~205 |
 | Combined Arms | 13.00% | ~191 |
-| Bruiser | 11.00% | ~161 |
+| Bruiser | 12.00% | ~176 |
 | Overload Specialist | 11.00% | ~161 |
 | Warp Mastery | 11.00% | ~161 |
 | Always Prepared | 10.00% | ~147 |

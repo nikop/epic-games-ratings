@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 91.00% | ~422 |
+| Travel Streamer | 92.00% | ~427 |
 | Training Simulation | 77.00% | ~357 |
 | Kuku Bird Hunter | 63.00% | ~292 |
 | Storm Traveller | 57.00% | ~264 |
@@ -18,7 +18,7 @@
 | Seal Breaker | 30.00% | ~139 |
 | Handyman | 27.00% | ~125 |
 | Giant Lizard Killer | 25.00% | ~116 |
-| Guardian | 24.00% | ~111 |
+| Guardian | 25.00% | ~116 |
 | Nosebleeder | 24.00% | ~111 |
 | Trader | 20.00% | ~93 |
 | Weapon Boost | 20.00% | ~93 |

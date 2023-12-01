@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4442,
+  "EOS_Progressed": 4443,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -8000,6 +8000,11 @@
       "Time": "2023-12-01T02:02:28.8515219+00:00",
       "NumProgressed": 4442,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-01T08:06:01.3593606+00:00",
+      "NumProgressed": 4443,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8387,7 +8392,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "Ach049",
@@ -8578,13 +8583,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4442,
+      "Progressed": 4443,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2963,
+      "Progressed": 2964,
       "Completed": 1930
     }
   ],
@@ -8592,8 +8597,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-01T07:05:27.321617+00:00",
+  "LastChanged_Achievements": "2023-12-01T08:06:01.3593601+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-12-01T06:58:39.6799753+00:00",
-  "LastUpdate_Achievements": "2023-12-01T07:05:27.321717+00:00"
+  "LastUpdate_Ratings": "2023-12-01T07:58:53.4918979+00:00",
+  "LastUpdate_Achievements": "2023-12-01T08:06:01.3594638+00:00"
 }

@@ -6,17 +6,17 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~26,700 |
-| Landlord | 33.00% | ~22,028 |
-| Bannerlord | 24.00% | ~16,020 |
-| Horde breaker | 24.00% | ~16,020 |
-| Lawmaker | 24.00% | ~16,020 |
-| Trained | 24.00% | ~16,020 |
+| Lawbringer | 40.00% | ~26,702 |
+| Landlord | 33.00% | ~22,029 |
+| Bannerlord | 24.00% | ~16,021 |
+| Horde breaker | 24.00% | ~16,021 |
+| Lawmaker | 24.00% | ~16,021 |
+| Trained | 24.00% | ~16,021 |
 | The king is pleased | 19.00% | ~12,683 |
-| King Solomon | 18.00% | ~12,015 |
-| Apple of my eye | 16.00% | ~10,680 |
-| I can do it | 16.00% | ~10,680 |
-| This Is Our Land | 14.00% | ~9,345 |
+| King Solomon | 18.00% | ~12,016 |
+| Apple of my eye | 16.00% | ~10,681 |
+| I can do it | 16.00% | ~10,681 |
+| This Is Our Land | 14.00% | ~9,346 |
 | Against all odds | 13.00% | ~8,678 |
 | God of the Arena | 13.00% | ~8,678 |
 | Duelist | 10.00% | ~6,675 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,751 (Ranked 104)  
+Progressed: 66,754 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,10 +283,10 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-28 | 66,549 | 0 |
 | 2023-11-29 | 66,654 | 0 |
 | 2023-11-30 | 66,735 | 0 |
-| 2023-12-01 | 66,751 | 0 |
+| 2023-12-01 | 66,754 | 0 |
 ## Awards
 Max (Character Customization): 7,459  (Ranked 53)  
-Sum: 15,525 (Ranked 68)  
+Sum: 15,526 (Ranked 68)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -299,7 +299,7 @@ Diff (max vs sum): -15
 | This game has Amazing Characters | 873 |
 | This game is Relaxing | 862 |
 | This game has Quickly Understood Controls | 842 |
-| This game has a Creative Community | 648 |
+| This game has a Creative Community | 649 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
 ## Ratings History
@@ -625,4 +625,4 @@ Diff (max vs sum): -15
 | 2023-11-28 | 4.74 | - | 7,443 | 15,488 |
 | 2023-11-29 | 4.74 | - | 7,451 | 15,500 |
 | 2023-11-30 | 4.74 | - | 7,459 | 15,521 |
-| 2023-12-01 | 4.74 | - | 7,459 | 15,525 |
+| 2023-12-01 | 4.74 | - | 7,459 | 15,526 |
