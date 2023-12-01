@@ -11,12 +11,12 @@
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.24% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 11 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 12 | [The Riflemen](games/t/the_riflemen.md) | 25.69% |
+| 12 | [The Riflemen](games/t/the_riflemen.md) | 25.66% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.40% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 14 | [Overloop](games/o/overloop.md) | 25.00% |
-| 16 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 17 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 23.08% |
+| 16 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 24.62% |
+| 17 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 18 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
 | 19 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 19 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -59,7 +59,7 @@
 | 57 | [Sonic Origins](games/s/sonic_origins.md) | 7.19% |
 | 58 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.14% |
 | 58 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 7.14% |
-| 60 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.08% |
+| 60 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.07% |
 | 61 | [Scorn](games/s/scorn.md) | 7.06% |
 | 62 | [Time Loader](games/t/time_loader.md) | 7.03% |
 | 63 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.60% |
@@ -71,7 +71,7 @@
 | 69 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
 | 70 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 70 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 72 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.33% |
+| 72 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.31% |
 | 73 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 5.26% |
 | 74 | [JARS](games/j/jars.md) | 5.00% |
 | 75 | [Bugsnax](games/b/bugsnax.md) | 4.84% |
@@ -109,8 +109,8 @@
 | 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.95% |
 | 108 | [Without Escape](games/w/without_escape.md) | 2.94% |
 | 109 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 110 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.79% |
-| 111 | [Mega City Force](games/m/mega_city_police.md) | 2.78% |
+| 110 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.78% |
+| 110 | [Mega City Force](games/m/mega_city_police.md) | 2.78% |
 | 112 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
 | 113 | [FORECLOSED](games/f/foreclosed.md) | 2.73% |
 | 114 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 2.70% |
@@ -125,7 +125,7 @@
 | 123 | [Bloodshore](games/b/bloodshore.md) | 2.26% |
 | 124 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.25% |
 | 125 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.21% |
-| 126 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.05% |
+| 126 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.03% |
 | 127 | [Dungeons 4](games/d/dungeons_4.md) | 1.97% |
 | 128 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.92% |
 | 129 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.90% |
@@ -252,10 +252,10 @@
 | 250 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
 | 250 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.23% |
 | 250 | [Remnant 2](games/r/remnant_2.md) | 0.23% |
-| 253 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.22% |
 | 253 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
-| 255 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
-| 255 | [Scrapnaut](games/s/scrapnaut.md) | 0.21% |
+| 254 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
+| 254 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.21% |
+| 254 | [Scrapnaut](games/s/scrapnaut.md) | 0.21% |
 | 257 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.20% |
 | 257 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
 | 257 | [Lost Ruins](games/l/lost_ruins.md) | 0.20% |
@@ -298,15 +298,15 @@
 | 290 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 297 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.08% |
 | 297 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
-| 297 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.08% |
 | 297 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.08% |
 | 297 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.08% |
 | 297 | [MythForce](games/m/mythforce.md) | 0.08% |
-| 303 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.07% |
-| 303 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.07% |
-| 303 | [Saints Row](games/s/saints_row.md) | 0.07% |
-| 303 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.07% |
-| 303 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
+| 302 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.07% |
+| 302 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.07% |
+| 302 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.07% |
+| 302 | [Saints Row](games/s/saints_row.md) | 0.07% |
+| 302 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.07% |
+| 302 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 308 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
 | 308 | [High On Life](games/h/high_on_life.md) | 0.06% |
 | 308 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
