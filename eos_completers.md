@@ -11,7 +11,7 @@
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.24% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 11 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 12 | [The Riflemen](games/t/the_riflemen.md) | 25.60% |
+| 12 | [The Riflemen](games/t/the_riflemen.md) | 25.57% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.40% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 14 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -71,7 +71,7 @@
 | 69 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
 | 70 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 70 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 72 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.43% |
+| 72 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.41% |
 | 73 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 5.00% |
 | 73 | [JARS](games/j/jars.md) | 5.00% |
 | 75 | [Bugsnax](games/b/bugsnax.md) | 4.83% |
@@ -114,7 +114,7 @@
 | 112 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
 | 113 | [FORECLOSED](games/f/foreclosed.md) | 2.73% |
 | 114 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 2.63% |
-| 114 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.63% |
+| 115 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.62% |
 | 116 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.52% |
 | 116 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.52% |
 | 118 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -128,20 +128,20 @@
 | 126 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.03% |
 | 127 | [Dungeons 4](games/d/dungeons_4.md) | 1.97% |
 | 128 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.92% |
-| 129 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.89% |
-| 129 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.89% |
+| 129 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.90% |
+| 130 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.89% |
 | 131 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.87% |
 | 131 | [Somerville](games/s/somerville.md) | 1.87% |
 | 133 | [Sifu](games/s/sifu.md) | 1.80% |
 | 134 | [Frogun](games/f/frogun.md) | 1.78% |
 | 135 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.76% |
 | 136 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.74% |
-| 137 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 1.67% |
-| 138 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.64% |
-| 139 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.61% |
+| 137 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 1.64% |
+| 137 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.64% |
+| 139 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.59% |
 | 140 | [Five Dates](games/f/five_dates.md) | 1.58% |
-| 141 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.57% |
 | 141 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
+| 142 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.56% |
 | 143 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.52% |
 | 144 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.47% |
 | 145 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.45% |
@@ -166,8 +166,8 @@
 | 163 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.05% |
 | 165 | [The Devil's Face](games/t/the_devil's_face.md) | 1.04% |
 | 166 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.03% |
-| 167 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.01% |
 | 167 | [Sable](games/s/sable.md) | 1.01% |
+| 168 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.00% |
 | 169 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.99% |
 | 170 | [Trifox](games/t/trifox.md) | 0.96% |
 | 171 | [A Musical Story](games/a/a_musical_story.md) | 0.94% |
@@ -768,4 +768,4 @@
 | 363 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 363 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 363 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,634 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,635 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
