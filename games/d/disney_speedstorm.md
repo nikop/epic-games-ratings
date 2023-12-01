@@ -5,33 +5,33 @@ Rating: 4.40 (Ranked 741)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 11.00% | ~35,134 |
-| IT MAKES BOOM! | 7.00% | ~22,358 |
-| EXTRA BOOST | 5.00% | ~15,970 |
-| PROTECTED | 4.00% | ~12,776 |
-| PRO | 4.00% | ~12,776 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,582 |
-| AGGRESSIVE RACER | 3.00% | ~9,582 |
-| A TIGER'S FEAR | 2.00% | ~6,388 |
-| IT'S A LONG WAY TO THE TOP | 1.00% | ~3,194 |
-| ACE SPEEDSTER | 1.00% | ~3,194 |
-| MASTER | 1.00% | ~3,194 |
-| TRAINING HARD | 0.90% | ~2,875 |
-| RELEASE THE KRAKEN | 0.90% | ~2,875 |
-| BE OUR GUEST | 0.90% | ~2,875 |
-| FRIENDLY | 0.90% | ~2,875 |
-| LEGENDARY HERO | 0.90% | ~2,875 |
-| DEFEAT OUR CHAMPION | 0.80% | ~2,555 |
-| THE EYE OF THE HUNTER | 0.70% | ~2,236 |
-| EXPERIENCED CREW | 0.60% | ~1,916 |
-| ACE DEFENDER | 0.50% | ~1,597 |
+| ROOKIE | 11.00% | ~35,149 |
+| IT MAKES BOOM! | 7.00% | ~22,367 |
+| EXTRA BOOST | 5.00% | ~15,977 |
+| PROTECTED | 4.00% | ~12,781 |
+| PRO | 4.00% | ~12,781 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,586 |
+| AGGRESSIVE RACER | 3.00% | ~9,586 |
+| A TIGER'S FEAR | 2.00% | ~6,391 |
+| IT'S A LONG WAY TO THE TOP | 1.00% | ~3,195 |
+| ACE SPEEDSTER | 1.00% | ~3,195 |
+| MASTER | 1.00% | ~3,195 |
+| TRAINING HARD | 0.90% | ~2,876 |
+| RELEASE THE KRAKEN | 0.90% | ~2,876 |
+| BE OUR GUEST | 0.90% | ~2,876 |
+| FRIENDLY | 0.90% | ~2,876 |
+| LEGENDARY HERO | 0.90% | ~2,876 |
+| DEFEAT OUR CHAMPION | 0.80% | ~2,556 |
+| THE EYE OF THE HUNTER | 0.70% | ~2,237 |
+| EXPERIENCED CREW | 0.60% | ~1,917 |
+| ACE DEFENDER | 0.50% | ~1,598 |
 | ACE BRAWLER | 0.40% | ~1,278 |
 | ACE TRICKSTER | 0.40% | ~1,278 |
-| PERFECTLY POISED | 0.30% | ~958 |
-| FRAMED! | 0.30% | ~958 |
+| PERFECTLY POISED | 0.30% | ~959 |
+| FRAMED! | 0.30% | ~959 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 319,397 (Ranked 52)  
-Completed: 406 (0.13%) (Ranked 272)  
+Progressed: 319,535 (Ranked 52)  
+Completed: 408 (0.13%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -251,18 +251,18 @@ Completed: 406 (0.13%) (Ranked 272)
 | 2023-11-28 | 315,946 | 344 |
 | 2023-11-29 | 316,923 | 349 |
 | 2023-11-30 | 317,989 | 390 |
-| 2023-12-01 | 319,397 | 406 |
+| 2023-12-01 | 319,535 | 408 |
 ## Awards
-Max (Great for Beginners): 96  (Ranked 369)  
-Sum: 700 (Ranked 297)  
-Diff (max vs sum): 72  
+Max (Great for Beginners): 98  (Ranked 364)  
+Sum: 703 (Ranked 296)  
+Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 96 |
+| This game is Great for Beginners | 98 |
 | This game is Great for Quick Sessions | 85 |
 | This game has Diverse Characters | 82 |
 | This game has Amazing Characters | 58 |
-| This game has Playful Visuals | 53 |
+| This game has Playful Visuals | 54 |
 | This game is Highly Recommended | 52 |
 | This game has a Competitive Community | 52 |
 | This game has Competitive Players | 49 |
@@ -334,4 +334,4 @@ Diff (max vs sum): 72
 | 2023-11-28 | 4.40 | 93 | 675 |
 | 2023-11-29 | 4.40 | 93 | 682 |
 | 2023-11-30 | 4.40 | 96 | 695 |
-| 2023-12-01 | 4.40 | 96 | 700 |
+| 2023-12-01 | 4.40 | 98 | 703 |

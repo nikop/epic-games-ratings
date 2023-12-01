@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Restoring the Protostar | 53.00% | ~9 |
-| Three Watchers, Two Phasers | 35.00% | ~6 |
-| Guess who's back | 29.00% | ~5 |
+| Three Watchers, Two Phasers | 41.00% | ~7 |
+| Guess who's back | 35.00% | ~6 |
 | One for the Crew | 24.00% | ~4 |
 | The Clock is Ticking | 24.00% | ~4 |
 | A Helping Hand | 24.00% | ~4 |

@@ -5,10 +5,10 @@ Rating: 4.61 (Ranked 387)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Secret Technique | 4.00% | ~222 |
 | But this one is mine | 4.00% | ~222 |
 | Realm Estate | 3.00% | ~167 |
 | A Wonderful Discovery | 3.00% | ~167 |
-| Secret Technique | 3.00% | ~167 |
 | Walls Cannot Stop Us | 3.00% | ~167 |
 | From Friends to Family | 3.00% | ~167 |
 | Valley of Wonders | 2.00% | ~111 |

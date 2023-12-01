@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 544,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-05-07T07:00:00+00:00",
     "PcReleaseDate": "2022-09-25T21:00:00+00:00",
@@ -171,9 +171,9 @@
       "ID": "CompletedChapter1",
       "SetID": "7ejh407",
       "Name": "Defeated Captain Tutorial",
-      "Percentage": 62,
+      "Percentage": 65,
       "XP": 200,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "CompletedChapter2",
@@ -307,17 +307,17 @@
       "ID": "LearnedToJump",
       "SetID": "7ejh407",
       "Name": "Learned how to jump!",
-      "Percentage": 69,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "LearnedToWalk",
       "SetID": "7ejh407",
       "Name": "Learned how to walk!",
-      "Percentage": 69,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "LoveMaster",
@@ -363,9 +363,9 @@
       "ID": "TutorialMaster",
       "SetID": "7ejh407",
       "Name": "Tutorial Master",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -378,8 +378,8 @@
   ],
   "FirstSeen": "2023-05-08T18:00:59.2575901+00:00",
   "FirstSeenAchievements": "2023-05-02T18:05:17.3554395+00:00",
-  "LastChanged_Achievements": "2023-12-01T17:07:53.0549113+00:00",
+  "LastChanged_Achievements": "2023-12-01T18:06:20.5222768+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:17.577377+00:00",
-  "LastUpdate_Ratings": "2023-12-01T16:58:57.5534638+00:00",
-  "LastUpdate_Achievements": "2023-12-01T17:07:53.0549365+00:00"
+  "LastUpdate_Ratings": "2023-12-01T17:58:54.2080551+00:00",
+  "LastUpdate_Achievements": "2023-12-01T18:06:20.5222911+00:00"
 }

@@ -8,8 +8,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | Settler | 7.00% | ~1,090 |
 | Play a Single Player Game | 7.00% | ~1,090 |
-| Explorer | 6.00% | ~934 |
-| Friendly Family | 6.00% | ~934 |
+| Explorer | 6.00% | ~935 |
+| Friendly Family | 6.00% | ~935 |
 | Intrepid | 5.00% | ~779 |
 | Able | 4.00% | ~623 |
 | Architect | 4.00% | ~623 |
@@ -50,40 +50,40 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 3.00% | ~467 |
 | Roman Paganism | 3.00% | ~467 |
 | Zoroastrianism | 3.00% | ~467 |
-| Regicide | 2.00% | ~311 |
-| Hanging Gardens in Babylon | 2.00% | ~311 |
-| Beloved | 2.00% | ~311 |
-| Drillmaster | 2.00% | ~311 |
-| Conqueror | 2.00% | ~311 |
-| Great | 2.00% | ~311 |
-| Intercessor | 2.00% | ~311 |
-| Lion | 2.00% | ~311 |
-| Mighty | 2.00% | ~311 |
-| Valiant | 2.00% | ~311 |
-| Victorious | 2.00% | ~311 |
-| Legendary Cities | 2.00% | ~311 |
-| Good Difficulty | 2.00% | ~311 |
-| Just Difficulty | 2.00% | ~311 |
-| Artisans | 2.00% | ~311 |
-| Champions | 2.00% | ~311 |
-| Patrons | 2.00% | ~311 |
-| Sages | 2.00% | ~311 |
-| Acropolis | 2.00% | ~311 |
-| Apadana | 2.00% | ~311 |
-| Colossus | 2.00% | ~311 |
-| Mausoleum | 2.00% | ~311 |
-| Musaeum | 2.00% | ~311 |
-| Necropolis | 2.00% | ~311 |
-| Learn to Play 2 | 2.00% | ~311 |
-| Learn to Play 3 | 2.00% | ~311 |
-| Greece | 2.00% | ~311 |
-| Power to the People | 2.00% | ~311 |
-| Manichaeism | 2.00% | ~311 |
-| Mythology | 2.00% | ~311 |
-| Points Victory | 2.00% | ~311 |
-| Win a Single Player Game | 2.00% | ~311 |
-| Kushite Pyramids | 2.00% | ~311 |
-| Kushite Paganism | 2.00% | ~311 |
+| Regicide | 2.00% | ~312 |
+| Hanging Gardens in Babylon | 2.00% | ~312 |
+| Beloved | 2.00% | ~312 |
+| Drillmaster | 2.00% | ~312 |
+| Conqueror | 2.00% | ~312 |
+| Great | 2.00% | ~312 |
+| Intercessor | 2.00% | ~312 |
+| Lion | 2.00% | ~312 |
+| Mighty | 2.00% | ~312 |
+| Valiant | 2.00% | ~312 |
+| Victorious | 2.00% | ~312 |
+| Legendary Cities | 2.00% | ~312 |
+| Good Difficulty | 2.00% | ~312 |
+| Just Difficulty | 2.00% | ~312 |
+| Artisans | 2.00% | ~312 |
+| Champions | 2.00% | ~312 |
+| Patrons | 2.00% | ~312 |
+| Sages | 2.00% | ~312 |
+| Acropolis | 2.00% | ~312 |
+| Apadana | 2.00% | ~312 |
+| Colossus | 2.00% | ~312 |
+| Mausoleum | 2.00% | ~312 |
+| Musaeum | 2.00% | ~312 |
+| Necropolis | 2.00% | ~312 |
+| Learn to Play 2 | 2.00% | ~312 |
+| Learn to Play 3 | 2.00% | ~312 |
+| Greece | 2.00% | ~312 |
+| Power to the People | 2.00% | ~312 |
+| Manichaeism | 2.00% | ~312 |
+| Mythology | 2.00% | ~312 |
+| Points Victory | 2.00% | ~312 |
+| Win a Single Player Game | 2.00% | ~312 |
+| Kushite Pyramids | 2.00% | ~312 |
+| Kushite Paganism | 2.00% | ~312 |
 | Bad Heir Day | 1.00% | ~156 |
 | Capable | 1.00% | ~156 |
 | Devout | 1.00% | ~156 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,573 (Ranked 152)  
+Progressed: 15,576 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -574,7 +574,7 @@ Completed: 5 (0.03%) (Ranked 327)
 | 2023-11-28 | 15,534 | 5 |
 | 2023-11-29 | 15,545 | 5 |
 | 2023-11-30 | 15,566 | 5 |
-| 2023-12-01 | 15,573 | 5 |
+| 2023-12-01 | 15,576 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,883 (Ranked 218)  

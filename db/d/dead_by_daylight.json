@@ -13232,9 +13232,9 @@
       "Count": 27430
     }
   ],
-  "EOS_Progressed": 1058245,
+  "EOS_Progressed": 1058396,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 17011,
+  "EOS_NewPlayers": 17064,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39097,6 +39097,11 @@
       "Time": "2023-12-01T17:09:33.3544009+00:00",
       "NumProgressed": 1058245,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-01T18:09:41.7069057+00:00",
+      "NumProgressed": 1058396,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 232,
@@ -39106,9 +39111,9 @@
       "ID": "ACH_001",
       "SetID": "bdmlp8o",
       "Name": "The Grand Sacrifice",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2116
+      "UsersEstimate": 3175
     },
     {
       "ID": "ACH_002",
@@ -39132,7 +39137,7 @@
       "Name": "Blood on your hands",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "ACH_005",
@@ -39196,7 +39201,7 @@
       "Name": "Agonizing Escape",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "ACH_013",
@@ -39204,7 +39209,7 @@
       "Name": "Backdoor Escape",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "ACH_014",
@@ -39220,7 +39225,7 @@
       "Name": "I\u0027ve got your back",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "ACH_016",
@@ -39260,7 +39265,7 @@
       "Name": "Perfect Escape",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "ACH_021",
@@ -39268,7 +39273,7 @@
       "Name": "Perfect Killing",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "ACH_022",
@@ -39276,7 +39281,7 @@
       "Name": "Zealous",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 4233
+      "UsersEstimate": 4234
     },
     {
       "ID": "ACH_023",
@@ -39284,7 +39289,7 @@
       "Name": "It wakes",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 5291
+      "UsersEstimate": 5292
     },
     {
       "ID": "ACH_024",
@@ -39292,7 +39297,7 @@
       "Name": "Not half bad",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 4233
+      "UsersEstimate": 4234
     },
     {
       "ID": "ACH_025",
@@ -39314,9 +39319,9 @@
       "ID": "ACH_027",
       "SetID": "bdmlp8o",
       "Name": "Apt Survivor",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3175
+      "UsersEstimate": 4234
     },
     {
       "ID": "ACH_028",
@@ -39324,7 +39329,7 @@
       "Name": "Apt Killer",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "ACH_029",
@@ -39332,7 +39337,7 @@
       "Name": "Risk it all",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "ACH_030",
@@ -39348,7 +39353,7 @@
       "Name": "Vulture",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "ACH_032",
@@ -39412,7 +39417,7 @@
       "Name": "Skillful",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 5291
+      "UsersEstimate": 5292
     },
     {
       "ID": "ACH_040",
@@ -39420,7 +39425,7 @@
       "Name": "I",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 4233
+      "UsersEstimate": 4234
     },
     {
       "ID": "ACH_041",
@@ -39436,7 +39441,7 @@
       "Name": "III",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "ACH_043",
@@ -39444,7 +39449,7 @@
       "Name": "III-50",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "ACH_044",
@@ -39572,7 +39577,7 @@
       "Name": "Engineer",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "ACH_060",
@@ -40004,7 +40009,7 @@
       "Name": "Wounded Healer",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "ACH_114",
@@ -40314,9 +40319,9 @@
       "ID": "ACH_155",
       "SetID": "16jml5b",
       "Name": "Every Last Drop",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1058
+      "UsersEstimate": 2117
     },
     {
       "ID": "ACH_156",
@@ -40420,7 +40425,7 @@
       "Name": "Close Shave",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "ACH_169",
@@ -40556,7 +40561,7 @@
       "Name": "With Scars to Show",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "ACH_186",
@@ -40756,7 +40761,7 @@
       "Name": "Lifting The Fog",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "ACH_211",
@@ -40876,7 +40881,7 @@
       "Name": "Make Some Noise",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 4233
+      "UsersEstimate": 4234
     },
     {
       "ID": "ACH_226",
@@ -40963,21 +40968,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1058245,
+      "Progressed": 1058396,
       "Completed": 66
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1058245,
+      "Progressed": 1058396,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-12-01T16:59:45.265913+00:00",
-  "LastChanged_Achievements": "2023-12-01T17:09:33.3544004+00:00",
+  "LastChanged_Achievements": "2023-12-01T18:09:41.7069052+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:00.7078103+00:00",
-  "LastUpdate_Ratings": "2023-12-01T16:59:45.2659136+00:00",
-  "LastUpdate_Achievements": "2023-12-01T17:09:33.3549305+00:00"
+  "LastUpdate_Ratings": "2023-12-01T17:59:41.9949507+00:00",
+  "LastUpdate_Achievements": "2023-12-01T18:09:41.7074863+00:00"
 }

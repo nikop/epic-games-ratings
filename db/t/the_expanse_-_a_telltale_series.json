@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -241,9 +241,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15814,
+  "EOS_Progressed": 15815,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 411,
+  "EOS_NewPlayers": 404,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -12816,6 +12816,11 @@
       "Time": "2023-12-01T16:04:42.4235848+00:00",
       "NumProgressed": 15814,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-01T18:04:02.2053872+00:00",
+      "NumProgressed": 15815,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13050,9 +13055,9 @@
       "ID": "8",
       "SetID": "458bbdk",
       "Name": "Data Recoverer",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 127
+      "UsersEstimate": 142
     },
     {
       "ID": "9",
@@ -13107,13 +13112,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15814,
+      "Progressed": 15815,
       "Completed": 39
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1768,
+      "Progressed": 1769,
       "Completed": 767
     }
   ],
@@ -13121,8 +13126,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-28T18:00:52.6774218+00:00",
-  "LastChanged_Achievements": "2023-12-01T17:03:55.0598951+00:00",
+  "LastChanged_Achievements": "2023-12-01T18:04:02.2053868+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-12-01T17:02:39.2873229+00:00",
-  "LastUpdate_Achievements": "2023-12-01T17:03:55.0599612+00:00"
+  "LastUpdate_Ratings": "2023-12-01T18:02:43.5156132+00:00",
+  "LastUpdate_Achievements": "2023-12-01T18:04:02.2054481+00:00"
 }

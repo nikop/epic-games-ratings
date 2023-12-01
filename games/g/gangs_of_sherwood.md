@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 84.00% | ~37 |
-| Air Fighter | 82.00% | ~36 |
-| Oo-De-Lally | 73.00% | ~32 |
+| Act of Kindness | 86.00% | ~38 |
+| Air Fighter | 84.00% | ~37 |
+| Oo-De-Lally | 75.00% | ~33 |
 | The Altruist | 68.00% | ~30 |
 | Treasure Hunter | 64.00% | ~28 |
 | Tap Dancing | 55.00% | ~24 |
@@ -31,11 +31,11 @@
 | Brilliant Executioner | 9.00% | ~4 |
 | Hidden Experiment | 9.00% | ~4 |
 | Into the Lion's Den | 9.00% | ~4 |
+| Bold and Bossy | 7.00% | ~3 |
 | The Gang prevails | 7.00% | ~3 |
 | Out of the ring | 7.00% | ~3 |
 | Sky High Fighter | 7.00% | ~3 |
 | King of the Iron Fist | 5.00% | ~2 |
-| Bold and Bossy | 5.00% | ~2 |
 | Power of Friendship! | 5.00% | ~2 |
 | Five of Friends | 5.00% | ~2 |
 | The Crowkiller | 2.00% | ~1 |

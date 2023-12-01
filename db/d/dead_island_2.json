@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 26,
+  "Ranking_EOS_NewPlayers": 27,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -7131,9 +7131,9 @@
       "Count": 503
     }
   ],
-  "EOS_Progressed": 728502,
+  "EOS_Progressed": 728521,
   "EOS_Completed": 2458,
-  "EOS_NewPlayers": 4626,
+  "EOS_NewPlayers": 4602,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -32926,6 +32926,11 @@
       "Time": "2023-12-01T17:08:24.1066525+00:00",
       "NumProgressed": 728502,
       "NumCompleted": 2458
+    },
+    {
+      "Time": "2023-12-01T18:08:31.5756476+00:00",
+      "NumProgressed": 728521,
+      "NumCompleted": 2458
     }
   ],
   "TotalAchievements": 51,
@@ -33305,7 +33310,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1621
+      "UsersEstimate": 1622
     },
     {
       "ID": "ach_gardening_tools",
@@ -33344,13 +33349,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 728502,
+      "Progressed": 728521,
       "Completed": 2458
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 54044,
+      "Progressed": 54063,
       "Completed": 36618
     }
   ],
@@ -33358,8 +33363,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-12-01T15:59:46.9988066+00:00",
-  "LastChanged_Achievements": "2023-12-01T17:08:24.106652+00:00",
+  "LastChanged_Achievements": "2023-12-01T18:08:31.5756472+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-12-01T16:59:00.7989721+00:00",
-  "LastUpdate_Achievements": "2023-12-01T17:08:24.1067753+00:00"
+  "LastUpdate_Ratings": "2023-12-01T17:58:57.6043365+00:00",
+  "LastUpdate_Achievements": "2023-12-01T18:08:31.5757772+00:00"
 }

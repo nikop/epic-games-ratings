@@ -60,6 +60,7 @@
 | Revenge! | 31.00% | ~456 |
 | Focused | 30.00% | ~441 |
 | Fade Away | 30.00% | ~441 |
+| Treason | 30.00% | ~441 |
 | Digital Exorcist | 30.00% | ~441 |
 | Heart of Darkness | 30.00% | ~441 |
 | Bringer of War | 30.00% | ~441 |
@@ -67,7 +68,6 @@
 | Friend or Foe | 29.00% | ~427 |
 | Cat's in the Cradle | 29.00% | ~427 |
 | Doppelganger | 29.00% | ~427 |
-| Treason | 29.00% | ~427 |
 | Agent | 29.00% | ~427 |
 | Mobilizer | 29.00% | ~427 |
 | Untouchable | 28.00% | ~412 |
@@ -108,7 +108,7 @@
 | Mail Slot | 14.00% | ~206 |
 | Electronics Specialist | 14.00% | ~206 |
 | Combined Arms | 13.00% | ~191 |
-| Bruiser | 11.00% | ~162 |
+| Bruiser | 12.00% | ~177 |
 | Overload Specialist | 11.00% | ~162 |
 | Warp Mastery | 11.00% | ~162 |
 | Always Prepared | 10.00% | ~147 |

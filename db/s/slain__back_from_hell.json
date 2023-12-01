@@ -2,13 +2,13 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 849,
+  "Ranking_Rating": 850,
   "Ranking_Popularity": 334,
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 122,
-  "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_Completed": 302,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -238,11 +238,11 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 41277,
-  "EOS_Completed": 26,
-  "EOS_NewPlayers": 389,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.06,
+  "EOS_Progressed": 41279,
+  "EOS_Completed": 27,
+  "EOS_NewPlayers": 387,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:35.4373052+00:00",
@@ -24768,6 +24768,11 @@
       "Time": "2023-12-01T17:05:46.929941+00:00",
       "NumProgressed": 41277,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-12-01T18:05:55.3152823+00:00",
+      "NumProgressed": 41279,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 29,
@@ -24787,7 +24792,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8668
+      "UsersEstimate": 8669
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -24811,7 +24816,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -24827,7 +24832,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -25010,16 +25015,16 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 41277,
-      "Completed": 26
+      "Progressed": 41279,
+      "Completed": 27
     }
   ],
   "FirstSeen": "2022-10-06T18:03:31.3585803+00:00",
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-12-01T17:05:46.9299406+00:00",
+  "LastChanged_Achievements": "2023-12-01T18:05:55.3152819+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:57.6169847+00:00",
-  "LastUpdate_Ratings": "2023-12-01T17:00:07.4047029+00:00",
-  "LastUpdate_Achievements": "2023-12-01T17:05:46.9300492+00:00"
+  "LastUpdate_Ratings": "2023-12-01T18:00:03.2851128+00:00",
+  "LastUpdate_Achievements": "2023-12-01T18:05:55.3154364+00:00"
 }

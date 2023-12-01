@@ -2,13 +2,13 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 935,
+  "Ranking_Rating": 934,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4401,10 +4401,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 5091,
       "NumberOfAwardsMax": 2984
+    },
+    {
+      "Time": "2023-12-01T17:59:39.8631279+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 5092,
+      "NumberOfAwardsMax": 2984
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5091,
+  "NumberOfAwards": 5092,
   "NumberOfAwardsMax": 2984,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4454,7 +4460,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 267
+      "Count": 268
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4469,9 +4475,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77517,
+  "EOS_Progressed": 77519,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 521,
+  "EOS_NewPlayers": 520,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24649,6 +24655,11 @@
       "Time": "2023-12-01T17:04:58.3572661+00:00",
       "NumProgressed": 77517,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-01T18:05:06.2357858+00:00",
+      "NumProgressed": 77519,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -24780,7 +24791,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10852
+      "UsersEstimate": 10853
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -24892,7 +24903,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15503
+      "UsersEstimate": 15504
     },
     {
       "ID": "FREEZE_2",
@@ -24900,7 +24911,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14728
+      "UsersEstimate": 14729
     },
     {
       "ID": "FREEZE_3",
@@ -24908,7 +24919,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10852
+      "UsersEstimate": 10853
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -24972,7 +24983,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19379
+      "UsersEstimate": 19380
     },
     {
       "ID": "HARLEY_3",
@@ -24980,7 +24991,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15503
+      "UsersEstimate": 15504
     },
     {
       "ID": "HARLEY_4",
@@ -25004,7 +25015,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38758
+      "UsersEstimate": 38760
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -25028,7 +25039,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15503
+      "UsersEstimate": 15504
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -25060,7 +25071,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19379
+      "UsersEstimate": 19380
     },
     {
       "ID": "MYSTERY_03",
@@ -25076,7 +25087,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15503
+      "UsersEstimate": 15504
     },
     {
       "ID": "MYSTERY_05",
@@ -25100,7 +25111,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10852
+      "UsersEstimate": 10853
     },
     {
       "ID": "MYSTERY_08",
@@ -25147,22 +25158,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77517,
+      "Progressed": 77519,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47797,
+      "Progressed": 47799,
       "Completed": 2675
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-12-01T16:59:43.3264325+00:00",
-  "LastChanged_Achievements": "2023-12-01T17:04:58.3572655+00:00",
+  "LastChanged": "2023-12-01T17:59:39.8631278+00:00",
+  "LastChanged_Achievements": "2023-12-01T18:05:06.2357855+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:48.4544768+00:00",
-  "LastUpdate_Ratings": "2023-12-01T16:59:43.326433+00:00",
-  "LastUpdate_Achievements": "2023-12-01T17:04:58.357376+00:00"
+  "LastUpdate_Ratings": "2023-12-01T17:59:39.8631283+00:00",
+  "LastUpdate_Achievements": "2023-12-01T18:05:06.2359193+00:00"
 }

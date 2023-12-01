@@ -6,17 +6,18 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.50% | ~5,291 |
-| Skillful | 0.50% | ~5,291 |
-| Zealous | 0.40% | ~4,233 |
-| Not half bad | 0.40% | ~4,233 |
-| I | 0.40% | ~4,233 |
-| Make Some Noise | 0.40% | ~4,233 |
+| It wakes | 0.50% | ~5,292 |
+| Skillful | 0.50% | ~5,292 |
+| Zealous | 0.40% | ~4,234 |
+| Not half bad | 0.40% | ~4,234 |
+| Apt Survivor | 0.40% | ~4,234 |
+| I | 0.40% | ~4,234 |
+| Make Some Noise | 0.40% | ~4,234 |
+| The Grand Sacrifice | 0.30% | ~3,175 |
 | No one left behind | 0.30% | ~3,175 |
 | Medic | 0.30% | ~3,175 |
 | Handyman | 0.30% | ~3,175 |
 | Bloody Millionaire | 0.30% | ~3,175 |
-| Apt Survivor | 0.30% | ~3,175 |
 | Survival Treasures | 0.30% | ~3,175 |
 | II | 0.30% | ~3,175 |
 | Sorted | 0.30% | ~3,175 |
@@ -24,23 +25,23 @@ Number of Ratings: 70,340  (23.09.2022)
 | Resurgence | 0.30% | ~3,175 |
 | Preemptive Strike | 0.30% | ~3,175 |
 | Humanitarian | 0.30% | ~3,175 |
-| The Grand Sacrifice | 0.20% | ~2,116 |
-| Blood on your hands | 0.20% | ~2,116 |
-| Agonizing Escape | 0.20% | ~2,116 |
-| Backdoor Escape | 0.20% | ~2,116 |
-| I've got your back | 0.20% | ~2,116 |
-| Perfect Escape | 0.20% | ~2,116 |
-| Perfect Killing | 0.20% | ~2,116 |
-| Apt Killer | 0.20% | ~2,116 |
-| Risk it all | 0.20% | ~2,116 |
-| Vulture | 0.20% | ~2,116 |
-| III | 0.20% | ~2,116 |
-| III-50 | 0.20% | ~2,116 |
-| Engineer | 0.20% | ~2,116 |
-| Wounded Healer | 0.20% | ~2,116 |
-| Close Shave | 0.20% | ~2,116 |
-| With Scars to Show | 0.20% | ~2,116 |
-| Lifting The Fog | 0.20% | ~2,116 |
+| Blood on your hands | 0.20% | ~2,117 |
+| Agonizing Escape | 0.20% | ~2,117 |
+| Backdoor Escape | 0.20% | ~2,117 |
+| I've got your back | 0.20% | ~2,117 |
+| Perfect Escape | 0.20% | ~2,117 |
+| Perfect Killing | 0.20% | ~2,117 |
+| Apt Killer | 0.20% | ~2,117 |
+| Risk it all | 0.20% | ~2,117 |
+| Vulture | 0.20% | ~2,117 |
+| III | 0.20% | ~2,117 |
+| III-50 | 0.20% | ~2,117 |
+| Engineer | 0.20% | ~2,117 |
+| Wounded Healer | 0.20% | ~2,117 |
+| Every Last Drop | 0.20% | ~2,117 |
+| Close Shave | 0.20% | ~2,117 |
+| With Scars to Show | 0.20% | ~2,117 |
+| Lifting The Fog | 0.20% | ~2,117 |
 | A bite for the Entity | 0.10% | ~1,058 |
 | A feast for the Entity | 0.10% | ~1,058 |
 | Blood on your face | 0.10% | ~1,058 |
@@ -164,7 +165,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Speed Kills | 0.10% | ~1,058 |
 | I See You | 0.10% | ~1,058 |
 | Adept Blight | 0.10% | ~1,058 |
-| Every Last Drop | 0.10% | ~1,058 |
 | Adept Felix | 0.10% | ~1,058 |
 | Tag Team | 0.10% | ~1,058 |
 | End of Days | 0.10% | ~1,058 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,058 |
 | Adept Good Guy | 0.10% | ~1,058 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058,245 (Ranked 14)  
+Progressed: 1,058,396 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -464,7 +464,7 @@ Completed: 61 (0.01%) (Ranked 343)
 | 2023-11-28 | 1,050,827 | 61 |
 | 2023-11-29 | 1,053,910 | 61 |
 | 2023-11-30 | 1,056,530 | 61 |
-| 2023-12-01 | 1,058,245 | 61 |
+| 2023-12-01 | 1,058,396 | 61 |
 ## Awards
 Max (Diverse Characters): 36,961  (Ranked 15)  
 Sum: 281,221 (Ranked 12)  

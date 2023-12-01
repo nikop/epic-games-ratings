@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -112,7 +112,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 750,
+  "EOS_Progressed": 751,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
@@ -857,6 +857,11 @@
       "Time": "2023-12-01T07:03:21.5549614+00:00",
       "NumProgressed": 750,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T18:03:36.6499675+00:00",
+      "NumProgressed": 751,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -868,7 +873,7 @@
       "Name": "Ann ULTRA",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Annakin Skyscroller",
@@ -988,7 +993,7 @@
       "Name": "Lady Luck is a cool cat",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Omnipotence",
@@ -996,7 +1001,7 @@
       "Name": "Omnipotence",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "SERENITY_NOW",
@@ -1036,7 +1041,7 @@
       "Name": "Tell me your story",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -1084,7 +1089,7 @@
       "Name": "The things they print nowadays",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "The_truth_is_out_there",
@@ -1124,7 +1129,7 @@
       "Name": "You are the One",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "manhole",
@@ -1132,7 +1137,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "posters",
@@ -1155,7 +1160,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 750,
+      "Progressed": 751,
       "Completed": 0
     }
   ],
@@ -1163,8 +1168,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-12-01T17:03:29.937992+00:00",
+  "LastChanged_Achievements": "2023-12-01T18:03:36.6499671+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:12.8827125+00:00",
-  "LastUpdate_Ratings": "2023-12-01T16:58:34.1355246+00:00",
-  "LastUpdate_Achievements": "2023-12-01T17:03:29.9380174+00:00"
+  "LastUpdate_Ratings": "2023-12-01T17:58:30.8542542+00:00",
+  "LastUpdate_Achievements": "2023-12-01T18:03:36.6499889+00:00"
 }

@@ -6,24 +6,24 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~727,260 |
-| The Blues | 85.00% | ~624,415 |
-| Fast | 66.00% | ~484,840 |
-| Healthbar | 55.00% | ~404,033 |
-| Force Cube | 53.00% | ~389,341 |
+| Out of bed | 99.00% | ~727,261 |
+| The Blues | 85.00% | ~624,416 |
+| Fast | 66.00% | ~484,841 |
+| Healthbar | 55.00% | ~404,034 |
+| Force Cube | 53.00% | ~389,342 |
 | Double Jump | 48.00% | ~352,611 |
 | Regeneration | 47.00% | ~345,265 |
 | Triple Jump | 43.00% | ~315,881 |
 | Climb the hill | 42.00% | ~308,535 |
-| Through the fire pipe | 39.00% | ~286,496 |
-| MacGuffin | 38.00% | ~279,150 |
-| Just once | 37.00% | ~271,804 |
+| Through the fire pipe | 39.00% | ~286,497 |
+| MacGuffin | 38.00% | ~279,151 |
+| Just once | 37.00% | ~271,805 |
 | Armor | 30.00% | ~220,382 |
 | True holy spirit | 28.00% | ~205,690 |
 | That's how electronics work obviously | 27.00% | ~198,344 |
 | Force Cube Catapult | 25.00% | ~183,652 |
-| Holy Sword | 23.00% | ~168,959 |
-| Telefrag | 23.00% | ~168,959 |
+| Holy Sword | 23.00% | ~168,960 |
+| Telefrag | 23.00% | ~168,960 |
 | Freed from prison | 21.00% | ~154,267 |
 | Stomp | 21.00% | ~154,267 |
 | Double Health | 19.00% | ~139,575 |
@@ -55,7 +55,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | Momentum | 9.00% | ~66,115 |
 | Through the tiny pipe | 9.00% | ~66,115 |
 | Win! | 9.00% | ~66,115 |
-| The real real teleported man | 8.00% | ~58,768 |
+| The real real teleported man | 8.00% | ~58,769 |
 | Well deserved | 6.00% | ~44,076 |
 | Super Sword | 4.00% | ~29,384 |
 | Happiness | 3.00% | ~22,038 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~735 |
 | DLC: Top of the world | 0.10% | ~735 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 734,606 (Ranked 20)  
+Progressed: 734,607 (Ranked 20)  
 Completed: 764 (0.10%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 764 (0.10%) (Ranked 287)
 | 2023-11-28 | 734,356 | 764 |
 | 2023-11-29 | 734,455 | 764 |
 | 2023-11-30 | 734,548 | 764 |
-| 2023-12-01 | 734,606 | 764 |
+| 2023-12-01 | 734,607 | 764 |
 ## Awards
 Max (Challenging Puzzles): 7,736  (Ranked 50)  
 Sum: 10,094 (Ranked 91)  

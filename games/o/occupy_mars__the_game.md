@@ -6,7 +6,7 @@ Rating: 4.03 (Ranked 997)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I don't feel so good | 42.00% | ~738 |
-| Electrician | 34.00% | ~597 |
+| Electrician | 34.00% | ~598 |
 | Fear my botany powers, Mars | 33.00% | ~580 |
 | Zero Waste | 30.00% | ~527 |
 | Occupy Mars! | 30.00% | ~527 |
@@ -54,7 +54,7 @@ Rating: 4.03 (Ranked 997)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,757 (Ranked 233)  
+Progressed: 1,758 (Ranked 233)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-28 | 1,750 | 0 |
 | 2023-11-29 | 1,751 | 0 |
 | 2023-11-30 | 1,755 | 0 |
-| 2023-12-01 | 1,757 | 0 |
+| 2023-12-01 | 1,758 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

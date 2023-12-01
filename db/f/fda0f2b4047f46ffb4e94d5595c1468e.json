@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -3279,9 +3279,9 @@
       "Count": 402
     }
   ],
-  "EOS_Progressed": 9436,
+  "EOS_Progressed": 9437,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 458,
+  "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10159,6 +10159,11 @@
       "Time": "2023-12-01T17:08:09.9658142+00:00",
       "NumProgressed": 9436,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T18:08:17.241338+00:00",
+      "NumProgressed": 9437,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -10211,7 +10216,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 7077
+      "UsersEstimate": 7078
     },
     {
       "ID": "ach07",
@@ -10219,7 +10224,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 5284
+      "UsersEstimate": 5285
     },
     {
       "ID": "ach08",
@@ -10227,7 +10232,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3774
+      "UsersEstimate": 3775
     },
     {
       "ID": "ach09",
@@ -10307,7 +10312,7 @@
       "Name": "Adventure Time",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3491
+      "UsersEstimate": 3492
     },
     {
       "ID": "ach19",
@@ -10347,7 +10352,7 @@
       "Name": "Take And Deny",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 2736
+      "UsersEstimate": 2737
     },
     {
       "ID": "ach24",
@@ -10363,7 +10368,7 @@
       "Name": "Talis-Mania",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 2170
+      "UsersEstimate": 2171
     },
     {
       "ID": "ach26",
@@ -10403,7 +10408,7 @@
       "Name": "Juggernaut",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1415
+      "UsersEstimate": 1416
     },
     {
       "ID": "ach31",
@@ -10499,7 +10504,7 @@
       "Name": "Quest Master",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 4057
+      "UsersEstimate": 4058
     },
     {
       "ID": "ach43",
@@ -10570,7 +10575,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 9436,
+      "Progressed": 9437,
       "Completed": 0
     }
   ],
@@ -10578,8 +10583,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-12-01T17:02:48.141747+00:00",
-  "LastChanged_Achievements": "2023-12-01T17:08:09.9658138+00:00",
+  "LastChanged_Achievements": "2023-12-01T18:08:17.2413376+00:00",
   "LastUpdate_AppInfo": "2023-11-25T10:57:15.5645679+00:00",
-  "LastUpdate_Ratings": "2023-12-01T17:02:48.1417476+00:00",
-  "LastUpdate_Achievements": "2023-12-01T17:08:09.9658807+00:00"
+  "LastUpdate_Ratings": "2023-12-01T18:02:52.5295673+00:00",
+  "LastUpdate_Achievements": "2023-12-01T18:08:17.2413908+00:00"
 }

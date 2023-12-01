@@ -1,34 +1,34 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 935)  
+Rating: 4.18 (Ranked 934)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~38,758 |
+| First Step Into the Knight | 50.00% | ~38,760 |
 | Har, Har, Har, Very Funny | 34.00% | ~26,356 |
 | Loose Ends | 34.00% | ~26,356 |
 | To the Victor Go the Spoils | 28.00% | ~21,705 |
 | Knighthood | 27.00% | ~20,930 |
-| Get ReQ'd | 25.00% | ~19,379 |
-| Whispered Words | 25.00% | ~19,379 |
+| Get ReQ'd | 25.00% | ~19,380 |
+| Whispered Words | 25.00% | ~19,380 |
 | The Batman Family | 22.00% | ~17,054 |
 | Lock and Key | 22.00% | ~17,054 |
 | Something in the Clay | 21.00% | ~16,279 |
-| Quartzer Life Crisis | 20.00% | ~15,503 |
-| Working Hard or Harley Working? | 20.00% | ~15,503 |
-| Unstoppable Force | 20.00% | ~15,503 |
-| Bad Apples in Every Orchard | 20.00% | ~15,503 |
-| Snow Problem | 19.00% | ~14,728 |
+| Quartzer Life Crisis | 20.00% | ~15,504 |
+| Working Hard or Harley Working? | 20.00% | ~15,504 |
+| Unstoppable Force | 20.00% | ~15,504 |
+| Bad Apples in Every Orchard | 20.00% | ~15,504 |
+| Snow Problem | 19.00% | ~14,729 |
 | The Show Mud Go On | 18.00% | ~13,953 |
 | From Inside Gotham's Walls | 18.00% | ~13,953 |
 | Protector of Gotham | 17.00% | ~13,178 |
 | Universal Health Scare | 16.00% | ~12,403 |
 | In Your Element | 15.00% | ~11,628 |
 | Voiceless | 15.00% | ~11,628 |
-| Rock and a Hard Place | 14.00% | ~10,852 |
-| Cooldown | 14.00% | ~10,852 |
-| Seeking Asylum | 14.00% | ~10,852 |
+| Rock and a Hard Place | 14.00% | ~10,853 |
+| Cooldown | 14.00% | ~10,853 |
+| Seeking Asylum | 14.00% | ~10,853 |
 | Not On My Watch | 13.00% | ~10,077 |
 | Shock Til They Drop | 13.00% | ~10,077 |
 | End of an Era | 12.00% | ~9,302 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 935)
 | Element of Surprise | 0.20% | ~96 |
 | It's Nice to Be Wanted | 0.20% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,517 (Ranked 99)  
+Progressed: 77,519 (Ranked 99)  
 Completed: 124 (0.16%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,16 +292,16 @@ Completed: 124 (0.16%) (Ranked 267)
 | 2023-11-28 | 77,377 | 124 |
 | 2023-11-29 | 77,449 | 124 |
 | 2023-11-30 | 77,491 | 124 |
-| 2023-12-01 | 77,517 | 124 |
+| 2023-12-01 | 77,519 | 124 |
 ## Awards
 Max (Great Boss Battles): 2,984  (Ranked 98)  
-Sum: 5,091 (Ranked 140)  
+Sum: 5,092 (Ranked 140)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,984 |
 | This game has Diverse Characters | 269 |
-| This game is Extremely Fun | 267 |
+| This game is Extremely Fun | 268 |
 | This game is Relaxing | 266 |
 | This game has Quickly Understood Controls | 265 |
 | This game is Great for Beginners | 263 |
@@ -591,4 +591,4 @@ Diff (max vs sum): -42
 | 2023-11-28 | 4.18 | 2,977 | 5,076 |
 | 2023-11-29 | 4.18 | 2,980 | 5,081 |
 | 2023-11-30 | 4.18 | 2,980 | 5,083 |
-| 2023-12-01 | 4.18 | 2,984 | 5,091 |
+| 2023-12-01 | 4.18 | 2,984 | 5,092 |

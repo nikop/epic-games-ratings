@@ -46,8 +46,8 @@ Rating: 4.68 (Ranked 255)
 | Hitting a Century | 4.00% | ~239 |
 | Seasoned Rookie | 3.00% | ~180 |
 | Wait, I know you? | 3.00% | ~180 |
+| Filling in the Gaps | 3.00% | ~180 |
 | Saturday Night Drama | 2.00% | ~120 |
-| Filling in the Gaps | 2.00% | ~120 |
 | Under the Microscope | 1.00% | ~60 |
 | Media Darling | 1.00% | ~60 |
 | Ultimate Collector | 0.60% | ~36 |

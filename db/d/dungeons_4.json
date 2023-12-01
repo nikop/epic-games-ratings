@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 508,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.97,
   "EosHistory": [
@@ -1420,9 +1420,9 @@
       "ID": "ach_main06transporter_transport",
       "SetID": "4hg22ll",
       "Name": "YOU SHALL NOT PASS!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 239
     },
     {
       "ID": "ach_main07storm_classified",
@@ -1540,9 +1540,9 @@
       "ID": "ach_main11blessing_ghostheroes",
       "SetID": "4hg22ll",
       "Name": "Ghost Pirates? Ghost Heroes!",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 117
     },
     {
       "ID": "ach_main11blessing_undeadonly",
@@ -1580,9 +1580,9 @@
       "ID": "ach_main13tanos_completed",
       "SetID": "4hg22ll",
       "Name": "The Duel",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 132
     },
     {
       "ID": "ach_main13tanos_dungeonlord",
@@ -1644,9 +1644,9 @@
       "ID": "ach_main15drill_untouchable",
       "SetID": "4hg22ll",
       "Name": "Untouchable",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 51
     },
     {
       "ID": "ach_main16ring_completed",
@@ -1779,8 +1779,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-01T17:08:23.5226835+00:00",
+  "LastChanged_Achievements": "2023-12-01T18:08:31.0408023+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:53.3530612+00:00",
-  "LastUpdate_Ratings": "2023-12-01T16:57:59.5032736+00:00",
-  "LastUpdate_Achievements": "2023-12-01T17:08:23.5227257+00:00"
+  "LastUpdate_Ratings": "2023-12-01T17:57:56.1200214+00:00",
+  "LastUpdate_Achievements": "2023-12-01T18:08:31.0408445+00:00"
 }

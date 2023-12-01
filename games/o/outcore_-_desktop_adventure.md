@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Learned how to jump! | 69.00% | ~18 |
-| Learned how to walk! | 69.00% | ~18 |
-| Defeated Captain Tutorial | 62.00% | ~16 |
+| Learned how to jump! | 73.00% | ~19 |
+| Learned how to walk! | 73.00% | ~19 |
+| Defeated Captain Tutorial | 65.00% | ~17 |
 | Immersion Breaking | 46.00% | ~12 |
 | Ḧ̴́͊̈́́̃̈́͊̂̏̅̈́̆͊͛͋̃̍̊̓͛̔̆͘͠͝Ë̵̢̢̧̛̛͇̪̟͓̝̼͕̞͔̻͎̠͔̤̥̺̹̱̼̪̺̪̺̰̱́̊͋̈́̔̍͑̄̅́̔͛̓̽̊̒̓́͛̀̀͗̈́́̃̈́̈́̄̔̓͐͆̀̈́̄́̚͘̕͘͘̕͝ͅL̸̀͠Ṕ̵̛̎̄̽̈́́͊̅͛̄ ̶̃M̶̨̧̼̪̞͈̯̬͖͖͎̞͎̻̥̍̌͊̀̓̄̋͋̂͌̏̈́̾͆̌̈́̆̈́̐̿̓͐͝͝͠͠E̵͒̓͊͋̄͘ | 42.00% | ~11 |
 | Defeated Booty The Bootleg | 35.00% | ~9 |
@@ -26,10 +26,10 @@
 | It really wasn't worth it | 4.00% | ~1 |
 | DEMON??? | 4.00% | ~1 |
 | Read a walkthrough | 4.00% | ~1 |
+| Tutorial Master | 4.00% | ~1 |
 | Diverse desktop | 0.00% | ~0 |
 | Love Master | 0.00% | ~0 |
 | No time to waste | 0.00% | ~0 |
-| Tutorial Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 26 (Ranked 544)  
 Completed: 0 (0.00%) (Ranked 363)  

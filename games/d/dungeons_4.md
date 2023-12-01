@@ -22,8 +22,8 @@
 | The Ascent | 53.00% | ~269 |
 | It's Warm and Cozy at Home | 53.00% | ~269 |
 | Hard Work | 48.00% | ~244 |
+| YOU SHALL NOT PASS! | 47.00% | ~239 |
 | The Big Eaty | 47.00% | ~239 |
-| YOU SHALL NOT PASS! | 46.00% | ~234 |
 | Pure Dynamite! | 43.00% | ~218 |
 | “… like son” | 43.00% | ~218 |
 | Dungeonlord Gorgu | 39.00% | ~198 |
@@ -34,12 +34,12 @@
 | All’s Well That Ends Evil | 29.00% | ~147 |
 | Unstoppable Horde | 28.00% | ~142 |
 | Master of the Undead | 26.00% | ~132 |
-| The Duel | 25.00% | ~127 |
+| The Duel | 26.00% | ~132 |
 | Hungry, Hungry Gorgu! | 23.00% | ~117 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 23.00% | ~117 |
 | Forbidden Knowledge | 23.00% | ~117 |
+| Ghost Pirates? Ghost Heroes! | 23.00% | ~117 |
 | If Looks Could Kill | 23.00% | ~117 |
-| Ghost Pirates? Ghost Heroes! | 22.00% | ~112 |
 | The Finitude Drill | 21.00% | ~107 |
 | Stop Tanos! | 18.00% | ~91 |
 | Doom Hill | 18.00% | ~91 |
@@ -57,7 +57,7 @@
 | To the Max! | 11.00% | ~56 |
 | To Infinity And Beyond! | 11.00% | ~56 |
 | Mirror, Mirror | 10.00% | ~51 |
-| Untouchable | 9.00% | ~46 |
+| Untouchable | 10.00% | ~51 |
 | Evilification | 9.00% | ~46 |
 | Heal Heal Blessing | 8.00% | ~41 |
 | Gorgu is in the Best of Health | 7.00% | ~36 |

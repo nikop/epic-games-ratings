@@ -6,7 +6,7 @@ Rating: 4.64 (Ranked 337)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Marksman | 93.00% | ~1,932 |
-| Welcome Aboard | 85.00% | ~1,765 |
+| Welcome Aboard | 86.00% | ~1,786 |
 | Lab Rat | 76.00% | ~1,579 |
 | All Systems Go | 67.00% | ~1,392 |
 | Brute Force | 66.00% | ~1,371 |

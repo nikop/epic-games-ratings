@@ -44,7 +44,7 @@ Rating: 4.57 (Ranked 477)
 | King of the handymen | 10.00% | ~6 |
 | The traveler | 8.00% | ~5 |
 | Terror of the hens | 8.00% | ~5 |
-| Expert | 7.00% | ~4 |
+| Expert | 8.00% | ~5 |
 | Fervent swimmer | 7.00% | ~4 |
 | King Midas | 7.00% | ~4 |
 | Rune master | 3.00% | ~2 |

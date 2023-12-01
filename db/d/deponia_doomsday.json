@@ -5,10 +5,10 @@
   "Ranking_Rating": 508,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
-  "Ranking_EOS_Progress": 314,
+  "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -80,11 +80,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 481,
+  "EOS_Progressed": 482,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.46,
+  "EOS_Completed_Percentage": 1.45,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.6449061+00:00",
@@ -705,6 +705,11 @@
       "Time": "2023-11-29T17:04:56.2945338+00:00",
       "NumProgressed": 481,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-01T18:05:38.0088083+00:00",
+      "NumProgressed": 482,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 36,
@@ -714,9 +719,9 @@
       "ID": "dep4_achievement_1",
       "SetID": "5d32b60",
       "Name": "Huzza, he\u0027s back.",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 419
     },
     {
       "ID": "dep4_achievement_10",
@@ -724,7 +729,7 @@
       "Name": "Sole Music",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "dep4_achievement_11",
@@ -740,7 +745,7 @@
       "Name": "Masseltov",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "dep4_achievement_13",
@@ -788,7 +793,7 @@
       "Name": "Chunky",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "dep4_achievement_19",
@@ -826,9 +831,9 @@
       "ID": "dep4_achievement_22",
       "SetID": "5d32b60",
       "Name": "No man left behind!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 140
     },
     {
       "ID": "dep4_achievement_23",
@@ -874,9 +879,9 @@
       "ID": "dep4_achievement_28",
       "SetID": "5d32b60",
       "Name": "Kuvaq Minigame-Master",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 303
+      "UsersEstimate": 299
     },
     {
       "ID": "dep4_achievement_29",
@@ -892,7 +897,7 @@
       "Name": "Burn, Elysium, burn!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "dep4_achievement_30",
@@ -980,7 +985,7 @@
       "Name": "Portals come in packs",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "dep4_achievement_8",
@@ -1003,7 +1008,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 481,
+      "Progressed": 482,
       "Completed": 7
     }
   ],
@@ -1011,8 +1016,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-12-01T17:05:30.0037698+00:00",
+  "LastChanged_Achievements": "2023-12-01T18:05:38.0088079+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:02.3197953+00:00",
-  "LastUpdate_Ratings": "2023-12-01T17:02:45.6384665+00:00",
-  "LastUpdate_Achievements": "2023-12-01T17:05:30.0037958+00:00"
+  "LastUpdate_Ratings": "2023-12-01T18:02:49.8398354+00:00",
+  "LastUpdate_Achievements": "2023-12-01T18:05:38.0088326+00:00"
 }

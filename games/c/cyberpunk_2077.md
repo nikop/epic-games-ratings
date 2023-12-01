@@ -6,29 +6,29 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 11.00% | ~106,260 |
-| Gun Fu | 6.00% | ~57,960 |
-| The Fool | 5.00% | ~48,300 |
-| Right Back At Ya | 4.00% | ~38,640 |
-| The Lovers | 4.00% | ~38,640 |
-| Full Body Conversion | 2.00% | ~19,320 |
-| Christmas Tree Attack | 2.00% | ~19,320 |
-| Stanislavski's Method | 2.00% | ~19,320 |
-| The Hermit | 2.00% | ~19,320 |
-| The Wheel of Fortune | 2.00% | ~19,320 |
-| True Soldier | 2.00% | ~19,320 |
-| True Warrior | 2.00% | ~19,320 |
-| Relic Ruler | 2.00% | ~1,892 |
-| All the President's Men | 2.00% | ~1,892 |
-| Bushido and Chill | 1.00% | ~9,660 |
-| The Quick and the Dead | 1.00% | ~9,660 |
-| Life of the Road | 1.00% | ~9,660 |
-| The High Priestess | 1.00% | ~9,660 |
-| The World | 1.00% | ~9,660 |
-| Legend of The Afterlife | 1.00% | ~9,660 |
-| Arachnophobia | 1.00% | ~946 |
-| Master Crafter | 0.90% | ~8,694 |
-| Two Heads, One Bullet | 0.90% | ~8,694 |
+| V for Vendetta | 11.00% | ~106,266 |
+| Gun Fu | 6.00% | ~57,964 |
+| The Fool | 5.00% | ~48,303 |
+| Right Back At Ya | 4.00% | ~38,642 |
+| The Lovers | 4.00% | ~38,642 |
+| Stanislavski's Method | 3.00% | ~28,982 |
+| Full Body Conversion | 2.00% | ~19,321 |
+| Christmas Tree Attack | 2.00% | ~19,321 |
+| The Hermit | 2.00% | ~19,321 |
+| The Wheel of Fortune | 2.00% | ~19,321 |
+| True Soldier | 2.00% | ~19,321 |
+| True Warrior | 2.00% | ~19,321 |
+| Relic Ruler | 2.00% | ~1,894 |
+| All the President's Men | 2.00% | ~1,894 |
+| Bushido and Chill | 1.00% | ~9,661 |
+| The Quick and the Dead | 1.00% | ~9,661 |
+| Life of the Road | 1.00% | ~9,661 |
+| The High Priestess | 1.00% | ~9,661 |
+| The World | 1.00% | ~9,661 |
+| Legend of The Afterlife | 1.00% | ~9,661 |
+| Arachnophobia | 1.00% | ~947 |
+| Master Crafter | 0.90% | ~8,695 |
+| Two Heads, One Bullet | 0.90% | ~8,695 |
 | To Protect and Serve | 0.80% | ~7,728 |
 | I Am The Law | 0.80% | ~7,728 |
 | Judy vs Night City | 0.80% | ~7,728 |
@@ -41,7 +41,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | To Bad Decisions! | 0.40% | ~3,864 |
 | The Star | 0.40% | ~3,864 |
 | The Sun | 0.40% | ~3,864 |
-| The Tower | 0.40% | ~378 |
+| The Tower | 0.40% | ~379 |
 | Autojock | 0.30% | ~2,898 |
 | Must Be Rats | 0.30% | ~2,898 |
 | Breathtaking | 0.30% | ~2,898 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 965,996 (Ranked 15)  
-Completed: 2,830 (0.29%) (Ranked 238)  
+Progressed: 966,059 (Ranked 15)  
+Completed: 2,832 (0.29%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -299,14 +299,14 @@ Completed: 2,830 (0.29%) (Ranked 238)
 | 2023-11-28 | 960,226 | 2,821 |
 | 2023-11-29 | 962,972 | 2,823 |
 | 2023-11-30 | 964,640 | 2,827 |
-| 2023-12-01 | 965,996 | 2,830 |
+| 2023-12-01 | 966,059 | 2,832 |
 ## Awards
-Max (Character Customization): 112,636  (Ranked 9)  
-Sum: 377,478 (Ranked 9)  
+Max (Character Customization): 113,560  (Ranked 9)  
+Sum: 378,402 (Ranked 9)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 112,636 |
+| This game has Inclusive Character Customization | 113,560 |
 | This game has Great Boss Battles | 81,397 |
 | This game is Great for Beginners | 22,829 |
 | This game has Diverse Characters | 22,290 |
@@ -636,4 +636,4 @@ Diff (max vs sum): 0
 | 2023-11-28 | 4.65 | - | 110,923 | 371,115 |
 | 2023-11-29 | 4.65 | - | 111,778 | 373,471 |
 | 2023-11-30 | 4.65 | - | 112,636 | 375,982 |
-| 2023-12-01 | 4.65 | - | 112,636 | 377,478 |
+| 2023-12-01 | 4.65 | - | 113,560 | 378,402 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 770,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2019-10-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -10888,10 +10888,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 13558,
       "NumberOfAwardsMax": 1731
+    },
+    {
+      "Time": "2023-12-01T17:58:50.0055707+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 13569,
+      "NumberOfAwardsMax": 1731
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13558,
+  "NumberOfAwards": 13569,
   "NumberOfAwardsMax": 1731,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -10911,7 +10917,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1404
+      "Count": 1407
     },
     {
       "Text": "This game has Diverse Characters",
@@ -10923,7 +10929,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1597
+      "Count": 1602
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -10947,7 +10953,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1596
+      "Count": 1599
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -10967,8 +10973,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:01.6049154+00:00",
-  "LastChanged": "2023-12-01T13:59:02.2199447+00:00",
+  "LastChanged": "2023-12-01T17:58:50.0055705+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:18.5950361+00:00",
-  "LastUpdate_Ratings": "2023-12-01T16:58:53.4071577+00:00",
-  "LastUpdate_Achievements": "2023-12-01T17:03:26.8137304+00:00"
+  "LastUpdate_Ratings": "2023-12-01T17:58:50.0055713+00:00",
+  "LastUpdate_Achievements": "2023-12-01T18:03:33.5145447+00:00"
 }
