@@ -2570,9 +2570,9 @@
       "ID": "BoxingClever",
       "SetID": "3ai6ml8",
       "Name": "Boxing Clever",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 515
+      "UsersEstimate": 525
     },
     {
       "ID": "Cartographer",
@@ -2721,8 +2721,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-12-01T20:09:50.0908685+00:00",
+  "LastChanged_Achievements": "2023-12-01T21:09:51.7032429+00:00",
   "LastUpdate_AppInfo": "2023-11-29T20:57:24.7424697+00:00",
-  "LastUpdate_Ratings": "2023-12-01T20:00:43.8788712+00:00",
-  "LastUpdate_Achievements": "2023-12-01T20:09:50.0908918+00:00"
+  "LastUpdate_Ratings": "2023-12-01T21:00:26.496934+00:00",
+  "LastUpdate_Achievements": "2023-12-01T21:09:51.703271+00:00"
 }

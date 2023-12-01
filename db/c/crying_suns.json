@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -649,7 +649,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471623,
+  "EOS_Progressed": 471624,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 0,
@@ -24079,6 +24079,11 @@
       "Time": "2023-12-01T20:10:19.6939426+00:00",
       "NumProgressed": 471623,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-01T21:10:21.5433751+00:00",
+      "NumProgressed": 471624,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -24090,7 +24095,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70743
+      "UsersEstimate": 70744
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -24098,7 +24103,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70743
+      "UsersEstimate": 70744
     },
     {
       "ID": "achievement_first_death",
@@ -24122,7 +24127,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70743
+      "UsersEstimate": 70744
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -24178,7 +24183,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311271
+      "UsersEstimate": 311272
     },
     {
       "ID": "achievement_story_landa",
@@ -24258,7 +24263,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70743
+      "UsersEstimate": 70744
     },
     {
       "ID": "achievement_story_neon_child",
@@ -24514,7 +24519,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207514
+      "UsersEstimate": 207515
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -24721,21 +24726,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15557,
+      "Progressed": 15558,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471623,
+      "Progressed": 471624,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-01T18:58:58.8781534+00:00",
-  "LastChanged_Achievements": "2023-12-01T20:10:19.6939424+00:00",
+  "LastChanged_Achievements": "2023-12-01T21:10:21.5433748+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:35.6450304+00:00",
-  "LastUpdate_Ratings": "2023-12-01T20:00:00.1527579+00:00",
-  "LastUpdate_Achievements": "2023-12-01T20:10:19.6940974+00:00"
+  "LastUpdate_Ratings": "2023-12-01T20:59:41.0756678+00:00",
+  "LastUpdate_Achievements": "2023-12-01T21:10:21.5435545+00:00"
 }

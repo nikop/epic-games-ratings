@@ -4,7 +4,7 @@
   "ProductSlug": "dead-island-2",
   "Ranking_Rating": 529,
   "Ranking_Popularity": 49,
-  "Ranking_PopularitySum": 83,
+  "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 27,
@@ -7131,9 +7131,9 @@
       "Count": 503
     }
   ],
-  "EOS_Progressed": 728573,
+  "EOS_Progressed": 728612,
   "EOS_Completed": 2458,
-  "EOS_NewPlayers": 4569,
+  "EOS_NewPlayers": 4570,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -32941,6 +32941,11 @@
       "Time": "2023-12-01T20:08:47.5497509+00:00",
       "NumProgressed": 728573,
       "NumCompleted": 2458
+    },
+    {
+      "Time": "2023-12-01T21:08:47.8032347+00:00",
+      "NumProgressed": 728612,
+      "NumCompleted": 2458
     }
   ],
   "TotalAchievements": 51,
@@ -32960,7 +32965,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6557
+      "UsersEstimate": 6558
     },
     {
       "ID": "ach_ammo_ran",
@@ -32968,7 +32973,7 @@
       "Name": "Git Gutte!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14571
+      "UsersEstimate": 14572
     },
     {
       "ID": "ach_anger_management",
@@ -33016,7 +33021,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14571
+      "UsersEstimate": 14572
     },
     {
       "ID": "ach_contender",
@@ -33072,7 +33077,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14571
+      "UsersEstimate": 14572
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -33096,7 +33101,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14571
+      "UsersEstimate": 14572
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -33112,7 +33117,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14571
+      "UsersEstimate": 14572
     },
     {
       "ID": "ach_impressive_aim",
@@ -33232,7 +33237,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14571
+      "UsersEstimate": 14572
     },
     {
       "ID": "ach_survival_expert",
@@ -33248,7 +33253,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 6557
+      "UsersEstimate": 6558
     },
     {
       "ID": "ach_the_vcla",
@@ -33288,7 +33293,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14571
+      "UsersEstimate": 14572
     },
     {
       "ID": "ach_well_known_survivor",
@@ -33312,7 +33317,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "ach_dark_magic",
@@ -33320,7 +33325,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1623
+      "UsersEstimate": 1625
     },
     {
       "ID": "ach_gardening_tools",
@@ -33336,7 +33341,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -33352,20 +33357,20 @@
       "Name": "Top That, Tisha!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 728573,
+      "Progressed": 728612,
       "Completed": 2458
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 54115,
+      "Progressed": 54154,
       "Completed": 36618
     }
   ],
@@ -33373,8 +33378,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-12-01T15:59:46.9988066+00:00",
-  "LastChanged_Achievements": "2023-12-01T20:08:47.5497504+00:00",
+  "LastChanged_Achievements": "2023-12-01T21:08:47.8032342+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-12-01T20:00:17.0254809+00:00",
-  "LastUpdate_Achievements": "2023-12-01T20:08:47.5498991+00:00"
+  "LastUpdate_Ratings": "2023-12-01T20:59:58.6875219+00:00",
+  "LastUpdate_Achievements": "2023-12-01T21:08:47.8034316+00:00"
 }

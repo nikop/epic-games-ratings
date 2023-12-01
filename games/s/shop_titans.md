@@ -8,10 +8,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 7.00% | ~10,028 |
 | Titan's First Steps | 7.00% | ~10,028 |
-| Basic in Bulk | 6.00% | ~8,595 |
-| Tinkle of Coins | 6.00% | ~8,595 |
-| Disintermediation | 5.00% | ~7,162 |
-| Capitalism Ho! | 5.00% | ~7,162 |
+| Basic in Bulk | 6.00% | ~8,596 |
+| Tinkle of Coins | 6.00% | ~8,596 |
+| Disintermediation | 5.00% | ~7,163 |
+| Capitalism Ho! | 5.00% | ~7,163 |
 | One Easy Payment | 4.00% | ~5,730 |
 | Some Assembly Required | 4.00% | ~5,730 |
 | Another Satisfied Customer | 4.00% | ~5,730 |
@@ -71,38 +71,38 @@ Number of Ratings: 12,664  (23.09.2022)
 | Exotic Commodities | 2.00% | ~2,865 |
 | Arcane Industries | 2.00% | ~2,865 |
 | Complete Monopoly | 2.00% | ~2,865 |
-| Cream of the Crop | 1.00% | ~1,432 |
-| Top of the World | 1.00% | ~1,432 |
-| Proud Paladin | 1.00% | ~1,432 |
-| Constellated | 1.00% | ~1,432 |
-| A Ronin Reborn | 1.00% | ~1,432 |
-| Thirst for Knowledge | 1.00% | ~1,432 |
-| Booty by the Boatload | 1.00% | ~1,432 |
-| Archivist | 1.00% | ~1,432 |
-| Fillin' the Bin | 1.00% | ~1,432 |
-| Industrial Evolution | 1.00% | ~1,432 |
-| Master of Transmutation | 1.00% | ~1,432 |
-| Supercharged | 1.00% | ~1,432 |
-| Thank You Tom Nook | 1.00% | ~1,432 |
-| Ritualist | 1.00% | ~1,432 |
-| Fit for a King | 1.00% | ~1,432 |
-| By Your Powers Combined... | 1.00% | ~1,432 |
-| A Legend is Born | 1.00% | ~1,432 |
-| Wealth Beyond Measure | 1.00% | ~1,432 |
-| Necromancer Queen | 1.00% | ~1,432 |
-| Jackpot! | 1.00% | ~1,432 |
-| Item of Renown | 1.00% | ~1,432 |
-| Miracle Alchemist | 1.00% | ~1,432 |
-| Bountiful Harvest | 1.00% | ~1,432 |
-| Precision Engineering | 1.00% | ~1,432 |
-| Scourge of the Seas | 1.00% | ~1,432 |
-| Treasure Trove | 1.00% | ~1,432 |
-| Moment of Respite | 1.00% | ~1,432 |
-| King's Shadow | 1.00% | ~1,432 |
-| Master Recycler | 1.00% | ~1,432 |
-| All Accounted For | 1.00% | ~1,432 |
-| Economy of Scarce | 1.00% | ~1,432 |
-| King's Blade | 1.00% | ~1,432 |
+| Cream of the Crop | 1.00% | ~1,433 |
+| Top of the World | 1.00% | ~1,433 |
+| Proud Paladin | 1.00% | ~1,433 |
+| Constellated | 1.00% | ~1,433 |
+| A Ronin Reborn | 1.00% | ~1,433 |
+| Thirst for Knowledge | 1.00% | ~1,433 |
+| Booty by the Boatload | 1.00% | ~1,433 |
+| Archivist | 1.00% | ~1,433 |
+| Fillin' the Bin | 1.00% | ~1,433 |
+| Industrial Evolution | 1.00% | ~1,433 |
+| Master of Transmutation | 1.00% | ~1,433 |
+| Supercharged | 1.00% | ~1,433 |
+| Thank You Tom Nook | 1.00% | ~1,433 |
+| Ritualist | 1.00% | ~1,433 |
+| Fit for a King | 1.00% | ~1,433 |
+| By Your Powers Combined... | 1.00% | ~1,433 |
+| A Legend is Born | 1.00% | ~1,433 |
+| Wealth Beyond Measure | 1.00% | ~1,433 |
+| Necromancer Queen | 1.00% | ~1,433 |
+| Jackpot! | 1.00% | ~1,433 |
+| Item of Renown | 1.00% | ~1,433 |
+| Miracle Alchemist | 1.00% | ~1,433 |
+| Bountiful Harvest | 1.00% | ~1,433 |
+| Precision Engineering | 1.00% | ~1,433 |
+| Scourge of the Seas | 1.00% | ~1,433 |
+| Treasure Trove | 1.00% | ~1,433 |
+| Moment of Respite | 1.00% | ~1,433 |
+| King's Shadow | 1.00% | ~1,433 |
+| Master Recycler | 1.00% | ~1,433 |
+| All Accounted For | 1.00% | ~1,433 |
+| Economy of Scarce | 1.00% | ~1,433 |
+| King's Blade | 1.00% | ~1,433 |
 | The Free Encyclopedia | 0.90% | ~1,289 |
 | Eternal Crusade | 0.90% | ~1,289 |
 | The Greatest Grind | 0.70% | ~1,003 |
@@ -117,9 +117,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Merchant Extraordinaire | 0.40% | ~573 |
 | To Hell and Back | 0.30% | ~430 |
 | Cash Only Please | 0.30% | ~430 |
-| Capitalist Camaraderie | 0.20% | ~286 |
+| Capitalist Camaraderie | 0.20% | ~287 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 143,250 (Ranked 80)  
+Progressed: 143,259 (Ranked 80)  
 Completed: 290 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,7 +344,7 @@ Completed: 290 (0.20%) (Ranked 257)
 | 2023-11-28 | 142,735 | 284 |
 | 2023-11-29 | 142,879 | 289 |
 | 2023-11-30 | 143,035 | 290 |
-| 2023-12-01 | 143,250 | 290 |
+| 2023-12-01 | 143,259 | 290 |
 ## Awards
 Max (Great for Beginners): 4,859  (Ranked 75)  
 Sum: 27,642 (Ranked 50)  

@@ -8,11 +8,11 @@ Rating: 4.13 (Ranked 964)
 | Attachments | 10.00% | ~4,321 |
 | Unlocked Potential | 9.00% | ~3,889 |
 | Tinkerer | 7.00% | ~3,025 |
-| Leapfrogger | 6.00% | ~2,592 |
-| Knock 'Em Dead | 6.00% | ~2,592 |
-| Pilgrimage: Initiate | 6.00% | ~2,592 |
-| Hell of a Run | 6.00% | ~2,592 |
-| Call of the Fount: Baptized | 6.00% | ~2,592 |
+| Leapfrogger | 6.00% | ~2,593 |
+| Knock 'Em Dead | 6.00% | ~2,593 |
+| Pilgrimage: Initiate | 6.00% | ~2,593 |
+| Hell of a Run | 6.00% | ~2,593 |
+| Call of the Fount: Baptized | 6.00% | ~2,593 |
 | No Mercy | 5.00% | ~2,160 |
 | Explorer: Seeker | 5.00% | ~2,160 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,728 |
@@ -59,7 +59,7 @@ Rating: 4.13 (Ranked 964)
 | Remembrance | 0.10% | ~43 |
 | Cat Person | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,208 (Ranked 118)  
+Progressed: 43,209 (Ranked 118)  
 Completed: 3 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 3 (0.01%) (Ranked 343)
 | 2023-11-28 | 43,106 | 3 |
 | 2023-11-29 | 43,128 | 3 |
 | 2023-11-30 | 43,162 | 3 |
-| 2023-12-01 | 43,208 | 3 |
+| 2023-12-01 | 43,209 | 3 |
 ## Awards
 Max (Character Customization): 29  (Ranked 503)  
 Sum: 29 (Ranked 517)  

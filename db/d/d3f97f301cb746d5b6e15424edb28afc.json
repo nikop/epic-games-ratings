@@ -2755,9 +2755,9 @@
       "ID": "ACH_WASHCAR_01",
       "SetID": "5fn8ia4",
       "Name": "Welcome to the Car Wash",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 530
+      "UsersEstimate": 541
     },
     {
       "ID": "ACH_WASHCAR_02",
@@ -3083,9 +3083,9 @@
       "ID": "GSS_ACH_40_GARAGE_03",
       "SetID": "5fn8ia4",
       "Name": "Greasemonkey",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 631
+      "UsersEstimate": 642
     },
     {
       "ID": "GSS_ACH_41_PARTY_BUS",
@@ -3187,9 +3187,9 @@
       "ID": "GSS_ACH_53_UPGRADE_WORKSHOP_03",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 3",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 428
+      "UsersEstimate": 440
     },
     {
       "ID": "GSS_ACH_54_UPGRADE_WORKSHOP_04",
@@ -3436,8 +3436,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-28T04:59:34.1023632+00:00",
-  "LastChanged_Achievements": "2023-12-01T20:06:35.4309044+00:00",
+  "LastChanged_Achievements": "2023-12-01T21:06:33.8909605+00:00",
   "LastUpdate_AppInfo": "2023-11-27T17:57:10.8459621+00:00",
-  "LastUpdate_Ratings": "2023-12-01T19:58:23.7227175+00:00",
-  "LastUpdate_Achievements": "2023-12-01T20:06:35.4310054+00:00"
+  "LastUpdate_Ratings": "2023-12-01T20:58:01.4716292+00:00",
+  "LastUpdate_Achievements": "2023-12-01T21:06:33.8910799+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 443,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -889,9 +889,9 @@
       "Count": 113
     }
   ],
-  "EOS_Progressed": 11143,
+  "EOS_Progressed": 11144,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -13464,6 +13464,11 @@
       "Time": "2023-12-01T20:09:10.3088362+00:00",
       "NumProgressed": 11143,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-12-01T21:09:11.3467555+00:00",
+      "NumProgressed": 11144,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -13635,7 +13640,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 5237
+      "UsersEstimate": 5238
     },
     {
       "ID": "ACH22",
@@ -13659,7 +13664,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "ACH25",
@@ -13667,7 +13672,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "ACH26",
@@ -13746,7 +13751,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11143,
+      "Progressed": 11144,
       "Completed": 65
     }
   ],
@@ -13754,8 +13759,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-29T23:57:12.1687607+00:00",
-  "LastChanged_Achievements": "2023-12-01T20:09:10.3088353+00:00",
+  "LastChanged_Achievements": "2023-12-01T21:09:11.346755+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:45.8574591+00:00",
-  "LastUpdate_Ratings": "2023-12-01T19:58:56.2071046+00:00",
-  "LastUpdate_Achievements": "2023-12-01T20:09:10.3089218+00:00"
+  "LastUpdate_Ratings": "2023-12-01T20:58:34.8746077+00:00",
+  "LastUpdate_Achievements": "2023-12-01T21:09:11.3468434+00:00"
 }

@@ -17,17 +17,17 @@ Rating: 4.75 (Ranked 148)
 | Familiar Face | 0.40% | ~929 |
 | Boss'n Up | 0.40% | ~929 |
 | Trait Chaser | 0.40% | ~929 |
-| Am I Seeing This? | 0.30% | ~696 |
-| Not a Janitor | 0.30% | ~696 |
-| Equal Measures | 0.30% | ~696 |
-| Blue Goddess | 0.30% | ~696 |
-| Duality | 0.30% | ~696 |
-| Top Performer | 0.30% | ~696 |
-| Shhh...It's a Secret | 0.30% | ~696 |
-| Was This Supposed To Happen? | 0.30% | ~696 |
-| Almost There | 0.30% | ~696 |
-| Make Some Room | 0.30% | ~696 |
-| Good, But Could Be Better! | 0.30% | ~696 |
+| Am I Seeing This? | 0.30% | ~697 |
+| Not a Janitor | 0.30% | ~697 |
+| Equal Measures | 0.30% | ~697 |
+| Blue Goddess | 0.30% | ~697 |
+| Duality | 0.30% | ~697 |
+| Top Performer | 0.30% | ~697 |
+| Shhh...It's a Secret | 0.30% | ~697 |
+| Was This Supposed To Happen? | 0.30% | ~697 |
+| Almost There | 0.30% | ~697 |
+| Make Some Room | 0.30% | ~697 |
+| Good, But Could Be Better! | 0.30% | ~697 |
 | Crafty | 0.20% | ~464 |
 | Ghost in the Machine | 0.20% | ~464 |
 | Chaos | 0.20% | ~464 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | Maxed Out! | 0.10% | ~232 |
 | A Foul Feast | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,146 (Ranked 69)  
+Progressed: 232,186 (Ranked 69)  
 Completed: 545 (0.23%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,10 +199,10 @@ Completed: 545 (0.23%) (Ranked 250)
 | 2023-11-28 | 230,188 | 541 |
 | 2023-11-29 | 230,694 | 542 |
 | 2023-11-30 | 231,406 | 542 |
-| 2023-12-01 | 232,146 | 545 |
+| 2023-12-01 | 232,186 | 545 |
 ## Awards
 Max (Great Boss Battles): 2,558  (Ranked 102)  
-Sum: 6,256 (Ranked 129)  
+Sum: 6,263 (Ranked 129)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
@@ -213,8 +213,8 @@ Diff (max vs sum): -27
 | This game is Relaxing | 388 |
 | This game is Extremely Fun | 385 |
 | This game has Amazing Storytelling | 380 |
+| This game has Quickly Understood Controls | 374 |
 | This game has Amazing Characters | 368 |
-| This game has Quickly Understood Controls | 367 |
 | This game has Unique Visuals | 314 |
 | This game has a Creative Community | 285 |
 ## Ratings History
@@ -348,4 +348,4 @@ Diff (max vs sum): -27
 | 2023-11-28 | 4.75 | 2,498 | 6,104 |
 | 2023-11-29 | 4.75 | 2,518 | 6,163 |
 | 2023-11-30 | 4.75 | 2,533 | 6,208 |
-| 2023-12-01 | 4.75 | 2,558 | 6,256 |
+| 2023-12-01 | 4.75 | 2,558 | 6,263 |

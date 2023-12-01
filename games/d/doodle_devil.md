@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Paradise lost | 95.00% | ~82 |
-| Dark Kingdom Come | 74.00% | ~64 |
+| Paradise lost | 97.00% | ~83 |
+| Dark Kingdom Come | 76.00% | ~65 |
 | Master of Sins | 62.00% | ~53 |
-| Lucky Strike | 58.00% | ~50 |
+| Lucky Strike | 59.00% | ~51 |
 | Cardinal Sins | 48.00% | ~41 |
 | Warm and Fuzzy | 48.00% | ~41 |
 | Master of Warfare | 35.00% | ~30 |

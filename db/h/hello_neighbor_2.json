@@ -2,12 +2,12 @@
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
-  "Ranking_Rating": 681,
+  "Ranking_Rating": 680,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -471,9 +471,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3284,
+  "EOS_Progressed": 3285,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.11,
   "EosHistory": [
@@ -5021,6 +5021,11 @@
       "Time": "2023-12-01T16:04:41.2142097+00:00",
       "NumProgressed": 3284,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2023-12-01T21:04:53.1701733+00:00",
+      "NumProgressed": 3285,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 14,
@@ -5032,7 +5037,7 @@
       "Name": "Ancient Curse",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -5072,7 +5077,7 @@
       "Name": "Easy As Pie",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 1149
+      "UsersEstimate": 1150
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -5143,7 +5148,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3284,
+      "Progressed": 3285,
       "Completed": 135
     }
   ],
@@ -5151,8 +5156,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-11-18T13:02:58.1900278+00:00",
-  "LastChanged_Achievements": "2023-12-01T20:04:56.581751+00:00",
+  "LastChanged_Achievements": "2023-12-01T21:04:53.1701726+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.1918151+00:00",
-  "LastUpdate_Ratings": "2023-12-01T20:01:14.1347862+00:00",
-  "LastUpdate_Achievements": "2023-12-01T20:04:56.5817938+00:00"
+  "LastUpdate_Ratings": "2023-12-01T21:00:58.2411577+00:00",
+  "LastUpdate_Achievements": "2023-12-01T21:04:53.1702068+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
-  "Ranking_Rating": 279,
+  "Ranking_Rating": 278,
   "Ranking_Popularity": 201,
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2218,9 +2218,9 @@
       "Count": 255
     }
   ],
-  "EOS_Progressed": 216893,
+  "EOS_Progressed": 216897,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 1287,
+  "EOS_NewPlayers": 1283,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -28028,6 +28028,11 @@
       "Time": "2023-12-01T20:05:24.0392003+00:00",
       "NumProgressed": 216893,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-12-01T21:05:21.5604935+00:00",
+      "NumProgressed": 216897,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 44,
@@ -28039,7 +28044,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 21689
+      "UsersEstimate": 21690
     },
     {
       "ID": "AtheistOx",
@@ -28079,7 +28084,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19520
+      "UsersEstimate": 19521
     },
     {
       "ID": "FiveShadows",
@@ -28111,7 +28116,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 26027
+      "UsersEstimate": 26028
     },
     {
       "ID": "HappyLittleAccidents",
@@ -28255,7 +28260,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17351
+      "UsersEstimate": 17352
     },
     {
       "ID": "Rollin",
@@ -28263,7 +28268,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19520
+      "UsersEstimate": 19521
     },
     {
       "ID": "StillRollin",
@@ -28287,7 +28292,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17351
+      "UsersEstimate": 17352
     },
     {
       "ID": "TanukiTime",
@@ -28295,7 +28300,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19520
+      "UsersEstimate": 19521
     },
     {
       "ID": "TheCave",
@@ -28327,7 +28332,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 21689
+      "UsersEstimate": 21690
     },
     {
       "ID": "TimeParadox",
@@ -28390,15 +28395,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 216893,
+      "Progressed": 216897,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-30T22:01:54.3996832+00:00",
-  "LastChanged_Achievements": "2023-12-01T20:05:24.0391998+00:00",
+  "LastChanged_Achievements": "2023-12-01T21:05:21.5604931+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:23.8145991+00:00",
-  "LastUpdate_Ratings": "2023-12-01T19:57:50.4145512+00:00",
-  "LastUpdate_Achievements": "2023-12-01T20:05:24.0393557+00:00"
+  "LastUpdate_Ratings": "2023-12-01T20:57:27.7777265+00:00",
+  "LastUpdate_Achievements": "2023-12-01T21:05:21.5606485+00:00"
 }

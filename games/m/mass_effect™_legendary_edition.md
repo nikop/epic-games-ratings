@@ -47,6 +47,7 @@
 | The Assassin | 32.00% | ~471 |
 | The Justicar | 32.00% | ~471 |
 | The Quarian | 32.00% | ~471 |
+| The Cure | 32.00% | ~471 |
 | The Prodigal | 32.00% | ~471 |
 | Galactic Explorer | 32.00% | ~471 |
 | Driven | 32.00% | ~471 |
@@ -55,15 +56,14 @@
 | Battlemaster | 31.00% | ~456 |
 | Catharsis | 31.00% | ~456 |
 | Ghost of the Father | 31.00% | ~456 |
-| The Cure | 31.00% | ~456 |
 | Big Game Hunter | 31.00% | ~456 |
 | Revenge! | 31.00% | ~456 |
+| Bringer of War | 31.00% | ~456 |
 | Focused | 30.00% | ~442 |
 | Fade Away | 30.00% | ~442 |
 | Treason | 30.00% | ~442 |
 | Digital Exorcist | 30.00% | ~442 |
 | Heart of Darkness | 30.00% | ~442 |
-| Bringer of War | 30.00% | ~442 |
 | Archivist | 29.00% | ~427 |
 | Friend or Foe | 29.00% | ~427 |
 | Cat's in the Cradle | 29.00% | ~427 |

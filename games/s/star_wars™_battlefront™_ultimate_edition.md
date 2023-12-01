@@ -59,7 +59,7 @@
 | A New Hope | 0.70% | ~11 |
 | I’ll take that bet | 0.60% | ~9 |
 | Stay on target | 0.50% | ~8 |
-| Greed can be a very powerful ally | 0.40% | ~6 |
+| Greed can be a very powerful ally | 0.50% | ~8 |
 | That got him! | 0.30% | ~5 |
 | in a galaxy far, far away.... | 0.30% | ~5 |
 | Don't get cocky | 0.30% | ~5 |
@@ -69,7 +69,7 @@
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,501 (Ranked 241)  
-Completed: 1 (0.07%) (Ranked 302)  
+Completed: 1 (0.07%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

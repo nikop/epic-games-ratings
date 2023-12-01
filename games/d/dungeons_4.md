@@ -4,49 +4,49 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 88.00% | ~447 |
-| Thalya – Simply Immortal | 88.00% | ~447 |
-| For the Horde! | 81.00% | ~411 |
-| Hammer Time, Round Two | 80.00% | ~406 |
-| The Hellwoods | 75.00% | ~381 |
-| The Plains of Strothalm | 70.00% | ~356 |
-| Experienced Thalya | 70.00% | ~356 |
-| Thalya's Concentrated Fury | 68.00% | ~345 |
-| Bad Elves Go Everywhere | 67.00% | ~340 |
-| Master of Magic | 63.00% | ~320 |
-| Heroes’ Gorge | 61.00% | ~310 |
-| Unicorn steaks – fresh off the hoof! | 60.00% | ~305 |
-| Magic Accidents | 58.00% | ~295 |
-| Trap Master | 56.00% | ~284 |
-| Minions, Minions! | 54.00% | ~274 |
-| The Ascent | 53.00% | ~269 |
-| It's Warm and Cozy at Home | 53.00% | ~269 |
-| Hard Work | 48.00% | ~244 |
-| YOU SHALL NOT PASS! | 47.00% | ~239 |
-| The Big Eaty | 47.00% | ~239 |
+| The Last Stand | 88.00% | ~449 |
+| Thalya – Simply Immortal | 88.00% | ~449 |
+| For the Horde! | 81.00% | ~413 |
+| Hammer Time, Round Two | 80.00% | ~408 |
+| The Hellwoods | 74.00% | ~377 |
+| The Plains of Strothalm | 70.00% | ~357 |
+| Experienced Thalya | 70.00% | ~357 |
+| Thalya's Concentrated Fury | 68.00% | ~347 |
+| Bad Elves Go Everywhere | 67.00% | ~342 |
+| Master of Magic | 63.00% | ~321 |
+| Heroes’ Gorge | 61.00% | ~311 |
+| Unicorn steaks – fresh off the hoof! | 60.00% | ~306 |
+| Magic Accidents | 58.00% | ~296 |
+| Trap Master | 55.00% | ~280 |
+| Minions, Minions! | 54.00% | ~275 |
+| The Ascent | 53.00% | ~270 |
+| It's Warm and Cozy at Home | 53.00% | ~270 |
+| Hard Work | 48.00% | ~245 |
+| YOU SHALL NOT PASS! | 47.00% | ~240 |
+| The Big Eaty | 47.00% | ~240 |
 | “… like son” | 44.00% | ~224 |
-| Pure Dynamite! | 43.00% | ~218 |
-| Shame! Shame! Shame! | 40.00% | ~203 |
-| Dungeonlord Gorgu | 39.00% | ~198 |
-| The Cathedral of Light | 39.00% | ~198 |
-| Mana Cannon | 38.00% | ~193 |
+| Pure Dynamite! | 43.00% | ~219 |
+| Shame! Shame! Shame! | 40.00% | ~204 |
+| Dungeonlord Gorgu | 39.00% | ~199 |
+| The Cathedral of Light | 39.00% | ~199 |
+| Mana Cannon | 38.00% | ~194 |
 | Tanos' Crusade Against Thalya | 34.00% | ~173 |
-| All’s Well That Ends Evil | 29.00% | ~147 |
-| Unstoppable Horde | 28.00% | ~142 |
-| Master of the Undead | 26.00% | ~132 |
-| The Duel | 26.00% | ~132 |
+| All’s Well That Ends Evil | 29.00% | ~148 |
+| Unstoppable Horde | 28.00% | ~143 |
+| Master of the Undead | 26.00% | ~133 |
+| The Duel | 26.00% | ~133 |
 | Forbidden Knowledge | 24.00% | ~122 |
 | If Looks Could Kill | 24.00% | ~122 |
 | Hungry, Hungry Gorgu! | 23.00% | ~117 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 23.00% | ~117 |
 | Ghost Pirates? Ghost Heroes! | 23.00% | ~117 |
 | The Finitude Drill | 21.00% | ~107 |
-| Stop Tanos! | 19.00% | ~97 |
-| Doom Hill | 18.00% | ~91 |
-| Sabotage! | 17.00% | ~86 |
-| Brimstone Shaken, Not Stirred | 17.00% | ~86 |
-| Sacrificial Pit = Garbage Disposal? | 16.00% | ~81 |
-| Bonus Evilness | 16.00% | ~81 |
+| Stop Tanos! | 18.00% | ~92 |
+| Doom Hill | 18.00% | ~92 |
+| Sabotage! | 17.00% | ~87 |
+| Sacrificial Pit = Garbage Disposal? | 16.00% | ~82 |
+| Bonus Evilness | 16.00% | ~82 |
+| Brimstone Shaken, Not Stirred | 16.00% | ~82 |
 | The Rune Sockets of Finitude (Part 1) | 15.00% | ~76 |
 | My Little Torture Chamber | 14.00% | ~71 |
 | Raiders of the Lost Stone | 14.00% | ~71 |
@@ -63,11 +63,11 @@
 | Heal Heal Blessing | 8.00% | ~41 |
 | Gorgu is in the Best of Health | 7.00% | ~36 |
 | Hands Off My Stones | 7.00% | ~36 |
-| No Mana, No Cry | 5.00% | ~25 |
-| I Don't Need Any Help | 5.00% | ~25 |
+| No Mana, No Cry | 5.00% | ~26 |
+| I Don't Need Any Help | 5.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 508 (Ranked 309)  
-Completed: 10 (1.97%) (Ranked 127)  
+Progressed: 510 (Ranked 309)  
+Completed: 10 (1.96%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -93,4 +93,4 @@ Completed: 10 (1.97%) (Ranked 127)
 | 2023-11-28 | 489 | 8 |
 | 2023-11-29 | 500 | 8 |
 | 2023-11-30 | 506 | 9 |
-| 2023-12-01 | 508 | 10 |
+| 2023-12-01 | 510 | 10 |

@@ -25,10 +25,10 @@
 | Up Close And Personal | 6.00% | ~51 |
 | Outer Core | 5.00% | ~42 |
 | Inner Core | 4.00% | ~34 |
-| Integration | 3.00% | ~25 |
+| Integration | 4.00% | ~34 |
 | Trickshot | 2.00% | ~17 |
 | Destruction | 1.00% | ~8 |
-| Ripperdoc | 0.50% | ~4 |
+| Ripperdoc | 0.60% | ~5 |
 | Hard Boiled | 0.40% | ~3 |
 | Weaponsmith | 0.40% | ~3 |
 | Cyborg | 0.10% | ~1 |

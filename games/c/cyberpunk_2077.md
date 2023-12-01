@@ -1,38 +1,38 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.65 (Ranked 314)  
+Rating: 4.65 (Ranked 313)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 11.00% | ~106,277 |
-| Gun Fu | 7.00% | ~67,631 |
-| The Fool | 5.00% | ~48,308 |
-| Right Back At Ya | 4.00% | ~38,646 |
-| The Lovers | 4.00% | ~38,646 |
-| Stanislavski's Method | 3.00% | ~28,985 |
-| Full Body Conversion | 2.00% | ~19,323 |
-| Christmas Tree Attack | 2.00% | ~19,323 |
-| The Hermit | 2.00% | ~19,323 |
-| The Wheel of Fortune | 2.00% | ~19,323 |
-| True Soldier | 2.00% | ~19,323 |
-| True Warrior | 2.00% | ~19,323 |
+| V for Vendetta | 11.00% | ~106,281 |
+| Gun Fu | 7.00% | ~67,634 |
+| The Fool | 5.00% | ~48,310 |
+| Right Back At Ya | 4.00% | ~38,648 |
+| The Lovers | 4.00% | ~38,648 |
+| Stanislavski's Method | 3.00% | ~28,986 |
+| Full Body Conversion | 2.00% | ~19,324 |
+| Christmas Tree Attack | 2.00% | ~19,324 |
+| The Hermit | 2.00% | ~19,324 |
+| The Wheel of Fortune | 2.00% | ~19,324 |
+| True Soldier | 2.00% | ~19,324 |
+| True Warrior | 2.00% | ~19,324 |
 | Relic Ruler | 2.00% | ~1,896 |
 | All the President's Men | 2.00% | ~1,896 |
+| Arachnophobia | 2.00% | ~1,896 |
 | Bushido and Chill | 1.00% | ~9,662 |
 | The Quick and the Dead | 1.00% | ~9,662 |
 | Life of the Road | 1.00% | ~9,662 |
 | The High Priestess | 1.00% | ~9,662 |
 | The World | 1.00% | ~9,662 |
 | Legend of The Afterlife | 1.00% | ~9,662 |
-| Arachnophobia | 1.00% | ~948 |
-| Master Crafter | 0.90% | ~8,695 |
-| Two Heads, One Bullet | 0.90% | ~8,695 |
-| To Protect and Serve | 0.80% | ~7,729 |
-| I Am The Law | 0.80% | ~7,729 |
-| Judy vs Night City | 0.80% | ~7,729 |
-| Spin Doctor | 0.80% | ~758 |
+| Master Crafter | 0.90% | ~8,696 |
+| Two Heads, One Bullet | 0.90% | ~8,696 |
+| To Protect and Serve | 0.80% | ~7,730 |
+| I Am The Law | 0.80% | ~7,730 |
+| Judy vs Night City | 0.80% | ~7,730 |
+| Spin Doctor | 0.80% | ~759 |
 | The Wandering Fool | 0.60% | ~5,797 |
 | King of Wands | 0.60% | ~569 |
 | Dirty Deeds | 0.60% | ~569 |
@@ -42,9 +42,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Star | 0.40% | ~3,865 |
 | The Sun | 0.40% | ~3,865 |
 | The Tower | 0.40% | ~379 |
-| Autojock | 0.30% | ~2,898 |
-| Must Be Rats | 0.30% | ~2,898 |
-| Breathtaking | 0.30% | ~2,898 |
+| Autojock | 0.30% | ~2,899 |
+| Must Be Rats | 0.30% | ~2,899 |
+| Breathtaking | 0.30% | ~2,899 |
 | The APB is Not Enough | 0.30% | ~284 |
 | Judgement Day | 0.30% | ~284 |
 | King of Pentacles | 0.30% | ~284 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 966,155 (Ranked 15)  
+Progressed: 966,195 (Ranked 15)  
 Completed: 2,832 (0.29%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,17 +299,17 @@ Completed: 2,832 (0.29%) (Ranked 238)
 | 2023-11-28 | 960,226 | 2,821 |
 | 2023-11-29 | 962,972 | 2,823 |
 | 2023-11-30 | 964,640 | 2,827 |
-| 2023-12-01 | 966,155 | 2,832 |
+| 2023-12-01 | 966,195 | 2,832 |
 ## Awards
 Max (Character Customization): 113,560  (Ranked 9)  
-Sum: 378,537 (Ranked 9)  
+Sum: 378,672 (Ranked 9)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 113,560 |
 | This game has Great Boss Battles | 81,397 |
 | This game is Great for Beginners | 22,829 |
-| This game has Diverse Characters | 22,290 |
+| This game has Diverse Characters | 22,425 |
 | This game is Highly Recommended | 21,402 |
 | This game has Amazing Storytelling | 21,235 |
 | This game is Extremely Fun | 21,044 |
@@ -636,4 +636,4 @@ Diff (max vs sum): 0
 | 2023-11-28 | 4.65 | - | 110,923 | 371,115 |
 | 2023-11-29 | 4.65 | - | 111,778 | 373,471 |
 | 2023-11-30 | 4.65 | - | 112,636 | 375,982 |
-| 2023-12-01 | 4.65 | - | 113,560 | 378,537 |
+| 2023-12-01 | 4.65 | - | 113,560 | 378,672 |

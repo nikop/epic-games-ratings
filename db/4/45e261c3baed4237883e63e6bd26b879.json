@@ -4,7 +4,7 @@
   "ProductSlug": "lyratest-b40efb",
   "Ranking_EOS_Progress": 770,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 502,
+  "Ranking_EOS_NewPlayers": 503,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-10-23T13:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-27T14:57:00.9744058+00:00",
-  "LastUpdate_Ratings": "2023-12-01T20:00:01.4707236+00:00",
-  "LastUpdate_Achievements": "2023-12-01T20:09:27.0543907+00:00"
+  "LastUpdate_Ratings": "2023-12-01T20:59:42.5328519+00:00",
+  "LastUpdate_Achievements": "2023-12-01T21:09:28.5139755+00:00"
 }

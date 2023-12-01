@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11337,9 +11337,9 @@
       "Count": 826
     }
   ],
-  "EOS_Progressed": 303718,
+  "EOS_Progressed": 303722,
   "EOS_Completed": 519,
-  "EOS_NewPlayers": 756,
+  "EOS_NewPlayers": 746,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -35607,6 +35607,11 @@
       "Time": "2023-12-01T20:10:14.9635036+00:00",
       "NumProgressed": 303718,
       "NumCompleted": 519
+    },
+    {
+      "Time": "2023-12-01T21:10:16.4713469+00:00",
+      "NumProgressed": 303722,
+      "NumCompleted": 519
     }
   ],
   "TotalAchievements": 45,
@@ -35618,7 +35623,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48595
+      "UsersEstimate": 48596
     },
     {
       "ID": "PFA_10",
@@ -35666,7 +35671,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24297
+      "UsersEstimate": 24298
     },
     {
       "ID": "PFA_16",
@@ -35674,7 +35679,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36446
+      "UsersEstimate": 36447
     },
     {
       "ID": "PFA_17",
@@ -35682,7 +35687,7 @@
       "Name": "Beast Friends",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24297
+      "UsersEstimate": 24298
     },
     {
       "ID": "PFA_18",
@@ -35698,7 +35703,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 24297
+      "UsersEstimate": 24298
     },
     {
       "ID": "PFA_2",
@@ -35738,7 +35743,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39483
+      "UsersEstimate": 39484
     },
     {
       "ID": "PFA_24",
@@ -35746,7 +35751,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36446
+      "UsersEstimate": 36447
     },
     {
       "ID": "PFA_25",
@@ -35802,7 +35807,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36446
+      "UsersEstimate": 36447
     },
     {
       "ID": "PFA_31",
@@ -35906,7 +35911,7 @@
       "Name": "Raising Expectations",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 21260
+      "UsersEstimate": 21261
     },
     {
       "ID": "PFA_43",
@@ -35962,7 +35967,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39483
+      "UsersEstimate": 39484
     },
     {
       "ID": "PFA_9",
@@ -35977,7 +35982,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303718,
+      "Progressed": 303722,
       "Completed": 519
     }
   ],
@@ -35985,8 +35990,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-01T19:58:15.9507691+00:00",
-  "LastChanged_Achievements": "2023-12-01T20:10:14.9635034+00:00",
+  "LastChanged_Achievements": "2023-12-01T21:10:16.4713464+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7292094+00:00",
-  "LastUpdate_Ratings": "2023-12-01T19:58:15.9507696+00:00",
-  "LastUpdate_Achievements": "2023-12-01T20:10:14.9636365+00:00"
+  "LastUpdate_Ratings": "2023-12-01T20:57:53.9434089+00:00",
+  "LastUpdate_Achievements": "2023-12-01T21:10:16.4714929+00:00"
 }

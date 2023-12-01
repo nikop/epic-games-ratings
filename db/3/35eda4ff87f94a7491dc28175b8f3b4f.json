@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 40,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -221,10 +221,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11032,
-  "EOS_Completed": 37,
-  "EOS_NewPlayers": 2430,
-  "EOS_NewCompleters": 9,
+  "EOS_Progressed": 11049,
+  "EOS_Completed": 38,
+  "EOS_NewPlayers": 2425,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -2791,6 +2791,11 @@
       "Time": "2023-12-01T20:07:33.5720993+00:00",
       "NumProgressed": 11032,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-12-01T21:07:32.7767491+00:00",
+      "NumProgressed": 11049,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -2811,7 +2816,7 @@
       "Name": "Beam Me Up Scotty",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
@@ -2835,7 +2840,7 @@
       "Name": "Savior",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -2851,7 +2856,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1326
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -2859,7 +2864,7 @@
       "Name": "Secrets Out",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "UNLOCK_ALL_4_DOORS_1_3",
@@ -2867,7 +2872,7 @@
       "Name": "Locksmith",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "WATCH_ALL_SCENES_1_5",
@@ -2882,16 +2887,16 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 11032,
-      "Completed": 37
+      "Progressed": 11049,
+      "Completed": 38
     }
   ],
   "FirstSeen": "2023-10-19T17:59:40.5875906+00:00",
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-12-01T13:07:08.094287+00:00",
-  "LastChanged_Achievements": "2023-12-01T20:07:33.5720989+00:00",
+  "LastChanged_Achievements": "2023-12-01T21:07:32.7767484+00:00",
   "LastUpdate_AppInfo": "2023-11-30T16:57:25.9154897+00:00",
-  "LastUpdate_Ratings": "2023-12-01T20:01:26.7624231+00:00",
-  "LastUpdate_Achievements": "2023-12-01T20:07:33.572131+00:00"
+  "LastUpdate_Ratings": "2023-12-01T21:01:11.3553277+00:00",
+  "LastUpdate_Achievements": "2023-12-01T21:07:32.7767691+00:00"
 }

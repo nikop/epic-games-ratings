@@ -2,7 +2,7 @@
   "ID": "cf318a791de349f2b724136be105a6f1",
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
-  "Ranking_EOS_Progress": 316,
+  "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 139,
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 479,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1398,9 +1398,9 @@
       "ID": "AchvInvShip",
       "SetID": "1hj060c",
       "Name": "Another giant",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 38
     },
     {
       "ID": "AchvKrautaAlive",
@@ -1549,8 +1549,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-01T20:09:08.9399055+00:00",
+  "LastChanged_Achievements": "2023-12-01T21:09:09.9153741+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-12-01T20:01:20.101492+00:00",
-  "LastUpdate_Achievements": "2023-12-01T20:09:08.9399262+00:00"
+  "LastUpdate_Ratings": "2023-12-01T21:01:04.5275976+00:00",
+  "LastUpdate_Achievements": "2023-12-01T21:09:09.9154007+00:00"
 }

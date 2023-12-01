@@ -4,7 +4,7 @@
   "ProductSlug": "gangs-of-sherwood",
   "Ranking_EOS_Progress": 509,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -255,9 +255,9 @@
       "ID": "ACH_25_FINISHER",
       "SetID": "5akmpni",
       "Name": "No Mercy",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_AIR_COMBO",
@@ -415,9 +415,9 @@
       "ID": "ACH_FINISHER",
       "SetID": "5akmpni",
       "Name": "Finish Him!",
-      "Percentage": 27,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_GIVE_MONEY_CHECKPOINT",
@@ -559,9 +559,9 @@
       "ID": "ACH_REBEL_ABILITY",
       "SetID": "5akmpni",
       "Name": "Take Action!",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_REBEL_INSTINCT",
@@ -646,8 +646,8 @@
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-12-01T20:05:16.2768568+00:00",
+  "LastChanged_Achievements": "2023-12-01T21:05:13.6851344+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:56.6360588+00:00",
-  "LastUpdate_Ratings": "2023-12-01T20:01:04.1717515+00:00",
-  "LastUpdate_Achievements": "2023-12-01T20:05:16.2768922+00:00"
+  "LastUpdate_Ratings": "2023-12-01T21:00:48.0470879+00:00",
+  "LastUpdate_Achievements": "2023-12-01T21:05:13.6851736+00:00"
 }

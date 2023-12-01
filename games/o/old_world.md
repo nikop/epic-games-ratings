@@ -1,18 +1,19 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 314)  
+Rating: 4.65 (Ranked 313)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Settler | 7.00% | ~1,090 |
-| Play a Single Player Game | 7.00% | ~1,090 |
+| Settler | 7.00% | ~1,091 |
+| Play a Single Player Game | 7.00% | ~1,091 |
 | Explorer | 6.00% | ~935 |
 | Friendly Family | 6.00% | ~935 |
 | Intrepid | 5.00% | ~779 |
 | Able | 4.00% | ~623 |
 | Architect | 4.00% | ~623 |
+| Glorious | 4.00% | ~623 |
 | Good | 4.00% | ~623 |
 | Just | 4.00% | ~623 |
 | Learned | 4.00% | ~623 |
@@ -29,7 +30,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 3.00% | ~467 |
 | Enlightened | 3.00% | ~467 |
 | Fountainhead | 3.00% | ~467 |
-| Glorious | 3.00% | ~467 |
 | Keystone | 3.00% | ~467 |
 | Magnificent | 3.00% | ~467 |
 | Warrior | 3.00% | ~467 |
@@ -84,7 +84,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Single Player Game | 2.00% | ~312 |
 | Kushite Pyramids | 2.00% | ~312 |
 | Kushite Paganism | 2.00% | ~312 |
-| Bad Heir Day | 1.00% | ~156 |
 | Capable | 1.00% | ~156 |
 | Devout | 1.00% | ~156 |
 | Invincible | 1.00% | ~156 |
@@ -127,6 +126,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 1.00% | ~156 |
 | Double Victory | 1.00% | ~156 |
 | The Clergy | 1.00% | ~156 |
+| Bad Heir Day | 0.90% | ~140 |
 | Clerics | 0.90% | ~140 |
 | Egypt | 0.90% | ~140 |
 | Rome | 0.90% | ~140 |
@@ -150,6 +150,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old World Order | 0.60% | ~93 |
 | Ten Crowns | 0.60% | ~93 |
 | No Undo | 0.60% | ~93 |
+| Deposed Tribe | 0.60% | ~93 |
 | Ancient | 0.50% | ~78 |
 | Glorious Difficulty | 0.50% | ~78 |
 | Hatti | 0.50% | ~78 |
@@ -160,7 +161,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Three Man Chariot | 0.50% | ~78 |
 | Siege Tower | 0.50% | ~78 |
 | Conquest Victory | 0.50% | ~78 |
-| Deposed Tribe | 0.50% | ~78 |
 | Rmt n Kmt Buhen | 0.50% | ~78 |
 | Greater Kmt Unified | 0.50% | ~78 |
 | Bronze Victory (Carthage 1) | 0.40% | ~62 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,578 (Ranked 152)  
+Progressed: 15,580 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -574,7 +574,7 @@ Completed: 5 (0.03%) (Ranked 327)
 | 2023-11-28 | 15,534 | 5 |
 | 2023-11-29 | 15,545 | 5 |
 | 2023-11-30 | 15,566 | 5 |
-| 2023-12-01 | 15,578 | 5 |
+| 2023-12-01 | 15,580 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,883 (Ranked 218)  

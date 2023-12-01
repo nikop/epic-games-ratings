@@ -4,7 +4,7 @@
   "ProductSlug": "icode-stem-universe-ead8e4",
   "Ranking_EOS_Progress": 770,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 502,
+  "Ranking_EOS_NewPlayers": 503,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-27T19:57:22.1337951+00:00",
-  "LastUpdate_Ratings": "2023-12-01T19:58:13.4706841+00:00",
-  "LastUpdate_Achievements": "2023-12-01T20:08:37.4380337+00:00"
+  "LastUpdate_Ratings": "2023-12-01T20:57:51.4745993+00:00",
+  "LastUpdate_Achievements": "2023-12-01T21:08:37.8426654+00:00"
 }

@@ -5,14 +5,14 @@ Rating: 4.76 (Ranked 128)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,595 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,596 |
 | First Class Student | 15.00% | ~45,558 |
 | Troll with the Punches | 14.00% | ~42,521 |
-| A Keen Sense of Spell | 13.00% | ~39,483 |
-| That's a Keeper | 13.00% | ~39,483 |
-| The Defender of Dragons | 12.00% | ~36,446 |
-| Loom for Improvement | 12.00% | ~36,446 |
-| A Talent for Spending | 12.00% | ~36,446 |
+| A Keen Sense of Spell | 13.00% | ~39,484 |
+| That's a Keeper | 13.00% | ~39,484 |
+| The Defender of Dragons | 12.00% | ~36,447 |
+| Loom for Improvement | 12.00% | ~36,447 |
+| A Talent for Spending | 12.00% | ~36,447 |
 | Grappling with a Graphorn | 11.00% | ~33,409 |
 | The One Who Mastered Memories | 11.00% | ~33,409 |
 | The Hallowed Hero | 11.00% | ~33,409 |
@@ -23,10 +23,10 @@ Rating: 4.76 (Ranked 128)
 | Rising From the Ashes | 10.00% | ~30,372 |
 | A Sallow Grave | 9.00% | ~27,335 |
 | The Spell Master | 9.00% | ~27,335 |
-| The Avenging Gazelle | 8.00% | ~24,297 |
-| Beast Friends | 8.00% | ~24,297 |
-| Flight the Good Flight | 8.00% | ~24,297 |
-| Raising Expectations | 7.00% | ~21,260 |
+| The Avenging Gazelle | 8.00% | ~24,298 |
+| Beast Friends | 8.00% | ~24,298 |
+| Flight the Good Flight | 8.00% | ~24,298 |
+| Raising Expectations | 7.00% | ~21,261 |
 | The Seeker of Knowledge | 6.00% | ~18,223 |
 | The Root of the Problem | 6.00% | ~18,223 |
 | Third Time's a Charm | 6.00% | ~18,223 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 128)
 | The Nature of the Beast | 0.70% | ~2,126 |
 | Collector's Edition | 0.30% | ~911 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,718 (Ranked 54)  
+Progressed: 303,722 (Ranked 54)  
 Completed: 519 (0.17%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 519 (0.17%) (Ranked 266)
 | 2023-11-28 | 303,515 | 519 |
 | 2023-11-29 | 303,596 | 519 |
 | 2023-11-30 | 303,661 | 519 |
-| 2023-12-01 | 303,718 | 519 |
+| 2023-12-01 | 303,722 | 519 |
 ## Awards
 Max (Character Customization): 24,816  (Ranked 17)  
 Sum: 49,606 (Ranked 30)  

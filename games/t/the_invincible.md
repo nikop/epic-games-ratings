@@ -23,8 +23,8 @@
 | Flying Objects Operator | 12.00% | ~57 |
 | I remember everything! | 10.00% | ~48 |
 | Violent solution | 8.00% | ~38 |
+| Another giant | 8.00% | ~38 |
 | Innate curiosity | 8.00% | ~38 |
-| Another giant | 7.00% | ~34 |
 | The Invincible | 6.00% | ~29 |
 | I leave no man behind | 5.00% | ~24 |
 | Strong objection | 5.00% | ~24 |
@@ -34,7 +34,7 @@
 | Convoy list | 1.00% | ~5 |
 | No more mistakes | 0.60% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479 (Ranked 316)  
+Progressed: 479 (Ranked 317)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |

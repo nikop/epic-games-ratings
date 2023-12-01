@@ -18,15 +18,15 @@
 | Spring Board | 32.00% | ~14 |
 | Rebel Unleashed | 32.00% | ~14 |
 | Savior | 30.00% | ~13 |
-| Finish Him! | 27.00% | ~12 |
+| Finish Him! | 30.00% | ~13 |
 | Assault on the Ram | 25.00% | ~11 |
 | First Aid | 25.00% | ~11 |
 | Merry Go Round | 25.00% | ~11 |
 | Locksley's Tears | 23.00% | ~10 |
 | Ultra Rebel Instinct | 20.00% | ~9 |
+| Take Action! | 20.00% | ~9 |
 | Ascending Will | 18.00% | ~8 |
 | Ultra Combo | 18.00% | ~8 |
-| Take Action! | 18.00% | ~8 |
 | Haute Couture | 11.00% | ~5 |
 | Brilliant Executioner | 9.00% | ~4 |
 | Hidden Experiment | 9.00% | ~4 |
@@ -38,11 +38,11 @@
 | King of the Iron Fist | 5.00% | ~2 |
 | Power of Friendship! | 5.00% | ~2 |
 | Five of Friends | 5.00% | ~2 |
+| No Mercy | 2.00% | ~1 |
 | The Crowkiller | 2.00% | ~1 |
 | A Gest of Robyn Hode | 2.00% | ~1 |
 | Money can not buy happiness | 2.00% | ~1 |
 | Master of One | 2.00% | ~1 |
-| No Mercy | 0.00% | ~0 |
 | Challenger | 0.00% | ~0 |
 | The Apprentice | 0.00% | ~0 |
 | Lore-ified | 0.00% | ~0 |

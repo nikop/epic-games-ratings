@@ -2,12 +2,12 @@
   "ID": "bdbfb29cbd004978acad9ca4eaf9ec82",
   "Name": "Way of the Hunter",
   "ProductSlug": "way-of-the-hunter",
-  "Ranking_Rating": 753,
+  "Ranking_Rating": 767,
   "Ranking_Popularity": 424,
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 770,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 502,
+  "Ranking_EOS_NewPlayers": 503,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-08-22T17:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.39,
+  "Rating": 4.38,
   "NumberOfRatings": 190,
   "RatingHistory": [
     {
@@ -1295,10 +1295,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 326,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2023-12-01T21:02:47.0406288+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 328,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 326,
+  "NumberOfAwards": 328,
   "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1372,7 +1378,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 34
+      "Count": 36
     },
     {
       "Text": "This game has a Creative Community",
@@ -1401,9 +1407,9 @@
   "FirstSeen": "2022-08-22T17:32:55.4881061+00:00",
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
   "FirstSeenAchievements": "2023-11-30T10:10:08.8604761+00:00",
-  "LastChanged": "2023-11-29T18:59:49.0078848+00:00",
-  "LastChanged_Achievements": "2023-12-01T20:09:54.6412582+00:00",
+  "LastChanged": "2023-12-01T21:02:47.0406286+00:00",
+  "LastChanged_Achievements": "2023-12-01T21:09:56.4380107+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:12.511621+00:00",
-  "LastUpdate_Ratings": "2023-12-01T20:02:21.7590703+00:00",
-  "LastUpdate_Achievements": "2023-12-01T20:09:54.64126+00:00"
+  "LastUpdate_Ratings": "2023-12-01T21:02:47.0406291+00:00",
+  "LastUpdate_Achievements": "2023-12-01T21:09:56.4380142+00:00"
 }

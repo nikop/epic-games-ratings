@@ -14,10 +14,10 @@
 | A new HOME | 1.00% | ~3 |
 | Golden Button | 1.00% | ~3 |
 | Golden Hat | 1.00% | ~3 |
+| Naughty list | 1.00% | ~3 |
 | Silver Hat | 1.00% | ~3 |
 | Lesson learned | 0.70% | ~2 |
 | Good list | 0.70% | ~2 |
-| Naughty list | 0.70% | ~2 |
 | Silver Scarf | 0.70% | ~2 |
 | So close! | 0.70% | ~2 |
 | Golden Scarf | 0.40% | ~1 |

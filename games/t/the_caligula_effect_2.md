@@ -1,7 +1,7 @@
 # The Caligula Effect 2
 [Store](https://store.epicgames.com/en-US/p/the-caligula-effect-2-a51f60)  
 [View Rawdata](../../db/t/the_caligula_effect_2.json)  
-Rating: 4.44 (Ranked 681)  
+Rating: 4.44 (Ranked 680)  
 Number of Ratings: 32  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -30,8 +30,8 @@ Number of Ratings: 32  (23.09.2022)
 | Selfish Decisions | 19.00% | ~46 |
 | Extracurricular Affair | 19.00% | ~46 |
 | Lost Souls For Sale | 19.00% | ~46 |
+| Trigger Finger | 19.00% | ~46 |
 | Pulling Heartstrings | 18.00% | ~43 |
-| Trigger Finger | 18.00% | ~43 |
 | Hopes Rewarded | 17.00% | ~41 |
 | Guarding Guru | 17.00% | ~41 |
 | Hustled and Bustled | 12.00% | ~29 |

@@ -2,7 +2,7 @@
   "ID": "89da53d6472d4b8f864f68e3bbd999a3",
   "Name": "12 orbits",
   "ProductSlug": "12-orbits-c48266",
-  "Ranking_EOS_Progress": 541,
+  "Ranking_EOS_Progress": 542,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 139,
@@ -390,8 +390,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.7236131+00:00",
   "FirstSeenAchievements": "2023-06-14T13:12:06.2445404+00:00",
   "LastChanged": "2023-03-31T05:58:07.7236132+00:00",
-  "LastChanged_Achievements": "2023-12-01T20:09:34.1118389+00:00",
+  "LastChanged_Achievements": "2023-12-01T21:09:35.2974841+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:41.2837983+00:00",
-  "LastUpdate_Ratings": "2023-12-01T19:58:24.2698808+00:00",
-  "LastUpdate_Achievements": "2023-12-01T20:09:34.1118539+00:00"
+  "LastUpdate_Ratings": "2023-12-01T20:58:02.0628803+00:00",
+  "LastUpdate_Achievements": "2023-12-01T21:09:35.2975003+00:00"
 }
