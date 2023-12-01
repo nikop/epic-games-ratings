@@ -14027,9 +14027,9 @@
       "ID": "UNLOCK_RESEARCH",
       "SetID": "5349c2e",
       "Name": "Novice Researcher",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 4724
+      "UsersEstimate": 4795
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -14075,8 +14075,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-11-30T18:00:41.6530659+00:00",
-  "LastChanged_Achievements": "2023-12-01T15:03:26.5850534+00:00",
+  "LastChanged_Achievements": "2023-12-01T16:04:08.520139+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:23.1121034+00:00",
-  "LastUpdate_Ratings": "2023-12-01T14:57:16.4834621+00:00",
-  "LastUpdate_Achievements": "2023-12-01T15:03:26.5851354+00:00"
+  "LastUpdate_Ratings": "2023-12-01T15:57:30.3875805+00:00",
+  "LastUpdate_Achievements": "2023-12-01T16:04:08.5202223+00:00"
 }

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4622,
+  "EOS_Progressed": 4623,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 544,
+  "EOS_NewPlayers": 536,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -3579,6 +3579,11 @@
       "Time": "2023-12-01T15:03:07.5023113+00:00",
       "NumProgressed": 4622,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-12-01T16:03:42.0271834+00:00",
+      "NumProgressed": 4623,
+      "NumCompleted": 46
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -3631,7 +3636,7 @@
       "Name": "Move the sofa",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1572
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -3639,7 +3644,7 @@
       "Name": "Turn on the TV",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 2588
+      "UsersEstimate": 2589
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -3718,14 +3723,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 4622,
+      "Progressed": 4623,
       "Completed": 46
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-12-01T15:03:07.5023109+00:00",
+  "LastChanged_Achievements": "2023-12-01T16:03:42.0271831+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:09.231679+00:00",
-  "LastUpdate_Ratings": "2023-12-01T14:57:04.9743199+00:00",
-  "LastUpdate_Achievements": "2023-12-01T15:03:07.502334+00:00"
+  "LastUpdate_Ratings": "2023-12-01T15:57:13.6905582+00:00",
+  "LastUpdate_Achievements": "2023-12-01T16:03:42.0272114+00:00"
 }

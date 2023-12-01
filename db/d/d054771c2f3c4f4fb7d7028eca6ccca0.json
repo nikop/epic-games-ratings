@@ -2,9 +2,9 @@
   "ID": "d054771c2f3c4f4fb7d7028eca6ccca0",
   "Name": "Pinball M",
   "ProductSlug": "pinball-m-755276",
-  "Ranking_EOS_Progress": 328,
+  "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 417,
+  "EOS_Progressed": 425,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 424,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -144,6 +144,11 @@
       "Time": "2023-12-01T15:04:12.0095119+00:00",
       "NumProgressed": 417,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T16:05:10.3862556+00:00",
+      "NumProgressed": 425,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -162,7 +167,7 @@
       "ID": "ACHIEVEMENT_02",
       "SetID": "c167foo",
       "Name": "Done for Today",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -362,7 +367,7 @@
       "ID": "ACHIEVEMENT_35",
       "SetID": "c167foo",
       "Name": "Half Way to Darkness",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -370,7 +375,7 @@
       "ID": "ACHIEVEMENT_36",
       "SetID": "c167foo",
       "Name": "Path of Damnation",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 70,
       "UsersEstimate": 4
     },
@@ -531,14 +536,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 417,
+      "Progressed": 425,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-01T15:04:12.0095115+00:00",
+  "LastChanged_Achievements": "2023-12-01T16:05:10.3862554+00:00",
   "LastUpdate_AppInfo": "2023-11-28T10:57:06.6543167+00:00",
-  "LastUpdate_Ratings": "2023-12-01T14:58:28.7264957+00:00",
-  "LastUpdate_Achievements": "2023-12-01T15:04:12.0095415+00:00"
+  "LastUpdate_Ratings": "2023-12-01T15:59:15.6080306+00:00",
+  "LastUpdate_Achievements": "2023-12-01T16:05:10.3862815+00:00"
 }

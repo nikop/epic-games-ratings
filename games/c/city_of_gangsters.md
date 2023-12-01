@@ -5,37 +5,37 @@ Rating: 4.29 (Ranked 849)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~163,194 |
-| Copacetic Coordination | 16.00% | ~56,763 |
-| Fronting the Money | 15.00% | ~53,216 |
-| The Dawn of Automation | 14.00% | ~49,668 |
-| Extraordinary Logistics | 14.00% | ~49,668 |
-| Dirty Money | 13.00% | ~46,120 |
-| Family First | 13.00% | ~46,120 |
-| Cleaning House | 12.00% | ~42,572 |
-| Room in the Back | 12.00% | ~42,572 |
-| Beating the Heat | 11.00% | ~39,025 |
-| Booze Baron | 11.00% | ~39,025 |
-| Friends on the Force | 10.00% | ~35,477 |
-| Neighborhood Watch | 10.00% | ~35,477 |
+| Corner Clout | 46.00% | ~163,198 |
+| Copacetic Coordination | 16.00% | ~56,764 |
+| Fronting the Money | 15.00% | ~53,217 |
+| The Dawn of Automation | 14.00% | ~49,669 |
+| Extraordinary Logistics | 14.00% | ~49,669 |
+| Dirty Money | 13.00% | ~46,121 |
+| Family First | 13.00% | ~46,121 |
+| Cleaning House | 12.00% | ~42,573 |
+| Room in the Back | 12.00% | ~42,573 |
+| Beating the Heat | 11.00% | ~39,026 |
+| Booze Baron | 11.00% | ~39,026 |
+| Friends on the Force | 10.00% | ~35,478 |
+| Neighborhood Watch | 10.00% | ~35,478 |
 | Core Corps | 8.00% | ~28,382 |
 | Sizeable Stash | 8.00% | ~28,382 |
 | Street Fighter | 7.00% | ~24,834 |
 | Friendly Gestures | 7.00% | ~24,834 |
 | People Person | 7.00% | ~24,834 |
-| Liquor Lord | 6.00% | ~21,286 |
-| Safety in Numbers | 6.00% | ~21,286 |
-| Moving Experiences | 6.00% | ~21,286 |
-| Wise Head | 6.00% | ~21,286 |
-| Show ‘em the Sugar | 6.00% | ~21,286 |
-| Killing Them Softly | 6.00% | ~21,286 |
-| Street Knowledge | 5.00% | ~17,738 |
-| Oh Captain | 5.00% | ~17,738 |
-| Branching Out | 5.00% | ~17,738 |
-| Improvement Missions | 5.00% | ~17,738 |
-| Opportunity Knocked | 5.00% | ~17,738 |
-| City of Big Shoulders | 5.00% | ~17,738 |
-| Mission Mastery | 5.00% | ~17,738 |
+| Liquor Lord | 6.00% | ~21,287 |
+| Safety in Numbers | 6.00% | ~21,287 |
+| Moving Experiences | 6.00% | ~21,287 |
+| Wise Head | 6.00% | ~21,287 |
+| Show ‘em the Sugar | 6.00% | ~21,287 |
+| Killing Them Softly | 6.00% | ~21,287 |
+| Street Knowledge | 5.00% | ~17,739 |
+| Oh Captain | 5.00% | ~17,739 |
+| Branching Out | 5.00% | ~17,739 |
+| Improvement Missions | 5.00% | ~17,739 |
+| Opportunity Knocked | 5.00% | ~17,739 |
+| City of Big Shoulders | 5.00% | ~17,739 |
+| Mission Mastery | 5.00% | ~17,739 |
 | Considerable Clams | 4.00% | ~14,191 |
 | Gin Joint | 4.00% | ~14,191 |
 | An Affront to the Enemy | 4.00% | ~14,191 |
@@ -48,11 +48,11 @@ Rating: 4.29 (Ranked 849)
 | Still Stalwart | 3.00% | ~10,643 |
 | Bees Knees Bootlegger | 3.00% | ~10,643 |
 | Tighten the Screws | 3.00% | ~10,643 |
-| One of Us | 2.00% | ~7,095 |
-| Baker’s Dozen | 2.00% | ~7,095 |
-| Dropping the Dime | 2.00% | ~7,095 |
-| Spiffy Speakeasies | 2.00% | ~7,095 |
-| Keeping Your Word | 2.00% | ~7,095 |
+| One of Us | 2.00% | ~7,096 |
+| Baker’s Dozen | 2.00% | ~7,096 |
+| Dropping the Dime | 2.00% | ~7,096 |
+| Spiffy Speakeasies | 2.00% | ~7,096 |
+| Keeping Your Word | 2.00% | ~7,096 |
 | Boxing Them In | 1.00% | ~3,548 |
 | Backroom Empire | 1.00% | ~3,548 |
 | Corner Control | 1.00% | ~3,548 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 849)
 | High Pillow | 0.10% | ~355 |
 | Station Master | 0.10% | ~355 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 354,770 (Ranked 49)  
+Progressed: 354,778 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,16 +311,16 @@ Completed: 7 (0.00%) (Ranked 363)
 | 2023-11-28 | 354,460 | 7 |
 | 2023-11-29 | 354,562 | 7 |
 | 2023-11-30 | 354,687 | 7 |
-| 2023-12-01 | 354,770 | 7 |
+| 2023-12-01 | 354,778 | 7 |
 ## Awards
 Max (Great for Beginners): 50  (Ranked 437)  
-Sum: 221 (Ranked 394)  
+Sum: 222 (Ranked 394)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 50 |
 | This game is Highly Recommended | 35 |
-| This game is Relaxing | 32 |
+| This game is Relaxing | 33 |
 | This game is Extremely Fun | 32 |
 | This game has Diverse Characters | 27 |
 | This game has Quickly Understood Controls | 25 |
@@ -435,4 +435,4 @@ Diff (max vs sum): 43
 | 2023-11-26 | 4.29 | 50 | 197 |
 | 2023-11-29 | 4.29 | 50 | 198 |
 | 2023-11-30 | 4.28 | 50 | 200 |
-| 2023-12-01 | 4.29 | 50 | 221 |
+| 2023-12-01 | 4.29 | 50 | 222 |

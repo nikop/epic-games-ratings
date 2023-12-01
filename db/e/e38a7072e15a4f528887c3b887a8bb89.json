@@ -2,9 +2,9 @@
   "ID": "e38a7072e15a4f528887c3b887a8bb89",
   "Name": "Outbreak The New Nightmare Revisited",
   "ProductSlug": "outbreak-the-new-nightmare-revisited-90517a",
-  "Ranking_EOS_Progress": 565,
+  "Ranking_EOS_Progress": 566,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-08T15:00:00+00:00",
@@ -229,8 +229,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-18T22:15:20.3875058+00:00",
-  "LastChanged_Achievements": "2023-12-01T15:03:00.1450955+00:00",
+  "LastChanged_Achievements": "2023-12-01T16:03:31.5428935+00:00",
   "LastUpdate_AppInfo": "2023-11-30T02:19:26.2231624+00:00",
-  "LastUpdate_Ratings": "2023-12-01T14:57:44.5053104+00:00",
-  "LastUpdate_Achievements": "2023-12-01T15:03:00.1451132+00:00"
+  "LastUpdate_Ratings": "2023-12-01T15:58:10.7659689+00:00",
+  "LastUpdate_Achievements": "2023-12-01T16:03:31.5429086+00:00"
 }

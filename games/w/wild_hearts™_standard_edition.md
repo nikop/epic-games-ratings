@@ -16,15 +16,15 @@
 | Charmed by the Hunt | 64.00% | ~220 |
 | Kemono Hunter | 59.00% | ~203 |
 | Expert Conjuror | 57.00% | ~196 |
+| Bonds of Enmity | 54.00% | ~186 |
 | Distance Devourer | 53.00% | ~182 |
 | Flawless Crystal | 53.00% | ~182 |
-| Bonds of Enmity | 53.00% | ~182 |
 | Helpful Heart | 53.00% | ~182 |
 | Master of the Skies | 49.00% | ~169 |
 | Counter Specialist | 49.00% | ~169 |
 | Axer of Auspice | 45.00% | ~155 |
+| Mighty Marmelizer | 43.00% | ~148 |
 | Fair Means or Foul | 43.00% | ~148 |
-| Mighty Marmelizer | 42.00% | ~144 |
 | Single Minded | 39.00% | ~134 |
 | Snare Specialist | 39.00% | ~134 |
 | Kemono at Heart | 39.00% | ~134 |

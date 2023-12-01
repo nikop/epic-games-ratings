@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 828,
-  "EOS_Completed": 44,
-  "EOS_NewPlayers": 133,
-  "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 5.31,
+  "EOS_Progressed": 829,
+  "EOS_Completed": 45,
+  "EOS_NewPlayers": 134,
+  "EOS_NewCompleters": 10,
+  "EOS_Completed_Percentage": 5.43,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3360,6 +3360,11 @@
       "Time": "2023-12-01T15:05:43.0820281+00:00",
       "NumProgressed": 828,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-12-01T16:07:12.0106477+00:00",
+      "NumProgressed": 829,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 25,
@@ -3371,7 +3376,7 @@
       "Name": "I did it",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "END_GOOD",
@@ -3387,7 +3392,7 @@
       "Name": "Peace walker",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -3395,7 +3400,7 @@
       "Name": "Cable guy",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "META_FIRST_LINK",
@@ -3419,7 +3424,7 @@
       "Name": "Open door",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "META_RESULT_1-3",
@@ -3435,7 +3440,7 @@
       "Name": "Feels like springtime",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "META_RESULT_2-3",
@@ -3467,15 +3472,15 @@
       "Name": "Alchemists Express",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "OPTIONNAL_BELL",
       "SetID": "2gma9an",
       "Name": "Rascal",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 116
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -3491,7 +3496,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -3515,7 +3520,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3523,7 +3528,7 @@
       "Name": "Scholar",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "PROGRESS_N1",
@@ -3547,7 +3552,7 @@
       "Name": "A new dawn",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "PROGRESS_N4",
@@ -3570,14 +3575,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 828,
-      "Completed": 44
+      "Progressed": 829,
+      "Completed": 45
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-01T15:05:43.0820276+00:00",
+  "LastChanged_Achievements": "2023-12-01T16:07:12.010647+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-12-01T14:59:05.9238553+00:00",
-  "LastUpdate_Achievements": "2023-12-01T15:05:43.0820522+00:00"
+  "LastUpdate_Ratings": "2023-12-01T16:00:11.3183621+00:00",
+  "LastUpdate_Achievements": "2023-12-01T16:07:12.0106832+00:00"
 }

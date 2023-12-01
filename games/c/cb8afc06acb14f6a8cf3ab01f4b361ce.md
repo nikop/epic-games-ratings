@@ -14,15 +14,15 @@ Rating: 4.21 (Ranked 909)
 | We'll be careful | 0.50% | ~1,609 |
 | Pride is a sin, young Knight | 0.50% | ~1,609 |
 | Back to your senses | 0.40% | ~1,287 |
+| They tricked me | 0.40% | ~1,287 |
 | They won't last long | 0.40% | ~1,287 |
 | Bring it on! | 0.40% | ~1,287 |
-| They tricked me | 0.30% | ~965 |
-| We need to talk | 0.30% | ~965 |
-| I feel drawn to it | 0.30% | ~965 |
-| Here to stay | 0.30% | ~965 |
-| Counting on you | 0.30% | ~965 |
-| This is the end | 0.30% | ~965 |
-| We can choose to fight | 0.30% | ~965 |
+| We need to talk | 0.30% | ~966 |
+| I feel drawn to it | 0.30% | ~966 |
+| Here to stay | 0.30% | ~966 |
+| Counting on you | 0.30% | ~966 |
+| This is the end | 0.30% | ~966 |
+| We can choose to fight | 0.30% | ~966 |
 | Their fate is sealed | 0.20% | ~644 |
 | Not even from this world | 0.20% | ~644 |
 | Chaos be damned! | 0.20% | ~644 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 909)
 | They wanted yet another monster… | 0.00% | ~0 |
 | Something... unnatural | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 321,829 (Ranked 51)  
+Progressed: 321,860 (Ranked 51)  
 Completed: 4 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 4 (0.00%) (Ranked 363)
 | 2023-11-28 | 320,512 | 4 |
 | 2023-11-29 | 321,010 | 4 |
 | 2023-11-30 | 321,497 | 4 |
-| 2023-12-01 | 321,829 | 4 |
+| 2023-12-01 | 321,860 | 4 |
 ## Awards
 Max (Great Boss Battles): 63  (Ranked 412)  
 Sum: 63 (Ranked 476)  

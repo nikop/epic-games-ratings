@@ -4,7 +4,7 @@
   "ProductSlug": "infindustry-cccc40",
   "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-05-11T23:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 123,
+  "EOS_Progressed": 124,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -634,6 +634,11 @@
       "Time": "2023-11-30T20:04:21.3408712+00:00",
       "NumProgressed": 123,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-01T16:04:44.3912481+00:00",
+      "NumProgressed": 124,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 12,
@@ -651,9 +656,9 @@
       "ID": "Cook",
       "SetID": "82ojhod",
       "Name": "Cook",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "Crafter",
@@ -685,7 +690,7 @@
       "Name": "Harvester",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Healer",
@@ -740,14 +745,14 @@
     {
       "ID": "82ojhod",
       "IsBase": true,
-      "Progressed": 123,
+      "Progressed": 124,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-12-01T15:03:53.1519308+00:00",
+  "LastChanged_Achievements": "2023-12-01T16:04:44.3912478+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:17.5561637+00:00",
-  "LastUpdate_Ratings": "2023-12-01T14:59:39.209663+00:00",
-  "LastUpdate_Achievements": "2023-12-01T15:03:53.1519431+00:00"
+  "LastUpdate_Ratings": "2023-12-01T16:00:59.2657644+00:00",
+  "LastUpdate_Achievements": "2023-12-01T16:04:44.39126+00:00"
 }

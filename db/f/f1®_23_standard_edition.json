@@ -3,8 +3,8 @@
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
   "Ranking_Rating": 255,
-  "Ranking_Popularity": 520,
-  "Ranking_PopularitySum": 450,
+  "Ranking_Popularity": 513,
+  "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 182,
@@ -643,11 +643,17 @@
       "Rating": 4.68,
       "NumberOfAwards": 96,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2023-12-01T16:00:07.8299482+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 97,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 96,
-  "NumberOfAwardsMax": 26,
+  "NumberOfAwards": 97,
+  "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -672,7 +678,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has a Competitive Community",
@@ -687,7 +693,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5986,
+  "EOS_Progressed": 5987,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
@@ -6572,6 +6578,11 @@
       "Time": "2023-12-01T11:06:15.949396+00:00",
       "NumProgressed": 5986,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T16:07:26.0581023+00:00",
+      "NumProgressed": 5987,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -6624,7 +6635,7 @@
       "Name": "Setting up for Success",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4669
+      "UsersEstimate": 4670
     },
     {
       "ID": "achievement_0007",
@@ -6632,7 +6643,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 5627
+      "UsersEstimate": 5628
     },
     {
       "ID": "achievement_0008",
@@ -6640,7 +6651,7 @@
       "Name": "On the Top Step",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 5268
+      "UsersEstimate": 5269
     },
     {
       "ID": "achievement_0009",
@@ -6704,7 +6715,7 @@
       "Name": "Hitting a Season",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 2394
+      "UsersEstimate": 2395
     },
     {
       "ID": "achievement_0017",
@@ -6752,7 +6763,7 @@
       "Name": "A Dozen Pieces",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2035
+      "UsersEstimate": 2036
     },
     {
       "ID": "achievement_0023",
@@ -6816,7 +6827,7 @@
       "Name": "Reuse",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "achievement_0031",
@@ -6840,7 +6851,7 @@
       "Name": "Engineer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 3352
+      "UsersEstimate": 3353
     },
     {
       "ID": "achievement_0034",
@@ -6848,7 +6859,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 2035
+      "UsersEstimate": 2036
     },
     {
       "ID": "achievement_0035",
@@ -6920,7 +6931,7 @@
       "Name": "Familiar Faces",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2933
+      "UsersEstimate": 2934
     },
     {
       "ID": "achievement_0044",
@@ -6944,7 +6955,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "achievement_0047",
@@ -6975,16 +6986,16 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5986,
+      "Progressed": 5987,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2023-11-29T21:58:22.4876364+00:00",
-  "LastChanged_Achievements": "2023-12-01T15:05:53.366061+00:00",
+  "LastChanged": "2023-12-01T16:00:07.829948+00:00",
+  "LastChanged_Achievements": "2023-12-01T16:07:26.0581019+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:16.1347365+00:00",
-  "LastUpdate_Ratings": "2023-12-01T14:59:03.6608094+00:00",
-  "LastUpdate_Achievements": "2023-12-01T15:05:53.3661151+00:00"
+  "LastUpdate_Ratings": "2023-12-01T16:00:07.8299485+00:00",
+  "LastUpdate_Achievements": "2023-12-01T16:07:26.0581671+00:00"
 }

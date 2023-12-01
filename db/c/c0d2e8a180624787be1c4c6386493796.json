@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -603,9 +603,9 @@
       "ID": "KR4_ACHIEVEMENT_GOBLIRANGS",
       "SetID": "caeik3h",
       "Name": "Not The Bees!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KR4_ACHIEVEMENT_GOLLUM",
@@ -851,9 +851,9 @@
       "ID": "KR4_ACHIEVEMENT_ORCSDEN",
       "SetID": "caeik3h",
       "Name": "Show Me Your War Face!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "KR4_ACHIEVEMENT_ORCSHAMAN",
@@ -1042,8 +1042,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-01T15:04:14.7430059+00:00",
+  "LastChanged_Achievements": "2023-12-01T16:05:14.1419179+00:00",
   "LastUpdate_AppInfo": "2023-11-30T16:57:23.733607+00:00",
-  "LastUpdate_Ratings": "2023-12-01T14:58:16.2122521+00:00",
-  "LastUpdate_Achievements": "2023-12-01T15:04:14.7430735+00:00"
+  "LastUpdate_Ratings": "2023-12-01T15:58:57.7104033+00:00",
+  "LastUpdate_Achievements": "2023-12-01T16:05:14.1419724+00:00"
 }

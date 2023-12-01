@@ -6,56 +6,56 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~306,864 |
-| Full garage | 61.00% | ~256,421 |
-| To the eyeballs! | 51.00% | ~214,385 |
-| Individual delivery | 47.00% | ~197,570 |
-| Non-Stop | 45.00% | ~189,163 |
-| Juggler | 36.00% | ~151,330 |
-| Forgot something | 35.00% | ~147,127 |
-| Close call! | 30.00% | ~126,109 |
-| Get out my way | 28.00% | ~117,701 |
-| Common cause | 26.00% | ~109,294 |
-| Critical care | 26.00% | ~109,294 |
-| Mega-railroad | 23.00% | ~96,683 |
-| Upgrade complete | 23.00% | ~96,683 |
-| Just in time! | 18.00% | ~75,665 |
-| Builder | 17.00% | ~71,462 |
-| Long Haul | 17.00% | ~71,350 |
-| Steam Age | 16.00% | ~67,258 |
-| Multilevel road | 15.00% | ~63,054 |
-| Bridgemania | 14.00% | ~58,851 |
-| Need to think | 14.00% | ~58,851 |
-| The Tortoise | 12.00% | ~50,443 |
-| Beginner | 11.00% | ~46,240 |
-| Without a lunch break | 11.00% | ~46,240 |
-| One way | 10.00% | ~42,036 |
-| Relocation | 10.00% | ~42,036 |
-| Industrial Age | 9.00% | ~37,833 |
-| Just One More Valley | 9.00% | ~37,773 |
-| Prick of conscience | 8.00% | ~33,629 |
-| Missed it! | 7.00% | ~29,425 |
-| At the last moment! | 6.00% | ~25,222 |
-| Overseer | 6.00% | ~25,222 |
-| Highlander | 5.00% | ~21,018 |
-| Jewelry accuracy | 5.00% | ~21,018 |
-| Stargazer | 5.00% | ~21,018 |
-| Bridge builder | 4.00% | ~16,814 |
-| Electrical Age | 4.00% | ~16,814 |
-| Engineer | 4.00% | ~16,814 |
-| Large construction | 4.00% | ~16,814 |
-| Squander | 4.00% | ~16,814 |
+| Dealmaker | 73.00% | ~306,874 |
+| Full garage | 61.00% | ~256,429 |
+| To the eyeballs! | 51.00% | ~214,392 |
+| Individual delivery | 47.00% | ~197,577 |
+| Non-Stop | 45.00% | ~189,169 |
+| Juggler | 36.00% | ~151,335 |
+| Forgot something | 35.00% | ~147,132 |
+| Close call! | 30.00% | ~126,113 |
+| Get out my way | 28.00% | ~117,705 |
+| Common cause | 26.00% | ~109,298 |
+| Critical care | 26.00% | ~109,298 |
+| Mega-railroad | 23.00% | ~96,686 |
+| Upgrade complete | 23.00% | ~96,686 |
+| Just in time! | 18.00% | ~75,668 |
+| Builder | 17.00% | ~71,464 |
+| Long Haul | 17.00% | ~71,352 |
+| Steam Age | 16.00% | ~67,260 |
+| Multilevel road | 15.00% | ~63,056 |
+| Bridgemania | 14.00% | ~58,853 |
+| Need to think | 14.00% | ~58,853 |
+| The Tortoise | 12.00% | ~50,445 |
+| Beginner | 11.00% | ~46,241 |
+| Without a lunch break | 11.00% | ~46,241 |
+| One way | 10.00% | ~42,038 |
+| Relocation | 10.00% | ~42,038 |
+| Industrial Age | 9.00% | ~37,834 |
+| Just One More Valley | 9.00% | ~37,775 |
+| Prick of conscience | 8.00% | ~33,630 |
+| Missed it! | 7.00% | ~29,426 |
+| At the last moment! | 6.00% | ~25,223 |
+| Overseer | 6.00% | ~25,223 |
+| Highlander | 5.00% | ~21,019 |
+| Jewelry accuracy | 5.00% | ~21,019 |
+| Stargazer | 5.00% | ~21,019 |
+| Bridge builder | 4.00% | ~16,815 |
+| Electrical Age | 4.00% | ~16,815 |
+| Engineer | 4.00% | ~16,815 |
+| Large construction | 4.00% | ~16,815 |
+| Squander | 4.00% | ~16,815 |
 | Globalisation Age | 3.00% | ~12,611 |
 | Living it large | 3.00% | ~12,611 |
 | Sabotage | 3.00% | ~12,611 |
-| Test Batch | 3.00% | ~12,591 |
-| Astronomer | 2.00% | ~8,407 |
-| Innovator | 2.00% | ~8,407 |
-| Lucky vandal | 2.00% | ~8,407 |
-| The Hare | 2.00% | ~8,407 |
-| Vandal | 2.00% | ~8,407 |
-| Will work | 2.00% | ~8,407 |
-| Woodcutter | 2.00% | ~8,407 |
+| Test Batch | 3.00% | ~12,592 |
+| Astronomer | 2.00% | ~8,408 |
+| Innovator | 2.00% | ~8,408 |
+| Lucky vandal | 2.00% | ~8,408 |
+| The Hare | 2.00% | ~8,408 |
+| Vandal | 2.00% | ~8,408 |
+| Will work | 2.00% | ~8,408 |
+| Woodcutter | 2.00% | ~8,408 |
 | Occupied! | 2.00% | ~8,394 |
 | Achiever | 1.00% | ~4,204 |
 | Environmental activist | 1.00% | ~4,204 |
@@ -66,7 +66,7 @@ Number of Ratings: 87  (23.09.2022)
 | Miscalculation | 0.80% | ~3,363 |
 | Voyager | 0.60% | ~2,522 |
 | Railroad tycoon | 0.50% | ~2,102 |
-| It's no coincidence | 0.40% | ~1,681 |
+| It's no coincidence | 0.40% | ~1,682 |
 | Miner | 0.30% | ~1,259 |
 | Pink Ruby | 0.30% | ~1,259 |
 | The Hare with an espresso | 0.30% | ~1,261 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~420 |
 | World Zapper | 0.10% | ~420 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 420,362 (Ranked 45)  
+Progressed: 420,376 (Ranked 45)  
 Completed: 23 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,15 +283,15 @@ Completed: 23 (0.01%) (Ranked 343)
 | 2023-11-28 | 419,797 | 23 |
 | 2023-11-29 | 419,997 | 23 |
 | 2023-11-30 | 420,226 | 23 |
-| 2023-12-01 | 420,362 | 23 |
+| 2023-12-01 | 420,376 | 23 |
 ## Awards
 Max (Challenging Puzzles): 934  (Ranked 159)  
-Sum: 1,874 (Ranked 219)  
+Sum: 1,876 (Ranked 219)  
 Diff (max vs sum): -60  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 934 |
-| This game is Great for Beginners | 175 |
+| This game is Great for Beginners | 177 |
 | This game has Quickly Understood Controls | 104 |
 | This game has Playful Visuals | 104 |
 | This game is Extremely Fun | 101 |
@@ -496,4 +496,4 @@ Diff (max vs sum): -60
 | 2023-11-28 | 4.44 | - | 926 | 1,854 |
 | 2023-11-29 | 4.44 | - | 931 | 1,864 |
 | 2023-11-30 | 4.44 | - | 934 | 1,872 |
-| 2023-12-01 | 4.44 | - | 934 | 1,874 |
+| 2023-12-01 | 4.44 | - | 934 | 1,876 |

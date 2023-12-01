@@ -6,7 +6,7 @@
   "Ranking_Popularity": 468,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 277,
-  "Ranking_EOS_Completed": 279,
+  "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
@@ -169,9 +169,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 806,
+  "EOS_Progressed": 807,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 264,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1819,6 +1819,11 @@
       "Time": "2023-12-01T14:03:58.1782072+00:00",
       "NumProgressed": 806,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-01T16:04:15.5666446+00:00",
+      "NumProgressed": 807,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1829,9 +1834,9 @@
       "ID": "AbAeterno",
       "SetID": "1n308hc",
       "Name": "Ab Aeterno",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "AbInitio",
@@ -1871,7 +1876,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "BreakTheLoop",
@@ -1965,9 +1970,9 @@
       "ID": "GnothiSeauton",
       "SetID": "1n308hc",
       "Name": "Gnothi Seauton",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "GoodCitizen",
@@ -2037,9 +2042,9 @@
       "ID": "Mnemosyne",
       "SetID": "1n308hc",
       "Name": "Mnemosyne",
-      "Percentage": 0.1,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "MuseumExplorer",
@@ -2085,9 +2090,9 @@
       "ID": "Overload",
       "SetID": "1n308hc",
       "Name": "Overload",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 56
     },
     {
       "ID": "Persistent",
@@ -2239,7 +2244,7 @@
       "Name": "The Word Endures",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "TouchGrass",
@@ -2269,9 +2274,9 @@
       "ID": "Wanderers",
       "SetID": "1n308hc",
       "Name": "Wanderers",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 48
     },
     {
       "ID": "WesternDelta",
@@ -2302,7 +2307,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 806,
+      "Progressed": 807,
       "Completed": 1
     }
   ],
@@ -2310,8 +2315,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-30T22:00:34.4965769+00:00",
-  "LastChanged_Achievements": "2023-12-01T15:03:31.6971838+00:00",
+  "LastChanged_Achievements": "2023-12-01T16:04:15.5666442+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-01T14:59:36.5205613+00:00",
-  "LastUpdate_Achievements": "2023-12-01T15:03:31.6972277+00:00"
+  "LastUpdate_Ratings": "2023-12-01T16:00:55.314601+00:00",
+  "LastUpdate_Achievements": "2023-12-01T16:04:15.5666871+00:00"
 }

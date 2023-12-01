@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 466,
+  "EOS_Progressed": 467,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1442,6 +1442,11 @@
       "Time": "2023-12-01T15:05:52.074486+00:00",
       "NumProgressed": 466,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-01T16:07:24.338397+00:00",
+      "NumProgressed": 467,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1453,15 +1458,15 @@
       "Name": "Travel Streamer",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "ACHIEVEMENT_10",
       "SetID": "7pimpda",
       "Name": "Giant Lizard Killer",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -1469,7 +1474,7 @@
       "Name": "Guardian",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -1483,9 +1488,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "7pimpda",
       "Name": "Flying Kobold Killer",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -1541,7 +1546,7 @@
       "Name": "Training Simulation",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1571,9 +1576,9 @@
       "ID": "ACHIEVEMENT_23",
       "SetID": "7pimpda",
       "Name": "Master Cook",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -1581,7 +1586,7 @@
       "Name": "Arms Mechanic",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -1605,7 +1610,7 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -1675,9 +1680,9 @@
       "ID": "ACHIEVEMENT_36",
       "SetID": "7pimpda",
       "Name": "Giant Claw Spider Challenge",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -1709,15 +1714,15 @@
       "Name": "Storm Traveller",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACHIEVEMENT_40",
       "SetID": "7pimpda",
       "Name": "Mermaid Challenge",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -1789,7 +1794,7 @@
       "Name": "Apostle of Flame",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -1812,7 +1817,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 466,
+      "Progressed": 467,
       "Completed": 1
     }
   ],
@@ -1820,8 +1825,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-01T15:05:52.0744857+00:00",
+  "LastChanged_Achievements": "2023-12-01T16:07:24.3383967+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-12-01T14:59:26.2977392+00:00",
-  "LastUpdate_Achievements": "2023-12-01T15:05:52.0745187+00:00"
+  "LastUpdate_Ratings": "2023-12-01T16:00:39.2052501+00:00",
+  "LastUpdate_Achievements": "2023-12-01T16:07:24.33844+00:00"
 }

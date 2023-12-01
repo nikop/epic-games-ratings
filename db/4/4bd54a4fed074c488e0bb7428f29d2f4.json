@@ -4,7 +4,7 @@
   "ProductSlug": "1428-shadows-over-silesia-266e5f",
   "Ranking_EOS_Progress": 658,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewPlayers": 497,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -124,9 +124,9 @@
       "ID": "SOS_BURN_HENNERSDORF",
       "SetID": "6ci4lm2",
       "Name": "Red rooster",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SOS_DEAD_END",
@@ -252,9 +252,9 @@
       "ID": "SOS_HEADACHE",
       "SetID": "6ci4lm2",
       "Name": "By fire and blood",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SOS_HEARTBREAKING_END",
@@ -554,8 +554,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-12-01T15:02:59.9825765+00:00",
+  "LastChanged_Achievements": "2023-12-01T16:03:31.3119077+00:00",
   "LastUpdate_AppInfo": "2023-11-27T15:57:06.6652579+00:00",
-  "LastUpdate_Ratings": "2023-12-01T14:57:13.182239+00:00",
-  "LastUpdate_Achievements": "2023-12-01T15:02:59.9831795+00:00"
+  "LastUpdate_Ratings": "2023-12-01T15:57:25.3687274+00:00",
+  "LastUpdate_Achievements": "2023-12-01T16:03:31.3119497+00:00"
 }

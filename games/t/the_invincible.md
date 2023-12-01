@@ -21,7 +21,7 @@
 | Fierce fight | 12.00% | ~57 |
 | Evacuation | 12.00% | ~57 |
 | Flying Objects Operator | 12.00% | ~57 |
-| I remember everything! | 10.00% | ~47 |
+| I remember everything! | 11.00% | ~52 |
 | Violent solution | 8.00% | ~38 |
 | Another giant | 7.00% | ~33 |
 | Innate curiosity | 7.00% | ~33 |

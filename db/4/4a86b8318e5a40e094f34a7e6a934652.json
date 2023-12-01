@@ -1085,17 +1085,17 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 50,
-      "UsersEstimate": 161
+      "UsersEstimate": 164
     },
     {
       "ID": "BRING_PROSPERO",
       "SetID": "aniflfk",
       "Name": "Amusement Park",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -1236,8 +1236,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-01T15:04:18.2746729+00:00",
+  "LastChanged_Achievements": "2023-12-01T16:05:19.0385124+00:00",
   "LastUpdate_AppInfo": "2023-11-29T20:57:25.9655457+00:00",
-  "LastUpdate_Ratings": "2023-12-01T15:02:47.2897691+00:00",
-  "LastUpdate_Achievements": "2023-12-01T15:04:18.2746897+00:00"
+  "LastUpdate_Ratings": "2023-12-01T16:03:10.8110229+00:00",
+  "LastUpdate_Achievements": "2023-12-01T16:05:19.0385266+00:00"
 }

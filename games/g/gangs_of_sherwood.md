@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Act of Kindness | 84.00% | ~37 |
-| Air Fighter | 80.00% | ~35 |
+| Air Fighter | 82.00% | ~36 |
 | Oo-De-Lally | 73.00% | ~32 |
 | The Altruist | 68.00% | ~30 |
 | Treasure Hunter | 64.00% | ~28 |
@@ -14,7 +14,7 @@
 | MAX LEVEL | 48.00% | ~21 |
 | Right between the eyes | 45.00% | ~20 |
 | Merry Co-operation | 36.00% | ~16 |
-| Starry Night | 32.00% | ~14 |
+| Starry Night | 34.00% | ~15 |
 | Spring Board | 32.00% | ~14 |
 | Savior | 30.00% | ~13 |
 | Rebel Unleashed | 30.00% | ~13 |
@@ -31,12 +31,12 @@
 | Brilliant Executioner | 9.00% | ~4 |
 | Hidden Experiment | 9.00% | ~4 |
 | The Gang prevails | 7.00% | ~3 |
+| Out of the ring | 7.00% | ~3 |
 | Sky High Fighter | 7.00% | ~3 |
 | Into the Lion's Den | 7.00% | ~3 |
 | King of the Iron Fist | 5.00% | ~2 |
 | Bold and Bossy | 5.00% | ~2 |
 | Power of Friendship! | 5.00% | ~2 |
-| Out of the ring | 5.00% | ~2 |
 | Five of Friends | 5.00% | ~2 |
 | The Crowkiller | 2.00% | ~1 |
 | A Gest of Robyn Hode | 2.00% | ~1 |

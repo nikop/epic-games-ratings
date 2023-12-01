@@ -49,10 +49,10 @@ Rating: 3.45 (Ranked 1,051)
 | Neighborhood Watch | 0.30% | ~5 |
 | So Anyway I Started Blasting | 0.30% | ~5 |
 | Under a Bushel | 0.30% | ~5 |
+| Bob’s Final Hour | 0.30% | ~5 |
 | Good Samaritan | 0.30% | ~5 |
 | Friendgineering | 0.20% | ~4 |
 | Enemy of My Enemy | 0.20% | ~4 |
-| Bob’s Final Hour | 0.20% | ~4 |
 | Scream Team | 0.10% | ~2 |
 | Monster Hunters Club | 0.10% | ~2 |
 | Blood Brother | 0.10% | ~2 |

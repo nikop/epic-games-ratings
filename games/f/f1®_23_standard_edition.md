@@ -5,25 +5,25 @@ Rating: 4.68 (Ranked 255)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,627 |
-| On the Top Step | 88.00% | ~5,268 |
-| Setting up for Success | 78.00% | ~4,669 |
+| Getting on the Step | 94.00% | ~5,628 |
+| On the Top Step | 88.00% | ~5,269 |
+| Setting up for Success | 78.00% | ~4,670 |
 | Team Orders | 75.00% | ~4,490 |
-| Engineer | 56.00% | ~3,352 |
-| Familiar Faces | 49.00% | ~2,933 |
+| Engineer | 56.00% | ~3,353 |
+| Familiar Faces | 49.00% | ~2,934 |
 | Sharing the Love | 43.00% | ~2,574 |
 | Going the Extra Mile | 43.00% | ~2,574 |
-| Hitting a Season | 40.00% | ~2,394 |
-| A Dozen Pieces | 34.00% | ~2,035 |
-| Challenge Yourself | 34.00% | ~2,035 |
+| Hitting a Season | 40.00% | ~2,395 |
+| A Dozen Pieces | 34.00% | ~2,036 |
+| Challenge Yourself | 34.00% | ~2,036 |
 | Making History | 32.00% | ~1,916 |
 | Network Success | 28.00% | ~1,676 |
-| Writing a new Chapter | 26.00% | ~1,556 |
+| Writing a new Chapter | 26.00% | ~1,557 |
 | Spring Cleaning | 24.00% | ~1,437 |
 | Reduce | 21.00% | ~1,257 |
 | Ups and Downs | 21.00% | ~1,257 |
 | Crucial Combo | 20.00% | ~1,197 |
-| Reuse | 18.00% | ~1,077 |
+| Reuse | 18.00% | ~1,078 |
 | One for the Book | 17.00% | ~1,018 |
 | Proving Them Wrong | 17.00% | ~1,018 |
 | Gathering Dust | 16.00% | ~958 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 255)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,986 (Ranked 186)  
+Progressed: 5,987 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,15 +134,15 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-28 | 5,957 | 0 |
 | 2023-11-29 | 5,971 | 0 |
 | 2023-11-30 | 5,982 | 0 |
-| 2023-12-01 | 5,986 | 0 |
+| 2023-12-01 | 5,987 | 0 |
 ## Awards
-Max (Diverse Characters): 26  (Ranked 520)  
-Sum: 96 (Ranked 450)  
-Diff (max vs sum): 70  
+Max (Diverse Characters): 27  (Ranked 513)  
+Sum: 97 (Ranked 449)  
+Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |
-| This game has Diverse Characters | 26 |
+| This game has Diverse Characters | 27 |
 | This game is Highly Recommended | 25 |
 | This game is Great for Quick Sessions | 24 |
 | This game has a Competitive Community | 24 |
@@ -232,3 +232,4 @@ Diff (max vs sum): 70
 | 2023-11-27 | 4.68 | 26 | 94 |
 | 2023-11-28 | 4.68 | 26 | 95 |
 | 2023-11-29 | 4.68 | 26 | 96 |
+| 2023-12-01 | 4.68 | 27 | 97 |

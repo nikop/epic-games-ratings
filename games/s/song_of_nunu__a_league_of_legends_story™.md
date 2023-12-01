@@ -6,12 +6,12 @@
 | ---- | ---------- | ----- |
 | Feels Familiar | 75.00% | ~784 |
 | I Broke It | 73.00% | ~763 |
-| Better On Ice | 67.00% | ~700 |
+| Better On Ice | 68.00% | ~711 |
 | Notai Notes | 67.00% | ~700 |
 | Blue Dreams | 66.00% | ~690 |
+| He's Famous! | 66.00% | ~690 |
 | Cutie Poro | 66.00% | ~690 |
-| He's Famous! | 65.00% | ~679 |
-| Krugmazing | 63.00% | ~658 |
+| Krugmazing | 64.00% | ~669 |
 | Moneyball | 60.00% | ~627 |
 | The Fire Below the Mountain | 60.00% | ~627 |
 | No Bites | 54.00% | ~564 |
@@ -27,10 +27,10 @@
 | So Close | 40.00% | ~418 |
 | You Get Used To It | 40.00% | ~418 |
 | True Legends | 39.00% | ~408 |
-| Family | 37.00% | ~387 |
+| Family | 38.00% | ~397 |
+| Boosted! | 38.00% | ~397 |
 | Biggest Snowball Ever | 37.00% | ~387 |
 | Freeze The Ice Witch | 37.00% | ~387 |
-| Boosted! | 37.00% | ~387 |
 | Deadliest and Biggest Snowball Ever! | 37.00% | ~387 |
 | Bullseye | 36.00% | ~376 |
 | It Is Not Over | 34.00% | ~355 |

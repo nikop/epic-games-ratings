@@ -383,9 +383,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 321829,
+  "EOS_Progressed": 321860,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4229,
+  "EOS_NewPlayers": 4234,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8003,6 +8003,11 @@
       "Time": "2023-12-01T15:04:22.4125765+00:00",
       "NumProgressed": 321829,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-01T16:05:24.9587505+00:00",
+      "NumProgressed": 321860,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -8053,9 +8058,9 @@
       "ID": "S06_LWTC",
       "SetID": "4j44ol8",
       "Name": "They tricked me",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 965
+      "UsersEstimate": 1287
     },
     {
       "ID": "S07_INWA",
@@ -8063,7 +8068,7 @@
       "Name": "We need to talk",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "S08_MNSA",
@@ -8071,7 +8076,7 @@
       "Name": "I feel drawn to it",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "S09_MNSE",
@@ -8079,7 +8084,7 @@
       "Name": "Here to stay",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "S10_GRSB",
@@ -8087,7 +8092,7 @@
       "Name": "Counting on you",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "S11_MMR6",
@@ -8095,7 +8100,7 @@
       "Name": "This is the end",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "S12_ALL",
@@ -8103,7 +8108,7 @@
       "Name": "We can choose to fight",
       "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "S13_ALL_HARD",
@@ -8334,7 +8339,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 321829,
+      "Progressed": 321860,
       "Completed": 4
     }
   ],
@@ -8342,8 +8347,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-01T10:58:00.1161416+00:00",
-  "LastChanged_Achievements": "2023-12-01T15:04:22.4125759+00:00",
+  "LastChanged_Achievements": "2023-12-01T16:05:24.9587502+00:00",
   "LastUpdate_AppInfo": "2023-11-30T19:57:08.777578+00:00",
-  "LastUpdate_Ratings": "2023-12-01T14:57:52.3549423+00:00",
-  "LastUpdate_Achievements": "2023-12-01T15:04:22.4126318+00:00"
+  "LastUpdate_Ratings": "2023-12-01T15:58:22.6038338+00:00",
+  "LastUpdate_Achievements": "2023-12-01T16:05:24.9588019+00:00"
 }

@@ -824,9 +824,9 @@
       "ID": "ACHIEVEMENT_SPEEDBALL_TRAINEE_ID",
       "SetID": "2h9pc72",
       "Name": "Speedroller Trainee",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_SPYGLASS_ID",
@@ -847,8 +847,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:34.7709022+00:00",
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-12-01T15:09:13.5652782+00:00",
+  "LastChanged_Achievements": "2023-12-01T16:09:54.0404043+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:02.7698905+00:00",
-  "LastUpdate_Ratings": "2023-12-01T14:58:27.8595935+00:00",
-  "LastUpdate_Achievements": "2023-12-01T15:09:13.5652904+00:00"
+  "LastUpdate_Ratings": "2023-12-01T15:59:14.4496167+00:00",
+  "LastUpdate_Achievements": "2023-12-01T16:09:54.0404149+00:00"
 }

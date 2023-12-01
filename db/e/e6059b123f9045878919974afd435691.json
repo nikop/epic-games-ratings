@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -2789,9 +2789,9 @@
       "ID": "AMMO_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "FULLCLIP",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 224
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -3308,8 +3308,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-01T15:09:16.5334768+00:00",
+  "LastChanged_Achievements": "2023-12-01T16:09:58.0760181+00:00",
   "LastUpdate_AppInfo": "2023-12-01T01:53:59.6642284+00:00",
-  "LastUpdate_Ratings": "2023-12-01T14:57:18.6394776+00:00",
-  "LastUpdate_Achievements": "2023-12-01T15:09:16.5335316+00:00"
+  "LastUpdate_Ratings": "2023-12-01T15:57:33.6686767+00:00",
+  "LastUpdate_Achievements": "2023-12-01T16:09:58.0760802+00:00"
 }

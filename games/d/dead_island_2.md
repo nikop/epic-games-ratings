@@ -5,34 +5,34 @@ Rating: 4.54 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,620 |
-| Git Gutte! | 2.00% | ~14,569 |
-| Break A Leg | 2.00% | ~14,569 |
-| Coup de Grâce | 2.00% | ~14,569 |
-| Hazardous Materials | 2.00% | ~14,569 |
-| Hotel California | 2.00% | ~14,569 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,569 |
-| Welcome To Hell-A | 2.00% | ~14,569 |
+| Whatever It Takes | 3.00% | ~1,621 |
+| Git Gutte! | 2.00% | ~14,570 |
+| Break A Leg | 2.00% | ~14,570 |
+| Coup de Grâce | 2.00% | ~14,570 |
+| Hazardous Materials | 2.00% | ~14,570 |
+| Hotel California | 2.00% | ~14,570 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,570 |
+| Welcome To Hell-A | 2.00% | ~14,570 |
 | One of Us | 2.00% | ~1,080 |
 | Pork Chopped | 2.00% | ~1,080 |
-| Dr. Reed, I Presume? | 1.00% | ~7,284 |
-| Anger Management | 1.00% | ~7,284 |
-| Perks of the Job | 1.00% | ~7,284 |
-| Bookworm | 1.00% | ~7,284 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,284 |
-| But Doctor, I am Butcho | 1.00% | ~7,284 |
-| Slayer Squad | 1.00% | ~7,284 |
-| Can't Handle the Truth | 1.00% | ~7,284 |
-| Like Riding a Bike | 1.00% | ~7,284 |
-| Friends Like These | 1.00% | ~7,284 |
-| Apex Predator | 1.00% | ~7,284 |
-| Zombologist | 1.00% | ~7,284 |
-| Ooh, Shiny! | 1.00% | ~7,284 |
-| A Patton Emerges | 1.00% | ~7,284 |
-| I Am the Resurrection | 1.00% | ~7,284 |
-| Stacking the Deck | 1.00% | ~7,284 |
-| Our True Nature | 1.00% | ~7,284 |
-| This is My Weapon | 1.00% | ~7,284 |
+| Dr. Reed, I Presume? | 1.00% | ~7,285 |
+| Anger Management | 1.00% | ~7,285 |
+| Perks of the Job | 1.00% | ~7,285 |
+| Bookworm | 1.00% | ~7,285 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,285 |
+| But Doctor, I am Butcho | 1.00% | ~7,285 |
+| Slayer Squad | 1.00% | ~7,285 |
+| Can't Handle the Truth | 1.00% | ~7,285 |
+| Like Riding a Bike | 1.00% | ~7,285 |
+| Friends Like These | 1.00% | ~7,285 |
+| Apex Predator | 1.00% | ~7,285 |
+| Zombologist | 1.00% | ~7,285 |
+| Ooh, Shiny! | 1.00% | ~7,285 |
+| A Patton Emerges | 1.00% | ~7,285 |
+| I Am the Resurrection | 1.00% | ~7,285 |
+| Stacking the Deck | 1.00% | ~7,285 |
+| Our True Nature | 1.00% | ~7,285 |
+| This is My Weapon | 1.00% | ~7,285 |
 | Making Your Mark | 0.90% | ~6,556 |
 | Max Headroom | 0.90% | ~6,556 |
 | Humanity Distilled | 0.80% | ~5,828 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 529)
 | Bucket List | 0.10% | ~728 |
 | Wilhelm | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,447 (Ranked 21)  
+Progressed: 728,481 (Ranked 21)  
 Completed: 2,458 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,17 +282,17 @@ Completed: 2,458 (0.34%) (Ranked 231)
 | 2023-11-28 | 727,374 | 2,447 |
 | 2023-11-29 | 727,809 | 2,450 |
 | 2023-11-30 | 728,231 | 2,456 |
-| 2023-12-01 | 728,447 | 2,458 |
+| 2023-12-01 | 728,481 | 2,458 |
 ## Awards
 Max (Great Boss Battles): 7,845  (Ranked 49)  
-Sum: 12,022 (Ranked 83)  
+Sum: 12,026 (Ranked 83)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,845 |
 | This game is Great for Beginners | 609 |
 | This game has Diverse Characters | 576 |
-| This game has Quickly Understood Controls | 539 |
+| This game has Quickly Understood Controls | 543 |
 | This game is Relaxing | 518 |
 | This game has Amazing Storytelling | 503 |
 | This game is Extremely Fun | 491 |
@@ -525,4 +525,4 @@ Diff (max vs sum): -34
 | 2023-11-28 | 4.54 | 7,784 | 11,921 |
 | 2023-11-29 | 4.54 | 7,803 | 11,961 |
 | 2023-11-30 | 4.54 | 7,821 | 11,987 |
-| 2023-12-01 | 4.54 | 7,845 | 12,022 |
+| 2023-12-01 | 4.54 | 7,845 | 12,026 |
