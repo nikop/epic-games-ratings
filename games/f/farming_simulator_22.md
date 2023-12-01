@@ -6,19 +6,19 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 74.00% | ~40,231 |
-| I read Shakespeare and stuff | 62.00% | ~33,707 |
-| Just a sprinkle | 61.00% | ~33,163 |
-| I'm stumped | 59.00% | ~32,076 |
-| Plant get enough | 59.00% | ~32,076 |
-| This is just my weekend vehicle | 57.00% | ~30,989 |
-| It's just the beginning | 57.00% | ~30,989 |
-| Hard work pays off | 52.00% | ~28,270 |
-| It's never too late to farm | 49.00% | ~26,639 |
-| All out of Land | 43.00% | ~23,377 |
-| Field Trip | 42.00% | ~22,834 |
-| I like to switch it up | 39.00% | ~21,203 |
-| Help me to help you | 37.00% | ~20,115 |
+| Own use | 74.00% | ~40,232 |
+| I read Shakespeare and stuff | 62.00% | ~33,708 |
+| Just a sprinkle | 61.00% | ~33,164 |
+| I'm stumped | 59.00% | ~32,077 |
+| Plant get enough | 59.00% | ~32,077 |
+| This is just my weekend vehicle | 57.00% | ~30,990 |
+| It's just the beginning | 57.00% | ~30,990 |
+| Hard work pays off | 52.00% | ~28,271 |
+| It's never too late to farm | 49.00% | ~26,640 |
+| All out of Land | 43.00% | ~23,378 |
+| Field Trip | 42.00% | ~22,835 |
+| I like to switch it up | 39.00% | ~21,204 |
+| Help me to help you | 37.00% | ~20,116 |
 | Ultimutt Pawesomeness | 27.00% | ~14,679 |
 | Van Gogh | 25.00% | ~13,592 |
 | Vehicle fleet | 22.00% | ~11,961 |
@@ -28,7 +28,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Clucky Streak | 15.00% | ~8,155 |
 | The plot thickens | 15.00% | ~8,155 |
 | Large-scale supplier | 15.00% | ~8,155 |
-| That's a wrap | 14.00% | ~7,611 |
+| That's a wrap | 14.00% | ~7,612 |
 | Fix me up | 12.00% | ~6,524 |
 | It's sow easy | 11.00% | ~5,980 |
 | Rock on | 11.00% | ~5,980 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~217 |
 | Raisin the stakes | 0.30% | ~163 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,366 (Ranked 111)  
+Progressed: 54,368 (Ranked 111)  
 Completed: 6 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 6 (0.01%) (Ranked 343)
 | 2023-11-28 | 54,110 | 6 |
 | 2023-11-29 | 54,222 | 6 |
 | 2023-11-30 | 54,333 | 6 |
-| 2023-12-01 | 54,366 | 6 |
+| 2023-12-01 | 54,368 | 6 |
 ## Awards
 Max (Great for Beginners): 5,657  (Ranked 68)  
 Sum: 43,417 (Ranked 33)  

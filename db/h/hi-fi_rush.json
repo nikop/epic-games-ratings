@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4443,
+  "EOS_Progressed": 4444,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -8005,6 +8005,11 @@
       "Time": "2023-12-01T08:06:01.3593606+00:00",
       "NumProgressed": 4443,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-01T12:05:59.0781756+00:00",
+      "NumProgressed": 4444,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8024,7 +8029,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "Ach003",
@@ -8056,7 +8061,7 @@
       "Name": "Time to pay up!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "Ach007",
@@ -8064,7 +8069,7 @@
       "Name": "Who\u0027s the boss now?",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "Ach008",
@@ -8128,7 +8133,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "Ach016",
@@ -8264,7 +8269,7 @@
       "Name": "Perfecter Parry-er!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "Ach033",
@@ -8583,13 +8588,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4443,
+      "Progressed": 4444,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2964,
+      "Progressed": 2965,
       "Completed": 1930
     }
   ],
@@ -8597,8 +8602,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-01T11:05:58.5870668+00:00",
+  "LastChanged_Achievements": "2023-12-01T12:05:59.0781752+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-12-01T10:58:50.8158185+00:00",
-  "LastUpdate_Achievements": "2023-12-01T11:05:58.587156+00:00"
+  "LastUpdate_Ratings": "2023-12-01T11:58:50.8138081+00:00",
+  "LastUpdate_Achievements": "2023-12-01T12:05:59.0782891+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "disco-elysium",
   "Ranking_Rating": 22,
   "Ranking_Popularity": 179,
-  "Ranking_PopularitySum": 254,
+  "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 130,
@@ -1514,9 +1514,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131465,
+  "EOS_Progressed": 131466,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 328,
+  "EOS_NewPlayers": 326,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -23494,6 +23494,11 @@
       "Time": "2023-12-01T11:04:19.7260242+00:00",
       "NumProgressed": 131465,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-01T12:04:19.3259646+00:00",
+      "NumProgressed": 131466,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -23609,7 +23614,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21034
+      "UsersEstimate": 21035
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -23633,7 +23638,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 17090
+      "UsersEstimate": 17091
     },
     {
       "ID": "ACH_COP_STAR",
@@ -23641,7 +23646,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21034
+      "UsersEstimate": 21035
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -23665,7 +23670,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 13146
+      "UsersEstimate": 13147
     },
     {
       "ID": "ACH_GLUTEN",
@@ -23824,15 +23829,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131465,
+      "Progressed": 131466,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-28T12:00:15.5937153+00:00",
-  "LastChanged_Achievements": "2023-12-01T11:04:19.7260239+00:00",
+  "LastChanged_Achievements": "2023-12-01T12:04:19.3259641+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:19.415585+00:00",
-  "LastUpdate_Ratings": "2023-12-01T11:00:53.4448252+00:00",
-  "LastUpdate_Achievements": "2023-12-01T11:04:19.726151+00:00"
+  "LastUpdate_Ratings": "2023-12-01T12:00:52.8283063+00:00",
+  "LastUpdate_Achievements": "2023-12-01T12:04:19.3260923+00:00"
 }

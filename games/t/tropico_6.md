@@ -39,11 +39,11 @@ Number of Ratings: 398  (23.09.2022)
 | One Does Not Simply Stage A Coup | 2.00% | ~124 |
 | Promising Endeavors | 2.00% | ~124 |
 | Sublime Subliminal Supreme | 2.00% | ~124 |
+| Teamplayer | 2.00% | ~124 |
 | Terraformer | 2.00% | ~124 |
 | Curse of the Mummy | 2.00% | ~124 |
 | Chain Gang | 1.00% | ~62 |
 | From Knight to Little Duck | 1.00% | ~62 |
-| Teamplayer | 1.00% | ~62 |
 | Survivor | 0.80% | ~49 |
 | My Ways | 0.30% | ~19 |
 ## Popularity (Based on EOS Achievements)

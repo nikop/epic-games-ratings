@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -41,7 +41,7 @@
   "Tags": [],
   "EOS_Progressed": 945,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -2705,9 +2705,9 @@
       "ID": "GadgetProgress1",
       "SetID": "a9e499d",
       "Name": "Whiz Kid",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 142
     },
     {
       "ID": "GrindingTime1",
@@ -2986,8 +2986,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-01T11:09:04.9195004+00:00",
+  "LastChanged_Achievements": "2023-12-01T12:08:54.1728044+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.4880941+00:00",
-  "LastUpdate_Ratings": "2023-12-01T11:00:37.4622208+00:00",
-  "LastUpdate_Achievements": "2023-12-01T11:09:04.9195428+00:00"
+  "LastUpdate_Ratings": "2023-12-01T12:00:37.2746049+00:00",
+  "LastUpdate_Achievements": "2023-12-01T12:08:54.1728553+00:00"
 }

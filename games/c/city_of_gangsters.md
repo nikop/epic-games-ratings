@@ -5,19 +5,19 @@ Rating: 4.29 (Ranked 847)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~163,182 |
-| Copacetic Coordination | 16.00% | ~56,759 |
+| Corner Clout | 46.00% | ~163,184 |
+| Copacetic Coordination | 16.00% | ~56,760 |
 | Fronting the Money | 15.00% | ~53,212 |
-| The Dawn of Automation | 14.00% | ~49,664 |
-| Extraordinary Logistics | 14.00% | ~49,664 |
+| The Dawn of Automation | 14.00% | ~49,665 |
+| Extraordinary Logistics | 14.00% | ~49,665 |
 | Dirty Money | 13.00% | ~46,117 |
 | Family First | 13.00% | ~46,117 |
-| Cleaning House | 12.00% | ~42,569 |
-| Room in the Back | 12.00% | ~42,569 |
+| Cleaning House | 12.00% | ~42,570 |
+| Room in the Back | 12.00% | ~42,570 |
 | Beating the Heat | 11.00% | ~39,022 |
 | Booze Baron | 11.00% | ~39,022 |
-| Friends on the Force | 10.00% | ~35,474 |
-| Neighborhood Watch | 10.00% | ~35,474 |
+| Friends on the Force | 10.00% | ~35,475 |
+| Neighborhood Watch | 10.00% | ~35,475 |
 | Core Corps | 8.00% | ~28,380 |
 | Sizeable Stash | 8.00% | ~28,380 |
 | Street Fighter | 7.00% | ~24,832 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 847)
 | High Pillow | 0.10% | ~355 |
 | Station Master | 0.10% | ~355 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 354,744 (Ranked 49)  
+Progressed: 354,748 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,11 +311,11 @@ Completed: 7 (0.00%) (Ranked 363)
 | 2023-11-28 | 354,460 | 7 |
 | 2023-11-29 | 354,562 | 7 |
 | 2023-11-30 | 354,687 | 7 |
-| 2023-12-01 | 354,744 | 7 |
+| 2023-12-01 | 354,748 | 7 |
 ## Awards
 Max (Great for Beginners): 50  (Ranked 437)  
-Sum: 201 (Ranked 399)  
-Diff (max vs sum): 38  
+Sum: 221 (Ranked 394)  
+Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 50 |
@@ -325,6 +325,7 @@ Diff (max vs sum): 38
 | This game has Diverse Characters | 27 |
 | This game has Quickly Understood Controls | 25 |
 | This game has Easy Combat | 25 |
+| This game has Amazing Storytelling | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -434,4 +435,4 @@ Diff (max vs sum): 38
 | 2023-11-26 | 4.29 | 50 | 197 |
 | 2023-11-29 | 4.29 | 50 | 198 |
 | 2023-11-30 | 4.28 | 50 | 200 |
-| 2023-12-01 | 4.29 | 50 | 201 |
+| 2023-12-01 | 4.29 | 50 | 221 |

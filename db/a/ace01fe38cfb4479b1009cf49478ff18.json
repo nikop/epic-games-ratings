@@ -4,7 +4,7 @@
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -742,9 +742,9 @@
       "ID": "ach_chapter_complete_2",
       "SetID": "d499apg",
       "Name": "Chapter II - Complete",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ach_chapter_complete_3",
@@ -837,8 +837,8 @@
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-01T11:09:13.4833262+00:00",
+  "LastChanged_Achievements": "2023-12-01T12:09:02.4722687+00:00",
   "LastUpdate_AppInfo": "2023-11-24T13:56:58.3392935+00:00",
-  "LastUpdate_Ratings": "2023-12-01T10:59:04.6125908+00:00",
-  "LastUpdate_Achievements": "2023-12-01T11:09:13.4833352+00:00"
+  "LastUpdate_Ratings": "2023-12-01T11:59:04.6218943+00:00",
+  "LastUpdate_Achievements": "2023-12-01T12:09:02.4722797+00:00"
 }

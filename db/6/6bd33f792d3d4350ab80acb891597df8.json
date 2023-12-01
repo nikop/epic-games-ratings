@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 377,
+  "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -446,9 +446,9 @@
       "ID": "CgkIxYDzrbcPEAIQBw",
       "SetID": "4egpam7",
       "Name": "Cave Exploration",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCA",
@@ -494,17 +494,17 @@
       "ID": "CgkIxYDzrbcPEAIQDQ",
       "SetID": "4egpam7",
       "Name": "Control Pests",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDg",
       "SetID": "4egpam7",
       "Name": "Fireman",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDw",
@@ -645,8 +645,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-12-01T11:05:53.3326225+00:00",
+  "LastChanged_Achievements": "2023-12-01T12:05:53.762947+00:00",
   "LastUpdate_AppInfo": "2023-11-29T01:48:52.4139061+00:00",
-  "LastUpdate_Ratings": "2023-12-01T10:57:04.8482249+00:00",
-  "LastUpdate_Achievements": "2023-12-01T11:05:53.3326426+00:00"
+  "LastUpdate_Ratings": "2023-12-01T11:57:07.5278415+00:00",
+  "LastUpdate_Achievements": "2023-12-01T12:05:53.7629709+00:00"
 }

@@ -11233,10 +11233,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 49561,
       "NumberOfAwardsMax": 24781
+    },
+    {
+      "Time": "2023-12-01T11:57:35.7751017+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 49564,
+      "NumberOfAwardsMax": 24781
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49561,
+  "NumberOfAwards": 49564,
   "NumberOfAwardsMax": 24781,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11256,7 +11262,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 1069
+      "Count": 1072
     },
     {
       "Text": "This game has Amazing Characters",
@@ -11313,9 +11319,9 @@
       "Count": 826
     }
   ],
-  "EOS_Progressed": 303676,
+  "EOS_Progressed": 303678,
   "EOS_Completed": 519,
-  "EOS_NewPlayers": 779,
+  "EOS_NewPlayers": 778,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -35538,6 +35544,11 @@
       "Time": "2023-12-01T11:09:34.2859305+00:00",
       "NumProgressed": 303676,
       "NumCompleted": 519
+    },
+    {
+      "Time": "2023-12-01T12:09:23.0133321+00:00",
+      "NumProgressed": 303678,
+      "NumCompleted": 519
     }
   ],
   "TotalAchievements": 45,
@@ -35557,7 +35568,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33404
+      "UsersEstimate": 33405
     },
     {
       "ID": "PFA_11",
@@ -35565,7 +35576,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33404
+      "UsersEstimate": 33405
     },
     {
       "ID": "PFA_12",
@@ -35573,7 +35584,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33404
+      "UsersEstimate": 33405
     },
     {
       "ID": "PFA_13",
@@ -35581,7 +35592,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 33404
+      "UsersEstimate": 33405
     },
     {
       "ID": "PFA_14",
@@ -35653,7 +35664,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33404
+      "UsersEstimate": 33405
     },
     {
       "ID": "PFA_22",
@@ -35805,7 +35816,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33404
+      "UsersEstimate": 33405
     },
     {
       "ID": "PFA_4",
@@ -35877,7 +35888,7 @@
       "Name": "First Class Student",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45551
+      "UsersEstimate": 45552
     },
     {
       "ID": "PFA_7",
@@ -35908,16 +35919,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303676,
+      "Progressed": 303678,
       "Completed": 519
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-12-01T09:57:45.1360868+00:00",
-  "LastChanged_Achievements": "2023-12-01T11:09:34.28593+00:00",
+  "LastChanged": "2023-12-01T11:57:35.7751015+00:00",
+  "LastChanged_Achievements": "2023-12-01T12:09:23.0133318+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7292094+00:00",
-  "LastUpdate_Ratings": "2023-12-01T10:57:33.9024102+00:00",
-  "LastUpdate_Achievements": "2023-12-01T11:09:34.2860459+00:00"
+  "LastUpdate_Ratings": "2023-12-01T11:57:35.7751023+00:00",
+  "LastUpdate_Achievements": "2023-12-01T12:09:23.0134749+00:00"
 }

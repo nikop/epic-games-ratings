@@ -15,32 +15,32 @@ Rating: 4.54 (Ranked 528)
 | Welcome To Hell-A | 2.00% | ~14,567 |
 | One of Us | 2.00% | ~1,078 |
 | Pork Chopped | 2.00% | ~1,078 |
-| Dr. Reed, I Presume? | 1.00% | ~7,283 |
-| Anger Management | 1.00% | ~7,283 |
-| Perks of the Job | 1.00% | ~7,283 |
-| Bookworm | 1.00% | ~7,283 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,283 |
-| But Doctor, I am Butcho | 1.00% | ~7,283 |
-| Slayer Squad | 1.00% | ~7,283 |
-| Can't Handle the Truth | 1.00% | ~7,283 |
-| Like Riding a Bike | 1.00% | ~7,283 |
-| Friends Like These | 1.00% | ~7,283 |
-| Apex Predator | 1.00% | ~7,283 |
-| Zombologist | 1.00% | ~7,283 |
-| Ooh, Shiny! | 1.00% | ~7,283 |
-| A Patton Emerges | 1.00% | ~7,283 |
-| I Am the Resurrection | 1.00% | ~7,283 |
-| Stacking the Deck | 1.00% | ~7,283 |
-| Our True Nature | 1.00% | ~7,283 |
-| This is My Weapon | 1.00% | ~7,283 |
+| Dr. Reed, I Presume? | 1.00% | ~7,284 |
+| Anger Management | 1.00% | ~7,284 |
+| Perks of the Job | 1.00% | ~7,284 |
+| Bookworm | 1.00% | ~7,284 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,284 |
+| But Doctor, I am Butcho | 1.00% | ~7,284 |
+| Slayer Squad | 1.00% | ~7,284 |
+| Can't Handle the Truth | 1.00% | ~7,284 |
+| Like Riding a Bike | 1.00% | ~7,284 |
+| Friends Like These | 1.00% | ~7,284 |
+| Apex Predator | 1.00% | ~7,284 |
+| Zombologist | 1.00% | ~7,284 |
+| Ooh, Shiny! | 1.00% | ~7,284 |
+| A Patton Emerges | 1.00% | ~7,284 |
+| I Am the Resurrection | 1.00% | ~7,284 |
+| Stacking the Deck | 1.00% | ~7,284 |
+| Our True Nature | 1.00% | ~7,284 |
+| This is My Weapon | 1.00% | ~7,284 |
 | Making Your Mark | 0.90% | ~6,555 |
 | Max Headroom | 0.90% | ~6,555 |
 | Humanity Distilled | 0.80% | ~5,827 |
 | Down with the Sickness | 0.80% | ~5,827 |
-| Not Even My Final Form | 0.70% | ~5,098 |
-| Jumbo Keyring | 0.70% | ~5,098 |
-| Go, Bobcats! | 0.70% | ~5,098 |
-| Rising Star | 0.70% | ~5,098 |
+| Not Even My Final Form | 0.70% | ~5,099 |
+| Jumbo Keyring | 0.70% | ~5,099 |
+| Go, Bobcats! | 0.70% | ~5,099 |
+| Rising Star | 0.70% | ~5,099 |
 | Make it So | 0.50% | ~3,642 |
 | On Safari | 0.50% | ~3,642 |
 | Smorgasbord | 0.50% | ~3,642 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 528)
 | Bucket List | 0.10% | ~728 |
 | Wilhelm | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,344 (Ranked 21)  
+Progressed: 728,362 (Ranked 21)  
 Completed: 2,458 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 2,458 (0.34%) (Ranked 231)
 | 2023-11-28 | 727,374 | 2,447 |
 | 2023-11-29 | 727,809 | 2,450 |
 | 2023-11-30 | 728,231 | 2,456 |
-| 2023-12-01 | 728,344 | 2,458 |
+| 2023-12-01 | 728,362 | 2,458 |
 ## Awards
 Max (Great Boss Battles): 7,845  (Ranked 49)  
 Sum: 12,022 (Ranked 83)  

@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Nice Glass | 18.00% | ~6 |
 | Lost Cat | 15.00% | ~5 |
-| Alcoholic | 9.00% | ~3 |
+| Alcoholic | 12.00% | ~4 |
+| Underground | 12.00% | ~4 |
 | Chapter 1 | 9.00% | ~3 |
-| Underground | 9.00% | ~3 |
 | Piglet | 6.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 34 (Ranked 528)  

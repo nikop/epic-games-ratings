@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 51,
+  "Ranking_EOS_NewPlayers": 50,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -7265,11 +7265,17 @@
       "Rating": 3.99,
       "NumberOfAwards": 27641,
       "NumberOfAwardsMax": 4858
+    },
+    {
+      "Time": "2023-12-01T12:02:51.5246414+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27642,
+      "NumberOfAwardsMax": 4859
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27641,
-  "NumberOfAwardsMax": 4858,
+  "NumberOfAwards": 27642,
+  "NumberOfAwardsMax": 4859,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -7288,7 +7294,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4858
+      "Count": 4859
     },
     {
       "Text": "This game has Easy Combat",
@@ -7321,10 +7327,10 @@
       "Count": 3789
     }
   ],
-  "EOS_Progressed": 143152,
+  "EOS_Progressed": 143167,
   "EOS_Completed": 290,
-  "EOS_NewPlayers": 1777,
-  "EOS_NewCompleters": 86,
+  "EOS_NewPlayers": 1783,
+  "EOS_NewCompleters": 85,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -30616,6 +30622,11 @@
       "Time": "2023-12-01T11:05:02.1329596+00:00",
       "NumProgressed": 143152,
       "NumCompleted": 290
+    },
+    {
+      "Time": "2023-12-01T12:05:01.9560349+00:00",
+      "NumProgressed": 143167,
+      "NumCompleted": 290
     }
   ],
   "TotalAchievements": 112,
@@ -30707,7 +30718,7 @@
       "Name": "One Easy Payment",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5726
+      "UsersEstimate": 5727
     },
     {
       "ID": "bigsale02",
@@ -30795,7 +30806,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10021
+      "UsersEstimate": 10022
     },
     {
       "ID": "chest02",
@@ -30843,7 +30854,7 @@
       "Name": "The Free Encyclopedia",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "collection05",
@@ -30859,7 +30870,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8589
+      "UsersEstimate": 8590
     },
     {
       "ID": "commonres02",
@@ -30979,7 +30990,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5726
+      "UsersEstimate": 5727
     },
     {
       "ID": "energy02",
@@ -31003,7 +31014,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5726
+      "UsersEstimate": 5727
     },
     {
       "ID": "expansion02",
@@ -31099,7 +31110,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8589
+      "UsersEstimate": 8590
     },
     {
       "ID": "gold02",
@@ -31211,7 +31222,7 @@
       "Name": "Budding Merchant",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5726
+      "UsersEstimate": 5727
     },
     {
       "ID": "level02",
@@ -31355,7 +31366,7 @@
       "Name": "Eternal Crusade",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "quest04",
@@ -31363,7 +31374,7 @@
       "Name": "To Hell and Back",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "rareres01",
@@ -31401,9 +31412,9 @@
       "ID": "sell01",
       "SetID": "anfd17p",
       "Name": "Capitalism Ho!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5726
+      "UsersEstimate": 7158
     },
     {
       "ID": "sell02",
@@ -31419,7 +31430,7 @@
       "Name": "Cash Only Please",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "sia_a",
@@ -31441,9 +31452,9 @@
       "ID": "tutorial",
       "SetID": "anfd17p",
       "Name": "Titan\u0027s First Steps",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 8589
+      "UsersEstimate": 10022
     },
     {
       "ID": "twinenchant01",
@@ -31491,7 +31502,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5726
+      "UsersEstimate": 5727
     },
     {
       "ID": "workers02",
@@ -31522,15 +31533,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 143152,
+      "Progressed": 143167,
       "Completed": 290
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-12-01T03:02:39.3799958+00:00",
-  "LastChanged_Achievements": "2023-12-01T11:05:02.1329591+00:00",
+  "LastChanged": "2023-12-01T12:02:51.5246412+00:00",
+  "LastChanged_Achievements": "2023-12-01T12:05:01.9560347+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-12-01T11:02:53.0283889+00:00",
-  "LastUpdate_Achievements": "2023-12-01T11:05:02.1331731+00:00"
+  "LastUpdate_Ratings": "2023-12-01T12:02:51.5246419+00:00",
+  "LastUpdate_Achievements": "2023-12-01T12:05:01.9562302+00:00"
 }

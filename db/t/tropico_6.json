@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 291,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -13952,9 +13952,9 @@
       "ID": "ACH_TEAMPLAYER",
       "SetID": "1p8ab95",
       "Name": "Teamplayer",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_TERRAFORMER",
@@ -14040,8 +14040,8 @@
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-01T03:57:15.3670548+00:00",
-  "LastChanged_Achievements": "2023-12-01T11:09:35.4536683+00:00",
+  "LastChanged_Achievements": "2023-12-01T12:09:24.2792475+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:22.1116703+00:00",
-  "LastUpdate_Ratings": "2023-12-01T10:57:19.5810091+00:00",
-  "LastUpdate_Achievements": "2023-12-01T11:09:35.4537681+00:00"
+  "LastUpdate_Ratings": "2023-12-01T11:57:21.538603+00:00",
+  "LastUpdate_Achievements": "2023-12-01T12:09:24.2793452+00:00"
 }

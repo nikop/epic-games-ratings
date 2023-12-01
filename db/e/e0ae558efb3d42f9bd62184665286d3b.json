@@ -4,7 +4,7 @@
   "ProductSlug": "little-brother-jim-272dc6",
   "Ranking_EOS_Progress": 770,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 495,
+  "Ranking_EOS_NewPlayers": 494,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-08-24T12:00:00+00:00",
@@ -82,8 +82,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-04T10:00:48.4970958+00:00",
-  "LastChanged_Achievements": "2023-12-01T11:09:01.7265092+00:00",
+  "LastChanged_Achievements": "2023-12-01T12:08:51.0771143+00:00",
   "LastUpdate_AppInfo": "2023-11-24T18:57:06.8318087+00:00",
-  "LastUpdate_Ratings": "2023-12-01T10:59:07.5273709+00:00",
-  "LastUpdate_Achievements": "2023-12-01T11:09:01.7265183+00:00"
+  "LastUpdate_Ratings": "2023-12-01T11:59:07.5317238+00:00",
+  "LastUpdate_Achievements": "2023-12-01T12:08:51.0771199+00:00"
 }

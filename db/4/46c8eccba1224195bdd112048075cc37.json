@@ -2,9 +2,9 @@
   "ID": "46c8eccba1224195bdd112048075cc37",
   "Name": "One More Dungeon 2",
   "ProductSlug": "one-more-dungeon-2-532228",
-  "Ranking_EOS_Progress": 401,
+  "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 442,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 165,
+  "EOS_Progressed": 166,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.61,
+  "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
     {
       "Time": "2023-06-10T02:13:27.744268+00:00",
@@ -779,6 +779,11 @@
       "Time": "2023-11-26T13:08:27.9921448+00:00",
       "NumProgressed": 165,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-01T12:08:05.3588164+00:00",
+      "NumProgressed": 166,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 20,
@@ -804,17 +809,17 @@
       "ID": "ChangeClass",
       "SetID": "7g1kpc8",
       "Name": "Metamorphosis",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 90
     },
     {
       "ID": "CollectCurses",
       "SetID": "7g1kpc8",
       "Name": "Unlucky",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "CollectGold",
@@ -846,7 +851,7 @@
       "Name": "First Blood",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "FirstBoss",
@@ -862,7 +867,7 @@
       "Name": "Start of the Path",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "FourthBoss",
@@ -878,7 +883,7 @@
       "Name": "Royal Beetle",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "KingBoss",
@@ -892,9 +897,9 @@
       "ID": "Leprechaun",
       "SetID": "7g1kpc8",
       "Name": "Leprechaun",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "MonsterSlayer",
@@ -918,7 +923,7 @@
       "Name": "Detective",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "SecondBoss",
@@ -940,23 +945,23 @@
       "ID": "ThirdBoss",
       "SetID": "7g1kpc8",
       "Name": "Flower",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 70,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 165,
+      "Progressed": 166,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-12-01T11:07:04.9475636+00:00",
+  "LastChanged_Achievements": "2023-12-01T12:08:05.358816+00:00",
   "LastUpdate_AppInfo": "2023-11-27T19:57:23.0430304+00:00",
-  "LastUpdate_Ratings": "2023-12-01T10:58:56.6760389+00:00",
-  "LastUpdate_Achievements": "2023-12-01T11:07:04.9475793+00:00"
+  "LastUpdate_Ratings": "2023-12-01T11:58:56.744309+00:00",
+  "LastUpdate_Achievements": "2023-12-01T12:08:05.3588327+00:00"
 }

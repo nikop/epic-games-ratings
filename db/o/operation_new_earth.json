@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1938,
+  "EOS_Progressed": 1939,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7338,6 +7338,11 @@
       "Time": "2023-12-01T10:06:08.3347932+00:00",
       "NumProgressed": 1938,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-01T12:06:25.9606017+00:00",
+      "NumProgressed": 1939,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7429,7 +7434,7 @@
       "Name": "Keeping Busy",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "objective_headquarters_15",
@@ -7589,7 +7594,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -7605,7 +7610,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -7652,7 +7657,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1938,
+      "Progressed": 1939,
       "Completed": 1
     }
   ],
@@ -7660,8 +7665,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-21T23:00:15.982699+00:00",
-  "LastChanged_Achievements": "2023-12-01T11:06:25.6959448+00:00",
+  "LastChanged_Achievements": "2023-12-01T12:06:25.9606012+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:27.1285109+00:00",
   "LastUpdate_Ratings": "2023-12-01T11:02:36.8037128+00:00",
-  "LastUpdate_Achievements": "2023-12-01T11:06:25.6959941+00:00"
+  "LastUpdate_Achievements": "2023-12-01T12:06:25.9606587+00:00"
 }

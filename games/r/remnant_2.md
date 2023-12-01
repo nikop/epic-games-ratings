@@ -6,9 +6,9 @@ Rating: 4.75 (Ranked 150)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Killing Jar | 0.70% | ~1,622 |
-| Regicide | 0.70% | ~76 |
-| Master of the Dark Arts | 0.70% | ~76 |
-| First of Many | 0.60% | ~1,390 |
+| Regicide | 0.70% | ~77 |
+| Master of the Dark Arts | 0.70% | ~77 |
+| First of Many | 0.60% | ~1,391 |
 | Not Your Average Trait | 0.50% | ~1,159 |
 | Expanding Horizons | 0.40% | ~927 |
 | Gleaming the Cube | 0.40% | ~927 |
@@ -28,29 +28,29 @@ Rating: 4.75 (Ranked 150)
 | Make Some Room | 0.30% | ~695 |
 | Good, But Could Be Better! | 0.30% | ~695 |
 | Trait Chaser | 0.30% | ~695 |
-| Crafty | 0.20% | ~463 |
-| Ghost in the Machine | 0.20% | ~463 |
-| Chaos | 0.20% | ~463 |
-| Traitor | 0.20% | ~463 |
-| Forever is a Long Time Coming | 0.20% | ~463 |
-| Power Surge | 0.20% | ~463 |
-| The God Gambit | 0.20% | ~463 |
-| Dark Designs | 0.20% | ~463 |
-| Madman's Paradise | 0.20% | ~463 |
-| The Agenda | 0.20% | ~463 |
-| Tall Tales | 0.20% | ~463 |
-| Bad Moon Rising | 0.20% | ~463 |
-| Strapped | 0.20% | ~463 |
-| Edgelord | 0.20% | ~463 |
-| Cutting Edge | 0.20% | ~463 |
-| The Web | 0.20% | ~463 |
-| Scrap Collector | 0.20% | ~463 |
-| Scrap Hoarder | 0.20% | ~463 |
-| All These Traits� | 0.20% | ~463 |
-| Carnage in C-Minor | 0.20% | ~463 |
-| The Ultimate Weapon | 0.20% | ~463 |
-| No One Should Have All That Power | 0.20% | ~463 |
-| Transmutate | 0.20% | ~463 |
+| Crafty | 0.20% | ~464 |
+| Ghost in the Machine | 0.20% | ~464 |
+| Chaos | 0.20% | ~464 |
+| Traitor | 0.20% | ~464 |
+| Forever is a Long Time Coming | 0.20% | ~464 |
+| Power Surge | 0.20% | ~464 |
+| The God Gambit | 0.20% | ~464 |
+| Dark Designs | 0.20% | ~464 |
+| Madman's Paradise | 0.20% | ~464 |
+| The Agenda | 0.20% | ~464 |
+| Tall Tales | 0.20% | ~464 |
+| Bad Moon Rising | 0.20% | ~464 |
+| Strapped | 0.20% | ~464 |
+| Edgelord | 0.20% | ~464 |
+| Cutting Edge | 0.20% | ~464 |
+| The Web | 0.20% | ~464 |
+| Scrap Collector | 0.20% | ~464 |
+| Scrap Hoarder | 0.20% | ~464 |
+| All These Traits� | 0.20% | ~464 |
+| Carnage in C-Minor | 0.20% | ~464 |
+| The Ultimate Weapon | 0.20% | ~464 |
+| No One Should Have All That Power | 0.20% | ~464 |
+| Transmutate | 0.20% | ~464 |
 | Succession | 0.20% | ~22 |
 | You Shall Pass | 0.20% | ~22 |
 | Only Human | 0.10% | ~232 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 150)
 | Maxed Out! | 0.10% | ~232 |
 | A Foul Feast | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,732 (Ranked 69)  
+Progressed: 231,767 (Ranked 69)  
 Completed: 544 (0.23%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 544 (0.23%) (Ranked 250)
 | 2023-11-28 | 230,188 | 541 |
 | 2023-11-29 | 230,694 | 542 |
 | 2023-11-30 | 231,406 | 542 |
-| 2023-12-01 | 231,732 | 544 |
+| 2023-12-01 | 231,767 | 544 |
 ## Awards
 Max (Great Boss Battles): 2,533  (Ranked 102)  
 Sum: 6,221 (Ranked 129)  

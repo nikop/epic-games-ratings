@@ -6,19 +6,19 @@ Rating: 4.76 (Ranked 129)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 16.00% | ~48,588 |
-| First Class Student | 15.00% | ~45,551 |
+| First Class Student | 15.00% | ~45,552 |
 | Troll with the Punches | 14.00% | ~42,515 |
 | A Keen Sense of Spell | 13.00% | ~39,478 |
 | That's a Keeper | 13.00% | ~39,478 |
 | The Defender of Dragons | 12.00% | ~36,441 |
 | Loom for Improvement | 12.00% | ~36,441 |
 | A Talent for Spending | 12.00% | ~36,441 |
-| Grappling with a Graphorn | 11.00% | ~33,404 |
-| The One Who Mastered Memories | 11.00% | ~33,404 |
-| The Hallowed Hero | 11.00% | ~33,404 |
-| The Hero of Hogwarts | 11.00% | ~33,404 |
-| Challenge Accepted | 11.00% | ~33,404 |
-| Coasting Along | 11.00% | ~33,404 |
+| Grappling with a Graphorn | 11.00% | ~33,405 |
+| The One Who Mastered Memories | 11.00% | ~33,405 |
+| The Hallowed Hero | 11.00% | ~33,405 |
+| The Hero of Hogwarts | 11.00% | ~33,405 |
+| Challenge Accepted | 11.00% | ~33,405 |
+| Coasting Along | 11.00% | ~33,405 |
 | Followed the Butterflies | 10.00% | ~30,368 |
 | Rising From the Ashes | 10.00% | ~30,368 |
 | A Sallow Grave | 9.00% | ~27,331 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 129)
 | The Nature of the Beast | 0.70% | ~2,126 |
 | Collector's Edition | 0.30% | ~911 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,676 (Ranked 54)  
+Progressed: 303,678 (Ranked 54)  
 Completed: 519 (0.17%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,10 +276,10 @@ Completed: 519 (0.17%) (Ranked 266)
 | 2023-11-28 | 303,515 | 519 |
 | 2023-11-29 | 303,596 | 519 |
 | 2023-11-30 | 303,661 | 519 |
-| 2023-12-01 | 303,676 | 519 |
+| 2023-12-01 | 303,678 | 519 |
 ## Awards
 Max (Character Customization): 24,781  (Ranked 17)  
-Sum: 49,561 (Ranked 30)  
+Sum: 49,564 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -293,7 +293,7 @@ Diff (max vs sum): -13
 | This game has Amazing Characters | 1,242 |
 | This game is Highly Recommended | 1,221 |
 | This game has Quickly Understood Controls | 1,185 |
-| This game has Beautiful Visuals | 1,069 |
+| This game has Beautiful Visuals | 1,072 |
 | This game has a Creative Community | 826 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -550,4 +550,4 @@ Diff (max vs sum): -13
 | 2023-11-28 | 4.76 | 24,728 | 49,391 |
 | 2023-11-29 | 4.76 | 24,755 | 49,466 |
 | 2023-11-30 | 4.76 | 24,781 | 49,552 |
-| 2023-12-01 | 4.76 | 24,781 | 49,561 |
+| 2023-12-01 | 4.76 | 24,781 | 49,564 |

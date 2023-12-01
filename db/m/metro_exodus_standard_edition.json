@@ -2,12 +2,12 @@
   "ID": "snapdragon",
   "Name": "Metro Exodus Standard Edition",
   "ProductSlug": "metro-exodus",
-  "Ranking_Rating": 99,
+  "Ranking_Rating": 106,
   "Ranking_Popularity": 62,
   "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 770,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 495,
+  "Ranking_EOS_NewPlayers": 494,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2019-02-15T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.79,
+  "Rating": 4.78,
   "NumberOfRatings": 7529,
   "RatingHistory": [
     {
@@ -5254,6 +5254,12 @@
       "Rating": 4.79,
       "NumberOfAwards": 11339,
       "NumberOfAwardsMax": 6125
+    },
+    {
+      "Time": "2023-12-01T12:02:51.5248457+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 11339,
+      "NumberOfAwardsMax": 6125
     }
   ],
   "ReviewsDisabled": false,
@@ -5353,9 +5359,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:26.6430541+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.9783491+00:00",
-  "LastChanged": "2023-11-30T21:03:10.1103037+00:00",
-  "LastChanged_Achievements": "2023-12-01T11:04:19.8830239+00:00",
+  "LastChanged": "2023-12-01T12:02:51.5248456+00:00",
+  "LastChanged_Achievements": "2023-12-01T12:04:19.4215603+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7826474+00:00",
-  "LastUpdate_Ratings": "2023-12-01T11:02:53.1273362+00:00",
-  "LastUpdate_Achievements": "2023-12-01T11:04:19.8830272+00:00"
+  "LastUpdate_Ratings": "2023-12-01T12:02:51.5248459+00:00",
+  "LastUpdate_Achievements": "2023-12-01T12:04:19.421564+00:00"
 }

@@ -433,9 +433,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 43183,
+  "EOS_Progressed": 43185,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13848,6 +13848,11 @@
       "Time": "2023-12-01T11:06:35.7306451+00:00",
       "NumProgressed": 43183,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-01T12:06:35.9415416+00:00",
+      "NumProgressed": 43185,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -13875,7 +13880,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -13923,7 +13928,7 @@
       "Name": "The Interloper",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -14035,7 +14040,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "JUSTCOUNTER",
@@ -14163,7 +14168,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "PARKOUR_TIME",
@@ -14195,7 +14200,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3886
+      "UsersEstimate": 3887
     },
     {
       "ID": "SPRING_ALL",
@@ -14282,22 +14287,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 43183,
+      "Progressed": 43185,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 8020,
-      "Completed": 8020
+      "Progressed": 8022,
+      "Completed": 8022
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-11-29T18:00:42.1149813+00:00",
-  "LastChanged_Achievements": "2023-12-01T11:06:35.7306449+00:00",
+  "LastChanged_Achievements": "2023-12-01T12:06:35.941541+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:10.8816772+00:00",
-  "LastUpdate_Ratings": "2023-12-01T10:57:25.2783539+00:00",
-  "LastUpdate_Achievements": "2023-12-01T11:06:35.7307295+00:00"
+  "LastUpdate_Ratings": "2023-12-01T11:57:27.1220796+00:00",
+  "LastUpdate_Achievements": "2023-12-01T12:06:35.9416418+00:00"
 }
