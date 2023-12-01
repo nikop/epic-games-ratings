@@ -2,13 +2,13 @@
   "ID": "b47d3947087147baa8e1665680aefc11",
   "Name": "Tower of Fantasy",
   "ProductSlug": "tower-of-fantasy",
-  "Ranking_Rating": 783,
+  "Ranking_Rating": 791,
   "Ranking_Popularity": 248,
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 766,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 495,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-05-11T14:00:00+00:00",
     "PcReleaseDate": "2021-12-16T19:36:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.36,
+  "Rating": 4.35,
   "RatingHistory": [
     {
       "Time": "2023-05-19T13:03:09.3101375+00:00",
@@ -2287,10 +2287,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 708,
       "NumberOfAwardsMax": 328
+    },
+    {
+      "Time": "2023-12-01T02:57:09.2936925+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 710,
+      "NumberOfAwardsMax": 328
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 708,
+  "NumberOfAwards": 710,
   "NumberOfAwardsMax": 328,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2310,7 +2316,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 70
+      "Count": 71
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2340,7 +2346,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game has a Kind Community",
@@ -2373,8 +2379,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-11T14:59:22.8545223+00:00",
   "FirstSeenRating": "2023-05-19T13:03:09.3101373+00:00",
-  "LastChanged": "2023-12-01T01:54:03.8853491+00:00",
+  "LastChanged": "2023-12-01T02:57:09.2936923+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:30.2288224+00:00",
-  "LastUpdate_Ratings": "2023-12-01T01:54:03.8853496+00:00",
-  "LastUpdate_Achievements": "2023-12-01T02:06:03.3523308+00:00"
+  "LastUpdate_Ratings": "2023-12-01T02:57:09.2936928+00:00",
+  "LastUpdate_Achievements": "2023-12-01T03:08:46.9822629+00:00"
 }

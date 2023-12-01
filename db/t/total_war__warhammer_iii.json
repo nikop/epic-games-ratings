@@ -2,13 +2,13 @@
   "ID": "dda64c2956b54f1ba3cd97f6aaee775f",
   "Name": "Total War: WARHAMMER III",
   "ProductSlug": "total-war-warhammer-3",
-  "Ranking_Rating": 201,
+  "Ranking_Rating": 215,
   "Ranking_Popularity": 110,
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 766,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 495,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-02-17T06:00:00+00:00",
     "PcReleaseDate": "2022-02-17T06:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.71,
+  "Rating": 4.7,
   "NumberOfRatings": 882,
   "RatingHistory": [
     {
@@ -8618,10 +8618,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 7882,
       "NumberOfAwardsMax": 2120
+    },
+    {
+      "Time": "2023-12-01T02:57:48.5951015+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 7885,
+      "NumberOfAwardsMax": 2120
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7882,
+  "NumberOfAwards": 7885,
   "NumberOfAwardsMax": 2120,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8689,7 +8695,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 428
+      "Count": 429
     },
     {
       "Text": "This game has Unique Visuals",
@@ -8701,7 +8707,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 540
+      "Count": 542
     }
   ],
   "EOS_Progressed": 0,
@@ -8715,8 +8721,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:31.8340221+00:00",
-  "LastChanged": "2023-11-30T19:57:55.2394714+00:00",
+  "LastChanged": "2023-12-01T02:57:48.5951013+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:41.3707234+00:00",
-  "LastUpdate_Ratings": "2023-12-01T01:54:40.0805784+00:00",
-  "LastUpdate_Achievements": "2023-12-01T02:01:01.0653666+00:00"
+  "LastUpdate_Ratings": "2023-12-01T02:57:48.5951019+00:00",
+  "LastUpdate_Achievements": "2023-12-01T03:04:00.0698408+00:00"
 }

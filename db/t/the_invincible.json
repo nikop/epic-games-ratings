@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -1477,9 +1477,9 @@
       "ID": "AchvReachCondor",
       "SetID": "1hj060c",
       "Name": "The Condor",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 122
     },
     {
       "ID": "AchvSurvivors",
@@ -1493,9 +1493,9 @@
       "ID": "AchvTeleprobeOperator",
       "SetID": "1hj060c",
       "Name": "Flying Objects Operator",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 56
     },
     {
       "ID": "AchvTheEnd",
@@ -1524,8 +1524,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-01T02:05:31.530389+00:00",
+  "LastChanged_Achievements": "2023-12-01T03:08:12.8455499+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-12-01T01:56:26.1414336+00:00",
-  "LastUpdate_Achievements": "2023-12-01T02:05:31.5304088+00:00"
+  "LastUpdate_Ratings": "2023-12-01T02:59:44.9749065+00:00",
+  "LastUpdate_Achievements": "2023-12-01T03:08:12.8455743+00:00"
 }

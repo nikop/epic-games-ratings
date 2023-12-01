@@ -7095,9 +7095,9 @@
       "Count": 503
     }
   ],
-  "EOS_Progressed": 728258,
+  "EOS_Progressed": 728270,
   "EOS_Completed": 2456,
-  "EOS_NewPlayers": 4780,
+  "EOS_NewPlayers": 4766,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -32815,6 +32815,11 @@
       "Time": "2023-12-01T02:05:14.2838672+00:00",
       "NumProgressed": 728258,
       "NumCompleted": 2456
+    },
+    {
+      "Time": "2023-12-01T03:07:54.1066918+00:00",
+      "NumProgressed": 728270,
+      "NumCompleted": 2456
     }
   ],
   "TotalAchievements": 51,
@@ -33168,9 +33173,9 @@
       "ID": "ach_well_known_survivor",
       "SetID": "7km39fm",
       "Name": "Rising Star",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 4370
+      "UsersEstimate": 5098
     },
     {
       "ID": "ach_well_trained",
@@ -33233,13 +33238,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 728258,
+      "Progressed": 728270,
       "Completed": 2456
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 53800,
+      "Progressed": 53812,
       "Completed": 36618
     }
   ],
@@ -33247,8 +33252,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-30T18:59:18.4572925+00:00",
-  "LastChanged_Achievements": "2023-12-01T02:05:14.283867+00:00",
+  "LastChanged_Achievements": "2023-12-01T03:07:54.1066913+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-12-01T01:55:42.462589+00:00",
-  "LastUpdate_Achievements": "2023-12-01T02:05:14.2839902+00:00"
+  "LastUpdate_Ratings": "2023-12-01T02:58:57.3212486+00:00",
+  "LastUpdate_Achievements": "2023-12-01T03:07:54.106819+00:00"
 }

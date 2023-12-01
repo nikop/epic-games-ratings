@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -960,9 +960,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 228353,
+  "EOS_Progressed": 228355,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 489,
+  "EOS_NewPlayers": 490,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25505,6 +25505,11 @@
       "Time": "2023-12-01T02:06:16.9437892+00:00",
       "NumProgressed": 228353,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-01T03:09:01.6222737+00:00",
+      "NumProgressed": 228355,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -25564,7 +25569,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22835
+      "UsersEstimate": 22836
     },
     {
       "ID": "ACH_BASE_17",
@@ -25764,7 +25769,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 27402
+      "UsersEstimate": 27403
     },
     {
       "ID": "ACH_BASE_8",
@@ -25787,7 +25792,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 228353,
+      "Progressed": 228355,
       "Completed": 5
     }
   ],
@@ -25795,8 +25800,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-11-30T08:58:10.4059133+00:00",
-  "LastChanged_Achievements": "2023-12-01T02:06:16.943789+00:00",
+  "LastChanged_Achievements": "2023-12-01T03:09:01.6222732+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:35.278824+00:00",
-  "LastUpdate_Ratings": "2023-12-01T01:55:30.259254+00:00",
-  "LastUpdate_Achievements": "2023-12-01T02:06:16.9439246+00:00"
+  "LastUpdate_Ratings": "2023-12-01T02:58:43.4822161+00:00",
+  "LastUpdate_Achievements": "2023-12-01T03:09:01.6224009+00:00"
 }

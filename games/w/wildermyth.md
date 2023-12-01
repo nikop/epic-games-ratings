@@ -31,12 +31,12 @@ Number of Ratings: 45  (23.09.2022)
 | Astrology | 0.50% | ~7 |
 | No Time for Clawmonsters | 0.50% | ~7 |
 | Everfading | 0.40% | ~6 |
+| Some Say I'm Too Flashy | 0.40% | ~6 |
 | Storied Past | 0.30% | ~4 |
 | Bonebreakers | 0.30% | ~4 |
 | Plague Doctor | 0.30% | ~4 |
 | Legends Never Die | 0.30% | ~4 |
 | All My Birds, Safely Home | 0.30% | ~4 |
-| Some Say I'm Too Flashy | 0.30% | ~4 |
 | Into Mulch | 0.30% | ~4 |
 | Lochias's Hunger | 0.30% | ~4 |
 | No More Nightmares | 0.20% | ~3 |

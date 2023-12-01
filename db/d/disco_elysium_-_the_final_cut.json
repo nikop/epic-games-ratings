@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1514,9 +1514,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131449,
+  "EOS_Progressed": 131450,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 328,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -23454,6 +23454,11 @@
       "Time": "2023-12-01T02:00:58.3201968+00:00",
       "NumProgressed": 131449,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-01T03:03:57.1858241+00:00",
+      "NumProgressed": 131450,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -23489,7 +23494,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3943
+      "UsersEstimate": 3944
     },
     {
       "ID": "ACH_COP_ART",
@@ -23609,7 +23614,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14459
+      "UsersEstimate": 14460
     },
     {
       "ID": "ACH_CUNO",
@@ -23689,7 +23694,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3943
+      "UsersEstimate": 3944
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -23784,15 +23789,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131449,
+      "Progressed": 131450,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-28T12:00:15.5937153+00:00",
-  "LastChanged_Achievements": "2023-12-01T02:00:58.3201967+00:00",
+  "LastChanged_Achievements": "2023-12-01T03:03:57.1858234+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:19.415585+00:00",
-  "LastUpdate_Ratings": "2023-12-01T01:57:23.8343667+00:00",
-  "LastUpdate_Achievements": "2023-12-01T02:00:58.3202938+00:00"
+  "LastUpdate_Ratings": "2023-12-01T03:00:46.8778469+00:00",
+  "LastUpdate_Achievements": "2023-12-01T03:03:57.1859333+00:00"
 }

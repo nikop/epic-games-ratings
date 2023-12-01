@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 391,
+  "EOS_Progressed": 393,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
@@ -892,6 +892,11 @@
       "Time": "2023-12-01T02:05:27.4851705+00:00",
       "NumProgressed": 391,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T03:08:08.0934018+00:00",
+      "NumProgressed": 393,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -912,7 +917,7 @@
       "Name": "Kronos Island Explorer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND2",
@@ -960,7 +965,7 @@
       "Name": "Combo Convert",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -968,7 +973,7 @@
       "Name": "Perfect Run",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -976,7 +981,7 @@
       "Name": "Big Encounter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -984,7 +989,7 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
@@ -1000,7 +1005,7 @@
       "Name": "Celestial Rain",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -1008,7 +1013,7 @@
       "Name": "Unknown Threat",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1016,15 +1021,15 @@
       "Name": "Speed Demon",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "FIRST_S_RANK",
       "SetID": "apihg0e",
       "Name": "Superior Ranking",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 149
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1032,7 +1037,7 @@
       "Name": "Ticket to Tranquility",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "GET_FISH_ALL",
@@ -1056,7 +1061,7 @@
       "Name": "The Beginning",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -1064,7 +1069,7 @@
       "Name": "Ancient Defiance",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "MAIN_CLEAR_ISLAND3",
@@ -1096,7 +1101,7 @@
       "Name": "The Journey Begins",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1216,21 +1221,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 391,
+      "Progressed": 393,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-01T02:05:27.4851703+00:00",
+  "LastChanged_Achievements": "2023-12-01T03:08:08.0934014+00:00",
   "LastUpdate_AppInfo": "2023-11-28T17:56:55.9843317+00:00",
-  "LastUpdate_Ratings": "2023-12-01T01:59:40.9400339+00:00",
-  "LastUpdate_Achievements": "2023-12-01T02:05:27.4851992+00:00"
+  "LastUpdate_Ratings": "2023-12-01T03:02:33.0087232+00:00",
+  "LastUpdate_Achievements": "2023-12-01T03:08:08.0934347+00:00"
 }

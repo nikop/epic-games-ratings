@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -5393,10 +5393,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 3942,
       "NumberOfAwardsMax": 474
+    },
+    {
+      "Time": "2023-12-01T02:59:36.0368705+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3943,
+      "NumberOfAwardsMax": 474
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3942,
+  "NumberOfAwards": 3943,
   "NumberOfAwardsMax": 474,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5422,7 +5428,7 @@
       "Text": "This game has a Silly Community",
       "Prefix": "This game has a",
       "Type": "Silly Community",
-      "Count": 369
+      "Count": 370
     },
     {
       "Text": "This game is Great for Beginners",
@@ -5468,9 +5474,9 @@
     }
   ],
   "EOS_Progressed": 252591,
-  "EOS_Completed": 893,
-  "EOS_NewPlayers": 887,
-  "EOS_NewCompleters": 8,
+  "EOS_Completed": 894,
+  "EOS_NewPlayers": 882,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
     {
@@ -29897,6 +29903,11 @@
       "Time": "2023-12-01T02:06:19.8505591+00:00",
       "NumProgressed": 252591,
       "NumCompleted": 893
+    },
+    {
+      "Time": "2023-12-01T03:09:04.6331792+00:00",
+      "NumProgressed": 252591,
+      "NumCompleted": 894
     }
   ],
   "TotalAchievements": 39,
@@ -30220,15 +30231,15 @@
       "ID": "a2e41al",
       "IsBase": true,
       "Progressed": 252591,
-      "Completed": 893
+      "Completed": 894
     }
   ],
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2023-11-30T17:59:28.0060829+00:00",
-  "LastChanged_Achievements": "2023-12-01T02:06:19.850559+00:00",
+  "LastChanged": "2023-12-01T02:59:36.0368703+00:00",
+  "LastChanged_Achievements": "2023-12-01T03:09:04.6331778+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:49.2082143+00:00",
-  "LastUpdate_Ratings": "2023-12-01T01:56:17.5688142+00:00",
-  "LastUpdate_Achievements": "2023-12-01T02:06:19.8506675+00:00"
+  "LastUpdate_Ratings": "2023-12-01T02:59:36.0368709+00:00",
+  "LastUpdate_Achievements": "2023-12-01T03:09:04.6333282+00:00"
 }

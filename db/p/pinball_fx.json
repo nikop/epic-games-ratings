@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2059,9 +2059,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 281779,
+  "EOS_Progressed": 281783,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 715,
+  "EOS_NewPlayers": 717,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27739,6 +27739,11 @@
       "Time": "2023-12-01T02:01:56.3691662+00:00",
       "NumProgressed": 281779,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T03:04:59.7232882+00:00",
+      "NumProgressed": 281783,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -27974,7 +27979,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 231059
+      "UsersEstimate": 231062
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -27982,22 +27987,22 @@
       "Name": "I know the Rules",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 95805
+      "UsersEstimate": 95806
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 281779,
+      "Progressed": 281783,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-11-30T20:03:23.0507631+00:00",
-  "LastChanged_Achievements": "2023-12-01T02:01:56.3691661+00:00",
+  "LastChanged_Achievements": "2023-12-01T03:04:59.7232877+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.1899023+00:00",
-  "LastUpdate_Ratings": "2023-12-01T01:59:57.3615178+00:00",
-  "LastUpdate_Achievements": "2023-12-01T02:01:56.3692739+00:00"
+  "LastUpdate_Ratings": "2023-12-01T03:02:50.7634581+00:00",
+  "LastUpdate_Achievements": "2023-12-01T03:04:59.7234691+00:00"
 }

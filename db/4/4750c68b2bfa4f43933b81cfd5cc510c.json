@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-09-29T00:00:00+00:00",
     "PcReleaseDate": "2023-09-29T00:00:00+00:00",
@@ -2187,9 +2187,9 @@
       "Count": 376
     }
   ],
-  "EOS_Progressed": 55552,
+  "EOS_Progressed": 55553,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1361,
+  "EOS_NewPlayers": 1356,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10457,6 +10457,11 @@
       "Time": "2023-12-01T02:01:02.239223+00:00",
       "NumProgressed": 55552,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T03:04:01.3504123+00:00",
+      "NumProgressed": 55553,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -10493,7 +10498,7 @@
       "Name": "PlayStyles\u002B",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 35553
+      "UsersEstimate": 35554
     },
     {
       "ID": "achievement_13",
@@ -10501,7 +10506,7 @@
       "Name": "Squad Building Completionist",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 29998
+      "UsersEstimate": 29999
     },
     {
       "ID": "achievement_14",
@@ -10517,7 +10522,7 @@
       "Name": "Trust me, I\u0027m a Manager",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 27220
+      "UsersEstimate": 27221
     },
     {
       "ID": "achievement_16",
@@ -10525,7 +10530,7 @@
       "Name": "Defensive Masterclass",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 23887
+      "UsersEstimate": 23888
     },
     {
       "ID": "achievement_17",
@@ -10573,7 +10578,7 @@
       "Name": "We\u0027re in the Game!",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 46108
+      "UsersEstimate": 46109
     },
     {
       "ID": "achievement_22",
@@ -10581,7 +10586,7 @@
       "Name": "Level Up!",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 28887
+      "UsersEstimate": 28888
     },
     {
       "ID": "achievement_23",
@@ -10661,7 +10666,7 @@
       "Name": "Dazzling Personality",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 12221
+      "UsersEstimate": 12222
     },
     {
       "ID": "achievement_32",
@@ -10765,7 +10770,7 @@
       "Name": "Intuition and Execution",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 20554
+      "UsersEstimate": 20555
     },
     {
       "ID": "achievement_8",
@@ -10773,7 +10778,7 @@
       "Name": "Power Shot",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 41108
+      "UsersEstimate": 41109
     },
     {
       "ID": "achievement_9",
@@ -10788,7 +10793,7 @@
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 55552,
+      "Progressed": 55553,
       "Completed": 0
     }
   ],
@@ -10796,8 +10801,8 @@
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
   "LastChanged": "2023-11-30T19:01:01.6909924+00:00",
-  "LastChanged_Achievements": "2023-12-01T02:01:02.2392228+00:00",
+  "LastChanged_Achievements": "2023-12-01T03:04:01.3504119+00:00",
   "LastUpdate_AppInfo": "2023-11-24T04:57:18.8436707+00:00",
-  "LastUpdate_Ratings": "2023-12-01T01:56:50.5196945+00:00",
-  "LastUpdate_Achievements": "2023-12-01T02:01:02.2392831+00:00"
+  "LastUpdate_Ratings": "2023-12-01T03:00:11.226854+00:00",
+  "LastUpdate_Achievements": "2023-12-01T03:04:01.3504636+00:00"
 }

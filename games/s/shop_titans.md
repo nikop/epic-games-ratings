@@ -6,11 +6,11 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 7.00% | ~10,016 |
-| Basic in Bulk | 6.00% | ~8,585 |
-| Tinkle of Coins | 6.00% | ~8,585 |
-| Titan's First Steps | 6.00% | ~8,585 |
-| Disintermediation | 5.00% | ~7,154 |
+| Sponsored by Argon | 7.00% | ~10,017 |
+| Basic in Bulk | 6.00% | ~8,586 |
+| Tinkle of Coins | 6.00% | ~8,586 |
+| Titan's First Steps | 6.00% | ~8,586 |
+| Disintermediation | 5.00% | ~7,155 |
 | One Easy Payment | 4.00% | ~5,724 |
 | Another Satisfied Customer | 4.00% | ~5,724 |
 | It's Free Real Estate | 4.00% | ~5,724 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~429 |
 | Capitalist Camaraderie | 0.20% | ~286 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 143,089 (Ranked 80)  
+Progressed: 143,098 (Ranked 80)  
 Completed: 290 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,10 +344,10 @@ Completed: 290 (0.20%) (Ranked 257)
 | 2023-11-28 | 142,735 | 284 |
 | 2023-11-29 | 142,879 | 289 |
 | 2023-11-30 | 143,035 | 290 |
-| 2023-12-01 | 143,089 | 290 |
+| 2023-12-01 | 143,098 | 290 |
 ## Awards
 Max (Great for Beginners): 4,858  (Ranked 75)  
-Sum: 27,639 (Ranked 50)  
+Sum: 27,641 (Ranked 50)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
@@ -357,7 +357,7 @@ Diff (max vs sum): 25
 | This game has Diverse Characters | 3,955 |
 | This game is Highly Recommended | 3,789 |
 | This game has Easy Combat | 3,735 |
-| This game has Playful Visuals | 3,214 |
+| This game has Playful Visuals | 3,216 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -666,3 +666,4 @@ Diff (max vs sum): 25
 | 2023-11-28 | 3.99 | - | 4,851 | 27,621 |
 | 2023-11-29 | 3.99 | - | 4,855 | 27,625 |
 | 2023-11-30 | 3.99 | - | 4,858 | 27,639 |
+| 2023-12-01 | 3.99 | - | 4,858 | 27,641 |

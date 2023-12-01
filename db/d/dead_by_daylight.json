@@ -13220,9 +13220,9 @@
       "Count": 27382
     }
   ],
-  "EOS_Progressed": 1056799,
+  "EOS_Progressed": 1056893,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 16617,
+  "EOS_NewPlayers": 16620,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39010,6 +39010,11 @@
       "Time": "2023-12-01T02:06:26.320759+00:00",
       "NumProgressed": 1056799,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-01T03:09:11.4331959+00:00",
+      "NumProgressed": 1056893,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 232,
@@ -39157,7 +39162,7 @@
       "Name": "Handyman",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 3170
+      "UsersEstimate": 3171
     },
     {
       "ID": "ACH_019",
@@ -39189,7 +39194,7 @@
       "Name": "Zealous",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 4227
+      "UsersEstimate": 4228
     },
     {
       "ID": "ACH_023",
@@ -39197,7 +39202,7 @@
       "Name": "It wakes",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 4227
+      "UsersEstimate": 4228
     },
     {
       "ID": "ACH_024",
@@ -39205,7 +39210,7 @@
       "Name": "Not half bad",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 4227
+      "UsersEstimate": 4228
     },
     {
       "ID": "ACH_025",
@@ -39229,7 +39234,7 @@
       "Name": "Apt Survivor",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 3170
+      "UsersEstimate": 3171
     },
     {
       "ID": "ACH_028",
@@ -39253,7 +39258,7 @@
       "Name": "Survival Treasures",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 3170
+      "UsersEstimate": 3171
     },
     {
       "ID": "ACH_031",
@@ -39325,7 +39330,7 @@
       "Name": "Skillful",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 4227
+      "UsersEstimate": 4228
     },
     {
       "ID": "ACH_040",
@@ -39333,7 +39338,7 @@
       "Name": "I",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 3170
+      "UsersEstimate": 3171
     },
     {
       "ID": "ACH_041",
@@ -40235,9 +40240,9 @@
       "ID": "ACH_156",
       "SetID": "16jml5b",
       "Name": "Resurgence",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2114
+      "UsersEstimate": 3171
     },
     {
       "ID": "ACH_157",
@@ -40789,7 +40794,7 @@
       "Name": "Make Some Noise",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 3170
+      "UsersEstimate": 3171
     },
     {
       "ID": "ACH_226",
@@ -40876,21 +40881,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1056799,
+      "Progressed": 1056893,
       "Completed": 66
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1056799,
+      "Progressed": 1056893,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-11-30T22:59:32.3488698+00:00",
-  "LastChanged_Achievements": "2023-12-01T02:06:26.3207588+00:00",
+  "LastChanged_Achievements": "2023-12-01T03:09:11.4331954+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:00.7078103+00:00",
-  "LastUpdate_Ratings": "2023-12-01T01:56:27.8356784+00:00",
-  "LastUpdate_Achievements": "2023-12-01T02:06:26.3212738+00:00"
+  "LastUpdate_Ratings": "2023-12-01T02:59:47.8824369+00:00",
+  "LastUpdate_Achievements": "2023-12-01T03:09:11.4337194+00:00"
 }

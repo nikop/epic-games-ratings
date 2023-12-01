@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 790,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 308,
+  "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1832,9 +1832,9 @@
       "ID": "CompleteChapter9",
       "SetID": "52ail55",
       "Name": "Ingredients List",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 95
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -1935,8 +1935,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-01T02:01:31.3241804+00:00",
+  "LastChanged_Achievements": "2023-12-01T03:04:32.6516673+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-12-01T01:54:57.7712736+00:00",
-  "LastUpdate_Achievements": "2023-12-01T02:01:31.3242048+00:00"
+  "LastUpdate_Ratings": "2023-12-01T02:58:07.5797117+00:00",
+  "LastUpdate_Achievements": "2023-12-01T03:04:32.6516977+00:00"
 }

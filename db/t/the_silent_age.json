@@ -2,13 +2,13 @@
   "ID": "46d340566781448ebdc2cb576f91d3b6",
   "Name": "The Silent Age",
   "ProductSlug": "the-silent-age-eb6972",
-  "Ranking_Rating": 792,
+  "Ranking_Rating": 791,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 766,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 495,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-05-02T16:00:00+00:00",
     "PcReleaseDate": "2015-05-29T00:00:00+00:00",
@@ -366,6 +366,6 @@
   "FirstSeenRating": "2022-08-05T17:31:55.1060737+00:00",
   "LastChanged": "2023-11-23T20:58:36.1981654+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:01.3759394+00:00",
-  "LastUpdate_Ratings": "2023-12-01T01:55:15.2434881+00:00",
-  "LastUpdate_Achievements": "2023-12-01T02:01:47.7400415+00:00"
+  "LastUpdate_Ratings": "2023-12-01T02:58:26.7329122+00:00",
+  "LastUpdate_Achievements": "2023-12-01T03:04:49.949998+00:00"
 }

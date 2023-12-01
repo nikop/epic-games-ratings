@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 299,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -2320,9 +2320,9 @@
       "ID": "theme_gem_stunt100Times",
       "SetID": "95dc8p",
       "Name": "Some Say I\u0027m Too Flashy",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "theme_green_kill3Enemies",
@@ -2416,8 +2416,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2023-12-01T02:06:20.7337001+00:00",
+  "LastChanged_Achievements": "2023-12-01T03:09:05.7015219+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:17.0768471+00:00",
-  "LastUpdate_Ratings": "2023-12-01T01:55:47.1138704+00:00",
-  "LastUpdate_Achievements": "2023-12-01T02:06:20.7337363+00:00"
+  "LastUpdate_Ratings": "2023-12-01T02:59:02.3801393+00:00",
+  "LastUpdate_Achievements": "2023-12-01T03:09:05.7015741+00:00"
 }

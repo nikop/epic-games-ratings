@@ -21,7 +21,7 @@
 | Minions, Minions! | 53.00% | ~268 |
 | The Ascent | 53.00% | ~268 |
 | It's Warm and Cozy at Home | 53.00% | ~268 |
-| Hard Work | 47.00% | ~238 |
+| Hard Work | 48.00% | ~243 |
 | The Big Eaty | 47.00% | ~238 |
 | YOU SHALL NOT PASS! | 46.00% | ~233 |
 | “… like son” | 43.00% | ~218 |
@@ -58,11 +58,11 @@
 | To the Max! | 10.00% | ~51 |
 | Mirror, Mirror | 9.00% | ~46 |
 | Untouchable | 9.00% | ~46 |
+| Heal Heal Blessing | 8.00% | ~40 |
 | Evilification | 8.00% | ~40 |
 | Gorgu is in the Best of Health | 7.00% | ~35 |
 | Laser Eyes Are So Useless | 7.00% | ~35 |
-| Heal Heal Blessing | 7.00% | ~35 |
-| Hands Off My Stones | 6.00% | ~30 |
+| Hands Off My Stones | 7.00% | ~35 |
 | No Mana, No Cry | 5.00% | ~25 |
 | I Don't Need Any Help | 4.00% | ~20 |
 ## Popularity (Based on EOS Achievements)

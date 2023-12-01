@@ -2,10 +2,10 @@
   "ID": "24bd39f944fa45ad8a953116f9908525",
   "Name": "HAAK",
   "ProductSlug": "haak-1401cb",
-  "Ranking_EOS_Progress": 491,
+  "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-06-30T02:00:00+00:00",
     "PcReleaseDate": "2022-08-25T02:30:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56,
+  "EOS_Progressed": 57,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -284,6 +284,11 @@
       "Time": "2023-11-30T13:09:56.9821149+00:00",
       "NumProgressed": 56,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T03:04:12.3057632+00:00",
+      "NumProgressed": 57,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -293,7 +298,7 @@
       "ID": "ach_00_glove",
       "SetID": "16n29hg",
       "Name": "Fully Charged",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 5,
       "UsersEstimate": 45
     },
@@ -301,7 +306,7 @@
       "ID": "ach_01_defeatPing",
       "SetID": "16n29hg",
       "Name": "He ran away!",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 5,
       "UsersEstimate": 38
     },
@@ -309,7 +314,7 @@
       "ID": "ach_02_journeyStart",
       "SetID": "16n29hg",
       "Name": "The journey begins",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 5,
       "UsersEstimate": 33
     },
@@ -343,13 +348,13 @@
       "Name": "Just like the Local",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_07_foundHidden",
       "SetID": "16n29hg",
       "Name": "Hidden Corner",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
       "UsersEstimate": 38
     },
@@ -357,7 +362,7 @@
       "ID": "ach_08_hpFrag3",
       "SetID": "16n29hg",
       "Name": "Muscular Guy",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
       "UsersEstimate": 30
     },
@@ -365,7 +370,7 @@
       "ID": "ach_09_acidDeath10",
       "SetID": "16n29hg",
       "Name": "Feels like Hell",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
       "UsersEstimate": 24
     },
@@ -373,7 +378,7 @@
       "ID": "ach_10_scarvenger1",
       "SetID": "16n29hg",
       "Name": "Scavenger",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 5,
       "UsersEstimate": 37
     },
@@ -381,7 +386,7 @@
       "ID": "ach_11_scarvengerEA",
       "SetID": "16n29hg",
       "Name": "Super Scavenger",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -389,7 +394,7 @@
       "ID": "ach_12_worldMap",
       "SetID": "16n29hg",
       "Name": "Welcome to Sanho",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 10,
       "UsersEstimate": 36
     },
@@ -407,13 +412,13 @@
       "Name": "Physics Lesson",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_15_breakTile100",
       "SetID": "16n29hg",
       "Name": "Destroyer",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 10,
       "UsersEstimate": 42
     },
@@ -421,7 +426,7 @@
       "ID": "ach_16_defeatPing3",
       "SetID": "16n29hg",
       "Name": "Who\u0027s your daddy?",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
       "UsersEstimate": 38
     },
@@ -445,7 +450,7 @@
       "ID": "ach_19_dogDeath3",
       "SetID": "16n29hg",
       "Name": "Beware of Attack Dog",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
       "UsersEstimate": 21
     },
@@ -453,7 +458,7 @@
       "ID": "ach_20_elec10",
       "SetID": "16n29hg",
       "Name": "You need electrotherapy",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 10,
       "UsersEstimate": 32
     },
@@ -533,7 +538,7 @@
       "ID": "ach_31_skin1",
       "SetID": "16n29hg",
       "Name": "Cheapo",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -549,7 +554,7 @@
       "ID": "ach_33_useTpToilet",
       "SetID": "16n29hg",
       "Name": "Smells Interesting",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
       "UsersEstimate": 25
     },
@@ -581,7 +586,7 @@
       "ID": "ach_37_puzzleMaster",
       "SetID": "16n29hg",
       "Name": "Master Decipherer",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -605,7 +610,7 @@
       "ID": "ach_40_towerDestroyer",
       "SetID": "16n29hg",
       "Name": "Toppler of Towers",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -621,7 +626,7 @@
       "ID": "ach_42_inherit",
       "SetID": "16n29hg",
       "Name": "Picking up the Mantle",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -734,14 +739,14 @@
     {
       "ID": "16n29hg",
       "IsBase": true,
-      "Progressed": 56,
+      "Progressed": 57,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-12-01T02:01:12.4157854+00:00",
+  "LastChanged_Achievements": "2023-12-01T03:04:12.3057627+00:00",
   "LastUpdate_AppInfo": "2023-11-29T20:57:25.545137+00:00",
-  "LastUpdate_Ratings": "2023-12-01T01:57:17.1831672+00:00",
-  "LastUpdate_Achievements": "2023-12-01T02:01:12.4158266+00:00"
+  "LastUpdate_Ratings": "2023-12-01T03:00:40.1002853+00:00",
+  "LastUpdate_Achievements": "2023-12-01T03:04:12.3057987+00:00"
 }

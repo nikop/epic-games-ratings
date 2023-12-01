@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 88.00% | ~30 |
-| Air Fighter | 82.00% | ~28 |
-| The Altruist | 79.00% | ~27 |
-| Oo-De-Lally | 76.00% | ~26 |
-| Treasure Hunter | 74.00% | ~25 |
-| Watch your Step! | 68.00% | ~23 |
-| MAX LEVEL | 59.00% | ~20 |
-| Tap Dancing | 53.00% | ~18 |
-| Right between the eyes | 44.00% | ~15 |
-| Merry Co-operation | 41.00% | ~14 |
-| Spring Board | 41.00% | ~14 |
-| Starry Night | 38.00% | ~13 |
-| Savior | 35.00% | ~12 |
-| Rebel Unleashed | 32.00% | ~11 |
+| Air Fighter | 86.00% | ~30 |
+| Act of Kindness | 86.00% | ~30 |
+| The Altruist | 80.00% | ~28 |
+| Oo-De-Lally | 74.00% | ~26 |
+| Treasure Hunter | 74.00% | ~26 |
+| Watch your Step! | 66.00% | ~23 |
+| Tap Dancing | 63.00% | ~22 |
+| MAX LEVEL | 57.00% | ~20 |
+| Merry Co-operation | 43.00% | ~15 |
+| Right between the eyes | 43.00% | ~15 |
+| Spring Board | 40.00% | ~14 |
+| Starry Night | 37.00% | ~13 |
+| Savior | 34.00% | ~12 |
+| Rebel Unleashed | 31.00% | ~11 |
+| First Aid | 31.00% | ~11 |
 | Finish Him! | 29.00% | ~10 |
 | Merry Go Round | 29.00% | ~10 |
 | Locksley's Tears | 26.00% | ~9 |
 | Assault on the Ram | 26.00% | ~9 |
-| First Aid | 26.00% | ~9 |
-| Ascending Will | 24.00% | ~8 |
-| Ultra Rebel Instinct | 21.00% | ~7 |
-| Ultra Combo | 15.00% | ~5 |
-| Take Action! | 15.00% | ~5 |
-| Brilliant Executioner | 12.00% | ~4 |
-| Haute Couture | 12.00% | ~4 |
+| Ascending Will | 23.00% | ~8 |
+| Ultra Combo | 20.00% | ~7 |
+| Ultra Rebel Instinct | 20.00% | ~7 |
+| Take Action! | 14.00% | ~5 |
+| Brilliant Executioner | 11.00% | ~4 |
+| Haute Couture | 11.00% | ~4 |
 | The Gang prevails | 9.00% | ~3 |
 | Hidden Experiment | 9.00% | ~3 |
 | Into the Lion's Den | 9.00% | ~3 |
@@ -58,7 +58,7 @@
 | Master of All | 0.00% | ~0 |
 | Fashionista | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34 (Ranked 527)  
+Progressed: 35 (Ranked 526)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,4 +70,4 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-28 | 21 | 0 |
 | 2023-11-29 | 24 | 0 |
 | 2023-11-30 | 30 | 0 |
-| 2023-12-01 | 34 | 0 |
+| 2023-12-01 | 35 | 0 |

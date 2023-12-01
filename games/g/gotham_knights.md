@@ -5,13 +5,13 @@ Rating: 4.18 (Ranked 933)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~38,750 |
-| Har, Har, Har, Very Funny | 34.00% | ~26,350 |
-| Loose Ends | 34.00% | ~26,350 |
-| To the Victor Go the Spoils | 28.00% | ~21,700 |
-| Knighthood | 27.00% | ~20,925 |
-| Get ReQ'd | 25.00% | ~19,375 |
-| Whispered Words | 25.00% | ~19,375 |
+| First Step Into the Knight | 50.00% | ~38,751 |
+| Har, Har, Har, Very Funny | 34.00% | ~26,351 |
+| Loose Ends | 34.00% | ~26,351 |
+| To the Victor Go the Spoils | 28.00% | ~21,701 |
+| Knighthood | 27.00% | ~20,926 |
+| Get ReQ'd | 25.00% | ~19,376 |
+| Whispered Words | 25.00% | ~19,376 |
 | The Batman Family | 22.00% | ~17,050 |
 | Lock and Key | 22.00% | ~17,050 |
 | Something in the Clay | 21.00% | ~16,275 |
@@ -54,7 +54,7 @@ Rating: 4.18 (Ranked 933)
 | Icebreaker | 0.80% | ~382 |
 | History Major | 0.80% | ~620 |
 | A Sophisticated Mallet | 0.80% | ~382 |
-| Read Owl About It | 0.70% | ~542 |
+| Read Owl About It | 0.70% | ~543 |
 | Gotham's Greatest Depths | 0.60% | ~287 |
 | Don't Mecha Big Deal About It | 0.60% | ~287 |
 | Confronting Your Demon | 0.60% | ~287 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 933)
 | Element of Surprise | 0.20% | ~96 |
 | It's Nice to Be Wanted | 0.20% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,500 (Ranked 99)  
+Progressed: 77,502 (Ranked 99)  
 Completed: 124 (0.16%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 124 (0.16%) (Ranked 267)
 | 2023-11-28 | 77,377 | 124 |
 | 2023-11-29 | 77,449 | 124 |
 | 2023-11-30 | 77,491 | 124 |
-| 2023-12-01 | 77,500 | 124 |
+| 2023-12-01 | 77,502 | 124 |
 ## Awards
 Max (Great Boss Battles): 2,984  (Ranked 98)  
 Sum: 5,087 (Ranked 140)  

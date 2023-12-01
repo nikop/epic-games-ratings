@@ -9,7 +9,7 @@
 | The City | 39.00% | ~183 |
 | The field base | 34.00% | ~160 |
 | Survivors | 29.00% | ~136 |
-| The Condor | 25.00% | ~118 |
+| The Condor | 26.00% | ~122 |
 | The End | 25.00% | ~118 |
 | The Necroevolution | 21.00% | ~99 |
 | Krauta is alive | 20.00% | ~94 |
@@ -20,7 +20,7 @@
 | Beyond divisions | 14.00% | ~66 |
 | Fierce fight | 12.00% | ~56 |
 | Evacuation | 12.00% | ~56 |
-| Flying Objects Operator | 11.00% | ~52 |
+| Flying Objects Operator | 12.00% | ~56 |
 | I remember everything! | 10.00% | ~47 |
 | Violent solution | 7.00% | ~33 |
 | Another giant | 7.00% | ~33 |
