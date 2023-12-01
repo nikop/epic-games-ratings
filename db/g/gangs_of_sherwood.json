@@ -242,9 +242,9 @@
       "ID": "ACH_100_HIT_COMBO",
       "SetID": "5akmpni",
       "Name": "Ultra Combo",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_25_FINISHER",
@@ -346,25 +346,25 @@
       "ID": "ACH_COOP_MISSIONS",
       "SetID": "5akmpni",
       "Name": "Merry Co-operation",
-      "Percentage": 36,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_ENCOUNTER_S_RANK",
       "SetID": "5akmpni",
       "Name": "Savior",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_ENEMY_FIRE",
       "SetID": "5akmpni",
       "Name": "Tap Dancing",
-      "Percentage": 52,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_ENEMY_LEDGE_FALL",
@@ -394,9 +394,9 @@
       "ID": "ACH_EQUIP_ARTIFACT",
       "SetID": "5akmpni",
       "Name": "Treasure Hunter",
-      "Percentage": 64,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_EVO_MOMENT_37",
@@ -410,17 +410,17 @@
       "ID": "ACH_FINISHER",
       "SetID": "5akmpni",
       "Name": "Finish Him!",
-      "Percentage": 26,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_GIVE_MONEY_CHECKPOINT",
       "SetID": "5akmpni",
       "Name": "Act of Kindness",
-      "Percentage": 83,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_GRAPPLE_ENEMY",
@@ -434,9 +434,9 @@
       "ID": "ACH_HEADSHOT_KILL",
       "SetID": "5akmpni",
       "Name": "Right between the eyes",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_HIGH_FIVE",
@@ -482,9 +482,9 @@
       "ID": "ACH_KILL_RAM",
       "SetID": "5akmpni",
       "Name": "Assault on the Ram",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_KILL_SHERIFF",
@@ -506,9 +506,9 @@
       "ID": "ACH_LONG_REBEL_INSTINCT",
       "SetID": "5akmpni",
       "Name": "Ultra Rebel Instinct",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_MONEY_KILL",
@@ -522,9 +522,9 @@
       "ID": "ACH_MONEY_TO_POOR",
       "SetID": "5akmpni",
       "Name": "The Altruist",
-      "Percentage": 69,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_NO_SIBLINGS",
@@ -546,33 +546,33 @@
       "ID": "ACH_PURCHASE_OUTFIT",
       "SetID": "5akmpni",
       "Name": "Haute Couture",
-      "Percentage": 10,
-      "XP": 5,
-      "UsersEstimate": 4
-    },
-    {
-      "ID": "ACH_REBEL_ABILITY",
-      "SetID": "5akmpni",
-      "Name": "Take Action!",
       "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 5
     },
     {
+      "ID": "ACH_REBEL_ABILITY",
+      "SetID": "5akmpni",
+      "Name": "Take Action!",
+      "Percentage": 19,
+      "XP": 5,
+      "UsersEstimate": 8
+    },
+    {
       "ID": "ACH_REBEL_INSTINCT",
       "SetID": "5akmpni",
       "Name": "Rebel Unleashed",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_REPUTATION_LVL_4",
       "SetID": "5akmpni",
       "Name": "MAX LEVEL",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_REVIVE_ALLY",
@@ -610,9 +610,9 @@
       "ID": "ACH_UNLOCK_ALL_MOVES",
       "SetID": "5akmpni",
       "Name": "Master of One",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_UNLOCK_ALL_MOVES_GANGS",
@@ -641,8 +641,8 @@
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-12-01T12:04:17.582024+00:00",
+  "LastChanged_Achievements": "2023-12-01T13:11:07.1107253+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:56.6360588+00:00",
-  "LastUpdate_Ratings": "2023-12-01T11:59:43.2222869+00:00",
-  "LastUpdate_Achievements": "2023-12-01T12:04:17.5820569+00:00"
+  "LastUpdate_Ratings": "2023-12-01T13:06:44.4811921+00:00",
+  "LastUpdate_Achievements": "2023-12-01T13:11:07.1107568+00:00"
 }

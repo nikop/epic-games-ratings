@@ -2,12 +2,12 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 1007,
+  "Ranking_Rating": 1008,
   "Ranking_Popularity": 75,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 50,
+  "Ranking_EOS_NewPlayers": 51,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -7327,10 +7327,10 @@
       "Count": 3789
     }
   ],
-  "EOS_Progressed": 143167,
+  "EOS_Progressed": 143173,
   "EOS_Completed": 290,
-  "EOS_NewPlayers": 1783,
-  "EOS_NewCompleters": 85,
+  "EOS_NewPlayers": 1776,
+  "EOS_NewCompleters": 84,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -30627,6 +30627,11 @@
       "Time": "2023-12-01T12:05:01.9560349+00:00",
       "NumProgressed": 143167,
       "NumCompleted": 290
+    },
+    {
+      "Time": "2023-12-01T13:12:04.841763+00:00",
+      "NumProgressed": 143173,
+      "NumCompleted": 290
     }
   ],
   "TotalAchievements": 112,
@@ -30740,9 +30745,9 @@
       "ID": "blueprint01",
       "SetID": "anfd17p",
       "Name": "Some Assembly Required",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4295
+      "UsersEstimate": 5727
     },
     {
       "ID": "blueprint02",
@@ -30902,7 +30907,7 @@
       "Name": "Disintermediation",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7158
+      "UsersEstimate": 7159
     },
     {
       "ID": "craft02",
@@ -31414,7 +31419,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7158
+      "UsersEstimate": 7159
     },
     {
       "ID": "sell02",
@@ -31533,15 +31538,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 143167,
+      "Progressed": 143173,
       "Completed": 290
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-01T12:02:51.5246412+00:00",
-  "LastChanged_Achievements": "2023-12-01T12:05:01.9560347+00:00",
+  "LastChanged_Achievements": "2023-12-01T13:12:04.8417627+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-12-01T12:02:51.5246419+00:00",
-  "LastUpdate_Achievements": "2023-12-01T12:05:01.9562302+00:00"
+  "LastUpdate_Ratings": "2023-12-01T13:09:14.3564829+00:00",
+  "LastUpdate_Achievements": "2023-12-01T13:12:04.8419593+00:00"
 }

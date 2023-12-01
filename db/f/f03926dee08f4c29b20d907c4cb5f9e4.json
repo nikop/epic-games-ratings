@@ -4,7 +4,7 @@
   "ProductSlug": "horse-club-adventures-2-hazelwood-stories-b257d3",
   "Ranking_EOS_Progress": 541,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
@@ -182,9 +182,9 @@
       "ID": "ACH_02_PHOTO_TEAM",
       "SetID": "9loam6m",
       "Name": "Photo team",
-      "Percentage": 85,
+      "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_03_MODEL",
@@ -414,9 +414,9 @@
       "ID": "ACH_31_BEST_MUFFINS",
       "SetID": "9loam6m",
       "Name": "The best muffins",
-      "Percentage": 85,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_32_HEART_FOR_ANIMALS",
@@ -517,8 +517,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-12-01T12:04:35.8167133+00:00",
+  "LastChanged_Achievements": "2023-12-01T13:11:31.067296+00:00",
   "LastUpdate_AppInfo": "2023-11-30T02:19:30.3024246+00:00",
-  "LastUpdate_Ratings": "2023-12-01T12:00:14.6786939+00:00",
-  "LastUpdate_Achievements": "2023-12-01T12:04:35.8167413+00:00"
+  "LastUpdate_Ratings": "2023-12-01T13:07:28.4349817+00:00",
+  "LastUpdate_Achievements": "2023-12-01T13:11:31.0673232+00:00"
 }

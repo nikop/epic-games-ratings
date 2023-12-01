@@ -1,17 +1,17 @@
 # Warhammer 40,000: Gladius - Relics of War
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-gladius-relics-of-war)  
 [View Rawdata](../../db/w/warhammer_40,000__gladius_-_relics_of_war.json)  
-Rating: 4.42 (Ranked 720)  
+Rating: 4.42 (Ranked 721)  
 Number of Ratings: 39  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 129  (Ranked 331)  
-Sum: 545 (Ranked 323)  
+Sum: 546 (Ranked 323)  
 Diff (max vs sum): 8  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 129 |
 | This game is Highly Recommended | 87 |
-| This game is Extremely Fun | 74 |
+| This game is Extremely Fun | 75 |
 | This game is Relaxing | 73 |
 | This game has Quickly Understood Controls | 64 |
 | This game has Amazing Characters | 59 |
@@ -230,4 +230,4 @@ Diff (max vs sum): 8
 | 2023-11-25 | 4.42 | - | 129 | 539 |
 | 2023-11-26 | 4.42 | - | 129 | 542 |
 | 2023-11-30 | 4.42 | - | 129 | 544 |
-| 2023-12-01 | 4.42 | - | 129 | 545 |
+| 2023-12-01 | 4.42 | - | 129 | 546 |

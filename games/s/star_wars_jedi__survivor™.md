@@ -1,38 +1,38 @@
 # STAR WARS Jedi: Survivor™
 [Store](https://store.epicgames.com/en-US/p/star-wars-jedi-survivor)  
 [View Rawdata](../../db/s/star_wars_jedi__survivor™.json)  
-Rating: 4.50 (Ranked 594)  
+Rating: 4.50 (Ranked 595)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~8,958 |
-| For Saw Gerrera | 98.00% | ~8,867 |
-| Grab Some Seat | 91.00% | ~8,234 |
-| Can You Pet the Bogling? | 87.00% | ~7,872 |
-| The Past Made Present | 83.00% | ~7,510 |
-| Survivors, We Adapt | 79.00% | ~7,148 |
-| Among the Masters | 78.00% | ~7,057 |
-| They Never Saw It Coming | 77.00% | ~6,967 |
+| Rooftop Duel | 99.00% | ~8,959 |
+| For Saw Gerrera | 98.00% | ~8,868 |
+| Grab Some Seat | 91.00% | ~8,235 |
+| Can You Pet the Bogling? | 87.00% | ~7,873 |
+| The Past Made Present | 83.00% | ~7,511 |
+| Survivors, We Adapt | 79.00% | ~7,149 |
+| Among the Masters | 78.00% | ~7,058 |
+| They Never Saw It Coming | 77.00% | ~6,968 |
 | Who Gives a Puck | 74.00% | ~6,696 |
 | For the Path | 66.00% | ~5,972 |
-| Now, This Isn't Podracing | 65.00% | ~5,881 |
+| Now, This Isn't Podracing | 65.00% | ~5,882 |
 | Mirror Match | 64.00% | ~5,791 |
 | Skywalker | 62.00% | ~5,610 |
 | Out of Bedlam | 62.00% | ~5,610 |
 | Cleaning Up | 54.00% | ~4,886 |
 | Tanalorr Bound | 54.00% | ~4,886 |
-| Kitted Out | 53.00% | ~4,795 |
+| Kitted Out | 53.00% | ~4,796 |
 | Tragedy | 52.00% | ~4,705 |
 | At the Precipice | 50.00% | ~4,524 |
 | Hey, Luke At Us | 50.00% | ~4,524 |
-| Into the Abyss | 48.00% | ~4,343 |
+| Into the Abyss | 48.00% | ~4,344 |
 | Riposte | 47.00% | ~4,253 |
-| A Place You Could Call Home | 46.00% | ~4,162 |
+| A Place You Could Call Home | 46.00% | ~4,163 |
 | Greezy Money | 45.00% | ~4,072 |
 | Catch! | 41.00% | ~3,710 |
-| They're Probably Fine | 40.00% | ~3,619 |
+| They're Probably Fine | 40.00% | ~3,620 |
 | Han Slowlo | 39.00% | ~3,529 |
-| There Is No Try | 38.00% | ~3,438 |
+| There Is No Try | 38.00% | ~3,439 |
 | The Jedi Path | 33.00% | ~2,986 |
 | This Is Canon | 29.00% | ~2,624 |
 | It's a Trap | 27.00% | ~2,443 |
@@ -59,7 +59,7 @@ Rating: 4.50 (Ranked 594)
 | Blood, Sweat, and Tears | 3.00% | ~271 |
 | Pinpoint | 2.00% | ~181 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,048 (Ranked 170)  
+Progressed: 9,049 (Ranked 170)  
 Completed: 54 (0.60%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 54 (0.60%) (Ranked 190)
 | 2023-11-28 | 8,927 | 53 |
 | 2023-11-29 | 8,964 | 54 |
 | 2023-11-30 | 9,024 | 54 |
-| 2023-12-01 | 9,048 | 54 |
+| 2023-12-01 | 9,049 | 54 |
 ## Awards
 Max (Great Boss Battles): 3,372  (Ranked 95)  
 Sum: 5,230 (Ranked 138)  

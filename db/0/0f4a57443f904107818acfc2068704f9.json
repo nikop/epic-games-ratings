@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 794,
+  "EOS_Progressed": 795,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1642,6 +1642,11 @@
       "Time": "2023-12-01T12:04:54.8748685+00:00",
       "NumProgressed": 794,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-01T13:11:55.5960076+00:00",
+      "NumProgressed": 795,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1710,7 +1715,7 @@
       "Name": "Pathfinder",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "CompleteChapter10",
@@ -1726,7 +1731,7 @@
       "Name": "The Artefact is Mine",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "CompleteChapter12",
@@ -1740,9 +1745,9 @@
       "ID": "CompleteChapter13",
       "SetID": "52ail55",
       "Name": "Slaughter and Siege wiv da Squeeze",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 64
     },
     {
       "ID": "CompleteChapter14",
@@ -1926,7 +1931,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Win50ConquestBattles",
@@ -1949,14 +1954,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 794,
+      "Progressed": 795,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-01T12:04:54.8748683+00:00",
+  "LastChanged_Achievements": "2023-12-01T13:11:55.5960071+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:09.4303292+00:00",
-  "LastUpdate_Ratings": "2023-12-01T11:58:16.6797265+00:00",
-  "LastUpdate_Achievements": "2023-12-01T12:04:54.8748925+00:00"
+  "LastUpdate_Ratings": "2023-12-01T13:04:47.9905491+00:00",
+  "LastUpdate_Achievements": "2023-12-01T13:11:55.5960395+00:00"
 }

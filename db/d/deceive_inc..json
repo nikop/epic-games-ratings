@@ -2,7 +2,7 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 446,
+  "Ranking_Rating": 447,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 144,
@@ -289,7 +289,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18963,
+  "EOS_Progressed": 18964,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
@@ -13369,6 +13369,11 @@
       "Time": "2023-12-01T12:04:27.0187785+00:00",
       "NumProgressed": 18963,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-01T13:11:19.4161362+00:00",
+      "NumProgressed": 18964,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13436,7 +13441,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3413
+      "UsersEstimate": 3414
     },
     {
       "ID": "0009",
@@ -13444,7 +13449,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4361
+      "UsersEstimate": 4362
     },
     {
       "ID": "0010",
@@ -13508,7 +13513,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3413
+      "UsersEstimate": 3414
     },
     {
       "ID": "0018",
@@ -13572,7 +13577,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3413
+      "UsersEstimate": 3414
     },
     {
       "ID": "0026",
@@ -13596,7 +13601,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4361
+      "UsersEstimate": 4362
     },
     {
       "ID": "0029",
@@ -13612,7 +13617,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3413
+      "UsersEstimate": 3414
     },
     {
       "ID": "0031",
@@ -13667,7 +13672,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18963,
+      "Progressed": 18964,
       "Completed": 4
     }
   ],
@@ -13675,8 +13680,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-12-01T12:04:27.0187781+00:00",
+  "LastChanged_Achievements": "2023-12-01T13:11:19.4161356+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:26.0982772+00:00",
-  "LastUpdate_Ratings": "2023-12-01T11:59:19.5837745+00:00",
-  "LastUpdate_Achievements": "2023-12-01T12:04:27.0188612+00:00"
+  "LastUpdate_Ratings": "2023-12-01T13:06:11.9690971+00:00",
+  "LastUpdate_Achievements": "2023-12-01T13:11:19.4162453+00:00"
 }

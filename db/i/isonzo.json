@@ -2,12 +2,12 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
-  "Ranking_Rating": 494,
+  "Ranking_Rating": 495,
   "Ranking_Popularity": 463,
   "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -955,9 +955,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9140,
+  "EOS_Progressed": 9141,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -8530,6 +8530,11 @@
       "Time": "2023-12-01T12:03:30.4926743+00:00",
       "NumProgressed": 9140,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-01T13:10:06.2505604+00:00",
+      "NumProgressed": 9141,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -8549,7 +8554,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 1919
+      "UsersEstimate": 1920
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -8613,7 +8618,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -8693,7 +8698,7 @@
       "Name": "Machiavelli",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -8853,7 +8858,7 @@
       "Name": "Thus With A Kiss",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "ISONZO_ACH_TOSCA",
@@ -8893,14 +8898,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4661
+      "UsersEstimate": 4662
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9140,
+      "Progressed": 9141,
       "Completed": 10
     }
   ],
@@ -8908,8 +8913,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-11-29T21:57:14.3384821+00:00",
-  "LastChanged_Achievements": "2023-12-01T12:03:30.4926738+00:00",
+  "LastChanged_Achievements": "2023-12-01T13:10:06.2505598+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:09.0414673+00:00",
-  "LastUpdate_Ratings": "2023-12-01T11:58:03.9501189+00:00",
-  "LastUpdate_Achievements": "2023-12-01T12:03:30.4927464+00:00"
+  "LastUpdate_Ratings": "2023-12-01T13:04:30.3101938+00:00",
+  "LastUpdate_Achievements": "2023-12-01T13:10:06.2506149+00:00"
 }

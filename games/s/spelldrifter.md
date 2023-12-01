@@ -1,7 +1,7 @@
 # Spelldrifter
 [Store](https://store.epicgames.com/en-US/p/spelldrifter)  
 [View Rawdata](../../db/s/spelldrifter.json)  
-Rating: 3.82 (Ranked 1,033)  
+Rating: 3.82 (Ranked 1,034)  
 ## Awards
 Max (Character Customization): 21  (Ranked 544)  
 Sum: 21 (Ranked 546)  

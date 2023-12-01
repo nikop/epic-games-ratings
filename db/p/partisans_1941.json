@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -304,7 +304,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1813,
+  "EOS_Progressed": 1814,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
@@ -4219,6 +4219,11 @@
       "Time": "2023-11-30T22:08:58.2287053+00:00",
       "NumProgressed": 1813,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-01T13:15:07.597748+00:00",
+      "NumProgressed": 1814,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4230,7 +4235,7 @@
       "Name": "Agent 47",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "Auditor",
@@ -4262,7 +4267,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "Commandos",
@@ -4278,7 +4283,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "Defense_Common",
@@ -4334,7 +4339,7 @@
       "Name": "Game Over",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "Grenadier",
@@ -4469,15 +4474,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1813,
+      "Progressed": 1814,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-12-01T12:08:24.1388399+00:00",
+  "LastChanged_Achievements": "2023-12-01T13:15:07.5977473+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:35.5363143+00:00",
-  "LastUpdate_Ratings": "2023-12-01T11:58:54.5662557+00:00",
-  "LastUpdate_Achievements": "2023-12-01T12:08:24.1388843+00:00"
+  "LastUpdate_Ratings": "2023-12-01T13:05:38.7453682+00:00",
+  "LastUpdate_Achievements": "2023-12-01T13:15:07.5977761+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 468,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 277,
-  "Ranking_EOS_Completed": 280,
+  "Ranking_EOS_Completed": 279,
   "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
@@ -171,7 +171,7 @@
   ],
   "EOS_Progressed": 805,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1904,9 +1904,9 @@
       "ID": "CircularOasis",
       "SetID": "1n308hc",
       "Name": "Circular Oasis",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     },
     {
       "ID": "DesolateIsland",
@@ -1920,9 +1920,9 @@
       "ID": "Discovery",
       "SetID": "1n308hc",
       "Name": "Discovery",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 48
     },
     {
       "ID": "EasternWetlands",
@@ -1960,9 +1960,9 @@
       "ID": "GnothiSeauton",
       "SetID": "1n308hc",
       "Name": "Gnothi Seauton",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "GoodCitizen",
@@ -2048,9 +2048,9 @@
       "ID": "MuseumVisitor",
       "SetID": "1n308hc",
       "Name": "Museum Visitor",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 48
     },
     {
       "ID": "NewBeginning",
@@ -2224,9 +2224,9 @@
       "ID": "TheThiefOfFire",
       "SetID": "1n308hc",
       "Name": "The Thief of Fire",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 40
     },
     {
       "ID": "TheWordEndures",
@@ -2256,9 +2256,9 @@
       "ID": "VerdantCanyon",
       "SetID": "1n308hc",
       "Name": "Verdant Canyon",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     },
     {
       "ID": "Wanderers",
@@ -2305,8 +2305,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-30T22:00:34.4965769+00:00",
-  "LastChanged_Achievements": "2023-12-01T12:03:40.6547182+00:00",
+  "LastChanged_Achievements": "2023-12-01T13:10:19.6200116+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-01T11:59:59.6670214+00:00",
-  "LastUpdate_Achievements": "2023-12-01T12:03:40.6547608+00:00"
+  "LastUpdate_Ratings": "2023-12-01T13:07:07.4740369+00:00",
+  "LastUpdate_Achievements": "2023-12-01T13:10:19.620054+00:00"
 }

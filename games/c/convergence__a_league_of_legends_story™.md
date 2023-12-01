@@ -8,19 +8,19 @@ Rating: 4.62 (Ranked 368)
 | Time Heals All Wounds | 33.00% | ~312 |
 | Rail Rat | 27.00% | ~255 |
 | The Mysterious Stranger | 26.00% | ~246 |
-| Immaculate Aim | 23.00% | ~217 |
+| Immaculate Aim | 23.00% | ~218 |
 | Make Up For Lost Time | 22.00% | ~208 |
 | Time Flies | 22.00% | ~208 |
 | The Prince in Heels | 22.00% | ~208 |
 | The Brass Boss | 22.00% | ~208 |
-| The Steel Shadow | 21.00% | ~198 |
-| The Harder They Fall | 21.00% | ~198 |
-| No, Thanks! | 21.00% | ~198 |
-| Breaking Down Barriers | 21.00% | ~198 |
-| The Wicked Twins | 21.00% | ~198 |
-| Honest Mistake | 21.00% | ~198 |
-| Fast Learner | 21.00% | ~198 |
-| Immaculate Aim | 21.00% | ~198 |
+| The Steel Shadow | 21.00% | ~199 |
+| The Harder They Fall | 21.00% | ~199 |
+| No, Thanks! | 21.00% | ~199 |
+| Breaking Down Barriers | 21.00% | ~199 |
+| The Wicked Twins | 21.00% | ~199 |
+| Honest Mistake | 21.00% | ~199 |
+| Fast Learner | 21.00% | ~199 |
+| Immaculate Aim | 21.00% | ~199 |
 | The Betrayer | 20.00% | ~189 |
 | Right On Time | 19.00% | ~180 |
 | Like Clockwork | 19.00% | ~180 |
@@ -34,20 +34,20 @@ Rating: 4.62 (Ranked 368)
 | Cartographer | 15.00% | ~142 |
 | Treasure Trove | 14.00% | ~132 |
 | Good Neighbor | 13.00% | ~123 |
-| Chaincrawler Explorer | 12.00% | ~113 |
-| Family Memories | 12.00% | ~113 |
-| Ask Questions Later | 12.00% | ~113 |
+| Chaincrawler Explorer | 12.00% | ~114 |
+| Family Memories | 12.00% | ~114 |
+| Ask Questions Later | 12.00% | ~114 |
 | Syron for Hope | 11.00% | ~104 |
-| Factorywood Explorer | 10.00% | ~94 |
-| Fairgrounds Explorer | 10.00% | ~94 |
-| Sump Explorer | 10.00% | ~94 |
-| Theater Explorer | 10.00% | ~94 |
+| Factorywood Explorer | 10.00% | ~95 |
+| Fairgrounds Explorer | 10.00% | ~95 |
+| Sump Explorer | 10.00% | ~95 |
+| Theater Explorer | 10.00% | ~95 |
 | Cultivair Explorer | 9.00% | ~85 |
 | Entresol Explorer | 9.00% | ~85 |
 | Corin Goes Home | 8.00% | ~76 |
 | Sartorialist | 8.00% | ~76 |
 | Golem Hunter | 7.00% | ~66 |
-| Clovemary for Remembering | 6.00% | ~57 |
+| Clovemary for Remembering | 5.00% | ~47 |
 | Hexlock for Protection | 5.00% | ~47 |
 | Rungs Was Right | 5.00% | ~47 |
 | Wunderkind | 2.00% | ~19 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 368)
 | Going to Live Forever | 0.60% | ~6 |
 | Raw Talent | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 945 (Ranked 270)  
+Progressed: 946 (Ranked 270)  
 Completed: 6 (0.63%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,6 +200,7 @@ Completed: 6 (0.63%) (Ranked 187)
 | 2023-11-27 | 941 | 6 |
 | 2023-11-29 | 943 | 6 |
 | 2023-11-30 | 945 | 6 |
+| 2023-12-01 | 946 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

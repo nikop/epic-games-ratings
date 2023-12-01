@@ -2,7 +2,7 @@
   "ID": "4b5f1eb366dc45f0920d397c01b291ba",
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
-  "Ranking_Rating": 680,
+  "Ranking_Rating": 681,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 119,
@@ -551,9 +551,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 41898,
+  "EOS_Progressed": 41901,
   "EOS_Completed": 180,
-  "EOS_NewPlayers": 1051,
+  "EOS_NewPlayers": 1045,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -9011,6 +9011,11 @@
       "Time": "2023-12-01T12:08:25.5827626+00:00",
       "NumProgressed": 41898,
       "NumCompleted": 180
+    },
+    {
+      "Time": "2023-12-01T13:15:09.449052+00:00",
+      "NumProgressed": 41901,
+      "NumCompleted": 180
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -9183,7 +9188,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 21787
+      "UsersEstimate": 21789
     },
     {
       "ID": "ACH_PEAK",
@@ -9215,7 +9220,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 28491
+      "UsersEstimate": 28493
     },
     {
       "ID": "ACH_S4",
@@ -9223,7 +9228,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 20949
+      "UsersEstimate": 20950
     },
     {
       "ID": "ACH_S5",
@@ -9231,7 +9236,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 15083
+      "UsersEstimate": 15084
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -9239,7 +9244,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 31424
+      "UsersEstimate": 31426
     },
     {
       "ID": "ACH_STATUE",
@@ -9247,22 +9252,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 18016
+      "UsersEstimate": 18017
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 41898,
+      "Progressed": 41901,
       "Completed": 180
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-11-25T10:58:21.218684+00:00",
-  "LastChanged_Achievements": "2023-12-01T12:08:25.5827622+00:00",
+  "LastChanged_Achievements": "2023-12-01T13:15:09.4490516+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:06.5276065+00:00",
-  "LastUpdate_Ratings": "2023-12-01T11:57:23.5809748+00:00",
-  "LastUpdate_Achievements": "2023-12-01T12:08:25.5828272+00:00"
+  "LastUpdate_Ratings": "2023-12-01T13:03:34.38132+00:00",
+  "LastUpdate_Achievements": "2023-12-01T13:15:09.4491106+00:00"
 }

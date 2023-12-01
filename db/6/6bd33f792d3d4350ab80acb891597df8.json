@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 375,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -454,17 +454,17 @@
       "ID": "CgkIxYDzrbcPEAIQCA",
       "SetID": "4egpam7",
       "Name": "Secrets of Justice",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCQ",
       "SetID": "4egpam7",
       "Name": "Ancient Enigma",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCg",
@@ -526,9 +526,9 @@
       "ID": "CgkIxYDzrbcPEAIQEQ",
       "SetID": "4egpam7",
       "Name": "Seeker of Mysteries",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "CgkIxYDzrbcPEAIQEg",
@@ -606,17 +606,17 @@
       "ID": "CgkIxYDzrbcPEAIQGw",
       "SetID": "4egpam7",
       "Name": "Slow and Steady",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "CgkIxYDzrbcPEAIQHA",
       "SetID": "4egpam7",
       "Name": "Healthy Moderation",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 70,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "CgkIxYDzrbcPEAIQHQ",
@@ -645,8 +645,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-12-01T12:05:53.762947+00:00",
+  "LastChanged_Achievements": "2023-12-01T13:13:10.983924+00:00",
   "LastUpdate_AppInfo": "2023-11-29T01:48:52.4139061+00:00",
-  "LastUpdate_Ratings": "2023-12-01T11:57:07.5278415+00:00",
-  "LastUpdate_Achievements": "2023-12-01T12:05:53.7629709+00:00"
+  "LastUpdate_Ratings": "2023-12-01T13:03:12.1474988+00:00",
+  "LastUpdate_Achievements": "2023-12-01T13:13:10.9839663+00:00"
 }

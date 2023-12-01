@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Act of Kindness | 86.00% | ~36 |
 | Air Fighter | 83.00% | ~35 |
-| Act of Kindness | 83.00% | ~35 |
 | Oo-De-Lally | 74.00% | ~31 |
-| The Altruist | 69.00% | ~29 |
-| Treasure Hunter | 64.00% | ~27 |
+| The Altruist | 71.00% | ~30 |
+| Treasure Hunter | 67.00% | ~28 |
+| Tap Dancing | 57.00% | ~24 |
 | Watch your Step! | 55.00% | ~23 |
-| Tap Dancing | 52.00% | ~22 |
-| MAX LEVEL | 48.00% | ~20 |
-| Right between the eyes | 43.00% | ~18 |
-| Merry Co-operation | 36.00% | ~15 |
+| MAX LEVEL | 50.00% | ~21 |
+| Right between the eyes | 45.00% | ~19 |
+| Merry Co-operation | 38.00% | ~16 |
 | Starry Night | 33.00% | ~14 |
 | Spring Board | 33.00% | ~14 |
-| Savior | 29.00% | ~12 |
-| Rebel Unleashed | 29.00% | ~12 |
-| Finish Him! | 26.00% | ~11 |
+| Savior | 31.00% | ~13 |
+| Rebel Unleashed | 31.00% | ~13 |
+| Finish Him! | 29.00% | ~12 |
+| Assault on the Ram | 26.00% | ~11 |
 | First Aid | 26.00% | ~11 |
 | Locksley's Tears | 24.00% | ~10 |
-| Assault on the Ram | 24.00% | ~10 |
 | Merry Go Round | 24.00% | ~10 |
+| Ultra Rebel Instinct | 21.00% | ~9 |
 | Ascending Will | 19.00% | ~8 |
-| Ultra Rebel Instinct | 19.00% | ~8 |
-| Ultra Combo | 17.00% | ~7 |
-| Take Action! | 12.00% | ~5 |
+| Ultra Combo | 19.00% | ~8 |
+| Take Action! | 19.00% | ~8 |
+| Haute Couture | 12.00% | ~5 |
 | Brilliant Executioner | 10.00% | ~4 |
-| Haute Couture | 10.00% | ~4 |
 | The Gang prevails | 7.00% | ~3 |
 | Sky High Fighter | 7.00% | ~3 |
 | Hidden Experiment | 7.00% | ~3 |
@@ -41,6 +41,7 @@
 | The Crowkiller | 2.00% | ~1 |
 | A Gest of Robyn Hode | 2.00% | ~1 |
 | Money can not buy happiness | 2.00% | ~1 |
+| Master of One | 2.00% | ~1 |
 | No Mercy | 0.00% | ~0 |
 | Challenger | 0.00% | ~0 |
 | The Apprentice | 0.00% | ~0 |
@@ -54,7 +55,6 @@
 | The transmuted game | 0.00% | ~0 |
 | The Arsenal | 0.00% | ~0 |
 | The Armorer | 0.00% | ~0 |
-| Master of One | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 | Fashionista | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

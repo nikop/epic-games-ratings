@@ -10,7 +10,7 @@
 | The field base | 34.00% | ~160 |
 | Survivors | 29.00% | ~137 |
 | The Condor | 26.00% | ~123 |
-| The End | 25.00% | ~118 |
+| The End | 26.00% | ~123 |
 | The Necroevolution | 21.00% | ~99 |
 | Krauta is alive | 20.00% | ~94 |
 | The Alliance | 19.00% | ~90 |
@@ -22,7 +22,7 @@
 | Evacuation | 12.00% | ~57 |
 | Flying Objects Operator | 12.00% | ~57 |
 | I remember everything! | 10.00% | ~47 |
-| Violent solution | 7.00% | ~33 |
+| Violent solution | 8.00% | ~38 |
 | Another giant | 7.00% | ~33 |
 | Innate curiosity | 7.00% | ~33 |
 | The Invincible | 6.00% | ~28 |

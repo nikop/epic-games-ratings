@@ -1,7 +1,7 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.21 (Ranked 908)  
+Rating: 4.21 (Ranked 909)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,8 +9,8 @@ Rating: 4.21 (Ranked 908)
 | A powerful aura was here | 2.00% | ~6,435 |
 | The touch of Chaos | 2.00% | ~6,435 |
 | Let's raise the stakes!! | 0.80% | ~2,574 |
-| Rumors are true | 0.60% | ~1,930 |
-| Your wounds… They are healing so fast! | 0.60% | ~1,930 |
+| Rumors are true | 0.60% | ~1,931 |
+| Your wounds… They are healing so fast! | 0.60% | ~1,931 |
 | We'll be careful | 0.50% | ~1,609 |
 | Pride is a sin, young Knight | 0.50% | ~1,609 |
 | Back to your senses | 0.40% | ~1,287 |
@@ -23,10 +23,10 @@ Rating: 4.21 (Ranked 908)
 | Counting on you | 0.30% | ~965 |
 | This is the end | 0.30% | ~965 |
 | We can choose to fight | 0.30% | ~965 |
-| Their fate is sealed | 0.20% | ~643 |
-| Not even from this world | 0.20% | ~643 |
-| Chaos be damned! | 0.20% | ~643 |
-| I took a risk | 0.20% | ~643 |
+| Their fate is sealed | 0.20% | ~644 |
+| Not even from this world | 0.20% | ~644 |
+| Chaos be damned! | 0.20% | ~644 |
+| I took a risk | 0.20% | ~644 |
 | No damsels in distress | 0.10% | ~322 |
 | The immortal is bound to reborn | 0.10% | ~322 |
 | A legend among Chimeras | 0.10% | ~322 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 908)
 | They wanted yet another monster… | 0.00% | ~0 |
 | Something... unnatural | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 321,739 (Ranked 51)  
+Progressed: 321,767 (Ranked 51)  
 Completed: 4 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 4 (0.00%) (Ranked 363)
 | 2023-11-28 | 320,512 | 4 |
 | 2023-11-29 | 321,010 | 4 |
 | 2023-11-30 | 321,497 | 4 |
-| 2023-12-01 | 321,739 | 4 |
+| 2023-12-01 | 321,767 | 4 |
 ## Awards
 Max (Great Boss Battles): 63  (Ranked 412)  
 Sum: 63 (Ranked 476)  

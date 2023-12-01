@@ -1335,9 +1335,9 @@
       "ID": "AchvBombing",
       "SetID": "1hj060c",
       "Name": "Violent solution",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 38
     },
     {
       "ID": "AchvConvoyList",
@@ -1511,9 +1511,9 @@
       "ID": "AchvTheEnd",
       "SetID": "1hj060c",
       "Name": "The End",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 55,
-      "UsersEstimate": 118
+      "UsersEstimate": 123
     },
     {
       "ID": "AchvUnity",
@@ -1534,8 +1534,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-01T12:08:30.8919843+00:00",
+  "LastChanged_Achievements": "2023-12-01T13:15:16.2662019+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-12-01T11:59:55.1435005+00:00",
-  "LastUpdate_Achievements": "2023-12-01T12:08:30.8920091+00:00"
+  "LastUpdate_Ratings": "2023-12-01T13:07:01.2553031+00:00",
+  "LastUpdate_Achievements": "2023-12-01T13:15:16.2662289+00:00"
 }

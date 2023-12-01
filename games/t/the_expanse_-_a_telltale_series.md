@@ -1,7 +1,7 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.55 (Ranked 507)  
+Rating: 4.55 (Ranked 508)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,9 +15,9 @@ Rating: 4.55 (Ranked 507)
 | Impossible Objects | 6.00% | ~949 |
 | Safe Cracker | 6.00% | ~106 |
 | Zen Master | 6.00% | ~106 |
-| Stogie for Fogey | 5.00% | ~790 |
-| Spore Taste | 5.00% | ~790 |
-| Call it Even | 5.00% | ~790 |
+| Stogie for Fogey | 5.00% | ~791 |
+| Spore Taste | 5.00% | ~791 |
+| Call it Even | 5.00% | ~791 |
 | Keep Arjun in Check | 5.00% | ~88 |
 | Madame Undersecretary | 5.00% | ~88 |
 | Data Archivist | 4.00% | ~632 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 507)
 | Scavenger Star | 0.10% | ~16 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,809 (Ranked 151)  
+Progressed: 15,812 (Ranked 151)  
 Completed: 39 (0.25%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 39 (0.25%) (Ranked 248)
 | 2023-11-28 | 15,732 | 39 |
 | 2023-11-29 | 15,765 | 39 |
 | 2023-11-30 | 15,794 | 39 |
-| 2023-12-01 | 15,809 | 39 |
+| 2023-12-01 | 15,812 | 39 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

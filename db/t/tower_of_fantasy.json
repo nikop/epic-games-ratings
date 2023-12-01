@@ -2,12 +2,12 @@
   "ID": "b47d3947087147baa8e1665680aefc11",
   "Name": "Tower of Fantasy",
   "ProductSlug": "tower-of-fantasy",
-  "Ranking_Rating": 791,
+  "Ranking_Rating": 792,
   "Ranking_Popularity": 248,
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 770,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 494,
+  "Ranking_EOS_NewPlayers": 496,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-05-11T14:00:00+00:00",
@@ -2381,6 +2381,6 @@
   "FirstSeenRating": "2023-05-19T13:03:09.3101373+00:00",
   "LastChanged": "2023-12-01T02:57:09.2936923+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:30.2288224+00:00",
-  "LastUpdate_Ratings": "2023-12-01T11:57:18.5715869+00:00",
-  "LastUpdate_Achievements": "2023-12-01T12:09:04.4391586+00:00"
+  "LastUpdate_Ratings": "2023-12-01T13:03:27.5221194+00:00",
+  "LastUpdate_Achievements": "2023-12-01T13:15:59.6968484+00:00"
 }

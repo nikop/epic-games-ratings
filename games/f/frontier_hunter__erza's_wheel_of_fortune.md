@@ -22,12 +22,12 @@
 | Nosebleeder | 24.00% | ~112 |
 | Trader | 20.00% | ~93 |
 | Weapon Boost | 20.00% | ~93 |
-| Flying Kobold Killer | 16.00% | ~74 |
+| Flying Kobold Killer | 17.00% | ~79 |
 | Youth Magnet | 16.00% | ~74 |
 | Master Artificer | 16.00% | ~74 |
 | Furious Scorpion Killer | 15.00% | ~70 |
 | Lethal Blade Mantis Killer | 15.00% | ~70 |
-| Squeaky Clean | 14.00% | ~65 |
+| Squeaky Clean | 15.00% | ~70 |
 | Kind Adventurer | 13.00% | ~60 |
 | Mermaid Killer | 12.00% | ~56 |
 | Cave Master | 12.00% | ~56 |

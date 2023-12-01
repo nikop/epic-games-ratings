@@ -2,7 +2,7 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 507,
+  "Ranking_Rating": 508,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 151,
@@ -241,7 +241,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15809,
+  "EOS_Progressed": 15812,
   "EOS_Completed": 39,
   "EOS_NewPlayers": 426,
   "EOS_NewCompleters": 4,
@@ -12801,6 +12801,11 @@
       "Time": "2023-12-01T12:04:02.9643554+00:00",
       "NumProgressed": 15809,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-01T13:10:48.1935762+00:00",
+      "NumProgressed": 15812,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12861,7 +12866,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "16",
@@ -12877,7 +12882,7 @@
       "Name": "Spore Taste",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "18",
@@ -12957,7 +12962,7 @@
       "Name": "Call it Even",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "27",
@@ -13092,13 +13097,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15809,
+      "Progressed": 15812,
       "Completed": 39
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1763,
+      "Progressed": 1766,
       "Completed": 765
     }
   ],
@@ -13106,8 +13111,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-28T18:00:52.6774218+00:00",
-  "LastChanged_Achievements": "2023-12-01T12:04:02.9643549+00:00",
+  "LastChanged_Achievements": "2023-12-01T13:10:48.1935757+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-12-01T12:02:41.3928418+00:00",
-  "LastUpdate_Achievements": "2023-12-01T12:04:02.9644777+00:00"
+  "LastUpdate_Ratings": "2023-12-01T13:08:30.6809284+00:00",
+  "LastUpdate_Achievements": "2023-12-01T13:10:48.1936578+00:00"
 }

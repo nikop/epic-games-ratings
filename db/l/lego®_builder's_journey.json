@@ -2,9 +2,12 @@
   "ID": "ea533c2d54754167a9392a2ffa61bb87",
   "Name": "LEGO\u00AE Builder\u0027s Journey",
   "ProductSlug": "lego-builders-journey",
+  "Ranking_Rating": 419,
+  "Ranking_Popularity": 557,
+  "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 770,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 494,
+  "Ranking_EOS_NewPlayers": 496,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2021-06-22T15:00:00+00:00",
@@ -17,10 +20,17 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
+  "Rating": 4.6,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:30.0001666+00:00",
       "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-01T13:09:08.8580924+00:00",
+      "Rating": 4.6,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -41,8 +51,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:30.3297176+00:00",
   "FirstSeenRating": "2023-03-31T05:58:30.0001664+00:00",
-  "LastChanged": "2023-03-31T05:58:30.0001665+00:00",
+  "LastChanged": "2023-12-01T13:09:08.8580922+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:41.1112547+00:00",
-  "LastUpdate_Ratings": "2023-12-01T12:02:47.447345+00:00",
-  "LastUpdate_Achievements": "2023-12-01T12:04:51.5255555+00:00"
+  "LastUpdate_Ratings": "2023-12-01T13:09:08.8580928+00:00",
+  "LastUpdate_Achievements": "2023-12-01T13:11:51.5256682+00:00"
 }

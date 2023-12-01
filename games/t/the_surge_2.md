@@ -1,24 +1,24 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.25 (Ranked 883)  
+Rating: 4.25 (Ranked 884)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,772 |
+| Rigged And Ready | 80.00% | ~1,773 |
 | Don't I Know You...? | 77.00% | ~1,706 |
-| Jailbreak | 66.00% | ~1,462 |
+| Jailbreak | 66.00% | ~1,463 |
 | Suited and Booted | 39.00% | ~864 |
 | HEADSHOT! | 38.00% | ~842 |
-| Sleeping With The Fishes | 36.00% | ~797 |
+| Sleeping With The Fishes | 36.00% | ~798 |
 | Overheated | 31.00% | ~687 |
 | High Performance | 31.00% | ~687 |
-| Powered Up | 29.00% | ~642 |
+| Powered Up | 29.00% | ~643 |
 | Studied The Blade | 25.00% | ~554 |
-| Home Invasion | 23.00% | ~509 |
-| Luminary | 23.00% | ~509 |
-| True Survivor | 22.00% | ~487 |
-| It's a Trap | 22.00% | ~487 |
+| Home Invasion | 23.00% | ~510 |
+| Luminary | 23.00% | ~510 |
+| True Survivor | 22.00% | ~488 |
+| It's a Trap | 22.00% | ~488 |
 | Offensive Defense | 20.00% | ~443 |
 | Shocking | 20.00% | ~443 |
 | Unforeseeable Consequences | 20.00% | ~443 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 883)
 | Loot, Pillage & Craft | 2.00% | ~44 |
 | Swiss Army Drone | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,215 (Ranked 222)  
+Progressed: 2,216 (Ranked 222)  
 Completed: 13 (0.59%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,6 +232,7 @@ Completed: 13 (0.59%) (Ranked 194)
 | 2023-11-23 | 2,212 | 13 |
 | 2023-11-25 | 2,214 | 13 |
 | 2023-11-26 | 2,215 | 13 |
+| 2023-12-01 | 2,216 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

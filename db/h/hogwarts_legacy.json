@@ -11319,7 +11319,7 @@
       "Count": 826
     }
   ],
-  "EOS_Progressed": 303678,
+  "EOS_Progressed": 303681,
   "EOS_Completed": 519,
   "EOS_NewPlayers": 778,
   "EOS_NewCompleters": 5,
@@ -35549,6 +35549,11 @@
       "Time": "2023-12-01T12:09:23.0133321+00:00",
       "NumProgressed": 303678,
       "NumCompleted": 519
+    },
+    {
+      "Time": "2023-12-01T13:16:23.1954023+00:00",
+      "NumProgressed": 303681,
+      "NumCompleted": 519
     }
   ],
   "TotalAchievements": 45,
@@ -35560,7 +35565,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48588
+      "UsersEstimate": 48589
     },
     {
       "ID": "PFA_10",
@@ -35616,7 +35621,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36441
+      "UsersEstimate": 36442
     },
     {
       "ID": "PFA_17",
@@ -35680,7 +35685,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39478
+      "UsersEstimate": 39479
     },
     {
       "ID": "PFA_24",
@@ -35688,7 +35693,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36441
+      "UsersEstimate": 36442
     },
     {
       "ID": "PFA_25",
@@ -35744,7 +35749,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36441
+      "UsersEstimate": 36442
     },
     {
       "ID": "PFA_31",
@@ -35848,7 +35853,7 @@
       "Name": "Raising Expectations",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 21257
+      "UsersEstimate": 21258
     },
     {
       "ID": "PFA_43",
@@ -35904,7 +35909,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39478
+      "UsersEstimate": 39479
     },
     {
       "ID": "PFA_9",
@@ -35919,7 +35924,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303678,
+      "Progressed": 303681,
       "Completed": 519
     }
   ],
@@ -35927,8 +35932,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-01T11:57:35.7751015+00:00",
-  "LastChanged_Achievements": "2023-12-01T12:09:23.0133318+00:00",
+  "LastChanged_Achievements": "2023-12-01T13:16:23.1954019+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7292094+00:00",
-  "LastUpdate_Ratings": "2023-12-01T11:57:35.7751023+00:00",
-  "LastUpdate_Achievements": "2023-12-01T12:09:23.0134749+00:00"
+  "LastUpdate_Ratings": "2023-12-01T13:03:51.0165058+00:00",
+  "LastUpdate_Achievements": "2023-12-01T13:16:23.1955345+00:00"
 }

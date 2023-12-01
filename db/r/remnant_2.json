@@ -5001,9 +5001,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 231767,
+  "EOS_Progressed": 231819,
   "EOS_Completed": 544,
-  "EOS_NewPlayers": 4931,
+  "EOS_NewPlayers": 4947,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -20816,6 +20816,11 @@
       "Time": "2023-12-01T12:08:35.9625181+00:00",
       "NumProgressed": 231767,
       "NumCompleted": 544
+    },
+    {
+      "Time": "2023-12-01T13:15:22.7046437+00:00",
+      "NumProgressed": 231819,
+      "NumCompleted": 544
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20908,7 +20913,7 @@
       "Name": "The Killing Jar",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1622
+      "UsersEstimate": 1623
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -21010,9 +21015,9 @@
       "ID": "Obtain_Archetype",
       "SetID": "bkp3b1a",
       "Name": "First of Many",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1623
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -21202,9 +21207,9 @@
       "ID": "Upgrade_Traits_A",
       "SetID": "bkp3b1a",
       "Name": "Trait Chaser",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 695
+      "UsersEstimate": 927
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -21267,13 +21272,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 231767,
+      "Progressed": 231819,
       "Completed": 544
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 10932,
+      "Progressed": 10984,
       "Completed": 177
     }
   ],
@@ -21281,8 +21286,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-01T06:03:30.7089672+00:00",
-  "LastChanged_Achievements": "2023-12-01T12:08:35.9625178+00:00",
+  "LastChanged_Achievements": "2023-12-01T13:15:22.7046433+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-12-01T12:03:04.1103302+00:00",
-  "LastUpdate_Achievements": "2023-12-01T12:08:35.9626433+00:00"
+  "LastUpdate_Ratings": "2023-12-01T13:09:30.2189463+00:00",
+  "LastUpdate_Achievements": "2023-12-01T13:15:22.7047473+00:00"
 }

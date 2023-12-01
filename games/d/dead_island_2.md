@@ -1,20 +1,20 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 528)  
+Rating: 4.54 (Ranked 529)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,617 |
-| Git Gutte! | 2.00% | ~14,567 |
-| Break A Leg | 2.00% | ~14,567 |
-| Coup de Grâce | 2.00% | ~14,567 |
-| Hazardous Materials | 2.00% | ~14,567 |
-| Hotel California | 2.00% | ~14,567 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,567 |
-| Welcome To Hell-A | 2.00% | ~14,567 |
-| One of Us | 2.00% | ~1,078 |
-| Pork Chopped | 2.00% | ~1,078 |
+| Whatever It Takes | 3.00% | ~1,618 |
+| Git Gutte! | 2.00% | ~14,568 |
+| Break A Leg | 2.00% | ~14,568 |
+| Coup de Grâce | 2.00% | ~14,568 |
+| Hazardous Materials | 2.00% | ~14,568 |
+| Hotel California | 2.00% | ~14,568 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,568 |
+| Welcome To Hell-A | 2.00% | ~14,568 |
+| One of Us | 2.00% | ~1,079 |
+| Pork Chopped | 2.00% | ~1,079 |
 | Dr. Reed, I Presume? | 1.00% | ~7,284 |
 | Anger Management | 1.00% | ~7,284 |
 | Perks of the Job | 1.00% | ~7,284 |
@@ -33,8 +33,8 @@ Rating: 4.54 (Ranked 528)
 | Stacking the Deck | 1.00% | ~7,284 |
 | Our True Nature | 1.00% | ~7,284 |
 | This is My Weapon | 1.00% | ~7,284 |
-| Making Your Mark | 0.90% | ~6,555 |
-| Max Headroom | 0.90% | ~6,555 |
+| Making Your Mark | 0.90% | ~6,556 |
+| Max Headroom | 0.90% | ~6,556 |
 | Humanity Distilled | 0.80% | ~5,827 |
 | Down with the Sickness | 0.80% | ~5,827 |
 | Not Even My Final Form | 0.70% | ~5,099 |
@@ -46,8 +46,8 @@ Rating: 4.54 (Ranked 528)
 | Smorgasbord | 0.50% | ~3,642 |
 | Internet Famous | 0.50% | ~3,642 |
 | Variety is the Spice of Death | 0.50% | ~3,642 |
-| LA Influential | 0.40% | ~2,913 |
-| Gore Horse | 0.40% | ~2,913 |
+| LA Influential | 0.40% | ~2,914 |
+| Gore Horse | 0.40% | ~2,914 |
 | Top That, Tisha! | 0.40% | ~216 |
 | Sole Survivor | 0.30% | ~2,185 |
 | Sharpest Tool in the Box | 0.30% | ~2,185 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 528)
 | Bucket List | 0.10% | ~728 |
 | Wilhelm | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,362 (Ranked 21)  
+Progressed: 728,391 (Ranked 21)  
 Completed: 2,458 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 2,458 (0.34%) (Ranked 231)
 | 2023-11-28 | 727,374 | 2,447 |
 | 2023-11-29 | 727,809 | 2,450 |
 | 2023-11-30 | 728,231 | 2,456 |
-| 2023-12-01 | 728,362 | 2,458 |
+| 2023-12-01 | 728,391 | 2,458 |
 ## Awards
 Max (Great Boss Battles): 7,845  (Ranked 49)  
 Sum: 12,022 (Ranked 83)  

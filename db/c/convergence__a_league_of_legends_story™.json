@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 945,
+  "EOS_Progressed": 946,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -2544,6 +2544,11 @@
       "Time": "2023-11-30T12:09:12.9752142+00:00",
       "NumProgressed": 945,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-01T13:15:46.3283727+00:00",
+      "NumProgressed": 946,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2563,7 +2568,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -2571,7 +2576,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ChestCompletion1",
@@ -2609,9 +2614,9 @@
       "ID": "ClovemaryGift",
       "SetID": "a9e499d",
       "Name": "Clovemary for Remembering",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 47
     },
     {
       "ID": "CosmeticCompletion1",
@@ -2651,7 +2656,7 @@
       "Name": "Family Memories",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "FactorywoodChests1",
@@ -2659,7 +2664,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "FairgroundsChests1",
@@ -2667,7 +2672,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -2803,7 +2808,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ParryRepeated1",
@@ -2811,7 +2816,7 @@
       "Name": "No, Thanks!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "PhaseDiveCounter",
@@ -2819,7 +2824,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -2827,7 +2832,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "PidgeDefeated",
@@ -2851,7 +2856,7 @@
       "Name": "Honest Mistake",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ScrambotCompletion1",
@@ -2883,7 +2888,7 @@
       "Name": "Fast Learner",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "SpeedRun",
@@ -2899,7 +2904,7 @@
       "Name": "Sump Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "SyronGift",
@@ -2923,7 +2928,7 @@
       "Name": "Theater Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -2931,7 +2936,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "WarwickDefeated",
@@ -2939,7 +2944,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "WatcherFought",
@@ -2947,7 +2952,7 @@
       "Name": "Ask Questions Later",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "WatcherSpared",
@@ -2978,7 +2983,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 945,
+      "Progressed": 946,
       "Completed": 6
     }
   ],
@@ -2986,8 +2991,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-01T12:08:54.1728044+00:00",
+  "LastChanged_Achievements": "2023-12-01T13:15:46.3283722+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.4880941+00:00",
-  "LastUpdate_Ratings": "2023-12-01T12:00:37.2746049+00:00",
-  "LastUpdate_Achievements": "2023-12-01T12:08:54.1728553+00:00"
+  "LastUpdate_Ratings": "2023-12-01T13:07:59.9056188+00:00",
+  "LastUpdate_Achievements": "2023-12-01T13:15:46.3284247+00:00"
 }

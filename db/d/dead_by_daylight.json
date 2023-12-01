@@ -2,7 +2,7 @@
   "ID": "611482b8586142cda48a0786eb8a127c",
   "Name": "Dead by Daylight",
   "ProductSlug": "dead-by-daylight",
-  "Ranking_Rating": 571,
+  "Ranking_Rating": 572,
   "Ranking_Popularity": 15,
   "Ranking_PopularitySum": 12,
   "Ranking_EOS_Progress": 14,
@@ -13226,9 +13226,9 @@
       "Count": 27382
     }
   ],
-  "EOS_Progressed": 1057573,
+  "EOS_Progressed": 1057679,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 16826,
+  "EOS_NewPlayers": 16848,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39066,6 +39066,11 @@
       "Time": "2023-12-01T12:09:29.8287295+00:00",
       "NumProgressed": 1057573,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-01T13:16:31.487845+00:00",
+      "NumProgressed": 1057679,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 232,
@@ -39245,7 +39250,7 @@
       "Name": "Zealous",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 4230
+      "UsersEstimate": 4231
     },
     {
       "ID": "ACH_023",
@@ -39261,7 +39266,7 @@
       "Name": "Not half bad",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 4230
+      "UsersEstimate": 4231
     },
     {
       "ID": "ACH_025",
@@ -39389,7 +39394,7 @@
       "Name": "I",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 4230
+      "UsersEstimate": 4231
     },
     {
       "ID": "ACH_041",
@@ -40723,9 +40728,9 @@
       "ID": "ACH_210",
       "SetID": "16jml5b",
       "Name": "Lifting The Fog",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1058
+      "UsersEstimate": 2115
     },
     {
       "ID": "ACH_211",
@@ -40932,21 +40937,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1057573,
+      "Progressed": 1057679,
       "Completed": 66
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1057573,
+      "Progressed": 1057679,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-12-01T09:59:50.8688602+00:00",
-  "LastChanged_Achievements": "2023-12-01T12:09:29.8287289+00:00",
+  "LastChanged_Achievements": "2023-12-01T13:16:31.4878445+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:00.7078103+00:00",
-  "LastUpdate_Ratings": "2023-12-01T11:59:56.915742+00:00",
-  "LastUpdate_Achievements": "2023-12-01T12:09:29.829315+00:00"
+  "LastUpdate_Ratings": "2023-12-01T13:07:03.6997255+00:00",
+  "LastUpdate_Achievements": "2023-12-01T13:16:31.4883843+00:00"
 }
