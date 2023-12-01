@@ -11,7 +11,7 @@
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.24% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 11 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 12 | [The Riflemen](games/t/the_riflemen.md) | 25.73% |
+| 12 | [The Riflemen](games/t/the_riflemen.md) | 25.72% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.40% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 14 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -71,7 +71,7 @@
 | 69 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
 | 70 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 70 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 72 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.34% |
+| 72 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.33% |
 | 73 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 5.26% |
 | 74 | [JARS](games/j/jars.md) | 5.00% |
 | 75 | [Bugsnax](games/b/bugsnax.md) | 4.84% |
@@ -98,7 +98,7 @@
 | 96 | [Bunny Park](games/b/bunny_park.md) | 3.31% |
 | 97 | [The Complex](games/t/the_complex.md) | 3.22% |
 | 98 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.17% |
-| 99 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.16% |
+| 99 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.15% |
 | 100 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
 | 101 | [Doodle God](games/d/doodle_god.md) | 3.10% |
 | 102 | [Destiny 2](games/d/destiny_2.md) | 3.08% |
@@ -110,10 +110,10 @@
 | 108 | [Without Escape](games/w/without_escape.md) | 2.94% |
 | 109 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 110 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.79% |
-| 111 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 2.78% |
 | 111 | [Mega City Force](games/m/mega_city_police.md) | 2.78% |
-| 113 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
-| 114 | [FORECLOSED](games/f/foreclosed.md) | 2.73% |
+| 112 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
+| 113 | [FORECLOSED](games/f/foreclosed.md) | 2.73% |
+| 114 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 2.70% |
 | 115 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.63% |
 | 116 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.53% |
 | 117 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.52% |
@@ -124,16 +124,16 @@
 | 122 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.38% |
 | 123 | [Bloodshore](games/b/bloodshore.md) | 2.26% |
 | 124 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.25% |
-| 125 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.22% |
+| 125 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.21% |
 | 126 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.05% |
-| 127 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.92% |
-| 128 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.90% |
-| 129 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.89% |
-| 130 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.87% |
-| 130 | [Somerville](games/s/somerville.md) | 1.87% |
-| 132 | [Sifu](games/s/sifu.md) | 1.80% |
-| 133 | [Dungeons 4](games/d/dungeons_4.md) | 1.78% |
-| 133 | [Frogun](games/f/frogun.md) | 1.78% |
+| 127 | [Dungeons 4](games/d/dungeons_4.md) | 1.98% |
+| 128 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.92% |
+| 129 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.90% |
+| 130 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.89% |
+| 131 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.87% |
+| 131 | [Somerville](games/s/somerville.md) | 1.87% |
+| 133 | [Sifu](games/s/sifu.md) | 1.80% |
+| 134 | [Frogun](games/f/frogun.md) | 1.78% |
 | 135 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.76% |
 | 136 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.71% |
 | 137 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 1.67% |
@@ -149,7 +149,7 @@
 | 147 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.34% |
 | 148 | [Poosh XL](games/p/poosh_xl.md) | 1.32% |
 | 149 | [Chorus](games/c/chorus.md) | 1.31% |
-| 149 | [Late Shift](games/l/late_shift.md) | 1.31% |
+| 150 | [Late Shift](games/l/late_shift.md) | 1.30% |
 | 151 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.29% |
 | 151 | [Ten Dates](games/t/ten_dates.md) | 1.29% |
 | 153 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.27% |
