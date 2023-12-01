@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 86.00% | ~36 |
-| Air Fighter | 83.00% | ~35 |
-| Oo-De-Lally | 74.00% | ~31 |
-| The Altruist | 71.00% | ~30 |
-| Treasure Hunter | 67.00% | ~28 |
-| Tap Dancing | 57.00% | ~24 |
-| Watch your Step! | 55.00% | ~23 |
-| MAX LEVEL | 50.00% | ~21 |
-| Right between the eyes | 45.00% | ~19 |
-| Merry Co-operation | 38.00% | ~16 |
-| Starry Night | 33.00% | ~14 |
-| Spring Board | 33.00% | ~14 |
-| Savior | 31.00% | ~13 |
-| Rebel Unleashed | 31.00% | ~13 |
-| Finish Him! | 29.00% | ~12 |
-| Assault on the Ram | 26.00% | ~11 |
-| First Aid | 26.00% | ~11 |
-| Locksley's Tears | 24.00% | ~10 |
-| Merry Go Round | 24.00% | ~10 |
-| Ultra Rebel Instinct | 21.00% | ~9 |
-| Ascending Will | 19.00% | ~8 |
-| Ultra Combo | 19.00% | ~8 |
-| Take Action! | 19.00% | ~8 |
-| Haute Couture | 12.00% | ~5 |
-| Brilliant Executioner | 10.00% | ~4 |
+| Act of Kindness | 84.00% | ~37 |
+| Air Fighter | 80.00% | ~35 |
+| Oo-De-Lally | 73.00% | ~32 |
+| The Altruist | 68.00% | ~30 |
+| Treasure Hunter | 64.00% | ~28 |
+| Tap Dancing | 55.00% | ~24 |
+| Watch your Step! | 52.00% | ~23 |
+| MAX LEVEL | 48.00% | ~21 |
+| Right between the eyes | 45.00% | ~20 |
+| Merry Co-operation | 36.00% | ~16 |
+| Starry Night | 32.00% | ~14 |
+| Spring Board | 32.00% | ~14 |
+| Savior | 30.00% | ~13 |
+| Rebel Unleashed | 30.00% | ~13 |
+| Finish Him! | 27.00% | ~12 |
+| Assault on the Ram | 25.00% | ~11 |
+| First Aid | 25.00% | ~11 |
+| Locksley's Tears | 23.00% | ~10 |
+| Merry Go Round | 23.00% | ~10 |
+| Ultra Rebel Instinct | 20.00% | ~9 |
+| Ascending Will | 18.00% | ~8 |
+| Ultra Combo | 18.00% | ~8 |
+| Take Action! | 18.00% | ~8 |
+| Haute Couture | 11.00% | ~5 |
+| Brilliant Executioner | 9.00% | ~4 |
+| Hidden Experiment | 9.00% | ~4 |
 | The Gang prevails | 7.00% | ~3 |
 | Sky High Fighter | 7.00% | ~3 |
-| Hidden Experiment | 7.00% | ~3 |
 | Into the Lion's Den | 7.00% | ~3 |
 | King of the Iron Fist | 5.00% | ~2 |
 | Bold and Bossy | 5.00% | ~2 |
@@ -58,7 +58,7 @@
 | Master of All | 0.00% | ~0 |
 | Fashionista | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42 (Ranked 511)  
+Progressed: 44 (Ranked 508)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,4 +70,4 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-28 | 21 | 0 |
 | 2023-11-29 | 24 | 0 |
 | 2023-11-30 | 30 | 0 |
-| 2023-12-01 | 42 | 0 |
+| 2023-12-01 | 44 | 0 |

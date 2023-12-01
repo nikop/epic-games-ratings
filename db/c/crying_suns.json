@@ -643,9 +643,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471607,
+  "EOS_Progressed": 471611,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 320,
+  "EOS_NewPlayers": 321,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24043,6 +24043,11 @@
       "Time": "2023-12-01T13:16:28.6749848+00:00",
       "NumProgressed": 471607,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-01T15:09:19.7566599+00:00",
+      "NumProgressed": 471611,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -24054,7 +24059,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70741
+      "UsersEstimate": 70742
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -24062,7 +24067,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70741
+      "UsersEstimate": 70742
     },
     {
       "ID": "achievement_first_death",
@@ -24070,7 +24075,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113186
+      "UsersEstimate": 113187
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -24086,7 +24091,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70741
+      "UsersEstimate": 70742
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -24110,7 +24115,7 @@
       "Name": "Chapter V: Memories of None",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 28296
+      "UsersEstimate": 28297
     },
     {
       "ID": "achievement_story_ending_earth",
@@ -24142,7 +24147,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311261
+      "UsersEstimate": 311263
     },
     {
       "ID": "achievement_story_landa",
@@ -24150,7 +24155,7 @@
       "Name": "Kill the Doctor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23580
+      "UsersEstimate": 23581
     },
     {
       "ID": "achievement_story_meet_cryo_rebecca",
@@ -24158,7 +24163,7 @@
       "Name": "Forsaken",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23580
+      "UsersEstimate": 23581
     },
     {
       "ID": "achievement_story_meet_idaho_b",
@@ -24174,7 +24179,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117902
+      "UsersEstimate": 117903
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -24182,7 +24187,7 @@
       "Name": "Meet your maker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28296
+      "UsersEstimate": 28297
     },
     {
       "ID": "achievement_story_meet_okonkwo",
@@ -24190,7 +24195,7 @@
       "Name": "Admiral Okonkwo",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33012
+      "UsersEstimate": 33013
     },
     {
       "ID": "achievement_story_meet_survivalists",
@@ -24198,7 +24203,7 @@
       "Name": "The Survivalists",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33012
+      "UsersEstimate": 33013
     },
     {
       "ID": "achievement_story_meet_tetsuo",
@@ -24222,7 +24227,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70741
+      "UsersEstimate": 70742
     },
     {
       "ID": "achievement_story_neon_child",
@@ -24230,7 +24235,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94321
+      "UsersEstimate": 94322
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -24238,7 +24243,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160346
+      "UsersEstimate": 160348
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -24254,7 +24259,7 @@
       "Name": "Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23580
+      "UsersEstimate": 23581
     },
     {
       "ID": "achievement_unlock_officer_as_1",
@@ -24262,7 +24267,7 @@
       "Name": "The Impersonator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28296
+      "UsersEstimate": 28297
     },
     {
       "ID": "achievement_unlock_officer_as_2",
@@ -24270,7 +24275,7 @@
       "Name": "The Kid",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28296
+      "UsersEstimate": 28297
     },
     {
       "ID": "achievement_unlock_officer_church_1",
@@ -24278,7 +24283,7 @@
       "Name": "The Evangelist",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28296
+      "UsersEstimate": 28297
     },
     {
       "ID": "achievement_unlock_officer_church_2",
@@ -24286,7 +24291,7 @@
       "Name": "The Inquisitor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28296
+      "UsersEstimate": 28297
     },
     {
       "ID": "achievement_unlock_officer_empire_1",
@@ -24294,7 +24299,7 @@
       "Name": "The Tech Specialist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33012
+      "UsersEstimate": 33013
     },
     {
       "ID": "achievement_unlock_officer_empire_2",
@@ -24302,7 +24307,7 @@
       "Name": "The Ace Pilot",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28296
+      "UsersEstimate": 28297
     },
     {
       "ID": "achievement_unlock_officer_kb_1",
@@ -24310,7 +24315,7 @@
       "Name": "The Tech Med",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28296
+      "UsersEstimate": 28297
     },
     {
       "ID": "achievement_unlock_officer_kb_2",
@@ -24318,7 +24323,7 @@
       "Name": "The Mech Soldier",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28296
+      "UsersEstimate": 28297
     },
     {
       "ID": "achievement_unlock_officer_kickstarter_1",
@@ -24326,7 +24331,7 @@
       "Name": "The lucky charm",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28296
+      "UsersEstimate": 28297
     },
     {
       "ID": "achievement_unlock_officer_pirate_1",
@@ -24334,7 +24339,7 @@
       "Name": "The Anonymous",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28296
+      "UsersEstimate": 28297
     },
     {
       "ID": "achievement_unlock_officer_pirate_2",
@@ -24342,7 +24347,7 @@
       "Name": "The Smuggler",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28296
+      "UsersEstimate": 28297
     },
     {
       "ID": "achievement_unlock_officer_scrapper_1",
@@ -24350,7 +24355,7 @@
       "Name": "The Crazy Repairman",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28296
+      "UsersEstimate": 28297
     },
     {
       "ID": "achievement_unlock_officer_scrapper_2",
@@ -24358,7 +24363,7 @@
       "Name": "The Weasel",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28296
+      "UsersEstimate": 28297
     },
     {
       "ID": "achievement_win_all_chapers_with_all_bs_easy_normal",
@@ -24478,7 +24483,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207507
+      "UsersEstimate": 207509
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -24486,7 +24491,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141482
+      "UsersEstimate": 141483
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -24510,7 +24515,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183927
+      "UsersEstimate": 183928
     },
     {
       "ID": "achievement_win_run_hard",
@@ -24534,7 +24539,7 @@
       "Name": "Jericho Rule",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23580
+      "UsersEstimate": 23581
     },
     {
       "ID": "achievement_win_run_with_kb",
@@ -24685,21 +24690,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15541,
+      "Progressed": 15545,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471607,
+      "Progressed": 471611,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-12-01T14:09:36.9571421+00:00",
+  "LastChanged_Achievements": "2023-12-01T15:09:19.7566591+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:35.6450304+00:00",
-  "LastUpdate_Ratings": "2023-12-01T13:58:56.887413+00:00",
-  "LastUpdate_Achievements": "2023-12-01T14:09:36.9572802+00:00"
+  "LastUpdate_Ratings": "2023-12-01T14:58:38.4608995+00:00",
+  "LastUpdate_Achievements": "2023-12-01T15:09:19.7568126+00:00"
 }

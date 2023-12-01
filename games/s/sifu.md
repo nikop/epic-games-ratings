@@ -9,12 +9,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Diligence as a goal | 1.00% | ~270 |
 | The Old Grandmaster | 0.70% | ~5,024 |
 | The Assault | 0.70% | ~5,024 |
+| The Hateful Pole Fighter | 0.70% | ~5,024 |
 | Life is your teacher | 0.70% | ~5,024 |
 | State of constant learning | 0.70% | ~5,024 |
 | Qi Gong: Breath | 0.70% | ~5,024 |
 | Lightning Hands | 0.70% | ~5,024 |
 | Project Arena | 0.70% | ~189 |
-| The Hateful Pole Fighter | 0.60% | ~4,306 |
 | A Lady's Blood in the Snow | 0.60% | ~4,306 |
 | Lady Wing Chun | 0.60% | ~4,306 |
 | Street Fighting | 0.60% | ~4,306 |

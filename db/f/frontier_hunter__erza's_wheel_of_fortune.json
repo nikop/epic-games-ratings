@@ -3,8 +3,8 @@
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 318,
-  "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_Completed": 254,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 465,
+  "EOS_Progressed": 466,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.22,
+  "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:54.4863714+00:00",
@@ -1437,6 +1437,11 @@
       "Time": "2023-12-01T11:06:14.650414+00:00",
       "NumProgressed": 465,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-01T15:05:52.074486+00:00",
+      "NumProgressed": 466,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1448,7 +1453,7 @@
       "Name": "Travel Streamer",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1488,7 +1493,7 @@
       "Name": "Youth Magnet",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -1520,7 +1525,7 @@
       "Name": "Kind Adventurer",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -1536,7 +1541,7 @@
       "Name": "Training Simulation",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1584,7 +1589,7 @@
       "Name": "Beginner Artificer",
       "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -1592,7 +1597,7 @@
       "Name": "Master Artificer",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -1600,7 +1605,7 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -1616,7 +1621,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1702,9 +1707,9 @@
       "ID": "ACHIEVEMENT_4",
       "SetID": "7pimpda",
       "Name": "Storm Traveller",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 265
+      "UsersEstimate": 261
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -1768,7 +1773,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -1790,9 +1795,9 @@
       "ID": "ACHIEVEMENT_8",
       "SetID": "7pimpda",
       "Name": "Seal Breaker",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 140
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -1807,7 +1812,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 465,
+      "Progressed": 466,
       "Completed": 1
     }
   ],
@@ -1815,8 +1820,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-01T14:06:34.4831921+00:00",
+  "LastChanged_Achievements": "2023-12-01T15:05:52.0744857+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-12-01T13:59:52.9553829+00:00",
-  "LastUpdate_Achievements": "2023-12-01T14:06:34.4832293+00:00"
+  "LastUpdate_Ratings": "2023-12-01T14:59:26.2977392+00:00",
+  "LastUpdate_Achievements": "2023-12-01T15:05:52.0745187+00:00"
 }

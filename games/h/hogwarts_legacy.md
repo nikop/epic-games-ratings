@@ -5,7 +5,7 @@ Rating: 4.76 (Ranked 128)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,589 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,590 |
 | First Class Student | 15.00% | ~45,553 |
 | Troll with the Punches | 14.00% | ~42,516 |
 | A Keen Sense of Spell | 13.00% | ~39,479 |
@@ -13,14 +13,14 @@ Rating: 4.76 (Ranked 128)
 | The Defender of Dragons | 12.00% | ~36,442 |
 | Loom for Improvement | 12.00% | ~36,442 |
 | A Talent for Spending | 12.00% | ~36,442 |
-| Grappling with a Graphorn | 11.00% | ~33,405 |
-| The One Who Mastered Memories | 11.00% | ~33,405 |
-| The Hallowed Hero | 11.00% | ~33,405 |
-| The Hero of Hogwarts | 11.00% | ~33,405 |
-| Challenge Accepted | 11.00% | ~33,405 |
-| Coasting Along | 11.00% | ~33,405 |
-| Followed the Butterflies | 10.00% | ~30,368 |
-| Rising From the Ashes | 10.00% | ~30,368 |
+| Grappling with a Graphorn | 11.00% | ~33,406 |
+| The One Who Mastered Memories | 11.00% | ~33,406 |
+| The Hallowed Hero | 11.00% | ~33,406 |
+| The Hero of Hogwarts | 11.00% | ~33,406 |
+| Challenge Accepted | 11.00% | ~33,406 |
+| Coasting Along | 11.00% | ~33,406 |
+| Followed the Butterflies | 10.00% | ~30,369 |
+| Rising From the Ashes | 10.00% | ~30,369 |
 | A Sallow Grave | 9.00% | ~27,332 |
 | The Spell Master | 9.00% | ~27,332 |
 | The Avenging Gazelle | 8.00% | ~24,295 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 128)
 | The Nature of the Beast | 0.70% | ~2,126 |
 | Collector's Edition | 0.30% | ~911 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,684 (Ranked 54)  
+Progressed: 303,687 (Ranked 54)  
 Completed: 519 (0.17%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 519 (0.17%) (Ranked 266)
 | 2023-11-28 | 303,515 | 519 |
 | 2023-11-29 | 303,596 | 519 |
 | 2023-11-30 | 303,661 | 519 |
-| 2023-12-01 | 303,684 | 519 |
+| 2023-12-01 | 303,687 | 519 |
 ## Awards
 Max (Character Customization): 24,781  (Ranked 17)  
 Sum: 49,564 (Ranked 30)  

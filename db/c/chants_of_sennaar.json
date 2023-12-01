@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 826,
+  "EOS_Progressed": 828,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 5.33,
+  "EOS_Completed_Percentage": 5.31,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3355,6 +3355,11 @@
       "Time": "2023-12-01T14:06:24.5809292+00:00",
       "NumProgressed": 826,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-12-01T15:05:43.0820281+00:00",
+      "NumProgressed": 828,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 25,
@@ -3406,7 +3411,7 @@
       "Name": "Half the way",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "META_RESULT_1-2",
@@ -3470,7 +3475,7 @@
       "Name": "Rascal",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -3524,9 +3529,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 289
+      "UsersEstimate": 298
     },
     {
       "ID": "PROGRESS_N2",
@@ -3534,7 +3539,7 @@
       "Name": "The great escape",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "PROGRESS_N3",
@@ -3558,21 +3563,21 @@
       "Name": "One last step",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 826,
+      "Progressed": 828,
       "Completed": 44
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-01T14:06:24.580929+00:00",
+  "LastChanged_Achievements": "2023-12-01T15:05:43.0820276+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-12-01T13:59:30.3418368+00:00",
-  "LastUpdate_Achievements": "2023-12-01T14:06:24.5809672+00:00"
+  "LastUpdate_Ratings": "2023-12-01T14:59:05.9238553+00:00",
+  "LastUpdate_Achievements": "2023-12-01T15:05:43.0820522+00:00"
 }

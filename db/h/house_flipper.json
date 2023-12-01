@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 203,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -2115,9 +2115,9 @@
       "Count": 219
     }
   ],
-  "EOS_Progressed": 21410,
+  "EOS_Progressed": 21411,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10885,6 +10885,11 @@
       "Time": "2023-12-01T05:05:37.6144625+00:00",
       "NumProgressed": 21410,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-01T15:04:43.7622175+00:00",
+      "NumProgressed": 21411,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -10928,7 +10933,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2997
+      "UsersEstimate": 2998
     },
     {
       "ID": "EstateAgent",
@@ -10936,7 +10941,7 @@
       "Name": "Estate Agent",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "FirstMoney",
@@ -11000,7 +11005,7 @@
       "Name": "Millionaire",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "MrAndMrsJantart",
@@ -11024,7 +11029,7 @@
       "Name": "Perfectionist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "RafaelErko",
@@ -11079,15 +11084,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21410,
+      "Progressed": 21411,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-11-30T01:46:27.0551491+00:00",
-  "LastChanged_Achievements": "2023-12-01T14:05:17.71921+00:00",
+  "LastChanged_Achievements": "2023-12-01T15:04:43.7622171+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:03.9254817+00:00",
-  "LastUpdate_Ratings": "2023-12-01T14:00:14.8436506+00:00",
-  "LastUpdate_Achievements": "2023-12-01T14:05:17.7192646+00:00"
+  "LastUpdate_Ratings": "2023-12-01T14:59:44.234928+00:00",
+  "LastUpdate_Achievements": "2023-12-01T15:04:43.7622636+00:00"
 }

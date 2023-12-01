@@ -12,9 +12,9 @@ Number of Ratings: 177  (23.09.2022)
 | Caught in the Act | 3.00% | ~196 |
 | Katherine | 3.00% | ~196 |
 | Life Found a Way | 3.00% | ~107 |
+| Relentless | 3.00% | ~196 |
 | If at First You Don't Succeed... | 3.00% | ~196 |
 | Drunk and Disorderly: Stephanie | 2.00% | ~131 |
-| Relentless | 2.00% | ~131 |
 | Amy | 1.00% | ~65 |
 | Drunk and Disorderly: Ashley | 1.00% | ~65 |
 | IRL Let's Player | 1.00% | ~65 |

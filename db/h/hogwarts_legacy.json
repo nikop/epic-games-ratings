@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11319,9 +11319,9 @@
       "Count": 826
     }
   ],
-  "EOS_Progressed": 303684,
+  "EOS_Progressed": 303687,
   "EOS_Completed": 519,
-  "EOS_NewPlayers": 774,
+  "EOS_NewPlayers": 772,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -35559,6 +35559,11 @@
       "Time": "2023-12-01T14:09:32.7981529+00:00",
       "NumProgressed": 303684,
       "NumCompleted": 519
+    },
+    {
+      "Time": "2023-12-01T15:09:16.030072+00:00",
+      "NumProgressed": 303687,
+      "NumCompleted": 519
     }
   ],
   "TotalAchievements": 45,
@@ -35570,7 +35575,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48589
+      "UsersEstimate": 48590
     },
     {
       "ID": "PFA_10",
@@ -35578,7 +35583,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33405
+      "UsersEstimate": 33406
     },
     {
       "ID": "PFA_11",
@@ -35586,7 +35591,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33405
+      "UsersEstimate": 33406
     },
     {
       "ID": "PFA_12",
@@ -35594,7 +35599,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33405
+      "UsersEstimate": 33406
     },
     {
       "ID": "PFA_13",
@@ -35602,7 +35607,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 33405
+      "UsersEstimate": 33406
     },
     {
       "ID": "PFA_14",
@@ -35674,7 +35679,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33405
+      "UsersEstimate": 33406
     },
     {
       "ID": "PFA_22",
@@ -35794,7 +35799,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30368
+      "UsersEstimate": 30369
     },
     {
       "ID": "PFA_36",
@@ -35826,7 +35831,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33405
+      "UsersEstimate": 33406
     },
     {
       "ID": "PFA_4",
@@ -35922,14 +35927,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30368
+      "UsersEstimate": 30369
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303684,
+      "Progressed": 303687,
       "Completed": 519
     }
   ],
@@ -35937,8 +35942,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-01T11:57:35.7751015+00:00",
-  "LastChanged_Achievements": "2023-12-01T14:09:32.7981526+00:00",
+  "LastChanged_Achievements": "2023-12-01T15:09:16.0300714+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7292094+00:00",
-  "LastUpdate_Ratings": "2023-12-01T13:57:36.478323+00:00",
-  "LastUpdate_Achievements": "2023-12-01T14:09:32.798328+00:00"
+  "LastUpdate_Ratings": "2023-12-01T14:57:29.3497716+00:00",
+  "LastUpdate_Achievements": "2023-12-01T15:09:16.0302074+00:00"
 }

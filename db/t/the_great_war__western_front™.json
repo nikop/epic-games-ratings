@@ -2,12 +2,12 @@
   "ID": "d84e1be6c7764408b3d0f610c84cb8ea",
   "Name": "The Great War: Western Front\u2122",
   "ProductSlug": "the-great-war-western-front",
-  "Ranking_Rating": 993,
+  "Ranking_Rating": 994,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -73,9 +73,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 571,
+  "EOS_Progressed": 573,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2618,6 +2618,11 @@
       "Time": "2023-11-30T17:06:08.3078242+00:00",
       "NumProgressed": 571,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T15:04:43.5056952+00:00",
+      "NumProgressed": 573,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2653,7 +2658,7 @@
       "Name": "From the Pages of History",
       "Percentage": 9,
       "XP": 85,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "COMPLETE_MULTIPLAYER_MATCH",
@@ -2691,9 +2696,9 @@
       "ID": "USE_UNDERMINE",
       "SetID": "6kcl14p",
       "Name": "Earth Shattering",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 90,
-      "UsersEstimate": 280
+      "UsersEstimate": 275
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -2724,7 +2729,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 571,
+      "Progressed": 573,
       "Completed": 0
     }
   ],
@@ -2732,8 +2737,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-11-20T01:47:16.6107096+00:00",
-  "LastChanged_Achievements": "2023-12-01T14:05:17.4733408+00:00",
+  "LastChanged_Achievements": "2023-12-01T15:04:43.5056948+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:50.4865731+00:00",
-  "LastUpdate_Ratings": "2023-12-01T13:58:16.7723222+00:00",
-  "LastUpdate_Achievements": "2023-12-01T14:05:17.4733688+00:00"
+  "LastUpdate_Ratings": "2023-12-01T14:58:04.0390871+00:00",
+  "LastUpdate_Achievements": "2023-12-01T15:04:43.5057115+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -1185,9 +1185,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 67831,
+  "EOS_Progressed": 67833,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 453,
+  "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -11065,6 +11065,11 @@
       "Time": "2023-12-01T12:05:49.7795386+00:00",
       "NumProgressed": 67831,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-01T15:05:29.3269052+00:00",
+      "NumProgressed": 67833,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -11077,7 +11082,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23741
+      "UsersEstimate": 23742
     },
     {
       "ID": "10",
@@ -11165,7 +11170,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5426
+      "UsersEstimate": 5427
     },
     {
       "ID": "6",
@@ -11204,7 +11209,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 67831,
+      "Progressed": 67833,
       "Completed": 38
     }
   ],
@@ -11212,8 +11217,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-30T15:59:22.6557041+00:00",
-  "LastChanged_Achievements": "2023-12-01T14:06:09.2142121+00:00",
+  "LastChanged_Achievements": "2023-12-01T15:05:29.3269046+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:13.9511371+00:00",
-  "LastUpdate_Ratings": "2023-12-01T13:59:08.3209227+00:00",
-  "LastUpdate_Achievements": "2023-12-01T14:06:09.214275+00:00"
+  "LastUpdate_Ratings": "2023-12-01T14:58:47.2292975+00:00",
+  "LastUpdate_Achievements": "2023-12-01T15:05:29.327002+00:00"
 }

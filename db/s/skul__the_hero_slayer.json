@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -1065,10 +1065,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 937,
       "NumberOfAwardsMax": 134
+    },
+    {
+      "Time": "2023-12-01T14:59:25.7477206+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 938,
+      "NumberOfAwardsMax": 134
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 937,
+  "NumberOfAwards": 938,
   "NumberOfAwardsMax": 134,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1094,7 +1100,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 114
+      "Count": 115
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1139,9 +1145,9 @@
       "Count": 134
     }
   ],
-  "EOS_Progressed": 8368,
+  "EOS_Progressed": 8369,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5684,6 +5690,11 @@
       "Time": "2023-11-30T20:06:29.5946874+00:00",
       "NumProgressed": 8368,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-01T15:05:28.6791177+00:00",
+      "NumProgressed": 8369,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 24,
@@ -5695,7 +5706,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2009
     },
     {
       "ID": "Chatterbox",
@@ -5783,7 +5794,7 @@
       "Name": "The Hero Killer",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 2510
+      "UsersEstimate": 2511
     },
     {
       "ID": "LeoniasFall",
@@ -5855,7 +5866,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7782
+      "UsersEstimate": 7783
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -5863,7 +5874,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 4100
+      "UsersEstimate": 4101
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -5879,22 +5890,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 7029
+      "UsersEstimate": 7030
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8368,
+      "Progressed": 8369,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2023-11-30T17:59:28.8313715+00:00",
-  "LastChanged_Achievements": "2023-12-01T14:06:08.4995779+00:00",
+  "LastChanged": "2023-12-01T14:59:25.7477206+00:00",
+  "LastChanged_Achievements": "2023-12-01T15:05:28.6791173+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.1005476+00:00",
-  "LastUpdate_Ratings": "2023-12-01T13:59:52.308728+00:00",
-  "LastUpdate_Achievements": "2023-12-01T14:06:08.4996183+00:00"
+  "LastUpdate_Ratings": "2023-12-01T14:59:25.747721+00:00",
+  "LastUpdate_Achievements": "2023-12-01T15:05:28.6791508+00:00"
 }

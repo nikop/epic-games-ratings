@@ -6886,9 +6886,9 @@
       "ID": "Pat_Relentless",
       "SetID": "bmkn7o4",
       "Name": "Relentless",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 196
     },
     {
       "ID": "Penguinfucker",
@@ -7132,8 +7132,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-12-01T14:06:38.6625908+00:00",
+  "LastChanged_Achievements": "2023-12-01T15:05:55.7550594+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:05.3490956+00:00",
-  "LastUpdate_Ratings": "2023-12-01T14:00:09.7717705+00:00",
-  "LastUpdate_Achievements": "2023-12-01T14:06:38.6626596+00:00"
+  "LastUpdate_Ratings": "2023-12-01T14:59:39.9415813+00:00",
+  "LastUpdate_Achievements": "2023-12-01T15:05:55.7551302+00:00"
 }

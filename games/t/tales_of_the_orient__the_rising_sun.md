@@ -14,7 +14,7 @@
 | 5 Hours! | 33.00% | ~6 |
 | 10 Hours! | 28.00% | ~5 |
 | Almost there! | 28.00% | ~5 |
-| You did it! | 11.00% | ~2 |
+| You did it! | 17.00% | ~3 |
 | I can't stop playing! | 6.00% | ~1 |
 | Keep Going | 0.00% | ~0 |
 | Chain Mode | 0.00% | ~0 |

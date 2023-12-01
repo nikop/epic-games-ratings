@@ -1,22 +1,22 @@
 # Remnant 2
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.75 (Ranked 149)  
+Rating: 4.75 (Ranked 148)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Killing Jar | 0.70% | ~1,623 |
 | First of Many | 0.70% | ~1,623 |
-| Regicide | 0.70% | ~77 |
-| Master of the Dark Arts | 0.70% | ~77 |
-| Not Your Average Trait | 0.50% | ~1,159 |
-| Expanding Horizons | 0.40% | ~927 |
-| Gleaming the Cube | 0.40% | ~927 |
-| Not So Special Now | 0.40% | ~927 |
-| Quest for Survival | 0.40% | ~927 |
-| Familiar Face | 0.40% | ~927 |
-| Boss'n Up | 0.40% | ~927 |
-| Trait Chaser | 0.40% | ~927 |
+| Regicide | 0.70% | ~78 |
+| Master of the Dark Arts | 0.70% | ~78 |
+| Not Your Average Trait | 0.50% | ~1,160 |
+| Expanding Horizons | 0.40% | ~928 |
+| Gleaming the Cube | 0.40% | ~928 |
+| Not So Special Now | 0.40% | ~928 |
+| Quest for Survival | 0.40% | ~928 |
+| Familiar Face | 0.40% | ~928 |
+| Boss'n Up | 0.40% | ~928 |
+| Trait Chaser | 0.40% | ~928 |
 | Am I Seeing This? | 0.30% | ~696 |
 | Not a Janitor | 0.30% | ~696 |
 | Equal Measures | 0.30% | ~696 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 149)
 | Maxed Out! | 0.10% | ~232 |
 | A Foul Feast | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,868 (Ranked 69)  
+Progressed: 231,922 (Ranked 69)  
 Completed: 544 (0.23%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 544 (0.23%) (Ranked 250)
 | 2023-11-28 | 230,188 | 541 |
 | 2023-11-29 | 230,694 | 542 |
 | 2023-11-30 | 231,406 | 542 |
-| 2023-12-01 | 231,868 | 544 |
+| 2023-12-01 | 231,922 | 544 |
 ## Awards
 Max (Great Boss Battles): 2,533  (Ranked 102)  
 Sum: 6,228 (Ranked 129)  

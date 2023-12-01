@@ -24,8 +24,8 @@
 | Hard Work | 48.00% | ~243 |
 | YOU SHALL NOT PASS! | 47.00% | ~238 |
 | The Big Eaty | 47.00% | ~238 |
+| Pure Dynamite! | 43.00% | ~218 |
 | “… like son” | 43.00% | ~218 |
-| Pure Dynamite! | 42.00% | ~213 |
 | Dungeonlord Gorgu | 39.00% | ~198 |
 | Shame! Shame! Shame! | 39.00% | ~198 |
 | The Cathedral of Light | 38.00% | ~193 |

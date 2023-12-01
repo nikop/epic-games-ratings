@@ -6,10 +6,10 @@ Rating: 4.44 (Ranked 681)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~1,861 |
-| Confirming Suspicions | 41.00% | ~1,623 |
+| Confirming Suspicions | 41.00% | ~1,624 |
 | The Kraken Wakes | 37.00% | ~1,465 |
 | It's Starting to Crack | 34.00% | ~1,346 |
-| Change the Channel | 31.00% | ~1,227 |
+| Change the Channel | 31.00% | ~1,228 |
 | Lord of War | 30.00% | ~1,188 |
 | Taking it back | 29.00% | ~1,148 |
 | Resourceful | 27.00% | ~1,069 |
@@ -23,9 +23,9 @@ Rating: 4.44 (Ranked 681)
 | Explosive Efficiency | 19.00% | ~752 |
 | Just a Flesh Wound | 17.00% | ~673 |
 | Der Geist | 17.00% | ~673 |
-| Climbing the Ladder | 16.00% | ~633 |
-| Close Quarters | 16.00% | ~633 |
-| Snake in the Grass | 16.00% | ~633 |
+| Climbing the Ladder | 16.00% | ~634 |
+| Close Quarters | 16.00% | ~634 |
+| Snake in the Grass | 16.00% | ~634 |
 | Skirmisher | 15.00% | ~594 |
 | Die Nussknacker Sweet! | 15.00% | ~594 |
 | Brains of the Operation | 15.00% | ~594 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 681)
 | Stroll in the Woods | 0.60% | ~23 |
 | Going Overboard | 0.60% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,959 (Ranked 198)  
+Progressed: 3,960 (Ranked 198)  
 Completed: 11 (0.28%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 11 (0.28%) (Ranked 242)
 | 2023-11-28 | 3,949 | 11 |
 | 2023-11-29 | 3,955 | 11 |
 | 2023-11-30 | 3,958 | 11 |
-| 2023-12-01 | 3,959 | 11 |
+| 2023-12-01 | 3,960 | 11 |
 ## Awards
 Max (Great for Beginners): 27  (Ranked 513)  
 Sum: 27 (Ranked 527)  

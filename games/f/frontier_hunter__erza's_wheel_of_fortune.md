@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 92.00% | ~428 |
-| Training Simulation | 77.00% | ~358 |
-| Kuku Bird Hunter | 63.00% | ~293 |
-| Storm Traveller | 57.00% | ~265 |
-| Wolf King Killer | 51.00% | ~237 |
-| Fashion Connoisseur | 50.00% | ~232 |
+| Travel Streamer | 92.00% | ~429 |
+| Training Simulation | 77.00% | ~359 |
+| Kuku Bird Hunter | 63.00% | ~294 |
+| Storm Traveller | 56.00% | ~261 |
+| Wolf King Killer | 51.00% | ~238 |
+| Fashion Connoisseur | 50.00% | ~233 |
 | Arms Mechanic | 46.00% | ~214 |
 | Flower Thief | 41.00% | ~191 |
 | Apostle of Flame | 37.00% | ~172 |
-| Beginner Artificer | 36.00% | ~167 |
+| Beginner Artificer | 36.00% | ~168 |
 | Beginner Cook | 35.00% | ~163 |
-| Seal Breaker | 31.00% | ~144 |
+| Seal Breaker | 30.00% | ~140 |
 | Handyman | 27.00% | ~126 |
 | Giant Lizard Killer | 26.00% | ~121 |
 | Guardian | 25.00% | ~116 |
@@ -23,12 +23,12 @@
 | Trader | 20.00% | ~93 |
 | Weapon Boost | 20.00% | ~93 |
 | Flying Kobold Killer | 17.00% | ~79 |
-| Youth Magnet | 16.00% | ~74 |
-| Master Artificer | 16.00% | ~74 |
+| Youth Magnet | 16.00% | ~75 |
+| Master Artificer | 16.00% | ~75 |
 | Furious Scorpion Killer | 15.00% | ~70 |
 | Lethal Blade Mantis Killer | 15.00% | ~70 |
 | Squeaky Clean | 15.00% | ~70 |
-| Kind Adventurer | 13.00% | ~60 |
+| Kind Adventurer | 13.00% | ~61 |
 | Mermaid Killer | 12.00% | ~56 |
 | Cave Master | 12.00% | ~56 |
 | Face Slapper | 12.00% | ~56 |
@@ -50,8 +50,8 @@
 | Giantess Challenge | 1.00% | ~5 |
 | Warden Challenge | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 465 (Ranked 318)  
-Completed: 1 (0.22%) (Ranked 253)  
+Progressed: 466 (Ranked 318)  
+Completed: 1 (0.21%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -138,7 +138,7 @@ Completed: 1 (0.22%) (Ranked 253)
 | 2023-11-28 | 411 | 1 |
 | 2023-11-29 | 439 | 1 |
 | 2023-11-30 | 461 | 1 |
-| 2023-12-01 | 465 | 1 |
+| 2023-12-01 | 466 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

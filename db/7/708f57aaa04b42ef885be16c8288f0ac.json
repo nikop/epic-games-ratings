@@ -165,9 +165,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7207,
+  "EOS_Progressed": 7209,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 979,
+  "EOS_NewPlayers": 965,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5145,6 +5145,11 @@
       "Time": "2023-12-01T14:09:18.6883856+00:00",
       "NumProgressed": 7207,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-01T15:09:03.3695887+00:00",
+      "NumProgressed": 7209,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5229,7 +5234,7 @@
       "Name": "First Time?",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2090
+      "UsersEstimate": 2091
     },
     {
       "ID": "FuneralForTheDeath",
@@ -5309,7 +5314,7 @@
       "Name": "No More Totems",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "NotLikeTheOthers",
@@ -5381,7 +5386,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -5413,7 +5418,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "k01101110",
@@ -5428,7 +5433,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7207,
+      "Progressed": 7209,
       "Completed": 9
     }
   ],
@@ -5436,8 +5441,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-01T01:56:51.5365548+00:00",
-  "LastChanged_Achievements": "2023-12-01T14:09:18.6883852+00:00",
+  "LastChanged_Achievements": "2023-12-01T15:09:03.3695882+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-01T14:00:28.472542+00:00",
-  "LastUpdate_Achievements": "2023-12-01T14:09:18.6884231+00:00"
+  "LastUpdate_Ratings": "2023-12-01T14:59:56.0987443+00:00",
+  "LastUpdate_Achievements": "2023-12-01T15:09:03.3696264+00:00"
 }

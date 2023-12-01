@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2321,
+  "EOS_Progressed": 2322,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
@@ -5592,6 +5592,11 @@
       "Time": "2023-12-01T13:16:27.3677952+00:00",
       "NumProgressed": 2321,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T15:09:18.6844483+00:00",
+      "NumProgressed": 2322,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5612,7 +5617,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -5780,7 +5785,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -5900,7 +5905,7 @@
       "Name": "Eat My Dust",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -5995,14 +6000,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2321,
+      "Progressed": 2322,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-01T14:09:35.7705977+00:00",
+  "LastChanged_Achievements": "2023-12-01T15:09:18.6844479+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:35.7913611+00:00",
-  "LastUpdate_Ratings": "2023-12-01T14:02:55.2621161+00:00",
-  "LastUpdate_Achievements": "2023-12-01T14:09:35.7706516+00:00"
+  "LastUpdate_Ratings": "2023-12-01T15:02:36.3107807+00:00",
+  "LastUpdate_Achievements": "2023-12-01T15:09:18.6844956+00:00"
 }

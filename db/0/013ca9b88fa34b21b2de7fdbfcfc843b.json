@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8194,
+  "EOS_Progressed": 8195,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7798,6 +7798,11 @@
       "Time": "2023-12-01T14:09:32.2979405+00:00",
       "NumProgressed": 8194,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-01T15:09:15.5937126+00:00",
+      "NumProgressed": 8195,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -7898,7 +7903,7 @@
       "Name": "Lumberjack",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2212
+      "UsersEstimate": 2213
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -7906,7 +7911,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3523
+      "UsersEstimate": 3524
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -7914,7 +7919,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 4015
+      "UsersEstimate": 4016
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -7946,7 +7951,7 @@
       "Name": "Humble Collector",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3523
+      "UsersEstimate": 3524
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -7962,7 +7967,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 4998
+      "UsersEstimate": 4999
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -7986,7 +7991,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3851
+      "UsersEstimate": 3852
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -8082,29 +8087,29 @@
       "Name": "Skilled",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8194,
+      "Progressed": 8195,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 811,
-      "Completed": 811
+      "Progressed": 812,
+      "Completed": 812
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-26T23:02:38.616334+00:00",
-  "LastChanged_Achievements": "2023-12-01T14:09:32.2979402+00:00",
+  "LastChanged_Achievements": "2023-12-01T15:09:15.593712+00:00",
   "LastUpdate_AppInfo": "2023-12-01T09:57:19.7790129+00:00",
-  "LastUpdate_Ratings": "2023-12-01T14:03:10.7700549+00:00",
-  "LastUpdate_Achievements": "2023-12-01T14:09:32.2980143+00:00"
+  "LastUpdate_Ratings": "2023-12-01T15:02:49.6093852+00:00",
+  "LastUpdate_Achievements": "2023-12-01T15:09:15.5937565+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -1886,9 +1886,9 @@
       "ID": "nueva_beginnings",
       "SetID": "c4ipj3h",
       "Name": "Nueva Beginnings",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 244
+      "UsersEstimate": 251
     },
     {
       "ID": "only_thyme_will_tell",
@@ -1943,8 +1943,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-12-01T14:09:15.4054443+00:00",
+  "LastChanged_Achievements": "2023-12-01T15:09:00.4678035+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:08.7163399+00:00",
-  "LastUpdate_Ratings": "2023-12-01T13:58:27.4300754+00:00",
-  "LastUpdate_Achievements": "2023-12-01T14:09:15.4054616+00:00"
+  "LastUpdate_Ratings": "2023-12-01T14:58:13.1557965+00:00",
+  "LastUpdate_Achievements": "2023-12-01T15:09:00.4678218+00:00"
 }

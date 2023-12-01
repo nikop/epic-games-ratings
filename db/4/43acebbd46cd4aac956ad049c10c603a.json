@@ -171,7 +171,7 @@
   ],
   "EOS_Progressed": 806,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1837,9 +1837,9 @@
       "ID": "AbInitio",
       "SetID": "1n308hc",
       "Name": "Ab Initio",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 56
     },
     {
       "ID": "AnthropicHills",
@@ -1917,9 +1917,9 @@
       "ID": "DesolateIsland",
       "SetID": "1n308hc",
       "Name": "Desolate Island",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     },
     {
       "ID": "Discovery",
@@ -2013,9 +2013,9 @@
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 48
     },
     {
       "ID": "LostMarshes",
@@ -2310,8 +2310,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-30T22:00:34.4965769+00:00",
-  "LastChanged_Achievements": "2023-12-01T14:03:58.1782067+00:00",
+  "LastChanged_Achievements": "2023-12-01T15:03:31.6971838+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-01T14:00:05.5655346+00:00",
-  "LastUpdate_Achievements": "2023-12-01T14:03:58.1782648+00:00"
+  "LastUpdate_Ratings": "2023-12-01T14:59:36.5205613+00:00",
+  "LastUpdate_Achievements": "2023-12-01T15:03:31.6972277+00:00"
 }
