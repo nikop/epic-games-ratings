@@ -11,7 +11,7 @@
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.24% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 11 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 12 | [The Riflemen](games/t/the_riflemen.md) | 25.78% |
+| 12 | [The Riflemen](games/t/the_riflemen.md) | 25.77% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.40% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 14 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -121,7 +121,7 @@
 | 119 | [Lamentum](games/l/lamentum.md) | 2.42% |
 | 120 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.41% |
 | 120 | [Night Book](games/n/night_book.md) | 2.41% |
-| 122 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
+| 122 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.38% |
 | 123 | [Bloodshore](games/b/bloodshore.md) | 2.26% |
 | 124 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.25% |
 | 125 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.22% |
@@ -135,7 +135,7 @@
 | 133 | [Dungeons 4](games/d/dungeons_4.md) | 1.78% |
 | 133 | [Frogun](games/f/frogun.md) | 1.78% |
 | 135 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.76% |
-| 136 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.70% |
+| 136 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.71% |
 | 137 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 1.67% |
 | 138 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.65% |
 | 139 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.61% |
@@ -488,6 +488,7 @@
 | 363 | [FRACTALS OF DESTINY](games/c/c3282c07843f4c4b8601d8c6abd1d7c5.md) | 0.00% |
 | 363 | [FRONT MISSION 1st: Remake](games/e/e6c7d54c946f4d3da27a4a6d4a45202f.md) | 0.00% |
 | 363 | [Full Moon Rush](games/f/full_moon_rush.md) | 0.00% |
+| 363 | [Funtoon's World](games/a/a7ec33941949459cab07e39c65ca4309.md) | 0.00% |
 | 363 | [FUR Squadron](games/f/fur_squadron.md) | 0.00% |
 | 363 | [FutureGrind](games/8/80a76982ecc941dd864a8792a03a5ddc.md) | 0.00% |
 | 363 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 0.00% |
@@ -766,4 +767,4 @@
 | 363 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 363 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 363 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,632 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,633 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
