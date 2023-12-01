@@ -8,10 +8,10 @@
 | 6 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.51% |
 | 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.38% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 38.07% |
-| 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.24% |
+| 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.93% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 11 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 12 | [The Riflemen](games/t/the_riflemen.md) | 25.57% |
+| 12 | [The Riflemen](games/t/the_riflemen.md) | 25.55% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.40% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 14 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -150,9 +150,9 @@
 | 148 | [Chorus](games/c/chorus.md) | 1.31% |
 | 148 | [Poosh XL](games/p/poosh_xl.md) | 1.31% |
 | 150 | [Late Shift](games/l/late_shift.md) | 1.30% |
-| 151 | [Ten Dates](games/t/ten_dates.md) | 1.29% |
-| 152 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.28% |
-| 152 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.28% |
+| 151 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.28% |
+| 151 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.28% |
+| 151 | [Ten Dates](games/t/ten_dates.md) | 1.28% |
 | 154 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.25% |
 | 155 | [Iron Danger](games/i/iron_danger.md) | 1.23% |
 | 156 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
@@ -188,8 +188,8 @@
 | 185 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.69% |
 | 187 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.63% |
 | 187 | [Dead Space](games/d/dead_space.md) | 0.63% |
-| 189 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.62% |
-| 190 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.61% |
+| 189 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.61% |
+| 189 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.61% |
 | 191 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.60% |
 | 191 | [Potion Permit](games/p/potion_permit.md) | 0.60% |
 | 191 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.60% |
@@ -271,16 +271,16 @@
 | 267 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.16% |
 | 270 | [RAILGRADE](games/r/railgrade.md) | 0.15% |
 | 270 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
-| 272 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
-| 272 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.13% |
-| 272 | [BLACKTAIL](games/b/blacktail.md) | 0.13% |
-| 272 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.13% |
-| 272 | [Fall Guys](games/f/fall_guys.md) | 0.13% |
-| 272 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
-| 278 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.12% |
-| 278 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
-| 278 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.12% |
-| 278 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.12% |
+| 272 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.14% |
+| 273 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
+| 273 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.13% |
+| 273 | [BLACKTAIL](games/b/blacktail.md) | 0.13% |
+| 273 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.13% |
+| 273 | [Fall Guys](games/f/fall_guys.md) | 0.13% |
+| 273 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
+| 279 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
+| 279 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.12% |
+| 279 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.12% |
 | 282 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.11% |
 | 282 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.11% |
 | 282 | [Isonzo](games/i/isonzo.md) | 0.11% |
