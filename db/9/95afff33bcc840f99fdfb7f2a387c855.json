@@ -2,9 +2,9 @@
   "ID": "95afff33bcc840f99fdfb7f2a387c855",
   "Name": "Nifty Island",
   "ProductSlug": "nifty-island-522fa1",
-  "Ranking_EOS_Progress": 769,
+  "Ranking_EOS_Progress": 770,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 495,
+  "Ranking_EOS_NewPlayers": 494,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-30T19:57:09.1280086+00:00",
-  "LastUpdate_Ratings": "2023-12-01T09:00:34.2964518+00:00",
-  "LastUpdate_Achievements": "2023-12-01T09:04:21.0465868+00:00"
+  "LastUpdate_Ratings": "2023-12-01T09:59:33.2282265+00:00",
+  "LastUpdate_Achievements": "2023-12-01T10:03:31.724935+00:00"
 }

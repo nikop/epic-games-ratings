@@ -2,13 +2,13 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_Rating": 130,
+  "Ranking_Rating": 129,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -165,9 +165,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7185,
+  "EOS_Progressed": 7187,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1008,
+  "EOS_NewPlayers": 1004,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -5120,6 +5120,11 @@
       "Time": "2023-12-01T09:10:17.0652006+00:00",
       "NumProgressed": 7185,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-01T10:09:33.7095788+00:00",
+      "NumProgressed": 7187,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5188,7 +5193,7 @@
       "Name": "Explosive Personality",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "FasterThanLight",
@@ -5236,7 +5241,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -5348,7 +5353,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "UnResurrected",
@@ -5364,7 +5369,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -5403,7 +5408,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7185,
+      "Progressed": 7187,
       "Completed": 9
     }
   ],
@@ -5411,8 +5416,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-01T01:56:51.5365548+00:00",
-  "LastChanged_Achievements": "2023-12-01T09:10:17.0652002+00:00",
+  "LastChanged_Achievements": "2023-12-01T10:09:33.7095784+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-01T09:01:34.528366+00:00",
-  "LastUpdate_Achievements": "2023-12-01T09:10:17.0652397+00:00"
+  "LastUpdate_Ratings": "2023-12-01T10:00:13.1153187+00:00",
+  "LastUpdate_Achievements": "2023-12-01T10:09:33.7096162+00:00"
 }

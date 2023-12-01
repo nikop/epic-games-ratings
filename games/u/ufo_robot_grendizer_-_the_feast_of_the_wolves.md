@@ -11,6 +11,7 @@
 | Life of Pi | 13.00% | ~1 |
 | Technology first! | 13.00% | ~1 |
 | Iron Fist | 13.00% | ~1 |
+| The Exterminator | 13.00% | ~1 |
 | The Legend | 13.00% | ~1 |
 | The Space Hydra | 13.00% | ~1 |
 | The Vega Turtle | 13.00% | ~1 |
@@ -21,7 +22,6 @@
 | The Keeper of Fleed | 0.00% | ~0 |
 | The Planner | 0.00% | ~0 |
 | Earth's Savior | 0.00% | ~0 |
-| The Exterminator | 0.00% | ~0 |
 | You can't fool me! | 0.00% | ~0 |
 | The Collector | 0.00% | ~0 |
 | The Broken Guard | 0.00% | ~0 |

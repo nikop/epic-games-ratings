@@ -8,9 +8,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | ---- | ---------- | ----- |
 | It wakes | 0.50% | ~5,287 |
 | Skillful | 0.50% | ~5,287 |
-| Zealous | 0.40% | ~4,229 |
-| Not half bad | 0.40% | ~4,229 |
-| I | 0.40% | ~4,229 |
+| Zealous | 0.40% | ~4,230 |
+| Not half bad | 0.40% | ~4,230 |
+| I | 0.40% | ~4,230 |
+| No one left behind | 0.30% | ~3,172 |
 | Medic | 0.30% | ~3,172 |
 | Handyman | 0.30% | ~3,172 |
 | Apt Survivor | 0.30% | ~3,172 |
@@ -22,7 +23,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Agonizing Escape | 0.20% | ~2,115 |
 | Backdoor Escape | 0.20% | ~2,115 |
 | I've got your back | 0.20% | ~2,115 |
-| No one left behind | 0.20% | ~2,115 |
 | Perfect Escape | 0.20% | ~2,115 |
 | Perfect Killing | 0.20% | ~2,115 |
 | Bloody Millionaire | 0.20% | ~2,115 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,057 |
 | Adept Good Guy | 0.10% | ~1,057 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,057,326 (Ranked 14)  
+Progressed: 1,057,404 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -464,10 +464,10 @@ Completed: 61 (0.01%) (Ranked 343)
 | 2023-11-28 | 1,050,827 | 61 |
 | 2023-11-29 | 1,053,910 | 61 |
 | 2023-11-30 | 1,056,530 | 61 |
-| 2023-12-01 | 1,057,326 | 61 |
+| 2023-12-01 | 1,057,404 | 61 |
 ## Awards
 Max (Diverse Characters): 36,961  (Ranked 15)  
-Sum: 281,126 (Ranked 12)  
+Sum: 281,173 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -476,7 +476,7 @@ Diff (max vs sum): 3
 | This game has Amazing Characters | 31,677 |
 | This game has Competitive Players | 31,562 |
 | This game is Extremely Fun | 31,220 |
-| This game has Challenging Combat | 31,050 |
+| This game has Challenging Combat | 31,097 |
 | This game has Quickly Understood Controls | 30,402 |
 | This game has Amazing Storytelling | 28,721 |
 | This game has a Competitive Community | 27,382 |
@@ -796,3 +796,4 @@ Diff (max vs sum): 3
 | 2023-11-28 | 4.51 | - | 36,768 | 280,046 |
 | 2023-11-29 | 4.51 | - | 36,896 | 280,728 |
 | 2023-11-30 | 4.51 | - | 36,961 | 281,126 |
+| 2023-12-01 | 4.51 | - | 36,961 | 281,173 |

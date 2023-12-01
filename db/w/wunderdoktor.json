@@ -2,9 +2,9 @@
   "ID": "9b9fa3842d42461195aae2ccc979807d",
   "Name": "Wunderdoktor",
   "ProductSlug": "wunderdoktor-db31c2",
-  "Ranking_EOS_Progress": 769,
+  "Ranking_EOS_Progress": 770,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 495,
+  "Ranking_EOS_NewPlayers": 494,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-01-12T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:31.5595462+00:00",
   "LastChanged": "2023-03-31T05:57:31.5595463+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:05.9774873+00:00",
-  "LastUpdate_Ratings": "2023-12-01T09:02:34.7498142+00:00",
-  "LastUpdate_Achievements": "2023-12-01T09:04:41.4801976+00:00"
+  "LastUpdate_Ratings": "2023-12-01T10:00:32.9370901+00:00",
+  "LastUpdate_Achievements": "2023-12-01T10:03:46.2067331+00:00"
 }

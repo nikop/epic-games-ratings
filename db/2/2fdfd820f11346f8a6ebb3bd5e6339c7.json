@@ -2,9 +2,9 @@
   "ID": "2fdfd820f11346f8a6ebb3bd5e6339c7",
   "Name": "Space Rocks!",
   "ProductSlug": "space-rocks-7fd817",
-  "Ranking_EOS_Progress": 769,
+  "Ranking_EOS_Progress": 770,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 495,
+  "Ranking_EOS_NewPlayers": 494,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-29T10:57:30.5936268+00:00",
-  "LastUpdate_Ratings": "2023-12-01T09:01:49.0434359+00:00",
-  "LastUpdate_Achievements": "2023-12-01T09:06:15.8640422+00:00"
+  "LastUpdate_Ratings": "2023-12-01T10:00:22.8386464+00:00",
+  "LastUpdate_Achievements": "2023-12-01T10:04:52.8285486+00:00"
 }

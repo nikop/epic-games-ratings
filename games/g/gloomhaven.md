@@ -6,29 +6,29 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 41.00% | ~9,809 |
-| Overkill | 34.00% | ~8,134 |
-| Vaccine Incoming | 33.00% | ~7,895 |
-| A normal day in Gloomhaven | 31.00% | ~7,416 |
-| Spread the plague | 29.00% | ~6,938 |
-| Get over here! | 25.00% | ~5,981 |
+| I'm not dead yet | 41.00% | ~9,810 |
+| Overkill | 34.00% | ~8,136 |
+| Vaccine Incoming | 33.00% | ~7,896 |
+| A normal day in Gloomhaven | 31.00% | ~7,418 |
+| Spread the plague | 29.00% | ~6,939 |
+| Get over here! | 25.00% | ~5,982 |
 | Just when I thought I was out... | 19.00% | ~4,546 |
-| Precious! | 17.00% | ~4,067 |
-| Mine... All Mine... | 17.00% | ~4,067 |
+| Precious! | 17.00% | ~4,068 |
+| Mine... All Mine... | 17.00% | ~4,068 |
 | Grizzled veteran | 15.00% | ~3,589 |
 | Anatomy Lesson | 15.00% | ~3,589 |
-| Light of my life | 14.00% | ~3,349 |
-| Obstacle race | 13.00% | ~3,110 |
+| Light of my life | 14.00% | ~3,350 |
+| Obstacle race | 13.00% | ~3,111 |
 | You activated my trap card! | 12.00% | ~2,871 |
 | Who's the Boss? | 11.00% | ~2,632 |
 | Augmented rat | 11.00% | ~2,632 |
 | Doom and gloom | 11.00% | ~2,632 |
-| Dungeon Veteran | 9.00% | ~2,153 |
+| Dungeon Veteran | 9.00% | ~2,154 |
 | Pack leader | 8.00% | ~1,914 |
 | Pain is your friend | 8.00% | ~1,914 |
 | Black death | 8.00% | ~1,914 |
 | Play it again, Sam | 8.00% | ~1,914 |
-| Quad damage | 6.00% | ~1,435 |
+| Quad damage | 6.00% | ~1,436 |
 | Power Up! | 5.00% | ~1,196 |
 | Caught off guard | 5.00% | ~1,196 |
 | The Pro from Dover | 5.00% | ~1,196 |
@@ -38,14 +38,14 @@ Number of Ratings: 68  (23.09.2022)
 | I hate portals | 3.00% | ~718 |
 | Down the hatch | 3.00% | ~718 |
 | An eye for an eye | 3.00% | ~718 |
-| From Gloom, only greed and death emerges | 2.00% | ~478 |
-| The Rat King | 2.00% | ~478 |
-| How to train your Drake | 2.00% | ~478 |
-| The Cephalophore | 2.00% | ~478 |
-| Master Assassin | 2.00% | ~478 |
-| The Sniper | 2.00% | ~478 |
-| Grin and bear it | 2.00% | ~478 |
-| An axe to grind | 2.00% | ~478 |
+| From Gloom, only greed and death emerges | 2.00% | ~479 |
+| The Rat King | 2.00% | ~479 |
+| How to train your Drake | 2.00% | ~479 |
+| The Cephalophore | 2.00% | ~479 |
+| Master Assassin | 2.00% | ~479 |
+| The Sniper | 2.00% | ~479 |
+| Grin and bear it | 2.00% | ~479 |
+| An axe to grind | 2.00% | ~479 |
 | Add a bit of colour | 1.00% | ~239 |
 | Captain hooked | 1.00% | ~239 |
 | New Blood | 1.00% | ~239 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~24 |
 | Murder Death Kill | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,924 (Ranked 132)  
+Progressed: 23,928 (Ranked 132)  
 Completed: 1 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 1 (0.00%) (Ranked 363)
 | 2023-11-28 | 23,528 | 1 |
 | 2023-11-29 | 23,685 | 1 |
 | 2023-11-30 | 23,863 | 1 |
-| 2023-12-01 | 23,924 | 1 |
+| 2023-12-01 | 23,928 | 1 |
 ## Awards
 Max (Character Customization): 3,590  (Ranked 90)  
 Sum: 8,394 (Ranked 101)  

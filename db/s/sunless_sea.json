@@ -754,9 +754,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 41445,
+  "EOS_Progressed": 41446,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 362,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -23629,6 +23629,11 @@
       "Time": "2023-12-01T09:08:34.2812651+00:00",
       "NumProgressed": 41445,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-01T10:08:20.860753+00:00",
+      "NumProgressed": 41446,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -23760,7 +23765,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 14920
+      "UsersEstimate": 14921
     },
     {
       "ID": "ach_die10",
@@ -23832,7 +23837,7 @@
       "Name": "Correspondent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4973
+      "UsersEstimate": 4974
     },
     {
       "ID": "ach_legacypupil",
@@ -24000,7 +24005,7 @@
       "Name": "Lose Your Mind",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4973
+      "UsersEstimate": 4974
     },
     {
       "ID": "ach_terror90",
@@ -24040,7 +24045,7 @@
       "Name": "Sound Mind?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 4973
+      "UsersEstimate": 4974
     },
     {
       "ID": "ach_year1",
@@ -24071,15 +24076,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 41445,
+      "Progressed": 41446,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-11-28T11:59:28.088711+00:00",
-  "LastChanged_Achievements": "2023-12-01T09:08:34.2812645+00:00",
+  "LastChanged_Achievements": "2023-12-01T10:08:20.8607526+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:59.5207793+00:00",
-  "LastUpdate_Ratings": "2023-12-01T09:01:37.1640382+00:00",
-  "LastUpdate_Achievements": "2023-12-01T09:08:34.2814473+00:00"
+  "LastUpdate_Ratings": "2023-12-01T10:00:14.8730483+00:00",
+  "LastUpdate_Achievements": "2023-12-01T10:08:20.8608779+00:00"
 }

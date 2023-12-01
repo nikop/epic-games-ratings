@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 239,
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1748,7 +1748,7 @@
   ],
   "EOS_Progressed": 485,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4981,9 +4981,9 @@
       "ID": "M_BACKPACK",
       "SetID": "80dcan0",
       "Name": "Pack Mule",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 335
     },
     {
       "ID": "M_COMMISSION",
@@ -5141,17 +5141,17 @@
       "ID": "P_SCHOOL",
       "SetID": "80dcan0",
       "Name": "Elementary, My Dear",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 272
     },
     {
       "ID": "P_THEMEPARK",
       "SetID": "80dcan0",
       "Name": "Happier-est Place on Earth",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 262
+      "UsersEstimate": 267
     },
     {
       "ID": "P_TUNNEL",
@@ -5221,9 +5221,9 @@
       "ID": "S_GAMECOIN",
       "SetID": "80dcan0",
       "Name": "Pro Gamer",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 136
     },
     {
       "ID": "S_GHOST",
@@ -5389,8 +5389,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-11-30T22:00:32.9034979+00:00",
-  "LastChanged_Achievements": "2023-12-01T09:08:39.6896245+00:00",
+  "LastChanged_Achievements": "2023-12-01T10:08:24.7035873+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:01.0814627+00:00",
-  "LastUpdate_Ratings": "2023-12-01T09:01:03.00135+00:00",
-  "LastUpdate_Achievements": "2023-12-01T09:08:39.6896778+00:00"
+  "LastUpdate_Ratings": "2023-12-01T09:59:52.2549261+00:00",
+  "LastUpdate_Achievements": "2023-12-01T10:08:24.7036519+00:00"
 }

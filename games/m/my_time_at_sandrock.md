@@ -17,8 +17,8 @@ Number of Ratings: 892  (23.09.2022)
 | No Mountain Wide Enough | 76.00% | ~369 |
 | Yakmel Whisperer | 74.00% | ~359 |
 | Diamonds are Forever | 72.00% | ~349 |
-| Pack Mule | 70.00% | ~340 |
 | Can We Keep It? | 70.00% | ~340 |
+| Pack Mule | 69.00% | ~335 |
 | I Do! | 67.00% | ~325 |
 | Unboxing | 64.00% | ~310 |
 | First Love | 63.00% | ~306 |
@@ -26,15 +26,15 @@ Number of Ratings: 892  (23.09.2022)
 | Chatterbox | 62.00% | ~301 |
 | Big Game Hunter | 60.00% | ~291 |
 | Got Served | 60.00% | ~291 |
-| Elementary, My Dear | 57.00% | ~276 |
+| Elementary, My Dear | 56.00% | ~272 |
 | Mole Masher | 56.00% | ~272 |
 | Panda-kin | 55.00% | ~267 |
 | Builder of the Month | 55.00% | ~267 |
 | Better Late than Never | 55.00% | ~267 |
 | Officially Official | 55.00% | ~267 |
+| Happier-est Place on Earth | 55.00% | ~267 |
 | You Don't Win Friends With Salad | 55.00% | ~267 |
 | What Plants Crave | 54.00% | ~262 |
-| Happier-est Place on Earth | 54.00% | ~262 |
 | Knowledge is Power | 53.00% | ~257 |
 | Anti-Santa | 53.00% | ~257 |
 | Waste Not Want Not | 53.00% | ~257 |
@@ -58,7 +58,7 @@ Number of Ratings: 892  (23.09.2022)
 | Do Your Part | 31.00% | ~150 |
 | Newton | 31.00% | ~150 |
 | It Belongs in a Museum! | 30.00% | ~146 |
-| Pro Gamer | 29.00% | ~141 |
+| Pro Gamer | 28.00% | ~136 |
 | Cardistry | 21.00% | ~102 |
 | It's High Noon... | 14.00% | ~68 |
 | Got the Receipt? | 14.00% | ~68 |

@@ -2,9 +2,9 @@
   "ID": "017ffe3b2bdc41e5a7a4dca5eec73fc4",
   "Name": "Smurfs Kart",
   "ProductSlug": "smurfs-kart",
-  "Ranking_EOS_Progress": 769,
+  "Ranking_EOS_Progress": 770,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 495,
+  "Ranking_EOS_NewPlayers": 494,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-16T13:09:23.4998297+00:00",
-  "LastChanged_Achievements": "2023-12-01T09:08:22.3725679+00:00",
+  "LastChanged_Achievements": "2023-12-01T10:06:23.0005985+00:00",
   "LastUpdate_AppInfo": "2023-11-29T10:57:30.7770124+00:00",
-  "LastUpdate_Ratings": "2023-12-01T08:57:21.4230981+00:00",
-  "LastUpdate_Achievements": "2023-12-01T09:08:22.3725708+00:00"
+  "LastUpdate_Ratings": "2023-12-01T09:57:25.3890949+00:00",
+  "LastUpdate_Achievements": "2023-12-01T10:06:23.0006048+00:00"
 }

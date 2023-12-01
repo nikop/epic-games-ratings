@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -83,7 +83,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1937,
+  "EOS_Progressed": 1938,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
@@ -7333,6 +7333,11 @@
       "Time": "2023-12-01T05:07:25.8014943+00:00",
       "NumProgressed": 1937,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-01T10:06:08.3347932+00:00",
+      "NumProgressed": 1938,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7376,7 +7381,7 @@
       "Name": "Gold Achiever",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -7464,7 +7469,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -7520,7 +7525,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -7528,7 +7533,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -7560,7 +7565,7 @@
       "Name": "Resourceful",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "objective_key_objectives_completed_2",
@@ -7632,7 +7637,7 @@
       "Name": "Jet Troops",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "objective_upgrade_dropships_2",
@@ -7647,7 +7652,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1937,
+      "Progressed": 1938,
       "Completed": 1
     }
   ],
@@ -7655,8 +7660,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-21T23:00:15.982699+00:00",
-  "LastChanged_Achievements": "2023-12-01T09:08:01.7783111+00:00",
+  "LastChanged_Achievements": "2023-12-01T10:06:08.3347924+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:27.1285109+00:00",
-  "LastUpdate_Ratings": "2023-12-01T09:02:53.8332011+00:00",
-  "LastUpdate_Achievements": "2023-12-01T09:08:01.7783632+00:00"
+  "LastUpdate_Ratings": "2023-12-01T10:02:45.6792038+00:00",
+  "LastUpdate_Achievements": "2023-12-01T10:06:08.3348446+00:00"
 }

@@ -1,17 +1,17 @@
 # This War of Mine
 [Store](https://store.epicgames.com/en-US/p/this-war-of-mine)  
 [View Rawdata](../../db/t/this_war_of_mine.json)  
-Rating: 4.74 (Ranked 161)  
+Rating: 4.74 (Ranked 160)  
 Number of Ratings: 1,090  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 88  (Ranked 383)  
-Sum: 703 (Ranked 295)  
+Sum: 704 (Ranked 295)  
 Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 88 |
+| This game has Quickly Understood Controls | 81 |
 | This game has Unique Visuals | 81 |
-| This game has Quickly Understood Controls | 80 |
 | This game is Educational | 76 |
 | This game has Amazing Characters | 75 |
 | This game is Highly Recommended | 70 |
@@ -186,3 +186,4 @@ Diff (max vs sum): 88
 | 2023-11-28 | 4.74 | - | 88 | 700 |
 | 2023-11-29 | 4.74 | - | 88 | 701 |
 | 2023-11-30 | 4.74 | - | 88 | 703 |
+| 2023-12-01 | 4.74 | - | 88 | 704 |

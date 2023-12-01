@@ -3,6 +3,60 @@
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
 Rating: 4.53 (Ranked 542)  
 Number of Ratings: 90  (23.09.2022)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Mash Machine | 0.00% | ~0 |
+| Ultimate Smoothie | 0.00% | ~0 |
+| Perfect Probulator | 0.00% | ~0 |
+| PK Slam Dunk | 0.00% | ~0 |
+| Furon Fashion | 0.00% | ~0 |
+| Arty Facts | 0.00% | ~0 |
+| Gotta Catch All the Pop Art | 0.00% | ~0 |
+| This Is Earth Radio | 0.00% | ~0 |
+| Against All Odds | 0.00% | ~0 |
+| Cult Following | 0.00% | ~0 |
+| Transmitting From Sol-3 | 0.00% | ~0 |
+| Forbidden Donut | 0.00% | ~0 |
+| Hidden Human Hive Harvest | 0.00% | ~0 |
+| Toilet Break | 0.00% | ~0 |
+| Ducks in a Row, Fish in a Barrel | 0.00% | ~0 |
+| Albion Bridge Is for Falling Down | 0.00% | ~0 |
+| Lie Back and Think of Albion | 0.00% | ~0 |
+| Rock of the Bay | 0.00% | ~0 |
+| Fly Me to the Moon Base | 0.00% | ~0 |
+| I Look Up As I Walk to Takoshima | 0.00% | ~0 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 0.00% | ~0 |
+| Bodied Sattva | 0.00% | ~0 |
+| Kaijuiced | 0.00% | ~0 |
+| Lobster Blisque | 0.00% | ~0 |
+| Freshly Squeezed | 0.00% | ~0 |
+| Die Nasty | 0.00% | ~0 |
+| Ouch of Body Experience | 0.00% | ~0 |
+| Deincarnated | 0.00% | ~0 |
+| Scuttled | 0.00% | ~0 |
+| Yettisoned | 0.00% | ~0 |
+| The Optional Mandate | 0.00% | ~0 |
+| Earthly Pleasures | 0.00% | ~0 |
+| Upgreatest | 0.00% | ~0 |
+| Higher Than the Futen Zoku | 0.00% | ~0 |
+| Re-Return of the Clone of the Invasion II-2 | 0.00% | ~0 |
+| To Russia With Love | 0.00% | ~0 |
+| Dusted | 0.00% | ~0 |
+| If You Know What I Mean | 0.00% | ~0 |
+| Steezy Down the Spine | 0.00% | ~0 |
+| Path of the Furon | 0.00% | ~0 |
+| Trans-Siberian Express | 0.00% | ~0 |
+| Arkvoodle Doodle | 0.00% | ~0 |
+| Shop Til They Drop | 0.00% | ~0 |
+| Pimp My Raid | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 705)  
+Completed: 0 (0.00%) (Ranked 363)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-12-01 | 1 | 0 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 477)  
 Sum: 35 (Ranked 507)  

@@ -13146,10 +13146,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 281126,
       "NumberOfAwardsMax": 36961
+    },
+    {
+      "Time": "2023-12-01T09:59:50.8688604+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 281173,
+      "NumberOfAwardsMax": 36961
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 281126,
+  "NumberOfAwards": 281173,
   "NumberOfAwardsMax": 36961,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -13205,7 +13211,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 31050
+      "Count": 31097
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -13220,9 +13226,9 @@
       "Count": 27382
     }
   ],
-  "EOS_Progressed": 1057326,
+  "EOS_Progressed": 1057404,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 16751,
+  "EOS_NewPlayers": 16778,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39045,6 +39051,11 @@
       "Time": "2023-12-01T09:10:41.3167549+00:00",
       "NumProgressed": 1057326,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-01T10:09:52.5309768+00:00",
+      "NumProgressed": 1057404,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 232,
@@ -39174,9 +39185,9 @@
       "ID": "ACH_016",
       "SetID": "bdmlp8o",
       "Name": "No one left behind",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2115
+      "UsersEstimate": 3172
     },
     {
       "ID": "ACH_017",
@@ -39224,7 +39235,7 @@
       "Name": "Zealous",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 4229
+      "UsersEstimate": 4230
     },
     {
       "ID": "ACH_023",
@@ -39240,7 +39251,7 @@
       "Name": "Not half bad",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 4229
+      "UsersEstimate": 4230
     },
     {
       "ID": "ACH_025",
@@ -39368,7 +39379,7 @@
       "Name": "I",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 4229
+      "UsersEstimate": 4230
     },
     {
       "ID": "ACH_041",
@@ -40911,21 +40922,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1057326,
+      "Progressed": 1057404,
       "Completed": 66
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1057326,
+      "Progressed": 1057404,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-11-30T22:59:32.3488698+00:00",
-  "LastChanged_Achievements": "2023-12-01T09:10:41.3167544+00:00",
+  "LastChanged": "2023-12-01T09:59:50.8688602+00:00",
+  "LastChanged_Achievements": "2023-12-01T10:09:52.5309765+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:00.7078103+00:00",
-  "LastUpdate_Ratings": "2023-12-01T09:01:00.8900383+00:00",
-  "LastUpdate_Achievements": "2023-12-01T09:10:41.3172816+00:00"
+  "LastUpdate_Ratings": "2023-12-01T09:59:50.8688609+00:00",
+  "LastUpdate_Achievements": "2023-12-01T10:09:52.5315125+00:00"
 }

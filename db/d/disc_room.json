@@ -2,9 +2,9 @@
   "ID": "ca16315212fe486b96969e8fc6d6faf6",
   "Name": "DISC ROOM",
   "ProductSlug": "disc-room",
-  "Ranking_EOS_Progress": 769,
+  "Ranking_EOS_Progress": 770,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 495,
+  "Ranking_EOS_NewPlayers": 494,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2020-10-22T13:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:00.0201004+00:00",
   "LastChanged": "2023-03-31T05:58:00.0201005+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.6599992+00:00",
-  "LastUpdate_Ratings": "2023-12-01T09:03:14.8201129+00:00",
-  "LastUpdate_Achievements": "2023-12-01T09:06:46.7272701+00:00"
+  "LastUpdate_Ratings": "2023-12-01T10:03:00.5572803+00:00",
+  "LastUpdate_Achievements": "2023-12-01T10:05:14.7824333+00:00"
 }

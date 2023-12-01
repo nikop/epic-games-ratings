@@ -2,9 +2,9 @@
   "ID": "6fba4fc1c7364a4d80337a2b8ab0badf",
   "Name": "Tall Poppy",
   "ProductSlug": "tall-poppy-3f9b07",
-  "Ranking_EOS_Progress": 769,
+  "Ranking_EOS_Progress": 770,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 495,
+  "Ranking_EOS_NewPlayers": 494,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-03-22T21:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-18T11:01:14.8709417+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:53.0406233+00:00",
-  "LastUpdate_Ratings": "2023-12-01T08:58:33.5287459+00:00",
-  "LastUpdate_Achievements": "2023-12-01T09:08:43.2042446+00:00"
+  "LastUpdate_Ratings": "2023-12-01T09:58:13.1104018+00:00",
+  "LastUpdate_Achievements": "2023-12-01T10:08:27.1361395+00:00"
 }

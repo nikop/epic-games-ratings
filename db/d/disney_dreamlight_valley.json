@@ -2,7 +2,7 @@
   "ID": "7e2ec8a47b8d41528eb6dd2efd2b1abc",
   "Name": "Disney Dreamlight Valley",
   "ProductSlug": "disney-dreamlight-valley",
-  "Ranking_Rating": 130,
+  "Ranking_Rating": 129,
   "Ranking_Popularity": 147,
   "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 160,
@@ -4923,7 +4923,7 @@
       "Count": 532
     }
   ],
-  "EOS_Progressed": 12070,
+  "EOS_Progressed": 12071,
   "EOS_Completed": 287,
   "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 5,
@@ -20138,6 +20138,11 @@
       "Time": "2023-12-01T05:08:22.7674433+00:00",
       "NumProgressed": 12070,
       "NumCompleted": 287
+    },
+    {
+      "Time": "2023-12-01T10:08:36.5927922+00:00",
+      "NumProgressed": 12071,
+      "NumCompleted": 287
     }
   ],
   "TotalAchievements": 15,
@@ -20157,7 +20162,7 @@
       "Name": "Banker",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 4707
+      "UsersEstimate": 4708
     },
     {
       "ID": "Bestest_Friend",
@@ -20165,7 +20170,7 @@
       "Name": "Bestest Friend",
       "Percentage": 46,
       "XP": 75,
-      "UsersEstimate": 5552
+      "UsersEstimate": 5553
     },
     {
       "ID": "Chef_Cook",
@@ -20221,7 +20226,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 69,
       "XP": 75,
-      "UsersEstimate": 8328
+      "UsersEstimate": 8329
     },
     {
       "ID": "Miner",
@@ -20261,14 +20266,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 7483
+      "UsersEstimate": 7484
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 12070,
+      "Progressed": 12071,
       "Completed": 287
     }
   ],
@@ -20276,8 +20281,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-11-30T09:57:52.2036893+00:00",
-  "LastChanged_Achievements": "2023-12-01T09:08:56.2328689+00:00",
+  "LastChanged_Achievements": "2023-12-01T10:08:36.5927916+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:52.4456566+00:00",
-  "LastUpdate_Ratings": "2023-12-01T08:58:24.8868393+00:00",
-  "LastUpdate_Achievements": "2023-12-01T09:08:56.2329464+00:00"
+  "LastUpdate_Ratings": "2023-12-01T09:58:07.1709419+00:00",
+  "LastUpdate_Achievements": "2023-12-01T10:08:36.5928757+00:00"
 }

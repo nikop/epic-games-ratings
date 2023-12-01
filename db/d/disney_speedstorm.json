@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 16,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -1641,10 +1641,10 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 318725,
-  "EOS_Completed": 402,
-  "EOS_NewPlayers": 8890,
-  "EOS_NewCompleters": 79,
+  "EOS_Progressed": 318775,
+  "EOS_Completed": 403,
+  "EOS_NewPlayers": 8901,
+  "EOS_NewCompleters": 80,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
     {
@@ -14466,6 +14466,11 @@
       "Time": "2023-12-01T09:07:19.5616823+00:00",
       "NumProgressed": 318725,
       "NumCompleted": 402
+    },
+    {
+      "Time": "2023-12-01T10:05:38.288694+00:00",
+      "NumProgressed": 318775,
+      "NumCompleted": 403
     }
   ],
   "TotalAchievements": 24,
@@ -14477,7 +14482,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 3187
+      "UsersEstimate": 3188
     },
     {
       "ID": "10",
@@ -14485,7 +14490,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 15936
+      "UsersEstimate": 15939
     },
     {
       "ID": "11",
@@ -14509,7 +14514,7 @@
       "Name": "EXPERIENCED CREW",
       "Percentage": 0.6,
       "XP": 70,
-      "UsersEstimate": 1912
+      "UsersEstimate": 1913
     },
     {
       "ID": "14",
@@ -14517,7 +14522,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 22311
+      "UsersEstimate": 22314
     },
     {
       "ID": "15",
@@ -14565,7 +14570,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 3187
+      "UsersEstimate": 3188
     },
     {
       "ID": "20",
@@ -14573,7 +14578,7 @@
       "Name": "PROTECTED",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 12749
+      "UsersEstimate": 12751
     },
     {
       "ID": "21",
@@ -14597,7 +14602,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 6374
+      "UsersEstimate": 6376
     },
     {
       "ID": "24",
@@ -14605,7 +14610,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 9562
+      "UsersEstimate": 9563
     },
     {
       "ID": "3",
@@ -14621,7 +14626,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 9562
+      "UsersEstimate": 9563
     },
     {
       "ID": "5",
@@ -14629,7 +14634,7 @@
       "Name": "ROOKIE",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 35060
+      "UsersEstimate": 35065
     },
     {
       "ID": "6",
@@ -14637,7 +14642,7 @@
       "Name": "PRO",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 12749
+      "UsersEstimate": 12751
     },
     {
       "ID": "7",
@@ -14645,7 +14650,7 @@
       "Name": "MASTER",
       "Percentage": 1,
       "XP": 65,
-      "UsersEstimate": 3187
+      "UsersEstimate": 3188
     },
     {
       "ID": "8",
@@ -14668,16 +14673,16 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 318725,
-      "Completed": 402
+      "Progressed": 318775,
+      "Completed": 403
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2023-12-01T08:00:16.1331521+00:00",
-  "LastChanged_Achievements": "2023-12-01T09:07:19.5616818+00:00",
+  "LastChanged_Achievements": "2023-12-01T10:05:38.2886936+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:04.1206554+00:00",
-  "LastUpdate_Ratings": "2023-12-01T09:01:24.0111829+00:00",
-  "LastUpdate_Achievements": "2023-12-01T09:07:19.5617906+00:00"
+  "LastUpdate_Ratings": "2023-12-01T10:00:06.0277912+00:00",
+  "LastUpdate_Achievements": "2023-12-01T10:05:38.2887679+00:00"
 }

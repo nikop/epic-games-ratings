@@ -4,7 +4,7 @@
   "ProductSlug": "dead-island-2",
   "Ranking_Rating": 528,
   "Ranking_Popularity": 49,
-  "Ranking_PopularitySum": 84,
+  "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 26,
@@ -7057,18 +7057,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 11998,
       "NumberOfAwardsMax": 7821
+    },
+    {
+      "Time": "2023-12-01T09:59:07.0022961+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 12022,
+      "NumberOfAwardsMax": 7845
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11998,
-  "NumberOfAwardsMax": 7821,
+  "NumberOfAwards": 12022,
+  "NumberOfAwardsMax": 7845,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 7821
+      "Count": 7845
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7119,9 +7125,9 @@
       "Count": 503
     }
   ],
-  "EOS_Progressed": 728320,
+  "EOS_Progressed": 728331,
   "EOS_Completed": 2457,
-  "EOS_NewPlayers": 4700,
+  "EOS_NewPlayers": 4679,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -32874,6 +32880,11 @@
       "Time": "2023-12-01T09:09:05.5621692+00:00",
       "NumProgressed": 728320,
       "NumCompleted": 2457
+    },
+    {
+      "Time": "2023-12-01T10:08:43.2388212+00:00",
+      "NumProgressed": 728331,
+      "NumCompleted": 2457
     }
   ],
   "TotalAchievements": 51,
@@ -32901,7 +32912,7 @@
       "Name": "Git Gutte!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14566
+      "UsersEstimate": 14567
     },
     {
       "ID": "ach_anger_management",
@@ -32949,7 +32960,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14566
+      "UsersEstimate": 14567
     },
     {
       "ID": "ach_contender",
@@ -33005,7 +33016,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14566
+      "UsersEstimate": 14567
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -33029,7 +33040,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14566
+      "UsersEstimate": 14567
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -33045,7 +33056,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14566
+      "UsersEstimate": 14567
     },
     {
       "ID": "ach_impressive_aim",
@@ -33165,7 +33176,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14566
+      "UsersEstimate": 14567
     },
     {
       "ID": "ach_survival_expert",
@@ -33221,7 +33232,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14566
+      "UsersEstimate": 14567
     },
     {
       "ID": "ach_well_known_survivor",
@@ -33292,22 +33303,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 728320,
+      "Progressed": 728331,
       "Completed": 2457
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 53862,
+      "Progressed": 53873,
       "Completed": 36618
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-12-01T07:59:09.6258278+00:00",
-  "LastChanged_Achievements": "2023-12-01T09:09:05.5621688+00:00",
+  "LastChanged": "2023-12-01T09:59:07.0022959+00:00",
+  "LastChanged_Achievements": "2023-12-01T10:08:43.2388208+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-12-01T08:59:54.5270958+00:00",
-  "LastUpdate_Achievements": "2023-12-01T09:09:05.5623191+00:00"
+  "LastUpdate_Ratings": "2023-12-01T09:59:07.0022964+00:00",
+  "LastUpdate_Achievements": "2023-12-01T10:08:43.2389413+00:00"
 }

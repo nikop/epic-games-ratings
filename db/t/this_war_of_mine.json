@@ -2,12 +2,12 @@
   "ID": "91189432bbad4478afd611edff7f0339",
   "Name": "This War of Mine",
   "ProductSlug": "this-war-of-mine",
-  "Ranking_Rating": 161,
+  "Ranking_Rating": 160,
   "Ranking_Popularity": 383,
   "Ranking_PopularitySum": 295,
-  "Ranking_EOS_Progress": 769,
+  "Ranking_EOS_Progress": 770,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 495,
+  "Ranking_EOS_NewPlayers": 494,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2014-11-14T15:00:00+00:00",
@@ -1663,10 +1663,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 703,
       "NumberOfAwardsMax": 88
+    },
+    {
+      "Time": "2023-12-01T10:02:39.2978715+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 704,
+      "NumberOfAwardsMax": 88
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 703,
+  "NumberOfAwards": 704,
   "NumberOfAwardsMax": 88,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1692,7 +1698,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 80
+      "Count": 81
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1750,9 +1756,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:40.68032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.8551694+00:00",
-  "LastChanged": "2023-11-30T08:59:54.9072238+00:00",
-  "LastChanged_Achievements": "2023-12-01T09:08:29.2071523+00:00",
+  "LastChanged": "2023-12-01T10:02:39.2978714+00:00",
+  "LastChanged_Achievements": "2023-12-01T10:08:17.3223152+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:17.0195721+00:00",
-  "LastUpdate_Ratings": "2023-12-01T09:02:44.6544422+00:00",
-  "LastUpdate_Achievements": "2023-12-01T09:08:29.2071555+00:00"
+  "LastUpdate_Ratings": "2023-12-01T10:02:39.2978719+00:00",
+  "LastUpdate_Achievements": "2023-12-01T10:08:17.3223179+00:00"
 }

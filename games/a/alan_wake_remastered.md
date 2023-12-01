@@ -6,17 +6,17 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 58.00% | ~56,201 |
-| Let There Be Light | 49.00% | ~47,481 |
-| Float Like a Butterfly | 47.00% | ~45,543 |
-| Nordic Walking | 39.00% | ~37,791 |
-| Bright Falls' Finest | 38.00% | ~36,822 |
-| Under a Thin Layer of Skin | 34.00% | ~32,946 |
-| Paging Mr. Wake | 29.00% | ~28,101 |
-| Park Ranger | 28.00% | ~27,132 |
-| Back! Back, I Say! | 27.00% | ~26,163 |
-| Finders Keepers | 27.00% | ~26,163 |
-| Damn Good Cup of Coffee | 25.00% | ~24,225 |
+| Follow the Light | 58.00% | ~56,203 |
+| Let There Be Light | 49.00% | ~47,482 |
+| Float Like a Butterfly | 47.00% | ~45,544 |
+| Nordic Walking | 39.00% | ~37,792 |
+| Bright Falls' Finest | 38.00% | ~36,823 |
+| Under a Thin Layer of Skin | 34.00% | ~32,947 |
+| Paging Mr. Wake | 29.00% | ~28,102 |
+| Park Ranger | 28.00% | ~27,133 |
+| Back! Back, I Say! | 27.00% | ~26,164 |
+| Finders Keepers | 27.00% | ~26,164 |
+| Damn Good Cup of Coffee | 25.00% | ~24,226 |
 | They're Heeeeeere! | 24.00% | ~23,256 |
 | Sound and Fury | 24.00% | ~23,256 |
 | Missed by a Mile | 24.00% | ~23,256 |
@@ -59,8 +59,8 @@ Number of Ratings: 524  (23.09.2022)
 | Meet the Deadline | 0.60% | ~581 |
 | Fast and Furious | 0.60% | ~362 |
 | Cardboard Companions | 0.60% | ~362 |
-| Alan, Wake Up | 0.50% | ~484 |
-| Picking Up After Yourself | 0.50% | ~484 |
+| Alan, Wake Up | 0.50% | ~485 |
+| Picking Up After Yourself | 0.50% | ~485 |
 | License Revoked | 0.50% | ~302 |
 | Whirlwind | 0.50% | ~302 |
 | Creative Space | 0.50% | ~302 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | No Punctuation | 0.20% | ~121 |
 | Licensed Properties | 0.20% | ~121 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96,899 (Ranked 90)  
+Progressed: 96,902 (Ranked 90)  
 Completed: 106 (0.11%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 106 (0.11%) (Ranked 282)
 | 2023-11-28 | 96,591 | 105 |
 | 2023-11-29 | 96,741 | 105 |
 | 2023-11-30 | 96,867 | 106 |
-| 2023-12-01 | 96,899 | 106 |
+| 2023-12-01 | 96,902 | 106 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

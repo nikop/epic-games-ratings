@@ -62,9 +62,9 @@
       "ID": "1",
       "SetID": "279eo25",
       "Name": "Crystal Collector",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "10",
@@ -268,8 +268,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-20T15:03:30.7239426+00:00",
-  "LastChanged_Achievements": "2023-12-01T09:08:59.3542+00:00",
+  "LastChanged_Achievements": "2023-12-01T10:08:38.7168357+00:00",
   "LastUpdate_AppInfo": "2023-11-27T15:57:06.8933804+00:00",
-  "LastUpdate_Ratings": "2023-12-01T08:59:56.1544562+00:00",
-  "LastUpdate_Achievements": "2023-12-01T09:08:59.3542211+00:00"
+  "LastUpdate_Ratings": "2023-12-01T09:59:08.0203343+00:00",
+  "LastUpdate_Achievements": "2023-12-01T10:08:38.7168516+00:00"
 }

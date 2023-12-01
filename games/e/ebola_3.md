@@ -13,7 +13,7 @@
 | Weapon ✔ | 12.00% | ~34 |
 | Chess ✔ | 11.00% | ~31 |
 | Master of Unlocking ✔ | 10.00% | ~28 |
-| Survival ✔ | 8.00% | ~23 |
+| Survival ✔ | 9.00% | ~26 |
 | Hospital ✔ | 8.00% | ~23 |
 | Thirst ✔ | 8.00% | ~23 |
 | City ✔ | 7.00% | ~20 |

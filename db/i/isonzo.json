@@ -955,7 +955,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9137,
+  "EOS_Progressed": 9138,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 1,
@@ -8520,6 +8520,11 @@
       "Time": "2023-12-01T07:03:17.4272573+00:00",
       "NumProgressed": 9137,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-01T10:03:32.095271+00:00",
+      "NumProgressed": 9138,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -8547,7 +8552,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4020
+      "UsersEstimate": 4021
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -8595,7 +8600,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1827
+      "UsersEstimate": 1828
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -8611,7 +8616,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1096
+      "UsersEstimate": 1097
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -8651,7 +8656,7 @@
       "Name": "Generalissimo",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "ISONZO_ACH_INSUBORDINATION",
@@ -8715,7 +8720,7 @@
       "Name": "\u0022O La Vittoria, O Tutti Accoppati\u0022",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "ISONZO_ACH_PEAK_PERFORMANCE",
@@ -8723,7 +8728,7 @@
       "Name": "Peak Performance",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 4294
+      "UsersEstimate": 4295
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -8771,7 +8776,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1096
+      "UsersEstimate": 1097
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -8859,7 +8864,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4568
+      "UsersEstimate": 4569
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -8890,7 +8895,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9137,
+      "Progressed": 9138,
       "Completed": 10
     }
   ],
@@ -8898,8 +8903,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-11-29T21:57:14.3384821+00:00",
-  "LastChanged_Achievements": "2023-12-01T09:04:21.5409682+00:00",
+  "LastChanged_Achievements": "2023-12-01T10:03:32.0952706+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:09.0414673+00:00",
-  "LastUpdate_Ratings": "2023-12-01T08:58:30.1033754+00:00",
-  "LastUpdate_Achievements": "2023-12-01T09:04:21.5410466+00:00"
+  "LastUpdate_Ratings": "2023-12-01T09:58:10.7403017+00:00",
+  "LastUpdate_Achievements": "2023-12-01T10:03:32.0953258+00:00"
 }

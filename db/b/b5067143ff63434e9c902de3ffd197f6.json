@@ -4,7 +4,7 @@
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12389,
+  "EOS_Progressed": 12393,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1165,
+  "EOS_NewPlayers": 1167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7279,6 +7279,11 @@
       "Time": "2023-12-01T09:07:59.2300299+00:00",
       "NumProgressed": 12389,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T10:06:06.5822538+00:00",
+      "NumProgressed": 12393,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -7379,7 +7384,7 @@
       "Name": "Electric",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -7387,7 +7392,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3221
+      "UsersEstimate": 3222
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -7482,14 +7487,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 12389,
+      "Progressed": 12393,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-12-01T09:07:59.2300282+00:00",
+  "LastChanged_Achievements": "2023-12-01T10:06:06.5822534+00:00",
   "LastUpdate_AppInfo": "2023-11-27T17:57:10.4801965+00:00",
-  "LastUpdate_Ratings": "2023-12-01T08:57:22.5849888+00:00",
-  "LastUpdate_Achievements": "2023-12-01T09:07:59.230089+00:00"
+  "LastUpdate_Ratings": "2023-12-01T09:57:26.1468532+00:00",
+  "LastUpdate_Achievements": "2023-12-01T10:06:06.5822997+00:00"
 }

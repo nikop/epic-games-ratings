@@ -7321,10 +7321,10 @@
       "Count": 3789
     }
   ],
-  "EOS_Progressed": 143137,
+  "EOS_Progressed": 143148,
   "EOS_Completed": 290,
-  "EOS_NewPlayers": 1783,
-  "EOS_NewCompleters": 88,
+  "EOS_NewPlayers": 1782,
+  "EOS_NewCompleters": 87,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -30606,6 +30606,11 @@
       "Time": "2023-12-01T09:06:16.4139318+00:00",
       "NumProgressed": 143137,
       "NumCompleted": 290
+    },
+    {
+      "Time": "2023-12-01T10:04:53.3317879+00:00",
+      "NumProgressed": 143148,
+      "NumCompleted": 290
     }
   ],
   "TotalAchievements": 112,
@@ -30697,7 +30702,7 @@
       "Name": "One Easy Payment",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5725
+      "UsersEstimate": 5726
     },
     {
       "ID": "bigsale02",
@@ -30849,7 +30854,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8588
+      "UsersEstimate": 8589
     },
     {
       "ID": "commonres02",
@@ -30969,7 +30974,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5725
+      "UsersEstimate": 5726
     },
     {
       "ID": "energy02",
@@ -30993,7 +30998,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5725
+      "UsersEstimate": 5726
     },
     {
       "ID": "expansion02",
@@ -31089,7 +31094,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8588
+      "UsersEstimate": 8589
     },
     {
       "ID": "gold02",
@@ -31201,7 +31206,7 @@
       "Name": "Budding Merchant",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5725
+      "UsersEstimate": 5726
     },
     {
       "ID": "level02",
@@ -31393,7 +31398,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5725
+      "UsersEstimate": 5726
     },
     {
       "ID": "sell02",
@@ -31433,7 +31438,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8588
+      "UsersEstimate": 8589
     },
     {
       "ID": "twinenchant01",
@@ -31481,7 +31486,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5725
+      "UsersEstimate": 5726
     },
     {
       "ID": "workers02",
@@ -31512,15 +31517,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 143137,
+      "Progressed": 143148,
       "Completed": 290
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-01T03:02:39.3799958+00:00",
-  "LastChanged_Achievements": "2023-12-01T09:06:16.4139312+00:00",
+  "LastChanged_Achievements": "2023-12-01T10:04:53.3317875+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-12-01T09:03:15.196724+00:00",
-  "LastUpdate_Achievements": "2023-12-01T09:06:16.4141191+00:00"
+  "LastUpdate_Ratings": "2023-12-01T10:03:00.8213698+00:00",
+  "LastUpdate_Achievements": "2023-12-01T10:04:53.3319751+00:00"
 }

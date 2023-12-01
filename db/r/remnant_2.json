@@ -2,7 +2,7 @@
   "ID": "aa598567414d42378187b8861da550f7",
   "Name": "Remnant 2",
   "ProductSlug": "remnant-2",
-  "Ranking_Rating": 151,
+  "Ranking_Rating": 150,
   "Ranking_Popularity": 102,
   "Ranking_PopularitySum": 129,
   "Ranking_EOS_Progress": 69,
@@ -5001,10 +5001,10 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 231660,
+  "EOS_Progressed": 231692,
   "EOS_Completed": 544,
-  "EOS_NewPlayers": 4902,
-  "EOS_NewCompleters": 32,
+  "EOS_NewPlayers": 4910,
+  "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -20801,6 +20801,11 @@
       "Time": "2023-12-01T09:09:34.2516765+00:00",
       "NumProgressed": 231660,
       "NumCompleted": 544
+    },
+    {
+      "Time": "2023-12-01T10:09:03.2178467+00:00",
+      "NumProgressed": 231692,
+      "NumCompleted": 544
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21252,13 +21257,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 231660,
+      "Progressed": 231692,
       "Completed": 544
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 10825,
+      "Progressed": 10857,
       "Completed": 177
     }
   ],
@@ -21266,8 +21271,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-01T06:03:30.7089672+00:00",
-  "LastChanged_Achievements": "2023-12-01T09:09:34.251676+00:00",
+  "LastChanged_Achievements": "2023-12-01T10:09:03.2178461+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-12-01T09:03:51.8226698+00:00",
-  "LastUpdate_Achievements": "2023-12-01T09:09:34.2517922+00:00"
+  "LastUpdate_Ratings": "2023-12-01T10:03:11.2381234+00:00",
+  "LastUpdate_Achievements": "2023-12-01T10:09:03.217951+00:00"
 }

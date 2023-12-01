@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 236450,
+  "EOS_Progressed": 236451,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 375,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -23962,6 +23962,11 @@
       "Time": "2023-12-01T09:05:15.0152339+00:00",
       "NumProgressed": 236450,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-01T10:04:09.7610277+00:00",
+      "NumProgressed": 236451,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -24077,7 +24082,7 @@
       "Name": "HARDCORE",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2364
+      "UsersEstimate": 2365
     },
     {
       "ID": "HIDDENPOWER",
@@ -24109,7 +24114,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 78028
+      "UsersEstimate": 78029
     },
     {
       "ID": "NOBUNAGA",
@@ -24133,7 +24138,7 @@
       "Name": "ON A ROLL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21280
+      "UsersEstimate": 21281
     },
     {
       "ID": "PHOTOFINISH",
@@ -24165,7 +24170,7 @@
       "Name": "QAREEN",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11822
+      "UsersEstimate": 11823
     },
     {
       "ID": "RESPWND",
@@ -24237,22 +24242,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 96944
+      "UsersEstimate": 96945
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 236450,
+      "Progressed": 236451,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-12-01T09:05:15.0152334+00:00",
+  "LastChanged_Achievements": "2023-12-01T10:04:09.7610274+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:54.8147859+00:00",
-  "LastUpdate_Ratings": "2023-12-01T09:00:54.3941687+00:00",
-  "LastUpdate_Achievements": "2023-12-01T09:05:15.0153976+00:00"
+  "LastUpdate_Ratings": "2023-12-01T09:59:46.5668076+00:00",
+  "LastUpdate_Achievements": "2023-12-01T10:04:09.7611544+00:00"
 }

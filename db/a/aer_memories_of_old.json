@@ -5,9 +5,9 @@
   "Ranking_Rating": 666,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
-  "Ranking_EOS_Progress": 127,
+  "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25254,
+  "EOS_Progressed": 25256,
   "EOS_Completed": 479,
-  "EOS_NewPlayers": 480,
+  "EOS_NewPlayers": 482,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.9,
   "EosHistory": [
@@ -24564,6 +24564,11 @@
       "Time": "2023-12-01T08:08:10.3874374+00:00",
       "NumProgressed": 25254,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-12-01T10:08:25.5868674+00:00",
+      "NumProgressed": 25256,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 20,
@@ -24575,7 +24580,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 4293
+      "UsersEstimate": 4294
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -24615,7 +24620,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2525
+      "UsersEstimate": 2526
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -24631,7 +24636,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3030
+      "UsersEstimate": 3031
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -24687,7 +24692,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3030
+      "UsersEstimate": 3031
     },
     {
       "ID": "INTRO_FINISHED",
@@ -24695,7 +24700,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 19446
+      "UsersEstimate": 19447
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -24734,15 +24739,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 25254,
+      "Progressed": 25256,
       "Completed": 479
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-01T09:08:40.9157248+00:00",
+  "LastChanged_Achievements": "2023-12-01T10:08:25.586867+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.8906099+00:00",
-  "LastUpdate_Ratings": "2023-12-01T08:58:41.8006275+00:00",
-  "LastUpdate_Achievements": "2023-12-01T09:08:40.915871+00:00"
+  "LastUpdate_Ratings": "2023-12-01T09:58:18.0509138+00:00",
+  "LastUpdate_Achievements": "2023-12-01T10:08:25.5870031+00:00"
 }
