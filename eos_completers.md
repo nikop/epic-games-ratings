@@ -71,7 +71,7 @@
 | 69 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
 | 70 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 70 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 72 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.36% |
+| 72 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.35% |
 | 73 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 5.26% |
 | 74 | [JARS](games/j/jars.md) | 5.00% |
 | 75 | [Bugsnax](games/b/bugsnax.md) | 4.84% |
@@ -101,9 +101,9 @@
 | 99 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.16% |
 | 100 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
 | 101 | [Doodle God](games/d/doodle_god.md) | 3.10% |
+| 102 | [Destiny 2](games/d/destiny_2.md) | 3.08% |
 | 102 | [Monster Harvest](games/m/monster_harvest.md) | 3.08% |
 | 102 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.08% |
-| 104 | [Destiny 2](games/d/destiny_2.md) | 3.07% |
 | 105 | [HordeCore](games/h/hordecore.md) | 3.04% |
 | 106 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.97% |
 | 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.95% |
@@ -128,7 +128,7 @@
 | 126 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.05% |
 | 127 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.92% |
 | 128 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.90% |
-| 128 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.90% |
+| 129 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.89% |
 | 130 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.87% |
 | 130 | [Somerville](games/s/somerville.md) | 1.87% |
 | 132 | [Sifu](games/s/sifu.md) | 1.80% |
@@ -152,7 +152,7 @@
 | 149 | [Late Shift](games/l/late_shift.md) | 1.31% |
 | 151 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.29% |
 | 151 | [Ten Dates](games/t/ten_dates.md) | 1.29% |
-| 153 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.27% |
+| 153 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.28% |
 | 154 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.25% |
 | 155 | [Iron Danger](games/i/iron_danger.md) | 1.24% |
 | 156 | [Lemon Cake](games/l/lemon_cake.md) | 1.23% |

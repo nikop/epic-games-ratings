@@ -106,7 +106,7 @@
 | 99 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 817 | 170 |
 | 99 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 6,125 | 62 |
 | 99 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 405 | 232 |
-| 107 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.78 | 373 | 238 |
+| 107 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.78 | 375 | 238 |
 | 107 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.78 | 53 | 427 |
 | 107 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 8,192 | 45 |
 | 107 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.78 | 32 | 491 |
@@ -215,7 +215,7 @@
 | 201 | [World of Goo](games/w/world_of_goo.md) | 4.71 | 0 | 557 |
 | 201 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.71 | 0 | 557 |
 | 215 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,612 | 79 |
-| 215 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.70 | 119 | 342 |
+| 215 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.70 | 120 | 342 |
 | 215 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 460 | 218 |
 | 215 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.70 | 8,105 | 46 |
 | 215 | [For The King](games/f/for_the_king.md) | 4.70 | 410 | 230 |
@@ -303,7 +303,7 @@
 | 296 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,303 | 138 |
 | 296 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 380 | 236 |
 | 296 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.66 | 0 | 557 |
-| 296 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 192 | 293 |
+| 296 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 193 | 293 |
 | 296 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.66 | 55 | 422 |
 | 296 | [Overcooked](games/o/overcooked.md) | 4.66 | 122 | 340 |
 | 296 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,112 | 144 |
@@ -540,7 +540,7 @@
 | 528 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 97 | 367 |
 | 528 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 0 | 557 |
 | 528 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.54 | 653 | 189 |
-| 528 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 373 | 238 |
+| 528 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 373 | 239 |
 | 542 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.53 | 0 | 557 |
 | 542 | [Dauntless](games/d/dauntless.md) | 4.53 | 24,203 | 18 |
 | 542 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 23 | 534 |
@@ -710,7 +710,7 @@
 | 696 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 0 | 557 |
 | 696 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 0 | 557 |
 | 696 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 0 | 557 |
-| 696 | [SMITE](games/s/smite.md) | 4.43 | 4,661 | 78 |
+| 696 | [SMITE](games/s/smite.md) | 4.43 | 4,665 | 78 |
 | 696 | [Star Stable Online](games/s/star_stable_online.md) | 4.43 | 185 | 299 |
 | 696 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 0 | 557 |
 | 696 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.43 | 577 | 201 |
@@ -937,7 +937,7 @@
 | 933 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 557 |
 | 933 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 557 |
 | 933 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,984 | 98 |
-| 933 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 213,228 | 5 |
+| 933 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 213,342 | 5 |
 | 933 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 369 |
 | 940 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 97 | 367 |
 | 940 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.17 | 0 | 557 |

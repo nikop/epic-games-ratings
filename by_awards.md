@@ -4,7 +4,7 @@
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 634,426 | 4.47 | 641 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 316,809 | 4.68 | 255 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 266,447 | 4.68 | 255 |
-| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 213,228 | 4.18 | 933 |
+| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 213,342 | 4.18 | 933 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 203,564 | 4.88 | 16 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 152,363 | 4.51 | 571 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 121,585 | 4.69 | 232 |
@@ -77,7 +77,7 @@
 | 75 | [Shop Titans](games/s/shop_titans.md) | 4,858 | 3.99 | 1,007 |
 | 76 | [MultiVersus](games/m/multiversus.md) | 4,751 | 4.56 | 494 |
 | 77 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,714 | 4.70 | 215 |
-| 78 | [SMITE](games/s/smite.md) | 4,661 | 4.43 | 696 |
+| 78 | [SMITE](games/s/smite.md) | 4,665 | 4.43 | 696 |
 | 79 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,612 | 4.70 | 215 |
 | 80 | [League of Legends](games/l/league_of_legends.md) | 4,565 | 4.21 | 908 |
 | 81 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4,483 | 4.57 | 476 |
@@ -237,8 +237,8 @@
 | 235 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 384 | 4.59 | 432 |
 | 236 | [Dungeons 3](games/d/dungeons_3.md) | 380 | 4.66 | 296 |
 | 237 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 377 | 3.99 | 1,007 |
-| 238 | [Alan Wake 2](games/a/alan_wake_2.md) | 373 | 4.78 | 107 |
-| 238 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 373 | 4.54 | 528 |
+| 238 | [Alan Wake 2](games/a/alan_wake_2.md) | 375 | 4.78 | 107 |
+| 239 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 373 | 4.54 | 528 |
 | 240 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 372 | 4.31 | 832 |
 | 241 | [Inscryption](games/i/inscryption.md) | 349 | 4.86 | 32 |
 | 242 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 348 | 4.72 | 186 |
@@ -292,7 +292,7 @@
 | 290 | [Unrailed!](games/u/unrailed!.md) | 202 | 4.64 | 337 |
 | 291 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 199 | 4.52 | 559 |
 | 292 | [Crashlands](games/c/crashlands.md) | 195 | 4.66 | 296 |
-| 293 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 192 | 4.66 | 296 |
+| 293 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 193 | 4.66 | 296 |
 | 294 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 188 | 4.62 | 368 |
 | 295 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 187 | 4.58 | 446 |
 | 295 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 187 | 4.22 | 902 |
@@ -341,7 +341,7 @@
 | 339 | [BIOMUTANT](games/b/biomutant.md) | 124 | 4.33 | 816 |
 | 340 | [Overcooked](games/o/overcooked.md) | 122 | 4.66 | 296 |
 | 341 | [Tropico 5](games/t/tropico_5.md) | 121 | 4.45 | 666 |
-| 342 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 119 | 4.70 | 215 |
+| 342 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 120 | 4.70 | 215 |
 | 343 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 118 | 4.64 | 337 |
 | 344 | [Cave Story+](games/c/cave_story+.md) | 117 | 4.69 | 232 |
 | 344 | [Dead Space](games/d/dead_space.md) | 117 | 4.64 | 337 |
