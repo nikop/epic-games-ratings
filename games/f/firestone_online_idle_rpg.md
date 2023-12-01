@@ -5,22 +5,22 @@ Rating: 4.04 (Ranked 992)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,666 |
-| World Map | 78.00% | ~2,236 |
-| Temple of Eternals | 57.00% | ~1,634 |
-| Prestigious | 53.00% | ~1,520 |
-| Fellowship Power | 42.00% | ~1,204 |
-| Guild Power | 24.00% | ~688 |
-| Prestigious x10 | 21.00% | ~602 |
+| Victor | 93.00% | ~2,669 |
+| World Map | 78.00% | ~2,239 |
+| Temple of Eternals | 57.00% | ~1,636 |
+| Prestigious | 53.00% | ~1,521 |
+| Fellowship Power | 42.00% | ~1,205 |
+| Guild Power | 24.00% | ~689 |
+| Prestigious x10 | 21.00% | ~603 |
 | The game is on | 19.00% | ~545 |
-| Exotic Merchant | 17.00% | ~487 |
-| Full Party | 17.00% | ~487 |
+| Exotic Merchant | 17.00% | ~488 |
+| Full Party | 17.00% | ~488 |
 | Dragon Clicker | 16.00% | ~459 |
 | Miner Clicker | 16.00% | ~459 |
 | Inspection | 15.00% | ~430 |
-| Dragon Master | 14.00% | ~401 |
-| Enlightenment | 14.00% | ~401 |
-| Hero inspection | 14.00% | ~401 |
+| Dragon Master | 14.00% | ~402 |
+| Enlightenment | 14.00% | ~402 |
+| Hero inspection | 14.00% | ~402 |
 | Lieutenant | 13.00% | ~373 |
 | Milestone collector | 12.00% | ~344 |
 | Mysterious Rock | 12.00% | ~344 |
@@ -38,9 +38,9 @@ Rating: 4.04 (Ranked 992)
 | Moving Up The Ladder | 9.00% | ~258 |
 | Relic Of The Past | 9.00% | ~258 |
 | Scroll Master | 9.00% | ~258 |
-| Four Leaf Clover | 8.00% | ~229 |
-| Master Enchanter | 8.00% | ~229 |
-| The father of Dragons | 8.00% | ~229 |
+| Four Leaf Clover | 8.00% | ~230 |
+| Master Enchanter | 8.00% | ~230 |
+| The father of Dragons | 8.00% | ~230 |
 | Crystal Mining | 7.00% | ~201 |
 | Here We Go Again | 7.00% | ~201 |
 | Trader | 7.00% | ~201 |
@@ -52,13 +52,13 @@ Rating: 4.04 (Ranked 992)
 | Sailor | 6.00% | ~172 |
 | The Expeditioner | 6.00% | ~172 |
 | Weekly Quest Completionist | 6.00% | ~172 |
-| Active Member | 5.00% | ~143 |
-| Ancient Knowledge | 5.00% | ~143 |
-| Background Story | 5.00% | ~143 |
-| How Do You Turn This On? | 5.00% | ~143 |
-| Legendary | 5.00% | ~143 |
-| Missions Dedication | 5.00% | ~143 |
-| The Alchemist | 5.00% | ~143 |
+| Active Member | 5.00% | ~144 |
+| Ancient Knowledge | 5.00% | ~144 |
+| Background Story | 5.00% | ~144 |
+| How Do You Turn This On? | 5.00% | ~144 |
+| Legendary | 5.00% | ~144 |
+| Missions Dedication | 5.00% | ~144 |
+| The Alchemist | 5.00% | ~144 |
 | Arena Challenger | 4.00% | ~115 |
 | Ebony Jungle Liberator | 4.00% | ~115 |
 | Gear Enchanting | 3.00% | ~86 |
@@ -81,7 +81,7 @@ Rating: 4.04 (Ranked 992)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,867 (Ranked 213)  
+Progressed: 2,870 (Ranked 213)  
 Completed: 2 (0.07%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 2 (0.07%) (Ranked 302)
 | 2023-11-28 | 2,791 | 2 |
 | 2023-11-29 | 2,822 | 2 |
 | 2023-11-30 | 2,847 | 2 |
-| 2023-12-01 | 2,867 | 2 |
+| 2023-12-01 | 2,870 | 2 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 483)  
 Sum: 134 (Ranked 430)  

@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 506,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.78,
   "EosHistory": [
@@ -1357,9 +1357,9 @@
       "ID": "ach_main04undead_sacrifice",
       "SetID": "4hg22ll",
       "Name": "Sacrificial Pit = Garbage Disposal?",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 81
     },
     {
       "ID": "ach_main05evil_completed",
@@ -1764,8 +1764,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-01T04:07:54.7931261+00:00",
+  "LastChanged_Achievements": "2023-12-01T05:08:31.086405+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:53.3530612+00:00",
-  "LastUpdate_Ratings": "2023-12-01T03:58:01.230151+00:00",
-  "LastUpdate_Achievements": "2023-12-01T04:07:54.7931792+00:00"
+  "LastUpdate_Ratings": "2023-12-01T04:58:11.455717+00:00",
+  "LastUpdate_Achievements": "2023-12-01T05:08:31.0864476+00:00"
 }

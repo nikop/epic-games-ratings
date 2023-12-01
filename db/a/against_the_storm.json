@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 3632,
+  "Ranking_EOS_NewCompleters": 3633,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3331,7 +3331,7 @@
   ],
   "EOS_Progressed": 17543,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": -7,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -14988,9 +14988,9 @@
       "ID": "WinWithFoxes",
       "SetID": "cfbk359",
       "Name": "Fox Utopia",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     }
   ],
   "AchievementSets": [
@@ -15004,8 +15004,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-30T20:00:49.175254+00:00",
-  "LastChanged_Achievements": "2023-12-01T04:08:20.4227467+00:00",
+  "LastChanged_Achievements": "2023-12-01T05:08:58.1885249+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:56.4973761+00:00",
-  "LastUpdate_Ratings": "2023-12-01T04:00:53.6200765+00:00",
-  "LastUpdate_Achievements": "2023-12-01T04:08:20.4228447+00:00"
+  "LastUpdate_Ratings": "2023-12-01T05:01:17.3225565+00:00",
+  "LastUpdate_Achievements": "2023-12-01T05:08:58.1885992+00:00"
 }

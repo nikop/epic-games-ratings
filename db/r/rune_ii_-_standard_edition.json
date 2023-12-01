@@ -2,7 +2,7 @@
   "ID": "cosmos",
   "Name": "RUNE II - Standard Edition",
   "ProductSlug": "rune-2",
-  "Ranking_EOS_Progress": 768,
+  "Ranking_EOS_Progress": 769,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 496,
   "Ranking_EOS_NewCompleters": 139,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-25T21:58:50.6307234+00:00",
-  "LastUpdate_Ratings": "2023-12-01T04:00:04.4825119+00:00",
-  "LastUpdate_Achievements": "2023-12-01T04:06:14.4981063+00:00"
+  "LastUpdate_Ratings": "2023-12-01T05:00:23.0947034+00:00",
+  "LastUpdate_Achievements": "2023-12-01T05:06:42.8545455+00:00"
 }

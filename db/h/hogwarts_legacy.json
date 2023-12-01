@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11295,9 +11295,9 @@
       "Count": 825
     }
   ],
-  "EOS_Progressed": 303671,
+  "EOS_Progressed": 303673,
   "EOS_Completed": 519,
-  "EOS_NewPlayers": 808,
+  "EOS_NewPlayers": 804,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -35500,6 +35500,11 @@
       "Time": "2023-12-01T04:09:20.3381142+00:00",
       "NumProgressed": 303671,
       "NumCompleted": 519
+    },
+    {
+      "Time": "2023-12-01T05:10:02.5707732+00:00",
+      "NumProgressed": 303673,
+      "NumCompleted": 519
     }
   ],
   "TotalAchievements": 45,
@@ -35511,7 +35516,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48587
+      "UsersEstimate": 48588
     },
     {
       "ID": "PFA_10",
@@ -35583,7 +35588,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 27330
+      "UsersEstimate": 27331
     },
     {
       "ID": "PFA_19",
@@ -35815,7 +35820,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27330
+      "UsersEstimate": 27331
     },
     {
       "ID": "PFA_45",
@@ -35870,7 +35875,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303671,
+      "Progressed": 303673,
       "Completed": 519
     }
   ],
@@ -35878,8 +35883,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-30T23:57:24.6912704+00:00",
-  "LastChanged_Achievements": "2023-12-01T04:09:20.3381138+00:00",
+  "LastChanged_Achievements": "2023-12-01T05:10:02.5707726+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7292094+00:00",
-  "LastUpdate_Ratings": "2023-12-01T03:57:33.1388219+00:00",
-  "LastUpdate_Achievements": "2023-12-01T04:09:20.3382306+00:00"
+  "LastUpdate_Ratings": "2023-12-01T04:57:40.3159009+00:00",
+  "LastUpdate_Achievements": "2023-12-01T05:10:02.5709098+00:00"
 }

@@ -13,8 +13,8 @@ Rating: 4.54 (Ranked 528)
 | Hotel California | 2.00% | ~14,566 |
 | Personal Assistant Personally Assisted | 2.00% | ~14,566 |
 | Welcome To Hell-A | 2.00% | ~14,566 |
-| One of Us | 2.00% | ~1,076 |
-| Pork Chopped | 2.00% | ~1,076 |
+| One of Us | 2.00% | ~1,077 |
+| Pork Chopped | 2.00% | ~1,077 |
 | Dr. Reed, I Presume? | 1.00% | ~7,283 |
 | Anger Management | 1.00% | ~7,283 |
 | Perks of the Job | 1.00% | ~7,283 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 528)
 | Bucket List | 0.10% | ~728 |
 | Wilhelm | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,278 (Ranked 21)  
+Progressed: 728,285 (Ranked 21)  
 Completed: 2,456 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,16 +282,16 @@ Completed: 2,456 (0.34%) (Ranked 231)
 | 2023-11-28 | 727,374 | 2,447 |
 | 2023-11-29 | 727,809 | 2,450 |
 | 2023-11-30 | 728,231 | 2,456 |
-| 2023-12-01 | 728,278 | 2,456 |
+| 2023-12-01 | 728,285 | 2,456 |
 ## Awards
 Max (Great Boss Battles): 7,821  (Ranked 49)  
-Sum: 11,987 (Ranked 84)  
+Sum: 11,991 (Ranked 84)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,821 |
 | This game is Great for Beginners | 605 |
-| This game has Diverse Characters | 572 |
+| This game has Diverse Characters | 576 |
 | This game has Quickly Understood Controls | 539 |
 | This game is Relaxing | 518 |
 | This game has Amazing Storytelling | 503 |
@@ -525,3 +525,4 @@ Diff (max vs sum): -35
 | 2023-11-28 | 4.54 | 7,784 | 11,921 |
 | 2023-11-29 | 4.54 | 7,803 | 11,961 |
 | 2023-11-30 | 4.54 | 7,821 | 11,987 |
+| 2023-12-01 | 4.54 | 7,821 | 11,991 |

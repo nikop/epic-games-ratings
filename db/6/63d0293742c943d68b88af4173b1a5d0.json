@@ -2,7 +2,7 @@
   "ID": "63d0293742c943d68b88af4173b1a5d0",
   "Name": "Who\u0027s Your Daddy?!",
   "ProductSlug": "whos-your-daddy-403b04",
-  "Ranking_EOS_Progress": 348,
+  "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 139,
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 321,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1215,8 +1215,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-01T04:05:33.2916908+00:00",
+  "LastChanged_Achievements": "2023-12-01T05:05:58.6208092+00:00",
   "LastUpdate_AppInfo": "2023-11-27T21:57:11.1049797+00:00",
-  "LastUpdate_Ratings": "2023-12-01T04:00:35.6474481+00:00",
-  "LastUpdate_Achievements": "2023-12-01T04:05:33.2917155+00:00"
+  "LastUpdate_Ratings": "2023-12-01T05:00:57.5094663+00:00",
+  "LastUpdate_Achievements": "2023-12-01T05:05:58.6208615+00:00"
 }

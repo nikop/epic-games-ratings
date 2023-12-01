@@ -1425,9 +1425,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 240555,
+  "EOS_Progressed": 240565,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1376,
+  "EOS_NewPlayers": 1383,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20595,6 +20595,11 @@
       "Time": "2023-12-01T04:08:38.3277001+00:00",
       "NumProgressed": 240555,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-01T05:09:17.580229+00:00",
+      "NumProgressed": 240565,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -20654,7 +20659,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16839
+      "UsersEstimate": 16840
     },
     {
       "ID": "Chapter2",
@@ -20662,7 +20667,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9622
+      "UsersEstimate": 9623
     },
     {
       "ID": "Chapter3",
@@ -21006,7 +21011,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19244
+      "UsersEstimate": 19245
     },
     {
       "ID": "DwarfElf15Support",
@@ -21054,7 +21059,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 84194
+      "UsersEstimate": 84198
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -21070,7 +21075,7 @@
       "Name": "GG EZ",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9622
+      "UsersEstimate": 9623
     },
     {
       "ID": "EndCombatOneHp",
@@ -21078,7 +21083,7 @@
       "Name": "DM intervention",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9622
+      "UsersEstimate": 9623
     },
     {
       "ID": "EndGameCursed",
@@ -21102,7 +21107,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 21650
+      "UsersEstimate": 21651
     },
     {
       "ID": "FollowBraztok",
@@ -21214,7 +21219,7 @@
       "Name": "L\u00EBgal Legend",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 1924
+      "UsersEstimate": 1925
     },
     {
       "ID": "QuestPriestess",
@@ -21302,28 +21307,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9622
+      "UsersEstimate": 9623
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 240555,
+      "Progressed": 240565,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 240555,
+      "Progressed": 240565,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-30T16:01:13.8587694+00:00",
-  "LastChanged_Achievements": "2023-12-01T04:08:38.3276994+00:00",
+  "LastChanged_Achievements": "2023-12-01T05:09:17.5802285+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:00.6949957+00:00",
-  "LastUpdate_Ratings": "2023-12-01T04:01:04.2890037+00:00",
-  "LastUpdate_Achievements": "2023-12-01T04:08:38.3278447+00:00"
+  "LastUpdate_Ratings": "2023-12-01T05:01:28.7631132+00:00",
+  "LastUpdate_Achievements": "2023-12-01T05:09:17.580374+00:00"
 }

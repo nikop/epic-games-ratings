@@ -43,10 +43,10 @@
 | The Finitude Drill | 20.00% | ~101 |
 | Stop Tanos! | 18.00% | ~91 |
 | Doom Hill | 18.00% | ~91 |
+| Sacrificial Pit = Garbage Disposal? | 16.00% | ~81 |
 | Bonus Evilness | 16.00% | ~81 |
 | Sabotage! | 16.00% | ~81 |
 | Brimstone Shaken, Not Stirred | 16.00% | ~81 |
-| Sacrificial Pit = Garbage Disposal? | 15.00% | ~76 |
 | The Rune Sockets of Finitude (Part 1) | 15.00% | ~76 |
 | My Little Torture Chamber | 14.00% | ~71 |
 | Raiders of the Lost Stone | 14.00% | ~71 |

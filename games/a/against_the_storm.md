@@ -15,6 +15,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Gathering Storm | 1.00% | ~175 |
 | Untamed Wilds | 0.80% | ~140 |
 | Watchtower | 0.20% | ~35 |
+| Fox Utopia | 0.20% | ~35 |
 | Serving Ale | 0.10% | ~18 |
 | Feeding The People | 0.10% | ~18 |
 | Human Utopia | 0.10% | ~18 |
@@ -57,7 +58,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | No Deaths | 0.10% | ~18 |
 | Defying the Crown | 0.10% | ~18 |
 | Into the Forest | 0.10% | ~18 |
-| Fox Utopia | 0.10% | ~18 |
 | Paradise | 0.00% | ~0 |
 | Higher Needs | 0.00% | ~0 |
 | Beaver Utopia | 0.00% | ~0 |

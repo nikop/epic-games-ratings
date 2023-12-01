@@ -2,7 +2,7 @@
   "ID": "07c1022735974095ac2f428f291cce3a",
   "Name": "Seafrog",
   "ProductSlug": "seafrog-b66769",
-  "Ranking_EOS_Progress": 768,
+  "Ranking_EOS_Progress": 769,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 496,
   "Ranking_EOS_NewCompleters": 139,
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-25T17:56:55.8157714+00:00",
-  "LastUpdate_Ratings": "2023-12-01T03:58:51.9686598+00:00",
-  "LastUpdate_Achievements": "2023-12-01T04:03:49.1426911+00:00"
+  "LastUpdate_Ratings": "2023-12-01T04:59:05.0721671+00:00",
+  "LastUpdate_Achievements": "2023-12-01T05:04:05.4970418+00:00"
 }

@@ -112,9 +112,9 @@
       "ID": "ach_hint_6",
       "SetID": "c0bphk8",
       "Name": "Supported success!",
-      "Percentage": 67,
+      "Percentage": 83,
       "XP": 80,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_hint_9",
@@ -128,17 +128,17 @@
       "ID": "ach_minigames_10",
       "SetID": "c0bphk8",
       "Name": "Inquiring mind!",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 80,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_skip_1",
       "SetID": "c0bphk8",
       "Name": "Keep moving on!",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_skip_3",
@@ -174,8 +174,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-19T06:01:22.7935728+00:00",
-  "LastChanged_Achievements": "2023-12-01T04:04:59.2889822+00:00",
+  "LastChanged_Achievements": "2023-12-01T05:05:21.6549081+00:00",
   "LastUpdate_AppInfo": "2023-11-29T17:57:14.9560804+00:00",
-  "LastUpdate_Ratings": "2023-12-01T04:00:03.1814492+00:00",
-  "LastUpdate_Achievements": "2023-12-01T04:04:59.2889906+00:00"
+  "LastUpdate_Ratings": "2023-12-01T05:00:21.7257696+00:00",
+  "LastUpdate_Achievements": "2023-12-01T05:05:21.6549164+00:00"
 }

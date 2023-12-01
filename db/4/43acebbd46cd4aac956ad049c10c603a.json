@@ -169,9 +169,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 800,
+  "EOS_Progressed": 801,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 275,
+  "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1794,6 +1794,11 @@
       "Time": "2023-12-01T02:00:22.6629808+00:00",
       "NumProgressed": 800,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-01T05:03:56.9580832+00:00",
+      "NumProgressed": 801,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1804,7 +1809,7 @@
       "ID": "AbAeterno",
       "SetID": "1n308hc",
       "Name": "Ab Aeterno",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -1980,9 +1985,9 @@
       "ID": "JustOneLap",
       "SetID": "1n308hc",
       "Name": "Just One Lap",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 16
     },
     {
       "ID": "LordOfTheFiles",
@@ -2124,7 +2129,7 @@
       "ID": "SingleRod",
       "SetID": "1n308hc",
       "Name": "Single Rod",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -2172,7 +2177,7 @@
       "ID": "TheEdgeOfForever",
       "SetID": "1n308hc",
       "Name": "The Edge of Forever",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -2180,7 +2185,7 @@
       "ID": "TheFuture",
       "SetID": "1n308hc",
       "Name": "The Future",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -2188,7 +2193,7 @@
       "ID": "TheHardWay",
       "SetID": "1n308hc",
       "Name": "The Hard Way",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -2277,7 +2282,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 800,
+      "Progressed": 801,
       "Completed": 1
     }
   ],
@@ -2285,8 +2290,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-30T22:00:34.4965769+00:00",
-  "LastChanged_Achievements": "2023-12-01T04:03:41.1005902+00:00",
+  "LastChanged_Achievements": "2023-12-01T05:03:56.9580826+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-01T04:00:32.2317553+00:00",
-  "LastUpdate_Achievements": "2023-12-01T04:03:41.1006333+00:00"
+  "LastUpdate_Ratings": "2023-12-01T05:00:53.9397919+00:00",
+  "LastUpdate_Achievements": "2023-12-01T05:03:56.9581255+00:00"
 }

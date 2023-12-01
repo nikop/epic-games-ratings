@@ -5,19 +5,19 @@ Rating: 4.29 (Ranked 847)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 70.00% | ~154,037 |
-| Doubled Pawn | 57.00% | ~125,430 |
-| Check | 55.00% | ~121,029 |
-| Absolute pin | 47.00% | ~103,425 |
-| Promotion | 31.00% | ~68,216 |
-| Checkmate | 30.00% | ~66,016 |
+| Chop Wood | 70.00% | ~154,039 |
+| Doubled Pawn | 57.00% | ~125,432 |
+| Check | 55.00% | ~121,031 |
+| Absolute pin | 47.00% | ~103,426 |
+| Promotion | 31.00% | ~68,217 |
+| Checkmate | 30.00% | ~66,017 |
 | O-O | 24.00% | ~52,813 |
-| Spanish Bishop | 21.00% | ~46,211 |
+| Spanish Bishop | 21.00% | ~46,212 |
 | Queen Sacrifice | 20.00% | ~44,011 |
 | Stalemate | 18.00% | ~39,610 |
 | O-O-O | 13.00% | ~28,607 |
 | Octopus | 13.00% | ~28,607 |
-| Stranger Danger | 12.00% | ~26,406 |
+| Stranger Danger | 12.00% | ~26,407 |
 | En Passant | 9.00% | ~19,805 |
 | Double Check | 7.00% | ~15,404 |
 | Family Fork | 6.00% | ~13,203 |
@@ -30,7 +30,7 @@ Rating: 4.29 (Ranked 847)
 | Blind Pigs | 2.00% | ~4,401 |
 | ELO ELO ELO | 2.00% | ~4,401 |
 | Bobby Time | 1.00% | ~2,201 |
-| Back-rank Mate | 0.90% | ~1,980 |
+| Back-rank Mate | 0.90% | ~1,981 |
 | Chess Champion | 0.30% | ~660 |
 | Alekhine’s gun | 0.20% | ~440 |
 | Boden’s Mate | 0.10% | ~220 |
@@ -44,7 +44,7 @@ Rating: 4.29 (Ranked 847)
 | Tournament Master | 0.10% | ~220 |
 | Tournament Pro | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,053 (Ranked 71)  
+Progressed: 220,056 (Ranked 71)  
 Completed: 2 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 2 (0.00%) (Ranked 363)
 | 2023-11-28 | 219,790 | 2 |
 | 2023-11-29 | 219,911 | 2 |
 | 2023-11-30 | 220,030 | 2 |
-| 2023-12-01 | 220,053 | 2 |
+| 2023-12-01 | 220,056 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

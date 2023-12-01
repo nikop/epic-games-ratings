@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 384,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -643,7 +643,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471594,
+  "EOS_Progressed": 471595,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 0,
@@ -24008,6 +24008,11 @@
       "Time": "2023-12-01T04:09:25.0885093+00:00",
       "NumProgressed": 471594,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-01T05:10:07.2969621+00:00",
+      "NumProgressed": 471595,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -24059,7 +24064,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47159
+      "UsersEstimate": 47160
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -24107,7 +24112,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311252
+      "UsersEstimate": 311253
     },
     {
       "ID": "achievement_story_landa",
@@ -24139,7 +24144,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117898
+      "UsersEstimate": 117899
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -24443,7 +24448,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207501
+      "UsersEstimate": 207502
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -24650,21 +24655,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15528,
+      "Progressed": 15529,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471594,
+      "Progressed": 471595,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-12-01T04:09:25.0885089+00:00",
+  "LastChanged_Achievements": "2023-12-01T05:10:07.2969618+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:35.6450304+00:00",
-  "LastUpdate_Ratings": "2023-12-01T03:59:11.1469889+00:00",
-  "LastUpdate_Achievements": "2023-12-01T04:09:25.0886504+00:00"
+  "LastUpdate_Ratings": "2023-12-01T04:59:25.855346+00:00",
+  "LastUpdate_Achievements": "2023-12-01T05:10:07.2970997+00:00"
 }

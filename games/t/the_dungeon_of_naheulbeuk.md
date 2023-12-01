@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~84,194 |
-| Alt+F4 | 9.00% | ~21,650 |
-| Where's that freaking Dwarf? | 8.00% | ~19,244 |
-| Déjà vu | 7.00% | ~16,839 |
+| Sowwy! | 35.00% | ~84,198 |
+| Alt+F4 | 9.00% | ~21,651 |
+| Where's that freaking Dwarf? | 8.00% | ~19,245 |
+| Déjà vu | 7.00% | ~16,840 |
 | Sock! SOCK! | 5.00% | ~12,028 |
 | Speedrun | 5.00% | ~12,028 |
-| A beer, two curses, three companions | 4.00% | ~9,622 |
-| GG EZ | 4.00% | ~9,622 |
-| DM intervention | 4.00% | ~9,622 |
-| Fireproof Wizardess | 4.00% | ~9,622 |
+| A beer, two curses, three companions | 4.00% | ~9,623 |
+| GG EZ | 4.00% | ~9,623 |
+| DM intervention | 4.00% | ~9,623 |
+| Fireproof Wizardess | 4.00% | ~9,623 |
 | Livin' in a dwarven paradise | 3.00% | ~7,217 |
 | Way of the Wimp | 3.00% | ~7,217 |
 | The plot thickens... At the tavern | 3.00% | ~7,217 |
@@ -45,7 +45,7 @@ Number of Ratings: 118  (23.09.2022)
 | Lust and Debauchery | 1.00% | ~2,406 |
 | Material Girl | 1.00% | ~2,406 |
 | In Navalu's footsteps | 0.90% | ~2,165 |
-| Lëgal Legend | 0.80% | ~1,924 |
+| Lëgal Legend | 0.80% | ~1,925 |
 | We come in peace | 0.70% | ~1,684 |
 | Holistic Adventuring Party | 0.60% | ~1,443 |
 | An old poacher makes the best gamekeeper | 0.60% | ~1,443 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~241 |
 | Dwarf Candy | 0.10% | ~241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,555 (Ranked 62)  
+Progressed: 240,565 (Ranked 62)  
 Completed: 7 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 7 (0.00%) (Ranked 363)
 | 2023-11-28 | 240,228 | 7 |
 | 2023-11-29 | 240,383 | 7 |
 | 2023-11-30 | 240,529 | 7 |
-| 2023-12-01 | 240,555 | 7 |
+| 2023-12-01 | 240,565 | 7 |
 ## Awards
 Max (Character Customization): 240  (Ranked 272)  
 Sum: 485 (Ranked 329)  

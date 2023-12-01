@@ -4359,18 +4359,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 7102,
       "NumberOfAwardsMax": 1751
+    },
+    {
+      "Time": "2023-12-01T04:58:29.6250068+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7105,
+      "NumberOfAwardsMax": 1752
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7102,
-  "NumberOfAwardsMax": 1751,
+  "NumberOfAwards": 7105,
+  "NumberOfAwardsMax": 1752,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1751
+      "Count": 1752
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4424,7 +4430,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 589
+      "Count": 591
     },
     {
       "Text": "This game has a Creative Community",
@@ -4435,7 +4441,7 @@
   ],
   "EOS_Progressed": 12211,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17208,9 +17214,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-11-30T22:57:56.9292719+00:00",
-  "LastChanged_Achievements": "2023-12-01T04:08:42.8228073+00:00",
+  "LastChanged": "2023-12-01T04:58:29.6250067+00:00",
+  "LastChanged_Achievements": "2023-12-01T05:09:22.3415584+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:49.3159315+00:00",
-  "LastUpdate_Ratings": "2023-12-01T03:58:18.3015236+00:00",
-  "LastUpdate_Achievements": "2023-12-01T04:08:42.8229595+00:00"
+  "LastUpdate_Ratings": "2023-12-01T04:58:29.6250075+00:00",
+  "LastUpdate_Achievements": "2023-12-01T05:09:22.341713+00:00"
 }

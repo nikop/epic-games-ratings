@@ -761,9 +761,9 @@
       "ID": "_shotgun",
       "SetID": "2d5739o",
       "Name": "Shotgun",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "_slow_bullets",
@@ -840,8 +840,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-12-01T04:05:16.0397098+00:00",
+  "LastChanged_Achievements": "2023-12-01T05:05:39.7436478+00:00",
   "LastUpdate_AppInfo": "2023-11-29T22:56:59.736765+00:00",
-  "LastUpdate_Ratings": "2023-12-01T04:02:27.6121784+00:00",
-  "LastUpdate_Achievements": "2023-12-01T04:05:16.03974+00:00"
+  "LastUpdate_Ratings": "2023-12-01T05:02:36.9308176+00:00",
+  "LastUpdate_Achievements": "2023-12-01T05:05:39.7436746+00:00"
 }

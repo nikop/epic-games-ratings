@@ -27,10 +27,10 @@
 | So Close | 40.00% | ~415 |
 | You Get Used To It | 40.00% | ~415 |
 | True Legends | 39.00% | ~404 |
+| Boosted! | 38.00% | ~394 |
 | Family | 37.00% | ~384 |
 | Biggest Snowball Ever | 37.00% | ~384 |
 | Freeze The Ice Witch | 37.00% | ~384 |
-| Boosted! | 37.00% | ~384 |
 | Deadliest and Biggest Snowball Ever! | 37.00% | ~384 |
 | Bullseye | 36.00% | ~373 |
 | It Is Not Over | 34.00% | ~353 |

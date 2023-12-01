@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -2448,9 +2448,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44035,
+  "EOS_Progressed": 44036,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9398,6 +9398,11 @@
       "Time": "2023-11-30T16:04:48.217471+00:00",
       "NumProgressed": 44035,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-12-01T05:04:47.2222265+00:00",
+      "NumProgressed": 44036,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -9473,7 +9478,7 @@
       "Name": "This is no Sunday School picnic!",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 3082
+      "UsersEstimate": 3083
     },
     {
       "ID": "SE_COMPLETE_CROATIA",
@@ -9481,7 +9486,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 18054
+      "UsersEstimate": 18055
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -9497,7 +9502,7 @@
       "Name": "I never redoubted you!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 3082
+      "UsersEstimate": 3083
     },
     {
       "ID": "SE_COMPLETE_DEEPER_THAN_HELL",
@@ -9529,7 +9534,7 @@
       "Name": "You\u0027re all going to die down here",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 14091
+      "UsersEstimate": 14092
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_CAGED_FEAR",
@@ -9561,7 +9566,7 @@
       "Name": "Not today you won\u0027t",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 3082
+      "UsersEstimate": 3083
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_RURAL_COMPOUND",
@@ -9601,7 +9606,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27742
+      "UsersEstimate": 27743
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -9625,7 +9630,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 19375
+      "UsersEstimate": 19376
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -9633,7 +9638,7 @@
       "Name": "He did Nazi that coming",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 14091
+      "UsersEstimate": 14092
     },
     {
       "ID": "SE_COMPLETE_TERMINAL_ERROR",
@@ -9657,7 +9662,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21577
+      "UsersEstimate": 21578
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -9721,7 +9726,7 @@
       "Name": "Come and get it! It\u0027s a running buffet!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 16733
+      "UsersEstimate": 16734
     },
     {
       "ID": "SE_GET_X_HEADSHOT_STREAK",
@@ -9737,7 +9742,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30384
+      "UsersEstimate": 30385
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -9745,15 +9750,15 @@
       "Name": "Gotcha, didn\u0027t I?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3082
+      "UsersEstimate": 3083
     },
     {
       "ID": "SE_KILL_A_ZOMBIE_PLAYER",
       "SetID": "49kdhbg",
       "Name": "I never liked them anyway",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13210
+      "UsersEstimate": 13651
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -9761,7 +9766,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20696
+      "UsersEstimate": 20697
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -9769,7 +9774,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 25100
+      "UsersEstimate": 25101
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -9777,7 +9782,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20696
+      "UsersEstimate": 20697
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -9793,7 +9798,7 @@
       "Name": "Got your back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 11889
+      "UsersEstimate": 11890
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_WITHOUT_MISS",
@@ -9809,7 +9814,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29063
+      "UsersEstimate": 29064
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -9833,7 +9838,7 @@
       "Name": "A gross gross",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3082
+      "UsersEstimate": 3083
     },
     {
       "ID": "SE_PERFORM_ALL_HEROIC_ACTIONS",
@@ -9857,7 +9862,7 @@
       "Name": "Hail to the king, baby!",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 3082
+      "UsersEstimate": 3083
     },
     {
       "ID": "SE_REACH_RANK_5",
@@ -9865,7 +9870,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29063
+      "UsersEstimate": 29064
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -9873,7 +9878,7 @@
       "Name": "Gore soaked",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 10568
+      "UsersEstimate": 10569
     },
     {
       "ID": "SE_REACH_WAVE_X",
@@ -9936,15 +9941,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44035,
+      "Progressed": 44036,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-11-30T13:03:23.0386077+00:00",
-  "LastChanged_Achievements": "2023-12-01T04:04:27.6136927+00:00",
+  "LastChanged_Achievements": "2023-12-01T05:04:47.222226+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:29.1188847+00:00",
-  "LastUpdate_Ratings": "2023-12-01T03:57:35.0363177+00:00",
-  "LastUpdate_Achievements": "2023-12-01T04:04:27.6137811+00:00"
+  "LastUpdate_Ratings": "2023-12-01T04:57:42.4790997+00:00",
+  "LastUpdate_Achievements": "2023-12-01T05:04:47.2223097+00:00"
 }
