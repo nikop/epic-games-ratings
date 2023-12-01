@@ -4,7 +4,7 @@
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 178,
+  "EOS_Progressed": 180,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -674,6 +674,11 @@
       "Time": "2023-11-30T22:04:19.9295554+00:00",
       "NumProgressed": 178,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T22:03:55.5585908+00:00",
+      "NumProgressed": 180,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T19:03:25.5191161+00:00",
@@ -684,17 +689,17 @@
       "ID": "TINGWD_ADMIN",
       "SetID": "c0imaa6",
       "Name": "Administrator",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 140
     },
     {
       "ID": "TINGWD_ANIMAL",
       "SetID": "c0imaa6",
       "Name": "A friend of the animals... or not.",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "TINGWD_BEATEM",
@@ -748,9 +753,9 @@
       "ID": "TINGWD_CHAP_END_01",
       "SetID": "c0imaa6",
       "Name": "There\u0027s a bug in the soup",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 133
     },
     {
       "ID": "TINGWD_CHAP_END_02",
@@ -758,7 +763,7 @@
       "Name": "A soundly led quest",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "TINGWD_CHAP_END_03",
@@ -766,7 +771,7 @@
       "Name": "Princess saver",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "TINGWD_CHAP_END_04",
@@ -774,15 +779,15 @@
       "Name": "The end of the ordeal",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "TINGWD_CHAP_END_05",
       "SetID": "c0imaa6",
       "Name": "It\u0027s not over yet",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "TINGWD_CHAP_END_06",
@@ -798,13 +803,13 @@
       "Name": "Serial Clicker",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "TINGWD_CONSPI",
       "SetID": "c0imaa6",
       "Name": "Conspiracy theorist",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 20,
       "UsersEstimate": 139
     },
@@ -814,7 +819,7 @@
       "Name": "Private Detective",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 157
     },
     {
       "ID": "TINGWD_GHOSTBUSTERS",
@@ -838,7 +843,7 @@
       "Name": "Headshot",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "TINGWD_HONEY",
@@ -860,17 +865,17 @@
       "ID": "TINGWD_NOSHAME",
       "SetID": "c0imaa6",
       "Name": "Have you no shame?",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 149
     },
     {
       "ID": "TINGWD_OUTBOX",
       "SetID": "c0imaa6",
       "Name": "Outside the box",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "TINGWD_PERPETUITY",
@@ -878,7 +883,7 @@
       "Name": "Life sentence",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "TINGWD_PUNCHMAN",
@@ -886,7 +891,7 @@
       "Name": "One Punch Man",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "TINGWD_RADAR",
@@ -902,7 +907,7 @@
       "Name": "Raiders of the lost game",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "TINGWD_RANDOM",
@@ -918,7 +923,7 @@
       "Name": "Roshambo Addict",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "TINGWD_SHOOT",
@@ -940,9 +945,9 @@
       "ID": "TINGWD_TRAP",
       "SetID": "c0imaa6",
       "Name": "It\u0027s a trap!",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 120,
-      "UsersEstimate": 66
+      "UsersEstimate": 65
     },
     {
       "ID": "TINGWD_WRONGDIMENSION",
@@ -957,14 +962,14 @@
     {
       "ID": "c0imaa6",
       "IsBase": true,
-      "Progressed": 178,
+      "Progressed": 180,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-12-01T21:04:50.5464586+00:00",
+  "LastChanged_Achievements": "2023-12-01T22:03:55.5585903+00:00",
   "LastUpdate_AppInfo": "2023-11-27T19:57:22.8137198+00:00",
-  "LastUpdate_Ratings": "2023-12-01T20:59:36.8199402+00:00",
-  "LastUpdate_Achievements": "2023-12-01T21:04:50.5464851+00:00"
+  "LastUpdate_Ratings": "2023-12-01T21:58:41.4687294+00:00",
+  "LastUpdate_Achievements": "2023-12-01T22:03:55.5586113+00:00"
 }

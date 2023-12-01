@@ -2,7 +2,7 @@
   "ID": "611482b8586142cda48a0786eb8a127c",
   "Name": "Dead by Daylight",
   "ProductSlug": "dead-by-daylight",
-  "Ranking_Rating": 572,
+  "Ranking_Rating": 573,
   "Ranking_Popularity": 15,
   "Ranking_PopularitySum": 12,
   "Ranking_EOS_Progress": 14,
@@ -13170,11 +13170,17 @@
       "Rating": 4.51,
       "NumberOfAwards": 281293,
       "NumberOfAwardsMax": 36961
+    },
+    {
+      "Time": "2023-12-01T21:59:40.8653177+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 281449,
+      "NumberOfAwardsMax": 37031
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 281293,
-  "NumberOfAwardsMax": 36961,
+  "NumberOfAwards": 281449,
+  "NumberOfAwardsMax": 37031,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -13187,7 +13193,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 36961
+      "Count": 37031
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -13205,13 +13211,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 31220
+      "Count": 31251
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 31677
+      "Count": 31732
     },
     {
       "Text": "This game is Highly Recommended",
@@ -13244,9 +13250,9 @@
       "Count": 27430
     }
   ],
-  "EOS_Progressed": 1058954,
+  "EOS_Progressed": 1059135,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 17190,
+  "EOS_NewPlayers": 17245,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39129,6 +39135,11 @@
       "Time": "2023-12-01T21:10:24.7105209+00:00",
       "NumProgressed": 1058954,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-01T22:09:21.7330638+00:00",
+      "NumProgressed": 1059135,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 232,
@@ -39234,9 +39245,9 @@
       "ID": "ACH_013",
       "SetID": "bdmlp8o",
       "Name": "Backdoor Escape",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2118
+      "UsersEstimate": 3177
     },
     {
       "ID": "ACH_014",
@@ -39290,9 +39301,9 @@
       "ID": "ACH_020",
       "SetID": "bdmlp8o",
       "Name": "Perfect Escape",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2118
+      "UsersEstimate": 3177
     },
     {
       "ID": "ACH_021",
@@ -39308,7 +39319,7 @@
       "Name": "Zealous",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 5295
+      "UsersEstimate": 5296
     },
     {
       "ID": "ACH_023",
@@ -39316,7 +39327,7 @@
       "Name": "It wakes",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 6354
+      "UsersEstimate": 6355
     },
     {
       "ID": "ACH_024",
@@ -39324,7 +39335,7 @@
       "Name": "Not half bad",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 5295
+      "UsersEstimate": 5296
     },
     {
       "ID": "ACH_025",
@@ -39348,7 +39359,7 @@
       "Name": "Apt Survivor",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4237
     },
     {
       "ID": "ACH_028",
@@ -39372,7 +39383,7 @@
       "Name": "Survival Treasures",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4237
     },
     {
       "ID": "ACH_031",
@@ -39444,7 +39455,7 @@
       "Name": "Skillful",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 6354
+      "UsersEstimate": 6355
     },
     {
       "ID": "ACH_040",
@@ -39452,7 +39463,7 @@
       "Name": "I",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4237
     },
     {
       "ID": "ACH_041",
@@ -40450,9 +40461,9 @@
       "ID": "ACH_168",
       "SetID": "16jml5b",
       "Name": "Close Shave",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2118
+      "UsersEstimate": 3177
     },
     {
       "ID": "ACH_169",
@@ -40594,9 +40605,9 @@
       "ID": "ACH_186",
       "SetID": "16jml5b",
       "Name": "Flight to Freedom",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1059
+      "UsersEstimate": 2118
     },
     {
       "ID": "ACH_187",
@@ -40908,7 +40919,7 @@
       "Name": "Make Some Noise",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4237
     },
     {
       "ID": "ACH_226",
@@ -40995,21 +41006,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1058954,
+      "Progressed": 1059135,
       "Completed": 66
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1058954,
+      "Progressed": 1059135,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-12-01T21:01:07.0195363+00:00",
-  "LastChanged_Achievements": "2023-12-01T21:10:24.7105204+00:00",
+  "LastChanged": "2023-12-01T21:59:40.8653176+00:00",
+  "LastChanged_Achievements": "2023-12-01T22:09:21.7330634+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:00.7078103+00:00",
-  "LastUpdate_Ratings": "2023-12-01T21:01:07.0195369+00:00",
-  "LastUpdate_Achievements": "2023-12-01T21:10:24.7111682+00:00"
+  "LastUpdate_Ratings": "2023-12-01T21:59:40.8653183+00:00",
+  "LastUpdate_Achievements": "2023-12-01T22:09:21.7335906+00:00"
 }

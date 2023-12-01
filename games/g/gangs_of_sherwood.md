@@ -15,7 +15,7 @@
 | Right between the eyes | 45.00% | ~20 |
 | Merry Co-operation | 36.00% | ~16 |
 | Starry Night | 34.00% | ~15 |
-| Spring Board | 32.00% | ~14 |
+| Spring Board | 34.00% | ~15 |
 | Rebel Unleashed | 32.00% | ~14 |
 | Savior | 30.00% | ~13 |
 | Finish Him! | 30.00% | ~13 |

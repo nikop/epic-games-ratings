@@ -7327,9 +7327,9 @@
       "Count": 3789
     }
   ],
-  "EOS_Progressed": 143259,
+  "EOS_Progressed": 143272,
   "EOS_Completed": 290,
-  "EOS_NewPlayers": 1655,
+  "EOS_NewPlayers": 1641,
   "EOS_NewCompleters": 75,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -30672,6 +30672,11 @@
       "Time": "2023-12-01T21:06:11.4666847+00:00",
       "NumProgressed": 143259,
       "NumCompleted": 290
+    },
+    {
+      "Time": "2023-12-01T22:04:52.3518773+00:00",
+      "NumProgressed": 143272,
+      "NumCompleted": 290
     }
   ],
   "TotalAchievements": 112,
@@ -30763,7 +30768,7 @@
       "Name": "One Easy Payment",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5730
+      "UsersEstimate": 5731
     },
     {
       "ID": "bigsale02",
@@ -30787,7 +30792,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5730
+      "UsersEstimate": 5731
     },
     {
       "ID": "blueprint02",
@@ -30851,7 +30856,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10028
+      "UsersEstimate": 10029
     },
     {
       "ID": "chest02",
@@ -30947,7 +30952,7 @@
       "Name": "Disintermediation",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7163
+      "UsersEstimate": 7164
     },
     {
       "ID": "craft02",
@@ -31035,7 +31040,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5730
+      "UsersEstimate": 5731
     },
     {
       "ID": "energy02",
@@ -31059,7 +31064,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5730
+      "UsersEstimate": 5731
     },
     {
       "ID": "expansion02",
@@ -31267,7 +31272,7 @@
       "Name": "Budding Merchant",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5730
+      "UsersEstimate": 5731
     },
     {
       "ID": "level02",
@@ -31459,7 +31464,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7163
+      "UsersEstimate": 7164
     },
     {
       "ID": "sell02",
@@ -31499,7 +31504,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10028
+      "UsersEstimate": 10029
     },
     {
       "ID": "twinenchant01",
@@ -31547,7 +31552,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5730
+      "UsersEstimate": 5731
     },
     {
       "ID": "workers02",
@@ -31578,15 +31583,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 143259,
+      "Progressed": 143272,
       "Completed": 290
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-01T12:02:51.5246412+00:00",
-  "LastChanged_Achievements": "2023-12-01T21:06:11.4666838+00:00",
+  "LastChanged_Achievements": "2023-12-01T22:04:52.3518769+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-12-01T21:03:12.1600898+00:00",
-  "LastUpdate_Achievements": "2023-12-01T21:06:11.4668953+00:00"
+  "LastUpdate_Ratings": "2023-12-01T22:02:46.529578+00:00",
+  "LastUpdate_Achievements": "2023-12-01T22:04:52.3521419+00:00"
 }

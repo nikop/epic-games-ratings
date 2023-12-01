@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4481,9 +4481,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77527,
+  "EOS_Progressed": 77528,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 507,
+  "EOS_NewPlayers": 503,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24681,6 +24681,11 @@
       "Time": "2023-12-01T21:06:24.151036+00:00",
       "NumProgressed": 77527,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-01T22:05:01.191315+00:00",
+      "NumProgressed": 77528,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -24876,7 +24881,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6977
+      "UsersEstimate": 6978
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -24924,7 +24929,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15505
+      "UsersEstimate": 15506
     },
     {
       "ID": "FREEZE_2",
@@ -24996,7 +25001,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26359
+      "UsersEstimate": 26360
     },
     {
       "ID": "HARLEY_2",
@@ -25012,7 +25017,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15505
+      "UsersEstimate": 15506
     },
     {
       "ID": "HARLEY_4",
@@ -25060,7 +25065,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15505
+      "UsersEstimate": 15506
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -25068,7 +25073,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20932
+      "UsersEstimate": 20933
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -25084,7 +25089,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26359
+      "UsersEstimate": 26360
     },
     {
       "ID": "MYSTERY_02",
@@ -25108,7 +25113,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15505
+      "UsersEstimate": 15506
     },
     {
       "ID": "MYSTERY_05",
@@ -25156,7 +25161,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6977
+      "UsersEstimate": 6978
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -25179,13 +25184,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77527,
+      "Progressed": 77528,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47807,
+      "Progressed": 47808,
       "Completed": 2675
     }
   ],
@@ -25193,8 +25198,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-01T18:59:52.8837058+00:00",
-  "LastChanged_Achievements": "2023-12-01T21:06:24.1510354+00:00",
+  "LastChanged_Achievements": "2023-12-01T22:05:01.1913144+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:48.4544768+00:00",
-  "LastUpdate_Ratings": "2023-12-01T21:01:03.9577326+00:00",
-  "LastUpdate_Achievements": "2023-12-01T21:06:24.1512166+00:00"
+  "LastUpdate_Ratings": "2023-12-01T21:59:38.8824107+00:00",
+  "LastUpdate_Achievements": "2023-12-01T22:05:01.1914526+00:00"
 }

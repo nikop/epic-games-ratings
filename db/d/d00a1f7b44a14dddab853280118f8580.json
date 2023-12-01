@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 365,
+  "EOS_Progressed": 366,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 16,
-  "EOS_Completed_Percentage": 17.81,
+  "EOS_Completed_Percentage": 17.76,
   "EosHistory": [
     {
       "Time": "2023-07-27T20:02:52.2340673+00:00",
@@ -1444,6 +1444,11 @@
       "Time": "2023-12-01T09:09:14.4525925+00:00",
       "NumProgressed": 365,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-12-01T22:08:18.6077488+00:00",
+      "NumProgressed": 366,
+      "NumCompleted": 65
     }
   ],
   "AchievementsAdded": "2023-07-27T20:02:52.2356404+00:00",
@@ -1456,7 +1461,7 @@
       "Name": "Clever thinking!",
       "Percentage": 82,
       "XP": 100,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ach_complete_30",
@@ -1472,15 +1477,15 @@
       "Name": "Welcome aboard!",
       "Percentage": 96,
       "XP": 80,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ach_hint_3",
       "SetID": "5e260i9",
       "Name": "A helping hand!",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 40,
-      "UsersEstimate": 226
+      "UsersEstimate": 231
     },
     {
       "ID": "ach_hint_6",
@@ -1488,7 +1493,7 @@
       "Name": "Supported success!",
       "Percentage": 51,
       "XP": 70,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ach_hint_9",
@@ -1504,15 +1509,15 @@
       "Name": "Sharp-sighted!",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ach_minigames_10",
       "SetID": "5e260i9",
       "Name": "Inquiring mind!",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 80,
-      "UsersEstimate": 255
+      "UsersEstimate": 253
     },
     {
       "ID": "ach_skip_1",
@@ -1536,21 +1541,21 @@
       "Name": "Skip and conquer!",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     }
   ],
   "AchievementSets": [
     {
       "ID": "5e260i9",
       "IsBase": true,
-      "Progressed": 365,
+      "Progressed": 366,
       "Completed": 65
     }
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-12-01T21:08:56.5883635+00:00",
+  "LastChanged_Achievements": "2023-12-01T22:08:18.6077483+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:13.4790748+00:00",
-  "LastUpdate_Ratings": "2023-12-01T21:02:59.4440651+00:00",
-  "LastUpdate_Achievements": "2023-12-01T21:08:56.5883773+00:00"
+  "LastUpdate_Ratings": "2023-12-01T22:02:37.2568866+00:00",
+  "LastUpdate_Achievements": "2023-12-01T22:08:18.6077651+00:00"
 }

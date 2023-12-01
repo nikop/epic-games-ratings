@@ -1,26 +1,26 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.65 (Ranked 313)  
+Rating: 4.65 (Ranked 312)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 11.00% | ~106,281 |
-| Gun Fu | 7.00% | ~67,634 |
-| The Fool | 5.00% | ~48,310 |
-| Right Back At Ya | 4.00% | ~38,648 |
-| The Lovers | 4.00% | ~38,648 |
-| Stanislavski's Method | 3.00% | ~28,986 |
-| Full Body Conversion | 2.00% | ~19,324 |
-| Christmas Tree Attack | 2.00% | ~19,324 |
-| The Hermit | 2.00% | ~19,324 |
-| The Wheel of Fortune | 2.00% | ~19,324 |
-| True Soldier | 2.00% | ~19,324 |
-| True Warrior | 2.00% | ~19,324 |
-| Relic Ruler | 2.00% | ~1,896 |
-| All the President's Men | 2.00% | ~1,896 |
-| Arachnophobia | 2.00% | ~1,896 |
+| V for Vendetta | 11.00% | ~106,286 |
+| Gun Fu | 7.00% | ~67,637 |
+| The Fool | 5.00% | ~48,312 |
+| Right Back At Ya | 4.00% | ~38,650 |
+| The Lovers | 4.00% | ~38,650 |
+| Stanislavski's Method | 3.00% | ~28,987 |
+| Full Body Conversion | 2.00% | ~19,325 |
+| Christmas Tree Attack | 2.00% | ~19,325 |
+| The Hermit | 2.00% | ~19,325 |
+| The Wheel of Fortune | 2.00% | ~19,325 |
+| True Soldier | 2.00% | ~19,325 |
+| True Warrior | 2.00% | ~19,325 |
+| Relic Ruler | 2.00% | ~1,897 |
+| All the President's Men | 2.00% | ~1,897 |
+| Arachnophobia | 2.00% | ~1,897 |
 | Bushido and Chill | 1.00% | ~9,662 |
 | The Quick and the Dead | 1.00% | ~9,662 |
 | Life of the Road | 1.00% | ~9,662 |
@@ -45,10 +45,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | Autojock | 0.30% | ~2,899 |
 | Must Be Rats | 0.30% | ~2,899 |
 | Breathtaking | 0.30% | ~2,899 |
-| The APB is Not Enough | 0.30% | ~284 |
-| Judgement Day | 0.30% | ~284 |
-| King of Pentacles | 0.30% | ~284 |
-| King of Swords | 0.30% | ~284 |
+| The APB is Not Enough | 0.30% | ~285 |
+| Judgement Day | 0.30% | ~285 |
+| King of Pentacles | 0.30% | ~285 |
+| King of Swords | 0.30% | ~285 |
 | Temperance | 0.20% | ~1,932 |
 | King of Cups | 0.20% | ~190 |
 | City Lights | 0.10% | ~966 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 966,195 (Ranked 15)  
+Progressed: 966,239 (Ranked 15)  
 Completed: 2,832 (0.29%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 2,832 (0.29%) (Ranked 238)
 | 2023-11-28 | 960,226 | 2,821 |
 | 2023-11-29 | 962,972 | 2,823 |
 | 2023-11-30 | 964,640 | 2,827 |
-| 2023-12-01 | 966,195 | 2,832 |
+| 2023-12-01 | 966,239 | 2,832 |
 ## Awards
 Max (Character Customization): 113,560  (Ranked 9)  
 Sum: 378,672 (Ranked 9)  

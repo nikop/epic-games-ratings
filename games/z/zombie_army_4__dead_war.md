@@ -1,7 +1,7 @@
 # Zombie Army 4: Dead War
 [Store](https://store.epicgames.com/en-US/p/zombie-army-4-dead-war)  
 [View Rawdata](../../db/z/zombie_army_4__dead_war.json)  
-Rating: 4.68 (Ranked 255)  
+Rating: 4.68 (Ranked 254)  
 Number of Ratings: 743  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -32,7 +32,7 @@ Number of Ratings: 743  (23.09.2022)
 | You're all going to die down here | 32.00% | ~14,093 |
 | He did Nazi that coming | 32.00% | ~14,093 |
 | Kill of the week | 31.00% | ~13,652 |
-| I never liked them anyway | 30.00% | ~13,212 |
+| I never liked them anyway | 31.00% | ~13,652 |
 | Is it over? | 28.00% | ~12,331 |
 | Got your back | 27.00% | ~11,891 |
 | Gore soaked | 24.00% | ~10,570 |

@@ -10,13 +10,13 @@
 | Hear That Roar! | 39.00% | ~906 |
 | Rivals to the End | 28.00% | ~650 |
 | Bitter Rivalry | 27.00% | ~627 |
+| We're Going to Need a Bigger Garage | 25.00% | ~581 |
 | Champagne Spray | 25.00% | ~581 |
-| We're Going to Need a Bigger Garage | 24.00% | ~558 |
 | Legendary!!! | 20.00% | ~465 |
 | Restored and Ready | 19.00% | ~441 |
 | I Want One Too! | 19.00% | ~441 |
 | Quick Pit Stop | 19.00% | ~441 |
-| Go-Faster Stripes | 17.00% | ~395 |
+| Go-Faster Stripes | 18.00% | ~418 |
 | I'm Here Too! | 16.00% | ~372 |
 | We've Just Begun | 11.00% | ~256 |
 | Stamina Star | 9.00% | ~209 |

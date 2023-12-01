@@ -1,16 +1,16 @@
 # Songs of Conquest
 [Store](https://store.epicgames.com/en-US/p/songs-of-conquest)  
 [View Rawdata](../../db/s/songs_of_conquest.json)  
-Rating: 4.69 (Ranked 232)  
+Rating: 4.69 (Ranked 231)  
 Number of Ratings: 292  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adept | 34.00% | ~107 |
 | Double Kill | 25.00% | ~79 |
-| Critical Hit | 12.00% | ~38 |
+| Critical Hit | 13.00% | ~41 |
 | Veteran | 12.00% | ~38 |
-| Dressed For Success | 10.00% | ~32 |
+| Dressed For Success | 9.00% | ~28 |
 | Humiliation | 6.00% | ~19 |
 | Sorcerous Spree | 5.00% | ~16 |
 | Multi Kill | 4.00% | ~13 |
@@ -25,9 +25,9 @@ Number of Ratings: 292  (23.09.2022)
 | Pyrrhic Victory | 2.00% | ~6 |
 | The Song of Stoutheart | 1.00% | ~3 |
 | This Spot's Taken | 1.00% | ~3 |
-| Deepstrike | 1.00% | ~3 |
-| Infernal Influence | 1.00% | ~3 |
-| Ultra Kill | 1.00% | ~3 |
+| Deepstrike | 0.90% | ~3 |
+| Infernal Influence | 0.90% | ~3 |
+| Ultra Kill | 0.90% | ~3 |
 | Death To Diplomacy | 0.60% | ~2 |
 | Versatile Wielder | 0.60% | ~2 |
 | Coming Through! | 0.60% | ~2 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 315 (Ranked 351)  
+Progressed: 316 (Ranked 351)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-28 | 273 | 0 |
 | 2023-11-29 | 288 | 0 |
 | 2023-11-30 | 296 | 0 |
-| 2023-12-01 | 315 | 0 |
+| 2023-12-01 | 316 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 513)  
 Sum: 194 (Ranked 404)  

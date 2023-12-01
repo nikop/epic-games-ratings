@@ -3,11 +3,11 @@
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 508,
-  "Ranking_Popularity": 492,
+  "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
@@ -647,9 +647,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 235251,
+  "EOS_Progressed": 235266,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1233,
+  "EOS_NewPlayers": 1240,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15797,6 +15797,11 @@
       "Time": "2023-12-01T21:10:11.1806696+00:00",
       "NumProgressed": 235251,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T22:09:11.5934416+00:00",
+      "NumProgressed": 235266,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -15865,7 +15870,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 49403
+      "UsersEstimate": 49406
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -15873,7 +15878,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21173
+      "UsersEstimate": 21174
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -15889,7 +15894,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9410
+      "UsersEstimate": 9411
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -15993,7 +15998,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 32935
+      "UsersEstimate": 32937
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -16001,7 +16006,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16468
+      "UsersEstimate": 16469
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -16065,7 +16070,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 58813
+      "UsersEstimate": 58816
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -16080,7 +16085,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 235251,
+      "Progressed": 235266,
       "Completed": 0
     }
   ],
@@ -16088,8 +16093,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-11-28T13:02:09.2290114+00:00",
-  "LastChanged_Achievements": "2023-12-01T21:10:11.1806692+00:00",
+  "LastChanged_Achievements": "2023-12-01T22:09:11.5934412+00:00",
   "LastUpdate_AppInfo": "2023-12-01T02:57:03.9317243+00:00",
-  "LastUpdate_Ratings": "2023-12-01T20:59:29.9093133+00:00",
-  "LastUpdate_Achievements": "2023-12-01T21:10:11.1807555+00:00"
+  "LastUpdate_Ratings": "2023-12-01T21:58:37.0059128+00:00",
+  "LastUpdate_Achievements": "2023-12-01T22:09:11.5935214+00:00"
 }

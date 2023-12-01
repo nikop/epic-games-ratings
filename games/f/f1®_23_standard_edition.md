@@ -1,7 +1,7 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.68 (Ranked 255)  
+Rating: 4.68 (Ranked 254)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,7 +11,7 @@ Rating: 4.68 (Ranked 255)
 | Team Orders | 75.00% | ~4,492 |
 | Engineer | 56.00% | ~3,354 |
 | Familiar Faces | 49.00% | ~2,935 |
-| Sharing the Love | 43.00% | ~2,576 |
+| Sharing the Love | 44.00% | ~2,636 |
 | Going the Extra Mile | 43.00% | ~2,576 |
 | Hitting a Season | 41.00% | ~2,456 |
 | A Dozen Pieces | 34.00% | ~2,037 |

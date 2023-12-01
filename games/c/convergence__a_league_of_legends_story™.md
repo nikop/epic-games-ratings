@@ -1,7 +1,7 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.62 (Ranked 368)  
+Rating: 4.62 (Ranked 367)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -21,9 +21,9 @@ Rating: 4.62 (Ranked 368)
 | Honest Mistake | 21.00% | ~199 |
 | Fast Learner | 21.00% | ~199 |
 | Immaculate Aim | 21.00% | ~199 |
+| Like Clockwork | 20.00% | ~189 |
 | The Betrayer | 20.00% | ~189 |
 | Right On Time | 19.00% | ~180 |
-| Like Clockwork | 19.00% | ~180 |
 | Golem Chaser | 19.00% | ~180 |
 | Check Your Pulse | 19.00% | ~180 |
 | The Man Who Shattered Time | 18.00% | ~170 |

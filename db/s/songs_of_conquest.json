@@ -2,7 +2,7 @@
   "ID": "3a18db06dff0465b8a58308aa29020a0",
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
-  "Ranking_Rating": 232,
+  "Ranking_Rating": 231,
   "Ranking_Popularity": 513,
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 351,
@@ -438,7 +438,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 315,
+  "EOS_Progressed": 316,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
@@ -1383,6 +1383,11 @@
       "Time": "2023-12-01T21:06:07.4802789+00:00",
       "NumProgressed": 315,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T22:04:49.5960461+00:00",
+      "NumProgressed": 316,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1417,9 +1422,9 @@
       "ID": "ArtifactsEquipped",
       "SetID": "71c0n9i",
       "Name": "Dressed For Success",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 28
     },
     {
       "ID": "AttackCount",
@@ -1497,15 +1502,15 @@
       "ID": "DamageThreshold",
       "SetID": "71c0n9i",
       "Name": "Critical Hit",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 41
     },
     {
       "ID": "Deepstrike",
       "SetID": "71c0n9i",
       "Name": "Deepstrike",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -1569,7 +1574,7 @@
       "ID": "InfernalInfluence",
       "SetID": "71c0n9i",
       "Name": "Infernal Influence",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -1713,7 +1718,7 @@
       "ID": "UltraKill",
       "SetID": "71c0n9i",
       "Name": "Ultra Kill",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -1826,15 +1831,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 315,
+      "Progressed": 316,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-01T21:06:07.4802783+00:00",
+  "LastChanged_Achievements": "2023-12-01T22:04:49.5960457+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:52.6052196+00:00",
-  "LastUpdate_Ratings": "2023-12-01T21:01:25.2653452+00:00",
-  "LastUpdate_Achievements": "2023-12-01T21:06:07.4803147+00:00"
+  "LastUpdate_Ratings": "2023-12-01T21:59:52.6302965+00:00",
+  "LastUpdate_Achievements": "2023-12-01T22:04:49.5960901+00:00"
 }

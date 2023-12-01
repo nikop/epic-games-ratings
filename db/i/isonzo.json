@@ -3,11 +3,11 @@
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
   "Ranking_Rating": 495,
-  "Ranking_Popularity": 463,
+  "Ranking_Popularity": 464,
   "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -955,7 +955,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9156,
+  "EOS_Progressed": 9158,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 1,
@@ -8570,6 +8570,11 @@
       "Time": "2023-12-01T21:04:13.6073983+00:00",
       "NumProgressed": 9156,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-01T22:03:29.4117975+00:00",
+      "NumProgressed": 9158,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -8597,7 +8602,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4029
+      "UsersEstimate": 4030
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -8629,7 +8634,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 2930
+      "UsersEstimate": 2931
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -8645,7 +8650,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1831
+      "UsersEstimate": 1832
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -8693,7 +8698,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 2930
+      "UsersEstimate": 2931
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -8725,7 +8730,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1373
+      "UsersEstimate": 1374
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -8773,7 +8778,7 @@
       "Name": "Peak Performance",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 4303
+      "UsersEstimate": 4304
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -8829,7 +8834,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2472
+      "UsersEstimate": 2473
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -8885,7 +8890,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -8901,7 +8906,7 @@
       "Name": "Tosca",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -8909,7 +8914,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4578
+      "UsersEstimate": 4579
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -8917,7 +8922,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -8933,14 +8938,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4670
+      "UsersEstimate": 4671
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9156,
+      "Progressed": 9158,
       "Completed": 10
     }
   ],
@@ -8948,8 +8953,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-11-29T21:57:14.3384821+00:00",
-  "LastChanged_Achievements": "2023-12-01T21:04:13.6073978+00:00",
+  "LastChanged_Achievements": "2023-12-01T22:03:29.4117972+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:09.0414673+00:00",
-  "LastUpdate_Ratings": "2023-12-01T20:58:33.1653296+00:00",
-  "LastUpdate_Achievements": "2023-12-01T21:04:13.6074531+00:00"
+  "LastUpdate_Ratings": "2023-12-01T21:57:59.9543752+00:00",
+  "LastUpdate_Achievements": "2023-12-01T22:03:29.411849+00:00"
 }

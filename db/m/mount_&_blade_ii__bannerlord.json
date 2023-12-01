@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -9342,9 +9342,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 66826,
+  "EOS_Progressed": 66827,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 862,
+  "EOS_NewPlayers": 853,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33127,6 +33127,11 @@
       "Time": "2023-12-01T21:10:18.242531+00:00",
       "NumProgressed": 66826,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T22:09:16.7967979+00:00",
+      "NumProgressed": 66827,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -33138,7 +33143,7 @@
       "Name": "Against all odds",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8687
+      "UsersEstimate": 8688
     },
     {
       "ID": "Apple of my eye",
@@ -33266,7 +33271,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8687
+      "UsersEstimate": 8688
     },
     {
       "ID": "Great Granny",
@@ -33370,7 +33375,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26730
+      "UsersEstimate": 26731
     },
     {
       "ID": "Lawmaker",
@@ -33472,9 +33477,9 @@
       "ID": "Supreme Emperor",
       "SetID": "den0lp1",
       "Name": "Supreme Emperor",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 200,
-      "UsersEstimate": 668
+      "UsersEstimate": 1337
     },
     {
       "ID": "Swordbearer",
@@ -33545,15 +33550,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 66826,
+      "Progressed": 66827,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-12-01T19:57:54.7141391+00:00",
-  "LastChanged_Achievements": "2023-12-01T21:10:18.2425305+00:00",
+  "LastChanged_Achievements": "2023-12-01T22:09:16.7967975+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:24.2741585+00:00",
-  "LastUpdate_Ratings": "2023-12-01T20:57:32.160523+00:00",
-  "LastUpdate_Achievements": "2023-12-01T21:10:18.242714+00:00"
+  "LastUpdate_Ratings": "2023-12-01T21:57:19.7212671+00:00",
+  "LastUpdate_Achievements": "2023-12-01T22:09:16.7969567+00:00"
 }

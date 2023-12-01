@@ -1,23 +1,23 @@
 # PC Building Simulator
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator)  
 [View Rawdata](../../db/p/pc_building_simulator.json)  
-Rating: 4.66 (Ranked 295)  
+Rating: 4.66 (Ranked 294)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,757,185 |
-| Easy to forget | 46.00% | ~1,649,602 |
-| Back in the black | 39.00% | ~1,398,576 |
-| That's what I'm talking about | 29.00% | ~1,039,967 |
-| The Best of Both Worlds | 25.00% | ~896,523 |
-| Get your wings | 20.00% | ~717,218 |
-| Double trouble | 16.00% | ~573,775 |
-| Smashing it | 11.00% | ~394,470 |
-| But can it run Crysis? | 9.00% | ~322,748 |
-| My favourite feature... | 9.00% | ~322,748 |
-| From humble beginnings... | 7.00% | ~251,026 |
-| Customer satisfaction | 7.00% | ~251,026 |
+| You need to plug it in... | 49.00% | ~1,757,192 |
+| Easy to forget | 46.00% | ~1,649,609 |
+| Back in the black | 39.00% | ~1,398,582 |
+| That's what I'm talking about | 29.00% | ~1,039,971 |
+| The Best of Both Worlds | 25.00% | ~896,527 |
+| Get your wings | 20.00% | ~717,221 |
+| Double trouble | 16.00% | ~573,777 |
+| Smashing it | 11.00% | ~394,472 |
+| But can it run Crysis? | 9.00% | ~322,750 |
+| My favourite feature... | 9.00% | ~322,750 |
+| From humble beginnings... | 7.00% | ~251,027 |
+| Customer satisfaction | 7.00% | ~251,027 |
 | Keeping things neat | 4.00% | ~143,444 |
 | Seems you're pretty good at this | 4.00% | ~143,444 |
 | Bending over backwards | 4.00% | ~143,444 |
@@ -41,7 +41,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Work ethic 101 | 0.70% | ~25,103 |
 | Building momentum | 0.60% | ~21,517 |
 | Lead by example | 0.60% | ~21,517 |
-| Treat yourself - RAM | 0.50% | ~17,930 |
+| Treat yourself - RAM | 0.50% | ~17,931 |
 | Mr big business | 0.40% | ~14,344 |
 | So you're the reason why the prices are so high? | 0.30% | ~10,758 |
 | Mister Big | 0.30% | ~10,758 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,586 |
 | Treat yourself - GPU | 0.10% | ~3,586 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,586,092 (Ranked 5)  
+Progressed: 3,586,107 (Ranked 5)  
 Completed: 39 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 39 (0.00%) (Ranked 363)
 | 2023-11-28 | 3,585,128 | 39 |
 | 2023-11-29 | 3,585,443 | 39 |
 | 2023-11-30 | 3,585,764 | 39 |
-| 2023-12-01 | 3,586,092 | 39 |
+| 2023-12-01 | 3,586,107 | 39 |
 ## Awards
 Max (Great for Beginners): 1,112  (Ranked 144)  
 Sum: 8,167 (Ranked 104)  

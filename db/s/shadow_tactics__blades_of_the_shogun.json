@@ -2,7 +2,7 @@
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
-  "Ranking_Rating": 278,
+  "Ranking_Rating": 277,
   "Ranking_Popularity": 201,
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 72,
@@ -2218,9 +2218,9 @@
       "Count": 255
     }
   ],
-  "EOS_Progressed": 216897,
+  "EOS_Progressed": 216903,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 1283,
+  "EOS_NewPlayers": 1281,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -28033,6 +28033,11 @@
       "Time": "2023-12-01T21:05:21.5604935+00:00",
       "NumProgressed": 216897,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-12-01T22:04:17.0805938+00:00",
+      "NumProgressed": 216903,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 44,
@@ -28172,7 +28177,7 @@
       "Name": "Merciful",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "Meticulous",
@@ -28395,15 +28400,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 216897,
+      "Progressed": 216903,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-30T22:01:54.3996832+00:00",
-  "LastChanged_Achievements": "2023-12-01T21:05:21.5604931+00:00",
+  "LastChanged_Achievements": "2023-12-01T22:04:17.0805926+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:23.8145991+00:00",
-  "LastUpdate_Ratings": "2023-12-01T20:57:27.7777265+00:00",
-  "LastUpdate_Achievements": "2023-12-01T21:05:21.5606485+00:00"
+  "LastUpdate_Ratings": "2023-12-01T21:57:16.8350794+00:00",
+  "LastUpdate_Achievements": "2023-12-01T22:04:17.0807091+00:00"
 }

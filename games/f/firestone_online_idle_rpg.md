@@ -5,28 +5,28 @@ Rating: 4.03 (Ranked 998)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,706 |
-| World Map | 78.00% | ~2,270 |
-| Temple of Eternals | 57.00% | ~1,659 |
-| Prestigious | 53.00% | ~1,542 |
-| Fellowship Power | 42.00% | ~1,222 |
-| Guild Power | 24.00% | ~698 |
-| Prestigious x10 | 21.00% | ~611 |
-| The game is on | 19.00% | ~553 |
-| Full Party | 18.00% | ~524 |
+| Victor | 93.00% | ~2,710 |
+| World Map | 78.00% | ~2,273 |
+| Temple of Eternals | 57.00% | ~1,661 |
+| Prestigious | 53.00% | ~1,544 |
+| Fellowship Power | 42.00% | ~1,224 |
+| Guild Power | 24.00% | ~699 |
+| Prestigious x10 | 21.00% | ~612 |
+| The game is on | 19.00% | ~554 |
+| Full Party | 18.00% | ~525 |
 | Exotic Merchant | 17.00% | ~495 |
 | Dragon Clicker | 16.00% | ~466 |
 | Miner Clicker | 16.00% | ~466 |
-| Inspection | 15.00% | ~436 |
-| Dragon Master | 14.00% | ~407 |
-| Enlightenment | 14.00% | ~407 |
-| Hero inspection | 14.00% | ~407 |
-| Lieutenant | 13.00% | ~378 |
-| Milestone collector | 12.00% | ~349 |
-| Mysterious Rock | 12.00% | ~349 |
-| Natural Talent | 12.00% | ~349 |
-| Superior | 12.00% | ~349 |
-| The Unstoppable | 12.00% | ~349 |
+| Inspection | 15.00% | ~437 |
+| Dragon Master | 14.00% | ~408 |
+| Enlightenment | 14.00% | ~408 |
+| Hero inspection | 14.00% | ~408 |
+| Lieutenant | 13.00% | ~379 |
+| Milestone collector | 12.00% | ~350 |
+| Mysterious Rock | 12.00% | ~350 |
+| Natural Talent | 12.00% | ~350 |
+| Superior | 12.00% | ~350 |
+| The Unstoppable | 12.00% | ~350 |
 | Scientist | 10.00% | ~291 |
 | Challenger | 9.00% | ~262 |
 | Daily Quest Completionist | 9.00% | ~262 |
@@ -59,8 +59,8 @@ Rating: 4.03 (Ranked 998)
 | Legendary | 5.00% | ~146 |
 | Missions Dedication | 5.00% | ~146 |
 | The Alchemist | 5.00% | ~146 |
-| Arena Challenger | 4.00% | ~116 |
-| Ebony Jungle Liberator | 4.00% | ~116 |
+| Arena Challenger | 4.00% | ~117 |
+| Ebony Jungle Liberator | 4.00% | ~117 |
 | Gear Enchanting | 3.00% | ~87 |
 | Mythic Power | 3.00% | ~87 |
 | What lies behind the bush | 3.00% | ~87 |
@@ -81,7 +81,7 @@ Rating: 4.03 (Ranked 998)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,910 (Ranked 213)  
+Progressed: 2,914 (Ranked 213)  
 Completed: 2 (0.07%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,11 +301,11 @@ Completed: 2 (0.07%) (Ranked 303)
 | 2023-11-28 | 2,791 | 2 |
 | 2023-11-29 | 2,822 | 2 |
 | 2023-11-30 | 2,847 | 2 |
-| 2023-12-01 | 2,910 | 2 |
+| 2023-12-01 | 2,914 | 2 |
 ## Awards
 Max (Great for Beginners): 35  (Ranked 477)  
-Sum: 135 (Ranked 430)  
-Diff (max vs sum): 47  
+Sum: 135 (Ranked 431)  
+Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 35 |

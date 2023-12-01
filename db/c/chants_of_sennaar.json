@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 833,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 5.4,
   "EosHistory": [
@@ -3520,9 +3520,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 150
+      "UsersEstimate": 158
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -3576,9 +3576,9 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 80,
-      "UsersEstimate": 167
+      "UsersEstimate": 175
     }
   ],
   "AchievementSets": [
@@ -3591,8 +3591,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-01T21:07:30.8278003+00:00",
+  "LastChanged_Achievements": "2023-12-01T22:05:48.456882+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-12-01T21:00:24.27729+00:00",
-  "LastUpdate_Achievements": "2023-12-01T21:07:30.8278397+00:00"
+  "LastUpdate_Ratings": "2023-12-01T21:59:13.1045561+00:00",
+  "LastUpdate_Achievements": "2023-12-01T22:05:48.4569212+00:00"
 }

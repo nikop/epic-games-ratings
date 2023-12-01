@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Learned how to jump! | 70.00% | ~19 |
-| Learned how to walk! | 70.00% | ~19 |
+| Learned how to jump! | 74.00% | ~20 |
+| Learned how to walk! | 74.00% | ~20 |
 | Defeated Captain Tutorial | 63.00% | ~17 |
 | Immersion Breaking | 44.00% | ~12 |
 | Ḧ̴́͊̈́́̃̈́͊̂̏̅̈́̆͊͛͋̃̍̊̓͛̔̆͘͠͝Ë̵̢̢̧̛̛͇̪̟͓̝̼͕̞͔̻͎̠͔̤̥̺̹̱̼̪̺̪̺̰̱́̊͋̈́̔̍͑̄̅́̔͛̓̽̊̒̓́͛̀̀͗̈́́̃̈́̈́̄̔̓͐͆̀̈́̄́̚͘̕͘͘̕͝ͅL̸̀͠Ṕ̵̛̎̄̽̈́́͊̅͛̄ ̶̃M̶̨̧̼̪̞͈̯̬͖͖͎̞͎̻̥̍̌͊̀̓̄̋͋̂͌̏̈́̾͆̌̈́̆̈́̐̿̓͐͝͝͠͠E̵͒̓͊͋̄͘ | 41.00% | ~11 |
@@ -21,8 +21,8 @@
 | Pure hearted | 11.00% | ~3 |
 | Good boy | 11.00% | ~3 |
 | Booty Master | 7.00% | ~2 |
+| HIGH striker | 7.00% | ~2 |
 | HATE | 7.00% | ~2 |
-| HIGH striker | 4.00% | ~1 |
 | It really wasn't worth it | 4.00% | ~1 |
 | DEMON??? | 4.00% | ~1 |
 | Read a walkthrough | 4.00% | ~1 |

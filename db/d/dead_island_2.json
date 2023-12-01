@@ -7131,10 +7131,10 @@
       "Count": 503
     }
   ],
-  "EOS_Progressed": 728612,
-  "EOS_Completed": 2458,
-  "EOS_NewPlayers": 4570,
-  "EOS_NewCompleters": 29,
+  "EOS_Progressed": 728638,
+  "EOS_Completed": 2459,
+  "EOS_NewPlayers": 4560,
+  "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -32946,6 +32946,11 @@
       "Time": "2023-12-01T21:08:47.8032347+00:00",
       "NumProgressed": 728612,
       "NumCompleted": 2458
+    },
+    {
+      "Time": "2023-12-01T22:08:12.566612+00:00",
+      "NumProgressed": 728638,
+      "NumCompleted": 2459
     }
   ],
   "TotalAchievements": 51,
@@ -32973,7 +32978,7 @@
       "Name": "Git Gutte!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14572
+      "UsersEstimate": 14573
     },
     {
       "ID": "ach_anger_management",
@@ -32997,7 +33002,7 @@
       "Name": "LA Influential",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 2914
+      "UsersEstimate": 2915
     },
     {
       "ID": "ach_blueprinted",
@@ -33021,7 +33026,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14572
+      "UsersEstimate": 14573
     },
     {
       "ID": "ach_contender",
@@ -33077,7 +33082,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14572
+      "UsersEstimate": 14573
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -33101,7 +33106,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14572
+      "UsersEstimate": 14573
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -33117,7 +33122,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14572
+      "UsersEstimate": 14573
     },
     {
       "ID": "ach_impressive_aim",
@@ -33181,7 +33186,7 @@
       "Name": "Gore Horse",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2914
+      "UsersEstimate": 2915
     },
     {
       "ID": "ach_metropolitan",
@@ -33237,7 +33242,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14572
+      "UsersEstimate": 14573
     },
     {
       "ID": "ach_survival_expert",
@@ -33293,7 +33298,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14572
+      "UsersEstimate": 14573
     },
     {
       "ID": "ach_well_known_survivor",
@@ -33317,7 +33322,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "ach_dark_magic",
@@ -33341,7 +33346,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -33364,13 +33369,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 728612,
-      "Completed": 2458
+      "Progressed": 728638,
+      "Completed": 2459
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 54154,
+      "Progressed": 54180,
       "Completed": 36618
     }
   ],
@@ -33378,8 +33383,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-12-01T15:59:46.9988066+00:00",
-  "LastChanged_Achievements": "2023-12-01T21:08:47.8032342+00:00",
+  "LastChanged_Achievements": "2023-12-01T22:08:12.5666116+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-12-01T20:59:58.6875219+00:00",
-  "LastUpdate_Achievements": "2023-12-01T21:08:47.8034316+00:00"
+  "LastUpdate_Ratings": "2023-12-01T21:58:56.6447572+00:00",
+  "LastUpdate_Achievements": "2023-12-01T22:08:12.56676+00:00"
 }

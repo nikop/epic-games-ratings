@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 92.00% | ~432 |
-| Training Simulation | 77.00% | ~362 |
-| Kuku Bird Hunter | 63.00% | ~296 |
+| Travel Streamer | 92.00% | ~433 |
+| Training Simulation | 77.00% | ~363 |
+| Kuku Bird Hunter | 63.00% | ~297 |
 | Storm Traveller | 57.00% | ~268 |
 | Wolf King Killer | 51.00% | ~240 |
-| Fashion Connoisseur | 50.00% | ~235 |
-| Arms Mechanic | 46.00% | ~216 |
-| Flower Thief | 41.00% | ~193 |
+| Fashion Connoisseur | 50.00% | ~236 |
+| Arms Mechanic | 46.00% | ~217 |
+| Flower Thief | 42.00% | ~198 |
 | Apostle of Flame | 37.00% | ~174 |
-| Beginner Artificer | 36.00% | ~169 |
-| Beginner Cook | 35.00% | ~164 |
+| Beginner Artificer | 36.00% | ~170 |
+| Beginner Cook | 35.00% | ~165 |
 | Seal Breaker | 31.00% | ~146 |
 | Handyman | 27.00% | ~127 |
-| Giant Lizard Killer | 26.00% | ~122 |
-| Guardian | 24.00% | ~113 |
+| Giant Lizard Killer | 25.00% | ~118 |
+| Guardian | 25.00% | ~118 |
 | Nosebleeder | 24.00% | ~113 |
 | Trader | 20.00% | ~94 |
 | Weapon Boost | 20.00% | ~94 |
 | Flying Kobold Killer | 17.00% | ~80 |
 | Youth Magnet | 16.00% | ~75 |
 | Master Artificer | 16.00% | ~75 |
-| Furious Scorpion Killer | 15.00% | ~70 |
-| Lethal Blade Mantis Killer | 15.00% | ~70 |
-| Squeaky Clean | 15.00% | ~70 |
+| Furious Scorpion Killer | 15.00% | ~71 |
+| Lethal Blade Mantis Killer | 15.00% | ~71 |
+| Squeaky Clean | 15.00% | ~71 |
 | Kind Adventurer | 13.00% | ~61 |
-| Mermaid Killer | 12.00% | ~56 |
-| Cave Master | 12.00% | ~56 |
-| Face Slapper | 12.00% | ~56 |
+| Mermaid Killer | 12.00% | ~57 |
+| Cave Master | 12.00% | ~57 |
+| Face Slapper | 12.00% | ~57 |
 | Master Cook | 7.00% | ~33 |
 | Boss challenge | 7.00% | ~33 |
 | Berserker Slayer | 7.00% | ~33 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 1.00% | ~5 |
 | Warden Challenge | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 470 (Ranked 319)  
+Progressed: 471 (Ranked 319)  
 Completed: 1 (0.21%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 1 (0.21%) (Ranked 254)
 | 2023-11-28 | 411 | 1 |
 | 2023-11-29 | 439 | 1 |
 | 2023-11-30 | 461 | 1 |
-| 2023-12-01 | 470 | 1 |
+| 2023-12-01 | 471 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

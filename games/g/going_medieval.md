@@ -6,27 +6,27 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Having A Field Day | 76.00% | ~5,364 |
-| Get A Room | 75.00% | ~5,294 |
-| Reap What You Sow | 73.00% | ~5,152 |
-| The First Day | 69.00% | ~4,870 |
-| Green Thumb | 67.00% | ~4,729 |
-| Novice Researcher | 67.00% | ~4,729 |
-| Home Cooked Meal | 61.00% | ~4,305 |
-| Onward | 58.00% | ~4,094 |
-| The First Week | 55.00% | ~3,882 |
-| Beam Me Up | 52.00% | ~3,670 |
-| Studious Researcher | 52.00% | ~3,670 |
-| Putting Food on the Table | 47.00% | ~3,317 |
-| Adept Researcher | 45.00% | ~3,176 |
-| Retribution | 42.00% | ~2,964 |
-| ...And Don’t Come Back! | 42.00% | ~2,964 |
-| Feast or Famine | 38.00% | ~2,682 |
+| Having A Field Day | 76.00% | ~5,366 |
+| Get A Room | 75.00% | ~5,295 |
+| Reap What You Sow | 73.00% | ~5,154 |
+| The First Day | 69.00% | ~4,871 |
+| Novice Researcher | 68.00% | ~4,801 |
+| Green Thumb | 67.00% | ~4,730 |
+| Home Cooked Meal | 61.00% | ~4,307 |
+| Onward | 58.00% | ~4,095 |
+| The First Week | 55.00% | ~3,883 |
+| Beam Me Up | 52.00% | ~3,671 |
+| Studious Researcher | 52.00% | ~3,671 |
+| Putting Food on the Table | 47.00% | ~3,318 |
+| Adept Researcher | 45.00% | ~3,177 |
+| Retribution | 42.00% | ~2,965 |
+| ...And Don’t Come Back! | 42.00% | ~2,965 |
+| Feast or Famine | 38.00% | ~2,683 |
 | Heating Up | 32.00% | ~2,259 |
-| Luminary Researcher | 31.00% | ~2,188 |
+| Luminary Researcher | 31.00% | ~2,189 |
 | Fit For A King | 29.00% | ~2,047 |
 | Winter Is Coming | 29.00% | ~2,047 |
-| Winter Is Here | 25.00% | ~1,764 |
+| Winter Is Here | 25.00% | ~1,765 |
 | Disassembled | 22.00% | ~1,553 |
 | A Party Now | 22.00% | ~1,553 |
 | Oh Deer! | 22.00% | ~1,553 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~141 |
 | Wabbit Season | 0.50% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,058 (Ranked 182)  
+Progressed: 7,060 (Ranked 182)  
 Completed: 14 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 14 (0.20%) (Ranked 257)
 | 2023-11-28 | 7,016 | 14 |
 | 2023-11-29 | 7,032 | 14 |
 | 2023-11-30 | 7,043 | 14 |
-| 2023-12-01 | 7,058 | 14 |
+| 2023-12-01 | 7,060 | 14 |
 ## Awards
 Max (Great for Beginners): 126  (Ranked 337)  
 Sum: 1,029 (Ranked 259)  

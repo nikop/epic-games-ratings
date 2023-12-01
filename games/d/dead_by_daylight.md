@@ -1,36 +1,37 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.51 (Ranked 572)  
+Rating: 4.51 (Ranked 573)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.60% | ~6,354 |
-| Skillful | 0.60% | ~6,354 |
-| Zealous | 0.50% | ~5,295 |
-| Not half bad | 0.50% | ~5,295 |
-| Apt Survivor | 0.40% | ~4,236 |
-| Survival Treasures | 0.40% | ~4,236 |
-| I | 0.40% | ~4,236 |
-| Make Some Noise | 0.40% | ~4,236 |
+| It wakes | 0.60% | ~6,355 |
+| Skillful | 0.60% | ~6,355 |
+| Zealous | 0.50% | ~5,296 |
+| Not half bad | 0.50% | ~5,296 |
+| Apt Survivor | 0.40% | ~4,237 |
+| Survival Treasures | 0.40% | ~4,237 |
+| I | 0.40% | ~4,237 |
+| Make Some Noise | 0.40% | ~4,237 |
 | The Grand Sacrifice | 0.30% | ~3,177 |
+| Backdoor Escape | 0.30% | ~3,177 |
 | No one left behind | 0.30% | ~3,177 |
 | Medic | 0.30% | ~3,177 |
 | Handyman | 0.30% | ~3,177 |
+| Perfect Escape | 0.30% | ~3,177 |
 | Bloody Millionaire | 0.30% | ~3,177 |
 | II | 0.30% | ~3,177 |
 | Sorted | 0.30% | ~3,177 |
 | Healthy Obsession | 0.30% | ~3,177 |
 | Resurgence | 0.30% | ~3,177 |
+| Close Shave | 0.30% | ~3,177 |
 | Preemptive Strike | 0.30% | ~3,177 |
 | Humanitarian | 0.30% | ~3,177 |
 | Blood on your hands | 0.20% | ~2,118 |
 | Escape Artist | 0.20% | ~2,118 |
 | Agonizing Escape | 0.20% | ~2,118 |
-| Backdoor Escape | 0.20% | ~2,118 |
 | I've got your back | 0.20% | ~2,118 |
-| Perfect Escape | 0.20% | ~2,118 |
 | Perfect Killing | 0.20% | ~2,118 |
 | Gifts for the Fog | 0.20% | ~2,118 |
 | Apt Killer | 0.20% | ~2,118 |
@@ -43,8 +44,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | First to the Punch | 0.20% | ~2,118 |
 | Operation: Survival | 0.20% | ~2,118 |
 | Every Last Drop | 0.20% | ~2,118 |
-| Close Shave | 0.20% | ~2,118 |
 | With Scars to Show | 0.20% | ~2,118 |
+| Flight to Freedom | 0.20% | ~2,118 |
 | Lifting The Fog | 0.20% | ~2,118 |
 | Second Act | 0.20% | ~2,118 |
 | A bite for the Entity | 0.10% | ~1,059 |
@@ -191,7 +192,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Caws of Death | 0.10% | ~1,059 |
 | Prowler | 0.10% | ~1,059 |
 | Adept Artist | 0.10% | ~1,059 |
-| Flight to Freedom | 0.10% | ~1,059 |
 | Adept Jonah | 0.10% | ~1,059 |
 | Viral Video | 0.10% | ~1,059 |
 | Ghost in the Machine | 0.10% | ~1,059 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,059 |
 | Adept Good Guy | 0.10% | ~1,059 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058,954 (Ranked 14)  
+Progressed: 1,059,135 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -464,18 +464,18 @@ Completed: 61 (0.01%) (Ranked 343)
 | 2023-11-28 | 1,050,827 | 61 |
 | 2023-11-29 | 1,053,910 | 61 |
 | 2023-11-30 | 1,056,530 | 61 |
-| 2023-12-01 | 1,058,954 | 61 |
+| 2023-12-01 | 1,059,135 | 61 |
 ## Awards
-Max (Diverse Characters): 36,961  (Ranked 15)  
-Sum: 281,293 (Ranked 12)  
+Max (Diverse Characters): 37,031  (Ranked 15)  
+Sum: 281,449 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 36,961 |
+| This game has Diverse Characters | 37,031 |
 | This game is Highly Recommended | 32,196 |
-| This game has Amazing Characters | 31,677 |
+| This game has Amazing Characters | 31,732 |
 | This game has Competitive Players | 31,562 |
-| This game is Extremely Fun | 31,220 |
+| This game is Extremely Fun | 31,251 |
 | This game has Challenging Combat | 31,097 |
 | This game has Quickly Understood Controls | 30,429 |
 | This game has Amazing Storytelling | 28,721 |
@@ -796,4 +796,4 @@ Diff (max vs sum): 3
 | 2023-11-28 | 4.51 | - | 36,768 | 280,046 |
 | 2023-11-29 | 4.51 | - | 36,896 | 280,728 |
 | 2023-11-30 | 4.51 | - | 36,961 | 281,126 |
-| 2023-12-01 | 4.51 | - | 36,961 | 281,293 |
+| 2023-12-01 | 4.51 | - | 37,031 | 281,449 |

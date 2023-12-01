@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1472,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -4544,9 +4544,9 @@
       "ID": "achievement_22",
       "SetID": "b9pe172",
       "Name": "Medal of Exploration II",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 780
+      "UsersEstimate": 795
     },
     {
       "ID": "achievement_23",
@@ -5236,8 +5236,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-01T21:09:22.5227895+00:00",
+  "LastChanged_Achievements": "2023-12-01T22:08:36.9781644+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:10.3433357+00:00",
-  "LastUpdate_Ratings": "2023-12-01T21:03:19.4908712+00:00",
-  "LastUpdate_Achievements": "2023-12-01T21:09:22.5229439+00:00"
+  "LastUpdate_Ratings": "2023-12-01T22:02:51.132548+00:00",
+  "LastUpdate_Achievements": "2023-12-01T22:08:36.9783165+00:00"
 }

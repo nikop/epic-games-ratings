@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -4929,9 +4929,9 @@
       "Count": 532
     }
   ],
-  "EOS_Progressed": 12083,
+  "EOS_Progressed": 12084,
   "EOS_Completed": 288,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.38,
   "EosHistory": [
@@ -20189,6 +20189,11 @@
       "Time": "2023-12-01T21:08:38.3173965+00:00",
       "NumProgressed": 12083,
       "NumCompleted": 288
+    },
+    {
+      "Time": "2023-12-01T22:08:05.7572125+00:00",
+      "NumProgressed": 12084,
+      "NumCompleted": 288
     }
   ],
   "TotalAchievements": 15,
@@ -20208,7 +20213,7 @@
       "Name": "Banker",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 4712
+      "UsersEstimate": 4713
     },
     {
       "ID": "Bestest_Friend",
@@ -20216,7 +20221,7 @@
       "Name": "Bestest Friend",
       "Percentage": 46,
       "XP": 75,
-      "UsersEstimate": 5558
+      "UsersEstimate": 5559
     },
     {
       "ID": "Chef_Cook",
@@ -20232,7 +20237,7 @@
       "Name": "Chit Chatter",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "Constructor",
@@ -20240,7 +20245,7 @@
       "Name": "Constructor",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 6162
+      "UsersEstimate": 6163
     },
     {
       "ID": "Duty_Bound",
@@ -20272,7 +20277,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 69,
       "XP": 75,
-      "UsersEstimate": 8337
+      "UsersEstimate": 8338
     },
     {
       "ID": "Miner",
@@ -20288,7 +20293,7 @@
       "Name": "Photographer",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 8216
+      "UsersEstimate": 8217
     },
     {
       "ID": "Renovator",
@@ -20296,7 +20301,7 @@
       "Name": "Renovator",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 6162
+      "UsersEstimate": 6163
     },
     {
       "ID": "Thorn_Cleaner",
@@ -20319,7 +20324,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 12083,
+      "Progressed": 12084,
       "Completed": 288
     }
   ],
@@ -20327,8 +20332,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-12-01T19:58:49.3924466+00:00",
-  "LastChanged_Achievements": "2023-12-01T21:08:38.317396+00:00",
+  "LastChanged_Achievements": "2023-12-01T22:08:05.7572122+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:52.4456566+00:00",
-  "LastUpdate_Ratings": "2023-12-01T20:58:28.0161979+00:00",
-  "LastUpdate_Achievements": "2023-12-01T21:08:38.3174831+00:00"
+  "LastUpdate_Ratings": "2023-12-01T21:57:56.6354013+00:00",
+  "LastUpdate_Achievements": "2023-12-01T22:08:05.7573023+00:00"
 }

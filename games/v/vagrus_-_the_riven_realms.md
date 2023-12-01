@@ -56,6 +56,7 @@
 | Moving At Odd Angles | 1.00% | ~2 |
 | The Darkness Within | 1.00% | ~2 |
 | Ruiner | 1.00% | ~2 |
+| What Lies Below | 1.00% | ~2 |
 | Wyrmslayer | 1.00% | ~2 |
 | Merchant Lord | 1.00% | ~2 |
 | Glorious leader | 1.00% | ~2 |
@@ -72,7 +73,6 @@
 | Despoiler | 0.50% | ~1 |
 | Celebrity | 0.50% | ~1 |
 | Arcanite | 0.50% | ~1 |
-| What Lies Below | 0.50% | ~1 |
 | The Last Voyage | 0.50% | ~1 |
 | Tax Evasion | 0.50% | ~1 |
 | Theory to Practice | 0.50% | ~1 |

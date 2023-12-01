@@ -4,7 +4,7 @@
   "ProductSlug": "arons-adventure-1e76cd",
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 126,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -635,9 +635,9 @@
       "ID": "MERCENARY",
       "SetID": "40o4f14",
       "Name": "Mercenary",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "MINES",
@@ -754,8 +754,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-12-01T21:08:00.810595+00:00",
+  "LastChanged_Achievements": "2023-12-01T22:06:09.4982183+00:00",
   "LastUpdate_AppInfo": "2023-11-30T01:44:08.4871505+00:00",
-  "LastUpdate_Ratings": "2023-12-01T21:00:52.9566221+00:00",
-  "LastUpdate_Achievements": "2023-12-01T21:08:00.810617+00:00"
+  "LastUpdate_Ratings": "2023-12-01T21:59:31.7080332+00:00",
+  "LastUpdate_Achievements": "2023-12-01T22:06:09.4982381+00:00"
 }

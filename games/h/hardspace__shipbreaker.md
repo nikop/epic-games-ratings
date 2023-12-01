@@ -1,20 +1,20 @@
 # Hardspace: Shipbreaker
 [Store](https://store.epicgames.com/en-US/p/hardspace-shipbreaker)  
 [View Rawdata](../../db/h/hardspace__shipbreaker.json)  
-Rating: 4.67 (Ranked 278)  
+Rating: 4.67 (Ranked 277)  
 Number of Ratings: 36  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Breathe In… Breathe Out… | 73.00% | ~707 |
 | It’s Heating up! | 70.00% | ~678 |
-| Let’s patch things up | 66.00% | ~639 |
+| Let’s patch things up | 66.00% | ~640 |
 | I can fix it! | 63.00% | ~610 |
-| Post No Bills | 55.00% | ~532 |
-| Truly Shocking! | 49.00% | ~474 |
-| Critical Thinker | 36.00% | ~348 |
-| Always Finding Your Mark | 30.00% | ~290 |
-| The Weight of the World | 30.00% | ~290 |
+| Post No Bills | 55.00% | ~533 |
+| Truly Shocking! | 49.00% | ~475 |
+| Critical Thinker | 36.00% | ~349 |
+| Always Finding Your Mark | 30.00% | ~291 |
+| The Weight of the World | 30.00% | ~291 |
 | Act I Complete | 29.00% | ~281 |
 | A drop in the Ocean | 29.00% | ~281 |
 | No Niños | 26.00% | ~252 |
@@ -23,7 +23,7 @@ Number of Ratings: 36  (23.09.2022)
 | A successful procedure! | 19.00% | ~184 |
 | Bing Bang BOOM | 19.00% | ~184 |
 | Breaking the Ice | 18.00% | ~174 |
-| Solidarity Forever | 13.00% | ~126 |
+| Solidarity Forever | 12.00% | ~116 |
 | A Tucked Tale | 10.00% | ~97 |
 | The best thing money can buy | 10.00% | ~97 |
 | Act III Complete | 7.00% | ~68 |
@@ -34,7 +34,7 @@ Number of Ratings: 36  (23.09.2022)
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 968 (Ranked 267)  
+Progressed: 969 (Ranked 267)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-24 | 965 | 0 |
 | 2023-11-25 | 966 | 0 |
 | 2023-11-27 | 967 | 0 |
-| 2023-12-01 | 968 | 0 |
+| 2023-12-01 | 969 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

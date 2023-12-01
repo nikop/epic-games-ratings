@@ -6,24 +6,24 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Shall Not Pass | 51.00% | ~4,670 |
-| Tutti Eroi! | 50.00% | ~4,578 |
-| Peak Performance | 47.00% | ~4,303 |
-| Avanti Savoia! | 44.00% | ~4,029 |
+| You Shall Not Pass | 51.00% | ~4,671 |
+| Tutti Eroi! | 50.00% | ~4,579 |
+| Peak Performance | 47.00% | ~4,304 |
+| Avanti Savoia! | 44.00% | ~4,030 |
 | Mamma Mia! | 35.00% | ~3,205 |
-| Conrad von Hotzensocks | 32.00% | ~2,930 |
-| Gabriele D'Annunzio | 32.00% | ~2,930 |
-| Silver Lining | 27.00% | ~2,472 |
+| Conrad von Hotzensocks | 32.00% | ~2,931 |
+| Gabriele D'Annunzio | 32.00% | ~2,931 |
+| Silver Lining | 27.00% | ~2,473 |
 | Aurelio Baruzzi | 21.00% | ~1,923 |
-| Decimation | 20.00% | ~1,831 |
+| Decimation | 20.00% | ~1,832 |
 | Donatello | 19.00% | ~1,740 |
 | Insubordination | 19.00% | ~1,740 |
 | The Italian Job | 19.00% | ~1,740 |
 | Veni Vidi Vici | 19.00% | ~1,740 |
 | Ragazzi del '99 | 17.00% | ~1,557 |
-| Luigi Cadorna | 15.00% | ~1,373 |
+| Luigi Cadorna | 15.00% | ~1,374 |
 | The Lion of the Isonzo | 14.00% | ~1,282 |
-| Uomo Universale | 13.00% | ~1,190 |
+| Uomo Universale | 13.00% | ~1,191 |
 | Dirty Dozen | 12.00% | ~1,099 |
 | Shaken, Not Stirred | 12.00% | ~1,099 |
 | Die Bosniaken Kommen! | 11.00% | ~1,007 |
@@ -33,8 +33,8 @@ Number of Ratings: 98  (23.09.2022)
 | Dante's Inferno | 9.00% | ~824 |
 | I Have the High Ground | 9.00% | ~824 |
 | Millenial | 9.00% | ~824 |
-| The Show Must Go On | 8.00% | ~732 |
-| Tosca | 8.00% | ~732 |
+| The Show Must Go On | 8.00% | ~733 |
+| Tosca | 8.00% | ~733 |
 | 12th Bottle of the Isonzo | 6.00% | ~549 |
 | The Enlightment | 6.00% | ~549 |
 | Cercatore d'Oro | 5.00% | ~458 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~37 |
 | Can I Go Home Now? | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,156 (Ranked 169)  
+Progressed: 9,158 (Ranked 169)  
 Completed: 10 (0.11%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,11 +271,11 @@ Completed: 10 (0.11%) (Ranked 282)
 | 2023-11-28 | 9,106 | 10 |
 | 2023-11-29 | 9,122 | 10 |
 | 2023-11-30 | 9,135 | 10 |
-| 2023-12-01 | 9,156 | 10 |
+| 2023-12-01 | 9,158 | 10 |
 ## Awards
-Max (Diverse Characters): 38  (Ranked 463)  
+Max (Diverse Characters): 38  (Ranked 464)  
 Sum: 288 (Ranked 369)  
-Diff (max vs sum): 94  
+Diff (max vs sum): 95  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 38 |

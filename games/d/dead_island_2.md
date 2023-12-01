@@ -6,15 +6,15 @@ Rating: 4.54 (Ranked 529)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Whatever It Takes | 3.00% | ~1,625 |
-| Git Gutte! | 2.00% | ~14,572 |
-| Break A Leg | 2.00% | ~14,572 |
-| Coup de Grâce | 2.00% | ~14,572 |
-| Hazardous Materials | 2.00% | ~14,572 |
-| Hotel California | 2.00% | ~14,572 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,572 |
-| Welcome To Hell-A | 2.00% | ~14,572 |
-| One of Us | 2.00% | ~1,083 |
-| Pork Chopped | 2.00% | ~1,083 |
+| Git Gutte! | 2.00% | ~14,573 |
+| Break A Leg | 2.00% | ~14,573 |
+| Coup de Grâce | 2.00% | ~14,573 |
+| Hazardous Materials | 2.00% | ~14,573 |
+| Hotel California | 2.00% | ~14,573 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,573 |
+| Welcome To Hell-A | 2.00% | ~14,573 |
+| One of Us | 2.00% | ~1,084 |
+| Pork Chopped | 2.00% | ~1,084 |
 | Dr. Reed, I Presume? | 1.00% | ~7,286 |
 | Anger Management | 1.00% | ~7,286 |
 | Perks of the Job | 1.00% | ~7,286 |
@@ -46,8 +46,8 @@ Rating: 4.54 (Ranked 529)
 | Smorgasbord | 0.50% | ~3,643 |
 | Internet Famous | 0.50% | ~3,643 |
 | Variety is the Spice of Death | 0.50% | ~3,643 |
-| LA Influential | 0.40% | ~2,914 |
-| Gore Horse | 0.40% | ~2,914 |
+| LA Influential | 0.40% | ~2,915 |
+| Gore Horse | 0.40% | ~2,915 |
 | Top That, Tisha! | 0.40% | ~217 |
 | Sole Survivor | 0.30% | ~2,186 |
 | Sharpest Tool in the Box | 0.30% | ~2,186 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 529)
 | Bucket List | 0.10% | ~729 |
 | Wilhelm | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,612 (Ranked 21)  
-Completed: 2,458 (0.34%) (Ranked 231)  
+Progressed: 728,638 (Ranked 21)  
+Completed: 2,459 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -282,7 +282,7 @@ Completed: 2,458 (0.34%) (Ranked 231)
 | 2023-11-28 | 727,374 | 2,447 |
 | 2023-11-29 | 727,809 | 2,450 |
 | 2023-11-30 | 728,231 | 2,456 |
-| 2023-12-01 | 728,612 | 2,458 |
+| 2023-12-01 | 728,638 | 2,459 |
 ## Awards
 Max (Great Boss Battles): 7,845  (Ranked 49)  
 Sum: 12,026 (Ranked 84)  

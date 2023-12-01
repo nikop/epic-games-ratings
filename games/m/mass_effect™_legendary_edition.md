@@ -12,8 +12,8 @@
 | Quarian Ally | 64.00% | ~942 |
 | Medal of Heroism | 60.00% | ~883 |
 | Honorarium of Corporate Service | 59.00% | ~868 |
+| Medal of Exploration II | 54.00% | ~795 |
 | Council Legion of Merit | 54.00% | ~795 |
-| Medal of Exploration II | 53.00% | ~780 |
 | Medal of Honor | 52.00% | ~765 |
 | Meritorious Service Medal | 52.00% | ~765 |
 | Turian Ally | 52.00% | ~765 |

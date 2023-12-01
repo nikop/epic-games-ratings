@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3517,10 +3517,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2867,
       "NumberOfAwardsMax": 319
+    },
+    {
+      "Time": "2023-12-01T21:59:34.5867353+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2869,
+      "NumberOfAwardsMax": 319
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2867,
+  "NumberOfAwards": 2869,
   "NumberOfAwardsMax": 319,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3570,7 +3576,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 282
+      "Count": 284
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3597,9 +3603,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31806,
+  "EOS_Progressed": 31810,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -21067,6 +21073,11 @@
       "Time": "2023-12-01T21:06:18.3560682+00:00",
       "NumProgressed": 31806,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-01T22:04:57.2674084+00:00",
+      "NumProgressed": 31810,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -21078,7 +21089,7 @@
       "Name": "Advancement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2226
+      "UsersEstimate": 2227
     },
     {
       "ID": "Animated",
@@ -21190,7 +21201,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 2226
+      "UsersEstimate": 2227
     },
     {
       "ID": "Escape_Artist",
@@ -21485,16 +21496,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31806,
+      "Progressed": 31810,
       "Completed": 69
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-12-01T18:59:48.507227+00:00",
-  "LastChanged_Achievements": "2023-12-01T21:06:18.3560678+00:00",
+  "LastChanged": "2023-12-01T21:59:34.5867351+00:00",
+  "LastChanged_Achievements": "2023-12-01T22:04:57.267408+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:05.0819015+00:00",
-  "LastUpdate_Ratings": "2023-12-01T21:00:57.1969957+00:00",
-  "LastUpdate_Achievements": "2023-12-01T21:06:18.3562457+00:00"
+  "LastUpdate_Ratings": "2023-12-01T21:59:34.5867356+00:00",
+  "LastUpdate_Achievements": "2023-12-01T22:04:57.2675102+00:00"
 }

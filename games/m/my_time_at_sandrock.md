@@ -1,73 +1,73 @@
 # My Time at Sandrock
 [Store](https://store.epicgames.com/en-US/p/my-time-at-sandrock)  
 [View Rawdata](../../db/m/my_time_at_sandrock.json)  
-Rating: 4.68 (Ranked 255)  
+Rating: 4.68 (Ranked 254)  
 Number of Ratings: 892  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 233.00% | ~1,130 |
-| Iron Chef | 166.00% | ~805 |
-| Greeno-B-Gone | 124.00% | ~601 |
-| Super Spelunker | 122.00% | ~592 |
-| Your Especially Earned Trajectory | 101.00% | ~490 |
-| The Little Wood that Could | 96.00% | ~466 |
-| One of the Cool Kids | 79.00% | ~383 |
-| On that Grindset | 78.00% | ~378 |
-| No Mountain Wide Enough | 78.00% | ~378 |
-| Yakmel Whisperer | 75.00% | ~364 |
-| Diamonds are Forever | 72.00% | ~349 |
-| Can We Keep It? | 71.00% | ~344 |
-| Pack Mule | 70.00% | ~340 |
-| I Do! | 68.00% | ~330 |
-| First Love | 65.00% | ~315 |
-| Unboxing | 65.00% | ~315 |
-| Chatterbox | 64.00% | ~310 |
-| Financially Secure | 63.00% | ~306 |
-| Big Game Hunter | 60.00% | ~291 |
-| Got Served | 60.00% | ~291 |
-| Elementary, My Dear | 57.00% | ~276 |
-| Panda-kin | 56.00% | ~272 |
-| Builder of the Month | 56.00% | ~272 |
-| Mole Masher | 56.00% | ~272 |
-| Better Late than Never | 55.00% | ~267 |
-| What Plants Crave | 55.00% | ~267 |
-| Officially Official | 55.00% | ~267 |
-| Happier-est Place on Earth | 55.00% | ~267 |
-| You Don't Win Friends With Salad | 55.00% | ~267 |
-| Anti-Santa | 54.00% | ~262 |
-| Waste Not Want Not | 54.00% | ~262 |
-| Knowledge is Power | 53.00% | ~257 |
-| Martle's Dream | 53.00% | ~257 |
-| Lifeline Pipeline | 53.00% | ~257 |
-| Commissions, commissions...! | 52.00% | ~252 |
-| Call Me Fishmael | 52.00% | ~252 |
-| Finishing Touches | 50.00% | ~242 |
-| Bridging the Gap | 48.00% | ~233 |
-| Got the Flow Back | 45.00% | ~218 |
-| Sepia Toned Memories | 42.00% | ~204 |
-| Who Ya Gonna Call...? | 42.00% | ~204 |
-| My Time Mansion | 41.00% | ~199 |
-| Time Flies | 40.00% | ~194 |
-| Jewel of the Eufaula | 39.00% | ~189 |
-| Kind of a Big Deal | 36.00% | ~175 |
-| He Can Spin A Yarn... | 35.00% | ~170 |
-| Just What I Always Wanted! | 34.00% | ~165 |
-| Santa In Training | 33.00% | ~160 |
-| Sandrunning Speedster | 32.00% | ~155 |
-| Do Your Part | 32.00% | ~155 |
-| Newton | 32.00% | ~155 |
-| It Belongs in a Museum! | 31.00% | ~150 |
-| Pro Gamer | 29.00% | ~141 |
+| Adept Assembler | 232.00% | ~1,132 |
+| Iron Chef | 166.00% | ~810 |
+| Greeno-B-Gone | 124.00% | ~605 |
+| Super Spelunker | 122.00% | ~595 |
+| Your Especially Earned Trajectory | 101.00% | ~493 |
+| The Little Wood that Could | 96.00% | ~468 |
+| On that Grindset | 78.00% | ~381 |
+| One of the Cool Kids | 78.00% | ~381 |
+| No Mountain Wide Enough | 77.00% | ~376 |
+| Yakmel Whisperer | 75.00% | ~366 |
+| Diamonds are Forever | 72.00% | ~351 |
+| Can We Keep It? | 71.00% | ~346 |
+| Pack Mule | 70.00% | ~342 |
+| I Do! | 67.00% | ~327 |
+| First Love | 64.00% | ~312 |
+| Unboxing | 64.00% | ~312 |
+| Chatterbox | 63.00% | ~307 |
+| Financially Secure | 62.00% | ~303 |
+| Big Game Hunter | 60.00% | ~293 |
+| Got Served | 60.00% | ~293 |
+| Panda-kin | 56.00% | ~273 |
+| Builder of the Month | 56.00% | ~273 |
+| Elementary, My Dear | 56.00% | ~273 |
+| Mole Masher | 56.00% | ~273 |
+| Better Late than Never | 55.00% | ~268 |
+| What Plants Crave | 55.00% | ~268 |
+| Officially Official | 55.00% | ~268 |
+| Happier-est Place on Earth | 55.00% | ~268 |
+| You Don't Win Friends With Salad | 55.00% | ~268 |
+| Waste Not Want Not | 54.00% | ~264 |
+| Knowledge is Power | 53.00% | ~259 |
+| Martle's Dream | 53.00% | ~259 |
+| Anti-Santa | 53.00% | ~259 |
+| Commissions, commissions...! | 52.00% | ~254 |
+| Lifeline Pipeline | 52.00% | ~254 |
+| Call Me Fishmael | 52.00% | ~254 |
+| Finishing Touches | 49.00% | ~239 |
+| Bridging the Gap | 48.00% | ~234 |
+| Got the Flow Back | 45.00% | ~220 |
+| Sepia Toned Memories | 42.00% | ~205 |
+| Who Ya Gonna Call...? | 42.00% | ~205 |
+| Time Flies | 40.00% | ~195 |
+| My Time Mansion | 40.00% | ~195 |
+| Jewel of the Eufaula | 39.00% | ~190 |
+| Kind of a Big Deal | 36.00% | ~176 |
+| He Can Spin A Yarn... | 35.00% | ~171 |
+| Just What I Always Wanted! | 34.00% | ~166 |
+| Santa In Training | 33.00% | ~161 |
+| Sandrunning Speedster | 32.00% | ~156 |
+| Newton | 32.00% | ~156 |
+| Do Your Part | 31.00% | ~151 |
+| It Belongs in a Museum! | 31.00% | ~151 |
+| Pro Gamer | 30.00% | ~146 |
 | Cardistry | 21.00% | ~102 |
 | Got the Receipt? | 15.00% | ~73 |
 | It's High Noon... | 14.00% | ~68 |
 | Strong Arms | 14.00% | ~68 |
-| Winner and Still Champeen | 12.00% | ~58 |
+| Winner and Still Champeen | 13.00% | ~63 |
 | Jack of All Trades | 8.00% | ~39 |
 | Sandrock's Hottest Club | 5.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 485 (Ranked 313)  
+Progressed: 488 (Ranked 313)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,14 +104,14 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-12-01 | 497 | 0 |
 ## Awards
 Max (Character Customization): 600  (Ranked 197)  
-Sum: 1,411 (Ranked 239)  
+Sum: 1,412 (Ranked 239)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 600 |
 | This game is Great for Beginners | 113 |
 | This game is Highly Recommended | 91 |
-| This game is Extremely Fun | 88 |
+| This game is Extremely Fun | 89 |
 | This game has Quickly Understood Controls | 85 |
 | This game has Diverse Characters | 82 |
 | This game is Relaxing | 77 |
@@ -300,3 +300,4 @@ Diff (max vs sum): -42
 | 2023-11-27 | 4.68 | - | 599 | 1,405 |
 | 2023-11-29 | 4.68 | - | 599 | 1,406 |
 | 2023-11-30 | 4.68 | - | 600 | 1,411 |
+| 2023-12-01 | 4.68 | - | 600 | 1,412 |

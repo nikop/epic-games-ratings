@@ -169,9 +169,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 812,
+  "EOS_Progressed": 813,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1844,6 +1844,11 @@
       "Time": "2023-12-01T21:04:26.87467+00:00",
       "NumProgressed": 812,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-01T22:03:38.8804704+00:00",
+      "NumProgressed": 813,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1960,7 +1965,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "EcstaticTruth",
@@ -1982,9 +1987,9 @@
       "ID": "FloodedValley",
       "SetID": "1n308hc",
       "Name": "Flooded Valley",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 24
     },
     {
       "ID": "GnothiSeauton",
@@ -2056,7 +2061,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Mnemosyne",
@@ -2142,9 +2147,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 65
     },
     {
       "ID": "RenaissanceRobot",
@@ -2168,7 +2173,7 @@
       "Name": "Signatory",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "SingleRod",
@@ -2216,7 +2221,7 @@
       "Name": "The All-Gifted",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "TheEdgeOfForever",
@@ -2312,7 +2317,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "YourBiggestFan",
@@ -2327,7 +2332,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 812,
+      "Progressed": 813,
       "Completed": 1
     }
   ],
@@ -2335,8 +2340,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-30T22:00:34.4965769+00:00",
-  "LastChanged_Achievements": "2023-12-01T21:04:26.8746697+00:00",
+  "LastChanged_Achievements": "2023-12-01T22:03:38.8804701+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-01T21:01:10.7782128+00:00",
-  "LastUpdate_Achievements": "2023-12-01T21:04:26.8747123+00:00"
+  "LastUpdate_Ratings": "2023-12-01T21:59:43.4189284+00:00",
+  "LastUpdate_Achievements": "2023-12-01T22:03:38.880512+00:00"
 }
