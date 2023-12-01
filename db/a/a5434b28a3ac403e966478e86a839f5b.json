@@ -3,9 +3,9 @@
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 302,
-  "Ranking_EOS_Completed": 156,
+  "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -21,10 +21,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 576,
-  "EOS_Completed": 7,
+  "EOS_Completed": 8,
   "EOS_NewPlayers": 15,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.22,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 1.39,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -1880,6 +1880,11 @@
       "Time": "2023-12-01T19:03:52.0467969+00:00",
       "NumProgressed": 576,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-01T23:04:26.099501+00:00",
+      "NumProgressed": 576,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1890,9 +1895,9 @@
       "ID": "ACH_end",
       "SetID": "51of0eo",
       "Name": "Assassinate the Makron",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 120,
-      "UsersEstimate": 98
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_eou1",
@@ -1970,9 +1975,9 @@
       "ID": "ACH_n64",
       "SetID": "51of0eo",
       "Name": "Shut Down the Core",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 120,
-      "UsersEstimate": 40
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_rogue",
@@ -1996,13 +2001,13 @@
       "ID": "51of0eo",
       "IsBase": true,
       "Progressed": 576,
-      "Completed": 7
+      "Completed": 8
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-01T22:03:35.4324785+00:00",
+  "LastChanged_Achievements": "2023-12-01T23:04:26.0995004+00:00",
   "LastUpdate_AppInfo": "2023-12-01T02:57:04.7742385+00:00",
-  "LastUpdate_Ratings": "2023-12-01T22:00:01.727434+00:00",
-  "LastUpdate_Achievements": "2023-12-01T22:03:35.4324973+00:00"
+  "LastUpdate_Ratings": "2023-12-01T23:01:41.7238018+00:00",
+  "LastUpdate_Achievements": "2023-12-01T23:04:26.099518+00:00"
 }

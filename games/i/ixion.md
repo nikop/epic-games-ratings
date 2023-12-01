@@ -5,7 +5,7 @@ Rating: 4.58 (Ranked 448)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 29.00% | ~982 |
+| Wakey Wakey | 30.00% | ~1,016 |
 | Sputnik 2049 | 26.00% | ~880 |
 | Infinite Growth... | 25.00% | ~846 |
 | Without Breaking Some Eggs... | 24.00% | ~813 |
@@ -64,7 +64,7 @@ Rating: 4.58 (Ranked 448)
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,386 (Ranked 207)  
-Completed: 0 (0.00%) (Ranked 363)  
+Completed: 0 (0.00%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

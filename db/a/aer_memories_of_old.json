@@ -6,7 +6,7 @@
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 128,
-  "Ranking_EOS_Completed": 129,
+  "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25290,
+  "EOS_Progressed": 25291,
   "EOS_Completed": 480,
-  "EOS_NewPlayers": 484,
+  "EOS_NewPlayers": 480,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.9,
   "EosHistory": [
@@ -24624,6 +24624,11 @@
       "Time": "2023-12-01T21:08:25.7591345+00:00",
       "NumProgressed": 25290,
       "NumCompleted": 480
+    },
+    {
+      "Time": "2023-12-01T23:08:33.110035+00:00",
+      "NumProgressed": 25291,
+      "NumCompleted": 480
     }
   ],
   "TotalAchievements": 20,
@@ -24643,7 +24648,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "EAST_FINISHED",
@@ -24755,7 +24760,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 19473
+      "UsersEstimate": 19474
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -24763,7 +24768,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6828
+      "UsersEstimate": 6829
     },
     {
       "ID": "NORTH_FINISHED",
@@ -24794,15 +24799,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 25290,
+      "Progressed": 25291,
       "Completed": 480
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-01T22:07:56.9106101+00:00",
+  "LastChanged_Achievements": "2023-12-01T23:08:33.1100346+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.8906099+00:00",
-  "LastUpdate_Ratings": "2023-12-01T21:58:07.2230681+00:00",
-  "LastUpdate_Achievements": "2023-12-01T22:07:56.9107357+00:00"
+  "LastUpdate_Ratings": "2023-12-01T22:59:01.2155806+00:00",
+  "LastUpdate_Achievements": "2023-12-01T23:08:33.1101612+00:00"
 }

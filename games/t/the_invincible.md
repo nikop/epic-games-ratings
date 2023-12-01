@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 56.00% | ~268 |
+| The Camp | 56.00% | ~269 |
 | The Teleprobe | 44.00% | ~211 |
-| The City | 39.00% | ~187 |
+| The City | 40.00% | ~192 |
 | The field base | 34.00% | ~163 |
 | Survivors | 29.00% | ~139 |
-| The Condor | 27.00% | ~129 |
+| The Condor | 26.00% | ~125 |
 | The End | 26.00% | ~125 |
 | Krauta is alive | 20.00% | ~96 |
 | The Necroevolution | 20.00% | ~96 |
@@ -19,14 +19,14 @@
 | On her own | 15.00% | ~72 |
 | Beyond divisions | 14.00% | ~67 |
 | Fierce fight | 13.00% | ~62 |
-| Evacuation | 12.00% | ~57 |
-| Flying Objects Operator | 12.00% | ~57 |
+| Evacuation | 12.00% | ~58 |
+| Flying Objects Operator | 12.00% | ~58 |
 | I remember everything! | 10.00% | ~48 |
 | Violent solution | 8.00% | ~38 |
 | Another giant | 8.00% | ~38 |
 | Innate curiosity | 8.00% | ~38 |
 | The Invincible | 6.00% | ~29 |
-| I leave no man behind | 5.00% | ~24 |
+| I leave no man behind | 6.00% | ~29 |
 | Strong objection | 5.00% | ~24 |
 | Got lost again | 4.00% | ~19 |
 | Ubiquitous holes | 3.00% | ~14 |
@@ -34,8 +34,8 @@
 | Convoy list | 1.00% | ~5 |
 | No more mistakes | 0.60% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479 (Ranked 317)  
-Completed: 0 (0.00%) (Ranked 363)  
+Progressed: 480 (Ranked 317)  
+Completed: 0 (0.00%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -60,4 +60,4 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-28 | 442 | 1 |
 | 2023-11-29 | 455 | 1 |
 | 2023-11-30 | 468 | 0 |
-| 2023-12-01 | 479 | 0 |
+| 2023-12-01 | 480 | 0 |

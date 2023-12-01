@@ -3,12 +3,12 @@
   "Name": "Palia",
   "ProductSlug": "palia-0d428e",
   "Ranking_Rating": 613,
-  "Ranking_Popularity": 183,
+  "Ranking_Popularity": 178,
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 770,
-  "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 499,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_Completed": 364,
+  "Ranking_EOS_NewPlayers": 498,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-10-24T17:00:00+00:00",
     "PcReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -1289,18 +1289,24 @@
       "Rating": 4.49,
       "NumberOfAwards": 1784,
       "NumberOfAwardsMax": 720
+    },
+    {
+      "Time": "2023-12-01T22:58:03.9727966+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 1815,
+      "NumberOfAwardsMax": 742
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1784,
-  "NumberOfAwardsMax": 720,
+  "NumberOfAwards": 1815,
+  "NumberOfAwardsMax": 742,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 720
+      "Count": 742
     },
     {
       "Text": "This game is Relaxing",
@@ -1360,7 +1366,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 92
+      "Count": 101
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1381,8 +1387,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2023-12-01T19:58:05.3892269+00:00",
+  "LastChanged": "2023-12-01T22:58:03.9727964+00:00",
   "LastUpdate_AppInfo": "2023-11-28T19:57:03.5176823+00:00",
-  "LastUpdate_Ratings": "2023-12-01T21:57:26.8648816+00:00",
-  "LastUpdate_Achievements": "2023-12-01T22:04:37.4881032+00:00"
+  "LastUpdate_Ratings": "2023-12-01T22:58:03.9727971+00:00",
+  "LastUpdate_Achievements": "2023-12-01T23:05:48.6896782+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
-  "Ranking_EOS_Completed": 266,
+  "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11257,10 +11257,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 49606,
       "NumberOfAwardsMax": 24816
+    },
+    {
+      "Time": "2023-12-01T22:58:14.1455784+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 49612,
+      "NumberOfAwardsMax": 24816
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49606,
+  "NumberOfAwards": 49612,
   "NumberOfAwardsMax": 24816,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11322,7 +11328,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1317
+      "Count": 1323
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -11337,10 +11343,10 @@
       "Count": 826
     }
   ],
-  "EOS_Progressed": 303725,
-  "EOS_Completed": 519,
-  "EOS_NewPlayers": 743,
-  "EOS_NewCompleters": 5,
+  "EOS_Progressed": 303730,
+  "EOS_Completed": 520,
+  "EOS_NewPlayers": 738,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
@@ -35617,6 +35623,11 @@
       "Time": "2023-12-01T22:09:15.4765308+00:00",
       "NumProgressed": 303725,
       "NumCompleted": 519
+    },
+    {
+      "Time": "2023-12-01T23:10:16.7449845+00:00",
+      "NumProgressed": 303730,
+      "NumCompleted": 520
     }
   ],
   "TotalAchievements": 45,
@@ -35628,7 +35639,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48596
+      "UsersEstimate": 48597
     },
     {
       "ID": "PFA_10",
@@ -35684,7 +35695,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36447
+      "UsersEstimate": 36448
     },
     {
       "ID": "PFA_17",
@@ -35700,7 +35711,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 27335
+      "UsersEstimate": 27336
     },
     {
       "ID": "PFA_19",
@@ -35724,7 +35735,7 @@
       "Name": "The Good Samaritan",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 6074
+      "UsersEstimate": 6075
     },
     {
       "ID": "PFA_21",
@@ -35748,7 +35759,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39484
+      "UsersEstimate": 39485
     },
     {
       "ID": "PFA_24",
@@ -35756,7 +35767,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36447
+      "UsersEstimate": 36448
     },
     {
       "ID": "PFA_25",
@@ -35812,7 +35823,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36447
+      "UsersEstimate": 36448
     },
     {
       "ID": "PFA_31",
@@ -35852,7 +35863,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30372
+      "UsersEstimate": 30373
     },
     {
       "ID": "PFA_36",
@@ -35860,7 +35871,7 @@
       "Name": "Rise to the Challenges",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 6074
+      "UsersEstimate": 6075
     },
     {
       "ID": "PFA_37",
@@ -35900,7 +35911,7 @@
       "Name": "Demiguise Dread",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6074
+      "UsersEstimate": 6075
     },
     {
       "ID": "PFA_41",
@@ -35924,7 +35935,7 @@
       "Name": "Finishing Touches",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 6074
+      "UsersEstimate": 6075
     },
     {
       "ID": "PFA_44",
@@ -35932,7 +35943,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27335
+      "UsersEstimate": 27336
     },
     {
       "ID": "PFA_45",
@@ -35940,7 +35951,7 @@
       "Name": "A Forte for Achievement",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 6074
+      "UsersEstimate": 6075
     },
     {
       "ID": "PFA_5",
@@ -35956,7 +35967,7 @@
       "Name": "First Class Student",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45559
+      "UsersEstimate": 45560
     },
     {
       "ID": "PFA_7",
@@ -35972,7 +35983,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39484
+      "UsersEstimate": 39485
     },
     {
       "ID": "PFA_9",
@@ -35980,23 +35991,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30372
+      "UsersEstimate": 30373
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303725,
-      "Completed": 519
+      "Progressed": 303730,
+      "Completed": 520
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-12-01T19:58:15.9507691+00:00",
-  "LastChanged_Achievements": "2023-12-01T22:09:15.4765304+00:00",
+  "LastChanged": "2023-12-01T22:58:14.1455782+00:00",
+  "LastChanged_Achievements": "2023-12-01T23:10:16.744984+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7292094+00:00",
-  "LastUpdate_Ratings": "2023-12-01T21:57:33.8905751+00:00",
-  "LastUpdate_Achievements": "2023-12-01T22:09:15.476704+00:00"
+  "LastUpdate_Ratings": "2023-12-01T22:58:14.1455788+00:00",
+  "LastUpdate_Achievements": "2023-12-01T23:10:16.7451008+00:00"
 }

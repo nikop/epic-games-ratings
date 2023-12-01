@@ -6,9 +6,9 @@
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 283,
-  "Ranking_EOS_Completed": 363,
+  "Ranking_EOS_Completed": 364,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -79,9 +79,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 709,
+  "EOS_Progressed": 710,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1639,6 +1639,11 @@
       "Time": "2023-12-01T22:09:13.1669452+00:00",
       "NumProgressed": 709,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T23:10:13.8385679+00:00",
+      "NumProgressed": 710,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1667,7 +1672,7 @@
       "Name": "Gravel Guru",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "achievement_12",
@@ -1675,7 +1680,7 @@
       "Name": "Snow Specialist",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_13",
@@ -1705,9 +1710,9 @@
       "ID": "achievement_16",
       "SetID": "jnappp",
       "Name": "Class Act",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 142
     },
     {
       "ID": "achievement_17",
@@ -1737,9 +1742,9 @@
       "ID": "achievement_2",
       "SetID": "jnappp",
       "Name": "Team Principal",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 553
+      "UsersEstimate": 547
     },
     {
       "ID": "achievement_20",
@@ -1795,7 +1800,7 @@
       "Name": "Driver\u0027s Alliance",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_3",
@@ -1858,7 +1863,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 709,
+      "Progressed": 710,
       "Completed": 0
     }
   ],
@@ -1866,8 +1871,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-12-01T17:57:44.0180052+00:00",
-  "LastChanged_Achievements": "2023-12-01T22:09:13.1669448+00:00",
+  "LastChanged_Achievements": "2023-12-01T23:10:13.8385676+00:00",
   "LastUpdate_AppInfo": "2023-11-28T21:56:52.2952246+00:00",
-  "LastUpdate_Ratings": "2023-12-01T21:57:42.4817121+00:00",
-  "LastUpdate_Achievements": "2023-12-01T22:09:13.1669644+00:00"
+  "LastUpdate_Ratings": "2023-12-01T22:58:25.9229186+00:00",
+  "LastUpdate_Achievements": "2023-12-01T23:10:13.8385871+00:00"
 }

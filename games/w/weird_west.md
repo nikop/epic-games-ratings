@@ -15,7 +15,7 @@ Number of Ratings: 125  (23.09.2022)
 | Full House | 37.00% | ~746 |
 | Off the Trail | 34.00% | ~685 |
 | Justice Served | 29.00% | ~585 |
-| Chain Reaction | 26.00% | ~524 |
+| Chain Reaction | 27.00% | ~544 |
 | Through Their Eyes | 26.00% | ~524 |
 | Dishonored | 25.00% | ~504 |
 | Rain of Death | 25.00% | ~504 |
@@ -61,7 +61,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.40% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,016 (Ranked 228)  
-Completed: 7 (0.35%) (Ranked 229)  
+Completed: 7 (0.35%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

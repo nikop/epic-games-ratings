@@ -6,9 +6,9 @@
   "Ranking_Popularity": 281,
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 121,
-  "Ranking_EOS_Completed": 343,
+  "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -754,9 +754,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 41475,
+  "EOS_Progressed": 41477,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -23689,6 +23689,11 @@
       "Time": "2023-12-01T22:07:54.9277572+00:00",
       "NumProgressed": 41475,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-01T23:08:30.2445713+00:00",
+      "NumProgressed": 41477,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -23820,7 +23825,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 14931
+      "UsersEstimate": 14932
     },
     {
       "ID": "ach_die10",
@@ -24068,7 +24073,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6221
+      "UsersEstimate": 6222
     },
     {
       "ID": "ach_undercurrent",
@@ -24131,15 +24136,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 41475,
+      "Progressed": 41477,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-11-28T11:59:28.088711+00:00",
-  "LastChanged_Achievements": "2023-12-01T22:07:54.9277568+00:00",
+  "LastChanged_Achievements": "2023-12-01T23:08:30.2445708+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:59.5207793+00:00",
-  "LastUpdate_Ratings": "2023-12-01T22:00:04.6960837+00:00",
-  "LastUpdate_Achievements": "2023-12-01T22:07:54.927925+00:00"
+  "LastUpdate_Ratings": "2023-12-01T23:01:46.3825175+00:00",
+  "LastUpdate_Achievements": "2023-12-01T23:08:30.244704+00:00"
 }

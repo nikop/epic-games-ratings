@@ -3,9 +3,9 @@
   "Name": "Battle Ram",
   "ProductSlug": "battle-ram-d001fd",
   "Ranking_EOS_Progress": 358,
-  "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 445,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_Completed": 364,
+  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-06-04T18:00:00+00:00",
     "PcReleaseDate": "2020-03-21T05:00:00+00:00",
@@ -1399,17 +1399,17 @@
       "ID": "ach_20",
       "SetID": "392n4e7",
       "Name": "Lieutenant General Baran",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "ach_21",
       "SetID": "392n4e7",
       "Name": "EMERAID RAM",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 185,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "ach_22",
@@ -1486,8 +1486,8 @@
   ],
   "FirstSeen": "2023-06-10T14:58:14.6297429+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-12-01T22:03:16.3021871+00:00",
+  "LastChanged_Achievements": "2023-12-01T23:04:00.8037368+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:34.4174558+00:00",
-  "LastUpdate_Ratings": "2023-12-01T22:02:34.0884227+00:00",
-  "LastUpdate_Achievements": "2023-12-01T22:03:16.302206+00:00"
+  "LastUpdate_Ratings": "2023-12-01T23:02:51.6285805+00:00",
+  "LastUpdate_Achievements": "2023-12-01T23:04:00.8037562+00:00"
 }

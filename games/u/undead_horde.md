@@ -29,8 +29,8 @@
 | The Lidless Eye Socket | 0.00% | ~0 |
 | Werechicken | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 673)  
-Completed: 0 (0.00%) (Ranked 363)  
+Progressed: 2 (Ranked 674)  
+Completed: 0 (0.00%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

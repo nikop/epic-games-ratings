@@ -6,57 +6,57 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 84.00% | ~367,833 |
-| Leader | 48.00% | ~210,191 |
-| Healer | 38.00% | ~166,401 |
-| Explorer | 36.00% | ~157,643 |
-| Aspiring Inventor | 28.00% | ~122,611 |
-| Adventurer | 26.00% | ~113,853 |
-| Famous Healer | 23.00% | ~100,716 |
-| Local Leader | 20.00% | ~87,579 |
-| New Opportunities | 20.00% | ~87,579 |
-| Famous Explorer | 19.00% | ~83,200 |
-| Energized | 19.00% | ~83,200 |
-| Survivor | 19.00% | ~83,200 |
-| The Great Healer | 17.00% | ~74,442 |
-| Catastrofan | 17.00% | ~74,442 |
-| The Long Haul | 17.00% | ~74,442 |
-| Legendary Explorer | 15.00% | ~65,685 |
-| Cleaner | 15.00% | ~65,685 |
-| Finders, Keepers | 13.00% | ~56,927 |
-| Ice Lakes | 12.00% | ~52,548 |
-| Mentor | 12.00% | ~52,548 |
-| Top Notch | 12.00% | ~52,548 |
-| Real Survivor | 12.00% | ~52,548 |
-| Great Leader | 11.00% | ~48,169 |
-| Merchant | 10.00% | ~43,790 |
-| Rocket Surgeon | 10.00% | ~43,790 |
-| Spreading Influence | 9.00% | ~39,411 |
-| Sky Burial | 9.00% | ~39,411 |
-| Big Game Hunter | 8.00% | ~35,032 |
-| Around the World | 8.00% | ~35,032 |
-| War Never Changes | 8.00% | ~35,032 |
-| Prepared for Anything | 7.00% | ~30,653 |
-| Bookworm | 7.00% | ~30,653 |
-| Friendly | 6.00% | ~26,274 |
-| Famous Adventurer | 6.00% | ~26,274 |
-| Big Catastrofan | 6.00% | ~26,274 |
-| It's a Finnish Thing | 4.00% | ~17,516 |
-| Bread and Circuses | 4.00% | ~17,516 |
-| Trader | 3.00% | ~13,137 |
-| New Eden | 3.00% | ~13,137 |
-| Amped Up | 3.00% | ~13,137 |
-| Look, no Hands! | 2.00% | ~8,758 |
-| Tailored to fit | 2.00% | ~8,758 |
-| Really Friendly | 1.00% | ~4,379 |
-| Ranch Hand | 1.00% | ~4,379 |
-| Luxurious Living | 1.00% | ~4,379 |
-| A Closer Look | 1.00% | ~4,379 |
-| Biggest Catastrofan | 1.00% | ~4,379 |
-| Doomsday is canceled | 0.90% | ~3,941 |
-| True Survivor | 0.80% | ~3,503 |
-| Mogul | 0.70% | ~3,065 |
-| Feng Shui | 0.50% | ~2,189 |
+| First Step | 84.00% | ~367,954 |
+| Leader | 48.00% | ~210,259 |
+| Healer | 38.00% | ~166,455 |
+| Explorer | 36.00% | ~157,694 |
+| Aspiring Inventor | 28.00% | ~122,651 |
+| Adventurer | 26.00% | ~113,890 |
+| Famous Healer | 23.00% | ~100,749 |
+| Local Leader | 20.00% | ~87,608 |
+| New Opportunities | 20.00% | ~87,608 |
+| Famous Explorer | 19.00% | ~83,228 |
+| Energized | 19.00% | ~83,228 |
+| Survivor | 19.00% | ~83,228 |
+| The Great Healer | 17.00% | ~74,467 |
+| Catastrofan | 17.00% | ~74,467 |
+| The Long Haul | 17.00% | ~74,467 |
+| Legendary Explorer | 15.00% | ~65,706 |
+| Cleaner | 15.00% | ~65,706 |
+| Finders, Keepers | 13.00% | ~56,945 |
+| Ice Lakes | 12.00% | ~52,565 |
+| Mentor | 12.00% | ~52,565 |
+| Top Notch | 12.00% | ~52,565 |
+| Real Survivor | 12.00% | ~52,565 |
+| Great Leader | 11.00% | ~48,184 |
+| Merchant | 10.00% | ~43,804 |
+| Rocket Surgeon | 10.00% | ~43,804 |
+| Spreading Influence | 9.00% | ~39,424 |
+| Sky Burial | 9.00% | ~39,424 |
+| Big Game Hunter | 8.00% | ~35,043 |
+| Around the World | 8.00% | ~35,043 |
+| War Never Changes | 8.00% | ~35,043 |
+| Prepared for Anything | 7.00% | ~30,663 |
+| Bookworm | 7.00% | ~30,663 |
+| Friendly | 6.00% | ~26,282 |
+| Famous Adventurer | 6.00% | ~26,282 |
+| Big Catastrofan | 6.00% | ~26,282 |
+| It's a Finnish Thing | 4.00% | ~17,522 |
+| Bread and Circuses | 4.00% | ~17,522 |
+| Trader | 3.00% | ~13,141 |
+| New Eden | 3.00% | ~13,141 |
+| Amped Up | 3.00% | ~13,141 |
+| Look, no Hands! | 2.00% | ~8,761 |
+| Tailored to fit | 2.00% | ~8,761 |
+| Really Friendly | 1.00% | ~4,380 |
+| Ranch Hand | 1.00% | ~4,380 |
+| Luxurious Living | 1.00% | ~4,380 |
+| A Closer Look | 1.00% | ~4,380 |
+| Biggest Catastrofan | 1.00% | ~4,380 |
+| Doomsday is canceled | 0.90% | ~3,942 |
+| True Survivor | 0.80% | ~3,504 |
+| Mogul | 0.70% | ~3,066 |
+| Feng Shui | 0.50% | ~2,190 |
 | Slimy yet Satisfying | 0.40% | ~1,752 |
 | Diplomat | 0.30% | ~1,314 |
 | The Friendliest | 0.20% | ~876 |
@@ -66,8 +66,8 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.10% | ~438 |
 | Customized calamities | 0.10% | ~438 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 437,897 (Ranked 43)  
-Completed: 16 (0.00%) (Ranked 363)  
+Progressed: 438,040 (Ranked 43)  
+Completed: 16 (0.00%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -291,7 +291,7 @@ Completed: 16 (0.00%) (Ranked 363)
 | 2023-11-28 | 428,295 | 10 |
 | 2023-11-29 | 431,690 | 11 |
 | 2023-11-30 | 434,751 | 13 |
-| 2023-12-01 | 437,897 | 16 |
+| 2023-12-01 | 438,040 | 16 |
 ## Awards
 Max (Extremely Fun): 150  (Ranked 320)  
 Sum: 968 (Ranked 266)  

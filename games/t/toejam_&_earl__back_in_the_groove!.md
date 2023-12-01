@@ -56,7 +56,7 @@ Rating: 4.33 (Ranked 817)
 | Hey, You Did It! | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 58,047 (Ranked 108)  
-Completed: 6 (0.01%) (Ranked 343)  
+Completed: 6 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

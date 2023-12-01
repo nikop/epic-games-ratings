@@ -8,7 +8,7 @@
 | Training Simulation | 77.00% | ~363 |
 | Kuku Bird Hunter | 63.00% | ~297 |
 | Storm Traveller | 57.00% | ~268 |
-| Wolf King Killer | 51.00% | ~240 |
+| Wolf King Killer | 52.00% | ~245 |
 | Fashion Connoisseur | 50.00% | ~236 |
 | Arms Mechanic | 46.00% | ~217 |
 | Flower Thief | 42.00% | ~198 |
@@ -17,19 +17,19 @@
 | Beginner Cook | 35.00% | ~165 |
 | Seal Breaker | 31.00% | ~146 |
 | Handyman | 27.00% | ~127 |
-| Giant Lizard Killer | 25.00% | ~118 |
+| Giant Lizard Killer | 26.00% | ~122 |
 | Guardian | 25.00% | ~118 |
 | Nosebleeder | 24.00% | ~113 |
 | Trader | 20.00% | ~94 |
 | Weapon Boost | 20.00% | ~94 |
 | Flying Kobold Killer | 17.00% | ~80 |
+| Master Artificer | 17.00% | ~80 |
 | Youth Magnet | 16.00% | ~75 |
-| Master Artificer | 16.00% | ~75 |
 | Furious Scorpion Killer | 15.00% | ~71 |
 | Lethal Blade Mantis Killer | 15.00% | ~71 |
 | Squeaky Clean | 15.00% | ~71 |
 | Kind Adventurer | 13.00% | ~61 |
-| Mermaid Killer | 12.00% | ~57 |
+| Mermaid Killer | 13.00% | ~61 |
 | Cave Master | 12.00% | ~57 |
 | Face Slapper | 12.00% | ~57 |
 | Master Cook | 7.00% | ~33 |
@@ -51,7 +51,7 @@
 | Warden Challenge | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 471 (Ranked 319)  
-Completed: 1 (0.21%) (Ranked 254)  
+Completed: 1 (0.21%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

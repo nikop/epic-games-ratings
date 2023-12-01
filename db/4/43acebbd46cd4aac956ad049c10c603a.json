@@ -6,9 +6,9 @@
   "Ranking_Popularity": 469,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 277,
-  "Ranking_EOS_Completed": 279,
+  "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -169,9 +169,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 813,
+  "EOS_Progressed": 815,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1849,6 +1849,11 @@
       "Time": "2023-12-01T22:03:38.8804704+00:00",
       "NumProgressed": 813,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-01T23:04:30.7124875+00:00",
+      "NumProgressed": 815,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2011,9 +2016,9 @@
       "ID": "GrasslandsRing",
       "SetID": "1n308hc",
       "Name": "Grasslands Ring",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 24
     },
     {
       "ID": "HighPlain",
@@ -2043,9 +2048,9 @@
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 57
     },
     {
       "ID": "LostMarshes",
@@ -2123,9 +2128,9 @@
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 33
     },
     {
       "ID": "PrometheusUnbound",
@@ -2332,7 +2337,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 813,
+      "Progressed": 815,
       "Completed": 1
     }
   ],
@@ -2340,8 +2345,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-30T22:00:34.4965769+00:00",
-  "LastChanged_Achievements": "2023-12-01T22:03:38.8804701+00:00",
+  "LastChanged_Achievements": "2023-12-01T23:04:30.712487+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-01T21:59:43.4189284+00:00",
-  "LastUpdate_Achievements": "2023-12-01T22:03:38.880512+00:00"
+  "LastUpdate_Ratings": "2023-12-01T23:01:15.9766622+00:00",
+  "LastUpdate_Achievements": "2023-12-01T23:04:30.7125563+00:00"
 }

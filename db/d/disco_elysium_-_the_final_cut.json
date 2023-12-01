@@ -3,12 +3,12 @@
   "Name": "Disco Elysium - The Final Cut",
   "ProductSlug": "disco-elysium",
   "Ranking_Rating": 22,
-  "Ranking_Popularity": 180,
+  "Ranking_Popularity": 181,
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 83,
-  "Ranking_EOS_Completed": 334,
+  "Ranking_EOS_Completed": 335,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1514,9 +1514,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131490,
+  "EOS_Progressed": 131492,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 329,
+  "EOS_NewPlayers": 326,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -23534,6 +23534,11 @@
       "Time": "2023-12-01T22:04:13.2654216+00:00",
       "NumProgressed": 131490,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-01T23:05:16.4785351+00:00",
+      "NumProgressed": 131492,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -23577,7 +23582,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23668
+      "UsersEstimate": 23669
     },
     {
       "ID": "ACH_COP_BAD",
@@ -23625,7 +23630,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36817
+      "UsersEstimate": 36818
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -23649,7 +23654,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21038
+      "UsersEstimate": 21039
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -23681,7 +23686,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21038
+      "UsersEstimate": 21039
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -23737,7 +23742,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7889
+      "UsersEstimate": 7890
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -23864,15 +23869,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131490,
+      "Progressed": 131492,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-28T12:00:15.5937153+00:00",
-  "LastChanged_Achievements": "2023-12-01T22:04:13.2654212+00:00",
+  "LastChanged_Achievements": "2023-12-01T23:05:16.4785347+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:19.415585+00:00",
-  "LastUpdate_Ratings": "2023-12-01T21:56:59.2576826+00:00",
-  "LastUpdate_Achievements": "2023-12-01T22:04:13.2655252+00:00"
+  "LastUpdate_Ratings": "2023-12-01T22:57:25.1932381+00:00",
+  "LastUpdate_Achievements": "2023-12-01T23:05:16.4786777+00:00"
 }

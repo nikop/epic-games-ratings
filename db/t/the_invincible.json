@@ -3,9 +3,9 @@
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 317,
-  "Ranking_EOS_Completed": 363,
+  "Ranking_EOS_Completed": 364,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 479,
+  "EOS_Progressed": 480,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
@@ -1300,6 +1300,11 @@
       "Time": "2023-12-01T19:08:40.1933412+00:00",
       "NumProgressed": 479,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T23:09:14.4914576+00:00",
+      "NumProgressed": 480,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1392,7 +1397,7 @@
       "Name": "Evacuation",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "AchvInvShip",
@@ -1422,9 +1427,9 @@
       "ID": "AchvLeaveNoManBehind",
       "SetID": "1hj060c",
       "Name": "I leave no man behind",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 24
+      "UsersEstimate": 29
     },
     {
       "ID": "AchvLeavesNoManBehind2",
@@ -1488,23 +1493,23 @@
       "Name": "The Camp",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "AchvReachCity",
       "SetID": "1hj060c",
       "Name": "The City",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 192
     },
     {
       "ID": "AchvReachCondor",
       "SetID": "1hj060c",
       "Name": "The Condor",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 125
     },
     {
       "ID": "AchvSurvivors",
@@ -1520,7 +1525,7 @@
       "Name": "Flying Objects Operator",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "AchvTheEnd",
@@ -1543,14 +1548,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 479,
+      "Progressed": 480,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-01T22:08:28.0763078+00:00",
+  "LastChanged_Achievements": "2023-12-01T23:09:14.4914572+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-12-01T21:59:39.235672+00:00",
-  "LastUpdate_Achievements": "2023-12-01T22:08:28.0763274+00:00"
+  "LastUpdate_Ratings": "2023-12-01T23:01:10.3300236+00:00",
+  "LastUpdate_Achievements": "2023-12-01T23:09:14.4914768+00:00"
 }

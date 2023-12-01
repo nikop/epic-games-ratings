@@ -6,7 +6,7 @@
   "Ranking_Popularity": 534,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 164,
-  "Ranking_EOS_Completed": 136,
+  "Ranking_EOS_Completed": 137,
   "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
@@ -193,7 +193,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 10505,
+  "EOS_Progressed": 10506,
   "EOS_Completed": 183,
   "EOS_NewPlayers": 894,
   "EOS_NewCompleters": 26,
@@ -5198,6 +5198,11 @@
       "Time": "2023-12-01T20:08:54.3482907+00:00",
       "NumProgressed": 10505,
       "NumCompleted": 183
+    },
+    {
+      "Time": "2023-12-01T23:09:00.4755135+00:00",
+      "NumProgressed": 10506,
+      "NumCompleted": 183
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -5218,7 +5223,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 9034
+      "UsersEstimate": 9035
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -5226,7 +5231,7 @@
       "Name": "My Dear Love!",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -5282,7 +5287,7 @@
       "Name": "Go Get Some Fries On The Pier",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 3046
+      "UsersEstimate": 3047
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_18",
@@ -5346,7 +5351,7 @@
       "Name": "Love Actually",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 5042
+      "UsersEstimate": 5043
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -5370,7 +5375,7 @@
       "Name": "Counting Sheep?",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_28",
@@ -5394,7 +5399,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 6933
+      "UsersEstimate": 6934
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -5418,7 +5423,7 @@
       "Name": "What I Want Is You",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 6303
+      "UsersEstimate": 6304
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -5466,7 +5471,7 @@
       "Name": "Are You Alright?",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 5252
+      "UsersEstimate": 5253
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
@@ -5490,7 +5495,7 @@
       "Name": "David",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 3046
+      "UsersEstimate": 3047
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_4",
@@ -5522,7 +5527,7 @@
       "Name": "Drama King",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 4412
+      "UsersEstimate": 4413
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_8",
@@ -5530,7 +5535,7 @@
       "Name": "This Ain\u0027t Right In Many Ways...",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_9",
@@ -5545,7 +5550,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 10505,
+      "Progressed": 10506,
       "Completed": 183
     }
   ],
@@ -5553,8 +5558,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-12-01T14:59:07.0284768+00:00",
-  "LastChanged_Achievements": "2023-12-01T22:08:17.7018517+00:00",
+  "LastChanged_Achievements": "2023-12-01T23:09:00.4755131+00:00",
   "LastUpdate_AppInfo": "2023-11-25T01:40:00.6082481+00:00",
-  "LastUpdate_Ratings": "2023-12-01T21:59:13.9362877+00:00",
-  "LastUpdate_Achievements": "2023-12-01T22:08:17.701892+00:00"
+  "LastUpdate_Ratings": "2023-12-01T23:00:34.7421233+00:00",
+  "LastUpdate_Achievements": "2023-12-01T23:09:00.4755541+00:00"
 }

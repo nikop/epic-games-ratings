@@ -6,9 +6,9 @@
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 350,
-  "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_Completed": 236,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -169,9 +169,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 321,
+  "EOS_Progressed": 322,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1524,6 +1524,11 @@
       "Time": "2023-12-01T18:08:56.4528929+00:00",
       "NumProgressed": 321,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-01T23:09:26.0689629+00:00",
+      "NumProgressed": 322,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -1536,7 +1541,7 @@
       "Name": "Unforeseen",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "achievement_10",
@@ -1544,7 +1549,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_11",
@@ -1568,7 +1573,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "achievement_14",
@@ -1616,7 +1621,7 @@
       "Name": "Socialite",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_2",
@@ -1624,7 +1629,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "achievement_20",
@@ -1680,7 +1685,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "achievement_36",
@@ -1712,7 +1717,7 @@
       "Name": "No More Names",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "achievement_41",
@@ -1728,7 +1733,7 @@
       "Name": "Armaments Gules",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_43",
@@ -1752,15 +1757,15 @@
       "Name": "Periapt Alizarin",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "achievement_46",
       "SetID": "18al4io",
       "Name": "Periapt Viridian",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_48",
@@ -1768,7 +1773,7 @@
       "Name": "Enlisted",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "achievement_49",
@@ -1911,7 +1916,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 321,
+      "Progressed": 322,
       "Completed": 1
     }
   ],
@@ -1919,8 +1924,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-12-01T00:00:32.3447469+00:00",
-  "LastChanged_Achievements": "2023-12-01T22:08:36.8335685+00:00",
+  "LastChanged_Achievements": "2023-12-01T23:09:26.0689624+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:20.7077171+00:00",
-  "LastUpdate_Ratings": "2023-12-01T22:02:32.3326138+00:00",
-  "LastUpdate_Achievements": "2023-12-01T22:08:36.8336006+00:00"
+  "LastUpdate_Ratings": "2023-12-01T23:02:49.5074553+00:00",
+  "LastUpdate_Achievements": "2023-12-01T23:09:26.0689993+00:00"
 }

@@ -19,6 +19,7 @@ Rating: 4.61 (Ranked 387)
 | Magical Synergy | 2.00% | ~111 |
 | Seat of Power | 2.00% | ~111 |
 | In a Liege of Your Own | 2.00% | ~111 |
+| Intimidation Tactics | 2.00% | ~111 |
 | Freed Lands of Manuhari | 2.00% | ~111 |
 | Chaos Surge | 2.00% | ~111 |
 | Return of the Wizard King | 1.00% | ~56 |
@@ -27,7 +28,6 @@ Rating: 4.61 (Ranked 387)
 | My Final Form | 1.00% | ~56 |
 | Fiery Friend | 1.00% | ~56 |
 | Impenetrable Fortress | 1.00% | ~56 |
-| Intimidation Tactics | 1.00% | ~56 |
 | Here be Dragons | 1.00% | ~56 |
 | Tipping the Scales | 1.00% | ~56 |
 | Mighty Hoard | 1.00% | ~56 |
@@ -67,7 +67,7 @@ Rating: 4.61 (Ranked 387)
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,553 (Ranked 189)  
-Completed: 7 (0.13%) (Ranked 273)  
+Completed: 7 (0.13%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

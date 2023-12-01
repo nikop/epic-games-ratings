@@ -6,9 +6,9 @@
   "Ranking_Popularity": 368,
   "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 178,
-  "Ranking_EOS_Completed": 363,
+  "Ranking_EOS_Completed": 364,
   "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -927,9 +927,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7370,
+  "EOS_Progressed": 7371,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8882,6 +8882,11 @@
       "Time": "2023-12-01T17:08:53.8125179+00:00",
       "NumProgressed": 7370,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T23:09:33.295888+00:00",
+      "NumProgressed": 7371,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8925,7 +8930,7 @@
       "Name": "Commodity Trader",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 2137
+      "UsersEstimate": 2138
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -8997,7 +9002,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5675
+      "UsersEstimate": 5676
     },
     {
       "ID": "First_Race_Met",
@@ -9005,7 +9010,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5306
+      "UsersEstimate": 5307
     },
     {
       "ID": "First_Ship_Designed",
@@ -9029,7 +9034,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5675
+      "UsersEstimate": 5676
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -9213,7 +9218,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4422
+      "UsersEstimate": 4423
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -9237,7 +9242,7 @@
       "Name": "War with the Unknown",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "Win_As_Altarian",
@@ -9381,7 +9386,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4790
+      "UsersEstimate": 4791
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -9468,15 +9473,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7370,
+      "Progressed": 7371,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-11-24T10:59:15.0247193+00:00",
-  "LastChanged_Achievements": "2023-12-01T22:08:42.1917098+00:00",
+  "LastChanged_Achievements": "2023-12-01T23:09:33.2958876+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:12.8136336+00:00",
-  "LastUpdate_Ratings": "2023-12-01T21:58:27.5025763+00:00",
-  "LastUpdate_Achievements": "2023-12-01T22:08:42.1917957+00:00"
+  "LastUpdate_Ratings": "2023-12-01T22:59:29.2958207+00:00",
+  "LastUpdate_Achievements": "2023-12-01T23:09:33.295981+00:00"
 }

@@ -8,12 +8,12 @@
 | Thalya – Simply Immortal | 88.00% | ~450 |
 | For the Horde! | 82.00% | ~419 |
 | Hammer Time, Round Two | 80.00% | ~409 |
-| The Hellwoods | 74.00% | ~378 |
+| The Hellwoods | 75.00% | ~383 |
 | The Plains of Strothalm | 70.00% | ~358 |
 | Experienced Thalya | 70.00% | ~358 |
 | Thalya's Concentrated Fury | 68.00% | ~347 |
 | Bad Elves Go Everywhere | 67.00% | ~342 |
-| Master of Magic | 63.00% | ~322 |
+| Master of Magic | 64.00% | ~327 |
 | Heroes’ Gorge | 61.00% | ~312 |
 | Unicorn steaks – fresh off the hoof! | 60.00% | ~307 |
 | Magic Accidents | 58.00% | ~296 |
@@ -24,8 +24,8 @@
 | Hard Work | 48.00% | ~245 |
 | YOU SHALL NOT PASS! | 47.00% | ~240 |
 | The Big Eaty | 47.00% | ~240 |
+| “… like son” | 44.00% | ~225 |
 | Pure Dynamite! | 43.00% | ~220 |
-| “… like son” | 43.00% | ~220 |
 | Shame! Shame! Shame! | 40.00% | ~204 |
 | Dungeonlord Gorgu | 39.00% | ~199 |
 | The Cathedral of Light | 39.00% | ~199 |
@@ -42,7 +42,7 @@
 | Ghost Pirates? Ghost Heroes! | 23.00% | ~118 |
 | The Finitude Drill | 21.00% | ~107 |
 | Stop Tanos! | 19.00% | ~97 |
-| Doom Hill | 18.00% | ~92 |
+| Doom Hill | 19.00% | ~97 |
 | Sabotage! | 17.00% | ~87 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~82 |
 | Bonus Evilness | 16.00% | ~82 |
@@ -51,8 +51,8 @@
 | My Little Torture Chamber | 14.00% | ~72 |
 | Raiders of the Lost Stone | 14.00% | ~72 |
 | Lavalumps on Ice! | 13.00% | ~66 |
+| Rubble and Ashes | 13.00% | ~66 |
 | The Rune Sockets of Finitude (Part 2) | 13.00% | ~66 |
-| Rubble and Ashes | 12.00% | ~61 |
 | The Last Stand - This Time For Real! | 12.00% | ~61 |
 | To the Max! | 11.00% | ~56 |
 | To Infinity And Beyond! | 11.00% | ~56 |
@@ -66,8 +66,8 @@
 | No Mana, No Cry | 5.00% | ~26 |
 | I Don't Need Any Help | 5.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 511 (Ranked 309)  
-Completed: 10 (1.96%) (Ranked 127)  
+Progressed: 511 (Ranked 310)  
+Completed: 10 (1.96%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

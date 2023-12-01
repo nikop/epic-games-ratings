@@ -6,31 +6,31 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~306,925 |
-| Full garage | 61.00% | ~256,471 |
-| To the eyeballs! | 51.00% | ~214,427 |
-| Individual delivery | 47.00% | ~197,609 |
-| Non-Stop | 45.00% | ~189,200 |
-| Juggler | 36.00% | ~151,360 |
-| Forgot something | 35.00% | ~147,156 |
-| Close call! | 30.00% | ~126,134 |
-| Get out my way | 28.00% | ~117,725 |
-| Common cause | 26.00% | ~109,316 |
-| Critical care | 26.00% | ~109,316 |
-| Mega-railroad | 23.00% | ~96,702 |
-| Upgrade complete | 23.00% | ~96,702 |
-| Just in time! | 18.00% | ~75,680 |
+| Dealmaker | 73.00% | ~306,928 |
+| Full garage | 61.00% | ~256,474 |
+| To the eyeballs! | 51.00% | ~214,429 |
+| Individual delivery | 47.00% | ~197,611 |
+| Non-Stop | 45.00% | ~189,202 |
+| Juggler | 36.00% | ~151,362 |
+| Forgot something | 35.00% | ~147,157 |
+| Close call! | 30.00% | ~126,135 |
+| Get out my way | 28.00% | ~117,726 |
+| Common cause | 26.00% | ~109,317 |
+| Critical care | 26.00% | ~109,317 |
+| Mega-railroad | 23.00% | ~96,703 |
+| Upgrade complete | 23.00% | ~96,703 |
+| Just in time! | 18.00% | ~75,681 |
 | Builder | 17.00% | ~71,476 |
 | Long Haul | 17.00% | ~71,364 |
-| Steam Age | 16.00% | ~67,271 |
+| Steam Age | 16.00% | ~67,272 |
 | Multilevel road | 15.00% | ~63,067 |
-| Bridgemania | 14.00% | ~58,862 |
-| Need to think | 14.00% | ~58,862 |
-| The Tortoise | 12.00% | ~50,453 |
+| Bridgemania | 14.00% | ~58,863 |
+| Need to think | 14.00% | ~58,863 |
+| The Tortoise | 12.00% | ~50,454 |
 | Beginner | 11.00% | ~46,249 |
 | Without a lunch break | 11.00% | ~46,249 |
-| One way | 10.00% | ~42,044 |
-| Relocation | 10.00% | ~42,044 |
+| One way | 10.00% | ~42,045 |
+| Relocation | 10.00% | ~42,045 |
 | Industrial Age | 9.00% | ~37,840 |
 | Just One More Valley | 9.00% | ~37,781 |
 | Prick of conscience | 8.00% | ~33,636 |
@@ -96,8 +96,8 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~420 |
 | World Zapper | 0.10% | ~420 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 420,445 (Ranked 45)  
-Completed: 23 (0.01%) (Ranked 343)  
+Progressed: 420,449 (Ranked 45)  
+Completed: 23 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -283,11 +283,11 @@ Completed: 23 (0.01%) (Ranked 343)
 | 2023-11-28 | 419,797 | 23 |
 | 2023-11-29 | 419,997 | 23 |
 | 2023-11-30 | 420,226 | 23 |
-| 2023-12-01 | 420,445 | 23 |
+| 2023-12-01 | 420,449 | 23 |
 ## Awards
 Max (Challenging Puzzles): 938  (Ranked 159)  
-Sum: 1,882 (Ranked 219)  
-Diff (max vs sum): -60  
+Sum: 1,886 (Ranked 218)  
+Diff (max vs sum): -59  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 938 |
@@ -295,9 +295,9 @@ Diff (max vs sum): -60
 | This game has Playful Visuals | 105 |
 | This game has Quickly Understood Controls | 104 |
 | This game is Extremely Fun | 101 |
-| This game is Relaxing | 99 |
-| This game is Highly Recommended | 93 |
-| This game has Challenging Combat | 82 |
+| This game is Relaxing | 100 |
+| This game is Highly Recommended | 95 |
+| This game has Challenging Combat | 83 |
 | This game has Amazing Storytelling | 67 |
 | This game has a Creative Community | 66 |
 | This game has Amazing Characters | 50 |
@@ -496,4 +496,4 @@ Diff (max vs sum): -60
 | 2023-11-28 | 4.44 | - | 926 | 1,854 |
 | 2023-11-29 | 4.44 | - | 931 | 1,864 |
 | 2023-11-30 | 4.44 | - | 934 | 1,872 |
-| 2023-12-01 | 4.44 | - | 938 | 1,882 |
+| 2023-12-01 | 4.44 | - | 938 | 1,886 |

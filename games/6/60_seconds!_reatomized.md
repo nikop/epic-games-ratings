@@ -61,13 +61,13 @@ Rating: 4.53 (Ranked 543)
 | Naysayer | 0.70% | ~40 |
 | Pro gamer | 0.70% | ~40 |
 | Manhattan Project | 0.60% | ~34 |
-| Fair Exchange | 0.40% | ~23 |
+| Fair Exchange | 0.50% | ~28 |
 | Miracle | 0.30% | ~17 |
 | Tora! Tora! Tora! | 0.20% | ~11 |
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,688 (Ranked 187)  
-Completed: 1 (0.02%) (Ranked 334)  
+Completed: 1 (0.02%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

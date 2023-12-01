@@ -6,9 +6,9 @@
   "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 189,
-  "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_Completed": 274,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -7983,9 +7983,9 @@
       "ID": "40",
       "SetID": "3aa2279",
       "Name": "Intimidation Tactics",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 111
     },
     {
       "ID": "41",
@@ -8206,8 +8206,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-29T19:59:17.4564892+00:00",
-  "LastChanged_Achievements": "2023-12-01T22:04:17.5780968+00:00",
+  "LastChanged_Achievements": "2023-12-01T23:05:22.3815956+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.6428194+00:00",
-  "LastUpdate_Ratings": "2023-12-01T21:57:09.4177891+00:00",
-  "LastUpdate_Achievements": "2023-12-01T22:04:17.5781647+00:00"
+  "LastUpdate_Ratings": "2023-12-01T22:57:39.1197935+00:00",
+  "LastUpdate_Achievements": "2023-12-01T23:05:22.3816758+00:00"
 }

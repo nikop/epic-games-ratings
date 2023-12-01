@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Act of Kindness | 89.00% | ~39 |
 | Air Fighter | 86.00% | ~38 |
-| Act of Kindness | 86.00% | ~38 |
 | Oo-De-Lally | 75.00% | ~33 |
 | The Altruist | 68.00% | ~30 |
 | Treasure Hunter | 64.00% | ~28 |
 | Tap Dancing | 57.00% | ~25 |
 | Watch your Step! | 55.00% | ~24 |
-| MAX LEVEL | 48.00% | ~21 |
-| Right between the eyes | 45.00% | ~20 |
+| MAX LEVEL | 50.00% | ~22 |
+| Right between the eyes | 48.00% | ~21 |
+| Starry Night | 36.00% | ~16 |
 | Merry Co-operation | 36.00% | ~16 |
-| Starry Night | 34.00% | ~15 |
-| Spring Board | 34.00% | ~15 |
+| Spring Board | 36.00% | ~16 |
 | Rebel Unleashed | 32.00% | ~14 |
 | Savior | 30.00% | ~13 |
 | Finish Him! | 30.00% | ~13 |
-| Assault on the Ram | 25.00% | ~11 |
-| First Aid | 25.00% | ~11 |
+| Assault on the Ram | 27.00% | ~12 |
+| First Aid | 27.00% | ~12 |
 | Merry Go Round | 25.00% | ~11 |
 | Locksley's Tears | 23.00% | ~10 |
 | Ultra Rebel Instinct | 20.00% | ~9 |
@@ -59,7 +59,7 @@
 | Fashionista | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 44 (Ranked 509)  
-Completed: 0 (0.00%) (Ranked 363)  
+Completed: 0 (0.00%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

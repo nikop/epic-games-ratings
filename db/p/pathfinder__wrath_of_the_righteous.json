@@ -6,9 +6,9 @@
   "Ranking_Popularity": 122,
   "Ranking_PopularitySum": 120,
   "Ranking_EOS_Progress": 159,
-  "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_Completed": 364,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4445,9 +4445,9 @@
       "Count": 398
     }
   ],
-  "EOS_Progressed": 12219,
+  "EOS_Progressed": 12220,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16310,6 +16310,11 @@
       "Time": "2023-12-01T22:08:47.7650741+00:00",
       "NumProgressed": 12219,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T23:09:40.3969228+00:00",
+      "NumProgressed": 12220,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -16329,7 +16334,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2199
+      "UsersEstimate": 2200
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -17248,21 +17253,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11001,
+      "Progressed": 11002,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12219,
+      "Progressed": 12220,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-01T15:58:36.5284064+00:00",
-  "LastChanged_Achievements": "2023-12-01T22:08:47.7650737+00:00",
+  "LastChanged_Achievements": "2023-12-01T23:09:40.3969224+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:49.3159315+00:00",
-  "LastUpdate_Ratings": "2023-12-01T21:58:06.9766098+00:00",
-  "LastUpdate_Achievements": "2023-12-01T22:08:47.7652317+00:00"
+  "LastUpdate_Ratings": "2023-12-01T22:59:00.8550174+00:00",
+  "LastUpdate_Achievements": "2023-12-01T23:09:40.3970701+00:00"
 }

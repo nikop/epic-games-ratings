@@ -20,8 +20,8 @@
 | Soldier | 50.00% | ~736 |
 | Charismatic | 50.00% | ~736 |
 | Asari Ally | 47.00% | ~692 |
+| Medal of Exploration III | 46.00% | ~677 |
 | Soldier Ally | 46.00% | ~677 |
-| Medal of Exploration III | 45.00% | ~662 |
 | Principled | 45.00% | ~662 |
 | Paramour I | 44.00% | ~648 |
 | Colonial Savior | 44.00% | ~648 |
@@ -91,11 +91,11 @@
 | Under Pressure | 21.00% | ~309 |
 | Last Resort | 21.00% | ~309 |
 | Hard Target | 21.00% | ~309 |
+| Saboteur | 21.00% | ~309 |
 | Fact Finder | 21.00% | ~309 |
 | Problem Solver | 21.00% | ~309 |
 | Pyromaniac | 20.00% | ~294 |
 | No One Left Behind | 20.00% | ~294 |
-| Saboteur | 20.00% | ~294 |
 | Last Witness | 20.00% | ~294 |
 | Well Connected | 20.00% | ~294 |
 | Executioner | 18.00% | ~265 |
@@ -133,7 +133,7 @@
 | Neural Shock Specialist | 1.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,472 (Ranked 243)  
-Completed: 6 (0.41%) (Ranked 219)  
+Completed: 6 (0.41%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

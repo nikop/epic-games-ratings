@@ -20,12 +20,12 @@ Rating: 4.57 (Ranked 477)
 | Idiot | 31.00% | ~18 |
 | Wise man | 29.00% | ~17 |
 | Beast slayer | 27.00% | ~16 |
+| Death of a legend | 25.00% | ~15 |
 | Ogre friend | 25.00% | ~15 |
 | Hard worker | 25.00% | ~15 |
 | The fourth triplet | 25.00% | ~15 |
 | Master detective | 25.00% | ~15 |
 | Family man | 24.00% | ~14 |
-| Death of a legend | 24.00% | ~14 |
 | Archaeologist | 22.00% | ~13 |
 | Little hero | 22.00% | ~13 |
 | Pandora's box | 22.00% | ~13 |
@@ -47,7 +47,7 @@ Rating: 4.57 (Ranked 477)
 | Expert | 8.00% | ~5 |
 | Fervent swimmer | 7.00% | ~4 |
 | King Midas | 7.00% | ~4 |
-| Rune master | 3.00% | ~2 |
+| Rune master | 5.00% | ~3 |
 | Big game hunter | 3.00% | ~2 |
 | Sharpshooter | 3.00% | ~2 |
 | Jester | 3.00% | ~2 |
@@ -57,7 +57,7 @@ Rating: 4.57 (Ranked 477)
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 59 (Ranked 487)  
-Completed: 0 (0.00%) (Ranked 363)  
+Completed: 0 (0.00%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

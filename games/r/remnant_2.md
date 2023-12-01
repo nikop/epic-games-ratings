@@ -28,29 +28,29 @@ Rating: 4.75 (Ranked 148)
 | Almost There | 0.30% | ~697 |
 | Make Some Room | 0.30% | ~697 |
 | Good, But Could Be Better! | 0.30% | ~697 |
-| Crafty | 0.20% | ~464 |
-| Ghost in the Machine | 0.20% | ~464 |
-| Chaos | 0.20% | ~464 |
-| Traitor | 0.20% | ~464 |
-| Forever is a Long Time Coming | 0.20% | ~464 |
-| Power Surge | 0.20% | ~464 |
-| The God Gambit | 0.20% | ~464 |
-| Dark Designs | 0.20% | ~464 |
-| Madman's Paradise | 0.20% | ~464 |
-| The Agenda | 0.20% | ~464 |
-| Tall Tales | 0.20% | ~464 |
-| Bad Moon Rising | 0.20% | ~464 |
-| Strapped | 0.20% | ~464 |
-| Edgelord | 0.20% | ~464 |
-| Cutting Edge | 0.20% | ~464 |
-| The Web | 0.20% | ~464 |
-| Scrap Collector | 0.20% | ~464 |
-| Scrap Hoarder | 0.20% | ~464 |
-| All These Traits� | 0.20% | ~464 |
-| Carnage in C-Minor | 0.20% | ~464 |
-| The Ultimate Weapon | 0.20% | ~464 |
-| No One Should Have All That Power | 0.20% | ~464 |
-| Transmutate | 0.20% | ~464 |
+| Crafty | 0.20% | ~465 |
+| Ghost in the Machine | 0.20% | ~465 |
+| Chaos | 0.20% | ~465 |
+| Traitor | 0.20% | ~465 |
+| Forever is a Long Time Coming | 0.20% | ~465 |
+| Power Surge | 0.20% | ~465 |
+| The God Gambit | 0.20% | ~465 |
+| Dark Designs | 0.20% | ~465 |
+| Madman's Paradise | 0.20% | ~465 |
+| The Agenda | 0.20% | ~465 |
+| Tall Tales | 0.20% | ~465 |
+| Bad Moon Rising | 0.20% | ~465 |
+| Strapped | 0.20% | ~465 |
+| Edgelord | 0.20% | ~465 |
+| Cutting Edge | 0.20% | ~465 |
+| The Web | 0.20% | ~465 |
+| Scrap Collector | 0.20% | ~465 |
+| Scrap Hoarder | 0.20% | ~465 |
+| All These Traits� | 0.20% | ~465 |
+| Carnage in C-Minor | 0.20% | ~465 |
+| The Ultimate Weapon | 0.20% | ~465 |
+| No One Should Have All That Power | 0.20% | ~465 |
+| Transmutate | 0.20% | ~465 |
 | Succession | 0.20% | ~23 |
 | You Shall Pass | 0.20% | ~23 |
 | Only Human | 0.10% | ~232 |
@@ -61,8 +61,8 @@ Rating: 4.75 (Ranked 148)
 | Maxed Out! | 0.10% | ~232 |
 | A Foul Feast | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,225 (Ranked 69)  
-Completed: 546 (0.24%) (Ranked 249)  
+Progressed: 232,269 (Ranked 69)  
+Completed: 546 (0.24%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -199,15 +199,15 @@ Completed: 546 (0.24%) (Ranked 249)
 | 2023-11-28 | 230,188 | 541 |
 | 2023-11-29 | 230,694 | 542 |
 | 2023-11-30 | 231,406 | 542 |
-| 2023-12-01 | 232,225 | 546 |
+| 2023-12-01 | 232,269 | 546 |
 ## Awards
 Max (Great Boss Battles): 2,558  (Ranked 102)  
-Sum: 6,263 (Ranked 129)  
+Sum: 6,266 (Ranked 129)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,558 |
-| This game has Diverse Characters | 412 |
+| This game has Diverse Characters | 415 |
 | This game is Highly Recommended | 402 |
 | This game has Challenging Combat | 397 |
 | This game is Relaxing | 388 |
@@ -348,4 +348,4 @@ Diff (max vs sum): -27
 | 2023-11-28 | 4.75 | 2,498 | 6,104 |
 | 2023-11-29 | 4.75 | 2,518 | 6,163 |
 | 2023-11-30 | 4.75 | 2,533 | 6,208 |
-| 2023-12-01 | 4.75 | 2,558 | 6,263 |
+| 2023-12-01 | 4.75 | 2,558 | 6,266 |

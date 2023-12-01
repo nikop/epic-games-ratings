@@ -8,11 +8,11 @@
 | Something important | 76.00% | ~74 |
 | A piece of the story | 58.00% | ~57 |
 | It's covered up for a reason | 44.00% | ~43 |
+| Do what you have to | 44.00% | ~43 |
 | Scraps of love | 44.00% | ~43 |
 | The artist’s impression | 44.00% | ~43 |
-| Do what you have to | 43.00% | ~42 |
+| Sign of weakness | 36.00% | ~35 |
 | Refuse to look | 35.00% | ~34 |
-| Sign of weakness | 35.00% | ~34 |
 | Finished it | 27.00% | ~26 |
 | Face your fears | 22.00% | ~22 |
 | Playtime | 12.00% | ~12 |
@@ -58,7 +58,7 @@
 | Rocket Science | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 98 (Ranked 441)  
-Completed: 0 (0.00%) (Ranked 363)  
+Completed: 0 (0.00%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

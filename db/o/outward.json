@@ -6,9 +6,9 @@
   "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 204,
-  "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_Completed": 283,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -5826,9 +5826,9 @@
       "ID": "ExceptionalSkill_24",
       "SetID": "c4hee28",
       "Name": "Exceptional Skill",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 851
+      "UsersEstimate": 888
     },
     {
       "ID": "ForAllAurai_8",
@@ -6098,8 +6098,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-01T16:57:27.3862191+00:00",
-  "LastChanged_Achievements": "2023-12-01T22:03:59.0048349+00:00",
+  "LastChanged_Achievements": "2023-12-01T23:04:57.3305476+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:25.5279181+00:00",
-  "LastUpdate_Ratings": "2023-12-01T21:57:22.9319294+00:00",
-  "LastUpdate_Achievements": "2023-12-01T22:03:59.0048791+00:00"
+  "LastUpdate_Ratings": "2023-12-01T22:57:58.4323355+00:00",
+  "LastUpdate_Achievements": "2023-12-01T23:04:57.3305989+00:00"
 }
