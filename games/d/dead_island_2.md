@@ -5,14 +5,14 @@ Rating: 4.54 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,614 |
-| Git Gutte! | 2.00% | ~14,565 |
-| Break A Leg | 2.00% | ~14,565 |
-| Coup de Grâce | 2.00% | ~14,565 |
-| Hazardous Materials | 2.00% | ~14,565 |
-| Hotel California | 2.00% | ~14,565 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,565 |
-| Welcome To Hell-A | 2.00% | ~14,565 |
+| Whatever It Takes | 3.00% | ~1,615 |
+| Git Gutte! | 2.00% | ~14,566 |
+| Break A Leg | 2.00% | ~14,566 |
+| Coup de Grâce | 2.00% | ~14,566 |
+| Hazardous Materials | 2.00% | ~14,566 |
+| Hotel California | 2.00% | ~14,566 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,566 |
+| Welcome To Hell-A | 2.00% | ~14,566 |
 | One of Us | 2.00% | ~1,076 |
 | Pork Chopped | 2.00% | ~1,076 |
 | Dr. Reed, I Presume? | 1.00% | ~7,283 |
@@ -33,8 +33,8 @@ Rating: 4.54 (Ranked 528)
 | Stacking the Deck | 1.00% | ~7,283 |
 | Our True Nature | 1.00% | ~7,283 |
 | This is My Weapon | 1.00% | ~7,283 |
-| Making Your Mark | 0.90% | ~6,554 |
-| Max Headroom | 0.90% | ~6,554 |
+| Making Your Mark | 0.90% | ~6,555 |
+| Max Headroom | 0.90% | ~6,555 |
 | Humanity Distilled | 0.80% | ~5,826 |
 | Down with the Sickness | 0.80% | ~5,826 |
 | Not Even My Final Form | 0.70% | ~5,098 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 528)
 | Bucket List | 0.10% | ~728 |
 | Wilhelm | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,270 (Ranked 21)  
+Progressed: 728,278 (Ranked 21)  
 Completed: 2,456 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 2,456 (0.34%) (Ranked 231)
 | 2023-11-28 | 727,374 | 2,447 |
 | 2023-11-29 | 727,809 | 2,450 |
 | 2023-11-30 | 728,231 | 2,456 |
-| 2023-12-01 | 728,270 | 2,456 |
+| 2023-12-01 | 728,278 | 2,456 |
 ## Awards
 Max (Great Boss Battles): 7,821  (Ranked 49)  
 Sum: 11,987 (Ranked 84)  

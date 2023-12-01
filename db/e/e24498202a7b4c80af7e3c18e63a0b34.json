@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7126,
+  "EOS_Progressed": 7127,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -6479,6 +6479,11 @@
       "Time": "2023-12-01T02:01:37.1202251+00:00",
       "NumProgressed": 7126,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-12-01T04:05:15.1898873+00:00",
+      "NumProgressed": 7127,
+      "NumCompleted": 42
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -6515,7 +6520,7 @@
       "Name": "Bzzzt",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 5273
+      "UsersEstimate": 5274
     },
     {
       "ID": "achievement_01_05",
@@ -6523,7 +6528,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 3420
+      "UsersEstimate": 3421
     },
     {
       "ID": "achievement_01_06",
@@ -6547,7 +6552,7 @@
       "Name": "Trophy Collector",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 5344
+      "UsersEstimate": 5345
     },
     {
       "ID": "achievement_01_09",
@@ -6555,7 +6560,7 @@
       "Name": "Right Foot",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 3064
+      "UsersEstimate": 3065
     },
     {
       "ID": "achievement_01_10",
@@ -6563,7 +6568,7 @@
       "Name": "Beat the Clock",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 3919
+      "UsersEstimate": 3920
     },
     {
       "ID": "achievement_02_01",
@@ -6731,7 +6736,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 3420
+      "UsersEstimate": 3421
     },
     {
       "ID": "achievement_04_03",
@@ -6771,7 +6776,7 @@
       "Name": "Nitro Saver",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 3634
+      "UsersEstimate": 3635
     },
     {
       "ID": "achievement_04_08",
@@ -6779,7 +6784,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 6128
+      "UsersEstimate": 6129
     },
     {
       "ID": "achievement_04_09",
@@ -6794,7 +6799,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 7126,
+      "Progressed": 7127,
       "Completed": 42
     }
   ],
@@ -6802,8 +6807,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-11-30T01:44:39.305196+00:00",
-  "LastChanged_Achievements": "2023-12-01T03:04:38.7628298+00:00",
+  "LastChanged_Achievements": "2023-12-01T04:05:15.1898865+00:00",
   "LastUpdate_AppInfo": "2023-11-30T21:57:11.9207568+00:00",
-  "LastUpdate_Ratings": "2023-12-01T02:58:08.7269059+00:00",
-  "LastUpdate_Achievements": "2023-12-01T03:04:38.7628798+00:00"
+  "LastUpdate_Ratings": "2023-12-01T03:58:26.243277+00:00",
+  "LastUpdate_Achievements": "2023-12-01T04:05:15.1899661+00:00"
 }

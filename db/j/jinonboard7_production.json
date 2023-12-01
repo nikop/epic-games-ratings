@@ -1,9 +1,9 @@
 {
   "ID": "7629133f9206468e9a17e58875ed86ca",
   "Name": "jinonboard7 Production",
-  "Ranking_EOS_Progress": 766,
+  "Ranking_EOS_Progress": 768,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 495,
+  "Ranking_EOS_NewPlayers": 496,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:33:04.2816024+00:00",
-  "LastUpdate_Ratings": "2023-12-01T02:59:38.1777498+00:00",
-  "LastUpdate_Achievements": "2023-12-01T03:05:08.0790928+00:00"
+  "LastUpdate_Ratings": "2023-12-01T04:00:18.2349896+00:00",
+  "LastUpdate_Achievements": "2023-12-01T04:05:49.9501325+00:00"
 }

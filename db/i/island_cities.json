@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 815,
+  "EOS_Progressed": 816,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 16.32,
+  "EOS_Completed_Percentage": 16.3,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3451,6 +3451,11 @@
       "Time": "2023-12-01T03:05:28.9254084+00:00",
       "NumProgressed": 815,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2023-12-01T04:06:15.2018923+00:00",
+      "NumProgressed": 816,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 22,
@@ -3462,7 +3467,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "LEVEL_002",
@@ -3470,7 +3475,7 @@
       "Name": "A tiny town",
       "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "LEVEL_003",
@@ -3478,7 +3483,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "LEVEL_004",
@@ -3502,7 +3507,7 @@
       "Name": "Found an oasis",
       "Percentage": 43,
       "XP": 35,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "LEVEL_007",
@@ -3526,7 +3531,7 @@
       "Name": "Who loves trains?",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "LEVEL_010",
@@ -3558,7 +3563,7 @@
       "Name": "Elevated ring",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "LEVEL_014",
@@ -3622,7 +3627,7 @@
       "Name": "Happy Christmas night!",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "LEVEL_022",
@@ -3630,14 +3635,14 @@
       "Name": "Night walk along the beach",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 815,
+      "Progressed": 816,
       "Completed": 133
     }
   ],
@@ -3645,8 +3650,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-12-01T03:05:28.9254078+00:00",
+  "LastChanged_Achievements": "2023-12-01T04:06:15.2018921+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:17.2540089+00:00",
-  "LastUpdate_Ratings": "2023-12-01T03:00:43.1992995+00:00",
-  "LastUpdate_Achievements": "2023-12-01T03:05:28.9254358+00:00"
+  "LastUpdate_Ratings": "2023-12-01T04:01:38.9341111+00:00",
+  "LastUpdate_Achievements": "2023-12-01T04:06:15.2019183+00:00"
 }

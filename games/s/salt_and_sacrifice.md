@@ -14,7 +14,7 @@ Number of Ratings: 2,205  (23.09.2022)
 | Stock Up | 75.00% | ~50,643 |
 | The Hydromancer | 73.00% | ~49,293 |
 | The Matriarch | 70.00% | ~47,267 |
-| The Aeromancer | 65.00% | ~43,891 |
+| The Aeromancer | 66.00% | ~44,566 |
 | The Huntsman | 65.00% | ~43,891 |
 | The Venomancer | 65.00% | ~43,891 |
 | Dawnlight Order | 64.00% | ~43,215 |
@@ -288,7 +288,7 @@ Completed: 1,264 (1.87%) (Ranked 130)
 | 2023-12-01 | 67,524 | 1,264 |
 ## Awards
 Max (Character Customization): 989  (Ranked 154)  
-Sum: 1,990 (Ranked 215)  
+Sum: 1,991 (Ranked 215)  
 Diff (max vs sum): -61  
 | Award | Count |
 | ----- | ----- |
@@ -300,7 +300,7 @@ Diff (max vs sum): -61
 | This game has Unique Visuals | 61 |
 | This game is Highly Recommended | 59 |
 | This game has Quickly Understood Controls | 57 |
-| This game has Amazing Storytelling | 55 |
+| This game has Amazing Storytelling | 56 |
 | This game has Amazing Characters | 51 |
 | This game has Obsessive Gameplay | 39 |
 ## Ratings History
@@ -473,3 +473,4 @@ Diff (max vs sum): -61
 | 2023-11-27 | 4.31 | - | 988 | 1,987 |
 | 2023-11-29 | 4.31 | - | 988 | 1,988 |
 | 2023-11-30 | 4.31 | - | 989 | 1,990 |
+| 2023-12-01 | 4.31 | - | 989 | 1,991 |

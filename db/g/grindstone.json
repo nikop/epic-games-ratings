@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 495,
+  "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -213,9 +213,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5182,
+  "EOS_Progressed": 5183,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -903,6 +903,11 @@
       "Time": "2023-11-25T08:07:05.0730095+00:00",
       "NumProgressed": 5182,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-01T04:07:44.01495+00:00",
+      "NumProgressed": 5183,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -914,7 +919,7 @@
       "Name": "Employee of the Month",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1917
+      "UsersEstimate": 1918
     },
     {
       "ID": "ACHIEVE_3_OFFSHOOTS_COMPLETE",
@@ -930,7 +935,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1917
+      "UsersEstimate": 1918
     },
     {
       "ID": "ACHIEVE_50_BONES",
@@ -970,7 +975,7 @@
       "Name": "Jerk-Slayer",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2228
+      "UsersEstimate": 2229
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -1002,7 +1007,7 @@
       "Name": "Collected 50 mushrooms",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "ACHIEVE_50_SEEDS",
@@ -1010,7 +1015,7 @@
       "Name": "Budding Gardener",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "ACHIEVE_50_WOOD",
@@ -1018,7 +1023,7 @@
       "Name": "Timber!",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 3161
+      "UsersEstimate": 3162
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -1042,7 +1047,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5078
+      "UsersEstimate": 5079
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -1058,7 +1063,7 @@
       "Name": "Top of the Food Chain",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "ACHIEVE_DODGE",
@@ -1090,7 +1095,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2591
+      "UsersEstimate": 2592
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -1106,7 +1111,7 @@
       "Name": "Stop Hitting Each Other",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "ACHIEVE_JERK_POISON_DEATH",
@@ -1122,7 +1127,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4042
+      "UsersEstimate": 4043
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1138,7 +1143,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2798
+      "UsersEstimate": 2799
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -1186,7 +1191,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3057
+      "UsersEstimate": 3058
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -1202,7 +1207,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5078
+      "UsersEstimate": 5079
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1210,7 +1215,7 @@
       "Name": "Humerus Achievement",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "ACHIEVE_LVL_60_COMPLETE",
@@ -1258,7 +1263,7 @@
       "Name": "Death Defied",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 2798
+      "UsersEstimate": 2799
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -1290,7 +1295,7 @@
       "Name": "Pardon my Slob",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "ACHIEVE_WOKE_UP_INN",
@@ -1298,22 +1303,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3679
+      "UsersEstimate": 3680
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5182,
+      "Progressed": 5183,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-12-01T03:06:43.5488773+00:00",
+  "LastChanged_Achievements": "2023-12-01T04:07:44.0149495+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:52.6037155+00:00",
-  "LastUpdate_Ratings": "2023-12-01T02:59:58.6696054+00:00",
-  "LastUpdate_Achievements": "2023-12-01T03:06:43.5489076+00:00"
+  "LastUpdate_Ratings": "2023-12-01T04:00:42.6891003+00:00",
+  "LastUpdate_Achievements": "2023-12-01T04:07:44.014979+00:00"
 }

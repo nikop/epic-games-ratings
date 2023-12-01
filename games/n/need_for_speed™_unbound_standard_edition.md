@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 93.00% | ~10,616 |
+| Throwing up Tags | 93.00% | ~10,617 |
 | Cool Whip | 90.00% | ~10,274 |
-| Fashion Killa | 88.00% | ~10,045 |
-| Drop the Beat | 86.00% | ~9,817 |
-| Hey Lakeshore | 85.00% | ~9,703 |
+| Fashion Killa | 88.00% | ~10,046 |
+| Drop the Beat | 86.00% | ~9,818 |
+| Hey Lakeshore | 85.00% | ~9,704 |
 | 100 Miles and Runnin' | 84.00% | ~9,589 |
-| Public Enemy | 82.00% | ~9,360 |
-| Rebel Without a Pause | 68.00% | ~7,762 |
-| Hey Speedie! | 68.00% | ~7,762 |
+| Public Enemy | 82.00% | ~9,361 |
+| Rebel Without a Pause | 68.00% | ~7,763 |
+| Hey Speedie! | 68.00% | ~7,763 |
 | Most Wanted | 64.00% | ~7,306 |
-| New Crew | 62.00% | ~7,077 |
-| Escape Artist | 54.00% | ~6,164 |
+| New Crew | 62.00% | ~7,078 |
+| Escape Artist | 54.00% | ~6,165 |
 | Serious Guap | 53.00% | ~6,050 |
 | Style it Out | 53.00% | ~6,050 |
 | Untouchable | 52.00% | ~5,936 |
 | Oh, It's On | 50.00% | ~5,708 |
-| Rydell's Rydes | 49.00% | ~5,593 |
+| Rydell's Rydes | 49.00% | ~5,594 |
 | Cash Money Millionaire | 46.00% | ~5,251 |
 | Lake Better Watch Out | 39.00% | ~4,452 |
 | #Blessed | 34.00% | ~3,881 |
 | Access All Areas | 33.00% | ~3,767 |
 | Found Family | 31.00% | ~3,539 |
-| In the Flow | 29.00% | ~3,310 |
-| The Collector | 29.00% | ~3,310 |
-| Kick it | 29.00% | ~3,310 |
+| In the Flow | 29.00% | ~3,311 |
+| The Collector | 29.00% | ~3,311 |
+| Kick it | 29.00% | ~3,311 |
 | Top Billin' | 21.00% | ~2,397 |
 | Teacher's Pet | 20.00% | ~2,283 |
 | Full House | 18.00% | ~2,055 |
@@ -46,7 +46,7 @@
 | Catch My Drift | 2.00% | ~228 |
 | Cleaning Up | 2.00% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,415 (Ranked 161)  
+Progressed: 11,416 (Ranked 161)  
 Completed: 52 (0.46%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,4 +123,4 @@ Completed: 52 (0.46%) (Ranked 212)
 | 2023-11-28 | 11,263 | 52 |
 | 2023-11-29 | 11,330 | 52 |
 | 2023-11-30 | 11,406 | 52 |
-| 2023-12-01 | 11,415 | 52 |
+| 2023-12-01 | 11,416 | 52 |

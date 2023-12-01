@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 393,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1067,9 +1067,9 @@
       "ID": "MAIN_CLEAR_ISLAND2",
       "SetID": "apihg0e",
       "Name": "Ancient Defiance",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "MAIN_CLEAR_ISLAND3",
@@ -1234,8 +1234,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-01T03:08:08.0934014+00:00",
+  "LastChanged_Achievements": "2023-12-01T04:08:13.2752775+00:00",
   "LastUpdate_AppInfo": "2023-11-28T17:56:55.9843317+00:00",
-  "LastUpdate_Ratings": "2023-12-01T03:02:33.0087232+00:00",
-  "LastUpdate_Achievements": "2023-12-01T03:08:08.0934347+00:00"
+  "LastUpdate_Ratings": "2023-12-01T04:02:42.4230306+00:00",
+  "LastUpdate_Achievements": "2023-12-01T04:08:13.2753025+00:00"
 }

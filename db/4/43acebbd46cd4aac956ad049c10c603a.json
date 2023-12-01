@@ -6,7 +6,7 @@
   "Ranking_Popularity": 468,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 277,
-  "Ranking_EOS_Completed": 279,
+  "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
@@ -171,7 +171,7 @@
   ],
   "EOS_Progressed": 800,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1964,9 +1964,9 @@
       "ID": "HighPlain",
       "SetID": "1n308hc",
       "Name": "High Plain",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "IntoTheMachine",
@@ -2004,9 +2004,9 @@
       "ID": "MistressOfRiddles",
       "SetID": "1n308hc",
       "Name": "Mistress of Riddles",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 32
     },
     {
       "ID": "Mnemosyne",
@@ -2036,9 +2036,9 @@
       "ID": "NewBeginning",
       "SetID": "1n308hc",
       "Name": "A New Beginning",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NewMorality",
@@ -2164,9 +2164,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 24
     },
     {
       "ID": "TheEdgeOfForever",
@@ -2285,8 +2285,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-30T22:00:34.4965769+00:00",
-  "LastChanged_Achievements": "2023-12-01T03:03:19.2903139+00:00",
+  "LastChanged_Achievements": "2023-12-01T04:03:41.1005902+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-01T02:59:50.3073011+00:00",
-  "LastUpdate_Achievements": "2023-12-01T03:03:19.2903605+00:00"
+  "LastUpdate_Ratings": "2023-12-01T04:00:32.2317553+00:00",
+  "LastUpdate_Achievements": "2023-12-01T04:03:41.1006333+00:00"
 }

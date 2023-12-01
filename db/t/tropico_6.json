@@ -2,12 +2,12 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 314,
+  "Ranking_Rating": 315,
   "Ranking_Popularity": 357,
   "Ranking_PopularitySum": 291,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1333,10 +1333,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 733,
       "NumberOfAwardsMax": 103
+    },
+    {
+      "Time": "2023-12-01T03:57:15.367055+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 734,
+      "NumberOfAwardsMax": 103
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 733,
+  "NumberOfAwards": 734,
   "NumberOfAwardsMax": 103,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1350,7 +1356,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 99
+      "Count": 100
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1409,7 +1415,7 @@
   ],
   "EOS_Progressed": 6180,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14023,9 +14029,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2023-11-28T16:59:19.4860369+00:00",
-  "LastChanged_Achievements": "2023-12-01T03:09:06.4013321+00:00",
+  "LastChanged": "2023-12-01T03:57:15.3670548+00:00",
+  "LastChanged_Achievements": "2023-12-01T04:09:21.8709234+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:22.1116703+00:00",
-  "LastUpdate_Ratings": "2023-12-01T02:57:12.3586468+00:00",
-  "LastUpdate_Achievements": "2023-12-01T03:09:06.4014086+00:00"
+  "LastUpdate_Ratings": "2023-12-01T03:57:15.3670553+00:00",
+  "LastUpdate_Achievements": "2023-12-01T04:09:21.8710059+00:00"
 }

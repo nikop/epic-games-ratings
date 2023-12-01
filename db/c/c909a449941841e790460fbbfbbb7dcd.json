@@ -883,9 +883,9 @@
       "ID": "DEFEATED_1000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Assassin",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 60,
-      "UsersEstimate": 113
+      "UsersEstimate": 115
     },
     {
       "ID": "DEFEATED_100_ENEMIES",
@@ -1002,8 +1002,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-12-01T03:06:15.908297+00:00",
+  "LastChanged_Achievements": "2023-12-01T04:07:12.1525158+00:00",
   "LastUpdate_AppInfo": "2023-11-28T21:56:51.870675+00:00",
-  "LastUpdate_Ratings": "2023-12-01T03:00:05.9775428+00:00",
-  "LastUpdate_Achievements": "2023-12-01T03:06:15.9083099+00:00"
+  "LastUpdate_Ratings": "2023-12-01T04:00:52.0575667+00:00",
+  "LastUpdate_Achievements": "2023-12-01T04:07:12.1525321+00:00"
 }

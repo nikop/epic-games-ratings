@@ -11295,9 +11295,9 @@
       "Count": 825
     }
   ],
-  "EOS_Progressed": 303669,
+  "EOS_Progressed": 303671,
   "EOS_Completed": 519,
-  "EOS_NewPlayers": 813,
+  "EOS_NewPlayers": 808,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -35495,6 +35495,11 @@
       "Time": "2023-12-01T03:09:05.0276962+00:00",
       "NumProgressed": 303669,
       "NumCompleted": 519
+    },
+    {
+      "Time": "2023-12-01T04:09:20.3381142+00:00",
+      "NumProgressed": 303671,
+      "NumCompleted": 519
     }
   ],
   "TotalAchievements": 45,
@@ -35562,7 +35567,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36440
+      "UsersEstimate": 36441
     },
     {
       "ID": "PFA_17",
@@ -35594,7 +35599,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15183
+      "UsersEstimate": 15184
     },
     {
       "ID": "PFA_20",
@@ -35634,7 +35639,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36440
+      "UsersEstimate": 36441
     },
     {
       "ID": "PFA_25",
@@ -35690,7 +35695,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36440
+      "UsersEstimate": 36441
     },
     {
       "ID": "PFA_31",
@@ -35770,7 +35775,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15183
+      "UsersEstimate": 15184
     },
     {
       "ID": "PFA_40",
@@ -35786,7 +35791,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 15183
+      "UsersEstimate": 15184
     },
     {
       "ID": "PFA_42",
@@ -35834,7 +35839,7 @@
       "Name": "First Class Student",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45550
+      "UsersEstimate": 45551
     },
     {
       "ID": "PFA_7",
@@ -35865,7 +35870,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303669,
+      "Progressed": 303671,
       "Completed": 519
     }
   ],
@@ -35873,8 +35878,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-30T23:57:24.6912704+00:00",
-  "LastChanged_Achievements": "2023-12-01T03:09:05.0276958+00:00",
+  "LastChanged_Achievements": "2023-12-01T04:09:20.3381138+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7292094+00:00",
-  "LastUpdate_Ratings": "2023-12-01T02:57:26.4799067+00:00",
-  "LastUpdate_Achievements": "2023-12-01T03:09:05.0278301+00:00"
+  "LastUpdate_Ratings": "2023-12-01T03:57:33.1388219+00:00",
+  "LastUpdate_Achievements": "2023-12-01T04:09:20.3382306+00:00"
 }

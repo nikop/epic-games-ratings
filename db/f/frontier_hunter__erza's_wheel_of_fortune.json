@@ -1516,9 +1516,9 @@
       "ID": "ACHIEVEMENT_19",
       "SetID": "7pimpda",
       "Name": "Mermaid Killer",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 60
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -1805,8 +1805,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-01T03:05:50.7691536+00:00",
+  "LastChanged_Achievements": "2023-12-01T04:06:41.7596117+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-12-01T02:59:37.9122076+00:00",
-  "LastUpdate_Achievements": "2023-12-01T03:05:50.7691885+00:00"
+  "LastUpdate_Ratings": "2023-12-01T04:00:17.8694359+00:00",
+  "LastUpdate_Achievements": "2023-12-01T04:06:41.7596439+00:00"
 }

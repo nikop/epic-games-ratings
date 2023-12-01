@@ -1,20 +1,20 @@
 # Black Book
 [Store](https://store.epicgames.com/en-US/p/black-book)  
 [View Rawdata](../../db/b/black_book.json)  
-Rating: 4.65 (Ranked 314)  
+Rating: 4.65 (Ranked 315)  
 Number of Ratings: 96  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 28.00% | ~15,976 |
+| Initiation | 28.00% | ~15,977 |
 | Student | 22.00% | ~12,553 |
-| Knower | 16.00% | ~9,129 |
+| Knower | 16.00% | ~9,130 |
 | Listener | 15.00% | ~8,559 |
 | Aspen Tree | 14.00% | ~7,988 |
 | Healer | 14.00% | ~7,988 |
 | Soldier | 12.00% | ~6,847 |
-| Cow Level | 11.00% | ~6,276 |
-| Scientist | 11.00% | ~6,276 |
+| Cow Level | 11.00% | ~6,277 |
+| Scientist | 11.00% | ~6,277 |
 | Water | 10.00% | ~5,706 |
 | Old Friend | 9.00% | ~5,135 |
 | Herbalist | 9.00% | ~5,135 |
@@ -34,12 +34,12 @@ Number of Ratings: 96  (23.09.2022)
 | 100 Friends | 7.00% | ~3,994 |
 | Researcher | 7.00% | ~3,994 |
 | Savvy | 7.00% | ~3,994 |
-| Encyclopedist | 6.00% | ~3,423 |
-| Witch | 6.00% | ~3,423 |
-| Old Spirits | 6.00% | ~3,423 |
-| Sinner | 6.00% | ~3,423 |
-| Folklorist | 6.00% | ~3,423 |
-| Keeper of Knowledge | 6.00% | ~3,423 |
+| Encyclopedist | 6.00% | ~3,424 |
+| Witch | 6.00% | ~3,424 |
+| Old Spirits | 6.00% | ~3,424 |
+| Sinner | 6.00% | ~3,424 |
+| Folklorist | 6.00% | ~3,424 |
+| Keeper of Knowledge | 6.00% | ~3,424 |
 | Vorsa | 5.00% | ~2,853 |
 | Susanin | 5.00% | ~2,853 |
 | Traveller | 5.00% | ~2,853 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,141 |
 | Word Master | 0.20% | ~114 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,058 (Ranked 109)  
+Progressed: 57,060 (Ranked 109)  
 Completed: 57 (0.10%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 57 (0.10%) (Ranked 287)
 | 2023-11-28 | 56,657 | 56 |
 | 2023-11-29 | 56,849 | 56 |
 | 2023-11-30 | 57,036 | 57 |
-| 2023-12-01 | 57,058 | 57 |
+| 2023-12-01 | 57,060 | 57 |
 ## Awards
 Max (Character Customization): 90  (Ranked 381)  
 Sum: 90 (Ranked 457)  

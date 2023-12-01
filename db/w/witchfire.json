@@ -2,12 +2,12 @@
   "ID": "2e404271085e4eb480f48c3d2e5f08ed",
   "Name": "Witchfire",
   "ProductSlug": "witchfire-db273e",
-  "Ranking_Rating": 368,
+  "Ranking_Rating": 387,
   "Ranking_Popularity": 443,
   "Ranking_PopularitySum": 373,
-  "Ranking_EOS_Progress": 766,
+  "Ranking_EOS_Progress": 768,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 495,
+  "Ranking_EOS_NewPlayers": 496,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-09-20T14:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.62,
+  "Rating": 4.61,
   "RatingHistory": [
     {
       "Time": "2023-09-21T14:59:00.9142333+00:00",
@@ -839,10 +839,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 280,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2023-12-01T03:57:59.7485602+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 281,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 280,
+  "NumberOfAwards": 281,
   "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -886,7 +892,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game has Competitive Players",
@@ -919,8 +925,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-20T14:59:38.0794771+00:00",
   "FirstSeenRating": "2023-09-21T14:59:00.914233+00:00",
-  "LastChanged": "2023-12-01T01:54:39.6262802+00:00",
+  "LastChanged": "2023-12-01T03:57:59.7485601+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:08.0053278+00:00",
-  "LastUpdate_Ratings": "2023-12-01T02:57:48.142868+00:00",
-  "LastUpdate_Achievements": "2023-12-01T03:07:54.9934305+00:00"
+  "LastUpdate_Ratings": "2023-12-01T03:57:59.7485605+00:00",
+  "LastUpdate_Achievements": "2023-12-01T04:07:57.1047608+00:00"
 }

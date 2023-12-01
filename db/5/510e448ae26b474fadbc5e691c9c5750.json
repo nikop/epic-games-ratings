@@ -2,9 +2,9 @@
   "ID": "510e448ae26b474fadbc5e691c9c5750",
   "Name": "Movie Actor Trivia",
   "ProductSlug": "movie-actor-trivia-2816f9",
-  "Ranking_EOS_Progress": 766,
+  "Ranking_EOS_Progress": 768,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 495,
+  "Ranking_EOS_NewPlayers": 496,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-06-09T23:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-30T16:57:24.6805678+00:00",
-  "LastUpdate_Ratings": "2023-12-01T02:58:43.2860951+00:00",
-  "LastUpdate_Achievements": "2023-12-01T03:02:56.4337889+00:00"
+  "LastUpdate_Ratings": "2023-12-01T03:59:10.2481007+00:00",
+  "LastUpdate_Achievements": "2023-12-01T04:03:14.0229309+00:00"
 }

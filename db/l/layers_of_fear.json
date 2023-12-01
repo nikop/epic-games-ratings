@@ -656,9 +656,9 @@
       "ID": "find_one_memento",
       "SetID": "f2im8d",
       "Name": "Scraps of love",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "find_one_photo",
@@ -776,9 +776,9 @@
       "ID": "piece_of_story",
       "SetID": "f2im8d",
       "Name": "A piece of the story",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "playtime",
@@ -927,8 +927,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-01T03:06:04.6626071+00:00",
+  "LastChanged_Achievements": "2023-12-01T04:06:58.7937107+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:59.9446154+00:00",
-  "LastUpdate_Ratings": "2023-12-01T02:59:35.1714858+00:00",
-  "LastUpdate_Achievements": "2023-12-01T03:06:04.662645+00:00"
+  "LastUpdate_Ratings": "2023-12-01T04:00:14.4847397+00:00",
+  "LastUpdate_Achievements": "2023-12-01T04:06:58.7937408+00:00"
 }

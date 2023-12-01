@@ -3175,10 +3175,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 5288,
       "NumberOfAwardsMax": 1636
+    },
+    {
+      "Time": "2023-12-01T04:02:50.7771327+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 5289,
+      "NumberOfAwardsMax": 1636
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5288,
+  "NumberOfAwards": 5289,
   "NumberOfAwardsMax": 1636,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3216,7 +3222,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 376
+      "Count": 377
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3257,7 +3263,7 @@
   ],
   "EOS_Progressed": 9424,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 504,
+  "EOS_NewPlayers": 501,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10486,9 +10492,9 @@
       "ID": "ach48",
       "SetID": "47in8n6",
       "Name": "Total Disrespect",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 2073
+      "UsersEstimate": 1979
     },
     {
       "ID": "ach49",
@@ -10518,9 +10524,9 @@
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-12-01T01:59:46.6024565+00:00",
-  "LastChanged_Achievements": "2023-12-01T03:06:36.4498646+00:00",
+  "LastChanged": "2023-12-01T04:02:50.7771325+00:00",
+  "LastChanged_Achievements": "2023-12-01T04:07:35.5369606+00:00",
   "LastUpdate_AppInfo": "2023-11-25T10:57:15.5645679+00:00",
-  "LastUpdate_Ratings": "2023-12-01T03:02:39.1648163+00:00",
-  "LastUpdate_Achievements": "2023-12-01T03:06:36.449941+00:00"
+  "LastUpdate_Ratings": "2023-12-01T04:02:50.7771333+00:00",
+  "LastUpdate_Achievements": "2023-12-01T04:07:35.5370295+00:00"
 }

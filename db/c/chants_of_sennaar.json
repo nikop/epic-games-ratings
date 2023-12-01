@@ -3379,9 +3379,9 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 156
+      "UsersEstimate": 164
     },
     {
       "ID": "META_RESULT_1-2",
@@ -3546,8 +3546,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-01T03:05:41.1895041+00:00",
+  "LastChanged_Achievements": "2023-12-01T04:06:29.8955415+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-12-01T02:59:16.3235589+00:00",
-  "LastUpdate_Achievements": "2023-12-01T03:05:41.1895365+00:00"
+  "LastUpdate_Ratings": "2023-12-01T03:59:51.293419+00:00",
+  "LastUpdate_Achievements": "2023-12-01T04:06:29.8955756+00:00"
 }

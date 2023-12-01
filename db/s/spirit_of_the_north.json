@@ -333,7 +333,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 75609,
+  "EOS_Progressed": 75610,
   "EOS_Completed": 404,
   "EOS_NewPlayers": 617,
   "EOS_NewCompleters": 5,
@@ -25058,6 +25058,11 @@
       "Time": "2023-12-01T03:08:31.9142893+00:00",
       "NumProgressed": 75609,
       "NumCompleted": 404
+    },
+    {
+      "Time": "2023-12-01T04:08:40.6932428+00:00",
+      "NumProgressed": 75610,
+      "NumCompleted": 404
     }
   ],
   "TotalAchievements": 24,
@@ -25085,7 +25090,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 52170
+      "UsersEstimate": 52171
     },
     {
       "ID": "BEST_FRIENDS",
@@ -25101,7 +25106,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 19658
+      "UsersEstimate": 19659
     },
     {
       "ID": "ERADICATE",
@@ -25237,7 +25242,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12097
+      "UsersEstimate": 12098
     },
     {
       "ID": "WEIGHTLESS",
@@ -25253,14 +25258,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 12097
+      "UsersEstimate": 12098
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 75609,
+      "Progressed": 75610,
       "Completed": 404
     }
   ],
@@ -25268,8 +25273,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-12-01T03:08:31.9142886+00:00",
+  "LastChanged_Achievements": "2023-12-01T04:08:40.6932425+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:00.17465+00:00",
-  "LastUpdate_Ratings": "2023-12-01T02:58:35.8860756+00:00",
-  "LastUpdate_Achievements": "2023-12-01T03:08:31.9144407+00:00"
+  "LastUpdate_Ratings": "2023-12-01T03:59:00.8093096+00:00",
+  "LastUpdate_Achievements": "2023-12-01T04:08:40.6933693+00:00"
 }

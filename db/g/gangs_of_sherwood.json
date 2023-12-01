@@ -2,7 +2,7 @@
   "ID": "f76aab05872f4293bb5f46485cb2f16c",
   "Name": "Gangs of Sherwood",
   "ProductSlug": "gangs-of-sherwood",
-  "Ranking_EOS_Progress": 526,
+  "Ranking_EOS_Progress": 522,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 139,
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 35,
+  "EOS_Progressed": 36,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
@@ -175,6 +175,11 @@
       "Time": "2023-12-01T03:03:55.2989472+00:00",
       "NumProgressed": 35,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T04:04:23.8282924+00:00",
+      "NumProgressed": 36,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-21T10:10:18.7530566+00:00",
@@ -185,7 +190,7 @@
       "ID": "ACH_100_ARROW",
       "SetID": "5akmpni",
       "Name": "Starry Night",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 30,
       "UsersEstimate": 13
     },
@@ -193,7 +198,7 @@
       "ID": "ACH_100_CHARGE",
       "SetID": "5akmpni",
       "Name": "Ascending Will",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -217,7 +222,7 @@
       "ID": "ACH_100_HIT_COMBO",
       "SetID": "5akmpni",
       "Name": "Ultra Combo",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -235,7 +240,7 @@
       "Name": "Air Fighter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_ALL_CHALENGES",
@@ -297,7 +302,7 @@
       "ID": "ACH_COMPLETE_ACTS_REGULAR",
       "SetID": "5akmpni",
       "Name": "The Gang prevails",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -313,15 +318,15 @@
       "ID": "ACH_COMPLETE_TUTO",
       "SetID": "5akmpni",
       "Name": "Oo-De-Lally",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_COOP_MISSIONS",
       "SetID": "5akmpni",
       "Name": "Merry Co-operation",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
       "UsersEstimate": 15
     },
@@ -329,7 +334,7 @@
       "ID": "ACH_ENCOUNTER_S_RANK",
       "SetID": "5akmpni",
       "Name": "Savior",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 12
     },
@@ -337,7 +342,7 @@
       "ID": "ACH_ENEMY_FIRE",
       "SetID": "5akmpni",
       "Name": "Tap Dancing",
-      "Percentage": 63,
+      "Percentage": 61,
       "XP": 10,
       "UsersEstimate": 22
     },
@@ -345,7 +350,7 @@
       "ID": "ACH_ENEMY_LEDGE_FALL",
       "SetID": "5akmpni",
       "Name": "Watch your Step!",
-      "Percentage": 66,
+      "Percentage": 64,
       "XP": 10,
       "UsersEstimate": 23
     },
@@ -369,7 +374,7 @@
       "ID": "ACH_EQUIP_ARTIFACT",
       "SetID": "5akmpni",
       "Name": "Treasure Hunter",
-      "Percentage": 74,
+      "Percentage": 72,
       "XP": 5,
       "UsersEstimate": 26
     },
@@ -385,7 +390,7 @@
       "ID": "ACH_FINISHER",
       "SetID": "5akmpni",
       "Name": "Finish Him!",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -395,7 +400,7 @@
       "Name": "Act of Kindness",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_GRAPPLE_ENEMY",
@@ -409,9 +414,9 @@
       "ID": "ACH_HEADSHOT_KILL",
       "SetID": "5akmpni",
       "Name": "Right between the eyes",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_HIGH_FIVE",
@@ -433,7 +438,7 @@
       "ID": "ACH_KILL_GISBORNE",
       "SetID": "5akmpni",
       "Name": "Locksley\u0027s Tears",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -441,7 +446,7 @@
       "ID": "ACH_KILL_KIRKLEES",
       "SetID": "5akmpni",
       "Name": "Hidden Experiment",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -457,7 +462,7 @@
       "ID": "ACH_KILL_RAM",
       "SetID": "5akmpni",
       "Name": "Assault on the Ram",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -465,7 +470,7 @@
       "ID": "ACH_KILL_SHERIFF",
       "SetID": "5akmpni",
       "Name": "Into the Lion\u0027s Den",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -473,7 +478,7 @@
       "ID": "ACH_LAUNCH_ENEMY",
       "SetID": "5akmpni",
       "Name": "Spring Board",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 20,
       "UsersEstimate": 14
     },
@@ -481,7 +486,7 @@
       "ID": "ACH_LONG_REBEL_INSTINCT",
       "SetID": "5akmpni",
       "Name": "Ultra Rebel Instinct",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
       "UsersEstimate": 7
     },
@@ -497,7 +502,7 @@
       "ID": "ACH_MONEY_TO_POOR",
       "SetID": "5akmpni",
       "Name": "The Altruist",
-      "Percentage": 80,
+      "Percentage": 78,
       "XP": 20,
       "UsersEstimate": 28
     },
@@ -545,7 +550,7 @@
       "ID": "ACH_REPUTATION_LVL_4",
       "SetID": "5akmpni",
       "Name": "MAX LEVEL",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -561,7 +566,7 @@
       "ID": "ACH_THROW_ENEMY",
       "SetID": "5akmpni",
       "Name": "Merry Go Round",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -610,14 +615,14 @@
     {
       "ID": "5akmpni",
       "IsBase": true,
-      "Progressed": 35,
+      "Progressed": 36,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-12-01T03:03:55.2989468+00:00",
+  "LastChanged_Achievements": "2023-12-01T04:04:23.828292+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:56.6360588+00:00",
-  "LastUpdate_Ratings": "2023-12-01T02:59:33.2600035+00:00",
-  "LastUpdate_Achievements": "2023-12-01T03:03:55.2989788+00:00"
+  "LastUpdate_Ratings": "2023-12-01T04:00:12.0285718+00:00",
+  "LastUpdate_Achievements": "2023-12-01T04:04:23.8283326+00:00"
 }

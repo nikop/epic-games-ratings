@@ -551,9 +551,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 41872,
+  "EOS_Progressed": 41873,
   "EOS_Completed": 179,
-  "EOS_NewPlayers": 1072,
+  "EOS_NewPlayers": 1070,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -8966,6 +8966,11 @@
       "Time": "2023-12-01T03:08:07.1295921+00:00",
       "NumProgressed": 41872,
       "NumCompleted": 179
+    },
+    {
+      "Time": "2023-12-01T04:08:11.9833318+00:00",
+      "NumProgressed": 41873,
+      "NumCompleted": 179
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -9138,7 +9143,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 21773
+      "UsersEstimate": 21774
     },
     {
       "ID": "ACH_PEAK",
@@ -9170,7 +9175,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 28473
+      "UsersEstimate": 28474
     },
     {
       "ID": "ACH_S4",
@@ -9194,7 +9199,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 31404
+      "UsersEstimate": 31405
     },
     {
       "ID": "ACH_STATUE",
@@ -9209,15 +9214,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 41872,
+      "Progressed": 41873,
       "Completed": 179
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-11-25T10:58:21.218684+00:00",
-  "LastChanged_Achievements": "2023-12-01T03:08:07.1295917+00:00",
+  "LastChanged_Achievements": "2023-12-01T04:08:11.9833316+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:06.5276065+00:00",
-  "LastUpdate_Ratings": "2023-12-01T02:57:14.3113136+00:00",
-  "LastUpdate_Achievements": "2023-12-01T03:08:07.1296407+00:00"
+  "LastUpdate_Ratings": "2023-12-01T03:57:17.803127+00:00",
+  "LastUpdate_Achievements": "2023-12-01T04:08:11.9833741+00:00"
 }

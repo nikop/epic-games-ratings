@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 320,
+  "EOS_Progressed": 321,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -969,6 +969,11 @@
       "Time": "2023-11-30T19:05:58.0963255+00:00",
       "NumProgressed": 320,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T04:05:33.2916913+00:00",
+      "NumProgressed": 321,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1037,7 +1042,7 @@
       "Name": "Turn a Rat into a Snack",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "REMAKE_002",
@@ -1045,7 +1050,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "REMAKE_004",
@@ -1053,7 +1058,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "Remake_005",
@@ -1131,9 +1136,9 @@
       "ID": "Remake_14",
       "SetID": "5pi96jj",
       "Name": "This is not how you play Slip and Die",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 6
     },
     {
       "ID": "Remake_15",
@@ -1179,9 +1184,9 @@
       "ID": "Remake_20",
       "SetID": "5pi96jj",
       "Name": "Dug Straight Down",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 6
     },
     {
       "ID": "Remake_21",
@@ -1197,21 +1202,21 @@
       "Name": "Escape Lookout Cove",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     }
   ],
   "AchievementSets": [
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 320,
+      "Progressed": 321,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-01T03:04:54.2489863+00:00",
+  "LastChanged_Achievements": "2023-12-01T04:05:33.2916908+00:00",
   "LastUpdate_AppInfo": "2023-11-27T21:57:11.1049797+00:00",
-  "LastUpdate_Ratings": "2023-12-01T02:59:52.9629377+00:00",
-  "LastUpdate_Achievements": "2023-12-01T03:04:54.249005+00:00"
+  "LastUpdate_Ratings": "2023-12-01T04:00:35.6474481+00:00",
+  "LastUpdate_Achievements": "2023-12-01T04:05:33.2917155+00:00"
 }

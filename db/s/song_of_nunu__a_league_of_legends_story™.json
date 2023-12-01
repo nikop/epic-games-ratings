@@ -2,9 +2,9 @@
   "ID": "c7ab6cc723fe4bc6b24237d61b58687b",
   "Name": "Song of Nunu: A League of Legends Story",
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
-  "Ranking_EOS_Progress": 264,
+  "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1033,
+  "EOS_Progressed": 1037,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -2252,6 +2252,11 @@
       "Time": "2023-12-01T02:06:21.6511794+00:00",
       "NumProgressed": 1033,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-01T04:09:22.1678063+00:00",
+      "NumProgressed": 1037,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-10-23T06:09:19.5228409+00:00",
@@ -2264,7 +2269,7 @@
       "Name": "Blue Dreams",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 682
+      "UsersEstimate": 684
     },
     {
       "ID": "EV_ACH02",
@@ -2272,7 +2277,7 @@
       "Name": "My Darkest Day",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 506
+      "UsersEstimate": 508
     },
     {
       "ID": "EV_ACH03",
@@ -2280,15 +2285,15 @@
       "Name": "He\u0027s Famous!",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 682
+      "UsersEstimate": 684
     },
     {
       "ID": "EV_ACH04",
       "SetID": "6jeac23",
       "Name": "No Bites",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 568
+      "UsersEstimate": 560
     },
     {
       "ID": "EV_ACH05",
@@ -2296,7 +2301,7 @@
       "Name": "Tear of Freedom",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 537
+      "UsersEstimate": 539
     },
     {
       "ID": "EV_ACH06",
@@ -2304,7 +2309,7 @@
       "Name": "A Tragic Reminder",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "EV_ACH07",
@@ -2312,7 +2317,7 @@
       "Name": "3000 Year Blackout",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "EV_ACH08",
@@ -2320,7 +2325,7 @@
       "Name": "So Close",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 413
+      "UsersEstimate": 415
     },
     {
       "ID": "EV_ACH09",
@@ -2328,7 +2333,7 @@
       "Name": "You Get Used To It",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 413
+      "UsersEstimate": 415
     },
     {
       "ID": "EV_ACH10",
@@ -2336,7 +2341,7 @@
       "Name": "Family",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 384
     },
     {
       "ID": "EV_ACH11",
@@ -2344,7 +2349,7 @@
       "Name": "Biggest Snowball Ever",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 384
     },
     {
       "ID": "EV_ACH12",
@@ -2352,7 +2357,7 @@
       "Name": "Freeze The Ice Witch",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 382
+      "UsersEstimate": 384
     },
     {
       "ID": "EV_ACH13",
@@ -2360,7 +2365,7 @@
       "Name": "It Is Not Over",
       "Percentage": 34,
       "XP": 90,
-      "UsersEstimate": 351
+      "UsersEstimate": 353
     },
     {
       "ID": "EV_ACH14",
@@ -2368,7 +2373,7 @@
       "Name": "Boom Things",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 537
+      "UsersEstimate": 539
     },
     {
       "ID": "EV_ACH15",
@@ -2376,7 +2381,7 @@
       "Name": "Better On Ice",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 702
+      "UsersEstimate": 705
     },
     {
       "ID": "EV_ACH16",
@@ -2384,15 +2389,15 @@
       "Name": "Krugmazing",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 661
+      "UsersEstimate": 664
     },
     {
       "ID": "EV_ACH17",
       "SetID": "6jeac23",
       "Name": "Iceborn",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 568
+      "UsersEstimate": 560
     },
     {
       "ID": "EV_ACH18",
@@ -2400,7 +2405,7 @@
       "Name": "Snowy Poro",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "EV_ACH19",
@@ -2408,7 +2413,7 @@
       "Name": "On The Rocks",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 353
     },
     {
       "ID": "EV_ACH20",
@@ -2416,7 +2421,7 @@
       "Name": "True Legends",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "EV_ACH21",
@@ -2432,7 +2437,7 @@
       "Name": "Bullseye",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "EV_ACH23",
@@ -2440,7 +2445,7 @@
       "Name": "Yummy",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "EV_ACH24",
@@ -2448,7 +2453,7 @@
       "Name": "Never Gets Old",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "EV_ACH25",
@@ -2456,7 +2461,7 @@
       "Name": "Rhythm Of Willump",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 475
+      "UsersEstimate": 477
     },
     {
       "ID": "EV_ACH26",
@@ -2464,7 +2469,7 @@
       "Name": "Moneyball",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 630
+      "UsersEstimate": 633
     },
     {
       "ID": "EV_ACH27",
@@ -2472,7 +2477,7 @@
       "Name": "I Broke It",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 754
+      "UsersEstimate": 757
     },
     {
       "ID": "EV_ACH28",
@@ -2488,7 +2493,7 @@
       "Name": "Cutie Poro",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 682
+      "UsersEstimate": 684
     },
     {
       "ID": "EV_ACH30",
@@ -2504,7 +2509,7 @@
       "Name": "Feels Familiar",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 775
+      "UsersEstimate": 778
     },
     {
       "ID": "EV_ACH32",
@@ -2512,7 +2517,7 @@
       "Name": "It Was Him",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "EV_ACH33",
@@ -2520,7 +2525,7 @@
       "Name": "Notai Notes",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 692
+      "UsersEstimate": 695
     },
     {
       "ID": "EV_ACH34",
@@ -2536,7 +2541,7 @@
       "Name": "The Fire Below the Mountain",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 630
+      "UsersEstimate": 633
     },
     {
       "ID": "EV_ACH36",
@@ -2544,7 +2549,7 @@
       "Name": "The Relentless Storm",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 475
+      "UsersEstimate": 477
     },
     {
       "ID": "EV_ACH37",
@@ -2552,7 +2557,7 @@
       "Name": "The Finisher",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 434
+      "UsersEstimate": 436
     },
     {
       "ID": "EV_ACH38",
@@ -2560,7 +2565,7 @@
       "Name": "Vertical Power",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "EV_ACH39",
@@ -2568,7 +2573,7 @@
       "Name": "Boosted!",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 384
     },
     {
       "ID": "EV_ACH40",
@@ -2584,7 +2589,7 @@
       "Name": "Handy Yeti",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "EV_ACH42",
@@ -2592,7 +2597,7 @@
       "Name": "Deadliest and Biggest Snowball Ever!",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 384
     },
     {
       "ID": "EV_ACH43",
@@ -2608,21 +2613,21 @@
       "Name": "Snowball Fightn\u0027t",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     }
   ],
   "AchievementSets": [
     {
       "ID": "6jeac23",
       "IsBase": true,
-      "Progressed": 1033,
+      "Progressed": 1037,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-12-01T03:09:06.6396906+00:00",
+  "LastChanged_Achievements": "2023-12-01T04:09:22.1678059+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:19.9678993+00:00",
-  "LastUpdate_Ratings": "2023-12-01T02:57:05.4455457+00:00",
-  "LastUpdate_Achievements": "2023-12-01T03:09:06.6397274+00:00"
+  "LastUpdate_Ratings": "2023-12-01T03:57:06.3321119+00:00",
+  "LastUpdate_Achievements": "2023-12-01T04:09:22.1678441+00:00"
 }

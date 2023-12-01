@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 343,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -193,7 +193,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8184,
+  "EOS_Progressed": 8185,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 0,
@@ -7773,6 +7773,11 @@
       "Time": "2023-11-30T22:10:08.6464368+00:00",
       "NumProgressed": 8184,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-01T04:09:19.7940473+00:00",
+      "NumProgressed": 8185,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -7785,7 +7790,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5892
+      "UsersEstimate": 5893
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -7881,7 +7886,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3519
+      "UsersEstimate": 3520
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -7889,7 +7894,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 4010
+      "UsersEstimate": 4011
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -7921,7 +7926,7 @@
       "Name": "Humble Collector",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3519
+      "UsersEstimate": 3520
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -7937,7 +7942,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 4992
+      "UsersEstimate": 4993
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -7961,7 +7966,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3846
+      "UsersEstimate": 3847
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -8001,7 +8006,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1882
+      "UsersEstimate": 1883
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -8064,22 +8069,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8184,
+      "Progressed": 8185,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 801,
-      "Completed": 801
+      "Progressed": 802,
+      "Completed": 802
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-26T23:02:38.616334+00:00",
-  "LastChanged_Achievements": "2023-12-01T03:09:04.5682082+00:00",
+  "LastChanged_Achievements": "2023-12-01T04:09:19.7940471+00:00",
   "LastUpdate_AppInfo": "2023-11-24T08:57:08.562767+00:00",
-  "LastUpdate_Ratings": "2023-12-01T03:02:42.8025769+00:00",
-  "LastUpdate_Achievements": "2023-12-01T03:09:04.5682691+00:00"
+  "LastUpdate_Ratings": "2023-12-01T04:02:55.270566+00:00",
+  "LastUpdate_Achievements": "2023-12-01T04:09:19.7940894+00:00"
 }

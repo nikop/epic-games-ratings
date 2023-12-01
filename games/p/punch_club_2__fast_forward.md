@@ -60,16 +60,16 @@
 | Careerist | 35.00% | ~125 |
 | Trap disarmed | 34.00% | ~121 |
 | The lonesome road | 34.00% | ~121 |
+| Keep nature safe | 34.00% | ~121 |
+| Family comes first | 34.00% | ~121 |
 | Key memories | 34.00% | ~121 |
 | Anyone can resist | 34.00% | ~121 |
 | The heart of the Resistance | 34.00% | ~121 |
 | Another world | 33.00% | ~117 |
-| Keep nature safe | 33.00% | ~117 |
-| Family comes first | 33.00% | ~117 |
 | The last bell ring | 32.00% | ~114 |
+| Silver’s past | 30.00% | ~107 |
 | Better cooking at home | 30.00% | ~107 |
 | The only right decision | 30.00% | ~107 |
-| Silver’s past | 29.00% | ~103 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 356 (Ranked 335)  
 Completed: 9 (2.53%) (Ranked 116)  

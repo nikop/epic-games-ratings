@@ -3313,9 +3313,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 41758,
+  "EOS_Progressed": 41759,
   "EOS_Completed": 338,
-  "EOS_NewPlayers": 954,
+  "EOS_NewPlayers": 952,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -28268,6 +28268,11 @@
       "Time": "2023-12-01T03:04:20.6148447+00:00",
       "NumProgressed": 41758,
       "NumCompleted": 338
+    },
+    {
+      "Time": "2023-12-01T04:04:53.5240701+00:00",
+      "NumProgressed": 41759,
+      "NumCompleted": 338
     }
   ],
   "TotalAchievements": 60,
@@ -28279,7 +28284,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 24637
+      "UsersEstimate": 24638
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -28287,7 +28292,7 @@
       "Name": "No one has to die today!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 19626
+      "UsersEstimate": 19627
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -28375,7 +28380,7 @@
       "Name": "The Stones\u2019 Power",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7516
+      "UsersEstimate": 7517
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_2",
@@ -28391,7 +28396,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 20879
+      "UsersEstimate": 20880
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -28399,7 +28404,7 @@
       "Name": "Spawner Killer",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2506
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_2",
@@ -28439,7 +28444,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 15450
+      "UsersEstimate": 15451
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -28583,7 +28588,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 9604
+      "UsersEstimate": 9605
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -28607,7 +28612,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 11692
+      "UsersEstimate": 11693
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -28647,7 +28652,7 @@
       "Name": "A little something extra",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2506
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_Completed",
@@ -28671,7 +28676,7 @@
       "Name": "Shadow hunter",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 12527
+      "UsersEstimate": 12528
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -28687,7 +28692,7 @@
       "Name": "The Benevolent Evil",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2506
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_2",
@@ -28727,7 +28732,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 12527
+      "UsersEstimate": 12528
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -28758,15 +28763,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 41758,
+      "Progressed": 41759,
       "Completed": 338
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-11-30T20:00:42.5687356+00:00",
-  "LastChanged_Achievements": "2023-12-01T03:04:20.6148443+00:00",
+  "LastChanged_Achievements": "2023-12-01T04:04:53.5240697+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:54.3278178+00:00",
-  "LastUpdate_Ratings": "2023-12-01T03:00:02.4321406+00:00",
-  "LastUpdate_Achievements": "2023-12-01T03:04:20.6149928+00:00"
+  "LastUpdate_Ratings": "2023-12-01T04:00:47.7629161+00:00",
+  "LastUpdate_Achievements": "2023-12-01T04:04:53.5242275+00:00"
 }

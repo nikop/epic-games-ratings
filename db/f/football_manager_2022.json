@@ -8582,7 +8582,7 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 476939,
+  "EOS_Progressed": 476940,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 372,
   "EOS_NewCompleters": 0,
@@ -31337,6 +31337,11 @@
       "Time": "2023-12-01T02:02:35.065541+00:00",
       "NumProgressed": 476939,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-12-01T04:06:30.3207796+00:00",
+      "NumProgressed": 476940,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -31372,7 +31377,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 176467
+      "UsersEstimate": 176468
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -31444,7 +31449,7 @@
       "Name": "Parked The Bus",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 138312
+      "UsersEstimate": 138313
     },
     {
       "ID": "achievement_5_manager_of_the_year_awards",
@@ -31468,7 +31473,7 @@
       "Name": "Fantastic Five",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 114465
+      "UsersEstimate": 114466
     },
     {
       "ID": "achievement_always_a_plan_b",
@@ -31500,7 +31505,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 176467
+      "UsersEstimate": 176468
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -31548,7 +31553,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 90618
+      "UsersEstimate": 90619
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -31572,7 +31577,7 @@
       "Name": "Eyes and Ears",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 66771
+      "UsersEstimate": 66772
     },
     {
       "ID": "achievement_fine_player",
@@ -31580,7 +31585,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 200314
+      "UsersEstimate": 200315
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -31588,7 +31593,7 @@
       "Name": "Full Faith",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 114465
+      "UsersEstimate": 114466
     },
     {
       "ID": "achievement_gain_bottom_to_top_promotion",
@@ -31660,7 +31665,7 @@
       "Name": "Shrewd Spender",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 138312
+      "UsersEstimate": 138313
     },
     {
       "ID": "achievement_hattrick",
@@ -31716,7 +31721,7 @@
       "Name": "Iron Curtain",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 114465
+      "UsersEstimate": 114466
     },
     {
       "ID": "achievement_manager_of_the_month",
@@ -31732,7 +31737,7 @@
       "Name": "The Boss",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 114465
+      "UsersEstimate": 114466
     },
     {
       "ID": "achievement_most_goals_scored_in_league",
@@ -31780,7 +31785,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 152620
+      "UsersEstimate": 152621
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -31820,7 +31825,7 @@
       "Name": "Star Man",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 138312
+      "UsersEstimate": 138313
     },
     {
       "ID": "achievement_player_in_world_cup_best_xi",
@@ -31852,7 +31857,7 @@
       "Name": "Record Signing",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 152620
+      "UsersEstimate": 152621
     },
     {
       "ID": "achievement_rushed_signing",
@@ -31948,7 +31953,7 @@
       "Name": "Comeback King!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 66771
+      "UsersEstimate": 66772
     },
     {
       "ID": "achievement_win_fantasy_draft",
@@ -32131,15 +32136,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 476939,
+      "Progressed": 476940,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-12-01T01:54:47.2689839+00:00",
-  "LastChanged_Achievements": "2023-12-01T03:05:41.3589223+00:00",
+  "LastChanged_Achievements": "2023-12-01T04:06:30.3207788+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:45.9287656+00:00",
-  "LastUpdate_Ratings": "2023-12-01T02:57:56.1812721+00:00",
-  "LastUpdate_Achievements": "2023-12-01T03:05:41.3590846+00:00"
+  "LastUpdate_Ratings": "2023-12-01T03:58:10.2415322+00:00",
+  "LastUpdate_Achievements": "2023-12-01T04:06:30.3209948+00:00"
 }

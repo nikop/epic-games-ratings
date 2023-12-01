@@ -1,23 +1,23 @@
 # PC Building Simulator
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator)  
 [View Rawdata](../../db/p/pc_building_simulator.json)  
-Rating: 4.65 (Ranked 314)  
+Rating: 4.66 (Ranked 296)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,757,051 |
-| Easy to forget | 46.00% | ~1,649,476 |
-| Back in the black | 39.00% | ~1,398,469 |
-| That's what I'm talking about | 29.00% | ~1,039,887 |
-| The Best of Both Worlds | 25.00% | ~896,454 |
-| Get your wings | 20.00% | ~717,164 |
-| Double trouble | 16.00% | ~573,731 |
-| Smashing it | 11.00% | ~394,440 |
+| You need to plug it in... | 49.00% | ~1,757,053 |
+| Easy to forget | 46.00% | ~1,649,479 |
+| Back in the black | 39.00% | ~1,398,471 |
+| That's what I'm talking about | 29.00% | ~1,039,889 |
+| The Best of Both Worlds | 25.00% | ~896,456 |
+| Get your wings | 20.00% | ~717,165 |
+| Double trouble | 16.00% | ~573,732 |
+| Smashing it | 11.00% | ~394,441 |
 | But can it run Crysis? | 9.00% | ~322,724 |
 | My favourite feature... | 9.00% | ~322,724 |
-| From humble beginnings... | 7.00% | ~251,007 |
-| Customer satisfaction | 7.00% | ~251,007 |
+| From humble beginnings... | 7.00% | ~251,008 |
+| Customer satisfaction | 7.00% | ~251,008 |
 | Keeping things neat | 4.00% | ~143,433 |
 | Seems you're pretty good at this | 4.00% | ~143,433 |
 | Bending over backwards | 4.00% | ~143,433 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,586 |
 | Treat yourself - GPU | 0.10% | ~3,586 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,585,818 (Ranked 5)  
+Progressed: 3,585,823 (Ranked 5)  
 Completed: 39 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,10 +284,10 @@ Completed: 39 (0.00%) (Ranked 363)
 | 2023-11-28 | 3,585,128 | 39 |
 | 2023-11-29 | 3,585,443 | 39 |
 | 2023-11-30 | 3,585,764 | 39 |
-| 2023-12-01 | 3,585,818 | 39 |
+| 2023-12-01 | 3,585,823 | 39 |
 ## Awards
 Max (Great for Beginners): 1,112  (Ranked 144)  
-Sum: 8,166 (Ranked 104)  
+Sum: 8,167 (Ranked 104)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
@@ -295,7 +295,7 @@ Diff (max vs sum): 40
 | This game is Educational | 1,012 |
 | This game is Extremely Fun | 1,012 |
 | This game is Relaxing | 996 |
-| This game has Quickly Understood Controls | 954 |
+| This game has Quickly Understood Controls | 955 |
 | This game is Highly Recommended | 915 |
 | This game has Amazing Storytelling | 828 |
 | This game has Amazing Characters | 674 |
@@ -571,4 +571,4 @@ Diff (max vs sum): 40
 | 2023-11-28 | 4.65 | - | 1,110 | 8,162 |
 | 2023-11-29 | 4.65 | - | 1,110 | 8,163 |
 | 2023-11-30 | 4.65 | - | 1,110 | 8,164 |
-| 2023-12-01 | 4.65 | - | 1,112 | 8,166 |
+| 2023-12-01 | 4.66 | - | 1,112 | 8,167 |

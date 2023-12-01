@@ -2,9 +2,9 @@
   "ID": "d912830b83244452b6c93ef123b3f45f",
   "Name": "Outfield",
   "ProductSlug": "outfield-b6aebf",
-  "Ranking_EOS_Progress": 766,
+  "Ranking_EOS_Progress": 768,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 495,
+  "Ranking_EOS_NewPlayers": 496,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-29T15:57:41.7133601+00:00",
-  "LastUpdate_Ratings": "2023-12-01T02:58:17.3460476+00:00",
-  "LastUpdate_Achievements": "2023-12-01T03:03:14.4211737+00:00"
+  "LastUpdate_Ratings": "2023-12-01T03:58:37.4389595+00:00",
+  "LastUpdate_Achievements": "2023-12-01T04:03:35.3524113+00:00"
 }
