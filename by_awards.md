@@ -7,7 +7,7 @@
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 213,342 | 4.18 | 934 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 203,914 | 4.88 | 16 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 152,399 | 4.51 | 573 |
-| 8 | [Borderlands 3](games/b/borderlands_3.md) | 121,585 | 4.69 | 231 |
+| 8 | [Borderlands 3](games/b/borderlands_3.md) | 121,652 | 4.69 | 231 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 113,560 | 4.65 | 312 |
 | 10 | [VALORANT](games/v/valorant.md) | 84,490 | 4.52 | 560 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 64,222 | 4.58 | 448 |
@@ -68,7 +68,7 @@
 | 66 | [Prey](games/p/prey.md) | 5,796 | 4.63 | 350 |
 | 67 | [Rogue Company](games/r/rogue_company.md) | 5,727 | 4.30 | 841 |
 | 68 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,663 | 4.85 | 44 |
-| 69 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 5,657 | 4.68 | 254 |
+| 69 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 5,662 | 4.68 | 254 |
 | 70 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,580 | 4.06 | 986 |
 | 71 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 5,175 | 4.76 | 128 |
 | 72 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 5,037 | 3.97 | 1,013 |
@@ -76,7 +76,7 @@
 | 74 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,914 | 4.56 | 495 |
 | 75 | [Shop Titans](games/s/shop_titans.md) | 4,859 | 3.99 | 1,008 |
 | 76 | [MultiVersus](games/m/multiversus.md) | 4,751 | 4.56 | 495 |
-| 77 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,714 | 4.70 | 215 |
+| 77 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,718 | 4.70 | 215 |
 | 78 | [SMITE](games/s/smite.md) | 4,665 | 4.43 | 697 |
 | 79 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,612 | 4.70 | 215 |
 | 80 | [League of Legends](games/l/league_of_legends.md) | 4,575 | 4.21 | 909 |
@@ -99,7 +99,7 @@
 | 97 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 3,068 | 4.50 | 594 |
 | 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,984 | 4.18 | 934 |
 | 99 | [Among Us](games/a/among_us.md) | 2,867 | 4.57 | 477 |
-| 100 | [RAGE 2](games/r/rage_2.md) | 2,753 | 4.27 | 866 |
+| 100 | [RAGE 2](games/r/rage_2.md) | 2,757 | 4.27 | 866 |
 | 101 | [Path of Exile](games/p/path_of_exile.md) | 2,697 | 4.61 | 387 |
 | 102 | [Remnant 2](games/r/remnant_2.md) | 2,558 | 4.75 | 148 |
 | 103 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,529 | 4.80 | 88 |
@@ -177,12 +177,12 @@
 | 174 | [Neverwinter](games/n/neverwinter.md) | 770 | 4.29 | 850 |
 | 176 | [Subnautica](games/s/subnautica.md) | 755 | 4.85 | 44 |
 | 177 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 754 | 4.74 | 158 |
+| 178 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 742 | 4.49 | 613 |
 | 178 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 742 | 4.60 | 420 |
-| 179 | [FAR CRY 4](games/f/far_cry_4.md) | 740 | 4.68 | 254 |
-| 180 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 737 | 4.87 | 22 |
-| 181 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 733 | 4.67 | 277 |
-| 182 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 721 | 4.59 | 434 |
-| 183 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 720 | 4.49 | 613 |
+| 180 | [FAR CRY 4](games/f/far_cry_4.md) | 740 | 4.68 | 254 |
+| 181 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 737 | 4.87 | 22 |
+| 182 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 733 | 4.67 | 277 |
+| 183 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 721 | 4.59 | 434 |
 | 184 | [Neon Abyss](games/n/neon_abyss.md) | 713 | 4.68 | 254 |
 | 185 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 706 | 4.30 | 841 |
 | 186 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 700 | 4.67 | 277 |

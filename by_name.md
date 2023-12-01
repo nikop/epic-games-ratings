@@ -419,7 +419,7 @@
 | [Boomerang X](games/b/boomerang_x.md) | - | - | 0 | - |
 | [Booze Masters: Freezing Moonshine](games/d/deca76ccbe584df395bc785c61653e50.md) | - | - | - | - |
 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 128 | 15,991 | 24 |
-| [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 231 | 121,585 | 8 |
+| [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 231 | 121,652 | 8 |
 | [Borderlands: The Handsome Collection](games/b/borderlands__the_handsome_collection.md) | - | - | - | - |
 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 594 | 436 | 224 |
 | [Born of Bread](games/2/269f94247b4f471b9381fd4052bf1fad.md) | - | - | - | - |
@@ -820,7 +820,7 @@
 | [Disciples Rise of the Elves Gold](games/d/disciples_rise_of_the_elves_gold.md) | - | - | 0 | - |
 | [Disciples Sacred Lands Gold](games/d/disciples_sacred_lands_gold.md) | - | - | 0 | - |
 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 775 | 0 | 557 |
-| [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 22 | 737 | 180 |
+| [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 22 | 737 | 181 |
 | [Discord](games/d/discord.md) | - | - | 0 | - |
 | [Discovery Tour: Viking Age](games/d/discovery_tour__viking_age.md) | - | - | 0 | - |
 | [Disgaea 6 Complete](games/d/disgaea_6_complete.md) | - | - | 0 | - |
@@ -1053,7 +1053,7 @@
 | [Far Cry](games/f/far_cry.md) | 4.51 | 573 | 0 | 557 |
 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.31 | 833 | 0 | 557 |
 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.62 | 367 | 0 | 557 |
-| [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 254 | 740 | 179 |
+| [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 254 | 740 | 180 |
 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 367 | 1,667 | 125 |
 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 667 | 965 | 157 |
 | [Far Cry New Dawn - Complete](games/f/far_cry_new_dawn_-_complete.md) | - | - | - | - |
@@ -1071,7 +1071,7 @@
 | [Farmer's Father - Save the Innocence](games/0/0cb4c2b3a6814bee82bcea6732949617.md) | - | - | 0 | - |
 | [Farmer's Life](games/6/6bf555a702044de0aab81d9e3e6427e4.md) | - | - | 0 | - |
 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.70 | 215 | 8,112 | 46 |
-| [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.68 | 254 | 5,657 | 69 |
+| [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.68 | 254 | 5,662 | 69 |
 | [Farsiders](games/3/37e2496ba00443bab160c048cf92d80e.md) | - | - | 0 | - |
 | [Fashion Police Squad](games/f/fashion_police_squad.md) | - | - | 0 | - |
 | [Fastest Cars Traffic Racer](games/3/3d98021dc6a74599afbce9bb5cacd017.md) | - | - | 0 | - |
@@ -1696,8 +1696,8 @@
 | [Little Inferno](games/l/little_inferno.md) | 4.58 | 448 | 0 | 557 |
 | [Little Orpheus](games/l/little_orpheus.md) | - | - | 0 | - |
 | [Littlelands](games/d/de4a72bbf5e6433c9cf8f24871fd9b47.md) | - | - | - | - |
-| [Live](games/l/live_79.md) | - | - | - | - |
 | [Live](games/l/live_130.md) | - | - | - | - |
+| [Live](games/l/live_79.md) | - | - | - | - |
 | [Live In The Country](games/7/7247d3e923ac4d04a7d8f4435e240302.md) | - | - | - | - |
 | [Locks Quest](games/l/locks_quest.md) | - | - | 0 | - |
 | [Lonesome Village](games/l/lonesome_village.md) | - | - | 0 | - |
@@ -2127,7 +2127,7 @@
 | [Painting Werther](games/p/painting_werther.md) | - | - | - | - |
 | [Paladin Dream](games/p/paladin_dream.md) | - | - | 0 | - |
 | [Paladins](games/p/paladins.md) | 4.32 | 827 | 3,868 | 87 |
-| [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.49 | 613 | 720 | 183 |
+| [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.49 | 613 | 742 | 178 |
 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | - | - | 0 | - |
 | [Pandemic 1993](games/p/pandemic_1993.md) | - | - | - | - |
 | [Panic Porcupine](games/p/panic_porcupine.md) | - | - | - | - |
@@ -2282,7 +2282,7 @@
 | [Racing the Gods - Beyond Horizons](games/9/97e5395269d94ba88fcf30b0c9d544fe.md) | - | - | - | - |
 | [Rad Rodgers - Radical Edition](games/r/rad_rodgers_-_radical_edition.md) | - | - | 0 | - |
 | [Radioactive Dwarfs - Evil From The Sewers](games/r/radioactive_dwarfs_-_evil_from_the_sewers.md) | - | - | 0 | - |
-| [RAGE 2](games/r/rage_2.md) | 4.27 | 866 | 2,753 | 100 |
+| [RAGE 2](games/r/rage_2.md) | 4.27 | 866 | 2,757 | 100 |
 | [Ragnarok Survivors Valhalla](games/3/377c7afca797475bb73be258c94f82ea.md) | - | - | 0 | - |
 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.20 | 917 | 44 | 449 |
 | [Railbreak](games/b/b8877a4db3f04eec83b7410484e80473.md) | - | - | - | - |
@@ -2963,7 +2963,7 @@
 | [The Count Lucanor](games/t/the_count_lucanor.md) | - | - | 0 | - |
 | [The Crackpet Show: Happy Tree Friends Edition](games/a/ab4adb59faed46819e63d82b57197b2b.md) | - | - | 0 | - |
 | [The Creepy Syndrome](games/f/f2ed44898a204bee866836b9b659bce4.md) | - | - | 0 | - |
-| [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 277 | 733 | 181 |
+| [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 277 | 733 | 182 |
 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.68 | 254 | 0 | 557 |
 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.66 | 294 | 492 | 213 |
 | [The Crown of Wu](games/t/the_crown_of_wu.md) | - | - | - | - |
@@ -3245,7 +3245,7 @@
 | [Total Reload](games/t/total_reload.md) | - | - | - | - |
 | [Total War: PHARAOH](games/3/3928d2045d28460b96db76dc1b9ca146.md) | - | - | - | - |
 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 448 | 6,571 | 58 |
-| [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 215 | 4,714 | 77 |
+| [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 215 | 4,718 | 77 |
 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.70 | 215 | 2,127 | 110 |
 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.75 | 148 | 415 | 228 |
 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 613 | 0 | 557 |
@@ -3328,7 +3328,7 @@
 | [Twinsen's Little Big Adventure Remastered](games/t/twinsen's_little_big_adventure_remastered.md) | - | - | - | - |
 | [Two Skateboards Driving Simulator](games/4/425a91afbd1743ff8dcd21794a39a8a1.md) | - | - | 0 | - |
 | [Two World Portal - Mysterious Adventure](games/t/two_world_portal_-_mysterious_adventure.md) | - | - | 0 | - |
-| [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 434 | 721 | 182 |
+| [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 434 | 721 | 183 |
 | [Tyrants Blessing](games/t/tyrants_blessing.md) | - | - | 0 | - |
 | [UAYEB - The Dry Land - Episode 1](games/u/uayeb_-_the_dry_land_-_episode_1.md) | - | - | - | - |
 | [UFO ROBOT GRENDIZER - The Feast of the Wolves](games/u/ufo_robot_grendizer_-_the_feast_of_the_wolves.md) | - | - | 0 | - |
