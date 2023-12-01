@@ -30,10 +30,10 @@
 | Haute Couture | 11.00% | ~5 |
 | Brilliant Executioner | 9.00% | ~4 |
 | Hidden Experiment | 9.00% | ~4 |
+| Into the Lion's Den | 9.00% | ~4 |
 | The Gang prevails | 7.00% | ~3 |
 | Out of the ring | 7.00% | ~3 |
 | Sky High Fighter | 7.00% | ~3 |
-| Into the Lion's Den | 7.00% | ~3 |
 | King of the Iron Fist | 5.00% | ~2 |
 | Bold and Bossy | 5.00% | ~2 |
 | Power of Friendship! | 5.00% | ~2 |

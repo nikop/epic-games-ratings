@@ -6,24 +6,26 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.50% | ~5,290 |
-| Skillful | 0.50% | ~5,290 |
-| Zealous | 0.40% | ~4,232 |
-| Not half bad | 0.40% | ~4,232 |
-| I | 0.40% | ~4,232 |
-| No one left behind | 0.30% | ~3,174 |
-| Medic | 0.30% | ~3,174 |
-| Handyman | 0.30% | ~3,174 |
-| Bloody Millionaire | 0.30% | ~3,174 |
-| Apt Survivor | 0.30% | ~3,174 |
-| Survival Treasures | 0.30% | ~3,174 |
-| Sorted | 0.30% | ~3,174 |
-| Healthy Obsession | 0.30% | ~3,174 |
-| Resurgence | 0.30% | ~3,174 |
-| Preemptive Strike | 0.30% | ~3,174 |
-| Humanitarian | 0.30% | ~3,174 |
-| Make Some Noise | 0.30% | ~3,174 |
+| It wakes | 0.50% | ~5,291 |
+| Skillful | 0.50% | ~5,291 |
+| Zealous | 0.40% | ~4,233 |
+| Not half bad | 0.40% | ~4,233 |
+| I | 0.40% | ~4,233 |
+| Make Some Noise | 0.40% | ~4,233 |
+| No one left behind | 0.30% | ~3,175 |
+| Medic | 0.30% | ~3,175 |
+| Handyman | 0.30% | ~3,175 |
+| Bloody Millionaire | 0.30% | ~3,175 |
+| Apt Survivor | 0.30% | ~3,175 |
+| Survival Treasures | 0.30% | ~3,175 |
+| II | 0.30% | ~3,175 |
+| Sorted | 0.30% | ~3,175 |
+| Healthy Obsession | 0.30% | ~3,175 |
+| Resurgence | 0.30% | ~3,175 |
+| Preemptive Strike | 0.30% | ~3,175 |
+| Humanitarian | 0.30% | ~3,175 |
 | The Grand Sacrifice | 0.20% | ~2,116 |
+| Blood on your hands | 0.20% | ~2,116 |
 | Agonizing Escape | 0.20% | ~2,116 |
 | Backdoor Escape | 0.20% | ~2,116 |
 | I've got your back | 0.20% | ~2,116 |
@@ -32,8 +34,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | Apt Killer | 0.20% | ~2,116 |
 | Risk it all | 0.20% | ~2,116 |
 | Vulture | 0.20% | ~2,116 |
-| II | 0.20% | ~2,116 |
 | III | 0.20% | ~2,116 |
+| III-50 | 0.20% | ~2,116 |
 | Engineer | 0.20% | ~2,116 |
 | Wounded Healer | 0.20% | ~2,116 |
 | Close Shave | 0.20% | ~2,116 |
@@ -41,7 +43,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Lifting The Fog | 0.20% | ~2,116 |
 | A bite for the Entity | 0.10% | ~1,058 |
 | A feast for the Entity | 0.10% | ~1,058 |
-| Blood on your hands | 0.10% | ~1,058 |
 | Blood on your face | 0.10% | ~1,058 |
 | Blood in your mouth | 0.10% | ~1,058 |
 | Cripple them all | 0.10% | ~1,058 |
@@ -59,7 +60,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Trapper | 0.10% | ~1,058 |
 | Adept Wraith | 0.10% | ~1,058 |
 | Adept Hillbilly | 0.10% | ~1,058 |
-| III-50 | 0.10% | ~1,058 |
 | In the void she walks | 0.10% | ~1,058 |
 | From the void she kills | 0.10% | ~1,058 |
 | Adept Nurse | 0.10% | ~1,058 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,058 |
 | Adept Good Guy | 0.10% | ~1,058 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058,088 (Ranked 14)  
+Progressed: 1,058,245 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -464,10 +464,10 @@ Completed: 61 (0.01%) (Ranked 343)
 | 2023-11-28 | 1,050,827 | 61 |
 | 2023-11-29 | 1,053,910 | 61 |
 | 2023-11-30 | 1,056,530 | 61 |
-| 2023-12-01 | 1,058,088 | 61 |
+| 2023-12-01 | 1,058,245 | 61 |
 ## Awards
 Max (Diverse Characters): 36,961  (Ranked 15)  
-Sum: 281,173 (Ranked 12)  
+Sum: 281,221 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -479,7 +479,7 @@ Diff (max vs sum): 3
 | This game has Challenging Combat | 31,097 |
 | This game has Quickly Understood Controls | 30,402 |
 | This game has Amazing Storytelling | 28,721 |
-| This game has a Competitive Community | 27,382 |
+| This game has a Competitive Community | 27,430 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
 ## Ratings History
@@ -796,4 +796,4 @@ Diff (max vs sum): 3
 | 2023-11-28 | 4.51 | - | 36,768 | 280,046 |
 | 2023-11-29 | 4.51 | - | 36,896 | 280,728 |
 | 2023-11-30 | 4.51 | - | 36,961 | 281,126 |
-| 2023-12-01 | 4.51 | - | 36,961 | 281,173 |
+| 2023-12-01 | 4.51 | - | 36,961 | 281,221 |

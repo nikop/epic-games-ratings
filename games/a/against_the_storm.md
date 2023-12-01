@@ -9,10 +9,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Abandoned Settlement | 2.00% | ~351 |
 | Overgrown Library | 2.00% | ~351 |
 | Petrified Necropolis | 2.00% | ~351 |
-| Frosts | 1.00% | ~175 |
-| Land of Greed | 1.00% | ~175 |
-| Ominous Presence | 1.00% | ~175 |
-| Gathering Storm | 1.00% | ~175 |
+| Frosts | 1.00% | ~176 |
+| Land of Greed | 1.00% | ~176 |
+| Ominous Presence | 1.00% | ~176 |
+| Gathering Storm | 1.00% | ~176 |
 | Untamed Wilds | 0.90% | ~158 |
 | Watchtower | 0.20% | ~35 |
 | Fox Utopia | 0.20% | ~35 |
@@ -53,6 +53,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.10% | ~18 |
 | Taking Action | 0.10% | ~18 |
 | Victory Through Prosperity | 0.10% | ~18 |
+| Ruins | 0.10% | ~18 |
 | Like a Machine | 0.10% | ~18 |
 | Trade Baron | 0.10% | ~18 |
 | No Deaths | 0.10% | ~18 |
@@ -64,9 +65,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Harpy Utopia | 0.00% | ~0 |
 | The Queen's Chosen | 0.00% | ~0 |
 | Treasure | 0.00% | ~0 |
-| Ruins | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,549 (Ranked 146)  
+Progressed: 17,550 (Ranked 146)  
 Completed: 49 (0.28%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 49 (0.28%) (Ranked 242)
 | 2023-11-28 | 17,518 | 54 |
 | 2023-11-29 | 17,529 | 51 |
 | 2023-11-30 | 17,540 | 51 |
-| 2023-12-01 | 17,549 | 49 |
+| 2023-12-01 | 17,550 | 49 |
 ## Awards
 Max (Quickly Understood Controls): 441  (Ranked 223)  
 Sum: 3,236 (Ranked 173)  

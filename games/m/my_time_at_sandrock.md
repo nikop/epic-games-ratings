@@ -11,7 +11,7 @@ Number of Ratings: 892  (23.09.2022)
 | Greeno-B-Gone | 123.00% | ~600 |
 | Super Spelunker | 121.00% | ~590 |
 | Your Especially Earned Trajectory | 100.00% | ~488 |
-| The Little Wood that Could | 94.00% | ~459 |
+| The Little Wood that Could | 95.00% | ~464 |
 | On that Grindset | 77.00% | ~376 |
 | One of the Cool Kids | 77.00% | ~376 |
 | No Mountain Wide Enough | 76.00% | ~371 |
@@ -26,19 +26,19 @@ Number of Ratings: 892  (23.09.2022)
 | Chatterbox | 62.00% | ~303 |
 | Got Served | 60.00% | ~293 |
 | Big Game Hunter | 59.00% | ~288 |
+| Builder of the Month | 56.00% | ~273 |
 | Elementary, My Dear | 56.00% | ~273 |
 | Mole Masher | 56.00% | ~273 |
 | Panda-kin | 55.00% | ~268 |
-| Builder of the Month | 55.00% | ~268 |
 | Better Late than Never | 55.00% | ~268 |
 | Happier-est Place on Earth | 55.00% | ~268 |
 | You Don't Win Friends With Salad | 55.00% | ~268 |
 | What Plants Crave | 54.00% | ~264 |
 | Officially Official | 54.00% | ~264 |
+| Knowledge is Power | 53.00% | ~259 |
 | Martle's Dream | 53.00% | ~259 |
 | Anti-Santa | 53.00% | ~259 |
 | Waste Not Want Not | 53.00% | ~259 |
-| Knowledge is Power | 52.00% | ~254 |
 | Commissions, commissions...! | 52.00% | ~254 |
 | Lifeline Pipeline | 52.00% | ~254 |
 | Call Me Fishmael | 52.00% | ~254 |

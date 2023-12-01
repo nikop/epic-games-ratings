@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 770,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewPlayers": 498,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2021-06-03T15:00:00+00:00",
@@ -6261,10 +6261,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 7195,
       "NumberOfAwardsMax": 841
+    },
+    {
+      "Time": "2023-12-01T16:58:37.5685143+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 7201,
+      "NumberOfAwardsMax": 841
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7195,
+  "NumberOfAwards": 7201,
   "NumberOfAwardsMax": 841,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -6272,7 +6278,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 815
+      "Count": 817
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6284,7 +6290,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 809
+      "Count": 811
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6302,7 +6308,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 787
+      "Count": 789
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6354,9 +6360,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
-  "LastChanged": "2023-11-30T09:58:44.6759337+00:00",
-  "LastChanged_Achievements": "2023-12-01T16:08:44.4131078+00:00",
+  "LastChanged": "2023-12-01T16:58:37.5685141+00:00",
+  "LastChanged_Achievements": "2023-12-01T17:08:32.8541247+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:15.18433+00:00",
-  "LastUpdate_Ratings": "2023-12-01T15:59:13.9004016+00:00",
-  "LastUpdate_Achievements": "2023-12-01T16:08:44.4131115+00:00"
+  "LastUpdate_Ratings": "2023-12-01T16:58:37.5685147+00:00",
+  "LastUpdate_Achievements": "2023-12-01T17:08:32.8541274+00:00"
 }

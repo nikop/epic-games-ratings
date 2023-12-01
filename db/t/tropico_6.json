@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 291,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1413,7 +1413,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6186,
+  "EOS_Progressed": 6187,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
@@ -13718,6 +13718,11 @@
       "Time": "2023-12-01T16:09:58.9030567+00:00",
       "NumProgressed": 6186,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-01T17:09:28.4143013+00:00",
+      "NumProgressed": 6187,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -13769,7 +13774,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -13783,9 +13788,9 @@
       "ID": "ACH_EP_BETTERREDTHANDEAD",
       "SetID": "1p8ab95",
       "Name": "Caribbean Comrade",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 928
+      "UsersEstimate": 990
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -13873,7 +13878,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -13913,7 +13918,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -14048,15 +14053,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6186,
+      "Progressed": 6187,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-01T03:57:15.3670548+00:00",
-  "LastChanged_Achievements": "2023-12-01T16:09:58.9030563+00:00",
+  "LastChanged_Achievements": "2023-12-01T17:09:28.4143009+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:22.1116703+00:00",
-  "LastUpdate_Ratings": "2023-12-01T15:57:30.7629431+00:00",
-  "LastUpdate_Achievements": "2023-12-01T16:09:58.9031413+00:00"
+  "LastUpdate_Ratings": "2023-12-01T16:57:25.1909895+00:00",
+  "LastUpdate_Achievements": "2023-12-01T17:09:28.4143871+00:00"
 }

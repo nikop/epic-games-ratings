@@ -4,7 +4,7 @@
   "ProductSlug": "candle-knight-b52970",
   "Ranking_EOS_Progress": 705,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewPlayers": 498,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-06-22T17:00:00+00:00",
@@ -235,8 +235,8 @@
   ],
   "FirstSeen": "2023-10-18T22:09:38.6957834+00:00",
   "FirstSeenAchievements": "2023-10-18T22:15:21.8471499+00:00",
-  "LastChanged_Achievements": "2023-12-01T16:07:52.5400641+00:00",
+  "LastChanged_Achievements": "2023-12-01T17:07:54.6298723+00:00",
   "LastUpdate_AppInfo": "2023-11-30T02:19:32.1219272+00:00",
-  "LastUpdate_Ratings": "2023-12-01T15:57:29.0239364+00:00",
-  "LastUpdate_Achievements": "2023-12-01T16:07:52.5400775+00:00"
+  "LastUpdate_Ratings": "2023-12-01T16:57:24.1005708+00:00",
+  "LastUpdate_Achievements": "2023-12-01T17:07:54.6298842+00:00"
 }

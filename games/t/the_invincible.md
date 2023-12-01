@@ -18,7 +18,7 @@
 | Peacemaker | 18.00% | ~85 |
 | On her own | 15.00% | ~71 |
 | Beyond divisions | 14.00% | ~66 |
-| Fierce fight | 12.00% | ~57 |
+| Fierce fight | 13.00% | ~61 |
 | Evacuation | 12.00% | ~57 |
 | Flying Objects Operator | 12.00% | ~57 |
 | I remember everything! | 11.00% | ~52 |
@@ -27,8 +27,8 @@
 | Innate curiosity | 7.00% | ~33 |
 | The Invincible | 6.00% | ~28 |
 | I leave no man behind | 5.00% | ~24 |
+| Strong objection | 5.00% | ~24 |
 | Got lost again | 4.00% | ~19 |
-| Strong objection | 4.00% | ~19 |
 | Ubiquitous holes | 3.00% | ~14 |
 | I leave no man behind (no exceptions) | 2.00% | ~9 |
 | Convoy list | 1.00% | ~5 |

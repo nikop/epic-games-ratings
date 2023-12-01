@@ -6,37 +6,37 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 11.00% | ~106,251 |
-| Gun Fu | 6.00% | ~57,955 |
-| The Fool | 5.00% | ~48,296 |
-| Right Back At Ya | 4.00% | ~38,637 |
-| The Lovers | 4.00% | ~38,637 |
-| Full Body Conversion | 2.00% | ~19,318 |
-| Christmas Tree Attack | 2.00% | ~19,318 |
-| Stanislavski's Method | 2.00% | ~19,318 |
-| The Hermit | 2.00% | ~19,318 |
-| The Wheel of Fortune | 2.00% | ~19,318 |
-| True Soldier | 2.00% | ~19,318 |
-| True Warrior | 2.00% | ~19,318 |
-| Relic Ruler | 2.00% | ~1,891 |
-| All the President's Men | 2.00% | ~1,891 |
-| Bushido and Chill | 1.00% | ~9,659 |
-| The Quick and the Dead | 1.00% | ~9,659 |
-| Life of the Road | 1.00% | ~9,659 |
-| The High Priestess | 1.00% | ~9,659 |
-| The World | 1.00% | ~9,659 |
-| Legend of The Afterlife | 1.00% | ~9,659 |
-| Arachnophobia | 1.00% | ~945 |
-| Master Crafter | 0.90% | ~8,693 |
-| Two Heads, One Bullet | 0.90% | ~8,693 |
-| I Am The Law | 0.80% | ~7,727 |
-| Judy vs Night City | 0.80% | ~7,727 |
-| Spin Doctor | 0.80% | ~756 |
-| To Protect and Serve | 0.70% | ~6,761 |
+| V for Vendetta | 11.00% | ~106,260 |
+| Gun Fu | 6.00% | ~57,960 |
+| The Fool | 5.00% | ~48,300 |
+| Right Back At Ya | 4.00% | ~38,640 |
+| The Lovers | 4.00% | ~38,640 |
+| Full Body Conversion | 2.00% | ~19,320 |
+| Christmas Tree Attack | 2.00% | ~19,320 |
+| Stanislavski's Method | 2.00% | ~19,320 |
+| The Hermit | 2.00% | ~19,320 |
+| The Wheel of Fortune | 2.00% | ~19,320 |
+| True Soldier | 2.00% | ~19,320 |
+| True Warrior | 2.00% | ~19,320 |
+| Relic Ruler | 2.00% | ~1,892 |
+| All the President's Men | 2.00% | ~1,892 |
+| Bushido and Chill | 1.00% | ~9,660 |
+| The Quick and the Dead | 1.00% | ~9,660 |
+| Life of the Road | 1.00% | ~9,660 |
+| The High Priestess | 1.00% | ~9,660 |
+| The World | 1.00% | ~9,660 |
+| Legend of The Afterlife | 1.00% | ~9,660 |
+| Arachnophobia | 1.00% | ~946 |
+| Master Crafter | 0.90% | ~8,694 |
+| Two Heads, One Bullet | 0.90% | ~8,694 |
+| To Protect and Serve | 0.80% | ~7,728 |
+| I Am The Law | 0.80% | ~7,728 |
+| Judy vs Night City | 0.80% | ~7,728 |
+| Spin Doctor | 0.80% | ~757 |
 | The Wandering Fool | 0.60% | ~5,796 |
-| King of Wands | 0.60% | ~567 |
-| Dirty Deeds | 0.60% | ~567 |
-| Easy Come, Easy Go | 0.60% | ~567 |
+| King of Wands | 0.60% | ~568 |
+| Dirty Deeds | 0.60% | ~568 |
+| Easy Come, Easy Go | 0.60% | ~568 |
 | Ten out of Ten | 0.50% | ~4,830 |
 | To Bad Decisions! | 0.40% | ~3,864 |
 | The Star | 0.40% | ~3,864 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 965,918 (Ranked 15)  
+Progressed: 965,996 (Ranked 15)  
 Completed: 2,830 (0.29%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,10 +299,10 @@ Completed: 2,830 (0.29%) (Ranked 238)
 | 2023-11-28 | 960,226 | 2,821 |
 | 2023-11-29 | 962,972 | 2,823 |
 | 2023-11-30 | 964,640 | 2,827 |
-| 2023-12-01 | 965,918 | 2,830 |
+| 2023-12-01 | 965,996 | 2,830 |
 ## Awards
 Max (Character Customization): 112,636  (Ranked 9)  
-Sum: 377,227 (Ranked 9)  
+Sum: 377,478 (Ranked 9)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -313,8 +313,8 @@ Diff (max vs sum): 0
 | This game is Highly Recommended | 21,402 |
 | This game has Amazing Storytelling | 21,235 |
 | This game is Extremely Fun | 20,909 |
-| This game has Amazing Characters | 20,690 |
-| This game is Relaxing | 19,972 |
+| This game has Amazing Characters | 20,827 |
+| This game is Relaxing | 20,086 |
 | This game has Quickly Understood Controls | 19,943 |
 | This game has a Creative Community | 13,924 |
 | This game has Obsessive Gameplay | 3,165 |
@@ -636,4 +636,4 @@ Diff (max vs sum): 0
 | 2023-11-28 | 4.65 | - | 110,923 | 371,115 |
 | 2023-11-29 | 4.65 | - | 111,778 | 373,471 |
 | 2023-11-30 | 4.65 | - | 112,636 | 375,982 |
-| 2023-12-01 | 4.65 | - | 112,636 | 377,227 |
+| 2023-12-01 | 4.65 | - | 112,636 | 377,478 |

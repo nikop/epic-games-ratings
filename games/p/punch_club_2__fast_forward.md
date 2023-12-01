@@ -11,9 +11,9 @@
 | Your first job | 83.00% | ~296 |
 | Fitness professional | 79.00% | ~282 |
 | Old movies enjoyer | 79.00% | ~282 |
-| Depressed visitor | 78.00% | ~278 |
+| Depressed visitor | 79.00% | ~282 |
+| Neurotrainer – power gainer! | 78.00% | ~278 |
 | Employee of the week | 78.00% | ~278 |
-| Neurotrainer – power gainer! | 77.00% | ~275 |
 | Your own amateur gym | 74.00% | ~264 |
 | Run K, run! | 73.00% | ~261 |
 | First defeat | 72.00% | ~257 |
@@ -32,7 +32,7 @@
 | Own four walls | 59.00% | ~211 |
 | Employee of the year | 59.00% | ~211 |
 | Little hacker | 58.00% | ~207 |
-| Intriguing candies | 57.00% | ~203 |
+| Intriguing candies | 58.00% | ~207 |
 | Legal courier | 55.00% | ~196 |
 | Extreme neuropower! | 55.00% | ~196 |
 | Escaped from a big trouble | 52.00% | ~186 |

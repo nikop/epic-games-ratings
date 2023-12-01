@@ -5,41 +5,41 @@ Rating: 4.46 (Ranked 651)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~133,426 |
-| My First Runbow | 50.00% | ~125,874 |
-| It's The Fall | 26.00% | ~65,454 |
-| The Stunner | 22.00% | ~55,384 |
-| Be Aggressive | 21.00% | ~52,867 |
-| Curator | 20.00% | ~50,349 |
-| Crowning Around | 18.00% | ~45,314 |
-| Can You Dig It? | 17.00% | ~42,797 |
+| In The Zone | 53.00% | ~133,429 |
+| My First Runbow | 50.00% | ~125,876 |
+| It's The Fall | 26.00% | ~65,456 |
+| The Stunner | 22.00% | ~55,385 |
+| Be Aggressive | 21.00% | ~52,868 |
+| Curator | 20.00% | ~50,350 |
+| Crowning Around | 18.00% | ~45,315 |
+| Can You Dig It? | 17.00% | ~42,798 |
 | You Juan-A-Go? | 16.00% | ~40,280 |
-| Chan-tastic | 15.00% | ~37,762 |
+| Chan-tastic | 15.00% | ~37,763 |
 | Muddy Waters | 14.00% | ~35,245 |
-| Toasty! | 13.00% | ~32,727 |
+| Toasty! | 13.00% | ~32,728 |
 | Lazy Laser | 8.00% | ~20,140 |
-| Just A Phaze | 7.00% | ~17,622 |
-| Into The Drift | 7.00% | ~17,622 |
-| Ready? Fight! | 7.00% | ~17,622 |
+| Just A Phaze | 7.00% | ~17,623 |
+| Into The Drift | 7.00% | ~17,623 |
+| Ready? Fight! | 7.00% | ~17,623 |
 | Butt Butt | 6.00% | ~15,105 |
-| He Who Laughs Last | 3.00% | ~7,552 |
-| Shoo, Cat! | 3.00% | ~7,552 |
+| He Who Laughs Last | 3.00% | ~7,553 |
+| Shoo, Cat! | 3.00% | ~7,553 |
 | And You're Okay | 2.00% | ~5,035 |
 | Blotbuster | 2.00% | ~5,035 |
 | Thunderstruck | 2.00% | ~5,035 |
-| Just A Bit | 1.00% | ~2,517 |
-| Tubular, Dude | 1.00% | ~2,517 |
-| What A Trip | 1.00% | ~2,517 |
+| Just A Bit | 1.00% | ~2,518 |
+| Tubular, Dude | 1.00% | ~2,518 |
+| What A Trip | 1.00% | ~2,518 |
 | Please The King | 0.90% | ~2,266 |
 | Here We Go! | 0.80% | ~2,014 |
 | Clear-Cut | 0.50% | ~1,259 |
 | Breaking Out | 0.40% | ~1,007 |
 | Disposable | 0.40% | ~1,007 |
-| A Winner Is You | 0.20% | ~503 |
-| Final Nightmare | 0.20% | ~503 |
-| I'm Here All Night | 0.20% | ~503 |
-| Ride The Wave | 0.20% | ~503 |
-| Tree Medalist | 0.20% | ~503 |
+| A Winner Is You | 0.20% | ~504 |
+| Final Nightmare | 0.20% | ~504 |
+| I'm Here All Night | 0.20% | ~504 |
+| Ride The Wave | 0.20% | ~504 |
+| Tree Medalist | 0.20% | ~504 |
 | Can't Be Kept Down | 0.10% | ~252 |
 | Completionist | 0.10% | ~252 |
 | Did Your Time | 0.10% | ~252 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 651)
 | Talent Scout | 0.10% | ~252 |
 | True Completionist | 0.10% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,747 (Ranked 61)  
+Progressed: 251,752 (Ranked 61)  
 Completed: 6 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 6 (0.00%) (Ranked 363)
 | 2023-11-28 | 251,672 | 6 |
 | 2023-11-29 | 251,699 | 6 |
 | 2023-11-30 | 251,725 | 6 |
-| 2023-12-01 | 251,747 | 6 |
+| 2023-12-01 | 251,752 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -27,12 +27,12 @@
 | Pure Dynamite! | 43.00% | ~218 |
 | “… like son” | 43.00% | ~218 |
 | Dungeonlord Gorgu | 39.00% | ~198 |
+| The Cathedral of Light | 39.00% | ~198 |
 | Shame! Shame! Shame! | 39.00% | ~198 |
-| The Cathedral of Light | 38.00% | ~193 |
 | Mana Cannon | 37.00% | ~188 |
 | Tanos' Crusade Against Thalya | 34.00% | ~173 |
+| All’s Well That Ends Evil | 29.00% | ~147 |
 | Unstoppable Horde | 28.00% | ~142 |
-| All’s Well That Ends Evil | 28.00% | ~142 |
 | Master of the Undead | 26.00% | ~132 |
 | The Duel | 25.00% | ~127 |
 | Hungry, Hungry Gorgu! | 23.00% | ~117 |
@@ -53,13 +53,13 @@
 | Lavalumps on Ice! | 13.00% | ~66 |
 | The Rune Sockets of Finitude (Part 2) | 13.00% | ~66 |
 | Rubble and Ashes | 12.00% | ~61 |
+| The Last Stand - This Time For Real! | 12.00% | ~61 |
 | To the Max! | 11.00% | ~56 |
 | To Infinity And Beyond! | 11.00% | ~56 |
-| The Last Stand - This Time For Real! | 11.00% | ~56 |
 | Mirror, Mirror | 10.00% | ~51 |
 | Untouchable | 9.00% | ~46 |
+| Evilification | 9.00% | ~46 |
 | Heal Heal Blessing | 8.00% | ~41 |
-| Evilification | 8.00% | ~41 |
 | Gorgu is in the Best of Health | 7.00% | ~36 |
 | Laser Eyes Are So Useless | 7.00% | ~36 |
 | Hands Off My Stones | 7.00% | ~36 |

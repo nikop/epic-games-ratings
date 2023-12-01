@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.58 (Ranked 447)  
+Rating: 4.58 (Ranked 448)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,7 +12,7 @@ Rating: 4.58 (Ranked 447)
 | A Thousand Strong | 18.00% | ~609 |
 | Ready for a New World | 18.00% | ~609 |
 | Space Society | 17.00% | ~575 |
-| Permanent Redesigns | 15.00% | ~507 |
+| Permanent Redesigns | 15.00% | ~508 |
 | Fully Recycled | 14.00% | ~474 |
 | The Ship of Theseus | 14.00% | ~474 |
 | Guy de Borderlands | 13.00% | ~440 |
@@ -21,7 +21,7 @@ Rating: 4.58 (Ranked 447)
 | Breaking Protocol | 12.00% | ~406 |
 | Hope Seeker | 12.00% | ~406 |
 | A Hunk of Junk | 11.00% | ~372 |
-| Man's Best Friend | 9.00% | ~304 |
+| Man's Best Friend | 9.00% | ~305 |
 | Power Outage | 8.00% | ~271 |
 | Convenient Transport | 8.00% | ~271 |
 | Please Make it Stop! | 8.00% | ~271 |
@@ -39,10 +39,10 @@ Rating: 4.58 (Ranked 447)
 | In Dolos We Trust | 4.00% | ~135 |
 | Pedal to the Metal | 4.00% | ~135 |
 | Drill-dozer | 4.00% | ~135 |
-| Praise the Hull! | 3.00% | ~101 |
-| Delivery! | 3.00% | ~101 |
-| Help of the Forgotten Member | 3.00% | ~101 |
-| Pulsar Disciple | 3.00% | ~101 |
+| Praise the Hull! | 3.00% | ~102 |
+| Delivery! | 3.00% | ~102 |
+| Help of the Forgotten Member | 3.00% | ~102 |
+| Pulsar Disciple | 3.00% | ~102 |
 | Mutual Loyalty | 2.00% | ~68 |
 | Tiqqun Contender | 2.00% | ~68 |
 | Catastrophe Avoided | 2.00% | ~68 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 447)
 | Suburban Perfection | 0.10% | ~3 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,383 (Ranked 207)  
+Progressed: 3,384 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-28 | 3,371 | 0 |
 | 2023-11-29 | 3,377 | 0 |
 | 2023-11-30 | 3,381 | 0 |
-| 2023-12-01 | 3,383 | 0 |
+| 2023-12-01 | 3,384 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

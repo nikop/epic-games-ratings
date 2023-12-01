@@ -1,24 +1,24 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 447)  
+Rating: 4.58 (Ranked 448)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~84,226 |
-| Alt+F4 | 9.00% | ~21,658 |
+| Sowwy! | 35.00% | ~84,229 |
+| Alt+F4 | 9.00% | ~21,659 |
 | Where's that freaking Dwarf? | 8.00% | ~19,252 |
-| Déjà vu | 7.00% | ~16,845 |
-| Sock! SOCK! | 5.00% | ~12,032 |
-| Speedrun | 5.00% | ~12,032 |
+| Déjà vu | 7.00% | ~16,846 |
+| Sock! SOCK! | 5.00% | ~12,033 |
+| Speedrun | 5.00% | ~12,033 |
 | A beer, two curses, three companions | 4.00% | ~9,626 |
 | GG EZ | 4.00% | ~9,626 |
 | DM intervention | 4.00% | ~9,626 |
 | Fireproof Wizardess | 4.00% | ~9,626 |
-| Livin' in a dwarven paradise | 3.00% | ~7,219 |
-| Way of the Wimp | 3.00% | ~7,219 |
-| The plot thickens... At the tavern | 3.00% | ~7,219 |
+| Livin' in a dwarven paradise | 3.00% | ~7,220 |
+| Way of the Wimp | 3.00% | ~7,220 |
+| The plot thickens... At the tavern | 3.00% | ~7,220 |
 | Shiny and Crôm | 2.00% | ~4,813 |
 | The demons' feast | 2.00% | ~4,813 |
 | The Great Library | 2.00% | ~4,813 |
@@ -38,12 +38,12 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 2.00% | ~4,813 |
 | Team Building Exercise | 2.00% | ~4,813 |
 | Oh, when I'll be level 10... | 2.00% | ~4,813 |
-| %#*!$*! | 1.00% | ~2,406 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,406 |
-| Dead for good | 1.00% | ~2,406 |
-| Gargantua | 1.00% | ~2,406 |
-| Lust and Debauchery | 1.00% | ~2,406 |
-| Material Girl | 1.00% | ~2,406 |
+| %#*!$*! | 1.00% | ~2,407 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,407 |
+| Dead for good | 1.00% | ~2,407 |
+| Gargantua | 1.00% | ~2,407 |
+| Lust and Debauchery | 1.00% | ~2,407 |
+| Material Girl | 1.00% | ~2,407 |
 | In Navalu's footsteps | 0.90% | ~2,166 |
 | Lëgal Legend | 0.80% | ~1,925 |
 | We come in peace | 0.70% | ~1,685 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~241 |
 | Dwarf Candy | 0.10% | ~241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,647 (Ranked 62)  
+Progressed: 240,655 (Ranked 62)  
 Completed: 7 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 7 (0.00%) (Ranked 363)
 | 2023-11-28 | 240,228 | 7 |
 | 2023-11-29 | 240,383 | 7 |
 | 2023-11-30 | 240,529 | 7 |
-| 2023-12-01 | 240,647 | 7 |
+| 2023-12-01 | 240,655 | 7 |
 ## Awards
 Max (Character Customization): 240  (Ranked 272)  
 Sum: 485 (Ranked 329)  

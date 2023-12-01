@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 357,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.52,
   "EosHistory": [
@@ -1710,9 +1710,9 @@
       "ID": "met_k",
       "SetID": "69co12a",
       "Name": "Depressed visitor",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 282
     },
     {
       "ID": "mick_house",
@@ -1742,9 +1742,9 @@
       "ID": "nero_basic",
       "SetID": "69co12a",
       "Name": "Neurotrainer \u2013 power gainer!",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 278
     },
     {
       "ID": "nero_extrime",
@@ -1862,9 +1862,9 @@
       "ID": "sleep_candy",
       "SetID": "69co12a",
       "Name": "Intriguing candies",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 207
     },
     {
       "ID": "soft_install",
@@ -1949,8 +1949,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-01T16:08:03.568163+00:00",
+  "LastChanged_Achievements": "2023-12-01T17:08:02.912864+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:14.0939135+00:00",
-  "LastUpdate_Ratings": "2023-12-01T15:58:52.6405747+00:00",
-  "LastUpdate_Achievements": "2023-12-01T16:08:03.5682098+00:00"
+  "LastUpdate_Ratings": "2023-12-01T16:58:22.5224044+00:00",
+  "LastUpdate_Achievements": "2023-12-01T17:08:02.9129128+00:00"
 }

@@ -264,8 +264,8 @@ Completed: 4 (0.11%) (Ranked 282)
 | 2023-12-01 | 3,700 | 4 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 477)  
-Sum: 245 (Ranked 384)  
-Diff (max vs sum): 93  
+Sum: 246 (Ranked 383)  
+Diff (max vs sum): 94  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 35 |
@@ -276,8 +276,8 @@ Diff (max vs sum): 93
 | This game is Relaxing | 26 |
 | This game is Extremely Fun | 25 |
 | This game has Obsessive Gameplay | 22 |
+| This game has Diverse Characters | 22 |
 | This game has a Creative Community | 21 |
-| This game has Diverse Characters | 21 |
 | This game has Amazing Storytelling | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -347,3 +347,4 @@ Diff (max vs sum): 93
 | 2023-09-17 | 4.55 | - | 35 | 244 |
 | 2023-11-13 | 4.55 | - | 35 | 245 |
 | 2023-11-28 | 4.56 | - | 35 | 245 |
+| 2023-12-01 | 4.56 | - | 35 | 246 |

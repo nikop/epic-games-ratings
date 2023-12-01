@@ -6,43 +6,43 @@ Number of Ratings: 1,046,587  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One small trip | 14.00% | ~5,139,678 |
-| Snowflake | 14.00% | ~5,139,678 |
-| Fall Throttle | 12.00% | ~4,405,438 |
-| Big Bully | 10.00% | ~3,671,199 |
-| Face First | 10.00% | ~3,671,199 |
-| One to Watch | 9.00% | ~3,304,079 |
-| Style Points | 9.00% | ~3,304,079 |
-| Troublemaker | 9.00% | ~3,304,079 |
-| Flawless Victory | 8.00% | ~2,936,959 |
-| Fall Bae | 8.00% | ~2,936,959 |
-| Stumble Chums | 8.00% | ~2,936,959 |
-| Ahead of the Pack | 7.00% | ~2,569,839 |
-| Victory! | 7.00% | ~2,569,839 |
-| Bargain Bucket | 5.00% | ~1,835,599 |
-| Household Name | 4.00% | ~1,468,479 |
-| One giant leap | 4.00% | ~1,468,479 |
-| Catwalk Model | 3.00% | ~1,101,360 |
-| Down to the Wire | 3.00% | ~1,101,360 |
-| Head Turner | 3.00% | ~1,101,360 |
-| Quite Dashing | 3.00% | ~1,101,360 |
-| Squad Goals | 3.00% | ~1,101,360 |
-| Big Air | 2.00% | ~734,240 |
-| Star of the Show | 2.00% | ~734,240 |
-| Shopping Spree | 2.00% | ~734,240 |
-| Top Tier | 2.00% | ~734,240 |
-| Low Baller | 1.00% | ~367,120 |
-| Mad Trendy | 1.00% | ~367,120 |
-| Veteran Status | 0.90% | ~330,408 |
-| Show Off | 0.90% | ~330,408 |
-| Golden Guy | 0.80% | ~293,696 |
-| Track Star | 0.70% | ~256,984 |
-| Big Tease | 0.40% | ~146,848 |
-| Fall Guy Fashionista | 0.40% | ~146,848 |
-| Infallible | 0.30% | ~110,136 |
+| One small trip | 14.00% | ~5,139,802 |
+| Snowflake | 14.00% | ~5,139,802 |
+| Fall Throttle | 12.00% | ~4,405,545 |
+| Big Bully | 10.00% | ~3,671,287 |
+| Face First | 10.00% | ~3,671,287 |
+| One to Watch | 9.00% | ~3,304,158 |
+| Style Points | 9.00% | ~3,304,158 |
+| Troublemaker | 9.00% | ~3,304,158 |
+| Flawless Victory | 8.00% | ~2,937,030 |
+| Fall Bae | 8.00% | ~2,937,030 |
+| Stumble Chums | 8.00% | ~2,937,030 |
+| Ahead of the Pack | 7.00% | ~2,569,901 |
+| Victory! | 7.00% | ~2,569,901 |
+| Bargain Bucket | 5.00% | ~1,835,644 |
+| Household Name | 4.00% | ~1,468,515 |
+| One giant leap | 4.00% | ~1,468,515 |
+| Catwalk Model | 3.00% | ~1,101,386 |
+| Down to the Wire | 3.00% | ~1,101,386 |
+| Head Turner | 3.00% | ~1,101,386 |
+| Quite Dashing | 3.00% | ~1,101,386 |
+| Squad Goals | 3.00% | ~1,101,386 |
+| Big Air | 2.00% | ~734,257 |
+| Star of the Show | 2.00% | ~734,257 |
+| Shopping Spree | 2.00% | ~734,257 |
+| Top Tier | 2.00% | ~734,257 |
+| Low Baller | 1.00% | ~367,129 |
+| Mad Trendy | 1.00% | ~367,129 |
+| Veteran Status | 0.90% | ~330,416 |
+| Show Off | 0.90% | ~330,416 |
+| Golden Guy | 0.80% | ~293,703 |
+| Track Star | 0.70% | ~256,990 |
+| Big Tease | 0.40% | ~146,851 |
+| Fall Guy Fashionista | 0.40% | ~146,851 |
+| Infallible | 0.30% | ~110,139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,711,987 (Ranked 1)  
-Completed: 47,139 (0.13%) (Ranked 272)  
+Progressed: 36,712,871 (Ranked 1)  
+Completed: 47,140 (0.13%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -266,16 +266,16 @@ Completed: 47,139 (0.13%) (Ranked 272)
 | 2023-11-28 | 36,675,604 | 46,990 |
 | 2023-11-29 | 36,688,560 | 47,048 |
 | 2023-11-30 | 36,701,658 | 47,106 |
-| 2023-12-01 | 36,711,987 | 47,139 |
+| 2023-12-01 | 36,712,871 | 47,140 |
 ## Awards
 Max (Great for Beginners): 152,363  (Ranked 7)  
-Sum: 1,388,750 (Ranked 5)  
+Sum: 1,388,797 (Ranked 5)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 152,363 |
 | This game is Relaxing | 137,005 |
-| This game is Great for Quick Sessions | 134,501 |
+| This game is Great for Quick Sessions | 134,548 |
 | This game has Competitive Players | 134,439 |
 | This game has Quickly Understood Controls | 134,154 |
 | This game has Diverse Characters | 130,577 |
@@ -597,4 +597,4 @@ Diff (max vs sum): 2
 | 2023-11-28 | 4.51 | - | 152,294 | 1,388,255 |
 | 2023-11-29 | 4.51 | - | 152,327 | 1,388,416 |
 | 2023-11-30 | 4.51 | - | 152,363 | 1,388,619 |
-| 2023-12-01 | 4.51 | - | 152,363 | 1,388,750 |
+| 2023-12-01 | 4.51 | - | 152,363 | 1,388,797 |

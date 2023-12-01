@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 239,
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1748,7 +1748,7 @@
   ],
   "EOS_Progressed": 488,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4926,9 +4926,9 @@
       "ID": "C_KNOWLEDGE",
       "SetID": "80dcan0",
       "Name": "Knowledge is Power",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 259
     },
     {
       "ID": "C_KNOWLEDGE_ALL",
@@ -5046,9 +5046,9 @@
       "ID": "M_HOME_RANK",
       "SetID": "80dcan0",
       "Name": "Builder of the Month",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 268
+      "UsersEstimate": 273
     },
     {
       "ID": "M_HOME_STAR",
@@ -5102,9 +5102,9 @@
       "ID": "P_FOREST",
       "SetID": "80dcan0",
       "Name": "The Little Wood that Could",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 20,
-      "UsersEstimate": 459
+      "UsersEstimate": 464
     },
     {
       "ID": "P_HYDROGEL",
@@ -5414,8 +5414,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-11-30T22:00:32.9034979+00:00",
-  "LastChanged_Achievements": "2023-12-01T16:08:09.5958232+00:00",
+  "LastChanged_Achievements": "2023-12-01T17:08:07.4250157+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:01.0814627+00:00",
-  "LastUpdate_Ratings": "2023-12-01T16:00:53.8889207+00:00",
-  "LastUpdate_Achievements": "2023-12-01T16:08:09.5958702+00:00"
+  "LastUpdate_Ratings": "2023-12-01T16:59:46.7699962+00:00",
+  "LastUpdate_Achievements": "2023-12-01T17:08:07.4250672+00:00"
 }

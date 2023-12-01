@@ -4,7 +4,7 @@
   "ProductSlug": "amelie-45eab1",
   "Ranking_EOS_Progress": 770,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewPlayers": 498,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-03-07T00:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:17.9569224+00:00",
   "LastChanged": "2023-03-31T05:57:17.9569225+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:01.6964145+00:00",
-  "LastUpdate_Ratings": "2023-12-01T16:01:29.7829581+00:00",
-  "LastUpdate_Achievements": "2023-12-01T16:03:55.7144592+00:00"
+  "LastUpdate_Ratings": "2023-12-01T17:00:12.8718875+00:00",
+  "LastUpdate_Achievements": "2023-12-01T17:03:20.9304506+00:00"
 }

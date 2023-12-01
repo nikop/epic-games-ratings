@@ -498,9 +498,9 @@
       "ID": "AC_DEATH_ENEMIES_3",
       "SetID": "16i2akc",
       "Name": "Genocide",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 45,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "AC_DISTANCE_1",
@@ -586,9 +586,9 @@
       "ID": "AC_PISTOL_MAX",
       "SetID": "16i2akc",
       "Name": "Gun",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "AC_RECIPES_DONE_1",
@@ -657,8 +657,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-01T16:05:33.4383017+00:00",
+  "LastChanged_Achievements": "2023-12-01T17:04:32.5217095+00:00",
   "LastUpdate_AppInfo": "2023-11-28T18:57:05.8641658+00:00",
-  "LastUpdate_Ratings": "2023-12-01T15:57:32.6531003+00:00",
-  "LastUpdate_Achievements": "2023-12-01T16:05:33.4383247+00:00"
+  "LastUpdate_Ratings": "2023-12-01T16:57:26.7818006+00:00",
+  "LastUpdate_Achievements": "2023-12-01T17:04:32.5217383+00:00"
 }
