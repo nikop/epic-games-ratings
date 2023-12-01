@@ -3187,10 +3187,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 5292,
       "NumberOfAwardsMax": 1636
+    },
+    {
+      "Time": "2023-12-01T14:03:07.0155939+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 5296,
+      "NumberOfAwardsMax": 1636
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5292,
+  "NumberOfAwards": 5296,
   "NumberOfAwardsMax": 1636,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3210,7 +3216,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 360
+      "Count": 364
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3267,9 +3273,9 @@
       "Count": 402
     }
   ],
-  "EOS_Progressed": 9431,
+  "EOS_Progressed": 9432,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 471,
+  "EOS_NewPlayers": 470,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10132,6 +10138,11 @@
       "Time": "2023-12-01T12:07:57.854553+00:00",
       "NumProgressed": 9431,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T14:08:06.7368015+00:00",
+      "NumProgressed": 9432,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -10168,7 +10179,7 @@
       "Name": "What Just Happened??",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 2263
+      "UsersEstimate": 2264
     },
     {
       "ID": "ach05",
@@ -10184,7 +10195,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 7073
+      "UsersEstimate": 7074
     },
     {
       "ID": "ach07",
@@ -10192,7 +10203,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 5281
+      "UsersEstimate": 5282
     },
     {
       "ID": "ach08",
@@ -10200,7 +10211,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3772
+      "UsersEstimate": 3773
     },
     {
       "ID": "ach09",
@@ -10224,7 +10235,7 @@
       "Name": "Karnage",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "ach12",
@@ -10256,7 +10267,7 @@
       "Name": "Give A Koin",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2546
+      "UsersEstimate": 2547
     },
     {
       "ID": "ach16",
@@ -10272,7 +10283,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 4904
+      "UsersEstimate": 4905
     },
     {
       "ID": "ach18",
@@ -10280,7 +10291,7 @@
       "Name": "Adventure Time",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3489
+      "UsersEstimate": 3490
     },
     {
       "ID": "ach19",
@@ -10328,7 +10339,7 @@
       "Name": "Ultimate Power",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 4338
+      "UsersEstimate": 4339
     },
     {
       "ID": "ach25",
@@ -10344,7 +10355,7 @@
       "Name": "Running On Empty",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "ach27",
@@ -10360,7 +10371,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3112
+      "UsersEstimate": 3113
     },
     {
       "ID": "ach29",
@@ -10368,7 +10379,7 @@
       "Name": "Unstoppable",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 2263
+      "UsersEstimate": 2264
     },
     {
       "ID": "ach30",
@@ -10392,7 +10403,7 @@
       "Name": "Who Da Boss??",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2546
+      "UsersEstimate": 2547
     },
     {
       "ID": "ach33",
@@ -10400,7 +10411,7 @@
       "Name": "Vanquished",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "ach34",
@@ -10416,7 +10427,7 @@
       "Name": "Kollector",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "ach36",
@@ -10464,7 +10475,7 @@
       "Name": "Stop Hiding",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 3395
+      "UsersEstimate": 3396
     },
     {
       "ID": "ach42",
@@ -10472,7 +10483,7 @@
       "Name": "Quest Master",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 4055
+      "UsersEstimate": 4056
     },
     {
       "ID": "ach43",
@@ -10543,16 +10554,16 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 9431,
+      "Progressed": 9432,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-12-01T11:02:52.8832867+00:00",
-  "LastChanged_Achievements": "2023-12-01T13:14:33.8090713+00:00",
+  "LastChanged": "2023-12-01T14:03:07.0155937+00:00",
+  "LastChanged_Achievements": "2023-12-01T14:08:06.7368011+00:00",
   "LastUpdate_AppInfo": "2023-11-25T10:57:15.5645679+00:00",
-  "LastUpdate_Ratings": "2023-12-01T13:09:14.1437037+00:00",
-  "LastUpdate_Achievements": "2023-12-01T13:14:33.8091652+00:00"
+  "LastUpdate_Ratings": "2023-12-01T14:03:07.0155942+00:00",
+  "LastUpdate_Achievements": "2023-12-01T14:08:06.7368687+00:00"
 }

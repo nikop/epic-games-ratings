@@ -826,9 +826,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 9788,
+  "EOS_Progressed": 9789,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12191,6 +12191,11 @@
       "Time": "2023-12-01T13:14:17.1774006+00:00",
       "NumProgressed": 9788,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-01T14:07:03.6404962+00:00",
+      "NumProgressed": 9789,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 50,
@@ -12202,7 +12207,7 @@
       "Name": "Adventure Time",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 7439
+      "UsersEstimate": 7440
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -12234,7 +12239,7 @@
       "Name": "Coup d\u0027Etat",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5481
+      "UsersEstimate": 5482
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -12370,7 +12375,7 @@
       "Name": "Meching Enemies",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 4600
+      "UsersEstimate": 4601
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -12402,7 +12407,7 @@
       "Name": "Photogenic",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 8222
+      "UsersEstimate": 8223
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -12410,7 +12415,7 @@
       "Name": "Playing With Power",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 7145
+      "UsersEstimate": 7146
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -12418,7 +12423,7 @@
       "Name": "Plug It In",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 7830
+      "UsersEstimate": 7831
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -12506,7 +12511,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 7928
+      "UsersEstimate": 7929
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -12578,7 +12583,7 @@
       "Name": "To Be Continued",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1273
     },
     {
       "ID": "ACH_TREASURE_HUNTING",
@@ -12594,22 +12599,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 5383
+      "UsersEstimate": 5384
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 9788,
+      "Progressed": 9789,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-11-27T06:59:40.9227353+00:00",
-  "LastChanged_Achievements": "2023-12-01T13:14:17.1774001+00:00",
+  "LastChanged_Achievements": "2023-12-01T14:07:03.6404955+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:04.5985869+00:00",
-  "LastUpdate_Ratings": "2023-12-01T13:04:05.5143227+00:00",
-  "LastUpdate_Achievements": "2023-12-01T13:14:17.1774926+00:00"
+  "LastUpdate_Ratings": "2023-12-01T13:57:47.1175316+00:00",
+  "LastUpdate_Achievements": "2023-12-01T14:07:03.640588+00:00"
 }

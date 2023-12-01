@@ -19,7 +19,7 @@
 | Obsessively Thorough | 12.00% | ~152 |
 | Endlessly Effective | 11.00% | ~139 |
 | What's Behind Every Door? | 6.00% | ~76 |
-| No Stone Unturned | 4.00% | ~51 |
+| No Stone Unturned | 5.00% | ~63 |
 | Turret Syndrome | 2.00% | ~25 |
 | Endless Biographer | 1.00% | ~13 |
 | All Your Secrets Are Belong to Us | 0.50% | ~6 |

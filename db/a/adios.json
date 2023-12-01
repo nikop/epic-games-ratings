@@ -123,9 +123,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 79523,
+  "EOS_Progressed": 79525,
   "EOS_Completed": 858,
-  "EOS_NewPlayers": 486,
+  "EOS_NewPlayers": 485,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -25208,6 +25208,11 @@
       "Time": "2023-12-01T13:12:05.2883125+00:00",
       "NumProgressed": 79523,
       "NumCompleted": 858
+    },
+    {
+      "Time": "2023-12-01T14:05:19.4552825+00:00",
+      "NumProgressed": 79525,
+      "NumCompleted": 858
     }
   ],
   "TotalAchievements": 25,
@@ -25235,7 +25240,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 15109
+      "UsersEstimate": 15110
     },
     {
       "ID": "Audiophile",
@@ -25251,7 +25256,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17495
+      "UsersEstimate": 17496
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -25275,7 +25280,7 @@
       "Name": "Cut Call",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4771
+      "UsersEstimate": 4772
     },
     {
       "ID": "Fair\u0027sFair",
@@ -25339,7 +25344,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15109
+      "UsersEstimate": 15110
     },
     {
       "ID": "Nice Try",
@@ -25418,7 +25423,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 79523,
+      "Progressed": 79525,
       "Completed": 858
     }
   ],
@@ -25426,8 +25431,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-12-01T13:12:05.2883121+00:00",
+  "LastChanged_Achievements": "2023-12-01T14:05:19.4552822+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:30.5641615+00:00",
-  "LastUpdate_Ratings": "2023-12-01T13:03:27.7140607+00:00",
-  "LastUpdate_Achievements": "2023-12-01T13:12:05.2884441+00:00"
+  "LastUpdate_Ratings": "2023-12-01T13:57:18.5310287+00:00",
+  "LastUpdate_Achievements": "2023-12-01T14:05:19.4554306+00:00"
 }

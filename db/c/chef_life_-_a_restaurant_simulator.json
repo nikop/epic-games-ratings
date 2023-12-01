@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 716,
+  "EOS_Progressed": 717,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3167,6 +3167,11 @@
       "Time": "2023-12-01T09:09:23.9325975+00:00",
       "NumProgressed": 716,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T14:08:37.161363+00:00",
+      "NumProgressed": 717,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3250,7 +3255,7 @@
       "Name": "Perfectionist",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "DilemasResponsibility10",
@@ -3338,7 +3343,7 @@
       "Name": "Haute Cuisine",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "Money10000",
@@ -3362,7 +3367,7 @@
       "Name": "Next Level Cuisine",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "PerfectGrade25",
@@ -3378,7 +3383,7 @@
       "Name": "Home Cook",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "RecipeDifferent30",
@@ -3497,7 +3502,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 716,
+      "Progressed": 717,
       "Completed": 0
     }
   ],
@@ -3505,8 +3510,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-12-01T13:15:12.8823482+00:00",
+  "LastChanged_Achievements": "2023-12-01T14:08:37.1613628+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:20.506363+00:00",
-  "LastUpdate_Ratings": "2023-12-01T13:05:43.1216616+00:00",
-  "LastUpdate_Achievements": "2023-12-01T13:15:12.8823808+00:00"
+  "LastUpdate_Ratings": "2023-12-01T13:59:01.4424902+00:00",
+  "LastUpdate_Achievements": "2023-12-01T14:08:37.1614026+00:00"
 }

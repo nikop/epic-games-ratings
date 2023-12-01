@@ -22,8 +22,8 @@
 | The Ascent | 53.00% | ~269 |
 | It's Warm and Cozy at Home | 53.00% | ~269 |
 | Hard Work | 48.00% | ~243 |
+| YOU SHALL NOT PASS! | 47.00% | ~238 |
 | The Big Eaty | 47.00% | ~238 |
-| YOU SHALL NOT PASS! | 46.00% | ~233 |
 | “… like son” | 43.00% | ~218 |
 | Pure Dynamite! | 42.00% | ~213 |
 | Dungeonlord Gorgu | 39.00% | ~198 |
@@ -44,19 +44,19 @@
 | Stop Tanos! | 18.00% | ~91 |
 | Doom Hill | 18.00% | ~91 |
 | Sabotage! | 17.00% | ~86 |
+| Brimstone Shaken, Not Stirred | 17.00% | ~86 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~81 |
 | Bonus Evilness | 16.00% | ~81 |
-| Brimstone Shaken, Not Stirred | 16.00% | ~81 |
 | The Rune Sockets of Finitude (Part 1) | 15.00% | ~76 |
 | My Little Torture Chamber | 14.00% | ~71 |
 | Raiders of the Lost Stone | 14.00% | ~71 |
 | Lavalumps on Ice! | 13.00% | ~66 |
 | The Rune Sockets of Finitude (Part 2) | 13.00% | ~66 |
 | Rubble and Ashes | 12.00% | ~61 |
+| To the Max! | 11.00% | ~56 |
 | To Infinity And Beyond! | 11.00% | ~56 |
 | The Last Stand - This Time For Real! | 11.00% | ~56 |
 | Mirror, Mirror | 10.00% | ~51 |
-| To the Max! | 10.00% | ~51 |
 | Untouchable | 9.00% | ~46 |
 | Heal Heal Blessing | 8.00% | ~41 |
 | Evilification | 8.00% | ~41 |

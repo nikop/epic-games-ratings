@@ -377,9 +377,9 @@
       "ID": "DM",
       "SetID": "2621k8c",
       "Name": "Dance Master",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "DP",
@@ -417,9 +417,9 @@
       "ID": "EB",
       "SetID": "2621k8c",
       "Name": "Extremely boring",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "EE",
@@ -721,9 +721,9 @@
       "ID": "Merged",
       "SetID": "2621k8c",
       "Name": "Merged",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Mistress",
@@ -1080,8 +1080,8 @@
   ],
   "FirstSeen": "2023-11-21T16:57:18.9896255+00:00",
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2023-12-01T13:16:29.4412964+00:00",
+  "LastChanged_Achievements": "2023-12-01T14:09:37.6243712+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.2694793+00:00",
-  "LastUpdate_Ratings": "2023-12-01T13:05:15.2651494+00:00",
-  "LastUpdate_Achievements": "2023-12-01T13:16:29.4413891+00:00"
+  "LastUpdate_Ratings": "2023-12-01T13:58:40.0625585+00:00",
+  "LastUpdate_Achievements": "2023-12-01T14:09:37.6244494+00:00"
 }

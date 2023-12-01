@@ -2,7 +2,7 @@
   "ID": "aa598567414d42378187b8861da550f7",
   "Name": "Remnant 2",
   "ProductSlug": "remnant-2",
-  "Ranking_Rating": 150,
+  "Ranking_Rating": 149,
   "Ranking_Popularity": 102,
   "Ranking_PopularitySum": 129,
   "Ranking_EOS_Progress": 69,
@@ -4927,10 +4927,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6221,
       "NumberOfAwardsMax": 2533
+    },
+    {
+      "Time": "2023-12-01T14:03:19.436321+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6228,
+      "NumberOfAwardsMax": 2533
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6221,
+  "NumberOfAwards": 6228,
   "NumberOfAwardsMax": 2533,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4998,13 +5004,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 381
+      "Count": 388
     }
   ],
-  "EOS_Progressed": 231819,
+  "EOS_Progressed": 231868,
   "EOS_Completed": 544,
-  "EOS_NewPlayers": 4947,
-  "EOS_NewCompleters": 31,
+  "EOS_NewPlayers": 4943,
+  "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -20821,6 +20827,11 @@
       "Time": "2023-12-01T13:15:22.7046437+00:00",
       "NumProgressed": 231819,
       "NumCompleted": 544
+    },
+    {
+      "Time": "2023-12-01T14:08:44.7422034+00:00",
+      "NumProgressed": 231868,
+      "NumCompleted": 544
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20849,7 +20860,7 @@
       "Name": "Am I Seeing This?",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "Defeat_Abberations_B",
@@ -20977,7 +20988,7 @@
       "Name": "Not a Janitor",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "Meet_Flautist",
@@ -20993,7 +21004,7 @@
       "Name": "Equal Measures",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "Meet_Mudtooth",
@@ -21009,7 +21020,7 @@
       "Name": "Blue Goddess",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "Obtain_Archetype",
@@ -21025,7 +21036,7 @@
       "Name": "Duality",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -21033,7 +21044,7 @@
       "Name": "Top Performer",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "Obtain_Archetype_Secret",
@@ -21041,7 +21052,7 @@
       "Name": "Shhh...It\u0027s a Secret",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "Obtain_Blood_Moon_Item",
@@ -21057,7 +21068,7 @@
       "Name": "Was This Supposed To Happen?",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "Obtain_Boss_Weapon",
@@ -21177,7 +21188,7 @@
       "Name": "Almost There",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "Upgrade_Relic",
@@ -21185,7 +21196,7 @@
       "Name": "Make Some Room",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "Upgrade_Standard_Weapon_A",
@@ -21193,7 +21204,7 @@
       "Name": "Good, But Could Be Better!",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "Upgrade_Standard_Weapon_B",
@@ -21272,22 +21283,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 231819,
+      "Progressed": 231868,
       "Completed": 544
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 10984,
+      "Progressed": 11033,
       "Completed": 177
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-12-01T06:03:30.7089672+00:00",
-  "LastChanged_Achievements": "2023-12-01T13:15:22.7046433+00:00",
+  "LastChanged": "2023-12-01T14:03:19.4363208+00:00",
+  "LastChanged_Achievements": "2023-12-01T14:08:44.742203+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-12-01T13:09:30.2189463+00:00",
-  "LastUpdate_Achievements": "2023-12-01T13:15:22.7047473+00:00"
+  "LastUpdate_Ratings": "2023-12-01T14:03:19.4363214+00:00",
+  "LastUpdate_Achievements": "2023-12-01T14:08:44.7423227+00:00"
 }

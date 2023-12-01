@@ -560,9 +560,9 @@
       "ID": "ACH_A_BUDDING_PARTNERSHIP",
       "SetID": "8h8m55b",
       "Name": "A Budding Partnership",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_BAD_MEMORY",
@@ -664,9 +664,9 @@
       "ID": "ACH_FINISH_ONCE",
       "SetID": "8h8m55b",
       "Name": "One Way to Find Out",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_FIRSTLOVE",
@@ -728,9 +728,9 @@
       "ID": "ACH_HYDE_LEIBOVITZ",
       "SetID": "8h8m55b",
       "Name": "Hyde Leibovitz",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_JUST_MARRIED",
@@ -824,9 +824,9 @@
       "ID": "ACH_TENDER_SOUL",
       "SetID": "8h8m55b",
       "Name": "Tender Soul",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_THE_HIBISCUS_AND_BUTTERFLY",
@@ -959,8 +959,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-12-01T13:13:05.3860021+00:00",
+  "LastChanged_Achievements": "2023-12-01T14:06:08.7646752+00:00",
   "LastUpdate_AppInfo": "2023-11-28T18:57:07.4987948+00:00",
-  "LastUpdate_Ratings": "2023-12-01T13:03:16.1794963+00:00",
-  "LastUpdate_Achievements": "2023-12-01T13:13:05.3860522+00:00"
+  "LastUpdate_Ratings": "2023-12-01T13:57:09.9289211+00:00",
+  "LastUpdate_Achievements": "2023-12-01T14:06:08.7647141+00:00"
 }

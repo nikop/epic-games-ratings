@@ -2,7 +2,7 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 129,
+  "Ranking_Rating": 128,
   "Ranking_Popularity": 122,
   "Ranking_PopularitySum": 120,
   "Ranking_EOS_Progress": 159,
@@ -4441,7 +4441,7 @@
   ],
   "EOS_Progressed": 12214,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16384,9 +16384,9 @@
       "ID": "13_PathOfLich",
       "SetID": "989of5o",
       "Name": "Path of the Lich",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 366
     },
     {
       "ID": "14_PathOfSwarm",
@@ -17230,8 +17230,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-01T04:58:29.6250067+00:00",
-  "LastChanged_Achievements": "2023-12-01T13:15:43.5405426+00:00",
+  "LastChanged_Achievements": "2023-12-01T14:09:01.1351702+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:49.3159315+00:00",
-  "LastUpdate_Ratings": "2023-12-01T13:04:41.2786683+00:00",
-  "LastUpdate_Achievements": "2023-12-01T13:15:43.5406931+00:00"
+  "LastUpdate_Ratings": "2023-12-01T13:58:14.1450387+00:00",
+  "LastUpdate_Achievements": "2023-12-01T14:09:01.1353858+00:00"
 }

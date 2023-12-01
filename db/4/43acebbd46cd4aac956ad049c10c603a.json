@@ -169,9 +169,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 805,
+  "EOS_Progressed": 806,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1814,6 +1814,11 @@
       "Time": "2023-12-01T12:03:40.6547187+00:00",
       "NumProgressed": 805,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-01T14:03:58.1782072+00:00",
+      "NumProgressed": 806,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1824,9 +1829,9 @@
       "ID": "AbAeterno",
       "SetID": "1n308hc",
       "Name": "Ab Aeterno",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "AbInitio",
@@ -1856,9 +1861,9 @@
       "ID": "Balance",
       "SetID": "1n308hc",
       "Name": "Balance",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "BecomingSmarter",
@@ -1992,9 +1997,9 @@
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 40
     },
     {
       "ID": "JustOneLap",
@@ -2168,9 +2173,9 @@
       "ID": "TeamSpirit",
       "SetID": "1n308hc",
       "Name": "Team Spirit",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 40
     },
     {
       "ID": "TextAdventurer",
@@ -2297,7 +2302,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 805,
+      "Progressed": 806,
       "Completed": 1
     }
   ],
@@ -2305,8 +2310,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-30T22:00:34.4965769+00:00",
-  "LastChanged_Achievements": "2023-12-01T13:10:19.6200116+00:00",
+  "LastChanged_Achievements": "2023-12-01T14:03:58.1782067+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-01T13:07:07.4740369+00:00",
-  "LastUpdate_Achievements": "2023-12-01T13:10:19.620054+00:00"
+  "LastUpdate_Ratings": "2023-12-01T14:00:05.5655346+00:00",
+  "LastUpdate_Achievements": "2023-12-01T14:03:58.1782648+00:00"
 }

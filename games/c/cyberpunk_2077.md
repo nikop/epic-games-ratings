@@ -6,41 +6,41 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 11.00% | ~106,213 |
-| Gun Fu | 6.00% | ~57,935 |
-| The Fool | 5.00% | ~48,279 |
-| Right Back At Ya | 4.00% | ~38,623 |
-| The Lovers | 4.00% | ~38,623 |
-| Full Body Conversion | 2.00% | ~19,312 |
-| Christmas Tree Attack | 2.00% | ~19,312 |
-| Stanislavski's Method | 2.00% | ~19,312 |
-| The Hermit | 2.00% | ~19,312 |
-| The Wheel of Fortune | 2.00% | ~19,312 |
-| True Soldier | 2.00% | ~19,312 |
-| True Warrior | 2.00% | ~19,312 |
-| Relic Ruler | 2.00% | ~1,884 |
-| All the President's Men | 2.00% | ~1,884 |
-| Bushido and Chill | 1.00% | ~9,656 |
-| The Quick and the Dead | 1.00% | ~9,656 |
-| Life of the Road | 1.00% | ~9,656 |
-| The High Priestess | 1.00% | ~9,656 |
-| The World | 1.00% | ~9,656 |
-| Legend of The Afterlife | 1.00% | ~9,656 |
-| Arachnophobia | 1.00% | ~942 |
-| Master Crafter | 0.90% | ~8,690 |
-| I Am The Law | 0.80% | ~7,725 |
-| Two Heads, One Bullet | 0.80% | ~7,725 |
-| Judy vs Night City | 0.80% | ~7,725 |
-| Spin Doctor | 0.80% | ~754 |
-| To Protect and Serve | 0.70% | ~6,759 |
-| The Wandering Fool | 0.60% | ~5,793 |
-| King of Wands | 0.60% | ~565 |
-| Dirty Deeds | 0.60% | ~565 |
-| Easy Come, Easy Go | 0.60% | ~565 |
-| Ten out of Ten | 0.50% | ~4,828 |
-| To Bad Decisions! | 0.40% | ~3,862 |
-| The Star | 0.40% | ~3,862 |
-| The Sun | 0.40% | ~3,862 |
+| V for Vendetta | 11.00% | ~106,228 |
+| Gun Fu | 6.00% | ~57,942 |
+| The Fool | 5.00% | ~48,285 |
+| Right Back At Ya | 4.00% | ~38,628 |
+| The Lovers | 4.00% | ~38,628 |
+| Full Body Conversion | 2.00% | ~19,314 |
+| Christmas Tree Attack | 2.00% | ~19,314 |
+| Stanislavski's Method | 2.00% | ~19,314 |
+| The Hermit | 2.00% | ~19,314 |
+| The Wheel of Fortune | 2.00% | ~19,314 |
+| True Soldier | 2.00% | ~19,314 |
+| True Warrior | 2.00% | ~19,314 |
+| Relic Ruler | 2.00% | ~1,887 |
+| All the President's Men | 2.00% | ~1,887 |
+| Bushido and Chill | 1.00% | ~9,657 |
+| The Quick and the Dead | 1.00% | ~9,657 |
+| Life of the Road | 1.00% | ~9,657 |
+| The High Priestess | 1.00% | ~9,657 |
+| The World | 1.00% | ~9,657 |
+| Legend of The Afterlife | 1.00% | ~9,657 |
+| Arachnophobia | 1.00% | ~943 |
+| Master Crafter | 0.90% | ~8,691 |
+| I Am The Law | 0.80% | ~7,726 |
+| Two Heads, One Bullet | 0.80% | ~7,726 |
+| Judy vs Night City | 0.80% | ~7,726 |
+| Spin Doctor | 0.80% | ~755 |
+| To Protect and Serve | 0.70% | ~6,760 |
+| The Wandering Fool | 0.60% | ~5,794 |
+| King of Wands | 0.60% | ~566 |
+| Dirty Deeds | 0.60% | ~566 |
+| Easy Come, Easy Go | 0.60% | ~566 |
+| Ten out of Ten | 0.50% | ~4,829 |
+| To Bad Decisions! | 0.40% | ~3,863 |
+| The Star | 0.40% | ~3,863 |
+| The Sun | 0.40% | ~3,863 |
 | The Tower | 0.40% | ~377 |
 | Autojock | 0.30% | ~2,897 |
 | Must Be Rats | 0.30% | ~2,897 |
@@ -50,7 +50,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Pentacles | 0.30% | ~283 |
 | King of Swords | 0.30% | ~283 |
 | Temperance | 0.20% | ~1,931 |
-| King of Cups | 0.20% | ~188 |
+| King of Cups | 0.20% | ~189 |
 | City Lights | 0.10% | ~966 |
 | Frequent Flyer | 0.10% | ~966 |
 | Gunslinger | 0.10% | ~966 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 965,577 (Ranked 15)  
-Completed: 2,829 (0.29%) (Ranked 238)  
+Progressed: 965,707 (Ranked 15)  
+Completed: 2,830 (0.29%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -299,10 +299,10 @@ Completed: 2,829 (0.29%) (Ranked 238)
 | 2023-11-28 | 960,226 | 2,821 |
 | 2023-11-29 | 962,972 | 2,823 |
 | 2023-11-30 | 964,640 | 2,827 |
-| 2023-12-01 | 965,577 | 2,829 |
+| 2023-12-01 | 965,707 | 2,830 |
 ## Awards
 Max (Character Customization): 112,636  (Ranked 9)  
-Sum: 376,942 (Ranked 9)  
+Sum: 377,074 (Ranked 9)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -310,7 +310,7 @@ Diff (max vs sum): 0
 | This game has Great Boss Battles | 81,397 |
 | This game is Great for Beginners | 22,676 |
 | This game has Diverse Characters | 22,290 |
-| This game is Highly Recommended | 21,270 |
+| This game is Highly Recommended | 21,402 |
 | This game has Amazing Storytelling | 21,235 |
 | This game is Extremely Fun | 20,909 |
 | This game has Amazing Characters | 20,690 |
@@ -636,4 +636,4 @@ Diff (max vs sum): 0
 | 2023-11-28 | 4.65 | - | 110,923 | 371,115 |
 | 2023-11-29 | 4.65 | - | 111,778 | 373,471 |
 | 2023-11-30 | 4.65 | - | 112,636 | 375,982 |
-| 2023-12-01 | 4.65 | - | 112,636 | 376,942 |
+| 2023-12-01 | 4.65 | - | 112,636 | 377,074 |

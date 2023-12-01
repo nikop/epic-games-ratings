@@ -1,7 +1,7 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 129)  
+Rating: 4.76 (Ranked 128)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -31,6 +31,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | A Flame | 4.00% | ~489 |
 | Hey, I Know You! | 4.00% | ~489 |
 | Path of the Trickster | 3.00% | ~366 |
+| Path of the Lich | 3.00% | ~366 |
 | Heroic Victory | 3.00% | ~366 |
 | Core of the Riddle | 3.00% | ~366 |
 | Hanged Man's Notes | 3.00% | ~330 |
@@ -39,7 +40,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Beware Still Water | 3.00% | ~330 |
 | Path of the Demon | 2.00% | ~244 |
 | Path of the Aeon | 2.00% | ~244 |
-| Path of the Lich | 2.00% | ~244 |
 | Capitulation Is Now Moot | 2.00% | ~244 |
 | Your First Big Enemy | 2.00% | ~244 |
 | Truly Important Deed | 2.00% | ~244 |

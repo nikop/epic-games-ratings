@@ -1,20 +1,20 @@
 # Love Is All Around
 [Store](https://store.epicgames.com/en-US/p/love-is-all-around-3a8046)  
 [View Rawdata](../../db/b/b7cca975adbf41e4a41f3ece9e61e08a.json)  
-Rating: 4.76 (Ranked 129)  
+Rating: 4.76 (Ranked 128)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 91.00% | ~9,539 |
+| Last Night...Did We... | 91.00% | ~9,540 |
 | I Challenge You To Save More Money! | 86.00% | ~9,015 |
-| I Love How Tough You Are | 72.00% | ~7,547 |
-| Wanna Come To My Place For Dinner? | 66.00% | ~6,918 |
-| What I Want Is You | 60.00% | ~6,289 |
+| I Love How Tough You Are | 72.00% | ~7,548 |
+| Wanna Come To My Place For Dinner? | 66.00% | ~6,919 |
+| What I Want Is You | 60.00% | ~6,290 |
 | To Be Or Not To Be | 57.00% | ~5,975 |
-| Are You Alright? | 50.00% | ~5,241 |
-| Love Actually | 48.00% | ~5,031 |
-| Drama King | 42.00% | ~4,402 |
-| You're Really Something Else | 37.00% | ~3,878 |
+| Are You Alright? | 50.00% | ~5,242 |
+| Love Actually | 48.00% | ~5,032 |
+| Drama King | 42.00% | ~4,403 |
+| You're Really Something Else | 37.00% | ~3,879 |
 | Go Clean up In Your Own Way | 36.00% | ~3,774 |
 | Happy Family | 35.00% | ~3,669 |
 | Worthless Speech | 35.00% | ~3,669 |
@@ -22,12 +22,12 @@ Rating: 4.76 (Ranked 129)
 | FIRST LOVE | 34.00% | ~3,564 |
 | Drama CP: Reel to Real | 34.00% | ~3,564 |
 | Absolutely Elegant | 33.00% | ~3,459 |
-| Still Single | 32.00% | ~3,354 |
+| Still Single | 32.00% | ~3,355 |
 | Days Of Innocence | 30.00% | ~3,145 |
 | Go Get Some Fries On The Pier | 29.00% | ~3,040 |
 | David | 29.00% | ~3,040 |
-| All I Have Is Money | 25.00% | ~2,620 |
-| A Slap In The Face! | 25.00% | ~2,620 |
+| All I Have Is Money | 25.00% | ~2,621 |
+| A Slap In The Face! | 25.00% | ~2,621 |
 | Lover In Dark Alley | 24.00% | ~2,516 |
 | That's So You | 24.00% | ~2,516 |
 | SALUTE | 24.00% | ~2,516 |
@@ -35,7 +35,7 @@ Rating: 4.76 (Ranked 129)
 | Off We Sail Tonight | 19.00% | ~1,992 |
 | Love You Three Thousand | 16.00% | ~1,677 |
 | Can You Do This Or Not? | 16.00% | ~1,677 |
-| Doesn't Matter I'll Handle It | 14.00% | ~1,467 |
+| Doesn't Matter I'll Handle It | 14.00% | ~1,468 |
 | The Flash | 12.00% | ~1,258 |
 | New Yoga Pose Unlocked | 11.00% | ~1,153 |
 | My Dear Love! | 9.00% | ~943 |
@@ -48,8 +48,8 @@ Rating: 4.76 (Ranked 129)
 | Tall; Grande; Venti | 2.00% | ~210 |
 | Limerence | 2.00% | ~210 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,482 (Ranked 164)  
-Completed: 181 (1.73%) (Ranked 136)  
+Progressed: 10,483 (Ranked 164)  
+Completed: 182 (1.74%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -103,7 +103,7 @@ Completed: 181 (1.73%) (Ranked 136)
 | 2023-11-28 | 10,324 | 174 |
 | 2023-11-29 | 10,398 | 176 |
 | 2023-11-30 | 10,446 | 178 |
-| 2023-12-01 | 10,482 | 181 |
+| 2023-12-01 | 10,483 | 182 |
 ## Awards
 Max (Impact the Story): 23  (Ranked 534)  
 Sum: 23 (Ranked 537)  

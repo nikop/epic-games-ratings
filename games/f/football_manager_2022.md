@@ -1,57 +1,57 @@
 # Football Manager 2022
 [Store](https://store.epicgames.com/en-US/p/football-manager-2022)  
 [View Rawdata](../../db/f/football_manager_2022.json)  
-Rating: 4.80 (Ranked 90)  
+Rating: 4.80 (Ranked 89)  
 Number of Ratings: 19,160  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~238,476 |
-| He's Signed! | 50.00% | ~238,476 |
-| First Victory | 50.00% | ~238,476 |
-| He's Sold! | 48.00% | ~228,937 |
-| I'm The Boss! | 42.00% | ~200,320 |
-| Hat-trick | 41.00% | ~195,550 |
-| Scoring Streak | 38.00% | ~181,242 |
-| Unbeatable! | 37.00% | ~176,472 |
-| Thumping | 37.00% | ~176,472 |
-| Superb Dressing Room Atmosphere | 35.00% | ~166,933 |
+| Clean Sheet | 50.00% | ~238,477 |
+| He's Signed! | 50.00% | ~238,477 |
+| First Victory | 50.00% | ~238,477 |
+| He's Sold! | 48.00% | ~228,938 |
+| I'm The Boss! | 42.00% | ~200,321 |
+| Hat-trick | 41.00% | ~195,551 |
+| Scoring Streak | 38.00% | ~181,243 |
+| Unbeatable! | 37.00% | ~176,473 |
+| Thumping | 37.00% | ~176,473 |
+| Superb Dressing Room Atmosphere | 35.00% | ~166,934 |
 | Total Support | 32.00% | ~152,625 |
 | Record Signing | 32.00% | ~152,625 |
-| He's a Natural | 31.00% | ~147,855 |
-| Millionaire's Club | 31.00% | ~147,855 |
+| He's a Natural | 31.00% | ~147,856 |
+| Millionaire's Club | 31.00% | ~147,856 |
 | Team Performance | 30.00% | ~143,086 |
-| Parked The Bus | 29.00% | ~138,316 |
-| Shrewd Spender | 29.00% | ~138,316 |
-| Star Man | 29.00% | ~138,316 |
+| Parked The Bus | 29.00% | ~138,317 |
+| Shrewd Spender | 29.00% | ~138,317 |
+| Star Man | 29.00% | ~138,317 |
 | Attack! | 28.00% | ~133,547 |
-| You're On Fire | 27.00% | ~128,777 |
-| Tremendous Trio | 27.00% | ~128,777 |
-| Record Sale | 27.00% | ~128,777 |
+| You're On Fire | 27.00% | ~128,778 |
+| Tremendous Trio | 27.00% | ~128,778 |
+| Record Sale | 27.00% | ~128,778 |
 | On A Roll | 26.00% | ~124,008 |
 | Unstoppable Force | 26.00% | ~124,008 |
 | Armchair Expert | 25.00% | ~119,238 |
-| Fantastic Five | 24.00% | ~114,468 |
-| Full Faith | 24.00% | ~114,468 |
-| Iron Curtain | 24.00% | ~114,468 |
-| The Boss | 24.00% | ~114,468 |
+| Fantastic Five | 24.00% | ~114,469 |
+| Full Faith | 24.00% | ~114,469 |
+| Iron Curtain | 24.00% | ~114,469 |
+| The Boss | 24.00% | ~114,469 |
 | Top Of The Class | 23.00% | ~109,699 |
 | Goal Machine | 23.00% | ~109,699 |
-| Splashing The Cash | 22.00% | ~104,929 |
-| Clean Bill of Health | 22.00% | ~104,929 |
-| What A Goal! | 22.00% | ~104,929 |
-| Cup Glory! | 22.00% | ~104,929 |
-| Irresistible Force | 20.00% | ~95,390 |
-| Excellent Match Cohesion | 20.00% | ~95,390 |
+| Splashing The Cash | 22.00% | ~104,930 |
+| Clean Bill of Health | 22.00% | ~104,930 |
+| What A Goal! | 22.00% | ~104,930 |
+| Cup Glory! | 22.00% | ~104,930 |
+| Irresistible Force | 20.00% | ~95,391 |
+| Excellent Match Cohesion | 20.00% | ~95,391 |
 | Do The Double | 19.00% | ~90,621 |
 | Top Form | 17.00% | ~81,082 |
 | Cash To Burn | 17.00% | ~81,082 |
-| Overachiever! | 16.00% | ~76,312 |
-| Rushed signing | 16.00% | ~76,312 |
+| Overachiever! | 16.00% | ~76,313 |
+| Rushed signing | 16.00% | ~76,313 |
 | Beating Expectations | 15.00% | ~71,543 |
 | Window Shopping | 15.00% | ~71,543 |
-| Eyes and Ears | 14.00% | ~66,773 |
-| Comeback King! | 14.00% | ~66,773 |
+| Eyes and Ears | 14.00% | ~66,774 |
+| Comeback King! | 14.00% | ~66,774 |
 | You're Up! | 13.00% | ~62,004 |
 | Money, Money, Money | 12.00% | ~57,234 |
 | Invincible! | 11.00% | ~52,465 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~477 |
 | Shoestring Budget | 0.10% | ~477 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 476,952 (Ranked 39)  
+Progressed: 476,954 (Ranked 39)  
 Completed: 22 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 22 (0.00%) (Ranked 363)
 | 2023-11-28 | 476,852 | 22 |
 | 2023-11-29 | 476,890 | 22 |
 | 2023-11-30 | 476,938 | 22 |
-| 2023-12-01 | 476,952 | 22 |
+| 2023-12-01 | 476,954 | 22 |
 ## Awards
 Max (Relaxing): 6,475  (Ranked 59)  
 Sum: 51,060 (Ranked 29)  

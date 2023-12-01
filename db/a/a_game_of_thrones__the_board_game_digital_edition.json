@@ -1326,9 +1326,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 29464,
+  "EOS_Progressed": 29467,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 448,
+  "EOS_NewPlayers": 449,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -25471,6 +25471,11 @@
       "Time": "2023-12-01T13:15:55.7111482+00:00",
       "NumProgressed": 29464,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-12-01T14:09:10.484711+00:00",
+      "NumProgressed": 29467,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 22,
@@ -25514,7 +25519,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2062
+      "UsersEstimate": 2063
     },
     {
       "ID": "1020",
@@ -25570,7 +25575,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2062
+      "UsersEstimate": 2063
     },
     {
       "ID": "1027",
@@ -25618,7 +25623,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11786
+      "UsersEstimate": 11787
     },
     {
       "ID": "1033",
@@ -25634,7 +25639,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2062
+      "UsersEstimate": 2063
     },
     {
       "ID": "1035",
@@ -25642,7 +25647,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3830
+      "UsersEstimate": 3831
     },
     {
       "ID": "1036",
@@ -25657,15 +25662,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 29464,
+      "Progressed": 29467,
       "Completed": 81
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-24T16:03:24.7183261+00:00",
-  "LastChanged_Achievements": "2023-12-01T13:15:55.7111478+00:00",
+  "LastChanged_Achievements": "2023-12-01T14:09:10.4847107+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:55.1522502+00:00",
-  "LastUpdate_Ratings": "2023-12-01T13:07:26.802378+00:00",
-  "LastUpdate_Achievements": "2023-12-01T13:15:55.7112827+00:00"
+  "LastUpdate_Ratings": "2023-12-01T14:00:20.2824285+00:00",
+  "LastUpdate_Achievements": "2023-12-01T14:09:10.4848047+00:00"
 }

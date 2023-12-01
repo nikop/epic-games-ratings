@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2183,
+  "EOS_Progressed": 2184,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3702,6 +3702,11 @@
       "Time": "2023-12-01T12:05:33.0921646+00:00",
       "NumProgressed": 2183,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-01T14:05:53.1901273+00:00",
+      "NumProgressed": 2184,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 30,
@@ -3713,7 +3718,7 @@
       "Name": "Become King",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1615
+      "UsersEstimate": 1616
     },
     {
       "ID": "Collect20Gold",
@@ -3721,7 +3726,7 @@
       "Name": "Collect Gold",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "Collect20Iron",
@@ -3737,7 +3742,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "CollectAllStatues",
@@ -3745,7 +3750,7 @@
       "Name": "Return the Statues",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "CollectAllWeaponsAndGear",
@@ -3793,7 +3798,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 1790
+      "UsersEstimate": 1791
     },
     {
       "ID": "CompleteHunterFaction",
@@ -3801,7 +3806,7 @@
       "Name": "Complete Ranger Faction",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "CompleteStoryDM",
@@ -3857,7 +3862,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "GetTHWeapon",
@@ -3865,7 +3870,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1245
     },
     {
       "ID": "Kill25Bugs",
@@ -3873,7 +3878,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1158
     },
     {
       "ID": "Kill25Frogs",
@@ -3881,7 +3886,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 1375
+      "UsersEstimate": 1376
     },
     {
       "ID": "Kill25Mozi",
@@ -3921,7 +3926,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "RepairThroneRoom",
@@ -3937,7 +3942,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1158
     },
     {
       "ID": "ReturnPowerInMines",
@@ -3952,22 +3957,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2183,
+      "Progressed": 2184,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 824,
-      "Completed": 824
+      "Progressed": 825,
+      "Completed": 825
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-12-01T13:12:45.1552106+00:00",
+  "LastChanged_Achievements": "2023-12-01T14:05:53.1901267+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:11.7059189+00:00",
-  "LastUpdate_Ratings": "2023-12-01T13:05:04.6346997+00:00",
-  "LastUpdate_Achievements": "2023-12-01T13:12:45.1552455+00:00"
+  "LastUpdate_Ratings": "2023-12-01T13:58:31.6049228+00:00",
+  "LastUpdate_Achievements": "2023-12-01T14:05:53.1901602+00:00"
 }

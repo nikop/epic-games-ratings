@@ -1,7 +1,7 @@
 # Remnant 2
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.75 (Ranked 150)  
+Rating: 4.75 (Ranked 149)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -17,17 +17,17 @@ Rating: 4.75 (Ranked 150)
 | Familiar Face | 0.40% | ~927 |
 | Boss'n Up | 0.40% | ~927 |
 | Trait Chaser | 0.40% | ~927 |
-| Am I Seeing This? | 0.30% | ~695 |
-| Not a Janitor | 0.30% | ~695 |
-| Equal Measures | 0.30% | ~695 |
-| Blue Goddess | 0.30% | ~695 |
-| Duality | 0.30% | ~695 |
-| Top Performer | 0.30% | ~695 |
-| Shhh...It's a Secret | 0.30% | ~695 |
-| Was This Supposed To Happen? | 0.30% | ~695 |
-| Almost There | 0.30% | ~695 |
-| Make Some Room | 0.30% | ~695 |
-| Good, But Could Be Better! | 0.30% | ~695 |
+| Am I Seeing This? | 0.30% | ~696 |
+| Not a Janitor | 0.30% | ~696 |
+| Equal Measures | 0.30% | ~696 |
+| Blue Goddess | 0.30% | ~696 |
+| Duality | 0.30% | ~696 |
+| Top Performer | 0.30% | ~696 |
+| Shhh...It's a Secret | 0.30% | ~696 |
+| Was This Supposed To Happen? | 0.30% | ~696 |
+| Almost There | 0.30% | ~696 |
+| Make Some Room | 0.30% | ~696 |
+| Good, But Could Be Better! | 0.30% | ~696 |
 | Crafty | 0.20% | ~464 |
 | Ghost in the Machine | 0.20% | ~464 |
 | Chaos | 0.20% | ~464 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 150)
 | Maxed Out! | 0.10% | ~232 |
 | A Foul Feast | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,819 (Ranked 69)  
+Progressed: 231,868 (Ranked 69)  
 Completed: 544 (0.23%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,10 +199,10 @@ Completed: 544 (0.23%) (Ranked 250)
 | 2023-11-28 | 230,188 | 541 |
 | 2023-11-29 | 230,694 | 542 |
 | 2023-11-30 | 231,406 | 542 |
-| 2023-12-01 | 231,819 | 544 |
+| 2023-12-01 | 231,868 | 544 |
 ## Awards
 Max (Great Boss Battles): 2,533  (Ranked 102)  
-Sum: 6,221 (Ranked 129)  
+Sum: 6,228 (Ranked 129)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
@@ -210,8 +210,8 @@ Diff (max vs sum): -27
 | This game has Diverse Characters | 412 |
 | This game is Highly Recommended | 402 |
 | This game has Challenging Combat | 394 |
+| This game is Relaxing | 388 |
 | This game is Extremely Fun | 385 |
-| This game is Relaxing | 381 |
 | This game has Amazing Storytelling | 380 |
 | This game has Amazing Characters | 368 |
 | This game has Quickly Understood Controls | 367 |
@@ -348,4 +348,4 @@ Diff (max vs sum): -27
 | 2023-11-28 | 4.75 | 2,498 | 6,104 |
 | 2023-11-29 | 4.75 | 2,518 | 6,163 |
 | 2023-11-30 | 4.75 | 2,533 | 6,208 |
-| 2023-12-01 | 4.75 | 2,533 | 6,221 |
+| 2023-12-01 | 4.75 | 2,533 | 6,228 |

@@ -1,7 +1,7 @@
 # Shadow Gambit: The Cursed Crew
 [Store](https://store.epicgames.com/en-US/p/shadow-gambit-the-cursed-crew-0bca60)  
 [View Rawdata](../../db/s/shadow_gambit__the_cursed_crew.json)  
-Rating: 4.77 (Ranked 114)  
+Rating: 4.77 (Ranked 113)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,8 +11,8 @@ Rating: 4.77 (Ranked 114)
 | With Great Power… | 38.00% | ~374 |
 | This Belongs in a Museum | 35.00% | ~344 |
 | The Gambit Has Begun | 32.00% | ~315 |
+| Somewhere Deep in the Lost Caribbean | 28.00% | ~275 |
 | Powder Monkey | 28.00% | ~275 |
-| Somewhere Deep in the Lost Caribbean | 27.00% | ~265 |
 | Mirror Mirror on the Wall | 27.00% | ~265 |
 | Pirates Assemble! | 24.00% | ~236 |
 | Buccaneer | 22.00% | ~216 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9270,9 +9270,9 @@
       "Count": 977
     }
   ],
-  "EOS_Progressed": 125237,
+  "EOS_Progressed": 125238,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 708,
+  "EOS_NewPlayers": 705,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33065,6 +33065,11 @@
       "Time": "2023-12-01T13:13:53.3097173+00:00",
       "NumProgressed": 125237,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-01T14:06:45.3447686+00:00",
+      "NumProgressed": 125238,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 65,
@@ -33084,7 +33089,7 @@
       "Name": "Serenity Now!",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 67628
+      "UsersEstimate": 67629
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -33092,7 +33097,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 25047
+      "UsersEstimate": 25048
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -33108,7 +33113,7 @@
       "Name": "Resurrection",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 77647
+      "UsersEstimate": 77648
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -33116,7 +33121,7 @@
       "Name": "Unleash Hell",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 85161
+      "UsersEstimate": 85162
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -33132,7 +33137,7 @@
       "Name": "Long Live the King",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 82656
+      "UsersEstimate": 82657
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -33140,7 +33145,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 78899
+      "UsersEstimate": 78900
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -33156,7 +33161,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 85161
+      "UsersEstimate": 85162
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -33164,7 +33169,7 @@
       "Name": "The World As It Was",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5009
+      "UsersEstimate": 5010
     },
     {
       "ID": "altar_of_hope_upgrade_total_half",
@@ -33180,7 +33185,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 62618
+      "UsersEstimate": 62619
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -33300,7 +33305,7 @@
       "Name": "Overdue Notice",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 41328
+      "UsersEstimate": 41329
     },
     {
       "ID": "combat_kill_pillagers",
@@ -33380,7 +33385,7 @@
       "Name": "Merry Time",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 45085
+      "UsersEstimate": 45086
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -33404,7 +33409,7 @@
       "Name": "Ramble On",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 62618
+      "UsersEstimate": 62619
     },
     {
       "ID": "driving_distance_hard",
@@ -33428,7 +33433,7 @@
       "Name": "Autodidact",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 31309
+      "UsersEstimate": 31310
     },
     {
       "ID": "hero_story_complete_all",
@@ -33436,7 +33441,7 @@
       "Name": "Shrine of Reflection",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 15028
+      "UsersEstimate": 15029
     },
     {
       "ID": "hero_story_complete_any",
@@ -33468,7 +33473,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 116470
+      "UsersEstimate": 116471
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -33476,7 +33481,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 15028
+      "UsersEstimate": 15029
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -33524,7 +33529,7 @@
       "Name": "Nope",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 61366
+      "UsersEstimate": 61367
     },
     {
       "ID": "run_victory_act01",
@@ -33595,21 +33600,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 125237,
+      "Progressed": 125238,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 106,
-      "Completed": 106
+      "Progressed": 107,
+      "Completed": 107
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-01T09:59:36.760703+00:00",
-  "LastChanged_Achievements": "2023-12-01T13:13:53.3097168+00:00",
+  "LastChanged_Achievements": "2023-12-01T14:06:45.3447679+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:41.5668132+00:00",
-  "LastUpdate_Ratings": "2023-12-01T13:06:41.6277813+00:00",
-  "LastUpdate_Achievements": "2023-12-01T13:13:53.30987+00:00"
+  "LastUpdate_Ratings": "2023-12-01T13:59:46.042562+00:00",
+  "LastUpdate_Achievements": "2023-12-01T14:06:45.3449296+00:00"
 }

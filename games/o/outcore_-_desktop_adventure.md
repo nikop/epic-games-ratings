@@ -7,8 +7,8 @@
 | Learned how to jump! | 72.00% | ~18 |
 | Learned how to walk! | 72.00% | ~18 |
 | Defeated Captain Tutorial | 64.00% | ~16 |
+| Immersion Breaking | 44.00% | ~11 |
 | Ḧ̴́͊̈́́̃̈́͊̂̏̅̈́̆͊͛͋̃̍̊̓͛̔̆͘͠͝Ë̵̢̢̧̛̛͇̪̟͓̝̼͕̞͔̻͎̠͔̤̥̺̹̱̼̪̺̪̺̰̱́̊͋̈́̔̍͑̄̅́̔͛̓̽̊̒̓́͛̀̀͗̈́́̃̈́̈́̄̔̓͐͆̀̈́̄́̚͘̕͘͘̕͝ͅL̸̀͠Ṕ̵̛̎̄̽̈́́͊̅͛̄ ̶̃M̶̨̧̼̪̞͈̯̬͖͖͎̞͎̻̥̍̌͊̀̓̄̋͋̂͌̏̈́̾͆̌̈́̆̈́̐̿̓͐͝͝͠͠E̵͒̓͊͋̄͘ | 40.00% | ~10 |
-| Immersion Breaking | 40.00% | ~10 |
 | Defeated Booty The Bootleg | 32.00% | ~8 |
 | S̸̛̞̺̞̝͎̒͑̄̽͑̈̔̍̓͆͒̐͊̈́͗̌̔͆̎̉͑̚͘͘̕̚͘͝͝͝Ḁ̶̛̘̱̪͓̣̗̦̺͈̠͔̄͑̋͆̓́͒̀̈́̐̐̾̑͑͆̾͗͌̍͋̂́̿͜͝͝͠͝V̴̡̟̗̮̪͝Ẻ̸̛̛̋͆́͌́̏̐̽̔̀̈̔͗̈́̚͝͝͝ ̸̛̛̀͛̈̍̐͊͊͒̌̍͋̿̅̆̾͂̎́̈́͗́̈́͒̾̐͌̕͘͠͝͝M̷̨̧̡̨̨̡̹͎̞̠̮͕̯̥̰͙̳̱̝̝͙̙̺͍̫̻̳̭̭̎͛͗̑͊͜͜ͅE̷̡̛̛̗͍̰̹͎̳͕͉͇̫̩͎͔͍͉͉͉͎̫̱̮͓͍͉̪̻̠̅̉̃͑̏̎̌̂̆͊͒͆̒̀̈́͑̔̋̎̅̐̆͊̊͗́͆͗͋́͘̕̕͝͝ | 28.00% | ~7 |
 | Too good for this racing mini-game | 28.00% | ~7 |
@@ -17,15 +17,15 @@
 | Defeated the core of the outside world | 20.00% | ~5 |
 | Internet Explorer | 16.00% | ~4 |
 | LOVE | 16.00% | ~4 |
+| Murder | 16.00% | ~4 |
 | Pure hearted | 12.00% | ~3 |
 | Good boy | 12.00% | ~3 |
-| Murder | 12.00% | ~3 |
 | Booty Master | 4.00% | ~1 |
+| It really wasn't worth it | 4.00% | ~1 |
 | DEMON??? | 4.00% | ~1 |
 | HATE | 4.00% | ~1 |
 | Diverse desktop | 0.00% | ~0 |
 | HIGH striker | 0.00% | ~0 |
-| It really wasn't worth it | 0.00% | ~0 |
 | Love Master | 0.00% | ~0 |
 | No time to waste | 0.00% | ~0 |
 | Read a walkthrough | 0.00% | ~0 |

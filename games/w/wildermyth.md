@@ -1,7 +1,7 @@
 # Wildermyth
 [Store](https://store.epicgames.com/en-US/p/wildermyth-593344)  
 [View Rawdata](../../db/w/wildermyth.json)  
-Rating: 4.78 (Ranked 106)  
+Rating: 4.78 (Ranked 105)  
 Number of Ratings: 45  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -18,9 +18,9 @@ Number of Ratings: 45  (23.09.2022)
 | War Endured | 2.00% | ~30 |
 | Core Failure | 2.00% | ~30 |
 | A Mythic Menagerie | 1.00% | ~15 |
+| Let Me Get My Chisel | 1.00% | ~15 |
 | Who's Counting? | 1.00% | ~15 |
 | Echoes Die | 1.00% | ~15 |
-| Let Me Get My Chisel | 0.90% | ~13 |
 | Thematic Divergence | 0.70% | ~10 |
 | Pyrrhic Victory | 0.70% | ~10 |
 | Turncoat | 0.70% | ~10 |

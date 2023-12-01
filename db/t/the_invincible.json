@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 472,
+  "EOS_Progressed": 473,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
@@ -1285,6 +1285,11 @@
       "Time": "2023-12-01T12:08:30.8919846+00:00",
       "NumProgressed": 472,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T14:08:39.7186551+00:00",
+      "NumProgressed": 473,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1319,9 +1324,9 @@
       "ID": "AchvBattleScore",
       "SetID": "1hj060c",
       "Name": "Fierce fight",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 57
     },
     {
       "ID": "AchvBombStop",
@@ -1393,7 +1398,7 @@
       "Name": "Krauta is alive",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "AchvLava",
@@ -1407,9 +1412,9 @@
       "ID": "AchvLeaveNoManBehind",
       "SetID": "1hj060c",
       "Name": "I leave no man behind",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 28
+      "UsersEstimate": 24
     },
     {
       "ID": "AchvLeavesNoManBehind2",
@@ -1465,7 +1470,7 @@
       "Name": "The field base",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "AchvReachCamp",
@@ -1473,7 +1478,7 @@
       "Name": "The Camp",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "AchvReachCity",
@@ -1528,14 +1533,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 472,
+      "Progressed": 473,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-01T13:15:16.2662019+00:00",
+  "LastChanged_Achievements": "2023-12-01T14:08:39.7186548+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-12-01T13:07:01.2553031+00:00",
-  "LastUpdate_Achievements": "2023-12-01T13:15:16.2662289+00:00"
+  "LastUpdate_Ratings": "2023-12-01T14:00:00.6601985+00:00",
+  "LastUpdate_Achievements": "2023-12-01T14:08:39.7186776+00:00"
 }

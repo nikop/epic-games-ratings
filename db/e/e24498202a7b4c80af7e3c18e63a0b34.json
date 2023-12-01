@@ -2,7 +2,7 @@
   "ID": "e24498202a7b4c80af7e3c18e63a0b34",
   "Name": "Horizon Chase 2",
   "ProductSlug": "horizon-chase-2",
-  "Ranking_Rating": 186,
+  "Ranking_Rating": 185,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 181,
@@ -141,7 +141,7 @@
   "Tags": [],
   "EOS_Progressed": 7131,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -6827,8 +6827,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-11-30T01:44:39.305196+00:00",
-  "LastChanged_Achievements": "2023-12-01T13:12:04.0510433+00:00",
+  "LastChanged_Achievements": "2023-12-01T14:05:18.5500084+00:00",
   "LastUpdate_AppInfo": "2023-11-30T21:57:11.9207568+00:00",
-  "LastUpdate_Ratings": "2023-12-01T13:04:50.1763969+00:00",
-  "LastUpdate_Achievements": "2023-12-01T13:12:04.0511064+00:00"
+  "LastUpdate_Ratings": "2023-12-01T13:58:20.6070699+00:00",
+  "LastUpdate_Achievements": "2023-12-01T14:05:18.5500592+00:00"
 }

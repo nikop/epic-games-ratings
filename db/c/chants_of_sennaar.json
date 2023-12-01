@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 72,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 825,
+  "EOS_Progressed": 826,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 9,
@@ -3350,6 +3350,11 @@
       "Time": "2023-12-01T11:06:04.5831608+00:00",
       "NumProgressed": 825,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-12-01T14:06:24.5809292+00:00",
+      "NumProgressed": 826,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 25,
@@ -3369,7 +3374,7 @@
       "Name": "In this together",
       "Percentage": 18,
       "XP": 200,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "META_ALL_LINK",
@@ -3441,7 +3446,7 @@
       "Name": "For its own good",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "META_RESULT_3-4",
@@ -3497,7 +3502,7 @@
       "Name": "Champollion",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -3505,7 +3510,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3537,7 +3542,7 @@
       "Name": "A new dawn",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "PROGRESS_N4",
@@ -3560,14 +3565,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 825,
+      "Progressed": 826,
       "Completed": 44
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-01T13:13:25.8156894+00:00",
+  "LastChanged_Achievements": "2023-12-01T14:06:24.580929+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-12-01T13:06:21.1713563+00:00",
-  "LastUpdate_Achievements": "2023-12-01T13:13:25.8157257+00:00"
+  "LastUpdate_Ratings": "2023-12-01T13:59:30.3418368+00:00",
+  "LastUpdate_Achievements": "2023-12-01T14:06:24.5809672+00:00"
 }

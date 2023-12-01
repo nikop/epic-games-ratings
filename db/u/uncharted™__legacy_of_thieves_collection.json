@@ -2,12 +2,12 @@
   "ID": "8b2d6cf2b45b41f1abe91bc5b7c1e8f9",
   "Name": "UNCHARTED\u2122: Legacy of Thieves Collection",
   "ProductSlug": "uncharted-legacy-of-thieves-collection",
-  "Ranking_Rating": 171,
+  "Ranking_Rating": 170,
   "Ranking_Popularity": 186,
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 770,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewPlayers": 497,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-10-19T15:00:00+00:00",
@@ -1293,6 +1293,6 @@
   "FirstSeenRating": "2022-10-20T19:02:12.9087244+00:00",
   "LastChanged": "2023-11-29T06:02:59.85282+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:57.921799+00:00",
-  "LastUpdate_Ratings": "2023-12-01T13:03:51.2031828+00:00",
-  "LastUpdate_Achievements": "2023-12-01T13:10:25.0251618+00:00"
+  "LastUpdate_Ratings": "2023-12-01T13:57:36.6149715+00:00",
+  "LastUpdate_Achievements": "2023-12-01T14:04:02.2819585+00:00"
 }

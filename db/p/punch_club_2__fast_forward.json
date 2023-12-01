@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1593,9 +1593,9 @@
       "ID": "flash_yakuza",
       "SetID": "69co12a",
       "Name": "Better cooking at home",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 110
     },
     {
       "ID": "get_tape",
@@ -1944,8 +1944,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-01T13:14:21.6730995+00:00",
+  "LastChanged_Achievements": "2023-12-01T14:07:57.226285+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:14.0939135+00:00",
-  "LastUpdate_Ratings": "2023-12-01T13:04:58.4010706+00:00",
-  "LastUpdate_Achievements": "2023-12-01T13:14:21.6731472+00:00"
+  "LastUpdate_Ratings": "2023-12-01T13:58:26.9716773+00:00",
+  "LastUpdate_Achievements": "2023-12-01T14:07:57.2263389+00:00"
 }

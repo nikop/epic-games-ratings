@@ -78,9 +78,9 @@
 | Giant Killer | 27.00% | ~397 |
 | A House Divided | 27.00% | ~397 |
 | World Shaker | 26.00% | ~382 |
+| Liberator | 26.00% | ~382 |
 | First Aid Specialist | 25.00% | ~367 |
 | Tunnel Rat | 25.00% | ~367 |
-| Liberator | 25.00% | ~367 |
 | Weapon Specialist | 24.00% | ~353 |
 | Pathfinder | 24.00% | ~353 |
 | Arbiter | 24.00% | ~353 |

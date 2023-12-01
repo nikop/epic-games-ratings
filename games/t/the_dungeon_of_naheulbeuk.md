@@ -6,38 +6,38 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~84,215 |
-| Alt+F4 | 9.00% | ~21,655 |
-| Where's that freaking Dwarf? | 8.00% | ~19,249 |
-| Déjà vu | 7.00% | ~16,843 |
+| Sowwy! | 35.00% | ~84,219 |
+| Alt+F4 | 9.00% | ~21,656 |
+| Where's that freaking Dwarf? | 8.00% | ~19,250 |
+| Déjà vu | 7.00% | ~16,844 |
 | Sock! SOCK! | 5.00% | ~12,031 |
 | Speedrun | 5.00% | ~12,031 |
 | A beer, two curses, three companions | 4.00% | ~9,625 |
 | GG EZ | 4.00% | ~9,625 |
 | DM intervention | 4.00% | ~9,625 |
 | Fireproof Wizardess | 4.00% | ~9,625 |
-| Livin' in a dwarven paradise | 3.00% | ~7,218 |
-| Way of the Wimp | 3.00% | ~7,218 |
-| The plot thickens... At the tavern | 3.00% | ~7,218 |
-| Shiny and Crôm | 2.00% | ~4,812 |
-| The demons' feast | 2.00% | ~4,812 |
-| The Great Library | 2.00% | ~4,812 |
-| Torture and Sensibility | 2.00% | ~4,812 |
-| Urik's Depths | 2.00% | ~4,812 |
-| The Dungeon Master | 2.00% | ~4,812 |
-| The Statuette of Gladeulfeurah | 2.00% | ~4,812 |
-| Res Judicata | 2.00% | ~4,812 |
-| The Woman in the High Castle | 2.00% | ~4,812 |
-| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,812 |
-| A tale of adventurers not quite like the others... | 2.00% | ~4,812 |
-| Dwarf Fortress | 2.00% | ~4,812 |
-| Look but don't touch | 2.00% | ~4,812 |
-| The beards of change | 2.00% | ~4,812 |
-| The Ranger of Chaos | 2.00% | ~4,812 |
-| I am the night | 2.00% | ~4,812 |
-| Thieves' Guild Accreditation | 2.00% | ~4,812 |
-| Team Building Exercise | 2.00% | ~4,812 |
-| Oh, when I'll be level 10... | 2.00% | ~4,812 |
+| Livin' in a dwarven paradise | 3.00% | ~7,219 |
+| Way of the Wimp | 3.00% | ~7,219 |
+| The plot thickens... At the tavern | 3.00% | ~7,219 |
+| Shiny and Crôm | 2.00% | ~4,813 |
+| The demons' feast | 2.00% | ~4,813 |
+| The Great Library | 2.00% | ~4,813 |
+| Torture and Sensibility | 2.00% | ~4,813 |
+| Urik's Depths | 2.00% | ~4,813 |
+| The Dungeon Master | 2.00% | ~4,813 |
+| The Statuette of Gladeulfeurah | 2.00% | ~4,813 |
+| Res Judicata | 2.00% | ~4,813 |
+| The Woman in the High Castle | 2.00% | ~4,813 |
+| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,813 |
+| A tale of adventurers not quite like the others... | 2.00% | ~4,813 |
+| Dwarf Fortress | 2.00% | ~4,813 |
+| Look but don't touch | 2.00% | ~4,813 |
+| The beards of change | 2.00% | ~4,813 |
+| The Ranger of Chaos | 2.00% | ~4,813 |
+| I am the night | 2.00% | ~4,813 |
+| Thieves' Guild Accreditation | 2.00% | ~4,813 |
+| Team Building Exercise | 2.00% | ~4,813 |
+| Oh, when I'll be level 10... | 2.00% | ~4,813 |
 | %#*!$*! | 1.00% | ~2,406 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,406 |
 | Dead for good | 1.00% | ~2,406 |
@@ -51,9 +51,9 @@ Number of Ratings: 118  (23.09.2022)
 | An old poacher makes the best gamekeeper | 0.60% | ~1,444 |
 | Law and Order | 0.60% | ~1,444 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,203 |
-| Friendly fire | 0.40% | ~962 |
-| I'd rather... Just... Sing! | 0.40% | ~962 |
-| It's been a hard day's night | 0.40% | ~962 |
+| Friendly fire | 0.40% | ~963 |
+| I'd rather... Just... Sing! | 0.40% | ~963 |
+| It's been a hard day's night | 0.40% | ~963 |
 | The number of the counting shalt be 7 | 0.30% | ~722 |
 | Inception | 0.30% | ~722 |
 | Cursed die | 0.20% | ~481 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~241 |
 | Dwarf Candy | 0.10% | ~241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,613 (Ranked 62)  
+Progressed: 240,627 (Ranked 62)  
 Completed: 7 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 7 (0.00%) (Ranked 363)
 | 2023-11-28 | 240,228 | 7 |
 | 2023-11-29 | 240,383 | 7 |
 | 2023-11-30 | 240,529 | 7 |
-| 2023-12-01 | 240,613 | 7 |
+| 2023-12-01 | 240,627 | 7 |
 ## Awards
 Max (Character Customization): 240  (Ranked 272)  
 Sum: 485 (Ranked 329)  

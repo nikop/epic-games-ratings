@@ -497,7 +497,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 532271,
+  "EOS_Progressed": 532272,
   "EOS_Completed": 503,
   "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 1,
@@ -24307,6 +24307,11 @@
       "Time": "2023-12-01T13:11:38.4279855+00:00",
       "NumProgressed": 532271,
       "NumCompleted": 503
+    },
+    {
+      "Time": "2023-12-01T14:04:59.0065172+00:00",
+      "NumProgressed": 532272,
+      "NumCompleted": 503
     }
   ],
   "TotalAchievements": 57,
@@ -24318,7 +24323,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 122422
+      "UsersEstimate": 122423
     },
     {
       "ID": "10",
@@ -24398,7 +24403,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 330008
+      "UsersEstimate": 330009
     },
     {
       "ID": "2",
@@ -24550,7 +24555,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 85163
+      "UsersEstimate": 85164
     },
     {
       "ID": "37",
@@ -24646,7 +24651,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 330008
+      "UsersEstimate": 330009
     },
     {
       "ID": "48",
@@ -24702,7 +24707,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 122422
+      "UsersEstimate": 122423
     },
     {
       "ID": "54",
@@ -24773,15 +24778,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 532271,
+      "Progressed": 532272,
       "Completed": 503
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-12-01T13:11:38.4279851+00:00",
+  "LastChanged_Achievements": "2023-12-01T14:04:59.0065166+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:56.9532267+00:00",
-  "LastUpdate_Ratings": "2023-12-01T13:07:11.3574356+00:00",
-  "LastUpdate_Achievements": "2023-12-01T13:11:38.4281165+00:00"
+  "LastUpdate_Ratings": "2023-12-01T14:00:08.6146184+00:00",
+  "LastUpdate_Achievements": "2023-12-01T14:04:59.0067004+00:00"
 }
