@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 283,
+  "EOS_Progressed": 284,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1211,6 +1211,11 @@
       "Time": "2023-11-30T18:09:34.1828838+00:00",
       "NumProgressed": 283,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T07:09:08.7051597+00:00",
+      "NumProgressed": 284,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1286,7 +1291,7 @@
       "Name": "Chest \u2714",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "achCity",
@@ -1334,7 +1339,7 @@
       "Name": "Crocodile Attack \u2714",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achCrow",
@@ -1358,7 +1363,7 @@
       "Name": "Boss 2 \u2714",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achDog",
@@ -1366,7 +1371,7 @@
       "Name": "Doberman \u2714",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achEva",
@@ -1422,7 +1427,7 @@
       "Name": "Fright \u2714",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "achLizun",
@@ -1462,7 +1467,7 @@
       "Name": "Osipov\u0027s video message \u2714",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achPlotOne",
@@ -1510,7 +1515,7 @@
       "Name": "Rank B\u002B \u2714",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achRankThree",
@@ -1526,7 +1531,7 @@
       "Name": "Rank A \u2714",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achSave",
@@ -1614,14 +1619,14 @@
       "Name": "Boss 3 \u2714",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 283,
+      "Progressed": 284,
       "Completed": 0
     }
   ],
@@ -1629,8 +1634,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-12-01T06:10:04.7991911+00:00",
+  "LastChanged_Achievements": "2023-12-01T07:09:08.7051591+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:42.3198378+00:00",
-  "LastUpdate_Ratings": "2023-12-01T05:57:56.9853743+00:00",
-  "LastUpdate_Achievements": "2023-12-01T06:10:04.7992343+00:00"
+  "LastUpdate_Ratings": "2023-12-01T06:57:45.4820412+00:00",
+  "LastUpdate_Achievements": "2023-12-01T07:09:08.7051919+00:00"
 }

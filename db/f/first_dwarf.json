@@ -4,7 +4,7 @@
   "ProductSlug": "first-dwarf-757640",
   "Ranking_EOS_Progress": 769,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewPlayers": 495,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-25T21:58:01.0843076+00:00",
-  "LastUpdate_Ratings": "2023-12-01T05:59:04.6293042+00:00",
-  "LastUpdate_Achievements": "2023-12-01T06:04:55.4235782+00:00"
+  "LastUpdate_Ratings": "2023-12-01T06:58:28.3285832+00:00",
+  "LastUpdate_Achievements": "2023-12-01T07:03:57.594601+00:00"
 }

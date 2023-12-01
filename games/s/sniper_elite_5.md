@@ -5,19 +5,19 @@ Rating: 4.44 (Ranked 680)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,860 |
+| Meeting Resistance | 47.00% | ~1,861 |
 | Confirming Suspicions | 41.00% | ~1,623 |
-| The Kraken Wakes | 37.00% | ~1,464 |
+| The Kraken Wakes | 37.00% | ~1,465 |
 | It's Starting to Crack | 34.00% | ~1,346 |
 | Change the Channel | 31.00% | ~1,227 |
-| Lord of War | 30.00% | ~1,187 |
+| Lord of War | 30.00% | ~1,188 |
 | Taking it back | 29.00% | ~1,148 |
 | Resourceful | 27.00% | ~1,069 |
 | Target America | 27.00% | ~1,069 |
 | The Kraken Sleeps | 25.00% | ~990 |
-| Liberté | 23.00% | ~910 |
-| Organ Grinder | 23.00% | ~910 |
-| As Quiet as a Mouse | 23.00% | ~910 |
+| Liberté | 23.00% | ~911 |
+| Organ Grinder | 23.00% | ~911 |
+| As Quiet as a Mouse | 23.00% | ~911 |
 | Sharpshooter | 22.00% | ~871 |
 | Gunslinger | 19.00% | ~752 |
 | Explosive Efficiency | 19.00% | ~752 |
@@ -44,9 +44,9 @@ Rating: 4.44 (Ranked 680)
 | It'll Buff Right Out | 5.00% | ~198 |
 | Road Rage | 5.00% | ~198 |
 | Don't hold your breath | 5.00% | ~198 |
-| Last Resort | 5.00% | ~195 |
-| Siegebreaker | 5.00% | ~195 |
-| Ghost of Falaise | 5.00% | ~195 |
+| Last Resort | 5.00% | ~196 |
+| Siegebreaker | 5.00% | ~196 |
+| Ghost of Falaise | 5.00% | ~196 |
 | Strategist | 4.00% | ~158 |
 | Locomotion Commotion | 4.00% | ~158 |
 | From Paris with Love | 3.00% | ~119 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 680)
 | Stroll in the Woods | 0.60% | ~23 |
 | Going Overboard | 0.60% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,958 (Ranked 198)  
+Progressed: 3,959 (Ranked 198)  
 Completed: 11 (0.28%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,6 +300,7 @@ Completed: 11 (0.28%) (Ranked 242)
 | 2023-11-28 | 3,949 | 11 |
 | 2023-11-29 | 3,955 | 11 |
 | 2023-11-30 | 3,958 | 11 |
+| 2023-12-01 | 3,959 | 11 |
 ## Awards
 Max (Great for Beginners): 27  (Ranked 513)  
 Sum: 27 (Ranked 527)  

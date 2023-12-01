@@ -2,7 +2,7 @@
   "ID": "d054771c2f3c4f4fb7d7028eca6ccca0",
   "Name": "Pinball M",
   "ProductSlug": "pinball-m-755276",
-  "Ranking_EOS_Progress": 338,
+  "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 139,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 345,
+  "EOS_Progressed": 352,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 344,
+  "EOS_NewPlayers": 351,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -99,6 +99,11 @@
       "Time": "2023-12-01T06:05:07.7540465+00:00",
       "NumProgressed": 345,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T07:04:06.0571161+00:00",
+      "NumProgressed": 352,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -119,7 +124,7 @@
       "Name": "Done for Today",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -135,7 +140,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -215,7 +220,7 @@
       "Name": "Worthy Badge",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -271,7 +276,7 @@
       "Name": "Your Own Nightmare",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -303,7 +308,7 @@
       "Name": "Lair Expanded",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -311,7 +316,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -319,7 +324,7 @@
       "Name": "Half Way to Darkness",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -327,7 +332,7 @@
       "Name": "Path of Damnation",
       "Percentage": 1,
       "XP": 70,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -486,14 +491,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 345,
+      "Progressed": 352,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-01T06:05:07.7540463+00:00",
+  "LastChanged_Achievements": "2023-12-01T07:04:06.0571158+00:00",
   "LastUpdate_AppInfo": "2023-11-28T10:57:06.6543167+00:00",
-  "LastUpdate_Ratings": "2023-12-01T05:59:11.9116278+00:00",
-  "LastUpdate_Achievements": "2023-12-01T06:05:07.7540822+00:00"
+  "LastUpdate_Ratings": "2023-12-01T06:58:32.9842008+00:00",
+  "LastUpdate_Achievements": "2023-12-01T07:04:06.0571449+00:00"
 }

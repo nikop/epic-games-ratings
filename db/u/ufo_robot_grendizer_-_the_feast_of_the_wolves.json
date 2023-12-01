@@ -4,7 +4,7 @@
   "ProductSlug": "goldorak-d90cf1",
   "Ranking_EOS_Progress": 622,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -287,9 +287,9 @@
       "ID": "ACH_THESPACEHYDRA",
       "SetID": "ch874lb",
       "Name": "The Space Hydra",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_THEULTIMATEATTACK",
@@ -326,8 +326,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2023-12-01T06:09:26.7811086+00:00",
+  "LastChanged_Achievements": "2023-12-01T07:08:42.4164574+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:04.0837308+00:00",
-  "LastUpdate_Ratings": "2023-12-01T06:01:10.2343943+00:00",
-  "LastUpdate_Achievements": "2023-12-01T06:09:26.7811272+00:00"
+  "LastUpdate_Ratings": "2023-12-01T06:59:49.3053036+00:00",
+  "LastUpdate_Achievements": "2023-12-01T07:08:42.4164738+00:00"
 }

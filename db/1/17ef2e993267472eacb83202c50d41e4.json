@@ -83,7 +83,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8457,
+  "EOS_Progressed": 8459,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 0,
@@ -7713,6 +7713,11 @@
       "Time": "2023-12-01T06:10:26.4750027+00:00",
       "NumProgressed": 8457,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-01T07:09:25.1889993+00:00",
+      "NumProgressed": 8459,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -7869,7 +7874,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1692
     },
     {
       "ID": "GamesWon10",
@@ -8085,7 +8090,7 @@
       "Name": "Eliminated 10 Players in a single match",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "MaxTowersKilled3",
@@ -8133,7 +8138,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "NeutralKills200",
@@ -8253,7 +8258,7 @@
       "Name": "Purchased SuperCharge",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "ShotgunUpgraged1",
@@ -8269,7 +8274,7 @@
       "Name": "Upgraded the Sniper to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "TGPurchased1",
@@ -8316,7 +8321,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8457,
+      "Progressed": 8459,
       "Completed": 1
     }
   ],
@@ -8324,8 +8329,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-28T13:57:22.5296785+00:00",
-  "LastChanged_Achievements": "2023-12-01T06:10:26.4750025+00:00",
+  "LastChanged_Achievements": "2023-12-01T07:09:25.1889988+00:00",
   "LastUpdate_AppInfo": "2023-11-28T15:57:00.1791972+00:00",
-  "LastUpdate_Ratings": "2023-12-01T05:59:18.8135576+00:00",
-  "LastUpdate_Achievements": "2023-12-01T06:10:26.4751081+00:00"
+  "LastUpdate_Ratings": "2023-12-01T06:58:37.3252746+00:00",
+  "LastUpdate_Achievements": "2023-12-01T07:09:25.1890786+00:00"
 }

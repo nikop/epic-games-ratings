@@ -6,19 +6,19 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 11.00% | ~106,145 |
-| Gun Fu | 6.00% | ~57,898 |
-| The Fool | 5.00% | ~48,248 |
-| Right Back At Ya | 4.00% | ~38,598 |
-| The Lovers | 4.00% | ~38,598 |
-| Full Body Conversion | 2.00% | ~19,299 |
-| Christmas Tree Attack | 2.00% | ~19,299 |
-| Stanislavski's Method | 2.00% | ~19,299 |
-| The Hermit | 2.00% | ~19,299 |
-| The Wheel of Fortune | 2.00% | ~19,299 |
-| True Soldier | 2.00% | ~19,299 |
-| True Warrior | 2.00% | ~19,299 |
-| Relic Ruler | 2.00% | ~1,872 |
+| V for Vendetta | 11.00% | ~106,151 |
+| Gun Fu | 6.00% | ~57,900 |
+| The Fool | 5.00% | ~48,250 |
+| Right Back At Ya | 4.00% | ~38,600 |
+| The Lovers | 4.00% | ~38,600 |
+| Full Body Conversion | 2.00% | ~19,300 |
+| Christmas Tree Attack | 2.00% | ~19,300 |
+| Stanislavski's Method | 2.00% | ~19,300 |
+| The Hermit | 2.00% | ~19,300 |
+| The Wheel of Fortune | 2.00% | ~19,300 |
+| True Soldier | 2.00% | ~19,300 |
+| True Warrior | 2.00% | ~19,300 |
+| Relic Ruler | 2.00% | ~1,873 |
 | The Quick and the Dead | 1.00% | ~9,650 |
 | Life of the Road | 1.00% | ~9,650 |
 | The High Priestess | 1.00% | ~9,650 |
@@ -33,15 +33,15 @@ Number of Ratings: 32,700  (23.09.2022)
 | Judy vs Night City | 0.80% | ~7,720 |
 | Spin Doctor | 0.80% | ~749 |
 | To Protect and Serve | 0.70% | ~6,755 |
-| King of Wands | 0.60% | ~561 |
-| Dirty Deeds | 0.60% | ~561 |
-| Easy Come, Easy Go | 0.60% | ~561 |
+| King of Wands | 0.60% | ~562 |
+| Dirty Deeds | 0.60% | ~562 |
+| Easy Come, Easy Go | 0.60% | ~562 |
 | The Wandering Fool | 0.50% | ~4,825 |
 | To Bad Decisions! | 0.40% | ~3,860 |
 | Ten out of Ten | 0.40% | ~3,860 |
 | The Star | 0.40% | ~3,860 |
 | The Sun | 0.40% | ~3,860 |
-| The Tower | 0.40% | ~374 |
+| The Tower | 0.40% | ~375 |
 | Autojock | 0.30% | ~2,895 |
 | Must Be Rats | 0.30% | ~2,895 |
 | Breathtaking | 0.30% | ~2,895 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 964,959 (Ranked 15)  
+Progressed: 965,007 (Ranked 15)  
 Completed: 2,827 (0.29%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 2,827 (0.29%) (Ranked 238)
 | 2023-11-28 | 960,226 | 2,821 |
 | 2023-11-29 | 962,972 | 2,823 |
 | 2023-11-30 | 964,640 | 2,827 |
-| 2023-12-01 | 964,959 | 2,827 |
+| 2023-12-01 | 965,007 | 2,827 |
 ## Awards
 Max (Character Customization): 112,636  (Ranked 9)  
 Sum: 375,982 (Ranked 9)  

@@ -6,7 +6,7 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Shall Not Pass | 51.00% | ~4,659 |
+| You Shall Not Pass | 51.00% | ~4,660 |
 | Tutti Eroi! | 50.00% | ~4,568 |
 | Peak Performance | 47.00% | ~4,294 |
 | Avanti Savoia! | 44.00% | ~4,020 |
@@ -21,7 +21,7 @@ Number of Ratings: 98  (23.09.2022)
 | The Italian Job | 19.00% | ~1,736 |
 | Veni Vidi Vici | 19.00% | ~1,736 |
 | Ragazzi del '99 | 17.00% | ~1,553 |
-| Luigi Cadorna | 15.00% | ~1,370 |
+| Luigi Cadorna | 15.00% | ~1,371 |
 | The Lion of the Isonzo | 14.00% | ~1,279 |
 | Uomo Universale | 13.00% | ~1,188 |
 | Dirty Dozen | 12.00% | ~1,096 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~37 |
 | Can I Go Home Now? | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,136 (Ranked 169)  
+Progressed: 9,137 (Ranked 169)  
 Completed: 10 (0.11%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 10 (0.11%) (Ranked 282)
 | 2023-11-28 | 9,106 | 10 |
 | 2023-11-29 | 9,122 | 10 |
 | 2023-11-30 | 9,135 | 10 |
-| 2023-12-01 | 9,136 | 10 |
+| 2023-12-01 | 9,137 | 10 |
 ## Awards
 Max (Diverse Characters): 38  (Ranked 463)  
 Sum: 288 (Ranked 369)  

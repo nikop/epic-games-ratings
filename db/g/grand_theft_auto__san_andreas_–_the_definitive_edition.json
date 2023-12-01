@@ -1627,9 +1627,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 13818,
+  "EOS_Progressed": 13819,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -15247,6 +15247,11 @@
       "Time": "2023-11-30T20:09:42.1383148+00:00",
       "NumProgressed": 13818,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-01T07:08:57.267738+00:00",
+      "NumProgressed": 13819,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 35,
@@ -15258,7 +15263,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11331
+      "UsersEstimate": 11332
     },
     {
       "ID": "ACH02",
@@ -15274,7 +15279,7 @@
       "Name": "The End of the Line",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1106
     },
     {
       "ID": "ACH04",
@@ -15314,7 +15319,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 7185
+      "UsersEstimate": 7186
     },
     {
       "ID": "ACH09",
@@ -15354,7 +15359,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2625
+      "UsersEstimate": 2626
     },
     {
       "ID": "ACH14",
@@ -15537,7 +15542,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13818,
+      "Progressed": 13819,
       "Completed": 56
     }
   ],
@@ -15545,8 +15550,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-01T03:59:54.7584362+00:00",
-  "LastChanged_Achievements": "2023-12-01T06:09:48.2330029+00:00",
+  "LastChanged_Achievements": "2023-12-01T07:08:57.2677374+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:29.1736391+00:00",
-  "LastUpdate_Ratings": "2023-12-01T06:00:14.9551546+00:00",
-  "LastUpdate_Achievements": "2023-12-01T06:09:48.233094+00:00"
+  "LastUpdate_Ratings": "2023-12-01T06:59:13.7016638+00:00",
+  "LastUpdate_Achievements": "2023-12-01T07:08:57.2678068+00:00"
 }

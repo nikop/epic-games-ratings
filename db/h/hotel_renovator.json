@@ -2465,9 +2465,9 @@
       "ID": "ACH_INSTRUMENTS_FOUND",
       "SetID": "7k95e4n",
       "Name": "Hotel sleuthing",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 321
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH_NEWSPAPER_ARTICLE",
@@ -2578,8 +2578,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-11-30T11:58:26.7436+00:00",
-  "LastChanged_Achievements": "2023-12-01T06:07:29.6308063+00:00",
+  "LastChanged_Achievements": "2023-12-01T07:05:43.254845+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:55.9610757+00:00",
-  "LastUpdate_Ratings": "2023-12-01T05:59:28.2016034+00:00",
-  "LastUpdate_Achievements": "2023-12-01T06:07:29.6308492+00:00"
+  "LastUpdate_Ratings": "2023-12-01T06:58:43.1108614+00:00",
+  "LastUpdate_Achievements": "2023-12-01T07:05:43.2548744+00:00"
 }

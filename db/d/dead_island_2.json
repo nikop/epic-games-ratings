@@ -7045,10 +7045,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11992,
       "NumberOfAwardsMax": 7821
+    },
+    {
+      "Time": "2023-12-01T06:58:54.4789103+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11994,
+      "NumberOfAwardsMax": 7821
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11992,
+  "NumberOfAwards": 11994,
   "NumberOfAwardsMax": 7821,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7086,7 +7092,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 451
+      "Count": 453
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7107,9 +7113,9 @@
       "Count": 503
     }
   ],
-  "EOS_Progressed": 728291,
+  "EOS_Progressed": 728304,
   "EOS_Completed": 2456,
-  "EOS_NewPlayers": 4725,
+  "EOS_NewPlayers": 4717,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -32847,6 +32853,11 @@
       "Time": "2023-12-01T06:08:48.1754135+00:00",
       "NumProgressed": 728291,
       "NumCompleted": 2456
+    },
+    {
+      "Time": "2023-12-01T07:06:36.7850535+00:00",
+      "NumProgressed": 728304,
+      "NumCompleted": 2456
     }
   ],
   "TotalAchievements": 51,
@@ -32890,7 +32901,7 @@
       "Name": "Make it So",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3641
+      "UsersEstimate": 3642
     },
     {
       "ID": "ach_big_name_in_town",
@@ -32930,7 +32941,7 @@
       "Name": "On Safari",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3641
+      "UsersEstimate": 3642
     },
     {
       "ID": "ach_defensive",
@@ -32962,7 +32973,7 @@
       "Name": "Smorgasbord",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3641
+      "UsersEstimate": 3642
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -33034,7 +33045,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3641
+      "UsersEstimate": 3642
     },
     {
       "ID": "ach_investigator",
@@ -33186,7 +33197,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3641
+      "UsersEstimate": 3642
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -33265,22 +33276,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 728291,
+      "Progressed": 728304,
       "Completed": 2456
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 53833,
+      "Progressed": 53846,
       "Completed": 36618
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-12-01T05:59:45.1209677+00:00",
-  "LastChanged_Achievements": "2023-12-01T06:08:48.1754131+00:00",
+  "LastChanged": "2023-12-01T06:58:54.4789101+00:00",
+  "LastChanged_Achievements": "2023-12-01T07:06:36.7850531+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-12-01T05:59:45.1209683+00:00",
-  "LastUpdate_Achievements": "2023-12-01T06:08:48.1755814+00:00"
+  "LastUpdate_Ratings": "2023-12-01T06:58:54.4789107+00:00",
+  "LastUpdate_Achievements": "2023-12-01T07:06:36.7851716+00:00"
 }

@@ -1514,9 +1514,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131454,
+  "EOS_Progressed": 131456,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 324,
+  "EOS_NewPlayers": 323,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -23474,6 +23474,11 @@
       "Time": "2023-12-01T06:04:59.7529468+00:00",
       "NumProgressed": 131454,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-01T07:04:00.6340149+00:00",
+      "NumProgressed": 131456,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -23565,7 +23570,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36807
+      "UsersEstimate": 36808
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -23597,7 +23602,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27605
+      "UsersEstimate": 27606
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -23645,7 +23650,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 13145
+      "UsersEstimate": 13146
     },
     {
       "ID": "ACH_GLUTEN",
@@ -23804,15 +23809,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131454,
+      "Progressed": 131456,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-28T12:00:15.5937153+00:00",
-  "LastChanged_Achievements": "2023-12-01T06:04:59.7529463+00:00",
+  "LastChanged_Achievements": "2023-12-01T07:04:00.6340145+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:19.415585+00:00",
-  "LastUpdate_Ratings": "2023-12-01T06:02:45.4210981+00:00",
-  "LastUpdate_Achievements": "2023-12-01T06:04:59.753094+00:00"
+  "LastUpdate_Ratings": "2023-12-01T07:00:30.4023424+00:00",
+  "LastUpdate_Achievements": "2023-12-01T07:04:00.6341124+00:00"
 }

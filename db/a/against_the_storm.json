@@ -14924,9 +14924,9 @@
       "ID": "WinNearAbandoned",
       "SetID": "cfbk359",
       "Name": "Abandoned Settlement",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 351
     },
     {
       "ID": "WinNearFrosts",
@@ -14956,9 +14956,9 @@
       "ID": "WinNearPetrified",
       "SetID": "cfbk359",
       "Name": "Petrified Necropolis",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 351
     },
     {
       "ID": "WinNearPresence",
@@ -15004,8 +15004,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-30T20:00:49.175254+00:00",
-  "LastChanged_Achievements": "2023-12-01T06:09:14.4925066+00:00",
+  "LastChanged_Achievements": "2023-12-01T07:08:34.131587+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:56.4973761+00:00",
-  "LastUpdate_Ratings": "2023-12-01T06:01:20.7382981+00:00",
-  "LastUpdate_Achievements": "2023-12-01T06:09:14.4926032+00:00"
+  "LastUpdate_Ratings": "2023-12-01T06:59:55.598414+00:00",
+  "LastUpdate_Achievements": "2023-12-01T07:08:34.1316695+00:00"
 }

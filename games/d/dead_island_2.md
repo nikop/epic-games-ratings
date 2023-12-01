@@ -41,11 +41,11 @@ Rating: 4.54 (Ranked 528)
 | Jumbo Keyring | 0.70% | ~5,098 |
 | Rising Star | 0.70% | ~5,098 |
 | Go, Bobcats! | 0.60% | ~4,370 |
-| Make it So | 0.50% | ~3,641 |
-| On Safari | 0.50% | ~3,641 |
-| Smorgasbord | 0.50% | ~3,641 |
-| Internet Famous | 0.50% | ~3,641 |
-| Variety is the Spice of Death | 0.50% | ~3,641 |
+| Make it So | 0.50% | ~3,642 |
+| On Safari | 0.50% | ~3,642 |
+| Smorgasbord | 0.50% | ~3,642 |
+| Internet Famous | 0.50% | ~3,642 |
+| Variety is the Spice of Death | 0.50% | ~3,642 |
 | LA Influential | 0.40% | ~2,913 |
 | Gore Horse | 0.40% | ~2,913 |
 | Top That, Tisha! | 0.40% | ~215 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 528)
 | Bucket List | 0.10% | ~728 |
 | Wilhelm | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,291 (Ranked 21)  
+Progressed: 728,304 (Ranked 21)  
 Completed: 2,456 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,10 +282,10 @@ Completed: 2,456 (0.34%) (Ranked 231)
 | 2023-11-28 | 727,374 | 2,447 |
 | 2023-11-29 | 727,809 | 2,450 |
 | 2023-11-30 | 728,231 | 2,456 |
-| 2023-12-01 | 728,291 | 2,456 |
+| 2023-12-01 | 728,304 | 2,456 |
 ## Awards
 Max (Great Boss Battles): 7,821  (Ranked 49)  
-Sum: 11,992 (Ranked 84)  
+Sum: 11,994 (Ranked 84)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
@@ -297,7 +297,7 @@ Diff (max vs sum): -35
 | This game has Amazing Storytelling | 503 |
 | This game is Extremely Fun | 491 |
 | This game is Highly Recommended | 488 |
-| This game has Amazing Characters | 451 |
+| This game has Amazing Characters | 453 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -525,4 +525,4 @@ Diff (max vs sum): -35
 | 2023-11-28 | 4.54 | 7,784 | 11,921 |
 | 2023-11-29 | 4.54 | 7,803 | 11,961 |
 | 2023-11-30 | 4.54 | 7,821 | 11,987 |
-| 2023-12-01 | 4.54 | 7,821 | 11,992 |
+| 2023-12-01 | 4.54 | 7,821 | 11,994 |

@@ -2,12 +2,12 @@
   "ID": "85f0435aa88347d185dbcb147716609b",
   "Name": "Predecessor",
   "ProductSlug": "predecessor",
-  "Ranking_Rating": 695,
+  "Ranking_Rating": 696,
   "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 244,
   "Ranking_EOS_Progress": 769,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewPlayers": 495,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-12-01T08:00:00+00:00",
@@ -4008,5 +4008,5 @@
   "LastChanged": "2023-12-01T04:02:46.1262634+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:02.6234277+00:00",
   "LastUpdate_Ratings": "2023-12-01T06:03:09.5795674+00:00",
-  "LastUpdate_Achievements": "2023-12-01T06:05:02.6190544+00:00"
+  "LastUpdate_Achievements": "2023-12-01T07:04:02.4676799+00:00"
 }

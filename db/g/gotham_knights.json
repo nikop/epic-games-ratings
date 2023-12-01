@@ -4451,9 +4451,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77509,
+  "EOS_Progressed": 77511,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 542,
+  "EOS_NewPlayers": 539,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24606,6 +24606,11 @@
       "Time": "2023-12-01T06:06:07.6928253+00:00",
       "NumProgressed": 77509,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-01T07:04:46.8657483+00:00",
+      "NumProgressed": 77511,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -24705,7 +24710,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11626
+      "UsersEstimate": 11627
     },
     {
       "ID": "CHALLENGES_1",
@@ -24737,7 +24742,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10851
+      "UsersEstimate": 10852
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -24769,7 +24774,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3875
+      "UsersEstimate": 3876
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -24865,7 +24870,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10851
+      "UsersEstimate": 10852
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -24921,7 +24926,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26353
+      "UsersEstimate": 26354
     },
     {
       "ID": "HARLEY_2",
@@ -24929,7 +24934,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19377
+      "UsersEstimate": 19378
     },
     {
       "ID": "HARLEY_3",
@@ -24945,7 +24950,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12401
+      "UsersEstimate": 12402
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -24961,7 +24966,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38754
+      "UsersEstimate": 38756
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -24993,7 +24998,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20927
+      "UsersEstimate": 20928
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -25009,7 +25014,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26353
+      "UsersEstimate": 26354
     },
     {
       "ID": "MYSTERY_02",
@@ -25017,7 +25022,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19377
+      "UsersEstimate": 19378
     },
     {
       "ID": "MYSTERY_03",
@@ -25049,7 +25054,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11626
+      "UsersEstimate": 11627
     },
     {
       "ID": "MYSTERY_07",
@@ -25057,7 +25062,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10851
+      "UsersEstimate": 10852
     },
     {
       "ID": "MYSTERY_08",
@@ -25104,13 +25109,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77509,
+      "Progressed": 77511,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47789,
+      "Progressed": 47791,
       "Completed": 2675
     }
   ],
@@ -25118,8 +25123,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-01T01:56:25.7264033+00:00",
-  "LastChanged_Achievements": "2023-12-01T06:06:07.6928251+00:00",
+  "LastChanged_Achievements": "2023-12-01T07:04:46.865748+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:48.4544768+00:00",
-  "LastUpdate_Ratings": "2023-12-01T06:00:49.8901262+00:00",
-  "LastUpdate_Achievements": "2023-12-01T06:06:07.6929751+00:00"
+  "LastUpdate_Ratings": "2023-12-01T06:59:36.3282794+00:00",
+  "LastUpdate_Achievements": "2023-12-01T07:04:46.8659046+00:00"
 }

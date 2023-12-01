@@ -9,8 +9,8 @@
 | For the Horde! | 81.00% | ~410 |
 | Hammer Time, Round Two | 80.00% | ~405 |
 | The Hellwoods | 74.00% | ~374 |
+| The Plains of Strothalm | 70.00% | ~354 |
 | Experienced Thalya | 70.00% | ~354 |
-| The Plains of Strothalm | 69.00% | ~349 |
 | Thalya's Concentrated Fury | 67.00% | ~339 |
 | Bad Elves Go Everywhere | 66.00% | ~334 |
 | Master of Magic | 63.00% | ~319 |
@@ -30,7 +30,7 @@
 | Shame! Shame! Shame! | 39.00% | ~197 |
 | Mana Cannon | 38.00% | ~192 |
 | The Cathedral of Light | 38.00% | ~192 |
-| Tanos' Crusade Against Thalya | 32.00% | ~162 |
+| Tanos' Crusade Against Thalya | 33.00% | ~167 |
 | Unstoppable Horde | 28.00% | ~142 |
 | All’s Well That Ends Evil | 28.00% | ~142 |
 | Master of the Undead | 25.00% | ~126 |
@@ -58,9 +58,9 @@
 | To the Max! | 10.00% | ~51 |
 | Mirror, Mirror | 9.00% | ~46 |
 | Untouchable | 9.00% | ~46 |
+| Gorgu is in the Best of Health | 8.00% | ~40 |
 | Heal Heal Blessing | 8.00% | ~40 |
 | Evilification | 8.00% | ~40 |
-| Gorgu is in the Best of Health | 7.00% | ~35 |
 | Laser Eyes Are So Useless | 7.00% | ~35 |
 | Hands Off My Stones | 7.00% | ~35 |
 | No Mana, No Cry | 5.00% | ~25 |

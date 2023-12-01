@@ -6,7 +6,7 @@
   "Ranking_Popularity": 146,
   "Ranking_PopularitySum": 98,
   "Ranking_EOS_Progress": 96,
-  "Ranking_EOS_Completed": 302,
+  "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
@@ -4149,9 +4149,9 @@
       "Count": 1079
     }
   ],
-  "EOS_Progressed": 80805,
+  "EOS_Progressed": 80807,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 1000,
+  "EOS_NewPlayers": 1001,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -29639,6 +29639,11 @@
       "Time": "2023-12-01T06:09:34.1039061+00:00",
       "NumProgressed": 80805,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-12-01T07:08:47.4741406+00:00",
+      "NumProgressed": 80807,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 53,
@@ -29698,7 +29703,7 @@
       "Name": "Finders Keepers",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 21009
+      "UsersEstimate": 21010
     },
     {
       "ID": "complet_epilogue_mission",
@@ -29762,7 +29767,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 37170
+      "UsersEstimate": 37171
     },
     {
       "ID": "customize_a_vehicle",
@@ -29778,7 +29783,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 29898
+      "UsersEstimate": 29899
     },
     {
       "ID": "cutting_edge_materials",
@@ -29818,7 +29823,7 @@
       "Name": "The Spins",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 8080
+      "UsersEstimate": 8081
     },
     {
       "ID": "empire_tier_2",
@@ -29826,7 +29831,7 @@
       "Name": "A Young Empire",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21009
+      "UsersEstimate": 21010
     },
     {
       "ID": "empire_tier_3",
@@ -29866,7 +29871,7 @@
       "Name": "Work Ethic",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 18585
+      "UsersEstimate": 18586
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -29874,7 +29879,7 @@
       "Name": "The Mechanic",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 8080
+      "UsersEstimate": 8081
     },
     {
       "ID": "fully_upgrade_a_weapon",
@@ -29898,7 +29903,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 29090
+      "UsersEstimate": 29091
     },
     {
       "ID": "hit_max_level",
@@ -29930,7 +29935,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 22625
+      "UsersEstimate": 22626
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -29962,7 +29967,7 @@
       "Name": "Closet Space",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6464
+      "UsersEstimate": 6465
     },
     {
       "ID": "prank_coop_partner",
@@ -30002,7 +30007,7 @@
       "Name": "Food for Thought",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 21817
+      "UsersEstimate": 21818
     },
     {
       "ID": "two_thirds_purple",
@@ -30034,7 +30039,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 33938
+      "UsersEstimate": 33939
     },
     {
       "ID": "whole_map_purple",
@@ -30073,13 +30078,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 80805,
+      "Progressed": 80807,
       "Completed": 54
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 52442,
+      "Progressed": 52444,
       "Completed": 4409
     }
   ],
@@ -30087,8 +30092,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-12-01T05:03:13.2791486+00:00",
-  "LastChanged_Achievements": "2023-12-01T06:09:34.1039058+00:00",
+  "LastChanged_Achievements": "2023-12-01T07:08:47.4741402+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:12.0685781+00:00",
-  "LastUpdate_Ratings": "2023-12-01T06:03:25.8867385+00:00",
-  "LastUpdate_Achievements": "2023-12-01T06:09:34.1041302+00:00"
+  "LastUpdate_Ratings": "2023-12-01T07:02:56.0662022+00:00",
+  "LastUpdate_Achievements": "2023-12-01T07:08:47.4742744+00:00"
 }

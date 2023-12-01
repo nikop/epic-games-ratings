@@ -4,7 +4,7 @@
   "ProductSlug": "insomnis-2c51e7",
   "Ranking_EOS_Progress": 705,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewPlayers": 495,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-07-17T22:00:00+00:00",
@@ -266,8 +266,8 @@
   ],
   "FirstSeen": "2023-08-18T13:02:33.7308301+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:13.6346969+00:00",
-  "LastChanged_Achievements": "2023-12-01T06:09:53.9417177+00:00",
+  "LastChanged_Achievements": "2023-12-01T07:09:01.289351+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7382915+00:00",
-  "LastUpdate_Ratings": "2023-12-01T05:58:56.3812785+00:00",
-  "LastUpdate_Achievements": "2023-12-01T06:09:53.9417328+00:00"
+  "LastUpdate_Ratings": "2023-12-01T06:58:23.004269+00:00",
+  "LastUpdate_Achievements": "2023-12-01T07:09:01.2893675+00:00"
 }

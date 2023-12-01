@@ -12,6 +12,7 @@
 | Technology first! | 13.00% | ~1 |
 | Iron Fist | 13.00% | ~1 |
 | The Legend | 13.00% | ~1 |
+| The Space Hydra | 13.00% | ~1 |
 | The Vega Turtle | 13.00% | ~1 |
 | Gold Seeker | 0.00% | ~0 |
 | A Land of Peace | 0.00% | ~0 |
@@ -31,7 +32,6 @@
 | The Flying Octopus | 0.00% | ~0 |
 | The Interstellar Fighter | 0.00% | ~0 |
 | The Royal Guard | 0.00% | ~0 |
-| The Space Hydra | 0.00% | ~0 |
 | The Ultimate Attack | 0.00% | ~0 |
 | Vengeance of the Wolf | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

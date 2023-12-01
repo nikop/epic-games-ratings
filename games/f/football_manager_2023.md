@@ -5,52 +5,52 @@ Rating: 4.76 (Ranked 130)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 68.00% | ~245,991 |
-| The Player Whisperer | 67.00% | ~242,373 |
-| One of Us, One of Us! | 62.00% | ~224,286 |
-| First Victory | 55.00% | ~198,963 |
-| Clean Sheet | 54.00% | ~195,346 |
-| #DoneDeal | 53.00% | ~191,728 |
-| Off the Books | 51.00% | ~184,493 |
-| Super-Sub | 51.00% | ~184,493 |
-| Hat-trick | 46.00% | ~166,405 |
-| Planned Signing | 43.00% | ~155,553 |
-| "I Would Love It If We Beat Them" | 42.00% | ~151,935 |
-| Thumping | 39.00% | ~141,083 |
-| Scoring Streak | 39.00% | ~141,083 |
-| Wheeler Dealer | 39.00% | ~141,083 |
-| People Pleaser | 38.00% | ~137,465 |
-| Unbeatable! | 37.00% | ~133,848 |
-| One Of Our Own | 35.00% | ~126,613 |
-| They're a Natural | 31.00% | ~112,143 |
-| Record Signing | 31.00% | ~112,143 |
-| Team Performance | 30.00% | ~108,525 |
-| The Only Stat That Matters | 29.00% | ~104,908 |
-| Star Player | 28.00% | ~101,290 |
-| Full Faith | 27.00% | ~97,673 |
-| Goal Rush | 27.00% | ~97,673 |
-| The People's Champion | 27.00% | ~97,673 |
-| Parked The Bus | 26.00% | ~94,055 |
-| Squad Goals | 26.00% | ~94,055 |
+| Motivational Speaker | 68.00% | ~245,993 |
+| The Player Whisperer | 67.00% | ~242,375 |
+| One of Us, One of Us! | 62.00% | ~224,287 |
+| First Victory | 55.00% | ~198,965 |
+| Clean Sheet | 54.00% | ~195,347 |
+| #DoneDeal | 53.00% | ~191,730 |
+| Off the Books | 51.00% | ~184,495 |
+| Super-Sub | 51.00% | ~184,495 |
+| Hat-trick | 46.00% | ~166,407 |
+| Planned Signing | 43.00% | ~155,554 |
+| "I Would Love It If We Beat Them" | 42.00% | ~151,937 |
+| Thumping | 39.00% | ~141,084 |
+| Scoring Streak | 39.00% | ~141,084 |
+| Wheeler Dealer | 39.00% | ~141,084 |
+| People Pleaser | 38.00% | ~137,467 |
+| Unbeatable! | 37.00% | ~133,849 |
+| One Of Our Own | 35.00% | ~126,614 |
+| They're a Natural | 31.00% | ~112,144 |
+| Record Signing | 31.00% | ~112,144 |
+| Team Performance | 30.00% | ~108,526 |
+| The Only Stat That Matters | 29.00% | ~104,909 |
+| Star Player | 28.00% | ~101,291 |
+| Full Faith | 27.00% | ~97,674 |
+| Goal Rush | 27.00% | ~97,674 |
+| The People's Champion | 27.00% | ~97,674 |
+| Parked The Bus | 26.00% | ~94,056 |
+| Squad Goals | 26.00% | ~94,056 |
 | Beating Expectations | 25.00% | ~90,438 |
-| You're on Fire | 24.00% | ~86,820 |
-| Tremendous Trio | 24.00% | ~86,820 |
-| Unstoppable Force | 24.00% | ~86,820 |
-| Record Sale | 24.00% | ~86,820 |
+| You're on Fire | 24.00% | ~86,821 |
+| Tremendous Trio | 24.00% | ~86,821 |
+| Unstoppable Force | 24.00% | ~86,821 |
+| Record Sale | 24.00% | ~86,821 |
 | On a Roll | 23.00% | ~83,203 |
 | Drilling Down | 23.00% | ~83,203 |
 | Flavour Of The Month | 23.00% | ~83,203 |
 | Shots For Days | 23.00% | ~83,203 |
-| The Special One | 22.00% | ~79,585 |
+| The Special One | 22.00% | ~79,586 |
 | What A Goal! | 21.00% | ~75,968 |
-| Goal Machine | 20.00% | ~72,350 |
+| Goal Machine | 20.00% | ~72,351 |
 | Splashing the Cash | 19.00% | ~68,733 |
 | Immovable Object | 19.00% | ~68,733 |
 | Cup Glory! | 19.00% | ~68,733 |
 | Irresistible Force | 17.00% | ~61,498 |
-| Do The Double | 16.00% | ~57,880 |
+| Do The Double | 16.00% | ~57,881 |
 | Cash to Burn | 15.00% | ~54,263 |
-| Window Shopping | 14.00% | ~50,645 |
+| Window Shopping | 14.00% | ~50,646 |
 | Top Form | 13.00% | ~47,028 |
 | A Game of Two Halves | 12.00% | ~43,410 |
 | You're Up! | 11.00% | ~39,793 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 130)
 | Draft Dominator | 0.10% | ~362 |
 | Draft Value | 0.10% | ~362 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 361,751 (Ranked 47)  
+Progressed: 361,754 (Ranked 47)  
 Completed: 26 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 26 (0.01%) (Ranked 343)
 | 2023-11-28 | 361,241 | 26 |
 | 2023-11-29 | 361,488 | 26 |
 | 2023-11-30 | 361,723 | 26 |
-| 2023-12-01 | 361,751 | 26 |
+| 2023-12-01 | 361,754 | 26 |
 ## Awards
 Max (Diverse Characters): 1,221  (Ranked 141)  
 Sum: 8,488 (Ranked 99)  

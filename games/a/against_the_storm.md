@@ -6,11 +6,11 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Abandoned Settlement | 2.00% | ~351 |
 | Overgrown Library | 2.00% | ~351 |
-| Abandoned Settlement | 1.00% | ~175 |
+| Petrified Necropolis | 2.00% | ~351 |
 | Frosts | 1.00% | ~175 |
 | Land of Greed | 1.00% | ~175 |
-| Petrified Necropolis | 1.00% | ~175 |
 | Ominous Presence | 1.00% | ~175 |
 | Gathering Storm | 1.00% | ~175 |
 | Untamed Wilds | 0.90% | ~158 |
