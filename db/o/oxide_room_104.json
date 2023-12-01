@@ -2,10 +2,10 @@
   "ID": "877e0717992c4058acdb32363130958a",
   "Name": "Oxide Room 104",
   "ProductSlug": "oxide-room-104-4c1249",
-  "Ranking_EOS_Progress": 371,
+  "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -1254,9 +1254,9 @@
       "ID": "ACH_FORCE",
       "SetID": "511e31d",
       "Name": "Brute force",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 206
     },
     {
       "ID": "ACH_GOODENDING",
@@ -1413,8 +1413,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-12-01T00:05:45.990834+00:00",
+  "LastChanged_Achievements": "2023-12-01T02:02:37.4838197+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:09.6982468+00:00",
-  "LastUpdate_Ratings": "2023-11-30T23:57:13.0538781+00:00",
-  "LastUpdate_Achievements": "2023-12-01T00:05:45.9908533+00:00"
+  "LastUpdate_Ratings": "2023-12-01T01:54:08.2461742+00:00",
+  "LastUpdate_Achievements": "2023-12-01T02:02:37.4838511+00:00"
 }

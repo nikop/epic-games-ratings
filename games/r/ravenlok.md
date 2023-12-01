@@ -21,20 +21,20 @@
 | Piece of Cake | 43.00% | ~488 |
 | Gooey Delight! | 42.00% | ~476 |
 | Glimmer of Hope | 42.00% | ~476 |
+| Teacups for Toppy | 42.00% | ~476 |
 | Nightmare Fuel | 41.00% | ~465 |
 | The Guardian | 41.00% | ~465 |
-| Teacups for Toppy | 41.00% | ~465 |
 | Take Heart | 40.00% | ~454 |
 | Stronger! | 40.00% | ~454 |
 | Well Rested | 40.00% | ~454 |
 | Ancient Wisdom | 39.00% | ~442 |
 | Frog Facts! | 39.00% | ~442 |
 | All That Glistens | 39.00% | ~442 |
+| It's Pointy! | 38.00% | ~431 |
 | Spellbound | 37.00% | ~420 |
 | Extinct Again! | 37.00% | ~420 |
+| Bird of Prey | 37.00% | ~420 |
 | All Skilled Up! | 37.00% | ~420 |
-| It's Pointy! | 37.00% | ~420 |
-| Bird of Prey | 36.00% | ~408 |
 | Stardust | 36.00% | ~408 |
 | Heartbreaker | 36.00% | ~408 |
 | Kidnapped! | 36.00% | ~408 |

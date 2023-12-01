@@ -2,7 +2,7 @@
   "ID": "d613614e082c4f648835a32f15c1d29b",
   "Name": "SYNCED",
   "ProductSlug": "synced",
-  "Ranking_Rating": 943,
+  "Ranking_Rating": 942,
   "Ranking_Popularity": 364,
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 102,
@@ -1185,9 +1185,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 67808,
+  "EOS_Progressed": 67813,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 453,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -11020,6 +11020,11 @@
       "Time": "2023-12-01T00:05:29.3474384+00:00",
       "NumProgressed": 67808,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-01T02:02:21.0708549+00:00",
+      "NumProgressed": 67813,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -11032,7 +11037,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23733
+      "UsersEstimate": 23735
     },
     {
       "ID": "10",
@@ -11072,7 +11077,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 4068
+      "UsersEstimate": 4069
     },
     {
       "ID": "15",
@@ -11096,7 +11101,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 12205
+      "UsersEstimate": 12206
     },
     {
       "ID": "3",
@@ -11104,7 +11109,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8815
+      "UsersEstimate": 8816
     },
     {
       "ID": "4",
@@ -11128,7 +11133,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 4068
+      "UsersEstimate": 4069
     },
     {
       "ID": "7",
@@ -11159,7 +11164,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 67808,
+      "Progressed": 67813,
       "Completed": 38
     }
   ],
@@ -11167,8 +11172,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-30T15:59:22.6557041+00:00",
-  "LastChanged_Achievements": "2023-12-01T00:05:29.347438+00:00",
+  "LastChanged_Achievements": "2023-12-01T02:02:21.0708546+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:13.9511371+00:00",
-  "LastUpdate_Ratings": "2023-11-30T23:58:46.4478551+00:00",
-  "LastUpdate_Achievements": "2023-12-01T00:05:29.3474842+00:00"
+  "LastUpdate_Ratings": "2023-12-01T01:55:39.957703+00:00",
+  "LastUpdate_Achievements": "2023-12-01T02:02:21.0709125+00:00"
 }

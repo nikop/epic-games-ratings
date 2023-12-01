@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Break Out | 13.00% | ~31 |
 | Trinity | 13.00% | ~31 |
+| I Found It | 11.00% | ~27 |
 | Find Allies | 10.00% | ~24 |
 | Powerful Allies | 10.00% | ~24 |
-| I Found It | 10.00% | ~24 |
 | A Taste of Wrath | 9.00% | ~22 |
 | Adventurer | 9.00% | ~22 |
 | Geared Up | 9.00% | ~22 |
@@ -18,7 +18,7 @@
 | Shatter Them All | 8.00% | ~19 |
 | Big Bazar | 8.00% | ~19 |
 | Fashion Victim | 8.00% | ~19 |
-| Stone Collection | 7.00% | ~17 |
+| Stone Collection | 8.00% | ~19 |
 | Calm before the Storm | 5.00% | ~12 |
 | To Battle | 5.00% | ~12 |
 | Godslayer | 5.00% | ~12 |

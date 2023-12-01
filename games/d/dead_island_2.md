@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,613 |
+| Whatever It Takes | 3.00% | ~1,614 |
 | Git Gutte! | 2.00% | ~14,565 |
 | Break A Leg | 2.00% | ~14,565 |
 | Coup de Grâce | 2.00% | ~14,565 |
@@ -15,32 +15,32 @@ Rating: 4.54 (Ranked 528)
 | Welcome To Hell-A | 2.00% | ~14,565 |
 | One of Us | 2.00% | ~1,076 |
 | Pork Chopped | 2.00% | ~1,076 |
-| Dr. Reed, I Presume? | 1.00% | ~7,282 |
-| Anger Management | 1.00% | ~7,282 |
-| Perks of the Job | 1.00% | ~7,282 |
-| Bookworm | 1.00% | ~7,282 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,282 |
-| But Doctor, I am Butcho | 1.00% | ~7,282 |
-| Slayer Squad | 1.00% | ~7,282 |
-| Can't Handle the Truth | 1.00% | ~7,282 |
-| Like Riding a Bike | 1.00% | ~7,282 |
-| Friends Like These | 1.00% | ~7,282 |
-| Apex Predator | 1.00% | ~7,282 |
-| Zombologist | 1.00% | ~7,282 |
-| Ooh, Shiny! | 1.00% | ~7,282 |
-| A Patton Emerges | 1.00% | ~7,282 |
-| I Am the Resurrection | 1.00% | ~7,282 |
-| Stacking the Deck | 1.00% | ~7,282 |
-| Our True Nature | 1.00% | ~7,282 |
-| This is My Weapon | 1.00% | ~7,282 |
+| Dr. Reed, I Presume? | 1.00% | ~7,283 |
+| Anger Management | 1.00% | ~7,283 |
+| Perks of the Job | 1.00% | ~7,283 |
+| Bookworm | 1.00% | ~7,283 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,283 |
+| But Doctor, I am Butcho | 1.00% | ~7,283 |
+| Slayer Squad | 1.00% | ~7,283 |
+| Can't Handle the Truth | 1.00% | ~7,283 |
+| Like Riding a Bike | 1.00% | ~7,283 |
+| Friends Like These | 1.00% | ~7,283 |
+| Apex Predator | 1.00% | ~7,283 |
+| Zombologist | 1.00% | ~7,283 |
+| Ooh, Shiny! | 1.00% | ~7,283 |
+| A Patton Emerges | 1.00% | ~7,283 |
+| I Am the Resurrection | 1.00% | ~7,283 |
+| Stacking the Deck | 1.00% | ~7,283 |
+| Our True Nature | 1.00% | ~7,283 |
+| This is My Weapon | 1.00% | ~7,283 |
 | Making Your Mark | 0.90% | ~6,554 |
 | Max Headroom | 0.90% | ~6,554 |
 | Humanity Distilled | 0.80% | ~5,826 |
 | Down with the Sickness | 0.80% | ~5,826 |
 | Not Even My Final Form | 0.70% | ~5,098 |
-| Jumbo Keyring | 0.60% | ~4,369 |
-| Go, Bobcats! | 0.60% | ~4,369 |
-| Rising Star | 0.60% | ~4,369 |
+| Jumbo Keyring | 0.70% | ~5,098 |
+| Go, Bobcats! | 0.60% | ~4,370 |
+| Rising Star | 0.60% | ~4,370 |
 | On Safari | 0.50% | ~3,641 |
 | Smorgasbord | 0.50% | ~3,641 |
 | Internet Famous | 0.50% | ~3,641 |
@@ -51,13 +51,13 @@ Rating: 4.54 (Ranked 528)
 | Top That, Tisha! | 0.40% | ~215 |
 | Sole Survivor | 0.30% | ~2,185 |
 | Sharpest Tool in the Box | 0.30% | ~2,185 |
-| Survival Skills | 0.20% | ~1,456 |
+| Survival Skills | 0.20% | ~1,457 |
 | Lawn and Order | 0.20% | ~108 |
 | Donk! | 0.10% | ~728 |
 | Bucket List | 0.10% | ~728 |
 | Wilhelm | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,240 (Ranked 21)  
+Progressed: 728,258 (Ranked 21)  
 Completed: 2,456 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 2,456 (0.34%) (Ranked 231)
 | 2023-11-28 | 727,374 | 2,447 |
 | 2023-11-29 | 727,809 | 2,450 |
 | 2023-11-30 | 728,231 | 2,456 |
-| 2023-12-01 | 728,240 | 2,456 |
+| 2023-12-01 | 728,258 | 2,456 |
 ## Awards
 Max (Great Boss Battles): 7,821  (Ranked 49)  
 Sum: 11,987 (Ranked 84)  

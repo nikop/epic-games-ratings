@@ -4,8 +4,8 @@
   "ProductSlug": "field-hospital-5752b6",
   "Ranking_EOS_Progress": 766,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 496,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 495,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2020-11-27T08:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-25T21:57:28.0571995+00:00",
-  "LastUpdate_Ratings": "2023-12-01T00:02:39.3967681+00:00",
-  "LastUpdate_Achievements": "2023-12-01T00:08:47.2603521+00:00"
+  "LastUpdate_Ratings": "2023-12-01T01:59:31.2222725+00:00",
+  "LastUpdate_Achievements": "2023-12-01T02:05:36.6836427+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "ffe512fa1e594ee6a75d4643d1e21b43",
   "Name": "Totally Accurate Battle Simulator",
   "ProductSlug": "totally-accurate-battle-simulator",
-  "Ranking_Rating": 150,
+  "Ranking_Rating": 151,
   "Ranking_Popularity": 228,
   "Ranking_PopularitySum": 165,
   "Ranking_EOS_Progress": 766,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 496,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 495,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2019-04-01T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -4650,11 +4650,17 @@
       "Rating": 4.75,
       "NumberOfAwards": 3418,
       "NumberOfAwardsMax": 414
+    },
+    {
+      "Time": "2023-12-01T01:57:03.9250057+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 3419,
+      "NumberOfAwardsMax": 415
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3418,
-  "NumberOfAwardsMax": 414,
+  "NumberOfAwards": 3419,
+  "NumberOfAwardsMax": 415,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -4667,7 +4673,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 414
+      "Count": 415
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4753,8 +4759,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:14.6922177+00:00",
-  "LastChanged": "2023-11-30T22:01:20.7491056+00:00",
+  "LastChanged": "2023-12-01T01:57:03.9250055+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:06.1094819+00:00",
-  "LastUpdate_Ratings": "2023-12-01T00:00:10.9057008+00:00",
-  "LastUpdate_Achievements": "2023-12-01T00:03:51.0708565+00:00"
+  "LastUpdate_Ratings": "2023-12-01T01:57:03.9250059+00:00",
+  "LastUpdate_Achievements": "2023-12-01T02:00:44.1783034+00:00"
 }

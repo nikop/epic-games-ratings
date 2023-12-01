@@ -5,10 +5,10 @@
   "Ranking_Rating": 172,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
-  "Ranking_EOS_Progress": 340,
+  "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -688,9 +688,9 @@
       "ID": "ach-noRest",
       "SetID": "17ih7ma",
       "Name": "Insomnia",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 164
     },
     {
       "ID": "ach-pacifist-goals",
@@ -833,8 +833,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-01T00:09:35.439978+00:00",
+  "LastChanged_Achievements": "2023-12-01T02:06:24.3886562+00:00",
   "LastUpdate_AppInfo": "2023-11-25T10:57:13.1596211+00:00",
-  "LastUpdate_Ratings": "2023-12-01T00:00:19.3688964+00:00",
-  "LastUpdate_Achievements": "2023-12-01T00:09:35.4400238+00:00"
+  "LastUpdate_Ratings": "2023-12-01T01:57:11.9598524+00:00",
+  "LastUpdate_Achievements": "2023-12-01T02:06:24.3886912+00:00"
 }

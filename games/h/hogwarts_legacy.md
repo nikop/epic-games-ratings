@@ -5,11 +5,11 @@ Rating: 4.76 (Ranked 130)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,586 |
-| First Class Student | 15.00% | ~45,549 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,587 |
+| First Class Student | 15.00% | ~45,550 |
 | Troll with the Punches | 14.00% | ~42,513 |
-| A Keen Sense of Spell | 13.00% | ~39,476 |
-| That's a Keeper | 13.00% | ~39,476 |
+| A Keen Sense of Spell | 13.00% | ~39,477 |
+| That's a Keeper | 13.00% | ~39,477 |
 | The Defender of Dragons | 12.00% | ~36,440 |
 | Loom for Improvement | 12.00% | ~36,440 |
 | A Talent for Spending | 12.00% | ~36,440 |
@@ -19,14 +19,14 @@ Rating: 4.76 (Ranked 130)
 | The Hero of Hogwarts | 11.00% | ~33,403 |
 | Challenge Accepted | 11.00% | ~33,403 |
 | Coasting Along | 11.00% | ~33,403 |
-| Followed the Butterflies | 10.00% | ~30,366 |
-| Rising From the Ashes | 10.00% | ~30,366 |
+| Followed the Butterflies | 10.00% | ~30,367 |
+| Rising From the Ashes | 10.00% | ~30,367 |
 | A Sallow Grave | 9.00% | ~27,330 |
 | The Spell Master | 9.00% | ~27,330 |
 | The Avenging Gazelle | 8.00% | ~24,293 |
 | Beast Friends | 8.00% | ~24,293 |
 | Flight the Good Flight | 8.00% | ~24,293 |
-| Raising Expectations | 7.00% | ~21,256 |
+| Raising Expectations | 7.00% | ~21,257 |
 | The Seeker of Knowledge | 6.00% | ~18,220 |
 | The Root of the Problem | 6.00% | ~18,220 |
 | Third Time's a Charm | 6.00% | ~18,220 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 130)
 | The Nature of the Beast | 0.70% | ~2,126 |
 | Collector's Edition | 0.30% | ~911 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,663 (Ranked 54)  
+Progressed: 303,667 (Ranked 54)  
 Completed: 519 (0.17%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 519 (0.17%) (Ranked 266)
 | 2023-11-28 | 303,515 | 519 |
 | 2023-11-29 | 303,596 | 519 |
 | 2023-11-30 | 303,661 | 519 |
-| 2023-12-01 | 303,663 | 519 |
+| 2023-12-01 | 303,667 | 519 |
 ## Awards
 Max (Character Customization): 24,781  (Ranked 17)  
 Sum: 49,552 (Ranked 30)  

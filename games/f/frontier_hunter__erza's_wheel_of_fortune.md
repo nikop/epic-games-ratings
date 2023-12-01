@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 92.00% | ~424 |
-| Training Simulation | 77.00% | ~355 |
-| Kuku Bird Hunter | 63.00% | ~290 |
+| Travel Streamer | 92.00% | ~425 |
+| Training Simulation | 77.00% | ~356 |
+| Kuku Bird Hunter | 63.00% | ~291 |
 | Storm Traveller | 57.00% | ~263 |
-| Wolf King Killer | 51.00% | ~235 |
-| Fashion Connoisseur | 50.00% | ~230 |
-| Arms Mechanic | 46.00% | ~212 |
-| Flower Thief | 41.00% | ~189 |
+| Wolf King Killer | 51.00% | ~236 |
+| Fashion Connoisseur | 50.00% | ~231 |
+| Arms Mechanic | 46.00% | ~213 |
+| Flower Thief | 42.00% | ~194 |
 | Apostle of Flame | 37.00% | ~171 |
-| Beginner Cook | 35.00% | ~161 |
-| Beginner Artificer | 35.00% | ~161 |
-| Seal Breaker | 30.00% | ~138 |
-| Handyman | 27.00% | ~124 |
-| Giant Lizard Killer | 25.00% | ~115 |
-| Guardian | 25.00% | ~115 |
+| Beginner Artificer | 36.00% | ~166 |
+| Beginner Cook | 35.00% | ~162 |
+| Seal Breaker | 30.00% | ~139 |
+| Handyman | 27.00% | ~125 |
+| Giant Lizard Killer | 25.00% | ~116 |
+| Guardian | 24.00% | ~111 |
 | Nosebleeder | 24.00% | ~111 |
 | Trader | 20.00% | ~92 |
 | Weapon Boost | 20.00% | ~92 |
 | Flying Kobold Killer | 16.00% | ~74 |
 | Youth Magnet | 16.00% | ~74 |
+| Master Artificer | 16.00% | ~74 |
 | Furious Scorpion Killer | 15.00% | ~69 |
 | Lethal Blade Mantis Killer | 15.00% | ~69 |
-| Master Artificer | 15.00% | ~69 |
 | Squeaky Clean | 14.00% | ~65 |
 | Kind Adventurer | 13.00% | ~60 |
 | Mermaid Killer | 12.00% | ~55 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 1.00% | ~5 |
 | Warden Challenge | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 461 (Ranked 318)  
+Progressed: 462 (Ranked 318)  
 Completed: 1 (0.22%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,6 +138,7 @@ Completed: 1 (0.22%) (Ranked 253)
 | 2023-11-28 | 411 | 1 |
 | 2023-11-29 | 439 | 1 |
 | 2023-11-30 | 461 | 1 |
+| 2023-12-01 | 462 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

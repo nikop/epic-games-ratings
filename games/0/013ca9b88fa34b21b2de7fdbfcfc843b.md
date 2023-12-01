@@ -6,7 +6,7 @@ Rating: 4.60 (Ranked 418)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Azoria Beckons | 72.00% | ~5,892 |
-| A Thorny Situation | 70.00% | ~5,729 |
+| A Thorny Situation | 71.00% | ~5,811 |
 | ... And Spit Back Out | 61.00% | ~4,992 |
 | Break-Net Speed | 49.00% | ~4,010 |
 | Bramble Breaker | 47.00% | ~3,846 |

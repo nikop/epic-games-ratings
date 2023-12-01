@@ -6,7 +6,7 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Matching | 0.90% | ~17 |
+| Matching | 1.00% | ~19 |
 | First Steps | 0.60% | ~1,443 |
 | Uncharted Territory | 0.60% | ~1,443 |
 | Not Touching You | 0.60% | ~12 |
@@ -145,8 +145,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,449 (Ranked 63)  
-Completed: 291 (0.12%) (Ranked 280)  
+Progressed: 240,450 (Ranked 63)  
+Completed: 291 (0.12%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -370,10 +370,10 @@ Completed: 291 (0.12%) (Ranked 280)
 | 2023-11-28 | 240,354 | 291 |
 | 2023-11-29 | 240,403 | 291 |
 | 2023-11-30 | 240,445 | 291 |
-| 2023-12-01 | 240,449 | 291 |
+| 2023-12-01 | 240,450 | 291 |
 ## Awards
 Max (Great for Beginners): 1,534  (Ranked 132)  
-Sum: 13,236 (Ranked 78)  
+Sum: 13,238 (Ranked 78)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
@@ -384,8 +384,8 @@ Diff (max vs sum): 54
 | This game is Extremely Fun | 1,416 |
 | This game is Highly Recommended | 1,386 |
 | This game has Amazing Storytelling | 1,325 |
-| This game has Amazing Characters | 1,226 |
-| This game has Unique Visuals | 1,226 |
+| This game has Amazing Characters | 1,227 |
+| This game has Unique Visuals | 1,227 |
 | This game has Obsessive Gameplay | 1,088 |
 | This game has a Creative Community | 745 |
 ## Ratings History
@@ -610,3 +610,4 @@ Diff (max vs sum): 54
 | 2023-11-26 | 4.58 | - | 1,505 | 11,694 |
 | 2023-11-27 | 4.58 | - | 1,534 | 13,232 |
 | 2023-11-29 | 4.58 | - | 1,534 | 13,236 |
+| 2023-12-01 | 4.58 | - | 1,534 | 13,238 |

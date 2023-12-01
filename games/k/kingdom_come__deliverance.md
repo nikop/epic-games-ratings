@@ -6,21 +6,21 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~259,387 |
-| Cavalier | 25.00% | ~202,646 |
+| Blacksmith's Son | 32.00% | ~259,388 |
+| Cavalier | 25.00% | ~202,647 |
 | Fatso | 23.00% | ~186,435 |
 | Awakening | 21.00% | ~170,223 |
-| Ranger | 20.00% | ~162,117 |
-| Scrooge | 20.00% | ~162,117 |
+| Ranger | 20.00% | ~162,118 |
+| Scrooge | 20.00% | ~162,118 |
 | Anorectic | 16.00% | ~129,694 |
 | Firestarter | 16.00% | ~129,694 |
 | Bookworm | 15.00% | ~121,588 |
 | Insomniac | 13.00% | ~105,376 |
-| Buddy | 12.00% | ~97,270 |
-| Thief | 12.00% | ~97,270 |
-| Sinner | 11.00% | ~89,164 |
-| Traveller | 11.00% | ~89,164 |
-| Convict | 10.00% | ~81,058 |
+| Buddy | 12.00% | ~97,271 |
+| Thief | 12.00% | ~97,271 |
+| Sinner | 11.00% | ~89,165 |
+| Traveller | 11.00% | ~89,165 |
+| Convict | 10.00% | ~81,059 |
 | Haggler | 9.00% | ~72,953 |
 | McLovin | 7.00% | ~56,741 |
 | Runt | 7.00% | ~56,741 |
@@ -28,9 +28,9 @@ Number of Ratings: 9,133  (23.09.2022)
 | Bad Trip | 5.00% | ~40,529 |
 | Monk | 5.00% | ~40,529 |
 | Serial Killer | 5.00% | ~40,529 |
-| Bastard | 4.00% | ~32,423 |
-| Hunter | 4.00% | ~32,423 |
-| Plague Doctor | 4.00% | ~32,423 |
+| Bastard | 4.00% | ~32,424 |
+| Hunter | 4.00% | ~32,424 |
+| Plague Doctor | 4.00% | ~32,424 |
 | Bard | 3.00% | ~24,318 |
 | Conqueror | 3.00% | ~24,318 |
 | Ginger in a Pickle | 3.00% | ~24,318 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~811 |
 | Wingman | 0.10% | ~811 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 810,585 (Ranked 17)  
+Progressed: 810,588 (Ranked 17)  
 Completed: 52 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 52 (0.01%) (Ranked 343)
 | 2023-11-28 | 810,342 | 52 |
 | 2023-11-29 | 810,463 | 52 |
 | 2023-11-30 | 810,582 | 52 |
-| 2023-12-01 | 810,585 | 52 |
+| 2023-12-01 | 810,588 | 52 |
 ## Awards
 Max (Character Customization): 7,637  (Ranked 51)  
 Sum: 28,368 (Ranked 49)  

@@ -11295,9 +11295,9 @@
       "Count": 825
     }
   ],
-  "EOS_Progressed": 303663,
+  "EOS_Progressed": 303667,
   "EOS_Completed": 519,
-  "EOS_NewPlayers": 819,
+  "EOS_NewPlayers": 816,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -35485,6 +35485,11 @@
       "Time": "2023-12-01T00:09:31.3332764+00:00",
       "NumProgressed": 303663,
       "NumCompleted": 519
+    },
+    {
+      "Time": "2023-12-01T02:06:20.2919809+00:00",
+      "NumProgressed": 303667,
+      "NumCompleted": 519
     }
   ],
   "TotalAchievements": 45,
@@ -35496,7 +35501,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48586
+      "UsersEstimate": 48587
     },
     {
       "ID": "PFA_10",
@@ -35616,7 +35621,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39476
+      "UsersEstimate": 39477
     },
     {
       "ID": "PFA_24",
@@ -35720,7 +35725,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30366
+      "UsersEstimate": 30367
     },
     {
       "ID": "PFA_36",
@@ -35784,7 +35789,7 @@
       "Name": "Raising Expectations",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 21256
+      "UsersEstimate": 21257
     },
     {
       "ID": "PFA_43",
@@ -35824,7 +35829,7 @@
       "Name": "First Class Student",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45549
+      "UsersEstimate": 45550
     },
     {
       "ID": "PFA_7",
@@ -35840,7 +35845,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39476
+      "UsersEstimate": 39477
     },
     {
       "ID": "PFA_9",
@@ -35848,14 +35853,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30366
+      "UsersEstimate": 30367
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303663,
+      "Progressed": 303667,
       "Completed": 519
     }
   ],
@@ -35863,8 +35868,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-30T23:57:24.6912704+00:00",
-  "LastChanged_Achievements": "2023-12-01T00:09:31.333276+00:00",
+  "LastChanged_Achievements": "2023-12-01T02:06:20.2919807+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7292094+00:00",
-  "LastUpdate_Ratings": "2023-11-30T23:57:24.6912717+00:00",
-  "LastUpdate_Achievements": "2023-12-01T00:09:31.3334234+00:00"
+  "LastUpdate_Ratings": "2023-12-01T01:54:19.9239846+00:00",
+  "LastUpdate_Achievements": "2023-12-01T02:06:20.2920888+00:00"
 }

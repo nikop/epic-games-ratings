@@ -47,12 +47,12 @@
 | Sabotage! | 16.00% | ~81 |
 | Brimstone Shaken, Not Stirred | 16.00% | ~81 |
 | Sacrificial Pit = Garbage Disposal? | 15.00% | ~76 |
+| The Rune Sockets of Finitude (Part 1) | 15.00% | ~76 |
+| My Little Torture Chamber | 14.00% | ~71 |
 | Raiders of the Lost Stone | 14.00% | ~71 |
-| The Rune Sockets of Finitude (Part 1) | 14.00% | ~71 |
-| My Little Torture Chamber | 13.00% | ~66 |
 | Lavalumps on Ice! | 13.00% | ~66 |
+| The Rune Sockets of Finitude (Part 2) | 13.00% | ~66 |
 | Rubble and Ashes | 12.00% | ~61 |
-| The Rune Sockets of Finitude (Part 2) | 12.00% | ~61 |
 | To Infinity And Beyond! | 11.00% | ~56 |
 | The Last Stand - This Time For Real! | 11.00% | ~56 |
 | To the Max! | 10.00% | ~51 |

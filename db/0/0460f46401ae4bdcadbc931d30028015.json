@@ -2,13 +2,13 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 903,
+  "Ranking_Rating": 902,
   "Ranking_Popularity": 463,
-  "Ranking_PopularitySum": 440,
+  "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -757,10 +757,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 116,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-12-01T01:59:28.9878441+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 117,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 116,
+  "NumberOfAwards": 117,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -786,7 +792,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has Amazing Characters",
@@ -797,7 +803,7 @@
   ],
   "EOS_Progressed": 3958,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6324,9 +6330,9 @@
       "ID": "achievement_12",
       "SetID": "aiin7da",
       "Name": "Dealmaker",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 60,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1108
     },
     {
       "ID": "achievement_13",
@@ -6340,9 +6346,9 @@
       "ID": "achievement_14",
       "SetID": "aiin7da",
       "Name": "ROTY",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1504
     },
     {
       "ID": "achievement_15",
@@ -6476,9 +6482,9 @@
   "FirstSeen": "2023-08-18T01:36:55.7733992+00:00",
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged": "2023-11-30T20:02:42.6351469+00:00",
-  "LastChanged_Achievements": "2023-12-01T00:06:22.032396+00:00",
+  "LastChanged": "2023-12-01T01:59:28.9878439+00:00",
+  "LastChanged_Achievements": "2023-12-01T02:03:12.6517072+00:00",
   "LastUpdate_AppInfo": "2023-11-30T06:57:22.8292477+00:00",
-  "LastUpdate_Ratings": "2023-12-01T00:02:37.9658759+00:00",
-  "LastUpdate_Achievements": "2023-12-01T00:06:22.0324373+00:00"
+  "LastUpdate_Ratings": "2023-12-01T01:59:28.9878445+00:00",
+  "LastUpdate_Achievements": "2023-12-01T02:03:12.6517447+00:00"
 }

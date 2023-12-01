@@ -13,9 +13,9 @@
 | All right, I'll give it a try | 17.00% | ~254 |
 | Great shot, kid! | 17.00% | ~254 |
 | The power of the Force | 14.00% | ~209 |
+| Collector | 14.00% | ~209 |
 | Together we can rule the galaxy | 14.00% | ~209 |
 | Shoot first | 14.00% | ~209 |
-| Collector | 13.00% | ~194 |
 | Tell Jabba that I've got his money | 9.00% | ~135 |
 | Best star-pilot in the galaxy | 9.00% | ~135 |
 | Survivor | 9.00% | ~135 |

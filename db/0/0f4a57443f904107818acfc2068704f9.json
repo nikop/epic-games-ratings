@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 789,
+  "EOS_Progressed": 790,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
@@ -1617,6 +1617,11 @@
       "Time": "2023-12-01T00:04:39.1230739+00:00",
       "NumProgressed": 789,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-01T02:01:31.3241805+00:00",
+      "NumProgressed": 790,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1741,7 +1746,7 @@
       "Name": "Our Own Miracle",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "CompleteChapter17",
@@ -1749,7 +1754,7 @@
       "Name": "Fool\u0027s Errand",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "CompleteChapter17NoIdenDeath",
@@ -1765,7 +1770,7 @@
       "Name": "The Might of Sigmar\u0027s Warriors",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "CompleteChapter2",
@@ -1797,7 +1802,7 @@
       "Name": "Breathing Easy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "CompleteChapter6",
@@ -1924,14 +1929,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 789,
+      "Progressed": 790,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-01T00:04:39.1230734+00:00",
+  "LastChanged_Achievements": "2023-12-01T02:01:31.3241804+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-11-30T23:58:02.6810866+00:00",
-  "LastUpdate_Achievements": "2023-12-01T00:04:39.1231004+00:00"
+  "LastUpdate_Ratings": "2023-12-01T01:54:57.7712736+00:00",
+  "LastUpdate_Achievements": "2023-12-01T02:01:31.3242048+00:00"
 }

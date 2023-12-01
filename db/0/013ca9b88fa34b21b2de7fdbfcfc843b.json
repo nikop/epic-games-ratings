@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 343,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -195,7 +195,7 @@
   "Tags": [],
   "EOS_Progressed": 8184,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7791,9 +7791,9 @@
       "ID": "CHAPTER_2_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "A Thorny Situation",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 5729
+      "UsersEstimate": 5811
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -8078,8 +8078,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-26T23:02:38.616334+00:00",
-  "LastChanged_Achievements": "2023-12-01T00:09:30.8461726+00:00",
+  "LastChanged_Achievements": "2023-12-01T02:06:19.8498591+00:00",
   "LastUpdate_AppInfo": "2023-11-24T08:57:08.562767+00:00",
-  "LastUpdate_Ratings": "2023-12-01T00:02:58.743008+00:00",
-  "LastUpdate_Achievements": "2023-12-01T00:09:30.84622+00:00"
+  "LastUpdate_Ratings": "2023-12-01T01:59:49.9641395+00:00",
+  "LastUpdate_Achievements": "2023-12-01T02:06:19.8499019+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "aa598567414d42378187b8861da550f7",
   "Name": "Remnant 2",
   "ProductSlug": "remnant-2",
-  "Ranking_Rating": 150,
+  "Ranking_Rating": 151,
   "Ranking_Popularity": 102,
   "Ranking_PopularitySum": 129,
   "Ranking_EOS_Progress": 69,
@@ -4983,9 +4983,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 231440,
+  "EOS_Progressed": 231488,
   "EOS_Completed": 542,
-  "EOS_NewPlayers": 4832,
+  "EOS_NewPlayers": 4860,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -20743,6 +20743,11 @@
       "Time": "2023-12-01T00:08:46.7150133+00:00",
       "NumProgressed": 231440,
       "NumCompleted": 542
+    },
+    {
+      "Time": "2023-12-01T02:05:36.1918723+00:00",
+      "NumProgressed": 231488,
+      "NumCompleted": 542
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21155,7 +21160,7 @@
       "Name": "Regicide",
       "Percentage": 0.7,
       "XP": 75,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -21171,7 +21176,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -21194,13 +21199,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 231440,
+      "Progressed": 231488,
       "Completed": 542
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 10605,
+      "Progressed": 10653,
       "Completed": 177
     }
   ],
@@ -21208,8 +21213,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-30T22:03:28.9531614+00:00",
-  "LastChanged_Achievements": "2023-12-01T00:08:46.7150129+00:00",
+  "LastChanged_Achievements": "2023-12-01T02:05:36.1918722+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-12-01T00:03:06.3104047+00:00",
-  "LastUpdate_Achievements": "2023-12-01T00:08:46.7151073+00:00"
+  "LastUpdate_Ratings": "2023-12-01T01:59:57.6096281+00:00",
+  "LastUpdate_Achievements": "2023-12-01T02:05:36.1919621+00:00"
 }

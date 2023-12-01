@@ -1,7 +1,7 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 67)  
+Rating: 4.82 (Ranked 68)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,13 +15,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Project Arena | 0.70% | ~189 |
 | The Hateful Pole Fighter | 0.60% | ~4,306 |
 | A Lady's Blood in the Snow | 0.60% | ~4,306 |
+| Lady Wing Chun | 0.60% | ~4,306 |
 | Street Fighting | 0.60% | ~4,306 |
 | Qi Gong: Breath | 0.60% | ~4,306 |
 | Qi Gong: Essence | 0.60% | ~4,306 |
 | Path of the Prospect | 0.60% | ~4,306 |
 | Rumble in the Hangar | 0.60% | ~4,306 |
 | Fight the way you practice | 0.60% | ~162 |
-| Lady Wing Chun | 0.50% | ~3,588 |
 | Furious Fists | 0.50% | ~3,588 |
 | Kill Nil | 0.50% | ~3,588 |
 | Stuntmaster | 0.50% | ~3,588 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,652 (Ranked 22)  
+Progressed: 717,655 (Ranked 22)  
 Completed: 12,941 (1.80%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 12,941 (1.80%) (Ranked 132)
 | 2023-11-28 | 717,575 | 12,941 |
 | 2023-11-29 | 717,624 | 12,941 |
 | 2023-11-30 | 717,650 | 12,941 |
-| 2023-12-01 | 717,652 | 12,941 |
+| 2023-12-01 | 717,655 | 12,941 |
 ## Awards
 Max (Great Boss Battles): 6,858  (Ranked 55)  
 Sum: 12,017 (Ranked 83)  

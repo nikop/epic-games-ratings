@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4433,9 +4433,9 @@
       "Count": 397
     }
   ],
-  "EOS_Progressed": 12208,
+  "EOS_Progressed": 12210,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16248,6 +16248,11 @@
       "Time": "2023-11-30T14:09:33.4645628+00:00",
       "NumProgressed": 12208,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T02:05:50.4309473+00:00",
+      "NumProgressed": 12210,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -16259,7 +16264,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 3174
+      "UsersEstimate": 3175
     },
     {
       "ID": "02_BurningCity",
@@ -16267,7 +16272,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2197
+      "UsersEstimate": 2198
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -16315,7 +16320,7 @@
       "Name": "Path of the Angel",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "09_PathOfDemon",
@@ -16395,7 +16400,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1831
+      "UsersEstimate": 1832
     },
     {
       "ID": "19_EqualToAroden",
@@ -16467,7 +16472,7 @@
       "Name": "Great Upstart",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "29_StrategicVictory",
@@ -16507,7 +16512,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1953
+      "UsersEstimate": 1954
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -17186,21 +17191,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10990,
+      "Progressed": 10992,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12208,
+      "Progressed": 12210,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-11-30T22:57:56.9292719+00:00",
-  "LastChanged_Achievements": "2023-12-01T00:09:00.9348644+00:00",
+  "LastChanged_Achievements": "2023-12-01T02:05:50.4309472+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:49.3159315+00:00",
-  "LastUpdate_Ratings": "2023-11-30T23:57:58.3142916+00:00",
-  "LastUpdate_Achievements": "2023-12-01T00:09:00.9350532+00:00"
+  "LastUpdate_Ratings": "2023-12-01T01:54:53.1354791+00:00",
+  "LastUpdate_Achievements": "2023-12-01T02:05:50.431098+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "corydalis",
   "Name": "Slime Rancher",
   "ProductSlug": "slime-rancher",
-  "Ranking_Rating": 67,
+  "Ranking_Rating": 68,
   "Ranking_Popularity": 226,
   "Ranking_PopularitySum": 171,
   "Ranking_EOS_Progress": 766,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 496,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 495,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2017-08-01T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -3737,10 +3737,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3282,
       "NumberOfAwardsMax": 429
+    },
+    {
+      "Time": "2023-12-01T01:56:01.7797227+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3283,
+      "NumberOfAwardsMax": 429
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3282,
+  "NumberOfAwards": 3283,
   "NumberOfAwardsMax": 429,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3760,7 +3766,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 355
+      "Count": 356
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3828,8 +3834,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:59.345324+00:00",
-  "LastChanged": "2023-11-30T22:59:05.5793534+00:00",
+  "LastChanged": "2023-12-01T01:56:01.7797225+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:29.0489226+00:00",
-  "LastUpdate_Ratings": "2023-11-30T23:59:08.4124939+00:00",
-  "LastUpdate_Achievements": "2023-12-01T00:05:08.3999327+00:00"
+  "LastUpdate_Ratings": "2023-12-01T01:56:01.7797231+00:00",
+  "LastUpdate_Achievements": "2023-12-01T02:02:00.3888445+00:00"
 }

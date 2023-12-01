@@ -1,11 +1,11 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.15 (Ranked 949)  
+Rating: 4.15 (Ranked 948)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,316 |
+| Attachments | 10.00% | ~4,317 |
 | Unlocked Potential | 9.00% | ~3,885 |
 | Tinkerer | 7.00% | ~3,022 |
 | Leapfrogger | 6.00% | ~2,590 |
@@ -13,8 +13,8 @@ Rating: 4.15 (Ranked 949)
 | Pilgrimage: Initiate | 6.00% | ~2,590 |
 | Hell of a Run | 6.00% | ~2,590 |
 | Call of the Fount: Baptized | 6.00% | ~2,590 |
-| No Mercy | 5.00% | ~2,158 |
-| Explorer: Seeker | 5.00% | ~2,158 |
+| No Mercy | 5.00% | ~2,159 |
+| Explorer: Seeker | 5.00% | ~2,159 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,727 |
 | Stuck | 4.00% | ~1,727 |
 | Help Me Out Here | 4.00% | ~1,727 |
@@ -39,11 +39,11 @@ Rating: 4.15 (Ranked 949)
 | Awakening | 0.60% | ~259 |
 | Explorer: Trailblazer | 0.60% | ~259 |
 | Through the Eyes of Another: Seer | 0.50% | ~216 |
-| Archivist | 0.30% | ~129 |
-| Craftsperson | 0.30% | ~129 |
-| Tit for Tat | 0.30% | ~129 |
-| Promises | 0.30% | ~129 |
-| Rebirth | 0.30% | ~129 |
+| Archivist | 0.30% | ~130 |
+| Craftsperson | 0.30% | ~130 |
+| Tit for Tat | 0.30% | ~130 |
+| Promises | 0.30% | ~130 |
+| Rebirth | 0.30% | ~130 |
 | Paragon | 0.20% | ~86 |
 | Pilgrimage: Adept | 0.20% | ~86 |
 | Call of the Fount: Beatified | 0.20% | ~86 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 949)
 | Remembrance | 0.10% | ~43 |
 | Cat Person | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,165 (Ranked 118)  
+Progressed: 43,171 (Ranked 118)  
 Completed: 3 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 3 (0.01%) (Ranked 343)
 | 2023-11-28 | 43,106 | 3 |
 | 2023-11-29 | 43,128 | 3 |
 | 2023-11-30 | 43,162 | 3 |
-| 2023-12-01 | 43,165 | 3 |
+| 2023-12-01 | 43,171 | 3 |
 ## Awards
 Max (Character Customization): 29  (Ranked 503)  
 Sum: 29 (Ranked 517)  

@@ -6,36 +6,36 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Zealous | 0.40% | ~4,227 |
 | It wakes | 0.40% | ~4,227 |
+| Not half bad | 0.40% | ~4,227 |
 | Skillful | 0.40% | ~4,227 |
 | Handyman | 0.30% | ~3,170 |
-| Zealous | 0.30% | ~3,170 |
-| Not half bad | 0.30% | ~3,170 |
 | Apt Survivor | 0.30% | ~3,170 |
 | Survival Treasures | 0.30% | ~3,170 |
 | I | 0.30% | ~3,170 |
 | Make Some Noise | 0.30% | ~3,170 |
-| The Grand Sacrifice | 0.20% | ~2,113 |
-| Agonizing Escape | 0.20% | ~2,113 |
-| Backdoor Escape | 0.20% | ~2,113 |
-| I've got your back | 0.20% | ~2,113 |
-| No one left behind | 0.20% | ~2,113 |
-| Medic | 0.20% | ~2,113 |
-| Perfect Escape | 0.20% | ~2,113 |
-| Perfect Killing | 0.20% | ~2,113 |
-| Bloody Millionaire | 0.20% | ~2,113 |
-| Apt Killer | 0.20% | ~2,113 |
-| Risk it all | 0.20% | ~2,113 |
-| II | 0.20% | ~2,113 |
-| III | 0.20% | ~2,113 |
-| Engineer | 0.20% | ~2,113 |
-| Sorted | 0.20% | ~2,113 |
-| Wounded Healer | 0.20% | ~2,113 |
-| Healthy Obsession | 0.20% | ~2,113 |
-| Resurgence | 0.20% | ~2,113 |
-| Close Shave | 0.20% | ~2,113 |
-| Preemptive Strike | 0.20% | ~2,113 |
-| Humanitarian | 0.20% | ~2,113 |
+| The Grand Sacrifice | 0.20% | ~2,114 |
+| Agonizing Escape | 0.20% | ~2,114 |
+| Backdoor Escape | 0.20% | ~2,114 |
+| I've got your back | 0.20% | ~2,114 |
+| No one left behind | 0.20% | ~2,114 |
+| Medic | 0.20% | ~2,114 |
+| Perfect Escape | 0.20% | ~2,114 |
+| Perfect Killing | 0.20% | ~2,114 |
+| Bloody Millionaire | 0.20% | ~2,114 |
+| Apt Killer | 0.20% | ~2,114 |
+| Risk it all | 0.20% | ~2,114 |
+| II | 0.20% | ~2,114 |
+| III | 0.20% | ~2,114 |
+| Engineer | 0.20% | ~2,114 |
+| Sorted | 0.20% | ~2,114 |
+| Wounded Healer | 0.20% | ~2,114 |
+| Healthy Obsession | 0.20% | ~2,114 |
+| Resurgence | 0.20% | ~2,114 |
+| Close Shave | 0.20% | ~2,114 |
+| Preemptive Strike | 0.20% | ~2,114 |
+| Humanitarian | 0.20% | ~2,114 |
 | A bite for the Entity | 0.10% | ~1,057 |
 | A feast for the Entity | 0.10% | ~1,057 |
 | Blood on your hands | 0.10% | ~1,057 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,057 |
 | Adept Good Guy | 0.10% | ~1,057 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,056,630 (Ranked 14)  
+Progressed: 1,056,799 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -464,7 +464,7 @@ Completed: 61 (0.01%) (Ranked 343)
 | 2023-11-28 | 1,050,827 | 61 |
 | 2023-11-29 | 1,053,910 | 61 |
 | 2023-11-30 | 1,056,530 | 61 |
-| 2023-12-01 | 1,056,630 | 61 |
+| 2023-12-01 | 1,056,799 | 61 |
 ## Awards
 Max (Diverse Characters): 36,961  (Ranked 15)  
 Sum: 281,126 (Ranked 12)  

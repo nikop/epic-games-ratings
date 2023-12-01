@@ -4,8 +4,8 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 139,
+  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 215,
+  "EOS_Progressed": 216,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -460,6 +460,11 @@
       "Time": "2023-11-30T18:08:41.3791679+00:00",
       "NumProgressed": 215,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T02:05:16.5358064+00:00",
+      "NumProgressed": 216,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -525,9 +530,9 @@
       "ID": "dont_breath",
       "SetID": "3j2phem",
       "Name": "Don\u0027t Breathe",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 67
     },
     {
       "ID": "easy_listening",
@@ -535,7 +540,7 @@
       "Name": "Easy Listening",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ending_on_a_high_note",
@@ -655,7 +660,7 @@
       "Name": "Rapturous Applause!",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "scholar",
@@ -710,7 +715,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 215,
+      "Progressed": 216,
       "Completed": 0
     }
   ],
@@ -718,8 +723,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-12-01T00:08:26.7999346+00:00",
+  "LastChanged_Achievements": "2023-12-01T02:05:16.5358063+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:55.2818485+00:00",
-  "LastUpdate_Ratings": "2023-11-30T23:59:34.4236038+00:00",
-  "LastUpdate_Achievements": "2023-12-01T00:08:26.7999548+00:00"
+  "LastUpdate_Ratings": "2023-12-01T01:56:27.0468767+00:00",
+  "LastUpdate_Achievements": "2023-12-01T02:05:16.5358206+00:00"
 }
