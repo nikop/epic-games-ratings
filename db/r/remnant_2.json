@@ -4921,10 +4921,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6217,
       "NumberOfAwardsMax": 2533
+    },
+    {
+      "Time": "2023-12-01T06:03:30.7089674+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6221,
+      "NumberOfAwardsMax": 2533
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6217,
+  "NumberOfAwards": 6221,
   "NumberOfAwardsMax": 2533,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4968,7 +4974,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 376
+      "Count": 380
     },
     {
       "Text": "This game has a Creative Community",
@@ -4995,10 +5001,10 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 231570,
+  "EOS_Progressed": 231591,
   "EOS_Completed": 542,
-  "EOS_NewPlayers": 4886,
-  "EOS_NewCompleters": 31,
+  "EOS_NewPlayers": 4885,
+  "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -20775,6 +20781,11 @@
       "Time": "2023-12-01T05:09:02.7387169+00:00",
       "NumProgressed": 231570,
       "NumCompleted": 542
+    },
+    {
+      "Time": "2023-12-01T06:09:19.029734+00:00",
+      "NumProgressed": 231591,
+      "NumCompleted": 542
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20971,7 +20982,7 @@
       "Name": "First of Many",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -21195,7 +21206,7 @@
       "Name": "Succession",
       "Percentage": 0.2,
       "XP": 75,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "DLC1_Obtain_Archetype",
@@ -21219,29 +21230,29 @@
       "Name": "You Shall Pass",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 231570,
+      "Progressed": 231591,
       "Completed": 542
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 10735,
+      "Progressed": 10756,
       "Completed": 177
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-12-01T04:03:05.6187528+00:00",
-  "LastChanged_Achievements": "2023-12-01T05:09:02.7387163+00:00",
+  "LastChanged": "2023-12-01T06:03:30.7089672+00:00",
+  "LastChanged_Achievements": "2023-12-01T06:09:19.0297337+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-12-01T05:03:18.0194343+00:00",
-  "LastUpdate_Achievements": "2023-12-01T05:09:02.7388381+00:00"
+  "LastUpdate_Ratings": "2023-12-01T06:03:30.7089678+00:00",
+  "LastUpdate_Achievements": "2023-12-01T06:09:19.0298534+00:00"
 }

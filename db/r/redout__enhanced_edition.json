@@ -2,12 +2,12 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 594,
+  "Ranking_Rating": 593,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 236442,
+  "EOS_Progressed": 236444,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 370,
+  "EOS_NewPlayers": 371,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -23942,6 +23942,11 @@
       "Time": "2023-12-01T05:04:37.5034195+00:00",
       "NumProgressed": 236442,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-01T06:04:51.622614+00:00",
+      "NumProgressed": 236444,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -23977,7 +23982,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 18915
+      "UsersEstimate": 18916
     },
     {
       "ID": "CHALLENGER",
@@ -24017,7 +24022,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 18915
+      "UsersEstimate": 18916
     },
     {
       "ID": "FLAWLESS",
@@ -24041,7 +24046,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 47288
+      "UsersEstimate": 47289
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -24089,7 +24094,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 78026
+      "UsersEstimate": 78027
     },
     {
       "ID": "NOBUNAGA",
@@ -24177,7 +24182,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 52017
+      "UsersEstimate": 52018
     },
     {
       "ID": "TACTICIAN",
@@ -24201,7 +24206,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 52017
+      "UsersEstimate": 52018
     },
     {
       "ID": "TUNINGMANIAC",
@@ -24217,22 +24222,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 96941
+      "UsersEstimate": 96942
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 236442,
+      "Progressed": 236444,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-12-01T05:04:37.503419+00:00",
+  "LastChanged_Achievements": "2023-12-01T06:04:51.6226136+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:54.8147859+00:00",
-  "LastUpdate_Ratings": "2023-12-01T05:00:43.2508667+00:00",
-  "LastUpdate_Achievements": "2023-12-01T05:04:37.5035391+00:00"
+  "LastUpdate_Ratings": "2023-12-01T06:00:46.1944982+00:00",
+  "LastUpdate_Achievements": "2023-12-01T06:04:51.6228022+00:00"
 }

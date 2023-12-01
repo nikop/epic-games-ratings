@@ -24,10 +24,10 @@
 | What's the cargo? | 7.00% | ~105 |
 | Impressive. Most impressive. | 6.00% | ~90 |
 | Judge me by my size, do you? | 6.00% | ~90 |
+| Support the troops | 6.00% | ~90 |
 | "Gonk? Gonk!" | 5.00% | ~75 |
 | Distinguished | 5.00% | ~75 |
 | A tremor in the Force | 5.00% | ~75 |
-| Support the troops | 5.00% | ~75 |
 | Safety ain't the point of a joyride | 4.00% | ~60 |
 | Not bad for a little furball | 4.00% | ~60 |
 | Patience you must have | 4.00% | ~60 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 3633,
+  "Ranking_EOS_NewCompleters": 3634,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3331,7 +3331,7 @@
   ],
   "EOS_Progressed": 17543,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": -7,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -14980,9 +14980,9 @@
       "ID": "WinNearUntamedWilds",
       "SetID": "cfbk359",
       "Name": "Untamed Wilds",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 158
     },
     {
       "ID": "WinWithFoxes",
@@ -15004,8 +15004,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-30T20:00:49.175254+00:00",
-  "LastChanged_Achievements": "2023-12-01T05:08:58.1885249+00:00",
+  "LastChanged_Achievements": "2023-12-01T06:09:14.4925066+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:56.4973761+00:00",
-  "LastUpdate_Ratings": "2023-12-01T05:01:17.3225565+00:00",
-  "LastUpdate_Achievements": "2023-12-01T05:08:58.1885992+00:00"
+  "LastUpdate_Ratings": "2023-12-01T06:01:20.7382981+00:00",
+  "LastUpdate_Achievements": "2023-12-01T06:09:14.4926032+00:00"
 }

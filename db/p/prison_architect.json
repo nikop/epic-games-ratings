@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 343,
   "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -7087,10 +7087,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4503,
       "NumberOfAwardsMax": 585
+    },
+    {
+      "Time": "2023-12-01T05:59:00.5185602+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4507,
+      "NumberOfAwardsMax": 585
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4503,
+  "NumberOfAwards": 4507,
   "NumberOfAwardsMax": 585,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7098,7 +7104,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 480
+      "Count": 482
     },
     {
       "Text": "This game is Great for Beginners",
@@ -7152,7 +7158,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 349
+      "Count": 351
     },
     {
       "Text": "This game is Educational",
@@ -7161,7 +7167,7 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 199172,
+  "EOS_Progressed": 199178,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 2226,
   "EOS_NewCompleters": 1,
@@ -32811,6 +32817,11 @@
       "Time": "2023-12-01T05:09:27.6266151+00:00",
       "NumProgressed": 199172,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-01T06:09:44.6608019+00:00",
+      "NumProgressed": 199178,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 16,
@@ -32822,7 +32833,7 @@
       "Name": "Throw The Book At Them",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 3983
+      "UsersEstimate": 3984
     },
     {
       "ID": "Achievement_1",
@@ -32902,7 +32913,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 49793
+      "UsersEstimate": 49794
     },
     {
       "ID": "Achievement_5",
@@ -32910,7 +32921,7 @@
       "Name": "Iron Bars",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 3983
+      "UsersEstimate": 3984
     },
     {
       "ID": "Achievement_6",
@@ -32934,7 +32945,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 17925
+      "UsersEstimate": 17926
     },
     {
       "ID": "Achievement_9",
@@ -32949,15 +32960,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 199172,
+      "Progressed": 199178,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2023-11-30T21:58:46.7296545+00:00",
-  "LastChanged_Achievements": "2023-12-01T05:09:27.6266142+00:00",
+  "LastChanged": "2023-12-01T05:59:00.51856+00:00",
+  "LastChanged_Achievements": "2023-12-01T06:09:44.6608016+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:12.7295199+00:00",
-  "LastUpdate_Ratings": "2023-12-01T04:58:59.3004902+00:00",
-  "LastUpdate_Achievements": "2023-12-01T05:09:27.6267672+00:00"
+  "LastUpdate_Ratings": "2023-12-01T05:59:00.5185606+00:00",
+  "LastUpdate_Achievements": "2023-12-01T06:09:44.660979+00:00"
 }

@@ -8,7 +8,7 @@ Rating: 4.75 (Ranked 151)
 | The Killing Jar | 0.70% | ~1,621 |
 | Regicide | 0.70% | ~75 |
 | Master of the Dark Arts | 0.70% | ~75 |
-| First of Many | 0.60% | ~1,389 |
+| First of Many | 0.60% | ~1,390 |
 | Not Your Average Trait | 0.50% | ~1,158 |
 | Expanding Horizons | 0.40% | ~926 |
 | Gleaming the Cube | 0.40% | ~926 |
@@ -50,8 +50,8 @@ Rating: 4.75 (Ranked 151)
 | The Ultimate Weapon | 0.20% | ~463 |
 | No One Should Have All That Power | 0.20% | ~463 |
 | Transmutate | 0.20% | ~463 |
-| Succession | 0.20% | ~21 |
-| You Shall Pass | 0.20% | ~21 |
+| Succession | 0.20% | ~22 |
+| You Shall Pass | 0.20% | ~22 |
 | Only Human | 0.10% | ~232 |
 | Red Room | 0.10% | ~232 |
 | The Trigger | 0.10% | ~232 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 151)
 | Maxed Out! | 0.10% | ~232 |
 | A Foul Feast | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,570 (Ranked 69)  
+Progressed: 231,591 (Ranked 69)  
 Completed: 542 (0.23%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,10 +199,10 @@ Completed: 542 (0.23%) (Ranked 250)
 | 2023-11-28 | 230,188 | 541 |
 | 2023-11-29 | 230,694 | 542 |
 | 2023-11-30 | 231,406 | 542 |
-| 2023-12-01 | 231,570 | 542 |
+| 2023-12-01 | 231,591 | 542 |
 ## Awards
 Max (Great Boss Battles): 2,533  (Ranked 102)  
-Sum: 6,217 (Ranked 129)  
+Sum: 6,221 (Ranked 129)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
@@ -212,7 +212,7 @@ Diff (max vs sum): -27
 | This game has Challenging Combat | 394 |
 | This game is Extremely Fun | 385 |
 | This game is Relaxing | 381 |
-| This game has Amazing Storytelling | 376 |
+| This game has Amazing Storytelling | 380 |
 | This game has Amazing Characters | 368 |
 | This game has Quickly Understood Controls | 367 |
 | This game has Unique Visuals | 314 |
@@ -348,4 +348,4 @@ Diff (max vs sum): -27
 | 2023-11-28 | 4.75 | 2,498 | 6,104 |
 | 2023-11-29 | 4.75 | 2,518 | 6,163 |
 | 2023-11-30 | 4.75 | 2,533 | 6,208 |
-| 2023-12-01 | 4.75 | 2,533 | 6,217 |
+| 2023-12-01 | 4.75 | 2,533 | 6,221 |

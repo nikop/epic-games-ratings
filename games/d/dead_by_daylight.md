@@ -6,7 +6,7 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.50% | ~5,285 |
+| It wakes | 0.50% | ~5,286 |
 | Zealous | 0.40% | ~4,228 |
 | Not half bad | 0.40% | ~4,228 |
 | Skillful | 0.40% | ~4,228 |
@@ -14,6 +14,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Apt Survivor | 0.30% | ~3,171 |
 | Survival Treasures | 0.30% | ~3,171 |
 | I | 0.30% | ~3,171 |
+| Sorted | 0.30% | ~3,171 |
 | Resurgence | 0.30% | ~3,171 |
 | Make Some Noise | 0.30% | ~3,171 |
 | The Grand Sacrifice | 0.20% | ~2,114 |
@@ -30,7 +31,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | II | 0.20% | ~2,114 |
 | III | 0.20% | ~2,114 |
 | Engineer | 0.20% | ~2,114 |
-| Sorted | 0.20% | ~2,114 |
 | Wounded Healer | 0.20% | ~2,114 |
 | Healthy Obsession | 0.20% | ~2,114 |
 | Close Shave | 0.20% | ~2,114 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,057 |
 | Adept Good Guy | 0.10% | ~1,057 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,057,061 (Ranked 14)  
+Progressed: 1,057,125 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -464,7 +464,7 @@ Completed: 61 (0.01%) (Ranked 343)
 | 2023-11-28 | 1,050,827 | 61 |
 | 2023-11-29 | 1,053,910 | 61 |
 | 2023-11-30 | 1,056,530 | 61 |
-| 2023-12-01 | 1,057,061 | 61 |
+| 2023-12-01 | 1,057,125 | 61 |
 ## Awards
 Max (Diverse Characters): 36,961  (Ranked 15)  
 Sum: 281,126 (Ranked 12)  

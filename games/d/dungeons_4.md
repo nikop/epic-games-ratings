@@ -9,16 +9,16 @@
 | For the Horde! | 81.00% | ~410 |
 | Hammer Time, Round Two | 80.00% | ~405 |
 | The Hellwoods | 74.00% | ~374 |
+| Experienced Thalya | 70.00% | ~354 |
 | The Plains of Strothalm | 69.00% | ~349 |
-| Experienced Thalya | 69.00% | ~349 |
 | Thalya's Concentrated Fury | 67.00% | ~339 |
 | Bad Elves Go Everywhere | 66.00% | ~334 |
 | Master of Magic | 63.00% | ~319 |
 | Heroes’ Gorge | 61.00% | ~309 |
-| Unicorn steaks – fresh off the hoof! | 59.00% | ~299 |
+| Unicorn steaks – fresh off the hoof! | 60.00% | ~304 |
 | Magic Accidents | 58.00% | ~293 |
 | Trap Master | 56.00% | ~283 |
-| Minions, Minions! | 53.00% | ~268 |
+| Minions, Minions! | 54.00% | ~273 |
 | The Ascent | 53.00% | ~268 |
 | It's Warm and Cozy at Home | 53.00% | ~268 |
 | Hard Work | 48.00% | ~243 |

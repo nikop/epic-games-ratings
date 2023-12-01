@@ -143,9 +143,9 @@
       "ID": "ACH_FIRSTSKINCHANGE",
       "SetID": "ch874lb",
       "Name": "A Good Paint Job",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FIRSTUPGRADE",
@@ -326,8 +326,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2023-12-01T05:09:09.9841834+00:00",
+  "LastChanged_Achievements": "2023-12-01T06:09:26.7811086+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:04.0837308+00:00",
-  "LastUpdate_Ratings": "2023-12-01T05:01:07.5392636+00:00",
-  "LastUpdate_Achievements": "2023-12-01T05:09:09.9842001+00:00"
+  "LastUpdate_Ratings": "2023-12-01T06:01:10.2343943+00:00",
+  "LastUpdate_Achievements": "2023-12-01T06:09:26.7811272+00:00"
 }

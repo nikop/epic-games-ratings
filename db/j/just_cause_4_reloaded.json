@@ -3,7 +3,7 @@
   "Name": "Just Cause 4 Reloaded",
   "ProductSlug": "just-cause-4",
   "Ranking_Rating": 864,
-  "Ranking_Popularity": 88,
+  "Ranking_Popularity": 87,
   "Ranking_PopularitySum": 114,
   "Ranking_EOS_Progress": 769,
   "Ranking_EOS_Completed": 363,
@@ -4835,18 +4835,24 @@
       "Rating": 4.27,
       "NumberOfAwards": 7368,
       "NumberOfAwardsMax": 3864
+    },
+    {
+      "Time": "2023-12-01T06:00:35.7223017+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 7369,
+      "NumberOfAwardsMax": 3865
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7368,
-  "NumberOfAwardsMax": 3864,
+  "NumberOfAwards": 7369,
+  "NumberOfAwardsMax": 3865,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3864
+      "Count": 3865
     },
     {
       "Text": "This game is Great for Beginners",
@@ -4908,8 +4914,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:31.4925823+00:00",
-  "LastChanged": "2023-11-27T20:57:52.3625205+00:00",
+  "LastChanged": "2023-12-01T06:00:35.7223015+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:57.2098496+00:00",
-  "LastUpdate_Ratings": "2023-12-01T05:00:32.9121391+00:00",
-  "LastUpdate_Achievements": "2023-12-01T05:08:38.999379+00:00"
+  "LastUpdate_Ratings": "2023-12-01T06:00:35.722302+00:00",
+  "LastUpdate_Achievements": "2023-12-01T06:08:55.2423086+00:00"
 }

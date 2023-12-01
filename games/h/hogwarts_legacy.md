@@ -8,8 +8,8 @@ Rating: 4.76 (Ranked 130)
 | The Sort Who Makes an Entrance | 16.00% | ~48,588 |
 | First Class Student | 15.00% | ~45,551 |
 | Troll with the Punches | 14.00% | ~42,514 |
-| A Keen Sense of Spell | 13.00% | ~39,477 |
-| That's a Keeper | 13.00% | ~39,477 |
+| A Keen Sense of Spell | 13.00% | ~39,478 |
+| That's a Keeper | 13.00% | ~39,478 |
 | The Defender of Dragons | 12.00% | ~36,441 |
 | Loom for Improvement | 12.00% | ~36,441 |
 | A Talent for Spending | 12.00% | ~36,441 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 130)
 | The Nature of the Beast | 0.70% | ~2,126 |
 | Collector's Edition | 0.30% | ~911 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,673 (Ranked 54)  
+Progressed: 303,674 (Ranked 54)  
 Completed: 519 (0.17%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,10 +276,10 @@ Completed: 519 (0.17%) (Ranked 266)
 | 2023-11-28 | 303,515 | 519 |
 | 2023-11-29 | 303,596 | 519 |
 | 2023-11-30 | 303,661 | 519 |
-| 2023-12-01 | 303,673 | 519 |
+| 2023-12-01 | 303,674 | 519 |
 ## Awards
 Max (Character Customization): 24,781  (Ranked 17)  
-Sum: 49,552 (Ranked 30)  
+Sum: 49,553 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -294,7 +294,7 @@ Diff (max vs sum): -13
 | This game is Highly Recommended | 1,221 |
 | This game has Quickly Understood Controls | 1,185 |
 | This game has Beautiful Visuals | 1,069 |
-| This game has a Creative Community | 825 |
+| This game has a Creative Community | 826 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -550,3 +550,4 @@ Diff (max vs sum): -13
 | 2023-11-28 | 4.76 | 24,728 | 49,391 |
 | 2023-11-29 | 4.76 | 24,755 | 49,466 |
 | 2023-11-30 | 4.76 | 24,781 | 49,552 |
+| 2023-12-01 | 4.76 | 24,781 | 49,553 |

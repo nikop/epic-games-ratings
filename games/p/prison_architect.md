@@ -6,15 +6,15 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~49,793 |
+| Stone Walls | 25.00% | ~49,794 |
 | Get Busy Living | 16.00% | ~31,868 |
-| Samuel Norton | 9.00% | ~17,925 |
+| Samuel Norton | 9.00% | ~17,926 |
 | Spare The Rod | 5.00% | ~9,959 |
 | Don't Put Me In The Dark | 3.00% | ~5,975 |
 | Wait and Hope | 3.00% | ~5,975 |
 | I May Have Found A Way Out Of Here | 3.00% | ~5,975 |
-| Throw The Book At Them | 2.00% | ~3,983 |
-| Iron Bars | 2.00% | ~3,983 |
+| Throw The Book At Them | 2.00% | ~3,984 |
+| Iron Bars | 2.00% | ~3,984 |
 | D.B. Cooper | 1.00% | ~1,992 |
 | Reformation | 0.60% | ~1,195 |
 | Crowd Control | 0.50% | ~996 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~199 |
 | ... It's What You Can Prove | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 199,172 (Ranked 75)  
+Progressed: 199,178 (Ranked 75)  
 Completed: 11 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,10 +248,10 @@ Completed: 11 (0.01%) (Ranked 343)
 | 2023-11-28 | 198,598 | 11 |
 | 2023-11-29 | 198,863 | 11 |
 | 2023-11-30 | 199,124 | 11 |
-| 2023-12-01 | 199,172 | 11 |
+| 2023-12-01 | 199,178 | 11 |
 ## Awards
 Max (Great for Beginners): 585  (Ranked 199)  
-Sum: 4,503 (Ranked 146)  
+Sum: 4,507 (Ranked 146)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
@@ -261,10 +261,10 @@ Diff (max vs sum): 53
 | This game has Quickly Understood Controls | 530 |
 | This game is Relaxing | 521 |
 | This game has Diverse Characters | 489 |
-| This game has Amazing Storytelling | 480 |
+| This game has Amazing Storytelling | 482 |
 | This game is Educational | 459 |
 | This game has Amazing Characters | 441 |
-| This game has a Creative Community | 349 |
+| This game has a Creative Community | 351 |
 | This game has Obsessive Gameplay | 234 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -581,3 +581,4 @@ Diff (max vs sum): 53
 | 2023-11-28 | 4.61 | - | 583 | 4,488 |
 | 2023-11-29 | 4.61 | - | 583 | 4,498 |
 | 2023-11-30 | 4.61 | - | 585 | 4,503 |
+| 2023-12-01 | 4.61 | - | 585 | 4,507 |

@@ -166,9 +166,9 @@
       "ID": "CompletedChapter1",
       "SetID": "7ejh407",
       "Name": "Defeated Captain Tutorial",
-      "Percentage": 56,
+      "Percentage": 60,
       "XP": 200,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "CompletedChapter2",
@@ -262,9 +262,9 @@
       "ID": "ImerssionBreaking",
       "SetID": "7ejh407",
       "Name": "Immersion Breaking",
-      "Percentage": 36,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "InternetExplorer",
@@ -302,17 +302,17 @@
       "ID": "LearnedToJump",
       "SetID": "7ejh407",
       "Name": "Learned how to jump!",
-      "Percentage": 68,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "LearnedToWalk",
       "SetID": "7ejh407",
       "Name": "Learned how to walk!",
-      "Percentage": 68,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "LoveMaster",
@@ -373,8 +373,8 @@
   ],
   "FirstSeen": "2023-05-08T18:00:59.2575901+00:00",
   "FirstSeenAchievements": "2023-05-02T18:05:17.3554395+00:00",
-  "LastChanged_Achievements": "2023-12-01T05:07:39.413349+00:00",
+  "LastChanged_Achievements": "2023-12-01T06:07:54.6885777+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:17.577377+00:00",
-  "LastUpdate_Ratings": "2023-12-01T04:59:38.0738798+00:00",
-  "LastUpdate_Achievements": "2023-12-01T05:07:39.4133707+00:00"
+  "LastUpdate_Ratings": "2023-12-01T05:59:40.0266071+00:00",
+  "LastUpdate_Achievements": "2023-12-01T06:07:54.6885968+00:00"
 }

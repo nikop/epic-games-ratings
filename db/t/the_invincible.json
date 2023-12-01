@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 470,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1501,9 +1501,9 @@
       "ID": "AchvTheEnd",
       "SetID": "1hj060c",
       "Name": "The End",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 55,
-      "UsersEstimate": 118
+      "UsersEstimate": 122
     },
     {
       "ID": "AchvUnity",
@@ -1524,8 +1524,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-01T05:08:56.1359444+00:00",
+  "LastChanged_Achievements": "2023-12-01T06:09:12.4414819+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-12-01T05:00:47.8864687+00:00",
-  "LastUpdate_Achievements": "2023-12-01T05:08:56.1359649+00:00"
+  "LastUpdate_Ratings": "2023-12-01T06:00:50.4626081+00:00",
+  "LastUpdate_Achievements": "2023-12-01T06:09:12.4415036+00:00"
 }

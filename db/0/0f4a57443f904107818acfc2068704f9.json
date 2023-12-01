@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 790,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 295,
+  "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1816,9 +1816,9 @@
       "ID": "CompleteChapter7",
       "SetID": "52ail55",
       "Name": "First to be Forged, Never to Fail!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 134
     },
     {
       "ID": "CompleteChapter8",
@@ -1935,8 +1935,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-01T05:05:30.9118769+00:00",
+  "LastChanged_Achievements": "2023-12-01T06:05:46.0256754+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-12-01T04:58:36.4868337+00:00",
-  "LastUpdate_Achievements": "2023-12-01T05:05:30.9119043+00:00"
+  "LastUpdate_Ratings": "2023-12-01T05:58:37.4637427+00:00",
+  "LastUpdate_Achievements": "2023-12-01T06:05:46.0257162+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 820,
+  "EOS_Progressed": 821,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 5.37,
+  "EOS_Completed_Percentage": 5.36,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3330,6 +3330,11 @@
       "Time": "2023-12-01T03:05:41.1895048+00:00",
       "NumProgressed": 820,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-12-01T06:07:14.7613462+00:00",
+      "NumProgressed": 821,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 25,
@@ -3373,15 +3378,15 @@
       "Name": "A good beginning",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 164
+      "UsersEstimate": 156
     },
     {
       "ID": "META_RESULT_1-2",
@@ -3429,7 +3434,7 @@
       "Name": "A Link to the Past",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -3453,7 +3458,7 @@
       "Name": "True G3M4R",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -3485,7 +3490,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3501,7 +3506,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "PROGRESS_N2",
@@ -3509,7 +3514,7 @@
       "Name": "The great escape",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "PROGRESS_N3",
@@ -3525,7 +3530,7 @@
       "Name": "The darkness",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "PROGRESS_N5",
@@ -3540,14 +3545,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 820,
+      "Progressed": 821,
       "Completed": 44
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-01T05:06:59.2846542+00:00",
+  "LastChanged_Achievements": "2023-12-01T06:07:14.761346+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-12-01T05:00:08.3639519+00:00",
-  "LastUpdate_Achievements": "2023-12-01T05:06:59.2846854+00:00"
+  "LastUpdate_Ratings": "2023-12-01T06:00:11.0298915+00:00",
+  "LastUpdate_Achievements": "2023-12-01T06:07:14.7614024+00:00"
 }

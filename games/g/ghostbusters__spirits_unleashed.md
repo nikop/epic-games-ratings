@@ -1,11 +1,11 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 594)  
+Rating: 4.50 (Ranked 593)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 9.00% | ~2,860 |
+| Stylish | 9.00% | ~2,861 |
 | Advancement | 7.00% | ~2,225 |
 | Meticulously Efficient | 7.00% | ~2,225 |
 | I collect Spores, Molds, and Fungi | 5.00% | ~1,589 |
@@ -19,14 +19,14 @@ Rating: 4.50 (Ranked 594)
 | There you are! | 4.00% | ~1,271 |
 | Vaporous Expansion | 4.00% | ~1,271 |
 | Whoopsie | 4.00% | ~1,271 |
-| Animated | 3.00% | ~953 |
-| Daily Dose | 3.00% | ~953 |
-| Ectoplasmic Entity | 3.00% | ~953 |
-| Ghostbuster In Training | 3.00% | ~953 |
-| Icing on the Cake | 3.00% | ~953 |
-| Right back at ya | 3.00% | ~953 |
-| Side Hustle | 3.00% | ~953 |
-| Summoner | 3.00% | ~953 |
+| Animated | 3.00% | ~954 |
+| Daily Dose | 3.00% | ~954 |
+| Ectoplasmic Entity | 3.00% | ~954 |
+| Ghostbuster In Training | 3.00% | ~954 |
+| Icing on the Cake | 3.00% | ~954 |
+| Right back at ya | 3.00% | ~954 |
+| Side Hustle | 3.00% | ~954 |
+| Summoner | 3.00% | ~954 |
 | Back Off | 2.00% | ~636 |
 | We have the best insurance | 2.00% | ~636 |
 | Collector | 2.00% | ~636 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 594)
 | Line em' up | 0.10% | ~32 |
 | Ultimate Defense | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,783 (Ranked 124)  
+Progressed: 31,784 (Ranked 124)  
 Completed: 69 (0.22%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 69 (0.22%) (Ranked 253)
 | 2023-11-28 | 31,716 | 69 |
 | 2023-11-29 | 31,744 | 69 |
 | 2023-11-30 | 31,775 | 69 |
-| 2023-12-01 | 31,783 | 69 |
+| 2023-12-01 | 31,784 | 69 |
 ## Awards
 Max (Great for Beginners): 319  (Ranked 251)  
 Sum: 2,865 (Ranked 178)  

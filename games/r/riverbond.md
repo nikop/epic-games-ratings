@@ -6,26 +6,26 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~372,581 |
-| Now You're Talking | 62.00% | ~330,001 |
-| Steel Yourself | 62.00% | ~330,001 |
+| First Step | 70.00% | ~372,583 |
+| Now You're Talking | 62.00% | ~330,002 |
+| Steel Yourself | 62.00% | ~330,002 |
 | Window Dressing | 50.00% | ~266,130 |
-| Trigger Happy | 46.00% | ~244,839 |
+| Trigger Happy | 46.00% | ~244,840 |
 | Riverborn | 45.00% | ~239,517 |
-| Starry Eyed | 34.00% | ~180,968 |
-| Poking Around | 34.00% | ~180,968 |
-| Talk of the Town | 24.00% | ~127,742 |
+| Starry Eyed | 34.00% | ~180,969 |
+| Poking Around | 34.00% | ~180,969 |
+| Talk of the Town | 24.00% | ~127,743 |
 | AAARR! | 23.00% | ~122,420 |
 | Hello Darkness | 23.00% | ~122,420 |
 | Wind At Our Backs | 22.00% | ~117,097 |
 | To the Beat | 20.00% | ~106,452 |
 | Sunny Shores | 17.00% | ~90,484 |
-| Sunday Best | 16.00% | ~85,161 |
+| Sunday Best | 16.00% | ~85,162 |
 | To Victory! | 15.00% | ~79,839 |
-| Two of a Kind | 14.00% | ~74,516 |
+| Two of a Kind | 14.00% | ~74,517 |
 | Keep On Trucking | 13.00% | ~69,194 |
-| Going on an Adventure | 11.00% | ~58,548 |
-| Make Peace, Not War | 11.00% | ~58,548 |
+| Going on an Adventure | 11.00% | ~58,549 |
+| Make Peace, Not War | 11.00% | ~58,549 |
 | Walking The Line | 10.00% | ~53,226 |
 | Not So Cute Anymore | 10.00% | ~53,226 |
 | Road Less Travelled | 9.00% | ~47,903 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,597 |
 | Point Taken | 0.20% | ~1,065 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 532,259 (Ranked 35)  
+Progressed: 532,261 (Ranked 35)  
 Completed: 503 (0.09%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 503 (0.09%) (Ranked 290)
 | 2023-11-28 | 532,156 | 503 |
 | 2023-11-29 | 532,202 | 503 |
 | 2023-11-30 | 532,249 | 503 |
-| 2023-12-01 | 532,259 | 503 |
+| 2023-12-01 | 532,261 | 503 |
 ## Awards
 Max (Relaxing): 20  (Ranked 550)  
 Sum: 20 (Ranked 551)  

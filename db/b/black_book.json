@@ -663,9 +663,9 @@
       "Count": 90
     }
   ],
-  "EOS_Progressed": 57068,
+  "EOS_Progressed": 57071,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 1658,
+  "EOS_NewPlayers": 1653,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11593,6 +11593,11 @@
       "Time": "2023-12-01T05:04:43.3575107+00:00",
       "NumProgressed": 57068,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-01T06:04:57.7272221+00:00",
+      "NumProgressed": 57071,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -11661,7 +11666,7 @@
       "Name": "Card Player",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4565
+      "UsersEstimate": 4566
     },
     {
       "ID": "CHEATER",
@@ -11677,7 +11682,7 @@
       "Name": "Cow Level",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 6277
+      "UsersEstimate": 6278
     },
     {
       "ID": "DEAD_MAN",
@@ -11717,7 +11722,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 12555
+      "UsersEstimate": 12556
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -11725,7 +11730,7 @@
       "Name": "Scientist",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 6277
+      "UsersEstimate": 6278
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -11805,7 +11810,7 @@
       "Name": "Initiation",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 15979
+      "UsersEstimate": 15980
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -11813,7 +11818,7 @@
       "Name": "Vorsa",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2853
+      "UsersEstimate": 2854
     },
     {
       "ID": "MERMAID_FREE",
@@ -11821,7 +11826,7 @@
       "Name": "Dead Friend",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4565
+      "UsersEstimate": 4566
     },
     {
       "ID": "MERMAID_NOT_FREE",
@@ -11853,7 +11858,7 @@
       "Name": "Soldier",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 6848
+      "UsersEstimate": 6849
     },
     {
       "ID": "NORMAL_END",
@@ -11885,7 +11890,7 @@
       "Name": "Pine Tree",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4565
+      "UsersEstimate": 4566
     },
     {
       "ID": "PROSHKA_LOYAL",
@@ -11917,7 +11922,7 @@
       "Name": "Susanin",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2853
+      "UsersEstimate": 2854
     },
     {
       "ID": "TALES_1",
@@ -11925,7 +11930,7 @@
       "Name": "Listener",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 8560
+      "UsersEstimate": 8561
     },
     {
       "ID": "TALES_2",
@@ -11933,7 +11938,7 @@
       "Name": "Collector",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4565
+      "UsersEstimate": 4566
     },
     {
       "ID": "TALES_3",
@@ -11949,7 +11954,7 @@
       "Name": "Traveller",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2853
+      "UsersEstimate": 2854
     },
     {
       "ID": "WATER",
@@ -11965,7 +11970,7 @@
       "Name": "Wolf",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4565
+      "UsersEstimate": 4566
     },
     {
       "ID": "WORD_MASTER",
@@ -12004,15 +12009,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 57068,
+      "Progressed": 57071,
       "Completed": 57
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-11-24T14:58:20.0827646+00:00",
-  "LastChanged_Achievements": "2023-12-01T05:04:43.35751+00:00",
+  "LastChanged_Achievements": "2023-12-01T06:04:57.7272218+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:46.0067578+00:00",
-  "LastUpdate_Ratings": "2023-12-01T04:58:21.0076166+00:00",
-  "LastUpdate_Achievements": "2023-12-01T05:04:43.3575822+00:00"
+  "LastUpdate_Ratings": "2023-12-01T05:58:21.8710552+00:00",
+  "LastUpdate_Achievements": "2023-12-01T06:04:57.727314+00:00"
 }

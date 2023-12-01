@@ -1407,9 +1407,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 23464,
+  "EOS_Progressed": 23466,
   "EOS_Completed": 90,
-  "EOS_NewPlayers": 394,
+  "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -25717,6 +25717,11 @@
       "Time": "2023-12-01T05:08:04.1064179+00:00",
       "NumProgressed": 23464,
       "NumCompleted": 90
+    },
+    {
+      "Time": "2023-12-01T06:08:19.9004963+00:00",
+      "NumProgressed": 23466,
+      "NumCompleted": 90
     }
   ],
   "TotalAchievements": 45,
@@ -25760,7 +25765,7 @@
       "Name": "Can\u0027t Run Can\u0027t Hide",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3754
+      "UsersEstimate": 3755
     },
     {
       "ID": "DeadInTheAir",
@@ -25816,7 +25821,7 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 10559
+      "UsersEstimate": 10560
     },
     {
       "ID": "ICallItLuck",
@@ -25864,7 +25869,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 17833
+      "UsersEstimate": 17834
     },
     {
       "ID": "MoreThanHuman",
@@ -25880,7 +25885,7 @@
       "Name": "Control freak",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 6335
+      "UsersEstimate": 6336
     },
     {
       "ID": "ObedientMachine",
@@ -25912,7 +25917,7 @@
       "Name": "Out of order",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 10324
+      "UsersEstimate": 10325
     },
     {
       "ID": "Perfection",
@@ -25920,7 +25925,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 7508
+      "UsersEstimate": 7509
     },
     {
       "ID": "PreempativeStrike",
@@ -25944,7 +25949,7 @@
       "Name": "R is for Running",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 3754
+      "UsersEstimate": 3755
     },
     {
       "ID": "RunningOutOfBreath",
@@ -25952,7 +25957,7 @@
       "Name": "Running out of breath",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 12671
+      "UsersEstimate": 12672
     },
     {
       "ID": "RunningWild",
@@ -26000,7 +26005,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 14313
+      "UsersEstimate": 14314
     },
     {
       "ID": "SwordToAGunfight",
@@ -26024,7 +26029,7 @@
       "Name": "Unstoppable force",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 5162
+      "UsersEstimate": 5163
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -26048,7 +26053,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 12436
+      "UsersEstimate": 12437
     },
     {
       "ID": "WaveOfMutilation",
@@ -26056,7 +26061,7 @@
       "Name": "Wave of mutilation",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 5162
+      "UsersEstimate": 5163
     },
     {
       "ID": "WhereAreMyKeys",
@@ -26080,28 +26085,28 @@
       "Name": "Why not both",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 7039
+      "UsersEstimate": 7040
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 23464,
+      "Progressed": 23466,
       "Completed": 59
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 23464,
+      "Progressed": 23466,
       "Completed": 90
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-11-27T13:59:27.5493328+00:00",
-  "LastChanged_Achievements": "2023-12-01T05:08:04.1064174+00:00",
+  "LastChanged_Achievements": "2023-12-01T06:08:19.9004961+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:34.7247145+00:00",
-  "LastUpdate_Ratings": "2023-12-01T04:57:31.346492+00:00",
-  "LastUpdate_Achievements": "2023-12-01T05:08:04.1065508+00:00"
+  "LastUpdate_Ratings": "2023-12-01T05:57:31.1843181+00:00",
+  "LastUpdate_Achievements": "2023-12-01T06:08:19.9006254+00:00"
 }

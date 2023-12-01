@@ -4892,9 +4892,9 @@
       "ID": "achievement_56",
       "SetID": "cemm4l8",
       "Name": "Support the troops",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 75
+      "UsersEstimate": 90
     },
     {
       "ID": "achievement_57",
@@ -5003,8 +5003,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-01T05:10:07.5981032+00:00",
+  "LastChanged_Achievements": "2023-12-01T06:10:24.8927848+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:02.7370766+00:00",
-  "LastUpdate_Ratings": "2023-12-01T04:58:56.898882+00:00",
-  "LastUpdate_Achievements": "2023-12-01T05:10:07.5981844+00:00"
+  "LastUpdate_Ratings": "2023-12-01T05:58:58.1283418+00:00",
+  "LastUpdate_Achievements": "2023-12-01T06:10:24.8928589+00:00"
 }

@@ -13,7 +13,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Petrified Necropolis | 1.00% | ~175 |
 | Ominous Presence | 1.00% | ~175 |
 | Gathering Storm | 1.00% | ~175 |
-| Untamed Wilds | 0.80% | ~140 |
+| Untamed Wilds | 0.90% | ~158 |
 | Watchtower | 0.20% | ~35 |
 | Fox Utopia | 0.20% | ~35 |
 | Serving Ale | 0.10% | ~18 |

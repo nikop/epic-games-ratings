@@ -2218,9 +2218,9 @@
       "Count": 255
     }
   ],
-  "EOS_Progressed": 216764,
+  "EOS_Progressed": 216765,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 1294,
+  "EOS_NewPlayers": 1289,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -27953,6 +27953,11 @@
       "Time": "2023-12-01T05:04:50.5342626+00:00",
       "NumProgressed": 216764,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-12-01T06:05:04.8920964+00:00",
+      "NumProgressed": 216765,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 44,
@@ -28052,7 +28057,7 @@
       "Name": "Happy Planning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15173
+      "UsersEstimate": 15174
     },
     {
       "ID": "HighFiveTheMoon",
@@ -28068,7 +28073,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15173
+      "UsersEstimate": 15174
     },
     {
       "ID": "ItsRainingMen",
@@ -28084,7 +28089,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 15173
+      "UsersEstimate": 15174
     },
     {
       "ID": "Mercyful",
@@ -28308,22 +28313,22 @@
       "Name": "Yabu",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 15173
+      "UsersEstimate": 15174
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 216764,
+      "Progressed": 216765,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-30T22:01:54.3996832+00:00",
-  "LastChanged_Achievements": "2023-12-01T05:04:50.534262+00:00",
+  "LastChanged_Achievements": "2023-12-01T06:05:04.8920959+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:23.8145991+00:00",
-  "LastUpdate_Ratings": "2023-12-01T04:57:14.3000497+00:00",
-  "LastUpdate_Achievements": "2023-12-01T05:04:50.5343748+00:00"
+  "LastUpdate_Ratings": "2023-12-01T05:57:13.8577274+00:00",
+  "LastUpdate_Achievements": "2023-12-01T06:05:04.8922747+00:00"
 }
