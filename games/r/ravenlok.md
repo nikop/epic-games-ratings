@@ -40,12 +40,12 @@
 | Kidnapped! | 36.00% | ~408 |
 | Pull the Plug | 35.00% | ~397 |
 | Soul Slayer | 35.00% | ~397 |
+| The Downfall | 35.00% | ~397 |
 | All Heart | 35.00% | ~397 |
 | Trick Question! | 35.00% | ~397 |
 | Final Showdown | 35.00% | ~397 |
-| The Downfall | 34.00% | ~386 |
-| Spot of Tea? | 34.00% | ~386 |
-| Going Home | 34.00% | ~386 |
+| Spot of Tea? | 35.00% | ~397 |
+| Going Home | 35.00% | ~397 |
 | Extraordinary! | 33.00% | ~374 |
 | Mirror, Mirror | 32.00% | ~363 |
 | Flower Power | 28.00% | ~318 |

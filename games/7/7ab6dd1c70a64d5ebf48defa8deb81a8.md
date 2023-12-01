@@ -22,9 +22,9 @@
 | Calm before the Storm | 5.00% | ~12 |
 | To Battle | 5.00% | ~12 |
 | Godslayer | 5.00% | ~12 |
+| Essence Blow | 5.00% | ~12 |
 | Alchemist | 5.00% | ~12 |
 | The Mentor | 4.00% | ~10 |
-| Essence Blow | 4.00% | ~10 |
 | Fine Feathers Make Fine Birds | 4.00% | ~10 |
 | Clear Sight | 3.00% | ~7 |
 | Airborne | 3.00% | ~7 |

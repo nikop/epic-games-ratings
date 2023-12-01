@@ -46,6 +46,7 @@ Number of Ratings: 177  (23.09.2022)
 | First Impressions | 0.30% | ~20 |
 | Do You Smell Blood? | 0.30% | ~20 |
 | The Muse: Derek | 0.30% | ~20 |
+| Derezzed | 0.30% | ~20 |
 | The Elder Brahs | 0.30% | ~20 |
 | Beyond the Call of Dude-y | 0.20% | ~13 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~7 |
@@ -55,7 +56,6 @@ Number of Ratings: 177  (23.09.2022)
 | Ronin | 0.20% | ~13 |
 | A Striking Resemblance | 0.20% | ~13 |
 | Howz It Goin Dood | 0.20% | ~13 |
-| Derezzed | 0.20% | ~13 |
 | Snapped | 0.20% | ~13 |
 | Against All Odds | 0.10% | ~7 |
 | Casabrova | 0.10% | ~7 |

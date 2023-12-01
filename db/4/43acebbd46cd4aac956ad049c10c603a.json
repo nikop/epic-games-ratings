@@ -3,10 +3,10 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 32,
-  "Ranking_Popularity": 468,
+  "Ranking_Popularity": 469,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 277,
-  "Ranking_EOS_Completed": 278,
+  "Ranking_EOS_Completed": 279,
   "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
@@ -169,9 +169,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 810,
+  "EOS_Progressed": 811,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1834,6 +1834,11 @@
       "Time": "2023-12-01T19:03:55.2270101+00:00",
       "NumProgressed": 810,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-01T20:04:30.3313245+00:00",
+      "NumProgressed": 811,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1892,9 +1897,9 @@
       "ID": "BreakTheLoop",
       "SetID": "1n308hc",
       "Name": "Break the Loop",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "BridgeBuilder",
@@ -1988,9 +1993,9 @@
       "ID": "GoodCitizen",
       "SetID": "1n308hc",
       "Name": "Good Citizen",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "GrasslandsRing",
@@ -2014,7 +2019,7 @@
       "Name": "Into the Machine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "JustOneLap",
@@ -2036,9 +2041,9 @@
       "ID": "LostMarshes",
       "SetID": "1n308hc",
       "Name": "Lost Marshes",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 24
     },
     {
       "ID": "MistressOfRiddles",
@@ -2068,17 +2073,17 @@
       "ID": "MuseumVisitor",
       "SetID": "1n308hc",
       "Name": "Museum Visitor",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 57
     },
     {
       "ID": "NewBeginning",
       "SetID": "1n308hc",
       "Name": "A New Beginning",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NewMorality",
@@ -2180,9 +2185,9 @@
       "ID": "SouthernCoast",
       "SetID": "1n308hc",
       "Name": "Southern Coast",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     },
     {
       "ID": "TeamSpirit",
@@ -2190,7 +2195,7 @@
       "Name": "Team Spirit",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "TextAdventurer",
@@ -2246,7 +2251,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "TheWordEndures",
@@ -2262,7 +2267,7 @@
       "Name": "Touch Grass",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "TrevorsBiographer",
@@ -2317,7 +2322,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 810,
+      "Progressed": 811,
       "Completed": 1
     }
   ],
@@ -2325,8 +2330,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-30T22:00:34.4965769+00:00",
-  "LastChanged_Achievements": "2023-12-01T19:03:55.2270098+00:00",
+  "LastChanged_Achievements": "2023-12-01T20:04:30.3313241+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-01T18:59:57.2588477+00:00",
-  "LastUpdate_Achievements": "2023-12-01T19:03:55.2270509+00:00"
+  "LastUpdate_Ratings": "2023-12-01T20:01:26.2150037+00:00",
+  "LastUpdate_Achievements": "2023-12-01T20:04:30.3313886+00:00"
 }

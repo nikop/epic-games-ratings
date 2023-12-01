@@ -5,11 +5,11 @@ Rating: 4.82 (Ranked 67)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,562 |
-| No more cages! | 92.00% | ~2,455 |
+| For Demacia | 96.00% | ~2,563 |
+| No more cages! | 92.00% | ~2,456 |
 | Everfrost | 79.00% | ~2,109 |
-| Pentakill | 78.00% | ~2,082 |
-| Dark Forest | 78.00% | ~2,082 |
+| Pentakill | 78.00% | ~2,083 |
+| Dark Forest | 78.00% | ~2,083 |
 | The use of petricite | 75.00% | ~2,002 |
 | You can pet the dog | 62.00% | ~1,655 |
 | Big Helmet Bro | 39.00% | ~1,041 |
@@ -18,15 +18,15 @@ Rating: 4.82 (Ranked 67)
 | Elemental master | 37.00% | ~988 |
 | Past trauma | 37.00% | ~988 |
 | Ternmoat Headquarters | 37.00% | ~988 |
-| Cypress Glen Headquarters | 34.00% | ~907 |
+| Cypress Glen Headquarters | 34.00% | ~908 |
 | Petricite Burst | 33.00% | ~881 |
-| Hijack | 31.00% | ~827 |
-| Old friend | 31.00% | ~827 |
+| Hijack | 31.00% | ~828 |
+| Old friend | 31.00% | ~828 |
 | Devineur | 30.00% | ~801 |
-| Whispers in the Woods I | 28.00% | ~747 |
+| Whispers in the Woods I | 28.00% | ~748 |
 | Ancient power | 27.00% | ~721 |
 | I chose my shackles | 26.00% | ~694 |
-| Sacred Woods | 25.00% | ~667 |
+| Sacred Woods | 25.00% | ~668 |
 | Capelworth | 24.00% | ~641 |
 | Little light | 23.00% | ~614 |
 | Glyndemere | 23.00% | ~614 |
@@ -35,7 +35,7 @@ Rating: 4.82 (Ranked 67)
 | Whispers in the Woods II | 19.00% | ~507 |
 | No more holding back | 19.00% | ~507 |
 | Quickmoore Headquarters | 19.00% | ~507 |
-| Terbisia | 18.00% | ~480 |
+| Terbisia | 18.00% | ~481 |
 | Whispers in the Woods III | 17.00% | ~454 |
 | Friendly fire | 17.00% | ~454 |
 | True power | 17.00% | ~454 |
@@ -59,7 +59,7 @@ Rating: 4.82 (Ranked 67)
 | Silverwing nest | 2.00% | ~53 |
 | The Unshackled | 1.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,669 (Ranked 215)  
+Progressed: 2,670 (Ranked 215)  
 Completed: 16 (0.60%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,6 +234,7 @@ Completed: 16 (0.60%) (Ranked 191)
 | 2023-11-28 | 2,665 | 16 |
 | 2023-11-29 | 2,667 | 16 |
 | 2023-11-30 | 2,669 | 16 |
+| 2023-12-01 | 2,670 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

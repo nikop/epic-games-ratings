@@ -11,7 +11,7 @@
 | Wolf King Killer | 51.00% | ~239 |
 | Fashion Connoisseur | 50.00% | ~234 |
 | Arms Mechanic | 46.00% | ~216 |
-| Flower Thief | 41.00% | ~192 |
+| Flower Thief | 42.00% | ~197 |
 | Apostle of Flame | 37.00% | ~174 |
 | Beginner Artificer | 36.00% | ~169 |
 | Beginner Cook | 35.00% | ~164 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 1.00% | ~5 |
 | Warden Challenge | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 469 (Ranked 318)  
+Progressed: 469 (Ranked 319)  
 Completed: 1 (0.21%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -1117,10 +1117,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 398,
       "NumberOfAwardsMax": 98
+    },
+    {
+      "Time": "2023-12-01T20:00:13.5646046+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 399,
+      "NumberOfAwardsMax": 98
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 398,
+  "NumberOfAwards": 399,
   "NumberOfAwardsMax": 98,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1152,7 +1158,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 68
+      "Count": 69
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1185,9 +1191,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 67844,
+  "EOS_Progressed": 67846,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 451,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -11085,6 +11091,11 @@
       "Time": "2023-12-01T19:05:53.7359137+00:00",
       "NumProgressed": 67844,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-01T20:07:11.6491465+00:00",
+      "NumProgressed": 67846,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -11097,7 +11108,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23745
+      "UsersEstimate": 23746
     },
     {
       "ID": "10",
@@ -11177,7 +11188,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6784
+      "UsersEstimate": 6785
     },
     {
       "ID": "5",
@@ -11224,16 +11235,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 67844,
+      "Progressed": 67846,
       "Completed": 38
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-11-30T15:59:22.6557041+00:00",
-  "LastChanged_Achievements": "2023-12-01T19:05:53.7359135+00:00",
+  "LastChanged": "2023-12-01T20:00:13.5646044+00:00",
+  "LastChanged_Achievements": "2023-12-01T20:07:11.6491462+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:13.9511371+00:00",
-  "LastUpdate_Ratings": "2023-12-01T18:59:08.1884395+00:00",
-  "LastUpdate_Achievements": "2023-12-01T19:05:53.735959+00:00"
+  "LastUpdate_Ratings": "2023-12-01T20:00:13.5646049+00:00",
+  "LastUpdate_Achievements": "2023-12-01T20:07:11.6492095+00:00"
 }

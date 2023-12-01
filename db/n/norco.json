@@ -2,7 +2,7 @@
   "ID": "71bcf2f38b9443418ba609433e48c113",
   "Name": "NORCO",
   "ProductSlug": "norco-3ba4e2",
-  "Ranking_Rating": 433,
+  "Ranking_Rating": 434,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 770,
@@ -81,6 +81,6 @@
   "FirstSeenRating": "2022-10-17T03:01:42.5047886+00:00",
   "LastChanged": "2023-09-03T01:40:29.1360468+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:16.065678+00:00",
-  "LastUpdate_Ratings": "2023-12-01T18:58:59.0081526+00:00",
-  "LastUpdate_Achievements": "2023-12-01T19:04:52.7449692+00:00"
+  "LastUpdate_Ratings": "2023-12-01T20:00:00.3310891+00:00",
+  "LastUpdate_Achievements": "2023-12-01T20:05:49.1010122+00:00"
 }

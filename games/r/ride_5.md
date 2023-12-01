@@ -5,20 +5,20 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eat My Dust | 45.00% | ~1,045 |
-| First Love | 43.00% | ~998 |
+| First Love | 43.00% | ~999 |
 | Clean Race | 41.00% | ~952 |
 | Hear That Roar! | 39.00% | ~906 |
 | Rivals to the End | 28.00% | ~650 |
 | Bitter Rivalry | 27.00% | ~627 |
-| Champagne Spray | 25.00% | ~580 |
-| We're Going to Need a Bigger Garage | 24.00% | ~557 |
-| Legendary!!! | 20.00% | ~464 |
+| Champagne Spray | 25.00% | ~581 |
+| We're Going to Need a Bigger Garage | 24.00% | ~558 |
+| Legendary!!! | 20.00% | ~465 |
 | Restored and Ready | 19.00% | ~441 |
 | I Want One Too! | 19.00% | ~441 |
 | Quick Pit Stop | 19.00% | ~441 |
 | Go-Faster Stripes | 17.00% | ~395 |
 | I'm Here Too! | 16.00% | ~372 |
-| We've Just Begun | 11.00% | ~255 |
+| We've Just Begun | 11.00% | ~256 |
 | Stamina Star | 9.00% | ~209 |
 | Is It the Right Size? | 8.00% | ~186 |
 | Evangelist | 6.00% | ~139 |
@@ -44,17 +44,17 @@
 | Maximum Endurance | 0.30% | ~7 |
 | All My Own Toys | 0.20% | ~5 |
 | Full Power | 0.20% | ~5 |
+| There's a Great View up Here | 0.20% | ~5 |
 | Breathtaking Views | 0.10% | ~2 |
 | Beyond the Limiter | 0.10% | ~2 |
 | Endless | 0.10% | ~2 |
 | At the Top | 0.10% | ~2 |
-| There's a Great View up Here | 0.10% | ~2 |
 | Absolute Champion | 0.10% | ~2 |
 | Dream Chaser | 0.00% | ~0 |
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,322 (Ranked 219)  
+Progressed: 2,323 (Ranked 219)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,4 +145,4 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-28 | 2,303 | 0 |
 | 2023-11-29 | 2,315 | 0 |
 | 2023-11-30 | 2,319 | 0 |
-| 2023-12-01 | 2,322 | 0 |
+| 2023-12-01 | 2,323 | 0 |

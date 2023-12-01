@@ -2,10 +2,10 @@
   "ID": "f9af68c0b03e425999c18381eb45e5fb",
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
-  "Ranking_EOS_Progress": 318,
+  "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 469,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1794,9 +1794,9 @@
       "ID": "ACHIEVEMENT_6",
       "SetID": "7pimpda",
       "Name": "Flower Thief",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 192
+      "UsersEstimate": 197
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -1835,8 +1835,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-01T19:06:17.2962618+00:00",
+  "LastChanged_Achievements": "2023-12-01T20:07:44.4303868+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-12-01T18:59:46.6409181+00:00",
-  "LastUpdate_Achievements": "2023-12-01T19:06:17.2963083+00:00"
+  "LastUpdate_Ratings": "2023-12-01T20:01:10.1720798+00:00",
+  "LastUpdate_Achievements": "2023-12-01T20:07:44.4304278+00:00"
 }

@@ -133,7 +133,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2669,
+  "EOS_Progressed": 2670,
   "EOS_Completed": 16,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
@@ -4133,6 +4133,11 @@
       "Time": "2023-11-30T14:06:18.8213714+00:00",
       "NumProgressed": 2669,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-01T20:07:13.4721351+00:00",
+      "NumProgressed": 2670,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 53,
@@ -4152,7 +4157,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -4184,7 +4189,7 @@
       "Name": "Hijack",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -4208,7 +4213,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2562
+      "UsersEstimate": 2563
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -4280,7 +4285,7 @@
       "Name": "Old friend",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -4320,7 +4325,7 @@
       "Name": "Pentakill",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2082
+      "UsersEstimate": 2083
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -4328,7 +4333,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2455
+      "UsersEstimate": 2456
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -4360,7 +4365,7 @@
       "Name": "Dark Forest",
       "Percentage": 78,
       "XP": 100,
-      "UsersEstimate": 2082
+      "UsersEstimate": 2083
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -4392,7 +4397,7 @@
       "Name": "Sacred Woods",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -4416,7 +4421,7 @@
       "Name": "Terbisia",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -4488,7 +4493,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 907
+      "UsersEstimate": 908
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -4567,7 +4572,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2669,
+      "Progressed": 2670,
       "Completed": 16
     }
   ],
@@ -4575,8 +4580,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-12-01T19:05:54.9949634+00:00",
+  "LastChanged_Achievements": "2023-12-01T20:07:13.4721346+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:12.1795379+00:00",
-  "LastUpdate_Ratings": "2023-12-01T18:58:25.9332182+00:00",
-  "LastUpdate_Achievements": "2023-12-01T19:05:54.9950423+00:00"
+  "LastUpdate_Ratings": "2023-12-01T19:59:12.1175977+00:00",
+  "LastUpdate_Achievements": "2023-12-01T20:07:13.4721825+00:00"
 }

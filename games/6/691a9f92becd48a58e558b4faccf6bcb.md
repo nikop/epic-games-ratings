@@ -6,14 +6,14 @@
 | ---- | ---------- | ----- |
 | Lost forever | 3.00% | ~8 |
 | At least you tried | 2.00% | ~6 |
+| Golden Carrot | 2.00% | ~6 |
 | Silver Button | 2.00% | ~6 |
+| Silver Carrot | 2.00% | ~6 |
 | Minimalist lifestyle | 1.00% | ~3 |
 | I deliver the presents! | 1.00% | ~3 |
 | A new HOME | 1.00% | ~3 |
 | Golden Button | 1.00% | ~3 |
-| Golden Carrot | 1.00% | ~3 |
 | Golden Hat | 1.00% | ~3 |
-| Silver Carrot | 1.00% | ~3 |
 | Silver Hat | 1.00% | ~3 |
 | Lesson learned | 0.70% | ~2 |
 | Good list | 0.70% | ~2 |

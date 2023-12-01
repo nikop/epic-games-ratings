@@ -2,9 +2,9 @@
   "ID": "3003b961602b4ecfa8dd7dd16a3646bc",
   "Name": "HORSE CLUB Adventures",
   "ProductSlug": "horse-club-adventures-19e7a0",
-  "Ranking_EOS_Progress": 506,
+  "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 45,
+  "EOS_Progressed": 46,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -229,6 +229,11 @@
       "Time": "2023-12-01T19:09:27.5598315+00:00",
       "NumProgressed": 45,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T20:10:13.1632204+00:00",
+      "NumProgressed": 46,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -238,9 +243,9 @@
       "ID": "ACH_01_TUTORIAL",
       "SetID": "9dl0ei6",
       "Name": "Tutorial",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_02_FIRSTRACE",
@@ -248,13 +253,13 @@
       "Name": "First Race",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_03_TRAININGRACE2",
       "SetID": "9dl0ei6",
       "Name": "Training Race 2",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
       "UsersEstimate": 7
     },
@@ -302,7 +307,7 @@
       "ID": "ACH_09_HANNAH",
       "SetID": "9dl0ei6",
       "Name": "Hannah",
-      "Percentage": 56,
+      "Percentage": 54,
       "XP": 50,
       "UsersEstimate": 25
     },
@@ -334,7 +339,7 @@
       "ID": "ACH_13_TREASUREHUNTER",
       "SetID": "9dl0ei6",
       "Name": "Treasure Hunter",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 25,
       "UsersEstimate": 12
     },
@@ -358,7 +363,7 @@
       "ID": "ACH_16_APPLES",
       "SetID": "9dl0ei6",
       "Name": "Apple Gatherer",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
       "UsersEstimate": 24
     },
@@ -366,7 +371,7 @@
       "ID": "ACH_17_PICNIC",
       "SetID": "9dl0ei6",
       "Name": "Picnic",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 20,
       "UsersEstimate": 17
     },
@@ -374,7 +379,7 @@
       "ID": "ACH_18_MIA",
       "SetID": "9dl0ei6",
       "Name": "Maverick",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
       "UsersEstimate": 24
     },
@@ -414,7 +419,7 @@
       "ID": "ACH_23_MILL",
       "SetID": "9dl0ei6",
       "Name": "The mill rattles by the rushing stream",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 20,
       "UsersEstimate": 29
     },
@@ -422,15 +427,15 @@
       "ID": "ACH_24_STONECIRCLE",
       "SetID": "9dl0ei6",
       "Name": "Stonehenge",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_25_BEACH",
       "SetID": "9dl0ei6",
       "Name": "Surfer",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 20,
       "UsersEstimate": 17
     },
@@ -455,14 +460,14 @@
     {
       "ID": "9dl0ei6",
       "IsBase": true,
-      "Progressed": 45,
+      "Progressed": 46,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-12-01T19:09:27.5598312+00:00",
+  "LastChanged_Achievements": "2023-12-01T20:10:13.1632202+00:00",
   "LastUpdate_AppInfo": "2023-11-26T23:57:17.243865+00:00",
-  "LastUpdate_Ratings": "2023-12-01T18:59:57.7807453+00:00",
-  "LastUpdate_Achievements": "2023-12-01T19:09:27.5598466+00:00"
+  "LastUpdate_Ratings": "2023-12-01T20:01:26.9415277+00:00",
+  "LastUpdate_Achievements": "2023-12-01T20:10:13.1632374+00:00"
 }

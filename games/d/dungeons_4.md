@@ -29,19 +29,19 @@
 | Shame! Shame! Shame! | 40.00% | ~203 |
 | Dungeonlord Gorgu | 39.00% | ~198 |
 | The Cathedral of Light | 39.00% | ~198 |
-| Mana Cannon | 37.00% | ~188 |
+| Mana Cannon | 38.00% | ~193 |
 | Tanos' Crusade Against Thalya | 34.00% | ~173 |
 | All’s Well That Ends Evil | 29.00% | ~147 |
 | Unstoppable Horde | 28.00% | ~142 |
 | Master of the Undead | 26.00% | ~132 |
 | The Duel | 26.00% | ~132 |
 | Forbidden Knowledge | 24.00% | ~122 |
+| If Looks Could Kill | 24.00% | ~122 |
 | Hungry, Hungry Gorgu! | 23.00% | ~117 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 23.00% | ~117 |
 | Ghost Pirates? Ghost Heroes! | 23.00% | ~117 |
-| If Looks Could Kill | 23.00% | ~117 |
 | The Finitude Drill | 21.00% | ~107 |
-| Stop Tanos! | 18.00% | ~91 |
+| Stop Tanos! | 19.00% | ~97 |
 | Doom Hill | 18.00% | ~91 |
 | Sabotage! | 17.00% | ~86 |
 | Brimstone Shaken, Not Stirred | 17.00% | ~86 |
@@ -59,9 +59,9 @@
 | Mirror, Mirror | 10.00% | ~51 |
 | Untouchable | 10.00% | ~51 |
 | Evilification | 9.00% | ~46 |
+| Laser Eyes Are So Useless | 8.00% | ~41 |
 | Heal Heal Blessing | 8.00% | ~41 |
 | Gorgu is in the Best of Health | 7.00% | ~36 |
-| Laser Eyes Are So Useless | 7.00% | ~36 |
 | Hands Off My Stones | 7.00% | ~36 |
 | No Mana, No Cry | 5.00% | ~25 |
 | I Don't Need Any Help | 5.00% | ~25 |

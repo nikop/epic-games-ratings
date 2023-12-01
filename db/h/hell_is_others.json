@@ -1279,9 +1279,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 258916,
+  "EOS_Progressed": 258919,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22949,6 +22949,11 @@
       "Time": "2023-12-01T19:03:44.5926351+00:00",
       "NumProgressed": 258916,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-01T20:04:15.7042843+00:00",
+      "NumProgressed": 258919,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -23008,7 +23013,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80264
+      "UsersEstimate": 80265
     },
     {
       "ID": "BackHomeNTimes",
@@ -23072,7 +23077,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7767
+      "UsersEstimate": 7768
     },
     {
       "ID": "CreditLevel3",
@@ -23192,7 +23197,7 @@
       "Name": "Interior designer",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1554
     },
     {
       "ID": "KillCrawlingThing",
@@ -23232,7 +23237,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7767
+      "UsersEstimate": 7768
     },
     {
       "ID": "KillOtherWithMine",
@@ -23407,7 +23412,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 258916,
+      "Progressed": 258919,
       "Completed": 3
     }
   ],
@@ -23415,8 +23420,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-11-30T01:47:38.497135+00:00",
-  "LastChanged_Achievements": "2023-12-01T19:03:44.5926346+00:00",
+  "LastChanged_Achievements": "2023-12-01T20:04:15.7042841+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:31.8373031+00:00",
-  "LastUpdate_Ratings": "2023-12-01T18:57:52.1656099+00:00",
-  "LastUpdate_Achievements": "2023-12-01T19:03:44.5927444+00:00"
+  "LastUpdate_Ratings": "2023-12-01T19:58:21.170134+00:00",
+  "LastUpdate_Achievements": "2023-12-01T20:04:15.7044123+00:00"
 }

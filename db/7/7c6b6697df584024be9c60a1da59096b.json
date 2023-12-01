@@ -2,9 +2,9 @@
   "ID": "7c6b6697df584024be9c60a1da59096b",
   "Name": "Dude, Where Is My Beer?",
   "ProductSlug": "dude-where-is-my-beer-2455aa",
-  "Ranking_EOS_Progress": 481,
+  "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-01T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63,
+  "EOS_Progressed": 64,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -284,6 +284,11 @@
       "Time": "2023-12-01T19:04:06.3908872+00:00",
       "NumProgressed": 63,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T20:04:45.5866571+00:00",
+      "NumProgressed": 64,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-04T15:07:12.853291+00:00",
@@ -390,9 +395,9 @@
       "ID": "LOOKED_FOUNTAIN",
       "SetID": "6akbe6n",
       "Name": "Free Walking Tour",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MILO_GOES_DOWN",
@@ -406,9 +411,9 @@
       "ID": "MY_FIRST_BEER",
       "SetID": "6akbe6n",
       "Name": "My first beer",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "NO_HINTS_USED",
@@ -471,14 +476,14 @@
     {
       "ID": "6akbe6n",
       "IsBase": true,
-      "Progressed": 63,
+      "Progressed": 64,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-05T04:02:04.3012768+00:00",
   "FirstSeenAchievements": "2023-09-21T09:03:22.496367+00:00",
-  "LastChanged_Achievements": "2023-12-01T19:04:06.3908869+00:00",
+  "LastChanged_Achievements": "2023-12-01T20:04:45.5866568+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.1252738+00:00",
-  "LastUpdate_Ratings": "2023-12-01T18:58:41.3801781+00:00",
-  "LastUpdate_Achievements": "2023-12-01T19:04:06.3908996+00:00"
+  "LastUpdate_Ratings": "2023-12-01T19:59:34.974912+00:00",
+  "LastUpdate_Achievements": "2023-12-01T20:04:45.586671+00:00"
 }

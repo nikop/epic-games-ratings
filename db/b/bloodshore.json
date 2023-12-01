@@ -4,7 +4,7 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 375,
+  "Ranking_EOS_NewPlayers": 374,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
@@ -493,9 +493,9 @@
       "ID": "deathlooper",
       "SetID": "84ad177",
       "Name": "Deathlooper",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "good_job_nerd",
@@ -614,8 +614,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-12-01T19:04:53.4698717+00:00",
+  "LastChanged_Achievements": "2023-12-01T20:05:50.0289933+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:12.4798609+00:00",
-  "LastUpdate_Ratings": "2023-12-01T19:03:10.5754374+00:00",
-  "LastUpdate_Achievements": "2023-12-01T19:04:53.469886+00:00"
+  "LastUpdate_Ratings": "2023-12-01T20:03:27.197585+00:00",
+  "LastUpdate_Achievements": "2023-12-01T20:05:50.0290046+00:00"
 }

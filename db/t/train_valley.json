@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -1494,9 +1494,9 @@
       "ID": "17_builder",
       "SetID": "chb1m60",
       "Name": "Builder",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 277
+      "UsersEstimate": 282
     },
     {
       "ID": "18_foreman",
@@ -1686,8 +1686,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-09-23T19:00:36.0392229+00:00",
-  "LastChanged_Achievements": "2023-12-01T19:04:44.120609+00:00",
+  "LastChanged_Achievements": "2023-12-01T20:05:37.3726919+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:13.4562338+00:00",
-  "LastUpdate_Ratings": "2023-12-01T18:58:54.6952155+00:00",
-  "LastUpdate_Achievements": "2023-12-01T19:04:44.1206323+00:00"
+  "LastUpdate_Ratings": "2023-12-01T19:59:54.0087378+00:00",
+  "LastUpdate_Achievements": "2023-12-01T20:05:37.3727177+00:00"
 }

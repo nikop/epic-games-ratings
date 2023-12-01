@@ -2,9 +2,9 @@
   "ID": "4bd54a4fed074c488e0bb7428f29d2f4",
   "Name": "1428: Shadows over Silesia",
   "ProductSlug": "1428-shadows-over-silesia-266e5f",
-  "Ranking_EOS_Progress": 652,
+  "Ranking_EOS_Progress": 631,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 374,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -46,6 +46,11 @@
     {
       "Time": "2023-12-01T19:03:22.2591685+00:00",
       "NumProgressed": 4,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T20:03:45.5529461+00:00",
+      "NumProgressed": 6,
       "NumCompleted": 0
     }
   ],
@@ -129,9 +134,9 @@
       "ID": "SOS_BURN_HENNERSDORF",
       "SetID": "6ci4lm2",
       "Name": "Red rooster",
-      "Percentage": 25,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SOS_DEAD_END",
@@ -211,7 +216,7 @@
       "Name": "First blood",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SOS_FISH",
@@ -257,7 +262,7 @@
       "ID": "SOS_HEADACHE",
       "SetID": "6ci4lm2",
       "Name": "By fire and blood",
-      "Percentage": 25,
+      "Percentage": 17,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -554,13 +559,13 @@
     {
       "ID": "6ci4lm2",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-12-01T19:03:22.2591682+00:00",
+  "LastChanged_Achievements": "2023-12-01T20:03:45.5529459+00:00",
   "LastUpdate_AppInfo": "2023-11-27T15:57:06.6652579+00:00",
-  "LastUpdate_Ratings": "2023-12-01T18:57:31.1451639+00:00",
-  "LastUpdate_Achievements": "2023-12-01T19:03:22.2592105+00:00"
+  "LastUpdate_Ratings": "2023-12-01T19:57:51.7221235+00:00",
+  "LastUpdate_Achievements": "2023-12-01T20:03:45.5529859+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
   "Ranking_Rating": 917,
-  "Ranking_Popularity": 468,
+  "Ranking_Popularity": 469,
   "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 363,
@@ -937,7 +937,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 6716,
+  "EOS_Progressed": 6717,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
@@ -10677,6 +10677,11 @@
       "Time": "2023-12-01T18:05:02.422561+00:00",
       "NumProgressed": 6716,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T20:06:20.4641036+00:00",
+      "NumProgressed": 6717,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -10696,7 +10701,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -10728,7 +10733,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -10736,7 +10741,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -11007,13 +11012,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6716,
+      "Progressed": 6717,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6088,
+      "Progressed": 6089,
       "Completed": 113
     }
   ],
@@ -11021,8 +11026,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-28T18:00:23.7744062+00:00",
-  "LastChanged_Achievements": "2023-12-01T19:05:15.9961528+00:00",
+  "LastChanged_Achievements": "2023-12-01T20:06:20.4641033+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:26.1325852+00:00",
-  "LastUpdate_Ratings": "2023-12-01T18:57:43.9792567+00:00",
-  "LastUpdate_Achievements": "2023-12-01T19:05:15.9962212+00:00"
+  "LastUpdate_Ratings": "2023-12-01T19:58:09.9294734+00:00",
+  "LastUpdate_Achievements": "2023-12-01T20:06:20.4641653+00:00"
 }
