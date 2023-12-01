@@ -808,6 +808,7 @@
 | [The InVincible Iron Ivy - Enter the Pretty Pretty Princess](../games/6/6416a7e47acb440da6f7fc0eff798318.md) | 6 | 1,000 |
 | [Aviatrix Official](../games/7/79312789a26f41dd99cd05ee30e5c524.md) | 5 | 1,000 |
 | [Aya & Naya](../games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 5 | 1,000 |
+| [Balloon Strike](../games/5/524a7bde223b442d9e006c9891b5d702.md) | 5 | 1,000 |
 | [Cepheus Protocol](../games/c/cepheus_protocol.md) | 5 | 1,000 |
 | [Cyber Drift](../games/c/cyber_drift.md) | 5 | 1,000 |
 | [Dizzy Fight](../games/0/0e75b2d3188d42378ba82dccbfa48891.md) | 5 | 1,000 |
@@ -817,6 +818,7 @@
 | [Kids Learn](../games/1/173d783680df4fba92423e189f6df67d.md) | 5 | 1,000 |
 | [Little Brother Jim](../games/e/e0ae558efb3d42f9bd62184665286d3b.md) | 5 | 1,000 |
 | [Mason: Building Bricks](../games/m/mason__building_bricks.md) | 5 | 1,000 |
+| [Math Fun](../games/b/b2d39a10264c4afb819cbd89b533a4fb.md) | 5 | 1,000 |
 | [Party Monsterzz](../games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 5 | 1,000 |
 | [Tabletop Playground](../games/9/95f3bd44c8394061aca3eb1ce4b1f0fb.md) | 5 | 1,000 |
 | [The Swine](../games/t/the_swine.md) | 5 | 1,000 |

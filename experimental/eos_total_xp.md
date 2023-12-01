@@ -123,6 +123,7 @@
 | [Backbeat](../games/b/backbeat.md) | 24 | 1,000 |
 | [Backpack Hero](../games/0/0dc17d69dbfa4dd7b4eeb480d3adad6d.md) | 35 | 1,000 |
 | [Backrooms: Realm of Shadows](../games/b/b5067143ff63434e9c902de3ffd197f6.md) | 24 | 1,000 |
+| [Balloon Strike](../games/5/524a7bde223b442d9e006c9891b5d702.md) | 5 | 1,000 |
 | [Batora: Lost Haven](../games/c/c609e63aa7f44e55835f51df979ee6b8.md) | 30 | 1,000 |
 | [Battle Ram](../games/b/battle_ram.md) | 22 | 1,000 |
 | [Battlefield V Definitive Edition](../games/b/battlefield_v_definitive_edition.md) | 21 | 1,000 |
@@ -448,6 +449,7 @@
 | [Mason: Building Bricks](../games/m/mason__building_bricks.md) | 5 | 1,000 |
 | [Masterplan Tycoon](../games/3/3933d71231a543fd873b8768585e2bd7.md) | 16 | 1,000 |
 | [Match Village](../games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 24 | 1,000 |
+| [Math Fun](../games/b/b2d39a10264c4afb819cbd89b533a4fb.md) | 5 | 1,000 |
 | [McPixel 3](../games/m/mcpixel_3.md) | 93 | 1,000 |
 | [Mediterranea Inferno](../games/3/3623ba5530504da8a3f6e8d7f51177df.md) | 11 | 1,000 |
 | [Merchant of the Skies](../games/m/merchant_of_the_skies.md) | 12 | 1,000 |

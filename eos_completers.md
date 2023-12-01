@@ -11,7 +11,7 @@
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.24% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 11 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 12 | [The Riflemen](games/t/the_riflemen.md) | 25.79% |
+| 12 | [The Riflemen](games/t/the_riflemen.md) | 25.78% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.40% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 14 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -23,10 +23,10 @@
 | 21 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 22 | [Doodle Devil](games/d/doodle_devil.md) | 18.60% |
 | 23 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 18.18% |
-| 24 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 17.96% |
+| 24 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 17.91% |
 | 25 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 16.67% |
 | 25 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 16.67% |
-| 27 | [Island Cities](games/i/island_cities.md) | 16.32% |
+| 27 | [Island Cities](games/i/island_cities.md) | 16.30% |
 | 28 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.47% |
 | 29 | [Remains](games/r/remains.md) | 14.55% |
 | 30 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
@@ -88,7 +88,7 @@
 | 86 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.28% |
 | 87 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.19% |
 | 88 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.11% |
-| 89 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.05% |
+| 89 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.04% |
 | 90 | [The Bunker](games/t/the_bunker.md) | 4.03% |
 | 91 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.80% |
 | 92 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.77% |
@@ -274,13 +274,13 @@
 | 272 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
 | 272 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.13% |
 | 272 | [BLACKTAIL](games/b/blacktail.md) | 0.13% |
+| 272 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.13% |
 | 272 | [Fall Guys](games/f/fall_guys.md) | 0.13% |
 | 272 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.13% |
 | 272 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
 | 272 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.13% |
-| 279 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.12% |
-| 279 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
-| 279 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.12% |
+| 280 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
+| 280 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.12% |
 | 282 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.11% |
 | 282 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.11% |
 | 282 | [Isonzo](games/i/isonzo.md) | 0.11% |
@@ -390,6 +390,7 @@
 | 363 | [Aviatrix Official](games/7/79312789a26f41dd99cd05ee30e5c524.md) | 0.00% |
 | 363 | [Backpack Hero](games/0/0dc17d69dbfa4dd7b4eeb480d3adad6d.md) | 0.00% |
 | 363 | [Backrooms: Realm of Shadows](games/b/b5067143ff63434e9c902de3ffd197f6.md) | 0.00% |
+| 363 | [Balloon Strike](games/5/524a7bde223b442d9e006c9891b5d702.md) | 0.00% |
 | 363 | [Batora: Lost Haven](games/c/c609e63aa7f44e55835f51df979ee6b8.md) | 0.00% |
 | 363 | [Battle Ram](games/b/battle_ram.md) | 0.00% |
 | 363 | [Battlefield V Definitive Edition](games/b/battlefield_v_definitive_edition.md) | 0.00% |
@@ -565,6 +566,7 @@
 | 363 | [Marble It Up! Ultra](games/2/267b56359a8c45ee9154861187de210b.md) | 0.00% |
 | 363 | [Mask of the Rose](games/c/cd4a7839ad21465cab08d6742093d2a0.md) | 0.00% |
 | 363 | [Masterplan Tycoon](games/3/3933d71231a543fd873b8768585e2bd7.md) | 0.00% |
+| 363 | [Math Fun](games/b/b2d39a10264c4afb819cbd89b533a4fb.md) | 0.00% |
 | 363 | [Mediterranea Inferno](games/3/3623ba5530504da8a3f6e8d7f51177df.md) | 0.00% |
 | 363 | [Metro Simulator 2](games/7/7ef79b257fe8475aa5c7a9d6c4d96f9b.md) | 0.00% |
 | 363 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 0.00% |
@@ -764,4 +766,4 @@
 | 363 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 363 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 363 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,629 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,632 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
