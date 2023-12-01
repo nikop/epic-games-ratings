@@ -5,15 +5,15 @@ Rating: 4.74 (Ranked 158)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 91.00% | ~9,558 |
+| Last Night...Did We... | 91.00% | ~9,559 |
 | I Challenge You To Save More Money! | 86.00% | ~9,033 |
-| I Love How Tough You Are | 72.00% | ~7,562 |
-| Wanna Come To My Place For Dinner? | 66.00% | ~6,932 |
+| I Love How Tough You Are | 72.00% | ~7,563 |
+| Wanna Come To My Place For Dinner? | 66.00% | ~6,933 |
 | What I Want Is You | 60.00% | ~6,302 |
 | To Be Or Not To Be | 57.00% | ~5,987 |
 | Are You Alright? | 50.00% | ~5,252 |
-| Love Actually | 48.00% | ~5,041 |
-| Drama King | 42.00% | ~4,411 |
+| Love Actually | 48.00% | ~5,042 |
+| Drama King | 42.00% | ~4,412 |
 | You're Really Something Else | 37.00% | ~3,886 |
 | Go Clean up In Your Own Way | 36.00% | ~3,781 |
 | Happy Family | 35.00% | ~3,676 |
@@ -29,13 +29,13 @@ Rating: 4.74 (Ranked 158)
 | All I Have Is Money | 25.00% | ~2,626 |
 | A Slap In The Face! | 25.00% | ~2,626 |
 | Lover In Dark Alley | 24.00% | ~2,521 |
+| Let Me Be Your Toy Boy | 24.00% | ~2,521 |
 | That's So You | 24.00% | ~2,521 |
 | SALUTE | 24.00% | ~2,521 |
-| Let Me Be Your Toy Boy | 23.00% | ~2,416 |
 | Off We Sail Tonight | 19.00% | ~1,996 |
-| Love You Three Thousand | 16.00% | ~1,680 |
-| Can You Do This Or Not? | 16.00% | ~1,680 |
-| Doesn't Matter I'll Handle It | 14.00% | ~1,470 |
+| Love You Three Thousand | 16.00% | ~1,681 |
+| Can You Do This Or Not? | 16.00% | ~1,681 |
+| Doesn't Matter I'll Handle It | 14.00% | ~1,471 |
 | The Flash | 12.00% | ~1,260 |
 | New Yoga Pose Unlocked | 11.00% | ~1,155 |
 | My Dear Love! | 9.00% | ~945 |
@@ -48,7 +48,7 @@ Rating: 4.74 (Ranked 158)
 | Tall; Grande; Venti | 2.00% | ~210 |
 | Limerence | 2.00% | ~210 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,503 (Ranked 164)  
+Progressed: 10,504 (Ranked 164)  
 Completed: 183 (1.74%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 183 (1.74%) (Ranked 136)
 | 2023-11-28 | 10,324 | 174 |
 | 2023-11-29 | 10,398 | 176 |
 | 2023-11-30 | 10,446 | 178 |
-| 2023-12-01 | 10,503 | 183 |
+| 2023-12-01 | 10,504 | 183 |
 ## Awards
 Max (Impact the Story): 23  (Ranked 534)  
 Sum: 23 (Ranked 537)  

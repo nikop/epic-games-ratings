@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1234,
+  "EOS_Progressed": 1237,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2747,6 +2747,11 @@
       "Time": "2023-12-01T14:05:20.4561673+00:00",
       "NumProgressed": 1234,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-01T19:05:11.0916728+00:00",
+      "NumProgressed": 1237,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2759,7 +2764,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1039
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2767,7 +2772,7 @@
       "Name": "Acrobat",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -2775,7 +2780,7 @@
       "Name": "Out of control",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -2791,7 +2796,7 @@
       "Name": "Like lightning!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -2807,7 +2812,7 @@
       "Name": "Globetrotter",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -2823,7 +2828,7 @@
       "Name": "Masterful!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -2839,7 +2844,7 @@
       "Name": "It\u0027s me you have to beat",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -2887,7 +2892,7 @@
       "Name": "Solo",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -2903,7 +2908,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -2911,23 +2916,23 @@
       "Name": "Challenge accepted!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
       "SetID": "5k00jcd",
       "Name": "I\u0027m in charge here!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 198
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
       "SetID": "5k00jcd",
       "Name": "The Octopus",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 247
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -2935,7 +2940,7 @@
       "Name": "The Scorpion",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -2999,7 +3004,7 @@
       "Name": "Shopping time!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -3015,7 +3020,7 @@
       "Name": "Spin the wheel",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 555
+      "UsersEstimate": 557
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -3023,7 +3028,7 @@
       "Name": "Beyond the limit",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -3031,7 +3036,7 @@
       "Name": "Extra gear",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -3039,7 +3044,7 @@
       "Name": "Perfectionist",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -3095,27 +3100,27 @@
       "Name": "Mission complete",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1234,
+      "Progressed": 1237,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 902,
-      "Completed": 902
+      "Progressed": 905,
+      "Completed": 905
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-01T18:04:57.618361+00:00",
+  "LastChanged_Achievements": "2023-12-01T19:05:11.0916724+00:00",
   "LastUpdate_AppInfo": "2023-11-30T02:56:57.3535816+00:00",
-  "LastUpdate_Ratings": "2023-12-01T17:58:01.9951338+00:00",
-  "LastUpdate_Achievements": "2023-12-01T18:04:57.6184025+00:00"
+  "LastUpdate_Ratings": "2023-12-01T18:58:15.1146919+00:00",
+  "LastUpdate_Achievements": "2023-12-01T19:05:11.091714+00:00"
 }

@@ -128,6 +128,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Kingdom of God | 0.10% | ~467 |
 | Kinslayer | 0.10% | ~467 |
 | Kirishitan Japan | 0.10% | ~467 |
+| Komnenoi Empire | 0.10% | ~467 |
 | Kow-Tow | 0.10% | ~467 |
 | Krabater | 0.10% | ~467 |
 | Land of Eastern Jade | 0.10% | ~467 |
@@ -186,6 +187,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Rozwi Empire | 0.10% | ~467 |
 | Ruina Imperii | 0.10% | ~467 |
 | Sakoku Law | 0.10% | ~467 |
+| Saladins Legacy | 0.10% | ~467 |
 | Seriously?! | 0.10% | ~467 |
 | Shahanshah | 0.10% | ~467 |
 | Shemot is Not | 0.10% | ~467 |
@@ -307,7 +309,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | It's All Greek To Me | 0.00% | ~0 |
 | Jihad | 0.00% | ~0 |
 | Knights of the Caribbean | 0.00% | ~0 |
-| Komnenoi Empire | 0.00% | ~0 |
 | Kuban Cigars | 0.00% | ~0 |
 | Kushite Restoration | 0.00% | ~0 |
 | Let It Go! | 0.00% | ~0 |
@@ -332,7 +333,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Raja of the Rajput Reich | 0.00% | ~0 |
 | Rekindling the Flames | 0.00% | ~0 |
 | Sailor Mon | 0.00% | ~0 |
-| Saladins Legacy | 0.00% | ~0 |
 | Foremost Servitor of Jagannath | 0.00% | ~0 |
 | Spaghetti Western | 0.00% | ~0 |
 | Stardust Crusaders | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 466,970 (Ranked 41)  
+Progressed: 467,010 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -595,7 +595,7 @@ Completed: 1 (0.00%) (Ranked 363)
 | 2023-11-28 | 465,485 | 1 |
 | 2023-11-29 | 465,985 | 1 |
 | 2023-11-30 | 466,525 | 1 |
-| 2023-12-01 | 466,970 | 1 |
+| 2023-12-01 | 467,010 | 1 |
 ## Awards
 Max (Educational): 7,217  (Ranked 54)  
 Sum: 59,429 (Ranked 24)  

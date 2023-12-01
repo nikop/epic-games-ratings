@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -558,7 +558,7 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16778,
+  "EOS_Progressed": 16779,
   "EOS_Completed": 116,
   "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
@@ -15258,6 +15258,11 @@
       "Time": "2023-12-01T15:05:02.6941318+00:00",
       "NumProgressed": 16778,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-12-01T19:05:28.0389801+00:00",
+      "NumProgressed": 16779,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15373,7 +15378,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 5033
+      "UsersEstimate": 5034
     },
     {
       "ID": "tpote_achievement_22",
@@ -15533,7 +15538,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6711
+      "UsersEstimate": 6712
     },
     {
       "ID": "tpote_achievement_40",
@@ -15573,7 +15578,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "tpote_achievement_8",
@@ -15581,7 +15586,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3523
+      "UsersEstimate": 3524
     },
     {
       "ID": "tpote_achievement_9",
@@ -15596,15 +15601,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16778,
+      "Progressed": 16779,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-12-01T18:05:14.257544+00:00",
+  "LastChanged_Achievements": "2023-12-01T19:05:28.0389797+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:06.2264545+00:00",
-  "LastUpdate_Ratings": "2023-12-01T18:00:15.5839592+00:00",
-  "LastUpdate_Achievements": "2023-12-01T18:05:14.2576788+00:00"
+  "LastUpdate_Ratings": "2023-12-01T19:00:28.2642231+00:00",
+  "LastUpdate_Achievements": "2023-12-01T19:05:28.0390679+00:00"
 }

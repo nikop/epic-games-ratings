@@ -13,7 +13,7 @@ Rating: 4.68 (Ranked 255)
 | Familiar Faces | 49.00% | ~2,934 |
 | Sharing the Love | 43.00% | ~2,574 |
 | Going the Extra Mile | 43.00% | ~2,574 |
-| Hitting a Season | 40.00% | ~2,395 |
+| Hitting a Season | 41.00% | ~2,455 |
 | A Dozen Pieces | 34.00% | ~2,036 |
 | Challenge Yourself | 34.00% | ~2,036 |
 | Making History | 32.00% | ~1,916 |

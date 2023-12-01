@@ -5013,9 +5013,9 @@
       "Count": 388
     }
   ],
-  "EOS_Progressed": 232041,
+  "EOS_Progressed": 232096,
   "EOS_Completed": 545,
-  "EOS_NewPlayers": 4955,
+  "EOS_NewPlayers": 4962,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -20858,6 +20858,11 @@
       "Time": "2023-12-01T18:08:51.8303302+00:00",
       "NumProgressed": 232041,
       "NumCompleted": 545
+    },
+    {
+      "Time": "2023-12-01T19:08:44.934119+00:00",
+      "NumProgressed": 232096,
+      "NumCompleted": 545
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20950,7 +20955,7 @@
       "Name": "The Killing Jar",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1624
+      "UsersEstimate": 1625
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -21054,7 +21059,7 @@
       "Name": "First of Many",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1624
+      "UsersEstimate": 1625
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -21270,7 +21275,7 @@
       "Name": "Regicide",
       "Percentage": 0.7,
       "XP": 75,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -21278,7 +21283,7 @@
       "Name": "Succession",
       "Percentage": 0.2,
       "XP": 75,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "DLC1_Obtain_Archetype",
@@ -21286,7 +21291,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -21302,20 +21307,20 @@
       "Name": "You Shall Pass",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     }
   ],
   "AchievementSets": [
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 232041,
+      "Progressed": 232096,
       "Completed": 545
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 11206,
+      "Progressed": 11261,
       "Completed": 177
     }
   ],
@@ -21323,8 +21328,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-01T17:02:58.5057631+00:00",
-  "LastChanged_Achievements": "2023-12-01T18:08:51.8303298+00:00",
+  "LastChanged_Achievements": "2023-12-01T19:08:44.9341188+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-12-01T18:03:03.3329632+00:00",
-  "LastUpdate_Achievements": "2023-12-01T18:08:51.8304503+00:00"
+  "LastUpdate_Ratings": "2023-12-01T19:03:14.0787447+00:00",
+  "LastUpdate_Achievements": "2023-12-01T19:08:44.9342047+00:00"
 }

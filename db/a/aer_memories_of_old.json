@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -419,11 +419,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25281,
-  "EOS_Completed": 479,
-  "EOS_NewPlayers": 487,
-  "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 1.89,
+  "EOS_Progressed": 25284,
+  "EOS_Completed": 480,
+  "EOS_NewPlayers": 489,
+  "EOS_NewCompleters": 8,
+  "EOS_Completed_Percentage": 1.9,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -24609,6 +24609,11 @@
       "Time": "2023-12-01T18:08:15.5411673+00:00",
       "NumProgressed": 25281,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-12-01T19:08:08.2911536+00:00",
+      "NumProgressed": 25284,
+      "NumCompleted": 480
     }
   ],
   "TotalAchievements": 20,
@@ -24636,7 +24641,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3539
+      "UsersEstimate": 3540
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -24644,7 +24649,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2275
+      "UsersEstimate": 2276
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -24684,7 +24689,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3539
+      "UsersEstimate": 3540
     },
     {
       "ID": "FOUND_ERIN",
@@ -24740,7 +24745,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 19214
+      "UsersEstimate": 19216
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -24748,7 +24753,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6826
+      "UsersEstimate": 6827
     },
     {
       "ID": "NORTH_FINISHED",
@@ -24779,15 +24784,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 25281,
-      "Completed": 479
+      "Progressed": 25284,
+      "Completed": 480
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-01T18:08:15.5411669+00:00",
+  "LastChanged_Achievements": "2023-12-01T19:08:08.2911533+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.8906099+00:00",
-  "LastUpdate_Ratings": "2023-12-01T17:58:08.5107084+00:00",
-  "LastUpdate_Achievements": "2023-12-01T18:08:15.5413137+00:00"
+  "LastUpdate_Ratings": "2023-12-01T18:58:21.5721598+00:00",
+  "LastUpdate_Achievements": "2023-12-01T19:08:08.2912783+00:00"
 }

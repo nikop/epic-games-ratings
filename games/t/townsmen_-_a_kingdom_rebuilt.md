@@ -73,11 +73,11 @@ Number of Ratings: 37  (23.09.2022)
 | I've been everywhere I | 1.00% | ~44 |
 | A time consuming game V | 1.00% | ~44 |
 | I've been everywhere VI | 0.90% | ~39 |
+| The wood shortage | 0.90% | ~39 |
 | Last man standing | 0.80% | ~35 |
 | Builder V | 0.80% | ~35 |
 | Ten-Hut! | 0.80% | ~35 |
 | Penny pincher | 0.80% | ~35 |
-| The wood shortage | 0.80% | ~35 |
 | Buried | 0.70% | ~31 |
 | Craftsmen challenge | 0.70% | ~31 |
 | I've been everywhere III | 0.60% | ~26 |

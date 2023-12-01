@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 234,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.28,
   "EosHistory": [
@@ -1101,9 +1101,9 @@
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
       "SetID": "aniflfk",
       "Name": "Empty Shelves",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "CATCH_30_FISH",
@@ -1236,8 +1236,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-01T18:04:29.6075702+00:00",
+  "LastChanged_Achievements": "2023-12-01T19:04:42.5722536+00:00",
   "LastUpdate_AppInfo": "2023-11-29T20:57:25.9655457+00:00",
-  "LastUpdate_Ratings": "2023-12-01T18:02:53.6013599+00:00",
-  "LastUpdate_Achievements": "2023-12-01T18:04:29.6075875+00:00"
+  "LastUpdate_Ratings": "2023-12-01T19:03:03.9870611+00:00",
+  "LastUpdate_Achievements": "2023-12-01T19:04:42.5722685+00:00"
 }

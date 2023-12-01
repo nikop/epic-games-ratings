@@ -9,7 +9,7 @@
 | Oo-De-Lally | 75.00% | ~33 |
 | The Altruist | 68.00% | ~30 |
 | Treasure Hunter | 64.00% | ~28 |
-| Tap Dancing | 55.00% | ~24 |
+| Tap Dancing | 57.00% | ~25 |
 | Watch your Step! | 52.00% | ~23 |
 | MAX LEVEL | 48.00% | ~21 |
 | Right between the eyes | 45.00% | ~20 |
@@ -58,7 +58,7 @@
 | Master of All | 0.00% | ~0 |
 | Fashionista | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44 (Ranked 508)  
+Progressed: 44 (Ranked 509)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |

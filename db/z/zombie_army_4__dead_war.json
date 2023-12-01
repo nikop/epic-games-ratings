@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2456,7 +2456,7 @@
   ],
   "EOS_Progressed": 44037,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9767,9 +9767,9 @@
       "ID": "SE_KILL_A_ZOMBIE_PLAYER",
       "SetID": "49kdhbg",
       "Name": "I never liked them anyway",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13211
+      "UsersEstimate": 13651
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -9959,8 +9959,8 @@
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-12-01T15:57:51.5766287+00:00",
-  "LastChanged_Achievements": "2023-12-01T18:04:18.9561495+00:00",
+  "LastChanged_Achievements": "2023-12-01T19:04:32.1347117+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:29.1188847+00:00",
-  "LastUpdate_Ratings": "2023-12-01T17:57:36.6881508+00:00",
-  "LastUpdate_Achievements": "2023-12-01T18:04:18.9562191+00:00"
+  "LastUpdate_Ratings": "2023-12-01T18:57:50.1279882+00:00",
+  "LastUpdate_Achievements": "2023-12-01T19:04:32.1347759+00:00"
 }

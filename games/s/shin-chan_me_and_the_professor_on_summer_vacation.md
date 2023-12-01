@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Greengrocer | 31.00% | ~12 |
+| Greengrocer | 30.00% | ~12 |
 | Cabbage in the Baggage | 28.00% | ~11 |
 | Seven Days of Endless Adventure | 23.00% | ~9 |
 | Masu-ter Angler | 18.00% | ~7 |
@@ -51,7 +51,7 @@
 | Did Someone Order Katsu Curry? | 0.00% | ~0 |
 | Dinosaur Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39 (Ranked 519)  
+Progressed: 40 (Ranked 517)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,6 +72,7 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-09-17 | 37 | 0 |
 | 2023-09-23 | 38 | 0 |
 | 2023-10-10 | 39 | 0 |
+| 2023-12-01 | 40 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

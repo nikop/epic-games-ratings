@@ -6,29 +6,29 @@ Rating: 4.25 (Ranked 884)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 80.00% | ~1,774 |
-| Don't I Know You...? | 77.00% | ~1,707 |
-| Jailbreak | 66.00% | ~1,463 |
+| Don't I Know You...? | 77.00% | ~1,708 |
+| Jailbreak | 66.00% | ~1,464 |
 | Suited and Booted | 39.00% | ~865 |
-| HEADSHOT! | 38.00% | ~842 |
+| HEADSHOT! | 38.00% | ~843 |
 | Sleeping With The Fishes | 36.00% | ~798 |
-| Overheated | 31.00% | ~687 |
-| High Performance | 31.00% | ~687 |
+| Overheated | 31.00% | ~688 |
+| High Performance | 31.00% | ~688 |
 | Powered Up | 29.00% | ~643 |
 | Studied The Blade | 25.00% | ~554 |
 | Home Invasion | 23.00% | ~510 |
 | Luminary | 23.00% | ~510 |
 | True Survivor | 22.00% | ~488 |
 | It's a Trap | 22.00% | ~488 |
-| Offensive Defense | 20.00% | ~443 |
-| Shocking | 20.00% | ~443 |
-| Unforeseeable Consequences | 20.00% | ~443 |
+| Offensive Defense | 20.00% | ~444 |
+| Shocking | 20.00% | ~444 |
+| Unforeseeable Consequences | 20.00% | ~444 |
 | Court Martial | 19.00% | ~421 |
 | Clean Cut | 19.00% | ~421 |
 | Dead Again | 18.00% | ~399 |
 | Full Arsenal | 17.00% | ~377 |
 | Can't Trust Banks | 15.00% | ~333 |
-| Mommy Dearest | 14.00% | ~310 |
-| Bad Dog | 14.00% | ~310 |
+| Mommy Dearest | 14.00% | ~311 |
+| Bad Dog | 14.00% | ~311 |
 | Where It All Began | 13.00% | ~288 |
 | Risk Tolerant | 13.00% | ~288 |
 | What A Catchy Song | 13.00% | ~288 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 884)
 | Loot, Pillage & Craft | 2.00% | ~44 |
 | Swiss Army Drone | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,217 (Ranked 222)  
+Progressed: 2,218 (Ranked 222)  
 Completed: 13 (0.59%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 13 (0.59%) (Ranked 194)
 | 2023-11-23 | 2,212 | 13 |
 | 2023-11-25 | 2,214 | 13 |
 | 2023-11-26 | 2,215 | 13 |
-| 2023-12-01 | 2,217 | 13 |
+| 2023-12-01 | 2,218 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

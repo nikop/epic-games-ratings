@@ -4,8 +4,8 @@
   "ProductSlug": "space-war-infinity-024a8f",
   "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-08-15T15:00:00+00:00",
     "PcReleaseDate": "2019-05-28T13:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 91,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 13.19,
   "EosHistory": [
@@ -582,9 +582,9 @@
       "ID": "_elite_battlecruiser",
       "SetID": "2d5739o",
       "Name": "Elite battlecruiser",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "_elite_destroyer",
@@ -646,9 +646,9 @@
       "ID": "_laser_enemy",
       "SetID": "2d5739o",
       "Name": "Laser enemy",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "_laser_mine",
@@ -814,9 +814,9 @@
       "ID": "_time",
       "SetID": "2d5739o",
       "Name": "Time",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "_x2orb",
@@ -845,8 +845,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-12-01T18:04:56.5695383+00:00",
+  "LastChanged_Achievements": "2023-12-01T19:05:10.0617037+00:00",
   "LastUpdate_AppInfo": "2023-11-29T22:56:59.736765+00:00",
-  "LastUpdate_Ratings": "2023-12-01T17:57:07.8593992+00:00",
-  "LastUpdate_Achievements": "2023-12-01T18:04:56.5695697+00:00"
+  "LastUpdate_Ratings": "2023-12-01T18:57:20.261436+00:00",
+  "LastUpdate_Achievements": "2023-12-01T19:05:10.0617271+00:00"
 }

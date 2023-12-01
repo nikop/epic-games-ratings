@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 231,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2059,9 +2059,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 281832,
+  "EOS_Progressed": 281839,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 709,
+  "EOS_NewPlayers": 704,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27809,6 +27809,11 @@
       "Time": "2023-12-01T18:05:15.1683792+00:00",
       "NumProgressed": 281832,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T19:05:29.0671516+00:00",
+      "NumProgressed": 281839,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -27868,7 +27873,7 @@
       "Name": "Contender",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 28183
+      "UsersEstimate": 28184
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -27900,7 +27905,7 @@
       "Name": "Shiny Memento",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -27940,7 +27945,7 @@
       "Name": "Ready Steady Score",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 11273
+      "UsersEstimate": 11274
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -27948,7 +27953,7 @@
       "Name": "Pinball Hoarder",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -28004,7 +28009,7 @@
       "Name": "Interior Designer",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -28044,7 +28049,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 231102
+      "UsersEstimate": 231108
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -28052,22 +28057,22 @@
       "Name": "I know the Rules",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 95823
+      "UsersEstimate": 95825
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 281832,
+      "Progressed": 281839,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-11-30T20:03:23.0507631+00:00",
-  "LastChanged_Achievements": "2023-12-01T18:05:15.1683784+00:00",
+  "LastChanged_Achievements": "2023-12-01T19:05:29.0671513+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.1899023+00:00",
-  "LastUpdate_Ratings": "2023-12-01T18:03:03.094741+00:00",
-  "LastUpdate_Achievements": "2023-12-01T18:05:15.1684834+00:00"
+  "LastUpdate_Ratings": "2023-12-01T19:03:13.8969245+00:00",
+  "LastUpdate_Achievements": "2023-12-01T19:05:29.0673101+00:00"
 }

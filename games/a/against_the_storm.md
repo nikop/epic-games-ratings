@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Queen's Chosen | 0.00% | ~0 |
 | Treasure | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,550 (Ranked 146)  
+Progressed: 17,551 (Ranked 146)  
 Completed: 49 (0.28%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 49 (0.28%) (Ranked 242)
 | 2023-11-28 | 17,518 | 54 |
 | 2023-11-29 | 17,529 | 51 |
 | 2023-11-30 | 17,540 | 51 |
-| 2023-12-01 | 17,550 | 49 |
+| 2023-12-01 | 17,551 | 49 |
 ## Awards
 Max (Quickly Understood Controls): 441  (Ranked 223)  
 Sum: 3,236 (Ranked 173)  

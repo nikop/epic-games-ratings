@@ -29,12 +29,12 @@
 | Armed To The Teeth | 4.00% | ~12 |
 | Run and Gun | 3.00% | ~9 |
 | The bus stop | 3.00% | ~9 |
+| Back In Time | 2.00% | ~6 |
 | Spiritual essence well spent | 2.00% | ~6 |
 | Pet The Dog | 2.00% | ~6 |
-| Back In Time | 1.00% | ~3 |
+| The 5th Element | 2.00% | ~6 |
 | Before The Eclipse | 1.00% | ~3 |
 | Retro Player | 1.00% | ~3 |
-| The 5th Element | 1.00% | ~3 |
 | Box Of Ploutus | 0.60% | ~2 |
 | No Time To Relax | 0.60% | ~2 |
 | Survival Hero | 0.60% | ~2 |

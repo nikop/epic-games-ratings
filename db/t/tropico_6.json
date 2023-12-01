@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 291,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1413,9 +1413,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6187,
+  "EOS_Progressed": 6188,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13723,6 +13723,11 @@
       "Time": "2023-12-01T17:09:28.4143013+00:00",
       "NumProgressed": 6187,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-01T19:09:30.0910128+00:00",
+      "NumProgressed": 6188,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -13788,9 +13793,9 @@
       "ID": "ACH_EP_BETTERREDTHANDEAD",
       "SetID": "1p8ab95",
       "Name": "Caribbean Comrade",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 990
+      "UsersEstimate": 928
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -13830,7 +13835,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2784
+      "UsersEstimate": 2785
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -13894,7 +13899,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4640
+      "UsersEstimate": 4641
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -13966,7 +13971,7 @@
       "Name": "Survivor",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_TEAMPLAYER",
@@ -14006,7 +14011,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2289
+      "UsersEstimate": 2290
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -14053,15 +14058,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6187,
+      "Progressed": 6188,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-01T03:57:15.3670548+00:00",
-  "LastChanged_Achievements": "2023-12-01T18:09:36.886109+00:00",
+  "LastChanged_Achievements": "2023-12-01T19:09:30.0910124+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:22.1116703+00:00",
-  "LastUpdate_Ratings": "2023-12-01T17:57:22.4746725+00:00",
-  "LastUpdate_Achievements": "2023-12-01T18:09:36.8862013+00:00"
+  "LastUpdate_Ratings": "2023-12-01T18:57:34.7928828+00:00",
+  "LastUpdate_Achievements": "2023-12-01T19:09:30.0911047+00:00"
 }

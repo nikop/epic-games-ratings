@@ -1,30 +1,30 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 200)  
+Rating: 4.71 (Ranked 201)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~259,408 |
-| Cavalier | 25.00% | ~202,663 |
-| Fatso | 23.00% | ~186,450 |
-| Awakening | 21.00% | ~170,237 |
-| Ranger | 20.00% | ~162,130 |
-| Scrooge | 20.00% | ~162,130 |
-| Anorectic | 16.00% | ~129,704 |
-| Firestarter | 16.00% | ~129,704 |
-| Bookworm | 15.00% | ~121,598 |
-| Insomniac | 13.00% | ~105,385 |
-| Buddy | 12.00% | ~97,278 |
-| Thief | 12.00% | ~97,278 |
+| Blacksmith's Son | 32.00% | ~259,411 |
+| Cavalier | 25.00% | ~202,665 |
+| Fatso | 23.00% | ~186,452 |
+| Awakening | 21.00% | ~170,238 |
+| Ranger | 20.00% | ~162,132 |
+| Scrooge | 20.00% | ~162,132 |
+| Anorectic | 16.00% | ~129,705 |
+| Firestarter | 16.00% | ~129,705 |
+| Bookworm | 15.00% | ~121,599 |
+| Insomniac | 13.00% | ~105,386 |
+| Buddy | 12.00% | ~97,279 |
+| Thief | 12.00% | ~97,279 |
 | Sinner | 11.00% | ~89,172 |
 | Traveller | 11.00% | ~89,172 |
-| Convict | 10.00% | ~81,065 |
+| Convict | 10.00% | ~81,066 |
 | Haggler | 9.00% | ~72,959 |
 | McLovin | 7.00% | ~56,746 |
 | Runt | 7.00% | ~56,746 |
-| Casanova | 6.00% | ~48,639 |
+| Casanova | 6.00% | ~48,640 |
 | Bad Trip | 5.00% | ~40,533 |
 | Monk | 5.00% | ~40,533 |
 | Serial Killer | 5.00% | ~40,533 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~811 |
 | Wingman | 0.10% | ~811 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 810,651 (Ranked 17)  
+Progressed: 810,659 (Ranked 17)  
 Completed: 52 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,14 +314,14 @@ Completed: 52 (0.01%) (Ranked 343)
 | 2023-11-28 | 810,342 | 52 |
 | 2023-11-29 | 810,463 | 52 |
 | 2023-11-30 | 810,582 | 52 |
-| 2023-12-01 | 810,651 | 52 |
+| 2023-12-01 | 810,659 | 52 |
 ## Awards
-Max (Character Customization): 7,637  (Ranked 51)  
-Sum: 28,375 (Ranked 49)  
+Max (Character Customization): 7,643  (Ranked 51)  
+Sum: 28,381 (Ranked 49)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,637 |
+| This game has Inclusive Character Customization | 7,643 |
 | This game has Great Boss Battles | 5,592 |
 | This game has Challenging Combat | 1,781 |
 | This game has Diverse Characters | 1,737 |
@@ -644,4 +644,4 @@ Diff (max vs sum): 2
 | 2023-11-28 | 4.71 | - | 7,631 | 28,361 |
 | 2023-11-29 | 4.71 | - | 7,634 | 28,365 |
 | 2023-11-30 | 4.71 | - | 7,637 | 28,368 |
-| 2023-12-01 | 4.71 | - | 7,637 | 28,375 |
+| 2023-12-01 | 4.71 | - | 7,643 | 28,381 |

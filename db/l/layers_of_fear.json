@@ -2,10 +2,10 @@
   "ID": "9df61912ce644d8096412ba0f516759a",
   "Name": "Layers of Fear",
   "ProductSlug": "layers-of-fears-85a02b",
-  "Ranking_EOS_Progress": 443,
+  "Ranking_EOS_Progress": 441,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 97,
+  "EOS_Progressed": 98,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
@@ -499,6 +499,11 @@
       "Time": "2023-12-01T17:07:47.4109964+00:00",
       "NumProgressed": 97,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T19:06:29.2024773+00:00",
+      "NumProgressed": 98,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -637,7 +642,7 @@
       "ID": "face_your_fears",
       "SetID": "f2im8d",
       "Name": "Face your fears",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 25,
       "UsersEstimate": 22
     },
@@ -781,7 +786,7 @@
       "ID": "piece_of_story",
       "SetID": "f2im8d",
       "Name": "A piece of the story",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 5,
       "UsersEstimate": 57
     },
@@ -926,14 +931,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 97,
+      "Progressed": 98,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-01T18:06:14.8889321+00:00",
+  "LastChanged_Achievements": "2023-12-01T19:06:29.202477+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:59.9446154+00:00",
-  "LastUpdate_Ratings": "2023-12-01T17:59:31.1885487+00:00",
-  "LastUpdate_Achievements": "2023-12-01T18:06:14.8889614+00:00"
+  "LastUpdate_Ratings": "2023-12-01T18:59:44.2437499+00:00",
+  "LastUpdate_Achievements": "2023-12-01T19:06:29.2025162+00:00"
 }

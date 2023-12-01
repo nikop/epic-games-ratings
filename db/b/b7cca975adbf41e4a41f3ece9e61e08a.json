@@ -193,9 +193,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 10503,
+  "EOS_Progressed": 10504,
   "EOS_Completed": 183,
-  "EOS_NewPlayers": 902,
+  "EOS_NewPlayers": 900,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 1.74,
   "EosHistory": [
@@ -5188,6 +5188,11 @@
       "Time": "2023-12-01T18:08:36.3468639+00:00",
       "NumProgressed": 10503,
       "NumCompleted": 183
+    },
+    {
+      "Time": "2023-12-01T19:08:29.4849143+00:00",
+      "NumProgressed": 10504,
+      "NumCompleted": 183
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -5200,7 +5205,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 91,
       "XP": 20,
-      "UsersEstimate": 9558
+      "UsersEstimate": 9559
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -5224,7 +5229,7 @@
       "Name": "Doesn\u0027t Matter I\u0027ll Handle It",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1471
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -5296,7 +5301,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 7562
+      "UsersEstimate": 7563
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -5310,9 +5315,9 @@
       "ID": "NEW_ACHIEVEMENT_1_21",
       "SetID": "7opfcp",
       "Name": "Let Me Be Your Toy Boy",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 2416
+      "UsersEstimate": 2521
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_22",
@@ -5320,7 +5325,7 @@
       "Name": "Love You Three Thousand",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_23",
@@ -5336,7 +5341,7 @@
       "Name": "Love Actually",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 5041
+      "UsersEstimate": 5042
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -5376,7 +5381,7 @@
       "Name": "Can You Do This Or Not?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -5384,7 +5389,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 6932
+      "UsersEstimate": 6933
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -5512,7 +5517,7 @@
       "Name": "Drama King",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 4411
+      "UsersEstimate": 4412
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_8",
@@ -5535,7 +5540,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 10503,
+      "Progressed": 10504,
       "Completed": 183
     }
   ],
@@ -5543,8 +5548,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-12-01T14:59:07.0284768+00:00",
-  "LastChanged_Achievements": "2023-12-01T18:08:36.3468635+00:00",
+  "LastChanged_Achievements": "2023-12-01T19:08:29.4849139+00:00",
   "LastUpdate_AppInfo": "2023-11-25T01:40:00.6082481+00:00",
-  "LastUpdate_Ratings": "2023-12-01T17:59:15.2308185+00:00",
-  "LastUpdate_Achievements": "2023-12-01T18:08:36.346912+00:00"
+  "LastUpdate_Ratings": "2023-12-01T18:59:28.0944242+00:00",
+  "LastUpdate_Achievements": "2023-12-01T19:08:29.4849664+00:00"
 }

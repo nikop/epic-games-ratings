@@ -8,7 +8,7 @@
 | Thalya – Simply Immortal | 88.00% | ~447 |
 | For the Horde! | 81.00% | ~411 |
 | Hammer Time, Round Two | 80.00% | ~406 |
-| The Hellwoods | 74.00% | ~376 |
+| The Hellwoods | 75.00% | ~381 |
 | The Plains of Strothalm | 70.00% | ~356 |
 | Experienced Thalya | 70.00% | ~356 |
 | Thalya's Concentrated Fury | 68.00% | ~345 |
@@ -24,20 +24,20 @@
 | Hard Work | 48.00% | ~244 |
 | YOU SHALL NOT PASS! | 47.00% | ~239 |
 | The Big Eaty | 47.00% | ~239 |
+| “… like son” | 44.00% | ~224 |
 | Pure Dynamite! | 43.00% | ~218 |
-| “… like son” | 43.00% | ~218 |
+| Shame! Shame! Shame! | 40.00% | ~203 |
 | Dungeonlord Gorgu | 39.00% | ~198 |
 | The Cathedral of Light | 39.00% | ~198 |
-| Shame! Shame! Shame! | 39.00% | ~198 |
 | Mana Cannon | 37.00% | ~188 |
 | Tanos' Crusade Against Thalya | 34.00% | ~173 |
 | All’s Well That Ends Evil | 29.00% | ~147 |
 | Unstoppable Horde | 28.00% | ~142 |
 | Master of the Undead | 26.00% | ~132 |
 | The Duel | 26.00% | ~132 |
+| Forbidden Knowledge | 24.00% | ~122 |
 | Hungry, Hungry Gorgu! | 23.00% | ~117 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 23.00% | ~117 |
-| Forbidden Knowledge | 23.00% | ~117 |
 | Ghost Pirates? Ghost Heroes! | 23.00% | ~117 |
 | If Looks Could Kill | 23.00% | ~117 |
 | The Finitude Drill | 21.00% | ~107 |

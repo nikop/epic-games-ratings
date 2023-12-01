@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Wanderer | 79.00% | ~77 |
 | Something important | 76.00% | ~74 |
-| A piece of the story | 59.00% | ~57 |
+| A piece of the story | 58.00% | ~57 |
 | It's covered up for a reason | 44.00% | ~43 |
 | Scraps of love | 44.00% | ~43 |
 | Do what you have to | 43.00% | ~42 |
@@ -14,7 +14,7 @@
 | Refuse to look | 35.00% | ~34 |
 | Sign of weakness | 35.00% | ~34 |
 | Finished it | 27.00% | ~26 |
-| Face your fears | 23.00% | ~22 |
+| Face your fears | 22.00% | ~22 |
 | Playtime | 12.00% | ~12 |
 | Tough conversation | 12.00% | ~12 |
 | Whispers long forgotten | 12.00% | ~12 |
@@ -57,7 +57,7 @@
 | Once Upon a Time | 0.00% | ~0 |
 | Rocket Science | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97 (Ranked 443)  
+Progressed: 98 (Ranked 441)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,4 +100,4 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-28 | 92 | 0 |
 | 2023-11-29 | 94 | 0 |
 | 2023-11-30 | 96 | 0 |
-| 2023-12-01 | 97 | 0 |
+| 2023-12-01 | 98 | 0 |
