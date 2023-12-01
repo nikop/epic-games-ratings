@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 983)  
+Rating: 4.06 (Ranked 984)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -539,8 +539,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~204 |
 | See You on the Flipside | 0.10% | ~204 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,660 (Ranked 64)  
-Completed: 2,490 (1.05%) (Ranked 163)  
+Progressed: 237,680 (Ranked 64)  
+Completed: 2,491 (1.05%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -764,6 +764,7 @@ Completed: 2,490 (1.05%) (Ranked 163)
 | 2023-11-28 | 237,394 | 2,484 |
 | 2023-11-29 | 237,519 | 2,485 |
 | 2023-11-30 | 237,660 | 2,490 |
+| 2023-12-01 | 237,680 | 2,491 |
 ## Awards
 Max (Great for Beginners): 5,576  (Ranked 70)  
 Sum: 32,684 (Ranked 41)  

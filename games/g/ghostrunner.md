@@ -6,27 +6,27 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~17,824 |
-| Sword Runner | 61.00% | ~14,306 |
+| Longrunner | 76.00% | ~17,825 |
+| Sword Runner | 61.00% | ~14,307 |
 | Running out of breath | 54.00% | ~12,665 |
-| Wallrunner | 53.00% | ~12,430 |
+| Wallrunner | 53.00% | ~12,431 |
 | Homerunner | 45.00% | ~10,554 |
-| Out of order | 44.00% | ~10,319 |
+| Out of order | 44.00% | ~10,320 |
 | I call it luck | 43.00% | ~10,085 |
-| Where are my Keys? | 40.00% | ~9,381 |
+| Where are my Keys? | 40.00% | ~9,382 |
 | Back to hell | 37.00% | ~8,678 |
 | Perfection | 32.00% | ~7,505 |
 | Why not both | 30.00% | ~7,036 |
-| Sword to a gunfight | 29.00% | ~6,801 |
-| Upgrades not mandatory | 29.00% | ~6,801 |
+| Sword to a gunfight | 29.00% | ~6,802 |
+| Upgrades not mandatory | 29.00% | ~6,802 |
 | Artificial selection | 28.00% | ~6,567 |
-| Control freak | 27.00% | ~6,332 |
+| Control freak | 27.00% | ~6,333 |
 | Finish line | 26.00% | ~6,098 |
 | Running Wild | 26.00% | ~6,098 |
 | Unstoppable force | 22.00% | ~5,160 |
 | Wave of mutilation | 22.00% | ~5,160 |
-| Can't Run Can't Hide | 16.00% | ~3,752 |
-| R is for Running | 16.00% | ~3,752 |
+| Can't Run Can't Hide | 16.00% | ~3,753 |
+| R is for Running | 16.00% | ~3,753 |
 | Dead in the air | 15.00% | ~3,518 |
 | Improvise, adapt, overrun | 12.00% | ~2,814 |
 | Pre-empative strike | 12.00% | ~2,814 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~94 |
 | Up Close And Personal | 0.40% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,453 (Ranked 134)  
+Progressed: 23,454 (Ranked 134)  
 Completed: 90 (0.38%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,6 +277,7 @@ Completed: 90 (0.38%) (Ranked 225)
 | 2023-11-28 | 23,365 | 89 |
 | 2023-11-29 | 23,416 | 90 |
 | 2023-11-30 | 23,453 | 90 |
+| 2023-12-01 | 23,454 | 90 |
 ## Awards
 Max (Great Boss Battles): 520  (Ranked 210)  
 Sum: 753 (Ranked 289)  

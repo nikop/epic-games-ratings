@@ -13,8 +13,8 @@ Rating: 4.54 (Ranked 528)
 | Hotel California | 2.00% | ~14,565 |
 | Personal Assistant Personally Assisted | 2.00% | ~14,565 |
 | Welcome To Hell-A | 2.00% | ~14,565 |
-| One of Us | 2.00% | ~1,075 |
-| Pork Chopped | 2.00% | ~1,075 |
+| One of Us | 2.00% | ~1,076 |
+| Pork Chopped | 2.00% | ~1,076 |
 | Dr. Reed, I Presume? | 1.00% | ~7,282 |
 | Anger Management | 1.00% | ~7,282 |
 | Perks of the Job | 1.00% | ~7,282 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 528)
 | Bucket List | 0.10% | ~728 |
 | Wilhelm | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,231 (Ranked 21)  
+Progressed: 728,240 (Ranked 21)  
 Completed: 2,456 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,6 +282,7 @@ Completed: 2,456 (0.34%) (Ranked 231)
 | 2023-11-28 | 727,374 | 2,447 |
 | 2023-11-29 | 727,809 | 2,450 |
 | 2023-11-30 | 728,231 | 2,456 |
+| 2023-12-01 | 728,240 | 2,456 |
 ## Awards
 Max (Great Boss Battles): 7,821  (Ranked 49)  
 Sum: 11,987 (Ranked 84)  

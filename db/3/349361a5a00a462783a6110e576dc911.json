@@ -4,7 +4,7 @@
   "ProductSlug": "annulus-648492",
   "Ranking_EOS_Progress": 766,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewPlayers": 496,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-24T07:57:20.0916016+00:00",
-  "LastUpdate_Ratings": "2023-11-30T22:58:06.864246+00:00",
-  "LastUpdate_Achievements": "2023-11-30T23:05:58.8293518+00:00"
+  "LastUpdate_Ratings": "2023-11-30T23:58:08.2278585+00:00",
+  "LastUpdate_Achievements": "2023-12-01T00:06:04.1336577+00:00"
 }

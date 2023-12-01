@@ -4,7 +4,7 @@
   "ProductSlug": "kredolis-cbd516",
   "Ranking_EOS_Progress": 766,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewPlayers": 496,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-09-27T17:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:23.5817971+00:00",
   "LastChanged": "2023-03-31T05:57:23.5817972+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:10.6233941+00:00",
-  "LastUpdate_Ratings": "2023-11-30T23:02:56.9308706+00:00",
-  "LastUpdate_Achievements": "2023-11-30T23:03:10.9358468+00:00"
+  "LastUpdate_Ratings": "2023-12-01T00:03:00.8634107+00:00",
+  "LastUpdate_Achievements": "2023-12-01T00:03:15.7258983+00:00"
 }

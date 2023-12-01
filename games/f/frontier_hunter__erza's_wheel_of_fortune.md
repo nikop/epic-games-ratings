@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 91.00% | ~420 |
+| Travel Streamer | 92.00% | ~424 |
 | Training Simulation | 77.00% | ~355 |
-| Kuku Bird Hunter | 62.00% | ~286 |
-| Storm Traveller | 56.00% | ~258 |
+| Kuku Bird Hunter | 63.00% | ~290 |
+| Storm Traveller | 57.00% | ~263 |
 | Wolf King Killer | 51.00% | ~235 |
 | Fashion Connoisseur | 50.00% | ~230 |
 | Arms Mechanic | 46.00% | ~212 |
@@ -31,7 +31,7 @@
 | Kind Adventurer | 13.00% | ~60 |
 | Mermaid Killer | 12.00% | ~55 |
 | Cave Master | 12.00% | ~55 |
-| Face Slapper | 11.00% | ~51 |
+| Face Slapper | 12.00% | ~55 |
 | Master Cook | 8.00% | ~37 |
 | Boss challenge | 7.00% | ~32 |
 | Berserker Slayer | 7.00% | ~32 |

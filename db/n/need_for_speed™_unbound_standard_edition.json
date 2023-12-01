@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 11406,
+  "EOS_Progressed": 11407,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 604,
+  "EOS_NewPlayers": 605,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -8378,6 +8378,11 @@
       "Time": "2023-11-30T23:05:57.8330697+00:00",
       "NumProgressed": 11406,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-01T00:06:02.9150663+00:00",
+      "NumProgressed": 11407,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-09-19T23:06:56.1964818+00:00",
@@ -8438,7 +8443,7 @@
       "Name": "Serious Guap",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 6045
+      "UsersEstimate": 6046
     },
     {
       "ID": "achievement_16",
@@ -8470,7 +8475,7 @@
       "Name": "Rebel Without a Pause",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 7756
+      "UsersEstimate": 7757
     },
     {
       "ID": "achievement_2",
@@ -8486,7 +8491,7 @@
       "Name": "Style it Out",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 6045
+      "UsersEstimate": 6046
     },
     {
       "ID": "achievement_21",
@@ -8502,7 +8507,7 @@
       "Name": "Escape Artist",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 6159
+      "UsersEstimate": 6160
     },
     {
       "ID": "achievement_23",
@@ -8510,7 +8515,7 @@
       "Name": "Public Enemy",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 9353
+      "UsersEstimate": 9354
     },
     {
       "ID": "achievement_24",
@@ -8518,7 +8523,7 @@
       "Name": "Untouchable",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 5931
+      "UsersEstimate": 5932
     },
     {
       "ID": "achievement_25",
@@ -8614,7 +8619,7 @@
       "Name": "Hey Speedie!",
       "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 7756
+      "UsersEstimate": 7757
     },
     {
       "ID": "achievement_36",
@@ -8622,7 +8627,7 @@
       "Name": "100 Miles and Runnin\u0027",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 9581
+      "UsersEstimate": 9582
     },
     {
       "ID": "achievement_37",
@@ -8630,7 +8635,7 @@
       "Name": "Throwing up Tags",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 10608
+      "UsersEstimate": 10609
     },
     {
       "ID": "achievement_38",
@@ -8638,7 +8643,7 @@
       "Name": "Fashion Killa",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 10037
+      "UsersEstimate": 10038
     },
     {
       "ID": "achievement_39",
@@ -8646,7 +8651,7 @@
       "Name": "Cool Whip",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 10265
+      "UsersEstimate": 10266
     },
     {
       "ID": "achievement_4",
@@ -8654,7 +8659,7 @@
       "Name": "Oh, It\u0027s On",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 5703
+      "UsersEstimate": 5704
     },
     {
       "ID": "achievement_40",
@@ -8670,7 +8675,7 @@
       "Name": "Drop the Beat",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 9809
+      "UsersEstimate": 9810
     },
     {
       "ID": "achievement_5",
@@ -8678,7 +8683,7 @@
       "Name": "Lake Better Watch Out",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 4448
+      "UsersEstimate": 4449
     },
     {
       "ID": "achievement_6",
@@ -8694,7 +8699,7 @@
       "Name": "Hey Lakeshore",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 9695
+      "UsersEstimate": 9696
     },
     {
       "ID": "achievement_8",
@@ -8717,13 +8722,13 @@
     {
       "ID": "d0n64ce",
       "IsBase": true,
-      "Progressed": 11406,
+      "Progressed": 11407,
       "Completed": 52
     }
   ],
   "FirstSeenAchievements": "2023-07-25T22:03:37.4196764+00:00",
-  "LastChanged_Achievements": "2023-11-30T23:05:57.8330654+00:00",
+  "LastChanged_Achievements": "2023-12-01T00:06:02.9150659+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:11.0396218+00:00",
-  "LastUpdate_Ratings": "2023-11-30T22:57:40.8107296+00:00",
-  "LastUpdate_Achievements": "2023-11-30T23:05:57.8331278+00:00"
+  "LastUpdate_Ratings": "2023-11-30T23:57:41.2966126+00:00",
+  "LastUpdate_Achievements": "2023-12-01T00:06:02.9151349+00:00"
 }

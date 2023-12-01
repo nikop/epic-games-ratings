@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11209,10 +11209,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 49528,
       "NumberOfAwardsMax": 24781
+    },
+    {
+      "Time": "2023-11-30T23:57:24.6912706+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 49552,
+      "NumberOfAwardsMax": 24781
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49528,
+  "NumberOfAwards": 49552,
   "NumberOfAwardsMax": 24781,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11226,7 +11232,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 12651
+      "Count": 12675
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -11289,9 +11295,9 @@
       "Count": 825
     }
   ],
-  "EOS_Progressed": 303661,
+  "EOS_Progressed": 303663,
   "EOS_Completed": 519,
-  "EOS_NewPlayers": 824,
+  "EOS_NewPlayers": 819,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -35474,6 +35480,11 @@
       "Time": "2023-11-30T23:09:36.6784679+00:00",
       "NumProgressed": 303661,
       "NumCompleted": 519
+    },
+    {
+      "Time": "2023-12-01T00:09:31.3332764+00:00",
+      "NumProgressed": 303663,
+      "NumCompleted": 519
     }
   ],
   "TotalAchievements": 45,
@@ -35541,7 +35552,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36439
+      "UsersEstimate": 36440
     },
     {
       "ID": "PFA_17",
@@ -35557,7 +35568,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 27329
+      "UsersEstimate": 27330
     },
     {
       "ID": "PFA_19",
@@ -35613,7 +35624,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36439
+      "UsersEstimate": 36440
     },
     {
       "ID": "PFA_25",
@@ -35637,7 +35648,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 12146
+      "UsersEstimate": 12147
     },
     {
       "ID": "PFA_28",
@@ -35669,7 +35680,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36439
+      "UsersEstimate": 36440
     },
     {
       "ID": "PFA_31",
@@ -35685,7 +35696,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12146
+      "UsersEstimate": 12147
     },
     {
       "ID": "PFA_33",
@@ -35733,7 +35744,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 12146
+      "UsersEstimate": 12147
     },
     {
       "ID": "PFA_39",
@@ -35789,7 +35800,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27329
+      "UsersEstimate": 27330
     },
     {
       "ID": "PFA_45",
@@ -35805,7 +35816,7 @@
       "Name": "The Wise Owl",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12146
+      "UsersEstimate": 12147
     },
     {
       "ID": "PFA_6",
@@ -35844,16 +35855,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303661,
+      "Progressed": 303663,
       "Completed": 519
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-30T22:57:23.4487646+00:00",
-  "LastChanged_Achievements": "2023-11-30T23:09:36.6784669+00:00",
+  "LastChanged": "2023-11-30T23:57:24.6912704+00:00",
+  "LastChanged_Achievements": "2023-12-01T00:09:31.333276+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7292094+00:00",
-  "LastUpdate_Ratings": "2023-11-30T22:57:23.4487652+00:00",
-  "LastUpdate_Achievements": "2023-11-30T23:09:36.6785812+00:00"
+  "LastUpdate_Ratings": "2023-11-30T23:57:24.6912717+00:00",
+  "LastUpdate_Achievements": "2023-12-01T00:09:31.3334234+00:00"
 }

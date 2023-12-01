@@ -8,14 +8,14 @@ Number of Ratings: 28  (23.09.2022)
 | ---- | ---------- | ----- |
 | Getting started | 78.00% | ~414 |
 | Close call! | 72.00% | ~382 |
-| Builder | 52.00% | ~276 |
+| Builder | 53.00% | ~281 |
 | Pangs of conscience | 46.00% | ~244 |
 | Living it large! | 45.00% | ~239 |
-| Collector | 43.00% | ~228 |
+| Collector | 44.00% | ~234 |
 | Need to think | 43.00% | ~228 |
-| Completely nuts! | 40.00% | ~212 |
+| Completely nuts! | 41.00% | ~218 |
 | Just in time! | 34.00% | ~181 |
-| Europe | 32.00% | ~170 |
+| Europe | 33.00% | ~175 |
 | Madness! | 31.00% | ~165 |
 | It's no coincidence. | 30.00% | ~159 |
 | Philatelist | 27.00% | ~143 |

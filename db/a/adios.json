@@ -123,9 +123,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 79487,
+  "EOS_Progressed": 79490,
   "EOS_Completed": 857,
-  "EOS_NewPlayers": 475,
+  "EOS_NewPlayers": 476,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -25148,6 +25148,11 @@
       "Time": "2023-11-30T23:04:40.2389111+00:00",
       "NumProgressed": 79487,
       "NumCompleted": 857
+    },
+    {
+      "Time": "2023-12-01T00:04:45.3076902+00:00",
+      "NumProgressed": 79490,
+      "NumCompleted": 857
     }
   ],
   "TotalAchievements": 25,
@@ -25191,7 +25196,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17487
+      "UsersEstimate": 17488
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -25207,7 +25212,7 @@
       "Name": "Butcher",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 3179
+      "UsersEstimate": 3180
     },
     {
       "ID": "Cut Call",
@@ -25223,7 +25228,7 @@
       "Name": "Fair\u0027s Fair",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 3179
+      "UsersEstimate": 3180
     },
     {
       "ID": "HardWorker",
@@ -25231,7 +25236,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15897
+      "UsersEstimate": 15898
     },
     {
       "ID": "Hearty",
@@ -25263,7 +25268,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 16692
+      "UsersEstimate": 16693
     },
     {
       "ID": "Meaty",
@@ -25311,7 +25316,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 10333
+      "UsersEstimate": 10334
     },
     {
       "ID": "Sniper",
@@ -25327,7 +25332,7 @@
       "Name": "Spicy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3179
+      "UsersEstimate": 3180
     },
     {
       "ID": "Taco Toto",
@@ -25358,7 +25363,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 79487,
+      "Progressed": 79490,
       "Completed": 857
     }
   ],
@@ -25366,8 +25371,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-11-30T23:04:40.2389107+00:00",
+  "LastChanged_Achievements": "2023-12-01T00:04:45.3076897+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:30.5641615+00:00",
-  "LastUpdate_Ratings": "2023-11-30T22:02:52.1387462+00:00",
-  "LastUpdate_Achievements": "2023-11-30T23:04:40.2390417+00:00"
+  "LastUpdate_Ratings": "2023-11-30T23:57:08.3847651+00:00",
+  "LastUpdate_Achievements": "2023-12-01T00:04:45.3078168+00:00"
 }

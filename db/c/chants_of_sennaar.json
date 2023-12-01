@@ -2,7 +2,7 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 276,
+  "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 72,
   "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 34,
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 813,
+  "EOS_Progressed": 814,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 5.41,
   "EosHistory": [
@@ -3315,6 +3315,11 @@
       "Time": "2023-11-30T21:07:13.6038822+00:00",
       "NumProgressed": 813,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-12-01T00:05:43.7791537+00:00",
+      "NumProgressed": 814,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 25,
@@ -3326,7 +3331,7 @@
       "Name": "I did it",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "END_GOOD",
@@ -3334,7 +3339,7 @@
       "Name": "In this together",
       "Percentage": 18,
       "XP": 200,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "META_ALL_LINK",
@@ -3342,7 +3347,7 @@
       "Name": "Peace walker",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -3350,7 +3355,7 @@
       "Name": "Cable guy",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "META_FIRST_LINK",
@@ -3462,15 +3467,15 @@
       "Name": "Champollion",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 301
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3502,7 +3507,7 @@
       "Name": "A new dawn",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "PROGRESS_N4",
@@ -3525,14 +3530,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 813,
+      "Progressed": 814,
       "Completed": 44
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-30T23:05:38.7645479+00:00",
+  "LastChanged_Achievements": "2023-12-01T00:05:43.7791531+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-11-30T22:59:03.5601532+00:00",
-  "LastUpdate_Achievements": "2023-11-30T23:05:38.7645768+00:00"
+  "LastUpdate_Ratings": "2023-11-30T23:59:06.3932511+00:00",
+  "LastUpdate_Achievements": "2023-12-01T00:05:43.7791921+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 379,
+  "Ranking_EOS_NewPlayers": 380,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -1369,9 +1369,9 @@
       "ID": "02_collector",
       "SetID": "chb1m60",
       "Name": "Collector",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 234
     },
     {
       "ID": "03_philatelist",
@@ -1409,9 +1409,9 @@
       "ID": "07_europe",
       "SetID": "chb1m60",
       "Name": "Europe",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 170
+      "UsersEstimate": 175
     },
     {
       "ID": "08_america",
@@ -1489,9 +1489,9 @@
       "ID": "17_builder",
       "SetID": "chb1m60",
       "Name": "Builder",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 276
+      "UsersEstimate": 281
     },
     {
       "ID": "18_foreman",
@@ -1593,9 +1593,9 @@
       "ID": "30_completelynuts",
       "SetID": "chb1m60",
       "Name": "Completely nuts!",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 212
+      "UsersEstimate": 218
     },
     {
       "ID": "31_chancellor",
@@ -1681,8 +1681,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-09-23T19:00:36.0392229+00:00",
-  "LastChanged_Achievements": "2023-11-30T23:04:15.0700835+00:00",
+  "LastChanged_Achievements": "2023-12-01T00:04:19.9791707+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:13.4562338+00:00",
-  "LastUpdate_Ratings": "2023-11-30T22:58:31.6905034+00:00",
-  "LastUpdate_Achievements": "2023-11-30T23:04:15.0701096+00:00"
+  "LastUpdate_Ratings": "2023-11-30T23:58:32.6180653+00:00",
+  "LastUpdate_Achievements": "2023-12-01T00:04:19.979211+00:00"
 }

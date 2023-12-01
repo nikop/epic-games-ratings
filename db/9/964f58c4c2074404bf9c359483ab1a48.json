@@ -2,7 +2,7 @@
   "ID": "964f58c4c2074404bf9c359483ab1a48",
   "Name": "Midnight Ghost Hunt",
   "ProductSlug": "midnight-ghost-hunt",
-  "Ranking_Rating": 791,
+  "Ranking_Rating": 792,
   "Ranking_Popularity": 385,
   "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 10,
@@ -2031,9 +2031,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1291240,
+  "EOS_Progressed": 1291241,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1438,
+  "EOS_NewPlayers": 1431,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23346,6 +23346,11 @@
       "Time": "2023-11-30T23:03:11.6549795+00:00",
       "NumProgressed": 1291240,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T00:03:16.4284204+00:00",
+      "NumProgressed": 1291241,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -23469,7 +23474,7 @@
       "Name": "10 Kills as a Ghost!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 142036
+      "UsersEstimate": 142037
     },
     {
       "ID": "10_ghost_wins",
@@ -23493,7 +23498,7 @@
       "Name": "10 Kills as a Hunter!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 206598
+      "UsersEstimate": 206599
     },
     {
       "ID": "10_hunter_wins",
@@ -23692,7 +23697,7 @@
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1291240,
+      "Progressed": 1291241,
       "Completed": 0
     }
   ],
@@ -23700,8 +23705,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2023-11-30T17:01:26.4765826+00:00",
-  "LastChanged_Achievements": "2023-11-30T23:03:11.6549791+00:00",
+  "LastChanged_Achievements": "2023-12-01T00:03:16.4284199+00:00",
   "LastUpdate_AppInfo": "2023-11-24T07:57:18.8249356+00:00",
-  "LastUpdate_Ratings": "2023-11-30T22:59:51.6087183+00:00",
-  "LastUpdate_Achievements": "2023-11-30T23:03:11.6550854+00:00"
+  "LastUpdate_Ratings": "2023-11-30T23:59:54.537677+00:00",
+  "LastUpdate_Achievements": "2023-12-01T00:03:16.4285575+00:00"
 }

@@ -5,20 +5,20 @@ Rating: 4.51 (Ranked 572)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~169,955 |
-| FIRST BLOOD | 40.00% | ~151,071 |
-| KEVIN! | 30.00% | ~113,303 |
-| JACK OF ALL TRADES | 23.00% | ~86,866 |
-| CRIMINAL | 20.00% | ~75,536 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~41,545 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~33,991 |
-| HONORS STUDENT | 8.00% | ~30,214 |
-| BUTCHER | 6.00% | ~22,661 |
-| INDIVIDUAL APPROACH | 5.00% | ~18,884 |
-| RAMBO | 5.00% | ~18,884 |
-| HELL'S KITCHEN | 4.00% | ~15,107 |
-| CELEBRITY | 3.00% | ~11,330 |
-| MARTYR | 3.00% | ~11,330 |
+| MASTER CHEF | 45.00% | ~169,967 |
+| FIRST BLOOD | 40.00% | ~151,082 |
+| KEVIN! | 30.00% | ~113,311 |
+| JACK OF ALL TRADES | 23.00% | ~86,872 |
+| CRIMINAL | 20.00% | ~75,541 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~41,547 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~33,993 |
+| HONORS STUDENT | 8.00% | ~30,216 |
+| BUTCHER | 6.00% | ~22,662 |
+| INDIVIDUAL APPROACH | 5.00% | ~18,885 |
+| RAMBO | 5.00% | ~18,885 |
+| HELL'S KITCHEN | 4.00% | ~15,108 |
+| CELEBRITY | 3.00% | ~11,331 |
+| MARTYR | 3.00% | ~11,331 |
 | GRATITUDE | 2.00% | ~7,554 |
 | PATTY-KILLER | 2.00% | ~7,554 |
 | EXPERIMENTALIST | 1.00% | ~3,777 |
@@ -27,14 +27,14 @@ Rating: 4.51 (Ranked 572)
 | PRUDENT | 1.00% | ~3,777 |
 | SCATTERBRAIN | 0.70% | ~2,644 |
 | HIGH TECHNOLOGIES | 0.60% | ~2,266 |
-| TASTE UNTASTY | 0.50% | ~1,888 |
+| TASTE UNTASTY | 0.50% | ~1,889 |
 | DEBTOR | 0.20% | ~755 |
 | I'VE SEEN SOME… | 0.20% | ~755 |
 | CORRUPTIONIST | 0.10% | ~378 |
 | MISTER ALL THUMBS | 0.10% | ~378 |
 | TRAVELER | 0.10% | ~378 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 377,678 (Ranked 46)  
+Progressed: 377,704 (Ranked 46)  
 Completed: 43 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,6 +186,7 @@ Completed: 43 (0.01%) (Ranked 343)
 | 2023-11-28 | 376,670 | 42 |
 | 2023-11-29 | 377,136 | 43 |
 | 2023-11-30 | 377,678 | 43 |
+| 2023-12-01 | 377,704 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

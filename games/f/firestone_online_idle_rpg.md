@@ -5,19 +5,19 @@ Rating: 4.04 (Ranked 993)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,648 |
-| World Map | 78.00% | ~2,221 |
-| Temple of Eternals | 57.00% | ~1,623 |
-| Prestigious | 53.00% | ~1,509 |
-| Fellowship Power | 42.00% | ~1,196 |
-| Guild Power | 24.00% | ~683 |
+| Victor | 93.00% | ~2,650 |
+| World Map | 78.00% | ~2,223 |
+| Temple of Eternals | 57.00% | ~1,624 |
+| Prestigious | 53.00% | ~1,510 |
+| Fellowship Power | 42.00% | ~1,197 |
+| Guild Power | 24.00% | ~684 |
 | Prestigious x10 | 21.00% | ~598 |
-| The game is on | 19.00% | ~541 |
-| Exotic Merchant | 17.00% | ~484 |
-| Full Party | 17.00% | ~484 |
+| The game is on | 19.00% | ~542 |
+| Exotic Merchant | 17.00% | ~485 |
+| Full Party | 17.00% | ~485 |
 | Dragon Clicker | 16.00% | ~456 |
 | Miner Clicker | 16.00% | ~456 |
-| Inspection | 15.00% | ~427 |
+| Inspection | 15.00% | ~428 |
 | Dragon Master | 14.00% | ~399 |
 | Enlightenment | 14.00% | ~399 |
 | Hero inspection | 14.00% | ~399 |
@@ -27,7 +27,7 @@ Rating: 4.04 (Ranked 993)
 | Natural Talent | 12.00% | ~342 |
 | Superior | 12.00% | ~342 |
 | The Unstoppable | 12.00% | ~342 |
-| Scientist | 11.00% | ~313 |
+| Scientist | 10.00% | ~285 |
 | The power of Awakening | 10.00% | ~285 |
 | Challenger | 9.00% | ~256 |
 | Daily Quest Completionist | 9.00% | ~256 |
@@ -41,9 +41,9 @@ Rating: 4.04 (Ranked 993)
 | Four Leaf Clover | 8.00% | ~228 |
 | Master Enchanter | 8.00% | ~228 |
 | The father of Dragons | 8.00% | ~228 |
-| Crystal Mining | 7.00% | ~199 |
-| Here We Go Again | 7.00% | ~199 |
-| Trader | 7.00% | ~199 |
+| Crystal Mining | 7.00% | ~200 |
+| Here We Go Again | 7.00% | ~200 |
+| Trader | 7.00% | ~200 |
 | Blueprint Upgrades | 6.00% | ~171 |
 | Dragon Slayer | 6.00% | ~171 |
 | Enchanting skill | 6.00% | ~171 |
@@ -61,9 +61,9 @@ Rating: 4.04 (Ranked 993)
 | The Alchemist | 5.00% | ~142 |
 | Arena Challenger | 4.00% | ~114 |
 | Ebony Jungle Liberator | 4.00% | ~114 |
-| Gear Enchanting | 3.00% | ~85 |
-| Mythic Power | 3.00% | ~85 |
-| What lies behind the bush | 3.00% | ~85 |
+| Gear Enchanting | 3.00% | ~86 |
+| Mythic Power | 3.00% | ~86 |
+| What lies behind the bush | 3.00% | ~86 |
 | Cauldron Liberator | 2.00% | ~57 |
 | Enchanting skill x5 | 2.00% | ~57 |
 | Guardian Master | 2.00% | ~57 |
@@ -81,7 +81,7 @@ Rating: 4.04 (Ranked 993)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,847 (Ranked 213)  
+Progressed: 2,850 (Ranked 213)  
 Completed: 2 (0.07%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,6 +301,7 @@ Completed: 2 (0.07%) (Ranked 302)
 | 2023-11-28 | 2,791 | 2 |
 | 2023-11-29 | 2,822 | 2 |
 | 2023-11-30 | 2,847 | 2 |
+| 2023-12-01 | 2,850 | 2 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 483)  
 Sum: 134 (Ranked 430)  

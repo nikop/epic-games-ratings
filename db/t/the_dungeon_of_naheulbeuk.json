@@ -1425,9 +1425,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 240529,
+  "EOS_Progressed": 240538,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1392,
+  "EOS_NewPlayers": 1394,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20575,6 +20575,11 @@
       "Time": "2023-11-30T23:09:02.6238785+00:00",
       "NumProgressed": 240529,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-01T00:08:57.4219631+00:00",
+      "NumProgressed": 240538,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -20634,7 +20639,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16837
+      "UsersEstimate": 16838
     },
     {
       "ID": "Chapter2",
@@ -20642,7 +20647,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9621
+      "UsersEstimate": 9622
     },
     {
       "ID": "Chapter3",
@@ -20986,7 +20991,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19242
+      "UsersEstimate": 19243
     },
     {
       "ID": "DwarfElf15Support",
@@ -21018,7 +21023,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12026
+      "UsersEstimate": 12027
     },
     {
       "ID": "ElfEpic",
@@ -21034,7 +21039,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 84185
+      "UsersEstimate": 84188
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -21050,7 +21055,7 @@
       "Name": "GG EZ",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9621
+      "UsersEstimate": 9622
     },
     {
       "ID": "EndCombatOneHp",
@@ -21058,7 +21063,7 @@
       "Name": "DM intervention",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9621
+      "UsersEstimate": 9622
     },
     {
       "ID": "EndGameCursed",
@@ -21234,7 +21239,7 @@
       "Name": "Speedrun",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12026
+      "UsersEstimate": 12027
     },
     {
       "ID": "SupportCount4",
@@ -21282,28 +21287,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9621
+      "UsersEstimate": 9622
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 240529,
+      "Progressed": 240538,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 240529,
+      "Progressed": 240538,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-30T16:01:13.8587694+00:00",
-  "LastChanged_Achievements": "2023-11-30T23:09:02.6238781+00:00",
+  "LastChanged_Achievements": "2023-12-01T00:08:57.4219628+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:00.6949957+00:00",
-  "LastUpdate_Ratings": "2023-11-30T22:59:58.1342048+00:00",
-  "LastUpdate_Achievements": "2023-11-30T23:09:02.6240109+00:00"
+  "LastUpdate_Ratings": "2023-12-01T00:00:01.548204+00:00",
+  "LastUpdate_Achievements": "2023-12-01T00:08:57.4221033+00:00"
 }

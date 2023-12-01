@@ -4983,10 +4983,10 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 231406,
+  "EOS_Progressed": 231440,
   "EOS_Completed": 542,
-  "EOS_NewPlayers": 4811,
-  "EOS_NewCompleters": 33,
+  "EOS_NewPlayers": 4832,
+  "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -20738,6 +20738,11 @@
       "Time": "2023-11-30T23:08:52.1969344+00:00",
       "NumProgressed": 231406,
       "NumCompleted": 542
+    },
+    {
+      "Time": "2023-12-01T00:08:46.7150133+00:00",
+      "NumProgressed": 231440,
+      "NumCompleted": 542
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20934,7 +20939,7 @@
       "Name": "First of Many",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1388
+      "UsersEstimate": 1389
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -21189,13 +21194,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 231406,
+      "Progressed": 231440,
       "Completed": 542
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 10571,
+      "Progressed": 10605,
       "Completed": 177
     }
   ],
@@ -21203,8 +21208,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-30T22:03:28.9531614+00:00",
-  "LastChanged_Achievements": "2023-11-30T23:08:52.196934+00:00",
+  "LastChanged_Achievements": "2023-12-01T00:08:46.7150129+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-11-30T23:03:02.5008081+00:00",
-  "LastUpdate_Achievements": "2023-11-30T23:08:52.1970214+00:00"
+  "LastUpdate_Ratings": "2023-12-01T00:03:06.3104047+00:00",
+  "LastUpdate_Achievements": "2023-12-01T00:08:46.7151073+00:00"
 }

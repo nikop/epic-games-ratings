@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16770,
+  "EOS_Progressed": 16772,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -15233,6 +15233,11 @@
       "Time": "2023-11-30T23:04:58.5565895+00:00",
       "NumProgressed": 16770,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-12-01T00:05:03.7031873+00:00",
+      "NumProgressed": 16772,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15260,7 +15265,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3857
+      "UsersEstimate": 3858
     },
     {
       "ID": "tpote_achievement_12",
@@ -15268,7 +15273,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "tpote_achievement_13",
@@ -15276,7 +15281,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "tpote_achievement_14",
@@ -15284,7 +15289,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5534
+      "UsersEstimate": 5535
     },
     {
       "ID": "tpote_achievement_15",
@@ -15332,7 +15337,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5534
+      "UsersEstimate": 5535
     },
     {
       "ID": "tpote_achievement_20",
@@ -15348,7 +15353,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 5031
+      "UsersEstimate": 5032
     },
     {
       "ID": "tpote_achievement_22",
@@ -15404,7 +15409,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2012
+      "UsersEstimate": 2013
     },
     {
       "ID": "tpote_achievement_29",
@@ -15420,7 +15425,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5366
+      "UsersEstimate": 5367
     },
     {
       "ID": "tpote_achievement_30",
@@ -15484,7 +15489,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "tpote_achievement_38",
@@ -15508,7 +15513,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6708
+      "UsersEstimate": 6709
     },
     {
       "ID": "tpote_achievement_40",
@@ -15540,7 +15545,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3857
+      "UsersEstimate": 3858
     },
     {
       "ID": "tpote_achievement_7",
@@ -15571,15 +15576,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16770,
+      "Progressed": 16772,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-30T23:04:58.556589+00:00",
+  "LastChanged_Achievements": "2023-12-01T00:05:03.7031866+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:06.2264545+00:00",
-  "LastUpdate_Ratings": "2023-11-30T23:00:06.7371925+00:00",
-  "LastUpdate_Achievements": "2023-11-30T23:04:58.5566723+00:00"
+  "LastUpdate_Ratings": "2023-12-01T00:00:10.6513767+00:00",
+  "LastUpdate_Achievements": "2023-12-01T00:05:03.7032835+00:00"
 }

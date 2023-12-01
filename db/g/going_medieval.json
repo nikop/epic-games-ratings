@@ -2,7 +2,7 @@
   "ID": "d469e82d91fe4516a00d6566c3d2f8f7",
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
-  "Ranking_Rating": 419,
+  "Ranking_Rating": 418,
   "Ranking_Popularity": 337,
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 182,
@@ -1537,7 +1537,7 @@
   ],
   "EOS_Progressed": 7043,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -13997,9 +13997,9 @@
       "ID": "UNLOCK_RESEARCH",
       "SetID": "5349c2e",
       "Name": "Novice Researcher",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 4719
+      "UsersEstimate": 4789
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -14045,8 +14045,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-11-30T18:00:41.6530659+00:00",
-  "LastChanged_Achievements": "2023-11-30T23:03:19.9406394+00:00",
+  "LastChanged_Achievements": "2023-12-01T00:03:24.7587532+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:23.1121034+00:00",
-  "LastUpdate_Ratings": "2023-11-30T22:57:10.352687+00:00",
-  "LastUpdate_Achievements": "2023-11-30T23:03:19.9406972+00:00"
+  "LastUpdate_Ratings": "2023-11-30T23:57:10.8603569+00:00",
+  "LastUpdate_Achievements": "2023-12-01T00:03:24.7588321+00:00"
 }

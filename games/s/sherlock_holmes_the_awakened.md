@@ -24,7 +24,7 @@ Rating: 4.69 (Ranked 233)
 | At Wits' End | 48.00% | ~395 |
 | Up In Flames | 46.00% | ~379 |
 | Fhtagn! | 46.00% | ~379 |
-| Bookworm | 44.00% | ~362 |
+| Bookworm | 45.00% | ~370 |
 | Going Once... | 41.00% | ~337 |
 | Let Me Be Frank | 39.00% | ~321 |
 | No Stone Unturned | 38.00% | ~313 |

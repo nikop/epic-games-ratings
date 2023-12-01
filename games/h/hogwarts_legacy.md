@@ -10,9 +10,9 @@ Rating: 4.76 (Ranked 130)
 | Troll with the Punches | 14.00% | ~42,513 |
 | A Keen Sense of Spell | 13.00% | ~39,476 |
 | That's a Keeper | 13.00% | ~39,476 |
-| The Defender of Dragons | 12.00% | ~36,439 |
-| Loom for Improvement | 12.00% | ~36,439 |
-| A Talent for Spending | 12.00% | ~36,439 |
+| The Defender of Dragons | 12.00% | ~36,440 |
+| Loom for Improvement | 12.00% | ~36,440 |
+| A Talent for Spending | 12.00% | ~36,440 |
 | Grappling with a Graphorn | 11.00% | ~33,403 |
 | The One Who Mastered Memories | 11.00% | ~33,403 |
 | The Hallowed Hero | 11.00% | ~33,403 |
@@ -21,8 +21,8 @@ Rating: 4.76 (Ranked 130)
 | Coasting Along | 11.00% | ~33,403 |
 | Followed the Butterflies | 10.00% | ~30,366 |
 | Rising From the Ashes | 10.00% | ~30,366 |
-| A Sallow Grave | 9.00% | ~27,329 |
-| The Spell Master | 9.00% | ~27,329 |
+| A Sallow Grave | 9.00% | ~27,330 |
+| The Spell Master | 9.00% | ~27,330 |
 | The Avenging Gazelle | 8.00% | ~24,293 |
 | Beast Friends | 8.00% | ~24,293 |
 | Flight the Good Flight | 8.00% | ~24,293 |
@@ -33,10 +33,10 @@ Rating: 4.76 (Ranked 130)
 | The Toast of the Town | 5.00% | ~15,183 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,183 |
 | The Ends Petrify the Means | 5.00% | ~15,183 |
-| Going Through the Potions | 4.00% | ~12,146 |
-| Room with a View | 4.00% | ~12,146 |
-| The Intrepid Explorer | 4.00% | ~12,146 |
-| The Wise Owl | 4.00% | ~12,146 |
+| Going Through the Potions | 4.00% | ~12,147 |
+| Room with a View | 4.00% | ~12,147 |
+| The Intrepid Explorer | 4.00% | ~12,147 |
+| The Wise Owl | 4.00% | ~12,147 |
 | Put Down Roots | 3.00% | ~9,110 |
 | The Auror's Apprentice | 3.00% | ~9,110 |
 | Floo Around the World | 3.00% | ~9,110 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 130)
 | The Nature of the Beast | 0.70% | ~2,126 |
 | Collector's Edition | 0.30% | ~911 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,661 (Ranked 54)  
+Progressed: 303,663 (Ranked 54)  
 Completed: 519 (0.17%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,14 +276,15 @@ Completed: 519 (0.17%) (Ranked 266)
 | 2023-11-28 | 303,515 | 519 |
 | 2023-11-29 | 303,596 | 519 |
 | 2023-11-30 | 303,661 | 519 |
+| 2023-12-01 | 303,663 | 519 |
 ## Awards
 Max (Character Customization): 24,781  (Ranked 17)  
-Sum: 49,528 (Ranked 30)  
+Sum: 49,552 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 24,781 |
-| This game has Great Boss Battles | 12,651 |
+| This game has Great Boss Battles | 12,675 |
 | This game is Great for Beginners | 1,364 |
 | This game has Amazing Storytelling | 1,317 |
 | This game has Diverse Characters | 1,310 |
@@ -548,4 +549,4 @@ Diff (max vs sum): -13
 | 2023-11-27 | 4.76 | 24,711 | 49,337 |
 | 2023-11-28 | 4.76 | 24,728 | 49,391 |
 | 2023-11-29 | 4.76 | 24,755 | 49,466 |
-| 2023-11-30 | 4.76 | 24,781 | 49,528 |
+| 2023-11-30 | 4.76 | 24,781 | 49,552 |

@@ -20,8 +20,8 @@ Rating: 4.43 (Ranked 695)
 | Facility Manager | 54.00% | ~1,241 |
 | Poor Devil | 54.00% | ~1,241 |
 | Producer | 51.00% | ~1,172 |
+| Apprentice | 42.00% | ~965 |
 | Bridge Builder | 42.00% | ~965 |
-| Apprentice | 41.00% | ~942 |
 | Access granted | 35.00% | ~804 |
 | Going once, going twice, sold | 35.00% | ~804 |
 | Bull and bear | 34.00% | ~781 |
@@ -61,7 +61,7 @@ Rating: 4.43 (Ranked 695)
 | United States | 0.60% | ~14 |
 | Together we stand | 0.60% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,298 (Ranked 220)  
+Progressed: 2,298 (Ranked 221)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |

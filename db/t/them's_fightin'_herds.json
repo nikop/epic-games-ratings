@@ -2,7 +2,7 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 419,
+  "Ranking_Rating": 418,
   "Ranking_Popularity": 513,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 68,
@@ -313,7 +313,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 232924,
+  "EOS_Progressed": 232926,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 0,
@@ -23083,6 +23083,11 @@
       "Time": "2023-11-30T23:08:34.0339035+00:00",
       "NumProgressed": 232924,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-01T00:08:28.4836678+00:00",
+      "NumProgressed": 232926,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -23238,7 +23243,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 79194
+      "UsersEstimate": 79195
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -23254,7 +23259,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 51243
+      "UsersEstimate": 51244
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -23317,7 +23322,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 232924,
+      "Progressed": 232926,
       "Completed": 5
     }
   ],
@@ -23325,8 +23330,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-11-29T04:05:35.013922+00:00",
-  "LastChanged_Achievements": "2023-11-30T23:08:34.0339031+00:00",
+  "LastChanged_Achievements": "2023-12-01T00:08:28.4836675+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:18.2076606+00:00",
-  "LastUpdate_Ratings": "2023-11-30T23:00:24.2683504+00:00",
-  "LastUpdate_Achievements": "2023-11-30T23:08:34.0340045+00:00"
+  "LastUpdate_Ratings": "2023-12-01T00:00:29.1739274+00:00",
+  "LastUpdate_Achievements": "2023-12-01T00:08:28.4837599+00:00"
 }

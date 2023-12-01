@@ -5,19 +5,19 @@ Rating: 4.44 (Ranked 680)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,465 |
-| Ranidaphobia | 77.00% | ~1,226 |
-| Aspiring Editor | 75.00% | ~1,194 |
-| Gun for Hire | 70.00% | ~1,114 |
-| I am the law! | 64.00% | ~1,019 |
+| First Blood | 92.00% | ~1,466 |
+| Ranidaphobia | 77.00% | ~1,227 |
+| Aspiring Editor | 75.00% | ~1,195 |
+| Gun for Hire | 70.00% | ~1,115 |
+| I am the law! | 64.00% | ~1,020 |
 | Lumberjack | 54.00% | ~860 |
-| Croaked | 49.00% | ~780 |
-| Limp Richard | 49.00% | ~780 |
-| Editor Adept | 48.00% | ~764 |
-| Exorcist | 48.00% | ~764 |
-| From Darkness to Light | 48.00% | ~764 |
-| Giant Killer | 46.00% | ~732 |
-| Sensei | 44.00% | ~700 |
+| Croaked | 49.00% | ~781 |
+| Limp Richard | 49.00% | ~781 |
+| Editor Adept | 48.00% | ~765 |
+| Exorcist | 48.00% | ~765 |
+| From Darkness to Light | 48.00% | ~765 |
+| Giant Killer | 46.00% | ~733 |
+| Sensei | 44.00% | ~701 |
 | Firestarter | 42.00% | ~669 |
 | The meaning of Kain | 42.00% | ~669 |
 | Technophobe | 41.00% | ~653 |
@@ -25,10 +25,10 @@ Rating: 4.44 (Ranked 680)
 | Are you not entertained? | 36.00% | ~573 |
 | Ganglord | 36.00% | ~573 |
 | Jarhead | 36.00% | ~573 |
-| Infiltrator | 35.00% | ~557 |
-| Experienced | 33.00% | ~525 |
-| Pushing Daisy | 33.00% | ~525 |
-| Hold The Line | 32.00% | ~509 |
+| Infiltrator | 35.00% | ~558 |
+| Experienced | 33.00% | ~526 |
+| Pushing Daisy | 33.00% | ~526 |
+| Hold The Line | 32.00% | ~510 |
 | Endgame | 28.00% | ~446 |
 | Savior | 28.00% | ~446 |
 | There Can Be Only One! | 27.00% | ~430 |
@@ -45,7 +45,7 @@ Rating: 4.44 (Ranked 680)
 | Chain Reaction | 9.00% | ~143 |
 | Curveball | 8.00% | ~127 |
 | Wipe Out | 8.00% | ~127 |
-| Dressed To Kill | 7.00% | ~111 |
+| Dressed To Kill | 7.00% | ~112 |
 | Attenborough | 6.00% | ~96 |
 | Master Editor | 6.00% | ~96 |
 | Bookworm | 3.00% | ~48 |
@@ -57,7 +57,7 @@ Rating: 4.44 (Ranked 680)
 | Goaaaaal! | 0.90% | ~14 |
 | QA Has Suffered! (Redux) | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,592 (Ranked 239)  
+Progressed: 1,593 (Ranked 239)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,6 +198,7 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-25 | 1,588 | 0 |
 | 2023-11-26 | 1,590 | 0 |
 | 2023-11-29 | 1,592 | 0 |
+| 2023-12-01 | 1,593 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

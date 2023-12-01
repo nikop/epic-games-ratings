@@ -171,7 +171,7 @@
   ],
   "EOS_Progressed": 799,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 281,
+  "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1943,9 +1943,9 @@
       "ID": "GoodCitizen",
       "SetID": "1n308hc",
       "Name": "Good Citizen",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "GrasslandsRing",
@@ -2055,9 +2055,9 @@
       "ID": "Overload",
       "SetID": "1n308hc",
       "Name": "Overload",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 48
     },
     {
       "ID": "Persistent",
@@ -2280,8 +2280,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-30T22:00:34.4965769+00:00",
-  "LastChanged_Achievements": "2023-11-30T23:03:24.6752806+00:00",
+  "LastChanged_Achievements": "2023-12-01T00:03:29.4800734+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-11-30T22:59:35.1987167+00:00",
-  "LastUpdate_Achievements": "2023-11-30T23:03:24.6753227+00:00"
+  "LastUpdate_Ratings": "2023-11-30T23:59:37.5045594+00:00",
+  "LastUpdate_Achievements": "2023-12-01T00:03:29.4801266+00:00"
 }

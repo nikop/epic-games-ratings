@@ -13,11 +13,11 @@
 | Adventurer | 9.00% | ~22 |
 | Geared Up | 9.00% | ~22 |
 | Scholar | 9.00% | ~22 |
+| The Collector | 9.00% | ~22 |
 | Tributes of Caladrias | 8.00% | ~19 |
 | Shatter Them All | 8.00% | ~19 |
 | Big Bazar | 8.00% | ~19 |
 | Fashion Victim | 8.00% | ~19 |
-| The Collector | 8.00% | ~19 |
 | Stone Collection | 7.00% | ~17 |
 | Calm before the Storm | 5.00% | ~12 |
 | To Battle | 5.00% | ~12 |
@@ -41,7 +41,7 @@
 | Shardbearer | 0.80% | ~2 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241 (Ranked 375)  
+Progressed: 241 (Ranked 376)  
 Completed: 2 (0.83%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |

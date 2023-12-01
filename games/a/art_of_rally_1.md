@@ -15,9 +15,9 @@ Number of Ratings: 56  (23.09.2022)
 | grocery-getter | 40.00% | ~4,131 |
 | rwd only | 27.00% | ~2,789 |
 | food tour: pasta | 27.00% | ~2,789 |
+| to finish first, first you must finish | 22.00% | ~2,272 |
 | autopilot | 22.00% | ~2,272 |
 | you can't treat a car like a human being. a car requires love | 22.00% | ~2,272 |
-| to finish first, first you must finish | 21.00% | ~2,169 |
 | turbo | 20.00% | ~2,066 |
 | food tour: pretzel | 20.00% | ~2,066 |
 | bicycle race | 15.00% | ~1,549 |

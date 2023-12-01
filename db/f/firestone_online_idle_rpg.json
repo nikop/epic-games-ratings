@@ -553,9 +553,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2847,
+  "EOS_Progressed": 2850,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 248,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8453,6 +8453,11 @@
       "Time": "2023-11-30T23:09:09.2732877+00:00",
       "NumProgressed": 2847,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-01T00:09:03.9579202+00:00",
+      "NumProgressed": 2850,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -8544,7 +8549,7 @@
       "Name": "Crystal Mining",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "dailyquestcompletionist",
@@ -8640,7 +8645,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "fellowshippower",
@@ -8648,7 +8653,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1197
     },
     {
       "ID": "fourleafclover",
@@ -8672,7 +8677,7 @@
       "Name": "Full Party",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "gearenchanting",
@@ -8680,7 +8685,7 @@
       "Name": "Gear Enchanting",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "guardianmaster",
@@ -8696,7 +8701,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "herewegoagain",
@@ -8704,7 +8709,7 @@
       "Name": "Here We Go Again",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "heroinspection",
@@ -8736,7 +8741,7 @@
       "Name": "Inspection",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "jewelenchanting",
@@ -8832,7 +8837,7 @@
       "Name": "Mythic Power",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "naturaltalent",
@@ -8856,7 +8861,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1509
+      "UsersEstimate": 1510
     },
     {
       "ID": "prestigiousx10",
@@ -8886,9 +8891,9 @@
       "ID": "scientist",
       "SetID": "3nl4bcg",
       "Name": "Scientist",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 285
     },
     {
       "ID": "scrollmaster",
@@ -8920,7 +8925,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1623
+      "UsersEstimate": 1624
     },
     {
       "ID": "thealchemist",
@@ -8952,7 +8957,7 @@
       "Name": "The game is on",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "thepowerofawakening",
@@ -8984,7 +8989,7 @@
       "Name": "Trader",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -9024,7 +9029,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2650
     },
     {
       "ID": "warmachinesarmy",
@@ -9048,7 +9053,7 @@
       "Name": "What lies behind the bush",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "worldmap",
@@ -9056,14 +9061,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2221
+      "UsersEstimate": 2223
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2847,
+      "Progressed": 2850,
       "Completed": 2
     }
   ],
@@ -9071,8 +9076,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-28T14:02:57.4349611+00:00",
-  "LastChanged_Achievements": "2023-11-30T23:09:09.2732872+00:00",
+  "LastChanged_Achievements": "2023-12-01T00:09:03.9579196+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:01.7095439+00:00",
-  "LastUpdate_Ratings": "2023-11-30T22:58:06.8504848+00:00",
-  "LastUpdate_Achievements": "2023-11-30T23:09:09.2733857+00:00"
+  "LastUpdate_Ratings": "2023-11-30T23:58:08.2148236+00:00",
+  "LastUpdate_Achievements": "2023-12-01T00:09:03.9580011+00:00"
 }

@@ -4,10 +4,10 @@
   "ProductSlug": "aven-colony",
   "Ranking_Rating": 916,
   "Ranking_Popularity": 330,
-  "Ranking_PopularitySum": 288,
+  "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 766,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewPlayers": 496,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2021-11-04T15:00:00+00:00",
@@ -1675,10 +1675,16 @@
       "Rating": 4.2,
       "NumberOfAwards": 754,
       "NumberOfAwardsMax": 130
+    },
+    {
+      "Time": "2023-12-01T00:02:56.0187413+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 755,
+      "NumberOfAwardsMax": 130
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 754,
+  "NumberOfAwards": 755,
   "NumberOfAwardsMax": 130,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1704,7 +1710,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 119
+      "Count": 120
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1748,8 +1754,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:59.6890424+00:00",
-  "LastChanged": "2023-11-27T21:03:10.1599007+00:00",
+  "LastChanged": "2023-12-01T00:02:56.0187411+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:17.8267357+00:00",
-  "LastUpdate_Ratings": "2023-11-30T23:02:52.6629848+00:00",
-  "LastUpdate_Achievements": "2023-11-30T23:04:00.0329112+00:00"
+  "LastUpdate_Ratings": "2023-12-01T00:02:56.0187416+00:00",
+  "LastUpdate_Achievements": "2023-12-01T00:04:04.6579521+00:00"
 }

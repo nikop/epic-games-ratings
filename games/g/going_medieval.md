@@ -1,7 +1,7 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 419)  
+Rating: 4.60 (Ranked 418)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,8 +10,8 @@ Number of Ratings: 706  (23.09.2022)
 | Get A Room | 75.00% | ~5,282 |
 | Reap What You Sow | 73.00% | ~5,141 |
 | The First Day | 70.00% | ~4,930 |
+| Novice Researcher | 68.00% | ~4,789 |
 | Green Thumb | 67.00% | ~4,719 |
-| Novice Researcher | 67.00% | ~4,719 |
 | Home Cooked Meal | 61.00% | ~4,296 |
 | Onward | 58.00% | ~4,085 |
 | The First Week | 55.00% | ~3,874 |

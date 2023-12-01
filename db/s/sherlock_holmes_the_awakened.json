@@ -3335,9 +3335,9 @@
       "ID": "MQ06_2",
       "SetID": "bbing49",
       "Name": "Bookworm",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 362
+      "UsersEstimate": 370
     },
     {
       "ID": "MQ06_3",
@@ -3416,8 +3416,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-11-26T10:02:59.0802972+00:00",
-  "LastChanged_Achievements": "2023-11-30T23:05:09.1973432+00:00",
+  "LastChanged_Achievements": "2023-12-01T00:05:14.3795008+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:13.2567556+00:00",
-  "LastUpdate_Ratings": "2023-11-30T23:02:49.8072278+00:00",
-  "LastUpdate_Achievements": "2023-11-30T23:05:09.1973734+00:00"
+  "LastUpdate_Ratings": "2023-12-01T00:02:53.1510357+00:00",
+  "LastUpdate_Achievements": "2023-12-01T00:05:14.37953+00:00"
 }

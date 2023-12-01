@@ -26,7 +26,7 @@
 | The Finisher | 42.00% | ~433 |
 | So Close | 40.00% | ~413 |
 | You Get Used To It | 40.00% | ~413 |
-| True Legends | 39.00% | ~402 |
+| True Legends | 40.00% | ~413 |
 | Family | 37.00% | ~382 |
 | Biggest Snowball Ever | 37.00% | ~382 |
 | Freeze The Ice Witch | 37.00% | ~382 |
