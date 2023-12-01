@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
     "PcReleaseDate": "2022-09-14T13:00:00+00:00",
@@ -246,9 +246,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 22950,
+  "EOS_Progressed": 22952,
   "EOS_Completed": 126,
-  "EOS_NewPlayers": 1369,
+  "EOS_NewPlayers": 1367,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -5236,6 +5236,11 @@
       "Time": "2023-12-01T08:09:32.1645446+00:00",
       "NumProgressed": 22950,
       "NumCompleted": 126
+    },
+    {
+      "Time": "2023-12-01T09:10:24.8119914+00:00",
+      "NumProgressed": 22952,
+      "NumCompleted": 126
     }
   ],
   "TotalAchievements": 24,
@@ -5359,7 +5364,7 @@
       "Name": "Master Room",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "ACH_S8MaxPoints",
@@ -5399,7 +5404,7 @@
       "Name": "Sector 4",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 3442
+      "UsersEstimate": 3443
     },
     {
       "ID": "ACH_Sector5",
@@ -5438,7 +5443,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 22950,
+      "Progressed": 22952,
       "Completed": 126
     }
   ],
@@ -5446,8 +5451,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-11-30T20:02:42.1739763+00:00",
-  "LastChanged_Achievements": "2023-12-01T08:09:32.1645442+00:00",
+  "LastChanged_Achievements": "2023-12-01T09:10:24.811991+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:26.0801256+00:00",
-  "LastUpdate_Ratings": "2023-12-01T08:02:42.5578074+00:00",
-  "LastUpdate_Achievements": "2023-12-01T08:09:32.1645937+00:00"
+  "LastUpdate_Ratings": "2023-12-01T09:02:53.4517654+00:00",
+  "LastUpdate_Achievements": "2023-12-01T09:10:24.8120344+00:00"
 }

@@ -5,41 +5,41 @@ Rating: 4.50 (Ranked 594)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~8,952 |
-| For Saw Gerrera | 98.00% | ~8,861 |
-| Grab Some Seat | 91.00% | ~8,228 |
-| Can You Pet the Bogling? | 87.00% | ~7,867 |
-| The Past Made Present | 83.00% | ~7,505 |
-| Survivors, We Adapt | 79.00% | ~7,143 |
-| Among the Masters | 78.00% | ~7,053 |
-| They Never Saw It Coming | 77.00% | ~6,962 |
-| Who Gives a Puck | 74.00% | ~6,691 |
-| For the Path | 66.00% | ~5,968 |
-| Now, This Isn't Podracing | 65.00% | ~5,877 |
-| Mirror Match | 64.00% | ~5,787 |
-| Skywalker | 62.00% | ~5,606 |
-| Out of Bedlam | 62.00% | ~5,606 |
-| Cleaning Up | 54.00% | ~4,883 |
-| Tanalorr Bound | 54.00% | ~4,883 |
-| Kitted Out | 53.00% | ~4,792 |
-| Tragedy | 52.00% | ~4,702 |
-| At the Precipice | 50.00% | ~4,521 |
-| Hey, Luke At Us | 50.00% | ~4,521 |
-| Into the Abyss | 48.00% | ~4,340 |
-| Riposte | 47.00% | ~4,250 |
-| A Place You Could Call Home | 46.00% | ~4,159 |
-| Greezy Money | 45.00% | ~4,069 |
-| Catch! | 41.00% | ~3,707 |
-| They're Probably Fine | 40.00% | ~3,617 |
-| Han Slowlo | 38.00% | ~3,436 |
-| There Is No Try | 38.00% | ~3,436 |
-| The Jedi Path | 33.00% | ~2,984 |
-| This Is Canon | 29.00% | ~2,622 |
-| It's a Trap | 27.00% | ~2,441 |
+| Rooftop Duel | 99.00% | ~8,955 |
+| For Saw Gerrera | 98.00% | ~8,864 |
+| Grab Some Seat | 91.00% | ~8,231 |
+| Can You Pet the Bogling? | 87.00% | ~7,869 |
+| The Past Made Present | 83.00% | ~7,507 |
+| Survivors, We Adapt | 79.00% | ~7,146 |
+| Among the Masters | 78.00% | ~7,055 |
+| They Never Saw It Coming | 77.00% | ~6,965 |
+| Who Gives a Puck | 74.00% | ~6,693 |
+| For the Path | 66.00% | ~5,970 |
+| Now, This Isn't Podracing | 65.00% | ~5,879 |
+| Mirror Match | 64.00% | ~5,789 |
+| Skywalker | 62.00% | ~5,608 |
+| Out of Bedlam | 62.00% | ~5,608 |
+| Cleaning Up | 54.00% | ~4,884 |
+| Tanalorr Bound | 54.00% | ~4,884 |
+| Kitted Out | 53.00% | ~4,794 |
+| Tragedy | 52.00% | ~4,703 |
+| At the Precipice | 50.00% | ~4,522 |
+| Hey, Luke At Us | 50.00% | ~4,522 |
+| Into the Abyss | 48.00% | ~4,342 |
+| Riposte | 47.00% | ~4,251 |
+| A Place You Could Call Home | 46.00% | ~4,161 |
+| Greezy Money | 45.00% | ~4,070 |
+| Catch! | 41.00% | ~3,708 |
+| They're Probably Fine | 40.00% | ~3,618 |
+| Han Slowlo | 38.00% | ~3,437 |
+| There Is No Try | 38.00% | ~3,437 |
+| The Jedi Path | 33.00% | ~2,985 |
+| This Is Canon | 29.00% | ~2,623 |
+| It's a Trap | 27.00% | ~2,442 |
 | You've Got A Friend | 23.00% | ~2,080 |
-| King of the World | 17.00% | ~1,537 |
-| Max Capacity | 15.00% | ~1,356 |
-| Reconnaissance | 15.00% | ~1,356 |
+| King of the World | 17.00% | ~1,538 |
+| Max Capacity | 15.00% | ~1,357 |
+| Reconnaissance | 15.00% | ~1,357 |
 | A Presence I've Not Felt Since... | 14.00% | ~1,266 |
 | Slam Dunk | 12.00% | ~1,085 |
 | Star Tours | 11.00% | ~995 |
@@ -59,7 +59,7 @@ Rating: 4.50 (Ranked 594)
 | Blood, Sweat, and Tears | 3.00% | ~271 |
 | Pinpoint | 2.00% | ~181 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,042 (Ranked 170)  
+Progressed: 9,045 (Ranked 170)  
 Completed: 54 (0.60%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,14 +135,14 @@ Completed: 54 (0.60%) (Ranked 191)
 | 2023-11-28 | 8,927 | 53 |
 | 2023-11-29 | 8,964 | 54 |
 | 2023-11-30 | 9,024 | 54 |
-| 2023-12-01 | 9,042 | 54 |
+| 2023-12-01 | 9,045 | 54 |
 ## Awards
-Max (Great Boss Battles): 3,359  (Ranked 96)  
-Sum: 5,217 (Ranked 138)  
-Diff (max vs sum): -42  
+Max (Great Boss Battles): 3,372  (Ranked 95)  
+Sum: 5,230 (Ranked 138)  
+Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 3,359 |
+| This game has Great Boss Battles | 3,372 |
 | This game has Amazing Storytelling | 236 |
 | This game has Quickly Understood Controls | 224 |
 | This game has Amazing Characters | 222 |
@@ -370,3 +370,4 @@ Diff (max vs sum): -42
 | 2023-11-28 | 4.50 | 3,343 | 5,188 |
 | 2023-11-29 | 4.50 | 3,349 | 5,198 |
 | 2023-11-30 | 4.50 | 3,359 | 5,217 |
+| 2023-12-01 | 4.50 | 3,372 | 5,230 |

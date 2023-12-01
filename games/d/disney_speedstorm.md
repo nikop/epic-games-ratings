@@ -5,33 +5,33 @@ Rating: 4.40 (Ranked 740)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 11.00% | ~35,055 |
-| IT MAKES BOOM! | 7.00% | ~22,308 |
-| EXTRA BOOST | 5.00% | ~15,934 |
-| PROTECTED | 4.00% | ~12,747 |
-| PRO | 4.00% | ~12,747 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,561 |
-| AGGRESSIVE RACER | 3.00% | ~9,561 |
+| ROOKIE | 11.00% | ~35,060 |
+| IT MAKES BOOM! | 7.00% | ~22,311 |
+| EXTRA BOOST | 5.00% | ~15,936 |
+| PROTECTED | 4.00% | ~12,749 |
+| PRO | 4.00% | ~12,749 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,562 |
+| AGGRESSIVE RACER | 3.00% | ~9,562 |
 | A TIGER'S FEAR | 2.00% | ~6,374 |
 | IT'S A LONG WAY TO THE TOP | 1.00% | ~3,187 |
 | ACE SPEEDSTER | 1.00% | ~3,187 |
 | MASTER | 1.00% | ~3,187 |
-| TRAINING HARD | 0.90% | ~2,868 |
-| RELEASE THE KRAKEN | 0.90% | ~2,868 |
-| BE OUR GUEST | 0.90% | ~2,868 |
-| FRIENDLY | 0.90% | ~2,868 |
-| LEGENDARY HERO | 0.90% | ~2,868 |
-| DEFEAT OUR CHAMPION | 0.80% | ~2,549 |
+| TRAINING HARD | 0.90% | ~2,869 |
+| RELEASE THE KRAKEN | 0.90% | ~2,869 |
+| BE OUR GUEST | 0.90% | ~2,869 |
+| FRIENDLY | 0.90% | ~2,869 |
+| LEGENDARY HERO | 0.90% | ~2,869 |
+| DEFEAT OUR CHAMPION | 0.80% | ~2,550 |
 | THE EYE OF THE HUNTER | 0.70% | ~2,231 |
 | EXPERIENCED CREW | 0.60% | ~1,912 |
-| ACE DEFENDER | 0.50% | ~1,593 |
+| ACE DEFENDER | 0.50% | ~1,594 |
 | ACE BRAWLER | 0.40% | ~1,275 |
 | ACE TRICKSTER | 0.40% | ~1,275 |
 | PERFECTLY POISED | 0.30% | ~956 |
 | FRAMED! | 0.30% | ~956 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 318,685 (Ranked 52)  
-Completed: 401 (0.13%) (Ranked 272)  
+Progressed: 318,725 (Ranked 52)  
+Completed: 402 (0.13%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -251,7 +251,7 @@ Completed: 401 (0.13%) (Ranked 272)
 | 2023-11-28 | 315,946 | 344 |
 | 2023-11-29 | 316,923 | 349 |
 | 2023-11-30 | 317,989 | 390 |
-| 2023-12-01 | 318,685 | 401 |
+| 2023-12-01 | 318,725 | 402 |
 ## Awards
 Max (Great for Beginners): 96  (Ranked 369)  
 Sum: 700 (Ranked 297)  

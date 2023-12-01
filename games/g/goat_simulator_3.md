@@ -5,13 +5,13 @@ Rating: 4.84 (Ranked 50)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~229,865 |
-| Private Club | 74.00% | ~186,923 |
-| Rogue Guild | 65.00% | ~164,189 |
-| I Watched the Intro | 57.00% | ~143,981 |
-| Covert Consortium | 55.00% | ~138,929 |
-| Goat Queen | 53.00% | ~133,877 |
-| Reach the Stratosphere | 51.00% | ~128,825 |
+| Forgotten Sorority | 91.00% | ~229,867 |
+| Private Club | 74.00% | ~186,925 |
+| Rogue Guild | 65.00% | ~164,191 |
+| I Watched the Intro | 57.00% | ~143,983 |
+| Covert Consortium | 55.00% | ~138,931 |
+| Goat Queen | 53.00% | ~133,879 |
+| Reach the Stratosphere | 51.00% | ~128,827 |
 | Synchronization Complete | 47.00% | ~118,722 |
 | Secret Society | 45.00% | ~113,670 |
 | Shadow Syndicate | 38.00% | ~95,988 |
@@ -33,8 +33,8 @@ Rating: 4.84 (Ranked 50)
 | A Center for Ants? | 8.00% | ~20,208 |
 | French Fika | 7.00% | ~17,682 |
 | Nasty! | 5.00% | ~12,630 |
-| [REDACTED] | 5.00% | ~12,630 |
 | Who Baywatches the Baywatch? | 4.00% | ~10,104 |
+| [REDACTED] | 4.00% | ~10,104 |
 | Cannibanana | 2.00% | ~5,052 |
 | Daredevil | 2.00% | ~5,052 |
 | Crocsquatch | 1.00% | ~2,526 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 50)
 | Move! That! Bus! | 0.60% | ~1,516 |
 | G.O.A.T | 0.40% | ~1,010 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,599 (Ranked 60)  
+Progressed: 252,601 (Ranked 60)  
 Completed: 894 (0.35%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 894 (0.35%) (Ranked 229)
 | 2023-11-28 | 252,430 | 892 |
 | 2023-11-29 | 252,513 | 893 |
 | 2023-11-30 | 252,581 | 893 |
-| 2023-12-01 | 252,599 | 894 |
+| 2023-12-01 | 252,601 | 894 |
 ## Awards
 Max (Great for Beginners): 474  (Ranked 216)  
 Sum: 3,943 (Ranked 157)  

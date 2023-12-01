@@ -35,8 +35,8 @@ Rating: 4.54 (Ranked 528)
 | This is My Weapon | 1.00% | ~7,283 |
 | Making Your Mark | 0.90% | ~6,555 |
 | Max Headroom | 0.90% | ~6,555 |
-| Humanity Distilled | 0.80% | ~5,826 |
-| Down with the Sickness | 0.80% | ~5,826 |
+| Humanity Distilled | 0.80% | ~5,827 |
+| Down with the Sickness | 0.80% | ~5,827 |
 | Not Even My Final Form | 0.70% | ~5,098 |
 | Jumbo Keyring | 0.70% | ~5,098 |
 | Go, Bobcats! | 0.70% | ~5,098 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 528)
 | Bucket List | 0.10% | ~728 |
 | Wilhelm | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,310 (Ranked 21)  
+Progressed: 728,320 (Ranked 21)  
 Completed: 2,457 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 2,457 (0.34%) (Ranked 231)
 | 2023-11-28 | 727,374 | 2,447 |
 | 2023-11-29 | 727,809 | 2,450 |
 | 2023-11-30 | 728,231 | 2,456 |
-| 2023-12-01 | 728,310 | 2,457 |
+| 2023-12-01 | 728,320 | 2,457 |
 ## Awards
 Max (Great Boss Battles): 7,821  (Ranked 49)  
 Sum: 11,998 (Ranked 84)  

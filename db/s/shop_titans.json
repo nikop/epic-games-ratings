@@ -7321,9 +7321,9 @@
       "Count": 3789
     }
   ],
-  "EOS_Progressed": 143127,
+  "EOS_Progressed": 143137,
   "EOS_Completed": 290,
-  "EOS_NewPlayers": 1779,
+  "EOS_NewPlayers": 1783,
   "EOS_NewCompleters": 88,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -30601,6 +30601,11 @@
       "Time": "2023-12-01T08:05:04.4187591+00:00",
       "NumProgressed": 143127,
       "NumCompleted": 290
+    },
+    {
+      "Time": "2023-12-01T09:06:16.4139318+00:00",
+      "NumProgressed": 143137,
+      "NumCompleted": 290
     }
   ],
   "TotalAchievements": 112,
@@ -30780,7 +30785,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10019
+      "UsersEstimate": 10020
     },
     {
       "ID": "chest02",
@@ -30876,7 +30881,7 @@
       "Name": "Disintermediation",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7156
+      "UsersEstimate": 7157
     },
     {
       "ID": "craft02",
@@ -31507,15 +31512,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 143127,
+      "Progressed": 143137,
       "Completed": 290
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-01T03:02:39.3799958+00:00",
-  "LastChanged_Achievements": "2023-12-01T08:05:04.4187586+00:00",
+  "LastChanged_Achievements": "2023-12-01T09:06:16.4139312+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-12-01T08:02:59.7027905+00:00",
-  "LastUpdate_Achievements": "2023-12-01T08:05:04.4189403+00:00"
+  "LastUpdate_Ratings": "2023-12-01T09:03:15.196724+00:00",
+  "LastUpdate_Achievements": "2023-12-01T09:06:16.4141191+00:00"
 }

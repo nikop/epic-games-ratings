@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 791,
+  "EOS_Progressed": 792,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 291,
+  "EOS_NewPlayers": 290,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1627,6 +1627,11 @@
       "Time": "2023-12-01T08:04:57.6557906+00:00",
       "NumProgressed": 791,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-01T09:06:07.7017538+00:00",
+      "NumProgressed": 792,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1695,7 +1700,7 @@
       "Name": "Pathfinder",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "CompleteChapter10",
@@ -1735,7 +1740,7 @@
       "Name": "For Harkanibus!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "CompleteChapter15",
@@ -1743,7 +1748,7 @@
       "Name": "The Great Scheme",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "CompleteChapter16",
@@ -1791,7 +1796,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "CompleteChapter4",
@@ -1799,7 +1804,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "CompleteChapter5",
@@ -1815,7 +1820,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "CompleteChapter7",
@@ -1823,7 +1828,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "CompleteChapter8",
@@ -1837,9 +1842,9 @@
       "ID": "CompleteChapter9",
       "SetID": "52ail55",
       "Name": "Ingredients List",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 87
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -1885,9 +1890,9 @@
       "ID": "Defeat250Units",
       "SetID": "52ail55",
       "Name": "Feeding Shyish",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 285
+      "UsersEstimate": 277
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1934,14 +1939,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 791,
+      "Progressed": 792,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-01T08:04:57.6557899+00:00",
-  "LastUpdate_AppInfo": "2023-11-24T07:57:16.8638185+00:00",
-  "LastUpdate_Ratings": "2023-12-01T07:58:18.8136141+00:00",
-  "LastUpdate_Achievements": "2023-12-01T08:04:57.6558282+00:00"
+  "LastChanged_Achievements": "2023-12-01T09:06:07.7017532+00:00",
+  "LastUpdate_AppInfo": "2023-12-01T08:57:09.4303292+00:00",
+  "LastUpdate_Ratings": "2023-12-01T08:58:48.2149417+00:00",
+  "LastUpdate_Achievements": "2023-12-01T09:06:07.7017811+00:00"
 }

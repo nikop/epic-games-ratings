@@ -13220,9 +13220,9 @@
       "Count": 27382
     }
   ],
-  "EOS_Progressed": 1057253,
+  "EOS_Progressed": 1057326,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 16722,
+  "EOS_NewPlayers": 16751,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39040,6 +39040,11 @@
       "Time": "2023-12-01T08:09:46.0746309+00:00",
       "NumProgressed": 1057253,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-01T09:10:41.3167549+00:00",
+      "NumProgressed": 1057326,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 232,
@@ -39227,7 +39232,7 @@
       "Name": "It wakes",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 5286
+      "UsersEstimate": 5287
     },
     {
       "ID": "ACH_024",
@@ -39355,15 +39360,15 @@
       "Name": "Skillful",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 5286
+      "UsersEstimate": 5287
     },
     {
       "ID": "ACH_040",
       "SetID": "bdmlp8o",
       "Name": "I",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3172
+      "UsersEstimate": 4229
     },
     {
       "ID": "ACH_041",
@@ -40906,21 +40911,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1057253,
+      "Progressed": 1057326,
       "Completed": 66
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1057253,
+      "Progressed": 1057326,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-11-30T22:59:32.3488698+00:00",
-  "LastChanged_Achievements": "2023-12-01T08:09:46.0746303+00:00",
+  "LastChanged_Achievements": "2023-12-01T09:10:41.3167544+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:00.7078103+00:00",
-  "LastUpdate_Ratings": "2023-12-01T07:59:59.0742807+00:00",
-  "LastUpdate_Achievements": "2023-12-01T08:09:46.0752658+00:00"
+  "LastUpdate_Ratings": "2023-12-01T09:01:00.8900383+00:00",
+  "LastUpdate_Achievements": "2023-12-01T09:10:41.3172816+00:00"
 }

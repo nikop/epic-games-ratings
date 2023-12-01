@@ -4,8 +4,8 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -1148,9 +1148,9 @@
       "ID": "ending_6",
       "SetID": "d4f4pll",
       "Name": "Stalemate",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 130
+      "UsersEstimate": 137
     },
     {
       "ID": "ending_7",
@@ -1253,8 +1253,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-12-01T08:08:54.6781721+00:00",
+  "LastChanged_Achievements": "2023-12-01T09:09:37.2847109+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:06.3422687+00:00",
-  "LastUpdate_Ratings": "2023-12-01T08:00:23.882413+00:00",
-  "LastUpdate_Achievements": "2023-12-01T08:08:54.6781909+00:00"
+  "LastUpdate_Ratings": "2023-12-01T09:01:33.847662+00:00",
+  "LastUpdate_Achievements": "2023-12-01T09:09:37.2847273+00:00"
 }

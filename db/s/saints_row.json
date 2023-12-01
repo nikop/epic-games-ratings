@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 98,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -4149,9 +4149,9 @@
       "Count": 1079
     }
   ],
-  "EOS_Progressed": 80809,
+  "EOS_Progressed": 80810,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 999,
+  "EOS_NewPlayers": 997,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -29649,6 +29649,11 @@
       "Time": "2023-12-01T08:09:03.6875736+00:00",
       "NumProgressed": 80809,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-12-01T09:09:48.6212261+00:00",
+      "NumProgressed": 80810,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 53,
@@ -29708,7 +29713,7 @@
       "Name": "Finders Keepers",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 21010
+      "UsersEstimate": 21011
     },
     {
       "ID": "complet_epilogue_mission",
@@ -29772,7 +29777,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 37172
+      "UsersEstimate": 37173
     },
     {
       "ID": "customize_a_vehicle",
@@ -29788,7 +29793,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 29899
+      "UsersEstimate": 29900
     },
     {
       "ID": "cutting_edge_materials",
@@ -29836,7 +29841,7 @@
       "Name": "A Young Empire",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21010
+      "UsersEstimate": 21011
     },
     {
       "ID": "empire_tier_3",
@@ -29908,7 +29913,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 29091
+      "UsersEstimate": 29092
     },
     {
       "ID": "hit_max_level",
@@ -29956,7 +29961,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 28283
+      "UsersEstimate": 28284
     },
     {
       "ID": "one_third_purple",
@@ -30012,7 +30017,7 @@
       "Name": "Food for Thought",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 21818
+      "UsersEstimate": 21819
     },
     {
       "ID": "two_thirds_purple",
@@ -30083,13 +30088,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 80809,
+      "Progressed": 80810,
       "Completed": 54
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 52446,
+      "Progressed": 52447,
       "Completed": 4409
     }
   ],
@@ -30097,8 +30102,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-12-01T05:03:13.2791486+00:00",
-  "LastChanged_Achievements": "2023-12-01T08:09:03.687573+00:00",
+  "LastChanged_Achievements": "2023-12-01T09:09:48.6212256+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:12.0685781+00:00",
-  "LastUpdate_Ratings": "2023-12-01T08:03:08.1218543+00:00",
-  "LastUpdate_Achievements": "2023-12-01T08:09:03.6877665+00:00"
+  "LastUpdate_Ratings": "2023-12-01T09:03:46.5126266+00:00",
+  "LastUpdate_Achievements": "2023-12-01T09:09:48.6213707+00:00"
 }

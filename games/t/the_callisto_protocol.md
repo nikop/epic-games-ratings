@@ -17,7 +17,7 @@ Rating: 4.19 (Ranked 927)
 | Without A Paddle | 6.00% | ~990 |
 | In the Pipe, Five by Five | 6.00% | ~990 |
 | Desperate Times | 6.00% | ~990 |
-| Keep Fighting | 6.00% | ~265 |
+| Keep Fighting | 6.00% | ~266 |
 | You Need a Gun | 5.00% | ~825 |
 | I Do Belong Here | 5.00% | ~825 |
 | If the SHU Fits... | 5.00% | ~825 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 927)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,498 (Ranked 149)  
+Progressed: 16,499 (Ranked 149)  
 Completed: 81 (0.49%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 81 (0.49%) (Ranked 208)
 | 2023-11-28 | 16,493 | 81 |
 | 2023-11-29 | 16,494 | 81 |
 | 2023-11-30 | 16,496 | 81 |
-| 2023-12-01 | 16,498 | 81 |
+| 2023-12-01 | 16,499 | 81 |
 ## Awards
 Max (Highly Recommended): 83  (Ranked 388)  
 Sum: 492 (Ranked 328)  

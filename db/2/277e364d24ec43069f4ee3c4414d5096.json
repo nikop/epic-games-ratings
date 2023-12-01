@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -359,7 +359,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 115545,
+  "EOS_Progressed": 115546,
   "EOS_Completed": 50,
   "EOS_NewPlayers": 598,
   "EOS_NewCompleters": 0,
@@ -19744,6 +19744,11 @@
       "Time": "2023-12-01T08:09:16.968261+00:00",
       "NumProgressed": 115545,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-12-01T09:10:06.0589357+00:00",
+      "NumProgressed": 115546,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -19771,7 +19776,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13865
+      "UsersEstimate": 13866
     },
     {
       "ID": "EAwards_11",
@@ -19811,7 +19816,7 @@
       "Name": "He Looks Portable",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11554
+      "UsersEstimate": 11555
     },
     {
       "ID": "EAwards_16",
@@ -19915,7 +19920,7 @@
       "Name": "One down...",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11554
+      "UsersEstimate": 11555
     },
     {
       "ID": "EAwards_28",
@@ -19955,7 +19960,7 @@
       "Name": "Luchonarrative Resonance",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11554
+      "UsersEstimate": 11555
     },
     {
       "ID": "EAwards_32",
@@ -20107,7 +20112,7 @@
       "Name": "Prickly Pair",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11554
+      "UsersEstimate": 11555
     },
     {
       "ID": "EAwards_6",
@@ -20123,7 +20128,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13865
+      "UsersEstimate": 13866
     },
     {
       "ID": "EAwards_8",
@@ -20131,7 +20136,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13865
+      "UsersEstimate": 13866
     },
     {
       "ID": "EAwards_9",
@@ -20146,7 +20151,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 115545,
+      "Progressed": 115546,
       "Completed": 50
     }
   ],
@@ -20154,8 +20159,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-01T08:09:16.9682605+00:00",
+  "LastChanged_Achievements": "2023-12-01T09:10:06.0589352+00:00",
   "LastUpdate_AppInfo": "2023-12-01T05:57:06.5040385+00:00",
-  "LastUpdate_Ratings": "2023-12-01T07:58:30.3148185+00:00",
-  "LastUpdate_Achievements": "2023-12-01T08:09:16.9683613+00:00"
+  "LastUpdate_Ratings": "2023-12-01T08:59:03.1170802+00:00",
+  "LastUpdate_Achievements": "2023-12-01T09:10:06.0590947+00:00"
 }

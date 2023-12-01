@@ -12,6 +12,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Not Touching You | 0.60% | ~12 |
 | Getting A Glimpse | 0.50% | ~1,202 |
 | A Quick Escape | 0.50% | ~1,202 |
+| An Offering | 0.50% | ~1,202 |
 | Ambitious Intent | 0.40% | ~962 |
 | Nothing To Lose | 0.40% | ~962 |
 | Heavy Hitter | 0.40% | ~962 |
@@ -31,7 +32,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Toxic | 0.40% | ~962 |
 | Explorer | 0.40% | ~962 |
 | Sneaky | 0.40% | ~962 |
-| An Offering | 0.40% | ~962 |
 | Expensive Look | 0.40% | ~8 |
 | What Doesn't Kill You | 0.40% | ~8 |
 | Consecutive Curses | 0.30% | ~721 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,456 (Ranked 63)  
+Progressed: 240,457 (Ranked 63)  
 Completed: 291 (0.12%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -370,7 +370,7 @@ Completed: 291 (0.12%) (Ranked 280)
 | 2023-11-28 | 240,354 | 291 |
 | 2023-11-29 | 240,403 | 291 |
 | 2023-11-30 | 240,445 | 291 |
-| 2023-12-01 | 240,456 | 291 |
+| 2023-12-01 | 240,457 | 291 |
 ## Awards
 Max (Great for Beginners): 1,534  (Ranked 132)  
 Sum: 13,238 (Ranked 78)  

@@ -2193,9 +2193,9 @@
       "Count": 383
     }
   ],
-  "EOS_Progressed": 55571,
+  "EOS_Progressed": 55572,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1346,
+  "EOS_NewPlayers": 1342,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10493,6 +10493,11 @@
       "Time": "2023-12-01T08:04:25.873718+00:00",
       "NumProgressed": 55571,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T09:05:28.1143392+00:00",
+      "NumProgressed": 55572,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -10529,7 +10534,7 @@
       "Name": "PlayStyles\u002B",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 35565
+      "UsersEstimate": 35566
     },
     {
       "ID": "achievement_13",
@@ -10537,7 +10542,7 @@
       "Name": "Squad Building Completionist",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 30008
+      "UsersEstimate": 30009
     },
     {
       "ID": "achievement_14",
@@ -10559,9 +10564,9 @@
       "ID": "achievement_16",
       "SetID": "3o4m6ni",
       "Name": "Defensive Masterclass",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 23340
+      "UsersEstimate": 23896
     },
     {
       "ID": "achievement_17",
@@ -10577,7 +10582,7 @@
       "Name": "Welcome to the Big Leagues!",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 26674
+      "UsersEstimate": 26675
     },
     {
       "ID": "achievement_19",
@@ -10609,7 +10614,7 @@
       "Name": "We\u0027re in the Game!",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 46124
+      "UsersEstimate": 46125
     },
     {
       "ID": "achievement_22",
@@ -10625,7 +10630,7 @@
       "Name": "Graduation Day",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 26674
+      "UsersEstimate": 26675
     },
     {
       "ID": "achievement_24",
@@ -10633,7 +10638,7 @@
       "Name": "End of the Line",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 10558
+      "UsersEstimate": 10559
     },
     {
       "ID": "achievement_25",
@@ -10665,7 +10670,7 @@
       "Name": "First of Many",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 8891
+      "UsersEstimate": 8892
     },
     {
       "ID": "achievement_29",
@@ -10801,7 +10806,7 @@
       "Name": "Intuition and Execution",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 20561
+      "UsersEstimate": 20562
     },
     {
       "ID": "achievement_8",
@@ -10824,7 +10829,7 @@
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 55571,
+      "Progressed": 55572,
       "Completed": 0
     }
   ],
@@ -10832,8 +10837,8 @@
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
   "LastChanged": "2023-12-01T06:59:58.9991182+00:00",
-  "LastChanged_Achievements": "2023-12-01T08:04:25.8737173+00:00",
+  "LastChanged_Achievements": "2023-12-01T09:05:28.1143386+00:00",
   "LastUpdate_AppInfo": "2023-12-01T05:57:07.0815744+00:00",
-  "LastUpdate_Ratings": "2023-12-01T08:00:23.0616664+00:00",
-  "LastUpdate_Achievements": "2023-12-01T08:04:25.873803+00:00"
+  "LastUpdate_Ratings": "2023-12-01T09:01:33.0264935+00:00",
+  "LastUpdate_Achievements": "2023-12-01T09:05:28.1144044+00:00"
 }
