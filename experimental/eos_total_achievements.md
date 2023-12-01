@@ -231,6 +231,7 @@
 | [60 Parsecs!](../games/6/60_parsecs!.md) | 44 | 1,000 |
 | [Aegis Descent](../games/a/aegis_descent.md) | 44 | 1,000 |
 | [Aragami 2](../games/a/aragami_2.md) | 44 | 1,000 |
+| [Destroy All Humans! 2 - Reprobed](../games/d/destroy_all_humans!_2_-_reprobed.md) | 44 | 1,000 |
 | [Flat Heroes](../games/f/flat_heroes.md) | 44 | 1,000 |
 | [High On Life](../games/h/high_on_life.md) | 44 | 1,195 |
 | [Noch](../games/7/7eaefaa491c24dfab7520e3ddd24f5ad.md) | 44 | 1,000 |
