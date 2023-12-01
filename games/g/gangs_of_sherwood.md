@@ -7,15 +7,15 @@
 | Air Fighter | 85.00% | ~34 |
 | Act of Kindness | 85.00% | ~34 |
 | Oo-De-Lally | 75.00% | ~30 |
-| The Altruist | 70.00% | ~28 |
+| The Altruist | 73.00% | ~29 |
 | Treasure Hunter | 68.00% | ~27 |
 | Watch your Step! | 57.00% | ~23 |
 | Tap Dancing | 55.00% | ~22 |
 | MAX LEVEL | 50.00% | ~20 |
-| Right between the eyes | 43.00% | ~17 |
+| Right between the eyes | 45.00% | ~18 |
 | Merry Co-operation | 38.00% | ~15 |
+| Starry Night | 35.00% | ~14 |
 | Spring Board | 35.00% | ~14 |
-| Starry Night | 33.00% | ~13 |
 | Savior | 30.00% | ~12 |
 | Rebel Unleashed | 28.00% | ~11 |
 | First Aid | 28.00% | ~11 |
@@ -30,13 +30,13 @@
 | Brilliant Executioner | 10.00% | ~4 |
 | Haute Couture | 10.00% | ~4 |
 | The Gang prevails | 8.00% | ~3 |
+| Sky High Fighter | 8.00% | ~3 |
 | Hidden Experiment | 8.00% | ~3 |
 | Into the Lion's Den | 8.00% | ~3 |
 | King of the Iron Fist | 5.00% | ~2 |
 | Bold and Bossy | 5.00% | ~2 |
 | Power of Friendship! | 5.00% | ~2 |
 | Out of the ring | 5.00% | ~2 |
-| Sky High Fighter | 5.00% | ~2 |
 | Five of Friends | 5.00% | ~2 |
 | The Crowkiller | 3.00% | ~1 |
 | A Gest of Robyn Hode | 3.00% | ~1 |

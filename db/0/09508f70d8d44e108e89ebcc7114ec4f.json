@@ -4,7 +4,7 @@
   "ProductSlug": "match-village-5f41dd",
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
@@ -1550,9 +1550,9 @@
       "ID": "fun!",
       "SetID": "ap7g2g4",
       "Name": "Fun!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 80,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "hope_farm",
@@ -1677,8 +1677,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-12-01T10:08:54.8050027+00:00",
+  "LastChanged_Achievements": "2023-12-01T11:08:37.0437406+00:00",
   "LastUpdate_AppInfo": "2023-12-01T02:57:03.7766428+00:00",
-  "LastUpdate_Ratings": "2023-12-01T09:58:03.9194167+00:00",
-  "LastUpdate_Achievements": "2023-12-01T10:08:54.8050241+00:00"
+  "LastUpdate_Ratings": "2023-12-01T10:57:55.1728709+00:00",
+  "LastUpdate_Achievements": "2023-12-01T11:08:37.0437644+00:00"
 }

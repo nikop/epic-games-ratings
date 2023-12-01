@@ -6,13 +6,13 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~49,801 |
-| Get Busy Living | 16.00% | ~31,872 |
-| Samuel Norton | 9.00% | ~17,928 |
-| Spare The Rod | 5.00% | ~9,960 |
-| Don't Put Me In The Dark | 3.00% | ~5,976 |
-| Wait and Hope | 3.00% | ~5,976 |
-| I May Have Found A Way Out Of Here | 3.00% | ~5,976 |
+| Stone Walls | 25.00% | ~49,805 |
+| Get Busy Living | 16.00% | ~31,875 |
+| Samuel Norton | 9.00% | ~17,930 |
+| Spare The Rod | 5.00% | ~9,961 |
+| Don't Put Me In The Dark | 3.00% | ~5,977 |
+| Wait and Hope | 3.00% | ~5,977 |
+| I May Have Found A Way Out Of Here | 3.00% | ~5,977 |
 | Throw The Book At Them | 2.00% | ~3,984 |
 | Iron Bars | 2.00% | ~3,984 |
 | D.B. Cooper | 1.00% | ~1,992 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~199 |
 | ... It's What You Can Prove | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 199,203 (Ranked 75)  
+Progressed: 199,219 (Ranked 75)  
 Completed: 11 (0.01%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,15 +248,15 @@ Completed: 11 (0.01%) (Ranked 343)
 | 2023-11-28 | 198,598 | 11 |
 | 2023-11-29 | 198,863 | 11 |
 | 2023-11-30 | 199,124 | 11 |
-| 2023-12-01 | 199,203 | 11 |
+| 2023-12-01 | 199,219 | 11 |
 ## Awards
 Max (Great for Beginners): 585  (Ranked 199)  
-Sum: 4,507 (Ranked 146)  
+Sum: 4,508 (Ranked 146)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 585 |
-| This game is Extremely Fun | 573 |
+| This game is Extremely Fun | 574 |
 | This game is Highly Recommended | 535 |
 | This game has Quickly Understood Controls | 530 |
 | This game is Relaxing | 521 |
@@ -581,4 +581,4 @@ Diff (max vs sum): 53
 | 2023-11-28 | 4.61 | - | 583 | 4,488 |
 | 2023-11-29 | 4.61 | - | 583 | 4,498 |
 | 2023-11-30 | 4.61 | - | 585 | 4,503 |
-| 2023-12-01 | 4.61 | - | 585 | 4,507 |
+| 2023-12-01 | 4.61 | - | 585 | 4,508 |

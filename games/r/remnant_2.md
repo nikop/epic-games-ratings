@@ -9,14 +9,14 @@ Rating: 4.75 (Ranked 150)
 | Regicide | 0.70% | ~76 |
 | Master of the Dark Arts | 0.70% | ~76 |
 | First of Many | 0.60% | ~1,390 |
-| Not Your Average Trait | 0.50% | ~1,158 |
+| Not Your Average Trait | 0.50% | ~1,159 |
 | Expanding Horizons | 0.40% | ~927 |
 | Gleaming the Cube | 0.40% | ~927 |
+| Not So Special Now | 0.40% | ~927 |
 | Quest for Survival | 0.40% | ~927 |
 | Familiar Face | 0.40% | ~927 |
 | Boss'n Up | 0.40% | ~927 |
 | Am I Seeing This? | 0.30% | ~695 |
-| Not So Special Now | 0.30% | ~695 |
 | Not a Janitor | 0.30% | ~695 |
 | Equal Measures | 0.30% | ~695 |
 | Blue Goddess | 0.30% | ~695 |
@@ -42,6 +42,7 @@ Rating: 4.75 (Ranked 150)
 | Bad Moon Rising | 0.20% | ~463 |
 | Strapped | 0.20% | ~463 |
 | Edgelord | 0.20% | ~463 |
+| Cutting Edge | 0.20% | ~463 |
 | The Web | 0.20% | ~463 |
 | Scrap Collector | 0.20% | ~463 |
 | Scrap Hoarder | 0.20% | ~463 |
@@ -55,13 +56,12 @@ Rating: 4.75 (Ranked 150)
 | Only Human | 0.10% | ~232 |
 | Red Room | 0.10% | ~232 |
 | The Trigger | 0.10% | ~232 |
-| Cutting Edge | 0.10% | ~232 |
 | The Collector | 0.10% | ~232 |
 | Proving Grounds | 0.10% | ~232 |
 | Maxed Out! | 0.10% | ~232 |
 | A Foul Feast | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,692 (Ranked 69)  
+Progressed: 231,732 (Ranked 69)  
 Completed: 544 (0.23%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 544 (0.23%) (Ranked 250)
 | 2023-11-28 | 230,188 | 541 |
 | 2023-11-29 | 230,694 | 542 |
 | 2023-11-30 | 231,406 | 542 |
-| 2023-12-01 | 231,692 | 544 |
+| 2023-12-01 | 231,732 | 544 |
 ## Awards
 Max (Great Boss Battles): 2,533  (Ranked 102)  
 Sum: 6,221 (Ranked 129)  

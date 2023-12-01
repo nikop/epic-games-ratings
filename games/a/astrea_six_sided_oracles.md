@@ -36,9 +36,9 @@
 | Wave Bender | 9.00% | ~9 |
 | Apian Hero | 9.00% | ~9 |
 | Anomaly Control | 8.00% | ~8 |
+| Can't touch this | 8.00% | ~8 |
 | Lacertian Hero | 8.00% | ~8 |
 | Artificer | 7.00% | ~7 |
-| Can't touch this | 7.00% | ~7 |
 | The Chaos Artisan | 7.00% | ~7 |
 | The Dark Moon | 7.00% | ~7 |
 | The Distorted Sage | 7.00% | ~7 |

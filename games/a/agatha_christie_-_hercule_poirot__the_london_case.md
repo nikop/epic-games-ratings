@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 75.00% | ~27 |
-| Little ideas | 72.00% | ~26 |
-| The Ship | 69.00% | ~25 |
-| Seeking the truth | 61.00% | ~22 |
-| An old friend | 58.00% | ~21 |
-| The Gala | 56.00% | ~20 |
-| A curious gathering | 56.00% | ~20 |
-| Little grey cells | 53.00% | ~19 |
-| Impossible is possible | 53.00% | ~19 |
-| The Missing Magdalene | 53.00% | ~19 |
-| Arthur Hastings | 53.00% | ~19 |
-| Everything matters | 44.00% | ~16 |
-| DI Hardwicke | 44.00% | ~16 |
-| Order and method | 42.00% | ~15 |
-| An expert mediator | 42.00% | ~15 |
-| Betty Allen | 39.00% | ~14 |
-| The Investigation Begins | 39.00% | ~14 |
-| An odd series of events | 33.00% | ~12 |
-| Ms. Camilla B. Culsham | 33.00% | ~12 |
-| Irene Court-Smyth | 33.00% | ~12 |
-| The Apartment | 33.00% | ~12 |
-| A rude awakening | 28.00% | ~10 |
-| Nathaniel Dryden | 28.00% | ~10 |
-| Well-acquainted | 25.00% | ~9 |
-| Anastasia Babanin | 25.00% | ~9 |
-| Zakariya Demir | 25.00% | ~9 |
-| Bartholomew | 25.00% | ~9 |
-| The Scheme | 25.00% | ~9 |
+| Marc Allard | 73.00% | ~27 |
+| Little ideas | 70.00% | ~26 |
+| The Ship | 68.00% | ~25 |
+| Seeking the truth | 59.00% | ~22 |
+| An old friend | 57.00% | ~21 |
+| The Gala | 54.00% | ~20 |
+| A curious gathering | 54.00% | ~20 |
+| Little grey cells | 51.00% | ~19 |
+| Impossible is possible | 51.00% | ~19 |
+| The Missing Magdalene | 51.00% | ~19 |
+| Arthur Hastings | 51.00% | ~19 |
+| Everything matters | 43.00% | ~16 |
+| DI Hardwicke | 43.00% | ~16 |
+| Order and method | 41.00% | ~15 |
+| An expert mediator | 41.00% | ~15 |
+| Betty Allen | 38.00% | ~14 |
+| The Investigation Begins | 38.00% | ~14 |
+| An odd series of events | 32.00% | ~12 |
+| Ms. Camilla B. Culsham | 32.00% | ~12 |
+| Irene Court-Smyth | 32.00% | ~12 |
+| The Apartment | 32.00% | ~12 |
+| A rude awakening | 27.00% | ~10 |
+| Nathaniel Dryden | 27.00% | ~10 |
+| Well-acquainted | 24.00% | ~9 |
+| Anastasia Babanin | 24.00% | ~9 |
+| Zakariya Demir | 24.00% | ~9 |
+| Bartholomew | 24.00% | ~9 |
+| The Scheme | 24.00% | ~9 |
 | Truth from within | 22.00% | ~8 |
 | A curious phrase | 19.00% | ~7 |
-| Evelyn Lakshmi Warbeck | 17.00% | ~6 |
-| The Suspects | 17.00% | ~6 |
+| Evelyn Lakshmi Warbeck | 16.00% | ~6 |
+| The Suspects | 16.00% | ~6 |
 | Well-travelled | 14.00% | ~5 |
 | A peculiar fellow | 14.00% | ~5 |
 | Florence Farquhar | 14.00% | ~5 |
@@ -51,8 +51,8 @@
 | A perilous journey | 8.00% | ~3 |
 | Perkins | 8.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36 (Ranked 523)  
-Completed: 1 (2.78%) (Ranked 111)  
+Progressed: 37 (Ranked 520)  
+Completed: 1 (2.70%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -87,3 +87,4 @@ Completed: 1 (2.78%) (Ranked 111)
 | 2023-11-26 | 34 | 1 |
 | 2023-11-28 | 35 | 1 |
 | 2023-11-29 | 36 | 1 |
+| 2023-12-01 | 37 | 1 |

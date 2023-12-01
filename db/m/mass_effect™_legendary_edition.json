@@ -4580,9 +4580,9 @@
       "ID": "achievement_29",
       "SetID": "b9pe172",
       "Name": "Asari Ally",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 675
+      "UsersEstimate": 689
     },
     {
       "ID": "achievement_3",
@@ -5216,8 +5216,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-01T10:09:06.8466012+00:00",
+  "LastChanged_Achievements": "2023-12-01T11:08:50.358866+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:10.3433357+00:00",
-  "LastUpdate_Ratings": "2023-12-01T10:03:05.5838049+00:00",
-  "LastUpdate_Achievements": "2023-12-01T10:09:06.8467586+00:00"
+  "LastUpdate_Ratings": "2023-12-01T11:02:58.281683+00:00",
+  "LastUpdate_Achievements": "2023-12-01T11:08:50.3590327+00:00"
 }

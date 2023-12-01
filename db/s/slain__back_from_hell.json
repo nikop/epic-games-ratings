@@ -238,9 +238,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 41262,
+  "EOS_Progressed": 41264,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 383,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -24738,6 +24738,11 @@
       "Time": "2023-12-01T09:07:37.6790855+00:00",
       "NumProgressed": 41262,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-12-01T11:06:06.6360187+00:00",
+      "NumProgressed": 41264,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -24749,7 +24754,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6189
+      "UsersEstimate": 6190
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -24763,9 +24768,9 @@
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
       "SetID": "443p4o4",
       "Name": "Start As You Mean To Go On",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 289
     },
     {
       "ID": "ACH_05_DEFEATED_THORN_BEAST",
@@ -24893,7 +24898,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -24980,7 +24985,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 41262,
+      "Progressed": 41264,
       "Completed": 26
     }
   ],
@@ -24988,8 +24993,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-12-01T10:05:51.2152546+00:00",
+  "LastChanged_Achievements": "2023-12-01T11:06:06.6360184+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:57.6169847+00:00",
-  "LastUpdate_Ratings": "2023-12-01T10:00:11.8455907+00:00",
-  "LastUpdate_Achievements": "2023-12-01T10:05:51.2154045+00:00"
+  "LastUpdate_Ratings": "2023-12-01T11:00:20.6566443+00:00",
+  "LastUpdate_Achievements": "2023-12-01T11:06:06.6361956+00:00"
 }

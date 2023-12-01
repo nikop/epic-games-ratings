@@ -402,9 +402,9 @@
       "ID": "ach_13_supplyBig10",
       "SetID": "16n29hg",
       "Name": "Treasure Hunter",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_14_squeezeDeath",
@@ -450,9 +450,9 @@
       "ID": "ach_19_dogDeath3",
       "SetID": "16n29hg",
       "Name": "Beware of Attack Dog",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ach_20_elec10",
@@ -554,9 +554,9 @@
       "ID": "ach_33_useTpToilet",
       "SetID": "16n29hg",
       "Name": "Smells Interesting",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_34_perfectJump",
@@ -745,8 +745,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-12-01T10:04:28.9003726+00:00",
+  "LastChanged_Achievements": "2023-12-01T11:04:34.6777567+00:00",
   "LastUpdate_AppInfo": "2023-11-29T20:57:25.545137+00:00",
-  "LastUpdate_Ratings": "2023-12-01T10:02:37.6873662+00:00",
-  "LastUpdate_Achievements": "2023-12-01T10:04:28.9004238+00:00"
+  "LastUpdate_Ratings": "2023-12-01T11:00:48.1780701+00:00",
+  "LastUpdate_Achievements": "2023-12-01T11:04:34.6777907+00:00"
 }

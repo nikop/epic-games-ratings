@@ -1,7 +1,7 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.20 (Ranked 915)  
+Rating: 4.21 (Ranked 908)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,8 +11,8 @@ Rating: 4.20 (Ranked 915)
 | Let's raise the stakes!! | 0.80% | ~2,574 |
 | Rumors are true | 0.60% | ~1,930 |
 | Your wounds… They are healing so fast! | 0.60% | ~1,930 |
-| We'll be careful | 0.50% | ~1,608 |
-| Pride is a sin, young Knight | 0.50% | ~1,608 |
+| We'll be careful | 0.50% | ~1,609 |
+| Pride is a sin, young Knight | 0.50% | ~1,609 |
 | Back to your senses | 0.40% | ~1,287 |
 | They won't last long | 0.40% | ~1,287 |
 | Bring it on! | 0.40% | ~1,287 |
@@ -46,7 +46,7 @@ Rating: 4.20 (Ranked 915)
 | They wanted yet another monster… | 0.00% | ~0 |
 | Something... unnatural | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 321,693 (Ranked 51)  
+Progressed: 321,716 (Ranked 51)  
 Completed: 4 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 4 (0.00%) (Ranked 363)
 | 2023-11-28 | 320,512 | 4 |
 | 2023-11-29 | 321,010 | 4 |
 | 2023-11-30 | 321,497 | 4 |
-| 2023-12-01 | 321,693 | 4 |
+| 2023-12-01 | 321,716 | 4 |
 ## Awards
 Max (Great Boss Battles): 63  (Ranked 412)  
 Sum: 63 (Ranked 476)  
@@ -163,3 +163,4 @@ Diff (max vs sum): -64
 | 2023-11-23 | 4.20 | 61 | 61 |
 | 2023-11-24 | 4.21 | 63 | 63 |
 | 2023-11-28 | 4.20 | 63 | 63 |
+| 2023-12-01 | 4.21 | 63 | 63 |

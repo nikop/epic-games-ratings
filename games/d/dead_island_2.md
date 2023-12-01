@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,616 |
+| Whatever It Takes | 3.00% | ~1,617 |
 | Git Gutte! | 2.00% | ~14,567 |
 | Break A Leg | 2.00% | ~14,567 |
 | Coup de Grâce | 2.00% | ~14,567 |
@@ -13,8 +13,8 @@ Rating: 4.54 (Ranked 528)
 | Hotel California | 2.00% | ~14,567 |
 | Personal Assistant Personally Assisted | 2.00% | ~14,567 |
 | Welcome To Hell-A | 2.00% | ~14,567 |
-| One of Us | 2.00% | ~1,077 |
-| Pork Chopped | 2.00% | ~1,077 |
+| One of Us | 2.00% | ~1,078 |
+| Pork Chopped | 2.00% | ~1,078 |
 | Dr. Reed, I Presume? | 1.00% | ~7,283 |
 | Anger Management | 1.00% | ~7,283 |
 | Perks of the Job | 1.00% | ~7,283 |
@@ -48,7 +48,7 @@ Rating: 4.54 (Ranked 528)
 | Variety is the Spice of Death | 0.50% | ~3,642 |
 | LA Influential | 0.40% | ~2,913 |
 | Gore Horse | 0.40% | ~2,913 |
-| Top That, Tisha! | 0.40% | ~215 |
+| Top That, Tisha! | 0.40% | ~216 |
 | Sole Survivor | 0.30% | ~2,185 |
 | Sharpest Tool in the Box | 0.30% | ~2,185 |
 | Survival Skills | 0.20% | ~1,457 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 528)
 | Bucket List | 0.10% | ~728 |
 | Wilhelm | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,331 (Ranked 21)  
-Completed: 2,457 (0.34%) (Ranked 231)  
+Progressed: 728,344 (Ranked 21)  
+Completed: 2,458 (0.34%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -282,7 +282,7 @@ Completed: 2,457 (0.34%) (Ranked 231)
 | 2023-11-28 | 727,374 | 2,447 |
 | 2023-11-29 | 727,809 | 2,450 |
 | 2023-11-30 | 728,231 | 2,456 |
-| 2023-12-01 | 728,331 | 2,457 |
+| 2023-12-01 | 728,344 | 2,458 |
 ## Awards
 Max (Great Boss Battles): 7,845  (Ranked 49)  
 Sum: 12,022 (Ranked 83)  

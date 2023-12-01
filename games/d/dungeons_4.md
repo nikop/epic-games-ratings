@@ -8,11 +8,11 @@
 | Thalya – Simply Immortal | 88.00% | ~445 |
 | For the Horde! | 81.00% | ~410 |
 | Hammer Time, Round Two | 80.00% | ~405 |
-| The Hellwoods | 74.00% | ~374 |
+| The Hellwoods | 75.00% | ~380 |
 | The Plains of Strothalm | 70.00% | ~354 |
 | Experienced Thalya | 70.00% | ~354 |
 | Thalya's Concentrated Fury | 67.00% | ~339 |
-| Bad Elves Go Everywhere | 66.00% | ~334 |
+| Bad Elves Go Everywhere | 67.00% | ~339 |
 | Master of Magic | 63.00% | ~319 |
 | Heroes’ Gorge | 61.00% | ~309 |
 | Unicorn steaks – fresh off the hoof! | 60.00% | ~304 |
@@ -35,9 +35,9 @@
 | All’s Well That Ends Evil | 28.00% | ~142 |
 | Master of the Undead | 25.00% | ~126 |
 | The Duel | 25.00% | ~126 |
+| Forbidden Knowledge | 24.00% | ~121 |
 | Hungry, Hungry Gorgu! | 23.00% | ~116 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 23.00% | ~116 |
-| Forbidden Knowledge | 23.00% | ~116 |
 | If Looks Could Kill | 23.00% | ~116 |
 | Ghost Pirates? Ghost Heroes! | 22.00% | ~111 |
 | The Finitude Drill | 21.00% | ~106 |
@@ -55,8 +55,8 @@
 | Rubble and Ashes | 12.00% | ~61 |
 | To Infinity And Beyond! | 11.00% | ~56 |
 | The Last Stand - This Time For Real! | 11.00% | ~56 |
+| Mirror, Mirror | 10.00% | ~51 |
 | To the Max! | 10.00% | ~51 |
-| Mirror, Mirror | 9.00% | ~46 |
 | Untouchable | 9.00% | ~46 |
 | Gorgu is in the Best of Health | 8.00% | ~40 |
 | Heal Heal Blessing | 8.00% | ~40 |
@@ -64,10 +64,10 @@
 | Laser Eyes Are So Useless | 7.00% | ~35 |
 | Hands Off My Stones | 7.00% | ~35 |
 | No Mana, No Cry | 5.00% | ~25 |
-| I Don't Need Any Help | 4.00% | ~20 |
+| I Don't Need Any Help | 5.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 506 (Ranked 310)  
-Completed: 9 (1.78%) (Ranked 133)  
+Completed: 10 (1.98%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -93,3 +93,4 @@ Completed: 9 (1.78%) (Ranked 133)
 | 2023-11-28 | 489 | 8 |
 | 2023-11-29 | 500 | 8 |
 | 2023-11-30 | 506 | 9 |
+| 2023-12-01 | 506 | 10 |

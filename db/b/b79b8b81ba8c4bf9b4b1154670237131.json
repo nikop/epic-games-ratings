@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13873,
+  "EOS_Progressed": 13875,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 1296,
+  "EOS_NewPlayers": 1290,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2080,6 +2080,11 @@
       "Time": "2023-12-01T10:08:54.36543+00:00",
       "NumProgressed": 13873,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-01T11:08:36.4833392+00:00",
+      "NumProgressed": 13875,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -2124,7 +2129,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 10405
+      "UsersEstimate": 10406
     },
     {
       "ID": "ACH_AE_14",
@@ -2148,7 +2153,7 @@
       "Name": "Energy Efficient",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1803
+      "UsersEstimate": 1804
     },
     {
       "ID": "ACH_AE_17",
@@ -2172,7 +2177,7 @@
       "Name": "Signature Style",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "ACH_AE_2",
@@ -2188,7 +2193,7 @@
       "Name": "Let It Out",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1387
+      "UsersEstimate": 1388
     },
     {
       "ID": "ACH_AE_21",
@@ -2196,7 +2201,7 @@
       "Name": "Foodie",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ACH_AE_22",
@@ -2244,7 +2249,7 @@
       "Name": "Trust Fall",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ACH_AE_28",
@@ -2276,7 +2281,7 @@
       "Name": "Just Friends",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ACH_AE_31",
@@ -2284,7 +2289,7 @@
       "Name": "Jailbreaker",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ACH_AE_32",
@@ -2308,7 +2313,7 @@
       "Name": "People Person",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ACH_AE_35",
@@ -2316,7 +2321,7 @@
       "Name": "Invincible",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ACH_AE_4",
@@ -2324,7 +2329,7 @@
       "Name": "The Bomb",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1803
+      "UsersEstimate": 1804
     },
     {
       "ID": "ACH_AE_5",
@@ -2356,7 +2361,7 @@
       "Name": "Prisoner Dilemma",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1387
+      "UsersEstimate": 1388
     },
     {
       "ID": "ACH_AE_9",
@@ -2371,7 +2376,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 13873,
+      "Progressed": 13875,
       "Completed": 13
     }
   ],
@@ -2379,8 +2384,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-11-29T04:59:31.3373245+00:00",
-  "LastChanged_Achievements": "2023-12-01T10:08:54.3654295+00:00",
+  "LastChanged_Achievements": "2023-12-01T11:08:36.483339+00:00",
   "LastUpdate_AppInfo": "2023-11-28T15:57:01.0190602+00:00",
-  "LastUpdate_Ratings": "2023-12-01T10:02:48.0669082+00:00",
-  "LastUpdate_Achievements": "2023-12-01T10:08:54.3654639+00:00"
+  "LastUpdate_Ratings": "2023-12-01T11:02:39.5952931+00:00",
+  "LastUpdate_Achievements": "2023-12-01T11:08:36.4833668+00:00"
 }

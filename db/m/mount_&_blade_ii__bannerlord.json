@@ -9324,9 +9324,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 66761,
+  "EOS_Progressed": 66764,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 876,
+  "EOS_NewPlayers": 868,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33054,6 +33054,11 @@
       "Time": "2023-12-01T10:09:47.2086258+00:00",
       "NumProgressed": 66761,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-01T11:09:35.5587618+00:00",
+      "NumProgressed": 66764,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -33105,7 +33110,7 @@
       "Name": "Butterlord",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 6008
+      "UsersEstimate": 6009
     },
     {
       "ID": "Catch",
@@ -33257,7 +33262,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 12017
+      "UsersEstimate": 12018
     },
     {
       "ID": "Kingslayer",
@@ -33289,7 +33294,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 22031
+      "UsersEstimate": 22032
     },
     {
       "ID": "Lawbringer",
@@ -33297,7 +33302,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26704
+      "UsersEstimate": 26706
     },
     {
       "ID": "Lawmaker",
@@ -33457,7 +33462,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2670
+      "UsersEstimate": 2671
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -33472,15 +33477,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 66761,
+      "Progressed": 66764,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-12-01T08:57:29.3605106+00:00",
-  "LastChanged_Achievements": "2023-12-01T10:09:47.2086254+00:00",
+  "LastChanged_Achievements": "2023-12-01T11:09:35.5587615+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:24.2741585+00:00",
-  "LastUpdate_Ratings": "2023-12-01T09:57:30.709637+00:00",
-  "LastUpdate_Achievements": "2023-12-01T10:09:47.2087717+00:00"
+  "LastUpdate_Ratings": "2023-12-01T10:57:17.7461902+00:00",
+  "LastUpdate_Achievements": "2023-12-01T11:09:35.5589014+00:00"
 }

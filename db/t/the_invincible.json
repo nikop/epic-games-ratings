@@ -4,7 +4,7 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -1402,9 +1402,9 @@
       "ID": "AchvLeaveNoManBehind",
       "SetID": "1hj060c",
       "Name": "I leave no man behind",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 24
+      "UsersEstimate": 28
     },
     {
       "ID": "AchvLeavesNoManBehind2",
@@ -1466,9 +1466,9 @@
       "ID": "AchvReachCamp",
       "SetID": "1hj060c",
       "Name": "The Camp",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 264
     },
     {
       "ID": "AchvReachCity",
@@ -1529,8 +1529,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-01T10:08:58.3781859+00:00",
+  "LastChanged_Achievements": "2023-12-01T11:08:41.071175+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-12-01T09:59:49.3421387+00:00",
-  "LastUpdate_Achievements": "2023-12-01T10:08:58.3782052+00:00"
+  "LastUpdate_Ratings": "2023-12-01T10:59:55.0930294+00:00",
+  "LastUpdate_Achievements": "2023-12-01T11:08:41.0711965+00:00"
 }

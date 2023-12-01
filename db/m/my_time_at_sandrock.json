@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 239,
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1748,7 +1748,7 @@
   ],
   "EOS_Progressed": 485,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5221,9 +5221,9 @@
       "ID": "S_GAMECOIN",
       "SetID": "80dcan0",
       "Name": "Pro Gamer",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 141
     },
     {
       "ID": "S_GHOST",
@@ -5261,9 +5261,9 @@
       "ID": "S_LOVE",
       "SetID": "80dcan0",
       "Name": "First Love",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 310
     },
     {
       "ID": "S_MARRY",
@@ -5389,8 +5389,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-11-30T22:00:32.9034979+00:00",
-  "LastChanged_Achievements": "2023-12-01T10:08:24.7035873+00:00",
+  "LastChanged_Achievements": "2023-12-01T11:06:53.7444154+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:01.0814627+00:00",
-  "LastUpdate_Ratings": "2023-12-01T09:59:52.2549261+00:00",
-  "LastUpdate_Achievements": "2023-12-01T10:08:24.7036519+00:00"
+  "LastUpdate_Ratings": "2023-12-01T10:59:58.364216+00:00",
+  "LastUpdate_Achievements": "2023-12-01T11:06:53.7444645+00:00"
 }

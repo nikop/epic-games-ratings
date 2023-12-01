@@ -7,12 +7,12 @@
 | Beach | 94.00% | ~118 |
 | Library | 67.00% | ~84 |
 | Space | 56.00% | ~71 |
-| Haunted Mansion | 52.00% | ~66 |
-| Science Laboratory | 44.00% | ~55 |
-| Ball Disposal Facility | 40.00% | ~50 |
+| Haunted Mansion | 53.00% | ~67 |
+| Science Laboratory | 45.00% | ~57 |
+| Ball Disposal Facility | 41.00% | ~52 |
 | Mecha Wars | 40.00% | ~50 |
-| Sewer | 38.00% | ~48 |
-| Arcade | 37.00% | ~47 |
+| Sewer | 39.00% | ~49 |
+| Arcade | 38.00% | ~48 |
 | Custom Court | 32.00% | ~40 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 126 (Ranked 417)  

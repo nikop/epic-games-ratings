@@ -20,8 +20,8 @@ Number of Ratings: 892  (23.09.2022)
 | Can We Keep It? | 70.00% | ~340 |
 | Pack Mule | 69.00% | ~335 |
 | I Do! | 67.00% | ~325 |
+| First Love | 64.00% | ~310 |
 | Unboxing | 64.00% | ~310 |
-| First Love | 63.00% | ~306 |
 | Financially Secure | 62.00% | ~301 |
 | Chatterbox | 62.00% | ~301 |
 | Big Game Hunter | 60.00% | ~291 |
@@ -58,7 +58,7 @@ Number of Ratings: 892  (23.09.2022)
 | Do Your Part | 31.00% | ~150 |
 | Newton | 31.00% | ~150 |
 | It Belongs in a Museum! | 30.00% | ~146 |
-| Pro Gamer | 28.00% | ~136 |
+| Pro Gamer | 29.00% | ~141 |
 | Cardistry | 21.00% | ~102 |
 | It's High Noon... | 14.00% | ~68 |
 | Got the Receipt? | 14.00% | ~68 |

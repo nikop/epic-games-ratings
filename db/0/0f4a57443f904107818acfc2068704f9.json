@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 139,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 792,
+  "EOS_Progressed": 793,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 288,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1632,6 +1632,11 @@
       "Time": "2023-12-01T09:06:07.7017538+00:00",
       "NumProgressed": 792,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-01T11:04:55.1207221+00:00",
+      "NumProgressed": 793,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1660,7 +1665,7 @@
       "Name": "Chosen Victor",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "CompleteCampaignChampion",
@@ -1700,7 +1705,7 @@
       "Name": "Pathfinder",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "CompleteChapter10",
@@ -1732,7 +1737,7 @@
       "Name": "Slaughter and Siege wiv da Squeeze",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "CompleteChapter14",
@@ -1754,9 +1759,9 @@
       "ID": "CompleteChapter16",
       "SetID": "52ail55",
       "Name": "Our Own Miracle",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 48
     },
     {
       "ID": "CompleteChapter17",
@@ -1788,7 +1793,7 @@
       "Name": "Met the Enemy",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "CompleteChapter3",
@@ -1892,7 +1897,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1939,14 +1944,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 792,
+      "Progressed": 793,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-01T10:04:47.0245144+00:00",
+  "LastChanged_Achievements": "2023-12-01T11:04:55.1207218+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:09.4303292+00:00",
-  "LastUpdate_Ratings": "2023-12-01T09:58:22.6288583+00:00",
-  "LastUpdate_Achievements": "2023-12-01T10:04:47.0245457+00:00"
+  "LastUpdate_Ratings": "2023-12-01T10:58:16.419784+00:00",
+  "LastUpdate_Achievements": "2023-12-01T11:04:55.1207519+00:00"
 }

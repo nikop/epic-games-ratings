@@ -5,28 +5,28 @@ Rating: 4.04 (Ranked 992)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,677 |
-| World Map | 78.00% | ~2,245 |
-| Temple of Eternals | 57.00% | ~1,640 |
-| Prestigious | 53.00% | ~1,525 |
-| Fellowship Power | 42.00% | ~1,209 |
+| Victor | 93.00% | ~2,678 |
+| World Map | 78.00% | ~2,246 |
+| Temple of Eternals | 57.00% | ~1,642 |
+| Prestigious | 53.00% | ~1,526 |
+| Fellowship Power | 42.00% | ~1,210 |
 | Guild Power | 24.00% | ~691 |
-| Prestigious x10 | 21.00% | ~604 |
+| Prestigious x10 | 21.00% | ~605 |
 | The game is on | 19.00% | ~547 |
 | Full Party | 18.00% | ~518 |
-| Exotic Merchant | 17.00% | ~489 |
-| Dragon Clicker | 16.00% | ~460 |
-| Miner Clicker | 16.00% | ~460 |
+| Exotic Merchant | 17.00% | ~490 |
+| Dragon Clicker | 16.00% | ~461 |
+| Miner Clicker | 16.00% | ~461 |
 | Inspection | 15.00% | ~432 |
 | Dragon Master | 14.00% | ~403 |
 | Enlightenment | 14.00% | ~403 |
 | Hero inspection | 14.00% | ~403 |
 | Lieutenant | 13.00% | ~374 |
-| Milestone collector | 12.00% | ~345 |
-| Mysterious Rock | 12.00% | ~345 |
-| Natural Talent | 12.00% | ~345 |
-| Superior | 12.00% | ~345 |
-| The Unstoppable | 12.00% | ~345 |
+| Milestone collector | 12.00% | ~346 |
+| Mysterious Rock | 12.00% | ~346 |
+| Natural Talent | 12.00% | ~346 |
+| Superior | 12.00% | ~346 |
+| The Unstoppable | 12.00% | ~346 |
 | Scientist | 10.00% | ~288 |
 | Challenger | 9.00% | ~259 |
 | Daily Quest Completionist | 9.00% | ~259 |
@@ -41,8 +41,8 @@ Rating: 4.04 (Ranked 992)
 | Four Leaf Clover | 8.00% | ~230 |
 | Master Enchanter | 8.00% | ~230 |
 | The father of Dragons | 8.00% | ~230 |
-| Here We Go Again | 7.00% | ~201 |
-| Trader | 7.00% | ~201 |
+| Here We Go Again | 7.00% | ~202 |
+| Trader | 7.00% | ~202 |
 | Blueprint Upgrades | 6.00% | ~173 |
 | Crystal Mining | 6.00% | ~173 |
 | Dragon Slayer | 6.00% | ~173 |
@@ -81,7 +81,7 @@ Rating: 4.04 (Ranked 992)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,878 (Ranked 213)  
+Progressed: 2,880 (Ranked 213)  
 Completed: 2 (0.07%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 2 (0.07%) (Ranked 303)
 | 2023-11-28 | 2,791 | 2 |
 | 2023-11-29 | 2,822 | 2 |
 | 2023-11-30 | 2,847 | 2 |
-| 2023-12-01 | 2,878 | 2 |
+| 2023-12-01 | 2,880 | 2 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 483)  
 Sum: 134 (Ranked 430)  

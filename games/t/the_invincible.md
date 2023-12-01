@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 55.00% | ~259 |
+| The Camp | 56.00% | ~264 |
 | The Teleprobe | 44.00% | ~207 |
 | The City | 39.00% | ~184 |
 | The field base | 34.00% | ~160 |
@@ -26,7 +26,7 @@
 | Another giant | 7.00% | ~33 |
 | Innate curiosity | 7.00% | ~33 |
 | The Invincible | 6.00% | ~28 |
-| I leave no man behind | 5.00% | ~24 |
+| I leave no man behind | 6.00% | ~28 |
 | Strong objection | 4.00% | ~19 |
 | Ubiquitous holes | 3.00% | ~14 |
 | Got lost again | 3.00% | ~14 |

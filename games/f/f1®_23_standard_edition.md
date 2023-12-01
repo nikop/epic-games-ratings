@@ -5,10 +5,10 @@ Rating: 4.68 (Ranked 255)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,626 |
-| On the Top Step | 88.00% | ~5,267 |
-| Setting up for Success | 78.00% | ~4,668 |
-| Team Orders | 75.00% | ~4,489 |
+| Getting on the Step | 94.00% | ~5,627 |
+| On the Top Step | 88.00% | ~5,268 |
+| Setting up for Success | 78.00% | ~4,669 |
+| Team Orders | 75.00% | ~4,490 |
 | Engineer | 56.00% | ~3,352 |
 | Familiar Faces | 49.00% | ~2,933 |
 | Sharing the Love | 43.00% | ~2,574 |
@@ -16,16 +16,16 @@ Rating: 4.68 (Ranked 255)
 | Hitting a Season | 40.00% | ~2,394 |
 | A Dozen Pieces | 34.00% | ~2,035 |
 | Challenge Yourself | 34.00% | ~2,035 |
-| Making History | 32.00% | ~1,915 |
+| Making History | 32.00% | ~1,916 |
 | Network Success | 28.00% | ~1,676 |
 | Writing a new Chapter | 26.00% | ~1,556 |
-| Spring Cleaning | 24.00% | ~1,436 |
+| Spring Cleaning | 24.00% | ~1,437 |
 | Reduce | 21.00% | ~1,257 |
 | Ups and Downs | 21.00% | ~1,257 |
 | Crucial Combo | 20.00% | ~1,197 |
 | Reuse | 18.00% | ~1,077 |
-| One for the Book | 17.00% | ~1,017 |
-| Proving Them Wrong | 17.00% | ~1,017 |
+| One for the Book | 17.00% | ~1,018 |
+| Proving Them Wrong | 17.00% | ~1,018 |
 | Gathering Dust | 16.00% | ~958 |
 | Oil and Water | 15.00% | ~898 |
 | Hitting a Bullseye | 15.00% | ~898 |
@@ -36,7 +36,7 @@ Rating: 4.68 (Ranked 255)
 | Switcheroo | 13.00% | ~778 |
 | Friendly Competition | 12.00% | ~718 |
 | Recycle | 12.00% | ~718 |
-| Tinkerer | 10.00% | ~598 |
+| Tinkerer | 10.00% | ~599 |
 | Undisputed Winner | 9.00% | ~539 |
 | Living up to Expectations | 7.00% | ~419 |
 | Smooth Operator | 7.00% | ~419 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 255)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,985 (Ranked 186)  
+Progressed: 5,986 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 0 (0.00%) (Ranked 363)
 | 2023-11-28 | 5,957 | 0 |
 | 2023-11-29 | 5,971 | 0 |
 | 2023-11-30 | 5,982 | 0 |
-| 2023-12-01 | 5,985 | 0 |
+| 2023-12-01 | 5,986 | 0 |
 ## Awards
 Max (Diverse Characters): 26  (Ranked 520)  
 Sum: 96 (Ranked 450)  

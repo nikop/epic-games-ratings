@@ -10,10 +10,10 @@ Rating: 4.55 (Ranked 507)
 | An Old Friend | 6.00% | ~77 |
 | Lot 49 | 5.00% | ~64 |
 | Viva La Revolution | 5.00% | ~64 |
+| Walking Fortress | 5.00% | ~64 |
 | Atomic Soda | 4.00% | ~51 |
 | Mysterious Knife | 4.00% | ~51 |
 | Shadow over Trudograd | 4.00% | ~51 |
-| Walking Fortress | 4.00% | ~51 |
 | Freelance Police | 3.00% | ~38 |
 | The Great and Powerful | 3.00% | ~38 |
 | Albino Bloodsucker | 2.00% | ~26 |

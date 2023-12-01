@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2015-10-16T01:00:00+00:00",
@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 154890,
+  "EOS_Progressed": 154891,
   "EOS_Completed": 350,
-  "EOS_NewPlayers": 855,
+  "EOS_NewPlayers": 852,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -20043,6 +20043,11 @@
       "Time": "2023-12-01T10:05:56.7726712+00:00",
       "NumProgressed": 154890,
       "NumCompleted": 350
+    },
+    {
+      "Time": "2023-12-01T11:06:12.8157931+00:00",
+      "NumProgressed": 154891,
+      "NumCompleted": 350
     }
   ],
   "TotalAchievements": 31,
@@ -20062,7 +20067,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 108423
+      "UsersEstimate": 108424
     },
     {
       "ID": "EAwards_10",
@@ -20190,7 +20195,7 @@
       "Name": "The Never Ending Combo",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 7744
+      "UsersEstimate": 7745
     },
     {
       "ID": "EAwards_25",
@@ -20270,7 +20275,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 38722
+      "UsersEstimate": 38723
     },
     {
       "ID": "EAwards_7",
@@ -20286,7 +20291,7 @@
       "Name": "Flawless",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 58858
+      "UsersEstimate": 58859
     },
     {
       "ID": "EAwards_9",
@@ -20301,7 +20306,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 154890,
+      "Progressed": 154891,
       "Completed": 350
     }
   ],
@@ -20309,8 +20314,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-12-01T10:05:56.7726708+00:00",
+  "LastChanged_Achievements": "2023-12-01T11:06:12.8157926+00:00",
   "LastUpdate_AppInfo": "2023-12-01T05:57:05.8287606+00:00",
-  "LastUpdate_Ratings": "2023-12-01T09:58:12.7740946+00:00",
-  "LastUpdate_Achievements": "2023-12-01T10:05:56.7727948+00:00"
+  "LastUpdate_Ratings": "2023-12-01T10:58:05.1479327+00:00",
+  "LastUpdate_Achievements": "2023-12-01T11:06:12.8159271+00:00"
 }
