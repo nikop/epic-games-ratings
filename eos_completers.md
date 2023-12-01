@@ -11,7 +11,7 @@
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.93% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 11 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 12 | [The Riflemen](games/t/the_riflemen.md) | 25.55% |
+| 12 | [The Riflemen](games/t/the_riflemen.md) | 25.53% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.40% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 14 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -71,7 +71,7 @@
 | 69 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
 | 70 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 70 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 72 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.41% |
+| 72 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.40% |
 | 73 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 5.00% |
 | 73 | [JARS](games/j/jars.md) | 5.00% |
 | 75 | [Bugsnax](games/b/bugsnax.md) | 4.83% |
@@ -126,12 +126,12 @@
 | 124 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.25% |
 | 125 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.21% |
 | 126 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.03% |
-| 127 | [Dungeons 4](games/d/dungeons_4.md) | 1.97% |
+| 127 | [Dungeons 4](games/d/dungeons_4.md) | 1.96% |
 | 128 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.92% |
 | 129 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.90% |
-| 130 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.89% |
-| 131 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.87% |
-| 131 | [Somerville](games/s/somerville.md) | 1.87% |
+| 130 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.87% |
+| 130 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.87% |
+| 130 | [Somerville](games/s/somerville.md) | 1.87% |
 | 133 | [Sifu](games/s/sifu.md) | 1.80% |
 | 134 | [Frogun](games/f/frogun.md) | 1.78% |
 | 135 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.76% |
@@ -282,13 +282,13 @@
 | 279 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.12% |
 | 279 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.12% |
 | 282 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.11% |
-| 282 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.11% |
 | 282 | [Isonzo](games/i/isonzo.md) | 0.11% |
 | 282 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
 | 282 | [Partisans 1941](games/p/partisans_1941.md) | 0.11% |
-| 287 | [Black Book](games/b/black_book.md) | 0.10% |
-| 287 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 287 | [Supraland](games/s/supraland.md) | 0.10% |
+| 286 | [Black Book](games/b/black_book.md) | 0.10% |
+| 286 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.10% |
+| 286 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 286 | [Supraland](games/s/supraland.md) | 0.10% |
 | 290 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 290 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 0.09% |
 | 290 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
@@ -298,16 +298,16 @@
 | 290 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 297 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.08% |
 | 297 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
+| 297 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.08% |
 | 297 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.08% |
 | 297 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.08% |
 | 297 | [MythForce](games/m/mythforce.md) | 0.08% |
-| 302 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.07% |
-| 302 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.07% |
-| 302 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.07% |
-| 302 | [Saints Row](games/s/saints_row.md) | 0.07% |
-| 302 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
-| 302 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.07% |
-| 302 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
+| 303 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.07% |
+| 303 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.07% |
+| 303 | [Saints Row](games/s/saints_row.md) | 0.07% |
+| 303 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
+| 303 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.07% |
+| 303 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 309 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
 | 309 | [GRIME](games/g/grime.md) | 0.06% |
 | 309 | [High On Life](games/h/high_on_life.md) | 0.06% |
