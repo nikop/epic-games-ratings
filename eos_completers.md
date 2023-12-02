@@ -13,7 +13,7 @@
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.63% |
-| 14 | [The Riflemen](games/t/the_riflemen.md) | 25.42% |
+| 14 | [The Riflemen](games/t/the_riflemen.md) | 25.41% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Overloop](games/o/overloop.md) | 25.00% |
 | 17 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -61,7 +61,7 @@
 | 59 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.14% |
 | 59 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 7.14% |
 | 61 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.07% |
-| 62 | [Scorn](games/s/scorn.md) | 7.06% |
+| 62 | [Scorn](games/s/scorn.md) | 7.05% |
 | 63 | [Time Loader](games/t/time_loader.md) | 7.03% |
 | 64 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.60% |
 | 65 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.40% |

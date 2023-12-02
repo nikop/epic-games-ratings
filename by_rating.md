@@ -134,7 +134,7 @@
 | 128 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 1,225 | 140 |
 | 128 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 4.76 | 0 | 558 |
 | 128 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 24,816 | 17 |
-| 128 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 5,175 | 71 |
+| 128 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 5,186 | 71 |
 | 128 | [Journey](games/j/journey.md) | 4.76 | 0 | 558 |
 | 128 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 558 |
 | 128 | [Legend Bowl](games/l/legend_bowl.md) | 4.76 | 0 | 558 |
@@ -174,7 +174,6 @@
 | 170 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 47 | 444 |
 | 170 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.73 | 0 | 558 |
 | 170 | [GoNNER](games/g/gonner.md) | 4.73 | 0 | 558 |
-| 170 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 645 | 191 |
 | 170 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 146 | 322 |
 | 170 | [Sailing Era](games/s/sailing_era.md) | 4.73 | 0 | 558 |
 | 170 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 0 | 558 |
@@ -184,21 +183,22 @@
 | 170 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 0 | 558 |
 | 170 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.73 | 697 | 187 |
 | 170 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 0 | 558 |
-| 185 | [Barony](games/b/barony.md) | 4.72 | 94 | 377 |
-| 185 | [Fez](games/f/fez.md) | 4.72 | 24 | 529 |
-| 185 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 520 | 210 |
-| 185 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 4.72 | 0 | 558 |
-| 185 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 462 |
-| 185 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 0 | 558 |
-| 185 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.72 | 254 | 269 |
-| 185 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 79 | 393 |
-| 185 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.72 | 134 | 328 |
-| 185 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 348 | 243 |
-| 185 | [The Red Lantern](games/t/the_red_lantern.md) | 4.72 | 0 | 558 |
-| 185 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 558 |
-| 185 | [Timberborn](games/t/timberborn.md) | 4.72 | 148 | 321 |
-| 185 | [Townscaper](games/t/townscaper.md) | 4.72 | 0 | 558 |
-| 185 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.72 | 0 | 558 |
+| 184 | [Barony](games/b/barony.md) | 4.72 | 94 | 377 |
+| 184 | [Fez](games/f/fez.md) | 4.72 | 24 | 529 |
+| 184 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 520 | 210 |
+| 184 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 4.72 | 0 | 558 |
+| 184 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 648 | 191 |
+| 184 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 462 |
+| 184 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 0 | 558 |
+| 184 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.72 | 254 | 269 |
+| 184 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 79 | 393 |
+| 184 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.72 | 134 | 328 |
+| 184 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 348 | 243 |
+| 184 | [The Red Lantern](games/t/the_red_lantern.md) | 4.72 | 0 | 558 |
+| 184 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 558 |
+| 184 | [Timberborn](games/t/timberborn.md) | 4.72 | 148 | 321 |
+| 184 | [Townscaper](games/t/townscaper.md) | 4.72 | 0 | 558 |
+| 184 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.72 | 0 | 558 |
 | 200 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.71 | 471 | 217 |
 | 200 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 478 |
 | 200 | [GNOG](games/g/gnog.md) | 4.71 | 0 | 558 |
@@ -875,7 +875,7 @@
 | 873 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.26 | 0 | 558 |
 | 873 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.26 | 0 | 558 |
 | 873 | [Dice Legacy](games/d/dice_legacy.md) | 4.26 | 0 | 558 |
-| 873 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 21,368 | 20 |
+| 873 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 21,388 | 20 |
 | 873 | [Flatout](games/f/flatout.md) | 4.26 | 0 | 558 |
 | 873 | [Men of War](games/m/men_of_war.md) | 4.26 | 0 | 558 |
 | 873 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 558 |
@@ -985,7 +985,7 @@
 | 980 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 182 | 300 |
 | 980 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 0 | 558 |
 | 980 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 4.07 | 0 | 558 |
-| 986 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,580 | 70 |
+| 986 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,585 | 70 |
 | 986 | [Pinball FX](games/p/pinball_fx.md) | 4.06 | 203 | 289 |
 | 986 | [Tharsis](games/t/tharsis.md) | 4.06 | 0 | 558 |
 | 989 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.05 | 0 | 558 |
