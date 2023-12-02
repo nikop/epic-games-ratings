@@ -4,8 +4,8 @@
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
     "PcReleaseDate": "2023-04-26T16:00:00+00:00",
@@ -24,10 +24,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1185,
+  "EOS_Progressed": 1186,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 16,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 17,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.3,
   "EosHistory": [
     {
@@ -2604,6 +2604,11 @@
       "Time": "2023-12-02T17:09:31.5109486+00:00",
       "NumProgressed": 1185,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-12-02T18:09:33.9146835+00:00",
+      "NumProgressed": 1186,
+      "NumCompleted": 51
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -2664,7 +2669,7 @@
       "Name": "Good listener",
       "Percentage": 60,
       "XP": 85,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -2686,23 +2691,23 @@
       "ID": "ACH_THE_END",
       "SetID": "6f5dahd",
       "Name": "Exit",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 65,
-      "UsersEstimate": 664
+      "UsersEstimate": 652
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 1185,
+      "Progressed": 1186,
       "Completed": 51
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-12-02T17:09:31.5109483+00:00",
+  "LastChanged_Achievements": "2023-12-02T18:09:33.914683+00:00",
   "LastUpdate_AppInfo": "2023-12-01T16:57:04.0623116+00:00",
-  "LastUpdate_Ratings": "2023-12-02T16:57:06.5826235+00:00",
-  "LastUpdate_Achievements": "2023-12-02T17:09:31.5110244+00:00"
+  "LastUpdate_Ratings": "2023-12-02T17:57:22.3661571+00:00",
+  "LastUpdate_Achievements": "2023-12-02T18:09:33.9147032+00:00"
 }

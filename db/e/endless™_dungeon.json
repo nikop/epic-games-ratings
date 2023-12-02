@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1272,
+  "EOS_Progressed": 1273,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
@@ -2350,6 +2350,11 @@
       "Time": "2023-12-02T15:07:44.9323396+00:00",
       "NumProgressed": 1272,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T18:06:38.180821+00:00",
+      "NumProgressed": 1273,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -2394,7 +2399,7 @@
       "Name": "Blobmeister",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -2416,9 +2421,9 @@
       "ID": "ACHIEVEMENT_BUG_BOSS",
       "SetID": "9991201",
       "Name": "Pest Control",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 331
+      "UsersEstimate": 344
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -2426,7 +2431,7 @@
       "Name": "Team Builder",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -2458,7 +2463,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -2474,7 +2479,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -2576,9 +2581,9 @@
       "ID": "ACHIEVEMENT_SPECIAL_WIN",
       "SetID": "9991201",
       "Name": "All Your Secrets Are Belong to Us",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_TIME_LIMIT1WIN",
@@ -2601,14 +2606,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1272,
+      "Progressed": 1273,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-12-02T17:07:32.8331251+00:00",
+  "LastChanged_Achievements": "2023-12-02T18:06:38.1808208+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.3423297+00:00",
-  "LastUpdate_Ratings": "2023-12-02T16:59:03.3282254+00:00",
-  "LastUpdate_Achievements": "2023-12-02T17:07:32.8331552+00:00"
+  "LastUpdate_Ratings": "2023-12-02T17:58:42.7933348+00:00",
+  "LastUpdate_Achievements": "2023-12-02T18:06:38.1808484+00:00"
 }

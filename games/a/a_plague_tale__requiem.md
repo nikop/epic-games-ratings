@@ -5,7 +5,7 @@ Rating: 4.73 (Ranked 170)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~12,929 |
+| Under a New Sun | 93.00% | ~13,069 |
 | Newcomers | 79.00% | ~11,102 |
 | A Burden of Blood | 74.00% | ~10,399 |
 | Protector's Duty | 71.00% | ~9,978 |
@@ -15,7 +15,7 @@ Rating: 4.73 (Ranked 170)
 | Felons | 63.00% | ~8,853 |
 | A Sea of Promises | 62.00% | ~8,713 |
 | Tales and Revelations | 58.00% | ~8,151 |
-| Bloodline | 53.00% | ~7,448 |
+| Bloodline | 54.00% | ~7,589 |
 | The Cradle of Centuries | 50.00% | ~7,026 |
 | The Life We Deserve | 47.00% | ~6,605 |
 | Night guard | 44.00% | ~6,183 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 170)
 | Old protector | 2.00% | ~281 |
 | Malignant | 1.00% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,053 (Ranked 155)  
+Progressed: 14,053 (Ranked 156)  
 Completed: 55 (0.39%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |

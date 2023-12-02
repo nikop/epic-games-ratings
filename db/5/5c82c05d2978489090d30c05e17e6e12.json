@@ -143,9 +143,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 62079,
+  "EOS_Progressed": 62113,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 5622,
+  "EOS_NewPlayers": 5575,
   "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2068,6 +2068,11 @@
       "Time": "2023-12-02T17:08:16.1162041+00:00",
       "NumProgressed": 62079,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-12-02T18:08:38.9728237+00:00",
+      "NumProgressed": 62113,
+      "NumCompleted": 51
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -2080,7 +2085,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 22969
+      "UsersEstimate": 22982
     },
     {
       "ID": "Achievement_10",
@@ -2096,7 +2101,7 @@
       "Name": "Owls of the Nest",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "Achievement_12",
@@ -2112,7 +2117,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "Achievement_14",
@@ -2168,7 +2173,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 16761
+      "UsersEstimate": 16771
     },
     {
       "ID": "Achievement_20",
@@ -2200,7 +2205,7 @@
       "Name": "Festival Masters",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "Achievement_24",
@@ -2208,7 +2213,7 @@
       "Name": "Custodian of Scrollroads",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "Achievement_25",
@@ -2232,7 +2237,7 @@
       "Name": "Critter King",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "Achievement_28",
@@ -2240,7 +2245,7 @@
       "Name": "A Better World",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "Achievement_29",
@@ -2256,7 +2261,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 6829
+      "UsersEstimate": 6832
     },
     {
       "ID": "Achievement_30",
@@ -2288,7 +2293,7 @@
       "Name": "Family Ties",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "Achievement_34",
@@ -2304,7 +2309,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 4966
+      "UsersEstimate": 4969
     },
     {
       "ID": "Achievement_5",
@@ -2312,7 +2317,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3725
+      "UsersEstimate": 3727
     },
     {
       "ID": "Achievement_6",
@@ -2320,7 +2325,7 @@
       "Name": "The Red-Haired Enigma",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "Achievement_7",
@@ -2351,7 +2356,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 62079,
+      "Progressed": 62113,
       "Completed": 51
     }
   ],
@@ -2359,8 +2364,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-01T15:02:40.8736303+00:00",
-  "LastChanged_Achievements": "2023-12-02T17:08:16.1162039+00:00",
+  "LastChanged_Achievements": "2023-12-02T18:08:38.9728231+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:03:15.0842163+00:00",
-  "LastUpdate_Ratings": "2023-12-02T17:03:01.6376106+00:00",
-  "LastUpdate_Achievements": "2023-12-02T17:08:16.1162283+00:00"
+  "LastUpdate_Ratings": "2023-12-02T18:03:00.3381951+00:00",
+  "LastUpdate_Achievements": "2023-12-02T18:08:38.9728533+00:00"
 }

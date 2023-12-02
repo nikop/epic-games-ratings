@@ -2,9 +2,9 @@
   "ID": "1c916c48d92b4e8d9f6fed2816f5e464",
   "Name": "No Son Of Mine",
   "ProductSlug": "no-son-of-mine-d40aca",
-  "Ranking_EOS_Progress": 643,
+  "Ranking_EOS_Progress": 632,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewPlayers": 497,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-09-06T15:00:00+00:00",
@@ -22,7 +22,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -52,6 +52,11 @@
       "Time": "2023-10-15T17:06:34.2760227+00:00",
       "NumProgressed": 5,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T18:06:07.7748937+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T07:04:29.5671239+00:00",
@@ -62,7 +67,7 @@
       "ID": "ACH_1HIT",
       "SetID": "ac146gn",
       "Name": "Pretty Cool...",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -78,7 +83,7 @@
       "ID": "ACH_DEMENTED",
       "SetID": "ac146gn",
       "Name": "Living Legend",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 150,
       "UsersEstimate": 1
     },
@@ -86,7 +91,7 @@
       "ID": "ACH_INSANE",
       "SetID": "ac146gn",
       "Name": "Maniac",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -110,7 +115,7 @@
       "ID": "ACH_SLEEP",
       "SetID": "ac146gn",
       "Name": "Did You Fall Asleep?",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -126,7 +131,7 @@
       "ID": "ACH_STEALTH",
       "SetID": "ac146gn",
       "Name": "Invisible",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -142,7 +147,7 @@
       "ID": "ACH_UPGRADE",
       "SetID": "ac146gn",
       "Name": "Ghost Wrecker",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 70,
       "UsersEstimate": 1
     }
@@ -151,13 +156,13 @@
     {
       "ID": "ac146gn",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-26T10:03:17.7378826+00:00",
-  "LastChanged_Achievements": "2023-12-02T17:06:51.4925839+00:00",
+  "LastChanged_Achievements": "2023-12-02T18:06:07.7748932+00:00",
   "LastUpdate_AppInfo": "2023-11-27T19:57:23.0321707+00:00",
-  "LastUpdate_Ratings": "2023-12-02T17:03:08.7728104+00:00",
-  "LastUpdate_Achievements": "2023-12-02T17:06:51.4925899+00:00"
+  "LastUpdate_Ratings": "2023-12-02T18:03:05.1749985+00:00",
+  "LastUpdate_Achievements": "2023-12-02T18:06:07.7749012+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "horse-club-adventures-19e7a0",
   "Ranking_EOS_Progress": 502,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
@@ -335,9 +335,9 @@
       "ID": "ACH_10_SARAH",
       "SetID": "9dl0ei6",
       "Name": "Sarah",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_11_SOFIA",
@@ -359,9 +359,9 @@
       "ID": "ACH_13_TREASUREHUNTER",
       "SetID": "9dl0ei6",
       "Name": "Treasure Hunter",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_14_HORSECLUB",
@@ -486,8 +486,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-12-02T17:10:02.6011578+00:00",
+  "LastChanged_Achievements": "2023-12-02T18:09:56.8108261+00:00",
   "LastUpdate_AppInfo": "2023-11-26T23:57:17.243865+00:00",
   "LastUpdate_Ratings": "2023-12-02T17:02:26.33174+00:00",
-  "LastUpdate_Achievements": "2023-12-02T17:10:02.6011727+00:00"
+  "LastUpdate_Achievements": "2023-12-02T18:09:56.8108394+00:00"
 }

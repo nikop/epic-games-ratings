@@ -177,7 +177,7 @@
   ],
   "EOS_Progressed": 831,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1930,9 +1930,9 @@
       "ID": "AbAeterno",
       "SetID": "1n308hc",
       "Name": "Ab Aeterno",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "AbInitio",
@@ -1986,9 +1986,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 83
     },
     {
       "ID": "ChasingTheLight",
@@ -2034,9 +2034,9 @@
       "ID": "EasternWetlands",
       "SetID": "1n308hc",
       "Name": "Eastern Wetlands",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 42
     },
     {
       "ID": "EcstaticTruth",
@@ -2226,9 +2226,9 @@
       "ID": "RenaissanceRobot",
       "SetID": "1n308hc",
       "Name": "Renaissance Robot",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ScientiaVincereTenebras",
@@ -2411,8 +2411,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-02T13:02:26.2646778+00:00",
-  "LastChanged_Achievements": "2023-12-02T17:04:51.8075243+00:00",
+  "LastChanged_Achievements": "2023-12-02T18:04:40.2427115+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-02T16:03:08.3334476+00:00",
-  "LastUpdate_Achievements": "2023-12-02T17:04:51.807566+00:00"
+  "LastUpdate_Ratings": "2023-12-02T17:57:21.1032066+00:00",
+  "LastUpdate_Achievements": "2023-12-02T18:04:40.2427914+00:00"
 }

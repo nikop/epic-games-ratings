@@ -8,8 +8,8 @@
 | Book Worm | 46.00% | ~39 |
 | Ooh, it's shiny! | 45.00% | ~38 |
 | Through the woods | 36.00% | ~30 |
+| Fussy eater | 36.00% | ~30 |
 | My lost nightingale | 36.00% | ~30 |
-| Fussy eater | 35.00% | ~29 |
 | Honey, honey, honey… | 33.00% | ~28 |
 | Back to the anvil | 33.00% | ~28 |
 | Kekekeke... | 33.00% | ~28 |
@@ -36,9 +36,9 @@
 | Ring-a-ding-ding | 21.00% | ~18 |
 | Close the deal | 20.00% | ~17 |
 | Bahahahaha... | 19.00% | ~16 |
+| Makeover | 18.00% | ~15 |
 | Singstar | 18.00% | ~15 |
 | Cameodalic | 18.00% | ~15 |
-| Makeover | 17.00% | ~14 |
 | Guilty conscience | 15.00% | ~13 |
 | Clever reference #451 | 14.00% | ~12 |
 | What a mess | 11.00% | ~9 |

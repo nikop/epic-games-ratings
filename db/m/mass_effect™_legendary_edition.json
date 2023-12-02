@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1480,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -4574,17 +4574,17 @@
       "ID": "achievement_22",
       "SetID": "b9pe172",
       "Name": "Medal of Exploration II",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 784
+      "UsersEstimate": 799
     },
     {
       "ID": "achievement_23",
       "SetID": "b9pe172",
       "Name": "Medal of Exploration III",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 666
+      "UsersEstimate": 681
     },
     {
       "ID": "achievement_24",
@@ -4782,9 +4782,9 @@
       "ID": "achievement_46",
       "SetID": "d252ncf",
       "Name": "The Convict",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 518
+      "UsersEstimate": 533
     },
     {
       "ID": "achievement_47",
@@ -5238,9 +5238,9 @@
       "ID": "achievement_98",
       "SetID": "d252ncf",
       "Name": "Master and Commander",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 266
+      "UsersEstimate": 281
     },
     {
       "ID": "achievement_99",
@@ -5266,8 +5266,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-02T17:09:14.3810156+00:00",
+  "LastChanged_Achievements": "2023-12-02T18:09:20.9743895+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:10.3433357+00:00",
-  "LastUpdate_Ratings": "2023-12-02T17:03:17.0282694+00:00",
-  "LastUpdate_Achievements": "2023-12-02T17:09:14.3811709+00:00"
+  "LastUpdate_Ratings": "2023-12-02T18:03:10.7177269+00:00",
+  "LastUpdate_Achievements": "2023-12-02T18:09:20.9745664+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 405,
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -1702,9 +1702,9 @@
       "ID": "ReclaimTown",
       "SetID": "71c0n9i",
       "Name": "Don\u0027t Touch My Stuff",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -1822,9 +1822,9 @@
       "ID": "WinSiegeAsAttacker",
       "SetID": "71c0n9i",
       "Name": "Veni, Vidi, Vici",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -1878,8 +1878,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-02T17:06:29.4491815+00:00",
+  "LastChanged_Achievements": "2023-12-02T18:05:51.4188596+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:52.6052196+00:00",
-  "LastUpdate_Ratings": "2023-12-02T16:57:17.5325039+00:00",
-  "LastUpdate_Achievements": "2023-12-02T17:06:29.4492206+00:00"
+  "LastUpdate_Ratings": "2023-12-02T17:57:30.0796084+00:00",
+  "LastUpdate_Achievements": "2023-12-02T18:05:51.4188986+00:00"
 }

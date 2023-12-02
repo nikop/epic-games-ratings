@@ -2,9 +2,9 @@
   "ID": "c6acfb99a64f418b85b87240524b2da7",
   "Name": "Gematombe",
   "ProductSlug": "gematombe-b47681",
-  "Ranking_EOS_Progress": 771,
+  "Ranking_EOS_Progress": 772,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewPlayers": 497,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-25T21:58:52.5586203+00:00",
-  "LastUpdate_Ratings": "2023-12-02T17:02:31.3548518+00:00",
-  "LastUpdate_Achievements": "2023-12-02T17:09:08.832431+00:00"
+  "LastUpdate_Ratings": "2023-12-02T18:02:39.908125+00:00",
+  "LastUpdate_Achievements": "2023-12-02T18:09:16.951264+00:00"
 }

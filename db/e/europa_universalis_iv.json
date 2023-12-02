@@ -12721,10 +12721,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 59563,
       "NumberOfAwardsMax": 7225
+    },
+    {
+      "Time": "2023-12-02T17:59:11.8288202+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 59576,
+      "NumberOfAwardsMax": 7225
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 59563,
+  "NumberOfAwards": 59576,
   "NumberOfAwardsMax": 7225,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -12780,7 +12786,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 6012
+      "Count": 6025
     },
     {
       "Text": "This game has Amazing Characters",
@@ -12795,9 +12801,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 467789,
+  "EOS_Progressed": 467841,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4400,
+  "EOS_NewPlayers": 4398,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38750,6 +38756,11 @@
       "Time": "2023-12-02T17:06:33.7530334+00:00",
       "NumProgressed": 467789,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T18:05:54.9298462+00:00",
+      "NumProgressed": 467841,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -39559,9 +39570,9 @@
       "ID": "achievement_first_come_first_serve",
       "SetID": "8p2n7he",
       "Name": "First Come, First Serve",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 468
     },
     {
       "ID": "achievement_first_toungoo_empire",
@@ -40463,9 +40474,9 @@
       "ID": "achievement_one_faith",
       "SetID": "67mdiil",
       "Name": "One Faith",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 468
     },
     {
       "ID": "achievement_one_family_to_rule_them_all",
@@ -41559,9 +41570,9 @@
       "ID": "achievement_world_conqueror",
       "SetID": "67mdiil",
       "Name": "World Conqueror",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 468
     },
     {
       "ID": "achievement_world_discoverer",
@@ -41664,21 +41675,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 467789,
+      "Progressed": 467841,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 467789,
+      "Progressed": 467841,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-12-02T16:00:00.395017+00:00",
-  "LastChanged_Achievements": "2023-12-02T17:06:33.7530329+00:00",
+  "LastChanged": "2023-12-02T17:59:11.8288201+00:00",
+  "LastChanged_Achievements": "2023-12-02T18:05:54.9298459+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:13.9553272+00:00",
-  "LastUpdate_Ratings": "2023-12-02T16:59:44.5106101+00:00",
-  "LastUpdate_Achievements": "2023-12-02T17:06:33.7540945+00:00"
+  "LastUpdate_Ratings": "2023-12-02T17:59:11.8288205+00:00",
+  "LastUpdate_Achievements": "2023-12-02T18:05:54.9309473+00:00"
 }

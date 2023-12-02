@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3117,
+  "EOS_Progressed": 3122,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -4701,6 +4701,11 @@
       "Time": "2023-12-02T17:04:53.6636039+00:00",
       "NumProgressed": 3117,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-02T18:04:41.5851878+00:00",
+      "NumProgressed": 3122,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -4736,7 +4741,7 @@
       "Name": "Helping the little ones",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "MOVE_ON",
@@ -4744,7 +4749,7 @@
       "Name": "The will to move on",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "REUNION",
@@ -4752,7 +4757,7 @@
       "Name": "Reunion",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "SLIDERS",
@@ -4776,7 +4781,7 @@
       "Name": "Starting as a duo",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -4784,7 +4789,7 @@
       "Name": "Stronger together",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "THE_END",
@@ -4792,7 +4797,7 @@
       "Name": "The end",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "TRANSMISSION",
@@ -4808,14 +4813,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3117,
+      "Progressed": 3122,
       "Completed": 6
     }
   ],
@@ -4823,8 +4828,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-02T17:04:53.6636037+00:00",
+  "LastChanged_Achievements": "2023-12-02T18:04:41.5851873+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:11.4172753+00:00",
-  "LastUpdate_Ratings": "2023-12-02T16:57:50.721676+00:00",
-  "LastUpdate_Achievements": "2023-12-02T17:04:53.6636376+00:00"
+  "LastUpdate_Ratings": "2023-12-02T17:57:52.2863603+00:00",
+  "LastUpdate_Achievements": "2023-12-02T18:04:41.5852184+00:00"
 }

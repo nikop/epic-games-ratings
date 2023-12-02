@@ -61,7 +61,7 @@ Number of Ratings: 209  (23.09.2022)
 | All the chests | 14.00% | ~328 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,341 (Ranked 218)  
-Completed: 290 (12.39%) (Ranked 35)  
+Completed: 290 (12.39%) (Ranked 34)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

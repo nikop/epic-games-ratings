@@ -17,9 +17,9 @@
 | Lacertian Champion | 30.00% | ~29 |
 | Anomaly Destroyer | 29.00% | ~28 |
 | Eridanian Champion | 29.00% | ~28 |
+| Apian Champion | 26.00% | ~25 |
+| Astral Adventurer | 25.00% | ~24 |
 | Star Killer | 25.00% | ~24 |
-| Apian Champion | 25.00% | ~24 |
-| Astral Adventurer | 24.00% | ~23 |
 | Loyal Partner | 24.00% | ~23 |
 | Behenian Champion | 22.00% | ~21 |
 | Shard Spender | 20.00% | ~19 |

@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 491,
+  "EOS_Progressed": 492,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
@@ -1542,6 +1542,11 @@
       "Time": "2023-12-02T17:08:02.7860421+00:00",
       "NumProgressed": 491,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T18:08:28.9409343+00:00",
+      "NumProgressed": 492,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1553,23 +1558,23 @@
       "Name": "Travel Streamer",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "ACHIEVEMENT_10",
       "SetID": "7pimpda",
       "Name": "Giant Lizard Killer",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 128
     },
     {
       "ID": "ACHIEVEMENT_11",
       "SetID": "7pimpda",
       "Name": "Guardian",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -1583,9 +1588,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "7pimpda",
       "Name": "Flying Kobold Killer",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -1639,9 +1644,9 @@
       "ID": "ACHIEVEMENT_2",
       "SetID": "7pimpda",
       "Name": "Training Simulation",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 383
+      "UsersEstimate": 379
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1721,7 +1726,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1833,7 +1838,7 @@
       "Name": "Giantess Slayer",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -1841,7 +1846,7 @@
       "Name": "Warden Slayer",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -1873,7 +1878,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -1881,7 +1886,7 @@
       "Name": "Flower Thief",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -1897,7 +1902,7 @@
       "Name": "Seal Breaker",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -1912,7 +1917,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 491,
+      "Progressed": 492,
       "Completed": 1
     }
   ],
@@ -1920,8 +1925,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-02T17:08:02.7860417+00:00",
+  "LastChanged_Achievements": "2023-12-02T18:08:28.9409338+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-12-02T17:01:32.1880201+00:00",
-  "LastUpdate_Achievements": "2023-12-02T17:08:02.786073+00:00"
+  "LastUpdate_Ratings": "2023-12-02T18:00:27.0690888+00:00",
+  "LastUpdate_Achievements": "2023-12-02T18:08:28.9409689+00:00"
 }

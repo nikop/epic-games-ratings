@@ -6,9 +6,9 @@
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 179,
-  "Ranking_EOS_Completed": 271,
+  "Ranking_EOS_Completed": 268,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -171,11 +171,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7291,
-  "EOS_Completed": 11,
-  "EOS_NewPlayers": 788,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 0.15,
+  "EOS_Progressed": 7292,
+  "EOS_Completed": 12,
+  "EOS_NewPlayers": 784,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
       "Time": "2023-10-17T16:05:13.3734944+00:00",
@@ -5281,6 +5281,11 @@
       "Time": "2023-12-02T17:09:48.7934136+00:00",
       "NumProgressed": 7291,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-02T18:09:46.7354764+00:00",
+      "NumProgressed": 7292,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5365,7 +5370,7 @@
       "Name": "First Time?",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2114
+      "UsersEstimate": 2115
     },
     {
       "ID": "FuneralForTheDeath",
@@ -5403,9 +5408,9 @@
       "ID": "HeJustWantedToHelp",
       "SetID": "acc6ea0",
       "Name": "He Just Wanted To Help",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 219
+      "UsersEstimate": 292
     },
     {
       "ID": "JackOfAllTrades",
@@ -5549,7 +5554,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "k01101110",
@@ -5557,23 +5562,23 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7291,
-      "Completed": 11
+      "Progressed": 7292,
+      "Completed": 12
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-02T04:02:27.6504223+00:00",
-  "LastChanged_Achievements": "2023-12-02T17:09:48.7934132+00:00",
+  "LastChanged_Achievements": "2023-12-02T18:09:46.735476+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-02T16:57:28.5302508+00:00",
-  "LastUpdate_Achievements": "2023-12-02T17:09:48.7934488+00:00"
+  "LastUpdate_Ratings": "2023-12-02T17:57:37.2239764+00:00",
+  "LastUpdate_Achievements": "2023-12-02T18:09:46.7355142+00:00"
 }

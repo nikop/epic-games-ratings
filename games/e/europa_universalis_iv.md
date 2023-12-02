@@ -88,6 +88,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Fanatic Collectivist | 0.10% | ~468 |
 | Fine Financials | 0.10% | ~468 |
 | A Fine Goosestep | 0.10% | ~468 |
+| First Come, First Serve | 0.10% | ~468 |
 | The First Toungoo Empire | 0.10% | ~468 |
 | For the Emperor! | 0.10% | ~468 |
 | For the Glory | 0.10% | ~468 |
@@ -166,6 +167,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Not just Pizza | 0.10% | ~468 |
 | Not so sad a state... | 0.10% | ~468 |
 | On the Rhodes Again | 0.10% | ~468 |
+| One Faith | 0.10% | ~468 |
 | One Family to Rule them All | 0.10% | ~468 |
 | One King to Rule! | 0.10% | ~468 |
 | One Night in Paris | 0.10% | ~468 |
@@ -257,6 +259,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The White Elephant | 0.10% | ~468 |
 | Winged Hussars | 0.10% | ~468 |
 | Wonderful | 0.10% | ~468 |
+| World Conqueror | 0.10% | ~468 |
 | World Discoverer | 0.10% | ~468 |
 | You Get A New Home, And You Get A New Home | 0.10% | ~468 |
 | Breadbasket of the World | 0.10% | ~468 |
@@ -288,7 +291,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Eat your Greens | 0.00% | ~0 |
 | Empire of Mann | 0.00% | ~0 |
 | The Fezzan Corridors | 0.00% | ~0 |
-| First Come, First Serve | 0.00% | ~0 |
 | For Odin! | 0.00% | ~0 |
 | Forgive me, for I have Sindh | 0.00% | ~0 |
 | From Frankfurt to the Andes | 0.00% | ~0 |
@@ -322,7 +324,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | New, New Deli | 0.00% | ~0 |
 | Norwegian Wood | 0.00% | ~0 |
 | On the Edge of Madness | 0.00% | ~0 |
-| One Faith | 0.00% | ~0 |
 | One nation to rule them all | 0.00% | ~0 |
 | Østindisk Kompagni Te | 0.00% | ~0 |
 | Pandya Empire | 0.00% | ~0 |
@@ -366,11 +367,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
-| World Conqueror | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 467,789 (Ranked 41)  
+Progressed: 467,841 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -596,10 +596,10 @@ Completed: 1 (0.00%) (Ranked 365)
 | 2023-11-29 | 465,985 | 1 |
 | 2023-11-30 | 466,525 | 1 |
 | 2023-12-01 | 467,159 | 1 |
-| 2023-12-02 | 467,789 | 1 |
+| 2023-12-02 | 467,841 | 1 |
 ## Awards
 Max (Educational): 7,225  (Ranked 54)  
-Sum: 59,563 (Ranked 24)  
+Sum: 59,576 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -610,7 +610,7 @@ Diff (max vs sum): 30
 | This game is Extremely Fun | 6,816 |
 | This game is Relaxing | 6,651 |
 | This game has Competitive Players | 6,488 |
-| This game has Amazing Storytelling | 6,012 |
+| This game has Amazing Storytelling | 6,025 |
 | This game has Amazing Characters | 5,568 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -935,4 +935,4 @@ Diff (max vs sum): 30
 | 2023-11-29 | 4.69 | - | 7,207 | 59,283 |
 | 2023-11-30 | 4.69 | - | 7,217 | 59,362 |
 | 2023-12-01 | 4.69 | - | 7,225 | 59,450 |
-| 2023-12-02 | 4.69 | - | 7,225 | 59,563 |
+| 2023-12-02 | 4.69 | - | 7,225 | 59,576 |

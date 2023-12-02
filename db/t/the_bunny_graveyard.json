@@ -2,9 +2,9 @@
   "ID": "cf9e79c6e0fb46ab80a038109fd0bc5f",
   "Name": "The Bunny Graveyard",
   "ProductSlug": "the-bunny-graveyard-310f69",
-  "Ranking_EOS_Progress": 771,
+  "Ranking_EOS_Progress": 772,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewPlayers": 497,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-06T11:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:57:46.0532226+00:00",
   "LastChanged": "2023-03-31T05:57:46.0532227+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:42.9479159+00:00",
-  "LastUpdate_Ratings": "2023-12-02T16:58:57.8054493+00:00",
-  "LastUpdate_Achievements": "2023-12-02T17:08:11.6307818+00:00"
+  "LastUpdate_Ratings": "2023-12-02T17:58:38.7415608+00:00",
+  "LastUpdate_Achievements": "2023-12-02T18:08:35.3807039+00:00"
 }

@@ -16,9 +16,9 @@
 | Tributes of Caladrias | 9.00% | ~22 |
 | Shatter Them All | 9.00% | ~22 |
 | Geared Up | 9.00% | ~22 |
+| Stone Collection | 9.00% | ~22 |
 | Big Bazar | 8.00% | ~19 |
 | Fashion Victim | 8.00% | ~19 |
-| Stone Collection | 8.00% | ~19 |
 | Calm before the Storm | 5.00% | ~12 |
 | To Battle | 5.00% | ~12 |
 | Godslayer | 5.00% | ~12 |
@@ -41,7 +41,7 @@
 | Shardbearer | 0.80% | ~2 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241 (Ranked 376)  
+Progressed: 242 (Ranked 376)  
 Completed: 2 (0.83%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,3 +92,4 @@ Completed: 2 (0.83%) (Ranked 179)
 | 2023-11-27 | 230 | 2 |
 | 2023-11-28 | 237 | 2 |
 | 2023-11-30 | 241 | 2 |
+| 2023-12-02 | 242 | 2 |

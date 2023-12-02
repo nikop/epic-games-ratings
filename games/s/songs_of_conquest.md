@@ -13,10 +13,10 @@ Number of Ratings: 292  (23.09.2022)
 | Dressed For Success | 10.00% | ~33 |
 | Sorcerous Spree | 6.00% | ~20 |
 | Humiliation | 6.00% | ~20 |
+| Veni, Vidi, Vici | 5.00% | ~16 |
 | Multi Kill | 4.00% | ~13 |
 | Whoops! | 4.00% | ~13 |
 | Expert Essence Employment | 4.00% | ~13 |
-| Veni, Vidi, Vici | 4.00% | ~13 |
 | Landlord Extraordinaire | 3.00% | ~10 |
 | Master | 3.00% | ~10 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~10 |
@@ -27,13 +27,13 @@ Number of Ratings: 292  (23.09.2022)
 | This Spot's Taken | 1.00% | ~3 |
 | Infernal Influence | 1.00% | ~3 |
 | Deepstrike | 0.90% | ~3 |
+| Don't Touch My Stuff | 0.90% | ~3 |
 | Ultra Kill | 0.90% | ~3 |
 | Death To Diplomacy | 0.60% | ~2 |
 | Versatile Wielder | 0.60% | ~2 |
 | Coming Through! | 0.60% | ~2 |
 | Barbecue | 0.60% | ~2 |
 | From the Ashes | 0.60% | ~2 |
-| Don't Touch My Stuff | 0.60% | ~2 |
 | Cleave | 0.60% | ~2 |
 | Grand Master | 0.60% | ~2 |
 | Hello There | 0.30% | ~1 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 3638,
+  "Ranking_EOS_NewCompleters": 3639,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3341,9 +3341,9 @@
       "Count": 327
     }
   ],
-  "EOS_Progressed": 17566,
+  "EOS_Progressed": 17567,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": -7,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -14606,6 +14606,11 @@
       "Time": "2023-12-02T17:09:02.9478869+00:00",
       "NumProgressed": 17566,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-02T18:09:12.5992116+00:00",
+      "NumProgressed": 17567,
+      "NumCompleted": 49
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -14880,9 +14885,9 @@
       "ID": "WinOnCoral",
       "SetID": "cfbk359",
       "Name": "Coral Forest",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "WinOnCursed",
@@ -14992,9 +14997,9 @@
       "ID": "WinWithoutDeath",
       "SetID": "cfbk359",
       "Name": "No Deaths",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "WinWithoutOrders",
@@ -15064,9 +15069,9 @@
       "ID": "WinNearStorms",
       "SetID": "cfbk359",
       "Name": "Gathering Storm",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 351
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -15089,15 +15094,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17566,
+      "Progressed": 17567,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-02T05:00:23.9654103+00:00",
-  "LastChanged_Achievements": "2023-12-02T17:09:02.9478864+00:00",
+  "LastChanged_Achievements": "2023-12-02T18:09:12.5992112+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:56.4973761+00:00",
-  "LastUpdate_Ratings": "2023-12-02T17:02:41.8267688+00:00",
-  "LastUpdate_Achievements": "2023-12-02T17:09:02.9479844+00:00"
+  "LastUpdate_Ratings": "2023-12-02T18:02:47.8383848+00:00",
+  "LastUpdate_Achievements": "2023-12-02T18:09:12.5992892+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "3a66d4c637c4469b80092d2f1fa1f26a",
   "Name": "Mind Scanners",
   "ProductSlug": "mind-scanners",
-  "Ranking_EOS_Progress": 771,
+  "Ranking_EOS_Progress": 772,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewPlayers": 497,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-09-23T13:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:32.7996744+00:00",
   "LastChanged": "2023-03-31T05:58:32.7996745+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:39.3506932+00:00",
-  "LastUpdate_Ratings": "2023-12-02T17:02:57.8310543+00:00",
-  "LastUpdate_Achievements": "2023-12-02T17:08:24.3476959+00:00"
+  "LastUpdate_Ratings": "2023-12-02T18:02:57.7818933+00:00",
+  "LastUpdate_Achievements": "2023-12-02T18:08:44.7792635+00:00"
 }

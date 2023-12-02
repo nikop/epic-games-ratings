@@ -559,7 +559,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2950,
+  "EOS_Progressed": 2952,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 0,
@@ -8649,6 +8649,11 @@
       "Time": "2023-12-02T17:09:29.6651764+00:00",
       "NumProgressed": 2950,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-02T18:09:32.4662263+00:00",
+      "NumProgressed": 2952,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -8844,7 +8849,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1239
+      "UsersEstimate": 1240
     },
     {
       "ID": "fourleafclover",
@@ -8868,7 +8873,7 @@
       "Name": "Full Party",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "gearenchanting",
@@ -8876,7 +8881,7 @@
       "Name": "Gear Enchanting",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "guardianmaster",
@@ -8932,7 +8937,7 @@
       "Name": "Inspection",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "jewelenchanting",
@@ -8996,7 +9001,7 @@
       "Name": "Miner Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "missionsdedication",
@@ -9020,7 +9025,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "mythicpower",
@@ -9028,7 +9033,7 @@
       "Name": "Mythic Power",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "naturaltalent",
@@ -9052,7 +9057,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "prestigiousx10",
@@ -9116,7 +9121,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1681
+      "UsersEstimate": 1683
     },
     {
       "ID": "thealchemist",
@@ -9148,7 +9153,7 @@
       "Name": "The game is on",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "thepowerofawakening",
@@ -9220,7 +9225,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2744
+      "UsersEstimate": 2745
     },
     {
       "ID": "warmachinesarmy",
@@ -9244,7 +9249,7 @@
       "Name": "What lies behind the bush",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "worldmap",
@@ -9252,14 +9257,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2301
+      "UsersEstimate": 2303
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2950,
+      "Progressed": 2952,
       "Completed": 2
     }
   ],
@@ -9267,8 +9272,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-01T15:58:50.3626658+00:00",
-  "LastChanged_Achievements": "2023-12-02T17:09:29.665176+00:00",
+  "LastChanged_Achievements": "2023-12-02T18:09:32.4662259+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:01.7095439+00:00",
-  "LastUpdate_Ratings": "2023-12-02T16:59:42.5961408+00:00",
-  "LastUpdate_Achievements": "2023-12-02T17:09:29.6652603+00:00"
+  "LastUpdate_Ratings": "2023-12-02T17:59:10.5009788+00:00",
+  "LastUpdate_Achievements": "2023-12-02T18:09:32.4663125+00:00"
 }

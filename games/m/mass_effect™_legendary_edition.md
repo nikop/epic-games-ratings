@@ -12,16 +12,16 @@
 | Quarian Ally | 64.00% | ~947 |
 | Medal of Heroism | 60.00% | ~888 |
 | Honorarium of Corporate Service | 59.00% | ~873 |
+| Medal of Exploration II | 54.00% | ~799 |
 | Council Legion of Merit | 54.00% | ~799 |
-| Medal of Exploration II | 53.00% | ~784 |
 | Medal of Honor | 52.00% | ~770 |
 | Meritorious Service Medal | 52.00% | ~770 |
 | Turian Ally | 52.00% | ~770 |
 | Charismatic | 51.00% | ~755 |
 | Soldier | 50.00% | ~740 |
 | Asari Ally | 47.00% | ~696 |
+| Medal of Exploration III | 46.00% | ~681 |
 | Soldier Ally | 46.00% | ~681 |
-| Medal of Exploration III | 45.00% | ~666 |
 | Principled | 45.00% | ~666 |
 | Paramour I | 44.00% | ~651 |
 | Colonial Savior | 44.00% | ~651 |
@@ -38,7 +38,7 @@
 | The Archangel | 38.00% | ~562 |
 | The Professor | 38.00% | ~562 |
 | Power Full | 37.00% | ~548 |
-| The Convict | 35.00% | ~518 |
+| The Convict | 36.00% | ~533 |
 | The Krogan | 35.00% | ~518 |
 | Colony Defense | 34.00% | ~503 |
 | Broke, Blind, and Bedlam | 34.00% | ~503 |
@@ -98,10 +98,10 @@
 | Pyromaniac | 20.00% | ~296 |
 | No One Left Behind | 20.00% | ~296 |
 | Well Connected | 20.00% | ~296 |
+| Master and Commander | 19.00% | ~281 |
 | Executioner | 18.00% | ~266 |
 | Patriot | 18.00% | ~266 |
 | Legend | 18.00% | ~266 |
-| Master and Commander | 18.00% | ~266 |
 | Long Service Medal | 16.00% | ~237 |
 | Sabotage Specialist | 16.00% | ~237 |
 | Throw Mastery | 16.00% | ~237 |

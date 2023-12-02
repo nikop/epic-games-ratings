@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -582,9 +582,9 @@
       "ID": "AstralAdventurer",
       "SetID": "1jeo1g7",
       "Name": "Astral Adventurer",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "AstralSeeker",
@@ -1134,9 +1134,9 @@
       "ID": "ApianChampion",
       "SetID": "1jeo1g7",
       "Name": "Apian Champion",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ApianHero",
@@ -1285,8 +1285,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-02T17:04:22.3370671+00:00",
+  "LastChanged_Achievements": "2023-12-02T18:04:18.8348022+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:14.6113679+00:00",
-  "LastUpdate_Ratings": "2023-12-02T17:00:24.7051891+00:00",
-  "LastUpdate_Achievements": "2023-12-02T17:04:22.3371442+00:00"
+  "LastUpdate_Ratings": "2023-12-02T17:59:40.1079851+00:00",
+  "LastUpdate_Achievements": "2023-12-02T18:04:18.8348853+00:00"
 }

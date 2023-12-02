@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3609,9 +3609,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31833,
+  "EOS_Progressed": 31835,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 291,
+  "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -21149,6 +21149,11 @@
       "Time": "2023-12-02T16:07:13.2040219+00:00",
       "NumProgressed": 31833,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-02T18:05:59.1377618+00:00",
+      "NumProgressed": 31835,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -21312,7 +21317,7 @@
       "Name": "Ghost Expert",
       "Percentage": 0.3,
       "XP": 75,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "Icing_Cake",
@@ -21480,7 +21485,7 @@
       "Name": "Surprise!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "Swift_Removers",
@@ -21567,7 +21572,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31833,
+      "Progressed": 31835,
       "Completed": 69
     }
   ],
@@ -21575,8 +21580,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-02T17:01:35.0121715+00:00",
-  "LastChanged_Achievements": "2023-12-02T17:06:39.9048291+00:00",
+  "LastChanged_Achievements": "2023-12-02T18:05:59.1377613+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:05.0819015+00:00",
-  "LastUpdate_Ratings": "2023-12-02T17:01:35.0121718+00:00",
-  "LastUpdate_Achievements": "2023-12-02T17:06:39.9049349+00:00"
+  "LastUpdate_Ratings": "2023-12-02T18:00:29.0747595+00:00",
+  "LastUpdate_Achievements": "2023-12-02T18:05:59.1378679+00:00"
 }

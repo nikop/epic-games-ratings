@@ -4,7 +4,7 @@
   "ProductSlug": "horse-club-adventures-2-hazelwood-stories-b257d3",
   "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
@@ -215,9 +215,9 @@
       "ID": "ACH_03_MODEL",
       "SetID": "9loam6m",
       "Name": "Model",
-      "Percentage": 55,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_04_NIGHT_BENEATH_STARS",
@@ -343,9 +343,9 @@
       "ID": "ACH_19_HORSE_FRIENDS",
       "SetID": "9loam6m",
       "Name": "Horse friends",
-      "Percentage": 76,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_20_HORSE_LANGUAGE",
@@ -359,9 +359,9 @@
       "ID": "ACH_21_FIRST_RACE",
       "SetID": "9loam6m",
       "Name": "First race",
-      "Percentage": 76,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_22_HORSE_RACES",
@@ -407,9 +407,9 @@
       "ID": "ACH_27_HORSEMANSHIP",
       "SetID": "9loam6m",
       "Name": "Horsemanship",
-      "Percentage": 55,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_28_THE_FINE_ART",
@@ -455,9 +455,9 @@
       "ID": "ACH_33_LOVELY_VIEW",
       "SetID": "9loam6m",
       "Name": "Lovely view",
-      "Percentage": 52,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_34_HAZELWOOD",
@@ -542,8 +542,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-12-02T17:05:59.3067362+00:00",
+  "LastChanged_Achievements": "2023-12-02T18:05:29.5124777+00:00",
   "LastUpdate_AppInfo": "2023-11-30T02:19:30.3024246+00:00",
-  "LastUpdate_Ratings": "2023-12-02T17:02:38.9080261+00:00",
-  "LastUpdate_Achievements": "2023-12-02T17:05:59.3067667+00:00"
+  "LastUpdate_Ratings": "2023-12-02T18:02:45.3892635+00:00",
+  "LastUpdate_Achievements": "2023-12-02T18:05:29.5125048+00:00"
 }

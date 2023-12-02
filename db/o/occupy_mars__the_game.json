@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1764,
+  "EOS_Progressed": 1765,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4472,6 +4472,11 @@
       "Time": "2023-12-02T16:08:55.3280182+00:00",
       "NumProgressed": 1764,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T18:08:47.4676209+00:00",
+      "NumProgressed": 1765,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4563,7 +4568,7 @@
       "Name": "Zero Waste",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -4755,7 +4760,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -4843,7 +4848,7 @@
       "Name": "Bob The Builder",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -4866,7 +4871,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1764,
+      "Progressed": 1765,
       "Completed": 0
     }
   ],
@@ -4874,8 +4879,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-01T21:00:52.7715191+00:00",
-  "LastChanged_Achievements": "2023-12-02T17:08:28.0176758+00:00",
+  "LastChanged_Achievements": "2023-12-02T18:08:47.4676205+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:29.2578191+00:00",
-  "LastUpdate_Ratings": "2023-12-02T17:01:30.7126292+00:00",
-  "LastUpdate_Achievements": "2023-12-02T17:08:28.0177198+00:00"
+  "LastUpdate_Ratings": "2023-12-02T18:00:25.9923004+00:00",
+  "LastUpdate_Achievements": "2023-12-02T18:08:47.4676735+00:00"
 }

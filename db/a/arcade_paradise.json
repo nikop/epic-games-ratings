@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewPlayers": 436,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 694,
+  "EOS_Progressed": 695,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -683,6 +683,11 @@
       "Time": "2023-11-23T19:03:34.2384473+00:00",
       "NumProgressed": 694,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T18:04:23.2204882+00:00",
+      "NumProgressed": 695,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -718,7 +723,7 @@
       "Name": "GOOOAAAL",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "3DigitGoalTrophy",
@@ -814,7 +819,7 @@
       "Name": "Bug Fixer",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "DreadTrophy",
@@ -822,7 +827,7 @@
       "Name": "Existential dread",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "DropBallTrophy",
@@ -838,7 +843,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "Ext4Trophy",
@@ -974,7 +979,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "MaxPriceTrophy",
@@ -1102,7 +1107,7 @@
       "Name": "Gerald of Riviera",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "YouthTrophy",
@@ -1125,7 +1130,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 694,
+      "Progressed": 695,
       "Completed": 0
     }
   ],
@@ -1133,8 +1138,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-10-15T06:02:18.0550602+00:00",
-  "LastChanged_Achievements": "2023-12-02T17:04:28.7530937+00:00",
+  "LastChanged_Achievements": "2023-12-02T18:04:23.2204878+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:27.8848841+00:00",
-  "LastUpdate_Ratings": "2023-12-02T16:57:59.400909+00:00",
-  "LastUpdate_Achievements": "2023-12-02T17:04:28.7531346+00:00"
+  "LastUpdate_Ratings": "2023-12-02T17:57:57.5611261+00:00",
+  "LastUpdate_Achievements": "2023-12-02T18:04:23.2205318+00:00"
 }

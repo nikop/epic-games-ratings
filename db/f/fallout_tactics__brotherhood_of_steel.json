@@ -3,11 +3,11 @@
   "Name": "Fallout Tactics: Brotherhood of Steel",
   "ProductSlug": "fallout-tactics-brotherhood-of-steel",
   "Ranking_Rating": 667,
-  "Ranking_Popularity": 352,
-  "Ranking_PopularitySum": 446,
-  "Ranking_EOS_Progress": 771,
+  "Ranking_Popularity": 350,
+  "Ranking_PopularitySum": 445,
+  "Ranking_EOS_Progress": 772,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewPlayers": 497,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -425,18 +425,24 @@
       "Rating": 4.45,
       "NumberOfAwards": 110,
       "NumberOfAwardsMax": 110
+    },
+    {
+      "Time": "2023-12-02T18:03:01.7812512+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 111,
+      "NumberOfAwardsMax": 111
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 110,
-  "NumberOfAwardsMax": 110,
+  "NumberOfAwards": 111,
+  "NumberOfAwardsMax": 111,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 110
+      "Count": 111
     }
   ],
   "EOS_Progressed": 0,
@@ -451,8 +457,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T22:01:33.5009817+00:00",
   "FirstSeenRating": "2022-12-23T20:57:41.5501633+00:00",
-  "LastChanged": "2023-11-28T19:03:01.147458+00:00",
+  "LastChanged": "2023-12-02T18:03:01.781251+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:23.434791+00:00",
-  "LastUpdate_Ratings": "2023-12-02T17:03:03.6998904+00:00",
-  "LastUpdate_Achievements": "2023-12-02T17:05:36.4336307+00:00"
+  "LastUpdate_Ratings": "2023-12-02T18:03:01.7812514+00:00",
+  "LastUpdate_Achievements": "2023-12-02T18:05:12.6888027+00:00"
 }

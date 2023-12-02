@@ -2,9 +2,9 @@
   "ID": "4506e6bda0c641f88da5b9baef45a8d5",
   "Name": "Critter Crops",
   "ProductSlug": "critter-crops-274f16",
-  "Ranking_EOS_Progress": 771,
+  "Ranking_EOS_Progress": 772,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewPlayers": 497,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-25T21:58:49.2974896+00:00",
-  "LastUpdate_Ratings": "2023-12-02T17:01:29.0740887+00:00",
-  "LastUpdate_Achievements": "2023-12-02T17:09:24.9879691+00:00"
+  "LastUpdate_Ratings": "2023-12-02T18:00:24.8453981+00:00",
+  "LastUpdate_Achievements": "2023-12-02T18:09:28.9317986+00:00"
 }

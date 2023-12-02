@@ -6,50 +6,50 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,124 |
-| Gun Fu | 7.00% | ~67,739 |
-| The Fool | 5.00% | ~48,385 |
-| Right Back At Ya | 4.00% | ~38,708 |
-| The Lovers | 4.00% | ~38,708 |
-| Full Body Conversion | 3.00% | ~29,031 |
-| Stanislavski's Method | 3.00% | ~29,031 |
-| The Wheel of Fortune | 3.00% | ~29,031 |
-| True Soldier | 3.00% | ~29,031 |
-| Christmas Tree Attack | 2.00% | ~19,354 |
-| The Hermit | 2.00% | ~19,354 |
-| The High Priestess | 2.00% | ~19,354 |
-| True Warrior | 2.00% | ~19,354 |
-| Legend of The Afterlife | 2.00% | ~19,354 |
-| Relic Ruler | 2.00% | ~1,926 |
-| All the President's Men | 2.00% | ~1,926 |
-| Arachnophobia | 2.00% | ~1,926 |
-| Bushido and Chill | 1.00% | ~9,677 |
-| Master Crafter | 1.00% | ~9,677 |
-| The Quick and the Dead | 1.00% | ~9,677 |
-| Life of the Road | 1.00% | ~9,677 |
-| The World | 1.00% | ~9,677 |
-| I Am The Law | 0.90% | ~8,709 |
-| Two Heads, One Bullet | 0.90% | ~8,709 |
-| Judy vs Night City | 0.90% | ~8,709 |
+| V for Vendetta | 12.00% | ~116,131 |
+| Gun Fu | 7.00% | ~67,743 |
+| The Fool | 5.00% | ~48,388 |
+| Right Back At Ya | 4.00% | ~38,710 |
+| The Lovers | 4.00% | ~38,710 |
+| Full Body Conversion | 3.00% | ~29,033 |
+| Stanislavski's Method | 3.00% | ~29,033 |
+| The Wheel of Fortune | 3.00% | ~29,033 |
+| True Soldier | 3.00% | ~29,033 |
+| Christmas Tree Attack | 2.00% | ~19,355 |
+| The Hermit | 2.00% | ~19,355 |
+| The High Priestess | 2.00% | ~19,355 |
+| True Warrior | 2.00% | ~19,355 |
+| Legend of The Afterlife | 2.00% | ~19,355 |
+| Relic Ruler | 2.00% | ~1,928 |
+| All the President's Men | 2.00% | ~1,928 |
+| Arachnophobia | 2.00% | ~1,928 |
+| Bushido and Chill | 1.00% | ~9,678 |
+| Master Crafter | 1.00% | ~9,678 |
+| The Quick and the Dead | 1.00% | ~9,678 |
+| Life of the Road | 1.00% | ~9,678 |
+| The World | 1.00% | ~9,678 |
+| I Am The Law | 0.90% | ~8,710 |
+| Two Heads, One Bullet | 0.90% | ~8,710 |
+| Judy vs Night City | 0.90% | ~8,710 |
 | To Protect and Serve | 0.80% | ~7,742 |
 | Spin Doctor | 0.80% | ~771 |
-| Easy Come, Easy Go | 0.70% | ~674 |
-| The Wandering Fool | 0.60% | ~5,806 |
+| Easy Come, Easy Go | 0.70% | ~675 |
+| The Wandering Fool | 0.60% | ~5,807 |
 | King of Wands | 0.60% | ~578 |
 | Dirty Deeds | 0.60% | ~578 |
-| Ten out of Ten | 0.50% | ~4,838 |
-| The Sun | 0.50% | ~4,838 |
+| Ten out of Ten | 0.50% | ~4,839 |
+| The Sun | 0.50% | ~4,839 |
 | To Bad Decisions! | 0.40% | ~3,871 |
 | Breathtaking | 0.40% | ~3,871 |
 | The Star | 0.40% | ~3,871 |
-| The Tower | 0.40% | ~385 |
+| The Tower | 0.40% | ~386 |
 | Autojock | 0.30% | ~2,903 |
 | Must Be Rats | 0.30% | ~2,903 |
 | The APB is Not Enough | 0.30% | ~289 |
 | Judgement Day | 0.30% | ~289 |
 | King of Pentacles | 0.30% | ~289 |
 | King of Swords | 0.30% | ~289 |
-| Temperance | 0.20% | ~1,935 |
+| Temperance | 0.20% | ~1,936 |
 | King of Cups | 0.20% | ~193 |
 | City Lights | 0.10% | ~968 |
 | Frequent Flyer | 0.10% | ~968 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 967,697 (Ranked 15)  
+Progressed: 967,756 (Ranked 15)  
 Completed: 2,836 (0.29%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,14 +300,14 @@ Completed: 2,836 (0.29%) (Ranked 239)
 | 2023-11-29 | 962,972 | 2,823 |
 | 2023-11-30 | 964,640 | 2,827 |
 | 2023-12-01 | 966,265 | 2,832 |
-| 2023-12-02 | 967,697 | 2,836 |
+| 2023-12-02 | 967,756 | 2,836 |
 ## Awards
-Max (Character Customization): 113,560  (Ranked 9)  
-Sum: 380,637 (Ranked 9)  
+Max (Character Customization): 114,587  (Ranked 9)  
+Sum: 381,664 (Ranked 9)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 113,560 |
+| This game has Inclusive Character Customization | 114,587 |
 | This game has Great Boss Battles | 82,197 |
 | This game is Great for Beginners | 23,038 |
 | This game has Diverse Characters | 22,425 |
@@ -638,4 +638,4 @@ Diff (max vs sum): 0
 | 2023-11-29 | 4.65 | - | 111,778 | 373,471 |
 | 2023-11-30 | 4.65 | - | 112,636 | 375,982 |
 | 2023-12-01 | 4.65 | - | 113,560 | 378,672 |
-| 2023-12-02 | 4.65 | - | 113,560 | 380,637 |
+| 2023-12-02 | 4.65 | - | 114,587 | 381,664 |

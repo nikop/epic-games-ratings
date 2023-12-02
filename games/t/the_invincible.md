@@ -11,13 +11,13 @@
 | Survivors | 29.00% | ~142 |
 | The Condor | 27.00% | ~132 |
 | The End | 27.00% | ~132 |
+| The Alliance | 21.00% | ~103 |
 | The Necroevolution | 21.00% | ~103 |
-| The Alliance | 20.00% | ~98 |
 | Krauta is alive | 20.00% | ~98 |
 | Peacemaker | 19.00% | ~93 |
 | Volcanologist | 19.00% | ~93 |
-| On her own | 15.00% | ~73 |
-| Beyond divisions | 15.00% | ~73 |
+| On her own | 15.00% | ~74 |
+| Beyond divisions | 14.00% | ~69 |
 | Fierce fight | 13.00% | ~64 |
 | Evacuation | 13.00% | ~64 |
 | Flying Objects Operator | 12.00% | ~59 |
@@ -34,7 +34,7 @@
 | Convoy list | 1.00% | ~5 |
 | No more mistakes | 0.60% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 489 (Ranked 314)  
+Progressed: 490 (Ranked 314)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,4 +61,4 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-29 | 455 | 1 |
 | 2023-11-30 | 468 | 0 |
 | 2023-12-01 | 480 | 0 |
-| 2023-12-02 | 489 | 0 |
+| 2023-12-02 | 490 | 0 |

@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Shop Til They Drop | 0.00% | ~0 |
 | Pimp My Raid | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 643)  
+Progressed: 5 (Ranked 644)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |

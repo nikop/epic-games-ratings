@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 489,
+  "EOS_Progressed": 490,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1340,6 +1340,11 @@
       "Time": "2023-12-02T17:09:00.1759946+00:00",
       "NumProgressed": 489,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T18:09:10.3303174+00:00",
+      "NumProgressed": 490,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1368,7 +1373,7 @@
       "Name": "On her own",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "AchvBattleScore",
@@ -1414,9 +1419,9 @@
       "ID": "AchvDiscoverAlliance",
       "SetID": "1hj060c",
       "Name": "The Alliance",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 103
     },
     {
       "ID": "AchvDoom",
@@ -1574,23 +1579,23 @@
       "ID": "AchvUnity",
       "SetID": "1hj060c",
       "Name": "Beyond divisions",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 69
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 489,
+      "Progressed": 490,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-02T17:09:00.1759943+00:00",
+  "LastChanged_Achievements": "2023-12-02T18:09:10.330317+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-12-02T17:01:41.6117139+00:00",
-  "LastUpdate_Achievements": "2023-12-02T17:09:00.1760131+00:00"
+  "LastUpdate_Ratings": "2023-12-02T18:00:33.6674957+00:00",
+  "LastUpdate_Achievements": "2023-12-02T18:09:10.33034+00:00"
 }

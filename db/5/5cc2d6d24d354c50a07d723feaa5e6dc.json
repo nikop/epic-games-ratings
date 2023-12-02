@@ -2,9 +2,9 @@
   "ID": "5cc2d6d24d354c50a07d723feaa5e6dc",
   "Name": "Warpath: Ace Shooter",
   "ProductSlug": "warpath-fedcf7",
-  "Ranking_EOS_Progress": 771,
+  "Ranking_EOS_Progress": 772,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewPlayers": 497,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-30T16:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-02T18:02:09.9681236+00:00",
   "LastUpdate_AppInfo": "2023-11-29T10:57:30.0287493+00:00",
-  "LastUpdate_Ratings": "2023-12-02T17:00:42.6308533+00:00",
-  "LastUpdate_Achievements": "2023-12-02T17:04:20.4481536+00:00"
+  "LastUpdate_Ratings": "2023-12-02T17:59:53.4326485+00:00",
+  "LastUpdate_Achievements": "2023-12-02T18:04:17.444168+00:00"
 }

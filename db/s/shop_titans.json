@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7345,9 +7345,9 @@
       "Count": 3789
     }
   ],
-  "EOS_Progressed": 143429,
+  "EOS_Progressed": 143444,
   "EOS_Completed": 290,
-  "EOS_NewPlayers": 1456,
+  "EOS_NewPlayers": 1448,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -30790,6 +30790,11 @@
       "Time": "2023-12-02T17:06:34.3536831+00:00",
       "NumProgressed": 143429,
       "NumCompleted": 290
+    },
+    {
+      "Time": "2023-12-02T18:05:55.1840519+00:00",
+      "NumProgressed": 143444,
+      "NumCompleted": 290
     }
   ],
   "TotalAchievements": 112,
@@ -30881,7 +30886,7 @@
       "Name": "One Easy Payment",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5737
+      "UsersEstimate": 5738
     },
     {
       "ID": "bigsale02",
@@ -30905,7 +30910,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5737
+      "UsersEstimate": 5738
     },
     {
       "ID": "blueprint02",
@@ -30969,7 +30974,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10040
+      "UsersEstimate": 10041
     },
     {
       "ID": "chest02",
@@ -31033,7 +31038,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8606
+      "UsersEstimate": 8607
     },
     {
       "ID": "commonres02",
@@ -31065,7 +31070,7 @@
       "Name": "Disintermediation",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7171
+      "UsersEstimate": 7172
     },
     {
       "ID": "craft02",
@@ -31153,7 +31158,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5737
+      "UsersEstimate": 5738
     },
     {
       "ID": "energy02",
@@ -31177,7 +31182,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5737
+      "UsersEstimate": 5738
     },
     {
       "ID": "expansion02",
@@ -31273,7 +31278,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8606
+      "UsersEstimate": 8607
     },
     {
       "ID": "gold02",
@@ -31385,7 +31390,7 @@
       "Name": "Budding Merchant",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5737
+      "UsersEstimate": 5738
     },
     {
       "ID": "level02",
@@ -31577,7 +31582,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7171
+      "UsersEstimate": 7172
     },
     {
       "ID": "sell02",
@@ -31617,7 +31622,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10040
+      "UsersEstimate": 10041
     },
     {
       "ID": "twinenchant01",
@@ -31665,7 +31670,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5737
+      "UsersEstimate": 5738
     },
     {
       "ID": "workers02",
@@ -31696,15 +31701,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 143429,
+      "Progressed": 143444,
       "Completed": 290
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-02T16:03:49.5989489+00:00",
-  "LastChanged_Achievements": "2023-12-02T17:06:34.3536828+00:00",
+  "LastChanged_Achievements": "2023-12-02T18:05:55.1840515+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-12-02T17:03:10.2249298+00:00",
-  "LastUpdate_Achievements": "2023-12-02T17:06:34.3538925+00:00"
+  "LastUpdate_Ratings": "2023-12-02T18:03:06.2258076+00:00",
+  "LastUpdate_Achievements": "2023-12-02T18:05:55.1842609+00:00"
 }

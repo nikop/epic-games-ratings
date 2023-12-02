@@ -9,15 +9,17 @@ Number of Ratings: 1,845  (23.09.2022)
 | Abandoned Settlement | 2.00% | ~351 |
 | Overgrown Library | 2.00% | ~351 |
 | Petrified Necropolis | 2.00% | ~351 |
+| Gathering Storm | 2.00% | ~351 |
 | Frosts | 1.00% | ~176 |
 | Land of Greed | 1.00% | ~176 |
 | Ominous Presence | 1.00% | ~176 |
-| Gathering Storm | 1.00% | ~176 |
 | Untamed Wilds | 1.00% | ~176 |
 | Overcoming Difficulty | 0.20% | ~35 |
 | Watchtower | 0.20% | ~35 |
+| Coral Forest | 0.20% | ~35 |
 | The Marshlands | 0.20% | ~35 |
 | Taking Action | 0.20% | ~35 |
+| No Deaths | 0.20% | ~35 |
 | Fox Utopia | 0.20% | ~35 |
 | Serving Ale | 0.10% | ~18 |
 | Feeding The People | 0.10% | ~18 |
@@ -48,7 +50,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Statue of the Forefathers | 0.10% | ~18 |
 | Forsaken Gods Temple | 0.10% | ~18 |
 | Corrosive Torrent | 0.10% | ~18 |
-| Coral Forest | 0.10% | ~18 |
 | Cursed Lands | 0.10% | ~18 |
 | The Scarlet Orchard | 0.10% | ~18 |
 | Prestigious Expedition | 0.10% | ~18 |
@@ -58,7 +59,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruins | 0.10% | ~18 |
 | Like a Machine | 0.10% | ~18 |
 | Trade Baron | 0.10% | ~18 |
-| No Deaths | 0.10% | ~18 |
 | Defying the Crown | 0.10% | ~18 |
 | Into the Forest | 0.10% | ~18 |
 | Paradise | 0.00% | ~0 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Queen's Chosen | 0.00% | ~0 |
 | Treasure | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,566 (Ranked 146)  
+Progressed: 17,567 (Ranked 146)  
 Completed: 49 (0.28%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 49 (0.28%) (Ranked 243)
 | 2023-11-29 | 17,529 | 51 |
 | 2023-11-30 | 17,540 | 51 |
 | 2023-12-01 | 17,557 | 49 |
-| 2023-12-02 | 17,566 | 49 |
+| 2023-12-02 | 17,567 | 49 |
 ## Awards
 Max (Quickly Understood Controls): 441  (Ranked 223)  
 Sum: 3,238 (Ranked 173)  

@@ -1,9 +1,9 @@
 {
   "ID": "middlemist",
   "Name": "The Sinking City",
-  "Ranking_EOS_Progress": 771,
+  "Ranking_EOS_Progress": 772,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewPlayers": 497,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": null,
@@ -29,5 +29,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:02.7095812+00:00",
   "LastUpdate_Ratings": "2023-12-02T17:02:26.1805627+00:00",
-  "LastUpdate_Achievements": "2023-12-02T17:04:56.7322275+00:00"
+  "LastUpdate_Achievements": "2023-12-02T18:04:43.9723047+00:00"
 }

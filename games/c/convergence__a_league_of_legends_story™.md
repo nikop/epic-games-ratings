@@ -50,7 +50,7 @@ Rating: 4.62 (Ranked 367)
 | Clovemary for Remembering | 5.00% | ~47 |
 | Hexlock for Protection | 5.00% | ~47 |
 | Rungs Was Right | 5.00% | ~47 |
-| Wunderkind | 2.00% | ~19 |
+| Wunderkind | 3.00% | ~28 |
 | Fitting In | 2.00% | ~19 |
 | Thinking Two Steps Ahead | 1.00% | ~9 |
 | A Lesson in Precision | 1.00% | ~9 |

@@ -20,8 +20,8 @@ Rating: 4.33 (Ranked 817)
 | Fool Me Twice | 1.00% | ~581 |
 | Old School Jammin' | 1.00% | ~581 |
 | Wakey Wakey | 1.00% | ~581 |
-| Gimme My Presents Back! | 0.80% | ~464 |
-| Level Diver | 0.80% | ~464 |
+| Gimme My Presents Back! | 0.80% | ~465 |
+| Level Diver | 0.80% | ~465 |
 | Cleaning Out Santa's Sack | 0.70% | ~406 |
 | Teamwork Rules | 0.70% | ~406 |
 | Beaten By A Little Girl | 0.60% | ~348 |
@@ -55,7 +55,7 @@ Rating: 4.33 (Ranked 817)
 | Why Do I Keep Doing That? | 0.10% | ~58 |
 | Hey, You Did It! | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,062 (Ranked 108)  
+Progressed: 58,064 (Ranked 108)  
 Completed: 6 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 6 (0.01%) (Ranked 344)
 | 2023-11-29 | 58,027 | 6 |
 | 2023-11-30 | 58,038 | 6 |
 | 2023-12-01 | 58,047 | 6 |
-| 2023-12-02 | 58,062 | 6 |
+| 2023-12-02 | 58,064 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,9 +2,9 @@
   "ID": "68b61ac6800241caa70393fda6da575d",
   "Name": "Battle Leet",
   "ProductSlug": "battle-leet-8b71e7",
-  "Ranking_EOS_Progress": 771,
+  "Ranking_EOS_Progress": 772,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewPlayers": 497,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-27T17:57:10.1010135+00:00",
-  "LastUpdate_Ratings": "2023-12-02T17:01:13.1306419+00:00",
-  "LastUpdate_Achievements": "2023-12-02T17:06:17.0529345+00:00"
+  "LastUpdate_Ratings": "2023-12-02T18:00:14.0672399+00:00",
+  "LastUpdate_Achievements": "2023-12-02T18:05:42.2838373+00:00"
 }

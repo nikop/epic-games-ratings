@@ -4,10 +4,10 @@
   "ProductSlug": "detroit-become-human",
   "Ranking_Rating": 24,
   "Ranking_Popularity": 133,
-  "Ranking_PopularitySum": 226,
-  "Ranking_EOS_Progress": 771,
+  "Ranking_PopularitySum": 225,
+  "Ranking_EOS_Progress": 772,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewPlayers": 497,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2019-12-12T13:00:00+00:00",
@@ -1588,10 +1588,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 1661,
       "NumberOfAwardsMax": 1503
+    },
+    {
+      "Time": "2023-12-02T17:57:26.8779404+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1662,
+      "NumberOfAwardsMax": 1503
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1661,
+  "NumberOfAwards": 1662,
   "NumberOfAwardsMax": 1503,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -1611,7 +1617,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1655,8 +1661,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:06.5181893+00:00",
-  "LastChanged": "2023-12-02T11:02:45.9204652+00:00",
+  "LastChanged": "2023-12-02T17:57:26.8779398+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:18.2154052+00:00",
-  "LastUpdate_Ratings": "2023-12-02T16:57:13.26475+00:00",
-  "LastUpdate_Achievements": "2023-12-02T17:05:04.1874614+00:00"
+  "LastUpdate_Ratings": "2023-12-02T17:57:26.8779407+00:00",
+  "LastUpdate_Achievements": "2023-12-02T18:04:49.1113209+00:00"
 }

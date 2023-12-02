@@ -106,6 +106,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 4 | 1.00% | ~156 |
 | Babylonia | 1.00% | ~156 |
 | Carthage | 1.00% | ~156 |
+| Egypt | 1.00% | ~156 |
 | One True Faith | 1.00% | ~156 |
 | Assyrian Paganism | 1.00% | ~156 |
 | Persian Paganism | 1.00% | ~156 |
@@ -128,7 +129,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 1.00% | ~156 |
 | The Clergy | 1.00% | ~156 |
 | Clerics | 0.90% | ~140 |
-| Egypt | 0.90% | ~140 |
 | Rome | 0.90% | ~140 |
 | Hittite Paganism | 0.90% | ~140 |
 | Turreted Elephant | 0.90% | ~140 |
@@ -174,7 +174,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus in Roma | 0.40% | ~62 |
 | Necropolis in Waset | 0.40% | ~62 |
 | Prosperous Kmt | 0.40% | ~62 |
-| Gold Victory (Carthage 1) | 0.30% | ~47 |
 | Carthage - Riches and Influence | 0.30% | ~47 |
 | Cleopatra's Love | 0.30% | ~47 |
 | Holy | 0.30% | ~47 |
@@ -185,10 +184,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Tell the Spartans | 0.30% | ~47 |
 | Medo-Babylonian Conquest | 0.30% | ~47 |
 | Apadana in Parsa | 0.30% | ~47 |
-| Pantheon in Roma | 0.30% | ~47 |
 | Randomized Leaders | 0.30% | ~47 |
 | Barbarian Horde | 0.20% | ~31 |
 | Blade of the Monkey | 0.20% | ~31 |
+| Gold Victory (Carthage 1) | 0.20% | ~31 |
 | Bronze Victory (Carthage 2) | 0.20% | ~31 |
 | Silver Victory (Carthage 2) | 0.20% | ~31 |
 | Carthage - Rise of Rome | 0.20% | ~31 |
@@ -200,6 +199,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Macedonian Wars | 0.20% | ~31 |
 | Play a MP Teams Game | 0.20% | ~31 |
 | Punic Wars | 0.20% | ~31 |
+| Pantheon in Roma | 0.20% | ~31 |
 | Word of God | 0.20% | ~31 |
 | Hypatia the Teacher | 0.20% | ~31 |
 | Kmt Golden Age | 0.20% | ~31 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,598 (Ranked 152)  
+Progressed: 15,601 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -575,7 +575,7 @@ Completed: 5 (0.03%) (Ranked 328)
 | 2023-11-29 | 15,545 | 5 |
 | 2023-11-30 | 15,566 | 5 |
 | 2023-12-01 | 15,583 | 5 |
-| 2023-12-02 | 15,598 | 5 |
+| 2023-12-02 | 15,601 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,884 (Ranked 219)  
