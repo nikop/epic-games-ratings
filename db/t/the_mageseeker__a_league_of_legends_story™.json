@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -133,9 +133,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2670,
+  "EOS_Progressed": 2671,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -4138,6 +4138,11 @@
       "Time": "2023-12-01T20:07:13.4721351+00:00",
       "NumProgressed": 2670,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-02T07:05:53.4611758+00:00",
+      "NumProgressed": 2671,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 53,
@@ -4213,7 +4218,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2563
+      "UsersEstimate": 2564
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -4229,7 +4234,7 @@
       "Name": "Everfrost",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -4253,7 +4258,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -4301,7 +4306,7 @@
       "Name": "Do you trust me?",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "STB_FIND_ALL_SILVERWINGS",
@@ -4333,7 +4338,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2456
+      "UsersEstimate": 2457
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -4373,7 +4378,7 @@
       "Name": "Thornbarrow",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -4381,7 +4386,7 @@
       "Name": "Clarion Cove",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -4453,7 +4458,7 @@
       "Name": "You can pet the dog",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1656
     },
     {
       "ID": "STB_PET_HORSE",
@@ -4477,7 +4482,7 @@
       "Name": "Back to sleep, then...",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_I",
@@ -4525,7 +4530,7 @@
       "Name": "The use of petricite",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2002
+      "UsersEstimate": 2003
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -4572,7 +4577,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2670,
+      "Progressed": 2671,
       "Completed": 16
     }
   ],
@@ -4580,8 +4585,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-12-02T06:06:19.7373589+00:00",
+  "LastChanged_Achievements": "2023-12-02T07:05:53.4611755+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:12.1795379+00:00",
-  "LastUpdate_Ratings": "2023-12-02T05:58:49.8299843+00:00",
-  "LastUpdate_Achievements": "2023-12-02T06:06:19.7374168+00:00"
+  "LastUpdate_Ratings": "2023-12-02T06:58:25.1030495+00:00",
+  "LastUpdate_Achievements": "2023-12-02T07:05:53.4612413+00:00"
 }

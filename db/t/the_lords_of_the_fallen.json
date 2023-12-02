@@ -4,11 +4,11 @@
   "ProductSlug": "lords-of-the-fallen",
   "Ranking_Rating": 917,
   "Ranking_Popularity": 300,
-  "Ranking_PopularitySum": 338,
+  "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
     "PcReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -673,18 +673,24 @@
       "Rating": 4.2,
       "NumberOfAwards": 419,
       "NumberOfAwardsMax": 182
+    },
+    {
+      "Time": "2023-12-02T06:59:51.4119937+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 421,
+      "NumberOfAwardsMax": 184
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 419,
-  "NumberOfAwardsMax": 182,
+  "NumberOfAwards": 421,
+  "NumberOfAwardsMax": 184,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 182
+      "Count": 184
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -725,7 +731,7 @@
   ],
   "EOS_Progressed": 2213,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4390,9 +4396,9 @@
   "FirstSeen": "2023-10-13T16:58:40.9012964+00:00",
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
-  "LastChanged": "2023-12-02T00:00:07.4820004+00:00",
-  "LastChanged_Achievements": "2023-12-02T06:05:35.119047+00:00",
+  "LastChanged": "2023-12-02T06:59:51.4119936+00:00",
+  "LastChanged_Achievements": "2023-12-02T07:05:12.8935825+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:54.9278986+00:00",
-  "LastUpdate_Ratings": "2023-12-02T06:00:25.851614+00:00",
-  "LastUpdate_Achievements": "2023-12-02T06:05:35.1191283+00:00"
+  "LastUpdate_Ratings": "2023-12-02T06:59:51.411994+00:00",
+  "LastUpdate_Achievements": "2023-12-02T07:05:12.893633+00:00"
 }

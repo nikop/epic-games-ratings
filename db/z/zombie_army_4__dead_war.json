@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 311,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2454,9 +2454,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44043,
+  "EOS_Progressed": 44044,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9429,6 +9429,11 @@
       "Time": "2023-12-02T03:04:28.3276111+00:00",
       "NumProgressed": 44043,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-12-02T07:04:33.4261818+00:00",
+      "NumProgressed": 44044,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -9464,7 +9469,7 @@
       "Name": "Plane sailing",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3523
+      "UsersEstimate": 3524
     },
     {
       "ID": "SE_COMPLETE_A_LEVEL_WITH_5_GOLD_SKILLS",
@@ -9632,7 +9637,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27747
+      "UsersEstimate": 27748
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -9688,7 +9693,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21581
+      "UsersEstimate": 21582
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -9696,7 +9701,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15855
+      "UsersEstimate": 15856
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -9704,7 +9709,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13653
+      "UsersEstimate": 13654
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -9752,7 +9757,7 @@
       "Name": "Come and get it! It\u0027s a running buffet!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 16736
+      "UsersEstimate": 16737
     },
     {
       "ID": "SE_GET_X_HEADSHOT_STREAK",
@@ -9784,7 +9789,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13653
+      "UsersEstimate": 13654
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -9792,7 +9797,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20700
+      "UsersEstimate": 20701
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -9808,7 +9813,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20700
+      "UsersEstimate": 20701
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -9816,7 +9821,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15855
+      "UsersEstimate": 15856
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -9832,7 +9837,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19819
+      "UsersEstimate": 19820
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -9840,7 +9845,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29068
+      "UsersEstimate": 29069
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -9848,7 +9853,7 @@
       "Name": "I can do anything I want. I got guns",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 3523
+      "UsersEstimate": 3524
     },
     {
       "ID": "SE_MASTER_A_WEAPON",
@@ -9872,7 +9877,7 @@
       "Name": "Send me an angel",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3523
+      "UsersEstimate": 3524
     },
     {
       "ID": "SE_PERFORM_X_TAKEDOWNS",
@@ -9896,7 +9901,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29068
+      "UsersEstimate": 29069
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -9904,7 +9909,7 @@
       "Name": "Gore soaked",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 10570
+      "UsersEstimate": 10571
     },
     {
       "ID": "SE_REACH_WAVE_X",
@@ -9944,7 +9949,7 @@
       "Name": "The bigger they are...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6606
+      "UsersEstimate": 6607
     },
     {
       "ID": "SE_TAKEDOWN_A_BLIND_SCREAMER",
@@ -9960,22 +9965,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15855
+      "UsersEstimate": 15856
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44043,
+      "Progressed": 44044,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-12-01T15:57:51.5766287+00:00",
-  "LastChanged_Achievements": "2023-12-02T06:04:51.0520008+00:00",
+  "LastChanged_Achievements": "2023-12-02T07:04:33.4261816+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:29.1188847+00:00",
-  "LastUpdate_Ratings": "2023-12-02T05:58:10.8917227+00:00",
-  "LastUpdate_Achievements": "2023-12-02T06:04:51.0520834+00:00"
+  "LastUpdate_Ratings": "2023-12-02T06:57:49.6186417+00:00",
+  "LastUpdate_Achievements": "2023-12-02T07:04:33.4262458+00:00"
 }

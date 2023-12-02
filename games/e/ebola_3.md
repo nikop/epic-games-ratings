@@ -23,11 +23,11 @@
 | Antivirus ✔ | 6.00% | ~17 |
 | Brain ✔ | 6.00% | ~17 |
 | Cheats ✔ | 6.00% | ~17 |
+| Eva ✔ | 6.00% | ~17 |
 | Food ✔ | 6.00% | ~17 |
 | King of survival ✔ | 6.00% | ~17 |
 | All secrets revealed ✔ | 6.00% | ~17 |
 | Boss 1 ✔ | 5.00% | ~14 |
-| Eva ✔ | 5.00% | ~14 |
 | Infected ✔ | 5.00% | ~14 |
 | Broadcasting ✔ | 5.00% | ~14 |
 | Secret ✔ | 4.00% | ~11 |

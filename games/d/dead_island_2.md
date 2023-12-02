@@ -14,7 +14,7 @@ Rating: 4.54 (Ranked 530)
 | Hotel California | 2.00% | ~14,576 |
 | Personal Assistant Personally Assisted | 2.00% | ~14,576 |
 | Welcome To Hell-A | 2.00% | ~14,576 |
-| One of Us | 2.00% | ~1,086 |
+| One of Us | 2.00% | ~1,087 |
 | Dr. Reed, I Presume? | 1.00% | ~7,288 |
 | Anger Management | 1.00% | ~7,288 |
 | Perks of the Job | 1.00% | ~7,288 |
@@ -37,10 +37,10 @@ Rating: 4.54 (Ranked 530)
 | Humanity Distilled | 0.90% | ~6,559 |
 | Max Headroom | 0.90% | ~6,559 |
 | Down with the Sickness | 0.80% | ~5,830 |
-| Not Even My Final Form | 0.70% | ~5,101 |
-| Jumbo Keyring | 0.70% | ~5,101 |
-| Go, Bobcats! | 0.70% | ~5,101 |
-| Rising Star | 0.70% | ~5,101 |
+| Not Even My Final Form | 0.70% | ~5,102 |
+| Jumbo Keyring | 0.70% | ~5,102 |
+| Go, Bobcats! | 0.70% | ~5,102 |
+| Rising Star | 0.70% | ~5,102 |
 | Make it So | 0.50% | ~3,644 |
 | On Safari | 0.50% | ~3,644 |
 | Smorgasbord | 0.50% | ~3,644 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 530)
 | Bucket List | 0.10% | ~729 |
 | Wilhelm | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,783 (Ranked 21)  
+Progressed: 728,790 (Ranked 21)  
 Completed: 2,459 (0.34%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,11 +283,11 @@ Completed: 2,459 (0.34%) (Ranked 233)
 | 2023-11-29 | 727,809 | 2,450 |
 | 2023-11-30 | 728,231 | 2,456 |
 | 2023-12-01 | 728,667 | 2,459 |
-| 2023-12-02 | 728,783 | 2,459 |
+| 2023-12-02 | 728,790 | 2,459 |
 ## Awards
 Max (Great Boss Battles): 7,845  (Ranked 49)  
-Sum: 12,031 (Ranked 83)  
-Diff (max vs sum): -34  
+Sum: 12,031 (Ranked 84)  
+Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,845 |

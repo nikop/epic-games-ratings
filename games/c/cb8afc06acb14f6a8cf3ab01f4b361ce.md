@@ -9,8 +9,8 @@ Rating: 4.21 (Ranked 909)
 | A powerful aura was here | 2.00% | ~6,445 |
 | The touch of Chaos | 2.00% | ~6,445 |
 | Let's raise the stakes!! | 0.80% | ~2,578 |
-| Rumors are true | 0.60% | ~1,933 |
-| Your wounds… They are healing so fast! | 0.60% | ~1,933 |
+| Rumors are true | 0.60% | ~1,934 |
+| Your wounds… They are healing so fast! | 0.60% | ~1,934 |
 | We'll be careful | 0.50% | ~1,611 |
 | Pride is a sin, young Knight | 0.50% | ~1,611 |
 | Back to your senses | 0.40% | ~1,289 |
@@ -23,10 +23,10 @@ Rating: 4.21 (Ranked 909)
 | Counting on you | 0.30% | ~967 |
 | This is the end | 0.30% | ~967 |
 | We can choose to fight | 0.30% | ~967 |
-| Their fate is sealed | 0.20% | ~644 |
-| Not even from this world | 0.20% | ~644 |
-| Chaos be damned! | 0.20% | ~644 |
-| I took a risk | 0.20% | ~644 |
+| Their fate is sealed | 0.20% | ~645 |
+| Not even from this world | 0.20% | ~645 |
+| Chaos be damned! | 0.20% | ~645 |
+| I took a risk | 0.20% | ~645 |
 | No damsels in distress | 0.10% | ~322 |
 | The immortal is bound to reborn | 0.10% | ~322 |
 | A legend among Chimeras | 0.10% | ~322 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 909)
 | They wanted yet another monster… | 0.00% | ~0 |
 | Something... unnatural | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 322,239 (Ranked 51)  
+Progressed: 322,259 (Ranked 51)  
 Completed: 4 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 4 (0.00%) (Ranked 365)
 | 2023-11-29 | 321,010 | 4 |
 | 2023-11-30 | 321,497 | 4 |
 | 2023-12-01 | 322,049 | 4 |
-| 2023-12-02 | 322,239 | 4 |
+| 2023-12-02 | 322,259 | 4 |
 ## Awards
 Max (Great Boss Battles): 63  (Ranked 413)  
 Sum: 63 (Ranked 477)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
     "PcReleaseDate": "2023-11-21T13:00:00+00:00",
@@ -508,9 +508,9 @@
       "ID": "ACH_ALL_ORBS_COLLECTED",
       "SetID": "cagp2pi",
       "Name": "Collector",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_ALL_WEAPONS",
@@ -524,9 +524,9 @@
       "ID": "ACH_ANGEL_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Angel",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_AVEN_UNLOCKED",
@@ -683,8 +683,8 @@
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-12-02T06:05:42.9181408+00:00",
+  "LastChanged_Achievements": "2023-12-02T07:05:19.9882976+00:00",
   "LastUpdate_AppInfo": "2023-12-01T13:57:00.5730741+00:00",
-  "LastUpdate_Ratings": "2023-12-02T05:57:49.2041735+00:00",
-  "LastUpdate_Achievements": "2023-12-02T06:05:42.9181663+00:00"
+  "LastUpdate_Ratings": "2023-12-02T06:57:30.0833241+00:00",
+  "LastUpdate_Achievements": "2023-12-02T07:05:19.9883089+00:00"
 }

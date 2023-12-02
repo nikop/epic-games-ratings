@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -171,9 +171,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7258,
+  "EOS_Progressed": 7261,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 905,
+  "EOS_NewPlayers": 899,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5226,6 +5226,11 @@
       "Time": "2023-12-02T06:09:37.8502751+00:00",
       "NumProgressed": 7258,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-02T07:09:19.6541869+00:00",
+      "NumProgressed": 7261,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5294,7 +5299,7 @@
       "Name": "Explosive Personality",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "FasterThanLight",
@@ -5310,7 +5315,7 @@
       "Name": "First Time?",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2105
+      "UsersEstimate": 2106
     },
     {
       "ID": "FuneralForTheDeath",
@@ -5342,7 +5347,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -5382,7 +5387,7 @@
       "Name": "Nasty!",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "NoMoreTotems",
@@ -5430,7 +5435,7 @@
       "Name": "The Old-School Way",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "TheQuarterback",
@@ -5438,7 +5443,7 @@
       "Name": "The Quarterback",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1670
     },
     {
       "ID": "ThisIsDharma",
@@ -5470,7 +5475,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -5494,7 +5499,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "k01101110",
@@ -5509,7 +5514,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7258,
+      "Progressed": 7261,
       "Completed": 10
     }
   ],
@@ -5517,8 +5522,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-02T04:02:27.6504223+00:00",
-  "LastChanged_Achievements": "2023-12-02T06:09:37.8502747+00:00",
+  "LastChanged_Achievements": "2023-12-02T07:09:19.6541866+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-02T05:57:17.245837+00:00",
-  "LastUpdate_Achievements": "2023-12-02T06:09:37.8503204+00:00"
+  "LastUpdate_Ratings": "2023-12-02T06:57:00.9745416+00:00",
+  "LastUpdate_Achievements": "2023-12-02T07:09:19.6542321+00:00"
 }

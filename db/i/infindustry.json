@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-05-11T23:00:00+00:00",
     "PcReleaseDate": "2022-05-03T23:00:00+00:00",
@@ -648,9 +648,9 @@
       "ID": "Builder",
       "SetID": "82ojhod",
       "Name": "Builder",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Cook",
@@ -751,8 +751,8 @@
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-12-02T06:04:34.5694434+00:00",
+  "LastChanged_Achievements": "2023-12-02T07:04:18.3202191+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:17.5561637+00:00",
-  "LastUpdate_Ratings": "2023-12-02T06:00:32.5750092+00:00",
-  "LastUpdate_Achievements": "2023-12-02T06:04:34.5694557+00:00"
+  "LastUpdate_Ratings": "2023-12-02T06:59:57.3801606+00:00",
+  "LastUpdate_Achievements": "2023-12-02T07:04:18.3202295+00:00"
 }

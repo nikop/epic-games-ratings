@@ -5,16 +5,16 @@ Rating: 4.82 (Ranked 68)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,563 |
-| No more cages! | 92.00% | ~2,456 |
-| Everfrost | 79.00% | ~2,109 |
+| For Demacia | 96.00% | ~2,564 |
+| No more cages! | 92.00% | ~2,457 |
+| Everfrost | 79.00% | ~2,110 |
 | Pentakill | 78.00% | ~2,083 |
 | Dark Forest | 78.00% | ~2,083 |
-| The use of petricite | 75.00% | ~2,002 |
-| You can pet the dog | 62.00% | ~1,655 |
-| Big Helmet Bro | 39.00% | ~1,041 |
-| Thornbarrow | 39.00% | ~1,041 |
-| Clarion Cove | 39.00% | ~1,041 |
+| The use of petricite | 75.00% | ~2,003 |
+| You can pet the dog | 62.00% | ~1,656 |
+| Big Helmet Bro | 39.00% | ~1,042 |
+| Thornbarrow | 39.00% | ~1,042 |
+| Clarion Cove | 39.00% | ~1,042 |
 | Elemental master | 37.00% | ~988 |
 | Past trauma | 37.00% | ~988 |
 | Ternmoat Headquarters | 37.00% | ~988 |
@@ -50,8 +50,8 @@ Rating: 4.82 (Ranked 68)
 | The Great City of Demacia | 13.00% | ~347 |
 | Truth is a dark mirror | 13.00% | ~347 |
 | Call it 'redistribution of magic | 13.00% | ~347 |
-| Do you trust me? | 12.00% | ~320 |
-| Back to sleep, then... | 12.00% | ~320 |
+| Do you trust me? | 12.00% | ~321 |
+| Back to sleep, then... | 12.00% | ~321 |
 | Chains master | 11.00% | ~294 |
 | The great mage rebellion starts now | 11.00% | ~294 |
 | You can pet the... horse | 11.00% | ~294 |
@@ -59,7 +59,7 @@ Rating: 4.82 (Ranked 68)
 | Silverwing nest | 2.00% | ~53 |
 | The Unshackled | 1.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,670 (Ranked 215)  
+Progressed: 2,671 (Ranked 215)  
 Completed: 16 (0.60%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,6 +235,7 @@ Completed: 16 (0.60%) (Ranked 193)
 | 2023-11-29 | 2,667 | 16 |
 | 2023-11-30 | 2,669 | 16 |
 | 2023-12-01 | 2,670 | 16 |
+| 2023-12-02 | 2,671 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

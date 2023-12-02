@@ -5,12 +5,12 @@ Rating: 4.75 (Ranked 148)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 0.70% | ~1,627 |
-| First of Many | 0.70% | ~1,627 |
+| The Killing Jar | 0.70% | ~1,628 |
+| First of Many | 0.70% | ~1,628 |
 | Regicide | 0.70% | ~82 |
 | Master of the Dark Arts | 0.70% | ~82 |
-| Expanding Horizons | 0.50% | ~1,162 |
-| Not Your Average Trait | 0.50% | ~1,162 |
+| Expanding Horizons | 0.50% | ~1,163 |
+| Not Your Average Trait | 0.50% | ~1,163 |
 | Gleaming the Cube | 0.40% | ~930 |
 | Not So Special Now | 0.40% | ~930 |
 | Quest for Survival | 0.40% | ~930 |
@@ -18,18 +18,18 @@ Rating: 4.75 (Ranked 148)
 | Familiar Face | 0.40% | ~930 |
 | Boss'n Up | 0.40% | ~930 |
 | Trait Chaser | 0.40% | ~930 |
-| Am I Seeing This? | 0.30% | ~697 |
-| Power Surge | 0.30% | ~697 |
-| Equal Measures | 0.30% | ~697 |
-| Blue Goddess | 0.30% | ~697 |
-| Duality | 0.30% | ~697 |
-| Top Performer | 0.30% | ~697 |
-| Shhh...It's a Secret | 0.30% | ~697 |
-| Was This Supposed To Happen? | 0.30% | ~697 |
-| Scrap Collector | 0.30% | ~697 |
-| Almost There | 0.30% | ~697 |
-| Make Some Room | 0.30% | ~697 |
-| Good, But Could Be Better! | 0.30% | ~697 |
+| Am I Seeing This? | 0.30% | ~698 |
+| Power Surge | 0.30% | ~698 |
+| Equal Measures | 0.30% | ~698 |
+| Blue Goddess | 0.30% | ~698 |
+| Duality | 0.30% | ~698 |
+| Top Performer | 0.30% | ~698 |
+| Shhh...It's a Secret | 0.30% | ~698 |
+| Was This Supposed To Happen? | 0.30% | ~698 |
+| Scrap Collector | 0.30% | ~698 |
+| Almost There | 0.30% | ~698 |
+| Make Some Room | 0.30% | ~698 |
+| Good, But Could Be Better! | 0.30% | ~698 |
 | Crafty | 0.20% | ~465 |
 | Ghost in the Machine | 0.20% | ~465 |
 | Chaos | 0.20% | ~465 |
@@ -53,15 +53,15 @@ Rating: 4.75 (Ranked 148)
 | Transmutate | 0.20% | ~465 |
 | Succession | 0.20% | ~23 |
 | You Shall Pass | 0.20% | ~23 |
-| Only Human | 0.10% | ~232 |
-| Red Room | 0.10% | ~232 |
-| The Trigger | 0.10% | ~232 |
-| The Collector | 0.10% | ~232 |
-| Proving Grounds | 0.10% | ~232 |
-| Maxed Out! | 0.10% | ~232 |
+| Only Human | 0.10% | ~233 |
+| Red Room | 0.10% | ~233 |
+| The Trigger | 0.10% | ~233 |
+| The Collector | 0.10% | ~233 |
+| Proving Grounds | 0.10% | ~233 |
+| Maxed Out! | 0.10% | ~233 |
 | A Foul Feast | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,499 (Ranked 69)  
+Progressed: 232,538 (Ranked 69)  
 Completed: 546 (0.23%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,10 +200,10 @@ Completed: 546 (0.23%) (Ranked 251)
 | 2023-11-29 | 230,694 | 542 |
 | 2023-11-30 | 231,406 | 542 |
 | 2023-12-01 | 232,269 | 546 |
-| 2023-12-02 | 232,499 | 546 |
+| 2023-12-02 | 232,538 | 546 |
 ## Awards
 Max (Great Boss Battles): 2,558  (Ranked 102)  
-Sum: 6,274 (Ranked 129)  
+Sum: 6,283 (Ranked 129)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
@@ -214,8 +214,8 @@ Diff (max vs sum): -27
 | This game is Relaxing | 388 |
 | This game is Extremely Fun | 385 |
 | This game has Amazing Storytelling | 380 |
+| This game has Amazing Characters | 377 |
 | This game has Quickly Understood Controls | 374 |
-| This game has Amazing Characters | 368 |
 | This game has Unique Visuals | 314 |
 | This game has a Creative Community | 287 |
 ## Ratings History
@@ -350,4 +350,4 @@ Diff (max vs sum): -27
 | 2023-11-29 | 4.75 | 2,518 | 6,163 |
 | 2023-11-30 | 4.75 | 2,533 | 6,208 |
 | 2023-12-01 | 4.75 | 2,558 | 6,266 |
-| 2023-12-02 | 4.75 | 2,558 | 6,274 |
+| 2023-12-02 | 4.75 | 2,558 | 6,283 |

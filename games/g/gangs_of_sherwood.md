@@ -29,10 +29,10 @@
 | Ascending Will | 18.00% | ~8 |
 | Haute Couture | 13.00% | ~6 |
 | Brilliant Executioner | 11.00% | ~5 |
+| Into the Lion's Den | 11.00% | ~5 |
+| The Gang prevails | 9.00% | ~4 |
 | Hidden Experiment | 9.00% | ~4 |
-| Into the Lion's Den | 9.00% | ~4 |
 | Bold and Bossy | 7.00% | ~3 |
-| The Gang prevails | 7.00% | ~3 |
 | Out of the ring | 7.00% | ~3 |
 | Sky High Fighter | 7.00% | ~3 |
 | King of the Iron Fist | 4.00% | ~2 |
@@ -42,6 +42,7 @@
 | The Crowkiller | 2.00% | ~1 |
 | A Gest of Robyn Hode | 2.00% | ~1 |
 | Money can not buy happiness | 2.00% | ~1 |
+| Only Child | 2.00% | ~1 |
 | Master of One | 2.00% | ~1 |
 | Challenger | 0.00% | ~0 |
 | The Apprentice | 0.00% | ~0 |
@@ -51,7 +52,6 @@
 | Heroes of Sherwood | 0.00% | ~0 |
 | It belongs in a museum | 0.00% | ~0 |
 | Sherwood Moment 37 | 0.00% | ~0 |
-| Only Child | 0.00% | ~0 |
 | The transmuted game | 0.00% | ~0 |
 | The Arsenal | 0.00% | ~0 |
 | The Armorer | 0.00% | ~0 |

@@ -8,34 +8,34 @@ Number of Ratings: 70,340  (23.09.2022)
 | ---- | ---------- | ----- |
 | It wakes | 0.70% | ~7,421 |
 | Skillful | 0.60% | ~6,361 |
-| Zealous | 0.50% | ~5,300 |
-| Not half bad | 0.50% | ~5,300 |
-| I | 0.50% | ~5,300 |
-| Handyman | 0.40% | ~4,240 |
-| Apt Survivor | 0.40% | ~4,240 |
-| Survival Treasures | 0.40% | ~4,240 |
-| Sorted | 0.40% | ~4,240 |
-| Resurgence | 0.40% | ~4,240 |
-| Make Some Noise | 0.40% | ~4,240 |
-| The Grand Sacrifice | 0.30% | ~3,180 |
-| Agonizing Escape | 0.30% | ~3,180 |
-| Backdoor Escape | 0.30% | ~3,180 |
-| I've got your back | 0.30% | ~3,180 |
-| No one left behind | 0.30% | ~3,180 |
-| Medic | 0.30% | ~3,180 |
-| Perfect Escape | 0.30% | ~3,180 |
-| Perfect Killing | 0.30% | ~3,180 |
-| Bloody Millionaire | 0.30% | ~3,180 |
-| II | 0.30% | ~3,180 |
-| Healthy Obsession | 0.30% | ~3,180 |
-| Close Shave | 0.30% | ~3,180 |
-| Preemptive Strike | 0.30% | ~3,180 |
-| Humanitarian | 0.30% | ~3,180 |
+| Zealous | 0.50% | ~5,301 |
+| Not half bad | 0.50% | ~5,301 |
+| I | 0.50% | ~5,301 |
+| Handyman | 0.40% | ~4,241 |
+| Apt Survivor | 0.40% | ~4,241 |
+| Survival Treasures | 0.40% | ~4,241 |
+| Sorted | 0.40% | ~4,241 |
+| Resurgence | 0.40% | ~4,241 |
+| Make Some Noise | 0.40% | ~4,241 |
+| The Grand Sacrifice | 0.30% | ~3,181 |
+| Agonizing Escape | 0.30% | ~3,181 |
+| Backdoor Escape | 0.30% | ~3,181 |
+| I've got your back | 0.30% | ~3,181 |
+| No one left behind | 0.30% | ~3,181 |
+| Medic | 0.30% | ~3,181 |
+| Perfect Escape | 0.30% | ~3,181 |
+| Perfect Killing | 0.30% | ~3,181 |
+| Bloody Millionaire | 0.30% | ~3,181 |
+| Risk it all | 0.30% | ~3,181 |
+| II | 0.30% | ~3,181 |
+| Healthy Obsession | 0.30% | ~3,181 |
+| Close Shave | 0.30% | ~3,181 |
+| Preemptive Strike | 0.30% | ~3,181 |
+| Humanitarian | 0.30% | ~3,181 |
 | Blood on your hands | 0.20% | ~2,120 |
 | Escape Artist | 0.20% | ~2,120 |
 | Gifts for the Fog | 0.20% | ~2,120 |
 | Apt Killer | 0.20% | ~2,120 |
-| Risk it all | 0.20% | ~2,120 |
 | Vulture | 0.20% | ~2,120 |
 | III | 0.20% | ~2,120 |
 | III-50 | 0.20% | ~2,120 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,060 |
 | Adept Good Guy | 0.10% | ~1,060 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,060,089 (Ranked 14)  
+Progressed: 1,060,190 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -465,7 +465,7 @@ Completed: 61 (0.01%) (Ranked 344)
 | 2023-11-29 | 1,053,910 | 61 |
 | 2023-11-30 | 1,056,530 | 61 |
 | 2023-12-01 | 1,059,298 | 61 |
-| 2023-12-02 | 1,060,089 | 61 |
+| 2023-12-02 | 1,060,190 | 61 |
 ## Awards
 Max (Diverse Characters): 37,031  (Ranked 15)  
 Sum: 281,537 (Ranked 12)  

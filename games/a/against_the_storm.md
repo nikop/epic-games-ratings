@@ -21,6 +21,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Serving Ale | 0.10% | ~18 |
 | Feeding The People | 0.10% | ~18 |
 | Higher Needs | 0.10% | ~18 |
+| Beaver Utopia | 0.10% | ~18 |
 | Human Utopia | 0.10% | ~18 |
 | Lizard Utopia | 0.10% | ~18 |
 | Efficient Explorer | 0.10% | ~18 |
@@ -61,12 +62,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Defying the Crown | 0.10% | ~18 |
 | Into the Forest | 0.10% | ~18 |
 | Paradise | 0.00% | ~0 |
-| Beaver Utopia | 0.00% | ~0 |
 | Harpy Utopia | 0.00% | ~0 |
 | The Queen's Chosen | 0.00% | ~0 |
 | Treasure | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,559 (Ranked 146)  
+Progressed: 17,560 (Ranked 146)  
 Completed: 49 (0.28%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 49 (0.28%) (Ranked 243)
 | 2023-11-29 | 17,529 | 51 |
 | 2023-11-30 | 17,540 | 51 |
 | 2023-12-01 | 17,557 | 49 |
-| 2023-12-02 | 17,559 | 49 |
+| 2023-12-02 | 17,560 | 49 |
 ## Awards
 Max (Quickly Understood Controls): 441  (Ranked 223)  
 Sum: 3,238 (Ranked 173)  

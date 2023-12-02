@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -1377,9 +1377,9 @@
       "ID": "achEva",
       "SetID": "72gjli4",
       "Name": "Eva \u2714",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "achExplosion",
@@ -1634,8 +1634,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-12-02T06:09:40.2070829+00:00",
+  "LastChanged_Achievements": "2023-12-02T07:09:21.9145525+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:42.3198378+00:00",
-  "LastUpdate_Ratings": "2023-12-02T05:58:21.3660407+00:00",
-  "LastUpdate_Achievements": "2023-12-02T06:09:40.2071213+00:00"
+  "LastUpdate_Ratings": "2023-12-02T06:57:59.3754373+00:00",
+  "LastUpdate_Achievements": "2023-12-02T07:09:21.9145858+00:00"
 }

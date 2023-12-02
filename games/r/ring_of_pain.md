@@ -63,6 +63,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shadow Spreads | 0.20% | ~481 |
 | Max Damage! | 0.20% | ~481 |
 | A Rough Road | 0.20% | ~481 |
+| New Game+ | 0.20% | ~481 |
 | Barbecue | 0.20% | ~481 |
 | Berzerker | 0.20% | ~481 |
 | Juggernaut | 0.20% | ~481 |
@@ -84,7 +85,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Hydrophobe | 0.10% | ~240 |
 | Disposal | 0.10% | ~240 |
 | Dead Revels | 0.10% | ~240 |
-| New Game+ | 0.10% | ~240 |
 | Friend of Vermin | 0.10% | ~240 |
 | Hanging On | 0.10% | ~240 |
 | Explosive Betrayal | 0.10% | ~240 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,497 (Ranked 63)  
+Progressed: 240,499 (Ranked 63)  
 Completed: 291 (0.12%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -371,7 +371,7 @@ Completed: 291 (0.12%) (Ranked 280)
 | 2023-11-29 | 240,403 | 291 |
 | 2023-11-30 | 240,445 | 291 |
 | 2023-12-01 | 240,480 | 291 |
-| 2023-12-02 | 240,497 | 291 |
+| 2023-12-02 | 240,499 | 291 |
 ## Awards
 Max (Great for Beginners): 1,534  (Ranked 132)  
 Sum: 13,240 (Ranked 78)  

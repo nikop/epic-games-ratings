@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4447,
+  "EOS_Progressed": 4448,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -8025,6 +8025,11 @@
       "Time": "2023-12-02T05:06:04.8933709+00:00",
       "NumProgressed": 4447,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-02T07:06:00.8919898+00:00",
+      "NumProgressed": 4448,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8242,9 +8247,9 @@
       "ID": "Ach027",
       "SetID": "12n4k20",
       "Name": "Z-shielding\u0027s got nothing on us!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 489
+      "UsersEstimate": 534
     },
     {
       "ID": "Ach028",
@@ -8436,7 +8441,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "Ach052",
@@ -8524,7 +8529,7 @@
       "Name": "NOW we got a kickass hideout!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "Ach063",
@@ -8603,13 +8608,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4447,
+      "Progressed": 4448,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2968,
+      "Progressed": 2969,
       "Completed": 1930
     }
   ],
@@ -8617,8 +8622,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-02T06:06:28.538827+00:00",
+  "LastChanged_Achievements": "2023-12-02T07:06:00.8919893+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-12-02T05:59:22.6742158+00:00",
-  "LastUpdate_Achievements": "2023-12-02T06:06:28.5389202+00:00"
+  "LastUpdate_Ratings": "2023-12-02T06:58:53.8621669+00:00",
+  "LastUpdate_Achievements": "2023-12-02T07:06:00.8920659+00:00"
 }

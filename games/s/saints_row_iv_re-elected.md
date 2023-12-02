@@ -5,43 +5,43 @@ Rating: 4.41 (Ranked 727)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 63.00% | ~196,545 |
-| Destroyer-In-Chief | 56.00% | ~174,707 |
-| There Is No Pancakes | 53.00% | ~165,347 |
-| First of Many | 41.00% | ~127,910 |
-| Woah. | 36.00% | ~112,311 |
-| Don't Look Down | 29.00% | ~90,473 |
-| Don't Panic | 27.00% | ~84,234 |
-| Ooo A Piece of Candy! | 22.00% | ~68,635 |
-| Ghost in the Machine | 17.00% | ~53,036 |
-| All Too Easy | 15.00% | ~46,796 |
-| Didn't Need to See Him Naked | 13.00% | ~40,557 |
-| Indomitable | 10.00% | ~31,198 |
-| Bow to the Boss! | 9.00% | ~28,078 |
-| Friend of the Raptors | 9.00% | ~28,078 |
-| About Time! | 8.00% | ~24,958 |
-| Blast from the Past | 8.00% | ~24,958 |
-| Actor-Turned-Politician | 7.00% | ~21,838 |
-| Betrayed | 7.00% | ~21,838 |
-| Maximum Stopping Power | 7.00% | ~21,838 |
+| Zero Saints Thirty | 63.00% | ~196,554 |
+| Destroyer-In-Chief | 56.00% | ~174,714 |
+| There Is No Pancakes | 53.00% | ~165,355 |
+| First of Many | 41.00% | ~127,916 |
+| Woah. | 36.00% | ~112,316 |
+| Don't Look Down | 29.00% | ~90,477 |
+| Don't Panic | 27.00% | ~84,237 |
+| Ooo A Piece of Candy! | 22.00% | ~68,638 |
+| Ghost in the Machine | 17.00% | ~53,038 |
+| All Too Easy | 15.00% | ~46,798 |
+| Didn't Need to See Him Naked | 13.00% | ~40,559 |
+| Indomitable | 10.00% | ~31,199 |
+| Bow to the Boss! | 9.00% | ~28,079 |
+| Friend of the Raptors | 9.00% | ~28,079 |
+| About Time! | 8.00% | ~24,959 |
+| Blast from the Past | 8.00% | ~24,959 |
+| Actor-Turned-Politician | 7.00% | ~21,839 |
+| Betrayed | 7.00% | ~21,839 |
+| Maximum Stopping Power | 7.00% | ~21,839 |
 | Keymaster | 6.00% | ~18,719 |
 | Poodle Skirt | 6.00% | ~18,719 |
 | You Chose... Poorly | 6.00% | ~18,719 |
-| Double Team | 5.00% | ~15,599 |
-| Imperator | 5.00% | ~15,599 |
-| *BEEP* YOU, CLAWZ! | 4.00% | ~12,479 |
-| Half Way Home | 4.00% | ~12,479 |
-| How It Should Be | 4.00% | ~12,479 |
-| Machine Man | 4.00% | ~12,479 |
-| The Full Kinzie | 4.00% | ~12,479 |
-| ...A Saint Gets a Gun | 3.00% | ~9,359 |
-| And I Ran... | 3.00% | ~9,359 |
-| Chill Out | 3.00% | ~9,359 |
-| Elementary | 3.00% | ~9,359 |
-| On Her Saint's Secret Service | 3.00% | ~9,359 |
-| Paranormal Bromance | 3.00% | ~9,359 |
-| Saints & Sensibility | 3.00% | ~9,359 |
-| The Two Shaundis | 3.00% | ~9,359 |
+| Double Team | 5.00% | ~15,600 |
+| Imperator | 5.00% | ~15,600 |
+| *BEEP* YOU, CLAWZ! | 4.00% | ~12,480 |
+| Half Way Home | 4.00% | ~12,480 |
+| How It Should Be | 4.00% | ~12,480 |
+| Machine Man | 4.00% | ~12,480 |
+| The Full Kinzie | 4.00% | ~12,480 |
+| ...A Saint Gets a Gun | 3.00% | ~9,360 |
+| And I Ran... | 3.00% | ~9,360 |
+| Chill Out | 3.00% | ~9,360 |
+| Elementary | 3.00% | ~9,360 |
+| On Her Saint's Secret Service | 3.00% | ~9,360 |
+| Paranormal Bromance | 3.00% | ~9,360 |
+| Saints & Sensibility | 3.00% | ~9,360 |
+| The Two Shaundis | 3.00% | ~9,360 |
 | Benjamin [CENSORED] King | 2.00% | ~6,240 |
 | Better This Way | 2.00% | ~6,240 |
 | Bouncin' with an Old Friend | 2.00% | ~6,240 |
@@ -78,7 +78,7 @@ Rating: 4.41 (Ranked 727)
 | Super Power Team Up! | 0.10% | ~312 |
 | Ultimate Hot Potato | 0.10% | ~312 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 311,976 (Ranked 53)  
+Progressed: 311,990 (Ranked 53)  
 Completed: 17 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,14 +304,14 @@ Completed: 17 (0.01%) (Ranked 344)
 | 2023-11-29 | 310,778 | 17 |
 | 2023-11-30 | 311,252 | 17 |
 | 2023-12-01 | 311,822 | 17 |
-| 2023-12-02 | 311,976 | 17 |
+| 2023-12-02 | 311,990 | 17 |
 ## Awards
-Max (Great Boss Battles): 493  (Ranked 212)  
-Sum: 493 (Ranked 327)  
+Max (Great Boss Battles): 495  (Ranked 212)  
+Sum: 495 (Ranked 327)  
 Diff (max vs sum): -115  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 493 |
+| This game has Great Boss Battles | 495 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -417,3 +417,4 @@ Diff (max vs sum): -115
 | 2023-11-19 | 4.41 | 491 | 491 |
 | 2023-11-21 | 4.41 | 492 | 492 |
 | 2023-11-24 | 4.41 | 493 | 493 |
+| 2023-12-02 | 4.41 | 495 | 495 |
