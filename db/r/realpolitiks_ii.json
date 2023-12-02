@@ -3,12 +3,12 @@
   "Name": "Realpolitiks II",
   "ProductSlug": "realpolitiks-2",
   "Ranking_Rating": 956,
-  "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 557,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 770,
-  "Ranking_EOS_Completed": 364,
+  "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-05-12T17:00:00+00:00",
     "PcReleaseDate": "2020-11-18T10:45:21+00:00",
@@ -57,6 +57,6 @@
   "FirstSeenRating": "2022-12-01T03:29:27.0060799+00:00",
   "LastChanged": "2023-04-21T20:57:00.165661+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:40.7031181+00:00",
-  "LastUpdate_Ratings": "2023-12-01T23:00:31.6304868+00:00",
-  "LastUpdate_Achievements": "2023-12-01T23:09:10.8901925+00:00"
+  "LastUpdate_Ratings": "2023-12-01T23:59:35.9319212+00:00",
+  "LastUpdate_Achievements": "2023-12-02T00:09:00.7602411+00:00"
 }

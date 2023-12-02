@@ -3,12 +3,12 @@
   "Name": "The Uncertain: Light at the End",
   "ProductSlug": "the-uncertain-light-at-the-end",
   "Ranking_Rating": 1034,
-  "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 557,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -1198,8 +1198,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-12-01T23:07:28.9963722+00:00",
+  "LastChanged_Achievements": "2023-12-02T00:06:23.7376135+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:07.3687464+00:00",
-  "LastUpdate_Ratings": "2023-12-01T23:03:24.5100251+00:00",
-  "LastUpdate_Achievements": "2023-12-01T23:07:28.9963941+00:00"
+  "LastUpdate_Ratings": "2023-12-02T00:03:11.5184233+00:00",
+  "LastUpdate_Achievements": "2023-12-02T00:06:23.73763+00:00"
 }

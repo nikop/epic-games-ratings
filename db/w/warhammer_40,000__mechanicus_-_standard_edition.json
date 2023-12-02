@@ -6,9 +6,9 @@
   "Ranking_Popularity": 258,
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 70,
-  "Ranking_EOS_Completed": 364,
+  "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -960,9 +960,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 228424,
+  "EOS_Progressed": 228427,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 505,
+  "EOS_NewPlayers": 508,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25600,6 +25600,11 @@
       "Time": "2023-12-01T23:10:13.3528887+00:00",
       "NumProgressed": 228424,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-02T00:09:52.2816705+00:00",
+      "NumProgressed": 228427,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -25619,7 +25624,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59390
+      "UsersEstimate": 59391
     },
     {
       "ID": "ACH_BASE_11",
@@ -25659,7 +25664,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22842
+      "UsersEstimate": 22843
     },
     {
       "ID": "ACH_BASE_17",
@@ -25683,7 +25688,7 @@
       "Name": "Battle Servitor",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4568
+      "UsersEstimate": 4569
     },
     {
       "ID": "ACH_BASE_2",
@@ -25691,7 +25696,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13705
+      "UsersEstimate": 13706
     },
     {
       "ID": "ACH_BASE_20",
@@ -25707,7 +25712,7 @@
       "Name": "Ding Dong Szaregon\u0027s Gone",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4568
+      "UsersEstimate": 4569
     },
     {
       "ID": "ACH_BASE_22",
@@ -25715,7 +25720,7 @@
       "Name": "Impatient destruction",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4568
+      "UsersEstimate": 4569
     },
     {
       "ID": "ACH_BASE_23",
@@ -25843,7 +25848,7 @@
       "Name": "Vivisected Vizier",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4568
+      "UsersEstimate": 4569
     },
     {
       "ID": "ACH_BASE_6",
@@ -25851,7 +25856,7 @@
       "Name": "Architect Abortion",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4568
+      "UsersEstimate": 4569
     },
     {
       "ID": "ACH_BASE_7",
@@ -25882,7 +25887,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 228424,
+      "Progressed": 228427,
       "Completed": 5
     }
   ],
@@ -25890,8 +25895,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-11-30T08:58:10.4059133+00:00",
-  "LastChanged_Achievements": "2023-12-01T23:10:13.3528881+00:00",
+  "LastChanged_Achievements": "2023-12-02T00:09:52.2816702+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:35.278824+00:00",
-  "LastUpdate_Ratings": "2023-12-01T22:59:52.119383+00:00",
-  "LastUpdate_Achievements": "2023-12-01T23:10:13.3530301+00:00"
+  "LastUpdate_Ratings": "2023-12-01T23:59:05.8448068+00:00",
+  "LastUpdate_Achievements": "2023-12-02T00:09:52.2817862+00:00"
 }

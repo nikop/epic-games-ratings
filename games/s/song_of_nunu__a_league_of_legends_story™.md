@@ -12,7 +12,7 @@
 | He's Famous! | 66.00% | ~694 |
 | Cutie Poro | 66.00% | ~694 |
 | Krugmazing | 64.00% | ~673 |
-| Moneyball | 60.00% | ~631 |
+| Moneyball | 61.00% | ~641 |
 | The Fire Below the Mountain | 60.00% | ~631 |
 | No Bites | 54.00% | ~568 |
 | Iceborn | 54.00% | ~568 |

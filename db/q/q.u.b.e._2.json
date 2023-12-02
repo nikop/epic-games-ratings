@@ -3,8 +3,8 @@
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
   "Ranking_Rating": 680,
-  "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 557,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 77,
@@ -551,9 +551,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 41972,
+  "EOS_Progressed": 41975,
   "EOS_Completed": 181,
-  "EOS_NewPlayers": 1020,
+  "EOS_NewPlayers": 1023,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -9066,6 +9066,11 @@
       "Time": "2023-12-01T23:09:08.4042329+00:00",
       "NumProgressed": 41972,
       "NumCompleted": 181
+    },
+    {
+      "Time": "2023-12-02T00:08:58.7930415+00:00",
+      "NumProgressed": 41975,
+      "NumCompleted": 181
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -9110,7 +9115,7 @@
       "Name": "Bronze collector",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "ACH_DLC1COMPLETE",
@@ -9118,7 +9123,7 @@
       "Name": "Home Stretch",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "ACH_DLC1GOLD",
@@ -9142,7 +9147,7 @@
       "Name": "Get me out of here",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "ACH_DLC2ALLCOLLECTABLES",
@@ -9214,7 +9219,7 @@
       "Name": "Infinity Loop",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 7135
+      "UsersEstimate": 7136
     },
     {
       "ID": "ACH_HUB1",
@@ -9230,7 +9235,7 @@
       "Name": "Path to Salvation",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7135
+      "UsersEstimate": 7136
     },
     {
       "ID": "ACH_OASIS",
@@ -9238,7 +9243,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 21825
+      "UsersEstimate": 21827
     },
     {
       "ID": "ACH_PEAK",
@@ -9270,7 +9275,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 28541
+      "UsersEstimate": 28543
     },
     {
       "ID": "ACH_S4",
@@ -9278,7 +9283,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 20986
+      "UsersEstimate": 20988
     },
     {
       "ID": "ACH_S5",
@@ -9286,7 +9291,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 15110
+      "UsersEstimate": 15111
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -9294,7 +9299,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 31479
+      "UsersEstimate": 31481
     },
     {
       "ID": "ACH_STATUE",
@@ -9302,22 +9307,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 18048
+      "UsersEstimate": 18049
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 41972,
+      "Progressed": 41975,
       "Completed": 181
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-11-25T10:58:21.218684+00:00",
-  "LastChanged_Achievements": "2023-12-01T23:09:08.4042326+00:00",
+  "LastChanged_Achievements": "2023-12-02T00:08:58.7930412+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:06.5276065+00:00",
-  "LastUpdate_Ratings": "2023-12-01T22:57:58.6806502+00:00",
-  "LastUpdate_Achievements": "2023-12-01T23:09:08.4042932+00:00"
+  "LastUpdate_Ratings": "2023-12-01T23:57:36.2626026+00:00",
+  "LastUpdate_Achievements": "2023-12-02T00:08:58.7931039+00:00"
 }

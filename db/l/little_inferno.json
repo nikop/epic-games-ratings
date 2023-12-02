@@ -3,12 +3,12 @@
   "Name": "Little Inferno",
   "ProductSlug": "little-inferno",
   "Ranking_Rating": 448,
-  "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 557,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 770,
-  "Ranking_EOS_Completed": 364,
+  "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2012-11-19T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -375,6 +375,6 @@
   "FirstSeen": "2022-07-22T20:29:23.1362481+00:00",
   "LastChanged": "2023-10-20T23:01:53.6875893+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:45.2108896+00:00",
-  "LastUpdate_Ratings": "2023-12-01T22:58:21.1775005+00:00",
-  "LastUpdate_Achievements": "2023-12-01T23:09:35.9427913+00:00"
+  "LastUpdate_Ratings": "2023-12-01T23:57:53.9572376+00:00",
+  "LastUpdate_Achievements": "2023-12-02T00:09:21.5009141+00:00"
 }

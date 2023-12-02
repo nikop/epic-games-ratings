@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16781,
+  "EOS_Progressed": 16782,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -15268,6 +15268,11 @@
       "Time": "2023-12-01T20:06:36.9343455+00:00",
       "NumProgressed": 16781,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-12-02T00:05:35.7401977+00:00",
+      "NumProgressed": 16782,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15383,7 +15388,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 5034
+      "UsersEstimate": 5035
     },
     {
       "ID": "tpote_achievement_22",
@@ -15495,7 +15500,7 @@
       "Name": "A cry for help",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "tpote_achievement_35",
@@ -15543,7 +15548,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6712
+      "UsersEstimate": 6713
     },
     {
       "ID": "tpote_achievement_40",
@@ -15567,7 +15572,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4027
+      "UsersEstimate": 4028
     },
     {
       "ID": "tpote_achievement_6",
@@ -15606,15 +15611,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16781,
+      "Progressed": 16782,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-12-01T23:06:30.8652915+00:00",
+  "LastChanged_Achievements": "2023-12-02T00:05:35.7401974+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:06.2264545+00:00",
-  "LastUpdate_Ratings": "2023-12-01T23:02:38.8964238+00:00",
-  "LastUpdate_Achievements": "2023-12-01T23:06:30.8653911+00:00"
+  "LastUpdate_Ratings": "2023-12-02T00:00:44.7925494+00:00",
+  "LastUpdate_Achievements": "2023-12-02T00:05:35.7402978+00:00"
 }

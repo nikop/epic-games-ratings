@@ -7327,9 +7327,9 @@
       "Count": 3789
     }
   ],
-  "EOS_Progressed": 143280,
+  "EOS_Progressed": 143286,
   "EOS_Completed": 290,
-  "EOS_NewPlayers": 1621,
+  "EOS_NewPlayers": 1627,
   "EOS_NewCompleters": 75,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -30682,6 +30682,11 @@
       "Time": "2023-12-01T23:06:08.7648285+00:00",
       "NumProgressed": 143280,
       "NumCompleted": 290
+    },
+    {
+      "Time": "2023-12-02T00:05:17.1328593+00:00",
+      "NumProgressed": 143286,
+      "NumCompleted": 290
     }
   ],
   "TotalAchievements": 112,
@@ -30693,7 +30698,7 @@
       "Name": "The Daily Grind",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4298
+      "UsersEstimate": 4299
     },
     {
       "ID": "advlevel02",
@@ -30829,7 +30834,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4298
+      "UsersEstimate": 4299
     },
     {
       "ID": "boss02",
@@ -30965,7 +30970,7 @@
       "Name": "Flooding the Market",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4298
+      "UsersEstimate": 4299
     },
     {
       "ID": "craft03",
@@ -30997,7 +31002,7 @@
       "Name": "Where it Hurts",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4298
+      "UsersEstimate": 4299
     },
     {
       "ID": "damage02",
@@ -31173,7 +31178,7 @@
       "Name": "Pretty Penny",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4298
+      "UsersEstimate": 4299
     },
     {
       "ID": "gold03",
@@ -31245,7 +31250,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4298
+      "UsersEstimate": 4299
     },
     {
       "ID": "jackslot02",
@@ -31317,7 +31322,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4298
+      "UsersEstimate": 4299
     },
     {
       "ID": "loot02",
@@ -31349,7 +31354,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4298
+      "UsersEstimate": 4299
     },
     {
       "ID": "master02",
@@ -31588,15 +31593,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 143280,
+      "Progressed": 143286,
       "Completed": 290
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-01T12:02:51.5246412+00:00",
-  "LastChanged_Achievements": "2023-12-01T23:06:08.764828+00:00",
+  "LastChanged_Achievements": "2023-12-02T00:05:17.1328591+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-12-01T23:03:07.9093456+00:00",
-  "LastUpdate_Achievements": "2023-12-01T23:06:08.7650439+00:00"
+  "LastUpdate_Ratings": "2023-12-02T00:02:58.5725573+00:00",
+  "LastUpdate_Achievements": "2023-12-02T00:05:17.13308+00:00"
 }

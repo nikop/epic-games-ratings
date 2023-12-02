@@ -3,9 +3,9 @@
   "Name": "STAR WARS\u2122: Squadrons",
   "ProductSlug": "star-wars-squadrons",
   "Ranking_EOS_Progress": 127,
-  "Ranking_EOS_Completed": 364,
+  "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 41,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-10-02T04:00:00+00:00",
     "PcReleaseDate": "2020-10-02T04:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25477,
-  "EOS_Completed": 1,
-  "EOS_NewPlayers": 2363,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Progressed": 25487,
+  "EOS_Completed": 2,
+  "EOS_NewPlayers": 2373,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
     {
       "Time": "2023-09-21T00:04:04.2376794+00:00",
@@ -8634,6 +8634,11 @@
       "Time": "2023-12-01T23:10:19.1818157+00:00",
       "NumProgressed": 25477,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T00:09:57.2728178+00:00",
+      "NumProgressed": 25487,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -8646,7 +8651,7 @@
       "Name": "The Galaxy\u0027s Finest (Story Mode)",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3822
+      "UsersEstimate": 3823
     },
     {
       "ID": "achievement_10",
@@ -8694,7 +8699,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 5095
+      "UsersEstimate": 5097
     },
     {
       "ID": "achievement_16",
@@ -8726,7 +8731,7 @@
       "Name": "Stronger Together",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "achievement_2",
@@ -8790,7 +8795,7 @@
       "Name": "Squadron Hunter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "achievement_27",
@@ -8798,7 +8803,7 @@
       "Name": "Unkillable",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2038
+      "UsersEstimate": 2039
     },
     {
       "ID": "achievement_28",
@@ -8854,7 +8859,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 4841
+      "UsersEstimate": 4843
     },
     {
       "ID": "achievement_34",
@@ -8870,7 +8875,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 24203
+      "UsersEstimate": 24213
     },
     {
       "ID": "achievement_36",
@@ -8878,7 +8883,7 @@
       "Name": "Together, Vanguard",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "achievement_37",
@@ -8886,7 +8891,7 @@
       "Name": "Asset Secured",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3312
+      "UsersEstimate": 3313
     },
     {
       "ID": "achievement_38",
@@ -8902,7 +8907,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 6114
+      "UsersEstimate": 6117
     },
     {
       "ID": "achievement_4",
@@ -8942,7 +8947,7 @@
       "Name": "Punch It",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "achievement_44",
@@ -8950,7 +8955,7 @@
       "Name": "Combat Pilot",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "achievement_45",
@@ -8990,7 +8995,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3312
+      "UsersEstimate": 3313
     },
     {
       "ID": "achievement_7",
@@ -9006,7 +9011,7 @@
       "Name": "A Better Idea",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 6114
+      "UsersEstimate": 6117
     },
     {
       "ID": "achievement_9",
@@ -9021,16 +9026,16 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 25477,
-      "Completed": 1
+      "Progressed": 25487,
+      "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:37.9193056+00:00",
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-12-01T23:10:19.1818153+00:00",
+  "LastChanged_Achievements": "2023-12-02T00:09:57.2728176+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:13.346216+00:00",
-  "LastUpdate_Ratings": "2023-12-01T23:03:16.6415551+00:00",
-  "LastUpdate_Achievements": "2023-12-01T23:10:19.1818771+00:00"
+  "LastUpdate_Ratings": "2023-12-02T00:03:05.2675323+00:00",
+  "LastUpdate_Achievements": "2023-12-02T00:09:57.2728819+00:00"
 }

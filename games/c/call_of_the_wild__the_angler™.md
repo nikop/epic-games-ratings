@@ -20,8 +20,8 @@ Number of Ratings: 281  (23.09.2022)
 | License to Gill | 1.00% | ~67 |
 | Going for Gold | 1.00% | ~67 |
 | I'm Hooked! | 1.00% | ~67 |
+| Marathon | 0.50% | ~34 |
 | I'm the Captain Now | 0.40% | ~27 |
-| Marathon | 0.40% | ~27 |
 | Diamond in the Rough | 0.40% | ~27 |
 | More than a Tourist | 0.30% | ~20 |
 | Hook, Line and Sinker | 0.30% | ~20 |
@@ -48,7 +48,7 @@ Number of Ratings: 281  (23.09.2022)
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,718 (Ranked 183)  
-Completed: 0 (0.00%) (Ranked 364)  
+Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -274,9 +274,9 @@ Completed: 0 (0.00%) (Ranked 364)
 | 2023-11-30 | 6,712 | 0 |
 | 2023-12-01 | 6,718 | 0 |
 ## Awards
-Max (Relaxing): 37  (Ranked 469)  
+Max (Relaxing): 37  (Ranked 470)  
 Sum: 198 (Ranked 401)  
-Diff (max vs sum): 68  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 37 |

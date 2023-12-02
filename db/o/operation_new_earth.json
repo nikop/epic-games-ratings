@@ -3,12 +3,12 @@
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_Rating": 1052,
-  "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 557,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1940,
+  "EOS_Progressed": 1941,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7348,6 +7348,11 @@
       "Time": "2023-12-01T17:06:04.3372922+00:00",
       "NumProgressed": 1940,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T00:06:40.3979067+00:00",
+      "NumProgressed": 1941,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7463,7 +7468,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -7662,7 +7667,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1940,
+      "Progressed": 1941,
       "Completed": 1
     }
   ],
@@ -7670,8 +7675,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-21T23:00:15.982699+00:00",
-  "LastChanged_Achievements": "2023-12-01T23:07:48.6702157+00:00",
+  "LastChanged_Achievements": "2023-12-02T00:06:40.3979064+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:27.1285109+00:00",
-  "LastUpdate_Ratings": "2023-12-01T22:57:32.9204079+00:00",
-  "LastUpdate_Achievements": "2023-12-01T23:07:48.6702631+00:00"
+  "LastUpdate_Ratings": "2023-12-01T23:57:16.3013259+00:00",
+  "LastUpdate_Achievements": "2023-12-02T00:06:40.3979719+00:00"
 }

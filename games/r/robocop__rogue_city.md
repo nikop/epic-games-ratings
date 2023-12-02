@@ -34,7 +34,7 @@ Rating: 4.08 (Ranked 975)
 | Practice Makes Perfect | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 705 (Ranked 284)  
-Completed: 0 (0.00%) (Ranked 364)  
+Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -53,8 +53,8 @@ Completed: 0 (0.00%) (Ranked 364)
 | 2023-11-14 | 694 | 0 |
 | 2023-11-15 | 705 | 0 |
 ## Awards
-Max (Great Boss Battles): 34  (Ranked 484)  
-Sum: 34 (Ranked 509)  
+Max (Great Boss Battles): 34  (Ranked 485)  
+Sum: 34 (Ranked 510)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |

@@ -26,11 +26,11 @@ Rating: 4.43 (Ranked 697)
 | Going once, going twice, sold | 35.00% | ~807 |
 | Bull and bear | 34.00% | ~784 |
 | Stoker | 33.00% | ~761 |
-| Full Steam ahead | 32.00% | ~738 |
+| Full Steam ahead | 33.00% | ~761 |
 | Financial Shark | 31.00% | ~715 |
+| Socializer | 31.00% | ~715 |
 | All mine | 30.00% | ~692 |
 | Mole | 30.00% | ~692 |
-| Socializer | 30.00% | ~692 |
 | General Manager | 28.00% | ~645 |
 | Country Life | 28.00% | ~645 |
 | Hostile Takeover | 25.00% | ~576 |
@@ -41,9 +41,9 @@ Rating: 4.43 (Ranked 697)
 | Traffic Jam | 20.00% | ~461 |
 | Networker | 18.00% | ~415 |
 | Resistance is futile | 17.00% | ~392 |
+| Settler | 16.00% | ~369 |
 | Assimilated | 15.00% | ~346 |
 | Bold and beautiful | 15.00% | ~346 |
-| Settler | 15.00% | ~346 |
 | Go West | 14.00% | ~323 |
 | Max Power | 14.00% | ~323 |
 | Locusts | 14.00% | ~323 |
@@ -62,7 +62,7 @@ Rating: 4.43 (Ranked 697)
 | Together we stand | 0.60% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,305 (Ranked 220)  
-Completed: 0 (0.00%) (Ranked 364)  
+Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -263,9 +263,9 @@ Completed: 1,388 (4.84%) (Ranked 75)
 | 2023-11-30 | 28,683 | 1,387 |
 | 2023-12-01 | 28,689 | 1,388 |
 ## Awards
-Max (Amazing Storytelling): 43  (Ranked 454)  
+Max (Amazing Storytelling): 43  (Ranked 455)  
 Sum: 367 (Ranked 352)  
-Diff (max vs sum): 102  
+Diff (max vs sum): 103  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 43 |

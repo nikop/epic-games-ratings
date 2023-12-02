@@ -3,9 +3,9 @@
   "Name": "Yaku",
   "ProductSlug": "yakuverse-170f13",
   "Ranking_EOS_Progress": 770,
-  "Ranking_EOS_Completed": 364,
+  "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-10-31T00:00:00+00:00",
     "PcReleaseDate": "2023-10-31T00:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-01T16:58:07.5462601+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:10.393121+00:00",
-  "LastUpdate_Ratings": "2023-12-01T22:58:53.0096936+00:00",
-  "LastUpdate_Achievements": "2023-12-01T23:05:17.5150773+00:00"
+  "LastUpdate_Ratings": "2023-12-01T23:58:18.2643191+00:00",
+  "LastUpdate_Achievements": "2023-12-02T00:04:35.2292666+00:00"
 }

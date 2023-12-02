@@ -56,7 +56,7 @@ Rating: 4.68 (Ranked 254)
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,992 (Ranked 186)  
-Completed: 0 (0.00%) (Ranked 364)  
+Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -136,8 +136,8 @@ Completed: 0 (0.00%) (Ranked 364)
 | 2023-11-30 | 5,982 | 0 |
 | 2023-12-01 | 5,992 | 0 |
 ## Awards
-Max (Diverse Characters): 27  (Ranked 513)  
-Sum: 97 (Ranked 449)  
+Max (Diverse Characters): 27  (Ranked 514)  
+Sum: 97 (Ranked 450)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |

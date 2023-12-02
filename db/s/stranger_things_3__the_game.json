@@ -3,9 +3,9 @@
   "Name": "Stranger Things 3: The Game",
   "ProductSlug": "stranger-things-3-the-game",
   "Ranking_EOS_Progress": 770,
-  "Ranking_EOS_Completed": 364,
+  "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-25T19:57:18.1625331+00:00",
-  "LastUpdate_Ratings": "2023-12-01T23:00:59.8432913+00:00",
-  "LastUpdate_Achievements": "2023-12-01T23:04:11.4073987+00:00"
+  "LastUpdate_Ratings": "2023-12-01T23:59:58.591602+00:00",
+  "LastUpdate_Achievements": "2023-12-02T00:03:41.4316211+00:00"
 }

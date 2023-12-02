@@ -52,14 +52,14 @@ Number of Ratings: 90  (23.09.2022)
 | Pimp My Raid | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3 (Ranked 659)  
-Completed: 0 (0.00%) (Ranked 364)  
+Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-12-01 | 3 | 0 |
 ## Awards
-Max (Great Boss Battles): 35  (Ranked 477)  
-Sum: 35 (Ranked 507)  
+Max (Great Boss Battles): 35  (Ranked 478)  
+Sum: 35 (Ranked 508)  
 Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |

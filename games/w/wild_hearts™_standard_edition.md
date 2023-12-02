@@ -23,8 +23,8 @@
 | Master of the Skies | 49.00% | ~170 |
 | Counter Specialist | 49.00% | ~170 |
 | Axer of Auspice | 45.00% | ~156 |
+| Fair Means or Foul | 43.00% | ~149 |
 | Mighty Marmelizer | 42.00% | ~145 |
-| Fair Means or Foul | 42.00% | ~145 |
 | Single Minded | 39.00% | ~135 |
 | Snare Specialist | 39.00% | ~135 |
 | Kemono at Heart | 39.00% | ~135 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -11836,10 +11836,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 43456,
       "NumberOfAwardsMax": 5662
+    },
+    {
+      "Time": "2023-12-02T00:00:34.9919276+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 43461,
+      "NumberOfAwardsMax": 5662
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43456,
+  "NumberOfAwards": 43461,
   "NumberOfAwardsMax": 5662,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -11901,7 +11907,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4625
+      "Count": 4630
     },
     {
       "Text": "This game has a Creative Community",
@@ -11916,9 +11922,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 54457,
+  "EOS_Progressed": 54458,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1455,
+  "EOS_NewPlayers": 1456,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32651,6 +32657,11 @@
       "Time": "2023-12-01T23:07:19.420176+00:00",
       "NumProgressed": 54457,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-02T00:06:16.1032826+00:00",
+      "NumProgressed": 54458,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -32742,7 +32753,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 33763
+      "UsersEstimate": 33764
     },
     {
       "ID": "CutTree",
@@ -32814,7 +32825,7 @@
       "Name": "Own use",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 40298
+      "UsersEstimate": 40299
     },
     {
       "ID": "HorseJumps",
@@ -32886,7 +32897,7 @@
       "Name": "I like to switch it up",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 21238
+      "UsersEstimate": 21239
     },
     {
       "ID": "NumPlaceables",
@@ -32926,7 +32937,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 14703
+      "UsersEstimate": 14704
     },
     {
       "ID": "PlayTime",
@@ -32934,7 +32945,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 31040
+      "UsersEstimate": 31041
     },
     {
       "ID": "Sow",
@@ -33005,15 +33016,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 54457,
+      "Progressed": 54458,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2023-12-01T23:01:45.5031934+00:00",
-  "LastChanged_Achievements": "2023-12-01T23:07:19.4201755+00:00",
+  "LastChanged": "2023-12-02T00:00:34.9919274+00:00",
+  "LastChanged_Achievements": "2023-12-02T00:06:16.1032824+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:04.5374775+00:00",
-  "LastUpdate_Ratings": "2023-12-01T23:01:45.5031942+00:00",
-  "LastUpdate_Achievements": "2023-12-01T23:07:19.4202783+00:00"
+  "LastUpdate_Ratings": "2023-12-02T00:00:34.991928+00:00",
+  "LastUpdate_Achievements": "2023-12-02T00:06:16.1034024+00:00"
 }

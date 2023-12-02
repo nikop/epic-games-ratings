@@ -16,7 +16,7 @@
 | Master of Magic | 64.00% | ~327 |
 | Heroes’ Gorge | 61.00% | ~312 |
 | Unicorn steaks – fresh off the hoof! | 60.00% | ~307 |
-| Magic Accidents | 58.00% | ~296 |
+| Magic Accidents | 59.00% | ~301 |
 | Trap Master | 56.00% | ~286 |
 | Minions, Minions! | 54.00% | ~276 |
 | The Ascent | 53.00% | ~271 |
@@ -30,7 +30,7 @@
 | Dungeonlord Gorgu | 39.00% | ~199 |
 | The Cathedral of Light | 39.00% | ~199 |
 | Mana Cannon | 38.00% | ~194 |
-| Tanos' Crusade Against Thalya | 34.00% | ~174 |
+| Tanos' Crusade Against Thalya | 35.00% | ~179 |
 | Unstoppable Horde | 29.00% | ~148 |
 | All’s Well That Ends Evil | 29.00% | ~148 |
 | Master of the Undead | 27.00% | ~138 |
@@ -50,9 +50,9 @@
 | The Rune Sockets of Finitude (Part 1) | 15.00% | ~77 |
 | My Little Torture Chamber | 14.00% | ~72 |
 | Raiders of the Lost Stone | 14.00% | ~72 |
+| The Rune Sockets of Finitude (Part 2) | 14.00% | ~72 |
 | Lavalumps on Ice! | 13.00% | ~66 |
 | Rubble and Ashes | 13.00% | ~66 |
-| The Rune Sockets of Finitude (Part 2) | 13.00% | ~66 |
 | The Last Stand - This Time For Real! | 12.00% | ~61 |
 | To the Max! | 11.00% | ~56 |
 | To Infinity And Beyond! | 11.00% | ~56 |

@@ -3,12 +3,12 @@
   "Name": "Scrapnaut",
   "ProductSlug": "scrapnaut",
   "Ranking_Rating": 859,
-  "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 557,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1656,9 +1656,9 @@
       "ID": "ACH_COLLECT_100_SCRAP",
       "SetID": "7c4cldc",
       "Name": "Scrap Master",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 184
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_COLLECT_10_HERBS",
@@ -1881,8 +1881,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-11-17T17:00:24.0955126+00:00",
-  "LastChanged_Achievements": "2023-12-01T23:08:50.0517426+00:00",
+  "LastChanged_Achievements": "2023-12-02T00:08:43.8463392+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:54.617805+00:00",
-  "LastUpdate_Ratings": "2023-12-01T23:01:06.6412229+00:00",
-  "LastUpdate_Achievements": "2023-12-01T23:08:50.0517691+00:00"
+  "LastUpdate_Ratings": "2023-12-02T00:00:03.8906398+00:00",
+  "LastUpdate_Achievements": "2023-12-02T00:08:43.8463603+00:00"
 }

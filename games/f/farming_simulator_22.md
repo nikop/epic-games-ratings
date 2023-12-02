@@ -6,20 +6,20 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 74.00% | ~40,298 |
-| I read Shakespeare and stuff | 62.00% | ~33,763 |
+| Own use | 74.00% | ~40,299 |
+| I read Shakespeare and stuff | 62.00% | ~33,764 |
 | Just a sprinkle | 61.00% | ~33,219 |
 | I'm stumped | 59.00% | ~32,130 |
 | Plant get enough | 59.00% | ~32,130 |
-| It's just the beginning | 57.00% | ~31,040 |
+| It's just the beginning | 57.00% | ~31,041 |
 | This is just my weekend vehicle | 56.00% | ~30,496 |
 | Hard work pays off | 52.00% | ~28,318 |
 | It's never too late to farm | 49.00% | ~26,684 |
 | All out of Land | 43.00% | ~23,417 |
 | Field Trip | 42.00% | ~22,872 |
-| I like to switch it up | 39.00% | ~21,238 |
+| I like to switch it up | 39.00% | ~21,239 |
 | Help me to help you | 37.00% | ~20,149 |
-| Ultimutt Pawesomeness | 27.00% | ~14,703 |
+| Ultimutt Pawesomeness | 27.00% | ~14,704 |
 | Van Gogh | 25.00% | ~13,614 |
 | Vehicle fleet | 22.00% | ~11,981 |
 | You wood not believe it | 21.00% | ~11,436 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~218 |
 | Raisin the stakes | 0.30% | ~163 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,457 (Ranked 111)  
+Progressed: 54,458 (Ranked 111)  
 Completed: 6 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,14 +276,15 @@ Completed: 6 (0.01%) (Ranked 344)
 | 2023-11-29 | 54,222 | 6 |
 | 2023-11-30 | 54,333 | 6 |
 | 2023-12-01 | 54,457 | 6 |
+| 2023-12-02 | 54,458 | 6 |
 ## Awards
 Max (Great for Beginners): 5,662  (Ranked 69)  
-Sum: 43,456 (Ranked 33)  
+Sum: 43,461 (Ranked 33)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,662 |
-| This game has Diverse Characters | 4,625 |
+| This game has Diverse Characters | 4,630 |
 | This game is Educational | 4,386 |
 | This game is Highly Recommended | 4,330 |
 | This game is Relaxing | 4,311 |
@@ -616,3 +617,4 @@ Diff (max vs sum): 36
 | 2023-11-29 | 4.68 | - | 5,648 | 43,380 |
 | 2023-11-30 | 4.68 | - | 5,657 | 43,417 |
 | 2023-12-01 | 4.68 | - | 5,662 | 43,456 |
+| 2023-12-02 | 4.68 | - | 5,662 | 43,461 |

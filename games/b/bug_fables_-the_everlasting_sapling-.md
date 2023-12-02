@@ -14,15 +14,15 @@
 | Chapter 5 Complete | 23.00% | ~21 |
 | Chapter 6 Complete | 22.00% | ~20 |
 | The Truth | 22.00% | ~20 |
+| Chapter 7 Complete | 20.00% | ~19 |
 | Plant Enchanter | 20.00% | ~19 |
 | Reconciliation | 20.00% | ~19 |
 | Always Watchful | 19.00% | ~18 |
-| Chapter 7 Complete | 19.00% | ~18 |
 | Bounty Hunter | 17.00% | ~16 |
 | The Terror | 17.00% | ~16 |
 | Battle Ready | 15.00% | ~14 |
 | All Geared Up | 14.00% | ~13 |
-| The End | 13.00% | ~12 |
+| The End | 14.00% | ~13 |
 | Good Deed | 13.00% | ~12 |
 | Music Collector | 12.00% | ~11 |
 | Ultimate Team! | 11.00% | ~10 |
@@ -36,7 +36,7 @@
 | Crystal Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 93 (Ranked 448)  
-Completed: 0 (0.00%) (Ranked 364)  
+Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

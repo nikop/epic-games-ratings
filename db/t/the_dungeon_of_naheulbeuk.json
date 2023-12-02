@@ -6,9 +6,9 @@
   "Ranking_Popularity": 272,
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 62,
-  "Ranking_EOS_Completed": 364,
-  "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_Completed": 365,
+  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1425,9 +1425,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 240719,
+  "EOS_Progressed": 240725,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1362,
+  "EOS_NewPlayers": 1368,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20690,6 +20690,11 @@
       "Time": "2023-12-01T23:09:35.5296707+00:00",
       "NumProgressed": 240719,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-02T00:09:21.2223914+00:00",
+      "NumProgressed": 240725,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -20749,7 +20754,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16850
+      "UsersEstimate": 16851
     },
     {
       "ID": "Chapter2",
@@ -21149,7 +21154,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 84252
+      "UsersEstimate": 84254
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -21285,7 +21290,7 @@
       "Name": "In Navalu\u0027s footsteps",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2166
+      "UsersEstimate": 2167
     },
     {
       "ID": "QuestEmile",
@@ -21404,21 +21409,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 240719,
+      "Progressed": 240725,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 240719,
+      "Progressed": 240725,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-30T16:01:13.8587694+00:00",
-  "LastChanged_Achievements": "2023-12-01T23:09:35.5296703+00:00",
+  "LastChanged_Achievements": "2023-12-02T00:09:21.2223911+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:00.6949957+00:00",
-  "LastUpdate_Ratings": "2023-12-01T23:01:48.1440835+00:00",
-  "LastUpdate_Achievements": "2023-12-01T23:09:35.5298047+00:00"
+  "LastUpdate_Ratings": "2023-12-02T00:00:37.0586768+00:00",
+  "LastUpdate_Achievements": "2023-12-02T00:09:21.2225268+00:00"
 }

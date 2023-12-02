@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -1117,9 +1117,9 @@
       "ID": "EAT_AN_ENERGY_BAR",
       "SetID": "aniflfk",
       "Name": "Energy Boost",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "GO_ON_EXPEDITION",
@@ -1236,8 +1236,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-01T23:05:32.2011486+00:00",
+  "LastChanged_Achievements": "2023-12-02T00:04:47.3164154+00:00",
   "LastUpdate_AppInfo": "2023-11-29T20:57:25.9655457+00:00",
-  "LastUpdate_Ratings": "2023-12-01T23:03:09.1329913+00:00",
-  "LastUpdate_Achievements": "2023-12-01T23:05:32.2011646+00:00"
+  "LastUpdate_Ratings": "2023-12-02T00:02:59.5260014+00:00",
+  "LastUpdate_Achievements": "2023-12-02T00:04:47.3164306+00:00"
 }

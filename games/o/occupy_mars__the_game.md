@@ -37,7 +37,7 @@ Rating: 4.04 (Ranked 994)
 | Rover Mechanic | 0.50% | ~9 |
 | Bull’s eye | 0.40% | ~7 |
 | Korolev crater | 0.40% | ~7 |
-| Hot Repairs | 0.20% | ~4 |
+| Hot Repairs | 0.30% | ~5 |
 | Never Ending Story? | 0.20% | ~4 |
 | Roadster | 0.20% | ~4 |
 | Cooking Vegetables | 0.10% | ~2 |
@@ -55,7 +55,7 @@ Rating: 4.04 (Ranked 994)
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,759 (Ranked 233)  
-Completed: 0 (0.00%) (Ranked 364)  
+Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

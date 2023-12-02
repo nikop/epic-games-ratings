@@ -18,14 +18,14 @@ Number of Ratings: 12,664  (23.09.2022)
 | It's Free Real Estate | 4.00% | ~5,731 |
 | Budding Merchant | 4.00% | ~5,731 |
 | Own the Means of Production | 4.00% | ~5,731 |
-| The Daily Grind | 3.00% | ~4,298 |
-| Bounty Hunters | 3.00% | ~4,298 |
-| Flooding the Market | 3.00% | ~4,298 |
-| Where it Hurts | 3.00% | ~4,298 |
-| Pretty Penny | 3.00% | ~4,298 |
-| One-Armed Bandit | 3.00% | ~4,298 |
-| Dungeon Imports | 3.00% | ~4,298 |
-| Through Repetition, Perfection | 3.00% | ~4,298 |
+| The Daily Grind | 3.00% | ~4,299 |
+| Bounty Hunters | 3.00% | ~4,299 |
+| Flooding the Market | 3.00% | ~4,299 |
+| Where it Hurts | 3.00% | ~4,299 |
+| Pretty Penny | 3.00% | ~4,299 |
+| One-Armed Bandit | 3.00% | ~4,299 |
+| Dungeon Imports | 3.00% | ~4,299 |
+| Through Repetition, Perfection | 3.00% | ~4,299 |
 | On the Path to Greatness | 2.00% | ~2,866 |
 | A Notch Above the Rest | 2.00% | ~2,866 |
 | Ascended | 2.00% | ~2,866 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~430 |
 | Capitalist Camaraderie | 0.20% | ~287 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 143,280 (Ranked 80)  
+Progressed: 143,286 (Ranked 80)  
 Completed: 290 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,6 +345,7 @@ Completed: 290 (0.20%) (Ranked 258)
 | 2023-11-29 | 142,879 | 289 |
 | 2023-11-30 | 143,035 | 290 |
 | 2023-12-01 | 143,280 | 290 |
+| 2023-12-02 | 143,286 | 290 |
 ## Awards
 Max (Great for Beginners): 4,859  (Ranked 75)  
 Sum: 27,642 (Ranked 50)  

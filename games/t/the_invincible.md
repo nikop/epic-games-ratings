@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Camp | 56.00% | ~269 |
-| The Teleprobe | 44.00% | ~211 |
+| The Teleprobe | 45.00% | ~216 |
 | The City | 40.00% | ~192 |
-| The field base | 34.00% | ~163 |
+| The field base | 35.00% | ~168 |
 | Survivors | 29.00% | ~139 |
 | The Condor | 26.00% | ~125 |
 | The End | 26.00% | ~125 |
@@ -21,7 +21,7 @@
 | Fierce fight | 13.00% | ~62 |
 | Evacuation | 12.00% | ~58 |
 | Flying Objects Operator | 12.00% | ~58 |
-| I remember everything! | 10.00% | ~48 |
+| I remember everything! | 11.00% | ~53 |
 | Violent solution | 8.00% | ~38 |
 | Another giant | 8.00% | ~38 |
 | Innate curiosity | 8.00% | ~38 |
@@ -35,7 +35,7 @@
 | No more mistakes | 0.60% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 480 (Ranked 317)  
-Completed: 0 (0.00%) (Ranked 364)  
+Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

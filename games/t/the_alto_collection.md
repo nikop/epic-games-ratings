@@ -6,18 +6,18 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~13,074 |
-| Finding Your Footing | 26.00% | ~12,590 |
-| Nomad | 17.00% | ~8,232 |
-| Picking Up Speed | 16.00% | ~7,748 |
-| Welcome Maya | 14.00% | ~6,779 |
+| Rookie | 27.00% | ~13,076 |
+| Finding Your Footing | 26.00% | ~12,592 |
+| Nomad | 17.00% | ~8,233 |
+| Picking Up Speed | 16.00% | ~7,749 |
+| Welcome Maya | 14.00% | ~6,780 |
 | Scout | 11.00% | ~5,327 |
 | Sightseer | 11.00% | ~5,327 |
-| Amateur | 10.00% | ~4,842 |
+| Amateur | 10.00% | ~4,843 |
 | Unlock Maya | 8.00% | ~3,874 |
 | Wanderer | 8.00% | ~3,874 |
 | Enter Paz | 7.00% | ~3,390 |
-| Aviator | 6.00% | ~2,905 |
+| Aviator | 6.00% | ~2,906 |
 | My Little Friend | 5.00% | ~2,421 |
 | One With The Board | 5.00% | ~2,421 |
 | Voyager | 5.00% | ~2,421 |
@@ -27,11 +27,11 @@ Number of Ratings: 332  (23.09.2022)
 | Human Flight | 3.00% | ~1,453 |
 | Sandboarder | 3.00% | ~1,453 |
 | Izel Has Arrived | 3.00% | ~1,453 |
-| Explorer | 2.00% | ~968 |
-| Pro | 2.00% | ~968 |
-| Journeyer | 2.00% | ~968 |
-| Unlock Izel | 2.00% | ~968 |
-| Here Comes Felipe | 2.00% | ~968 |
+| Explorer | 2.00% | ~969 |
+| Pro | 2.00% | ~969 |
+| Journeyer | 2.00% | ~969 |
+| Unlock Izel | 2.00% | ~969 |
+| Here Comes Felipe | 2.00% | ~969 |
 | Hoist the Mainsail | 1.00% | ~484 |
 | Daredevil | 1.00% | ~484 |
 | Introducing Sumara | 1.00% | ~484 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~48 |
 | Windswept | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,424 (Ranked 113)  
+Progressed: 48,429 (Ranked 113)  
 Completed: 5 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,10 +272,11 @@ Completed: 5 (0.01%) (Ranked 344)
 | 2023-11-29 | 48,192 | 5 |
 | 2023-11-30 | 48,303 | 5 |
 | 2023-12-01 | 48,424 | 5 |
+| 2023-12-02 | 48,429 | 5 |
 ## Awards
-Max (Great for Quick Sessions): 48  (Ranked 440)  
+Max (Great for Quick Sessions): 48  (Ranked 441)  
 Sum: 375 (Ranked 350)  
-Diff (max vs sum): 90  
+Diff (max vs sum): 91  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 48 |

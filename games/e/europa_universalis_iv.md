@@ -8,6 +8,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | ---- | ---------- | ----- |
 | That's a Grand Army | 0.20% | ~934 |
 | Until death do us apart | 0.20% | ~934 |
+| Victorious! | 0.20% | ~934 |
 | A Blessed Nation | 0.10% | ~467 |
 | A Decent Reserve | 0.10% | ~467 |
 | A Hero’s Welcome | 0.10% | ~467 |
@@ -33,6 +34,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Arabian Coffee | 0.10% | ~467 |
 | Assembly Instructions Needed | 0.10% | ~467 |
 | At every continent | 0.10% | ~467 |
+| Auld Alliance Reversed | 0.10% | ~467 |
 | Avar Khaganate | 0.10% | ~467 |
 | Azur semé de lis or | 0.10% | ~467 |
 | Baa Baa Black Sheep | 0.10% | ~467 |
@@ -246,7 +248,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Trustworthy | 0.10% | ~467 |
 | Turning the Tide | 0.10% | ~467 |
 | Vasa or Wettin? | 0.10% | ~467 |
-| Victorious! | 0.10% | ~467 |
 | Viva la Revolución! | 0.10% | ~467 |
 | Voltaire's Nightmare | 0.10% | ~467 |
 | Voting Streak | 0.10% | ~467 |
@@ -271,7 +272,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Animal Kingdom | 0.00% | ~0 |
 | Around the World in 80 Years | 0.00% | ~0 |
 | Atwix Legacy | 0.00% | ~0 |
-| Auld Alliance Reversed | 0.00% | ~0 |
 | Australia-Hungary | 0.00% | ~0 |
 | Barbarossa | 0.00% | ~0 |
 | Blood for the Sky God! | 0.00% | ~0 |
@@ -370,8 +370,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 467,159 (Ranked 41)  
-Completed: 1 (0.00%) (Ranked 364)  
+Progressed: 467,199 (Ranked 41)  
+Completed: 1 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -596,6 +596,7 @@ Completed: 1 (0.00%) (Ranked 364)
 | 2023-11-29 | 465,985 | 1 |
 | 2023-11-30 | 466,525 | 1 |
 | 2023-12-01 | 467,159 | 1 |
+| 2023-12-02 | 467,199 | 1 |
 ## Awards
 Max (Educational): 7,225  (Ranked 54)  
 Sum: 59,450 (Ranked 24)  

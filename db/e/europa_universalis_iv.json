@@ -6,9 +6,9 @@
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
-  "Ranking_EOS_Completed": 364,
+  "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -12759,9 +12759,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 467159,
+  "EOS_Progressed": 467199,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4374,
+  "EOS_NewPlayers": 4412,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38624,6 +38624,11 @@
       "Time": "2023-12-01T23:06:04.1614531+00:00",
       "NumProgressed": 467159,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T00:05:13.7323101+00:00",
+      "NumProgressed": 467199,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -38889,9 +38894,9 @@
       "ID": "achievement_auld_alliance",
       "SetID": "8p2n7he",
       "Name": "Auld Alliance Reversed",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 467
     },
     {
       "ID": "achievement_australia_hungary",
@@ -41329,9 +41334,9 @@
       "ID": "achievement_victorious",
       "SetID": "8p2n7he",
       "Name": "Victorious!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 467
+      "UsersEstimate": 934
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -41538,21 +41543,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 467159,
+      "Progressed": 467199,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 467159,
+      "Progressed": 467199,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-12-01T21:58:18.2032271+00:00",
-  "LastChanged_Achievements": "2023-12-01T23:06:04.1614524+00:00",
+  "LastChanged_Achievements": "2023-12-02T00:05:13.7323096+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:13.9553272+00:00",
-  "LastUpdate_Ratings": "2023-12-01T22:59:16.3579469+00:00",
-  "LastUpdate_Achievements": "2023-12-01T23:06:04.1624425+00:00"
+  "LastUpdate_Ratings": "2023-12-01T23:58:36.4750257+00:00",
+  "LastUpdate_Achievements": "2023-12-02T00:05:13.7333713+00:00"
 }

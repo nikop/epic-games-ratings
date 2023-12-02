@@ -3,12 +3,12 @@
   "Name": "Tormentor x Punisher",
   "ProductSlug": "tormentor-x-punisher",
   "Ranking_Rating": 128,
-  "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 557,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 770,
-  "Ranking_EOS_Completed": 364,
+  "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2020-03-26T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -57,6 +57,6 @@
   "FirstSeenRating": "2023-02-22T10:57:04.2870054+00:00",
   "LastChanged": "2023-11-10T02:16:57.3154796+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:17.2890489+00:00",
-  "LastUpdate_Ratings": "2023-12-01T23:00:04.811498+00:00",
-  "LastUpdate_Achievements": "2023-12-01T23:07:26.71171+00:00"
+  "LastUpdate_Ratings": "2023-12-01T23:59:15.3452127+00:00",
+  "LastUpdate_Achievements": "2023-12-02T00:06:21.9581284+00:00"
 }

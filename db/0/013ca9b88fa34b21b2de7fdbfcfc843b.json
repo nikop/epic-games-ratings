@@ -3,12 +3,12 @@
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
   "Ranking_Rating": 387,
-  "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 557,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -7842,9 +7842,9 @@
       "ID": "CHAPTER_2_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "A Thorny Situation",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 5742
+      "UsersEstimate": 5824
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -7970,9 +7970,9 @@
       "ID": "DISCOVER_SCROLLS_1",
       "SetID": "9eia0f5",
       "Name": "Humble Collector",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3445
+      "UsersEstimate": 3527
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -8129,8 +8129,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-01T18:02:55.7305048+00:00",
-  "LastChanged_Achievements": "2023-12-01T23:10:16.256637+00:00",
+  "LastChanged_Achievements": "2023-12-02T00:09:54.7542667+00:00",
   "LastUpdate_AppInfo": "2023-12-01T09:57:19.7790129+00:00",
-  "LastUpdate_Ratings": "2023-12-01T23:03:12.1830067+00:00",
-  "LastUpdate_Achievements": "2023-12-01T23:10:16.2566828+00:00"
+  "LastUpdate_Ratings": "2023-12-02T00:03:01.8463889+00:00",
+  "LastUpdate_Achievements": "2023-12-02T00:09:54.754322+00:00"
 }

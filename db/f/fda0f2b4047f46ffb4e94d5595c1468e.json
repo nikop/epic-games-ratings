@@ -6,9 +6,9 @@
   "Ranking_Popularity": 126,
   "Ranking_PopularitySum": 135,
   "Ranking_EOS_Progress": 168,
-  "Ranking_EOS_Completed": 364,
+  "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -3291,9 +3291,9 @@
       "Count": 402
     }
   ],
-  "EOS_Progressed": 9444,
+  "EOS_Progressed": 9445,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 439,
+  "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10196,6 +10196,11 @@
       "Time": "2023-12-01T23:08:35.0290229+00:00",
       "NumProgressed": 9444,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T00:08:31.6026104+00:00",
+      "NumProgressed": 9445,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -10208,7 +10213,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 3305
+      "UsersEstimate": 3306
     },
     {
       "ID": "ach02",
@@ -10248,7 +10253,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 7083
+      "UsersEstimate": 7084
     },
     {
       "ID": "ach07",
@@ -10328,7 +10333,7 @@
       "Name": "Test Your Might",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1605
+      "UsersEstimate": 1606
     },
     {
       "ID": "ach17",
@@ -10344,7 +10349,7 @@
       "Name": "Adventure Time",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3494
+      "UsersEstimate": 3495
     },
     {
       "ID": "ach19",
@@ -10376,7 +10381,7 @@
       "Name": "Where\u0027s Blanche",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1794
+      "UsersEstimate": 1795
     },
     {
       "ID": "ach23",
@@ -10392,7 +10397,7 @@
       "Name": "Ultimate Power",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 4344
+      "UsersEstimate": 4345
     },
     {
       "ID": "ach25",
@@ -10496,7 +10501,7 @@
       "Name": "ABACABB",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 5383
+      "UsersEstimate": 5384
     },
     {
       "ID": "ach38",
@@ -10504,7 +10509,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4155
+      "UsersEstimate": 4156
     },
     {
       "ID": "ach39",
@@ -10520,7 +10525,7 @@
       "Name": "Found You",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 3305
+      "UsersEstimate": 3306
     },
     {
       "ID": "ach41",
@@ -10544,7 +10549,7 @@
       "Name": "Working Overtime",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 4155
+      "UsersEstimate": 4156
     },
     {
       "ID": "ach44",
@@ -10600,14 +10605,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3683
+      "UsersEstimate": 3684
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 9444,
+      "Progressed": 9445,
       "Completed": 0
     }
   ],
@@ -10615,8 +10620,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-12-01T23:03:07.7124851+00:00",
-  "LastChanged_Achievements": "2023-12-01T23:08:35.0290224+00:00",
+  "LastChanged_Achievements": "2023-12-02T00:08:31.6026102+00:00",
   "LastUpdate_AppInfo": "2023-11-25T10:57:15.5645679+00:00",
-  "LastUpdate_Ratings": "2023-12-01T23:03:07.7124857+00:00",
-  "LastUpdate_Achievements": "2023-12-01T23:08:35.0290885+00:00"
+  "LastUpdate_Ratings": "2023-12-02T00:02:58.4385627+00:00",
+  "LastUpdate_Achievements": "2023-12-02T00:08:31.6026615+00:00"
 }

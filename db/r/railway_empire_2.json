@@ -3,12 +3,12 @@
   "Name": "Railway Empire 2",
   "ProductSlug": "railway-empire-2-46840c",
   "Ranking_Rating": 697,
-  "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 557,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 220,
-  "Ranking_EOS_Completed": 364,
+  "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -6506,9 +6506,9 @@
       "ID": "A15",
       "SetID": "9b7p7eo",
       "Name": "Full Steam ahead",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 738
+      "UsersEstimate": 761
     },
     {
       "ID": "A16",
@@ -6746,9 +6746,9 @@
       "ID": "A45",
       "SetID": "9b7p7eo",
       "Name": "Settler",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 369
     },
     {
       "ID": "A46",
@@ -6802,9 +6802,9 @@
       "ID": "A52",
       "SetID": "9b7p7eo",
       "Name": "Socializer",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 692
+      "UsersEstimate": 715
     },
     {
       "ID": "A53",
@@ -6835,8 +6835,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-11-30T04:58:15.2610006+00:00",
-  "LastChanged_Achievements": "2023-12-01T23:08:32.6737819+00:00",
+  "LastChanged_Achievements": "2023-12-02T00:08:29.5126304+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:05.9441553+00:00",
-  "LastUpdate_Ratings": "2023-12-01T22:59:33.2790564+00:00",
-  "LastUpdate_Achievements": "2023-12-01T23:08:32.673845+00:00"
+  "LastUpdate_Ratings": "2023-12-01T23:58:50.1253169+00:00",
+  "LastUpdate_Achievements": "2023-12-02T00:08:29.5126863+00:00"
 }

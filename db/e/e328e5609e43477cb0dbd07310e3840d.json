@@ -3,9 +3,9 @@
   "Name": "Hiveswap Friendsim",
   "ProductSlug": "hiveswap-friendsim-ec9c82",
   "Ranking_EOS_Progress": 770,
-  "Ranking_EOS_Completed": 364,
+  "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-06-22T17:00:00+00:00",
     "PcReleaseDate": "2018-04-13T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-18T22:09:38.4498805+00:00",
   "LastUpdate_AppInfo": "2023-11-30T02:19:33.6251493+00:00",
-  "LastUpdate_Ratings": "2023-12-01T22:58:12.482384+00:00",
-  "LastUpdate_Achievements": "2023-12-01T23:03:47.2885839+00:00"
+  "LastUpdate_Ratings": "2023-12-01T23:57:47.0456057+00:00",
+  "LastUpdate_Achievements": "2023-12-02T00:03:22.2831206+00:00"
 }

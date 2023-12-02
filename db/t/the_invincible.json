@@ -3,9 +3,9 @@
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 317,
-  "Ranking_EOS_Completed": 364,
+  "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -1315,17 +1315,17 @@
       "ID": "AchvActivateProbe",
       "SetID": "1hj060c",
       "Name": "The Teleprobe",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 216
     },
     {
       "ID": "AchvAllMemories",
       "SetID": "1hj060c",
       "Name": "I remember everything!",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 53
     },
     {
       "ID": "AchvAssertive",
@@ -1483,9 +1483,9 @@
       "ID": "AchvReachBase",
       "SetID": "1hj060c",
       "Name": "The field base",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 168
     },
     {
       "ID": "AchvReachCamp",
@@ -1554,8 +1554,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-01T23:09:14.4914572+00:00",
+  "LastChanged_Achievements": "2023-12-02T00:09:03.7577177+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-12-01T23:01:10.3300236+00:00",
-  "LastUpdate_Achievements": "2023-12-01T23:09:14.4914768+00:00"
+  "LastUpdate_Ratings": "2023-12-02T00:00:06.7934845+00:00",
+  "LastUpdate_Achievements": "2023-12-02T00:09:03.7577407+00:00"
 }

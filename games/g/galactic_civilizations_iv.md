@@ -80,7 +80,7 @@ Number of Ratings: 429  (23.09.2022)
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,371 (Ranked 178)  
-Completed: 0 (0.00%) (Ranked 364)  
+Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -306,9 +306,9 @@ Completed: 0 (0.00%) (Ranked 364)
 | 2023-11-30 | 7,366 | 0 |
 | 2023-12-01 | 7,371 | 0 |
 ## Awards
-Max (Diverse Characters): 97  (Ranked 368)  
+Max (Diverse Characters): 97  (Ranked 369)  
 Sum: 686 (Ranked 299)  
-Diff (max vs sum): 69  
+Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 97 |

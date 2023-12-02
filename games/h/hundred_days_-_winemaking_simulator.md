@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Big deals | 0.10% | ~14 |
 | Master Winemaker | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,442 (Ranked 153)  
+Progressed: 14,443 (Ranked 153)  
 Completed: 12 (0.08%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,6 +137,7 @@ Completed: 12 (0.08%) (Ranked 298)
 | 2023-11-29 | 14,185 | 12 |
 | 2023-11-30 | 14,316 | 12 |
 | 2023-12-01 | 14,442 | 12 |
+| 2023-12-02 | 14,443 | 12 |
 ## Awards
 Max (Relaxing): 207  (Ranked 286)  
 Sum: 1,730 (Ranked 223)  

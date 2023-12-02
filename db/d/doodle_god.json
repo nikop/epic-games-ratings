@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 102,
   "Ranking_EOS_NewPlayers": 351,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
     "PcReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -437,9 +437,9 @@
       "ID": "605812",
       "SetID": "4lpaifm",
       "Name": "God of Fun",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 49
     },
     {
       "ID": "605822",
@@ -453,9 +453,9 @@
       "ID": "605832",
       "SetID": "4lpaifm",
       "Name": "Deity of Darkness",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 44
     },
     {
       "ID": "605842",
@@ -558,8 +558,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-12-01T23:05:39.079835+00:00",
+  "LastChanged_Achievements": "2023-12-02T00:04:52.8348044+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.8631435+00:00",
   "LastUpdate_Ratings": "2023-12-01T23:02:41.3259991+00:00",
-  "LastUpdate_Achievements": "2023-12-01T23:05:39.0798495+00:00"
+  "LastUpdate_Achievements": "2023-12-02T00:04:52.8348148+00:00"
 }

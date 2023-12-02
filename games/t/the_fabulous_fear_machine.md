@@ -29,13 +29,13 @@
 | You had one wish left | 4.00% | ~2 |
 | Blood Red Island | 4.00% | ~2 |
 | Et in arcadia ego | 4.00% | ~2 |
+| The bully | 4.00% | ~2 |
 | The scholar | 4.00% | ~2 |
 | Welcome to Hellville | 4.00% | ~2 |
 | You've awakened the beast | 2.00% | ~1 |
 | Hate is... addictive | 2.00% | ~1 |
 | Blessed antennas | 2.00% | ~1 |
 | The beast in the Oval Office | 2.00% | ~1 |
-| The bully | 2.00% | ~1 |
 | Pulp! Weird Science | 2.00% | ~1 |
 | Pulp! Heart Throbs | 2.00% | ~1 |
 | Pulp! Tales from the Crypt | 2.00% | ~1 |
@@ -53,7 +53,7 @@
 | A new Hindenburg | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 45 (Ranked 507)  
-Completed: 0 (0.00%) (Ranked 364)  
+Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

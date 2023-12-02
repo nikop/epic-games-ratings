@@ -3,9 +3,9 @@
   "Name": "Scholar of the Arcane Arts",
   "ProductSlug": "scholar-of-the-arcane-arts-6f4c67",
   "Ranking_EOS_Progress": 770,
-  "Ranking_EOS_Completed": 364,
+  "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-03-17T15:00:00+00:00",
     "PcReleaseDate": "2022-12-15T15:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-04-20T09:57:20.116543+00:00",
   "LastChanged": "2023-04-20T09:57:20.1165431+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:08.1463525+00:00",
-  "LastUpdate_Ratings": "2023-12-01T22:59:16.372002+00:00",
-  "LastUpdate_Achievements": "2023-12-01T23:07:12.0152371+00:00"
+  "LastUpdate_Ratings": "2023-12-01T23:58:36.5979122+00:00",
+  "LastUpdate_Achievements": "2023-12-02T00:06:10.0831013+00:00"
 }

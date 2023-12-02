@@ -13,21 +13,21 @@
 | Watch your Step! | 55.00% | ~24 |
 | MAX LEVEL | 50.00% | ~22 |
 | Right between the eyes | 48.00% | ~21 |
+| Spring Board | 41.00% | ~18 |
 | Starry Night | 36.00% | ~16 |
 | Merry Co-operation | 36.00% | ~16 |
-| Spring Board | 36.00% | ~16 |
+| Savior | 34.00% | ~15 |
 | Rebel Unleashed | 32.00% | ~14 |
-| Savior | 30.00% | ~13 |
 | Finish Him! | 30.00% | ~13 |
 | Assault on the Ram | 27.00% | ~12 |
 | First Aid | 27.00% | ~12 |
 | Merry Go Round | 25.00% | ~11 |
 | Locksley's Tears | 23.00% | ~10 |
-| Ultra Rebel Instinct | 20.00% | ~9 |
+| Ultra Rebel Instinct | 23.00% | ~10 |
+| Ultra Combo | 20.00% | ~9 |
 | Take Action! | 20.00% | ~9 |
 | Ascending Will | 18.00% | ~8 |
-| Ultra Combo | 18.00% | ~8 |
-| Haute Couture | 11.00% | ~5 |
+| Haute Couture | 14.00% | ~6 |
 | Brilliant Executioner | 9.00% | ~4 |
 | Hidden Experiment | 9.00% | ~4 |
 | Into the Lion's Den | 9.00% | ~4 |
@@ -59,7 +59,7 @@
 | Fashionista | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 44 (Ranked 509)  
-Completed: 0 (0.00%) (Ranked 364)  
+Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

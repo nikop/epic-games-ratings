@@ -11,6 +11,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Uncharted Territory | 0.60% | ~1,443 |
 | Not Touching You | 0.60% | ~12 |
 | Getting A Glimpse | 0.50% | ~1,202 |
+| Defeat The Dark | 0.50% | ~1,202 |
 | A Quick Escape | 0.50% | ~1,202 |
 | An Offering | 0.50% | ~1,202 |
 | Ambitious Intent | 0.40% | ~962 |
@@ -22,7 +23,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Colorful Corpse | 0.40% | ~962 |
 | Cold Hearted | 0.40% | ~962 |
 | I Am Overburdened | 0.40% | ~962 |
-| Defeat The Dark | 0.40% | ~962 |
 | The Bestiary | 0.40% | ~962 |
 | Goodbye, Frog Friend | 0.40% | ~962 |
 | Heartless | 0.40% | ~962 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,480 (Ranked 63)  
+Progressed: 240,485 (Ranked 63)  
 Completed: 291 (0.12%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -371,6 +371,7 @@ Completed: 291 (0.12%) (Ranked 280)
 | 2023-11-29 | 240,403 | 291 |
 | 2023-11-30 | 240,445 | 291 |
 | 2023-12-01 | 240,480 | 291 |
+| 2023-12-02 | 240,485 | 291 |
 ## Awards
 Max (Great for Beginners): 1,534  (Ranked 132)  
 Sum: 13,240 (Ranked 78)  

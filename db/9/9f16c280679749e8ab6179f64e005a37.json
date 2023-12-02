@@ -3,9 +3,9 @@
   "Name": "Hauntii",
   "ProductSlug": "hauntii-8d9bd7",
   "Ranking_EOS_Progress": 770,
-  "Ranking_EOS_Completed": 364,
+  "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-30T01:44:07.9487581+00:00",
-  "LastUpdate_Ratings": "2023-12-01T22:58:28.9908791+00:00",
-  "LastUpdate_Achievements": "2023-12-01T23:04:28.3813608+00:00"
+  "LastUpdate_Ratings": "2023-12-01T23:58:00.2479517+00:00",
+  "LastUpdate_Achievements": "2023-12-02T00:03:55.2425048+00:00"
 }

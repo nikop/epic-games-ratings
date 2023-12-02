@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 37.00% | ~308 |
-| Welcome to the Tower | 36.00% | ~300 |
-| The great escape | 31.00% | ~258 |
-| The Preacher's fate | 30.00% | ~250 |
+| That's the spirit | 37.00% | ~309 |
+| Welcome to the Tower | 35.00% | ~292 |
+| The great escape | 31.00% | ~259 |
+| The Preacher's fate | 29.00% | ~242 |
 | A new dawn | 26.00% | ~217 |
 | Scholar | 23.00% | ~192 |
-| A good beginning | 22.00% | ~183 |
-| True G3M4R | 22.00% | ~183 |
-| The darkness | 22.00% | ~183 |
+| A good beginning | 22.00% | ~184 |
+| True G3M4R | 22.00% | ~184 |
+| The darkness | 22.00% | ~184 |
 | One last step | 21.00% | ~175 |
 | Half the way | 20.00% | ~167 |
-| I did it | 19.00% | ~158 |
-| Peace walker | 19.00% | ~158 |
-| Cable guy | 19.00% | ~158 |
-| Champollion | 19.00% | ~158 |
+| I did it | 19.00% | ~159 |
+| Peace walker | 19.00% | ~159 |
+| Cable guy | 19.00% | ~159 |
+| Champollion | 19.00% | ~159 |
 | In this together | 18.00% | ~150 |
-| Open door | 16.00% | ~133 |
-| Feels like springtime | 16.00% | ~133 |
-| Alchemists Express | 16.00% | ~133 |
+| Open door | 17.00% | ~142 |
+| Feels like springtime | 16.00% | ~134 |
+| Alchemists Express | 16.00% | ~134 |
 | Free at last | 14.00% | ~117 |
-| Rascal | 13.00% | ~108 |
+| Rascal | 14.00% | ~117 |
 | A Link to the Past | 12.00% | ~100 |
 | A great audience | 11.00% | ~92 |
-| For its own good | 10.00% | ~83 |
+| For its own good | 10.00% | ~84 |
 | Fashion victim | 4.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 833 (Ranked 273)  
-Completed: 45 (5.40%) (Ranked 73)  
+Progressed: 835 (Ranked 273)  
+Completed: 45 (5.39%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -163,3 +163,4 @@ Completed: 45 (5.40%) (Ranked 73)
 | 2023-11-29 | 804 | 44 |
 | 2023-11-30 | 813 | 44 |
 | 2023-12-01 | 833 | 45 |
+| 2023-12-02 | 835 | 45 |

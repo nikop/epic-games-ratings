@@ -3,12 +3,12 @@
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
   "Ranking_Rating": 594,
-  "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 557,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 236496,
+  "EOS_Progressed": 236497,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 387,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -24027,6 +24027,11 @@
       "Time": "2023-12-01T23:05:08.483392+00:00",
       "NumProgressed": 236496,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-02T00:04:27.902321+00:00",
+      "NumProgressed": 236497,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -24302,22 +24307,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 96963
+      "UsersEstimate": 96964
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 236496,
+      "Progressed": 236497,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-12-01T23:05:08.4833916+00:00",
+  "LastChanged_Achievements": "2023-12-02T00:04:27.9023206+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:54.8147859+00:00",
-  "LastUpdate_Ratings": "2023-12-01T23:01:06.9021602+00:00",
-  "LastUpdate_Achievements": "2023-12-01T23:05:08.4835129+00:00"
+  "LastUpdate_Ratings": "2023-12-02T00:00:04.1215987+00:00",
+  "LastUpdate_Achievements": "2023-12-02T00:04:27.9024511+00:00"
 }

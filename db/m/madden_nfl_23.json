@@ -3,12 +3,12 @@
   "Name": "Madden NFL 23",
   "ProductSlug": "madden-nfl-23",
   "Ranking_Rating": 866,
-  "Ranking_Popularity": 459,
+  "Ranking_Popularity": 460,
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 200,
-  "Ranking_EOS_Completed": 364,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_Completed": 365,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -871,9 +871,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3777,
+  "EOS_Progressed": 3778,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6396,6 +6396,11 @@
       "Time": "2023-12-01T23:04:19.4596197+00:00",
       "NumProgressed": 3777,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T00:03:48.0594988+00:00",
+      "NumProgressed": 3778,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -6416,7 +6421,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 2077
+      "UsersEstimate": 2078
     },
     {
       "ID": "achievement_11",
@@ -6575,7 +6580,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3777,
+      "Progressed": 3778,
       "Completed": 0
     }
   ],
@@ -6583,8 +6588,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-11-30T00:00:12.6571835+00:00",
-  "LastChanged_Achievements": "2023-12-01T23:04:19.4596193+00:00",
+  "LastChanged_Achievements": "2023-12-02T00:03:48.0594985+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.624471+00:00",
-  "LastUpdate_Ratings": "2023-12-01T23:02:57.2183149+00:00",
-  "LastUpdate_Achievements": "2023-12-01T23:04:19.4596502+00:00"
+  "LastUpdate_Ratings": "2023-12-02T00:02:49.615563+00:00",
+  "LastUpdate_Achievements": "2023-12-02T00:03:48.0595278+00:00"
 }
