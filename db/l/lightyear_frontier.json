@@ -4,7 +4,7 @@
   "ProductSlug": "lightyear-frontier-8a9f37",
   "Ranking_EOS_Progress": 771,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 494,
+  "Ranking_EOS_NewPlayers": 495,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-25T21:57:39.8149509+00:00",
-  "LastUpdate_Ratings": "2023-12-02T08:02:47.3620527+00:00",
-  "LastUpdate_Achievements": "2023-12-02T08:03:48.7771302+00:00"
+  "LastUpdate_Ratings": "2023-12-02T09:03:02.9824879+00:00",
+  "LastUpdate_Achievements": "2023-12-02T09:04:30.1371329+00:00"
 }

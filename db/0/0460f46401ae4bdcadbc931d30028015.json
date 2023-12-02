@@ -2,12 +2,12 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 903,
+  "Ranking_Rating": 908,
   "Ranking_Popularity": 462,
   "Ranking_PopularitySum": 429,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.22,
+  "Rating": 4.21,
   "RatingHistory": [
     {
       "Time": "2023-08-25T11:00:17.1063519+00:00",
@@ -775,6 +775,12 @@
       "Rating": 4.22,
       "NumberOfAwards": 139,
       "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2023-12-02T08:57:41.2737395+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 139,
+      "NumberOfAwardsMax": 39
     }
   ],
   "ReviewsDisabled": false,
@@ -819,7 +825,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3977,
+  "EOS_Progressed": 3978,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
@@ -6374,6 +6380,11 @@
       "Time": "2023-12-02T07:03:27.6690727+00:00",
       "NumProgressed": 3977,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T09:04:01.4641509+00:00",
+      "NumProgressed": 3978,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -6418,7 +6429,7 @@
       "Name": "MVP",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "achievement_14",
@@ -6426,7 +6437,7 @@
       "Name": "ROTY",
       "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1512
     },
     {
       "ID": "achievement_15",
@@ -6538,7 +6549,7 @@
       "Name": "Bragging Rights",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "achievement_9",
@@ -6553,16 +6564,16 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3977,
+      "Progressed": 3978,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-18T01:36:55.7733992+00:00",
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged": "2023-12-02T01:40:06.3552876+00:00",
-  "LastChanged_Achievements": "2023-12-02T08:03:27.62336+00:00",
+  "LastChanged": "2023-12-02T08:57:41.2737369+00:00",
+  "LastChanged_Achievements": "2023-12-02T09:04:01.4641501+00:00",
   "LastUpdate_AppInfo": "2023-11-30T06:57:22.8292477+00:00",
-  "LastUpdate_Ratings": "2023-12-02T07:57:15.8643173+00:00",
-  "LastUpdate_Achievements": "2023-12-02T08:03:27.6234003+00:00"
+  "LastUpdate_Ratings": "2023-12-02T08:57:41.2737401+00:00",
+  "LastUpdate_Achievements": "2023-12-02T09:04:01.4641911+00:00"
 }

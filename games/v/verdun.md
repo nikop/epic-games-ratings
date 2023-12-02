@@ -6,22 +6,22 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~50,876 |
-| Worth it | 63.00% | ~41,092 |
-| Eagle Eye | 55.00% | ~35,874 |
-| Corpseman I | 40.00% | ~26,090 |
-| Blast fishing | 37.00% | ~24,134 |
-| Not alone | 32.00% | ~20,872 |
-| Headhunter I | 26.00% | ~16,959 |
-| Manual Labour I | 25.00% | ~16,306 |
-| Developers, Developers, Developers | 24.00% | ~15,654 |
-| Basic Training | 24.00% | ~15,654 |
-| Furchtlos und Treu | 13.00% | ~8,479 |
+| Setting an example | 78.00% | ~50,879 |
+| Worth it | 63.00% | ~41,094 |
+| Eagle Eye | 55.00% | ~35,876 |
+| Corpseman I | 40.00% | ~26,092 |
+| Blast fishing | 37.00% | ~24,135 |
+| Not alone | 32.00% | ~20,873 |
+| Headhunter I | 26.00% | ~16,960 |
+| Manual Labour I | 25.00% | ~16,307 |
+| Developers, Developers, Developers | 24.00% | ~15,655 |
+| Basic Training | 24.00% | ~15,655 |
+| Furchtlos und Treu | 13.00% | ~8,480 |
 | Gott Mit Uns | 12.00% | ~7,827 |
-| This We'll Defend! | 9.00% | ~5,870 |
-| Anker wirf! | 9.00% | ~5,870 |
-| Providentiea Memor | 9.00% | ~5,870 |
-| For King and Country | 9.00% | ~5,870 |
+| This We'll Defend! | 9.00% | ~5,871 |
+| Anker wirf! | 9.00% | ~5,871 |
+| Providentiea Memor | 9.00% | ~5,871 |
+| For King and Country | 9.00% | ~5,871 |
 | Battle hardened | 8.00% | ~5,218 |
 | Semper Fidelis! | 7.00% | ~4,566 |
 | Honneur et Patrie | 7.00% | ~4,566 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~65 |
 | Blood Brother | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,226 (Ranked 105)  
+Progressed: 65,229 (Ranked 105)  
 Completed: 4 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 4 (0.01%) (Ranked 344)
 | 2023-11-29 | 65,032 | 4 |
 | 2023-11-30 | 65,106 | 4 |
 | 2023-12-01 | 65,197 | 4 |
-| 2023-12-02 | 65,226 | 4 |
+| 2023-12-02 | 65,229 | 4 |
 ## Awards
 Max (Highly Recommended): 104  (Ranked 358)  
 Sum: 814 (Ranked 281)  

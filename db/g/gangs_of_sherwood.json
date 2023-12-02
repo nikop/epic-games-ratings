@@ -4,7 +4,7 @@
   "ProductSlug": "gangs-of-sherwood",
   "Ranking_EOS_Progress": 507,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -580,9 +580,9 @@
       "ID": "ACH_REPUTATION_LVL_4",
       "SetID": "5akmpni",
       "Name": "MAX LEVEL",
-      "Percentage": 51,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_REVIVE_ALLY",
@@ -651,8 +651,8 @@
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-12-02T08:04:28.5195428+00:00",
+  "LastChanged_Achievements": "2023-12-02T09:05:23.6801927+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:56.6360588+00:00",
-  "LastUpdate_Ratings": "2023-12-02T07:59:33.5210235+00:00",
-  "LastUpdate_Achievements": "2023-12-02T08:04:28.5195739+00:00"
+  "LastUpdate_Ratings": "2023-12-02T09:01:01.2657956+00:00",
+  "LastUpdate_Achievements": "2023-12-02T09:05:23.6802367+00:00"
 }

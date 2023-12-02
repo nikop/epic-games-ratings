@@ -4,7 +4,7 @@
   "ProductSlug": "city-of-gangsters-6c2974",
   "Ranking_Rating": 849,
   "Ranking_Popularity": 438,
-  "Ranking_PopularitySum": 394,
+  "Ranking_PopularitySum": 393,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 82,
@@ -844,7 +844,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 354859,
+  "EOS_Progressed": 354861,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 929,
   "EOS_NewCompleters": 0,
@@ -26504,6 +26504,11 @@
       "Time": "2023-12-02T08:03:53.7309689+00:00",
       "NumProgressed": 354859,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-02T09:04:36.9206668+00:00",
+      "NumProgressed": 354861,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -26723,7 +26728,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 163235
+      "UsersEstimate": 163236
     },
     {
       "ID": "ach028",
@@ -26739,7 +26744,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39034
+      "UsersEstimate": 39035
     },
     {
       "ID": "ach030",
@@ -26915,7 +26920,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39034
+      "UsersEstimate": 39035
     },
     {
       "ID": "ach052",
@@ -27027,7 +27032,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 49680
+      "UsersEstimate": 49681
     },
     {
       "ID": "ach067",
@@ -27043,7 +27048,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 56777
+      "UsersEstimate": 56778
     },
     {
       "ID": "ach069",
@@ -27051,7 +27056,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 49680
+      "UsersEstimate": 49681
     },
     {
       "ID": "ach070",
@@ -27154,7 +27159,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 354859,
+      "Progressed": 354861,
       "Completed": 7
     }
   ],
@@ -27162,8 +27167,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-12-01T16:02:58.3539943+00:00",
-  "LastChanged_Achievements": "2023-12-02T08:03:53.7309686+00:00",
+  "LastChanged_Achievements": "2023-12-02T09:04:36.9206663+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.701398+00:00",
-  "LastUpdate_Ratings": "2023-12-02T08:02:46.8690759+00:00",
-  "LastUpdate_Achievements": "2023-12-02T08:03:53.731133+00:00"
+  "LastUpdate_Ratings": "2023-12-02T09:03:02.2866007+00:00",
+  "LastUpdate_Achievements": "2023-12-02T09:04:36.920928+00:00"
 }

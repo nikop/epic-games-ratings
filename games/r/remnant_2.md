@@ -51,8 +51,8 @@ Rating: 4.75 (Ranked 148)
 | The Ultimate Weapon | 0.20% | ~465 |
 | No One Should Have All That Power | 0.20% | ~465 |
 | Transmutate | 0.20% | ~465 |
-| Succession | 0.20% | ~23 |
-| You Shall Pass | 0.20% | ~23 |
+| Succession | 0.20% | ~24 |
+| You Shall Pass | 0.20% | ~24 |
 | Only Human | 0.10% | ~233 |
 | Red Room | 0.10% | ~233 |
 | The Trigger | 0.10% | ~233 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | Maxed Out! | 0.10% | ~233 |
 | A Foul Feast | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,574 (Ranked 69)  
+Progressed: 232,608 (Ranked 69)  
 Completed: 546 (0.23%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,10 +200,10 @@ Completed: 546 (0.23%) (Ranked 251)
 | 2023-11-29 | 230,694 | 542 |
 | 2023-11-30 | 231,406 | 542 |
 | 2023-12-01 | 232,269 | 546 |
-| 2023-12-02 | 232,574 | 546 |
+| 2023-12-02 | 232,608 | 546 |
 ## Awards
 Max (Great Boss Battles): 2,558  (Ranked 102)  
-Sum: 6,290 (Ranked 129)  
+Sum: 6,298 (Ranked 129)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
@@ -211,8 +211,8 @@ Diff (max vs sum): -27
 | This game has Diverse Characters | 415 |
 | This game is Highly Recommended | 408 |
 | This game has Challenging Combat | 397 |
+| This game is Extremely Fun | 393 |
 | This game is Relaxing | 388 |
-| This game is Extremely Fun | 385 |
 | This game has Amazing Storytelling | 380 |
 | This game has Amazing Characters | 377 |
 | This game has Quickly Understood Controls | 374 |
@@ -350,4 +350,4 @@ Diff (max vs sum): -27
 | 2023-11-29 | 4.75 | 2,518 | 6,163 |
 | 2023-11-30 | 4.75 | 2,533 | 6,208 |
 | 2023-12-01 | 4.75 | 2,558 | 6,266 |
-| 2023-12-02 | 4.75 | 2,558 | 6,290 |
+| 2023-12-02 | 4.75 | 2,558 | 6,298 |

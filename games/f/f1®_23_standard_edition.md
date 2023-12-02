@@ -36,8 +36,8 @@ Rating: 4.68 (Ranked 254)
 | Switcheroo | 13.00% | ~780 |
 | Friendly Competition | 12.00% | ~720 |
 | Recycle | 12.00% | ~720 |
+| Undisputed Winner | 10.00% | ~600 |
 | Tinkerer | 10.00% | ~600 |
-| Undisputed Winner | 9.00% | ~540 |
 | For all Those Back at the Factory | 7.00% | ~420 |
 | Living up to Expectations | 7.00% | ~420 |
 | Smooth Operator | 7.00% | ~420 |
@@ -138,8 +138,8 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-12-02 | 5,998 | 0 |
 ## Awards
 Max (Diverse Characters): 27  (Ranked 514)  
-Sum: 97 (Ranked 451)  
-Diff (max vs sum): 63  
+Sum: 97 (Ranked 452)  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |

@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25316,
+  "EOS_Progressed": 25317,
   "EOS_Completed": 480,
-  "EOS_NewPlayers": 476,
+  "EOS_NewPlayers": 473,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.9,
   "EosHistory": [
@@ -24669,6 +24669,11 @@
       "Time": "2023-12-02T08:06:31.444619+00:00",
       "NumProgressed": 25316,
       "NumCompleted": 480
+    },
+    {
+      "Time": "2023-12-02T09:08:38.6178214+00:00",
+      "NumProgressed": 25317,
+      "NumCompleted": 480
     }
   ],
   "TotalAchievements": 20,
@@ -24704,7 +24709,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2278
+      "UsersEstimate": 2279
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -24800,7 +24805,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 19240
+      "UsersEstimate": 19241
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -24808,7 +24813,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6835
+      "UsersEstimate": 6836
     },
     {
       "ID": "NORTH_FINISHED",
@@ -24839,15 +24844,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 25316,
+      "Progressed": 25317,
       "Completed": 480
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-02T08:06:31.4446187+00:00",
+  "LastChanged_Achievements": "2023-12-02T09:08:38.617821+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.8906099+00:00",
-  "LastUpdate_Ratings": "2023-12-02T07:58:16.4663507+00:00",
-  "LastUpdate_Achievements": "2023-12-02T08:06:31.4447131+00:00"
+  "LastUpdate_Ratings": "2023-12-02T08:59:08.2599202+00:00",
+  "LastUpdate_Achievements": "2023-12-02T09:08:38.6179477+00:00"
 }

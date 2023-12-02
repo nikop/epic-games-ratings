@@ -768,9 +768,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_WITH_VEZNAN_POWERS",
       "SetID": "caeik3h",
       "Name": "Unlimited Power!",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KR4_ACHIEVEMENT_KING",
@@ -1024,9 +1024,9 @@
       "ID": "KR4_ACHIEVEMENT_WINTERLORD",
       "SetID": "caeik3h",
       "Name": "Lord of Winter",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "KR4_ACHIEVEMENT_WINTER_QUEEN",
@@ -1053,8 +1053,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-02T08:04:38.4127488+00:00",
+  "LastChanged_Achievements": "2023-12-02T09:05:37.0563396+00:00",
   "LastUpdate_AppInfo": "2023-11-30T16:57:23.733607+00:00",
-  "LastUpdate_Ratings": "2023-12-02T07:58:30.0481117+00:00",
-  "LastUpdate_Achievements": "2023-12-02T08:04:38.4128193+00:00"
+  "LastUpdate_Ratings": "2023-12-02T08:59:27.988823+00:00",
+  "LastUpdate_Achievements": "2023-12-02T09:05:37.0564001+00:00"
 }

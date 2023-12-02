@@ -2,9 +2,9 @@
   "ID": "524a7bde223b442d9e006c9891b5d702",
   "Name": "Balloon Strike",
   "ProductSlug": "balloon-strike-c9a1ac",
-  "Ranking_EOS_Progress": 674,
+  "Ranking_EOS_Progress": 659,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 442,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-12-01T18:30:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37,6 +37,11 @@
       "Time": "2023-12-01T19:03:29.1888711+00:00",
       "NumProgressed": 2,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T09:04:06.6877471+00:00",
+      "NumProgressed": 3,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T04:03:09.4989481+00:00",
@@ -47,9 +52,9 @@
       "ID": "BALLOON_FULL_1",
       "SetID": "498p3n5",
       "Name": "Starter",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 200,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BALLOON_FULL_2",
@@ -88,13 +93,13 @@
     {
       "ID": "498p3n5",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-12-01T04:03:09.498948+00:00",
-  "LastChanged_Achievements": "2023-12-02T08:03:31.5604125+00:00",
+  "LastChanged_Achievements": "2023-12-02T09:04:06.6877466+00:00",
   "LastUpdate_AppInfo": "2023-12-01T03:57:04.008957+00:00",
-  "LastUpdate_Ratings": "2023-12-02T07:57:24.2914064+00:00",
-  "LastUpdate_Achievements": "2023-12-02T08:03:31.5604175+00:00"
+  "LastUpdate_Ratings": "2023-12-02T08:57:53.8309856+00:00",
+  "LastUpdate_Achievements": "2023-12-02T09:04:06.6877527+00:00"
 }

@@ -171,9 +171,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7263,
+  "EOS_Progressed": 7266,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 895,
+  "EOS_NewPlayers": 894,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5236,6 +5236,11 @@
       "Time": "2023-12-02T08:09:12.5480283+00:00",
       "NumProgressed": 7263,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-02T09:09:59.0038651+00:00",
+      "NumProgressed": 7266,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5256,7 +5261,7 @@
       "Name": "Baby Steps",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1599
     },
     {
       "ID": "BeLikeWater",
@@ -5288,7 +5293,7 @@
       "Name": "Connection Lost",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "Eavesdropper",
@@ -5320,7 +5325,7 @@
       "Name": "First Time?",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2106
+      "UsersEstimate": 2107
     },
     {
       "ID": "FuneralForTheDeath",
@@ -5334,9 +5339,9 @@
       "ID": "GarbageMan",
       "SetID": "acc6ea0",
       "Name": "Garbage Man",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 65
     },
     {
       "ID": "Godrunner",
@@ -5392,7 +5397,7 @@
       "Name": "Nasty!",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "NoMoreTotems",
@@ -5400,7 +5405,7 @@
       "Name": "No More Totems",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "NotLikeTheOthers",
@@ -5448,7 +5453,7 @@
       "Name": "The Quarterback",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "ThisIsDharma",
@@ -5472,7 +5477,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 7,
       "XP": 45,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -5510,16 +5515,16 @@
       "ID": "k01101110",
       "SetID": "acc6ea0",
       "Name": "01101110 01101001 01100011 01100101",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 363
+      "UsersEstimate": 436
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7263,
+      "Progressed": 7266,
       "Completed": 10
     }
   ],
@@ -5527,8 +5532,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-02T04:02:27.6504223+00:00",
-  "LastChanged_Achievements": "2023-12-02T08:09:12.548028+00:00",
+  "LastChanged_Achievements": "2023-12-02T09:09:59.0038647+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-02T07:56:56.571694+00:00",
-  "LastUpdate_Achievements": "2023-12-02T08:09:12.5480639+00:00"
+  "LastUpdate_Ratings": "2023-12-02T08:57:13.8951837+00:00",
+  "LastUpdate_Achievements": "2023-12-02T09:09:59.0039023+00:00"
 }

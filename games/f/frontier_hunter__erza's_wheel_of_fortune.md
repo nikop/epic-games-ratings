@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 92.00% | ~441 |
-| Training Simulation | 77.00% | ~369 |
+| Travel Streamer | 92.00% | ~442 |
+| Training Simulation | 77.00% | ~370 |
 | Kuku Bird Hunter | 63.00% | ~302 |
-| Storm Traveller | 57.00% | ~273 |
-| Wolf King Killer | 52.00% | ~249 |
+| Storm Traveller | 57.00% | ~274 |
+| Wolf King Killer | 52.00% | ~250 |
 | Fashion Connoisseur | 50.00% | ~240 |
-| Arms Mechanic | 46.00% | ~220 |
-| Flower Thief | 41.00% | ~196 |
-| Apostle of Flame | 37.00% | ~177 |
-| Beginner Artificer | 36.00% | ~172 |
+| Arms Mechanic | 46.00% | ~221 |
+| Flower Thief | 41.00% | ~197 |
+| Beginner Artificer | 36.00% | ~173 |
+| Apostle of Flame | 36.00% | ~173 |
 | Beginner Cook | 35.00% | ~168 |
-| Seal Breaker | 31.00% | ~148 |
-| Handyman | 27.00% | ~129 |
+| Seal Breaker | 31.00% | ~149 |
+| Handyman | 27.00% | ~130 |
 | Giant Lizard Killer | 25.00% | ~120 |
 | Guardian | 24.00% | ~115 |
 | Nosebleeder | 24.00% | ~115 |
 | Trader | 20.00% | ~96 |
 | Weapon Boost | 20.00% | ~96 |
-| Flying Kobold Killer | 17.00% | ~81 |
-| Youth Magnet | 17.00% | ~81 |
+| Flying Kobold Killer | 17.00% | ~82 |
+| Youth Magnet | 17.00% | ~82 |
 | Master Artificer | 16.00% | ~77 |
 | Furious Scorpion Killer | 15.00% | ~72 |
 | Lethal Blade Mantis Killer | 15.00% | ~72 |
 | Squeaky Clean | 15.00% | ~72 |
 | Kind Adventurer | 13.00% | ~62 |
 | Mermaid Killer | 13.00% | ~62 |
-| Cave Master | 12.00% | ~57 |
-| Face Slapper | 12.00% | ~57 |
+| Cave Master | 12.00% | ~58 |
+| Face Slapper | 12.00% | ~58 |
 | Master Cook | 8.00% | ~38 |
 | Boss challenge | 8.00% | ~38 |
 | Berserker Slayer | 7.00% | ~34 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 1.00% | ~5 |
 | Warden Challenge | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479 (Ranked 318)  
+Progressed: 480 (Ranked 318)  
 Completed: 1 (0.21%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 1 (0.21%) (Ranked 255)
 | 2023-11-29 | 439 | 1 |
 | 2023-11-30 | 461 | 1 |
 | 2023-12-01 | 471 | 1 |
-| 2023-12-02 | 479 | 1 |
+| 2023-12-02 | 480 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

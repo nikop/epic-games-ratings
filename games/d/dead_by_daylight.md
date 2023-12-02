@@ -6,12 +6,12 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.70% | ~7,422 |
+| It wakes | 0.70% | ~7,423 |
 | Skillful | 0.60% | ~6,362 |
-| Zealous | 0.50% | ~5,301 |
-| Not half bad | 0.50% | ~5,301 |
-| I | 0.50% | ~5,301 |
-| Make Some Noise | 0.50% | ~5,301 |
+| Zealous | 0.50% | ~5,302 |
+| Not half bad | 0.50% | ~5,302 |
+| I | 0.50% | ~5,302 |
+| Make Some Noise | 0.50% | ~5,302 |
 | Handyman | 0.40% | ~4,241 |
 | Apt Survivor | 0.40% | ~4,241 |
 | Survival Treasures | 0.40% | ~4,241 |
@@ -26,8 +26,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | Perfect Escape | 0.30% | ~3,181 |
 | Perfect Killing | 0.30% | ~3,181 |
 | Bloody Millionaire | 0.30% | ~3,181 |
+| Apt Killer | 0.30% | ~3,181 |
 | Risk it all | 0.30% | ~3,181 |
 | II | 0.30% | ~3,181 |
+| Wounded Healer | 0.30% | ~3,181 |
 | Healthy Obsession | 0.30% | ~3,181 |
 | Close Shave | 0.30% | ~3,181 |
 | Preemptive Strike | 0.30% | ~3,181 |
@@ -35,13 +37,11 @@ Number of Ratings: 70,340  (23.09.2022)
 | Blood on your hands | 0.20% | ~2,121 |
 | Escape Artist | 0.20% | ~2,121 |
 | Gifts for the Fog | 0.20% | ~2,121 |
-| Apt Killer | 0.20% | ~2,121 |
 | Vulture | 0.20% | ~2,121 |
 | III | 0.20% | ~2,121 |
 | III-50 | 0.20% | ~2,121 |
 | Engineer | 0.20% | ~2,121 |
 | Unforgettable Getaway | 0.20% | ~2,121 |
-| Wounded Healer | 0.20% | ~2,121 |
 | First to the Punch | 0.20% | ~2,121 |
 | Operation: Survival | 0.20% | ~2,121 |
 | Old West Oasis | 0.20% | ~2,121 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,060 |
 | Adept Good Guy | 0.10% | ~1,060 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,060,268 (Ranked 14)  
+Progressed: 1,060,367 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -465,7 +465,7 @@ Completed: 61 (0.01%) (Ranked 344)
 | 2023-11-29 | 1,053,910 | 61 |
 | 2023-11-30 | 1,056,530 | 61 |
 | 2023-12-01 | 1,059,298 | 61 |
-| 2023-12-02 | 1,060,268 | 61 |
+| 2023-12-02 | 1,060,367 | 61 |
 ## Awards
 Max (Diverse Characters): 37,031  (Ranked 15)  
 Sum: 281,537 (Ranked 12)  

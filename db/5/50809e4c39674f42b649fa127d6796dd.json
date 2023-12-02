@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 399,
+  "EOS_Progressed": 400,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
@@ -927,6 +927,11 @@
       "Time": "2023-12-02T06:08:55.7025853+00:00",
       "NumProgressed": 399,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T09:09:08.6444337+00:00",
+      "NumProgressed": 400,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1001,9 +1006,9 @@
       "ID": "FIRST_ALL_MISSION_CLEAR",
       "SetID": "apihg0e",
       "Name": "Perfect Run",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 124
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -1041,9 +1046,9 @@
       "ID": "FIRST_MINIBOSS_DEFEATED",
       "SetID": "apihg0e",
       "Name": "Unknown Threat",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 332
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1057,9 +1062,9 @@
       "ID": "FIRST_S_RANK",
       "SetID": "apihg0e",
       "Name": "Superior Ranking",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 156
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1131,7 +1136,7 @@
       "Name": "The Journey Begins",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1258,14 +1263,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 399,
+      "Progressed": 400,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-02T08:08:34.5170072+00:00",
+  "LastChanged_Achievements": "2023-12-02T09:09:08.6444331+00:00",
   "LastUpdate_AppInfo": "2023-11-28T17:56:55.9843317+00:00",
-  "LastUpdate_Ratings": "2023-12-02T08:02:50.4720114+00:00",
-  "LastUpdate_Achievements": "2023-12-02T08:08:34.5170485+00:00"
+  "LastUpdate_Ratings": "2023-12-02T09:03:07.4984174+00:00",
+  "LastUpdate_Achievements": "2023-12-02T09:09:08.644464+00:00"
 }

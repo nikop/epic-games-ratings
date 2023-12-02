@@ -4,10 +4,10 @@
   "ProductSlug": "panzer-corps-2",
   "Ranking_Rating": 613,
   "Ranking_Popularity": 514,
-  "Ranking_PopularitySum": 455,
+  "Ranking_PopularitySum": 443,
   "Ranking_EOS_Progress": 771,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 494,
+  "Ranking_EOS_NewPlayers": 495,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-04-27T14:00:00+00:00",
@@ -385,10 +385,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 93,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2023-12-02T08:58:45.2409812+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 113,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 93,
+  "NumberOfAwards": 113,
   "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -421,6 +427,12 @@
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
       "Count": 21
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -434,8 +446,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:07.3866122+00:00",
-  "LastChanged": "2023-11-29T17:02:34.9920785+00:00",
+  "LastChanged": "2023-12-02T08:58:45.2409809+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:09.8606317+00:00",
-  "LastUpdate_Ratings": "2023-12-02T07:58:00.3002382+00:00",
-  "LastUpdate_Achievements": "2023-12-02T08:06:28.8500282+00:00"
+  "LastUpdate_Ratings": "2023-12-02T08:58:45.2409815+00:00",
+  "LastUpdate_Achievements": "2023-12-02T09:08:34.9930675+00:00"
 }

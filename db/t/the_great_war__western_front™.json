@@ -5,7 +5,7 @@
   "Ranking_Rating": 994,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
-  "Ranking_EOS_Progress": 305,
+  "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 131,
@@ -2696,9 +2696,9 @@
       "ID": "USE_UNDERMINE",
       "SetID": "6kcl14p",
       "Name": "Earth Shattering",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 90,
-      "UsersEstimate": 275
+      "UsersEstimate": 281
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -2737,8 +2737,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-11-20T01:47:16.6107096+00:00",
-  "LastChanged_Achievements": "2023-12-02T08:05:05.2027578+00:00",
+  "LastChanged_Achievements": "2023-12-02T09:06:12.9978017+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:50.4865731+00:00",
-  "LastUpdate_Ratings": "2023-12-02T07:58:18.3862641+00:00",
-  "LastUpdate_Achievements": "2023-12-02T08:05:05.2027788+00:00"
+  "LastUpdate_Ratings": "2023-12-02T08:59:11.0636632+00:00",
+  "LastUpdate_Achievements": "2023-12-02T09:06:12.9978259+00:00"
 }

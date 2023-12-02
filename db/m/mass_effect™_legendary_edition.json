@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1474,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -4298,9 +4298,9 @@
       "ID": "achievement_108",
       "SetID": "d252ncf",
       "Name": "Mail Slot",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 221
     },
     {
       "ID": "achievement_109",
@@ -5246,8 +5246,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-02T08:08:47.9321104+00:00",
+  "LastChanged_Achievements": "2023-12-02T09:09:26.4695684+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:10.3433357+00:00",
-  "LastUpdate_Ratings": "2023-12-02T08:02:59.1430948+00:00",
-  "LastUpdate_Achievements": "2023-12-02T08:08:47.9323827+00:00"
+  "LastUpdate_Ratings": "2023-12-02T09:03:19.9344101+00:00",
+  "LastUpdate_Achievements": "2023-12-02T09:09:26.4697349+00:00"
 }

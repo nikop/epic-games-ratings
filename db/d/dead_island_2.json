@@ -4,7 +4,7 @@
   "ProductSlug": "dead-island-2",
   "Ranking_Rating": 530,
   "Ranking_Popularity": 49,
-  "Ranking_PopularitySum": 84,
+  "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 28,
@@ -7075,10 +7075,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 12031,
       "NumberOfAwardsMax": 7845
+    },
+    {
+      "Time": "2023-12-02T09:00:16.9477817+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 12035,
+      "NumberOfAwardsMax": 7845
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12031,
+  "NumberOfAwards": 12035,
   "NumberOfAwardsMax": 7845,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7122,7 +7128,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 491
+      "Count": 495
     },
     {
       "Text": "This game is Relaxing",
@@ -7137,9 +7143,9 @@
       "Count": 506
     }
   ],
-  "EOS_Progressed": 728806,
+  "EOS_Progressed": 728830,
   "EOS_Completed": 2459,
-  "EOS_NewPlayers": 4374,
+  "EOS_NewPlayers": 4367,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -33007,6 +33013,11 @@
       "Time": "2023-12-02T08:08:23.395705+00:00",
       "NumProgressed": 728806,
       "NumCompleted": 2459
+    },
+    {
+      "Time": "2023-12-02T09:08:53.5121008+00:00",
+      "NumProgressed": 728830,
+      "NumCompleted": 2459
     }
   ],
   "TotalAchievements": 51,
@@ -33034,7 +33045,7 @@
       "Name": "Git Gutte!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14576
+      "UsersEstimate": 14577
     },
     {
       "ID": "ach_anger_management",
@@ -33082,7 +33093,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14576
+      "UsersEstimate": 14577
     },
     {
       "ID": "ach_contender",
@@ -33138,7 +33149,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14576
+      "UsersEstimate": 14577
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -33162,7 +33173,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14576
+      "UsersEstimate": 14577
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -33178,7 +33189,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14576
+      "UsersEstimate": 14577
     },
     {
       "ID": "ach_impressive_aim",
@@ -33274,7 +33285,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5830
+      "UsersEstimate": 5831
     },
     {
       "ID": "ach_secrets_of_la",
@@ -33298,7 +33309,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14576
+      "UsersEstimate": 14577
     },
     {
       "ID": "ach_survival_expert",
@@ -33354,7 +33365,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14576
+      "UsersEstimate": 14577
     },
     {
       "ID": "ach_well_known_survivor",
@@ -33386,7 +33397,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     },
     {
       "ID": "ach_gardening_tools",
@@ -33402,7 +33413,7 @@
       "Name": "Pork Chopped",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -33425,22 +33436,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 728806,
+      "Progressed": 728830,
       "Completed": 2459
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 54348,
+      "Progressed": 54372,
       "Completed": 36620
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-12-02T03:59:11.6299749+00:00",
-  "LastChanged_Achievements": "2023-12-02T08:08:23.3957043+00:00",
+  "LastChanged": "2023-12-02T09:00:16.9477816+00:00",
+  "LastChanged_Achievements": "2023-12-02T09:08:53.5121002+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-12-02T07:59:03.115576+00:00",
-  "LastUpdate_Achievements": "2023-12-02T08:08:23.3958265+00:00"
+  "LastUpdate_Ratings": "2023-12-02T09:00:16.9477824+00:00",
+  "LastUpdate_Achievements": "2023-12-02T09:08:53.5122709+00:00"
 }

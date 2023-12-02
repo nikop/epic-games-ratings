@@ -14,7 +14,7 @@
 | Krugmazing | 64.00% | ~675 |
 | Moneyball | 61.00% | ~643 |
 | The Fire Below the Mountain | 61.00% | ~643 |
-| No Bites | 54.00% | ~569 |
+| No Bites | 55.00% | ~580 |
 | Iceborn | 54.00% | ~569 |
 | Boom Things | 52.00% | ~548 |
 | Tear of Freedom | 51.00% | ~538 |
@@ -22,14 +22,14 @@
 | Rhythm Of Willump | 46.00% | ~485 |
 | The Relentless Storm | 46.00% | ~485 |
 | A Tragic Reminder | 44.00% | ~464 |
-| 3000 Year Blackout | 43.00% | ~453 |
+| 3000 Year Blackout | 44.00% | ~464 |
 | The Finisher | 42.00% | ~443 |
 | So Close | 41.00% | ~432 |
 | You Get Used To It | 40.00% | ~422 |
 | True Legends | 39.00% | ~411 |
 | Family | 38.00% | ~401 |
+| Biggest Snowball Ever | 38.00% | ~401 |
 | Boosted! | 38.00% | ~401 |
-| Biggest Snowball Ever | 37.00% | ~390 |
 | Freeze The Ice Witch | 37.00% | ~390 |
 | Deadliest and Biggest Snowball Ever! | 37.00% | ~390 |
 | Bullseye | 36.00% | ~379 |
@@ -41,7 +41,7 @@
 | One From The Heart | 14.00% | ~148 |
 | Yummy | 10.00% | ~105 |
 | Snowball Fightn't | 9.00% | ~95 |
-| It Was Him | 7.00% | ~74 |
+| It Was Him | 8.00% | ~84 |
 | Handy Yeti | 7.00% | ~74 |
 | The Pied Piper Of Freljord | 5.00% | ~53 |
 | Braum's Poro Ranch | 3.00% | ~32 |

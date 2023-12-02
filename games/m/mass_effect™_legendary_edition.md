@@ -104,8 +104,8 @@
 | Master and Commander | 18.00% | ~265 |
 | Long Service Medal | 16.00% | ~236 |
 | Sabotage Specialist | 16.00% | ~236 |
+| Mail Slot | 15.00% | ~221 |
 | Throw Mastery | 15.00% | ~221 |
-| Mail Slot | 14.00% | ~206 |
 | Electronics Specialist | 14.00% | ~206 |
 | Combined Arms | 13.00% | ~192 |
 | Bruiser | 12.00% | ~177 |
