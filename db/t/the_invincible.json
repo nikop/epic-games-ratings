@@ -2,7 +2,7 @@
   "ID": "cf318a791de349f2b724136be105a6f1",
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
-  "Ranking_EOS_Progress": 316,
+  "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 131,
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 485,
+  "EOS_Progressed": 486,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1330,6 +1330,11 @@
       "Time": "2023-12-02T14:08:41.2440643+00:00",
       "NumProgressed": 485,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T16:09:26.1531677+00:00",
+      "NumProgressed": 486,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1342,7 +1347,7 @@
       "Name": "The Teleprobe",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "AchvAllMemories",
@@ -1518,7 +1523,7 @@
       "Name": "The Camp",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "AchvReachCity",
@@ -1573,14 +1578,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 485,
+      "Progressed": 486,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-02T15:09:13.6129135+00:00",
+  "LastChanged_Achievements": "2023-12-02T16:09:26.1531672+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-12-02T15:01:42.0156834+00:00",
-  "LastUpdate_Achievements": "2023-12-02T15:09:13.6129359+00:00"
+  "LastUpdate_Ratings": "2023-12-02T16:01:53.278634+00:00",
+  "LastUpdate_Achievements": "2023-12-02T16:09:26.1531914+00:00"
 }

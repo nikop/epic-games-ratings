@@ -2,7 +2,7 @@
   "ID": "8c32c11719374c049cac0b07d2a338a0",
   "Name": "Ravenlok",
   "ProductSlug": "ravenlok-bcabbc",
-  "Ranking_EOS_Progress": 257,
+  "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 55,
   "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 75,
@@ -3243,9 +3243,9 @@
       "ID": "21",
       "SetID": "d0g98p",
       "Name": "Take Heart",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 454
+      "UsersEstimate": 465
     },
     {
       "ID": "22",
@@ -3548,8 +3548,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-12-02T15:04:03.1894139+00:00",
+  "LastChanged_Achievements": "2023-12-02T16:04:35.9887529+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:10.1400559+00:00",
-  "LastUpdate_Ratings": "2023-12-02T14:59:37.6061174+00:00",
-  "LastUpdate_Achievements": "2023-12-02T15:04:03.1894716+00:00"
+  "LastUpdate_Ratings": "2023-12-02T15:59:58.9086928+00:00",
+  "LastUpdate_Achievements": "2023-12-02T16:04:35.9888225+00:00"
 }

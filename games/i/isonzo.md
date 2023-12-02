@@ -6,45 +6,45 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Shall Not Pass | 51.00% | ~4,679 |
-| Tutti Eroi! | 50.00% | ~4,587 |
-| Peak Performance | 47.00% | ~4,312 |
-| Avanti Savoia! | 44.00% | ~4,037 |
-| Mamma Mia! | 35.00% | ~3,211 |
-| Conrad von Hotzensocks | 32.00% | ~2,936 |
-| Gabriele D'Annunzio | 32.00% | ~2,936 |
-| Silver Lining | 27.00% | ~2,477 |
+| You Shall Not Pass | 51.00% | ~4,681 |
+| Tutti Eroi! | 50.00% | ~4,589 |
+| Peak Performance | 46.00% | ~4,222 |
+| Avanti Savoia! | 44.00% | ~4,038 |
+| Mamma Mia! | 35.00% | ~3,212 |
+| Conrad von Hotzensocks | 32.00% | ~2,937 |
+| Gabriele D'Annunzio | 32.00% | ~2,937 |
+| Silver Lining | 27.00% | ~2,478 |
 | Aurelio Baruzzi | 21.00% | ~1,927 |
-| Decimation | 20.00% | ~1,835 |
-| Donatello | 19.00% | ~1,743 |
-| Insubordination | 19.00% | ~1,743 |
-| The Italian Job | 19.00% | ~1,743 |
-| Veni Vidi Vici | 19.00% | ~1,743 |
+| Decimation | 20.00% | ~1,836 |
+| Donatello | 19.00% | ~1,744 |
+| Insubordination | 19.00% | ~1,744 |
+| The Italian Job | 19.00% | ~1,744 |
+| Veni Vidi Vici | 19.00% | ~1,744 |
 | Ragazzi del '99 | 17.00% | ~1,560 |
-| Luigi Cadorna | 15.00% | ~1,376 |
-| The Lion of the Isonzo | 14.00% | ~1,284 |
+| Luigi Cadorna | 15.00% | ~1,377 |
+| The Lion of the Isonzo | 14.00% | ~1,285 |
 | Uomo Universale | 13.00% | ~1,193 |
 | Dirty Dozen | 12.00% | ~1,101 |
 | Shaken, Not Stirred | 12.00% | ~1,101 |
-| Die Bosniaken Kommen! | 11.00% | ~1,009 |
-| Machiavelli | 11.00% | ~1,009 |
-| Thus With A Kiss | 11.00% | ~1,009 |
-| The Devil's Paintbrush | 10.00% | ~917 |
+| Die Bosniaken Kommen! | 11.00% | ~1,010 |
+| Machiavelli | 11.00% | ~1,010 |
+| Thus With A Kiss | 11.00% | ~1,010 |
+| The Devil's Paintbrush | 10.00% | ~918 |
 | Dante's Inferno | 9.00% | ~826 |
 | I Have the High Ground | 9.00% | ~826 |
 | Millenial | 9.00% | ~826 |
 | The Show Must Go On | 8.00% | ~734 |
 | Tosca | 8.00% | ~734 |
-| 12th Bottle of the Isonzo | 6.00% | ~550 |
-| The Enlightment | 6.00% | ~550 |
+| 12th Bottle of the Isonzo | 6.00% | ~551 |
+| The Enlightment | 6.00% | ~551 |
 | Cercatore d'Oro | 5.00% | ~459 |
 | Generalissimo | 4.00% | ~367 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~367 |
 | Seeing Red | 3.00% | ~275 |
-| Farewell to Arms | 2.00% | ~183 |
-| Ponte of No Return | 2.00% | ~183 |
-| Soča Drag | 2.00% | ~183 |
-| Saboteur | 2.00% | ~183 |
+| Farewell to Arms | 2.00% | ~184 |
+| Ponte of No Return | 2.00% | ~184 |
+| Soča Drag | 2.00% | ~184 |
+| Saboteur | 2.00% | ~184 |
 | Compagnia della Morte | 1.00% | ~92 |
 | Drop and Give Me 20 | 1.00% | ~92 |
 | Malpractice | 1.00% | ~92 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~37 |
 | Can I Go Home Now? | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,174 (Ranked 169)  
+Progressed: 9,178 (Ranked 169)  
 Completed: 10 (0.11%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,21 +272,21 @@ Completed: 10 (0.11%) (Ranked 283)
 | 2023-11-29 | 9,122 | 10 |
 | 2023-11-30 | 9,135 | 10 |
 | 2023-12-01 | 9,161 | 10 |
-| 2023-12-02 | 9,174 | 10 |
+| 2023-12-02 | 9,178 | 10 |
 ## Awards
 Max (Diverse Characters): 38  (Ranked 465)  
-Sum: 288 (Ranked 369)  
-Diff (max vs sum): 96  
+Sum: 321 (Ranked 361)  
+Diff (max vs sum): 104  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 38 |
 | This game is Highly Recommended | 37 |
 | This game is Extremely Fun | 35 |
 | This game has Realistic Visuals | 35 |
+| This game has Amazing Characters | 33 |
 | This game has Challenging Combat | 32 |
-| This game has Amazing Characters | 32 |
+| This game is Educational | 32 |
 | This game has Quickly Understood Controls | 31 |
-| This game is Educational | 28 |
 | This game has Competitive Players | 26 |
 | This game has Amazing Storytelling | 22 |
 | This game has a Kind Community | 20 |
@@ -420,3 +420,4 @@ Diff (max vs sum): 96
 | 2023-11-25 | 4.56 | - | 38 | 286 |
 | 2023-11-26 | 4.56 | - | 38 | 287 |
 | 2023-11-29 | 4.56 | - | 38 | 288 |
+| 2023-12-02 | 4.56 | - | 38 | 321 |

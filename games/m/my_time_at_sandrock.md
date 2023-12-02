@@ -8,23 +8,23 @@ Number of Ratings: 892  (23.09.2022)
 | ---- | ---------- | ----- |
 | Adept Assembler | 234.00% | ~1,144 |
 | Iron Chef | 167.00% | ~817 |
-| Super Spelunker | 125.00% | ~611 |
+| Super Spelunker | 126.00% | ~616 |
 | Greeno-B-Gone | 125.00% | ~611 |
 | Your Especially Earned Trajectory | 102.00% | ~499 |
-| The Little Wood that Could | 98.00% | ~479 |
+| The Little Wood that Could | 99.00% | ~484 |
 | One of the Cool Kids | 80.00% | ~391 |
 | On that Grindset | 79.00% | ~386 |
-| No Mountain Wide Enough | 78.00% | ~381 |
+| No Mountain Wide Enough | 79.00% | ~386 |
 | Yakmel Whisperer | 76.00% | ~372 |
 | Diamonds are Forever | 74.00% | ~362 |
 | Can We Keep It? | 72.00% | ~352 |
 | Pack Mule | 71.00% | ~347 |
 | I Do! | 69.00% | ~337 |
 | First Love | 66.00% | ~323 |
-| Unboxing | 65.00% | ~318 |
+| Unboxing | 66.00% | ~323 |
 | Chatterbox | 64.00% | ~313 |
+| Big Game Hunter | 63.00% | ~308 |
 | Financially Secure | 63.00% | ~308 |
-| Big Game Hunter | 62.00% | ~303 |
 | Got Served | 62.00% | ~303 |
 | Panda-kin | 57.00% | ~279 |
 | Builder of the Month | 57.00% | ~279 |
@@ -43,7 +43,7 @@ Number of Ratings: 892  (23.09.2022)
 | Call Me Fishmael | 53.00% | ~259 |
 | Lifeline Pipeline | 52.00% | ~254 |
 | Finishing Touches | 51.00% | ~249 |
-| Bridging the Gap | 48.00% | ~235 |
+| Bridging the Gap | 49.00% | ~240 |
 | Got the Flow Back | 46.00% | ~225 |
 | Sepia Toned Memories | 43.00% | ~210 |
 | Who Ya Gonna Call...? | 42.00% | ~205 |
@@ -67,7 +67,7 @@ Number of Ratings: 892  (23.09.2022)
 | Jack of All Trades | 8.00% | ~39 |
 | Sandrock's Hottest Club | 4.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 489 (Ranked 313)  
+Progressed: 489 (Ranked 314)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |

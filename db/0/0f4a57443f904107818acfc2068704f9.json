@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 816,
+  "EOS_Progressed": 817,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1712,6 +1712,11 @@
       "Time": "2023-12-02T15:06:32.4174064+00:00",
       "NumProgressed": 816,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T16:06:57.1564093+00:00",
+      "NumProgressed": 817,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1780,7 +1785,7 @@
       "Name": "Pathfinder",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "CompleteChapter10",
@@ -1804,7 +1809,7 @@
       "Name": "Grumblin\u0027 Bellies",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "CompleteChapter13",
@@ -1852,7 +1857,7 @@
       "Name": "Who Needs Reinforcements?",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "CompleteChapter18",
@@ -1868,7 +1873,7 @@
       "Name": "Met the Enemy",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "CompleteChapter3",
@@ -1876,7 +1881,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "CompleteChapter4",
@@ -1890,9 +1895,9 @@
       "ID": "CompleteChapter5",
       "SetID": "52ail55",
       "Name": "Breathing Easy",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 196
     },
     {
       "ID": "CompleteChapter6",
@@ -1996,7 +2001,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Win50ConquestBattles",
@@ -2019,14 +2024,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 816,
+      "Progressed": 817,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-02T15:06:32.417406+00:00",
+  "LastChanged_Achievements": "2023-12-02T16:06:57.1564088+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:09.4303292+00:00",
-  "LastUpdate_Ratings": "2023-12-02T14:59:28.377969+00:00",
-  "LastUpdate_Achievements": "2023-12-02T15:06:32.4174497+00:00"
+  "LastUpdate_Ratings": "2023-12-02T15:59:51.0887919+00:00",
+  "LastUpdate_Achievements": "2023-12-02T16:06:57.1564428+00:00"
 }

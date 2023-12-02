@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2910,9 +2910,9 @@
       "ID": "Achievement_065",
       "SetID": "6b34g18",
       "Name": "Curious Finch",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Achievement_066",
@@ -2967,8 +2967,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-11-22T22:57:36.1602113+00:00",
-  "LastChanged_Achievements": "2023-12-02T15:07:25.7831535+00:00",
+  "LastChanged_Achievements": "2023-12-02T16:07:46.2975224+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:55.6017296+00:00",
-  "LastUpdate_Ratings": "2023-12-02T14:59:33.9577797+00:00",
-  "LastUpdate_Achievements": "2023-12-02T15:07:25.7832278+00:00"
+  "LastUpdate_Ratings": "2023-12-02T15:59:55.4198368+00:00",
+  "LastUpdate_Achievements": "2023-12-02T16:07:46.2975783+00:00"
 }

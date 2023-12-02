@@ -14,7 +14,7 @@
 | Thalya's Concentrated Fury | 68.00% | ~350 |
 | Bad Elves Go Everywhere | 67.00% | ~345 |
 | Master of Magic | 64.00% | ~330 |
-| Heroes’ Gorge | 61.00% | ~314 |
+| Heroes’ Gorge | 62.00% | ~319 |
 | Unicorn steaks – fresh off the hoof! | 60.00% | ~309 |
 | Magic Accidents | 58.00% | ~299 |
 | Trap Master | 56.00% | ~288 |
@@ -28,17 +28,17 @@
 | Pure Dynamite! | 43.00% | ~221 |
 | The Cathedral of Light | 40.00% | ~206 |
 | Shame! Shame! Shame! | 40.00% | ~206 |
+| Mana Cannon | 39.00% | ~201 |
 | Dungeonlord Gorgu | 39.00% | ~201 |
-| Mana Cannon | 38.00% | ~196 |
-| Tanos' Crusade Against Thalya | 35.00% | ~180 |
+| Tanos' Crusade Against Thalya | 36.00% | ~185 |
 | All’s Well That Ends Evil | 30.00% | ~154 |
 | Unstoppable Horde | 29.00% | ~149 |
 | Master of the Undead | 27.00% | ~139 |
 | The Duel | 27.00% | ~139 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 24.00% | ~124 |
 | Forbidden Knowledge | 24.00% | ~124 |
 | If Looks Could Kill | 24.00% | ~124 |
 | Hungry, Hungry Gorgu! | 23.00% | ~118 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 23.00% | ~118 |
 | Ghost Pirates? Ghost Heroes! | 23.00% | ~118 |
 | The Finitude Drill | 22.00% | ~113 |
 | Stop Tanos! | 19.00% | ~98 |
@@ -47,9 +47,9 @@
 | Bonus Evilness | 17.00% | ~88 |
 | Brimstone Shaken, Not Stirred | 17.00% | ~88 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~82 |
+| My Little Torture Chamber | 15.00% | ~77 |
 | Raiders of the Lost Stone | 15.00% | ~77 |
 | The Rune Sockets of Finitude (Part 1) | 15.00% | ~77 |
-| My Little Torture Chamber | 14.00% | ~72 |
 | Lavalumps on Ice! | 13.00% | ~67 |
 | Rubble and Ashes | 13.00% | ~67 |
 | The Rune Sockets of Finitude (Part 2) | 13.00% | ~67 |

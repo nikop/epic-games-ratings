@@ -32,11 +32,11 @@ Rating: 3.45 (Ranked 1,051)
 | Silence Is Golden | 0.90% | ~16 |
 | Helping Hand | 0.80% | ~14 |
 | Contingency Plans | 0.70% | ~12 |
+| Curious Finch | 0.70% | ~12 |
 | Revelations | 0.60% | ~11 |
 | You Clean It Up | 0.60% | ~11 |
 | Check, Please! | 0.60% | ~11 |
 | Nice Try | 0.60% | ~11 |
-| Curious Finch | 0.60% | ~11 |
 | Starve the Beast | 0.50% | ~9 |
 | Right This Way | 0.50% | ~9 |
 | Blacklight Down | 0.50% | ~9 |

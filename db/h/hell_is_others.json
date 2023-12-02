@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1279,9 +1279,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 258949,
+  "EOS_Progressed": 258954,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23044,6 +23044,11 @@
       "Time": "2023-12-02T15:04:42.3804172+00:00",
       "NumProgressed": 258949,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-02T16:05:12.6182933+00:00",
+      "NumProgressed": 258954,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -23055,7 +23060,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18126
+      "UsersEstimate": 18127
     },
     {
       "ID": "Act2",
@@ -23071,7 +23076,7 @@
       "Name": "The Strengthening",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2589
+      "UsersEstimate": 2590
     },
     {
       "ID": "Act4",
@@ -23103,7 +23108,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80274
+      "UsersEstimate": 80276
     },
     {
       "ID": "BackHomeNTimes",
@@ -23111,7 +23116,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12947
+      "UsersEstimate": 12948
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -23167,7 +23172,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7768
+      "UsersEstimate": 7769
     },
     {
       "ID": "CreditLevel3",
@@ -23183,7 +23188,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12947
+      "UsersEstimate": 12948
     },
     {
       "ID": "CreedsInBank2",
@@ -23191,7 +23196,7 @@
       "Name": "Saver II",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2589
+      "UsersEstimate": 2590
     },
     {
       "ID": "CreedsInBank3",
@@ -23223,7 +23228,7 @@
       "Name": "It\u0027s the last one, I swear",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2589
+      "UsersEstimate": 2590
     },
     {
       "ID": "FullHomeExpansion",
@@ -23247,7 +23252,7 @@
       "Name": "Botanist",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2589
+      "UsersEstimate": 2590
     },
     {
       "ID": "GrowPlants1",
@@ -23263,7 +23268,7 @@
       "Name": "Green thumb II",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2589
+      "UsersEstimate": 2590
     },
     {
       "ID": "GrowPlants3",
@@ -23327,7 +23332,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7768
+      "UsersEstimate": 7769
     },
     {
       "ID": "KillOtherWithMine",
@@ -23343,7 +23348,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59558
+      "UsersEstimate": 59559
     },
     {
       "ID": "KillOthers2",
@@ -23407,7 +23412,7 @@
       "Name": "Bricklayer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2589
+      "UsersEstimate": 2590
     },
     {
       "ID": "OldCoinCollected",
@@ -23495,14 +23500,14 @@
       "Name": "Run the Economy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2589
+      "UsersEstimate": 2590
     }
   ],
   "AchievementSets": [
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 258949,
+      "Progressed": 258954,
       "Completed": 3
     }
   ],
@@ -23510,8 +23515,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-11-30T01:47:38.497135+00:00",
-  "LastChanged_Achievements": "2023-12-02T15:04:42.3804167+00:00",
+  "LastChanged_Achievements": "2023-12-02T16:05:12.6182929+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:31.8373031+00:00",
-  "LastUpdate_Ratings": "2023-12-02T14:58:37.7825649+00:00",
-  "LastUpdate_Achievements": "2023-12-02T15:04:42.3805445+00:00"
+  "LastUpdate_Ratings": "2023-12-02T15:59:05.7381906+00:00",
+  "LastUpdate_Achievements": "2023-12-02T16:05:12.6184204+00:00"
 }

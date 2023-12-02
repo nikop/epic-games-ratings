@@ -6,22 +6,23 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.70% | ~7,429 |
-| Skillful | 0.70% | ~7,429 |
-| Zealous | 0.60% | ~6,367 |
-| Not half bad | 0.60% | ~6,367 |
-| Apt Survivor | 0.50% | ~5,306 |
-| Survival Treasures | 0.50% | ~5,306 |
-| I | 0.50% | ~5,306 |
-| Make Some Noise | 0.50% | ~5,306 |
-| No one left behind | 0.40% | ~4,245 |
-| Medic | 0.40% | ~4,245 |
-| Handyman | 0.40% | ~4,245 |
-| Bloody Millionaire | 0.40% | ~4,245 |
-| Sorted | 0.40% | ~4,245 |
-| Healthy Obsession | 0.40% | ~4,245 |
-| Resurgence | 0.40% | ~4,245 |
-| Preemptive Strike | 0.40% | ~4,245 |
+| It wakes | 0.70% | ~7,430 |
+| Skillful | 0.70% | ~7,430 |
+| Zealous | 0.60% | ~6,369 |
+| Not half bad | 0.60% | ~6,369 |
+| Apt Survivor | 0.50% | ~5,307 |
+| Survival Treasures | 0.50% | ~5,307 |
+| I | 0.50% | ~5,307 |
+| Make Some Noise | 0.50% | ~5,307 |
+| No one left behind | 0.40% | ~4,246 |
+| Medic | 0.40% | ~4,246 |
+| Handyman | 0.40% | ~4,246 |
+| Bloody Millionaire | 0.40% | ~4,246 |
+| Sorted | 0.40% | ~4,246 |
+| Healthy Obsession | 0.40% | ~4,246 |
+| Resurgence | 0.40% | ~4,246 |
+| Preemptive Strike | 0.40% | ~4,246 |
+| Humanitarian | 0.40% | ~4,246 |
 | The Grand Sacrifice | 0.30% | ~3,184 |
 | Agonizing Escape | 0.30% | ~3,184 |
 | Backdoor Escape | 0.30% | ~3,184 |
@@ -35,30 +36,29 @@ Number of Ratings: 70,340  (23.09.2022)
 | Engineer | 0.30% | ~3,184 |
 | Wounded Healer | 0.30% | ~3,184 |
 | Close Shave | 0.30% | ~3,184 |
-| Humanitarian | 0.30% | ~3,184 |
-| Blood on your hands | 0.20% | ~2,122 |
-| Escape Artist | 0.20% | ~2,122 |
-| Made it out alive! | 0.20% | ~2,122 |
-| Nerves of steel | 0.20% | ~2,122 |
-| Gifts for the Fog | 0.20% | ~2,122 |
-| Vulture | 0.20% | ~2,122 |
-| III-50 | 0.20% | ~2,122 |
-| Item of Obsession | 0.20% | ~2,122 |
-| Near-Death Experience | 0.20% | ~2,122 |
-| Cherish your Life | 0.20% | ~2,122 |
-| Unforgettable Getaway | 0.20% | ~2,122 |
-| Cutting Out | 0.20% | ~2,122 |
-| First to the Punch | 0.20% | ~2,122 |
-| Operation: Survival | 0.20% | ~2,122 |
-| Old West Oasis | 0.20% | ~2,122 |
-| Classy Act | 0.20% | ~2,122 |
-| Every Last Drop | 0.20% | ~2,122 |
-| Raccoon City Recruit | 0.20% | ~2,122 |
-| With Scars to Show | 0.20% | ~2,122 |
-| Flight to Freedom | 0.20% | ~2,122 |
-| Lifting The Fog | 0.20% | ~2,122 |
-| Chorus of Chaos | 0.20% | ~2,122 |
-| Second Act | 0.20% | ~2,122 |
+| Blood on your hands | 0.20% | ~2,123 |
+| Escape Artist | 0.20% | ~2,123 |
+| Made it out alive! | 0.20% | ~2,123 |
+| Nerves of steel | 0.20% | ~2,123 |
+| Gifts for the Fog | 0.20% | ~2,123 |
+| Vulture | 0.20% | ~2,123 |
+| III-50 | 0.20% | ~2,123 |
+| Item of Obsession | 0.20% | ~2,123 |
+| Near-Death Experience | 0.20% | ~2,123 |
+| Cherish your Life | 0.20% | ~2,123 |
+| Unforgettable Getaway | 0.20% | ~2,123 |
+| Cutting Out | 0.20% | ~2,123 |
+| First to the Punch | 0.20% | ~2,123 |
+| Operation: Survival | 0.20% | ~2,123 |
+| Old West Oasis | 0.20% | ~2,123 |
+| Classy Act | 0.20% | ~2,123 |
+| Every Last Drop | 0.20% | ~2,123 |
+| Raccoon City Recruit | 0.20% | ~2,123 |
+| With Scars to Show | 0.20% | ~2,123 |
+| Flight to Freedom | 0.20% | ~2,123 |
+| Lifting The Fog | 0.20% | ~2,123 |
+| Chorus of Chaos | 0.20% | ~2,123 |
+| Second Act | 0.20% | ~2,123 |
 | A bite for the Entity | 0.10% | ~1,061 |
 | A feast for the Entity | 0.10% | ~1,061 |
 | Blood on your face | 0.10% | ~1,061 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,061 |
 | Adept Good Guy | 0.10% | ~1,061 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,061,243 (Ranked 14)  
+Progressed: 1,061,443 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -465,7 +465,7 @@ Completed: 61 (0.01%) (Ranked 344)
 | 2023-11-29 | 1,053,910 | 61 |
 | 2023-11-30 | 1,056,530 | 61 |
 | 2023-12-01 | 1,059,298 | 61 |
-| 2023-12-02 | 1,061,243 | 61 |
+| 2023-12-02 | 1,061,443 | 61 |
 ## Awards
 Max (Diverse Characters): 37,031  (Ranked 15)  
 Sum: 281,579 (Ranked 12)  

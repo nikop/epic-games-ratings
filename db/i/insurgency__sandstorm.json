@@ -2,7 +2,7 @@
   "ID": "94cec4802e954a6c9579e29e8b817f3a",
   "Name": "Insurgency: Sandstorm",
   "ProductSlug": "insurgency-sandstorm",
-  "Ranking_Rating": 385,
+  "Ranking_Rating": 386,
   "Ranking_Popularity": 233,
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 37,
@@ -4210,9 +4210,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 495950,
+  "EOS_Progressed": 495973,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5266,
+  "EOS_NewPlayers": 5253,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30060,6 +30060,11 @@
       "Time": "2023-12-02T15:05:19.6674986+00:00",
       "NumProgressed": 495950,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-02T16:05:46.33117+00:00",
+      "NumProgressed": 495973,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -30127,7 +30132,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19838
+      "UsersEstimate": 19839
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -30175,7 +30180,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 14878
+      "UsersEstimate": 14879
     },
     {
       "ID": "ACH_JR_50",
@@ -30199,7 +30204,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 14878
+      "UsersEstimate": 14879
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -30239,7 +30244,7 @@
       "Name": "Point Shooting",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19838
+      "UsersEstimate": 19839
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -30303,7 +30308,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 14878
+      "UsersEstimate": 14879
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -30327,7 +30332,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 14878
+      "UsersEstimate": 14879
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -30335,7 +30340,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 24798
+      "UsersEstimate": 24799
     },
     {
       "ID": "ACH_WET_FEET",
@@ -30343,22 +30348,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19838
+      "UsersEstimate": 19839
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 495950,
+      "Progressed": 495973,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-12-02T14:00:04.5262833+00:00",
-  "LastChanged_Achievements": "2023-12-02T15:05:19.6674984+00:00",
+  "LastChanged_Achievements": "2023-12-02T16:05:46.3311697+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:34.4424138+00:00",
-  "LastUpdate_Ratings": "2023-12-02T15:01:18.7325777+00:00",
-  "LastUpdate_Achievements": "2023-12-02T15:05:19.6676358+00:00"
+  "LastUpdate_Ratings": "2023-12-02T16:01:31.844042+00:00",
+  "LastUpdate_Achievements": "2023-12-02T16:05:46.3313323+00:00"
 }

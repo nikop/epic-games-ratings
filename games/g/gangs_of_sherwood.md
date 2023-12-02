@@ -7,16 +7,16 @@
 | Act of Kindness | 90.00% | ~43 |
 | Air Fighter | 88.00% | ~42 |
 | Oo-De-Lally | 77.00% | ~37 |
-| The Altruist | 69.00% | ~33 |
-| Treasure Hunter | 65.00% | ~31 |
-| Tap Dancing | 58.00% | ~28 |
+| The Altruist | 71.00% | ~34 |
+| Treasure Hunter | 67.00% | ~32 |
+| Tap Dancing | 60.00% | ~29 |
 | Watch your Step! | 54.00% | ~26 |
-| MAX LEVEL | 52.00% | ~25 |
+| MAX LEVEL | 54.00% | ~26 |
 | Right between the eyes | 50.00% | ~24 |
-| Spring Board | 46.00% | ~22 |
-| Starry Night | 40.00% | ~19 |
+| Spring Board | 48.00% | ~23 |
+| Starry Night | 42.00% | ~20 |
 | Locksley's Tears | 38.00% | ~18 |
-| Merry Co-operation | 33.00% | ~16 |
+| Merry Co-operation | 35.00% | ~17 |
 | Rebel Unleashed | 33.00% | ~16 |
 | Savior | 31.00% | ~15 |
 | Finish Him! | 29.00% | ~14 |
@@ -24,8 +24,8 @@
 | First Aid | 25.00% | ~12 |
 | Merry Go Round | 25.00% | ~12 |
 | Ultra Rebel Instinct | 23.00% | ~11 |
+| Take Action! | 23.00% | ~11 |
 | Ultra Combo | 21.00% | ~10 |
-| Take Action! | 21.00% | ~10 |
 | Ascending Will | 17.00% | ~8 |
 | Haute Couture | 15.00% | ~7 |
 | Hidden Experiment | 13.00% | ~6 |

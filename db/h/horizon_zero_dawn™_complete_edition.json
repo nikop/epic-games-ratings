@@ -4,10 +4,10 @@
   "ProductSlug": "horizon-zero-dawn-complete-edition",
   "Ranking_Rating": 129,
   "Ranking_Popularity": 71,
-  "Ranking_PopularitySum": 88,
+  "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 771,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewPlayers": 496,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2020-08-07T15:00:00+00:00",
@@ -7910,10 +7910,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 11343,
       "NumberOfAwardsMax": 5186
+    },
+    {
+      "Time": "2023-12-02T15:59:32.631531+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 11346,
+      "NumberOfAwardsMax": 5186
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11343,
+  "NumberOfAwards": 11346,
   "NumberOfAwardsMax": 5186,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7939,7 +7945,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 317
+      "Count": 320
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -8001,8 +8007,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:54.5867721+00:00",
-  "LastChanged": "2023-12-02T10:59:11.8918838+00:00",
+  "LastChanged": "2023-12-02T15:59:32.6315308+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:41.6068032+00:00",
-  "LastUpdate_Ratings": "2023-12-02T14:59:07.2201489+00:00",
-  "LastUpdate_Achievements": "2023-12-02T15:04:35.8003675+00:00"
+  "LastUpdate_Ratings": "2023-12-02T15:59:32.6315316+00:00",
+  "LastUpdate_Achievements": "2023-12-02T16:05:06.4939556+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -188,7 +188,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5636,
+  "EOS_Progressed": 5637,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
@@ -4518,6 +4518,11 @@
       "Time": "2023-12-02T15:04:38.8300461+00:00",
       "NumProgressed": 5636,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T16:05:09.4393896+00:00",
+      "NumProgressed": 5637,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -4663,9 +4668,9 @@
       "ID": "ach_campaign_progress8",
       "SetID": "8cb3id7",
       "Name": "Level: Eye In The Sky",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_campaign_progress9",
@@ -4681,7 +4686,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "ach_campaign_special10",
@@ -5136,15 +5141,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5636,
+      "Progressed": 5637,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-12-02T15:04:38.830046+00:00",
+  "LastChanged_Achievements": "2023-12-02T16:05:09.4393892+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:05.246748+00:00",
-  "LastUpdate_Ratings": "2023-12-02T14:58:47.4861427+00:00",
-  "LastUpdate_Achievements": "2023-12-02T15:04:38.8301119+00:00"
+  "LastUpdate_Ratings": "2023-12-02T15:59:14.7075454+00:00",
+  "LastUpdate_Achievements": "2023-12-02T16:05:09.4394622+00:00"
 }

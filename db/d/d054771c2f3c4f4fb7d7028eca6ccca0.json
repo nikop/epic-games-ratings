@@ -2,7 +2,7 @@
   "ID": "d054771c2f3c4f4fb7d7028eca6ccca0",
   "Name": "Pinball M",
   "ProductSlug": "pinball-m-755276",
-  "Ranking_EOS_Progress": 297,
+  "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 131,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 621,
+  "EOS_Progressed": 634,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 620,
+  "EOS_NewPlayers": 633,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -264,6 +264,11 @@
       "Time": "2023-12-02T15:05:53.7054822+00:00",
       "NumProgressed": 621,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T16:06:17.9341694+00:00",
+      "NumProgressed": 634,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -274,7 +279,7 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "c167foo",
       "Name": "Rite of Passage",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -300,7 +305,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -442,7 +447,7 @@
       "ID": "ACHIEVEMENT_30",
       "SetID": "c167foo",
       "Name": "Competitor",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -651,14 +656,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 621,
+      "Progressed": 634,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-02T15:05:53.705482+00:00",
+  "LastChanged_Achievements": "2023-12-02T16:06:17.934169+00:00",
   "LastUpdate_AppInfo": "2023-11-28T10:57:06.6543167+00:00",
-  "LastUpdate_Ratings": "2023-12-02T15:00:03.8086733+00:00",
-  "LastUpdate_Achievements": "2023-12-02T15:05:53.7055087+00:00"
+  "LastUpdate_Ratings": "2023-12-02T16:00:22.8960021+00:00",
+  "LastUpdate_Achievements": "2023-12-02T16:06:17.9341985+00:00"
 }

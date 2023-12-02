@@ -2290,17 +2290,17 @@
       "ID": "ACH_CHALL_CH07",
       "SetID": "1j25agn",
       "Name": "Challenges of Chapter VII",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_CHALL_CH08",
       "SetID": "1j25agn",
       "Name": "Challenges of Chapter VIII",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_CHALL_CH09",
@@ -2714,8 +2714,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-28T01:45:15.549368+00:00",
-  "LastChanged_Achievements": "2023-12-02T15:10:12.2040487+00:00",
+  "LastChanged_Achievements": "2023-12-02T16:10:21.2178612+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:15.0158922+00:00",
-  "LastUpdate_Ratings": "2023-12-02T15:00:35.0746058+00:00",
-  "LastUpdate_Achievements": "2023-12-02T15:10:12.2041024+00:00"
+  "LastUpdate_Ratings": "2023-12-02T16:00:51.6015089+00:00",
+  "LastUpdate_Achievements": "2023-12-02T16:10:21.2179085+00:00"
 }

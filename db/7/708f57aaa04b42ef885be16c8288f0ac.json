@@ -6,9 +6,9 @@
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 179,
-  "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_Completed": 271,
+  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -171,11 +171,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7285,
-  "EOS_Completed": 10,
-  "EOS_NewPlayers": 820,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.14,
+  "EOS_Progressed": 7287,
+  "EOS_Completed": 11,
+  "EOS_NewPlayers": 801,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
       "Time": "2023-10-17T16:05:13.3734944+00:00",
@@ -5271,6 +5271,11 @@
       "Time": "2023-12-02T15:10:04.1456766+00:00",
       "NumProgressed": 7285,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-02T16:10:13.6681963+00:00",
+      "NumProgressed": 7287,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5339,7 +5344,7 @@
       "Name": "Explosive Personality",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "FasterThanLight",
@@ -5387,7 +5392,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -5401,9 +5406,9 @@
       "ID": "JackOfAllTrades",
       "SetID": "acc6ea0",
       "Name": "Jack Of All Trades",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 90,
-      "UsersEstimate": 7
+      "UsersEstimate": 15
     },
     {
       "ID": "LiveByTheSword",
@@ -5515,7 +5520,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -5554,16 +5559,16 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7285,
-      "Completed": 10
+      "Progressed": 7287,
+      "Completed": 11
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-02T04:02:27.6504223+00:00",
-  "LastChanged_Achievements": "2023-12-02T15:10:04.1456762+00:00",
+  "LastChanged_Achievements": "2023-12-02T16:10:13.6681958+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-02T14:57:18.4493536+00:00",
-  "LastUpdate_Achievements": "2023-12-02T15:10:04.1457157+00:00"
+  "LastUpdate_Ratings": "2023-12-02T15:57:52.6341298+00:00",
+  "LastUpdate_Achievements": "2023-12-02T16:10:13.6682449+00:00"
 }

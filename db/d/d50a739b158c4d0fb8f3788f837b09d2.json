@@ -4,7 +4,7 @@
   "ProductSlug": "barista-simulator-d284dd",
   "Ranking_EOS_Progress": 771,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewPlayers": 496,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-27T19:57:21.6310305+00:00",
-  "LastUpdate_Ratings": "2023-12-02T15:00:46.9584691+00:00",
-  "LastUpdate_Achievements": "2023-12-02T15:04:14.8504281+00:00"
+  "LastUpdate_Ratings": "2023-12-02T16:01:02.2995708+00:00",
+  "LastUpdate_Achievements": "2023-12-02T16:04:47.273341+00:00"
 }

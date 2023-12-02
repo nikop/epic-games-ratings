@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -471,9 +471,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3293,
+  "EOS_Progressed": 3294,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.1,
   "EosHistory": [
@@ -5056,6 +5056,11 @@
       "Time": "2023-12-02T14:04:30.8332652+00:00",
       "NumProgressed": 3293,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2023-12-02T16:05:50.4349717+00:00",
+      "NumProgressed": 3294,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 14,
@@ -5075,7 +5080,7 @@
       "Name": "Case Closed",
       "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -5091,7 +5096,7 @@
       "Name": "Climber",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -5131,7 +5136,7 @@
       "Name": "Imprisonment",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -5139,7 +5144,7 @@
       "Name": "Mad Scientist",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "ACH_REUNION",
@@ -5147,7 +5152,7 @@
       "Name": "Reunion",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -5155,7 +5160,7 @@
       "Name": "Shovel Night",
       "Percentage": 38,
       "XP": 55,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -5178,7 +5183,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3293,
+      "Progressed": 3294,
       "Completed": 135
     }
   ],
@@ -5186,8 +5191,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-11-18T13:02:58.1900278+00:00",
-  "LastChanged_Achievements": "2023-12-02T15:05:24.2891059+00:00",
+  "LastChanged_Achievements": "2023-12-02T16:05:50.4349702+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.1918151+00:00",
-  "LastUpdate_Ratings": "2023-12-02T15:01:35.87786+00:00",
-  "LastUpdate_Achievements": "2023-12-02T15:05:24.2891371+00:00"
+  "LastUpdate_Ratings": "2023-12-02T16:01:47.6101175+00:00",
+  "LastUpdate_Achievements": "2023-12-02T16:05:50.4350085+00:00"
 }

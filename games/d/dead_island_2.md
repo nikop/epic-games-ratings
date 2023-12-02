@@ -5,18 +5,18 @@ Rating: 4.54 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,636 |
-| Pork Chopped | 3.00% | ~1,636 |
-| Git Gutte! | 2.00% | ~14,580 |
-| Break A Leg | 2.00% | ~14,580 |
-| Coup de Grâce | 2.00% | ~14,580 |
-| Hazardous Materials | 2.00% | ~14,580 |
-| Friends Like These | 2.00% | ~14,580 |
-| Hotel California | 2.00% | ~14,580 |
-| Apex Predator | 2.00% | ~14,580 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,580 |
-| Welcome To Hell-A | 2.00% | ~14,580 |
-| One of Us | 2.00% | ~1,091 |
+| Whatever It Takes | 3.00% | ~1,637 |
+| Pork Chopped | 3.00% | ~1,637 |
+| Git Gutte! | 2.00% | ~14,581 |
+| Break A Leg | 2.00% | ~14,581 |
+| Coup de Grâce | 2.00% | ~14,581 |
+| Hazardous Materials | 2.00% | ~14,581 |
+| Friends Like These | 2.00% | ~14,581 |
+| Hotel California | 2.00% | ~14,581 |
+| Apex Predator | 2.00% | ~14,581 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,581 |
+| Welcome To Hell-A | 2.00% | ~14,581 |
+| One of Us | 2.00% | ~1,092 |
 | Dr. Reed, I Presume? | 1.00% | ~7,290 |
 | Anger Management | 1.00% | ~7,290 |
 | Perks of the Job | 1.00% | ~7,290 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 529)
 | Bucket List | 0.10% | ~729 |
 | Wilhelm | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 729,008 (Ranked 21)  
+Progressed: 729,038 (Ranked 21)  
 Completed: 2,459 (0.34%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,15 +283,15 @@ Completed: 2,459 (0.34%) (Ranked 232)
 | 2023-11-29 | 727,809 | 2,450 |
 | 2023-11-30 | 728,231 | 2,456 |
 | 2023-12-01 | 728,667 | 2,459 |
-| 2023-12-02 | 729,008 | 2,459 |
+| 2023-12-02 | 729,038 | 2,459 |
 ## Awards
 Max (Great Boss Battles): 7,869  (Ranked 49)  
-Sum: 12,065 (Ranked 83)  
+Sum: 12,068 (Ranked 83)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,869 |
-| This game is Great for Beginners | 609 |
+| This game is Great for Beginners | 612 |
 | This game has Diverse Characters | 579 |
 | This game has Quickly Understood Controls | 543 |
 | This game is Relaxing | 520 |
@@ -527,4 +527,4 @@ Diff (max vs sum): -34
 | 2023-11-29 | 4.54 | 7,803 | 11,961 |
 | 2023-11-30 | 4.54 | 7,821 | 11,987 |
 | 2023-12-01 | 4.54 | 7,845 | 12,026 |
-| 2023-12-02 | 4.54 | 7,869 | 12,065 |
+| 2023-12-02 | 4.54 | 7,869 | 12,068 |

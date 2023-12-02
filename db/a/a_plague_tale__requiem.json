@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -659,7 +659,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 14050,
+  "EOS_Progressed": 14051,
   "EOS_Completed": 55,
   "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
@@ -11869,6 +11869,11 @@
       "Time": "2023-12-02T15:04:08.3196216+00:00",
       "NumProgressed": 14050,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-12-02T16:04:41.2815562+00:00",
+      "NumProgressed": 14051,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 35,
@@ -11880,7 +11885,7 @@
       "Name": "Under a New Sun",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 13066
+      "UsersEstimate": 13067
     },
     {
       "ID": "ACH_02",
@@ -11896,7 +11901,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 10397
+      "UsersEstimate": 10398
     },
     {
       "ID": "ACH_04",
@@ -11912,7 +11917,7 @@
       "Name": "In our Wake",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 9694
+      "UsersEstimate": 9695
     },
     {
       "ID": "ACH_06",
@@ -11920,7 +11925,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 9273
+      "UsersEstimate": 9274
     },
     {
       "ID": "ACH_07",
@@ -11936,7 +11941,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 8711
+      "UsersEstimate": 8712
     },
     {
       "ID": "ACH_09",
@@ -11944,7 +11949,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 8149
+      "UsersEstimate": 8150
     },
     {
       "ID": "ACH_10",
@@ -11952,7 +11957,7 @@
       "Name": "Bloodline",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 7587
+      "UsersEstimate": 7588
     },
     {
       "ID": "ACH_11",
@@ -11960,7 +11965,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 7025
+      "UsersEstimate": 7026
     },
     {
       "ID": "ACH_12",
@@ -12008,7 +12013,7 @@
       "Name": "Knights!",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 2950
+      "UsersEstimate": 2951
     },
     {
       "ID": "ACH_18",
@@ -12024,7 +12029,7 @@
       "Name": "Ornithologist",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "ACH_20",
@@ -12064,7 +12069,7 @@
       "Name": "Handful of pockets",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1826
+      "UsersEstimate": 1827
     },
     {
       "ID": "ACH_25",
@@ -12096,7 +12101,7 @@
       "Name": "Alchemist",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 9694
+      "UsersEstimate": 9695
     },
     {
       "ID": "ACH_29",
@@ -12120,7 +12125,7 @@
       "Name": "Malignant",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_32",
@@ -12159,7 +12164,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 14050,
+      "Progressed": 14051,
       "Completed": 55
     }
   ],
@@ -12167,8 +12172,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-12-02T10:58:01.4582392+00:00",
-  "LastChanged_Achievements": "2023-12-02T15:04:08.3196211+00:00",
+  "LastChanged_Achievements": "2023-12-02T16:04:41.2815557+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:18.0182859+00:00",
-  "LastUpdate_Ratings": "2023-12-02T14:57:56.1237115+00:00",
-  "LastUpdate_Achievements": "2023-12-02T15:04:08.3197176+00:00"
+  "LastUpdate_Ratings": "2023-12-02T15:58:27.3202405+00:00",
+  "LastUpdate_Achievements": "2023-12-02T16:04:41.2816288+00:00"
 }

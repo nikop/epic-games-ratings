@@ -1514,9 +1514,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131520,
+  "EOS_Progressed": 131522,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 315,
+  "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -23599,6 +23599,11 @@
       "Time": "2023-12-02T15:05:47.2619773+00:00",
       "NumProgressed": 131520,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-02T16:06:11.9734692+00:00",
+      "NumProgressed": 131522,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -23714,7 +23719,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21043
+      "UsersEstimate": 21044
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -23722,7 +23727,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27619
+      "UsersEstimate": 27620
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -23746,7 +23751,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21043
+      "UsersEstimate": 21044
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -23929,15 +23934,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131520,
+      "Progressed": 131522,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-28T12:00:15.5937153+00:00",
-  "LastChanged_Achievements": "2023-12-02T15:05:47.2619769+00:00",
+  "LastChanged_Achievements": "2023-12-02T16:06:11.9734688+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:19.415585+00:00",
-  "LastUpdate_Ratings": "2023-12-02T14:57:38.9534971+00:00",
-  "LastUpdate_Achievements": "2023-12-02T15:05:47.2620875+00:00"
+  "LastUpdate_Ratings": "2023-12-02T15:58:11.4934583+00:00",
+  "LastUpdate_Achievements": "2023-12-02T16:06:11.973597+00:00"
 }

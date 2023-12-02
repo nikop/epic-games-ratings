@@ -2,7 +2,7 @@
   "ID": "63d0293742c943d68b88af4173b1a5d0",
   "Name": "Who\u0027s Your Daddy?!",
   "ProductSlug": "whos-your-daddy-403b04",
-  "Ranking_EOS_Progress": 346,
+  "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 131,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 331,
+  "EOS_Progressed": 332,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
@@ -1009,6 +1009,11 @@
       "Time": "2023-12-02T12:05:31.8508167+00:00",
       "NumProgressed": 331,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T16:07:22.9364957+00:00",
+      "NumProgressed": 332,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1061,7 +1066,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "9",
@@ -1077,7 +1082,7 @@
       "Name": "Turn a Rat into a Snack",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "REMAKE_002",
@@ -1085,7 +1090,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "REMAKE_004",
@@ -1093,7 +1098,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "Remake_005",
@@ -1109,7 +1114,7 @@
       "Name": "Attempted Vehicular Infanticide",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Remake_007",
@@ -1244,14 +1249,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 331,
+      "Progressed": 332,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-02T15:07:00.7097868+00:00",
+  "LastChanged_Achievements": "2023-12-02T16:07:22.9364954+00:00",
   "LastUpdate_AppInfo": "2023-11-27T21:57:11.1049797+00:00",
-  "LastUpdate_Ratings": "2023-12-02T15:02:31.126206+00:00",
-  "LastUpdate_Achievements": "2023-12-02T15:07:00.7098216+00:00"
+  "LastUpdate_Ratings": "2023-12-02T16:03:11.352223+00:00",
+  "LastUpdate_Achievements": "2023-12-02T16:07:22.9365135+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 699,
+  "EOS_Progressed": 700,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.57,
   "EosHistory": [
@@ -1820,6 +1820,11 @@
       "Time": "2023-12-01T22:08:59.7189502+00:00",
       "NumProgressed": 699,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-02T16:10:08.1855976+00:00",
+      "NumProgressed": 700,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 15,
@@ -1831,7 +1836,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "booty_call",
@@ -1855,7 +1860,7 @@
       "Name": "Digital Casanova",
       "Percentage": 97,
       "XP": 50,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "hold_my_beer",
@@ -1863,7 +1868,7 @@
       "Name": "Hold my Beer",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -1950,7 +1955,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 699,
+      "Progressed": 700,
       "Completed": 11
     }
   ],
@@ -1958,8 +1963,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-12-02T15:09:58.4476689+00:00",
+  "LastChanged_Achievements": "2023-12-02T16:10:08.1855972+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:08.7163399+00:00",
-  "LastUpdate_Ratings": "2023-12-02T14:59:39.942177+00:00",
-  "LastUpdate_Achievements": "2023-12-02T15:09:58.4476885+00:00"
+  "LastUpdate_Ratings": "2023-12-02T16:00:01.0942126+00:00",
+  "LastUpdate_Achievements": "2023-12-02T16:10:08.1856187+00:00"
 }

@@ -131,11 +131,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46570,
+  "EOS_Progressed": 46625,
   "EOS_Completed": 11759,
   "EOS_NewPlayers": 4795,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 25.25,
+  "EOS_Completed_Percentage": 25.22,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -11391,6 +11391,11 @@
       "Time": "2023-12-02T15:09:14.3583874+00:00",
       "NumProgressed": 46570,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-12-02T16:09:26.7843619+00:00",
+      "NumProgressed": 46625,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -11411,7 +11416,7 @@
       "Name": "First blood",
       "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 33530
+      "UsersEstimate": 33570
     },
     {
       "ID": "grenadeKills",
@@ -11427,7 +11432,7 @@
       "Name": "Head popping I",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1865
     },
     {
       "ID": "headshots1000",
@@ -11483,7 +11488,7 @@
       "Name": "Rifle Master",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "shotgunKills",
@@ -11514,7 +11519,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 46570,
+      "Progressed": 46625,
       "Completed": 11759
     }
   ],
@@ -11522,8 +11527,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2023-12-01T11:58:06.3582087+00:00",
-  "LastChanged_Achievements": "2023-12-02T15:09:14.358387+00:00",
-  "LastUpdate_AppInfo": "2023-11-25T15:57:00.4071215+00:00",
-  "LastUpdate_Ratings": "2023-12-02T14:59:14.2273778+00:00",
-  "LastUpdate_Achievements": "2023-12-02T15:09:14.3584577+00:00"
+  "LastChanged_Achievements": "2023-12-02T16:09:26.7843614+00:00",
+  "LastUpdate_AppInfo": "2023-12-02T15:57:24.022225+00:00",
+  "LastUpdate_Ratings": "2023-12-02T15:59:38.3690381+00:00",
+  "LastUpdate_Achievements": "2023-12-02T16:09:26.7844276+00:00"
 }

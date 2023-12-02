@@ -5,8 +5,8 @@ Rating: 4.43 (Ranked 696)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~59,401 |
-| This is only the beginning | 20.00% | ~45,693 |
+| No aid from the Omnissiah | 26.00% | ~59,402 |
+| This is only the beginning | 20.00% | ~45,694 |
 | Knowledge is power | 12.00% | ~27,416 |
 | Galvanic Rifle | 10.00% | ~22,847 |
 | Power Ranger | 9.00% | ~20,562 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 696)
 | Perma-live | 0.10% | ~228 |
 | Purge the Heretek | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,466 (Ranked 70)  
+Progressed: 228,469 (Ranked 70)  
 Completed: 5 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,10 +266,10 @@ Completed: 5 (0.00%) (Ranked 365)
 | 2023-11-29 | 228,265 | 5 |
 | 2023-11-30 | 228,337 | 5 |
 | 2023-12-01 | 228,424 | 5 |
-| 2023-12-02 | 228,466 | 5 |
+| 2023-12-02 | 228,469 | 5 |
 ## Awards
 Max (Highly Recommended): 291  (Ranked 258)  
-Sum: 2,203 (Ranked 206)  
+Sum: 2,204 (Ranked 206)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
@@ -280,7 +280,7 @@ Diff (max vs sum): 52
 | This game has Diverse Characters | 269 |
 | This game has Amazing Storytelling | 250 |
 | This game is Relaxing | 243 |
-| This game has Unique Visuals | 215 |
+| This game has Unique Visuals | 216 |
 | This game has a Creative Community | 101 |
 | This game is Great for Beginners | 63 |
 ## Ratings History
@@ -385,4 +385,4 @@ Diff (max vs sum): 52
 | 2023-11-28 | 4.43 | 290 | 2,200 |
 | 2023-11-29 | 4.43 | 290 | 2,201 |
 | 2023-11-30 | 4.43 | 291 | 2,202 |
-| 2023-12-02 | 4.43 | 291 | 2,203 |
+| 2023-12-02 | 4.43 | 291 | 2,204 |

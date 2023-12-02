@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
     "PcReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -5067,10 +5067,10 @@
       "Count": 393
     }
   ],
-  "EOS_Progressed": 232884,
+  "EOS_Progressed": 232952,
   "EOS_Completed": 547,
-  "EOS_NewPlayers": 5060,
-  "EOS_NewCompleters": 25,
+  "EOS_NewPlayers": 5070,
+  "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -21017,6 +21017,11 @@
       "Time": "2023-12-02T15:09:20.001229+00:00",
       "NumProgressed": 232884,
       "NumCompleted": 547
+    },
+    {
+      "Time": "2023-12-02T16:09:31.9784747+00:00",
+      "NumProgressed": 232952,
+      "NumCompleted": 547
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21029,7 +21034,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -21109,7 +21114,7 @@
       "Name": "The Killing Jar",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -21213,7 +21218,7 @@
       "Name": "First of Many",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -21333,7 +21338,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "Obtain_Traits_B",
@@ -21429,7 +21434,7 @@
       "Name": "Regicide",
       "Percentage": 0.7,
       "XP": 75,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -21445,7 +21450,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -21468,13 +21473,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 232884,
+      "Progressed": 232952,
       "Completed": 547
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 12049,
+      "Progressed": 12117,
       "Completed": 179
     }
   ],
@@ -21482,8 +21487,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-02T15:03:29.3831221+00:00",
-  "LastChanged_Achievements": "2023-12-02T15:09:20.0012287+00:00",
+  "LastChanged_Achievements": "2023-12-02T16:09:31.9784744+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-12-02T15:03:29.3831229+00:00",
-  "LastUpdate_Achievements": "2023-12-02T15:09:20.001325+00:00"
+  "LastUpdate_Ratings": "2023-12-02T16:04:04.5535243+00:00",
+  "LastUpdate_Achievements": "2023-12-02T16:09:31.978574+00:00"
 }

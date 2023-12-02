@@ -7283,10 +7283,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27646,
       "NumberOfAwardsMax": 4859
+    },
+    {
+      "Time": "2023-12-02T16:03:49.5989491+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27647,
+      "NumberOfAwardsMax": 4859
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27646,
+  "NumberOfAwards": 27647,
   "NumberOfAwardsMax": 4859,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7312,7 +7318,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 3735
+      "Count": 3736
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7339,9 +7345,9 @@
       "Count": 3789
     }
   ],
-  "EOS_Progressed": 143400,
+  "EOS_Progressed": 143411,
   "EOS_Completed": 290,
-  "EOS_NewPlayers": 1467,
+  "EOS_NewPlayers": 1455,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -30774,6 +30780,11 @@
       "Time": "2023-12-02T15:06:44.1213561+00:00",
       "NumProgressed": 143400,
       "NumCompleted": 290
+    },
+    {
+      "Time": "2023-12-02T16:07:07.8111815+00:00",
+      "NumProgressed": 143411,
+      "NumCompleted": 290
     }
   ],
   "TotalAchievements": 112,
@@ -30953,7 +30964,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10038
+      "UsersEstimate": 10039
     },
     {
       "ID": "chest02",
@@ -31017,7 +31028,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8604
+      "UsersEstimate": 8605
     },
     {
       "ID": "commonres02",
@@ -31049,7 +31060,7 @@
       "Name": "Disintermediation",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7170
+      "UsersEstimate": 7171
     },
     {
       "ID": "craft02",
@@ -31257,7 +31268,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8604
+      "UsersEstimate": 8605
     },
     {
       "ID": "gold02",
@@ -31561,7 +31572,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7170
+      "UsersEstimate": 7171
     },
     {
       "ID": "sell02",
@@ -31601,7 +31612,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10038
+      "UsersEstimate": 10039
     },
     {
       "ID": "twinenchant01",
@@ -31680,15 +31691,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 143400,
+      "Progressed": 143411,
       "Completed": 290
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-12-02T14:02:51.0940335+00:00",
-  "LastChanged_Achievements": "2023-12-02T15:06:44.1213556+00:00",
+  "LastChanged": "2023-12-02T16:03:49.5989489+00:00",
+  "LastChanged_Achievements": "2023-12-02T16:07:07.8111812+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-12-02T15:03:13.3019789+00:00",
-  "LastUpdate_Achievements": "2023-12-02T15:06:44.1215813+00:00"
+  "LastUpdate_Ratings": "2023-12-02T16:03:49.5989494+00:00",
+  "LastUpdate_Achievements": "2023-12-02T16:07:07.811399+00:00"
 }
