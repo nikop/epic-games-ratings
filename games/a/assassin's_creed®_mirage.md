@@ -4,7 +4,7 @@
 Rating: 4.44 (Ranked 680)  
 ## Awards
 Max (Relaxing): 169  (Ranked 309)  
-Sum: 1,251 (Ranked 244)  
+Sum: 1,252 (Ranked 244)  
 Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): 65
 | This game has Diverse Characters | 139 |
 | This game has Amazing Storytelling | 128 |
 | This game has Amazing Characters | 127 |
-| This game has a Creative Community | 67 |
+| This game has a Creative Community | 68 |
 | This game has Beautiful Visuals | 54 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -78,4 +78,4 @@ Diff (max vs sum): 65
 | 2023-11-29 | 4.44 | 162 | 1,366 |
 | 2023-11-30 | 4.44 | 163 | 1,375 |
 | 2023-12-01 | 4.44 | 169 | 1,385 |
-| 2023-12-02 | 4.44 | 169 | 1,251 |
+| 2023-12-02 | 4.44 | 169 | 1,252 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 268,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4489,7 +4489,7 @@
   ],
   "EOS_Progressed": 77553,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 494,
+  "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25138,9 +25138,9 @@
       "ID": "MYSTERY_01",
       "SetID": "4eo5ebm",
       "Name": "Loose Ends",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 26368
+      "UsersEstimate": 25592
     },
     {
       "ID": "MYSTERY_02",
@@ -25249,8 +25249,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-02T02:19:40.4366694+00:00",
-  "LastChanged_Achievements": "2023-12-02T07:05:19.6362855+00:00",
+  "LastChanged_Achievements": "2023-12-02T08:05:17.1047453+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:48.4544768+00:00",
-  "LastUpdate_Ratings": "2023-12-02T06:59:50.321648+00:00",
-  "LastUpdate_Achievements": "2023-12-02T07:05:19.6364267+00:00"
+  "LastUpdate_Ratings": "2023-12-02T07:59:43.4926763+00:00",
+  "LastUpdate_Achievements": "2023-12-02T08:05:17.104861+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -79,9 +79,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 714,
+  "EOS_Progressed": 715,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1654,6 +1654,11 @@
       "Time": "2023-12-02T05:09:38.1526824+00:00",
       "NumProgressed": 714,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T08:09:21.7197862+00:00",
+      "NumProgressed": 715,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1706,7 +1711,7 @@
       "Name": "Vehicle Builder",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "achievement_15",
@@ -1730,7 +1735,7 @@
       "Name": "Your first time?",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "achievement_18",
@@ -1754,7 +1759,7 @@
       "Name": "Team Principal",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "achievement_20",
@@ -1818,7 +1823,7 @@
       "Name": "Rookie Season",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "achievement_4",
@@ -1848,9 +1853,9 @@
       "ID": "achievement_7",
       "SetID": "jnappp",
       "Name": "NEW PB!",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 228
+      "UsersEstimate": 222
     },
     {
       "ID": "achievement_8",
@@ -1873,7 +1878,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 714,
+      "Progressed": 715,
       "Completed": 0
     }
   ],
@@ -1881,8 +1886,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-12-01T17:57:44.0180052+00:00",
-  "LastChanged_Achievements": "2023-12-02T07:09:29.4315459+00:00",
+  "LastChanged_Achievements": "2023-12-02T08:09:21.7197858+00:00",
   "LastUpdate_AppInfo": "2023-11-28T21:56:52.2952246+00:00",
-  "LastUpdate_Ratings": "2023-12-02T06:57:57.0302671+00:00",
-  "LastUpdate_Achievements": "2023-12-02T07:09:29.4315653+00:00"
+  "LastUpdate_Ratings": "2023-12-02T07:57:52.4255399+00:00",
+  "LastUpdate_Achievements": "2023-12-02T08:09:21.7198034+00:00"
 }

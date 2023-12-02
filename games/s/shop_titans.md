@@ -10,8 +10,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Titan's First Steps | 7.00% | ~10,033 |
 | Basic in Bulk | 6.00% | ~8,600 |
 | Tinkle of Coins | 6.00% | ~8,600 |
-| Disintermediation | 5.00% | ~7,166 |
-| Capitalism Ho! | 5.00% | ~7,166 |
+| Disintermediation | 5.00% | ~7,167 |
+| Capitalism Ho! | 5.00% | ~7,167 |
 | One Easy Payment | 4.00% | ~5,733 |
 | Some Assembly Required | 4.00% | ~5,733 |
 | Another Satisfied Customer | 4.00% | ~5,733 |
@@ -20,6 +20,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Own the Means of Production | 4.00% | ~5,733 |
 | The Daily Grind | 3.00% | ~4,300 |
 | Bounty Hunters | 3.00% | ~4,300 |
+| Demand for Supplies | 3.00% | ~4,300 |
 | Flooding the Market | 3.00% | ~4,300 |
 | Where it Hurts | 3.00% | ~4,300 |
 | Pretty Penny | 3.00% | ~4,300 |
@@ -39,7 +40,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | For the Hoard! | 2.00% | ~2,867 |
 | Blank Page Syndrome | 2.00% | ~2,867 |
 | Scrapbooker | 2.00% | ~2,867 |
-| Demand for Supplies | 2.00% | ~2,867 |
 | Locally Sourced | 2.00% | ~2,867 |
 | Flying off the Shelves | 2.00% | ~2,867 |
 | This Power Level...! | 2.00% | ~2,867 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~430 |
 | Capitalist Camaraderie | 0.20% | ~287 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 143,327 (Ranked 80)  
+Progressed: 143,335 (Ranked 80)  
 Completed: 290 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,7 +345,7 @@ Completed: 290 (0.20%) (Ranked 258)
 | 2023-11-29 | 142,879 | 289 |
 | 2023-11-30 | 143,035 | 290 |
 | 2023-12-01 | 143,280 | 290 |
-| 2023-12-02 | 143,327 | 290 |
+| 2023-12-02 | 143,335 | 290 |
 ## Awards
 Max (Great for Beginners): 4,859  (Ranked 75)  
 Sum: 27,645 (Ranked 50)  

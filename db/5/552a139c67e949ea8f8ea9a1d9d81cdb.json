@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1239,
+  "EOS_Progressed": 1240,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2762,6 +2762,11 @@
       "Time": "2023-12-02T07:05:11.0975589+00:00",
       "NumProgressed": 1239,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T08:05:08.5917954+00:00",
+      "NumProgressed": 1240,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2774,7 +2779,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2782,7 +2787,7 @@
       "Name": "Acrobat",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -3054,7 +3059,7 @@
       "Name": "Perfectionist",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -3110,27 +3115,27 @@
       "Name": "Mission complete",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1239,
+      "Progressed": 1240,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 907,
-      "Completed": 907
+      "Progressed": 908,
+      "Completed": 908
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-02T07:05:11.0975587+00:00",
+  "LastChanged_Achievements": "2023-12-02T08:05:08.591795+00:00",
   "LastUpdate_AppInfo": "2023-11-30T02:56:57.3535816+00:00",
-  "LastUpdate_Ratings": "2023-12-02T06:58:14.3002541+00:00",
-  "LastUpdate_Achievements": "2023-12-02T07:05:11.0975922+00:00"
+  "LastUpdate_Ratings": "2023-12-02T07:58:09.9267825+00:00",
+  "LastUpdate_Achievements": "2023-12-02T08:05:08.5918371+00:00"
 }

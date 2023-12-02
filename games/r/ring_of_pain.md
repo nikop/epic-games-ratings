@@ -13,6 +13,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Getting A Glimpse | 0.50% | ~1,202 |
 | Defeat The Dark | 0.50% | ~1,202 |
 | A Quick Escape | 0.50% | ~1,202 |
+| Explorer | 0.50% | ~1,202 |
 | An Offering | 0.50% | ~1,202 |
 | Ambitious Intent | 0.40% | ~962 |
 | Nothing To Lose | 0.40% | ~962 |
@@ -32,7 +33,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | C-C-Combo | 0.40% | ~962 |
 | Deflection | 0.40% | ~962 |
 | Toxic | 0.40% | ~962 |
-| Explorer | 0.40% | ~962 |
 | Sneaky | 0.40% | ~962 |
 | Expensive Look | 0.40% | ~8 |
 | What Doesn't Kill You | 0.40% | ~8 |

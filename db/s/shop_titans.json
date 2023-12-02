@@ -7333,9 +7333,9 @@
       "Count": 3789
     }
   ],
-  "EOS_Progressed": 143327,
+  "EOS_Progressed": 143335,
   "EOS_Completed": 290,
-  "EOS_NewPlayers": 1540,
+  "EOS_NewPlayers": 1538,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -30728,6 +30728,11 @@
       "Time": "2023-12-02T07:05:10.9078097+00:00",
       "NumProgressed": 143327,
       "NumCompleted": 290
+    },
+    {
+      "Time": "2023-12-02T08:05:08.5029876+00:00",
+      "NumProgressed": 143335,
+      "NumCompleted": 290
     }
   ],
   "TotalAchievements": 112,
@@ -30977,9 +30982,9 @@
       "ID": "commonres02",
       "SetID": "anfd17p",
       "Name": "Demand for Supplies",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2867
+      "UsersEstimate": 4300
     },
     {
       "ID": "commonres03",
@@ -31003,7 +31008,7 @@
       "Name": "Disintermediation",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7166
+      "UsersEstimate": 7167
     },
     {
       "ID": "craft02",
@@ -31515,7 +31520,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7166
+      "UsersEstimate": 7167
     },
     {
       "ID": "sell02",
@@ -31634,15 +31639,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 143327,
+      "Progressed": 143335,
       "Completed": 290
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-02T01:45:50.8831877+00:00",
-  "LastChanged_Achievements": "2023-12-02T07:05:10.9078095+00:00",
+  "LastChanged_Achievements": "2023-12-02T08:05:08.502987+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-12-02T07:02:55.1699006+00:00",
-  "LastUpdate_Achievements": "2023-12-02T07:05:10.9079905+00:00"
+  "LastUpdate_Ratings": "2023-12-02T08:02:54.6261388+00:00",
+  "LastUpdate_Achievements": "2023-12-02T08:05:08.5031806+00:00"
 }

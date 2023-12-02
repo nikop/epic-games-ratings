@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 372,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -2139,9 +2139,9 @@
       "ID": "ACH_FIRE_AND_BRIMSTONE",
       "SetID": "108h92c",
       "Name": "Fire and Brimstone",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_GECKO_GOAL_GETTER",
@@ -2252,8 +2252,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-11-20T03:58:42.1118377+00:00",
-  "LastChanged_Achievements": "2023-12-02T07:08:33.0375998+00:00",
+  "LastChanged_Achievements": "2023-12-02T08:08:26.9300042+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:09.8904594+00:00",
-  "LastUpdate_Ratings": "2023-12-02T06:57:43.7333939+00:00",
-  "LastUpdate_Achievements": "2023-12-02T07:08:33.0376232+00:00"
+  "LastUpdate_Ratings": "2023-12-02T07:57:39.2336966+00:00",
+  "LastUpdate_Achievements": "2023-12-02T08:08:26.9300277+00:00"
 }

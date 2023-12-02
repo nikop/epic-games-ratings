@@ -31,8 +31,8 @@
 | The Cathedral of Light | 39.00% | ~200 |
 | Mana Cannon | 38.00% | ~195 |
 | Tanos' Crusade Against Thalya | 35.00% | ~180 |
+| Unstoppable Horde | 29.00% | ~149 |
 | All’s Well That Ends Evil | 29.00% | ~149 |
-| Unstoppable Horde | 28.00% | ~144 |
 | Master of the Undead | 27.00% | ~139 |
 | The Duel | 26.00% | ~133 |
 | Forbidden Knowledge | 24.00% | ~123 |

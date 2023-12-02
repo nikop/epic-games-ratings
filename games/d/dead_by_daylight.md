@@ -6,17 +6,17 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.70% | ~7,421 |
-| Skillful | 0.60% | ~6,361 |
+| It wakes | 0.70% | ~7,422 |
+| Skillful | 0.60% | ~6,362 |
 | Zealous | 0.50% | ~5,301 |
 | Not half bad | 0.50% | ~5,301 |
 | I | 0.50% | ~5,301 |
+| Make Some Noise | 0.50% | ~5,301 |
 | Handyman | 0.40% | ~4,241 |
 | Apt Survivor | 0.40% | ~4,241 |
 | Survival Treasures | 0.40% | ~4,241 |
 | Sorted | 0.40% | ~4,241 |
 | Resurgence | 0.40% | ~4,241 |
-| Make Some Noise | 0.40% | ~4,241 |
 | The Grand Sacrifice | 0.30% | ~3,181 |
 | Agonizing Escape | 0.30% | ~3,181 |
 | Backdoor Escape | 0.30% | ~3,181 |
@@ -32,24 +32,25 @@ Number of Ratings: 70,340  (23.09.2022)
 | Close Shave | 0.30% | ~3,181 |
 | Preemptive Strike | 0.30% | ~3,181 |
 | Humanitarian | 0.30% | ~3,181 |
-| Blood on your hands | 0.20% | ~2,120 |
-| Escape Artist | 0.20% | ~2,120 |
-| Gifts for the Fog | 0.20% | ~2,120 |
-| Apt Killer | 0.20% | ~2,120 |
-| Vulture | 0.20% | ~2,120 |
-| III | 0.20% | ~2,120 |
-| III-50 | 0.20% | ~2,120 |
-| Engineer | 0.20% | ~2,120 |
-| Wounded Healer | 0.20% | ~2,120 |
-| First to the Punch | 0.20% | ~2,120 |
-| Operation: Survival | 0.20% | ~2,120 |
-| Old West Oasis | 0.20% | ~2,120 |
-| Every Last Drop | 0.20% | ~2,120 |
-| Raccoon City Recruit | 0.20% | ~2,120 |
-| With Scars to Show | 0.20% | ~2,120 |
-| Flight to Freedom | 0.20% | ~2,120 |
-| Lifting The Fog | 0.20% | ~2,120 |
-| Second Act | 0.20% | ~2,120 |
+| Blood on your hands | 0.20% | ~2,121 |
+| Escape Artist | 0.20% | ~2,121 |
+| Gifts for the Fog | 0.20% | ~2,121 |
+| Apt Killer | 0.20% | ~2,121 |
+| Vulture | 0.20% | ~2,121 |
+| III | 0.20% | ~2,121 |
+| III-50 | 0.20% | ~2,121 |
+| Engineer | 0.20% | ~2,121 |
+| Unforgettable Getaway | 0.20% | ~2,121 |
+| Wounded Healer | 0.20% | ~2,121 |
+| First to the Punch | 0.20% | ~2,121 |
+| Operation: Survival | 0.20% | ~2,121 |
+| Old West Oasis | 0.20% | ~2,121 |
+| Every Last Drop | 0.20% | ~2,121 |
+| Raccoon City Recruit | 0.20% | ~2,121 |
+| With Scars to Show | 0.20% | ~2,121 |
+| Flight to Freedom | 0.20% | ~2,121 |
+| Lifting The Fog | 0.20% | ~2,121 |
+| Second Act | 0.20% | ~2,121 |
 | A bite for the Entity | 0.10% | ~1,060 |
 | A feast for the Entity | 0.10% | ~1,060 |
 | Blood on your face | 0.10% | ~1,060 |
@@ -129,7 +130,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Deranged Pursuit | 0.10% | ~1,060 |
 | Adept Legion | 0.10% | ~1,060 |
 | Dismantle | 0.10% | ~1,060 |
-| Unforgettable Getaway | 0.10% | ~1,060 |
 | Adept Jeff | 0.10% | ~1,060 |
 | Devoted Gatekeeping | 0.10% | ~1,060 |
 | Terminal Illness | 0.10% | ~1,060 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,060 |
 | Adept Good Guy | 0.10% | ~1,060 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,060,190 (Ranked 14)  
+Progressed: 1,060,268 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -465,7 +465,7 @@ Completed: 61 (0.01%) (Ranked 344)
 | 2023-11-29 | 1,053,910 | 61 |
 | 2023-11-30 | 1,056,530 | 61 |
 | 2023-12-01 | 1,059,298 | 61 |
-| 2023-12-02 | 1,060,190 | 61 |
+| 2023-12-02 | 1,060,268 | 61 |
 ## Awards
 Max (Diverse Characters): 37,031  (Ranked 15)  
 Sum: 281,537 (Ranked 12)  

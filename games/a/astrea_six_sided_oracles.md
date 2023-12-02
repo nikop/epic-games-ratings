@@ -14,15 +14,15 @@
 | Wild's Keeper | 36.00% | ~35 |
 | Noctuan Champion | 36.00% | ~35 |
 | Stellar Dismantler | 32.00% | ~31 |
+| Lacertian Champion | 30.00% | ~29 |
+| Anomaly Destroyer | 29.00% | ~28 |
 | Eridanian Champion | 29.00% | ~28 |
-| Lacertian Champion | 29.00% | ~28 |
-| Anomaly Destroyer | 28.00% | ~27 |
 | Star Killer | 25.00% | ~24 |
 | Apian Champion | 25.00% | ~24 |
 | Astral Adventurer | 24.00% | ~23 |
 | Loyal Partner | 24.00% | ~23 |
 | Behenian Champion | 22.00% | ~21 |
-| Shard Spender | 19.00% | ~18 |
+| Shard Spender | 20.00% | ~19 |
 | Unbeatable | 18.00% | ~17 |
 | Aquarian Champion | 17.00% | ~16 |
 | Astral Seeker | 15.00% | ~14 |

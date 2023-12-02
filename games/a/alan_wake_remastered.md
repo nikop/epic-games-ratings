@@ -6,41 +6,41 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 58.00% | ~56,277 |
-| Let There Be Light | 49.00% | ~47,545 |
-| Float Like a Butterfly | 47.00% | ~45,604 |
-| Nordic Walking | 39.00% | ~37,842 |
-| Bright Falls' Finest | 38.00% | ~36,871 |
-| Under a Thin Layer of Skin | 34.00% | ~32,990 |
-| Paging Mr. Wake | 29.00% | ~28,139 |
-| Park Ranger | 28.00% | ~27,168 |
-| Back! Back, I Say! | 27.00% | ~26,198 |
-| Finders Keepers | 27.00% | ~26,198 |
+| Follow the Light | 58.00% | ~56,279 |
+| Let There Be Light | 49.00% | ~47,546 |
+| Float Like a Butterfly | 47.00% | ~45,606 |
+| Nordic Walking | 39.00% | ~37,843 |
+| Bright Falls' Finest | 38.00% | ~36,873 |
+| Under a Thin Layer of Skin | 34.00% | ~32,991 |
+| Paging Mr. Wake | 29.00% | ~28,140 |
+| Park Ranger | 28.00% | ~27,169 |
+| Back! Back, I Say! | 27.00% | ~26,199 |
+| Finders Keepers | 27.00% | ~26,199 |
 | Damn Good Cup of Coffee | 25.00% | ~24,258 |
-| They're Heeeeeere! | 24.00% | ~23,287 |
-| Sound and Fury | 24.00% | ~23,287 |
-| Missed by a Mile | 24.00% | ~23,287 |
-| Wheels Within Wheels | 23.00% | ~22,317 |
+| They're Heeeeeere! | 24.00% | ~23,288 |
+| Sound and Fury | 24.00% | ~23,288 |
+| Missed by a Mile | 24.00% | ~23,288 |
+| Wheels Within Wheels | 23.00% | ~22,318 |
 | The Six-Gun Scribe | 22.00% | ~21,347 |
-| Iron Horse | 21.00% | ~20,376 |
-| Collateral Carnage | 21.00% | ~20,376 |
-| Come One, Come All | 21.00% | ~20,376 |
-| Heavy Metal | 20.00% | ~19,406 |
-| Perchance to Dream | 20.00% | ~19,406 |
+| Iron Horse | 21.00% | ~20,377 |
+| Collateral Carnage | 21.00% | ~20,377 |
+| Come One, Come All | 21.00% | ~20,377 |
+| Heavy Metal | 20.00% | ~19,407 |
+| Perchance to Dream | 20.00% | ~19,407 |
 | It's Not Just a Typewriter Brand | 19.00% | ~18,436 |
 | Thunder and Lightning | 19.00% | ~18,436 |
-| Gatekeeper | 18.00% | ~17,465 |
-| Two For the Price of One | 18.00% | ~17,465 |
-| The Lady of the Light | 17.00% | ~16,495 |
-| Energized! | 17.00% | ~16,495 |
-| Right of Way | 15.00% | ~14,554 |
-| What Light Through Yonder Window | 14.00% | ~13,584 |
+| Gatekeeper | 18.00% | ~17,466 |
+| Two For the Price of One | 18.00% | ~17,466 |
+| The Lady of the Light | 17.00% | ~16,496 |
+| Energized! | 17.00% | ~16,496 |
+| Right of Way | 15.00% | ~14,555 |
+| What Light Through Yonder Window | 14.00% | ~13,585 |
 | Tornado Wrangler | 13.00% | ~12,614 |
 | Departure | 12.00% | ~11,644 |
 | Hardboiled Writer | 10.00% | ~9,703 |
 | A Friend in Need | 10.00% | ~6,050 |
 | Drink 'Em Both Up | 9.00% | ~8,733 |
-| Children of the Elder God | 8.00% | ~7,762 |
+| Children of the Elder God | 8.00% | ~7,763 |
 | Boob Tube | 7.00% | ~6,792 |
 | If It Flies, It Burns | 7.00% | ~6,792 |
 | KBF-FM | 7.00% | ~6,792 |
@@ -55,26 +55,26 @@ Number of Ratings: 524  (23.09.2022)
 | Couch Potato | 2.00% | ~1,941 |
 | Iron Will | 2.00% | ~1,210 |
 | Go Gentle Into That Good Light | 1.00% | ~605 |
-| Words Will Never Harm You | 0.70% | ~423 |
+| Words Will Never Harm You | 0.70% | ~424 |
 | Meet the Deadline | 0.60% | ~582 |
 | Fast and Furious | 0.60% | ~363 |
 | Cardboard Companions | 0.60% | ~363 |
 | Alan, Wake Up | 0.50% | ~485 |
 | Picking Up After Yourself | 0.50% | ~485 |
-| License Revoked | 0.50% | ~302 |
-| Whirlwind | 0.50% | ~302 |
-| Creative Space | 0.50% | ~302 |
+| License Revoked | 0.50% | ~303 |
+| Whirlwind | 0.50% | ~303 |
+| Creative Space | 0.50% | ~303 |
 | Bright Falls Aficionado | 0.40% | ~388 |
 | Run-On Sentence | 0.40% | ~242 |
 | Gunless Wonder | 0.30% | ~291 |
 | Every Nook and Cranny | 0.30% | ~291 |
-| Tick Tock | 0.30% | ~181 |
+| Tick Tock | 0.30% | ~182 |
 | Collector's Edition | 0.20% | ~194 |
 | Hypercaffeinated | 0.20% | ~194 |
 | No Punctuation | 0.20% | ~121 |
 | Licensed Properties | 0.20% | ~121 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,030 (Ranked 90)  
+Progressed: 97,033 (Ranked 90)  
 Completed: 106 (0.11%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 106 (0.11%) (Ranked 283)
 | 2023-11-29 | 96,741 | 105 |
 | 2023-11-30 | 96,867 | 106 |
 | 2023-12-01 | 96,988 | 106 |
-| 2023-12-02 | 97,030 | 106 |
+| 2023-12-02 | 97,033 | 106 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -16,13 +16,13 @@
 | Survival ✔ | 9.00% | ~26 |
 | Hospital ✔ | 8.00% | ~23 |
 | Thirst ✔ | 8.00% | ~23 |
+| Antivirus ✔ | 7.00% | ~20 |
 | Betty ✔ | 7.00% | ~20 |
+| Cheats ✔ | 7.00% | ~20 |
 | City ✔ | 7.00% | ~20 |
 | Fraternal help ✔ | 7.00% | ~20 |
 | Alice ✔ | 6.00% | ~17 |
-| Antivirus ✔ | 6.00% | ~17 |
 | Brain ✔ | 6.00% | ~17 |
-| Cheats ✔ | 6.00% | ~17 |
 | Eva ✔ | 6.00% | ~17 |
 | Food ✔ | 6.00% | ~17 |
 | King of survival ✔ | 6.00% | ~17 |

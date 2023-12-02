@@ -23,7 +23,7 @@
 | Flying Objects Operator | 12.00% | ~58 |
 | I remember everything! | 11.00% | ~53 |
 | Violent solution | 8.00% | ~39 |
-| Another giant | 7.00% | ~34 |
+| Another giant | 8.00% | ~39 |
 | Innate curiosity | 7.00% | ~34 |
 | The Invincible | 6.00% | ~29 |
 | I leave no man behind | 6.00% | ~29 |

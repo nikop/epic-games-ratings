@@ -4,8 +4,8 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 399,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1065,9 +1065,9 @@
       "ID": "FISH_COIN_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Ticket to Tranquility",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 72
     },
     {
       "ID": "GET_FISH_ALL",
@@ -1264,8 +1264,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-02T07:08:40.7896582+00:00",
+  "LastChanged_Achievements": "2023-12-02T08:08:34.5170072+00:00",
   "LastUpdate_AppInfo": "2023-11-28T17:56:55.9843317+00:00",
-  "LastUpdate_Ratings": "2023-12-02T07:02:50.9815042+00:00",
-  "LastUpdate_Achievements": "2023-12-02T07:08:40.7896829+00:00"
+  "LastUpdate_Ratings": "2023-12-02T08:02:50.4720114+00:00",
+  "LastUpdate_Achievements": "2023-12-02T08:08:34.5170485+00:00"
 }

@@ -13256,9 +13256,9 @@
       "Count": 27430
     }
   ],
-  "EOS_Progressed": 1060190,
+  "EOS_Progressed": 1060268,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 17568,
+  "EOS_NewPlayers": 17591,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39191,6 +39191,11 @@
       "Time": "2023-12-02T07:09:37.688718+00:00",
       "NumProgressed": 1060190,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-02T08:09:30.0471273+00:00",
+      "NumProgressed": 1060268,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 232,
@@ -39226,7 +39231,7 @@
       "Name": "Blood on your hands",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "ACH_005",
@@ -39274,7 +39279,7 @@
       "Name": "Escape Artist",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "ACH_011",
@@ -39378,7 +39383,7 @@
       "Name": "It wakes",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 7421
+      "UsersEstimate": 7422
     },
     {
       "ID": "ACH_024",
@@ -39402,7 +39407,7 @@
       "Name": "Gifts for the Fog",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "ACH_027",
@@ -39418,7 +39423,7 @@
       "Name": "Apt Killer",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "ACH_029",
@@ -39442,7 +39447,7 @@
       "Name": "Vulture",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "ACH_032",
@@ -39506,7 +39511,7 @@
       "Name": "Skillful",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 6361
+      "UsersEstimate": 6362
     },
     {
       "ID": "ACH_040",
@@ -39530,7 +39535,7 @@
       "Name": "III",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "ACH_043",
@@ -39538,7 +39543,7 @@
       "Name": "III-50",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "ACH_044",
@@ -39666,7 +39671,7 @@
       "Name": "Engineer",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "ACH_060",
@@ -40056,9 +40061,9 @@
       "ID": "ACH_108",
       "SetID": "16jml5b",
       "Name": "Unforgettable Getaway",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1060
+      "UsersEstimate": 2121
     },
     {
       "ID": "ACH_109",
@@ -40098,7 +40103,7 @@
       "Name": "Wounded Healer",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "ACH_114",
@@ -40202,7 +40207,7 @@
       "Name": "First to the Punch",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "ACH_130",
@@ -40218,7 +40223,7 @@
       "Name": "Operation: Survival",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "ACH_132",
@@ -40314,7 +40319,7 @@
       "Name": "Old West Oasis",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "ACH_144",
@@ -40410,7 +40415,7 @@
       "Name": "Every Last Drop",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "ACH_156",
@@ -40554,7 +40559,7 @@
       "Name": "Raccoon City Recruit",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "ACH_174",
@@ -40650,7 +40655,7 @@
       "Name": "With Scars to Show",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "ACH_186",
@@ -40658,7 +40663,7 @@
       "Name": "Flight to Freedom",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "ACH_187",
@@ -40850,7 +40855,7 @@
       "Name": "Lifting The Fog",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "ACH_211",
@@ -40962,15 +40967,15 @@
       "Name": "Second Act",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "ACH_225",
       "SetID": "16jml5b",
       "Name": "Make Some Noise",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 4241
+      "UsersEstimate": 5301
     },
     {
       "ID": "ACH_226",
@@ -41057,21 +41062,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1060190,
+      "Progressed": 1060268,
       "Completed": 66
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1060190,
+      "Progressed": 1060268,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-12-01T23:01:12.6349287+00:00",
-  "LastChanged_Achievements": "2023-12-02T07:09:37.6887175+00:00",
+  "LastChanged_Achievements": "2023-12-02T08:09:30.0471269+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:00.7078103+00:00",
-  "LastUpdate_Ratings": "2023-12-02T06:59:52.4550166+00:00",
-  "LastUpdate_Achievements": "2023-12-02T07:09:37.6892159+00:00"
+  "LastUpdate_Ratings": "2023-12-02T07:59:45.595949+00:00",
+  "LastUpdate_Achievements": "2023-12-02T08:09:30.0476289+00:00"
 }

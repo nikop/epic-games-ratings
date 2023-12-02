@@ -7,19 +7,19 @@
 | Act of Kindness | 89.00% | ~40 |
 | Air Fighter | 87.00% | ~39 |
 | Oo-De-Lally | 76.00% | ~34 |
-| The Altruist | 69.00% | ~31 |
-| Treasure Hunter | 64.00% | ~29 |
-| Tap Dancing | 58.00% | ~26 |
+| The Altruist | 71.00% | ~32 |
+| Treasure Hunter | 67.00% | ~30 |
+| Tap Dancing | 60.00% | ~27 |
 | Watch your Step! | 53.00% | ~24 |
 | MAX LEVEL | 51.00% | ~23 |
 | Right between the eyes | 49.00% | ~22 |
 | Spring Board | 42.00% | ~19 |
-| Starry Night | 38.00% | ~17 |
+| Starry Night | 40.00% | ~18 |
 | Merry Co-operation | 36.00% | ~16 |
 | Savior | 33.00% | ~15 |
+| Locksley's Tears | 33.00% | ~15 |
 | Rebel Unleashed | 33.00% | ~15 |
 | Finish Him! | 31.00% | ~14 |
-| Locksley's Tears | 31.00% | ~14 |
 | Assault on the Ram | 29.00% | ~13 |
 | First Aid | 27.00% | ~12 |
 | Ultra Rebel Instinct | 24.00% | ~11 |
@@ -27,12 +27,12 @@
 | Ultra Combo | 20.00% | ~9 |
 | Take Action! | 20.00% | ~9 |
 | Ascending Will | 18.00% | ~8 |
-| Haute Couture | 13.00% | ~6 |
+| Haute Couture | 16.00% | ~7 |
 | Brilliant Executioner | 11.00% | ~5 |
+| Hidden Experiment | 11.00% | ~5 |
 | Into the Lion's Den | 11.00% | ~5 |
+| Bold and Bossy | 9.00% | ~4 |
 | The Gang prevails | 9.00% | ~4 |
-| Hidden Experiment | 9.00% | ~4 |
-| Bold and Bossy | 7.00% | ~3 |
 | Out of the ring | 7.00% | ~3 |
 | Sky High Fighter | 7.00% | ~3 |
 | King of the Iron Fist | 4.00% | ~2 |
@@ -43,6 +43,7 @@
 | A Gest of Robyn Hode | 2.00% | ~1 |
 | Money can not buy happiness | 2.00% | ~1 |
 | Only Child | 2.00% | ~1 |
+| The Arsenal | 2.00% | ~1 |
 | Master of One | 2.00% | ~1 |
 | Challenger | 0.00% | ~0 |
 | The Apprentice | 0.00% | ~0 |
@@ -53,7 +54,6 @@
 | It belongs in a museum | 0.00% | ~0 |
 | Sherwood Moment 37 | 0.00% | ~0 |
 | The transmuted game | 0.00% | ~0 |
-| The Arsenal | 0.00% | ~0 |
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 | Fashionista | 0.00% | ~0 |

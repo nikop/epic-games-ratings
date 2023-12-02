@@ -5,6 +5,7 @@ Rating: 4.64 (Ranked 336)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Creature Feature | 3.00% | ~739 |
 | Satisfied Gus-tomer | 3.00% | ~739 |
 | Are You Packin'? | 3.00% | ~739 |
 | Bring A Knife to a Gun Fight | 3.00% | ~739 |
@@ -15,15 +16,14 @@ Rating: 4.64 (Ranked 336)
 | Cold-Blooded Driller | 3.00% | ~739 |
 | Who's The Boss? | 3.00% | ~739 |
 | Don't Knife The Hand That Feeds | 3.00% | ~739 |
-| Creature Feature | 2.00% | ~492 |
-| Lezduit! | 2.00% | ~492 |
-| RIP Davey Glutes | 2.00% | ~492 |
-| Legendary Bounty Hunter | 2.00% | ~492 |
-| Hardest Battle In The Game | 2.00% | ~492 |
-| Self-Actualization | 2.00% | ~492 |
-| Fallout Doesn't Let You Do This | 2.00% | ~492 |
-| Spent 15 Hours At The Alien Strip Club | 2.00% | ~492 |
-| Series Wrap on Suit-O | 2.00% | ~492 |
+| Lezduit! | 2.00% | ~493 |
+| RIP Davey Glutes | 2.00% | ~493 |
+| Legendary Bounty Hunter | 2.00% | ~493 |
+| Hardest Battle In The Game | 2.00% | ~493 |
+| Self-Actualization | 2.00% | ~493 |
+| Fallout Doesn't Let You Do This | 2.00% | ~493 |
+| Spent 15 Hours At The Alien Strip Club | 2.00% | ~493 |
+| Series Wrap on Suit-O | 2.00% | ~493 |
 | Bathe With A Giant Nude Alien | 2.00% | ~38 |
 | Eatin' Good in the Neighborhood | 1.00% | ~246 |
 | Eye Scream, You Scream | 1.00% | ~246 |
@@ -32,7 +32,7 @@ Rating: 4.64 (Ranked 336)
 | Gunning For Your Job | 0.70% | ~172 |
 | We Paid For The Rights To Put A Whole Movie In Here | 0.60% | ~148 |
 | Fall In Love With A Parasite | 0.50% | ~10 |
-| Sequel-Bait | 0.40% | ~98 |
+| Sequel-Bait | 0.40% | ~99 |
 | Playing Favorites | 0.30% | ~74 |
 | Carried Stan's Load To Completion | 0.30% | ~74 |
 | Meet Frasier from Frasier | 0.30% | ~6 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 336)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,625 (Ranked 130)  
+Progressed: 24,626 (Ranked 130)  
 Completed: 14 (0.06%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 14 (0.06%) (Ranked 311)
 | 2023-11-29 | 24,609 | 14 |
 | 2023-11-30 | 24,613 | 14 |
 | 2023-12-01 | 24,623 | 14 |
-| 2023-12-02 | 24,625 | 14 |
+| 2023-12-02 | 24,626 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

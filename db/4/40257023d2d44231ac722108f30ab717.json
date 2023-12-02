@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 613,
   "Ranking_EOS_Completed": 36,
   "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-29T00:00:00+00:00",
     "PcReleaseDate": "2023-11-29T00:00:00+00:00",
@@ -111,9 +111,9 @@
       "ID": "FLASHBACK",
       "SetID": "51l0gl8",
       "Name": "Flashback",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "GETRICHORDIETRYING",
@@ -221,8 +221,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-25T12:03:08.1004674+00:00",
-  "LastChanged_Achievements": "2023-12-02T07:08:48.9383984+00:00",
+  "LastChanged_Achievements": "2023-12-02T08:08:42.49369+00:00",
   "LastUpdate_AppInfo": "2023-11-29T13:56:57.5675213+00:00",
-  "LastUpdate_Ratings": "2023-12-02T06:59:06.0749731+00:00",
-  "LastUpdate_Achievements": "2023-12-02T07:08:48.9384083+00:00"
+  "LastUpdate_Ratings": "2023-12-02T07:59:00.5878079+00:00",
+  "LastUpdate_Achievements": "2023-12-02T08:08:42.4936998+00:00"
 }
