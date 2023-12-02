@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 92.00% | ~453 |
-| Training Simulation | 77.00% | ~379 |
-| Kuku Bird Hunter | 63.00% | ~310 |
-| Storm Traveller | 57.00% | ~280 |
-| Wolf King Killer | 52.00% | ~256 |
-| Fashion Connoisseur | 50.00% | ~246 |
-| Arms Mechanic | 46.00% | ~226 |
-| Flower Thief | 41.00% | ~202 |
-| Apostle of Flame | 37.00% | ~182 |
-| Beginner Artificer | 36.00% | ~177 |
-| Beginner Cook | 35.00% | ~172 |
+| Travel Streamer | 92.00% | ~454 |
+| Training Simulation | 77.00% | ~380 |
+| Kuku Bird Hunter | 63.00% | ~311 |
+| Storm Traveller | 57.00% | ~282 |
+| Wolf King Killer | 52.00% | ~257 |
+| Fashion Connoisseur | 50.00% | ~247 |
+| Arms Mechanic | 46.00% | ~227 |
+| Flower Thief | 41.00% | ~203 |
+| Beginner Artificer | 36.00% | ~178 |
+| Apostle of Flame | 36.00% | ~178 |
+| Beginner Cook | 35.00% | ~173 |
 | Seal Breaker | 31.00% | ~153 |
 | Handyman | 27.00% | ~133 |
 | Giant Lizard Killer | 26.00% | ~128 |
-| Guardian | 25.00% | ~123 |
-| Nosebleeder | 24.00% | ~118 |
-| Trader | 21.00% | ~103 |
-| Weapon Boost | 20.00% | ~98 |
-| Flying Kobold Killer | 17.00% | ~84 |
+| Guardian | 24.00% | ~119 |
+| Nosebleeder | 24.00% | ~119 |
+| Trader | 21.00% | ~104 |
+| Weapon Boost | 20.00% | ~99 |
+| Flying Kobold Killer | 18.00% | ~89 |
 | Youth Magnet | 16.00% | ~79 |
 | Master Artificer | 16.00% | ~79 |
 | Furious Scorpion Killer | 15.00% | ~74 |
@@ -32,9 +32,9 @@
 | Mermaid Killer | 13.00% | ~64 |
 | Cave Master | 12.00% | ~59 |
 | Face Slapper | 12.00% | ~59 |
-| Master Cook | 8.00% | ~39 |
-| Boss challenge | 8.00% | ~39 |
-| Berserker Slayer | 7.00% | ~34 |
+| Boss challenge | 8.00% | ~40 |
+| Master Cook | 7.00% | ~35 |
+| Berserker Slayer | 7.00% | ~35 |
 | Giantess Slayer | 6.00% | ~30 |
 | Warden Slayer | 6.00% | ~30 |
 | Rebellious | 2.00% | ~10 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 1.00% | ~5 |
 | Warden Challenge | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 492 (Ranked 313)  
+Progressed: 494 (Ranked 313)  
 Completed: 1 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 1 (0.20%) (Ranked 257)
 | 2023-11-29 | 439 | 1 |
 | 2023-11-30 | 461 | 1 |
 | 2023-12-01 | 471 | 1 |
-| 2023-12-02 | 492 | 1 |
+| 2023-12-02 | 494 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -9,10 +9,10 @@ Rating: 4.54 (Ranked 528)
 | The Pit and the Pirates | 7.00% | ~1,109 |
 | Bosmang | 7.00% | ~1,109 |
 | Celebrations are in Order | 7.00% | ~1,109 |
-| Martian Music | 6.00% | ~950 |
-| Drone Dodger | 6.00% | ~950 |
-| Captain Drummer | 6.00% | ~950 |
-| Impossible Objects | 6.00% | ~950 |
+| Martian Music | 6.00% | ~951 |
+| Drone Dodger | 6.00% | ~951 |
+| Captain Drummer | 6.00% | ~951 |
+| Impossible Objects | 6.00% | ~951 |
 | Safe Cracker | 6.00% | ~108 |
 | Zen Master | 6.00% | ~108 |
 | Madame Undersecretary | 6.00% | ~108 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 528)
 | Scavenger Star | 0.10% | ~16 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,841 (Ranked 151)  
+Progressed: 15,842 (Ranked 151)  
 Completed: 39 (0.25%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 39 (0.25%) (Ranked 249)
 | 2023-11-29 | 15,765 | 39 |
 | 2023-11-30 | 15,794 | 39 |
 | 2023-12-01 | 15,822 | 39 |
-| 2023-12-02 | 15,841 | 39 |
+| 2023-12-02 | 15,842 | 39 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

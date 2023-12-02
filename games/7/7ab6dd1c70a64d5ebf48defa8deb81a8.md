@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Trinity | 14.00% | ~34 |
 | Break Out | 13.00% | ~31 |
+| Find Allies | 11.00% | ~27 |
 | I Found It | 11.00% | ~27 |
-| Find Allies | 10.00% | ~24 |
 | Powerful Allies | 10.00% | ~24 |
 | Adventurer | 10.00% | ~24 |
 | Scholar | 10.00% | ~24 |
@@ -15,9 +15,9 @@
 | A Taste of Wrath | 9.00% | ~22 |
 | Tributes of Caladrias | 9.00% | ~22 |
 | Shatter Them All | 9.00% | ~22 |
+| Big Bazar | 9.00% | ~22 |
 | Geared Up | 9.00% | ~22 |
 | Stone Collection | 9.00% | ~22 |
-| Big Bazar | 8.00% | ~19 |
 | Fashion Victim | 8.00% | ~19 |
 | Calm before the Storm | 5.00% | ~12 |
 | To Battle | 5.00% | ~12 |

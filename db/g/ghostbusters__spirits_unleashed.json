@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3609,9 +3609,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31835,
+  "EOS_Progressed": 31842,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 287,
+  "EOS_NewPlayers": 289,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -21154,6 +21154,11 @@
       "Time": "2023-12-02T18:05:59.1377618+00:00",
       "NumProgressed": 31835,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-02T19:05:56.5223155+00:00",
+      "NumProgressed": 31842,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -21165,7 +21170,7 @@
       "Name": "Advancement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2228
+      "UsersEstimate": 2229
     },
     {
       "ID": "Animated",
@@ -21205,7 +21210,7 @@
       "Name": "Clutch Capture",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "Collect_Spores",
@@ -21229,7 +21234,7 @@
       "Name": "Cultured",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "Daily_Dose",
@@ -21277,7 +21282,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 2228
+      "UsersEstimate": 2229
     },
     {
       "ID": "Escape_Artist",
@@ -21469,7 +21474,7 @@
       "Name": "Stylish",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "Summoner",
@@ -21525,7 +21530,7 @@
       "Name": "There you are!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "Tobins_Prodigy",
@@ -21549,7 +21554,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "Welcome_Crew",
@@ -21565,14 +21570,14 @@
       "Name": "Whoopsie",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31835,
+      "Progressed": 31842,
       "Completed": 69
     }
   ],
@@ -21580,8 +21585,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-02T17:01:35.0121715+00:00",
-  "LastChanged_Achievements": "2023-12-02T18:05:59.1377613+00:00",
+  "LastChanged_Achievements": "2023-12-02T19:05:56.5223153+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:05.0819015+00:00",
-  "LastUpdate_Ratings": "2023-12-02T18:00:29.0747595+00:00",
-  "LastUpdate_Achievements": "2023-12-02T18:05:59.1378679+00:00"
+  "LastUpdate_Ratings": "2023-12-02T19:00:38.6055278+00:00",
+  "LastUpdate_Achievements": "2023-12-02T19:05:56.5224165+00:00"
 }

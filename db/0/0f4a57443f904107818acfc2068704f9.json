@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 818,
+  "EOS_Progressed": 820,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 219,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1722,6 +1722,11 @@
       "Time": "2023-12-02T18:05:46.8485357+00:00",
       "NumProgressed": 818,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T19:05:44.1461206+00:00",
+      "NumProgressed": 820,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1790,7 +1795,7 @@
       "Name": "Pathfinder",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "CompleteChapter10",
@@ -1822,7 +1827,7 @@
       "Name": "Slaughter and Siege wiv da Squeeze",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "CompleteChapter14",
@@ -1844,9 +1849,9 @@
       "ID": "CompleteChapter16",
       "SetID": "52ail55",
       "Name": "Our Own Miracle",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 41
     },
     {
       "ID": "CompleteChapter17",
@@ -1878,7 +1883,7 @@
       "Name": "Met the Enemy",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "CompleteChapter3",
@@ -1886,7 +1891,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "CompleteChapter4",
@@ -1902,7 +1907,7 @@
       "Name": "Breathing Easy",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "CompleteChapter6",
@@ -1910,7 +1915,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "CompleteChapter7",
@@ -1934,7 +1939,7 @@
       "Name": "Ingredients List",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -1982,7 +1987,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "Win100OnlineMatched",
@@ -2029,14 +2034,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 818,
+      "Progressed": 820,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-02T18:05:46.8485353+00:00",
+  "LastChanged_Achievements": "2023-12-02T19:05:44.1461199+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:09.4303292+00:00",
-  "LastUpdate_Ratings": "2023-12-02T17:59:05.1727376+00:00",
-  "LastUpdate_Achievements": "2023-12-02T18:05:46.8485746+00:00"
+  "LastUpdate_Ratings": "2023-12-02T18:59:14.9732969+00:00",
+  "LastUpdate_Achievements": "2023-12-02T19:05:44.1461454+00:00"
 }

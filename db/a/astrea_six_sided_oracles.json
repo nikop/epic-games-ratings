@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -726,9 +726,9 @@
       "ID": "EndlessTricks",
       "SetID": "1jeo1g7",
       "Name": "Endless Tricks",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "EridanianChampionAchievement",
@@ -1285,8 +1285,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-02T18:04:18.8348022+00:00",
+  "LastChanged_Achievements": "2023-12-02T19:04:15.8408531+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:14.6113679+00:00",
-  "LastUpdate_Ratings": "2023-12-02T17:59:40.1079851+00:00",
-  "LastUpdate_Achievements": "2023-12-02T18:04:18.8348853+00:00"
+  "LastUpdate_Ratings": "2023-12-02T18:59:50.2422225+00:00",
+  "LastUpdate_Achievements": "2023-12-02T19:04:15.8409259+00:00"
 }

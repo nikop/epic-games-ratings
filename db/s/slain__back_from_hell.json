@@ -2,12 +2,12 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 849,
+  "Ranking_Rating": 850,
   "Ranking_Popularity": 334,
   "Ranking_PopularitySum": 433,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -224,23 +224,29 @@
       "Rating": 4.29,
       "NumberOfAwards": 127,
       "NumberOfAwardsMax": 127
+    },
+    {
+      "Time": "2023-12-02T18:57:45.1070591+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 128,
+      "NumberOfAwardsMax": 128
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 127,
-  "NumberOfAwardsMax": 127,
+  "NumberOfAwards": 128,
+  "NumberOfAwardsMax": 128,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 127
+      "Count": 128
     }
   ],
-  "EOS_Progressed": 41349,
+  "EOS_Progressed": 41353,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 395,
+  "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -24878,6 +24884,11 @@
       "Time": "2023-12-02T18:08:20.4623551+00:00",
       "NumProgressed": 41349,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-12-02T19:06:46.588459+00:00",
+      "NumProgressed": 41353,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 29,
@@ -24889,7 +24900,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6202
+      "UsersEstimate": 6203
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -24897,7 +24908,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8683
+      "UsersEstimate": 8684
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -24953,7 +24964,7 @@
       "Name": "Enjoy The Silence",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "ACH_11_WOLF_GUARD_CRUSHED",
@@ -24961,7 +24972,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2067
+      "UsersEstimate": 2068
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -25120,16 +25131,16 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 41349,
+      "Progressed": 41353,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-10-06T18:03:31.3585803+00:00",
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
-  "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-12-02T18:08:20.4623549+00:00",
+  "LastChanged": "2023-12-02T18:57:45.107059+00:00",
+  "LastChanged_Achievements": "2023-12-02T19:06:46.5884587+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:57.6169847+00:00",
-  "LastUpdate_Ratings": "2023-12-02T17:57:38.4823175+00:00",
-  "LastUpdate_Achievements": "2023-12-02T18:08:20.4624969+00:00"
+  "LastUpdate_Ratings": "2023-12-02T18:57:45.1070594+00:00",
+  "LastUpdate_Achievements": "2023-12-02T19:06:46.5885896+00:00"
 }

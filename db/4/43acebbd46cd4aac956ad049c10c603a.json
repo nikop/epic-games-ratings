@@ -5,10 +5,10 @@
   "Ranking_Rating": 24,
   "Ranking_Popularity": 465,
   "Ranking_PopularitySum": 504,
-  "Ranking_EOS_Progress": 275,
+  "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -175,9 +175,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 831,
+  "EOS_Progressed": 833,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1920,6 +1920,11 @@
       "Time": "2023-12-02T17:04:51.8075246+00:00",
       "NumProgressed": 831,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T19:04:37.4351417+00:00",
+      "NumProgressed": 833,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1970,9 +1975,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 92
     },
     {
       "ID": "BreakTheLoop",
@@ -2066,17 +2071,17 @@
       "ID": "GnothiSeauton",
       "SetID": "1n308hc",
       "Name": "Gnothi Seauton",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 17
     },
     {
       "ID": "GoodCitizen",
       "SetID": "1n308hc",
       "Name": "Good Citizen",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 17
     },
     {
       "ID": "GrasslandsRing",
@@ -2114,9 +2119,9 @@
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 75
     },
     {
       "ID": "LostMarshes",
@@ -2156,7 +2161,7 @@
       "Name": "Museum Visitor",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "NewBeginning",
@@ -2188,15 +2193,15 @@
       "Name": "Overload",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 42
     },
     {
       "ID": "PrometheusUnbound",
@@ -2258,9 +2263,9 @@
       "ID": "Sinner",
       "SetID": "1n308hc",
       "Name": "Sinner",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SouthernCoast",
@@ -2290,9 +2295,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 42
     },
     {
       "ID": "TheEdgeOfForever",
@@ -2324,7 +2329,7 @@
       "Name": "The Spark",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "TheThiefOfFire",
@@ -2403,7 +2408,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 831,
+      "Progressed": 833,
       "Completed": 1
     }
   ],
@@ -2411,8 +2416,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-02T13:02:26.2646778+00:00",
-  "LastChanged_Achievements": "2023-12-02T18:04:40.2427115+00:00",
+  "LastChanged_Achievements": "2023-12-02T19:04:37.4351414+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-02T17:57:21.1032066+00:00",
-  "LastUpdate_Achievements": "2023-12-02T18:04:40.2427914+00:00"
+  "LastUpdate_Ratings": "2023-12-02T18:57:27.9338665+00:00",
+  "LastUpdate_Achievements": "2023-12-02T19:04:37.4351897+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -7161,10 +7161,10 @@
       "Count": 506
     }
   ],
-  "EOS_Progressed": 729092,
-  "EOS_Completed": 2459,
-  "EOS_NewPlayers": 4184,
-  "EOS_NewCompleters": 23,
+  "EOS_Progressed": 729116,
+  "EOS_Completed": 2460,
+  "EOS_NewPlayers": 4167,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -33081,6 +33081,11 @@
       "Time": "2023-12-02T18:08:55.3108685+00:00",
       "NumProgressed": 729092,
       "NumCompleted": 2459
+    },
+    {
+      "Time": "2023-12-02T19:08:41.212019+00:00",
+      "NumProgressed": 729116,
+      "NumCompleted": 2460
     }
   ],
   "TotalAchievements": 51,
@@ -33124,7 +33129,7 @@
       "Name": "Make it So",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3645
+      "UsersEstimate": 3646
     },
     {
       "ID": "ach_big_name_in_town",
@@ -33164,7 +33169,7 @@
       "Name": "On Safari",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3645
+      "UsersEstimate": 3646
     },
     {
       "ID": "ach_defensive",
@@ -33196,7 +33201,7 @@
       "Name": "Smorgasbord",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3645
+      "UsersEstimate": 3646
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -33420,7 +33425,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3645
+      "UsersEstimate": 3646
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -33460,7 +33465,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1640
     },
     {
       "ID": "ach_gardening_tools",
@@ -33476,7 +33481,7 @@
       "Name": "Pork Chopped",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1640
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -33499,22 +33504,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 729092,
-      "Completed": 2459
+      "Progressed": 729116,
+      "Completed": 2460
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 54634,
-      "Completed": 36620
+      "Progressed": 54658,
+      "Completed": 36621
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-12-02T16:00:53.3293711+00:00",
-  "LastChanged_Achievements": "2023-12-02T18:08:55.3108681+00:00",
+  "LastChanged_Achievements": "2023-12-02T19:08:41.2120187+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-12-02T17:59:50.8248584+00:00",
-  "LastUpdate_Achievements": "2023-12-02T18:08:55.3110234+00:00"
+  "LastUpdate_Ratings": "2023-12-02T19:00:00.3078403+00:00",
+  "LastUpdate_Achievements": "2023-12-02T19:08:41.2121643+00:00"
 }

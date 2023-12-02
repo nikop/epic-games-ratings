@@ -14,7 +14,7 @@
 | Refuse to look | 35.00% | ~35 |
 | Sign of weakness | 35.00% | ~35 |
 | Finished it | 26.00% | ~26 |
-| Face your fears | 23.00% | ~23 |
+| Face your fears | 24.00% | ~24 |
 | Whispers long forgotten | 13.00% | ~13 |
 | Playtime | 12.00% | ~12 |
 | Tough conversation | 12.00% | ~12 |

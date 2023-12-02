@@ -5,15 +5,15 @@ Rating: 4.67 (Ranked 276)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,643 |
-| On the Top Step | 88.00% | ~5,283 |
-| Setting up for Success | 78.00% | ~4,682 |
-| Team Orders | 75.00% | ~4,502 |
+| Getting on the Step | 94.00% | ~5,644 |
+| On the Top Step | 88.00% | ~5,284 |
+| Setting up for Success | 78.00% | ~4,683 |
+| Team Orders | 75.00% | ~4,503 |
 | Engineer | 56.00% | ~3,362 |
-| Familiar Faces | 49.00% | ~2,941 |
-| Sharing the Love | 44.00% | ~2,641 |
-| Going the Extra Mile | 43.00% | ~2,581 |
-| Hitting a Season | 41.00% | ~2,461 |
+| Familiar Faces | 49.00% | ~2,942 |
+| Sharing the Love | 44.00% | ~2,642 |
+| Going the Extra Mile | 43.00% | ~2,582 |
+| Hitting a Season | 41.00% | ~2,462 |
 | A Dozen Pieces | 34.00% | ~2,041 |
 | Challenge Yourself | 34.00% | ~2,041 |
 | Making History | 32.00% | ~1,921 |
@@ -26,14 +26,14 @@ Rating: 4.67 (Ranked 276)
 | Reuse | 18.00% | ~1,081 |
 | One for the Book | 17.00% | ~1,021 |
 | Proving Them Wrong | 17.00% | ~1,021 |
-| Gathering Dust | 16.00% | ~960 |
-| Oil and Water | 15.00% | ~900 |
-| Hitting a Bullseye | 15.00% | ~900 |
-| Lightning Round the World | 14.00% | ~840 |
-| Spinning Around | 14.00% | ~840 |
-| Eagle Eye | 13.00% | ~780 |
-| All in a Weekend's Work | 13.00% | ~780 |
-| Switcheroo | 13.00% | ~780 |
+| Gathering Dust | 16.00% | ~961 |
+| Oil and Water | 15.00% | ~901 |
+| Hitting a Bullseye | 15.00% | ~901 |
+| Lightning Round the World | 14.00% | ~841 |
+| Spinning Around | 14.00% | ~841 |
+| Eagle Eye | 13.00% | ~781 |
+| All in a Weekend's Work | 13.00% | ~781 |
+| Switcheroo | 13.00% | ~781 |
 | Friendly Competition | 12.00% | ~720 |
 | Recycle | 12.00% | ~720 |
 | Undisputed Winner | 10.00% | ~600 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 276)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,003 (Ranked 186)  
+Progressed: 6,004 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-29 | 5,971 | 0 |
 | 2023-11-30 | 5,982 | 0 |
 | 2023-12-01 | 5,992 | 0 |
-| 2023-12-02 | 6,003 | 0 |
+| 2023-12-02 | 6,004 | 0 |
 ## Awards
 Max (Diverse Characters): 27  (Ranked 514)  
 Sum: 98 (Ranked 452)  

@@ -11,6 +11,7 @@
 | Amateur photographer | 10.00% | ~2 |
 | Power of the turtle | 10.00% | ~2 |
 | Power of the dolphin | 10.00% | ~2 |
+| Pro Photographer | 5.00% | ~1 |
 | Animal reporter | 5.00% | ~1 |
 | Rescuer | 5.00% | ~1 |
 | Heroic member | 5.00% | ~1 |
@@ -22,7 +23,6 @@
 | In search of knowledge | 5.00% | ~1 |
 | Power of the ray | 5.00% | ~1 |
 | The fifth one! | 5.00% | ~1 |
-| Pro Photographer | 0.00% | ~0 |
 | Recycling expert | 0.00% | ~0 |
 | Recycling Legend | 0.00% | ~0 |
 | Bay cleanup | 0.00% | ~0 |

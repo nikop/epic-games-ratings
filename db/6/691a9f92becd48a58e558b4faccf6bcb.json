@@ -2,10 +2,10 @@
   "ID": "691a9f92becd48a58e558b4faccf6bcb",
   "Name": "Snowmen",
   "ProductSlug": "snowmen-5987b9",
-  "Ranking_EOS_Progress": 366,
+  "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-12-05T12:00:00+00:00",
     "PcReleaseDate": "2023-12-05T12:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 282,
+  "EOS_Progressed": 283,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -1302,6 +1302,11 @@
       "Time": "2023-12-02T18:09:39.7468665+00:00",
       "NumProgressed": 282,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T19:09:24.9413542+00:00",
+      "NumProgressed": 283,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-17T19:06:21.6274083+00:00",
@@ -1336,9 +1341,9 @@
       "ID": "ACHIEVEMENT_ENDING_BAD_SNOWMAN",
       "SetID": "5lffoo5",
       "Name": "Lost forever",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_ENDING_GOOD_HOME",
@@ -1392,9 +1397,9 @@
       "ID": "ACHIEVEMENT_MAIN_GOLD_SCARF",
       "SetID": "5lffoo5",
       "Name": "Golden Scarf",
-      "Percentage": 0.4,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_MAIN_NAUGHTY",
@@ -1432,9 +1437,9 @@
       "ID": "ACHIEVEMENT_MAIN_SILVER_HAT",
       "SetID": "5lffoo5",
       "Name": "Silver Hat",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_MAIN_SILVER_SCARF",
@@ -1457,13 +1462,13 @@
     {
       "ID": "5lffoo5",
       "IsBase": true,
-      "Progressed": 282,
+      "Progressed": 283,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2023-12-02T18:09:39.7468661+00:00",
+  "LastChanged_Achievements": "2023-12-02T19:09:24.9413538+00:00",
   "LastUpdate_AppInfo": "2023-11-26T23:57:17.9253106+00:00",
-  "LastUpdate_Ratings": "2023-12-02T17:58:07.2254435+00:00",
-  "LastUpdate_Achievements": "2023-12-02T18:09:39.7468812+00:00"
+  "LastUpdate_Ratings": "2023-12-02T18:58:15.1696406+00:00",
+  "LastUpdate_Achievements": "2023-12-02T19:09:24.9413707+00:00"
 }

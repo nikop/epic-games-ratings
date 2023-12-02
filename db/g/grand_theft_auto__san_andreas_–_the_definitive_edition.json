@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 300,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -1633,9 +1633,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 13825,
+  "EOS_Progressed": 13826,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -15288,6 +15288,11 @@
       "Time": "2023-12-02T16:09:59.7976041+00:00",
       "NumProgressed": 13825,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-02T19:09:21.5017172+00:00",
+      "NumProgressed": 13826,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 35,
@@ -15299,7 +15304,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11336
+      "UsersEstimate": 11337
     },
     {
       "ID": "ACH02",
@@ -15331,7 +15336,7 @@
       "Name": "A Legitimate Business",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH06",
@@ -15355,7 +15360,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 7189
+      "UsersEstimate": 7190
     },
     {
       "ID": "ACH09",
@@ -15371,7 +15376,7 @@
       "Name": "Who Needs Directions?",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH11",
@@ -15379,7 +15384,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1383
     },
     {
       "ID": "ACH12",
@@ -15387,7 +15392,7 @@
       "Name": "Swiss Army Strife",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH13",
@@ -15499,7 +15504,7 @@
       "Name": "Double or Nothin\u0027",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH27",
@@ -15507,7 +15512,7 @@
       "Name": "Assassin",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH28",
@@ -15547,7 +15552,7 @@
       "Name": "Ain\u2019t Nothing But a G Thing",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH33",
@@ -15578,7 +15583,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13825,
+      "Progressed": 13826,
       "Completed": 56
     }
   ],
@@ -15586,8 +15591,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-02T06:59:27.8933803+00:00",
-  "LastChanged_Achievements": "2023-12-02T18:09:35.855324+00:00",
+  "LastChanged_Achievements": "2023-12-02T19:09:21.5017169+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:29.1736391+00:00",
-  "LastUpdate_Ratings": "2023-12-02T18:00:10.1670792+00:00",
-  "LastUpdate_Achievements": "2023-12-02T18:09:35.8554121+00:00"
+  "LastUpdate_Ratings": "2023-12-02T19:00:18.8895852+00:00",
+  "LastUpdate_Achievements": "2023-12-02T19:09:21.501806+00:00"
 }

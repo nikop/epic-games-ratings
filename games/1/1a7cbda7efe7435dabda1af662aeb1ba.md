@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breaking Free | 39.00% | ~11 |
+| Breaking Free | 38.00% | ~11 |
 | Overcoming Weakness | 21.00% | ~6 |
 | Fence-Sitter | 14.00% | ~4 |
 | Green Thumb | 14.00% | ~4 |
-| Crystal Hunter | 11.00% | ~3 |
-| Boulder Breaker | 11.00% | ~3 |
+| Crystal Hunter | 10.00% | ~3 |
+| Boulder Breaker | 10.00% | ~3 |
 | Danger | 7.00% | ~2 |
-| Column Crusher | 4.00% | ~1 |
-| Bye-Bye, Butcher | 4.00% | ~1 |
-| Equivalent Exchange | 4.00% | ~1 |
-| Setting Off | 4.00% | ~1 |
-| A Twist of Fate | 4.00% | ~1 |
-| Strength | 4.00% | ~1 |
-| Eviction | 4.00% | ~1 |
-| Rabbit Hunter | 4.00% | ~1 |
-| Breach of Contract | 4.00% | ~1 |
+| Column Crusher | 3.00% | ~1 |
+| Bye-Bye, Butcher | 3.00% | ~1 |
+| Equivalent Exchange | 3.00% | ~1 |
+| Setting Off | 3.00% | ~1 |
+| A Twist of Fate | 3.00% | ~1 |
+| Strength | 3.00% | ~1 |
+| Eviction | 3.00% | ~1 |
+| Rabbit Hunter | 3.00% | ~1 |
+| Breach of Contract | 3.00% | ~1 |
 | My Turn | 0.00% | ~0 |
 | Armor Annihilator | 0.00% | ~0 |
 | Rejected Parasite | 0.00% | ~0 |
@@ -35,7 +35,7 @@
 | Astral Envoy | 0.00% | ~0 |
 | The End of Fate | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28 (Ranked 540)  
+Progressed: 29 (Ranked 537)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,3 +61,4 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-09-27 | 26 | 0 |
 | 2023-10-18 | 27 | 0 |
 | 2023-11-24 | 28 | 0 |
+| 2023-12-02 | 29 | 0 |

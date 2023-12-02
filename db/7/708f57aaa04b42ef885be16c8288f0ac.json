@@ -6,9 +6,9 @@
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 179,
-  "Ranking_EOS_Completed": 268,
+  "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -171,11 +171,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7292,
-  "EOS_Completed": 12,
-  "EOS_NewPlayers": 784,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 0.16,
+  "EOS_Progressed": 7295,
+  "EOS_Completed": 13,
+  "EOS_NewPlayers": 775,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
     {
       "Time": "2023-10-17T16:05:13.3734944+00:00",
@@ -5286,6 +5286,11 @@
       "Time": "2023-12-02T18:09:46.7354764+00:00",
       "NumProgressed": 7292,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-02T19:09:31.9709669+00:00",
+      "NumProgressed": 7295,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5296,9 +5301,9 @@
       "ID": "AllJackedUp",
       "SetID": "acc6ea0",
       "Name": "All Jacked Up",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 58
     },
     {
       "ID": "BabySteps",
@@ -5306,7 +5311,7 @@
       "Name": "Baby Steps",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1604
+      "UsersEstimate": 1605
     },
     {
       "ID": "BeLikeWater",
@@ -5370,7 +5375,7 @@
       "Name": "First Time?",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2115
+      "UsersEstimate": 2116
     },
     {
       "ID": "FuneralForTheDeath",
@@ -5378,7 +5383,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "GarbageMan",
@@ -5450,7 +5455,7 @@
       "Name": "No More Totems",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "NotLikeTheOthers",
@@ -5498,7 +5503,7 @@
       "Name": "The Quarterback",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1678
     },
     {
       "ID": "ThisIsDharma",
@@ -5506,7 +5511,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -5522,7 +5527,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 7,
       "XP": 45,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -5538,7 +5543,7 @@
       "Name": "Digestive Issues",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -5569,16 +5574,16 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7292,
-      "Completed": 12
+      "Progressed": 7295,
+      "Completed": 13
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-02T04:02:27.6504223+00:00",
-  "LastChanged_Achievements": "2023-12-02T18:09:46.735476+00:00",
+  "LastChanged_Achievements": "2023-12-02T19:09:31.9709663+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-02T17:57:37.2239764+00:00",
-  "LastUpdate_Achievements": "2023-12-02T18:09:46.7355142+00:00"
+  "LastUpdate_Ratings": "2023-12-02T18:57:43.8733167+00:00",
+  "LastUpdate_Achievements": "2023-12-02T19:09:31.9710087+00:00"
 }

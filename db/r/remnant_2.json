@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 23,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
     "PcReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -5079,10 +5079,10 @@
       "Count": 393
     }
   ],
-  "EOS_Progressed": 233060,
+  "EOS_Progressed": 233113,
   "EOS_Completed": 548,
-  "EOS_NewPlayers": 5088,
-  "EOS_NewCompleters": 22,
+  "EOS_NewPlayers": 5099,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
@@ -21044,6 +21044,11 @@
       "Time": "2023-12-02T18:09:15.1205726+00:00",
       "NumProgressed": 233060,
       "NumCompleted": 548
+    },
+    {
+      "Time": "2023-12-02T19:09:01.0647307+00:00",
+      "NumProgressed": 233113,
+      "NumCompleted": 548
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21056,7 +21061,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -21136,7 +21141,7 @@
       "Name": "The Killing Jar",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1631
+      "UsersEstimate": 1632
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -21240,7 +21245,7 @@
       "Name": "First of Many",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1631
+      "UsersEstimate": 1632
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -21360,7 +21365,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "Obtain_Traits_B",
@@ -21464,7 +21469,7 @@
       "Name": "Succession",
       "Percentage": 0.2,
       "XP": 75,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "DLC1_Obtain_Archetype",
@@ -21488,20 +21493,20 @@
       "Name": "You Shall Pass",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 233060,
+      "Progressed": 233113,
       "Completed": 548
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 12225,
+      "Progressed": 12278,
       "Completed": 181
     }
   ],
@@ -21509,8 +21514,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-02T18:03:36.5535735+00:00",
-  "LastChanged_Achievements": "2023-12-02T18:09:15.120572+00:00",
+  "LastChanged_Achievements": "2023-12-02T19:09:01.0647302+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-12-02T18:03:36.5535741+00:00",
-  "LastUpdate_Achievements": "2023-12-02T18:09:15.1206945+00:00"
+  "LastUpdate_Ratings": "2023-12-02T19:03:32.9940769+00:00",
+  "LastUpdate_Achievements": "2023-12-02T19:09:01.0648435+00:00"
 }

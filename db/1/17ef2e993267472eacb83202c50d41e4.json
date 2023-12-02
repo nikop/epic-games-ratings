@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8498,
+  "EOS_Progressed": 8500,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7833,6 +7833,11 @@
       "Time": "2023-12-02T18:10:03.1678578+00:00",
       "NumProgressed": 8498,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T19:09:48.3277289+00:00",
+      "NumProgressed": 8500,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -7909,7 +7914,7 @@
       "Name": "Upgraded Deflector Helmet to Level 3",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "EARUpgraded1",
@@ -7923,9 +7928,9 @@
       "ID": "EAUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded Energy Amplifier to Level 3",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 85
     },
     {
       "ID": "EEUpgraded1",
@@ -7965,7 +7970,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2634
+      "UsersEstimate": 2635
     },
     {
       "ID": "GamesPlayed10",
@@ -8349,7 +8354,7 @@
       "Name": "Upgraded Shield Enhancements to Level 3",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "SMGUpgraded1",
@@ -8436,7 +8441,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8498,
+      "Progressed": 8500,
       "Completed": 1
     }
   ],
@@ -8444,8 +8449,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-28T13:57:22.5296785+00:00",
-  "LastChanged_Achievements": "2023-12-02T18:10:03.1678574+00:00",
+  "LastChanged_Achievements": "2023-12-02T19:09:48.3277285+00:00",
   "LastUpdate_AppInfo": "2023-11-28T15:57:00.1791972+00:00",
-  "LastUpdate_Ratings": "2023-12-02T17:59:33.1143445+00:00",
-  "LastUpdate_Achievements": "2023-12-02T18:10:03.16794+00:00"
+  "LastUpdate_Ratings": "2023-12-02T18:59:43.3609925+00:00",
+  "LastUpdate_Achievements": "2023-12-02T19:09:48.3278058+00:00"
 }

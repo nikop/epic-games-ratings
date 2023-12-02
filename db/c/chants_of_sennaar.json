@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 846,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 5.67,
   "EosHistory": [
@@ -3461,9 +3461,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 186
+      "UsersEstimate": 195
     },
     {
       "ID": "META_HALF_LINK",
@@ -3517,9 +3517,9 @@
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 110
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -3636,8 +3636,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-02T18:08:19.4874569+00:00",
+  "LastChanged_Achievements": "2023-12-02T19:06:45.4397475+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-12-02T18:00:07.6650156+00:00",
-  "LastUpdate_Achievements": "2023-12-02T18:08:19.4874894+00:00"
+  "LastUpdate_Ratings": "2023-12-02T19:00:16.5954962+00:00",
+  "LastUpdate_Achievements": "2023-12-02T19:06:45.4397735+00:00"
 }

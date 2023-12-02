@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12661,
+  "EOS_Progressed": 12679,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1154,
+  "EOS_NewPlayers": 1164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7439,6 +7439,11 @@
       "Time": "2023-12-02T18:03:54.8327005+00:00",
       "NumProgressed": 12661,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T19:03:51.4173282+00:00",
+      "NumProgressed": 12679,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -7483,7 +7488,7 @@
       "Name": "KITTY",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACH_MEGLAB",
@@ -7499,7 +7504,7 @@
       "Name": "RUN",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACH_SECRETENDING",
@@ -7539,7 +7544,7 @@
       "Name": "Electric",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -7547,7 +7552,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3292
+      "UsersEstimate": 3297
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -7555,7 +7560,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1519
+      "UsersEstimate": 1521
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -7563,7 +7568,7 @@
       "Name": "Dreamer!",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1519
+      "UsersEstimate": 1521
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -7579,7 +7584,7 @@
       "Name": "Management",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "ACH_WINLEVEL404",
@@ -7587,7 +7592,7 @@
       "Name": "Glitchy",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACH_WINLEVEL5",
@@ -7595,7 +7600,7 @@
       "Name": "Terror",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "ACH_WINLEVEL69",
@@ -7603,7 +7608,7 @@
       "Name": "The Dark Road",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACH_WINLEVEL94",
@@ -7619,7 +7624,7 @@
       "Name": "Endless",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACH_WINLEVELFUN",
@@ -7627,7 +7632,7 @@
       "Name": "FUN",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACH_WINLEVELLIGHTOUT",
@@ -7635,21 +7640,21 @@
       "Name": "Lights Out",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     }
   ],
   "AchievementSets": [
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 12661,
+      "Progressed": 12679,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-12-02T18:03:54.8327+00:00",
+  "LastChanged_Achievements": "2023-12-02T19:03:51.4173279+00:00",
   "LastUpdate_AppInfo": "2023-11-27T17:57:10.4801965+00:00",
-  "LastUpdate_Ratings": "2023-12-02T17:58:07.9595893+00:00",
-  "LastUpdate_Achievements": "2023-12-02T18:03:54.8327522+00:00"
+  "LastUpdate_Ratings": "2023-12-02T18:58:15.7779322+00:00",
+  "LastUpdate_Achievements": "2023-12-02T19:03:51.417376+00:00"
 }

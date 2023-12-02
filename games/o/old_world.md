@@ -79,9 +79,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greece | 2.00% | ~312 |
 | Power to the People | 2.00% | ~312 |
 | Manichaeism | 2.00% | ~312 |
+| Persian Paganism | 2.00% | ~312 |
 | Mythology | 2.00% | ~312 |
 | Points Victory | 2.00% | ~312 |
 | Win a Single Player Game | 2.00% | ~312 |
+| The Clergy | 2.00% | ~312 |
 | Kushite Pyramids | 2.00% | ~312 |
 | Kushite Paganism | 2.00% | ~312 |
 | Bad Heir Day | 1.00% | ~156 |
@@ -109,7 +111,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 1.00% | ~156 |
 | One True Faith | 1.00% | ~156 |
 | Assyrian Paganism | 1.00% | ~156 |
-| Persian Paganism | 1.00% | ~156 |
 | Building Wonders | 1.00% | ~156 |
 | Economic Reform | 1.00% | ~156 |
 | Industrial Progress | 1.00% | ~156 |
@@ -127,7 +128,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 1.00% | ~156 |
 | Ambition Victory | 1.00% | ~156 |
 | Double Victory | 1.00% | ~156 |
-| The Clergy | 1.00% | ~156 |
 | Clerics | 0.90% | ~140 |
 | Rome | 0.90% | ~140 |
 | Hittite Paganism | 0.90% | ~140 |
@@ -174,6 +174,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus in Roma | 0.40% | ~62 |
 | Necropolis in Waset | 0.40% | ~62 |
 | Prosperous Kmt | 0.40% | ~62 |
+| Gold Victory (Carthage 1) | 0.30% | ~47 |
 | Carthage - Riches and Influence | 0.30% | ~47 |
 | Cleopatra's Love | 0.30% | ~47 |
 | Holy | 0.30% | ~47 |
@@ -187,7 +188,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Randomized Leaders | 0.30% | ~47 |
 | Barbarian Horde | 0.20% | ~31 |
 | Blade of the Monkey | 0.20% | ~31 |
-| Gold Victory (Carthage 1) | 0.20% | ~31 |
 | Bronze Victory (Carthage 2) | 0.20% | ~31 |
 | Silver Victory (Carthage 2) | 0.20% | ~31 |
 | Carthage - Rise of Rome | 0.20% | ~31 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,601 (Ranked 152)  
+Progressed: 15,602 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -575,7 +575,7 @@ Completed: 5 (0.03%) (Ranked 328)
 | 2023-11-29 | 15,545 | 5 |
 | 2023-11-30 | 15,566 | 5 |
 | 2023-12-01 | 15,583 | 5 |
-| 2023-12-02 | 15,601 | 5 |
+| 2023-12-02 | 15,602 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,884 (Ranked 219)  

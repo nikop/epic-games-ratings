@@ -25,8 +25,8 @@ Number of Ratings: 292  (23.09.2022)
 | Pyrrhic Victory | 2.00% | ~7 |
 | The Song of Stoutheart | 1.00% | ~3 |
 | This Spot's Taken | 1.00% | ~3 |
+| Deepstrike | 1.00% | ~3 |
 | Infernal Influence | 1.00% | ~3 |
-| Deepstrike | 0.90% | ~3 |
 | Don't Touch My Stuff | 0.90% | ~3 |
 | Ultra Kill | 0.90% | ~3 |
 | Death To Diplomacy | 0.60% | ~2 |

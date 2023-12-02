@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3526,9 +3526,9 @@
       "Count": 746
     }
   ],
-  "EOS_Progressed": 240519,
+  "EOS_Progressed": 240522,
   "EOS_Completed": 291,
-  "EOS_NewPlayers": 305,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -26901,6 +26901,11 @@
       "Time": "2023-12-02T18:10:03.7231792+00:00",
       "NumProgressed": 240519,
       "NumCompleted": 291
+    },
+    {
+      "Time": "2023-12-02T19:09:48.7458356+00:00",
+      "NumProgressed": 240522,
+      "NumCompleted": 291
     }
   ],
   "TotalAchievements": 138,
@@ -27142,9 +27147,9 @@
       "ID": "FATALPOISONESCAPE",
       "SetID": "5l8oe0h",
       "Name": "Walk It Off",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 962
     },
     {
       "ID": "FIREBEAD20EXPLOSIONS",
@@ -28015,13 +28020,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240519,
+      "Progressed": 240522,
       "Completed": 291
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1999,
+      "Progressed": 2002,
       "Completed": 393
     }
   ],
@@ -28029,8 +28034,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-01T22:58:42.0642847+00:00",
-  "LastChanged_Achievements": "2023-12-02T18:10:03.7231788+00:00",
+  "LastChanged_Achievements": "2023-12-02T19:09:48.7458353+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.3413354+00:00",
-  "LastUpdate_Ratings": "2023-12-02T17:58:46.6459788+00:00",
-  "LastUpdate_Achievements": "2023-12-02T18:10:03.7234198+00:00"
+  "LastUpdate_Ratings": "2023-12-02T18:58:56.7912899+00:00",
+  "LastUpdate_Achievements": "2023-12-02T19:09:48.7460591+00:00"
 }

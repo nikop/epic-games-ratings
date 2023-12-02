@@ -10,9 +10,9 @@
 | The Preacher's fate | 30.00% | ~254 |
 | A new dawn | 26.00% | ~220 |
 | Scholar | 24.00% | ~203 |
+| A good beginning | 23.00% | ~195 |
 | True G3M4R | 23.00% | ~195 |
 | The darkness | 23.00% | ~195 |
-| A good beginning | 22.00% | ~186 |
 | One last step | 21.00% | ~178 |
 | I did it | 20.00% | ~169 |
 | Cable guy | 20.00% | ~169 |
@@ -25,7 +25,7 @@
 | Alchemists Express | 16.00% | ~135 |
 | Free at last | 14.00% | ~118 |
 | Rascal | 14.00% | ~118 |
-| A Link to the Past | 12.00% | ~102 |
+| A Link to the Past | 13.00% | ~110 |
 | A great audience | 11.00% | ~93 |
 | For its own good | 10.00% | ~85 |
 | Fashion victim | 5.00% | ~42 |

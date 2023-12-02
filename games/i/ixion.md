@@ -7,14 +7,14 @@ Rating: 4.58 (Ranked 449)
 | ---- | ---------- | ----- |
 | Wakey Wakey | 29.00% | ~983 |
 | Sputnik 2049 | 26.00% | ~881 |
-| Infinite Growth... | 25.00% | ~847 |
-| Without Breaking Some Eggs... | 24.00% | ~813 |
+| Infinite Growth... | 25.00% | ~848 |
+| Without Breaking Some Eggs... | 24.00% | ~814 |
 | A Thousand Strong | 18.00% | ~610 |
 | Ready for a New World | 18.00% | ~610 |
 | Space Society | 17.00% | ~576 |
 | Permanent Redesigns | 15.00% | ~508 |
-| Fully Recycled | 14.00% | ~474 |
-| The Ship of Theseus | 14.00% | ~474 |
+| Fully Recycled | 14.00% | ~475 |
+| The Ship of Theseus | 14.00% | ~475 |
 | Guy de Borderlands | 13.00% | ~441 |
 | Ain't Nobody Got Time for That | 13.00% | ~441 |
 | Exceeding Capacity | 12.00% | ~407 |
@@ -30,11 +30,11 @@ Rating: 4.58 (Ranked 449)
 | From the Past | 7.00% | ~237 |
 | Access Granted | 6.00% | ~203 |
 | All in Good Health | 6.00% | ~203 |
-| Oats | 5.00% | ~169 |
-| What They Hide From Us | 5.00% | ~169 |
-| ...  in a finite world | 5.00% | ~169 |
-| BRAWL! | 5.00% | ~169 |
-| What the Ruins Teach Us | 5.00% | ~169 |
+| Oats | 5.00% | ~170 |
+| What They Hide From Us | 5.00% | ~170 |
+| ...  in a finite world | 5.00% | ~170 |
+| BRAWL! | 5.00% | ~170 |
+| What the Ruins Teach Us | 5.00% | ~170 |
 | Sustainable Energy | 4.00% | ~136 |
 | In Dolos We Trust | 4.00% | ~136 |
 | Pedal to the Metal | 4.00% | ~136 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 449)
 | Suburban Perfection | 0.10% | ~3 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,389 (Ranked 207)  
+Progressed: 3,390 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-29 | 3,377 | 0 |
 | 2023-11-30 | 3,381 | 0 |
 | 2023-12-01 | 3,386 | 0 |
-| 2023-12-02 | 3,389 | 0 |
+| 2023-12-02 | 3,390 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

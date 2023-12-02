@@ -2,13 +2,13 @@
   "ID": "snapdragon",
   "Name": "Metro Exodus Standard Edition",
   "ProductSlug": "metro-exodus",
-  "Ranking_Rating": 97,
+  "Ranking_Rating": 106,
   "Ranking_Popularity": 62,
   "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 772,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 497,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 499,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2019-02-15T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.79,
+  "Rating": 4.78,
   "NumberOfRatings": 7529,
   "RatingHistory": [
     {
@@ -5278,10 +5278,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 11346,
       "NumberOfAwardsMax": 6127
+    },
+    {
+      "Time": "2023-12-02T19:03:22.7600514+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 11347,
+      "NumberOfAwardsMax": 6127
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11346,
+  "NumberOfAwards": 11347,
   "NumberOfAwardsMax": 6127,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5313,7 +5319,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 637
+      "Count": 638
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5377,9 +5383,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:26.6430541+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.9783491+00:00",
-  "LastChanged": "2023-12-02T12:03:02.3128117+00:00",
-  "LastChanged_Achievements": "2023-12-02T18:05:13.654565+00:00",
+  "LastChanged": "2023-12-02T19:03:22.7600512+00:00",
+  "LastChanged_Achievements": "2023-12-02T19:05:10.9114215+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7826474+00:00",
-  "LastUpdate_Ratings": "2023-12-02T18:03:06.415414+00:00",
-  "LastUpdate_Achievements": "2023-12-02T18:05:13.6545681+00:00"
+  "LastUpdate_Ratings": "2023-12-02T19:03:22.7600518+00:00",
+  "LastUpdate_Achievements": "2023-12-02T19:05:10.9114234+00:00"
 }

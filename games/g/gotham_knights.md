@@ -1,14 +1,14 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 936)  
+Rating: 4.18 (Ranked 935)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 50.00% | ~38,788 |
 | Har, Har, Har, Very Funny | 34.00% | ~26,376 |
 | Loose Ends | 33.00% | ~25,600 |
-| To the Victor Go the Spoils | 28.00% | ~21,721 |
+| To the Victor Go the Spoils | 28.00% | ~21,722 |
 | Knighthood | 27.00% | ~20,946 |
 | Get ReQ'd | 25.00% | ~19,394 |
 | Whispered Words | 25.00% | ~19,394 |
@@ -19,13 +19,13 @@ Rating: 4.18 (Ranked 936)
 | Working Hard or Harley Working? | 20.00% | ~15,515 |
 | Unstoppable Force | 20.00% | ~15,515 |
 | Bad Apples in Every Orchard | 20.00% | ~15,515 |
-| Snow Problem | 19.00% | ~14,739 |
+| Snow Problem | 19.00% | ~14,740 |
 | The Show Mud Go On | 18.00% | ~13,964 |
 | From Inside Gotham's Walls | 18.00% | ~13,964 |
 | Protector of Gotham | 17.00% | ~13,188 |
 | Universal Health Scare | 16.00% | ~12,412 |
-| In Your Element | 15.00% | ~11,636 |
-| Voiceless | 15.00% | ~11,636 |
+| In Your Element | 15.00% | ~11,637 |
+| Voiceless | 15.00% | ~11,637 |
 | Rock and a Hard Place | 14.00% | ~10,861 |
 | Cooldown | 14.00% | ~10,861 |
 | Seeking Asylum | 14.00% | ~10,861 |
@@ -67,8 +67,8 @@ Rating: 4.18 (Ranked 936)
 | Element of Surprise | 0.20% | ~96 |
 | It's Nice to Be Wanted | 0.20% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,576 (Ranked 99)  
-Completed: 124 (0.16%) (Ranked 268)  
+Progressed: 77,577 (Ranked 99)  
+Completed: 124 (0.16%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -293,7 +293,7 @@ Completed: 124 (0.16%) (Ranked 268)
 | 2023-11-29 | 77,449 | 124 |
 | 2023-11-30 | 77,491 | 124 |
 | 2023-12-01 | 77,532 | 124 |
-| 2023-12-02 | 77,576 | 124 |
+| 2023-12-02 | 77,577 | 124 |
 ## Awards
 Max (Great Boss Battles): 2,987  (Ranked 98)  
 Sum: 5,097 (Ranked 140)  

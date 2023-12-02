@@ -14,7 +14,7 @@
 | The Breeder | 24.00% | ~147 |
 | The Veteran | 19.00% | ~116 |
 | The Traitor | 15.00% | ~92 |
-| The Spider | 14.00% | ~86 |
+| The Spider | 15.00% | ~92 |
 | Good as Fish | 12.00% | ~74 |
 | Her Eyes | 12.00% | ~74 |
 | Gollum/Sméagol | 10.00% | ~61 |
@@ -42,7 +42,7 @@
 | River Hobbit | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 613 (Ranked 299)  
-Completed: 1 (0.16%) (Ranked 268)  
+Completed: 1 (0.16%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

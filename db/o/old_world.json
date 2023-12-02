@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2070,7 +2070,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15601,
+  "EOS_Progressed": 15602,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
@@ -16980,6 +16980,11 @@
       "Time": "2023-12-02T18:04:06.3646168+00:00",
       "NumProgressed": 15601,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-02T19:04:03.5801436+00:00",
+      "NumProgressed": 15602,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -17165,9 +17170,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_1_GOLD",
       "SetID": "9201eeb",
       "Name": "Gold Victory (Carthage 1)",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_1_SILVER",
@@ -18837,9 +18842,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_PERSIA",
       "SetID": "7l38kb8",
       "Name": "Persian Paganism",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 312
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ROME",
@@ -19269,9 +19274,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_CLERGY_COURT",
       "SetID": "9201eeb",
       "Name": "The Clergy",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 312
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
@@ -19726,21 +19731,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15601,
+      "Progressed": 15602,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15601,
+      "Progressed": 15602,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-02T17:00:16.9280186+00:00",
-  "LastChanged_Achievements": "2023-12-02T18:04:06.3646165+00:00",
+  "LastChanged_Achievements": "2023-12-02T19:04:03.5801433+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.3516564+00:00",
-  "LastUpdate_Ratings": "2023-12-02T17:59:34.4726756+00:00",
-  "LastUpdate_Achievements": "2023-12-02T18:04:06.3655057+00:00"
+  "LastUpdate_Ratings": "2023-12-02T18:59:44.8113738+00:00",
+  "LastUpdate_Achievements": "2023-12-02T19:04:03.5809967+00:00"
 }

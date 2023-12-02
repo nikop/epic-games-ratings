@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 707,
+  "EOS_Progressed": 708,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -2374,6 +2374,11 @@
       "Time": "2023-12-02T14:03:15.6355033+00:00",
       "NumProgressed": 707,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-02T19:03:46.8962471+00:00",
+      "NumProgressed": 708,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -2409,7 +2414,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "female-conqueror",
@@ -2433,7 +2438,7 @@
       "Name": "Our Man",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "kill-lieutenants",
@@ -2447,9 +2452,9 @@
       "ID": "pack-and-sell",
       "SetID": "bed33dd",
       "Name": "Hokey-Pokey",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 502
+      "UsersEstimate": 496
     },
     {
       "ID": "play-at-night",
@@ -2465,7 +2470,7 @@
       "Name": "Follow the Money",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "rage-quit",
@@ -2473,7 +2478,7 @@
       "Name": "Bad Trip",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "rename-lieutenant",
@@ -2481,7 +2486,7 @@
       "Name": "I\u0027m Going To Call You Kitty",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "rob-village",
@@ -2505,7 +2510,7 @@
       "Name": "Camellos",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "unlock-residences",
@@ -2536,15 +2541,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 707,
+      "Progressed": 708,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-09-23T20:57:48.080138+00:00",
-  "LastChanged_Achievements": "2023-12-02T18:03:50.4119316+00:00",
+  "LastChanged_Achievements": "2023-12-02T19:03:46.8962468+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:08.8665232+00:00",
-  "LastUpdate_Ratings": "2023-12-02T17:57:55.2924674+00:00",
-  "LastUpdate_Achievements": "2023-12-02T18:03:50.4119649+00:00"
+  "LastUpdate_Ratings": "2023-12-02T18:58:03.8114619+00:00",
+  "LastUpdate_Achievements": "2023-12-02T19:03:46.896267+00:00"
 }

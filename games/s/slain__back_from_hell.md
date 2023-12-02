@@ -1,19 +1,19 @@
 # Slain: Back From Hell
 [Store](https://store.epicgames.com/en-US/p/slain-aea303)  
 [View Rawdata](../../db/s/slain__back_from_hell.json)  
-Rating: 4.29 (Ranked 849)  
+Rating: 4.29 (Ranked 850)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 21.00% | ~8,683 |
-| A Good Day To Die | 15.00% | ~6,202 |
+| Man 'O War | 21.00% | ~8,684 |
+| A Good Day To Die | 15.00% | ~6,203 |
 | Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~2,481 |
 | Right Back Atcha | 6.00% | ~2,481 |
-| Killed by Death | 5.00% | ~2,067 |
+| Killed by Death | 5.00% | ~2,068 |
 | Kill 'Em All | 4.00% | ~1,654 |
 | Down Boy! | 2.00% | ~827 |
 | A Snowball's Chance in Hell | 2.00% | ~827 |
-| Enjoy The Silence | 1.00% | ~413 |
+| Enjoy The Silence | 1.00% | ~414 |
 | Sure Footed As A Goat | 0.90% | ~372 |
 | Backdoor Man | 0.90% | ~372 |
 | Thorn in My Herbicide | 0.80% | ~331 |
@@ -35,7 +35,7 @@ Rating: 4.29 (Ranked 849)
 | Heart Of Steel | 0.10% | ~41 |
 | Death or Glory | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,349 (Ranked 122)  
+Progressed: 41,353 (Ranked 122)  
 Completed: 27 (0.07%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,14 +261,14 @@ Completed: 27 (0.07%) (Ranked 305)
 | 2023-11-29 | 41,187 | 26 |
 | 2023-11-30 | 41,236 | 26 |
 | 2023-12-01 | 41,293 | 27 |
-| 2023-12-02 | 41,349 | 27 |
+| 2023-12-02 | 41,353 | 27 |
 ## Awards
-Max (Great Boss Battles): 127  (Ranked 334)  
-Sum: 127 (Ranked 433)  
+Max (Great Boss Battles): 128  (Ranked 334)  
+Sum: 128 (Ranked 433)  
 Diff (max vs sum): -99  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 127 |
+| This game has Great Boss Battles | 128 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -310,3 +310,4 @@ Diff (max vs sum): -99
 | 2023-09-13 | 4.28 | 126 | 126 |
 | 2023-10-01 | 4.29 | 126 | 126 |
 | 2023-10-07 | 4.29 | 127 | 127 |
+| 2023-12-02 | 4.29 | 128 | 128 |

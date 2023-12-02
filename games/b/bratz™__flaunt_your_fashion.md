@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Stilesville | 92.00% | ~67 |
+| Welcome to Stilesville | 93.00% | ~68 |
 | Talented Performer | 55.00% | ~40 |
 | Welcome to Barcelona | 53.00% | ~39 |
 | Roller Race | 38.00% | ~28 |

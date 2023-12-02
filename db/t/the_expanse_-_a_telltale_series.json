@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -247,9 +247,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15841,
+  "EOS_Progressed": 15842,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 321,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -12912,6 +12912,11 @@
       "Time": "2023-12-02T18:04:59.7355992+00:00",
       "NumProgressed": 15841,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-02T19:04:57.0983167+00:00",
+      "NumProgressed": 15842,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13004,7 +13009,7 @@
       "Name": "Martian Music",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "2",
@@ -13028,7 +13033,7 @@
       "Name": "Drone Dodger",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "22",
@@ -13100,7 +13105,7 @@
       "Name": "Captain Drummer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "30",
@@ -13156,7 +13161,7 @@
       "Name": "Impossible Objects",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "31",
@@ -13203,13 +13208,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15841,
+      "Progressed": 15842,
       "Completed": 39
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1795,
+      "Progressed": 1796,
       "Completed": 789
     }
   ],
@@ -13217,8 +13222,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-02T18:02:57.3938434+00:00",
-  "LastChanged_Achievements": "2023-12-02T18:04:59.7355985+00:00",
+  "LastChanged_Achievements": "2023-12-02T19:04:57.0983165+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-12-02T18:02:57.3938439+00:00",
-  "LastUpdate_Achievements": "2023-12-02T18:04:59.735687+00:00"
+  "LastUpdate_Ratings": "2023-12-02T19:03:14.0650916+00:00",
+  "LastUpdate_Achievements": "2023-12-02T19:04:57.0983768+00:00"
 }

@@ -22,6 +22,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Heavy Hitter | 0.40% | ~962 |
 | Delving Deeper | 0.40% | ~962 |
 | R.I.P | 0.40% | ~962 |
+| Walk It Off | 0.40% | ~962 |
 | Cold Hearted | 0.40% | ~962 |
 | I Am Overburdened | 0.40% | ~962 |
 | The Bestiary | 0.40% | ~962 |
@@ -42,7 +43,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Dig Your Own Grave | 0.30% | ~722 |
 | Well Prepared | 0.30% | ~722 |
 | Who To Trust? | 0.30% | ~722 |
-| Walk It Off | 0.30% | ~722 |
 | Just Chilling | 0.30% | ~722 |
 | Save Our Souls | 0.30% | ~722 |
 | Destroy Your Fears | 0.30% | ~722 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,519 (Ranked 64)  
+Progressed: 240,522 (Ranked 64)  
 Completed: 291 (0.12%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -371,7 +371,7 @@ Completed: 291 (0.12%) (Ranked 280)
 | 2023-11-29 | 240,403 | 291 |
 | 2023-11-30 | 240,445 | 291 |
 | 2023-12-01 | 240,480 | 291 |
-| 2023-12-02 | 240,519 | 291 |
+| 2023-12-02 | 240,522 | 291 |
 ## Awards
 Max (Great for Beginners): 1,534  (Ranked 132)  
 Sum: 13,240 (Ranked 78)  

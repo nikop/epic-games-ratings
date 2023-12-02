@@ -6,12 +6,12 @@
 | ---- | ---------- | ----- |
 | Feels Familiar | 75.00% | ~796 |
 | I Broke It | 73.00% | ~775 |
-| Better On Ice | 67.00% | ~711 |
-| Notai Notes | 67.00% | ~711 |
-| Cutie Poro | 66.00% | ~700 |
-| Blue Dreams | 65.00% | ~690 |
+| Better On Ice | 68.00% | ~722 |
+| Notai Notes | 67.00% | ~712 |
+| Blue Dreams | 66.00% | ~701 |
+| Cutie Poro | 66.00% | ~701 |
 | He's Famous! | 65.00% | ~690 |
-| Krugmazing | 63.00% | ~668 |
+| Krugmazing | 63.00% | ~669 |
 | Moneyball | 60.00% | ~637 |
 | The Fire Below the Mountain | 60.00% | ~637 |
 | No Bites | 54.00% | ~573 |
@@ -19,37 +19,37 @@
 | Tear of Freedom | 52.00% | ~552 |
 | Boom Things | 52.00% | ~552 |
 | My Darkest Day | 49.00% | ~520 |
-| Rhythm Of Willump | 46.00% | ~488 |
-| The Relentless Storm | 46.00% | ~488 |
+| Rhythm Of Willump | 46.00% | ~489 |
+| The Relentless Storm | 46.00% | ~489 |
 | A Tragic Reminder | 44.00% | ~467 |
 | 3000 Year Blackout | 44.00% | ~467 |
 | The Finisher | 42.00% | ~446 |
 | So Close | 41.00% | ~435 |
 | You Get Used To It | 41.00% | ~435 |
 | True Legends | 39.00% | ~414 |
-| Family | 38.00% | ~403 |
-| Biggest Snowball Ever | 38.00% | ~403 |
-| Boosted! | 38.00% | ~403 |
-| Deadliest and Biggest Snowball Ever! | 38.00% | ~403 |
+| Family | 38.00% | ~404 |
+| Biggest Snowball Ever | 38.00% | ~404 |
+| Boosted! | 38.00% | ~404 |
+| Deadliest and Biggest Snowball Ever! | 38.00% | ~404 |
 | Freeze The Ice Witch | 37.00% | ~393 |
 | Bullseye | 36.00% | ~382 |
 | It Is Not Over | 34.00% | ~361 |
 | On The Rocks | 34.00% | ~361 |
 | Snowy Poro | 32.00% | ~340 |
 | Never Gets Old | 31.00% | ~329 |
-| Vertical Power | 27.00% | ~286 |
+| Vertical Power | 27.00% | ~287 |
 | One From The Heart | 14.00% | ~149 |
 | Yummy | 10.00% | ~106 |
-| Snowball Fightn't | 9.00% | ~95 |
+| Snowball Fightn't | 9.00% | ~96 |
 | It Was Him | 8.00% | ~85 |
-| Handy Yeti | 7.00% | ~74 |
+| Handy Yeti | 6.00% | ~64 |
 | The Pied Piper Of Freljord | 5.00% | ~53 |
 | Braum's Poro Ranch | 3.00% | ~32 |
 | Sneaky Notai | 2.00% | ~21 |
 | Rock Star | 2.00% | ~21 |
 | We Are Speed | 2.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,061 (Ranked 261)  
+Progressed: 1,062 (Ranked 261)  
 Completed: 8 (0.75%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,4 +92,4 @@ Completed: 8 (0.75%) (Ranked 185)
 | 2023-11-29 | 1,020 | 8 |
 | 2023-11-30 | 1,032 | 8 |
 | 2023-12-01 | 1,051 | 8 |
-| 2023-12-02 | 1,061 | 8 |
+| 2023-12-02 | 1,062 | 8 |

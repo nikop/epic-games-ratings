@@ -5,30 +5,30 @@ Rating: 4.44 (Ranked 680)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,862 |
-| Confirming Suspicions | 41.00% | ~1,624 |
-| The Kraken Wakes | 37.00% | ~1,466 |
-| It's Starting to Crack | 34.00% | ~1,347 |
-| Change the Channel | 31.00% | ~1,228 |
+| Meeting Resistance | 47.00% | ~1,863 |
+| Confirming Suspicions | 41.00% | ~1,625 |
+| The Kraken Wakes | 37.00% | ~1,467 |
+| It's Starting to Crack | 34.00% | ~1,348 |
+| Change the Channel | 31.00% | ~1,229 |
 | Lord of War | 30.00% | ~1,189 |
-| Taking it back | 29.00% | ~1,149 |
+| Taking it back | 29.00% | ~1,150 |
 | Resourceful | 27.00% | ~1,070 |
 | Target America | 27.00% | ~1,070 |
-| The Kraken Sleeps | 25.00% | ~990 |
-| Liberté | 23.00% | ~911 |
-| Organ Grinder | 23.00% | ~911 |
-| As Quiet as a Mouse | 23.00% | ~911 |
+| The Kraken Sleeps | 25.00% | ~991 |
+| Liberté | 23.00% | ~912 |
+| Organ Grinder | 23.00% | ~912 |
+| As Quiet as a Mouse | 23.00% | ~912 |
 | Sharpshooter | 22.00% | ~872 |
 | Gunslinger | 19.00% | ~753 |
 | Explosive Efficiency | 19.00% | ~753 |
-| Climbing the Ladder | 17.00% | ~674 |
 | Just a Flesh Wound | 17.00% | ~674 |
 | Der Geist | 17.00% | ~674 |
+| Climbing the Ladder | 16.00% | ~634 |
 | Close Quarters | 16.00% | ~634 |
 | Snake in the Grass | 16.00% | ~634 |
-| Skirmisher | 15.00% | ~594 |
-| Die Nussknacker Sweet! | 15.00% | ~594 |
-| Brains of the Operation | 15.00% | ~594 |
+| Skirmisher | 15.00% | ~595 |
+| Die Nussknacker Sweet! | 15.00% | ~595 |
+| Brains of the Operation | 15.00% | ~595 |
 | No Stone Unturned | 14.00% | ~555 |
 | Opposing Force | 14.00% | ~555 |
 | Enemy at the Gates | 14.00% | ~555 |
@@ -47,8 +47,8 @@ Rating: 4.44 (Ranked 680)
 | Last Resort | 5.00% | ~196 |
 | Siegebreaker | 5.00% | ~196 |
 | Ghost of Falaise | 5.00% | ~196 |
-| Strategist | 4.00% | ~158 |
-| Locomotion Commotion | 4.00% | ~158 |
+| Strategist | 4.00% | ~159 |
+| Locomotion Commotion | 4.00% | ~159 |
 | From Paris with Love | 3.00% | ~119 |
 | Burn after reading | 3.00% | ~119 |
 | Souvenir hunter | 3.00% | ~119 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 680)
 | Stroll in the Woods | 0.60% | ~23 |
 | Going Overboard | 0.60% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,962 (Ranked 198)  
+Progressed: 3,964 (Ranked 198)  
 Completed: 11 (0.28%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 11 (0.28%) (Ranked 243)
 | 2023-11-29 | 3,955 | 11 |
 | 2023-11-30 | 3,958 | 11 |
 | 2023-12-01 | 3,961 | 11 |
-| 2023-12-02 | 3,962 | 11 |
+| 2023-12-02 | 3,964 | 11 |
 ## Awards
 Max (Great for Beginners): 27  (Ranked 514)  
 Sum: 27 (Ranked 528)  
