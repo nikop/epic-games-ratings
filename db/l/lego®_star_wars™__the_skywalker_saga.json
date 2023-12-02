@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 126,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3707,9 +3707,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 52029,
+  "EOS_Progressed": 52030,
   "EOS_Completed": 250,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -14127,6 +14127,11 @@
       "Time": "2023-12-01T20:05:58.1211331+00:00",
       "NumProgressed": 52029,
       "NumCompleted": 250
+    },
+    {
+      "Time": "2023-12-02T10:05:04.087566+00:00",
+      "NumProgressed": 52030,
+      "NumCompleted": 250
     }
   ],
   "TotalAchievements": 45,
@@ -14162,7 +14167,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 41103
+      "UsersEstimate": 41104
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -14250,7 +14255,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 30697
+      "UsersEstimate": 30698
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -14290,7 +14295,7 @@
       "Name": "Return of the Jedi",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 16649
+      "UsersEstimate": 16650
     },
     {
       "ID": "COMPLETE_EPISODE_7",
@@ -14346,7 +14351,7 @@
       "Name": "Rishi Maze",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2601
+      "UsersEstimate": 2602
     },
     {
       "ID": "COMPLETE_KASHYYYK_KIJIMI",
@@ -14378,7 +14383,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 30697
+      "UsersEstimate": 30698
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -14394,7 +14399,7 @@
       "Name": "\u0027\u0027Only one business in the Galaxy...\u0027\u0027",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 2601
+      "UsersEstimate": 2602
     },
     {
       "ID": "EARN_17K_STUDS",
@@ -14402,7 +14407,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50468
+      "UsersEstimate": 50469
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -14442,7 +14447,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 37461
+      "UsersEstimate": 37462
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -14490,22 +14495,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 37461
+      "UsersEstimate": 37462
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 52029,
+      "Progressed": 52030,
       "Completed": 250
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-12-01T01:57:08.1141393+00:00",
-  "LastChanged_Achievements": "2023-12-02T09:06:02.7287033+00:00",
+  "LastChanged_Achievements": "2023-12-02T10:05:04.0875657+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:05.8271554+00:00",
-  "LastUpdate_Ratings": "2023-12-02T08:57:40.6615603+00:00",
-  "LastUpdate_Achievements": "2023-12-02T09:06:02.7287783+00:00"
+  "LastUpdate_Ratings": "2023-12-02T09:57:32.0447599+00:00",
+  "LastUpdate_Achievements": "2023-12-02T10:05:04.0876443+00:00"
 }

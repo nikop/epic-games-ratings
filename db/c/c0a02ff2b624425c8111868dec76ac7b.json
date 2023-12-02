@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
     "PcReleaseDate": "2023-11-21T13:00:00+00:00",
@@ -516,9 +516,9 @@
       "ID": "ACH_ALL_WEAPONS",
       "SetID": "cagp2pi",
       "Name": "Weapon Master",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_ANGEL_ABSORBED",
@@ -683,8 +683,8 @@
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-12-02T09:06:29.1790484+00:00",
+  "LastChanged_Achievements": "2023-12-02T10:05:23.9587347+00:00",
   "LastUpdate_AppInfo": "2023-12-01T13:57:00.5730741+00:00",
-  "LastUpdate_Ratings": "2023-12-02T08:57:56.1757177+00:00",
-  "LastUpdate_Achievements": "2023-12-02T09:06:29.1790645+00:00"
+  "LastUpdate_Ratings": "2023-12-02T09:57:42.8115467+00:00",
+  "LastUpdate_Achievements": "2023-12-02T10:05:23.95875+00:00"
 }

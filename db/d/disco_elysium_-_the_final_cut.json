@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 335,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1514,9 +1514,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131509,
+  "EOS_Progressed": 131510,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -23569,6 +23569,11 @@
       "Time": "2023-12-02T09:05:25.6188243+00:00",
       "NumProgressed": 131509,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-02T10:04:36.1177326+00:00",
+      "NumProgressed": 131510,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -23684,7 +23689,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21041
+      "UsersEstimate": 21042
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -23716,7 +23721,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21041
+      "UsersEstimate": 21042
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -23899,15 +23904,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131509,
+      "Progressed": 131510,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-28T12:00:15.5937153+00:00",
-  "LastChanged_Achievements": "2023-12-02T09:05:25.6188239+00:00",
+  "LastChanged_Achievements": "2023-12-02T10:04:36.1177323+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:19.415585+00:00",
-  "LastUpdate_Ratings": "2023-12-02T08:57:33.099172+00:00",
-  "LastUpdate_Achievements": "2023-12-02T09:05:25.6189433+00:00"
+  "LastUpdate_Ratings": "2023-12-02T09:57:26.8169018+00:00",
+  "LastUpdate_Achievements": "2023-12-02T10:04:36.1178592+00:00"
 }

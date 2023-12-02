@@ -7333,10 +7333,10 @@
       "Count": 3789
     }
   ],
-  "EOS_Progressed": 143340,
+  "EOS_Progressed": 143353,
   "EOS_Completed": 290,
-  "EOS_NewPlayers": 1533,
-  "EOS_NewCompleters": 32,
+  "EOS_NewPlayers": 1527,
+  "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -30738,6 +30738,11 @@
       "Time": "2023-12-02T09:06:17.432191+00:00",
       "NumProgressed": 143340,
       "NumCompleted": 290
+    },
+    {
+      "Time": "2023-12-02T10:05:15.2236786+00:00",
+      "NumProgressed": 143353,
+      "NumCompleted": 290
     }
   ],
   "TotalAchievements": 112,
@@ -30749,7 +30754,7 @@
       "Name": "The Daily Grind",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4300
+      "UsersEstimate": 4301
     },
     {
       "ID": "advlevel02",
@@ -30773,7 +30778,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "advlevel05",
@@ -30781,7 +30786,7 @@
       "Name": "Top of the World",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "argon_a",
@@ -30789,7 +30794,7 @@
       "Name": "Proud Paladin",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "ascend01",
@@ -30813,7 +30818,7 @@
       "Name": "Constellated",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "ashley_a",
@@ -30821,7 +30826,7 @@
       "Name": "A Ronin Reborn",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "bigsale01",
@@ -30869,7 +30874,7 @@
       "Name": "Thirst for Knowledge",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "bookentry",
@@ -30885,7 +30890,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4300
+      "UsersEstimate": 4301
     },
     {
       "ID": "boss02",
@@ -30917,7 +30922,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10034
+      "UsersEstimate": 10035
     },
     {
       "ID": "chest02",
@@ -30933,7 +30938,7 @@
       "Name": "Booty by the Boatload",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "collection01",
@@ -30957,7 +30962,7 @@
       "Name": "Archivist",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "collection04",
@@ -30981,7 +30986,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8600
+      "UsersEstimate": 8601
     },
     {
       "ID": "commonres02",
@@ -30989,7 +30994,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4300
+      "UsersEstimate": 4301
     },
     {
       "ID": "commonres03",
@@ -31005,7 +31010,7 @@
       "Name": "Fillin\u0027 the Bin",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "craft01",
@@ -31013,7 +31018,7 @@
       "Name": "Disintermediation",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7167
+      "UsersEstimate": 7168
     },
     {
       "ID": "craft02",
@@ -31021,7 +31026,7 @@
       "Name": "Flooding the Market",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4300
+      "UsersEstimate": 4301
     },
     {
       "ID": "craft03",
@@ -31037,7 +31042,7 @@
       "Name": "Industrial Evolution",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "craft05",
@@ -31053,7 +31058,7 @@
       "Name": "Where it Hurts",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4300
+      "UsersEstimate": 4301
     },
     {
       "ID": "damage02",
@@ -31077,7 +31082,7 @@
       "Name": "Master of Transmutation",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "enchant01",
@@ -31117,7 +31122,7 @@
       "Name": "Supercharged",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "expansion01",
@@ -31141,7 +31146,7 @@
       "Name": "Thank You Tom Nook",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "fullmoon",
@@ -31149,7 +31154,7 @@
       "Name": "Ritualist",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "furniture01",
@@ -31173,7 +31178,7 @@
       "Name": "Fit for a King",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "fuseepic",
@@ -31181,7 +31186,7 @@
       "Name": "By Your Powers Combined...",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "fuseflawless",
@@ -31197,7 +31202,7 @@
       "Name": "A Legend is Born",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "fuseuncommon",
@@ -31221,7 +31226,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8600
+      "UsersEstimate": 8601
     },
     {
       "ID": "gold02",
@@ -31229,7 +31234,7 @@
       "Name": "Pretty Penny",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4300
+      "UsersEstimate": 4301
     },
     {
       "ID": "gold03",
@@ -31261,7 +31266,7 @@
       "Name": "Wealth Beyond Measure",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "help01",
@@ -31293,7 +31298,7 @@
       "Name": "Necromancer Queen",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "jackslot01",
@@ -31301,7 +31306,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4300
+      "UsersEstimate": 4301
     },
     {
       "ID": "jackslot02",
@@ -31309,7 +31314,7 @@
       "Name": "Jackpot!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "jackslot03",
@@ -31325,7 +31330,7 @@
       "Name": "Item of Renown",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "level01",
@@ -31365,7 +31370,7 @@
       "Name": "Miracle Alchemist",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "loot01",
@@ -31373,7 +31378,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4300
+      "UsersEstimate": 4301
     },
     {
       "ID": "loot02",
@@ -31389,7 +31394,7 @@
       "Name": "Bountiful Harvest",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "loot04",
@@ -31405,7 +31410,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4300
+      "UsersEstimate": 4301
     },
     {
       "ID": "master02",
@@ -31429,7 +31434,7 @@
       "Name": "Precision Engineering",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "master05",
@@ -31453,7 +31458,7 @@
       "Name": "Scourge of the Seas",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "quest01",
@@ -31501,7 +31506,7 @@
       "Name": "Treasure Trove",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "rareres03",
@@ -31517,7 +31522,7 @@
       "Name": "Moment of Respite",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "sell01",
@@ -31525,7 +31530,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7167
+      "UsersEstimate": 7168
     },
     {
       "ID": "sell02",
@@ -31549,7 +31554,7 @@
       "Name": "King\u0027s Shadow",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "transmuter",
@@ -31557,7 +31562,7 @@
       "Name": "Master Recycler",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "tutorial",
@@ -31565,7 +31570,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10034
+      "UsersEstimate": 10035
     },
     {
       "ID": "twinenchant01",
@@ -31581,7 +31586,7 @@
       "Name": "All Accounted For",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "uncommonres01",
@@ -31605,7 +31610,7 @@
       "Name": "Economy of Scarce",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "workers01",
@@ -31637,22 +31642,22 @@
       "Name": "King\u0027s Blade",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     }
   ],
   "AchievementSets": [
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 143340,
+      "Progressed": 143353,
       "Completed": 290
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-02T01:45:50.8831877+00:00",
-  "LastChanged_Achievements": "2023-12-02T09:06:17.4321908+00:00",
+  "LastChanged_Achievements": "2023-12-02T10:05:15.2236784+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-12-02T09:03:13.4584955+00:00",
-  "LastUpdate_Achievements": "2023-12-02T09:06:17.4323739+00:00"
+  "LastUpdate_Ratings": "2023-12-02T10:02:56.9092187+00:00",
+  "LastUpdate_Achievements": "2023-12-02T10:05:15.2238615+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -2274,9 +2274,9 @@
       "ID": "ACH_CHALL_CH05",
       "SetID": "1j25agn",
       "Name": "Challenges of Chapter V",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_CHALL_CH06",
@@ -2714,8 +2714,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-28T01:45:15.549368+00:00",
-  "LastChanged_Achievements": "2023-12-02T09:10:06.6721859+00:00",
+  "LastChanged_Achievements": "2023-12-02T10:09:26.8924907+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:15.0158922+00:00",
-  "LastUpdate_Ratings": "2023-12-02T09:00:15.1894992+00:00",
-  "LastUpdate_Achievements": "2023-12-02T09:10:06.6722405+00:00"
+  "LastUpdate_Ratings": "2023-12-02T09:59:23.5827128+00:00",
+  "LastUpdate_Achievements": "2023-12-02T10:09:26.8925352+00:00"
 }

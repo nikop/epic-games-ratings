@@ -27,6 +27,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 4.00% | ~624 |
 | Trade Caravan | 4.00% | ~624 |
 | Ambitious | 3.00% | ~468 |
+| Drillmaster | 3.00% | ~468 |
 | Brilliant | 3.00% | ~468 |
 | Enlightened | 3.00% | ~468 |
 | Fountainhead | 3.00% | ~468 |
@@ -53,7 +54,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 2.00% | ~312 |
 | Hanging Gardens in Babylon | 2.00% | ~312 |
 | Beloved | 2.00% | ~312 |
-| Drillmaster | 2.00% | ~312 |
 | Conqueror | 2.00% | ~312 |
 | Great | 2.00% | ~312 |
 | Intercessor | 2.00% | ~312 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,590 (Ranked 152)  
+Progressed: 15,591 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -575,7 +575,7 @@ Completed: 5 (0.03%) (Ranked 328)
 | 2023-11-29 | 15,545 | 5 |
 | 2023-11-30 | 15,566 | 5 |
 | 2023-12-01 | 15,583 | 5 |
-| 2023-12-02 | 15,590 | 5 |
+| 2023-12-02 | 15,591 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,883 (Ranked 219)  

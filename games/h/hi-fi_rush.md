@@ -5,12 +5,12 @@ Rating: 4.87 (Ranked 22)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 19.00% | ~845 |
-| Feeling the beat! | 19.00% | ~845 |
+| Start with a bang! | 19.00% | ~846 |
+| Feeling the beat! | 19.00% | ~846 |
 | You can pet the cat! | 18.00% | ~801 |
 | Cream of the Crop | 16.00% | ~712 |
 | Who put gears in there? | 16.00% | ~712 |
-| Thanks for the free chip, Peppermint! | 15.00% | ~667 |
+| Thanks for the free chip, Peppermint! | 15.00% | ~668 |
 | You got this, Peppermint? | 14.00% | ~623 |
 | Perfect Parry | 14.00% | ~623 |
 | Alright, that felt AWESOME! | 13.00% | ~578 |
@@ -18,27 +18,27 @@ Rating: 4.87 (Ranked 22)
 | I play my own way! | 12.00% | ~534 |
 | Z-shielding's got nothing on us! | 12.00% | ~534 |
 | Uh, they were broken when I got here | 12.00% | ~534 |
-| Kissing the sky! | 11.00% | ~489 |
+| Kissing the sky! | 11.00% | ~490 |
 | The Negotiator | 10.00% | ~445 |
 | Whoa! There's ANOTHER health bar!? | 10.00% | ~445 |
 | Headliner | 9.00% | ~400 |
+| Time to pay up! | 9.00% | ~400 |
 | You must like calling me in, Chai | 9.00% | ~400 |
 | Out in a puff of smoke | 9.00% | ~400 |
 | I look cool. But I can look COOLER. | 9.00% | ~400 |
 | Does that say weakpoint? | 9.00% | ~400 |
-| Time to pay up! | 8.00% | ~356 |
 | Who's the boss now? | 8.00% | ~356 |
 | Perfecter Parry-er! | 8.00% | ~356 |
 | NOW we got a kickass hideout! | 8.00% | ~238 |
-| I have to read these things? | 7.00% | ~311 |
+| I have to read these things? | 7.00% | ~312 |
 | Well that was a rush! | 5.00% | ~222 |
 | Beat-hit mania | 5.00% | ~222 |
 | That's a lot of junk metal… | 5.00% | ~222 |
 | There's such a thing as TOO helpful | 5.00% | ~222 |
-| Chip-tuned | 3.00% | ~133 |
-| Wanna hear my playlist? | 3.00% | ~133 |
-| I told you I'd be fine, Peppermint! | 3.00% | ~133 |
-| Check out my moves! | 3.00% | ~133 |
+| Chip-tuned | 3.00% | ~134 |
+| Wanna hear my playlist? | 3.00% | ~134 |
+| I told you I'd be fine, Peppermint! | 3.00% | ~134 |
+| Check out my moves! | 3.00% | ~134 |
 | I think I deserve some praise, here! | 2.00% | ~89 |
 | I think I found your calling, Macaron | 2.00% | ~89 |
 | This is a breeze! | 2.00% | ~89 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 22)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,448 (Ranked 194)  
+Progressed: 4,450 (Ranked 194)  
 Completed: 8 (0.18%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 8 (0.18%) (Ranked 265)
 | 2023-11-29 | 4,429 | 8 |
 | 2023-11-30 | 4,441 | 8 |
 | 2023-12-01 | 4,446 | 8 |
-| 2023-12-02 | 4,448 | 8 |
+| 2023-12-02 | 4,450 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4448,
+  "EOS_Progressed": 4450,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -8030,6 +8030,11 @@
       "Time": "2023-12-02T07:06:00.8919898+00:00",
       "NumProgressed": 4448,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-02T10:06:05.5150382+00:00",
+      "NumProgressed": 4450,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8041,7 +8046,7 @@
       "Name": "Start with a bang!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "Ach002",
@@ -8079,9 +8084,9 @@
       "ID": "Ach006",
       "SetID": "12n4k20",
       "Name": "Time to pay up!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 400
     },
     {
       "ID": "Ach007",
@@ -8153,7 +8158,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "Ach016",
@@ -8161,7 +8166,7 @@
       "Name": "Chip-tuned",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Ach017",
@@ -8201,7 +8206,7 @@
       "Name": "I have to read these things?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "Ach022",
@@ -8217,7 +8222,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "Ach024",
@@ -8321,7 +8326,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "Ach037",
@@ -8449,7 +8454,7 @@
       "Name": "Wanna hear my playlist?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Ach053",
@@ -8465,7 +8470,7 @@
       "Name": "I told you I\u0027d be fine, Peppermint!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Ach055",
@@ -8513,7 +8518,7 @@
       "Name": "Check out my moves!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Ach061",
@@ -8608,13 +8613,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4448,
+      "Progressed": 4450,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2969,
+      "Progressed": 2971,
       "Completed": 1930
     }
   ],
@@ -8622,8 +8627,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-02T09:07:23.203159+00:00",
+  "LastChanged_Achievements": "2023-12-02T10:06:05.5150377+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-12-02T08:59:55.9317729+00:00",
-  "LastUpdate_Achievements": "2023-12-02T09:07:23.2032555+00:00"
+  "LastUpdate_Ratings": "2023-12-02T09:59:10.0382535+00:00",
+  "LastUpdate_Achievements": "2023-12-02T10:06:05.5151225+00:00"
 }

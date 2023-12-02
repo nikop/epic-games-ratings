@@ -36,27 +36,27 @@ Number of Ratings: 15,086  (23.09.2022)
 | Sneaky | 0.40% | ~962 |
 | Expensive Look | 0.40% | ~8 |
 | What Doesn't Kill You | 0.40% | ~8 |
-| Consecutive Curses | 0.30% | ~721 |
-| To The Death! | 0.30% | ~721 |
-| Dig Your Own Grave | 0.30% | ~721 |
-| Well Prepared | 0.30% | ~721 |
-| Who To Trust? | 0.30% | ~721 |
-| Walk It Off | 0.30% | ~721 |
-| Just Chilling | 0.30% | ~721 |
-| Save Our Souls | 0.30% | ~721 |
-| Destroy Your Fears | 0.30% | ~721 |
-| Don't Ignore Me! | 0.30% | ~721 |
-| All Consuming | 0.30% | ~721 |
-| Stop Hitting Yourself | 0.30% | ~721 |
-| Shootout | 0.30% | ~721 |
-| Stone Touch | 0.30% | ~721 |
-| Doing Time | 0.30% | ~721 |
-| Spreading Plague | 0.30% | ~721 |
-| Acid Bath | 0.30% | ~721 |
-| New Perspectives | 0.30% | ~721 |
-| Shadow Walker | 0.30% | ~721 |
-| Flesh Wound | 0.30% | ~721 |
-| Shapeshifting | 0.30% | ~721 |
+| Consecutive Curses | 0.30% | ~722 |
+| To The Death! | 0.30% | ~722 |
+| Dig Your Own Grave | 0.30% | ~722 |
+| Well Prepared | 0.30% | ~722 |
+| Who To Trust? | 0.30% | ~722 |
+| Walk It Off | 0.30% | ~722 |
+| Just Chilling | 0.30% | ~722 |
+| Save Our Souls | 0.30% | ~722 |
+| Destroy Your Fears | 0.30% | ~722 |
+| Don't Ignore Me! | 0.30% | ~722 |
+| All Consuming | 0.30% | ~722 |
+| Stop Hitting Yourself | 0.30% | ~722 |
+| Shootout | 0.30% | ~722 |
+| Stone Touch | 0.30% | ~722 |
+| Doing Time | 0.30% | ~722 |
+| Spreading Plague | 0.30% | ~722 |
+| Acid Bath | 0.30% | ~722 |
+| New Perspectives | 0.30% | ~722 |
+| Shadow Walker | 0.30% | ~722 |
+| Flesh Wound | 0.30% | ~722 |
+| Shapeshifting | 0.30% | ~722 |
 | Who Needs Luck? | 0.30% | ~6 |
 | Thank You, Friend | 0.20% | ~481 |
 | Achievement Hunter | 0.20% | ~481 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,499 (Ranked 63)  
+Progressed: 240,500 (Ranked 63)  
 Completed: 291 (0.12%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -371,7 +371,7 @@ Completed: 291 (0.12%) (Ranked 280)
 | 2023-11-29 | 240,403 | 291 |
 | 2023-11-30 | 240,445 | 291 |
 | 2023-12-01 | 240,480 | 291 |
-| 2023-12-02 | 240,499 | 291 |
+| 2023-12-02 | 240,500 | 291 |
 ## Awards
 Max (Great for Beginners): 1,534  (Ranked 132)  
 Sum: 13,240 (Ranked 78)  

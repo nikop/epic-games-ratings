@@ -17,7 +17,7 @@ Number of Ratings: 58  (23.09.2022)
 | Paragon | 62.00% | ~805 |
 | Old Days Born Anew | 61.00% | ~792 |
 | Full Arsenal | 56.00% | ~727 |
-| Controlled Demolition | 54.00% | ~701 |
+| Controlled Demolition | 55.00% | ~714 |
 | Payback | 52.00% | ~675 |
 | Huntress | 52.00% | ~675 |
 | Born to Drift | 51.00% | ~662 |
@@ -43,8 +43,8 @@ Number of Ratings: 58  (23.09.2022)
 | Retaliate | 22.00% | ~286 |
 | Power Chord | 21.00% | ~273 |
 | Crash Test | 21.00% | ~273 |
+| Rise as One | 20.00% | ~260 |
 | Ascension | 20.00% | ~260 |
-| Rise as One | 19.00% | ~247 |
 | Showoff | 15.00% | ~195 |
 | Radiation Area | 11.00% | ~143 |
 | Overcharged | 10.00% | ~130 |

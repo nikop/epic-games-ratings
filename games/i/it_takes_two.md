@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Struck A Pose | 88.00% | ~22,345 |
-| Fried Friendship | 87.00% | ~22,091 |
-| Look At Him Go | 79.00% | ~20,060 |
-| On Rails Experience | 57.00% | ~14,473 |
-| A Daring Devil | 53.00% | ~13,458 |
-| It Took Two | 44.00% | ~11,172 |
-| Break the Bank | 43.00% | ~10,919 |
-| Bug Sized Relaxation | 22.00% | ~5,586 |
-| Plastic Prison Breakers | 17.00% | ~4,317 |
-| Terror Of The Seven Seas | 16.00% | ~4,063 |
-| Realize Your Art | 12.00% | ~3,047 |
-| Force Triangulated | 12.00% | ~3,047 |
-| Meditation Maestro | 12.00% | ~3,047 |
-| Lost And Found | 11.00% | ~2,793 |
-| Something Fishy | 11.00% | ~2,793 |
-| Platforming Prodigy | 9.00% | ~2,285 |
-| Snackosaurus | 8.00% | ~2,031 |
-| Mood Swing | 7.00% | ~1,777 |
+| Struck A Pose | 88.00% | ~22,356 |
+| Fried Friendship | 87.00% | ~22,102 |
+| Look At Him Go | 79.00% | ~20,070 |
+| On Rails Experience | 57.00% | ~14,481 |
+| A Daring Devil | 53.00% | ~13,465 |
+| It Took Two | 44.00% | ~11,178 |
+| Break the Bank | 43.00% | ~10,924 |
+| Bug Sized Relaxation | 22.00% | ~5,589 |
+| Plastic Prison Breakers | 17.00% | ~4,319 |
+| Terror Of The Seven Seas | 16.00% | ~4,065 |
+| Realize Your Art | 12.00% | ~3,049 |
+| Force Triangulated | 12.00% | ~3,049 |
+| Meditation Maestro | 12.00% | ~3,049 |
+| Lost And Found | 11.00% | ~2,795 |
+| Something Fishy | 11.00% | ~2,795 |
+| Platforming Prodigy | 9.00% | ~2,286 |
+| Snackosaurus | 8.00% | ~2,032 |
+| Mood Swing | 7.00% | ~1,778 |
 | Minigame Megalomania | 4.00% | ~1,016 |
 | Faraway Frequencies | 4.00% | ~1,016 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,392 (Ranked 128)  
+Progressed: 25,405 (Ranked 128)  
 Completed: 109 (0.43%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,4 +103,4 @@ Completed: 109 (0.43%) (Ranked 216)
 | 2023-11-29 | 24,901 | 106 |
 | 2023-11-30 | 25,070 | 106 |
 | 2023-12-01 | 25,283 | 109 |
-| 2023-12-02 | 25,392 | 109 |
+| 2023-12-02 | 25,405 | 109 |

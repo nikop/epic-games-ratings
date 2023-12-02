@@ -4,11 +4,11 @@
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
   "Ranking_Rating": 573,
   "Ranking_Popularity": 317,
-  "Ranking_PopularitySum": 401,
+  "Ranking_PopularitySum": 402,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16787,
+  "EOS_Progressed": 16789,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -15293,6 +15293,11 @@
       "Time": "2023-12-02T08:05:24.2926122+00:00",
       "NumProgressed": 16787,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-12-02T10:05:31.1029542+00:00",
+      "NumProgressed": 16789,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15408,7 +15413,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 5036
+      "UsersEstimate": 5037
     },
     {
       "ID": "tpote_achievement_22",
@@ -15416,7 +15421,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3357
+      "UsersEstimate": 3358
     },
     {
       "ID": "tpote_achievement_23",
@@ -15440,7 +15445,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "tpote_achievement_26",
@@ -15448,7 +15453,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     },
     {
       "ID": "tpote_achievement_27",
@@ -15464,7 +15469,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2014
+      "UsersEstimate": 2015
     },
     {
       "ID": "tpote_achievement_29",
@@ -15552,7 +15557,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "tpote_achievement_39",
@@ -15568,7 +15573,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6715
+      "UsersEstimate": 6716
     },
     {
       "ID": "tpote_achievement_40",
@@ -15616,7 +15621,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3525
+      "UsersEstimate": 3526
     },
     {
       "ID": "tpote_achievement_9",
@@ -15631,15 +15636,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16787,
+      "Progressed": 16789,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-12-02T09:06:38.3886549+00:00",
+  "LastChanged_Achievements": "2023-12-02T10:05:31.102954+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:06.2264545+00:00",
-  "LastUpdate_Ratings": "2023-12-02T08:57:11.0853356+00:00",
-  "LastUpdate_Achievements": "2023-12-02T09:06:38.3887384+00:00"
+  "LastUpdate_Ratings": "2023-12-02T09:57:10.928328+00:00",
+  "LastUpdate_Achievements": "2023-12-02T10:05:31.1030333+00:00"
 }

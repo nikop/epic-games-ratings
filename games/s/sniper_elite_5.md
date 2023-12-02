@@ -10,19 +10,19 @@ Rating: 4.44 (Ranked 680)
 | The Kraken Wakes | 37.00% | ~1,466 |
 | It's Starting to Crack | 34.00% | ~1,347 |
 | Change the Channel | 31.00% | ~1,228 |
-| Lord of War | 30.00% | ~1,188 |
+| Lord of War | 30.00% | ~1,189 |
 | Taking it back | 29.00% | ~1,149 |
-| Resourceful | 27.00% | ~1,069 |
-| Target America | 27.00% | ~1,069 |
+| Resourceful | 27.00% | ~1,070 |
+| Target America | 27.00% | ~1,070 |
 | The Kraken Sleeps | 25.00% | ~990 |
 | Liberté | 23.00% | ~911 |
 | Organ Grinder | 23.00% | ~911 |
 | As Quiet as a Mouse | 23.00% | ~911 |
-| Sharpshooter | 22.00% | ~871 |
+| Sharpshooter | 22.00% | ~872 |
 | Gunslinger | 19.00% | ~753 |
 | Explosive Efficiency | 19.00% | ~753 |
-| Just a Flesh Wound | 17.00% | ~673 |
-| Der Geist | 17.00% | ~673 |
+| Just a Flesh Wound | 17.00% | ~674 |
+| Der Geist | 17.00% | ~674 |
 | Climbing the Ladder | 16.00% | ~634 |
 | Close Quarters | 16.00% | ~634 |
 | Snake in the Grass | 16.00% | ~634 |
@@ -36,7 +36,7 @@ Rating: 4.44 (Ranked 680)
 | Set Europe Ablaze | 13.00% | ~515 |
 | Precision Is Key | 10.00% | ~396 |
 | My Little Friend | 10.00% | ~396 |
-| Rigged to Blow | 9.00% | ~356 |
+| Rigged to Blow | 9.00% | ~357 |
 | Herr Today, Gone Tomorrow | 7.00% | ~274 |
 | Operation Foxley | 6.00% | ~235 |
 | The Long Game | 5.00% | ~198 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 680)
 | Stroll in the Woods | 0.60% | ~23 |
 | Going Overboard | 0.60% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,961 (Ranked 198)  
+Progressed: 3,962 (Ranked 198)  
 Completed: 11 (0.28%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,6 +301,7 @@ Completed: 11 (0.28%) (Ranked 243)
 | 2023-11-29 | 3,955 | 11 |
 | 2023-11-30 | 3,958 | 11 |
 | 2023-12-01 | 3,961 | 11 |
+| 2023-12-02 | 3,962 | 11 |
 ## Awards
 Max (Great for Beginners): 27  (Ranked 514)  
 Sum: 27 (Ranked 528)  

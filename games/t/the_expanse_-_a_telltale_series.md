@@ -15,11 +15,11 @@ Rating: 4.55 (Ranked 509)
 | Impossible Objects | 6.00% | ~950 |
 | Safe Cracker | 6.00% | ~107 |
 | Zen Master | 6.00% | ~107 |
+| Madame Undersecretary | 6.00% | ~107 |
 | Stogie for Fogey | 5.00% | ~791 |
 | Spore Taste | 5.00% | ~791 |
 | Call it Even | 5.00% | ~791 |
 | Keep Arjun in Check | 5.00% | ~89 |
-| Madame Undersecretary | 5.00% | ~89 |
 | Data Archivist | 4.00% | ~633 |
 | Drug Gifter | 4.00% | ~633 |
 | Heal Thy Medic | 4.00% | ~633 |

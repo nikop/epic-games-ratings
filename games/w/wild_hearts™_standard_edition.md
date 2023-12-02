@@ -25,8 +25,8 @@
 | Axer of Auspice | 45.00% | ~158 |
 | Mighty Marmelizer | 42.00% | ~147 |
 | Fair Means or Foul | 42.00% | ~147 |
+| Snare Specialist | 39.00% | ~137 |
 | Single Minded | 38.00% | ~133 |
-| Snare Specialist | 38.00% | ~133 |
 | Kemono at Heart | 38.00% | ~133 |
 | Artful Assister | 36.00% | ~126 |
 | Karakuri Trail | 35.00% | ~123 |

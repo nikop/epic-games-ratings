@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1075,9 +1075,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 14469,
+  "EOS_Progressed": 14470,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 831,
+  "EOS_NewPlayers": 829,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -12125,6 +12125,11 @@
       "Time": "2023-12-02T09:09:30.067455+00:00",
       "NumProgressed": 14469,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-02T10:08:58.1802486+00:00",
+      "NumProgressed": 14470,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -12201,7 +12206,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "a_20",
@@ -12241,7 +12246,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "a_26",
@@ -12384,7 +12389,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 14469,
+      "Progressed": 14470,
       "Completed": 12
     }
   ],
@@ -12392,8 +12397,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-27T12:03:17.4706024+00:00",
-  "LastChanged_Achievements": "2023-12-02T09:09:30.0674545+00:00",
+  "LastChanged_Achievements": "2023-12-02T10:08:58.1802484+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:21.5449859+00:00",
-  "LastUpdate_Ratings": "2023-12-02T09:03:14.2107593+00:00",
-  "LastUpdate_Achievements": "2023-12-02T09:09:30.0675365+00:00"
+  "LastUpdate_Ratings": "2023-12-02T10:02:57.5271735+00:00",
+  "LastUpdate_Achievements": "2023-12-02T10:08:58.1803075+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 7,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -13256,9 +13256,9 @@
       "Count": 27430
     }
   ],
-  "EOS_Progressed": 1060367,
+  "EOS_Progressed": 1060480,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 17635,
+  "EOS_NewPlayers": 17674,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39201,6 +39201,11 @@
       "Time": "2023-12-02T09:10:21.374059+00:00",
       "NumProgressed": 1060367,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-02T10:09:38.4409866+00:00",
+      "NumProgressed": 1060480,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 232,
@@ -39330,17 +39335,17 @@
       "ID": "ACH_016",
       "SetID": "bdmlp8o",
       "Name": "No one left behind",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3181
+      "UsersEstimate": 4242
     },
     {
       "ID": "ACH_017",
       "SetID": "bdmlp8o",
       "Name": "Medic",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3181
+      "UsersEstimate": 4242
     },
     {
       "ID": "ACH_018",
@@ -39348,7 +39353,7 @@
       "Name": "Handyman",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 4241
+      "UsersEstimate": 4242
     },
     {
       "ID": "ACH_019",
@@ -39378,9 +39383,9 @@
       "ID": "ACH_022",
       "SetID": "bdmlp8o",
       "Name": "Zealous",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 5302
+      "UsersEstimate": 6363
     },
     {
       "ID": "ACH_023",
@@ -39420,7 +39425,7 @@
       "Name": "Apt Survivor",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 4241
+      "UsersEstimate": 4242
     },
     {
       "ID": "ACH_028",
@@ -39444,7 +39449,7 @@
       "Name": "Survival Treasures",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 4241
+      "UsersEstimate": 4242
     },
     {
       "ID": "ACH_031",
@@ -39516,7 +39521,7 @@
       "Name": "Skillful",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 6362
+      "UsersEstimate": 6363
     },
     {
       "ID": "ACH_040",
@@ -39538,9 +39543,9 @@
       "ID": "ACH_042",
       "SetID": "bdmlp8o",
       "Name": "III",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 2121
+      "UsersEstimate": 3181
     },
     {
       "ID": "ACH_043",
@@ -39780,7 +39785,7 @@
       "Name": "Sorted",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4241
+      "UsersEstimate": 4242
     },
     {
       "ID": "ACH_073",
@@ -40428,7 +40433,7 @@
       "Name": "Resurgence",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 4241
+      "UsersEstimate": 4242
     },
     {
       "ID": "ACH_157",
@@ -41067,21 +41072,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1060367,
+      "Progressed": 1060480,
       "Completed": 66
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1060367,
+      "Progressed": 1060480,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-12-01T23:01:12.6349287+00:00",
-  "LastChanged_Achievements": "2023-12-02T09:10:21.3740586+00:00",
+  "LastChanged_Achievements": "2023-12-02T10:09:38.4409861+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:00.7078103+00:00",
-  "LastUpdate_Ratings": "2023-12-02T09:01:18.8833549+00:00",
-  "LastUpdate_Achievements": "2023-12-02T09:10:21.3746053+00:00"
+  "LastUpdate_Ratings": "2023-12-02T10:00:08.3661824+00:00",
+  "LastUpdate_Achievements": "2023-12-02T10:09:38.4415009+00:00"
 }

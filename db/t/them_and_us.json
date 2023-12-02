@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 394,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -1474,9 +1474,9 @@
       "ID": "ETUA_IsThemAndUs",
       "SetID": "65jc0ap",
       "Name": "Them and Us",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 59
     },
     {
       "ID": "ETUA_LifeOfTheThousandGods",
@@ -1530,9 +1530,9 @@
       "ID": "ETUA_OutRage",
       "SetID": "65jc0ap",
       "Name": "OUTRAGE",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 59
     },
     {
       "ID": "ETUA_PTD",
@@ -1682,9 +1682,9 @@
       "ID": "ETUA_WhatHaveIDone",
       "SetID": "65jc0ap",
       "Name": "What have I done!?",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 62
     }
   ],
   "AchievementSets": [
@@ -1699,8 +1699,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-12-02T09:06:25.4020354+00:00",
+  "LastChanged_Achievements": "2023-12-02T10:05:21.0510778+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:52.6169498+00:00",
-  "LastUpdate_Ratings": "2023-12-02T08:57:54.0034232+00:00",
-  "LastUpdate_Achievements": "2023-12-02T09:06:25.4020629+00:00"
+  "LastUpdate_Ratings": "2023-12-02T09:57:41.3022445+00:00",
+  "LastUpdate_Achievements": "2023-12-02T10:05:21.051102+00:00"
 }

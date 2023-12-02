@@ -2,10 +2,10 @@
   "ID": "172112126caf448aa6e069b16a9f0118",
   "Name": "Forest Grove",
   "ProductSlug": "forest-grove-6b05cf",
-  "Ranking_EOS_Progress": 556,
-  "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 300,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_Progress": 551,
+  "Ranking_EOS_Completed": 81,
+  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-28T13:00:00+00:00",
     "PcReleaseDate": "2023-11-28T13:00:00+00:00",
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 21,
+  "EOS_Progressed": 22,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.76,
+  "EOS_Completed_Percentage": 4.55,
   "EosHistory": [
     {
       "Time": "2023-10-10T13:09:13.100464+00:00",
@@ -87,6 +87,11 @@
       "Time": "2023-12-01T23:03:26.4935685+00:00",
       "NumProgressed": 21,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T10:03:22.2372657+00:00",
+      "NumProgressed": 22,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-10T13:09:13.1022392+00:00",
@@ -97,9 +102,9 @@
       "ID": "1",
       "SetID": "36pe9e2",
       "Name": "Entered the Nanodeck",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "10",
@@ -113,7 +118,7 @@
       "ID": "11",
       "SetID": "36pe9e2",
       "Name": "Felt Sadness",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 90,
       "UsersEstimate": 2
     },
@@ -145,7 +150,7 @@
       "ID": "4",
       "SetID": "36pe9e2",
       "Name": "Played the Piano",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 90,
       "UsersEstimate": 2
     },
@@ -153,7 +158,7 @@
       "ID": "5",
       "SetID": "36pe9e2",
       "Name": "Set the Time",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 90,
       "UsersEstimate": 2
     },
@@ -194,13 +199,13 @@
     {
       "ID": "36pe9e2",
       "IsBase": true,
-      "Progressed": 21,
+      "Progressed": 22,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-10-10T13:09:13.1022391+00:00",
-  "LastChanged_Achievements": "2023-12-02T09:03:47.4161645+00:00",
+  "LastChanged_Achievements": "2023-12-02T10:03:22.2372653+00:00",
   "LastUpdate_AppInfo": "2023-11-28T18:57:03.2699178+00:00",
-  "LastUpdate_Ratings": "2023-12-02T09:00:10.5179337+00:00",
-  "LastUpdate_Achievements": "2023-12-02T09:03:47.4161892+00:00"
+  "LastUpdate_Ratings": "2023-12-02T09:59:19.9728643+00:00",
+  "LastUpdate_Achievements": "2023-12-02T10:03:22.2372746+00:00"
 }

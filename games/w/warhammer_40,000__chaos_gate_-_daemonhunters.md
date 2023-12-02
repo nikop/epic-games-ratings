@@ -25,6 +25,7 @@ Number of Ratings: 371  (23.09.2022)
 | Corruption Cleanser | 2.00% | ~67 |
 | Efficient Killer | 2.00% | ~67 |
 | Just a Scratch | 2.00% | ~67 |
+| A Gift Spurned | 2.00% | ~67 |
 | Hive Exterminator | 2.00% | ~67 |
 | Fleetmaster | 1.00% | ~33 |
 | Daemonkeeper | 1.00% | ~33 |
@@ -32,7 +33,6 @@ Number of Ratings: 371  (23.09.2022)
 | Mind Like a Fortress | 1.00% | ~33 |
 | Only in Death | 1.00% | ~33 |
 | Junk Banishment | 1.00% | ~33 |
-| A Gift Spurned | 1.00% | ~33 |
 | Long Distance Call | 1.00% | ~33 |
 | Tactical Flexibility | 1.00% | ~33 |
 | Execution Force | 1.00% | ~33 |

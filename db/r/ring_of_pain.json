@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3526,7 +3526,7 @@
       "Count": 746
     }
   ],
-  "EOS_Progressed": 240499,
+  "EOS_Progressed": 240500,
   "EOS_Completed": 291,
   "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 0,
@@ -26856,6 +26856,11 @@
       "Time": "2023-12-02T07:09:36.9546309+00:00",
       "NumProgressed": 240499,
       "NumCompleted": 291
+    },
+    {
+      "Time": "2023-12-02T10:09:38.1177817+00:00",
+      "NumProgressed": 240500,
+      "NumCompleted": 291
     }
   ],
   "TotalAchievements": 138,
@@ -26915,7 +26920,7 @@
       "Name": "Consecutive Curses",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "DAILY7",
@@ -27027,7 +27032,7 @@
       "Name": "To The Death!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "DIEHARD",
@@ -27059,7 +27064,7 @@
       "Name": "Dig Your Own Grave",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "DONTATTACKRATSDEPTH10",
@@ -27075,7 +27080,7 @@
       "Name": "Well Prepared",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "ENDINGCHOICE",
@@ -27083,7 +27088,7 @@
       "Name": "Who To Trust?",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "ENDWOUNDED",
@@ -27099,7 +27104,7 @@
       "Name": "Walk It Off",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "FIREBEAD20EXPLOSIONS",
@@ -27123,7 +27128,7 @@
       "Name": "Just Chilling",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "FREEZE20TIMES",
@@ -27243,7 +27248,7 @@
       "Name": "Save Our Souls",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "HUGESOULSPILL",
@@ -27275,7 +27280,7 @@
       "Name": "Destroy Your Fears",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "KILL10000",
@@ -27323,7 +27328,7 @@
       "Name": "Don\u0027t Ignore Me!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "KILLBOSSHARD",
@@ -27339,7 +27344,7 @@
       "Name": "All Consuming",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "KILLEDSELFWITHITEMS",
@@ -27379,7 +27384,7 @@
       "Name": "Stop Hitting Yourself",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "KILLSAMSPAREOTHERS",
@@ -27403,7 +27408,7 @@
       "Name": "Shootout",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "KILLSTONESHIFTERHARD",
@@ -27523,7 +27528,7 @@
       "Name": "Stone Touch",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "PLAY10HOURS",
@@ -27531,7 +27536,7 @@
       "Name": "Doing Time",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "POISON300",
@@ -27539,7 +27544,7 @@
       "Name": "Spreading Plague",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "POISON30TIMES",
@@ -27555,7 +27560,7 @@
       "Name": "Acid Bath",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "POISONSELF20",
@@ -27595,7 +27600,7 @@
       "Name": "New Perspectives",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "SNAKESTEALTH",
@@ -27643,7 +27648,7 @@
       "Name": "Shadow Walker",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "SURVIVEON1",
@@ -27651,7 +27656,7 @@
       "Name": "Flesh Wound",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "TELEPORTKNOCKBACKEXPLOSIVE50",
@@ -27667,7 +27672,7 @@
       "Name": "Shapeshifting",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "TRANSFORMFIREBEAD",
@@ -27970,13 +27975,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240499,
+      "Progressed": 240500,
       "Completed": 291
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1979,
+      "Progressed": 1980,
       "Completed": 393
     }
   ],
@@ -27984,8 +27989,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-01T22:58:42.0642847+00:00",
-  "LastChanged_Achievements": "2023-12-02T09:10:20.5242843+00:00",
+  "LastChanged_Achievements": "2023-12-02T10:09:38.1177809+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.3413354+00:00",
-  "LastUpdate_Ratings": "2023-12-02T08:58:49.5629321+00:00",
-  "LastUpdate_Achievements": "2023-12-02T09:10:20.5245184+00:00"
+  "LastUpdate_Ratings": "2023-12-02T09:58:21.5110397+00:00",
+  "LastUpdate_Achievements": "2023-12-02T10:09:38.1180726+00:00"
 }

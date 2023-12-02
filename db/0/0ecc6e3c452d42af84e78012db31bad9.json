@@ -4,8 +4,8 @@
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4294,
+  "EOS_Progressed": 4295,
   "EOS_Completed": 36,
   "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 2,
@@ -10789,6 +10789,11 @@
       "Time": "2023-12-02T09:06:08.3988952+00:00",
       "NumProgressed": 4294,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-12-02T10:05:08.4085004+00:00",
+      "NumProgressed": 4295,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 16,
@@ -10832,7 +10837,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 3306
+      "UsersEstimate": 3307
     },
     {
       "ID": "ach_architecture_completed",
@@ -10856,7 +10861,7 @@
       "Name": "Cannoneer",
       "Percentage": 27,
       "XP": 65,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "ach_color_splash",
@@ -10872,7 +10877,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 3478
+      "UsersEstimate": 3479
     },
     {
       "ID": "ach_food_completed",
@@ -10896,7 +10901,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 3220
+      "UsersEstimate": 3221
     },
     {
       "ID": "ach_magic_wand",
@@ -10920,21 +10925,21 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4294,
+      "Progressed": 4295,
       "Completed": 36
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-12-02T09:06:08.3988949+00:00",
+  "LastChanged_Achievements": "2023-12-02T10:05:08.4085001+00:00",
   "LastUpdate_AppInfo": "2023-12-01T21:56:53.9270768+00:00",
-  "LastUpdate_Ratings": "2023-12-02T08:57:41.7059878+00:00",
-  "LastUpdate_Achievements": "2023-12-02T09:06:08.3989648+00:00"
+  "LastUpdate_Ratings": "2023-12-02T09:57:32.7773711+00:00",
+  "LastUpdate_Achievements": "2023-12-02T10:05:08.4085712+00:00"
 }

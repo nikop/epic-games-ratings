@@ -56,8 +56,8 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter I | 0.20% | ~1 |
 | Challenges of Chapter II | 0.20% | ~1 |
 | Challenges of Chapter III | 0.20% | ~1 |
+| Challenges of Chapter V | 0.20% | ~1 |
 | Challenges of Chapter IV | 0.00% | ~0 |
-| Challenges of Chapter V | 0.00% | ~0 |
 | Challenges of Chapter VI | 0.00% | ~0 |
 | Challenges of Chapter VII | 0.00% | ~0 |
 | Challenges of Chapter VIII | 0.00% | ~0 |

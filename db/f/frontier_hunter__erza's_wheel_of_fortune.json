@@ -2,10 +2,10 @@
   "ID": "f9af68c0b03e425999c18381eb45e5fb",
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
-  "Ranking_EOS_Progress": 318,
+  "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 480,
+  "EOS_Progressed": 481,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1502,6 +1502,11 @@
       "Time": "2023-12-02T09:07:41.0758045+00:00",
       "NumProgressed": 480,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T10:06:18.9475872+00:00",
+      "NumProgressed": 481,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1513,7 +1518,7 @@
       "Name": "Travel Streamer",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1585,7 +1590,7 @@
       "Name": "Kind Adventurer",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -1593,7 +1598,7 @@
       "Name": "Mermaid Killer",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -1631,9 +1636,9 @@
       "ID": "ACHIEVEMENT_23",
       "SetID": "7pimpda",
       "Name": "Master Cook",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -1681,7 +1686,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1751,9 +1756,9 @@
       "ID": "ACHIEVEMENT_38",
       "SetID": "7pimpda",
       "Name": "Silver Moon Wolf King Challenge",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -1847,9 +1852,9 @@
       "ID": "ACHIEVEMENT_7",
       "SetID": "7pimpda",
       "Name": "Apostle of Flame",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 173
+      "UsersEstimate": 178
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -1872,7 +1877,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 480,
+      "Progressed": 481,
       "Completed": 1
     }
   ],
@@ -1880,8 +1885,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-02T09:07:41.075804+00:00",
+  "LastChanged_Achievements": "2023-12-02T10:06:18.9475867+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-12-02T09:01:07.1125275+00:00",
-  "LastUpdate_Achievements": "2023-12-02T09:07:41.0758364+00:00"
+  "LastUpdate_Ratings": "2023-12-02T10:00:00.1347906+00:00",
+  "LastUpdate_Achievements": "2023-12-02T10:06:18.9476217+00:00"
 }

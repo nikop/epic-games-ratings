@@ -2,10 +2,10 @@
   "ID": "745fc8d94b6244caa3a97f453ddb92ca",
   "Name": "Project Nightmares Case 36: Henrietta Kedward",
   "ProductSlug": "project-nightmares-dcc54b",
-  "Ranking_EOS_Progress": 556,
+  "Ranking_EOS_Progress": 551,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 495,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 441,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-10T13:00:00+00:00",
     "PcReleaseDate": "2023-08-10T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21,
+  "EOS_Progressed": 22,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -134,6 +134,11 @@
       "Time": "2023-11-25T22:10:18.5947399+00:00",
       "NumProgressed": 21,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T10:05:37.6880655+00:00",
+      "NumProgressed": 22,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T08:05:18.6201734+00:00",
@@ -224,7 +229,7 @@
       "ID": "ACH_SECUNDARIA_MASK",
       "SetID": "9675gi1",
       "Name": "Collector",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -272,7 +277,7 @@
       "ID": "ST_CANDLE",
       "SetID": "9675gi1",
       "Name": "A light in the dark",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -288,7 +293,7 @@
       "ID": "ST_PLAGUE",
       "SetID": "9675gi1",
       "Name": "Plague Control",
-      "Percentage": 71,
+      "Percentage": 68,
       "XP": 5,
       "UsersEstimate": 15
     },
@@ -305,14 +310,14 @@
     {
       "ID": "9675gi1",
       "IsBase": true,
-      "Progressed": 21,
+      "Progressed": 22,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-13T20:57:41.0534986+00:00",
   "FirstSeenAchievements": "2023-07-27T13:10:49.3119111+00:00",
-  "LastChanged_Achievements": "2023-12-02T09:06:46.8210968+00:00",
+  "LastChanged_Achievements": "2023-12-02T10:05:37.6880652+00:00",
   "LastUpdate_AppInfo": "2023-12-01T01:53:59.9894594+00:00",
-  "LastUpdate_Ratings": "2023-12-02T08:59:23.7972651+00:00",
-  "LastUpdate_Achievements": "2023-12-02T09:06:46.8211112+00:00"
+  "LastUpdate_Ratings": "2023-12-02T09:58:47.2131206+00:00",
+  "LastUpdate_Achievements": "2023-12-02T10:05:37.6880752+00:00"
 }

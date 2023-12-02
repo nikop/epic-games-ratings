@@ -16,8 +16,8 @@
 | The Fire Below the Mountain | 61.00% | ~643 |
 | No Bites | 55.00% | ~580 |
 | Iceborn | 54.00% | ~569 |
+| Tear of Freedom | 52.00% | ~548 |
 | Boom Things | 52.00% | ~548 |
-| Tear of Freedom | 51.00% | ~538 |
 | My Darkest Day | 48.00% | ~506 |
 | Rhythm Of Willump | 46.00% | ~485 |
 | The Relentless Storm | 46.00% | ~485 |
@@ -25,7 +25,7 @@
 | 3000 Year Blackout | 44.00% | ~464 |
 | The Finisher | 42.00% | ~443 |
 | So Close | 41.00% | ~432 |
-| You Get Used To It | 40.00% | ~422 |
+| You Get Used To It | 41.00% | ~432 |
 | True Legends | 39.00% | ~411 |
 | Family | 38.00% | ~401 |
 | Biggest Snowball Ever | 38.00% | ~401 |

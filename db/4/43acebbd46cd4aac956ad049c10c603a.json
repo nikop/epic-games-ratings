@@ -5,10 +5,10 @@
   "Ranking_Rating": 32,
   "Ranking_Popularity": 470,
   "Ranking_PopularitySum": 505,
-  "Ranking_EOS_Progress": 277,
+  "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -169,9 +169,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 822,
+  "EOS_Progressed": 823,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1884,6 +1884,11 @@
       "Time": "2023-12-02T06:04:11.8957302+00:00",
       "NumProgressed": 822,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T10:04:02.3849829+00:00",
+      "NumProgressed": 823,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1910,17 +1915,17 @@
       "ID": "AnthropicHills",
       "SetID": "1n308hc",
       "Name": "Anthropic Hills",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     },
     {
       "ID": "Archaeologist",
       "SetID": "1n308hc",
       "Name": "Archaeologist",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Balance",
@@ -2367,7 +2372,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 822,
+      "Progressed": 823,
       "Completed": 1
     }
   ],
@@ -2375,8 +2380,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-30T22:00:34.4965769+00:00",
-  "LastChanged_Achievements": "2023-12-02T09:04:40.8388548+00:00",
+  "LastChanged_Achievements": "2023-12-02T10:04:02.3849826+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-02T09:01:21.8869904+00:00",
-  "LastUpdate_Achievements": "2023-12-02T09:04:40.83891+00:00"
+  "LastUpdate_Ratings": "2023-12-02T10:00:10.9247347+00:00",
+  "LastUpdate_Achievements": "2023-12-02T10:04:02.3850253+00:00"
 }
