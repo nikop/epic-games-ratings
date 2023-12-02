@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 335,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18970,
+  "EOS_Progressed": 18972,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13389,6 +13389,11 @@
       "Time": "2023-12-01T21:05:25.6897545+00:00",
       "NumProgressed": 18970,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-02T12:04:47.5355028+00:00",
+      "NumProgressed": 18972,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13400,7 +13405,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5691
+      "UsersEstimate": 5692
     },
     {
       "ID": "0002",
@@ -13408,7 +13413,7 @@
       "Name": "License to Thrill",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "0003",
@@ -13464,7 +13469,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4363
+      "UsersEstimate": 4364
     },
     {
       "ID": "0010",
@@ -13488,7 +13493,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3035
+      "UsersEstimate": 3036
     },
     {
       "ID": "0013",
@@ -13504,7 +13509,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3035
+      "UsersEstimate": 3036
     },
     {
       "ID": "0015",
@@ -13584,7 +13589,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4173
+      "UsersEstimate": 4174
     },
     {
       "ID": "0025",
@@ -13600,7 +13605,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2276
+      "UsersEstimate": 2277
     },
     {
       "ID": "0027",
@@ -13616,7 +13621,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4363
+      "UsersEstimate": 4364
     },
     {
       "ID": "0029",
@@ -13664,7 +13669,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2276
+      "UsersEstimate": 2277
     },
     {
       "ID": "0035",
@@ -13687,7 +13692,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18970,
+      "Progressed": 18972,
       "Completed": 4
     }
   ],
@@ -13695,8 +13700,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-12-02T11:05:43.6611805+00:00",
+  "LastChanged_Achievements": "2023-12-02T12:04:47.5355025+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:26.0982772+00:00",
-  "LastUpdate_Ratings": "2023-12-02T11:00:54.797987+00:00",
-  "LastUpdate_Achievements": "2023-12-02T11:05:43.661254+00:00"
+  "LastUpdate_Ratings": "2023-12-02T11:59:42.8666562+00:00",
+  "LastUpdate_Achievements": "2023-12-02T12:04:47.5355935+00:00"
 }

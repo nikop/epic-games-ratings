@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 71,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 840,
+  "EOS_Progressed": 841,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 5.6,
+  "EOS_Completed_Percentage": 5.59,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3400,6 +3400,11 @@
       "Time": "2023-12-02T07:06:05.4931877+00:00",
       "NumProgressed": 840,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-12-02T12:06:13.6458515+00:00",
+      "NumProgressed": 841,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 25,
@@ -3441,9 +3446,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 193
+      "UsersEstimate": 185
     },
     {
       "ID": "META_HALF_LINK",
@@ -3475,7 +3480,7 @@
       "Name": "Feels like springtime",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "META_RESULT_2-3",
@@ -3483,7 +3488,7 @@
       "Name": "A great audience",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "META_RESULT_2-4",
@@ -3497,9 +3502,9 @@
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 101
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -3507,7 +3512,7 @@
       "Name": "Alchemists Express",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -3521,9 +3526,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G3M4R",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 193
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -3579,7 +3584,7 @@
       "Name": "The great escape",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "PROGRESS_N3",
@@ -3587,7 +3592,7 @@
       "Name": "A new dawn",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "PROGRESS_N4",
@@ -3603,21 +3608,21 @@
       "Name": "One last step",
       "Percentage": 21,
       "XP": 80,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 840,
+      "Progressed": 841,
       "Completed": 47
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-02T11:07:45.7154493+00:00",
+  "LastChanged_Achievements": "2023-12-02T12:06:13.6458511+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-12-02T11:01:04.0506417+00:00",
-  "LastUpdate_Achievements": "2023-12-02T11:07:45.7154753+00:00"
+  "LastUpdate_Ratings": "2023-12-02T11:59:48.6453578+00:00",
+  "LastUpdate_Achievements": "2023-12-02T12:06:13.6458758+00:00"
 }

@@ -5,24 +5,24 @@ Rating: 4.50 (Ranked 594)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~9,008 |
-| For Saw Gerrera | 98.00% | ~8,917 |
-| Grab Some Seat | 91.00% | ~8,280 |
-| Can You Pet the Bogling? | 87.00% | ~7,916 |
-| The Past Made Present | 83.00% | ~7,552 |
-| Survivors, We Adapt | 79.00% | ~7,188 |
-| Among the Masters | 78.00% | ~7,097 |
-| They Never Saw It Coming | 77.00% | ~7,006 |
-| Who Gives a Puck | 74.00% | ~6,733 |
-| For the Path | 67.00% | ~6,096 |
-| Now, This Isn't Podracing | 65.00% | ~5,914 |
-| Mirror Match | 64.00% | ~5,823 |
-| Skywalker | 62.00% | ~5,641 |
-| Out of Bedlam | 62.00% | ~5,641 |
-| Cleaning Up | 54.00% | ~4,913 |
-| Tanalorr Bound | 54.00% | ~4,913 |
-| Kitted Out | 53.00% | ~4,822 |
-| Tragedy | 52.00% | ~4,731 |
+| Rooftop Duel | 99.00% | ~9,010 |
+| For Saw Gerrera | 98.00% | ~8,919 |
+| Grab Some Seat | 91.00% | ~8,282 |
+| Can You Pet the Bogling? | 87.00% | ~7,918 |
+| The Past Made Present | 83.00% | ~7,554 |
+| Survivors, We Adapt | 79.00% | ~7,190 |
+| Among the Masters | 78.00% | ~7,099 |
+| They Never Saw It Coming | 77.00% | ~7,008 |
+| Who Gives a Puck | 74.00% | ~6,735 |
+| For the Path | 67.00% | ~6,098 |
+| Now, This Isn't Podracing | 65.00% | ~5,916 |
+| Mirror Match | 64.00% | ~5,825 |
+| Skywalker | 62.00% | ~5,643 |
+| Out of Bedlam | 62.00% | ~5,643 |
+| Cleaning Up | 54.00% | ~4,915 |
+| Tanalorr Bound | 54.00% | ~4,915 |
+| Kitted Out | 53.00% | ~4,824 |
+| Tragedy | 52.00% | ~4,733 |
 | At the Precipice | 50.00% | ~4,550 |
 | Hey, Luke At Us | 50.00% | ~4,550 |
 | Into the Abyss | 49.00% | ~4,459 |
@@ -59,7 +59,7 @@ Rating: 4.50 (Ranked 594)
 | Blood, Sweat, and Tears | 3.00% | ~273 |
 | Pinpoint | 2.00% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,099 (Ranked 170)  
+Progressed: 9,101 (Ranked 170)  
 Completed: 55 (0.60%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 55 (0.60%) (Ranked 192)
 | 2023-11-29 | 8,964 | 54 |
 | 2023-11-30 | 9,024 | 54 |
 | 2023-12-01 | 9,070 | 55 |
-| 2023-12-02 | 9,099 | 55 |
+| 2023-12-02 | 9,101 | 55 |
 ## Awards
 Max (Great Boss Battles): 3,372  (Ranked 95)  
 Sum: 5,244 (Ranked 138)  

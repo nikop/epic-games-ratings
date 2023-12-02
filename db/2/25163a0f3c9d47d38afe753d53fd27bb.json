@@ -4,8 +4,8 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1670,
-  "EOS_Completed": 118,
-  "EOS_NewPlayers": 33,
-  "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 7.07,
+  "EOS_Progressed": 1671,
+  "EOS_Completed": 119,
+  "EOS_NewPlayers": 34,
+  "EOS_NewCompleters": 8,
+  "EOS_Completed_Percentage": 7.12,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -3969,6 +3969,11 @@
       "Time": "2023-12-01T19:09:27.7428761+00:00",
       "NumProgressed": 1670,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2023-12-02T12:09:31.2272489+00:00",
+      "NumProgressed": 1671,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 30,
@@ -3980,7 +3985,7 @@
       "Name": "A fresh start",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 1586
+      "UsersEstimate": 1587
     },
     {
       "ID": "LEVEL_002",
@@ -3988,7 +3993,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     },
     {
       "ID": "LEVEL_003",
@@ -4060,7 +4065,7 @@
       "Name": "This island of mine",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "LEVEL_012",
@@ -4100,7 +4105,7 @@
       "Name": "Where\u0027s the toilet, sir?",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "LEVEL_017",
@@ -4116,7 +4121,7 @@
       "Name": "Isle rock city",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "LEVEL_019",
@@ -4219,14 +4224,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1670,
-      "Completed": 118
+      "Progressed": 1671,
+      "Completed": 119
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-12-02T11:10:04.6050291+00:00",
+  "LastChanged_Achievements": "2023-12-02T12:09:31.2272487+00:00",
   "LastUpdate_AppInfo": "2023-11-28T03:57:10.4793564+00:00",
-  "LastUpdate_Ratings": "2023-12-02T10:58:38.6714549+00:00",
-  "LastUpdate_Achievements": "2023-12-02T11:10:04.6050656+00:00"
+  "LastUpdate_Ratings": "2023-12-02T11:58:12.8386731+00:00",
+  "LastUpdate_Achievements": "2023-12-02T12:09:31.2272856+00:00"
 }

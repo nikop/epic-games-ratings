@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6542,
+  "EOS_Progressed": 6543,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6572,6 +6572,11 @@
       "Time": "2023-12-02T01:49:07.6942509+00:00",
       "NumProgressed": 6542,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-02T12:06:25.8693435+00:00",
+      "NumProgressed": 6543,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -6965,9 +6970,9 @@
       "ID": "SocialButterfly",
       "SetID": "bmkn7o4",
       "Name": "Social Butterfly",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 65
     },
     {
       "ID": "Stephanie",
@@ -7134,21 +7139,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3581,
+      "Progressed": 3582,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6542,
+      "Progressed": 6543,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-12-02T11:08:03.1154418+00:00",
+  "LastChanged_Achievements": "2023-12-02T12:06:25.8693431+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:57:05.3490956+00:00",
-  "LastUpdate_Ratings": "2023-12-02T11:01:53.969969+00:00",
-  "LastUpdate_Achievements": "2023-12-02T11:08:03.1155146+00:00"
+  "LastUpdate_Ratings": "2023-12-02T12:00:21.474674+00:00",
+  "LastUpdate_Achievements": "2023-12-02T12:06:25.8694117+00:00"
 }

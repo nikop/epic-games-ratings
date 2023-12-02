@@ -9,8 +9,8 @@ Rating: 4.75 (Ranked 149)
 | First of Many | 0.70% | ~1,629 |
 | Regicide | 0.70% | ~83 |
 | Master of the Dark Arts | 0.70% | ~83 |
-| Expanding Horizons | 0.50% | ~1,163 |
-| Not Your Average Trait | 0.50% | ~1,163 |
+| Expanding Horizons | 0.50% | ~1,164 |
+| Not Your Average Trait | 0.50% | ~1,164 |
 | Gleaming the Cube | 0.40% | ~931 |
 | Not So Special Now | 0.40% | ~931 |
 | Quest for Survival | 0.40% | ~931 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 149)
 | Maxed Out! | 0.10% | ~233 |
 | A Foul Feast | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,679 (Ranked 69)  
+Progressed: 232,726 (Ranked 69)  
 Completed: 547 (0.24%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 547 (0.24%) (Ranked 250)
 | 2023-11-29 | 230,694 | 542 |
 | 2023-11-30 | 231,406 | 542 |
 | 2023-12-01 | 232,269 | 546 |
-| 2023-12-02 | 232,679 | 547 |
+| 2023-12-02 | 232,726 | 547 |
 ## Awards
 Max (Great Boss Battles): 2,558  (Ranked 102)  
 Sum: 6,298 (Ranked 129)  

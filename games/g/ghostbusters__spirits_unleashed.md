@@ -27,18 +27,18 @@ Rating: 4.50 (Ranked 594)
 | Right back at ya | 3.00% | ~955 |
 | Side Hustle | 3.00% | ~955 |
 | Summoner | 3.00% | ~955 |
-| Back Off | 2.00% | ~636 |
-| We have the best insurance | 2.00% | ~636 |
-| Collector | 2.00% | ~636 |
-| Escape Artist | 2.00% | ~636 |
-| Legions | 2.00% | ~636 |
-| Pesky Jerks | 2.00% | ~636 |
-| Rift Destroyer | 2.00% | ~636 |
-| Seasoned | 2.00% | ~636 |
-| Skilled | 2.00% | ~636 |
-| Stunner | 2.00% | ~636 |
-| Tobin's Prodigy | 2.00% | ~636 |
-| Welcome to the Crew | 2.00% | ~636 |
+| Back Off | 2.00% | ~637 |
+| We have the best insurance | 2.00% | ~637 |
+| Collector | 2.00% | ~637 |
+| Escape Artist | 2.00% | ~637 |
+| Legions | 2.00% | ~637 |
+| Pesky Jerks | 2.00% | ~637 |
+| Rift Destroyer | 2.00% | ~637 |
+| Seasoned | 2.00% | ~637 |
+| Skilled | 2.00% | ~637 |
+| Stunner | 2.00% | ~637 |
+| Tobin's Prodigy | 2.00% | ~637 |
+| Welcome to the Crew | 2.00% | ~637 |
 | Diabolical | 1.00% | ~318 |
 | Fragile Panes | 1.00% | ~318 |
 | Liability | 1.00% | ~318 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 594)
 | Ultimate Defense | 0.20% | ~64 |
 | Line em' up | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,825 (Ranked 124)  
+Progressed: 31,826 (Ranked 124)  
 Completed: 69 (0.22%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 69 (0.22%) (Ranked 254)
 | 2023-11-29 | 31,744 | 69 |
 | 2023-11-30 | 31,775 | 69 |
 | 2023-12-01 | 31,812 | 69 |
-| 2023-12-02 | 31,825 | 69 |
+| 2023-12-02 | 31,826 | 69 |
 ## Awards
 Max (Great for Beginners): 319  (Ranked 251)  
 Sum: 2,869 (Ranked 180)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -649,10 +649,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 97,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2023-12-02T11:59:46.6623576+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 98,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 97,
+  "NumberOfAwards": 98,
   "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -684,7 +690,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game is Extremely Fun",
@@ -693,9 +699,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5999,
+  "EOS_Progressed": 6000,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6628,6 +6634,11 @@
       "Time": "2023-12-02T10:06:20.2164673+00:00",
       "NumProgressed": 5999,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T12:06:23.9811311+00:00",
+      "NumProgressed": 6000,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -6680,7 +6691,7 @@
       "Name": "Setting up for Success",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4679
+      "UsersEstimate": 4680
     },
     {
       "ID": "achievement_0007",
@@ -6688,7 +6699,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 5639
+      "UsersEstimate": 5640
     },
     {
       "ID": "achievement_0008",
@@ -6696,7 +6707,7 @@
       "Name": "On the Top Step",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 5279
+      "UsersEstimate": 5280
     },
     {
       "ID": "achievement_0009",
@@ -6800,7 +6811,7 @@
       "Name": "Team Orders",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4499
+      "UsersEstimate": 4500
     },
     {
       "ID": "achievement_0022",
@@ -6896,7 +6907,7 @@
       "Name": "Engineer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 3359
+      "UsersEstimate": 3360
     },
     {
       "ID": "achievement_0034",
@@ -7031,16 +7042,16 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5999,
+      "Progressed": 6000,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2023-12-01T16:00:07.829948+00:00",
-  "LastChanged_Achievements": "2023-12-02T11:08:00.2508769+00:00",
+  "LastChanged": "2023-12-02T11:59:46.6623575+00:00",
+  "LastChanged_Achievements": "2023-12-02T12:06:23.9811307+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:16.1347365+00:00",
-  "LastUpdate_Ratings": "2023-12-02T11:01:00.8904958+00:00",
-  "LastUpdate_Achievements": "2023-12-02T11:08:00.2509299+00:00"
+  "LastUpdate_Ratings": "2023-12-02T11:59:46.662358+00:00",
+  "LastUpdate_Achievements": "2023-12-02T12:06:23.9811923+00:00"
 }

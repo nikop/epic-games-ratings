@@ -5,7 +5,7 @@ Rating: 4.29 (Ranked 849)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~163,242 |
+| Corner Clout | 46.00% | ~163,243 |
 | Copacetic Coordination | 16.00% | ~56,780 |
 | Fronting the Money | 15.00% | ~53,231 |
 | The Dawn of Automation | 14.00% | ~49,683 |
@@ -23,12 +23,12 @@ Rating: 4.29 (Ranked 849)
 | Street Fighter | 7.00% | ~24,841 |
 | Friendly Gestures | 7.00% | ~24,841 |
 | People Person | 7.00% | ~24,841 |
-| Liquor Lord | 6.00% | ~21,292 |
-| Safety in Numbers | 6.00% | ~21,292 |
-| Moving Experiences | 6.00% | ~21,292 |
-| Wise Head | 6.00% | ~21,292 |
-| Show ‘em the Sugar | 6.00% | ~21,292 |
-| Killing Them Softly | 6.00% | ~21,292 |
+| Liquor Lord | 6.00% | ~21,293 |
+| Safety in Numbers | 6.00% | ~21,293 |
+| Moving Experiences | 6.00% | ~21,293 |
+| Wise Head | 6.00% | ~21,293 |
+| Show ‘em the Sugar | 6.00% | ~21,293 |
+| Killing Them Softly | 6.00% | ~21,293 |
 | Street Knowledge | 5.00% | ~17,744 |
 | Oh Captain | 5.00% | ~17,744 |
 | Branching Out | 5.00% | ~17,744 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 849)
 | High Pillow | 0.10% | ~355 |
 | Station Master | 0.10% | ~355 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 354,875 (Ranked 49)  
+Progressed: 354,876 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 7 (0.00%) (Ranked 365)
 | 2023-11-29 | 354,562 | 7 |
 | 2023-11-30 | 354,687 | 7 |
 | 2023-12-01 | 354,825 | 7 |
-| 2023-12-02 | 354,875 | 7 |
+| 2023-12-02 | 354,876 | 7 |
 ## Awards
 Max (Great for Beginners): 50  (Ranked 438)  
 Sum: 222 (Ranked 393)  

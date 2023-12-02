@@ -3,12 +3,12 @@
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
   "Ranking_Rating": 594,
-  "Ranking_Popularity": 276,
+  "Ranking_Popularity": 277,
   "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -649,9 +649,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471653,
+  "EOS_Progressed": 471655,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 320,
+  "EOS_NewPlayers": 321,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24149,6 +24149,11 @@
       "Time": "2023-12-02T11:10:11.1903013+00:00",
       "NumProgressed": 471653,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-02T12:09:36.4473477+00:00",
+      "NumProgressed": 471655,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -24200,7 +24205,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47165
+      "UsersEstimate": 47166
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -24248,7 +24253,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311291
+      "UsersEstimate": 311292
     },
     {
       "ID": "achievement_story_landa",
@@ -24280,7 +24285,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117913
+      "UsersEstimate": 117914
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -24344,7 +24349,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160362
+      "UsersEstimate": 160363
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -24584,7 +24589,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207527
+      "UsersEstimate": 207528
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -24791,21 +24796,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15587,
+      "Progressed": 15589,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471653,
+      "Progressed": 471655,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-01T18:58:58.8781534+00:00",
-  "LastChanged_Achievements": "2023-12-02T11:10:11.1903009+00:00",
+  "LastChanged_Achievements": "2023-12-02T12:09:36.4473475+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:35.6450304+00:00",
-  "LastUpdate_Ratings": "2023-12-02T11:00:21.4868723+00:00",
-  "LastUpdate_Achievements": "2023-12-02T11:10:11.1904807+00:00"
+  "LastUpdate_Ratings": "2023-12-02T11:59:21.3229457+00:00",
+  "LastUpdate_Achievements": "2023-12-02T12:09:36.4475279+00:00"
 }

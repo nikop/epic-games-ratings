@@ -6,19 +6,19 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.70% | ~7,424 |
-| Skillful | 0.70% | ~7,424 |
+| It wakes | 0.70% | ~7,425 |
+| Skillful | 0.70% | ~7,425 |
 | Zealous | 0.60% | ~6,364 |
-| Not half bad | 0.50% | ~5,303 |
-| I | 0.50% | ~5,303 |
-| Make Some Noise | 0.50% | ~5,303 |
-| No one left behind | 0.40% | ~4,242 |
-| Medic | 0.40% | ~4,242 |
-| Handyman | 0.40% | ~4,242 |
-| Apt Survivor | 0.40% | ~4,242 |
-| Survival Treasures | 0.40% | ~4,242 |
-| Sorted | 0.40% | ~4,242 |
-| Resurgence | 0.40% | ~4,242 |
+| Not half bad | 0.50% | ~5,304 |
+| Apt Survivor | 0.50% | ~5,304 |
+| I | 0.50% | ~5,304 |
+| Make Some Noise | 0.50% | ~5,304 |
+| No one left behind | 0.40% | ~4,243 |
+| Medic | 0.40% | ~4,243 |
+| Handyman | 0.40% | ~4,243 |
+| Survival Treasures | 0.40% | ~4,243 |
+| Sorted | 0.40% | ~4,243 |
+| Resurgence | 0.40% | ~4,243 |
 | The Grand Sacrifice | 0.30% | ~3,182 |
 | Agonizing Escape | 0.30% | ~3,182 |
 | Backdoor Escape | 0.30% | ~3,182 |
@@ -38,13 +38,16 @@ Number of Ratings: 70,340  (23.09.2022)
 | Humanitarian | 0.30% | ~3,182 |
 | Blood on your hands | 0.20% | ~2,121 |
 | Escape Artist | 0.20% | ~2,121 |
+| Nerves of steel | 0.20% | ~2,121 |
 | Gifts for the Fog | 0.20% | ~2,121 |
 | Vulture | 0.20% | ~2,121 |
 | III-50 | 0.20% | ~2,121 |
+| Cherish your Life | 0.20% | ~2,121 |
 | Unforgettable Getaway | 0.20% | ~2,121 |
 | First to the Punch | 0.20% | ~2,121 |
 | Operation: Survival | 0.20% | ~2,121 |
 | Old West Oasis | 0.20% | ~2,121 |
+| Classy Act | 0.20% | ~2,121 |
 | Every Last Drop | 0.20% | ~2,121 |
 | Raccoon City Recruit | 0.20% | ~2,121 |
 | With Scars to Show | 0.20% | ~2,121 |
@@ -60,7 +63,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | The Grind | 0.10% | ~1,061 |
 | Made it out alive! | 0.10% | ~1,061 |
 | The Key to Escape | 0.10% | ~1,061 |
-| Nerves of steel | 0.10% | ~1,061 |
 | Adept Jake | 0.10% | ~1,061 |
 | Adept Dwight | 0.10% | ~1,061 |
 | Adept Claudette | 0.10% | ~1,061 |
@@ -112,7 +114,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Game Over | 0.10% | ~1,061 |
 | Adept Pig | 0.10% | ~1,061 |
 | Near-Death Experience | 0.10% | ~1,061 |
-| Cherish your Life | 0.10% | ~1,061 |
 | Adept Tapp | 0.10% | ~1,061 |
 | Party Crasher | 0.10% | ~1,061 |
 | Smoked | 0.10% | ~1,061 |
@@ -163,7 +164,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Cleansed in Agony | 0.10% | ~1,061 |
 | Death of Ignorance | 0.10% | ~1,061 |
 | Adept Executioner | 0.10% | ~1,061 |
-| Classy Act | 0.10% | ~1,061 |
 | Adept Cheryl | 0.10% | ~1,061 |
 | Speed Kills | 0.10% | ~1,061 |
 | I See You | 0.10% | ~1,061 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,061 |
 | Adept Good Guy | 0.10% | ~1,061 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,060,607 (Ranked 14)  
+Progressed: 1,060,725 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -465,7 +465,7 @@ Completed: 61 (0.01%) (Ranked 344)
 | 2023-11-29 | 1,053,910 | 61 |
 | 2023-11-30 | 1,056,530 | 61 |
 | 2023-12-01 | 1,059,298 | 61 |
-| 2023-12-02 | 1,060,607 | 61 |
+| 2023-12-02 | 1,060,725 | 61 |
 ## Awards
 Max (Diverse Characters): 37,031  (Ranked 15)  
 Sum: 281,579 (Ranked 12)  

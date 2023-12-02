@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -3305,7 +3305,7 @@
   ],
   "EOS_Progressed": 9453,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 388,
+  "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10304,9 +10304,9 @@
       "ID": "ach08",
       "SetID": "47in8n6",
       "Name": "It Has Begun!!!",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3781
+      "UsersEstimate": 3876
     },
     {
       "ID": "ach09",
@@ -10657,8 +10657,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-12-02T04:02:52.0915773+00:00",
-  "LastChanged_Achievements": "2023-12-02T11:08:25.2903373+00:00",
-  "LastUpdate_AppInfo": "2023-11-25T10:57:15.5645679+00:00",
-  "LastUpdate_Ratings": "2023-12-02T11:03:10.3431957+00:00",
-  "LastUpdate_Achievements": "2023-12-02T11:08:25.2904103+00:00"
+  "LastChanged_Achievements": "2023-12-02T12:08:20.9434112+00:00",
+  "LastUpdate_AppInfo": "2023-12-02T11:57:13.7403672+00:00",
+  "LastUpdate_Ratings": "2023-12-02T12:03:01.8657018+00:00",
+  "LastUpdate_Achievements": "2023-12-02T12:08:20.9434651+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -1075,9 +1075,9 @@
       "ID": "FISH_COIN_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Ticket to Tranquility",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 72
     },
     {
       "ID": "GET_FISH_ALL",
@@ -1274,8 +1274,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-02T11:08:56.7446289+00:00",
+  "LastChanged_Achievements": "2023-12-02T12:08:42.5903962+00:00",
   "LastUpdate_AppInfo": "2023-11-28T17:56:55.9843317+00:00",
-  "LastUpdate_Ratings": "2023-12-02T11:03:04.2091369+00:00",
-  "LastUpdate_Achievements": "2023-12-02T11:08:56.7446533+00:00"
+  "LastUpdate_Ratings": "2023-12-02T12:02:57.8414984+00:00",
+  "LastUpdate_Achievements": "2023-12-02T12:08:42.5904257+00:00"
 }

@@ -5,20 +5,20 @@ Rating: 4.58 (Ranked 449)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 30.00% | ~5,691 |
-| Mainframe Hacker | 23.00% | ~4,363 |
-| The Spy who eliminated me | 23.00% | ~4,363 |
-| Tomorrow Never Dyes | 22.00% | ~4,173 |
+| On Deceive Inc.'s Secret Service | 30.00% | ~5,692 |
+| Mainframe Hacker | 23.00% | ~4,364 |
+| The Spy who eliminated me | 23.00% | ~4,364 |
+| Tomorrow Never Dyes | 22.00% | ~4,174 |
 | From the Vault with Love | 18.00% | ~3,415 |
 | Never Say Loser Again | 18.00% | ~3,415 |
 | Tailor-Made | 18.00% | ~3,415 |
 | For your Eyes only | 18.00% | ~3,415 |
 | Assistant Accountant | 17.00% | ~3,225 |
-| You Only Live Twice | 16.00% | ~3,035 |
-| Fully Decked Out | 16.00% | ~3,035 |
+| You Only Live Twice | 16.00% | ~3,036 |
+| Fully Decked Out | 16.00% | ~3,036 |
 | A view to Win | 13.00% | ~2,466 |
-| The Living Portrait | 12.00% | ~2,276 |
-| Smells Like Trouble | 12.00% | ~2,276 |
+| The Living Portrait | 12.00% | ~2,277 |
+| Smells Like Trouble | 12.00% | ~2,277 |
 | My Motto, My Creed | 11.00% | ~2,087 |
 | Private Collection | 11.00% | ~2,087 |
 | Killer Looks | 11.00% | ~2,087 |
@@ -27,7 +27,7 @@ Rating: 4.58 (Ranked 449)
 | Dr. No Kill | 10.00% | ~1,897 |
 | In It to Win It | 9.00% | ~1,707 |
 | Security Supervisor | 6.00% | ~1,138 |
-| License to Thrill | 5.00% | ~948 |
+| License to Thrill | 5.00% | ~949 |
 | Social of Solace | 4.00% | ~759 |
 | Live and let lie | 3.00% | ~569 |
 | Safe Withdrawal | 3.00% | ~569 |
@@ -42,7 +42,7 @@ Rating: 4.58 (Ranked 449)
 | Extraction Confusion | 0.20% | ~38 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,970 (Ranked 144)  
+Progressed: 18,972 (Ranked 144)  
 Completed: 4 (0.02%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,6 +268,7 @@ Completed: 4 (0.02%) (Ranked 335)
 | 2023-11-29 | 18,948 | 4 |
 | 2023-11-30 | 18,958 | 4 |
 | 2023-12-01 | 18,970 | 4 |
+| 2023-12-02 | 18,972 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

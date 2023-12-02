@@ -4,8 +4,8 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 217,
+  "EOS_Progressed": 218,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -470,6 +470,11 @@
       "Time": "2023-12-01T20:08:50.8393326+00:00",
       "NumProgressed": 217,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T12:08:33.5376817+00:00",
+      "NumProgressed": 218,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -521,7 +526,7 @@
       "Name": "Choking Hazard",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "dodgy_geezer",
@@ -537,7 +542,7 @@
       "Name": "Don\u0027t Breathe",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "easy_listening",
@@ -687,9 +692,9 @@
       "ID": "smooth_operator",
       "SetID": "3j2phem",
       "Name": "Smooth Operator",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "the_long_night",
@@ -720,7 +725,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 217,
+      "Progressed": 218,
       "Completed": 0
     }
   ],
@@ -728,8 +733,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-12-02T11:08:43.7808028+00:00",
+  "LastChanged_Achievements": "2023-12-02T12:08:33.5376812+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:55.2818485+00:00",
-  "LastUpdate_Ratings": "2023-12-02T11:01:44.0016333+00:00",
-  "LastUpdate_Achievements": "2023-12-02T11:08:43.780819+00:00"
+  "LastUpdate_Ratings": "2023-12-02T12:00:15.3651098+00:00",
+  "LastUpdate_Achievements": "2023-12-02T12:08:33.5376979+00:00"
 }

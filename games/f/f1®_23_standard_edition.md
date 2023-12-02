@@ -5,11 +5,11 @@ Rating: 4.68 (Ranked 254)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,639 |
-| On the Top Step | 88.00% | ~5,279 |
-| Setting up for Success | 78.00% | ~4,679 |
-| Team Orders | 75.00% | ~4,499 |
-| Engineer | 56.00% | ~3,359 |
+| Getting on the Step | 94.00% | ~5,640 |
+| On the Top Step | 88.00% | ~5,280 |
+| Setting up for Success | 78.00% | ~4,680 |
+| Team Orders | 75.00% | ~4,500 |
+| Engineer | 56.00% | ~3,360 |
 | Familiar Faces | 49.00% | ~2,940 |
 | Sharing the Love | 44.00% | ~2,640 |
 | Going the Extra Mile | 43.00% | ~2,580 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 254)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,999 (Ranked 186)  
+Progressed: 6,000 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,18 +135,18 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-29 | 5,971 | 0 |
 | 2023-11-30 | 5,982 | 0 |
 | 2023-12-01 | 5,992 | 0 |
-| 2023-12-02 | 5,999 | 0 |
+| 2023-12-02 | 6,000 | 0 |
 ## Awards
 Max (Diverse Characters): 27  (Ranked 514)  
-Sum: 97 (Ranked 452)  
+Sum: 98 (Ranked 452)  
 Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |
 | This game has Diverse Characters | 27 |
 | This game is Highly Recommended | 25 |
+| This game has a Competitive Community | 25 |
 | This game is Great for Quick Sessions | 24 |
-| This game has a Competitive Community | 24 |
 | This game is Extremely Fun | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -234,3 +234,4 @@ Diff (max vs sum): 62
 | 2023-11-28 | 4.68 | 26 | 95 |
 | 2023-11-29 | 4.68 | 26 | 96 |
 | 2023-12-01 | 4.68 | 27 | 97 |
+| 2023-12-02 | 4.68 | 27 | 98 |

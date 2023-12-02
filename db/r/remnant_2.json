@@ -5055,9 +5055,9 @@
       "Count": 388
     }
   ],
-  "EOS_Progressed": 232679,
+  "EOS_Progressed": 232726,
   "EOS_Completed": 547,
-  "EOS_NewPlayers": 5057,
+  "EOS_NewPlayers": 5065,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -20985,6 +20985,11 @@
       "Time": "2023-12-02T11:09:07.8022903+00:00",
       "NumProgressed": 232679,
       "NumCompleted": 547
+    },
+    {
+      "Time": "2023-12-02T12:08:50.3742536+00:00",
+      "NumProgressed": 232726,
+      "NumCompleted": 547
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -20997,7 +21002,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -21301,7 +21306,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "Obtain_Traits_B",
@@ -21436,22 +21441,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 232679,
+      "Progressed": 232726,
       "Completed": 547
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 11844,
-      "Completed": 177
+      "Progressed": 11891,
+      "Completed": 178
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-02T09:03:27.8163133+00:00",
-  "LastChanged_Achievements": "2023-12-02T11:09:07.8022899+00:00",
+  "LastChanged_Achievements": "2023-12-02T12:08:50.3742529+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-12-02T11:03:26.2817564+00:00",
-  "LastUpdate_Achievements": "2023-12-02T11:09:07.8023795+00:00"
+  "LastUpdate_Ratings": "2023-12-02T12:03:12.5092196+00:00",
+  "LastUpdate_Achievements": "2023-12-02T12:08:50.3743682+00:00"
 }

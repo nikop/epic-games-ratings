@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 219,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2064,7 +2064,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15591,
+  "EOS_Progressed": 15592,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
@@ -16944,6 +16944,11 @@
       "Time": "2023-12-02T10:03:28.090085+00:00",
       "NumProgressed": 15591,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-02T12:03:34.7769939+00:00",
+      "NumProgressed": 15592,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -17387,7 +17392,7 @@
       "Name": "Explorer",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -17867,7 +17872,7 @@
       "Name": "Friendly Family",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -19690,21 +19695,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15591,
+      "Progressed": 15592,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15591,
+      "Progressed": 15592,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-01T03:59:05.0730952+00:00",
-  "LastChanged_Achievements": "2023-12-02T11:03:58.2570358+00:00",
+  "LastChanged_Achievements": "2023-12-02T12:03:34.7769936+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.3516564+00:00",
-  "LastUpdate_Ratings": "2023-12-02T11:00:15.1720356+00:00",
-  "LastUpdate_Achievements": "2023-12-02T11:03:58.257929+00:00"
+  "LastUpdate_Ratings": "2023-12-02T11:59:17.3724902+00:00",
+  "LastUpdate_Achievements": "2023-12-02T12:03:34.7778794+00:00"
 }

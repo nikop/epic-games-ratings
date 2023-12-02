@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3603,7 +3603,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31825,
+  "EOS_Progressed": 31826,
   "EOS_Completed": 69,
   "EOS_NewPlayers": 301,
   "EOS_NewCompleters": 0,
@@ -21118,6 +21118,11 @@
       "Time": "2023-12-02T11:06:35.6403635+00:00",
       "NumProgressed": 31825,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-02T12:05:24.2602844+00:00",
+      "NumProgressed": 31826,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -21145,7 +21150,7 @@
       "Name": "Back Off",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "Best_Insurance",
@@ -21153,7 +21158,7 @@
       "Name": "We have the best insurance",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -21185,7 +21190,7 @@
       "Name": "Collector",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "Cultured",
@@ -21249,7 +21254,7 @@
       "Name": "Escape Artist",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "Fragile_Panes",
@@ -21297,7 +21302,7 @@
       "Name": "Legions",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "Liability",
@@ -21345,7 +21350,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "Reckless",
@@ -21361,7 +21366,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "Rift_Seeker",
@@ -21393,7 +21398,7 @@
       "Name": "Seasoned",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "Side_Hustle",
@@ -21409,7 +21414,7 @@
       "Name": "Skilled",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "Solo_Capture",
@@ -21425,7 +21430,7 @@
       "Name": "Stunner",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "Stylish",
@@ -21497,7 +21502,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "Ultimate_Defense",
@@ -21521,7 +21526,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "Whoopsie",
@@ -21536,7 +21541,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31825,
+      "Progressed": 31826,
       "Completed": 69
     }
   ],
@@ -21544,8 +21549,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-01T21:59:34.5867351+00:00",
-  "LastChanged_Achievements": "2023-12-02T11:06:35.6403628+00:00",
+  "LastChanged_Achievements": "2023-12-02T12:05:24.2602839+00:00",
   "LastUpdate_AppInfo": "2023-11-25T20:57:05.0819015+00:00",
-  "LastUpdate_Ratings": "2023-12-02T11:01:35.6146018+00:00",
-  "LastUpdate_Achievements": "2023-12-02T11:06:35.6404659+00:00"
+  "LastUpdate_Ratings": "2023-12-02T12:00:09.8822982+00:00",
+  "LastUpdate_Achievements": "2023-12-02T12:05:24.2603782+00:00"
 }

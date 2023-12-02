@@ -4,11 +4,11 @@
   "ProductSlug": "horizon-zero-dawn-complete-edition",
   "Ranking_Rating": 129,
   "Ranking_Popularity": 71,
-  "Ranking_PopularitySum": 87,
+  "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 771,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 497,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2020-08-07T15:00:00+00:00",
     "PcReleaseDate": "2020-08-07T15:00:00+00:00",
@@ -8003,6 +8003,6 @@
   "FirstSeen": "2022-07-22T20:25:54.5867721+00:00",
   "LastChanged": "2023-12-02T10:59:11.8918838+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:41.6068032+00:00",
-  "LastUpdate_Ratings": "2023-12-02T10:59:11.8918843+00:00",
-  "LastUpdate_Achievements": "2023-12-02T11:04:25.6831293+00:00"
+  "LastUpdate_Ratings": "2023-12-02T11:58:35.0309525+00:00",
+  "LastUpdate_Achievements": "2023-12-02T12:03:53.3081134+00:00"
 }

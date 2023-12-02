@@ -955,9 +955,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9166,
+  "EOS_Progressed": 9167,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -8595,6 +8595,11 @@
       "Time": "2023-12-02T11:04:33.891155+00:00",
       "NumProgressed": 9166,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-02T12:03:59.1085682+00:00",
+      "NumProgressed": 9167,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -8934,7 +8939,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4583
+      "UsersEstimate": 4584
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -8965,7 +8970,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9166,
+      "Progressed": 9167,
       "Completed": 10
     }
   ],
@@ -8973,8 +8978,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-11-29T21:57:14.3384821+00:00",
-  "LastChanged_Achievements": "2023-12-02T11:04:33.8911547+00:00",
+  "LastChanged_Achievements": "2023-12-02T12:03:59.1085678+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:09.0414673+00:00",
-  "LastUpdate_Ratings": "2023-12-02T10:59:14.9044707+00:00",
-  "LastUpdate_Achievements": "2023-12-02T11:04:33.8912065+00:00"
+  "LastUpdate_Ratings": "2023-12-02T11:58:37.006625+00:00",
+  "LastUpdate_Achievements": "2023-12-02T12:03:59.108621+00:00"
 }

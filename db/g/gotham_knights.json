@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 268,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4487,9 +4487,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77558,
+  "EOS_Progressed": 77560,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 486,
+  "EOS_NewPlayers": 485,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24747,6 +24747,11 @@
       "Time": "2023-12-02T11:06:41.7360682+00:00",
       "NumProgressed": 77558,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-02T12:05:28.3274169+00:00",
+      "NumProgressed": 77560,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -24862,7 +24867,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16287
+      "UsersEstimate": 16288
     },
     {
       "ID": "CLAYFACE_2",
@@ -24870,7 +24875,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13960
+      "UsersEstimate": 13961
     },
     {
       "ID": "CLAYFACE_3",
@@ -24958,7 +24963,7 @@
       "Name": "Family Meeting",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4653
+      "UsersEstimate": 4654
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -24982,7 +24987,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21716
+      "UsersEstimate": 21717
     },
     {
       "ID": "FREEZE_1_5",
@@ -25086,7 +25091,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12409
+      "UsersEstimate": 12410
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -25102,7 +25107,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38779
+      "UsersEstimate": 38780
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -25142,7 +25147,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4653
+      "UsersEstimate": 4654
     },
     {
       "ID": "MYSTERY_01",
@@ -25150,7 +25155,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 25594
+      "UsersEstimate": 25595
     },
     {
       "ID": "MYSTERY_02",
@@ -25182,7 +25187,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13960
+      "UsersEstimate": 13961
     },
     {
       "ID": "MYSTERY_06",
@@ -25214,7 +25219,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8531
+      "UsersEstimate": 8532
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -25245,13 +25250,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77558,
+      "Progressed": 77560,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47838,
+      "Progressed": 47840,
       "Completed": 2675
     }
   ],
@@ -25259,8 +25264,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-02T02:19:40.4366694+00:00",
-  "LastChanged_Achievements": "2023-12-02T11:06:41.7360675+00:00",
+  "LastChanged_Achievements": "2023-12-02T12:05:28.3274162+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:48.4544768+00:00",
-  "LastUpdate_Ratings": "2023-12-02T11:01:41.9526811+00:00",
-  "LastUpdate_Achievements": "2023-12-02T11:06:41.7362279+00:00"
+  "LastUpdate_Ratings": "2023-12-02T12:00:14.0026539+00:00",
+  "LastUpdate_Achievements": "2023-12-02T12:05:28.3275433+00:00"
 }

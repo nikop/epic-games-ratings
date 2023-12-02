@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251776,
+  "EOS_Progressed": 251778,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20297,6 +20297,11 @@
       "Time": "2023-12-02T11:09:43.334467+00:00",
       "NumProgressed": 251776,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-02T12:09:15.7454289+00:00",
+      "NumProgressed": 251778,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -20380,7 +20385,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37766
+      "UsersEstimate": 37767
     },
     {
       "ID": "clearCut",
@@ -20412,7 +20417,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50355
+      "UsersEstimate": 50356
     },
     {
       "ID": "didYourTime",
@@ -20484,7 +20489,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133441
+      "UsersEstimate": 133442
     },
     {
       "ID": "indegestible",
@@ -20548,7 +20553,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125888
+      "UsersEstimate": 125889
     },
     {
       "ID": "notScared",
@@ -20675,7 +20680,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251776,
+      "Progressed": 251778,
       "Completed": 6
     }
   ],
@@ -20683,8 +20688,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-02T11:09:43.3344658+00:00",
+  "LastChanged_Achievements": "2023-12-02T12:09:15.7454285+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:52.8693744+00:00",
-  "LastUpdate_Ratings": "2023-12-02T11:01:41.5872705+00:00",
-  "LastUpdate_Achievements": "2023-12-02T11:09:43.3345623+00:00"
+  "LastUpdate_Ratings": "2023-12-02T12:00:13.7561646+00:00",
+  "LastUpdate_Achievements": "2023-12-02T12:09:15.7455324+00:00"
 }

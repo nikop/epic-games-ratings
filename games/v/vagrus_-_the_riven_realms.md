@@ -12,7 +12,7 @@
 | Scribe | 12.00% | ~25 |
 | Breached | 12.00% | ~25 |
 | Tactician | 11.00% | ~23 |
-| Conciliator | 9.00% | ~18 |
+| Conciliator | 10.00% | ~20 |
 | Fight Another Day | 9.00% | ~18 |
 | Taskmaster | 9.00% | ~18 |
 | Acquaintance | 8.00% | ~16 |

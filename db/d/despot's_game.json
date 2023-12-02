@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 371,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 436,
+  "EOS_Progressed": 437,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -468,6 +468,11 @@
       "Time": "2023-11-29T20:08:04.444913+00:00",
       "NumProgressed": 436,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T12:08:40.4600852+00:00",
+      "NumProgressed": 437,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -527,7 +532,7 @@
       "Name": "No Mercy",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "different-items1",
@@ -551,7 +556,7 @@
       "Name": "Fat of the Earth",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "finished-quest-cube",
@@ -591,7 +596,7 @@
       "Name": "Assemble a Meganewbie",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "finished-quest-rat",
@@ -599,7 +604,7 @@
       "Name": "The Return of a Rat",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "finished-quest-reaper",
@@ -615,7 +620,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "finished-quest-secret",
@@ -703,7 +708,7 @@
       "Name": "Good start!",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "win-koth-fights1",
@@ -758,7 +763,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 436,
+      "Progressed": 437,
       "Completed": 1
     }
   ],
@@ -766,8 +771,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-12-02T11:08:53.4859423+00:00",
+  "LastChanged_Achievements": "2023-12-02T12:08:40.4600847+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:54.2944425+00:00",
-  "LastUpdate_Ratings": "2023-12-02T11:02:00.1682755+00:00",
-  "LastUpdate_Achievements": "2023-12-02T11:08:53.4859628+00:00"
+  "LastUpdate_Ratings": "2023-12-02T12:00:25.5491138+00:00",
+  "LastUpdate_Achievements": "2023-12-02T12:08:40.4601044+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -11922,9 +11922,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 54494,
+  "EOS_Progressed": 54495,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1390,
+  "EOS_NewPlayers": 1377,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32702,6 +32702,11 @@
       "Time": "2023-12-02T11:07:42.195064+00:00",
       "NumProgressed": 54494,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-02T12:06:11.2066353+00:00",
+      "NumProgressed": 54495,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -32785,7 +32790,7 @@
       "Name": "Highly cultivated",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 5449
+      "UsersEstimate": 5450
     },
     {
       "ID": "CultivateFirst",
@@ -32793,7 +32798,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 33786
+      "UsersEstimate": 33787
     },
     {
       "ID": "CutTree",
@@ -32809,7 +32814,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 32151
+      "UsersEstimate": 32152
     },
     {
       "ID": "DeliveryGrapes",
@@ -32849,7 +32854,7 @@
       "Name": "Plant get enough",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 32151
+      "UsersEstimate": 32152
     },
     {
       "ID": "Harvested",
@@ -32889,7 +32894,7 @@
       "Name": "Giddy-up!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5449
+      "UsersEstimate": 5450
     },
     {
       "ID": "LoadedOldSavegame",
@@ -32897,7 +32902,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 26702
+      "UsersEstimate": 26703
     },
     {
       "ID": "Mission",
@@ -32945,7 +32950,7 @@
       "Name": "All out of Land",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 23432
+      "UsersEstimate": 23433
     },
     {
       "ID": "NumProductionPoints",
@@ -32967,9 +32972,9 @@
       "ID": "NumVehiclesSmall",
       "SetID": "636ci4d",
       "Name": "This is just my weekend vehicle",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 30517
+      "UsersEstimate": 31062
     },
     {
       "ID": "PetDog",
@@ -32977,7 +32982,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 14713
+      "UsersEstimate": 14714
     },
     {
       "ID": "PlayTime",
@@ -33001,7 +33006,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 33241
+      "UsersEstimate": 33242
     },
     {
       "ID": "Stones",
@@ -33017,7 +33022,7 @@
       "Name": "Field Trip",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 22887
+      "UsersEstimate": 22888
     },
     {
       "ID": "TruckDriving",
@@ -33056,15 +33061,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 54494,
+      "Progressed": 54495,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-12-02T00:00:34.9919274+00:00",
-  "LastChanged_Achievements": "2023-12-02T11:07:42.1950637+00:00",
+  "LastChanged_Achievements": "2023-12-02T12:06:11.2066349+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:04.5374775+00:00",
-  "LastUpdate_Ratings": "2023-12-02T11:02:41.6431382+00:00",
-  "LastUpdate_Achievements": "2023-12-02T11:07:42.1951627+00:00"
+  "LastUpdate_Ratings": "2023-12-02T12:00:33.4346873+00:00",
+  "LastUpdate_Achievements": "2023-12-02T12:06:11.2067671+00:00"
 }
