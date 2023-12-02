@@ -3,9 +3,9 @@
   "Name": "Hide and Seek",
   "ProductSlug": "hide-and-seek-9e0912",
   "Ranking_EOS_Progress": 470,
-  "Ranking_EOS_Completed": 14,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_Completed": 13,
+  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-11-17T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 71,
-  "EOS_Completed": 18,
+  "EOS_Completed": 19,
   "EOS_NewPlayers": 20,
-  "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 25.35,
+  "EOS_NewCompleters": 8,
+  "EOS_Completed_Percentage": 26.76,
   "EosHistory": [
     {
       "Time": "2023-10-27T08:03:12.3297461+00:00",
@@ -294,6 +294,11 @@
       "Time": "2023-12-02T18:05:36.6266837+00:00",
       "NumProgressed": 71,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-02T23:07:48.2199004+00:00",
+      "NumProgressed": 71,
+      "NumCompleted": 19
     }
   ],
   "AchievementsAdded": "2023-10-27T08:03:12.3312998+00:00",
@@ -336,9 +341,9 @@
       "ID": "ACHIEVEMENT_5",
       "SetID": "dhh8kbc",
       "Name": "Hiders win!",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 150,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -354,13 +359,13 @@
       "ID": "dhh8kbc",
       "IsBase": true,
       "Progressed": 71,
-      "Completed": 18
+      "Completed": 19
     }
   ],
   "FirstSeen": "2023-11-18T09:58:40.5450132+00:00",
   "FirstSeenAchievements": "2023-10-27T08:03:12.3312996+00:00",
-  "LastChanged_Achievements": "2023-12-02T22:06:22.9877093+00:00",
+  "LastChanged_Achievements": "2023-12-02T23:07:48.2198993+00:00",
   "LastUpdate_AppInfo": "2023-12-01T11:57:04.7658946+00:00",
-  "LastUpdate_Ratings": "2023-12-02T21:59:47.2525904+00:00",
-  "LastUpdate_Achievements": "2023-12-02T22:06:22.9877169+00:00"
+  "LastUpdate_Ratings": "2023-12-02T23:01:45.3852566+00:00",
+  "LastUpdate_Achievements": "2023-12-02T23:07:48.2199069+00:00"
 }

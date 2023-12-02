@@ -15972,10 +15972,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 381826,
       "NumberOfAwardsMax": 114587
+    },
+    {
+      "Time": "2023-12-02T23:05:13.2634519+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 382001,
+      "NumberOfAwardsMax": 114587
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 381826,
+  "NumberOfAwards": 382001,
   "NumberOfAwardsMax": 114587,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15995,7 +16001,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 22425
+      "Count": 22600
     },
     {
       "Text": "This game is Relaxing",
@@ -16052,9 +16058,9 @@
       "Count": 14036
     }
   ],
-  "EOS_Progressed": 967824,
+  "EOS_Progressed": 967833,
   "EOS_Completed": 2836,
-  "EOS_NewPlayers": 24691,
+  "EOS_NewPlayers": 24525,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -41777,6 +41783,11 @@
       "Time": "2023-12-02T22:06:04.9188217+00:00",
       "NumProgressed": 967824,
       "NumCompleted": 2836
+    },
+    {
+      "Time": "2023-12-02T23:07:30.5052817+00:00",
+      "NumProgressed": 967833,
+      "NumCompleted": 2836
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -41909,7 +41920,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19356
+      "UsersEstimate": 19357
     },
     {
       "ID": "MaxPain",
@@ -42005,7 +42016,7 @@
       "Name": "The Fool",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48391
+      "UsersEstimate": 48392
     },
     {
       "ID": "TheHermit",
@@ -42013,7 +42024,7 @@
       "Name": "The Hermit",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19356
+      "UsersEstimate": 19357
     },
     {
       "ID": "TheHightPriestess",
@@ -42021,7 +42032,7 @@
       "Name": "The High Priestess",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19356
+      "UsersEstimate": 19357
     },
     {
       "ID": "TheLovers",
@@ -42093,7 +42104,7 @@
       "Name": "True Warrior",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 19356
+      "UsersEstimate": 19357
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -42117,7 +42128,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 116139
+      "UsersEstimate": 116140
     },
     {
       "ID": "YipMan",
@@ -42133,7 +42144,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 19356
+      "UsersEstimate": 19357
     },
     {
       "ID": "All the President\u0027s Men",
@@ -42324,21 +42335,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 967824,
+      "Progressed": 967833,
       "Completed": 2836
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 96447,
+      "Progressed": 96456,
       "Completed": 10292
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-12-02T20:04:12.8496275+00:00",
-  "LastChanged_Achievements": "2023-12-02T22:06:04.9188214+00:00",
+  "LastChanged": "2023-12-02T23:05:13.2634518+00:00",
+  "LastChanged_Achievements": "2023-12-02T23:07:30.5052813+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:33.8863582+00:00",
-  "LastUpdate_Ratings": "2023-12-02T22:03:42.7421763+00:00",
-  "LastUpdate_Achievements": "2023-12-02T22:06:04.918949+00:00"
+  "LastUpdate_Ratings": "2023-12-02T23:05:13.2634524+00:00",
+  "LastUpdate_Achievements": "2023-12-02T23:07:30.5054079+00:00"
 }

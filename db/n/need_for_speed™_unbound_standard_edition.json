@@ -4,7 +4,7 @@
   "ProductSlug": "need-for-speed-unbound",
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-12-02T07:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 11571,
+  "EOS_Progressed": 11572,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 603,
+  "EOS_NewPlayers": 602,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -8603,6 +8603,11 @@
       "Time": "2023-12-02T22:08:23.2109236+00:00",
       "NumProgressed": 11571,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-02T23:10:54.4031618+00:00",
+      "NumProgressed": 11572,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-09-19T23:06:56.1964818+00:00",
@@ -8695,7 +8700,7 @@
       "Name": "Rebel Without a Pause",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 7868
+      "UsersEstimate": 7869
     },
     {
       "ID": "achievement_2",
@@ -8703,7 +8708,7 @@
       "Name": "Most Wanted",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 7405
+      "UsersEstimate": 7406
     },
     {
       "ID": "achievement_20",
@@ -8727,7 +8732,7 @@
       "Name": "Escape Artist",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 6248
+      "UsersEstimate": 6249
     },
     {
       "ID": "achievement_23",
@@ -8735,7 +8740,7 @@
       "Name": "Public Enemy",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 9488
+      "UsersEstimate": 9489
     },
     {
       "ID": "achievement_24",
@@ -8751,7 +8756,7 @@
       "Name": "Access All Areas",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 3818
+      "UsersEstimate": 3819
     },
     {
       "ID": "achievement_26",
@@ -8791,7 +8796,7 @@
       "Name": "New Crew",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 7174
+      "UsersEstimate": 7175
     },
     {
       "ID": "achievement_30",
@@ -8839,7 +8844,7 @@
       "Name": "Hey Speedie!",
       "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 7868
+      "UsersEstimate": 7869
     },
     {
       "ID": "achievement_36",
@@ -8855,7 +8860,7 @@
       "Name": "Throwing up Tags",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 10645
+      "UsersEstimate": 10646
     },
     {
       "ID": "achievement_38",
@@ -8863,7 +8868,7 @@
       "Name": "Fashion Killa",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 10182
+      "UsersEstimate": 10183
     },
     {
       "ID": "achievement_39",
@@ -8871,7 +8876,7 @@
       "Name": "Cool Whip",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 10414
+      "UsersEstimate": 10415
     },
     {
       "ID": "achievement_4",
@@ -8895,7 +8900,7 @@
       "Name": "Drop the Beat",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 9951
+      "UsersEstimate": 9952
     },
     {
       "ID": "achievement_5",
@@ -8919,7 +8924,7 @@
       "Name": "Hey Lakeshore",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 9835
+      "UsersEstimate": 9836
     },
     {
       "ID": "achievement_8",
@@ -8942,13 +8947,13 @@
     {
       "ID": "d0n64ce",
       "IsBase": true,
-      "Progressed": 11571,
+      "Progressed": 11572,
       "Completed": 52
     }
   ],
   "FirstSeenAchievements": "2023-07-25T22:03:37.4196764+00:00",
-  "LastChanged_Achievements": "2023-12-02T22:08:23.2109232+00:00",
+  "LastChanged_Achievements": "2023-12-02T23:10:54.4031613+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:24.389053+00:00",
-  "LastUpdate_Ratings": "2023-12-02T21:59:00.0939342+00:00",
-  "LastUpdate_Achievements": "2023-12-02T22:08:23.2109914+00:00"
+  "LastUpdate_Ratings": "2023-12-02T23:01:02.9374694+00:00",
+  "LastUpdate_Achievements": "2023-12-02T23:10:54.403233+00:00"
 }

@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 92.00% | ~10,645 |
-| Cool Whip | 90.00% | ~10,414 |
-| Fashion Killa | 88.00% | ~10,182 |
-| Drop the Beat | 86.00% | ~9,951 |
-| Hey Lakeshore | 85.00% | ~9,835 |
+| Throwing up Tags | 92.00% | ~10,646 |
+| Cool Whip | 90.00% | ~10,415 |
+| Fashion Killa | 88.00% | ~10,183 |
+| Drop the Beat | 86.00% | ~9,952 |
+| Hey Lakeshore | 85.00% | ~9,836 |
 | 100 Miles and Runnin' | 84.00% | ~9,720 |
-| Public Enemy | 82.00% | ~9,488 |
-| Rebel Without a Pause | 68.00% | ~7,868 |
-| Hey Speedie! | 68.00% | ~7,868 |
-| Most Wanted | 64.00% | ~7,405 |
-| New Crew | 62.00% | ~7,174 |
-| Escape Artist | 54.00% | ~6,248 |
+| Public Enemy | 82.00% | ~9,489 |
+| Rebel Without a Pause | 68.00% | ~7,869 |
+| Hey Speedie! | 68.00% | ~7,869 |
+| Most Wanted | 64.00% | ~7,406 |
+| New Crew | 62.00% | ~7,175 |
+| Escape Artist | 54.00% | ~6,249 |
 | Serious Guap | 53.00% | ~6,133 |
 | Style it Out | 53.00% | ~6,133 |
 | Untouchable | 52.00% | ~6,017 |
@@ -24,7 +24,7 @@
 | Cash Money Millionaire | 46.00% | ~5,323 |
 | Lake Better Watch Out | 39.00% | ~4,513 |
 | #Blessed | 34.00% | ~3,934 |
-| Access All Areas | 33.00% | ~3,818 |
+| Access All Areas | 33.00% | ~3,819 |
 | Found Family | 31.00% | ~3,587 |
 | In the Flow | 29.00% | ~3,356 |
 | The Collector | 29.00% | ~3,356 |
@@ -46,7 +46,7 @@
 | Catch My Drift | 2.00% | ~231 |
 | Cleaning Up | 2.00% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,571 (Ranked 161)  
+Progressed: 11,572 (Ranked 161)  
 Completed: 52 (0.45%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,4 +124,4 @@ Completed: 52 (0.45%) (Ranked 213)
 | 2023-11-29 | 11,330 | 52 |
 | 2023-11-30 | 11,406 | 52 |
 | 2023-12-01 | 11,486 | 52 |
-| 2023-12-02 | 11,571 | 52 |
+| 2023-12-02 | 11,572 | 52 |

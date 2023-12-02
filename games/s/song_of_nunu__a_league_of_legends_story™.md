@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 75.00% | ~796 |
+| Feels Familiar | 76.00% | ~807 |
 | I Broke It | 73.00% | ~775 |
 | Better On Ice | 68.00% | ~722 |
 | Notai Notes | 67.00% | ~712 |
@@ -29,9 +29,9 @@
 | True Legends | 39.00% | ~414 |
 | Family | 38.00% | ~404 |
 | Biggest Snowball Ever | 38.00% | ~404 |
+| Freeze The Ice Witch | 38.00% | ~404 |
 | Boosted! | 38.00% | ~404 |
 | Deadliest and Biggest Snowball Ever! | 38.00% | ~404 |
-| Freeze The Ice Witch | 37.00% | ~393 |
 | Bullseye | 36.00% | ~382 |
 | It Is Not Over | 34.00% | ~361 |
 | On The Rocks | 34.00% | ~361 |

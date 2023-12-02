@@ -17,7 +17,7 @@
 | Starry Night | 42.00% | ~20 |
 | Locksley's Tears | 38.00% | ~18 |
 | Merry Co-operation | 35.00% | ~17 |
-| Rebel Unleashed | 33.00% | ~16 |
+| Rebel Unleashed | 35.00% | ~17 |
 | Savior | 31.00% | ~15 |
 | Finish Him! | 29.00% | ~14 |
 | Assault on the Ram | 27.00% | ~13 |

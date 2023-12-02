@@ -1075,9 +1075,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 14544,
+  "EOS_Progressed": 14550,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 817,
+  "EOS_NewPlayers": 815,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -12190,6 +12190,11 @@
       "Time": "2023-12-02T22:09:17.8152878+00:00",
       "NumProgressed": 14544,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-02T23:11:46.0495561+00:00",
+      "NumProgressed": 14550,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -12202,7 +12207,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "a_10",
@@ -12250,7 +12255,7 @@
       "Name": "Bye Bye",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 6108
+      "UsersEstimate": 6111
     },
     {
       "ID": "a_19",
@@ -12266,7 +12271,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "a_20",
@@ -12298,7 +12303,7 @@
       "Name": "Quack",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "a_25",
@@ -12306,7 +12311,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "a_26",
@@ -12402,7 +12407,7 @@
       "Name": "King of Langhe",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "a_5",
@@ -12418,7 +12423,7 @@
       "Name": "Gem of Monferrato",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "a_7",
@@ -12449,7 +12454,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 14544,
+      "Progressed": 14550,
       "Completed": 12
     }
   ],
@@ -12457,8 +12462,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-27T12:03:17.4706024+00:00",
-  "LastChanged_Achievements": "2023-12-02T22:09:17.8152873+00:00",
+  "LastChanged_Achievements": "2023-12-02T23:11:46.0495557+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:18.6853909+00:00",
-  "LastUpdate_Ratings": "2023-12-02T22:03:54.8568209+00:00",
-  "LastUpdate_Achievements": "2023-12-02T22:09:17.8153418+00:00"
+  "LastUpdate_Ratings": "2023-12-02T23:05:21.1402176+00:00",
+  "LastUpdate_Achievements": "2023-12-02T23:11:46.0496248+00:00"
 }

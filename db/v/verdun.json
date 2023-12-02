@@ -1871,9 +1871,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 65304,
+  "EOS_Progressed": 65305,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 630,
+  "EOS_NewPlayers": 622,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26771,6 +26771,11 @@
       "Time": "2023-12-02T21:04:22.1369455+00:00",
       "NumProgressed": 65304,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-02T23:06:16.232664+00:00",
+      "NumProgressed": 65305,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -26782,7 +26787,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 35917
+      "UsersEstimate": 35918
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -27038,7 +27043,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 20897
+      "UsersEstimate": 20898
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -27078,7 +27083,7 @@
       "Name": "Gott Mit Uns",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7836
+      "UsersEstimate": 7837
     },
     {
       "ID": "VERDUN_ACH_LEVEL100",
@@ -27150,7 +27155,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 50937
+      "UsersEstimate": 50938
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -27246,22 +27251,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 24162
+      "UsersEstimate": 24163
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 65304,
+      "Progressed": 65305,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-12-01T13:07:38.9484337+00:00",
-  "LastChanged_Achievements": "2023-12-02T22:04:50.9296769+00:00",
+  "LastChanged_Achievements": "2023-12-02T23:06:16.2326635+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:11.1920851+00:00",
-  "LastUpdate_Ratings": "2023-12-02T21:57:40.0600653+00:00",
-  "LastUpdate_Achievements": "2023-12-02T22:04:50.9298263+00:00"
+  "LastUpdate_Ratings": "2023-12-02T22:59:51.481084+00:00",
+  "LastUpdate_Achievements": "2023-12-02T23:06:16.2328099+00:00"
 }

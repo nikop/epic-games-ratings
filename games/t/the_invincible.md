@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | The Camp | 57.00% | ~280 |
 | The Teleprobe | 45.00% | ~221 |
-| The City | 40.00% | ~196 |
+| The City | 40.00% | ~197 |
 | The field base | 36.00% | ~177 |
-| Survivors | 30.00% | ~147 |
+| Survivors | 30.00% | ~148 |
 | The Condor | 27.00% | ~133 |
 | The End | 27.00% | ~133 |
 | The Alliance | 21.00% | ~103 |
@@ -25,7 +25,7 @@
 | Violent solution | 8.00% | ~39 |
 | Another giant | 8.00% | ~39 |
 | Innate curiosity | 7.00% | ~34 |
-| I leave no man behind | 6.00% | ~29 |
+| I leave no man behind | 6.00% | ~30 |
 | The Invincible | 5.00% | ~25 |
 | Strong objection | 5.00% | ~25 |
 | Ubiquitous holes | 4.00% | ~20 |
@@ -34,7 +34,7 @@
 | Convoy list | 1.00% | ~5 |
 | No more mistakes | 0.60% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 491 (Ranked 315)  
+Progressed: 492 (Ranked 315)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,4 +61,4 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-29 | 455 | 1 |
 | 2023-11-30 | 468 | 0 |
 | 2023-12-01 | 480 | 0 |
-| 2023-12-02 | 491 | 0 |
+| 2023-12-02 | 492 | 0 |

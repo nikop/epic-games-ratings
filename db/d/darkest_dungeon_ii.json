@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9308,7 +9308,7 @@
   ],
   "EOS_Progressed": 125362,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 638,
+  "EOS_NewPlayers": 630,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33532,9 +33532,9 @@
       "ID": "combat_party_wipe_any_run_boss",
       "SetID": "64l4lke",
       "Name": "It Happens",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 21312
+      "UsersEstimate": 22565
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -33794,8 +33794,8 @@
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-02T19:00:29.8928334+00:00",
-  "LastChanged_Achievements": "2023-12-02T22:08:22.7897609+00:00",
-  "LastUpdate_AppInfo": "2023-11-25T21:58:41.5668132+00:00",
-  "LastUpdate_Ratings": "2023-12-02T21:57:15.0926801+00:00",
-  "LastUpdate_Achievements": "2023-12-02T22:08:22.7898982+00:00"
+  "LastChanged_Achievements": "2023-12-02T23:10:54.0693139+00:00",
+  "LastUpdate_AppInfo": "2023-12-02T22:57:09.0796659+00:00",
+  "LastUpdate_Ratings": "2023-12-02T22:59:25.3313916+00:00",
+  "LastUpdate_Achievements": "2023-12-02T23:10:54.0695161+00:00"
 }

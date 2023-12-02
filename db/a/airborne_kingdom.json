@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7562,
+  "EOS_Progressed": 7563,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -6018,6 +6018,11 @@
       "Time": "2023-12-02T16:04:14.8924568+00:00",
       "NumProgressed": 7562,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-02T23:05:47.9221137+00:00",
+      "NumProgressed": 7563,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -6045,7 +6050,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3100
+      "UsersEstimate": 3101
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -6085,7 +6090,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1890
+      "UsersEstimate": 1891
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -6093,7 +6098,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1890
+      "UsersEstimate": 1891
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -6109,7 +6114,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1512
+      "UsersEstimate": 1513
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -6125,7 +6130,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2117
+      "UsersEstimate": 2118
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -6157,7 +6162,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1512
+      "UsersEstimate": 1513
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -6165,7 +6170,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3100
+      "UsersEstimate": 3101
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -6173,7 +6178,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3100
+      "UsersEstimate": 3101
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -6244,15 +6249,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7562,
+      "Progressed": 7563,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-12-02T22:04:23.1562227+00:00",
+  "LastChanged_Achievements": "2023-12-02T23:05:47.9221133+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:34.8326286+00:00",
-  "LastUpdate_Ratings": "2023-12-02T22:04:00.3540973+00:00",
-  "LastUpdate_Achievements": "2023-12-02T22:04:23.1562565+00:00"
+  "LastUpdate_Ratings": "2023-12-02T23:05:26.8099051+00:00",
+  "LastUpdate_Achievements": "2023-12-02T23:05:47.9221549+00:00"
 }

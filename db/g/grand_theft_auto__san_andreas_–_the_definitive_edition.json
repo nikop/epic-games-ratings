@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 300,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1633,9 +1633,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 13826,
+  "EOS_Progressed": 13827,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -15293,6 +15293,11 @@
       "Time": "2023-12-02T19:09:21.5017172+00:00",
       "NumProgressed": 13826,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-02T23:12:00.0396426+00:00",
+      "NumProgressed": 13827,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 35,
@@ -15304,7 +15309,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11337
+      "UsersEstimate": 11338
     },
     {
       "ID": "ACH02",
@@ -15424,7 +15429,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2350
+      "UsersEstimate": 2351
     },
     {
       "ID": "ACH17",
@@ -15583,7 +15588,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13826,
+      "Progressed": 13827,
       "Completed": 56
     }
   ],
@@ -15591,8 +15596,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-02T06:59:27.8933803+00:00",
-  "LastChanged_Achievements": "2023-12-02T22:09:31.3273756+00:00",
-  "LastUpdate_AppInfo": "2023-11-25T21:58:29.1736391+00:00",
-  "LastUpdate_Ratings": "2023-12-02T22:00:36.0434252+00:00",
-  "LastUpdate_Achievements": "2023-12-02T22:09:31.3274402+00:00"
+  "LastChanged_Achievements": "2023-12-02T23:12:00.0396421+00:00",
+  "LastUpdate_AppInfo": "2023-12-02T22:58:45.2117848+00:00",
+  "LastUpdate_Ratings": "2023-12-02T23:02:36.7012497+00:00",
+  "LastUpdate_Achievements": "2023-12-02T23:12:00.0397195+00:00"
 }

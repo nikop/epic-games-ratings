@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 491,
+  "EOS_Progressed": 492,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1350,6 +1350,11 @@
       "Time": "2023-12-02T19:08:56.3127062+00:00",
       "NumProgressed": 491,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T23:11:32.5532852+00:00",
+      "NumProgressed": 492,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1474,7 +1479,7 @@
       "Name": "I leave no man behind",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "AchvLeavesNoManBehind2",
@@ -1546,7 +1551,7 @@
       "Name": "The City",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "AchvReachCondor",
@@ -1562,7 +1567,7 @@
       "Name": "Survivors",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -1593,14 +1598,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 491,
+      "Progressed": 492,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-02T22:09:04.1406535+00:00",
-  "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-12-02T22:02:39.0251676+00:00",
-  "LastUpdate_Achievements": "2023-12-02T22:09:04.1406776+00:00"
+  "LastChanged_Achievements": "2023-12-02T23:11:32.5532847+00:00",
+  "LastUpdate_AppInfo": "2023-12-02T22:58:58.6526822+00:00",
+  "LastUpdate_Ratings": "2023-12-02T23:04:39.2193632+00:00",
+  "LastUpdate_Achievements": "2023-12-02T23:11:32.5533051+00:00"
 }

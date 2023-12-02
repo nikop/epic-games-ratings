@@ -175,7 +175,7 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 833,
+  "EOS_Progressed": 835,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
@@ -1925,6 +1925,11 @@
       "Time": "2023-12-02T19:04:37.4351417+00:00",
       "NumProgressed": 833,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T23:06:47.3294866+00:00",
+      "NumProgressed": 835,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1993,7 +1998,7 @@
       "Name": "Bridge Builder",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ChasingTheLight",
@@ -2111,9 +2116,9 @@
       "ID": "JustOneLap",
       "SetID": "1n308hc",
       "Name": "Just One Lap",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 33
     },
     {
       "ID": "LordOfTheFiles",
@@ -2215,9 +2220,9 @@
       "ID": "PuzzleFiend",
       "SetID": "1n308hc",
       "Name": "Puzzle Fiend",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 33
     },
     {
       "ID": "RemnantsOfThePast",
@@ -2345,7 +2350,7 @@
       "Name": "The Word Endures",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "TouchGrass",
@@ -2408,7 +2413,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 833,
+      "Progressed": 835,
       "Completed": 1
     }
   ],
@@ -2416,8 +2421,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-02T13:02:26.2646778+00:00",
-  "LastChanged_Achievements": "2023-12-02T22:05:22.5077489+00:00",
+  "LastChanged_Achievements": "2023-12-02T23:06:47.3294861+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-02T21:57:22.8708022+00:00",
-  "LastUpdate_Achievements": "2023-12-02T22:05:22.5077912+00:00"
+  "LastUpdate_Ratings": "2023-12-02T22:59:33.4291029+00:00",
+  "LastUpdate_Achievements": "2023-12-02T23:06:47.3295303+00:00"
 }

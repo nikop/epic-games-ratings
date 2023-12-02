@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 402,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1128,9 +1128,9 @@
       "ID": "MAIN_CLEAR_ISLAND4",
       "SetID": "apihg0e",
       "Name": "Hope Across Ages",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 12
     },
     {
       "ID": "MAIN_CLEAR_LAST",
@@ -1279,8 +1279,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-02T22:09:00.421299+00:00",
+  "LastChanged_Achievements": "2023-12-02T23:11:28.7295646+00:00",
   "LastUpdate_AppInfo": "2023-11-28T17:56:55.9843317+00:00",
-  "LastUpdate_Ratings": "2023-12-02T22:03:50.0006689+00:00",
-  "LastUpdate_Achievements": "2023-12-02T22:09:00.42133+00:00"
+  "LastUpdate_Ratings": "2023-12-02T23:05:16.1854182+00:00",
+  "LastUpdate_Achievements": "2023-12-02T23:11:28.7295887+00:00"
 }

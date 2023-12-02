@@ -2070,9 +2070,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15603,
+  "EOS_Progressed": 15604,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16990,6 +16990,11 @@
       "Time": "2023-12-02T22:04:47.1239605+00:00",
       "NumProgressed": 15603,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-02T23:06:12.501168+00:00",
+      "NumProgressed": 15604,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -18591,9 +18596,9 @@
       "ID": "ACHIEVEMENT_MORTALITY_REALISTIC",
       "SetID": "9201eeb",
       "Name": "Realistic Mortality",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_NATION_ASSYRIA",
@@ -19736,21 +19741,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15603,
+      "Progressed": 15604,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15603,
+      "Progressed": 15604,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-02T17:00:16.9280186+00:00",
-  "LastChanged_Achievements": "2023-12-02T22:04:47.1239599+00:00",
-  "LastUpdate_AppInfo": "2023-11-25T21:58:11.3516564+00:00",
-  "LastUpdate_Ratings": "2023-12-02T22:00:00.8631077+00:00",
-  "LastUpdate_Achievements": "2023-12-02T22:04:47.1248288+00:00"
+  "LastChanged_Achievements": "2023-12-02T23:06:12.5011677+00:00",
+  "LastUpdate_AppInfo": "2023-12-02T22:58:20.3030051+00:00",
+  "LastUpdate_Ratings": "2023-12-02T23:01:59.4323887+00:00",
+  "LastUpdate_Achievements": "2023-12-02T23:06:12.5020709+00:00"
 }

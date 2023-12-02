@@ -26,15 +26,15 @@ Number of Ratings: 368  (23.09.2022)
 | Exterminator | 13.00% | ~2,185 |
 | Whodunnit | 12.00% | ~2,017 |
 | First profit | 11.00% | ~1,849 |
-| Good midwife | 10.00% | ~1,680 |
-| Friar Tuck | 10.00% | ~1,680 |
-| Team player | 10.00% | ~1,680 |
-| Skilled merchant | 9.00% | ~1,512 |
-| Nothing but make-believe | 9.00% | ~1,512 |
-| Brother Marcus | 9.00% | ~1,512 |
-| The oath | 9.00% | ~1,512 |
-| The truth revealed | 9.00% | ~1,512 |
-| The End. | 9.00% | ~1,512 |
+| Good midwife | 10.00% | ~1,681 |
+| Friar Tuck | 10.00% | ~1,681 |
+| Team player | 10.00% | ~1,681 |
+| Skilled merchant | 9.00% | ~1,513 |
+| Nothing but make-believe | 9.00% | ~1,513 |
+| Brother Marcus | 9.00% | ~1,513 |
+| The oath | 9.00% | ~1,513 |
+| The truth revealed | 9.00% | ~1,513 |
+| The End. | 9.00% | ~1,513 |
 | A cry for help | 8.00% | ~1,344 |
 | Silentium est aureum | 7.00% | ~1,176 |
 | Rebel without a cause | 6.00% | ~1,008 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~504 |
 | Boy of mystery | 2.00% | ~336 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,805 (Ranked 148)  
+Progressed: 16,806 (Ranked 148)  
 Completed: 116 (0.69%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 116 (0.69%) (Ranked 186)
 | 2023-11-29 | 16,747 | 116 |
 | 2023-11-30 | 16,770 | 116 |
 | 2023-12-01 | 16,781 | 116 |
-| 2023-12-02 | 16,805 | 116 |
+| 2023-12-02 | 16,806 | 116 |
 ## Awards
 Max (Easy Puzzles): 155  (Ranked 317)  
 Sum: 198 (Ranked 402)  

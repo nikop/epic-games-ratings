@@ -15,15 +15,15 @@ Number of Ratings: 46  (23.09.2022)
 | Skinmaker | 0.10% | ~161 |
 | Assimilation | 0.10% | ~161 |
 | Instruments | 0.10% | ~161 |
-| Zygote | 0.10% | ~160 |
+| Zygote | 0.10% | ~161 |
 | Breath | 0.10% | ~161 |
 | Weeper | 0.10% | ~161 |
 | Hunt Down | 0.10% | ~161 |
 | Artisan | 0.10% | ~161 |
 | Shapely | 0.10% | ~161 |
-| Scion | 0.10% | ~160 |
-| Glare | 0.10% | ~160 |
-| Host | 0.10% | ~160 |
+| Scion | 0.10% | ~161 |
+| Glare | 0.10% | ~161 |
+| Host | 0.10% | ~161 |
 | Hush | 0.10% | ~161 |
 | Harmless | 0.10% | ~161 |
 | Jawcrab | 0.10% | ~161 |
@@ -43,17 +43,17 @@ Number of Ratings: 46  (23.09.2022)
 | Sharpened Vessel | 0.10% | ~161 |
 | Unwrap the Gift | 0.10% | ~161 |
 | Passage | 0.10% | ~161 |
-| Dream | 0.10% | ~160 |
+| Dream | 0.10% | ~161 |
 | Generous | 0.10% | ~161 |
-| Kin | 0.10% | ~160 |
-| Listen | 0.10% | ~160 |
+| Kin | 0.10% | ~161 |
+| Listen | 0.10% | ~161 |
 | Proportions | 0.10% | ~161 |
-| The Nightmare | 0.10% | ~160 |
-| Touch of Otherwhere | 0.10% | ~160 |
-| Enrich | 0.10% | ~160 |
-| Intensify | 0.10% | ~160 |
+| The Nightmare | 0.10% | ~161 |
+| Touch of Otherwhere | 0.10% | ~161 |
+| Enrich | 0.10% | ~161 |
+| Intensify | 0.10% | ~161 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 160,917 (Ranked 78)  
+Progressed: 160,919 (Ranked 78)  
 Completed: 135 (0.08%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 135 (0.08%) (Ranked 298)
 | 2023-11-29 | 160,527 | 1 |
 | 2023-11-30 | 160,588 | 39 |
 | 2023-12-01 | 160,762 | 100 |
-| 2023-12-02 | 160,917 | 135 |
+| 2023-12-02 | 160,919 | 135 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 425)  
 Sum: 391 (Ranked 346)  

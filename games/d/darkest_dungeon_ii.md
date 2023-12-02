@@ -43,8 +43,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | It Rings a Bell | 20.00% | ~25,072 |
 | Escape from the Black Hole | 19.00% | ~23,819 |
 | Dissector | 18.00% | ~22,565 |
+| It Happens | 18.00% | ~22,565 |
 | This Belongs in a Museum | 17.00% | ~21,312 |
-| It Happens | 17.00% | ~21,312 |
 | Handled | 16.00% | ~20,058 |
 | Catch and Decease | 15.00% | ~18,804 |
 | Not Today! | 14.00% | ~17,551 |
