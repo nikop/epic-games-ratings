@@ -2,13 +2,13 @@
   "ID": "4158b699dd70447a981fee752d970a3e",
   "Name": "KINGDOM HEARTS HD 1.5\u002B2.5 ReMIX",
   "ProductSlug": "kingdom-hearts-hd-1-5-2-5-remix",
-  "Ranking_Rating": 67,
+  "Ranking_Rating": 68,
   "Ranking_Popularity": 160,
   "Ranking_PopularitySum": 122,
   "Ranking_EOS_Progress": 770,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2021-03-30T13:00:00+00:00",
     "PcReleaseDate": "2021-03-30T13:00:00+00:00",
@@ -9222,6 +9222,6 @@
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
   "LastChanged": "2023-12-02T00:00:05.423855+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:47.8951966+00:00",
-  "LastUpdate_Ratings": "2023-12-02T00:00:05.4238556+00:00",
-  "LastUpdate_Achievements": "2023-12-02T00:05:11.1341325+00:00"
+  "LastUpdate_Ratings": "2023-12-02T01:42:36.8840224+00:00",
+  "LastUpdate_Achievements": "2023-12-02T01:47:53.5020457+00:00"
 }

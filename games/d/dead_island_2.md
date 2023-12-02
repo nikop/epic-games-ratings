@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,627 |
+| Whatever It Takes | 3.00% | ~1,628 |
 | Git Gutte! | 2.00% | ~14,574 |
 | Break A Leg | 2.00% | ~14,574 |
 | Coup de Grâce | 2.00% | ~14,574 |
@@ -41,23 +41,23 @@ Rating: 4.54 (Ranked 529)
 | Jumbo Keyring | 0.70% | ~5,101 |
 | Go, Bobcats! | 0.70% | ~5,101 |
 | Rising Star | 0.70% | ~5,101 |
-| Make it So | 0.50% | ~3,643 |
-| On Safari | 0.50% | ~3,643 |
-| Smorgasbord | 0.50% | ~3,643 |
-| Internet Famous | 0.50% | ~3,643 |
-| Variety is the Spice of Death | 0.50% | ~3,643 |
+| Make it So | 0.50% | ~3,644 |
+| On Safari | 0.50% | ~3,644 |
+| Smorgasbord | 0.50% | ~3,644 |
+| Internet Famous | 0.50% | ~3,644 |
+| Variety is the Spice of Death | 0.50% | ~3,644 |
 | LA Influential | 0.40% | ~2,915 |
 | Gore Horse | 0.40% | ~2,915 |
 | Top That, Tisha! | 0.40% | ~217 |
 | Sole Survivor | 0.30% | ~2,186 |
 | Sharpest Tool in the Box | 0.30% | ~2,186 |
 | Survival Skills | 0.20% | ~1,457 |
-| Lawn and Order | 0.20% | ~108 |
+| Lawn and Order | 0.20% | ~109 |
 | Donk! | 0.10% | ~729 |
 | Bucket List | 0.10% | ~729 |
 | Wilhelm | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,691 (Ranked 21)  
+Progressed: 728,717 (Ranked 21)  
 Completed: 2,459 (0.34%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 2,459 (0.34%) (Ranked 232)
 | 2023-11-29 | 727,809 | 2,450 |
 | 2023-11-30 | 728,231 | 2,456 |
 | 2023-12-01 | 728,667 | 2,459 |
-| 2023-12-02 | 728,691 | 2,459 |
+| 2023-12-02 | 728,717 | 2,459 |
 ## Awards
 Max (Great Boss Battles): 7,845  (Ranked 49)  
 Sum: 12,026 (Ranked 84)  

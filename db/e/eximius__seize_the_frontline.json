@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -333,7 +333,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 200786,
+  "EOS_Progressed": 200788,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 0,
@@ -24128,6 +24128,11 @@
       "Time": "2023-12-01T23:05:05.9963835+00:00",
       "NumProgressed": 200786,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-02T01:47:12.1275408+00:00",
+      "NumProgressed": 200788,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -24147,7 +24152,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 142558
+      "UsersEstimate": 142559
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -24171,7 +24176,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 36141
+      "UsersEstimate": 36142
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -24266,7 +24271,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 200786,
+      "Progressed": 200788,
       "Completed": 4
     }
   ],
@@ -24274,8 +24279,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-11-21T16:01:30.5134894+00:00",
-  "LastChanged_Achievements": "2023-12-02T00:04:25.9114142+00:00",
+  "LastChanged_Achievements": "2023-12-02T01:47:12.1275404+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:59.1341357+00:00",
-  "LastUpdate_Ratings": "2023-12-01T23:58:56.9493738+00:00",
-  "LastUpdate_Achievements": "2023-12-02T00:04:25.9115163+00:00"
+  "LastUpdate_Ratings": "2023-12-02T01:41:35.9163967+00:00",
+  "LastUpdate_Achievements": "2023-12-02T01:47:12.1276533+00:00"
 }

@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 835,
-  "EOS_Completed": 45,
+  "EOS_Progressed": 836,
+  "EOS_Completed": 46,
   "EOS_NewPlayers": 128,
-  "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 5.39,
+  "EOS_NewCompleters": 11,
+  "EOS_Completed_Percentage": 5.5,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3380,6 +3380,11 @@
       "Time": "2023-12-02T00:06:19.1694477+00:00",
       "NumProgressed": 835,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-12-02T01:48:54.668281+00:00",
+      "NumProgressed": 836,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 25,
@@ -3509,9 +3514,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 251
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -3549,9 +3554,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 301
     },
     {
       "ID": "PROGRESS_N2",
@@ -3583,21 +3588,21 @@
       "Name": "One last step",
       "Percentage": 21,
       "XP": 80,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 835,
-      "Completed": 45
+      "Progressed": 836,
+      "Completed": 46
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-02T00:06:19.1694474+00:00",
+  "LastChanged_Achievements": "2023-12-02T01:48:54.6682807+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-12-01T23:59:37.6888745+00:00",
-  "LastUpdate_Achievements": "2023-12-02T00:06:19.1694763+00:00"
+  "LastUpdate_Ratings": "2023-12-02T01:42:12.6317796+00:00",
+  "LastUpdate_Achievements": "2023-12-02T01:48:54.6683048+00:00"
 }

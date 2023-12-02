@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 88.00% | ~450 |
-| Thalya – Simply Immortal | 88.00% | ~450 |
-| For the Horde! | 82.00% | ~419 |
-| Hammer Time, Round Two | 80.00% | ~409 |
-| The Hellwoods | 75.00% | ~383 |
+| The Last Stand | 88.00% | ~451 |
+| Thalya – Simply Immortal | 88.00% | ~451 |
+| For the Horde! | 81.00% | ~415 |
+| Hammer Time, Round Two | 80.00% | ~410 |
+| The Hellwoods | 75.00% | ~384 |
 | The Plains of Strothalm | 70.00% | ~358 |
 | Experienced Thalya | 70.00% | ~358 |
-| Thalya's Concentrated Fury | 68.00% | ~347 |
-| Bad Elves Go Everywhere | 67.00% | ~342 |
-| Master of Magic | 64.00% | ~327 |
+| Thalya's Concentrated Fury | 68.00% | ~348 |
+| Bad Elves Go Everywhere | 67.00% | ~343 |
+| Master of Magic | 64.00% | ~328 |
 | Heroes’ Gorge | 61.00% | ~312 |
 | Unicorn steaks – fresh off the hoof! | 60.00% | ~307 |
-| Magic Accidents | 59.00% | ~301 |
-| Trap Master | 56.00% | ~286 |
+| Magic Accidents | 58.00% | ~297 |
+| Trap Master | 55.00% | ~282 |
 | Minions, Minions! | 54.00% | ~276 |
-| The Ascent | 53.00% | ~271 |
-| It's Warm and Cozy at Home | 53.00% | ~271 |
-| Hard Work | 48.00% | ~245 |
-| YOU SHALL NOT PASS! | 47.00% | ~240 |
-| The Big Eaty | 47.00% | ~240 |
+| The Ascent | 54.00% | ~276 |
+| It's Warm and Cozy at Home | 54.00% | ~276 |
+| Hard Work | 48.00% | ~246 |
+| YOU SHALL NOT PASS! | 47.00% | ~241 |
+| The Big Eaty | 46.00% | ~236 |
 | “… like son” | 44.00% | ~225 |
 | Pure Dynamite! | 43.00% | ~220 |
-| Shame! Shame! Shame! | 40.00% | ~204 |
-| Dungeonlord Gorgu | 39.00% | ~199 |
-| The Cathedral of Light | 39.00% | ~199 |
-| Mana Cannon | 38.00% | ~194 |
+| Dungeonlord Gorgu | 39.00% | ~200 |
+| The Cathedral of Light | 39.00% | ~200 |
+| Shame! Shame! Shame! | 39.00% | ~200 |
+| Mana Cannon | 38.00% | ~195 |
 | Tanos' Crusade Against Thalya | 35.00% | ~179 |
 | Unstoppable Horde | 29.00% | ~148 |
 | All’s Well That Ends Evil | 29.00% | ~148 |
@@ -40,7 +40,7 @@
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 23.00% | ~118 |
 | Forbidden Knowledge | 23.00% | ~118 |
 | Ghost Pirates? Ghost Heroes! | 23.00% | ~118 |
-| The Finitude Drill | 21.00% | ~107 |
+| The Finitude Drill | 21.00% | ~108 |
 | Stop Tanos! | 19.00% | ~97 |
 | Doom Hill | 19.00% | ~97 |
 | Sabotage! | 17.00% | ~87 |
@@ -50,9 +50,9 @@
 | The Rune Sockets of Finitude (Part 1) | 15.00% | ~77 |
 | My Little Torture Chamber | 14.00% | ~72 |
 | Raiders of the Lost Stone | 14.00% | ~72 |
-| The Rune Sockets of Finitude (Part 2) | 14.00% | ~72 |
-| Lavalumps on Ice! | 13.00% | ~66 |
-| Rubble and Ashes | 13.00% | ~66 |
+| Lavalumps on Ice! | 13.00% | ~67 |
+| Rubble and Ashes | 13.00% | ~67 |
+| The Rune Sockets of Finitude (Part 2) | 13.00% | ~67 |
 | The Last Stand - This Time For Real! | 12.00% | ~61 |
 | To the Max! | 11.00% | ~56 |
 | To Infinity And Beyond! | 11.00% | ~56 |
@@ -66,8 +66,8 @@
 | No Mana, No Cry | 5.00% | ~26 |
 | I Don't Need Any Help | 5.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 511 (Ranked 310)  
-Completed: 10 (1.96%) (Ranked 128)  
+Progressed: 512 (Ranked 310)  
+Completed: 10 (1.95%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -94,3 +94,4 @@ Completed: 10 (1.96%) (Ranked 128)
 | 2023-11-29 | 500 | 8 |
 | 2023-11-30 | 506 | 9 |
 | 2023-12-01 | 511 | 10 |
+| 2023-12-02 | 512 | 10 |

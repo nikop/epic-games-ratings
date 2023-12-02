@@ -17,13 +17,13 @@
 | Starry Night | 36.00% | ~16 |
 | Merry Co-operation | 36.00% | ~16 |
 | Savior | 34.00% | ~15 |
-| Rebel Unleashed | 32.00% | ~14 |
-| Finish Him! | 30.00% | ~13 |
-| Assault on the Ram | 27.00% | ~12 |
+| Rebel Unleashed | 34.00% | ~15 |
+| Finish Him! | 32.00% | ~14 |
+| Locksley's Tears | 32.00% | ~14 |
+| Assault on the Ram | 30.00% | ~13 |
 | First Aid | 27.00% | ~12 |
+| Ultra Rebel Instinct | 25.00% | ~11 |
 | Merry Go Round | 25.00% | ~11 |
-| Locksley's Tears | 23.00% | ~10 |
-| Ultra Rebel Instinct | 23.00% | ~10 |
 | Ultra Combo | 20.00% | ~9 |
 | Take Action! | 20.00% | ~9 |
 | Ascending Will | 18.00% | ~8 |

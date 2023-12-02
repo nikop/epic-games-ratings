@@ -4,8 +4,8 @@
   "ProductSlug": "brain-show-89d0fd",
   "Ranking_EOS_Progress": 770,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-11-28T05:30:00+00:00",
     "PcReleaseDate": "2023-06-07T04:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-28T08:57:09.8258059+00:00",
-  "LastUpdate_Ratings": "2023-12-01T23:58:22.2518992+00:00",
+  "LastUpdate_Ratings": "2023-12-02T01:41:05.7906084+00:00",
   "LastUpdate_Achievements": "2023-12-02T00:08:35.7305897+00:00"
 }

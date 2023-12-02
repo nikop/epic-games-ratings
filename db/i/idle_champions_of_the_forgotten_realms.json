@@ -8405,10 +8405,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32695,
       "NumberOfAwardsMax": 5580
+    },
+    {
+      "Time": "2023-12-02T01:41:12.9019236+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32699,
+      "NumberOfAwardsMax": 5580
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32695,
+  "NumberOfAwards": 32699,
   "NumberOfAwardsMax": 5580,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8452,12 +8458,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3547
+      "Count": 3551
     }
   ],
-  "EOS_Progressed": 237926,
+  "EOS_Progressed": 237939,
   "EOS_Completed": 2491,
-  "EOS_NewPlayers": 1145,
+  "EOS_NewPlayers": 1143,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -33795,6 +33801,11 @@
       "Time": "2023-12-02T00:10:02.1052517+00:00",
       "NumProgressed": 237926,
       "NumCompleted": 2491
+    },
+    {
+      "Time": "2023-12-02T01:52:24.7827307+00:00",
+      "NumProgressed": 237939,
+      "NumCompleted": 2491
     }
   ],
   "TotalAchievements": 532,
@@ -38061,21 +38072,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 204200,
+      "Progressed": 204213,
       "Completed": 3956
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 237926,
+      "Progressed": 237939,
       "Completed": 2491
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-01T21:58:12.3524919+00:00",
-  "LastChanged_Achievements": "2023-12-02T00:10:02.1052515+00:00",
+  "LastChanged": "2023-12-02T01:41:12.9019233+00:00",
+  "LastChanged_Achievements": "2023-12-02T01:52:24.7827304+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:03.8260824+00:00",
-  "LastUpdate_Ratings": "2023-12-01T23:58:30.214582+00:00",
-  "LastUpdate_Achievements": "2023-12-02T00:10:02.107506+00:00"
+  "LastUpdate_Ratings": "2023-12-02T01:41:12.9019239+00:00",
+  "LastUpdate_Achievements": "2023-12-02T01:52:24.7849105+00:00"
 }

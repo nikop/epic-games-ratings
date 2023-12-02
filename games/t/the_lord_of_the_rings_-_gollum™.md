@@ -18,9 +18,9 @@
 | Good as Fish | 12.00% | ~73 |
 | Her Eyes | 11.00% | ~67 |
 | Gollum/Sméagol | 10.00% | ~61 |
+| Murderer | 10.00% | ~61 |
 | Trigger-Happy | 10.00% | ~61 |
 | The Friend | 9.00% | ~55 |
-| Murderer | 9.00% | ~55 |
 | He's so Annoying | 8.00% | ~49 |
 | Master of the Old Game | 6.00% | ~37 |
 | Made a Song | 5.00% | ~31 |

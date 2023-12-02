@@ -2,7 +2,7 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 79,
+  "Ranking_Rating": 80,
   "Ranking_Popularity": 223,
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 146,
@@ -3337,7 +3337,7 @@
   ],
   "EOS_Progressed": 17558,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": -7,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -14911,9 +14911,9 @@
       "ID": "WinWithEvents",
       "SetID": "cfbk359",
       "Name": "Taking Action",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "WinWithResolve",
@@ -15031,9 +15031,9 @@
       "ID": "WinNearUntamedWilds",
       "SetID": "cfbk359",
       "Name": "Untamed Wilds",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 176
     },
     {
       "ID": "WinWithFoxes",
@@ -15055,8 +15055,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-01T23:01:37.2416246+00:00",
-  "LastChanged_Achievements": "2023-12-02T00:09:05.5355607+00:00",
+  "LastChanged_Achievements": "2023-12-02T01:51:32.4724724+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:56.4973761+00:00",
-  "LastUpdate_Ratings": "2023-12-02T00:00:28.5972073+00:00",
-  "LastUpdate_Achievements": "2023-12-02T00:09:05.5356351+00:00"
+  "LastUpdate_Ratings": "2023-12-02T01:42:57.2744397+00:00",
+  "LastUpdate_Achievements": "2023-12-02T01:51:32.4725732+00:00"
 }

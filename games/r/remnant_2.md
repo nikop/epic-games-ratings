@@ -7,8 +7,8 @@ Rating: 4.75 (Ranked 148)
 | ---- | ---------- | ----- |
 | The Killing Jar | 0.70% | ~1,626 |
 | First of Many | 0.70% | ~1,626 |
-| Regicide | 0.70% | ~80 |
-| Master of the Dark Arts | 0.70% | ~80 |
+| Regicide | 0.70% | ~81 |
+| Master of the Dark Arts | 0.70% | ~81 |
 | Not Your Average Trait | 0.50% | ~1,162 |
 | Expanding Horizons | 0.40% | ~929 |
 | Gleaming the Cube | 0.40% | ~929 |
@@ -26,6 +26,7 @@ Rating: 4.75 (Ranked 148)
 | Top Performer | 0.30% | ~697 |
 | Shhh...It's a Secret | 0.30% | ~697 |
 | Was This Supposed To Happen? | 0.30% | ~697 |
+| Scrap Collector | 0.30% | ~697 |
 | Almost There | 0.30% | ~697 |
 | Make Some Room | 0.30% | ~697 |
 | Good, But Could Be Better! | 0.30% | ~697 |
@@ -44,7 +45,6 @@ Rating: 4.75 (Ranked 148)
 | Edgelord | 0.20% | ~465 |
 | Cutting Edge | 0.20% | ~465 |
 | The Web | 0.20% | ~465 |
-| Scrap Collector | 0.20% | ~465 |
 | Scrap Hoarder | 0.20% | ~465 |
 | All These Traits� | 0.20% | ~465 |
 | Carnage in C-Minor | 0.20% | ~465 |
@@ -59,10 +59,10 @@ Rating: 4.75 (Ranked 148)
 | The Collector | 0.10% | ~232 |
 | Proving Grounds | 0.10% | ~232 |
 | Maxed Out! | 0.10% | ~232 |
-| A Foul Feast | 0.10% | ~11 |
+| A Foul Feast | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,310 (Ranked 69)  
-Completed: 546 (0.24%) (Ranked 250)  
+Progressed: 232,355 (Ranked 69)  
+Completed: 546 (0.23%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -200,16 +200,16 @@ Completed: 546 (0.24%) (Ranked 250)
 | 2023-11-29 | 230,694 | 542 |
 | 2023-11-30 | 231,406 | 542 |
 | 2023-12-01 | 232,269 | 546 |
-| 2023-12-02 | 232,310 | 546 |
+| 2023-12-02 | 232,355 | 546 |
 ## Awards
 Max (Great Boss Battles): 2,558  (Ranked 102)  
-Sum: 6,266 (Ranked 129)  
+Sum: 6,272 (Ranked 129)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,558 |
 | This game has Diverse Characters | 415 |
-| This game is Highly Recommended | 402 |
+| This game is Highly Recommended | 408 |
 | This game has Challenging Combat | 397 |
 | This game is Relaxing | 388 |
 | This game is Extremely Fun | 385 |
@@ -350,3 +350,4 @@ Diff (max vs sum): -27
 | 2023-11-29 | 4.75 | 2,518 | 6,163 |
 | 2023-11-30 | 4.75 | 2,533 | 6,208 |
 | 2023-12-01 | 4.75 | 2,558 | 6,266 |
+| 2023-12-02 | 4.75 | 2,558 | 6,272 |

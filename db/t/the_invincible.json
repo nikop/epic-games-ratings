@@ -2,10 +2,10 @@
   "ID": "cf318a791de349f2b724136be105a6f1",
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
-  "Ranking_EOS_Progress": 317,
+  "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 480,
+  "EOS_Progressed": 481,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1305,6 +1305,11 @@
       "Time": "2023-12-01T23:09:14.4914576+00:00",
       "NumProgressed": 480,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T01:51:30.7302158+00:00",
+      "NumProgressed": 481,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1341,7 +1346,7 @@
       "Name": "Fierce fight",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "AchvBombStop",
@@ -1349,7 +1354,7 @@
       "Name": "Peacemaker",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "AchvBombing",
@@ -1403,9 +1408,9 @@
       "ID": "AchvInvShip",
       "SetID": "1hj060c",
       "Name": "Another giant",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 34
     },
     {
       "ID": "AchvKrautaAlive",
@@ -1451,9 +1456,9 @@
       "ID": "AchvNest",
       "SetID": "1hj060c",
       "Name": "Innate curiosity",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 38
+      "UsersEstimate": 34
     },
     {
       "ID": "AchvNoHoles",
@@ -1491,9 +1496,9 @@
       "ID": "AchvReachCamp",
       "SetID": "1hj060c",
       "Name": "The Camp",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 274
     },
     {
       "ID": "AchvReachCity",
@@ -1548,14 +1553,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 480,
+      "Progressed": 481,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-02T00:09:03.7577177+00:00",
+  "LastChanged_Achievements": "2023-12-02T01:51:30.7302155+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-12-02T00:00:06.7934845+00:00",
-  "LastUpdate_Achievements": "2023-12-02T00:09:03.7577407+00:00"
+  "LastUpdate_Ratings": "2023-12-02T01:42:38.1818721+00:00",
+  "LastUpdate_Achievements": "2023-12-02T01:51:30.7302347+00:00"
 }

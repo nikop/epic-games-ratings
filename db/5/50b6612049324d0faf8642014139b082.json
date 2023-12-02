@@ -2,13 +2,13 @@
   "ID": "50b6612049324d0faf8642014139b082",
   "Name": "EA SPORTS\u2122 WRC",
   "ProductSlug": "wrc-23",
-  "Ranking_Rating": 834,
+  "Ranking_Rating": 833,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -79,9 +79,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 710,
+  "EOS_Progressed": 713,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1644,6 +1644,11 @@
       "Time": "2023-12-01T23:10:13.8385679+00:00",
       "NumProgressed": 710,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T01:52:15.5692625+00:00",
+      "NumProgressed": 713,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1656,7 +1661,7 @@
       "Name": "Gold Rush",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_10",
@@ -1664,7 +1669,7 @@
       "Name": "Asphalt Artist",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "achievement_11",
@@ -1672,7 +1677,7 @@
       "Name": "Gravel Guru",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "achievement_12",
@@ -1696,7 +1701,7 @@
       "Name": "Vehicle Builder",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "achievement_15",
@@ -1712,7 +1717,7 @@
       "Name": "Class Act",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "achievement_17",
@@ -1720,7 +1725,7 @@
       "Name": "Your first time?",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 362
+      "UsersEstimate": 364
     },
     {
       "ID": "achievement_18",
@@ -1744,7 +1749,7 @@
       "Name": "Team Principal",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 547
+      "UsersEstimate": 549
     },
     {
       "ID": "achievement_20",
@@ -1784,7 +1789,7 @@
       "Name": "Miracle in the Mountains",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "achievement_25",
@@ -1832,7 +1837,7 @@
       "Name": "Keepin it real",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_7",
@@ -1840,7 +1845,7 @@
       "Name": "NEW PB!",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "achievement_8",
@@ -1863,7 +1868,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 710,
+      "Progressed": 713,
       "Completed": 0
     }
   ],
@@ -1871,8 +1876,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-12-01T17:57:44.0180052+00:00",
-  "LastChanged_Achievements": "2023-12-02T00:09:52.6872342+00:00",
+  "LastChanged_Achievements": "2023-12-02T01:52:15.5692621+00:00",
   "LastUpdate_AppInfo": "2023-11-28T21:56:52.2952246+00:00",
-  "LastUpdate_Ratings": "2023-12-01T23:57:57.7712445+00:00",
-  "LastUpdate_Achievements": "2023-12-02T00:09:52.6872527+00:00"
+  "LastUpdate_Ratings": "2023-12-02T01:40:44.0579242+00:00",
+  "LastUpdate_Achievements": "2023-12-02T01:52:15.5692843+00:00"
 }

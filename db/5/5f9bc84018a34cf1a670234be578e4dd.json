@@ -3,9 +3,9 @@
   "Name": "Access Denied Escape",
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 352,
-  "Ranking_EOS_Completed": 14,
-  "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_Completed": 13,
+  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 316,
-  "EOS_Completed": 80,
+  "EOS_Completed": 81,
   "EOS_NewPlayers": 5,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 25.32,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 25.63,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -1684,6 +1684,11 @@
       "Time": "2023-12-01T22:04:44.288613+00:00",
       "NumProgressed": 316,
       "NumCompleted": 80
+    },
+    {
+      "Time": "2023-12-02T01:47:50.8632032+00:00",
+      "NumProgressed": 316,
+      "NumCompleted": 81
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -1758,17 +1763,17 @@
       "ID": "GasDeath",
       "SetID": "7jbi7el",
       "Name": "Contract Termination",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 142
+      "UsersEstimate": 145
     },
     {
       "ID": "GasFound",
       "SetID": "7jbi7el",
       "Name": "Something is wrong here",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 161
+      "UsersEstimate": 164
     },
     {
       "ID": "Hologram",
@@ -1808,13 +1813,13 @@
       "ID": "7jbi7el",
       "IsBase": true,
       "Progressed": 316,
-      "Completed": 80
+      "Completed": 81
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-12-02T00:05:08.2387324+00:00",
+  "LastChanged_Achievements": "2023-12-02T01:47:50.8632024+00:00",
   "LastUpdate_AppInfo": "2023-11-29T01:48:49.4341303+00:00",
-  "LastUpdate_Ratings": "2023-12-01T23:58:42.8449317+00:00",
-  "LastUpdate_Achievements": "2023-12-02T00:05:08.2387476+00:00"
+  "LastUpdate_Ratings": "2023-12-02T01:41:23.9631647+00:00",
+  "LastUpdate_Achievements": "2023-12-02T01:47:50.8632448+00:00"
 }

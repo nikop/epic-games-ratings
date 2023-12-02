@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -2784,9 +2784,9 @@
       "ID": "AC06",
       "SetID": "l4abp0",
       "Name": "The Last Ascension",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 656
+      "UsersEstimate": 667
     },
     {
       "ID": "AC07",
@@ -2808,9 +2808,9 @@
       "ID": "AC09",
       "SetID": "l4abp0",
       "Name": "Fermosa Fembra",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 604
+      "UsersEstimate": 615
     },
     {
       "ID": "AC10",
@@ -3032,9 +3032,9 @@
       "ID": "AC37",
       "SetID": "l4abp0",
       "Name": "Storm of Death",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 281
     },
     {
       "ID": "AC38",
@@ -3113,8 +3113,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-11-18T16:58:56.9508532+00:00",
-  "LastChanged_Achievements": "2023-12-02T00:03:30.5546258+00:00",
+  "LastChanged_Achievements": "2023-12-02T01:46:21.2682794+00:00",
   "LastUpdate_AppInfo": "2023-11-29T01:48:53.5271416+00:00",
-  "LastUpdate_Ratings": "2023-12-01T23:57:53.0713379+00:00",
-  "LastUpdate_Achievements": "2023-12-02T00:03:30.554658+00:00"
+  "LastUpdate_Ratings": "2023-12-02T01:40:39.6930231+00:00",
+  "LastUpdate_Achievements": "2023-12-02T01:46:21.2683415+00:00"
 }

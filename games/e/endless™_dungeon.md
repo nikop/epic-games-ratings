@@ -22,7 +22,7 @@
 | No Stone Unturned | 5.00% | ~63 |
 | Turret Syndrome | 2.00% | ~25 |
 | Endless Biographer | 1.00% | ~13 |
-| All Your Secrets Are Belong to Us | 0.50% | ~6 |
+| All Your Secrets Are Belong to Us | 0.60% | ~8 |
 | Grab 'Em All | 0.20% | ~3 |
 | Unnaturally Curious | 0.00% | ~0 |
 | Starting an Endless Story | 0.00% | ~0 |

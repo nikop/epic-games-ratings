@@ -6,7 +6,7 @@
   "Ranking_Popularity": 102,
   "Ranking_PopularitySum": 129,
   "Ranking_EOS_Progress": 69,
-  "Ranking_EOS_Completed": 250,
+  "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 24,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
@@ -4951,10 +4951,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6266,
       "NumberOfAwardsMax": 2558
+    },
+    {
+      "Time": "2023-12-02T01:46:01.2054121+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6272,
+      "NumberOfAwardsMax": 2558
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6266,
+  "NumberOfAwards": 6272,
   "NumberOfAwardsMax": 2558,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4968,7 +4974,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 402
+      "Count": 408
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5025,11 +5031,11 @@
       "Count": 388
     }
   ],
-  "EOS_Progressed": 232310,
+  "EOS_Progressed": 232355,
   "EOS_Completed": 546,
-  "EOS_NewPlayers": 5056,
+  "EOS_NewPlayers": 5051,
   "EOS_NewCompleters": 31,
-  "EOS_Completed_Percentage": 0.24,
+  "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
       "Time": "2023-07-21T17:05:35.5618698+00:00",
@@ -20900,6 +20906,11 @@
       "Time": "2023-12-02T00:09:08.3374793+00:00",
       "NumProgressed": 232310,
       "NumCompleted": 546
+    },
+    {
+      "Time": "2023-12-02T01:51:35.052904+00:00",
+      "NumProgressed": 232355,
+      "NumCompleted": 546
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21198,9 +21209,9 @@
       "ID": "Obtain_Scrap_A",
       "SetID": "bkp3b1a",
       "Name": "Scrap Collector",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 697
     },
     {
       "ID": "Obtain_Scrap_B",
@@ -21312,7 +21323,7 @@
       "Name": "Regicide",
       "Percentage": 0.7,
       "XP": 75,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -21328,7 +21339,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -21336,7 +21347,7 @@
       "Name": "A Foul Feast",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "DLC1_Obtain_Warden_Reward",
@@ -21351,22 +21362,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 232310,
+      "Progressed": 232355,
       "Completed": 546
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 11475,
+      "Progressed": 11520,
       "Completed": 177
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-12-01T23:03:22.5665319+00:00",
-  "LastChanged_Achievements": "2023-12-02T00:09:08.3374791+00:00",
+  "LastChanged": "2023-12-02T01:46:01.2054119+00:00",
+  "LastChanged_Achievements": "2023-12-02T01:51:35.0529036+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-12-02T00:03:09.8229084+00:00",
-  "LastUpdate_Achievements": "2023-12-02T00:09:08.337599+00:00"
+  "LastUpdate_Ratings": "2023-12-02T01:46:01.2054125+00:00",
+  "LastUpdate_Achievements": "2023-12-02T01:51:35.0530131+00:00"
 }

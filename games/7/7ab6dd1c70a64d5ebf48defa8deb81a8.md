@@ -9,9 +9,9 @@
 | I Found It | 11.00% | ~27 |
 | Find Allies | 10.00% | ~24 |
 | Powerful Allies | 10.00% | ~24 |
+| Adventurer | 10.00% | ~24 |
 | The Collector | 10.00% | ~24 |
 | A Taste of Wrath | 9.00% | ~22 |
-| Adventurer | 9.00% | ~22 |
 | Shatter Them All | 9.00% | ~22 |
 | Geared Up | 9.00% | ~22 |
 | Scholar | 9.00% | ~22 |

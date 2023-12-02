@@ -1,7 +1,7 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.81 (Ranked 79)  
+Rating: 4.81 (Ranked 80)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,8 +13,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Land of Greed | 1.00% | ~176 |
 | Ominous Presence | 1.00% | ~176 |
 | Gathering Storm | 1.00% | ~176 |
-| Untamed Wilds | 0.90% | ~158 |
+| Untamed Wilds | 1.00% | ~176 |
 | Watchtower | 0.20% | ~35 |
+| Taking Action | 0.20% | ~35 |
 | Fox Utopia | 0.20% | ~35 |
 | Serving Ale | 0.10% | ~18 |
 | Feeding The People | 0.10% | ~18 |
@@ -51,7 +52,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Prestigious Expedition | 0.10% | ~18 |
 | A Real Challenge | 0.10% | ~18 |
 | Blood Flower Farmer | 0.10% | ~18 |
-| Taking Action | 0.10% | ~18 |
 | Victory Through Prosperity | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 | Like a Machine | 0.10% | ~18 |

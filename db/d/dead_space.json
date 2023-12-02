@@ -3,10 +3,10 @@
   "Name": "Dead Space",
   "ProductSlug": "dead-space",
   "Ranking_Rating": 336,
-  "Ranking_Popularity": 344,
-  "Ranking_PopularitySum": 439,
+  "Ranking_Popularity": 345,
+  "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 226,
-  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
@@ -725,11 +725,11 @@
       "Count": 117
     }
   ],
-  "EOS_Progressed": 2079,
+  "EOS_Progressed": 2080,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.63,
+  "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
     {
       "Time": "2023-09-19T18:06:12.9172474+00:00",
@@ -6425,6 +6425,11 @@
       "Time": "2023-12-02T00:08:56.0873619+00:00",
       "NumProgressed": 2079,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-02T01:51:23.8770901+00:00",
+      "NumProgressed": 2080,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -6437,7 +6442,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 1767
+      "UsersEstimate": 1768
     },
     {
       "ID": "achievement_10",
@@ -6445,7 +6450,7 @@
       "Name": "Keeper of the Faith",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "achievement_11",
@@ -6509,7 +6514,7 @@
       "Name": "Full Arsenal",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "achievement_19",
@@ -6525,7 +6530,7 @@
       "Name": "Lab Rat",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 1580
+      "UsersEstimate": 1581
     },
     {
       "ID": "achievement_20",
@@ -6541,7 +6546,7 @@
       "Name": "Live with the Hot Ones",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "achievement_22",
@@ -6589,7 +6594,7 @@
       "Name": "Pack Rat",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "achievement_28",
@@ -6597,7 +6602,7 @@
       "Name": "Story Teller",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "achievement_29",
@@ -6613,7 +6618,7 @@
       "Name": "All Systems Go",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1393
+      "UsersEstimate": 1394
     },
     {
       "ID": "achievement_30",
@@ -6629,7 +6634,7 @@
       "Name": "Marksman",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "achievement_32",
@@ -6653,7 +6658,7 @@
       "Name": "Raise the Stakes",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "achievement_35",
@@ -6661,7 +6666,7 @@
       "Name": "Freeze",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "achievement_36",
@@ -6701,7 +6706,7 @@
       "Name": "Cannon Fodder",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "achievement_40",
@@ -6725,7 +6730,7 @@
       "Name": "Brute Force",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "achievement_43",
@@ -6789,7 +6794,7 @@
       "Name": "S.O.S.",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "achievement_8",
@@ -6803,16 +6808,16 @@
       "ID": "achievement_9",
       "SetID": "222fo9l",
       "Name": "Wreckage",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 894
+      "UsersEstimate": 915
     }
   ],
   "AchievementSets": [
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 2079,
+      "Progressed": 2080,
       "Completed": 13
     }
   ],
@@ -6820,8 +6825,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-26T22:02:06.8733907+00:00",
-  "LastChanged_Achievements": "2023-12-02T00:08:56.0873616+00:00",
+  "LastChanged_Achievements": "2023-12-02T01:51:23.8770896+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:20.9761475+00:00",
-  "LastUpdate_Ratings": "2023-12-01T23:58:56.5425668+00:00",
-  "LastUpdate_Achievements": "2023-12-02T00:08:56.087411+00:00"
+  "LastUpdate_Ratings": "2023-12-02T01:41:35.5422036+00:00",
+  "LastUpdate_Achievements": "2023-12-02T01:51:23.8771482+00:00"
 }

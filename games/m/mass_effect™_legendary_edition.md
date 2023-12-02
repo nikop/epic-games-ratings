@@ -14,11 +14,11 @@
 | Honorarium of Corporate Service | 59.00% | ~868 |
 | Medal of Exploration II | 54.00% | ~795 |
 | Council Legion of Merit | 54.00% | ~795 |
+| Turian Ally | 53.00% | ~780 |
 | Medal of Honor | 52.00% | ~765 |
 | Meritorious Service Medal | 52.00% | ~765 |
-| Turian Ally | 52.00% | ~765 |
+| Charismatic | 51.00% | ~751 |
 | Soldier | 50.00% | ~736 |
-| Charismatic | 50.00% | ~736 |
 | Asari Ally | 47.00% | ~692 |
 | Medal of Exploration III | 46.00% | ~677 |
 | Soldier Ally | 46.00% | ~677 |
@@ -35,8 +35,8 @@
 | Scholar | 40.00% | ~589 |
 | Operative | 39.00% | ~574 |
 | Veteran | 38.00% | ~559 |
+| The Archangel | 38.00% | ~559 |
 | The Professor | 38.00% | ~559 |
-| The Archangel | 37.00% | ~545 |
 | Power Full | 37.00% | ~545 |
 | The Convict | 35.00% | ~515 |
 | The Krogan | 35.00% | ~515 |

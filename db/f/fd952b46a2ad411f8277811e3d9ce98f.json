@@ -4,8 +4,8 @@
   "ProductSlug": "mini-royale-ad1dca",
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 14,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 11,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 363146,
+  "EOS_Progressed": 364465,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12786,
+  "EOS_NewPlayers": 13925,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10532,6 +10532,11 @@
       "Time": "2023-12-02T00:05:50.2902678+00:00",
       "NumProgressed": 363146,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T01:48:28.1785147+00:00",
+      "NumProgressed": 364465,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -10544,7 +10549,7 @@
       "Name": "Soldier 47",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "firstKills_1",
@@ -10624,7 +10629,7 @@
       "Name": "Close Combat",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "kar98_wkills_100",
@@ -10632,7 +10637,7 @@
       "Name": "Kar98 Master",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "kills_1",
@@ -10640,7 +10645,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 203362
+      "UsersEstimate": 204100
     },
     {
       "ID": "kills_100",
@@ -10648,7 +10653,7 @@
       "Name": "Rookie Riot",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 3631
+      "UsersEstimate": 3645
     },
     {
       "ID": "kills_1000",
@@ -10656,7 +10661,7 @@
       "Name": "Master Soldier",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "lastBulletKills_1",
@@ -10680,7 +10685,7 @@
       "Name": "Baton Soldier",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "mru2_wins_1",
@@ -10696,7 +10701,7 @@
       "Name": "Toy Surgeon",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 36315
+      "UsersEstimate": 36446
     },
     {
       "ID": "revives_25",
@@ -10704,7 +10709,7 @@
       "Name": "Royale Surgeon",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "silencedKills_25",
@@ -10736,7 +10741,7 @@
       "Name": "Top Toy",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "top10_10",
@@ -10744,7 +10749,7 @@
       "Name": "Experienced Soldier",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "winsNoDmgTaken_1",
@@ -10776,7 +10781,7 @@
       "Name": "Toy Commander",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "ziplineDistanceTravelled_10000",
@@ -10791,13 +10796,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 363146,
+      "Progressed": 364465,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-12-02T00:05:50.2902674+00:00",
+  "LastChanged_Achievements": "2023-12-02T01:48:28.1785143+00:00",
   "LastUpdate_AppInfo": "2023-11-29T17:57:14.644808+00:00",
-  "LastUpdate_Ratings": "2023-12-01T23:59:09.8445382+00:00",
-  "LastUpdate_Achievements": "2023-12-02T00:05:50.2903374+00:00"
+  "LastUpdate_Ratings": "2023-12-02T01:41:47.5508027+00:00",
+  "LastUpdate_Achievements": "2023-12-02T01:48:28.1785825+00:00"
 }

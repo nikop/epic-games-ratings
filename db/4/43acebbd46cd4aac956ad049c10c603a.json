@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -169,9 +169,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 815,
+  "EOS_Progressed": 816,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1854,6 +1854,11 @@
       "Time": "2023-12-01T23:04:30.7124875+00:00",
       "NumProgressed": 815,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T01:46:45.888334+00:00",
+      "NumProgressed": 816,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1920,17 +1925,17 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 73
     },
     {
       "ID": "ChasingTheLight",
       "SetID": "1n308hc",
       "Name": "Chasing the Light",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 33
     },
     {
       "ID": "Chicken",
@@ -2337,7 +2342,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 815,
+      "Progressed": 816,
       "Completed": 1
     }
   ],
@@ -2345,8 +2350,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-30T22:00:34.4965769+00:00",
-  "LastChanged_Achievements": "2023-12-02T00:03:57.1849288+00:00",
+  "LastChanged_Achievements": "2023-12-02T01:46:45.8883336+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-02T00:00:11.6081388+00:00",
-  "LastUpdate_Achievements": "2023-12-02T00:03:57.1849741+00:00"
+  "LastUpdate_Ratings": "2023-12-02T01:42:42.1522513+00:00",
+  "LastUpdate_Achievements": "2023-12-02T01:46:45.8883896+00:00"
 }

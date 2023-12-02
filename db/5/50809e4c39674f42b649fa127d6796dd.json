@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 396,
+  "EOS_Progressed": 397,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
@@ -912,6 +912,11 @@
       "Time": "2023-12-01T14:08:35.547368+00:00",
       "NumProgressed": 396,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T01:51:26.8996021+00:00",
+      "NumProgressed": 397,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -986,9 +991,9 @@
       "ID": "FIRST_ALL_MISSION_CLEAR",
       "SetID": "apihg0e",
       "Name": "Perfect Run",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 119
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -1028,7 +1033,7 @@
       "Name": "Unknown Threat",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1036,7 +1041,7 @@
       "Name": "Speed Demon",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1044,7 +1049,7 @@
       "Name": "Superior Ranking",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1068,7 +1073,7 @@
       "Name": "Koco Leader",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "MAIN_CLEAR_ISLAND1",
@@ -1132,7 +1137,7 @@
       "Name": "Kronos Island Memories",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD2",
@@ -1243,14 +1248,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 396,
+      "Progressed": 397,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-02T00:08:59.5080722+00:00",
+  "LastChanged_Achievements": "2023-12-02T01:51:26.8996017+00:00",
   "LastUpdate_AppInfo": "2023-11-28T17:56:55.9843317+00:00",
-  "LastUpdate_Ratings": "2023-12-02T00:02:53.2002459+00:00",
-  "LastUpdate_Achievements": "2023-12-02T00:08:59.5081+00:00"
+  "LastUpdate_Ratings": "2023-12-02T01:45:46.6749242+00:00",
+  "LastUpdate_Achievements": "2023-12-02T01:51:26.8996298+00:00"
 }

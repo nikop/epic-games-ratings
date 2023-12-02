@@ -1,13 +1,13 @@
 # New Tales from the Borderlands
 [Store](https://store.epicgames.com/en-US/p/new-tales-from-the-borderlands)  
 [View Rawdata](../../db/n/new_tales_from_the_borderlands.json)  
-Rating: 4.08 (Ranked 975)  
+Rating: 4.08 (Ranked 974)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Who Needs Keys? | 50.00% | ~1,852 |
-| Totally Intentional | 45.00% | ~1,666 |
-| Each Sold Separately | 38.00% | ~1,407 |
+| Totally Intentional | 45.00% | ~1,667 |
+| Each Sold Separately | 38.00% | ~1,408 |
 | We're In | 33.00% | ~1,222 |
 | Tale in the Toilet | 30.00% | ~1,111 |
 | You're Not Naked | 29.00% | ~1,074 |
@@ -22,7 +22,7 @@ Rating: 4.08 (Ranked 975)
 | Those Were the Days... | 19.00% | ~704 |
 | ...To Heroes | 18.00% | ~667 |
 | Mas, Por Favor | 18.00% | ~667 |
-| And Still Champion... | 15.00% | ~555 |
+| And Still Champion... | 15.00% | ~556 |
 | Super Trusting Friend! | 10.00% | ~370 |
 | Bring back the butt! | 4.00% | ~148 |
 | Hey, thanks! | 4.00% | ~148 |
@@ -32,7 +32,7 @@ Rating: 4.08 (Ranked 975)
 | Not Dolls. Action Figures! | 0.20% | ~7 |
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,703 (Ranked 203)  
+Progressed: 3,704 (Ranked 203)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,6 +193,7 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-23 | 3,700 | 0 |
 | 2023-11-24 | 3,701 | 0 |
 | 2023-11-28 | 3,703 | 0 |
+| 2023-12-02 | 3,704 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

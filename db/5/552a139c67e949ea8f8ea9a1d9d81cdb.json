@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1237,
+  "EOS_Progressed": 1238,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2752,6 +2752,11 @@
       "Time": "2023-12-01T19:05:11.0916728+00:00",
       "NumProgressed": 1237,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T01:47:59.3787337+00:00",
+      "NumProgressed": 1238,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2764,7 +2769,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2772,7 +2777,7 @@
       "Name": "Acrobat",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -2804,7 +2809,7 @@
       "Name": "Now try online",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -2892,7 +2897,7 @@
       "Name": "Solo",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -2932,7 +2937,7 @@
       "Name": "The Octopus",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -2948,7 +2953,7 @@
       "Name": "The Terrordactyl",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ML_ACHIEVEMENT_25",
@@ -3004,7 +3009,7 @@
       "Name": "Shopping time!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -3100,27 +3105,27 @@
       "Name": "Mission complete",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1237,
+      "Progressed": 1238,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 905,
-      "Completed": 905
+      "Progressed": 906,
+      "Completed": 906
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-02T00:05:17.3724262+00:00",
+  "LastChanged_Achievements": "2023-12-02T01:47:59.3787333+00:00",
   "LastUpdate_AppInfo": "2023-11-30T02:56:57.3535816+00:00",
-  "LastUpdate_Ratings": "2023-12-01T23:58:17.5638983+00:00",
-  "LastUpdate_Achievements": "2023-12-02T00:05:17.372472+00:00"
+  "LastUpdate_Ratings": "2023-12-02T01:41:01.673402+00:00",
+  "LastUpdate_Achievements": "2023-12-02T01:47:59.3787816+00:00"
 }

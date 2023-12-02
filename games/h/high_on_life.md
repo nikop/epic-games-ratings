@@ -9,6 +9,7 @@ Rating: 4.64 (Ranked 336)
 | Are You Packin'? | 3.00% | ~739 |
 | Bring A Knife to a Gun Fight | 3.00% | ~739 |
 | Sweezy Like Sunday Morning | 3.00% | ~739 |
+| We're All Very Impressed, Trust Me | 3.00% | ~739 |
 | First Bounty Down | 3.00% | ~739 |
 | G3 Graduation | 3.00% | ~739 |
 | Cold-Blooded Driller | 3.00% | ~739 |
@@ -17,7 +18,6 @@ Rating: 4.64 (Ranked 336)
 | Creature Feature | 2.00% | ~492 |
 | Lezduit! | 2.00% | ~492 |
 | RIP Davey Glutes | 2.00% | ~492 |
-| We're All Very Impressed, Trust Me | 2.00% | ~492 |
 | Legendary Bounty Hunter | 2.00% | ~492 |
 | Hardest Battle In The Game | 2.00% | ~492 |
 | Self-Actualization | 2.00% | ~492 |

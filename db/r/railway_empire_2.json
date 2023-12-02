@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -287,7 +287,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2305,
+  "EOS_Progressed": 2306,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
@@ -6377,6 +6377,11 @@
       "Time": "2023-12-01T23:08:32.6737824+00:00",
       "NumProgressed": 2305,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T01:49:30.1096673+00:00",
+      "NumProgressed": 2306,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -6436,7 +6441,7 @@
       "Name": "Unstoppable",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "A07",
@@ -6444,7 +6449,7 @@
       "Name": "Track to the Future",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "A08",
@@ -6500,7 +6505,7 @@
       "Name": "A new Journey",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1729
+      "UsersEstimate": 1730
     },
     {
       "ID": "A15",
@@ -6532,7 +6537,7 @@
       "Name": "General Manager",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "A19",
@@ -6548,7 +6553,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1753
     },
     {
       "ID": "A21",
@@ -6556,7 +6561,7 @@
       "Name": "Country Life",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "A22",
@@ -6564,7 +6569,7 @@
       "Name": "Brainstorm",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "A23",
@@ -6612,7 +6617,7 @@
       "Name": "We brake for nobody",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1567
+      "UsersEstimate": 1568
     },
     {
       "ID": "A29",
@@ -6684,7 +6689,7 @@
       "Name": "All around the World",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "A38",
@@ -6708,7 +6713,7 @@
       "Name": "Mind the Gap",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1498
+      "UsersEstimate": 1499
     },
     {
       "ID": "A41",
@@ -6724,7 +6729,7 @@
       "Name": "Bridge Builder",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "A43",
@@ -6756,7 +6761,7 @@
       "Name": "Mystery Tour",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1590
+      "UsersEstimate": 1591
     },
     {
       "ID": "A47",
@@ -6764,7 +6769,7 @@
       "Name": "Travel Company",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "A48",
@@ -6796,7 +6801,7 @@
       "Name": "Call of Duty",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "A52",
@@ -6827,7 +6832,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2305,
+      "Progressed": 2306,
       "Completed": 0
     }
   ],
@@ -6835,8 +6840,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-11-30T04:58:15.2610006+00:00",
-  "LastChanged_Achievements": "2023-12-02T00:08:29.5126304+00:00",
+  "LastChanged_Achievements": "2023-12-02T01:49:30.1096668+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:05.9441553+00:00",
-  "LastUpdate_Ratings": "2023-12-01T23:58:50.1253169+00:00",
-  "LastUpdate_Achievements": "2023-12-02T00:08:29.5126863+00:00"
+  "LastUpdate_Ratings": "2023-12-02T01:41:30.4661022+00:00",
+  "LastUpdate_Achievements": "2023-12-02T01:49:30.1097217+00:00"
 }
