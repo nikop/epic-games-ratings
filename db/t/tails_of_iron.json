@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2186,
+  "EOS_Progressed": 2187,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3717,6 +3717,11 @@
       "Time": "2023-12-01T23:06:45.212442+00:00",
       "NumProgressed": 2186,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-02T03:05:39.0725346+00:00",
+      "NumProgressed": 2187,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 30,
@@ -3744,7 +3749,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     },
     {
       "ID": "Collect50MonsterParts",
@@ -3792,7 +3797,7 @@
       "Name": "Complete the Chefs Book",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "CompleteElderFaction",
@@ -3800,7 +3805,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "CompleteGuardFaction",
@@ -3856,7 +3861,7 @@
       "Name": "Defeat Rattus Augustail",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "FixTheTravellersWagon",
@@ -3872,7 +3877,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "GetTHWeapon",
@@ -3880,7 +3885,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1246
+      "UsersEstimate": 1247
     },
     {
       "ID": "Kill25Bugs",
@@ -3896,7 +3901,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "Kill25Mozi",
@@ -3904,7 +3909,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "MeetTheMoles",
@@ -3920,7 +3925,7 @@
       "Name": "Discover the mystery of the Kings Chambers",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "RepairChef",
@@ -3928,7 +3933,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     },
     {
       "ID": "RepairSmith",
@@ -3967,22 +3972,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2186,
+      "Progressed": 2187,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 827,
-      "Completed": 827
+      "Progressed": 828,
+      "Completed": 828
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-12-02T02:25:33.5565917+00:00",
+  "LastChanged_Achievements": "2023-12-02T03:05:39.0725341+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:11.7059189+00:00",
-  "LastUpdate_Ratings": "2023-12-02T02:17:46.2312078+00:00",
-  "LastUpdate_Achievements": "2023-12-02T02:25:33.5566247+00:00"
+  "LastUpdate_Ratings": "2023-12-02T02:58:35.9517511+00:00",
+  "LastUpdate_Achievements": "2023-12-02T03:05:39.072579+00:00"
 }

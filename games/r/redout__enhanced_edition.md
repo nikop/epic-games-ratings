@@ -6,9 +6,9 @@ Number of Ratings: 274  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~96,965 |
-| NATURAL BORN WINNER | 33.00% | ~78,045 |
-| CALLING HOUSTON | 28.00% | ~66,220 |
+| VANGUARD | 41.00% | ~96,966 |
+| NATURAL BORN WINNER | 33.00% | ~78,046 |
+| CALLING HOUSTON | 28.00% | ~66,221 |
 | SNEAKY SNEAKY | 22.00% | ~52,030 |
 | TRICK UP YOUR SLEEVE | 22.00% | ~52,030 |
 | GT9STRADALE | 20.00% | ~47,300 |
@@ -28,9 +28,9 @@ Number of Ratings: 274  (23.09.2022)
 | HARDCORE | 1.00% | ~2,365 |
 | ACE | 0.80% | ~1,892 |
 | TACTICIAN | 0.60% | ~1,419 |
-| GTX COMPETIZIONE | 0.50% | ~1,182 |
-| HIDDEN POWER | 0.50% | ~1,182 |
-| TUNING MANIAC | 0.50% | ~1,182 |
+| GTX COMPETIZIONE | 0.50% | ~1,183 |
+| HIDDEN POWER | 0.50% | ~1,183 |
+| TUNING MANIAC | 0.50% | ~1,183 |
 | DRAGOON | 0.40% | ~946 |
 | FLAWLESS | 0.40% | ~946 |
 | MARID | 0.30% | ~710 |
@@ -39,9 +39,9 @@ Number of Ratings: 274  (23.09.2022)
 | NOBUNAGA | 0.20% | ~473 |
 | ODIN | 0.20% | ~473 |
 | PILE UP TROPHIES | 0.20% | ~473 |
-| ENLIGHTENED | 0.10% | ~236 |
+| ENLIGHTENED | 0.10% | ~237 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,500 (Ranked 66)  
+Progressed: 236,502 (Ranked 66)  
 Completed: 49 (0.02%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 49 (0.02%) (Ranked 335)
 | 2023-11-29 | 236,381 | 49 |
 | 2023-11-30 | 236,430 | 49 |
 | 2023-12-01 | 236,496 | 49 |
-| 2023-12-02 | 236,500 | 49 |
+| 2023-12-02 | 236,502 | 49 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

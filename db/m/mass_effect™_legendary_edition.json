@@ -5192,9 +5192,9 @@
       "ID": "achievement_96",
       "SetID": "d252ncf",
       "Name": "Legend",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 250
+      "UsersEstimate": 265
     },
     {
       "ID": "achievement_97",
@@ -5236,8 +5236,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-02T02:27:58.7945352+00:00",
+  "LastChanged_Achievements": "2023-12-02T03:08:42.6376591+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:10.3433357+00:00",
-  "LastUpdate_Ratings": "2023-12-02T02:21:55.5502229+00:00",
-  "LastUpdate_Achievements": "2023-12-02T02:27:58.7946858+00:00"
+  "LastUpdate_Ratings": "2023-12-02T03:02:51.9675527+00:00",
+  "LastUpdate_Achievements": "2023-12-02T03:08:42.6378086+00:00"
 }

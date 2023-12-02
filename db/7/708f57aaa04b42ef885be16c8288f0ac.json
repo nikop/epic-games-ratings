@@ -165,9 +165,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7242,
+  "EOS_Progressed": 7244,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 929,
+  "EOS_NewPlayers": 931,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5200,6 +5200,11 @@
       "Time": "2023-12-02T02:28:35.0644251+00:00",
       "NumProgressed": 7242,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-02T03:09:10.8833547+00:00",
+      "NumProgressed": 7244,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5220,7 +5225,7 @@
       "Name": "Baby Steps",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1594
     },
     {
       "ID": "BeLikeWater",
@@ -5252,7 +5257,7 @@
       "Name": "Connection Lost",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "Eavesdropper",
@@ -5284,7 +5289,7 @@
       "Name": "First Time?",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2100
+      "UsersEstimate": 2101
     },
     {
       "ID": "FuneralForTheDeath",
@@ -5292,7 +5297,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "GarbageMan",
@@ -5452,7 +5457,7 @@
       "Name": "Digestive Issues",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -5483,7 +5488,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7242,
+      "Progressed": 7244,
       "Completed": 10
     }
   ],
@@ -5491,8 +5496,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-01T01:56:51.5365548+00:00",
-  "LastChanged_Achievements": "2023-12-02T02:28:35.0644247+00:00",
+  "LastChanged_Achievements": "2023-12-02T03:09:10.8833541+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-02T02:20:17.3519177+00:00",
-  "LastUpdate_Achievements": "2023-12-02T02:28:35.0644744+00:00"
+  "LastUpdate_Ratings": "2023-12-02T03:00:27.0666498+00:00",
+  "LastUpdate_Achievements": "2023-12-02T03:09:10.8834015+00:00"
 }

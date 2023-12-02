@@ -143,9 +143,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 61689,
+  "EOS_Progressed": 61707,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 6255,
+  "EOS_NewPlayers": 6273,
   "EOS_NewCompleters": 37,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1993,6 +1993,11 @@
       "Time": "2023-12-02T02:26:50.9323211+00:00",
       "NumProgressed": 61689,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-12-02T03:07:48.3666531+00:00",
+      "NumProgressed": 61707,
+      "NumCompleted": 48
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -2005,7 +2010,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 22825
+      "UsersEstimate": 22832
     },
     {
       "ID": "Achievement_10",
@@ -2021,7 +2026,7 @@
       "Name": "Owls of the Nest",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "Achievement_12",
@@ -2093,7 +2098,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 16656
+      "UsersEstimate": 16661
     },
     {
       "ID": "Achievement_20",
@@ -2125,7 +2130,7 @@
       "Name": "Festival Masters",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "Achievement_24",
@@ -2139,9 +2144,9 @@
       "ID": "Achievement_25",
       "SetID": "2md12pi",
       "Name": "Konkylian Custodian",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 185
+      "UsersEstimate": 247
     },
     {
       "ID": "Achievement_26",
@@ -2157,7 +2162,7 @@
       "Name": "Critter King",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "Achievement_28",
@@ -2165,7 +2170,7 @@
       "Name": "A Better World",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "Achievement_29",
@@ -2181,7 +2186,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 6786
+      "UsersEstimate": 6788
     },
     {
       "ID": "Achievement_30",
@@ -2229,7 +2234,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 4935
+      "UsersEstimate": 4937
     },
     {
       "ID": "Achievement_5",
@@ -2237,7 +2242,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3701
+      "UsersEstimate": 3702
     },
     {
       "ID": "Achievement_6",
@@ -2276,7 +2281,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 61689,
+      "Progressed": 61707,
       "Completed": 48
     }
   ],
@@ -2284,8 +2289,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-01T15:02:40.8736303+00:00",
-  "LastChanged_Achievements": "2023-12-02T02:26:50.9323207+00:00",
+  "LastChanged_Achievements": "2023-12-02T03:07:48.3666526+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:03:15.0842163+00:00",
-  "LastUpdate_Ratings": "2023-12-02T02:21:39.9698191+00:00",
-  "LastUpdate_Achievements": "2023-12-02T02:26:50.9323468+00:00"
+  "LastUpdate_Ratings": "2023-12-02T03:02:39.7206673+00:00",
+  "LastUpdate_Achievements": "2023-12-02T03:07:48.3666835+00:00"
 }

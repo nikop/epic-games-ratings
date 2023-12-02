@@ -2794,9 +2794,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 983
+      "UsersEstimate": 994
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -3451,8 +3451,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-28T04:59:34.1023632+00:00",
-  "LastChanged_Achievements": "2023-12-02T02:25:16.9466514+00:00",
+  "LastChanged_Achievements": "2023-12-02T03:05:26.4274023+00:00",
   "LastUpdate_AppInfo": "2023-11-27T17:57:10.8459621+00:00",
-  "LastUpdate_Ratings": "2023-12-02T02:16:41.0869037+00:00",
-  "LastUpdate_Achievements": "2023-12-02T02:25:16.946751+00:00"
+  "LastUpdate_Ratings": "2023-12-02T02:57:47.9353019+00:00",
+  "LastUpdate_Achievements": "2023-12-02T03:05:26.4274877+00:00"
 }

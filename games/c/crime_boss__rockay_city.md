@@ -25,11 +25,11 @@ Rating: 3.95 (Ranked 1,015)
 | I Like Trains | 0.60% | ~550 |
 | Freebooter | 0.60% | ~550 |
 | Legend Looter | 0.50% | ~458 |
+| Imports and Exports | 0.50% | ~458 |
 | Foo Finder | 0.50% | ~458 |
 | Moneybags | 0.50% | ~458 |
 | Olympus Ascended | 0.50% | ~458 |
 | Ding Dong | 0.50% | ~458 |
-| Imports and Exports | 0.40% | ~367 |
 | Savvy Seeker | 0.40% | ~367 |
 | All that Glitters | 0.40% | ~80 |
 | Rockay Raider | 0.30% | ~275 |

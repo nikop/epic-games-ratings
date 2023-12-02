@@ -4,7 +4,7 @@
   "ProductSlug": "the-bunker-03b712",
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -407,17 +407,17 @@
       "ID": "CHAPTER_03_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "The Routine",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 119
+      "UsersEstimate": 121
     },
     {
       "ID": "CHAPTER_04_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Failure",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 113
+      "UsersEstimate": 115
     },
     {
       "ID": "CHAPTER_05_COMPLETE",
@@ -592,8 +592,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2023-12-02T02:24:01.6620524+00:00",
+  "LastChanged_Achievements": "2023-12-02T03:04:28.9748335+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:53.6642156+00:00",
-  "LastUpdate_Ratings": "2023-12-02T02:17:41.8258663+00:00",
-  "LastUpdate_Achievements": "2023-12-02T02:24:01.6620704+00:00"
+  "LastUpdate_Ratings": "2023-12-02T02:58:32.7627651+00:00",
+  "LastUpdate_Achievements": "2023-12-02T03:04:28.9748482+00:00"
 }

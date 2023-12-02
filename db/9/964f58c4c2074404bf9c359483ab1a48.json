@@ -1957,10 +1957,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 597,
       "NumberOfAwardsMax": 87
+    },
+    {
+      "Time": "2023-12-02T03:00:22.7878992+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 598,
+      "NumberOfAwardsMax": 87
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 597,
+  "NumberOfAwards": 598,
   "NumberOfAwardsMax": 87,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1986,7 +1992,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 54
+      "Count": 55
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2037,9 +2043,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1291430,
+  "EOS_Progressed": 1291433,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1391,
+  "EOS_NewPlayers": 1394,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23482,6 +23488,11 @@
       "Time": "2023-12-02T02:22:50.4884038+00:00",
       "NumProgressed": 1291430,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T03:03:34.070171+00:00",
+      "NumProgressed": 1291433,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -23605,7 +23616,7 @@
       "Name": "10 Kills as a Ghost!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 142057
+      "UsersEstimate": 142058
     },
     {
       "ID": "10_ghost_wins",
@@ -23613,7 +23624,7 @@
       "Name": "10 Ghost Wins!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 103314
+      "UsersEstimate": 103315
     },
     {
       "ID": "10_hero_prop_kills",
@@ -23789,7 +23800,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 761944
+      "UsersEstimate": 761945
     },
     {
       "ID": "hunter_win",
@@ -23797,7 +23808,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 697372
+      "UsersEstimate": 697374
     },
     {
       "ID": "master_of_loadouts",
@@ -23828,16 +23839,16 @@
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1291430,
+      "Progressed": 1291433,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-01T17:56:58.3739755+00:00",
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
-  "LastChanged": "2023-12-01T19:00:13.5111473+00:00",
-  "LastChanged_Achievements": "2023-12-02T02:22:50.4884035+00:00",
+  "LastChanged": "2023-12-02T03:00:22.787899+00:00",
+  "LastChanged_Achievements": "2023-12-02T03:03:34.0701702+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:12.3438566+00:00",
-  "LastUpdate_Ratings": "2023-12-02T02:20:11.4483448+00:00",
-  "LastUpdate_Achievements": "2023-12-02T02:22:50.4884996+00:00"
+  "LastUpdate_Ratings": "2023-12-02T03:00:22.7878995+00:00",
+  "LastUpdate_Achievements": "2023-12-02T03:03:34.0703312+00:00"
 }

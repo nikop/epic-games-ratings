@@ -11,10 +11,10 @@ Number of Ratings: 892  (23.09.2022)
 | Greeno-B-Gone | 123.00% | ~608 |
 | Super Spelunker | 121.00% | ~598 |
 | Your Especially Earned Trajectory | 100.00% | ~494 |
-| The Little Wood that Could | 96.00% | ~474 |
+| The Little Wood that Could | 95.00% | ~469 |
 | One of the Cool Kids | 78.00% | ~385 |
 | On that Grindset | 77.00% | ~380 |
-| No Mountain Wide Enough | 76.00% | ~375 |
+| No Mountain Wide Enough | 77.00% | ~380 |
 | Yakmel Whisperer | 74.00% | ~366 |
 | Can We Keep It? | 71.00% | ~351 |
 | Diamonds are Forever | 71.00% | ~351 |
@@ -26,19 +26,19 @@ Number of Ratings: 892  (23.09.2022)
 | Chatterbox | 62.00% | ~306 |
 | Got Served | 60.00% | ~296 |
 | Big Game Hunter | 59.00% | ~291 |
-| Panda-kin | 56.00% | ~277 |
-| Builder of the Month | 56.00% | ~277 |
 | Elementary, My Dear | 56.00% | ~277 |
 | Mole Masher | 56.00% | ~277 |
-| Better Late than Never | 55.00% | ~272 |
+| Panda-kin | 55.00% | ~272 |
+| Builder of the Month | 55.00% | ~272 |
 | Happier-est Place on Earth | 55.00% | ~272 |
-| You Don't Win Friends With Salad | 55.00% | ~272 |
+| Better Late than Never | 54.00% | ~267 |
 | What Plants Crave | 54.00% | ~267 |
 | Officially Official | 54.00% | ~267 |
-| Waste Not Want Not | 54.00% | ~267 |
-| Knowledge is Power | 53.00% | ~262 |
+| You Don't Win Friends With Salad | 54.00% | ~267 |
 | Martle's Dream | 53.00% | ~262 |
 | Anti-Santa | 53.00% | ~262 |
+| Waste Not Want Not | 53.00% | ~262 |
+| Knowledge is Power | 52.00% | ~257 |
 | Commissions, commissions...! | 52.00% | ~257 |
 | Lifeline Pipeline | 52.00% | ~257 |
 | Call Me Fishmael | 52.00% | ~257 |
@@ -49,8 +49,8 @@ Number of Ratings: 892  (23.09.2022)
 | Who Ya Gonna Call...? | 41.00% | ~203 |
 | Time Flies | 40.00% | ~198 |
 | My Time Mansion | 40.00% | ~198 |
-| Jewel of the Eufaula | 39.00% | ~193 |
-| Kind of a Big Deal | 36.00% | ~178 |
+| Jewel of the Eufaula | 38.00% | ~188 |
+| Kind of a Big Deal | 37.00% | ~183 |
 | He Can Spin A Yarn... | 35.00% | ~173 |
 | Just What I Always Wanted! | 34.00% | ~168 |
 | Santa In Training | 33.00% | ~163 |
@@ -64,7 +64,7 @@ Number of Ratings: 892  (23.09.2022)
 | Strong Arms | 14.00% | ~69 |
 | Got the Receipt? | 14.00% | ~69 |
 | Winner and Still Champeen | 13.00% | ~64 |
-| Jack of All Trades | 8.00% | ~40 |
+| Jack of All Trades | 7.00% | ~35 |
 | Sandrock's Hottest Club | 4.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 494 (Ranked 313)  

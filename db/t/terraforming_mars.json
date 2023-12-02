@@ -3259,9 +3259,9 @@
       "Count": 254
     }
   ],
-  "EOS_Progressed": 84660,
+  "EOS_Progressed": 84661,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 815,
+  "EOS_NewPlayers": 816,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -28434,6 +28434,11 @@
       "Time": "2023-12-02T02:25:53.0443633+00:00",
       "NumProgressed": 84660,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-12-02T03:05:53.9348292+00:00",
+      "NumProgressed": 84661,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 30,
@@ -28493,7 +28498,7 @@
       "Name": "Biggest Reward",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11852
+      "UsersEstimate": 11853
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -28517,7 +28522,7 @@
       "Name": "Project Manager",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 16085
+      "UsersEstimate": 16086
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -28525,7 +28530,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 31324
+      "UsersEstimate": 31325
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -28541,7 +28546,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 27091
+      "UsersEstimate": 27092
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -28565,7 +28570,7 @@
       "Name": "Curiosity",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 16085
+      "UsersEstimate": 16086
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -28589,7 +28594,7 @@
       "Name": "Collector",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 16085
+      "UsersEstimate": 16086
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -28669,7 +28674,7 @@
       "Name": "Master",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 16085
+      "UsersEstimate": 16086
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -28684,15 +28689,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 84660,
+      "Progressed": 84661,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-12-01T18:59:28.7925901+00:00",
-  "LastChanged_Achievements": "2023-12-02T02:25:53.0443628+00:00",
+  "LastChanged_Achievements": "2023-12-02T03:05:53.9348286+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:29.0449406+00:00",
-  "LastUpdate_Ratings": "2023-12-02T02:19:04.2031853+00:00",
-  "LastUpdate_Achievements": "2023-12-02T02:25:53.0445226+00:00"
+  "LastUpdate_Ratings": "2023-12-02T02:59:32.9904392+00:00",
+  "LastUpdate_Achievements": "2023-12-02T03:05:53.9349502+00:00"
 }

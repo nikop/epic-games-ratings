@@ -2,9 +2,9 @@
   "ID": "24bd39f944fa45ad8a953116f9908525",
   "Name": "HAAK",
   "ProductSlug": "haak-1401cb",
-  "Ranking_EOS_Progress": 490,
+  "Ranking_EOS_Progress": 489,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-06-30T02:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57,
+  "EOS_Progressed": 58,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -289,6 +289,11 @@
       "Time": "2023-12-01T03:04:12.3057632+00:00",
       "NumProgressed": 57,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T03:04:40.8495702+00:00",
+      "NumProgressed": 58,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -300,13 +305,13 @@
       "Name": "Fully Charged",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ach_01_defeatPing",
       "SetID": "16n29hg",
       "Name": "He ran away!",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 5,
       "UsersEstimate": 38
     },
@@ -314,7 +319,7 @@
       "ID": "ach_02_journeyStart",
       "SetID": "16n29hg",
       "Name": "The journey begins",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
       "UsersEstimate": 33
     },
@@ -338,7 +343,7 @@
       "ID": "ach_05_northStation",
       "SetID": "16n29hg",
       "Name": "Dominate North Station",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -346,7 +351,7 @@
       "ID": "ach_06_spikeDeath",
       "SetID": "16n29hg",
       "Name": "Just like the Local",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
       "UsersEstimate": 36
     },
@@ -356,13 +361,13 @@
       "Name": "Hidden Corner",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ach_08_hpFrag3",
       "SetID": "16n29hg",
       "Name": "Muscular Guy",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
       "UsersEstimate": 30
     },
@@ -370,7 +375,7 @@
       "ID": "ach_09_acidDeath10",
       "SetID": "16n29hg",
       "Name": "Feels like Hell",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
       "UsersEstimate": 24
     },
@@ -378,15 +383,15 @@
       "ID": "ach_10_scarvenger1",
       "SetID": "16n29hg",
       "Name": "Scavenger",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_11_scarvengerEA",
       "SetID": "16n29hg",
       "Name": "Super Scavenger",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 17
     },
@@ -394,7 +399,7 @@
       "ID": "ach_12_worldMap",
       "SetID": "16n29hg",
       "Name": "Welcome to Sanho",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
       "UsersEstimate": 36
     },
@@ -410,9 +415,9 @@
       "ID": "ach_14_squeezeDeath",
       "SetID": "16n29hg",
       "Name": "Physics Lesson",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_15_breakTile100",
@@ -420,13 +425,13 @@
       "Name": "Destroyer",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_16_defeatPing3",
       "SetID": "16n29hg",
       "Name": "Who\u0027s your daddy?",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 10,
       "UsersEstimate": 38
     },
@@ -450,7 +455,7 @@
       "ID": "ach_19_dogDeath3",
       "SetID": "16n29hg",
       "Name": "Beware of Attack Dog",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 10,
       "UsersEstimate": 22
     },
@@ -458,7 +463,7 @@
       "ID": "ach_20_elec10",
       "SetID": "16n29hg",
       "Name": "You need electrotherapy",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 10,
       "UsersEstimate": 32
     },
@@ -466,7 +471,7 @@
       "ID": "ach_21_litStation",
       "SetID": "16n29hg",
       "Name": "Sun is Rising",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -474,7 +479,7 @@
       "ID": "ach_22_eye4Eye",
       "SetID": "16n29hg",
       "Name": "Eye For An Eye",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -490,7 +495,7 @@
       "ID": "ach_24_hpFrag15",
       "SetID": "16n29hg",
       "Name": "HP Tank",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -498,7 +503,7 @@
       "ID": "ach_25_dash2",
       "SetID": "16n29hg",
       "Name": "Dash! Dash!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -522,7 +527,7 @@
       "ID": "ach_29_scarvenger50",
       "SetID": "16n29hg",
       "Name": "Movie Lover",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -538,7 +543,7 @@
       "ID": "ach_31_skin1",
       "SetID": "16n29hg",
       "Name": "Cheapo",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -554,7 +559,7 @@
       "ID": "ach_33_useTpToilet",
       "SetID": "16n29hg",
       "Name": "Smells Interesting",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
       "UsersEstimate": 26
     },
@@ -570,7 +575,7 @@
       "ID": "ach_35_clearAllPipes",
       "SetID": "16n29hg",
       "Name": "Super Plumer",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -618,7 +623,7 @@
       "ID": "ach_41_gotGael",
       "SetID": "16n29hg",
       "Name": "Gotcha!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 100,
       "UsersEstimate": 6
     },
@@ -634,7 +639,7 @@
       "ID": "ach_43_badend",
       "SetID": "16n29hg",
       "Name": "GG Bro",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -682,7 +687,7 @@
       "ID": "ach_49_kindHaak",
       "SetID": "16n29hg",
       "Name": "Lawful Good",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
       "UsersEstimate": 6
     },
@@ -698,7 +703,7 @@
       "ID": "ach_51_manOfFocus",
       "SetID": "16n29hg",
       "Name": "In the Limelight",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -739,14 +744,14 @@
     {
       "ID": "16n29hg",
       "IsBase": true,
-      "Progressed": 57,
+      "Progressed": 58,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-12-02T02:24:17.0587609+00:00",
+  "LastChanged_Achievements": "2023-12-02T03:04:40.8495699+00:00",
   "LastUpdate_AppInfo": "2023-11-29T20:57:25.545137+00:00",
-  "LastUpdate_Ratings": "2023-12-02T02:15:27.3636472+00:00",
-  "LastUpdate_Achievements": "2023-12-02T02:24:17.0587944+00:00"
+  "LastUpdate_Ratings": "2023-12-02T02:56:54.4524809+00:00",
+  "LastUpdate_Achievements": "2023-12-02T03:04:40.8496024+00:00"
 }

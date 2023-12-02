@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 93.00% | ~10,693 |
-| Cool Whip | 90.00% | ~10,348 |
-| Fashion Killa | 88.00% | ~10,118 |
-| Drop the Beat | 86.00% | ~9,888 |
-| Hey Lakeshore | 85.00% | ~9,773 |
-| 100 Miles and Runnin' | 84.00% | ~9,658 |
-| Public Enemy | 82.00% | ~9,428 |
+| Throwing up Tags | 93.00% | ~10,694 |
+| Cool Whip | 90.00% | ~10,349 |
+| Fashion Killa | 88.00% | ~10,119 |
+| Drop the Beat | 86.00% | ~9,889 |
+| Hey Lakeshore | 85.00% | ~9,774 |
+| 100 Miles and Runnin' | 84.00% | ~9,659 |
+| Public Enemy | 82.00% | ~9,429 |
 | Rebel Without a Pause | 68.00% | ~7,819 |
 | Hey Speedie! | 68.00% | ~7,819 |
 | Most Wanted | 64.00% | ~7,359 |
@@ -19,16 +19,16 @@
 | Serious Guap | 53.00% | ~6,094 |
 | Style it Out | 53.00% | ~6,094 |
 | Untouchable | 52.00% | ~5,979 |
-| Oh, It's On | 50.00% | ~5,749 |
-| Rydell's Rydes | 49.00% | ~5,634 |
-| Cash Money Millionaire | 46.00% | ~5,289 |
-| Lake Better Watch Out | 39.00% | ~4,484 |
-| #Blessed | 34.00% | ~3,909 |
-| Access All Areas | 33.00% | ~3,794 |
-| Found Family | 31.00% | ~3,564 |
-| In the Flow | 29.00% | ~3,334 |
-| The Collector | 29.00% | ~3,334 |
-| Kick it | 29.00% | ~3,334 |
+| Oh, It's On | 50.00% | ~5,750 |
+| Rydell's Rydes | 49.00% | ~5,635 |
+| Cash Money Millionaire | 46.00% | ~5,290 |
+| Lake Better Watch Out | 39.00% | ~4,485 |
+| #Blessed | 34.00% | ~3,910 |
+| Access All Areas | 33.00% | ~3,795 |
+| Found Family | 31.00% | ~3,565 |
+| In the Flow | 29.00% | ~3,335 |
+| The Collector | 29.00% | ~3,335 |
+| Kick it | 29.00% | ~3,335 |
 | Top Billin' | 21.00% | ~2,415 |
 | Teacher's Pet | 20.00% | ~2,300 |
 | Full House | 18.00% | ~2,070 |
@@ -46,7 +46,7 @@
 | Catch My Drift | 2.00% | ~230 |
 | Cleaning Up | 2.00% | ~230 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,498 (Ranked 161)  
+Progressed: 11,499 (Ranked 161)  
 Completed: 52 (0.45%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,4 +124,4 @@ Completed: 52 (0.45%) (Ranked 213)
 | 2023-11-29 | 11,330 | 52 |
 | 2023-11-30 | 11,406 | 52 |
 | 2023-12-01 | 11,486 | 52 |
-| 2023-12-02 | 11,498 | 52 |
+| 2023-12-02 | 11,499 | 52 |

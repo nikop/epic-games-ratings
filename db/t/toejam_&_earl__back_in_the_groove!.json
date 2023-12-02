@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58049,
+  "EOS_Progressed": 58050,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13401,6 +13401,11 @@
       "Time": "2023-12-02T02:27:05.8999804+00:00",
       "NumProgressed": 58049,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-02T03:08:00.1566191+00:00",
+      "NumProgressed": 58050,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -13476,7 +13481,7 @@
       "Name": "Fall Fest",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4063
+      "UsersEstimate": 4064
     },
     {
       "ID": "FlyingPresent",
@@ -13572,7 +13577,7 @@
       "Name": "Hi Fiver",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "IsThisPossible",
@@ -13748,7 +13753,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4063
+      "UsersEstimate": 4064
     },
     {
       "ID": "TimelySplash",
@@ -13756,7 +13761,7 @@
       "Name": "A Timely Splash",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "TotalBummer",
@@ -13803,7 +13808,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58049,
+      "Progressed": 58050,
       "Completed": 6
     }
   ],
@@ -13811,8 +13816,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-12-02T02:27:05.8999791+00:00",
+  "LastChanged_Achievements": "2023-12-02T03:08:00.1566185+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:48.4965941+00:00",
-  "LastUpdate_Ratings": "2023-12-02T02:16:58.737513+00:00",
-  "LastUpdate_Achievements": "2023-12-02T02:27:05.9000747+00:00"
+  "LastUpdate_Ratings": "2023-12-02T02:58:00.9463601+00:00",
+  "LastUpdate_Achievements": "2023-12-02T03:08:00.1566929+00:00"
 }

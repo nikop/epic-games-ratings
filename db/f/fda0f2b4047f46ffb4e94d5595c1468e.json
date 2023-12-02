@@ -3297,9 +3297,9 @@
       "Count": 405
     }
   ],
-  "EOS_Progressed": 9447,
+  "EOS_Progressed": 9448,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10212,6 +10212,11 @@
       "Time": "2023-12-02T01:49:32.0684174+00:00",
       "NumProgressed": 9447,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T03:08:00.4221612+00:00",
+      "NumProgressed": 9448,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -10224,7 +10229,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 3306
+      "UsersEstimate": 3307
     },
     {
       "ID": "ach02",
@@ -10240,7 +10245,7 @@
       "Name": "A New Timeline",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 4440
+      "UsersEstimate": 4441
     },
     {
       "ID": "ach04",
@@ -10248,7 +10253,7 @@
       "Name": "What Just Happened??",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 2267
+      "UsersEstimate": 2268
     },
     {
       "ID": "ach05",
@@ -10264,7 +10269,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 7085
+      "UsersEstimate": 7086
     },
     {
       "ID": "ach07",
@@ -10272,7 +10277,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 5290
+      "UsersEstimate": 5291
     },
     {
       "ID": "ach08",
@@ -10352,7 +10357,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 4912
+      "UsersEstimate": 4913
     },
     {
       "ID": "ach18",
@@ -10360,7 +10365,7 @@
       "Name": "Adventure Time",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3495
+      "UsersEstimate": 3496
     },
     {
       "ID": "ach19",
@@ -10448,7 +10453,7 @@
       "Name": "Unstoppable",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 2267
+      "UsersEstimate": 2268
     },
     {
       "ID": "ach30",
@@ -10528,7 +10533,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3873
+      "UsersEstimate": 3874
     },
     {
       "ID": "ach40",
@@ -10536,7 +10541,7 @@
       "Name": "Found You",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 3306
+      "UsersEstimate": 3307
     },
     {
       "ID": "ach41",
@@ -10552,7 +10557,7 @@
       "Name": "Quest Master",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 4062
+      "UsersEstimate": 4063
     },
     {
       "ID": "ach43",
@@ -10592,7 +10597,7 @@
       "Name": "Big Spender",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 2078
+      "UsersEstimate": 2079
     },
     {
       "ID": "ach48",
@@ -10600,7 +10605,7 @@
       "Name": "Total Disrespect",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 2078
+      "UsersEstimate": 2079
     },
     {
       "ID": "ach49",
@@ -10616,14 +10621,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3684
+      "UsersEstimate": 3685
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 9447,
+      "Progressed": 9448,
       "Completed": 0
     }
   ],
@@ -10631,8 +10636,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-12-02T02:21:48.0887149+00:00",
-  "LastChanged_Achievements": "2023-12-02T02:27:06.1815102+00:00",
+  "LastChanged_Achievements": "2023-12-02T03:08:00.4221609+00:00",
   "LastUpdate_AppInfo": "2023-11-25T10:57:15.5645679+00:00",
-  "LastUpdate_Ratings": "2023-12-02T02:21:48.0887155+00:00",
-  "LastUpdate_Achievements": "2023-12-02T02:27:06.1815807+00:00"
+  "LastUpdate_Ratings": "2023-12-02T03:02:45.714419+00:00",
+  "LastUpdate_Achievements": "2023-12-02T03:08:00.4222133+00:00"
 }

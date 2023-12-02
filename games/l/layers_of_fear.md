@@ -15,9 +15,9 @@
 | Sign of weakness | 36.00% | ~35 |
 | Finished it | 27.00% | ~26 |
 | Face your fears | 23.00% | ~23 |
+| Whispers long forgotten | 13.00% | ~13 |
 | Playtime | 12.00% | ~12 |
 | Tough conversation | 12.00% | ~12 |
-| Whispers long forgotten | 12.00% | ~12 |
 | The tragedy unfolds | 11.00% | ~11 |
 | First steps | 10.00% | ~10 |
 | True Reflection | 10.00% | ~10 |

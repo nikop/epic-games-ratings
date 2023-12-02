@@ -6,21 +6,21 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 58.00% | ~56,265 |
-| Let There Be Light | 49.00% | ~47,534 |
-| Float Like a Butterfly | 47.00% | ~45,594 |
+| Follow the Light | 58.00% | ~56,266 |
+| Let There Be Light | 49.00% | ~47,535 |
+| Float Like a Butterfly | 47.00% | ~45,595 |
 | Nordic Walking | 39.00% | ~37,834 |
-| Bright Falls' Finest | 38.00% | ~36,863 |
-| Under a Thin Layer of Skin | 34.00% | ~32,983 |
+| Bright Falls' Finest | 38.00% | ~36,864 |
+| Under a Thin Layer of Skin | 34.00% | ~32,984 |
 | Paging Mr. Wake | 29.00% | ~28,133 |
 | Park Ranger | 28.00% | ~27,163 |
-| Back! Back, I Say! | 27.00% | ~26,192 |
-| Finders Keepers | 27.00% | ~26,192 |
-| Damn Good Cup of Coffee | 25.00% | ~24,252 |
-| They're Heeeeeere! | 24.00% | ~23,282 |
-| Sound and Fury | 24.00% | ~23,282 |
-| Missed by a Mile | 24.00% | ~23,282 |
-| Wheels Within Wheels | 23.00% | ~22,312 |
+| Back! Back, I Say! | 27.00% | ~26,193 |
+| Finders Keepers | 27.00% | ~26,193 |
+| Damn Good Cup of Coffee | 25.00% | ~24,253 |
+| They're Heeeeeere! | 24.00% | ~23,283 |
+| Sound and Fury | 24.00% | ~23,283 |
+| Missed by a Mile | 24.00% | ~23,283 |
+| Wheels Within Wheels | 23.00% | ~22,313 |
 | The Six-Gun Scribe | 22.00% | ~21,342 |
 | Iron Horse | 21.00% | ~20,372 |
 | Collateral Carnage | 21.00% | ~20,372 |
@@ -33,8 +33,8 @@ Number of Ratings: 524  (23.09.2022)
 | Two For the Price of One | 18.00% | ~17,462 |
 | The Lady of the Light | 17.00% | ~16,492 |
 | Energized! | 17.00% | ~16,492 |
-| Right of Way | 15.00% | ~14,551 |
-| What Light Through Yonder Window | 14.00% | ~13,581 |
+| Right of Way | 15.00% | ~14,552 |
+| What Light Through Yonder Window | 14.00% | ~13,582 |
 | Tornado Wrangler | 13.00% | ~12,611 |
 | Departure | 12.00% | ~11,641 |
 | Hardboiled Writer | 10.00% | ~9,701 |
@@ -44,7 +44,7 @@ Number of Ratings: 524  (23.09.2022)
 | Boob Tube | 7.00% | ~6,791 |
 | If It Flies, It Burns | 7.00% | ~6,791 |
 | KBF-FM | 7.00% | ~6,791 |
-| A Friend Indeed | 7.00% | ~4,233 |
+| A Friend Indeed | 7.00% | ~4,234 |
 | Ding! | 6.00% | ~3,629 |
 | Carny | 4.00% | ~3,880 |
 | An Idyllic Small Town | 4.00% | ~3,880 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | No Punctuation | 0.20% | ~121 |
 | Licensed Properties | 0.20% | ~121 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,009 (Ranked 90)  
+Progressed: 97,011 (Ranked 90)  
 Completed: 106 (0.11%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 106 (0.11%) (Ranked 283)
 | 2023-11-29 | 96,741 | 105 |
 | 2023-11-30 | 96,867 | 106 |
 | 2023-12-01 | 96,988 | 106 |
-| 2023-12-02 | 97,009 | 106 |
+| 2023-12-02 | 97,011 | 106 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

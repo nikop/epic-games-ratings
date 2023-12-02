@@ -1,19 +1,19 @@
 # Ghostrunner
 [Store](https://store.epicgames.com/en-US/p/ghostrunner)  
 [View Rawdata](../../db/g/ghostrunner.json)  
-Rating: 4.72 (Ranked 185)  
+Rating: 4.72 (Ranked 184)  
 Number of Ratings: 1,047  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~17,862 |
+| Longrunner | 76.00% | ~17,863 |
 | Sword Runner | 61.00% | ~14,337 |
 | Running out of breath | 54.00% | ~12,692 |
 | Wallrunner | 53.00% | ~12,457 |
-| Homerunner | 45.00% | ~10,576 |
-| Out of order | 44.00% | ~10,341 |
-| I call it luck | 43.00% | ~10,106 |
-| Where are my Keys? | 40.00% | ~9,401 |
+| Homerunner | 45.00% | ~10,577 |
+| Out of order | 44.00% | ~10,342 |
+| I call it luck | 43.00% | ~10,107 |
+| Where are my Keys? | 40.00% | ~9,402 |
 | Back to hell | 37.00% | ~8,696 |
 | Perfection | 32.00% | ~7,521 |
 | Why not both | 30.00% | ~7,051 |
@@ -25,9 +25,9 @@ Number of Ratings: 1,047  (23.09.2022)
 | Finish line | 26.00% | ~6,111 |
 | Unstoppable force | 22.00% | ~5,171 |
 | Wave of mutilation | 22.00% | ~5,171 |
-| Can't Run Can't Hide | 16.00% | ~3,760 |
-| R is for Running | 16.00% | ~3,760 |
-| Dead in the air | 15.00% | ~3,525 |
+| Can't Run Can't Hide | 16.00% | ~3,761 |
+| R is for Running | 16.00% | ~3,761 |
+| Dead in the air | 15.00% | ~3,526 |
 | Improvise, adapt, overrun | 12.00% | ~2,820 |
 | Pre-empative strike | 12.00% | ~2,820 |
 | Strike | 12.00% | ~2,820 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~94 |
 | Up Close And Personal | 0.40% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,503 (Ranked 135)  
+Progressed: 23,504 (Ranked 135)  
 Completed: 91 (0.39%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 91 (0.39%) (Ranked 224)
 | 2023-11-29 | 23,416 | 90 |
 | 2023-11-30 | 23,453 | 90 |
 | 2023-12-01 | 23,497 | 91 |
-| 2023-12-02 | 23,503 | 91 |
+| 2023-12-02 | 23,504 | 91 |
 ## Awards
 Max (Great Boss Battles): 520  (Ranked 210)  
 Sum: 753 (Ranked 288)  

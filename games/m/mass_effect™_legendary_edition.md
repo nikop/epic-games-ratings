@@ -100,8 +100,8 @@
 | Well Connected | 20.00% | ~294 |
 | Executioner | 18.00% | ~265 |
 | Patriot | 18.00% | ~265 |
+| Legend | 18.00% | ~265 |
 | Master and Commander | 18.00% | ~265 |
-| Legend | 17.00% | ~250 |
 | Long Service Medal | 16.00% | ~236 |
 | Sabotage Specialist | 16.00% | ~236 |
 | Throw Mastery | 15.00% | ~221 |
