@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 611,
+  "EOS_Progressed": 612,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1658,6 +1658,11 @@
       "Time": "2023-11-29T21:04:12.4627963+00:00",
       "NumProgressed": 611,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T05:04:58.0089807+00:00",
+      "NumProgressed": 612,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1693,7 +1698,7 @@
       "Name": "The Wraith",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "Chapter10",
@@ -1819,9 +1824,9 @@
       "ID": "Flying",
       "SetID": "70l3651",
       "Name": "Like Flying...",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 202
     },
     {
       "ID": "GollumChoices",
@@ -1837,7 +1842,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "Memories",
@@ -1956,14 +1961,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 611,
+      "Progressed": 612,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-12-02T04:04:48.2312439+00:00",
+  "LastChanged_Achievements": "2023-12-02T05:04:58.0089802+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:06.3353752+00:00",
-  "LastUpdate_Ratings": "2023-12-02T03:57:05.476882+00:00",
-  "LastUpdate_Achievements": "2023-12-02T04:04:48.2312734+00:00"
+  "LastUpdate_Ratings": "2023-12-02T04:57:16.8686569+00:00",
+  "LastUpdate_Achievements": "2023-12-02T05:04:58.0090225+00:00"
 }

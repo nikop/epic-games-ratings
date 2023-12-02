@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -439,9 +439,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 43220,
+  "EOS_Progressed": 43223,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 244,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13929,6 +13929,11 @@
       "Time": "2023-12-02T04:07:53.3617666+00:00",
       "NumProgressed": 43220,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-02T05:08:12.7079497+00:00",
+      "NumProgressed": 43223,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -14092,7 +14097,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3025
+      "UsersEstimate": 3026
     },
     {
       "ID": "CUFF_ATTACK",
@@ -14363,22 +14368,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 43220,
+      "Progressed": 43223,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 8057,
-      "Completed": 8057
+      "Progressed": 8060,
+      "Completed": 8060
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-01T17:57:27.5259464+00:00",
-  "LastChanged_Achievements": "2023-12-02T04:07:53.3617664+00:00",
+  "LastChanged_Achievements": "2023-12-02T05:08:12.7079495+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:10.8816772+00:00",
-  "LastUpdate_Ratings": "2023-12-02T03:57:43.0714382+00:00",
-  "LastUpdate_Achievements": "2023-12-02T04:07:53.3618435+00:00"
+  "LastUpdate_Ratings": "2023-12-02T04:57:54.2786134+00:00",
+  "LastUpdate_Achievements": "2023-12-02T05:08:12.7080393+00:00"
 }

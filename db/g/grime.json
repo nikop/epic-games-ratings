@@ -2,13 +2,13 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 448,
+  "Ranking_Rating": 434,
   "Ranking_Popularity": 425,
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 78,
-  "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 5,
+  "Ranking_EOS_Completed": 304,
+  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -21,7 +21,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.58,
+  "Rating": 4.59,
   "NumberOfRatings": 46,
   "RatingHistory": [
     {
@@ -1529,6 +1529,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 390,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2023-12-02T04:58:20.8154446+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 390,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
@@ -1591,11 +1597,11 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 160809,
-  "EOS_Completed": 104,
-  "EOS_NewPlayers": 873,
-  "EOS_NewCompleters": 103,
-  "EOS_Completed_Percentage": 0.06,
+  "EOS_Progressed": 160815,
+  "EOS_Completed": 107,
+  "EOS_NewPlayers": 872,
+  "EOS_NewCompleters": 106,
+  "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:06.2765882+00:00",
@@ -17636,6 +17642,11 @@
       "Time": "2023-12-02T04:04:02.331157+00:00",
       "NumProgressed": 160809,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2023-12-02T05:04:11.7285568+00:00",
+      "NumProgressed": 160815,
+      "NumCompleted": 107
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -18015,21 +18026,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 160392,
+      "Progressed": 160398,
       "Completed": 1229
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 160809,
-      "Completed": 104
+      "Progressed": 160815,
+      "Completed": 107
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-12-01T04:58:08.6870551+00:00",
-  "LastChanged_Achievements": "2023-12-02T04:04:02.3311567+00:00",
+  "LastChanged": "2023-12-02T04:58:20.8154445+00:00",
+  "LastChanged_Achievements": "2023-12-02T05:04:11.7285564+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.8251651+00:00",
-  "LastUpdate_Ratings": "2023-12-02T03:58:09.8738392+00:00",
-  "LastUpdate_Achievements": "2023-12-02T04:04:02.331237+00:00"
+  "LastUpdate_Ratings": "2023-12-02T04:58:20.8154449+00:00",
+  "LastUpdate_Achievements": "2023-12-02T05:04:11.7286478+00:00"
 }

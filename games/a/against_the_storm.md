@@ -20,6 +20,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fox Utopia | 0.20% | ~35 |
 | Serving Ale | 0.10% | ~18 |
 | Feeding The People | 0.10% | ~18 |
+| Higher Needs | 0.10% | ~18 |
 | Human Utopia | 0.10% | ~18 |
 | Lizard Utopia | 0.10% | ~18 |
 | Efficient Explorer | 0.10% | ~18 |
@@ -60,7 +61,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Defying the Crown | 0.10% | ~18 |
 | Into the Forest | 0.10% | ~18 |
 | Paradise | 0.00% | ~0 |
-| Higher Needs | 0.00% | ~0 |
 | Beaver Utopia | 0.00% | ~0 |
 | Harpy Utopia | 0.00% | ~0 |
 | The Queen's Chosen | 0.00% | ~0 |
@@ -295,13 +295,13 @@ Completed: 49 (0.28%) (Ranked 243)
 | 2023-12-02 | 17,559 | 49 |
 ## Awards
 Max (Quickly Understood Controls): 441  (Ranked 223)  
-Sum: 3,237 (Ranked 173)  
+Sum: 3,238 (Ranked 173)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 441 |
 | This game is Relaxing | 431 |
-| This game is Great for Beginners | 421 |
+| This game is Great for Beginners | 422 |
 | This game is Extremely Fun | 408 |
 | This game is Highly Recommended | 390 |
 | This game has Unique Visuals | 327 |
@@ -554,3 +554,4 @@ Diff (max vs sum): 50
 | 2023-11-29 | 4.81 | - | 441 | 3,235 |
 | 2023-11-30 | 4.81 | - | 441 | 3,236 |
 | 2023-12-01 | 4.81 | - | 441 | 3,237 |
+| 2023-12-02 | 4.81 | - | 441 | 3,238 |

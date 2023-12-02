@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -3259,10 +3259,10 @@
       "Count": 254
     }
   ],
-  "EOS_Progressed": 84666,
-  "EOS_Completed": 168,
-  "EOS_NewPlayers": 821,
-  "EOS_NewCompleters": 3,
+  "EOS_Progressed": 84667,
+  "EOS_Completed": 169,
+  "EOS_NewPlayers": 814,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -28444,6 +28444,11 @@
       "Time": "2023-12-02T04:05:45.1683334+00:00",
       "NumProgressed": 84666,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-12-02T05:05:54.9624643+00:00",
+      "NumProgressed": 84667,
+      "NumCompleted": 169
     }
   ],
   "TotalAchievements": 30,
@@ -28535,7 +28540,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 31326
+      "UsersEstimate": 31327
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -28543,7 +28548,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 23706
+      "UsersEstimate": 23707
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -28694,15 +28699,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 84666,
-      "Completed": 168
+      "Progressed": 84667,
+      "Completed": 169
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-12-01T18:59:28.7925901+00:00",
-  "LastChanged_Achievements": "2023-12-02T04:05:45.1683331+00:00",
+  "LastChanged_Achievements": "2023-12-02T05:05:54.9624639+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:29.0449406+00:00",
-  "LastUpdate_Ratings": "2023-12-02T03:59:29.8966819+00:00",
-  "LastUpdate_Achievements": "2023-12-02T04:05:45.1684741+00:00"
+  "LastUpdate_Ratings": "2023-12-02T04:59:40.3269526+00:00",
+  "LastUpdate_Achievements": "2023-12-02T05:05:54.9626049+00:00"
 }

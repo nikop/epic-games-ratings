@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | Maxed Out! | 0.10% | ~232 |
 | A Foul Feast | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,426 (Ranked 69)  
+Progressed: 232,458 (Ranked 69)  
 Completed: 546 (0.23%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,10 +200,10 @@ Completed: 546 (0.23%) (Ranked 251)
 | 2023-11-29 | 230,694 | 542 |
 | 2023-11-30 | 231,406 | 542 |
 | 2023-12-01 | 232,269 | 546 |
-| 2023-12-02 | 232,426 | 546 |
+| 2023-12-02 | 232,458 | 546 |
 ## Awards
 Max (Great Boss Battles): 2,558  (Ranked 102)  
-Sum: 6,272 (Ranked 129)  
+Sum: 6,274 (Ranked 129)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
@@ -217,7 +217,7 @@ Diff (max vs sum): -27
 | This game has Quickly Understood Controls | 374 |
 | This game has Amazing Characters | 368 |
 | This game has Unique Visuals | 314 |
-| This game has a Creative Community | 285 |
+| This game has a Creative Community | 287 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -350,4 +350,4 @@ Diff (max vs sum): -27
 | 2023-11-29 | 4.75 | 2,518 | 6,163 |
 | 2023-11-30 | 4.75 | 2,533 | 6,208 |
 | 2023-12-01 | 4.75 | 2,558 | 6,266 |
-| 2023-12-02 | 4.75 | 2,558 | 6,272 |
+| 2023-12-02 | 4.75 | 2,558 | 6,274 |

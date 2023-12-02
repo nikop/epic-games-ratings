@@ -2,7 +2,7 @@
   "ID": "f672c20984f04f69936e6057feefe3d1",
   "Name": "Sunless Sea",
   "ProductSlug": "sunless-sea",
-  "Ranking_Rating": 448,
+  "Ranking_Rating": 449,
   "Ranking_Popularity": 281,
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 121,
@@ -754,9 +754,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 41490,
+  "EOS_Progressed": 41491,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 359,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -23719,6 +23719,11 @@
       "Time": "2023-12-02T04:08:01.3177858+00:00",
       "NumProgressed": 41490,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-02T05:08:20.621467+00:00",
+      "NumProgressed": 41491,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -23850,7 +23855,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 14936
+      "UsersEstimate": 14937
     },
     {
       "ID": "ach_die10",
@@ -24058,7 +24063,7 @@
       "Name": "Zee Fever",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2074
+      "UsersEstimate": 2075
     },
     {
       "ID": "ach_stranger",
@@ -24161,15 +24166,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 41490,
+      "Progressed": 41491,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-11-28T11:59:28.088711+00:00",
-  "LastChanged_Achievements": "2023-12-02T04:08:01.3177855+00:00",
+  "LastChanged_Achievements": "2023-12-02T05:08:20.6214667+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:59.5207793+00:00",
-  "LastUpdate_Ratings": "2023-12-02T04:02:29.1361119+00:00",
-  "LastUpdate_Achievements": "2023-12-02T04:08:01.3179248+00:00"
+  "LastUpdate_Ratings": "2023-12-02T05:02:38.2624934+00:00",
+  "LastUpdate_Achievements": "2023-12-02T05:08:20.6216199+00:00"
 }

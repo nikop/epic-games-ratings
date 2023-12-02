@@ -2970,9 +2970,9 @@
       "ID": "GSS_ACH_23_LOCKPICKING_03",
       "SetID": "5fn8ia4",
       "Name": "Just Checking!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 373
     },
     {
       "ID": "GSS_ACH_25_DENNIS",
@@ -3106,9 +3106,9 @@
       "ID": "GSS_ACH_41_PARTY_BUS",
       "SetID": "5fn8ia4",
       "Name": "Party Bus",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 734
+      "UsersEstimate": 746
     },
     {
       "ID": "GSS_ACH_42_CARAVAN_01",
@@ -3451,8 +3451,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-28T04:59:34.1023632+00:00",
-  "LastChanged_Achievements": "2023-12-02T04:05:20.0712947+00:00",
+  "LastChanged_Achievements": "2023-12-02T05:05:29.5636945+00:00",
   "LastUpdate_AppInfo": "2023-11-27T17:57:10.8459621+00:00",
-  "LastUpdate_Ratings": "2023-12-02T03:57:55.6799588+00:00",
-  "LastUpdate_Achievements": "2023-12-02T04:05:20.0713753+00:00"
+  "LastUpdate_Ratings": "2023-12-02T04:58:06.7082089+00:00",
+  "LastUpdate_Achievements": "2023-12-02T05:05:29.5637902+00:00"
 }

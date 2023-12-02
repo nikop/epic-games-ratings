@@ -20,7 +20,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Seller | 24.00% | ~1,769 |
 | Prestige Victory! | 13.00% | ~958 |
 | Galactic War | 10.00% | ~737 |
-| Trading Partner | 8.00% | ~590 |
+| Trading Partner | 9.00% | ~663 |
 | Fleet Victory | 8.00% | ~590 |
 | Gain an Ally | 6.00% | ~442 |
 | Win as Terrans | 6.00% | ~442 |

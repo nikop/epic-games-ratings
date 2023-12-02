@@ -12,20 +12,20 @@ Number of Ratings: 12,664  (23.09.2022)
 | Tinkle of Coins | 6.00% | ~8,599 |
 | Disintermediation | 5.00% | ~7,166 |
 | Capitalism Ho! | 5.00% | ~7,166 |
-| One Easy Payment | 4.00% | ~5,732 |
-| Some Assembly Required | 4.00% | ~5,732 |
-| Another Satisfied Customer | 4.00% | ~5,732 |
-| It's Free Real Estate | 4.00% | ~5,732 |
-| Budding Merchant | 4.00% | ~5,732 |
-| Own the Means of Production | 4.00% | ~5,732 |
-| The Daily Grind | 3.00% | ~4,299 |
-| Bounty Hunters | 3.00% | ~4,299 |
-| Flooding the Market | 3.00% | ~4,299 |
-| Where it Hurts | 3.00% | ~4,299 |
-| Pretty Penny | 3.00% | ~4,299 |
-| One-Armed Bandit | 3.00% | ~4,299 |
-| Dungeon Imports | 3.00% | ~4,299 |
-| Through Repetition, Perfection | 3.00% | ~4,299 |
+| One Easy Payment | 4.00% | ~5,733 |
+| Some Assembly Required | 4.00% | ~5,733 |
+| Another Satisfied Customer | 4.00% | ~5,733 |
+| It's Free Real Estate | 4.00% | ~5,733 |
+| Budding Merchant | 4.00% | ~5,733 |
+| Own the Means of Production | 4.00% | ~5,733 |
+| The Daily Grind | 3.00% | ~4,300 |
+| Bounty Hunters | 3.00% | ~4,300 |
+| Flooding the Market | 3.00% | ~4,300 |
+| Where it Hurts | 3.00% | ~4,300 |
+| Pretty Penny | 3.00% | ~4,300 |
+| One-Armed Bandit | 3.00% | ~4,300 |
+| Dungeon Imports | 3.00% | ~4,300 |
+| Through Repetition, Perfection | 3.00% | ~4,300 |
 | On the Path to Greatness | 2.00% | ~2,866 |
 | A Notch Above the Rest | 2.00% | ~2,866 |
 | Ascended | 2.00% | ~2,866 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~430 |
 | Capitalist Camaraderie | 0.20% | ~287 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 143,310 (Ranked 80)  
+Progressed: 143,317 (Ranked 80)  
 Completed: 290 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,7 +345,7 @@ Completed: 290 (0.20%) (Ranked 258)
 | 2023-11-29 | 142,879 | 289 |
 | 2023-11-30 | 143,035 | 290 |
 | 2023-12-01 | 143,280 | 290 |
-| 2023-12-02 | 143,310 | 290 |
+| 2023-12-02 | 143,317 | 290 |
 ## Awards
 Max (Great for Beginners): 4,859  (Ranked 75)  
 Sum: 27,645 (Ranked 50)  

@@ -20,8 +20,8 @@ Rating: 3.95 (Ranked 1,015)
 | Dragonslayer | 1.00% | ~917 |
 | Rockay Rex | 1.00% | ~917 |
 | True Player | 0.90% | ~825 |
-| Track Star | 0.80% | ~733 |
-| Headhunter | 0.80% | ~733 |
+| Track Star | 0.80% | ~734 |
+| Headhunter | 0.80% | ~734 |
 | I Like Trains | 0.60% | ~550 |
 | Freebooter | 0.60% | ~550 |
 | Legend Looter | 0.50% | ~458 |
@@ -47,8 +47,8 @@ Rating: 3.95 (Ranked 1,015)
 | Full House | 0.10% | ~92 |
 | Geek Out | 0.10% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,686 (Ranked 92)  
-Completed: 58 (0.06%) (Ranked 310)  
+Progressed: 91,688 (Ranked 92)  
+Completed: 58 (0.06%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -273,10 +273,10 @@ Completed: 58 (0.06%) (Ranked 310)
 | 2023-11-29 | 91,661 | 58 |
 | 2023-11-30 | 91,670 | 58 |
 | 2023-12-01 | 91,683 | 58 |
-| 2023-12-02 | 91,686 | 58 |
+| 2023-12-02 | 91,688 | 58 |
 ## Awards
 Max (Diverse Characters): 548  (Ranked 206)  
-Sum: 3,139 (Ranked 175)  
+Sum: 3,141 (Ranked 175)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -284,7 +284,7 @@ Diff (max vs sum): 31
 | This game is Highly Recommended | 539 |
 | This game has Quickly Understood Controls | 524 |
 | This game has Challenging Combat | 514 |
-| This game has Amazing Characters | 507 |
+| This game has Amazing Characters | 509 |
 | This game is Extremely Fun | 507 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
@@ -536,3 +536,4 @@ Diff (max vs sum): 31
 | 2023-11-29 | 3.95 | 547 | 2,620 |
 | 2023-11-30 | 3.95 | 547 | 2,623 |
 | 2023-12-01 | 3.95 | 548 | 3,139 |
+| 2023-12-02 | 3.95 | 548 | 3,141 |

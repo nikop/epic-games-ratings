@@ -241,9 +241,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15825,
+  "EOS_Progressed": 15827,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 368,
+  "EOS_NewPlayers": 369,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -12856,6 +12856,11 @@
       "Time": "2023-12-02T04:04:09.9616408+00:00",
       "NumProgressed": 15825,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-02T05:04:19.3990522+00:00",
+      "NumProgressed": 15827,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12956,7 +12961,7 @@
       "Name": "Data Logger",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "20",
@@ -12996,7 +13001,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "25",
@@ -13068,7 +13073,7 @@
       "Name": "Data Master",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "6",
@@ -13147,13 +13152,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15825,
+      "Progressed": 15827,
       "Completed": 39
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1779,
+      "Progressed": 1781,
       "Completed": 770
     }
   ],
@@ -13161,8 +13166,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-28T18:00:52.6774218+00:00",
-  "LastChanged_Achievements": "2023-12-02T04:04:09.9616405+00:00",
+  "LastChanged_Achievements": "2023-12-02T05:04:19.3990519+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-12-02T04:02:43.9654979+00:00",
-  "LastUpdate_Achievements": "2023-12-02T04:04:09.9617277+00:00"
+  "LastUpdate_Ratings": "2023-12-02T05:02:53.1286981+00:00",
+  "LastUpdate_Achievements": "2023-12-02T05:04:19.3991327+00:00"
 }

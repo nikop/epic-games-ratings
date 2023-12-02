@@ -28,9 +28,9 @@ Rating: 4.55 (Ranked 509)
 | Doctor Approved | 3.00% | ~475 |
 | Bottoms up! | 3.00% | ~475 |
 | Thorston Mayer | 3.00% | ~475 |
-| Data Logger | 2.00% | ~316 |
-| Miraculous Maya | 2.00% | ~316 |
-| Data Master | 2.00% | ~316 |
+| Data Logger | 2.00% | ~317 |
+| Miraculous Maya | 2.00% | ~317 |
+| Data Master | 2.00% | ~317 |
 | Brother's Reaper | 1.00% | ~158 |
 | No Belter Left Behind | 1.00% | ~158 |
 | Debris Spree | 1.00% | ~158 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 509)
 | Scavenger Star | 0.10% | ~16 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,825 (Ranked 151)  
+Progressed: 15,827 (Ranked 151)  
 Completed: 39 (0.25%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 39 (0.25%) (Ranked 249)
 | 2023-11-29 | 15,765 | 39 |
 | 2023-11-30 | 15,794 | 39 |
 | 2023-12-01 | 15,822 | 39 |
-| 2023-12-02 | 15,825 | 39 |
+| 2023-12-02 | 15,827 | 39 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

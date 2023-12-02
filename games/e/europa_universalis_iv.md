@@ -226,6 +226,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Grand Armada | 0.10% | ~467 |
 | The Navigator | 0.10% | ~467 |
 | The pen is mightier than the sword | 0.10% | ~467 |
+| The Pheasant Strut | 0.10% | ~467 |
 | The Power of Three | 0.10% | ~467 |
 | The Princess is in this Castle | 0.10% | ~467 |
 | The Re-Reconquista | 0.10% | ~467 |
@@ -349,7 +350,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Great Khan | 0.00% | ~0 |
 | The League of Mayapan | 0.00% | ~0 |
 | The Ostenders | 0.00% | ~0 |
-| The Pheasant Strut | 0.00% | ~0 |
 | The Third Way | 0.00% | ~0 |
 | The Three Mountains | 0.00% | ~0 |
 | Tiger of Mysore | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 467,278 (Ranked 41)  
+Progressed: 467,299 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -596,7 +596,7 @@ Completed: 1 (0.00%) (Ranked 365)
 | 2023-11-29 | 465,985 | 1 |
 | 2023-11-30 | 466,525 | 1 |
 | 2023-12-01 | 467,159 | 1 |
-| 2023-12-02 | 467,278 | 1 |
+| 2023-12-02 | 467,299 | 1 |
 ## Awards
 Max (Educational): 7,225  (Ranked 54)  
 Sum: 59,450 (Ranked 24)  

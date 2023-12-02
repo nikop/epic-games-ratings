@@ -6,7 +6,7 @@
   "Ranking_Popularity": 365,
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 102,
-  "Ranking_EOS_Completed": 310,
+  "Ranking_EOS_Completed": 311,
   "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
@@ -1123,10 +1123,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 399,
       "NumberOfAwardsMax": 98
+    },
+    {
+      "Time": "2023-12-02T04:59:20.0204734+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 400,
+      "NumberOfAwardsMax": 98
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 399,
+  "NumberOfAwards": 400,
   "NumberOfAwardsMax": 98,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1170,7 +1176,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 38
+      "Count": 39
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1191,7 +1197,7 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 67872,
+  "EOS_Progressed": 67874,
   "EOS_Completed": 38,
   "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 2,
@@ -11136,6 +11142,11 @@
       "Time": "2023-12-02T04:05:45.4921497+00:00",
       "NumProgressed": 67872,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-02T05:05:55.2960032+00:00",
+      "NumProgressed": 67874,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -11148,7 +11159,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23755
+      "UsersEstimate": 23756
     },
     {
       "ID": "10",
@@ -11220,7 +11231,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8823
+      "UsersEstimate": 8824
     },
     {
       "ID": "4",
@@ -11275,16 +11286,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 67872,
+      "Progressed": 67874,
       "Completed": 38
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-12-01T20:00:13.5646044+00:00",
-  "LastChanged_Achievements": "2023-12-02T04:05:45.4921495+00:00",
+  "LastChanged": "2023-12-02T04:59:20.0204733+00:00",
+  "LastChanged_Achievements": "2023-12-02T05:05:55.2960025+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:13.9511371+00:00",
-  "LastUpdate_Ratings": "2023-12-02T03:59:09.2845977+00:00",
-  "LastUpdate_Achievements": "2023-12-02T04:05:45.492205+00:00"
+  "LastUpdate_Ratings": "2023-12-02T04:59:20.0204737+00:00",
+  "LastUpdate_Achievements": "2023-12-02T05:05:55.2960505+00:00"
 }

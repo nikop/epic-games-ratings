@@ -8949,7 +8949,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 810709,
+  "EOS_Progressed": 810711,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 974,
   "EOS_NewCompleters": 0,
@@ -34329,6 +34329,11 @@
       "Time": "2023-12-02T04:08:40.288835+00:00",
       "NumProgressed": 810709,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-02T05:08:59.2782567+00:00",
+      "NumProgressed": 810711,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 82,
@@ -34364,7 +34369,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 129713
+      "UsersEstimate": 129714
     },
     {
       "ID": "Awakening",
@@ -34388,7 +34393,7 @@
       "Name": "Bad Trip",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40535
+      "UsersEstimate": 40536
     },
     {
       "ID": "Bailiff",
@@ -34420,7 +34425,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 259427
+      "UsersEstimate": 259428
     },
     {
       "ID": "Bookworm",
@@ -34428,7 +34433,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 121606
+      "UsersEstimate": 121607
     },
     {
       "ID": "Buddy",
@@ -34452,7 +34457,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 202677
+      "UsersEstimate": 202678
     },
     {
       "ID": "Chivalrous",
@@ -34540,7 +34545,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 186463
+      "UsersEstimate": 186464
     },
     {
       "ID": "Fighter",
@@ -34556,7 +34561,7 @@
       "Name": "Firestarter",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 129713
+      "UsersEstimate": 129714
     },
     {
       "ID": "Freud",
@@ -34764,7 +34769,7 @@
       "Name": "Monk",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40535
+      "UsersEstimate": 40536
     },
     {
       "ID": "NotSoChristianBurial",
@@ -34868,7 +34873,7 @@
       "Name": "Serial Killer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40535
+      "UsersEstimate": 40536
     },
     {
       "ID": "Sinner",
@@ -34995,15 +35000,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 810709,
+      "Progressed": 810711,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-12-01T19:00:23.8227053+00:00",
-  "LastChanged_Achievements": "2023-12-02T04:08:40.2888349+00:00",
+  "LastChanged_Achievements": "2023-12-02T05:08:59.2782564+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:02.8106757+00:00",
-  "LastUpdate_Ratings": "2023-12-02T03:57:06.2885335+00:00",
-  "LastUpdate_Achievements": "2023-12-02T04:08:40.2889892+00:00"
+  "LastUpdate_Ratings": "2023-12-02T04:57:17.735201+00:00",
+  "LastUpdate_Achievements": "2023-12-02T05:08:59.2784411+00:00"
 }

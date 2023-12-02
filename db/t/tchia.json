@@ -251,7 +251,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7850,
+  "EOS_Progressed": 7851,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
@@ -8586,6 +8586,11 @@
       "Time": "2023-12-02T04:03:47.2211091+00:00",
       "NumProgressed": 7850,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-02T05:03:56.6073402+00:00",
+      "NumProgressed": 7851,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -8629,7 +8634,7 @@
       "Name": "\u00C7a de Wizz!",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "CLAY_PIGEON",
@@ -8645,7 +8650,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1334
+      "UsersEstimate": 1335
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -8677,7 +8682,7 @@
       "Name": "Happy Camper",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "HISTORIAN",
@@ -8701,7 +8706,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1648
+      "UsersEstimate": 1649
     },
     {
       "ID": "LIBERATOR",
@@ -8709,7 +8714,7 @@
       "Name": "Liberator",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "LIVE_WIRE",
@@ -8725,7 +8730,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "SNIP_SNIP",
@@ -8757,14 +8762,14 @@
       "Name": "Thing",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     }
   ],
   "AchievementSets": [
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7850,
+      "Progressed": 7851,
       "Completed": 34
     }
   ],
@@ -8772,8 +8777,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-30T18:59:17.1585861+00:00",
-  "LastChanged_Achievements": "2023-12-02T04:03:47.2211088+00:00",
+  "LastChanged_Achievements": "2023-12-02T05:03:56.6073397+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:19.2388904+00:00",
-  "LastUpdate_Ratings": "2023-12-02T03:59:10.5391181+00:00",
-  "LastUpdate_Achievements": "2023-12-02T04:03:47.22116+00:00"
+  "LastUpdate_Ratings": "2023-12-02T04:59:21.3715472+00:00",
+  "LastUpdate_Achievements": "2023-12-02T05:03:56.6073918+00:00"
 }

@@ -6,26 +6,26 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 28.00% | ~16,044 |
-| Student | 22.00% | ~12,606 |
-| Knower | 16.00% | ~9,168 |
-| Listener | 15.00% | ~8,595 |
-| Aspen Tree | 14.00% | ~8,022 |
-| Healer | 14.00% | ~8,022 |
-| Soldier | 12.00% | ~6,876 |
-| Cow Level | 11.00% | ~6,303 |
-| Scientist | 11.00% | ~6,303 |
-| Herbalist | 10.00% | ~5,730 |
-| Water | 10.00% | ~5,730 |
-| Old Friend | 9.00% | ~5,157 |
-| New Spirits | 9.00% | ~5,157 |
-| Voipel | 9.00% | ~5,157 |
-| Wolf | 9.00% | ~5,157 |
-| Black Mage | 9.00% | ~5,157 |
-| Card Player | 8.00% | ~4,584 |
-| Dead Friend | 8.00% | ~4,584 |
-| Pine Tree | 8.00% | ~4,584 |
-| Collector | 8.00% | ~4,584 |
+| Initiation | 28.00% | ~16,046 |
+| Student | 22.00% | ~12,608 |
+| Knower | 16.00% | ~9,169 |
+| Listener | 15.00% | ~8,596 |
+| Aspen Tree | 14.00% | ~8,023 |
+| Healer | 14.00% | ~8,023 |
+| Soldier | 12.00% | ~6,877 |
+| Cow Level | 11.00% | ~6,304 |
+| Scientist | 11.00% | ~6,304 |
+| Herbalist | 10.00% | ~5,731 |
+| Water | 10.00% | ~5,731 |
+| Old Friend | 9.00% | ~5,158 |
+| New Spirits | 9.00% | ~5,158 |
+| Voipel | 9.00% | ~5,158 |
+| Wolf | 9.00% | ~5,158 |
+| Black Mage | 9.00% | ~5,158 |
+| Card Player | 8.00% | ~4,585 |
+| Dead Friend | 8.00% | ~4,585 |
+| Pine Tree | 8.00% | ~4,585 |
+| Collector | 8.00% | ~4,585 |
 | Worthy | 7.00% | ~4,011 |
 | Black Book | 7.00% | ~4,011 |
 | Black Sorcerer | 7.00% | ~4,011 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,146 |
 | Word Master | 0.20% | ~115 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,300 (Ranked 109)  
+Progressed: 57,307 (Ranked 109)  
 Completed: 57 (0.10%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,11 +155,11 @@ Completed: 57 (0.10%) (Ranked 287)
 | 2023-11-29 | 56,849 | 56 |
 | 2023-11-30 | 57,036 | 57 |
 | 2023-12-01 | 57,255 | 57 |
-| 2023-12-02 | 57,300 | 57 |
+| 2023-12-02 | 57,307 | 57 |
 ## Awards
 Max (Character Customization): 92  (Ranked 379)  
-Sum: 92 (Ranked 456)  
-Diff (max vs sum): -77  
+Sum: 92 (Ranked 457)  
+Diff (max vs sum): -78  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 92 |

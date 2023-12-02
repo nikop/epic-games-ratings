@@ -1,7 +1,7 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.58 (Ranked 448)  
+Rating: 4.58 (Ranked 449)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -26,6 +26,7 @@ Number of Ratings: 371  (23.09.2022)
 | Efficient Killer | 2.00% | ~67 |
 | Just a Scratch | 2.00% | ~67 |
 | Hive Exterminator | 2.00% | ~67 |
+| Fleetmaster | 1.00% | ~33 |
 | Daemonkeeper | 1.00% | ~33 |
 | Exterminator | 1.00% | ~33 |
 | Mind Like a Fortress | 1.00% | ~33 |
@@ -36,7 +37,6 @@ Number of Ratings: 371  (23.09.2022)
 | Tactical Flexibility | 1.00% | ~33 |
 | Execution Force | 1.00% | ~33 |
 | Tactical Sabotage | 1.00% | ~33 |
-| Fleetmaster | 0.90% | ~30 |
 | For the Machine God | 0.90% | ~30 |
 | Preservationist | 0.90% | ~30 |
 | Death Comes For All | 0.90% | ~30 |

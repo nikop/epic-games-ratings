@@ -2,12 +2,12 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 448,
+  "Ranking_Rating": 449,
   "Ranking_Popularity": 276,
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -767,7 +767,7 @@
   ],
   "EOS_Progressed": 3331,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4116,9 +4116,9 @@
       "ID": "FleetMaster",
       "SetID": "2im8phi",
       "Name": "Fleetmaster",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 33
     },
     {
       "ID": "ForTheMachineGod",
@@ -4562,8 +4562,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-11-27T02:25:17.2504354+00:00",
-  "LastChanged_Achievements": "2023-12-02T04:04:03.1116057+00:00",
+  "LastChanged_Achievements": "2023-12-02T05:04:12.5126368+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:37.9656005+00:00",
-  "LastUpdate_Ratings": "2023-12-02T04:02:49.5059688+00:00",
-  "LastUpdate_Achievements": "2023-12-02T04:04:03.1116627+00:00"
+  "LastUpdate_Ratings": "2023-12-02T05:02:58.6798306+00:00",
+  "LastUpdate_Achievements": "2023-12-02T05:04:12.5126944+00:00"
 }

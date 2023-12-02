@@ -844,9 +844,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 354844,
+  "EOS_Progressed": 354846,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 934,
+  "EOS_NewPlayers": 931,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26484,6 +26484,11 @@
       "Time": "2023-12-02T04:03:47.8024415+00:00",
       "NumProgressed": 354844,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-02T05:03:57.2935329+00:00",
+      "NumProgressed": 354846,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -26511,7 +26516,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42581
+      "UsersEstimate": 42582
     },
     {
       "ID": "ach004",
@@ -26551,7 +26556,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42581
+      "UsersEstimate": 42582
     },
     {
       "ID": "ach009",
@@ -26703,7 +26708,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 163228
+      "UsersEstimate": 163229
     },
     {
       "ID": "ach028",
@@ -26799,7 +26804,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35484
+      "UsersEstimate": 35485
     },
     {
       "ID": "ach040",
@@ -26959,7 +26964,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35484
+      "UsersEstimate": 35485
     },
     {
       "ID": "ach060",
@@ -27134,7 +27139,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 354844,
+      "Progressed": 354846,
       "Completed": 7
     }
   ],
@@ -27142,8 +27147,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-12-01T16:02:58.3539943+00:00",
-  "LastChanged_Achievements": "2023-12-02T04:03:47.8024413+00:00",
+  "LastChanged_Achievements": "2023-12-02T05:03:57.2935326+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.701398+00:00",
-  "LastUpdate_Ratings": "2023-12-02T04:02:44.587793+00:00",
-  "LastUpdate_Achievements": "2023-12-02T04:03:47.8026481+00:00"
+  "LastUpdate_Ratings": "2023-12-02T05:02:53.7421387+00:00",
+  "LastUpdate_Achievements": "2023-12-02T05:03:57.2936914+00:00"
 }

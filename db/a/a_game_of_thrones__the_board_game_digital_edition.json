@@ -1326,7 +1326,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 29514,
+  "EOS_Progressed": 29517,
   "EOS_Completed": 81,
   "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 2,
@@ -25541,6 +25541,11 @@
       "Time": "2023-12-02T04:09:01.3621762+00:00",
       "NumProgressed": 29514,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-12-02T05:09:21.0043474+00:00",
+      "NumProgressed": 29517,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 22,
@@ -25616,7 +25621,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "1024",
@@ -25648,7 +25653,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "1028",
@@ -25688,7 +25693,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11806
+      "UsersEstimate": 11807
     },
     {
       "ID": "1033",
@@ -25696,7 +25701,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "1034",
@@ -25727,15 +25732,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 29514,
+      "Progressed": 29517,
       "Completed": 81
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-24T16:03:24.7183261+00:00",
-  "LastChanged_Achievements": "2023-12-02T04:09:01.3621761+00:00",
+  "LastChanged_Achievements": "2023-12-02T05:09:21.004347+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:55.1522502+00:00",
-  "LastUpdate_Ratings": "2023-12-02T04:00:10.7498167+00:00",
-  "LastUpdate_Achievements": "2023-12-02T04:09:01.3622766+00:00"
+  "LastUpdate_Ratings": "2023-12-02T05:00:21.4420271+00:00",
+  "LastUpdate_Achievements": "2023-12-02T05:09:21.0044732+00:00"
 }

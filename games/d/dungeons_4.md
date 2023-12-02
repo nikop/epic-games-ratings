@@ -18,9 +18,9 @@
 | Unicorn steaks – fresh off the hoof! | 60.00% | ~308 |
 | Magic Accidents | 58.00% | ~298 |
 | Trap Master | 56.00% | ~287 |
-| Minions, Minions! | 53.00% | ~272 |
-| The Ascent | 53.00% | ~272 |
-| It's Warm and Cozy at Home | 53.00% | ~272 |
+| Minions, Minions! | 54.00% | ~277 |
+| The Ascent | 54.00% | ~277 |
+| It's Warm and Cozy at Home | 54.00% | ~277 |
 | Hard Work | 49.00% | ~251 |
 | YOU SHALL NOT PASS! | 47.00% | ~241 |
 | The Big Eaty | 46.00% | ~236 |
@@ -43,7 +43,7 @@
 | The Finitude Drill | 21.00% | ~108 |
 | Stop Tanos! | 19.00% | ~97 |
 | Doom Hill | 19.00% | ~97 |
-| Sabotage! | 17.00% | ~87 |
+| Sabotage! | 18.00% | ~92 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~82 |
 | Bonus Evilness | 16.00% | ~82 |
 | Brimstone Shaken, Not Stirred | 16.00% | ~82 |
