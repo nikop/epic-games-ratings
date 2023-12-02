@@ -2,10 +2,10 @@
   "ID": "ccece943516546b7ac1fa4e00b2c3944",
   "Name": "THE MEME HUNTER",
   "ProductSlug": "the-meme-hunter-bf7086",
-  "Ranking_EOS_Progress": 770,
+  "Ranking_EOS_Progress": 771,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 495,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-11-20T06:00:00+00:00",
     "PcReleaseDate": "2023-03-02T06:30:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-22T19:01:14.4047134+00:00",
   "LastUpdate_AppInfo": "2023-11-30T23:57:07.4687359+00:00",
-  "LastUpdate_Ratings": "2023-12-02T02:57:37.8304015+00:00",
-  "LastUpdate_Achievements": "2023-12-02T03:08:13.2351912+00:00"
+  "LastUpdate_Ratings": "2023-12-02T03:57:46.6277329+00:00",
+  "LastUpdate_Achievements": "2023-12-02T04:08:16.537408+00:00"
 }

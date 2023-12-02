@@ -33,7 +33,7 @@
 | Omnivore | 1.00% | ~5 |
 | Endling | 0.90% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 547 (Ranked 306)  
+Progressed: 547 (Ranked 307)  
 Completed: 3 (0.55%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |

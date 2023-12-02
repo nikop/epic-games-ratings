@@ -18,8 +18,8 @@
 | Break Time | 34.00% | ~14 |
 | Master of the Rope | 32.00% | ~13 |
 | Training Day | 32.00% | ~13 |
+| In the Air | 32.00% | ~13 |
 | The Fastest | 29.00% | ~12 |
-| In the Air | 29.00% | ~12 |
 | Never Miss | 29.00% | ~12 |
 | Animal Sighting | 24.00% | ~10 |
 | Don’t Miss Any | 24.00% | ~10 |

@@ -2,10 +2,10 @@
   "ID": "d9d2436669b34bb09595b0a997509eda",
   "Name": "Reiwa outliers",
   "ProductSlug": "linghehanjianwuyu-cf98a0",
-  "Ranking_EOS_Progress": 770,
+  "Ranking_EOS_Progress": 771,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 495,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-12-08T10:00:00+00:00",
     "PcReleaseDate": "2023-12-08T10:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-30T20:57:09.8662218+00:00",
-  "LastUpdate_Ratings": "2023-12-02T02:57:13.0937965+00:00",
-  "LastUpdate_Achievements": "2023-12-02T03:05:18.4869579+00:00"
+  "LastUpdate_Ratings": "2023-12-02T03:57:23.7575864+00:00",
+  "LastUpdate_Achievements": "2023-12-02T04:05:12.9376979+00:00"
 }

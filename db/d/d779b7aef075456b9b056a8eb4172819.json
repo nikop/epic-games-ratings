@@ -2,10 +2,10 @@
   "ID": "d779b7aef075456b9b056a8eb4172819",
   "Name": "Realms of Alterra: Prologue",
   "ProductSlug": "realms-of-alterra-7735a3",
-  "Ranking_EOS_Progress": 770,
+  "Ranking_EOS_Progress": 771,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 495,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-27T19:57:21.9120652+00:00",
-  "LastUpdate_Ratings": "2023-12-02T03:00:23.2002308+00:00",
-  "LastUpdate_Achievements": "2023-12-02T03:05:14.4483132+00:00"
+  "LastUpdate_Ratings": "2023-12-02T04:00:14.3840181+00:00",
+  "LastUpdate_Achievements": "2023-12-02T04:05:08.8659127+00:00"
 }

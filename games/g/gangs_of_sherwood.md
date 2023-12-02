@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 89.00% | ~39 |
-| Air Fighter | 86.00% | ~38 |
-| Oo-De-Lally | 75.00% | ~33 |
-| The Altruist | 68.00% | ~30 |
-| Treasure Hunter | 64.00% | ~28 |
-| Tap Dancing | 57.00% | ~25 |
-| Watch your Step! | 55.00% | ~24 |
-| MAX LEVEL | 50.00% | ~22 |
-| Right between the eyes | 48.00% | ~21 |
-| Spring Board | 41.00% | ~18 |
-| Starry Night | 36.00% | ~16 |
+| Act of Kindness | 89.00% | ~40 |
+| Air Fighter | 87.00% | ~39 |
+| Oo-De-Lally | 76.00% | ~34 |
+| The Altruist | 69.00% | ~31 |
+| Treasure Hunter | 64.00% | ~29 |
+| Tap Dancing | 58.00% | ~26 |
+| Watch your Step! | 53.00% | ~24 |
+| Right between the eyes | 49.00% | ~22 |
+| MAX LEVEL | 49.00% | ~22 |
+| Spring Board | 40.00% | ~18 |
+| Starry Night | 38.00% | ~17 |
 | Merry Co-operation | 36.00% | ~16 |
-| Savior | 34.00% | ~15 |
-| Rebel Unleashed | 34.00% | ~15 |
-| Finish Him! | 32.00% | ~14 |
-| Locksley's Tears | 32.00% | ~14 |
-| Assault on the Ram | 30.00% | ~13 |
+| Savior | 33.00% | ~15 |
+| Rebel Unleashed | 33.00% | ~15 |
+| Finish Him! | 31.00% | ~14 |
+| Locksley's Tears | 31.00% | ~14 |
+| Assault on the Ram | 29.00% | ~13 |
 | First Aid | 27.00% | ~12 |
-| Ultra Rebel Instinct | 25.00% | ~11 |
-| Merry Go Round | 25.00% | ~11 |
+| Ultra Rebel Instinct | 24.00% | ~11 |
+| Merry Go Round | 24.00% | ~11 |
 | Ultra Combo | 20.00% | ~9 |
 | Take Action! | 20.00% | ~9 |
 | Ascending Will | 18.00% | ~8 |
-| Haute Couture | 14.00% | ~6 |
+| Haute Couture | 13.00% | ~6 |
 | Brilliant Executioner | 11.00% | ~5 |
 | Hidden Experiment | 9.00% | ~4 |
 | Into the Lion's Den | 9.00% | ~4 |
@@ -35,9 +35,9 @@
 | The Gang prevails | 7.00% | ~3 |
 | Out of the ring | 7.00% | ~3 |
 | Sky High Fighter | 7.00% | ~3 |
-| King of the Iron Fist | 5.00% | ~2 |
-| Power of Friendship! | 5.00% | ~2 |
-| Five of Friends | 5.00% | ~2 |
+| King of the Iron Fist | 4.00% | ~2 |
+| Power of Friendship! | 4.00% | ~2 |
+| Five of Friends | 4.00% | ~2 |
 | No Mercy | 2.00% | ~1 |
 | The Crowkiller | 2.00% | ~1 |
 | A Gest of Robyn Hode | 2.00% | ~1 |
@@ -58,7 +58,7 @@
 | Master of All | 0.00% | ~0 |
 | Fashionista | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44 (Ranked 509)  
+Progressed: 45 (Ranked 507)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,3 +71,4 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-29 | 24 | 0 |
 | 2023-11-30 | 30 | 0 |
 | 2023-12-01 | 44 | 0 |
+| 2023-12-02 | 45 | 0 |

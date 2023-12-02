@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44155,
+  "EOS_Progressed": 44156,
   "EOS_Completed": 245,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -18399,6 +18399,11 @@
       "Time": "2023-12-01T23:04:32.8188651+00:00",
       "NumProgressed": 44155,
       "NumCompleted": 245
+    },
+    {
+      "Time": "2023-12-02T04:03:52.1381498+00:00",
+      "NumProgressed": 44156,
+      "NumCompleted": 245
     }
   ],
   "TotalAchievements": 44,
@@ -18410,7 +18415,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25168
+      "UsersEstimate": 25169
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -18434,7 +18439,7 @@
       "Name": "Burning",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7506
+      "UsersEstimate": 7507
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -18530,7 +18535,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35324
+      "UsersEstimate": 35325
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -18602,7 +18607,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16337
+      "UsersEstimate": 16338
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -18634,7 +18639,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 24285
+      "UsersEstimate": 24286
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -18674,7 +18679,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26493
+      "UsersEstimate": 26494
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -18682,7 +18687,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29584
+      "UsersEstimate": 29585
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -18746,7 +18751,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41064
+      "UsersEstimate": 41065
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -18761,7 +18766,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44155,
+      "Progressed": 44156,
       "Completed": 245
     }
   ],
@@ -18769,8 +18774,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-12-02T03:03:50.6405607+00:00",
+  "LastChanged_Achievements": "2023-12-02T04:03:52.1381496+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.6732457+00:00",
-  "LastUpdate_Ratings": "2023-12-02T03:02:44.6317113+00:00",
-  "LastUpdate_Achievements": "2023-12-02T03:03:50.640665+00:00"
+  "LastUpdate_Ratings": "2023-12-02T04:02:51.1535174+00:00",
+  "LastUpdate_Achievements": "2023-12-02T04:03:52.138272+00:00"
 }

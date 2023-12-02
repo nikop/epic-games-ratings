@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 397,
+  "EOS_Progressed": 398,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -917,6 +917,11 @@
       "Time": "2023-12-02T01:51:26.8996021+00:00",
       "NumProgressed": 397,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T04:08:29.8294661+00:00",
+      "NumProgressed": 398,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1001,7 +1006,7 @@
       "Name": "Big Encounter",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -1025,7 +1030,7 @@
       "Name": "Celestial Rain",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -1047,9 +1052,9 @@
       "ID": "FIRST_S_RANK",
       "SetID": "apihg0e",
       "Name": "Superior Ranking",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 155
+      "UsersEstimate": 151
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1057,7 +1062,7 @@
       "Name": "Ticket to Tranquility",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "GET_FISH_ALL",
@@ -1081,7 +1086,7 @@
       "Name": "The Beginning",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -1121,7 +1126,7 @@
       "Name": "The Journey Begins",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1248,14 +1253,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 397,
+      "Progressed": 398,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-02T03:08:27.5166707+00:00",
+  "LastChanged_Achievements": "2023-12-02T04:08:29.8294659+00:00",
   "LastUpdate_AppInfo": "2023-11-28T17:56:55.9843317+00:00",
-  "LastUpdate_Ratings": "2023-12-02T03:02:41.2264979+00:00",
-  "LastUpdate_Achievements": "2023-12-02T03:08:27.516695+00:00"
+  "LastUpdate_Ratings": "2023-12-02T04:02:48.2145298+00:00",
+  "LastUpdate_Achievements": "2023-12-02T04:08:29.8294953+00:00"
 }

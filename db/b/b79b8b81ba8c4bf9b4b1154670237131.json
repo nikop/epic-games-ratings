@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -95,10 +95,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13978,
+  "EOS_Progressed": 13979,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 1226,
-  "EOS_NewCompleters": 10,
+  "EOS_NewPlayers": 1200,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
     {
@@ -2165,6 +2165,11 @@
       "Time": "2023-12-02T03:08:27.1802788+00:00",
       "NumProgressed": 13978,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-02T04:08:29.5006613+00:00",
+      "NumProgressed": 13979,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -2353,7 +2358,7 @@
       "Name": "Pajama Boy",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 2236
+      "UsersEstimate": 2237
     },
     {
       "ID": "ACH_AE_30",
@@ -2377,7 +2382,7 @@
       "Name": "Diplomat",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "ACH_AE_33",
@@ -2456,7 +2461,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 13978,
+      "Progressed": 13979,
       "Completed": 13
     }
   ],
@@ -2464,8 +2469,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-11-29T04:59:31.3373245+00:00",
-  "LastChanged_Achievements": "2023-12-02T03:08:27.1802783+00:00",
+  "LastChanged_Achievements": "2023-12-02T04:08:29.500661+00:00",
   "LastUpdate_AppInfo": "2023-11-28T15:57:01.0190602+00:00",
-  "LastUpdate_Ratings": "2023-12-02T03:02:33.3489147+00:00",
-  "LastUpdate_Achievements": "2023-12-02T03:08:27.1803075+00:00"
+  "LastUpdate_Ratings": "2023-12-02T04:02:41.1331394+00:00",
+  "LastUpdate_Achievements": "2023-12-02T04:08:29.5006933+00:00"
 }

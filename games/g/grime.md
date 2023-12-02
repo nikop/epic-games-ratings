@@ -6,6 +6,7 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Taste | 0.20% | ~322 |
 | Imprint | 0.20% | ~322 |
 | Spiral Heart | 0.10% | ~161 |
 | Bloodhunter | 0.10% | ~161 |
@@ -15,7 +16,6 @@ Number of Ratings: 46  (23.09.2022)
 | Zygote | 0.10% | ~160 |
 | The Hunt | 0.10% | ~161 |
 | Breath | 0.10% | ~161 |
-| Taste | 0.10% | ~161 |
 | Weeper | 0.10% | ~161 |
 | Hunt Down | 0.10% | ~161 |
 | Artisan | 0.10% | ~161 |
@@ -53,8 +53,8 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~160 |
 | Intensify | 0.10% | ~160 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 160,800 (Ranked 78)  
-Completed: 102 (0.06%) (Ranked 310)  
+Progressed: 160,809 (Ranked 78)  
+Completed: 104 (0.06%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -256,7 +256,7 @@ Completed: 102 (0.06%) (Ranked 310)
 | 2023-11-29 | 160,527 | 1 |
 | 2023-11-30 | 160,588 | 39 |
 | 2023-12-01 | 160,762 | 100 |
-| 2023-12-02 | 160,800 | 102 |
+| 2023-12-02 | 160,809 | 104 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 425)  
 Sum: 390 (Ranked 346)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -169,9 +169,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 818,
+  "EOS_Progressed": 820,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 244,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1869,6 +1869,11 @@
       "Time": "2023-12-02T03:03:49.236046+00:00",
       "NumProgressed": 818,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T04:03:50.7876059+00:00",
+      "NumProgressed": 820,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1887,9 +1892,9 @@
       "ID": "AbInitio",
       "SetID": "1n308hc",
       "Name": "Ab Initio",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 66
     },
     {
       "ID": "AnthropicHills",
@@ -2079,9 +2084,9 @@
       "ID": "MistressOfRiddles",
       "SetID": "1n308hc",
       "Name": "Mistress of Riddles",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 41
     },
     {
       "ID": "Mnemosyne",
@@ -2169,7 +2174,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "RenaissanceRobot",
@@ -2183,9 +2188,9 @@
       "ID": "ScientiaVincereTenebras",
       "SetID": "1n308hc",
       "Name": "Scientia Vincere Tenebras",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 25
     },
     {
       "ID": "Signatory",
@@ -2352,7 +2357,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 818,
+      "Progressed": 820,
       "Completed": 1
     }
   ],
@@ -2360,8 +2365,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-30T22:00:34.4965769+00:00",
-  "LastChanged_Achievements": "2023-12-02T03:03:49.2360455+00:00",
+  "LastChanged_Achievements": "2023-12-02T04:03:50.7876056+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-02T03:00:04.6271604+00:00",
-  "LastUpdate_Achievements": "2023-12-02T03:03:49.2360881+00:00"
+  "LastUpdate_Ratings": "2023-12-02T03:59:58.3289788+00:00",
+  "LastUpdate_Achievements": "2023-12-02T04:03:50.7876476+00:00"
 }

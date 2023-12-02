@@ -11,27 +11,27 @@ Number of Ratings: 70,340  (23.09.2022)
 | Zealous | 0.50% | ~5,299 |
 | Not half bad | 0.50% | ~5,299 |
 | I | 0.50% | ~5,299 |
-| Handyman | 0.40% | ~4,239 |
-| Apt Survivor | 0.40% | ~4,239 |
-| Survival Treasures | 0.40% | ~4,239 |
-| Make Some Noise | 0.40% | ~4,239 |
-| The Grand Sacrifice | 0.30% | ~3,179 |
-| Agonizing Escape | 0.30% | ~3,179 |
-| Backdoor Escape | 0.30% | ~3,179 |
-| No one left behind | 0.30% | ~3,179 |
-| Medic | 0.30% | ~3,179 |
-| Perfect Escape | 0.30% | ~3,179 |
-| Bloody Millionaire | 0.30% | ~3,179 |
-| II | 0.30% | ~3,179 |
-| Sorted | 0.30% | ~3,179 |
-| Healthy Obsession | 0.30% | ~3,179 |
-| Resurgence | 0.30% | ~3,179 |
-| Close Shave | 0.30% | ~3,179 |
-| Preemptive Strike | 0.30% | ~3,179 |
-| Humanitarian | 0.30% | ~3,179 |
+| Handyman | 0.40% | ~4,240 |
+| Apt Survivor | 0.40% | ~4,240 |
+| Survival Treasures | 0.40% | ~4,240 |
+| Resurgence | 0.40% | ~4,240 |
+| Make Some Noise | 0.40% | ~4,240 |
+| The Grand Sacrifice | 0.30% | ~3,180 |
+| Agonizing Escape | 0.30% | ~3,180 |
+| Backdoor Escape | 0.30% | ~3,180 |
+| I've got your back | 0.30% | ~3,180 |
+| No one left behind | 0.30% | ~3,180 |
+| Medic | 0.30% | ~3,180 |
+| Perfect Escape | 0.30% | ~3,180 |
+| Bloody Millionaire | 0.30% | ~3,180 |
+| II | 0.30% | ~3,180 |
+| Sorted | 0.30% | ~3,180 |
+| Healthy Obsession | 0.30% | ~3,180 |
+| Close Shave | 0.30% | ~3,180 |
+| Preemptive Strike | 0.30% | ~3,180 |
+| Humanitarian | 0.30% | ~3,180 |
 | Blood on your hands | 0.20% | ~2,120 |
 | Escape Artist | 0.20% | ~2,120 |
-| I've got your back | 0.20% | ~2,120 |
 | Perfect Killing | 0.20% | ~2,120 |
 | Gifts for the Fog | 0.20% | ~2,120 |
 | Apt Killer | 0.20% | ~2,120 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,060 |
 | Adept Good Guy | 0.10% | ~1,060 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,059,768 (Ranked 14)  
+Progressed: 1,059,883 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -465,7 +465,7 @@ Completed: 61 (0.01%) (Ranked 344)
 | 2023-11-29 | 1,053,910 | 61 |
 | 2023-11-30 | 1,056,530 | 61 |
 | 2023-12-01 | 1,059,298 | 61 |
-| 2023-12-02 | 1,059,768 | 61 |
+| 2023-12-02 | 1,059,883 | 61 |
 ## Awards
 Max (Diverse Characters): 37,031  (Ranked 15)  
 Sum: 281,537 (Ranked 12)  

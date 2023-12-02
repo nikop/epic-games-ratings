@@ -2,10 +2,10 @@
   "ID": "3c69660cdc2d41aeac310fe3f864eb26",
   "Name": "Testament: The Order Of High-Human",
   "ProductSlug": "testament-the-order-of-high-human-f5b552",
-  "Ranking_EOS_Progress": 770,
+  "Ranking_EOS_Progress": 771,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 495,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-07-13T13:30:00+00:00",
     "PcReleaseDate": "2023-07-13T13:30:00+00:00",
@@ -373,8 +373,8 @@
   ],
   "FirstSeen": "2023-07-13T23:57:30.8645942+00:00",
   "FirstSeenAchievements": "2023-07-10T17:03:30.8582586+00:00",
-  "LastChanged_Achievements": "2023-12-02T03:08:15.979938+00:00",
+  "LastChanged_Achievements": "2023-12-02T04:08:19.0284725+00:00",
   "LastUpdate_AppInfo": "2023-11-27T23:56:53.9690272+00:00",
-  "LastUpdate_Ratings": "2023-12-02T02:59:37.8537847+00:00",
-  "LastUpdate_Achievements": "2023-12-02T03:08:15.9799586+00:00"
+  "LastUpdate_Ratings": "2023-12-02T03:59:34.3694648+00:00",
+  "LastUpdate_Achievements": "2023-12-02T04:08:19.0284978+00:00"
 }

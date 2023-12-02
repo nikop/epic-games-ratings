@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 231,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2059,9 +2059,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 281885,
+  "EOS_Progressed": 281890,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 725,
+  "EOS_NewPlayers": 721,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27854,6 +27854,11 @@
       "Time": "2023-12-02T03:05:28.3363815+00:00",
       "NumProgressed": 281885,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T04:05:21.7138223+00:00",
+      "NumProgressed": 281890,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -27913,7 +27918,7 @@
       "Name": "Contender",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 28188
+      "UsersEstimate": 28189
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -27985,7 +27990,7 @@
       "Name": "Ready Steady Score",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 11275
+      "UsersEstimate": 11276
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -28025,7 +28030,7 @@
       "Name": "I Found it!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 31007
+      "UsersEstimate": 31008
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -28089,7 +28094,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 231146
+      "UsersEstimate": 231150
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -28097,28 +28102,28 @@
       "Name": "I know the Rules",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 95841
+      "UsersEstimate": 95843
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 281885,
+      "Progressed": 281890,
       "Completed": 0
     },
     {
       "ID": "5ld4kno",
       "IsBase": false,
-      "Progressed": 44,
-      "Completed": 44
+      "Progressed": 49,
+      "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-11-30T20:03:23.0507631+00:00",
-  "LastChanged_Achievements": "2023-12-02T03:05:28.3363807+00:00",
+  "LastChanged_Achievements": "2023-12-02T04:05:21.7138219+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.1899023+00:00",
-  "LastUpdate_Ratings": "2023-12-02T03:02:58.2775271+00:00",
-  "LastUpdate_Achievements": "2023-12-02T03:05:28.3365146+00:00"
+  "LastUpdate_Ratings": "2023-12-02T04:03:03.0810406+00:00",
+  "LastUpdate_Achievements": "2023-12-02T04:05:21.7139626+00:00"
 }

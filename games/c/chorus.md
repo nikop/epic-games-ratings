@@ -46,8 +46,8 @@ Number of Ratings: 58  (23.09.2022)
 | Ascension | 20.00% | ~260 |
 | Rise as One | 19.00% | ~247 |
 | Showoff | 15.00% | ~195 |
+| Radiation Area | 11.00% | ~143 |
 | Overcharged | 10.00% | ~130 |
-| Radiation Area | 10.00% | ~130 |
 | At Least You Tried | 2.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,298 (Ranked 247)  

@@ -2,10 +2,10 @@
   "ID": "7bd00a5e672148999cec558679b9e192",
   "Name": "Dreamsettler",
   "ProductSlug": "dreamsettler-d19479",
-  "Ranking_EOS_Progress": 770,
+  "Ranking_EOS_Progress": 771,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 495,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -31,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-25T21:58:30.6632016+00:00",
-  "LastUpdate_Ratings": "2023-12-02T02:58:48.1351393+00:00",
-  "LastUpdate_Achievements": "2023-12-02T03:05:34.7266748+00:00"
+  "LastUpdate_Ratings": "2023-12-02T03:58:49.827495+00:00",
+  "LastUpdate_Achievements": "2023-12-02T04:05:27.4702628+00:00"
 }

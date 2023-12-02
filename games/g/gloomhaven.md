@@ -6,23 +6,23 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 41.00% | ~9,872 |
-| Overkill | 34.00% | ~8,186 |
-| Vaccine Incoming | 33.00% | ~7,945 |
-| A normal day in Gloomhaven | 31.00% | ~7,464 |
-| Spread the plague | 29.00% | ~6,982 |
-| Get over here! | 25.00% | ~6,019 |
+| I'm not dead yet | 41.00% | ~9,873 |
+| Overkill | 34.00% | ~8,187 |
+| Vaccine Incoming | 33.00% | ~7,946 |
+| A normal day in Gloomhaven | 31.00% | ~7,465 |
+| Spread the plague | 29.00% | ~6,983 |
+| Get over here! | 25.00% | ~6,020 |
 | Just when I thought I was out... | 19.00% | ~4,575 |
-| Precious! | 17.00% | ~4,093 |
-| Mine... All Mine... | 17.00% | ~4,093 |
+| Precious! | 17.00% | ~4,094 |
+| Mine... All Mine... | 17.00% | ~4,094 |
 | Grizzled veteran | 15.00% | ~3,612 |
 | Anatomy Lesson | 15.00% | ~3,612 |
 | Light of my life | 14.00% | ~3,371 |
 | Obstacle race | 13.00% | ~3,130 |
-| You activated my trap card! | 12.00% | ~2,889 |
-| Who's the Boss? | 11.00% | ~2,648 |
-| Augmented rat | 11.00% | ~2,648 |
-| Doom and gloom | 11.00% | ~2,648 |
+| You activated my trap card! | 12.00% | ~2,890 |
+| Who's the Boss? | 11.00% | ~2,649 |
+| Augmented rat | 11.00% | ~2,649 |
+| Doom and gloom | 11.00% | ~2,649 |
 | Dungeon Veteran | 9.00% | ~2,167 |
 | Pack leader | 8.00% | ~1,926 |
 | Pain is your friend | 8.00% | ~1,926 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~24 |
 | Murder Death Kill | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,077 (Ranked 132)  
+Progressed: 24,080 (Ranked 132)  
 Completed: 1 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,17 +148,17 @@ Completed: 1 (0.00%) (Ranked 365)
 | 2023-11-29 | 23,685 | 1 |
 | 2023-11-30 | 23,863 | 1 |
 | 2023-12-01 | 24,042 | 1 |
-| 2023-12-02 | 24,077 | 1 |
+| 2023-12-02 | 24,080 | 1 |
 ## Awards
 Max (Character Customization): 3,590  (Ranked 90)  
-Sum: 8,394 (Ranked 101)  
+Sum: 8,395 (Ranked 101)  
 Diff (max vs sum): -11  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,590 |
 | This game has Diverse Characters | 600 |
 | This game has Challenging Combat | 554 |
-| This game is Highly Recommended | 547 |
+| This game is Highly Recommended | 548 |
 | This game is Extremely Fun | 544 |
 | This game is Relaxing | 491 |
 | This game has Amazing Characters | 491 |
@@ -401,3 +401,4 @@ Diff (max vs sum): -11
 | 2023-11-27 | 4.47 | - | 3,588 | 8,389 |
 | 2023-11-28 | 4.47 | - | 3,590 | 8,391 |
 | 2023-11-30 | 4.47 | - | 3,590 | 8,394 |
+| 2023-12-02 | 4.47 | - | 3,590 | 8,395 |

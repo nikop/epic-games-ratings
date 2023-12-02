@@ -15,6 +15,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Gathering Storm | 1.00% | ~176 |
 | Untamed Wilds | 1.00% | ~176 |
 | Watchtower | 0.20% | ~35 |
+| The Marshlands | 0.20% | ~35 |
 | Taking Action | 0.20% | ~35 |
 | Fox Utopia | 0.20% | ~35 |
 | Serving Ale | 0.10% | ~18 |
@@ -47,7 +48,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Corrosive Torrent | 0.10% | ~18 |
 | Coral Forest | 0.10% | ~18 |
 | Cursed Lands | 0.10% | ~18 |
-| The Marshlands | 0.10% | ~18 |
 | The Scarlet Orchard | 0.10% | ~18 |
 | Prestigious Expedition | 0.10% | ~18 |
 | A Real Challenge | 0.10% | ~18 |

@@ -2,10 +2,10 @@
   "ID": "7574ed79527c4eca912f0fce19780804",
   "Name": "Castles",
   "ProductSlug": "castles-5a423e",
-  "Ranking_EOS_Progress": 770,
+  "Ranking_EOS_Progress": 771,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 495,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2022-08-26T16:00:00+00:00",
     "PcReleaseDate": "2022-08-26T16:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:41.3340789+00:00",
   "LastChanged": "2023-03-31T05:57:41.334079+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:00.1662682+00:00",
-  "LastUpdate_Ratings": "2023-12-02T02:58:52.3351059+00:00",
-  "LastUpdate_Achievements": "2023-12-02T03:03:27.7303386+00:00"
+  "LastUpdate_Ratings": "2023-12-02T03:58:53.6421544+00:00",
+  "LastUpdate_Achievements": "2023-12-02T04:03:31.2318985+00:00"
 }

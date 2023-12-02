@@ -1,19 +1,19 @@
 # Disney Dreamlight Valley
 [Store](https://store.epicgames.com/en-US/p/disney-dreamlight-valley)  
 [View Rawdata](../../db/d/disney_dreamlight_valley.json)  
-Rating: 4.76 (Ranked 128)  
+Rating: 4.76 (Ranked 129)  
 Number of Ratings: 1,396  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Goofy's Investor | 69.00% | ~8,341 |
-| Photographer | 68.00% | ~8,220 |
+| Photographer | 68.00% | ~8,221 |
 | Valley's Helper | 61.00% | ~7,374 |
 | Constructor | 51.00% | ~6,165 |
 | Renovator | 51.00% | ~6,165 |
-| Bestest Friend | 46.00% | ~5,560 |
-| Banker | 39.00% | ~4,714 |
-| Gardener | 31.00% | ~3,747 |
+| Bestest Friend | 46.00% | ~5,561 |
+| Banker | 39.00% | ~4,715 |
+| Gardener | 31.00% | ~3,748 |
 | Generous | 25.00% | ~3,022 |
 | Chef Cook | 18.00% | ~2,176 |
 | Miner | 10.00% | ~1,209 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Angler | 5.00% | ~604 |
 | Chit Chatter | 3.00% | ~363 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,088 (Ranked 160)  
+Progressed: 12,089 (Ranked 160)  
 Completed: 288 (2.38%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,15 +199,15 @@ Completed: 288 (2.38%) (Ranked 123)
 | 2023-11-29 | 12,038 | 286 |
 | 2023-11-30 | 12,065 | 286 |
 | 2023-12-01 | 12,084 | 288 |
-| 2023-12-02 | 12,088 | 288 |
+| 2023-12-02 | 12,089 | 288 |
 ## Awards
 Max (Great for Beginners): 1,077  (Ranked 147)  
-Sum: 7,966 (Ranked 107)  
+Sum: 7,967 (Ranked 107)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,077 |
-| This game has Diverse Characters | 906 |
+| This game has Diverse Characters | 907 |
 | This game is Highly Recommended | 829 |
 | This game has Amazing Characters | 824 |
 | This game is Relaxing | 812 |
@@ -482,3 +482,4 @@ Diff (max vs sum): 40
 | 2023-11-29 | 4.76 | - | 1,075 | 7,961 |
 | 2023-11-30 | 4.76 | - | 1,075 | 7,963 |
 | 2023-12-01 | 4.76 | - | 1,077 | 7,966 |
+| 2023-12-02 | 4.76 | - | 1,077 | 7,967 |

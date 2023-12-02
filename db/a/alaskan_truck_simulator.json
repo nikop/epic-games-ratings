@@ -2,10 +2,10 @@
   "ID": "e659e7551fa9454596f2b184c4ee6745",
   "Name": "Alaskan Road Truckers",
   "ProductSlug": "alaskan-road-truckers-d31463",
-  "Ranking_EOS_Progress": 770,
+  "Ranking_EOS_Progress": 771,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 495,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-30T16:05:17.1059184+00:00",
-  "LastChanged_Achievements": "2023-12-02T03:04:48.0812329+00:00",
+  "LastChanged_Achievements": "2023-12-02T04:04:44.4527887+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:08.9230162+00:00",
-  "LastUpdate_Ratings": "2023-12-02T03:02:38.7398217+00:00",
-  "LastUpdate_Achievements": "2023-12-02T03:04:48.0812367+00:00"
+  "LastUpdate_Ratings": "2023-12-02T04:02:46.0212976+00:00",
+  "LastUpdate_Achievements": "2023-12-02T04:04:44.4527902+00:00"
 }

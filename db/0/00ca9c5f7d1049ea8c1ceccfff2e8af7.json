@@ -2,10 +2,10 @@
   "ID": "00ca9c5f7d1049ea8c1ceccfff2e8af7",
   "Name": "Cargo Truck Simulator 2023",
   "ProductSlug": "cargo-truck-simulator-2023-ff83fb",
-  "Ranking_EOS_Progress": 770,
+  "Ranking_EOS_Progress": 771,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 495,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-09-30T05:30:00+00:00",
     "PcReleaseDate": "2023-02-19T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-02T15:58:05.9355801+00:00",
   "LastUpdate_AppInfo": "2023-11-25T10:57:14.2435653+00:00",
-  "LastUpdate_Ratings": "2023-12-02T02:59:01.1364722+00:00",
-  "LastUpdate_Achievements": "2023-12-02T03:04:03.5082199+00:00"
+  "LastUpdate_Ratings": "2023-12-02T03:59:01.5480581+00:00",
+  "LastUpdate_Achievements": "2023-12-02T04:04:03.6781881+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "9cbb1921589842ff989f8ff9b6b18b36",
   "Name": "SteamWorld Quest",
   "ProductSlug": "steamworld-quest-1fe51f",
-  "Ranking_EOS_Progress": 770,
+  "Ranking_EOS_Progress": 771,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 495,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2019-05-31T15:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-30T02:19:33.5147048+00:00",
-  "LastUpdate_Ratings": "2023-12-02T03:02:36.3554245+00:00",
-  "LastUpdate_Achievements": "2023-12-02T03:06:33.7664794+00:00"
+  "LastUpdate_Ratings": "2023-12-02T04:02:43.8819981+00:00",
+  "LastUpdate_Achievements": "2023-12-02T04:07:50.8177153+00:00"
 }

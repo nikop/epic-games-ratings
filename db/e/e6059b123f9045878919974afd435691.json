@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -2786,9 +2786,9 @@
       "ID": "AMMO_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "How Many Do You Need?",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 512
+      "UsersEstimate": 522
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -3074,9 +3074,9 @@
       "ID": "KILLR_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "Decakill!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 309
+      "UsersEstimate": 320
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -3313,8 +3313,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-02T03:09:25.1154551+00:00",
+  "LastChanged_Achievements": "2023-12-02T04:09:22.1815088+00:00",
   "LastUpdate_AppInfo": "2023-12-01T01:53:59.6642284+00:00",
-  "LastUpdate_Ratings": "2023-12-02T02:57:30.760507+00:00",
-  "LastUpdate_Achievements": "2023-12-02T03:09:25.1155139+00:00"
+  "LastUpdate_Ratings": "2023-12-02T03:57:40.1368294+00:00",
+  "LastUpdate_Achievements": "2023-12-02T04:09:22.1815756+00:00"
 }

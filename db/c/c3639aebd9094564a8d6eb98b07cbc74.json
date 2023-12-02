@@ -2,10 +2,10 @@
   "ID": "c3639aebd9094564a8d6eb98b07cbc74",
   "Name": "Project Electric Sheep",
   "ProductSlug": "project-electric-sheep-511778",
-  "Ranking_EOS_Progress": 770,
+  "Ranking_EOS_Progress": 771,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 495,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-11-29T09:00:00+00:00",
     "PcReleaseDate": "2023-11-29T09:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-29T10:58:22.6566107+00:00",
   "LastUpdate_AppInfo": "2023-11-27T16:56:54.8206574+00:00",
-  "LastUpdate_Ratings": "2023-12-02T02:58:53.0195529+00:00",
-  "LastUpdate_Achievements": "2023-12-02T03:06:24.8981783+00:00"
+  "LastUpdate_Ratings": "2023-12-02T03:58:54.2703997+00:00",
+  "LastUpdate_Achievements": "2023-12-02T04:06:13.0056019+00:00"
 }

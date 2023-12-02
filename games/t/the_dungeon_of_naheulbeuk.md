@@ -6,19 +6,19 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~84,261 |
-| Alt+F4 | 9.00% | ~21,667 |
+| Sowwy! | 35.00% | ~84,264 |
+| Alt+F4 | 9.00% | ~21,668 |
 | Where's that freaking Dwarf? | 8.00% | ~19,260 |
-| Déjà vu | 7.00% | ~16,852 |
-| Sock! SOCK! | 5.00% | ~12,037 |
-| Speedrun | 5.00% | ~12,037 |
+| Déjà vu | 7.00% | ~16,853 |
+| Sock! SOCK! | 5.00% | ~12,038 |
+| Speedrun | 5.00% | ~12,038 |
 | A beer, two curses, three companions | 4.00% | ~9,630 |
 | GG EZ | 4.00% | ~9,630 |
 | DM intervention | 4.00% | ~9,630 |
 | Fireproof Wizardess | 4.00% | ~9,630 |
-| Livin' in a dwarven paradise | 3.00% | ~7,222 |
-| Way of the Wimp | 3.00% | ~7,222 |
-| The plot thickens... At the tavern | 3.00% | ~7,222 |
+| Livin' in a dwarven paradise | 3.00% | ~7,223 |
+| Way of the Wimp | 3.00% | ~7,223 |
+| The plot thickens... At the tavern | 3.00% | ~7,223 |
 | Shiny and Crôm | 2.00% | ~4,815 |
 | The demons' feast | 2.00% | ~4,815 |
 | The Great Library | 2.00% | ~4,815 |
@@ -38,35 +38,35 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 2.00% | ~4,815 |
 | Team Building Exercise | 2.00% | ~4,815 |
 | Oh, when I'll be level 10... | 2.00% | ~4,815 |
-| %#*!$*! | 1.00% | ~2,407 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,407 |
-| Dead for good | 1.00% | ~2,407 |
-| Gargantua | 1.00% | ~2,407 |
-| Lust and Debauchery | 1.00% | ~2,407 |
-| Material Girl | 1.00% | ~2,407 |
+| %#*!$*! | 1.00% | ~2,408 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,408 |
+| Dead for good | 1.00% | ~2,408 |
+| Gargantua | 1.00% | ~2,408 |
+| Lust and Debauchery | 1.00% | ~2,408 |
+| Material Girl | 1.00% | ~2,408 |
 | In Navalu's footsteps | 0.90% | ~2,167 |
 | Lëgal Legend | 0.80% | ~1,926 |
 | We come in peace | 0.70% | ~1,685 |
-| Holistic Adventuring Party | 0.60% | ~1,444 |
-| An old poacher makes the best gamekeeper | 0.60% | ~1,444 |
-| Law and Order | 0.60% | ~1,444 |
+| Holistic Adventuring Party | 0.60% | ~1,445 |
+| An old poacher makes the best gamekeeper | 0.60% | ~1,445 |
+| Law and Order | 0.60% | ~1,445 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,204 |
 | Friendly fire | 0.40% | ~963 |
 | I'd rather... Just... Sing! | 0.40% | ~963 |
 | It's been a hard day's night | 0.40% | ~963 |
 | The number of the counting shalt be 7 | 0.30% | ~722 |
 | Inception | 0.30% | ~722 |
-| Cursed die | 0.20% | ~481 |
-| The Blood Countess | 0.20% | ~481 |
-| Free customer service | 0.20% | ~481 |
-| Imposture and Trowels | 0.20% | ~481 |
-| Deep changes | 0.20% | ~481 |
-| Kudos from your DM | 0.20% | ~481 |
-| Insult to injury | 0.20% | ~481 |
-| 100% satisfaction guarantee | 0.20% | ~481 |
-| Death is for wimps | 0.20% | ~481 |
-| Super-Ultra-Lydian | 0.20% | ~481 |
-| Demisemiquaver | 0.20% | ~481 |
+| Cursed die | 0.20% | ~482 |
+| The Blood Countess | 0.20% | ~482 |
+| Free customer service | 0.20% | ~482 |
+| Imposture and Trowels | 0.20% | ~482 |
+| Deep changes | 0.20% | ~482 |
+| Kudos from your DM | 0.20% | ~482 |
+| Insult to injury | 0.20% | ~482 |
+| 100% satisfaction guarantee | 0.20% | ~482 |
+| Death is for wimps | 0.20% | ~482 |
+| Super-Ultra-Lydian | 0.20% | ~482 |
+| Demisemiquaver | 0.20% | ~482 |
 | Necrophilia | 0.10% | ~241 |
 | He’s alive! Aliiiive! | 0.10% | ~241 |
 | Restless night | 0.10% | ~241 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~241 |
 | Dwarf Candy | 0.10% | ~241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,746 (Ranked 62)  
+Progressed: 240,754 (Ranked 62)  
 Completed: 7 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 7 (0.00%) (Ranked 365)
 | 2023-11-29 | 240,383 | 7 |
 | 2023-11-30 | 240,529 | 7 |
 | 2023-12-01 | 240,719 | 7 |
-| 2023-12-02 | 240,746 | 7 |
+| 2023-12-02 | 240,754 | 7 |
 ## Awards
 Max (Character Customization): 240  (Ranked 272)  
 Sum: 485 (Ranked 329)  
