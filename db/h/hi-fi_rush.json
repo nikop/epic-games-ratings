@@ -2,12 +2,12 @@
   "ID": "577c5cbc303a4d168b1a104f3b46e751",
   "Name": "Hi-Fi RUSH",
   "ProductSlug": "hi-fi-rush",
-  "Ranking_Rating": 23,
+  "Ranking_Rating": 24,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4455,
+  "EOS_Progressed": 4456,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -8050,6 +8050,11 @@
       "Time": "2023-12-02T15:07:56.0175067+00:00",
       "NumProgressed": 4455,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-02T17:07:43.498335+00:00",
+      "NumProgressed": 4456,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8061,7 +8066,7 @@
       "Name": "Start with a bang!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "Ach002",
@@ -8237,7 +8242,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "Ach024",
@@ -8628,13 +8633,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4455,
+      "Progressed": 4456,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2976,
+      "Progressed": 2977,
       "Completed": 1930
     }
   ],
@@ -8642,8 +8647,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-02T16:08:13.6945614+00:00",
+  "LastChanged_Achievements": "2023-12-02T17:07:43.4983347+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-12-02T16:00:32.4852277+00:00",
-  "LastUpdate_Achievements": "2023-12-02T16:08:13.6946688+00:00"
+  "LastUpdate_Ratings": "2023-12-02T17:00:18.2664481+00:00",
+  "LastUpdate_Achievements": "2023-12-02T17:07:43.4984121+00:00"
 }

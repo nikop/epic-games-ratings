@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 332,
+  "EOS_Progressed": 333,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1014,6 +1014,11 @@
       "Time": "2023-12-02T16:07:22.9364957+00:00",
       "NumProgressed": 332,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T17:06:50.2137391+00:00",
+      "NumProgressed": 333,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1090,7 +1095,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "REMAKE_004",
@@ -1122,7 +1127,7 @@
       "Name": "Deez Buffs Make Me Go Nuts",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "Remake_008",
@@ -1242,21 +1247,21 @@
       "Name": "Escape Lookout Cove",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     }
   ],
   "AchievementSets": [
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 332,
+      "Progressed": 333,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-02T16:07:22.9364954+00:00",
+  "LastChanged_Achievements": "2023-12-02T17:06:50.2137386+00:00",
   "LastUpdate_AppInfo": "2023-11-27T21:57:11.1049797+00:00",
-  "LastUpdate_Ratings": "2023-12-02T16:03:11.352223+00:00",
-  "LastUpdate_Achievements": "2023-12-02T16:07:22.9365135+00:00"
+  "LastUpdate_Ratings": "2023-12-02T17:02:28.4132522+00:00",
+  "LastUpdate_Achievements": "2023-12-02T17:06:50.2137704+00:00"
 }

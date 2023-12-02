@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 490,
+  "EOS_Progressed": 491,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1537,6 +1537,11 @@
       "Time": "2023-12-02T16:08:31.8144768+00:00",
       "NumProgressed": 490,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T17:08:02.7860421+00:00",
+      "NumProgressed": 491,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1548,7 +1553,7 @@
       "Name": "Travel Streamer",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1556,7 +1561,7 @@
       "Name": "Giant Lizard Killer",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -1586,9 +1591,9 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "7pimpda",
       "Name": "Youth Magnet",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 79
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -1636,7 +1641,7 @@
       "Name": "Training Simulation",
       "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1666,9 +1671,9 @@
       "ID": "ACHIEVEMENT_23",
       "SetID": "7pimpda",
       "Name": "Master Cook",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -1676,7 +1681,7 @@
       "Name": "Arms Mechanic",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -1684,7 +1689,7 @@
       "Name": "Beginner Artificer",
       "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -1692,7 +1697,7 @@
       "Name": "Master Artificer",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -1700,7 +1705,7 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -1804,7 +1809,7 @@
       "Name": "Storm Traveller",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -1884,7 +1889,7 @@
       "Name": "Apostle of Flame",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -1900,14 +1905,14 @@
       "Name": "Handyman",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 490,
+      "Progressed": 491,
       "Completed": 1
     }
   ],
@@ -1915,8 +1920,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-02T16:08:31.8144764+00:00",
+  "LastChanged_Achievements": "2023-12-02T17:08:02.7860417+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-12-02T16:01:43.9742024+00:00",
-  "LastUpdate_Achievements": "2023-12-02T16:08:31.8145182+00:00"
+  "LastUpdate_Ratings": "2023-12-02T17:01:32.1880201+00:00",
+  "LastUpdate_Achievements": "2023-12-02T17:08:02.786073+00:00"
 }

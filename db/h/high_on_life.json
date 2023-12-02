@@ -7420,9 +7420,9 @@
       "ID": "ACH_MOVIE_THEATER",
       "SetID": "cdkbb11",
       "Name": "We Paid For The Rights To Put A Whole Movie In Here",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 45,
-      "UsersEstimate": 148
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_NARR_WARPBASES",
@@ -7579,8 +7579,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-11-08T23:02:28.6590221+00:00",
-  "LastChanged_Achievements": "2023-12-02T16:04:34.086637+00:00",
+  "LastChanged_Achievements": "2023-12-02T17:03:56.5489938+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:01.9623441+00:00",
-  "LastUpdate_Ratings": "2023-12-02T15:59:57.8044644+00:00",
-  "LastUpdate_Achievements": "2023-12-02T16:04:34.0867054+00:00"
+  "LastUpdate_Ratings": "2023-12-02T16:59:41.760561+00:00",
+  "LastUpdate_Achievements": "2023-12-02T17:03:56.5490439+00:00"
 }

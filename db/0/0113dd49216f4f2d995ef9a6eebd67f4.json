@@ -2,9 +2,9 @@
   "ID": "0113dd49216f4f2d995ef9a6eebd67f4",
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
-  "Ranking_EOS_Progress": 448,
+  "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 95,
+  "EOS_Progressed": 96,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -449,6 +449,11 @@
       "Time": "2023-12-02T13:10:29.7604913+00:00",
       "NumProgressed": 95,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T17:08:24.6356209+00:00",
+      "NumProgressed": 96,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -515,7 +520,7 @@
       "ID": "SG_CHARISMATIC",
       "SetID": "bj5g0n4",
       "Name": "Charismatic",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 11
     },
@@ -531,7 +536,7 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 15,
       "UsersEstimate": 70
     },
@@ -555,7 +560,7 @@
       "ID": "SG_GODOFTHESUN",
       "SetID": "bj5g0n4",
       "Name": "God Of The Sun",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 11
     },
@@ -635,7 +640,7 @@
       "ID": "SG_SAYINGGOODBYE",
       "SetID": "bj5g0n4",
       "Name": "Saying Goodbye",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -691,7 +696,7 @@
       "ID": "SG_THEHIGHROAD",
       "SetID": "bj5g0n4",
       "Name": "The High Road",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -756,14 +761,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 95,
+      "Progressed": 96,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-02T16:08:52.3032573+00:00",
+  "LastChanged_Achievements": "2023-12-02T17:08:24.6356204+00:00",
   "LastUpdate_AppInfo": "2023-11-30T16:57:24.6130693+00:00",
-  "LastUpdate_Ratings": "2023-12-02T16:00:35.3735809+00:00",
-  "LastUpdate_Achievements": "2023-12-02T16:08:52.3032837+00:00"
+  "LastUpdate_Ratings": "2023-12-02T17:00:21.2357591+00:00",
+  "LastUpdate_Achievements": "2023-12-02T17:08:24.6356409+00:00"
 }

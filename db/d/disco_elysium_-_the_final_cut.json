@@ -2,7 +2,7 @@
   "ID": "ff52981b1d9947978153c7a7f8bc6d90",
   "Name": "Disco Elysium - The Final Cut",
   "ProductSlug": "disco-elysium",
-  "Ranking_Rating": 23,
+  "Ranking_Rating": 24,
   "Ranking_Popularity": 181,
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 83,
@@ -1514,9 +1514,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131522,
+  "EOS_Progressed": 131523,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -23604,6 +23604,11 @@
       "Time": "2023-12-02T16:06:11.9734692+00:00",
       "NumProgressed": 131522,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-02T17:05:39.3532749+00:00",
+      "NumProgressed": 131523,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -23671,7 +23676,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31565
+      "UsersEstimate": 31566
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -23759,7 +23764,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14467
+      "UsersEstimate": 14468
     },
     {
       "ID": "ACH_CUNO",
@@ -23934,15 +23939,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131522,
+      "Progressed": 131523,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-28T12:00:15.5937153+00:00",
-  "LastChanged_Achievements": "2023-12-02T16:06:11.9734688+00:00",
+  "LastChanged_Achievements": "2023-12-02T17:05:39.3532747+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:19.415585+00:00",
-  "LastUpdate_Ratings": "2023-12-02T15:58:11.4934583+00:00",
-  "LastUpdate_Achievements": "2023-12-02T16:06:11.973597+00:00"
+  "LastUpdate_Ratings": "2023-12-02T16:57:48.8700809+00:00",
+  "LastUpdate_Achievements": "2023-12-02T17:05:39.3534079+00:00"
 }

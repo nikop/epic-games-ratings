@@ -273,9 +273,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68874,
+  "EOS_Progressed": 68877,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16523,6 +16523,11 @@
       "Time": "2023-12-02T16:06:40.6569716+00:00",
       "NumProgressed": 68874,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-02T17:06:05.6161052+00:00",
+      "NumProgressed": 68877,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -16534,7 +16539,7 @@
       "Name": "Denial",
       "Percentage": 2,
       "XP": 105,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "ACH_BONFIRES",
@@ -16566,7 +16571,7 @@
       "Name": "Soda addiction",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_FIRECRACKERS",
@@ -16582,7 +16587,7 @@
       "Name": "Paparazzi",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_FRIENDSHIPPOWER",
@@ -16622,7 +16627,7 @@
       "Name": "Acceptance",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "ACH_PHONECAPTURE",
@@ -16630,7 +16635,7 @@
       "Name": "Are you still there?",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_PHONEGATHER",
@@ -16678,7 +16683,7 @@
       "Name": "Bargaining",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "ACH_TOOLS",
@@ -16693,7 +16698,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 68874,
+      "Progressed": 68877,
       "Completed": 18
     }
   ],
@@ -16701,8 +16706,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2023-12-02T16:06:40.6569713+00:00",
+  "LastChanged_Achievements": "2023-12-02T17:06:05.6161046+00:00",
   "LastUpdate_AppInfo": "2023-11-25T16:57:07.3216141+00:00",
-  "LastUpdate_Ratings": "2023-12-02T15:57:55.1074198+00:00",
-  "LastUpdate_Achievements": "2023-12-02T16:06:40.6570598+00:00"
+  "LastUpdate_Ratings": "2023-12-02T16:57:31.1619733+00:00",
+  "LastUpdate_Achievements": "2023-12-02T17:06:05.6162183+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "43acebbd46cd4aac956ad049c10c603a",
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
-  "Ranking_Rating": 23,
+  "Ranking_Rating": 24,
   "Ranking_Popularity": 465,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 275,
@@ -175,9 +175,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 830,
+  "EOS_Progressed": 831,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1915,6 +1915,11 @@
       "Time": "2023-12-02T15:04:58.6128515+00:00",
       "NumProgressed": 830,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T17:04:51.8075246+00:00",
+      "NumProgressed": 831,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2213,9 +2218,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 75
     },
     {
       "ID": "RenaissanceRobot",
@@ -2237,9 +2242,9 @@
       "ID": "Signatory",
       "SetID": "1n308hc",
       "Name": "Signatory",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 50
     },
     {
       "ID": "SingleRod",
@@ -2357,9 +2362,9 @@
       "ID": "VerdantCanyon",
       "SetID": "1n308hc",
       "Name": "Verdant Canyon",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 25
     },
     {
       "ID": "Wanderers",
@@ -2398,7 +2403,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 830,
+      "Progressed": 831,
       "Completed": 1
     }
   ],
@@ -2406,8 +2411,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-02T13:02:26.2646778+00:00",
-  "LastChanged_Achievements": "2023-12-02T16:05:27.2039276+00:00",
+  "LastChanged_Achievements": "2023-12-02T17:04:51.8075243+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
   "LastUpdate_Ratings": "2023-12-02T16:03:08.3334476+00:00",
-  "LastUpdate_Achievements": "2023-12-02T16:05:27.2039742+00:00"
+  "LastUpdate_Achievements": "2023-12-02T17:04:51.807566+00:00"
 }

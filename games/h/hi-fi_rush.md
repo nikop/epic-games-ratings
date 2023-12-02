@@ -1,12 +1,12 @@
 # Hi-Fi RUSH
 [Store](https://store.epicgames.com/en-US/p/hi-fi-rush)  
 [View Rawdata](../../db/h/hi-fi_rush.json)  
-Rating: 4.87 (Ranked 23)  
+Rating: 4.87 (Ranked 24)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 19.00% | ~846 |
-| Feeling the beat! | 19.00% | ~846 |
+| Start with a bang! | 19.00% | ~847 |
+| Feeling the beat! | 19.00% | ~847 |
 | You can pet the cat! | 18.00% | ~802 |
 | Cream of the Crop | 16.00% | ~713 |
 | Who put gears in there? | 16.00% | ~713 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 23)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,455 (Ranked 194)  
+Progressed: 4,456 (Ranked 194)  
 Completed: 8 (0.18%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 8 (0.18%) (Ranked 265)
 | 2023-11-29 | 4,429 | 8 |
 | 2023-11-30 | 4,441 | 8 |
 | 2023-12-01 | 4,446 | 8 |
-| 2023-12-02 | 4,455 | 8 |
+| 2023-12-02 | 4,456 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

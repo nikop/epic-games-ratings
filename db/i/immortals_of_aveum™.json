@@ -1899,9 +1899,9 @@
       "ID": "achievement_8",
       "SetID": "18al4io",
       "Name": "All the Major Food Groups",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 119
     },
     {
       "ID": "achievement_9",
@@ -1924,8 +1924,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-12-01T00:00:32.3447469+00:00",
-  "LastChanged_Achievements": "2023-12-02T16:09:38.6065443+00:00",
+  "LastChanged_Achievements": "2023-12-02T17:09:12.8660289+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:20.7077171+00:00",
-  "LastUpdate_Ratings": "2023-12-02T16:03:30.7683764+00:00",
-  "LastUpdate_Achievements": "2023-12-02T16:09:38.606579+00:00"
+  "LastUpdate_Ratings": "2023-12-02T17:02:50.3816641+00:00",
+  "LastUpdate_Achievements": "2023-12-02T17:09:12.8660667+00:00"
 }

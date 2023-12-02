@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 817,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1735,9 +1735,9 @@
       "ID": "Capture100Conduits",
       "SetID": "52ail55",
       "Name": "Territorial",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 98
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -1759,9 +1759,9 @@
       "ID": "CompleteCampaignLorekeeper",
       "SetID": "52ail55",
       "Name": "Liberator",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 41
     },
     {
       "ID": "CompleteCampaignVeteran",
@@ -1791,9 +1791,9 @@
       "ID": "CompleteChapter10",
       "SetID": "52ail55",
       "Name": "You da Boss, Now",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 98
     },
     {
       "ID": "CompleteChapter11",
@@ -1871,9 +1871,9 @@
       "ID": "CompleteChapter2",
       "SetID": "52ail55",
       "Name": "Met the Enemy",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 474
+      "UsersEstimate": 482
     },
     {
       "ID": "CompleteChapter3",
@@ -2030,8 +2030,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-02T16:06:57.1564088+00:00",
+  "LastChanged_Achievements": "2023-12-02T17:06:23.2012123+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:09.4303292+00:00",
-  "LastUpdate_Ratings": "2023-12-02T15:59:51.0887919+00:00",
-  "LastUpdate_Achievements": "2023-12-02T16:06:57.1564428+00:00"
+  "LastUpdate_Ratings": "2023-12-02T16:59:34.887856+00:00",
+  "LastUpdate_Achievements": "2023-12-02T17:06:23.2012636+00:00"
 }

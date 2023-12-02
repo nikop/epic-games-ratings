@@ -6,21 +6,21 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~569,638 |
-| Error: Stack Overflow | 66.00% | ~404,259 |
-| We need more gold | 61.00% | ~373,634 |
-| The dawn of civilization | 53.00% | ~324,632 |
-| More FPS for the FPS god! | 50.00% | ~306,257 |
-| Beauty and harmony | 48.00% | ~294,007 |
-| One more! | 44.00% | ~269,506 |
-| Overmind | 24.00% | ~147,003 |
+| First.. Bit? | 93.00% | ~569,643 |
+| Error: Stack Overflow | 66.00% | ~404,263 |
+| We need more gold | 61.00% | ~373,637 |
+| The dawn of civilization | 53.00% | ~324,635 |
+| More FPS for the FPS god! | 50.00% | ~306,260 |
+| Beauty and harmony | 48.00% | ~294,009 |
+| One more! | 44.00% | ~269,508 |
+| Overmind | 24.00% | ~147,005 |
 | RNG is my best friend now | 18.00% | ~110,253 |
-| Cosplay | 14.00% | ~85,752 |
+| Cosplay | 14.00% | ~85,753 |
 | Evolution in progress... | 13.00% | ~79,627 |
-| Step by step | 8.00% | ~49,001 |
+| Step by step | 8.00% | ~49,002 |
 | README reader | 4.00% | ~24,501 |
-| Data scientist | 3.00% | ~18,375 |
-| One small step for a man... | 3.00% | ~18,375 |
+| Data scientist | 3.00% | ~18,376 |
+| One small step for a man... | 3.00% | ~18,376 |
 | To see it all, to learn it all | 2.00% | ~12,250 |
 | Evolution complete | 2.00% | ~12,250 |
 | Best deal on the market | 2.00% | ~12,250 |
@@ -35,7 +35,7 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.30% | ~1,838 |
 | The Scrooge | 0.10% | ~613 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 612,514 (Ranked 30)  
+Progressed: 612,519 (Ranked 30)  
 Completed: 549 (0.09%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 549 (0.09%) (Ranked 291)
 | 2023-11-29 | 612,215 | 548 |
 | 2023-11-30 | 612,325 | 548 |
 | 2023-12-01 | 612,433 | 548 |
-| 2023-12-02 | 612,514 | 549 |
+| 2023-12-02 | 612,519 | 549 |
 ## Awards
 Max (Challenging Puzzles): 138  (Ranked 326)  
 Sum: 138 (Ranked 430)  

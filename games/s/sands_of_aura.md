@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting Sail | 88.00% | ~84 |
+| Setting Sail | 89.00% | ~85 |
 | A Small Thirsty Thing | 15.00% | ~14 |
 | Dousing a Venerable Flame | 11.00% | ~11 |
 | Advanced Armaments | 11.00% | ~11 |
 | Spirit Within | 10.00% | ~10 |
 | Rain Must Fall | 8.00% | ~8 |
 | Overboard | 8.00% | ~8 |
+| Bladesmith | 8.00% | ~8 |
 | Leisis Bless You | 8.00% | ~8 |
-| Bladesmith | 7.00% | ~7 |
 | The Guardian of Fire | 7.00% | ~7 |
 | Explorer | 6.00% | ~6 |
 | Sovereignty of Irons | 5.00% | ~5 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -509,7 +509,7 @@
   ],
   "EOS_Progressed": 5559,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7755,9 +7755,9 @@
       "ID": "12",
       "SetID": "3aa2279",
       "Name": "I\u0027ve Got Everything I Need Right Here",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 28
     },
     {
       "ID": "13",
@@ -8226,8 +8226,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-29T19:59:17.4564892+00:00",
-  "LastChanged_Achievements": "2023-12-02T16:06:18.2579868+00:00",
+  "LastChanged_Achievements": "2023-12-02T17:05:45.799783+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.6428194+00:00",
-  "LastUpdate_Ratings": "2023-12-02T15:58:26.1109571+00:00",
-  "LastUpdate_Achievements": "2023-12-02T16:06:18.2580619+00:00"
+  "LastUpdate_Ratings": "2023-12-02T16:58:04.7950014+00:00",
+  "LastUpdate_Achievements": "2023-12-02T17:05:45.7998575+00:00"
 }

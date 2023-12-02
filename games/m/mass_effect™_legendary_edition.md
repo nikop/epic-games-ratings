@@ -48,6 +48,7 @@
 | The Assassin | 32.00% | ~474 |
 | The Justicar | 32.00% | ~474 |
 | The Quarian | 32.00% | ~474 |
+| The Cure | 32.00% | ~474 |
 | The Prodigal | 32.00% | ~474 |
 | Galactic Explorer | 32.00% | ~474 |
 | Driven | 32.00% | ~474 |
@@ -55,28 +56,27 @@
 | Battlemaster | 31.00% | ~459 |
 | Catharsis | 31.00% | ~459 |
 | Ghost of the Father | 31.00% | ~459 |
-| The Cure | 31.00% | ~459 |
 | Big Game Hunter | 31.00% | ~459 |
 | Revenge! | 31.00% | ~459 |
 | Bringer of War | 31.00% | ~459 |
 | Focused | 30.00% | ~444 |
 | Fade Away | 30.00% | ~444 |
+| Treason | 30.00% | ~444 |
 | Digital Exorcist | 30.00% | ~444 |
 | Heart of Darkness | 30.00% | ~444 |
 | Archivist | 29.00% | ~429 |
 | Friend or Foe | 29.00% | ~429 |
 | Cat's in the Cradle | 29.00% | ~429 |
 | Doppelganger | 29.00% | ~429 |
-| Treason | 29.00% | ~429 |
 | Agent | 29.00% | ~429 |
 | Mobilizer | 29.00% | ~429 |
 | Untouchable | 28.00% | ~414 |
 | Mission Accomplished | 28.00% | ~414 |
 | Suicide Mission | 28.00% | ~414 |
 | Against All Odds | 28.00% | ~414 |
+| A House Divided | 28.00% | ~414 |
 | Eye of the Hurricane | 27.00% | ~400 |
 | Giant Killer | 27.00% | ~400 |
-| A House Divided | 27.00% | ~400 |
 | World Shaker | 26.00% | ~385 |
 | Liberator | 26.00% | ~385 |
 | First Aid Specialist | 25.00% | ~370 |
@@ -88,15 +88,15 @@
 | Lost and Found | 24.00% | ~355 |
 | Paramour II | 22.00% | ~326 |
 | Party Crasher | 22.00% | ~326 |
+| Under Pressure | 21.00% | ~311 |
 | Last Resort | 21.00% | ~311 |
 | Hard Target | 21.00% | ~311 |
+| Saboteur | 21.00% | ~311 |
+| Last Witness | 21.00% | ~311 |
 | Fact Finder | 21.00% | ~311 |
 | Problem Solver | 21.00% | ~311 |
 | Pyromaniac | 20.00% | ~296 |
-| Under Pressure | 20.00% | ~296 |
 | No One Left Behind | 20.00% | ~296 |
-| Saboteur | 20.00% | ~296 |
-| Last Witness | 20.00% | ~296 |
 | Well Connected | 20.00% | ~296 |
 | Executioner | 18.00% | ~266 |
 | Patriot | 18.00% | ~266 |

@@ -1,19 +1,19 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.67 (Ranked 277)  
+Rating: 4.67 (Ranked 276)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~26,048 |
-| A thief's beginning | 10.00% | ~21,706 |
-| Thorough | 10.00% | ~21,706 |
-| Disguised | 9.00% | ~19,536 |
-| Rollin' | 9.00% | ~19,536 |
-| Tanuki Time | 9.00% | ~19,536 |
-| Rescue Takuma | 8.00% | ~17,365 |
-| Stoned Ox | 8.00% | ~17,365 |
+| Genin | 12.00% | ~26,049 |
+| A thief's beginning | 10.00% | ~21,707 |
+| Thorough | 10.00% | ~21,707 |
+| Disguised | 9.00% | ~19,537 |
+| Rollin' | 9.00% | ~19,537 |
+| Tanuki Time | 9.00% | ~19,537 |
+| Rescue Takuma | 8.00% | ~17,366 |
+| Stoned Ox | 8.00% | ~17,366 |
 | Happy Planning | 7.00% | ~15,195 |
 | Ice Ice Yuki | 7.00% | ~15,195 |
 | Jonin | 7.00% | ~15,195 |
@@ -22,9 +22,9 @@ Number of Ratings: 495  (23.09.2022)
 | Flying Rocks | 6.00% | ~13,024 |
 | Mugen Unchained | 6.00% | ~13,024 |
 | Warzone | 6.00% | ~13,024 |
-| Okkoto | 5.00% | ~10,853 |
-| Prisoners | 5.00% | ~10,853 |
-| Too Early | 5.00% | ~10,853 |
+| Okkoto | 5.00% | ~10,854 |
+| Prisoners | 5.00% | ~10,854 |
+| Too Early | 5.00% | ~10,854 |
 | Gear up | 4.00% | ~8,683 |
 | Happy little accidents | 4.00% | ~8,683 |
 | Noboru | 4.00% | ~8,683 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~217 |
 | Release the Kraken | 0.10% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,065 (Ranked 72)  
+Progressed: 217,074 (Ranked 72)  
 Completed: 100 (0.05%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 100 (0.05%) (Ranked 317)
 | 2023-11-29 | 216,552 | 100 |
 | 2023-11-30 | 216,733 | 100 |
 | 2023-12-01 | 216,916 | 100 |
-| 2023-12-02 | 217,065 | 100 |
+| 2023-12-02 | 217,074 | 100 |
 ## Awards
 Max (Great for Beginners): 580  (Ranked 201)  
 Sum: 4,888 (Ranked 144)  

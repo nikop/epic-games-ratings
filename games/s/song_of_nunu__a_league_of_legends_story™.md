@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 75.00% | ~794 |
-| I Broke It | 73.00% | ~772 |
-| Better On Ice | 67.00% | ~709 |
-| Notai Notes | 67.00% | ~709 |
-| Blue Dreams | 66.00% | ~698 |
-| He's Famous! | 66.00% | ~698 |
-| Cutie Poro | 66.00% | ~698 |
-| Krugmazing | 63.00% | ~667 |
-| Moneyball | 61.00% | ~645 |
-| The Fire Below the Mountain | 60.00% | ~635 |
-| No Bites | 54.00% | ~571 |
-| Iceborn | 54.00% | ~571 |
-| Tear of Freedom | 52.00% | ~550 |
-| Boom Things | 52.00% | ~550 |
-| My Darkest Day | 49.00% | ~518 |
-| Rhythm Of Willump | 46.00% | ~487 |
-| The Relentless Storm | 46.00% | ~487 |
+| Feels Familiar | 75.00% | ~795 |
+| I Broke It | 73.00% | ~774 |
+| Better On Ice | 67.00% | ~710 |
+| Notai Notes | 67.00% | ~710 |
+| Cutie Poro | 66.00% | ~700 |
+| Blue Dreams | 65.00% | ~689 |
+| He's Famous! | 65.00% | ~689 |
+| Krugmazing | 63.00% | ~668 |
+| Moneyball | 60.00% | ~636 |
+| The Fire Below the Mountain | 60.00% | ~636 |
+| No Bites | 54.00% | ~572 |
+| Iceborn | 54.00% | ~572 |
+| Tear of Freedom | 52.00% | ~551 |
+| Boom Things | 52.00% | ~551 |
+| My Darkest Day | 49.00% | ~519 |
+| Rhythm Of Willump | 46.00% | ~488 |
+| The Relentless Storm | 46.00% | ~488 |
 | A Tragic Reminder | 44.00% | ~466 |
 | 3000 Year Blackout | 44.00% | ~466 |
-| The Finisher | 42.00% | ~444 |
-| So Close | 41.00% | ~434 |
-| You Get Used To It | 41.00% | ~434 |
+| The Finisher | 42.00% | ~445 |
+| So Close | 41.00% | ~435 |
+| You Get Used To It | 41.00% | ~435 |
 | True Legends | 39.00% | ~413 |
-| Family | 38.00% | ~402 |
-| Biggest Snowball Ever | 38.00% | ~402 |
-| Freeze The Ice Witch | 38.00% | ~402 |
-| Boosted! | 38.00% | ~402 |
-| Deadliest and Biggest Snowball Ever! | 38.00% | ~402 |
-| Bullseye | 36.00% | ~381 |
+| Family | 38.00% | ~403 |
+| Biggest Snowball Ever | 38.00% | ~403 |
+| Boosted! | 38.00% | ~403 |
+| Deadliest and Biggest Snowball Ever! | 38.00% | ~403 |
+| Freeze The Ice Witch | 37.00% | ~392 |
+| Bullseye | 36.00% | ~382 |
 | It Is Not Over | 34.00% | ~360 |
 | On The Rocks | 34.00% | ~360 |
 | Snowy Poro | 32.00% | ~339 |
-| Never Gets Old | 31.00% | ~328 |
+| Never Gets Old | 31.00% | ~329 |
 | Vertical Power | 27.00% | ~286 |
 | One From The Heart | 14.00% | ~148 |
 | Yummy | 10.00% | ~106 |
@@ -49,8 +49,8 @@
 | Rock Star | 2.00% | ~21 |
 | We Are Speed | 2.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058 (Ranked 262)  
-Completed: 8 (0.76%) (Ranked 185)  
+Progressed: 1,060 (Ranked 262)  
+Completed: 8 (0.75%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -92,4 +92,4 @@ Completed: 8 (0.76%) (Ranked 185)
 | 2023-11-29 | 1,020 | 8 |
 | 2023-11-30 | 1,032 | 8 |
 | 2023-12-01 | 1,051 | 8 |
-| 2023-12-02 | 1,058 | 8 |
+| 2023-12-02 | 1,060 | 8 |

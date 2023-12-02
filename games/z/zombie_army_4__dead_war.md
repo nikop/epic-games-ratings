@@ -32,7 +32,7 @@ Number of Ratings: 743  (23.09.2022)
 | You're all going to die down here | 32.00% | ~14,095 |
 | He did Nazi that coming | 32.00% | ~14,095 |
 | Kill of the week | 31.00% | ~13,655 |
-| I never liked them anyway | 30.00% | ~13,214 |
+| I never liked them anyway | 31.00% | ~13,655 |
 | Is it over? | 28.00% | ~12,333 |
 | Got your back | 27.00% | ~11,893 |
 | Gore soaked | 24.00% | ~10,572 |

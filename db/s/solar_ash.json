@@ -2,7 +2,7 @@
   "ID": "fe5a2e3e842a4394938a81f3308df2ed",
   "Name": "Solar Ash",
   "ProductSlug": "solar-ash",
-  "Ranking_Rating": 312,
+  "Ranking_Rating": 311,
   "Ranking_Popularity": 529,
   "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 771,
@@ -295,6 +295,6 @@
   "FirstSeen": "2022-07-22T20:26:55.4392125+00:00",
   "LastChanged": "2023-08-09T10:01:10.4620379+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.7813976+00:00",
-  "LastUpdate_Ratings": "2023-12-02T16:00:58.9738872+00:00",
-  "LastUpdate_Achievements": "2023-12-02T16:09:30.1895448+00:00"
+  "LastUpdate_Ratings": "2023-12-02T17:00:45.4579636+00:00",
+  "LastUpdate_Achievements": "2023-12-02T17:09:04.3171208+00:00"
 }

@@ -1,15 +1,15 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.68 (Ranked 254)  
+Rating: 4.67 (Ranked 276)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,642 |
-| On the Top Step | 88.00% | ~5,282 |
+| Getting on the Step | 94.00% | ~5,643 |
+| On the Top Step | 88.00% | ~5,283 |
 | Setting up for Success | 78.00% | ~4,682 |
 | Team Orders | 75.00% | ~4,502 |
-| Engineer | 56.00% | ~3,361 |
+| Engineer | 56.00% | ~3,362 |
 | Familiar Faces | 49.00% | ~2,941 |
 | Sharing the Love | 44.00% | ~2,641 |
 | Going the Extra Mile | 43.00% | ~2,581 |
@@ -19,13 +19,13 @@ Rating: 4.68 (Ranked 254)
 | Making History | 32.00% | ~1,921 |
 | Network Success | 28.00% | ~1,681 |
 | Writing a new Chapter | 26.00% | ~1,561 |
-| Spring Cleaning | 24.00% | ~1,440 |
-| Reduce | 21.00% | ~1,260 |
-| Ups and Downs | 21.00% | ~1,260 |
-| Crucial Combo | 20.00% | ~1,200 |
-| Reuse | 18.00% | ~1,080 |
-| One for the Book | 17.00% | ~1,020 |
-| Proving Them Wrong | 17.00% | ~1,020 |
+| Spring Cleaning | 24.00% | ~1,441 |
+| Reduce | 21.00% | ~1,261 |
+| Ups and Downs | 21.00% | ~1,261 |
+| Crucial Combo | 20.00% | ~1,201 |
+| Reuse | 18.00% | ~1,081 |
+| One for the Book | 17.00% | ~1,021 |
+| Proving Them Wrong | 17.00% | ~1,021 |
 | Gathering Dust | 16.00% | ~960 |
 | Oil and Water | 15.00% | ~900 |
 | Hitting a Bullseye | 15.00% | ~900 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 254)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,002 (Ranked 186)  
+Progressed: 6,003 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-29 | 5,971 | 0 |
 | 2023-11-30 | 5,982 | 0 |
 | 2023-12-01 | 5,992 | 0 |
-| 2023-12-02 | 6,002 | 0 |
+| 2023-12-02 | 6,003 | 0 |
 ## Awards
 Max (Diverse Characters): 27  (Ranked 514)  
 Sum: 98 (Ranked 452)  

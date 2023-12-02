@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 312)  
+Rating: 4.65 (Ranked 311)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,597 (Ranked 152)  
+Progressed: 15,598 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -575,10 +575,10 @@ Completed: 5 (0.03%) (Ranked 328)
 | 2023-11-29 | 15,545 | 5 |
 | 2023-11-30 | 15,566 | 5 |
 | 2023-12-01 | 15,583 | 5 |
-| 2023-12-02 | 15,597 | 5 |
+| 2023-12-02 | 15,598 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
-Sum: 1,883 (Ranked 219)  
+Sum: 1,884 (Ranked 219)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
@@ -589,8 +589,8 @@ Diff (max vs sum): 55
 | This game is Educational | 212 |
 | This game has Challenging Combat | 203 |
 | This game has Amazing Characters | 197 |
+| This game has Amazing Storytelling | 195 |
 | This game has Quickly Understood Controls | 194 |
-| This game has Amazing Storytelling | 194 |
 | This game has Obsessive Gameplay | 155 |
 | This game has a Creative Community | 101 |
 | This game has Competitive Players | 59 |
@@ -764,3 +764,4 @@ Diff (max vs sum): 55
 | 2023-11-27 | 4.65 | - | 228 | 1,879 |
 | 2023-11-29 | 4.65 | - | 228 | 1,882 |
 | 2023-12-01 | 4.65 | - | 228 | 1,883 |
+| 2023-12-02 | 4.65 | - | 228 | 1,884 |

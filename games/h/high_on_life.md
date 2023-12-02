@@ -30,7 +30,7 @@ Rating: 4.64 (Ranked 334)
 | We Came, We Chainsaw, We Conquered | 1.00% | ~19 |
 | Mux Ado About Shipping | 0.80% | ~15 |
 | Gunning For Your Job | 0.70% | ~172 |
-| We Paid For The Rights To Put A Whole Movie In Here | 0.60% | ~148 |
+| We Paid For The Rights To Put A Whole Movie In Here | 0.70% | ~172 |
 | Fall In Love With A Parasite | 0.50% | ~10 |
 | Sequel-Bait | 0.40% | ~99 |
 | Playing Favorites | 0.30% | ~74 |

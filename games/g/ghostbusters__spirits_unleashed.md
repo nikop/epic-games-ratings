@@ -286,7 +286,7 @@ Completed: 69 (0.22%) (Ranked 254)
 | 2023-12-02 | 31,833 | 69 |
 ## Awards
 Max (Great for Beginners): 319  (Ranked 251)  
-Sum: 2,869 (Ranked 180)  
+Sum: 2,871 (Ranked 180)  
 Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
@@ -298,8 +298,8 @@ Diff (max vs sum): 71
 | This game has Competitive Players | 281 |
 | This game is Relaxing | 279 |
 | This game is Extremely Fun | 277 |
+| This game has Quickly Understood Controls | 266 |
 | This game has Amazing Characters | 265 |
-| This game has Quickly Understood Controls | 264 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
 ## Ratings History
@@ -532,3 +532,4 @@ Diff (max vs sum): 71
 | 2023-11-29 | 4.50 | 319 | 2,860 |
 | 2023-11-30 | 4.50 | 319 | 2,865 |
 | 2023-12-01 | 4.51 | 319 | 2,869 |
+| 2023-12-02 | 4.50 | 319 | 2,871 |

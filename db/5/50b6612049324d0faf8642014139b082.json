@@ -87,7 +87,7 @@
   "Tags": [],
   "EOS_Progressed": 719,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1706,9 +1706,9 @@
       "ID": "achievement_11",
       "SetID": "jnappp",
       "Name": "Gravel Guru",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 194
+      "UsersEstimate": 201
     },
     {
       "ID": "achievement_12",
@@ -1850,9 +1850,9 @@
       "ID": "achievement_4",
       "SetID": "jnappp",
       "Name": "World Rally Champion!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_5",
@@ -1907,8 +1907,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-12-02T15:59:12.448136+00:00",
-  "LastChanged_Achievements": "2023-12-02T16:10:25.7482732+00:00",
+  "LastChanged_Achievements": "2023-12-02T17:10:01.4563504+00:00",
   "LastUpdate_AppInfo": "2023-11-28T21:56:52.2952246+00:00",
-  "LastUpdate_Ratings": "2023-12-02T15:59:12.4481365+00:00",
-  "LastUpdate_Achievements": "2023-12-02T16:10:25.7482944+00:00"
+  "LastUpdate_Ratings": "2023-12-02T16:58:53.8927532+00:00",
+  "LastUpdate_Achievements": "2023-12-02T17:10:01.456373+00:00"
 }

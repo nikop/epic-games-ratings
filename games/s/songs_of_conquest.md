@@ -6,13 +6,13 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 34.00% | ~110 |
-| Double Kill | 25.00% | ~81 |
+| Adept | 34.00% | ~111 |
+| Double Kill | 25.00% | ~82 |
 | Critical Hit | 13.00% | ~42 |
 | Veteran | 12.00% | ~39 |
-| Dressed For Success | 9.00% | ~29 |
-| Sorcerous Spree | 6.00% | ~19 |
-| Humiliation | 6.00% | ~19 |
+| Dressed For Success | 10.00% | ~33 |
+| Sorcerous Spree | 6.00% | ~20 |
+| Humiliation | 6.00% | ~20 |
 | Multi Kill | 4.00% | ~13 |
 | Whoops! | 4.00% | ~13 |
 | Expert Essence Employment | 4.00% | ~13 |
@@ -20,19 +20,21 @@ Number of Ratings: 292  (23.09.2022)
 | Landlord Extraordinaire | 3.00% | ~10 |
 | Master | 3.00% | ~10 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~10 |
-| Such A Fungi | 2.00% | ~6 |
-| Trojan Horse | 2.00% | ~6 |
-| Pyrrhic Victory | 2.00% | ~6 |
+| Such A Fungi | 2.00% | ~7 |
+| Trojan Horse | 2.00% | ~7 |
+| Pyrrhic Victory | 2.00% | ~7 |
 | The Song of Stoutheart | 1.00% | ~3 |
 | This Spot's Taken | 1.00% | ~3 |
+| Infernal Influence | 1.00% | ~3 |
 | Deepstrike | 0.90% | ~3 |
-| Infernal Influence | 0.90% | ~3 |
 | Ultra Kill | 0.90% | ~3 |
 | Death To Diplomacy | 0.60% | ~2 |
 | Versatile Wielder | 0.60% | ~2 |
 | Coming Through! | 0.60% | ~2 |
 | Barbecue | 0.60% | ~2 |
+| From the Ashes | 0.60% | ~2 |
 | Don't Touch My Stuff | 0.60% | ~2 |
+| Cleave | 0.60% | ~2 |
 | Grand Master | 0.60% | ~2 |
 | Hello There | 0.30% | ~1 |
 | Unlimited Power! | 0.30% | ~1 |
@@ -40,10 +42,8 @@ Number of Ratings: 292  (23.09.2022)
 | In The Thick of It | 0.30% | ~1 |
 | Together For Her | 0.30% | ~1 |
 | An Empress's Hope | 0.30% | ~1 |
-| From the Ashes | 0.30% | ~1 |
 | The Marsh Expands | 0.30% | ~1 |
 | Get Over Here! | 0.30% | ~1 |
-| Cleave | 0.30% | ~1 |
 | Bringer of Ruin | 0.00% | ~0 |
 | Attack Bonanza | 0.00% | ~0 |
 | The Price of Freedom | 0.00% | ~0 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 324 (Ranked 349)  
+Progressed: 326 (Ranked 349)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-29 | 288 | 0 |
 | 2023-11-30 | 296 | 0 |
 | 2023-12-01 | 318 | 0 |
-| 2023-12-02 | 324 | 0 |
+| 2023-12-02 | 326 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 514)  
 Sum: 194 (Ranked 405)  

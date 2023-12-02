@@ -4366,9 +4366,9 @@
       "ID": "achievement_113",
       "SetID": "d252ncf",
       "Name": "Under Pressure",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 296
+      "UsersEstimate": 311
     },
     {
       "ID": "achievement_114",
@@ -4830,9 +4830,9 @@
       "ID": "achievement_51",
       "SetID": "d252ncf",
       "Name": "A House Divided",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 414
     },
     {
       "ID": "achievement_52",
@@ -4886,9 +4886,9 @@
       "ID": "achievement_58",
       "SetID": "d252ncf",
       "Name": "The Cure",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 474
     },
     {
       "ID": "achievement_59",
@@ -4910,9 +4910,9 @@
       "ID": "achievement_60",
       "SetID": "d252ncf",
       "Name": "Treason",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 444
     },
     {
       "ID": "achievement_61",
@@ -5142,9 +5142,9 @@
       "ID": "achievement_87",
       "SetID": "d252ncf",
       "Name": "Saboteur",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 311
     },
     {
       "ID": "achievement_88",
@@ -5158,9 +5158,9 @@
       "ID": "achievement_89",
       "SetID": "d252ncf",
       "Name": "Last Witness",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 296
+      "UsersEstimate": 311
     },
     {
       "ID": "achievement_9",
@@ -5266,8 +5266,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-02T16:09:40.2325698+00:00",
+  "LastChanged_Achievements": "2023-12-02T17:09:14.3810156+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:10.3433357+00:00",
-  "LastUpdate_Ratings": "2023-12-02T16:03:56.3817099+00:00",
-  "LastUpdate_Achievements": "2023-12-02T16:09:40.232725+00:00"
+  "LastUpdate_Ratings": "2023-12-02T17:03:17.0282694+00:00",
+  "LastUpdate_Achievements": "2023-12-02T17:09:14.3811709+00:00"
 }

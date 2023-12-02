@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,637 |
-| Pork Chopped | 3.00% | ~1,637 |
+| Whatever It Takes | 3.00% | ~1,638 |
+| Pork Chopped | 3.00% | ~1,638 |
 | Git Gutte! | 2.00% | ~14,581 |
 | Break A Leg | 2.00% | ~14,581 |
 | Coup de Grâce | 2.00% | ~14,581 |
@@ -17,34 +17,34 @@ Rating: 4.54 (Ranked 529)
 | Personal Assistant Personally Assisted | 2.00% | ~14,581 |
 | Welcome To Hell-A | 2.00% | ~14,581 |
 | One of Us | 2.00% | ~1,092 |
-| Dr. Reed, I Presume? | 1.00% | ~7,290 |
-| Anger Management | 1.00% | ~7,290 |
-| Perks of the Job | 1.00% | ~7,290 |
-| Bookworm | 1.00% | ~7,290 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,290 |
-| But Doctor, I am Butcho | 1.00% | ~7,290 |
-| Slayer Squad | 1.00% | ~7,290 |
-| Can't Handle the Truth | 1.00% | ~7,290 |
-| Like Riding a Bike | 1.00% | ~7,290 |
-| Zombologist | 1.00% | ~7,290 |
-| Ooh, Shiny! | 1.00% | ~7,290 |
-| A Patton Emerges | 1.00% | ~7,290 |
-| I Am the Resurrection | 1.00% | ~7,290 |
-| Stacking the Deck | 1.00% | ~7,290 |
-| Our True Nature | 1.00% | ~7,290 |
-| This is My Weapon | 1.00% | ~7,290 |
-| Making Your Mark | 0.90% | ~6,561 |
-| Humanity Distilled | 0.90% | ~6,561 |
-| Max Headroom | 0.90% | ~6,561 |
-| Down with the Sickness | 0.80% | ~5,832 |
+| Dr. Reed, I Presume? | 1.00% | ~7,291 |
+| Anger Management | 1.00% | ~7,291 |
+| Perks of the Job | 1.00% | ~7,291 |
+| Bookworm | 1.00% | ~7,291 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,291 |
+| But Doctor, I am Butcho | 1.00% | ~7,291 |
+| Slayer Squad | 1.00% | ~7,291 |
+| Can't Handle the Truth | 1.00% | ~7,291 |
+| Like Riding a Bike | 1.00% | ~7,291 |
+| Zombologist | 1.00% | ~7,291 |
+| Ooh, Shiny! | 1.00% | ~7,291 |
+| A Patton Emerges | 1.00% | ~7,291 |
+| I Am the Resurrection | 1.00% | ~7,291 |
+| Stacking the Deck | 1.00% | ~7,291 |
+| Our True Nature | 1.00% | ~7,291 |
+| This is My Weapon | 1.00% | ~7,291 |
+| Making Your Mark | 0.90% | ~6,562 |
+| Humanity Distilled | 0.90% | ~6,562 |
+| Max Headroom | 0.90% | ~6,562 |
+| Down with the Sickness | 0.80% | ~5,833 |
 | Not Even My Final Form | 0.70% | ~5,103 |
 | Jumbo Keyring | 0.70% | ~5,103 |
 | Go, Bobcats! | 0.70% | ~5,103 |
 | Rising Star | 0.70% | ~5,103 |
+| Internet Famous | 0.60% | ~4,374 |
 | Make it So | 0.50% | ~3,645 |
 | On Safari | 0.50% | ~3,645 |
 | Smorgasbord | 0.50% | ~3,645 |
-| Internet Famous | 0.50% | ~3,645 |
 | Variety is the Spice of Death | 0.50% | ~3,645 |
 | LA Influential | 0.40% | ~2,916 |
 | Gore Horse | 0.40% | ~2,916 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 529)
 | Bucket List | 0.10% | ~729 |
 | Wilhelm | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 729,038 (Ranked 21)  
+Progressed: 729,068 (Ranked 21)  
 Completed: 2,459 (0.34%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 2,459 (0.34%) (Ranked 232)
 | 2023-11-29 | 727,809 | 2,450 |
 | 2023-11-30 | 728,231 | 2,456 |
 | 2023-12-01 | 728,667 | 2,459 |
-| 2023-12-02 | 729,038 | 2,459 |
+| 2023-12-02 | 729,068 | 2,459 |
 ## Awards
 Max (Great Boss Battles): 7,869  (Ranked 49)  
 Sum: 12,068 (Ranked 83)  

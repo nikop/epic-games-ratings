@@ -335,9 +335,9 @@
       "ID": "ACH_10_SARAH",
       "SetID": "9dl0ei6",
       "Name": "Sarah",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_11_SOFIA",
@@ -486,8 +486,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-12-02T16:10:26.7834206+00:00",
+  "LastChanged_Achievements": "2023-12-02T17:10:02.6011578+00:00",
   "LastUpdate_AppInfo": "2023-11-26T23:57:17.243865+00:00",
-  "LastUpdate_Ratings": "2023-12-02T16:03:08.936303+00:00",
-  "LastUpdate_Achievements": "2023-12-02T16:10:26.783439+00:00"
+  "LastUpdate_Ratings": "2023-12-02T17:02:26.33174+00:00",
+  "LastUpdate_Achievements": "2023-12-02T17:10:02.6011727+00:00"
 }

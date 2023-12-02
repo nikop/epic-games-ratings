@@ -1,35 +1,35 @@
 # PC Building Simulator
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator)  
 [View Rawdata](../../db/p/pc_building_simulator.json)  
-Rating: 4.66 (Ranked 294)  
+Rating: 4.65 (Ranked 311)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,757,318 |
-| Easy to forget | 46.00% | ~1,649,727 |
-| Back in the black | 39.00% | ~1,398,682 |
-| That's what I'm talking about | 29.00% | ~1,040,045 |
-| The Best of Both Worlds | 25.00% | ~896,591 |
-| Get your wings | 20.00% | ~717,273 |
-| Double trouble | 16.00% | ~573,818 |
-| Smashing it | 11.00% | ~394,500 |
-| But can it run Crysis? | 9.00% | ~322,773 |
-| My favourite feature... | 9.00% | ~322,773 |
-| From humble beginnings... | 7.00% | ~251,045 |
-| Customer satisfaction | 7.00% | ~251,045 |
+| You need to plug it in... | 49.00% | ~1,757,327 |
+| Easy to forget | 46.00% | ~1,649,736 |
+| Back in the black | 39.00% | ~1,398,689 |
+| That's what I'm talking about | 29.00% | ~1,040,051 |
+| The Best of Both Worlds | 25.00% | ~896,596 |
+| Get your wings | 20.00% | ~717,276 |
+| Double trouble | 16.00% | ~573,821 |
+| Smashing it | 11.00% | ~394,502 |
+| But can it run Crysis? | 9.00% | ~322,774 |
+| My favourite feature... | 9.00% | ~322,774 |
+| From humble beginnings... | 7.00% | ~251,047 |
+| Customer satisfaction | 7.00% | ~251,047 |
 | Keeping things neat | 4.00% | ~143,455 |
 | Seems you're pretty good at this | 4.00% | ~143,455 |
 | Bending over backwards | 4.00% | ~143,455 |
 | Triple threat | 3.00% | ~107,591 |
 | You rock at this! | 3.00% | ~107,591 |
 | Your music sucks | 3.00% | ~107,591 |
-| I'm broke, Uncle! | 2.00% | ~71,727 |
-| Maybe you should try something else? | 2.00% | ~71,727 |
-| Taking care of business | 2.00% | ~71,727 |
-| Things are under control | 2.00% | ~71,727 |
-| Perfection | 2.00% | ~71,727 |
-| Calling in Sick | 2.00% | ~71,727 |
+| I'm broke, Uncle! | 2.00% | ~71,728 |
+| Maybe you should try something else? | 2.00% | ~71,728 |
+| Taking care of business | 2.00% | ~71,728 |
+| Things are under control | 2.00% | ~71,728 |
+| Perfection | 2.00% | ~71,728 |
+| Calling in Sick | 2.00% | ~71,728 |
 | Overvolted | 1.00% | ~35,864 |
 | If you fail the first time... | 1.00% | ~35,864 |
 | Amazonian | 1.00% | ~35,864 |
@@ -42,7 +42,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Building momentum | 0.60% | ~21,518 |
 | Lead by example | 0.60% | ~21,518 |
 | Treat yourself - RAM | 0.50% | ~17,932 |
-| Mr big business | 0.40% | ~14,345 |
+| Mr big business | 0.40% | ~14,346 |
 | So you're the reason why the prices are so high? | 0.30% | ~10,759 |
 | Mister Big | 0.30% | ~10,759 |
 | Getting your feet wet | 0.30% | ~10,759 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,586 |
 | Treat yourself - GPU | 0.10% | ~3,586 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,586,363 (Ranked 5)  
+Progressed: 3,586,382 (Ranked 5)  
 Completed: 39 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,10 +285,10 @@ Completed: 39 (0.00%) (Ranked 365)
 | 2023-11-29 | 3,585,443 | 39 |
 | 2023-11-30 | 3,585,764 | 39 |
 | 2023-12-01 | 3,586,124 | 39 |
-| 2023-12-02 | 3,586,363 | 39 |
+| 2023-12-02 | 3,586,382 | 39 |
 ## Awards
 Max (Great for Beginners): 1,112  (Ranked 144)  
-Sum: 8,170 (Ranked 104)  
+Sum: 8,173 (Ranked 104)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
@@ -296,10 +296,10 @@ Diff (max vs sum): 40
 | This game is Educational | 1,012 |
 | This game is Extremely Fun | 1,012 |
 | This game is Relaxing | 996 |
-| This game has Quickly Understood Controls | 955 |
+| This game has Quickly Understood Controls | 956 |
 | This game is Highly Recommended | 918 |
-| This game has Amazing Storytelling | 828 |
-| This game has Amazing Characters | 674 |
+| This game has Amazing Storytelling | 829 |
+| This game has Amazing Characters | 675 |
 | This game has Obsessive Gameplay | 664 |
 | This game has a Creative Community | 663 |
 ## Ratings History
@@ -573,4 +573,4 @@ Diff (max vs sum): 40
 | 2023-11-29 | 4.65 | - | 1,110 | 8,163 |
 | 2023-11-30 | 4.65 | - | 1,110 | 8,164 |
 | 2023-12-01 | 4.66 | - | 1,112 | 8,167 |
-| 2023-12-02 | 4.66 | - | 1,112 | 8,170 |
+| 2023-12-02 | 4.66 | - | 1,112 | 8,173 |

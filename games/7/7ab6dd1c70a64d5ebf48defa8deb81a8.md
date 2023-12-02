@@ -10,12 +10,12 @@
 | Find Allies | 10.00% | ~24 |
 | Powerful Allies | 10.00% | ~24 |
 | Adventurer | 10.00% | ~24 |
+| Scholar | 10.00% | ~24 |
 | The Collector | 10.00% | ~24 |
 | A Taste of Wrath | 9.00% | ~22 |
 | Tributes of Caladrias | 9.00% | ~22 |
 | Shatter Them All | 9.00% | ~22 |
 | Geared Up | 9.00% | ~22 |
-| Scholar | 9.00% | ~22 |
 | Big Bazar | 8.00% | ~19 |
 | Fashion Victim | 8.00% | ~19 |
 | Stone Collection | 8.00% | ~19 |

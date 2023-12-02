@@ -43,7 +43,7 @@ Number of Ratings: 154  (23.09.2022)
 | Sonic the Hedgehog 2 Mission Master | 11.00% | ~69 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 628 (Ranked 296)  
-Completed: 45 (7.17%) (Ranked 58)  
+Completed: 45 (7.17%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

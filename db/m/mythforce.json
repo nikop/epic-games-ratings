@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -806,9 +806,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5274,
+  "EOS_Progressed": 5275,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10381,6 +10381,11 @@
       "Time": "2023-12-02T13:08:19.0561125+00:00",
       "NumProgressed": 5274,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-02T17:07:44.1713158+00:00",
+      "NumProgressed": 5275,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -10393,7 +10398,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -10423,9 +10428,9 @@
       "ID": "MF_Ach_DebuffDogpile",
       "SetID": "9b9n573",
       "Name": "Debuff Dogpile",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1266
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -10433,7 +10438,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -10441,7 +10446,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1371
+      "UsersEstimate": 1372
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -10465,7 +10470,7 @@
       "Name": "The Fourth Gate",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "MF_Ach_HarderTheyFall",
@@ -10513,7 +10518,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -10545,7 +10550,7 @@
       "Name": "Spending Spree",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -10576,15 +10581,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5274,
+      "Progressed": 5275,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-01T06:01:05.0621947+00:00",
-  "LastChanged_Achievements": "2023-12-02T16:08:14.370531+00:00",
+  "LastChanged_Achievements": "2023-12-02T17:07:44.1713152+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:57.8728893+00:00",
-  "LastUpdate_Ratings": "2023-12-02T16:03:16.0448749+00:00",
-  "LastUpdate_Achievements": "2023-12-02T16:08:14.3705785+00:00"
+  "LastUpdate_Ratings": "2023-12-02T17:02:33.5251572+00:00",
+  "LastUpdate_Achievements": "2023-12-02T17:07:44.1713672+00:00"
 }

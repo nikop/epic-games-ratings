@@ -5,40 +5,40 @@ Rating: 4.57 (Ranked 477)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 93.00% | ~55 |
-| Map reader | 78.00% | ~46 |
-| Philanthropist | 73.00% | ~43 |
-| Adventurer | 69.00% | ~41 |
-| The brave little tailor | 54.00% | ~32 |
-| Archer | 54.00% | ~32 |
-| Field hand | 49.00% | ~29 |
-| Samaritan | 49.00% | ~29 |
-| Well-to-do | 46.00% | ~27 |
-| The merciful one | 44.00% | ~26 |
-| Ladies' man | 44.00% | ~26 |
+| Beginner | 93.00% | ~56 |
+| Map reader | 77.00% | ~46 |
+| Philanthropist | 72.00% | ~43 |
+| Adventurer | 68.00% | ~41 |
+| The brave little tailor | 53.00% | ~32 |
+| Archer | 53.00% | ~32 |
+| Field hand | 48.00% | ~29 |
+| Samaritan | 48.00% | ~29 |
+| Well-to-do | 45.00% | ~27 |
+| The merciful one | 43.00% | ~26 |
+| Ladies' man | 43.00% | ~26 |
 | Ferocious wild boars | 32.00% | ~19 |
-| Idiot | 31.00% | ~18 |
-| Wise man | 29.00% | ~17 |
+| Idiot | 30.00% | ~18 |
+| Wise man | 28.00% | ~17 |
 | Beast slayer | 27.00% | ~16 |
 | Death of a legend | 25.00% | ~15 |
 | Ogre friend | 25.00% | ~15 |
 | Hard worker | 25.00% | ~15 |
 | The fourth triplet | 25.00% | ~15 |
 | Master detective | 25.00% | ~15 |
-| Family man | 24.00% | ~14 |
+| Family man | 23.00% | ~14 |
 | Archaeologist | 22.00% | ~13 |
 | Little hero | 22.00% | ~13 |
 | Pandora's box | 22.00% | ~13 |
 | Peacekeeper | 22.00% | ~13 |
 | Sidelined | 22.00% | ~13 |
-| Defender | 19.00% | ~11 |
-| Ghost hunter | 19.00% | ~11 |
-| Fence | 19.00% | ~11 |
+| Defender | 18.00% | ~11 |
+| Ghost hunter | 18.00% | ~11 |
+| Fence | 18.00% | ~11 |
 | Showdown | 17.00% | ~10 |
 | Workaholic | 17.00% | ~10 |
 | Master thief | 15.00% | ~9 |
-| Freedom fighter | 14.00% | ~8 |
-| Safecracker | 14.00% | ~8 |
+| Freedom fighter | 13.00% | ~8 |
+| Safecracker | 13.00% | ~8 |
 | Titan Lord | 12.00% | ~7 |
 | Moneybags | 10.00% | ~6 |
 | King of the handymen | 10.00% | ~6 |
@@ -56,7 +56,7 @@ Rating: 4.57 (Ranked 477)
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59 (Ranked 488)  
+Progressed: 60 (Ranked 485)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,6 +94,7 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-27 | 55 | 0 |
 | 2023-11-28 | 57 | 0 |
 | 2023-11-30 | 59 | 0 |
+| 2023-12-02 | 60 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

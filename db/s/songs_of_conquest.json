@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 324,
+  "EOS_Progressed": 326,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1423,6 +1423,11 @@
       "Time": "2023-12-02T16:07:03.1040343+00:00",
       "NumProgressed": 324,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T17:06:29.4491817+00:00",
+      "NumProgressed": 326,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1457,9 +1462,9 @@
       "ID": "ArtifactsEquipped",
       "SetID": "71c0n9i",
       "Name": "Dressed For Success",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 33
     },
     {
       "ID": "AttackCount",
@@ -1579,7 +1584,7 @@
       "Name": "Double Kill",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "FlameAttackKillCount",
@@ -1609,7 +1614,7 @@
       "ID": "InfernalInfluence",
       "SetID": "71c0n9i",
       "Name": "Infernal Influence",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -1681,9 +1686,9 @@
       "ID": "RanaCampaign",
       "SetID": "71c0n9i",
       "Name": "From the Ashes",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "RanaCampaignFinaleOnHard",
@@ -1707,7 +1712,7 @@
       "Name": "Such A Fungi",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SorcerousSpree",
@@ -1715,7 +1720,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -1729,9 +1734,9 @@
       "ID": "SweepKillCount",
       "SetID": "71c0n9i",
       "Name": "Cleave",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "TownCompletion",
@@ -1747,7 +1752,7 @@
       "Name": "Trojan Horse",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "UltraKill",
@@ -1763,7 +1768,7 @@
       "Name": "Adept",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "WielderLevel2",
@@ -1795,7 +1800,7 @@
       "Name": "Humiliation",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -1803,7 +1808,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "WinBattleWithoutAttacking",
@@ -1866,15 +1871,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 324,
+      "Progressed": 326,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-02T16:07:03.1040337+00:00",
+  "LastChanged_Achievements": "2023-12-02T17:06:29.4491815+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:52.6052196+00:00",
-  "LastUpdate_Ratings": "2023-12-02T15:57:42.2680273+00:00",
-  "LastUpdate_Achievements": "2023-12-02T16:07:03.1040715+00:00"
+  "LastUpdate_Ratings": "2023-12-02T16:57:17.5325039+00:00",
+  "LastUpdate_Achievements": "2023-12-02T17:06:29.4492206+00:00"
 }
