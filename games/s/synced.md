@@ -22,7 +22,7 @@ Rating: 4.16 (Ranked 944)
 | Gone Rogue | 0.30% | ~204 |
 | Runs for Your Money | 0.30% | ~204 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,920 (Ranked 102)  
+Progressed: 67,921 (Ranked 102)  
 Completed: 38 (0.06%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 38 (0.06%) (Ranked 311)
 | 2023-11-29 | 67,744 | 38 |
 | 2023-11-30 | 67,802 | 38 |
 | 2023-12-01 | 67,857 | 38 |
-| 2023-12-02 | 67,920 | 38 |
+| 2023-12-02 | 67,921 | 38 |
 ## Awards
 Max (Great for Beginners): 98  (Ranked 365)  
 Sum: 400 (Ranked 343)  

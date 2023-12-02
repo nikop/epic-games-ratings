@@ -7,16 +7,16 @@ Rating: 4.54 (Ranked 528)
 | ---- | ---------- | ----- |
 | Whatever It Takes | 3.00% | ~1,640 |
 | Pork Chopped | 3.00% | ~1,640 |
-| Git Gutte! | 2.00% | ~14,582 |
-| Break A Leg | 2.00% | ~14,582 |
-| Coup de Grâce | 2.00% | ~14,582 |
-| Hazardous Materials | 2.00% | ~14,582 |
-| Friends Like These | 2.00% | ~14,582 |
-| Hotel California | 2.00% | ~14,582 |
-| Apex Predator | 2.00% | ~14,582 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,582 |
-| Welcome To Hell-A | 2.00% | ~14,582 |
-| One of Us | 2.00% | ~1,093 |
+| Git Gutte! | 2.00% | ~14,583 |
+| Break A Leg | 2.00% | ~14,583 |
+| Coup de Grâce | 2.00% | ~14,583 |
+| Hazardous Materials | 2.00% | ~14,583 |
+| Friends Like These | 2.00% | ~14,583 |
+| Hotel California | 2.00% | ~14,583 |
+| Apex Predator | 2.00% | ~14,583 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,583 |
+| Welcome To Hell-A | 2.00% | ~14,583 |
+| One of Us | 2.00% | ~1,094 |
 | Dr. Reed, I Presume? | 1.00% | ~7,291 |
 | Anger Management | 1.00% | ~7,291 |
 | Perks of the Job | 1.00% | ~7,291 |
@@ -46,8 +46,8 @@ Rating: 4.54 (Ranked 528)
 | On Safari | 0.50% | ~3,646 |
 | Smorgasbord | 0.50% | ~3,646 |
 | Variety is the Spice of Death | 0.50% | ~3,646 |
-| LA Influential | 0.40% | ~2,916 |
-| Gore Horse | 0.40% | ~2,916 |
+| LA Influential | 0.40% | ~2,917 |
+| Gore Horse | 0.40% | ~2,917 |
 | Top That, Tisha! | 0.40% | ~219 |
 | Sole Survivor | 0.30% | ~2,187 |
 | Sharpest Tool in the Box | 0.30% | ~2,187 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 528)
 | Bucket List | 0.10% | ~729 |
 | Wilhelm | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 729,116 (Ranked 21)  
+Progressed: 729,133 (Ranked 21)  
 Completed: 2,460 (0.34%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 2,460 (0.34%) (Ranked 232)
 | 2023-11-29 | 727,809 | 2,450 |
 | 2023-11-30 | 728,231 | 2,456 |
 | 2023-12-01 | 728,667 | 2,459 |
-| 2023-12-02 | 729,116 | 2,460 |
+| 2023-12-02 | 729,133 | 2,460 |
 ## Awards
 Max (Great Boss Battles): 7,869  (Ranked 49)  
 Sum: 12,068 (Ranked 83)  

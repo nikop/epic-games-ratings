@@ -21,19 +21,19 @@ Rating: 4.24 (Ranked 890)
 | Engineer | 2.00% | ~15,130 |
 | High Flyer | 2.00% | ~15,130 |
 | Captain | 0.80% | ~6,052 |
-| Billionaire | 0.70% | ~5,295 |
+| Billionaire | 0.70% | ~5,296 |
 | Vroom Vroom | 0.40% | ~3,026 |
-| Excavator | 0.30% | ~2,269 |
-| Loan Ranger | 0.30% | ~2,269 |
-| [2130] Nature Lover | 0.10% | ~756 |
-| [2130] No Quarter Given | 0.10% | ~756 |
-| [2130] Dumpster Diving | 0.10% | ~756 |
-| Freelancer | 0.10% | ~756 |
-| Director | 0.10% | ~756 |
-| Master Builder | 0.10% | ~756 |
-| Hard working | 0.10% | ~756 |
+| Excavator | 0.30% | ~2,270 |
+| Loan Ranger | 0.30% | ~2,270 |
+| [2130] Nature Lover | 0.10% | ~757 |
+| [2130] No Quarter Given | 0.10% | ~757 |
+| [2130] Dumpster Diving | 0.10% | ~757 |
+| Freelancer | 0.10% | ~757 |
+| Director | 0.10% | ~757 |
+| Master Builder | 0.10% | ~757 |
+| Hard working | 0.10% | ~757 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 756,499 (Ranked 18)  
+Progressed: 756,501 (Ranked 18)  
 Completed: 4 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 4 (0.00%) (Ranked 365)
 | 2023-11-29 | 755,743 | 4 |
 | 2023-11-30 | 755,978 | 4 |
 | 2023-12-01 | 756,248 | 4 |
-| 2023-12-02 | 756,499 | 4 |
+| 2023-12-02 | 756,501 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

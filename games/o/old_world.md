@@ -80,6 +80,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 2.00% | ~312 |
 | Manichaeism | 2.00% | ~312 |
 | Persian Paganism | 2.00% | ~312 |
+| Building Wonders | 2.00% | ~312 |
 | Mythology | 2.00% | ~312 |
 | Points Victory | 2.00% | ~312 |
 | Win a Single Player Game | 2.00% | ~312 |
@@ -111,7 +112,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 1.00% | ~156 |
 | One True Faith | 1.00% | ~156 |
 | Assyrian Paganism | 1.00% | ~156 |
-| Building Wonders | 1.00% | ~156 |
 | Economic Reform | 1.00% | ~156 |
 | Industrial Progress | 1.00% | ~156 |
 | Military Prestige | 1.00% | ~156 |

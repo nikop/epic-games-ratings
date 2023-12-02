@@ -2,10 +2,10 @@
   "ID": "e9543b5d696d4129af27a26b22ceeaff",
   "Name": "International Basketball Manager 23",
   "ProductSlug": "international-basketball-manager-23-561576",
-  "Ranking_EOS_Progress": 614,
+  "Ranking_EOS_Progress": 615,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 371,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
     "PcReleaseDate": "2022-12-01T04:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 9,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -347,8 +347,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2023-12-02T19:07:02.7607549+00:00",
+  "LastChanged_Achievements": "2023-12-02T20:10:23.1369297+00:00",
   "LastUpdate_AppInfo": "2023-12-01T01:54:00.4172287+00:00",
-  "LastUpdate_Ratings": "2023-12-02T19:00:08.8629046+00:00",
-  "LastUpdate_Achievements": "2023-12-02T19:07:02.760774+00:00"
+  "LastUpdate_Ratings": "2023-12-02T20:02:33.5928317+00:00",
+  "LastUpdate_Achievements": "2023-12-02T20:10:23.1369457+00:00"
 }

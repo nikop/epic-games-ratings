@@ -5,10 +5,10 @@
   "Ranking_Rating": 641,
   "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 101,
-  "Ranking_EOS_Progress": 132,
+  "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -2597,9 +2597,9 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 24198,
+  "EOS_Progressed": 24200,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1302,
+  "EOS_NewPlayers": 1289,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11537,6 +11537,11 @@
       "Time": "2023-12-02T19:08:39.276628+00:00",
       "NumProgressed": 24198,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T20:10:38.8776986+00:00",
+      "NumProgressed": 24200,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -11733,7 +11738,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 9921
+      "UsersEstimate": 9922
     },
     {
       "ID": "Achievement_Trophy25",
@@ -11749,7 +11754,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 8227
+      "UsersEstimate": 8228
     },
     {
       "ID": "Achievement_Trophy27",
@@ -11765,7 +11770,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7985
+      "UsersEstimate": 7986
     },
     {
       "ID": "Achievement_Trophy29",
@@ -11781,7 +11786,7 @@
       "Name": "Spread the plague",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 7017
+      "UsersEstimate": 7018
     },
     {
       "ID": "Achievement_Trophy31",
@@ -11789,7 +11794,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 7501
+      "UsersEstimate": 7502
     },
     {
       "ID": "Achievement_Trophy32",
@@ -11819,9 +11824,9 @@
       "ID": "Achievement_Trophy35",
       "SetID": "724h0m0",
       "Name": "The Pro from Dover",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 968
+      "UsersEstimate": 1210
     },
     {
       "ID": "Achievement_Trophy36",
@@ -12036,7 +12041,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 24198,
+      "Progressed": 24200,
       "Completed": 1
     }
   ],
@@ -12044,8 +12049,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-02T14:58:05.2608169+00:00",
-  "LastChanged_Achievements": "2023-12-02T19:08:39.2766277+00:00",
+  "LastChanged_Achievements": "2023-12-02T20:10:38.8776982+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:22.2817081+00:00",
-  "LastUpdate_Ratings": "2023-12-02T18:58:17.0270754+00:00",
-  "LastUpdate_Achievements": "2023-12-02T19:08:39.276703+00:00"
+  "LastUpdate_Ratings": "2023-12-02T19:58:28.0683959+00:00",
+  "LastUpdate_Achievements": "2023-12-02T20:10:38.8777678+00:00"
 }

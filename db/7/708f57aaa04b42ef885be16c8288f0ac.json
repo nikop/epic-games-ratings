@@ -171,9 +171,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7295,
+  "EOS_Progressed": 7296,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 775,
+  "EOS_NewPlayers": 770,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5291,6 +5291,11 @@
       "Time": "2023-12-02T19:09:31.9709669+00:00",
       "NumProgressed": 7295,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-02T20:11:32.0033433+00:00",
+      "NumProgressed": 7296,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5359,7 +5364,7 @@
       "Name": "Explosive Personality",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "FasterThanLight",
@@ -5407,7 +5412,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -5519,7 +5524,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "UnResurrected",
@@ -5535,7 +5540,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -5574,7 +5579,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7295,
+      "Progressed": 7296,
       "Completed": 13
     }
   ],
@@ -5582,8 +5587,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-02T04:02:27.6504223+00:00",
-  "LastChanged_Achievements": "2023-12-02T19:09:31.9709663+00:00",
+  "LastChanged_Achievements": "2023-12-02T20:11:32.0033429+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-02T18:57:43.8733167+00:00",
-  "LastUpdate_Achievements": "2023-12-02T19:09:31.9710087+00:00"
+  "LastUpdate_Ratings": "2023-12-02T19:57:56.4452518+00:00",
+  "LastUpdate_Achievements": "2023-12-02T20:11:32.0033789+00:00"
 }

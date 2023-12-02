@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -2365,9 +2365,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 46187,
+  "EOS_Progressed": 46188,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 450,
+  "EOS_NewPlayers": 448,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -27000,6 +27000,11 @@
       "Time": "2023-12-02T19:04:11.0237196+00:00",
       "NumProgressed": 46187,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-12-02T20:05:10.9011178+00:00",
+      "NumProgressed": 46188,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 75,
@@ -27011,7 +27016,7 @@
       "Name": "That Was Easy!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9237
+      "UsersEstimate": 9238
     },
     {
       "ID": "achievements_10",
@@ -27067,7 +27072,7 @@
       "Name": "Mad Genius",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 16165
+      "UsersEstimate": 16166
     },
     {
       "ID": "achievements_19",
@@ -27075,7 +27080,7 @@
       "Name": "Bane of Monsters",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 12932
+      "UsersEstimate": 12933
     },
     {
       "ID": "achievements_2",
@@ -27099,7 +27104,7 @@
       "Name": "I\u0027ll Be Back!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "achievements_22",
@@ -27115,7 +27120,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 27712
+      "UsersEstimate": 27713
     },
     {
       "ID": "achievements_24",
@@ -27131,7 +27136,7 @@
       "Name": "Chainbreaker - III",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 12932
+      "UsersEstimate": 12933
     },
     {
       "ID": "achievements_26",
@@ -27203,7 +27208,7 @@
       "Name": "Cannon Fodder - II",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 13394
+      "UsersEstimate": 13395
     },
     {
       "ID": "achievements_34",
@@ -27267,7 +27272,7 @@
       "Name": "Silent Waters",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9237
+      "UsersEstimate": 9238
     },
     {
       "ID": "achievements_41",
@@ -27307,7 +27312,7 @@
       "Name": "Legendary Warrior",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 5542
+      "UsersEstimate": 5543
     },
     {
       "ID": "achievements_46",
@@ -27315,7 +27320,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 39259
+      "UsersEstimate": 39260
     },
     {
       "ID": "achievements_47",
@@ -27347,7 +27352,7 @@
       "Name": "Necromancer\u0027s Apprentice",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 23555
+      "UsersEstimate": 23556
     },
     {
       "ID": "achievements_50",
@@ -27355,7 +27360,7 @@
       "Name": "Master of Destruction",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1847
+      "UsersEstimate": 1848
     },
     {
       "ID": "achievements_51",
@@ -27387,7 +27392,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 19860
+      "UsersEstimate": 19861
     },
     {
       "ID": "achievements_55",
@@ -27443,7 +27448,7 @@
       "Name": "Head of Order",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9237
+      "UsersEstimate": 9238
     },
     {
       "ID": "achievements_62",
@@ -27595,7 +27600,7 @@
       "Name": "Shadow Between Worlds",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 13394
+      "UsersEstimate": 13395
     },
     {
       "ID": "achievements_9",
@@ -27610,15 +27615,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 46187,
+      "Progressed": 46188,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-12-01T14:58:17.2382026+00:00",
-  "LastChanged_Achievements": "2023-12-02T19:04:11.0237193+00:00",
+  "LastChanged_Achievements": "2023-12-02T20:05:10.9011173+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:50.9531821+00:00",
-  "LastUpdate_Ratings": "2023-12-02T18:59:26.8138212+00:00",
-  "LastUpdate_Achievements": "2023-12-02T19:04:11.0238619+00:00"
+  "LastUpdate_Ratings": "2023-12-02T20:00:00.1852045+00:00",
+  "LastUpdate_Achievements": "2023-12-02T20:05:10.9012841+00:00"
 }

@@ -1671,9 +1671,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 321892,
+  "EOS_Progressed": 321910,
   "EOS_Completed": 427,
-  "EOS_NewPlayers": 9861,
+  "EOS_NewPlayers": 9765,
   "EOS_NewCompleters": 97,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -14666,6 +14666,11 @@
       "Time": "2023-12-02T19:06:35.5099705+00:00",
       "NumProgressed": 321892,
       "NumCompleted": 427
+    },
+    {
+      "Time": "2023-12-02T20:09:56.0242033+00:00",
+      "NumProgressed": 321910,
+      "NumCompleted": 427
     }
   ],
   "TotalAchievements": 24,
@@ -14685,7 +14690,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 16095
+      "UsersEstimate": 16096
     },
     {
       "ID": "11",
@@ -14717,7 +14722,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 22532
+      "UsersEstimate": 22534
     },
     {
       "ID": "15",
@@ -14781,7 +14786,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     },
     {
       "ID": "22",
@@ -14829,7 +14834,7 @@
       "Name": "ROOKIE",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 35408
+      "UsersEstimate": 35410
     },
     {
       "ID": "6",
@@ -14868,7 +14873,7 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 321892,
+      "Progressed": 321910,
       "Completed": 427
     }
   ],
@@ -14876,8 +14881,8 @@
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2023-12-02T16:03:20.3745643+00:00",
-  "LastChanged_Achievements": "2023-12-02T19:06:35.5099702+00:00",
-  "LastUpdate_AppInfo": "2023-11-25T19:57:04.1206554+00:00",
-  "LastUpdate_Ratings": "2023-12-02T19:00:52.2934197+00:00",
-  "LastUpdate_Achievements": "2023-12-02T19:06:35.5100442+00:00"
+  "LastChanged_Achievements": "2023-12-02T20:09:56.0242029+00:00",
+  "LastUpdate_AppInfo": "2023-12-02T19:57:33.0214337+00:00",
+  "LastUpdate_Ratings": "2023-12-02T20:03:59.0938086+00:00",
+  "LastUpdate_Achievements": "2023-12-02T20:09:56.0242731+00:00"
 }

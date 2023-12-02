@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2019-05-01T23:00:00+00:00",
@@ -306,9 +306,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 756499,
+  "EOS_Progressed": 756501,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1752,
+  "EOS_NewPlayers": 1741,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26266,6 +26266,11 @@
       "Time": "2023-12-02T19:06:40.4052461+00:00",
       "NumProgressed": 756499,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-02T20:10:00.7905489+00:00",
+      "NumProgressed": 756501,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -26277,7 +26282,7 @@
       "Name": "[2130] Nature Lover",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "ach_2130_settlement_death_end2",
@@ -26285,7 +26290,7 @@
       "Name": "[2130] No Quarter Given",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "ach_2130_steel_production2",
@@ -26293,7 +26298,7 @@
       "Name": "[2130] Dumpster Diving",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "ach_bankruptcy",
@@ -26317,7 +26322,7 @@
       "Name": "Excavator",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 2269
+      "UsersEstimate": 2270
     },
     {
       "ID": "ach_car_prototype",
@@ -26333,7 +26338,7 @@
       "Name": "Freelancer",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "ach_complete_tutorials",
@@ -26357,7 +26362,7 @@
       "Name": "Director",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "ach_max_loan",
@@ -26365,7 +26370,7 @@
       "Name": "Loan Ranger",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 2269
+      "UsersEstimate": 2270
     },
     {
       "ID": "ach_max_profit",
@@ -26389,7 +26394,7 @@
       "Name": "Master Builder",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "ach_place_buildings",
@@ -26397,7 +26402,7 @@
       "Name": "Hard working",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "ach_place_first_building",
@@ -26429,7 +26434,7 @@
       "Name": "Billionaire",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 5295
+      "UsersEstimate": 5296
     },
     {
       "ID": "ach_sell_tier3_product",
@@ -26492,7 +26497,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 756499,
+      "Progressed": 756501,
       "Completed": 4
     }
   ],
@@ -26500,8 +26505,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-12-01T16:00:20.573033+00:00",
-  "LastChanged_Achievements": "2023-12-02T19:06:40.4052458+00:00",
+  "LastChanged_Achievements": "2023-12-02T20:10:00.7905483+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:35.1283048+00:00",
-  "LastUpdate_Ratings": "2023-12-02T19:00:23.5855128+00:00",
-  "LastUpdate_Achievements": "2023-12-02T19:06:40.4053822+00:00"
+  "LastUpdate_Ratings": "2023-12-02T20:03:24.9477521+00:00",
+  "LastUpdate_Achievements": "2023-12-02T20:10:00.7906947+00:00"
 }

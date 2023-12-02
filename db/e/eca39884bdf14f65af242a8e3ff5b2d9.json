@@ -4,8 +4,8 @@
   "ProductSlug": "avatar-frontiers-of-pandora",
   "Ranking_EOS_Progress": 772,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 499,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-12-07T05:00:00+00:00",
     "PcReleaseDate": null,
@@ -31,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-27T05:56:52.6417748+00:00",
-  "LastUpdate_Ratings": "2023-12-02T19:00:15.8407391+00:00",
+  "LastUpdate_Ratings": "2023-12-02T20:03:00.6812837+00:00",
   "LastUpdate_Achievements": "2023-12-02T19:05:45.6494303+00:00"
 }

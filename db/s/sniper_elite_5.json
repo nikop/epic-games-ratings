@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -625,9 +625,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 3964,
+  "EOS_Progressed": 3967,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8365,6 +8365,11 @@
       "Time": "2023-12-02T19:04:58.9586249+00:00",
       "NumProgressed": 3964,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-02T20:05:58.43302+00:00",
+      "NumProgressed": 3967,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8376,7 +8381,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -8456,7 +8461,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1864
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8496,7 +8501,7 @@
       "Name": "Gunslinger",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -8512,7 +8517,7 @@
       "Name": "Sharpshooter",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -8528,7 +8533,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -8536,7 +8541,7 @@
       "Name": "Precision Is Key",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -8544,7 +8549,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1625
+      "UsersEstimate": 1626
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8568,7 +8573,7 @@
       "Name": "My Little Friend",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -8576,7 +8581,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -8584,7 +8589,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1189
+      "UsersEstimate": 1190
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -8600,7 +8605,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -8624,7 +8629,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1467
+      "UsersEstimate": 1468
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -8632,7 +8637,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -8640,7 +8645,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -8688,7 +8693,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -8712,7 +8717,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -8768,7 +8773,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -8784,7 +8789,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -8896,7 +8901,7 @@
       "Name": "If You Go Down To The Woods Today",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "REWARD_DLC03_02_FIGHT_ANOTHER_DAY",
@@ -8904,7 +8909,7 @@
       "Name": "Fight Another Day",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "REWARD_DLC03_03_STROLL_IN_THE_WOODS",
@@ -8912,7 +8917,7 @@
       "Name": "Stroll in the Woods",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "REWARD_DLC04_01_SHIPBREAKER",
@@ -8920,7 +8925,7 @@
       "Name": "Shipbreaker",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "REWARD_DLC04_02_SINK_OR_SWIM",
@@ -8936,20 +8941,20 @@
       "Name": "Going Overboard",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3915,
+      "Progressed": 3918,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3964,
+      "Progressed": 3967,
       "Completed": 11
     }
   ],
@@ -8957,8 +8962,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-29T01:50:55.7506147+00:00",
-  "LastChanged_Achievements": "2023-12-02T19:04:58.9586247+00:00",
+  "LastChanged_Achievements": "2023-12-02T20:05:58.4330195+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:29.4601542+00:00",
-  "LastUpdate_Ratings": "2023-12-02T19:00:41.7735494+00:00",
-  "LastUpdate_Achievements": "2023-12-02T19:04:58.9586961+00:00"
+  "LastUpdate_Ratings": "2023-12-02T20:03:48.08192+00:00",
+  "LastUpdate_Achievements": "2023-12-02T20:05:58.4330958+00:00"
 }

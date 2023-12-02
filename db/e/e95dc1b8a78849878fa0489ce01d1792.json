@@ -4,8 +4,8 @@
   "ProductSlug": "story-craft-6bfcfb",
   "Ranking_EOS_Progress": 772,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 499,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-09T00:00:00+00:00",
     "PcReleaseDate": "2023-10-09T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-27T03:57:12.6957953+00:00",
-  "LastUpdate_Ratings": "2023-12-02T18:58:12.8429144+00:00",
-  "LastUpdate_Achievements": "2023-12-02T19:06:54.1623884+00:00"
+  "LastUpdate_Ratings": "2023-12-02T19:58:24.0609743+00:00",
+  "LastUpdate_Achievements": "2023-12-02T20:10:14.4484863+00:00"
 }

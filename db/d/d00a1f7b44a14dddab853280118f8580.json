@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 367,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 18.26,
   "EosHistory": [
@@ -1474,9 +1474,9 @@
       "ID": "ach_complete_10",
       "SetID": "5e260i9",
       "Name": "Clever thinking!",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 100,
-      "UsersEstimate": 297
+      "UsersEstimate": 301
     },
     {
       "ID": "ach_complete_30",
@@ -1490,9 +1490,9 @@
       "ID": "ach_complete_tutorial",
       "SetID": "5e260i9",
       "Name": "Welcome aboard!",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 80,
-      "UsersEstimate": 349
+      "UsersEstimate": 352
     },
     {
       "ID": "ach_hint_3",
@@ -1538,9 +1538,9 @@
       "ID": "ach_skip_1",
       "SetID": "5e260i9",
       "Name": "Keep moving on!",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 40,
-      "UsersEstimate": 180
+      "UsersEstimate": 184
     },
     {
       "ID": "ach_skip_3",
@@ -1569,8 +1569,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-12-02T19:08:46.8100683+00:00",
+  "LastChanged_Achievements": "2023-12-02T20:10:46.3035174+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:13.4790748+00:00",
-  "LastUpdate_Ratings": "2023-12-02T19:03:14.3032099+00:00",
-  "LastUpdate_Achievements": "2023-12-02T19:08:46.810081+00:00"
+  "LastUpdate_Ratings": "2023-12-02T20:04:10.5034336+00:00",
+  "LastUpdate_Achievements": "2023-12-02T20:10:46.3035335+00:00"
 }

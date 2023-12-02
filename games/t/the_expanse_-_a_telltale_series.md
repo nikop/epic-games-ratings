@@ -8,10 +8,10 @@ Rating: 4.54 (Ranked 528)
 | Oyedang, Kopengs | 11.00% | ~1,743 |
 | The Pit and the Pirates | 7.00% | ~1,109 |
 | Bosmang | 7.00% | ~1,109 |
+| Captain Drummer | 7.00% | ~1,109 |
 | Celebrations are in Order | 7.00% | ~1,109 |
 | Martian Music | 6.00% | ~951 |
 | Drone Dodger | 6.00% | ~951 |
-| Captain Drummer | 6.00% | ~951 |
 | Impossible Objects | 6.00% | ~951 |
 | Safe Cracker | 6.00% | ~108 |
 | Zen Master | 6.00% | ~108 |

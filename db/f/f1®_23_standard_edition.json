@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -705,9 +705,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6004,
+  "EOS_Progressed": 6005,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6665,6 +6665,11 @@
       "Time": "2023-12-02T19:03:37.2353546+00:00",
       "NumProgressed": 6004,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T20:04:37.1462499+00:00",
+      "NumProgressed": 6005,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -6717,7 +6722,7 @@
       "Name": "Setting up for Success",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4683
+      "UsersEstimate": 4684
     },
     {
       "ID": "achievement_0007",
@@ -6725,7 +6730,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 5644
+      "UsersEstimate": 5645
     },
     {
       "ID": "achievement_0008",
@@ -6835,9 +6840,9 @@
       "ID": "achievement_0021",
       "SetID": "9123ogc",
       "Name": "Team Orders",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 4503
+      "UsersEstimate": 4564
     },
     {
       "ID": "achievement_0022",
@@ -6845,7 +6850,7 @@
       "Name": "A Dozen Pieces",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2041
+      "UsersEstimate": 2042
     },
     {
       "ID": "achievement_0023",
@@ -6877,7 +6882,7 @@
       "Name": "Friendly Competition",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "achievement_0027",
@@ -6917,7 +6922,7 @@
       "Name": "Recycle",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "achievement_0032",
@@ -6933,7 +6938,7 @@
       "Name": "Engineer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 3362
+      "UsersEstimate": 3363
     },
     {
       "ID": "achievement_0034",
@@ -6941,7 +6946,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 2041
+      "UsersEstimate": 2042
     },
     {
       "ID": "achievement_0035",
@@ -7029,7 +7034,7 @@
       "Name": "Making History",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1921
+      "UsersEstimate": 1922
     },
     {
       "ID": "achievement_0046",
@@ -7068,7 +7073,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 6004,
+      "Progressed": 6005,
       "Completed": 0
     }
   ],
@@ -7076,8 +7081,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-12-02T17:01:00.441333+00:00",
-  "LastChanged_Achievements": "2023-12-02T19:03:37.2353545+00:00",
-  "LastUpdate_AppInfo": "2023-11-25T18:57:16.1347365+00:00",
-  "LastUpdate_Ratings": "2023-12-02T19:00:14.5246042+00:00",
-  "LastUpdate_Achievements": "2023-12-02T19:03:37.2354056+00:00"
+  "LastChanged_Achievements": "2023-12-02T20:04:37.1462495+00:00",
+  "LastUpdate_AppInfo": "2023-12-02T19:57:30.4962244+00:00",
+  "LastUpdate_Ratings": "2023-12-02T20:02:59.3291964+00:00",
+  "LastUpdate_Achievements": "2023-12-02T20:04:37.1463106+00:00"
 }

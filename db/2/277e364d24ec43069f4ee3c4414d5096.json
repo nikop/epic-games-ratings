@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 325,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 115702,
+  "EOS_Progressed": 115703,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 592,
+  "EOS_NewPlayers": 589,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -19909,6 +19909,11 @@
       "Time": "2023-12-02T19:09:24.3855783+00:00",
       "NumProgressed": 115702,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-12-02T20:11:24.2556731+00:00",
+      "NumProgressed": 115703,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -20064,7 +20069,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 21983
+      "UsersEstimate": 21984
     },
     {
       "ID": "EAwards_26",
@@ -20104,7 +20109,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 23140
+      "UsersEstimate": 23141
     },
     {
       "ID": "EAwards_30",
@@ -20311,7 +20316,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 115702,
+      "Progressed": 115703,
       "Completed": 50
     }
   ],
@@ -20319,8 +20324,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-02T19:09:24.3855779+00:00",
+  "LastChanged_Achievements": "2023-12-02T20:11:24.2556728+00:00",
   "LastUpdate_AppInfo": "2023-12-01T05:57:06.5040385+00:00",
-  "LastUpdate_Ratings": "2023-12-02T18:59:25.4803057+00:00",
-  "LastUpdate_Achievements": "2023-12-02T19:09:24.3856735+00:00"
+  "LastUpdate_Ratings": "2023-12-02T19:59:58.4890707+00:00",
+  "LastUpdate_Achievements": "2023-12-02T20:11:24.2557751+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 515,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.94,
   "EosHistory": [
@@ -1522,9 +1522,9 @@
       "ID": "ach_main09journey_killheroes",
       "SetID": "4hg22ll",
       "Name": "Dungeonlord Gorgu",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 201
+      "UsersEstimate": 206
     },
     {
       "ID": "ach_main09journey_nospells",
@@ -1554,9 +1554,9 @@
       "ID": "ach_main10fire_naga",
       "SetID": "4hg22ll",
       "Name": "Shame! Shame! Shame!",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 206
+      "UsersEstimate": 211
     },
     {
       "ID": "ach_main11blessing_completed",
@@ -1634,9 +1634,9 @@
       "ID": "ach_main14run_completed",
       "SetID": "4hg22ll",
       "Name": "If Looks Could Kill",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 129
     },
     {
       "ID": "ach_main14run_mirroruses",
@@ -1690,9 +1690,9 @@
       "ID": "ach_main16ring_lavalings",
       "SetID": "4hg22ll",
       "Name": "Lavalumps on Ice!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 72
     },
     {
       "ID": "ach_main16ring_spawners",
@@ -1754,9 +1754,9 @@
       "ID": "ach_main19war_completed",
       "SetID": "4hg22ll",
       "Name": "The Rune Sockets of Finitude (Part 2)",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 72
     },
     {
       "ID": "ach_main19war_heal",
@@ -1809,8 +1809,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-02T19:08:40.915433+00:00",
+  "LastChanged_Achievements": "2023-12-02T20:10:40.5713866+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:15.3424787+00:00",
-  "LastUpdate_Ratings": "2023-12-02T18:58:58.1863212+00:00",
-  "LastUpdate_Achievements": "2023-12-02T19:08:40.9154871+00:00"
+  "LastUpdate_Ratings": "2023-12-02T19:59:31.6033708+00:00",
+  "LastUpdate_Achievements": "2023-12-02T20:10:40.5714296+00:00"
 }

@@ -6,7 +6,7 @@ Rating: 4.18 (Ranked 935)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Graduate Boot Camp | 71.00% | ~142,594 |
-| Initiation | 18.00% | ~36,150 |
+| Initiation | 18.00% | ~36,151 |
 | Battlesuit Victory | 8.00% | ~16,067 |
 | Flawless Victory | 5.00% | ~10,042 |
 | Baby Steps | 5.00% | ~10,042 |
@@ -22,7 +22,7 @@ Rating: 4.18 (Ranked 935)
 | Not Afraid of the Big Bad Wolf | 0.10% | ~201 |
 | Many More to Come | 0.10% | ~201 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200,836 (Ranked 74)  
+Progressed: 200,837 (Ranked 74)  
 Completed: 4 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 4 (0.00%) (Ranked 365)
 | 2023-11-29 | 200,705 | 4 |
 | 2023-11-30 | 200,740 | 4 |
 | 2023-12-01 | 200,786 | 4 |
-| 2023-12-02 | 200,836 | 4 |
+| 2023-12-02 | 200,837 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

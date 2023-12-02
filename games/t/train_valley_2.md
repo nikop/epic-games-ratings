@@ -6,19 +6,19 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~307,115 |
-| Full garage | 61.00% | ~256,631 |
-| To the eyeballs! | 51.00% | ~214,560 |
-| Individual delivery | 47.00% | ~197,732 |
-| Non-Stop | 45.00% | ~189,318 |
-| Juggler | 36.00% | ~151,454 |
-| Forgot something | 35.00% | ~147,247 |
+| Dealmaker | 73.00% | ~307,117 |
+| Full garage | 61.00% | ~256,632 |
+| To the eyeballs! | 51.00% | ~214,561 |
+| Individual delivery | 47.00% | ~197,733 |
+| Non-Stop | 45.00% | ~189,319 |
+| Juggler | 36.00% | ~151,455 |
+| Forgot something | 35.00% | ~147,248 |
 | Close call! | 30.00% | ~126,212 |
 | Get out my way | 28.00% | ~117,798 |
 | Common cause | 26.00% | ~109,384 |
 | Critical care | 26.00% | ~109,384 |
-| Mega-railroad | 23.00% | ~96,762 |
-| Upgrade complete | 23.00% | ~96,762 |
+| Mega-railroad | 23.00% | ~96,763 |
+| Upgrade complete | 23.00% | ~96,763 |
 | Just in time! | 18.00% | ~75,727 |
 | Builder | 17.00% | ~71,520 |
 | Long Haul | 17.00% | ~71,408 |
@@ -33,8 +33,8 @@ Number of Ratings: 87  (23.09.2022)
 | Relocation | 10.00% | ~42,071 |
 | Industrial Age | 9.00% | ~37,864 |
 | Just One More Valley | 9.00% | ~37,804 |
-| Prick of conscience | 8.00% | ~33,656 |
-| Missed it! | 7.00% | ~29,449 |
+| Prick of conscience | 8.00% | ~33,657 |
+| Missed it! | 7.00% | ~29,450 |
 | At the last moment! | 6.00% | ~25,242 |
 | Overseer | 6.00% | ~25,242 |
 | Highlander | 5.00% | ~21,035 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~420 |
 | World Zapper | 0.10% | ~420 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 420,706 (Ranked 45)  
+Progressed: 420,708 (Ranked 45)  
 Completed: 23 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 23 (0.01%) (Ranked 344)
 | 2023-11-29 | 419,997 | 23 |
 | 2023-11-30 | 420,226 | 23 |
 | 2023-12-01 | 420,449 | 23 |
-| 2023-12-02 | 420,706 | 23 |
+| 2023-12-02 | 420,708 | 23 |
 ## Awards
 Max (Challenging Puzzles): 938  (Ranked 159)  
 Sum: 1,886 (Ranked 218)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 820,
+  "EOS_Progressed": 821,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 0,
@@ -1727,6 +1727,11 @@
       "Time": "2023-12-02T19:05:44.1461206+00:00",
       "NumProgressed": 820,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T20:06:54.2648061+00:00",
+      "NumProgressed": 821,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1795,7 +1800,7 @@
       "Name": "Pathfinder",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "CompleteChapter10",
@@ -1803,7 +1808,7 @@
       "Name": "You da Boss, Now",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "CompleteChapter11",
@@ -1849,9 +1854,9 @@
       "ID": "CompleteChapter16",
       "SetID": "52ail55",
       "Name": "Our Own Miracle",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 49
     },
     {
       "ID": "CompleteChapter17",
@@ -1889,9 +1894,9 @@
       "ID": "CompleteChapter3",
       "SetID": "52ail55",
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 320
+      "UsersEstimate": 328
     },
     {
       "ID": "CompleteChapter4",
@@ -1899,7 +1904,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "CompleteChapter5",
@@ -1923,7 +1928,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "CompleteChapter8",
@@ -1987,7 +1992,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "Win100OnlineMatched",
@@ -2034,14 +2039,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 820,
+      "Progressed": 821,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-02T19:05:44.1461199+00:00",
+  "LastChanged_Achievements": "2023-12-02T20:06:54.2648058+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:09.4303292+00:00",
-  "LastUpdate_Ratings": "2023-12-02T18:59:14.9732969+00:00",
-  "LastUpdate_Achievements": "2023-12-02T19:05:44.1461454+00:00"
+  "LastUpdate_Ratings": "2023-12-02T19:59:48.3662609+00:00",
+  "LastUpdate_Achievements": "2023-12-02T20:06:54.2648363+00:00"
 }

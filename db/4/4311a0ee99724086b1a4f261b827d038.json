@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -653,9 +653,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 235550,
+  "EOS_Progressed": 235552,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1318,
+  "EOS_NewPlayers": 1307,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15913,6 +15913,11 @@
       "Time": "2023-12-02T19:09:40.1622005+00:00",
       "NumProgressed": 235550,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T20:11:40.1092928+00:00",
+      "NumProgressed": 235552,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -16021,7 +16026,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7066
+      "UsersEstimate": 7067
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -16029,7 +16034,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7066
+      "UsersEstimate": 7067
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -16117,7 +16122,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16488
+      "UsersEstimate": 16489
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -16196,7 +16201,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 235550,
+      "Progressed": 235552,
       "Completed": 0
     }
   ],
@@ -16204,8 +16209,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-02T01:41:37.1242422+00:00",
-  "LastChanged_Achievements": "2023-12-02T19:09:40.1622001+00:00",
+  "LastChanged_Achievements": "2023-12-02T20:11:40.1092924+00:00",
   "LastUpdate_AppInfo": "2023-12-01T02:57:03.9317243+00:00",
-  "LastUpdate_Ratings": "2023-12-02T18:59:41.6177113+00:00",
-  "LastUpdate_Achievements": "2023-12-02T19:09:40.1622718+00:00"
+  "LastUpdate_Ratings": "2023-12-02T20:00:14.7885854+00:00",
+  "LastUpdate_Achievements": "2023-12-02T20:11:40.1094102+00:00"
 }

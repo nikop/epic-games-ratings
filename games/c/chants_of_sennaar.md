@@ -21,7 +21,7 @@
 | Peace walker | 19.00% | ~161 |
 | Champollion | 19.00% | ~161 |
 | Open door | 17.00% | ~144 |
-| Feels like springtime | 16.00% | ~135 |
+| Feels like springtime | 17.00% | ~144 |
 | Alchemists Express | 16.00% | ~135 |
 | Free at last | 14.00% | ~118 |
 | Rascal | 14.00% | ~118 |
@@ -31,7 +31,7 @@
 | Fashion victim | 5.00% | ~42 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 846 (Ranked 271)  
-Completed: 48 (5.67%) (Ranked 71)  
+Completed: 49 (5.79%) (Ranked 70)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -163,4 +163,4 @@ Completed: 48 (5.67%) (Ranked 71)
 | 2023-11-29 | 804 | 44 |
 | 2023-11-30 | 813 | 44 |
 | 2023-12-01 | 833 | 45 |
-| 2023-12-02 | 846 | 48 |
+| 2023-12-02 | 846 | 49 |

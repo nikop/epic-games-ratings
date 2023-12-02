@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 29,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewPlayers": 30,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2017-02-24T11:00:00+00:00",
@@ -227,10 +227,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 502271,
+  "EOS_Progressed": 502274,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 4140,
-  "EOS_NewCompleters": 7,
+  "EOS_NewPlayers": 4090,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
     {
@@ -9677,6 +9677,11 @@
       "Time": "2023-12-02T19:06:05.0136221+00:00",
       "NumProgressed": 502271,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2023-12-02T20:08:45.0886396+00:00",
+      "NumProgressed": 502274,
+      "NumCompleted": 86
     }
   ],
   "AchievementsAdded": "2023-09-07T15:04:00.2217259+00:00",
@@ -9721,7 +9726,7 @@
       "Name": "Field Training Officer Medal",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 366658
+      "UsersEstimate": 366660
     },
     {
       "ID": "achiv_fires",
@@ -9729,7 +9734,7 @@
       "Name": "Exemplary Fire Service Medal",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 80363
+      "UsersEstimate": 80364
     },
     {
       "ID": "achiv_heart",
@@ -9737,7 +9742,7 @@
       "Name": "Purple Heart",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 180818
+      "UsersEstimate": 180819
     },
     {
       "ID": "achiv_honor",
@@ -9769,7 +9774,7 @@
       "Name": "Lifesaving Medal",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 195886
+      "UsersEstimate": 195887
     },
     {
       "ID": "achiv_meds",
@@ -9777,7 +9782,7 @@
       "Name": "Exemplary Medical Service Medal",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 120545
+      "UsersEstimate": 120546
     },
     {
       "ID": "achiv_meritorius",
@@ -9832,7 +9837,7 @@
     {
       "ID": "7oh7228",
       "IsBase": true,
-      "Progressed": 502271,
+      "Progressed": 502274,
       "Completed": 86
     }
   ],
@@ -9840,8 +9845,8 @@
   "FirstSeenRating": "2023-09-15T13:59:44.5988414+00:00",
   "FirstSeenAchievements": "2023-09-07T15:04:00.2217258+00:00",
   "LastChanged": "2023-11-25T16:01:34.3628678+00:00",
-  "LastChanged_Achievements": "2023-12-02T19:06:05.0136218+00:00",
+  "LastChanged_Achievements": "2023-12-02T20:08:45.0886393+00:00",
   "LastUpdate_AppInfo": "2023-11-30T21:57:12.6903274+00:00",
-  "LastUpdate_Ratings": "2023-12-02T19:00:49.947696+00:00",
-  "LastUpdate_Achievements": "2023-12-02T19:06:05.0136799+00:00"
+  "LastUpdate_Ratings": "2023-12-02T20:03:56.8602627+00:00",
+  "LastUpdate_Achievements": "2023-12-02T20:08:45.0886899+00:00"
 }

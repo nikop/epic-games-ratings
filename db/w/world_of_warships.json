@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 34,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-03-18T13:00:00+00:00",
     "PcReleaseDate": "2017-11-15T16:00:00+00:00",
@@ -11595,9 +11595,9 @@
       "Count": 1553
     }
   ],
-  "EOS_Progressed": 61026,
+  "EOS_Progressed": 61037,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3542,
+  "EOS_NewPlayers": 3516,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24310,6 +24310,11 @@
       "Time": "2023-12-02T19:04:33.0070205+00:00",
       "NumProgressed": 61026,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T20:05:32.8734742+00:00",
+      "NumProgressed": 61037,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-18T08:07:13.1799428+00:00",
@@ -24322,7 +24327,7 @@
       "Name": "Battle Hero",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 9154
+      "UsersEstimate": 9156
     },
     {
       "ID": "PCH026",
@@ -24346,7 +24351,7 @@
       "Name": "Amateur",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 18308
+      "UsersEstimate": 18311
     },
     {
       "ID": "PCH029",
@@ -24354,7 +24359,7 @@
       "Name": "Warrior",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7323
+      "UsersEstimate": 7324
     },
     {
       "ID": "PCH030",
@@ -24362,7 +24367,7 @@
       "Name": "Veteran",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 4272
+      "UsersEstimate": 4273
     },
     {
       "ID": "PCH031",
@@ -24370,7 +24375,7 @@
       "Name": "Initial Capital",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 40277
+      "UsersEstimate": 40284
     },
     {
       "ID": "PCH032",
@@ -24378,7 +24383,7 @@
       "Name": "Moneybags",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 26851
+      "UsersEstimate": 26856
     },
     {
       "ID": "PCH033",
@@ -24386,7 +24391,7 @@
       "Name": "Business Magnate",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 9764
+      "UsersEstimate": 9766
     },
     {
       "ID": "PCH034",
@@ -24394,7 +24399,7 @@
       "Name": "Naval Warfare. Arson",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 20139
+      "UsersEstimate": 20142
     },
     {
       "ID": "PCH035",
@@ -24402,7 +24407,7 @@
       "Name": "Naval Warfare. Flooding",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 11595
+      "UsersEstimate": 11597
     },
     {
       "ID": "PCH036",
@@ -24410,7 +24415,7 @@
       "Name": "Naval Warfare. Ramming",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 19528
+      "UsersEstimate": 19532
     },
     {
       "ID": "PCH037",
@@ -24418,7 +24423,7 @@
       "Name": "Naval Warfare. Lucky Shot",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 11595
+      "UsersEstimate": 11597
     },
     {
       "ID": "PCH038",
@@ -24426,7 +24431,7 @@
       "Name": "Naval Warfare. Tactics",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 18308
+      "UsersEstimate": 18311
     },
     {
       "ID": "PCH039",
@@ -24434,7 +24439,7 @@
       "Name": "Naval Warfare. Weaponry Basics",
       "Percentage": 22,
       "XP": 35,
-      "UsersEstimate": 13426
+      "UsersEstimate": 13428
     },
     {
       "ID": "PCH044",
@@ -24442,7 +24447,7 @@
       "Name": "Junior Naval Designer",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 48211
+      "UsersEstimate": 48219
     },
     {
       "ID": "PCH045",
@@ -24450,7 +24455,7 @@
       "Name": "Naval Constructor",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 18308
+      "UsersEstimate": 18311
     },
     {
       "ID": "PCH046",
@@ -24466,7 +24471,7 @@
       "Name": "Junior Supply Officer",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 26851
+      "UsersEstimate": 26856
     },
     {
       "ID": "PCH065",
@@ -24474,7 +24479,7 @@
       "Name": "Supply Officer",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7323
+      "UsersEstimate": 7324
     },
     {
       "ID": "PCH066",
@@ -24490,7 +24495,7 @@
       "Name": "Smooth Supply",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 7933
+      "UsersEstimate": 7935
     },
     {
       "ID": "PCH070",
@@ -24673,15 +24678,15 @@
     {
       "ID": "4pi10fc",
       "IsBase": true,
-      "Progressed": 61026,
+      "Progressed": 61037,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
   "FirstSeenAchievements": "2023-08-17T14:05:57.9480502+00:00",
   "LastChanged": "2023-12-02T09:58:36.6283456+00:00",
-  "LastChanged_Achievements": "2023-12-02T19:04:33.0070203+00:00",
-  "LastUpdate_AppInfo": "2023-11-25T19:57:11.4304894+00:00",
-  "LastUpdate_Ratings": "2023-12-02T18:59:11.9740176+00:00",
-  "LastUpdate_Achievements": "2023-12-02T19:04:33.0071118+00:00"
+  "LastChanged_Achievements": "2023-12-02T20:05:32.8734739+00:00",
+  "LastUpdate_AppInfo": "2023-12-02T19:57:25.6941321+00:00",
+  "LastUpdate_Ratings": "2023-12-02T19:59:45.6057374+00:00",
+  "LastUpdate_Achievements": "2023-12-02T20:05:32.8735426+00:00"
 }

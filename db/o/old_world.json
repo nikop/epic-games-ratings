@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2072,7 +2072,7 @@
   ],
   "EOS_Progressed": 15602,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18898,9 +18898,9 @@
       "ID": "ACHIEVEMENT_STAT_SEVEN_WONDERS",
       "SetID": "9201eeb",
       "Name": "Building Wonders",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 156
+      "UsersEstimate": 312
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_CITIES_CAPTURED",
@@ -19744,8 +19744,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-02T17:00:16.9280186+00:00",
-  "LastChanged_Achievements": "2023-12-02T19:04:03.5801433+00:00",
+  "LastChanged_Achievements": "2023-12-02T20:05:03.7605032+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.3516564+00:00",
-  "LastUpdate_Ratings": "2023-12-02T18:59:44.8113738+00:00",
-  "LastUpdate_Achievements": "2023-12-02T19:04:03.5809967+00:00"
+  "LastUpdate_Ratings": "2023-12-02T20:00:18.0129219+00:00",
+  "LastUpdate_Achievements": "2023-12-02T20:05:03.7613965+00:00"
 }

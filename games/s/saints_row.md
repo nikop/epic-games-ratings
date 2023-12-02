@@ -42,9 +42,9 @@ Number of Ratings: 22,103  (23.09.2022)
 | Untouchable | 5.00% | ~4,051 |
 | Free Refills | 5.00% | ~4,051 |
 | Neighborly | 5.00% | ~4,051 |
+| Prankster | 5.00% | ~4,051 |
 | Smooth Moves | 5.00% | ~4,051 |
 | Hazardous Heist | 5.00% | ~2,632 |
-| Prankster | 4.00% | ~3,240 |
 | Tourist | 4.00% | ~3,240 |
 | Shopping Spree | 3.00% | ~2,430 |
 | Always Be Hustling | 3.00% | ~2,430 |

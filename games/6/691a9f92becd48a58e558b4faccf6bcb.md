@@ -5,6 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lost forever | 4.00% | ~11 |
+| A new HOME | 2.00% | ~6 |
 | At least you tried | 2.00% | ~6 |
 | Golden Carrot | 2.00% | ~6 |
 | Silver Button | 2.00% | ~6 |
@@ -12,7 +13,6 @@
 | Silver Hat | 2.00% | ~6 |
 | Minimalist lifestyle | 1.00% | ~3 |
 | I deliver the presents! | 1.00% | ~3 |
-| A new HOME | 1.00% | ~3 |
 | Golden Button | 1.00% | ~3 |
 | Golden Hat | 1.00% | ~3 |
 | Naughty list | 1.00% | ~3 |

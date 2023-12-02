@@ -20,8 +20,8 @@ Rating: 4.57 (Ranked 477)
 | Idiot | 30.00% | ~18 |
 | Wise man | 28.00% | ~17 |
 | Beast slayer | 27.00% | ~16 |
+| Ogre friend | 27.00% | ~16 |
 | Death of a legend | 25.00% | ~15 |
-| Ogre friend | 25.00% | ~15 |
 | Hard worker | 25.00% | ~15 |
 | The fourth triplet | 25.00% | ~15 |
 | Master detective | 25.00% | ~15 |

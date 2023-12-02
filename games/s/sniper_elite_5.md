@@ -5,27 +5,27 @@ Rating: 4.44 (Ranked 680)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,863 |
-| Confirming Suspicions | 41.00% | ~1,625 |
-| The Kraken Wakes | 37.00% | ~1,467 |
-| It's Starting to Crack | 34.00% | ~1,348 |
-| Change the Channel | 31.00% | ~1,229 |
-| Lord of War | 30.00% | ~1,189 |
+| Meeting Resistance | 47.00% | ~1,864 |
+| Confirming Suspicions | 41.00% | ~1,626 |
+| The Kraken Wakes | 37.00% | ~1,468 |
+| It's Starting to Crack | 34.00% | ~1,349 |
+| Change the Channel | 31.00% | ~1,230 |
+| Lord of War | 30.00% | ~1,190 |
 | Taking it back | 29.00% | ~1,150 |
-| Resourceful | 27.00% | ~1,070 |
-| Target America | 27.00% | ~1,070 |
-| The Kraken Sleeps | 25.00% | ~991 |
+| Resourceful | 27.00% | ~1,071 |
+| Target America | 27.00% | ~1,071 |
+| The Kraken Sleeps | 25.00% | ~992 |
 | Liberté | 23.00% | ~912 |
 | Organ Grinder | 23.00% | ~912 |
 | As Quiet as a Mouse | 23.00% | ~912 |
-| Sharpshooter | 22.00% | ~872 |
-| Gunslinger | 19.00% | ~753 |
-| Explosive Efficiency | 19.00% | ~753 |
+| Sharpshooter | 22.00% | ~873 |
+| Gunslinger | 19.00% | ~754 |
+| Explosive Efficiency | 19.00% | ~754 |
 | Just a Flesh Wound | 17.00% | ~674 |
 | Der Geist | 17.00% | ~674 |
-| Climbing the Ladder | 16.00% | ~634 |
-| Close Quarters | 16.00% | ~634 |
-| Snake in the Grass | 16.00% | ~634 |
+| Climbing the Ladder | 16.00% | ~635 |
+| Close Quarters | 16.00% | ~635 |
+| Snake in the Grass | 16.00% | ~635 |
 | Skirmisher | 15.00% | ~595 |
 | Die Nussknacker Sweet! | 15.00% | ~595 |
 | Brains of the Operation | 15.00% | ~595 |
@@ -33,9 +33,9 @@ Rating: 4.44 (Ranked 680)
 | Opposing Force | 14.00% | ~555 |
 | Enemy at the Gates | 14.00% | ~555 |
 | Fields of Glory | 14.00% | ~555 |
-| Set Europe Ablaze | 13.00% | ~515 |
-| Precision Is Key | 10.00% | ~396 |
-| My Little Friend | 10.00% | ~396 |
+| Set Europe Ablaze | 13.00% | ~516 |
+| Precision Is Key | 10.00% | ~397 |
+| My Little Friend | 10.00% | ~397 |
 | Rigged to Blow | 9.00% | ~357 |
 | Herr Today, Gone Tomorrow | 7.00% | ~274 |
 | Operation Foxley | 6.00% | ~235 |
@@ -53,9 +53,9 @@ Rating: 4.44 (Ranked 680)
 | Burn after reading | 3.00% | ~119 |
 | Souvenir hunter | 3.00% | ~119 |
 | Shoot for the Moon | 3.00% | ~119 |
-| If You Go Down To The Woods Today | 3.00% | ~117 |
-| Fight Another Day | 3.00% | ~117 |
-| Shipbreaker | 3.00% | ~117 |
+| If You Go Down To The Woods Today | 3.00% | ~118 |
+| Fight Another Day | 3.00% | ~118 |
+| Shipbreaker | 3.00% | ~118 |
 | Out of Scope | 2.00% | ~79 |
 | Eagle Eyed | 2.00% | ~79 |
 | Up close and personal | 2.00% | ~79 |
@@ -74,10 +74,10 @@ Rating: 4.44 (Ranked 680)
 | Master of Pistols | 0.80% | ~32 |
 | Operation Overlord | 0.80% | ~31 |
 | Master-at-arms | 0.70% | ~28 |
-| Stroll in the Woods | 0.60% | ~23 |
-| Going Overboard | 0.60% | ~23 |
+| Stroll in the Woods | 0.60% | ~24 |
+| Going Overboard | 0.60% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,964 (Ranked 198)  
+Progressed: 3,967 (Ranked 198)  
 Completed: 11 (0.28%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 11 (0.28%) (Ranked 243)
 | 2023-11-29 | 3,955 | 11 |
 | 2023-11-30 | 3,958 | 11 |
 | 2023-12-01 | 3,961 | 11 |
-| 2023-12-02 | 3,964 | 11 |
+| 2023-12-02 | 3,967 | 11 |
 ## Awards
 Max (Great for Beginners): 27  (Ranked 514)  
 Sum: 27 (Ranked 528)  

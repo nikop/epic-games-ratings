@@ -4,8 +4,8 @@
   "ProductSlug": "assassins-creed-revelations",
   "Ranking_EOS_Progress": 772,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 499,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-25T21:59:03.4714558+00:00",
-  "LastUpdate_Ratings": "2023-12-02T19:03:20.9235103+00:00",
-  "LastUpdate_Achievements": "2023-12-02T19:05:56.9249005+00:00"
+  "LastUpdate_Ratings": "2023-12-02T20:04:17.8806728+00:00",
+  "LastUpdate_Achievements": "2023-12-02T20:08:36.9014486+00:00"
 }

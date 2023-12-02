@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -961,9 +961,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9184,
+  "EOS_Progressed": 9185,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -8636,6 +8636,11 @@
       "Time": "2023-12-02T18:04:30.5149363+00:00",
       "NumProgressed": 9184,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-02T20:05:27.5919414+00:00",
+      "NumProgressed": 9185,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -8815,7 +8820,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3214
+      "UsersEstimate": 3215
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -9006,7 +9011,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9184,
+      "Progressed": 9185,
       "Completed": 10
     }
   ],
@@ -9014,8 +9019,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-02T15:59:35.3988448+00:00",
-  "LastChanged_Achievements": "2023-12-02T19:04:27.6511835+00:00",
+  "LastChanged_Achievements": "2023-12-02T20:05:27.591941+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:20.0438707+00:00",
-  "LastUpdate_Ratings": "2023-12-02T18:59:03.0621238+00:00",
-  "LastUpdate_Achievements": "2023-12-02T19:04:27.6512436+00:00"
+  "LastUpdate_Ratings": "2023-12-02T19:59:36.6337034+00:00",
+  "LastUpdate_Achievements": "2023-12-02T20:05:27.5919933+00:00"
 }

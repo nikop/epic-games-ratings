@@ -38,22 +38,22 @@
 | The Archangel | 38.00% | ~563 |
 | The Professor | 38.00% | ~563 |
 | Power Full | 37.00% | ~548 |
-| The Convict | 35.00% | ~519 |
+| The Convict | 36.00% | ~534 |
 | The Krogan | 35.00% | ~519 |
 | Colony Defense | 34.00% | ~504 |
 | Broke, Blind, and Bedlam | 34.00% | ~504 |
+| Shopaholic | 33.00% | ~489 |
 | A Personal Touch | 32.00% | ~474 |
 | Ghost Ship | 32.00% | ~474 |
 | The Assassin | 32.00% | ~474 |
 | The Justicar | 32.00% | ~474 |
 | The Quarian | 32.00% | ~474 |
+| Battlemaster | 32.00% | ~474 |
 | The Cure | 32.00% | ~474 |
 | The Prodigal | 32.00% | ~474 |
 | Galactic Explorer | 32.00% | ~474 |
 | Driven | 32.00% | ~474 |
-| Shopaholic | 32.00% | ~474 |
 | Completionist | 31.00% | ~459 |
-| Battlemaster | 31.00% | ~459 |
 | Catharsis | 31.00% | ~459 |
 | Ghost of the Father | 31.00% | ~459 |
 | Big Game Hunter | 31.00% | ~459 |
@@ -74,9 +74,9 @@
 | Mission Accomplished | 28.00% | ~415 |
 | Suicide Mission | 28.00% | ~415 |
 | Against All Odds | 28.00% | ~415 |
+| A House Divided | 28.00% | ~415 |
 | Eye of the Hurricane | 27.00% | ~400 |
 | Giant Killer | 27.00% | ~400 |
-| A House Divided | 27.00% | ~400 |
 | World Shaker | 26.00% | ~385 |
 | Liberator | 26.00% | ~385 |
 | First Aid Specialist | 25.00% | ~370 |

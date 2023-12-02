@@ -328,17 +328,17 @@
       "ID": "ACHIEVEMENT_4",
       "SetID": "dhh8kbc",
       "Name": "The Best Seeker",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 150,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_5",
       "SetID": "dhh8kbc",
       "Name": "Hiders win!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 150,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -359,8 +359,8 @@
   ],
   "FirstSeen": "2023-11-18T09:58:40.5450132+00:00",
   "FirstSeenAchievements": "2023-10-27T08:03:12.3312996+00:00",
-  "LastChanged_Achievements": "2023-12-02T19:05:34.1539627+00:00",
+  "LastChanged_Achievements": "2023-12-02T20:06:43.6271399+00:00",
   "LastUpdate_AppInfo": "2023-12-01T11:57:04.7658946+00:00",
-  "LastUpdate_Ratings": "2023-12-02T18:59:31.3598366+00:00",
-  "LastUpdate_Achievements": "2023-12-02T19:05:34.1539679+00:00"
+  "LastUpdate_Ratings": "2023-12-02T20:00:04.638097+00:00",
+  "LastUpdate_Achievements": "2023-12-02T20:06:43.6271485+00:00"
 }

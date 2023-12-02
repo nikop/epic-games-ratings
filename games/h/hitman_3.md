@@ -6,19 +6,19 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~627,163 |
-| Death From Above | 45.00% | ~613,529 |
-| Master of the Household | 38.00% | ~518,091 |
-| Death of the Party | 35.00% | ~477,189 |
-| NEXUS-47 | 32.00% | ~436,287 |
-| The Last Tango | 31.00% | ~422,653 |
-| Nightmare Fuel | 30.00% | ~409,019 |
-| The Result of Previous Training | 28.00% | ~381,751 |
-| Tools of the Trade | 28.00% | ~381,751 |
-| Cleared for Field Duty | 27.00% | ~368,117 |
-| Seizing the Opportunity | 26.00% | ~354,483 |
-| Bullet Train | 21.00% | ~286,314 |
-| Stylish Assassin | 20.00% | ~272,680 |
+| Unseen Assassin | 46.00% | ~627,165 |
+| Death From Above | 45.00% | ~613,531 |
+| Master of the Household | 38.00% | ~518,093 |
+| Death of the Party | 35.00% | ~477,191 |
+| NEXUS-47 | 32.00% | ~436,289 |
+| The Last Tango | 31.00% | ~422,655 |
+| Nightmare Fuel | 30.00% | ~409,021 |
+| The Result of Previous Training | 28.00% | ~381,753 |
+| Tools of the Trade | 28.00% | ~381,753 |
+| Cleared for Field Duty | 27.00% | ~368,119 |
+| Seizing the Opportunity | 26.00% | ~354,485 |
+| Bullet Train | 21.00% | ~286,315 |
+| Stylish Assassin | 20.00% | ~272,681 |
 | Silent Assassin | 14.00% | ~190,876 |
 | Rise Up | 12.00% | ~163,608 |
 | Evil Wine Club | 11.00% | ~149,974 |
@@ -54,7 +54,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,634 |
 | The Creative Assassin | 0.70% | ~9,544 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,363,398 (Ranked 9)  
+Progressed: 1,363,403 (Ranked 9)  
 Completed: 2,195 (0.16%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 2,195 (0.16%) (Ranked 269)
 | 2023-11-29 | 1,362,445 | 2,193 |
 | 2023-11-30 | 1,362,767 | 2,193 |
 | 2023-12-01 | 1,363,088 | 2,194 |
-| 2023-12-02 | 1,363,398 | 2,195 |
+| 2023-12-02 | 1,363,403 | 2,195 |
 ## Awards
 Max (Diverse Characters): 10,876  (Ranked 37)  
 Sum: 74,545 (Ranked 22)  

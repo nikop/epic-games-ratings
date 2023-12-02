@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1482,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -4787,9 +4787,9 @@
       "ID": "achievement_46",
       "SetID": "d252ncf",
       "Name": "The Convict",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 519
+      "UsersEstimate": 534
     },
     {
       "ID": "achievement_47",
@@ -4835,17 +4835,17 @@
       "ID": "achievement_51",
       "SetID": "d252ncf",
       "Name": "A House Divided",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 415
     },
     {
       "ID": "achievement_52",
       "SetID": "d252ncf",
       "Name": "Battlemaster",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 474
     },
     {
       "ID": "achievement_53",
@@ -5235,9 +5235,9 @@
       "ID": "achievement_97",
       "SetID": "d252ncf",
       "Name": "Shopaholic",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 474
+      "UsersEstimate": 489
     },
     {
       "ID": "achievement_98",
@@ -5271,8 +5271,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-02T19:09:07.2069883+00:00",
+  "LastChanged_Achievements": "2023-12-02T20:11:06.9600457+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:10.3433357+00:00",
-  "LastUpdate_Ratings": "2023-12-02T19:03:27.5987163+00:00",
-  "LastUpdate_Achievements": "2023-12-02T19:09:07.2071376+00:00"
+  "LastUpdate_Ratings": "2023-12-02T20:04:25.0570637+00:00",
+  "LastUpdate_Achievements": "2023-12-02T20:11:06.9601985+00:00"
 }

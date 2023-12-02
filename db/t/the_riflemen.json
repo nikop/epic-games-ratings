@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 15,
   "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-09-28T03:00:00+00:00",
     "PcReleaseDate": "2023-09-01T11:00:00+00:00",
@@ -131,11 +131,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46763,
+  "EOS_Progressed": 46774,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 4775,
+  "EOS_NewPlayers": 4734,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 25.15,
+  "EOS_Completed_Percentage": 25.14,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -11411,6 +11411,11 @@
       "Time": "2023-12-02T19:08:56.7436393+00:00",
       "NumProgressed": 46763,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-12-02T20:10:56.5273245+00:00",
+      "NumProgressed": 46774,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -11431,7 +11436,7 @@
       "Name": "First blood",
       "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 33669
+      "UsersEstimate": 33677
     },
     {
       "ID": "grenadeKills",
@@ -11534,7 +11539,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 46763,
+      "Progressed": 46774,
       "Completed": 11759
     }
   ],
@@ -11542,8 +11547,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2023-12-01T11:58:06.3582087+00:00",
-  "LastChanged_Achievements": "2023-12-02T19:08:56.7436386+00:00",
+  "LastChanged_Achievements": "2023-12-02T20:10:56.5273243+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:24.022225+00:00",
-  "LastUpdate_Ratings": "2023-12-02T18:59:05.4146966+00:00",
-  "LastUpdate_Achievements": "2023-12-02T19:08:56.7436978+00:00"
+  "LastUpdate_Ratings": "2023-12-02T19:59:38.8501354+00:00",
+  "LastUpdate_Achievements": "2023-12-02T20:10:56.5273942+00:00"
 }

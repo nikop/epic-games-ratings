@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Master trainee | 24.00% | ~11 |
+| Jung's dream | 20.00% | ~9 |
 | You have three wishes left | 20.00% | ~9 |
-| Jung's dream | 18.00% | ~8 |
 | The battle of Great Britain | 18.00% | ~8 |
-| Pulp! Where Monsters Dwell | 16.00% | ~7 |
+| Pulp! Where Monsters Dwell | 18.00% | ~8 |
 | Pulp! Terror Tales in the Night | 13.00% | ~6 |
 | A continent with chemistry | 13.00% | ~6 |
 | Giant | 11.00% | ~5 |

@@ -4157,7 +4157,7 @@
   ],
   "EOS_Progressed": 81012,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 956,
+  "EOS_NewPlayers": 948,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -30159,9 +30159,9 @@
       "ID": "prank_coop_partner",
       "SetID": "3ib2d0i",
       "Name": "Prankster",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3240
+      "UsersEstimate": 4051
     },
     {
       "ID": "purchase_2_emotes",
@@ -30278,8 +30278,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-12-01T16:03:20.0503529+00:00",
-  "LastChanged_Achievements": "2023-12-02T19:09:11.7084909+00:00",
+  "LastChanged_Achievements": "2023-12-02T20:11:11.4164586+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:12.0685781+00:00",
-  "LastUpdate_Ratings": "2023-12-02T19:03:30.1962354+00:00",
-  "LastUpdate_Achievements": "2023-12-02T19:09:11.7086461+00:00"
+  "LastUpdate_Ratings": "2023-12-02T20:04:27.7017217+00:00",
+  "LastUpdate_Achievements": "2023-12-02T20:11:11.4166181+00:00"
 }

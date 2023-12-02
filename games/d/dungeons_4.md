@@ -26,19 +26,19 @@
 | The Big Eaty | 47.00% | ~242 |
 | Pure Dynamite! | 44.00% | ~227 |
 | “… like son” | 44.00% | ~227 |
+| Shame! Shame! Shame! | 41.00% | ~211 |
+| Dungeonlord Gorgu | 40.00% | ~206 |
 | The Cathedral of Light | 40.00% | ~206 |
-| Shame! Shame! Shame! | 40.00% | ~206 |
 | Mana Cannon | 39.00% | ~201 |
-| Dungeonlord Gorgu | 39.00% | ~201 |
 | Tanos' Crusade Against Thalya | 36.00% | ~185 |
 | All’s Well That Ends Evil | 30.00% | ~154 |
 | Unstoppable Horde | 29.00% | ~149 |
 | Master of the Undead | 27.00% | ~139 |
 | The Duel | 27.00% | ~139 |
+| If Looks Could Kill | 25.00% | ~129 |
 | Hungry, Hungry Gorgu! | 24.00% | ~124 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 24.00% | ~124 |
 | Forbidden Knowledge | 24.00% | ~124 |
-| If Looks Could Kill | 24.00% | ~124 |
 | Ghost Pirates? Ghost Heroes! | 23.00% | ~118 |
 | The Finitude Drill | 22.00% | ~113 |
 | Stop Tanos! | 19.00% | ~98 |
@@ -50,9 +50,9 @@
 | My Little Torture Chamber | 15.00% | ~77 |
 | Raiders of the Lost Stone | 15.00% | ~77 |
 | The Rune Sockets of Finitude (Part 1) | 15.00% | ~77 |
-| Lavalumps on Ice! | 13.00% | ~67 |
+| Lavalumps on Ice! | 14.00% | ~72 |
+| The Rune Sockets of Finitude (Part 2) | 14.00% | ~72 |
 | Rubble and Ashes | 13.00% | ~67 |
-| The Rune Sockets of Finitude (Part 2) | 13.00% | ~67 |
 | The Last Stand - This Time For Real! | 12.00% | ~62 |
 | Mirror, Mirror | 11.00% | ~57 |
 | Untouchable | 11.00% | ~57 |
