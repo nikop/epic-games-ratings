@@ -36,7 +36,7 @@
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 12,512 | 4.46 | 651 |
 | 35 | [NBA 2K21](games/n/nba_2k21.md) | 11,793 | 4.39 | 753 |
 | 36 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,665 | 4.69 | 231 |
-| 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,864 | 4.78 | 106 |
+| 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,876 | 4.78 | 106 |
 | 38 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,495 | 4.61 | 387 |
 | 39 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 10,346 | 4.58 | 449 |
 | 40 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 9,746 | 4.58 | 449 |
@@ -110,7 +110,7 @@
 | 108 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,233 | 4.41 | 727 |
 | 109 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,162 | 4.37 | 775 |
 | 110 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 2,127 | 4.70 | 215 |
-| 111 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 2,024 | 4.49 | 613 |
+| 111 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 2,025 | 4.49 | 613 |
 | 112 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,951 | 4.90 | 6 |
 | 113 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,948 | 4.70 | 215 |
 | 114 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,944 | 4.66 | 294 |
@@ -151,7 +151,7 @@
 | 149 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,053 | 4.40 | 741 |
 | 150 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 1,047 | 4.69 | 231 |
 | 151 | [Ooblets](games/o/ooblets.md) | 1,046 | 4.88 | 16 |
-| 152 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 899 |
+| 152 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 900 |
 | 153 | [MORDHAU](games/m/mordhau.md) | 1,000 | 4.38 | 767 |
 | 154 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 989 | 4.31 | 833 |
 | 155 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 985 | 4.54 | 530 |
@@ -211,7 +211,7 @@
 | 209 | [Terraforming Mars](games/t/terraforming_mars.md) | 528 | 4.53 | 543 |
 | 210 | [Ghostrunner](games/g/ghostrunner.md) | 520 | 4.72 | 184 |
 | 211 | [Surviving Mars](games/s/surviving_mars.md) | 518 | 4.61 | 387 |
-| 212 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 493 | 4.41 | 727 |
+| 212 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 495 | 4.41 | 727 |
 | 213 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 492 | 4.66 | 294 |
 | 214 | [Loop Hero](games/l/loop_hero.md) | 481 | 4.67 | 277 |
 | 215 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 477 | 4.84 | 50 |
@@ -223,7 +223,7 @@
 | 221 | [Warface](games/w/warface.md) | 455 | 3.90 | 1,027 |
 | 222 | [Into the Breach](games/i/into_the_breach.md) | 442 | 4.84 | 50 |
 | 223 | [Against the Storm](games/a/against_the_storm.md) | 441 | 4.81 | 81 |
-| 224 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 436 | 4.50 | 594 |
+| 224 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 438 | 4.50 | 594 |
 | 225 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 432 | 4.73 | 170 |
 | 226 | [Slime Rancher](games/s/slime_rancher.md) | 429 | 4.82 | 68 |
 | 227 | [Severed Steel](games/s/severed_steel.md) | 421 | 4.69 | 231 |
@@ -299,8 +299,8 @@
 | 295 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 187 | 4.63 | 350 |
 | 298 | [Star Stable Online](games/s/star_stable_online.md) | 186 | 4.43 | 697 |
 | 298 | [The Witness](games/t/the_witness.md) | 186 | 4.70 | 215 |
-| 300 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 182 | 4.07 | 981 |
-| 300 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 182 | 4.20 | 917 |
+| 300 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 184 | 4.20 | 917 |
+| 301 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 182 | 4.07 | 981 |
 | 302 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 177 | 4.50 | 594 |
 | 303 | [Space Punks](games/s/space_punks.md) | 176 | 4.16 | 944 |
 | 304 | [Mothergunship](games/m/mothergunship.md) | 175 | 4.38 | 767 |
@@ -540,7 +540,7 @@
 | 535 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 23 | 4.87 | 22 |
 | 535 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 23 | 4.37 | 775 |
 | 535 | [Void Bastards](games/v/void_bastards.md) | 23 | 4.60 | 420 |
-| 541 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.23 | 899 |
+| 541 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.23 | 900 |
 | 541 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.20 | 917 |
 | 541 | [Torchlight](games/t/torchlight.md) | 22 | 4.34 | 809 |
 | 541 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 22 | 4.58 | 449 |

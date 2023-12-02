@@ -13,7 +13,7 @@
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.63% |
-| 14 | [The Riflemen](games/t/the_riflemen.md) | 25.37% |
+| 14 | [The Riflemen](games/t/the_riflemen.md) | 25.36% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Overloop](games/o/overloop.md) | 25.00% |
 | 17 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -27,17 +27,17 @@
 | 25 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 18.03% |
 | 26 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 16.67% |
 | 26 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 16.67% |
-| 28 | [Island Cities](games/i/island_cities.md) | 16.42% |
+| 28 | [Island Cities](games/i/island_cities.md) | 16.40% |
 | 29 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.47% |
 | 30 | [Remains](games/r/remains.md) | 14.55% |
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 32 | [Seven Doors](games/s/seven_doors.md) | 13.64% |
 | 33 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 13.19% |
 | 34 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 12.50% |
-| 34 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 12.50% |
-| 36 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.37% |
-| 37 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
-| 37 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 11.11% |
+| 35 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.37% |
+| 36 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
+| 36 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 11.11% |
+| 36 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 11.11% |
 | 39 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 40 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 10.77% |
 | 41 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 10.71% |
@@ -70,9 +70,9 @@
 | 68 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.21% |
 | 69 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.83% |
 | 70 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
-| 71 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
-| 71 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 73 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.49% |
+| 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.60% |
+| 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
+| 72 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 74 | [JARS](games/j/jars.md) | 5.00% |
 | 75 | [Bugsnax](games/b/bugsnax.md) | 4.84% |
 | 76 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 4.76% |
@@ -89,7 +89,7 @@
 | 87 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.28% |
 | 88 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.19% |
 | 89 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.11% |
-| 90 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.08% |
+| 90 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.07% |
 | 91 | [The Bunker](games/t/the_bunker.md) | 4.03% |
 | 92 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.77% |
 | 93 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.70% |
@@ -126,7 +126,7 @@
 | 124 | [Bloodshore](games/b/bloodshore.md) | 2.25% |
 | 124 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.25% |
 | 126 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.21% |
-| 127 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.00% |
+| 127 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 1.99% |
 | 128 | [Dungeons 4](games/d/dungeons_4.md) | 1.95% |
 | 129 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.92% |
 | 130 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.90% |
