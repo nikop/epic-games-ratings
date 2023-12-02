@@ -5,7 +5,7 @@ Rating: 4.73 (Ranked 170)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~12,925 |
+| Under a New Sun | 93.00% | ~13,066 |
 | Newcomers | 79.00% | ~11,099 |
 | A Burden of Blood | 74.00% | ~10,396 |
 | Protector's Duty | 71.00% | ~9,975 |
@@ -15,7 +15,7 @@ Rating: 4.73 (Ranked 170)
 | Felons | 63.00% | ~8,851 |
 | A Sea of Promises | 62.00% | ~8,710 |
 | Tales and Revelations | 58.00% | ~8,148 |
-| Bloodline | 53.00% | ~7,446 |
+| Bloodline | 54.00% | ~7,586 |
 | The Cradle of Centuries | 50.00% | ~7,024 |
 | The Life We Deserve | 47.00% | ~6,603 |
 | Night guard | 44.00% | ~6,182 |

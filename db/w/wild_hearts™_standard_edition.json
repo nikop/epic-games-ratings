@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -1745,9 +1745,9 @@
       "ID": "achievement_22",
       "SetID": "2cpn27e",
       "Name": "Kemono Hunter",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 208
     },
     {
       "ID": "achievement_23",
@@ -2023,8 +2023,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-02T13:08:12.409161+00:00",
+  "LastChanged_Achievements": "2023-12-02T14:06:22.1782113+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:52.7646149+00:00",
-  "LastUpdate_Ratings": "2023-12-02T13:00:32.9153386+00:00",
-  "LastUpdate_Achievements": "2023-12-02T13:08:12.4092068+00:00"
+  "LastUpdate_Ratings": "2023-12-02T13:58:18.3564443+00:00",
+  "LastUpdate_Achievements": "2023-12-02T14:06:22.1782654+00:00"
 }

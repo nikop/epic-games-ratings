@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 813,
+  "EOS_Progressed": 815,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1702,6 +1702,11 @@
       "Time": "2023-12-02T13:07:20.7924751+00:00",
       "NumProgressed": 813,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T14:05:24.1011597+00:00",
+      "NumProgressed": 815,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1722,7 +1727,7 @@
       "Name": "Territorial",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -1770,7 +1775,7 @@
       "Name": "Pathfinder",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "CompleteChapter10",
@@ -1778,15 +1783,15 @@
       "Name": "You da Boss, Now",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "CompleteChapter11",
       "SetID": "52ail55",
       "Name": "The Artefact is Mine",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 82
     },
     {
       "ID": "CompleteChapter12",
@@ -1858,7 +1863,7 @@
       "Name": "Met the Enemy",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "CompleteChapter3",
@@ -1866,7 +1871,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "CompleteChapter4",
@@ -1874,7 +1879,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "CompleteChapter5",
@@ -1890,7 +1895,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "CompleteChapter7",
@@ -1898,7 +1903,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "CompleteChapter8",
@@ -1960,9 +1965,9 @@
       "ID": "Defeat250Units",
       "SetID": "52ail55",
       "Name": "Feeding Shyish",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 285
+      "UsersEstimate": 293
     },
     {
       "ID": "Win100OnlineMatched",
@@ -2009,14 +2014,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 813,
+      "Progressed": 815,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-02T13:07:20.7924748+00:00",
+  "LastChanged_Achievements": "2023-12-02T14:05:24.101159+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:09.4303292+00:00",
-  "LastUpdate_Ratings": "2023-12-02T13:00:54.9035418+00:00",
-  "LastUpdate_Achievements": "2023-12-02T13:07:20.7925077+00:00"
+  "LastUpdate_Ratings": "2023-12-02T13:58:43.5721186+00:00",
+  "LastUpdate_Achievements": "2023-12-02T14:05:24.1011936+00:00"
 }

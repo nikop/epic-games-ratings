@@ -175,9 +175,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 826,
+  "EOS_Progressed": 828,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1905,6 +1905,11 @@
       "Time": "2023-12-02T13:06:15.929292+00:00",
       "NumProgressed": 826,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T14:04:11.5215104+00:00",
+      "NumProgressed": 828,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1973,7 +1978,7 @@
       "Name": "Bridge Builder",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ChasingTheLight",
@@ -2315,9 +2320,9 @@
       "ID": "TheThiefOfFire",
       "SetID": "1n308hc",
       "Name": "The Thief of Fire",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 58
     },
     {
       "ID": "TheWordEndures",
@@ -2388,7 +2393,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 826,
+      "Progressed": 828,
       "Completed": 1
     }
   ],
@@ -2396,8 +2401,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-02T13:02:26.2646778+00:00",
-  "LastChanged_Achievements": "2023-12-02T13:06:15.9292917+00:00",
+  "LastChanged_Achievements": "2023-12-02T14:04:11.5215101+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-02T13:02:26.2646784+00:00",
-  "LastUpdate_Achievements": "2023-12-02T13:06:15.9293346+00:00"
+  "LastUpdate_Ratings": "2023-12-02T14:00:26.1017338+00:00",
+  "LastUpdate_Achievements": "2023-12-02T14:04:11.5215573+00:00"
 }

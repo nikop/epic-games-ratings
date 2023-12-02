@@ -145,33 +145,33 @@
       "ID": "creepytale3_ach_11",
       "SetID": "7idcjbn",
       "Name": "Dexterity",
-      "Percentage": 63,
+      "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "creepytale3_ach_12",
       "SetID": "7idcjbn",
       "Name": "Exchange of pleasantries",
-      "Percentage": 21,
-      "XP": 30,
-      "UsersEstimate": 4
-    },
-    {
-      "ID": "creepytale3_ach_14",
-      "SetID": "7idcjbn",
-      "Name": "Dinner is served!",
       "Percentage": 26,
       "XP": 30,
       "UsersEstimate": 5
     },
     {
+      "ID": "creepytale3_ach_14",
+      "SetID": "7idcjbn",
+      "Name": "Dinner is served!",
+      "Percentage": 32,
+      "XP": 30,
+      "UsersEstimate": 6
+    },
+    {
       "ID": "creepytale3_ach_15",
       "SetID": "7idcjbn",
       "Name": "Bathing time!",
-      "Percentage": 37,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "creepytale3_ach_17",
@@ -400,8 +400,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-12-02T13:07:24.5579456+00:00",
+  "LastChanged_Achievements": "2023-12-02T14:05:28.2802086+00:00",
   "LastUpdate_AppInfo": "2023-11-29T05:57:16.1514694+00:00",
-  "LastUpdate_Ratings": "2023-12-02T13:02:01.8845381+00:00",
-  "LastUpdate_Achievements": "2023-12-02T13:07:24.5579648+00:00"
+  "LastUpdate_Ratings": "2023-12-02T13:59:58.4309715+00:00",
+  "LastUpdate_Achievements": "2023-12-02T14:05:28.2802374+00:00"
 }

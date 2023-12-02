@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~84,289 |
-| Alt+F4 | 9.00% | ~21,674 |
-| Where's that freaking Dwarf? | 8.00% | ~19,266 |
-| Déjà vu | 7.00% | ~16,858 |
-| Sock! SOCK! | 5.00% | ~12,041 |
-| Speedrun | 5.00% | ~12,041 |
-| A beer, two curses, three companions | 4.00% | ~9,633 |
-| GG EZ | 4.00% | ~9,633 |
-| DM intervention | 4.00% | ~9,633 |
-| Fireproof Wizardess | 4.00% | ~9,633 |
+| Sowwy! | 35.00% | ~84,295 |
+| Alt+F4 | 9.00% | ~21,676 |
+| Where's that freaking Dwarf? | 8.00% | ~19,268 |
+| Déjà vu | 7.00% | ~16,859 |
+| Sock! SOCK! | 5.00% | ~12,042 |
+| Speedrun | 5.00% | ~12,042 |
+| A beer, two curses, three companions | 4.00% | ~9,634 |
+| GG EZ | 4.00% | ~9,634 |
+| DM intervention | 4.00% | ~9,634 |
+| Fireproof Wizardess | 4.00% | ~9,634 |
 | Livin' in a dwarven paradise | 3.00% | ~7,225 |
 | Way of the Wimp | 3.00% | ~7,225 |
 | The plot thickens... At the tavern | 3.00% | ~7,225 |
@@ -44,7 +44,7 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 1.00% | ~2,408 |
 | Lust and Debauchery | 1.00% | ~2,408 |
 | Material Girl | 1.00% | ~2,408 |
-| In Navalu's footsteps | 0.90% | ~2,167 |
+| In Navalu's footsteps | 0.90% | ~2,168 |
 | Lëgal Legend | 0.80% | ~1,927 |
 | We come in peace | 0.70% | ~1,686 |
 | Holistic Adventuring Party | 0.60% | ~1,445 |
@@ -54,8 +54,8 @@ Number of Ratings: 118  (23.09.2022)
 | Friendly fire | 0.40% | ~963 |
 | I'd rather... Just... Sing! | 0.40% | ~963 |
 | It's been a hard day's night | 0.40% | ~963 |
-| The number of the counting shalt be 7 | 0.30% | ~722 |
-| Inception | 0.30% | ~722 |
+| The number of the counting shalt be 7 | 0.30% | ~723 |
+| Inception | 0.30% | ~723 |
 | Cursed die | 0.20% | ~482 |
 | The Blood Countess | 0.20% | ~482 |
 | Free customer service | 0.20% | ~482 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~241 |
 | Dwarf Candy | 0.10% | ~241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,826 (Ranked 62)  
+Progressed: 240,844 (Ranked 62)  
 Completed: 7 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 7 (0.00%) (Ranked 365)
 | 2023-11-29 | 240,383 | 7 |
 | 2023-11-30 | 240,529 | 7 |
 | 2023-12-01 | 240,719 | 7 |
-| 2023-12-02 | 240,826 | 7 |
+| 2023-12-02 | 240,844 | 7 |
 ## Awards
 Max (Character Customization): 240  (Ranked 272)  
 Sum: 485 (Ranked 329)  

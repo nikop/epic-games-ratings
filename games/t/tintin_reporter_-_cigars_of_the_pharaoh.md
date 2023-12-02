@@ -9,8 +9,8 @@
 | Abandon Ship! | 22.00% | ~17 |
 | The Tomb of Kih-Oskh | 18.00% | ~14 |
 | The Weighing of the Soul | 14.00% | ~11 |
+| The Curse of Kih-Oskh | 9.00% | ~7 |
 | Cat Lover | 8.00% | ~6 |
-| The Curse of Kih-Oskh | 8.00% | ~6 |
 | It's a Deal! | 8.00% | ~6 |
 | Dynamite, Treason and Coconuts | 6.00% | ~5 |
 | In the Name of the Law | 5.00% | ~4 |

@@ -6,20 +6,21 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.70% | ~7,426 |
-| Skillful | 0.70% | ~7,426 |
-| Zealous | 0.60% | ~6,365 |
-| Not half bad | 0.60% | ~6,365 |
-| Apt Survivor | 0.50% | ~5,304 |
-| I | 0.50% | ~5,304 |
-| Make Some Noise | 0.50% | ~5,304 |
-| No one left behind | 0.40% | ~4,243 |
-| Medic | 0.40% | ~4,243 |
-| Handyman | 0.40% | ~4,243 |
-| Survival Treasures | 0.40% | ~4,243 |
-| Sorted | 0.40% | ~4,243 |
-| Healthy Obsession | 0.40% | ~4,243 |
-| Resurgence | 0.40% | ~4,243 |
+| It wakes | 0.70% | ~7,427 |
+| Skillful | 0.70% | ~7,427 |
+| Zealous | 0.60% | ~6,366 |
+| Not half bad | 0.60% | ~6,366 |
+| Apt Survivor | 0.50% | ~5,305 |
+| I | 0.50% | ~5,305 |
+| Make Some Noise | 0.50% | ~5,305 |
+| No one left behind | 0.40% | ~4,244 |
+| Medic | 0.40% | ~4,244 |
+| Handyman | 0.40% | ~4,244 |
+| Survival Treasures | 0.40% | ~4,244 |
+| Sorted | 0.40% | ~4,244 |
+| Healthy Obsession | 0.40% | ~4,244 |
+| Resurgence | 0.40% | ~4,244 |
+| Preemptive Strike | 0.40% | ~4,244 |
 | The Grand Sacrifice | 0.30% | ~3,183 |
 | Agonizing Escape | 0.30% | ~3,183 |
 | Backdoor Escape | 0.30% | ~3,183 |
@@ -34,17 +35,19 @@ Number of Ratings: 70,340  (23.09.2022)
 | Engineer | 0.30% | ~3,183 |
 | Wounded Healer | 0.30% | ~3,183 |
 | Close Shave | 0.30% | ~3,183 |
-| Preemptive Strike | 0.30% | ~3,183 |
 | Humanitarian | 0.30% | ~3,183 |
 | Blood on your hands | 0.20% | ~2,122 |
 | Escape Artist | 0.20% | ~2,122 |
+| Made it out alive! | 0.20% | ~2,122 |
 | Nerves of steel | 0.20% | ~2,122 |
 | Gifts for the Fog | 0.20% | ~2,122 |
 | Vulture | 0.20% | ~2,122 |
 | III-50 | 0.20% | ~2,122 |
+| Item of Obsession | 0.20% | ~2,122 |
 | Near-Death Experience | 0.20% | ~2,122 |
 | Cherish your Life | 0.20% | ~2,122 |
 | Unforgettable Getaway | 0.20% | ~2,122 |
+| Cutting Out | 0.20% | ~2,122 |
 | First to the Punch | 0.20% | ~2,122 |
 | Operation: Survival | 0.20% | ~2,122 |
 | Old West Oasis | 0.20% | ~2,122 |
@@ -54,6 +57,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | With Scars to Show | 0.20% | ~2,122 |
 | Flight to Freedom | 0.20% | ~2,122 |
 | Lifting The Fog | 0.20% | ~2,122 |
+| Chorus of Chaos | 0.20% | ~2,122 |
 | Second Act | 0.20% | ~2,122 |
 | A bite for the Entity | 0.10% | ~1,061 |
 | A feast for the Entity | 0.10% | ~1,061 |
@@ -62,7 +66,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Cripple them all | 0.10% | ~1,061 |
 | Jump Scares | 0.10% | ~1,061 |
 | The Grind | 0.10% | ~1,061 |
-| Made it out alive! | 0.10% | ~1,061 |
 | The Key to Escape | 0.10% | ~1,061 |
 | Adept Jake | 0.10% | ~1,061 |
 | Adept Dwight | 0.10% | ~1,061 |
@@ -91,7 +94,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | The man behind the bush | 0.10% | ~1,061 |
 | Evil Incarnate | 0.10% | ~1,061 |
 | Adept Shape | 0.10% | ~1,061 |
-| Item of Obsession | 0.10% | ~1,061 |
 | House of Pain | 0.10% | ~1,061 |
 | Adept Laurie | 0.10% | ~1,061 |
 | Swirling Death | 0.10% | ~1,061 |
@@ -137,7 +139,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Plague | 0.10% | ~1,061 |
 | Shrine Apparatus | 0.10% | ~1,061 |
 | Adept Jane | 0.10% | ~1,061 |
-| Cutting Out | 0.10% | ~1,061 |
 | Outrun Evil | 0.10% | ~1,061 |
 | Adept Ash | 0.10% | ~1,061 |
 | Silent Approach | 0.10% | ~1,061 |
@@ -217,7 +218,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Rebuilding The Borgo | 0.10% | ~1,061 |
 | Adept Vittorio | 0.10% | ~1,061 |
 | Thrill of the Chase | 0.10% | ~1,061 |
-| Chorus of Chaos | 0.10% | ~1,061 |
 | Adept Skull Merchant | 0.10% | ~1,061 |
 | Hack the Mainframe | 0.10% | ~1,061 |
 | Adept Thalita | 0.10% | ~1,061 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,061 |
 | Adept Good Guy | 0.10% | ~1,061 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,060,871 (Ranked 14)  
+Progressed: 1,061,050 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -465,7 +465,7 @@ Completed: 61 (0.01%) (Ranked 344)
 | 2023-11-29 | 1,053,910 | 61 |
 | 2023-11-30 | 1,056,530 | 61 |
 | 2023-12-01 | 1,059,298 | 61 |
-| 2023-12-02 | 1,060,871 | 61 |
+| 2023-12-02 | 1,061,050 | 61 |
 ## Awards
 Max (Diverse Characters): 37,031  (Ranked 15)  
 Sum: 281,579 (Ranked 12)  

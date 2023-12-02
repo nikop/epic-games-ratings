@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -125,9 +125,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 986,
+  "EOS_Progressed": 987,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.14,
   "EosHistory": [
@@ -3265,6 +3265,11 @@
       "Time": "2023-12-02T11:03:47.9223409+00:00",
       "NumProgressed": 986,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-12-02T14:03:23.8023566+00:00",
+      "NumProgressed": 987,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3325,7 +3330,7 @@
       "Name": "All Good Things",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "_08_Completion_10",
@@ -3469,7 +3474,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -3484,7 +3489,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 986,
+      "Progressed": 987,
       "Completed": 31
     }
   ],
@@ -3492,8 +3497,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-29T18:57:59.7478521+00:00",
-  "LastChanged_Achievements": "2023-12-02T13:05:34.1660649+00:00",
+  "LastChanged_Achievements": "2023-12-02T14:03:23.8023562+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:16.5506412+00:00",
-  "LastUpdate_Ratings": "2023-12-02T13:01:18.1253992+00:00",
-  "LastUpdate_Achievements": "2023-12-02T13:05:34.1660952+00:00"
+  "LastUpdate_Ratings": "2023-12-02T13:59:09.6592492+00:00",
+  "LastUpdate_Achievements": "2023-12-02T14:03:23.8023989+00:00"
 }

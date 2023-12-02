@@ -24,12 +24,12 @@ Rating: 3.95 (Ranked 1,015)
 | Headhunter | 0.80% | ~734 |
 | I Like Trains | 0.60% | ~550 |
 | Freebooter | 0.60% | ~550 |
-| Legend Looter | 0.50% | ~458 |
-| Imports and Exports | 0.50% | ~458 |
-| Foo Finder | 0.50% | ~458 |
-| Moneybags | 0.50% | ~458 |
-| Olympus Ascended | 0.50% | ~458 |
-| Ding Dong | 0.50% | ~458 |
+| Legend Looter | 0.50% | ~459 |
+| Imports and Exports | 0.50% | ~459 |
+| Foo Finder | 0.50% | ~459 |
+| Moneybags | 0.50% | ~459 |
+| Olympus Ascended | 0.50% | ~459 |
+| Ding Dong | 0.50% | ~459 |
 | Savvy Seeker | 0.40% | ~367 |
 | All that Glitters | 0.40% | ~80 |
 | Rockay Raider | 0.30% | ~275 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,015)
 | Full House | 0.10% | ~92 |
 | Geek Out | 0.10% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,700 (Ranked 92)  
+Progressed: 91,701 (Ranked 92)  
 Completed: 58 (0.06%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 58 (0.06%) (Ranked 311)
 | 2023-11-29 | 91,661 | 58 |
 | 2023-11-30 | 91,670 | 58 |
 | 2023-12-01 | 91,683 | 58 |
-| 2023-12-02 | 91,700 | 58 |
+| 2023-12-02 | 91,701 | 58 |
 ## Awards
 Max (Diverse Characters): 551  (Ranked 206)  
 Sum: 3,144 (Ranked 175)  

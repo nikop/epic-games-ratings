@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 429,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -825,9 +825,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3978,
+  "EOS_Progressed": 3979,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6385,6 +6385,11 @@
       "Time": "2023-12-02T09:04:01.4641509+00:00",
       "NumProgressed": 3978,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T14:03:37.2791212+00:00",
+      "NumProgressed": 3979,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -6405,7 +6410,7 @@
       "Name": "Stud Finder",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 1392
+      "UsersEstimate": 1393
     },
     {
       "ID": "achievement_11",
@@ -6493,7 +6498,7 @@
       "Name": "Saw It Coming",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 2307
+      "UsersEstimate": 2308
     },
     {
       "ID": "achievement_21",
@@ -6509,7 +6514,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "achievement_4",
@@ -6533,7 +6538,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "achievement_7",
@@ -6564,7 +6569,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3978,
+      "Progressed": 3979,
       "Completed": 0
     }
   ],
@@ -6572,8 +6577,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-12-02T08:57:41.2737369+00:00",
-  "LastChanged_Achievements": "2023-12-02T13:05:46.1316656+00:00",
+  "LastChanged_Achievements": "2023-12-02T14:03:37.2791208+00:00",
   "LastUpdate_AppInfo": "2023-11-30T06:57:22.8292477+00:00",
-  "LastUpdate_Ratings": "2023-12-02T12:59:49.5842586+00:00",
-  "LastUpdate_Achievements": "2023-12-02T13:05:46.1316988+00:00"
+  "LastUpdate_Ratings": "2023-12-02T13:57:29.1615302+00:00",
+  "LastUpdate_Achievements": "2023-12-02T14:03:37.2791821+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 387,
+  "Ranking_Rating": 385,
   "Ranking_Popularity": 478,
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -507,9 +507,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5556,
+  "EOS_Progressed": 5557,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7712,6 +7712,11 @@
       "Time": "2023-12-02T13:06:54.0303342+00:00",
       "NumProgressed": 5556,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-02T14:04:53.8680348+00:00",
+      "NumProgressed": 5557,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7897,9 +7902,9 @@
       "ID": "3",
       "SetID": "3aa2279",
       "Name": "Crimson Caldera",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 56
     },
     {
       "ID": "30",
@@ -8202,13 +8207,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5556,
+      "Progressed": 5557,
       "Completed": 4766
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5556,
+      "Progressed": 5557,
       "Completed": 7
     }
   ],
@@ -8216,8 +8221,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-29T19:59:17.4564892+00:00",
-  "LastChanged_Achievements": "2023-12-02T13:06:54.0303339+00:00",
+  "LastChanged_Achievements": "2023-12-02T14:04:53.8680346+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.6428194+00:00",
-  "LastUpdate_Ratings": "2023-12-02T12:59:54.1642353+00:00",
-  "LastUpdate_Achievements": "2023-12-02T13:06:54.0304027+00:00"
+  "LastUpdate_Ratings": "2023-12-02T13:57:34.1310068+00:00",
+  "LastUpdate_Achievements": "2023-12-02T14:04:53.8681276+00:00"
 }

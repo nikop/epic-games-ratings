@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 484,
+  "EOS_Progressed": 485,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
@@ -1325,6 +1325,11 @@
       "Time": "2023-12-02T13:10:54.8862039+00:00",
       "NumProgressed": 484,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T14:08:41.2440643+00:00",
+      "NumProgressed": 485,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1367,9 +1372,9 @@
       "ID": "AchvBombStop",
       "SetID": "1hj060c",
       "Name": "Peacemaker",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 87
+      "UsersEstimate": 92
     },
     {
       "ID": "AchvBombing",
@@ -1415,9 +1420,9 @@
       "ID": "AchvEvacuate",
       "SetID": "1hj060c",
       "Name": "Evacuation",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 58
+      "UsersEstimate": 63
     },
     {
       "ID": "AchvInvShip",
@@ -1505,7 +1510,7 @@
       "Name": "The field base",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "AchvReachCamp",
@@ -1535,9 +1540,9 @@
       "ID": "AchvSurvivors",
       "SetID": "1hj060c",
       "Name": "Survivors",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 141
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -1551,9 +1556,9 @@
       "ID": "AchvTheEnd",
       "SetID": "1hj060c",
       "Name": "The End",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 55,
-      "UsersEstimate": 126
+      "UsersEstimate": 131
     },
     {
       "ID": "AchvUnity",
@@ -1568,14 +1573,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 484,
+      "Progressed": 485,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-02T13:10:54.8862037+00:00",
+  "LastChanged_Achievements": "2023-12-02T14:08:41.2440638+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-12-02T13:02:22.2327844+00:00",
-  "LastUpdate_Achievements": "2023-12-02T13:10:54.8862272+00:00"
+  "LastUpdate_Ratings": "2023-12-02T14:00:21.371733+00:00",
+  "LastUpdate_Achievements": "2023-12-02T14:08:41.244091+00:00"
 }

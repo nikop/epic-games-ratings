@@ -17,11 +17,11 @@ Rating: 4.77 (Ranked 113)
 | Pirates Assemble! | 24.00% | ~237 |
 | Buccaneer | 22.00% | ~217 |
 | Fishy Fish | 21.00% | ~207 |
-| All Good Things | 19.00% | ~187 |
+| All Good Things | 19.00% | ~188 |
 | Seadog | 16.00% | ~158 |
 | Persistent Parasite | 16.00% | ~158 |
 | Jaded Judge | 12.00% | ~118 |
-| Rustic Recipe | 11.00% | ~108 |
+| Rustic Recipe | 11.00% | ~109 |
 | Privateer | 10.00% | ~99 |
 | Tobacco Travesty | 10.00% | ~99 |
 | Accursed Artifacts | 10.00% | ~99 |
@@ -32,7 +32,7 @@ Rating: 4.77 (Ranked 113)
 | Marauder | 4.00% | ~39 |
 | Welcome Back Jester | 4.00% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 986 (Ranked 265)  
+Progressed: 987 (Ranked 265)  
 Completed: 31 (3.14%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 31 (3.14%) (Ranked 99)
 | 2023-11-29 | 976 | 31 |
 | 2023-11-30 | 982 | 31 |
 | 2023-12-01 | 984 | 31 |
-| 2023-12-02 | 986 | 31 |
+| 2023-12-02 | 987 | 31 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

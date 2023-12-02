@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4451,
+  "EOS_Progressed": 4454,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -8040,6 +8040,11 @@
       "Time": "2023-12-02T11:07:39.569103+00:00",
       "NumProgressed": 4451,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-02T14:06:29.2324049+00:00",
+      "NumProgressed": 4454,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8059,7 +8064,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "Ach003",
@@ -8243,7 +8248,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "Ach026",
@@ -8291,7 +8296,7 @@
       "Name": "Perfect Parry",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "Ach032",
@@ -8419,7 +8424,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "Ach048",
@@ -8451,7 +8456,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "Ach052",
@@ -8547,7 +8552,7 @@
       "Name": "Call me Turbo Chai",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Ach064",
@@ -8618,13 +8623,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4451,
+      "Progressed": 4454,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2972,
+      "Progressed": 2975,
       "Completed": 1930
     }
   ],
@@ -8632,8 +8637,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-02T13:08:18.4151815+00:00",
+  "LastChanged_Achievements": "2023-12-02T14:06:29.2324044+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.5905907+00:00",
-  "LastUpdate_Ratings": "2023-12-02T13:01:24.6084224+00:00",
-  "LastUpdate_Achievements": "2023-12-02T13:08:18.4153008+00:00"
+  "LastUpdate_Ratings": "2023-12-02T13:59:16.8235227+00:00",
+  "LastUpdate_Achievements": "2023-12-02T14:06:29.2324867+00:00"
 }

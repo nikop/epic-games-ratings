@@ -5,7 +5,7 @@
   "Ranking_Rating": 449,
   "Ranking_Popularity": 132,
   "Ranking_PopularitySum": 78,
-  "Ranking_EOS_Progress": 63,
+  "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 131,
@@ -3526,9 +3526,9 @@
       "Count": 746
     }
   ],
-  "EOS_Progressed": 240510,
+  "EOS_Progressed": 240512,
   "EOS_Completed": 291,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -26876,6 +26876,11 @@
       "Time": "2023-12-02T13:11:47.5644138+00:00",
       "NumProgressed": 240510,
       "NumCompleted": 291
+    },
+    {
+      "Time": "2023-12-02T14:09:38.9747919+00:00",
+      "NumProgressed": 240512,
+      "NumCompleted": 291
     }
   ],
   "TotalAchievements": 138,
@@ -27069,9 +27074,9 @@
       "ID": "DIERAINBOWSOCKS",
       "SetID": "5l8oe0h",
       "Name": "Colorful Corpse",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 962
+      "UsersEstimate": 1203
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -27990,13 +27995,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240510,
+      "Progressed": 240512,
       "Completed": 291
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1990,
+      "Progressed": 1992,
       "Completed": 393
     }
   ],
@@ -28004,8 +28009,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-01T22:58:42.0642847+00:00",
-  "LastChanged_Achievements": "2023-12-02T13:11:47.5644136+00:00",
+  "LastChanged_Achievements": "2023-12-02T14:09:38.9747915+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:47.3413354+00:00",
-  "LastUpdate_Ratings": "2023-12-02T13:00:37.8851868+00:00",
-  "LastUpdate_Achievements": "2023-12-02T13:11:47.5646413+00:00"
+  "LastUpdate_Ratings": "2023-12-02T13:58:23.840948+00:00",
+  "LastUpdate_Achievements": "2023-12-02T14:09:38.975107+00:00"
 }

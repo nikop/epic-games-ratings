@@ -7,12 +7,12 @@ Rating: 4.87 (Ranked 23)
 | ---- | ---------- | ----- |
 | Start with a bang! | 19.00% | ~846 |
 | Feeling the beat! | 19.00% | ~846 |
-| You can pet the cat! | 18.00% | ~801 |
-| Cream of the Crop | 16.00% | ~712 |
-| Who put gears in there? | 16.00% | ~712 |
+| You can pet the cat! | 18.00% | ~802 |
+| Cream of the Crop | 16.00% | ~713 |
+| Who put gears in there? | 16.00% | ~713 |
 | Thanks for the free chip, Peppermint! | 15.00% | ~668 |
-| You got this, Peppermint? | 14.00% | ~623 |
-| Perfect Parry | 14.00% | ~623 |
+| You got this, Peppermint? | 14.00% | ~624 |
+| Perfect Parry | 14.00% | ~624 |
 | Alright, that felt AWESOME! | 13.00% | ~579 |
 | This will cost you big time | 12.00% | ~534 |
 | I play my own way! | 12.00% | ~534 |
@@ -45,7 +45,7 @@ Rating: 4.87 (Ranked 23)
 | We're Jammin' | 2.00% | ~89 |
 | First we parry, then we counter | 2.00% | ~89 |
 | I hit things with a guitar really well. | 2.00% | ~89 |
-| Call me Turbo Chai | 2.00% | ~59 |
+| Call me Turbo Chai | 2.00% | ~60 |
 | I'm not done with you yet | 1.00% | ~45 |
 | You ever parry a volcano? | 1.00% | ~45 |
 | New bad guys? No problem! | 1.00% | ~30 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 23)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,451 (Ranked 194)  
+Progressed: 4,454 (Ranked 194)  
 Completed: 8 (0.18%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 8 (0.18%) (Ranked 265)
 | 2023-11-29 | 4,429 | 8 |
 | 2023-11-30 | 4,441 | 8 |
 | 2023-12-01 | 4,446 | 8 |
-| 2023-12-02 | 4,451 | 8 |
+| 2023-12-02 | 4,454 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

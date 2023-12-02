@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 443,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -889,9 +889,9 @@
       "Count": 113
     }
   ],
-  "EOS_Progressed": 11150,
+  "EOS_Progressed": 11151,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -13499,6 +13499,11 @@
       "Time": "2023-12-02T13:10:56.0644335+00:00",
       "NumProgressed": 11150,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-12-02T14:08:42.4695474+00:00",
+      "NumProgressed": 11151,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -13518,7 +13523,7 @@
       "Name": "Running Rampant",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ACH03",
@@ -13550,7 +13555,7 @@
       "Name": "Point A to Point B",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ACH07",
@@ -13574,7 +13579,7 @@
       "Name": "Bull in a China Shop",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ACH10",
@@ -13590,7 +13595,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "ACH12",
@@ -13606,7 +13611,7 @@
       "Name": "Somebody Call the Wambulance?",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ACH14",
@@ -13622,7 +13627,7 @@
       "Name": "Just Like the Real Thing",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ACH16",
@@ -13654,7 +13659,7 @@
       "Name": "Don\u0027t Need Roads",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ACH20",
@@ -13670,7 +13675,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 5240
+      "UsersEstimate": 5241
     },
     {
       "ID": "ACH22",
@@ -13694,7 +13699,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1672
+      "UsersEstimate": 1673
     },
     {
       "ID": "ACH25",
@@ -13702,7 +13707,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1672
+      "UsersEstimate": 1673
     },
     {
       "ID": "ACH26",
@@ -13758,7 +13763,7 @@
       "Name": "City Sleuth",
       "Percentage": 3,
       "XP": 55,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ACH33",
@@ -13781,7 +13786,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11150,
+      "Progressed": 11151,
       "Completed": 65
     }
   ],
@@ -13789,8 +13794,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-29T23:57:12.1687607+00:00",
-  "LastChanged_Achievements": "2023-12-02T13:10:56.0644333+00:00",
+  "LastChanged_Achievements": "2023-12-02T14:08:42.4695469+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:45.8574591+00:00",
-  "LastUpdate_Ratings": "2023-12-02T13:00:44.956525+00:00",
-  "LastUpdate_Achievements": "2023-12-02T13:10:56.0645191+00:00"
+  "LastUpdate_Ratings": "2023-12-02T13:58:31.9494252+00:00",
+  "LastUpdate_Achievements": "2023-12-02T14:08:42.4696572+00:00"
 }

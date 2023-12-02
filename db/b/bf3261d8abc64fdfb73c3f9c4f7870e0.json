@@ -4,7 +4,7 @@
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
   "Ranking_EOS_Progress": 605,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 439,
+  "Ranking_EOS_NewPlayers": 438,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
@@ -292,9 +292,9 @@
       "ID": "achievement_last_word",
       "SetID": "bngbnfb",
       "Name": "The last word",
-      "Percentage": 18,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_madman",
@@ -491,8 +491,8 @@
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2023-12-02T13:08:09.6124875+00:00",
+  "LastChanged_Achievements": "2023-12-02T14:06:19.0434766+00:00",
   "LastUpdate_AppInfo": "2023-11-29T13:56:58.8444251+00:00",
-  "LastUpdate_Ratings": "2023-12-02T12:59:24.1665273+00:00",
-  "LastUpdate_Achievements": "2023-12-02T13:08:09.6125208+00:00"
+  "LastUpdate_Ratings": "2023-12-02T13:56:58.6641677+00:00",
+  "LastUpdate_Achievements": "2023-12-02T14:06:19.0435056+00:00"
 }

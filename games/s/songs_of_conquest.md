@@ -11,8 +11,8 @@ Number of Ratings: 292  (23.09.2022)
 | Critical Hit | 13.00% | ~42 |
 | Veteran | 12.00% | ~39 |
 | Dressed For Success | 9.00% | ~29 |
+| Sorcerous Spree | 6.00% | ~19 |
 | Humiliation | 6.00% | ~19 |
-| Sorcerous Spree | 5.00% | ~16 |
 | Multi Kill | 4.00% | ~13 |
 | Whoops! | 4.00% | ~13 |
 | Expert Essence Employment | 4.00% | ~13 |

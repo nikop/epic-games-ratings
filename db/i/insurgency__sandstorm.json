@@ -2,7 +2,7 @@
   "ID": "94cec4802e954a6c9579e29e8b817f3a",
   "Name": "Insurgency: Sandstorm",
   "ProductSlug": "insurgency-sandstorm",
-  "Ranking_Rating": 367,
+  "Ranking_Rating": 385,
   "Ranking_Popularity": 233,
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 37,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.62,
+  "Rating": 4.61,
   "NumberOfRatings": 1316,
   "RatingHistory": [
     {
@@ -4130,10 +4130,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 3195,
       "NumberOfAwardsMax": 402
+    },
+    {
+      "Time": "2023-12-02T14:00:04.5262834+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3198,
+      "NumberOfAwardsMax": 402
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3195,
+  "NumberOfAwards": 3198,
   "NumberOfAwardsMax": 402,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -4177,7 +4183,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 339
+      "Count": 342
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4204,9 +4210,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 495917,
+  "EOS_Progressed": 495934,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5334,
+  "EOS_NewPlayers": 5302,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30044,6 +30050,11 @@
       "Time": "2023-12-02T13:06:30.6084585+00:00",
       "NumProgressed": 495917,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-02T14:04:27.478082+00:00",
+      "NumProgressed": 495934,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -30055,7 +30066,7 @@
       "Name": "Banged",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9918
+      "UsersEstimate": 9919
     },
     {
       "ID": "ACH_BLINDFIRE",
@@ -30079,7 +30090,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 9918
+      "UsersEstimate": 9919
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -30127,7 +30138,7 @@
       "Name": "First Blood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9918
+      "UsersEstimate": 9919
     },
     {
       "ID": "ACH_FLACCID_PARALYSIS",
@@ -30135,7 +30146,7 @@
       "Name": "Flaccid Paralysis",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 9918
+      "UsersEstimate": 9919
     },
     {
       "ID": "ACH_GROUNDED",
@@ -30231,7 +30242,7 @@
       "Name": "Push Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 9918
+      "UsersEstimate": 9919
     },
     {
       "ID": "ACH_REFLEXES",
@@ -30263,7 +30274,7 @@
       "Name": "Self-destructive",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9918
+      "UsersEstimate": 9919
     },
     {
       "ID": "ACH_SEMPER_PARATUS",
@@ -30279,7 +30290,7 @@
       "Name": "Special Delivery",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 3471
+      "UsersEstimate": 3472
     },
     {
       "ID": "ACH_STYLING",
@@ -30319,7 +30330,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 24796
+      "UsersEstimate": 24797
     },
     {
       "ID": "ACH_WET_FEET",
@@ -30334,15 +30345,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 495917,
+      "Progressed": 495934,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2023-12-01T16:00:27.0765297+00:00",
-  "LastChanged_Achievements": "2023-12-02T13:06:30.6084582+00:00",
+  "LastChanged": "2023-12-02T14:00:04.5262833+00:00",
+  "LastChanged_Achievements": "2023-12-02T14:04:27.4780815+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:34.4424138+00:00",
-  "LastUpdate_Ratings": "2023-12-02T13:02:07.2705395+00:00",
-  "LastUpdate_Achievements": "2023-12-02T13:06:30.6086117+00:00"
+  "LastUpdate_Ratings": "2023-12-02T14:00:04.5262839+00:00",
+  "LastUpdate_Achievements": "2023-12-02T14:04:27.4783022+00:00"
 }

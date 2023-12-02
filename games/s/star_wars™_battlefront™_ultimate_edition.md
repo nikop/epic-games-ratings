@@ -69,7 +69,7 @@
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,510 (Ranked 241)  
-Completed: 1 (0.07%) (Ranked 304)  
+Completed: 1 (0.07%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

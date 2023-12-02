@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.61 (Ranked 387)  
+Rating: 4.61 (Ranked 385)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -25,6 +25,7 @@ Rating: 4.61 (Ranked 387)
 | Return of the Wizard King | 1.00% | ~56 |
 | Enchanted Archipelago | 1.00% | ~56 |
 | Digging for Treasure | 1.00% | ~56 |
+| Crimson Caldera | 1.00% | ~56 |
 | Preparation Is Everything | 1.00% | ~56 |
 | My Final Form | 1.00% | ~56 |
 | Fiery Friend | 1.00% | ~56 |
@@ -37,7 +38,6 @@ Rating: 4.61 (Ranked 387)
 | Spoils of War | 1.00% | ~56 |
 | Dawn of the Dread | 1.00% | ~56 |
 | Arch Mage | 0.90% | ~50 |
-| Crimson Caldera | 0.90% | ~50 |
 | Blood of the Dragon | 0.90% | ~50 |
 | Prometheus Avenged | 0.90% | ~50 |
 | A Conqueror's Cohort | 0.80% | ~44 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 387)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,556 (Ranked 189)  
+Progressed: 5,557 (Ranked 189)  
 Completed: 7 (0.13%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 7 (0.13%) (Ranked 274)
 | 2023-11-29 | 5,544 | 7 |
 | 2023-11-30 | 5,551 | 7 |
 | 2023-12-01 | 5,553 | 7 |
-| 2023-12-02 | 5,556 | 7 |
+| 2023-12-02 | 5,557 | 7 |
 ## Awards
 Max (Great for Beginners): 35  (Ranked 478)  
 Sum: 84 (Ranked 463)  

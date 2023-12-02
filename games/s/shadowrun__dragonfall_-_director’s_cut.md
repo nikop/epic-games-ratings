@@ -1,7 +1,7 @@
 # Shadowrun: Dragonfall - Director’s Cut
 [Store](https://store.epicgames.com/en-US/p/shadowrun-dragonfall)  
 [View Rawdata](../../db/s/shadowrun__dragonfall_-_director’s_cut.json)  
-Rating: 4.55 (Ranked 509)  
+Rating: 4.55 (Ranked 508)  
 Number of Ratings: 236  (23.09.2022)  
 ## Awards
 Max (Character Customization): 99  (Ranked 364)  

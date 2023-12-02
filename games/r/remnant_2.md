@@ -5,8 +5,8 @@ Rating: 4.75 (Ranked 149)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 0.70% | ~1,629 |
-| First of Many | 0.70% | ~1,629 |
+| The Killing Jar | 0.70% | ~1,630 |
+| First of Many | 0.70% | ~1,630 |
 | Regicide | 0.70% | ~84 |
 | Master of the Dark Arts | 0.70% | ~84 |
 | Expanding Horizons | 0.50% | ~1,164 |
@@ -45,6 +45,7 @@ Rating: 4.75 (Ranked 149)
 | Edgelord | 0.20% | ~466 |
 | Cutting Edge | 0.20% | ~466 |
 | The Web | 0.20% | ~466 |
+| The Collector | 0.20% | ~466 |
 | Scrap Hoarder | 0.20% | ~466 |
 | All These Traits� | 0.20% | ~466 |
 | Carnage in C-Minor | 0.20% | ~466 |
@@ -56,12 +57,11 @@ Rating: 4.75 (Ranked 149)
 | Only Human | 0.10% | ~233 |
 | Red Room | 0.10% | ~233 |
 | The Trigger | 0.10% | ~233 |
-| The Collector | 0.10% | ~233 |
 | Proving Grounds | 0.10% | ~233 |
 | Maxed Out! | 0.10% | ~233 |
 | A Foul Feast | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,775 (Ranked 69)  
+Progressed: 232,830 (Ranked 69)  
 Completed: 547 (0.23%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 547 (0.23%) (Ranked 251)
 | 2023-11-29 | 230,694 | 542 |
 | 2023-11-30 | 231,406 | 542 |
 | 2023-12-01 | 232,269 | 546 |
-| 2023-12-02 | 232,775 | 547 |
+| 2023-12-02 | 232,830 | 547 |
 ## Awards
 Max (Great Boss Battles): 2,558  (Ranked 102)  
 Sum: 6,307 (Ranked 129)  

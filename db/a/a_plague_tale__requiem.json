@@ -661,7 +661,7 @@
   ],
   "EOS_Progressed": 14049,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -11873,9 +11873,9 @@
       "ID": "ACH_01",
       "SetID": "9d4cf4c",
       "Name": "Under a New Sun",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 12925
+      "UsersEstimate": 13066
     },
     {
       "ID": "ACH_02",
@@ -11945,9 +11945,9 @@
       "ID": "ACH_10",
       "SetID": "9d4cf4c",
       "Name": "Bloodline",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 7446
+      "UsersEstimate": 7586
     },
     {
       "ID": "ACH_11",
@@ -12162,8 +12162,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-12-02T10:58:01.4582392+00:00",
-  "LastChanged_Achievements": "2023-12-02T13:05:41.3503247+00:00",
+  "LastChanged_Achievements": "2023-12-02T14:03:31.9112658+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:18.0182859+00:00",
-  "LastUpdate_Ratings": "2023-12-02T12:59:55.0198265+00:00",
-  "LastUpdate_Achievements": "2023-12-02T13:05:41.3504324+00:00"
+  "LastUpdate_Ratings": "2023-12-02T13:57:35.1807884+00:00",
+  "LastUpdate_Achievements": "2023-12-02T14:03:31.9113704+00:00"
 }

@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 92.00% | ~448 |
-| Training Simulation | 77.00% | ~375 |
+| Travel Streamer | 92.00% | ~449 |
+| Training Simulation | 78.00% | ~381 |
 | Kuku Bird Hunter | 63.00% | ~307 |
-| Storm Traveller | 56.00% | ~273 |
-| Wolf King Killer | 51.00% | ~248 |
+| Storm Traveller | 57.00% | ~278 |
+| Wolf King Killer | 52.00% | ~254 |
 | Fashion Connoisseur | 50.00% | ~244 |
 | Arms Mechanic | 46.00% | ~224 |
 | Flower Thief | 41.00% | ~200 |
-| Apostle of Flame | 37.00% | ~180 |
-| Beginner Artificer | 36.00% | ~175 |
-| Beginner Cook | 35.00% | ~170 |
+| Beginner Artificer | 36.00% | ~176 |
+| Apostle of Flame | 36.00% | ~176 |
+| Beginner Cook | 35.00% | ~171 |
 | Seal Breaker | 31.00% | ~151 |
-| Handyman | 27.00% | ~131 |
+| Handyman | 27.00% | ~132 |
 | Giant Lizard Killer | 25.00% | ~122 |
 | Guardian | 24.00% | ~117 |
 | Nosebleeder | 24.00% | ~117 |
 | Trader | 21.00% | ~102 |
-| Weapon Boost | 20.00% | ~97 |
+| Weapon Boost | 20.00% | ~98 |
 | Flying Kobold Killer | 17.00% | ~83 |
-| Youth Magnet | 16.00% | ~78 |
+| Youth Magnet | 17.00% | ~83 |
 | Master Artificer | 16.00% | ~78 |
 | Furious Scorpion Killer | 15.00% | ~73 |
 | Lethal Blade Mantis Killer | 15.00% | ~73 |
 | Squeaky Clean | 15.00% | ~73 |
 | Kind Adventurer | 13.00% | ~63 |
 | Mermaid Killer | 13.00% | ~63 |
-| Cave Master | 12.00% | ~58 |
-| Face Slapper | 12.00% | ~58 |
+| Cave Master | 12.00% | ~59 |
+| Face Slapper | 12.00% | ~59 |
 | Boss challenge | 8.00% | ~39 |
 | Master Cook | 7.00% | ~34 |
 | Berserker Slayer | 7.00% | ~34 |
@@ -50,8 +50,8 @@
 | Giantess Challenge | 1.00% | ~5 |
 | Warden Challenge | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 487 (Ranked 313)  
-Completed: 1 (0.21%) (Ranked 255)  
+Progressed: 488 (Ranked 314)  
+Completed: 1 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -139,7 +139,7 @@ Completed: 1 (0.21%) (Ranked 255)
 | 2023-11-29 | 439 | 1 |
 | 2023-11-30 | 461 | 1 |
 | 2023-12-01 | 471 | 1 |
-| 2023-12-02 | 487 | 1 |
+| 2023-12-02 | 488 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

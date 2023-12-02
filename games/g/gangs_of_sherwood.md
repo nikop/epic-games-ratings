@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 89.00% | ~41 |
-| Air Fighter | 87.00% | ~40 |
-| Oo-De-Lally | 76.00% | ~35 |
-| The Altruist | 70.00% | ~32 |
-| Treasure Hunter | 65.00% | ~30 |
-| Tap Dancing | 59.00% | ~27 |
-| Watch your Step! | 52.00% | ~24 |
-| MAX LEVEL | 52.00% | ~24 |
-| Right between the eyes | 48.00% | ~22 |
-| Spring Board | 43.00% | ~20 |
-| Starry Night | 39.00% | ~18 |
-| Locksley's Tears | 37.00% | ~17 |
-| Merry Co-operation | 35.00% | ~16 |
-| Rebel Unleashed | 35.00% | ~16 |
-| Savior | 33.00% | ~15 |
+| Act of Kindness | 89.00% | ~42 |
+| Air Fighter | 87.00% | ~41 |
+| Oo-De-Lally | 77.00% | ~36 |
+| The Altruist | 70.00% | ~33 |
+| Treasure Hunter | 66.00% | ~31 |
+| Tap Dancing | 60.00% | ~28 |
+| Watch your Step! | 53.00% | ~25 |
+| MAX LEVEL | 53.00% | ~25 |
+| Right between the eyes | 49.00% | ~23 |
+| Spring Board | 45.00% | ~21 |
+| Starry Night | 40.00% | ~19 |
+| Locksley's Tears | 36.00% | ~17 |
+| Merry Co-operation | 34.00% | ~16 |
+| Rebel Unleashed | 34.00% | ~16 |
+| Savior | 32.00% | ~15 |
 | Finish Him! | 30.00% | ~14 |
 | Assault on the Ram | 28.00% | ~13 |
 | First Aid | 26.00% | ~12 |
-| Ultra Rebel Instinct | 24.00% | ~11 |
-| Merry Go Round | 24.00% | ~11 |
-| Ultra Combo | 20.00% | ~9 |
-| Take Action! | 20.00% | ~9 |
+| Ultra Rebel Instinct | 23.00% | ~11 |
+| Merry Go Round | 23.00% | ~11 |
+| Ultra Combo | 21.00% | ~10 |
+| Take Action! | 19.00% | ~9 |
 | Ascending Will | 17.00% | ~8 |
 | Haute Couture | 15.00% | ~7 |
 | Brilliant Executioner | 11.00% | ~5 |
@@ -33,8 +33,8 @@
 | Into the Lion's Den | 11.00% | ~5 |
 | Bold and Bossy | 9.00% | ~4 |
 | The Gang prevails | 9.00% | ~4 |
-| Out of the ring | 7.00% | ~3 |
-| Sky High Fighter | 7.00% | ~3 |
+| Out of the ring | 9.00% | ~4 |
+| Sky High Fighter | 6.00% | ~3 |
 | King of the Iron Fist | 4.00% | ~2 |
 | Power of Friendship! | 4.00% | ~2 |
 | Five of Friends | 4.00% | ~2 |
@@ -45,6 +45,7 @@
 | Only Child | 2.00% | ~1 |
 | The Arsenal | 2.00% | ~1 |
 | Master of One | 2.00% | ~1 |
+| Fashionista | 2.00% | ~1 |
 | Challenger | 0.00% | ~0 |
 | The Apprentice | 0.00% | ~0 |
 | Lore-ified | 0.00% | ~0 |
@@ -56,9 +57,8 @@
 | The transmuted game | 0.00% | ~0 |
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
-| Fashionista | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46 (Ranked 506)  
+Progressed: 47 (Ranked 505)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,4 +71,4 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-29 | 24 | 0 |
 | 2023-11-30 | 30 | 0 |
 | 2023-12-01 | 44 | 0 |
-| 2023-12-02 | 46 | 0 |
+| 2023-12-02 | 47 | 0 |
