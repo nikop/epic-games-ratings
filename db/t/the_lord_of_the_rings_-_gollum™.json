@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 612,
+  "EOS_Progressed": 613,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1663,6 +1663,11 @@
       "Time": "2023-12-02T05:04:58.0089807+00:00",
       "NumProgressed": 612,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T15:06:20.5812558+00:00",
+      "NumProgressed": 613,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1714,7 +1719,7 @@
       "Name": "The Maggot",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "Chapter3",
@@ -1754,7 +1759,7 @@
       "Name": "Good as Fish",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Chapter8",
@@ -1762,7 +1767,7 @@
       "Name": "Her Eyes",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Chapter9",
@@ -1778,7 +1783,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "Collectibles2",
@@ -1850,7 +1855,7 @@
       "Name": "Memories",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "Murderer",
@@ -1898,7 +1903,7 @@
       "Name": "So Silly!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Scout",
@@ -1938,7 +1943,7 @@
       "Name": "So Tasty!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "TriggerHappy",
@@ -1954,21 +1959,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 612,
+      "Progressed": 613,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-12-02T14:05:15.0701085+00:00",
+  "LastChanged_Achievements": "2023-12-02T15:06:20.5812555+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:06.3353752+00:00",
-  "LastUpdate_Ratings": "2023-12-02T13:57:10.7911299+00:00",
-  "LastUpdate_Achievements": "2023-12-02T14:05:15.070152+00:00"
+  "LastUpdate_Ratings": "2023-12-02T14:57:22.7498803+00:00",
+  "LastUpdate_Achievements": "2023-12-02T15:06:20.5812824+00:00"
 }

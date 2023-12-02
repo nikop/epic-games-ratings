@@ -2,9 +2,9 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 273,
+  "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 842,
+  "EOS_Progressed": 843,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 5.58,
   "EosHistory": [
@@ -3410,6 +3410,11 @@
       "Time": "2023-12-02T13:08:22.7201738+00:00",
       "NumProgressed": 842,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-12-02T15:08:02.160517+00:00",
+      "NumProgressed": 843,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 25,
@@ -3445,7 +3450,7 @@
       "Name": "Cable guy",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "META_FIRST_LINK",
@@ -3461,7 +3466,7 @@
       "Name": "Half the way",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "META_RESULT_1-2",
@@ -3620,14 +3625,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 842,
+      "Progressed": 843,
       "Completed": 47
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-02T14:06:33.8702413+00:00",
+  "LastChanged_Achievements": "2023-12-02T15:08:02.1605164+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-12-02T13:59:52.4441696+00:00",
-  "LastUpdate_Achievements": "2023-12-02T14:06:33.8702822+00:00"
+  "LastUpdate_Ratings": "2023-12-02T15:01:02.1331021+00:00",
+  "LastUpdate_Achievements": "2023-12-02T15:08:02.1605521+00:00"
 }

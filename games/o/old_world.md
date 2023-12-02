@@ -198,6 +198,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Like a Lion | 0.20% | ~31 |
 | Learn By Playing 1 - Able | 0.20% | ~31 |
 | Macedonian Wars | 0.20% | ~31 |
+| Play a MP Teams Game | 0.20% | ~31 |
 | Punic Wars | 0.20% | ~31 |
 | Word of God | 0.20% | ~31 |
 | Hypatia the Teacher | 0.20% | ~31 |
@@ -286,7 +287,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a 1-v-1 Game | 0.10% | ~16 |
 | Play a Hotseat Game | 0.10% | ~16 |
 | Play a LAN Game | 0.10% | ~16 |
-| Play a MP Teams Game | 0.10% | ~16 |
 | Play a Play-By-Cloud Game | 0.10% | ~16 |
 | Colossus in Rhodes | 0.10% | ~16 |
 | Roman Papacy | 0.10% | ~16 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,594 (Ranked 152)  
+Progressed: 15,596 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -575,7 +575,7 @@ Completed: 5 (0.03%) (Ranked 328)
 | 2023-11-29 | 15,545 | 5 |
 | 2023-11-30 | 15,566 | 5 |
 | 2023-12-01 | 15,583 | 5 |
-| 2023-12-02 | 15,594 | 5 |
+| 2023-12-02 | 15,596 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,883 (Ranked 219)  

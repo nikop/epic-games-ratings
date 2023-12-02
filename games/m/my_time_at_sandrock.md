@@ -6,7 +6,7 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 233.00% | ~1,139 |
+| Adept Assembler | 234.00% | ~1,144 |
 | Iron Chef | 167.00% | ~817 |
 | Super Spelunker | 125.00% | ~611 |
 | Greeno-B-Gone | 125.00% | ~611 |
@@ -16,16 +16,16 @@ Number of Ratings: 892  (23.09.2022)
 | On that Grindset | 79.00% | ~386 |
 | No Mountain Wide Enough | 78.00% | ~381 |
 | Yakmel Whisperer | 76.00% | ~372 |
-| Diamonds are Forever | 73.00% | ~357 |
+| Diamonds are Forever | 74.00% | ~362 |
 | Can We Keep It? | 72.00% | ~352 |
 | Pack Mule | 71.00% | ~347 |
 | I Do! | 69.00% | ~337 |
 | First Love | 66.00% | ~323 |
 | Unboxing | 65.00% | ~318 |
+| Chatterbox | 64.00% | ~313 |
 | Financially Secure | 63.00% | ~308 |
-| Chatterbox | 63.00% | ~308 |
 | Big Game Hunter | 62.00% | ~303 |
-| Got Served | 61.00% | ~298 |
+| Got Served | 62.00% | ~303 |
 | Panda-kin | 57.00% | ~279 |
 | Builder of the Month | 57.00% | ~279 |
 | Elementary, My Dear | 57.00% | ~279 |
@@ -36,10 +36,10 @@ Number of Ratings: 892  (23.09.2022)
 | You Don't Win Friends With Salad | 56.00% | ~274 |
 | Officially Official | 55.00% | ~269 |
 | Waste Not Want Not | 55.00% | ~269 |
+| Knowledge is Power | 54.00% | ~264 |
 | Commissions, commissions...! | 54.00% | ~264 |
 | Martle's Dream | 54.00% | ~264 |
 | Anti-Santa | 54.00% | ~264 |
-| Knowledge is Power | 53.00% | ~259 |
 | Call Me Fishmael | 53.00% | ~259 |
 | Lifeline Pipeline | 52.00% | ~254 |
 | Finishing Touches | 51.00% | ~249 |
@@ -49,7 +49,7 @@ Number of Ratings: 892  (23.09.2022)
 | Who Ya Gonna Call...? | 42.00% | ~205 |
 | Time Flies | 41.00% | ~200 |
 | My Time Mansion | 41.00% | ~200 |
-| Jewel of the Eufaula | 39.00% | ~191 |
+| Jewel of the Eufaula | 40.00% | ~196 |
 | Kind of a Big Deal | 38.00% | ~186 |
 | He Can Spin A Yarn... | 36.00% | ~176 |
 | Just What I Always Wanted! | 35.00% | ~171 |

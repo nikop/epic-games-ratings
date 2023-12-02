@@ -14,8 +14,8 @@
 | True G3M4R | 23.00% | ~194 |
 | The darkness | 22.00% | ~185 |
 | One last step | 21.00% | ~177 |
-| Cable guy | 20.00% | ~168 |
-| Half the way | 20.00% | ~168 |
+| Cable guy | 20.00% | ~169 |
+| Half the way | 20.00% | ~169 |
 | I did it | 19.00% | ~160 |
 | Peace walker | 19.00% | ~160 |
 | Champollion | 19.00% | ~160 |
@@ -30,7 +30,7 @@
 | For its own good | 10.00% | ~84 |
 | Fashion victim | 5.00% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 842 (Ranked 273)  
+Progressed: 843 (Ranked 272)  
 Completed: 47 (5.58%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,4 +163,4 @@ Completed: 47 (5.58%) (Ranked 71)
 | 2023-11-29 | 804 | 44 |
 | 2023-11-30 | 813 | 44 |
 | 2023-12-01 | 833 | 45 |
-| 2023-12-02 | 842 | 47 |
+| 2023-12-02 | 843 | 47 |

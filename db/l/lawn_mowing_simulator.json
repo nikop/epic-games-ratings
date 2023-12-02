@@ -2206,9 +2206,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 685078,
+  "EOS_Progressed": 685091,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1606,
+  "EOS_NewPlayers": 1603,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28081,6 +28081,11 @@
       "Time": "2023-12-02T14:09:36.3503444+00:00",
       "NumProgressed": 685078,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-02T15:10:24.2790103+00:00",
+      "NumProgressed": 685091,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 54,
@@ -28092,7 +28097,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 541212
+      "UsersEstimate": 541222
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -28172,7 +28177,7 @@
       "Name": "Where there\u0027s muck there\u0027s brass",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27403
+      "UsersEstimate": 27404
     },
     {
       "ID": "COMPLETE_ONE_CONTRACT",
@@ -28180,7 +28185,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 246628
+      "UsersEstimate": 246633
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -28204,7 +28209,7 @@
       "Name": "Size isn\u0027t everything",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 20552
+      "UsersEstimate": 20553
     },
     {
       "ID": "CONTRACT_WITHIN_10SEC",
@@ -28212,7 +28217,7 @@
       "Name": "Close shave",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 20552
+      "UsersEstimate": 20553
     },
     {
       "ID": "DLC001_CHALLENGES",
@@ -28332,7 +28337,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 212374
+      "UsersEstimate": 212378
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -28396,7 +28401,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 102762
+      "UsersEstimate": 102764
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -28412,7 +28417,7 @@
       "Name": "Bigger and better",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27403
+      "UsersEstimate": 27404
     },
     {
       "ID": "PICK_UP_250_OBJECTS",
@@ -28452,7 +28457,7 @@
       "Name": "Credible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 47955
+      "UsersEstimate": 47956
     },
     {
       "ID": "RP_DISTINGUISHED",
@@ -28468,7 +28473,7 @@
       "Name": "Established",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 20552
+      "UsersEstimate": 20553
     },
     {
       "ID": "RP_ESTEEMED",
@@ -28492,7 +28497,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 123314
+      "UsersEstimate": 123316
     },
     {
       "ID": "RP_TRUSTED",
@@ -28508,7 +28513,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 61657
+      "UsersEstimate": 61658
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -28516,22 +28521,22 @@
       "Name": "Aggressive expansion",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 27403
+      "UsersEstimate": 27404
     }
   ],
   "AchievementSets": [
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 685078,
+      "Progressed": 685091,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-11-27T01:45:56.2783952+00:00",
-  "LastChanged_Achievements": "2023-12-02T14:09:36.3503439+00:00",
+  "LastChanged_Achievements": "2023-12-02T15:10:24.27901+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:21.4586634+00:00",
-  "LastUpdate_Ratings": "2023-12-02T13:57:52.3081795+00:00",
-  "LastUpdate_Achievements": "2023-12-02T14:09:36.3505544+00:00"
+  "LastUpdate_Ratings": "2023-12-02T14:58:19.2520436+00:00",
+  "LastUpdate_Achievements": "2023-12-02T15:10:24.2791539+00:00"
 }

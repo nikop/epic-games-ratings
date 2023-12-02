@@ -39,9 +39,9 @@ Number of Ratings: 32  (23.09.2022)
 | Eat Your Heart Out | 10.00% | ~24 |
 | Extra! Extra! Journalism Club Showdown | 9.00% | ~22 |
 | Redo Redone | 8.00% | ~19 |
+| Prince of Lettuce | 8.00% | ~19 |
 | Love, Loss, and the Omega Nebula | 8.00% | ~19 |
 | The Part-Time Tyrant | 7.00% | ~17 |
-| Prince of Lettuce | 7.00% | ~17 |
 | Songstress Unleashed | 7.00% | ~17 |
 | Executive Privilege | 6.00% | ~14 |
 | For the Love of Regret | 4.00% | ~10 |

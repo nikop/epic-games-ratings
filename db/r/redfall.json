@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2438,9 +2438,9 @@
       "ID": "Achievement_002",
       "SetID": "6b34g18",
       "Name": "Revelations",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "Achievement_003",
@@ -2967,8 +2967,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-11-22T22:57:36.1602113+00:00",
-  "LastChanged_Achievements": "2023-12-02T14:06:05.3625103+00:00",
+  "LastChanged_Achievements": "2023-12-02T15:07:25.7831535+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:55.6017296+00:00",
-  "LastUpdate_Ratings": "2023-12-02T13:58:47.0501608+00:00",
-  "LastUpdate_Achievements": "2023-12-02T14:06:05.3625698+00:00"
+  "LastUpdate_Ratings": "2023-12-02T14:59:33.9577797+00:00",
+  "LastUpdate_Achievements": "2023-12-02T15:07:25.7832278+00:00"
 }

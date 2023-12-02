@@ -6,24 +6,24 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~36,824 |
-| Biggest Communism Builder | 24.00% | ~31,564 |
-| The World's Most Laughable Centrist | 21.00% | ~27,618 |
-| Il Coppo Del'Arte! | 18.00% | ~23,673 |
+| Goodest Of The Good Cops | 28.00% | ~36,826 |
+| Biggest Communism Builder | 24.00% | ~31,565 |
+| The World's Most Laughable Centrist | 21.00% | ~27,619 |
+| Il Coppo Del'Arte! | 18.00% | ~23,674 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,043 |
 | Hyperstellar Law Official | 16.00% | ~21,043 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,412 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,412 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~17,097 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,413 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,413 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~17,098 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,467 |
 | The Figurines Won't Win Her Back | 10.00% | ~13,152 |
-| Unbelievably Boring **** | 9.00% | ~11,836 |
-| Enemy Of The Physical Realm | 9.00% | ~11,836 |
+| Unbelievably Boring **** | 9.00% | ~11,837 |
+| Enemy Of The Physical Realm | 9.00% | ~11,837 |
 | Hardie's Heroes | 6.00% | ~7,891 |
 | The Lawbringer | 4.00% | ~5,261 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,261 |
-| The Opener Of The Eighth Seal | 3.00% | ~3,945 |
-| Bother Kim After Hours | 3.00% | ~3,945 |
+| The Opener Of The Eighth Seal | 3.00% | ~3,946 |
+| Bother Kim After Hours | 3.00% | ~3,946 |
 | Baddest Of the Bad Cops | 2.00% | ~2,630 |
 | Expert Advanced Remote Viewer | 2.00% | ~2,630 |
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,630 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~132 |
 | What body? | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,516 (Ranked 83)  
+Progressed: 131,520 (Ranked 83)  
 Completed: 28 (0.02%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 28 (0.02%) (Ranked 335)
 | 2023-11-29 | 131,411 | 28 |
 | 2023-11-30 | 131,445 | 28 |
 | 2023-12-01 | 131,492 | 28 |
-| 2023-12-02 | 131,516 | 28 |
+| 2023-12-02 | 131,520 | 28 |
 ## Awards
 Max (Character Customization): 737  (Ranked 181)  
 Sum: 1,128 (Ranked 255)  

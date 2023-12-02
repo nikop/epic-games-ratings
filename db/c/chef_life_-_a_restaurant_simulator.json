@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -3525,8 +3525,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-12-02T14:08:38.8565922+00:00",
+  "LastChanged_Achievements": "2023-12-02T15:09:10.702447+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:20.506363+00:00",
-  "LastUpdate_Ratings": "2023-12-02T13:59:24.8110627+00:00",
-  "LastUpdate_Achievements": "2023-12-02T14:08:38.8566384+00:00"
+  "LastUpdate_Ratings": "2023-12-02T15:00:24.9167251+00:00",
+  "LastUpdate_Achievements": "2023-12-02T15:09:10.702487+00:00"
 }

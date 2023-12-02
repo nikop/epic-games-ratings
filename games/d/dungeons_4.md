@@ -12,7 +12,7 @@
 | The Plains of Strothalm | 70.00% | ~360 |
 | Experienced Thalya | 70.00% | ~360 |
 | Thalya's Concentrated Fury | 68.00% | ~350 |
-| Bad Elves Go Everywhere | 66.00% | ~340 |
+| Bad Elves Go Everywhere | 67.00% | ~345 |
 | Master of Magic | 64.00% | ~330 |
 | Heroes’ Gorge | 61.00% | ~314 |
 | Unicorn steaks – fresh off the hoof! | 60.00% | ~309 |
@@ -42,21 +42,21 @@
 | Ghost Pirates? Ghost Heroes! | 23.00% | ~118 |
 | The Finitude Drill | 22.00% | ~113 |
 | Stop Tanos! | 19.00% | ~98 |
-| Doom Hill | 18.00% | ~93 |
+| Doom Hill | 19.00% | ~98 |
+| Sabotage! | 18.00% | ~93 |
 | Bonus Evilness | 17.00% | ~88 |
-| Sabotage! | 17.00% | ~88 |
+| Brimstone Shaken, Not Stirred | 17.00% | ~88 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~82 |
-| Brimstone Shaken, Not Stirred | 16.00% | ~82 |
+| Raiders of the Lost Stone | 15.00% | ~77 |
 | The Rune Sockets of Finitude (Part 1) | 15.00% | ~77 |
 | My Little Torture Chamber | 14.00% | ~72 |
-| Raiders of the Lost Stone | 14.00% | ~72 |
 | Lavalumps on Ice! | 13.00% | ~67 |
+| Rubble and Ashes | 13.00% | ~67 |
 | The Rune Sockets of Finitude (Part 2) | 13.00% | ~67 |
-| Rubble and Ashes | 12.00% | ~62 |
 | The Last Stand - This Time For Real! | 12.00% | ~62 |
 | Mirror, Mirror | 11.00% | ~57 |
+| Untouchable | 11.00% | ~57 |
 | To Infinity And Beyond! | 11.00% | ~57 |
-| Untouchable | 10.00% | ~52 |
 | To the Max! | 10.00% | ~52 |
 | Evilification | 9.00% | ~46 |
 | Gorgu is in the Best of Health | 8.00% | ~41 |

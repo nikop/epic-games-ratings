@@ -5,24 +5,24 @@ Rating: 4.29 (Ranked 849)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~163,250 |
-| Copacetic Coordination | 16.00% | ~56,783 |
-| Fronting the Money | 15.00% | ~53,234 |
-| The Dawn of Automation | 14.00% | ~49,685 |
-| Extraordinary Logistics | 14.00% | ~49,685 |
-| Dirty Money | 13.00% | ~46,136 |
-| Family First | 13.00% | ~46,136 |
-| Cleaning House | 12.00% | ~42,587 |
-| Room in the Back | 12.00% | ~42,587 |
-| Beating the Heat | 11.00% | ~39,038 |
-| Booze Baron | 11.00% | ~39,038 |
-| Friends on the Force | 10.00% | ~35,489 |
-| Neighborhood Watch | 10.00% | ~35,489 |
-| Core Corps | 8.00% | ~28,391 |
-| Sizeable Stash | 8.00% | ~28,391 |
-| Street Fighter | 7.00% | ~24,842 |
-| Friendly Gestures | 7.00% | ~24,842 |
-| People Person | 7.00% | ~24,842 |
+| Corner Clout | 46.00% | ~163,257 |
+| Copacetic Coordination | 16.00% | ~56,785 |
+| Fronting the Money | 15.00% | ~53,236 |
+| The Dawn of Automation | 14.00% | ~49,687 |
+| Extraordinary Logistics | 14.00% | ~49,687 |
+| Dirty Money | 13.00% | ~46,138 |
+| Family First | 13.00% | ~46,138 |
+| Cleaning House | 12.00% | ~42,589 |
+| Room in the Back | 12.00% | ~42,589 |
+| Beating the Heat | 11.00% | ~39,040 |
+| Booze Baron | 11.00% | ~39,040 |
+| Friends on the Force | 10.00% | ~35,491 |
+| Neighborhood Watch | 10.00% | ~35,491 |
+| Core Corps | 8.00% | ~28,393 |
+| Sizeable Stash | 8.00% | ~28,393 |
+| Street Fighter | 7.00% | ~24,843 |
+| Friendly Gestures | 7.00% | ~24,843 |
+| People Person | 7.00% | ~24,843 |
 | Liquor Lord | 6.00% | ~21,294 |
 | Safety in Numbers | 6.00% | ~21,294 |
 | Moving Experiences | 6.00% | ~21,294 |
@@ -64,9 +64,9 @@ Rating: 4.29 (Ranked 849)
 | Crossing Over | 0.90% | ~3,194 |
 | Boots in the Ground | 0.80% | ~2,839 |
 | Getting Fancy | 0.80% | ~2,839 |
-| Still Dreaming | 0.50% | ~1,774 |
-| Working on the Railroad | 0.50% | ~1,774 |
-| Social Butterfly | 0.50% | ~1,774 |
+| Still Dreaming | 0.50% | ~1,775 |
+| Working on the Railroad | 0.50% | ~1,775 |
+| Social Butterfly | 0.50% | ~1,775 |
 | Homemade Hooch | 0.40% | ~1,420 |
 | High End Booze | 0.40% | ~1,420 |
 | In-House Maintenance | 0.40% | ~1,420 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 849)
 | High Pillow | 0.10% | ~355 |
 | Station Master | 0.10% | ~355 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 354,892 (Ranked 49)  
+Progressed: 354,907 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,11 +312,11 @@ Completed: 7 (0.00%) (Ranked 365)
 | 2023-11-29 | 354,562 | 7 |
 | 2023-11-30 | 354,687 | 7 |
 | 2023-12-01 | 354,825 | 7 |
-| 2023-12-02 | 354,892 | 7 |
+| 2023-12-02 | 354,907 | 7 |
 ## Awards
 Max (Great for Beginners): 50  (Ranked 438)  
-Sum: 222 (Ranked 393)  
-Diff (max vs sum): 45  
+Sum: 243 (Ranked 386)  
+Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 50 |
@@ -324,9 +324,10 @@ Diff (max vs sum): 45
 | This game is Relaxing | 33 |
 | This game is Extremely Fun | 32 |
 | This game has Diverse Characters | 27 |
-| This game has Quickly Understood Controls | 25 |
+| This game has Quickly Understood Controls | 26 |
 | This game has Easy Combat | 25 |
 | This game has Amazing Storytelling | 20 |
+| This game has Unique Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -437,3 +438,4 @@ Diff (max vs sum): 45
 | 2023-11-29 | 4.29 | 50 | 198 |
 | 2023-11-30 | 4.28 | 50 | 200 |
 | 2023-12-01 | 4.29 | 50 | 222 |
+| 2023-12-02 | 4.29 | 50 | 243 |

@@ -561,7 +561,7 @@
   ],
   "EOS_Progressed": 2947,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 278,
+  "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8856,9 +8856,9 @@
       "ID": "fullparty",
       "SetID": "3nl4bcg",
       "Name": "Full Party",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 530
+      "UsersEstimate": 560
     },
     {
       "ID": "gearenchanting",
@@ -9257,8 +9257,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-01T15:58:50.3626658+00:00",
-  "LastChanged_Achievements": "2023-12-02T14:09:05.2492591+00:00",
+  "LastChanged_Achievements": "2023-12-02T15:09:44.6784437+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:01.7095439+00:00",
-  "LastUpdate_Ratings": "2023-12-02T13:58:49.3410087+00:00",
-  "LastUpdate_Achievements": "2023-12-02T14:09:05.2493779+00:00"
+  "LastUpdate_Ratings": "2023-12-02T14:59:37.2266303+00:00",
+  "LastUpdate_Achievements": "2023-12-02T15:09:44.6785327+00:00"
 }

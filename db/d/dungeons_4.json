@@ -4,8 +4,8 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1410,9 +1410,9 @@
       "ID": "ach_main05evil_completed",
       "SetID": "4hg22ll",
       "Name": "Bad Elves Go Everywhere",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 345
     },
     {
       "ID": "ach_main05evil_thalyalevel",
@@ -1666,25 +1666,25 @@
       "ID": "ach_main15drill_sabotage",
       "SetID": "4hg22ll",
       "Name": "Sabotage!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 93
     },
     {
       "ID": "ach_main15drill_untouchable",
       "SetID": "4hg22ll",
       "Name": "Untouchable",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 57
     },
     {
       "ID": "ach_main16ring_completed",
       "SetID": "4hg22ll",
       "Name": "Doom Hill",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 98
     },
     {
       "ID": "ach_main16ring_lavalings",
@@ -1698,25 +1698,25 @@
       "ID": "ach_main16ring_spawners",
       "SetID": "4hg22ll",
       "Name": "Rubble and Ashes",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 67
     },
     {
       "ID": "ach_main17stone_completed",
       "SetID": "4hg22ll",
       "Name": "Raiders of the Lost Stone",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 77
     },
     {
       "ID": "ach_main17stone_explosions",
       "SetID": "4hg22ll",
       "Name": "Brimstone Shaken, Not Stirred",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 88
     },
     {
       "ID": "ach_main17stone_transporter",
@@ -1809,8 +1809,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-02T14:08:23.929648+00:00",
+  "LastChanged_Achievements": "2023-12-02T15:08:51.6230848+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:53.3530612+00:00",
-  "LastUpdate_Ratings": "2023-12-02T13:58:25.3674229+00:00",
-  "LastUpdate_Achievements": "2023-12-02T14:08:23.9297162+00:00"
+  "LastUpdate_Ratings": "2023-12-02T14:59:02.83495+00:00",
+  "LastUpdate_Achievements": "2023-12-02T15:08:51.6231329+00:00"
 }

@@ -14,7 +14,7 @@
 | Wales Interactive | 10.00% | ~22 |
 | Chief Butler | 9.00% | ~20 |
 | Bull in a China Shop | 7.00% | ~15 |
-| Sker Explorer | 6.00% | ~13 |
+| Sker Explorer | 5.00% | ~11 |
 | Phonic Boom | 2.00% | ~4 |
 | Ending on a High Note | 1.00% | ~2 |
 | The Long Night | 1.00% | ~2 |
@@ -35,7 +35,7 @@
 | Nuisance Caller | 0.00% | ~0 |
 | The Longest Night | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218 (Ranked 386)  
+Progressed: 219 (Ranked 386)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-29 | 214 | 0 |
 | 2023-11-30 | 215 | 0 |
 | 2023-12-01 | 217 | 0 |
-| 2023-12-02 | 218 | 0 |
+| 2023-12-02 | 219 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

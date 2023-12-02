@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 339,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -477,9 +477,9 @@
       "ID": "ACHIEVEMENT007",
       "SetID": "dejhjd5",
       "Name": "The Lava Mantor Wyrm",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 261
     },
     {
       "ID": "ACHIEVEMENT008",
@@ -837,8 +837,8 @@
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-11-25T08:59:07.0870694+00:00",
-  "LastChanged_Achievements": "2023-12-02T14:04:56.2040917+00:00",
+  "LastChanged_Achievements": "2023-12-02T15:05:56.57484+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:12.4041094+00:00",
-  "LastUpdate_Ratings": "2023-12-02T13:59:05.3582046+00:00",
-  "LastUpdate_Achievements": "2023-12-02T14:04:56.2041333+00:00"
+  "LastUpdate_Ratings": "2023-12-02T14:59:58.6686455+00:00",
+  "LastUpdate_Achievements": "2023-12-02T15:05:56.5748715+00:00"
 }

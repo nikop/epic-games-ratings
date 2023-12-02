@@ -11,27 +11,27 @@ Rating: 4.75 (Ranked 149)
 | Master of the Dark Arts | 0.70% | ~84 |
 | Expanding Horizons | 0.50% | ~1,164 |
 | Not Your Average Trait | 0.50% | ~1,164 |
-| Gleaming the Cube | 0.40% | ~931 |
-| Not So Special Now | 0.40% | ~931 |
-| Quest for Survival | 0.40% | ~931 |
-| Not a Janitor | 0.40% | ~931 |
-| Familiar Face | 0.40% | ~931 |
-| Boss'n Up | 0.40% | ~931 |
-| Trait Chaser | 0.40% | ~931 |
-| Am I Seeing This? | 0.30% | ~698 |
-| Chaos | 0.30% | ~698 |
-| Power Surge | 0.30% | ~698 |
-| The God Gambit | 0.30% | ~698 |
-| Equal Measures | 0.30% | ~698 |
-| Blue Goddess | 0.30% | ~698 |
-| Duality | 0.30% | ~698 |
-| Top Performer | 0.30% | ~698 |
-| Shhh...It's a Secret | 0.30% | ~698 |
-| Was This Supposed To Happen? | 0.30% | ~698 |
-| Scrap Collector | 0.30% | ~698 |
-| Almost There | 0.30% | ~698 |
-| Make Some Room | 0.30% | ~698 |
-| Good, But Could Be Better! | 0.30% | ~698 |
+| Gleaming the Cube | 0.40% | ~932 |
+| Not So Special Now | 0.40% | ~932 |
+| Quest for Survival | 0.40% | ~932 |
+| Not a Janitor | 0.40% | ~932 |
+| Familiar Face | 0.40% | ~932 |
+| Boss'n Up | 0.40% | ~932 |
+| Trait Chaser | 0.40% | ~932 |
+| Am I Seeing This? | 0.30% | ~699 |
+| Chaos | 0.30% | ~699 |
+| Power Surge | 0.30% | ~699 |
+| The God Gambit | 0.30% | ~699 |
+| Equal Measures | 0.30% | ~699 |
+| Blue Goddess | 0.30% | ~699 |
+| Duality | 0.30% | ~699 |
+| Top Performer | 0.30% | ~699 |
+| Shhh...It's a Secret | 0.30% | ~699 |
+| Was This Supposed To Happen? | 0.30% | ~699 |
+| Scrap Collector | 0.30% | ~699 |
+| Almost There | 0.30% | ~699 |
+| Make Some Room | 0.30% | ~699 |
+| Good, But Could Be Better! | 0.30% | ~699 |
 | Crafty | 0.20% | ~466 |
 | Ghost in the Machine | 0.20% | ~466 |
 | Traitor | 0.20% | ~466 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 149)
 | Maxed Out! | 0.10% | ~233 |
 | A Foul Feast | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,830 (Ranked 69)  
+Progressed: 232,884 (Ranked 69)  
 Completed: 547 (0.23%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,10 +200,10 @@ Completed: 547 (0.23%) (Ranked 251)
 | 2023-11-29 | 230,694 | 542 |
 | 2023-11-30 | 231,406 | 542 |
 | 2023-12-01 | 232,269 | 546 |
-| 2023-12-02 | 232,830 | 547 |
+| 2023-12-02 | 232,884 | 547 |
 ## Awards
 Max (Great Boss Battles): 2,558  (Ranked 102)  
-Sum: 6,307 (Ranked 129)  
+Sum: 6,312 (Ranked 129)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
@@ -212,8 +212,8 @@ Diff (max vs sum): -27
 | This game is Highly Recommended | 408 |
 | This game has Challenging Combat | 397 |
 | This game is Extremely Fun | 393 |
+| This game is Relaxing | 393 |
 | This game has Amazing Storytelling | 389 |
-| This game is Relaxing | 388 |
 | This game has Amazing Characters | 377 |
 | This game has Quickly Understood Controls | 374 |
 | This game has Unique Visuals | 321 |
@@ -350,4 +350,4 @@ Diff (max vs sum): -27
 | 2023-11-29 | 4.75 | 2,518 | 6,163 |
 | 2023-11-30 | 4.75 | 2,533 | 6,208 |
 | 2023-12-01 | 4.75 | 2,558 | 6,266 |
-| 2023-12-02 | 4.75 | 2,558 | 6,307 |
+| 2023-12-02 | 4.75 | 2,558 | 6,312 |

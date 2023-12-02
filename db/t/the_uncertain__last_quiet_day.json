@@ -4,7 +4,7 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -906,9 +906,9 @@
       "ID": "EVERYBODY_LIES",
       "SetID": "2iigf77",
       "Name": "Everybody lies",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 205
+      "UsersEstimate": 211
     },
     {
       "ID": "EVERY_LITTLE_HELPS",
@@ -946,9 +946,9 @@
       "ID": "HANDS_UP",
       "SetID": "2iigf77",
       "Name": "Hands up!",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 305
+      "UsersEstimate": 311
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -1058,9 +1058,9 @@
       "ID": "SHORT_CIRCUIT",
       "SetID": "2iigf77",
       "Name": "Short circuit",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 305
+      "UsersEstimate": 311
     },
     {
       "ID": "SILENT",
@@ -1123,8 +1123,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-12-02T14:09:14.1027953+00:00",
+  "LastChanged_Achievements": "2023-12-02T15:09:56.1659826+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:34.5154513+00:00",
-  "LastUpdate_Ratings": "2023-12-02T14:00:04.2489779+00:00",
-  "LastUpdate_Achievements": "2023-12-02T14:09:14.1028213+00:00"
+  "LastUpdate_Ratings": "2023-12-02T15:01:18.3482578+00:00",
+  "LastUpdate_Achievements": "2023-12-02T15:09:56.1660022+00:00"
 }

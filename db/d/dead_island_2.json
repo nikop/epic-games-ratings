@@ -6,9 +6,9 @@
   "Ranking_Popularity": 49,
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 21,
-  "Ranking_EOS_Completed": 233,
+  "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -7087,10 +7087,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 12059,
       "NumberOfAwardsMax": 7869
+    },
+    {
+      "Time": "2023-12-02T15:00:36.9712351+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 12065,
+      "NumberOfAwardsMax": 7869
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12059,
+  "NumberOfAwards": 12065,
   "NumberOfAwardsMax": 7869,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7104,7 +7110,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 576
+      "Count": 579
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7128,7 +7134,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 453
+      "Count": 456
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7149,9 +7155,9 @@
       "Count": 506
     }
   ],
-  "EOS_Progressed": 728975,
+  "EOS_Progressed": 729008,
   "EOS_Completed": 2459,
-  "EOS_NewPlayers": 4278,
+  "EOS_NewPlayers": 4253,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -33049,6 +33055,11 @@
       "Time": "2023-12-02T14:08:24.4722165+00:00",
       "NumProgressed": 728975,
       "NumCompleted": 2459
+    },
+    {
+      "Time": "2023-12-02T15:08:52.3111425+00:00",
+      "NumProgressed": 729008,
+      "NumCompleted": 2459
     }
   ],
   "TotalAchievements": 51,
@@ -33258,9 +33269,9 @@
       "ID": "ach_knock_down",
       "SetID": "7km39fm",
       "Name": "Apex Predator",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7290
+      "UsersEstimate": 14580
     },
     {
       "ID": "ach_knowledgeable",
@@ -33420,7 +33431,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "ach_dark_magic",
@@ -33467,22 +33478,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 728975,
+      "Progressed": 729008,
       "Completed": 2459
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 54517,
+      "Progressed": 54550,
       "Completed": 36620
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-12-02T11:00:38.8945178+00:00",
-  "LastChanged_Achievements": "2023-12-02T14:08:24.472216+00:00",
+  "LastChanged": "2023-12-02T15:00:36.9712349+00:00",
+  "LastChanged_Achievements": "2023-12-02T15:08:52.3111422+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-12-02T13:59:33.7710276+00:00",
-  "LastUpdate_Achievements": "2023-12-02T14:08:24.4723794+00:00"
+  "LastUpdate_Ratings": "2023-12-02T15:00:36.9712355+00:00",
+  "LastUpdate_Achievements": "2023-12-02T15:08:52.3112762+00:00"
 }

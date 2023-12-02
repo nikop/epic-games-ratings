@@ -6,8 +6,8 @@ Rating: 4.04 (Ranked 994)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I don't feel so good | 42.00% | ~740 |
-| Fear my botany powers, Mars | 33.00% | ~581 |
-| Electrician | 33.00% | ~581 |
+| Fear my botany powers, Mars | 33.00% | ~582 |
+| Electrician | 33.00% | ~582 |
 | Zero Waste | 30.00% | ~529 |
 | Occupy Mars! | 30.00% | ~529 |
 | Bob The Builder | 30.00% | ~529 |
@@ -22,8 +22,8 @@ Rating: 4.04 (Ranked 994)
 | All Wheel Trouble | 8.00% | ~141 |
 | DeDust | 5.00% | ~88 |
 | ITS crash site | 5.00% | ~88 |
-| “Aliens” | 4.00% | ~70 |
-| Plumber | 4.00% | ~70 |
+| “Aliens” | 4.00% | ~71 |
+| Plumber | 4.00% | ~71 |
 | Hard Landing | 3.00% | ~53 |
 | To infinity and beyond! | 3.00% | ~53 |
 | Driver's License | 2.00% | ~35 |
@@ -54,7 +54,7 @@ Rating: 4.04 (Ranked 994)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,762 (Ranked 233)  
+Progressed: 1,763 (Ranked 233)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-29 | 1,751 | 0 |
 | 2023-11-30 | 1,755 | 0 |
 | 2023-12-01 | 1,759 | 0 |
-| 2023-12-02 | 1,762 | 0 |
+| 2023-12-02 | 1,763 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

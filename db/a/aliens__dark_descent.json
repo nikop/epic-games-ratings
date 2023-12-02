@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -6193,9 +6193,9 @@
       "ID": "ACH_ALL_MARINES_ALIVE",
       "SetID": "816efe",
       "Name": "Flawless Victory",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 485
+      "UsersEstimate": 522
     },
     {
       "ID": "ACH_ALL_WEAPONS",
@@ -6481,9 +6481,9 @@
       "ID": "ACH_PREVENT_ABDUCTED",
       "SetID": "816efe",
       "Name": "Snatched Out",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2724
+      "UsersEstimate": 2761
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -6554,8 +6554,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-27T19:00:30.5070176+00:00",
-  "LastChanged_Achievements": "2023-12-02T14:04:27.7321588+00:00",
+  "LastChanged_Achievements": "2023-12-02T15:05:19.9090377+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:48.06907+00:00",
-  "LastUpdate_Ratings": "2023-12-02T13:58:39.0802565+00:00",
-  "LastUpdate_Achievements": "2023-12-02T14:04:27.7322255+00:00"
+  "LastUpdate_Ratings": "2023-12-02T14:59:22.1673573+00:00",
+  "LastUpdate_Achievements": "2023-12-02T15:05:19.9090866+00:00"
 }

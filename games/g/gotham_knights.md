@@ -15,20 +15,20 @@ Rating: 4.18 (Ranked 935)
 | The Batman Family | 22.00% | ~17,065 |
 | Lock and Key | 22.00% | ~17,065 |
 | Something in the Clay | 21.00% | ~16,289 |
-| Quartzer Life Crisis | 20.00% | ~15,513 |
-| Working Hard or Harley Working? | 20.00% | ~15,513 |
-| Unstoppable Force | 20.00% | ~15,513 |
-| Bad Apples in Every Orchard | 20.00% | ~15,513 |
+| Quartzer Life Crisis | 20.00% | ~15,514 |
+| Working Hard or Harley Working? | 20.00% | ~15,514 |
+| Unstoppable Force | 20.00% | ~15,514 |
+| Bad Apples in Every Orchard | 20.00% | ~15,514 |
 | Snow Problem | 19.00% | ~14,738 |
 | The Show Mud Go On | 18.00% | ~13,962 |
 | From Inside Gotham's Walls | 18.00% | ~13,962 |
-| Protector of Gotham | 17.00% | ~13,186 |
+| Protector of Gotham | 17.00% | ~13,187 |
 | Universal Health Scare | 16.00% | ~12,411 |
 | In Your Element | 15.00% | ~11,635 |
 | Voiceless | 15.00% | ~11,635 |
-| Rock and a Hard Place | 14.00% | ~10,859 |
-| Cooldown | 14.00% | ~10,859 |
-| Seeking Asylum | 14.00% | ~10,859 |
+| Rock and a Hard Place | 14.00% | ~10,860 |
+| Cooldown | 14.00% | ~10,860 |
+| Seeking Asylum | 14.00% | ~10,860 |
 | Not On My Watch | 13.00% | ~10,084 |
 | Shock Til They Drop | 13.00% | ~10,084 |
 | End of an Era | 12.00% | ~9,308 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 935)
 | Element of Surprise | 0.20% | ~96 |
 | It's Nice to Be Wanted | 0.20% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,567 (Ranked 99)  
+Progressed: 77,568 (Ranked 99)  
 Completed: 124 (0.16%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 124 (0.16%) (Ranked 268)
 | 2023-11-29 | 77,449 | 124 |
 | 2023-11-30 | 77,491 | 124 |
 | 2023-12-01 | 77,532 | 124 |
-| 2023-12-02 | 77,567 | 124 |
+| 2023-12-02 | 77,568 | 124 |
 ## Awards
 Max (Great Boss Battles): 2,987  (Ranked 98)  
 Sum: 5,097 (Ranked 140)  

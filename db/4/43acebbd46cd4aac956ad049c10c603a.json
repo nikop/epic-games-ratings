@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -175,9 +175,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 828,
+  "EOS_Progressed": 830,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1910,6 +1910,11 @@
       "Time": "2023-12-02T14:04:11.5215104+00:00",
       "NumProgressed": 828,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T15:04:58.6128515+00:00",
+      "NumProgressed": 830,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2122,7 +2127,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Mnemosyne",
@@ -2138,15 +2143,15 @@
       "Name": "Museum Explorer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "MuseumVisitor",
       "SetID": "1n308hc",
       "Name": "Museum Visitor",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 66
     },
     {
       "ID": "NewBeginning",
@@ -2234,7 +2239,7 @@
       "Name": "Signatory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "SingleRod",
@@ -2266,15 +2271,15 @@
       "Name": "Team Spirit",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "TextAdventurer",
       "SetID": "1n308hc",
       "Name": "Text Adventurer",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TheAllGifted",
@@ -2393,7 +2398,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 828,
+      "Progressed": 830,
       "Completed": 1
     }
   ],
@@ -2401,8 +2406,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-02T13:02:26.2646778+00:00",
-  "LastChanged_Achievements": "2023-12-02T14:04:11.5215101+00:00",
+  "LastChanged_Achievements": "2023-12-02T15:04:58.6128511+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-02T14:00:26.1017338+00:00",
-  "LastUpdate_Achievements": "2023-12-02T14:04:11.5215573+00:00"
+  "LastUpdate_Ratings": "2023-12-02T15:02:28.2294812+00:00",
+  "LastUpdate_Achievements": "2023-12-02T15:04:58.6128948+00:00"
 }

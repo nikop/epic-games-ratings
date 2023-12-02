@@ -6,8 +6,8 @@ Rating: 4.50 (Ranked 594)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~3,022 |
+| Snatched Out | 74.00% | ~2,761 |
 | Keep 'Em Coming | 73.00% | ~2,724 |
-| Snatched Out | 73.00% | ~2,724 |
 | Cleaning Lethe, One Nest At A Time | 67.00% | ~2,500 |
 | Call Me Snake | 63.00% | ~2,351 |
 | Something Lurks Under The Hills | 61.00% | ~2,276 |
@@ -40,7 +40,7 @@ Rating: 4.50 (Ranked 594)
 | Bandage Lover | 20.00% | ~746 |
 | Regicide | 17.00% | ~634 |
 | This Went Smoothly | 15.00% | ~560 |
-| Flawless Victory | 13.00% | ~485 |
+| Flawless Victory | 14.00% | ~522 |
 | Heavy Steps | 13.00% | ~485 |
 | Perfect Enhancements | 10.00% | ~373 |
 | Hardened In The Heat Of Battle | 8.00% | ~298 |

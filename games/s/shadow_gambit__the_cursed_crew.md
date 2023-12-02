@@ -5,22 +5,22 @@ Rating: 4.77 (Ranked 113)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 66.00% | ~651 |
-| The Adventure Begins | 51.00% | ~503 |
-| Swabbie | 39.00% | ~385 |
-| With Great Power… | 38.00% | ~375 |
-| This Belongs in a Museum | 35.00% | ~345 |
+| A New Journey | 66.00% | ~653 |
+| The Adventure Begins | 51.00% | ~504 |
+| Swabbie | 39.00% | ~386 |
+| With Great Power… | 38.00% | ~376 |
+| This Belongs in a Museum | 35.00% | ~346 |
 | The Gambit Has Begun | 32.00% | ~316 |
-| Somewhere Deep in the Lost Caribbean | 28.00% | ~276 |
-| Powder Monkey | 28.00% | ~276 |
-| Mirror Mirror on the Wall | 27.00% | ~266 |
+| Somewhere Deep in the Lost Caribbean | 28.00% | ~277 |
+| Powder Monkey | 28.00% | ~277 |
+| Mirror Mirror on the Wall | 27.00% | ~267 |
 | Pirates Assemble! | 24.00% | ~237 |
-| Buccaneer | 22.00% | ~217 |
-| Fishy Fish | 21.00% | ~207 |
+| Buccaneer | 22.00% | ~218 |
+| Fishy Fish | 21.00% | ~208 |
 | All Good Things | 19.00% | ~188 |
 | Seadog | 16.00% | ~158 |
 | Persistent Parasite | 16.00% | ~158 |
-| Jaded Judge | 12.00% | ~118 |
+| Jaded Judge | 12.00% | ~119 |
 | Rustic Recipe | 11.00% | ~109 |
 | Privateer | 10.00% | ~99 |
 | Tobacco Travesty | 10.00% | ~99 |
@@ -28,12 +28,12 @@ Rating: 4.77 (Ranked 113)
 | Lyrical Longing | 9.00% | ~89 |
 | Corsair | 6.00% | ~59 |
 | Fully Decked | 6.00% | ~59 |
-| Freebooter | 4.00% | ~39 |
-| Marauder | 4.00% | ~39 |
-| Welcome Back Jester | 4.00% | ~39 |
+| Freebooter | 4.00% | ~40 |
+| Marauder | 4.00% | ~40 |
+| Welcome Back Jester | 4.00% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 987 (Ranked 265)  
-Completed: 31 (3.14%) (Ranked 99)  
+Progressed: 989 (Ranked 265)  
+Completed: 31 (3.13%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -146,7 +146,7 @@ Completed: 31 (3.14%) (Ranked 99)
 | 2023-11-29 | 976 | 31 |
 | 2023-11-30 | 982 | 31 |
 | 2023-12-01 | 984 | 31 |
-| 2023-12-02 | 987 | 31 |
+| 2023-12-02 | 989 | 31 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

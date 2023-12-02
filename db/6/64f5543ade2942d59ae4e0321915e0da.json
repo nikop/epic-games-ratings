@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 484,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -495,9 +495,9 @@
       "ID": "AC_DEATH_ENEMIES_2",
       "SetID": "16i2akc",
       "Name": "Psycopath",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -527,9 +527,9 @@
       "ID": "AC_DISTANCE_3",
       "SetID": "16i2akc",
       "Name": "Voyage",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 45,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -662,8 +662,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-02T14:05:13.3212917+00:00",
+  "LastChanged_Achievements": "2023-12-02T15:06:18.3300442+00:00",
   "LastUpdate_AppInfo": "2023-11-28T18:57:05.8641658+00:00",
-  "LastUpdate_Ratings": "2023-12-02T13:57:48.7295009+00:00",
-  "LastUpdate_Achievements": "2023-12-02T14:05:13.3213269+00:00"
+  "LastUpdate_Ratings": "2023-12-02T14:58:14.2644837+00:00",
+  "LastUpdate_Achievements": "2023-12-02T15:06:18.3300728+00:00"
 }

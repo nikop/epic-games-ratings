@@ -4,10 +4,10 @@
   "ProductSlug": "midnight-ghost-hunt",
   "Ranking_Rating": 793,
   "Ranking_Popularity": 386,
-  "Ranking_PopularitySum": 314,
+  "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 10,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
@@ -1963,10 +1963,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 598,
       "NumberOfAwardsMax": 87
+    },
+    {
+      "Time": "2023-12-02T14:57:05.4854059+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 599,
+      "NumberOfAwardsMax": 87
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 598,
+  "NumberOfAwards": 599,
   "NumberOfAwardsMax": 87,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2016,7 +2022,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 69
+      "Count": 70
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2043,9 +2049,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1291512,
+  "EOS_Progressed": 1291523,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1363,
+  "EOS_NewPlayers": 1365,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23548,6 +23554,11 @@
       "Time": "2023-12-02T14:03:55.2027431+00:00",
       "NumProgressed": 1291512,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T15:04:37.5705146+00:00",
+      "NumProgressed": 1291523,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -23671,7 +23682,7 @@
       "Name": "10 Kills as a Ghost!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 142066
+      "UsersEstimate": 142068
     },
     {
       "ID": "10_ghost_wins",
@@ -23679,7 +23690,7 @@
       "Name": "10 Ghost Wins!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 103321
+      "UsersEstimate": 103322
     },
     {
       "ID": "10_hero_prop_kills",
@@ -23695,7 +23706,7 @@
       "Name": "10 Kills as a Hunter!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 206642
+      "UsersEstimate": 206644
     },
     {
       "ID": "10_hunter_wins",
@@ -23823,7 +23834,7 @@
       "Name": "25 Taunts In One Game!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 51660
+      "UsersEstimate": 51661
     },
     {
       "ID": "50_riot_shield_kills",
@@ -23847,7 +23858,7 @@
       "Name": "ACE!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 129151
+      "UsersEstimate": 129152
     },
     {
       "ID": "ghost_win",
@@ -23855,7 +23866,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 761992
+      "UsersEstimate": 761999
     },
     {
       "ID": "hunter_win",
@@ -23863,7 +23874,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 697416
+      "UsersEstimate": 697422
     },
     {
       "ID": "master_of_loadouts",
@@ -23887,23 +23898,23 @@
       "Name": "Unlock Any Cosmetic",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 284133
+      "UsersEstimate": 284135
     }
   ],
   "AchievementSets": [
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1291512,
+      "Progressed": 1291523,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-01T17:56:58.3739755+00:00",
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
-  "LastChanged": "2023-12-02T03:00:22.787899+00:00",
-  "LastChanged_Achievements": "2023-12-02T14:03:55.2027426+00:00",
+  "LastChanged": "2023-12-02T14:57:05.4854057+00:00",
+  "LastChanged_Achievements": "2023-12-02T15:04:37.5705143+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:12.3438566+00:00",
-  "LastUpdate_Ratings": "2023-12-02T13:56:56.6925191+00:00",
-  "LastUpdate_Achievements": "2023-12-02T14:03:55.2029374+00:00"
+  "LastUpdate_Ratings": "2023-12-02T14:57:05.4854064+00:00",
+  "LastUpdate_Achievements": "2023-12-02T15:04:37.5706095+00:00"
 }

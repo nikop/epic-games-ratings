@@ -47,6 +47,7 @@
 | The Assassin | 32.00% | ~473 |
 | The Justicar | 32.00% | ~473 |
 | The Quarian | 32.00% | ~473 |
+| Ghost of the Father | 32.00% | ~473 |
 | The Cure | 32.00% | ~473 |
 | The Prodigal | 32.00% | ~473 |
 | Galactic Explorer | 32.00% | ~473 |
@@ -55,7 +56,6 @@
 | Completionist | 31.00% | ~458 |
 | Battlemaster | 31.00% | ~458 |
 | Catharsis | 31.00% | ~458 |
-| Ghost of the Father | 31.00% | ~458 |
 | Big Game Hunter | 31.00% | ~458 |
 | Revenge! | 31.00% | ~458 |
 | Bringer of War | 31.00% | ~458 |

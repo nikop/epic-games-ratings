@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -241,9 +241,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15833,
+  "EOS_Progressed": 15835,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 337,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -12886,6 +12886,11 @@
       "Time": "2023-12-02T14:04:31.9297177+00:00",
       "NumProgressed": 15833,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-02T15:05:25.7088629+00:00",
+      "NumProgressed": 15835,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12906,7 +12911,7 @@
       "Name": "Data Miner",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "11",
@@ -12952,9 +12957,9 @@
       "ID": "16",
       "SetID": "458bbdk",
       "Name": "Drug Gifter",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 633
+      "UsersEstimate": 792
     },
     {
       "ID": "17",
@@ -13114,7 +13119,7 @@
       "Name": "Grave Robber",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "8",
@@ -13122,7 +13127,7 @@
       "Name": "Data Recoverer",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "9",
@@ -13162,7 +13167,7 @@
       "Name": "Master Negotiator",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "35",
@@ -13177,22 +13182,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15833,
+      "Progressed": 15835,
       "Completed": 39
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1787,
-      "Completed": 784
+      "Progressed": 1789,
+      "Completed": 785
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-28T18:00:52.6774218+00:00",
-  "LastChanged_Achievements": "2023-12-02T14:04:31.9297172+00:00",
+  "LastChanged_Achievements": "2023-12-02T15:05:25.7088626+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-12-02T14:02:41.2150956+00:00",
-  "LastUpdate_Achievements": "2023-12-02T14:04:31.9298414+00:00"
+  "LastUpdate_Ratings": "2023-12-02T15:03:00.0709613+00:00",
+  "LastUpdate_Achievements": "2023-12-02T15:05:25.708928+00:00"
 }

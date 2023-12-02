@@ -2,7 +2,7 @@
   "ID": "f9af68c0b03e425999c18381eb45e5fb",
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
-  "Ranking_EOS_Progress": 314,
+  "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 131,
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 488,
+  "EOS_Progressed": 489,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1527,6 +1527,11 @@
       "Time": "2023-12-02T14:06:44.312957+00:00",
       "NumProgressed": 488,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T15:08:15.5293236+00:00",
+      "NumProgressed": 489,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1538,7 +1543,7 @@
       "Name": "Travel Streamer",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1610,7 +1615,7 @@
       "Name": "Kind Adventurer",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -1618,7 +1623,7 @@
       "Name": "Mermaid Killer",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -1666,7 +1671,7 @@
       "Name": "Arms Mechanic",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -1698,7 +1703,7 @@
       "Name": "Trader",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -1706,7 +1711,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1794,7 +1799,7 @@
       "Name": "Storm Traveller",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -1880,9 +1885,9 @@
       "ID": "ACHIEVEMENT_8",
       "SetID": "7pimpda",
       "Name": "Seal Breaker",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 151
+      "UsersEstimate": 147
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -1897,7 +1902,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 488,
+      "Progressed": 489,
       "Completed": 1
     }
   ],
@@ -1905,8 +1910,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-02T14:06:44.3129565+00:00",
+  "LastChanged_Achievements": "2023-12-02T15:08:15.529323+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-12-02T14:00:13.9960254+00:00",
-  "LastUpdate_Achievements": "2023-12-02T14:06:44.3129886+00:00"
+  "LastUpdate_Ratings": "2023-12-02T15:01:32.2291418+00:00",
+  "LastUpdate_Achievements": "2023-12-02T15:08:15.5293627+00:00"
 }
