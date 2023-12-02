@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 840,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 5.6,
   "EosHistory": [
@@ -3441,9 +3441,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 193
     },
     {
       "ID": "META_HALF_LINK",
@@ -3561,9 +3561,9 @@
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 193
+      "UsersEstimate": 202
     },
     {
       "ID": "PROGRESS_N1",
@@ -3616,8 +3616,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-02T10:06:09.8191984+00:00",
+  "LastChanged_Achievements": "2023-12-02T11:07:45.7154493+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:32.4952448+00:00",
-  "LastUpdate_Ratings": "2023-12-02T09:59:41.0741677+00:00",
-  "LastUpdate_Achievements": "2023-12-02T10:06:09.8192238+00:00"
+  "LastUpdate_Ratings": "2023-12-02T11:01:04.0506417+00:00",
+  "LastUpdate_Achievements": "2023-12-02T11:07:45.7154753+00:00"
 }

@@ -31,10 +31,10 @@
 | The Cathedral of Light | 39.00% | ~200 |
 | Mana Cannon | 38.00% | ~195 |
 | Tanos' Crusade Against Thalya | 35.00% | ~180 |
+| All’s Well That Ends Evil | 30.00% | ~154 |
 | Unstoppable Horde | 29.00% | ~149 |
-| All’s Well That Ends Evil | 29.00% | ~149 |
 | Master of the Undead | 27.00% | ~139 |
-| The Duel | 26.00% | ~133 |
+| The Duel | 27.00% | ~139 |
 | Forbidden Knowledge | 24.00% | ~123 |
 | If Looks Could Kill | 24.00% | ~123 |
 | Hungry, Hungry Gorgu! | 23.00% | ~118 |
@@ -44,8 +44,8 @@
 | Stop Tanos! | 19.00% | ~97 |
 | Doom Hill | 19.00% | ~97 |
 | Sabotage! | 18.00% | ~92 |
+| Bonus Evilness | 17.00% | ~87 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~82 |
-| Bonus Evilness | 16.00% | ~82 |
 | Brimstone Shaken, Not Stirred | 16.00% | ~82 |
 | The Rune Sockets of Finitude (Part 1) | 15.00% | ~77 |
 | My Little Torture Chamber | 14.00% | ~72 |

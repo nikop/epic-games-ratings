@@ -2,7 +2,7 @@
   "ID": "ace01fe38cfb4479b1009cf49478ff18",
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
-  "Ranking_EOS_Progress": 404,
+  "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 130,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 163,
+  "EOS_Progressed": 164,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -734,6 +734,11 @@
       "Time": "2023-12-01T20:09:49.1362332+00:00",
       "NumProgressed": 163,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T11:09:41.3626934+00:00",
+      "NumProgressed": 164,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -744,9 +749,9 @@
       "ID": "ach_chapter_complete_1",
       "SetID": "d499apg",
       "Name": "Chapter I - Complete",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 45,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -754,7 +759,7 @@
       "Name": "Chapter II - Complete",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_chapter_complete_3",
@@ -802,7 +807,7 @@
       "Name": "Defeat a Great Unclean One",
       "Percentage": 18,
       "XP": 45,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ach_defeat_lord_of_change",
@@ -841,14 +846,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 163,
+      "Progressed": 164,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-02T10:09:14.1620308+00:00",
+  "LastChanged_Achievements": "2023-12-02T11:09:41.3626929+00:00",
   "LastUpdate_AppInfo": "2023-12-01T13:57:01.4923229+00:00",
-  "LastUpdate_Ratings": "2023-12-02T09:59:22.4687769+00:00",
-  "LastUpdate_Achievements": "2023-12-02T10:09:14.1620432+00:00"
+  "LastUpdate_Ratings": "2023-12-02T11:00:35.1364588+00:00",
+  "LastUpdate_Achievements": "2023-12-02T11:09:41.3627052+00:00"
 }

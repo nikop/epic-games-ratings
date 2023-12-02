@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -850,9 +850,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 48470,
+  "EOS_Progressed": 48472,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 809,
+  "EOS_NewPlayers": 807,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26410,6 +26410,11 @@
       "Time": "2023-12-02T10:05:56.7651713+00:00",
       "NumProgressed": 48470,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-02T11:07:27.2599032+00:00",
+      "NumProgressed": 48472,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -26549,7 +26554,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7755
+      "UsersEstimate": 7756
     },
     {
       "ID": "playerFelipe",
@@ -26629,7 +26634,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 12602
+      "UsersEstimate": 12603
     },
     {
       "ID": "sandboarder",
@@ -26732,15 +26737,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 48470,
+      "Progressed": 48472,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-11-29T16:56:50.2159506+00:00",
-  "LastChanged_Achievements": "2023-12-02T10:05:56.765171+00:00",
+  "LastChanged_Achievements": "2023-12-02T11:07:27.2599029+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:43.8978111+00:00",
-  "LastUpdate_Ratings": "2023-12-02T09:58:28.057131+00:00",
-  "LastUpdate_Achievements": "2023-12-02T10:05:56.7653099+00:00"
+  "LastUpdate_Ratings": "2023-12-02T10:59:15.0942248+00:00",
+  "LastUpdate_Achievements": "2023-12-02T11:07:27.2600657+00:00"
 }

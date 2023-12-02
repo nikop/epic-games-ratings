@@ -889,9 +889,9 @@
       "Count": 113
     }
   ],
-  "EOS_Progressed": 11148,
+  "EOS_Progressed": 11149,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -13489,6 +13489,11 @@
       "Time": "2023-12-02T10:08:46.1565999+00:00",
       "NumProgressed": 11148,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-12-02T11:09:03.28648+00:00",
+      "NumProgressed": 11149,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -13604,7 +13609,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4682
+      "UsersEstimate": 4683
     },
     {
       "ID": "ACH15",
@@ -13676,7 +13681,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2898
+      "UsersEstimate": 2899
     },
     {
       "ID": "ACH24",
@@ -13771,7 +13776,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11148,
+      "Progressed": 11149,
       "Completed": 65
     }
   ],
@@ -13779,8 +13784,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-29T23:57:12.1687607+00:00",
-  "LastChanged_Achievements": "2023-12-02T10:08:46.1565998+00:00",
+  "LastChanged_Achievements": "2023-12-02T11:09:03.2864796+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:45.8574591+00:00",
-  "LastUpdate_Ratings": "2023-12-02T09:58:29.136198+00:00",
-  "LastUpdate_Achievements": "2023-12-02T10:08:46.1566631+00:00"
+  "LastUpdate_Ratings": "2023-12-02T10:59:16.4023937+00:00",
+  "LastUpdate_Achievements": "2023-12-02T11:09:03.2865647+00:00"
 }

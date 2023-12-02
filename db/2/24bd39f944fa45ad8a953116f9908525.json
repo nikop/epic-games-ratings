@@ -439,9 +439,9 @@
       "ID": "ach_17_station2h",
       "SetID": "16n29hg",
       "Name": "Directionally Challenged",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_18_tunnel20min",
@@ -471,9 +471,9 @@
       "ID": "ach_21_litStation",
       "SetID": "16n29hg",
       "Name": "Sun is Rising",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_22_eye4Eye",
@@ -543,9 +543,9 @@
       "ID": "ach_31_skin1",
       "SetID": "16n29hg",
       "Name": "Cheapo",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ach_32_bringCatHome",
@@ -750,8 +750,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-12-02T10:04:48.8200078+00:00",
+  "LastChanged_Achievements": "2023-12-02T11:05:52.5638564+00:00",
   "LastUpdate_AppInfo": "2023-11-29T20:57:25.545137+00:00",
-  "LastUpdate_Ratings": "2023-12-02T09:57:17.2510545+00:00",
-  "LastUpdate_Achievements": "2023-12-02T10:04:48.8200456+00:00"
+  "LastUpdate_Ratings": "2023-12-02T10:57:28.83288+00:00",
+  "LastUpdate_Achievements": "2023-12-02T11:05:52.5639001+00:00"
 }

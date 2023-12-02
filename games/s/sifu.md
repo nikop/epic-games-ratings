@@ -22,11 +22,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 0.60% | ~4,306 |
 | Rumble in the Hangar | 0.60% | ~4,306 |
 | Fight the way you practice | 0.60% | ~162 |
-| Furious Fists | 0.50% | ~3,588 |
-| Kill Nil | 0.50% | ~3,588 |
-| Stuntmaster | 0.50% | ~3,588 |
-| Old Child | 0.50% | ~3,588 |
-| Take damage to save time | 0.50% | ~3,588 |
+| Furious Fists | 0.50% | ~3,589 |
+| Kill Nil | 0.50% | ~3,589 |
+| Stuntmaster | 0.50% | ~3,589 |
+| Old Child | 0.50% | ~3,589 |
+| Take damage to save time | 0.50% | ~3,589 |
 | Martial Hub | 0.50% | ~135 |
 | Scareless | 0.40% | ~2,871 |
 | Dance of the Praying Mantis | 0.40% | ~2,871 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,699 (Ranked 22)  
+Progressed: 717,703 (Ranked 22)  
 Completed: 12,942 (1.80%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 12,942 (1.80%) (Ranked 134)
 | 2023-11-29 | 717,624 | 12,941 |
 | 2023-11-30 | 717,650 | 12,941 |
 | 2023-12-01 | 717,685 | 12,942 |
-| 2023-12-02 | 717,699 | 12,942 |
+| 2023-12-02 | 717,703 | 12,942 |
 ## Awards
 Max (Great Boss Battles): 6,864  (Ranked 55)  
 Sum: 12,032 (Ranked 84)  

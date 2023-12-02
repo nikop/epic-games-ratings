@@ -2,13 +2,13 @@
   "ID": "aa598567414d42378187b8861da550f7",
   "Name": "Remnant 2",
   "ProductSlug": "remnant-2",
-  "Ranking_Rating": 148,
+  "Ranking_Rating": 149,
   "Ranking_Popularity": 102,
   "Ranking_PopularitySum": 129,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
     "PcReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -5055,10 +5055,10 @@
       "Count": 388
     }
   ],
-  "EOS_Progressed": 232635,
+  "EOS_Progressed": 232679,
   "EOS_Completed": 547,
-  "EOS_NewPlayers": 5053,
-  "EOS_NewCompleters": 27,
+  "EOS_NewPlayers": 5057,
+  "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
@@ -20980,6 +20980,11 @@
       "Time": "2023-12-02T10:08:49.5147247+00:00",
       "NumProgressed": 232635,
       "NumCompleted": 547
+    },
+    {
+      "Time": "2023-12-02T11:09:07.8022903+00:00",
+      "NumProgressed": 232679,
+      "NumCompleted": 547
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21030,9 +21035,9 @@
       "ID": "Defeat_Corrupted_Ravager",
       "SetID": "bkp3b1a",
       "Name": "Chaos",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 465
+      "UsersEstimate": 698
     },
     {
       "ID": "Defeat_Cube",
@@ -21072,7 +21077,7 @@
       "Name": "The Killing Jar",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -21176,7 +21181,7 @@
       "Name": "First of Many",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -21431,13 +21436,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 232635,
+      "Progressed": 232679,
       "Completed": 547
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 11800,
+      "Progressed": 11844,
       "Completed": 177
     }
   ],
@@ -21445,8 +21450,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-02T09:03:27.8163133+00:00",
-  "LastChanged_Achievements": "2023-12-02T10:08:49.5147244+00:00",
+  "LastChanged_Achievements": "2023-12-02T11:09:07.8022899+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-12-02T10:03:07.268232+00:00",
-  "LastUpdate_Achievements": "2023-12-02T10:08:49.5148109+00:00"
+  "LastUpdate_Ratings": "2023-12-02T11:03:26.2817564+00:00",
+  "LastUpdate_Achievements": "2023-12-02T11:09:07.8023795+00:00"
 }

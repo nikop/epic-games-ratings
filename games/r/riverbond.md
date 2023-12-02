@@ -6,22 +6,22 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~372,635 |
-| Now You're Talking | 62.00% | ~330,048 |
-| Steel Yourself | 62.00% | ~330,048 |
+| First Step | 70.00% | ~372,636 |
+| Now You're Talking | 62.00% | ~330,049 |
+| Steel Yourself | 62.00% | ~330,049 |
 | Window Dressing | 50.00% | ~266,168 |
 | Trigger Happy | 46.00% | ~244,875 |
-| Riverborn | 45.00% | ~239,551 |
-| Starry Eyed | 34.00% | ~180,994 |
-| Poking Around | 34.00% | ~180,994 |
+| Riverborn | 45.00% | ~239,552 |
+| Starry Eyed | 34.00% | ~180,995 |
+| Poking Around | 34.00% | ~180,995 |
 | Talk of the Town | 24.00% | ~127,761 |
-| AAARR! | 23.00% | ~122,437 |
-| Hello Darkness | 23.00% | ~122,437 |
+| AAARR! | 23.00% | ~122,438 |
+| Hello Darkness | 23.00% | ~122,438 |
 | Wind At Our Backs | 22.00% | ~117,114 |
 | To the Beat | 20.00% | ~106,467 |
 | Sunny Shores | 17.00% | ~90,497 |
 | Sunday Best | 16.00% | ~85,174 |
-| To Victory! | 15.00% | ~79,850 |
+| To Victory! | 15.00% | ~79,851 |
 | Two of a Kind | 14.00% | ~74,527 |
 | Keep On Trucking | 13.00% | ~69,204 |
 | Going on an Adventure | 11.00% | ~58,557 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,597 |
 | Point Taken | 0.20% | ~1,065 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 532,336 (Ranked 35)  
+Progressed: 532,337 (Ranked 35)  
 Completed: 503 (0.09%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 503 (0.09%) (Ranked 291)
 | 2023-11-29 | 532,202 | 503 |
 | 2023-11-30 | 532,249 | 503 |
 | 2023-12-01 | 532,309 | 503 |
-| 2023-12-02 | 532,336 | 503 |
+| 2023-12-02 | 532,337 | 503 |
 ## Awards
 Max (Relaxing): 20  (Ranked 551)  
 Sum: 20 (Ranked 552)  

@@ -7333,9 +7333,9 @@
       "Count": 3789
     }
   ],
-  "EOS_Progressed": 143353,
+  "EOS_Progressed": 143359,
   "EOS_Completed": 290,
-  "EOS_NewPlayers": 1527,
+  "EOS_NewPlayers": 1520,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -30743,6 +30743,11 @@
       "Time": "2023-12-02T10:05:15.2236786+00:00",
       "NumProgressed": 143353,
       "NumCompleted": 290
+    },
+    {
+      "Time": "2023-12-02T11:06:29.5245463+00:00",
+      "NumProgressed": 143359,
+      "NumCompleted": 290
     }
   ],
   "TotalAchievements": 112,
@@ -30986,7 +30991,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8601
+      "UsersEstimate": 8602
     },
     {
       "ID": "commonres02",
@@ -31226,7 +31231,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8601
+      "UsersEstimate": 8602
     },
     {
       "ID": "gold02",
@@ -31442,7 +31447,7 @@
       "Name": "The Greatest Grind",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "masterpiece",
@@ -31450,7 +31455,7 @@
       "Name": "All or Nothing!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "polonia_a",
@@ -31649,15 +31654,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 143353,
+      "Progressed": 143359,
       "Completed": 290
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-02T01:45:50.8831877+00:00",
-  "LastChanged_Achievements": "2023-12-02T10:05:15.2236784+00:00",
+  "LastChanged_Achievements": "2023-12-02T11:06:29.5245458+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-12-02T10:02:56.9092187+00:00",
-  "LastUpdate_Achievements": "2023-12-02T10:05:15.2238615+00:00"
+  "LastUpdate_Ratings": "2023-12-02T11:03:10.7116708+00:00",
+  "LastUpdate_Achievements": "2023-12-02T11:06:29.5247648+00:00"
 }

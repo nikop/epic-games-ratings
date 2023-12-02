@@ -1,12 +1,12 @@
 # Remnant 2
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.75 (Ranked 148)  
+Rating: 4.75 (Ranked 149)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 0.70% | ~1,628 |
-| First of Many | 0.70% | ~1,628 |
+| The Killing Jar | 0.70% | ~1,629 |
+| First of Many | 0.70% | ~1,629 |
 | Regicide | 0.70% | ~83 |
 | Master of the Dark Arts | 0.70% | ~83 |
 | Expanding Horizons | 0.50% | ~1,163 |
@@ -19,6 +19,7 @@ Rating: 4.75 (Ranked 148)
 | Boss'n Up | 0.40% | ~931 |
 | Trait Chaser | 0.40% | ~931 |
 | Am I Seeing This? | 0.30% | ~698 |
+| Chaos | 0.30% | ~698 |
 | Power Surge | 0.30% | ~698 |
 | Equal Measures | 0.30% | ~698 |
 | Blue Goddess | 0.30% | ~698 |
@@ -32,7 +33,6 @@ Rating: 4.75 (Ranked 148)
 | Good, But Could Be Better! | 0.30% | ~698 |
 | Crafty | 0.20% | ~465 |
 | Ghost in the Machine | 0.20% | ~465 |
-| Chaos | 0.20% | ~465 |
 | Traitor | 0.20% | ~465 |
 | Forever is a Long Time Coming | 0.20% | ~465 |
 | The God Gambit | 0.20% | ~465 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | Maxed Out! | 0.10% | ~233 |
 | A Foul Feast | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,635 (Ranked 69)  
+Progressed: 232,679 (Ranked 69)  
 Completed: 547 (0.24%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 547 (0.24%) (Ranked 250)
 | 2023-11-29 | 230,694 | 542 |
 | 2023-11-30 | 231,406 | 542 |
 | 2023-12-01 | 232,269 | 546 |
-| 2023-12-02 | 232,635 | 547 |
+| 2023-12-02 | 232,679 | 547 |
 ## Awards
 Max (Great Boss Battles): 2,558  (Ranked 102)  
 Sum: 6,298 (Ranked 129)  

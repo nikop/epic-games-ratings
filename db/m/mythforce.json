@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -806,9 +806,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5272,
+  "EOS_Progressed": 5273,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10371,6 +10371,11 @@
       "Time": "2023-12-02T08:05:58.5584614+00:00",
       "NumProgressed": 5272,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-02T11:07:40.67396+00:00",
+      "NumProgressed": 5273,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -10471,7 +10476,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -10519,7 +10524,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -10551,7 +10556,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -10566,15 +10571,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5272,
+      "Progressed": 5273,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-01T06:01:05.0621947+00:00",
-  "LastChanged_Achievements": "2023-12-02T10:06:06.290281+00:00",
+  "LastChanged_Achievements": "2023-12-02T11:07:40.6739595+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:57.8728893+00:00",
-  "LastUpdate_Ratings": "2023-12-02T10:00:16.1269293+00:00",
-  "LastUpdate_Achievements": "2023-12-02T10:06:06.2903403+00:00"
+  "LastUpdate_Ratings": "2023-12-02T11:01:57.1559331+00:00",
+  "LastUpdate_Achievements": "2023-12-02T11:07:40.6740143+00:00"
 }

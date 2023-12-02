@@ -4,8 +4,8 @@
 Rating: 4.40 (Ranked 741)  
 ## Awards
 Max (Quickly Understood Controls): 75  (Ranked 398)  
-Sum: 673 (Ranked 304)  
-Diff (max vs sum): 94  
+Sum: 673 (Ranked 305)  
+Diff (max vs sum): 93  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 75 |

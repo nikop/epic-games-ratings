@@ -3,11 +3,11 @@
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
   "Ranking_Rating": 277,
-  "Ranking_Popularity": 202,
+  "Ranking_Popularity": 201,
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
@@ -2150,11 +2150,17 @@
       "Rating": 4.67,
       "NumberOfAwards": 4887,
       "NumberOfAwardsMax": 579
+    },
+    {
+      "Time": "2023-12-02T10:58:11.248119+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4888,
+      "NumberOfAwardsMax": 580
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4887,
-  "NumberOfAwardsMax": 579,
+  "NumberOfAwards": 4888,
+  "NumberOfAwardsMax": 580,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2191,7 +2197,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 579
+      "Count": 580
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2224,9 +2230,9 @@
       "Count": 256
     }
   ],
-  "EOS_Progressed": 216998,
+  "EOS_Progressed": 217002,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 1306,
+  "EOS_NewPlayers": 1297,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -28104,6 +28110,11 @@
       "Time": "2023-12-02T10:04:40.3755808+00:00",
       "NumProgressed": 216998,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-12-02T11:05:40.5959047+00:00",
+      "NumProgressed": 217002,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 44,
@@ -28466,15 +28477,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 216998,
+      "Progressed": 217002,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2023-12-02T09:57:44.1548492+00:00",
-  "LastChanged_Achievements": "2023-12-02T10:04:40.3755805+00:00",
+  "LastChanged": "2023-12-02T10:58:11.2481188+00:00",
+  "LastChanged_Achievements": "2023-12-02T11:05:40.5959042+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:23.8145991+00:00",
-  "LastUpdate_Ratings": "2023-12-02T09:57:44.1548497+00:00",
-  "LastUpdate_Achievements": "2023-12-02T10:04:40.3757199+00:00"
+  "LastUpdate_Ratings": "2023-12-02T10:58:11.2481197+00:00",
+  "LastUpdate_Achievements": "2023-12-02T11:05:40.5960547+00:00"
 }

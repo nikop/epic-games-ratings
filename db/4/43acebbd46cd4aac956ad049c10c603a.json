@@ -5,7 +5,7 @@
   "Ranking_Rating": 32,
   "Ranking_Popularity": 470,
   "Ranking_PopularitySum": 505,
-  "Ranking_EOS_Progress": 276,
+  "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 130,
@@ -169,7 +169,7 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 823,
+  "EOS_Progressed": 825,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
@@ -1889,6 +1889,11 @@
       "Time": "2023-12-02T10:04:02.3849829+00:00",
       "NumProgressed": 823,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T11:04:47.3452562+00:00",
+      "NumProgressed": 825,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1931,7 +1936,7 @@
       "ID": "Balance",
       "SetID": "1n308hc",
       "Name": "Balance",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -1939,9 +1944,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 82
     },
     {
       "ID": "BreakTheLoop",
@@ -1997,7 +2002,7 @@
       "Name": "Discovery",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "EasternWetlands",
@@ -2291,17 +2296,17 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 66
     },
     {
       "ID": "TheThiefOfFire",
       "SetID": "1n308hc",
       "Name": "The Thief of Fire",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 50
     },
     {
       "ID": "TheWordEndures",
@@ -2317,7 +2322,7 @@
       "Name": "Touch Grass",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "TrevorsBiographer",
@@ -2341,7 +2346,7 @@
       "Name": "Wanderers",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "WesternDelta",
@@ -2372,7 +2377,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 823,
+      "Progressed": 825,
       "Completed": 1
     }
   ],
@@ -2380,8 +2385,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-30T22:00:34.4965769+00:00",
-  "LastChanged_Achievements": "2023-12-02T10:04:02.3849826+00:00",
+  "LastChanged_Achievements": "2023-12-02T11:04:47.3452555+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-02T10:00:10.9247347+00:00",
-  "LastUpdate_Achievements": "2023-12-02T10:04:02.3850253+00:00"
+  "LastUpdate_Ratings": "2023-12-02T11:01:48.5640439+00:00",
+  "LastUpdate_Achievements": "2023-12-02T11:04:47.3453096+00:00"
 }

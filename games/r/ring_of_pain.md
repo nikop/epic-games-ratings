@@ -10,17 +10,17 @@ Number of Ratings: 15,086  (23.09.2022)
 | First Steps | 0.60% | ~1,443 |
 | Uncharted Territory | 0.60% | ~1,443 |
 | Not Touching You | 0.60% | ~12 |
-| Getting A Glimpse | 0.50% | ~1,202 |
-| Defeat The Dark | 0.50% | ~1,202 |
-| A Quick Escape | 0.50% | ~1,202 |
-| Explorer | 0.50% | ~1,202 |
-| An Offering | 0.50% | ~1,202 |
+| Getting A Glimpse | 0.50% | ~1,203 |
+| That Was Quick | 0.50% | ~1,203 |
+| Defeat The Dark | 0.50% | ~1,203 |
+| A Quick Escape | 0.50% | ~1,203 |
+| Explorer | 0.50% | ~1,203 |
+| An Offering | 0.50% | ~1,203 |
 | Ambitious Intent | 0.40% | ~962 |
 | Nothing To Lose | 0.40% | ~962 |
 | Heavy Hitter | 0.40% | ~962 |
 | Delving Deeper | 0.40% | ~962 |
 | R.I.P | 0.40% | ~962 |
-| That Was Quick | 0.40% | ~962 |
 | Colorful Corpse | 0.40% | ~962 |
 | Cold Hearted | 0.40% | ~962 |
 | I Am Overburdened | 0.40% | ~962 |
@@ -78,62 +78,62 @@ Number of Ratings: 15,086  (23.09.2022)
 | Sentimental Value | 0.20% | ~481 |
 | Precious | 0.20% | ~481 |
 | Raw Power | 0.20% | ~4 |
-| Quick Descent | 0.10% | ~240 |
-| A Week Attempt | 0.10% | ~240 |
-| Challenge Increases | 0.10% | ~240 |
-| A Long Climb | 0.10% | ~240 |
-| Hydrophobe | 0.10% | ~240 |
-| Disposal | 0.10% | ~240 |
-| Dead Revels | 0.10% | ~240 |
-| Friend of Vermin | 0.10% | ~240 |
-| Hanging On | 0.10% | ~240 |
-| Explosive Betrayal | 0.10% | ~240 |
-| A Hard Carry | 0.10% | ~240 |
-| Grave Digger | 0.10% | ~240 |
-| Soul Stash | 0.10% | ~240 |
-| Powerful Potion | 0.10% | ~240 |
-| For Science | 0.10% | ~240 |
-| Willing the World | 0.10% | ~240 |
-| Gigantic | 0.10% | ~240 |
-| Power Score | 0.10% | ~240 |
-| Predator | 0.10% | ~240 |
-| Here Comes The Airplane | 0.10% | ~240 |
-| Resourceful | 0.10% | ~240 |
-| Become The Nightmare | 0.10% | ~240 |
-| Trail Of Death | 0.10% | ~240 |
-| Blizzard | 0.10% | ~240 |
-| The Boulder | 0.10% | ~240 |
-| Overthrown | 0.10% | ~240 |
-| Poor Choices | 0.10% | ~240 |
-| Not What I Meant | 0.10% | ~240 |
-| A Rock And A Hard Place | 0.10% | ~240 |
-| Illuminate, Annihilate | 0.10% | ~240 |
-| Path To Enlightenment | 0.10% | ~240 |
-| Never Too Many Hats | 0.10% | ~240 |
-| Master of Strategy | 0.10% | ~240 |
-| No Mercy | 0.10% | ~240 |
-| Good Boys | 0.10% | ~240 |
-| Just Looking Around | 0.10% | ~240 |
-| Need An Antidote? | 0.10% | ~240 |
-| Fragile Mortality | 0.10% | ~240 |
-| Sprinter | 0.10% | ~240 |
-| Fire Away! | 0.10% | ~240 |
-| Defuser | 0.10% | ~240 |
-| The Tickler | 0.10% | ~240 |
-| Masochist | 0.10% | ~240 |
-| Minimalist | 0.10% | ~240 |
-| Near Death Experience | 0.10% | ~240 |
-| Champion of the Day | 0.10% | ~240 |
-| Down Under | 0.10% | ~240 |
-| Only The Best | 0.10% | ~240 |
-| Mastermind | 0.10% | ~240 |
-| No Swapsies | 0.10% | ~240 |
-| Ignoring Midgame | 0.10% | ~240 |
-| Quick To Pick | 0.10% | ~240 |
-| Tunnel Vision | 0.10% | ~240 |
-| Martial Master | 0.10% | ~240 |
-| Nudie Run | 0.10% | ~240 |
-| You Call That A Knife? | 0.10% | ~240 |
+| Quick Descent | 0.10% | ~241 |
+| A Week Attempt | 0.10% | ~241 |
+| Challenge Increases | 0.10% | ~241 |
+| A Long Climb | 0.10% | ~241 |
+| Hydrophobe | 0.10% | ~241 |
+| Disposal | 0.10% | ~241 |
+| Dead Revels | 0.10% | ~241 |
+| Friend of Vermin | 0.10% | ~241 |
+| Hanging On | 0.10% | ~241 |
+| Explosive Betrayal | 0.10% | ~241 |
+| A Hard Carry | 0.10% | ~241 |
+| Grave Digger | 0.10% | ~241 |
+| Soul Stash | 0.10% | ~241 |
+| Powerful Potion | 0.10% | ~241 |
+| For Science | 0.10% | ~241 |
+| Willing the World | 0.10% | ~241 |
+| Gigantic | 0.10% | ~241 |
+| Power Score | 0.10% | ~241 |
+| Predator | 0.10% | ~241 |
+| Here Comes The Airplane | 0.10% | ~241 |
+| Resourceful | 0.10% | ~241 |
+| Become The Nightmare | 0.10% | ~241 |
+| Trail Of Death | 0.10% | ~241 |
+| Blizzard | 0.10% | ~241 |
+| The Boulder | 0.10% | ~241 |
+| Overthrown | 0.10% | ~241 |
+| Poor Choices | 0.10% | ~241 |
+| Not What I Meant | 0.10% | ~241 |
+| A Rock And A Hard Place | 0.10% | ~241 |
+| Illuminate, Annihilate | 0.10% | ~241 |
+| Path To Enlightenment | 0.10% | ~241 |
+| Never Too Many Hats | 0.10% | ~241 |
+| Master of Strategy | 0.10% | ~241 |
+| No Mercy | 0.10% | ~241 |
+| Good Boys | 0.10% | ~241 |
+| Just Looking Around | 0.10% | ~241 |
+| Need An Antidote? | 0.10% | ~241 |
+| Fragile Mortality | 0.10% | ~241 |
+| Sprinter | 0.10% | ~241 |
+| Fire Away! | 0.10% | ~241 |
+| Defuser | 0.10% | ~241 |
+| The Tickler | 0.10% | ~241 |
+| Masochist | 0.10% | ~241 |
+| Minimalist | 0.10% | ~241 |
+| Near Death Experience | 0.10% | ~241 |
+| Champion of the Day | 0.10% | ~241 |
+| Down Under | 0.10% | ~241 |
+| Only The Best | 0.10% | ~241 |
+| Mastermind | 0.10% | ~241 |
+| No Swapsies | 0.10% | ~241 |
+| Ignoring Midgame | 0.10% | ~241 |
+| Quick To Pick | 0.10% | ~241 |
+| Tunnel Vision | 0.10% | ~241 |
+| Martial Master | 0.10% | ~241 |
+| Nudie Run | 0.10% | ~241 |
+| You Call That A Knife? | 0.10% | ~241 |
 | Scrounger Appreciation | 0.10% | ~2 |
 | Explosives Expert | 0.10% | ~2 |
 | All Natural | 0.10% | ~2 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,500 (Ranked 63)  
+Progressed: 240,503 (Ranked 63)  
 Completed: 291 (0.12%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -371,7 +371,7 @@ Completed: 291 (0.12%) (Ranked 280)
 | 2023-11-29 | 240,403 | 291 |
 | 2023-11-30 | 240,445 | 291 |
 | 2023-12-01 | 240,480 | 291 |
-| 2023-12-02 | 240,500 | 291 |
+| 2023-12-02 | 240,503 | 291 |
 ## Awards
 Max (Great for Beginners): 1,534  (Ranked 132)  
 Sum: 13,240 (Ranked 78)  

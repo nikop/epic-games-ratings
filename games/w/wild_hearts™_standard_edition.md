@@ -16,7 +16,7 @@
 | Memory Rouser | 63.00% | ~221 |
 | Kemono Hunter | 58.00% | ~204 |
 | Expert Conjuror | 56.00% | ~197 |
-| Flawless Crystal | 53.00% | ~186 |
+| Flawless Crystal | 54.00% | ~190 |
 | Bonds of Enmity | 53.00% | ~186 |
 | Helpful Heart | 53.00% | ~186 |
 | Distance Devourer | 52.00% | ~183 |
@@ -28,7 +28,7 @@
 | Snare Specialist | 39.00% | ~137 |
 | Single Minded | 38.00% | ~133 |
 | Kemono at Heart | 38.00% | ~133 |
-| Artful Assister | 36.00% | ~126 |
+| Artful Assister | 37.00% | ~130 |
 | Karakuri Trail | 35.00% | ~123 |
 | Team Hunter | 34.00% | ~119 |
 | Karakuri Isle | 32.00% | ~112 |

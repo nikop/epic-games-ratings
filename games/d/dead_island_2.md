@@ -5,16 +5,16 @@ Rating: 4.54 (Ranked 530)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,632 |
-| Pork Chopped | 3.00% | ~1,632 |
-| Git Gutte! | 2.00% | ~14,577 |
-| Break A Leg | 2.00% | ~14,577 |
-| Coup de Grâce | 2.00% | ~14,577 |
-| Hazardous Materials | 2.00% | ~14,577 |
-| Hotel California | 2.00% | ~14,577 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,577 |
-| Welcome To Hell-A | 2.00% | ~14,577 |
-| One of Us | 2.00% | ~1,088 |
+| Whatever It Takes | 3.00% | ~1,633 |
+| Pork Chopped | 3.00% | ~1,633 |
+| Git Gutte! | 2.00% | ~14,578 |
+| Break A Leg | 2.00% | ~14,578 |
+| Coup de Grâce | 2.00% | ~14,578 |
+| Hazardous Materials | 2.00% | ~14,578 |
+| Hotel California | 2.00% | ~14,578 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,578 |
+| Welcome To Hell-A | 2.00% | ~14,578 |
+| One of Us | 2.00% | ~1,089 |
 | Dr. Reed, I Presume? | 1.00% | ~7,289 |
 | Anger Management | 1.00% | ~7,289 |
 | Perks of the Job | 1.00% | ~7,289 |
@@ -46,8 +46,8 @@ Rating: 4.54 (Ranked 530)
 | Smorgasbord | 0.50% | ~3,644 |
 | Internet Famous | 0.50% | ~3,644 |
 | Variety is the Spice of Death | 0.50% | ~3,644 |
-| LA Influential | 0.40% | ~2,915 |
-| Gore Horse | 0.40% | ~2,915 |
+| LA Influential | 0.40% | ~2,916 |
+| Gore Horse | 0.40% | ~2,916 |
 | Top That, Tisha! | 0.40% | ~218 |
 | Sole Survivor | 0.30% | ~2,187 |
 | Sharpest Tool in the Box | 0.30% | ~2,187 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 530)
 | Bucket List | 0.10% | ~729 |
 | Wilhelm | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,862 (Ranked 21)  
+Progressed: 728,888 (Ranked 21)  
 Completed: 2,459 (0.34%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,14 +283,14 @@ Completed: 2,459 (0.34%) (Ranked 233)
 | 2023-11-29 | 727,809 | 2,450 |
 | 2023-11-30 | 728,231 | 2,456 |
 | 2023-12-01 | 728,667 | 2,459 |
-| 2023-12-02 | 728,862 | 2,459 |
+| 2023-12-02 | 728,888 | 2,459 |
 ## Awards
-Max (Great Boss Battles): 7,845  (Ranked 49)  
-Sum: 12,035 (Ranked 83)  
+Max (Great Boss Battles): 7,869  (Ranked 49)  
+Sum: 12,059 (Ranked 83)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,845 |
+| This game has Great Boss Battles | 7,869 |
 | This game is Great for Beginners | 609 |
 | This game has Diverse Characters | 576 |
 | This game has Quickly Understood Controls | 543 |
@@ -527,4 +527,4 @@ Diff (max vs sum): -34
 | 2023-11-29 | 4.54 | 7,803 | 11,961 |
 | 2023-11-30 | 4.54 | 7,821 | 11,987 |
 | 2023-12-01 | 4.54 | 7,845 | 12,026 |
-| 2023-12-02 | 4.54 | 7,845 | 12,035 |
+| 2023-12-02 | 4.54 | 7,869 | 12,059 |

@@ -9,8 +9,8 @@
 | The great escape | 31.00% | ~260 |
 | The Preacher's fate | 30.00% | ~252 |
 | A new dawn | 26.00% | ~218 |
-| Scholar | 23.00% | ~193 |
-| A good beginning | 22.00% | ~185 |
+| Scholar | 24.00% | ~202 |
+| A good beginning | 23.00% | ~193 |
 | True G3M4R | 22.00% | ~185 |
 | The darkness | 22.00% | ~185 |
 | One last step | 21.00% | ~176 |
