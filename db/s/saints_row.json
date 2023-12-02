@@ -4155,9 +4155,9 @@
       "Count": 1079
     }
   ],
-  "EOS_Progressed": 81012,
+  "EOS_Progressed": 81013,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 948,
+  "EOS_NewPlayers": 935,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -29830,6 +29830,11 @@
       "Time": "2023-12-02T19:09:11.7084913+00:00",
       "NumProgressed": 81012,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-12-02T21:09:40.3324126+00:00",
+      "NumProgressed": 81013,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 53,
@@ -29969,7 +29974,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 29974
+      "UsersEstimate": 29975
     },
     {
       "ID": "cutting_edge_materials",
@@ -30033,7 +30038,7 @@
       "Name": "Masters of Santo Ileso",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 9721
+      "UsersEstimate": 9722
     },
     {
       "ID": "empire_tier_5",
@@ -30089,7 +30094,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 29164
+      "UsersEstimate": 29165
     },
     {
       "ID": "hit_max_level",
@@ -30113,7 +30118,7 @@
       "Name": "Picking Fights",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16202
+      "UsersEstimate": 16203
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -30121,7 +30126,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 22683
+      "UsersEstimate": 22684
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -30137,7 +30142,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 28354
+      "UsersEstimate": 28355
     },
     {
       "ID": "one_third_purple",
@@ -30185,7 +30190,7 @@
       "Name": "Tourist",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 3240
+      "UsersEstimate": 3241
     },
     {
       "ID": "staggered_by_vending_machine",
@@ -30193,7 +30198,7 @@
       "Name": "Food for Thought",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 21873
+      "UsersEstimate": 21874
     },
     {
       "ID": "two_thirds_purple",
@@ -30241,7 +30246,7 @@
       "Name": "Producer Credit",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 3685
+      "UsersEstimate": 3686
     },
     {
       "ID": "bfhj_complete_mission_2_collectible",
@@ -30264,13 +30269,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 81012,
+      "Progressed": 81013,
       "Completed": 54
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 52649,
+      "Progressed": 52650,
       "Completed": 4421
     }
   ],
@@ -30278,8 +30283,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-12-01T16:03:20.0503529+00:00",
-  "LastChanged_Achievements": "2023-12-02T20:11:11.4164586+00:00",
+  "LastChanged_Achievements": "2023-12-02T21:09:40.3324124+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:12.0685781+00:00",
-  "LastUpdate_Ratings": "2023-12-02T20:04:27.7017217+00:00",
-  "LastUpdate_Achievements": "2023-12-02T20:11:11.4166181+00:00"
+  "LastUpdate_Ratings": "2023-12-02T21:03:41.720571+00:00",
+  "LastUpdate_Achievements": "2023-12-02T21:09:40.3325429+00:00"
 }

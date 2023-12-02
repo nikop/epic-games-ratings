@@ -6,30 +6,30 @@ Number of Ratings: 3,181  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Is It Really Necessary? | 91.00% | ~3,718,466 |
-| Little Craftsman | 89.00% | ~3,636,741 |
-| Flight of the Crane | 86.00% | ~3,514,154 |
-| My left or your left? | 52.00% | ~2,124,838 |
-| Prom Night | 45.00% | ~1,838,802 |
-| Can't Touch This | 38.00% | ~1,552,766 |
-| Mouths Wide Open | 38.00% | ~1,552,766 |
-| I've Got Your Back | 37.00% | ~1,511,904 |
-| Open Sesame | 36.00% | ~1,471,041 |
-| Strong | 36.00% | ~1,471,041 |
-| Harran Shooting Club | 33.00% | ~1,348,455 |
-| Snake in the grass | 31.00% | ~1,266,730 |
-| Everybody Knows Kyle | 31.00% | ~1,266,730 |
-| Agile | 31.00% | ~1,266,730 |
-| Trade Company | 30.00% | ~1,225,868 |
+| Is It Really Necessary? | 91.00% | ~3,718,468 |
+| Little Craftsman | 89.00% | ~3,636,744 |
+| Flight of the Crane | 86.00% | ~3,514,157 |
+| My left or your left? | 52.00% | ~2,124,839 |
+| Prom Night | 45.00% | ~1,838,803 |
+| Can't Touch This | 38.00% | ~1,552,767 |
+| Mouths Wide Open | 38.00% | ~1,552,767 |
+| I've Got Your Back | 37.00% | ~1,511,905 |
+| Open Sesame | 36.00% | ~1,471,042 |
+| Strong | 36.00% | ~1,471,042 |
+| Harran Shooting Club | 33.00% | ~1,348,456 |
+| Snake in the grass | 31.00% | ~1,266,731 |
+| Everybody Knows Kyle | 31.00% | ~1,266,731 |
+| Agile | 31.00% | ~1,266,731 |
+| Trade Company | 30.00% | ~1,225,869 |
 | Sightseeing | 29.00% | ~1,185,006 |
-| Hush, Hush Now | 25.00% | ~1,021,556 |
-| Making Faces | 25.00% | ~1,021,556 |
-| Tied loose end | 24.00% | ~980,694 |
+| Hush, Hush Now | 25.00% | ~1,021,557 |
+| Making Faces | 25.00% | ~1,021,557 |
+| Tied loose end | 24.00% | ~980,695 |
 | Now You Can Come In | 22.00% | ~898,970 |
 | Vertigo | 22.00% | ~898,970 |
-| The Legend of Harran | 20.00% | ~817,245 |
-| Bittersweet | 19.00% | ~776,383 |
-| Pheidippides | 17.00% | ~694,658 |
+| The Legend of Harran | 20.00% | ~817,246 |
+| Bittersweet | 19.00% | ~776,384 |
+| Pheidippides | 17.00% | ~694,659 |
 | Everybody Dance Now | 14.00% | ~572,072 |
 | Afraid to get wet? | 14.00% | ~572,072 |
 | BBQ | 11.00% | ~449,485 |
@@ -85,7 +85,7 @@ Number of Ratings: 3,181  (23.09.2022)
 | Fast as hell | 0.10% | ~4,086 |
 | Into the lava | 0.10% | ~4,086 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,086,226 (Ranked 3)  
+Progressed: 4,086,229 (Ranked 3)  
 Completed: 49 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 49 (0.00%) (Ranked 365)
 | 2023-11-29 | 4,082,148 | 49 |
 | 2023-11-30 | 4,083,338 | 49 |
 | 2023-12-01 | 4,084,651 | 49 |
-| 2023-12-02 | 4,086,226 | 49 |
+| 2023-12-02 | 4,086,229 | 49 |
 ## Awards
 Max (Character Customization): 50,013  (Ranked 12)  
 Sum: 95,805 (Ranked 18)  

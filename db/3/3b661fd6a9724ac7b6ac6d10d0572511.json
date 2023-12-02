@@ -7705,9 +7705,9 @@
       "Count": 1380
     }
   ],
-  "EOS_Progressed": 1791128,
+  "EOS_Progressed": 1791130,
   "EOS_Completed": 716,
-  "EOS_NewPlayers": 6239,
+  "EOS_NewPlayers": 6168,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -28550,6 +28550,11 @@
       "Time": "2023-12-02T20:11:52.4390468+00:00",
       "NumProgressed": 1791128,
       "NumCompleted": 716
+    },
+    {
+      "Time": "2023-12-02T21:10:22.9689984+00:00",
+      "NumProgressed": 1791130,
+      "NumCompleted": 716
     }
   ],
   "TotalAchievements": 1328,
@@ -36623,9 +36628,9 @@
       "ID": "trk_bb_2",
       "SetID": "bkjdbk8",
       "Name": "Just Like in the Movies",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 3582
+      "UsersEstimate": 5373
     },
     {
       "ID": "trk_bb_3",
@@ -39184,13 +39189,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1791128,
+      "Progressed": 1791130,
       "Completed": 716
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1791128,
+      "Progressed": 1791130,
       "Completed": 115
     }
   ],
@@ -39198,8 +39203,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-12-02T16:59:37.8485333+00:00",
-  "LastChanged_Achievements": "2023-12-02T20:11:52.4390465+00:00",
+  "LastChanged_Achievements": "2023-12-02T21:10:22.9689982+00:00",
   "LastUpdate_AppInfo": "2023-12-01T05:57:06.1515486+00:00",
-  "LastUpdate_Ratings": "2023-12-02T19:59:50.404165+00:00",
-  "LastUpdate_Achievements": "2023-12-02T20:11:52.4514233+00:00"
+  "LastUpdate_Ratings": "2023-12-02T20:59:07.3020519+00:00",
+  "LastUpdate_Achievements": "2023-12-02T21:10:22.9809892+00:00"
 }

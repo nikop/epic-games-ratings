@@ -5,18 +5,18 @@ Rating: 4.41 (Ranked 727)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 63.00% | ~196,796 |
-| Destroyer-In-Chief | 56.00% | ~174,929 |
-| There Is No Pancakes | 53.00% | ~165,558 |
-| First of Many | 41.00% | ~128,073 |
+| Zero Saints Thirty | 63.00% | ~196,797 |
+| Destroyer-In-Chief | 56.00% | ~174,931 |
+| There Is No Pancakes | 53.00% | ~165,559 |
+| First of Many | 41.00% | ~128,074 |
 | Woah. | 36.00% | ~112,455 |
-| Don't Look Down | 29.00% | ~90,588 |
-| Don't Panic | 27.00% | ~84,341 |
-| Ooo A Piece of Candy! | 22.00% | ~68,722 |
+| Don't Look Down | 29.00% | ~90,589 |
+| Don't Panic | 27.00% | ~84,342 |
+| Ooo A Piece of Candy! | 22.00% | ~68,723 |
 | Ghost in the Machine | 17.00% | ~53,104 |
 | All Too Easy | 15.00% | ~46,856 |
 | Didn't Need to See Him Naked | 13.00% | ~40,609 |
-| Indomitable | 10.00% | ~31,237 |
+| Indomitable | 10.00% | ~31,238 |
 | Bow to the Boss! | 9.00% | ~28,114 |
 | Friend of the Raptors | 9.00% | ~28,114 |
 | About Time! | 8.00% | ~24,990 |
@@ -24,9 +24,9 @@ Rating: 4.41 (Ranked 727)
 | Actor-Turned-Politician | 7.00% | ~21,866 |
 | Betrayed | 7.00% | ~21,866 |
 | Maximum Stopping Power | 7.00% | ~21,866 |
-| Keymaster | 6.00% | ~18,742 |
-| Poodle Skirt | 6.00% | ~18,742 |
-| You Chose... Poorly | 6.00% | ~18,742 |
+| Keymaster | 6.00% | ~18,743 |
+| Poodle Skirt | 6.00% | ~18,743 |
+| You Chose... Poorly | 6.00% | ~18,743 |
 | Double Team | 5.00% | ~15,619 |
 | Imperator | 5.00% | ~15,619 |
 | *BEEP* YOU, CLAWZ! | 4.00% | ~12,495 |
@@ -42,13 +42,13 @@ Rating: 4.41 (Ranked 727)
 | Paranormal Bromance | 3.00% | ~9,371 |
 | Saints & Sensibility | 3.00% | ~9,371 |
 | The Two Shaundis | 3.00% | ~9,371 |
-| Benjamin [CENSORED] King | 2.00% | ~6,247 |
-| Better This Way | 2.00% | ~6,247 |
-| Bouncin' with an Old Friend | 2.00% | ~6,247 |
-| Our Gift to You | 2.00% | ~6,247 |
-| The Face of the Saints | 2.00% | ~6,247 |
-| The Twin Saints | 2.00% | ~6,247 |
-| Where's My Cape? | 2.00% | ~6,247 |
+| Benjamin [CENSORED] King | 2.00% | ~6,248 |
+| Better This Way | 2.00% | ~6,248 |
+| Bouncin' with an Old Friend | 2.00% | ~6,248 |
+| Our Gift to You | 2.00% | ~6,248 |
+| The Face of the Saints | 2.00% | ~6,248 |
+| The Twin Saints | 2.00% | ~6,248 |
+| Where's My Cape? | 2.00% | ~6,248 |
 | A Real Cluster.... | 1.00% | ~3,124 |
 | A Very Genki Holiday | 1.00% | ~3,124 |
 | Here! Catch! | 1.00% | ~3,124 |
@@ -61,8 +61,8 @@ Rating: 4.41 (Ranked 727)
 | Rigging the Race | 0.70% | ~2,187 |
 | Back in the Day | 0.60% | ~1,874 |
 | Health Inspector | 0.50% | ~1,562 |
-| Bringin' the Heat | 0.40% | ~1,249 |
-| Walking the Dinosaur | 0.40% | ~1,249 |
+| Bringin' the Heat | 0.40% | ~1,250 |
+| Walking the Dinosaur | 0.40% | ~1,250 |
 | Experimental Tech | 0.30% | ~937 |
 | Fist Meet Ground | 0.30% | ~937 |
 | Fourth and Forty | 0.30% | ~937 |
@@ -78,7 +78,7 @@ Rating: 4.41 (Ranked 727)
 | Super Power Team Up! | 0.10% | ~312 |
 | Ultimate Hot Potato | 0.10% | ~312 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 312,374 (Ranked 53)  
+Progressed: 312,376 (Ranked 53)  
 Completed: 17 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 17 (0.01%) (Ranked 344)
 | 2023-11-29 | 310,778 | 17 |
 | 2023-11-30 | 311,252 | 17 |
 | 2023-12-01 | 311,822 | 17 |
-| 2023-12-02 | 312,374 | 17 |
+| 2023-12-02 | 312,376 | 17 |
 ## Awards
 Max (Great Boss Battles): 495  (Ranked 213)  
 Sum: 495 (Ranked 327)  

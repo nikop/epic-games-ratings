@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 515,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.94,
   "EosHistory": [
@@ -1410,9 +1410,9 @@
       "ID": "ach_main05evil_completed",
       "SetID": "4hg22ll",
       "Name": "Bad Elves Go Everywhere",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 350
     },
     {
       "ID": "ach_main05evil_thalyalevel",
@@ -1738,9 +1738,9 @@
       "ID": "ach_main18unholy_researches",
       "SetID": "4hg22ll",
       "Name": "To the Max!",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 57
     },
     {
       "ID": "ach_main18unholy_training",
@@ -1809,8 +1809,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-02T20:10:40.5713866+00:00",
+  "LastChanged_Achievements": "2023-12-02T21:09:09.9370578+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:15.3424787+00:00",
-  "LastUpdate_Ratings": "2023-12-02T19:59:31.6033708+00:00",
-  "LastUpdate_Achievements": "2023-12-02T20:10:40.5714296+00:00"
+  "LastUpdate_Ratings": "2023-12-02T20:58:49.656813+00:00",
+  "LastUpdate_Achievements": "2023-12-02T21:09:09.9370992+00:00"
 }

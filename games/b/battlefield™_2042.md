@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adapt and Overcome | 100.00% | ~84,166 |
-| Foot Soldier | 91.00% | ~76,591 |
-| Making Dunn Proud | 90.00% | ~75,749 |
-| Good Company | 87.00% | ~73,224 |
-| Showoff | 84.00% | ~70,699 |
-| Luck of the Irish | 78.00% | ~65,649 |
-| Squad Wiper | 77.00% | ~64,808 |
-| Burnout | 74.00% | ~62,283 |
-| War machine | 68.00% | ~57,233 |
-| Deadshot | 65.00% | ~54,708 |
-| Thank you, Santa | 64.00% | ~53,866 |
+| Adapt and Overcome | 100.00% | ~84,167 |
+| Foot Soldier | 91.00% | ~76,592 |
+| Making Dunn Proud | 90.00% | ~75,750 |
+| Good Company | 87.00% | ~73,225 |
+| Showoff | 84.00% | ~70,700 |
+| Luck of the Irish | 78.00% | ~65,650 |
+| Squad Wiper | 77.00% | ~64,809 |
+| Burnout | 74.00% | ~62,284 |
+| War machine | 68.00% | ~57,234 |
+| Deadshot | 65.00% | ~54,709 |
+| Thank you, Santa | 64.00% | ~53,867 |
 | The Winner Takes It All | 57.00% | ~47,975 |
-| No-one gets left behind | 56.00% | ~47,133 |
+| No-one gets left behind | 56.00% | ~47,134 |
 | Going Places | 54.00% | ~45,450 |
 | Dead in their tracks! | 54.00% | ~45,450 |
 | Wrecking Crew | 48.00% | ~40,400 |
 | I'm Five by Five, B | 38.00% | ~31,983 |
-| Command and Conquest | 34.00% | ~28,616 |
+| Command and Conquest | 34.00% | ~28,617 |
 | A bird?  A plane? | 18.00% | ~15,150 |
 | One Careful Owner | 17.00% | ~14,308 |
 | Happy birthday | 15.00% | ~12,625 |
@@ -39,7 +39,7 @@
 | Pack Rat | 0.40% | ~337 |
 | Escape Artist | 0.10% | ~84 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 84,166 (Ranked 95)  
+Progressed: 84,167 (Ranked 95)  
 Completed: 4 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 4 (0.00%) (Ranked 365)
 | 2023-11-29 | 82,869 | 4 |
 | 2023-11-30 | 83,258 | 4 |
 | 2023-12-01 | 83,676 | 4 |
-| 2023-12-02 | 84,166 | 4 |
+| 2023-12-02 | 84,167 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

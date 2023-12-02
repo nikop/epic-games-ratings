@@ -42,6 +42,7 @@
 | The Krogan | 35.00% | ~519 |
 | Colony Defense | 34.00% | ~504 |
 | Broke, Blind, and Bedlam | 34.00% | ~504 |
+| Galactic Explorer | 33.00% | ~489 |
 | Shopaholic | 33.00% | ~489 |
 | A Personal Touch | 32.00% | ~474 |
 | Ghost Ship | 32.00% | ~474 |
@@ -51,7 +52,6 @@
 | Battlemaster | 32.00% | ~474 |
 | The Cure | 32.00% | ~474 |
 | The Prodigal | 32.00% | ~474 |
-| Galactic Explorer | 32.00% | ~474 |
 | Driven | 32.00% | ~474 |
 | Completionist | 31.00% | ~459 |
 | Catharsis | 31.00% | ~459 |

@@ -871,9 +871,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3799,
+  "EOS_Progressed": 3800,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6451,6 +6451,11 @@
       "Time": "2023-12-02T19:04:28.319069+00:00",
       "NumProgressed": 3799,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T21:04:42.5615236+00:00",
+      "NumProgressed": 3800,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -6471,7 +6476,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 2089
+      "UsersEstimate": 2090
     },
     {
       "ID": "achievement_11",
@@ -6495,7 +6500,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2014
     },
     {
       "ID": "achievement_14",
@@ -6509,9 +6514,9 @@
       "ID": "achievement_15",
       "SetID": "c8fif6p",
       "Name": "MVP",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2052
     },
     {
       "ID": "achievement_16",
@@ -6630,7 +6635,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3799,
+      "Progressed": 3800,
       "Completed": 0
     }
   ],
@@ -6638,8 +6643,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-11-30T00:00:12.6571835+00:00",
-  "LastChanged_Achievements": "2023-12-02T20:05:28.3111245+00:00",
+  "LastChanged_Achievements": "2023-12-02T21:04:42.561523+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.624471+00:00",
-  "LastUpdate_Ratings": "2023-12-02T20:04:11.6765435+00:00",
-  "LastUpdate_Achievements": "2023-12-02T20:05:28.3111551+00:00"
+  "LastUpdate_Ratings": "2023-12-02T21:03:27.4522667+00:00",
+  "LastUpdate_Achievements": "2023-12-02T21:04:42.5615757+00:00"
 }

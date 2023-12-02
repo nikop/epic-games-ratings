@@ -4987,9 +4987,9 @@
       "ID": "achievement_69",
       "SetID": "d252ncf",
       "Name": "Galactic Explorer",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 75,
-      "UsersEstimate": 474
+      "UsersEstimate": 489
     },
     {
       "ID": "achievement_7",
@@ -5271,8 +5271,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-02T20:11:06.9600457+00:00",
+  "LastChanged_Achievements": "2023-12-02T21:09:35.7460786+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:10.3433357+00:00",
-  "LastUpdate_Ratings": "2023-12-02T20:04:25.0570637+00:00",
-  "LastUpdate_Achievements": "2023-12-02T20:11:06.9601985+00:00"
+  "LastUpdate_Ratings": "2023-12-02T21:03:39.2921424+00:00",
+  "LastUpdate_Achievements": "2023-12-02T21:09:35.7462266+00:00"
 }

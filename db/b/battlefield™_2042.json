@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84166,
+  "EOS_Progressed": 84167,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 3324,
+  "EOS_NewPlayers": 3299,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8627,6 +8627,11 @@
       "Time": "2023-12-02T20:10:05.6890255+00:00",
       "NumProgressed": 84166,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-02T21:08:35.6097981+00:00",
+      "NumProgressed": 84167,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-20T19:08:07.8580208+00:00",
@@ -8639,7 +8644,7 @@
       "Name": "Adapt and Overcome",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 84166
+      "UsersEstimate": 84167
     },
     {
       "ID": "achievement_10",
@@ -8727,7 +8732,7 @@
       "Name": "Making Dunn Proud",
       "Percentage": 90,
       "XP": 35,
-      "UsersEstimate": 75749
+      "UsersEstimate": 75750
     },
     {
       "ID": "achievement_20",
@@ -8735,7 +8740,7 @@
       "Name": "Squad Wiper",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 64808
+      "UsersEstimate": 64809
     },
     {
       "ID": "achievement_21",
@@ -8743,7 +8748,7 @@
       "Name": "War machine",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 57233
+      "UsersEstimate": 57234
     },
     {
       "ID": "achievement_22",
@@ -8775,7 +8780,7 @@
       "Name": "No-one gets left behind",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 47133
+      "UsersEstimate": 47134
     },
     {
       "ID": "achievement_26",
@@ -8783,7 +8788,7 @@
       "Name": "Thank you, Santa",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 53866
+      "UsersEstimate": 53867
     },
     {
       "ID": "achievement_27",
@@ -8799,7 +8804,7 @@
       "Name": "Foot Soldier",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 76591
+      "UsersEstimate": 76592
     },
     {
       "ID": "achievement_29",
@@ -8815,7 +8820,7 @@
       "Name": "Luck of the Irish",
       "Percentage": 78,
       "XP": 80,
-      "UsersEstimate": 65649
+      "UsersEstimate": 65650
     },
     {
       "ID": "achievement_30",
@@ -8823,7 +8828,7 @@
       "Name": "Deadshot",
       "Percentage": 65,
       "XP": 45,
-      "UsersEstimate": 54708
+      "UsersEstimate": 54709
     },
     {
       "ID": "achievement_31",
@@ -8839,7 +8844,7 @@
       "Name": "Good Company",
       "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 73224
+      "UsersEstimate": 73225
     },
     {
       "ID": "achievement_33",
@@ -8847,7 +8852,7 @@
       "Name": "Showoff",
       "Percentage": 84,
       "XP": 35,
-      "UsersEstimate": 70699
+      "UsersEstimate": 70700
     },
     {
       "ID": "achievement_34",
@@ -8855,7 +8860,7 @@
       "Name": "Burnout",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 62283
+      "UsersEstimate": 62284
     },
     {
       "ID": "achievement_4",
@@ -8871,7 +8876,7 @@
       "Name": "Command and Conquest",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28616
+      "UsersEstimate": 28617
     },
     {
       "ID": "achievement_6",
@@ -8910,7 +8915,7 @@
     {
       "ID": "6l7mn2m",
       "IsBase": true,
-      "Progressed": 84166,
+      "Progressed": 84167,
       "Completed": 4
     }
   ],
@@ -8918,8 +8923,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.4915207+00:00",
   "FirstSeenAchievements": "2023-07-26T19:04:03.7783313+00:00",
   "LastChanged": "2023-03-31T05:58:10.4915208+00:00",
-  "LastChanged_Achievements": "2023-12-02T20:10:05.6890252+00:00",
+  "LastChanged_Achievements": "2023-12-02T21:08:35.6097978+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:21.8743575+00:00",
-  "LastUpdate_Ratings": "2023-12-02T19:58:26.1349426+00:00",
-  "LastUpdate_Achievements": "2023-12-02T20:10:05.6890863+00:00"
+  "LastUpdate_Ratings": "2023-12-02T20:58:09.8144166+00:00",
+  "LastUpdate_Achievements": "2023-12-02T21:08:35.6098573+00:00"
 }

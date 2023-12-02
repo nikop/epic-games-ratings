@@ -201,6 +201,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Punic Wars | 0.20% | ~31 |
 | Pantheon in Roma | 0.20% | ~31 |
 | Word of God | 0.20% | ~31 |
+| Role-Playing | 0.20% | ~31 |
 | Hypatia the Teacher | 0.20% | ~31 |
 | Kmt Golden Age | 0.20% | ~31 |
 | Glory to The Aten | 0.20% | ~31 |
@@ -294,7 +295,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Characters | 0.10% | ~16 |
 | One City Challenge | 0.10% | ~16 |
 | Randomized Families | 0.10% | ~16 |
-| Role-Playing | 0.10% | ~16 |
 | Time Victory | 0.10% | ~16 |
 | Win a 1-v-1 Game | 0.10% | ~16 |
 | Win a Free-For-All Game (>2 Players) | 0.10% | ~16 |

@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 495,
+  "EOS_Progressed": 496,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1557,6 +1557,11 @@
       "Time": "2023-12-02T20:10:15.784726+00:00",
       "NumProgressed": 495,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T21:08:45.4985848+00:00",
+      "NumProgressed": 496,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1568,7 +1573,7 @@
       "Name": "Travel Streamer",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1656,7 +1661,7 @@
       "Name": "Training Simulation",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1664,15 +1669,15 @@
       "Name": "Cave Master",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACHIEVEMENT_21",
       "SetID": "7pimpda",
       "Name": "Face Slapper",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -1680,7 +1685,7 @@
       "Name": "Beginner Cook",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -1694,9 +1699,9 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "7pimpda",
       "Name": "Arms Mechanic",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 223
+      "UsersEstimate": 228
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -1704,7 +1709,7 @@
       "Name": "Beginner Artificer",
       "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -1824,7 +1829,7 @@
       "Name": "Storm Traveller",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -1888,7 +1893,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -1904,15 +1909,15 @@
       "Name": "Apostle of Flame",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACHIEVEMENT_8",
       "SetID": "7pimpda",
       "Name": "Seal Breaker",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 153
+      "UsersEstimate": 149
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -1927,7 +1932,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 495,
+      "Progressed": 496,
       "Completed": 1
     }
   ],
@@ -1935,8 +1940,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-02T20:10:15.7847257+00:00",
+  "LastChanged_Achievements": "2023-12-02T21:08:45.4985846+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-12-02T20:03:42.1957238+00:00",
-  "LastUpdate_Achievements": "2023-12-02T20:10:15.7847642+00:00"
+  "LastUpdate_Ratings": "2023-12-02T21:02:31.2398857+00:00",
+  "LastUpdate_Achievements": "2023-12-02T21:08:45.4986156+00:00"
 }

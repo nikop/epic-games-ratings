@@ -4,7 +4,7 @@
   "ProductSlug": "enypnion-redreamed-72fe8e",
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewPlayers": 499,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-31T15:00:00+00:00",
@@ -128,8 +128,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-29T17:03:20.6901819+00:00",
-  "LastChanged_Achievements": "2023-12-02T20:08:37.6463973+00:00",
+  "LastChanged_Achievements": "2023-12-02T21:06:39.3371151+00:00",
   "LastUpdate_AppInfo": "2023-11-26T18:57:07.622466+00:00",
-  "LastUpdate_Ratings": "2023-12-02T20:04:17.6402778+00:00",
-  "LastUpdate_Achievements": "2023-12-02T20:08:37.646429+00:00"
+  "LastUpdate_Ratings": "2023-12-02T21:03:32.9626005+00:00",
+  "LastUpdate_Achievements": "2023-12-02T21:06:39.337124+00:00"
 }

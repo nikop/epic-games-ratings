@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 24884,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 4978,
+  "EOS_NewPlayers": 4917,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3505,9 +3505,9 @@
       "ID": "LOOT_BUDDYBOT",
       "SetID": "af18nmg",
       "Name": "My Little Buddy",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 10700
+      "UsersEstimate": 10949
     },
     {
       "ID": "LOOT_SHOVEL",
@@ -3704,8 +3704,8 @@
   ],
   "FirstSeen": "2023-11-08T13:02:45.7128844+00:00",
   "FirstSeenAchievements": "2023-10-19T14:04:35.320246+00:00",
-  "LastChanged_Achievements": "2023-12-02T20:04:40.1981318+00:00",
+  "LastChanged_Achievements": "2023-12-02T21:03:55.1636226+00:00",
   "LastUpdate_AppInfo": "2023-11-27T19:57:22.4587904+00:00",
-  "LastUpdate_Ratings": "2023-12-02T19:59:35.1179468+00:00",
-  "LastUpdate_Achievements": "2023-12-02T20:04:40.1982016+00:00"
+  "LastUpdate_Ratings": "2023-12-02T20:58:53.07411+00:00",
+  "LastUpdate_Achievements": "2023-12-02T21:03:55.1637047+00:00"
 }

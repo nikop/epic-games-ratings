@@ -1131,9 +1131,9 @@
       "Count": 78
     }
   ],
-  "EOS_Progressed": 461909,
+  "EOS_Progressed": 461912,
   "EOS_Completed": 156,
-  "EOS_NewPlayers": 13607,
+  "EOS_NewPlayers": 13493,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5931,6 +5931,11 @@
       "Time": "2023-12-02T20:05:59.4059988+00:00",
       "NumProgressed": 461909,
       "NumCompleted": 156
+    },
+    {
+      "Time": "2023-12-02T21:05:13.721568+00:00",
+      "NumProgressed": 461912,
+      "NumCompleted": 156
     }
   ],
   "AchievementsAdded": "2023-08-02T16:01:14.4921824+00:00",
@@ -5975,7 +5980,7 @@
       "Name": "Welcome to Union",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 267907
+      "UsersEstimate": 267909
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -5991,7 +5996,7 @@
       "Name": "Not Running This Time",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 101620
+      "UsersEstimate": 101621
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -5999,7 +6004,7 @@
       "Name": "The Team Psychologist",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 97001
+      "UsersEstimate": 97002
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -6023,7 +6028,7 @@
       "Name": "Crossing to the Other Side",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 73905
+      "UsersEstimate": 73906
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -6031,7 +6036,7 @@
       "Name": "Spiritual Awakening",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 69286
+      "UsersEstimate": 69287
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -6039,7 +6044,7 @@
       "Name": "Fire Walk With Me",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 64667
+      "UsersEstimate": 64668
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -6047,7 +6052,7 @@
       "Name": "Overcome the Past",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 60048
+      "UsersEstimate": 60049
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -6071,7 +6076,7 @@
       "Name": "Backup Ain\u0027t Coming",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 101620
+      "UsersEstimate": 101621
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -6095,7 +6100,7 @@
       "Name": "You Got Red in You",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 106239
+      "UsersEstimate": 106240
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -6143,7 +6148,7 @@
       "Name": "DIY",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 217097
+      "UsersEstimate": 217099
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -6199,7 +6204,7 @@
       "Name": "Good to See You Again",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 170906
+      "UsersEstimate": 170907
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -6239,7 +6244,7 @@
       "Name": "Thinning Them Out",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 147811
+      "UsersEstimate": 147812
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -6247,7 +6252,7 @@
       "Name": "Clearing a Path",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 115477
+      "UsersEstimate": 115478
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -6327,7 +6332,7 @@
       "Name": "Melancholy Memories",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23095
+      "UsersEstimate": 23096
     },
     {
       "ID": "ACHIEVEMENT_50",
@@ -6350,7 +6355,7 @@
     {
       "ID": "b36c5kb",
       "IsBase": true,
-      "Progressed": 461909,
+      "Progressed": 461912,
       "Completed": 156
     }
   ],
@@ -6358,8 +6363,8 @@
   "FirstSeenRating": "2023-10-27T14:01:02.8840364+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
   "LastChanged": "2023-12-02T11:58:34.7432938+00:00",
-  "LastChanged_Achievements": "2023-12-02T20:05:59.4059981+00:00",
+  "LastChanged_Achievements": "2023-12-02T21:05:13.7215677+00:00",
   "LastUpdate_AppInfo": "2023-11-30T02:19:26.6495214+00:00",
-  "LastUpdate_Ratings": "2023-12-02T19:59:34.1153276+00:00",
-  "LastUpdate_Achievements": "2023-12-02T20:05:59.4060508+00:00"
+  "LastUpdate_Ratings": "2023-12-02T20:58:52.0588373+00:00",
+  "LastUpdate_Achievements": "2023-12-02T21:05:13.7216276+00:00"
 }

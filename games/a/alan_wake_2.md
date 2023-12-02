@@ -73,7 +73,7 @@ Rating: 4.78 (Ranked 106)
 | Rustic Charm | 6.00% | ~14,474 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 241,240 (Ranked 62)  
-Completed: 3,085 (1.28%) (Ranked 153)  
+Completed: 3,086 (1.28%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -122,7 +122,7 @@ Completed: 3,085 (1.28%) (Ranked 153)
 | 2023-11-29 | 235,130 | 2,992 |
 | 2023-11-30 | 237,180 | 3,022 |
 | 2023-12-01 | 239,292 | 3,054 |
-| 2023-12-02 | 241,240 | 3,085 |
+| 2023-12-02 | 241,240 | 3,086 |
 ## Awards
 Max (Diverse Characters): 377  (Ranked 237)  
 Sum: 2,311 (Ranked 201)  

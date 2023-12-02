@@ -12,7 +12,7 @@
 | The Plains of Strothalm | 70.00% | ~360 |
 | Experienced Thalya | 70.00% | ~360 |
 | Thalya's Concentrated Fury | 68.00% | ~350 |
-| Bad Elves Go Everywhere | 67.00% | ~345 |
+| Bad Elves Go Everywhere | 68.00% | ~350 |
 | Master of Magic | 64.00% | ~330 |
 | Heroes’ Gorge | 62.00% | ~319 |
 | Unicorn steaks – fresh off the hoof! | 60.00% | ~309 |
@@ -56,8 +56,8 @@
 | The Last Stand - This Time For Real! | 12.00% | ~62 |
 | Mirror, Mirror | 11.00% | ~57 |
 | Untouchable | 11.00% | ~57 |
+| To the Max! | 11.00% | ~57 |
 | To Infinity And Beyond! | 11.00% | ~57 |
-| To the Max! | 10.00% | ~52 |
 | Evilification | 9.00% | ~46 |
 | Gorgu is in the Best of Health | 8.00% | ~41 |
 | Laser Eyes Are So Useless | 8.00% | ~41 |

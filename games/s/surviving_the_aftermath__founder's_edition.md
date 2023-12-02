@@ -6,21 +6,21 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 84.00% | ~370,600 |
-| Leader | 48.00% | ~211,772 |
-| Healer | 38.00% | ~167,653 |
-| Explorer | 36.00% | ~158,829 |
-| Aspiring Inventor | 28.00% | ~123,533 |
+| First Step | 84.00% | ~370,603 |
+| Leader | 48.00% | ~211,773 |
+| Healer | 38.00% | ~167,654 |
+| Explorer | 36.00% | ~158,830 |
+| Aspiring Inventor | 28.00% | ~123,534 |
 | Adventurer | 27.00% | ~119,122 |
-| Famous Healer | 23.00% | ~101,474 |
-| Local Leader | 21.00% | ~92,650 |
-| New Opportunities | 20.00% | ~88,238 |
-| Famous Explorer | 19.00% | ~83,826 |
-| Energized | 19.00% | ~83,826 |
-| Survivor | 19.00% | ~83,826 |
-| The Great Healer | 18.00% | ~79,414 |
-| The Long Haul | 18.00% | ~79,414 |
-| Catastrofan | 17.00% | ~75,002 |
+| Famous Healer | 23.00% | ~101,475 |
+| Local Leader | 21.00% | ~92,651 |
+| New Opportunities | 20.00% | ~88,239 |
+| Famous Explorer | 19.00% | ~83,827 |
+| Energized | 19.00% | ~83,827 |
+| Survivor | 19.00% | ~83,827 |
+| The Great Healer | 18.00% | ~79,415 |
+| The Long Haul | 18.00% | ~79,415 |
+| Catastrofan | 17.00% | ~75,003 |
 | Legendary Explorer | 15.00% | ~66,179 |
 | Cleaner | 15.00% | ~66,179 |
 | Finders, Keepers | 14.00% | ~61,767 |
@@ -34,13 +34,13 @@ Number of Ratings: 836  (23.09.2022)
 | Around the World | 9.00% | ~39,707 |
 | Spreading Influence | 9.00% | ~39,707 |
 | Sky Burial | 9.00% | ~39,707 |
-| Big Game Hunter | 8.00% | ~35,295 |
-| War Never Changes | 8.00% | ~35,295 |
-| Prepared for Anything | 7.00% | ~30,883 |
-| Bookworm | 7.00% | ~30,883 |
-| Friendly | 6.00% | ~26,471 |
-| Famous Adventurer | 6.00% | ~26,471 |
-| Big Catastrofan | 6.00% | ~26,471 |
+| Big Game Hunter | 8.00% | ~35,296 |
+| War Never Changes | 8.00% | ~35,296 |
+| Prepared for Anything | 7.00% | ~30,884 |
+| Bookworm | 7.00% | ~30,884 |
+| Friendly | 6.00% | ~26,472 |
+| Famous Adventurer | 6.00% | ~26,472 |
+| Big Catastrofan | 6.00% | ~26,472 |
 | It's a Finnish Thing | 4.00% | ~17,648 |
 | Bread and Circuses | 4.00% | ~17,648 |
 | Trader | 3.00% | ~13,236 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.10% | ~441 |
 | Customized calamities | 0.10% | ~441 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 441,191 (Ranked 43)  
+Progressed: 441,194 (Ranked 43)  
 Completed: 16 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 16 (0.00%) (Ranked 365)
 | 2023-11-29 | 431,690 | 11 |
 | 2023-11-30 | 434,751 | 13 |
 | 2023-12-01 | 438,040 | 16 |
-| 2023-12-02 | 441,191 | 16 |
+| 2023-12-02 | 441,194 | 16 |
 ## Awards
 Max (Extremely Fun): 154  (Ranked 318)  
 Sum: 985 (Ranked 264)  

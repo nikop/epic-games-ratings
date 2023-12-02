@@ -5,28 +5,28 @@ Rating: 4.66 (Ranked 294)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 100.00% | ~21,288 |
-| A Long Time Ago | 93.00% | ~19,798 |
-| Sabersmith | 80.00% | ~17,030 |
+| The Mantis | 100.00% | ~21,289 |
+| A Long Time Ago | 93.00% | ~19,799 |
+| Sabersmith | 80.00% | ~17,031 |
 | The Obstacle is the Way | 78.00% | ~16,605 |
-| Back At You | 73.00% | ~15,540 |
+| Back At You | 73.00% | ~15,541 |
 | Happy Go Wookiee | 69.00% | ~14,689 |
 | Everything is Connected | 60.00% | ~12,773 |
-| Her Name Was Masana Tide | 55.00% | ~11,708 |
+| Her Name Was Masana Tide | 55.00% | ~11,709 |
 | Bank Shot | 54.00% | ~11,496 |
 | Perfect Timing | 53.00% | ~11,283 |
 | Gorgara Falls | 51.00% | ~10,857 |
 | The Full Glow-Up | 50.00% | ~10,644 |
-| For A More Civilized Age | 49.00% | ~10,431 |
-| I Knew He Was No Good | 47.00% | ~10,005 |
-| The Holocron Awaits | 46.00% | ~9,792 |
+| For A More Civilized Age | 49.00% | ~10,432 |
+| I Knew He Was No Good | 47.00% | ~10,006 |
+| The Holocron Awaits | 46.00% | ~9,793 |
 | Look Out Below | 44.00% | ~9,367 |
 | Trust Only In The Force | 44.00% | ~9,367 |
 | Scum and Villainy | 43.00% | ~9,154 |
 | Don't Mess with BD-1 | 42.00% | ~8,941 |
-| Blade Master | 39.00% | ~8,302 |
+| Blade Master | 39.00% | ~8,303 |
 | Full House | 36.00% | ~7,664 |
-| Legendary Beasts | 22.00% | ~4,683 |
+| Legendary Beasts | 22.00% | ~4,684 |
 | Echo Location | 20.00% | ~4,258 |
 | Visiting Alderaan Places | 18.00% | ~3,832 |
 | Triple Take | 14.00% | ~2,980 |
@@ -45,7 +45,7 @@ Rating: 4.66 (Ranked 294)
 | Kicking Back | 2.00% | ~426 |
 | Not So Fast | 1.00% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,288 (Ranked 142)  
+Progressed: 21,289 (Ranked 142)  
 Completed: 217 (1.02%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 217 (1.02%) (Ranked 167)
 | 2023-11-29 | 20,802 | 214 |
 | 2023-11-30 | 20,943 | 216 |
 | 2023-12-01 | 21,118 | 217 |
-| 2023-12-02 | 21,288 | 217 |
+| 2023-12-02 | 21,289 | 217 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

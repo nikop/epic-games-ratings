@@ -513,9 +513,9 @@
       "ID": "4",
       "SetID": "d37idgg",
       "Name": "A continent with chemistry",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "40",
@@ -632,8 +632,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-12-02T20:10:51.3275267+00:00",
+  "LastChanged_Achievements": "2023-12-02T21:09:20.5760561+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:58.055933+00:00",
-  "LastUpdate_Ratings": "2023-12-02T19:58:48.2360853+00:00",
-  "LastUpdate_Achievements": "2023-12-02T20:10:51.3275595+00:00"
+  "LastUpdate_Ratings": "2023-12-02T20:58:30.3271375+00:00",
+  "LastUpdate_Achievements": "2023-12-02T21:09:20.5760823+00:00"
 }

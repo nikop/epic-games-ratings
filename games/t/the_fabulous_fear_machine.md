@@ -9,8 +9,8 @@
 | You have three wishes left | 20.00% | ~9 |
 | The battle of Great Britain | 18.00% | ~8 |
 | Pulp! Where Monsters Dwell | 18.00% | ~8 |
+| A continent with chemistry | 16.00% | ~7 |
 | Pulp! Terror Tales in the Night | 13.00% | ~6 |
-| A continent with chemistry | 13.00% | ~6 |
 | Giant | 11.00% | ~5 |
 | A rival with no options | 11.00% | ~5 |
 | The happy farmer girl | 11.00% | ~5 |
