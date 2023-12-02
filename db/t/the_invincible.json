@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 483,
+  "EOS_Progressed": 484,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1320,6 +1320,11 @@
       "Time": "2023-12-02T10:08:45.3515386+00:00",
       "NumProgressed": 483,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T13:10:54.8862039+00:00",
+      "NumProgressed": 484,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1332,7 +1337,7 @@
       "Name": "The Teleprobe",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "AchvAllMemories",
@@ -1348,7 +1353,7 @@
       "Name": "On her own",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "AchvBattleScore",
@@ -1386,9 +1391,9 @@
       "ID": "AchvDamnHoles",
       "SetID": "1hj060c",
       "Name": "Ubiquitous holes",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 19
     },
     {
       "ID": "AchvDiscoverAlliance",
@@ -1460,7 +1465,7 @@
       "Name": "The Necroevolution",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "AchvNest",
@@ -1508,7 +1513,7 @@
       "Name": "The Camp",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "AchvReachCity",
@@ -1516,7 +1521,7 @@
       "Name": "The City",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "AchvReachCondor",
@@ -1524,15 +1529,15 @@
       "Name": "The Condor",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "AchvSurvivors",
       "SetID": "1hj060c",
       "Name": "Survivors",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 145
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -1554,23 +1559,23 @@
       "ID": "AchvUnity",
       "SetID": "1hj060c",
       "Name": "Beyond divisions",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 73
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 483,
+      "Progressed": 484,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-02T12:08:46.2869851+00:00",
+  "LastChanged_Achievements": "2023-12-02T13:10:54.8862037+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:53.0325674+00:00",
-  "LastUpdate_Ratings": "2023-12-02T12:00:14.3658556+00:00",
-  "LastUpdate_Achievements": "2023-12-02T12:08:46.2870088+00:00"
+  "LastUpdate_Ratings": "2023-12-02T13:02:22.2327844+00:00",
+  "LastUpdate_Achievements": "2023-12-02T13:10:54.8862272+00:00"
 }

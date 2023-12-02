@@ -3,8 +3,8 @@
   "Name": "Night Book",
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 373,
-  "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_Completed": 122,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249,
+  "EOS_Progressed": 250,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.41,
+  "EOS_Completed_Percentage": 2.4,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:54.2644177+00:00",
@@ -411,6 +411,11 @@
       "Time": "2023-11-30T20:05:26.9908155+00:00",
       "NumProgressed": 249,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-02T13:07:23.0400846+00:00",
+      "NumProgressed": 250,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 17,
@@ -454,7 +459,7 @@
       "Name": "Horrific",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "impress_theron",
@@ -462,7 +467,7 @@
       "Name": "Impress Theron",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "marriage_is_off",
@@ -486,7 +491,7 @@
       "Name": "He\u0027s Off His Meds",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "on_your_bike",
@@ -542,7 +547,7 @@
       "Name": "Use Your Connections",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "will_this_help",
@@ -550,14 +555,14 @@
       "Name": "Will This Help?",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 249,
+      "Progressed": 250,
       "Completed": 6
     }
   ],
@@ -565,8 +570,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-12-02T12:05:14.3403146+00:00",
+  "LastChanged_Achievements": "2023-12-02T13:07:23.0400807+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:56:55.6643864+00:00",
-  "LastUpdate_Ratings": "2023-12-02T11:57:26.8717386+00:00",
-  "LastUpdate_Achievements": "2023-12-02T12:05:14.3403314+00:00"
+  "LastUpdate_Ratings": "2023-12-02T12:59:34.2251956+00:00",
+  "LastUpdate_Achievements": "2023-12-02T13:07:23.0400928+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "43acebbd46cd4aac956ad049c10c603a",
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
-  "Ranking_Rating": 32,
-  "Ranking_Popularity": 470,
-  "Ranking_PopularitySum": 505,
+  "Ranking_Rating": 23,
+  "Ranking_Popularity": 465,
+  "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 146,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.86,
+  "Rating": 4.87,
   "RatingHistory": [
     {
       "Time": "2023-11-08T20:00:37.8164591+00:00",
@@ -155,23 +155,29 @@
       "Rating": 4.86,
       "NumberOfAwards": 37,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2023-12-02T13:02:26.264678+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 38,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 37,
-  "NumberOfAwardsMax": 37,
+  "NumberOfAwards": 38,
+  "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 37
+      "Count": 38
     }
   ],
-  "EOS_Progressed": 825,
+  "EOS_Progressed": 826,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1894,6 +1900,11 @@
       "Time": "2023-12-02T11:04:47.3452562+00:00",
       "NumProgressed": 825,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T13:06:15.929292+00:00",
+      "NumProgressed": 826,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1922,7 +1933,7 @@
       "Name": "Anthropic Hills",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Archaeologist",
@@ -1946,7 +1957,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "BreakTheLoop",
@@ -1986,7 +1997,7 @@
       "Name": "Circular Oasis",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "DesolateIsland",
@@ -1994,15 +2005,15 @@
       "Name": "Desolate Island",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Discovery",
       "SetID": "1n308hc",
       "Name": "Discovery",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 58
     },
     {
       "ID": "EasternWetlands",
@@ -2066,15 +2077,15 @@
       "Name": "High Plain",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 50
     },
     {
       "ID": "JustOneLap",
@@ -2178,7 +2189,7 @@
       "Name": "Prometheus Unbound",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "PuzzleFiend",
@@ -2242,7 +2253,7 @@
       "Name": "Southern Coast",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "TeamSpirit",
@@ -2312,9 +2323,9 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 83
     },
     {
       "ID": "TouchGrass",
@@ -2330,7 +2341,7 @@
       "Name": "Trevor\u0027s Biographer",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "VerdantCanyon",
@@ -2338,7 +2349,7 @@
       "Name": "Verdant Canyon",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Wanderers",
@@ -2354,7 +2365,7 @@
       "Name": "Western Delta",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "WoodedPlateau",
@@ -2377,16 +2388,16 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 825,
+      "Progressed": 826,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-03T01:41:58.8670455+00:00",
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
-  "LastChanged": "2023-11-30T22:00:34.4965769+00:00",
-  "LastChanged_Achievements": "2023-12-02T12:04:08.4851082+00:00",
+  "LastChanged": "2023-12-02T13:02:26.2646778+00:00",
+  "LastChanged_Achievements": "2023-12-02T13:06:15.9292917+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-02T12:00:18.3166506+00:00",
-  "LastUpdate_Achievements": "2023-12-02T12:04:08.485151+00:00"
+  "LastUpdate_Ratings": "2023-12-02T13:02:26.2646784+00:00",
+  "LastUpdate_Achievements": "2023-12-02T13:06:15.9293346+00:00"
 }

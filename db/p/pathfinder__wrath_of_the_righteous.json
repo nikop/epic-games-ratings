@@ -16486,9 +16486,9 @@
       "ID": "20_SpiritOfAdventures",
       "SetID": "989of5o",
       "Name": "Spirit of Adventure",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 24
     },
     {
       "ID": "21_TestOfStarstone",
@@ -17276,8 +17276,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-01T15:58:36.5284064+00:00",
-  "LastChanged_Achievements": "2023-12-02T12:09:05.8811418+00:00",
+  "LastChanged_Achievements": "2023-12-02T13:11:15.2119161+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:49.3159315+00:00",
-  "LastUpdate_Ratings": "2023-12-02T11:58:44.3188467+00:00",
-  "LastUpdate_Achievements": "2023-12-02T12:09:05.8812929+00:00"
+  "LastUpdate_Ratings": "2023-12-02T13:00:50.6519021+00:00",
+  "LastUpdate_Achievements": "2023-12-02T13:11:15.212072+00:00"
 }

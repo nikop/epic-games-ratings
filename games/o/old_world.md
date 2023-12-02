@@ -6,8 +6,8 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Settler | 7.00% | ~1,091 |
-| Play a Single Player Game | 7.00% | ~1,091 |
+| Settler | 7.00% | ~1,092 |
+| Play a Single Player Game | 7.00% | ~1,092 |
 | Explorer | 6.00% | ~936 |
 | Friendly Family | 6.00% | ~936 |
 | Intrepid | 5.00% | ~780 |
@@ -143,13 +143,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Peacemaker | 0.70% | ~109 |
 | Learn to Play 5 | 0.70% | ~109 |
 | Cataphract Archer | 0.70% | ~109 |
+| No Undo | 0.70% | ~109 |
 | The Great Mage | 0.70% | ~109 |
 | Kush | 0.70% | ~109 |
 | Beja Archer | 0.70% | ~109 |
 | Old | 0.60% | ~94 |
 | Old World Order | 0.60% | ~94 |
 | Ten Crowns | 0.60% | ~94 |
-| No Undo | 0.60% | ~94 |
 | Deposed Tribe | 0.60% | ~94 |
 | Ancient | 0.50% | ~78 |
 | Glorious Difficulty | 0.50% | ~78 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,592 (Ranked 152)  
+Progressed: 15,594 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -575,7 +575,7 @@ Completed: 5 (0.03%) (Ranked 328)
 | 2023-11-29 | 15,545 | 5 |
 | 2023-11-30 | 15,566 | 5 |
 | 2023-12-01 | 15,583 | 5 |
-| 2023-12-02 | 15,592 | 5 |
+| 2023-12-02 | 15,594 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,883 (Ranked 219)  

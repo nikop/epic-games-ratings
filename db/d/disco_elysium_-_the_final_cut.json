@@ -2,7 +2,7 @@
   "ID": "ff52981b1d9947978153c7a7f8bc6d90",
   "Name": "Disco Elysium - The Final Cut",
   "ProductSlug": "disco-elysium",
-  "Ranking_Rating": 22,
+  "Ranking_Rating": 23,
   "Ranking_Popularity": 181,
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 83,
@@ -1514,9 +1514,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131513,
+  "EOS_Progressed": 131515,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 320,
+  "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -23584,6 +23584,11 @@
       "Time": "2023-12-02T12:04:41.4172627+00:00",
       "NumProgressed": 131513,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-02T13:06:49.3955333+00:00",
+      "NumProgressed": 131515,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -23627,7 +23632,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23672
+      "UsersEstimate": 23673
     },
     {
       "ID": "ACH_COP_BAD",
@@ -23651,7 +23656,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31563
+      "UsersEstimate": 31564
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -23739,7 +23744,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14466
+      "UsersEstimate": 14467
     },
     {
       "ID": "ACH_CUNO",
@@ -23755,7 +23760,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 13151
+      "UsersEstimate": 13152
     },
     {
       "ID": "ACH_GLUTEN",
@@ -23914,15 +23919,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131513,
+      "Progressed": 131515,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-28T12:00:15.5937153+00:00",
-  "LastChanged_Achievements": "2023-12-02T12:04:41.4172623+00:00",
+  "LastChanged_Achievements": "2023-12-02T13:06:49.3955331+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:19.415585+00:00",
-  "LastUpdate_Ratings": "2023-12-02T11:57:36.6605502+00:00",
-  "LastUpdate_Achievements": "2023-12-02T12:04:41.417384+00:00"
+  "LastUpdate_Ratings": "2023-12-02T12:59:43.9396107+00:00",
+  "LastUpdate_Achievements": "2023-12-02T13:06:49.3956793+00:00"
 }

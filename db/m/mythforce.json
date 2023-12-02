@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -806,7 +806,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5273,
+  "EOS_Progressed": 5274,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
@@ -10376,6 +10376,11 @@
       "Time": "2023-12-02T11:07:40.67396+00:00",
       "NumProgressed": 5273,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-02T13:08:19.0561125+00:00",
+      "NumProgressed": 5274,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -10484,7 +10489,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -10571,15 +10576,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5273,
+      "Progressed": 5274,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-01T06:01:05.0621947+00:00",
-  "LastChanged_Achievements": "2023-12-02T12:06:10.052187+00:00",
+  "LastChanged_Achievements": "2023-12-02T13:08:19.0561122+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:57.8728893+00:00",
-  "LastUpdate_Ratings": "2023-12-02T12:00:23.6141544+00:00",
-  "LastUpdate_Achievements": "2023-12-02T12:06:10.05227+00:00"
+  "LastUpdate_Ratings": "2023-12-02T13:02:31.3413034+00:00",
+  "LastUpdate_Achievements": "2023-12-02T13:08:19.0561761+00:00"
 }

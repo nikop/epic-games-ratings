@@ -4,7 +4,7 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1269,
+  "EOS_Progressed": 1270,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2335,6 +2335,11 @@
       "Time": "2023-12-02T05:05:57.5723956+00:00",
       "NumProgressed": 1269,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T13:08:11.0663904+00:00",
+      "NumProgressed": 1270,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -2467,7 +2472,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_FIRST_RELOAD",
@@ -2586,14 +2591,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1269,
+      "Progressed": 1270,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-12-02T12:06:01.8016564+00:00",
+  "LastChanged_Achievements": "2023-12-02T13:08:11.0663902+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.3423297+00:00",
-  "LastUpdate_Ratings": "2023-12-02T11:58:26.8112985+00:00",
-  "LastUpdate_Achievements": "2023-12-02T12:06:01.8016858+00:00"
+  "LastUpdate_Ratings": "2023-12-02T13:00:33.8592372+00:00",
+  "LastUpdate_Achievements": "2023-12-02T13:08:11.0664151+00:00"
 }

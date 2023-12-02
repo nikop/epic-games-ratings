@@ -2,7 +2,7 @@
   "ID": "f9af68c0b03e425999c18381eb45e5fb",
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
-  "Ranking_EOS_Progress": 315,
+  "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 131,
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 484,
+  "EOS_Progressed": 487,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1517,6 +1517,11 @@
       "Time": "2023-12-02T12:06:22.6328989+00:00",
       "NumProgressed": 484,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T13:08:31.9370704+00:00",
+      "NumProgressed": 487,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1528,7 +1533,7 @@
       "Name": "Travel Streamer",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 445
+      "UsersEstimate": 448
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1536,7 +1541,7 @@
       "Name": "Giant Lizard Killer",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -1544,7 +1549,7 @@
       "Name": "Guardian",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -1552,7 +1557,7 @@
       "Name": "Nosebleeder",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -1560,15 +1565,15 @@
       "Name": "Flying Kobold Killer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_14",
       "SetID": "7pimpda",
       "Name": "Youth Magnet",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 78
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -1616,7 +1621,7 @@
       "Name": "Training Simulation",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 373
+      "UsersEstimate": 375
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1640,7 +1645,7 @@
       "Name": "Beginner Cook",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -1656,7 +1661,7 @@
       "Name": "Arms Mechanic",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -1664,7 +1669,7 @@
       "Name": "Beginner Artificer",
       "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -1672,7 +1677,7 @@
       "Name": "Master Artificer",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -1680,7 +1685,7 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 242
+      "UsersEstimate": 244
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -1696,7 +1701,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 305
+      "UsersEstimate": 307
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1784,7 +1789,7 @@
       "Name": "Storm Traveller",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 271
+      "UsersEstimate": 273
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -1848,7 +1853,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -1856,7 +1861,7 @@
       "Name": "Flower Thief",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 200
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -1864,7 +1869,7 @@
       "Name": "Apostle of Flame",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -1872,7 +1877,7 @@
       "Name": "Seal Breaker",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -1887,7 +1892,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 484,
+      "Progressed": 487,
       "Completed": 1
     }
   ],
@@ -1895,8 +1900,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-02T12:06:22.6328984+00:00",
+  "LastChanged_Achievements": "2023-12-02T13:08:31.9370701+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-12-02T12:00:08.0238758+00:00",
-  "LastUpdate_Achievements": "2023-12-02T12:06:22.6329297+00:00"
+  "LastUpdate_Ratings": "2023-12-02T13:02:15.454869+00:00",
+  "LastUpdate_Achievements": "2023-12-02T13:08:31.9371128+00:00"
 }

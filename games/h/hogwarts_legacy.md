@@ -10,10 +10,10 @@ Rating: 4.76 (Ranked 129)
 | Troll with the Punches | 14.00% | ~42,527 |
 | A Keen Sense of Spell | 13.00% | ~39,489 |
 | That's a Keeper | 13.00% | ~39,489 |
-| The Hallowed Hero | 12.00% | ~36,451 |
-| The Defender of Dragons | 12.00% | ~36,451 |
-| Loom for Improvement | 12.00% | ~36,451 |
-| A Talent for Spending | 12.00% | ~36,451 |
+| The Hallowed Hero | 12.00% | ~36,452 |
+| The Defender of Dragons | 12.00% | ~36,452 |
+| Loom for Improvement | 12.00% | ~36,452 |
+| A Talent for Spending | 12.00% | ~36,452 |
 | Grappling with a Graphorn | 11.00% | ~33,414 |
 | The One Who Mastered Memories | 11.00% | ~33,414 |
 | The Hero of Hogwarts | 11.00% | ~33,414 |
@@ -33,10 +33,10 @@ Rating: 4.76 (Ranked 129)
 | The Toast of the Town | 5.00% | ~15,188 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,188 |
 | The Ends Petrify the Means | 5.00% | ~15,188 |
-| Going Through the Potions | 4.00% | ~12,150 |
-| Room with a View | 4.00% | ~12,150 |
-| The Intrepid Explorer | 4.00% | ~12,150 |
-| The Wise Owl | 4.00% | ~12,150 |
+| Going Through the Potions | 4.00% | ~12,151 |
+| Room with a View | 4.00% | ~12,151 |
+| The Intrepid Explorer | 4.00% | ~12,151 |
+| The Wise Owl | 4.00% | ~12,151 |
 | Put Down Roots | 3.00% | ~9,113 |
 | The Auror's Apprentice | 3.00% | ~9,113 |
 | Floo Around the World | 3.00% | ~9,113 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 129)
 | The Nature of the Beast | 0.70% | ~2,126 |
 | Collector's Edition | 0.30% | ~911 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,762 (Ranked 54)  
+Progressed: 303,763 (Ranked 54)  
 Completed: 520 (0.17%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,10 +277,10 @@ Completed: 520 (0.17%) (Ranked 267)
 | 2023-11-29 | 303,596 | 519 |
 | 2023-11-30 | 303,661 | 519 |
 | 2023-12-01 | 303,730 | 520 |
-| 2023-12-02 | 303,762 | 520 |
+| 2023-12-02 | 303,763 | 520 |
 ## Awards
 Max (Character Customization): 24,816  (Ranked 17)  
-Sum: 49,639 (Ranked 30)  
+Sum: 49,641 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -294,7 +294,7 @@ Diff (max vs sum): -13
 | This game has Amazing Characters | 1,245 |
 | This game is Highly Recommended | 1,223 |
 | This game has Quickly Understood Controls | 1,186 |
-| This game has Beautiful Visuals | 1,072 |
+| This game has Beautiful Visuals | 1,074 |
 | This game has a Creative Community | 829 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -552,4 +552,4 @@ Diff (max vs sum): -13
 | 2023-11-29 | 4.76 | 24,755 | 49,466 |
 | 2023-11-30 | 4.76 | 24,781 | 49,552 |
 | 2023-12-01 | 4.76 | 24,816 | 49,628 |
-| 2023-12-02 | 4.76 | 24,816 | 49,639 |
+| 2023-12-02 | 4.76 | 24,816 | 49,641 |

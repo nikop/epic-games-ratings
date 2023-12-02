@@ -10,7 +10,7 @@
 | The intellectual | 26.00% | ~81 |
 | The boss | 25.00% | ~78 |
 | The activist | 23.00% | ~72 |
-| The individualist | 20.00% | ~63 |
+| The individualist | 21.00% | ~66 |
 | The nice guy | 13.00% | ~41 |
 | The debonair | 11.00% | ~34 |
 | Picky, Picky! | 10.00% | ~31 |

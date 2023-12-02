@@ -2,7 +2,7 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 964,
+  "Ranking_Rating": 956,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 118,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "SA"
     }
   },
-  "Rating": 4.13,
+  "Rating": 4.14,
   "RatingHistory": [
     {
       "Time": "2023-01-28T02:09:06.4755934+00:00",
@@ -425,6 +425,12 @@
       "Rating": 4.13,
       "NumberOfAwards": 29,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2023-12-02T13:00:10.9060421+00:00",
+      "Rating": 4.14,
+      "NumberOfAwards": 29,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
@@ -439,9 +445,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 43227,
+  "EOS_Progressed": 43228,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13949,6 +13955,11 @@
       "Time": "2023-12-02T10:06:30.9796415+00:00",
       "NumProgressed": 43227,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-02T13:10:23.2500311+00:00",
+      "NumProgressed": 43228,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -14296,7 +14307,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3890
+      "UsersEstimate": 3891
     },
     {
       "ID": "SPRING_ALL",
@@ -14383,22 +14394,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 43227,
+      "Progressed": 43228,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 8064,
-      "Completed": 8064
+      "Progressed": 8065,
+      "Completed": 8065
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
-  "LastChanged": "2023-12-01T17:57:27.5259464+00:00",
-  "LastChanged_Achievements": "2023-12-02T12:06:34.2459558+00:00",
+  "LastChanged": "2023-12-02T13:00:10.906042+00:00",
+  "LastChanged_Achievements": "2023-12-02T13:10:23.2500309+00:00",
   "LastUpdate_AppInfo": "2023-11-25T19:57:10.8816772+00:00",
-  "LastUpdate_Ratings": "2023-12-02T11:58:04.5159177+00:00",
-  "LastUpdate_Achievements": "2023-12-02T12:06:34.2460511+00:00"
+  "LastUpdate_Ratings": "2023-12-02T13:00:10.9060425+00:00",
+  "LastUpdate_Achievements": "2023-12-02T13:10:23.250135+00:00"
 }

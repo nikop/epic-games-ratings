@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -1115,9 +1115,9 @@
       "ID": "Remake_007",
       "SetID": "5pi96jj",
       "Name": "Deez Buffs Make Me Go Nuts",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 93
+      "UsersEstimate": 96
     },
     {
       "ID": "Remake_008",
@@ -1250,8 +1250,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-02T12:05:31.8508164+00:00",
+  "LastChanged_Achievements": "2023-12-02T13:07:40.6974385+00:00",
   "LastUpdate_AppInfo": "2023-11-27T21:57:11.1049797+00:00",
-  "LastUpdate_Ratings": "2023-12-02T12:00:20.2433407+00:00",
-  "LastUpdate_Achievements": "2023-12-02T12:05:31.8508411+00:00"
+  "LastUpdate_Ratings": "2023-12-02T13:02:28.2089649+00:00",
+  "LastUpdate_Achievements": "2023-12-02T13:07:40.6974647+00:00"
 }

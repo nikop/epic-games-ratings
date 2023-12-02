@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -649,7 +649,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471655,
+  "EOS_Progressed": 471656,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 321,
   "EOS_NewCompleters": 0,
@@ -24154,6 +24154,11 @@
       "Time": "2023-12-02T12:09:36.4473477+00:00",
       "NumProgressed": 471655,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-02T13:11:46.1247958+00:00",
+      "NumProgressed": 471656,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -24253,7 +24258,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311292
+      "UsersEstimate": 311293
     },
     {
       "ID": "achievement_story_landa",
@@ -24589,7 +24594,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207528
+      "UsersEstimate": 207529
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -24597,7 +24602,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141496
+      "UsersEstimate": 141497
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -24621,7 +24626,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183945
+      "UsersEstimate": 183946
     },
     {
       "ID": "achievement_win_run_hard",
@@ -24796,21 +24801,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15589,
+      "Progressed": 15590,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471655,
+      "Progressed": 471656,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-01T18:58:58.8781534+00:00",
-  "LastChanged_Achievements": "2023-12-02T12:09:36.4473475+00:00",
+  "LastChanged_Achievements": "2023-12-02T13:11:46.1247956+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:35.6450304+00:00",
-  "LastUpdate_Ratings": "2023-12-02T11:59:21.3229457+00:00",
-  "LastUpdate_Achievements": "2023-12-02T12:09:36.4475279+00:00"
+  "LastUpdate_Ratings": "2023-12-02T13:01:27.870556+00:00",
+  "LastUpdate_Achievements": "2023-12-02T13:11:46.1249705+00:00"
 }

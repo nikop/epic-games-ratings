@@ -6,9 +6,9 @@
   "Ranking_Popularity": 102,
   "Ranking_PopularitySum": 129,
   "Ranking_EOS_Progress": 69,
-  "Ranking_EOS_Completed": 250,
+  "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
     "PcReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -4981,10 +4981,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6298,
       "NumberOfAwardsMax": 2558
+    },
+    {
+      "Time": "2023-12-02T13:05:17.9035529+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6307,
+      "NumberOfAwardsMax": 2558
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6298,
+  "NumberOfAwards": 6307,
   "NumberOfAwardsMax": 2558,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5028,7 +5034,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 380
+      "Count": 389
     },
     {
       "Text": "This game has a Creative Community",
@@ -5055,11 +5061,11 @@
       "Count": 388
     }
   ],
-  "EOS_Progressed": 232726,
+  "EOS_Progressed": 232775,
   "EOS_Completed": 547,
-  "EOS_NewPlayers": 5065,
+  "EOS_NewPlayers": 5055,
   "EOS_NewCompleters": 26,
-  "EOS_Completed_Percentage": 0.24,
+  "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
       "Time": "2023-07-21T17:05:35.5618698+00:00",
@@ -20990,6 +20996,11 @@
       "Time": "2023-12-02T12:08:50.3742536+00:00",
       "NumProgressed": 232726,
       "NumCompleted": 547
+    },
+    {
+      "Time": "2023-12-02T13:10:59.2301506+00:00",
+      "NumProgressed": 232775,
+      "NumCompleted": 547
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21010,7 +21021,7 @@
       "Name": "Crafty",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "Defeat_Abberations_A",
@@ -21026,7 +21037,7 @@
       "Name": "Ghost in the Machine",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "Defeat_Boss_No_Damage",
@@ -21058,7 +21069,7 @@
       "Name": "Traitor",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "Defeat_Final_Boss",
@@ -21066,7 +21077,7 @@
       "Name": "Forever is a Long Time Coming",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "Defeat_Guardian",
@@ -21088,9 +21099,9 @@
       "ID": "Defeat_Many_Faces",
       "SetID": "bkp3b1a",
       "Name": "The God Gambit",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 465
+      "UsersEstimate": 698
     },
     {
       "ID": "Defeat_Nightweaver",
@@ -21098,7 +21109,7 @@
       "Name": "Dark Designs",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "Defeat_Special_Enemies",
@@ -21114,7 +21125,7 @@
       "Name": "Madman\u0027s Paradise",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "Defeat_World_Boss",
@@ -21138,7 +21149,7 @@
       "Name": "The Agenda",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "Meet_Custodian",
@@ -21170,7 +21181,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "Meet_Nimue",
@@ -21218,7 +21229,7 @@
       "Name": "Bad Moon Rising",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "Obtain_Boss_Alt_Reward",
@@ -21242,7 +21253,7 @@
       "Name": "Strapped",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "Obtain_Guns_B",
@@ -21258,7 +21269,7 @@
       "Name": "Edgelord",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "Obtain_Melee_Weapons_B",
@@ -21266,7 +21277,7 @@
       "Name": "Cutting Edge",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "Obtain_Nightweaver_Item",
@@ -21274,7 +21285,7 @@
       "Name": "The Web",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "Obtain_Relics",
@@ -21298,7 +21309,7 @@
       "Name": "Scrap Hoarder",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "Obtain_Traits_A",
@@ -21314,7 +21325,7 @@
       "Name": "All These Traits\uFFFD",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "Obtain_Traits_C",
@@ -21330,7 +21341,7 @@
       "Name": "Carnage in C-Minor",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "Upgrade_Boss_Weapon_A",
@@ -21338,7 +21349,7 @@
       "Name": "The Ultimate Weapon",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "Upgrade_Boss_Weapon_B",
@@ -21370,7 +21381,7 @@
       "Name": "No One Should Have All That Power",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "Upgrade_Traits_A",
@@ -21394,7 +21405,7 @@
       "Name": "Transmutate",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "DLC1_Defeat_OneTrueKing",
@@ -21402,7 +21413,7 @@
       "Name": "Regicide",
       "Percentage": 0.7,
       "XP": 75,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -21418,7 +21429,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -21441,22 +21452,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 232726,
+      "Progressed": 232775,
       "Completed": 547
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 11891,
+      "Progressed": 11940,
       "Completed": 178
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-12-02T09:03:27.8163133+00:00",
-  "LastChanged_Achievements": "2023-12-02T12:08:50.3742529+00:00",
+  "LastChanged": "2023-12-02T13:05:17.9035527+00:00",
+  "LastChanged_Achievements": "2023-12-02T13:10:59.2301504+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:14.4445508+00:00",
-  "LastUpdate_Ratings": "2023-12-02T12:03:12.5092196+00:00",
-  "LastUpdate_Achievements": "2023-12-02T12:08:50.3743682+00:00"
+  "LastUpdate_Ratings": "2023-12-02T13:05:17.9035533+00:00",
+  "LastUpdate_Achievements": "2023-12-02T13:10:59.2302606+00:00"
 }

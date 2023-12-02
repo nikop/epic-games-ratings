@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 134,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -3223,10 +3223,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 5336,
       "NumberOfAwardsMax": 1648
+    },
+    {
+      "Time": "2023-12-02T13:05:07.5451122+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 5339,
+      "NumberOfAwardsMax": 1648
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5336,
+  "NumberOfAwards": 5339,
   "NumberOfAwardsMax": 1648,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3270,7 +3276,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 371
+      "Count": 374
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3303,9 +3309,9 @@
       "Count": 405
     }
   ],
-  "EOS_Progressed": 9453,
+  "EOS_Progressed": 9454,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10238,6 +10244,11 @@
       "Time": "2023-12-02T08:06:31.8782839+00:00",
       "NumProgressed": 9453,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T13:10:29.0002956+00:00",
+      "NumProgressed": 9454,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -10258,7 +10269,7 @@
       "Name": "Eye Of The TaiGore",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 2363
+      "UsersEstimate": 2364
     },
     {
       "ID": "ach03",
@@ -10314,7 +10325,7 @@
       "Name": "Kontender",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1512
+      "UsersEstimate": 1513
     },
     {
       "ID": "ach10",
@@ -10362,7 +10373,7 @@
       "Name": "Give A Koin",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2552
+      "UsersEstimate": 2553
     },
     {
       "ID": "ach16",
@@ -10386,7 +10397,7 @@
       "Name": "Adventure Time",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 3592
+      "UsersEstimate": 3593
     },
     {
       "ID": "ach19",
@@ -10426,7 +10437,7 @@
       "Name": "Take And Deny",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 2741
+      "UsersEstimate": 2742
     },
     {
       "ID": "ach24",
@@ -10434,7 +10445,7 @@
       "Name": "Ultimate Power",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 4348
+      "UsersEstimate": 4349
     },
     {
       "ID": "ach25",
@@ -10466,7 +10477,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3119
+      "UsersEstimate": 3120
     },
     {
       "ID": "ach29",
@@ -10488,9 +10499,9 @@
       "ID": "ach31",
       "SetID": "47in8n6",
       "Name": "Not So Big Now, Are You??",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 3025
+      "UsersEstimate": 3120
     },
     {
       "ID": "ach32",
@@ -10498,7 +10509,7 @@
       "Name": "Who Da Boss??",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2552
+      "UsersEstimate": 2553
     },
     {
       "ID": "ach33",
@@ -10538,7 +10549,7 @@
       "Name": "ABACABB",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 5388
+      "UsersEstimate": 5389
     },
     {
       "ID": "ach38",
@@ -10546,7 +10557,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4159
+      "UsersEstimate": 4160
     },
     {
       "ID": "ach39",
@@ -10586,7 +10597,7 @@
       "Name": "Working Overtime",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 4159
+      "UsersEstimate": 4160
     },
     {
       "ID": "ach44",
@@ -10649,16 +10660,16 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 9453,
+      "Progressed": 9454,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-12-02T04:02:52.0915773+00:00",
-  "LastChanged_Achievements": "2023-12-02T12:08:20.9434112+00:00",
+  "LastChanged": "2023-12-02T13:05:07.5451119+00:00",
+  "LastChanged_Achievements": "2023-12-02T13:10:29.0002953+00:00",
   "LastUpdate_AppInfo": "2023-12-02T11:57:13.7403672+00:00",
-  "LastUpdate_Ratings": "2023-12-02T12:03:01.8657018+00:00",
-  "LastUpdate_Achievements": "2023-12-02T12:08:20.9434651+00:00"
+  "LastUpdate_Ratings": "2023-12-02T13:05:07.5451127+00:00",
+  "LastUpdate_Achievements": "2023-12-02T13:10:29.0003672+00:00"
 }

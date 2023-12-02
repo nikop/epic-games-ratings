@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -1077,9 +1077,9 @@
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
       "SetID": "aniflfk",
       "Name": "Design Engineer",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     },
     {
       "ID": "BRING_MARY",
@@ -1109,9 +1109,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 138
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -1221,9 +1221,9 @@
       "ID": "UPGRADE_SMART_TOWER",
       "SetID": "aniflfk",
       "Name": "Strong Signal",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 131
     }
   ],
   "AchievementSets": [
@@ -1236,8 +1236,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-02T12:04:52.3707356+00:00",
+  "LastChanged_Achievements": "2023-12-02T13:07:00.7439896+00:00",
   "LastUpdate_AppInfo": "2023-11-29T20:57:25.9655457+00:00",
-  "LastUpdate_Ratings": "2023-12-02T12:03:02.9434288+00:00",
-  "LastUpdate_Achievements": "2023-12-02T12:04:52.3707496+00:00"
+  "LastUpdate_Ratings": "2023-12-02T13:05:08.5417941+00:00",
+  "LastUpdate_Achievements": "2023-12-02T13:07:00.7440195+00:00"
 }

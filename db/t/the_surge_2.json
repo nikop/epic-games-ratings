@@ -282,7 +282,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2218,
+  "EOS_Progressed": 2219,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
@@ -3272,6 +3272,11 @@
       "Time": "2023-12-01T19:05:11.0947318+00:00",
       "NumProgressed": 2218,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-02T13:07:27.9799018+00:00",
+      "NumProgressed": 2219,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3283,7 +3288,7 @@
       "Name": "A Little Banged Up",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACHV_02",
@@ -3291,7 +3296,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1465
     },
     {
       "ID": "ACHV_03",
@@ -3315,7 +3320,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ACHV_06",
@@ -3331,7 +3336,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "ACHV_08",
@@ -3411,7 +3416,7 @@
       "Name": "Following In Their Footsteps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACHV_18",
@@ -3483,7 +3488,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "ACHV_27",
@@ -3499,7 +3504,7 @@
       "Name": "Clean Cut",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "ACHV_29",
@@ -3515,7 +3520,7 @@
       "Name": "Powered Up",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "ACHV_31",
@@ -3555,7 +3560,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "ACHV_36",
@@ -3587,7 +3592,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1708
+      "UsersEstimate": 1709
     },
     {
       "ID": "ACHV_40",
@@ -3738,7 +3743,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2218,
+      "Progressed": 2219,
       "Completed": 13
     }
   ],
@@ -3746,8 +3751,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-11-22T02:25:03.2214817+00:00",
-  "LastChanged_Achievements": "2023-12-02T12:05:19.2300423+00:00",
+  "LastChanged_Achievements": "2023-12-02T13:07:27.9799016+00:00",
   "LastUpdate_AppInfo": "2023-11-25T15:56:57.6315176+00:00",
-  "LastUpdate_Ratings": "2023-12-02T11:58:04.1064584+00:00",
-  "LastUpdate_Achievements": "2023-12-02T12:05:19.2301068+00:00"
+  "LastUpdate_Ratings": "2023-12-02T13:00:10.5366492+00:00",
+  "LastUpdate_Achievements": "2023-12-02T13:07:27.9799635+00:00"
 }

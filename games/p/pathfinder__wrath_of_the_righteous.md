@@ -61,8 +61,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Masterful Dispel | 0.30% | ~37 |
 | Just Pathetic | 0.30% | ~37 |
 | Path of the Swarm | 0.20% | ~24 |
+| Spirit of Adventure | 0.20% | ~24 |
 | Equal to Aroden | 0.10% | ~12 |
-| Spirit of Adventure | 0.10% | ~12 |
 | Test of the Starstone | 0.10% | ~12 |
 | Masterful Craftsmanship | 0.10% | ~12 |
 | Blight of Drezen | 0.00% | ~0 |

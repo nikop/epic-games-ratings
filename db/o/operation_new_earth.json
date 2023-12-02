@@ -83,7 +83,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1942,
+  "EOS_Progressed": 1944,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
@@ -7358,6 +7358,11 @@
       "Time": "2023-12-02T04:07:47.5016037+00:00",
       "NumProgressed": 1942,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T13:10:17.1810034+00:00",
+      "NumProgressed": 1944,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7385,7 +7390,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ach_defeat_players_100",
@@ -7399,9 +7404,9 @@
       "ID": "ach_gold_rewards_100",
       "SetID": "bm61c2p",
       "Name": "Gold Achiever",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 78
+      "UsersEstimate": 58
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -7433,7 +7438,7 @@
       "Name": "Silver Competitor",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -7473,7 +7478,7 @@
       "Name": "Facility Online",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -7481,7 +7486,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -7505,7 +7510,7 @@
       "Name": "Captain",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -7617,7 +7622,7 @@
       "Name": "Factory Expansion",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -7672,7 +7677,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1942,
+      "Progressed": 1944,
       "Completed": 1
     }
   ],
@@ -7680,8 +7685,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-21T23:00:15.982699+00:00",
-  "LastChanged_Achievements": "2023-12-02T12:06:28.4049547+00:00",
+  "LastChanged_Achievements": "2023-12-02T13:10:17.1810031+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:27.1285109+00:00",
-  "LastUpdate_Ratings": "2023-12-02T11:57:42.0643463+00:00",
-  "LastUpdate_Achievements": "2023-12-02T12:06:28.4050115+00:00"
+  "LastUpdate_Ratings": "2023-12-02T12:59:49.4085612+00:00",
+  "LastUpdate_Achievements": "2023-12-02T13:10:17.1810704+00:00"
 }

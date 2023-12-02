@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 438,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 431,
+  "EOS_Progressed": 432,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -433,6 +433,11 @@
       "Time": "2023-11-28T16:03:50.122271+00:00",
       "NumProgressed": 431,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T13:07:37.6741594+00:00",
+      "NumProgressed": 432,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -524,7 +529,7 @@
       "Name": "Metropolis",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "Multitalent",
@@ -554,9 +559,9 @@
       "ID": "PlanetIqunox",
       "SetID": "c2k469b",
       "Name": "Iqunox",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 39
     },
     {
       "ID": "PlanetJoma",
@@ -564,7 +569,7 @@
       "Name": "Joma",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "PlanetLorian",
@@ -588,7 +593,7 @@
       "Name": "Rounos",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "PlanetThera",
@@ -604,7 +609,7 @@
       "Name": "Tuto",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "PlanetUdionTorix",
@@ -635,7 +640,7 @@
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 431,
+      "Progressed": 432,
       "Completed": 0
     }
   ],
@@ -643,8 +648,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-11-02T00:00:47.6208108+00:00",
-  "LastChanged_Achievements": "2023-12-02T12:05:28.6758803+00:00",
+  "LastChanged_Achievements": "2023-12-02T13:07:37.6741592+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:02.1117639+00:00",
-  "LastUpdate_Ratings": "2023-12-02T11:57:19.4176433+00:00",
-  "LastUpdate_Achievements": "2023-12-02T12:05:28.6759015+00:00"
+  "LastUpdate_Ratings": "2023-12-02T12:59:26.9017806+00:00",
+  "LastUpdate_Achievements": "2023-12-02T13:07:37.674198+00:00"
 }

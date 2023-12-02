@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14015,
+  "EOS_Progressed": 14018,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 1182,
+  "EOS_NewPlayers": 1172,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2216,6 +2216,11 @@
       "Time": "2023-12-02T12:08:42.2039065+00:00",
       "NumProgressed": 14015,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-02T13:10:50.8446754+00:00",
+      "NumProgressed": 14018,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -2228,7 +2233,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 5326
+      "UsersEstimate": 5327
     },
     {
       "ID": "ACH_AE_10",
@@ -2236,7 +2241,7 @@
       "Name": "Together We Fight",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "ACH_AE_11",
@@ -2260,7 +2265,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 10511
+      "UsersEstimate": 10514
     },
     {
       "ID": "ACH_AE_14",
@@ -2276,7 +2281,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3083
+      "UsersEstimate": 3084
     },
     {
       "ID": "ACH_AE_16",
@@ -2308,7 +2313,7 @@
       "Name": "Signature Style",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1962
+      "UsersEstimate": 1963
     },
     {
       "ID": "ACH_AE_2",
@@ -2316,7 +2321,7 @@
       "Name": "Back to School",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3223
+      "UsersEstimate": 3224
     },
     {
       "ID": "ACH_AE_20",
@@ -2340,7 +2345,7 @@
       "Name": "The High Road",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 3223
+      "UsersEstimate": 3224
     },
     {
       "ID": "ACH_AE_23",
@@ -2396,7 +2401,7 @@
       "Name": "Swiped Right",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "ACH_AE_3",
@@ -2476,7 +2481,7 @@
       "Name": "Betrayal",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "ACH_AE_7",
@@ -2500,14 +2505,14 @@
       "Name": "Paradise Lost",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     }
   ],
   "AchievementSets": [
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 14015,
+      "Progressed": 14018,
       "Completed": 13
     }
   ],
@@ -2515,8 +2520,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-02T05:02:50.2385105+00:00",
-  "LastChanged_Achievements": "2023-12-02T12:08:42.203906+00:00",
+  "LastChanged_Achievements": "2023-12-02T13:10:50.8446753+00:00",
   "LastUpdate_AppInfo": "2023-11-28T15:57:01.0190602+00:00",
-  "LastUpdate_Ratings": "2023-12-02T12:02:50.9392373+00:00",
-  "LastUpdate_Achievements": "2023-12-02T12:08:42.2039377+00:00"
+  "LastUpdate_Ratings": "2023-12-02T13:04:56.3307994+00:00",
+  "LastUpdate_Achievements": "2023-12-02T13:10:50.8447056+00:00"
 }

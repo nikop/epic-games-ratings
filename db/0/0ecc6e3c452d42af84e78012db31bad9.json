@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4297,
+  "EOS_Progressed": 4298,
   "EOS_Completed": 36,
   "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 2,
@@ -10804,6 +10804,11 @@
       "Time": "2023-12-02T12:05:12.9182779+00:00",
       "NumProgressed": 4297,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-12-02T13:07:21.5732981+00:00",
+      "NumProgressed": 4298,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 16,
@@ -10911,7 +10916,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 3223
+      "UsersEstimate": 3224
     },
     {
       "ID": "ach_magic_wand",
@@ -10942,14 +10947,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4297,
+      "Progressed": 4298,
       "Completed": 36
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-12-02T12:05:12.9182773+00:00",
+  "LastChanged_Achievements": "2023-12-02T13:07:21.5732978+00:00",
   "LastUpdate_AppInfo": "2023-12-01T21:56:53.9270768+00:00",
-  "LastUpdate_Ratings": "2023-12-02T11:57:42.5513301+00:00",
-  "LastUpdate_Achievements": "2023-12-02T12:05:12.9183707+00:00"
+  "LastUpdate_Ratings": "2023-12-02T12:59:49.8744325+00:00",
+  "LastUpdate_Achievements": "2023-12-02T13:07:21.5734001+00:00"
 }

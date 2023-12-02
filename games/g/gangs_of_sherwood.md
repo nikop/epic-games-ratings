@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 89.00% | ~40 |
-| Air Fighter | 87.00% | ~39 |
-| Oo-De-Lally | 76.00% | ~34 |
-| The Altruist | 71.00% | ~32 |
-| Treasure Hunter | 67.00% | ~30 |
-| Tap Dancing | 60.00% | ~27 |
-| Watch your Step! | 53.00% | ~24 |
-| MAX LEVEL | 53.00% | ~24 |
-| Right between the eyes | 49.00% | ~22 |
-| Spring Board | 42.00% | ~19 |
-| Starry Night | 40.00% | ~18 |
-| Merry Co-operation | 36.00% | ~16 |
+| Act of Kindness | 89.00% | ~41 |
+| Air Fighter | 87.00% | ~40 |
+| Oo-De-Lally | 76.00% | ~35 |
+| The Altruist | 70.00% | ~32 |
+| Treasure Hunter | 65.00% | ~30 |
+| Tap Dancing | 59.00% | ~27 |
+| Watch your Step! | 52.00% | ~24 |
+| MAX LEVEL | 52.00% | ~24 |
+| Right between the eyes | 48.00% | ~22 |
+| Spring Board | 43.00% | ~20 |
+| Starry Night | 39.00% | ~18 |
+| Locksley's Tears | 37.00% | ~17 |
+| Merry Co-operation | 35.00% | ~16 |
+| Rebel Unleashed | 35.00% | ~16 |
 | Savior | 33.00% | ~15 |
-| Locksley's Tears | 33.00% | ~15 |
-| Rebel Unleashed | 33.00% | ~15 |
-| Finish Him! | 31.00% | ~14 |
-| Assault on the Ram | 29.00% | ~13 |
-| First Aid | 27.00% | ~12 |
+| Finish Him! | 30.00% | ~14 |
+| Assault on the Ram | 28.00% | ~13 |
+| First Aid | 26.00% | ~12 |
 | Ultra Rebel Instinct | 24.00% | ~11 |
 | Merry Go Round | 24.00% | ~11 |
 | Ultra Combo | 20.00% | ~9 |
 | Take Action! | 20.00% | ~9 |
-| Ascending Will | 18.00% | ~8 |
-| Haute Couture | 16.00% | ~7 |
+| Ascending Will | 17.00% | ~8 |
+| Haute Couture | 15.00% | ~7 |
 | Brilliant Executioner | 11.00% | ~5 |
 | Hidden Experiment | 11.00% | ~5 |
 | Into the Lion's Den | 11.00% | ~5 |
@@ -58,7 +58,7 @@
 | Master of All | 0.00% | ~0 |
 | Fashionista | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45 (Ranked 507)  
+Progressed: 46 (Ranked 506)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,4 +71,4 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-29 | 24 | 0 |
 | 2023-11-30 | 30 | 0 |
 | 2023-12-01 | 44 | 0 |
-| 2023-12-02 | 45 | 0 |
+| 2023-12-02 | 46 | 0 |

@@ -1535,9 +1535,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 7068,
+  "EOS_Progressed": 7069,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -13870,6 +13870,11 @@
       "Time": "2023-12-02T12:04:02.4578167+00:00",
       "NumProgressed": 7068,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-02T13:06:09.6558538+00:00",
+      "NumProgressed": 7069,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -13881,7 +13886,7 @@
       "Name": "Get A Room",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 5301
+      "UsersEstimate": 5302
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -13889,7 +13894,7 @@
       "Name": "Beam Me Up",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 3675
+      "UsersEstimate": 3676
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -13945,7 +13950,7 @@
       "Name": "Deerly Departed",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "HUNT_DEER_5",
@@ -14001,7 +14006,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 4311
+      "UsersEstimate": 4312
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -14081,7 +14086,7 @@
       "Name": "The First Week",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 3887
+      "UsersEstimate": 3888
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -14089,7 +14094,7 @@
       "Name": "Novice Researcher",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 4806
+      "UsersEstimate": 4807
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -14113,30 +14118,30 @@
       "Name": "Onward",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 4099
+      "UsersEstimate": 4100
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
       "SetID": "5349c2e",
       "Name": "Studious Researcher",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 3746
+      "UsersEstimate": 3676
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7068,
+      "Progressed": 7069,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-11-30T18:00:41.6530659+00:00",
-  "LastChanged_Achievements": "2023-12-02T12:04:02.4578161+00:00",
+  "LastChanged_Achievements": "2023-12-02T13:06:09.6558536+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:23.1121034+00:00",
-  "LastUpdate_Ratings": "2023-12-02T11:57:59.6274778+00:00",
-  "LastUpdate_Achievements": "2023-12-02T12:04:02.4578894+00:00"
+  "LastUpdate_Ratings": "2023-12-02T13:00:05.9985279+00:00",
+  "LastUpdate_Achievements": "2023-12-02T13:06:09.6559448+00:00"
 }
