@@ -7705,9 +7705,9 @@
       "Count": 1380
     }
   ],
-  "EOS_Progressed": 1791130,
+  "EOS_Progressed": 1791131,
   "EOS_Completed": 716,
-  "EOS_NewPlayers": 6168,
+  "EOS_NewPlayers": 6107,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -28555,6 +28555,11 @@
       "Time": "2023-12-02T21:10:22.9689984+00:00",
       "NumProgressed": 1791130,
       "NumCompleted": 716
+    },
+    {
+      "Time": "2023-12-02T22:10:04.6247547+00:00",
+      "NumProgressed": 1791131,
+      "NumCompleted": 716
     }
   ],
   "TotalAchievements": 1328,
@@ -28622,7 +28627,7 @@
       "Name": "The Collector",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 89556
+      "UsersEstimate": 89557
     },
     {
       "ID": "armed_and_dangerous",
@@ -28638,7 +28643,7 @@
       "Name": "Would You Like Your Receipt?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 89556
+      "UsersEstimate": 89557
     },
     {
       "ID": "armored_1",
@@ -39070,7 +39075,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 89556
+      "UsersEstimate": 89557
     },
     {
       "ID": "wwh_1",
@@ -39189,13 +39194,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1791130,
+      "Progressed": 1791131,
       "Completed": 716
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1791130,
+      "Progressed": 1791131,
       "Completed": 115
     }
   ],
@@ -39203,8 +39208,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-12-02T16:59:37.8485333+00:00",
-  "LastChanged_Achievements": "2023-12-02T21:10:22.9689982+00:00",
+  "LastChanged_Achievements": "2023-12-02T22:10:04.6247542+00:00",
   "LastUpdate_AppInfo": "2023-12-01T05:57:06.1515486+00:00",
-  "LastUpdate_Ratings": "2023-12-02T20:59:07.3020519+00:00",
-  "LastUpdate_Achievements": "2023-12-02T21:10:22.9809892+00:00"
+  "LastUpdate_Ratings": "2023-12-02T21:59:29.0739501+00:00",
+  "LastUpdate_Achievements": "2023-12-02T22:10:04.6367836+00:00"
 }

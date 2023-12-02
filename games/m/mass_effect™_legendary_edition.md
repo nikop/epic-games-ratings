@@ -39,8 +39,8 @@
 | The Professor | 38.00% | ~563 |
 | Power Full | 37.00% | ~548 |
 | The Convict | 36.00% | ~534 |
+| Colony Defense | 35.00% | ~519 |
 | The Krogan | 35.00% | ~519 |
-| Colony Defense | 34.00% | ~504 |
 | Broke, Blind, and Bedlam | 34.00% | ~504 |
 | Galactic Explorer | 33.00% | ~489 |
 | Shopaholic | 33.00% | ~489 |
@@ -50,12 +50,12 @@
 | The Justicar | 32.00% | ~474 |
 | The Quarian | 32.00% | ~474 |
 | Battlemaster | 32.00% | ~474 |
+| Ghost of the Father | 32.00% | ~474 |
 | The Cure | 32.00% | ~474 |
 | The Prodigal | 32.00% | ~474 |
 | Driven | 32.00% | ~474 |
 | Completionist | 31.00% | ~459 |
 | Catharsis | 31.00% | ~459 |
-| Ghost of the Father | 31.00% | ~459 |
 | Big Game Hunter | 31.00% | ~459 |
 | Revenge! | 31.00% | ~459 |
 | Bringer of War | 31.00% | ~459 |

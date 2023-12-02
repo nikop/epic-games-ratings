@@ -8,7 +8,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | ---- | ---------- | ----- |
 | Unseen Assassin | 46.00% | ~627,167 |
 | Death From Above | 45.00% | ~613,533 |
-| Master of the Household | 38.00% | ~518,094 |
+| Master of the Household | 38.00% | ~518,095 |
 | Death of the Party | 35.00% | ~477,192 |
 | NEXUS-47 | 32.00% | ~436,290 |
 | The Last Tango | 31.00% | ~422,656 |
@@ -26,9 +26,9 @@ Number of Ratings: 21,082  (23.09.2022)
 | Last Stop | 10.00% | ~136,341 |
 | A New Profile | 9.00% | ~122,707 |
 | Full House | 9.00% | ~122,707 |
-| Dune Raider | 8.00% | ~109,072 |
-| No Stone Unturned | 8.00% | ~109,072 |
-| Train Surfing | 8.00% | ~109,072 |
+| Dune Raider | 8.00% | ~109,073 |
+| No Stone Unturned | 8.00% | ~109,073 |
+| Train Surfing | 8.00% | ~109,073 |
 | Family Feud | 6.00% | ~81,804 |
 | Icebreaker | 6.00% | ~81,804 |
 | Count Down From 47 | 6.00% | ~81,804 |
@@ -54,7 +54,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,634 |
 | The Creative Assassin | 0.70% | ~9,544 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,363,406 (Ranked 9)  
+Progressed: 1,363,407 (Ranked 9)  
 Completed: 2,195 (0.16%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 2,195 (0.16%) (Ranked 269)
 | 2023-11-29 | 1,362,445 | 2,193 |
 | 2023-11-30 | 1,362,767 | 2,193 |
 | 2023-12-01 | 1,363,088 | 2,194 |
-| 2023-12-02 | 1,363,406 | 2,195 |
+| 2023-12-02 | 1,363,407 | 2,195 |
 ## Awards
 Max (Diverse Characters): 10,876  (Ranked 37)  
 Sum: 74,545 (Ranked 22)  

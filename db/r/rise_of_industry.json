@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 48,
+  "Ranking_EOS_NewPlayers": 49,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -306,9 +306,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 756501,
+  "EOS_Progressed": 756502,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1728,
+  "EOS_NewPlayers": 1709,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26271,6 +26271,11 @@
       "Time": "2023-12-02T20:10:00.7905489+00:00",
       "NumProgressed": 756501,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-02T22:08:03.290629+00:00",
+      "NumProgressed": 756502,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -26346,7 +26351,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 279905
+      "UsersEstimate": 279906
     },
     {
       "ID": "ach_demolish_trees",
@@ -26410,7 +26415,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 363120
+      "UsersEstimate": 363121
     },
     {
       "ID": "ach_produced",
@@ -26497,7 +26502,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 756501,
+      "Progressed": 756502,
       "Completed": 4
     }
   ],
@@ -26505,8 +26510,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-12-01T16:00:20.573033+00:00",
-  "LastChanged_Achievements": "2023-12-02T21:08:31.0222237+00:00",
+  "LastChanged_Achievements": "2023-12-02T22:08:03.2906285+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:35.1283048+00:00",
-  "LastUpdate_Ratings": "2023-12-02T21:00:09.3467495+00:00",
-  "LastUpdate_Achievements": "2023-12-02T21:08:31.0223814+00:00"
+  "LastUpdate_Ratings": "2023-12-02T22:00:40.5811697+00:00",
+  "LastUpdate_Achievements": "2023-12-02T22:08:03.290754+00:00"
 }

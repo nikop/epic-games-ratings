@@ -227,9 +227,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 502274,
+  "EOS_Progressed": 502276,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 4050,
+  "EOS_NewPlayers": 4008,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -9682,6 +9682,11 @@
       "Time": "2023-12-02T20:08:45.0886396+00:00",
       "NumProgressed": 502274,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2023-12-02T22:07:26.4739595+00:00",
+      "NumProgressed": 502276,
+      "NumCompleted": 86
     }
   ],
   "AchievementsAdded": "2023-09-07T15:04:00.2217259+00:00",
@@ -9710,7 +9715,7 @@
       "Name": "Community Policing Medal",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 30136
+      "UsersEstimate": 30137
     },
     {
       "ID": "achiv_driving",
@@ -9726,7 +9731,7 @@
       "Name": "Field Training Officer Medal",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 366660
+      "UsersEstimate": 366661
     },
     {
       "ID": "achiv_fires",
@@ -9774,7 +9779,7 @@
       "Name": "Lifesaving Medal",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 195887
+      "UsersEstimate": 195888
     },
     {
       "ID": "achiv_meds",
@@ -9798,7 +9803,7 @@
       "Name": "Perfect Time Manager",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 10045
+      "UsersEstimate": 10046
     },
     {
       "ID": "achiv_sacrefice",
@@ -9837,7 +9842,7 @@
     {
       "ID": "7oh7228",
       "IsBase": true,
-      "Progressed": 502274,
+      "Progressed": 502276,
       "Completed": 86
     }
   ],
@@ -9845,8 +9850,8 @@
   "FirstSeenRating": "2023-09-15T13:59:44.5988414+00:00",
   "FirstSeenAchievements": "2023-09-07T15:04:00.2217258+00:00",
   "LastChanged": "2023-11-25T16:01:34.3628678+00:00",
-  "LastChanged_Achievements": "2023-12-02T21:06:46.518244+00:00",
+  "LastChanged_Achievements": "2023-12-02T22:07:26.4739592+00:00",
   "LastUpdate_AppInfo": "2023-11-30T21:57:12.6903274+00:00",
-  "LastUpdate_Ratings": "2023-12-02T21:03:14.1907597+00:00",
-  "LastUpdate_Achievements": "2023-12-02T21:06:46.5182874+00:00"
+  "LastUpdate_Ratings": "2023-12-02T22:03:16.5686931+00:00",
+  "LastUpdate_Achievements": "2023-12-02T22:07:26.4740197+00:00"
 }

@@ -2223,9 +2223,9 @@
       "Count": 392
     }
   ],
-  "EOS_Progressed": 55762,
+  "EOS_Progressed": 55763,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1048,
+  "EOS_NewPlayers": 1039,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10708,6 +10708,11 @@
       "Time": "2023-12-02T21:05:29.471155+00:00",
       "NumProgressed": 55762,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T22:06:03.4440739+00:00",
+      "NumProgressed": 55763,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -10752,7 +10757,7 @@
       "Name": "Squad Building Completionist",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 30111
+      "UsersEstimate": 30112
     },
     {
       "ID": "achievement_14",
@@ -10760,7 +10765,7 @@
       "Name": "The Alchemist",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 27881
+      "UsersEstimate": 27882
     },
     {
       "ID": "achievement_15",
@@ -10768,7 +10773,7 @@
       "Name": "Trust me, I\u0027m a Manager",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 27323
+      "UsersEstimate": 27324
     },
     {
       "ID": "achievement_16",
@@ -10824,7 +10829,7 @@
       "Name": "We\u0027re in the Game!",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 46282
+      "UsersEstimate": 46283
     },
     {
       "ID": "achievement_22",
@@ -10832,7 +10837,7 @@
       "Name": "Level Up!",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 28996
+      "UsersEstimate": 28997
     },
     {
       "ID": "achievement_23",
@@ -10888,7 +10893,7 @@
       "Name": "Walk the Walk",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2230
+      "UsersEstimate": 2231
     },
     {
       "ID": "achievement_3",
@@ -10944,7 +10949,7 @@
       "Name": "Golden Generation",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 6691
+      "UsersEstimate": 6692
     },
     {
       "ID": "achievement_36",
@@ -10960,7 +10965,7 @@
       "Name": "Do Your Homework",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2230
+      "UsersEstimate": 2231
     },
     {
       "ID": "achievement_38",
@@ -10984,7 +10989,7 @@
       "Name": "Shop till you drop",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2230
+      "UsersEstimate": 2231
     },
     {
       "ID": "achievement_40",
@@ -11024,7 +11029,7 @@
       "Name": "Power Shot",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 41264
+      "UsersEstimate": 41265
     },
     {
       "ID": "achievement_9",
@@ -11039,7 +11044,7 @@
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 55762,
+      "Progressed": 55763,
       "Completed": 0
     }
   ],
@@ -11047,8 +11052,8 @@
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
   "LastChanged": "2023-12-02T10:57:25.0916421+00:00",
-  "LastChanged_Achievements": "2023-12-02T21:05:29.4711548+00:00",
+  "LastChanged_Achievements": "2023-12-02T22:06:03.4440734+00:00",
   "LastUpdate_AppInfo": "2023-12-01T05:57:07.0815744+00:00",
-  "LastUpdate_Ratings": "2023-12-02T20:57:42.3115984+00:00",
-  "LastUpdate_Achievements": "2023-12-02T21:05:29.4712065+00:00"
+  "LastUpdate_Ratings": "2023-12-02T21:57:41.8573743+00:00",
+  "LastUpdate_Achievements": "2023-12-02T22:06:03.4441433+00:00"
 }

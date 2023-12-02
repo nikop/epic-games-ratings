@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-10-02T04:00:00+00:00",
     "PcReleaseDate": "2020-10-02T04:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25825,
+  "EOS_Progressed": 25827,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2273,
+  "EOS_NewPlayers": 2257,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8744,6 +8744,11 @@
       "Time": "2023-12-02T21:10:16.3751567+00:00",
       "NumProgressed": 25825,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-02T22:09:57.8367084+00:00",
+      "NumProgressed": 25827,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -8852,7 +8857,7 @@
       "Name": "Stun \u0027Em",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "achievement_21",
@@ -8980,7 +8985,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 24534
+      "UsersEstimate": 24536
     },
     {
       "ID": "achievement_36",
@@ -8996,7 +9001,7 @@
       "Name": "Asset Secured",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3357
+      "UsersEstimate": 3358
     },
     {
       "ID": "achievement_38",
@@ -9092,7 +9097,7 @@
       "Name": "Dressed for the Job You Want",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "achievement_6",
@@ -9100,7 +9105,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3357
+      "UsersEstimate": 3358
     },
     {
       "ID": "achievement_7",
@@ -9131,7 +9136,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 25825,
+      "Progressed": 25827,
       "Completed": 2
     }
   ],
@@ -9139,8 +9144,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-12-02T21:10:16.3751565+00:00",
+  "LastChanged_Achievements": "2023-12-02T22:09:57.8367081+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:20.4359375+00:00",
-  "LastUpdate_Ratings": "2023-12-02T21:03:40.6168556+00:00",
-  "LastUpdate_Achievements": "2023-12-02T21:10:16.3752169+00:00"
+  "LastUpdate_Ratings": "2023-12-02T22:04:00.6845068+00:00",
+  "LastUpdate_Achievements": "2023-12-02T22:09:57.8367809+00:00"
 }

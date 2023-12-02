@@ -1452,9 +1452,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 283250,
+  "EOS_Progressed": 283251,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 11043,
+  "EOS_NewPlayers": 10860,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6187,6 +6187,11 @@
       "Time": "2023-12-02T21:08:54.0172976+00:00",
       "NumProgressed": 283250,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-02T22:08:27.973196+00:00",
+      "NumProgressed": 283251,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-10-24T04:04:23.8047747+00:00",
@@ -6199,7 +6204,7 @@
       "Name": "Shadow\u0027s Bane",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 25492
+      "UsersEstimate": 25493
     },
     {
       "ID": "CraftedDurinsAxe",
@@ -6215,7 +6220,7 @@
       "Name": "Decked Out",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14162
+      "UsersEstimate": 14163
     },
     {
       "ID": "CraftedFullSetBrews",
@@ -6247,7 +6252,7 @@
       "Name": "Suit Up",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 158620
+      "UsersEstimate": 158621
     },
     {
       "ID": "CraftedFullSetKhazad",
@@ -6255,7 +6260,7 @@
       "Name": "Battering Ram",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 36822
+      "UsersEstimate": 36823
     },
     {
       "ID": "CraftedFullSetMetaElven",
@@ -6287,7 +6292,7 @@
       "Name": "Shielded",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2832
+      "UsersEstimate": 2833
     },
     {
       "ID": "CraftedFullSetMithril",
@@ -6303,7 +6308,7 @@
       "Name": "Westgate Weaponcraft",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 25492
+      "UsersEstimate": 25493
     },
     {
       "ID": "CraftedFullSetWeaponsCh3",
@@ -6327,7 +6332,7 @@
       "Name": "Miner\u0027s Helper",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 175615
+      "UsersEstimate": 175616
     },
     {
       "ID": "DefeatedBolgakh",
@@ -6335,7 +6340,7 @@
       "Name": "Line of Azog, Ended",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 93472
+      "UsersEstimate": 93473
     },
     {
       "ID": "DefeatedShadowDragon",
@@ -6351,7 +6356,7 @@
       "Name": "False King, Deposed",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 36822
+      "UsersEstimate": 36823
     },
     {
       "ID": "DiscoveredAngryCaverns",
@@ -6359,7 +6364,7 @@
       "Name": "Caradhras The Cruel",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 48152
+      "UsersEstimate": 48153
     },
     {
       "ID": "DiscoveredDwarrowdelf",
@@ -6375,7 +6380,7 @@
       "Name": "Speak Friend",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 237930
+      "UsersEstimate": 237931
     },
     {
       "ID": "DiscoveredHighway",
@@ -6383,7 +6388,7 @@
       "Name": "A Memory of this Place",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 48152
+      "UsersEstimate": 48153
     },
     {
       "ID": "DiscoveredLowerDeeps",
@@ -6414,7 +6419,7 @@
     {
       "ID": "1cnmn8b",
       "IsBase": true,
-      "Progressed": 283250,
+      "Progressed": 283251,
       "Completed": 12
     }
   ],
@@ -6422,8 +6427,8 @@
   "FirstSeenRating": "2023-10-24T23:00:00.8997493+00:00",
   "FirstSeenAchievements": "2023-08-08T22:03:55.1596043+00:00",
   "LastChanged": "2023-12-02T18:59:01.1170273+00:00",
-  "LastChanged_Achievements": "2023-12-02T21:08:54.0172974+00:00",
+  "LastChanged_Achievements": "2023-12-02T22:08:27.9731955+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:15.746835+00:00",
-  "LastUpdate_Ratings": "2023-12-02T20:58:52.5570104+00:00",
-  "LastUpdate_Achievements": "2023-12-02T21:08:54.017325+00:00"
+  "LastUpdate_Ratings": "2023-12-02T21:59:07.9040932+00:00",
+  "LastUpdate_Achievements": "2023-12-02T22:08:27.9732348+00:00"
 }

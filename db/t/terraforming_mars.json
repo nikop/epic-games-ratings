@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 172,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -3265,9 +3265,9 @@
       "Count": 254
     }
   ],
-  "EOS_Progressed": 84756,
+  "EOS_Progressed": 84757,
   "EOS_Completed": 169,
-  "EOS_NewPlayers": 791,
+  "EOS_NewPlayers": 779,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -28535,6 +28535,11 @@
       "Time": "2023-12-02T21:08:22.8722418+00:00",
       "NumProgressed": 84756,
       "NumCompleted": 169
+    },
+    {
+      "Time": "2023-12-02T22:07:54.6272177+00:00",
+      "NumProgressed": 84757,
+      "NumCompleted": 169
     }
   ],
   "TotalAchievements": 30,
@@ -28714,7 +28719,7 @@
       "Name": "Money money",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 12713
+      "UsersEstimate": 12714
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -28738,7 +28743,7 @@
       "Name": "Frequent tester",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 6780
+      "UsersEstimate": 6781
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -28778,22 +28783,22 @@
       "Name": "Determined",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 6780
+      "UsersEstimate": 6781
     }
   ],
   "AchievementSets": [
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 84756,
+      "Progressed": 84757,
       "Completed": 169
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-12-02T13:59:54.3578661+00:00",
-  "LastChanged_Achievements": "2023-12-02T21:08:22.8722416+00:00",
+  "LastChanged_Achievements": "2023-12-02T22:07:54.6272174+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:29.0449406+00:00",
-  "LastUpdate_Ratings": "2023-12-02T21:00:04.684026+00:00",
-  "LastUpdate_Achievements": "2023-12-02T21:08:22.8723733+00:00"
+  "LastUpdate_Ratings": "2023-12-02T22:00:35.3756878+00:00",
+  "LastUpdate_Achievements": "2023-12-02T22:07:54.6273628+00:00"
 }

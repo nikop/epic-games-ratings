@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
     "PcReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2206,9 +2206,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 685157,
+  "EOS_Progressed": 685158,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1583,
+  "EOS_NewPlayers": 1565,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28116,6 +28116,11 @@
       "Time": "2023-12-02T21:10:17.3864246+00:00",
       "NumProgressed": 685157,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-02T22:09:58.9270426+00:00",
+      "NumProgressed": 685158,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 54,
@@ -28127,7 +28132,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 541274
+      "UsersEstimate": 541275
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -28558,15 +28563,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 685157,
+      "Progressed": 685158,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-11-27T01:45:56.2783952+00:00",
-  "LastChanged_Achievements": "2023-12-02T21:10:17.3864245+00:00",
+  "LastChanged_Achievements": "2023-12-02T22:09:58.9270421+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:21.4586634+00:00",
-  "LastUpdate_Ratings": "2023-12-02T20:58:21.6633798+00:00",
-  "LastUpdate_Achievements": "2023-12-02T21:10:17.3865569+00:00"
+  "LastUpdate_Ratings": "2023-12-02T21:58:29.1859229+00:00",
+  "LastUpdate_Achievements": "2023-12-02T22:09:58.9271662+00:00"
 }

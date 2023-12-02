@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 32,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-12-08T16:00:00+00:00",
     "PcReleaseDate": "2013-08-20T00:00:00+00:00",
@@ -637,9 +637,9 @@
       "Count": 495
     }
   ],
-  "EOS_Progressed": 312376,
+  "EOS_Progressed": 312378,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 3872,
+  "EOS_NewPlayers": 3846,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26622,6 +26622,11 @@
       "Time": "2023-12-02T21:04:48.590008+00:00",
       "NumProgressed": 312376,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-12-02T22:05:19.3650542+00:00",
+      "NumProgressed": 312378,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 72,
@@ -26689,7 +26694,7 @@
       "Name": "All Too Easy",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 46856
+      "UsersEstimate": 46857
     },
     {
       "ID": "And I Ran...",
@@ -26785,7 +26790,7 @@
       "Name": "Destroyer-In-Chief",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 174931
+      "UsersEstimate": 174932
     },
     {
       "ID": "Didn\u0027t Need to See Him Naked",
@@ -26801,7 +26806,7 @@
       "Name": "Don\u0027t Look Down",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 90589
+      "UsersEstimate": 90590
     },
     {
       "ID": "Don\u0027t Panic",
@@ -26849,7 +26854,7 @@
       "Name": "First of Many",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 128074
+      "UsersEstimate": 128075
     },
     {
       "ID": "Fist Meet Ground",
@@ -27145,7 +27150,7 @@
       "Name": "There Is No Pancakes",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 165559
+      "UsersEstimate": 165560
     },
     {
       "ID": "Ultimate Hot Potato",
@@ -27177,7 +27182,7 @@
       "Name": "Woah.",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 112455
+      "UsersEstimate": 112456
     },
     {
       "ID": "You Chose... Poorly",
@@ -27193,7 +27198,7 @@
       "Name": "Zero Saints Thirty",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 196797
+      "UsersEstimate": 196798
     },
     {
       "ID": "Zoo Keeper",
@@ -27208,7 +27213,7 @@
     {
       "ID": "d4hjaom",
       "IsBase": true,
-      "Progressed": 312376,
+      "Progressed": 312378,
       "Completed": 17
     }
   ],
@@ -27216,8 +27221,8 @@
   "FirstSeenRating": "2022-12-09T02:11:05.5025317+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5717008+00:00",
   "LastChanged": "2023-12-02T06:59:24.7912531+00:00",
-  "LastChanged_Achievements": "2023-12-02T21:04:48.5900077+00:00",
+  "LastChanged_Achievements": "2023-12-02T22:05:19.3650539+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:44.0729274+00:00",
-  "LastUpdate_Ratings": "2023-12-02T21:00:02.3582658+00:00",
-  "LastUpdate_Achievements": "2023-12-02T21:04:48.5902095+00:00"
+  "LastUpdate_Ratings": "2023-12-02T22:00:32.8539215+00:00",
+  "LastUpdate_Achievements": "2023-12-02T22:05:19.3651939+00:00"
 }

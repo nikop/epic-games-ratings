@@ -5395,9 +5395,9 @@
       "Count": 675
     }
   ],
-  "EOS_Progressed": 3586438,
+  "EOS_Progressed": 3586440,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 2454,
+  "EOS_NewPlayers": 2432,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31390,6 +31390,11 @@
       "Time": "2023-12-02T21:05:54.8801427+00:00",
       "NumProgressed": 3586438,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-02T22:07:01.0650724+00:00",
+      "NumProgressed": 3586440,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 52,
@@ -31465,7 +31470,7 @@
       "Name": "Back in the black",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1398711
+      "UsersEstimate": 1398712
     },
     {
       "ID": "CASH_2",
@@ -31497,7 +31502,7 @@
       "Name": "But can it run Crysis?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 322779
+      "UsersEstimate": 322780
     },
     {
       "ID": "DATE",
@@ -31561,7 +31566,7 @@
       "Name": "That\u0027s what I\u0027m talking about",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1040067
+      "UsersEstimate": 1040068
     },
     {
       "ID": "JOBS_2",
@@ -31641,7 +31646,7 @@
       "Name": "You need to plug it in...",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 1757355
+      "UsersEstimate": 1757356
     },
     {
       "ID": "NO_PASTE",
@@ -31649,7 +31654,7 @@
       "Name": "Easy to forget",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1649761
+      "UsersEstimate": 1649762
     },
     {
       "ID": "OPC_BM_1",
@@ -31705,7 +31710,7 @@
       "Name": "My favourite feature...",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 322779
+      "UsersEstimate": 322780
     },
     {
       "ID": "PLAY_MUSIC",
@@ -31816,15 +31821,15 @@
     {
       "ID": "m0injl",
       "IsBase": true,
-      "Progressed": 3586438,
+      "Progressed": 3586440,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:21:06.3204437+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.9861995+00:00",
   "LastChanged": "2023-12-02T16:57:23.3332204+00:00",
-  "LastChanged_Achievements": "2023-12-02T21:05:54.8801425+00:00",
-  "LastUpdate_AppInfo": "2023-11-25T21:57:02.2207557+00:00",
-  "LastUpdate_Ratings": "2023-12-02T20:57:37.2648931+00:00",
-  "LastUpdate_Achievements": "2023-12-02T21:05:54.8802681+00:00"
+  "LastChanged_Achievements": "2023-12-02T22:07:01.0650719+00:00",
+  "LastUpdate_AppInfo": "2023-12-02T21:57:10.2187594+00:00",
+  "LastUpdate_Ratings": "2023-12-02T21:57:36.1938484+00:00",
+  "LastUpdate_Achievements": "2023-12-02T22:07:01.0652436+00:00"
 }

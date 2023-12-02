@@ -5,16 +5,16 @@ Rating: 4.41 (Ranked 727)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 63.00% | ~196,797 |
-| Destroyer-In-Chief | 56.00% | ~174,931 |
-| There Is No Pancakes | 53.00% | ~165,559 |
-| First of Many | 41.00% | ~128,074 |
-| Woah. | 36.00% | ~112,455 |
-| Don't Look Down | 29.00% | ~90,589 |
+| Zero Saints Thirty | 63.00% | ~196,798 |
+| Destroyer-In-Chief | 56.00% | ~174,932 |
+| There Is No Pancakes | 53.00% | ~165,560 |
+| First of Many | 41.00% | ~128,075 |
+| Woah. | 36.00% | ~112,456 |
+| Don't Look Down | 29.00% | ~90,590 |
 | Don't Panic | 27.00% | ~84,342 |
 | Ooo A Piece of Candy! | 22.00% | ~68,723 |
 | Ghost in the Machine | 17.00% | ~53,104 |
-| All Too Easy | 15.00% | ~46,856 |
+| All Too Easy | 15.00% | ~46,857 |
 | Didn't Need to See Him Naked | 13.00% | ~40,609 |
 | Indomitable | 10.00% | ~31,238 |
 | Bow to the Boss! | 9.00% | ~28,114 |
@@ -78,7 +78,7 @@ Rating: 4.41 (Ranked 727)
 | Super Power Team Up! | 0.10% | ~312 |
 | Ultimate Hot Potato | 0.10% | ~312 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 312,376 (Ranked 53)  
+Progressed: 312,378 (Ranked 53)  
 Completed: 17 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 17 (0.01%) (Ranked 344)
 | 2023-11-29 | 310,778 | 17 |
 | 2023-11-30 | 311,252 | 17 |
 | 2023-12-01 | 311,822 | 17 |
-| 2023-12-02 | 312,376 | 17 |
+| 2023-12-02 | 312,378 | 17 |
 ## Awards
 Max (Great Boss Battles): 495  (Ranked 213)  
 Sum: 495 (Ranked 327)  

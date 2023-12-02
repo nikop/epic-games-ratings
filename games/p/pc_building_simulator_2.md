@@ -7,18 +7,18 @@ Rating: 4.60 (Ranked 421)
 | ---- | ---------- | ----- |
 | Bootstrapping | 62.00% | ~167,755 |
 | Shine On | 58.00% | ~156,932 |
-| On the Job | 56.00% | ~151,520 |
+| On the Job | 56.00% | ~151,521 |
 | Get Stuck In | 54.00% | ~146,109 |
 | Room for Expansion | 54.00% | ~146,109 |
 | Chill Out | 54.00% | ~146,109 |
-| Sales Pitch | 52.00% | ~140,697 |
+| Sales Pitch | 52.00% | ~140,698 |
 | Grand Designs | 51.00% | ~137,992 |
-| Tinker | 49.00% | ~132,580 |
-| Hot Stuff | 45.00% | ~121,757 |
-| MOAR RGB | 42.00% | ~113,640 |
-| Dream Theme | 35.00% | ~94,700 |
-| Working Hard | 34.00% | ~91,994 |
-| The Customer is King | 34.00% | ~91,994 |
+| Tinker | 49.00% | ~132,581 |
+| Hot Stuff | 45.00% | ~121,758 |
+| MOAR RGB | 42.00% | ~113,641 |
+| Dream Theme | 35.00% | ~94,701 |
+| Working Hard | 34.00% | ~91,995 |
+| The Customer is King | 34.00% | ~91,995 |
 | On the Bench | 33.00% | ~89,289 |
 | The More the Merrier | 32.00% | ~86,583 |
 | Mix and Match | 29.00% | ~78,466 |
@@ -30,8 +30,8 @@ Rating: 4.60 (Ranked 421)
 | Repair Master | 25.00% | ~67,643 |
 | Bench Warmer | 21.00% | ~56,820 |
 | Local Hero | 21.00% | ~56,820 |
-| Broken to Smokin' | 20.00% | ~54,114 |
-| Workaholic | 20.00% | ~54,114 |
+| Broken to Smokin' | 20.00% | ~54,115 |
+| Workaholic | 20.00% | ~54,115 |
 | Thanks Jeff | 19.00% | ~51,409 |
 | On the Ladder | 18.00% | ~48,703 |
 | Cinematic | 18.00% | ~48,703 |
@@ -65,7 +65,7 @@ Rating: 4.60 (Ranked 421)
 | Keep 'Em Coming | 0.30% | ~812 |
 | Export Expert | 0.20% | ~541 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 270,572 (Ranked 57)  
+Progressed: 270,573 (Ranked 57)  
 Completed: 157 (0.06%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 157 (0.06%) (Ranked 311)
 | 2023-11-29 | 268,010 | 157 |
 | 2023-11-30 | 268,632 | 157 |
 | 2023-12-01 | 269,792 | 157 |
-| 2023-12-02 | 270,572 | 157 |
+| 2023-12-02 | 270,573 | 157 |
 ## Awards
 Max (Great for Beginners): 742  (Ranked 178)  
 Sum: 5,267 (Ranked 136)  

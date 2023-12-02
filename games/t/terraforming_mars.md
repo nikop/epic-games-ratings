@@ -20,7 +20,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Master | 19.00% | ~16,104 |
 | No Longer Red | 18.00% | ~15,256 |
 | Self-sufficient | 18.00% | ~15,256 |
-| Money money | 15.00% | ~12,713 |
+| Money money | 15.00% | ~12,714 |
 | Biggest Reward | 14.00% | ~11,866 |
 | First Journey | 13.00% | ~11,018 |
 | Acquired knowledge | 12.00% | ~10,171 |
@@ -31,13 +31,13 @@ Number of Ratings: 2,731  (23.09.2022)
 | Spirit | 10.00% | ~8,476 |
 | Ultimate success | 10.00% | ~8,476 |
 | Variety Expert | 9.00% | ~7,628 |
-| Frequent tester | 8.00% | ~6,780 |
-| Determined | 8.00% | ~6,780 |
+| Frequent tester | 8.00% | ~6,781 |
+| Determined | 8.00% | ~6,781 |
 | Terraformer | 4.00% | ~3,390 |
 | Team Effort | 3.00% | ~2,543 |
 | Opportunity | 3.00% | ~2,543 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 84,756 (Ranked 94)  
+Progressed: 84,757 (Ranked 94)  
 Completed: 169 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 169 (0.20%) (Ranked 257)
 | 2023-11-29 | 84,427 | 166 |
 | 2023-11-30 | 84,528 | 168 |
 | 2023-12-01 | 84,641 | 168 |
-| 2023-12-02 | 84,756 | 169 |
+| 2023-12-02 | 84,757 | 169 |
 ## Awards
 Max (Relaxing): 528  (Ranked 209)  
 Sum: 3,274 (Ranked 172)  

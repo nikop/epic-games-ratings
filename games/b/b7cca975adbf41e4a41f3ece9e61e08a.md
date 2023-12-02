@@ -5,7 +5,7 @@ Rating: 4.74 (Ranked 158)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 91.00% | ~9,625 |
+| Last Night...Did We... | 92.00% | ~9,731 |
 | I Challenge You To Save More Money! | 86.00% | ~9,096 |
 | I Love How Tough You Are | 72.00% | ~7,615 |
 | Wanna Come To My Place For Dinner? | 66.00% | ~6,981 |

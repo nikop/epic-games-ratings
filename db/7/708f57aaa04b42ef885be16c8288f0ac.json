@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -171,9 +171,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7296,
+  "EOS_Progressed": 7297,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 766,
+  "EOS_NewPlayers": 764,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5296,6 +5296,11 @@
       "Time": "2023-12-02T20:11:32.0033433+00:00",
       "NumProgressed": 7296,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-02T22:09:42.6585044+00:00",
+      "NumProgressed": 7297,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5348,7 +5353,7 @@
       "Name": "Connection Lost",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "Eavesdropper",
@@ -5452,7 +5457,7 @@
       "Name": "Nasty!",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "NoMoreTotems",
@@ -5500,7 +5505,7 @@
       "Name": "The Old-School Way",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "TheQuarterback",
@@ -5579,7 +5584,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7296,
+      "Progressed": 7297,
       "Completed": 13
     }
   ],
@@ -5587,8 +5592,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-02T04:02:27.6504223+00:00",
-  "LastChanged_Achievements": "2023-12-02T21:10:02.5999608+00:00",
+  "LastChanged_Achievements": "2023-12-02T22:09:42.6585041+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-02T20:57:40.6234531+00:00",
-  "LastUpdate_Achievements": "2023-12-02T21:10:02.5999971+00:00"
+  "LastUpdate_Ratings": "2023-12-02T21:57:39.9427395+00:00",
+  "LastUpdate_Achievements": "2023-12-02T22:09:42.6585501+00:00"
 }

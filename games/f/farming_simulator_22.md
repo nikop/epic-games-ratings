@@ -6,22 +6,22 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 74.00% | ~40,365 |
-| I read Shakespeare and stuff | 62.00% | ~33,819 |
-| Just a sprinkle | 61.00% | ~33,274 |
-| I'm stumped | 59.00% | ~32,183 |
-| Plant get enough | 59.00% | ~32,183 |
-| It's just the beginning | 57.00% | ~31,092 |
-| This is just my weekend vehicle | 56.00% | ~30,546 |
-| Hard work pays off | 52.00% | ~28,364 |
-| It's never too late to farm | 49.00% | ~26,728 |
-| All out of Land | 43.00% | ~23,455 |
-| Field Trip | 42.00% | ~22,910 |
-| I like to switch it up | 39.00% | ~21,273 |
-| Help me to help you | 37.00% | ~20,182 |
+| Own use | 74.00% | ~40,366 |
+| I read Shakespeare and stuff | 62.00% | ~33,820 |
+| Just a sprinkle | 61.00% | ~33,275 |
+| I'm stumped | 59.00% | ~32,184 |
+| Plant get enough | 59.00% | ~32,184 |
+| It's just the beginning | 57.00% | ~31,093 |
+| This is just my weekend vehicle | 56.00% | ~30,547 |
+| Hard work pays off | 52.00% | ~28,365 |
+| It's never too late to farm | 49.00% | ~26,729 |
+| All out of Land | 43.00% | ~23,456 |
+| Field Trip | 42.00% | ~22,911 |
+| I like to switch it up | 39.00% | ~21,274 |
+| Help me to help you | 37.00% | ~20,183 |
 | Ultimutt Pawesomeness | 27.00% | ~14,728 |
 | Van Gogh | 25.00% | ~13,637 |
-| Vehicle fleet | 22.00% | ~12,000 |
+| Vehicle fleet | 22.00% | ~12,001 |
 | You wood not believe it | 21.00% | ~11,455 |
 | Well-Oiled Machine | 16.00% | ~8,728 |
 | Long haul | 16.00% | ~8,728 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~218 |
 | Raisin the stakes | 0.30% | ~164 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,547 (Ranked 111)  
+Progressed: 54,549 (Ranked 111)  
 Completed: 6 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 6 (0.01%) (Ranked 344)
 | 2023-11-29 | 54,222 | 6 |
 | 2023-11-30 | 54,333 | 6 |
 | 2023-12-01 | 54,457 | 6 |
-| 2023-12-02 | 54,547 | 6 |
+| 2023-12-02 | 54,549 | 6 |
 ## Awards
 Max (Great for Beginners): 5,662  (Ranked 69)  
 Sum: 43,468 (Ranked 33)  

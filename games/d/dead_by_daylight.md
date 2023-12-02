@@ -15,15 +15,15 @@ Number of Ratings: 70,340  (23.09.2022)
 | Survival Treasures | 0.50% | ~5,311 |
 | I | 0.50% | ~5,311 |
 | Make Some Noise | 0.50% | ~5,311 |
-| The Grand Sacrifice | 0.40% | ~4,248 |
-| No one left behind | 0.40% | ~4,248 |
-| Medic | 0.40% | ~4,248 |
-| Bloody Millionaire | 0.40% | ~4,248 |
-| Sorted | 0.40% | ~4,248 |
-| Healthy Obsession | 0.40% | ~4,248 |
-| Resurgence | 0.40% | ~4,248 |
-| Preemptive Strike | 0.40% | ~4,248 |
-| Humanitarian | 0.40% | ~4,248 |
+| The Grand Sacrifice | 0.40% | ~4,249 |
+| No one left behind | 0.40% | ~4,249 |
+| Medic | 0.40% | ~4,249 |
+| Bloody Millionaire | 0.40% | ~4,249 |
+| Sorted | 0.40% | ~4,249 |
+| Healthy Obsession | 0.40% | ~4,249 |
+| Resurgence | 0.40% | ~4,249 |
+| Preemptive Strike | 0.40% | ~4,249 |
+| Humanitarian | 0.40% | ~4,249 |
 | Agonizing Escape | 0.30% | ~3,186 |
 | Backdoor Escape | 0.30% | ~3,186 |
 | I've got your back | 0.30% | ~3,186 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,062 |
 | Adept Good Guy | 0.10% | ~1,062 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,062,121 (Ranked 14)  
+Progressed: 1,062,150 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -465,7 +465,7 @@ Completed: 61 (0.01%) (Ranked 344)
 | 2023-11-29 | 1,053,910 | 61 |
 | 2023-11-30 | 1,056,530 | 61 |
 | 2023-12-01 | 1,059,298 | 61 |
-| 2023-12-02 | 1,062,121 | 61 |
+| 2023-12-02 | 1,062,150 | 61 |
 ## Awards
 Max (Diverse Characters): 37,031  (Ranked 15)  
 Sum: 281,633 (Ranked 12)  
