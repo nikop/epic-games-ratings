@@ -13,7 +13,7 @@
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.63% |
-| 14 | [The Riflemen](games/t/the_riflemen.md) | 25.33% |
+| 14 | [The Riflemen](games/t/the_riflemen.md) | 25.32% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Overloop](games/o/overloop.md) | 25.00% |
 | 17 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -34,7 +34,7 @@
 | 32 | [Seven Doors](games/s/seven_doors.md) | 13.64% |
 | 33 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 13.19% |
 | 34 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 12.50% |
-| 35 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.37% |
+| 35 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.36% |
 | 36 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 36 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 11.11% |
 | 36 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 11.11% |
@@ -88,8 +88,8 @@
 | 86 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.31% |
 | 87 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.28% |
 | 88 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.19% |
-| 89 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.11% |
-| 90 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.07% |
+| 89 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.10% |
+| 90 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.06% |
 | 91 | [The Bunker](games/t/the_bunker.md) | 4.03% |
 | 92 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.77% |
 | 93 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.70% |
@@ -98,7 +98,7 @@
 | 96 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 97 | [Bunny Park](games/b/bunny_park.md) | 3.30% |
 | 98 | [The Complex](games/t/the_complex.md) | 3.21% |
-| 99 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.15% |
+| 99 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.14% |
 | 100 | [Destiny 2](games/d/destiny_2.md) | 3.12% |
 | 100 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
 | 100 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.12% |
@@ -169,7 +169,7 @@
 | 167 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.02% |
 | 168 | [Sable](games/s/sable.md) | 1.01% |
 | 169 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.00% |
-| 170 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.99% |
+| 170 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.98% |
 | 171 | [Trifox](games/t/trifox.md) | 0.96% |
 | 172 | [A Musical Story](games/a/a_musical_story.md) | 0.94% |
 | 173 | [Hades](games/h/hades.md) | 0.91% |
