@@ -13256,9 +13256,9 @@
       "Count": 27430
     }
   ],
-  "EOS_Progressed": 1059969,
+  "EOS_Progressed": 1060089,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 17482,
+  "EOS_NewPlayers": 17537,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39181,6 +39181,11 @@
       "Time": "2023-12-02T05:09:46.3317738+00:00",
       "NumProgressed": 1059969,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-02T06:09:56.8208058+00:00",
+      "NumProgressed": 1060089,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 232,
@@ -39350,9 +39355,9 @@
       "ID": "ACH_021",
       "SetID": "bdmlp8o",
       "Name": "Perfect Killing",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2120
+      "UsersEstimate": 3180
     },
     {
       "ID": "ACH_022",
@@ -39366,9 +39371,9 @@
       "ID": "ACH_023",
       "SetID": "bdmlp8o",
       "Name": "It wakes",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 6360
+      "UsersEstimate": 7421
     },
     {
       "ID": "ACH_024",
@@ -39496,7 +39501,7 @@
       "Name": "Skillful",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 6360
+      "UsersEstimate": 6361
     },
     {
       "ID": "ACH_040",
@@ -39758,9 +39763,9 @@
       "ID": "ACH_072",
       "SetID": "bdmlp8o",
       "Name": "Sorted",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3180
+      "UsersEstimate": 4240
     },
     {
       "ID": "ACH_073",
@@ -40302,9 +40307,9 @@
       "ID": "ACH_143",
       "SetID": "16jml5b",
       "Name": "Old West Oasis",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1060
+      "UsersEstimate": 2120
     },
     {
       "ID": "ACH_144",
@@ -41047,21 +41052,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1059969,
+      "Progressed": 1060089,
       "Completed": 66
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1059969,
+      "Progressed": 1060089,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-12-01T23:01:12.6349287+00:00",
-  "LastChanged_Achievements": "2023-12-02T05:09:46.3317735+00:00",
+  "LastChanged_Achievements": "2023-12-02T06:09:56.8208054+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:00.7078103+00:00",
-  "LastUpdate_Ratings": "2023-12-02T05:00:06.211154+00:00",
-  "LastUpdate_Achievements": "2023-12-02T05:09:46.3322974+00:00"
+  "LastUpdate_Ratings": "2023-12-02T06:00:27.0672881+00:00",
+  "LastUpdate_Achievements": "2023-12-02T06:09:56.8214185+00:00"
 }

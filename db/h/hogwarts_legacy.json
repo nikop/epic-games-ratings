@@ -11355,9 +11355,9 @@
       "Count": 826
     }
   ],
-  "EOS_Progressed": 303743,
+  "EOS_Progressed": 303747,
   "EOS_Completed": 520,
-  "EOS_NewPlayers": 712,
+  "EOS_NewPlayers": 707,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -35665,6 +35665,11 @@
       "Time": "2023-12-02T05:09:40.4399945+00:00",
       "NumProgressed": 303743,
       "NumCompleted": 520
+    },
+    {
+      "Time": "2023-12-02T06:09:50.4465189+00:00",
+      "NumProgressed": 303747,
+      "NumCompleted": 520
     }
   ],
   "TotalAchievements": 45,
@@ -35676,7 +35681,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48599
+      "UsersEstimate": 48600
     },
     {
       "ID": "PFA_10",
@@ -35724,7 +35729,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24299
+      "UsersEstimate": 24300
     },
     {
       "ID": "PFA_16",
@@ -35732,7 +35737,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36449
+      "UsersEstimate": 36450
     },
     {
       "ID": "PFA_17",
@@ -35740,7 +35745,7 @@
       "Name": "Beast Friends",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24299
+      "UsersEstimate": 24300
     },
     {
       "ID": "PFA_18",
@@ -35756,7 +35761,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 24299
+      "UsersEstimate": 24300
     },
     {
       "ID": "PFA_2",
@@ -35804,7 +35809,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36449
+      "UsersEstimate": 36450
     },
     {
       "ID": "PFA_25",
@@ -35860,7 +35865,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36449
+      "UsersEstimate": 36450
     },
     {
       "ID": "PFA_31",
@@ -35900,7 +35905,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30374
+      "UsersEstimate": 30375
     },
     {
       "ID": "PFA_36",
@@ -36004,7 +36009,7 @@
       "Name": "First Class Student",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45561
+      "UsersEstimate": 45562
     },
     {
       "ID": "PFA_7",
@@ -36012,7 +36017,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42524
+      "UsersEstimate": 42525
     },
     {
       "ID": "PFA_8",
@@ -36028,14 +36033,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30374
+      "UsersEstimate": 30375
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303743,
+      "Progressed": 303747,
       "Completed": 520
     }
   ],
@@ -36043,8 +36048,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-02T01:40:35.8229268+00:00",
-  "LastChanged_Achievements": "2023-12-02T05:09:40.439994+00:00",
+  "LastChanged_Achievements": "2023-12-02T06:09:50.4465185+00:00",
   "LastUpdate_AppInfo": "2023-11-25T18:57:11.7292094+00:00",
-  "LastUpdate_Ratings": "2023-12-02T04:58:02.1948316+00:00",
-  "LastUpdate_Achievements": "2023-12-02T05:09:40.4401052+00:00"
+  "LastUpdate_Ratings": "2023-12-02T05:58:09.5555414+00:00",
+  "LastUpdate_Achievements": "2023-12-02T06:09:50.4466477+00:00"
 }

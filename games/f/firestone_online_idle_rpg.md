@@ -5,12 +5,12 @@ Rating: 4.03 (Ranked 998)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,726 |
-| World Map | 78.00% | ~2,286 |
+| Victor | 93.00% | ~2,727 |
+| World Map | 78.00% | ~2,287 |
 | Temple of Eternals | 57.00% | ~1,671 |
-| Prestigious | 53.00% | ~1,553 |
+| Prestigious | 53.00% | ~1,554 |
 | Fellowship Power | 42.00% | ~1,231 |
-| Guild Power | 24.00% | ~703 |
+| Guild Power | 24.00% | ~704 |
 | Prestigious x10 | 21.00% | ~616 |
 | The game is on | 19.00% | ~557 |
 | Full Party | 18.00% | ~528 |
@@ -26,7 +26,7 @@ Rating: 4.03 (Ranked 998)
 | Natural Talent | 12.00% | ~352 |
 | Superior | 12.00% | ~352 |
 | The Unstoppable | 12.00% | ~352 |
-| Mysterious Rock | 11.00% | ~322 |
+| Mysterious Rock | 11.00% | ~323 |
 | Scientist | 10.00% | ~293 |
 | Challenger | 9.00% | ~264 |
 | Daily Quest Completionist | 9.00% | ~264 |
@@ -36,10 +36,10 @@ Rating: 4.03 (Ranked 998)
 | Relic Of The Past | 9.00% | ~264 |
 | Scroll Master | 9.00% | ~264 |
 | The power of Awakening | 9.00% | ~264 |
-| Four Leaf Clover | 8.00% | ~234 |
-| Frostfire Liberator | 8.00% | ~234 |
-| Moving Up The Ladder | 8.00% | ~234 |
-| The father of Dragons | 8.00% | ~234 |
+| Four Leaf Clover | 8.00% | ~235 |
+| Frostfire Liberator | 8.00% | ~235 |
+| Moving Up The Ladder | 8.00% | ~235 |
+| The father of Dragons | 8.00% | ~235 |
 | Here We Go Again | 7.00% | ~205 |
 | Master Enchanter | 7.00% | ~205 |
 | Trader | 7.00% | ~205 |
@@ -81,7 +81,7 @@ Rating: 4.03 (Ranked 998)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,931 (Ranked 213)  
+Progressed: 2,932 (Ranked 213)  
 Completed: 2 (0.07%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 2 (0.07%) (Ranked 304)
 | 2023-11-29 | 2,822 | 2 |
 | 2023-11-30 | 2,847 | 2 |
 | 2023-12-01 | 2,917 | 2 |
-| 2023-12-02 | 2,931 | 2 |
+| 2023-12-02 | 2,932 | 2 |
 ## Awards
 Max (Great for Beginners): 35  (Ranked 478)  
 Sum: 135 (Ranked 431)  

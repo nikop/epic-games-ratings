@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 476,
+  "EOS_Progressed": 477,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1487,6 +1487,11 @@
       "Time": "2023-12-02T04:06:08.4563173+00:00",
       "NumProgressed": 476,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T06:06:43.7425013+00:00",
+      "NumProgressed": 477,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1498,7 +1503,7 @@
       "Name": "Travel Streamer",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1546,7 +1551,7 @@
       "Name": "Furious Scorpion Killer",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -1554,7 +1559,7 @@
       "Name": "Lethal Blade Mantis Killer",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -1562,7 +1567,7 @@
       "Name": "Squeaky Clean",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -1634,7 +1639,7 @@
       "Name": "Beginner Artificer",
       "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -1666,7 +1671,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1754,7 +1759,7 @@
       "Name": "Storm Traveller",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -1826,7 +1831,7 @@
       "Name": "Flower Thief",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -1857,7 +1862,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 476,
+      "Progressed": 477,
       "Completed": 1
     }
   ],
@@ -1865,8 +1870,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-02T05:06:18.8734748+00:00",
+  "LastChanged_Achievements": "2023-12-02T06:06:43.7425009+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-12-02T04:59:58.0715608+00:00",
-  "LastUpdate_Achievements": "2023-12-02T05:06:18.8735059+00:00"
+  "LastUpdate_Ratings": "2023-12-02T06:00:17.7532332+00:00",
+  "LastUpdate_Achievements": "2023-12-02T06:06:43.7425468+00:00"
 }

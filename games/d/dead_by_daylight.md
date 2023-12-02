@@ -6,14 +6,15 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.60% | ~6,360 |
-| Skillful | 0.60% | ~6,360 |
+| It wakes | 0.70% | ~7,421 |
+| Skillful | 0.60% | ~6,361 |
 | Zealous | 0.50% | ~5,300 |
 | Not half bad | 0.50% | ~5,300 |
 | I | 0.50% | ~5,300 |
 | Handyman | 0.40% | ~4,240 |
 | Apt Survivor | 0.40% | ~4,240 |
 | Survival Treasures | 0.40% | ~4,240 |
+| Sorted | 0.40% | ~4,240 |
 | Resurgence | 0.40% | ~4,240 |
 | Make Some Noise | 0.40% | ~4,240 |
 | The Grand Sacrifice | 0.30% | ~3,180 |
@@ -23,16 +24,15 @@ Number of Ratings: 70,340  (23.09.2022)
 | No one left behind | 0.30% | ~3,180 |
 | Medic | 0.30% | ~3,180 |
 | Perfect Escape | 0.30% | ~3,180 |
+| Perfect Killing | 0.30% | ~3,180 |
 | Bloody Millionaire | 0.30% | ~3,180 |
 | II | 0.30% | ~3,180 |
-| Sorted | 0.30% | ~3,180 |
 | Healthy Obsession | 0.30% | ~3,180 |
 | Close Shave | 0.30% | ~3,180 |
 | Preemptive Strike | 0.30% | ~3,180 |
 | Humanitarian | 0.30% | ~3,180 |
 | Blood on your hands | 0.20% | ~2,120 |
 | Escape Artist | 0.20% | ~2,120 |
-| Perfect Killing | 0.20% | ~2,120 |
 | Gifts for the Fog | 0.20% | ~2,120 |
 | Apt Killer | 0.20% | ~2,120 |
 | Risk it all | 0.20% | ~2,120 |
@@ -43,6 +43,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Wounded Healer | 0.20% | ~2,120 |
 | First to the Punch | 0.20% | ~2,120 |
 | Operation: Survival | 0.20% | ~2,120 |
+| Old West Oasis | 0.20% | ~2,120 |
 | Every Last Drop | 0.20% | ~2,120 |
 | Raccoon City Recruit | 0.20% | ~2,120 |
 | With Scars to Show | 0.20% | ~2,120 |
@@ -157,7 +158,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Bound and Downed | 0.10% | ~1,060 |
 | Quick Draw | 0.10% | ~1,060 |
 | Adept Deathslinger | 0.10% | ~1,060 |
-| Old West Oasis | 0.10% | ~1,060 |
 | Selfless Survival | 0.10% | ~1,060 |
 | Adept Zarina | 0.10% | ~1,060 |
 | Cleansed in Agony | 0.10% | ~1,060 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,060 |
 | Adept Good Guy | 0.10% | ~1,060 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,059,969 (Ranked 14)  
+Progressed: 1,060,089 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -465,7 +465,7 @@ Completed: 61 (0.01%) (Ranked 344)
 | 2023-11-29 | 1,053,910 | 61 |
 | 2023-11-30 | 1,056,530 | 61 |
 | 2023-12-01 | 1,059,298 | 61 |
-| 2023-12-02 | 1,059,969 | 61 |
+| 2023-12-02 | 1,060,089 | 61 |
 ## Awards
 Max (Diverse Characters): 37,031  (Ranked 15)  
 Sum: 281,537 (Ranked 12)  

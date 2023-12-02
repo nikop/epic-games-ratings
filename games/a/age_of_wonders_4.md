@@ -25,6 +25,7 @@ Rating: 4.61 (Ranked 387)
 | Return of the Wizard King | 1.00% | ~56 |
 | Enchanted Archipelago | 1.00% | ~56 |
 | Digging for Treasure | 1.00% | ~56 |
+| Preparation Is Everything | 1.00% | ~56 |
 | My Final Form | 1.00% | ~56 |
 | Fiery Friend | 1.00% | ~56 |
 | Impenetrable Fortress | 1.00% | ~56 |
@@ -37,17 +38,16 @@ Rating: 4.61 (Ranked 387)
 | Dawn of the Dread | 1.00% | ~56 |
 | Arch Mage | 0.90% | ~50 |
 | Crimson Caldera | 0.90% | ~50 |
-| Preparation Is Everything | 0.90% | ~50 |
 | Blood of the Dragon | 0.90% | ~50 |
 | Prometheus Avenged | 0.90% | ~50 |
 | A Conqueror's Cohort | 0.80% | ~44 |
 | The Creator | 0.70% | ~39 |
 | Lord of Chaos | 0.60% | ~33 |
+| Eternal Lord | 0.60% | ~33 |
 | Manufactured War | 0.60% | ~33 |
 | The Eternal Court | 0.60% | ~33 |
 | I've Got Everything I Need Right Here | 0.50% | ~28 |
 | God Emperor | 0.50% | ~28 |
-| Eternal Lord | 0.50% | ~28 |
 | Pruning for Progress | 0.50% | ~28 |
 | Grexolis | 0.50% | ~28 |
 | One for All, All for One | 0.50% | ~28 |

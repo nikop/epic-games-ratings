@@ -54,8 +54,8 @@ Rating: 4.50 (Ranked 594)
 | I don't need these | 0.20% | ~64 |
 | Little Help Here | 0.20% | ~64 |
 | Mycophile | 0.20% | ~64 |
+| Ultimate Defense | 0.20% | ~64 |
 | Line em' up | 0.10% | ~32 |
-| Ultimate Defense | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 31,820 (Ranked 124)  
 Completed: 69 (0.22%) (Ranked 254)  

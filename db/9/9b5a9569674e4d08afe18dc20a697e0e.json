@@ -2,7 +2,7 @@
   "ID": "9b5a9569674e4d08afe18dc20a697e0e",
   "Name": "Aron\u0027s Adventure: Magic Reborn",
   "ProductSlug": "arons-adventure-1e76cd",
-  "Ranking_EOS_Progress": 415,
+  "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 133,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 127,
+  "EOS_Progressed": 128,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -494,6 +494,11 @@
       "Time": "2023-12-01T23:07:51.564087+00:00",
       "NumProgressed": 127,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T06:06:53.1775229+00:00",
+      "NumProgressed": 128,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T20:03:47.3726007+00:00",
@@ -506,7 +511,7 @@
       "Name": "Adventure awaits",
       "Percentage": 82,
       "XP": 100,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "BARON",
@@ -554,7 +559,7 @@
       "Name": "How to train your...",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "DRESSED",
@@ -650,7 +655,7 @@
       "Name": "The mines",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "MIRROR",
@@ -664,7 +669,7 @@
       "ID": "MOIST",
       "SetID": "40o4f14",
       "Name": "Moist",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 10,
       "UsersEstimate": 77
     },
@@ -682,7 +687,7 @@
       "Name": "The prison",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "RECOVERING",
@@ -722,7 +727,7 @@
       "Name": "A restless soul",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "WASHING",
@@ -738,7 +743,7 @@
       "Name": "Resurrection",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "WYVERN",
@@ -746,21 +751,21 @@
       "Name": "Winged creature",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
     {
       "ID": "40o4f14",
       "IsBase": true,
-      "Progressed": 127,
+      "Progressed": 128,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-12-02T05:08:08.879968+00:00",
+  "LastChanged_Achievements": "2023-12-02T06:06:53.1775225+00:00",
   "LastUpdate_AppInfo": "2023-11-30T01:44:08.4871505+00:00",
-  "LastUpdate_Ratings": "2023-12-02T04:59:57.1701977+00:00",
-  "LastUpdate_Achievements": "2023-12-02T05:08:08.8799859+00:00"
+  "LastUpdate_Ratings": "2023-12-02T06:00:16.7895602+00:00",
+  "LastUpdate_Achievements": "2023-12-02T06:06:53.1775419+00:00"
 }

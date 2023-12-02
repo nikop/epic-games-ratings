@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
     "PcReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -3313,9 +3313,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 41884,
+  "EOS_Progressed": 41885,
   "EOS_Completed": 339,
-  "EOS_NewPlayers": 914,
+  "EOS_NewPlayers": 911,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -28393,6 +28393,11 @@
       "Time": "2023-12-02T05:04:56.0971974+00:00",
       "NumProgressed": 41884,
       "NumCompleted": 339
+    },
+    {
+      "Time": "2023-12-02T06:05:13.6612825+00:00",
+      "NumProgressed": 41885,
+      "NumCompleted": 339
     }
   ],
   "TotalAchievements": 60,
@@ -28412,7 +28417,7 @@
       "Name": "No one has to die today!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 19685
+      "UsersEstimate": 19686
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -28444,7 +28449,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 9214
+      "UsersEstimate": 9215
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -28620,7 +28625,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 17172
+      "UsersEstimate": 17173
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -28628,7 +28633,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15078
+      "UsersEstimate": 15079
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -28636,7 +28641,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 17172
+      "UsersEstimate": 17173
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -28708,7 +28713,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 9633
+      "UsersEstimate": 9634
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -28796,7 +28801,7 @@
       "Name": "Shadow hunter",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 12565
+      "UsersEstimate": 12566
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -28852,7 +28857,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 12565
+      "UsersEstimate": 12566
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -28883,15 +28888,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 41884,
+      "Progressed": 41885,
       "Completed": 339
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-11-30T20:00:42.5687356+00:00",
-  "LastChanged_Achievements": "2023-12-02T05:04:56.0971971+00:00",
+  "LastChanged_Achievements": "2023-12-02T06:05:13.6612822+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:56:54.3278178+00:00",
-  "LastUpdate_Ratings": "2023-12-02T05:00:19.8295546+00:00",
-  "LastUpdate_Achievements": "2023-12-02T05:04:56.0973291+00:00"
+  "LastUpdate_Ratings": "2023-12-02T06:00:41.4217854+00:00",
+  "LastUpdate_Achievements": "2023-12-02T06:05:13.6614434+00:00"
 }

@@ -26,9 +26,9 @@
 | The Big Eaty | 46.00% | ~236 |
 | Pure Dynamite! | 43.00% | ~221 |
 | “… like son” | 43.00% | ~221 |
+| Shame! Shame! Shame! | 40.00% | ~205 |
 | Dungeonlord Gorgu | 39.00% | ~200 |
 | The Cathedral of Light | 39.00% | ~200 |
-| Shame! Shame! Shame! | 39.00% | ~200 |
 | Mana Cannon | 38.00% | ~195 |
 | Tanos' Crusade Against Thalya | 35.00% | ~180 |
 | All’s Well That Ends Evil | 29.00% | ~149 |

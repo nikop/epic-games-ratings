@@ -5,7 +5,7 @@
   "Ranking_Rating": 32,
   "Ranking_Popularity": 470,
   "Ranking_PopularitySum": 505,
-  "Ranking_EOS_Progress": 277,
+  "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 133,
@@ -169,7 +169,7 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 821,
+  "EOS_Progressed": 822,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 0,
@@ -1879,6 +1879,11 @@
       "Time": "2023-12-02T05:04:00.2095718+00:00",
       "NumProgressed": 821,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T06:04:11.8957302+00:00",
+      "NumProgressed": 822,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2075,7 +2080,7 @@
       "Name": "Lord of the Files",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "LostMarshes",
@@ -2115,7 +2120,7 @@
       "Name": "Museum Visitor",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "NewBeginning",
@@ -2147,7 +2152,7 @@
       "Name": "Overload",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Persistent",
@@ -2283,7 +2288,7 @@
       "Name": "The Spark",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "TheThiefOfFire",
@@ -2362,7 +2367,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 821,
+      "Progressed": 822,
       "Completed": 1
     }
   ],
@@ -2370,8 +2375,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-30T22:00:34.4965769+00:00",
-  "LastChanged_Achievements": "2023-12-02T05:04:00.2095714+00:00",
+  "LastChanged_Achievements": "2023-12-02T06:04:11.8957295+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-02T05:00:08.4836991+00:00",
-  "LastUpdate_Achievements": "2023-12-02T05:04:00.2096243+00:00"
+  "LastUpdate_Ratings": "2023-12-02T06:00:29.5691576+00:00",
+  "LastUpdate_Achievements": "2023-12-02T06:04:11.8957792+00:00"
 }

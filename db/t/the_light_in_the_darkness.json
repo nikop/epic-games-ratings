@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2712,
+  "EOS_Progressed": 2713,
   "EOS_Completed": 243,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 8.96,
   "EosHistory": [
@@ -7531,6 +7531,11 @@
       "Time": "2023-12-01T23:08:45.4627016+00:00",
       "NumProgressed": 2712,
       "NumCompleted": 243
+    },
+    {
+      "Time": "2023-12-02T06:08:36.2984404+00:00",
+      "NumProgressed": 2713,
+      "NumCompleted": 243
     }
   ],
   "TotalAchievements": 12,
@@ -7574,7 +7579,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "Jakob",
@@ -7630,14 +7635,14 @@
       "Name": "Nuremberg Laws",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2712,
+      "Progressed": 2713,
       "Completed": 243
     }
   ],
@@ -7645,8 +7650,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-12-02T05:08:30.6415484+00:00",
+  "LastChanged_Achievements": "2023-12-02T06:08:36.29844+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:10.2088874+00:00",
-  "LastUpdate_Ratings": "2023-12-02T05:02:45.5879652+00:00",
-  "LastUpdate_Achievements": "2023-12-02T05:08:30.641596+00:00"
+  "LastUpdate_Ratings": "2023-12-02T06:02:47.4453224+00:00",
+  "LastUpdate_Achievements": "2023-12-02T06:08:36.2984805+00:00"
 }

@@ -5,15 +5,15 @@ Rating: 4.54 (Ranked 530)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,629 |
-| Pork Chopped | 3.00% | ~1,629 |
-| Git Gutte! | 2.00% | ~14,575 |
-| Break A Leg | 2.00% | ~14,575 |
-| Coup de Grâce | 2.00% | ~14,575 |
-| Hazardous Materials | 2.00% | ~14,575 |
-| Hotel California | 2.00% | ~14,575 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,575 |
-| Welcome To Hell-A | 2.00% | ~14,575 |
+| Whatever It Takes | 3.00% | ~1,630 |
+| Pork Chopped | 3.00% | ~1,630 |
+| Git Gutte! | 2.00% | ~14,576 |
+| Break A Leg | 2.00% | ~14,576 |
+| Coup de Grâce | 2.00% | ~14,576 |
+| Hazardous Materials | 2.00% | ~14,576 |
+| Hotel California | 2.00% | ~14,576 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,576 |
+| Welcome To Hell-A | 2.00% | ~14,576 |
 | One of Us | 2.00% | ~1,086 |
 | Dr. Reed, I Presume? | 1.00% | ~7,288 |
 | Anger Management | 1.00% | ~7,288 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 530)
 | Bucket List | 0.10% | ~729 |
 | Wilhelm | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,767 (Ranked 21)  
+Progressed: 728,783 (Ranked 21)  
 Completed: 2,459 (0.34%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 2,459 (0.34%) (Ranked 233)
 | 2023-11-29 | 727,809 | 2,450 |
 | 2023-11-30 | 728,231 | 2,456 |
 | 2023-12-01 | 728,667 | 2,459 |
-| 2023-12-02 | 728,767 | 2,459 |
+| 2023-12-02 | 728,783 | 2,459 |
 ## Awards
 Max (Great Boss Battles): 7,845  (Ranked 49)  
 Sum: 12,031 (Ranked 83)  

@@ -509,7 +509,7 @@
   ],
   "EOS_Progressed": 5553,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7815,9 +7815,9 @@
       "ID": "21",
       "SetID": "3aa2279",
       "Name": "Eternal Lord",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 33
     },
     {
       "ID": "22",
@@ -7895,9 +7895,9 @@
       "ID": "30",
       "SetID": "3aa2279",
       "Name": "Preparation Is Everything",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 56
     },
     {
       "ID": "31",
@@ -8206,8 +8206,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-29T19:59:17.4564892+00:00",
-  "LastChanged_Achievements": "2023-12-02T05:04:39.0125898+00:00",
+  "LastChanged_Achievements": "2023-12-02T06:04:54.2917322+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:07.6428194+00:00",
-  "LastUpdate_Ratings": "2023-12-02T04:57:37.1407037+00:00",
-  "LastUpdate_Achievements": "2023-12-02T05:04:39.0126545+00:00"
+  "LastUpdate_Ratings": "2023-12-02T05:57:42.6002304+00:00",
+  "LastUpdate_Achievements": "2023-12-02T06:04:54.2918022+00:00"
 }

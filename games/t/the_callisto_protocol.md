@@ -30,13 +30,13 @@ Rating: 4.19 (Ranked 928)
 | It's Time | 4.00% | ~177 |
 | The Commonality | 3.00% | ~495 |
 | In Striking Distance | 2.00% | ~330 |
-| One Last Job | 2.00% | ~88 |
+| One Last Job | 2.00% | ~89 |
 | Big Spender | 1.00% | ~44 |
 | This Isn't About Escape | 1.00% | ~44 |
 | Armed to the Teeth | 0.90% | ~40 |
 | Parole Denied | 0.80% | ~35 |
 | Information Overload | 0.80% | ~35 |
-| Grim Reaper | 0.70% | ~115 |
+| Grim Reaper | 0.70% | ~116 |
 | Mugshot | 0.60% | ~99 |
 | Instigator | 0.60% | ~27 |
 | Quick Pick | 0.60% | ~27 |
@@ -45,7 +45,7 @@ Rating: 4.19 (Ranked 928)
 | The Protocol is About Life | 0.20% | ~33 |
 | Recidivist | 0.20% | ~9 |
 | Hoard Mode | 0.20% | ~9 |
-| It's over, Jacob! | 0.10% | ~16 |
+| It's over, Jacob! | 0.10% | ~17 |
 | Glutton for Punishment | 0.10% | ~4 |
 | You Belong Here | 0.10% | ~4 |
 | Lifer | 0.10% | ~4 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 928)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,499 (Ranked 149)  
+Progressed: 16,501 (Ranked 149)  
 Completed: 81 (0.49%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,6 +272,7 @@ Completed: 81 (0.49%) (Ranked 209)
 | 2023-11-29 | 16,494 | 81 |
 | 2023-11-30 | 16,496 | 81 |
 | 2023-12-01 | 16,499 | 81 |
+| 2023-12-02 | 16,501 | 81 |
 ## Awards
 Max (Quickly Understood Controls): 83  (Ranked 389)  
 Sum: 496 (Ranked 326)  

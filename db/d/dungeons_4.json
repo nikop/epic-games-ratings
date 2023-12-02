@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 513,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.95,
   "EosHistory": [
@@ -1544,9 +1544,9 @@
       "ID": "ach_main10fire_naga",
       "SetID": "4hg22ll",
       "Name": "Shame! Shame! Shame!",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 200
+      "UsersEstimate": 205
     },
     {
       "ID": "ach_main11blessing_completed",
@@ -1799,8 +1799,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-02T05:08:36.8608375+00:00",
+  "LastChanged_Achievements": "2023-12-02T06:08:42.7187032+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:53.3530612+00:00",
-  "LastUpdate_Ratings": "2023-12-02T04:58:22.5787863+00:00",
-  "LastUpdate_Achievements": "2023-12-02T05:08:36.8608799+00:00"
+  "LastUpdate_Ratings": "2023-12-02T05:58:31.8877676+00:00",
+  "LastUpdate_Achievements": "2023-12-02T06:08:42.7187545+00:00"
 }

@@ -38,9 +38,9 @@ Rating: 4.68 (Ranked 254)
 | Recycle | 12.00% | ~720 |
 | Tinkerer | 10.00% | ~600 |
 | Undisputed Winner | 9.00% | ~540 |
+| For all Those Back at the Factory | 7.00% | ~420 |
 | Living up to Expectations | 7.00% | ~420 |
 | Smooth Operator | 7.00% | ~420 |
-| For all Those Back at the Factory | 6.00% | ~360 |
 | Loyal Bond | 5.00% | ~300 |
 | Peak Performance | 5.00% | ~300 |
 | Hitting a Century | 4.00% | ~240 |

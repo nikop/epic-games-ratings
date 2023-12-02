@@ -2365,9 +2365,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 46135,
+  "EOS_Progressed": 46136,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 460,
+  "EOS_NewPlayers": 455,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -26930,6 +26930,11 @@
       "Time": "2023-12-02T05:03:34.1285313+00:00",
       "NumProgressed": 46135,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-12-02T06:03:43.0865738+00:00",
+      "NumProgressed": 46136,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 75,
@@ -26965,7 +26970,7 @@
       "Name": "Blood Elemental",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 11072
+      "UsersEstimate": 11073
     },
     {
       "ID": "achievements_13",
@@ -26973,7 +26978,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 26297
+      "UsersEstimate": 26298
     },
     {
       "ID": "achievements_14",
@@ -26989,7 +26994,7 @@
       "Name": "Keeper of Keys",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 21683
+      "UsersEstimate": 21684
     },
     {
       "ID": "achievements_17",
@@ -26997,7 +27002,7 @@
       "Name": "Mad Genius",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 16147
+      "UsersEstimate": 16148
     },
     {
       "ID": "achievements_19",
@@ -27045,7 +27050,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 27681
+      "UsersEstimate": 27682
     },
     {
       "ID": "achievements_24",
@@ -27053,7 +27058,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 25374
+      "UsersEstimate": 25375
     },
     {
       "ID": "achievements_25",
@@ -27069,7 +27074,7 @@
       "Name": "Mountain King - I",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 18915
+      "UsersEstimate": 18916
     },
     {
       "ID": "achievements_27",
@@ -27093,7 +27098,7 @@
       "Name": "Bane of Mercenaries - I",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 14763
+      "UsersEstimate": 14764
     },
     {
       "ID": "achievements_3",
@@ -27245,7 +27250,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 39215
+      "UsersEstimate": 39216
     },
     {
       "ID": "achievements_47",
@@ -27309,7 +27314,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 26297
+      "UsersEstimate": 26298
     },
     {
       "ID": "achievements_54",
@@ -27413,7 +27418,7 @@
       "Name": "Nightmare of the Humanity - II",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 9688
+      "UsersEstimate": 9689
     },
     {
       "ID": "achievements_67",
@@ -27421,7 +27426,7 @@
       "Name": "Nightmare of the Humanity - III",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 3229
+      "UsersEstimate": 3230
     },
     {
       "ID": "achievements_68",
@@ -27445,7 +27450,7 @@
       "Name": "Blind Rage",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 17531
+      "UsersEstimate": 17532
     },
     {
       "ID": "achievements_70",
@@ -27540,15 +27545,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 46135,
+      "Progressed": 46136,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-12-01T14:58:17.2382026+00:00",
-  "LastChanged_Achievements": "2023-12-02T05:03:34.128531+00:00",
+  "LastChanged_Achievements": "2023-12-02T06:03:43.0865734+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:50.9531821+00:00",
-  "LastUpdate_Ratings": "2023-12-02T04:58:49.7924013+00:00",
-  "LastUpdate_Achievements": "2023-12-02T05:03:34.1286781+00:00"
+  "LastUpdate_Ratings": "2023-12-02T05:59:02.7375042+00:00",
+  "LastUpdate_Achievements": "2023-12-02T06:03:43.0868706+00:00"
 }

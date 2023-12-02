@@ -243,7 +243,7 @@
   "Tags": [],
   "EOS_Progressed": 15827,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 369,
+  "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -13079,9 +13079,9 @@
       "ID": "6",
       "SetID": "458bbdk",
       "Name": "Celebrations are in Order",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 950
+      "UsersEstimate": 1108
     },
     {
       "ID": "7",
@@ -13159,15 +13159,15 @@
       "ID": "9nnpo9n",
       "IsBase": false,
       "Progressed": 1781,
-      "Completed": 770
+      "Completed": 772
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-28T18:00:52.6774218+00:00",
-  "LastChanged_Achievements": "2023-12-02T05:04:19.3990519+00:00",
+  "LastChanged_Achievements": "2023-12-02T06:04:32.7897856+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:37.4522812+00:00",
-  "LastUpdate_Ratings": "2023-12-02T05:02:53.1286981+00:00",
-  "LastUpdate_Achievements": "2023-12-02T05:04:19.3991327+00:00"
+  "LastUpdate_Ratings": "2023-12-02T06:02:55.861327+00:00",
+  "LastUpdate_Achievements": "2023-12-02T06:04:32.7898791+00:00"
 }

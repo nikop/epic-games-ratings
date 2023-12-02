@@ -1,7 +1,7 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.07 (Ranked 980)  
+Rating: 4.07 (Ranked 981)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,7 +13,7 @@ Rating: 4.07 (Ranked 980)
 | Initiate | 56.00% | ~180 |
 | Thrada-Kul | 52.00% | ~167 |
 | Gravity-Challenged Rocks | 43.00% | ~138 |
-| Soldier | 36.00% | ~116 |
+| Soldier | 37.00% | ~119 |
 | All the Major Food Groups | 36.00% | ~116 |
 | Beggars Would Ride | 33.00% | ~106 |
 | Control is an Illusion | 30.00% | ~97 |
@@ -23,7 +23,7 @@ Rating: 4.07 (Ranked 980)
 | A Familiar Nest | 21.00% | ~68 |
 | Periapt Alizarin | 21.00% | ~68 |
 | Geas Aristeya | 20.00% | ~64 |
-| A Perfect Cycle | 18.00% | ~58 |
+| A Perfect Cycle | 19.00% | ~61 |
 | Recruit | 18.00% | ~58 |
 | Armsman | 17.00% | ~55 |
 | Lights Army | 12.00% | ~39 |

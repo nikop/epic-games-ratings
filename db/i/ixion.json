@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -299,9 +299,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3386,
+  "EOS_Progressed": 3387,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6019,6 +6019,11 @@
       "Time": "2023-12-01T19:05:51.9097827+00:00",
       "NumProgressed": 3386,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-02T06:06:16.1026875+00:00",
+      "NumProgressed": 3387,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6094,7 +6099,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "ACH_BASE_19",
@@ -6116,9 +6121,9 @@
       "ID": "ACH_BASE_21",
       "SetID": "92iocjf",
       "Name": "Wakey Wakey",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1016
+      "UsersEstimate": 982
     },
     {
       "ID": "ACH_BASE_22",
@@ -6142,7 +6147,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "ACH_BASE_25",
@@ -6166,7 +6171,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ACH_BASE_28",
@@ -6182,7 +6187,7 @@
       "Name": "A Thousand Strong",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "ACH_BASE_3",
@@ -6230,7 +6235,7 @@
       "Name": "Ready for a New World",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "ACH_BASE_35",
@@ -6485,13 +6490,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1570,
+      "Progressed": 1571,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3386,
+      "Progressed": 3387,
       "Completed": 0
     }
   ],
@@ -6499,8 +6504,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-11-29T21:59:30.1166071+00:00",
-  "LastChanged_Achievements": "2023-12-02T05:05:54.1105437+00:00",
+  "LastChanged_Achievements": "2023-12-02T06:06:16.1026871+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:09.2779829+00:00",
-  "LastUpdate_Ratings": "2023-12-02T04:57:32.0550429+00:00",
-  "LastUpdate_Achievements": "2023-12-02T05:05:54.1106086+00:00"
+  "LastUpdate_Ratings": "2023-12-02T05:57:36.8974739+00:00",
+  "LastUpdate_Achievements": "2023-12-02T06:06:16.1027699+00:00"
 }

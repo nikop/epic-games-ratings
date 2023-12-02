@@ -844,9 +844,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 354846,
+  "EOS_Progressed": 354848,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 931,
+  "EOS_NewPlayers": 929,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26489,6 +26489,11 @@
       "Time": "2023-12-02T05:03:57.2935329+00:00",
       "NumProgressed": 354846,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-02T06:04:08.6649823+00:00",
+      "NumProgressed": 354848,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -26708,7 +26713,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 163229
+      "UsersEstimate": 163230
     },
     {
       "ID": "ach028",
@@ -27012,7 +27017,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 49678
+      "UsersEstimate": 49679
     },
     {
       "ID": "ach067",
@@ -27028,7 +27033,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 56775
+      "UsersEstimate": 56776
     },
     {
       "ID": "ach069",
@@ -27036,7 +27041,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 49678
+      "UsersEstimate": 49679
     },
     {
       "ID": "ach070",
@@ -27139,7 +27144,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 354846,
+      "Progressed": 354848,
       "Completed": 7
     }
   ],
@@ -27147,8 +27152,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-12-01T16:02:58.3539943+00:00",
-  "LastChanged_Achievements": "2023-12-02T05:03:57.2935326+00:00",
+  "LastChanged_Achievements": "2023-12-02T06:04:08.6649819+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.701398+00:00",
-  "LastUpdate_Ratings": "2023-12-02T05:02:53.7421387+00:00",
-  "LastUpdate_Achievements": "2023-12-02T05:03:57.2936914+00:00"
+  "LastUpdate_Ratings": "2023-12-02T06:02:56.5537888+00:00",
+  "LastUpdate_Achievements": "2023-12-02T06:04:08.6651432+00:00"
 }
