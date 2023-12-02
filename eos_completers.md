@@ -13,7 +13,7 @@
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.63% |
-| 14 | [The Riflemen](games/t/the_riflemen.md) | 25.41% |
+| 14 | [The Riflemen](games/t/the_riflemen.md) | 25.40% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Overloop](games/o/overloop.md) | 25.00% |
 | 17 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -50,9 +50,9 @@
 | 48 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 9.09% |
 | 49 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.96% |
 | 50 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.68% |
-| 51 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
+| 51 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
 | 52 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.81% |
-| 53 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.74% |
+| 53 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.73% |
 | 54 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 55 | [Ravenlok](games/r/ravenlok.md) | 7.67% |
 | 56 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.53% |
@@ -101,8 +101,8 @@
 | 99 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.15% |
 | 100 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
 | 100 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.12% |
-| 102 | [Destiny 2](games/d/destiny_2.md) | 3.10% |
-| 102 | [Doodle God](games/d/doodle_god.md) | 3.10% |
+| 102 | [Destiny 2](games/d/destiny_2.md) | 3.11% |
+| 103 | [Doodle God](games/d/doodle_god.md) | 3.10% |
 | 104 | [Monster Harvest](games/m/monster_harvest.md) | 3.08% |
 | 104 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.08% |
 | 106 | [HordeCore](games/h/hordecore.md) | 3.04% |
@@ -126,7 +126,7 @@
 | 124 | [Bloodshore](games/b/bloodshore.md) | 2.25% |
 | 124 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.25% |
 | 126 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.21% |
-| 127 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.02% |
+| 127 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.01% |
 | 128 | [Dungeons 4](games/d/dungeons_4.md) | 1.95% |
 | 129 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.92% |
 | 130 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.90% |
@@ -229,11 +229,11 @@
 | 227 | [Train Valley](games/t/train_valley.md) | 0.38% |
 | 228 | [The Surge](games/t/the_surge.md) | 0.37% |
 | 229 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.36% |
+| 230 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.35% |
 | 230 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
 | 230 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.35% |
-| 232 | [Dead Island 2](games/d/dead_island_2.md) | 0.34% |
-| 232 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.34% |
-| 232 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.34% |
+| 233 | [Dead Island 2](games/d/dead_island_2.md) | 0.34% |
+| 233 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.34% |
 | 235 | [Them and Us](games/t/them_and_us.md) | 0.32% |
 | 236 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.31% |
 | 236 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
@@ -585,6 +585,7 @@
 | 365 | [MORDHAU](games/m/mordhau.md) | 0.00% |
 | 365 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 0.00% |
 | 365 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 0.00% |
+| 365 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 0.00% |
 | 365 | [My Demon Wife](games/m/my_demon_wife.md) | 0.00% |
 | 365 | [My Fantastic Ranch: Unicorns & Dragons](games/m/my_fantastic_ranch__unicorns_&_dragons.md) | 0.00% |
 | 365 | [My Lovely Wife](games/m/my_lovely_wife.md) | 0.00% |
@@ -768,4 +769,4 @@
 | 365 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 365 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 365 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,636 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,637 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
