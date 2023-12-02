@@ -357,7 +357,7 @@
 | 350 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,280 | 107 |
 | 350 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 630 | 192 |
 | 350 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.63 | 0 | 558 |
-| 350 | [Prey](games/p/prey.md) | 4.63 | 5,796 | 66 |
+| 350 | [Prey](games/p/prey.md) | 4.63 | 5,797 | 66 |
 | 350 | [Revita](games/r/revita.md) | 4.63 | 0 | 558 |
 | 350 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 187 | 295 |
 | 350 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 305 | 252 |
@@ -473,7 +473,7 @@
 | 449 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,571 | 58 |
 | 449 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 0 | 558 |
 | 449 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.58 | 0 | 558 |
-| 449 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 224 | 276 |
+| 449 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 225 | 275 |
 | 449 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,620 | 26 |
 | 449 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 22 | 541 |
 | 477 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 558 |
@@ -588,7 +588,7 @@
 | 573 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 333 | 246 |
 | 573 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 0 | 558 |
 | 573 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.51 | 775 | 173 |
-| 573 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 66 | 410 |
+| 573 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 66 | 411 |
 | 573 | [UnMetal](games/u/unmetal.md) | 4.51 | 0 | 558 |
 | 573 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 44 | 450 |
 | 573 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 138 | 326 |
@@ -597,7 +597,7 @@
 | 594 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.50 | 36 | 474 |
 | 594 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 438 | 224 |
 | 594 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 111 | 350 |
-| 594 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 224 | 276 |
+| 594 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 224 | 277 |
 | 594 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 91 | 382 |
 | 594 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 558 |
 | 594 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.50 | 0 | 558 |
@@ -674,7 +674,7 @@
 | 667 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 965 | 157 |
 | 667 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 0 | 558 |
 | 667 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 38 | 465 |
-| 667 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 895 | 162 |
+| 667 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 896 | 162 |
 | 667 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 293 | 257 |
 | 667 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 121 | 341 |
 | 667 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.45 | 0 | 558 |
@@ -707,7 +707,7 @@
 | 696 | [Predecessor](games/p/predecessor.md) | 4.43 | 217 | 284 |
 | 696 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 0 | 558 |
 | 696 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.43 | 0 | 558 |
-| 696 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 66 | 410 |
+| 696 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 67 | 410 |
 | 696 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 0 | 558 |
 | 696 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 0 | 558 |
 | 696 | [SMITE](games/s/smite.md) | 4.43 | 4,665 | 78 |
