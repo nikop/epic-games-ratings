@@ -99,9 +99,9 @@
 | 97 | [Bunny Park](games/b/bunny_park.md) | 3.30% |
 | 98 | [The Complex](games/t/the_complex.md) | 3.21% |
 | 99 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.15% |
+| 100 | [Destiny 2](games/d/destiny_2.md) | 3.12% |
 | 100 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
 | 100 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.12% |
-| 102 | [Destiny 2](games/d/destiny_2.md) | 3.11% |
 | 103 | [Doodle God](games/d/doodle_god.md) | 3.10% |
 | 104 | [Monster Harvest](games/m/monster_harvest.md) | 3.08% |
 | 104 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.08% |
@@ -143,7 +143,7 @@
 | 141 | [Five Dates](games/f/five_dates.md) | 1.57% |
 | 141 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
 | 143 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.55% |
-| 144 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.52% |
+| 144 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.49% |
 | 145 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.47% |
 | 146 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.45% |
 | 147 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.39% |
@@ -166,7 +166,7 @@
 | 164 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.05% |
 | 164 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.05% |
 | 166 | [The Devil's Face](games/t/the_devil's_face.md) | 1.04% |
-| 167 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.03% |
+| 167 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.02% |
 | 168 | [Sable](games/s/sable.md) | 1.01% |
 | 169 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.00% |
 | 170 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.99% |
@@ -190,11 +190,11 @@
 | 188 | [Haven](games/h/haven.md) | 0.65% |
 | 189 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.63% |
 | 190 | [Dead Space](games/d/dead_space.md) | 0.62% |
-| 191 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.61% |
 | 191 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.61% |
-| 193 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.60% |
-| 193 | [Potion Permit](games/p/potion_permit.md) | 0.60% |
-| 193 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.60% |
+| 192 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.60% |
+| 192 | [Potion Permit](games/p/potion_permit.md) | 0.60% |
+| 192 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.60% |
+| 192 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.60% |
 | 196 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.59% |
 | 196 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
 | 198 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.58% |
