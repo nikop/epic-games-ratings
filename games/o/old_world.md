@@ -84,6 +84,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Single Player Game | 2.00% | ~312 |
 | Kushite Pyramids | 2.00% | ~312 |
 | Kushite Paganism | 2.00% | ~312 |
+| Bad Heir Day | 1.00% | ~156 |
 | Capable | 1.00% | ~156 |
 | Devout | 1.00% | ~156 |
 | Invincible | 1.00% | ~156 |
@@ -126,7 +127,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 1.00% | ~156 |
 | Double Victory | 1.00% | ~156 |
 | The Clergy | 1.00% | ~156 |
-| Bad Heir Day | 0.90% | ~140 |
 | Clerics | 0.90% | ~140 |
 | Egypt | 0.90% | ~140 |
 | Rome | 0.90% | ~140 |

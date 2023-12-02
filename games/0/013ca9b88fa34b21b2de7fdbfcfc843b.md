@@ -5,29 +5,29 @@ Rating: 4.61 (Ranked 387)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,908 |
-| A Thorny Situation | 71.00% | ~5,826 |
+| Azoria Beckons | 72.00% | ~5,909 |
+| A Thorny Situation | 71.00% | ~5,827 |
 | ... And Spit Back Out | 61.00% | ~5,006 |
 | Break-Net Speed | 49.00% | ~4,021 |
 | Bramble Breaker | 47.00% | ~3,857 |
 | Miner 49er | 43.00% | ~3,529 |
 | Humble Collector | 43.00% | ~3,529 |
-| Calm Sailing | 37.00% | ~3,036 |
+| Calm Sailing | 37.00% | ~3,037 |
 | Open the Gate! | 34.00% | ~2,790 |
 | Mist Walker | 32.00% | ~2,626 |
 | Lumberjack | 27.00% | ~2,216 |
-| Oui, Chef! | 23.00% | ~1,887 |
+| Oui, Chef! | 23.00% | ~1,888 |
 | Clear the Air | 19.00% | ~1,559 |
 | Botanical Breakthrough | 17.00% | ~1,395 |
 | Search for the Hairy Grell | 14.00% | ~1,149 |
 | Beach Comber | 14.00% | ~1,149 |
 | Higher Tax Bracket | 14.00% | ~1,149 |
 | Skilled | 9.00% | ~739 |
-| Flaming Hot Completos | 8.00% | ~656 |
-| Fae Farmer | 8.00% | ~656 |
-| Got to Catch Them All | 8.00% | ~656 |
-| Rumble in the Jumble | 8.00% | ~656 |
-| Fanatical Farmer | 8.00% | ~656 |
+| Flaming Hot Completos | 8.00% | ~657 |
+| Fae Farmer | 8.00% | ~657 |
+| Got to Catch Them All | 8.00% | ~657 |
+| Rumble in the Jumble | 8.00% | ~657 |
+| Fanatical Farmer | 8.00% | ~657 |
 | Scattered Scroll Scrounger | 6.00% | ~492 |
 | Azorian Anniversary | 6.00% | ~492 |
 | I Now Pronounce You... | 5.00% | ~410 |
@@ -41,7 +41,7 @@ Rating: 4.61 (Ranked 387)
 | Workaholic | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,206 (Ranked 175)  
+Progressed: 8,207 (Ranked 175)  
 Completed: 1 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 1 (0.01%) (Ranked 344)
 | 2023-11-29 | 8,166 | 1 |
 | 2023-11-30 | 8,184 | 1 |
 | 2023-12-01 | 8,203 | 1 |
-| 2023-12-02 | 8,206 | 1 |
+| 2023-12-02 | 8,207 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

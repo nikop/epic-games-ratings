@@ -2840,9 +2840,9 @@
       "ID": "AC13",
       "SetID": "l4abp0",
       "Name": "Second Psalm.",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 396
+      "UsersEstimate": 406
     },
     {
       "ID": "AC14",
@@ -3113,8 +3113,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-11-18T16:58:56.9508532+00:00",
-  "LastChanged_Achievements": "2023-12-02T01:46:21.2682794+00:00",
+  "LastChanged_Achievements": "2023-12-02T02:22:35.1178051+00:00",
   "LastUpdate_AppInfo": "2023-11-29T01:48:53.5271416+00:00",
-  "LastUpdate_Ratings": "2023-12-02T01:40:39.6930231+00:00",
-  "LastUpdate_Achievements": "2023-12-02T01:46:21.2683415+00:00"
+  "LastUpdate_Ratings": "2023-12-02T02:16:40.2839301+00:00",
+  "LastUpdate_Achievements": "2023-12-02T02:22:35.1178411+00:00"
 }

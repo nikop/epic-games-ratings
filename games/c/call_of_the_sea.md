@@ -5,8 +5,8 @@ Rating: 4.40 (Ranked 741)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~105,876 |
-| 74 miles East of Otaheité | 56.00% | ~74,113 |
+| A Family Heirloom | 80.00% | ~105,877 |
+| 74 miles East of Otaheité | 56.00% | ~74,114 |
 | Interesting... | 42.00% | ~55,585 |
 | The Everhart Expedition | 40.00% | ~52,938 |
 | The Vanishing of the Lady Shannon | 30.00% | ~39,704 |
@@ -19,8 +19,8 @@ Rating: 4.40 (Ranked 741)
 | Dark Water Ride | 25.00% | ~33,086 |
 | Sunken | 25.00% | ~33,086 |
 | Deep Cut | 24.00% | ~31,763 |
-| FHALGOF'N' | 23.00% | ~30,439 |
-| Marsh Cannery | 21.00% | ~27,792 |
+| FHALGOF'N' | 23.00% | ~30,440 |
+| Marsh Cannery | 21.00% | ~27,793 |
 | Greetings from Y'ha-nthlei! | 18.00% | ~23,822 |
 | The only thing I have now | 17.00% | ~22,499 |
 | Naacalvision | 16.00% | ~21,175 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 741)
 | Gently down the stream... | 1.00% | ~1,323 |
 | Meta-reference | 1.00% | ~1,323 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,345 (Ranked 82)  
+Progressed: 132,346 (Ranked 82)  
 Completed: 1,161 (0.88%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 1,161 (0.88%) (Ranked 175)
 | 2023-11-29 | 132,049 | 1,154 |
 | 2023-11-30 | 132,185 | 1,156 |
 | 2023-12-01 | 132,329 | 1,161 |
-| 2023-12-02 | 132,345 | 1,161 |
+| 2023-12-02 | 132,346 | 1,161 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

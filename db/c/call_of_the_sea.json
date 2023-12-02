@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 132345,
+  "EOS_Progressed": 132346,
   "EOS_Completed": 1161,
-  "EOS_NewPlayers": 995,
+  "EOS_NewPlayers": 996,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -26008,6 +26008,11 @@
       "Time": "2023-12-02T01:47:44.5720464+00:00",
       "NumProgressed": 132345,
       "NumCompleted": 1161
+    },
+    {
+      "Time": "2023-12-02T02:24:33.5310957+00:00",
+      "NumProgressed": 132346,
+      "NumCompleted": 1161
     }
   ],
   "TotalAchievements": 34,
@@ -26075,7 +26080,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 105876
+      "UsersEstimate": 105877
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -26091,7 +26096,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 74113
+      "UsersEstimate": 74114
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -26139,7 +26144,7 @@
       "Name": "Marsh Cannery",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 27792
+      "UsersEstimate": 27793
     },
     {
       "ID": "ACH_L03_ORGAN",
@@ -26275,7 +26280,7 @@
       "Name": "FHALGOF\u0027N\u0027",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 30439
+      "UsersEstimate": 30440
     },
     {
       "ID": "ACH_L06_TEMPLE_OBJ",
@@ -26290,7 +26295,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 132345,
+      "Progressed": 132346,
       "Completed": 1161
     }
   ],
@@ -26298,8 +26303,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-11-24T21:59:26.7035134+00:00",
-  "LastChanged_Achievements": "2023-12-02T01:47:44.5720461+00:00",
+  "LastChanged_Achievements": "2023-12-02T02:24:33.5310951+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:33.6152409+00:00",
-  "LastUpdate_Ratings": "2023-12-02T01:41:51.5418047+00:00",
-  "LastUpdate_Achievements": "2023-12-02T01:47:44.5721683+00:00"
+  "LastUpdate_Ratings": "2023-12-02T02:18:30.5858916+00:00",
+  "LastUpdate_Achievements": "2023-12-02T02:24:33.531223+00:00"
 }

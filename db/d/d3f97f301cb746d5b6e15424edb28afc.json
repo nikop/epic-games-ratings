@@ -2858,9 +2858,9 @@
       "ID": "GSS_ACH_09_THROW_01",
       "SetID": "5fn8ia4",
       "Name": "Score!",
-      "Percentage": 97,
+      "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 1096
+      "UsersEstimate": 1107
     },
     {
       "ID": "GSS_ACH_10_THROW_02",
@@ -2914,9 +2914,9 @@
       "ID": "GSS_ACH_16_ORDER_FUEL",
       "SetID": "5fn8ia4",
       "Name": "Fuel Ordered",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1062
     },
     {
       "ID": "GSS_ACH_17_ORDER_TRASH_COLLECTION",
@@ -2946,9 +2946,9 @@
       "ID": "GSS_ACH_20_DECORATION_01",
       "SetID": "5fn8ia4",
       "Name": "Decorating!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 994
+      "UsersEstimate": 1006
     },
     {
       "ID": "GSS_ACH_21_LOCKPICKING_01",
@@ -2994,9 +2994,9 @@
       "ID": "GSS_ACH_27_PAINT_01",
       "SetID": "5fn8ia4",
       "Name": "Fresh Coat of Paint",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1028
     },
     {
       "ID": "GSS_ACH_28_PAINT_02",
@@ -3451,8 +3451,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-28T04:59:34.1023632+00:00",
-  "LastChanged_Achievements": "2023-12-02T01:48:14.7036949+00:00",
+  "LastChanged_Achievements": "2023-12-02T02:25:16.9466514+00:00",
   "LastUpdate_AppInfo": "2023-11-27T17:57:10.8459621+00:00",
-  "LastUpdate_Ratings": "2023-12-02T01:40:40.253511+00:00",
-  "LastUpdate_Achievements": "2023-12-02T01:48:14.70378+00:00"
+  "LastUpdate_Ratings": "2023-12-02T02:16:41.0869037+00:00",
+  "LastUpdate_Achievements": "2023-12-02T02:25:16.946751+00:00"
 }

@@ -28,7 +28,7 @@
 | Take Action! | 20.00% | ~9 |
 | Ascending Will | 18.00% | ~8 |
 | Haute Couture | 14.00% | ~6 |
-| Brilliant Executioner | 9.00% | ~4 |
+| Brilliant Executioner | 11.00% | ~5 |
 | Hidden Experiment | 9.00% | ~4 |
 | Into the Lion's Den | 9.00% | ~4 |
 | Bold and Bossy | 7.00% | ~3 |

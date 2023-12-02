@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8206,
+  "EOS_Progressed": 8207,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7829,6 +7829,11 @@
       "Time": "2023-12-02T01:52:17.4813564+00:00",
       "NumProgressed": 8206,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T02:28:51.3823637+00:00",
+      "NumProgressed": 8207,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -7841,7 +7846,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5908
+      "UsersEstimate": 5909
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -7849,7 +7854,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 5826
+      "UsersEstimate": 5827
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -7857,7 +7862,7 @@
       "Name": "Calm Sailing",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3036
+      "UsersEstimate": 3037
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -7889,7 +7894,7 @@
       "Name": "Flaming Hot Completos",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "CHAPTER_8_COMPLETE",
@@ -7897,7 +7902,7 @@
       "Name": "Fae Farmer",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "COLLECT_CLOVER",
@@ -7913,7 +7918,7 @@
       "Name": "Got to Catch Them All",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "COLLECT_FISH",
@@ -8009,7 +8014,7 @@
       "Name": "Rumble in the Jumble",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "DISPATCH_THORNS",
@@ -8033,7 +8038,7 @@
       "Name": "Fanatical Farmer",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "HAVE_WEDDING",
@@ -8057,7 +8062,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1887
+      "UsersEstimate": 1888
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -8120,22 +8125,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8206,
+      "Progressed": 8207,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 823,
-      "Completed": 823
+      "Progressed": 824,
+      "Completed": 824
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-01T18:02:55.7305048+00:00",
-  "LastChanged_Achievements": "2023-12-02T01:52:17.481356+00:00",
+  "LastChanged_Achievements": "2023-12-02T02:28:51.3823634+00:00",
   "LastUpdate_AppInfo": "2023-12-01T09:57:19.7790129+00:00",
-  "LastUpdate_Ratings": "2023-12-02T01:45:53.902965+00:00",
-  "LastUpdate_Achievements": "2023-12-02T01:52:17.4814154+00:00"
+  "LastUpdate_Ratings": "2023-12-02T02:21:53.0619031+00:00",
+  "LastUpdate_Achievements": "2023-12-02T02:28:51.3824127+00:00"
 }

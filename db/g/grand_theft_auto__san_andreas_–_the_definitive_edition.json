@@ -2,7 +2,7 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 508,
+  "Ranking_Rating": 509,
   "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 300,
   "Ranking_EOS_Progress": 157,
@@ -1627,9 +1627,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 13821,
+  "EOS_Progressed": 13822,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -15262,6 +15262,11 @@
       "Time": "2023-12-01T14:09:07.3823218+00:00",
       "NumProgressed": 13821,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-02T02:28:20.6596958+00:00",
+      "NumProgressed": 13822,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 35,
@@ -15273,7 +15278,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11333
+      "UsersEstimate": 11334
     },
     {
       "ID": "ACH02",
@@ -15281,7 +15286,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "ACH03",
@@ -15441,7 +15446,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 2211
+      "UsersEstimate": 2212
     },
     {
       "ID": "ACH23",
@@ -15497,7 +15502,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 2211
+      "UsersEstimate": 2212
     },
     {
       "ID": "ACH30",
@@ -15552,7 +15557,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13821,
+      "Progressed": 13822,
       "Completed": 56
     }
   ],
@@ -15560,8 +15565,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-01T03:59:54.7584362+00:00",
-  "LastChanged_Achievements": "2023-12-02T01:51:55.6339453+00:00",
+  "LastChanged_Achievements": "2023-12-02T02:28:20.6596954+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:29.1736391+00:00",
-  "LastUpdate_Ratings": "2023-12-02T01:42:15.1381667+00:00",
-  "LastUpdate_Achievements": "2023-12-02T01:51:55.6340272+00:00"
+  "LastUpdate_Ratings": "2023-12-02T02:19:05.7128806+00:00",
+  "LastUpdate_Achievements": "2023-12-02T02:28:20.6597928+00:00"
 }

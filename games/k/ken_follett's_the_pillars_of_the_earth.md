@@ -11,10 +11,10 @@ Number of Ratings: 368  (23.09.2022)
 | Friends of sorts | 33.00% | ~5,539 |
 | Yet another secret | 33.00% | ~5,539 |
 | Let there be darkness | 32.00% | ~5,371 |
-| End of Book One | 30.00% | ~5,035 |
+| End of Book One | 30.00% | ~5,036 |
 | Garden of Eden | 24.00% | ~4,028 |
-| Wannabe knight | 23.00% | ~3,860 |
-| Full house | 23.00% | ~3,860 |
+| Wannabe knight | 23.00% | ~3,861 |
+| Full house | 23.00% | ~3,861 |
 | Help an old friend | 21.00% | ~3,525 |
 | Two of us | 20.00% | ~3,357 |
 | Negotiation skills | 18.00% | ~3,021 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~504 |
 | Boy of mystery | 2.00% | ~336 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,784 (Ranked 148)  
+Progressed: 16,785 (Ranked 148)  
 Completed: 116 (0.69%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 116 (0.69%) (Ranked 186)
 | 2023-11-29 | 16,747 | 116 |
 | 2023-11-30 | 16,770 | 116 |
 | 2023-12-01 | 16,781 | 116 |
-| 2023-12-02 | 16,784 | 116 |
+| 2023-12-02 | 16,785 | 116 |
 ## Awards
 Max (Easy Puzzles): 155  (Ranked 317)  
 Sum: 198 (Ranked 401)  

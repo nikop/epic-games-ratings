@@ -6,28 +6,28 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~311,276 |
-| Jeef Skeejj | 44.00% | ~207,518 |
-| Careful planning | 39.00% | ~183,936 |
+| The Shutdown | 66.00% | ~311,278 |
+| Jeef Skeejj | 44.00% | ~207,519 |
+| Careful planning | 39.00% | ~183,937 |
 | Second Coming | 34.00% | ~160,355 |
-| Jeef Skagg | 30.00% | ~141,489 |
+| Jeef Skagg | 30.00% | ~141,490 |
 | Mother | 25.00% | ~117,908 |
-| In space, no one can hear you scream | 24.00% | ~113,191 |
+| In space, no one can hear you scream | 24.00% | ~113,192 |
 | Chapter I: Echoes | 22.00% | ~103,759 |
 | Excelsior Rule | 22.00% | ~103,759 |
-| Things persisted in not being what they seemed | 20.00% | ~94,326 |
+| Things persisted in not being what they seemed | 20.00% | ~94,327 |
 | Knightmare Frames | 15.00% | ~70,745 |
 | May His passing cleanse the world | 15.00% | ~70,745 |
 | Chapter II: Fallible Flesh | 15.00% | ~70,745 |
 | Pope Zenon | 15.00% | ~70,745 |
-| Tetsuo | 11.00% | ~51,879 |
-| Plan for the worst | 11.00% | ~51,879 |
+| Tetsuo | 11.00% | ~51,880 |
+| Plan for the worst | 11.00% | ~51,880 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~47,163 |
-| Chapter IV: Through the Looking Glass | 8.00% | ~37,730 |
-| Through the mirror | 8.00% | ~37,730 |
-| General Vivar | 8.00% | ~37,730 |
-| Back to Ganyma | 8.00% | ~37,730 |
-| Kaos Rule | 8.00% | ~37,730 |
+| Chapter IV: Through the Looking Glass | 8.00% | ~37,731 |
+| Through the mirror | 8.00% | ~37,731 |
+| General Vivar | 8.00% | ~37,731 |
+| Back to Ganyma | 8.00% | ~37,731 |
+| Kaos Rule | 8.00% | ~37,731 |
 | Admiral Okonkwo | 7.00% | ~33,014 |
 | The Survivalists | 7.00% | ~33,014 |
 | The Tech Specialist | 7.00% | ~33,014 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~16 |
 | Kronos Rule | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 471,631 (Ranked 40)  
+Progressed: 471,633 (Ranked 40)  
 Completed: 20 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 20 (0.00%) (Ranked 365)
 | 2023-11-29 | 471,546 | 20 |
 | 2023-11-30 | 471,584 | 20 |
 | 2023-12-01 | 471,629 | 20 |
-| 2023-12-02 | 471,631 | 20 |
+| 2023-12-02 | 471,633 | 20 |
 ## Awards
 Max (Character Customization): 224  (Ranked 276)  
 Sum: 246 (Ranked 383)  

@@ -1,17 +1,17 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.54 (Ranked 529)  
+Rating: 4.54 (Ranked 530)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~973,191 |
-| I Need a Bigger Garage | 63.00% | ~681,233 |
-| Pump my Ride | 47.00% | ~508,222 |
-| Ghostbuster | 34.00% | ~367,650 |
-| Call Roadside Assistance | 18.00% | ~194,638 |
-| That Was Close | 18.00% | ~194,638 |
+| The First of Many | 90.00% | ~973,196 |
+| I Need a Bigger Garage | 63.00% | ~681,237 |
+| Pump my Ride | 47.00% | ~508,225 |
+| Ghostbuster | 34.00% | ~367,652 |
+| Call Roadside Assistance | 18.00% | ~194,639 |
+| That Was Close | 18.00% | ~194,639 |
 | Quickie | 11.00% | ~118,946 |
 | California Dreamer | 7.00% | ~75,693 |
 | Can't Touch This | 5.00% | ~54,066 |
@@ -21,12 +21,12 @@ Number of Ratings: 1,343  (23.09.2022)
 | Supersonic | 3.00% | ~32,440 |
 | Marathonist | 3.00% | ~32,440 |
 | Living Legend | 3.00% | ~32,440 |
-| God of Roads | 2.00% | ~21,626 |
-| Pathfinder | 2.00% | ~21,626 |
-| Go-Kart Champion | 2.00% | ~21,626 |
-| Round the Globe | 2.00% | ~21,626 |
-| Completionist | 2.00% | ~21,626 |
-| Harder, Better, Faster, Stronger | 2.00% | ~21,626 |
+| God of Roads | 2.00% | ~21,627 |
+| Pathfinder | 2.00% | ~21,627 |
+| Go-Kart Champion | 2.00% | ~21,627 |
+| Round the Globe | 2.00% | ~21,627 |
+| Completionist | 2.00% | ~21,627 |
+| Harder, Better, Faster, Stronger | 2.00% | ~21,627 |
 | Crocodile Hunter | 1.00% | ~10,813 |
 | The Iceman | 1.00% | ~10,813 |
 | Bollywood Star | 1.00% | ~10,813 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,081 |
 | Look Mom, No Hands! | 0.10% | ~1,081 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,081,323 (Ranked 12)  
+Progressed: 1,081,329 (Ranked 12)  
 Completed: 500 (0.05%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 500 (0.05%) (Ranked 317)
 | 2023-11-29 | 1,080,498 | 496 |
 | 2023-11-30 | 1,080,877 | 500 |
 | 2023-12-01 | 1,081,289 | 500 |
-| 2023-12-02 | 1,081,323 | 500 |
+| 2023-12-02 | 1,081,329 | 500 |
 ## Awards
 Max (Great for Beginners): 170  (Ranked 308)  
 Sum: 1,406 (Ranked 240)  

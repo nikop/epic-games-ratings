@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~116,530 |
+| A Place to Lay Your Head | 93.00% | ~116,531 |
 | Don't Make Me Turn This Coach Around | 72.00% | ~90,217 |
 | A Clear Conscience | 69.00% | ~86,458 |
 | Unleash Hell | 68.00% | ~85,205 |
@@ -20,22 +20,22 @@ Number of Ratings: 7,767  (23.09.2022)
 | Rush Hour | 61.00% | ~76,434 |
 | To Grandmother's House | 61.00% | ~76,434 |
 | Serenity Now! | 54.00% | ~67,663 |
-| Hope Rekindled | 50.00% | ~62,650 |
-| Ramble On | 50.00% | ~62,650 |
-| Nope | 49.00% | ~61,397 |
-| This Looks Familiar | 38.00% | ~47,614 |
-| Now Stay Dead | 38.00% | ~47,614 |
-| Harvest Festival | 37.00% | ~46,361 |
-| Hot Air | 37.00% | ~46,361 |
-| Merry Time | 36.00% | ~45,108 |
-| Creep and Sleep | 34.00% | ~42,602 |
-| Overdue Notice | 33.00% | ~41,349 |
-| Banishment | 32.00% | ~40,096 |
-| Whale | 32.00% | ~40,096 |
-| FNG | 30.00% | ~37,590 |
-| Predator | 26.00% | ~32,578 |
-| Reverse Banditry | 26.00% | ~32,578 |
-| Autodidact | 25.00% | ~31,325 |
+| Hope Rekindled | 50.00% | ~62,651 |
+| Ramble On | 50.00% | ~62,651 |
+| Nope | 49.00% | ~61,398 |
+| This Looks Familiar | 38.00% | ~47,615 |
+| Now Stay Dead | 38.00% | ~47,615 |
+| Harvest Festival | 37.00% | ~46,362 |
+| Hot Air | 37.00% | ~46,362 |
+| Merry Time | 36.00% | ~45,109 |
+| Creep and Sleep | 34.00% | ~42,603 |
+| Overdue Notice | 33.00% | ~41,350 |
+| Banishment | 32.00% | ~40,097 |
+| Whale | 32.00% | ~40,097 |
+| FNG | 30.00% | ~37,591 |
+| Predator | 26.00% | ~32,579 |
+| Reverse Banditry | 26.00% | ~32,579 |
+| Autodidact | 25.00% | ~31,326 |
 | Meat and Greet | 23.00% | ~28,819 |
 | Spelunker | 22.00% | ~27,566 |
 | Eyes Up | 22.00% | ~27,566 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~125 |
 | No Gravestone Left Unturned | 0.10% | ~125 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125,301 (Ranked 84)  
+Progressed: 125,302 (Ranked 84)  
 Completed: 2 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,10 +288,10 @@ Completed: 2 (0.00%) (Ranked 365)
 | 2023-11-29 | 125,131 | 2 |
 | 2023-11-30 | 125,201 | 2 |
 | 2023-12-01 | 125,290 | 2 |
-| 2023-12-02 | 125,301 | 2 |
+| 2023-12-02 | 125,302 | 2 |
 ## Awards
 Max (Character Customization): 7,545  (Ranked 52)  
-Sum: 19,916 (Ranked 59)  
+Sum: 19,917 (Ranked 59)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
@@ -301,7 +301,7 @@ Diff (max vs sum): -7
 | This game is Highly Recommended | 1,468 |
 | This game has Amazing Characters | 1,415 |
 | This game is Extremely Fun | 1,412 |
-| This game has Amazing Storytelling | 1,336 |
+| This game has Amazing Storytelling | 1,337 |
 | This game has Quickly Understood Controls | 1,316 |
 | This game has Unique Visuals | 1,298 |
 | This game has a Creative Community | 977 |
@@ -618,3 +618,4 @@ Diff (max vs sum): -7
 | 2023-11-29 | 4.68 | - | 7,544 | 19,901 |
 | 2023-11-30 | 4.68 | - | 7,545 | 19,907 |
 | 2023-12-01 | 4.68 | - | 7,545 | 19,916 |
+| 2023-12-02 | 4.68 | - | 7,545 | 19,917 |

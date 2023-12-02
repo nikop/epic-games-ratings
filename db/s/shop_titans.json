@@ -7333,9 +7333,9 @@
       "Count": 3789
     }
   ],
-  "EOS_Progressed": 143300,
+  "EOS_Progressed": 143301,
   "EOS_Completed": 290,
-  "EOS_NewPlayers": 1615,
+  "EOS_NewPlayers": 1616,
   "EOS_NewCompleters": 65,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -30698,6 +30698,11 @@
       "Time": "2023-12-02T01:47:59.1447947+00:00",
       "NumProgressed": 143300,
       "NumCompleted": 290
+    },
+    {
+      "Time": "2023-12-02T02:24:54.4662236+00:00",
+      "NumProgressed": 143301,
+      "NumCompleted": 290
     }
   ],
   "TotalAchievements": 112,
@@ -30861,7 +30866,7 @@
       "Name": "Bane of Legends",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "champions01",
@@ -30933,7 +30938,7 @@
       "Name": "Ultimate Collector",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "commonres01",
@@ -31053,7 +31058,7 @@
       "Name": "Unleashed Potential",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "energy01",
@@ -31277,7 +31282,7 @@
       "Name": "JACKPOT!!!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "legenchant01",
@@ -31604,15 +31609,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 143300,
+      "Progressed": 143301,
       "Completed": 290
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-02T01:45:50.8831877+00:00",
-  "LastChanged_Achievements": "2023-12-02T01:47:59.1447942+00:00",
+  "LastChanged_Achievements": "2023-12-02T02:24:54.4662232+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:59:05.7926711+00:00",
-  "LastUpdate_Ratings": "2023-12-02T01:45:50.8831882+00:00",
-  "LastUpdate_Achievements": "2023-12-02T01:47:59.1450191+00:00"
+  "LastUpdate_Ratings": "2023-12-02T02:21:48.4741578+00:00",
+  "LastUpdate_Achievements": "2023-12-02T02:24:54.4664209+00:00"
 }

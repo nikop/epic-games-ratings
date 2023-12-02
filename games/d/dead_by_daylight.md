@@ -10,11 +10,11 @@ Number of Ratings: 70,340  (23.09.2022)
 | Skillful | 0.60% | ~6,358 |
 | Zealous | 0.50% | ~5,298 |
 | Not half bad | 0.50% | ~5,298 |
-| Handyman | 0.40% | ~4,238 |
-| Apt Survivor | 0.40% | ~4,238 |
-| Survival Treasures | 0.40% | ~4,238 |
-| I | 0.40% | ~4,238 |
-| Make Some Noise | 0.40% | ~4,238 |
+| I | 0.50% | ~5,298 |
+| Handyman | 0.40% | ~4,239 |
+| Apt Survivor | 0.40% | ~4,239 |
+| Survival Treasures | 0.40% | ~4,239 |
+| Make Some Noise | 0.40% | ~4,239 |
 | The Grand Sacrifice | 0.30% | ~3,179 |
 | Agonizing Escape | 0.30% | ~3,179 |
 | Backdoor Escape | 0.30% | ~3,179 |
@@ -44,6 +44,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | First to the Punch | 0.20% | ~2,119 |
 | Operation: Survival | 0.20% | ~2,119 |
 | Every Last Drop | 0.20% | ~2,119 |
+| Raccoon City Recruit | 0.20% | ~2,119 |
 | With Scars to Show | 0.20% | ~2,119 |
 | Flight to Freedom | 0.20% | ~2,119 |
 | Lifting The Fog | 0.20% | ~2,119 |
@@ -181,7 +182,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Yun-Jin | 0.10% | ~1,060 |
 | Biological Weaponry | 0.10% | ~1,060 |
 | Adept Nemesis | 0.10% | ~1,060 |
-| Raccoon City Recruit | 0.10% | ~1,060 |
 | Adept Leon | 0.10% | ~1,060 |
 | Adept Jill | 0.10% | ~1,060 |
 | Tear Their Soul Apart | 0.10% | ~1,060 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,060 |
 | Adept Good Guy | 0.10% | ~1,060 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,059,610 (Ranked 14)  
+Progressed: 1,059,683 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -465,7 +465,7 @@ Completed: 61 (0.01%) (Ranked 344)
 | 2023-11-29 | 1,053,910 | 61 |
 | 2023-11-30 | 1,056,530 | 61 |
 | 2023-12-01 | 1,059,298 | 61 |
-| 2023-12-02 | 1,059,610 | 61 |
+| 2023-12-02 | 1,059,683 | 61 |
 ## Awards
 Max (Diverse Characters): 37,031  (Ranked 15)  
 Sum: 281,537 (Ranked 12)  

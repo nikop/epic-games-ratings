@@ -4,10 +4,10 @@
   "ProductSlug": "the-captain",
   "Ranking_Rating": 680,
   "Ranking_Popularity": 365,
-  "Ranking_PopularitySum": 308,
+  "Ranking_PopularitySum": 307,
   "Ranking_EOS_Progress": 770,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewPlayers": 496,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2021-12-03T17:00:00+00:00",
@@ -419,10 +419,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 667,
       "NumberOfAwardsMax": 98
+    },
+    {
+      "Time": "2023-12-02T02:18:49.0865822+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 668,
+      "NumberOfAwardsMax": 98
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 667,
+  "NumberOfAwards": 668,
   "NumberOfAwardsMax": 98,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -478,7 +484,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 72
+      "Count": 73
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -505,8 +511,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:04.1173029+00:00",
   "FirstSeenRating": "2022-09-16T04:31:51.0192278+00:00",
-  "LastChanged": "2023-11-24T01:44:05.9045266+00:00",
+  "LastChanged": "2023-12-02T02:18:49.086582+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:48.8577511+00:00",
-  "LastUpdate_Ratings": "2023-12-02T01:42:04.2500537+00:00",
-  "LastUpdate_Achievements": "2023-12-02T01:48:31.9023246+00:00"
+  "LastUpdate_Ratings": "2023-12-02T02:18:49.0865824+00:00",
+  "LastUpdate_Achievements": "2023-12-02T02:25:41.1621693+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 529,
+  "Ranking_Rating": 530,
   "Ranking_Popularity": 49,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 21,
@@ -7131,9 +7131,9 @@
       "Count": 503
     }
   ],
-  "EOS_Progressed": 728717,
+  "EOS_Progressed": 728731,
   "EOS_Completed": 2459,
-  "EOS_NewPlayers": 4553,
+  "EOS_NewPlayers": 4567,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -32966,6 +32966,11 @@
       "Time": "2023-12-02T01:51:15.4271088+00:00",
       "NumProgressed": 728717,
       "NumCompleted": 2459
+    },
+    {
+      "Time": "2023-12-02T02:27:23.9748642+00:00",
+      "NumProgressed": 728731,
+      "NumCompleted": 2459
     }
   ],
   "TotalAchievements": 51,
@@ -32985,7 +32990,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6558
+      "UsersEstimate": 6559
     },
     {
       "ID": "ach_ammo_ran",
@@ -32993,7 +32998,7 @@
       "Name": "Git Gutte!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14574
+      "UsersEstimate": 14575
     },
     {
       "ID": "ach_anger_management",
@@ -33041,7 +33046,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14574
+      "UsersEstimate": 14575
     },
     {
       "ID": "ach_contender",
@@ -33097,7 +33102,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14574
+      "UsersEstimate": 14575
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -33121,7 +33126,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14574
+      "UsersEstimate": 14575
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -33137,7 +33142,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14574
+      "UsersEstimate": 14575
     },
     {
       "ID": "ach_impressive_aim",
@@ -33217,7 +33222,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6558
+      "UsersEstimate": 6559
     },
     {
       "ID": "ach_revival_tour",
@@ -33257,7 +33262,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14574
+      "UsersEstimate": 14575
     },
     {
       "ID": "ach_survival_expert",
@@ -33273,7 +33278,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 6558
+      "UsersEstimate": 6559
     },
     {
       "ID": "ach_the_vcla",
@@ -33313,7 +33318,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14574
+      "UsersEstimate": 14575
     },
     {
       "ID": "ach_well_known_survivor",
@@ -33384,13 +33389,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 728717,
+      "Progressed": 728731,
       "Completed": 2459
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 54259,
+      "Progressed": 54273,
       "Completed": 36620
     }
   ],
@@ -33398,8 +33403,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-12-01T15:59:46.9988066+00:00",
-  "LastChanged_Achievements": "2023-12-02T01:51:15.4271084+00:00",
+  "LastChanged_Achievements": "2023-12-02T02:27:23.9748637+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:13.0953495+00:00",
-  "LastUpdate_Ratings": "2023-12-02T01:41:56.0975643+00:00",
-  "LastUpdate_Achievements": "2023-12-02T01:51:15.4272296+00:00"
+  "LastUpdate_Ratings": "2023-12-02T02:18:36.9601901+00:00",
+  "LastUpdate_Achievements": "2023-12-02T02:27:23.974992+00:00"
 }

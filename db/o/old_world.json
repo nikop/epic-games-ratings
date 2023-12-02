@@ -16984,9 +16984,9 @@
       "ID": "ACHIEVEMENT_ASSASSINATED_BY_HEIR",
       "SetID": "9201eeb",
       "Name": "Bad Heir Day",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 156
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_HEIR",
@@ -19678,8 +19678,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-01T03:59:05.0730952+00:00",
-  "LastChanged_Achievements": "2023-12-02T01:46:09.4969728+00:00",
+  "LastChanged_Achievements": "2023-12-02T02:22:18.6800727+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:11.3516564+00:00",
-  "LastUpdate_Ratings": "2023-12-02T01:41:40.3264972+00:00",
-  "LastUpdate_Achievements": "2023-12-02T01:46:09.4978892+00:00"
+  "LastUpdate_Ratings": "2023-12-02T02:18:13.3332638+00:00",
+  "LastUpdate_Achievements": "2023-12-02T02:22:18.680976+00:00"
 }

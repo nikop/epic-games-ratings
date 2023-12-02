@@ -4,7 +4,7 @@
   "ProductSlug": "geojelly-a44cfe",
   "Ranking_EOS_Progress": 500,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewPlayers": 496,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-06-07T18:00:00+00:00",
@@ -347,9 +347,9 @@
       "ID": "COMPLETE_FACTORY",
       "SetID": "dademeo",
       "Name": "Complete factory",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "COMPLETE_LAB",
@@ -450,8 +450,8 @@
   ],
   "FirstSeen": "2023-06-24T07:57:28.1262112+00:00",
   "FirstSeenAchievements": "2023-05-09T08:01:56.5974066+00:00",
-  "LastChanged_Achievements": "2023-12-02T01:51:31.2092432+00:00",
+  "LastChanged_Achievements": "2023-12-02T02:27:46.5342104+00:00",
   "LastUpdate_AppInfo": "2023-11-29T01:48:50.0032011+00:00",
-  "LastUpdate_Ratings": "2023-12-02T01:41:53.5685142+00:00",
-  "LastUpdate_Achievements": "2023-12-02T01:51:31.2092537+00:00"
+  "LastUpdate_Ratings": "2023-12-02T02:18:33.6393199+00:00",
+  "LastUpdate_Achievements": "2023-12-02T02:27:46.5342224+00:00"
 }

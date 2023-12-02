@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 472,
+  "EOS_Progressed": 473,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1472,6 +1472,11 @@
       "Time": "2023-12-02T01:49:03.8080569+00:00",
       "NumProgressed": 472,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-02T02:26:26.5420866+00:00",
+      "NumProgressed": 473,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1483,7 +1488,7 @@
       "Name": "Travel Streamer",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1507,7 +1512,7 @@
       "Name": "Nosebleeder",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -1521,9 +1526,9 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "7pimpda",
       "Name": "Youth Magnet",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 76
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -1561,9 +1566,9 @@
       "ID": "ACHIEVEMENT_19",
       "SetID": "7pimpda",
       "Name": "Mermaid Killer",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 57
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -1571,7 +1576,7 @@
       "Name": "Training Simulation",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1595,7 +1600,7 @@
       "Name": "Beginner Cook",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -1611,7 +1616,7 @@
       "Name": "Arms Mechanic",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -1625,9 +1630,9 @@
       "ID": "ACHIEVEMENT_26",
       "SetID": "7pimpda",
       "Name": "Master Artificer",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 76
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -1651,7 +1656,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1667,7 +1672,7 @@
       "Name": "Weapon Boost",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -1739,7 +1744,7 @@
       "Name": "Storm Traveller",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -1803,15 +1808,15 @@
       "Name": "Wolf King Killer",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ACHIEVEMENT_6",
       "SetID": "7pimpda",
       "Name": "Flower Thief",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 194
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -1827,7 +1832,7 @@
       "Name": "Seal Breaker",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -1835,14 +1840,14 @@
       "Name": "Handyman",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 472,
+      "Progressed": 473,
       "Completed": 1
     }
   ],
@@ -1850,8 +1855,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-02T01:49:03.8080565+00:00",
+  "LastChanged_Achievements": "2023-12-02T02:26:26.5420862+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:43.504637+00:00",
-  "LastUpdate_Ratings": "2023-12-02T01:42:31.7003244+00:00",
-  "LastUpdate_Achievements": "2023-12-02T01:49:03.8080953+00:00"
+  "LastUpdate_Ratings": "2023-12-02T02:19:31.1466484+00:00",
+  "LastUpdate_Achievements": "2023-12-02T02:26:26.5421204+00:00"
 }

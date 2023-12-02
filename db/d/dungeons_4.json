@@ -1331,9 +1331,9 @@
       "ID": "ach_main02horde_creatures",
       "SetID": "4hg22ll",
       "Name": "For the Horde!",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 415
+      "UsersEstimate": 420
     },
     {
       "ID": "ach_main02horde_traps",
@@ -1794,8 +1794,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-02T01:51:15.0460681+00:00",
+  "LastChanged_Achievements": "2023-12-02T02:27:23.4654438+00:00",
   "LastUpdate_AppInfo": "2023-11-25T17:56:53.3530612+00:00",
-  "LastUpdate_Ratings": "2023-12-02T01:40:55.9498537+00:00",
-  "LastUpdate_Achievements": "2023-12-02T01:51:15.0461241+00:00"
+  "LastUpdate_Ratings": "2023-12-02T02:17:04.8229865+00:00",
+  "LastUpdate_Achievements": "2023-12-02T02:27:23.4654888+00:00"
 }

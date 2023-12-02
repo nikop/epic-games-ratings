@@ -1,7 +1,7 @@
 # Murder by Numbers
 [Store](https://store.epicgames.com/en-US/p/murder-by-numbers)  
 [View Rawdata](../../db/m/murder_by_numbers.json)  
-Rating: 4.28 (Ranked 858)  
+Rating: 4.29 (Ranked 849)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -47,3 +47,4 @@ Rating: 4.28 (Ranked 858)
 | 2023-11-10 | 4.28 | 0 | 0 |
 | 2023-11-13 | 4.27 | 0 | 0 |
 | 2023-11-16 | 4.28 | 0 | 0 |
+| 2023-12-02 | 4.29 | 0 | 0 |

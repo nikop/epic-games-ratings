@@ -4413,18 +4413,24 @@
       "Rating": 4.18,
       "NumberOfAwards": 5094,
       "NumberOfAwardsMax": 2984
+    },
+    {
+      "Time": "2023-12-02T02:19:40.4366696+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 5097,
+      "NumberOfAwardsMax": 2987
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5094,
-  "NumberOfAwardsMax": 2984,
+  "NumberOfAwards": 5097,
+  "NumberOfAwardsMax": 2987,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2984
+      "Count": 2987
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4481,9 +4487,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77540,
+  "EOS_Progressed": 77542,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 500,
+  "EOS_NewPlayers": 502,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24701,6 +24707,11 @@
       "Time": "2023-12-02T01:48:07.9196696+00:00",
       "NumProgressed": 77540,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-02T02:25:07.2279551+00:00",
+      "NumProgressed": 77542,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -24816,7 +24827,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16283
+      "UsersEstimate": 16284
     },
     {
       "ID": "CLAYFACE_2",
@@ -24824,7 +24835,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13957
+      "UsersEstimate": 13958
     },
     {
       "ID": "CLAYFACE_3",
@@ -24912,7 +24923,7 @@
       "Name": "Family Meeting",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4652
+      "UsersEstimate": 4653
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -24936,7 +24947,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21711
+      "UsersEstimate": 21712
     },
     {
       "ID": "FREEZE_1_5",
@@ -25024,7 +25035,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19385
+      "UsersEstimate": 19386
     },
     {
       "ID": "HARLEY_3",
@@ -25040,7 +25051,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12406
+      "UsersEstimate": 12407
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -25056,7 +25067,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38770
+      "UsersEstimate": 38771
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -25096,7 +25107,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4652
+      "UsersEstimate": 4653
     },
     {
       "ID": "MYSTERY_01",
@@ -25112,7 +25123,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19385
+      "UsersEstimate": 19386
     },
     {
       "ID": "MYSTERY_03",
@@ -25136,7 +25147,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13957
+      "UsersEstimate": 13958
     },
     {
       "ID": "MYSTERY_06",
@@ -25168,7 +25179,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8529
+      "UsersEstimate": 8530
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -25199,22 +25210,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77540,
+      "Progressed": 77542,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47820,
+      "Progressed": 47822,
       "Completed": 2675
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-12-01T18:59:52.8837058+00:00",
-  "LastChanged_Achievements": "2023-12-02T01:48:07.9196691+00:00",
+  "LastChanged": "2023-12-02T02:19:40.4366694+00:00",
+  "LastChanged_Achievements": "2023-12-02T02:25:07.2279544+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:48.4544768+00:00",
-  "LastUpdate_Ratings": "2023-12-02T01:42:37.7928028+00:00",
-  "LastUpdate_Achievements": "2023-12-02T01:48:07.9197899+00:00"
+  "LastUpdate_Ratings": "2023-12-02T02:19:40.4366698+00:00",
+  "LastUpdate_Achievements": "2023-12-02T02:25:07.2280953+00:00"
 }

@@ -844,9 +844,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 354836,
+  "EOS_Progressed": 354838,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 944,
+  "EOS_NewPlayers": 946,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26469,6 +26469,11 @@
       "Time": "2023-12-02T01:46:42.9843046+00:00",
       "NumProgressed": 354836,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-02T02:23:05.9154505+00:00",
+      "NumProgressed": 354838,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -26496,7 +26501,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42580
+      "UsersEstimate": 42581
     },
     {
       "ID": "ach004",
@@ -26536,7 +26541,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42580
+      "UsersEstimate": 42581
     },
     {
       "ID": "ach009",
@@ -26584,7 +26589,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 53225
+      "UsersEstimate": 53226
     },
     {
       "ID": "ach015",
@@ -26624,7 +26629,7 @@
       "Name": "Considerable Clams",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14193
+      "UsersEstimate": 14194
     },
     {
       "ID": "ach020",
@@ -26696,7 +26701,7 @@
       "Name": "Gin Joint",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 14193
+      "UsersEstimate": 14194
     },
     {
       "ID": "ach029",
@@ -26728,7 +26733,7 @@
       "Name": "An Affront to the Enemy",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 14193
+      "UsersEstimate": 14194
     },
     {
       "ID": "ach033",
@@ -26824,7 +26829,7 @@
       "Name": "Friends from Back Home",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 14193
+      "UsersEstimate": 14194
     },
     {
       "ID": "ach045",
@@ -27056,7 +27061,7 @@
       "Name": "Half Century Mark",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 14193
+      "UsersEstimate": 14194
     },
     {
       "ID": "ach075",
@@ -27119,7 +27124,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 354836,
+      "Progressed": 354838,
       "Completed": 7
     }
   ],
@@ -27127,8 +27132,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-12-01T16:02:58.3539943+00:00",
-  "LastChanged_Achievements": "2023-12-02T01:46:42.9843042+00:00",
+  "LastChanged_Achievements": "2023-12-02T02:23:05.9154501+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:57:38.701398+00:00",
-  "LastUpdate_Ratings": "2023-12-02T01:45:43.0383781+00:00",
-  "LastUpdate_Achievements": "2023-12-02T01:46:42.9844694+00:00"
+  "LastUpdate_Ratings": "2023-12-02T02:21:36.5068015+00:00",
+  "LastUpdate_Achievements": "2023-12-02T02:23:05.9156026+00:00"
 }

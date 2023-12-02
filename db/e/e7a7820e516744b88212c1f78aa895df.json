@@ -1322,9 +1322,9 @@
       "ID": "achWinDiv1",
       "SetID": "7ji07dj",
       "Name": "Road to Glory",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achWinDiv2",
@@ -1370,9 +1370,9 @@
       "ID": "achWinRaceJv",
       "SetID": "7ji07dj",
       "Name": "Salt Surfer",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achWinRaceUd",
@@ -1401,8 +1401,8 @@
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-12-02T01:51:36.6255664+00:00",
+  "LastChanged_Achievements": "2023-12-02T02:27:53.9578865+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:28.4111974+00:00",
-  "LastUpdate_Ratings": "2023-12-02T01:40:43.3282176+00:00",
-  "LastUpdate_Achievements": "2023-12-02T01:51:36.6255901+00:00"
+  "LastUpdate_Ratings": "2023-12-02T02:16:45.7859513+00:00",
+  "LastUpdate_Achievements": "2023-12-02T02:27:53.9579052+00:00"
 }

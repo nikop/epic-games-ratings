@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Trinity | 14.00% | ~34 |
 | Break Out | 13.00% | ~31 |
-| Trinity | 13.00% | ~31 |
 | I Found It | 11.00% | ~27 |
 | Find Allies | 10.00% | ~24 |
 | Powerful Allies | 10.00% | ~24 |

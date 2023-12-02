@@ -9202,10 +9202,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 19916,
       "NumberOfAwardsMax": 7545
+    },
+    {
+      "Time": "2023-12-02T02:19:22.2565513+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 19917,
+      "NumberOfAwardsMax": 7545
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 19916,
+  "NumberOfAwards": 19917,
   "NumberOfAwardsMax": 7545,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9273,7 +9279,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1336
+      "Count": 1337
     },
     {
       "Text": "This game has a Creative Community",
@@ -9282,9 +9288,9 @@
       "Count": 977
     }
   ],
-  "EOS_Progressed": 125301,
+  "EOS_Progressed": 125302,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 707,
+  "EOS_NewPlayers": 708,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33137,6 +33143,11 @@
       "Time": "2023-12-02T01:49:13.5740017+00:00",
       "NumProgressed": 125301,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-02T02:26:40.2736293+00:00",
+      "NumProgressed": 125302,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 65,
@@ -33244,7 +33255,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 47614
+      "UsersEstimate": 47615
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -33252,7 +33263,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 62650
+      "UsersEstimate": 62651
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -33268,7 +33279,7 @@
       "Name": "Predator",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 32578
+      "UsersEstimate": 32579
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -33292,7 +33303,7 @@
       "Name": "Banishment",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 40096
+      "UsersEstimate": 40097
     },
     {
       "ID": "combat_kill_death",
@@ -33308,7 +33319,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 42602
+      "UsersEstimate": 42603
     },
     {
       "ID": "combat_kill_fanatics",
@@ -33332,7 +33343,7 @@
       "Name": "Now Stay Dead",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 47614
+      "UsersEstimate": 47615
     },
     {
       "ID": "combat_kill_gentry",
@@ -33372,7 +33383,7 @@
       "Name": "Overdue Notice",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 41349
+      "UsersEstimate": 41350
     },
     {
       "ID": "combat_kill_pillagers",
@@ -33380,7 +33391,7 @@
       "Name": "Reverse Banditry",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 32578
+      "UsersEstimate": 32579
     },
     {
       "ID": "combat_kill_shambler",
@@ -33452,7 +33463,7 @@
       "Name": "Merry Time",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 45108
+      "UsersEstimate": 45109
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -33460,7 +33471,7 @@
       "Name": "Harvest Festival",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 46361
+      "UsersEstimate": 46362
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -33476,7 +33487,7 @@
       "Name": "Ramble On",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 62650
+      "UsersEstimate": 62651
     },
     {
       "ID": "driving_distance_hard",
@@ -33500,7 +33511,7 @@
       "Name": "Autodidact",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 31325
+      "UsersEstimate": 31326
     },
     {
       "ID": "hero_story_complete_all",
@@ -33524,7 +33535,7 @@
       "Name": "Whale",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 40096
+      "UsersEstimate": 40097
     },
     {
       "ID": "hospital_full_service",
@@ -33540,7 +33551,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 116530
+      "UsersEstimate": 116531
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -33556,7 +33567,7 @@
       "Name": "FNG",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 37590
+      "UsersEstimate": 37591
     },
     {
       "ID": "inn_visit_all_variants",
@@ -33596,7 +33607,7 @@
       "Name": "Nope",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 61397
+      "UsersEstimate": 61398
     },
     {
       "ID": "run_victory_act01",
@@ -33612,7 +33623,7 @@
       "Name": "Hot Air",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 46361
+      "UsersEstimate": 46362
     },
     {
       "ID": "run_victory_act03",
@@ -33667,21 +33678,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 125301,
+      "Progressed": 125302,
       "Completed": 2
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 170,
-      "Completed": 170
+      "Progressed": 171,
+      "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-01T21:59:26.8780088+00:00",
-  "LastChanged_Achievements": "2023-12-02T01:49:13.5740012+00:00",
+  "LastChanged": "2023-12-02T02:19:22.2565512+00:00",
+  "LastChanged_Achievements": "2023-12-02T02:26:40.2736288+00:00",
   "LastUpdate_AppInfo": "2023-11-25T21:58:41.5668132+00:00",
-  "LastUpdate_Ratings": "2023-12-02T01:42:25.7126053+00:00",
-  "LastUpdate_Achievements": "2023-12-02T01:49:13.5741246+00:00"
+  "LastUpdate_Ratings": "2023-12-02T02:19:22.2565519+00:00",
+  "LastUpdate_Achievements": "2023-12-02T02:26:40.2738393+00:00"
 }
