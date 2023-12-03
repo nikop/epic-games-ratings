@@ -39,7 +39,7 @@
 | Unrivaled in Arms | 26.00% | ~92 |
 | Karakuri Minato | 26.00% | ~92 |
 | Canyon of Karakuri | 25.00% | ~88 |
-| Threaded Harmony | 23.00% | ~81 |
+| Threaded Harmony | 24.00% | ~85 |
 | Quintessence of Form | 22.00% | ~78 |
 | Jack of All Trades | 21.00% | ~74 |
 | Karakuri Fortress | 20.00% | ~71 |

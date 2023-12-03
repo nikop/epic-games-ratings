@@ -17,7 +17,7 @@
 | Volcanologist | 19.00% | ~96 |
 | Peacemaker | 18.00% | ~91 |
 | On her own | 15.00% | ~75 |
-| Beyond divisions | 14.00% | ~70 |
+| Beyond divisions | 15.00% | ~75 |
 | Fierce fight | 13.00% | ~65 |
 | Evacuation | 13.00% | ~65 |
 | Flying Objects Operator | 12.00% | ~60 |

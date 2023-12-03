@@ -6,52 +6,52 @@ Rating: 4.76 (Ranked 129)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 16.00% | ~48,616 |
-| First Class Student | 15.00% | ~45,577 |
+| First Class Student | 15.00% | ~45,578 |
 | Troll with the Punches | 14.00% | ~42,539 |
-| A Keen Sense of Spell | 13.00% | ~39,500 |
-| That's a Keeper | 13.00% | ~39,500 |
+| A Keen Sense of Spell | 13.00% | ~39,501 |
+| That's a Keeper | 13.00% | ~39,501 |
 | The Hallowed Hero | 12.00% | ~36,462 |
 | The Defender of Dragons | 12.00% | ~36,462 |
 | Loom for Improvement | 12.00% | ~36,462 |
 | A Talent for Spending | 12.00% | ~36,462 |
-| Grappling with a Graphorn | 11.00% | ~33,423 |
-| The One Who Mastered Memories | 11.00% | ~33,423 |
-| The Hero of Hogwarts | 11.00% | ~33,423 |
-| Challenge Accepted | 11.00% | ~33,423 |
-| Coasting Along | 11.00% | ~33,423 |
+| Grappling with a Graphorn | 11.00% | ~33,424 |
+| The One Who Mastered Memories | 11.00% | ~33,424 |
+| The Hero of Hogwarts | 11.00% | ~33,424 |
+| Challenge Accepted | 11.00% | ~33,424 |
+| Coasting Along | 11.00% | ~33,424 |
 | Followed the Butterflies | 10.00% | ~30,385 |
 | Rising From the Ashes | 10.00% | ~30,385 |
-| A Sallow Grave | 9.00% | ~27,346 |
-| The Spell Master | 9.00% | ~27,346 |
+| A Sallow Grave | 9.00% | ~27,347 |
+| The Spell Master | 9.00% | ~27,347 |
 | The Avenging Gazelle | 8.00% | ~24,308 |
 | Beast Friends | 8.00% | ~24,308 |
 | Flight the Good Flight | 8.00% | ~24,308 |
-| Raising Expectations | 7.00% | ~21,269 |
+| Raising Expectations | 7.00% | ~21,270 |
 | The Seeker of Knowledge | 6.00% | ~18,231 |
 | The Root of the Problem | 6.00% | ~18,231 |
 | Third Time's a Charm | 6.00% | ~18,231 |
-| The Toast of the Town | 5.00% | ~15,192 |
-| The Gryffindor in the Graveyard | 5.00% | ~15,192 |
-| The Ends Petrify the Means | 5.00% | ~15,192 |
+| The Toast of the Town | 5.00% | ~15,193 |
+| The Gryffindor in the Graveyard | 5.00% | ~15,193 |
+| The Ends Petrify the Means | 5.00% | ~15,193 |
 | Going Through the Potions | 4.00% | ~12,154 |
 | Room with a View | 4.00% | ~12,154 |
 | The Intrepid Explorer | 4.00% | ~12,154 |
 | The Wise Owl | 4.00% | ~12,154 |
-| Put Down Roots | 3.00% | ~9,115 |
-| The Auror's Apprentice | 3.00% | ~9,115 |
-| Floo Around the World | 3.00% | ~9,115 |
+| Put Down Roots | 3.00% | ~9,116 |
+| The Auror's Apprentice | 3.00% | ~9,116 |
+| Floo Around the World | 3.00% | ~9,116 |
 | The Good Samaritan | 2.00% | ~6,077 |
 | Rise to the Challenges | 2.00% | ~6,077 |
 | Demiguise Dread | 2.00% | ~6,077 |
 | Finishing Touches | 2.00% | ~6,077 |
 | A Forte for Achievement | 2.00% | ~6,077 |
-| Savvy Spender | 1.00% | ~3,038 |
-| Merlin's Beard! | 1.00% | ~3,038 |
+| Savvy Spender | 1.00% | ~3,039 |
+| Merlin's Beard! | 1.00% | ~3,039 |
 | Spilled Milk | 0.90% | ~2,735 |
 | The Nature of the Beast | 0.70% | ~2,127 |
 | Collector's Edition | 0.30% | ~912 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,848 (Ranked 54)  
+Progressed: 303,852 (Ranked 54)  
 Completed: 521 (0.17%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,10 +278,10 @@ Completed: 521 (0.17%) (Ranked 268)
 | 2023-11-30 | 303,661 | 519 |
 | 2023-12-01 | 303,730 | 520 |
 | 2023-12-02 | 303,789 | 520 |
-| 2023-12-03 | 303,848 | 521 |
+| 2023-12-03 | 303,852 | 521 |
 ## Awards
 Max (Character Customization): 24,854  (Ranked 17)  
-Sum: 49,749 (Ranked 30)  
+Sum: 49,752 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -296,7 +296,7 @@ Diff (max vs sum): -13
 | This game is Highly Recommended | 1,229 |
 | This game has Quickly Understood Controls | 1,189 |
 | This game has Beautiful Visuals | 1,076 |
-| This game has a Creative Community | 829 |
+| This game has a Creative Community | 832 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -554,4 +554,4 @@ Diff (max vs sum): -13
 | 2023-11-30 | 4.76 | 24,781 | 49,552 |
 | 2023-12-01 | 4.76 | 24,816 | 49,628 |
 | 2023-12-02 | 4.76 | 24,816 | 49,655 |
-| 2023-12-03 | 4.76 | 24,854 | 49,749 |
+| 2023-12-03 | 4.76 | 24,854 | 49,752 |

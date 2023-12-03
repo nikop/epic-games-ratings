@@ -21,7 +21,7 @@
 | Merry Co-operation | 33.00% | ~18 |
 | Assault on the Ram | 33.00% | ~18 |
 | Savior | 28.00% | ~15 |
-| Ultra Rebel Instinct | 26.00% | ~14 |
+| Ultra Rebel Instinct | 28.00% | ~15 |
 | Merry Go Round | 24.00% | ~13 |
 | Take Action! | 22.00% | ~12 |
 | First Aid | 22.00% | ~12 |

@@ -5,8 +5,8 @@ Rating: 4.33 (Ranked 817)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Boarded! | 94.00% | ~194,057 |
-| Snooper. | 10.00% | ~20,644 |
+| Boarded! | 94.00% | ~194,059 |
+| Snooper. | 10.00% | ~20,645 |
 | You have to start somewhere, right? | 8.00% | ~16,516 |
 | So you're saying I don't touch these ones? | 6.00% | ~12,387 |
 | Corrupted. | 5.00% | ~10,322 |
@@ -35,7 +35,7 @@ Rating: 4.33 (Ranked 817)
 | Snooper + | 0.50% | ~1,032 |
 | Corrupted + | 0.40% | ~826 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,444 (Ranked 73)  
+Progressed: 206,446 (Ranked 73)  
 Completed: 537 (0.26%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,14 +262,14 @@ Completed: 537 (0.26%) (Ranked 248)
 | 2023-11-30 | 206,264 | 537 |
 | 2023-12-01 | 206,326 | 537 |
 | 2023-12-02 | 206,386 | 537 |
-| 2023-12-03 | 206,444 | 537 |
+| 2023-12-03 | 206,446 | 537 |
 ## Awards
-Max (Challenging Puzzles): 573  (Ranked 204)  
-Sum: 668 (Ranked 308)  
-Diff (max vs sum): -104  
+Max (Challenging Puzzles): 574  (Ranked 204)  
+Sum: 669 (Ranked 307)  
+Diff (max vs sum): -103  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 573 |
+| This game features Challenging Puzzles | 574 |
 | This game is Highly Recommended | 25 |
 | This game has Amazing Characters | 25 |
 | This game has Quickly Understood Controls | 24 |
@@ -320,3 +320,4 @@ Diff (max vs sum): -104
 | 2023-11-12 | 4.33 | 571 | 666 |
 | 2023-11-21 | 4.33 | 572 | 667 |
 | 2023-11-24 | 4.33 | 573 | 668 |
+| 2023-12-03 | 4.33 | 574 | 669 |

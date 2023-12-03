@@ -6,19 +6,19 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~26,800 |
-| Landlord | 33.00% | ~22,110 |
-| Bannerlord | 24.00% | ~16,080 |
-| Horde breaker | 24.00% | ~16,080 |
-| Lawmaker | 24.00% | ~16,080 |
-| Trained | 24.00% | ~16,080 |
-| The king is pleased | 19.00% | ~12,730 |
-| King Solomon | 18.00% | ~12,060 |
-| Apple of my eye | 16.00% | ~10,720 |
-| I can do it | 16.00% | ~10,720 |
-| This Is Our Land | 14.00% | ~9,380 |
-| Against all odds | 13.00% | ~8,710 |
-| God of the Arena | 13.00% | ~8,710 |
+| Lawbringer | 40.00% | ~26,802 |
+| Landlord | 33.00% | ~22,112 |
+| Bannerlord | 24.00% | ~16,081 |
+| Horde breaker | 24.00% | ~16,081 |
+| Lawmaker | 24.00% | ~16,081 |
+| Trained | 24.00% | ~16,081 |
+| The king is pleased | 19.00% | ~12,731 |
+| King Solomon | 18.00% | ~12,061 |
+| Apple of my eye | 16.00% | ~10,721 |
+| I can do it | 16.00% | ~10,721 |
+| This Is Our Land | 14.00% | ~9,381 |
+| Against all odds | 13.00% | ~8,711 |
+| God of the Arena | 13.00% | ~8,711 |
 | Duelist | 10.00% | ~6,700 |
 | Dynasty | 10.00% | ~6,700 |
 | I spit on your grave | 10.00% | ~6,700 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,001 (Ranked 104)  
+Progressed: 67,005 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,14 +285,14 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-30 | 66,735 | 0 |
 | 2023-12-01 | 66,833 | 0 |
 | 2023-12-02 | 66,936 | 0 |
-| 2023-12-03 | 67,001 | 0 |
+| 2023-12-03 | 67,005 | 0 |
 ## Awards
-Max (Character Customization): 7,479  (Ranked 53)  
-Sum: 15,582 (Ranked 68)  
+Max (Character Customization): 7,490  (Ranked 53)  
+Sum: 15,593 (Ranked 68)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,479 |
+| This game has Inclusive Character Customization | 7,490 |
 | This game is Great for Beginners | 1,092 |
 | This game has Diverse Characters | 1,033 |
 | This game is Highly Recommended | 959 |
@@ -629,4 +629,4 @@ Diff (max vs sum): -15
 | 2023-11-30 | 4.74 | - | 7,459 | 15,521 |
 | 2023-12-01 | 4.74 | - | 7,467 | 15,542 |
 | 2023-12-02 | 4.74 | - | 7,479 | 15,567 |
-| 2023-12-03 | 4.74 | - | 7,479 | 15,582 |
+| 2023-12-03 | 4.74 | - | 7,490 | 15,593 |

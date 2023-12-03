@@ -3,12 +3,12 @@
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 231,
-  "Ranking_Popularity": 515,
+  "Ranking_Popularity": 516,
   "Ranking_PopularitySum": 405,
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -1577,9 +1577,9 @@
       "ID": "DamageThreshold",
       "SetID": "71c0n9i",
       "Name": "Critical Hit",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 50
     },
     {
       "ID": "Deepstrike",
@@ -1801,9 +1801,9 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 117
     },
     {
       "ID": "WielderLevel2",
@@ -1913,8 +1913,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-03T15:05:54.9034528+00:00",
+  "LastChanged_Achievements": "2023-12-03T16:05:45.3072141+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:08.015125+00:00",
-  "LastUpdate_Ratings": "2023-12-03T14:57:37.7037241+00:00",
-  "LastUpdate_Achievements": "2023-12-03T15:05:54.9035052+00:00"
+  "LastUpdate_Ratings": "2023-12-03T15:57:51.4541425+00:00",
+  "LastUpdate_Achievements": "2023-12-03T16:05:45.307271+00:00"
 }

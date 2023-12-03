@@ -4,11 +4,11 @@
   "ProductSlug": "filament-332a92",
   "Ranking_Rating": 817,
   "Ranking_Popularity": 204,
-  "Ranking_PopularitySum": 308,
+  "Ranking_PopularitySum": 307,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -280,18 +280,24 @@
       "Rating": 4.33,
       "NumberOfAwards": 668,
       "NumberOfAwardsMax": 573
+    },
+    {
+      "Time": "2023-12-03T15:57:39.8405019+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 669,
+      "NumberOfAwardsMax": 574
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 668,
-  "NumberOfAwardsMax": 573,
+  "NumberOfAwards": 669,
+  "NumberOfAwardsMax": 574,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 573
+      "Count": 574
     },
     {
       "Text": "This game is Highly Recommended",
@@ -330,10 +336,10 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 206444,
+  "EOS_Progressed": 206446,
   "EOS_Completed": 537,
-  "EOS_NewPlayers": 396,
-  "EOS_NewCompleters": 5,
+  "EOS_NewPlayers": 398,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
     {
@@ -24630,6 +24636,11 @@
       "Time": "2023-12-03T15:04:41.5822217+00:00",
       "NumProgressed": 206444,
       "NumCompleted": 537
+    },
+    {
+      "Time": "2023-12-03T16:04:33.7233535+00:00",
+      "NumProgressed": 206446,
+      "NumCompleted": 537
     }
   ],
   "TotalAchievements": 29,
@@ -24665,7 +24676,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 194057
+      "UsersEstimate": 194059
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -24825,7 +24836,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20644
+      "UsersEstimate": 20645
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -24872,16 +24883,16 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 206444,
+      "Progressed": 206446,
       "Completed": 537
     }
   ],
   "FirstSeen": "2022-08-17T12:30:54.1950593+00:00",
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
-  "LastChanged": "2023-11-24T19:01:40.7917314+00:00",
-  "LastChanged_Achievements": "2023-12-03T15:04:41.5822215+00:00",
+  "LastChanged": "2023-12-03T15:57:39.8405017+00:00",
+  "LastChanged_Achievements": "2023-12-03T16:04:33.7233533+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:18.4469481+00:00",
-  "LastUpdate_Ratings": "2023-12-03T14:57:25.3883645+00:00",
-  "LastUpdate_Achievements": "2023-12-03T15:04:41.5823208+00:00"
+  "LastUpdate_Ratings": "2023-12-03T15:57:39.8405021+00:00",
+  "LastUpdate_Achievements": "2023-12-03T16:04:33.7234917+00:00"
 }

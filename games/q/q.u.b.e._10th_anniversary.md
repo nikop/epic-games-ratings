@@ -1,18 +1,18 @@
 # Q.U.B.E. 10th Anniversary
 [Store](https://store.epicgames.com/en-US/p/qube-10th-anniversary-59e999)  
 [View Rawdata](../../db/q/q.u.b.e._10th_anniversary.json)  
-Rating: 4.45 (Ranked 666)  
+Rating: 4.44 (Ranked 680)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 24.00% | ~5,614 |
-| Sector 2 | 22.00% | ~5,146 |
-| Crush That Cube! | 18.00% | ~4,211 |
-| Sector 3 | 18.00% | ~4,211 |
-| Sector 4 | 15.00% | ~3,509 |
-| Crush That Ball! | 14.00% | ~3,275 |
-| Sector 5 | 10.00% | ~2,339 |
-| Sector 6 | 8.00% | ~1,871 |
+| Sector 1 | 24.00% | ~5,617 |
+| Sector 2 | 22.00% | ~5,149 |
+| Crush That Cube! | 18.00% | ~4,213 |
+| Sector 3 | 18.00% | ~4,213 |
+| Sector 4 | 15.00% | ~3,511 |
+| Crush That Ball! | 14.00% | ~3,277 |
+| Sector 5 | 10.00% | ~2,340 |
+| Sector 6 | 8.00% | ~1,872 |
 | Feeling the Blues | 7.00% | ~1,638 |
 | Squished | 6.00% | ~1,404 |
 | Finale | 6.00% | ~1,404 |
@@ -30,8 +30,8 @@ Rating: 4.45 (Ranked 666)
 | Silver Trophy | 1.00% | ~234 |
 | Maxed Out | 1.00% | ~234 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,393 (Ranked 137)  
-Completed: 130 (0.56%) (Ranked 200)  
+Progressed: 23,405 (Ranked 137)  
+Completed: 131 (0.56%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -80,14 +80,14 @@ Completed: 130 (0.56%) (Ranked 200)
 | 2023-11-30 | 22,911 | 126 |
 | 2023-12-01 | 23,078 | 126 |
 | 2023-12-02 | 23,248 | 129 |
-| 2023-12-03 | 23,393 | 130 |
+| 2023-12-03 | 23,405 | 131 |
 ## Awards
-Max (Challenging Puzzles): 21  (Ranked 546)  
-Sum: 21 (Ranked 548)  
+Max (Challenging Puzzles): 22  (Ranked 541)  
+Sum: 22 (Ranked 543)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 21 |
+| This game features Challenging Puzzles | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -124,3 +124,4 @@ Diff (max vs sum): -2
 | 2023-11-29 | 4.45 | 20 | 20 |
 | 2023-11-30 | 4.46 | 21 | 21 |
 | 2023-12-02 | 4.45 | 21 | 21 |
+| 2023-12-03 | 4.44 | 22 | 22 |

@@ -242,7 +242,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2199,
+  "EOS_Progressed": 2200,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 3,
@@ -3772,6 +3772,11 @@
       "Time": "2023-12-03T14:06:10.4265515+00:00",
       "NumProgressed": 2199,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-03T16:06:11.340404+00:00",
+      "NumProgressed": 2200,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 30,
@@ -3783,7 +3788,7 @@
       "Name": "Become King",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "Collect20Gold",
@@ -3807,7 +3812,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1276
     },
     {
       "ID": "CollectAllStatues",
@@ -3863,7 +3868,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 1803
+      "UsersEstimate": 1804
     },
     {
       "ID": "CompleteHunterFaction",
@@ -3927,7 +3932,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1363
+      "UsersEstimate": 1364
     },
     {
       "ID": "GetTHWeapon",
@@ -3935,7 +3940,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "Kill25Bugs",
@@ -3943,7 +3948,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "Kill25Frogs",
@@ -3951,7 +3956,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 1385
+      "UsersEstimate": 1386
     },
     {
       "ID": "Kill25Mozi",
@@ -4007,7 +4012,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "ReturnPowerInMines",
@@ -4022,22 +4027,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2199,
+      "Progressed": 2200,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 840,
-      "Completed": 840
+      "Progressed": 841,
+      "Completed": 841
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-12-03T15:06:22.2837338+00:00",
+  "LastChanged_Achievements": "2023-12-03T16:06:11.3404037+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:26.7928423+00:00",
-  "LastUpdate_Ratings": "2023-12-03T14:59:22.7645787+00:00",
-  "LastUpdate_Achievements": "2023-12-03T15:06:22.2837611+00:00"
+  "LastUpdate_Ratings": "2023-12-03T15:59:32.3640057+00:00",
+  "LastUpdate_Achievements": "2023-12-03T16:06:11.3404393+00:00"
 }

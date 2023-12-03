@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3169,
+  "EOS_Progressed": 3171,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
@@ -4761,6 +4761,11 @@
       "Time": "2023-12-03T15:04:43.2458678+00:00",
       "NumProgressed": 3169,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-03T16:04:35.4068121+00:00",
+      "NumProgressed": 3171,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -4796,7 +4801,7 @@
       "Name": "Helping the little ones",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "MOVE_ON",
@@ -4868,14 +4873,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3169,
+      "Progressed": 3171,
       "Completed": 6
     }
   ],
@@ -4883,8 +4888,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-03T15:04:43.2458675+00:00",
+  "LastChanged_Achievements": "2023-12-03T16:04:35.4068118+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:22.6950578+00:00",
-  "LastUpdate_Ratings": "2023-12-03T14:57:59.8286111+00:00",
-  "LastUpdate_Achievements": "2023-12-03T15:04:43.2459005+00:00"
+  "LastUpdate_Ratings": "2023-12-03T15:58:12.6801535+00:00",
+  "LastUpdate_Achievements": "2023-12-03T16:04:35.4068442+00:00"
 }

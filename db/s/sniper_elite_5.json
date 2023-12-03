@@ -2,13 +2,13 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 681,
-  "Ranking_Popularity": 515,
+  "Ranking_Rating": 680,
+  "Ranking_Popularity": 516,
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -625,7 +625,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 3970,
+  "EOS_Progressed": 3971,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
@@ -8385,6 +8385,11 @@
       "Time": "2023-12-03T13:09:14.4534958+00:00",
       "NumProgressed": 3970,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-03T16:04:55.9713174+00:00",
+      "NumProgressed": 3971,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8434,9 +8439,9 @@
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
       "SetID": "bm6el81",
       "Name": "Enemy at the Gates",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 556
+      "UsersEstimate": 516
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -8532,7 +8537,7 @@
       "Name": "Sharpshooter",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -8540,7 +8545,7 @@
       "Name": "The Long Game",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -8700,7 +8705,7 @@
       "Name": "Tinkerer",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -8716,7 +8721,7 @@
       "Name": "It\u0027ll Buff Right Out",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "REWARD_56_SMOOTH_OPERATOR",
@@ -8748,7 +8753,7 @@
       "Name": "Road Rage",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -8756,7 +8761,7 @@
       "Name": "Don\u0027t hold your breath",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
@@ -8764,7 +8769,7 @@
       "Name": "Taking it back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -8804,7 +8809,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -8860,7 +8865,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -8963,13 +8968,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3921,
+      "Progressed": 3922,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3970,
+      "Progressed": 3971,
       "Completed": 11
     }
   ],
@@ -8977,8 +8982,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-29T01:50:55.7506147+00:00",
-  "LastChanged_Achievements": "2023-12-03T15:05:05.6013048+00:00",
+  "LastChanged_Achievements": "2023-12-03T16:04:55.9713171+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:29.4601542+00:00",
-  "LastUpdate_Ratings": "2023-12-03T14:57:07.9060354+00:00",
-  "LastUpdate_Achievements": "2023-12-03T15:05:05.6014848+00:00"
+  "LastUpdate_Ratings": "2023-12-03T15:57:22.8769701+00:00",
+  "LastUpdate_Achievements": "2023-12-03T16:04:55.9714216+00:00"
 }

@@ -6,12 +6,12 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 42.00% | ~6,162 |
-| It's a good start | 10.00% | ~1,467 |
-| Bonjour! | 8.00% | ~1,174 |
-| Quack | 7.00% | ~1,027 |
-| The Assistant | 6.00% | ~880 |
-| The Blue Marl | 6.00% | ~880 |
+| Bye Bye | 42.00% | ~6,166 |
+| It's a good start | 10.00% | ~1,468 |
+| Bonjour! | 8.00% | ~1,175 |
+| Quack | 7.00% | ~1,028 |
+| The Assistant | 6.00% | ~881 |
+| The Blue Marl | 6.00% | ~881 |
 | Ostinata | 5.00% | ~734 |
 | Better than nothing? | 5.00% | ~734 |
 | A long journey | 4.00% | ~587 |
@@ -19,14 +19,14 @@ Number of Ratings: 7,669  (23.09.2022)
 | Keep the doctor away | 3.00% | ~440 |
 | Surprise of Langhe | 3.00% | ~440 |
 | Famous | 3.00% | ~440 |
-| What is that? A castle? | 2.00% | ~293 |
-| A lot of space | 2.00% | ~293 |
-| A big garage | 2.00% | ~293 |
-| Millionaire | 2.00% | ~293 |
-| Exotic | 2.00% | ~293 |
-| Pastry Chef | 2.00% | ~293 |
-| Welcome to the club | 2.00% | ~293 |
-| Very Important Winemaker | 2.00% | ~293 |
+| What is that? A castle? | 2.00% | ~294 |
+| A lot of space | 2.00% | ~294 |
+| A big garage | 2.00% | ~294 |
+| Millionaire | 2.00% | ~294 |
+| Exotic | 2.00% | ~294 |
+| Pastry Chef | 2.00% | ~294 |
+| Welcome to the club | 2.00% | ~294 |
+| Very Important Winemaker | 2.00% | ~294 |
 | King of Langhe | 1.00% | ~147 |
 | Gem of Monferrato | 1.00% | ~147 |
 | Treasure of Roero | 0.70% | ~103 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Big deals | 0.10% | ~15 |
 | Master Winemaker | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,671 (Ranked 153)  
+Progressed: 14,682 (Ranked 153)  
 Completed: 12 (0.08%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 12 (0.08%) (Ranked 299)
 | 2023-11-30 | 14,316 | 12 |
 | 2023-12-01 | 14,442 | 12 |
 | 2023-12-02 | 14,550 | 12 |
-| 2023-12-03 | 14,671 | 12 |
+| 2023-12-03 | 14,682 | 12 |
 ## Awards
 Max (Relaxing): 207  (Ranked 287)  
 Sum: 1,730 (Ranked 223)  

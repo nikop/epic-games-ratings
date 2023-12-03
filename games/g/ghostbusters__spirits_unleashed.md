@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 592)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 9.00% | ~2,868 |
+| Stylish | 9.00% | ~2,869 |
 | Advancement | 7.00% | ~2,231 |
 | Meticulously Efficient | 7.00% | ~2,231 |
 | I collect Spores, Molds, and Fungi | 5.00% | ~1,594 |
@@ -27,18 +27,18 @@ Rating: 4.50 (Ranked 592)
 | Right back at ya | 3.00% | ~956 |
 | Side Hustle | 3.00% | ~956 |
 | Summoner | 3.00% | ~956 |
-| Back Off | 2.00% | ~637 |
-| We have the best insurance | 2.00% | ~637 |
-| Collector | 2.00% | ~637 |
-| Escape Artist | 2.00% | ~637 |
-| Legions | 2.00% | ~637 |
-| Pesky Jerks | 2.00% | ~637 |
-| Rift Destroyer | 2.00% | ~637 |
-| Seasoned | 2.00% | ~637 |
-| Skilled | 2.00% | ~637 |
-| Stunner | 2.00% | ~637 |
-| Tobin's Prodigy | 2.00% | ~637 |
-| Welcome to the Crew | 2.00% | ~637 |
+| Back Off | 2.00% | ~638 |
+| We have the best insurance | 2.00% | ~638 |
+| Collector | 2.00% | ~638 |
+| Escape Artist | 2.00% | ~638 |
+| Legions | 2.00% | ~638 |
+| Pesky Jerks | 2.00% | ~638 |
+| Rift Destroyer | 2.00% | ~638 |
+| Seasoned | 2.00% | ~638 |
+| Skilled | 2.00% | ~638 |
+| Stunner | 2.00% | ~638 |
+| Tobin's Prodigy | 2.00% | ~638 |
+| Welcome to the Crew | 2.00% | ~638 |
 | Diabolical | 1.00% | ~319 |
 | Fragile Panes | 1.00% | ~319 |
 | Liability | 1.00% | ~319 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 592)
 | Ultimate Defense | 0.20% | ~64 |
 | Line em' up | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,870 (Ranked 124)  
+Progressed: 31,875 (Ranked 124)  
 Completed: 69 (0.22%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 69 (0.22%) (Ranked 254)
 | 2023-11-30 | 31,775 | 69 |
 | 2023-12-01 | 31,812 | 69 |
 | 2023-12-02 | 31,846 | 69 |
-| 2023-12-03 | 31,870 | 69 |
+| 2023-12-03 | 31,875 | 69 |
 ## Awards
 Max (Great for Beginners): 319  (Ranked 251)  
 Sum: 2,871 (Ranked 178)  

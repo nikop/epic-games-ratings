@@ -5,17 +5,17 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Travel Streamer | 92.00% | ~476 |
-| Training Simulation | 77.00% | ~398 |
-| Kuku Bird Hunter | 62.00% | ~321 |
-| Storm Traveller | 56.00% | ~290 |
-| Wolf King Killer | 51.00% | ~264 |
-| Fashion Connoisseur | 49.00% | ~253 |
+| Training Simulation | 78.00% | ~403 |
+| Kuku Bird Hunter | 63.00% | ~326 |
+| Storm Traveller | 57.00% | ~295 |
+| Wolf King Killer | 52.00% | ~269 |
+| Fashion Connoisseur | 50.00% | ~258 |
 | Arms Mechanic | 46.00% | ~238 |
 | Flower Thief | 41.00% | ~212 |
+| Beginner Artificer | 36.00% | ~186 |
 | Apostle of Flame | 36.00% | ~186 |
 | Beginner Cook | 35.00% | ~181 |
-| Beginner Artificer | 35.00% | ~181 |
-| Seal Breaker | 30.00% | ~155 |
+| Seal Breaker | 31.00% | ~160 |
 | Handyman | 27.00% | ~140 |
 | Giant Lizard Killer | 26.00% | ~134 |
 | Guardian | 25.00% | ~129 |
@@ -33,8 +33,8 @@
 | Cave Master | 12.00% | ~62 |
 | Face Slapper | 12.00% | ~62 |
 | Boss challenge | 8.00% | ~41 |
+| Berserker Slayer | 8.00% | ~41 |
 | Master Cook | 7.00% | ~36 |
-| Berserker Slayer | 7.00% | ~36 |
 | Giantess Slayer | 6.00% | ~31 |
 | Warden Slayer | 6.00% | ~31 |
 | Silver Moon Wolf King Challenge | 3.00% | ~16 |

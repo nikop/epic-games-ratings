@@ -4,8 +4,8 @@
   "ProductSlug": "the-death-into-trouble-271916",
   "Ranking_EOS_Progress": 774,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 489,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 491,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2021-10-22T14:00:00+00:00",
@@ -28,9 +28,179 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-12-03T16:03:35.4064384+00:00",
+  "TotalAchievements": 21,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "01_ACHIEVEMENT_Shining_Glasses",
+      "SetID": "22lnfdl",
+      "Name": "Look at my shining glasses",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "02_ACHIEVEMENT_Expensive_Gold",
+      "SetID": "22lnfdl",
+      "Name": "Expensive like gold",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "03_ACHIEVEMENT_Potato_Head",
+      "SetID": "22lnfdl",
+      "Name": "Potato Head",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "04_ACHIEVEMENT_Im_Bob",
+      "SetID": "22lnfdl",
+      "Name": "Hi i\u0027m Bob!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "05_ACHIEVEMENT_WhereIs_Janitor",
+      "SetID": "22lnfdl",
+      "Name": "Where\u0027s the janitor?",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "06_ACHIEVEMENT_Treasure_Hunter",
+      "SetID": "22lnfdl",
+      "Name": "Treasure Hunter",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "07_ACHIEVEMENT_Just_Chilling",
+      "SetID": "22lnfdl",
+      "Name": "WHAT? Sorry, I\u0027m just Chilling",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "08_ACHIEVEMENT_Warning_Sign",
+      "SetID": "22lnfdl",
+      "Name": "Shouldn\u0027t have a warning sign here?",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "09_ACHIEVEMENT_Cant_Die",
+      "SetID": "22lnfdl",
+      "Name": "I can\u0027t really die!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10_ACHIEVEMENT_Own_Master",
+      "SetID": "22lnfdl",
+      "Name": "I\u0027m my own master",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "11_ACHIEVEMENT_Hide_Seek",
+      "SetID": "22lnfdl",
+      "Name": "Hide and seek",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "12_ACHIEVEMENT_Beat_Grimorium",
+      "SetID": "22lnfdl",
+      "Name": "Full of the Devil",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "13_ACHIEVEMENT_Beat_Ramiel",
+      "SetID": "22lnfdl",
+      "Name": "Uninsured dental care",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "14_ACHIEVEMENT_Surveillance_Camera",
+      "SetID": "22lnfdl",
+      "Name": "A surveillance camera?",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "15_ACHIEVEMENT_Angel_Stealth",
+      "SetID": "22lnfdl",
+      "Name": "Angel of Stealth",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "16_ACHIEVEMENT_Employee_Millennium",
+      "SetID": "22lnfdl",
+      "Name": "Employee of the Millennium",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "17_ACHIEVEMENT_Popcorn_Pigeons",
+      "SetID": "22lnfdl",
+      "Name": "Popcorn is only for pigeons!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "18_ACHIEVEMENT_Love_Feeling",
+      "SetID": "22lnfdl",
+      "Name": "Is this love that I\u0027m feeling",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "19_ACHIEVEMENT_Ace_Swords",
+      "SetID": "22lnfdl",
+      "Name": "Ace of Swords",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20_ACHIEVEMENT_Ace_Cups",
+      "SetID": "22lnfdl",
+      "Name": "Ace of Cups",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "21_ACHIEVEMENT_Ace_Wands",
+      "SetID": "22lnfdl",
+      "Name": "Ace of Wands",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "22lnfdl",
@@ -40,8 +210,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-26T14:04:51.2664734+00:00",
-  "LastChanged_Achievements": "2023-12-03T15:03:41.0708535+00:00",
+  "LastChanged_Achievements": "2023-12-03T16:03:35.4064375+00:00",
   "LastUpdate_AppInfo": "2023-12-01T01:53:59.5013227+00:00",
-  "LastUpdate_Ratings": "2023-12-03T14:58:22.6579251+00:00",
-  "LastUpdate_Achievements": "2023-12-03T15:03:41.0708584+00:00"
+  "LastUpdate_Ratings": "2023-12-03T15:58:34.0012887+00:00",
+  "LastUpdate_Achievements": "2023-12-03T16:03:35.4384268+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -843,9 +843,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 4008,
+  "EOS_Progressed": 4009,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6483,6 +6483,11 @@
       "Time": "2023-12-03T15:04:09.5745609+00:00",
       "NumProgressed": 4008,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T16:04:03.1858446+00:00",
+      "NumProgressed": 4009,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -6517,9 +6522,9 @@
       "ID": "achievement_12",
       "SetID": "aiin7da",
       "Name": "Dealmaker",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 60,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1123
     },
     {
       "ID": "achievement_13",
@@ -6599,7 +6604,7 @@
       "Name": "Clean The Pile",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "achievement_3",
@@ -6647,7 +6652,7 @@
       "Name": "Bragging Rights",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "achievement_9",
@@ -6662,7 +6667,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 4008,
+      "Progressed": 4009,
       "Completed": 0
     }
   ],
@@ -6670,8 +6675,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-12-03T07:58:13.4190037+00:00",
-  "LastChanged_Achievements": "2023-12-03T15:04:09.5745606+00:00",
+  "LastChanged_Achievements": "2023-12-03T16:04:03.1858444+00:00",
   "LastUpdate_AppInfo": "2023-11-30T06:57:22.8292477+00:00",
-  "LastUpdate_Ratings": "2023-12-03T14:58:04.5433019+00:00",
-  "LastUpdate_Achievements": "2023-12-03T15:04:09.5745915+00:00"
+  "LastUpdate_Ratings": "2023-12-03T15:58:17.2807078+00:00",
+  "LastUpdate_Achievements": "2023-12-03T16:04:03.1858821+00:00"
 }

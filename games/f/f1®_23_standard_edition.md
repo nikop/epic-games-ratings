@@ -5,25 +5,25 @@ Rating: 4.68 (Ranked 255)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,658 |
-| On the Top Step | 88.00% | ~5,297 |
-| Setting up for Success | 78.00% | ~4,695 |
-| Team Orders | 76.00% | ~4,574 |
+| Getting on the Step | 94.00% | ~5,659 |
+| On the Top Step | 88.00% | ~5,298 |
+| Setting up for Success | 78.00% | ~4,696 |
+| Team Orders | 76.00% | ~4,575 |
 | Engineer | 56.00% | ~3,371 |
-| Familiar Faces | 49.00% | ~2,949 |
-| Sharing the Love | 44.00% | ~2,648 |
-| Going the Extra Mile | 43.00% | ~2,588 |
+| Familiar Faces | 49.00% | ~2,950 |
+| Sharing the Love | 44.00% | ~2,649 |
+| Going the Extra Mile | 43.00% | ~2,589 |
 | Hitting a Season | 41.00% | ~2,468 |
 | A Dozen Pieces | 35.00% | ~2,107 |
-| Challenge Yourself | 34.00% | ~2,046 |
+| Challenge Yourself | 34.00% | ~2,047 |
 | Making History | 32.00% | ~1,926 |
-| Network Success | 28.00% | ~1,685 |
+| Network Success | 28.00% | ~1,686 |
 | Writing a new Chapter | 26.00% | ~1,565 |
 | Spring Cleaning | 24.00% | ~1,445 |
 | Reduce | 21.00% | ~1,264 |
 | Ups and Downs | 21.00% | ~1,264 |
 | Crucial Combo | 20.00% | ~1,204 |
-| Reuse | 18.00% | ~1,083 |
+| Reuse | 18.00% | ~1,084 |
 | One for the Book | 17.00% | ~1,023 |
 | Proving Them Wrong | 17.00% | ~1,023 |
 | Gathering Dust | 16.00% | ~963 |
@@ -31,10 +31,10 @@ Rating: 4.68 (Ranked 255)
 | Lightning Round the World | 15.00% | ~903 |
 | Hitting a Bullseye | 15.00% | ~903 |
 | Spinning Around | 14.00% | ~843 |
-| Eagle Eye | 13.00% | ~782 |
-| All in a Weekend's Work | 13.00% | ~782 |
-| Friendly Competition | 13.00% | ~782 |
-| Switcheroo | 13.00% | ~782 |
+| Eagle Eye | 13.00% | ~783 |
+| All in a Weekend's Work | 13.00% | ~783 |
+| Friendly Competition | 13.00% | ~783 |
+| Switcheroo | 13.00% | ~783 |
 | Recycle | 12.00% | ~722 |
 | Undisputed Winner | 10.00% | ~602 |
 | Tinkerer | 10.00% | ~602 |
@@ -48,14 +48,14 @@ Rating: 4.68 (Ranked 255)
 | Wait, I know you? | 3.00% | ~181 |
 | Filling in the Gaps | 3.00% | ~181 |
 | Saturday Night Drama | 2.00% | ~120 |
+| Media Darling | 2.00% | ~120 |
 | Under the Microscope | 1.00% | ~60 |
-| Media Darling | 1.00% | ~60 |
 | Ultimate Collector | 0.60% | ~36 |
 | Golden Touch | 0.30% | ~18 |
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,019 (Ranked 186)  
+Progressed: 6,020 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-30 | 5,982 | 0 |
 | 2023-12-01 | 5,992 | 0 |
 | 2023-12-02 | 6,006 | 0 |
-| 2023-12-03 | 6,019 | 0 |
+| 2023-12-03 | 6,020 | 0 |
 ## Awards
 Max (Diverse Characters): 28  (Ranked 510)  
 Sum: 124 (Ranked 435)  

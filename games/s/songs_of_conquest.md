@@ -6,9 +6,9 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 34.00% | ~114 |
+| Adept | 35.00% | ~117 |
 | Double Kill | 25.00% | ~84 |
-| Critical Hit | 14.00% | ~47 |
+| Critical Hit | 15.00% | ~50 |
 | Veteran | 13.00% | ~43 |
 | Dressed For Success | 10.00% | ~33 |
 | Humiliation | 7.00% | ~23 |
@@ -86,9 +86,9 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-12-02 | 328 | 0 |
 | 2023-12-03 | 334 | 0 |
 ## Awards
-Max (Quickly Understood Controls): 27  (Ranked 515)  
+Max (Quickly Understood Controls): 27  (Ranked 516)  
 Sum: 194 (Ranked 405)  
-Diff (max vs sum): 110  
+Diff (max vs sum): 111  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 27 |

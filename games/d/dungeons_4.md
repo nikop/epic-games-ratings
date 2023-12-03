@@ -22,12 +22,12 @@
 | It's Warm and Cozy at Home | 55.00% | ~284 |
 | Minions, Minions! | 54.00% | ~279 |
 | Hard Work | 50.00% | ~258 |
+| The Big Eaty | 49.00% | ~253 |
 | YOU SHALL NOT PASS! | 48.00% | ~248 |
-| The Big Eaty | 48.00% | ~248 |
 | “… like son” | 45.00% | ~233 |
 | Pure Dynamite! | 44.00% | ~227 |
+| The Cathedral of Light | 42.00% | ~217 |
 | Shame! Shame! Shame! | 42.00% | ~217 |
-| The Cathedral of Light | 41.00% | ~212 |
 | Dungeonlord Gorgu | 40.00% | ~207 |
 | Mana Cannon | 39.00% | ~202 |
 | Tanos' Crusade Against Thalya | 37.00% | ~191 |

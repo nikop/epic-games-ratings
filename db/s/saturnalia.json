@@ -2,13 +2,13 @@
   "ID": "c749cd78da34408d8434a46271f4bb79",
   "Name": "Saturnalia",
   "ProductSlug": "saturnalia",
-  "Ranking_Rating": 872,
+  "Ranking_Rating": 871,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -273,9 +273,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68911,
+  "EOS_Progressed": 68915,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16608,6 +16608,11 @@
       "Time": "2023-12-03T15:05:37.8840728+00:00",
       "NumProgressed": 68911,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-03T16:05:27.5793541+00:00",
+      "NumProgressed": 68915,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -16627,7 +16632,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2756
+      "UsersEstimate": 2757
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -16755,7 +16760,7 @@
       "Name": "Out of Shape",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2756
+      "UsersEstimate": 2757
     },
     {
       "ID": "ACH_TECLAMISSION",
@@ -16778,7 +16783,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 68911,
+      "Progressed": 68915,
       "Completed": 18
     }
   ],
@@ -16786,8 +16791,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2023-12-03T15:05:37.8840725+00:00",
+  "LastChanged_Achievements": "2023-12-03T16:05:27.5793537+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:10.2899379+00:00",
-  "LastUpdate_Ratings": "2023-12-03T14:57:46.9528576+00:00",
-  "LastUpdate_Achievements": "2023-12-03T15:05:37.8841721+00:00"
+  "LastUpdate_Ratings": "2023-12-03T15:57:59.9963116+00:00",
+  "LastUpdate_Achievements": "2023-12-03T16:05:27.5794445+00:00"
 }

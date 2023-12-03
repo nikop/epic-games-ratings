@@ -17,7 +17,7 @@
 | Tour de Tieng | 16.00% | ~211 |
 | Goodbye Tieng Valley | 14.00% | ~185 |
 | Shrine Arriver | 14.00% | ~185 |
-| The End | 13.00% | ~171 |
+| The End | 14.00% | ~185 |
 | Love Uncoverer | 11.00% | ~145 |
 | Graffiti Artist | 10.00% | ~132 |
 ## Popularity (Based on EOS Achievements)

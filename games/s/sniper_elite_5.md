@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.44 (Ranked 681)  
+Rating: 4.44 (Ranked 680)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,14 +11,14 @@ Rating: 4.44 (Ranked 681)
 | It's Starting to Crack | 34.00% | ~1,350 |
 | Change the Channel | 31.00% | ~1,231 |
 | Lord of War | 30.00% | ~1,191 |
-| Taking it back | 29.00% | ~1,151 |
+| Taking it back | 29.00% | ~1,152 |
 | Resourceful | 27.00% | ~1,072 |
 | Target America | 27.00% | ~1,072 |
-| The Kraken Sleeps | 25.00% | ~992 |
+| The Kraken Sleeps | 25.00% | ~993 |
 | Liberté | 23.00% | ~913 |
 | Organ Grinder | 23.00% | ~913 |
 | As Quiet as a Mouse | 23.00% | ~913 |
-| Sharpshooter | 22.00% | ~873 |
+| Sharpshooter | 22.00% | ~874 |
 | Gunslinger | 19.00% | ~754 |
 | Explosive Efficiency | 19.00% | ~754 |
 | Just a Flesh Wound | 17.00% | ~675 |
@@ -31,19 +31,19 @@ Rating: 4.44 (Ranked 681)
 | Brains of the Operation | 15.00% | ~596 |
 | No Stone Unturned | 14.00% | ~556 |
 | Opposing Force | 14.00% | ~556 |
-| Enemy at the Gates | 14.00% | ~556 |
 | Fields of Glory | 14.00% | ~556 |
+| Enemy at the Gates | 13.00% | ~516 |
 | Set Europe Ablaze | 13.00% | ~516 |
 | Precision Is Key | 10.00% | ~397 |
 | My Little Friend | 10.00% | ~397 |
 | Rigged to Blow | 9.00% | ~357 |
-| Herr Today, Gone Tomorrow | 7.00% | ~274 |
+| Herr Today, Gone Tomorrow | 7.00% | ~275 |
 | Operation Foxley | 6.00% | ~235 |
-| The Long Game | 5.00% | ~198 |
-| Tinkerer | 5.00% | ~198 |
-| It'll Buff Right Out | 5.00% | ~198 |
-| Road Rage | 5.00% | ~198 |
-| Don't hold your breath | 5.00% | ~198 |
+| The Long Game | 5.00% | ~199 |
+| Tinkerer | 5.00% | ~199 |
+| It'll Buff Right Out | 5.00% | ~199 |
+| Road Rage | 5.00% | ~199 |
+| Don't hold your breath | 5.00% | ~199 |
 | Last Resort | 5.00% | ~196 |
 | Siegebreaker | 5.00% | ~196 |
 | Ghost of Falaise | 5.00% | ~196 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 681)
 | Stroll in the Woods | 0.60% | ~24 |
 | Going Overboard | 0.60% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,970 (Ranked 198)  
+Progressed: 3,971 (Ranked 198)  
 Completed: 11 (0.28%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,11 +302,11 @@ Completed: 11 (0.28%) (Ranked 243)
 | 2023-11-30 | 3,958 | 11 |
 | 2023-12-01 | 3,961 | 11 |
 | 2023-12-02 | 3,967 | 11 |
-| 2023-12-03 | 3,970 | 11 |
+| 2023-12-03 | 3,971 | 11 |
 ## Awards
-Max (Great for Beginners): 27  (Ranked 515)  
+Max (Great for Beginners): 27  (Ranked 516)  
 Sum: 27 (Ranked 528)  
-Diff (max vs sum): -13  
+Diff (max vs sum): -12  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 27 |

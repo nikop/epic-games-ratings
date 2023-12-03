@@ -4,7 +4,7 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 14,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -1823,8 +1823,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-12-03T15:05:48.7400852+00:00",
+  "LastChanged_Achievements": "2023-12-03T16:05:38.921792+00:00",
   "LastUpdate_AppInfo": "2023-11-29T01:48:49.4341303+00:00",
-  "LastUpdate_Ratings": "2023-12-03T14:59:24.0619261+00:00",
-  "LastUpdate_Achievements": "2023-12-03T15:05:48.7401003+00:00"
+  "LastUpdate_Ratings": "2023-12-03T15:59:33.5950781+00:00",
+  "LastUpdate_Achievements": "2023-12-03T16:05:38.9218075+00:00"
 }

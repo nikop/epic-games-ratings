@@ -29,8 +29,8 @@ Number of Ratings: 209  (23.09.2022)
 | Arrested | 85.00% | ~1,994 |
 | Zappy Gun | 85.00% | ~1,994 |
 | Got your own one now | 85.00% | ~1,994 |
+| Don't draw dicks pls | 85.00% | ~1,994 |
 | Mission Unlikely | 85.00% | ~1,994 |
-| Don't draw dicks pls | 84.00% | ~1,971 |
 | Ripped | 84.00% | ~1,971 |
 | Beat the big arena | 82.00% | ~1,924 |
 | Force Cube | 82.00% | ~1,924 |

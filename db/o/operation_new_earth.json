@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -7489,9 +7489,9 @@
       "ID": "ach_silver_rewards_50",
       "SetID": "bm61c2p",
       "Name": "Silver Achiever",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 117
     },
     {
       "ID": "objective_headquarters_10",
@@ -7730,8 +7730,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-21T23:00:15.982699+00:00",
-  "LastChanged_Achievements": "2023-12-03T15:08:22.0908137+00:00",
+  "LastChanged_Achievements": "2023-12-03T16:08:00.8957605+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:25.6864843+00:00",
-  "LastUpdate_Ratings": "2023-12-03T14:58:04.2705036+00:00",
-  "LastUpdate_Achievements": "2023-12-03T15:08:22.0908742+00:00"
+  "LastUpdate_Ratings": "2023-12-03T15:58:17.0088065+00:00",
+  "LastUpdate_Achievements": "2023-12-03T16:08:00.8958258+00:00"
 }

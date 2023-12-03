@@ -4,8 +4,8 @@
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 431,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2018-05-23T19:00:00+00:00",
@@ -341,9 +341,9 @@
       "ID": "13",
       "SetID": "5e3maia",
       "Name": "Stalker",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "14",
@@ -860,8 +860,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-12-03T15:05:04.4859295+00:00",
+  "LastChanged_Achievements": "2023-12-03T16:04:54.8403497+00:00",
   "LastUpdate_AppInfo": "2023-12-02T04:57:13.7003873+00:00",
-  "LastUpdate_Ratings": "2023-12-03T14:58:17.8232316+00:00",
-  "LastUpdate_Achievements": "2023-12-03T15:05:04.4859759+00:00"
+  "LastUpdate_Ratings": "2023-12-03T15:58:29.6359821+00:00",
+  "LastUpdate_Achievements": "2023-12-03T16:04:54.8404008+00:00"
 }

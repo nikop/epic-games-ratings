@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 484,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -532,9 +532,9 @@
       "ID": "AC_DISTANCE_3",
       "SetID": "16i2akc",
       "Name": "Voyage",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 45,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -667,8 +667,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-03T15:05:41.1418701+00:00",
+  "LastChanged_Achievements": "2023-12-03T16:05:31.1581513+00:00",
   "LastUpdate_AppInfo": "2023-11-28T18:57:05.8641658+00:00",
-  "LastUpdate_Ratings": "2023-12-03T14:58:23.307051+00:00",
-  "LastUpdate_Achievements": "2023-12-03T15:05:41.1419042+00:00"
+  "LastUpdate_Ratings": "2023-12-03T15:58:34.6096851+00:00",
+  "LastUpdate_Achievements": "2023-12-03T16:05:31.1581776+00:00"
 }

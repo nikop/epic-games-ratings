@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -139,7 +139,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7150,
+  "EOS_Progressed": 7151,
   "EOS_Completed": 42,
   "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 2,
@@ -6579,6 +6579,11 @@
       "Time": "2023-12-03T12:06:06.1035583+00:00",
       "NumProgressed": 7150,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-12-03T16:05:45.9690174+00:00",
+      "NumProgressed": 7151,
+      "NumCompleted": 42
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -6591,7 +6596,7 @@
       "Name": "First of Many",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 6220
+      "UsersEstimate": 6221
     },
     {
       "ID": "achievement_01_02",
@@ -6615,7 +6620,7 @@
       "Name": "Bzzzt",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 5291
+      "UsersEstimate": 5292
     },
     {
       "ID": "achievement_01_05",
@@ -6631,7 +6636,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4290
+      "UsersEstimate": 4291
     },
     {
       "ID": "achievement_01_07",
@@ -6647,7 +6652,7 @@
       "Name": "Trophy Collector",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 5362
+      "UsersEstimate": 5363
     },
     {
       "ID": "achievement_01_09",
@@ -6655,7 +6660,7 @@
       "Name": "Right Foot",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 3074
+      "UsersEstimate": 3075
     },
     {
       "ID": "achievement_01_10",
@@ -6727,7 +6732,7 @@
       "Name": "Car Specialist",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "achievement_03_01",
@@ -6751,7 +6756,7 @@
       "Name": "Morocco - Check!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "achievement_03_04",
@@ -6775,7 +6780,7 @@
       "Name": "Passport Complete",
       "Percentage": 3,
       "XP": 125,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "achievement_03_07",
@@ -6807,7 +6812,7 @@
       "Name": "Customization Collector",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "achievement_03_11",
@@ -6871,7 +6876,7 @@
       "Name": "Nitro Saver",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 3646
+      "UsersEstimate": 3647
     },
     {
       "ID": "achievement_04_08",
@@ -6879,7 +6884,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 6149
+      "UsersEstimate": 6150
     },
     {
       "ID": "achievement_04_09",
@@ -6887,14 +6892,14 @@
       "Name": "Nitro on a curve? Better not.",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 2502
+      "UsersEstimate": 2503
     }
   ],
   "AchievementSets": [
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 7150,
+      "Progressed": 7151,
       "Completed": 42
     }
   ],
@@ -6902,8 +6907,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-11-30T01:44:39.305196+00:00",
-  "LastChanged_Achievements": "2023-12-03T15:05:55.5900401+00:00",
+  "LastChanged_Achievements": "2023-12-03T16:05:45.9690171+00:00",
   "LastUpdate_AppInfo": "2023-11-30T21:57:11.9207568+00:00",
-  "LastUpdate_Ratings": "2023-12-03T14:59:12.9732162+00:00",
-  "LastUpdate_Achievements": "2023-12-03T15:05:55.5900856+00:00"
+  "LastUpdate_Ratings": "2023-12-03T15:59:22.793878+00:00",
+  "LastUpdate_Achievements": "2023-12-03T16:05:45.9690662+00:00"
 }

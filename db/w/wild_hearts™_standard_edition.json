@@ -4,8 +4,8 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 354,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.98,
   "EosHistory": [
@@ -1971,9 +1971,9 @@
       "ID": "achievement_47",
       "SetID": "2cpn27e",
       "Name": "Threaded Harmony",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 85
     },
     {
       "ID": "achievement_48",
@@ -2033,8 +2033,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-03T15:08:06.558415+00:00",
+  "LastChanged_Achievements": "2023-12-03T16:07:44.8525068+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:14.6460494+00:00",
-  "LastUpdate_Ratings": "2023-12-03T14:58:48.6867427+00:00",
-  "LastUpdate_Achievements": "2023-12-03T15:08:06.5584484+00:00"
+  "LastUpdate_Ratings": "2023-12-03T15:58:59.9802389+00:00",
+  "LastUpdate_Achievements": "2023-12-03T16:07:44.8525384+00:00"
 }

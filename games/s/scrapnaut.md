@@ -33,7 +33,7 @@ Number of Ratings: 38  (23.09.2022)
 | Fuel | 10.00% | ~49 |
 | Smelting Master | 10.00% | ~49 |
 | Black Gold | 7.00% | ~34 |
-| Survival Master | 4.00% | ~19 |
+| Survival Master | 5.00% | ~24 |
 | Traveler | 3.00% | ~15 |
 | Forest Killer | 2.00% | ~10 |
 | Invincible | 0.00% | ~0 |

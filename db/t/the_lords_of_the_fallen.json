@@ -4,11 +4,11 @@
   "ProductSlug": "lords-of-the-fallen",
   "Ranking_Rating": 916,
   "Ranking_Popularity": 300,
-  "Ranking_PopularitySum": 336,
+  "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
     "PcReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -743,7 +743,7 @@
   ],
   "EOS_Progressed": 2241,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -4494,8 +4494,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-12-03T11:56:58.5716863+00:00",
-  "LastChanged_Achievements": "2023-12-03T15:03:34.6200245+00:00",
+  "LastChanged_Achievements": "2023-12-03T16:03:29.3145919+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:59.1898679+00:00",
-  "LastUpdate_Ratings": "2023-12-03T14:57:02.8710988+00:00",
-  "LastUpdate_Achievements": "2023-12-03T15:03:34.6200766+00:00"
+  "LastUpdate_Ratings": "2023-12-03T15:57:17.9797045+00:00",
+  "LastUpdate_Achievements": "2023-12-03T16:03:29.3146485+00:00"
 }

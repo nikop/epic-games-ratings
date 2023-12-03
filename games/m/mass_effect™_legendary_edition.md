@@ -32,8 +32,8 @@
 | Merciless | 42.00% | ~628 |
 | Sentinel Ally | 41.00% | ~613 |
 | Head Hunter | 40.00% | ~598 |
+| Operative | 40.00% | ~598 |
 | Scholar | 40.00% | ~598 |
-| Operative | 39.00% | ~583 |
 | Veteran | 38.00% | ~568 |
 | The Archangel | 38.00% | ~568 |
 | The Professor | 38.00% | ~568 |
@@ -42,6 +42,7 @@
 | Colony Defense | 35.00% | ~523 |
 | The Krogan | 35.00% | ~523 |
 | Broke, Blind, and Bedlam | 34.00% | ~508 |
+| Galactic Explorer | 33.00% | ~493 |
 | Shopaholic | 33.00% | ~493 |
 | A Personal Touch | 32.00% | ~478 |
 | Ghost Ship | 32.00% | ~478 |
@@ -52,7 +53,6 @@
 | Ghost of the Father | 32.00% | ~478 |
 | The Cure | 32.00% | ~478 |
 | The Prodigal | 32.00% | ~478 |
-| Galactic Explorer | 32.00% | ~478 |
 | Driven | 32.00% | ~478 |
 | Completionist | 31.00% | ~463 |
 | Battlemaster | 31.00% | ~463 |

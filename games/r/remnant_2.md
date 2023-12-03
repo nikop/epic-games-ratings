@@ -19,22 +19,22 @@ Rating: 4.75 (Ranked 149)
 | Duality | 0.40% | ~935 |
 | Boss'n Up | 0.40% | ~935 |
 | Trait Chaser | 0.40% | ~935 |
-| Am I Seeing This? | 0.30% | ~701 |
-| Chaos | 0.30% | ~701 |
-| Traitor | 0.30% | ~701 |
-| Power Surge | 0.30% | ~701 |
-| The God Gambit | 0.30% | ~701 |
-| Dark Designs | 0.30% | ~701 |
-| Equal Measures | 0.30% | ~701 |
-| Blue Goddess | 0.30% | ~701 |
-| Top Performer | 0.30% | ~701 |
-| Shhh...It's a Secret | 0.30% | ~701 |
-| Was This Supposed To Happen? | 0.30% | ~701 |
-| Scrap Collector | 0.30% | ~701 |
-| All These Traits� | 0.30% | ~701 |
-| Almost There | 0.30% | ~701 |
-| Make Some Room | 0.30% | ~701 |
-| Good, But Could Be Better! | 0.30% | ~701 |
+| Am I Seeing This? | 0.30% | ~702 |
+| Chaos | 0.30% | ~702 |
+| Traitor | 0.30% | ~702 |
+| Power Surge | 0.30% | ~702 |
+| The God Gambit | 0.30% | ~702 |
+| Dark Designs | 0.30% | ~702 |
+| Equal Measures | 0.30% | ~702 |
+| Blue Goddess | 0.30% | ~702 |
+| Top Performer | 0.30% | ~702 |
+| Shhh...It's a Secret | 0.30% | ~702 |
+| Was This Supposed To Happen? | 0.30% | ~702 |
+| Scrap Collector | 0.30% | ~702 |
+| All These Traits� | 0.30% | ~702 |
+| Almost There | 0.30% | ~702 |
+| Make Some Room | 0.30% | ~702 |
+| Good, But Could Be Better! | 0.30% | ~702 |
 | Crafty | 0.20% | ~468 |
 | Ghost in the Machine | 0.20% | ~468 |
 | Forever is a Long Time Coming | 0.20% | ~468 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 149)
 | Maxed Out! | 0.10% | ~234 |
 | A Foul Feast | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,786 (Ranked 68)  
+Progressed: 233,842 (Ranked 68)  
 Completed: 550 (0.24%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 550 (0.24%) (Ranked 250)
 | 2023-11-30 | 231,406 | 542 |
 | 2023-12-01 | 232,269 | 546 |
 | 2023-12-02 | 233,162 | 548 |
-| 2023-12-03 | 233,786 | 550 |
+| 2023-12-03 | 233,842 | 550 |
 ## Awards
 Max (Great Boss Battles): 2,577  (Ranked 102)  
 Sum: 6,373 (Ranked 129)  

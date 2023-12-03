@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -181,9 +181,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 849,
+  "EOS_Progressed": 850,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1981,6 +1981,11 @@
       "Time": "2023-12-03T15:04:42.520639+00:00",
       "NumProgressed": 849,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T16:04:34.7966618+00:00",
+      "NumProgressed": 850,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1991,7 +1996,7 @@
       "ID": "AbAeterno",
       "SetID": "1n308hc",
       "Name": "Ab Aeterno",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -2049,7 +2054,7 @@
       "Name": "Bridge Builder",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ChasingTheLight",
@@ -2081,7 +2086,7 @@
       "Name": "Desolate Island",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Discovery",
@@ -2113,7 +2118,7 @@
       "Name": "Excellent",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "FloodedValley",
@@ -2121,7 +2126,7 @@
       "Name": "Flooded Valley",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "GnothiSeauton",
@@ -2185,7 +2190,7 @@
       "Name": "Lost Marshes",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "MistressOfRiddles",
@@ -2207,17 +2212,17 @@
       "ID": "MuseumExplorer",
       "SetID": "1n308hc",
       "Name": "Museum Explorer",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 60
     },
     {
       "ID": "MuseumVisitor",
       "SetID": "1n308hc",
       "Name": "Museum Visitor",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 85
     },
     {
       "ID": "NewBeginning",
@@ -2265,7 +2270,7 @@
       "Name": "Prometheus Unbound",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "PuzzleFiend",
@@ -2287,17 +2292,17 @@
       "ID": "RenaissanceRobot",
       "SetID": "1n308hc",
       "Name": "Renaissance Robot",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 90,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ScientiaVincereTenebras",
       "SetID": "1n308hc",
       "Name": "Scientia Vincere Tenebras",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 34
     },
     {
       "ID": "Signatory",
@@ -2329,7 +2334,7 @@
       "Name": "Southern Coast",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "TeamSpirit",
@@ -2337,7 +2342,7 @@
       "Name": "Team Spirit",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "TextAdventurer",
@@ -2383,9 +2388,9 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 85
     },
     {
       "ID": "TheThiefOfFire",
@@ -2409,7 +2414,7 @@
       "Name": "Touch Grass",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "TrevorsBiographer",
@@ -2417,7 +2422,7 @@
       "Name": "Trevor\u0027s Biographer",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "VerdantCanyon",
@@ -2425,7 +2430,7 @@
       "Name": "Verdant Canyon",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Wanderers",
@@ -2433,7 +2438,7 @@
       "Name": "Wanderers",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "WesternDelta",
@@ -2464,7 +2469,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 849,
+      "Progressed": 850,
       "Completed": 1
     }
   ],
@@ -2472,8 +2477,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-03T13:00:54.7758323+00:00",
-  "LastChanged_Achievements": "2023-12-03T15:04:42.520638+00:00",
+  "LastChanged_Achievements": "2023-12-03T16:04:34.7966616+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-03T14:57:28.7194564+00:00",
-  "LastUpdate_Achievements": "2023-12-03T15:04:42.520693+00:00"
+  "LastUpdate_Ratings": "2023-12-03T15:57:42.7657196+00:00",
+  "LastUpdate_Achievements": "2023-12-03T16:04:34.7967035+00:00"
 }

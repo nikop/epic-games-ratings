@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 600,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2022-10-04T11:00:00+00:00",
@@ -252,9 +252,9 @@
       "ID": "SOS_FOR_GLORY_OF_GOD",
       "SetID": "6ci4lm2",
       "Name": "For the glory of God",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SOS_GHOSTS",
@@ -332,9 +332,9 @@
       "ID": "SOS_ITS_TRAP",
       "SetID": "6ci4lm2",
       "Name": "It\u0027s a trap!",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SOS_LASTBATTLE",
@@ -587,8 +587,8 @@
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-12-03T15:04:07.9133287+00:00",
+  "LastChanged_Achievements": "2023-12-03T16:04:01.6735398+00:00",
   "LastUpdate_AppInfo": "2023-11-27T15:57:06.6652579+00:00",
-  "LastUpdate_Ratings": "2023-12-03T14:58:17.4362352+00:00",
-  "LastUpdate_Achievements": "2023-12-03T15:04:07.9133651+00:00"
+  "LastUpdate_Ratings": "2023-12-03T15:58:29.2889753+00:00",
+  "LastUpdate_Achievements": "2023-12-03T16:04:01.6735892+00:00"
 }
