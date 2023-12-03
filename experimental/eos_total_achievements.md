@@ -588,6 +588,7 @@
 | [Strawhart](../games/s/strawhart.md) | 21 | 1,000 |
 | [Super Hydorah](../games/0/0a17427d84184578bd1bc06a2f410a58.md) | 21 | 1,000 |
 | [Tchia](../games/t/tchia.md) | 21 | 1,000 |
+| [The Death Into Trouble](../games/6/61bf61eac17e4387b779eac91395aa79.md) | 21 | 1,000 |
 | [The Many Pieces of Mr. Coo](../games/t/the_many_pieces_of_mr._coo.md) | 21 | 1,000 |
 | [The Shapeshifting Detective](../games/t/the_shapeshifting_detective.md) | 21 | 1,000 |
 | [Absolute Drift](../games/a/absolute_drift.md) | 20 | 1,000 |

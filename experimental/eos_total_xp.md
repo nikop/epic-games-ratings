@@ -713,6 +713,7 @@
 | [The Creepy Syndrome](../games/f/f2ed44898a204bee866836b9b659bce4.md) | 12 | 1,000 |
 | [The Crown of Wu](../games/t/the_crown_of_wu.md) | 37 | 1,000 |
 | [The Cullfield Ritual](../games/t/the_cullfield_ritual.md) | 12 | 1,000 |
+| [The Death Into Trouble](../games/6/61bf61eac17e4387b779eac91395aa79.md) | 21 | 1,000 |
 | [The Devil's Face](../games/t/the_devil's_face.md) | 14 | 1,000 |
 | [The Dragoness Command Of The Flame](../games/8/8bf17fa0bd774f72bb06bd095830af2a.md) | 37 | 1,000 |
 | [The Entropy Centre](../games/t/the_entropy_centre.md) | 27 | 1,000 |
