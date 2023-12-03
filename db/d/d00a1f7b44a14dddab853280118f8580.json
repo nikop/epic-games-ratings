@@ -3,7 +3,7 @@
   "Name": "100 Doors - Escape from Prison",
   "ProductSlug": "100-doors-escape-from-prison-1e0ba3",
   "Ranking_EOS_Progress": 334,
-  "Ranking_EOS_Completed": 24,
+  "Ranking_EOS_Completed": 25,
   "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 368,
+  "EOS_Progressed": 369,
   "EOS_Completed": 67,
   "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 13,
-  "EOS_Completed_Percentage": 18.21,
+  "EOS_Completed_Percentage": 18.16,
   "EosHistory": [
     {
       "Time": "2023-07-27T20:02:52.2340673+00:00",
@@ -1469,6 +1469,11 @@
       "Time": "2023-12-03T06:08:10.7387188+00:00",
       "NumProgressed": 368,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-12-03T12:09:03.621645+00:00",
+      "NumProgressed": 369,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-27T20:02:52.2356404+00:00",
@@ -1481,7 +1486,7 @@
       "Name": "Clever thinking!",
       "Percentage": 82,
       "XP": 100,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ach_complete_30",
@@ -1497,7 +1502,7 @@
       "Name": "Welcome aboard!",
       "Percentage": 96,
       "XP": 80,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ach_hint_3",
@@ -1521,7 +1526,7 @@
       "Name": "Together is better!",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ach_items_50",
@@ -1529,7 +1534,7 @@
       "Name": "Sharp-sighted!",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ach_minigames_10",
@@ -1568,14 +1573,14 @@
     {
       "ID": "5e260i9",
       "IsBase": true,
-      "Progressed": 368,
+      "Progressed": 369,
       "Completed": 67
     }
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-12-03T11:08:32.3826125+00:00",
+  "LastChanged_Achievements": "2023-12-03T12:09:03.6216446+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:13.4790748+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:02:49.5587286+00:00",
-  "LastUpdate_Achievements": "2023-12-03T11:08:32.3826286+00:00"
+  "LastUpdate_Ratings": "2023-12-03T12:02:59.538892+00:00",
+  "LastUpdate_Achievements": "2023-12-03T12:09:03.6216604+00:00"
 }

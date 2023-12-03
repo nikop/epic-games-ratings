@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3146,
+  "EOS_Progressed": 3153,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -4741,6 +4741,11 @@
       "Time": "2023-12-03T11:04:46.9675678+00:00",
       "NumProgressed": 3146,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-03T12:04:51.8584461+00:00",
+      "NumProgressed": 3153,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -4760,7 +4765,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "FALLEN_TREE",
@@ -4800,7 +4805,7 @@
       "Name": "Sliders",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "SNOW_RUINS",
@@ -4816,7 +4821,7 @@
       "Name": "Starting as a duo",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -4824,7 +4829,7 @@
       "Name": "Stronger together",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "THE_END",
@@ -4832,7 +4837,7 @@
       "Name": "The end",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "TRANSMISSION",
@@ -4840,7 +4845,7 @@
       "Name": "Transmission",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -4848,14 +4853,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 566
+      "UsersEstimate": 568
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3146,
+      "Progressed": 3153,
       "Completed": 6
     }
   ],
@@ -4863,8 +4868,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-03T11:04:46.9675675+00:00",
+  "LastChanged_Achievements": "2023-12-03T12:04:51.8584459+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:22.6950578+00:00",
-  "LastUpdate_Ratings": "2023-12-03T10:58:13.8612999+00:00",
-  "LastUpdate_Achievements": "2023-12-03T11:04:46.9675939+00:00"
+  "LastUpdate_Ratings": "2023-12-03T11:57:57.3408246+00:00",
+  "LastUpdate_Achievements": "2023-12-03T12:04:51.8584746+00:00"
 }

@@ -7,7 +7,7 @@ Rating: 4.76 (Ranked 129)
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 16.00% | ~48,613 |
 | First Class Student | 15.00% | ~45,575 |
-| Troll with the Punches | 14.00% | ~42,536 |
+| Troll with the Punches | 14.00% | ~42,537 |
 | A Keen Sense of Spell | 13.00% | ~39,498 |
 | That's a Keeper | 13.00% | ~39,498 |
 | The Hallowed Hero | 12.00% | ~36,460 |
@@ -47,12 +47,12 @@ Rating: 4.76 (Ranked 129)
 | A Forte for Achievement | 2.00% | ~6,077 |
 | Savvy Spender | 1.00% | ~3,038 |
 | Merlin's Beard! | 1.00% | ~3,038 |
-| Spilled Milk | 0.90% | ~2,734 |
+| Spilled Milk | 0.90% | ~2,735 |
 | The Nature of the Beast | 0.70% | ~2,127 |
-| Collector's Edition | 0.30% | ~911 |
+| Collector's Edition | 0.30% | ~912 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,832 (Ranked 54)  
-Completed: 520 (0.17%) (Ranked 268)  
+Progressed: 303,834 (Ranked 54)  
+Completed: 521 (0.17%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -278,10 +278,10 @@ Completed: 520 (0.17%) (Ranked 268)
 | 2023-11-30 | 303,661 | 519 |
 | 2023-12-01 | 303,730 | 520 |
 | 2023-12-02 | 303,789 | 520 |
-| 2023-12-03 | 303,832 | 520 |
+| 2023-12-03 | 303,834 | 521 |
 ## Awards
 Max (Character Customization): 24,854  (Ranked 17)  
-Sum: 49,740 (Ranked 30)  
+Sum: 49,742 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -290,8 +290,8 @@ Diff (max vs sum): -13
 | This game is Great for Beginners | 1,372 |
 | This game has Amazing Storytelling | 1,328 |
 | This game has Diverse Characters | 1,319 |
+| This game is Relaxing | 1,288 |
 | This game is Extremely Fun | 1,287 |
-| This game is Relaxing | 1,286 |
 | This game has Amazing Characters | 1,251 |
 | This game is Highly Recommended | 1,229 |
 | This game has Quickly Understood Controls | 1,189 |
@@ -554,4 +554,4 @@ Diff (max vs sum): -13
 | 2023-11-30 | 4.76 | 24,781 | 49,552 |
 | 2023-12-01 | 4.76 | 24,816 | 49,628 |
 | 2023-12-02 | 4.76 | 24,816 | 49,655 |
-| 2023-12-03 | 4.76 | 24,854 | 49,740 |
+| 2023-12-03 | 4.76 | 24,854 | 49,742 |

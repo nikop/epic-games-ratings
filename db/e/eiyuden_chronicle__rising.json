@@ -635,9 +635,9 @@
       "ID": "ACHIEVEMENT026",
       "SetID": "dejhjd5",
       "Name": "No Treasure Left Behind",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT027",
@@ -843,8 +843,8 @@
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-03T11:05:29.5315851+00:00",
+  "LastChanged_Achievements": "2023-12-03T12:05:34.9316194+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:13.8048118+00:00",
-  "LastUpdate_Ratings": "2023-12-03T10:59:48.7686648+00:00",
-  "LastUpdate_Achievements": "2023-12-03T11:05:29.5316161+00:00"
+  "LastUpdate_Ratings": "2023-12-03T11:59:34.0579646+00:00",
+  "LastUpdate_Achievements": "2023-12-03T12:05:34.9316678+00:00"
 }

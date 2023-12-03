@@ -2,9 +2,9 @@
   "ID": "b022b60ee02545788d645fe353f5ddd6",
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
-  "Ranking_EOS_Progress": 305,
+  "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 490,
+  "Ranking_EOS_NewPlayers": 432,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 575,
+  "EOS_Progressed": 576,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -2494,6 +2494,11 @@
       "Time": "2023-11-24T23:02:59.7667114+00:00",
       "NumProgressed": 575,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-03T12:08:20.6070571+00:00",
+      "NumProgressed": 576,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 14,
@@ -2505,7 +2510,7 @@
       "Name": "The gateway to the underworld",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2553,7 +2558,7 @@
       "Name": "The path to enlightenment",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -2616,14 +2621,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 575,
+      "Progressed": 576,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-12-03T11:06:50.7925987+00:00",
+  "LastChanged_Achievements": "2023-12-03T12:08:20.6070567+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:26.0831223+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:00:00.238599+00:00",
-  "LastUpdate_Achievements": "2023-12-03T11:06:50.7926179+00:00"
+  "LastUpdate_Ratings": "2023-12-03T11:59:46.5484217+00:00",
+  "LastUpdate_Achievements": "2023-12-03T12:08:20.6070797+00:00"
 }

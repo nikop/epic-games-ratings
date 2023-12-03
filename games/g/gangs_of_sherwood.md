@@ -5,36 +5,36 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Act of Kindness | 91.00% | ~48 |
-| Air Fighter | 87.00% | ~46 |
+| Air Fighter | 89.00% | ~47 |
 | Oo-De-Lally | 72.00% | ~38 |
 | Treasure Hunter | 72.00% | ~38 |
-| The Altruist | 68.00% | ~36 |
+| The Altruist | 72.00% | ~38 |
 | Tap Dancing | 57.00% | ~30 |
-| Watch your Step! | 53.00% | ~28 |
-| Right between the eyes | 51.00% | ~27 |
-| MAX LEVEL | 51.00% | ~27 |
+| Watch your Step! | 55.00% | ~29 |
+| MAX LEVEL | 55.00% | ~29 |
+| Right between the eyes | 53.00% | ~28 |
 | Spring Board | 47.00% | ~25 |
 | Starry Night | 45.00% | ~24 |
 | Rebel Unleashed | 40.00% | ~21 |
-| Locksley's Tears | 36.00% | ~19 |
+| Locksley's Tears | 38.00% | ~20 |
 | Merry Co-operation | 32.00% | ~17 |
 | Finish Him! | 32.00% | ~17 |
 | Assault on the Ram | 30.00% | ~16 |
 | Savior | 28.00% | ~15 |
-| Ultra Rebel Instinct | 25.00% | ~13 |
+| Ultra Rebel Instinct | 26.00% | ~14 |
 | Take Action! | 23.00% | ~12 |
 | First Aid | 23.00% | ~12 |
 | Merry Go Round | 23.00% | ~12 |
 | Ultra Combo | 19.00% | ~10 |
 | Ascending Will | 15.00% | ~8 |
-| Haute Couture | 13.00% | ~7 |
-| Hidden Experiment | 11.00% | ~6 |
+| Haute Couture | 15.00% | ~8 |
+| Hidden Experiment | 13.00% | ~7 |
 | Brilliant Executioner | 9.00% | ~5 |
+| Sky High Fighter | 9.00% | ~5 |
 | Into the Lion's Den | 9.00% | ~5 |
 | Bold and Bossy | 8.00% | ~4 |
 | The Gang prevails | 8.00% | ~4 |
 | Out of the ring | 8.00% | ~4 |
-| Sky High Fighter | 8.00% | ~4 |
 | King of the Iron Fist | 4.00% | ~2 |
 | Power of Friendship! | 4.00% | ~2 |
 | Five of Friends | 4.00% | ~2 |

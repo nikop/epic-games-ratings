@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -249,7 +249,7 @@
   "Tags": [],
   "EOS_Progressed": 15857,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 278,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -13214,9 +13214,9 @@
       "ID": "9",
       "SetID": "458bbdk",
       "Name": "Impossible Objects",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 951
+      "UsersEstimate": 1110
     },
     {
       "ID": "31",
@@ -13270,15 +13270,15 @@
       "ID": "9nnpo9n",
       "IsBase": false,
       "Progressed": 1811,
-      "Completed": 799
+      "Completed": 800
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-02T18:02:57.3938434+00:00",
-  "LastChanged_Achievements": "2023-12-03T11:05:06.5655362+00:00",
+  "LastChanged_Achievements": "2023-12-03T12:05:11.6756406+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:02:49.1395674+00:00",
-  "LastUpdate_Achievements": "2023-12-03T11:05:06.5656177+00:00"
+  "LastUpdate_Ratings": "2023-12-03T12:02:59.1875056+00:00",
+  "LastUpdate_Achievements": "2023-12-03T12:05:11.6757269+00:00"
 }

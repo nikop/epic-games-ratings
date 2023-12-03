@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,648 |
-| Pork Chopped | 3.00% | ~1,648 |
+| Whatever It Takes | 3.00% | ~1,649 |
+| Pork Chopped | 3.00% | ~1,649 |
 | Git Gutte! | 2.00% | ~14,588 |
 | Break A Leg | 2.00% | ~14,588 |
 | Coup de Grâce | 2.00% | ~14,588 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 528)
 | Jumbo Keyring | 0.70% | ~5,106 |
 | Go, Bobcats! | 0.70% | ~5,106 |
 | Rising Star | 0.70% | ~5,106 |
-| Internet Famous | 0.60% | ~4,376 |
+| Internet Famous | 0.60% | ~4,377 |
 | Make it So | 0.50% | ~3,647 |
 | On Safari | 0.50% | ~3,647 |
 | Smorgasbord | 0.50% | ~3,647 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 528)
 | Bucket List | 0.10% | ~729 |
 | Wilhelm | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 729,396 (Ranked 21)  
-Completed: 2,461 (0.34%) (Ranked 232)  
+Progressed: 729,425 (Ranked 21)  
+Completed: 2,461 (0.34%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -284,14 +284,14 @@ Completed: 2,461 (0.34%) (Ranked 232)
 | 2023-11-30 | 728,231 | 2,456 |
 | 2023-12-01 | 728,667 | 2,459 |
 | 2023-12-02 | 729,149 | 2,460 |
-| 2023-12-03 | 729,396 | 2,461 |
+| 2023-12-03 | 729,425 | 2,461 |
 ## Awards
-Max (Great Boss Battles): 7,869  (Ranked 49)  
-Sum: 12,076 (Ranked 82)  
+Max (Great Boss Battles): 7,892  (Ranked 49)  
+Sum: 12,099 (Ranked 82)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,869 |
+| This game has Great Boss Battles | 7,892 |
 | This game is Great for Beginners | 612 |
 | This game has Diverse Characters | 579 |
 | This game has Quickly Understood Controls | 545 |
@@ -529,4 +529,4 @@ Diff (max vs sum): -33
 | 2023-11-30 | 4.54 | 7,821 | 11,987 |
 | 2023-12-01 | 4.54 | 7,845 | 12,026 |
 | 2023-12-02 | 4.54 | 7,869 | 12,068 |
-| 2023-12-03 | 4.54 | 7,869 | 12,076 |
+| 2023-12-03 | 4.54 | 7,892 | 12,099 |

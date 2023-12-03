@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Struck A Pose | 88.00% | ~22,634 |
-| Fried Friendship | 87.00% | ~22,377 |
-| Look At Him Go | 79.00% | ~20,320 |
-| On Rails Experience | 57.00% | ~14,661 |
-| A Daring Devil | 53.00% | ~13,632 |
-| It Took Two | 44.00% | ~11,317 |
-| Break the Bank | 43.00% | ~11,060 |
-| Bug Sized Relaxation | 22.00% | ~5,659 |
-| Plastic Prison Breakers | 17.00% | ~4,373 |
-| Terror Of The Seven Seas | 16.00% | ~4,115 |
-| Realize Your Art | 12.00% | ~3,087 |
-| Force Triangulated | 12.00% | ~3,087 |
-| Meditation Maestro | 12.00% | ~3,087 |
-| Lost And Found | 11.00% | ~2,829 |
-| Something Fishy | 11.00% | ~2,829 |
-| Platforming Prodigy | 9.00% | ~2,315 |
-| Snackosaurus | 8.00% | ~2,058 |
-| Mood Swing | 7.00% | ~1,800 |
+| Struck A Pose | 88.00% | ~22,646 |
+| Fried Friendship | 87.00% | ~22,389 |
+| Look At Him Go | 79.00% | ~20,330 |
+| On Rails Experience | 57.00% | ~14,668 |
+| A Daring Devil | 53.00% | ~13,639 |
+| It Took Two | 44.00% | ~11,323 |
+| Break the Bank | 43.00% | ~11,066 |
+| Bug Sized Relaxation | 22.00% | ~5,661 |
+| Plastic Prison Breakers | 17.00% | ~4,375 |
+| Terror Of The Seven Seas | 16.00% | ~4,117 |
+| Realize Your Art | 12.00% | ~3,088 |
+| Force Triangulated | 12.00% | ~3,088 |
+| Meditation Maestro | 12.00% | ~3,088 |
+| Lost And Found | 11.00% | ~2,831 |
+| Something Fishy | 11.00% | ~2,831 |
+| Platforming Prodigy | 9.00% | ~2,316 |
+| Snackosaurus | 8.00% | ~2,059 |
+| Mood Swing | 7.00% | ~1,801 |
 | Minigame Megalomania | 4.00% | ~1,029 |
 | Faraway Frequencies | 4.00% | ~1,029 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,721 (Ranked 128)  
+Progressed: 25,734 (Ranked 128)  
 Completed: 110 (0.43%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,4 +104,4 @@ Completed: 110 (0.43%) (Ranked 218)
 | 2023-11-30 | 25,070 | 106 |
 | 2023-12-01 | 25,283 | 109 |
 | 2023-12-02 | 25,594 | 110 |
-| 2023-12-03 | 25,721 | 110 |
+| 2023-12-03 | 25,734 | 110 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -2838,9 +2838,9 @@
       "ID": "ID_04_SONIC3K_WATCH_OPENING",
       "SetID": "7o8nc5m",
       "Name": "Welcome to Sonic 3 \u0026 Knuckles",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 441
+      "UsersEstimate": 447
     },
     {
       "ID": "ID_05_SONIC1_DEFEAT_MOTORA",
@@ -3102,8 +3102,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-11-24T22:58:28.1556301+00:00",
-  "LastChanged_Achievements": "2023-12-03T11:09:32.2269518+00:00",
+  "LastChanged_Achievements": "2023-12-03T12:10:04.433059+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:25.3950271+00:00",
-  "LastUpdate_Ratings": "2023-12-03T10:59:21.994704+00:00",
-  "LastUpdate_Achievements": "2023-12-03T11:09:32.2270031+00:00"
+  "LastUpdate_Ratings": "2023-12-03T11:59:06.512671+00:00",
+  "LastUpdate_Achievements": "2023-12-03T12:10:04.4330879+00:00"
 }

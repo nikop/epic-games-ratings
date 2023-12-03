@@ -1514,9 +1514,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131550,
+  "EOS_Progressed": 131553,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 295,
+  "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -23679,6 +23679,11 @@
       "Time": "2023-12-03T11:05:22.3784914+00:00",
       "NumProgressed": 131550,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-03T12:05:27.7741407+00:00",
+      "NumProgressed": 131553,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -23714,7 +23719,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3946
+      "UsersEstimate": 3947
     },
     {
       "ID": "ACH_COP_ART",
@@ -23722,7 +23727,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23679
+      "UsersEstimate": 23680
     },
     {
       "ID": "ACH_COP_BAD",
@@ -23746,7 +23751,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31572
+      "UsersEstimate": 31573
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -23770,7 +23775,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36834
+      "UsersEstimate": 36835
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -23834,7 +23839,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14470
+      "UsersEstimate": 14471
     },
     {
       "ID": "ACH_CUNO",
@@ -23914,7 +23919,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3946
+      "UsersEstimate": 3947
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -24009,15 +24014,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131550,
+      "Progressed": 131553,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-28T12:00:15.5937153+00:00",
-  "LastChanged_Achievements": "2023-12-03T11:05:22.3784906+00:00",
+  "LastChanged_Achievements": "2023-12-03T12:05:27.7741403+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:21.910323+00:00",
-  "LastUpdate_Ratings": "2023-12-03T10:58:12.672186+00:00",
-  "LastUpdate_Achievements": "2023-12-03T11:05:22.378628+00:00"
+  "LastUpdate_Ratings": "2023-12-03T11:57:56.1671055+00:00",
+  "LastUpdate_Achievements": "2023-12-03T12:05:27.774257+00:00"
 }

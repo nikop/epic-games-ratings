@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11335,10 +11335,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 49740,
       "NumberOfAwardsMax": 24854
+    },
+    {
+      "Time": "2023-12-03T11:58:34.8655444+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 49742,
+      "NumberOfAwardsMax": 24854
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49740,
+  "NumberOfAwards": 49742,
   "NumberOfAwardsMax": 24854,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11388,7 +11394,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1286
+      "Count": 1288
     },
     {
       "Text": "This game is Highly Recommended",
@@ -11415,10 +11421,10 @@
       "Count": 829
     }
   ],
-  "EOS_Progressed": 303832,
-  "EOS_Completed": 520,
-  "EOS_NewPlayers": 596,
-  "EOS_NewCompleters": 6,
+  "EOS_Progressed": 303834,
+  "EOS_Completed": 521,
+  "EOS_NewPlayers": 590,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
@@ -35855,6 +35861,11 @@
       "Time": "2023-12-03T11:09:30.8352105+00:00",
       "NumProgressed": 303832,
       "NumCompleted": 520
+    },
+    {
+      "Time": "2023-12-03T12:10:03.076741+00:00",
+      "NumProgressed": 303834,
+      "NumCompleted": 521
     }
   ],
   "TotalAchievements": 45,
@@ -35978,7 +35989,7 @@
       "Name": "Collector\u0027s Edition",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "PFA_23",
@@ -36074,7 +36085,7 @@
       "Name": "Spilled Milk",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2734
+      "UsersEstimate": 2735
     },
     {
       "ID": "PFA_34",
@@ -36202,7 +36213,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42536
+      "UsersEstimate": 42537
     },
     {
       "ID": "PFA_8",
@@ -36225,16 +36236,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303832,
-      "Completed": 520
+      "Progressed": 303834,
+      "Completed": 521
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-12-03T10:58:50.0778421+00:00",
-  "LastChanged_Achievements": "2023-12-03T11:09:30.8352103+00:00",
+  "LastChanged": "2023-12-03T11:58:34.8655442+00:00",
+  "LastChanged_Achievements": "2023-12-03T12:10:03.0767407+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-03T10:58:50.0778426+00:00",
-  "LastUpdate_Achievements": "2023-12-03T11:09:30.8353875+00:00"
+  "LastUpdate_Ratings": "2023-12-03T11:58:34.8655448+00:00",
+  "LastUpdate_Achievements": "2023-12-03T12:10:03.0768505+00:00"
 }

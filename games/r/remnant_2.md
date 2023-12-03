@@ -7,18 +7,18 @@ Rating: 4.75 (Ranked 149)
 | ---- | ---------- | ----- |
 | The Killing Jar | 0.70% | ~1,635 |
 | First of Many | 0.70% | ~1,635 |
-| Regicide | 0.70% | ~89 |
-| Master of the Dark Arts | 0.70% | ~89 |
+| Regicide | 0.70% | ~90 |
+| Master of the Dark Arts | 0.70% | ~90 |
 | Expanding Horizons | 0.50% | ~1,168 |
 | Not Your Average Trait | 0.50% | ~1,168 |
-| Gleaming the Cube | 0.40% | ~934 |
-| Not So Special Now | 0.40% | ~934 |
-| Quest for Survival | 0.40% | ~934 |
-| Not a Janitor | 0.40% | ~934 |
-| Familiar Face | 0.40% | ~934 |
-| Duality | 0.40% | ~934 |
-| Boss'n Up | 0.40% | ~934 |
-| Trait Chaser | 0.40% | ~934 |
+| Gleaming the Cube | 0.40% | ~935 |
+| Not So Special Now | 0.40% | ~935 |
+| Quest for Survival | 0.40% | ~935 |
+| Not a Janitor | 0.40% | ~935 |
+| Familiar Face | 0.40% | ~935 |
+| Duality | 0.40% | ~935 |
+| Boss'n Up | 0.40% | ~935 |
+| Trait Chaser | 0.40% | ~935 |
 | Am I Seeing This? | 0.30% | ~701 |
 | Chaos | 0.30% | ~701 |
 | Traitor | 0.30% | ~701 |
@@ -53,16 +53,16 @@ Rating: 4.75 (Ranked 149)
 | The Ultimate Weapon | 0.20% | ~467 |
 | No One Should Have All That Power | 0.20% | ~467 |
 | Transmutate | 0.20% | ~467 |
-| Succession | 0.20% | ~25 |
-| You Shall Pass | 0.20% | ~25 |
+| Succession | 0.20% | ~26 |
+| You Shall Pass | 0.20% | ~26 |
 | Only Human | 0.10% | ~234 |
 | Red Room | 0.10% | ~234 |
 | Proving Grounds | 0.10% | ~234 |
 | Maxed Out! | 0.10% | ~234 |
 | A Foul Feast | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,581 (Ranked 68)  
-Completed: 548 (0.23%) (Ranked 251)  
+Progressed: 233,628 (Ranked 68)  
+Completed: 549 (0.23%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -201,10 +201,10 @@ Completed: 548 (0.23%) (Ranked 251)
 | 2023-11-30 | 231,406 | 542 |
 | 2023-12-01 | 232,269 | 546 |
 | 2023-12-02 | 233,162 | 548 |
-| 2023-12-03 | 233,581 | 548 |
+| 2023-12-03 | 233,628 | 549 |
 ## Awards
 Max (Great Boss Battles): 2,577  (Ranked 102)  
-Sum: 6,355 (Ranked 129)  
+Sum: 6,368 (Ranked 129)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
@@ -216,8 +216,8 @@ Diff (max vs sum): -27
 | This game is Relaxing | 393 |
 | This game has Amazing Storytelling | 389 |
 | This game has Amazing Characters | 382 |
-| This game has Quickly Understood Controls | 374 |
-| This game has Unique Visuals | 321 |
+| This game has Quickly Understood Controls | 379 |
+| This game has Unique Visuals | 329 |
 | This game has a Creative Community | 287 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -352,4 +352,4 @@ Diff (max vs sum): -27
 | 2023-11-30 | 4.75 | 2,533 | 6,208 |
 | 2023-12-01 | 4.75 | 2,558 | 6,266 |
 | 2023-12-02 | 4.75 | 2,577 | 6,336 |
-| 2023-12-03 | 4.75 | 2,577 | 6,355 |
+| 2023-12-03 | 4.75 | 2,577 | 6,368 |

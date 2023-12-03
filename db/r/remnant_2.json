@@ -5017,10 +5017,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6355,
       "NumberOfAwardsMax": 2577
+    },
+    {
+      "Time": "2023-12-03T12:03:19.2990197+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6368,
+      "NumberOfAwardsMax": 2577
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6355,
+  "NumberOfAwards": 6368,
   "NumberOfAwardsMax": 2577,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5058,7 +5064,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 374
+      "Count": 379
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5082,7 +5088,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 321
+      "Count": 329
     },
     {
       "Text": "This game is Relaxing",
@@ -5091,10 +5097,10 @@
       "Count": 393
     }
   ],
-  "EOS_Progressed": 233581,
-  "EOS_Completed": 548,
-  "EOS_NewPlayers": 5061,
-  "EOS_NewCompleters": 18,
+  "EOS_Progressed": 233628,
+  "EOS_Completed": 549,
+  "EOS_NewPlayers": 5065,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -21141,6 +21147,11 @@
       "Time": "2023-12-03T11:08:46.9733135+00:00",
       "NumProgressed": 233581,
       "NumCompleted": 548
+    },
+    {
+      "Time": "2023-12-03T12:09:18.61675+00:00",
+      "NumProgressed": 233628,
+      "NumCompleted": 549
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21201,7 +21212,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -21257,7 +21268,7 @@
       "Name": "Not So Special Now",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "Defeat_Tal_Ratha",
@@ -21273,7 +21284,7 @@
       "Name": "Quest for Survival",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -21297,7 +21308,7 @@
       "Name": "Not a Janitor",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "Meet_Flautist",
@@ -21305,7 +21316,7 @@
       "Name": "Familiar Face",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "Meet_Meidra",
@@ -21345,7 +21356,7 @@
       "Name": "Duality",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -21385,7 +21396,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "Obtain_Guns_A",
@@ -21529,7 +21540,7 @@
       "Name": "Trait Chaser",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -21553,7 +21564,7 @@
       "Name": "Regicide",
       "Percentage": 0.7,
       "XP": 75,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -21561,7 +21572,7 @@
       "Name": "Succession",
       "Percentage": 0.2,
       "XP": 75,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "DLC1_Obtain_Archetype",
@@ -21569,7 +21580,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -21585,29 +21596,29 @@
       "Name": "You Shall Pass",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     }
   ],
   "AchievementSets": [
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 233581,
-      "Completed": 548
+      "Progressed": 233628,
+      "Completed": 549
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 12746,
-      "Completed": 183
+      "Progressed": 12793,
+      "Completed": 185
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-12-03T08:03:10.7154368+00:00",
-  "LastChanged_Achievements": "2023-12-03T11:08:46.9733132+00:00",
+  "LastChanged": "2023-12-03T12:03:19.2990196+00:00",
+  "LastChanged_Achievements": "2023-12-03T12:09:18.6167496+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:03:08.9064135+00:00",
-  "LastUpdate_Achievements": "2023-12-03T11:08:46.9734069+00:00"
+  "LastUpdate_Ratings": "2023-12-03T12:03:19.2990201+00:00",
+  "LastUpdate_Achievements": "2023-12-03T12:09:18.6168419+00:00"
 }

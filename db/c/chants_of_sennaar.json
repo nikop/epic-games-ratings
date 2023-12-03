@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 854,
+  "EOS_Progressed": 855,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 5.74,
+  "EOS_Completed_Percentage": 5.73,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3455,6 +3455,11 @@
       "Time": "2023-12-03T11:03:14.1432436+00:00",
       "NumProgressed": 854,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-03T12:03:26.1718164+00:00",
+      "NumProgressed": 855,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 25,
@@ -3498,7 +3503,7 @@
       "Name": "A good beginning",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "META_HALF_LINK",
@@ -3546,7 +3551,7 @@
       "Name": "For its own good",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "META_RESULT_3-4",
@@ -3618,7 +3623,7 @@
       "Name": "Scholar",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "PROGRESS_N1",
@@ -3658,21 +3663,21 @@
       "Name": "One last step",
       "Percentage": 21,
       "XP": 80,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 854,
+      "Progressed": 855,
       "Completed": 49
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-03T11:03:14.1432434+00:00",
+  "LastChanged_Achievements": "2023-12-03T12:03:26.1718158+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:43.5720459+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:00:31.2386376+00:00",
-  "LastUpdate_Achievements": "2023-12-03T11:03:14.1432801+00:00"
+  "LastUpdate_Ratings": "2023-12-03T12:02:27.5529695+00:00",
+  "LastUpdate_Achievements": "2023-12-03T12:03:26.1718552+00:00"
 }

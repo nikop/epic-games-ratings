@@ -6,23 +6,23 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 18.00% | ~120,081 |
-| Incurious | 17.00% | ~113,410 |
-| Climate Change | 16.00% | ~106,739 |
-| Stroller | 15.00% | ~100,068 |
-| Toy Train | 14.00% | ~93,397 |
-| Advanced Hiker | 13.00% | ~86,725 |
-| Hiker | 12.00% | ~80,054 |
-| Mojave Courier | 6.00% | ~40,027 |
-| Saved by Nausicaä | 5.00% | ~33,356 |
+| Advanced Stroller | 18.00% | ~120,084 |
+| Incurious | 17.00% | ~113,413 |
+| Climate Change | 16.00% | ~106,742 |
+| Stroller | 15.00% | ~100,070 |
+| Toy Train | 14.00% | ~93,399 |
+| Advanced Hiker | 13.00% | ~86,728 |
+| Hiker | 12.00% | ~80,056 |
+| Mojave Courier | 6.00% | ~40,028 |
+| Saved by Nausicaä | 5.00% | ~33,357 |
 | Advanced Voyager | 4.00% | ~26,685 |
 | Expert Stroller | 4.00% | ~26,685 |
 | Voyager | 3.00% | ~20,014 |
 | Orient Express | 3.00% | ~20,014 |
 | Marathon | 3.00% | ~20,014 |
 | Destructionist | 3.00% | ~20,014 |
-| Expert Hiker | 2.00% | ~13,342 |
-| Lost | 2.00% | ~13,342 |
+| Expert Hiker | 2.00% | ~13,343 |
+| Lost | 2.00% | ~13,343 |
 | Rocketman | 0.80% | ~5,337 |
 | Expert Voyager | 0.70% | ~4,670 |
 | Shopaholic | 0.70% | ~4,670 |
@@ -30,9 +30,9 @@ Number of Ratings: 21,990  (23.09.2022)
 | Nanuk | 0.60% | ~4,003 |
 | Terminal Station | 0.60% | ~4,003 |
 | Scrooge | 0.50% | ~3,336 |
-| Wayfarer | 0.40% | ~2,668 |
-| Advanced Wayfarer | 0.40% | ~2,668 |
-| Tough Nut! | 0.40% | ~2,668 |
+| Wayfarer | 0.40% | ~2,669 |
+| Advanced Wayfarer | 0.40% | ~2,669 |
+| Tough Nut! | 0.40% | ~2,669 |
 | Trans-Siberian Railway | 0.30% | ~2,001 |
 | Engineer | 0.30% | ~2,001 |
 | Satan's Minion | 0.30% | ~2,001 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~667 |
 | 20 Miles under the Sea | 0.10% | ~667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 667,119 (Ranked 28)  
+Progressed: 667,135 (Ranked 28)  
 Completed: 12 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,10 +286,10 @@ Completed: 12 (0.00%) (Ranked 365)
 | 2023-11-30 | 666,373 | 12 |
 | 2023-12-01 | 666,625 | 12 |
 | 2023-12-02 | 666,931 | 12 |
-| 2023-12-03 | 667,119 | 12 |
+| 2023-12-03 | 667,135 | 12 |
 ## Awards
 Max (Great for Beginners): 202  (Ranked 290)  
-Sum: 1,603 (Ranked 232)  
+Sum: 1,604 (Ranked 232)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -300,7 +300,7 @@ Diff (max vs sum): 58
 | This game is Relaxing | 180 |
 | This game has Amazing Characters | 171 |
 | This game has Playful Visuals | 162 |
-| This game is Highly Recommended | 160 |
+| This game is Highly Recommended | 161 |
 | This game has Amazing Storytelling | 149 |
 | This game has Obsessive Gameplay | 138 |
 | This game has Competitive Players | 37 |
@@ -453,3 +453,4 @@ Diff (max vs sum): 58
 | 2023-11-23 | 4.64 | - | 202 | 1,601 |
 | 2023-11-24 | 4.64 | - | 202 | 1,602 |
 | 2023-12-02 | 4.64 | - | 202 | 1,603 |
+| 2023-12-03 | 4.64 | - | 202 | 1,604 |

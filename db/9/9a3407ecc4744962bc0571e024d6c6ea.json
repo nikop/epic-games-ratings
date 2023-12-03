@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 978,
+  "EOS_Progressed": 979,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
@@ -2569,6 +2569,11 @@
       "Time": "2023-12-02T23:12:04.2582123+00:00",
       "NumProgressed": 978,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-03T12:09:44.7194014+00:00",
+      "NumProgressed": 979,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -2581,7 +2586,7 @@
       "Name": "A Better Tomorrow",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "BostonHayDay",
@@ -2597,7 +2602,7 @@
       "Name": "Boxing Clever",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "Cartographer",
@@ -2605,7 +2610,7 @@
       "Name": "Cartographer",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "Causality",
@@ -2629,7 +2634,7 @@
       "Name": "Darkest Before the Dawn",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "DrinkingOnTheJob",
@@ -2637,7 +2642,7 @@
       "Name": "Drinking on the Job",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "DustDancing",
@@ -2669,7 +2674,7 @@
       "Name": "Mi Casa Su Casa",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "OnceMoreIntoTheBreach",
@@ -2677,7 +2682,7 @@
       "Name": "Once more into the Breach",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "Outpatient",
@@ -2685,7 +2690,7 @@
       "Name": "Outpatient",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "Relic",
@@ -2693,7 +2698,7 @@
       "Name": "Relic",
       "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "SkeletonCrew",
@@ -2701,7 +2706,7 @@
       "Name": "Skeleton Crew",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "TerraTourGuide",
@@ -2733,21 +2738,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 978,
+      "Progressed": 979,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-12-03T11:09:12.757518+00:00",
+  "LastChanged_Achievements": "2023-12-03T12:09:44.7194011+00:00",
   "LastUpdate_AppInfo": "2023-11-29T20:57:24.7424697+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:00:33.0867087+00:00",
-  "LastUpdate_Achievements": "2023-12-03T11:09:12.7575398+00:00"
+  "LastUpdate_Ratings": "2023-12-03T12:02:29.4938191+00:00",
+  "LastUpdate_Achievements": "2023-12-03T12:09:44.7194208+00:00"
 }

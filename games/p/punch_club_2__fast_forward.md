@@ -39,15 +39,15 @@
 | Now you are worthy | 49.00% | ~175 |
 | Fight is life | 47.00% | ~168 |
 | Mysterious voice | 47.00% | ~168 |
-| Guiding on the right path | 46.00% | ~165 |
+| Guiding on the right path | 47.00% | ~168 |
 | Champion – no way back | 44.00% | ~158 |
 | No blades in the gym | 44.00% | ~158 |
 | Underground dwellers | 42.00% | ~150 |
 | Responsible approach | 42.00% | ~150 |
 | Deal with life | 41.00% | ~147 |
 | GYM professional | 41.00% | ~147 |
+| Poisoned fighter | 41.00% | ~147 |
 | Mom got better | 40.00% | ~143 |
-| Poisoned fighter | 40.00% | ~143 |
 | The die is cast | 40.00% | ~143 |
 | Get out of my apartment! | 39.00% | ~140 |
 | Gang wrangler | 37.00% | ~132 |

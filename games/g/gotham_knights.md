@@ -5,11 +5,11 @@ Rating: 4.18 (Ranked 935)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~38,804 |
+| First Step Into the Knight | 50.00% | ~38,805 |
 | Har, Har, Har, Very Funny | 34.00% | ~26,387 |
 | Loose Ends | 33.00% | ~25,611 |
 | To the Victor Go the Spoils | 28.00% | ~21,731 |
-| Knighthood | 27.00% | ~20,954 |
+| Knighthood | 27.00% | ~20,955 |
 | Get ReQ'd | 25.00% | ~19,402 |
 | Whispered Words | 25.00% | ~19,402 |
 | The Batman Family | 22.00% | ~17,074 |
@@ -23,9 +23,9 @@ Rating: 4.18 (Ranked 935)
 | The Show Mud Go On | 18.00% | ~13,970 |
 | From Inside Gotham's Walls | 18.00% | ~13,970 |
 | Protector of Gotham | 17.00% | ~13,194 |
-| Universal Health Scare | 16.00% | ~12,417 |
-| In Your Element | 15.00% | ~11,641 |
-| Voiceless | 15.00% | ~11,641 |
+| Universal Health Scare | 16.00% | ~12,418 |
+| In Your Element | 15.00% | ~11,642 |
+| Voiceless | 15.00% | ~11,642 |
 | Rock and a Hard Place | 14.00% | ~10,865 |
 | Cooldown | 14.00% | ~10,865 |
 | Seeking Asylum | 14.00% | ~10,865 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 935)
 | Element of Surprise | 0.20% | ~96 |
 | It's Nice to Be Wanted | 0.20% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,609 (Ranked 99)  
+Progressed: 77,610 (Ranked 99)  
 Completed: 124 (0.16%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,15 +294,15 @@ Completed: 124 (0.16%) (Ranked 269)
 | 2023-11-30 | 77,491 | 124 |
 | 2023-12-01 | 77,532 | 124 |
 | 2023-12-02 | 77,577 | 124 |
-| 2023-12-03 | 77,609 | 124 |
+| 2023-12-03 | 77,610 | 124 |
 ## Awards
 Max (Great Boss Battles): 2,987  (Ranked 98)  
-Sum: 5,098 (Ranked 140)  
+Sum: 5,099 (Ranked 140)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,987 |
-| This game has Diverse Characters | 269 |
+| This game has Diverse Characters | 270 |
 | This game is Extremely Fun | 268 |
 | This game is Relaxing | 266 |
 | This game has Quickly Understood Controls | 265 |
@@ -595,4 +595,4 @@ Diff (max vs sum): -42
 | 2023-11-30 | 4.18 | 2,980 | 5,083 |
 | 2023-12-01 | 4.18 | 2,984 | 5,094 |
 | 2023-12-02 | 4.18 | 2,987 | 5,097 |
-| 2023-12-03 | 4.18 | 2,987 | 5,098 |
+| 2023-12-03 | 4.18 | 2,987 | 5,099 |

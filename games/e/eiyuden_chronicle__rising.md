@@ -41,7 +41,7 @@ Number of Ratings: 48  (23.09.2022)
 | New Nevaeh's Number One Customer | 21.00% | ~148 |
 | Arms Master | 19.00% | ~134 |
 | Rune Scholar | 17.00% | ~120 |
-| No Treasure Left Behind | 13.00% | ~92 |
+| No Treasure Left Behind | 14.00% | ~99 |
 | One-Hundred Resident Record | 12.00% | ~85 |
 | Sommelier | 12.00% | ~85 |
 | Champion of the Great Forest | 12.00% | ~85 |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 161,
-  "Ranking_EOS_Completed": 232,
+  "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -221,11 +221,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11625,
-  "EOS_Completed": 40,
-  "EOS_NewPlayers": 2295,
-  "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 0.34,
+  "EOS_Progressed": 11657,
+  "EOS_Completed": 41,
+  "EOS_NewPlayers": 2307,
+  "EOS_NewCompleters": 11,
+  "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
     {
       "Time": "2023-10-19T17:06:35.017307+00:00",
@@ -2971,6 +2971,11 @@
       "Time": "2023-12-03T11:03:25.9910718+00:00",
       "NumProgressed": 11625,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-12-03T12:03:28.068251+00:00",
+      "NumProgressed": 11657,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -2991,7 +2996,7 @@
       "Name": "Beam Me Up Scotty",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 814
+      "UsersEstimate": 816
     },
     {
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
@@ -3007,7 +3012,7 @@
       "Name": "Morbidly Curious",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "SAVE_EVERYONE_1_1",
@@ -3015,7 +3020,7 @@
       "Name": "Savior",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 930
+      "UsersEstimate": 933
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -3023,7 +3028,7 @@
       "Name": "Righter of Wrongs",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 581
+      "UsersEstimate": 583
     },
     {
       "ID": "SAVE_ONE_PERSON_1_0",
@@ -3031,7 +3036,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1399
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -3039,7 +3044,7 @@
       "Name": "Secrets Out",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "UNLOCK_ALL_4_DOORS_1_3",
@@ -3047,7 +3052,7 @@
       "Name": "Locksmith",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 930
+      "UsersEstimate": 933
     },
     {
       "ID": "WATCH_ALL_SCENES_1_5",
@@ -3055,23 +3060,23 @@
       "Name": "Investigator",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     }
   ],
   "AchievementSets": [
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 11625,
-      "Completed": 40
+      "Progressed": 11657,
+      "Completed": 41
     }
   ],
   "FirstSeen": "2023-10-19T17:59:40.5875906+00:00",
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-12-01T13:07:08.094287+00:00",
-  "LastChanged_Achievements": "2023-12-03T11:03:25.9910715+00:00",
+  "LastChanged_Achievements": "2023-12-03T12:03:28.0682506+00:00",
   "LastUpdate_AppInfo": "2023-11-30T16:57:25.9154897+00:00",
-  "LastUpdate_Ratings": "2023-12-03T10:57:40.7738935+00:00",
-  "LastUpdate_Achievements": "2023-12-03T11:03:25.9910969+00:00"
+  "LastUpdate_Ratings": "2023-12-03T11:57:23.6772068+00:00",
+  "LastUpdate_Achievements": "2023-12-03T12:03:28.0682798+00:00"
 }

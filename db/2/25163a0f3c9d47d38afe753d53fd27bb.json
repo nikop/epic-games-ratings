@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1674,
+  "EOS_Progressed": 1675,
   "EOS_Completed": 119,
   "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 7.11,
+  "EOS_Completed_Percentage": 7.1,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -3989,6 +3989,11 @@
       "Time": "2023-12-03T08:09:37.0507189+00:00",
       "NumProgressed": 1674,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-03T12:10:01.7331212+00:00",
+      "NumProgressed": 1675,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 30,
@@ -4000,7 +4005,7 @@
       "Name": "A fresh start",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 1590
+      "UsersEstimate": 1591
     },
     {
       "ID": "LEVEL_002",
@@ -4008,7 +4013,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "LEVEL_003",
@@ -4016,7 +4021,7 @@
       "Name": "A horse in the country",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "LEVEL_004",
@@ -4024,7 +4029,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "LEVEL_005",
@@ -4038,9 +4043,9 @@
       "ID": "LEVEL_006",
       "SetID": "212bg48",
       "Name": "Nothing like fresh food",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 636
+      "UsersEstimate": 620
     },
     {
       "ID": "LEVEL_007",
@@ -4048,7 +4053,7 @@
       "Name": "Animals in the farm",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "LEVEL_008",
@@ -4096,7 +4101,7 @@
       "Name": "Higher ground",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "LEVEL_014",
@@ -4128,7 +4133,7 @@
       "Name": "Windmill on a rocky cliff",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "LEVEL_018",
@@ -4239,14 +4244,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1674,
+      "Progressed": 1675,
       "Completed": 119
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-12-03T11:09:29.5542624+00:00",
+  "LastChanged_Achievements": "2023-12-03T12:10:01.7331209+00:00",
   "LastUpdate_AppInfo": "2023-11-28T03:57:10.4793564+00:00",
-  "LastUpdate_Ratings": "2023-12-03T10:58:50.7936984+00:00",
-  "LastUpdate_Achievements": "2023-12-03T11:09:29.5543045+00:00"
+  "LastUpdate_Ratings": "2023-12-03T11:58:35.4855318+00:00",
+  "LastUpdate_Achievements": "2023-12-03T12:10:01.7331519+00:00"
 }

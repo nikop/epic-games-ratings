@@ -38,6 +38,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stone Touch | 0.40% | ~962 |
 | Toxic | 0.40% | ~962 |
 | Sneaky | 0.40% | ~962 |
+| Shadow Walker | 0.40% | ~962 |
 | Expensive Look | 0.40% | ~8 |
 | What Doesn't Kill You | 0.40% | ~8 |
 | Consecutive Curses | 0.30% | ~722 |
@@ -55,7 +56,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Spreading Plague | 0.30% | ~722 |
 | Acid Bath | 0.30% | ~722 |
 | New Perspectives | 0.30% | ~722 |
-| Shadow Walker | 0.30% | ~722 |
 | Flesh Wound | 0.30% | ~722 |
 | Shapeshifting | 0.30% | ~722 |
 | Who Needs Luck? | 0.30% | ~6 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,558 (Ranked 64)  
+Progressed: 240,563 (Ranked 64)  
 Completed: 292 (0.12%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -372,7 +372,7 @@ Completed: 292 (0.12%) (Ranked 280)
 | 2023-11-30 | 240,445 | 291 |
 | 2023-12-01 | 240,480 | 291 |
 | 2023-12-02 | 240,522 | 291 |
-| 2023-12-03 | 240,558 | 292 |
+| 2023-12-03 | 240,563 | 292 |
 ## Awards
 Max (Quickly Understood Controls): 1,505  (Ranked 132)  
 Sum: 11,706 (Ranked 84)  

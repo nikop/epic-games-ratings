@@ -14,6 +14,7 @@ Rating: 4.19 (Ranked 928)
 | Two Heads Are Better Than One | 6.00% | ~990 |
 | Workplace Hazard | 6.00% | ~990 |
 | Reforged | 6.00% | ~990 |
+| If the SHU Fits... | 6.00% | ~990 |
 | Without A Paddle | 6.00% | ~990 |
 | In the Pipe, Five by Five | 6.00% | ~990 |
 | Desperate Times | 6.00% | ~990 |
@@ -21,7 +22,6 @@ Rating: 4.19 (Ranked 928)
 | Keep Fighting | 6.00% | ~266 |
 | You Need a Gun | 5.00% | ~825 |
 | I Do Belong Here | 5.00% | ~825 |
-| If the SHU Fits... | 5.00% | ~825 |
 | What Lies Beneath | 5.00% | ~825 |
 | Full Circle | 5.00% | ~825 |
 | Power Up | 5.00% | ~825 |

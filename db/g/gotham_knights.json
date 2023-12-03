@@ -4425,10 +4425,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 5098,
       "NumberOfAwardsMax": 2987
+    },
+    {
+      "Time": "2023-12-03T11:57:04.4552364+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 5099,
+      "NumberOfAwardsMax": 2987
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5098,
+  "NumberOfAwards": 5099,
   "NumberOfAwardsMax": 2987,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4484,7 +4490,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 269
+      "Count": 270
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -4493,9 +4499,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77609,
+  "EOS_Progressed": 77610,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 446,
+  "EOS_NewPlayers": 445,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24833,6 +24839,11 @@
       "Time": "2023-12-03T11:06:10.5154854+00:00",
       "NumProgressed": 77609,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-03T12:06:17.8823243+00:00",
+      "NumProgressed": 77610,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -24932,7 +24943,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11641
+      "UsersEstimate": 11642
     },
     {
       "ID": "CHALLENGES_1",
@@ -25172,7 +25183,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12417
+      "UsersEstimate": 12418
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -25188,7 +25199,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38804
+      "UsersEstimate": 38805
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -25220,7 +25231,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20954
+      "UsersEstimate": 20955
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -25276,7 +25287,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11641
+      "UsersEstimate": 11642
     },
     {
       "ID": "MYSTERY_07",
@@ -25331,22 +25342,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77609,
+      "Progressed": 77610,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47889,
+      "Progressed": 47890,
       "Completed": 2675
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-12-03T03:59:55.6281911+00:00",
-  "LastChanged_Achievements": "2023-12-03T11:06:10.5154849+00:00",
+  "LastChanged": "2023-12-03T11:57:04.4552362+00:00",
+  "LastChanged_Achievements": "2023-12-03T12:06:17.882324+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.5024346+00:00",
-  "LastUpdate_Ratings": "2023-12-03T10:57:21.2836037+00:00",
-  "LastUpdate_Achievements": "2023-12-03T11:06:10.5156316+00:00"
+  "LastUpdate_Ratings": "2023-12-03T11:57:04.4552367+00:00",
+  "LastUpdate_Achievements": "2023-12-03T12:06:17.8824616+00:00"
 }

@@ -4,9 +4,9 @@
   "ProductSlug": "synced",
   "Ranking_Rating": 944,
   "Ranking_Popularity": 366,
-  "Ranking_PopularitySum": 343,
+  "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 102,
-  "Ranking_EOS_Completed": 311,
+  "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
@@ -1203,9 +1203,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 67964,
+  "EOS_Progressed": 67969,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 436,
+  "EOS_NewPlayers": 435,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -11283,6 +11283,11 @@
       "Time": "2023-12-03T11:06:39.2757196+00:00",
       "NumProgressed": 67964,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-03T12:08:08.995178+00:00",
+      "NumProgressed": 67969,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -11295,7 +11300,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23787
+      "UsersEstimate": 23789
     },
     {
       "ID": "10",
@@ -11367,7 +11372,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8835
+      "UsersEstimate": 8836
     },
     {
       "ID": "4",
@@ -11375,7 +11380,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6796
+      "UsersEstimate": 6797
     },
     {
       "ID": "5",
@@ -11383,7 +11388,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5437
+      "UsersEstimate": 5438
     },
     {
       "ID": "6",
@@ -11422,7 +11427,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 67964,
+      "Progressed": 67969,
       "Completed": 38
     }
   ],
@@ -11430,8 +11435,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-12-03T09:59:55.3557085+00:00",
-  "LastChanged_Achievements": "2023-12-03T11:06:39.2757194+00:00",
+  "LastChanged_Achievements": "2023-12-03T12:08:08.9951777+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:29.380073+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:00:12.2916809+00:00",
-  "LastUpdate_Achievements": "2023-12-03T11:06:39.2757874+00:00"
+  "LastUpdate_Ratings": "2023-12-03T11:59:58.737008+00:00",
+  "LastUpdate_Achievements": "2023-12-03T12:08:08.9952299+00:00"
 }

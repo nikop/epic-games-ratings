@@ -177,7 +177,7 @@
   ],
   "EOS_Progressed": 843,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2247,9 +2247,9 @@
       "ID": "PrometheusUnbound",
       "SetID": "1n308hc",
       "Name": "Prometheus Unbound",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 25
     },
     {
       "ID": "PuzzleFiend",
@@ -2311,9 +2311,9 @@
       "ID": "SouthernCoast",
       "SetID": "1n308hc",
       "Name": "Southern Coast",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 25
     },
     {
       "ID": "TeamSpirit",
@@ -2335,9 +2335,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 51
     },
     {
       "ID": "TheEdgeOfForever",
@@ -2456,8 +2456,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-02T13:02:26.2646778+00:00",
-  "LastChanged_Achievements": "2023-12-03T11:04:46.151428+00:00",
+  "LastChanged_Achievements": "2023-12-03T12:04:50.9845638+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-03T10:57:42.0283191+00:00",
-  "LastUpdate_Achievements": "2023-12-03T11:04:46.1514851+00:00"
+  "LastUpdate_Ratings": "2023-12-03T11:57:24.8683451+00:00",
+  "LastUpdate_Achievements": "2023-12-03T12:04:50.9846196+00:00"
 }

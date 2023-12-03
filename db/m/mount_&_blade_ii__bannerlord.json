@@ -9396,9 +9396,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 66969,
+  "EOS_Progressed": 66972,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 769,
+  "EOS_NewPlayers": 765,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33356,6 +33356,11 @@
       "Time": "2023-12-03T10:09:36.19985+00:00",
       "NumProgressed": 66969,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T12:10:03.9833875+00:00",
+      "NumProgressed": 66972,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -33375,7 +33380,7 @@
       "Name": "Apple of my eye",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10715
+      "UsersEstimate": 10716
     },
     {
       "ID": "Bannerlord",
@@ -33423,7 +33428,7 @@
       "Name": "Crowdfunded",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3348
+      "UsersEstimate": 3349
     },
     {
       "ID": "Crackshot",
@@ -33439,7 +33444,7 @@
       "Name": "Crush your enemies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3348
+      "UsersEstimate": 3349
     },
     {
       "ID": "Duelist",
@@ -33535,7 +33540,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10715
+      "UsersEstimate": 10716
     },
     {
       "ID": "I spit on your grave",
@@ -33559,7 +33564,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 12054
+      "UsersEstimate": 12055
     },
     {
       "ID": "Kingslayer",
@@ -33591,7 +33596,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 22100
+      "UsersEstimate": 22101
     },
     {
       "ID": "Lawbringer",
@@ -33599,7 +33604,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26788
+      "UsersEstimate": 26789
     },
     {
       "ID": "Lawmaker",
@@ -33647,7 +33652,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3348
+      "UsersEstimate": 3349
     },
     {
       "ID": "Real Estate",
@@ -33719,7 +33724,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12724
+      "UsersEstimate": 12725
     },
     {
       "ID": "This Is Our Land",
@@ -33774,15 +33779,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 66969,
+      "Progressed": 66972,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-12-03T09:58:16.3910195+00:00",
-  "LastChanged_Achievements": "2023-12-03T11:09:31.743266+00:00",
+  "LastChanged_Achievements": "2023-12-03T12:10:03.9833872+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:33.4590063+00:00",
-  "LastUpdate_Ratings": "2023-12-03T10:58:34.2067882+00:00",
-  "LastUpdate_Achievements": "2023-12-03T11:09:31.7434122+00:00"
+  "LastUpdate_Ratings": "2023-12-03T11:58:18.7430005+00:00",
+  "LastUpdate_Achievements": "2023-12-03T12:10:03.9835244+00:00"
 }

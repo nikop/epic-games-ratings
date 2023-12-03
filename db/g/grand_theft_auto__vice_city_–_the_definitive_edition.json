@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 443,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -889,9 +889,9 @@
       "Count": 113
     }
   ],
-  "EOS_Progressed": 11161,
+  "EOS_Progressed": 11162,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -13539,6 +13539,11 @@
       "Time": "2023-12-03T10:08:47.9529263+00:00",
       "NumProgressed": 11161,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-12-03T12:09:15.7617223+00:00",
+      "NumProgressed": 11162,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -13678,7 +13683,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "ACH18",
@@ -13782,7 +13787,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "ACH31",
@@ -13821,7 +13826,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11161,
+      "Progressed": 11162,
       "Completed": 65
     }
   ],
@@ -13829,8 +13834,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-29T23:57:12.1687607+00:00",
-  "LastChanged_Achievements": "2023-12-03T11:08:44.2553503+00:00",
+  "LastChanged_Achievements": "2023-12-03T12:09:15.7617218+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:55.5499109+00:00",
-  "LastUpdate_Ratings": "2023-12-03T10:59:17.4976303+00:00",
-  "LastUpdate_Achievements": "2023-12-03T11:08:44.2554149+00:00"
+  "LastUpdate_Ratings": "2023-12-03T11:59:02.0529829+00:00",
+  "LastUpdate_Achievements": "2023-12-03T12:09:15.7617912+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "267b56359a8c45ee9154861187de210b",
   "Name": "Marble It Up! Ultra",
   "ProductSlug": "marble-it-up-ultra-7b5692",
-  "Ranking_EOS_Progress": 493,
+  "Ranking_EOS_Progress": 494,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 490,
+  "Ranking_EOS_NewPlayers": 491,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -532,17 +532,17 @@
       "ID": "beat_c3_gold",
       "SetID": "3448go",
       "Name": "Storm the Citadel",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "beat_c3_silver",
       "SetID": "3448go",
       "Name": "Power-Ups and Downs",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "beat_c3a_bronze",
@@ -979,8 +979,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-12-03T11:05:14.4014753+00:00",
+  "LastChanged_Achievements": "2023-12-03T12:05:19.3345224+00:00",
   "LastUpdate_AppInfo": "2023-11-30T02:19:29.0815732+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:00:16.9360979+00:00",
-  "LastUpdate_Achievements": "2023-12-03T11:05:14.4015444+00:00"
+  "LastUpdate_Ratings": "2023-12-03T12:00:03.2941894+00:00",
+  "LastUpdate_Achievements": "2023-12-03T12:05:19.3346055+00:00"
 }

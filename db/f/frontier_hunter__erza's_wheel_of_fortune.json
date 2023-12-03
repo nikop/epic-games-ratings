@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 511,
+  "EOS_Progressed": 512,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1597,6 +1597,11 @@
       "Time": "2023-12-03T11:08:07.7270333+00:00",
       "NumProgressed": 511,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T12:08:37.9498589+00:00",
+      "NumProgressed": 512,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1608,7 +1613,7 @@
       "Name": "Travel Streamer",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1630,17 +1635,17 @@
       "ID": "ACHIEVEMENT_12",
       "SetID": "7pimpda",
       "Name": "Nosebleeder",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 128
     },
     {
       "ID": "ACHIEVEMENT_13",
       "SetID": "7pimpda",
       "Name": "Flying Kobold Killer",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 92
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -1678,9 +1683,9 @@
       "ID": "ACHIEVEMENT_18",
       "SetID": "7pimpda",
       "Name": "Kind Adventurer",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -1688,7 +1693,7 @@
       "Name": "Mermaid Killer",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -1696,7 +1701,7 @@
       "Name": "Training Simulation",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1734,9 +1739,9 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "7pimpda",
       "Name": "Arms Mechanic",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 230
+      "UsersEstimate": 236
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -1760,7 +1765,7 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -1768,15 +1773,15 @@
       "Name": "Trader",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACHIEVEMENT_3",
       "SetID": "7pimpda",
       "Name": "Kuku Bird Hunter",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 317
+      "UsersEstimate": 323
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1864,7 +1869,7 @@
       "Name": "Storm Traveller",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -1926,9 +1931,9 @@
       "ID": "ACHIEVEMENT_5",
       "SetID": "7pimpda",
       "Name": "Wolf King Killer",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 261
+      "UsersEstimate": 266
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -1952,7 +1957,7 @@
       "Name": "Seal Breaker",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -1967,7 +1972,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 511,
+      "Progressed": 512,
       "Completed": 1
     }
   ],
@@ -1975,8 +1980,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-03T11:08:07.727033+00:00",
+  "LastChanged_Achievements": "2023-12-03T12:08:37.9498586+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.7212859+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:00:45.2070549+00:00",
-  "LastUpdate_Achievements": "2023-12-03T11:08:07.727075+00:00"
+  "LastUpdate_Ratings": "2023-12-03T12:02:41.160307+00:00",
+  "LastUpdate_Achievements": "2023-12-03T12:08:37.9498957+00:00"
 }

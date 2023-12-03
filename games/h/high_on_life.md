@@ -5,6 +5,7 @@ Rating: 4.64 (Ranked 334)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Cold-Blooded Driller | 4.00% | ~985 |
 | Creature Feature | 3.00% | ~739 |
 | Satisfied Gus-tomer | 3.00% | ~739 |
 | Are You Packin'? | 3.00% | ~739 |
@@ -13,7 +14,6 @@ Rating: 4.64 (Ranked 334)
 | We're All Very Impressed, Trust Me | 3.00% | ~739 |
 | First Bounty Down | 3.00% | ~739 |
 | G3 Graduation | 3.00% | ~739 |
-| Cold-Blooded Driller | 3.00% | ~739 |
 | Who's The Boss? | 3.00% | ~739 |
 | Don't Knife The Hand That Feeds | 3.00% | ~739 |
 | Lezduit! | 2.00% | ~493 |
@@ -50,8 +50,8 @@ Rating: 4.64 (Ranked 334)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,636 (Ranked 131)  
-Completed: 14 (0.06%) (Ranked 311)  
+Progressed: 24,637 (Ranked 131)  
+Completed: 14 (0.06%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -276,7 +276,7 @@ Completed: 14 (0.06%) (Ranked 311)
 | 2023-11-30 | 24,613 | 14 |
 | 2023-12-01 | 24,623 | 14 |
 | 2023-12-02 | 24,629 | 14 |
-| 2023-12-03 | 24,636 | 14 |
+| 2023-12-03 | 24,637 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

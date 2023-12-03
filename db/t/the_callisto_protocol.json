@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -9573,9 +9573,9 @@
       "ID": "STORY_ESCAPE",
       "SetID": "4hj6d86",
       "Name": "If the SHU Fits...",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 825
+      "UsersEstimate": 990
     },
     {
       "ID": "STORY_HABITAT",
@@ -9764,8 +9764,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-02T10:02:58.7832752+00:00",
-  "LastChanged_Achievements": "2023-12-03T11:08:23.8114909+00:00",
+  "LastChanged_Achievements": "2023-12-03T12:08:54.5331359+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:15.6187637+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:03:00.2603604+00:00",
-  "LastUpdate_Achievements": "2023-12-03T11:08:23.8115654+00:00"
+  "LastUpdate_Ratings": "2023-12-03T12:03:10.6151342+00:00",
+  "LastUpdate_Achievements": "2023-12-03T12:08:54.5332005+00:00"
 }

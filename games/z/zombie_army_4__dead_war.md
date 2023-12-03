@@ -32,7 +32,7 @@ Number of Ratings: 743  (23.09.2022)
 | You're all going to die down here | 32.00% | ~14,098 |
 | He did Nazi that coming | 32.00% | ~14,098 |
 | Kill of the week | 31.00% | ~13,657 |
-| I never liked them anyway | 30.00% | ~13,217 |
+| I never liked them anyway | 31.00% | ~13,657 |
 | Is it over? | 28.00% | ~12,336 |
 | Got your back | 27.00% | ~11,895 |
 | Gore soaked | 24.00% | ~10,573 |
@@ -74,7 +74,7 @@ Number of Ratings: 743  (23.09.2022)
 | None more hard | 0.60% | ~264 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 44,056 (Ranked 117)  
-Completed: 25 (0.06%) (Ranked 311)  
+Completed: 25 (0.06%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

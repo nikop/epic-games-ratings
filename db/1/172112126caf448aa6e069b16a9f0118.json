@@ -2,9 +2,9 @@
   "ID": "172112126caf448aa6e069b16a9f0118",
   "Name": "Forest Grove",
   "ProductSlug": "forest-grove-6b05cf",
-  "Ranking_EOS_Progress": 551,
-  "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_Progress": 549,
+  "Ranking_EOS_Completed": 88,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-11-28T13:00:00+00:00",
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 23,
+  "EOS_Progressed": 24,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.35,
+  "EOS_Completed_Percentage": 4.17,
   "EosHistory": [
     {
       "Time": "2023-10-10T13:09:13.100464+00:00",
@@ -97,6 +97,11 @@
       "Time": "2023-12-02T18:03:59.1708893+00:00",
       "NumProgressed": 23,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T12:04:05.7529025+00:00",
+      "NumProgressed": 24,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-10T13:09:13.1022392+00:00",
@@ -107,7 +112,7 @@
       "ID": "1",
       "SetID": "36pe9e2",
       "Name": "Entered the Nanodeck",
-      "Percentage": 61,
+      "Percentage": 58,
       "XP": 50,
       "UsersEstimate": 14
     },
@@ -123,7 +128,7 @@
       "ID": "11",
       "SetID": "36pe9e2",
       "Name": "Felt Sadness",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 90,
       "UsersEstimate": 2
     },
@@ -155,7 +160,7 @@
       "ID": "4",
       "SetID": "36pe9e2",
       "Name": "Played the Piano",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 90,
       "UsersEstimate": 2
     },
@@ -163,7 +168,7 @@
       "ID": "5",
       "SetID": "36pe9e2",
       "Name": "Set the Time",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 90,
       "UsersEstimate": 2
     },
@@ -204,13 +209,13 @@
     {
       "ID": "36pe9e2",
       "IsBase": true,
-      "Progressed": 23,
+      "Progressed": 24,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-10-10T13:09:13.1022391+00:00",
-  "LastChanged_Achievements": "2023-12-03T11:04:02.1734129+00:00",
+  "LastChanged_Achievements": "2023-12-03T12:04:05.7529022+00:00",
   "LastUpdate_AppInfo": "2023-11-28T18:57:03.2699178+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:00:09.3756036+00:00",
-  "LastUpdate_Achievements": "2023-12-03T11:04:02.1734212+00:00"
+  "LastUpdate_Ratings": "2023-12-03T11:59:55.7886095+00:00",
+  "LastUpdate_Achievements": "2023-12-03T12:04:05.7529095+00:00"
 }

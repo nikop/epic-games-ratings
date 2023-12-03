@@ -6,7 +6,7 @@
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 131,
-  "Ranking_EOS_Completed": 311,
+  "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24636,
+  "EOS_Progressed": 24637,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7233,6 +7233,11 @@
       "Time": "2023-12-03T08:03:48.992468+00:00",
       "NumProgressed": 24636,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-03T12:04:07.0466713+00:00",
+      "NumProgressed": 24637,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -7402,9 +7407,9 @@
       "ID": "ACH_KILL_KRUBIS",
       "SetID": "cdkbb11",
       "Name": "Cold-Blooded Driller",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 739
+      "UsersEstimate": 985
     },
     {
       "ID": "ACH_KILL_NIPULON",
@@ -7595,13 +7600,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24636,
+      "Progressed": 24637,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1929,
+      "Progressed": 1930,
       "Completed": 1376
     }
   ],
@@ -7609,8 +7614,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-11-08T23:02:28.6590221+00:00",
-  "LastChanged_Achievements": "2023-12-03T11:04:03.3230956+00:00",
+  "LastChanged_Achievements": "2023-12-03T12:04:07.046671+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:04.790571+00:00",
-  "LastUpdate_Ratings": "2023-12-03T10:59:33.428423+00:00",
-  "LastUpdate_Achievements": "2023-12-03T11:04:03.3231573+00:00"
+  "LastUpdate_Ratings": "2023-12-03T11:59:17.984724+00:00",
+  "LastUpdate_Achievements": "2023-12-03T12:04:07.0467215+00:00"
 }

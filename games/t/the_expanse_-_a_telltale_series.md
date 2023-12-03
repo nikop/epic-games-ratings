@@ -10,9 +10,9 @@ Rating: 4.54 (Ranked 528)
 | Bosmang | 7.00% | ~1,110 |
 | Captain Drummer | 7.00% | ~1,110 |
 | Celebrations are in Order | 7.00% | ~1,110 |
+| Impossible Objects | 7.00% | ~1,110 |
 | Martian Music | 6.00% | ~951 |
 | Drone Dodger | 6.00% | ~951 |
-| Impossible Objects | 6.00% | ~951 |
 | Safe Cracker | 6.00% | ~109 |
 | Zen Master | 6.00% | ~109 |
 | Madame Undersecretary | 6.00% | ~109 |

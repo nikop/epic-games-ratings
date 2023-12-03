@@ -21,10 +21,10 @@ Number of Ratings: 292  (23.09.2022)
 | Landlord Extraordinaire | 3.00% | ~10 |
 | Master | 3.00% | ~10 |
 | The Song of Stoutheart | 2.00% | ~7 |
+| This Spot's Taken | 2.00% | ~7 |
 | Such A Fungi | 2.00% | ~7 |
 | Trojan Horse | 2.00% | ~7 |
 | Pyrrhic Victory | 2.00% | ~7 |
-| This Spot's Taken | 1.00% | ~3 |
 | Deepstrike | 1.00% | ~3 |
 | Infernal Influence | 1.00% | ~3 |
 | Versatile Wielder | 0.90% | ~3 |
@@ -35,6 +35,7 @@ Number of Ratings: 292  (23.09.2022)
 | Coming Through! | 0.60% | ~2 |
 | Barbecue | 0.60% | ~2 |
 | From the Ashes | 0.60% | ~2 |
+| The Marsh Expands | 0.60% | ~2 |
 | Cleave | 0.60% | ~2 |
 | Grand Master | 0.60% | ~2 |
 | Hello There | 0.30% | ~1 |
@@ -42,7 +43,6 @@ Number of Ratings: 292  (23.09.2022)
 | In The Thick of It | 0.30% | ~1 |
 | Together For Her | 0.30% | ~1 |
 | An Empress's Hope | 0.30% | ~1 |
-| The Marsh Expands | 0.30% | ~1 |
 | Get Over Here! | 0.30% | ~1 |
 | Bringer of Ruin | 0.00% | ~0 |
 | Attack Bonanza | 0.00% | ~0 |
