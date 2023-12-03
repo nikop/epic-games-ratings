@@ -16,7 +16,7 @@
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.47% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Overloop](games/o/overloop.md) | 25.00% |
-| 17 | [The Riflemen](games/t/the_riflemen.md) | 24.55% |
+| 17 | [The Riflemen](games/t/the_riflemen.md) | 24.51% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 20 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
@@ -56,10 +56,10 @@
 | 53 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.69% |
 | 55 | [Ravenlok](games/r/ravenlok.md) | 7.67% |
 | 56 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.53% |
-| 57 | [Anna's Quest](games/a/anna's_quest.md) | 7.14% |
-| 57 | [Sonic Origins](games/s/sonic_origins.md) | 7.14% |
-| 57 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 7.14% |
-| 60 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.10% |
+| 57 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.16% |
+| 58 | [Anna's Quest](games/a/anna's_quest.md) | 7.14% |
+| 58 | [Sonic Origins](games/s/sonic_origins.md) | 7.14% |
+| 58 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 7.14% |
 | 61 | [Scorn](games/s/scorn.md) | 7.09% |
 | 62 | [Time Loader](games/t/time_loader.md) | 7.03% |
 | 63 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.67% |
@@ -166,9 +166,9 @@
 | 164 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.05% |
 | 164 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.05% |
 | 166 | [The Devil's Face](games/t/the_devil's_face.md) | 1.04% |
-| 167 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.02% |
-| 168 | [Sable](games/s/sable.md) | 1.01% |
-| 169 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.00% |
+| 167 | [Sable](games/s/sable.md) | 1.01% |
+| 167 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.01% |
+| 169 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.99% |
 | 170 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.98% |
 | 171 | [Trifox](games/t/trifox.md) | 0.96% |
 | 172 | [A Musical Story](games/a/a_musical_story.md) | 0.94% |
@@ -190,11 +190,11 @@
 | 188 | [Haven](games/h/haven.md) | 0.65% |
 | 189 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.63% |
 | 190 | [Dead Space](games/d/dead_space.md) | 0.62% |
-| 191 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.61% |
-| 192 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.60% |
-| 192 | [Potion Permit](games/p/potion_permit.md) | 0.60% |
-| 192 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.60% |
-| 192 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.60% |
+| 191 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.60% |
+| 191 | [Potion Permit](games/p/potion_permit.md) | 0.60% |
+| 191 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.60% |
+| 191 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.60% |
+| 191 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.60% |
 | 196 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.59% |
 | 196 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
 | 198 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.58% |
@@ -202,8 +202,8 @@
 | 200 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.56% |
 | 201 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 201 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.55% |
-| 201 | [Tails of Iron](games/t/tails_of_iron.md) | 0.55% |
-| 204 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.54% |
+| 203 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.54% |
+| 203 | [Tails of Iron](games/t/tails_of_iron.md) | 0.54% |
 | 205 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.52% |
 | 205 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.52% |
 | 207 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.51% |
@@ -283,14 +283,14 @@
 | 280 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.12% |
 | 280 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.12% |
 | 283 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.11% |
+| 283 | [GRIME](games/g/grime.md) | 0.11% |
 | 283 | [Isonzo](games/i/isonzo.md) | 0.11% |
 | 283 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
 | 283 | [Partisans 1941](games/p/partisans_1941.md) | 0.11% |
-| 287 | [Black Book](games/b/black_book.md) | 0.10% |
-| 287 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.10% |
-| 287 | [GRIME](games/g/grime.md) | 0.10% |
-| 287 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 287 | [Supraland](games/s/supraland.md) | 0.10% |
+| 288 | [Black Book](games/b/black_book.md) | 0.10% |
+| 288 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.10% |
+| 288 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 288 | [Supraland](games/s/supraland.md) | 0.10% |
 | 292 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 292 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 0.09% |
 | 292 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 0.09% |
