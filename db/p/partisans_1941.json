@@ -304,7 +304,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1819,
+  "EOS_Progressed": 1820,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
@@ -4249,6 +4249,11 @@
       "Time": "2023-12-02T21:09:18.9672853+00:00",
       "NumProgressed": 1819,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-03T10:08:39.5839713+00:00",
+      "NumProgressed": 1820,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4340,7 +4345,7 @@
       "Name": "E1M1",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "Everyone_is_here",
@@ -4372,7 +4377,7 @@
       "Name": "Grenadier",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "Hard_Serpent",
@@ -4386,9 +4391,9 @@
       "ID": "Heroes_never_die",
       "SetID": "85nb4h3",
       "Name": "Heroes Never Die",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 709
+      "UsersEstimate": 728
     },
     {
       "ID": "High_noon",
@@ -4476,7 +4481,7 @@
       "Name": "War Never Changes",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "We_were_not_here",
@@ -4499,15 +4504,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1819,
+      "Progressed": 1820,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-12-03T09:08:46.2929425+00:00",
+  "LastChanged_Achievements": "2023-12-03T10:08:39.583971+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:23.2476007+00:00",
-  "LastUpdate_Ratings": "2023-12-03T09:00:09.522604+00:00",
-  "LastUpdate_Achievements": "2023-12-03T09:08:46.293002+00:00"
+  "LastUpdate_Ratings": "2023-12-03T09:59:46.1891164+00:00",
+  "LastUpdate_Achievements": "2023-12-03T10:08:39.5840009+00:00"
 }

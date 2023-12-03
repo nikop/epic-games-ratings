@@ -3,7 +3,7 @@
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 386,
-  "Ranking_Popularity": 479,
+  "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 274,
@@ -509,7 +509,7 @@
   ],
   "EOS_Progressed": 5563,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7815,9 +7815,9 @@
       "ID": "17",
       "SetID": "3aa2279",
       "Name": "Lord of Chaos",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 39
     },
     {
       "ID": "18",
@@ -8015,9 +8015,9 @@
       "ID": "4",
       "SetID": "3aa2279",
       "Name": "The Eternal Court",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 39
     },
     {
       "ID": "40",
@@ -8246,8 +8246,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-29T19:59:17.4564892+00:00",
-  "LastChanged_Achievements": "2023-12-03T09:05:25.8084967+00:00",
+  "LastChanged_Achievements": "2023-12-03T10:05:18.6446475+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:28.1716609+00:00",
-  "LastUpdate_Ratings": "2023-12-03T08:58:20.9984136+00:00",
-  "LastUpdate_Achievements": "2023-12-03T09:05:25.8085654+00:00"
+  "LastUpdate_Ratings": "2023-12-03T09:58:05.6983004+00:00",
+  "LastUpdate_Achievements": "2023-12-03T10:05:18.6447203+00:00"
 }

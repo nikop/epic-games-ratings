@@ -6,29 +6,29 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.90% | ~9,578 |
-| Skillful | 0.90% | ~9,578 |
-| Zealous | 0.70% | ~7,450 |
-| Not half bad | 0.70% | ~7,450 |
+| It wakes | 0.90% | ~9,580 |
+| Skillful | 0.90% | ~9,580 |
+| Zealous | 0.70% | ~7,451 |
+| Not half bad | 0.70% | ~7,451 |
 | Apt Survivor | 0.60% | ~6,386 |
 | Survival Treasures | 0.60% | ~6,386 |
 | I | 0.60% | ~6,386 |
 | Make Some Noise | 0.60% | ~6,386 |
-| No one left behind | 0.50% | ~5,321 |
-| Medic | 0.50% | ~5,321 |
-| Handyman | 0.50% | ~5,321 |
-| Sorted | 0.50% | ~5,321 |
-| Resurgence | 0.50% | ~5,321 |
-| The Grand Sacrifice | 0.40% | ~4,257 |
-| Agonizing Escape | 0.40% | ~4,257 |
-| Backdoor Escape | 0.40% | ~4,257 |
-| Perfect Escape | 0.40% | ~4,257 |
-| Bloody Millionaire | 0.40% | ~4,257 |
-| II | 0.40% | ~4,257 |
-| Healthy Obsession | 0.40% | ~4,257 |
-| Close Shave | 0.40% | ~4,257 |
-| Preemptive Strike | 0.40% | ~4,257 |
-| Humanitarian | 0.40% | ~4,257 |
+| No one left behind | 0.50% | ~5,322 |
+| Medic | 0.50% | ~5,322 |
+| Handyman | 0.50% | ~5,322 |
+| Sorted | 0.50% | ~5,322 |
+| Healthy Obsession | 0.50% | ~5,322 |
+| Resurgence | 0.50% | ~5,322 |
+| The Grand Sacrifice | 0.40% | ~4,258 |
+| Agonizing Escape | 0.40% | ~4,258 |
+| Backdoor Escape | 0.40% | ~4,258 |
+| Perfect Escape | 0.40% | ~4,258 |
+| Bloody Millionaire | 0.40% | ~4,258 |
+| II | 0.40% | ~4,258 |
+| Close Shave | 0.40% | ~4,258 |
+| Preemptive Strike | 0.40% | ~4,258 |
+| Humanitarian | 0.40% | ~4,258 |
 | I've got your back | 0.30% | ~3,193 |
 | Perfect Killing | 0.30% | ~3,193 |
 | Apt Killer | 0.30% | ~3,193 |
@@ -37,6 +37,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | III | 0.30% | ~3,193 |
 | Engineer | 0.30% | ~3,193 |
 | Wounded Healer | 0.30% | ~3,193 |
+| With Scars to Show | 0.30% | ~3,193 |
 | Lifting The Fog | 0.30% | ~3,193 |
 | Blood on your hands | 0.20% | ~2,129 |
 | Blood on your face | 0.20% | ~2,129 |
@@ -65,7 +66,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Classy Act | 0.20% | ~2,129 |
 | Every Last Drop | 0.20% | ~2,129 |
 | Raccoon City Recruit | 0.20% | ~2,129 |
-| With Scars to Show | 0.20% | ~2,129 |
 | Flight to Freedom | 0.20% | ~2,129 |
 | Chorus of Chaos | 0.20% | ~2,129 |
 | One More Step | 0.20% | ~2,129 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,064 |
 | Adept Good Guy | 0.10% | ~1,064 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,064,256 (Ranked 14)  
+Progressed: 1,064,411 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -466,7 +466,7 @@ Completed: 61 (0.01%) (Ranked 344)
 | 2023-11-30 | 1,056,530 | 61 |
 | 2023-12-01 | 1,059,298 | 61 |
 | 2023-12-02 | 1,062,340 | 61 |
-| 2023-12-03 | 1,064,256 | 61 |
+| 2023-12-03 | 1,064,411 | 61 |
 ## Awards
 Max (Diverse Characters): 37,095  (Ranked 15)  
 Sum: 281,988 (Ranked 12)  

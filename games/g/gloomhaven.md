@@ -6,15 +6,15 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 41.00% | ~9,962 |
-| Overkill | 34.00% | ~8,261 |
-| Vaccine Incoming | 33.00% | ~8,018 |
-| A normal day in Gloomhaven | 31.00% | ~7,532 |
-| Spread the plague | 29.00% | ~7,046 |
-| Get over here! | 25.00% | ~6,074 |
-| Just when I thought I was out... | 19.00% | ~4,617 |
-| Precious! | 17.00% | ~4,131 |
-| Mine... All Mine... | 17.00% | ~4,131 |
+| I'm not dead yet | 41.00% | ~9,964 |
+| Overkill | 34.00% | ~8,263 |
+| Vaccine Incoming | 33.00% | ~8,020 |
+| A normal day in Gloomhaven | 31.00% | ~7,534 |
+| Spread the plague | 29.00% | ~7,048 |
+| Get over here! | 25.00% | ~6,076 |
+| Just when I thought I was out... | 19.00% | ~4,618 |
+| Precious! | 17.00% | ~4,132 |
+| Mine... All Mine... | 17.00% | ~4,132 |
 | Grizzled veteran | 15.00% | ~3,645 |
 | Anatomy Lesson | 15.00% | ~3,645 |
 | Light of my life | 14.00% | ~3,402 |
@@ -51,8 +51,8 @@ Number of Ratings: 68  (23.09.2022)
 | New Blood | 1.00% | ~243 |
 | Betray this | 0.90% | ~219 |
 | Spoiler police! | 0.90% | ~219 |
-| The Pacifist | 0.50% | ~121 |
-| Born Support | 0.50% | ~121 |
+| The Pacifist | 0.50% | ~122 |
+| Born Support | 0.50% | ~122 |
 | A tough job | 0.40% | ~97 |
 | The evil that men do | 0.30% | ~73 |
 | MacReady Steady.. Go! | 0.30% | ~73 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~24 |
 | Murder Death Kill | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,298 (Ranked 133)  
+Progressed: 24,303 (Ranked 133)  
 Completed: 1 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 1 (0.00%) (Ranked 365)
 | 2023-11-30 | 23,863 | 1 |
 | 2023-12-01 | 24,042 | 1 |
 | 2023-12-02 | 24,205 | 1 |
-| 2023-12-03 | 24,298 | 1 |
+| 2023-12-03 | 24,303 | 1 |
 ## Awards
 Max (Character Customization): 3,590  (Ranked 90)  
 Sum: 8,396 (Ranked 101)  

@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 75.00% | ~60 |
+| My Papyrus! | 75.00% | ~61 |
 | A Loyal Friend | 36.00% | ~29 |
 | Abandon Ship! | 21.00% | ~17 |
-| The Tomb of Kih-Oskh | 18.00% | ~14 |
+| The Tomb of Kih-Oskh | 17.00% | ~14 |
 | The Weighing of the Soul | 14.00% | ~11 |
 | The Curse of Kih-Oskh | 9.00% | ~7 |
-| Cat Lover | 8.00% | ~6 |
-| It's a Deal! | 8.00% | ~6 |
+| Cat Lover | 7.00% | ~6 |
+| It's a Deal! | 7.00% | ~6 |
 | Dynamite, Treason and Coconuts | 6.00% | ~5 |
 | In the Name of the Law | 5.00% | ~4 |
 | Au Revoir, Abudin | 5.00% | ~4 |
@@ -26,9 +26,9 @@
 | Long Live Gaipajama! | 4.00% | ~3 |
 | The Corporal's Golden Boy | 4.00% | ~3 |
 | Punctual | 4.00% | ~3 |
-| Eyes Shut | 3.00% | ~2 |
-| A Diagnosis | 3.00% | ~2 |
-| Threat | 3.00% | ~2 |
+| Eyes Shut | 2.00% | ~2 |
+| A Diagnosis | 2.00% | ~2 |
+| Threat | 2.00% | ~2 |
 | Tintin, Reporter | 1.00% | ~1 |
 | Mountain Runner | 1.00% | ~1 |
 | A Yummy Detour | 1.00% | ~1 |
@@ -42,7 +42,7 @@
 | Broken Brotherhood | 0.00% | ~0 |
 | Guilt | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80 (Ranked 462)  
+Progressed: 81 (Ranked 460)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,3 +65,4 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-30 | 77 | 0 |
 | 2023-12-01 | 78 | 0 |
 | 2023-12-02 | 80 | 0 |
+| 2023-12-03 | 81 | 0 |

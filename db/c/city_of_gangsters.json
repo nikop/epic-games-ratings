@@ -856,9 +856,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 355014,
+  "EOS_Progressed": 355023,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 905,
+  "EOS_NewPlayers": 909,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26641,6 +26641,11 @@
       "Time": "2023-12-03T09:04:39.7628719+00:00",
       "NumProgressed": 355014,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-03T10:04:35.5159485+00:00",
+      "NumProgressed": 355023,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -26652,7 +26657,7 @@
       "Name": "Corner Opportunities",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10650
+      "UsersEstimate": 10651
     },
     {
       "ID": "ach002",
@@ -26668,7 +26673,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42602
+      "UsersEstimate": 42603
     },
     {
       "ID": "ach004",
@@ -26684,7 +26689,7 @@
       "Name": "2122 North Clark Street",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10650
+      "UsersEstimate": 10651
     },
     {
       "ID": "ach006",
@@ -26708,7 +26713,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42602
+      "UsersEstimate": 42603
     },
     {
       "ID": "ach009",
@@ -26740,7 +26745,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28401
+      "UsersEstimate": 28402
     },
     {
       "ID": "ach013",
@@ -26756,7 +26761,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 53252
+      "UsersEstimate": 53253
     },
     {
       "ID": "ach015",
@@ -26780,7 +26785,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 46152
+      "UsersEstimate": 46153
     },
     {
       "ID": "ach018",
@@ -26788,7 +26793,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28401
+      "UsersEstimate": 28402
     },
     {
       "ID": "ach019",
@@ -26804,7 +26809,7 @@
       "Name": "Copious Cabbage",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 10650
+      "UsersEstimate": 10651
     },
     {
       "ID": "ach021",
@@ -26812,7 +26817,7 @@
       "Name": "Sockdolager",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10650
+      "UsersEstimate": 10651
     },
     {
       "ID": "ach022",
@@ -26860,7 +26865,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 163306
+      "UsersEstimate": 163311
     },
     {
       "ID": "ach028",
@@ -26876,7 +26881,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39052
+      "UsersEstimate": 39053
     },
     {
       "ID": "ach030",
@@ -26956,7 +26961,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35501
+      "UsersEstimate": 35502
     },
     {
       "ID": "ach040",
@@ -26988,7 +26993,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24851
+      "UsersEstimate": 24852
     },
     {
       "ID": "ach044",
@@ -27004,7 +27009,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 46152
+      "UsersEstimate": 46153
     },
     {
       "ID": "ach046",
@@ -27012,7 +27017,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24851
+      "UsersEstimate": 24852
     },
     {
       "ID": "ach047",
@@ -27052,7 +27057,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39052
+      "UsersEstimate": 39053
     },
     {
       "ID": "ach052",
@@ -27068,7 +27073,7 @@
       "Name": "Still Stalwart",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10650
+      "UsersEstimate": 10651
     },
     {
       "ID": "ach054",
@@ -27076,7 +27081,7 @@
       "Name": "Bees Knees Bootlegger",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 10650
+      "UsersEstimate": 10651
     },
     {
       "ID": "ach055",
@@ -27108,7 +27113,7 @@
       "Name": "Tighten the Screws",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10650
+      "UsersEstimate": 10651
     },
     {
       "ID": "ach059",
@@ -27116,7 +27121,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35501
+      "UsersEstimate": 35502
     },
     {
       "ID": "ach060",
@@ -27164,7 +27169,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 49702
+      "UsersEstimate": 49703
     },
     {
       "ID": "ach067",
@@ -27180,7 +27185,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 56802
+      "UsersEstimate": 56804
     },
     {
       "ID": "ach069",
@@ -27188,7 +27193,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 49702
+      "UsersEstimate": 49703
     },
     {
       "ID": "ach070",
@@ -27260,7 +27265,7 @@
       "Name": "People Person",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24851
+      "UsersEstimate": 24852
     },
     {
       "ID": "ach079",
@@ -27291,7 +27296,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 355014,
+      "Progressed": 355023,
       "Completed": 7
     }
   ],
@@ -27299,8 +27304,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-12-02T15:03:01.020756+00:00",
-  "LastChanged_Achievements": "2023-12-03T09:04:39.7628716+00:00",
+  "LastChanged_Achievements": "2023-12-03T10:04:35.5159482+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:09.0169735+00:00",
-  "LastUpdate_Ratings": "2023-12-03T09:02:51.9355346+00:00",
-  "LastUpdate_Achievements": "2023-12-03T09:04:39.7630315+00:00"
+  "LastUpdate_Ratings": "2023-12-03T10:02:52.9912045+00:00",
+  "LastUpdate_Achievements": "2023-12-03T10:04:35.5161312+00:00"
 }

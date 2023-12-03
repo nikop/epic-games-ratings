@@ -1413,9 +1413,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 23592,
+  "EOS_Progressed": 23593,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 375,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -25958,6 +25958,11 @@
       "Time": "2023-12-03T09:04:04.4761873+00:00",
       "NumProgressed": 23592,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-12-03T10:04:02.2252599+00:00",
+      "NumProgressed": 23593,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 45,
@@ -26057,7 +26062,7 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 10616
+      "UsersEstimate": 10617
     },
     {
       "ID": "ICallItLuck",
@@ -26105,7 +26110,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 17930
+      "UsersEstimate": 17931
     },
     {
       "ID": "MoreThanHuman",
@@ -26153,7 +26158,7 @@
       "Name": "Out of order",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 10380
+      "UsersEstimate": 10381
     },
     {
       "ID": "Perfection",
@@ -26161,7 +26166,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 7549
+      "UsersEstimate": 7550
     },
     {
       "ID": "PreempativeStrike",
@@ -26241,7 +26246,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 14391
+      "UsersEstimate": 14392
     },
     {
       "ID": "SwordToAGunfight",
@@ -26328,21 +26333,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 23592,
+      "Progressed": 23593,
       "Completed": 61
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 23592,
+      "Progressed": 23593,
       "Completed": 92
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-12-02T14:58:23.0197625+00:00",
-  "LastChanged_Achievements": "2023-12-03T09:04:04.4761872+00:00",
+  "LastChanged_Achievements": "2023-12-03T10:04:02.2252596+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:38.525099+00:00",
-  "LastUpdate_Ratings": "2023-12-03T08:58:42.9234103+00:00",
-  "LastUpdate_Achievements": "2023-12-03T09:04:04.4762994+00:00"
+  "LastUpdate_Ratings": "2023-12-03T09:58:25.4333822+00:00",
+  "LastUpdate_Achievements": "2023-12-03T10:04:02.2254012+00:00"
 }

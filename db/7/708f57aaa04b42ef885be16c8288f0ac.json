@@ -2,7 +2,7 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_Rating": 106,
+  "Ranking_Rating": 105,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 179,
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7321,
+  "EOS_Progressed": 7323,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 698,
+  "EOS_NewPlayers": 688,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5357,6 +5357,11 @@
       "Time": "2023-12-03T09:09:33.4679734+00:00",
       "NumProgressed": 7321,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-03T10:09:23.7932064+00:00",
+      "NumProgressed": 7323,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5425,7 +5430,7 @@
       "Name": "Explosive Personality",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "FasterThanLight",
@@ -5441,7 +5446,7 @@
       "Name": "First Time?",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2123
+      "UsersEstimate": 2124
     },
     {
       "ID": "FuneralForTheDeath",
@@ -5513,7 +5518,7 @@
       "Name": "Nasty!",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "NoMoreTotems",
@@ -5521,7 +5526,7 @@
       "Name": "No More Totems",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "NotLikeTheOthers",
@@ -5593,7 +5598,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 7,
       "XP": 45,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -5640,7 +5645,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7321,
+      "Progressed": 7323,
       "Completed": 13
     }
   ],
@@ -5648,8 +5653,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-03T03:57:18.7575798+00:00",
-  "LastChanged_Achievements": "2023-12-03T09:09:33.467973+00:00",
+  "LastChanged_Achievements": "2023-12-03T10:09:23.793206+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-03T08:57:53.7985589+00:00",
-  "LastUpdate_Achievements": "2023-12-03T09:09:33.4680081+00:00"
+  "LastUpdate_Ratings": "2023-12-03T09:57:40.5016571+00:00",
+  "LastUpdate_Achievements": "2023-12-03T10:09:23.793252+00:00"
 }

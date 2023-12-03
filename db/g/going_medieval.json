@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1535,9 +1535,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 7083,
+  "EOS_Progressed": 7084,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -13915,6 +13915,11 @@
       "Time": "2023-12-03T08:04:22.7295956+00:00",
       "NumProgressed": 7083,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-03T10:04:30.8479223+00:00",
+      "NumProgressed": 7084,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -13926,7 +13931,7 @@
       "Name": "Get A Room",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 5312
+      "UsersEstimate": 5313
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -13934,7 +13939,7 @@
       "Name": "Beam Me Up",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 3683
+      "UsersEstimate": 3684
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -13966,7 +13971,7 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5383
+      "UsersEstimate": 5384
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -14086,7 +14091,7 @@
       "Name": "The First Day",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 4958
+      "UsersEstimate": 4959
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -14134,7 +14139,7 @@
       "Name": "Novice Researcher",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 4816
+      "UsersEstimate": 4817
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -14142,7 +14147,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 3187
+      "UsersEstimate": 3188
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -14158,7 +14163,7 @@
       "Name": "Onward",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 4108
+      "UsersEstimate": 4109
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -14166,22 +14171,22 @@
       "Name": "Studious Researcher",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 3754
+      "UsersEstimate": 3755
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7083,
+      "Progressed": 7084,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-11-30T18:00:41.6530659+00:00",
-  "LastChanged_Achievements": "2023-12-03T09:04:34.9166788+00:00",
+  "LastChanged_Achievements": "2023-12-03T10:04:30.847922+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:34.6501981+00:00",
-  "LastUpdate_Ratings": "2023-12-03T08:58:34.1794435+00:00",
-  "LastUpdate_Achievements": "2023-12-03T09:04:34.9167492+00:00"
+  "LastUpdate_Ratings": "2023-12-03T09:58:17.6827322+00:00",
+  "LastUpdate_Achievements": "2023-12-03T10:04:30.8479944+00:00"
 }

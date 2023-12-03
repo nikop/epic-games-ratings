@@ -1,20 +1,20 @@
 # LEGO® Star Wars™: The Skywalker Saga
 [Store](https://store.epicgames.com/en-US/p/lego-star-wars-the-skywalker-saga)  
 [View Rawdata](../../db/l/lego®_star_wars™__the_skywalker_saga.json)  
-Rating: 4.78 (Ranked 106)  
+Rating: 4.78 (Ranked 105)  
 Number of Ratings: 2,536  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~50,473 |
-| ''I don't like you either!'' | 79.00% | ~41,107 |
-| ''Impressive, most impressive'' | 72.00% | ~37,464 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~37,464 |
-| The Phantom Menace | 59.00% | ~30,700 |
-| ''Aggressive Negotiations'' | 59.00% | ~30,700 |
-| ''I can fly anything'' | 57.00% | ~29,659 |
-| ''And who gave you permission...?'' | 54.00% | ~28,098 |
-| A New Hope | 48.00% | ~24,976 |
+| ''You guys got yourself a ship!'' | 97.00% | ~50,474 |
+| ''I don't like you either!'' | 79.00% | ~41,108 |
+| ''Impressive, most impressive'' | 72.00% | ~37,465 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~37,465 |
+| The Phantom Menace | 59.00% | ~30,701 |
+| ''Aggressive Negotiations'' | 59.00% | ~30,701 |
+| ''I can fly anything'' | 57.00% | ~29,660 |
+| ''And who gave you permission...?'' | 54.00% | ~28,099 |
+| A New Hope | 48.00% | ~24,977 |
 | Attack of the Clones | 47.00% | ~24,456 |
 | Revenge of the Sith | 41.00% | ~21,334 |
 | The Empire Strikes Back | 38.00% | ~19,773 |
@@ -23,8 +23,8 @@ Number of Ratings: 2,536  (23.09.2022)
 | The Force Awakens | 27.00% | ~14,049 |
 | The Last Jedi | 23.00% | ~11,968 |
 | The Rise of Skywalker | 20.00% | ~10,407 |
-| ''It's true... all of it'' | 19.00% | ~9,886 |
-| ''Get the crews to their fighters'' | 19.00% | ~9,886 |
+| ''It's true... all of it'' | 19.00% | ~9,887 |
+| ''Get the crews to their fighters'' | 19.00% | ~9,887 |
 | ''Raw, untamed power'' | 9.00% | ~4,683 |
 | Rishi Maze | 5.00% | ~2,602 |
 | ''Only one business in the Galaxy...'' | 5.00% | ~2,602 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~520 |
 | ''I've never seen a real one!'' | 1.00% | ~520 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,034 (Ranked 112)  
+Progressed: 52,035 (Ranked 112)  
 Completed: 250 (0.48%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 250 (0.48%) (Ranked 211)
 | 2023-11-30 | 52,024 | 250 |
 | 2023-12-01 | 52,029 | 250 |
 | 2023-12-02 | 52,031 | 250 |
-| 2023-12-03 | 52,034 | 250 |
+| 2023-12-03 | 52,035 | 250 |
 ## Awards
 Max (Great Boss Battles): 2,446  (Ranked 105)  
 Sum: 6,718 (Ranked 126)  

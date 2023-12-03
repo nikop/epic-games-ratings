@@ -147,7 +147,7 @@
   "Tags": [],
   "EOS_Progressed": 4460,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -8343,9 +8343,9 @@
       "ID": "Ach034",
       "SetID": "12n4k20",
       "Name": "That\u0027s a lot of junk metal\u2026",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 223
+      "UsersEstimate": 268
     },
     {
       "ID": "Ach035",
@@ -8662,8 +8662,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-03T09:03:34.7656473+00:00",
+  "LastChanged_Achievements": "2023-12-03T10:03:34.3804689+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:21.1661658+00:00",
-  "LastUpdate_Ratings": "2023-12-03T09:00:05.3150876+00:00",
-  "LastUpdate_Achievements": "2023-12-03T09:03:34.7657422+00:00"
+  "LastUpdate_Ratings": "2023-12-03T09:59:42.5075785+00:00",
+  "LastUpdate_Achievements": "2023-12-03T10:03:34.3805457+00:00"
 }

@@ -17,7 +17,7 @@ Rating: 4.39 (Ranked 753)
 | Humble beginnings | 45.00% | ~518 |
 | Love is in the air | 44.00% | ~507 |
 | Fine, I'll do it myself | 43.00% | ~495 |
-| Moving up | 42.00% | ~484 |
+| Moving up | 43.00% | ~495 |
 | No need to call anyone | 41.00% | ~472 |
 | Big fortune | 34.00% | ~392 |
 | Still more work ahead | 31.00% | ~357 |
@@ -31,10 +31,10 @@ Rating: 4.39 (Ranked 753)
 | Unstoppable | 19.00% | ~219 |
 | Reunited | 19.00% | ~219 |
 | King of hospitality | 11.00% | ~127 |
-| Top spot in town | 2.00% | ~23 |
+| Top spot in town | 3.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,152 (Ranked 255)  
-Completed: 16 (1.39%) (Ranked 147)  
+Completed: 17 (1.48%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -211,6 +211,7 @@ Completed: 16 (1.39%) (Ranked 147)
 | 2023-11-29 | 1,148 | 16 |
 | 2023-12-01 | 1,150 | 16 |
 | 2023-12-02 | 1,152 | 16 |
+| 2023-12-03 | 1,152 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 255,
-  "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_Completed": 144,
+  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -210,10 +210,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1152,
-  "EOS_Completed": 16,
+  "EOS_Completed": 17,
   "EOS_NewPlayers": 8,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.39,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 1.48,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:47.1560439+00:00",
@@ -2364,6 +2364,11 @@
       "Time": "2023-12-02T11:08:00.5059541+00:00",
       "NumProgressed": 1152,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-03T10:03:35.2627605+00:00",
+      "NumProgressed": 1152,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 27,
@@ -2445,9 +2450,9 @@
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
       "SetID": "7k95e4n",
       "Name": "Top spot in town",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 23
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_GOLDEN_EGGS_ALL",
@@ -2533,9 +2538,9 @@
       "ID": "ACH_STAR_2",
       "SetID": "7k95e4n",
       "Name": "Moving up",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 484
+      "UsersEstimate": 495
     },
     {
       "ID": "ACH_STAR_3",
@@ -2591,15 +2596,15 @@
       "ID": "7k95e4n",
       "IsBase": true,
       "Progressed": 1152,
-      "Completed": 16
+      "Completed": 17
     }
   ],
   "FirstSeen": "2023-03-07T20:57:17.7123218+00:00",
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-11-30T11:58:26.7436+00:00",
-  "LastChanged_Achievements": "2023-12-03T09:03:35.6524798+00:00",
+  "LastChanged_Achievements": "2023-12-03T10:03:35.2627602+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:17.676722+00:00",
-  "LastUpdate_Ratings": "2023-12-03T09:00:09.8021543+00:00",
-  "LastUpdate_Achievements": "2023-12-03T09:03:35.6525045+00:00"
+  "LastUpdate_Ratings": "2023-12-03T09:59:46.4603259+00:00",
+  "LastUpdate_Achievements": "2023-12-03T10:03:35.2627868+00:00"
 }

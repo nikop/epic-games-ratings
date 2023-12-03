@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
     "PcReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -5091,9 +5091,9 @@
       "Count": 393
     }
   ],
-  "EOS_Progressed": 233511,
+  "EOS_Progressed": 233539,
   "EOS_Completed": 548,
-  "EOS_NewPlayers": 5074,
+  "EOS_NewPlayers": 5063,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -21131,6 +21131,11 @@
       "Time": "2023-12-03T09:08:58.2554525+00:00",
       "NumProgressed": 233511,
       "NumCompleted": 548
+    },
+    {
+      "Time": "2023-12-03T10:08:50.6390857+00:00",
+      "NumProgressed": 233539,
+      "NumCompleted": 548
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21389,9 +21394,9 @@
       "ID": "Obtain_Guns_B",
       "SetID": "bkp3b1a",
       "Name": "The Trigger",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 467
     },
     {
       "ID": "Obtain_Melee_Weapons_A",
@@ -21582,22 +21587,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 233511,
+      "Progressed": 233539,
       "Completed": 548
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 12676,
-      "Completed": 181
+      "Progressed": 12704,
+      "Completed": 183
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-03T08:03:10.7154368+00:00",
-  "LastChanged_Achievements": "2023-12-03T09:08:58.2554521+00:00",
+  "LastChanged_Achievements": "2023-12-03T10:08:50.6390854+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-03T09:03:12.6448807+00:00",
-  "LastUpdate_Achievements": "2023-12-03T09:08:58.255567+00:00"
+  "LastUpdate_Ratings": "2023-12-03T10:03:12.0649837+00:00",
+  "LastUpdate_Achievements": "2023-12-03T10:08:50.6392037+00:00"
 }

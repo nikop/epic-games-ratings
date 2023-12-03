@@ -41,11 +41,11 @@ Rating: 4.61 (Ranked 386)
 | Blood of the Dragon | 0.90% | ~50 |
 | Prometheus Avenged | 0.90% | ~50 |
 | A Conqueror's Cohort | 0.80% | ~45 |
+| Lord of Chaos | 0.70% | ~39 |
 | The Creator | 0.70% | ~39 |
-| Lord of Chaos | 0.60% | ~33 |
+| The Eternal Court | 0.70% | ~39 |
 | Eternal Lord | 0.60% | ~33 |
 | Manufactured War | 0.60% | ~33 |
-| The Eternal Court | 0.60% | ~33 |
 | I've Got Everything I Need Right Here | 0.50% | ~28 |
 | God Emperor | 0.50% | ~28 |
 | Pruning for Progress | 0.50% | ~28 |
@@ -263,9 +263,9 @@ Completed: 7 (0.13%) (Ranked 274)
 | 2023-12-02 | 5,560 | 7 |
 | 2023-12-03 | 5,563 | 7 |
 ## Awards
-Max (Great for Beginners): 35  (Ranked 479)  
+Max (Great for Beginners): 35  (Ranked 480)  
 Sum: 84 (Ranked 463)  
-Diff (max vs sum): 16  
+Diff (max vs sum): 17  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 35 |

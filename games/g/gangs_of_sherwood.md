@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 90.00% | ~44 |
-| Air Fighter | 88.00% | ~43 |
-| Oo-De-Lally | 76.00% | ~37 |
-| The Altruist | 71.00% | ~35 |
-| Treasure Hunter | 69.00% | ~34 |
-| Tap Dancing | 59.00% | ~29 |
-| MAX LEVEL | 55.00% | ~27 |
-| Watch your Step! | 53.00% | ~26 |
-| Right between the eyes | 53.00% | ~26 |
-| Spring Board | 47.00% | ~23 |
-| Starry Night | 45.00% | ~22 |
-| Rebel Unleashed | 41.00% | ~20 |
-| Locksley's Tears | 39.00% | ~19 |
-| Merry Co-operation | 35.00% | ~17 |
-| Finish Him! | 33.00% | ~16 |
-| Assault on the Ram | 33.00% | ~16 |
-| Savior | 31.00% | ~15 |
+| Act of Kindness | 90.00% | ~45 |
+| Air Fighter | 86.00% | ~43 |
+| Oo-De-Lally | 76.00% | ~38 |
+| The Altruist | 70.00% | ~35 |
+| Treasure Hunter | 68.00% | ~34 |
+| Tap Dancing | 58.00% | ~29 |
+| MAX LEVEL | 54.00% | ~27 |
+| Watch your Step! | 52.00% | ~26 |
+| Right between the eyes | 52.00% | ~26 |
+| Spring Board | 46.00% | ~23 |
+| Starry Night | 44.00% | ~22 |
+| Rebel Unleashed | 40.00% | ~20 |
+| Locksley's Tears | 38.00% | ~19 |
+| Merry Co-operation | 34.00% | ~17 |
+| Finish Him! | 32.00% | ~16 |
+| Assault on the Ram | 32.00% | ~16 |
+| Savior | 30.00% | ~15 |
 | Ultra Rebel Instinct | 24.00% | ~12 |
 | Take Action! | 24.00% | ~12 |
 | First Aid | 24.00% | ~12 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49 (Ranked 504)  
+Progressed: 50 (Ranked 503)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,4 +72,4 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-30 | 30 | 0 |
 | 2023-12-01 | 44 | 0 |
 | 2023-12-02 | 48 | 0 |
-| 2023-12-03 | 49 | 0 |
+| 2023-12-03 | 50 | 0 |

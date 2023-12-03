@@ -14,9 +14,9 @@
 | Honorarium of Corporate Service | 59.00% | ~878 |
 | Medal of Exploration II | 54.00% | ~804 |
 | Council Legion of Merit | 54.00% | ~804 |
+| Turian Ally | 53.00% | ~789 |
 | Medal of Honor | 52.00% | ~774 |
 | Meritorious Service Medal | 52.00% | ~774 |
-| Turian Ally | 52.00% | ~774 |
 | Charismatic | 51.00% | ~759 |
 | Soldier | 50.00% | ~744 |
 | Asari Ally | 47.00% | ~699 |
@@ -50,12 +50,12 @@
 | The Justicar | 32.00% | ~476 |
 | The Quarian | 32.00% | ~476 |
 | Battlemaster | 32.00% | ~476 |
+| Catharsis | 32.00% | ~476 |
 | Ghost of the Father | 32.00% | ~476 |
 | The Cure | 32.00% | ~476 |
 | The Prodigal | 32.00% | ~476 |
 | Driven | 32.00% | ~476 |
 | Completionist | 31.00% | ~461 |
-| Catharsis | 31.00% | ~461 |
 | Big Game Hunter | 31.00% | ~461 |
 | Revenge! | 31.00% | ~461 |
 | Bringer of War | 31.00% | ~461 |

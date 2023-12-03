@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Hero Arrives | 83.00% | ~25 |
-| Eat the Rich | 57.00% | ~17 |
+| Eat the Rich | 60.00% | ~18 |
 | Death Battle | 43.00% | ~13 |
 | Phantom Kunoichi | 43.00% | ~13 |
 | Killing Machine | 43.00% | ~13 |

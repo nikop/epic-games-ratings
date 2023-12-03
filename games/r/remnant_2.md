@@ -42,6 +42,7 @@ Rating: 4.75 (Ranked 149)
 | Tall Tales | 0.20% | ~467 |
 | Bad Moon Rising | 0.20% | ~467 |
 | Strapped | 0.20% | ~467 |
+| The Trigger | 0.20% | ~467 |
 | Edgelord | 0.20% | ~467 |
 | Cutting Edge | 0.20% | ~467 |
 | The Web | 0.20% | ~467 |
@@ -56,12 +57,11 @@ Rating: 4.75 (Ranked 149)
 | You Shall Pass | 0.20% | ~25 |
 | Only Human | 0.10% | ~234 |
 | Red Room | 0.10% | ~234 |
-| The Trigger | 0.10% | ~234 |
 | Proving Grounds | 0.10% | ~234 |
 | Maxed Out! | 0.10% | ~234 |
 | A Foul Feast | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,511 (Ranked 68)  
+Progressed: 233,539 (Ranked 68)  
 Completed: 548 (0.23%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 548 (0.23%) (Ranked 251)
 | 2023-11-30 | 231,406 | 542 |
 | 2023-12-01 | 232,269 | 546 |
 | 2023-12-02 | 233,162 | 548 |
-| 2023-12-03 | 233,511 | 548 |
+| 2023-12-03 | 233,539 | 548 |
 ## Awards
 Max (Great Boss Battles): 2,577  (Ranked 102)  
 Sum: 6,355 (Ranked 129)  

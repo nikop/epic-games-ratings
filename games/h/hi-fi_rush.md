@@ -31,9 +31,9 @@ Rating: 4.87 (Ranked 24)
 | Perfecter Parry-er! | 8.00% | ~357 |
 | NOW we got a kickass hideout! | 8.00% | ~238 |
 | I have to read these things? | 7.00% | ~312 |
+| That's a lot of junk metal… | 6.00% | ~268 |
 | Well that was a rush! | 5.00% | ~223 |
 | Beat-hit mania | 5.00% | ~223 |
-| That's a lot of junk metal… | 5.00% | ~223 |
 | There's such a thing as TOO helpful | 5.00% | ~223 |
 | Chip-tuned | 3.00% | ~134 |
 | Wanna hear my playlist? | 3.00% | ~134 |

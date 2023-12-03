@@ -287,7 +287,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2320,
+  "EOS_Progressed": 2321,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
@@ -6442,6 +6442,11 @@
       "Time": "2023-12-03T06:03:19.6982107+00:00",
       "NumProgressed": 2320,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T10:03:44.9895154+00:00",
+      "NumProgressed": 2321,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -6451,9 +6456,9 @@
       "ID": "A00",
       "SetID": "9b7p7eo",
       "Name": "Apprentice",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 974
+      "UsersEstimate": 952
     },
     {
       "ID": "A01",
@@ -6477,7 +6482,7 @@
       "Name": "Resistance is futile",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "A04",
@@ -6549,7 +6554,7 @@
       "Name": "Departure",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1717
+      "UsersEstimate": 1718
     },
     {
       "ID": "A13",
@@ -6565,7 +6570,7 @@
       "Name": "A new Journey",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1740
+      "UsersEstimate": 1741
     },
     {
       "ID": "A15",
@@ -6573,7 +6578,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "A16",
@@ -6613,7 +6618,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 1763
+      "UsersEstimate": 1764
     },
     {
       "ID": "A21",
@@ -6629,7 +6634,7 @@
       "Name": "Brainstorm",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1531
+      "UsersEstimate": 1532
     },
     {
       "ID": "A23",
@@ -6725,7 +6730,7 @@
       "Name": "Producer",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "A35",
@@ -6741,7 +6746,7 @@
       "Name": "Way of Iron",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1624
+      "UsersEstimate": 1625
     },
     {
       "ID": "A37",
@@ -6773,7 +6778,7 @@
       "Name": "Mind the Gap",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "A41",
@@ -6789,7 +6794,7 @@
       "Name": "Bridge Builder",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "A43",
@@ -6805,7 +6810,7 @@
       "Name": "Breaking Ground",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "A45",
@@ -6829,7 +6834,7 @@
       "Name": "Travel Company",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1531
+      "UsersEstimate": 1532
     },
     {
       "ID": "A48",
@@ -6845,7 +6850,7 @@
       "Name": "Financial Shark",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "A50",
@@ -6869,7 +6874,7 @@
       "Name": "Socializer",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "A53",
@@ -6892,7 +6897,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2320,
+      "Progressed": 2321,
       "Completed": 0
     }
   ],
@@ -6900,8 +6905,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-11-30T04:58:15.2610006+00:00",
-  "LastChanged_Achievements": "2023-12-03T09:03:46.2802602+00:00",
+  "LastChanged_Achievements": "2023-12-03T10:03:44.9895151+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:13.3452501+00:00",
-  "LastUpdate_Ratings": "2023-12-03T08:59:53.1386364+00:00",
-  "LastUpdate_Achievements": "2023-12-03T09:03:46.2803255+00:00"
+  "LastUpdate_Ratings": "2023-12-03T09:59:30.573547+00:00",
+  "LastUpdate_Achievements": "2023-12-03T10:03:44.9895704+00:00"
 }

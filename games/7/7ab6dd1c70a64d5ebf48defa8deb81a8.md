@@ -18,7 +18,7 @@
 | Geared Up | 9.00% | ~22 |
 | Stone Collection | 9.00% | ~22 |
 | The Collector | 9.00% | ~22 |
-| Fashion Victim | 8.00% | ~19 |
+| Fashion Victim | 8.00% | ~20 |
 | Essence Blow | 6.00% | ~15 |
 | Calm before the Storm | 5.00% | ~12 |
 | To Battle | 5.00% | ~12 |
@@ -41,7 +41,7 @@
 | Shardbearer | 0.80% | ~2 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243 (Ranked 376)  
+Progressed: 244 (Ranked 376)  
 Completed: 2 (0.82%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,4 +93,4 @@ Completed: 2 (0.82%) (Ranked 180)
 | 2023-11-28 | 237 | 2 |
 | 2023-11-30 | 241 | 2 |
 | 2023-12-02 | 242 | 2 |
-| 2023-12-03 | 243 | 2 |
+| 2023-12-03 | 244 | 2 |

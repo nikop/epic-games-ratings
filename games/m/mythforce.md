@@ -7,22 +7,22 @@ Number of Ratings: 285  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Faceroll the Bones | 26.00% | ~1,376 |
-| Hit 'Em Where It Hurts | 25.00% | ~1,323 |
-| Debuff Dogpile | 24.00% | ~1,270 |
-| Perk Shard Punch Card | 24.00% | ~1,270 |
-| That'll Leave a Mark | 24.00% | ~1,270 |
-| Mushroom Madness! | 22.00% | ~1,164 |
-| First Strike | 20.00% | ~1,058 |
-| Spending Spree | 19.00% | ~1,005 |
-| Horder Better Faster Stronger | 18.00% | ~952 |
+| Hit 'Em Where It Hurts | 25.00% | ~1,324 |
+| Debuff Dogpile | 24.00% | ~1,271 |
+| Perk Shard Punch Card | 24.00% | ~1,271 |
+| That'll Leave a Mark | 24.00% | ~1,271 |
+| Mushroom Madness! | 22.00% | ~1,165 |
+| First Strike | 19.00% | ~1,006 |
+| Spending Spree | 19.00% | ~1,006 |
+| Horder Better Faster Stronger | 18.00% | ~953 |
 | Ten Steps from the Grave | 15.00% | ~794 |
 | Everything Must Go! | 14.00% | ~741 |
 | Next Time on MythForce... | 14.00% | ~741 |
 | Cold-Blooded Critters | 10.00% | ~529 |
-| Death Becomes You | 8.00% | ~423 |
-| Flawless Victory | 7.00% | ~370 |
-| The Harder They Fall | 6.00% | ~317 |
-| On this Episode! | 6.00% | ~317 |
+| Death Becomes You | 8.00% | ~424 |
+| Flawless Victory | 7.00% | ~371 |
+| The Harder They Fall | 6.00% | ~318 |
+| On this Episode! | 6.00% | ~318 |
 | Deadication | 4.00% | ~212 |
 | Season Finale | 4.00% | ~212 |
 | We've Got a Kaiju on the Field | 3.00% | ~159 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.50% | ~26 |
 | Deadalus and Loving It | 0.20% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,291 (Ranked 190)  
+Progressed: 5,294 (Ranked 190)  
 Completed: 4 (0.08%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,11 +171,11 @@ Completed: 4 (0.08%) (Ranked 299)
 | 2023-11-30 | 5,238 | 4 |
 | 2023-12-01 | 5,269 | 4 |
 | 2023-12-02 | 5,279 | 4 |
-| 2023-12-03 | 5,291 | 4 |
+| 2023-12-03 | 5,294 | 4 |
 ## Awards
-Max (Great for Beginners): 35  (Ranked 479)  
+Max (Great for Beginners): 35  (Ranked 480)  
 Sum: 289 (Ranked 369)  
-Diff (max vs sum): 110  
+Diff (max vs sum): 111  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 35 |

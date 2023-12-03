@@ -4493,7 +4493,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77604,
+  "EOS_Progressed": 77605,
   "EOS_Completed": 124,
   "EOS_NewPlayers": 444,
   "EOS_NewCompleters": 0,
@@ -24823,6 +24823,11 @@
       "Time": "2023-12-03T08:05:49.4534029+00:00",
       "NumProgressed": 77604,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-03T10:06:02.4953088+00:00",
+      "NumProgressed": 77605,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -24914,7 +24919,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9312
+      "UsersEstimate": 9313
     },
     {
       "ID": "APPLY_STATUS",
@@ -25010,7 +25015,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9312
+      "UsersEstimate": 9313
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -25138,7 +25143,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26385
+      "UsersEstimate": 26386
     },
     {
       "ID": "HARLEY_2",
@@ -25226,7 +25231,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 25609
+      "UsersEstimate": 25610
     },
     {
       "ID": "MYSTERY_02",
@@ -25282,7 +25287,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9312
+      "UsersEstimate": 9313
     },
     {
       "ID": "SECRET_CACHE",
@@ -25290,7 +25295,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8536
+      "UsersEstimate": 8537
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -25321,13 +25326,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77604,
+      "Progressed": 77605,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47884,
+      "Progressed": 47885,
       "Completed": 2675
     }
   ],
@@ -25335,8 +25340,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-03T03:59:55.6281911+00:00",
-  "LastChanged_Achievements": "2023-12-03T09:06:12.0453717+00:00",
+  "LastChanged_Achievements": "2023-12-03T10:06:02.4953086+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.5024346+00:00",
-  "LastUpdate_Ratings": "2023-12-03T08:57:13.6875427+00:00",
-  "LastUpdate_Achievements": "2023-12-03T09:06:12.0455165+00:00"
+  "LastUpdate_Ratings": "2023-12-03T09:57:02.7306949+00:00",
+  "LastUpdate_Achievements": "2023-12-03T10:06:02.4954211+00:00"
 }

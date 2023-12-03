@@ -1279,7 +1279,7 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 258982,
+  "EOS_Progressed": 258985,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
@@ -23114,6 +23114,11 @@
       "Time": "2023-12-03T09:04:30.2608753+00:00",
       "NumProgressed": 258982,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-03T10:04:26.3482643+00:00",
+      "NumProgressed": 258985,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -23173,7 +23178,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80284
+      "UsersEstimate": 80285
     },
     {
       "ID": "BackHomeNTimes",
@@ -23237,7 +23242,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7769
+      "UsersEstimate": 7770
     },
     {
       "ID": "CreditLevel3",
@@ -23397,7 +23402,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7769
+      "UsersEstimate": 7770
     },
     {
       "ID": "KillOtherWithMine",
@@ -23413,7 +23418,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59566
+      "UsersEstimate": 59567
     },
     {
       "ID": "KillOthers2",
@@ -23572,7 +23577,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 258982,
+      "Progressed": 258985,
       "Completed": 3
     }
   ],
@@ -23580,8 +23585,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-11-30T01:47:38.497135+00:00",
-  "LastChanged_Achievements": "2023-12-03T09:04:30.2608749+00:00",
+  "LastChanged_Achievements": "2023-12-03T10:04:26.3482641+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:43.7496821+00:00",
-  "LastUpdate_Ratings": "2023-12-03T08:58:53.5444841+00:00",
-  "LastUpdate_Achievements": "2023-12-03T09:04:30.2609921+00:00"
+  "LastUpdate_Ratings": "2023-12-03T09:58:35.4979873+00:00",
+  "LastUpdate_Achievements": "2023-12-03T10:04:26.348397+00:00"
 }

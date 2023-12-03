@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 446,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -494,9 +494,9 @@
       "ID": "AnomalyControl",
       "SetID": "1jeo1g7",
       "Name": "Anomaly Control",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "AnomalyDestroyer",
@@ -910,9 +910,9 @@
       "ID": "PurificationAvatar",
       "SetID": "1jeo1g7",
       "Name": "Purification Avatar",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "PurificationPioneer",
@@ -1262,9 +1262,9 @@
       "ID": "NoctuanHero",
       "SetID": "1jeo1g7",
       "Name": "Noctuan Hero",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NoctuanMastery",
@@ -1285,8 +1285,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-03T09:04:19.1225283+00:00",
+  "LastChanged_Achievements": "2023-12-03T10:04:15.9281657+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:23.7468693+00:00",
-  "LastUpdate_Ratings": "2023-12-03T09:00:10.4166538+00:00",
-  "LastUpdate_Achievements": "2023-12-03T09:04:19.1226249+00:00"
+  "LastUpdate_Ratings": "2023-12-03T09:59:47.0038717+00:00",
+  "LastUpdate_Achievements": "2023-12-03T10:04:15.9282715+00:00"
 }

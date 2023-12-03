@@ -219,17 +219,17 @@
       "ID": "ACH_01_SADDLE_UP",
       "SetID": "9loam6m",
       "Name": "Saddled up and away",
-      "Percentage": 100,
+      "Percentage": 103,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_02_PHOTO_TEAM",
       "SetID": "9loam6m",
       "Name": "Photo team",
-      "Percentage": 86,
+      "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_03_MODEL",
@@ -363,9 +363,9 @@
       "ID": "ACH_19_HORSE_FRIENDS",
       "SetID": "9loam6m",
       "Name": "Horse friends",
-      "Percentage": 78,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_20_HORSE_LANGUAGE",
@@ -379,9 +379,9 @@
       "ID": "ACH_21_FIRST_RACE",
       "SetID": "9loam6m",
       "Name": "First race",
-      "Percentage": 78,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_22_HORSE_RACES",
@@ -459,9 +459,9 @@
       "ID": "ACH_31_BEST_MUFFINS",
       "SetID": "9loam6m",
       "Name": "The best muffins",
-      "Percentage": 86,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_32_HEART_FOR_ANIMALS",
@@ -475,17 +475,17 @@
       "ID": "ACH_33_LOVELY_VIEW",
       "SetID": "9loam6m",
       "Name": "Lovely view",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_34_HAZELWOOD",
       "SetID": "9loam6m",
       "Name": "Hazelwood",
-      "Percentage": 92,
+      "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_35_RIDING_LESSON",
@@ -562,8 +562,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-12-03T09:05:36.0997304+00:00",
+  "LastChanged_Achievements": "2023-12-03T10:05:28.3717263+00:00",
   "LastUpdate_AppInfo": "2023-11-30T02:19:30.3024246+00:00",
-  "LastUpdate_Ratings": "2023-12-03T09:02:44.2744998+00:00",
-  "LastUpdate_Achievements": "2023-12-03T09:05:36.0997558+00:00"
+  "LastUpdate_Ratings": "2023-12-03T10:02:46.2625639+00:00",
+  "LastUpdate_Achievements": "2023-12-03T10:05:28.3717617+00:00"
 }

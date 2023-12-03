@@ -4,7 +4,7 @@
   "ProductSlug": "airport-ceo-442ecc",
   "Ranking_EOS_Progress": 506,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewPlayers": 392,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 47,
+  "EOS_Progressed": 48,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -264,6 +264,11 @@
       "Time": "2023-11-27T21:05:36.4536293+00:00",
       "NumProgressed": 47,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T10:04:25.8191401+00:00",
+      "NumProgressed": 48,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-30T08:04:15.025911+00:00",
@@ -330,7 +335,7 @@
       "ID": "Hedda",
       "SetID": "d11cl5p",
       "Name": "Hilma af Klint",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -394,7 +399,7 @@
       "ID": "NoviceCEO",
       "SetID": "d11cl5p",
       "Name": "Novice CEO",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -458,7 +463,7 @@
       "ID": "SmallAirfield",
       "SetID": "d11cl5p",
       "Name": "Small airfield",
-      "Percentage": 62,
+      "Percentage": 60,
       "XP": 25,
       "UsersEstimate": 29
     },
@@ -474,7 +479,7 @@
       "ID": "TakingOff",
       "SetID": "d11cl5p",
       "Name": "Taking off",
-      "Percentage": 77,
+      "Percentage": 75,
       "XP": 10,
       "UsersEstimate": 36
     },
@@ -498,7 +503,7 @@
       "ID": "TheLuxuryTrap",
       "SetID": "d11cl5p",
       "Name": "The luxury trap",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -514,7 +519,7 @@
       "ID": "ThereAndBackAgain",
       "SetID": "d11cl5p",
       "Name": "There and back again",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -547,14 +552,14 @@
     {
       "ID": "d11cl5p",
       "IsBase": true,
-      "Progressed": 47,
+      "Progressed": 48,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-12-03T09:04:29.7212105+00:00",
+  "LastChanged_Achievements": "2023-12-03T10:04:25.8191397+00:00",
   "LastUpdate_AppInfo": "2023-11-29T20:57:25.4034184+00:00",
-  "LastUpdate_Ratings": "2023-12-03T08:57:42.7359675+00:00",
-  "LastUpdate_Achievements": "2023-12-03T09:04:29.7212332+00:00"
+  "LastUpdate_Ratings": "2023-12-03T09:57:30.256609+00:00",
+  "LastUpdate_Achievements": "2023-12-03T10:04:25.8191665+00:00"
 }

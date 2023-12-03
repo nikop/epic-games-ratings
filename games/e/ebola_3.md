@@ -9,7 +9,7 @@
 | Inventory ✔ | 55.00% | ~156 |
 | Police officers ✔ | 29.00% | ~82 |
 | Mutation ✔ | 26.00% | ~74 |
-| Doberman ✔ | 15.00% | ~43 |
+| Doberman ✔ | 16.00% | ~45 |
 | Weapon ✔ | 12.00% | ~34 |
 | Chess ✔ | 11.00% | ~31 |
 | Master of Unlocking ✔ | 10.00% | ~28 |

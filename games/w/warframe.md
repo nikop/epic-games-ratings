@@ -5,7 +5,7 @@ Rating: 4.61 (Ranked 386)
 Number of Ratings: 12,660  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 18,776  (Ranked 23)  
-Sum: 51,881 (Ranked 28)  
+Sum: 51,887 (Ranked 28)  
 Diff (max vs sum): -5  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): -5
 | This game has Amazing Storytelling | 4,070 |
 | This game is Extremely Fun | 4,041 |
 | This game has Amazing Characters | 4,017 |
-| This game has Unique Visuals | 3,870 |
+| This game has Unique Visuals | 3,876 |
 | This game has Obsessive Gameplay | 1,774 |
 | This game has a Kind Community | 1,679 |
 ## Ratings History
@@ -340,4 +340,4 @@ Diff (max vs sum): -5
 | 2023-11-30 | 4.61 | - | 18,727 | 51,720 |
 | 2023-12-01 | 4.61 | - | 18,747 | 51,787 |
 | 2023-12-02 | 4.61 | - | 18,776 | 51,851 |
-| 2023-12-03 | 4.61 | - | 18,776 | 51,881 |
+| 2023-12-03 | 4.61 | - | 18,776 | 51,887 |

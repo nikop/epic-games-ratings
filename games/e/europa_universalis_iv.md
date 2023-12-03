@@ -6,9 +6,9 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 0.20% | ~936 |
-| Until death do us apart | 0.20% | ~936 |
-| Victorious! | 0.20% | ~936 |
+| That's a Grand Army | 0.20% | ~937 |
+| Until death do us apart | 0.20% | ~937 |
+| Victorious! | 0.20% | ~937 |
 | A Blessed Nation | 0.10% | ~468 |
 | A Decent Reserve | 0.10% | ~468 |
 | A Hero’s Welcome | 0.10% | ~468 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 468,217 (Ranked 41)  
+Progressed: 468,260 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -597,10 +597,10 @@ Completed: 1 (0.00%) (Ranked 365)
 | 2023-11-30 | 466,525 | 1 |
 | 2023-12-01 | 467,159 | 1 |
 | 2023-12-02 | 467,938 | 1 |
-| 2023-12-03 | 468,217 | 1 |
+| 2023-12-03 | 468,260 | 1 |
 ## Awards
 Max (Educational): 7,242  (Ranked 54)  
-Sum: 59,607 (Ranked 24)  
+Sum: 59,633 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -609,10 +609,10 @@ Diff (max vs sum): 30
 | This game is Highly Recommended | 6,939 |
 | This game has Challenging Combat | 6,876 |
 | This game is Extremely Fun | 6,816 |
-| This game is Relaxing | 6,651 |
+| This game is Relaxing | 6,666 |
 | This game has Competitive Players | 6,488 |
 | This game has Amazing Storytelling | 6,025 |
-| This game has Amazing Characters | 5,568 |
+| This game has Amazing Characters | 5,579 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -937,4 +937,4 @@ Diff (max vs sum): 30
 | 2023-11-30 | 4.69 | - | 7,217 | 59,362 |
 | 2023-12-01 | 4.69 | - | 7,225 | 59,450 |
 | 2023-12-02 | 4.69 | - | 7,225 | 59,576 |
-| 2023-12-03 | 4.69 | - | 7,242 | 59,607 |
+| 2023-12-03 | 4.69 | - | 7,242 | 59,633 |
