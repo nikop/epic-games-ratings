@@ -37,7 +37,7 @@
 | 33 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 43 | 455 |
 | 33 | [Inscryption](games/i/inscryption.md) | 4.86 | 349 | 241 |
 | 33 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 13,316 | 31 |
-| 33 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 98 | 365 |
+| 33 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 98 | 366 |
 | 33 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 160 | 313 |
 | 33 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,568 | 129 |
 | 33 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.86 | 0 | 558 |
@@ -521,7 +521,7 @@
 | 508 | [Observation](games/o/observation.md) | 4.55 | 0 | 558 |
 | 508 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 558 |
 | 508 | [RAILGRADE](games/r/railgrade.md) | 4.55 | 93 | 378 |
-| 508 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 99 | 364 |
+| 508 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 99 | 365 |
 | 508 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.55 | 27 | 514 |
 | 508 | [Tails of Iron](games/t/tails_of_iron.md) | 4.55 | 0 | 558 |
 | 508 | [The Medium](games/t/the_medium.md) | 4.55 | 0 | 558 |
@@ -618,7 +618,7 @@
 | 612 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 279 | 262 |
 | 612 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 0 | 558 |
 | 612 | [Maneater](games/m/maneater.md) | 4.49 | 13,834 | 28 |
-| 612 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 100 | 362 |
+| 612 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 100 | 363 |
 | 612 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.49 | 1,648 | 126 |
 | 612 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.49 | 38 | 465 |
 | 612 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.49 | 759 | 176 |
@@ -692,7 +692,7 @@
 | 680 | [Star Renegades](games/s/star_renegades.md) | 4.44 | 0 | 558 |
 | 680 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 603 | 195 |
 | 680 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 558 |
-| 680 | [The Captain](games/t/the_captain.md) | 4.44 | 98 | 365 |
+| 680 | [The Captain](games/t/the_captain.md) | 4.44 | 98 | 366 |
 | 680 | [Train Valley 2](games/t/train_valley_2.md) | 4.44 | 938 | 159 |
 | 680 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.44 | 29 | 504 |
 | 696 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 51 | 436 |
@@ -745,7 +745,7 @@
 | 741 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.40 | 0 | 558 |
 | 741 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,053 | 149 |
 | 741 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.40 | 0 | 558 |
-| 741 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.40 | 98 | 365 |
+| 741 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.40 | 101 | 362 |
 | 741 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 75 | 398 |
 | 741 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 0 | 558 |
 | 741 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 0 | 558 |
@@ -947,7 +947,7 @@
 | 944 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 621 | 193 |
 | 944 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 558 |
 | 944 | [Space Punks](games/s/space_punks.md) | 4.16 | 176 | 303 |
-| 944 | [SYNCED](games/s/synced.md) | 4.16 | 98 | 365 |
+| 944 | [SYNCED](games/s/synced.md) | 4.16 | 98 | 366 |
 | 944 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 0 | 558 |
 | 950 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.15 | 0 | 558 |
 | 950 | [Dead Age 2](games/d/dead_age_2.md) | 4.15 | 0 | 558 |
@@ -967,7 +967,7 @@
 | 965 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 558 |
 | 965 | [Fangs](games/f/fangs.md) | 4.13 | 0 | 558 |
 | 967 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.11 | 0 | 558 |
-| 968 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 100 | 362 |
+| 968 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 100 | 363 |
 | 968 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,519 | 104 |
 | 970 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 4.09 | 0 | 558 |
 | 970 | [Lake](games/l/lake.md) | 4.09 | 0 | 558 |

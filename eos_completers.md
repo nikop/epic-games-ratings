@@ -14,9 +14,9 @@
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 26.76% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.63% |
-| 15 | [The Riflemen](games/t/the_riflemen.md) | 25.02% |
-| 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
-| 16 | [Overloop](games/o/overloop.md) | 25.00% |
+| 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
+| 15 | [Overloop](games/o/overloop.md) | 25.00% |
+| 15 | [The Riflemen](games/t/the_riflemen.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
 | 20 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
@@ -27,7 +27,7 @@
 | 25 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 18.18% |
 | 26 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 16.67% |
 | 26 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 16.67% |
-| 28 | [Island Cities](games/i/island_cities.md) | 16.36% |
+| 28 | [Island Cities](games/i/island_cities.md) | 16.34% |
 | 29 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.47% |
 | 30 | [Remains](games/r/remains.md) | 14.55% |
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
@@ -122,7 +122,7 @@
 | 120 | [Lamentum](games/l/lamentum.md) | 2.42% |
 | 121 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.41% |
 | 122 | [Night Book](games/n/night_book.md) | 2.40% |
-| 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.38% |
+| 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.39% |
 | 124 | [Bloodshore](games/b/bloodshore.md) | 2.25% |
 | 124 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.25% |
 | 126 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.21% |
@@ -169,7 +169,7 @@
 | 167 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.02% |
 | 168 | [Sable](games/s/sable.md) | 1.01% |
 | 169 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.00% |
-| 170 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.98% |
+| 170 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.97% |
 | 171 | [Trifox](games/t/trifox.md) | 0.96% |
 | 172 | [A Musical Story](games/a/a_musical_story.md) | 0.94% |
 | 173 | [Hades](games/h/hades.md) | 0.91% |

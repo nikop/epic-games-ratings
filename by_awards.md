@@ -361,13 +361,13 @@
 | 359 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 103 | 3.91 | 1,026 |
 | 359 | [Tropico 6](games/t/tropico_6.md) | 103 | 4.65 | 311 |
 | 361 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 102 | 4.62 | 368 |
-| 362 | [Armored Warfare](games/a/armored_warfare.md) | 100 | 4.10 | 968 |
-| 362 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 100 | 4.49 | 612 |
-| 364 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 99 | 4.55 | 508 |
-| 365 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 98 | 4.40 | 741 |
-| 365 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 98 | 4.86 | 33 |
-| 365 | [SYNCED](games/s/synced.md) | 98 | 4.16 | 944 |
-| 365 | [The Captain](games/t/the_captain.md) | 98 | 4.44 | 680 |
+| 362 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 101 | 4.40 | 741 |
+| 363 | [Armored Warfare](games/a/armored_warfare.md) | 100 | 4.10 | 968 |
+| 363 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 100 | 4.49 | 612 |
+| 365 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 99 | 4.55 | 508 |
+| 366 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 98 | 4.86 | 33 |
+| 366 | [SYNCED](games/s/synced.md) | 98 | 4.16 | 944 |
+| 366 | [The Captain](games/t/the_captain.md) | 98 | 4.44 | 680 |
 | 369 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 97 | 4.17 | 942 |
 | 369 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 97 | 4.54 | 528 |
 | 371 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 96 | 4.41 | 727 |
