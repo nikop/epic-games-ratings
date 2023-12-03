@@ -10,11 +10,11 @@
 | Treasure Hunter | 72.00% | ~38 |
 | The Altruist | 72.00% | ~38 |
 | Tap Dancing | 57.00% | ~30 |
+| MAX LEVEL | 57.00% | ~30 |
 | Watch your Step! | 55.00% | ~29 |
-| MAX LEVEL | 55.00% | ~29 |
-| Right between the eyes | 53.00% | ~28 |
+| Right between the eyes | 55.00% | ~29 |
+| Starry Night | 47.00% | ~25 |
 | Spring Board | 47.00% | ~25 |
-| Starry Night | 45.00% | ~24 |
 | Rebel Unleashed | 42.00% | ~22 |
 | Locksley's Tears | 38.00% | ~20 |
 | Merry Co-operation | 34.00% | ~18 |

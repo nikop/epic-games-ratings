@@ -4,7 +4,7 @@
   "ProductSlug": "rimworld",
   "Ranking_Rating": 11,
   "Ranking_Popularity": 221,
-  "Ranking_PopularitySum": 157,
+  "Ranking_PopularitySum": 156,
   "Ranking_EOS_Progress": 774,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 490,
@@ -2885,10 +2885,16 @@
       "Rating": 4.89,
       "NumberOfAwards": 3956,
       "NumberOfAwardsMax": 457
+    },
+    {
+      "Time": "2023-12-03T13:58:36.5170589+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 3960,
+      "NumberOfAwardsMax": 457
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3956,
+  "NumberOfAwards": 3960,
   "NumberOfAwardsMax": 457,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2896,7 +2902,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 414
+      "Count": 415
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2920,19 +2926,19 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 399
+      "Count": 400
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 423
+      "Count": 424
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 375
+      "Count": 376
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2970,8 +2976,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:32.0105732+00:00",
-  "LastChanged": "2023-12-02T10:58:52.1582638+00:00",
+  "LastChanged": "2023-12-03T13:58:36.5170588+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:47.6732124+00:00",
-  "LastUpdate_Ratings": "2023-12-03T13:02:53.8662403+00:00",
-  "LastUpdate_Achievements": "2023-12-03T13:08:02.2617207+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:58:36.5170591+00:00",
+  "LastUpdate_Achievements": "2023-12-03T14:04:07.2269187+00:00"
 }

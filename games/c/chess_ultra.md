@@ -1,27 +1,27 @@
 # Chess Ultra
 [Store](https://store.epicgames.com/en-US/p/chess-ultra-91bba3)  
 [View Rawdata](../../db/c/chess_ultra.json)  
-Rating: 4.30 (Ranked 840)  
+Rating: 4.30 (Ranked 839)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 70.00% | ~154,307 |
-| Doubled Pawn | 57.00% | ~125,650 |
-| Check | 55.00% | ~121,241 |
-| Absolute pin | 47.00% | ~103,606 |
-| Promotion | 31.00% | ~68,336 |
-| Checkmate | 30.00% | ~66,131 |
-| O-O | 24.00% | ~52,905 |
-| Spanish Bishop | 21.00% | ~46,292 |
-| Queen Sacrifice | 20.00% | ~44,088 |
-| Stalemate | 18.00% | ~39,679 |
-| O-O-O | 13.00% | ~28,657 |
-| Octopus | 13.00% | ~28,657 |
+| Chop Wood | 70.00% | ~154,312 |
+| Doubled Pawn | 57.00% | ~125,654 |
+| Check | 55.00% | ~121,245 |
+| Absolute pin | 47.00% | ~103,609 |
+| Promotion | 31.00% | ~68,338 |
+| Checkmate | 30.00% | ~66,134 |
+| O-O | 24.00% | ~52,907 |
+| Spanish Bishop | 21.00% | ~46,293 |
+| Queen Sacrifice | 20.00% | ~44,089 |
+| Stalemate | 18.00% | ~39,680 |
+| O-O-O | 13.00% | ~28,658 |
+| Octopus | 13.00% | ~28,658 |
 | Stranger Danger | 12.00% | ~26,453 |
-| En Passant | 9.00% | ~19,839 |
+| En Passant | 9.00% | ~19,840 |
 | Double Check | 7.00% | ~15,431 |
-| Family Fork | 6.00% | ~13,226 |
-| Piece Collector | 6.00% | ~13,226 |
+| Family Fork | 6.00% | ~13,227 |
+| Piece Collector | 6.00% | ~13,227 |
 | ELO | 5.00% | ~11,022 |
 | Friendly Fire | 5.00% | ~11,022 |
 | Underpromote | 4.00% | ~8,818 |
@@ -44,7 +44,7 @@ Rating: 4.30 (Ranked 840)
 | Tournament Master | 0.10% | ~220 |
 | Tournament Pro | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,438 (Ranked 71)  
+Progressed: 220,445 (Ranked 71)  
 Completed: 2 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 2 (0.00%) (Ranked 365)
 | 2023-11-30 | 220,030 | 2 |
 | 2023-12-01 | 220,170 | 2 |
 | 2023-12-02 | 220,335 | 2 |
-| 2023-12-03 | 220,438 | 2 |
+| 2023-12-03 | 220,445 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

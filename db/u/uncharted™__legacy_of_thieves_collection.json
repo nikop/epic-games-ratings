@@ -3,7 +3,7 @@
   "Name": "UNCHARTED\u2122: Legacy of Thieves Collection",
   "ProductSlug": "uncharted-legacy-of-thieves-collection",
   "Ranking_Rating": 170,
-  "Ranking_Popularity": 187,
+  "Ranking_Popularity": 186,
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 774,
   "Ranking_EOS_Completed": 365,
@@ -1211,18 +1211,24 @@
       "Rating": 4.73,
       "NumberOfAwards": 1032,
       "NumberOfAwardsMax": 698
+    },
+    {
+      "Time": "2023-12-03T13:58:26.6987294+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 1034,
+      "NumberOfAwardsMax": 700
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1032,
-  "NumberOfAwardsMax": 698,
+  "NumberOfAwards": 1034,
+  "NumberOfAwardsMax": 700,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 698
+      "Count": 700
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1297,8 +1303,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-19T19:01:42.4603943+00:00",
   "FirstSeenRating": "2022-10-20T19:02:12.9087244+00:00",
-  "LastChanged": "2023-12-02T10:58:37.5552308+00:00",
+  "LastChanged": "2023-12-03T13:58:26.6987293+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:41.0831229+00:00",
-  "LastUpdate_Ratings": "2023-12-03T13:02:39.352454+00:00",
-  "LastUpdate_Achievements": "2023-12-03T13:08:46.0329479+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:58:26.6987298+00:00",
+  "LastUpdate_Achievements": "2023-12-03T14:04:32.7165797+00:00"
 }

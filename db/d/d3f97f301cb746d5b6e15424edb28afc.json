@@ -2859,9 +2859,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 997
+      "UsersEstimate": 1008
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -2979,9 +2979,9 @@
       "ID": "GSS_ACH_16_ORDER_FUEL",
       "SetID": "5fn8ia4",
       "Name": "Fuel Ordered",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1077
     },
     {
       "ID": "GSS_ACH_17_ORDER_TRASH_COLLECTION",
@@ -3011,17 +3011,17 @@
       "ID": "GSS_ACH_20_DECORATION_01",
       "SetID": "5fn8ia4",
       "Name": "Decorating!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1020
     },
     {
       "ID": "GSS_ACH_21_LOCKPICKING_01",
       "SetID": "5fn8ia4",
       "Name": "Thief!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1020
     },
     {
       "ID": "GSS_ACH_22_LOCKPICKING_02",
@@ -3067,9 +3067,9 @@
       "ID": "GSS_ACH_28_PAINT_02",
       "SetID": "5fn8ia4",
       "Name": "On the Roll",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 940
+      "UsersEstimate": 951
     },
     {
       "ID": "GSS_ACH_29_PAINT_03",
@@ -3123,9 +3123,9 @@
       "ID": "GSS_ACH_35_BROOM_01",
       "SetID": "5fn8ia4",
       "Name": "Broomed",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1054
     },
     {
       "ID": "GSS_ACH_36_BROOM_02",
@@ -3259,9 +3259,9 @@
       "ID": "GSS_ACH_52_UPGRADE_WORKSHOP_02",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 2",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 665
+      "UsersEstimate": 676
     },
     {
       "ID": "GSS_ACH_53_UPGRADE_WORKSHOP_03",
@@ -3427,9 +3427,9 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 997
+      "UsersEstimate": 1008
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -3516,8 +3516,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-28T04:59:34.1023632+00:00",
-  "LastChanged_Achievements": "2023-12-03T13:10:47.3230337+00:00",
+  "LastChanged_Achievements": "2023-12-03T14:06:01.7622402+00:00",
   "LastUpdate_AppInfo": "2023-11-27T17:57:10.8459621+00:00",
-  "LastUpdate_Ratings": "2023-12-03T13:02:46.3681635+00:00",
-  "LastUpdate_Achievements": "2023-12-03T13:10:47.3231351+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:58:31.2831437+00:00",
+  "LastUpdate_Achievements": "2023-12-03T14:06:01.7623161+00:00"
 }

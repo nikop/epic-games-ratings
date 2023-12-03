@@ -5,7 +5,7 @@ Rating: 4.33 (Ranked 817)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Boarded! | 94.00% | ~194,050 |
+| Boarded! | 94.00% | ~194,053 |
 | Snooper. | 10.00% | ~20,644 |
 | You have to start somewhere, right? | 8.00% | ~16,515 |
 | So you're saying I don't touch these ones? | 6.00% | ~12,386 |
@@ -25,8 +25,8 @@ Rating: 4.33 (Ranked 817)
 | They're like really flat pillars. | 2.00% | ~4,129 |
 | That's a wrap. | 2.00% | ~4,129 |
 | In balance. | 2.00% | ~4,129 |
-| Cockpit | 0.80% | ~1,651 |
-| Witness it. | 0.80% | ~1,651 |
+| Cockpit | 0.80% | ~1,652 |
+| Witness it. | 0.80% | ~1,652 |
 | Bridge crossed. | 0.70% | ~1,445 |
 | Names to faces. | 0.70% | ~1,445 |
 | A full deck. | 0.60% | ~1,239 |
@@ -35,7 +35,7 @@ Rating: 4.33 (Ranked 817)
 | Snooper + | 0.50% | ~1,032 |
 | Corrupted + | 0.40% | ~826 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,436 (Ranked 73)  
+Progressed: 206,439 (Ranked 73)  
 Completed: 537 (0.26%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,11 +262,11 @@ Completed: 537 (0.26%) (Ranked 248)
 | 2023-11-30 | 206,264 | 537 |
 | 2023-12-01 | 206,326 | 537 |
 | 2023-12-02 | 206,386 | 537 |
-| 2023-12-03 | 206,436 | 537 |
+| 2023-12-03 | 206,439 | 537 |
 ## Awards
 Max (Challenging Puzzles): 573  (Ranked 204)  
-Sum: 668 (Ranked 307)  
-Diff (max vs sum): -103  
+Sum: 668 (Ranked 308)  
+Diff (max vs sum): -104  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 573 |

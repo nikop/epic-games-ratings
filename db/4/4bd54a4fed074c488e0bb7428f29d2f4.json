@@ -156,9 +156,9 @@
       "ID": "SOS_BURN_HENNERSDORF",
       "SetID": "6ci4lm2",
       "Name": "Red rooster",
-      "Percentage": 42,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SOS_DEAD_END",
@@ -284,9 +284,9 @@
       "ID": "SOS_HEADACHE",
       "SetID": "6ci4lm2",
       "Name": "By fire and blood",
-      "Percentage": 25,
+      "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SOS_HEARTBREAKING_END",
@@ -587,8 +587,8 @@
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-12-03T13:07:47.8907081+00:00",
+  "LastChanged_Achievements": "2023-12-03T14:03:57.0760422+00:00",
   "LastUpdate_AppInfo": "2023-11-27T15:57:06.6652579+00:00",
-  "LastUpdate_Ratings": "2023-12-03T13:02:13.2556871+00:00",
-  "LastUpdate_Achievements": "2023-12-03T13:07:47.8907471+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:58:09.8056535+00:00",
+  "LastUpdate_Achievements": "2023-12-03T14:03:57.0760973+00:00"
 }

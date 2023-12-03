@@ -250,9 +250,9 @@
       "ID": "ACH_100_ARROW",
       "SetID": "5akmpni",
       "Name": "Starry Night",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_100_CHARGE",
@@ -474,9 +474,9 @@
       "ID": "ACH_HEADSHOT_KILL",
       "SetID": "5akmpni",
       "Name": "Right between the eyes",
-      "Percentage": 53,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_HIGH_FIVE",
@@ -610,9 +610,9 @@
       "ID": "ACH_REPUTATION_LVL_4",
       "SetID": "5akmpni",
       "Name": "MAX LEVEL",
-      "Percentage": 55,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_REVIVE_ALLY",
@@ -681,8 +681,8 @@
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-12-03T13:09:30.3031293+00:00",
+  "LastChanged_Achievements": "2023-12-03T14:05:05.6393041+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:51.6227723+00:00",
-  "LastUpdate_Ratings": "2023-12-03T13:05:15.6312135+00:00",
-  "LastUpdate_Achievements": "2023-12-03T13:09:30.3031992+00:00"
+  "LastUpdate_Ratings": "2023-12-03T14:00:11.2866318+00:00",
+  "LastUpdate_Achievements": "2023-12-03T14:05:05.6393327+00:00"
 }

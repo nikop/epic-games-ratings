@@ -2,9 +2,9 @@
   "ID": "0f4a57443f904107818acfc2068704f9",
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
-  "Ranking_EOS_Progress": 277,
+  "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 825,
+  "EOS_Progressed": 827,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1747,6 +1747,11 @@
       "Time": "2023-12-03T13:10:15.586052+00:00",
       "NumProgressed": 825,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T14:05:38.4384865+00:00",
+      "NumProgressed": 827,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1807,7 +1812,7 @@
       "Name": "Knight-Vexillor",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "CompleteChapter1",
@@ -1815,7 +1820,7 @@
       "Name": "Pathfinder",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 635
+      "UsersEstimate": 637
     },
     {
       "ID": "CompleteChapter10",
@@ -1831,7 +1836,7 @@
       "Name": "The Artefact is Mine",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "CompleteChapter12",
@@ -1903,7 +1908,7 @@
       "Name": "Met the Enemy",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "CompleteChapter3",
@@ -1911,7 +1916,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "CompleteChapter4",
@@ -1943,7 +1948,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "CompleteChapter8",
@@ -1959,7 +1964,7 @@
       "Name": "Ingredients List",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -2007,7 +2012,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "Win100OnlineMatched",
@@ -2039,7 +2044,7 @@
       "Name": "Warmaster Supreme",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "WinAllConquestBattlesInARun",
@@ -2054,14 +2059,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 825,
+      "Progressed": 827,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-03T13:10:15.5860514+00:00",
+  "LastChanged_Achievements": "2023-12-03T14:05:38.4384863+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:09.4303292+00:00",
-  "LastUpdate_Ratings": "2023-12-03T13:03:33.2989748+00:00",
-  "LastUpdate_Achievements": "2023-12-03T13:10:15.5860872+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:59:03.0609146+00:00",
+  "LastUpdate_Achievements": "2023-12-03T14:05:38.4385248+00:00"
 }

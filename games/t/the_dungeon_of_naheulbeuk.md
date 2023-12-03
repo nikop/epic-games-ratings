@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~84,362 |
-| Alt+F4 | 9.00% | ~21,693 |
-| Where's that freaking Dwarf? | 8.00% | ~19,283 |
-| Déjà vu | 7.00% | ~16,872 |
+| Sowwy! | 35.00% | ~84,367 |
+| Alt+F4 | 9.00% | ~21,694 |
+| Where's that freaking Dwarf? | 8.00% | ~19,284 |
+| Déjà vu | 7.00% | ~16,873 |
 | Sock! SOCK! | 5.00% | ~12,052 |
 | Speedrun | 5.00% | ~12,052 |
-| A beer, two curses, three companions | 4.00% | ~9,641 |
-| GG EZ | 4.00% | ~9,641 |
-| DM intervention | 4.00% | ~9,641 |
-| Fireproof Wizardess | 4.00% | ~9,641 |
+| A beer, two curses, three companions | 4.00% | ~9,642 |
+| GG EZ | 4.00% | ~9,642 |
+| DM intervention | 4.00% | ~9,642 |
+| Fireproof Wizardess | 4.00% | ~9,642 |
 | Livin' in a dwarven paradise | 3.00% | ~7,231 |
 | Way of the Wimp | 3.00% | ~7,231 |
 | The plot thickens... At the tavern | 3.00% | ~7,231 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~241 |
 | Dwarf Candy | 0.10% | ~241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,034 (Ranked 63)  
+Progressed: 241,049 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,14 +281,14 @@ Completed: 7 (0.00%) (Ranked 365)
 | 2023-11-30 | 240,529 | 7 |
 | 2023-12-01 | 240,719 | 7 |
 | 2023-12-02 | 240,910 | 7 |
-| 2023-12-03 | 241,034 | 7 |
+| 2023-12-03 | 241,049 | 7 |
 ## Awards
-Max (Character Customization): 240  (Ranked 272)  
-Sum: 485 (Ranked 329)  
+Max (Character Customization): 241  (Ranked 272)  
+Sum: 486 (Ranked 329)  
 Diff (max vs sum): -57  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 240 |
+| This game has Inclusive Character Customization | 241 |
 | This game is Relaxing | 39 |
 | This game is Great for Beginners | 34 |
 | This game is Highly Recommended | 31 |
@@ -487,3 +487,4 @@ Diff (max vs sum): -57
 | 2023-11-27 | 4.58 | - | 240 | 483 |
 | 2023-11-28 | 4.58 | - | 240 | 484 |
 | 2023-11-30 | 4.58 | - | 240 | 485 |
+| 2023-12-03 | 4.58 | - | 241 | 486 |

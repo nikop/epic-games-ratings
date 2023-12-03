@@ -247,9 +247,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15858,
+  "EOS_Progressed": 15859,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 270,
+  "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -12977,6 +12977,11 @@
       "Time": "2023-12-03T13:09:11.028721+00:00",
       "NumProgressed": 15858,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-12-03T14:04:50.9588519+00:00",
+      "NumProgressed": 15859,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13051,9 +13056,9 @@
       "ID": "17",
       "SetID": "458bbdk",
       "Name": "Spore Taste",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 793
+      "UsersEstimate": 952
     },
     {
       "ID": "18",
@@ -13069,7 +13074,7 @@
       "Name": "Martian Music",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "2",
@@ -13093,7 +13098,7 @@
       "Name": "Drone Dodger",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "22",
@@ -13253,7 +13258,7 @@
       "Name": "Master Negotiator",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "35",
@@ -13268,13 +13273,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15858,
+      "Progressed": 15859,
       "Completed": 40
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1812,
+      "Progressed": 1813,
       "Completed": 800
     }
   ],
@@ -13282,8 +13287,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-02T18:02:57.3938434+00:00",
-  "LastChanged_Achievements": "2023-12-03T13:09:11.0287206+00:00",
+  "LastChanged_Achievements": "2023-12-03T14:04:50.9588517+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-03T13:06:06.9046129+00:00",
-  "LastUpdate_Achievements": "2023-12-03T13:09:11.0287901+00:00"
+  "LastUpdate_Ratings": "2023-12-03T14:02:44.8699087+00:00",
+  "LastUpdate_Achievements": "2023-12-03T14:04:50.9589307+00:00"
 }

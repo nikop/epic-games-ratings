@@ -2,12 +2,12 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 793,
+  "Ranking_Rating": 794,
   "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -1075,9 +1075,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 14660,
+  "EOS_Progressed": 14663,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 851,
+  "EOS_NewPlayers": 847,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -12265,6 +12265,11 @@
       "Time": "2023-12-03T13:12:42.4071286+00:00",
       "NumProgressed": 14660,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-03T14:09:15.3511976+00:00",
+      "NumProgressed": 14663,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -12325,7 +12330,7 @@
       "Name": "Bye Bye",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 6157
+      "UsersEstimate": 6158
     },
     {
       "ID": "a_19",
@@ -12365,7 +12370,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "a_23",
@@ -12483,9 +12488,9 @@
       "ID": "a_5",
       "SetID": "daiie3o",
       "Name": "Treasure of Roero",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 103
+      "UsersEstimate": 117
     },
     {
       "ID": "a_6",
@@ -12524,7 +12529,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 14660,
+      "Progressed": 14663,
       "Completed": 12
     }
   ],
@@ -12532,8 +12537,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-27T12:03:17.4706024+00:00",
-  "LastChanged_Achievements": "2023-12-03T13:12:42.4071271+00:00",
+  "LastChanged_Achievements": "2023-12-03T14:09:15.3511974+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:18.6853909+00:00",
-  "LastUpdate_Ratings": "2023-12-03T13:06:20.7736857+00:00",
-  "LastUpdate_Achievements": "2023-12-03T13:12:42.4071975+00:00"
+  "LastUpdate_Ratings": "2023-12-03T14:02:54.0551236+00:00",
+  "LastUpdate_Achievements": "2023-12-03T14:09:15.3512652+00:00"
 }

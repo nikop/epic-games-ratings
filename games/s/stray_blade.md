@@ -5,16 +5,16 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Self-Defence | 6.00% | ~8 |
-| Tinkerer | 3.00% | ~4 |
+| Tinkerer | 4.00% | ~5 |
 | Craftsmen | 2.00% | ~3 |
 | Welcome to the Club | 2.00% | ~3 |
+| Don't Cry Wolf | 2.00% | ~3 |
 | A new World ahead | 2.00% | ~3 |
 | Apprentice | 2.00% | ~3 |
 | Sponsor | 0.80% | ~1 |
 | Defeat Tezuth | 0.80% | ~1 |
 | Freezing Cold | 0.80% | ~1 |
 | Locked and Loaded | 0.80% | ~1 |
-| Don't Cry Wolf | 0.80% | ~1 |
 | Can't touch this | 0.80% | ~1 |
 | The A-Team | 0.80% | ~1 |
 | A Deceiving Gift | 0.80% | ~1 |
@@ -57,7 +57,7 @@
 | Whispers of the Sand | 0.00% | ~0 |
 | Lost and Found | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127 (Ranked 416)  
+Progressed: 128 (Ranked 415)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,6 +144,7 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-26 | 125 | 0 |
 | 2023-11-27 | 126 | 0 |
 | 2023-11-28 | 127 | 0 |
+| 2023-12-03 | 128 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

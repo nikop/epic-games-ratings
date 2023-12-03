@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 60.00% | ~214 |
-| Starting Skyward | 54.00% | ~192 |
-| Grime is Not Good | 49.00% | ~174 |
+| Starting Skyward | 54.00% | ~193 |
+| Grime is Not Good | 48.00% | ~171 |
 | Floor Galore | 42.00% | ~150 |
 | Dinner Dash | 42.00% | ~150 |
 | Campaign Launch | 41.00% | ~146 |
-| Need a Consult | 38.00% | ~135 |
-| It's Technical | 38.00% | ~135 |
+| Need a Consult | 38.00% | ~136 |
+| It's Technical | 38.00% | ~136 |
 | Upgrade Unlock | 37.00% | ~132 |
 | Delegate Maintenance | 35.00% | ~125 |
 | Proper Walls | 32.00% | ~114 |
@@ -22,12 +22,12 @@
 | Your Prestige is Rising | 25.00% | ~89 |
 | Retail Revenue | 25.00% | ~89 |
 | Don't Feel a Loan | 23.00% | ~82 |
-| People Mover | 22.00% | ~78 |
+| People Mover | 22.00% | ~79 |
 | Lux Living | 21.00% | ~75 |
 | Artfully Done | 21.00% | ~75 |
 | Emporium Empire | 21.00% | ~75 |
 | Leveled Up Shops | 21.00% | ~75 |
-| Get Electrified | 21.00% | ~75 |
+| Get Electrified | 20.00% | ~71 |
 | Rehab Expert | 19.00% | ~68 |
 | Tasty Profits | 19.00% | ~68 |
 | We Don't Need No Education | 19.00% | ~68 |
@@ -39,16 +39,16 @@
 | Boutique Benefits | 14.00% | ~50 |
 | Thrilled Tenants | 14.00% | ~50 |
 | Terrifically Trashed | 13.00% | ~46 |
-| 28 Days Later | 12.00% | ~43 |
-| Swimming in Surplus | 12.00% | ~43 |
+| 28 Days Later | 11.00% | ~39 |
+| Swimming in Surplus | 11.00% | ~39 |
 | Aestheticly Pleased | 10.00% | ~36 |
 | Master of Puppets | 10.00% | ~36 |
 | Refined Palates | 10.00% | ~36 |
 | Plaza Plan | 9.00% | ~32 |
 | Phoning It In | 9.00% | ~32 |
-| First 100 Days | 8.00% | ~28 |
-| Water Features | 8.00% | ~28 |
-| Revenue Royalty | 8.00% | ~28 |
+| First 100 Days | 8.00% | ~29 |
+| Water Features | 8.00% | ~29 |
+| Revenue Royalty | 8.00% | ~29 |
 | Careful Constructor | 7.00% | ~25 |
 | Meet Me at HQ | 7.00% | ~25 |
 | Maximum Reuse | 7.00% | ~25 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 356 (Ranked 337)  
+Progressed: 357 (Ranked 337)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,6 +192,7 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-23 | 354 | 0 |
 | 2023-11-27 | 355 | 0 |
 | 2023-11-30 | 356 | 0 |
+| 2023-12-03 | 357 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

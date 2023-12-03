@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 92.00% | ~474 |
+| Travel Streamer | 92.00% | ~475 |
 | Training Simulation | 77.00% | ~397 |
-| Kuku Bird Hunter | 63.00% | ~324 |
-| Storm Traveller | 56.00% | ~288 |
+| Kuku Bird Hunter | 62.00% | ~320 |
+| Storm Traveller | 56.00% | ~289 |
 | Wolf King Killer | 51.00% | ~263 |
-| Fashion Connoisseur | 49.00% | ~252 |
+| Fashion Connoisseur | 49.00% | ~253 |
 | Arms Mechanic | 45.00% | ~232 |
-| Flower Thief | 41.00% | ~211 |
-| Beginner Artificer | 36.00% | ~185 |
-| Apostle of Flame | 36.00% | ~185 |
-| Beginner Cook | 35.00% | ~180 |
-| Seal Breaker | 30.00% | ~154 |
+| Flower Thief | 41.00% | ~212 |
+| Apostle of Flame | 36.00% | ~186 |
+| Beginner Cook | 35.00% | ~181 |
+| Beginner Artificer | 35.00% | ~181 |
+| Seal Breaker | 30.00% | ~155 |
 | Handyman | 27.00% | ~139 |
 | Giant Lizard Killer | 26.00% | ~134 |
 | Guardian | 25.00% | ~129 |
 | Nosebleeder | 25.00% | ~129 |
 | Trader | 21.00% | ~108 |
 | Weapon Boost | 20.00% | ~103 |
-| Flying Kobold Killer | 17.00% | ~88 |
+| Flying Kobold Killer | 18.00% | ~93 |
 | Youth Magnet | 17.00% | ~88 |
-| Master Artificer | 16.00% | ~82 |
+| Master Artificer | 16.00% | ~83 |
 | Furious Scorpion Killer | 15.00% | ~77 |
 | Lethal Blade Mantis Killer | 15.00% | ~77 |
 | Squeaky Clean | 15.00% | ~77 |
-| Kind Adventurer | 13.00% | ~67 |
+| Kind Adventurer | 14.00% | ~72 |
 | Mermaid Killer | 13.00% | ~67 |
 | Cave Master | 12.00% | ~62 |
 | Face Slapper | 12.00% | ~62 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 1.00% | ~5 |
 | Warden Challenge | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 515 (Ranked 311)  
+Progressed: 516 (Ranked 311)  
 Completed: 1 (0.19%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 1 (0.19%) (Ranked 262)
 | 2023-11-30 | 461 | 1 |
 | 2023-12-01 | 471 | 1 |
 | 2023-12-02 | 496 | 1 |
-| 2023-12-03 | 515 | 1 |
+| 2023-12-03 | 516 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,8 +7,8 @@ Number of Ratings: 58  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Another Life | 84.00% | ~1,095 |
+| Voices from the Past | 78.00% | ~1,016 |
 | Space Traveler | 78.00% | ~1,016 |
-| Voices from the Past | 77.00% | ~1,003 |
 | Demigod | 75.00% | ~977 |
 | The Great Destroyer | 74.00% | ~964 |
 | Shields Down | 71.00% | ~925 |
@@ -241,8 +241,8 @@ Completed: 17 (1.30%) (Ranked 151)
 | 2023-12-02 | 1,301 | 17 |
 | 2023-12-03 | 1,303 | 17 |
 ## Awards
-Max (Great Boss Battles): 34  (Ranked 486)  
-Sum: 34 (Ranked 510)  
+Max (Great Boss Battles): 34  (Ranked 487)  
+Sum: 34 (Ranked 511)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |

@@ -21,8 +21,8 @@ Number of Ratings: 45  (23.09.2022)
 | Let Me Get My Chisel | 1.00% | ~15 |
 | Who's Counting? | 1.00% | ~15 |
 | Echoes Die | 1.00% | ~15 |
+| Thematic Divergence | 0.90% | ~14 |
 | Pyrrhic Victory | 0.90% | ~14 |
-| Thematic Divergence | 0.80% | ~12 |
 | Turncoat | 0.80% | ~12 |
 | A Story of Heroes | 0.70% | ~11 |
 | Another Tale to Tell | 0.60% | ~9 |

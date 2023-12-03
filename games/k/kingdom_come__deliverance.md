@@ -6,28 +6,28 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~259,494 |
-| Cavalier | 25.00% | ~202,730 |
-| Fatso | 23.00% | ~186,512 |
-| Awakening | 21.00% | ~170,293 |
-| Ranger | 20.00% | ~162,184 |
-| Scrooge | 20.00% | ~162,184 |
-| Anorectic | 16.00% | ~129,747 |
-| Firestarter | 16.00% | ~129,747 |
-| Bookworm | 15.00% | ~121,638 |
-| Insomniac | 13.00% | ~105,420 |
-| Buddy | 12.00% | ~97,310 |
-| Thief | 12.00% | ~97,310 |
-| Sinner | 11.00% | ~89,201 |
-| Traveller | 11.00% | ~89,201 |
-| Convict | 10.00% | ~81,092 |
-| Haggler | 9.00% | ~72,983 |
-| McLovin | 7.00% | ~56,764 |
-| Runt | 7.00% | ~56,764 |
-| Casanova | 6.00% | ~48,655 |
-| Bad Trip | 5.00% | ~40,546 |
-| Monk | 5.00% | ~40,546 |
-| Serial Killer | 5.00% | ~40,546 |
+| Blacksmith's Son | 32.00% | ~259,499 |
+| Cavalier | 25.00% | ~202,734 |
+| Fatso | 23.00% | ~186,515 |
+| Awakening | 21.00% | ~170,296 |
+| Ranger | 20.00% | ~162,187 |
+| Scrooge | 20.00% | ~162,187 |
+| Anorectic | 16.00% | ~129,749 |
+| Firestarter | 16.00% | ~129,749 |
+| Bookworm | 15.00% | ~121,640 |
+| Insomniac | 13.00% | ~105,421 |
+| Buddy | 12.00% | ~97,312 |
+| Thief | 12.00% | ~97,312 |
+| Sinner | 11.00% | ~89,203 |
+| Traveller | 11.00% | ~89,203 |
+| Convict | 10.00% | ~81,093 |
+| Haggler | 9.00% | ~72,984 |
+| McLovin | 7.00% | ~56,765 |
+| Runt | 7.00% | ~56,765 |
+| Casanova | 6.00% | ~48,656 |
+| Bad Trip | 5.00% | ~40,547 |
+| Monk | 5.00% | ~40,547 |
+| Serial Killer | 5.00% | ~40,547 |
 | Bastard | 4.00% | ~32,437 |
 | Hunter | 4.00% | ~32,437 |
 | Plague Doctor | 4.00% | ~32,437 |
@@ -35,15 +35,15 @@ Number of Ratings: 9,133  (23.09.2022)
 | Conqueror | 3.00% | ~24,328 |
 | Ginger in a Pickle | 3.00% | ~24,328 |
 | Kingdom did not come | 3.00% | ~24,328 |
-| Completionist | 2.00% | ~16,218 |
-| Death by splinter | 2.00% | ~16,218 |
-| King Charming | 2.00% | ~16,218 |
-| Knightrider | 2.00% | ~16,218 |
-| Level Cap | 2.00% | ~16,218 |
-| Arena Master | 2.00% | ~16,218 |
-| Robber Baron | 2.00% | ~16,218 |
-| Talmberger | 2.00% | ~16,218 |
-| The End | 2.00% | ~16,218 |
+| Completionist | 2.00% | ~16,219 |
+| Death by splinter | 2.00% | ~16,219 |
+| King Charming | 2.00% | ~16,219 |
+| Knightrider | 2.00% | ~16,219 |
+| Level Cap | 2.00% | ~16,219 |
+| Arena Master | 2.00% | ~16,219 |
+| Robber Baron | 2.00% | ~16,219 |
+| Talmberger | 2.00% | ~16,219 |
+| The End | 2.00% | ~16,219 |
 | Woman's Lot | 1.00% | ~8,109 |
 | Chivalrous Soul | 1.00% | ~8,109 |
 | Spoilsport | 1.00% | ~8,109 |
@@ -54,9 +54,9 @@ Number of Ratings: 9,133  (23.09.2022)
 | Bailiff | 0.90% | ~7,298 |
 | Tracker | 0.90% | ~7,298 |
 | David Horak | 0.80% | ~6,487 |
-| Fighter | 0.70% | ~5,676 |
-| Mercenary's Honour | 0.70% | ~5,676 |
-| Saviour | 0.70% | ~5,676 |
+| Fighter | 0.70% | ~5,677 |
+| Mercenary's Honour | 0.70% | ~5,677 |
+| Saviour | 0.70% | ~5,677 |
 | Edward Kelly | 0.60% | ~4,866 |
 | I Can Quit Anytime | 0.50% | ~4,055 |
 | Perfectionist | 0.50% | ~4,055 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~811 |
 | Wingman | 0.10% | ~811 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 810,920 (Ranked 17)  
+Progressed: 810,934 (Ranked 17)  
 Completed: 52 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,14 +316,14 @@ Completed: 52 (0.01%) (Ranked 344)
 | 2023-11-30 | 810,582 | 52 |
 | 2023-12-01 | 810,690 | 52 |
 | 2023-12-02 | 810,836 | 52 |
-| 2023-12-03 | 810,920 | 52 |
+| 2023-12-03 | 810,934 | 52 |
 ## Awards
-Max (Character Customization): 7,643  (Ranked 51)  
-Sum: 28,389 (Ranked 49)  
+Max (Character Customization): 7,646  (Ranked 51)  
+Sum: 28,392 (Ranked 49)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,643 |
+| This game has Inclusive Character Customization | 7,646 |
 | This game has Great Boss Battles | 5,594 |
 | This game has Challenging Combat | 1,782 |
 | This game has Diverse Characters | 1,739 |
@@ -648,4 +648,4 @@ Diff (max vs sum): 2
 | 2023-11-30 | 4.71 | - | 7,637 | 28,368 |
 | 2023-12-01 | 4.71 | - | 7,643 | 28,381 |
 | 2023-12-02 | 4.71 | - | 7,643 | 28,386 |
-| 2023-12-03 | 4.71 | - | 7,643 | 28,389 |
+| 2023-12-03 | 4.71 | - | 7,646 | 28,392 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 754,
+  "EOS_Progressed": 755,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -877,6 +877,11 @@
       "Time": "2023-12-02T07:03:51.5884144+00:00",
       "NumProgressed": 754,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T14:04:25.1585868+00:00",
+      "NumProgressed": 755,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -928,7 +933,7 @@
       "Name": "Club Star",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "Combine",
@@ -952,7 +957,7 @@
       "Name": "Fire in the hole!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "I feel secure, contained \u0026 protected",
@@ -992,7 +997,7 @@
       "Name": "In the smacker...I think",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Keep_em_coming",
@@ -1064,7 +1069,7 @@
       "Name": "That\u0027s gotta hurt",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "The Traveler",
@@ -1152,7 +1157,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "posters",
@@ -1175,7 +1180,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 754,
+      "Progressed": 755,
       "Completed": 0
     }
   ],
@@ -1183,8 +1188,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-12-03T13:08:25.6780471+00:00",
+  "LastChanged_Achievements": "2023-12-03T14:04:25.1585866+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:27.326915+00:00",
-  "LastUpdate_Ratings": "2023-12-03T13:04:00.7562714+00:00",
-  "LastUpdate_Achievements": "2023-12-03T13:08:25.6780678+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:59:21.3352579+00:00",
+  "LastUpdate_Achievements": "2023-12-03T14:04:25.1586115+00:00"
 }

@@ -50,8 +50,8 @@ Rating: 4.61 (Ranked 387)
 | God Emperor | 0.50% | ~28 |
 | The Goddess of Nature | 0.50% | ~28 |
 | Pruning for Progress | 0.50% | ~28 |
-| Grexolis | 0.40% | ~22 |
-| One for All, All for One | 0.40% | ~22 |
+| Grexolis | 0.50% | ~28 |
+| One for All, All for One | 0.50% | ~28 |
 | Duality | 0.40% | ~22 |
 | Betrayal Most Foul | 0.30% | ~17 |
 | Snap Out of It! | 0.20% | ~11 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 387)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,563 (Ranked 189)  
+Progressed: 5,564 (Ranked 189)  
 Completed: 7 (0.13%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,11 +261,11 @@ Completed: 7 (0.13%) (Ranked 274)
 | 2023-11-30 | 5,551 | 7 |
 | 2023-12-01 | 5,553 | 7 |
 | 2023-12-02 | 5,560 | 7 |
-| 2023-12-03 | 5,563 | 7 |
+| 2023-12-03 | 5,564 | 7 |
 ## Awards
-Max (Great for Beginners): 35  (Ranked 480)  
+Max (Great for Beginners): 35  (Ranked 481)  
 Sum: 84 (Ranked 463)  
-Diff (max vs sum): 17  
+Diff (max vs sum): 18  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 35 |

@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 316,
+  "EOS_Progressed": 317,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.27,
+  "EOS_Completed_Percentage": 1.26,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:50.5545173+00:00",
@@ -666,6 +666,11 @@
       "Time": "2023-12-03T12:09:22.0060782+00:00",
       "NumProgressed": 316,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-03T14:09:10.4670674+00:00",
+      "NumProgressed": 317,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 19,
@@ -685,7 +690,7 @@
       "Name": "Picky, Picky!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "misha_date2_all",
@@ -701,7 +706,7 @@
       "Name": "Keep the spark alive",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "profile_misha",
@@ -717,7 +722,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ryan_date2_all",
@@ -733,7 +738,7 @@
       "Name": "Go well, lad",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "success_azalea",
@@ -749,7 +754,7 @@
       "Name": "The lad",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "success_brandy",
@@ -773,7 +778,7 @@
       "Name": "The individualist",
       "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "success_jake",
@@ -821,14 +826,14 @@
       "Name": "Muggy Misha",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     }
   ],
   "AchievementSets": [
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 316,
+      "Progressed": 317,
       "Completed": 4
     }
   ],
@@ -836,8 +841,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-12-03T13:12:35.4441549+00:00",
+  "LastChanged_Achievements": "2023-12-03T14:09:10.4670672+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:12.5051306+00:00",
-  "LastUpdate_Ratings": "2023-12-03T13:02:17.344695+00:00",
-  "LastUpdate_Achievements": "2023-12-03T13:12:35.4441686+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:58:12.5188339+00:00",
+  "LastUpdate_Achievements": "2023-12-03T14:09:10.4670804+00:00"
 }

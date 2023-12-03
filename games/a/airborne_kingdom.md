@@ -1,30 +1,30 @@
 # Airborne Kingdom
 [Store](https://store.epicgames.com/en-US/p/airborne-kingdom)  
 [View Rawdata](../../db/a/airborne_kingdom.json)  
-Rating: 4.65 (Ranked 313)  
+Rating: 4.65 (Ranked 312)  
 Number of Ratings: 74  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Small Community | 56.00% | ~4,238 |
 | A Grove Replanted | 53.00% | ~4,011 |
-| Fields Watered | 41.00% | ~3,102 |
-| Seekers Found | 41.00% | ~3,102 |
-| Settling the Skies | 41.00% | ~3,102 |
+| Fields Watered | 41.00% | ~3,103 |
+| Seekers Found | 41.00% | ~3,103 |
+| Settling the Skies | 41.00% | ~3,103 |
 | Wind Powered | 40.00% | ~3,027 |
 | It Takes a Village | 34.00% | ~2,573 |
 | On the Town | 28.00% | ~2,119 |
-| Daylight Found | 26.00% | ~1,967 |
+| Daylight Found | 26.00% | ~1,968 |
 | Irons Scorched | 25.00% | ~1,892 |
 | Islands Connected | 25.00% | ~1,892 |
-| Harp Tuned | 23.00% | ~1,740 |
-| Pyre Ignited | 23.00% | ~1,740 |
-| Travelers Returned | 23.00% | ~1,740 |
+| Harp Tuned | 23.00% | ~1,741 |
+| Pyre Ignited | 23.00% | ~1,741 |
+| Travelers Returned | 23.00% | ~1,741 |
 | Hopes Hoisted | 22.00% | ~1,665 |
-| Knowledge Shared | 20.00% | ~1,513 |
-| Relic Finder | 20.00% | ~1,513 |
+| Knowledge Shared | 20.00% | ~1,514 |
+| Relic Finder | 20.00% | ~1,514 |
 | Worthy of the Title | 19.00% | ~1,438 |
-| A Peaceful Respite | 14.00% | ~1,059 |
+| A Peaceful Respite | 14.00% | ~1,060 |
 | A Learned Scholar | 13.00% | ~984 |
 | Prophecy Fulfilled | 13.00% | ~984 |
 | A Wanderer’s Guide | 11.00% | ~832 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~151 |
 | A True Challenge | 2.00% | ~151 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,567 (Ranked 177)  
+Progressed: 7,568 (Ranked 177)  
 Completed: 58 (0.77%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 58 (0.77%) (Ranked 184)
 | 2023-11-30 | 7,554 | 58 |
 | 2023-12-01 | 7,560 | 58 |
 | 2023-12-02 | 7,563 | 58 |
-| 2023-12-03 | 7,567 | 58 |
+| 2023-12-03 | 7,568 | 58 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

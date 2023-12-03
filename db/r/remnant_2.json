@@ -5103,9 +5103,9 @@
       "Count": 393
     }
   ],
-  "EOS_Progressed": 233694,
+  "EOS_Progressed": 233734,
   "EOS_Completed": 550,
-  "EOS_NewPlayers": 5071,
+  "EOS_NewPlayers": 5050,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -21163,6 +21163,11 @@
       "Time": "2023-12-03T13:12:30.9251612+00:00",
       "NumProgressed": 233694,
       "NumCompleted": 550
+    },
+    {
+      "Time": "2023-12-03T14:09:07.0830888+00:00",
+      "NumProgressed": 233734,
+      "NumCompleted": 550
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21175,7 +21180,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -21295,7 +21300,7 @@
       "Name": "Quest for Survival",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -21479,7 +21484,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "Obtain_Traits_B",
@@ -21614,13 +21619,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 233694,
+      "Progressed": 233734,
       "Completed": 550
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 12859,
+      "Progressed": 12899,
       "Completed": 185
     }
   ],
@@ -21628,8 +21633,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-03T13:06:34.6694066+00:00",
-  "LastChanged_Achievements": "2023-12-03T13:12:30.9251607+00:00",
+  "LastChanged_Achievements": "2023-12-03T14:09:07.0830885+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-03T13:06:34.6694075+00:00",
-  "LastUpdate_Achievements": "2023-12-03T13:12:30.9252654+00:00"
+  "LastUpdate_Ratings": "2023-12-03T14:03:03.8022749+00:00",
+  "LastUpdate_Achievements": "2023-12-03T14:09:07.0832026+00:00"
 }

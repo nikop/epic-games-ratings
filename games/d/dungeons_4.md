@@ -35,9 +35,9 @@
 | Unstoppable Horde | 30.00% | ~155 |
 | Master of the Undead | 28.00% | ~145 |
 | The Duel | 28.00% | ~145 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 25.00% | ~129 |
 | If Looks Could Kill | 25.00% | ~129 |
 | Hungry, Hungry Gorgu! | 24.00% | ~124 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 24.00% | ~124 |
 | Forbidden Knowledge | 24.00% | ~124 |
 | Ghost Pirates? Ghost Heroes! | 24.00% | ~124 |
 | The Finitude Drill | 22.00% | ~114 |
@@ -54,10 +54,10 @@
 | The Rune Sockets of Finitude (Part 2) | 14.00% | ~72 |
 | Rubble and Ashes | 13.00% | ~67 |
 | The Last Stand - This Time For Real! | 13.00% | ~67 |
+| To Infinity And Beyond! | 12.00% | ~62 |
 | Mirror, Mirror | 11.00% | ~57 |
 | Untouchable | 11.00% | ~57 |
 | To the Max! | 11.00% | ~57 |
-| To Infinity And Beyond! | 11.00% | ~57 |
 | Laser Eyes Are So Useless | 9.00% | ~47 |
 | Evilification | 9.00% | ~47 |
 | Gorgu is in the Best of Health | 8.00% | ~41 |

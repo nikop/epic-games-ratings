@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 57.00% | ~285 |
-| The Teleprobe | 46.00% | ~230 |
-| The City | 41.00% | ~205 |
-| The field base | 36.00% | ~180 |
-| Survivors | 29.00% | ~145 |
-| The Condor | 27.00% | ~135 |
-| The End | 27.00% | ~135 |
+| The Camp | 57.00% | ~286 |
+| The Teleprobe | 46.00% | ~231 |
+| The City | 41.00% | ~206 |
+| The field base | 36.00% | ~181 |
+| Survivors | 29.00% | ~146 |
+| The Condor | 27.00% | ~136 |
+| The End | 26.00% | ~131 |
 | The Alliance | 21.00% | ~105 |
 | Krauta is alive | 21.00% | ~105 |
 | The Necroevolution | 21.00% | ~105 |
@@ -34,7 +34,7 @@
 | Convoy list | 1.00% | ~5 |
 | No more mistakes | 0.60% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 500 (Ranked 314)  
+Progressed: 502 (Ranked 313)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,4 +62,4 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-30 | 468 | 0 |
 | 2023-12-01 | 480 | 0 |
 | 2023-12-02 | 492 | 0 |
-| 2023-12-03 | 500 | 0 |
+| 2023-12-03 | 502 | 0 |

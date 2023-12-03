@@ -222,9 +222,9 @@
       "ID": "Finish_P1L2",
       "SetID": "7270ipa",
       "Name": "The Clock is Ticking",
-      "Percentage": 22,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Finish_P1L3",
@@ -447,8 +447,8 @@
   "FirstSeenRating": "2023-03-31T05:57:13.3030994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.1498676+00:00",
   "LastChanged": "2023-03-31T05:57:13.3030995+00:00",
-  "LastChanged_Achievements": "2023-12-03T13:12:53.4288491+00:00",
+  "LastChanged_Achievements": "2023-12-03T14:09:23.5337175+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:24.0959803+00:00",
-  "LastUpdate_Ratings": "2023-12-03T13:04:24.9280035+00:00",
-  "LastUpdate_Achievements": "2023-12-03T13:12:53.4288718+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:59:37.8406405+00:00",
+  "LastUpdate_Achievements": "2023-12-03T14:09:23.5337351+00:00"
 }

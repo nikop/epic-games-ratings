@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~1,394 |
+| New Recruit | 90.00% | ~1,395 |
 | Off to a good start | 67.00% | ~1,038 |
-| Do... or do not. There is no try | 50.00% | ~774 |
+| Do... or do not. There is no try | 50.00% | ~775 |
 | A good blaster at your side | 31.00% | ~480 |
 | I suggest a new strategy | 19.00% | ~294 |
 | Scrap collector | 18.00% | ~279 |
-| All right, I'll give it a try | 17.00% | ~263 |
-| Great shot, kid! | 17.00% | ~263 |
+| All right, I'll give it a try | 17.00% | ~264 |
+| Great shot, kid! | 17.00% | ~264 |
 | The power of the Force | 14.00% | ~217 |
 | Collector | 14.00% | ~217 |
 | Together we can rule the galaxy | 14.00% | ~217 |
 | Shoot first | 14.00% | ~217 |
 | Survivor | 10.00% | ~155 |
-| Tell Jabba that I've got his money | 9.00% | ~139 |
-| Best star-pilot in the galaxy | 9.00% | ~139 |
+| Tell Jabba that I've got his money | 9.00% | ~140 |
+| Best star-pilot in the galaxy | 9.00% | ~140 |
 | Never tell me the odds! | 8.00% | ~124 |
 | A cunning warrior | 8.00% | ~124 |
-| What's the cargo? | 7.00% | ~108 |
+| What's the cargo? | 7.00% | ~109 |
 | Impressive. Most impressive. | 6.00% | ~93 |
 | Judge me by my size, do you? | 6.00% | ~93 |
-| "Gonk? Gonk!" | 5.00% | ~77 |
-| Distinguished | 5.00% | ~77 |
-| A tremor in the Force | 5.00% | ~77 |
-| Support the troops | 5.00% | ~77 |
+| Support the troops | 6.00% | ~93 |
+| "Gonk? Gonk!" | 5.00% | ~78 |
+| Distinguished | 5.00% | ~78 |
+| A tremor in the Force | 5.00% | ~78 |
 | On the ball | 4.00% | ~62 |
 | Safety ain't the point of a joyride | 4.00% | ~62 |
 | Not bad for a little furball | 4.00% | ~62 |
@@ -45,13 +45,13 @@
 | Alternative solution | 2.00% | ~31 |
 | What will you become? | 2.00% | ~31 |
 | Disturbed tranquility | 2.00% | ~31 |
-| Hold the line! | 1.00% | ~15 |
-| Playing the objective | 1.00% | ~15 |
-| Ackbar's Elite | 1.00% | ~15 |
-| You have your moments | 1.00% | ~15 |
-| When surrounded by war... | 1.00% | ~15 |
-| Onwards! | 1.00% | ~15 |
-| The circle is now complete | 1.00% | ~15 |
+| Hold the line! | 1.00% | ~16 |
+| Playing the objective | 1.00% | ~16 |
+| Ackbar's Elite | 1.00% | ~16 |
+| You have your moments | 1.00% | ~16 |
+| When surrounded by war... | 1.00% | ~16 |
+| Onwards! | 1.00% | ~16 |
+| The circle is now complete | 1.00% | ~16 |
 | Walker defender | 0.90% | ~14 |
 | Stop that Droid | 0.90% | ~14 |
 | A New Hope | 0.80% | ~12 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,549 (Ranked 240)  
+Progressed: 1,550 (Ranked 240)  
 Completed: 1 (0.06%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 1 (0.06%) (Ranked 310)
 | 2023-11-30 | 1,494 | 1 |
 | 2023-12-01 | 1,502 | 1 |
 | 2023-12-02 | 1,519 | 1 |
-| 2023-12-03 | 1,549 | 1 |
+| 2023-12-03 | 1,550 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

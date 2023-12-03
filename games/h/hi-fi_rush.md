@@ -8,7 +8,7 @@ Rating: 4.87 (Ranked 24)
 | Start with a bang! | 19.00% | ~848 |
 | Feeling the beat! | 19.00% | ~848 |
 | You can pet the cat! | 18.00% | ~803 |
-| Who put gears in there? | 17.00% | ~758 |
+| Who put gears in there? | 17.00% | ~759 |
 | Cream of the Crop | 16.00% | ~714 |
 | Thanks for the free chip, Peppermint! | 15.00% | ~669 |
 | You got this, Peppermint? | 15.00% | ~669 |
@@ -21,12 +21,12 @@ Rating: 4.87 (Ranked 24)
 | Kissing the sky! | 11.00% | ~491 |
 | The Negotiator | 10.00% | ~446 |
 | Whoa! There's ANOTHER health bar!? | 10.00% | ~446 |
-| Headliner | 9.00% | ~401 |
-| Time to pay up! | 9.00% | ~401 |
-| You must like calling me in, Chai | 9.00% | ~401 |
-| Out in a puff of smoke | 9.00% | ~401 |
-| I look cool. But I can look COOLER. | 9.00% | ~401 |
-| Does that say weakpoint? | 9.00% | ~401 |
+| Headliner | 9.00% | ~402 |
+| Time to pay up! | 9.00% | ~402 |
+| You must like calling me in, Chai | 9.00% | ~402 |
+| Out in a puff of smoke | 9.00% | ~402 |
+| I look cool. But I can look COOLER. | 9.00% | ~402 |
+| Does that say weakpoint? | 9.00% | ~402 |
 | Who's the boss now? | 8.00% | ~357 |
 | Perfecter Parry-er! | 8.00% | ~357 |
 | NOW we got a kickass hideout! | 8.00% | ~239 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,461 (Ranked 194)  
+Progressed: 4,462 (Ranked 194)  
 Completed: 8 (0.18%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 8 (0.18%) (Ranked 265)
 | 2023-11-30 | 4,441 | 8 |
 | 2023-12-01 | 4,446 | 8 |
 | 2023-12-02 | 4,456 | 8 |
-| 2023-12-03 | 4,461 | 8 |
+| 2023-12-03 | 4,462 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

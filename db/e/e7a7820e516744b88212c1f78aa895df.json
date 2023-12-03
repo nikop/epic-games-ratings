@@ -4,7 +4,7 @@
   "ProductSlug": "overpass-2",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -1416,8 +1416,8 @@
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-12-03T13:12:34.1952328+00:00",
+  "LastChanged_Achievements": "2023-12-03T14:09:09.5821205+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:28.4111974+00:00",
-  "LastUpdate_Ratings": "2023-12-03T13:02:50.5734584+00:00",
-  "LastUpdate_Achievements": "2023-12-03T13:12:34.1952521+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:58:34.2102798+00:00",
+  "LastUpdate_Achievements": "2023-12-03T14:09:09.5821453+00:00"
 }

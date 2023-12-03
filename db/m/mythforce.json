@@ -3,11 +3,11 @@
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 633,
-  "Ranking_Popularity": 480,
+  "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -806,9 +806,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5305,
+  "EOS_Progressed": 5306,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10451,6 +10451,11 @@
       "Time": "2023-12-03T13:07:09.0098776+00:00",
       "NumProgressed": 5305,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-03T14:03:28.1061563+00:00",
+      "NumProgressed": 5306,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -10463,7 +10468,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -10511,7 +10516,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1379
+      "UsersEstimate": 1380
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -10549,9 +10554,9 @@
       "ID": "MF_Ach_HitEmWhereItHurts",
       "SetID": "9b9n573",
       "Name": "Hit \u0027Em Where It Hurts",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1326
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -10646,15 +10651,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5305,
+      "Progressed": 5306,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-01T06:01:05.0621947+00:00",
-  "LastChanged_Achievements": "2023-12-03T13:07:09.0098755+00:00",
+  "LastChanged_Achievements": "2023-12-03T14:03:28.1061561+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:08.5943079+00:00",
-  "LastUpdate_Ratings": "2023-12-03T13:00:41.5363561+00:00",
-  "LastUpdate_Achievements": "2023-12-03T13:07:09.0099574+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:57:13.330698+00:00",
+  "LastUpdate_Achievements": "2023-12-03T14:03:28.1061982+00:00"
 }
