@@ -3,9 +3,9 @@
   "Name": "Alex Kidd in Miracle World DX",
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 349,
-  "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 428,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_Completed": 159,
+  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
     "PcReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 329,
+  "EOS_Progressed": 330,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.22,
+  "EOS_Completed_Percentage": 1.21,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.0192053+00:00",
@@ -539,6 +539,11 @@
       "Time": "2023-12-03T21:04:21.0620482+00:00",
       "NumProgressed": 329,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-03T23:04:39.7799006+00:00",
+      "NumProgressed": 330,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -580,9 +585,9 @@
       "ID": "CHOKKINA_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Second Commander",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 63
+      "UsersEstimate": 59
     },
     {
       "ID": "EGLE_FREED",
@@ -677,7 +682,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 329,
+      "Progressed": 330,
       "Completed": 4
     }
   ],
@@ -685,8 +690,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-12-03T22:04:33.5655204+00:00",
+  "LastChanged_Achievements": "2023-12-03T23:04:39.7799002+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:46.6450152+00:00",
-  "LastUpdate_Ratings": "2023-12-03T21:58:59.3236557+00:00",
-  "LastUpdate_Achievements": "2023-12-03T22:04:33.5655317+00:00"
+  "LastUpdate_Ratings": "2023-12-03T22:59:13.9555631+00:00",
+  "LastUpdate_Achievements": "2023-12-03T23:04:39.7799155+00:00"
 }

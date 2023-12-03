@@ -2,13 +2,13 @@
   "ID": "aa598567414d42378187b8861da550f7",
   "Name": "Remnant 2",
   "ProductSlug": "remnant-2",
-  "Ranking_Rating": 148,
+  "Ranking_Rating": 147,
   "Ranking_Popularity": 102,
   "Ranking_PopularitySum": 128,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
     "PcReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -5115,9 +5115,9 @@
       "Count": 396
     }
   ],
-  "EOS_Progressed": 234176,
+  "EOS_Progressed": 234204,
   "EOS_Completed": 554,
-  "EOS_NewPlayers": 5190,
+  "EOS_NewPlayers": 5192,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -21220,6 +21220,11 @@
       "Time": "2023-12-03T22:08:40.3357438+00:00",
       "NumProgressed": 234176,
       "NumCompleted": 554
+    },
+    {
+      "Time": "2023-12-03T23:08:30.1450549+00:00",
+      "NumProgressed": 234204,
+      "NumCompleted": 554
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21312,7 +21317,7 @@
       "Name": "The Killing Jar",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1873
+      "UsersEstimate": 1874
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -21574,17 +21579,17 @@
       "ID": "Upgrade_Boss_Weapon_B",
       "SetID": "bkp3b1a",
       "Name": "Almost There",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 703
+      "UsersEstimate": 937
     },
     {
       "ID": "Upgrade_Relic",
       "SetID": "bkp3b1a",
       "Name": "Make Some Room",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 703
+      "UsersEstimate": 937
     },
     {
       "ID": "Upgrade_Standard_Weapon_A",
@@ -21632,7 +21637,7 @@
       "Name": "Regicide",
       "Percentage": 0.7,
       "XP": 75,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -21648,7 +21653,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -21671,22 +21676,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 234176,
+      "Progressed": 234204,
       "Completed": 554
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 13341,
-      "Completed": 187
+      "Progressed": 13369,
+      "Completed": 188
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-03T17:02:55.1057954+00:00",
-  "LastChanged_Achievements": "2023-12-03T22:08:40.3357435+00:00",
+  "LastChanged_Achievements": "2023-12-03T23:08:30.1450546+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-03T22:02:55.138014+00:00",
-  "LastUpdate_Achievements": "2023-12-03T22:08:40.335834+00:00"
+  "LastUpdate_Ratings": "2023-12-03T23:03:01.3950321+00:00",
+  "LastUpdate_Achievements": "2023-12-03T23:08:30.1451932+00:00"
 }

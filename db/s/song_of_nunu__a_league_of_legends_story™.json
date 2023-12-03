@@ -4,8 +4,8 @@
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -2433,9 +2433,9 @@
       "ID": "EV_ACH03",
       "SetID": "6jeac23",
       "Name": "He\u0027s Famous!",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 700
+      "UsersEstimate": 711
     },
     {
       "ID": "EV_ACH04",
@@ -2497,9 +2497,9 @@
       "ID": "EV_ACH11",
       "SetID": "6jeac23",
       "Name": "Biggest Snowball Ever",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 409
+      "UsersEstimate": 420
     },
     {
       "ID": "EV_ACH12",
@@ -2569,9 +2569,9 @@
       "ID": "EV_ACH20",
       "SetID": "6jeac23",
       "Name": "True Legends",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 420
+      "UsersEstimate": 431
     },
     {
       "ID": "EV_ACH21",
@@ -2585,9 +2585,9 @@
       "ID": "EV_ACH22",
       "SetID": "6jeac23",
       "Name": "Bullseye",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 388
+      "UsersEstimate": 398
     },
     {
       "ID": "EV_ACH23",
@@ -2657,9 +2657,9 @@
       "ID": "EV_ACH31",
       "SetID": "6jeac23",
       "Name": "Feels Familiar",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 808
+      "UsersEstimate": 819
     },
     {
       "ID": "EV_ACH32",
@@ -2776,8 +2776,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-12-03T22:09:23.4993712+00:00",
+  "LastChanged_Achievements": "2023-12-03T23:09:17.1539868+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:30.6562338+00:00",
-  "LastUpdate_Ratings": "2023-12-03T21:58:32.1329806+00:00",
-  "LastUpdate_Achievements": "2023-12-03T22:09:23.4994102+00:00"
+  "LastUpdate_Ratings": "2023-12-03T22:58:43.9485011+00:00",
+  "LastUpdate_Achievements": "2023-12-03T23:09:17.1540207+00:00"
 }

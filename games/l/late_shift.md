@@ -13,7 +13,7 @@
 | The Frenzy | 32.00% | ~223 |
 | Good Karma | 30.00% | ~209 |
 | Office Clerk | 28.00% | ~195 |
-| Protector | 27.00% | ~188 |
+| Protector | 28.00% | ~195 |
 | The Bribe | 25.00% | ~174 |
 | Interrogation | 16.00% | ~112 |
 | The Ploy | 15.00% | ~105 |

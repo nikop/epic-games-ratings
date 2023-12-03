@@ -6,26 +6,26 @@ Rating: 4.39 (Ranked 752)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Good start | 76.00% | ~876 |
-| And so it begins | 73.00% | ~841 |
-| No pressure | 70.00% | ~806 |
-| Memento | 62.00% | ~714 |
-| Let there be light | 60.00% | ~691 |
+| And so it begins | 73.00% | ~842 |
+| No pressure | 70.00% | ~807 |
+| Memento | 61.00% | ~703 |
+| Let there be light | 60.00% | ~692 |
 | I think you dropped this | 55.00% | ~634 |
-| Soulmate? | 54.00% | ~622 |
+| Soulmate? | 54.00% | ~623 |
 | Excellent service | 50.00% | ~576 |
-| Roll with it | 47.00% | ~541 |
-| Humble beginnings | 45.00% | ~518 |
+| Roll with it | 47.00% | ~542 |
+| Humble beginnings | 45.00% | ~519 |
 | Love is in the air | 44.00% | ~507 |
-| Fine, I'll do it myself | 43.00% | ~495 |
-| Moving up | 43.00% | ~495 |
-| No need to call anyone | 41.00% | ~472 |
+| Fine, I'll do it myself | 43.00% | ~496 |
+| Moving up | 42.00% | ~484 |
+| No need to call anyone | 41.00% | ~473 |
 | Big fortune | 34.00% | ~392 |
 | Still more work ahead | 31.00% | ~357 |
 | Aesop's fable | 29.00% | ~334 |
 | Hotel sleuthing | 29.00% | ~334 |
 | Kaboom | 28.00% | ~323 |
 | Nearly there | 27.00% | ~311 |
-| Broken heart | 24.00% | ~276 |
+| Broken heart | 24.00% | ~277 |
 | Island boy | 23.00% | ~265 |
 | You're a star | 21.00% | ~242 |
 | Unstoppable | 19.00% | ~219 |
@@ -33,8 +33,8 @@ Rating: 4.39 (Ranked 752)
 | King of hospitality | 11.00% | ~127 |
 | Top spot in town | 3.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,152 (Ranked 255)  
-Completed: 17 (1.48%) (Ranked 144)  
+Progressed: 1,153 (Ranked 255)  
+Completed: 17 (1.47%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -211,7 +211,7 @@ Completed: 17 (1.48%) (Ranked 144)
 | 2023-11-29 | 1,148 | 16 |
 | 2023-12-01 | 1,150 | 16 |
 | 2023-12-02 | 1,152 | 16 |
-| 2023-12-03 | 1,152 | 17 |
+| 2023-12-03 | 1,153 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

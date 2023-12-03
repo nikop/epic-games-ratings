@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7161,
+  "EOS_Progressed": 7162,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -6604,6 +6604,11 @@
       "Time": "2023-12-03T22:05:48.9928611+00:00",
       "NumProgressed": 7161,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-12-03T23:06:02.9334855+00:00",
+      "NumProgressed": 7162,
+      "NumCompleted": 42
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -6616,7 +6621,7 @@
       "Name": "First of Many",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 6230
+      "UsersEstimate": 6231
     },
     {
       "ID": "achievement_01_02",
@@ -6640,7 +6645,7 @@
       "Name": "Bzzzt",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 5299
+      "UsersEstimate": 5300
     },
     {
       "ID": "achievement_01_05",
@@ -6672,7 +6677,7 @@
       "Name": "Trophy Collector",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 5371
+      "UsersEstimate": 5372
     },
     {
       "ID": "achievement_01_09",
@@ -6680,7 +6685,7 @@
       "Name": "Right Foot",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 3079
+      "UsersEstimate": 3080
     },
     {
       "ID": "achievement_01_10",
@@ -6728,7 +6733,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "achievement_02_06",
@@ -6808,7 +6813,7 @@
       "Name": "Golden Amateur Champion",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "achievement_03_08",
@@ -6856,7 +6861,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 3437
+      "UsersEstimate": 3438
     },
     {
       "ID": "achievement_04_03",
@@ -6864,7 +6869,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3795
+      "UsersEstimate": 3796
     },
     {
       "ID": "achievement_04_04",
@@ -6896,7 +6901,7 @@
       "Name": "Nitro Saver",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 3652
+      "UsersEstimate": 3653
     },
     {
       "ID": "achievement_04_08",
@@ -6904,7 +6909,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 6158
+      "UsersEstimate": 6159
     },
     {
       "ID": "achievement_04_09",
@@ -6912,14 +6917,14 @@
       "Name": "Nitro on a curve? Better not.",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 2506
+      "UsersEstimate": 2507
     }
   ],
   "AchievementSets": [
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 7161,
+      "Progressed": 7162,
       "Completed": 42
     }
   ],
@@ -6927,8 +6932,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-11-30T01:44:39.305196+00:00",
-  "LastChanged_Achievements": "2023-12-03T22:05:48.9928605+00:00",
+  "LastChanged_Achievements": "2023-12-03T23:06:02.9334851+00:00",
   "LastUpdate_AppInfo": "2023-11-30T21:57:11.9207568+00:00",
-  "LastUpdate_Ratings": "2023-12-03T21:59:28.3178928+00:00",
-  "LastUpdate_Achievements": "2023-12-03T22:05:48.992922+00:00"
+  "LastUpdate_Ratings": "2023-12-03T22:59:47.0748507+00:00",
+  "LastUpdate_Achievements": "2023-12-03T23:06:02.9335512+00:00"
 }

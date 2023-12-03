@@ -11,11 +11,11 @@ Rating: 4.53 (Ranked 542)
 | Captain Drummer | 7.00% | ~1,112 |
 | Celebrations are in Order | 7.00% | ~1,112 |
 | Impossible Objects | 7.00% | ~1,112 |
+| Zen Master | 7.00% | ~128 |
 | Spore Taste | 6.00% | ~953 |
 | Martian Music | 6.00% | ~953 |
 | Drone Dodger | 6.00% | ~953 |
 | Safe Cracker | 6.00% | ~110 |
-| Zen Master | 6.00% | ~110 |
 | Madame Undersecretary | 6.00% | ~110 |
 | Stogie for Fogey | 5.00% | ~794 |
 | Drug Gifter | 5.00% | ~794 |

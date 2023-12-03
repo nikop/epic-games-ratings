@@ -2,13 +2,13 @@
   "ID": "2e404271085e4eb480f48c3d2e5f08ed",
   "Name": "Witchfire",
   "ProductSlug": "witchfire-db273e",
-  "Ranking_Rating": 368,
+  "Ranking_Rating": 386,
   "Ranking_Popularity": 443,
-  "Ranking_PopularitySum": 374,
+  "Ranking_PopularitySum": 373,
   "Ranking_EOS_Progress": 775,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 491,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewPlayers": 490,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-09-20T14:00:00+00:00",
     "PcReleaseDate": "2023-09-20T14:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.62,
+  "Rating": 4.61,
   "RatingHistory": [
     {
       "Time": "2023-09-21T14:59:00.9142333+00:00",
@@ -875,18 +875,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 286,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2023-12-03T22:59:25.9725228+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 287,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 286,
+  "NumberOfAwards": 287,
   "NumberOfAwardsMax": 47,
-  "MaxAwardTitle": "Highly Recommended",
+  "MaxAwardTitle": "Challenging Combat",
   "Tags": [
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game is Highly Recommended",
@@ -955,8 +961,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-20T14:59:38.0794771+00:00",
   "FirstSeenRating": "2023-09-21T14:59:00.914233+00:00",
-  "LastChanged": "2023-12-03T17:58:58.3339923+00:00",
+  "LastChanged": "2023-12-03T22:59:25.9725227+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:19.2974639+00:00",
-  "LastUpdate_Ratings": "2023-12-03T21:59:09.9818572+00:00",
-  "LastUpdate_Achievements": "2023-12-03T22:08:19.9172793+00:00"
+  "LastUpdate_Ratings": "2023-12-03T22:59:25.9725231+00:00",
+  "LastUpdate_Achievements": "2023-12-03T23:08:08.2880908+00:00"
 }

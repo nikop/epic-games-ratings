@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -3144,9 +3144,9 @@
       "ID": "ML_ACHIEVEMENT_40",
       "SetID": "5k00jcd",
       "Name": "A little nest egg",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 88
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -3189,8 +3189,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-03T22:05:50.0806186+00:00",
+  "LastChanged_Achievements": "2023-12-03T23:06:04.1585321+00:00",
   "LastUpdate_AppInfo": "2023-11-30T02:56:57.3535816+00:00",
-  "LastUpdate_Ratings": "2023-12-03T21:59:16.5858364+00:00",
-  "LastUpdate_Achievements": "2023-12-03T22:05:50.0806568+00:00"
+  "LastUpdate_Ratings": "2023-12-03T22:59:33.2839662+00:00",
+  "LastUpdate_Achievements": "2023-12-03T23:06:04.1585711+00:00"
 }

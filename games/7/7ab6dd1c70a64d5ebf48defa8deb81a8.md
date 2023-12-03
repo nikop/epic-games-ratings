@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 14.00% | ~34 |
-| Trinity | 14.00% | ~34 |
+| Break Out | 13.00% | ~32 |
+| Trinity | 13.00% | ~32 |
 | Find Allies | 11.00% | ~27 |
 | Powerful Allies | 11.00% | ~27 |
 | I Found It | 11.00% | ~27 |
@@ -21,10 +21,10 @@
 | Fashion Victim | 8.00% | ~20 |
 | Essence Blow | 6.00% | ~15 |
 | Calm before the Storm | 5.00% | ~12 |
-| To Battle | 5.00% | ~12 |
-| Godslayer | 5.00% | ~12 |
 | The Mentor | 5.00% | ~12 |
 | Alchemist | 5.00% | ~12 |
+| To Battle | 4.00% | ~10 |
+| Godslayer | 4.00% | ~10 |
 | Airborne | 4.00% | ~10 |
 | Fine Feathers Make Fine Birds | 4.00% | ~10 |
 | Clear Sight | 3.00% | ~7 |
@@ -41,7 +41,7 @@
 | Shardbearer | 0.80% | ~2 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244 (Ranked 376)  
+Progressed: 245 (Ranked 376)  
 Completed: 2 (0.82%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,4 +93,4 @@ Completed: 2 (0.82%) (Ranked 180)
 | 2023-11-28 | 237 | 2 |
 | 2023-11-30 | 241 | 2 |
 | 2023-12-02 | 242 | 2 |
-| 2023-12-03 | 244 | 2 |
+| 2023-12-03 | 245 | 2 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 366,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 342,
+  "EOS_Progressed": 343,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1483,6 +1483,11 @@
       "Time": "2023-12-03T21:05:34.7371829+00:00",
       "NumProgressed": 342,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T23:06:02.381926+00:00",
+      "NumProgressed": 343,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1501,9 +1506,9 @@
       "ID": "ArleonCampaign",
       "SetID": "71c0n9i",
       "Name": "The Song of Stoutheart",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -1701,9 +1706,9 @@
       "ID": "MultiKill",
       "SetID": "71c0n9i",
       "Name": "Multi Kill",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     },
     {
       "ID": "MultiplayerWins",
@@ -1831,7 +1836,7 @@
       "Name": "Veteran",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "WielderLevel3",
@@ -1869,9 +1874,9 @@
       "ID": "WinBattleWithoutAttacking",
       "SetID": "71c0n9i",
       "Name": "Expert Essence Employment",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     },
     {
       "ID": "WinSiegeAsAttacker",
@@ -1885,9 +1890,9 @@
       "ID": "WinSiegeAsDefender",
       "SetID": "71c0n9i",
       "Name": "Venisti, Vidisti, Perdidisti",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     },
     {
       "ID": "WinsWithFactionArleon",
@@ -1926,15 +1931,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 342,
+      "Progressed": 343,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-03T22:05:48.4380149+00:00",
+  "LastChanged_Achievements": "2023-12-03T23:06:02.3819255+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:08.015125+00:00",
-  "LastUpdate_Ratings": "2023-12-03T21:57:56.3545181+00:00",
-  "LastUpdate_Achievements": "2023-12-03T22:05:48.4380534+00:00"
+  "LastUpdate_Ratings": "2023-12-03T22:58:04.2724786+00:00",
+  "LastUpdate_Achievements": "2023-12-03T23:06:02.381977+00:00"
 }

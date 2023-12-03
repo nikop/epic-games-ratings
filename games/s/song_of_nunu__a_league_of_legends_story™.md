@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 75.00% | ~808 |
+| Feels Familiar | 76.00% | ~819 |
 | I Broke It | 73.00% | ~786 |
 | Better On Ice | 68.00% | ~732 |
 | Notai Notes | 67.00% | ~722 |
 | Blue Dreams | 66.00% | ~711 |
+| He's Famous! | 66.00% | ~711 |
 | Cutie Poro | 66.00% | ~711 |
-| He's Famous! | 65.00% | ~700 |
 | Krugmazing | 64.00% | ~689 |
 | Moneyball | 60.00% | ~646 |
 | The Fire Below the Mountain | 60.00% | ~646 |
@@ -26,13 +26,13 @@
 | The Finisher | 42.00% | ~452 |
 | So Close | 41.00% | ~442 |
 | You Get Used To It | 41.00% | ~442 |
+| True Legends | 40.00% | ~431 |
 | Family | 39.00% | ~420 |
-| True Legends | 39.00% | ~420 |
+| Biggest Snowball Ever | 39.00% | ~420 |
 | Boosted! | 39.00% | ~420 |
-| Biggest Snowball Ever | 38.00% | ~409 |
 | Freeze The Ice Witch | 38.00% | ~409 |
 | Deadliest and Biggest Snowball Ever! | 38.00% | ~409 |
-| Bullseye | 36.00% | ~388 |
+| Bullseye | 37.00% | ~398 |
 | It Is Not Over | 35.00% | ~377 |
 | On The Rocks | 34.00% | ~366 |
 | Snowy Poro | 31.00% | ~334 |

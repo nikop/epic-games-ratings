@@ -19,8 +19,8 @@ Rating: 4.64 (Ranked 335)
 | Exterminator | 53.00% | ~1,118 |
 | Greenhouse Effect | 53.00% | ~1,118 |
 | Freeze | 52.00% | ~1,097 |
+| S.O.S. | 48.00% | ~1,013 |
 | Full Arsenal | 47.00% | ~992 |
-| S.O.S. | 47.00% | ~992 |
 | Get Off My Ship! | 45.00% | ~950 |
 | Strange Transmissions | 45.00% | ~950 |
 | Wreckage | 44.00% | ~928 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 335)
 | Pusher | 23.00% | ~485 |
 | Z-Baller | 23.00% | ~485 |
 | Marked | 21.00% | ~443 |
-| Eviscerator | 19.00% | ~401 |
+| Eviscerator | 20.00% | ~422 |
 | Backbreaker | 14.00% | ~295 |
 | Wishbone | 9.00% | ~190 |
 | Trusted Contractor | 7.00% | ~148 |
@@ -136,8 +136,8 @@ Completed: 13 (0.62%) (Ranked 190)
 | 2023-12-03 | 2,110 | 13 |
 ## Awards
 Max (Great Boss Battles): 117  (Ranked 345)  
-Sum: 117 (Ranked 442)  
-Diff (max vs sum): -97  
+Sum: 117 (Ranked 443)  
+Diff (max vs sum): -98  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 117 |

@@ -4,11 +4,11 @@
   "ProductSlug": "dead-space",
   "Ranking_Rating": 335,
   "Ranking_Popularity": 345,
-  "Ranking_PopularitySum": 442,
+  "Ranking_PopularitySum": 443,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -727,7 +727,7 @@
   ],
   "EOS_Progressed": 2110,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -6678,9 +6678,9 @@
       "ID": "achievement_24",
       "SetID": "222fo9l",
       "Name": "Eviscerator",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 422
     },
     {
       "ID": "achievement_25",
@@ -6902,9 +6902,9 @@
       "ID": "achievement_7",
       "SetID": "222fo9l",
       "Name": "S.O.S.",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 992
+      "UsersEstimate": 1013
     },
     {
       "ID": "achievement_8",
@@ -6935,8 +6935,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-26T22:02:06.8733907+00:00",
-  "LastChanged_Achievements": "2023-12-03T22:08:30.8188391+00:00",
+  "LastChanged_Achievements": "2023-12-03T23:08:19.9529824+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:16.9880376+00:00",
-  "LastUpdate_Ratings": "2023-12-03T21:59:50.6101725+00:00",
-  "LastUpdate_Achievements": "2023-12-03T22:08:30.8189178+00:00"
+  "LastUpdate_Ratings": "2023-12-03T23:00:12.1058854+00:00",
+  "LastUpdate_Achievements": "2023-12-03T23:08:19.9530723+00:00"
 }

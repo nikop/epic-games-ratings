@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-2-b61221",
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 428,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewPlayers": 427,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
     "PcReleaseDate": "2020-12-20T03:00:00+00:00",
@@ -1201,9 +1201,9 @@
       "ID": "achBossThree",
       "SetID": "1al1mjg",
       "Name": "Light will show the truth \u2714",
-      "Percentage": 0.3,
+      "Percentage": 0.7,
       "XP": 55,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achBossTwo",
@@ -1249,9 +1249,9 @@
       "ID": "achGameEasy",
       "SetID": "1al1mjg",
       "Name": "Recruit \u2714",
-      "Percentage": 0.3,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achGameHard",
@@ -1321,9 +1321,9 @@
       "ID": "achVirus",
       "SetID": "1al1mjg",
       "Name": "Saved the planet \u2714",
-      "Percentage": 0.3,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achWitch",
@@ -1344,8 +1344,8 @@
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-12-03T22:09:06.1615792+00:00",
+  "LastChanged_Achievements": "2023-12-03T23:08:58.7659284+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:18.954345+00:00",
-  "LastUpdate_Ratings": "2023-12-03T22:02:28.6070331+00:00",
-  "LastUpdate_Achievements": "2023-12-03T22:09:06.1615967+00:00"
+  "LastUpdate_Ratings": "2023-12-03T23:00:52.4762166+00:00",
+  "LastUpdate_Achievements": "2023-12-03T23:08:58.7659443+00:00"
 }

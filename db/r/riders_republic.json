@@ -2,13 +2,13 @@
   "ID": "83d6990f16444655866b04be562bf589",
   "Name": "Riders Republic",
   "ProductSlug": "riders-republic",
-  "Ranking_Rating": 148,
+  "Ranking_Rating": 147,
   "Ranking_Popularity": 169,
   "Ranking_PopularitySum": 112,
   "Ranking_EOS_Progress": 775,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 491,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewPlayers": 490,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2021-10-28T04:00:00+00:00",
     "PcReleaseDate": "2021-10-28T04:00:00+00:00",
@@ -10051,10 +10051,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 7844,
       "NumberOfAwardsMax": 840
+    },
+    {
+      "Time": "2023-12-03T22:58:19.5201518+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 7847,
+      "NumberOfAwardsMax": 840
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7844,
+  "NumberOfAwards": 7847,
   "NumberOfAwardsMax": 840,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -10086,7 +10092,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 769
+      "Count": 772
     },
     {
       "Text": "This game has Amazing Characters",
@@ -10148,8 +10154,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:50.8722129+00:00",
-  "LastChanged": "2023-12-03T18:58:09.8141177+00:00",
+  "LastChanged": "2023-12-03T22:58:19.5201517+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:17.7984952+00:00",
-  "LastUpdate_Ratings": "2023-12-03T21:58:10.0603437+00:00",
-  "LastUpdate_Achievements": "2023-12-03T22:05:23.1805259+00:00"
+  "LastUpdate_Ratings": "2023-12-03T22:58:19.5201522+00:00",
+  "LastUpdate_Achievements": "2023-12-03T23:05:34.5757987+00:00"
 }

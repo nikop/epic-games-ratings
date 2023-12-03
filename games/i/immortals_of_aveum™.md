@@ -12,7 +12,7 @@ Rating: 4.07 (Ranked 979)
 | No More Names | 70.00% | ~226 |
 | Initiate | 56.00% | ~181 |
 | Thrada-Kul | 52.00% | ~168 |
-| Gravity-Challenged Rocks | 43.00% | ~139 |
+| Gravity-Challenged Rocks | 44.00% | ~142 |
 | Soldier | 37.00% | ~120 |
 | All the Major Food Groups | 37.00% | ~120 |
 | Beggars Would Ride | 33.00% | ~107 |

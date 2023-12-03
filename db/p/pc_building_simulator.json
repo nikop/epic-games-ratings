@@ -2,13 +2,13 @@
   "ID": "8f5f5eff22f3468fa5551771406fc868",
   "Name": "PC Building Simulator",
   "ProductSlug": "pc-building-simulator",
-  "Ranking_Rating": 313,
+  "Ranking_Rating": 294,
   "Ranking_Popularity": 144,
   "Ranking_PopularitySum": 104,
   "Ranking_EOS_Progress": 5,
   "Ranking_EOS_Completed": 366,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2021-10-07T15:00:00+00:00",
     "PcReleaseDate": "2019-01-29T12:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.66,
   "NumberOfRatings": 12155,
   "RatingHistory": [
     {
@@ -5339,10 +5339,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 8173,
       "NumberOfAwardsMax": 1112
+    },
+    {
+      "Time": "2023-12-03T22:58:07.8975645+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 8176,
+      "NumberOfAwardsMax": 1112
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8173,
+  "NumberOfAwards": 8176,
   "NumberOfAwardsMax": 1112,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5356,7 +5362,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 996
+      "Count": 999
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5407,9 +5413,9 @@
       "Count": 675
     }
   ],
-  "EOS_Progressed": 3587106,
+  "EOS_Progressed": 3587122,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 2671,
+  "EOS_NewPlayers": 2669,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31527,6 +31533,11 @@
       "Time": "2023-12-03T22:05:41.8274869+00:00",
       "NumProgressed": 3587106,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-03T23:05:55.2454317+00:00",
+      "NumProgressed": 3587122,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 52,
@@ -31546,7 +31557,7 @@
       "Name": "The Best of Both Worlds",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 896776
+      "UsersEstimate": 896780
     },
     {
       "ID": "BRICK",
@@ -31578,7 +31589,7 @@
       "Name": "Double trouble",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 573937
+      "UsersEstimate": 573940
     },
     {
       "ID": "BUILD_2",
@@ -31586,7 +31597,7 @@
       "Name": "Triple threat",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 107613
+      "UsersEstimate": 107614
     },
     {
       "ID": "BUILD_3",
@@ -31594,7 +31605,7 @@
       "Name": "Keeping things neat",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 143484
+      "UsersEstimate": 143485
     },
     {
       "ID": "CASH_1",
@@ -31602,7 +31613,7 @@
       "Name": "Back in the black",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1398971
+      "UsersEstimate": 1398978
     },
     {
       "ID": "CASH_2",
@@ -31610,7 +31621,7 @@
       "Name": "Seems you\u0027re pretty good at this",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 143484
+      "UsersEstimate": 143485
     },
     {
       "ID": "CASH_3",
@@ -31618,7 +31629,7 @@
       "Name": "You rock at this!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 107613
+      "UsersEstimate": 107614
     },
     {
       "ID": "CASH_4",
@@ -31634,7 +31645,7 @@
       "Name": "But can it run Crysis?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 322840
+      "UsersEstimate": 322841
     },
     {
       "ID": "DATE",
@@ -31666,7 +31677,7 @@
       "Name": "Get your wings",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 717421
+      "UsersEstimate": 717424
     },
     {
       "ID": "HBPC_TIME",
@@ -31698,7 +31709,7 @@
       "Name": "That\u0027s what I\u0027m talking about",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1040261
+      "UsersEstimate": 1040265
     },
     {
       "ID": "JOBS_2",
@@ -31706,7 +31717,7 @@
       "Name": "Smashing it",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 394582
+      "UsersEstimate": 394583
     },
     {
       "ID": "JOBS_3",
@@ -31738,7 +31749,7 @@
       "Name": "From humble beginnings...",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 251097
+      "UsersEstimate": 251099
     },
     {
       "ID": "LEVEL_2",
@@ -31778,7 +31789,7 @@
       "Name": "You need to plug it in...",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 1757682
+      "UsersEstimate": 1757690
     },
     {
       "ID": "NO_PASTE",
@@ -31786,7 +31797,7 @@
       "Name": "Easy to forget",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1650069
+      "UsersEstimate": 1650076
     },
     {
       "ID": "OPC_BM_1",
@@ -31842,7 +31853,7 @@
       "Name": "My favourite feature...",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 322840
+      "UsersEstimate": 322841
     },
     {
       "ID": "PLAY_MUSIC",
@@ -31850,7 +31861,7 @@
       "Name": "Your music sucks",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 107613
+      "UsersEstimate": 107614
     },
     {
       "ID": "RADS",
@@ -31898,7 +31909,7 @@
       "Name": "Customer satisfaction",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 251097
+      "UsersEstimate": 251099
     },
     {
       "ID": "STARS_2",
@@ -31906,7 +31917,7 @@
       "Name": "Bending over backwards",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 143484
+      "UsersEstimate": 143485
     },
     {
       "ID": "STARS_3",
@@ -31953,15 +31964,15 @@
     {
       "ID": "m0injl",
       "IsBase": true,
-      "Progressed": 3587106,
+      "Progressed": 3587122,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:21:06.3204437+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.9861995+00:00",
-  "LastChanged": "2023-12-03T13:57:33.693847+00:00",
-  "LastChanged_Achievements": "2023-12-03T22:05:41.8274866+00:00",
+  "LastChanged": "2023-12-03T22:58:07.8975643+00:00",
+  "LastChanged_Achievements": "2023-12-03T23:05:55.2454314+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:10.2187594+00:00",
-  "LastUpdate_Ratings": "2023-12-03T21:57:59.4480318+00:00",
-  "LastUpdate_Achievements": "2023-12-03T22:05:41.8276316+00:00"
+  "LastUpdate_Ratings": "2023-12-03T22:58:07.8975648+00:00",
+  "LastUpdate_Achievements": "2023-12-03T23:05:55.2455775+00:00"
 }

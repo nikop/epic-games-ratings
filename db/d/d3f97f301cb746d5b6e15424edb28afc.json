@@ -2,7 +2,7 @@
   "ID": "d3f97f301cb746d5b6e15424edb28afc",
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
-  "Ranking_Rating": 387,
+  "Ranking_Rating": 386,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 256,
@@ -2792,9 +2792,9 @@
       "ID": "ACH_CAR_WASH_02",
       "SetID": "5fn8ia4",
       "Name": "Car Wash Lvl. 2",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 401
     },
     {
       "ID": "ACH_CAR_WASH_03",
@@ -3521,8 +3521,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-28T04:59:34.1023632+00:00",
-  "LastChanged_Achievements": "2023-12-03T22:06:06.3203499+00:00",
+  "LastChanged_Achievements": "2023-12-03T23:06:22.291095+00:00",
   "LastUpdate_AppInfo": "2023-11-27T17:57:10.8459621+00:00",
-  "LastUpdate_Ratings": "2023-12-03T21:58:55.3938022+00:00",
-  "LastUpdate_Achievements": "2023-12-03T22:06:06.3204363+00:00"
+  "LastUpdate_Ratings": "2023-12-03T22:59:09.9666163+00:00",
+  "LastUpdate_Achievements": "2023-12-03T23:06:22.2912425+00:00"
 }

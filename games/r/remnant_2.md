@@ -1,14 +1,14 @@
 # Remnant 2
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.75 (Ranked 148)  
+Rating: 4.75 (Ranked 147)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 0.80% | ~1,873 |
+| The Killing Jar | 0.80% | ~1,874 |
 | First of Many | 0.70% | ~1,639 |
-| Regicide | 0.70% | ~93 |
-| Master of the Dark Arts | 0.70% | ~93 |
+| Regicide | 0.70% | ~94 |
+| Master of the Dark Arts | 0.70% | ~94 |
 | Expanding Horizons | 0.50% | ~1,171 |
 | Quest for Survival | 0.50% | ~1,171 |
 | Not Your Average Trait | 0.50% | ~1,171 |
@@ -21,6 +21,8 @@ Rating: 4.75 (Ranked 148)
 | Duality | 0.40% | ~937 |
 | Top Performer | 0.40% | ~937 |
 | Boss'n Up | 0.40% | ~937 |
+| Almost There | 0.40% | ~937 |
+| Make Some Room | 0.40% | ~937 |
 | Good, But Could Be Better! | 0.40% | ~937 |
 | Trait Chaser | 0.40% | ~937 |
 | Chaos | 0.30% | ~703 |
@@ -36,8 +38,6 @@ Rating: 4.75 (Ranked 148)
 | The Web | 0.30% | ~703 |
 | Scrap Collector | 0.30% | ~703 |
 | All These Traits� | 0.30% | ~703 |
-| Almost There | 0.30% | ~703 |
-| Make Some Room | 0.30% | ~703 |
 | Crafty | 0.20% | ~468 |
 | Ghost in the Machine | 0.20% | ~468 |
 | Madman's Paradise | 0.20% | ~468 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | Proving Grounds | 0.10% | ~234 |
 | A Foul Feast | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,176 (Ranked 68)  
+Progressed: 234,204 (Ranked 68)  
 Completed: 554 (0.24%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 554 (0.24%) (Ranked 250)
 | 2023-11-30 | 231,406 | 542 |
 | 2023-12-01 | 232,269 | 546 |
 | 2023-12-02 | 233,162 | 548 |
-| 2023-12-03 | 234,176 | 554 |
+| 2023-12-03 | 234,204 | 554 |
 ## Awards
 Max (Great Boss Battles): 2,603  (Ranked 102)  
 Sum: 6,405 (Ranked 128)  

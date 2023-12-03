@@ -6,45 +6,45 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~84,406 |
-| Alt+F4 | 9.00% | ~21,704 |
-| Where's that freaking Dwarf? | 8.00% | ~19,293 |
-| Déjà vu | 7.00% | ~16,881 |
-| Sock! SOCK! | 5.00% | ~12,058 |
-| GG EZ | 5.00% | ~12,058 |
-| Speedrun | 5.00% | ~12,058 |
-| A beer, two curses, three companions | 4.00% | ~9,646 |
-| DM intervention | 4.00% | ~9,646 |
-| Fireproof Wizardess | 4.00% | ~9,646 |
+| Sowwy! | 35.00% | ~84,412 |
+| Alt+F4 | 9.00% | ~21,706 |
+| Where's that freaking Dwarf? | 8.00% | ~19,294 |
+| Déjà vu | 7.00% | ~16,882 |
+| Sock! SOCK! | 5.00% | ~12,059 |
+| GG EZ | 5.00% | ~12,059 |
+| Speedrun | 5.00% | ~12,059 |
+| A beer, two curses, three companions | 4.00% | ~9,647 |
+| DM intervention | 4.00% | ~9,647 |
+| Fireproof Wizardess | 4.00% | ~9,647 |
 | Livin' in a dwarven paradise | 3.00% | ~7,235 |
 | Way of the Wimp | 3.00% | ~7,235 |
 | The plot thickens... At the tavern | 3.00% | ~7,235 |
-| Shiny and Crôm | 2.00% | ~4,823 |
-| The demons' feast | 2.00% | ~4,823 |
-| The Great Library | 2.00% | ~4,823 |
-| Torture and Sensibility | 2.00% | ~4,823 |
-| Urik's Depths | 2.00% | ~4,823 |
-| The Dungeon Master | 2.00% | ~4,823 |
-| The Statuette of Gladeulfeurah | 2.00% | ~4,823 |
-| Res Judicata | 2.00% | ~4,823 |
-| The Woman in the High Castle | 2.00% | ~4,823 |
-| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,823 |
-| A tale of adventurers not quite like the others... | 2.00% | ~4,823 |
-| Dwarf Fortress | 2.00% | ~4,823 |
-| Look but don't touch | 2.00% | ~4,823 |
-| The beards of change | 2.00% | ~4,823 |
-| The Ranger of Chaos | 2.00% | ~4,823 |
-| I am the night | 2.00% | ~4,823 |
-| Thieves' Guild Accreditation | 2.00% | ~4,823 |
-| Team Building Exercise | 2.00% | ~4,823 |
-| Oh, when I'll be level 10... | 2.00% | ~4,823 |
+| Shiny and Crôm | 2.00% | ~4,824 |
+| The demons' feast | 2.00% | ~4,824 |
+| The Great Library | 2.00% | ~4,824 |
+| Torture and Sensibility | 2.00% | ~4,824 |
+| Urik's Depths | 2.00% | ~4,824 |
+| The Dungeon Master | 2.00% | ~4,824 |
+| The Statuette of Gladeulfeurah | 2.00% | ~4,824 |
+| Res Judicata | 2.00% | ~4,824 |
+| The Woman in the High Castle | 2.00% | ~4,824 |
+| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,824 |
+| A tale of adventurers not quite like the others... | 2.00% | ~4,824 |
+| Dwarf Fortress | 2.00% | ~4,824 |
+| Look but don't touch | 2.00% | ~4,824 |
+| The beards of change | 2.00% | ~4,824 |
+| The Ranger of Chaos | 2.00% | ~4,824 |
+| I am the night | 2.00% | ~4,824 |
+| Thieves' Guild Accreditation | 2.00% | ~4,824 |
+| Team Building Exercise | 2.00% | ~4,824 |
+| Oh, when I'll be level 10... | 2.00% | ~4,824 |
 | %#*!$*! | 1.00% | ~2,412 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,412 |
 | Dead for good | 1.00% | ~2,412 |
 | Gargantua | 1.00% | ~2,412 |
 | Lust and Debauchery | 1.00% | ~2,412 |
 | Material Girl | 1.00% | ~2,412 |
-| In Navalu's footsteps | 0.90% | ~2,170 |
+| In Navalu's footsteps | 0.90% | ~2,171 |
 | Lëgal Legend | 0.80% | ~1,929 |
 | We come in peace | 0.70% | ~1,688 |
 | Holistic Adventuring Party | 0.60% | ~1,447 |
@@ -54,8 +54,8 @@ Number of Ratings: 118  (23.09.2022)
 | Friendly fire | 0.40% | ~965 |
 | I'd rather... Just... Sing! | 0.40% | ~965 |
 | It's been a hard day's night | 0.40% | ~965 |
-| The number of the counting shalt be 7 | 0.30% | ~723 |
-| Inception | 0.30% | ~723 |
+| The number of the counting shalt be 7 | 0.30% | ~724 |
+| Inception | 0.30% | ~724 |
 | Cursed die | 0.20% | ~482 |
 | The Blood Countess | 0.20% | ~482 |
 | Free customer service | 0.20% | ~482 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~241 |
 | Dwarf Candy | 0.10% | ~241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,161 (Ranked 63)  
+Progressed: 241,176 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 7 (0.00%) (Ranked 366)
 | 2023-11-30 | 240,529 | 7 |
 | 2023-12-01 | 240,719 | 7 |
 | 2023-12-02 | 240,910 | 7 |
-| 2023-12-03 | 241,161 | 7 |
+| 2023-12-03 | 241,176 | 7 |
 ## Awards
 Max (Character Customization): 241  (Ranked 272)  
 Sum: 487 (Ranked 329)  

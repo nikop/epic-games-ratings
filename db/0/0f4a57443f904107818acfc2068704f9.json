@@ -2,10 +2,10 @@
   "ID": "0f4a57443f904107818acfc2068704f9",
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
-  "Ranking_EOS_Progress": 277,
+  "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 830,
+  "EOS_Progressed": 832,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
@@ -1762,6 +1762,11 @@
       "Time": "2023-12-03T22:05:43.7285408+00:00",
       "NumProgressed": 830,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T23:05:57.2805959+00:00",
+      "NumProgressed": 832,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1830,7 +1835,7 @@
       "Name": "Pathfinder",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 639
+      "UsersEstimate": 641
     },
     {
       "ID": "CompleteChapter10",
@@ -1846,7 +1851,7 @@
       "Name": "The Artefact is Mine",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "CompleteChapter12",
@@ -1862,7 +1867,7 @@
       "Name": "Slaughter and Siege wiv da Squeeze",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "CompleteChapter14",
@@ -1918,7 +1923,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "CompleteChapter3",
@@ -1926,7 +1931,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "CompleteChapter4",
@@ -1940,9 +1945,9 @@
       "ID": "CompleteChapter5",
       "SetID": "52ail55",
       "Name": "Breathing Easy",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 208
     },
     {
       "ID": "CompleteChapter6",
@@ -1958,7 +1963,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "CompleteChapter8",
@@ -1966,7 +1971,7 @@
       "Name": "Troggoff Troubles",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "CompleteChapter9",
@@ -2022,7 +2027,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "Win100OnlineMatched",
@@ -2069,14 +2074,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 830,
+      "Progressed": 832,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-03T22:05:43.7285403+00:00",
+  "LastChanged_Achievements": "2023-12-03T23:05:57.2805955+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:09.4303292+00:00",
-  "LastUpdate_Ratings": "2023-12-03T21:59:27.2715085+00:00",
-  "LastUpdate_Achievements": "2023-12-03T22:05:43.7285735+00:00"
+  "LastUpdate_Ratings": "2023-12-03T22:59:46.1137456+00:00",
+  "LastUpdate_Achievements": "2023-12-03T23:05:57.2806308+00:00"
 }
