@@ -10,10 +10,10 @@
 | Green Thumb | 14.00% | ~4 |
 | Crystal Hunter | 10.00% | ~3 |
 | Boulder Breaker | 10.00% | ~3 |
+| Equivalent Exchange | 7.00% | ~2 |
 | Danger | 7.00% | ~2 |
 | Column Crusher | 3.00% | ~1 |
 | Bye-Bye, Butcher | 3.00% | ~1 |
-| Equivalent Exchange | 3.00% | ~1 |
 | Setting Off | 3.00% | ~1 |
 | A Twist of Fate | 3.00% | ~1 |
 | Strength | 3.00% | ~1 |

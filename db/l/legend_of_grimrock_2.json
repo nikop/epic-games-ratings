@@ -4,8 +4,8 @@
   "ProductSlug": "legend-of-grimrock-2",
   "Ranking_EOS_Progress": 774,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 490,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2021-10-25T14:00:00+00:00",
     "PcReleaseDate": "2014-10-15T12:00:00+00:00",
@@ -44,5 +44,5 @@
   "LastChanged": "2023-03-31T05:58:34.2472076+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:27.7351291+00:00",
   "LastUpdate_Ratings": "2023-12-03T14:00:05.7323342+00:00",
-  "LastUpdate_Achievements": "2023-12-03T14:03:49.857474+00:00"
+  "LastUpdate_Achievements": "2023-12-03T15:04:00.6974397+00:00"
 }

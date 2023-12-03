@@ -5,22 +5,22 @@ Rating: 4.03 (Ranked 998)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,782 |
-| World Map | 78.00% | ~2,333 |
-| Temple of Eternals | 57.00% | ~1,705 |
-| Prestigious | 53.00% | ~1,585 |
-| Fellowship Power | 42.00% | ~1,256 |
+| Victor | 93.00% | ~2,783 |
+| World Map | 78.00% | ~2,335 |
+| Temple of Eternals | 57.00% | ~1,706 |
+| Prestigious | 53.00% | ~1,586 |
+| Fellowship Power | 42.00% | ~1,257 |
 | Guild Power | 24.00% | ~718 |
-| Prestigious x10 | 21.00% | ~628 |
-| Full Party | 20.00% | ~598 |
-| The game is on | 19.00% | ~568 |
-| Exotic Merchant | 17.00% | ~508 |
+| Prestigious x10 | 21.00% | ~629 |
+| Full Party | 20.00% | ~599 |
+| The game is on | 19.00% | ~569 |
+| Exotic Merchant | 17.00% | ~509 |
 | Dragon Clicker | 16.00% | ~479 |
 | Inspection | 15.00% | ~449 |
 | Miner Clicker | 15.00% | ~449 |
-| Dragon Master | 14.00% | ~419 |
 | Enlightenment | 14.00% | ~419 |
 | Hero inspection | 14.00% | ~419 |
+| Dragon Master | 13.00% | ~389 |
 | Lieutenant | 13.00% | ~389 |
 | Milestone collector | 12.00% | ~359 |
 | Natural Talent | 12.00% | ~359 |
@@ -39,18 +39,18 @@ Rating: 4.03 (Ranked 998)
 | Four Leaf Clover | 8.00% | ~239 |
 | Frostfire Liberator | 8.00% | ~239 |
 | Moving Up The Ladder | 8.00% | ~239 |
-| Here We Go Again | 7.00% | ~209 |
-| Master Enchanter | 7.00% | ~209 |
-| The father of Dragons | 7.00% | ~209 |
-| Trader | 7.00% | ~209 |
-| Blueprint Upgrades | 6.00% | ~179 |
-| Crystal Mining | 6.00% | ~179 |
-| Dragon Slayer | 6.00% | ~179 |
-| Enchanting skill | 6.00% | ~179 |
-| Engineer Mastery | 6.00% | ~179 |
-| How Do You Turn This On? | 6.00% | ~179 |
-| The Expeditioner | 6.00% | ~179 |
-| Weekly Quest Completionist | 6.00% | ~179 |
+| Here We Go Again | 7.00% | ~210 |
+| Master Enchanter | 7.00% | ~210 |
+| The father of Dragons | 7.00% | ~210 |
+| Trader | 7.00% | ~210 |
+| Blueprint Upgrades | 6.00% | ~180 |
+| Crystal Mining | 6.00% | ~180 |
+| Dragon Slayer | 6.00% | ~180 |
+| Enchanting skill | 6.00% | ~180 |
+| Engineer Mastery | 6.00% | ~180 |
+| How Do You Turn This On? | 6.00% | ~180 |
+| The Expeditioner | 6.00% | ~180 |
+| Weekly Quest Completionist | 6.00% | ~180 |
 | Active Member | 5.00% | ~150 |
 | Ancient Knowledge | 5.00% | ~150 |
 | Background Story | 5.00% | ~150 |
@@ -81,8 +81,8 @@ Rating: 4.03 (Ranked 998)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,991 (Ranked 212)  
-Completed: 2 (0.07%) (Ranked 305)  
+Progressed: 2,993 (Ranked 212)  
+Completed: 2 (0.07%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -303,7 +303,7 @@ Completed: 2 (0.07%) (Ranked 305)
 | 2023-11-30 | 2,847 | 2 |
 | 2023-12-01 | 2,917 | 2 |
 | 2023-12-02 | 2,955 | 2 |
-| 2023-12-03 | 2,991 | 2 |
+| 2023-12-03 | 2,993 | 2 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 474)  
 Sum: 137 (Ranked 431)  

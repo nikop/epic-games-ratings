@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -649,9 +649,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471725,
+  "EOS_Progressed": 471729,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 341,
+  "EOS_NewPlayers": 342,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24259,6 +24259,11 @@
       "Time": "2023-12-03T14:09:54.5382625+00:00",
       "NumProgressed": 471725,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-03T15:09:46.9260888+00:00",
+      "NumProgressed": 471729,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -24286,7 +24291,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113214
+      "UsersEstimate": 113215
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -24310,7 +24315,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47172
+      "UsersEstimate": 47173
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -24358,7 +24363,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311338
+      "UsersEstimate": 311341
     },
     {
       "ID": "achievement_story_landa",
@@ -24390,7 +24395,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117931
+      "UsersEstimate": 117932
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -24446,7 +24451,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94345
+      "UsersEstimate": 94346
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -24454,7 +24459,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160386
+      "UsersEstimate": 160388
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -24694,7 +24699,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207559
+      "UsersEstimate": 207561
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -24702,7 +24707,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141518
+      "UsersEstimate": 141519
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -24710,7 +24715,7 @@
       "Name": "Survivor",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 9434
+      "UsersEstimate": 9435
     },
     {
       "ID": "achievement_win_expedition_with_monster_noloss",
@@ -24726,7 +24731,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183973
+      "UsersEstimate": 183974
     },
     {
       "ID": "achievement_win_run_hard",
@@ -24901,21 +24906,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15659,
+      "Progressed": 15663,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471725,
+      "Progressed": 471729,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-01T18:58:58.8781534+00:00",
-  "LastChanged_Achievements": "2023-12-03T14:09:54.5382623+00:00",
+  "LastChanged_Achievements": "2023-12-03T15:09:46.9260886+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:22.9078654+00:00",
-  "LastUpdate_Ratings": "2023-12-03T13:59:35.6647022+00:00",
-  "LastUpdate_Achievements": "2023-12-03T14:09:54.5383868+00:00"
+  "LastUpdate_Ratings": "2023-12-03T14:59:44.8520751+00:00",
+  "LastUpdate_Achievements": "2023-12-03T15:09:46.9262271+00:00"
 }

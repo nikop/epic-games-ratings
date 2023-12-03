@@ -128,11 +128,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 1.00% | ~156 |
 | Ambition Victory | 1.00% | ~156 |
 | Double Victory | 1.00% | ~156 |
-| Clerics | 0.90% | ~140 |
-| Rome | 0.90% | ~140 |
-| Hittite Paganism | 0.90% | ~140 |
-| Turreted Elephant | 0.90% | ~140 |
-| Poetic Leader | 0.90% | ~140 |
+| Clerics | 0.90% | ~141 |
+| Rome | 0.90% | ~141 |
+| Hittite Paganism | 0.90% | ~141 |
+| Turreted Elephant | 0.90% | ~141 |
+| Poetic Leader | 0.90% | ~141 |
 | Peacemaker | 0.80% | ~125 |
 | Noble Difficulty | 0.80% | ~125 |
 | Cao'an | 0.80% | ~125 |
@@ -185,6 +185,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Tell the Spartans | 0.30% | ~47 |
 | Medo-Babylonian Conquest | 0.30% | ~47 |
 | Apadana in Parsa | 0.30% | ~47 |
+| Pantheon in Roma | 0.30% | ~47 |
 | Randomized Leaders | 0.30% | ~47 |
 | Barbarian Horde | 0.20% | ~31 |
 | Blade of the Monkey | 0.20% | ~31 |
@@ -200,7 +201,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Realistic Mortality | 0.20% | ~31 |
 | Play a MP Teams Game | 0.20% | ~31 |
 | Punic Wars | 0.20% | ~31 |
-| Pantheon in Roma | 0.20% | ~31 |
 | Word of God | 0.20% | ~31 |
 | Role-Playing | 0.20% | ~31 |
 | Hypatia the Teacher | 0.20% | ~31 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,611 (Ranked 152)  
+Progressed: 15,612 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -576,7 +576,7 @@ Completed: 5 (0.03%) (Ranked 328)
 | 2023-11-30 | 15,566 | 5 |
 | 2023-12-01 | 15,583 | 5 |
 | 2023-12-02 | 15,604 | 5 |
-| 2023-12-03 | 15,611 | 5 |
+| 2023-12-03 | 15,612 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,885 (Ranked 220)  

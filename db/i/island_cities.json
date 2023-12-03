@@ -2,10 +2,10 @@
   "ID": "405a48516fba4540bd8cc17c53085ab2",
   "Name": "Island Cities",
   "ProductSlug": "island-cities-0a3026",
-  "Ranking_EOS_Progress": 277,
+  "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 826,
+  "EOS_Progressed": 827,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 16.34,
+  "EOS_Completed_Percentage": 16.32,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3501,6 +3501,11 @@
       "Time": "2023-12-03T02:29:14.9907667+00:00",
       "NumProgressed": 826,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2023-12-03T15:03:16.9411542+00:00",
+      "NumProgressed": 827,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 22,
@@ -3512,7 +3517,7 @@
       "Name": "Welcome!",
       "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "LEVEL_002",
@@ -3528,7 +3533,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "LEVEL_004",
@@ -3544,7 +3549,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "LEVEL_006",
@@ -3552,15 +3557,15 @@
       "Name": "Found an oasis",
       "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "LEVEL_007",
       "SetID": "3khpmem",
       "Name": "Burger or pizza?",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 314
+      "UsersEstimate": 306
     },
     {
       "ID": "LEVEL_008",
@@ -3584,7 +3589,7 @@
       "Name": "Easy and steady climb",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "LEVEL_011",
@@ -3616,7 +3621,7 @@
       "Name": "Not lonely anymore",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "LEVEL_015",
@@ -3624,7 +3629,7 @@
       "Name": "Monumental tribute",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "LEVEL_016",
@@ -3656,7 +3661,7 @@
       "Name": "Aiming for a living and human city",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "LEVEL_020",
@@ -3664,7 +3669,7 @@
       "Name": "City of dreams",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "LEVEL_021",
@@ -3687,7 +3692,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 826,
+      "Progressed": 827,
       "Completed": 135
     }
   ],
@@ -3695,8 +3700,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-12-03T13:11:20.8345361+00:00",
+  "LastChanged_Achievements": "2023-12-03T15:03:16.9411538+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:28.3686171+00:00",
-  "LastUpdate_Ratings": "2023-12-03T13:58:01.6412791+00:00",
-  "LastUpdate_Achievements": "2023-12-03T13:11:20.8345649+00:00"
+  "LastUpdate_Ratings": "2023-12-03T14:58:09.4864919+00:00",
+  "LastUpdate_Achievements": "2023-12-03T15:03:16.9411878+00:00"
 }

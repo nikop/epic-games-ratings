@@ -1,12 +1,12 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.64 (Ranked 335)  
+Rating: 4.64 (Ranked 336)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Satisfied Gus-tomer | 4.00% | ~985 |
-| Cold-Blooded Driller | 4.00% | ~985 |
+| Satisfied Gus-tomer | 4.00% | ~986 |
+| Cold-Blooded Driller | 4.00% | ~986 |
 | Creature Feature | 3.00% | ~739 |
 | Are You Packin'? | 3.00% | ~739 |
 | Bring A Knife to a Gun Fight | 3.00% | ~739 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 335)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,637 (Ranked 131)  
+Progressed: 24,638 (Ranked 131)  
 Completed: 14 (0.06%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 14 (0.06%) (Ranked 310)
 | 2023-11-30 | 24,613 | 14 |
 | 2023-12-01 | 24,623 | 14 |
 | 2023-12-02 | 24,629 | 14 |
-| 2023-12-03 | 24,637 | 14 |
+| 2023-12-03 | 24,638 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

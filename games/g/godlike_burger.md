@@ -5,36 +5,36 @@ Rating: 4.51 (Ranked 571)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~170,764 |
-| FIRST BLOOD | 40.00% | ~151,790 |
-| KEVIN! | 30.00% | ~113,843 |
-| JACK OF ALL TRADES | 23.00% | ~87,279 |
-| CRIMINAL | 20.00% | ~75,895 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~41,742 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~34,153 |
-| HONORS STUDENT | 8.00% | ~30,358 |
-| BUTCHER | 6.00% | ~22,769 |
-| INDIVIDUAL APPROACH | 5.00% | ~18,974 |
-| RAMBO | 5.00% | ~18,974 |
-| HELL'S KITCHEN | 4.00% | ~15,179 |
-| CELEBRITY | 3.00% | ~11,384 |
-| MARTYR | 3.00% | ~11,384 |
+| MASTER CHEF | 45.00% | ~170,783 |
+| FIRST BLOOD | 40.00% | ~151,807 |
+| KEVIN! | 30.00% | ~113,855 |
+| JACK OF ALL TRADES | 23.00% | ~87,289 |
+| CRIMINAL | 20.00% | ~75,904 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~41,747 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~34,157 |
+| HONORS STUDENT | 8.00% | ~30,361 |
+| BUTCHER | 6.00% | ~22,771 |
+| INDIVIDUAL APPROACH | 5.00% | ~18,976 |
+| RAMBO | 5.00% | ~18,976 |
+| HELL'S KITCHEN | 4.00% | ~15,181 |
+| CELEBRITY | 3.00% | ~11,386 |
+| MARTYR | 3.00% | ~11,386 |
 | GRATITUDE | 2.00% | ~7,590 |
 | PATTY-KILLER | 2.00% | ~7,590 |
 | EXPERIMENTALIST | 1.00% | ~3,795 |
 | GOURMET | 1.00% | ~3,795 |
 | LAW-ABIDING CITIZEN | 1.00% | ~3,795 |
 | PRUDENT | 1.00% | ~3,795 |
-| SCATTERBRAIN | 0.70% | ~2,656 |
+| SCATTERBRAIN | 0.70% | ~2,657 |
 | HIGH TECHNOLOGIES | 0.60% | ~2,277 |
-| TASTE UNTASTY | 0.50% | ~1,897 |
+| TASTE UNTASTY | 0.50% | ~1,898 |
 | DEBTOR | 0.20% | ~759 |
 | I'VE SEEN SOME… | 0.20% | ~759 |
-| CORRUPTIONIST | 0.10% | ~379 |
-| MISTER ALL THUMBS | 0.10% | ~379 |
-| TRAVELER | 0.10% | ~379 |
+| CORRUPTIONIST | 0.10% | ~380 |
+| MISTER ALL THUMBS | 0.10% | ~380 |
+| TRAVELER | 0.10% | ~380 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 379,476 (Ranked 47)  
+Progressed: 379,518 (Ranked 47)  
 Completed: 43 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 43 (0.01%) (Ranked 344)
 | 2023-11-30 | 377,678 | 43 |
 | 2023-12-01 | 378,299 | 43 |
 | 2023-12-02 | 378,929 | 43 |
-| 2023-12-03 | 379,476 | 43 |
+| 2023-12-03 | 379,518 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

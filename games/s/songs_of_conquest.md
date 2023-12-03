@@ -6,27 +6,27 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 35.00% | ~116 |
-| Double Kill | 25.00% | ~83 |
-| Critical Hit | 14.00% | ~46 |
+| Adept | 34.00% | ~114 |
+| Double Kill | 25.00% | ~84 |
+| Critical Hit | 14.00% | ~47 |
 | Veteran | 13.00% | ~43 |
 | Dressed For Success | 10.00% | ~33 |
 | Humiliation | 7.00% | ~23 |
 | Sorcerous Spree | 6.00% | ~20 |
-| Veni, Vidi, Vici | 5.00% | ~17 |
 | Multi Kill | 4.00% | ~13 |
 | Whoops! | 4.00% | ~13 |
 | Expert Essence Employment | 4.00% | ~13 |
+| Veni, Vidi, Vici | 4.00% | ~13 |
 | Venisti, Vidisti, Perdidisti | 4.00% | ~13 |
 | Landlord Extraordinaire | 3.00% | ~10 |
 | Master | 3.00% | ~10 |
-| The Song of Stoutheart | 2.00% | ~7 |
-| This Spot's Taken | 2.00% | ~7 |
-| Deepstrike | 2.00% | ~7 |
 | Such A Fungi | 2.00% | ~7 |
 | Trojan Horse | 2.00% | ~7 |
 | Pyrrhic Victory | 2.00% | ~7 |
+| The Song of Stoutheart | 1.00% | ~3 |
+| This Spot's Taken | 1.00% | ~3 |
 | Versatile Wielder | 1.00% | ~3 |
+| Deepstrike | 1.00% | ~3 |
 | Infernal Influence | 1.00% | ~3 |
 | Don't Touch My Stuff | 0.90% | ~3 |
 | Ultra Kill | 0.90% | ~3 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 332 (Ranked 345)  
+Progressed: 334 (Ranked 345)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-30 | 296 | 0 |
 | 2023-12-01 | 318 | 0 |
 | 2023-12-02 | 328 | 0 |
-| 2023-12-03 | 332 | 0 |
+| 2023-12-03 | 334 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 515)  
 Sum: 194 (Ranked 405)  

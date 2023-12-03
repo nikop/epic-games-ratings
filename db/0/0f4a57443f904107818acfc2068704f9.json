@@ -2,10 +2,10 @@
   "ID": "0f4a57443f904107818acfc2068704f9",
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
-  "Ranking_EOS_Progress": 276,
+  "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 827,
+  "EOS_Progressed": 828,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1752,6 +1752,11 @@
       "Time": "2023-12-03T14:05:38.4384865+00:00",
       "NumProgressed": 827,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T15:05:50.3277786+00:00",
+      "NumProgressed": 828,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1820,7 +1825,7 @@
       "Name": "Pathfinder",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "CompleteChapter10",
@@ -1842,9 +1847,9 @@
       "ID": "CompleteChapter12",
       "SetID": "52ail55",
       "Name": "Grumblin\u0027 Bellies",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 83
     },
     {
       "ID": "CompleteChapter13",
@@ -1908,7 +1913,7 @@
       "Name": "Met the Enemy",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "CompleteChapter3",
@@ -1924,7 +1929,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "CompleteChapter5",
@@ -1932,7 +1937,7 @@
       "Name": "Breathing Easy",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "CompleteChapter6",
@@ -1954,9 +1959,9 @@
       "ID": "CompleteChapter8",
       "SetID": "52ail55",
       "Name": "Troggoff Troubles",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 116
     },
     {
       "ID": "CompleteChapter9",
@@ -2036,7 +2041,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Win50ConquestBattles",
@@ -2059,14 +2064,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 827,
+      "Progressed": 828,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-03T14:05:38.4384863+00:00",
+  "LastChanged_Achievements": "2023-12-03T15:05:50.3277783+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:09.4303292+00:00",
-  "LastUpdate_Ratings": "2023-12-03T13:59:03.0609146+00:00",
-  "LastUpdate_Achievements": "2023-12-03T14:05:38.4385248+00:00"
+  "LastUpdate_Ratings": "2023-12-03T14:59:11.6285344+00:00",
+  "LastUpdate_Achievements": "2023-12-03T15:05:50.3278076+00:00"
 }

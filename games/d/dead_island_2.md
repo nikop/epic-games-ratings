@@ -1,22 +1,22 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 528)  
+Rating: 4.54 (Ranked 529)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,651 |
-| Pork Chopped | 3.00% | ~1,651 |
-| Git Gutte! | 2.00% | ~14,590 |
-| Break A Leg | 2.00% | ~14,590 |
-| Coup de Grâce | 2.00% | ~14,590 |
-| Hazardous Materials | 2.00% | ~14,590 |
-| Friends Like These | 2.00% | ~14,590 |
-| Hotel California | 2.00% | ~14,590 |
-| Apex Predator | 2.00% | ~14,590 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,590 |
-| Welcome To Hell-A | 2.00% | ~14,590 |
-| One of Us | 2.00% | ~1,101 |
+| Whatever It Takes | 3.00% | ~1,652 |
+| Pork Chopped | 3.00% | ~1,652 |
+| Git Gutte! | 2.00% | ~14,591 |
+| Break A Leg | 2.00% | ~14,591 |
+| Coup de Grâce | 2.00% | ~14,591 |
+| Hazardous Materials | 2.00% | ~14,591 |
+| Friends Like These | 2.00% | ~14,591 |
+| Hotel California | 2.00% | ~14,591 |
+| Apex Predator | 2.00% | ~14,591 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,591 |
+| Welcome To Hell-A | 2.00% | ~14,591 |
+| One of Us | 2.00% | ~1,102 |
 | Dr. Reed, I Presume? | 1.00% | ~7,295 |
 | Making Your Mark | 1.00% | ~7,295 |
 | Anger Management | 1.00% | ~7,295 |
@@ -37,10 +37,10 @@ Rating: 4.54 (Ranked 528)
 | Humanity Distilled | 0.90% | ~6,566 |
 | Max Headroom | 0.90% | ~6,566 |
 | Down with the Sickness | 0.80% | ~5,836 |
-| Not Even My Final Form | 0.70% | ~5,106 |
-| Jumbo Keyring | 0.70% | ~5,106 |
-| Go, Bobcats! | 0.70% | ~5,106 |
-| Rising Star | 0.70% | ~5,106 |
+| Not Even My Final Form | 0.70% | ~5,107 |
+| Jumbo Keyring | 0.70% | ~5,107 |
+| Go, Bobcats! | 0.70% | ~5,107 |
+| Rising Star | 0.70% | ~5,107 |
 | Internet Famous | 0.60% | ~4,377 |
 | Make it So | 0.50% | ~3,648 |
 | On Safari | 0.50% | ~3,648 |
@@ -49,15 +49,15 @@ Rating: 4.54 (Ranked 528)
 | LA Influential | 0.40% | ~2,918 |
 | Gore Horse | 0.40% | ~2,918 |
 | Top That, Tisha! | 0.40% | ~220 |
-| Sole Survivor | 0.30% | ~2,188 |
-| Sharpest Tool in the Box | 0.30% | ~2,188 |
+| Sole Survivor | 0.30% | ~2,189 |
+| Sharpest Tool in the Box | 0.30% | ~2,189 |
 | Survival Skills | 0.20% | ~1,459 |
 | Lawn and Order | 0.20% | ~110 |
 | Donk! | 0.10% | ~730 |
 | Bucket List | 0.10% | ~730 |
 | Wilhelm | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 729,500 (Ranked 21)  
+Progressed: 729,535 (Ranked 21)  
 Completed: 2,461 (0.34%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 2,461 (0.34%) (Ranked 233)
 | 2023-11-30 | 728,231 | 2,456 |
 | 2023-12-01 | 728,667 | 2,459 |
 | 2023-12-02 | 729,149 | 2,460 |
-| 2023-12-03 | 729,500 | 2,461 |
+| 2023-12-03 | 729,535 | 2,461 |
 ## Awards
 Max (Great Boss Battles): 7,892  (Ranked 49)  
 Sum: 12,103 (Ranked 82)  

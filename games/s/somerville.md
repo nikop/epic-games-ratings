@@ -11,13 +11,13 @@ Rating: 4.22 (Ranked 904)
 | Admiring the view | 1.00% | ~17 |
 | War of the worlds | 0.80% | ~13 |
 | Blues Jam | 0.60% | ~10 |
+| Resignation | 0.60% | ~10 |
+| Understanding | 0.60% | ~10 |
 | Family First | 0.50% | ~8 |
 | “Here boy…“ | 0.50% | ~8 |
-| Resignation | 0.50% | ~8 |
-| Understanding | 0.50% | ~8 |
 | First contact | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,663 (Ranked 237)  
+Progressed: 1,664 (Ranked 237)  
 Completed: 31 (1.86%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 31 (1.86%) (Ranked 132)
 | 2023-11-25 | 1,660 | 31 |
 | 2023-11-30 | 1,661 | 31 |
 | 2023-12-02 | 1,662 | 31 |
-| 2023-12-03 | 1,663 | 31 |
+| 2023-12-03 | 1,664 | 31 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

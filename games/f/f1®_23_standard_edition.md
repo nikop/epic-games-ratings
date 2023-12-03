@@ -5,21 +5,21 @@ Rating: 4.68 (Ranked 255)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,657 |
-| On the Top Step | 88.00% | ~5,296 |
-| Setting up for Success | 78.00% | ~4,694 |
+| Getting on the Step | 94.00% | ~5,658 |
+| On the Top Step | 88.00% | ~5,297 |
+| Setting up for Success | 78.00% | ~4,695 |
 | Team Orders | 76.00% | ~4,574 |
-| Engineer | 56.00% | ~3,370 |
+| Engineer | 56.00% | ~3,371 |
 | Familiar Faces | 49.00% | ~2,949 |
 | Sharing the Love | 44.00% | ~2,648 |
 | Going the Extra Mile | 43.00% | ~2,588 |
-| Hitting a Season | 41.00% | ~2,467 |
-| A Dozen Pieces | 35.00% | ~2,106 |
+| Hitting a Season | 41.00% | ~2,468 |
+| A Dozen Pieces | 35.00% | ~2,107 |
 | Challenge Yourself | 34.00% | ~2,046 |
 | Making History | 32.00% | ~1,926 |
 | Network Success | 28.00% | ~1,685 |
 | Writing a new Chapter | 26.00% | ~1,565 |
-| Spring Cleaning | 24.00% | ~1,444 |
+| Spring Cleaning | 24.00% | ~1,445 |
 | Reduce | 21.00% | ~1,264 |
 | Ups and Downs | 21.00% | ~1,264 |
 | Crucial Combo | 20.00% | ~1,204 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 255)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,018 (Ranked 186)  
+Progressed: 6,019 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,17 +136,17 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-30 | 5,982 | 0 |
 | 2023-12-01 | 5,992 | 0 |
 | 2023-12-02 | 6,006 | 0 |
-| 2023-12-03 | 6,018 | 0 |
+| 2023-12-03 | 6,019 | 0 |
 ## Awards
 Max (Diverse Characters): 28  (Ranked 510)  
-Sum: 123 (Ranked 435)  
+Sum: 124 (Ranked 435)  
 Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |
 | This game has Diverse Characters | 28 |
 | This game is Highly Recommended | 26 |
-| This game has a Competitive Community | 25 |
+| This game has a Competitive Community | 26 |
 | This game is Great for Quick Sessions | 24 |
 | This game is Extremely Fun | 23 |
 | This game has Quickly Understood Controls | 21 |
@@ -237,4 +237,4 @@ Diff (max vs sum): 75
 | 2023-11-29 | 4.68 | 26 | 96 |
 | 2023-12-01 | 4.68 | 27 | 97 |
 | 2023-12-02 | 4.68 | 27 | 98 |
-| 2023-12-03 | 4.68 | 28 | 123 |
+| 2023-12-03 | 4.68 | 28 | 124 |

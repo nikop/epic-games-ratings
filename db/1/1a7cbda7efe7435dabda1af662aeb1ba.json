@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 538,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 431,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-05-16T22:30:00+00:00",
     "PcReleaseDate": "2023-04-20T16:00:00+00:00",
@@ -256,9 +256,9 @@
       "ID": "BOSS_KILL8",
       "SetID": "1icc7kd",
       "Name": "Equivalent Exchange",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BOSS_KILL9",
@@ -415,8 +415,8 @@
   ],
   "FirstSeen": "2023-05-19T06:56:53.0270163+00:00",
   "FirstSeenAchievements": "2023-05-16T17:00:43.3294802+00:00",
-  "LastChanged_Achievements": "2023-12-03T14:09:42.1613972+00:00",
+  "LastChanged_Achievements": "2023-12-03T15:09:34.7812127+00:00",
   "LastUpdate_AppInfo": "2023-11-29T10:57:30.401941+00:00",
-  "LastUpdate_Ratings": "2023-12-03T14:00:09.9412133+00:00",
-  "LastUpdate_Achievements": "2023-12-03T14:09:42.161409+00:00"
+  "LastUpdate_Ratings": "2023-12-03T15:02:30.2927466+00:00",
+  "LastUpdate_Achievements": "2023-12-03T15:09:34.7812316+00:00"
 }

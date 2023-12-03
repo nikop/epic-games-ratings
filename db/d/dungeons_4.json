@@ -4,8 +4,8 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1569,9 +1569,9 @@
       "ID": "ach_main10fire_naga",
       "SetID": "4hg22ll",
       "Name": "Shame! Shame! Shame!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 217
     },
     {
       "ID": "ach_main11blessing_completed",
@@ -1585,17 +1585,17 @@
       "ID": "ach_main11blessing_ghostheroes",
       "SetID": "4hg22ll",
       "Name": "Ghost Pirates? Ghost Heroes!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 129
     },
     {
       "ID": "ach_main11blessing_undeadonly",
       "SetID": "4hg22ll",
       "Name": "Master of the Undead",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 150
     },
     {
       "ID": "ach_main12race_completed",
@@ -1673,9 +1673,9 @@
       "ID": "ach_main15drill_completed",
       "SetID": "4hg22ll",
       "Name": "The Finitude Drill",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 119
     },
     {
       "ID": "ach_main15drill_sabotage",
@@ -1713,9 +1713,9 @@
       "ID": "ach_main16ring_spawners",
       "SetID": "4hg22ll",
       "Name": "Rubble and Ashes",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 72
     },
     {
       "ID": "ach_main17stone_completed",
@@ -1824,8 +1824,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-03T14:08:47.2578546+00:00",
+  "LastChanged_Achievements": "2023-12-03T15:08:38.3520042+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:15.3424787+00:00",
-  "LastUpdate_Ratings": "2023-12-03T13:58:46.7201878+00:00",
-  "LastUpdate_Achievements": "2023-12-03T14:08:47.2578942+00:00"
+  "LastUpdate_Ratings": "2023-12-03T14:58:54.9852661+00:00",
+  "LastUpdate_Achievements": "2023-12-03T15:08:38.3520458+00:00"
 }

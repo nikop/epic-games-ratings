@@ -7,35 +7,35 @@
 | Small town | 12.00% | ~48 |
 | I like parks | 11.00% | ~44 |
 | The spiritual world... | 7.00% | ~28 |
-| The woodcutter | 6.00% | ~24 |
 | It is nice to share with friends in the city | 6.00% | ~24 |
 | Sport is good for you | 6.00% | ~24 |
 | I like books | 5.00% | ~20 |
-| I like my life | 5.00% | ~20 |
-| Bucolic city | 5.00% | ~20 |
+| The woodcutter | 5.00% | ~20 |
 | Soviet town | 5.00% | ~20 |
+| I like my life | 4.00% | ~16 |
 | Clean energy | 4.00% | ~16 |
-| Food producer | 2.00% | ~8 |
+| Bucolic city | 4.00% | ~16 |
 | I love books! | 2.00% | ~8 |
-| King of fish | 2.00% | ~8 |
 | I love parks | 2.00% | ~8 |
+| Food producer | 1.00% | ~4 |
+| King of fish | 1.00% | ~4 |
 | Metropolurbek | 1.00% | ~4 |
-| Rebel city | 0.80% | ~3 |
+| Rebel city | 0.70% | ~3 |
 | Banking city | 0.50% | ~2 |
 | City crisis | 0.50% | ~2 |
 | I am very happy! | 0.50% | ~2 |
 | What would we do if we can't go out with friends? | 0.50% | ~2 |
-| Food provider master | 0.30% | ~1 |
-| Oh, I am sad | 0.30% | ~1 |
-| Oh, life is too awesome! Thank you! | 0.30% | ~1 |
-| ¡Muy feliz! | 0.30% | ~1 |
-| Farming Frenzy | 0.30% | ~1 |
-| Farming Frenzy Plus | 0.30% | ~1 |
-| Little Mayor | 0.30% | ~1 |
-| Town planner | 0.30% | ~1 |
-| Restorer | 0.30% | ~1 |
-| Restorer Plus | 0.30% | ~1 |
-| Temperate builder | 0.30% | ~1 |
+| Food provider master | 0.20% | ~1 |
+| Oh, I am sad | 0.20% | ~1 |
+| Oh, life is too awesome! Thank you! | 0.20% | ~1 |
+| ¡Muy feliz! | 0.20% | ~1 |
+| Farming Frenzy | 0.20% | ~1 |
+| Farming Frenzy Plus | 0.20% | ~1 |
+| Little Mayor | 0.20% | ~1 |
+| Town planner | 0.20% | ~1 |
+| Restorer | 0.20% | ~1 |
+| Restorer Plus | 0.20% | ~1 |
+| Temperate builder | 0.20% | ~1 |
 | Anarchist Utopia | 0.00% | ~0 |
 | Anarchist paradise | 0.00% | ~0 |
 | Full archipelago | 0.00% | ~0 |
@@ -84,7 +84,7 @@
 | Rainforest master | 0.00% | ~0 |
 | Welfare state | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 400 (Ranked 331)  
+Progressed: 401 (Ranked 331)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-27 | 396 | 0 |
 | 2023-11-28 | 398 | 0 |
 | 2023-11-29 | 399 | 0 |
-| 2023-12-03 | 400 | 0 |
+| 2023-12-03 | 401 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

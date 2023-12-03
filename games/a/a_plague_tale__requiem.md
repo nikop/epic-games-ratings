@@ -22,7 +22,7 @@ Rating: 4.73 (Ranked 170)
 | Nothing Left | 40.00% | ~5,625 |
 | Healing our Wounds | 38.00% | ~5,344 |
 | Dying Sun | 34.00% | ~4,781 |
-| Improved crossbow | 27.00% | ~3,797 |
+| Improved crossbow | 28.00% | ~3,937 |
 | King Hugo | 26.00% | ~3,656 |
 | Mercy | 24.00% | ~3,375 |
 | Perfect shot | 23.00% | ~3,234 |

@@ -30,10 +30,10 @@
 | The Road to Liberty | 3.00% | ~70 |
 | Romantic Races | 3.00% | ~70 |
 | Rounding Off | 3.00% | ~70 |
+| My Work Here Is Done | 3.00% | ~70 |
 | Iconic! | 2.00% | ~47 |
 | Back in Blighty | 2.00% | ~47 |
 | Still Here | 2.00% | ~47 |
-| My Work Here Is Done | 2.00% | ~47 |
 | Overtaking the Master | 2.00% | ~47 |
 | I'll Be the Best! | 1.00% | ~23 |
 | Next Level | 1.00% | ~23 |

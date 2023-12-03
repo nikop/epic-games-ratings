@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2076,7 +2076,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15611,
+  "EOS_Progressed": 15612,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
@@ -17026,6 +17026,11 @@
       "Time": "2023-12-03T14:04:00.1754405+00:00",
       "NumProgressed": 15611,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-03T15:04:11.3024626+00:00",
+      "NumProgressed": 15612,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -17885,7 +17890,7 @@
       "Name": "Clerics",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_HUNTERS",
@@ -18693,7 +18698,7 @@
       "Name": "Rome",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACHIEVEMENT_OLD_WORLD_ORDER",
@@ -18877,7 +18882,7 @@
       "Name": "Hittite Paganism",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_PERSIA",
@@ -18931,9 +18936,9 @@
       "ID": "ACHIEVEMENT_ROMA_PANTHEON",
       "SetID": "9201eeb",
       "Name": "Pantheon in Roma",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_STAT_SEVEN_WONDERS",
@@ -19133,7 +19138,7 @@
       "Name": "Turreted Elephant",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACHIEVEMENT_UR_GREAT_ZIGGURAT",
@@ -19373,7 +19378,7 @@
       "Name": "Poetic Leader",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_ST_PAUL",
@@ -19772,21 +19777,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15611,
+      "Progressed": 15612,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15611,
+      "Progressed": 15612,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-03T13:04:15.9334657+00:00",
-  "LastChanged_Achievements": "2023-12-03T14:04:00.1754403+00:00",
+  "LastChanged_Achievements": "2023-12-03T15:04:11.3024623+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:20.3030051+00:00",
-  "LastUpdate_Ratings": "2023-12-03T13:59:31.6999953+00:00",
-  "LastUpdate_Achievements": "2023-12-03T14:04:00.1763166+00:00"
+  "LastUpdate_Ratings": "2023-12-03T14:59:40.8014084+00:00",
+  "LastUpdate_Achievements": "2023-12-03T15:04:11.3033746+00:00"
 }

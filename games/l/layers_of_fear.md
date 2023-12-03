@@ -17,8 +17,8 @@
 | Face your fears | 24.00% | ~24 |
 | Playtime | 14.00% | ~14 |
 | Tough conversation | 14.00% | ~14 |
+| Whispers long forgotten | 14.00% | ~14 |
 | The tragedy unfolds | 13.00% | ~13 |
-| Whispers long forgotten | 13.00% | ~13 |
 | A new way | 11.00% | ~11 |
 | First steps | 10.00% | ~10 |
 | True Reflection | 10.00% | ~10 |

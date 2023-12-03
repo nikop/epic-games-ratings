@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 70,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 855,
+  "EOS_Progressed": 856,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 5.73,
+  "EOS_Completed_Percentage": 5.72,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3460,6 +3460,11 @@
       "Time": "2023-12-03T12:03:26.1718164+00:00",
       "NumProgressed": 855,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-03T15:03:21.571556+00:00",
+      "NumProgressed": 856,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 25,
@@ -3479,7 +3484,7 @@
       "Name": "In this together",
       "Percentage": 19,
       "XP": 200,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "META_ALL_LINK",
@@ -3487,7 +3492,7 @@
       "Name": "Peace walker",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -3519,7 +3524,7 @@
       "Name": "Open door",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "META_RESULT_1-3",
@@ -3607,7 +3612,7 @@
       "Name": "Champollion",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -3615,7 +3620,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3631,7 +3636,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "PROGRESS_N2",
@@ -3647,7 +3652,7 @@
       "Name": "A new dawn",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "PROGRESS_N4",
@@ -3670,14 +3675,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 855,
+      "Progressed": 856,
       "Completed": 49
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-03T14:03:10.9579303+00:00",
+  "LastChanged_Achievements": "2023-12-03T15:03:21.5715556+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:43.5720459+00:00",
-  "LastUpdate_Ratings": "2023-12-03T14:00:00.3881635+00:00",
-  "LastUpdate_Achievements": "2023-12-03T14:03:10.9579551+00:00"
+  "LastUpdate_Ratings": "2023-12-03T15:00:10.3541928+00:00",
+  "LastUpdate_Achievements": "2023-12-03T15:03:21.5715859+00:00"
 }

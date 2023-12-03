@@ -2,13 +2,13 @@
   "ID": "4ec958d5e4b6429aadbc116cee0b6ea0",
   "Name": "Dead Space",
   "ProductSlug": "dead-space",
-  "Ranking_Rating": 335,
+  "Ranking_Rating": 336,
   "Ranking_Popularity": 345,
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -727,7 +727,7 @@
   ],
   "EOS_Progressed": 2107,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -6799,9 +6799,9 @@
       "ID": "achievement_4",
       "SetID": "222fo9l",
       "Name": "Cannon Fodder",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1327
     },
     {
       "ID": "achievement_40",
@@ -6920,8 +6920,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-26T22:02:06.8733907+00:00",
-  "LastChanged_Achievements": "2023-12-03T14:08:56.6909722+00:00",
+  "LastChanged_Achievements": "2023-12-03T15:08:47.862246+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:16.9880376+00:00",
-  "LastUpdate_Ratings": "2023-12-03T13:59:26.9624733+00:00",
-  "LastUpdate_Achievements": "2023-12-03T14:08:56.6910232+00:00"
+  "LastUpdate_Ratings": "2023-12-03T14:59:36.2073589+00:00",
+  "LastUpdate_Achievements": "2023-12-03T15:08:47.8622932+00:00"
 }

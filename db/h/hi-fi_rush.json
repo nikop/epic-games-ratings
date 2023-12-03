@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4462,
+  "EOS_Progressed": 4463,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -8080,6 +8080,11 @@
       "Time": "2023-12-03T14:03:28.3870109+00:00",
       "NumProgressed": 4462,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-03T15:03:39.4949282+00:00",
+      "NumProgressed": 4463,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8107,7 +8112,7 @@
       "Name": "This will cost you big time",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "Ach004",
@@ -8219,7 +8224,7 @@
       "Name": "I play my own way!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "Ach018",
@@ -8281,9 +8286,9 @@
       "ID": "Ach025",
       "SetID": "12n4k20",
       "Name": "You got this, Peppermint?",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 669
+      "UsersEstimate": 625
     },
     {
       "ID": "Ach026",
@@ -8299,7 +8304,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "Ach028",
@@ -8347,7 +8352,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "Ach034",
@@ -8658,13 +8663,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4462,
+      "Progressed": 4463,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2983,
+      "Progressed": 2984,
       "Completed": 1930
     }
   ],
@@ -8672,8 +8677,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-03T14:03:28.3870108+00:00",
+  "LastChanged_Achievements": "2023-12-03T15:03:39.4949271+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:21.1661658+00:00",
-  "LastUpdate_Ratings": "2023-12-03T13:59:32.69106+00:00",
-  "LastUpdate_Achievements": "2023-12-03T14:03:28.3870849+00:00"
+  "LastUpdate_Ratings": "2023-12-03T14:59:41.7868433+00:00",
+  "LastUpdate_Achievements": "2023-12-03T15:03:39.4950079+00:00"
 }

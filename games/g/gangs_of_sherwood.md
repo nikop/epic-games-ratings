@@ -4,41 +4,42 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 91.00% | ~48 |
-| Air Fighter | 89.00% | ~47 |
-| Oo-De-Lally | 72.00% | ~38 |
-| Treasure Hunter | 72.00% | ~38 |
-| The Altruist | 72.00% | ~38 |
-| Tap Dancing | 57.00% | ~30 |
-| MAX LEVEL | 57.00% | ~30 |
-| Watch your Step! | 55.00% | ~29 |
-| Right between the eyes | 55.00% | ~29 |
-| Starry Night | 47.00% | ~25 |
-| Spring Board | 47.00% | ~25 |
-| Rebel Unleashed | 42.00% | ~22 |
-| Locksley's Tears | 38.00% | ~20 |
-| Merry Co-operation | 34.00% | ~18 |
-| Finish Him! | 34.00% | ~18 |
-| Assault on the Ram | 34.00% | ~18 |
+| Act of Kindness | 91.00% | ~49 |
+| Air Fighter | 89.00% | ~48 |
+| Treasure Hunter | 72.00% | ~39 |
+| The Altruist | 72.00% | ~39 |
+| Oo-De-Lally | 70.00% | ~38 |
+| Tap Dancing | 57.00% | ~31 |
+| Watch your Step! | 57.00% | ~31 |
+| MAX LEVEL | 57.00% | ~31 |
+| Right between the eyes | 54.00% | ~29 |
+| Spring Board | 50.00% | ~27 |
+| Starry Night | 46.00% | ~25 |
+| Rebel Unleashed | 43.00% | ~23 |
+| Locksley's Tears | 37.00% | ~20 |
+| Finish Him! | 35.00% | ~19 |
+| Merry Co-operation | 33.00% | ~18 |
+| Assault on the Ram | 33.00% | ~18 |
 | Savior | 28.00% | ~15 |
 | Ultra Rebel Instinct | 26.00% | ~14 |
-| Take Action! | 23.00% | ~12 |
-| First Aid | 23.00% | ~12 |
-| Merry Go Round | 23.00% | ~12 |
-| Ultra Combo | 21.00% | ~11 |
+| Merry Go Round | 24.00% | ~13 |
+| Take Action! | 22.00% | ~12 |
+| First Aid | 22.00% | ~12 |
+| Ultra Combo | 20.00% | ~11 |
+| Ascending Will | 17.00% | ~9 |
 | Haute Couture | 17.00% | ~9 |
-| Ascending Will | 15.00% | ~8 |
 | Hidden Experiment | 15.00% | ~8 |
 | Brilliant Executioner | 11.00% | ~6 |
 | Sky High Fighter | 9.00% | ~5 |
 | Into the Lion's Den | 9.00% | ~5 |
-| Bold and Bossy | 8.00% | ~4 |
-| The Gang prevails | 8.00% | ~4 |
-| Out of the ring | 8.00% | ~4 |
+| Bold and Bossy | 7.00% | ~4 |
+| The Gang prevails | 7.00% | ~4 |
+| Out of the ring | 7.00% | ~4 |
 | King of the Iron Fist | 4.00% | ~2 |
 | Power of Friendship! | 4.00% | ~2 |
 | Five of Friends | 4.00% | ~2 |
 | No Mercy | 2.00% | ~1 |
+| Sherwood Moment 37 | 2.00% | ~1 |
 | The Crowkiller | 2.00% | ~1 |
 | A Gest of Robyn Hode | 2.00% | ~1 |
 | Money can not buy happiness | 2.00% | ~1 |
@@ -53,12 +54,11 @@
 | Gangs of Humanity | 0.00% | ~0 |
 | Heroes of Sherwood | 0.00% | ~0 |
 | It belongs in a museum | 0.00% | ~0 |
-| Sherwood Moment 37 | 0.00% | ~0 |
 | The transmuted game | 0.00% | ~0 |
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53 (Ranked 499)  
+Progressed: 54 (Ranked 499)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,4 +72,4 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-30 | 30 | 0 |
 | 2023-12-01 | 44 | 0 |
 | 2023-12-02 | 48 | 0 |
-| 2023-12-03 | 53 | 0 |
+| 2023-12-03 | 54 | 0 |

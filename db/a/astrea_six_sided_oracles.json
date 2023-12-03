@@ -4,8 +4,8 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 447,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -822,9 +822,9 @@
       "ID": "LoyalPartner",
       "SetID": "1jeo1g7",
       "Name": "Loyal Partner",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "MechanicIntegration",
@@ -1285,8 +1285,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-03T14:04:09.1908792+00:00",
+  "LastChanged_Achievements": "2023-12-03T15:04:20.519386+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:23.7468693+00:00",
-  "LastUpdate_Ratings": "2023-12-03T13:59:37.2904922+00:00",
-  "LastUpdate_Achievements": "2023-12-03T14:04:09.1909501+00:00"
+  "LastUpdate_Ratings": "2023-12-03T14:59:46.6391779+00:00",
+  "LastUpdate_Achievements": "2023-12-03T15:04:20.5194601+00:00"
 }

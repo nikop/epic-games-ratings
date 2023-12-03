@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3168,
+  "EOS_Progressed": 3169,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -4756,6 +4756,11 @@
       "Time": "2023-12-03T14:04:32.4121216+00:00",
       "NumProgressed": 3168,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-03T15:04:43.2458678+00:00",
+      "NumProgressed": 3169,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -4775,7 +4780,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "FALLEN_TREE",
@@ -4799,7 +4804,7 @@
       "Name": "The will to move on",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "REUNION",
@@ -4807,7 +4812,7 @@
       "Name": "Reunion",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "SLIDERS",
@@ -4870,7 +4875,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3168,
+      "Progressed": 3169,
       "Completed": 6
     }
   ],
@@ -4878,8 +4883,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-03T14:04:32.4121214+00:00",
+  "LastChanged_Achievements": "2023-12-03T15:04:43.2458675+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:22.6950578+00:00",
-  "LastUpdate_Ratings": "2023-12-03T13:57:52.093042+00:00",
-  "LastUpdate_Achievements": "2023-12-03T14:04:32.4121421+00:00"
+  "LastUpdate_Ratings": "2023-12-03T14:57:59.8286111+00:00",
+  "LastUpdate_Achievements": "2023-12-03T15:04:43.2459005+00:00"
 }

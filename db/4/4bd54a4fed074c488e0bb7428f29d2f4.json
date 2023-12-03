@@ -4,8 +4,8 @@
   "ProductSlug": "1428-shadows-over-silesia-266e5f",
   "Ranking_EOS_Progress": 600,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2022-10-04T11:00:00+00:00",
@@ -196,9 +196,9 @@
       "ID": "SOS_EVERYBODYS_DEAD",
       "SetID": "6ci4lm2",
       "Name": "Everybody\u0027s dead, Dave",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SOS_EVIL_CODE",
@@ -556,9 +556,9 @@
       "ID": "SOS_WE_HAVE_TO_STOP_THEM",
       "SetID": "6ci4lm2",
       "Name": "We have to stop them",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SOS_WHAT_HURTS",
@@ -587,8 +587,8 @@
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-12-03T14:03:57.0760422+00:00",
+  "LastChanged_Achievements": "2023-12-03T15:04:07.9133287+00:00",
   "LastUpdate_AppInfo": "2023-11-27T15:57:06.6652579+00:00",
-  "LastUpdate_Ratings": "2023-12-03T13:58:09.8056535+00:00",
-  "LastUpdate_Achievements": "2023-12-03T14:03:57.0760973+00:00"
+  "LastUpdate_Ratings": "2023-12-03T14:58:17.4362352+00:00",
+  "LastUpdate_Achievements": "2023-12-03T15:04:07.9133651+00:00"
 }

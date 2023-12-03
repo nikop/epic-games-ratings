@@ -7,10 +7,10 @@
 | Feels Familiar | 76.00% | ~813 |
 | I Broke It | 73.00% | ~781 |
 | Better On Ice | 68.00% | ~728 |
+| Cutie Poro | 67.00% | ~717 |
 | Notai Notes | 67.00% | ~717 |
 | Blue Dreams | 66.00% | ~706 |
 | He's Famous! | 66.00% | ~706 |
-| Cutie Poro | 66.00% | ~706 |
 | Krugmazing | 64.00% | ~685 |
 | The Fire Below the Mountain | 61.00% | ~653 |
 | Moneyball | 60.00% | ~642 |
@@ -26,8 +26,8 @@
 | The Finisher | 42.00% | ~449 |
 | So Close | 41.00% | ~439 |
 | You Get Used To It | 41.00% | ~439 |
-| True Legends | 39.00% | ~417 |
-| Family | 38.00% | ~407 |
+| True Legends | 40.00% | ~428 |
+| Family | 39.00% | ~417 |
 | Biggest Snowball Ever | 38.00% | ~407 |
 | Freeze The Ice Witch | 38.00% | ~407 |
 | Boosted! | 38.00% | ~407 |

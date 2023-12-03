@@ -3,12 +3,12 @@
   "Name": "Tyranny - Gold Edition",
   "ProductSlug": "tyranny",
   "Ranking_Rating": 436,
-  "Ranking_Popularity": 184,
-  "Ranking_PopularitySum": 238,
+  "Ranking_Popularity": 183,
+  "Ranking_PopularitySum": 237,
   "Ranking_EOS_Progress": 774,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 490,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
     "PcReleaseDate": "2016-11-10T17:00:00+00:00",
@@ -1607,18 +1607,24 @@
       "Rating": 4.59,
       "NumberOfAwards": 1468,
       "NumberOfAwardsMax": 721
+    },
+    {
+      "Time": "2023-12-03T14:57:58.5872648+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1469,
+      "NumberOfAwardsMax": 722
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1468,
-  "NumberOfAwardsMax": 721,
+  "NumberOfAwards": 1469,
+  "NumberOfAwardsMax": 722,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 721
+      "Count": 722
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -1692,8 +1698,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:41.6168651+00:00",
-  "LastChanged": "2023-11-30T18:00:36.1507482+00:00",
+  "LastChanged": "2023-12-03T14:57:58.5872646+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:21.73397+00:00",
-  "LastUpdate_Ratings": "2023-12-03T13:57:50.7166704+00:00",
-  "LastUpdate_Achievements": "2023-12-03T14:05:41.0896392+00:00"
+  "LastUpdate_Ratings": "2023-12-03T14:57:58.587265+00:00",
+  "LastUpdate_Achievements": "2023-12-03T15:05:52.9933633+00:00"
 }

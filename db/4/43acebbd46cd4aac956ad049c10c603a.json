@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -181,7 +181,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 846,
+  "EOS_Progressed": 849,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
@@ -1976,6 +1976,11 @@
       "Time": "2023-12-03T13:08:40.8667518+00:00",
       "NumProgressed": 846,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T15:04:42.520639+00:00",
+      "NumProgressed": 849,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2154,9 +2159,9 @@
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 68
     },
     {
       "ID": "JustOneLap",
@@ -2170,9 +2175,9 @@
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 85
     },
     {
       "ID": "LostMarshes",
@@ -2234,9 +2239,9 @@
       "ID": "NotWhatItSeems",
       "SetID": "1n308hc",
       "Name": "Not What It Seems",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 34
     },
     {
       "ID": "Overload",
@@ -2250,9 +2255,9 @@
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 51
     },
     {
       "ID": "PrometheusUnbound",
@@ -2450,16 +2455,16 @@
       "ID": "YourBiggestFan",
       "SetID": "1n308hc",
       "Name": "Your Biggest Fan",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 42
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 846,
+      "Progressed": 849,
       "Completed": 1
     }
   ],
@@ -2467,8 +2472,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-03T13:00:54.7758323+00:00",
-  "LastChanged_Achievements": "2023-12-03T14:04:31.639624+00:00",
+  "LastChanged_Achievements": "2023-12-03T15:04:42.520638+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-03T13:57:21.51444+00:00",
-  "LastUpdate_Achievements": "2023-12-03T14:04:31.6396641+00:00"
+  "LastUpdate_Ratings": "2023-12-03T14:57:28.7194564+00:00",
+  "LastUpdate_Achievements": "2023-12-03T15:04:42.520693+00:00"
 }

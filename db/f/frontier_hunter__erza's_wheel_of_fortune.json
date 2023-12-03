@@ -2,10 +2,10 @@
   "ID": "f9af68c0b03e425999c18381eb45e5fb",
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
-  "Ranking_EOS_Progress": 311,
+  "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 516,
+  "EOS_Progressed": 517,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
@@ -1612,6 +1612,11 @@
       "Time": "2023-12-03T14:08:24.1616948+00:00",
       "NumProgressed": 516,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T15:08:19.0904174+00:00",
+      "NumProgressed": 517,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1623,7 +1628,7 @@
       "Name": "Travel Streamer",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1671,7 +1676,7 @@
       "Name": "Furious Scorpion Killer",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -1679,7 +1684,7 @@
       "Name": "Lethal Blade Mantis Killer",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -1687,7 +1692,7 @@
       "Name": "Squeaky Clean",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -1711,7 +1716,7 @@
       "Name": "Training Simulation",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1749,9 +1754,9 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "7pimpda",
       "Name": "Arms Mechanic",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 232
+      "UsersEstimate": 238
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -1765,9 +1770,9 @@
       "ID": "ACHIEVEMENT_26",
       "SetID": "7pimpda",
       "Name": "Master Artificer",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 78
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -1783,7 +1788,7 @@
       "Name": "Trader",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -1791,7 +1796,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1863,7 +1868,7 @@
       "Name": "Silver Moon Wolf King Challenge",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -1879,7 +1884,7 @@
       "Name": "Storm Traveller",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -1943,7 +1948,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -1975,14 +1980,14 @@
       "Name": "Handyman",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 516,
+      "Progressed": 517,
       "Completed": 1
     }
   ],
@@ -1990,8 +1995,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-03T14:08:24.1616945+00:00",
+  "LastChanged_Achievements": "2023-12-03T15:08:19.0904169+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.7212859+00:00",
-  "LastUpdate_Ratings": "2023-12-03T14:00:13.5959551+00:00",
-  "LastUpdate_Achievements": "2023-12-03T14:08:24.1617327+00:00"
+  "LastUpdate_Ratings": "2023-12-03T15:02:33.7001777+00:00",
+  "LastUpdate_Achievements": "2023-12-03T15:08:19.0904563+00:00"
 }

@@ -1,7 +1,7 @@
 # Dead Space
 [Store](https://store.epicgames.com/en-US/p/dead-space)  
 [View Rawdata](../../db/d/dead_space.json)  
-Rating: 4.64 (Ranked 335)  
+Rating: 4.64 (Ranked 336)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,7 +10,7 @@ Rating: 4.64 (Ranked 335)
 | Lab Rat | 76.00% | ~1,601 |
 | All Systems Go | 67.00% | ~1,412 |
 | Brute Force | 67.00% | ~1,412 |
-| Cannon Fodder | 62.00% | ~1,306 |
+| Cannon Fodder | 63.00% | ~1,327 |
 | Autofire | 58.00% | ~1,222 |
 | True Believer | 58.00% | ~1,222 |
 | Story Teller | 57.00% | ~1,201 |

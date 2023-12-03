@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 934)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~38,807 |
+| First Step Into the Knight | 50.00% | ~38,808 |
 | Har, Har, Har, Very Funny | 34.00% | ~26,389 |
 | Loose Ends | 33.00% | ~25,613 |
 | To the Victor Go the Spoils | 28.00% | ~21,732 |
@@ -22,7 +22,7 @@ Rating: 4.18 (Ranked 934)
 | Snow Problem | 19.00% | ~14,747 |
 | The Show Mud Go On | 18.00% | ~13,971 |
 | From Inside Gotham's Walls | 18.00% | ~13,971 |
-| Protector of Gotham | 17.00% | ~13,194 |
+| Protector of Gotham | 17.00% | ~13,195 |
 | Universal Health Scare | 16.00% | ~12,418 |
 | In Your Element | 15.00% | ~11,642 |
 | Voiceless | 15.00% | ~11,642 |
@@ -35,7 +35,7 @@ Rating: 4.18 (Ranked 934)
 | Bulldozed | 12.00% | ~9,314 |
 | Gotham Knight | 12.00% | ~9,314 |
 | Gotham City Confidential | 11.00% | ~8,538 |
-| Drone You Out | 10.00% | ~7,761 |
+| Drone You Out | 10.00% | ~7,762 |
 | Out of Their League | 9.00% | ~6,985 |
 | Solid Alibi | 9.00% | ~6,985 |
 | Fusion Expert | 7.00% | ~5,433 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 934)
 | Element of Surprise | 0.20% | ~96 |
 | It's Nice to Be Wanted | 0.20% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,614 (Ranked 99)  
+Progressed: 77,615 (Ranked 99)  
 Completed: 124 (0.16%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 124 (0.16%) (Ranked 269)
 | 2023-11-30 | 77,491 | 124 |
 | 2023-12-01 | 77,532 | 124 |
 | 2023-12-02 | 77,577 | 124 |
-| 2023-12-03 | 77,614 | 124 |
+| 2023-12-03 | 77,615 | 124 |
 ## Awards
 Max (Great Boss Battles): 2,989  (Ranked 98)  
 Sum: 5,101 (Ranked 140)  
