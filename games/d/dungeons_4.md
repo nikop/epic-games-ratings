@@ -12,7 +12,7 @@
 | The Plains of Strothalm | 71.00% | ~366 |
 | Experienced Thalya | 71.00% | ~366 |
 | Thalya's Concentrated Fury | 68.00% | ~351 |
-| Bad Elves Go Everywhere | 67.00% | ~346 |
+| Bad Elves Go Everywhere | 68.00% | ~351 |
 | Master of Magic | 64.00% | ~330 |
 | Heroes’ Gorge | 63.00% | ~325 |
 | Unicorn steaks – fresh off the hoof! | 61.00% | ~315 |
@@ -23,7 +23,7 @@
 | Minions, Minions! | 54.00% | ~279 |
 | Hard Work | 50.00% | ~258 |
 | YOU SHALL NOT PASS! | 48.00% | ~248 |
-| The Big Eaty | 47.00% | ~243 |
+| The Big Eaty | 48.00% | ~248 |
 | Pure Dynamite! | 44.00% | ~227 |
 | “… like son” | 44.00% | ~227 |
 | Shame! Shame! Shame! | 41.00% | ~212 |
@@ -34,7 +34,7 @@
 | All’s Well That Ends Evil | 30.00% | ~155 |
 | Unstoppable Horde | 29.00% | ~150 |
 | Master of the Undead | 28.00% | ~144 |
-| The Duel | 27.00% | ~139 |
+| The Duel | 28.00% | ~144 |
 | If Looks Could Kill | 25.00% | ~129 |
 | Hungry, Hungry Gorgu! | 24.00% | ~124 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 24.00% | ~124 |

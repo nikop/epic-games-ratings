@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 954,
+  "EOS_Progressed": 955,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3654,6 +3654,11 @@
       "Time": "2023-12-03T00:09:52.841129+00:00",
       "NumProgressed": 954,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T09:09:46.1682775+00:00",
+      "NumProgressed": 955,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3681,7 +3686,7 @@
       "Name": "Basic Controls",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "BigPlane",
@@ -3793,7 +3798,7 @@
       "Name": "Lack of Time",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "LargeAirport",
@@ -3929,7 +3934,7 @@
       "Name": "Reliable Transporter",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ResourceEconomy",
@@ -3945,7 +3950,7 @@
       "Name": "Restructuring",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "Reviewer",
@@ -4000,14 +4005,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 954,
+      "Progressed": 955,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-12-03T08:09:38.1389323+00:00",
+  "LastChanged_Achievements": "2023-12-03T09:09:46.1682773+00:00",
   "LastUpdate_AppInfo": "2023-11-28T18:57:03.7565943+00:00",
-  "LastUpdate_Ratings": "2023-12-03T08:00:20.872065+00:00",
-  "LastUpdate_Achievements": "2023-12-03T08:09:38.1389775+00:00"
+  "LastUpdate_Ratings": "2023-12-03T09:00:39.4571837+00:00",
+  "LastUpdate_Achievements": "2023-12-03T09:09:46.1683111+00:00"
 }

@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 495,
+  "EOS_Progressed": 496,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1370,6 +1370,11 @@
       "Time": "2023-12-03T06:08:19.9663778+00:00",
       "NumProgressed": 495,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T09:08:53.2939472+00:00",
+      "NumProgressed": 496,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1390,7 +1395,7 @@
       "Name": "I remember everything!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "AchvAssertive",
@@ -1550,7 +1555,7 @@
       "Name": "The field base",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "AchvReachCamp",
@@ -1558,15 +1563,15 @@
       "Name": "The Camp",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "AchvReachCity",
       "SetID": "1hj060c",
       "Name": "The City",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 203
     },
     {
       "ID": "AchvReachCondor",
@@ -1590,7 +1595,7 @@
       "Name": "Flying Objects Operator",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "AchvTheEnd",
@@ -1613,14 +1618,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 495,
+      "Progressed": 496,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-03T08:08:51.2248409+00:00",
+  "LastChanged_Achievements": "2023-12-03T09:08:53.2939469+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.6526822+00:00",
   "LastUpdate_Ratings": "2023-12-03T08:02:37.250677+00:00",
-  "LastUpdate_Achievements": "2023-12-03T08:08:51.2248588+00:00"
+  "LastUpdate_Achievements": "2023-12-03T09:08:53.2939701+00:00"
 }

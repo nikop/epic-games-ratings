@@ -18,12 +18,12 @@
 | Pearce | 13.00% | ~32 |
 | The Marriage Is Off | 12.00% | ~30 |
 | Use Your Connections | 11.00% | ~28 |
-| Horrific | 7.00% | ~18 |
+| Horrific | 8.00% | ~20 |
 | Hopeful | 6.00% | ~15 |
 | Shady Truth | 6.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 250 (Ranked 373)  
-Completed: 6 (2.40%) (Ranked 122)  
+Completed: 7 (2.80%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -88,6 +88,7 @@ Completed: 6 (2.40%) (Ranked 122)
 | 2023-11-27 | 247 | 6 |
 | 2023-11-30 | 249 | 6 |
 | 2023-12-02 | 250 | 6 |
+| 2023-12-03 | 250 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

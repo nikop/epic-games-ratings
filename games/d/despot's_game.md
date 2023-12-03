@@ -31,8 +31,8 @@ Rating: 4.50 (Ranked 593)
 | Strength and Sorcery | 11.00% | ~48 |
 | Omae Wa Mou Shindeiru | 8.00% | ~35 |
 | Experimentalist | 7.00% | ~31 |
+| Soldier | 7.00% | ~31 |
 | Wide Selection | 6.00% | ~26 |
-| Soldier | 6.00% | ~26 |
 | Android Power | 6.00% | ~26 |
 | Shopaholic | 3.00% | ~13 |
 | Zombie Lover | 3.00% | ~13 |

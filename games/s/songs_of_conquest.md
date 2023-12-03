@@ -6,14 +6,14 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 35.00% | ~115 |
-| Double Kill | 25.00% | ~82 |
+| Adept | 34.00% | ~113 |
+| Double Kill | 25.00% | ~83 |
 | Critical Hit | 13.00% | ~43 |
 | Veteran | 12.00% | ~40 |
 | Dressed For Success | 10.00% | ~33 |
+| Humiliation | 7.00% | ~23 |
 | Sorcerous Spree | 6.00% | ~20 |
-| Humiliation | 6.00% | ~20 |
-| Veni, Vidi, Vici | 5.00% | ~16 |
+| Veni, Vidi, Vici | 5.00% | ~17 |
 | Multi Kill | 4.00% | ~13 |
 | Whoops! | 4.00% | ~13 |
 | Expert Essence Employment | 4.00% | ~13 |
@@ -31,13 +31,13 @@ Number of Ratings: 292  (23.09.2022)
 | Ultra Kill | 0.90% | ~3 |
 | Death To Diplomacy | 0.60% | ~2 |
 | Versatile Wielder | 0.60% | ~2 |
+| Unlimited Power! | 0.60% | ~2 |
 | Coming Through! | 0.60% | ~2 |
 | Barbecue | 0.60% | ~2 |
 | From the Ashes | 0.60% | ~2 |
 | Cleave | 0.60% | ~2 |
 | Grand Master | 0.60% | ~2 |
 | Hello There | 0.30% | ~1 |
-| Unlimited Power! | 0.30% | ~1 |
 | Fully Charged | 0.30% | ~1 |
 | In The Thick of It | 0.30% | ~1 |
 | Together For Her | 0.30% | ~1 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 330 (Ranked 348)  
+Progressed: 331 (Ranked 347)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-30 | 296 | 0 |
 | 2023-12-01 | 318 | 0 |
 | 2023-12-02 | 328 | 0 |
-| 2023-12-03 | 330 | 0 |
+| 2023-12-03 | 331 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 515)  
 Sum: 194 (Ranked 405)  

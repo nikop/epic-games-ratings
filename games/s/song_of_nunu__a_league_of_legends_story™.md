@@ -14,8 +14,8 @@
 | Krugmazing | 64.00% | ~682 |
 | The Fire Below the Mountain | 61.00% | ~650 |
 | Moneyball | 60.00% | ~639 |
-| No Bites | 54.00% | ~575 |
-| Iceborn | 54.00% | ~575 |
+| No Bites | 55.00% | ~586 |
+| Iceborn | 55.00% | ~586 |
 | Tear of Freedom | 52.00% | ~554 |
 | Boom Things | 52.00% | ~554 |
 | My Darkest Day | 49.00% | ~522 |
@@ -40,7 +40,7 @@
 | Vertical Power | 27.00% | ~288 |
 | One From The Heart | 14.00% | ~149 |
 | Yummy | 10.00% | ~106 |
-| Snowball Fightn't | 9.00% | ~96 |
+| Snowball Fightn't | 10.00% | ~106 |
 | It Was Him | 8.00% | ~85 |
 | Handy Yeti | 6.00% | ~64 |
 | The Pied Piper Of Freljord | 5.00% | ~53 |

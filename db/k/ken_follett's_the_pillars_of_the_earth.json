@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 402,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16811,
+  "EOS_Progressed": 16814,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -15353,6 +15353,11 @@
       "Time": "2023-12-03T08:05:55.355109+00:00",
       "NumProgressed": 16811,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-12-03T09:06:19.1476599+00:00",
+      "NumProgressed": 16814,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15404,7 +15409,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5548
+      "UsersEstimate": 5549
     },
     {
       "ID": "tpote_achievement_15",
@@ -15444,7 +15449,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3026
+      "UsersEstimate": 3027
     },
     {
       "ID": "tpote_achievement_2",
@@ -15452,7 +15457,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5548
+      "UsersEstimate": 5549
     },
     {
       "ID": "tpote_achievement_20",
@@ -15468,7 +15473,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 5043
+      "UsersEstimate": 5044
     },
     {
       "ID": "tpote_achievement_22",
@@ -15476,7 +15481,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3362
+      "UsersEstimate": 3363
     },
     {
       "ID": "tpote_achievement_23",
@@ -15492,7 +15497,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1849
+      "UsersEstimate": 1850
     },
     {
       "ID": "tpote_achievement_25",
@@ -15500,7 +15505,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "tpote_achievement_26",
@@ -15508,7 +15513,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     },
     {
       "ID": "tpote_achievement_27",
@@ -15516,7 +15521,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3026
+      "UsersEstimate": 3027
     },
     {
       "ID": "tpote_achievement_28",
@@ -15524,7 +15529,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "tpote_achievement_29",
@@ -15556,7 +15561,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 3026
+      "UsersEstimate": 3027
     },
     {
       "ID": "tpote_achievement_32",
@@ -15612,7 +15617,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "tpote_achievement_39",
@@ -15628,7 +15633,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6724
+      "UsersEstimate": 6726
     },
     {
       "ID": "tpote_achievement_40",
@@ -15676,7 +15681,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3530
+      "UsersEstimate": 3531
     },
     {
       "ID": "tpote_achievement_9",
@@ -15684,22 +15689,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5716
+      "UsersEstimate": 5717
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16811,
+      "Progressed": 16814,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-12-03T08:05:55.3551086+00:00",
+  "LastChanged_Achievements": "2023-12-03T09:06:19.1476596+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:14.9686486+00:00",
-  "LastUpdate_Ratings": "2023-12-03T07:57:52.2436499+00:00",
-  "LastUpdate_Achievements": "2023-12-03T08:05:55.3552117+00:00"
+  "LastUpdate_Ratings": "2023-12-03T08:57:51.49303+00:00",
+  "LastUpdate_Achievements": "2023-12-03T09:06:19.1477554+00:00"
 }

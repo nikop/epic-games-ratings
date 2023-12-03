@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Enough rooms to swing a cat | 95.00% | ~35 |
-| Home Sweet Home | 92.00% | ~34 |
-| First to the post | 92.00% | ~34 |
-| A kind of Magic | 86.00% | ~32 |
-| Connected | 86.00% | ~32 |
-| Expansion | 78.00% | ~29 |
-| Harvest Time | 76.00% | ~28 |
-| Mine! | 73.00% | ~27 |
-| Artificer's Apprentice | 65.00% | ~24 |
-| Fly the friendly Sky | 59.00% | ~22 |
-| Get out of here! | 57.00% | ~21 |
-| Alchemist's Apprentice | 54.00% | ~20 |
-| Friend of Lyraine | 54.00% | ~20 |
-| The Circle | 51.00% | ~19 |
-| Necromancer's Apprentice | 51.00% | ~19 |
-| Redecorating | 43.00% | ~16 |
+| Enough rooms to swing a cat | 95.00% | ~36 |
+| Home Sweet Home | 92.00% | ~35 |
+| First to the post | 92.00% | ~35 |
+| A kind of Magic | 87.00% | ~33 |
+| Connected | 84.00% | ~32 |
+| Expansion | 79.00% | ~30 |
+| Harvest Time | 74.00% | ~28 |
+| Mine! | 71.00% | ~27 |
+| Artificer's Apprentice | 63.00% | ~24 |
+| Get out of here! | 58.00% | ~22 |
+| Fly the friendly Sky | 58.00% | ~22 |
+| Friend of Lyraine | 55.00% | ~21 |
+| Alchemist's Apprentice | 53.00% | ~20 |
+| Necromancer's Apprentice | 53.00% | ~20 |
+| The Circle | 50.00% | ~19 |
+| Redecorating | 42.00% | ~16 |
 | Friend of Sevenkeeps | 32.00% | ~12 |
-| Slave to the rhythm | 27.00% | ~10 |
-| Sevenkeeps Seat of Kings | 27.00% | ~10 |
-| Bad JuJu | 27.00% | ~10 |
+| Bad JuJu | 29.00% | ~11 |
+| Slave to the rhythm | 26.00% | ~10 |
+| Sevenkeeps Seat of Kings | 26.00% | ~10 |
 | Castle Meldec | 24.00% | ~9 |
-| Friend of Alluvyan | 19.00% | ~7 |
-| Friend of Gillyshire | 19.00% | ~7 |
-| Friend of Connach | 19.00% | ~7 |
-| Friend of Bastion | 19.00% | ~7 |
+| Friend of Alluvyan | 18.00% | ~7 |
+| Friend of Gillyshire | 18.00% | ~7 |
+| Friend of Connach | 18.00% | ~7 |
+| Friend of Bastion | 18.00% | ~7 |
 | Philo's Tale | 16.00% | ~6 |
 | Stormwatch Faste | 16.00% | ~6 |
 | Break Free | 16.00% | ~6 |
-| Defeat Gor | 14.00% | ~5 |
-| Friend of Orgash | 14.00% | ~5 |
-| Magic Academy | 14.00% | ~5 |
-| A Joke | 14.00% | ~5 |
+| Defeat Gor | 13.00% | ~5 |
+| Friend of Orgash | 13.00% | ~5 |
+| Magic Academy | 13.00% | ~5 |
+| A Joke | 13.00% | ~5 |
 | Defeat Isgrimm | 11.00% | ~4 |
 | Defeat Uram | 11.00% | ~4 |
 | Lore's Tale | 11.00% | ~4 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37 (Ranked 521)  
+Progressed: 38 (Ranked 520)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,6 +102,7 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-27 | 34 | 0 |
 | 2023-11-29 | 36 | 0 |
 | 2023-12-02 | 37 | 0 |
+| 2023-12-03 | 38 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,12 +5,12 @@ Rating: 4.75 (Ranked 149)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 0.70% | ~1,634 |
-| First of Many | 0.70% | ~1,634 |
+| The Killing Jar | 0.70% | ~1,635 |
+| First of Many | 0.70% | ~1,635 |
 | Regicide | 0.70% | ~89 |
 | Master of the Dark Arts | 0.70% | ~89 |
-| Expanding Horizons | 0.50% | ~1,167 |
-| Not Your Average Trait | 0.50% | ~1,167 |
+| Expanding Horizons | 0.50% | ~1,168 |
+| Not Your Average Trait | 0.50% | ~1,168 |
 | Gleaming the Cube | 0.40% | ~934 |
 | Not So Special Now | 0.40% | ~934 |
 | Quest for Survival | 0.40% | ~934 |
@@ -19,21 +19,21 @@ Rating: 4.75 (Ranked 149)
 | Duality | 0.40% | ~934 |
 | Boss'n Up | 0.40% | ~934 |
 | Trait Chaser | 0.40% | ~934 |
-| Am I Seeing This? | 0.30% | ~700 |
-| Chaos | 0.30% | ~700 |
-| Traitor | 0.30% | ~700 |
-| Power Surge | 0.30% | ~700 |
-| The God Gambit | 0.30% | ~700 |
-| Dark Designs | 0.30% | ~700 |
-| Equal Measures | 0.30% | ~700 |
-| Blue Goddess | 0.30% | ~700 |
-| Top Performer | 0.30% | ~700 |
-| Shhh...It's a Secret | 0.30% | ~700 |
-| Was This Supposed To Happen? | 0.30% | ~700 |
-| Scrap Collector | 0.30% | ~700 |
-| Almost There | 0.30% | ~700 |
-| Make Some Room | 0.30% | ~700 |
-| Good, But Could Be Better! | 0.30% | ~700 |
+| Am I Seeing This? | 0.30% | ~701 |
+| Chaos | 0.30% | ~701 |
+| Traitor | 0.30% | ~701 |
+| Power Surge | 0.30% | ~701 |
+| The God Gambit | 0.30% | ~701 |
+| Dark Designs | 0.30% | ~701 |
+| Equal Measures | 0.30% | ~701 |
+| Blue Goddess | 0.30% | ~701 |
+| Top Performer | 0.30% | ~701 |
+| Shhh...It's a Secret | 0.30% | ~701 |
+| Was This Supposed To Happen? | 0.30% | ~701 |
+| Scrap Collector | 0.30% | ~701 |
+| Almost There | 0.30% | ~701 |
+| Make Some Room | 0.30% | ~701 |
+| Good, But Could Be Better! | 0.30% | ~701 |
 | Crafty | 0.20% | ~467 |
 | Ghost in the Machine | 0.20% | ~467 |
 | Forever is a Long Time Coming | 0.20% | ~467 |
@@ -54,14 +54,14 @@ Rating: 4.75 (Ranked 149)
 | Transmutate | 0.20% | ~467 |
 | Succession | 0.20% | ~25 |
 | You Shall Pass | 0.20% | ~25 |
-| Only Human | 0.10% | ~233 |
-| Red Room | 0.10% | ~233 |
-| The Trigger | 0.10% | ~233 |
-| Proving Grounds | 0.10% | ~233 |
-| Maxed Out! | 0.10% | ~233 |
+| Only Human | 0.10% | ~234 |
+| Red Room | 0.10% | ~234 |
+| The Trigger | 0.10% | ~234 |
+| Proving Grounds | 0.10% | ~234 |
+| Maxed Out! | 0.10% | ~234 |
 | A Foul Feast | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,478 (Ranked 68)  
+Progressed: 233,511 (Ranked 68)  
 Completed: 548 (0.23%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 548 (0.23%) (Ranked 251)
 | 2023-11-30 | 231,406 | 542 |
 | 2023-12-01 | 232,269 | 546 |
 | 2023-12-02 | 233,162 | 548 |
-| 2023-12-03 | 233,478 | 548 |
+| 2023-12-03 | 233,511 | 548 |
 ## Awards
 Max (Great Boss Battles): 2,577  (Ranked 102)  
 Sum: 6,355 (Ranked 129)  

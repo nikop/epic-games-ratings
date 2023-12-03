@@ -1,23 +1,23 @@
 # Madden NFL 23
 [Store](https://store.epicgames.com/en-US/p/madden-nfl-23)  
 [View Rawdata](../../db/m/madden_nfl_23.json)  
-Rating: 4.27 (Ranked 864)  
+Rating: 4.28 (Ranked 858)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bragging Rights | 55.00% | ~2,101 |
-| MVP | 54.00% | ~2,063 |
-| Big Spender | 53.00% | ~2,025 |
-| Stud Finder | 40.00% | ~1,528 |
-| Dealmaker | 39.00% | ~1,490 |
-| ROTY | 32.00% | ~1,222 |
-| Roster Reshuffle | 31.00% | ~1,184 |
+| Bragging Rights | 55.00% | ~2,102 |
+| MVP | 54.00% | ~2,064 |
+| Big Spender | 53.00% | ~2,026 |
+| Stud Finder | 40.00% | ~1,529 |
+| Dealmaker | 39.00% | ~1,491 |
+| ROTY | 32.00% | ~1,223 |
+| Roster Reshuffle | 31.00% | ~1,185 |
 | Future of the Franchise | 19.00% | ~726 |
-| Throwin’ Dots | 17.00% | ~649 |
-| Already in Progress | 17.00% | ~649 |
-| Primetime | 16.00% | ~611 |
-| Change of Scenery | 16.00% | ~611 |
-| Pro Bowler | 16.00% | ~611 |
+| Throwin’ Dots | 17.00% | ~650 |
+| Already in Progress | 17.00% | ~650 |
+| Primetime | 16.00% | ~612 |
+| Change of Scenery | 16.00% | ~612 |
+| Pro Bowler | 16.00% | ~612 |
 | Unblockable | 9.00% | ~344 |
 | Pocket Ace | 5.00% | ~191 |
 | Lockdown Corner | 5.00% | ~191 |
@@ -27,7 +27,7 @@ Rating: 4.27 (Ranked 864)
 | Lockdown Leader | 0.50% | ~19 |
 | The Fortress | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,820 (Ranked 199)  
+Progressed: 3,822 (Ranked 199)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,15 +106,15 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-30 | 3,768 | 0 |
 | 2023-12-01 | 3,777 | 0 |
 | 2023-12-02 | 3,803 | 0 |
-| 2023-12-03 | 3,820 | 0 |
+| 2023-12-03 | 3,822 | 0 |
 ## Awards
 Max (Diverse Characters): 40  (Ranked 460)  
-Sum: 117 (Ranked 440)  
-Diff (max vs sum): 20  
+Sum: 118 (Ranked 437)  
+Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 40 |
-| This game has a Competitive Community | 31 |
+| This game has a Competitive Community | 32 |
 | This game is Highly Recommended | 24 |
 | This game is Extremely Fun | 22 |
 ## Ratings History
@@ -255,3 +255,4 @@ Diff (max vs sum): 20
 | 2023-11-26 | 4.27 | 39 | 115 |
 | 2023-11-28 | 4.27 | 40 | 116 |
 | 2023-11-30 | 4.27 | 40 | 117 |
+| 2023-12-03 | 4.28 | 40 | 118 |

@@ -3,11 +3,11 @@
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
   "Ranking_Rating": 793,
-  "Ranking_Popularity": 286,
+  "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -1075,9 +1075,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 14608,
+  "EOS_Progressed": 14620,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 827,
+  "EOS_NewPlayers": 834,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -12240,6 +12240,11 @@
       "Time": "2023-12-03T08:09:03.971749+00:00",
       "NumProgressed": 14608,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-03T09:09:07.3466057+00:00",
+      "NumProgressed": 14620,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -12252,7 +12257,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "a_10",
@@ -12284,7 +12289,7 @@
       "Name": "Big Money",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "a_16",
@@ -12300,7 +12305,7 @@
       "Name": "Bye Bye",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 6135
+      "UsersEstimate": 6140
     },
     {
       "ID": "a_19",
@@ -12308,7 +12313,7 @@
       "Name": "Bonjour!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "a_2",
@@ -12316,7 +12321,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "a_20",
@@ -12324,7 +12329,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "a_21",
@@ -12332,7 +12337,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "a_22",
@@ -12340,7 +12345,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "a_23",
@@ -12356,7 +12361,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "a_26",
@@ -12372,7 +12377,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "a_28",
@@ -12388,7 +12393,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "a_30",
@@ -12484,7 +12489,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "a_9",
@@ -12499,7 +12504,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 14608,
+      "Progressed": 14620,
       "Completed": 12
     }
   ],
@@ -12507,8 +12512,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-27T12:03:17.4706024+00:00",
-  "LastChanged_Achievements": "2023-12-03T08:09:03.9717486+00:00",
+  "LastChanged_Achievements": "2023-12-03T09:09:07.346605+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:18.6853909+00:00",
-  "LastUpdate_Ratings": "2023-12-03T08:03:01.3147245+00:00",
-  "LastUpdate_Achievements": "2023-12-03T08:09:03.971817+00:00"
+  "LastUpdate_Ratings": "2023-12-03T09:03:01.7961165+00:00",
+  "LastUpdate_Achievements": "2023-12-03T09:09:07.3466815+00:00"
 }

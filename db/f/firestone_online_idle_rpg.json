@@ -565,9 +565,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2973,
+  "EOS_Progressed": 2974,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 273,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8700,6 +8700,11 @@
       "Time": "2023-12-03T08:09:13.5696565+00:00",
       "NumProgressed": 2973,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-03T09:09:18.0683759+00:00",
+      "NumProgressed": 2974,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -8887,7 +8892,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "fellowshippower",
@@ -9007,7 +9012,7 @@
       "Name": "Lieutenant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "lockandload",
@@ -9069,9 +9074,9 @@
       "ID": "mysteriousrock",
       "SetID": "3nl4bcg",
       "Name": "Mysterious Rock",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 327
     },
     {
       "ID": "mythicpower",
@@ -9111,7 +9116,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "relicofthepast",
@@ -9271,7 +9276,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2765
+      "UsersEstimate": 2766
     },
     {
       "ID": "warmachinesarmy",
@@ -9303,14 +9308,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2319
+      "UsersEstimate": 2320
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2973,
+      "Progressed": 2974,
       "Completed": 2
     }
   ],
@@ -9318,8 +9323,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-03T04:59:05.4755742+00:00",
-  "LastChanged_Achievements": "2023-12-03T08:09:13.569656+00:00",
+  "LastChanged_Achievements": "2023-12-03T09:09:18.0683754+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:05.1164011+00:00",
-  "LastUpdate_Ratings": "2023-12-03T07:59:25.4313088+00:00",
-  "LastUpdate_Achievements": "2023-12-03T08:09:13.5697373+00:00"
+  "LastUpdate_Ratings": "2023-12-03T08:59:37.4235377+00:00",
+  "LastUpdate_Achievements": "2023-12-03T09:09:18.0684635+00:00"
 }

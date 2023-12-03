@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1534,
+  "EOS_Progressed": 1535,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4584,6 +4584,11 @@
       "Time": "2023-12-03T08:09:42.3558892+00:00",
       "NumProgressed": 1534,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T09:09:50.6437348+00:00",
+      "NumProgressed": 1535,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4820,7 +4825,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "achievement_36",
@@ -4860,7 +4865,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "achievement_40",
@@ -4868,7 +4873,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "achievement_41",
@@ -5099,13 +5104,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1534,
+      "Progressed": 1535,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1534,
+      "Progressed": 1535,
       "Completed": 1
     }
   ],
@@ -5113,8 +5118,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-03T08:09:42.3558888+00:00",
+  "LastChanged_Achievements": "2023-12-03T09:09:50.6437346+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:10.1536923+00:00",
-  "LastUpdate_Ratings": "2023-12-03T07:59:34.1794559+00:00",
-  "LastUpdate_Achievements": "2023-12-03T08:09:42.35597+00:00"
+  "LastUpdate_Ratings": "2023-12-03T08:59:47.6550626+00:00",
+  "LastUpdate_Achievements": "2023-12-03T09:09:50.6438113+00:00"
 }

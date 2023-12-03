@@ -175,7 +175,7 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 841,
+  "EOS_Progressed": 842,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
@@ -1955,6 +1955,11 @@
       "Time": "2023-12-03T08:04:29.3220997+00:00",
       "NumProgressed": 841,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T09:04:42.4942717+00:00",
+      "NumProgressed": 842,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2117,9 +2122,9 @@
       "ID": "GrasslandsRing",
       "SetID": "1n308hc",
       "Name": "Grasslands Ring",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 34
     },
     {
       "ID": "HighPlain",
@@ -2167,7 +2172,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Mnemosyne",
@@ -2183,7 +2188,7 @@
       "Name": "Museum Explorer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "MuseumVisitor",
@@ -2279,7 +2284,7 @@
       "Name": "Signatory",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "SingleRod",
@@ -2383,7 +2388,7 @@
       "Name": "Touch Grass",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "TrevorsBiographer",
@@ -2438,7 +2443,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 841,
+      "Progressed": 842,
       "Completed": 1
     }
   ],
@@ -2446,8 +2451,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-02T13:02:26.2646778+00:00",
-  "LastChanged_Achievements": "2023-12-03T08:04:29.3220991+00:00",
+  "LastChanged_Achievements": "2023-12-03T09:04:42.4942714+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-03T07:57:38.374459+00:00",
-  "LastUpdate_Achievements": "2023-12-03T08:04:29.3221575+00:00"
+  "LastUpdate_Ratings": "2023-12-03T08:57:35.8253361+00:00",
+  "LastUpdate_Achievements": "2023-12-03T09:04:42.4943297+00:00"
 }

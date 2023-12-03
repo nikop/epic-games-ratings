@@ -3,9 +3,9 @@
   "Name": "Night Book",
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 373,
-  "Ranking_EOS_Completed": 122,
+  "Ranking_EOS_Completed": 111,
   "Ranking_EOS_NewPlayers": 351,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-07-27T17:00:00+00:00",
@@ -32,10 +32,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 250,
-  "EOS_Completed": 6,
+  "EOS_Completed": 7,
   "EOS_NewPlayers": 4,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.4,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 2.8,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:54.2644177+00:00",
@@ -416,6 +416,11 @@
       "Time": "2023-12-02T13:07:23.0400846+00:00",
       "NumProgressed": 250,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-03T09:03:31.3112471+00:00",
+      "NumProgressed": 250,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 17,
@@ -457,9 +462,9 @@
       "ID": "horrific",
       "SetID": "a3kkelb",
       "Name": "Horrific",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "impress_theron",
@@ -563,15 +568,15 @@
       "ID": "a3kkelb",
       "IsBase": true,
       "Progressed": 250,
-      "Completed": 6
+      "Completed": 7
     }
   ],
   "FirstSeen": "2022-11-19T20:57:23.939293+00:00",
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-12-03T08:03:25.5929172+00:00",
+  "LastChanged_Achievements": "2023-12-03T09:03:31.3112464+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:20.0977038+00:00",
-  "LastUpdate_Ratings": "2023-12-03T07:57:57.6575357+00:00",
-  "LastUpdate_Achievements": "2023-12-03T08:03:25.5929303+00:00"
+  "LastUpdate_Ratings": "2023-12-03T08:57:57.8299368+00:00",
+  "LastUpdate_Achievements": "2023-12-03T09:03:31.3112614+00:00"
 }

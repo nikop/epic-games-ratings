@@ -5,7 +5,7 @@
   "Ranking_Rating": 231,
   "Ranking_Popularity": 515,
   "Ranking_PopularitySum": 405,
-  "Ranking_EOS_Progress": 348,
+  "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 132,
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 330,
+  "EOS_Progressed": 331,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1448,6 +1448,11 @@
       "Time": "2023-12-03T08:05:38.2452155+00:00",
       "NumProgressed": 330,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T09:05:59.5234872+00:00",
+      "NumProgressed": 331,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1538,9 +1543,9 @@
       "ID": "ChainLightningKills",
       "SetID": "71c0n9i",
       "Name": "Unlimited Power!",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ChargerCount",
@@ -1604,7 +1609,7 @@
       "Name": "Double Kill",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "FlameAttackKillCount",
@@ -1786,9 +1791,9 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 113
     },
     {
       "ID": "WielderLevel2",
@@ -1818,9 +1823,9 @@
       "ID": "WinBattleBeforeEnemyTurn",
       "SetID": "71c0n9i",
       "Name": "Humiliation",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -1844,7 +1849,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -1891,15 +1896,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 330,
+      "Progressed": 331,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-03T08:05:38.2452152+00:00",
+  "LastChanged_Achievements": "2023-12-03T09:05:59.523487+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:08.015125+00:00",
-  "LastUpdate_Ratings": "2023-12-03T07:57:47.1619293+00:00",
-  "LastUpdate_Achievements": "2023-12-03T08:05:38.2452551+00:00"
+  "LastUpdate_Ratings": "2023-12-03T08:57:45.5544204+00:00",
+  "LastUpdate_Achievements": "2023-12-03T09:05:59.5235287+00:00"
 }

@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 505,
+  "EOS_Progressed": 506,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1582,6 +1582,11 @@
       "Time": "2023-12-03T08:08:17.1629266+00:00",
       "NumProgressed": 505,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T09:08:14.1617166+00:00",
+      "NumProgressed": 506,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1593,7 +1598,7 @@
       "Name": "Travel Streamer",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1601,7 +1606,7 @@
       "Name": "Giant Lizard Killer",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -1623,9 +1628,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "7pimpda",
       "Name": "Flying Kobold Killer",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 91
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -1681,7 +1686,7 @@
       "Name": "Training Simulation",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1721,7 +1726,7 @@
       "Name": "Arms Mechanic",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -1745,7 +1750,7 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -1759,9 +1764,9 @@
       "ID": "ACHIEVEMENT_3",
       "SetID": "7pimpda",
       "Name": "Kuku Bird Hunter",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 318
+      "UsersEstimate": 314
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1945,14 +1950,14 @@
       "Name": "Handyman",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 505,
+      "Progressed": 506,
       "Completed": 1
     }
   ],
@@ -1960,8 +1965,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-03T08:08:17.1629263+00:00",
+  "LastChanged_Achievements": "2023-12-03T09:08:14.1617165+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.7212859+00:00",
-  "LastUpdate_Ratings": "2023-12-03T08:00:34.4573695+00:00",
-  "LastUpdate_Achievements": "2023-12-03T08:08:17.1629635+00:00"
+  "LastUpdate_Ratings": "2023-12-03T09:00:54.459257+00:00",
+  "LastUpdate_Achievements": "2023-12-03T09:08:14.1617476+00:00"
 }

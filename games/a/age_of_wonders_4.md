@@ -5,8 +5,8 @@ Rating: 4.61 (Ranked 386)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 4.00% | ~222 |
-| But this one is mine | 4.00% | ~222 |
+| Secret Technique | 4.00% | ~223 |
+| But this one is mine | 4.00% | ~223 |
 | Realm Estate | 3.00% | ~167 |
 | A Wonderful Discovery | 3.00% | ~167 |
 | Walls Cannot Stop Us | 3.00% | ~167 |
@@ -40,7 +40,7 @@ Rating: 4.61 (Ranked 386)
 | Arch Mage | 0.90% | ~50 |
 | Blood of the Dragon | 0.90% | ~50 |
 | Prometheus Avenged | 0.90% | ~50 |
-| A Conqueror's Cohort | 0.80% | ~44 |
+| A Conqueror's Cohort | 0.80% | ~45 |
 | The Creator | 0.70% | ~39 |
 | Lord of Chaos | 0.60% | ~33 |
 | Eternal Lord | 0.60% | ~33 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 386)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,562 (Ranked 189)  
+Progressed: 5,563 (Ranked 189)  
 Completed: 7 (0.13%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 7 (0.13%) (Ranked 274)
 | 2023-11-30 | 5,551 | 7 |
 | 2023-12-01 | 5,553 | 7 |
 | 2023-12-02 | 5,560 | 7 |
-| 2023-12-03 | 5,562 | 7 |
+| 2023-12-03 | 5,563 | 7 |
 ## Awards
 Max (Great for Beginners): 35  (Ranked 479)  
 Sum: 84 (Ranked 463)  
