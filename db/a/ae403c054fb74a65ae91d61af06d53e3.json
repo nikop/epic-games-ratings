@@ -4,7 +4,7 @@
   "ProductSlug": "super-adventure-hand-62ec9a",
   "Ranking_EOS_Progress": 600,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 492,
+  "Ranking_EOS_NewPlayers": 490,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-09-21T11:00:00+00:00",
@@ -104,9 +104,9 @@
       "ID": "ach_boss_defeated",
       "SetID": "8787m1a",
       "Name": "De-feet the Boss",
-      "Percentage": 33,
+      "Percentage": 42,
       "XP": 200,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_boss_defeated_nodeath",
@@ -231,8 +231,8 @@
   ],
   "FirstSeen": "2023-09-24T13:57:59.4774682+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.9964559+00:00",
-  "LastChanged_Achievements": "2023-12-03T10:06:28.9765257+00:00",
+  "LastChanged_Achievements": "2023-12-03T11:06:36.4340785+00:00",
   "LastUpdate_AppInfo": "2023-11-29T07:56:59.2098049+00:00",
-  "LastUpdate_Ratings": "2023-12-03T10:03:09.6698162+00:00",
-  "LastUpdate_Achievements": "2023-12-03T10:06:28.9765349+00:00"
+  "LastUpdate_Ratings": "2023-12-03T11:03:06.5072216+00:00",
+  "LastUpdate_Achievements": "2023-12-03T11:06:36.4340883+00:00"
 }

@@ -3532,9 +3532,9 @@
       "Count": 746
     }
   ],
-  "EOS_Progressed": 240556,
+  "EOS_Progressed": 240558,
   "EOS_Completed": 292,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 311,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -26962,6 +26962,11 @@
       "Time": "2023-12-03T10:09:40.7411415+00:00",
       "NumProgressed": 240556,
       "NumCompleted": 292
+    },
+    {
+      "Time": "2023-12-03T11:09:36.2149072+00:00",
+      "NumProgressed": 240558,
+      "NumCompleted": 292
     }
   ],
   "TotalAchievements": 138,
@@ -27627,9 +27632,9 @@
       "ID": "PETRIFY50",
       "SetID": "5l8oe0h",
       "Name": "Stone Touch",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 962
     },
     {
       "ID": "PLAY10HOURS",
@@ -27691,9 +27696,9 @@
       "ID": "SHRINETO1",
       "SetID": "5l8oe0h",
       "Name": "Fragile Mortality",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 481
     },
     {
       "ID": "SHUFFLE10TIMES",
@@ -28076,13 +28081,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240556,
+      "Progressed": 240558,
       "Completed": 292
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2036,
+      "Progressed": 2038,
       "Completed": 393
     }
   ],
@@ -28090,8 +28095,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-03T07:59:02.1621168+00:00",
-  "LastChanged_Achievements": "2023-12-03T10:09:40.7411409+00:00",
+  "LastChanged_Achievements": "2023-12-03T11:09:36.2149071+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:52.1458075+00:00",
-  "LastUpdate_Ratings": "2023-12-03T09:58:52.0558265+00:00",
-  "LastUpdate_Achievements": "2023-12-03T10:09:40.7413867+00:00"
+  "LastUpdate_Ratings": "2023-12-03T10:59:10.193973+00:00",
+  "LastUpdate_Achievements": "2023-12-03T11:09:36.21521+00:00"
 }

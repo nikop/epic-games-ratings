@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 456,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -434,9 +434,9 @@
       "ID": "KR4_ACHIEVEMENT_APEX_PREDATOR",
       "SetID": "caeik3h",
       "Name": "Apex Predator",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "KR4_ACHIEVEMENT_ASRA_MAX",
@@ -546,9 +546,9 @@
       "ID": "KR4_ACHIEVEMENT_DEMOGORGON",
       "SetID": "caeik3h",
       "Name": "That\u0027s a strange flower",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "KR4_ACHIEVEMENT_DESTROY_MINE_CARTS",
@@ -570,9 +570,9 @@
       "ID": "KR4_ACHIEVEMENT_ELITEHARASSERS",
       "SetID": "caeik3h",
       "Name": "Ultra Instinct",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "KR4_ACHIEVEMENT_FARMER_JOE",
@@ -706,9 +706,9 @@
       "ID": "KR4_ACHIEVEMENT_INCREDIBLES",
       "SetID": "caeik3h",
       "Name": "Nothing is beneath me!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "KR4_ACHIEVEMENT_INFERNALDEN",
@@ -938,9 +938,9 @@
       "ID": "KR4_ACHIEVEMENT_SKIYETI",
       "SetID": "caeik3h",
       "Name": "Ski Free",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "KR4_ACHIEVEMENT_SLENDERMAN",
@@ -1063,8 +1063,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-03T10:05:22.9603558+00:00",
+  "LastChanged_Achievements": "2023-12-03T11:05:31.6982324+00:00",
   "LastUpdate_AppInfo": "2023-11-30T16:57:23.733607+00:00",
-  "LastUpdate_Ratings": "2023-12-03T09:59:21.4590107+00:00",
-  "LastUpdate_Achievements": "2023-12-03T10:05:22.9604372+00:00"
+  "LastUpdate_Ratings": "2023-12-03T10:59:39.1106229+00:00",
+  "LastUpdate_Achievements": "2023-12-03T11:05:31.6982999+00:00"
 }

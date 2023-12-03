@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1950,
+  "EOS_Progressed": 1952,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7393,6 +7393,11 @@
       "Time": "2023-12-03T07:08:30.7487338+00:00",
       "NumProgressed": 1950,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T11:08:10.6872599+00:00",
+      "NumProgressed": 1952,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7412,7 +7417,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ach_defeat_players_10",
@@ -7436,7 +7441,7 @@
       "Name": "Gold Achiever",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -7516,7 +7521,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -7556,7 +7561,7 @@
       "Name": "Colonel",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "objective_hero_level_up_7",
@@ -7580,7 +7585,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -7700,14 +7705,14 @@
       "Name": "Control the Skies",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     }
   ],
   "AchievementSets": [
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1950,
+      "Progressed": 1952,
       "Completed": 1
     }
   ],
@@ -7715,8 +7720,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-21T23:00:15.982699+00:00",
-  "LastChanged_Achievements": "2023-12-03T10:06:53.0635435+00:00",
+  "LastChanged_Achievements": "2023-12-03T11:08:10.6872596+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:25.6864843+00:00",
-  "LastUpdate_Ratings": "2023-12-03T09:58:00.7143011+00:00",
-  "LastUpdate_Achievements": "2023-12-03T10:06:53.0635905+00:00"
+  "LastUpdate_Ratings": "2023-12-03T10:58:18.3844179+00:00",
+  "LastUpdate_Achievements": "2023-12-03T11:08:10.6873224+00:00"
 }

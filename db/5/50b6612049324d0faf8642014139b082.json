@@ -91,7 +91,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 724,
+  "EOS_Progressed": 726,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
@@ -1706,6 +1706,11 @@
       "Time": "2023-12-03T04:09:08.9178899+00:00",
       "NumProgressed": 724,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T11:09:28.6170382+00:00",
+      "NumProgressed": 726,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1726,7 +1731,7 @@
       "Name": "Asphalt Artist",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "achievement_11",
@@ -1734,7 +1739,7 @@
       "Name": "Gravel Guru",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "achievement_12",
@@ -1782,7 +1787,7 @@
       "Name": "Your first time?",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 376
+      "UsersEstimate": 378
     },
     {
       "ID": "achievement_18",
@@ -1806,7 +1811,7 @@
       "Name": "Team Principal",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 557
+      "UsersEstimate": 559
     },
     {
       "ID": "achievement_20",
@@ -1854,7 +1859,7 @@
       "Name": "E-stonia",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "achievement_26",
@@ -1862,7 +1867,7 @@
       "Name": "Driver\u0027s Alliance",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "achievement_3",
@@ -1870,7 +1875,7 @@
       "Name": "Rookie Season",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "achievement_4",
@@ -1878,7 +1883,7 @@
       "Name": "World Rally Champion!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_5",
@@ -1900,9 +1905,9 @@
       "ID": "achievement_7",
       "SetID": "jnappp",
       "Name": "NEW PB!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 224
+      "UsersEstimate": 232
     },
     {
       "ID": "achievement_8",
@@ -1925,7 +1930,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 724,
+      "Progressed": 726,
       "Completed": 0
     }
   ],
@@ -1933,8 +1938,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-12-03T05:58:27.7865112+00:00",
-  "LastChanged_Achievements": "2023-12-03T10:09:32.6801505+00:00",
+  "LastChanged_Achievements": "2023-12-03T11:09:28.617038+00:00",
   "LastUpdate_AppInfo": "2023-11-28T21:56:52.2952246+00:00",
-  "LastUpdate_Ratings": "2023-12-03T09:58:40.6450426+00:00",
-  "LastUpdate_Achievements": "2023-12-03T10:09:32.6801681+00:00"
+  "LastUpdate_Ratings": "2023-12-03T10:58:59.1504722+00:00",
+  "LastUpdate_Achievements": "2023-12-03T11:09:28.6170598+00:00"
 }

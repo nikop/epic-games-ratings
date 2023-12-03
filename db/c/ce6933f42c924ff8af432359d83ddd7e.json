@@ -2705,9 +2705,9 @@
       "ID": "ACH_SANDWICHES",
       "SetID": "6f5dahd",
       "Name": "Food lover",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 55,
-      "UsersEstimate": 741
+      "UsersEstimate": 753
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -2736,8 +2736,8 @@
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-12-03T10:09:10.459851+00:00",
+  "LastChanged_Achievements": "2023-12-03T11:09:06.3360206+00:00",
   "LastUpdate_AppInfo": "2023-12-01T16:57:04.0623116+00:00",
-  "LastUpdate_Ratings": "2023-12-03T09:57:24.7429316+00:00",
-  "LastUpdate_Achievements": "2023-12-03T10:09:10.459868+00:00"
+  "LastUpdate_Ratings": "2023-12-03T10:57:43.4137668+00:00",
+  "LastUpdate_Achievements": "2023-12-03T11:09:06.3360526+00:00"
 }

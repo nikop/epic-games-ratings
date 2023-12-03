@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -625,9 +625,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 3967,
+  "EOS_Progressed": 3968,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8370,6 +8370,11 @@
       "Time": "2023-12-02T20:05:58.43302+00:00",
       "NumProgressed": 3967,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-03T11:05:09.1940602+00:00",
+      "NumProgressed": 3968,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8389,7 +8394,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -8405,7 +8410,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -8413,7 +8418,7 @@
       "Name": "Opposing Force",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -8421,7 +8426,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -8429,7 +8434,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -8437,7 +8442,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -8445,7 +8450,7 @@
       "Name": "Organ Grinder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -8461,7 +8466,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8549,7 +8554,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8613,7 +8618,7 @@
       "Name": "Der Geist",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -8621,7 +8626,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -8749,7 +8754,7 @@
       "Name": "Taking it back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -8948,13 +8953,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3918,
+      "Progressed": 3919,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3967,
+      "Progressed": 3968,
       "Completed": 11
     }
   ],
@@ -8962,8 +8967,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-29T01:50:55.7506147+00:00",
-  "LastChanged_Achievements": "2023-12-03T10:05:00.3729887+00:00",
+  "LastChanged_Achievements": "2023-12-03T11:05:09.1940598+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:29.4601542+00:00",
-  "LastUpdate_Ratings": "2023-12-03T09:57:02.0903895+00:00",
-  "LastUpdate_Achievements": "2023-12-03T10:05:00.3731025+00:00"
+  "LastUpdate_Ratings": "2023-12-03T10:57:20.6319712+00:00",
+  "LastUpdate_Achievements": "2023-12-03T11:05:09.1941428+00:00"
 }

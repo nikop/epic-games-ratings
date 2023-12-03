@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -175,9 +175,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 842,
+  "EOS_Progressed": 843,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1960,6 +1960,11 @@
       "Time": "2023-12-03T09:04:42.4942717+00:00",
       "NumProgressed": 842,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T11:04:46.1514284+00:00",
+      "NumProgressed": 843,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1994,7 +1999,7 @@
       "ID": "Archaeologist",
       "SetID": "1n308hc",
       "Name": "Archaeologist",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -2010,9 +2015,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 101
     },
     {
       "ID": "BreakTheLoop",
@@ -2394,9 +2399,9 @@
       "ID": "TrevorsBiographer",
       "SetID": "1n308hc",
       "Name": "Trevor\u0027s Biographer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 25
     },
     {
       "ID": "VerdantCanyon",
@@ -2443,7 +2448,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 842,
+      "Progressed": 843,
       "Completed": 1
     }
   ],
@@ -2451,8 +2456,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-02T13:02:26.2646778+00:00",
-  "LastChanged_Achievements": "2023-12-03T10:04:38.1614527+00:00",
+  "LastChanged_Achievements": "2023-12-03T11:04:46.151428+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-03T09:57:23.4623926+00:00",
-  "LastUpdate_Achievements": "2023-12-03T10:04:38.1614988+00:00"
+  "LastUpdate_Ratings": "2023-12-03T10:57:42.0283191+00:00",
+  "LastUpdate_Achievements": "2023-12-03T11:04:46.1514851+00:00"
 }

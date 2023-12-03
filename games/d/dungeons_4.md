@@ -8,7 +8,7 @@
 | Thalya – Simply Immortal | 88.00% | ~454 |
 | For the Horde! | 82.00% | ~423 |
 | Hammer Time, Round Two | 80.00% | ~413 |
-| The Hellwoods | 75.00% | ~387 |
+| The Hellwoods | 76.00% | ~392 |
 | The Plains of Strothalm | 71.00% | ~366 |
 | Experienced Thalya | 71.00% | ~366 |
 | Thalya's Concentrated Fury | 68.00% | ~351 |
@@ -24,13 +24,13 @@
 | Hard Work | 50.00% | ~258 |
 | YOU SHALL NOT PASS! | 48.00% | ~248 |
 | The Big Eaty | 48.00% | ~248 |
+| “… like son” | 45.00% | ~232 |
 | Pure Dynamite! | 44.00% | ~227 |
-| “… like son” | 44.00% | ~227 |
 | Shame! Shame! Shame! | 41.00% | ~212 |
 | Dungeonlord Gorgu | 40.00% | ~206 |
 | The Cathedral of Light | 40.00% | ~206 |
 | Mana Cannon | 39.00% | ~201 |
-| Tanos' Crusade Against Thalya | 36.00% | ~186 |
+| Tanos' Crusade Against Thalya | 37.00% | ~191 |
 | All’s Well That Ends Evil | 31.00% | ~160 |
 | Unstoppable Horde | 29.00% | ~150 |
 | Master of the Undead | 28.00% | ~144 |
@@ -44,12 +44,12 @@
 | Stop Tanos! | 19.00% | ~98 |
 | Doom Hill | 19.00% | ~98 |
 | Sabotage! | 18.00% | ~93 |
+| Brimstone Shaken, Not Stirred | 18.00% | ~93 |
 | Bonus Evilness | 17.00% | ~88 |
-| Brimstone Shaken, Not Stirred | 17.00% | ~88 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~83 |
+| Raiders of the Lost Stone | 16.00% | ~83 |
 | The Rune Sockets of Finitude (Part 1) | 16.00% | ~83 |
 | My Little Torture Chamber | 15.00% | ~77 |
-| Raiders of the Lost Stone | 15.00% | ~77 |
 | Lavalumps on Ice! | 14.00% | ~72 |
 | The Rune Sockets of Finitude (Part 2) | 14.00% | ~72 |
 | Rubble and Ashes | 13.00% | ~67 |
@@ -63,7 +63,7 @@
 | Gorgu is in the Best of Health | 8.00% | ~41 |
 | Heal Heal Blessing | 8.00% | ~41 |
 | Hands Off My Stones | 8.00% | ~41 |
-| No Mana, No Cry | 5.00% | ~26 |
+| No Mana, No Cry | 6.00% | ~31 |
 | I Don't Need Any Help | 5.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 516 (Ranked 310)  

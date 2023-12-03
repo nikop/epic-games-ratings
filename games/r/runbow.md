@@ -1,19 +1,19 @@
 # Runbow
 [Store](https://store.epicgames.com/en-US/p/runbow-fc9fa4)  
 [View Rawdata](../../db/r/runbow.json)  
-Rating: 4.46 (Ranked 650)  
+Rating: 4.46 (Ranked 649)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~133,460 |
-| My First Runbow | 50.00% | ~125,906 |
-| It's The Fall | 26.00% | ~65,471 |
-| The Stunner | 22.00% | ~55,399 |
+| In The Zone | 53.00% | ~133,462 |
+| My First Runbow | 50.00% | ~125,908 |
+| It's The Fall | 26.00% | ~65,472 |
+| The Stunner | 22.00% | ~55,400 |
 | Be Aggressive | 21.00% | ~52,881 |
-| Curator | 20.00% | ~50,362 |
-| Crowning Around | 18.00% | ~45,326 |
-| Can You Dig It? | 17.00% | ~42,808 |
-| You Juan-A-Go? | 16.00% | ~40,290 |
+| Curator | 20.00% | ~50,363 |
+| Crowning Around | 18.00% | ~45,327 |
+| Can You Dig It? | 17.00% | ~42,809 |
+| You Juan-A-Go? | 16.00% | ~40,291 |
 | Chan-tastic | 15.00% | ~37,772 |
 | Muddy Waters | 14.00% | ~35,254 |
 | Toasty! | 13.00% | ~32,736 |
@@ -31,7 +31,7 @@ Rating: 4.46 (Ranked 650)
 | Tubular, Dude | 1.00% | ~2,518 |
 | What A Trip | 1.00% | ~2,518 |
 | Please The King | 0.90% | ~2,266 |
-| Here We Go! | 0.80% | ~2,014 |
+| Here We Go! | 0.80% | ~2,015 |
 | Clear-Cut | 0.50% | ~1,259 |
 | Breaking Out | 0.40% | ~1,007 |
 | Disposable | 0.40% | ~1,007 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 650)
 | Talent Scout | 0.10% | ~252 |
 | True Completionist | 0.10% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,812 (Ranked 61)  
+Progressed: 251,816 (Ranked 61)  
 Completed: 6 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 6 (0.00%) (Ranked 365)
 | 2023-11-30 | 251,725 | 6 |
 | 2023-12-01 | 251,763 | 6 |
 | 2023-12-02 | 251,796 | 6 |
-| 2023-12-03 | 251,812 | 6 |
+| 2023-12-03 | 251,816 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

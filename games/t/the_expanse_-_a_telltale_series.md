@@ -20,7 +20,7 @@ Rating: 4.54 (Ranked 528)
 | Drug Gifter | 5.00% | ~793 |
 | Spore Taste | 5.00% | ~793 |
 | Call it Even | 5.00% | ~793 |
-| Keep Arjun in Check | 5.00% | ~90 |
+| Keep Arjun in Check | 5.00% | ~91 |
 | Data Archivist | 4.00% | ~634 |
 | Heal Thy Medic | 4.00% | ~634 |
 | Khan's Revenge | 4.00% | ~634 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 528)
 | Scavenger Star | 0.10% | ~16 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,856 (Ranked 151)  
+Progressed: 15,857 (Ranked 151)  
 Completed: 40 (0.25%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 40 (0.25%) (Ranked 249)
 | 2023-11-30 | 15,794 | 39 |
 | 2023-12-01 | 15,822 | 39 |
 | 2023-12-02 | 15,842 | 39 |
-| 2023-12-03 | 15,856 | 40 |
+| 2023-12-03 | 15,857 | 40 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

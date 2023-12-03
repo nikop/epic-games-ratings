@@ -2,9 +2,9 @@
   "ID": "0f4a57443f904107818acfc2068704f9",
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
-  "Ranking_EOS_Progress": 278,
+  "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 822,
+  "EOS_Progressed": 824,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1737,6 +1737,11 @@
       "Time": "2023-12-03T08:05:34.2168896+00:00",
       "NumProgressed": 822,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T11:05:54.3930914+00:00",
+      "NumProgressed": 824,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1803,9 +1808,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 633
+      "UsersEstimate": 626
     },
     {
       "ID": "CompleteChapter10",
@@ -1893,7 +1898,7 @@
       "Name": "Met the Enemy",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "CompleteChapter3",
@@ -1901,15 +1906,15 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "CompleteChapter4",
       "SetID": "52ail55",
       "Name": "Servant of the Blue Raven",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 263
+      "UsersEstimate": 255
     },
     {
       "ID": "CompleteChapter5",
@@ -1917,7 +1922,7 @@
       "Name": "Breathing Easy",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "CompleteChapter6",
@@ -1925,7 +1930,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "CompleteChapter7",
@@ -1997,7 +2002,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "Win100OnlineMatched",
@@ -2044,14 +2049,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 822,
+      "Progressed": 824,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-03T10:05:46.1802068+00:00",
+  "LastChanged_Achievements": "2023-12-03T11:05:54.393091+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:09.4303292+00:00",
-  "LastUpdate_Ratings": "2023-12-03T09:59:10.7808745+00:00",
-  "LastUpdate_Achievements": "2023-12-03T10:05:46.1802423+00:00"
+  "LastUpdate_Ratings": "2023-12-03T10:59:28.4972874+00:00",
+  "LastUpdate_Achievements": "2023-12-03T11:05:54.3931211+00:00"
 }

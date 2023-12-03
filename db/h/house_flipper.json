@@ -2041,18 +2041,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 2257,
       "NumberOfAwardsMax": 324
+    },
+    {
+      "Time": "2023-12-03T11:02:41.9888402+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2260,
+      "NumberOfAwardsMax": 325
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2257,
-  "NumberOfAwardsMax": 324,
+  "NumberOfAwards": 2260,
+  "NumberOfAwardsMax": 325,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 324
+      "Count": 325
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2112,12 +2118,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 219
+      "Count": 221
     }
   ],
-  "EOS_Progressed": 21422,
+  "EOS_Progressed": 21423,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10935,6 +10941,11 @@
       "Time": "2023-12-03T01:56:43.0558534+00:00",
       "NumProgressed": 21422,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-03T11:05:57.033043+00:00",
+      "NumProgressed": 21423,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -10994,7 +11005,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20351
+      "UsersEstimate": 20352
     },
     {
       "ID": "GameOver",
@@ -11058,7 +11069,7 @@
       "Name": "Just Enough",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4284
+      "UsersEstimate": 4285
     },
     {
       "ID": "Negotiator",
@@ -11082,7 +11093,7 @@
       "Name": "Alpha Male",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4284
+      "UsersEstimate": 4285
     },
     {
       "ID": "SeniorEstateAgent",
@@ -11129,15 +11140,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21422,
+      "Progressed": 21423,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2023-11-30T01:46:27.0551491+00:00",
-  "LastChanged_Achievements": "2023-12-03T10:05:48.7683916+00:00",
+  "LastChanged": "2023-12-03T11:02:41.98884+00:00",
+  "LastChanged_Achievements": "2023-12-03T11:05:57.0330425+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:17.8912747+00:00",
-  "LastUpdate_Ratings": "2023-12-03T10:02:45.2921739+00:00",
-  "LastUpdate_Achievements": "2023-12-03T10:05:48.7684393+00:00"
+  "LastUpdate_Ratings": "2023-12-03T11:02:41.9888404+00:00",
+  "LastUpdate_Achievements": "2023-12-03T11:05:57.0331072+00:00"
 }

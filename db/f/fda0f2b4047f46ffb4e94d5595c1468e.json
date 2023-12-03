@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 134,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -3345,9 +3345,9 @@
       "Count": 409
     }
   ],
-  "EOS_Progressed": 9479,
+  "EOS_Progressed": 9480,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 308,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10355,6 +10355,11 @@
       "Time": "2023-12-03T09:03:24.6705694+00:00",
       "NumProgressed": 9479,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T11:03:32.8422828+00:00",
+      "NumProgressed": 9480,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -10383,7 +10388,7 @@
       "Name": "A New Timeline",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 4455
+      "UsersEstimate": 4456
     },
     {
       "ID": "ach04",
@@ -10407,7 +10412,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 7109
+      "UsersEstimate": 7110
     },
     {
       "ID": "ach07",
@@ -10415,7 +10420,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 5308
+      "UsersEstimate": 5309
     },
     {
       "ID": "ach08",
@@ -10423,7 +10428,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3886
+      "UsersEstimate": 3887
     },
     {
       "ID": "ach09",
@@ -10479,7 +10484,7 @@
       "Name": "Give A Koin",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2560
     },
     {
       "ID": "ach16",
@@ -10487,7 +10492,7 @@
       "Name": "Test Your Might",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1611
+      "UsersEstimate": 1612
     },
     {
       "ID": "ach17",
@@ -10551,7 +10556,7 @@
       "Name": "Ultimate Power",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 4360
+      "UsersEstimate": 4361
     },
     {
       "ID": "ach25",
@@ -10575,7 +10580,7 @@
       "Name": "So Krafty",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 3033
+      "UsersEstimate": 3034
     },
     {
       "ID": "ach28",
@@ -10615,7 +10620,7 @@
       "Name": "Who Da Boss??",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2560
     },
     {
       "ID": "ach33",
@@ -10631,7 +10636,7 @@
       "Name": "Always Accessorize",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 3033
+      "UsersEstimate": 3034
     },
     {
       "ID": "ach35",
@@ -10655,7 +10660,7 @@
       "Name": "ABACABB",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 5403
+      "UsersEstimate": 5404
     },
     {
       "ID": "ach38",
@@ -10671,7 +10676,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3886
+      "UsersEstimate": 3887
     },
     {
       "ID": "ach40",
@@ -10687,7 +10692,7 @@
       "Name": "Stop Hiding",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 3412
+      "UsersEstimate": 3413
     },
     {
       "ID": "ach42",
@@ -10719,7 +10724,7 @@
       "Name": "There Is No Knowledge That Is Not Power",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1138
     },
     {
       "ID": "ach46",
@@ -10735,7 +10740,7 @@
       "Name": "Big Spender",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 2085
+      "UsersEstimate": 2086
     },
     {
       "ID": "ach48",
@@ -10743,7 +10748,7 @@
       "Name": "Total Disrespect",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 2085
+      "UsersEstimate": 2086
     },
     {
       "ID": "ach49",
@@ -10766,7 +10771,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 9479,
+      "Progressed": 9480,
       "Completed": 0
     }
   ],
@@ -10774,8 +10779,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-12-03T10:03:01.1874954+00:00",
-  "LastChanged_Achievements": "2023-12-03T10:03:24.6990843+00:00",
+  "LastChanged_Achievements": "2023-12-03T11:03:32.8422826+00:00",
   "LastUpdate_AppInfo": "2023-12-02T11:57:13.7403672+00:00",
-  "LastUpdate_Ratings": "2023-12-03T10:03:01.1874959+00:00",
-  "LastUpdate_Achievements": "2023-12-03T10:03:24.6991604+00:00"
+  "LastUpdate_Ratings": "2023-12-03T11:02:58.019775+00:00",
+  "LastUpdate_Achievements": "2023-12-03T11:03:32.8423374+00:00"
 }

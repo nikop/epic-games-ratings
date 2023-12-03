@@ -337,17 +337,17 @@
       "ID": "ach_03_anyTrain",
       "SetID": "16n29hg",
       "Name": "Can I get a ride?",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_04_runOnFoot",
       "SetID": "16n29hg",
       "Name": "Flee on Foot",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_05_northStation",
@@ -385,9 +385,9 @@
       "ID": "ach_09_acidDeath10",
       "SetID": "16n29hg",
       "Name": "Feels like Hell",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_10_scarvenger1",
@@ -417,9 +417,9 @@
       "ID": "ach_13_supplyBig10",
       "SetID": "16n29hg",
       "Name": "Treasure Hunter",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ach_14_squeezeDeath",
@@ -760,8 +760,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-12-03T10:05:27.4433648+00:00",
+  "LastChanged_Achievements": "2023-12-03T11:05:36.3626737+00:00",
   "LastUpdate_AppInfo": "2023-11-29T20:57:25.545137+00:00",
-  "LastUpdate_Ratings": "2023-12-03T09:57:45.2716884+00:00",
-  "LastUpdate_Achievements": "2023-12-03T10:05:27.4434089+00:00"
+  "LastUpdate_Ratings": "2023-12-03T10:58:03.0936353+00:00",
+  "LastUpdate_Achievements": "2023-12-03T11:05:36.3627378+00:00"
 }

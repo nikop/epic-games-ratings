@@ -4,7 +4,7 @@
   "ProductSlug": "lempo-a6a67d",
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 492,
+  "Ranking_EOS_NewPlayers": 490,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-09-07T15:00:00+00:00",
@@ -323,8 +323,8 @@
   ],
   "FirstSeen": "2023-09-10T04:57:31.3604018+00:00",
   "FirstSeenAchievements": "2023-08-09T09:06:40.0586903+00:00",
-  "LastChanged_Achievements": "2023-12-03T10:08:25.4865839+00:00",
+  "LastChanged_Achievements": "2023-12-03T11:08:22.2503406+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:10.727413+00:00",
-  "LastUpdate_Ratings": "2023-12-03T09:57:17.6749856+00:00",
-  "LastUpdate_Achievements": "2023-12-03T10:08:25.4866009+00:00"
+  "LastUpdate_Ratings": "2023-12-03T10:57:36.4619016+00:00",
+  "LastUpdate_Achievements": "2023-12-03T11:08:22.2503612+00:00"
 }

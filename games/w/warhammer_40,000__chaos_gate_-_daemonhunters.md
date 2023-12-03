@@ -32,13 +32,13 @@ Number of Ratings: 371  (23.09.2022)
 | Exterminator | 1.00% | ~33 |
 | Mind Like a Fortress | 1.00% | ~33 |
 | Only in Death | 1.00% | ~33 |
+| Preservationist | 1.00% | ~33 |
 | Junk Banishment | 1.00% | ~33 |
 | Long Distance Call | 1.00% | ~33 |
 | Tactical Flexibility | 1.00% | ~33 |
 | Execution Force | 1.00% | ~33 |
 | Tactical Sabotage | 1.00% | ~33 |
 | For the Machine God | 0.90% | ~30 |
-| Preservationist | 0.90% | ~30 |
 | Death Comes For All | 0.90% | ~30 |
 | Patron of Deimos | 0.80% | ~27 |
 | Engine Kill | 0.80% | ~27 |

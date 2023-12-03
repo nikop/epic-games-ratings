@@ -6,59 +6,59 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 232.00% | ~1,165 |
-| Iron Chef | 165.00% | ~828 |
-| Super Spelunker | 126.00% | ~633 |
-| Greeno-B-Gone | 124.00% | ~622 |
-| Your Especially Earned Trajectory | 102.00% | ~512 |
-| The Little Wood that Could | 99.00% | ~497 |
-| One of the Cool Kids | 80.00% | ~402 |
-| On that Grindset | 79.00% | ~397 |
-| No Mountain Wide Enough | 78.00% | ~392 |
-| Yakmel Whisperer | 75.00% | ~376 |
-| Diamonds are Forever | 73.00% | ~366 |
-| Pack Mule | 71.00% | ~356 |
-| Can We Keep It? | 71.00% | ~356 |
-| I Do! | 69.00% | ~346 |
-| First Love | 66.00% | ~331 |
-| Unboxing | 66.00% | ~331 |
-| Big Game Hunter | 63.00% | ~316 |
-| Financially Secure | 63.00% | ~316 |
-| Chatterbox | 63.00% | ~316 |
-| Got Served | 62.00% | ~311 |
-| Elementary, My Dear | 58.00% | ~291 |
-| Panda-kin | 57.00% | ~286 |
-| Builder of the Month | 57.00% | ~286 |
-| What Plants Crave | 56.00% | ~281 |
-| Happier-est Place on Earth | 56.00% | ~281 |
-| Mole Masher | 56.00% | ~281 |
-| You Don't Win Friends With Salad | 56.00% | ~281 |
-| Waste Not Want Not | 56.00% | ~281 |
-| Better Late than Never | 55.00% | ~276 |
-| Officially Official | 55.00% | ~276 |
-| Anti-Santa | 55.00% | ~276 |
-| Commissions, commissions...! | 54.00% | ~271 |
-| Martle's Dream | 54.00% | ~271 |
-| Knowledge is Power | 53.00% | ~266 |
-| Lifeline Pipeline | 52.00% | ~261 |
-| Call Me Fishmael | 52.00% | ~261 |
-| Finishing Touches | 50.00% | ~251 |
-| Bridging the Gap | 49.00% | ~246 |
-| Got the Flow Back | 46.00% | ~231 |
-| Sepia Toned Memories | 42.00% | ~211 |
-| Who Ya Gonna Call...? | 42.00% | ~211 |
-| Time Flies | 41.00% | ~206 |
-| My Time Mansion | 40.00% | ~201 |
-| Kind of a Big Deal | 39.00% | ~196 |
-| Jewel of the Eufaula | 39.00% | ~196 |
-| He Can Spin A Yarn... | 36.00% | ~181 |
-| Just What I Always Wanted! | 35.00% | ~176 |
-| Santa In Training | 33.00% | ~166 |
-| Sandrunning Speedster | 33.00% | ~166 |
-| Do Your Part | 31.00% | ~156 |
-| Newton | 31.00% | ~156 |
-| It Belongs in a Museum! | 31.00% | ~156 |
-| Pro Gamer | 30.00% | ~151 |
+| Adept Assembler | 232.00% | ~1,160 |
+| Iron Chef | 165.00% | ~825 |
+| Super Spelunker | 126.00% | ~630 |
+| Greeno-B-Gone | 123.00% | ~615 |
+| Your Especially Earned Trajectory | 101.00% | ~505 |
+| The Little Wood that Could | 99.00% | ~495 |
+| One of the Cool Kids | 79.00% | ~395 |
+| On that Grindset | 78.00% | ~390 |
+| No Mountain Wide Enough | 78.00% | ~390 |
+| Yakmel Whisperer | 75.00% | ~375 |
+| Diamonds are Forever | 73.00% | ~365 |
+| Pack Mule | 71.00% | ~355 |
+| Can We Keep It? | 71.00% | ~355 |
+| I Do! | 69.00% | ~345 |
+| First Love | 66.00% | ~330 |
+| Unboxing | 66.00% | ~330 |
+| Big Game Hunter | 63.00% | ~315 |
+| Financially Secure | 63.00% | ~315 |
+| Chatterbox | 63.00% | ~315 |
+| Got Served | 62.00% | ~310 |
+| Elementary, My Dear | 58.00% | ~290 |
+| Panda-kin | 57.00% | ~285 |
+| Builder of the Month | 57.00% | ~285 |
+| What Plants Crave | 56.00% | ~280 |
+| Happier-est Place on Earth | 56.00% | ~280 |
+| Mole Masher | 56.00% | ~280 |
+| You Don't Win Friends With Salad | 56.00% | ~280 |
+| Waste Not Want Not | 56.00% | ~280 |
+| Better Late than Never | 55.00% | ~275 |
+| Officially Official | 55.00% | ~275 |
+| Commissions, commissions...! | 54.00% | ~270 |
+| Anti-Santa | 54.00% | ~270 |
+| Knowledge is Power | 53.00% | ~265 |
+| Martle's Dream | 53.00% | ~265 |
+| Lifeline Pipeline | 52.00% | ~260 |
+| Call Me Fishmael | 52.00% | ~260 |
+| Finishing Touches | 50.00% | ~250 |
+| Bridging the Gap | 49.00% | ~245 |
+| Got the Flow Back | 46.00% | ~230 |
+| Time Flies | 42.00% | ~210 |
+| Sepia Toned Memories | 42.00% | ~210 |
+| Who Ya Gonna Call...? | 42.00% | ~210 |
+| My Time Mansion | 40.00% | ~200 |
+| Kind of a Big Deal | 39.00% | ~195 |
+| Jewel of the Eufaula | 39.00% | ~195 |
+| He Can Spin A Yarn... | 36.00% | ~180 |
+| Just What I Always Wanted! | 35.00% | ~175 |
+| Santa In Training | 33.00% | ~165 |
+| Sandrunning Speedster | 33.00% | ~165 |
+| Do Your Part | 31.00% | ~155 |
+| Newton | 31.00% | ~155 |
+| It Belongs in a Museum! | 31.00% | ~155 |
+| Pro Gamer | 30.00% | ~150 |
 | Cardistry | 21.00% | ~105 |
 | It's High Noon... | 14.00% | ~70 |
 | Strong Arms | 14.00% | ~70 |
@@ -67,7 +67,7 @@ Number of Ratings: 892  (23.09.2022)
 | Jack of All Trades | 8.00% | ~40 |
 | Sandrock's Hottest Club | 5.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 502 (Ranked 313)  
+Progressed: 500 (Ranked 313)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1683,9 +1683,9 @@
       "ID": "league_2",
       "SetID": "69co12a",
       "Name": "Champion \u2013 no way back",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 158
     },
     {
       "ID": "league_3",
@@ -1763,9 +1763,9 @@
       "ID": "not_ok",
       "SetID": "69co12a",
       "Name": "Run K, run!",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 261
     },
     {
       "ID": "own_home",
@@ -1803,9 +1803,9 @@
       "ID": "police_promotion_2",
       "SetID": "69co12a",
       "Name": "Get out of my apartment!",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 140
     },
     {
       "ID": "police_promotion_3",
@@ -1883,9 +1883,9 @@
       "ID": "trainer_promotion_1",
       "SetID": "69co12a",
       "Name": "Escaped from a big trouble",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 190
     },
     {
       "ID": "trainer_promotion_2",
@@ -1954,8 +1954,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-03T10:08:20.370065+00:00",
+  "LastChanged_Achievements": "2023-12-03T11:08:17.1602232+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:21.663822+00:00",
-  "LastUpdate_Ratings": "2023-12-03T09:59:17.8349398+00:00",
-  "LastUpdate_Achievements": "2023-12-03T10:08:20.3701228+00:00"
+  "LastUpdate_Ratings": "2023-12-03T10:59:35.6056077+00:00",
+  "LastUpdate_Achievements": "2023-12-03T11:08:17.1602808+00:00"
 }

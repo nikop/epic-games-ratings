@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -73,9 +73,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 575,
+  "EOS_Progressed": 576,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2633,6 +2633,11 @@
       "Time": "2023-12-03T05:05:27.3855469+00:00",
       "NumProgressed": 575,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T11:05:57.36747+00:00",
+      "NumProgressed": 576,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2692,7 +2697,7 @@
       "Name": "The Chemists\u0027 War",
       "Percentage": 6,
       "XP": 110,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "REACH_DECEMBER_1919",
@@ -2706,9 +2711,9 @@
       "ID": "USE_UNDERMINE",
       "SetID": "6kcl14p",
       "Name": "Earth Shattering",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 90,
-      "UsersEstimate": 282
+      "UsersEstimate": 276
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -2739,7 +2744,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 575,
+      "Progressed": 576,
       "Completed": 0
     }
   ],
@@ -2747,8 +2752,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-11-20T01:47:16.6107096+00:00",
-  "LastChanged_Achievements": "2023-12-03T10:05:49.0422182+00:00",
+  "LastChanged_Achievements": "2023-12-03T11:05:57.3674697+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:01.0011076+00:00",
-  "LastUpdate_Ratings": "2023-12-03T09:59:08.602559+00:00",
-  "LastUpdate_Achievements": "2023-12-03T10:05:49.0422371+00:00"
+  "LastUpdate_Ratings": "2023-12-03T10:59:26.4051335+00:00",
+  "LastUpdate_Achievements": "2023-12-03T11:05:57.3674967+00:00"
 }

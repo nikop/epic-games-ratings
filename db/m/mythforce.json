@@ -2,7 +2,7 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 633,
+  "Ranking_Rating": 632,
   "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 190,
@@ -806,9 +806,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5294,
+  "EOS_Progressed": 5297,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10436,6 +10436,11 @@
       "Time": "2023-12-03T10:03:34.3502137+00:00",
       "NumProgressed": 5294,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-03T11:03:41.9528565+00:00",
+      "NumProgressed": 5297,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -10448,7 +10453,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -10488,7 +10493,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -10496,7 +10501,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -10568,7 +10573,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -10608,7 +10613,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -10631,15 +10636,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5294,
+      "Progressed": 5297,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-01T06:01:05.0621947+00:00",
-  "LastChanged_Achievements": "2023-12-03T10:03:34.3502134+00:00",
+  "LastChanged_Achievements": "2023-12-03T11:03:41.952856+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:08.5943079+00:00",
-  "LastUpdate_Ratings": "2023-12-03T09:57:15.2960428+00:00",
-  "LastUpdate_Achievements": "2023-12-03T10:03:34.3502714+00:00"
+  "LastUpdate_Ratings": "2023-12-03T10:57:33.994015+00:00",
+  "LastUpdate_Achievements": "2023-12-03T11:03:41.9529155+00:00"
 }

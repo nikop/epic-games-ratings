@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 126,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3639,10 +3639,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 6718,
       "NumberOfAwardsMax": 2446
+    },
+    {
+      "Time": "2023-12-03T10:58:18.3636137+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6719,
+      "NumberOfAwardsMax": 2446
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6718,
+  "NumberOfAwards": 6719,
   "NumberOfAwardsMax": 2446,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3698,7 +3704,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 470
+      "Count": 471
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3721,7 +3727,7 @@
   ],
   "EOS_Progressed": 52035,
   "EOS_Completed": 250,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -14545,9 +14551,9 @@
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
-  "LastChanged": "2023-12-02T16:57:57.1346611+00:00",
-  "LastChanged_Achievements": "2023-12-03T10:05:42.9328288+00:00",
+  "LastChanged": "2023-12-03T10:58:18.3636136+00:00",
+  "LastChanged_Achievements": "2023-12-03T11:05:51.5195109+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:20.8912008+00:00",
-  "LastUpdate_Ratings": "2023-12-03T09:58:00.6772838+00:00",
-  "LastUpdate_Achievements": "2023-12-03T10:05:42.9329026+00:00"
+  "LastUpdate_Ratings": "2023-12-03T10:58:18.3636142+00:00",
+  "LastUpdate_Achievements": "2023-12-03T11:05:51.5196024+00:00"
 }

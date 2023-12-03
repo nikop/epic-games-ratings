@@ -8,7 +8,7 @@ Number of Ratings: 292  (23.09.2022)
 | ---- | ---------- | ----- |
 | Adept | 34.00% | ~113 |
 | Double Kill | 25.00% | ~83 |
-| Critical Hit | 13.00% | ~43 |
+| Critical Hit | 14.00% | ~46 |
 | Veteran | 12.00% | ~40 |
 | Dressed For Success | 10.00% | ~33 |
 | Humiliation | 7.00% | ~23 |
@@ -17,9 +17,9 @@ Number of Ratings: 292  (23.09.2022)
 | Multi Kill | 4.00% | ~13 |
 | Whoops! | 4.00% | ~13 |
 | Expert Essence Employment | 4.00% | ~13 |
+| Venisti, Vidisti, Perdidisti | 4.00% | ~13 |
 | Landlord Extraordinaire | 3.00% | ~10 |
 | Master | 3.00% | ~10 |
-| Venisti, Vidisti, Perdidisti | 3.00% | ~10 |
 | The Song of Stoutheart | 2.00% | ~7 |
 | Such A Fungi | 2.00% | ~7 |
 | Trojan Horse | 2.00% | ~7 |
@@ -27,10 +27,10 @@ Number of Ratings: 292  (23.09.2022)
 | This Spot's Taken | 1.00% | ~3 |
 | Deepstrike | 1.00% | ~3 |
 | Infernal Influence | 1.00% | ~3 |
+| Versatile Wielder | 0.90% | ~3 |
 | Don't Touch My Stuff | 0.90% | ~3 |
 | Ultra Kill | 0.90% | ~3 |
 | Death To Diplomacy | 0.60% | ~2 |
-| Versatile Wielder | 0.60% | ~2 |
 | Unlimited Power! | 0.60% | ~2 |
 | Coming Through! | 0.60% | ~2 |
 | Barbecue | 0.60% | ~2 |
