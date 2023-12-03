@@ -5,16 +5,16 @@ Rating: 4.68 (Ranked 255)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,663 |
-| On the Top Step | 88.00% | ~5,301 |
-| Setting up for Success | 78.00% | ~4,699 |
-| Team Orders | 76.00% | ~4,578 |
-| Engineer | 56.00% | ~3,373 |
+| Getting on the Step | 94.00% | ~5,664 |
+| On the Top Step | 88.00% | ~5,302 |
+| Setting up for Success | 78.00% | ~4,700 |
+| Team Orders | 76.00% | ~4,579 |
+| Engineer | 56.00% | ~3,374 |
 | Familiar Faces | 49.00% | ~2,952 |
 | Sharing the Love | 44.00% | ~2,651 |
-| Going the Extra Mile | 43.00% | ~2,590 |
+| Going the Extra Mile | 43.00% | ~2,591 |
 | Hitting a Season | 41.00% | ~2,470 |
-| A Dozen Pieces | 35.00% | ~2,108 |
+| A Dozen Pieces | 35.00% | ~2,109 |
 | Challenge Yourself | 34.00% | ~2,048 |
 | Making History | 32.00% | ~1,928 |
 | Network Success | 28.00% | ~1,687 |
@@ -30,7 +30,7 @@ Rating: 4.68 (Ranked 255)
 | Oil and Water | 15.00% | ~904 |
 | Lightning Round the World | 15.00% | ~904 |
 | Hitting a Bullseye | 15.00% | ~904 |
-| Spinning Around | 14.00% | ~843 |
+| Spinning Around | 14.00% | ~844 |
 | Eagle Eye | 13.00% | ~783 |
 | All in a Weekend's Work | 13.00% | ~783 |
 | Friendly Competition | 13.00% | ~783 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 255)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,024 (Ranked 186)  
+Progressed: 6,025 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 0 (0.00%) (Ranked 366)
 | 2023-11-30 | 5,982 | 0 |
 | 2023-12-01 | 5,992 | 0 |
 | 2023-12-02 | 6,006 | 0 |
-| 2023-12-03 | 6,024 | 0 |
+| 2023-12-03 | 6,025 | 0 |
 ## Awards
 Max (Diverse Characters): 28  (Ranked 509)  
 Sum: 124 (Ranked 435)  

@@ -26,13 +26,13 @@
 | The Finisher | 42.00% | ~452 |
 | So Close | 41.00% | ~441 |
 | You Get Used To It | 41.00% | ~441 |
+| True Legends | 40.00% | ~430 |
 | Family | 39.00% | ~419 |
-| True Legends | 39.00% | ~419 |
 | Boosted! | 39.00% | ~419 |
 | Biggest Snowball Ever | 38.00% | ~408 |
 | Freeze The Ice Witch | 38.00% | ~408 |
 | Deadliest and Biggest Snowball Ever! | 38.00% | ~408 |
-| Bullseye | 36.00% | ~387 |
+| Bullseye | 37.00% | ~398 |
 | It Is Not Over | 35.00% | ~376 |
 | On The Rocks | 34.00% | ~366 |
 | Snowy Poro | 31.00% | ~333 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -978,9 +978,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 228575,
+  "EOS_Progressed": 228578,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 490,
+  "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25813,6 +25813,11 @@
       "Time": "2023-12-03T20:10:10.5791759+00:00",
       "NumProgressed": 228575,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-03T21:09:14.5475242+00:00",
+      "NumProgressed": 228578,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -25824,7 +25829,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 45715
+      "UsersEstimate": 45716
     },
     {
       "ID": "ACH_BASE_10",
@@ -25904,7 +25909,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13714
+      "UsersEstimate": 13715
     },
     {
       "ID": "ACH_BASE_20",
@@ -26095,7 +26100,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 228575,
+      "Progressed": 228578,
       "Completed": 5
     }
   ],
@@ -26103,8 +26108,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-03T11:00:01.7209861+00:00",
-  "LastChanged_Achievements": "2023-12-03T20:10:10.5791753+00:00",
+  "LastChanged_Achievements": "2023-12-03T21:09:14.547524+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:22.7221977+00:00",
-  "LastUpdate_Ratings": "2023-12-03T20:01:19.0731781+00:00",
-  "LastUpdate_Achievements": "2023-12-03T20:10:10.5793257+00:00"
+  "LastUpdate_Ratings": "2023-12-03T20:59:48.7658693+00:00",
+  "LastUpdate_Achievements": "2023-12-03T21:09:14.5476542+00:00"
 }

@@ -6,36 +6,36 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 1.00% | ~10,669 |
-| Skillful | 1.00% | ~10,669 |
-| Zealous | 0.90% | ~9,602 |
-| Not half bad | 0.80% | ~8,535 |
-| Apt Survivor | 0.70% | ~7,468 |
-| Survival Treasures | 0.70% | ~7,468 |
-| I | 0.70% | ~7,468 |
-| Make Some Noise | 0.70% | ~7,468 |
-| Handyman | 0.60% | ~6,401 |
-| Sorted | 0.60% | ~6,401 |
-| Resurgence | 0.60% | ~6,401 |
-| The Grand Sacrifice | 0.50% | ~5,334 |
-| No one left behind | 0.50% | ~5,334 |
-| Medic | 0.50% | ~5,334 |
-| Bloody Millionaire | 0.50% | ~5,334 |
-| Healthy Obsession | 0.50% | ~5,334 |
-| Preemptive Strike | 0.50% | ~5,334 |
-| Humanitarian | 0.50% | ~5,334 |
-| Agonizing Escape | 0.40% | ~4,267 |
-| Backdoor Escape | 0.40% | ~4,267 |
-| I've got your back | 0.40% | ~4,267 |
-| Perfect Escape | 0.40% | ~4,267 |
-| Perfect Killing | 0.40% | ~4,267 |
-| Apt Killer | 0.40% | ~4,267 |
-| Risk it all | 0.40% | ~4,267 |
-| II | 0.40% | ~4,267 |
-| III | 0.40% | ~4,267 |
-| Engineer | 0.40% | ~4,267 |
-| Wounded Healer | 0.40% | ~4,267 |
-| Close Shave | 0.40% | ~4,267 |
+| It wakes | 1.00% | ~10,671 |
+| Skillful | 1.00% | ~10,671 |
+| Zealous | 0.90% | ~9,604 |
+| Not half bad | 0.80% | ~8,537 |
+| Apt Survivor | 0.70% | ~7,470 |
+| Survival Treasures | 0.70% | ~7,470 |
+| I | 0.70% | ~7,470 |
+| Make Some Noise | 0.70% | ~7,470 |
+| No one left behind | 0.60% | ~6,402 |
+| Handyman | 0.60% | ~6,402 |
+| Sorted | 0.60% | ~6,402 |
+| Resurgence | 0.60% | ~6,402 |
+| The Grand Sacrifice | 0.50% | ~5,335 |
+| Medic | 0.50% | ~5,335 |
+| Bloody Millionaire | 0.50% | ~5,335 |
+| Healthy Obsession | 0.50% | ~5,335 |
+| Preemptive Strike | 0.50% | ~5,335 |
+| Humanitarian | 0.50% | ~5,335 |
+| Agonizing Escape | 0.40% | ~4,268 |
+| Backdoor Escape | 0.40% | ~4,268 |
+| I've got your back | 0.40% | ~4,268 |
+| Perfect Escape | 0.40% | ~4,268 |
+| Perfect Killing | 0.40% | ~4,268 |
+| Apt Killer | 0.40% | ~4,268 |
+| Risk it all | 0.40% | ~4,268 |
+| II | 0.40% | ~4,268 |
+| III | 0.40% | ~4,268 |
+| Engineer | 0.40% | ~4,268 |
+| Wounded Healer | 0.40% | ~4,268 |
+| Close Shave | 0.40% | ~4,268 |
 | Blood on your hands | 0.30% | ~3,201 |
 | Escape Artist | 0.30% | ~3,201 |
 | Gifts for the Fog | 0.30% | ~3,201 |
@@ -73,6 +73,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Old West Oasis | 0.20% | ~2,134 |
 | Classy Act | 0.20% | ~2,134 |
 | End of Days | 0.20% | ~2,134 |
+| Insult and Injury | 0.20% | ~2,134 |
 | Raccoon City Recruit | 0.20% | ~2,134 |
 | Outrun the Overlap | 0.20% | ~2,134 |
 | A Fast Death | 0.20% | ~2,134 |
@@ -184,7 +185,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | One Thousand Cuts | 0.10% | ~1,067 |
 | Multi-tasker | 0.10% | ~1,067 |
 | Adept Trickster | 0.10% | ~1,067 |
-| Insult and Injury | 0.10% | ~1,067 |
 | Adept Yun-Jin | 0.10% | ~1,067 |
 | Biological Weaponry | 0.10% | ~1,067 |
 | Adept Nemesis | 0.10% | ~1,067 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,067 |
 | Adept Good Guy | 0.10% | ~1,067 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,066,868 (Ranked 14)  
+Progressed: 1,067,079 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -466,7 +466,7 @@ Completed: 61 (0.01%) (Ranked 345)
 | 2023-11-30 | 1,056,530 | 61 |
 | 2023-12-01 | 1,059,298 | 61 |
 | 2023-12-02 | 1,062,340 | 61 |
-| 2023-12-03 | 1,066,868 | 61 |
+| 2023-12-03 | 1,067,079 | 61 |
 ## Awards
 Max (Diverse Characters): 37,095  (Ranked 15)  
 Sum: 282,162 (Ranked 12)  

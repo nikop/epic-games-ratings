@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 3646,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3347,9 +3347,9 @@
       "Count": 327
     }
   ],
-  "EOS_Progressed": 17581,
+  "EOS_Progressed": 17583,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": -7,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -14672,6 +14672,11 @@
       "Time": "2023-12-03T17:08:28.2049818+00:00",
       "NumProgressed": 17581,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-03T21:08:34.7423693+00:00",
+      "NumProgressed": 17583,
+      "NumCompleted": 49
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -14818,9 +14823,9 @@
       "ID": "WinNearBattleground",
       "SetID": "cfbk359",
       "Name": "Ancient Battleground",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "WinNearCrystals",
@@ -14842,9 +14847,9 @@
       "ID": "WinNearFertile",
       "SetID": "cfbk359",
       "Name": "Fertile Meadows",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "WinNearFishmen",
@@ -14890,9 +14895,9 @@
       "ID": "WinNearMonastery",
       "SetID": "cfbk359",
       "Name": "Monastery of the Holy Flame",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "WinNearOutpost",
@@ -15098,9 +15103,9 @@
       "ID": "WinNearGreed",
       "SetID": "cfbk359",
       "Name": "Land of Greed",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 352
     },
     {
       "ID": "WinNearLibrary",
@@ -15155,15 +15160,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17581,
+      "Progressed": 17583,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-03T16:57:34.9742503+00:00",
-  "LastChanged_Achievements": "2023-12-03T20:09:12.7129563+00:00",
+  "LastChanged_Achievements": "2023-12-03T21:08:34.7423692+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:14.3162798+00:00",
-  "LastUpdate_Ratings": "2023-12-03T19:57:45.077901+00:00",
-  "LastUpdate_Achievements": "2023-12-03T20:09:12.7130407+00:00"
+  "LastUpdate_Ratings": "2023-12-03T20:57:29.7551172+00:00",
+  "LastUpdate_Achievements": "2023-12-03T21:08:34.7424474+00:00"
 }

@@ -9,22 +9,23 @@ Rating: 4.75 (Ranked 148)
 | First of Many | 0.70% | ~1,639 |
 | Regicide | 0.70% | ~93 |
 | Master of the Dark Arts | 0.70% | ~93 |
-| Expanding Horizons | 0.50% | ~1,170 |
-| Quest for Survival | 0.50% | ~1,170 |
-| Not Your Average Trait | 0.50% | ~1,170 |
-| Am I Seeing This? | 0.40% | ~936 |
-| Gleaming the Cube | 0.40% | ~936 |
-| Not So Special Now | 0.40% | ~936 |
-| Not a Janitor | 0.40% | ~936 |
-| Familiar Face | 0.40% | ~936 |
-| Blue Goddess | 0.40% | ~936 |
-| Duality | 0.40% | ~936 |
-| Top Performer | 0.40% | ~936 |
-| Boss'n Up | 0.40% | ~936 |
-| Good, But Could Be Better! | 0.40% | ~936 |
-| Trait Chaser | 0.40% | ~936 |
+| Expanding Horizons | 0.50% | ~1,171 |
+| Quest for Survival | 0.50% | ~1,171 |
+| Not Your Average Trait | 0.50% | ~1,171 |
+| Am I Seeing This? | 0.40% | ~937 |
+| Gleaming the Cube | 0.40% | ~937 |
+| Not So Special Now | 0.40% | ~937 |
+| Not a Janitor | 0.40% | ~937 |
+| Familiar Face | 0.40% | ~937 |
+| Blue Goddess | 0.40% | ~937 |
+| Duality | 0.40% | ~937 |
+| Top Performer | 0.40% | ~937 |
+| Boss'n Up | 0.40% | ~937 |
+| Good, But Could Be Better! | 0.40% | ~937 |
+| Trait Chaser | 0.40% | ~937 |
 | Chaos | 0.30% | ~702 |
 | Traitor | 0.30% | ~702 |
+| Forever is a Long Time Coming | 0.30% | ~702 |
 | Power Surge | 0.30% | ~702 |
 | The God Gambit | 0.30% | ~702 |
 | Dark Designs | 0.30% | ~702 |
@@ -32,13 +33,13 @@ Rating: 4.75 (Ranked 148)
 | Shhh...It's a Secret | 0.30% | ~702 |
 | Was This Supposed To Happen? | 0.30% | ~702 |
 | Edgelord | 0.30% | ~702 |
+| The Web | 0.30% | ~702 |
 | Scrap Collector | 0.30% | ~702 |
 | All These Traits� | 0.30% | ~702 |
 | Almost There | 0.30% | ~702 |
 | Make Some Room | 0.30% | ~702 |
 | Crafty | 0.20% | ~468 |
 | Ghost in the Machine | 0.20% | ~468 |
-| Forever is a Long Time Coming | 0.20% | ~468 |
 | Madman's Paradise | 0.20% | ~468 |
 | The Agenda | 0.20% | ~468 |
 | Tall Tales | 0.20% | ~468 |
@@ -46,7 +47,6 @@ Rating: 4.75 (Ranked 148)
 | Strapped | 0.20% | ~468 |
 | The Trigger | 0.20% | ~468 |
 | Cutting Edge | 0.20% | ~468 |
-| The Web | 0.20% | ~468 |
 | The Collector | 0.20% | ~468 |
 | Scrap Hoarder | 0.20% | ~468 |
 | Carnage in C-Minor | 0.20% | ~468 |
@@ -61,8 +61,8 @@ Rating: 4.75 (Ranked 148)
 | Proving Grounds | 0.10% | ~234 |
 | A Foul Feast | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,089 (Ranked 68)  
-Completed: 553 (0.24%) (Ranked 250)  
+Progressed: 234,136 (Ranked 68)  
+Completed: 554 (0.24%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -201,7 +201,7 @@ Completed: 553 (0.24%) (Ranked 250)
 | 2023-11-30 | 231,406 | 542 |
 | 2023-12-01 | 232,269 | 546 |
 | 2023-12-02 | 233,162 | 548 |
-| 2023-12-03 | 234,089 | 553 |
+| 2023-12-03 | 234,136 | 554 |
 ## Awards
 Max (Great Boss Battles): 2,603  (Ranked 102)  
 Sum: 6,405 (Ranked 128)  

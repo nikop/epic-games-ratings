@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -183,10 +183,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7368,
+  "EOS_Progressed": 7371,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 656,
-  "EOS_NewCompleters": 6,
+  "EOS_NewPlayers": 653,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
     {
@@ -5418,6 +5418,11 @@
       "Time": "2023-12-03T20:09:59.5174325+00:00",
       "NumProgressed": 7368,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-03T21:09:06.7064115+00:00",
+      "NumProgressed": 7371,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5438,7 +5443,7 @@
       "Name": "Baby Steps",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1621
+      "UsersEstimate": 1622
     },
     {
       "ID": "BeLikeWater",
@@ -5486,7 +5491,7 @@
       "Name": "Explosive Personality",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "FasterThanLight",
@@ -5502,7 +5507,7 @@
       "Name": "First Time?",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2137
+      "UsersEstimate": 2138
     },
     {
       "ID": "FuneralForTheDeath",
@@ -5510,7 +5515,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "GarbageMan",
@@ -5534,7 +5539,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -5646,7 +5651,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "UnResurrected",
@@ -5662,7 +5667,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -5701,7 +5706,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7368,
+      "Progressed": 7371,
       "Completed": 13
     }
   ],
@@ -5709,8 +5714,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-03T17:57:51.312762+00:00",
-  "LastChanged_Achievements": "2023-12-03T20:09:59.5174321+00:00",
+  "LastChanged_Achievements": "2023-12-03T21:09:06.7064112+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-03T19:58:24.8850048+00:00",
-  "LastUpdate_Achievements": "2023-12-03T20:09:59.5174799+00:00"
+  "LastUpdate_Ratings": "2023-12-03T20:57:55.5624778+00:00",
+  "LastUpdate_Achievements": "2023-12-03T21:09:06.706458+00:00"
 }

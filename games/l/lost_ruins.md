@@ -13,7 +13,7 @@
 | Trap Master | 19.00% | ~95 |
 | Ghost Buster | 16.00% | ~80 |
 | Iconoclasm | 16.00% | ~80 |
-| Reincarnation | 15.00% | ~75 |
+| Reincarnation | 16.00% | ~80 |
 | Gladiator | 13.00% | ~65 |
 | Librarian | 13.00% | ~65 |
 | Orcs Must Die! | 13.00% | ~65 |
@@ -22,7 +22,7 @@
 | Troubleshooter | 11.00% | ~55 |
 | Money Swag | 8.00% | ~40 |
 | Oops | 8.00% | ~40 |
-| Shield Crusher | 7.00% | ~35 |
+| Shield Crusher | 8.00% | ~40 |
 | Treasure Hunter | 7.00% | ~35 |
 | Explorer | 6.00% | ~30 |
 | Trio | 6.00% | ~30 |
@@ -45,7 +45,7 @@
 | Cryomancer | 0.40% | ~2 |
 | Hardboiled | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 499 (Ranked 314)  
+Progressed: 499 (Ranked 315)  
 Completed: 1 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |

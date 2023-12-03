@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -83,7 +83,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1956,
+  "EOS_Progressed": 1957,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
@@ -7418,6 +7418,11 @@
       "Time": "2023-12-03T19:08:30.4909607+00:00",
       "NumProgressed": 1956,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T21:08:02.5264606+00:00",
+      "NumProgressed": 1957,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7445,7 +7450,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ach_defeat_players_100",
@@ -7493,7 +7498,7 @@
       "Name": "Silver Competitor",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -7541,7 +7546,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -7565,7 +7570,7 @@
       "Name": "Captain",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -7677,7 +7682,7 @@
       "Name": "Factory Expansion",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -7732,7 +7737,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1956,
+      "Progressed": 1957,
       "Completed": 1
     }
   ],
@@ -7740,8 +7745,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-21T23:00:15.982699+00:00",
-  "LastChanged_Achievements": "2023-12-03T20:08:26.4701115+00:00",
+  "LastChanged_Achievements": "2023-12-03T21:08:02.5264605+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:25.6864843+00:00",
-  "LastUpdate_Ratings": "2023-12-03T19:58:52.9903551+00:00",
-  "LastUpdate_Achievements": "2023-12-03T20:08:26.4701694+00:00"
+  "LastUpdate_Ratings": "2023-12-03T20:58:13.9955336+00:00",
+  "LastUpdate_Achievements": "2023-12-03T21:08:02.5265054+00:00"
 }

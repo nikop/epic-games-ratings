@@ -38,6 +38,7 @@
 | A Terrible Will | 3.00% | ~6 |
 | Inquisitions of Discord | 3.00% | ~6 |
 | Supercargo | 2.00% | ~4 |
+| Talent Nurtured | 2.00% | ~4 |
 | Huntress Unbound | 2.00% | ~4 |
 | Business As Usual | 2.00% | ~4 |
 | Delayed | 2.00% | ~4 |
@@ -49,7 +50,6 @@
 | Executor | 1.00% | ~2 |
 | Loremaster | 1.00% | ~2 |
 | Adept | 1.00% | ~2 |
-| Talent Nurtured | 1.00% | ~2 |
 | Embellished | 1.00% | ~2 |
 | Legacy of a Mercenary | 1.00% | ~2 |
 | Trailblazer | 1.00% | ~2 |

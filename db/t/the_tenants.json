@@ -2,13 +2,13 @@
   "ID": "edaebe133189475c9fd853858b7fa9ac",
   "Name": "The Tenants",
   "ProductSlug": "the-tenants",
-  "Ranking_Rating": 541,
+  "Ranking_Rating": 542,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 429,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewPlayers": 428,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2021-03-25T23:00:00+00:00",
     "PcReleaseDate": "2021-03-25T23:00:00+00:00",
@@ -1576,8 +1576,8 @@
   "FirstSeen": "2022-07-22T20:28:48.0535215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.1531533+00:00",
   "LastChanged": "2023-07-15T20:59:23.7762639+00:00",
-  "LastChanged_Achievements": "2023-12-03T20:03:36.5954836+00:00",
+  "LastChanged_Achievements": "2023-12-03T21:03:02.2391285+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:33.3330507+00:00",
-  "LastUpdate_Ratings": "2023-12-03T20:01:40.5862251+00:00",
-  "LastUpdate_Achievements": "2023-12-03T20:03:36.5955638+00:00"
+  "LastUpdate_Ratings": "2023-12-03T21:00:02.6746011+00:00",
+  "LastUpdate_Achievements": "2023-12-03T21:03:02.2391959+00:00"
 }

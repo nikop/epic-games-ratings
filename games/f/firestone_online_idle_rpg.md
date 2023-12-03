@@ -5,12 +5,12 @@ Rating: 4.03 (Ranked 998)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,795 |
-| World Map | 78.00% | ~2,344 |
-| Temple of Eternals | 57.00% | ~1,713 |
-| Prestigious | 53.00% | ~1,593 |
-| Fellowship Power | 42.00% | ~1,262 |
-| Guild Power | 24.00% | ~721 |
+| Victor | 93.00% | ~2,797 |
+| World Map | 78.00% | ~2,345 |
+| Temple of Eternals | 57.00% | ~1,714 |
+| Prestigious | 53.00% | ~1,594 |
+| Fellowship Power | 42.00% | ~1,263 |
+| Guild Power | 24.00% | ~722 |
 | Prestigious x10 | 21.00% | ~631 |
 | Full Party | 20.00% | ~601 |
 | The game is on | 19.00% | ~571 |
@@ -27,18 +27,18 @@ Rating: 4.03 (Ranked 998)
 | Superior | 12.00% | ~361 |
 | The Unstoppable | 12.00% | ~361 |
 | Mysterious Rock | 11.00% | ~331 |
-| Scientist | 10.00% | ~300 |
-| Challenger | 9.00% | ~270 |
-| Daily Quest Completionist | 9.00% | ~270 |
-| Doing My Part | 9.00% | ~270 |
-| Hunter | 9.00% | ~270 |
-| Mastery | 9.00% | ~270 |
-| Relic Of The Past | 9.00% | ~270 |
-| Scroll Master | 9.00% | ~270 |
-| The power of Awakening | 9.00% | ~270 |
-| Four Leaf Clover | 8.00% | ~240 |
-| Frostfire Liberator | 8.00% | ~240 |
-| Moving Up The Ladder | 8.00% | ~240 |
+| Scientist | 10.00% | ~301 |
+| Challenger | 9.00% | ~271 |
+| Daily Quest Completionist | 9.00% | ~271 |
+| Doing My Part | 9.00% | ~271 |
+| Hunter | 9.00% | ~271 |
+| Mastery | 9.00% | ~271 |
+| Relic Of The Past | 9.00% | ~271 |
+| Scroll Master | 9.00% | ~271 |
+| The power of Awakening | 9.00% | ~271 |
+| Four Leaf Clover | 8.00% | ~241 |
+| Frostfire Liberator | 8.00% | ~241 |
+| Moving Up The Ladder | 8.00% | ~241 |
 | Here We Go Again | 7.00% | ~210 |
 | Master Enchanter | 7.00% | ~210 |
 | The father of Dragons | 7.00% | ~210 |
@@ -81,7 +81,7 @@ Rating: 4.03 (Ranked 998)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,005 (Ranked 212)  
+Progressed: 3,007 (Ranked 212)  
 Completed: 2 (0.07%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 2 (0.07%) (Ranked 307)
 | 2023-11-30 | 2,847 | 2 |
 | 2023-12-01 | 2,917 | 2 |
 | 2023-12-02 | 2,955 | 2 |
-| 2023-12-03 | 3,005 | 2 |
+| 2023-12-03 | 3,007 | 2 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 474)  
 Sum: 137 (Ranked 431)  

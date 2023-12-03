@@ -4,8 +4,8 @@
   "ProductSlug": "curious-expedition-df0f2f",
   "Ranking_EOS_Progress": 775,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 489,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewPlayers": 490,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-04-19T08:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-04-28T03:58:48.9258042+00:00",
   "LastChanged": "2023-04-28T03:58:48.9258043+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:54.1667636+00:00",
-  "LastUpdate_Ratings": "2023-12-03T20:00:12.4723971+00:00",
-  "LastUpdate_Achievements": "2023-12-03T20:07:43.3492803+00:00"
+  "LastUpdate_Ratings": "2023-12-03T20:59:05.416286+00:00",
+  "LastUpdate_Achievements": "2023-12-03T21:05:53.487842+00:00"
 }

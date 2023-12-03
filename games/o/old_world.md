@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 312)  
+Rating: 4.65 (Ranked 313)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,8 +11,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 6.00% | ~937 |
 | Friendly Family | 6.00% | ~937 |
 | Able | 5.00% | ~781 |
+| Architect | 5.00% | ~781 |
 | Intrepid | 5.00% | ~781 |
-| Architect | 4.00% | ~625 |
 | Glorious | 4.00% | ~625 |
 | Good | 4.00% | ~625 |
 | Just | 4.00% | ~625 |
@@ -132,12 +132,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rome | 0.90% | ~141 |
 | Hittite Paganism | 0.90% | ~141 |
 | Turreted Elephant | 0.90% | ~141 |
+| All Nations | 0.90% | ~141 |
 | Poetic Leader | 0.90% | ~141 |
 | Peacemaker | 0.80% | ~125 |
 | Noble Difficulty | 0.80% | ~125 |
 | Cao'an | 0.80% | ~125 |
 | Adur Burzen-Mihr | 0.80% | ~125 |
-| All Nations | 0.80% | ~125 |
 | Kmt Unified | 0.80% | ~125 |
 | Ishtar Gate in Babylon | 0.70% | ~109 |
 | Carthage - Ox Hide | 0.70% | ~109 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,617 (Ranked 152)  
+Progressed: 15,619 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -576,7 +576,7 @@ Completed: 5 (0.03%) (Ranked 329)
 | 2023-11-30 | 15,566 | 5 |
 | 2023-12-01 | 15,583 | 5 |
 | 2023-12-02 | 15,604 | 5 |
-| 2023-12-03 | 15,617 | 5 |
+| 2023-12-03 | 15,619 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,885 (Ranked 220)  

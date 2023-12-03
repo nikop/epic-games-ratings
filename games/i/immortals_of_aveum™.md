@@ -17,7 +17,7 @@ Rating: 4.07 (Ranked 979)
 | All the Major Food Groups | 37.00% | ~120 |
 | Beggars Would Ride | 33.00% | ~107 |
 | Control is an Illusion | 31.00% | ~100 |
-| Socialite | 30.00% | ~97 |
+| Socialite | 31.00% | ~100 |
 | The Means to Save It | 26.00% | ~84 |
 | Resilience to Sin | 23.00% | ~74 |
 | A Familiar Nest | 22.00% | ~71 |
@@ -26,7 +26,7 @@ Rating: 4.07 (Ranked 979)
 | A Perfect Cycle | 19.00% | ~61 |
 | Recruit | 18.00% | ~58 |
 | Armsman | 17.00% | ~55 |
-| Lights Army | 12.00% | ~39 |
+| Lights Army | 13.00% | ~42 |
 | Good Boy | 12.00% | ~39 |
 | Periapt Cerulean | 11.00% | ~36 |
 | Periapt Viridian | 10.00% | ~32 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -61,7 +61,7 @@
   "Tags": [],
   "EOS_Progressed": 1146,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2872,9 +2872,9 @@
       "ID": "GSS_ACH_02_SHOP_02",
       "SetID": "5fn8ia4",
       "Name": "It\u0027s just getting started",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 825
+      "UsersEstimate": 837
     },
     {
       "ID": "GSS_ACH_03_TIP_01",
@@ -3521,8 +3521,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-28T04:59:34.1023632+00:00",
-  "LastChanged_Achievements": "2023-12-03T20:07:41.6548612+00:00",
+  "LastChanged_Achievements": "2023-12-03T21:05:52.3226287+00:00",
   "LastUpdate_AppInfo": "2023-11-27T17:57:10.8459621+00:00",
-  "LastUpdate_Ratings": "2023-12-03T19:59:43.5020322+00:00",
-  "LastUpdate_Achievements": "2023-12-03T20:07:41.6549439+00:00"
+  "LastUpdate_Ratings": "2023-12-03T20:58:46.8152134+00:00",
+  "LastUpdate_Achievements": "2023-12-03T21:05:52.3227147+00:00"
 }

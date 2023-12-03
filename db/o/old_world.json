@@ -2,13 +2,13 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 312,
+  "Ranking_Rating": 313,
   "Ranking_Popularity": 274,
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2076,9 +2076,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15617,
+  "EOS_Progressed": 15619,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17046,6 +17046,11 @@
       "Time": "2023-12-03T18:04:00.5310192+00:00",
       "NumProgressed": 15617,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-03T21:03:58.3987691+00:00",
+      "NumProgressed": 15619,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -17407,9 +17412,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ARCHITECT",
       "SetID": "9201eeb",
       "Name": "Architect",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 625
+      "UsersEstimate": 781
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -19167,9 +19172,9 @@
       "ID": "ACHIEVEMENT_VICTORY_ALL_NATIONS",
       "SetID": "7l38kb8",
       "Name": "All Nations",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 141
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_AMBITION",
@@ -19792,21 +19797,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15617,
+      "Progressed": 15619,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15617,
+      "Progressed": 15619,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-03T13:04:15.9334657+00:00",
-  "LastChanged_Achievements": "2023-12-03T20:04:57.7251269+00:00",
+  "LastChanged_Achievements": "2023-12-03T21:03:58.3987688+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:20.3030051+00:00",
-  "LastUpdate_Ratings": "2023-12-03T20:01:13.6646799+00:00",
-  "LastUpdate_Achievements": "2023-12-03T20:04:57.7260515+00:00"
+  "LastUpdate_Ratings": "2023-12-03T20:59:45.2138114+00:00",
+  "LastUpdate_Achievements": "2023-12-03T21:03:58.3998293+00:00"
 }

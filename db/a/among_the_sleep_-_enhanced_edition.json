@@ -2,7 +2,7 @@
   "ID": "53ef2f4592684c4c97d6d32e40467274",
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
-  "Ranking_Rating": 849,
+  "Ranking_Rating": 850,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 91,
@@ -488,9 +488,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 94506,
+  "EOS_Progressed": 94509,
   "EOS_Completed": 428,
-  "EOS_NewPlayers": 689,
+  "EOS_NewPlayers": 690,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -25748,6 +25748,11 @@
       "Time": "2023-12-03T20:08:53.8087161+00:00",
       "NumProgressed": 94506,
       "NumCompleted": 428
+    },
+    {
+      "Time": "2023-12-03T21:08:21.6802902+00:00",
+      "NumProgressed": 94509,
+      "NumCompleted": 428
     }
   ],
   "TotalAchievements": 10,
@@ -25823,7 +25828,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 33077
+      "UsersEstimate": 33078
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -25838,15 +25843,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 94506,
+      "Progressed": 94509,
       "Completed": 428
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-10-29T15:00:28.7354435+00:00",
-  "LastChanged_Achievements": "2023-12-03T20:08:53.8087157+00:00",
+  "LastChanged_Achievements": "2023-12-03T21:08:21.6802899+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:15.1014443+00:00",
-  "LastUpdate_Ratings": "2023-12-03T20:03:12.4296724+00:00",
-  "LastUpdate_Achievements": "2023-12-03T20:08:53.8088417+00:00"
+  "LastUpdate_Ratings": "2023-12-03T21:02:45.9331282+00:00",
+  "LastUpdate_Achievements": "2023-12-03T21:08:21.68042+00:00"
 }
