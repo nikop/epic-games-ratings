@@ -4,8 +4,8 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 348,
+  "EOS_Progressed": 349,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1069,6 +1069,11 @@
       "Time": "2023-12-03T20:07:35.5042569+00:00",
       "NumProgressed": 348,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T22:06:01.7671446+00:00",
+      "NumProgressed": 349,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1119,9 +1124,9 @@
       "ID": "8",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s On Fire",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 140
     },
     {
       "ID": "9",
@@ -1145,15 +1150,15 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "REMAKE_004",
       "SetID": "5pi96jj",
       "Name": "I\u0027m Your Daddy",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 212
+      "UsersEstimate": 216
     },
     {
       "ID": "Remake_005",
@@ -1304,14 +1309,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 348,
+      "Progressed": 349,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-03T21:05:47.8949535+00:00",
+  "LastChanged_Achievements": "2023-12-03T22:06:01.767144+00:00",
   "LastUpdate_AppInfo": "2023-11-27T21:57:11.1049797+00:00",
-  "LastUpdate_Ratings": "2023-12-03T21:02:30.6530099+00:00",
-  "LastUpdate_Achievements": "2023-12-03T21:05:47.8949788+00:00"
+  "LastUpdate_Ratings": "2023-12-03T22:02:29.8378597+00:00",
+  "LastUpdate_Achievements": "2023-12-03T22:06:01.7671804+00:00"
 }

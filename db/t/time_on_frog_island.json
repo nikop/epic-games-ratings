@@ -4,8 +4,8 @@
   "ProductSlug": "time-on-frog-island-b3ad0d",
   "Ranking_EOS_Progress": 559,
   "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 490,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewPlayers": 491,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2022-07-12T13:00:00+00:00",
     "PcReleaseDate": "2022-07-12T13:00:00+00:00",
@@ -198,9 +198,9 @@
       "ID": "a15",
       "SetID": "cdg65ol",
       "Name": "Shrub-Seeing: Townlife",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "a16",
@@ -358,9 +358,9 @@
       "ID": "a33",
       "SetID": "cdg65ol",
       "Name": "Home Sweet Home",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "a34",
@@ -439,8 +439,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
-  "LastChanged_Achievements": "2023-12-03T21:04:00.0339244+00:00",
+  "LastChanged_Achievements": "2023-12-03T22:04:12.6471381+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:36.7640479+00:00",
-  "LastUpdate_Ratings": "2023-12-03T20:58:33.4474503+00:00",
-  "LastUpdate_Achievements": "2023-12-03T21:04:00.033946+00:00"
+  "LastUpdate_Ratings": "2023-12-03T21:58:41.7269606+00:00",
+  "LastUpdate_Achievements": "2023-12-03T22:04:12.6471615+00:00"
 }

@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7371,
+  "EOS_Progressed": 7375,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 653,
+  "EOS_NewPlayers": 652,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5423,6 +5423,11 @@
       "Time": "2023-12-03T21:09:06.7064115+00:00",
       "NumProgressed": 7371,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-03T22:09:11.9598598+00:00",
+      "NumProgressed": 7375,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5475,7 +5480,7 @@
       "Name": "Connection Lost",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "Eavesdropper",
@@ -5483,7 +5488,7 @@
       "Name": "Eavesdropper",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ExplosivePersonality",
@@ -5499,7 +5504,7 @@
       "Name": "Faster Than Light",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "FirstTime",
@@ -5507,7 +5512,7 @@
       "Name": "First Time?",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2138
+      "UsersEstimate": 2139
     },
     {
       "ID": "FuneralForTheDeath",
@@ -5571,7 +5576,7 @@
       "Name": "Master Manipulator",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Nasty",
@@ -5579,7 +5584,7 @@
       "Name": "Nasty!",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "NoMoreTotems",
@@ -5603,7 +5608,7 @@
       "Name": "One-Star Man",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ScorchSquad",
@@ -5635,7 +5640,7 @@
       "Name": "The Quarterback",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "ThisIsDharma",
@@ -5643,7 +5648,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -5675,7 +5680,7 @@
       "Name": "Digestive Issues",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -5706,7 +5711,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7371,
+      "Progressed": 7375,
       "Completed": 13
     }
   ],
@@ -5714,8 +5719,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-03T17:57:51.312762+00:00",
-  "LastChanged_Achievements": "2023-12-03T21:09:06.7064112+00:00",
+  "LastChanged_Achievements": "2023-12-03T22:09:11.9598584+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-03T20:57:55.5624778+00:00",
-  "LastUpdate_Achievements": "2023-12-03T21:09:06.706458+00:00"
+  "LastUpdate_Ratings": "2023-12-03T21:58:03.2394458+00:00",
+  "LastUpdate_Achievements": "2023-12-03T22:09:11.9599026+00:00"
 }

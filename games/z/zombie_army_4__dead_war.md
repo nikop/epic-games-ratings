@@ -7,32 +7,32 @@ Number of Ratings: 743  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shoot it, man! Shoot it in the head! | 69.00% | ~30,401 |
-| Say goodbye, creep! | 66.00% | ~29,079 |
-| Blood splattered | 66.00% | ~29,079 |
-| Choo choo! | 63.00% | ~27,757 |
+| Say goodbye, creep! | 66.00% | ~29,080 |
+| Blood splattered | 66.00% | ~29,080 |
+| Choo choo! | 63.00% | ~27,758 |
 | Groovy | 62.00% | ~27,317 |
 | Cleanup on aisle 4! | 57.00% | ~25,114 |
-| Gold | 51.00% | ~22,470 |
+| Gold | 51.00% | ~22,471 |
 | The boat can leave now...tell the crew | 49.00% | ~21,589 |
 | Give me something to shoot! | 47.00% | ~20,708 |
 | Stand back boy! | 47.00% | ~20,708 |
 | Chain reaction | 45.00% | ~19,827 |
 | Weird science | 44.00% | ~19,386 |
 | What did you say, Blain? | 42.00% | ~18,505 |
-| Look mummy! A shark! | 41.00% | ~18,064 |
+| Look mummy! A shark! | 41.00% | ~18,065 |
 | In the dark dark woods... | 39.00% | ~17,183 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,742 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,743 |
 | Double tap | 37.00% | ~16,302 |
 | Cranial blowout! | 37.00% | ~16,302 |
-| All of this has happened before… | 36.00% | ~15,861 |
-| Zombie killin' machine | 36.00% | ~15,861 |
-| Every bullet counts | 36.00% | ~15,861 |
+| All of this has happened before… | 36.00% | ~15,862 |
+| Zombie killin' machine | 36.00% | ~15,862 |
+| Every bullet counts | 36.00% | ~15,862 |
 | All roads lead to Rome | 34.00% | ~14,980 |
 | You've got red on you | 34.00% | ~14,980 |
 | You're all going to die down here | 32.00% | ~14,099 |
 | He did Nazi that coming | 32.00% | ~14,099 |
-| Kill of the week | 31.00% | ~13,658 |
-| I never liked them anyway | 31.00% | ~13,658 |
+| Kill of the week | 31.00% | ~13,659 |
+| I never liked them anyway | 31.00% | ~13,659 |
 | Is it over? | 28.00% | ~12,337 |
 | Got your back | 27.00% | ~11,896 |
 | Gore soaked | 24.00% | ~10,574 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~441 |
 | None more hard | 0.60% | ~264 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,059 (Ranked 117)  
+Progressed: 44,060 (Ranked 117)  
 Completed: 25 (0.06%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 25 (0.06%) (Ranked 311)
 | 2023-11-30 | 44,035 | 25 |
 | 2023-12-01 | 44,040 | 25 |
 | 2023-12-02 | 44,050 | 25 |
-| 2023-12-03 | 44,059 | 25 |
+| 2023-12-03 | 44,060 | 25 |
 ## Awards
 Max (Great Boss Battles): 854  (Ranked 164)  
 Sum: 2,578 (Ranked 190)  

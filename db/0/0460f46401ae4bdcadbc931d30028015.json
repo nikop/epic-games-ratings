@@ -2,13 +2,13 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 908,
+  "Ranking_Rating": 915,
   "Ranking_Popularity": 460,
-  "Ranking_PopularitySum": 421,
+  "Ranking_PopularitySum": 420,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.21,
+  "Rating": 4.2,
   "RatingHistory": [
     {
       "Time": "2023-08-25T11:00:17.1063519+00:00",
@@ -793,10 +793,16 @@
       "Rating": 4.21,
       "NumberOfAwards": 166,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2023-12-03T21:58:22.2576204+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 168,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 166,
+  "NumberOfAwards": 168,
   "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -822,7 +828,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 28
+      "Count": 30
     },
     {
       "Text": "This game has Amazing Characters",
@@ -845,7 +851,7 @@
   ],
   "EOS_Progressed": 4021,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6699,9 +6705,9 @@
   "FirstSeen": "2023-08-18T01:36:55.7733992+00:00",
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged": "2023-12-03T07:58:13.4190037+00:00",
-  "LastChanged_Achievements": "2023-12-03T21:03:55.8551919+00:00",
+  "LastChanged": "2023-12-03T21:58:22.2576203+00:00",
+  "LastChanged_Achievements": "2023-12-03T22:04:08.3431073+00:00",
   "LastUpdate_AppInfo": "2023-11-30T06:57:22.8292477+00:00",
-  "LastUpdate_Ratings": "2023-12-03T20:58:14.3493104+00:00",
-  "LastUpdate_Achievements": "2023-12-03T21:03:55.8552314+00:00"
+  "LastUpdate_Ratings": "2023-12-03T21:58:22.2576207+00:00",
+  "LastUpdate_Achievements": "2023-12-03T22:04:08.34315+00:00"
 }

@@ -40,42 +40,42 @@ Number of Ratings: 371  (23.09.2022)
 | Tactical Sabotage | 1.00% | ~33 |
 | For the Machine God | 0.90% | ~30 |
 | Death Comes For All | 0.90% | ~30 |
-| Patron of Deimos | 0.80% | ~27 |
-| Engine Kill | 0.80% | ~27 |
-| Harvest No More | 0.80% | ~27 |
+| Patron of Deimos | 0.70% | ~23 |
 | Hands-On Research | 0.70% | ~23 |
+| Engine Kill | 0.70% | ~23 |
+| Harvest No More | 0.70% | ~23 |
 | Strike Force | 0.60% | ~20 |
-| Reign of Confusion | 0.50% | ~17 |
-| Suffer Not the Mutant | 0.50% | ~17 |
 | Exercise in Restraint | 0.40% | ~13 |
 | True Mastery | 0.40% | ~13 |
+| Reign of Confusion | 0.40% | ~13 |
+| Suffer Not the Mutant | 0.40% | ~13 |
 | Blood and Iron | 0.30% | ~10 |
 | Warp Flickers | 0.30% | ~10 |
 | Abomination | 0.30% | ~10 |
 | Killing Rampage | 0.30% | ~10 |
 | The Flesh is Weak | 0.20% | ~7 |
 | Clean Slate | 0.20% | ~7 |
-| Unstable Immaterium | 0.20% | ~7 |
 | Phalanx | 0.20% | ~7 |
 | Strategic Command | 0.20% | ~7 |
-| Deadshot | 0.20% | ~7 |
 | Terminal Meltdown | 0.20% | ~7 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | Crisis Management | 0.10% | ~3 |
 | Grand Master | 0.10% | ~3 |
 | Dominus | 0.10% | ~3 |
 | Drone Army | 0.10% | ~3 |
+| Unstable Immaterium | 0.10% | ~3 |
 | Opportunist | 0.10% | ~3 |
 | Master of the Forge | 0.10% | ~3 |
 | Field Apothecarion | 0.10% | ~3 |
 | Brothers in Arms | 0.10% | ~3 |
 | Firing Squad | 0.10% | ~3 |
 | Not a Mote of Corruption | 0.10% | ~3 |
+| Deadshot | 0.10% | ~3 |
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,333 (Ranked 208)  
+Progressed: 3,334 (Ranked 208)  
 Completed: 0 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 0 (0.00%) (Ranked 366)
 | 2023-11-27 | 3,329 | 0 |
 | 2023-12-01 | 3,331 | 0 |
 | 2023-12-02 | 3,332 | 0 |
-| 2023-12-03 | 3,333 | 0 |
+| 2023-12-03 | 3,334 | 0 |
 ## Awards
 Max (Character Customization): 225  (Ranked 276)  
 Sum: 485 (Ranked 330)  

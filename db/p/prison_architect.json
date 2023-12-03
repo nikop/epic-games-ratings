@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 44,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -7165,10 +7165,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4528,
       "NumberOfAwardsMax": 587
+    },
+    {
+      "Time": "2023-12-03T21:59:42.4825116+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4529,
+      "NumberOfAwardsMax": 587
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4528,
+  "NumberOfAwards": 4529,
   "NumberOfAwardsMax": 587,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7194,7 +7200,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 490
+      "Count": 491
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -7239,9 +7245,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 200210,
+  "EOS_Progressed": 200228,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 2224,
+  "EOS_NewPlayers": 2223,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -33199,6 +33205,11 @@
       "Time": "2023-12-03T21:08:52.6551265+00:00",
       "NumProgressed": 200210,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-03T22:08:57.0866546+00:00",
+      "NumProgressed": 200228,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 16,
@@ -33210,7 +33221,7 @@
       "Name": "Throw The Book At Them",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 4004
+      "UsersEstimate": 4005
     },
     {
       "ID": "Achievement_1",
@@ -33226,7 +33237,7 @@
       "Name": "Don\u0027t Put Me In The Dark",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6006
+      "UsersEstimate": 6007
     },
     {
       "ID": "Achievement_11",
@@ -33234,7 +33245,7 @@
       "Name": "Wait and Hope",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6006
+      "UsersEstimate": 6007
     },
     {
       "ID": "Achievement_12",
@@ -33242,7 +33253,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 32034
+      "UsersEstimate": 32036
     },
     {
       "ID": "Achievement_13",
@@ -33266,7 +33277,7 @@
       "Name": "I May Have Found A Way Out Of Here",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 6006
+      "UsersEstimate": 6007
     },
     {
       "ID": "Achievement_2",
@@ -33290,7 +33301,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 50052
+      "UsersEstimate": 50057
     },
     {
       "ID": "Achievement_5",
@@ -33298,7 +33309,7 @@
       "Name": "Iron Bars",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 4004
+      "UsersEstimate": 4005
     },
     {
       "ID": "Achievement_6",
@@ -33322,7 +33333,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 18019
+      "UsersEstimate": 18021
     },
     {
       "ID": "Achievement_9",
@@ -33330,22 +33341,22 @@
       "Name": "Spare The Rod",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 10010
+      "UsersEstimate": 10011
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 200210,
+      "Progressed": 200228,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2023-12-03T20:59:32.8656676+00:00",
-  "LastChanged_Achievements": "2023-12-03T21:08:52.6551263+00:00",
+  "LastChanged": "2023-12-03T21:59:42.4825114+00:00",
+  "LastChanged_Achievements": "2023-12-03T22:08:57.0866542+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:27.1980843+00:00",
-  "LastUpdate_Ratings": "2023-12-03T20:59:32.8656684+00:00",
-  "LastUpdate_Achievements": "2023-12-03T21:08:52.6552249+00:00"
+  "LastUpdate_Ratings": "2023-12-03T21:59:42.482512+00:00",
+  "LastUpdate_Achievements": "2023-12-03T22:08:57.0867742+00:00"
 }

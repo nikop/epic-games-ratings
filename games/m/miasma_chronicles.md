@@ -6,7 +6,7 @@ Rating: 4.44 (Ranked 680)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Blood | 92.00% | ~1,468 |
-| Ranidaphobia | 77.00% | ~1,229 |
+| Ranidaphobia | 78.00% | ~1,245 |
 | Aspiring Editor | 75.00% | ~1,197 |
 | Gun for Hire | 70.00% | ~1,117 |
 | I am the law! | 64.00% | ~1,021 |

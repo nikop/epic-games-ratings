@@ -15,16 +15,17 @@
 | Couch-surfing | 19.00% | ~4 |
 | Hands on the Helm | 19.00% | ~4 |
 | Who Even Needs Keys | 14.00% | ~3 |
+| Shrub-Seeing: Townlife | 14.00% | ~3 |
 | Shrub-Seeing: Silly Birbs | 14.00% | ~3 |
 | Sailor Swift | 14.00% | ~3 |
 | No Evil | 14.00% | ~3 |
 | Replace the Rudder | 14.00% | ~3 |
-| Shrub-Seeing: Townlife | 10.00% | ~2 |
 | Shrub-Seeing: Ruins of old | 10.00% | ~2 |
 | Yeet! | 10.00% | ~2 |
 | Caught Ya! | 10.00% | ~2 |
 | Safe Investment | 10.00% | ~2 |
 | Bank of Me | 10.00% | ~2 |
+| Home Sweet Home | 10.00% | ~2 |
 | The Journey Continues | 10.00% | ~2 |
 | Crunch Time | 5.00% | ~1 |
 | One with the frogs | 5.00% | ~1 |
@@ -36,7 +37,6 @@
 | Fantastic Fungi | 5.00% | ~1 |
 | Vandal | 5.00% | ~1 |
 | Just Here for the Food | 5.00% | ~1 |
-| Home Sweet Home | 5.00% | ~1 |
 | Falling with Style | 5.00% | ~1 |
 | Froggy Friendship | 5.00% | ~1 |
 ## Popularity (Based on EOS Achievements)

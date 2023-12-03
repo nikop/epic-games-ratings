@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -99,7 +99,7 @@
   "Tags": [],
   "EOS_Progressed": 737,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1885,9 +1885,9 @@
       "ID": "achievement_24",
       "SetID": "jnappp",
       "Name": "Miracle in the Mountains",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 155
+      "UsersEstimate": 162
     },
     {
       "ID": "achievement_25",
@@ -1909,9 +1909,9 @@
       "ID": "achievement_3",
       "SetID": "jnappp",
       "Name": "Rookie Season",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 81
     },
     {
       "ID": "achievement_4",
@@ -1974,8 +1974,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-12-03T20:58:50.4596615+00:00",
-  "LastChanged_Achievements": "2023-12-03T21:09:14.6252922+00:00",
+  "LastChanged_Achievements": "2023-12-03T22:09:20.1059766+00:00",
   "LastUpdate_AppInfo": "2023-11-28T21:56:52.2952246+00:00",
-  "LastUpdate_Ratings": "2023-12-03T20:58:50.4596619+00:00",
-  "LastUpdate_Achievements": "2023-12-03T21:09:14.6253134+00:00"
+  "LastUpdate_Ratings": "2023-12-03T21:58:59.3441806+00:00",
+  "LastUpdate_Achievements": "2023-12-03T22:09:20.1059971+00:00"
 }

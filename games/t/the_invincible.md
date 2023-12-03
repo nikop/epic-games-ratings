@@ -11,7 +11,7 @@
 | Survivors | 30.00% | ~152 |
 | The Condor | 28.00% | ~142 |
 | The End | 28.00% | ~142 |
-| The Alliance | 21.00% | ~107 |
+| The Alliance | 22.00% | ~112 |
 | The Necroevolution | 21.00% | ~107 |
 | Krauta is alive | 20.00% | ~102 |
 | Peacemaker | 19.00% | ~97 |

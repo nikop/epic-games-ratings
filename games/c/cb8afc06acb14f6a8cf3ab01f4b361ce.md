@@ -1,52 +1,52 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.20 (Ranked 916)  
+Rating: 4.20 (Ranked 915)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 3.00% | ~9,704 |
-| May the Torchbearer light our way | 2.00% | ~6,469 |
-| A powerful aura was here | 2.00% | ~6,469 |
-| Let's raise the stakes!! | 0.90% | ~2,911 |
+| The touch of Chaos | 3.00% | ~9,705 |
+| May the Torchbearer light our way | 2.00% | ~6,470 |
+| A powerful aura was here | 2.00% | ~6,470 |
+| Let's raise the stakes!! | 0.90% | ~2,912 |
 | Rumors are true | 0.60% | ~1,941 |
 | Pride is a sin, young Knight | 0.60% | ~1,941 |
 | Your wounds… They are healing so fast! | 0.60% | ~1,941 |
-| We'll be careful | 0.50% | ~1,617 |
+| We'll be careful | 0.50% | ~1,618 |
 | Back to your senses | 0.40% | ~1,294 |
 | They tricked me | 0.40% | ~1,294 |
 | We need to talk | 0.40% | ~1,294 |
 | They won't last long | 0.40% | ~1,294 |
 | Bring it on! | 0.40% | ~1,294 |
-| I feel drawn to it | 0.30% | ~970 |
-| Here to stay | 0.30% | ~970 |
-| Counting on you | 0.30% | ~970 |
-| This is the end | 0.30% | ~970 |
-| We can choose to fight | 0.30% | ~970 |
-| I took a risk | 0.30% | ~970 |
+| I feel drawn to it | 0.30% | ~971 |
+| Here to stay | 0.30% | ~971 |
+| Counting on you | 0.30% | ~971 |
+| This is the end | 0.30% | ~971 |
+| We can choose to fight | 0.30% | ~971 |
+| I took a risk | 0.30% | ~971 |
 | Their fate is sealed | 0.20% | ~647 |
 | Not even from this world | 0.20% | ~647 |
 | Chaos be damned! | 0.20% | ~647 |
-| No damsels in distress | 0.10% | ~323 |
-| The immortal is bound to reborn | 0.10% | ~323 |
-| A legend among Chimeras | 0.10% | ~323 |
-| It's only pain | 0.10% | ~323 |
-| I know how to handle it | 0.10% | ~323 |
-| Settle this once and for all | 0.10% | ~323 |
-| The Ashen Knight | 0.10% | ~323 |
-| The Shade | 0.10% | ~323 |
-| Through the Veil | 0.10% | ~323 |
-| Call this the Judge's mercy | 0.10% | ~323 |
-| There's too many of them! | 0.10% | ~323 |
-| I've been waiting for this! | 0.10% | ~323 |
-| You want more? I've got more! | 0.10% | ~323 |
-| I'm just warming up | 0.10% | ~323 |
-| We learned it the hard way | 0.10% | ~323 |
-| Something... unnatural | 0.10% | ~323 |
-| We strike as one | 0.10% | ~323 |
+| No damsels in distress | 0.10% | ~324 |
+| The immortal is bound to reborn | 0.10% | ~324 |
+| A legend among Chimeras | 0.10% | ~324 |
+| It's only pain | 0.10% | ~324 |
+| I know how to handle it | 0.10% | ~324 |
+| Settle this once and for all | 0.10% | ~324 |
+| The Ashen Knight | 0.10% | ~324 |
+| The Shade | 0.10% | ~324 |
+| Through the Veil | 0.10% | ~324 |
+| Call this the Judge's mercy | 0.10% | ~324 |
+| There's too many of them! | 0.10% | ~324 |
+| I've been waiting for this! | 0.10% | ~324 |
+| You want more? I've got more! | 0.10% | ~324 |
+| I'm just warming up | 0.10% | ~324 |
+| We learned it the hard way | 0.10% | ~324 |
+| Something... unnatural | 0.10% | ~324 |
+| We strike as one | 0.10% | ~324 |
 | They wanted yet another monster… | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 323,471 (Ranked 52)  
+Progressed: 323,501 (Ranked 52)  
 Completed: 4 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 4 (0.00%) (Ranked 366)
 | 2023-11-30 | 321,497 | 4 |
 | 2023-12-01 | 322,049 | 4 |
 | 2023-12-02 | 322,685 | 4 |
-| 2023-12-03 | 323,471 | 4 |
+| 2023-12-03 | 323,501 | 4 |
 ## Awards
 Max (Great Boss Battles): 63  (Ranked 412)  
 Sum: 63 (Ranked 477)  

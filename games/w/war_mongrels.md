@@ -10,7 +10,7 @@ Number of Ratings: 34  (23.09.2022)
 | Cowardice | 62.00% | ~405 |
 | NO LIFE IS WORTH SAVING... | 47.00% | ~307 |
 | Eat Lead! | 46.00% | ~301 |
-| The Breaking Point | 44.00% | ~288 |
+| The Breaking Point | 45.00% | ~294 |
 | Here Comes the Boom | 43.00% | ~281 |
 | Prospector | 41.00% | ~268 |
 | Sniper Wolf | 40.00% | ~262 |

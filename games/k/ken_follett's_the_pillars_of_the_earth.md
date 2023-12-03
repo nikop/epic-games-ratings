@@ -10,7 +10,7 @@ Number of Ratings: 368  (23.09.2022)
 | Man of politics | 34.00% | ~5,726 |
 | Friends of sorts | 33.00% | ~5,557 |
 | Yet another secret | 33.00% | ~5,557 |
-| Let there be darkness | 31.00% | ~5,220 |
+| Let there be darkness | 32.00% | ~5,389 |
 | End of Book One | 29.00% | ~4,884 |
 | Garden of Eden | 24.00% | ~4,042 |
 | Wannabe knight | 23.00% | ~3,873 |

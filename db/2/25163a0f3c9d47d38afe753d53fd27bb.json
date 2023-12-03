@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1677,
+  "EOS_Progressed": 1678,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 7.16,
+  "EOS_Completed_Percentage": 7.15,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -4004,6 +4004,11 @@
       "Time": "2023-12-03T21:09:15.6707409+00:00",
       "NumProgressed": 1677,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-12-03T22:09:21.1468516+00:00",
+      "NumProgressed": 1678,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 30,
@@ -4015,7 +4020,7 @@
       "Name": "A fresh start",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1594
     },
     {
       "ID": "LEVEL_002",
@@ -4023,7 +4028,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "LEVEL_003",
@@ -4031,7 +4036,7 @@
       "Name": "A horse in the country",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "LEVEL_004",
@@ -4055,7 +4060,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "LEVEL_007",
@@ -4063,7 +4068,7 @@
       "Name": "Animals in the farm",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "LEVEL_008",
@@ -4087,7 +4092,7 @@
       "Name": "Rocks around the island",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "LEVEL_011",
@@ -4167,7 +4172,7 @@
       "Name": "Go round and round",
       "Percentage": 11,
       "XP": 110,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "LEVEL_021",
@@ -4254,14 +4259,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1677,
+      "Progressed": 1678,
       "Completed": 120
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-12-03T21:09:15.6707406+00:00",
+  "LastChanged_Achievements": "2023-12-03T22:09:21.1468513+00:00",
   "LastUpdate_AppInfo": "2023-11-28T03:57:10.4793564+00:00",
-  "LastUpdate_Ratings": "2023-12-03T20:58:42.9804411+00:00",
-  "LastUpdate_Achievements": "2023-12-03T21:09:15.6707788+00:00"
+  "LastUpdate_Ratings": "2023-12-03T21:58:51.7682687+00:00",
+  "LastUpdate_Achievements": "2023-12-03T22:09:21.1468858+00:00"
 }

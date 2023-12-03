@@ -9,6 +9,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 0.60% | ~1,430 |
 | Beast Intentions | 0.20% | ~477 |
 | The Cursed Farmer | 0.20% | ~477 |
+| The Ring of Regeneration | 0.20% | ~477 |
 | The Mad Wizard | 0.20% | ~477 |
 | The Beginning is the End | 0.20% | ~409 |
 | Maddening | 0.10% | ~238 |
@@ -218,7 +219,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Trepidatious Trio | 0.10% | ~238 |
 | Our Time To Shine | 0.10% | ~238 |
 | Review by the Blackstaff | 0.10% | ~205 |
-| The Ring of Regeneration | 0.10% | ~238 |
 | The Crumbling Temple | 0.10% | ~238 |
 | The Death Curse | 0.10% | ~238 |
 | Treasure Hunters | 0.10% | ~238 |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~205 |
 | See You on the Flipside | 0.10% | ~205 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,291 (Ranked 65)  
+Progressed: 238,294 (Ranked 65)  
 Completed: 2,495 (1.05%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -766,7 +766,7 @@ Completed: 2,495 (1.05%) (Ranked 164)
 | 2023-11-30 | 237,660 | 2,490 |
 | 2023-12-01 | 237,920 | 2,491 |
 | 2023-12-02 | 238,082 | 2,494 |
-| 2023-12-03 | 238,291 | 2,495 |
+| 2023-12-03 | 238,294 | 2,495 |
 ## Awards
 Max (Great for Beginners): 5,589  (Ranked 70)  
 Sum: 32,719 (Ranked 41)  

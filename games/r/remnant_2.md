@@ -23,21 +23,21 @@ Rating: 4.75 (Ranked 148)
 | Boss'n Up | 0.40% | ~937 |
 | Good, But Could Be Better! | 0.40% | ~937 |
 | Trait Chaser | 0.40% | ~937 |
-| Chaos | 0.30% | ~702 |
-| Traitor | 0.30% | ~702 |
-| Forever is a Long Time Coming | 0.30% | ~702 |
-| Power Surge | 0.30% | ~702 |
-| The God Gambit | 0.30% | ~702 |
-| Dark Designs | 0.30% | ~702 |
-| Equal Measures | 0.30% | ~702 |
-| Shhh...It's a Secret | 0.30% | ~702 |
-| Was This Supposed To Happen? | 0.30% | ~702 |
-| Edgelord | 0.30% | ~702 |
-| The Web | 0.30% | ~702 |
-| Scrap Collector | 0.30% | ~702 |
-| All These Traits� | 0.30% | ~702 |
-| Almost There | 0.30% | ~702 |
-| Make Some Room | 0.30% | ~702 |
+| Chaos | 0.30% | ~703 |
+| Traitor | 0.30% | ~703 |
+| Forever is a Long Time Coming | 0.30% | ~703 |
+| Power Surge | 0.30% | ~703 |
+| The God Gambit | 0.30% | ~703 |
+| Dark Designs | 0.30% | ~703 |
+| Equal Measures | 0.30% | ~703 |
+| Shhh...It's a Secret | 0.30% | ~703 |
+| Was This Supposed To Happen? | 0.30% | ~703 |
+| Edgelord | 0.30% | ~703 |
+| The Web | 0.30% | ~703 |
+| Scrap Collector | 0.30% | ~703 |
+| All These Traits� | 0.30% | ~703 |
+| Almost There | 0.30% | ~703 |
+| Make Some Room | 0.30% | ~703 |
 | Crafty | 0.20% | ~468 |
 | Ghost in the Machine | 0.20% | ~468 |
 | Madman's Paradise | 0.20% | ~468 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | Proving Grounds | 0.10% | ~234 |
 | A Foul Feast | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,136 (Ranked 68)  
+Progressed: 234,176 (Ranked 68)  
 Completed: 554 (0.24%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 554 (0.24%) (Ranked 250)
 | 2023-11-30 | 231,406 | 542 |
 | 2023-12-01 | 232,269 | 546 |
 | 2023-12-02 | 233,162 | 548 |
-| 2023-12-03 | 234,136 | 554 |
+| 2023-12-03 | 234,176 | 554 |
 ## Awards
 Max (Great Boss Battles): 2,603  (Ranked 102)  
 Sum: 6,405 (Ranked 128)  

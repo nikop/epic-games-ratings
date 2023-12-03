@@ -2,10 +2,10 @@
   "ID": "0f4a57443f904107818acfc2068704f9",
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
-  "Ranking_EOS_Progress": 278,
+  "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 828,
+  "EOS_Progressed": 830,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
@@ -1757,6 +1757,11 @@
       "Time": "2023-12-03T15:05:50.3277786+00:00",
       "NumProgressed": 828,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T22:05:43.7285408+00:00",
+      "NumProgressed": 830,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1777,7 +1782,7 @@
       "Name": "Territorial",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -1801,7 +1806,7 @@
       "Name": "Liberator",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "CompleteCampaignVeteran",
@@ -1825,7 +1830,7 @@
       "Name": "Pathfinder",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "CompleteChapter10",
@@ -1833,7 +1838,7 @@
       "Name": "You da Boss, Now",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "CompleteChapter11",
@@ -1905,7 +1910,7 @@
       "Name": "The Might of Sigmar\u0027s Warriors",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "CompleteChapter2",
@@ -1913,7 +1918,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "CompleteChapter3",
@@ -1921,7 +1926,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "CompleteChapter4",
@@ -1929,15 +1934,15 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "CompleteChapter5",
       "SetID": "52ail55",
       "Name": "Breathing Easy",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 199
     },
     {
       "ID": "CompleteChapter6",
@@ -2017,7 +2022,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "Win100OnlineMatched",
@@ -2064,14 +2069,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 828,
+      "Progressed": 830,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-03T21:05:30.3091323+00:00",
+  "LastChanged_Achievements": "2023-12-03T22:05:43.7285403+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:09.4303292+00:00",
-  "LastUpdate_Ratings": "2023-12-03T20:59:17.8273986+00:00",
-  "LastUpdate_Achievements": "2023-12-03T21:05:30.3091658+00:00"
+  "LastUpdate_Ratings": "2023-12-03T21:59:27.2715085+00:00",
+  "LastUpdate_Achievements": "2023-12-03T22:05:43.7285735+00:00"
 }

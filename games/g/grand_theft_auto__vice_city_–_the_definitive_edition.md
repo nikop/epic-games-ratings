@@ -1,7 +1,7 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.53 (Ranked 542)  
+Rating: 4.52 (Ranked 557)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,7 +12,7 @@ Rating: 4.53 (Ranked 542)
 | Tommy Two-Wheels | 16.00% | ~1,787 |
 | Big Heat from Little Havana | 15.00% | ~1,675 |
 | Chauffeur | 15.00% | ~1,675 |
-| Salutations My Little Friend | 11.00% | ~1,228 |
+| Salutations My Little Friend | 11.00% | ~1,229 |
 | Iron-y | 10.00% | ~1,117 |
 | Gun for Hire | 9.00% | ~1,005 |
 | Mischief Managed | 9.00% | ~1,005 |
@@ -40,7 +40,7 @@ Rating: 4.53 (Ranked 542)
 | Done it All | 1.00% | ~112 |
 | Kingpin | 0.60% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,168 (Ranked 163)  
+Progressed: 11,169 (Ranked 163)  
 Completed: 65 (0.58%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 65 (0.58%) (Ranked 198)
 | 2023-11-30 | 11,137 | 65 |
 | 2023-12-01 | 11,144 | 65 |
 | 2023-12-02 | 11,154 | 65 |
-| 2023-12-03 | 11,168 | 65 |
+| 2023-12-03 | 11,169 | 65 |
 ## Awards
 Max (Great Boss Battles): 113  (Ranked 349)  
 Sum: 113 (Ranked 445)  
@@ -417,3 +417,4 @@ Diff (max vs sum): -96
 | 2023-11-26 | 4.54 | 112 | 112 |
 | 2023-11-28 | 4.53 | 112 | 112 |
 | 2023-11-29 | 4.53 | 113 | 113 |
+| 2023-12-03 | 4.52 | 113 | 113 |

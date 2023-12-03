@@ -6,48 +6,49 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 1.00% | ~10,671 |
-| Skillful | 1.00% | ~10,671 |
-| Zealous | 0.90% | ~9,604 |
-| Not half bad | 0.80% | ~8,537 |
-| Apt Survivor | 0.70% | ~7,470 |
-| Survival Treasures | 0.70% | ~7,470 |
-| I | 0.70% | ~7,470 |
-| Make Some Noise | 0.70% | ~7,470 |
-| No one left behind | 0.60% | ~6,402 |
-| Handyman | 0.60% | ~6,402 |
-| Sorted | 0.60% | ~6,402 |
-| Resurgence | 0.60% | ~6,402 |
-| The Grand Sacrifice | 0.50% | ~5,335 |
-| Medic | 0.50% | ~5,335 |
-| Bloody Millionaire | 0.50% | ~5,335 |
-| Healthy Obsession | 0.50% | ~5,335 |
-| Preemptive Strike | 0.50% | ~5,335 |
-| Humanitarian | 0.50% | ~5,335 |
-| Agonizing Escape | 0.40% | ~4,268 |
-| Backdoor Escape | 0.40% | ~4,268 |
-| I've got your back | 0.40% | ~4,268 |
-| Perfect Escape | 0.40% | ~4,268 |
-| Perfect Killing | 0.40% | ~4,268 |
-| Apt Killer | 0.40% | ~4,268 |
-| Risk it all | 0.40% | ~4,268 |
-| II | 0.40% | ~4,268 |
-| III | 0.40% | ~4,268 |
-| Engineer | 0.40% | ~4,268 |
-| Wounded Healer | 0.40% | ~4,268 |
-| Close Shave | 0.40% | ~4,268 |
-| Blood on your hands | 0.30% | ~3,201 |
-| Escape Artist | 0.30% | ~3,201 |
-| Gifts for the Fog | 0.30% | ~3,201 |
-| Vulture | 0.30% | ~3,201 |
-| III-50 | 0.30% | ~3,201 |
-| First to the Punch | 0.30% | ~3,201 |
-| Operation: Survival | 0.30% | ~3,201 |
-| Every Last Drop | 0.30% | ~3,201 |
-| With Scars to Show | 0.30% | ~3,201 |
-| Flight to Freedom | 0.30% | ~3,201 |
-| Lifting The Fog | 0.30% | ~3,201 |
-| Second Act | 0.30% | ~3,201 |
+| It wakes | 1.00% | ~10,672 |
+| Skillful | 1.00% | ~10,672 |
+| Zealous | 0.90% | ~9,605 |
+| Not half bad | 0.80% | ~8,538 |
+| Apt Survivor | 0.70% | ~7,471 |
+| Survival Treasures | 0.70% | ~7,471 |
+| I | 0.70% | ~7,471 |
+| Make Some Noise | 0.70% | ~7,471 |
+| No one left behind | 0.60% | ~6,403 |
+| Medic | 0.60% | ~6,403 |
+| Handyman | 0.60% | ~6,403 |
+| Sorted | 0.60% | ~6,403 |
+| Resurgence | 0.60% | ~6,403 |
+| The Grand Sacrifice | 0.50% | ~5,336 |
+| Perfect Escape | 0.50% | ~5,336 |
+| Bloody Millionaire | 0.50% | ~5,336 |
+| II | 0.50% | ~5,336 |
+| Healthy Obsession | 0.50% | ~5,336 |
+| Preemptive Strike | 0.50% | ~5,336 |
+| Humanitarian | 0.50% | ~5,336 |
+| Agonizing Escape | 0.40% | ~4,269 |
+| Backdoor Escape | 0.40% | ~4,269 |
+| I've got your back | 0.40% | ~4,269 |
+| Perfect Killing | 0.40% | ~4,269 |
+| Apt Killer | 0.40% | ~4,269 |
+| Risk it all | 0.40% | ~4,269 |
+| III | 0.40% | ~4,269 |
+| Engineer | 0.40% | ~4,269 |
+| Wounded Healer | 0.40% | ~4,269 |
+| Close Shave | 0.40% | ~4,269 |
+| Blood on your hands | 0.30% | ~3,202 |
+| Escape Artist | 0.30% | ~3,202 |
+| Gifts for the Fog | 0.30% | ~3,202 |
+| Vulture | 0.30% | ~3,202 |
+| III-50 | 0.30% | ~3,202 |
+| First to the Punch | 0.30% | ~3,202 |
+| Operation: Survival | 0.30% | ~3,202 |
+| Every Last Drop | 0.30% | ~3,202 |
+| Raccoon City Recruit | 0.30% | ~3,202 |
+| With Scars to Show | 0.30% | ~3,202 |
+| Flight to Freedom | 0.30% | ~3,202 |
+| Lifting The Fog | 0.30% | ~3,202 |
+| Second Act | 0.30% | ~3,202 |
 | A bite for the Entity | 0.20% | ~2,134 |
 | Blood on your face | 0.20% | ~2,134 |
 | Made it out alive! | 0.20% | ~2,134 |
@@ -74,7 +75,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Classy Act | 0.20% | ~2,134 |
 | End of Days | 0.20% | ~2,134 |
 | Insult and Injury | 0.20% | ~2,134 |
-| Raccoon City Recruit | 0.20% | ~2,134 |
 | Outrun the Overlap | 0.20% | ~2,134 |
 | A Fast Death | 0.20% | ~2,134 |
 | Chorus of Chaos | 0.20% | ~2,134 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,067 |
 | Adept Good Guy | 0.10% | ~1,067 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,067,079 (Ranked 14)  
+Progressed: 1,067,239 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -466,7 +466,7 @@ Completed: 61 (0.01%) (Ranked 345)
 | 2023-11-30 | 1,056,530 | 61 |
 | 2023-12-01 | 1,059,298 | 61 |
 | 2023-12-02 | 1,062,340 | 61 |
-| 2023-12-03 | 1,067,079 | 61 |
+| 2023-12-03 | 1,067,239 | 61 |
 ## Awards
 Max (Diverse Characters): 37,095  (Ranked 15)  
 Sum: 282,162 (Ranked 12)  

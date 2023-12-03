@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -560,7 +560,7 @@
   ],
   "EOS_Progressed": 16840,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -15598,9 +15598,9 @@
       "ID": "tpote_achievement_3",
       "SetID": "3jcf6c3",
       "Name": "Let there be darkness",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5220
+      "UsersEstimate": 5389
     },
     {
       "ID": "tpote_achievement_30",
@@ -15758,8 +15758,8 @@
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-12-03T21:05:51.2900553+00:00",
+  "LastChanged_Achievements": "2023-12-03T22:06:05.2202585+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:14.9686486+00:00",
-  "LastUpdate_Ratings": "2023-12-03T20:57:53.5764253+00:00",
-  "LastUpdate_Achievements": "2023-12-03T21:05:51.2901482+00:00"
+  "LastUpdate_Ratings": "2023-12-03T21:58:01.0270051+00:00",
+  "LastUpdate_Achievements": "2023-12-03T22:06:05.2203472+00:00"
 }

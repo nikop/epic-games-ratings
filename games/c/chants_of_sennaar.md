@@ -11,8 +11,8 @@
 | A new dawn | 26.00% | ~224 |
 | Scholar | 24.00% | ~206 |
 | True G3M4R | 23.00% | ~198 |
+| The darkness | 23.00% | ~198 |
 | A good beginning | 22.00% | ~189 |
-| The darkness | 22.00% | ~189 |
 | One last step | 21.00% | ~181 |
 | I did it | 20.00% | ~172 |
 | Cable guy | 20.00% | ~172 |
@@ -30,7 +30,7 @@
 | For its own good | 10.00% | ~86 |
 | Fashion victim | 5.00% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 860 (Ranked 272)  
+Progressed: 860 (Ranked 273)  
 Completed: 49 (5.70%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |

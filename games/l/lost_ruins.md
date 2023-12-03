@@ -10,14 +10,14 @@
 | Boss Killer | 23.00% | ~115 |
 | The Fallen | 21.00% | ~105 |
 | Artifact Collector | 20.00% | ~100 |
-| Trap Master | 19.00% | ~95 |
+| Trap Master | 20.00% | ~100 |
 | Ghost Buster | 16.00% | ~80 |
 | Iconoclasm | 16.00% | ~80 |
 | Reincarnation | 16.00% | ~80 |
+| Librarian | 14.00% | ~70 |
 | Gladiator | 13.00% | ~65 |
-| Librarian | 13.00% | ~65 |
+| Lumberjack | 13.00% | ~65 |
 | Orcs Must Die! | 13.00% | ~65 |
-| Lumberjack | 12.00% | ~60 |
 | The End | 12.00% | ~60 |
 | Troubleshooter | 11.00% | ~55 |
 | Money Swag | 8.00% | ~40 |

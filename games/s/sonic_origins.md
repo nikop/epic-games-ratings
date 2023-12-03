@@ -21,7 +21,7 @@ Number of Ratings: 154  (23.09.2022)
 | Miles "Tails" Prower | 56.00% | ~353 |
 | Boss Rush Attempt | 50.00% | ~315 |
 | Cleared Sonic the Hedgehog | 47.00% | ~296 |
-| Super Sonic | 42.00% | ~265 |
+| Super Sonic | 43.00% | ~271 |
 | Shut Down Metal Sonic | 40.00% | ~252 |
 | Beware Stingers! | 40.00% | ~252 |
 | Museum Time | 40.00% | ~252 |

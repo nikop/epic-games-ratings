@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -771,9 +771,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3333,
+  "EOS_Progressed": 3334,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4011,6 +4011,11 @@
       "Time": "2023-12-03T09:04:56.6520907+00:00",
       "NumProgressed": 3333,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T22:04:52.9442703+00:00",
+      "NumProgressed": 3334,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4084,9 +4089,9 @@
       "ID": "CompletedAllShipUpgrades",
       "SetID": "3jha1np",
       "Name": "Patron of Deimos",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 23
     },
     {
       "ID": "Dominus",
@@ -4148,9 +4153,9 @@
       "ID": "FrequentWarpSurges",
       "SetID": "3jha1np",
       "Name": "Unstable Immaterium",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 3
     },
     {
       "ID": "FullBarracks",
@@ -4420,17 +4425,17 @@
       "ID": "ReaperDefeated_Dolorus",
       "SetID": "3jha1np",
       "Name": "Engine Kill",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 23
     },
     {
       "ID": "ReaperDefeated_Mortus",
       "SetID": "3jha1np",
       "Name": "Harvest No More",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 23
     },
     {
       "ID": "ReaperDefeated_Necrosus",
@@ -4500,9 +4505,9 @@
       "ID": "ExperiencedCallidus",
       "SetID": "2im8phi",
       "Name": "Reign of Confusion",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 13
     },
     {
       "ID": "ExperiencedCulexus",
@@ -4524,9 +4529,9 @@
       "ID": "ExperiencedVindicare",
       "SetID": "2im8phi",
       "Name": "Deadshot",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 3
     },
     {
       "ID": "Kills_BioMeltdown",
@@ -4540,9 +4545,9 @@
       "ID": "Kills_TaintedSons_Execution",
       "SetID": "2im8phi",
       "Name": "Suffer Not the Mutant",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 13
     },
     {
       "ID": "MissionVictory_BoardingAction",
@@ -4565,21 +4570,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3333,
+      "Progressed": 3334,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3333,
+      "Progressed": 3334,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-02T12:02:59.4085932+00:00",
-  "LastChanged_Achievements": "2023-12-03T21:04:40.2665064+00:00",
+  "LastChanged_Achievements": "2023-12-03T22:04:52.94427+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:12.7786681+00:00",
-  "LastUpdate_Ratings": "2023-12-03T21:02:42.7895787+00:00",
-  "LastUpdate_Achievements": "2023-12-03T21:04:40.2665656+00:00"
+  "LastUpdate_Ratings": "2023-12-03T22:02:42.0018087+00:00",
+  "LastUpdate_Achievements": "2023-12-03T22:04:52.9443377+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -8991,9 +8991,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 811012,
+  "EOS_Progressed": 811021,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 938,
+  "EOS_NewPlayers": 943,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -34566,6 +34566,11 @@
       "Time": "2023-12-03T21:08:40.2943114+00:00",
       "NumProgressed": 811012,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-03T22:08:44.8984642+00:00",
+      "NumProgressed": 811021,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 82,
@@ -34601,7 +34606,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 129762
+      "UsersEstimate": 129763
     },
     {
       "ID": "Awakening",
@@ -34609,7 +34614,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 170313
+      "UsersEstimate": 170314
     },
     {
       "ID": "BadGirl",
@@ -34641,7 +34646,7 @@
       "Name": "Bard",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24330
+      "UsersEstimate": 24331
     },
     {
       "ID": "Bastard",
@@ -34649,7 +34654,7 @@
       "Name": "Bastard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32440
+      "UsersEstimate": 32441
     },
     {
       "ID": "BlacksmithsSon",
@@ -34657,7 +34662,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 259524
+      "UsersEstimate": 259527
     },
     {
       "ID": "Bookworm",
@@ -34665,7 +34670,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 121652
+      "UsersEstimate": 121653
     },
     {
       "ID": "Buddy",
@@ -34673,7 +34678,7 @@
       "Name": "Buddy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 97321
+      "UsersEstimate": 97323
     },
     {
       "ID": "Casanova",
@@ -34689,7 +34694,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 202753
+      "UsersEstimate": 202755
     },
     {
       "ID": "Chivalrous",
@@ -34729,7 +34734,7 @@
       "Name": "Conqueror",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24330
+      "UsersEstimate": 24331
     },
     {
       "ID": "Convict",
@@ -34737,7 +34742,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 81101
+      "UsersEstimate": 81102
     },
     {
       "ID": "DavidHorak",
@@ -34777,7 +34782,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 186533
+      "UsersEstimate": 186535
     },
     {
       "ID": "Fighter",
@@ -34793,7 +34798,7 @@
       "Name": "Firestarter",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 129762
+      "UsersEstimate": 129763
     },
     {
       "ID": "Freud",
@@ -34849,7 +34854,7 @@
       "Name": "Ginger in a Pickle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24330
+      "UsersEstimate": 24331
     },
     {
       "ID": "Haggler",
@@ -34857,7 +34862,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72991
+      "UsersEstimate": 72992
     },
     {
       "ID": "HardcoreHenry",
@@ -34873,7 +34878,7 @@
       "Name": "Hunter",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32440
+      "UsersEstimate": 32441
     },
     {
       "ID": "ICanStop",
@@ -34897,7 +34902,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 105432
+      "UsersEstimate": 105433
     },
     {
       "ID": "Judas",
@@ -34921,7 +34926,7 @@
       "Name": "Kingdom did not come",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24330
+      "UsersEstimate": 24331
     },
     {
       "ID": "Knightrider",
@@ -35049,7 +35054,7 @@
       "Name": "Plague Doctor",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32440
+      "UsersEstimate": 32441
     },
     {
       "ID": "Ranger",
@@ -35057,7 +35062,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 162202
+      "UsersEstimate": 162204
     },
     {
       "ID": "RevenantOfLedechko",
@@ -35097,7 +35102,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 162202
+      "UsersEstimate": 162204
     },
     {
       "ID": "SerialKiller",
@@ -35113,7 +35118,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89211
+      "UsersEstimate": 89212
     },
     {
       "ID": "Sniper",
@@ -35153,7 +35158,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 97321
+      "UsersEstimate": 97323
     },
     {
       "ID": "TisButAScratch",
@@ -35185,7 +35190,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89211
+      "UsersEstimate": 89212
     },
     {
       "ID": "TrialAndError",
@@ -35232,15 +35237,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 811012,
+      "Progressed": 811021,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-12-03T20:57:59.1330486+00:00",
-  "LastChanged_Achievements": "2023-12-03T21:08:40.2943111+00:00",
+  "LastChanged_Achievements": "2023-12-03T22:08:44.8984634+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:12.1153377+00:00",
-  "LastUpdate_Ratings": "2023-12-03T20:57:59.1330491+00:00",
-  "LastUpdate_Achievements": "2023-12-03T21:08:40.2944716+00:00"
+  "LastUpdate_Ratings": "2023-12-03T21:58:06.8847104+00:00",
+  "LastUpdate_Achievements": "2023-12-03T22:08:44.8986138+00:00"
 }
