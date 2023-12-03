@@ -119,6 +119,7 @@
 | [Learning Factory](../games/l/learning_factory.md) | 57 | 1,000 |
 | [LOOPMANCER](../games/l/loopmancer.md) | 57 | 1,000 |
 | [Riverbond](../games/r/riverbond.md) | 57 | 1,000 |
+| [Sudoku Zenkai](../games/b/bbae2cd3c9a3495f94e3223c91bdc69a.md) | 57 | 1,000 |
 | [The Surge 2](../games/t/the_surge_2.md) | 57 | 1,000 |
 | [Hell is Others](../games/h/hell_is_others.md) | 56 | 1,000 |
 | [Sable](../games/s/sable.md) | 56 | 1,000 |
