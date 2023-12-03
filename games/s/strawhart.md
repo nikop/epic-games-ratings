@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What could possibly go wrong? | 69.00% | ~9 |
+| What could possibly go wrong? | 77.00% | ~10 |
 | Activist | 38.00% | ~5 |
 | Geneva Suggestion | 31.00% | ~4 |
 | The Archive is Incomplete | 23.00% | ~3 |
@@ -17,16 +17,16 @@
 | Wingman | 15.00% | ~2 |
 | The Power of... Flight? | 15.00% | ~2 |
 | Critical Infrastructure | 15.00% | ~2 |
+| Daemon Deferred | 15.00% | ~2 |
 | Master Archivist | 8.00% | ~1 |
 | Petting Zoo | 8.00% | ~1 |
 | A Blast for You and a Blasphemy | 8.00% | ~1 |
-| Daemon Deferred | 8.00% | ~1 |
 | Apocryphile | 0.00% | ~0 |
 | Aggressive Evangelist | 0.00% | ~0 |
 | Third Eye | 0.00% | ~0 |
 | Revisionist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13 (Ranked 593)  
+Progressed: 13 (Ranked 594)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -411,9 +411,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 3731,
+  "EOS_Progressed": 3732,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -6176,6 +6176,11 @@
       "Time": "2023-12-02T14:04:27.7321593+00:00",
       "NumProgressed": 3731,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-03T07:05:20.6699676+00:00",
+      "NumProgressed": 3732,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -6219,7 +6224,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1977
+      "UsersEstimate": 1978
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -6331,7 +6336,7 @@
       "Name": "Hardened In The Heat Of Battle",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ACH_MAX_GUNNER",
@@ -6379,7 +6384,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 2276
+      "UsersEstimate": 2277
     },
     {
       "ID": "ACH_MISSION_02",
@@ -6387,15 +6392,15 @@
       "Name": "First Steps Into Madness",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1977
+      "UsersEstimate": 1978
     },
     {
       "ID": "ACH_MISSION_03",
       "SetID": "816efe",
       "Name": "Harper\u0027s Hell",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1754
+      "UsersEstimate": 1717
     },
     {
       "ID": "ACH_MISSION_04",
@@ -6435,7 +6440,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "ACH_MISSION_09",
@@ -6451,7 +6456,7 @@
       "Name": "The Spire",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1007
+      "UsersEstimate": 1008
     },
     {
       "ID": "ACH_MISSION_11",
@@ -6483,7 +6488,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2761
+      "UsersEstimate": 2762
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -6491,7 +6496,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 3022
+      "UsersEstimate": 3023
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -6499,7 +6504,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 2201
+      "UsersEstimate": 2202
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -6546,7 +6551,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3731,
+      "Progressed": 3732,
       "Completed": 3
     }
   ],
@@ -6554,8 +6559,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-27T19:00:30.5070176+00:00",
-  "LastChanged_Achievements": "2023-12-03T06:04:23.519091+00:00",
+  "LastChanged_Achievements": "2023-12-03T07:05:20.6699668+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:59.8207235+00:00",
-  "LastUpdate_Ratings": "2023-12-03T05:58:51.208691+00:00",
-  "LastUpdate_Achievements": "2023-12-03T06:04:23.5191365+00:00"
+  "LastUpdate_Ratings": "2023-12-03T06:59:43.897749+00:00",
+  "LastUpdate_Achievements": "2023-12-03T07:05:20.6700162+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-making-of-karateka-7d9a6c",
   "Ranking_EOS_Progress": 558,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewPlayers": 368,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-08-29T16:00:00+00:00",
@@ -176,17 +176,17 @@
       "ID": "feather_cap",
       "SetID": "l4g2eh",
       "Name": "Feather in Your Cap",
-      "Percentage": 14,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "getting_point",
       "SetID": "l4g2eh",
       "Name": "Getting The Point",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "hit_target",
@@ -224,9 +224,9 @@
       "ID": "modern_hero",
       "SetID": "l4g2eh",
       "Name": "Modern Hero",
-      "Percentage": 14,
+      "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "nothing_personal",
@@ -303,8 +303,8 @@
   ],
   "FirstSeen": "2023-09-01T23:59:35.8953756+00:00",
   "FirstSeenAchievements": "2023-08-04T19:02:29.8301885+00:00",
-  "LastChanged_Achievements": "2023-12-03T06:04:41.1904307+00:00",
+  "LastChanged_Achievements": "2023-12-03T07:05:44.1027707+00:00",
   "LastUpdate_AppInfo": "2023-12-02T03:57:02.2670281+00:00",
-  "LastUpdate_Ratings": "2023-12-03T05:57:41.9020299+00:00",
-  "LastUpdate_Achievements": "2023-12-03T06:04:41.190461+00:00"
+  "LastUpdate_Ratings": "2023-12-03T06:58:06.86986+00:00",
+  "LastUpdate_Achievements": "2023-12-03T07:05:44.1027806+00:00"
 }

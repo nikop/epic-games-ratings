@@ -20,10 +20,10 @@ Number of Ratings: 292  (23.09.2022)
 | Landlord Extraordinaire | 3.00% | ~10 |
 | Master | 3.00% | ~10 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~10 |
+| The Song of Stoutheart | 2.00% | ~7 |
 | Such A Fungi | 2.00% | ~7 |
 | Trojan Horse | 2.00% | ~7 |
 | Pyrrhic Victory | 2.00% | ~7 |
-| The Song of Stoutheart | 1.00% | ~3 |
 | This Spot's Taken | 1.00% | ~3 |
 | Deepstrike | 1.00% | ~3 |
 | Infernal Influence | 1.00% | ~3 |

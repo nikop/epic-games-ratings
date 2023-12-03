@@ -7099,10 +7099,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 12068,
       "NumberOfAwardsMax": 7869
+    },
+    {
+      "Time": "2023-12-03T07:00:50.9513466+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 12072,
+      "NumberOfAwardsMax": 7869
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12068,
+  "NumberOfAwards": 12072,
   "NumberOfAwardsMax": 7869,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7158,12 +7164,12 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 506
+      "Count": 510
     }
   ],
-  "EOS_Progressed": 729290,
+  "EOS_Progressed": 729304,
   "EOS_Completed": 2461,
-  "EOS_NewPlayers": 3966,
+  "EOS_NewPlayers": 3957,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -33136,6 +33142,11 @@
       "Time": "2023-12-03T06:08:05.4306518+00:00",
       "NumProgressed": 729290,
       "NumCompleted": 2461
+    },
+    {
+      "Time": "2023-12-03T07:08:52.1915925+00:00",
+      "NumProgressed": 729304,
+      "NumCompleted": 2461
     }
   ],
   "TotalAchievements": 51,
@@ -33179,7 +33190,7 @@
       "Name": "Make it So",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3646
+      "UsersEstimate": 3647
     },
     {
       "ID": "ach_big_name_in_town",
@@ -33219,7 +33230,7 @@
       "Name": "On Safari",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3646
+      "UsersEstimate": 3647
     },
     {
       "ID": "ach_defensive",
@@ -33251,7 +33262,7 @@
       "Name": "Smorgasbord",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3646
+      "UsersEstimate": 3647
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -33475,7 +33486,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3646
+      "UsersEstimate": 3647
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -33554,22 +33565,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 729290,
+      "Progressed": 729304,
       "Completed": 2461
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 54832,
-      "Completed": 36622
+      "Progressed": 54846,
+      "Completed": 36623
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-12-02T16:00:53.3293711+00:00",
-  "LastChanged_Achievements": "2023-12-03T06:08:05.4306515+00:00",
+  "LastChanged": "2023-12-03T07:00:50.9513465+00:00",
+  "LastChanged_Achievements": "2023-12-03T07:08:52.1915921+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:31.1640976+00:00",
-  "LastUpdate_Ratings": "2023-12-03T05:59:38.9915557+00:00",
-  "LastUpdate_Achievements": "2023-12-03T06:08:05.4307769+00:00"
+  "LastUpdate_Ratings": "2023-12-03T07:00:50.951347+00:00",
+  "LastUpdate_Achievements": "2023-12-03T07:08:52.1917115+00:00"
 }

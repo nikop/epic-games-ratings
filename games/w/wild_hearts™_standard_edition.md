@@ -9,9 +9,9 @@
 | Commencing of Quests | 75.00% | ~266 |
 | Budding Conjuror | 74.00% | ~262 |
 | Man-Machine Master | 66.00% | ~234 |
+| Mountain Splitter | 65.00% | ~230 |
 | Charmed by the Hunt | 65.00% | ~230 |
 | Fusion Conjuror | 64.00% | ~227 |
-| Mountain Splitter | 64.00% | ~227 |
 | Subsistence Skills | 64.00% | ~227 |
 | Memory Rouser | 63.00% | ~223 |
 | Kemono Hunter | 59.00% | ~209 |

@@ -25,35 +25,35 @@
 | Shard Spender | 20.00% | ~19 |
 | Unbeatable | 18.00% | ~17 |
 | Aquarian Champion | 17.00% | ~16 |
-| Astral Seeker | 15.00% | ~14 |
+| Astral Seeker | 16.00% | ~15 |
+| Heart Gate | 15.00% | ~14 |
 | Stellar Haste | 15.00% | ~14 |
-| Heart Gate | 14.00% | ~13 |
-| Favored by the Cosmos | 13.00% | ~12 |
-| The Corruption Goddess | 13.00% | ~12 |
-| The Goddes Avatar | 13.00% | ~12 |
+| Favored by the Cosmos | 14.00% | ~13 |
+| The Corruption Goddess | 14.00% | ~13 |
+| The Goddes Avatar | 14.00% | ~13 |
+| Heavy Purger | 11.00% | ~11 |
 | Sadistic Plan | 11.00% | ~11 |
-| Heavy Purger | 10.00% | ~10 |
 | Wave Bender | 9.00% | ~9 |
 | Apian Hero | 9.00% | ~9 |
 | Anomaly Control | 8.00% | ~8 |
 | Can't touch this | 8.00% | ~8 |
+| The Chaos Artisan | 8.00% | ~8 |
+| The Dark Moon | 8.00% | ~8 |
+| Behenian Hero | 8.00% | ~8 |
 | Lacertian Hero | 8.00% | ~8 |
 | Artificer | 7.00% | ~7 |
-| The Chaos Artisan | 7.00% | ~7 |
-| The Dark Moon | 7.00% | ~7 |
+| Denying Destiny | 7.00% | ~7 |
 | The Distorted Sage | 7.00% | ~7 |
-| Behenian Hero | 7.00% | ~7 |
-| Denying Destiny | 6.00% | ~6 |
 | Behenian Mastery | 6.00% | ~6 |
 | If I Had Failed... | 5.00% | ~5 |
 | Purification Avatar | 5.00% | ~5 |
 | The Abyssal Terror | 5.00% | ~5 |
-| Aquarian Hero | 4.00% | ~4 |
+| Aquarian Hero | 5.00% | ~5 |
+| Astrarium of Holding | 4.00% | ~4 |
 | Aquarian Mastery | 4.00% | ~4 |
 | Eridanian Hero | 4.00% | ~4 |
 | Lacertian Mastery | 4.00% | ~4 |
 | Noctuan Hero | 4.00% | ~4 |
-| Astrarium of Holding | 3.00% | ~3 |
 | Critical Twist | 3.00% | ~3 |
 | Reflexive Mind | 3.00% | ~3 |
 | The Ardent Prince | 3.00% | ~3 |

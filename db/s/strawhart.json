@@ -2,9 +2,9 @@
   "ID": "59c7280154cc4fe1a7c3a4a7d6f74adf",
   "Name": "Strawhart",
   "ProductSlug": "strawhart-776f4d",
-  "Ranking_EOS_Progress": 593,
+  "Ranking_EOS_Progress": 594,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 492,
+  "Ranking_EOS_NewPlayers": 491,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-04-20T08:00:00+00:00",
@@ -229,9 +229,9 @@
       "ID": "ACH_STRAWHART_AWAKEN",
       "SetID": "64pp6bc",
       "Name": "What could possibly go wrong?",
-      "Percentage": 69,
+      "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_STRAWHART_DEFEAT",
@@ -245,9 +245,9 @@
       "ID": "ACH_STRAWHART_DENY",
       "SetID": "64pp6bc",
       "Name": "Daemon Deferred",
-      "Percentage": 8,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -262,8 +262,8 @@
   "FirstSeenRating": "2023-04-21T23:57:25.9719541+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.1466412+00:00",
   "LastChanged": "2023-04-21T23:57:25.9719541+00:00",
-  "LastChanged_Achievements": "2023-12-03T06:05:35.8927656+00:00",
+  "LastChanged_Achievements": "2023-12-03T07:06:55.820204+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:18.3371167+00:00",
-  "LastUpdate_Ratings": "2023-12-03T05:59:21.1309274+00:00",
-  "LastUpdate_Achievements": "2023-12-03T06:05:35.8927771+00:00"
+  "LastUpdate_Ratings": "2023-12-03T07:00:26.1368984+00:00",
+  "LastUpdate_Achievements": "2023-12-03T07:06:55.8202167+00:00"
 }

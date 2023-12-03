@@ -1960,9 +1960,9 @@
       "ID": "AbAeterno",
       "SetID": "1n308hc",
       "Name": "Ab Aeterno",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "AbInitio",
@@ -2192,9 +2192,9 @@
       "ID": "NewBeginning",
       "SetID": "1n308hc",
       "Name": "A New Beginning",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 17
     },
     {
       "ID": "NewMorality",
@@ -2232,9 +2232,9 @@
       "ID": "PrometheusUnbound",
       "SetID": "1n308hc",
       "Name": "Prometheus Unbound",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 25
     },
     {
       "ID": "PuzzleFiend",
@@ -2328,9 +2328,9 @@
       "ID": "TheEdgeOfForever",
       "SetID": "1n308hc",
       "Name": "The Edge of Forever",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TheFuture",
@@ -2441,8 +2441,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-02T13:02:26.2646778+00:00",
-  "LastChanged_Achievements": "2023-12-03T06:04:09.0098102+00:00",
+  "LastChanged_Achievements": "2023-12-03T07:05:01.3025251+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-03T05:57:15.0605371+00:00",
-  "LastUpdate_Achievements": "2023-12-03T06:04:09.009855+00:00"
+  "LastUpdate_Ratings": "2023-12-03T06:57:31.2880321+00:00",
+  "LastUpdate_Achievements": "2023-12-03T07:05:01.302585+00:00"
 }

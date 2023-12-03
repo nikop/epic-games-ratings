@@ -4,7 +4,7 @@
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 474,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 339,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
@@ -382,9 +382,9 @@
       "ID": "christ_the_saviour",
       "SetID": "7i36ba9",
       "Name": "Christ the Saviour",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "cold_feet",
@@ -430,9 +430,9 @@
       "ID": "join_the_legal_team",
       "SetID": "7i36ba9",
       "Name": "Join the Legal Team",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "josh_the_saviour",
@@ -589,8 +589,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-12-03T06:08:48.1109145+00:00",
+  "LastChanged_Achievements": "2023-12-03T07:09:48.8798492+00:00",
   "LastUpdate_AppInfo": "2023-12-02T03:57:03.8689848+00:00",
-  "LastUpdate_Ratings": "2023-12-03T05:57:15.1792839+00:00",
-  "LastUpdate_Achievements": "2023-12-03T06:08:48.1109273+00:00"
+  "LastUpdate_Ratings": "2023-12-03T06:57:31.4767779+00:00",
+  "LastUpdate_Achievements": "2023-12-03T07:09:48.8798662+00:00"
 }

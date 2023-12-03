@@ -2,9 +2,9 @@
   "ID": "be7cf2a479094ae88f605dd9f77430cf",
   "Name": "Asterix and Obelix Heroes",
   "ProductSlug": "asterix-and-obelix-heroes",
-  "Ranking_EOS_Progress": 593,
+  "Ranking_EOS_Progress": 592,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 431,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13,
+  "EOS_Progressed": 14,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -90,6 +90,11 @@
       "Time": "2023-11-27T00:05:41.8037858+00:00",
       "NumProgressed": 13,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T07:04:04.0291821+00:00",
+      "NumProgressed": 14,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T17:02:30.1575422+00:00",
@@ -100,7 +105,7 @@
       "ID": "1",
       "SetID": "5jnn47e",
       "Name": "First Steps of a long journey",
-      "Percentage": 69,
+      "Percentage": 64,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -108,7 +113,7 @@
       "ID": "10",
       "SetID": "5jnn47e",
       "Name": "Play with fire",
-      "Percentage": 85,
+      "Percentage": 79,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -124,7 +129,7 @@
       "ID": "12",
       "SetID": "5jnn47e",
       "Name": "Always follow the nose",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -148,7 +153,7 @@
       "ID": "15",
       "SetID": "5jnn47e",
       "Name": "Most beautiful",
-      "Percentage": 54,
+      "Percentage": 50,
       "XP": 100,
       "UsersEstimate": 7
     },
@@ -156,7 +161,7 @@
       "ID": "16",
       "SetID": "5jnn47e",
       "Name": "Get your parsley",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -172,7 +177,7 @@
       "ID": "18",
       "SetID": "5jnn47e",
       "Name": "The fish is not fresh",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -188,7 +193,7 @@
       "ID": "2",
       "SetID": "5jnn47e",
       "Name": "Complete Adventure Gaul",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -260,7 +265,7 @@
       "ID": "8",
       "SetID": "5jnn47e",
       "Name": "Victory is ours",
-      "Percentage": 85,
+      "Percentage": 79,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -268,7 +273,7 @@
       "ID": "9",
       "SetID": "5jnn47e",
       "Name": "Nothing is holding you back",
-      "Percentage": 46,
+      "Percentage": 43,
       "XP": 10,
       "UsersEstimate": 6
     }
@@ -277,14 +282,14 @@
     {
       "ID": "5jnn47e",
       "IsBase": true,
-      "Progressed": 13,
+      "Progressed": 14,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-22T17:57:35.5239648+00:00",
   "FirstSeenAchievements": "2023-10-05T17:02:30.1575422+00:00",
-  "LastChanged_Achievements": "2023-12-03T06:03:25.1510955+00:00",
+  "LastChanged_Achievements": "2023-12-03T07:04:04.0291816+00:00",
   "LastUpdate_AppInfo": "2023-11-30T19:57:08.8157271+00:00",
-  "LastUpdate_Ratings": "2023-12-03T05:59:01.4024615+00:00",
-  "LastUpdate_Achievements": "2023-12-03T06:03:25.1511053+00:00"
+  "LastUpdate_Ratings": "2023-12-03T06:59:58.0030293+00:00",
+  "LastUpdate_Achievements": "2023-12-03T07:04:04.0291944+00:00"
 }

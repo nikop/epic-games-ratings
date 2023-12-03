@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1949,
+  "EOS_Progressed": 1950,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7388,6 +7388,11 @@
       "Time": "2023-12-03T03:08:17.1802508+00:00",
       "NumProgressed": 1949,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T07:08:30.7487338+00:00",
+      "NumProgressed": 1950,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7399,7 +7404,7 @@
       "Name": "Know The Enemy",
       "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -7423,7 +7428,7 @@
       "Name": "Player Betrayer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -7471,7 +7476,7 @@
       "Name": "Silver Achiever",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "objective_headquarters_10",
@@ -7479,7 +7484,7 @@
       "Name": "Keeping Busy",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "objective_headquarters_15",
@@ -7543,7 +7548,7 @@
       "Name": "Major",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "objective_hero_level_up_6",
@@ -7639,7 +7644,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -7655,7 +7660,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -7663,7 +7668,7 @@
       "Name": "Advanced Interceptors",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "objective_research_unlock_ground_vehicle_tier_4",
@@ -7671,7 +7676,7 @@
       "Name": "Titan Tanks",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "objective_research_unlock_heavy_infantry_tier_4",
@@ -7679,7 +7684,7 @@
       "Name": "Shock Troops",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "objective_research_unlock_light_infantry_tier_4",
@@ -7702,7 +7707,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1949,
+      "Progressed": 1950,
       "Completed": 1
     }
   ],
@@ -7710,8 +7715,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-21T23:00:15.982699+00:00",
-  "LastChanged_Achievements": "2023-12-03T06:06:18.2207957+00:00",
+  "LastChanged_Achievements": "2023-12-03T07:08:30.7487333+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:25.6864843+00:00",
-  "LastUpdate_Ratings": "2023-12-03T05:57:50.6681378+00:00",
-  "LastUpdate_Achievements": "2023-12-03T06:06:18.2208403+00:00"
+  "LastUpdate_Ratings": "2023-12-03T06:58:19.0591914+00:00",
+  "LastUpdate_Achievements": "2023-12-03T07:08:30.7487779+00:00"
 }

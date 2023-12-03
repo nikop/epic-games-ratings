@@ -5,8 +5,8 @@ Rating: 4.53 (Ranked 542)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 47.00% | ~5,244 |
-| Greasy Palms | 42.00% | ~4,686 |
+| Legal Counsel | 47.00% | ~5,245 |
+| Greasy Palms | 42.00% | ~4,687 |
 | South American Connection | 26.00% | ~2,901 |
 | Life of the Party | 21.00% | ~2,343 |
 | Tommy Two-Wheels | 16.00% | ~1,785 |
@@ -18,7 +18,7 @@ Rating: 4.53 (Ranked 542)
 | Mischief Managed | 9.00% | ~1,004 |
 | Vice City Mogul | 7.00% | ~781 |
 | Bloodstained Hands | 7.00% | ~781 |
-| Catch Me if You Can | 6.00% | ~669 |
+| Catch Me if You Can | 6.00% | ~670 |
 | Not my First Time | 5.00% | ~558 |
 | Grand Theft Auto | 5.00% | ~558 |
 | High Quality H2O | 4.00% | ~446 |
@@ -40,7 +40,7 @@ Rating: 4.53 (Ranked 542)
 | Done it All | 0.90% | ~100 |
 | Kingpin | 0.60% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,158 (Ranked 163)  
+Progressed: 11,159 (Ranked 163)  
 Completed: 65 (0.58%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 65 (0.58%) (Ranked 198)
 | 2023-11-30 | 11,137 | 65 |
 | 2023-12-01 | 11,144 | 65 |
 | 2023-12-02 | 11,154 | 65 |
-| 2023-12-03 | 11,158 | 65 |
+| 2023-12-03 | 11,159 | 65 |
 ## Awards
 Max (Great Boss Battles): 113  (Ranked 349)  
 Sum: 113 (Ranked 443)  

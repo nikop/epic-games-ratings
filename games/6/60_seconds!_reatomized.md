@@ -5,21 +5,21 @@ Rating: 4.53 (Ranked 542)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 94.00% | ~5,358 |
-| I will survive! | 93.00% | ~5,301 |
-| All thumbs | 92.00% | ~5,244 |
-| Home, sweet home | 91.00% | ~5,187 |
-| Survivalist | 90.00% | ~5,130 |
-| One way ticket | 85.00% | ~4,845 |
-| Last man standing | 80.00% | ~4,560 |
-| Family guy | 77.00% | ~4,389 |
-| Out of the Bag | 76.00% | ~4,332 |
-| The Dark Side | 71.00% | ~4,047 |
-| Duck and cover! | 66.00% | ~3,762 |
-| Souper! | 65.00% | ~3,705 |
-| 2-1-6 | 59.00% | ~3,363 |
-| Pacifist | 59.00% | ~3,363 |
-| A gift | 54.00% | ~3,078 |
+| Prepper | 94.00% | ~5,359 |
+| I will survive! | 93.00% | ~5,302 |
+| All thumbs | 92.00% | ~5,245 |
+| Home, sweet home | 91.00% | ~5,188 |
+| Survivalist | 90.00% | ~5,131 |
+| One way ticket | 85.00% | ~4,846 |
+| Last man standing | 80.00% | ~4,561 |
+| Family guy | 77.00% | ~4,390 |
+| Out of the Bag | 76.00% | ~4,333 |
+| The Dark Side | 71.00% | ~4,048 |
+| Duck and cover! | 66.00% | ~3,763 |
+| Souper! | 65.00% | ~3,706 |
+| 2-1-6 | 59.00% | ~3,364 |
+| Pacifist | 59.00% | ~3,364 |
+| A gift | 54.00% | ~3,079 |
 | Girl Power | 49.00% | ~2,793 |
 | What goes around... | 44.00% | ~2,508 |
 | Be Prepared | 38.00% | ~2,166 |
@@ -61,12 +61,12 @@ Rating: 4.53 (Ranked 542)
 | Naysayer | 0.70% | ~40 |
 | Pro gamer | 0.70% | ~40 |
 | Manhattan Project | 0.60% | ~34 |
-| Fair Exchange | 0.50% | ~28 |
+| Fair Exchange | 0.50% | ~29 |
 | Miracle | 0.30% | ~17 |
 | Tora! Tora! Tora! | 0.20% | ~11 |
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,700 (Ranked 187)  
+Progressed: 5,701 (Ranked 187)  
 Completed: 1 (0.02%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 1 (0.02%) (Ranked 335)
 | 2023-11-30 | 5,682 | 1 |
 | 2023-12-01 | 5,688 | 1 |
 | 2023-12-02 | 5,696 | 1 |
-| 2023-12-03 | 5,700 | 1 |
+| 2023-12-03 | 5,701 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

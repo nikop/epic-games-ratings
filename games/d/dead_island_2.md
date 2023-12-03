@@ -42,10 +42,10 @@ Rating: 4.54 (Ranked 528)
 | Go, Bobcats! | 0.70% | ~5,105 |
 | Rising Star | 0.70% | ~5,105 |
 | Internet Famous | 0.60% | ~4,376 |
-| Make it So | 0.50% | ~3,646 |
-| On Safari | 0.50% | ~3,646 |
-| Smorgasbord | 0.50% | ~3,646 |
-| Variety is the Spice of Death | 0.50% | ~3,646 |
+| Make it So | 0.50% | ~3,647 |
+| On Safari | 0.50% | ~3,647 |
+| Smorgasbord | 0.50% | ~3,647 |
+| Variety is the Spice of Death | 0.50% | ~3,647 |
 | LA Influential | 0.40% | ~2,917 |
 | Gore Horse | 0.40% | ~2,917 |
 | Top That, Tisha! | 0.40% | ~219 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 528)
 | Bucket List | 0.10% | ~729 |
 | Wilhelm | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 729,290 (Ranked 21)  
+Progressed: 729,304 (Ranked 21)  
 Completed: 2,461 (0.34%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,10 +284,10 @@ Completed: 2,461 (0.34%) (Ranked 232)
 | 2023-11-30 | 728,231 | 2,456 |
 | 2023-12-01 | 728,667 | 2,459 |
 | 2023-12-02 | 729,149 | 2,460 |
-| 2023-12-03 | 729,290 | 2,461 |
+| 2023-12-03 | 729,304 | 2,461 |
 ## Awards
 Max (Great Boss Battles): 7,869  (Ranked 49)  
-Sum: 12,068 (Ranked 83)  
+Sum: 12,072 (Ranked 83)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
@@ -296,7 +296,7 @@ Diff (max vs sum): -34
 | This game has Diverse Characters | 579 |
 | This game has Quickly Understood Controls | 543 |
 | This game is Relaxing | 520 |
-| This game has Amazing Storytelling | 506 |
+| This game has Amazing Storytelling | 510 |
 | This game is Extremely Fun | 495 |
 | This game is Highly Recommended | 488 |
 | This game has Amazing Characters | 456 |
@@ -529,3 +529,4 @@ Diff (max vs sum): -34
 | 2023-11-30 | 4.54 | 7,821 | 11,987 |
 | 2023-12-01 | 4.54 | 7,845 | 12,026 |
 | 2023-12-02 | 4.54 | 7,869 | 12,068 |
+| 2023-12-03 | 4.54 | 7,869 | 12,072 |

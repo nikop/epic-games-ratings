@@ -24,7 +24,7 @@ Rating: 4.64 (Ranked 334)
 | Fallout Doesn't Let You Do This | 2.00% | ~493 |
 | Spent 15 Hours At The Alien Strip Club | 2.00% | ~493 |
 | Series Wrap on Suit-O | 2.00% | ~493 |
-| Bathe With A Giant Nude Alien | 2.00% | ~38 |
+| Bathe With A Giant Nude Alien | 2.00% | ~39 |
 | Eatin' Good in the Neighborhood | 1.00% | ~246 |
 | Eye Scream, You Scream | 1.00% | ~246 |
 | We Came, We Chainsaw, We Conquered | 1.00% | ~19 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 334)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,632 (Ranked 131)  
+Progressed: 24,634 (Ranked 131)  
 Completed: 14 (0.06%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 14 (0.06%) (Ranked 311)
 | 2023-11-30 | 24,613 | 14 |
 | 2023-12-01 | 24,623 | 14 |
 | 2023-12-02 | 24,629 | 14 |
-| 2023-12-03 | 24,632 | 14 |
+| 2023-12-03 | 24,634 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

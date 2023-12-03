@@ -3526,9 +3526,9 @@
       "Count": 746
     }
   ],
-  "EOS_Progressed": 240540,
+  "EOS_Progressed": 240547,
   "EOS_Completed": 292,
-  "EOS_NewPlayers": 308,
+  "EOS_NewPlayers": 311,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -26936,6 +26936,11 @@
       "Time": "2023-12-03T06:09:10.8940384+00:00",
       "NumProgressed": 240540,
       "NumCompleted": 292
+    },
+    {
+      "Time": "2023-12-03T07:10:18.6461428+00:00",
+      "NumProgressed": 240547,
+      "NumCompleted": 292
     }
   ],
   "TotalAchievements": 138,
@@ -27529,9 +27534,9 @@
       "ID": "MAKEAWISH",
       "SetID": "5l8oe0h",
       "Name": "A Donation",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 962
+      "UsersEstimate": 1203
     },
     {
       "ID": "MULTEXPLOSIONS",
@@ -28050,13 +28055,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240540,
+      "Progressed": 240547,
       "Completed": 292
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2020,
+      "Progressed": 2027,
       "Completed": 393
     }
   ],
@@ -28064,8 +28069,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-01T22:58:42.0642847+00:00",
-  "LastChanged_Achievements": "2023-12-03T06:09:10.8940381+00:00",
+  "LastChanged_Achievements": "2023-12-03T07:10:18.6461424+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:52.1458075+00:00",
-  "LastUpdate_Ratings": "2023-12-03T05:58:38.0961245+00:00",
-  "LastUpdate_Achievements": "2023-12-03T06:09:10.8942957+00:00"
+  "LastUpdate_Ratings": "2023-12-03T06:59:25.4792633+00:00",
+  "LastUpdate_Achievements": "2023-12-03T07:10:18.6464133+00:00"
 }

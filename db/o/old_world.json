@@ -2,7 +2,7 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 311,
+  "Ranking_Rating": 312,
   "Ranking_Popularity": 274,
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 152,
@@ -2070,9 +2070,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15608,
+  "EOS_Progressed": 15609,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17010,6 +17010,11 @@
       "Time": "2023-12-03T06:03:38.4544305+00:00",
       "NumProgressed": 15608,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-03T07:04:21.6820617+00:00",
+      "NumProgressed": 15609,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -17453,7 +17458,7 @@
       "Name": "Explorer",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -17933,7 +17938,7 @@
       "Name": "Friendly Family",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -19756,21 +19761,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15608,
+      "Progressed": 15609,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15608,
+      "Progressed": 15609,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-02T17:00:16.9280186+00:00",
-  "LastChanged_Achievements": "2023-12-03T06:03:38.4544303+00:00",
+  "LastChanged_Achievements": "2023-12-03T07:04:21.682061+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:20.3030051+00:00",
-  "LastUpdate_Ratings": "2023-12-03T05:59:23.5116132+00:00",
-  "LastUpdate_Achievements": "2023-12-03T06:03:38.4553036+00:00"
+  "LastUpdate_Ratings": "2023-12-03T07:00:29.3770526+00:00",
+  "LastUpdate_Achievements": "2023-12-03T07:04:21.6829499+00:00"
 }

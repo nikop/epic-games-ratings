@@ -6,24 +6,24 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~49,965 |
-| Get Busy Living | 16.00% | ~31,978 |
-| Samuel Norton | 9.00% | ~17,987 |
-| Spare The Rod | 5.00% | ~9,993 |
+| Stone Walls | 25.00% | ~49,970 |
+| Get Busy Living | 16.00% | ~31,981 |
+| Samuel Norton | 9.00% | ~17,989 |
+| Spare The Rod | 5.00% | ~9,994 |
 | Don't Put Me In The Dark | 3.00% | ~5,996 |
 | Wait and Hope | 3.00% | ~5,996 |
 | I May Have Found A Way Out Of Here | 3.00% | ~5,996 |
-| Throw The Book At Them | 2.00% | ~3,997 |
-| Iron Bars | 2.00% | ~3,997 |
+| Throw The Book At Them | 2.00% | ~3,998 |
+| Iron Bars | 2.00% | ~3,998 |
 | D.B. Cooper | 1.00% | ~1,999 |
 | Reformation | 0.60% | ~1,199 |
 | Crowd Control | 0.50% | ~999 |
-| Freedom | 0.40% | ~799 |
+| Freedom | 0.40% | ~800 |
 | Confined | 0.30% | ~600 |
 | It's Not What You Know... | 0.10% | ~200 |
 | ... It's What You Can Prove | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 199,861 (Ranked 75)  
+Progressed: 199,879 (Ranked 75)  
 Completed: 11 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,10 +250,10 @@ Completed: 11 (0.01%) (Ranked 344)
 | 2023-11-30 | 199,124 | 11 |
 | 2023-12-01 | 199,434 | 11 |
 | 2023-12-02 | 199,770 | 11 |
-| 2023-12-03 | 199,861 | 11 |
+| 2023-12-03 | 199,879 | 11 |
 ## Awards
 Max (Great for Beginners): 587  (Ranked 199)  
-Sum: 4,522 (Ranked 146)  
+Sum: 4,524 (Ranked 146)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
@@ -263,7 +263,7 @@ Diff (max vs sum): 53
 | This game has Quickly Understood Controls | 533 |
 | This game is Relaxing | 523 |
 | This game has Diverse Characters | 490 |
-| This game has Amazing Storytelling | 482 |
+| This game has Amazing Storytelling | 484 |
 | This game is Educational | 459 |
 | This game has Amazing Characters | 442 |
 | This game has a Creative Community | 353 |
@@ -585,3 +585,4 @@ Diff (max vs sum): 53
 | 2023-11-30 | 4.61 | - | 585 | 4,503 |
 | 2023-12-01 | 4.61 | - | 587 | 4,514 |
 | 2023-12-02 | 4.61 | - | 587 | 4,522 |
+| 2023-12-03 | 4.61 | - | 587 | 4,524 |

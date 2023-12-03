@@ -5,31 +5,31 @@ Rating: 4.61 (Ranked 386)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,932 |
-| A Thorny Situation | 70.00% | ~5,767 |
-| ... And Spit Back Out | 61.00% | ~5,026 |
-| Break-Net Speed | 49.00% | ~4,037 |
-| Bramble Breaker | 47.00% | ~3,872 |
-| Miner 49er | 43.00% | ~3,543 |
-| Humble Collector | 42.00% | ~3,460 |
-| Calm Sailing | 37.00% | ~3,048 |
-| Open the Gate! | 34.00% | ~2,801 |
-| Mist Walker | 32.00% | ~2,636 |
-| Lumberjack | 27.00% | ~2,225 |
-| Oui, Chef! | 23.00% | ~1,895 |
-| Clear the Air | 19.00% | ~1,565 |
-| Botanical Breakthrough | 17.00% | ~1,401 |
-| Search for the Hairy Grell | 14.00% | ~1,153 |
-| Beach Comber | 14.00% | ~1,153 |
-| Higher Tax Bracket | 14.00% | ~1,153 |
+| Azoria Beckons | 72.00% | ~5,937 |
+| A Thorny Situation | 70.00% | ~5,772 |
+| ... And Spit Back Out | 61.00% | ~5,030 |
+| Break-Net Speed | 49.00% | ~4,041 |
+| Bramble Breaker | 47.00% | ~3,876 |
+| Miner 49er | 43.00% | ~3,546 |
+| Humble Collector | 42.00% | ~3,463 |
+| Calm Sailing | 37.00% | ~3,051 |
+| Open the Gate! | 34.00% | ~2,804 |
+| Mist Walker | 32.00% | ~2,639 |
+| Lumberjack | 27.00% | ~2,226 |
+| Oui, Chef! | 23.00% | ~1,897 |
+| Clear the Air | 19.00% | ~1,567 |
+| Botanical Breakthrough | 17.00% | ~1,402 |
+| Search for the Hairy Grell | 14.00% | ~1,154 |
+| Beach Comber | 14.00% | ~1,154 |
+| Higher Tax Bracket | 14.00% | ~1,154 |
 | Skilled | 9.00% | ~742 |
-| Flaming Hot Completos | 8.00% | ~659 |
-| Fae Farmer | 8.00% | ~659 |
-| Got to Catch Them All | 8.00% | ~659 |
-| Rumble in the Jumble | 8.00% | ~659 |
-| Fanatical Farmer | 8.00% | ~659 |
-| Scattered Scroll Scrounger | 6.00% | ~494 |
-| Azorian Anniversary | 6.00% | ~494 |
+| Flaming Hot Completos | 8.00% | ~660 |
+| Fae Farmer | 8.00% | ~660 |
+| Got to Catch Them All | 8.00% | ~660 |
+| Rumble in the Jumble | 8.00% | ~660 |
+| Fanatical Farmer | 8.00% | ~660 |
+| Scattered Scroll Scrounger | 6.00% | ~495 |
+| Azorian Anniversary | 6.00% | ~495 |
 | I Now Pronounce You... | 5.00% | ~412 |
 | Chatty Neighbor | 4.00% | ~330 |
 | Right Tool For the Job | 4.00% | ~330 |
@@ -41,7 +41,7 @@ Rating: 4.61 (Ranked 386)
 | Workaholic | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,239 (Ranked 175)  
+Progressed: 8,246 (Ranked 175)  
 Completed: 1 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 1 (0.01%) (Ranked 344)
 | 2023-11-30 | 8,184 | 1 |
 | 2023-12-01 | 8,203 | 1 |
 | 2023-12-02 | 8,228 | 1 |
-| 2023-12-03 | 8,239 | 1 |
+| 2023-12-03 | 8,246 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
