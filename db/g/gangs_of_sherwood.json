@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 504,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
     "PcReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -488,9 +488,9 @@
       "ID": "ACH_KILL_GISBORNE",
       "SetID": "5akmpni",
       "Name": "Locksley\u0027s Tears",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_KILL_KIRKLEES",
@@ -536,9 +536,9 @@
       "ID": "ACH_LONG_REBEL_INSTINCT",
       "SetID": "5akmpni",
       "Name": "Ultra Rebel Instinct",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_MONEY_KILL",
@@ -592,9 +592,9 @@
       "ID": "ACH_REBEL_INSTINCT",
       "SetID": "5akmpni",
       "Name": "Rebel Unleashed",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_REPUTATION_LVL_4",
@@ -671,8 +671,8 @@
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-12-03T01:55:54.0897148+00:00",
+  "LastChanged_Achievements": "2023-12-03T02:27:57.6026896+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:51.6227723+00:00",
-  "LastUpdate_Ratings": "2023-12-03T01:51:24.0324074+00:00",
-  "LastUpdate_Achievements": "2023-12-03T01:55:54.0897556+00:00"
+  "LastUpdate_Ratings": "2023-12-03T02:23:11.2888358+00:00",
+  "LastUpdate_Achievements": "2023-12-03T02:27:57.602721+00:00"
 }

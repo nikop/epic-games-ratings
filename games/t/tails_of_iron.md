@@ -5,14 +5,14 @@ Rating: 4.55 (Ranked 508)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 82.00% | ~1,800 |
-| Become King | 74.00% | ~1,624 |
+| Complete Guard Faction | 82.00% | ~1,801 |
+| Become King | 74.00% | ~1,625 |
 | Defeat 25 Frogs | 63.00% | ~1,383 |
-| Ranged Weapon | 62.00% | ~1,361 |
-| Collect Monster Parts | 58.00% | ~1,273 |
-| Two Handed Weapon | 57.00% | ~1,251 |
-| Defeat 25 Grubs | 53.00% | ~1,163 |
-| Rescue Redgi's Brothers | 53.00% | ~1,163 |
+| Ranged Weapon | 62.00% | ~1,362 |
+| Collect Monster Parts | 58.00% | ~1,274 |
+| Two Handed Weapon | 57.00% | ~1,252 |
+| Defeat 25 Grubs | 53.00% | ~1,164 |
+| Rescue Redgi's Brothers | 53.00% | ~1,164 |
 | Collect Iron Ore | 48.00% | ~1,054 |
 | Kitchen Ready To Cook | 48.00% | ~1,054 |
 | Defeat 25 Mozis | 47.00% | ~1,032 |
@@ -22,9 +22,9 @@ Rating: 4.55 (Ranked 508)
 | Complete Elder Faction | 41.00% | ~900 |
 | End of the Mozis | 38.00% | ~834 |
 | Throne Room Fit For A King | 38.00% | ~834 |
-| Meet the Creatures from the Deep | 36.00% | ~790 |
-| Return Power To The Depths | 36.00% | ~790 |
-| Defeat Ratnor Rodentson | 30.00% | ~658 |
+| Meet the Creatures from the Deep | 36.00% | ~791 |
+| Return Power To The Depths | 36.00% | ~791 |
+| Defeat Ratnor Rodentson | 30.00% | ~659 |
 | Return the Statues | 27.00% | ~593 |
 | Defeat Rattus Augustail | 26.00% | ~571 |
 | Complete the Chefs Book | 25.00% | ~549 |
@@ -36,7 +36,7 @@ Rating: 4.55 (Ranked 508)
 | King of Kings | 8.00% | ~176 |
 | A new Warchief rises | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,195 (Ranked 224)  
+Progressed: 2,196 (Ranked 224)  
 Completed: 12 (0.55%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 12 (0.55%) (Ranked 200)
 | 2023-11-30 | 2,180 | 12 |
 | 2023-12-01 | 2,186 | 12 |
 | 2023-12-02 | 2,194 | 12 |
-| 2023-12-03 | 2,195 | 12 |
+| 2023-12-03 | 2,196 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

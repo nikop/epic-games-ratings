@@ -6,45 +6,45 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~307,153 |
-| Full garage | 61.00% | ~256,662 |
-| To the eyeballs! | 51.00% | ~214,586 |
-| Individual delivery | 47.00% | ~197,756 |
-| Non-Stop | 45.00% | ~189,341 |
-| Juggler | 36.00% | ~151,473 |
-| Forgot something | 35.00% | ~147,265 |
-| Close call! | 30.00% | ~126,227 |
-| Get out my way | 28.00% | ~117,812 |
-| Common cause | 26.00% | ~109,397 |
-| Critical care | 26.00% | ~109,397 |
-| Mega-railroad | 23.00% | ~96,774 |
-| Upgrade complete | 23.00% | ~96,774 |
-| Just in time! | 18.00% | ~75,736 |
-| Builder | 17.00% | ~71,529 |
-| Long Haul | 17.00% | ~71,417 |
-| Steam Age | 16.00% | ~67,321 |
+| Dealmaker | 73.00% | ~307,157 |
+| Full garage | 61.00% | ~256,665 |
+| To the eyeballs! | 51.00% | ~214,589 |
+| Individual delivery | 47.00% | ~197,759 |
+| Non-Stop | 45.00% | ~189,343 |
+| Juggler | 36.00% | ~151,475 |
+| Forgot something | 35.00% | ~147,267 |
+| Close call! | 30.00% | ~126,229 |
+| Get out my way | 28.00% | ~117,814 |
+| Common cause | 26.00% | ~109,398 |
+| Critical care | 26.00% | ~109,398 |
+| Mega-railroad | 23.00% | ~96,775 |
+| Upgrade complete | 23.00% | ~96,775 |
+| Just in time! | 18.00% | ~75,737 |
+| Builder | 17.00% | ~71,530 |
+| Long Haul | 17.00% | ~71,418 |
+| Steam Age | 16.00% | ~67,322 |
 | Multilevel road | 15.00% | ~63,114 |
-| Bridgemania | 14.00% | ~58,906 |
-| Need to think | 14.00% | ~58,906 |
-| The Tortoise | 12.00% | ~50,491 |
-| Beginner | 11.00% | ~46,283 |
-| Without a lunch break | 11.00% | ~46,283 |
+| Bridgemania | 14.00% | ~58,907 |
+| Need to think | 14.00% | ~58,907 |
+| The Tortoise | 12.00% | ~50,492 |
+| Beginner | 11.00% | ~46,284 |
+| Without a lunch break | 11.00% | ~46,284 |
 | One way | 10.00% | ~42,076 |
 | Relocation | 10.00% | ~42,076 |
-| Industrial Age | 9.00% | ~37,868 |
+| Industrial Age | 9.00% | ~37,869 |
 | Just One More Valley | 9.00% | ~37,809 |
 | Prick of conscience | 8.00% | ~33,661 |
 | Missed it! | 7.00% | ~29,453 |
-| At the last moment! | 6.00% | ~25,245 |
-| Overseer | 6.00% | ~25,245 |
+| At the last moment! | 6.00% | ~25,246 |
+| Overseer | 6.00% | ~25,246 |
 | Highlander | 5.00% | ~21,038 |
 | Jewelry accuracy | 5.00% | ~21,038 |
 | Stargazer | 5.00% | ~21,038 |
-| Bridge builder | 4.00% | ~16,830 |
-| Electrical Age | 4.00% | ~16,830 |
-| Engineer | 4.00% | ~16,830 |
-| Large construction | 4.00% | ~16,830 |
-| Squander | 4.00% | ~16,830 |
+| Bridge builder | 4.00% | ~16,831 |
+| Electrical Age | 4.00% | ~16,831 |
+| Engineer | 4.00% | ~16,831 |
+| Large construction | 4.00% | ~16,831 |
+| Squander | 4.00% | ~16,831 |
 | Globalisation Age | 3.00% | ~12,623 |
 | Living it large | 3.00% | ~12,623 |
 | Sabotage | 3.00% | ~12,623 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~420 |
 | World Zapper | 0.10% | ~420 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 420,757 (Ranked 45)  
+Progressed: 420,763 (Ranked 45)  
 Completed: 23 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,15 +285,15 @@ Completed: 23 (0.01%) (Ranked 344)
 | 2023-11-30 | 420,226 | 23 |
 | 2023-12-01 | 420,449 | 23 |
 | 2023-12-02 | 420,717 | 23 |
-| 2023-12-03 | 420,757 | 23 |
+| 2023-12-03 | 420,763 | 23 |
 ## Awards
 Max (Challenging Puzzles): 938  (Ranked 159)  
-Sum: 1,886 (Ranked 219)  
-Diff (max vs sum): -60  
+Sum: 1,890 (Ranked 218)  
+Diff (max vs sum): -59  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 938 |
-| This game is Great for Beginners | 177 |
+| This game is Great for Beginners | 181 |
 | This game has Playful Visuals | 105 |
 | This game has Quickly Understood Controls | 104 |
 | This game is Extremely Fun | 101 |
@@ -499,3 +499,4 @@ Diff (max vs sum): -60
 | 2023-11-29 | 4.44 | - | 931 | 1,864 |
 | 2023-11-30 | 4.44 | - | 934 | 1,872 |
 | 2023-12-01 | 4.44 | - | 938 | 1,886 |
+| 2023-12-03 | 4.44 | - | 938 | 1,890 |

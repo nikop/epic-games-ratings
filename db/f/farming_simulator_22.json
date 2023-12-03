@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -11946,9 +11946,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 54567,
+  "EOS_Progressed": 54568,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1209,
+  "EOS_NewPlayers": 1207,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32791,6 +32791,11 @@
       "Time": "2023-12-03T01:57:54.2097452+00:00",
       "NumProgressed": 54567,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-03T02:29:20.7268727+00:00",
+      "NumProgressed": 54568,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -33026,7 +33031,7 @@
       "Name": "I like to switch it up",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 21281
+      "UsersEstimate": 21282
     },
     {
       "ID": "NumPlaceables",
@@ -33074,7 +33079,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 31103
+      "UsersEstimate": 31104
     },
     {
       "ID": "Sow",
@@ -33106,7 +33111,7 @@
       "Name": "Field Trip",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 22918
+      "UsersEstimate": 22919
     },
     {
       "ID": "TruckDriving",
@@ -33138,22 +33143,22 @@
       "Name": "That\u0027s a wrap",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7639
+      "UsersEstimate": 7640
     }
   ],
   "AchievementSets": [
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 54567,
+      "Progressed": 54568,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-12-03T01:52:46.820465+00:00",
-  "LastChanged_Achievements": "2023-12-03T01:57:54.2097449+00:00",
+  "LastChanged_Achievements": "2023-12-03T02:29:20.7268723+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:33.2145586+00:00",
-  "LastUpdate_Ratings": "2023-12-03T01:52:46.8204656+00:00",
-  "LastUpdate_Achievements": "2023-12-03T01:57:54.2099231+00:00"
+  "LastUpdate_Ratings": "2023-12-03T02:23:31.7035512+00:00",
+  "LastUpdate_Achievements": "2023-12-03T02:29:20.7269913+00:00"
 }

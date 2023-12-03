@@ -13280,9 +13280,9 @@
       "Count": 27484
     }
   ],
-  "EOS_Progressed": 1062946,
+  "EOS_Progressed": 1063026,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 18177,
+  "EOS_NewPlayers": 18202,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39305,6 +39305,11 @@
       "Time": "2023-12-03T02:00:20.9475956+00:00",
       "NumProgressed": 1062946,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-03T02:32:42.0963178+00:00",
+      "NumProgressed": 1063026,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 232,
@@ -39466,9 +39471,9 @@
       "ID": "ACH_020",
       "SetID": "bdmlp8o",
       "Name": "Perfect Escape",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3189
+      "UsersEstimate": 4252
     },
     {
       "ID": "ACH_021",
@@ -41171,21 +41176,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1062946,
+      "Progressed": 1063026,
       "Completed": 67
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1062946,
+      "Progressed": 1063026,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-12-03T01:47:07.9536095+00:00",
-  "LastChanged_Achievements": "2023-12-03T02:00:20.9475954+00:00",
+  "LastChanged_Achievements": "2023-12-03T02:32:42.0963174+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:13.1126718+00:00",
-  "LastUpdate_Ratings": "2023-12-03T01:47:07.9536103+00:00",
-  "LastUpdate_Achievements": "2023-12-03T02:00:20.9483083+00:00"
+  "LastUpdate_Ratings": "2023-12-03T02:20:26.4009414+00:00",
+  "LastUpdate_Achievements": "2023-12-03T02:32:42.096893+00:00"
 }

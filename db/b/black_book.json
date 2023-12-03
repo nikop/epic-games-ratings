@@ -669,9 +669,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 57543,
+  "EOS_Progressed": 57545,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 1595,
+  "EOS_NewPlayers": 1592,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11814,6 +11814,11 @@
       "Time": "2023-12-03T01:55:53.3674704+00:00",
       "NumProgressed": 57543,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-03T02:27:57.078449+00:00",
+      "NumProgressed": 57545,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -11882,7 +11887,7 @@
       "Name": "Card Player",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4603
+      "UsersEstimate": 4604
     },
     {
       "ID": "CHEATER",
@@ -11938,7 +11943,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 12659
+      "UsersEstimate": 12660
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -12026,7 +12031,7 @@
       "Name": "Initiation",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 16112
+      "UsersEstimate": 16113
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -12042,7 +12047,7 @@
       "Name": "Dead Friend",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4603
+      "UsersEstimate": 4604
     },
     {
       "ID": "MERMAID_NOT_FREE",
@@ -12106,7 +12111,7 @@
       "Name": "Pine Tree",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4603
+      "UsersEstimate": 4604
     },
     {
       "ID": "PROSHKA_LOYAL",
@@ -12146,7 +12151,7 @@
       "Name": "Listener",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 8631
+      "UsersEstimate": 8632
     },
     {
       "ID": "TALES_2",
@@ -12154,7 +12159,7 @@
       "Name": "Collector",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4603
+      "UsersEstimate": 4604
     },
     {
       "ID": "TALES_3",
@@ -12225,15 +12230,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 57543,
+      "Progressed": 57545,
       "Completed": 57
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-12-01T11:58:05.6647761+00:00",
-  "LastChanged_Achievements": "2023-12-03T01:55:53.3674701+00:00",
+  "LastChanged_Achievements": "2023-12-03T02:27:57.0784486+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:55.6045759+00:00",
-  "LastUpdate_Ratings": "2023-12-03T01:49:23.6862723+00:00",
-  "LastUpdate_Achievements": "2023-12-03T01:55:53.3676061+00:00"
+  "LastUpdate_Ratings": "2023-12-03T02:21:54.0238302+00:00",
+  "LastUpdate_Achievements": "2023-12-03T02:27:57.0785181+00:00"
 }

@@ -55,6 +55,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Gild-Gotten Goods | 2.00% | ~2,870 |
 | Royal Ransom | 2.00% | ~2,870 |
 | Mammonite | 2.00% | ~2,870 |
+| Wealth Beyond Measure | 2.00% | ~2,870 |
 | Helping Hand | 2.00% | ~2,870 |
 | Fat Cat Tag Team | 2.00% | ~2,870 |
 | Accomplished Merchant | 2.00% | ~2,870 |
@@ -88,7 +89,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fit for a King | 1.00% | ~1,435 |
 | By Your Powers Combined... | 1.00% | ~1,435 |
 | A Legend is Born | 1.00% | ~1,435 |
-| Wealth Beyond Measure | 1.00% | ~1,435 |
 | Necromancer Queen | 1.00% | ~1,435 |
 | Jackpot! | 1.00% | ~1,435 |
 | Item of Renown | 1.00% | ~1,435 |
@@ -103,23 +103,23 @@ Number of Ratings: 12,664  (23.09.2022)
 | All Accounted For | 1.00% | ~1,435 |
 | Economy of Scarce | 1.00% | ~1,435 |
 | King's Blade | 1.00% | ~1,435 |
-| The Free Encyclopedia | 0.90% | ~1,291 |
-| Eternal Crusade | 0.90% | ~1,291 |
+| The Free Encyclopedia | 0.90% | ~1,292 |
+| Eternal Crusade | 0.90% | ~1,292 |
 | The Greatest Grind | 0.70% | ~1,004 |
 | All or Nothing! | 0.70% | ~1,004 |
 | Anything not Nailed Down | 0.60% | ~861 |
 | Marvels from the World Over | 0.60% | ~861 |
-| Bane of Legends | 0.50% | ~717 |
-| Ultimate Collector | 0.50% | ~717 |
-| Unleashed Potential | 0.50% | ~717 |
-| JACKPOT!!! | 0.50% | ~717 |
+| Bane of Legends | 0.50% | ~718 |
+| Ultimate Collector | 0.50% | ~718 |
+| Unleashed Potential | 0.50% | ~718 |
+| JACKPOT!!! | 0.50% | ~718 |
 | Oligarch Monarch | 0.40% | ~574 |
 | Merchant Extraordinaire | 0.40% | ~574 |
 | To Hell and Back | 0.30% | ~430 |
 | Cash Only Please | 0.30% | ~430 |
 | Capitalist Camaraderie | 0.20% | ~287 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 143,496 (Ranked 80)  
+Progressed: 143,500 (Ranked 80)  
 Completed: 290 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,7 +346,7 @@ Completed: 290 (0.20%) (Ranked 257)
 | 2023-11-30 | 143,035 | 290 |
 | 2023-12-01 | 143,280 | 290 |
 | 2023-12-02 | 143,469 | 290 |
-| 2023-12-03 | 143,496 | 290 |
+| 2023-12-03 | 143,500 | 290 |
 ## Awards
 Max (Great for Beginners): 4,859  (Ranked 75)  
 Sum: 27,648 (Ranked 50)  

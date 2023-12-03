@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14089,
+  "EOS_Progressed": 14090,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 1066,
+  "EOS_NewPlayers": 1060,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2271,6 +2271,11 @@
       "Time": "2023-12-03T01:59:01.7206374+00:00",
       "NumProgressed": 14089,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-03T02:31:46.8768803+00:00",
+      "NumProgressed": 14090,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -2315,7 +2320,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 10567
+      "UsersEstimate": 10568
     },
     {
       "ID": "ACH_AE_14",
@@ -2363,7 +2368,7 @@
       "Name": "Signature Style",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1972
+      "UsersEstimate": 1973
     },
     {
       "ID": "ACH_AE_2",
@@ -2371,7 +2376,7 @@
       "Name": "Back to School",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3240
+      "UsersEstimate": 3241
     },
     {
       "ID": "ACH_AE_20",
@@ -2395,7 +2400,7 @@
       "Name": "The High Road",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 3240
+      "UsersEstimate": 3241
     },
     {
       "ID": "ACH_AE_23",
@@ -2562,7 +2567,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 14089,
+      "Progressed": 14090,
       "Completed": 13
     }
   ],
@@ -2570,8 +2575,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-02T05:02:50.2385105+00:00",
-  "LastChanged_Achievements": "2023-12-03T01:59:01.7206371+00:00",
+  "LastChanged_Achievements": "2023-12-03T02:31:46.8768801+00:00",
   "LastUpdate_AppInfo": "2023-11-28T15:57:01.0190602+00:00",
   "LastUpdate_Ratings": "2023-12-03T01:52:53.3541854+00:00",
-  "LastUpdate_Achievements": "2023-12-03T01:59:01.7206789+00:00"
+  "LastUpdate_Achievements": "2023-12-03T02:31:46.8769068+00:00"
 }

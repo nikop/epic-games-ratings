@@ -15,15 +15,15 @@
 | Right between the eyes | 51.00% | ~25 |
 | Spring Board | 47.00% | ~23 |
 | Starry Night | 43.00% | ~21 |
-| Rebel Unleashed | 39.00% | ~19 |
-| Locksley's Tears | 37.00% | ~18 |
+| Rebel Unleashed | 41.00% | ~20 |
+| Locksley's Tears | 39.00% | ~19 |
 | Merry Co-operation | 35.00% | ~17 |
 | Assault on the Ram | 33.00% | ~16 |
 | Savior | 31.00% | ~15 |
 | Finish Him! | 31.00% | ~15 |
+| Ultra Rebel Instinct | 24.00% | ~12 |
 | First Aid | 24.00% | ~12 |
 | Merry Go Round | 24.00% | ~12 |
-| Ultra Rebel Instinct | 22.00% | ~11 |
 | Take Action! | 22.00% | ~11 |
 | Ultra Combo | 20.00% | ~10 |
 | Ascending Will | 16.00% | ~8 |

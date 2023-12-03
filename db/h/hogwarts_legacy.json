@@ -11397,9 +11397,9 @@
       "Count": 829
     }
   ],
-  "EOS_Progressed": 303806,
+  "EOS_Progressed": 303807,
   "EOS_Completed": 520,
-  "EOS_NewPlayers": 614,
+  "EOS_NewPlayers": 611,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -35797,6 +35797,11 @@
       "Time": "2023-12-03T02:00:13.0358641+00:00",
       "NumProgressed": 303806,
       "NumCompleted": 520
+    },
+    {
+      "Time": "2023-12-03T02:32:36.3094182+00:00",
+      "NumProgressed": 303807,
+      "NumCompleted": 520
     }
   ],
   "TotalAchievements": 45,
@@ -35856,7 +35861,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24304
+      "UsersEstimate": 24305
     },
     {
       "ID": "PFA_16",
@@ -35872,7 +35877,7 @@
       "Name": "Beast Friends",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24304
+      "UsersEstimate": 24305
     },
     {
       "ID": "PFA_18",
@@ -35888,7 +35893,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 24304
+      "UsersEstimate": 24305
     },
     {
       "ID": "PFA_2",
@@ -36167,7 +36172,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303806,
+      "Progressed": 303807,
       "Completed": 520
     }
   ],
@@ -36175,8 +36180,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-03T01:48:44.093679+00:00",
-  "LastChanged_Achievements": "2023-12-03T02:00:13.0358639+00:00",
+  "LastChanged_Achievements": "2023-12-03T02:32:36.3094178+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-03T01:48:44.0936797+00:00",
-  "LastUpdate_Achievements": "2023-12-03T02:00:13.0361008+00:00"
+  "LastUpdate_Ratings": "2023-12-03T02:21:28.1243033+00:00",
+  "LastUpdate_Achievements": "2023-12-03T02:32:36.3095326+00:00"
 }

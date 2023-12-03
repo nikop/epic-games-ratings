@@ -4,8 +4,8 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1274,
+  "EOS_Progressed": 1275,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2360,6 +2360,11 @@
       "Time": "2023-12-03T00:07:27.5291641+00:00",
       "NumProgressed": 1274,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T02:29:14.2251375+00:00",
+      "NumProgressed": 1275,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -2388,7 +2393,7 @@
       "Name": "Turret Syndrome",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_BIOGRAPHER",
@@ -2452,7 +2457,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 879
+      "UsersEstimate": 880
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -2460,7 +2465,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -2468,7 +2473,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -2484,7 +2489,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -2516,7 +2521,7 @@
       "Name": "Hoarder",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -2611,14 +2616,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1274,
+      "Progressed": 1275,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-12-03T01:57:44.7000717+00:00",
+  "LastChanged_Achievements": "2023-12-03T02:29:14.2251372+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:49.9907014+00:00",
-  "LastUpdate_Ratings": "2023-12-03T01:49:06.4706895+00:00",
-  "LastUpdate_Achievements": "2023-12-03T01:57:44.7001143+00:00"
+  "LastUpdate_Ratings": "2023-12-03T02:21:42.695711+00:00",
+  "LastUpdate_Achievements": "2023-12-03T02:29:14.2251614+00:00"
 }

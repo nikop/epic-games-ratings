@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 610,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2022-10-04T11:00:00+00:00",
@@ -455,9 +455,9 @@
       "ID": "SOS_PRISON_BREAK",
       "SetID": "6ci4lm2",
       "Name": "At the bottom",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SOS_PYROMAN",
@@ -582,8 +582,8 @@
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-12-03T01:54:21.1848007+00:00",
+  "LastChanged_Achievements": "2023-12-03T02:26:53.5835227+00:00",
   "LastUpdate_AppInfo": "2023-11-27T15:57:06.6652579+00:00",
-  "LastUpdate_Ratings": "2023-12-03T01:48:18.7833142+00:00",
-  "LastUpdate_Achievements": "2023-12-03T01:54:21.1848523+00:00"
+  "LastUpdate_Ratings": "2023-12-03T02:21:11.7270373+00:00",
+  "LastUpdate_Achievements": "2023-12-03T02:26:53.5835609+00:00"
 }

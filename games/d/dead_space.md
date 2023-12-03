@@ -23,7 +23,7 @@ Rating: 4.64 (Ranked 334)
 | Full Arsenal | 46.00% | ~966 |
 | Get Off My Ship! | 45.00% | ~945 |
 | Strange Transmissions | 45.00% | ~945 |
-| Wreckage | 43.00% | ~903 |
+| Wreckage | 44.00% | ~924 |
 | Keeper of the Faith | 42.00% | ~882 |
 | Live with the Hot Ones | 41.00% | ~861 |
 | Betrayed | 40.00% | ~840 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 334)
 | Pusher | 23.00% | ~483 |
 | Z-Baller | 23.00% | ~483 |
 | Marked | 21.00% | ~441 |
-| Eviscerator | 19.00% | ~399 |
+| Eviscerator | 20.00% | ~420 |
 | Backbreaker | 14.00% | ~294 |
 | Wishbone | 9.00% | ~189 |
 | Trusted Contractor | 7.00% | ~147 |

@@ -171,9 +171,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7303,
+  "EOS_Progressed": 7304,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 748,
+  "EOS_NewPlayers": 749,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5316,6 +5316,11 @@
       "Time": "2023-12-03T01:59:57.5144829+00:00",
       "NumProgressed": 7303,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-03T02:32:25.4125825+00:00",
+      "NumProgressed": 7304,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5368,7 +5373,7 @@
       "Name": "Connection Lost",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "Eavesdropper",
@@ -5472,7 +5477,7 @@
       "Name": "Nasty!",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "NoMoreTotems",
@@ -5520,7 +5525,7 @@
       "Name": "The Old-School Way",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "TheQuarterback",
@@ -5599,7 +5604,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7303,
+      "Progressed": 7304,
       "Completed": 13
     }
   ],
@@ -5607,8 +5612,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-02T04:02:27.6504223+00:00",
-  "LastChanged_Achievements": "2023-12-03T01:59:57.5144826+00:00",
+  "LastChanged_Achievements": "2023-12-03T02:32:25.4125821+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-03T01:47:30.8506549+00:00",
-  "LastUpdate_Achievements": "2023-12-03T01:59:57.5145341+00:00"
+  "LastUpdate_Ratings": "2023-12-03T02:20:41.0874068+00:00",
+  "LastUpdate_Achievements": "2023-12-03T02:32:25.4126352+00:00"
 }

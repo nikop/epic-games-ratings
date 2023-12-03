@@ -20,6 +20,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | The Grand Sacrifice | 0.40% | ~4,252 |
 | No one left behind | 0.40% | ~4,252 |
 | Medic | 0.40% | ~4,252 |
+| Perfect Escape | 0.40% | ~4,252 |
 | Bloody Millionaire | 0.40% | ~4,252 |
 | II | 0.40% | ~4,252 |
 | Healthy Obsession | 0.40% | ~4,252 |
@@ -28,7 +29,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Agonizing Escape | 0.30% | ~3,189 |
 | Backdoor Escape | 0.30% | ~3,189 |
 | I've got your back | 0.30% | ~3,189 |
-| Perfect Escape | 0.30% | ~3,189 |
 | Perfect Killing | 0.30% | ~3,189 |
 | Apt Killer | 0.30% | ~3,189 |
 | Risk it all | 0.30% | ~3,189 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,063 |
 | Adept Good Guy | 0.10% | ~1,063 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,062,946 (Ranked 14)  
+Progressed: 1,063,026 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -466,7 +466,7 @@ Completed: 61 (0.01%) (Ranked 344)
 | 2023-11-30 | 1,056,530 | 61 |
 | 2023-12-01 | 1,059,298 | 61 |
 | 2023-12-02 | 1,062,340 | 61 |
-| 2023-12-03 | 1,062,946 | 61 |
+| 2023-12-03 | 1,063,026 | 61 |
 ## Awards
 Max (Diverse Characters): 37,095  (Ranked 15)  
 Sum: 281,988 (Ranked 12)  

@@ -44,6 +44,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 3.00% | ~468 |
 | Pyramids | 3.00% | ~468 |
 | Learn to Play 1 | 3.00% | ~468 |
+| Learn to Play 2 | 3.00% | ~468 |
 | Christianity | 3.00% | ~468 |
 | Babylonian Paganism | 3.00% | ~468 |
 | Carthaginian Paganism | 3.00% | ~468 |
@@ -74,7 +75,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 2.00% | ~312 |
 | Musaeum | 2.00% | ~312 |
 | Necropolis | 2.00% | ~312 |
-| Learn to Play 2 | 2.00% | ~312 |
 | Learn to Play 3 | 2.00% | ~312 |
 | Greece | 2.00% | ~312 |
 | Power to the People | 2.00% | ~312 |

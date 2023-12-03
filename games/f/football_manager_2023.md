@@ -5,20 +5,20 @@ Rating: 4.76 (Ranked 129)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 68.00% | ~246,340 |
+| Motivational Speaker | 68.00% | ~246,341 |
 | The Player Whisperer | 67.00% | ~242,718 |
-| One of Us, One of Us! | 62.00% | ~224,604 |
+| One of Us, One of Us! | 62.00% | ~224,605 |
 | First Victory | 55.00% | ~199,246 |
-| Clean Sheet | 54.00% | ~195,623 |
-| #DoneDeal | 53.00% | ~192,000 |
-| Off the Books | 51.00% | ~184,755 |
-| Super-Sub | 51.00% | ~184,755 |
+| Clean Sheet | 54.00% | ~195,624 |
+| #DoneDeal | 53.00% | ~192,001 |
+| Off the Books | 51.00% | ~184,756 |
+| Super-Sub | 51.00% | ~184,756 |
 | Hat-trick | 46.00% | ~166,642 |
 | Planned Signing | 43.00% | ~155,774 |
-| "I Would Love It If We Beat Them" | 42.00% | ~152,151 |
-| Thumping | 39.00% | ~141,283 |
-| Scoring Streak | 39.00% | ~141,283 |
-| Wheeler Dealer | 39.00% | ~141,283 |
+| "I Would Love It If We Beat Them" | 42.00% | ~152,152 |
+| Thumping | 39.00% | ~141,284 |
+| Scoring Streak | 39.00% | ~141,284 |
+| Wheeler Dealer | 39.00% | ~141,284 |
 | People Pleaser | 38.00% | ~137,661 |
 | Unbeatable! | 37.00% | ~134,038 |
 | One Of Our Own | 35.00% | ~126,793 |
@@ -41,20 +41,20 @@ Rating: 4.76 (Ranked 129)
 | Drilling Down | 23.00% | ~83,321 |
 | Flavour Of The Month | 23.00% | ~83,321 |
 | Shots For Days | 23.00% | ~83,321 |
-| The Special One | 22.00% | ~79,698 |
+| The Special One | 22.00% | ~79,699 |
 | What A Goal! | 21.00% | ~76,076 |
 | Goal Machine | 20.00% | ~72,453 |
-| Splashing the Cash | 19.00% | ~68,830 |
-| Immovable Object | 19.00% | ~68,830 |
-| Cup Glory! | 19.00% | ~68,830 |
+| Splashing the Cash | 19.00% | ~68,831 |
+| Immovable Object | 19.00% | ~68,831 |
+| Cup Glory! | 19.00% | ~68,831 |
 | Irresistible Force | 17.00% | ~61,585 |
-| Do The Double | 16.00% | ~57,962 |
+| Do The Double | 16.00% | ~57,963 |
 | Cash to Burn | 15.00% | ~54,340 |
 | Window Shopping | 14.00% | ~50,717 |
-| Top Form | 13.00% | ~47,094 |
+| Top Form | 13.00% | ~47,095 |
 | A Game of Two Halves | 12.00% | ~43,472 |
 | You're Up! | 11.00% | ~39,849 |
-| Money, Money, Money | 10.00% | ~36,226 |
+| Money, Money, Money | 10.00% | ~36,227 |
 | Clean Sheet Network | 8.00% | ~28,981 |
 | First Goal Network | 8.00% | ~28,981 |
 | First Win Network | 8.00% | ~28,981 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 129)
 | Draft Dominator | 0.10% | ~362 |
 | Draft Value | 0.10% | ~362 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 362,265 (Ranked 48)  
+Progressed: 362,266 (Ranked 48)  
 Completed: 26 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 26 (0.01%) (Ranked 344)
 | 2023-11-30 | 361,723 | 26 |
 | 2023-12-01 | 361,981 | 26 |
 | 2023-12-02 | 362,244 | 26 |
-| 2023-12-03 | 362,265 | 26 |
+| 2023-12-03 | 362,266 | 26 |
 ## Awards
 Max (Diverse Characters): 1,229  (Ranked 140)  
 Sum: 8,534 (Ranked 99)  

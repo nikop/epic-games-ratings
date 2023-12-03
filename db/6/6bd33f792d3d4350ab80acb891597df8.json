@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 396,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2022-12-23T00:00:00+00:00",
@@ -438,9 +438,9 @@
       "ID": "CgkIxYDzrbcPEAIQBg",
       "SetID": "4egpam7",
       "Name": "Uninvited Guests",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBw",
@@ -645,8 +645,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-12-03T01:57:46.675223+00:00",
+  "LastChanged_Achievements": "2023-12-03T02:29:15.5978115+00:00",
   "LastUpdate_AppInfo": "2023-11-29T01:48:52.4139061+00:00",
-  "LastUpdate_Ratings": "2023-12-03T01:48:05.1263155+00:00",
-  "LastUpdate_Achievements": "2023-12-03T01:57:46.6752467+00:00"
+  "LastUpdate_Ratings": "2023-12-03T02:21:02.9859183+00:00",
+  "LastUpdate_Achievements": "2023-12-03T02:29:15.5978323+00:00"
 }

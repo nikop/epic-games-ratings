@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -2265,9 +2265,9 @@
       "ID": "SingleRod",
       "SetID": "1n308hc",
       "Name": "Single Rod",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Sinner",
@@ -2426,8 +2426,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-02T13:02:26.2646778+00:00",
-  "LastChanged_Achievements": "2023-12-03T01:55:07.7326547+00:00",
+  "LastChanged_Achievements": "2023-12-03T02:27:25.386103+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-03T01:47:06.797546+00:00",
-  "LastUpdate_Achievements": "2023-12-03T01:55:07.7327169+00:00"
+  "LastUpdate_Ratings": "2023-12-03T02:20:25.6709462+00:00",
+  "LastUpdate_Achievements": "2023-12-03T02:27:25.3861582+00:00"
 }

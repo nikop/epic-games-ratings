@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -193,9 +193,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 10583,
+  "EOS_Progressed": 10584,
   "EOS_Completed": 187,
-  "EOS_NewPlayers": 714,
+  "EOS_NewPlayers": 710,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 1.77,
   "EosHistory": [
@@ -5308,6 +5308,11 @@
       "Time": "2023-12-03T01:58:53.3670683+00:00",
       "NumProgressed": 10583,
       "NumCompleted": 187
+    },
+    {
+      "Time": "2023-12-03T02:31:41.0221284+00:00",
+      "NumProgressed": 10584,
+      "NumCompleted": 187
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -5328,7 +5333,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 9101
+      "UsersEstimate": 9102
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -5336,7 +5341,7 @@
       "Name": "My Dear Love!",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -5464,7 +5469,7 @@
       "Name": "Absolutely Elegant",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 3492
+      "UsersEstimate": 3493
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_26",
@@ -5480,7 +5485,7 @@
       "Name": "Counting Sheep?",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_28",
@@ -5536,7 +5541,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 6032
+      "UsersEstimate": 6033
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -5560,7 +5565,7 @@
       "Name": "ONE PUNCH",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 3598
+      "UsersEstimate": 3599
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -5568,7 +5573,7 @@
       "Name": "FIRST LOVE",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 3598
+      "UsersEstimate": 3599
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_0",
@@ -5592,7 +5597,7 @@
       "Name": "Drama CP: Reel to Real",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3598
+      "UsersEstimate": 3599
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_3",
@@ -5640,7 +5645,7 @@
       "Name": "This Ain\u0027t Right In Many Ways...",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_9",
@@ -5655,7 +5660,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 10583,
+      "Progressed": 10584,
       "Completed": 187
     }
   ],
@@ -5663,8 +5668,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-12-01T14:59:07.0284768+00:00",
-  "LastChanged_Achievements": "2023-12-03T01:58:53.3670681+00:00",
+  "LastChanged_Achievements": "2023-12-03T02:31:41.0221281+00:00",
   "LastUpdate_AppInfo": "2023-12-02T02:15:26.2086692+00:00",
-  "LastUpdate_Ratings": "2023-12-03T01:51:09.1205176+00:00",
-  "LastUpdate_Achievements": "2023-12-03T01:58:53.3671267+00:00"
+  "LastUpdate_Ratings": "2023-12-03T02:23:01.7327684+00:00",
+  "LastUpdate_Achievements": "2023-12-03T02:31:41.0221709+00:00"
 }

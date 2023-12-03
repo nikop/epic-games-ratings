@@ -7351,7 +7351,7 @@
       "Count": 3790
     }
   ],
-  "EOS_Progressed": 143496,
+  "EOS_Progressed": 143500,
   "EOS_Completed": 290,
   "EOS_NewPlayers": 1403,
   "EOS_NewCompleters": 23,
@@ -30831,6 +30831,11 @@
       "Time": "2023-12-03T01:56:49.6223017+00:00",
       "NumProgressed": 143496,
       "NumCompleted": 290
+    },
+    {
+      "Time": "2023-12-03T02:28:36.1030651+00:00",
+      "NumProgressed": 143500,
+      "NumCompleted": 290
     }
   ],
   "TotalAchievements": 112,
@@ -30994,7 +30999,7 @@
       "Name": "Bane of Legends",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "champions01",
@@ -31058,7 +31063,7 @@
       "Name": "The Free Encyclopedia",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1291
+      "UsersEstimate": 1292
     },
     {
       "ID": "collection05",
@@ -31066,7 +31071,7 @@
       "Name": "Ultimate Collector",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "commonres01",
@@ -31186,7 +31191,7 @@
       "Name": "Unleashed Potential",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "energy01",
@@ -31352,9 +31357,9 @@
       "ID": "gold06",
       "SetID": "anfd17p",
       "Name": "Wealth Beyond Measure",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1435
+      "UsersEstimate": 2870
     },
     {
       "ID": "help01",
@@ -31410,7 +31415,7 @@
       "Name": "JACKPOT!!!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "legenchant01",
@@ -31570,7 +31575,7 @@
       "Name": "Eternal Crusade",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1291
+      "UsersEstimate": 1292
     },
     {
       "ID": "quest04",
@@ -31737,15 +31742,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 143496,
+      "Progressed": 143500,
       "Completed": 290
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-03T01:53:10.6111959+00:00",
-  "LastChanged_Achievements": "2023-12-03T01:56:49.6223015+00:00",
+  "LastChanged_Achievements": "2023-12-03T02:28:36.1030647+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:14.839929+00:00",
-  "LastUpdate_Ratings": "2023-12-03T01:53:10.6111965+00:00",
-  "LastUpdate_Achievements": "2023-12-03T01:56:49.6225077+00:00"
+  "LastUpdate_Ratings": "2023-12-03T02:26:06.7421699+00:00",
+  "LastUpdate_Achievements": "2023-12-03T02:28:36.1032761+00:00"
 }
