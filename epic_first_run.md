@@ -3,11 +3,11 @@
 | [Get Slapped!](games/d/d998151b857341e29d5241b6d7f6fd3a.md) | 2024-02-29 | - |  | - | - |
 | [Tenement](games/7/78d14ec62d2a41d095ac4facc9278617.md) | 2023-12-31 | 60 (1,000 XP) | 0 | - | - |
 | [Bohnice - Within the Mind](games/b/bc736ece2ddb43eb9850842fd7eb8167.md) | 2099-01-01 | - |  | - | - |
-| [EndlessRunner](games/f/f42ed367eda74abfbd1d190de7fe0f10.md) | 2023-12-02 | 5 (1,000 XP) | 0 | - | - |
+| [EndlessRunner](games/f/f42ed367eda74abfbd1d190de7fe0f10.md) | 2023-12-02 | 5 (1,000 XP) | 1 | - | - |
 | [Elementals Beta](games/a/a927bb8643514202846c78c1ab0c2d18.md) | 2024-09-30 | - |  | - | - |
 | [Almost Formula](games/c/c738515085eb490fb8c13acf3749e9e9.md) | 2024-03-31 | - |  | - | - |
 | [BoltBreak 2](games/5/597a33e3a06945278a30506a8496345f.md) | 2024-09-30 | - |  | - | - |
-| [Metalstorm](games/m/metalstorm.md) | 2023-11-14 | - |  | 4.54 | 0 |
+| [Metalstorm](games/m/metalstorm.md) | 2023-11-14 | - |  | 4.45 | 0 |
 | [My Demon Wife](games/m/my_demon_wife.md) | 2023-10-31 | 17 (1,000 XP) | 1 | - | 0 |
 | [Resonance](games/8/83b49dc072664d6ebcfa819730e6caf7.md) | 2099-01-01 | - |  | - | - |
 | [Knowledge Party](games/f/f079b0c7395a487fb6151891e6d6faa8.md) | 2099-01-01 | - |  | - | - |
