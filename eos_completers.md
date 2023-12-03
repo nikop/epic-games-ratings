@@ -16,14 +16,14 @@
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.63% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Overloop](games/o/overloop.md) | 25.00% |
-| 17 | [The Riflemen](games/t/the_riflemen.md) | 24.93% |
+| 17 | [The Riflemen](games/t/the_riflemen.md) | 24.91% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
 | 20 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 20 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
 | 22 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 23 | [Doodle Devil](games/d/doodle_devil.md) | 18.60% |
-| 24 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 18.26% |
+| 24 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 18.21% |
 | 25 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 18.18% |
 | 26 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 16.67% |
 | 26 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 16.67% |
@@ -36,14 +36,14 @@
 | 34 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.38% |
 | 35 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 12.35% |
 | 36 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
-| 36 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 11.11% |
-| 38 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
-| 39 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 10.71% |
-| 40 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 10.45% |
-| 41 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.42% |
-| 42 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.06% |
-| 43 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 10.00% |
-| 43 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
+| 37 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
+| 38 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 10.71% |
+| 39 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 10.45% |
+| 40 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.42% |
+| 41 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.06% |
+| 42 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 10.00% |
+| 42 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
+| 42 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
 | 45 | [Smelter](games/s/smelter.md) | 9.52% |
 | 46 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
 | 47 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 9.09% |
@@ -56,9 +56,9 @@
 | 53 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.69% |
 | 55 | [Ravenlok](games/r/ravenlok.md) | 7.67% |
 | 56 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.53% |
-| 57 | [Sonic Origins](games/s/sonic_origins.md) | 7.15% |
-| 58 | [Anna's Quest](games/a/anna's_quest.md) | 7.14% |
-| 58 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 7.14% |
+| 57 | [Anna's Quest](games/a/anna's_quest.md) | 7.14% |
+| 57 | [Sonic Origins](games/s/sonic_origins.md) | 7.14% |
+| 57 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 7.14% |
 | 60 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.11% |
 | 61 | [Scorn](games/s/scorn.md) | 7.09% |
 | 62 | [Time Loader](games/t/time_loader.md) | 7.03% |
@@ -144,8 +144,8 @@
 | 142 | [Five Dates](games/f/five_dates.md) | 1.56% |
 | 143 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.55% |
 | 144 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.47% |
-| 144 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.47% |
-| 146 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.45% |
+| 145 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.45% |
+| 145 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.45% |
 | 147 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.39% |
 | 148 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.38% |
 | 149 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.34% |
@@ -291,7 +291,6 @@
 | 287 | [House Flipper](games/h/house_flipper.md) | 0.10% |
 | 287 | [Supraland](games/s/supraland.md) | 0.10% |
 | 291 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 291 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.09% |
 | 291 | [GRIME](games/g/grime.md) | 0.09% |
 | 291 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 0.09% |
 | 291 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
@@ -299,11 +298,12 @@
 | 291 | [Riverbond](games/r/riverbond.md) | 0.09% |
 | 291 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 291 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
-| 300 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.08% |
-| 300 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
-| 300 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.08% |
-| 300 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.08% |
-| 300 | [MythForce](games/m/mythforce.md) | 0.08% |
+| 299 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.08% |
+| 299 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
+| 299 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.08% |
+| 299 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.08% |
+| 299 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.08% |
+| 299 | [MythForce](games/m/mythforce.md) | 0.08% |
 | 305 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.07% |
 | 305 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.07% |
 | 305 | [Saints Row](games/s/saints_row.md) | 0.07% |
