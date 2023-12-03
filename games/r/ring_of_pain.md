@@ -23,6 +23,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Heavy Hitter | 0.40% | ~962 |
 | Delving Deeper | 0.40% | ~962 |
 | R.I.P | 0.40% | ~962 |
+| Dig Your Own Grave | 0.40% | ~962 |
 | Walk It Off | 0.40% | ~962 |
 | Cold Hearted | 0.40% | ~962 |
 | I Am Overburdened | 0.40% | ~962 |
@@ -39,8 +40,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Expensive Look | 0.40% | ~8 |
 | What Doesn't Kill You | 0.40% | ~8 |
 | Consecutive Curses | 0.30% | ~722 |
+| Shadow Spreads | 0.30% | ~722 |
 | To The Death! | 0.30% | ~722 |
-| Dig Your Own Grave | 0.30% | ~722 |
 | Well Prepared | 0.30% | ~722 |
 | Who To Trust? | 0.30% | ~722 |
 | Just Chilling | 0.30% | ~722 |
@@ -60,7 +61,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Who Needs Luck? | 0.30% | ~6 |
 | Thank You, Friend | 0.20% | ~481 |
 | Achievement Hunter | 0.20% | ~481 |
-| Shadow Spreads | 0.20% | ~481 |
 | Challenge Increases | 0.20% | ~481 |
 | Max Damage! | 0.20% | ~481 |
 | A Rough Road | 0.20% | ~481 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,547 (Ranked 64)  
+Progressed: 240,552 (Ranked 64)  
 Completed: 292 (0.12%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -372,11 +372,11 @@ Completed: 292 (0.12%) (Ranked 280)
 | 2023-11-30 | 240,445 | 291 |
 | 2023-12-01 | 240,480 | 291 |
 | 2023-12-02 | 240,522 | 291 |
-| 2023-12-03 | 240,547 | 292 |
+| 2023-12-03 | 240,552 | 292 |
 ## Awards
-Max (Great for Beginners): 1,534  (Ranked 132)  
-Sum: 13,240 (Ranked 78)  
-Diff (max vs sum): 54  
+Max (Quickly Understood Controls): 1,505  (Ranked 132)  
+Sum: 11,706 (Ranked 84)  
+Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,534 |
@@ -613,3 +613,4 @@ Diff (max vs sum): 54
 | 2023-11-27 | 4.58 | - | 1,534 | 13,232 |
 | 2023-11-29 | 4.58 | - | 1,534 | 13,236 |
 | 2023-12-01 | 4.58 | - | 1,534 | 13,240 |
+| 2023-12-03 | 4.58 | - | 1,505 | 11,706 |

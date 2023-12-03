@@ -23,14 +23,14 @@ Rating: 4.18 (Ranked 935)
 | The Show Mud Go On | 18.00% | ~13,969 |
 | From Inside Gotham's Walls | 18.00% | ~13,969 |
 | Protector of Gotham | 17.00% | ~13,193 |
-| Universal Health Scare | 16.00% | ~12,416 |
-| In Your Element | 15.00% | ~11,640 |
-| Voiceless | 15.00% | ~11,640 |
-| Rock and a Hard Place | 14.00% | ~10,864 |
-| Cooldown | 14.00% | ~10,864 |
-| Seeking Asylum | 14.00% | ~10,864 |
-| Not On My Watch | 13.00% | ~10,088 |
-| Shock Til They Drop | 13.00% | ~10,088 |
+| Universal Health Scare | 16.00% | ~12,417 |
+| In Your Element | 15.00% | ~11,641 |
+| Voiceless | 15.00% | ~11,641 |
+| Rock and a Hard Place | 14.00% | ~10,865 |
+| Cooldown | 14.00% | ~10,865 |
+| Seeking Asylum | 14.00% | ~10,865 |
+| Not On My Watch | 13.00% | ~10,089 |
+| Shock Til They Drop | 13.00% | ~10,089 |
 | End of an Era | 12.00% | ~9,312 |
 | Bulldozed | 12.00% | ~9,312 |
 | Gotham Knight | 12.00% | ~9,312 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 935)
 | Element of Surprise | 0.20% | ~96 |
 | It's Nice to Be Wanted | 0.20% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,603 (Ranked 99)  
+Progressed: 77,604 (Ranked 99)  
 Completed: 124 (0.16%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 124 (0.16%) (Ranked 269)
 | 2023-11-30 | 77,491 | 124 |
 | 2023-12-01 | 77,532 | 124 |
 | 2023-12-02 | 77,577 | 124 |
-| 2023-12-03 | 77,603 | 124 |
+| 2023-12-03 | 77,604 | 124 |
 ## Awards
 Max (Great Boss Battles): 2,987  (Ranked 98)  
 Sum: 5,098 (Ranked 140)  

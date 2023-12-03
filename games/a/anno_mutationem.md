@@ -16,8 +16,8 @@ Rating: 4.56 (Ranked 494)
 | The Ann Flores Combo Experience | 26.00% | ~196 |
 | Club Star | 25.00% | ~188 |
 | Fire in the hole! | 21.00% | ~158 |
+| Omnipotence | 20.00% | ~151 |
 | The Warlord | 20.00% | ~151 |
-| Omnipotence | 19.00% | ~143 |
 | You are the One | 19.00% | ~143 |
 | Deadly Kombationem | 18.00% | ~136 |
 | The truth is out there | 16.00% | ~121 |

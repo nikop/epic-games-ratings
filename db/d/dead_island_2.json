@@ -4,9 +4,9 @@
   "ProductSlug": "dead-island-2",
   "Ranking_Rating": 528,
   "Ranking_Popularity": 49,
-  "Ranking_PopularitySum": 83,
+  "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 21,
-  "Ranking_EOS_Completed": 232,
+  "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 31,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
@@ -7167,9 +7167,9 @@
       "Count": 510
     }
   ],
-  "EOS_Progressed": 729304,
+  "EOS_Progressed": 729312,
   "EOS_Completed": 2461,
-  "EOS_NewPlayers": 3957,
+  "EOS_NewPlayers": 3937,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -33147,6 +33147,11 @@
       "Time": "2023-12-03T07:08:52.1915925+00:00",
       "NumProgressed": 729304,
       "NumCompleted": 2461
+    },
+    {
+      "Time": "2023-12-03T08:08:36.4146338+00:00",
+      "NumProgressed": 729312,
+      "NumCompleted": 2461
     }
   ],
   "TotalAchievements": 51,
@@ -33526,7 +33531,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1645
+      "UsersEstimate": 1646
     },
     {
       "ID": "ach_gardening_tools",
@@ -33542,7 +33547,7 @@
       "Name": "Pork Chopped",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1645
+      "UsersEstimate": 1646
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -33565,13 +33570,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 729304,
+      "Progressed": 729312,
       "Completed": 2461
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 54846,
+      "Progressed": 54854,
       "Completed": 36623
     }
   ],
@@ -33579,8 +33584,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-12-03T07:00:50.9513465+00:00",
-  "LastChanged_Achievements": "2023-12-03T07:08:52.1915921+00:00",
+  "LastChanged_Achievements": "2023-12-03T08:08:36.4146335+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:31.1640976+00:00",
-  "LastUpdate_Ratings": "2023-12-03T07:00:50.951347+00:00",
-  "LastUpdate_Achievements": "2023-12-03T07:08:52.1917115+00:00"
+  "LastUpdate_Ratings": "2023-12-03T08:00:04.7702489+00:00",
+  "LastUpdate_Achievements": "2023-12-03T08:08:36.4147783+00:00"
 }

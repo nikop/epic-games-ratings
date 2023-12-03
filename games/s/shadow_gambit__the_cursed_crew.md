@@ -5,19 +5,19 @@ Rating: 4.77 (Ranked 113)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 66.00% | ~654 |
-| The Adventure Begins | 51.00% | ~505 |
-| Swabbie | 39.00% | ~386 |
+| A New Journey | 66.00% | ~655 |
+| The Adventure Begins | 51.00% | ~506 |
+| Swabbie | 39.00% | ~387 |
 | With Great Power… | 38.00% | ~377 |
-| This Belongs in a Museum | 35.00% | ~347 |
-| The Gambit Has Begun | 32.00% | ~317 |
-| Somewhere Deep in the Lost Caribbean | 28.00% | ~277 |
-| Powder Monkey | 28.00% | ~277 |
+| This Belongs in a Museum | 35.00% | ~348 |
+| The Gambit Has Begun | 32.00% | ~318 |
+| Somewhere Deep in the Lost Caribbean | 28.00% | ~278 |
+| Powder Monkey | 28.00% | ~278 |
 | Mirror Mirror on the Wall | 27.00% | ~268 |
-| Pirates Assemble! | 25.00% | ~248 |
+| Pirates Assemble! | 24.00% | ~238 |
 | Buccaneer | 22.00% | ~218 |
-| Fishy Fish | 21.00% | ~208 |
-| All Good Things | 19.00% | ~188 |
+| Fishy Fish | 21.00% | ~209 |
+| All Good Things | 19.00% | ~189 |
 | Seadog | 16.00% | ~159 |
 | Persistent Parasite | 16.00% | ~159 |
 | Jaded Judge | 12.00% | ~119 |
@@ -26,14 +26,14 @@ Rating: 4.77 (Ranked 113)
 | Tobacco Travesty | 10.00% | ~99 |
 | Accursed Artifacts | 10.00% | ~99 |
 | Lyrical Longing | 9.00% | ~89 |
-| Corsair | 6.00% | ~59 |
-| Fully Decked | 6.00% | ~59 |
+| Corsair | 6.00% | ~60 |
+| Fully Decked | 6.00% | ~60 |
 | Freebooter | 4.00% | ~40 |
 | Marauder | 4.00% | ~40 |
 | Welcome Back Jester | 4.00% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 991 (Ranked 265)  
-Completed: 31 (3.13%) (Ranked 100)  
+Progressed: 993 (Ranked 265)  
+Completed: 31 (3.12%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -147,7 +147,7 @@ Completed: 31 (3.13%) (Ranked 100)
 | 2023-11-30 | 982 | 31 |
 | 2023-12-01 | 984 | 31 |
 | 2023-12-02 | 989 | 31 |
-| 2023-12-03 | 991 | 31 |
+| 2023-12-03 | 993 | 31 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

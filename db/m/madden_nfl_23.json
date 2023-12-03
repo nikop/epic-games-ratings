@@ -871,9 +871,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3819,
+  "EOS_Progressed": 3820,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6486,6 +6486,11 @@
       "Time": "2023-12-03T06:03:59.8726605+00:00",
       "NumProgressed": 3819,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T08:04:20.2048681+00:00",
+      "NumProgressed": 3820,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -6506,7 +6511,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 2100
+      "UsersEstimate": 2101
     },
     {
       "ID": "achievement_11",
@@ -6530,7 +6535,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2024
+      "UsersEstimate": 2025
     },
     {
       "ID": "achievement_14",
@@ -6538,15 +6543,15 @@
       "Name": "Dealmaker",
       "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1489
+      "UsersEstimate": 1490
     },
     {
       "ID": "achievement_15",
       "SetID": "c8fif6p",
       "Name": "MVP",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2024
+      "UsersEstimate": 2063
     },
     {
       "ID": "achievement_16",
@@ -6665,7 +6670,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3819,
+      "Progressed": 3820,
       "Completed": 0
     }
   ],
@@ -6673,8 +6678,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-11-30T00:00:12.6571835+00:00",
-  "LastChanged_Achievements": "2023-12-03T07:04:49.4241793+00:00",
+  "LastChanged_Achievements": "2023-12-03T08:04:20.2048677+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:09.3304154+00:00",
-  "LastUpdate_Ratings": "2023-12-03T07:02:56.1125311+00:00",
-  "LastUpdate_Achievements": "2023-12-03T07:04:49.4242533+00:00"
+  "LastUpdate_Ratings": "2023-12-03T08:02:52.3122947+00:00",
+  "LastUpdate_Achievements": "2023-12-03T08:04:20.2049159+00:00"
 }

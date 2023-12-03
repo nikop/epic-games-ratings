@@ -3,8 +3,8 @@
   "Name": "Infindustry",
   "ProductSlug": "infindustry-cccc40",
   "Ranking_EOS_Progress": 419,
-  "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_Completed": 183,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-05-11T23:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 124,
+  "EOS_Progressed": 125,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.81,
+  "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
     {
       "Time": "2023-04-26T07:04:01.8730008+00:00",
@@ -639,6 +639,11 @@
       "Time": "2023-12-01T16:04:44.3912481+00:00",
       "NumProgressed": 124,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T08:04:48.7631558+00:00",
+      "NumProgressed": 125,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 12,
@@ -658,7 +663,7 @@
       "Name": "Cook",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Crafter",
@@ -738,21 +743,21 @@
       "Name": "Workforce",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
     {
       "ID": "82ojhod",
       "IsBase": true,
-      "Progressed": 124,
+      "Progressed": 125,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-12-03T07:05:26.2983462+00:00",
+  "LastChanged_Achievements": "2023-12-03T08:04:48.7631554+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:32.8948928+00:00",
-  "LastUpdate_Ratings": "2023-12-03T07:02:41.1576232+00:00",
-  "LastUpdate_Achievements": "2023-12-03T07:05:26.2983562+00:00"
+  "LastUpdate_Ratings": "2023-12-03T08:02:40.650406+00:00",
+  "LastUpdate_Achievements": "2023-12-03T08:04:48.763169+00:00"
 }

@@ -33,8 +33,8 @@ Rating: 4.64 (Ranked 334)
 | There's Always Peng! | 38.00% | ~800 |
 | Front Toward Enemy | 34.00% | ~715 |
 | A Cut Above | 33.00% | ~694 |
+| Whole Again | 30.00% | ~631 |
 | Set A Benchmark | 30.00% | ~631 |
-| Whole Again | 29.00% | ~610 |
 | Pack Rat | 27.00% | ~568 |
 | Final Regeneration | 26.00% | ~547 |
 | Full Contact | 26.00% | ~547 |

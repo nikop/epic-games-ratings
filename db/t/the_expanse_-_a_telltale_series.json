@@ -247,9 +247,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15854,
+  "EOS_Progressed": 15855,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 284,
+  "EOS_NewPlayers": 283,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -12952,6 +12952,11 @@
       "Time": "2023-12-03T07:05:25.5252322+00:00",
       "NumProgressed": 15854,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-03T08:04:48.3209673+00:00",
+      "NumProgressed": 15855,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -12996,7 +13001,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     },
     {
       "ID": "14",
@@ -13212,7 +13217,7 @@
       "Name": "Safe Cracker",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "33",
@@ -13220,7 +13225,7 @@
       "Name": "Zen Master",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "34",
@@ -13236,20 +13241,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15854,
+      "Progressed": 15855,
       "Completed": 39
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1808,
+      "Progressed": 1809,
       "Completed": 796
     }
   ],
@@ -13257,8 +13262,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-02T18:02:57.3938434+00:00",
-  "LastChanged_Achievements": "2023-12-03T07:05:25.5252317+00:00",
+  "LastChanged_Achievements": "2023-12-03T08:04:48.3209669+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-03T07:02:54.6984401+00:00",
-  "LastUpdate_Achievements": "2023-12-03T07:05:25.5253024+00:00"
+  "LastUpdate_Ratings": "2023-12-03T08:02:51.0966268+00:00",
+  "LastUpdate_Achievements": "2023-12-03T08:04:48.3210446+00:00"
 }

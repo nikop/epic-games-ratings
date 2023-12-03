@@ -1639,9 +1639,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 13832,
+  "EOS_Progressed": 13833,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -15324,6 +15324,11 @@
       "Time": "2023-12-03T05:09:12.6834203+00:00",
       "NumProgressed": 13832,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-03T08:09:16.4879153+00:00",
+      "NumProgressed": 13833,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 35,
@@ -15335,7 +15340,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11342
+      "UsersEstimate": 11343
     },
     {
       "ID": "ACH02",
@@ -15383,7 +15388,7 @@
       "Name": "The American Dream",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 2766
+      "UsersEstimate": 2767
     },
     {
       "ID": "ACH08",
@@ -15455,7 +15460,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2351
+      "UsersEstimate": 2352
     },
     {
       "ID": "ACH17",
@@ -15614,7 +15619,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13832,
+      "Progressed": 13833,
       "Completed": 56
     }
   ],
@@ -15622,8 +15627,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-03T07:01:14.5729181+00:00",
-  "LastChanged_Achievements": "2023-12-03T07:09:43.9890613+00:00",
+  "LastChanged_Achievements": "2023-12-03T08:09:16.4879141+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:45.2117848+00:00",
-  "LastUpdate_Ratings": "2023-12-03T07:01:14.5729185+00:00",
-  "LastUpdate_Achievements": "2023-12-03T07:09:43.9891473+00:00"
+  "LastUpdate_Ratings": "2023-12-03T08:00:22.2841674+00:00",
+  "LastUpdate_Achievements": "2023-12-03T08:09:16.4880027+00:00"
 }

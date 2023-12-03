@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -569,9 +569,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 97173,
+  "EOS_Progressed": 97174,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 1181,
+  "EOS_NewPlayers": 1175,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -23939,6 +23939,11 @@
       "Time": "2023-12-03T07:10:15.8381045+00:00",
       "NumProgressed": 97173,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-12-03T08:09:41.3605811+00:00",
+      "NumProgressed": 97174,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 67,
@@ -23950,7 +23955,7 @@
       "Name": "Follow the Light",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 56360
+      "UsersEstimate": 56361
     },
     {
       "ID": "02",
@@ -23958,7 +23963,7 @@
       "Name": "Nordic Walking",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 37897
+      "UsersEstimate": 37898
     },
     {
       "ID": "03",
@@ -23998,7 +24003,7 @@
       "Name": "Heavy Metal",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 20406
+      "UsersEstimate": 20407
     },
     {
       "ID": "08",
@@ -24006,7 +24011,7 @@
       "Name": "Iron Horse",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 20406
+      "UsersEstimate": 20407
     },
     {
       "ID": "09",
@@ -24062,7 +24067,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 16519
+      "UsersEstimate": 16520
     },
     {
       "ID": "16",
@@ -24070,7 +24075,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 12632
+      "UsersEstimate": 12633
     },
     {
       "ID": "17",
@@ -24158,7 +24163,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 20406
+      "UsersEstimate": 20407
     },
     {
       "ID": "28",
@@ -24166,7 +24171,7 @@
       "Name": "Come One, Come All",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 20406
+      "UsersEstimate": 20407
     },
     {
       "ID": "29",
@@ -24198,7 +24203,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 45671
+      "UsersEstimate": 45672
     },
     {
       "ID": "33",
@@ -24214,7 +24219,7 @@
       "Name": "Energized!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 16519
+      "UsersEstimate": 16520
     },
     {
       "ID": "35",
@@ -24310,7 +24315,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 24293
+      "UsersEstimate": 24294
     },
     {
       "ID": "47",
@@ -24414,7 +24419,7 @@
       "Name": "Ding!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3638
+      "UsersEstimate": 3639
     },
     {
       "ID": "60",
@@ -24485,21 +24490,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 97173,
+      "Progressed": 97174,
       "Completed": 107
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 60641,
+      "Progressed": 60642,
       "Completed": 92
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-11-23T00:00:36.1638519+00:00",
-  "LastChanged_Achievements": "2023-12-03T07:10:15.8381038+00:00",
+  "LastChanged_Achievements": "2023-12-03T08:09:41.3605809+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:16.2842941+00:00",
-  "LastUpdate_Ratings": "2023-12-03T07:01:18.4982259+00:00",
-  "LastUpdate_Achievements": "2023-12-03T07:10:15.838231+00:00"
+  "LastUpdate_Ratings": "2023-12-03T08:00:25.1881285+00:00",
+  "LastUpdate_Achievements": "2023-12-03T08:09:41.3607466+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "7c53d7dc86494d5abcdc974b0ef0a843",
   "Name": "Kena: Bridge of Spirits",
   "ProductSlug": "kena-bridge-of-spirits",
-  "Ranking_Rating": 214,
+  "Ranking_Rating": 215,
   "Ranking_Popularity": 136,
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1481,7 +1481,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 429363,
+  "EOS_Progressed": 429364,
   "EOS_Completed": 550,
   "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 1,
@@ -16341,6 +16341,11 @@
       "Time": "2023-12-03T07:07:23.9313006+00:00",
       "NumProgressed": 429363,
       "NumCompleted": 550
+    },
+    {
+      "Time": "2023-12-03T08:06:20.1540854+00:00",
+      "NumProgressed": 429364,
+      "NumCompleted": 550
     }
   ],
   "TotalAchievements": 41,
@@ -16352,7 +16357,7 @@
       "Name": "Skillful Spirit Guide",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 64404
+      "UsersEstimate": 64405
     },
     {
       "ID": "ACH_ABILITY_BOMB",
@@ -16376,7 +16381,7 @@
       "Name": "Crossing Over",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 124515
+      "UsersEstimate": 124516
     },
     {
       "ID": "ACH_BOSS_ROT_GOD",
@@ -16392,7 +16397,7 @@
       "Name": "Spirit Guide",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 180332
+      "UsersEstimate": 180333
     },
     {
       "ID": "ACH_BOSS_TOSHI",
@@ -16400,7 +16405,7 @@
       "Name": "A Leader Walks Alone",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 111634
+      "UsersEstimate": 111635
     },
     {
       "ID": "ACH_BOSS_WOODSMITH",
@@ -16440,7 +16445,7 @@
       "Name": "Quick Draw",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 124515
+      "UsersEstimate": 124516
     },
     {
       "ID": "ACH_CHALLENGE_DASH_KILL",
@@ -16472,7 +16477,7 @@
       "Name": "Bow Master",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 111634
+      "UsersEstimate": 111635
     },
     {
       "ID": "ACH_CHALLENGE_PARRY_KILL",
@@ -16520,7 +16525,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 407895
+      "UsersEstimate": 407896
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -16536,7 +16541,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 309141
+      "UsersEstimate": 309142
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -16544,7 +16549,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 158864
+      "UsersEstimate": 158865
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -16552,7 +16557,7 @@
       "Name": "Into the Woods",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 300554
+      "UsersEstimate": 300555
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -16560,7 +16565,7 @@
       "Name": "The Lonely Path",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 111634
+      "UsersEstimate": 111635
     },
     {
       "ID": "ACH_LOCATION_VILLAGE",
@@ -16568,7 +16573,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 343490
+      "UsersEstimate": 343491
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -16632,7 +16637,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 240443
+      "UsersEstimate": 240444
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -16648,7 +16653,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 145983
+      "UsersEstimate": 145984
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -16679,15 +16684,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 429363,
+      "Progressed": 429364,
       "Completed": 550
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-11-28T07:57:38.5040997+00:00",
-  "LastChanged_Achievements": "2023-12-03T07:07:23.9313002+00:00",
+  "LastChanged_Achievements": "2023-12-03T08:06:20.1540849+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:49.1718908+00:00",
-  "LastUpdate_Ratings": "2023-12-03T07:01:22.1737515+00:00",
-  "LastUpdate_Achievements": "2023-12-03T07:07:23.9313916+00:00"
+  "LastUpdate_Ratings": "2023-12-03T08:00:27.8822505+00:00",
+  "LastUpdate_Achievements": "2023-12-03T08:06:20.1541764+00:00"
 }

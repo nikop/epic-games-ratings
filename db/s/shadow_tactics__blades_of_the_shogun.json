@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2236,9 +2236,9 @@
       "Count": 256
     }
   ],
-  "EOS_Progressed": 217165,
+  "EOS_Progressed": 217169,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 1263,
+  "EOS_NewPlayers": 1260,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -28211,6 +28211,11 @@
       "Time": "2023-12-03T07:05:50.5358139+00:00",
       "NumProgressed": 217165,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-12-03T08:05:07.0273846+00:00",
+      "NumProgressed": 217169,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 44,
@@ -28222,7 +28227,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 21716
+      "UsersEstimate": 21717
     },
     {
       "ID": "AtheistOx",
@@ -28438,7 +28443,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17373
+      "UsersEstimate": 17374
     },
     {
       "ID": "Rollin",
@@ -28470,7 +28475,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17373
+      "UsersEstimate": 17374
     },
     {
       "ID": "TanukiTime",
@@ -28510,7 +28515,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 21716
+      "UsersEstimate": 21717
     },
     {
       "ID": "TimeParadox",
@@ -28550,7 +28555,7 @@
       "Name": "When Cut Across the Neck",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1954
+      "UsersEstimate": 1955
     },
     {
       "ID": "WinnerWinner",
@@ -28573,15 +28578,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 217165,
+      "Progressed": 217169,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-12-03T01:48:17.7981876+00:00",
-  "LastChanged_Achievements": "2023-12-03T07:05:50.5358135+00:00",
+  "LastChanged_Achievements": "2023-12-03T08:05:07.0273844+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:31.5350998+00:00",
-  "LastUpdate_Ratings": "2023-12-03T06:58:36.1072735+00:00",
-  "LastUpdate_Achievements": "2023-12-03T07:05:50.5359653+00:00"
+  "LastUpdate_Ratings": "2023-12-03T07:58:25.1028801+00:00",
+  "LastUpdate_Achievements": "2023-12-03T08:05:07.0275567+00:00"
 }

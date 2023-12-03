@@ -6,15 +6,15 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,918 |
-| keep it tidy | 78.00% | ~8,058 |
-| podium | 72.00% | ~7,438 |
+| light attack | 96.00% | ~9,919 |
+| keep it tidy | 78.00% | ~8,059 |
+| podium | 72.00% | ~7,439 |
 | medium attack | 60.00% | ~6,199 |
 | brail | 57.00% | ~5,889 |
 | good drivers have dead flies on the side windows | 44.00% | ~4,546 |
-| grocery-getter | 40.00% | ~4,132 |
-| rwd only | 27.00% | ~2,789 |
-| food tour: pasta | 27.00% | ~2,789 |
+| grocery-getter | 40.00% | ~4,133 |
+| rwd only | 27.00% | ~2,790 |
+| food tour: pasta | 27.00% | ~2,790 |
 | autopilot | 22.00% | ~2,273 |
 | you can't treat a car like a human being. a car requires love | 22.00% | ~2,273 |
 | to finish first, first you must finish | 21.00% | ~2,170 |
@@ -28,11 +28,11 @@ Number of Ratings: 56  (23.09.2022)
 | snorkel | 14.00% | ~1,446 |
 | perkele | 13.00% | ~1,343 |
 | where is the stage? | 13.00% | ~1,343 |
-| maximum attack | 11.00% | ~1,136 |
+| maximum attack | 11.00% | ~1,137 |
 | espresso | 10.00% | ~1,033 |
 | parallel universe | 10.00% | ~1,033 |
-| mittens | 8.00% | ~826 |
-| samir | 8.00% | ~826 |
+| mittens | 8.00% | ~827 |
+| samir | 8.00% | ~827 |
 | eurobeat | 7.00% | ~723 |
 | viking | 7.00% | ~723 |
 | master of rally | 7.00% | ~723 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.40% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,331 (Ranked 165)  
+Progressed: 10,332 (Ranked 165)  
 Completed: 9 (0.09%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,6 +212,7 @@ Completed: 9 (0.09%) (Ranked 291)
 | 2023-11-29 | 10,327 | 9 |
 | 2023-11-30 | 10,328 | 9 |
 | 2023-12-02 | 10,331 | 9 |
+| 2023-12-03 | 10,332 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

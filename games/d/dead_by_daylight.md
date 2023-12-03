@@ -6,19 +6,19 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.90% | ~9,576 |
-| Skillful | 0.80% | ~8,512 |
-| Zealous | 0.70% | ~7,448 |
-| Not half bad | 0.70% | ~7,448 |
-| Apt Survivor | 0.60% | ~6,384 |
-| Survival Treasures | 0.60% | ~6,384 |
-| I | 0.60% | ~6,384 |
-| Make Some Noise | 0.60% | ~6,384 |
-| No one left behind | 0.50% | ~5,320 |
-| Medic | 0.50% | ~5,320 |
-| Handyman | 0.50% | ~5,320 |
-| Sorted | 0.50% | ~5,320 |
-| Resurgence | 0.50% | ~5,320 |
+| It wakes | 0.90% | ~9,577 |
+| Skillful | 0.80% | ~8,513 |
+| Zealous | 0.70% | ~7,449 |
+| Not half bad | 0.70% | ~7,449 |
+| Apt Survivor | 0.60% | ~6,385 |
+| Survival Treasures | 0.60% | ~6,385 |
+| I | 0.60% | ~6,385 |
+| Make Some Noise | 0.60% | ~6,385 |
+| No one left behind | 0.50% | ~5,321 |
+| Medic | 0.50% | ~5,321 |
+| Handyman | 0.50% | ~5,321 |
+| Sorted | 0.50% | ~5,321 |
+| Resurgence | 0.50% | ~5,321 |
 | The Grand Sacrifice | 0.40% | ~4,256 |
 | Agonizing Escape | 0.40% | ~4,256 |
 | Backdoor Escape | 0.40% | ~4,256 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,064 |
 | Adept Good Guy | 0.10% | ~1,064 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,063,951 (Ranked 14)  
+Progressed: 1,064,102 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -466,7 +466,7 @@ Completed: 61 (0.01%) (Ranked 344)
 | 2023-11-30 | 1,056,530 | 61 |
 | 2023-12-01 | 1,059,298 | 61 |
 | 2023-12-02 | 1,062,340 | 61 |
-| 2023-12-03 | 1,063,951 | 61 |
+| 2023-12-03 | 1,064,102 | 61 |
 ## Awards
 Max (Diverse Characters): 37,095  (Ranked 15)  
 Sum: 281,988 (Ranked 12)  

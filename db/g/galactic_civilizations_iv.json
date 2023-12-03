@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 300,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -927,9 +927,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7376,
+  "EOS_Progressed": 7377,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8912,6 +8912,11 @@
       "Time": "2023-12-03T04:08:40.271385+00:00",
       "NumProgressed": 7376,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T08:09:06.4371357+00:00",
+      "NumProgressed": 7377,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8963,7 +8968,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4499
+      "UsersEstimate": 4500
     },
     {
       "ID": "Control_All_Relics",
@@ -9113,9 +9118,9 @@
       "ID": "Have_Many_TradeRoutes",
       "SetID": "4h07amh",
       "Name": "Trading Partner",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 664
+      "UsersEstimate": 590
     },
     {
       "ID": "Level_5_Ship",
@@ -9411,7 +9416,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4794
+      "UsersEstimate": 4795
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -9498,15 +9503,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7376,
+      "Progressed": 7377,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-11-24T10:59:15.0247193+00:00",
-  "LastChanged_Achievements": "2023-12-03T07:09:31.0882141+00:00",
+  "LastChanged_Achievements": "2023-12-03T08:09:06.4371352+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:22.8362699+00:00",
-  "LastUpdate_Ratings": "2023-12-03T07:00:11.8163575+00:00",
-  "LastUpdate_Achievements": "2023-12-03T07:09:31.0882922+00:00"
+  "LastUpdate_Ratings": "2023-12-03T07:59:36.4642771+00:00",
+  "LastUpdate_Achievements": "2023-12-03T08:09:06.4372221+00:00"
 }

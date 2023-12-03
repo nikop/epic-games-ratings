@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1673,
+  "EOS_Progressed": 1674,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 7.11,
   "EosHistory": [
@@ -3984,6 +3984,11 @@
       "Time": "2023-12-03T05:09:33.1638059+00:00",
       "NumProgressed": 1673,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-03T08:09:37.0507189+00:00",
+      "NumProgressed": 1674,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 30,
@@ -3995,7 +4000,7 @@
       "Name": "A fresh start",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "LEVEL_002",
@@ -4019,7 +4024,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "LEVEL_005",
@@ -4027,7 +4032,7 @@
       "Name": "Small village",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "LEVEL_006",
@@ -4099,7 +4104,7 @@
       "Name": "Cross-country",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "LEVEL_015",
@@ -4129,17 +4134,17 @@
       "ID": "LEVEL_018",
       "SetID": "212bg48",
       "Name": "Isle rock city",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 218
     },
     {
       "ID": "LEVEL_019",
       "SetID": "212bg48",
       "Name": "Calling Mr. Joe",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 201
     },
     {
       "ID": "LEVEL_020",
@@ -4234,14 +4239,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1673,
+      "Progressed": 1674,
       "Completed": 119
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-12-03T07:10:10.2151329+00:00",
+  "LastChanged_Achievements": "2023-12-03T08:09:37.0507183+00:00",
   "LastUpdate_AppInfo": "2023-11-28T03:57:10.4793564+00:00",
-  "LastUpdate_Ratings": "2023-12-03T06:59:00.5578076+00:00",
-  "LastUpdate_Achievements": "2023-12-03T07:10:10.2151741+00:00"
+  "LastUpdate_Ratings": "2023-12-03T07:58:43.5901913+00:00",
+  "LastUpdate_Achievements": "2023-12-03T08:09:37.0507572+00:00"
 }

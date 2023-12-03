@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 821,
+  "EOS_Progressed": 822,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 0,
@@ -1732,6 +1732,11 @@
       "Time": "2023-12-02T20:06:54.2648061+00:00",
       "NumProgressed": 821,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T08:05:34.2168896+00:00",
+      "NumProgressed": 822,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1760,7 +1765,7 @@
       "Name": "Chosen Victor",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "CompleteCampaignChampion",
@@ -1800,7 +1805,7 @@
       "Name": "Pathfinder",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "CompleteChapter10",
@@ -1840,7 +1845,7 @@
       "Name": "For Harkanibus!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "CompleteChapter15",
@@ -1888,7 +1893,7 @@
       "Name": "Met the Enemy",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "CompleteChapter3",
@@ -1896,7 +1901,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "CompleteChapter4",
@@ -2039,14 +2044,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 821,
+      "Progressed": 822,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-03T07:06:25.19773+00:00",
+  "LastChanged_Achievements": "2023-12-03T08:05:34.2168893+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:09.4303292+00:00",
-  "LastUpdate_Ratings": "2023-12-03T06:59:49.5345763+00:00",
-  "LastUpdate_Achievements": "2023-12-03T07:06:25.197764+00:00"
+  "LastUpdate_Ratings": "2023-12-03T07:59:19.7874087+00:00",
+  "LastUpdate_Achievements": "2023-12-03T08:05:34.2169253+00:00"
 }

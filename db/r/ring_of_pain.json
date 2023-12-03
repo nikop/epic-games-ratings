@@ -4,11 +4,11 @@
   "ProductSlug": "ring-of-pain",
   "Ranking_Rating": 449,
   "Ranking_Popularity": 132,
-  "Ranking_PopularitySum": 78,
+  "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3452,12 +3452,18 @@
       "Rating": 4.58,
       "NumberOfAwards": 13240,
       "NumberOfAwardsMax": 1534
+    },
+    {
+      "Time": "2023-12-03T07:59:02.162117+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11706,
+      "NumberOfAwardsMax": 1505
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13240,
-  "NumberOfAwardsMax": 1534,
-  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwards": 11706,
+  "NumberOfAwardsMax": 1505,
+  "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
@@ -3526,9 +3532,9 @@
       "Count": 746
     }
   ],
-  "EOS_Progressed": 240547,
+  "EOS_Progressed": 240552,
   "EOS_Completed": 292,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -26941,6 +26947,11 @@
       "Time": "2023-12-03T07:10:18.6461428+00:00",
       "NumProgressed": 240547,
       "NumCompleted": 292
+    },
+    {
+      "Time": "2023-12-03T08:09:43.4768641+00:00",
+      "NumProgressed": 240552,
+      "NumCompleted": 292
     }
   ],
   "TotalAchievements": 138,
@@ -27014,9 +27025,9 @@
       "ID": "DARKENDING",
       "SetID": "5l8oe0h",
       "Name": "Shadow Spreads",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 722
     },
     {
       "ID": "DARKENDINGMEDIUM",
@@ -27142,9 +27153,9 @@
       "ID": "DIETOGRAVESTONE",
       "SetID": "5l8oe0h",
       "Name": "Dig Your Own Grave",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 962
     },
     {
       "ID": "DONTATTACKRATSDEPTH10",
@@ -28055,22 +28066,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240547,
+      "Progressed": 240552,
       "Completed": 292
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2027,
+      "Progressed": 2032,
       "Completed": 393
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2023-12-01T22:58:42.0642847+00:00",
-  "LastChanged_Achievements": "2023-12-03T07:10:18.6461424+00:00",
+  "LastChanged": "2023-12-03T07:59:02.1621168+00:00",
+  "LastChanged_Achievements": "2023-12-03T08:09:43.4768637+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:52.1458075+00:00",
-  "LastUpdate_Ratings": "2023-12-03T06:59:25.4792633+00:00",
-  "LastUpdate_Achievements": "2023-12-03T07:10:18.6464133+00:00"
+  "LastUpdate_Ratings": "2023-12-03T07:59:02.1621174+00:00",
+  "LastUpdate_Achievements": "2023-12-03T08:09:43.4772131+00:00"
 }

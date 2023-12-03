@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 231,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2059,9 +2059,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 282028,
+  "EOS_Progressed": 282030,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 736,
+  "EOS_NewPlayers": 738,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27984,6 +27984,11 @@
       "Time": "2023-12-03T07:06:53.5009207+00:00",
       "NumProgressed": 282028,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T08:05:56.2762823+00:00",
+      "NumProgressed": 282030,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -28083,7 +28088,7 @@
       "Name": "First but not Last",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14101
+      "UsersEstimate": 14102
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -28219,7 +28224,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 231263
+      "UsersEstimate": 231265
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -28234,21 +28239,21 @@
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 282028,
+      "Progressed": 282030,
       "Completed": 0
     },
     {
       "ID": "5ld4kno",
       "IsBase": false,
-      "Progressed": 187,
-      "Completed": 187
+      "Progressed": 189,
+      "Completed": 189
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-11-30T20:03:23.0507631+00:00",
-  "LastChanged_Achievements": "2023-12-03T07:06:53.5009203+00:00",
+  "LastChanged_Achievements": "2023-12-03T08:05:56.2762819+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.6593003+00:00",
-  "LastUpdate_Ratings": "2023-12-03T07:03:21.333587+00:00",
-  "LastUpdate_Achievements": "2023-12-03T07:06:53.5010452+00:00"
+  "LastUpdate_Ratings": "2023-12-03T08:03:10.845253+00:00",
+  "LastUpdate_Achievements": "2023-12-03T08:05:56.2764405+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 214,
+  "Ranking_Rating": 215,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7860,
+  "EOS_Progressed": 7861,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -8636,6 +8636,11 @@
       "Time": "2023-12-03T03:05:05.886715+00:00",
       "NumProgressed": 7860,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-03T08:04:24.7161266+00:00",
+      "NumProgressed": 7861,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -8799,7 +8804,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1101
     },
     {
       "ID": "THING",
@@ -8814,7 +8819,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7860,
+      "Progressed": 7861,
       "Completed": 34
     }
   ],
@@ -8822,8 +8827,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-30T18:59:17.1585861+00:00",
-  "LastChanged_Achievements": "2023-12-03T07:04:55.4160878+00:00",
+  "LastChanged_Achievements": "2023-12-03T08:04:24.7161263+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:30.2114196+00:00",
-  "LastUpdate_Ratings": "2023-12-03T07:00:49.327053+00:00",
-  "LastUpdate_Achievements": "2023-12-03T07:04:55.4161317+00:00"
+  "LastUpdate_Ratings": "2023-12-03T08:00:03.6538631+00:00",
+  "LastUpdate_Achievements": "2023-12-03T08:04:24.7161858+00:00"
 }

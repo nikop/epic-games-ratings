@@ -4,7 +4,7 @@
   "ProductSlug": "final-fantasy-vii-remake-intergrade",
   "Ranking_Rating": 44,
   "Ranking_Popularity": 69,
-  "Ranking_PopularitySum": 81,
+  "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 774,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 491,
@@ -4631,10 +4631,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 12467,
       "NumberOfAwardsMax": 5670
+    },
+    {
+      "Time": "2023-12-03T07:57:19.5355558+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 12475,
+      "NumberOfAwardsMax": 5670
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12467,
+  "NumberOfAwards": 12475,
   "NumberOfAwardsMax": 5670,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4648,7 +4654,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3809
+      "Count": 3817
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4728,8 +4734,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:16.7757899+00:00",
-  "LastChanged": "2023-12-03T06:57:05.4409724+00:00",
+  "LastChanged": "2023-12-03T07:57:19.5355555+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:01.4365007+00:00",
-  "LastUpdate_Ratings": "2023-12-03T06:57:05.4409729+00:00",
-  "LastUpdate_Achievements": "2023-12-03T07:09:37.0094342+00:00"
+  "LastUpdate_Ratings": "2023-12-03T07:57:19.5355562+00:00",
+  "LastUpdate_Achievements": "2023-12-03T08:09:11.0547798+00:00"
 }

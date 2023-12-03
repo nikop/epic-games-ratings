@@ -23,8 +23,8 @@ Rating: 4.62 (Ranked 368)
 | Immaculate Aim | 21.00% | ~199 |
 | Like Clockwork | 20.00% | ~189 |
 | The Betrayer | 20.00% | ~189 |
+| Golem Chaser | 20.00% | ~189 |
 | Right On Time | 19.00% | ~180 |
-| Golem Chaser | 19.00% | ~180 |
 | Check Your Pulse | 19.00% | ~180 |
 | The Man Who Shattered Time | 18.00% | ~170 |
 | The Loose Cannon | 18.00% | ~170 |
