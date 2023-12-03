@@ -16,7 +16,7 @@
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.47% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Overloop](games/o/overloop.md) | 25.00% |
-| 17 | [The Riflemen](games/t/the_riflemen.md) | 24.49% |
+| 17 | [The Riflemen](games/t/the_riflemen.md) | 24.47% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 20 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
@@ -58,8 +58,8 @@
 | 56 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.53% |
 | 57 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.15% |
 | 58 | [Anna's Quest](games/a/anna's_quest.md) | 7.14% |
-| 58 | [Sonic Origins](games/s/sonic_origins.md) | 7.14% |
 | 58 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 7.14% |
+| 60 | [Sonic Origins](games/s/sonic_origins.md) | 7.13% |
 | 61 | [Scorn](games/s/scorn.md) | 7.09% |
 | 62 | [Time Loader](games/t/time_loader.md) | 7.03% |
 | 63 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.67% |
@@ -70,7 +70,7 @@
 | 68 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
 | 69 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.77% |
 | 70 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
-| 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.70% |
+| 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.69% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 72 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 74 | [JARS](games/j/jars.md) | 5.00% |
@@ -142,9 +142,9 @@
 | 140 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.59% |
 | 141 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
 | 142 | [Five Dates](games/f/five_dates.md) | 1.56% |
-| 143 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.55% |
-| 144 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.48% |
-| 145 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.47% |
+| 143 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.54% |
+| 144 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.47% |
+| 144 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.47% |
 | 146 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.45% |
 | 147 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.43% |
 | 148 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.37% |
@@ -157,9 +157,9 @@
 | 155 | [Ten Dates](games/t/ten_dates.md) | 1.26% |
 | 156 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.25% |
 | 157 | [Iron Danger](games/i/iron_danger.md) | 1.23% |
-| 158 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
 | 158 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.22% |
-| 160 | [Lemon Cake](games/l/lemon_cake.md) | 1.21% |
+| 159 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
+| 159 | [Lemon Cake](games/l/lemon_cake.md) | 1.21% |
 | 161 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.18% |
 | 162 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.15% |
 | 163 | [Adios](games/a/adios.md) | 1.08% |
@@ -199,7 +199,7 @@
 | 196 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
 | 198 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.58% |
 | 198 | [Grindstone](games/g/grindstone.md) | 0.58% |
-| 200 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.56% |
+| 200 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.57% |
 | 201 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 201 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.55% |
 | 203 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.54% |
