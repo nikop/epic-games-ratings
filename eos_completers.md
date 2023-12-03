@@ -16,7 +16,7 @@
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.63% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Overloop](games/o/overloop.md) | 25.00% |
-| 17 | [The Riflemen](games/t/the_riflemen.md) | 24.91% |
+| 17 | [The Riflemen](games/t/the_riflemen.md) | 24.89% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
 | 20 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
@@ -62,7 +62,7 @@
 | 60 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.11% |
 | 61 | [Scorn](games/s/scorn.md) | 7.09% |
 | 62 | [Time Loader](games/t/time_loader.md) | 7.03% |
-| 63 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.90% |
+| 63 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.67% |
 | 64 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.60% |
 | 65 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.40% |
 | 66 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -98,8 +98,8 @@
 | 96 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 97 | [Bunny Park](games/b/bunny_park.md) | 3.30% |
 | 98 | [The Complex](games/t/the_complex.md) | 3.21% |
-| 99 | [Destiny 2](games/d/destiny_2.md) | 3.13% |
-| 99 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.13% |
+| 99 | [Destiny 2](games/d/destiny_2.md) | 3.14% |
+| 100 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.13% |
 | 101 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
 | 101 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.12% |
 | 103 | [Doodle God](games/d/doodle_god.md) | 3.10% |
@@ -135,8 +135,8 @@
 | 133 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.85% |
 | 134 | [Sifu](games/s/sifu.md) | 1.80% |
 | 135 | [Frogun](games/f/frogun.md) | 1.78% |
-| 136 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.77% |
-| 137 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.76% |
+| 136 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.76% |
+| 136 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.76% |
 | 138 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.63% |
 | 139 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 1.61% |
 | 140 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.59% |
@@ -177,8 +177,8 @@
 | 175 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.88% |
 | 176 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.87% |
 | 176 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.87% |
-| 178 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.84% |
-| 179 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.83% |
+| 178 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.83% |
+| 178 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.83% |
 | 180 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.82% |
 | 181 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 181 | [Infindustry](games/i/infindustry.md) | 0.81% |
@@ -199,10 +199,10 @@
 | 196 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
 | 198 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.58% |
 | 198 | [Grindstone](games/g/grindstone.md) | 0.58% |
-| 200 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
-| 200 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.55% |
-| 200 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.55% |
-| 200 | [Tails of Iron](games/t/tails_of_iron.md) | 0.55% |
+| 200 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.56% |
+| 201 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
+| 201 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.55% |
+| 201 | [Tails of Iron](games/t/tails_of_iron.md) | 0.55% |
 | 204 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
 | 205 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.52% |
 | 205 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.52% |
@@ -772,4 +772,4 @@
 | 365 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 365 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 365 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,640 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,641 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
