@@ -13,10 +13,10 @@
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 26.76% |
-| 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.63% |
+| 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.55% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Overloop](games/o/overloop.md) | 25.00% |
-| 17 | [The Riflemen](games/t/the_riflemen.md) | 24.74% |
+| 17 | [The Riflemen](games/t/the_riflemen.md) | 24.71% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
 | 20 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
@@ -132,7 +132,7 @@
 | 130 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.90% |
 | 131 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.88% |
 | 132 | [Somerville](games/s/somerville.md) | 1.86% |
-| 133 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.83% |
+| 133 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.82% |
 | 134 | [Sifu](games/s/sifu.md) | 1.80% |
 | 135 | [Frogun](games/f/frogun.md) | 1.78% |
 | 136 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.76% |
@@ -154,7 +154,7 @@
 | 152 | [Late Shift](games/l/late_shift.md) | 1.29% |
 | 153 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.28% |
 | 153 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.28% |
-| 155 | [Ten Dates](games/t/ten_dates.md) | 1.27% |
+| 155 | [Ten Dates](games/t/ten_dates.md) | 1.26% |
 | 156 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.25% |
 | 157 | [Iron Danger](games/i/iron_danger.md) | 1.23% |
 | 158 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
@@ -166,8 +166,8 @@
 | 164 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.05% |
 | 164 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.05% |
 | 166 | [The Devil's Face](games/t/the_devil's_face.md) | 1.04% |
-| 167 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.02% |
-| 168 | [Sable](games/s/sable.md) | 1.01% |
+| 167 | [Sable](games/s/sable.md) | 1.01% |
+| 167 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.01% |
 | 169 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.00% |
 | 170 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.98% |
 | 171 | [Trifox](games/t/trifox.md) | 0.96% |
@@ -304,11 +304,11 @@
 | 299 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.08% |
 | 299 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.08% |
 | 299 | [MythForce](games/m/mythforce.md) | 0.08% |
-| 299 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.08% |
-| 306 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.07% |
-| 306 | [Saints Row](games/s/saints_row.md) | 0.07% |
-| 306 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
-| 306 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
+| 305 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.07% |
+| 305 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.07% |
+| 305 | [Saints Row](games/s/saints_row.md) | 0.07% |
+| 305 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
+| 305 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 310 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
 | 310 | [High On Life](games/h/high_on_life.md) | 0.06% |
 | 310 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
