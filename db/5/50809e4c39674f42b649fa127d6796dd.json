@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 404,
+  "EOS_Progressed": 405,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
@@ -952,6 +952,11 @@
       "Time": "2023-12-03T01:59:02.6784187+00:00",
       "NumProgressed": 404,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T04:08:19.8419338+00:00",
+      "NumProgressed": 405,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1020,15 +1025,15 @@
       "Name": "Combo Convert",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
       "SetID": "apihg0e",
       "Name": "Perfect Run",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 121
+      "UsersEstimate": 126
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -1044,7 +1049,7 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
@@ -1052,7 +1057,7 @@
       "Name": "Hermit Koco Encounter",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -1068,7 +1073,7 @@
       "Name": "Unknown Threat",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1082,9 +1087,9 @@
       "ID": "FIRST_S_RANK",
       "SetID": "apihg0e",
       "Name": "Superior Ranking",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 154
+      "UsersEstimate": 158
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1154,9 +1159,9 @@
       "ID": "MAIN_CLEAR_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "The Journey Begins",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 218
+      "UsersEstimate": 223
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1172,7 +1177,7 @@
       "Name": "Kronos Island Memories",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD2",
@@ -1283,14 +1288,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 404,
+      "Progressed": 405,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-03T03:09:00.5358273+00:00",
+  "LastChanged_Achievements": "2023-12-03T04:08:19.8419334+00:00",
   "LastUpdate_AppInfo": "2023-11-28T17:56:55.9843317+00:00",
-  "LastUpdate_Ratings": "2023-12-03T03:03:09.2278992+00:00",
-  "LastUpdate_Achievements": "2023-12-03T03:09:00.535856+00:00"
+  "LastUpdate_Ratings": "2023-12-03T04:02:36.2518416+00:00",
+  "LastUpdate_Achievements": "2023-12-03T04:08:19.8419566+00:00"
 }

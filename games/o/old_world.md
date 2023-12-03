@@ -10,8 +10,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 7.00% | ~1,092 |
 | Explorer | 6.00% | ~936 |
 | Friendly Family | 6.00% | ~936 |
+| Able | 5.00% | ~780 |
 | Intrepid | 5.00% | ~780 |
-| Able | 4.00% | ~624 |
 | Architect | 4.00% | ~624 |
 | Glorious | 4.00% | ~624 |
 | Good | 4.00% | ~624 |

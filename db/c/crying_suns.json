@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -649,7 +649,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471693,
+  "EOS_Progressed": 471695,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 0,
@@ -24214,6 +24214,11 @@
       "Time": "2023-12-03T03:10:14.5537443+00:00",
       "NumProgressed": 471693,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-03T04:09:14.9525414+00:00",
+      "NumProgressed": 471695,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -24241,7 +24246,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113206
+      "UsersEstimate": 113207
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -24249,7 +24254,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103772
+      "UsersEstimate": 103773
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -24265,7 +24270,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47169
+      "UsersEstimate": 47170
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -24273,7 +24278,7 @@
       "Name": "Chapter IV: Through the Looking Glass",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 37735
+      "UsersEstimate": 37736
     },
     {
       "ID": "achievement_story_complete_chapter_5",
@@ -24313,7 +24318,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311317
+      "UsersEstimate": 311319
     },
     {
       "ID": "achievement_story_landa",
@@ -24337,7 +24342,7 @@
       "Name": "Through the mirror",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37735
+      "UsersEstimate": 37736
     },
     {
       "ID": "achievement_story_meet_mother",
@@ -24345,7 +24350,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117923
+      "UsersEstimate": 117924
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -24385,7 +24390,7 @@
       "Name": "General Vivar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37735
+      "UsersEstimate": 37736
     },
     {
       "ID": "achievement_story_meet_zenon",
@@ -24417,7 +24422,7 @@
       "Name": "Back to Ganyma",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37735
+      "UsersEstimate": 37736
     },
     {
       "ID": "achievement_story_spare_oberon",
@@ -24649,7 +24654,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207545
+      "UsersEstimate": 207546
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -24681,7 +24686,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183960
+      "UsersEstimate": 183961
     },
     {
       "ID": "achievement_win_run_hard",
@@ -24729,7 +24734,7 @@
       "Name": "Kaos Rule",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37735
+      "UsersEstimate": 37736
     },
     {
       "ID": "achievement_win_run_with_starter",
@@ -24737,7 +24742,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103772
+      "UsersEstimate": 103773
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -24856,21 +24861,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15627,
+      "Progressed": 15629,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471693,
+      "Progressed": 471695,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-01T18:58:58.8781534+00:00",
-  "LastChanged_Achievements": "2023-12-03T03:10:14.553744+00:00",
+  "LastChanged_Achievements": "2023-12-03T04:09:14.9525411+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:22.9078654+00:00",
-  "LastUpdate_Ratings": "2023-12-03T03:00:46.4381387+00:00",
-  "LastUpdate_Achievements": "2023-12-03T03:10:14.5538944+00:00"
+  "LastUpdate_Ratings": "2023-12-03T03:59:11.1244467+00:00",
+  "LastUpdate_Achievements": "2023-12-03T04:09:14.9526842+00:00"
 }

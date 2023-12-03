@@ -4,11 +4,11 @@
   "ProductSlug": "horizon-zero-dawn-complete-edition",
   "Ranking_Rating": 129,
   "Ranking_Popularity": 71,
-  "Ranking_PopularitySum": 88,
+  "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 773,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 494,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2020-08-07T15:00:00+00:00",
     "PcReleaseDate": "2020-08-07T15:00:00+00:00",
@@ -7916,18 +7916,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 11346,
       "NumberOfAwardsMax": 5186
+    },
+    {
+      "Time": "2023-12-03T03:58:27.4155876+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 11353,
+      "NumberOfAwardsMax": 5193
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11346,
-  "NumberOfAwardsMax": 5186,
+  "NumberOfAwards": 11353,
+  "NumberOfAwardsMax": 5193,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 5186
+      "Count": 5193
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -8007,8 +8013,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:54.5867721+00:00",
-  "LastChanged": "2023-12-02T15:59:32.6315308+00:00",
+  "LastChanged": "2023-12-03T03:58:27.4155874+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:53.8317149+00:00",
-  "LastUpdate_Ratings": "2023-12-03T02:59:37.2250013+00:00",
-  "LastUpdate_Achievements": "2023-12-03T03:04:49.3971049+00:00"
+  "LastUpdate_Ratings": "2023-12-03T03:58:27.4155883+00:00",
+  "LastUpdate_Achievements": "2023-12-03T04:03:43.9919777+00:00"
 }

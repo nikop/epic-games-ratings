@@ -12,8 +12,8 @@
 | Quarian Ally | 64.00% | ~950 |
 | Medal of Heroism | 60.00% | ~891 |
 | Honorarium of Corporate Service | 59.00% | ~876 |
+| Medal of Exploration II | 54.00% | ~802 |
 | Council Legion of Merit | 54.00% | ~802 |
-| Medal of Exploration II | 53.00% | ~787 |
 | Medal of Honor | 52.00% | ~772 |
 | Meritorious Service Medal | 52.00% | ~772 |
 | Turian Ally | 52.00% | ~772 |
@@ -65,15 +65,15 @@
 | Digital Exorcist | 30.00% | ~446 |
 | Heart of Darkness | 30.00% | ~446 |
 | Archivist | 29.00% | ~431 |
+| Mission Accomplished | 29.00% | ~431 |
+| Against All Odds | 29.00% | ~431 |
 | Friend or Foe | 29.00% | ~431 |
 | Cat's in the Cradle | 29.00% | ~431 |
 | Doppelganger | 29.00% | ~431 |
 | Agent | 29.00% | ~431 |
 | Mobilizer | 29.00% | ~431 |
 | Untouchable | 28.00% | ~416 |
-| Mission Accomplished | 28.00% | ~416 |
 | Suicide Mission | 28.00% | ~416 |
-| Against All Odds | 28.00% | ~416 |
 | A House Divided | 28.00% | ~416 |
 | Eye of the Hurricane | 27.00% | ~401 |
 | Giant Killer | 27.00% | ~401 |

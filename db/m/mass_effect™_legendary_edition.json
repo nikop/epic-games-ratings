@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 220,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1485,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -4589,9 +4589,9 @@
       "ID": "achievement_22",
       "SetID": "b9pe172",
       "Name": "Medal of Exploration II",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 787
+      "UsersEstimate": 802
     },
     {
       "ID": "achievement_23",
@@ -4701,9 +4701,9 @@
       "ID": "achievement_35",
       "SetID": "d252ncf",
       "Name": "Mission Accomplished",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 125,
-      "UsersEstimate": 416
+      "UsersEstimate": 431
     },
     {
       "ID": "achievement_36",
@@ -4757,9 +4757,9 @@
       "ID": "achievement_41",
       "SetID": "b9pe172",
       "Name": "Against All Odds",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 416
+      "UsersEstimate": 431
     },
     {
       "ID": "achievement_42",
@@ -5281,8 +5281,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-03T03:09:20.7921756+00:00",
+  "LastChanged_Achievements": "2023-12-03T04:08:37.0369946+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:17.762066+00:00",
-  "LastUpdate_Ratings": "2023-12-03T03:03:22.0691665+00:00",
-  "LastUpdate_Achievements": "2023-12-03T03:09:20.792331+00:00"
+  "LastUpdate_Ratings": "2023-12-03T04:02:44.5116159+00:00",
+  "LastUpdate_Achievements": "2023-12-03T04:08:37.0371819+00:00"
 }

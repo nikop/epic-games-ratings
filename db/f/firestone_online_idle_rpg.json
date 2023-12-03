@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -561,7 +561,7 @@
   ],
   "EOS_Progressed": 2962,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 270,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8939,9 +8939,9 @@
       "ID": "howdoyouturnthison",
       "SetID": "3nl4bcg",
       "Name": "How Do You Turn This On?",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 178
     },
     {
       "ID": "hunter",
@@ -9043,9 +9043,9 @@
       "ID": "mysteriousrock",
       "SetID": "3nl4bcg",
       "Name": "Mysterious Rock",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 355
     },
     {
       "ID": "mythicpower",
@@ -9292,8 +9292,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-01T15:58:50.3626658+00:00",
-  "LastChanged_Achievements": "2023-12-03T03:09:35.2679147+00:00",
+  "LastChanged_Achievements": "2023-12-03T04:08:47.1098985+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:05.1164011+00:00",
-  "LastUpdate_Ratings": "2023-12-03T03:00:05.3068226+00:00",
-  "LastUpdate_Achievements": "2023-12-03T03:09:35.2679993+00:00"
+  "LastUpdate_Ratings": "2023-12-03T03:58:45.142313+00:00",
+  "LastUpdate_Achievements": "2023-12-03T04:08:47.1099782+00:00"
 }

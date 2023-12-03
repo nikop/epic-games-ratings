@@ -5,16 +5,16 @@ Rating: 4.74 (Ranked 158)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 92.00% | ~9,738 |
-| I Challenge You To Save More Money! | 86.00% | ~9,103 |
-| I Love How Tough You Are | 72.00% | ~7,621 |
-| Wanna Come To My Place For Dinner? | 66.00% | ~6,986 |
+| Last Night...Did We... | 92.00% | ~9,739 |
+| I Challenge You To Save More Money! | 86.00% | ~9,104 |
+| I Love How Tough You Are | 72.00% | ~7,622 |
+| Wanna Come To My Place For Dinner? | 66.00% | ~6,987 |
 | What I Want Is You | 61.00% | ~6,457 |
-| To Be Or Not To Be | 57.00% | ~6,033 |
-| Are You Alright? | 50.00% | ~5,292 |
+| To Be Or Not To Be | 57.00% | ~6,034 |
+| Are You Alright? | 50.00% | ~5,293 |
 | Love Actually | 48.00% | ~5,081 |
 | Drama King | 42.00% | ~4,446 |
-| You're Really Something Else | 37.00% | ~3,916 |
+| You're Really Something Else | 37.00% | ~3,917 |
 | Go Clean up In Your Own Way | 36.00% | ~3,811 |
 | Happy Family | 35.00% | ~3,705 |
 | Worthless Speech | 35.00% | ~3,705 |
@@ -22,16 +22,16 @@ Rating: 4.74 (Ranked 158)
 | FIRST LOVE | 34.00% | ~3,599 |
 | Drama CP: Reel to Real | 34.00% | ~3,599 |
 | Absolutely Elegant | 33.00% | ~3,493 |
-| Still Single | 32.00% | ~3,387 |
+| Still Single | 32.00% | ~3,388 |
 | Days Of Innocence | 30.00% | ~3,176 |
 | Go Get Some Fries On The Pier | 29.00% | ~3,070 |
 | David | 29.00% | ~3,070 |
 | All I Have Is Money | 25.00% | ~2,646 |
 | A Slap In The Face! | 25.00% | ~2,646 |
-| Lover In Dark Alley | 24.00% | ~2,540 |
-| Let Me Be Your Toy Boy | 24.00% | ~2,540 |
-| That's So You | 24.00% | ~2,540 |
-| SALUTE | 24.00% | ~2,540 |
+| Lover In Dark Alley | 24.00% | ~2,541 |
+| Let Me Be Your Toy Boy | 24.00% | ~2,541 |
+| That's So You | 24.00% | ~2,541 |
+| SALUTE | 24.00% | ~2,541 |
 | Off We Sail Tonight | 19.00% | ~2,011 |
 | Love You Three Thousand | 16.00% | ~1,694 |
 | Can You Do This Or Not? | 16.00% | ~1,694 |
@@ -48,7 +48,7 @@ Rating: 4.74 (Ranked 158)
 | Tall; Grande; Venti | 2.00% | ~212 |
 | Limerence | 2.00% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,585 (Ranked 164)  
+Progressed: 10,586 (Ranked 164)  
 Completed: 187 (1.77%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 187 (1.77%) (Ranked 136)
 | 2023-11-30 | 10,446 | 178 |
 | 2023-12-01 | 10,506 | 183 |
 | 2023-12-02 | 10,578 | 187 |
-| 2023-12-03 | 10,585 | 187 |
+| 2023-12-03 | 10,586 | 187 |
 ## Awards
 Max (Impact the Story): 23  (Ranked 536)  
 Sum: 23 (Ranked 538)  

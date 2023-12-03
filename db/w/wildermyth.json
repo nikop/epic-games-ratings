@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -166,9 +166,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 1499,
+  "EOS_Progressed": 1501,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1976,6 +1976,11 @@
       "Time": "2023-12-02T17:10:05.4228916+00:00",
       "NumProgressed": 1499,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-03T04:09:11.9970177+00:00",
+      "NumProgressed": 1501,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 56,
@@ -1987,7 +1992,7 @@
       "Name": "We Emerge Changed",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_150Calamities",
@@ -1995,7 +2000,7 @@
       "Name": "Overwhelming Monstrosity",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_1petReceived",
@@ -2011,7 +2016,7 @@
       "Name": "Storied Past",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_5petsReceived",
@@ -2027,7 +2032,7 @@
       "Name": "Worldwalker",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_beatGameOnIronmanMode",
@@ -2043,7 +2048,7 @@
       "Name": "A Lowly Crust of Beef",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_catchAllElementalSpiritTypes",
@@ -2067,7 +2072,7 @@
       "Name": "The Power of Friendship",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_fullTransformation",
@@ -2083,7 +2088,7 @@
       "Name": "Empty the Caves",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_kill1000Drauven",
@@ -2099,7 +2104,7 @@
       "Name": "Back into the Sea",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_kill1000Monsters",
@@ -2115,7 +2120,7 @@
       "Name": "Bonebreakers",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_kill1000Thrixl",
@@ -2123,7 +2128,7 @@
       "Name": "No More Nightmares",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_kill100Monsters",
@@ -2139,7 +2144,7 @@
       "Name": "Plague Doctor",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_loseBattle",
@@ -2187,7 +2192,7 @@
       "Name": "Thematic Divergence",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_use3ReactionStrikesInOneTurn",
@@ -2195,7 +2200,7 @@
       "Name": "Chain Reaction",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_victoryAfterLosingThreeHeroesInBattle",
@@ -2219,7 +2224,7 @@
       "Name": "Everfading",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "completedStory_enduringWar",
@@ -2235,7 +2240,7 @@
       "Name": "Another Tale to Tell",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "completedStory_monarchs",
@@ -2267,7 +2272,7 @@
       "Name": "A Hunger, Sated",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "cvawn_allDrauvenSurvivedMission",
@@ -2283,7 +2288,7 @@
       "Name": "All My Birds, Safely Home",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "enduringWar_destroyCores",
@@ -2299,7 +2304,7 @@
       "Name": "War-Ender",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "monarchs_acceptDeepkingsOffer",
@@ -2323,7 +2328,7 @@
       "Name": "Fight Like a Bird",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "theme_fire_hit5EnemiesAtOnce",
@@ -2331,7 +2336,7 @@
       "Name": "Grillmaster",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "theme_foothill_takeNoDamage20Times",
@@ -2355,7 +2360,7 @@
       "Name": "Into Mulch",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "theme_morthagi_killWithBoltAndHammer",
@@ -2387,7 +2392,7 @@
       "Name": "Astrology",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "theme_storm_kill3Enemies",
@@ -2419,7 +2424,7 @@
       "Name": "Lochias\u0027s Hunger",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ulstryx_killCalabyneInOneTurn",
@@ -2427,22 +2432,22 @@
       "Name": "No Time for Clawmonsters",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1499,
+      "Progressed": 1501,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2023-12-03T03:10:10.6875727+00:00",
+  "LastChanged_Achievements": "2023-12-03T04:09:11.9970173+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:29.7657471+00:00",
-  "LastUpdate_Ratings": "2023-12-03T03:01:08.9294424+00:00",
-  "LastUpdate_Achievements": "2023-12-03T03:10:10.6876197+00:00"
+  "LastUpdate_Ratings": "2023-12-03T03:59:25.2057217+00:00",
+  "LastUpdate_Achievements": "2023-12-03T04:09:11.9970553+00:00"
 }

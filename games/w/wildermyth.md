@@ -23,38 +23,38 @@ Number of Ratings: 45  (23.09.2022)
 | Echoes Die | 1.00% | ~15 |
 | Pyrrhic Victory | 0.80% | ~12 |
 | Turncoat | 0.80% | ~12 |
-| Thematic Divergence | 0.70% | ~10 |
+| Thematic Divergence | 0.70% | ~11 |
 | A Story of Heroes | 0.60% | ~9 |
-| Empty the Caves | 0.50% | ~7 |
-| Chain Reaction | 0.50% | ~7 |
-| Everfading | 0.50% | ~7 |
-| Another Tale to Tell | 0.50% | ~7 |
-| Astrology | 0.50% | ~7 |
-| No Time for Clawmonsters | 0.50% | ~7 |
+| Empty the Caves | 0.50% | ~8 |
+| Chain Reaction | 0.50% | ~8 |
+| Everfading | 0.50% | ~8 |
+| Another Tale to Tell | 0.50% | ~8 |
+| Astrology | 0.50% | ~8 |
+| No Time for Clawmonsters | 0.50% | ~8 |
 | Legends Never Die | 0.40% | ~6 |
 | Some Say I'm Too Flashy | 0.40% | ~6 |
-| Storied Past | 0.30% | ~4 |
-| Bonebreakers | 0.30% | ~4 |
-| No More Nightmares | 0.30% | ~4 |
-| Plague Doctor | 0.30% | ~4 |
-| All My Birds, Safely Home | 0.30% | ~4 |
-| Into Mulch | 0.30% | ~4 |
-| Lochias's Hunger | 0.30% | ~4 |
+| Storied Past | 0.30% | ~5 |
+| Bonebreakers | 0.30% | ~5 |
+| No More Nightmares | 0.30% | ~5 |
+| Plague Doctor | 0.30% | ~5 |
+| All My Birds, Safely Home | 0.30% | ~5 |
+| Into Mulch | 0.30% | ~5 |
+| Lochias's Hunger | 0.30% | ~5 |
 | In Soil, In Smoke | 0.20% | ~3 |
 | Wingknight's Prowess | 0.20% | ~3 |
 | Bears are Scary | 0.20% | ~3 |
 | I'm Not Smiling | 0.20% | ~3 |
 | Tempest | 0.20% | ~3 |
-| We Emerge Changed | 0.10% | ~1 |
-| Overwhelming Monstrosity | 0.10% | ~1 |
-| Worldwalker | 0.10% | ~1 |
-| A Lowly Crust of Beef | 0.10% | ~1 |
-| The Power of Friendship | 0.10% | ~1 |
-| Back into the Sea | 0.10% | ~1 |
-| A Hunger, Sated | 0.10% | ~1 |
-| War-Ender | 0.10% | ~1 |
-| Fight Like a Bird | 0.10% | ~1 |
-| Grillmaster | 0.10% | ~1 |
+| We Emerge Changed | 0.10% | ~2 |
+| Overwhelming Monstrosity | 0.10% | ~2 |
+| Worldwalker | 0.10% | ~2 |
+| A Lowly Crust of Beef | 0.10% | ~2 |
+| The Power of Friendship | 0.10% | ~2 |
+| Back into the Sea | 0.10% | ~2 |
+| A Hunger, Sated | 0.10% | ~2 |
+| War-Ender | 0.10% | ~2 |
+| Fight Like a Bird | 0.10% | ~2 |
+| Grillmaster | 0.10% | ~2 |
 | Drauvenslayers | 0.00% | ~0 |
 | Peacemaker | 0.00% | ~0 |
 | Solid as the Hills | 0.00% | ~0 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Thwack! | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,499 (Ranked 242)  
+Progressed: 1,501 (Ranked 242)  
 Completed: 6 (0.40%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,6 +235,7 @@ Completed: 6 (0.40%) (Ranked 220)
 | 2023-11-29 | 1,494 | 6 |
 | 2023-12-01 | 1,496 | 6 |
 | 2023-12-02 | 1,499 | 6 |
+| 2023-12-03 | 1,501 | 6 |
 ## Awards
 Max (Character Customization): 29  (Ranked 504)  
 Sum: 29 (Ranked 518)  

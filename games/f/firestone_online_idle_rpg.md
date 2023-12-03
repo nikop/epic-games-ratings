@@ -23,10 +23,10 @@ Rating: 4.03 (Ranked 998)
 | Hero inspection | 14.00% | ~415 |
 | Lieutenant | 13.00% | ~385 |
 | Milestone collector | 12.00% | ~355 |
+| Mysterious Rock | 12.00% | ~355 |
 | Natural Talent | 12.00% | ~355 |
 | Superior | 12.00% | ~355 |
 | The Unstoppable | 12.00% | ~355 |
-| Mysterious Rock | 11.00% | ~326 |
 | Scientist | 10.00% | ~296 |
 | Challenger | 9.00% | ~267 |
 | Daily Quest Completionist | 9.00% | ~267 |
@@ -48,13 +48,13 @@ Rating: 4.03 (Ranked 998)
 | Dragon Slayer | 6.00% | ~178 |
 | Enchanting skill | 6.00% | ~178 |
 | Engineer Mastery | 6.00% | ~178 |
+| How Do You Turn This On? | 6.00% | ~178 |
 | Sailor | 6.00% | ~178 |
 | The Expeditioner | 6.00% | ~178 |
 | Weekly Quest Completionist | 6.00% | ~178 |
 | Active Member | 5.00% | ~148 |
 | Ancient Knowledge | 5.00% | ~148 |
 | Background Story | 5.00% | ~148 |
-| How Do You Turn This On? | 5.00% | ~148 |
 | Legendary | 5.00% | ~148 |
 | Lock And Load | 5.00% | ~148 |
 | Missions Dedication | 5.00% | ~148 |

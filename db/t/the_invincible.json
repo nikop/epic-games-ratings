@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 493,
+  "EOS_Progressed": 494,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
@@ -1360,6 +1360,11 @@
       "Time": "2023-12-03T01:59:07.4828974+00:00",
       "NumProgressed": 493,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T04:08:23.0622539+00:00",
+      "NumProgressed": 494,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1412,7 +1417,7 @@
       "Name": "Violent solution",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "AchvConvoyList",
@@ -1460,7 +1465,7 @@
       "Name": "Another giant",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "AchvKrautaAlive",
@@ -1540,7 +1545,7 @@
       "Name": "The field base",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "AchvReachCamp",
@@ -1548,7 +1553,7 @@
       "Name": "The Camp",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "AchvReachCity",
@@ -1556,7 +1561,7 @@
       "Name": "The City",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "AchvReachCondor",
@@ -1603,14 +1608,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 493,
+      "Progressed": 494,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-03T03:09:05.180072+00:00",
+  "LastChanged_Achievements": "2023-12-03T04:08:23.0622535+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.6526822+00:00",
-  "LastUpdate_Ratings": "2023-12-03T03:02:37.2843227+00:00",
-  "LastUpdate_Achievements": "2023-12-03T03:09:05.1800954+00:00"
+  "LastUpdate_Ratings": "2023-12-03T03:59:55.8883433+00:00",
+  "LastUpdate_Achievements": "2023-12-03T04:08:23.0622733+00:00"
 }

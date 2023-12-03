@@ -227,9 +227,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 502444,
+  "EOS_Progressed": 502466,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 4042,
+  "EOS_NewPlayers": 4045,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -9712,6 +9712,11 @@
       "Time": "2023-12-03T03:07:07.3498616+00:00",
       "NumProgressed": 502444,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2023-12-03T04:05:21.4028096+00:00",
+      "NumProgressed": 502466,
+      "NumCompleted": 86
     }
   ],
   "AchievementsAdded": "2023-09-07T15:04:00.2217259+00:00",
@@ -9732,7 +9737,7 @@
       "Name": "Advanced Certification Medal",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 35171
+      "UsersEstimate": 35173
     },
     {
       "ID": "achiv_community",
@@ -9740,7 +9745,7 @@
       "Name": "Community Policing Medal",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 30147
+      "UsersEstimate": 30148
     },
     {
       "ID": "achiv_driving",
@@ -9748,7 +9753,7 @@
       "Name": "Safe Driving Medal",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 55269
+      "UsersEstimate": 55271
     },
     {
       "ID": "achiv_field",
@@ -9756,7 +9761,7 @@
       "Name": "Field Training Officer Medal",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 366784
+      "UsersEstimate": 366800
     },
     {
       "ID": "achiv_fires",
@@ -9764,7 +9769,7 @@
       "Name": "Exemplary Fire Service Medal",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 80391
+      "UsersEstimate": 80395
     },
     {
       "ID": "achiv_heart",
@@ -9772,7 +9777,7 @@
       "Name": "Purple Heart",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 180880
+      "UsersEstimate": 180888
     },
     {
       "ID": "achiv_honor",
@@ -9780,7 +9785,7 @@
       "Name": "Medal of Honor",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 40196
+      "UsersEstimate": 40197
     },
     {
       "ID": "achiv_honorary",
@@ -9788,7 +9793,7 @@
       "Name": "Honorary Citizenship",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 15073
+      "UsersEstimate": 15074
     },
     {
       "ID": "achiv_intern",
@@ -9804,7 +9809,7 @@
       "Name": "Lifesaving Medal",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 195953
+      "UsersEstimate": 195962
     },
     {
       "ID": "achiv_meds",
@@ -9812,7 +9817,7 @@
       "Name": "Exemplary Medical Service Medal",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 120587
+      "UsersEstimate": 120592
     },
     {
       "ID": "achiv_meritorius",
@@ -9820,7 +9825,7 @@
       "Name": "Medal of Meritorious Service",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 15073
+      "UsersEstimate": 15074
     },
     {
       "ID": "achiv_overtime",
@@ -9836,7 +9841,7 @@
       "Name": "Sacrifice Medal",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 35171
+      "UsersEstimate": 35173
     },
     {
       "ID": "achiv_smile",
@@ -9844,7 +9849,7 @@
       "Name": "Order of Smile",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 35171
+      "UsersEstimate": 35173
     },
     {
       "ID": "achiv_tactical",
@@ -9852,7 +9857,7 @@
       "Name": "Tactical Squad Service Medal",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 75367
+      "UsersEstimate": 75370
     },
     {
       "ID": "achiv_valor",
@@ -9860,14 +9865,14 @@
       "Name": "Medal of Valor",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 55269
+      "UsersEstimate": 55271
     }
   ],
   "AchievementSets": [
     {
       "ID": "7oh7228",
       "IsBase": true,
-      "Progressed": 502444,
+      "Progressed": 502466,
       "Completed": 86
     }
   ],
@@ -9875,8 +9880,8 @@
   "FirstSeenRating": "2023-09-15T13:59:44.5988414+00:00",
   "FirstSeenAchievements": "2023-09-07T15:04:00.2217258+00:00",
   "LastChanged": "2023-11-25T16:01:34.3628678+00:00",
-  "LastChanged_Achievements": "2023-12-03T03:07:07.3498613+00:00",
+  "LastChanged_Achievements": "2023-12-03T04:05:21.4028092+00:00",
   "LastUpdate_AppInfo": "2023-11-30T21:57:12.6903274+00:00",
-  "LastUpdate_Ratings": "2023-12-03T03:02:47.0910498+00:00",
-  "LastUpdate_Achievements": "2023-12-03T03:07:07.3499192+00:00"
+  "LastUpdate_Ratings": "2023-12-03T04:00:02.1451055+00:00",
+  "LastUpdate_Achievements": "2023-12-03T04:05:21.4028679+00:00"
 }

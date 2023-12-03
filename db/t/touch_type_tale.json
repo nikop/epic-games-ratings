@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3812,
+  "EOS_Progressed": 3813,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -4687,6 +4687,11 @@
       "Time": "2023-12-02T13:06:16.9988899+00:00",
       "NumProgressed": 3812,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-03T04:04:00.6702735+00:00",
+      "NumProgressed": 3813,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -4746,7 +4751,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3316
+      "UsersEstimate": 3317
     },
     {
       "ID": "campaign10",
@@ -4762,7 +4767,7 @@
       "Name": "Reinforcements",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "campaign12",
@@ -4818,7 +4823,7 @@
       "Name": "Sweet Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "campaign19",
@@ -4834,7 +4839,7 @@
       "Name": "Flanked!",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 2897
+      "UsersEstimate": 2898
     },
     {
       "ID": "campaign20",
@@ -4850,7 +4855,7 @@
       "Name": "Economics 101",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 2287
+      "UsersEstimate": 2288
     },
     {
       "ID": "campaign4",
@@ -4890,7 +4895,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "campaign9",
@@ -4946,7 +4951,7 @@
       "Name": "Figure of Breach",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "scenario7",
@@ -4961,7 +4966,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3812,
+      "Progressed": 3813,
       "Completed": 11
     }
   ],
@@ -4969,8 +4974,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-12-03T03:05:13.2023017+00:00",
+  "LastChanged_Achievements": "2023-12-03T04:04:00.670273+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:09.7350451+00:00",
-  "LastUpdate_Ratings": "2023-12-03T03:00:17.7726874+00:00",
-  "LastUpdate_Achievements": "2023-12-03T03:05:13.2023593+00:00"
+  "LastUpdate_Ratings": "2023-12-03T03:58:53.0208046+00:00",
+  "LastUpdate_Achievements": "2023-12-03T04:04:00.6703383+00:00"
 }

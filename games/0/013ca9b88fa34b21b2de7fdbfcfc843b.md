@@ -5,19 +5,19 @@ Rating: 4.61 (Ranked 386)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,928 |
-| A Thorny Situation | 70.00% | ~5,764 |
-| ... And Spit Back Out | 61.00% | ~5,023 |
-| Break-Net Speed | 49.00% | ~4,035 |
-| Bramble Breaker | 47.00% | ~3,870 |
-| Miner 49er | 43.00% | ~3,541 |
-| Humble Collector | 42.00% | ~3,458 |
-| Calm Sailing | 37.00% | ~3,047 |
-| Open the Gate! | 34.00% | ~2,800 |
-| Mist Walker | 32.00% | ~2,635 |
-| Lumberjack | 27.00% | ~2,223 |
-| Oui, Chef! | 23.00% | ~1,894 |
-| Clear the Air | 19.00% | ~1,564 |
+| Azoria Beckons | 72.00% | ~5,931 |
+| A Thorny Situation | 70.00% | ~5,767 |
+| ... And Spit Back Out | 61.00% | ~5,025 |
+| Break-Net Speed | 49.00% | ~4,037 |
+| Bramble Breaker | 47.00% | ~3,872 |
+| Miner 49er | 43.00% | ~3,542 |
+| Humble Collector | 42.00% | ~3,460 |
+| Calm Sailing | 37.00% | ~3,048 |
+| Open the Gate! | 34.00% | ~2,801 |
+| Mist Walker | 32.00% | ~2,636 |
+| Lumberjack | 27.00% | ~2,224 |
+| Oui, Chef! | 23.00% | ~1,895 |
+| Clear the Air | 19.00% | ~1,565 |
 | Botanical Breakthrough | 17.00% | ~1,400 |
 | Search for the Hairy Grell | 14.00% | ~1,153 |
 | Beach Comber | 14.00% | ~1,153 |
@@ -31,9 +31,9 @@ Rating: 4.61 (Ranked 386)
 | Scattered Scroll Scrounger | 6.00% | ~494 |
 | Azorian Anniversary | 6.00% | ~494 |
 | I Now Pronounce You... | 5.00% | ~412 |
-| Chatty Neighbor | 4.00% | ~329 |
-| Right Tool For the Job | 4.00% | ~329 |
-| House Proud | 4.00% | ~329 |
+| Chatty Neighbor | 4.00% | ~330 |
+| Right Tool For the Job | 4.00% | ~330 |
+| House Proud | 4.00% | ~330 |
 | Captain of Cozy | 2.00% | ~165 |
 | Angling Authority | 1.00% | ~82 |
 | Cloverfield Island | 0.20% | ~16 |
@@ -41,7 +41,7 @@ Rating: 4.61 (Ranked 386)
 | Workaholic | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,234 (Ranked 175)  
+Progressed: 8,238 (Ranked 175)  
 Completed: 1 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 1 (0.01%) (Ranked 344)
 | 2023-11-30 | 8,184 | 1 |
 | 2023-12-01 | 8,203 | 1 |
 | 2023-12-02 | 8,228 | 1 |
-| 2023-12-03 | 8,234 | 1 |
+| 2023-12-03 | 8,238 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

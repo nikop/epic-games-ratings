@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,7 +145,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4457,
+  "EOS_Progressed": 4459,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
@@ -8060,6 +8060,11 @@
       "Time": "2023-12-03T00:03:29.681796+00:00",
       "NumProgressed": 4457,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-03T04:03:01.2494797+00:00",
+      "NumProgressed": 4459,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8447,7 +8452,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "Ach049",
@@ -8471,7 +8476,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "Ach052",
@@ -8638,13 +8643,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4457,
+      "Progressed": 4459,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2978,
+      "Progressed": 2980,
       "Completed": 1930
     }
   ],
@@ -8652,8 +8657,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-03T03:03:47.1203768+00:00",
+  "LastChanged_Achievements": "2023-12-03T04:03:01.2494794+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:21.1661658+00:00",
-  "LastUpdate_Ratings": "2023-12-03T03:00:41.863613+00:00",
-  "LastUpdate_Achievements": "2023-12-03T03:03:47.12046+00:00"
+  "LastUpdate_Ratings": "2023-12-03T03:59:08.2139516+00:00",
+  "LastUpdate_Achievements": "2023-12-03T04:03:01.2495646+00:00"
 }

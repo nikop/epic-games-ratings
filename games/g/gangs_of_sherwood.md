@@ -22,9 +22,9 @@
 | Assault on the Ram | 33.00% | ~16 |
 | Savior | 31.00% | ~15 |
 | Ultra Rebel Instinct | 24.00% | ~12 |
+| Take Action! | 24.00% | ~12 |
 | First Aid | 24.00% | ~12 |
 | Merry Go Round | 24.00% | ~12 |
-| Take Action! | 22.00% | ~11 |
 | Ultra Combo | 20.00% | ~10 |
 | Ascending Will | 16.00% | ~8 |
 | Haute Couture | 14.00% | ~7 |

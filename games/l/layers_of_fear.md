@@ -8,11 +8,11 @@
 | Something important | 75.00% | ~76 |
 | A piece of the story | 57.00% | ~58 |
 | It's covered up for a reason | 45.00% | ~45 |
-| Do what you have to | 44.00% | ~44 |
+| Do what you have to | 45.00% | ~45 |
 | Scraps of love | 44.00% | ~44 |
 | The artist’s impression | 43.00% | ~43 |
-| Refuse to look | 35.00% | ~35 |
-| Sign of weakness | 35.00% | ~35 |
+| Refuse to look | 36.00% | ~36 |
+| Sign of weakness | 36.00% | ~36 |
 | Finished it | 26.00% | ~26 |
 | Face your fears | 24.00% | ~24 |
 | Playtime | 13.00% | ~13 |
@@ -42,9 +42,9 @@
 | The Big Picture | 2.00% | ~2 |
 | Dark correspondence | 2.00% | ~2 |
 | It was worth a try | 2.00% | ~2 |
+| Immortalized in my heart | 2.00% | ~2 |
 | Full Scoop | 2.00% | ~2 |
 | Instinct of self-preservation | 2.00% | ~2 |
-| Immortalized in my heart | 1.00% | ~1 |
 | In One Take | 1.00% | ~1 |
 | Preferred Parent | 1.00% | ~1 |
 | The Tree and the Apple | 1.00% | ~1 |

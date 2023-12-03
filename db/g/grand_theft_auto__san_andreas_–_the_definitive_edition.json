@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 220,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1633,10 +1633,10 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 13829,
+  "EOS_Progressed": 13830,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 51,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 52,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
     {
@@ -15308,6 +15308,11 @@
       "Time": "2023-12-03T02:32:15.3012163+00:00",
       "NumProgressed": 13829,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-03T04:08:50.2023958+00:00",
+      "NumProgressed": 13830,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 35,
@@ -15319,7 +15324,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11340
+      "UsersEstimate": 11341
     },
     {
       "ID": "ACH02",
@@ -15375,7 +15380,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 7191
+      "UsersEstimate": 7192
     },
     {
       "ID": "ACH09",
@@ -15431,7 +15436,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "ACH16",
@@ -15463,7 +15468,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "ACH20",
@@ -15598,7 +15603,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13829,
+      "Progressed": 13830,
       "Completed": 56
     }
   ],
@@ -15606,8 +15611,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-02T06:59:27.8933803+00:00",
-  "LastChanged_Achievements": "2023-12-03T03:09:39.8763824+00:00",
+  "LastChanged_Achievements": "2023-12-03T04:08:50.2023954+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:45.2117848+00:00",
-  "LastUpdate_Ratings": "2023-12-03T03:01:30.2353852+00:00",
-  "LastUpdate_Achievements": "2023-12-03T03:09:39.8764782+00:00"
+  "LastUpdate_Ratings": "2023-12-03T03:59:38.5622713+00:00",
+  "LastUpdate_Achievements": "2023-12-03T04:08:50.2024851+00:00"
 }

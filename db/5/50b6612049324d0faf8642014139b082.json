@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -85,9 +85,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 723,
+  "EOS_Progressed": 724,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1695,6 +1695,11 @@
       "Time": "2023-12-03T02:00:10.0196388+00:00",
       "NumProgressed": 723,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T04:09:08.9178899+00:00",
+      "NumProgressed": 724,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1715,7 +1720,7 @@
       "Name": "Asphalt Artist",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "achievement_11",
@@ -1723,7 +1728,7 @@
       "Name": "Gravel Guru",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "achievement_12",
@@ -1745,17 +1750,17 @@
       "ID": "achievement_14",
       "SetID": "jnappp",
       "Name": "Vehicle Builder",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 282
+      "UsersEstimate": 290
     },
     {
       "ID": "achievement_15",
       "SetID": "jnappp",
       "Name": "Master Vehicle Builder",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 14
+      "UsersEstimate": 22
     },
     {
       "ID": "achievement_16",
@@ -1914,7 +1919,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 723,
+      "Progressed": 724,
       "Completed": 0
     }
   ],
@@ -1922,8 +1927,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-12-02T15:59:12.448136+00:00",
-  "LastChanged_Achievements": "2023-12-03T03:10:06.7319213+00:00",
+  "LastChanged_Achievements": "2023-12-03T04:09:08.917889+00:00",
   "LastUpdate_AppInfo": "2023-11-28T21:56:52.2952246+00:00",
-  "LastUpdate_Ratings": "2023-12-03T02:59:14.9197586+00:00",
-  "LastUpdate_Achievements": "2023-12-03T03:10:06.731941+00:00"
+  "LastUpdate_Ratings": "2023-12-03T03:58:13.4641007+00:00",
+  "LastUpdate_Achievements": "2023-12-03T04:09:08.917927+00:00"
 }
