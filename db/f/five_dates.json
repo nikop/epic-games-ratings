@@ -2,10 +2,10 @@
   "ID": "e966687f61fa4c40b1e53b45b6e4eb75",
   "Name": "Five Dates",
   "ProductSlug": "five-dates-60ef51",
-  "Ranking_EOS_Progress": 287,
-  "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_Progress": 288,
+  "Ranking_EOS_Completed": 142,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 702,
+  "EOS_Progressed": 703,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.57,
+  "EOS_Completed_Percentage": 1.56,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.144074+00:00",
@@ -1835,6 +1835,11 @@
       "Time": "2023-12-03T00:09:31.7377219+00:00",
       "NumProgressed": 702,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-03T01:59:51.365938+00:00",
+      "NumProgressed": 703,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 15,
@@ -1846,7 +1851,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "booty_call",
@@ -1870,7 +1875,7 @@
       "Name": "Digital Casanova",
       "Percentage": 97,
       "XP": 50,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "hold_my_beer",
@@ -1878,7 +1883,7 @@
       "Name": "Hold my Beer",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -1934,7 +1939,7 @@
       "Name": "Planting the Seed",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "smooth_criminal",
@@ -1965,7 +1970,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 702,
+      "Progressed": 703,
       "Completed": 11
     }
   ],
@@ -1973,8 +1978,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-12-03T00:09:31.7377215+00:00",
+  "LastChanged_Achievements": "2023-12-03T01:59:51.3659378+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:06.2456527+00:00",
-  "LastUpdate_Ratings": "2023-12-03T00:00:01.1640163+00:00",
-  "LastUpdate_Achievements": "2023-12-03T00:09:31.7377541+00:00"
+  "LastUpdate_Ratings": "2023-12-03T01:49:49.5389263+00:00",
+  "LastUpdate_Achievements": "2023-12-03T01:59:51.3659631+00:00"
 }

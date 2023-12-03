@@ -5,18 +5,18 @@ Rating: 4.54 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,641 |
-| Pork Chopped | 3.00% | ~1,641 |
-| Git Gutte! | 2.00% | ~14,583 |
-| Break A Leg | 2.00% | ~14,583 |
-| Coup de Grâce | 2.00% | ~14,583 |
-| Hazardous Materials | 2.00% | ~14,583 |
-| Friends Like These | 2.00% | ~14,583 |
-| Hotel California | 2.00% | ~14,583 |
-| Apex Predator | 2.00% | ~14,583 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,583 |
-| Welcome To Hell-A | 2.00% | ~14,583 |
-| One of Us | 2.00% | ~1,094 |
+| Whatever It Takes | 3.00% | ~1,643 |
+| Pork Chopped | 3.00% | ~1,643 |
+| Git Gutte! | 2.00% | ~14,584 |
+| Break A Leg | 2.00% | ~14,584 |
+| Coup de Grâce | 2.00% | ~14,584 |
+| Hazardous Materials | 2.00% | ~14,584 |
+| Friends Like These | 2.00% | ~14,584 |
+| Hotel California | 2.00% | ~14,584 |
+| Apex Predator | 2.00% | ~14,584 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,584 |
+| Welcome To Hell-A | 2.00% | ~14,584 |
+| One of Us | 2.00% | ~1,095 |
 | Dr. Reed, I Presume? | 1.00% | ~7,292 |
 | Anger Management | 1.00% | ~7,292 |
 | Perks of the Job | 1.00% | ~7,292 |
@@ -33,14 +33,14 @@ Rating: 4.54 (Ranked 528)
 | Stacking the Deck | 1.00% | ~7,292 |
 | Our True Nature | 1.00% | ~7,292 |
 | This is My Weapon | 1.00% | ~7,292 |
-| Making Your Mark | 0.90% | ~6,562 |
-| Humanity Distilled | 0.90% | ~6,562 |
-| Max Headroom | 0.90% | ~6,562 |
-| Down with the Sickness | 0.80% | ~5,833 |
-| Not Even My Final Form | 0.70% | ~5,104 |
-| Jumbo Keyring | 0.70% | ~5,104 |
-| Go, Bobcats! | 0.70% | ~5,104 |
-| Rising Star | 0.70% | ~5,104 |
+| Making Your Mark | 0.90% | ~6,563 |
+| Humanity Distilled | 0.90% | ~6,563 |
+| Max Headroom | 0.90% | ~6,563 |
+| Down with the Sickness | 0.80% | ~5,834 |
+| Not Even My Final Form | 0.70% | ~5,105 |
+| Jumbo Keyring | 0.70% | ~5,105 |
+| Go, Bobcats! | 0.70% | ~5,105 |
+| Rising Star | 0.70% | ~5,105 |
 | Internet Famous | 0.60% | ~4,375 |
 | Make it So | 0.50% | ~3,646 |
 | On Safari | 0.50% | ~3,646 |
@@ -49,15 +49,15 @@ Rating: 4.54 (Ranked 528)
 | LA Influential | 0.40% | ~2,917 |
 | Gore Horse | 0.40% | ~2,917 |
 | Top That, Tisha! | 0.40% | ~219 |
-| Sole Survivor | 0.30% | ~2,187 |
-| Sharpest Tool in the Box | 0.30% | ~2,187 |
+| Sole Survivor | 0.30% | ~2,188 |
+| Sharpest Tool in the Box | 0.30% | ~2,188 |
 | Survival Skills | 0.20% | ~1,458 |
-| Lawn and Order | 0.20% | ~109 |
+| Lawn and Order | 0.20% | ~110 |
 | Donk! | 0.10% | ~729 |
 | Bucket List | 0.10% | ~729 |
 | Wilhelm | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 729,164 (Ranked 21)  
+Progressed: 729,224 (Ranked 21)  
 Completed: 2,460 (0.34%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 2,460 (0.34%) (Ranked 232)
 | 2023-11-30 | 728,231 | 2,456 |
 | 2023-12-01 | 728,667 | 2,459 |
 | 2023-12-02 | 729,149 | 2,460 |
-| 2023-12-03 | 729,164 | 2,460 |
+| 2023-12-03 | 729,224 | 2,460 |
 ## Awards
 Max (Great Boss Battles): 7,869  (Ranked 49)  
 Sum: 12,068 (Ranked 83)  

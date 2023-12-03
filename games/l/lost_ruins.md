@@ -12,7 +12,7 @@
 | Artifact Collector | 20.00% | ~100 |
 | Trap Master | 19.00% | ~95 |
 | Ghost Buster | 16.00% | ~80 |
-| Iconoclasm | 15.00% | ~75 |
+| Iconoclasm | 16.00% | ~80 |
 | Reincarnation | 15.00% | ~75 |
 | Gladiator | 13.00% | ~65 |
 | Librarian | 13.00% | ~65 |
@@ -45,7 +45,7 @@
 | Cryomancer | 0.40% | ~2 |
 | Hardboiled | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 499 (Ranked 313)  
+Progressed: 499 (Ranked 314)  
 Completed: 1 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |

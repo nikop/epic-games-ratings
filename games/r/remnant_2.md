@@ -5,8 +5,8 @@ Rating: 4.75 (Ranked 149)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 0.70% | ~1,632 |
-| First of Many | 0.70% | ~1,632 |
+| The Killing Jar | 0.70% | ~1,633 |
+| First of Many | 0.70% | ~1,633 |
 | Regicide | 0.70% | ~87 |
 | Master of the Dark Arts | 0.70% | ~87 |
 | Expanding Horizons | 0.50% | ~1,166 |
@@ -16,6 +16,7 @@ Rating: 4.75 (Ranked 149)
 | Quest for Survival | 0.40% | ~933 |
 | Not a Janitor | 0.40% | ~933 |
 | Familiar Face | 0.40% | ~933 |
+| Duality | 0.40% | ~933 |
 | Boss'n Up | 0.40% | ~933 |
 | Trait Chaser | 0.40% | ~933 |
 | Am I Seeing This? | 0.30% | ~700 |
@@ -26,7 +27,6 @@ Rating: 4.75 (Ranked 149)
 | Dark Designs | 0.30% | ~700 |
 | Equal Measures | 0.30% | ~700 |
 | Blue Goddess | 0.30% | ~700 |
-| Duality | 0.30% | ~700 |
 | Top Performer | 0.30% | ~700 |
 | Shhh...It's a Secret | 0.30% | ~700 |
 | Was This Supposed To Happen? | 0.30% | ~700 |
@@ -34,24 +34,24 @@ Rating: 4.75 (Ranked 149)
 | Almost There | 0.30% | ~700 |
 | Make Some Room | 0.30% | ~700 |
 | Good, But Could Be Better! | 0.30% | ~700 |
-| Crafty | 0.20% | ~466 |
-| Ghost in the Machine | 0.20% | ~466 |
-| Forever is a Long Time Coming | 0.20% | ~466 |
-| Madman's Paradise | 0.20% | ~466 |
-| The Agenda | 0.20% | ~466 |
-| Tall Tales | 0.20% | ~466 |
-| Bad Moon Rising | 0.20% | ~466 |
-| Strapped | 0.20% | ~466 |
-| Edgelord | 0.20% | ~466 |
-| Cutting Edge | 0.20% | ~466 |
-| The Web | 0.20% | ~466 |
-| The Collector | 0.20% | ~466 |
-| Scrap Hoarder | 0.20% | ~466 |
-| All These Traits� | 0.20% | ~466 |
-| Carnage in C-Minor | 0.20% | ~466 |
-| The Ultimate Weapon | 0.20% | ~466 |
-| No One Should Have All That Power | 0.20% | ~466 |
-| Transmutate | 0.20% | ~466 |
+| Crafty | 0.20% | ~467 |
+| Ghost in the Machine | 0.20% | ~467 |
+| Forever is a Long Time Coming | 0.20% | ~467 |
+| Madman's Paradise | 0.20% | ~467 |
+| The Agenda | 0.20% | ~467 |
+| Tall Tales | 0.20% | ~467 |
+| Bad Moon Rising | 0.20% | ~467 |
+| Strapped | 0.20% | ~467 |
+| Edgelord | 0.20% | ~467 |
+| Cutting Edge | 0.20% | ~467 |
+| The Web | 0.20% | ~467 |
+| The Collector | 0.20% | ~467 |
+| Scrap Hoarder | 0.20% | ~467 |
+| All These Traits� | 0.20% | ~467 |
+| Carnage in C-Minor | 0.20% | ~467 |
+| The Ultimate Weapon | 0.20% | ~467 |
+| No One Should Have All That Power | 0.20% | ~467 |
+| Transmutate | 0.20% | ~467 |
 | Succession | 0.20% | ~25 |
 | You Shall Pass | 0.20% | ~25 |
 | Only Human | 0.10% | ~233 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 149)
 | Maxed Out! | 0.10% | ~233 |
 | A Foul Feast | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,199 (Ranked 68)  
+Progressed: 233,263 (Ranked 68)  
 Completed: 548 (0.23%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,15 +201,15 @@ Completed: 548 (0.23%) (Ranked 251)
 | 2023-11-30 | 231,406 | 542 |
 | 2023-12-01 | 232,269 | 546 |
 | 2023-12-02 | 233,162 | 548 |
-| 2023-12-03 | 233,199 | 548 |
+| 2023-12-03 | 233,263 | 548 |
 ## Awards
 Max (Great Boss Battles): 2,577  (Ranked 102)  
-Sum: 6,336 (Ranked 129)  
+Sum: 6,342 (Ranked 129)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,577 |
-| This game has Diverse Characters | 415 |
+| This game has Diverse Characters | 421 |
 | This game is Highly Recommended | 408 |
 | This game has Challenging Combat | 402 |
 | This game is Extremely Fun | 393 |
@@ -352,3 +352,4 @@ Diff (max vs sum): -27
 | 2023-11-30 | 4.75 | 2,533 | 6,208 |
 | 2023-12-01 | 4.75 | 2,558 | 6,266 |
 | 2023-12-02 | 4.75 | 2,577 | 6,336 |
+| 2023-12-03 | 4.75 | 2,577 | 6,342 |

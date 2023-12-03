@@ -2,13 +2,13 @@
   "ID": "e65d8864e0e84d6eb7fe228b2041c15f",
   "Name": "My Time at Sandrock",
   "ProductSlug": "my-time-at-sandrock",
-  "Ranking_Rating": 254,
+  "Ranking_Rating": 255,
   "Ranking_Popularity": 196,
   "Ranking_PopularitySum": 239,
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
     "PcReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1766,7 +1766,7 @@
   ],
   "EOS_Progressed": 509,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5079,9 +5079,9 @@
       "ID": "C_KNOWLEDGE",
       "SetID": "80dcan0",
       "Name": "Knowledge is Power",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 265
     },
     {
       "ID": "C_KNOWLEDGE_ALL",
@@ -5095,17 +5095,17 @@
       "ID": "C_STAMINA",
       "SetID": "80dcan0",
       "Name": "On that Grindset",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 392
     },
     {
       "ID": "C_STAYUP",
       "SetID": "80dcan0",
       "Name": "Panda-kin",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 285
     },
     {
       "ID": "C_YEAR",
@@ -5207,9 +5207,9 @@
       "ID": "M_HOME_STAR",
       "SetID": "80dcan0",
       "Name": "Kind of a Big Deal",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 193
     },
     {
       "ID": "M_PET",
@@ -5263,9 +5263,9 @@
       "ID": "P_HYDROGEL",
       "SetID": "80dcan0",
       "Name": "What Plants Crave",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 280
     },
     {
       "ID": "P_JEWEL",
@@ -5383,9 +5383,9 @@
       "ID": "S_DANCE",
       "SetID": "80dcan0",
       "Name": "Got Served",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 310
     },
     {
       "ID": "S_FRIEND",
@@ -5567,8 +5567,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-12-02T23:57:16.8694588+00:00",
-  "LastChanged_Achievements": "2023-12-03T00:08:12.4769751+00:00",
+  "LastChanged_Achievements": "2023-12-03T01:58:30.7572672+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:11.8739142+00:00",
-  "LastUpdate_Ratings": "2023-12-02T23:57:16.8694592+00:00",
-  "LastUpdate_Achievements": "2023-12-03T00:08:12.4770312+00:00"
+  "LastUpdate_Ratings": "2023-12-03T01:47:03.5515859+00:00",
+  "LastUpdate_Achievements": "2023-12-03T01:58:30.7573361+00:00"
 }

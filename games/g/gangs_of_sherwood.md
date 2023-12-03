@@ -15,12 +15,12 @@
 | Right between the eyes | 51.00% | ~25 |
 | Spring Board | 47.00% | ~23 |
 | Starry Night | 43.00% | ~21 |
+| Rebel Unleashed | 39.00% | ~19 |
 | Locksley's Tears | 37.00% | ~18 |
 | Merry Co-operation | 35.00% | ~17 |
-| Rebel Unleashed | 35.00% | ~17 |
+| Assault on the Ram | 33.00% | ~16 |
 | Savior | 31.00% | ~15 |
-| Finish Him! | 29.00% | ~14 |
-| Assault on the Ram | 27.00% | ~13 |
+| Finish Him! | 31.00% | ~15 |
 | First Aid | 24.00% | ~12 |
 | Merry Go Round | 24.00% | ~12 |
 | Ultra Rebel Instinct | 22.00% | ~11 |
@@ -34,7 +34,7 @@
 | Bold and Bossy | 8.00% | ~4 |
 | The Gang prevails | 8.00% | ~4 |
 | Out of the ring | 8.00% | ~4 |
-| Sky High Fighter | 6.00% | ~3 |
+| Sky High Fighter | 8.00% | ~4 |
 | King of the Iron Fist | 4.00% | ~2 |
 | Power of Friendship! | 4.00% | ~2 |
 | Five of Friends | 4.00% | ~2 |

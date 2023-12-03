@@ -2,7 +2,7 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_Rating": 113,
+  "Ranking_Rating": 112,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 265,
@@ -125,7 +125,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 989,
+  "EOS_Progressed": 990,
   "EOS_Completed": 31,
   "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 1,
@@ -3275,6 +3275,11 @@
       "Time": "2023-12-02T15:03:57.911253+00:00",
       "NumProgressed": 989,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-12-03T01:54:07.0882148+00:00",
+      "NumProgressed": 990,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3303,7 +3308,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3319,7 +3324,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -3407,7 +3412,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -3494,7 +3499,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 989,
+      "Progressed": 990,
       "Completed": 31
     }
   ],
@@ -3502,8 +3507,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-29T18:57:59.7478521+00:00",
-  "LastChanged_Achievements": "2023-12-03T00:03:55.1959175+00:00",
+  "LastChanged_Achievements": "2023-12-03T01:54:07.0882146+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:16.5122288+00:00",
-  "LastUpdate_Ratings": "2023-12-03T00:00:25.06744+00:00",
-  "LastUpdate_Achievements": "2023-12-03T00:03:55.1959597+00:00"
+  "LastUpdate_Ratings": "2023-12-03T01:50:13.7270529+00:00",
+  "LastUpdate_Achievements": "2023-12-03T01:54:07.0882544+00:00"
 }

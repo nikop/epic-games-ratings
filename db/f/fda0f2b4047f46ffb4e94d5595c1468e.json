@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 134,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -3241,10 +3241,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 5345,
       "NumberOfAwardsMax": 1648
+    },
+    {
+      "Time": "2023-12-03T01:53:10.1896424+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 5354,
+      "NumberOfAwardsMax": 1648
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5345,
+  "NumberOfAwards": 5354,
   "NumberOfAwardsMax": 1648,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3270,13 +3276,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 423
+      "Count": 425
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 348
+      "Count": 352
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3294,7 +3300,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 363
+      "Count": 366
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3321,9 +3327,9 @@
       "Count": 405
     }
   ],
-  "EOS_Progressed": 9466,
+  "EOS_Progressed": 9467,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 330,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10291,6 +10297,11 @@
       "Time": "2023-12-02T20:10:29.7881539+00:00",
       "NumProgressed": 9466,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T01:58:31.1292365+00:00",
+      "NumProgressed": 9467,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -10311,7 +10322,7 @@
       "Name": "Eye Of The TaiGore",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 2366
+      "UsersEstimate": 2367
     },
     {
       "ID": "ach03",
@@ -10351,7 +10362,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 5301
+      "UsersEstimate": 5302
     },
     {
       "ID": "ach08",
@@ -10431,7 +10442,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 5017
+      "UsersEstimate": 5018
     },
     {
       "ID": "ach18",
@@ -10487,7 +10498,7 @@
       "Name": "Ultimate Power",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 4354
+      "UsersEstimate": 4355
     },
     {
       "ID": "ach25",
@@ -10695,23 +10706,23 @@
       "Name": "Witness Me!!!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3786
+      "UsersEstimate": 3787
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 9466,
+      "Progressed": 9467,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-12-02T18:03:05.8242211+00:00",
-  "LastChanged_Achievements": "2023-12-03T00:08:12.8784761+00:00",
+  "LastChanged": "2023-12-03T01:53:10.1896423+00:00",
+  "LastChanged_Achievements": "2023-12-03T01:58:31.1292363+00:00",
   "LastUpdate_AppInfo": "2023-12-02T11:57:13.7403672+00:00",
-  "LastUpdate_Ratings": "2023-12-03T00:02:59.7775772+00:00",
-  "LastUpdate_Achievements": "2023-12-03T00:08:12.8785629+00:00"
+  "LastUpdate_Ratings": "2023-12-03T01:53:10.1896426+00:00",
+  "LastUpdate_Achievements": "2023-12-03T01:58:31.1293184+00:00"
 }

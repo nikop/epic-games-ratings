@@ -1,7 +1,7 @@
 # My Time at Sandrock
 [Store](https://store.epicgames.com/en-US/p/my-time-at-sandrock)  
 [View Rawdata](../../db/m/my_time_at_sandrock.json)  
-Rating: 4.68 (Ranked 254)  
+Rating: 4.68 (Ranked 255)  
 Number of Ratings: 892  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,8 +12,8 @@ Number of Ratings: 892  (23.09.2022)
 | Greeno-B-Gone | 120.00% | ~611 |
 | Your Especially Earned Trajectory | 99.00% | ~504 |
 | The Little Wood that Could | 96.00% | ~489 |
+| On that Grindset | 77.00% | ~392 |
 | One of the Cool Kids | 77.00% | ~392 |
-| On that Grindset | 76.00% | ~387 |
 | No Mountain Wide Enough | 76.00% | ~387 |
 | Yakmel Whisperer | 73.00% | ~372 |
 | Diamonds are Forever | 72.00% | ~366 |
@@ -25,21 +25,21 @@ Number of Ratings: 892  (23.09.2022)
 | Financially Secure | 62.00% | ~316 |
 | Big Game Hunter | 61.00% | ~310 |
 | Chatterbox | 61.00% | ~310 |
-| Got Served | 60.00% | ~305 |
+| Got Served | 61.00% | ~310 |
+| Panda-kin | 56.00% | ~285 |
 | Elementary, My Dear | 56.00% | ~285 |
-| Panda-kin | 55.00% | ~280 |
 | Builder of the Month | 55.00% | ~280 |
+| What Plants Crave | 55.00% | ~280 |
 | Happier-est Place on Earth | 55.00% | ~280 |
 | Mole Masher | 55.00% | ~280 |
 | Better Late than Never | 54.00% | ~275 |
-| What Plants Crave | 54.00% | ~275 |
 | You Don't Win Friends With Salad | 54.00% | ~275 |
 | Waste Not Want Not | 54.00% | ~275 |
 | Officially Official | 53.00% | ~270 |
 | Anti-Santa | 53.00% | ~270 |
+| Knowledge is Power | 52.00% | ~265 |
 | Commissions, commissions...! | 52.00% | ~265 |
 | Martle's Dream | 52.00% | ~265 |
-| Knowledge is Power | 51.00% | ~260 |
 | Lifeline Pipeline | 51.00% | ~260 |
 | Call Me Fishmael | 51.00% | ~260 |
 | Finishing Touches | 49.00% | ~249 |
@@ -50,7 +50,7 @@ Number of Ratings: 892  (23.09.2022)
 | Who Ya Gonna Call...? | 40.00% | ~204 |
 | My Time Mansion | 39.00% | ~199 |
 | Jewel of the Eufaula | 39.00% | ~199 |
-| Kind of a Big Deal | 37.00% | ~188 |
+| Kind of a Big Deal | 38.00% | ~193 |
 | He Can Spin A Yarn... | 35.00% | ~178 |
 | Just What I Always Wanted! | 34.00% | ~173 |
 | Santa In Training | 32.00% | ~163 |

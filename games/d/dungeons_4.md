@@ -8,7 +8,7 @@
 | Thalya – Simply Immortal | 88.00% | ~453 |
 | For the Horde! | 82.00% | ~422 |
 | Hammer Time, Round Two | 80.00% | ~412 |
-| The Hellwoods | 75.00% | ~386 |
+| The Hellwoods | 76.00% | ~391 |
 | The Plains of Strothalm | 70.00% | ~360 |
 | Experienced Thalya | 70.00% | ~360 |
 | Thalya's Concentrated Fury | 68.00% | ~350 |
@@ -21,7 +21,7 @@
 | Minions, Minions! | 54.00% | ~278 |
 | The Ascent | 54.00% | ~278 |
 | It's Warm and Cozy at Home | 54.00% | ~278 |
-| Hard Work | 49.00% | ~252 |
+| Hard Work | 50.00% | ~258 |
 | YOU SHALL NOT PASS! | 48.00% | ~247 |
 | The Big Eaty | 47.00% | ~242 |
 | Pure Dynamite! | 44.00% | ~227 |
@@ -53,14 +53,14 @@
 | Lavalumps on Ice! | 14.00% | ~72 |
 | The Rune Sockets of Finitude (Part 2) | 14.00% | ~72 |
 | Rubble and Ashes | 13.00% | ~67 |
-| The Last Stand - This Time For Real! | 12.00% | ~62 |
+| The Last Stand - This Time For Real! | 13.00% | ~67 |
 | Mirror, Mirror | 11.00% | ~57 |
 | Untouchable | 11.00% | ~57 |
 | To the Max! | 11.00% | ~57 |
 | To Infinity And Beyond! | 11.00% | ~57 |
-| Evilification | 9.00% | ~46 |
+| Evilification | 10.00% | ~52 |
+| Laser Eyes Are So Useless | 9.00% | ~46 |
 | Gorgu is in the Best of Health | 8.00% | ~41 |
-| Laser Eyes Are So Useless | 8.00% | ~41 |
 | Heal Heal Blessing | 8.00% | ~41 |
 | Hands Off My Stones | 7.00% | ~36 |
 | No Mana, No Cry | 5.00% | ~26 |

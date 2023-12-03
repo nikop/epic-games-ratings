@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1326,9 +1326,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 29580,
+  "EOS_Progressed": 29582,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 446,
+  "EOS_NewPlayers": 438,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -25631,6 +25631,11 @@
       "Time": "2023-12-03T00:09:26.0663272+00:00",
       "NumProgressed": 29580,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-12-03T01:59:45.5617655+00:00",
+      "NumProgressed": 29582,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 22,
@@ -25714,7 +25719,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2366
+      "UsersEstimate": 2367
     },
     {
       "ID": "1025",
@@ -25746,7 +25751,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5324
+      "UsersEstimate": 5325
     },
     {
       "ID": "1029",
@@ -25754,7 +25759,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2366
+      "UsersEstimate": 2367
     },
     {
       "ID": "1030",
@@ -25778,7 +25783,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11832
+      "UsersEstimate": 11833
     },
     {
       "ID": "1033",
@@ -25802,7 +25807,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3845
+      "UsersEstimate": 3846
     },
     {
       "ID": "1036",
@@ -25810,22 +25815,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2366
+      "UsersEstimate": 2367
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 29580,
+      "Progressed": 29582,
       "Completed": 81
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-24T16:03:24.7183261+00:00",
-  "LastChanged_Achievements": "2023-12-03T00:09:26.0663267+00:00",
+  "LastChanged_Achievements": "2023-12-03T01:59:45.5617653+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:12.8181889+00:00",
-  "LastUpdate_Ratings": "2023-12-03T00:02:02.3182906+00:00",
-  "LastUpdate_Achievements": "2023-12-03T00:09:26.0665181+00:00"
+  "LastUpdate_Ratings": "2023-12-03T01:52:42.6417568+00:00",
+  "LastUpdate_Achievements": "2023-12-03T01:59:45.5619546+00:00"
 }

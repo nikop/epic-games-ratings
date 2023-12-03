@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 29,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 30,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -389,9 +389,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 322723,
+  "EOS_Progressed": 322763,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4028,
+  "EOS_NewPlayers": 4006,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8174,6 +8174,11 @@
       "Time": "2023-12-03T00:06:01.9890858+00:00",
       "NumProgressed": 322723,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-03T01:56:17.8447215+00:00",
+      "NumProgressed": 322763,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -8186,7 +8191,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6454
+      "UsersEstimate": 6455
     },
     {
       "ID": "S02_BRDA",
@@ -8194,7 +8199,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6454
+      "UsersEstimate": 6455
     },
     {
       "ID": "S03_OTWA",
@@ -8202,7 +8207,7 @@
       "Name": "Rumors are true",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 1936
+      "UsersEstimate": 1937
     },
     {
       "ID": "S04_BRDC",
@@ -8322,7 +8327,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6454
+      "UsersEstimate": 6455
     },
     {
       "ID": "S19_CHALLENGES",
@@ -8394,7 +8399,7 @@
       "Name": "Their fate is sealed",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "S28_CTHB",
@@ -8402,7 +8407,7 @@
       "Name": "Not even from this world",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "S29_RECOVER",
@@ -8410,7 +8415,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1936
+      "UsersEstimate": 1937
     },
     {
       "ID": "S30_DIAMOND",
@@ -8482,7 +8487,7 @@
       "Name": "Chaos be damned!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "S39_END_RAPTURE",
@@ -8505,7 +8510,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 322723,
+      "Progressed": 322763,
       "Completed": 4
     }
   ],
@@ -8513,8 +8518,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-02T08:58:54.6895718+00:00",
-  "LastChanged_Achievements": "2023-12-03T00:06:01.9890854+00:00",
+  "LastChanged_Achievements": "2023-12-03T01:56:17.8447212+00:00",
   "LastUpdate_AppInfo": "2023-11-30T19:57:08.777578+00:00",
-  "LastUpdate_Ratings": "2023-12-02T23:59:29.72235+00:00",
-  "LastUpdate_Achievements": "2023-12-03T00:06:01.9891511+00:00"
+  "LastUpdate_Ratings": "2023-12-03T01:49:17.79899+00:00",
+  "LastUpdate_Achievements": "2023-12-03T01:56:17.8448068+00:00"
 }

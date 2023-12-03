@@ -3,9 +3,9 @@
   "Name": "Mass Effect\u2122 Legendary Edition",
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 243,
-  "Ranking_EOS_Completed": 221,
+  "Ranking_EOS_Completed": 220,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1484,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -4696,9 +4696,9 @@
       "ID": "achievement_35",
       "SetID": "d252ncf",
       "Name": "Mission Accomplished",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 125,
-      "UsersEstimate": 416
+      "UsersEstimate": 430
     },
     {
       "ID": "achievement_36",
@@ -5008,9 +5008,9 @@
       "ID": "achievement_70",
       "SetID": "d252ncf",
       "Name": "Operative",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 579
+      "UsersEstimate": 594
     },
     {
       "ID": "achievement_71",
@@ -5276,8 +5276,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-03T00:09:03.7414208+00:00",
+  "LastChanged_Achievements": "2023-12-03T01:59:23.0581983+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:17.762066+00:00",
-  "LastUpdate_Ratings": "2023-12-03T00:03:07.2083161+00:00",
-  "LastUpdate_Achievements": "2023-12-03T00:09:03.7415765+00:00"
+  "LastUpdate_Ratings": "2023-12-03T01:53:17.5259241+00:00",
+  "LastUpdate_Achievements": "2023-12-03T01:59:23.0583677+00:00"
 }

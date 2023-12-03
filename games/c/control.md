@@ -1,7 +1,7 @@
 # Control
 [Store](https://store.epicgames.com/en-US/p/control)  
 [View Rawdata](../../db/c/control.json)  
-Rating: 4.60 (Ranked 421)  
+Rating: 4.61 (Ranked 386)  
 Number of Ratings: 16,122  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 8,816  (Ranked 41)  
@@ -308,3 +308,4 @@ Diff (max vs sum): -36
 | 2023-11-30 | 4.61 | - | 8,803 | 13,266 |
 | 2023-12-01 | 4.61 | - | 8,807 | 13,274 |
 | 2023-12-02 | 4.61 | - | 8,816 | 13,291 |
+| 2023-12-03 | 4.61 | - | 8,816 | 13,291 |

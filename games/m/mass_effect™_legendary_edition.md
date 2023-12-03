@@ -32,8 +32,8 @@
 | Merciless | 42.00% | ~623 |
 | Sentinel Ally | 41.00% | ~608 |
 | Head Hunter | 40.00% | ~594 |
+| Operative | 40.00% | ~594 |
 | Scholar | 40.00% | ~594 |
-| Operative | 39.00% | ~579 |
 | Veteran | 38.00% | ~564 |
 | The Archangel | 38.00% | ~564 |
 | The Professor | 38.00% | ~564 |
@@ -65,6 +65,7 @@
 | Digital Exorcist | 30.00% | ~445 |
 | Heart of Darkness | 30.00% | ~445 |
 | Archivist | 29.00% | ~430 |
+| Mission Accomplished | 29.00% | ~430 |
 | Suicide Mission | 29.00% | ~430 |
 | Against All Odds | 29.00% | ~430 |
 | Friend or Foe | 29.00% | ~430 |
@@ -73,7 +74,6 @@
 | Agent | 29.00% | ~430 |
 | Mobilizer | 29.00% | ~430 |
 | Untouchable | 28.00% | ~416 |
-| Mission Accomplished | 28.00% | ~416 |
 | A House Divided | 28.00% | ~416 |
 | Eye of the Hurricane | 27.00% | ~401 |
 | Giant Killer | 27.00% | ~401 |
@@ -133,7 +133,7 @@
 | The One and Only | 0.90% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,484 (Ranked 243)  
-Completed: 6 (0.40%) (Ranked 221)  
+Completed: 6 (0.40%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

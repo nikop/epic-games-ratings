@@ -4,8 +4,8 @@
   "ProductSlug": "never-alone-bc835a",
   "Ranking_EOS_Progress": 773,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 497,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 495,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-26T02:20:29.4986554+00:00",
-  "LastUpdate_Ratings": "2023-12-02T23:58:50.2347014+00:00",
-  "LastUpdate_Achievements": "2023-12-03T00:04:47.7839615+00:00"
+  "LastUpdate_Ratings": "2023-12-03T01:48:37.6738227+00:00",
+  "LastUpdate_Achievements": "2023-12-03T01:55:01.7391723+00:00"
 }

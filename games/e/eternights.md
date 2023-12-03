@@ -15,7 +15,7 @@
 | Expert Scavenger | 37.00% | ~158 |
 | Their Rock | 32.00% | ~136 |
 | Yuna's Promise | 31.00% | ~132 |
-| Stone Retriever | 30.00% | ~128 |
+| Stone Retriever | 31.00% | ~132 |
 | Find myself | 29.00% | ~124 |
 | Truebro | 21.00% | ~89 |
 | Min's Promise | 20.00% | ~85 |

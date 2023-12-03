@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -61,7 +61,7 @@
   "Tags": [],
   "EOS_Progressed": 1139,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2794,9 +2794,9 @@
       "ID": "ACH_FEED_GATOR",
       "SetID": "5fn8ia4",
       "Name": "Feed the Beast",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 444
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH_FISH",
@@ -3322,9 +3322,9 @@
       "ID": "GSS_ACH_63_POPULARITY_03",
       "SetID": "5fn8ia4",
       "Name": "In the Desert There Is a ...",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 843
+      "UsersEstimate": 854
     },
     {
       "ID": "GSS_ACH_64_POPULARITY_04",
@@ -3491,8 +3491,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-28T04:59:34.1023632+00:00",
-  "LastChanged_Achievements": "2023-12-03T00:06:53.2519799+00:00",
+  "LastChanged_Achievements": "2023-12-03T01:57:09.7381364+00:00",
   "LastUpdate_AppInfo": "2023-11-27T17:57:10.8459621+00:00",
-  "LastUpdate_Ratings": "2023-12-02T23:59:03.16539+00:00",
-  "LastUpdate_Achievements": "2023-12-03T00:06:53.2521299+00:00"
+  "LastUpdate_Ratings": "2023-12-03T01:48:50.8459885+00:00",
+  "LastUpdate_Achievements": "2023-12-03T01:57:09.7382908+00:00"
 }

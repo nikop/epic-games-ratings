@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2333,
+  "EOS_Progressed": 2334,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
@@ -5637,6 +5637,11 @@
       "Time": "2023-12-03T00:09:56.441411+00:00",
       "NumProgressed": 2333,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T02:00:16.5181552+00:00",
+      "NumProgressed": 2334,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5649,7 +5654,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -5721,7 +5726,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -5759,9 +5764,9 @@
       "ID": "ML_ACHIEVEMENT_15",
       "SetID": "c7hf6a4",
       "Name": "I\u0027ll Be the Best!",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 23
     },
     {
       "ID": "ML_ACHIEVEMENT_16",
@@ -5953,7 +5958,7 @@
       "Name": "Champagne Spray",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -6001,7 +6006,7 @@
       "Name": "Rivals to the End",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -6040,14 +6045,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2333,
+      "Progressed": 2334,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-03T00:09:56.4414106+00:00",
+  "LastChanged_Achievements": "2023-12-03T02:00:16.5181542+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:07.5482593+00:00",
-  "LastUpdate_Ratings": "2023-12-03T00:02:44.463202+00:00",
-  "LastUpdate_Achievements": "2023-12-03T00:09:56.4414866+00:00"
+  "LastUpdate_Ratings": "2023-12-03T01:52:54.6400993+00:00",
+  "LastUpdate_Achievements": "2023-12-03T02:00:16.5182349+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_Rating": 113,
+  "Ranking_Rating": 112,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -171,9 +171,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7300,
+  "EOS_Progressed": 7303,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 762,
+  "EOS_NewPlayers": 748,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5311,6 +5311,11 @@
       "Time": "2023-12-03T00:09:37.7244728+00:00",
       "NumProgressed": 7300,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-03T01:59:57.5144829+00:00",
+      "NumProgressed": 7303,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5331,15 +5336,15 @@
       "Name": "Baby Steps",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1606
+      "UsersEstimate": 1607
     },
     {
       "ID": "BeLikeWater",
       "SetID": "acc6ea0",
       "Name": "Be Like Water",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 73
     },
     {
       "ID": "Bikemaggedon",
@@ -5395,7 +5400,7 @@
       "Name": "First Time?",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2117
+      "UsersEstimate": 2118
     },
     {
       "ID": "FuneralForTheDeath",
@@ -5483,7 +5488,7 @@
       "Name": "Not Like The Others",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "OneStarMan",
@@ -5523,7 +5528,7 @@
       "Name": "The Quarterback",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "ThisIsDharma",
@@ -5594,7 +5599,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7300,
+      "Progressed": 7303,
       "Completed": 13
     }
   ],
@@ -5602,8 +5607,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-02T04:02:27.6504223+00:00",
-  "LastChanged_Achievements": "2023-12-03T00:09:37.7244724+00:00",
+  "LastChanged_Achievements": "2023-12-03T01:59:57.5144826+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-02T23:57:44.0826817+00:00",
-  "LastUpdate_Achievements": "2023-12-03T00:09:37.7245304+00:00"
+  "LastUpdate_Ratings": "2023-12-03T01:47:30.8506549+00:00",
+  "LastUpdate_Achievements": "2023-12-03T01:59:57.5145341+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -1871,7 +1871,7 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 65308,
+  "EOS_Progressed": 65315,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 621,
   "EOS_NewCompleters": 0,
@@ -26781,6 +26781,11 @@
       "Time": "2023-12-03T00:04:13.284763+00:00",
       "NumProgressed": 65308,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-03T01:54:26.0563298+00:00",
+      "NumProgressed": 65315,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -26792,7 +26797,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 35919
+      "UsersEstimate": 35923
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -26832,7 +26837,7 @@
       "Name": "In Treue Fest",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3265
+      "UsersEstimate": 3266
     },
     {
       "ID": "VERDUN_ACH_ANZAC",
@@ -26840,7 +26845,7 @@
       "Name": "Advance Australia",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2612
+      "UsersEstimate": 2613
     },
     {
       "ID": "VERDUN_ACH_BELGIANS",
@@ -26848,7 +26853,7 @@
       "Name": "Voor De Koning",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3265
+      "UsersEstimate": 3266
     },
     {
       "ID": "VERDUN_ACH_BRONZE100",
@@ -26864,7 +26869,7 @@
       "Name": "We Stand on Guard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2612
+      "UsersEstimate": 2613
     },
     {
       "ID": "VERDUN_ACH_CHASSEURS",
@@ -26872,7 +26877,7 @@
       "Name": "Sidi Brahim",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2612
+      "UsersEstimate": 2613
     },
     {
       "ID": "VERDUN_ACH_COOP1",
@@ -26880,7 +26885,7 @@
       "Name": "War is better with friends I",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2612
+      "UsersEstimate": 2613
     },
     {
       "ID": "VERDUN_ACH_COOP2",
@@ -26912,7 +26917,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 15674
+      "UsersEstimate": 15676
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -26960,7 +26965,7 @@
       "Name": "Let them, come to us",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2612
+      "UsersEstimate": 2613
     },
     {
       "ID": "VERDUN_ACH_GOLD10_FLBESTSQUAD",
@@ -27016,7 +27021,7 @@
       "Name": "Extreme Headhunter",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 3265
+      "UsersEstimate": 3266
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS1",
@@ -27024,7 +27029,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 16980
+      "UsersEstimate": 16982
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -27048,7 +27053,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 20899
+      "UsersEstimate": 20901
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -27056,7 +27061,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 26123
+      "UsersEstimate": 26126
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -27064,7 +27069,7 @@
       "Name": "Corpseman II",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2612
+      "UsersEstimate": 2613
     },
     {
       "ID": "VERDUN_ACH_KILLS3",
@@ -27080,7 +27085,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 41144
+      "UsersEstimate": 41148
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -27088,7 +27093,7 @@
       "Name": "Gott Mit Uns",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7837
+      "UsersEstimate": 7838
     },
     {
       "ID": "VERDUN_ACH_LEVEL100",
@@ -27096,7 +27101,7 @@
       "Name": "Elite Player",
       "Percentage": 0.8,
       "XP": 75,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "VERDUN_ACH_LEVEL25",
@@ -27104,7 +27109,7 @@
       "Name": "Basic Training",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 15674
+      "UsersEstimate": 15676
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -27136,7 +27141,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16327
+      "UsersEstimate": 16329
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -27160,7 +27165,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 50940
+      "UsersEstimate": 50946
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -27208,7 +27213,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8490
+      "UsersEstimate": 8491
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -27256,22 +27261,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 24164
+      "UsersEstimate": 24167
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 65308,
+      "Progressed": 65315,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-12-01T13:07:38.9484337+00:00",
-  "LastChanged_Achievements": "2023-12-03T00:04:13.2847627+00:00",
+  "LastChanged_Achievements": "2023-12-03T01:54:26.0563297+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:11.1920851+00:00",
-  "LastUpdate_Ratings": "2023-12-02T23:57:44.2644874+00:00",
-  "LastUpdate_Achievements": "2023-12-03T00:04:13.2849027+00:00"
+  "LastUpdate_Ratings": "2023-12-03T01:47:31.0373462+00:00",
+  "LastUpdate_Achievements": "2023-12-03T01:54:26.0564525+00:00"
 }

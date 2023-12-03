@@ -4,11 +4,11 @@
   "ProductSlug": "madden-nfl-24",
   "Ranking_Rating": 908,
   "Ranking_Popularity": 462,
-  "Ranking_PopularitySum": 429,
+  "Ranking_PopularitySum": 423,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -781,10 +781,16 @@
       "Rating": 4.21,
       "NumberOfAwards": 139,
       "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2023-12-03T01:47:59.8884705+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 165,
+      "NumberOfAwardsMax": 39
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 139,
+  "NumberOfAwards": 165,
   "NumberOfAwardsMax": 39,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -792,7 +798,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 32
+      "Count": 34
     },
     {
       "Text": "This game has Diverse Characters",
@@ -823,11 +829,17 @@
       "Prefix": "This game is",
       "Type": "Relaxing",
       "Count": 20
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 24
     }
   ],
-  "EOS_Progressed": 3985,
+  "EOS_Progressed": 3992,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6415,6 +6427,11 @@
       "Time": "2023-12-03T00:04:11.3868625+00:00",
       "NumProgressed": 3985,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T01:54:24.1968565+00:00",
+      "NumProgressed": 3992,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -6427,7 +6444,7 @@
       "Name": "Primetime",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "achievement_10",
@@ -6435,7 +6452,7 @@
       "Name": "Stud Finder",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1397
     },
     {
       "ID": "achievement_11",
@@ -6443,7 +6460,7 @@
       "Name": "Big Spender",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "achievement_12",
@@ -6451,7 +6468,7 @@
       "Name": "Dealmaker",
       "Percentage": 28,
       "XP": 60,
-      "UsersEstimate": 1116
+      "UsersEstimate": 1118
     },
     {
       "ID": "achievement_13",
@@ -6459,7 +6476,7 @@
       "Name": "MVP",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1317
     },
     {
       "ID": "achievement_14",
@@ -6467,7 +6484,7 @@
       "Name": "ROTY",
       "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1517
     },
     {
       "ID": "achievement_15",
@@ -6521,9 +6538,9 @@
       "ID": "achievement_20",
       "SetID": "aiin7da",
       "Name": "Saw It Coming",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 2311
+      "UsersEstimate": 2355
     },
     {
       "ID": "achievement_21",
@@ -6531,7 +6548,7 @@
       "Name": "Clean The Pile",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "achievement_3",
@@ -6555,7 +6572,7 @@
       "Name": "Change of Scenery",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "achievement_6",
@@ -6563,7 +6580,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1038
     },
     {
       "ID": "achievement_7",
@@ -6579,7 +6596,7 @@
       "Name": "Bragging Rights",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1158
     },
     {
       "ID": "achievement_9",
@@ -6587,23 +6604,23 @@
       "Name": "Future of the Franchise",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3985,
+      "Progressed": 3992,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-18T01:36:55.7733992+00:00",
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged": "2023-12-02T08:57:41.2737369+00:00",
-  "LastChanged_Achievements": "2023-12-03T00:04:11.3868623+00:00",
+  "LastChanged": "2023-12-03T01:47:59.8884702+00:00",
+  "LastChanged_Achievements": "2023-12-03T01:54:24.1968563+00:00",
   "LastUpdate_AppInfo": "2023-11-30T06:57:22.8292477+00:00",
-  "LastUpdate_Ratings": "2023-12-02T23:58:13.1747419+00:00",
-  "LastUpdate_Achievements": "2023-12-03T00:04:11.3869015+00:00"
+  "LastUpdate_Ratings": "2023-12-03T01:47:59.8884707+00:00",
+  "LastUpdate_Achievements": "2023-12-03T01:54:24.1969024+00:00"
 }

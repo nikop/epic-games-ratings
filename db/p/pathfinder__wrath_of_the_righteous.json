@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 120,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4451,7 +4451,7 @@
       "Count": 398
     }
   ],
-  "EOS_Progressed": 12225,
+  "EOS_Progressed": 12226,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
@@ -16346,6 +16346,11 @@
       "Time": "2023-12-02T19:09:16.7243052+00:00",
       "NumProgressed": 12225,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T01:59:35.8617891+00:00",
+      "NumProgressed": 12226,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -16365,7 +16370,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2200
+      "UsersEstimate": 2201
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -16421,7 +16426,7 @@
       "Name": "Path of the Demon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "10_PathOfAzata",
@@ -16437,7 +16442,7 @@
       "Name": "Path of the Aeon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "12_PathOfTrickster",
@@ -16613,7 +16618,7 @@
       "Name": "Capitulation Is Now Moot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -16637,7 +16642,7 @@
       "Name": "Your First Big Enemy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "38_PrelatesNemesis",
@@ -16757,7 +16762,7 @@
       "Name": "Truly Important Deed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "53_TrulyProfaneGift",
@@ -17284,21 +17289,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11007,
+      "Progressed": 11008,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12225,
+      "Progressed": 12226,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-02T23:59:44.0942154+00:00",
-  "LastChanged_Achievements": "2023-12-03T00:09:16.4282132+00:00",
+  "LastChanged_Achievements": "2023-12-03T01:59:35.8617889+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:59.5454343+00:00",
-  "LastUpdate_Ratings": "2023-12-02T23:59:44.0942165+00:00",
-  "LastUpdate_Achievements": "2023-12-03T00:09:16.4283726+00:00"
+  "LastUpdate_Ratings": "2023-12-03T01:49:32.1195258+00:00",
+  "LastUpdate_Achievements": "2023-12-03T01:59:35.862021+00:00"
 }

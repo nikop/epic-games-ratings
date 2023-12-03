@@ -961,7 +961,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9188,
+  "EOS_Progressed": 9189,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 1,
@@ -8651,6 +8651,11 @@
       "Time": "2023-12-02T23:06:37.3304399+00:00",
       "NumProgressed": 9188,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-03T01:54:54.0565845+00:00",
+      "NumProgressed": 9189,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -8670,7 +8675,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 1929
+      "UsersEstimate": 1930
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -8854,7 +8859,7 @@
       "Name": "Peak Performance",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4226
+      "UsersEstimate": 4227
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -8998,7 +9003,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1194
+      "UsersEstimate": 1195
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -9021,7 +9026,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9188,
+      "Progressed": 9189,
       "Completed": 10
     }
   ],
@@ -9029,8 +9034,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-02T15:59:35.3988448+00:00",
-  "LastChanged_Achievements": "2023-12-03T00:04:40.447735+00:00",
+  "LastChanged_Achievements": "2023-12-03T01:54:54.056584+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:20.0438707+00:00",
-  "LastUpdate_Ratings": "2023-12-02T23:59:33.5125621+00:00",
-  "LastUpdate_Achievements": "2023-12-03T00:04:40.4477893+00:00"
+  "LastUpdate_Ratings": "2023-12-03T01:49:21.6373276+00:00",
+  "LastUpdate_Achievements": "2023-12-03T01:54:54.0566934+00:00"
 }

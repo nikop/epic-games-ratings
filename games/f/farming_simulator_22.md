@@ -1,48 +1,48 @@
 # Farming Simulator 22
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-22)  
 [View Rawdata](../../db/f/farming_simulator_22.json)  
-Rating: 4.68 (Ranked 254)  
+Rating: 4.68 (Ranked 255)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 74.00% | ~40,375 |
-| I read Shakespeare and stuff | 62.00% | ~33,828 |
-| Just a sprinkle | 61.00% | ~33,282 |
-| I'm stumped | 59.00% | ~32,191 |
-| Plant get enough | 59.00% | ~32,191 |
-| It's just the beginning | 57.00% | ~31,100 |
-| This is just my weekend vehicle | 56.00% | ~30,554 |
-| Hard work pays off | 52.00% | ~28,372 |
-| It's never too late to farm | 49.00% | ~26,735 |
-| All out of Land | 43.00% | ~23,461 |
-| Field Trip | 42.00% | ~22,916 |
-| I like to switch it up | 39.00% | ~21,279 |
-| Help me to help you | 37.00% | ~20,188 |
-| Ultimutt Pawesomeness | 27.00% | ~14,731 |
-| Van Gogh | 25.00% | ~13,640 |
-| Vehicle fleet | 22.00% | ~12,003 |
-| You wood not believe it | 21.00% | ~11,458 |
-| Well-Oiled Machine | 16.00% | ~8,730 |
-| Long haul | 16.00% | ~8,730 |
-| Clucky Streak | 15.00% | ~8,184 |
-| The plot thickens | 15.00% | ~8,184 |
-| Large-scale supplier | 15.00% | ~8,184 |
+| Own use | 74.00% | ~40,380 |
+| I read Shakespeare and stuff | 62.00% | ~33,832 |
+| Just a sprinkle | 61.00% | ~33,286 |
+| I'm stumped | 59.00% | ~32,195 |
+| Plant get enough | 59.00% | ~32,195 |
+| It's just the beginning | 57.00% | ~31,103 |
+| This is just my weekend vehicle | 56.00% | ~30,558 |
+| Hard work pays off | 52.00% | ~28,375 |
+| It's never too late to farm | 49.00% | ~26,738 |
+| All out of Land | 43.00% | ~23,464 |
+| Field Trip | 42.00% | ~22,918 |
+| I like to switch it up | 39.00% | ~21,281 |
+| Help me to help you | 37.00% | ~20,190 |
+| Ultimutt Pawesomeness | 27.00% | ~14,733 |
+| Van Gogh | 25.00% | ~13,642 |
+| Vehicle fleet | 22.00% | ~12,005 |
+| You wood not believe it | 21.00% | ~11,459 |
+| Well-Oiled Machine | 16.00% | ~8,731 |
+| Long haul | 16.00% | ~8,731 |
+| Clucky Streak | 15.00% | ~8,185 |
+| The plot thickens | 15.00% | ~8,185 |
+| Large-scale supplier | 15.00% | ~8,185 |
 | That's a wrap | 14.00% | ~7,639 |
-| Fix me up | 12.00% | ~6,547 |
+| Fix me up | 12.00% | ~6,548 |
 | It's sow easy | 11.00% | ~6,002 |
 | Rock on | 11.00% | ~6,002 |
-| Highly cultivated | 10.00% | ~5,456 |
-| Giddy-up! | 10.00% | ~5,456 |
-| Cowherd | 7.00% | ~3,819 |
+| Highly cultivated | 10.00% | ~5,457 |
+| Giddy-up! | 10.00% | ~5,457 |
+| Cowherd | 7.00% | ~3,820 |
 | Fluffyness | 6.00% | ~3,274 |
 | Helper A does not stop … ever | 6.00% | ~3,274 |
 | Road Trip | 5.00% | ~2,728 |
 | Bringing in the Honey | 5.00% | ~2,728 |
-| Three little piggies… | 4.00% | ~2,182 |
-| Game on | 4.00% | ~2,182 |
-| Pretty colourful | 0.80% | ~436 |
-| Original grain | 0.80% | ~436 |
+| Three little piggies… | 4.00% | ~2,183 |
+| Game on | 4.00% | ~2,183 |
+| Pretty colourful | 0.80% | ~437 |
+| Original grain | 0.80% | ~437 |
 | Thoroughbred! | 0.60% | ~327 |
 | Gone but not for cotton | 0.50% | ~273 |
 | Cheese it | 0.40% | ~218 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~218 |
 | Raisin the stakes | 0.30% | ~164 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,561 (Ranked 111)  
+Progressed: 54,567 (Ranked 111)  
 Completed: 6 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,15 +277,15 @@ Completed: 6 (0.01%) (Ranked 344)
 | 2023-11-30 | 54,333 | 6 |
 | 2023-12-01 | 54,457 | 6 |
 | 2023-12-02 | 54,557 | 6 |
-| 2023-12-03 | 54,561 | 6 |
+| 2023-12-03 | 54,567 | 6 |
 ## Awards
 Max (Great for Beginners): 5,662  (Ranked 69)  
-Sum: 43,472 (Ranked 33)  
+Sum: 43,477 (Ranked 33)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,662 |
-| This game has Diverse Characters | 4,630 |
+| This game has Diverse Characters | 4,635 |
 | This game is Educational | 4,391 |
 | This game is Highly Recommended | 4,334 |
 | This game is Relaxing | 4,313 |
@@ -619,3 +619,4 @@ Diff (max vs sum): 36
 | 2023-11-30 | 4.68 | - | 5,657 | 43,417 |
 | 2023-12-01 | 4.68 | - | 5,662 | 43,456 |
 | 2023-12-02 | 4.68 | - | 5,662 | 43,472 |
+| 2023-12-03 | 4.68 | - | 5,662 | 43,477 |

@@ -10,7 +10,7 @@
 | Blobmeister | 27.00% | ~344 |
 | Pest Control | 27.00% | ~344 |
 | Exhaustive Explorer | 26.00% | ~331 |
-| How Low Can We Go? | 24.00% | ~306 |
+| How Low Can We Go? | 25.00% | ~318 |
 | Team Builder | 20.00% | ~255 |
 | Long Live Rock | 16.00% | ~204 |
 | Aggressive Antivirus | 15.00% | ~191 |
