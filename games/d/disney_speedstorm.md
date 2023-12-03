@@ -5,32 +5,32 @@ Rating: 4.40 (Ranked 741)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 11.00% | ~35,507 |
-| IT MAKES BOOM! | 7.00% | ~22,595 |
-| EXTRA BOOST | 5.00% | ~16,140 |
-| PROTECTED | 4.00% | ~12,912 |
-| PRO | 4.00% | ~12,912 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,684 |
-| AGGRESSIVE RACER | 3.00% | ~9,684 |
-| A TIGER'S FEAR | 2.00% | ~6,456 |
-| IT'S A LONG WAY TO THE TOP | 1.00% | ~3,228 |
-| BE OUR GUEST | 1.00% | ~3,228 |
-| ACE SPEEDSTER | 1.00% | ~3,228 |
-| MASTER | 1.00% | ~3,228 |
-| TRAINING HARD | 0.90% | ~2,905 |
-| RELEASE THE KRAKEN | 0.90% | ~2,905 |
-| FRIENDLY | 0.90% | ~2,905 |
-| LEGENDARY HERO | 0.90% | ~2,905 |
-| DEFEAT OUR CHAMPION | 0.80% | ~2,582 |
-| THE EYE OF THE HUNTER | 0.70% | ~2,260 |
-| EXPERIENCED CREW | 0.60% | ~1,937 |
-| ACE DEFENDER | 0.50% | ~1,614 |
-| ACE BRAWLER | 0.40% | ~1,291 |
-| ACE TRICKSTER | 0.40% | ~1,291 |
-| PERFECTLY POISED | 0.30% | ~968 |
-| FRAMED! | 0.30% | ~968 |
+| ROOKIE | 11.00% | ~35,525 |
+| IT MAKES BOOM! | 7.00% | ~22,607 |
+| EXTRA BOOST | 5.00% | ~16,148 |
+| PROTECTED | 4.00% | ~12,918 |
+| PRO | 4.00% | ~12,918 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,689 |
+| AGGRESSIVE RACER | 3.00% | ~9,689 |
+| A TIGER'S FEAR | 2.00% | ~6,459 |
+| IT'S A LONG WAY TO THE TOP | 1.00% | ~3,230 |
+| BE OUR GUEST | 1.00% | ~3,230 |
+| ACE SPEEDSTER | 1.00% | ~3,230 |
+| MASTER | 1.00% | ~3,230 |
+| TRAINING HARD | 0.90% | ~2,907 |
+| RELEASE THE KRAKEN | 0.90% | ~2,907 |
+| FRIENDLY | 0.90% | ~2,907 |
+| LEGENDARY HERO | 0.90% | ~2,907 |
+| DEFEAT OUR CHAMPION | 0.80% | ~2,584 |
+| THE EYE OF THE HUNTER | 0.70% | ~2,261 |
+| EXPERIENCED CREW | 0.60% | ~1,938 |
+| ACE DEFENDER | 0.50% | ~1,615 |
+| ACE BRAWLER | 0.40% | ~1,292 |
+| ACE TRICKSTER | 0.40% | ~1,292 |
+| PERFECTLY POISED | 0.30% | ~969 |
+| FRAMED! | 0.30% | ~969 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 322,791 (Ranked 52)  
+Progressed: 322,951 (Ranked 51)  
 Completed: 428 (0.13%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 428 (0.13%) (Ranked 274)
 | 2023-11-30 | 317,989 | 390 |
 | 2023-12-01 | 320,205 | 413 |
 | 2023-12-02 | 321,996 | 428 |
-| 2023-12-03 | 322,791 | 428 |
+| 2023-12-03 | 322,951 | 428 |
 ## Awards
 Max (Great for Beginners): 101  (Ranked 362)  
 Sum: 717 (Ranked 294)  

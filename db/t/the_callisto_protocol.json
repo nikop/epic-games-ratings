@@ -1559,7 +1559,7 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 16505,
+  "EOS_Progressed": 16506,
   "EOS_Completed": 81,
   "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 1,
@@ -9349,6 +9349,11 @@
       "Time": "2023-12-02T23:11:13.1545113+00:00",
       "NumProgressed": 16505,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-12-03T06:08:02.7181702+00:00",
+      "NumProgressed": 16506,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 47,
@@ -9464,7 +9469,7 @@
       "Name": "Get a Grip",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -9536,7 +9541,7 @@
       "Name": "Paper Jams",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1486
     },
     {
       "ID": "SHARE_PHOTO",
@@ -9735,13 +9740,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16505,
+      "Progressed": 16506,
       "Completed": 81
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4431,
+      "Progressed": 4432,
       "Completed": 29
     }
   ],
@@ -9749,8 +9754,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-02T10:02:58.7832752+00:00",
-  "LastChanged_Achievements": "2023-12-03T05:08:29.5520861+00:00",
+  "LastChanged_Achievements": "2023-12-03T06:08:02.71817+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:15.6187637+00:00",
-  "LastUpdate_Ratings": "2023-12-03T05:02:55.2301907+00:00",
-  "LastUpdate_Achievements": "2023-12-03T05:08:29.5521424+00:00"
+  "LastUpdate_Ratings": "2023-12-03T06:02:46.1133427+00:00",
+  "LastUpdate_Achievements": "2023-12-03T06:08:02.7182232+00:00"
 }

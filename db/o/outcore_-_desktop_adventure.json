@@ -209,9 +209,9 @@
       "ID": "CompletedChapter2",
       "SetID": "7ejh407",
       "Name": "Defeated Booty The Bootleg",
-      "Percentage": 26,
+      "Percentage": 32,
       "XP": 200,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "CompletedChapter3",
@@ -233,9 +233,9 @@
       "ID": "Creepy1",
       "SetID": "7ejh407",
       "Name": "H\u0334\u0344\u0358\u034A\u0344\u0341\u0303\u0344\u034A\u0302\u030F\u0305\u0344\u0306\u034A\u035B\u034B\u0360\u0303\u030D\u030A\u0313\u035B\u0314\u0306\u035DE\u0335\u031A\u0344\u030A\u034B\u0358\u0344\u0314\u030D\u0351\u0304\u031B\u0305\u0315\u0341\u0314\u035B\u0343\u0358\u033D\u030A\u0312\u0313\u0358\u031B\u0301\u035B\u0340\u0300\u0357\u035D\u0344\u0341\u0303\u0344\u0344\u0304\u0314\u0315\u0343\u0350\u0346\u0340\u0344\u0304\u0301\u0347\u0322\u032A\u031F\u0353\u031D\u033C\u0355\u031E\u0354\u033B\u034E\u0320\u0354\u0324\u0325\u033A\u0339\u0331\u033C\u0322\u032A\u0327\u033A\u032A\u0345\u033A\u0330\u0331L\u0338\u0360\u0340P\u0335\u0301\u030E\u0304\u033D\u031B\u0344\u0341\u034A\u0305\u035B\u0304 \u0336\u0303M\u0336\u030D\u030C\u034A\u0300\u0313\u0304\u030B\u034B\u0302\u034C\u030F\u0344\u033E\u035D\u0346\u030C\u0344\u0306\u0344\u035D\u0310\u0360\u033F\u0343\u0350\u0360\u033C\u032A\u031E\u0348\u032F\u032C\u0356\u0328\u0356\u034E\u031E\u034E\u033B\u0327\u0325E\u0335\u0352\u0313\u034A\u0358\u034B\u0304",
-      "Percentage": 35,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Creepy2",
@@ -273,9 +273,9 @@
       "ID": "GoodBoy",
       "SetID": "7ejh407",
       "Name": "Good boy",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "HighStriker",
@@ -297,9 +297,9 @@
       "ID": "ImerssionBreaking",
       "SetID": "7ejh407",
       "Name": "Immersion Breaking",
-      "Percentage": 41,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "InternetExplorer",
@@ -408,8 +408,8 @@
   ],
   "FirstSeen": "2023-05-08T18:00:59.2575901+00:00",
   "FirstSeenAchievements": "2023-05-02T18:05:17.3554395+00:00",
-  "LastChanged_Achievements": "2023-12-03T05:08:19.0947151+00:00",
+  "LastChanged_Achievements": "2023-12-03T06:06:23.1342938+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:28.0189127+00:00",
-  "LastUpdate_Ratings": "2023-12-03T04:59:41.2700719+00:00",
-  "LastUpdate_Achievements": "2023-12-03T05:08:19.0947323+00:00"
+  "LastUpdate_Ratings": "2023-12-03T05:59:35.5054954+00:00",
+  "LastUpdate_Achievements": "2023-12-03T06:06:23.1343083+00:00"
 }

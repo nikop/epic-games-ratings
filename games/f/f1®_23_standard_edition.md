@@ -1,29 +1,29 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.67 (Ranked 276)  
+Rating: 4.68 (Ranked 255)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,652 |
-| On the Top Step | 88.00% | ~5,291 |
-| Setting up for Success | 78.00% | ~4,690 |
-| Team Orders | 76.00% | ~4,570 |
-| Engineer | 56.00% | ~3,367 |
-| Familiar Faces | 49.00% | ~2,946 |
+| Getting on the Step | 94.00% | ~5,653 |
+| On the Top Step | 88.00% | ~5,292 |
+| Setting up for Success | 78.00% | ~4,691 |
+| Team Orders | 76.00% | ~4,571 |
+| Engineer | 56.00% | ~3,368 |
+| Familiar Faces | 49.00% | ~2,947 |
 | Sharing the Love | 44.00% | ~2,646 |
 | Going the Extra Mile | 43.00% | ~2,586 |
-| Hitting a Season | 41.00% | ~2,465 |
-| A Dozen Pieces | 34.00% | ~2,044 |
-| Challenge Yourself | 34.00% | ~2,044 |
+| Hitting a Season | 41.00% | ~2,466 |
+| A Dozen Pieces | 34.00% | ~2,045 |
+| Challenge Yourself | 34.00% | ~2,045 |
 | Making History | 32.00% | ~1,924 |
 | Network Success | 28.00% | ~1,684 |
-| Writing a new Chapter | 26.00% | ~1,563 |
+| Writing a new Chapter | 26.00% | ~1,564 |
 | Spring Cleaning | 24.00% | ~1,443 |
 | Reduce | 21.00% | ~1,263 |
 | Ups and Downs | 21.00% | ~1,263 |
 | Crucial Combo | 20.00% | ~1,203 |
-| Reuse | 18.00% | ~1,082 |
+| Reuse | 18.00% | ~1,083 |
 | One for the Book | 17.00% | ~1,022 |
 | Proving Them Wrong | 17.00% | ~1,022 |
 | Gathering Dust | 16.00% | ~962 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 276)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,013 (Ranked 186)  
+Progressed: 6,014 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,15 +136,15 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-30 | 5,982 | 0 |
 | 2023-12-01 | 5,992 | 0 |
 | 2023-12-02 | 6,006 | 0 |
-| 2023-12-03 | 6,013 | 0 |
+| 2023-12-03 | 6,014 | 0 |
 ## Awards
-Max (Diverse Characters): 27  (Ranked 514)  
-Sum: 98 (Ranked 452)  
-Diff (max vs sum): 62  
+Max (Diverse Characters): 28  (Ranked 510)  
+Sum: 99 (Ranked 451)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |
-| This game has Diverse Characters | 27 |
+| This game has Diverse Characters | 28 |
 | This game is Highly Recommended | 25 |
 | This game has a Competitive Community | 25 |
 | This game is Great for Quick Sessions | 24 |
@@ -236,3 +236,4 @@ Diff (max vs sum): 62
 | 2023-11-29 | 4.68 | 26 | 96 |
 | 2023-12-01 | 4.68 | 27 | 97 |
 | 2023-12-02 | 4.68 | 27 | 98 |
+| 2023-12-03 | 4.68 | 28 | 99 |

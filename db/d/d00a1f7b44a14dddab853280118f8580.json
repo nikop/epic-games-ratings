@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 367,
+  "EOS_Progressed": 368,
   "EOS_Completed": 67,
   "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 18.26,
+  "EOS_Completed_Percentage": 18.21,
   "EosHistory": [
     {
       "Time": "2023-07-27T20:02:52.2340673+00:00",
@@ -1464,6 +1464,11 @@
       "Time": "2023-12-02T19:08:46.8100686+00:00",
       "NumProgressed": 367,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-12-03T06:08:10.7387188+00:00",
+      "NumProgressed": 368,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-27T20:02:52.2356404+00:00",
@@ -1476,15 +1481,15 @@
       "Name": "Clever thinking!",
       "Percentage": 82,
       "XP": 100,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ach_complete_30",
       "SetID": "5e260i9",
       "Name": "Brilliant mind!",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 200,
-      "UsersEstimate": 180
+      "UsersEstimate": 177
     },
     {
       "ID": "ach_complete_tutorial",
@@ -1492,7 +1497,7 @@
       "Name": "Welcome aboard!",
       "Percentage": 96,
       "XP": 80,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ach_hint_3",
@@ -1500,7 +1505,7 @@
       "Name": "A helping hand!",
       "Percentage": 63,
       "XP": 40,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ach_hint_6",
@@ -1508,7 +1513,7 @@
       "Name": "Supported success!",
       "Percentage": 51,
       "XP": 70,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ach_hint_9",
@@ -1530,9 +1535,9 @@
       "ID": "ach_minigames_10",
       "SetID": "5e260i9",
       "Name": "Inquiring mind!",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 80,
-      "UsersEstimate": 253
+      "UsersEstimate": 258
     },
     {
       "ID": "ach_skip_1",
@@ -1548,7 +1553,7 @@
       "Name": "Advance further!",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ach_skip_5",
@@ -1563,14 +1568,14 @@
     {
       "ID": "5e260i9",
       "IsBase": true,
-      "Progressed": 367,
+      "Progressed": 368,
       "Completed": 67
     }
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-12-03T05:08:38.0239006+00:00",
+  "LastChanged_Achievements": "2023-12-03T06:08:10.7387184+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:13.4790748+00:00",
-  "LastUpdate_Ratings": "2023-12-03T05:02:45.1409727+00:00",
-  "LastUpdate_Achievements": "2023-12-03T05:08:38.0239128+00:00"
+  "LastUpdate_Ratings": "2023-12-03T06:02:36.1871728+00:00",
+  "LastUpdate_Achievements": "2023-12-03T06:08:10.7387422+00:00"
 }

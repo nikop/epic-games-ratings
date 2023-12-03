@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 93.00% | ~1,382 |
-| Spectre Inductee | 80.00% | ~1,189 |
-| Medal of Exploration I | 72.00% | ~1,070 |
-| Recruit | 68.00% | ~1,010 |
+| Distinguished Service Medal | 93.00% | ~1,383 |
+| Spectre Inductee | 80.00% | ~1,190 |
+| Medal of Exploration I | 72.00% | ~1,071 |
+| Recruit | 68.00% | ~1,011 |
 | Search and Rescue | 67.00% | ~996 |
-| Quarian Ally | 64.00% | ~951 |
+| Quarian Ally | 64.00% | ~952 |
 | Medal of Heroism | 60.00% | ~892 |
-| Honorarium of Corporate Service | 59.00% | ~877 |
-| Medal of Exploration II | 54.00% | ~802 |
-| Council Legion of Merit | 54.00% | ~802 |
+| Honorarium of Corporate Service | 60.00% | ~892 |
+| Medal of Exploration II | 54.00% | ~803 |
+| Council Legion of Merit | 54.00% | ~803 |
+| Turian Ally | 53.00% | ~788 |
 | Medal of Honor | 52.00% | ~773 |
 | Meritorious Service Medal | 52.00% | ~773 |
-| Turian Ally | 52.00% | ~773 |
 | Charismatic | 51.00% | ~758 |
-| Soldier | 50.00% | ~743 |
-| Asari Ally | 47.00% | ~698 |
+| Soldier | 50.00% | ~744 |
+| Asari Ally | 47.00% | ~699 |
 | Medal of Exploration III | 46.00% | ~684 |
 | Soldier Ally | 46.00% | ~684 |
-| Principled | 45.00% | ~669 |
+| Principled | 46.00% | ~684 |
 | Paramour I | 44.00% | ~654 |
 | Colonial Savior | 44.00% | ~654 |
 | Missing in Action | 44.00% | ~654 |
 | Very Elusive | 43.00% | ~639 |
 | Scientist | 43.00% | ~639 |
-| Krogan Ally | 42.00% | ~624 |
-| Merciless | 42.00% | ~624 |
-| Sentinel Ally | 41.00% | ~609 |
-| Head Hunter | 40.00% | ~594 |
-| Operative | 40.00% | ~594 |
-| Scholar | 40.00% | ~594 |
+| Krogan Ally | 42.00% | ~625 |
+| Merciless | 42.00% | ~625 |
+| Sentinel Ally | 41.00% | ~610 |
+| Head Hunter | 40.00% | ~595 |
+| Operative | 40.00% | ~595 |
+| Scholar | 40.00% | ~595 |
 | Veteran | 38.00% | ~565 |
 | The Archangel | 38.00% | ~565 |
 | The Professor | 38.00% | ~565 |
@@ -41,9 +41,9 @@
 | The Convict | 36.00% | ~535 |
 | Colony Defense | 35.00% | ~520 |
 | The Krogan | 35.00% | ~520 |
-| Broke, Blind, and Bedlam | 34.00% | ~505 |
-| Galactic Explorer | 33.00% | ~490 |
-| Shopaholic | 33.00% | ~490 |
+| Broke, Blind, and Bedlam | 34.00% | ~506 |
+| Galactic Explorer | 33.00% | ~491 |
+| Shopaholic | 33.00% | ~491 |
 | A Personal Touch | 32.00% | ~476 |
 | Ghost Ship | 32.00% | ~476 |
 | The Assassin | 32.00% | ~476 |
@@ -78,7 +78,7 @@
 | Eye of the Hurricane | 27.00% | ~401 |
 | Giant Killer | 27.00% | ~401 |
 | World Shaker | 27.00% | ~401 |
-| Liberator | 26.00% | ~386 |
+| Liberator | 26.00% | ~387 |
 | First Aid Specialist | 25.00% | ~372 |
 | Pathfinder | 25.00% | ~372 |
 | Tunnel Rat | 25.00% | ~372 |
@@ -98,10 +98,10 @@
 | Pyromaniac | 20.00% | ~297 |
 | No One Left Behind | 20.00% | ~297 |
 | Well Connected | 20.00% | ~297 |
-| Executioner | 19.00% | ~282 |
-| Master and Commander | 19.00% | ~282 |
-| Patriot | 18.00% | ~267 |
-| Legend | 18.00% | ~267 |
+| Master and Commander | 19.00% | ~283 |
+| Executioner | 18.00% | ~268 |
+| Patriot | 18.00% | ~268 |
+| Legend | 18.00% | ~268 |
 | Long Service Medal | 16.00% | ~238 |
 | Sabotage Specialist | 16.00% | ~238 |
 | Throw Mastery | 16.00% | ~238 |
@@ -109,8 +109,8 @@
 | Electronics Specialist | 14.00% | ~208 |
 | Combined Arms | 13.00% | ~193 |
 | Bruiser | 12.00% | ~178 |
-| Overload Specialist | 11.00% | ~163 |
-| Warp Mastery | 11.00% | ~163 |
+| Overload Specialist | 11.00% | ~164 |
+| Warp Mastery | 11.00% | ~164 |
 | Hijacker | 10.00% | ~149 |
 | Always Prepared | 10.00% | ~149 |
 | Paramour III | 10.00% | ~149 |
@@ -132,7 +132,7 @@
 | Insanity III | 1.00% | ~15 |
 | Neural Shock Specialist | 1.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,486 (Ranked 243)  
+Progressed: 1,487 (Ranked 243)  
 Completed: 7 (0.47%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,4 +211,4 @@ Completed: 7 (0.47%) (Ranked 212)
 | 2023-11-30 | 1,467 | 6 |
 | 2023-12-01 | 1,472 | 6 |
 | 2023-12-02 | 1,484 | 6 |
-| 2023-12-03 | 1,486 | 7 |
+| 2023-12-03 | 1,487 | 7 |

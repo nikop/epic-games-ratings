@@ -4,7 +4,7 @@
   "ProductSlug": "sprawl-db4324",
   "Ranking_EOS_Progress": 774,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 494,
+  "Ranking_EOS_NewPlayers": 492,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-08-23T18:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-28T03:59:29.2596088+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:10.9261582+00:00",
-  "LastUpdate_Ratings": "2023-12-03T05:00:04.2409946+00:00",
-  "LastUpdate_Achievements": "2023-12-03T05:03:43.5298709+00:00"
+  "LastUpdate_Ratings": "2023-12-03T05:59:57.9973572+00:00",
+  "LastUpdate_Achievements": "2023-12-03T06:03:34.1536071+00:00"
 }

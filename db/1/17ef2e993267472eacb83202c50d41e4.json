@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8517,
+  "EOS_Progressed": 8520,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7858,6 +7858,11 @@
       "Time": "2023-12-03T05:09:39.3615243+00:00",
       "NumProgressed": 8517,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T06:09:10.3810529+00:00",
+      "NumProgressed": 8520,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -7990,7 +7995,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2640
+      "UsersEstimate": 2641
     },
     {
       "ID": "GamesPlayed10",
@@ -8014,7 +8019,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1703
+      "UsersEstimate": 1704
     },
     {
       "ID": "GamesWon10",
@@ -8278,7 +8283,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "NeutralKills200",
@@ -8294,7 +8299,7 @@
       "Name": "Destroyed the Nexus",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "PlayerKills10",
@@ -8366,7 +8371,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     },
     {
       "ID": "SEUpgraded1",
@@ -8430,7 +8435,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "TSUPurchased1",
@@ -8461,7 +8466,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8517,
+      "Progressed": 8520,
       "Completed": 1
     }
   ],
@@ -8469,8 +8474,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-28T13:57:22.5296785+00:00",
-  "LastChanged_Achievements": "2023-12-03T05:09:39.3615241+00:00",
+  "LastChanged_Achievements": "2023-12-03T06:09:10.3810526+00:00",
   "LastUpdate_AppInfo": "2023-11-28T15:57:00.1791972+00:00",
-  "LastUpdate_Ratings": "2023-12-03T04:59:27.996845+00:00",
-  "LastUpdate_Achievements": "2023-12-03T05:09:39.3616062+00:00"
+  "LastUpdate_Ratings": "2023-12-03T05:59:22.2462403+00:00",
+  "LastUpdate_Achievements": "2023-12-03T06:09:10.3811305+00:00"
 }

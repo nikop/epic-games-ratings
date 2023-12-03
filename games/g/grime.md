@@ -8,6 +8,7 @@ Number of Ratings: 46  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Hunt | 0.20% | ~322 |
 | Taste | 0.20% | ~322 |
+| Weeper | 0.20% | ~322 |
 | Imprint | 0.20% | ~322 |
 | Ravenous | 0.20% | ~322 |
 | Spiral Heart | 0.10% | ~161 |
@@ -17,7 +18,6 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.10% | ~161 |
 | Zygote | 0.10% | ~161 |
 | Breath | 0.10% | ~161 |
-| Weeper | 0.10% | ~161 |
 | Hunt Down | 0.10% | ~161 |
 | Artisan | 0.10% | ~161 |
 | Shapely | 0.10% | ~161 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~161 |
 | Intensify | 0.10% | ~161 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 160,962 (Ranked 78)  
+Progressed: 160,970 (Ranked 78)  
 Completed: 146 (0.09%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 146 (0.09%) (Ranked 291)
 | 2023-11-30 | 160,588 | 39 |
 | 2023-12-01 | 160,762 | 100 |
 | 2023-12-02 | 160,919 | 135 |
-| 2023-12-03 | 160,962 | 146 |
+| 2023-12-03 | 160,970 | 146 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 425)  
 Sum: 391 (Ranked 346)  

@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 850,
+  "EOS_Progressed": 851,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 12,
@@ -3440,6 +3440,11 @@
       "Time": "2023-12-03T05:08:00.7226245+00:00",
       "NumProgressed": 850,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-03T06:06:05.4942387+00:00",
+      "NumProgressed": 851,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 25,
@@ -3499,7 +3504,7 @@
       "Name": "Open door",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "META_RESULT_1-3",
@@ -3539,7 +3544,7 @@
       "Name": "A Link to the Past",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -3569,9 +3574,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 247
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -3579,7 +3584,7 @@
       "Name": "Fashion victim",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -3595,7 +3600,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3643,21 +3648,21 @@
       "Name": "One last step",
       "Percentage": 21,
       "XP": 80,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 850,
+      "Progressed": 851,
       "Completed": 49
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-03T05:08:00.7226241+00:00",
+  "LastChanged_Achievements": "2023-12-03T06:06:05.4942384+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:43.5720459+00:00",
-  "LastUpdate_Ratings": "2023-12-03T04:59:59.43754+00:00",
-  "LastUpdate_Achievements": "2023-12-03T05:08:00.7226851+00:00"
+  "LastUpdate_Ratings": "2023-12-03T05:59:53.4508865+00:00",
+  "LastUpdate_Achievements": "2023-12-03T06:06:05.4942632+00:00"
 }

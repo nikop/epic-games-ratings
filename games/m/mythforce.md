@@ -1,7 +1,7 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.48 (Ranked 632)  
+Rating: 4.48 (Ranked 633)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,7 +11,7 @@ Number of Ratings: 285  (23.09.2022)
 | Debuff Dogpile | 24.00% | ~1,269 |
 | Perk Shard Punch Card | 24.00% | ~1,269 |
 | That'll Leave a Mark | 24.00% | ~1,269 |
-| Mushroom Madness! | 22.00% | ~1,163 |
+| Mushroom Madness! | 22.00% | ~1,164 |
 | First Strike | 20.00% | ~1,058 |
 | Spending Spree | 19.00% | ~1,005 |
 | Horder Better Faster Stronger | 18.00% | ~952 |
@@ -20,7 +20,7 @@ Number of Ratings: 285  (23.09.2022)
 | Next Time on MythForce... | 14.00% | ~740 |
 | Cold-Blooded Critters | 10.00% | ~529 |
 | Death Becomes You | 8.00% | ~423 |
-| Flawless Victory | 6.00% | ~317 |
+| Flawless Victory | 7.00% | ~370 |
 | The Harder They Fall | 6.00% | ~317 |
 | On this Episode! | 6.00% | ~317 |
 | Deadication | 4.00% | ~212 |
@@ -30,8 +30,8 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.50% | ~26 |
 | Deadalus and Loving It | 0.20% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,288 (Ranked 190)  
-Completed: 4 (0.08%) (Ranked 300)  
+Progressed: 5,289 (Ranked 190)  
+Completed: 4 (0.08%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -171,7 +171,7 @@ Completed: 4 (0.08%) (Ranked 300)
 | 2023-11-30 | 5,238 | 4 |
 | 2023-12-01 | 5,269 | 4 |
 | 2023-12-02 | 5,279 | 4 |
-| 2023-12-03 | 5,288 | 4 |
+| 2023-12-03 | 5,289 | 4 |
 ## Awards
 Max (Great for Beginners): 35  (Ranked 479)  
 Sum: 289 (Ranked 369)  

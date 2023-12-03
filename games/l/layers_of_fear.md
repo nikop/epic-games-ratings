@@ -26,8 +26,8 @@
 | A Slice of Life | 9.00% | ~9 |
 | Debut | 9.00% | ~9 |
 | The art of movement | 9.00% | ~9 |
+| Sound Bite | 8.00% | ~8 |
 | Another perspective | 7.00% | ~7 |
-| Sound Bite | 7.00% | ~7 |
 | Heavy Burden | 7.00% | ~7 |
 | Lights! Camera! Action! | 7.00% | ~7 |
 | Casting Finished | 6.00% | ~6 |

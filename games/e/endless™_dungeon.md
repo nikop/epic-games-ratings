@@ -9,7 +9,7 @@
 | Hoarder | 33.00% | ~421 |
 | Blobmeister | 27.00% | ~345 |
 | Pest Control | 27.00% | ~345 |
-| Exhaustive Explorer | 26.00% | ~332 |
+| Exhaustive Explorer | 27.00% | ~345 |
 | How Low Can We Go? | 25.00% | ~319 |
 | Team Builder | 20.00% | ~255 |
 | Aggressive Antivirus | 16.00% | ~204 |

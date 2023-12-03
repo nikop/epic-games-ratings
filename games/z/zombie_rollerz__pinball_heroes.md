@@ -6,7 +6,7 @@ Rating: 4.30 (Ranked 840)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Level Up! | 87.00% | ~173 |
-| Bullseye! | 84.00% | ~167 |
+| Bullseye! | 85.00% | ~169 |
 | Graduation! | 79.00% | ~157 |
 | Villfir Forest | 74.00% | ~147 |
 | Right in the kisser! | 58.00% | ~115 |

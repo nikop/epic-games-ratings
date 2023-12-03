@@ -6,15 +6,15 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~407,893 |
-| Haikyo | 80.00% | ~343,489 |
-| Good as New | 72.00% | ~309,140 |
+| Found a Friend | 95.00% | ~407,894 |
+| Haikyo | 80.00% | ~343,490 |
+| Good as New | 72.00% | ~309,141 |
 | Into the Woods | 70.00% | ~300,553 |
 | Hunter in the Forest | 60.00% | ~257,617 |
 | Rot Commander | 60.00% | ~257,617 |
-| Taro's Fear | 56.00% | ~240,442 |
+| Taro's Fear | 56.00% | ~240,443 |
 | Between the Eyes | 47.00% | ~201,800 |
-| Taro's Love | 46.00% | ~197,506 |
+| Taro's Love | 46.00% | ~197,507 |
 | Taro's Regret | 44.00% | ~188,919 |
 | Spirit Guide | 42.00% | ~180,332 |
 | Harness Your Power | 39.00% | ~167,451 |
@@ -23,12 +23,12 @@ Number of Ratings: 3,313  (23.09.2022)
 | Adira's Fear | 33.00% | ~141,689 |
 | Weigh Them Down | 31.00% | ~133,102 |
 | Adira's Regret | 31.00% | ~133,102 |
-| A Heavy Hammer | 30.00% | ~128,808 |
+| A Heavy Hammer | 30.00% | ~128,809 |
 | Crossing Over | 29.00% | ~124,515 |
 | Quick Draw | 29.00% | ~124,515 |
 | Toshi's Fear | 28.00% | ~120,221 |
-| Toshi's Regret | 27.00% | ~115,927 |
-| Toshi's Love | 27.00% | ~115,927 |
+| Toshi's Regret | 27.00% | ~115,928 |
+| Toshi's Love | 27.00% | ~115,928 |
 | A Leader Walks Alone | 26.00% | ~111,634 |
 | Bow Master | 26.00% | ~111,634 |
 | The Lonely Path | 26.00% | ~111,634 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,864 |
 | Master Spirit Guide | 0.30% | ~1,288 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 429,361 (Ranked 44)  
+Progressed: 429,362 (Ranked 44)  
 Completed: 550 (0.13%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 550 (0.13%) (Ranked 274)
 | 2023-11-30 | 429,318 | 549 |
 | 2023-12-01 | 429,332 | 549 |
 | 2023-12-02 | 429,356 | 550 |
-| 2023-12-03 | 429,361 | 550 |
+| 2023-12-03 | 429,362 | 550 |
 ## Awards
 Max (Great Boss Battles): 1,342  (Ranked 136)  
 Sum: 1,761 (Ranked 221)  

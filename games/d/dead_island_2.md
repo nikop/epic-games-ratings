@@ -5,18 +5,18 @@ Rating: 4.54 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,644 |
-| Pork Chopped | 3.00% | ~1,644 |
-| Git Gutte! | 2.00% | ~14,585 |
-| Break A Leg | 2.00% | ~14,585 |
-| Coup de Grâce | 2.00% | ~14,585 |
-| Hazardous Materials | 2.00% | ~14,585 |
-| Friends Like These | 2.00% | ~14,585 |
-| Hotel California | 2.00% | ~14,585 |
-| Apex Predator | 2.00% | ~14,585 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,585 |
-| Welcome To Hell-A | 2.00% | ~14,585 |
-| One of Us | 2.00% | ~1,096 |
+| Whatever It Takes | 3.00% | ~1,645 |
+| Pork Chopped | 3.00% | ~1,645 |
+| Git Gutte! | 2.00% | ~14,586 |
+| Break A Leg | 2.00% | ~14,586 |
+| Coup de Grâce | 2.00% | ~14,586 |
+| Hazardous Materials | 2.00% | ~14,586 |
+| Friends Like These | 2.00% | ~14,586 |
+| Hotel California | 2.00% | ~14,586 |
+| Apex Predator | 2.00% | ~14,586 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,586 |
+| Welcome To Hell-A | 2.00% | ~14,586 |
+| One of Us | 2.00% | ~1,097 |
 | Dr. Reed, I Presume? | 1.00% | ~7,293 |
 | Anger Management | 1.00% | ~7,293 |
 | Perks of the Job | 1.00% | ~7,293 |
@@ -33,9 +33,9 @@ Rating: 4.54 (Ranked 528)
 | Stacking the Deck | 1.00% | ~7,293 |
 | Our True Nature | 1.00% | ~7,293 |
 | This is My Weapon | 1.00% | ~7,293 |
-| Making Your Mark | 0.90% | ~6,563 |
-| Humanity Distilled | 0.90% | ~6,563 |
-| Max Headroom | 0.90% | ~6,563 |
+| Making Your Mark | 0.90% | ~6,564 |
+| Humanity Distilled | 0.90% | ~6,564 |
+| Max Headroom | 0.90% | ~6,564 |
 | Down with the Sickness | 0.80% | ~5,834 |
 | Not Even My Final Form | 0.70% | ~5,105 |
 | Jumbo Keyring | 0.70% | ~5,105 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 528)
 | Bucket List | 0.10% | ~729 |
 | Wilhelm | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 729,271 (Ranked 21)  
+Progressed: 729,290 (Ranked 21)  
 Completed: 2,461 (0.34%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 2,461 (0.34%) (Ranked 232)
 | 2023-11-30 | 728,231 | 2,456 |
 | 2023-12-01 | 728,667 | 2,459 |
 | 2023-12-02 | 729,149 | 2,460 |
-| 2023-12-03 | 729,271 | 2,461 |
+| 2023-12-03 | 729,290 | 2,461 |
 ## Awards
 Max (Great Boss Battles): 7,869  (Ranked 49)  
 Sum: 12,068 (Ranked 83)  

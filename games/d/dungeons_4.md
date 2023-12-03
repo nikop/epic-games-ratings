@@ -39,7 +39,7 @@
 | Hungry, Hungry Gorgu! | 24.00% | ~124 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 24.00% | ~124 |
 | Forbidden Knowledge | 24.00% | ~124 |
-| Ghost Pirates? Ghost Heroes! | 23.00% | ~119 |
+| Ghost Pirates? Ghost Heroes! | 24.00% | ~124 |
 | The Finitude Drill | 22.00% | ~114 |
 | Stop Tanos! | 19.00% | ~98 |
 | Doom Hill | 19.00% | ~98 |

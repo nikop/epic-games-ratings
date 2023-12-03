@@ -175,7 +175,7 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 839,
+  "EOS_Progressed": 840,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
@@ -1945,6 +1945,11 @@
       "Time": "2023-12-03T05:04:19.2840684+00:00",
       "NumProgressed": 839,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T06:04:09.0098104+00:00",
+      "NumProgressed": 840,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2051,9 +2056,9 @@
       "ID": "Discovery",
       "SetID": "1n308hc",
       "Name": "Discovery",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 67
     },
     {
       "ID": "EasternWetlands",
@@ -2428,7 +2433,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 839,
+      "Progressed": 840,
       "Completed": 1
     }
   ],
@@ -2436,8 +2441,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-02T13:02:26.2646778+00:00",
-  "LastChanged_Achievements": "2023-12-03T05:04:19.284068+00:00",
+  "LastChanged_Achievements": "2023-12-03T06:04:09.0098102+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-03T04:57:18.4804015+00:00",
-  "LastUpdate_Achievements": "2023-12-03T05:04:19.284118+00:00"
+  "LastUpdate_Ratings": "2023-12-03T05:57:15.0605371+00:00",
+  "LastUpdate_Achievements": "2023-12-03T06:04:09.009855+00:00"
 }

@@ -20,7 +20,7 @@
 | Bonds of Enmity | 53.00% | ~188 |
 | Helpful Heart | 53.00% | ~188 |
 | Distance Devourer | 52.00% | ~184 |
-| Master of the Skies | 48.00% | ~170 |
+| Master of the Skies | 49.00% | ~173 |
 | Counter Specialist | 48.00% | ~170 |
 | Axer of Auspice | 45.00% | ~159 |
 | Mighty Marmelizer | 42.00% | ~149 |

@@ -34,8 +34,8 @@ Rating: 4.07 (Ranked 981)
 | Best Dressed | 8.00% | ~26 |
 | Armaments Azure | 8.00% | ~26 |
 | Armaments Gules | 7.00% | ~23 |
+| Scholar | 6.00% | ~19 |
 | Kitted Out | 6.00% | ~19 |
-| Scholar | 5.00% | ~16 |
 | Armaments Vert | 5.00% | ~16 |
 | Veteran | 5.00% | ~16 |
 | Master of Ultramarine | 2.00% | ~6 |
