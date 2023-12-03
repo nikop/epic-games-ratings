@@ -5,9 +5,9 @@ Rating: 4.50 (Ranked 592)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 9.00% | ~2,869 |
-| Advancement | 7.00% | ~2,231 |
-| Meticulously Efficient | 7.00% | ~2,231 |
+| Stylish | 9.00% | ~2,870 |
+| Advancement | 7.00% | ~2,232 |
+| Meticulously Efficient | 7.00% | ~2,232 |
 | I collect Spores, Molds, and Fungi | 5.00% | ~1,594 |
 | Discovery | 5.00% | ~1,594 |
 | Fully Upgraded | 5.00% | ~1,594 |
@@ -19,14 +19,14 @@ Rating: 4.50 (Ranked 592)
 | There you are! | 4.00% | ~1,275 |
 | Vaporous Expansion | 4.00% | ~1,275 |
 | Whoopsie | 4.00% | ~1,275 |
-| Animated | 3.00% | ~956 |
-| Daily Dose | 3.00% | ~956 |
-| Ectoplasmic Entity | 3.00% | ~956 |
-| Ghostbuster In Training | 3.00% | ~956 |
-| Icing on the Cake | 3.00% | ~956 |
-| Right back at ya | 3.00% | ~956 |
-| Side Hustle | 3.00% | ~956 |
-| Summoner | 3.00% | ~956 |
+| Animated | 3.00% | ~957 |
+| Daily Dose | 3.00% | ~957 |
+| Ectoplasmic Entity | 3.00% | ~957 |
+| Ghostbuster In Training | 3.00% | ~957 |
+| Icing on the Cake | 3.00% | ~957 |
+| Right back at ya | 3.00% | ~957 |
+| Side Hustle | 3.00% | ~957 |
+| Summoner | 3.00% | ~957 |
 | Back Off | 2.00% | ~638 |
 | We have the best insurance | 2.00% | ~638 |
 | Collector | 2.00% | ~638 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 592)
 | Ultimate Defense | 0.20% | ~64 |
 | Line em' up | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,876 (Ranked 124)  
+Progressed: 31,884 (Ranked 124)  
 Completed: 69 (0.22%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,16 +284,16 @@ Completed: 69 (0.22%) (Ranked 254)
 | 2023-11-30 | 31,775 | 69 |
 | 2023-12-01 | 31,812 | 69 |
 | 2023-12-02 | 31,846 | 69 |
-| 2023-12-03 | 31,876 | 69 |
+| 2023-12-03 | 31,884 | 69 |
 ## Awards
-Max (Great for Beginners): 319  (Ranked 251)  
-Sum: 2,871 (Ranked 178)  
+Max (Great for Beginners): 320  (Ranked 251)  
+Sum: 2,873 (Ranked 178)  
 Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 319 |
+| This game is Great for Beginners | 320 |
 | This game is Great for Quick Sessions | 313 |
-| This game has Diverse Characters | 300 |
+| This game has Diverse Characters | 301 |
 | This game is Highly Recommended | 287 |
 | This game has Amazing Storytelling | 284 |
 | This game has Competitive Players | 281 |
@@ -534,3 +534,4 @@ Diff (max vs sum): 73
 | 2023-11-30 | 4.50 | 319 | 2,865 |
 | 2023-12-01 | 4.51 | 319 | 2,869 |
 | 2023-12-02 | 4.50 | 319 | 2,871 |
+| 2023-12-03 | 4.50 | 320 | 2,873 |

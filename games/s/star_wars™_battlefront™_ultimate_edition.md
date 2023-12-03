@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~1,398 |
-| Off to a good start | 67.00% | ~1,041 |
-| Do... or do not. There is no try | 50.00% | ~776 |
-| A good blaster at your side | 31.00% | ~481 |
-| I suggest a new strategy | 19.00% | ~295 |
-| Scrap collector | 18.00% | ~280 |
-| All right, I'll give it a try | 17.00% | ~264 |
-| Great shot, kid! | 17.00% | ~264 |
-| The power of the Force | 14.00% | ~217 |
-| Collector | 14.00% | ~217 |
-| Together we can rule the galaxy | 14.00% | ~217 |
-| Shoot first | 14.00% | ~217 |
-| Tell Jabba that I've got his money | 10.00% | ~155 |
-| Survivor | 10.00% | ~155 |
+| New Recruit | 90.00% | ~1,403 |
+| Off to a good start | 67.00% | ~1,045 |
+| Do... or do not. There is no try | 50.00% | ~780 |
+| A good blaster at your side | 31.00% | ~483 |
+| I suggest a new strategy | 19.00% | ~296 |
+| Scrap collector | 18.00% | ~281 |
+| All right, I'll give it a try | 17.00% | ~265 |
+| Great shot, kid! | 17.00% | ~265 |
+| The power of the Force | 14.00% | ~218 |
+| Collector | 14.00% | ~218 |
+| Together we can rule the galaxy | 14.00% | ~218 |
+| Shoot first | 14.00% | ~218 |
+| Tell Jabba that I've got his money | 10.00% | ~156 |
+| Survivor | 10.00% | ~156 |
 | Best star-pilot in the galaxy | 9.00% | ~140 |
-| Never tell me the odds! | 8.00% | ~124 |
-| A cunning warrior | 8.00% | ~124 |
+| Never tell me the odds! | 8.00% | ~125 |
+| A cunning warrior | 8.00% | ~125 |
 | What's the cargo? | 7.00% | ~109 |
-| Impressive. Most impressive. | 6.00% | ~93 |
-| Judge me by my size, do you? | 6.00% | ~93 |
-| Support the troops | 6.00% | ~93 |
-| "Gonk? Gonk!" | 5.00% | ~78 |
+| "Gonk? Gonk!" | 6.00% | ~94 |
+| Impressive. Most impressive. | 6.00% | ~94 |
+| Judge me by my size, do you? | 6.00% | ~94 |
+| Support the troops | 6.00% | ~94 |
 | Distinguished | 5.00% | ~78 |
 | A tremor in the Force | 5.00% | ~78 |
 | On the ball | 4.00% | ~62 |
@@ -58,8 +58,8 @@
 | No such thing as luck | 0.80% | ~12 |
 | Do we take prisoners? | 0.80% | ~12 |
 | I’ll take that bet | 0.60% | ~9 |
-| Stay on target | 0.50% | ~8 |
-| Greed can be a very powerful ally | 0.50% | ~8 |
+| Stay on target | 0.40% | ~6 |
+| Greed can be a very powerful ally | 0.40% | ~6 |
 | That got him! | 0.30% | ~5 |
 | in a galaxy far, far away.... | 0.30% | ~5 |
 | Don't get cocky | 0.30% | ~5 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,553 (Ranked 240)  
+Progressed: 1,559 (Ranked 240)  
 Completed: 1 (0.06%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 1 (0.06%) (Ranked 310)
 | 2023-11-30 | 1,494 | 1 |
 | 2023-12-01 | 1,502 | 1 |
 | 2023-12-02 | 1,519 | 1 |
-| 2023-12-03 | 1,553 | 1 |
+| 2023-12-03 | 1,559 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

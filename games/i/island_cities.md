@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 96.00% | ~795 |
-| A tiny town | 87.00% | ~720 |
-| Buildings, roads, cars, ...and people | 66.00% | ~546 |
-| Great view from the beach and from the hill | 57.00% | ~472 |
+| Welcome! | 97.00% | ~804 |
+| A tiny town | 87.00% | ~721 |
+| Buildings, roads, cars, ...and people | 66.00% | ~547 |
+| Great view from the beach and from the hill | 57.00% | ~473 |
 | Bridges to come and go | 50.00% | ~414 |
 | Found an oasis | 43.00% | ~356 |
-| Burger or pizza? | 37.00% | ~306 |
-| Passion for sports | 33.00% | ~273 |
-| Who loves trains? | 30.00% | ~248 |
+| Burger or pizza? | 37.00% | ~307 |
+| Passion for sports | 33.00% | ~274 |
+| Who loves trains? | 30.00% | ~249 |
 | Easy and steady climb | 28.00% | ~232 |
-| At the heart of the city | 26.00% | ~215 |
+| At the heart of the city | 26.00% | ~216 |
 | Calm neighborhood | 24.00% | ~199 |
-| Elevated ring | 23.00% | ~190 |
+| Elevated ring | 23.00% | ~191 |
 | Not lonely anymore | 21.00% | ~174 |
 | Monumental tribute | 21.00% | ~174 |
-| The beach is right there | 19.00% | ~157 |
+| The beach is right there | 19.00% | ~158 |
 | Commuting | 18.00% | ~149 |
 | Le jardin magnifique | 18.00% | ~149 |
 | Aiming for a living and human city | 17.00% | ~141 |
 | City of dreams | 17.00% | ~141 |
-| Happy Christmas night! | 16.00% | ~132 |
-| Night walk along the beach | 16.00% | ~132 |
+| Happy Christmas night! | 16.00% | ~133 |
+| Night walk along the beach | 16.00% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 828 (Ranked 277)  
-Completed: 135 (16.30%) (Ranked 28)  
+Progressed: 829 (Ranked 277)  
+Completed: 135 (16.28%) (Ranked 28)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -198,7 +198,7 @@ Completed: 135 (16.30%) (Ranked 28)
 | 2023-11-30 | 814 | 133 |
 | 2023-12-01 | 821 | 135 |
 | 2023-12-02 | 825 | 135 |
-| 2023-12-03 | 828 | 135 |
+| 2023-12-03 | 829 | 135 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

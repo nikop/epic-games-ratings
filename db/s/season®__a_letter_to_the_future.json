@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1318,
+  "EOS_Progressed": 1319,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.48,
+  "EOS_Completed_Percentage": 4.47,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -2739,6 +2739,11 @@
       "Time": "2023-12-02T14:09:13.1430761+00:00",
       "NumProgressed": 1318,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-12-03T18:09:11.1649795+00:00",
+      "NumProgressed": 1319,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 16,
@@ -2758,7 +2763,7 @@
       "Name": "Deep Listener",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -2806,7 +2811,7 @@
       "Name": "Home Leaver",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -2814,7 +2819,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -2838,7 +2843,7 @@
       "Name": "Outside World Seer",
       "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -2860,9 +2865,9 @@
       "ID": "ACH_THEEND",
       "SetID": "7pam6gn",
       "Name": "The End",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 185
+      "UsersEstimate": 171
     },
     {
       "ID": "ACH_TOURDETIENG",
@@ -2877,7 +2882,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1318,
+      "Progressed": 1319,
       "Completed": 59
     }
   ],
@@ -2885,8 +2890,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-03T17:09:17.5157546+00:00",
+  "LastChanged_Achievements": "2023-12-03T18:09:11.1649794+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:07.8879724+00:00",
-  "LastUpdate_Ratings": "2023-12-03T16:59:57.3623118+00:00",
-  "LastUpdate_Achievements": "2023-12-03T17:09:17.5157808+00:00"
+  "LastUpdate_Ratings": "2023-12-03T17:59:25.5790897+00:00",
+  "LastUpdate_Achievements": "2023-12-03T18:09:11.1650007+00:00"
 }

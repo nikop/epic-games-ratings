@@ -3,11 +3,11 @@
   "Name": "Circus Electrique",
   "ProductSlug": "circus-electrique",
   "Ranking_Rating": 944,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 557,
+  "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 490,
+  "Ranking_EOS_NewPlayers": 488,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -925,8 +925,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-12-03T17:05:52.0675759+00:00",
+  "LastChanged_Achievements": "2023-12-03T18:05:17.6060604+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:12.7175339+00:00",
-  "LastUpdate_Ratings": "2023-12-03T17:00:06.0974938+00:00",
-  "LastUpdate_Achievements": "2023-12-03T17:05:52.0676195+00:00"
+  "LastUpdate_Ratings": "2023-12-03T17:59:33.605797+00:00",
+  "LastUpdate_Achievements": "2023-12-03T18:05:17.6061013+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "EA SPORTS\u2122 WRC",
   "ProductSlug": "wrc-23",
   "Ranking_Rating": 871,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 557,
+  "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -91,9 +91,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 731,
+  "EOS_Progressed": 734,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1726,6 +1726,11 @@
       "Time": "2023-12-03T17:09:35.246027+00:00",
       "NumProgressed": 731,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T18:09:26.5664834+00:00",
+      "NumProgressed": 734,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1746,7 +1751,7 @@
       "Name": "Asphalt Artist",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "achievement_11",
@@ -1754,15 +1759,15 @@
       "Name": "Gravel Guru",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "achievement_12",
       "SetID": "jnappp",
       "Name": "Snow Specialist",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 37
+      "UsersEstimate": 44
     },
     {
       "ID": "achievement_13",
@@ -1778,7 +1783,7 @@
       "Name": "Vehicle Builder",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "achievement_15",
@@ -1802,7 +1807,7 @@
       "Name": "Your first time?",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 380
+      "UsersEstimate": 382
     },
     {
       "ID": "achievement_18",
@@ -1826,7 +1831,7 @@
       "Name": "Team Principal",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 563
+      "UsersEstimate": 565
     },
     {
       "ID": "achievement_20",
@@ -1922,7 +1927,7 @@
       "Name": "NEW PB!",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "achievement_8",
@@ -1945,7 +1950,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 731,
+      "Progressed": 734,
       "Completed": 0
     }
   ],
@@ -1953,8 +1958,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-12-03T05:58:27.7865112+00:00",
-  "LastChanged_Achievements": "2023-12-03T17:09:35.2460264+00:00",
+  "LastChanged_Achievements": "2023-12-03T18:09:26.5664832+00:00",
   "LastUpdate_AppInfo": "2023-11-28T21:56:52.2952246+00:00",
-  "LastUpdate_Ratings": "2023-12-03T16:59:12.619415+00:00",
-  "LastUpdate_Achievements": "2023-12-03T17:09:35.2460513+00:00"
+  "LastUpdate_Ratings": "2023-12-03T17:58:47.9442015+00:00",
+  "LastUpdate_Achievements": "2023-12-03T18:09:26.5665067+00:00"
 }

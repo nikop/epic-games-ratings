@@ -3,11 +3,11 @@
   "Name": "Airborne Kingdom",
   "ProductSlug": "airborne-kingdom",
   "Ranking_Rating": 312,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 557,
+  "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7569,
+  "EOS_Progressed": 7570,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -6048,6 +6048,11 @@
       "Time": "2023-12-03T17:03:54.7456611+00:00",
       "NumProgressed": 7569,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-03T18:03:34.408015+00:00",
+      "NumProgressed": 7570,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -6075,7 +6080,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3103
+      "UsersEstimate": 3104
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -6155,7 +6160,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2119
+      "UsersEstimate": 2120
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -6195,7 +6200,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3103
+      "UsersEstimate": 3104
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -6203,7 +6208,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3103
+      "UsersEstimate": 3104
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -6227,7 +6232,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2573
+      "UsersEstimate": 2574
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -6274,15 +6279,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7569,
+      "Progressed": 7570,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-12-03T17:03:54.7456607+00:00",
+  "LastChanged_Achievements": "2023-12-03T18:03:34.4080147+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:34.8326286+00:00",
-  "LastUpdate_Ratings": "2023-12-03T17:02:50.1500771+00:00",
-  "LastUpdate_Achievements": "2023-12-03T17:03:54.7457002+00:00"
+  "LastUpdate_Ratings": "2023-12-03T18:02:54.0760713+00:00",
+  "LastUpdate_Achievements": "2023-12-03T18:03:34.408061+00:00"
 }

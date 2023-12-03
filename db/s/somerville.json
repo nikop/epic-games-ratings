@@ -3,8 +3,8 @@
   "Name": "Somerville",
   "ProductSlug": "somerville-229529",
   "Ranking_Rating": 904,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 557,
+  "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 350,
@@ -794,17 +794,17 @@
       "ID": "SomervilleResignation",
       "SetID": "3mk3nll",
       "Name": "Resignation",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "SomervilleResignationReprise",
       "SetID": "3mk3nll",
       "Name": "Resignation Reprise",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 33
     },
     {
       "ID": "SomervilleStuckOnTheJohn",
@@ -859,8 +859,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-10-28T10:01:15.5603382+00:00",
-  "LastChanged_Achievements": "2023-12-03T17:08:15.5829197+00:00",
+  "LastChanged_Achievements": "2023-12-03T18:08:34.4989476+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:25.090697+00:00",
-  "LastUpdate_Ratings": "2023-12-03T16:59:32.3237903+00:00",
-  "LastUpdate_Achievements": "2023-12-03T17:08:15.5829324+00:00"
+  "LastUpdate_Ratings": "2023-12-03T17:59:04.5655352+00:00",
+  "LastUpdate_Achievements": "2023-12-03T18:08:34.4989594+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "aa598567414d42378187b8861da550f7",
   "Name": "Remnant 2",
   "ProductSlug": "remnant-2",
-  "Ranking_Rating": 149,
+  "Ranking_Rating": 148,
   "Ranking_Popularity": 102,
   "Ranking_PopularitySum": 128,
   "Ranking_EOS_Progress": 68,
@@ -5115,9 +5115,9 @@
       "Count": 396
     }
   ],
-  "EOS_Progressed": 233899,
+  "EOS_Progressed": 233958,
   "EOS_Completed": 551,
-  "EOS_NewPlayers": 5070,
+  "EOS_NewPlayers": 5090,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -21195,6 +21195,11 @@
       "Time": "2023-12-03T17:08:29.8928843+00:00",
       "NumProgressed": 233899,
       "NumCompleted": 551
+    },
+    {
+      "Time": "2023-12-03T18:08:47.0914227+00:00",
+      "NumProgressed": 233958,
+      "NumCompleted": 551
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21207,7 +21212,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -21221,9 +21226,9 @@
       "ID": "Defeat_Abberations_A",
       "SetID": "bkp3b1a",
       "Name": "Am I Seeing This?",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 702
+      "UsersEstimate": 936
     },
     {
       "ID": "Defeat_Abberations_B",
@@ -21287,7 +21292,7 @@
       "Name": "The Killing Jar",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -21327,7 +21332,7 @@
       "Name": "Quest for Survival",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -21381,9 +21386,9 @@
       "ID": "Meet_Nimue",
       "SetID": "bkp3b1a",
       "Name": "Blue Goddess",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 702
+      "UsersEstimate": 936
     },
     {
       "ID": "Obtain_Archetype",
@@ -21391,7 +21396,7 @@
       "Name": "First of Many",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -21511,7 +21516,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "Obtain_Traits_B",
@@ -21565,9 +21570,9 @@
       "ID": "Upgrade_Standard_Weapon_A",
       "SetID": "bkp3b1a",
       "Name": "Good, But Could Be Better!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 702
+      "UsersEstimate": 936
     },
     {
       "ID": "Upgrade_Standard_Weapon_B",
@@ -21607,7 +21612,7 @@
       "Name": "Regicide",
       "Percentage": 0.7,
       "XP": 75,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -21623,7 +21628,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -21646,13 +21651,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 233899,
+      "Progressed": 233958,
       "Completed": 551
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 13064,
+      "Progressed": 13123,
       "Completed": 186
     }
   ],
@@ -21660,8 +21665,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-03T17:02:55.1057954+00:00",
-  "LastChanged_Achievements": "2023-12-03T17:08:29.892884+00:00",
+  "LastChanged_Achievements": "2023-12-03T18:08:47.0914223+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-03T17:02:55.1057961+00:00",
-  "LastUpdate_Achievements": "2023-12-03T17:08:29.8930305+00:00"
+  "LastUpdate_Ratings": "2023-12-03T18:02:58.5520065+00:00",
+  "LastUpdate_Achievements": "2023-12-03T18:08:47.0915497+00:00"
 }

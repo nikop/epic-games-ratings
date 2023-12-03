@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 17,
   "Ranking_EOS_Progress": 774,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 490,
+  "Ranking_EOS_NewPlayers": 488,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-01-16T08:00:00+00:00",
@@ -14564,10 +14564,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 98333,
       "NumberOfAwardsMax": 12521
+    },
+    {
+      "Time": "2023-12-03T17:59:31.968694+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 98352,
+      "NumberOfAwardsMax": 12521
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 98333,
+  "NumberOfAwards": 98352,
   "NumberOfAwardsMax": 12521,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -14581,7 +14587,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 10377
+      "Count": 10385
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -14605,7 +14611,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 9802
+      "Count": 9810
     },
     {
       "Text": "This game is Highly Recommended",
@@ -14629,7 +14635,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 6499
+      "Count": 6502
     },
     {
       "Text": "This game has a Competitive Community",
@@ -14649,8 +14655,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2023-12-03T15:59:37.7364894+00:00",
+  "LastChanged": "2023-12-03T17:59:31.9686938+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:11.9604335+00:00",
-  "LastUpdate_Ratings": "2023-12-03T17:00:04.4661317+00:00",
-  "LastUpdate_Achievements": "2023-12-03T17:05:08.9230356+00:00"
+  "LastUpdate_Ratings": "2023-12-03T17:59:31.9686944+00:00",
+  "LastUpdate_Achievements": "2023-12-03T18:04:38.9835861+00:00"
 }

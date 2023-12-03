@@ -4,7 +4,7 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -885,9 +885,9 @@
       "ID": "ACH_UNLOCK_ALL_CHARACTER",
       "SetID": "8h8m55b",
       "Name": "We are all friends",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_UNLOCK_ALL_DRINK",
@@ -964,8 +964,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-12-03T17:07:00.513126+00:00",
+  "LastChanged_Achievements": "2023-12-03T18:06:17.1627883+00:00",
   "LastUpdate_AppInfo": "2023-11-28T18:57:07.4987948+00:00",
-  "LastUpdate_Ratings": "2023-12-03T16:58:35.5539796+00:00",
-  "LastUpdate_Achievements": "2023-12-03T17:07:00.5131604+00:00"
+  "LastUpdate_Ratings": "2023-12-03T17:58:16.3463698+00:00",
+  "LastUpdate_Achievements": "2023-12-03T18:06:17.1628271+00:00"
 }

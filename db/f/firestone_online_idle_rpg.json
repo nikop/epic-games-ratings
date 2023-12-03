@@ -3,7 +3,7 @@
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 998,
-  "Ranking_Popularity": 474,
+  "Ranking_Popularity": 473,
   "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 306,
@@ -565,7 +565,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2999,
+  "EOS_Progressed": 3000,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 277,
   "EOS_NewCompleters": 0,
@@ -8745,6 +8745,11 @@
       "Time": "2023-12-03T17:09:10.6409187+00:00",
       "NumProgressed": 2999,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-03T18:09:04.9574499+00:00",
+      "NumProgressed": 3000,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -9148,7 +9153,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "prestigiousx10",
@@ -9212,7 +9217,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1710
     },
     {
       "ID": "thealchemist",
@@ -9316,7 +9321,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2789
+      "UsersEstimate": 2790
     },
     {
       "ID": "warmachinesarmy",
@@ -9348,14 +9353,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2339
+      "UsersEstimate": 2340
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2999,
+      "Progressed": 3000,
       "Completed": 2
     }
   ],
@@ -9363,8 +9368,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-03T04:59:05.4755742+00:00",
-  "LastChanged_Achievements": "2023-12-03T17:09:10.6409183+00:00",
+  "LastChanged_Achievements": "2023-12-03T18:09:04.9574496+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:05.1164011+00:00",
-  "LastUpdate_Ratings": "2023-12-03T16:59:51.429528+00:00",
-  "LastUpdate_Achievements": "2023-12-03T17:09:10.6410003+00:00"
+  "LastUpdate_Ratings": "2023-12-03T17:59:20.6074065+00:00",
+  "LastUpdate_Achievements": "2023-12-03T18:09:04.9575608+00:00"
 }

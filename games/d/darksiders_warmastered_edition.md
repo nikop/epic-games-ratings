@@ -1,11 +1,11 @@
 # Darksiders Warmastered Edition
 [Store](https://store.epicgames.com/en-US/p/darksiders)  
 [View Rawdata](../../db/d/darksiders_warmastered_edition.json)  
-Rating: 4.60 (Ranked 423)  
+Rating: 4.60 (Ranked 422)  
 Number of Ratings: 721  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 79  (Ranked 393)  
-Sum: 79 (Ranked 466)  
+Max (Great Boss Battles): 79  (Ranked 392)  
+Sum: 79 (Ranked 465)  
 Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |

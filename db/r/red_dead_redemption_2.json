@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 7,
   "Ranking_EOS_Progress": 774,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 490,
+  "Ranking_EOS_NewPlayers": 488,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2019-11-05T13:00:00+00:00",
@@ -17549,10 +17549,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 535088,
       "NumberOfAwardsMax": 204778
+    },
+    {
+      "Time": "2023-12-03T17:58:40.3604419+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 535243,
+      "NumberOfAwardsMax": 204778
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 535088,
+  "NumberOfAwards": 535243,
   "NumberOfAwardsMax": 204778,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -17572,7 +17578,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 21998
+      "Count": 22080
     },
     {
       "Text": "This game has Amazing Characters",
@@ -17632,7 +17638,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 21164
+      "Count": 21237
     },
     {
       "Text": "This game has a Creative Community",
@@ -17652,8 +17658,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-12-03T15:58:47.3711371+00:00",
+  "LastChanged": "2023-12-03T17:58:40.3604417+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:41.9159666+00:00",
-  "LastUpdate_Ratings": "2023-12-03T16:59:04.1869033+00:00",
-  "LastUpdate_Achievements": "2023-12-03T17:07:47.2000006+00:00"
+  "LastUpdate_Ratings": "2023-12-03T17:58:40.3604423+00:00",
+  "LastUpdate_Achievements": "2023-12-03T18:07:40.5304975+00:00"
 }

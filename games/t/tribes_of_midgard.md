@@ -1,11 +1,11 @@
 # Tribes of Midgard
 [Store](https://store.epicgames.com/en-US/p/tribes-of-midgard)  
 [View Rawdata](../../db/t/tribes_of_midgard.json)  
-Rating: 4.55 (Ranked 508)  
+Rating: 4.55 (Ranked 509)  
 Number of Ratings: 120  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 82  (Ranked 391)  
-Sum: 82 (Ranked 464)  
+Max (Great Boss Battles): 82  (Ranked 390)  
+Sum: 82 (Ranked 463)  
 Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |

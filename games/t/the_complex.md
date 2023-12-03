@@ -14,7 +14,7 @@
 | Falling For You | 44.00% | ~288 |
 | Trust Me For Once | 28.00% | ~183 |
 | Lab Rat | 25.00% | ~164 |
-| Stalemate | 20.00% | ~131 |
+| Stalemate | 21.00% | ~138 |
 | Kindar Surprise | 18.00% | ~118 |
 | MVP - Most Vanishing Person | 14.00% | ~92 |
 | Deadly Secret | 13.00% | ~85 |

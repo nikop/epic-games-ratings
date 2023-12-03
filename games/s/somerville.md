@@ -5,13 +5,13 @@ Rating: 4.22 (Ranked 904)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Resignation Reprise | 2.00% | ~33 |
 | “Occupied!“ | 2.00% | ~33 |
 | Worlds best dad | 2.00% | ~33 |
-| Resignation Reprise | 1.00% | ~17 |
 | Admiring the view | 1.00% | ~17 |
 | War of the worlds | 0.80% | ~13 |
+| Resignation | 0.70% | ~12 |
 | Blues Jam | 0.60% | ~10 |
-| Resignation | 0.60% | ~10 |
 | Understanding | 0.60% | ~10 |
 | Family First | 0.50% | ~8 |
 | “Here boy…“ | 0.50% | ~8 |

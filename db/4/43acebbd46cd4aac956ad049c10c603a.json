@@ -3,11 +3,11 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 24,
-  "Ranking_Popularity": 452,
-  "Ranking_PopularitySum": 496,
-  "Ranking_EOS_Progress": 272,
+  "Ranking_Popularity": 451,
+  "Ranking_PopularitySum": 495,
+  "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -181,9 +181,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 852,
+  "EOS_Progressed": 854,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1991,6 +1991,11 @@
       "Time": "2023-12-03T17:04:59.556388+00:00",
       "NumProgressed": 852,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T18:04:30.7625508+00:00",
+      "NumProgressed": 854,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2169,9 +2174,9 @@
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 60
     },
     {
       "ID": "JustOneLap",
@@ -2209,9 +2214,9 @@
       "ID": "Mnemosyne",
       "SetID": "1n308hc",
       "Name": "Mnemosyne",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MuseumExplorer",
@@ -2289,9 +2294,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 94
     },
     {
       "ID": "RenaissanceRobot",
@@ -2474,7 +2479,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 852,
+      "Progressed": 854,
       "Completed": 1
     }
   ],
@@ -2482,8 +2487,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-03T13:00:54.7758323+00:00",
-  "LastChanged_Achievements": "2023-12-03T17:04:59.5563877+00:00",
+  "LastChanged_Achievements": "2023-12-03T18:04:30.7625505+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-03T16:57:47.6246762+00:00",
-  "LastUpdate_Achievements": "2023-12-03T17:04:59.5564339+00:00"
+  "LastUpdate_Ratings": "2023-12-03T17:57:35.121772+00:00",
+  "LastUpdate_Achievements": "2023-12-03T18:04:30.7626047+00:00"
 }

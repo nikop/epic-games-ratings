@@ -4,10 +4,10 @@
   "ProductSlug": "neon-abyss",
   "Ranking_Rating": 255,
   "Ranking_Popularity": 185,
-  "Ranking_PopularitySum": 133,
+  "Ranking_PopularitySum": 132,
   "Ranking_EOS_Progress": 774,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 490,
+  "Ranking_EOS_NewPlayers": 488,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-07-29T15:00:00+00:00",
@@ -4161,18 +4161,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 5551,
       "NumberOfAwardsMax": 713
+    },
+    {
+      "Time": "2023-12-03T18:00:15.4563902+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 5554,
+      "NumberOfAwardsMax": 714
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5551,
-  "NumberOfAwardsMax": 713,
+  "NumberOfAwards": 5554,
+  "NumberOfAwardsMax": 714,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 713
+      "Count": 714
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4220,13 +4226,13 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 498
+      "Count": 499
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 334
+      "Count": 335
     }
   ],
   "EOS_Progressed": 0,
@@ -4240,8 +4246,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:56.8709558+00:00",
-  "LastChanged": "2023-12-03T15:02:28.5003142+00:00",
+  "LastChanged": "2023-12-03T18:00:15.45639+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:27.9973133+00:00",
-  "LastUpdate_Ratings": "2023-12-03T17:02:16.6120363+00:00",
-  "LastUpdate_Achievements": "2023-12-03T17:06:36.6999459+00:00"
+  "LastUpdate_Ratings": "2023-12-03T18:00:15.4563905+00:00",
+  "LastUpdate_Achievements": "2023-12-03T18:05:56.4271813+00:00"
 }

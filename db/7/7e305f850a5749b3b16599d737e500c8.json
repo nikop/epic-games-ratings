@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 9,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2022-09-30T08:00:00+00:00",
@@ -1211,9 +1211,9 @@
       "ID": "Dreamkeeper",
       "SetID": "b7i210",
       "Name": "Dreamkeeper",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 113
     },
     {
       "ID": "Dust_fighter",
@@ -1251,9 +1251,9 @@
       "ID": "Fixer",
       "SetID": "b7i210",
       "Name": "Fixer",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 122
     },
     {
       "ID": "Florist",
@@ -1354,8 +1354,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-12-03T17:04:52.9777498+00:00",
+  "LastChanged_Achievements": "2023-12-03T18:04:24.8393996+00:00",
   "LastUpdate_AppInfo": "2023-11-28T06:57:03.7256389+00:00",
-  "LastUpdate_Ratings": "2023-12-03T16:57:38.6566128+00:00",
-  "LastUpdate_Achievements": "2023-12-03T17:04:52.9777638+00:00"
+  "LastUpdate_Ratings": "2023-12-03T17:57:27.6744019+00:00",
+  "LastUpdate_Achievements": "2023-12-03T18:04:24.8394186+00:00"
 }

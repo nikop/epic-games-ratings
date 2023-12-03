@@ -1,10 +1,10 @@
 # Alba - A Wildlife Adventure
 [Store](https://store.epicgames.com/en-US/p/alba-a-wildlife-adventure-93736a)  
 [View Rawdata](../../db/a/alba_-_a_wildlife_adventure.json)  
-Rating: 4.63 (Ranked 352)  
+Rating: 4.63 (Ranked 351)  
 ## Awards
-Max (Extremely Fun): 21  (Ranked 547)  
-Sum: 21 (Ranked 549)  
+Max (Extremely Fun): 21  (Ranked 546)  
+Sum: 21 (Ranked 548)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |

@@ -26,32 +26,32 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 4.00% | ~625 |
 | Oracle | 4.00% | ~625 |
 | Judaism | 4.00% | ~625 |
+| Greek Paganism | 4.00% | ~625 |
 | Naming Landmarks | 4.00% | ~625 |
 | Trade Caravan | 4.00% | ~625 |
-| Ambitious | 3.00% | ~468 |
-| Drillmaster | 3.00% | ~468 |
-| Brilliant | 3.00% | ~468 |
-| Enlightened | 3.00% | ~468 |
-| Fountainhead | 3.00% | ~468 |
-| Magnificent | 3.00% | ~468 |
-| Wise | 3.00% | ~468 |
-| Developing Cities | 3.00% | ~468 |
-| Strong Cities | 3.00% | ~468 |
-| Able Difficulty | 3.00% | ~468 |
-| Furious Family | 3.00% | ~468 |
-| Great Ziggurat | 3.00% | ~468 |
-| Ishtar Gate | 3.00% | ~468 |
-| Lighthouse | 3.00% | ~468 |
-| Pyramids | 3.00% | ~468 |
-| Learn to Play 1 | 3.00% | ~468 |
-| Learn to Play 2 | 3.00% | ~468 |
-| Christianity | 3.00% | ~468 |
-| Babylonian Paganism | 3.00% | ~468 |
-| Carthaginian Paganism | 3.00% | ~468 |
-| Egyptian Paganism | 3.00% | ~468 |
-| Greek Paganism | 3.00% | ~468 |
-| Roman Paganism | 3.00% | ~468 |
-| Zoroastrianism | 3.00% | ~468 |
+| Ambitious | 3.00% | ~469 |
+| Drillmaster | 3.00% | ~469 |
+| Brilliant | 3.00% | ~469 |
+| Enlightened | 3.00% | ~469 |
+| Fountainhead | 3.00% | ~469 |
+| Magnificent | 3.00% | ~469 |
+| Wise | 3.00% | ~469 |
+| Developing Cities | 3.00% | ~469 |
+| Strong Cities | 3.00% | ~469 |
+| Able Difficulty | 3.00% | ~469 |
+| Furious Family | 3.00% | ~469 |
+| Great Ziggurat | 3.00% | ~469 |
+| Ishtar Gate | 3.00% | ~469 |
+| Lighthouse | 3.00% | ~469 |
+| Pyramids | 3.00% | ~469 |
+| Learn to Play 1 | 3.00% | ~469 |
+| Learn to Play 2 | 3.00% | ~469 |
+| Christianity | 3.00% | ~469 |
+| Babylonian Paganism | 3.00% | ~469 |
+| Carthaginian Paganism | 3.00% | ~469 |
+| Egyptian Paganism | 3.00% | ~469 |
+| Roman Paganism | 3.00% | ~469 |
+| Zoroastrianism | 3.00% | ~469 |
 | Regicide | 2.00% | ~312 |
 | Hanging Gardens in Babylon | 2.00% | ~312 |
 | Beloved | 2.00% | ~312 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,616 (Ranked 152)  
+Progressed: 15,617 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -576,7 +576,7 @@ Completed: 5 (0.03%) (Ranked 328)
 | 2023-11-30 | 15,566 | 5 |
 | 2023-12-01 | 15,583 | 5 |
 | 2023-12-02 | 15,604 | 5 |
-| 2023-12-03 | 15,616 | 5 |
+| 2023-12-03 | 15,617 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,885 (Ranked 220)  

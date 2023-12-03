@@ -1264,10 +1264,16 @@
       "Rating": 4.21,
       "NumberOfAwards": 798,
       "NumberOfAwardsMax": 127
+    },
+    {
+      "Time": "2023-12-03T18:00:24.3998171+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 801,
+      "NumberOfAwardsMax": 127
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 798,
+  "NumberOfAwards": 801,
   "NumberOfAwardsMax": 127,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1275,7 +1281,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 110
+      "Count": 112
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1299,7 +1305,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 85
+      "Count": 86
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1326,9 +1332,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 29641,
+  "EOS_Progressed": 29645,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 449,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -25706,6 +25712,11 @@
       "Time": "2023-12-03T17:09:15.3717157+00:00",
       "NumProgressed": 29641,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-12-03T18:09:09.1677124+00:00",
+      "NumProgressed": 29645,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 22,
@@ -25725,7 +25736,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1779
     },
     {
       "ID": "1017",
@@ -25733,7 +25744,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1779
     },
     {
       "ID": "1018",
@@ -25773,7 +25784,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1779
     },
     {
       "ID": "1023",
@@ -25789,7 +25800,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2371
+      "UsersEstimate": 2372
     },
     {
       "ID": "1025",
@@ -25821,7 +25832,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5335
+      "UsersEstimate": 5336
     },
     {
       "ID": "1029",
@@ -25829,7 +25840,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2371
+      "UsersEstimate": 2372
     },
     {
       "ID": "1030",
@@ -25837,7 +25848,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5928
+      "UsersEstimate": 5929
     },
     {
       "ID": "1031",
@@ -25853,7 +25864,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11856
+      "UsersEstimate": 11858
     },
     {
       "ID": "1033",
@@ -25877,7 +25888,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3853
+      "UsersEstimate": 3854
     },
     {
       "ID": "1036",
@@ -25885,22 +25896,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2371
+      "UsersEstimate": 2372
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 29641,
+      "Progressed": 29645,
       "Completed": 81
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
-  "LastChanged": "2023-11-24T16:03:24.7183261+00:00",
-  "LastChanged_Achievements": "2023-12-03T17:09:15.3717152+00:00",
+  "LastChanged": "2023-12-03T18:00:24.3998169+00:00",
+  "LastChanged_Achievements": "2023-12-03T18:09:09.1677122+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:12.8181889+00:00",
-  "LastUpdate_Ratings": "2023-12-03T17:02:27.1816883+00:00",
-  "LastUpdate_Achievements": "2023-12-03T17:09:15.3718787+00:00"
+  "LastUpdate_Ratings": "2023-12-03T18:00:24.3998174+00:00",
+  "LastUpdate_Achievements": "2023-12-03T18:09:09.1679015+00:00"
 }

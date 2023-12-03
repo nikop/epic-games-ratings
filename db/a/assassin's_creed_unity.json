@@ -4,10 +4,10 @@
   "ProductSlug": "assassins-creed-unity",
   "Ranking_Rating": 368,
   "Ranking_Popularity": 162,
-  "Ranking_PopularitySum": 254,
+  "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 774,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 490,
+  "Ranking_EOS_NewPlayers": 488,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2014-11-11T16:00:00+00:00",
@@ -2182,10 +2182,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 1142,
       "NumberOfAwardsMax": 897
+    },
+    {
+      "Time": "2023-12-03T17:59:36.4241801+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1143,
+      "NumberOfAwardsMax": 897
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1142,
+  "NumberOfAwards": 1143,
   "NumberOfAwardsMax": 897,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2247,7 +2253,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game is Relaxing",
@@ -2273,8 +2279,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:14.6538569+00:00",
-  "LastChanged": "2023-12-03T13:59:23.924764+00:00",
+  "LastChanged": "2023-12-03T17:59:36.4241799+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:14.9334045+00:00",
-  "LastUpdate_Ratings": "2023-12-03T17:00:09.5062729+00:00",
-  "LastUpdate_Achievements": "2023-12-03T17:06:06.5625245+00:00"
+  "LastUpdate_Ratings": "2023-12-03T17:59:36.4241804+00:00",
+  "LastUpdate_Achievements": "2023-12-03T18:05:30.3104594+00:00"
 }

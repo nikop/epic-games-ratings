@@ -1,21 +1,21 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.07 (Ranked 980)  
+Rating: 4.07 (Ranked 979)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 92.00% | ~296 |
-| Battlefields Have Memories | 88.00% | ~283 |
-| Enlisted | 85.00% | ~274 |
-| Maybe Engage a Little | 81.00% | ~261 |
-| No More Names | 70.00% | ~225 |
-| Initiate | 57.00% | ~184 |
-| Thrada-Kul | 52.00% | ~167 |
-| Gravity-Challenged Rocks | 43.00% | ~138 |
-| Soldier | 37.00% | ~119 |
-| All the Major Food Groups | 37.00% | ~119 |
-| Beggars Would Ride | 33.00% | ~106 |
+| Unforeseen | 91.00% | ~294 |
+| Battlefields Have Memories | 88.00% | ~284 |
+| Enlisted | 85.00% | ~275 |
+| Maybe Engage a Little | 81.00% | ~262 |
+| No More Names | 70.00% | ~226 |
+| Initiate | 56.00% | ~181 |
+| Thrada-Kul | 52.00% | ~168 |
+| Gravity-Challenged Rocks | 43.00% | ~139 |
+| Soldier | 37.00% | ~120 |
+| All the Major Food Groups | 37.00% | ~120 |
+| Beggars Would Ride | 33.00% | ~107 |
 | Control is an Illusion | 31.00% | ~100 |
 | Socialite | 30.00% | ~97 |
 | The Means to Save It | 26.00% | ~84 |
@@ -28,7 +28,7 @@ Rating: 4.07 (Ranked 980)
 | Armsman | 17.00% | ~55 |
 | Lights Army | 12.00% | ~39 |
 | Good Boy | 12.00% | ~39 |
-| Periapt Cerulean | 11.00% | ~35 |
+| Periapt Cerulean | 11.00% | ~36 |
 | Periapt Viridian | 10.00% | ~32 |
 | Shroudfane Explorer | 9.00% | ~29 |
 | Best Dressed | 8.00% | ~26 |
@@ -53,7 +53,7 @@ Rating: 4.07 (Ranked 980)
 | Out of Time | 0.60% | ~2 |
 | Fowl Play | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 322 (Ranked 351)  
+Progressed: 323 (Ranked 351)  
 Completed: 1 (0.31%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,6 +123,7 @@ Completed: 1 (0.31%) (Ranked 236)
 | 2023-11-29 | 318 | 1 |
 | 2023-11-30 | 319 | 1 |
 | 2023-12-01 | 322 | 1 |
+| 2023-12-03 | 323 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

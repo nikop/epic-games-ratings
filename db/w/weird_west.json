@@ -3,11 +3,11 @@
   "Name": "Weird West: Definitive Edition",
   "ProductSlug": "weird-west-906661",
   "Ranking_Rating": 680,
-  "Ranking_Popularity": 504,
-  "Ranking_PopularitySum": 518,
+  "Ranking_Popularity": 503,
+  "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 2017,
+  "EOS_Progressed": 2018,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2831,6 +2831,11 @@
       "Time": "2023-12-03T13:08:51.8356079+00:00",
       "NumProgressed": 2017,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-03T18:04:35.7685519+00:00",
+      "NumProgressed": 2018,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2850,7 +2855,7 @@
       "Name": "Dead or Alive",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -2922,7 +2927,7 @@
       "Name": "Full House",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -2994,7 +2999,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -3090,7 +3095,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -3138,7 +3143,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -3202,7 +3207,7 @@
       "Name": "Through Their Eyes",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "ACH_TURNING_THE_TABLES",
@@ -3216,9 +3221,9 @@
       "ID": "ACH_UNFORGIVEN",
       "SetID": "8j30i9k",
       "Name": "Unforgiven",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 1775
+      "UsersEstimate": 1796
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -3265,15 +3270,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 2017,
+      "Progressed": 2018,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-11-26T10:59:42.9428977+00:00",
-  "LastChanged_Achievements": "2023-12-03T17:05:05.6266754+00:00",
+  "LastChanged_Achievements": "2023-12-03T18:04:35.7685516+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:26.6657181+00:00",
-  "LastUpdate_Ratings": "2023-12-03T17:00:29.5519315+00:00",
-  "LastUpdate_Achievements": "2023-12-03T17:05:05.6267271+00:00"
+  "LastUpdate_Ratings": "2023-12-03T17:59:53.4822325+00:00",
+  "LastUpdate_Achievements": "2023-12-03T18:04:35.768601+00:00"
 }

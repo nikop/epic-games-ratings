@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 121,
+  "EOS_Progressed": 123,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -514,6 +514,11 @@
       "Time": "2023-12-03T13:10:36.3983814+00:00",
       "NumProgressed": 121,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T18:05:51.1277044+00:00",
+      "NumProgressed": 123,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-17T13:09:54.2114838+00:00",
@@ -566,7 +571,7 @@
       "Name": "Angel",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_AVEN_UNLOCKED",
@@ -574,7 +579,7 @@
       "Name": "Together",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_BIPOLAR_ABSORBED",
@@ -590,7 +595,7 @@
       "Name": "All clean",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_DARK_PALADIN_ABSORBED",
@@ -630,15 +635,15 @@
       "Name": "Edda and Aven",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_FIRST_ABSORPTION",
       "SetID": "cagp2pi",
       "Name": "Absorption",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_LIGHTNING_NIGHTMARE_ABSORBED",
@@ -717,14 +722,14 @@
     {
       "ID": "cagp2pi",
       "IsBase": true,
-      "Progressed": 121,
+      "Progressed": 123,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-12-03T17:06:30.8207492+00:00",
+  "LastChanged_Achievements": "2023-12-03T18:05:51.1277041+00:00",
   "LastUpdate_AppInfo": "2023-12-01T13:57:00.5730741+00:00",
-  "LastUpdate_Ratings": "2023-12-03T16:58:40.9858946+00:00",
-  "LastUpdate_Achievements": "2023-12-03T17:06:30.8207679+00:00"
+  "LastUpdate_Ratings": "2023-12-03T17:58:20.8380172+00:00",
+  "LastUpdate_Achievements": "2023-12-03T18:05:51.1277226+00:00"
 }

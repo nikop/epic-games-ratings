@@ -1,11 +1,11 @@
 # Steelrising
 [Store](https://store.epicgames.com/en-US/p/steelrising)  
 [View Rawdata](../../db/s/steelrising.json)  
-Rating: 4.29 (Ranked 849)  
+Rating: 4.29 (Ranked 850)  
 Number of Ratings: 122  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 39  (Ranked 464)  
-Sum: 39 (Ranked 503)  
+Max (Great Boss Battles): 39  (Ranked 463)  
+Sum: 39 (Ranked 502)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |

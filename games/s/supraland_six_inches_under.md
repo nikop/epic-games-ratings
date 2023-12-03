@@ -1,7 +1,7 @@
 # Supraland Six Inches Under
 [Store](https://store.epicgames.com/en-US/p/supraland-six-inches-under-dd0220)  
 [View Rawdata](../../db/s/supraland_six_inches_under.json)  
-Rating: 4.77 (Ranked 113)  
+Rating: 4.77 (Ranked 112)  
 Number of Ratings: 209  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -24,8 +24,8 @@ Number of Ratings: 209  (23.09.2022)
 | Magnet Repel | 88.00% | ~2,065 |
 | You feel middle classy | 87.00% | ~2,042 |
 | Boomeraxe | 87.00% | ~2,042 |
+| Iron Pickaxe | 87.00% | ~2,042 |
 | Banking District | 86.00% | ~2,018 |
-| Iron Pickaxe | 86.00% | ~2,018 |
 | Arrested | 85.00% | ~1,995 |
 | Zappy Gun | 85.00% | ~1,995 |
 | Got your own one now | 85.00% | ~1,995 |

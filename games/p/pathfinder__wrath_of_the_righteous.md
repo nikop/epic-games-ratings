@@ -1,7 +1,7 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 129)  
+Rating: 4.76 (Ranked 128)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,19 +12,19 @@ Number of Ratings: 1,354  (23.09.2022)
 | Defender's Heart | 16.00% | ~1,957 |
 | Mythic Choices | 15.00% | ~1,834 |
 | Banner over the Citadel | 14.00% | ~1,712 |
-| Queen's Gratitude | 12.00% | ~1,467 |
+| Queen's Gratitude | 12.00% | ~1,468 |
 | Fifth Crusade | 9.00% | ~1,101 |
 | Embrace of the Abyss | 7.00% | ~856 |
 | Demonic and Divine | 7.00% | ~856 |
 | Path of the Angel | 6.00% | ~734 |
 | Great Upstart | 6.00% | ~734 |
-| Path of the Azata | 5.00% | ~611 |
-| Transformation | 5.00% | ~611 |
-| The Legacy | 5.00% | ~611 |
-| Voice from Your Dreams | 5.00% | ~611 |
-| All Paths Open | 5.00% | ~611 |
-| Next-Door Play | 5.00% | ~611 |
-| Get the Toad | 5.00% | ~611 |
+| Path of the Azata | 5.00% | ~612 |
+| Transformation | 5.00% | ~612 |
+| The Legacy | 5.00% | ~612 |
+| Voice from Your Dreams | 5.00% | ~612 |
+| All Paths Open | 5.00% | ~612 |
+| Next-Door Play | 5.00% | ~612 |
+| Get the Toad | 5.00% | ~612 |
 | Heart of the Fallen Land | 4.00% | ~489 |
 | Divide and Rule | 4.00% | ~489 |
 | Mythic Reinforcements | 4.00% | ~489 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,229 (Ranked 159)  
+Progressed: 12,230 (Ranked 159)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,7 +350,7 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-30 | 12,208 | 0 |
 | 2023-12-01 | 12,220 | 0 |
 | 2023-12-02 | 12,225 | 0 |
-| 2023-12-03 | 12,229 | 0 |
+| 2023-12-03 | 12,230 | 0 |
 ## Awards
 Max (Character Customization): 1,753  (Ranked 122)  
 Sum: 7,108 (Ranked 120)  

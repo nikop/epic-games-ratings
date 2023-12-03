@@ -452,9 +452,9 @@
       "ID": "SOS_POISON",
       "SetID": "6ci4lm2",
       "Name": "Last cup",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SOS_PRISON_BREAK",
@@ -587,8 +587,8 @@
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-12-03T17:04:20.9643881+00:00",
+  "LastChanged_Achievements": "2023-12-03T18:03:56.9546169+00:00",
   "LastUpdate_AppInfo": "2023-11-27T15:57:06.6652579+00:00",
-  "LastUpdate_Ratings": "2023-12-03T16:58:43.2026675+00:00",
-  "LastUpdate_Achievements": "2023-12-03T17:04:20.9644279+00:00"
+  "LastUpdate_Ratings": "2023-12-03T17:58:22.8185012+00:00",
+  "LastUpdate_Achievements": "2023-12-03T18:03:56.9546539+00:00"
 }

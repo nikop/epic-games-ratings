@@ -2,12 +2,12 @@
   "ID": "f774d8b9a9324124892868e7b5c71169",
   "Name": "The Riftbreaker",
   "ProductSlug": "the-riftbreaker",
-  "Ranking_Rating": 129,
-  "Ranking_Popularity": 428,
+  "Ranking_Rating": 128,
+  "Ranking_Popularity": 427,
   "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 774,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 490,
+  "Ranking_EOS_NewPlayers": 488,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-10-14T08:00:00+00:00",
@@ -1055,6 +1055,6 @@
   "FirstSeen": "2022-07-22T20:22:56.9409047+00:00",
   "LastChanged": "2023-11-30T08:59:59.914618+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:16.4970271+00:00",
-  "LastUpdate_Ratings": "2023-12-03T16:58:17.486334+00:00",
-  "LastUpdate_Achievements": "2023-12-03T17:05:36.6010248+00:00"
+  "LastUpdate_Ratings": "2023-12-03T17:58:01.0454192+00:00",
+  "LastUpdate_Achievements": "2023-12-03T18:05:03.7459699+00:00"
 }

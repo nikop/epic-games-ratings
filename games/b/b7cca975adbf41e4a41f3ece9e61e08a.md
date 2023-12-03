@@ -7,7 +7,7 @@ Rating: 4.74 (Ranked 158)
 | ---- | ---------- | ----- |
 | Last Night...Did We... | 92.00% | ~9,790 |
 | I Challenge You To Save More Money! | 86.00% | ~9,151 |
-| I Love How Tough You Are | 72.00% | ~7,662 |
+| I Love How Tough You Are | 73.00% | ~7,768 |
 | Wanna Come To My Place For Dinner? | 66.00% | ~7,023 |
 | What I Want Is You | 61.00% | ~6,491 |
 | To Be Or Not To Be | 58.00% | ~6,172 |
@@ -107,8 +107,8 @@ Completed: 188 (1.77%) (Ranked 136)
 | 2023-12-02 | 10,578 | 187 |
 | 2023-12-03 | 10,641 | 188 |
 ## Awards
-Max (Impact the Story): 23  (Ranked 536)  
-Sum: 23 (Ranked 538)  
+Max (Impact the Story): 23  (Ranked 535)  
+Sum: 23 (Ranked 537)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |

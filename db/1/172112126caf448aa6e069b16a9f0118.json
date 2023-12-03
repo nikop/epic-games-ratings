@@ -4,7 +4,7 @@
   "ProductSlug": "forest-grove-6b05cf",
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-28T13:00:00+00:00",
@@ -133,9 +133,9 @@
       "ID": "11",
       "SetID": "36pe9e2",
       "Name": "Felt Sadness",
-      "Percentage": 12,
+      "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "12",
@@ -165,9 +165,9 @@
       "ID": "4",
       "SetID": "36pe9e2",
       "Name": "Played the Piano",
-      "Percentage": 12,
+      "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "5",
@@ -219,8 +219,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-10T13:09:13.1022391+00:00",
-  "LastChanged_Achievements": "2023-12-03T17:04:10.2294936+00:00",
+  "LastChanged_Achievements": "2023-12-03T18:03:47.8100182+00:00",
   "LastUpdate_AppInfo": "2023-11-28T18:57:03.2699178+00:00",
-  "LastUpdate_Ratings": "2023-12-03T17:00:31.0247096+00:00",
-  "LastUpdate_Achievements": "2023-12-03T17:04:10.2295033+00:00"
+  "LastUpdate_Ratings": "2023-12-03T17:59:54.5641748+00:00",
+  "LastUpdate_Achievements": "2023-12-03T18:03:47.810027+00:00"
 }

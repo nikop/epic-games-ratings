@@ -4,7 +4,7 @@
   "ProductSlug": "survivor-castaway-island-16f672",
   "Ranking_EOS_Progress": 569,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewPlayers": 429,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-03T08:00:00+00:00",
@@ -142,9 +142,9 @@
       "ID": "_01",
       "SetID": "670ak8f",
       "Name": "Let there be light",
-      "Percentage": 74,
+      "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "_02",
@@ -174,9 +174,9 @@
       "ID": "_05",
       "SetID": "670ak8f",
       "Name": "Lazy bones",
-      "Percentage": 16,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "_06",
@@ -229,8 +229,8 @@
   ],
   "FirstSeen": "2023-10-05T01:45:17.1796579+00:00",
   "FirstSeenAchievements": "2023-09-18T15:06:02.8477562+00:00",
-  "LastChanged_Achievements": "2023-12-03T17:06:23.0922776+00:00",
+  "LastChanged_Achievements": "2023-12-03T18:05:44.54589+00:00",
   "LastUpdate_AppInfo": "2023-11-29T01:48:54.8959313+00:00",
-  "LastUpdate_Ratings": "2023-12-03T16:59:45.501382+00:00",
-  "LastUpdate_Achievements": "2023-12-03T17:06:23.0922867+00:00"
+  "LastUpdate_Ratings": "2023-12-03T17:59:15.5547037+00:00",
+  "LastUpdate_Achievements": "2023-12-03T18:05:44.5459041+00:00"
 }

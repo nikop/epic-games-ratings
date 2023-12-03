@@ -1,19 +1,19 @@
 # Disney Dreamlight Valley
 [Store](https://store.epicgames.com/en-US/p/disney-dreamlight-valley)  
 [View Rawdata](../../db/d/disney_dreamlight_valley.json)  
-Rating: 4.76 (Ranked 129)  
+Rating: 4.76 (Ranked 128)  
 Number of Ratings: 1,396  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 69.00% | ~8,376 |
-| Photographer | 68.00% | ~8,255 |
-| Valley's Helper | 61.00% | ~7,405 |
-| Constructor | 51.00% | ~6,191 |
-| Renovator | 51.00% | ~6,191 |
-| Bestest Friend | 46.00% | ~5,584 |
-| Banker | 39.00% | ~4,734 |
-| Gardener | 31.00% | ~3,763 |
+| Goofy's Investor | 69.00% | ~8,377 |
+| Photographer | 68.00% | ~8,256 |
+| Valley's Helper | 61.00% | ~7,406 |
+| Constructor | 51.00% | ~6,192 |
+| Renovator | 51.00% | ~6,192 |
+| Bestest Friend | 46.00% | ~5,585 |
+| Banker | 39.00% | ~4,735 |
+| Gardener | 31.00% | ~3,764 |
 | Generous | 25.00% | ~3,035 |
 | Chef Cook | 18.00% | ~2,185 |
 | Miner | 10.00% | ~1,214 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Angler | 5.00% | ~607 |
 | Chit Chatter | 3.00% | ~364 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,139 (Ranked 160)  
+Progressed: 12,141 (Ranked 160)  
 Completed: 289 (2.38%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,10 +200,10 @@ Completed: 289 (2.38%) (Ranked 123)
 | 2023-11-30 | 12,065 | 286 |
 | 2023-12-01 | 12,084 | 288 |
 | 2023-12-02 | 12,099 | 288 |
-| 2023-12-03 | 12,139 | 289 |
+| 2023-12-03 | 12,141 | 289 |
 ## Awards
 Max (Great for Beginners): 1,080  (Ranked 146)  
-Sum: 7,974 (Ranked 108)  
+Sum: 7,975 (Ranked 108)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
@@ -212,7 +212,7 @@ Diff (max vs sum): 38
 | This game is Highly Recommended | 830 |
 | This game has Amazing Characters | 824 |
 | This game is Relaxing | 812 |
-| This game has Amazing Storytelling | 780 |
+| This game has Amazing Storytelling | 781 |
 | This game is Extremely Fun | 769 |
 | This game has Quickly Understood Controls | 759 |
 | This game has a Creative Community | 680 |
@@ -484,4 +484,4 @@ Diff (max vs sum): 38
 | 2023-11-30 | 4.76 | - | 1,075 | 7,963 |
 | 2023-12-01 | 4.76 | - | 1,077 | 7,966 |
 | 2023-12-02 | 4.76 | - | 1,077 | 7,968 |
-| 2023-12-03 | 4.76 | - | 1,080 | 7,974 |
+| 2023-12-03 | 4.76 | - | 1,080 | 7,975 |

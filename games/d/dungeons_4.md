@@ -31,15 +31,15 @@
 | Dungeonlord Gorgu | 40.00% | ~207 |
 | Mana Cannon | 39.00% | ~202 |
 | Tanos' Crusade Against Thalya | 38.00% | ~196 |
-| All’s Well That Ends Evil | 31.00% | ~160 |
+| All’s Well That Ends Evil | 32.00% | ~165 |
 | Unstoppable Horde | 30.00% | ~155 |
 | Master of the Undead | 29.00% | ~150 |
 | The Duel | 28.00% | ~145 |
 | If Looks Could Kill | 26.00% | ~134 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 25.00% | ~129 |
+| Forbidden Knowledge | 25.00% | ~129 |
 | Ghost Pirates? Ghost Heroes! | 25.00% | ~129 |
 | Hungry, Hungry Gorgu! | 24.00% | ~124 |
-| Forbidden Knowledge | 24.00% | ~124 |
 | The Finitude Drill | 23.00% | ~119 |
 | Stop Tanos! | 20.00% | ~103 |
 | Doom Hill | 20.00% | ~103 |
@@ -50,9 +50,9 @@
 | Raiders of the Lost Stone | 16.00% | ~83 |
 | The Rune Sockets of Finitude (Part 1) | 16.00% | ~83 |
 | My Little Torture Chamber | 15.00% | ~78 |
+| The Rune Sockets of Finitude (Part 2) | 15.00% | ~78 |
 | Lavalumps on Ice! | 14.00% | ~72 |
 | Rubble and Ashes | 14.00% | ~72 |
-| The Rune Sockets of Finitude (Part 2) | 14.00% | ~72 |
 | The Last Stand - This Time For Real! | 13.00% | ~67 |
 | To Infinity And Beyond! | 12.00% | ~62 |
 | Mirror, Mirror | 11.00% | ~57 |

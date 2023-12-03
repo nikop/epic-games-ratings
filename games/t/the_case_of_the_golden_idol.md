@@ -7,7 +7,7 @@
 | Solved The Spider of Lanka 1st Case | 16.00% | ~26 |
 | Solved first case | 12.00% | ~26 |
 | Solved second case | 12.00% | ~26 |
-| Solved third case | 11.00% | ~23 |
+| Solved third case | 11.00% | ~24 |
 | Solved The Spider of Lanka 3rd Case | 8.00% | ~13 |
 | Solved fourth case | 7.00% | ~15 |
 | Solved sixth case | 7.00% | ~15 |
@@ -22,8 +22,8 @@
 | Solved tenth case | 3.00% | ~6 |
 | Solved the Lemurian Vampire 3rd Case | 2.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213 (Ranked 387)  
-Completed: 8 (3.76%) (Ranked 92)  
+Progressed: 214 (Ranked 387)  
+Completed: 8 (3.74%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -119,6 +119,7 @@ Completed: 8 (3.76%) (Ranked 92)
 | 2023-11-27 | 211 | 8 |
 | 2023-11-28 | 212 | 8 |
 | 2023-12-02 | 213 | 8 |
+| 2023-12-03 | 214 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

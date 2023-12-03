@@ -3,7 +3,7 @@
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 231,
-  "Ranking_Popularity": 516,
+  "Ranking_Popularity": 515,
   "Ranking_PopularitySum": 405,
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 365,
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 337,
+  "EOS_Progressed": 338,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1468,6 +1468,11 @@
       "Time": "2023-12-03T17:06:18.5367709+00:00",
       "NumProgressed": 337,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T18:05:40.5251516+00:00",
+      "NumProgressed": 338,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1622,9 +1627,9 @@
       "ID": "DoubleKill",
       "SetID": "71c0n9i",
       "Name": "Double Kill",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 84
     },
     {
       "ID": "FlameAttackKillCount",
@@ -1688,7 +1693,7 @@
       "Name": "Multi Kill",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "MultiplayerWins",
@@ -1720,7 +1725,7 @@
       "Name": "Whoops!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "RanaCampaign",
@@ -1806,9 +1811,9 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 122
     },
     {
       "ID": "WielderLevel2",
@@ -1856,7 +1861,7 @@
       "Name": "Expert Essence Employment",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "WinSiegeAsAttacker",
@@ -1864,7 +1869,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -1872,7 +1877,7 @@
       "Name": "Venisti, Vidisti, Perdidisti",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "WinsWithFactionArleon",
@@ -1911,15 +1916,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 337,
+      "Progressed": 338,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-03T17:06:18.5367705+00:00",
+  "LastChanged_Achievements": "2023-12-03T18:05:40.5251512+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:08.015125+00:00",
-  "LastUpdate_Ratings": "2023-12-03T16:57:58.1506297+00:00",
-  "LastUpdate_Achievements": "2023-12-03T17:06:18.53681+00:00"
+  "LastUpdate_Ratings": "2023-12-03T17:57:43.890641+00:00",
+  "LastUpdate_Achievements": "2023-12-03T18:05:40.5251994+00:00"
 }

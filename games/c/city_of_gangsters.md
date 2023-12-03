@@ -1,46 +1,46 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.29 (Ranked 849)  
+Rating: 4.29 (Ranked 850)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~163,347 |
-| Copacetic Coordination | 16.00% | ~56,816 |
-| Fronting the Money | 15.00% | ~53,265 |
-| The Dawn of Automation | 14.00% | ~49,714 |
-| Extraordinary Logistics | 14.00% | ~49,714 |
-| Dirty Money | 13.00% | ~46,163 |
-| Family First | 13.00% | ~46,163 |
-| Cleaning House | 12.00% | ~42,612 |
-| Room in the Back | 12.00% | ~42,612 |
-| Beating the Heat | 11.00% | ~39,061 |
-| Booze Baron | 11.00% | ~39,061 |
-| Friends on the Force | 10.00% | ~35,510 |
-| Neighborhood Watch | 10.00% | ~35,510 |
-| Core Corps | 8.00% | ~28,408 |
-| Sizeable Stash | 8.00% | ~28,408 |
-| Street Fighter | 7.00% | ~24,857 |
-| Friendly Gestures | 7.00% | ~24,857 |
-| People Person | 7.00% | ~24,857 |
-| Liquor Lord | 6.00% | ~21,306 |
-| Safety in Numbers | 6.00% | ~21,306 |
-| Moving Experiences | 6.00% | ~21,306 |
-| Wise Head | 6.00% | ~21,306 |
-| Show ‘em the Sugar | 6.00% | ~21,306 |
-| Killing Them Softly | 6.00% | ~21,306 |
-| Street Knowledge | 5.00% | ~17,755 |
-| Oh Captain | 5.00% | ~17,755 |
-| Branching Out | 5.00% | ~17,755 |
-| Improvement Missions | 5.00% | ~17,755 |
-| Opportunity Knocked | 5.00% | ~17,755 |
-| City of Big Shoulders | 5.00% | ~17,755 |
-| Mission Mastery | 5.00% | ~17,755 |
-| Considerable Clams | 4.00% | ~14,204 |
-| Gin Joint | 4.00% | ~14,204 |
-| An Affront to the Enemy | 4.00% | ~14,204 |
-| Friends from Back Home | 4.00% | ~14,204 |
-| Half Century Mark | 4.00% | ~14,204 |
+| Corner Clout | 46.00% | ~163,352 |
+| Copacetic Coordination | 16.00% | ~56,818 |
+| Fronting the Money | 15.00% | ~53,267 |
+| The Dawn of Automation | 14.00% | ~49,716 |
+| Extraordinary Logistics | 14.00% | ~49,716 |
+| Dirty Money | 13.00% | ~46,165 |
+| Family First | 13.00% | ~46,165 |
+| Cleaning House | 12.00% | ~42,614 |
+| Room in the Back | 12.00% | ~42,614 |
+| Beating the Heat | 11.00% | ~39,063 |
+| Booze Baron | 11.00% | ~39,063 |
+| Friends on the Force | 10.00% | ~35,511 |
+| Neighborhood Watch | 10.00% | ~35,511 |
+| Core Corps | 8.00% | ~28,409 |
+| Sizeable Stash | 8.00% | ~28,409 |
+| Street Fighter | 7.00% | ~24,858 |
+| Friendly Gestures | 7.00% | ~24,858 |
+| People Person | 7.00% | ~24,858 |
+| Liquor Lord | 6.00% | ~21,307 |
+| Safety in Numbers | 6.00% | ~21,307 |
+| Moving Experiences | 6.00% | ~21,307 |
+| Wise Head | 6.00% | ~21,307 |
+| Show ‘em the Sugar | 6.00% | ~21,307 |
+| Killing Them Softly | 6.00% | ~21,307 |
+| Street Knowledge | 5.00% | ~17,756 |
+| Oh Captain | 5.00% | ~17,756 |
+| Branching Out | 5.00% | ~17,756 |
+| Improvement Missions | 5.00% | ~17,756 |
+| Opportunity Knocked | 5.00% | ~17,756 |
+| City of Big Shoulders | 5.00% | ~17,756 |
+| Mission Mastery | 5.00% | ~17,756 |
+| Considerable Clams | 4.00% | ~14,205 |
+| Gin Joint | 4.00% | ~14,205 |
+| An Affront to the Enemy | 4.00% | ~14,205 |
+| Friends from Back Home | 4.00% | ~14,205 |
+| Half Century Mark | 4.00% | ~14,205 |
 | Corner Opportunities | 3.00% | ~10,653 |
 | 2122 North Clark Street | 3.00% | ~10,653 |
 | Copious Cabbage | 3.00% | ~10,653 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 849)
 | High Pillow | 0.10% | ~355 |
 | Station Master | 0.10% | ~355 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 355,102 (Ranked 49)  
+Progressed: 355,114 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,11 +313,11 @@ Completed: 7 (0.00%) (Ranked 365)
 | 2023-11-30 | 354,687 | 7 |
 | 2023-12-01 | 354,825 | 7 |
 | 2023-12-02 | 354,953 | 7 |
-| 2023-12-03 | 355,102 | 7 |
+| 2023-12-03 | 355,114 | 7 |
 ## Awards
-Max (Great for Beginners): 50  (Ranked 438)  
+Max (Great for Beginners): 50  (Ranked 437)  
 Sum: 243 (Ranked 387)  
-Diff (max vs sum): 51  
+Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 50 |

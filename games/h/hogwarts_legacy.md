@@ -1,42 +1,42 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 129)  
+Rating: 4.76 (Ranked 128)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,617 |
-| First Class Student | 15.00% | ~45,578 |
-| Troll with the Punches | 14.00% | ~42,540 |
-| A Keen Sense of Spell | 13.00% | ~39,501 |
-| That's a Keeper | 13.00% | ~39,501 |
-| The Hallowed Hero | 12.00% | ~36,463 |
-| The Defender of Dragons | 12.00% | ~36,463 |
-| Loom for Improvement | 12.00% | ~36,463 |
-| A Talent for Spending | 12.00% | ~36,463 |
-| Grappling with a Graphorn | 11.00% | ~33,424 |
-| The One Who Mastered Memories | 11.00% | ~33,424 |
-| The Hero of Hogwarts | 11.00% | ~33,424 |
-| Challenge Accepted | 11.00% | ~33,424 |
-| Coasting Along | 11.00% | ~33,424 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,618 |
+| First Class Student | 15.00% | ~45,580 |
+| Troll with the Punches | 14.00% | ~42,541 |
+| A Keen Sense of Spell | 13.00% | ~39,502 |
+| That's a Keeper | 13.00% | ~39,502 |
+| The Hallowed Hero | 12.00% | ~36,464 |
+| The Defender of Dragons | 12.00% | ~36,464 |
+| Loom for Improvement | 12.00% | ~36,464 |
+| A Talent for Spending | 12.00% | ~36,464 |
+| Grappling with a Graphorn | 11.00% | ~33,425 |
+| The One Who Mastered Memories | 11.00% | ~33,425 |
+| The Hero of Hogwarts | 11.00% | ~33,425 |
+| Challenge Accepted | 11.00% | ~33,425 |
+| Coasting Along | 11.00% | ~33,425 |
 | Followed the Butterflies | 10.00% | ~30,386 |
 | Rising From the Ashes | 10.00% | ~30,386 |
-| A Sallow Grave | 9.00% | ~27,347 |
-| The Spell Master | 9.00% | ~27,347 |
-| The Avenging Gazelle | 8.00% | ~24,308 |
-| Beast Friends | 8.00% | ~24,308 |
-| Flight the Good Flight | 8.00% | ~24,308 |
-| Raising Expectations | 7.00% | ~21,270 |
-| The Seeker of Knowledge | 6.00% | ~18,231 |
-| The Root of the Problem | 6.00% | ~18,231 |
-| Third Time's a Charm | 6.00% | ~18,231 |
+| A Sallow Grave | 9.00% | ~27,348 |
+| The Spell Master | 9.00% | ~27,348 |
+| The Avenging Gazelle | 8.00% | ~24,309 |
+| Beast Friends | 8.00% | ~24,309 |
+| Flight the Good Flight | 8.00% | ~24,309 |
+| Raising Expectations | 7.00% | ~21,271 |
+| The Seeker of Knowledge | 6.00% | ~18,232 |
+| The Root of the Problem | 6.00% | ~18,232 |
+| Third Time's a Charm | 6.00% | ~18,232 |
 | The Toast of the Town | 5.00% | ~15,193 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,193 |
 | The Ends Petrify the Means | 5.00% | ~15,193 |
-| Going Through the Potions | 4.00% | ~12,154 |
-| Room with a View | 4.00% | ~12,154 |
-| The Intrepid Explorer | 4.00% | ~12,154 |
-| The Wise Owl | 4.00% | ~12,154 |
+| Going Through the Potions | 4.00% | ~12,155 |
+| Room with a View | 4.00% | ~12,155 |
+| The Intrepid Explorer | 4.00% | ~12,155 |
+| The Wise Owl | 4.00% | ~12,155 |
 | Put Down Roots | 3.00% | ~9,116 |
 | The Auror's Apprentice | 3.00% | ~9,116 |
 | Floo Around the World | 3.00% | ~9,116 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 129)
 | The Nature of the Beast | 0.70% | ~2,127 |
 | Collector's Edition | 0.30% | ~912 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,856 (Ranked 54)  
+Progressed: 303,865 (Ranked 54)  
 Completed: 521 (0.17%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,10 +278,10 @@ Completed: 521 (0.17%) (Ranked 268)
 | 2023-11-30 | 303,661 | 519 |
 | 2023-12-01 | 303,730 | 520 |
 | 2023-12-02 | 303,789 | 520 |
-| 2023-12-03 | 303,856 | 521 |
+| 2023-12-03 | 303,865 | 521 |
 ## Awards
 Max (Character Customization): 24,854  (Ranked 17)  
-Sum: 49,752 (Ranked 30)  
+Sum: 49,756 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -292,7 +292,7 @@ Diff (max vs sum): -13
 | This game has Diverse Characters | 1,324 |
 | This game is Relaxing | 1,288 |
 | This game is Extremely Fun | 1,287 |
-| This game has Amazing Characters | 1,251 |
+| This game has Amazing Characters | 1,255 |
 | This game is Highly Recommended | 1,229 |
 | This game has Quickly Understood Controls | 1,189 |
 | This game has Beautiful Visuals | 1,076 |
@@ -554,4 +554,4 @@ Diff (max vs sum): -13
 | 2023-11-30 | 4.76 | 24,781 | 49,552 |
 | 2023-12-01 | 4.76 | 24,816 | 49,628 |
 | 2023-12-02 | 4.76 | 24,816 | 49,655 |
-| 2023-12-03 | 4.76 | 24,854 | 49,752 |
+| 2023-12-03 | 4.76 | 24,854 | 49,756 |

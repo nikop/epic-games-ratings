@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3529,18 +3529,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 2871,
       "NumberOfAwardsMax": 319
+    },
+    {
+      "Time": "2023-12-03T17:57:18.4581811+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2873,
+      "NumberOfAwardsMax": 320
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2871,
-  "NumberOfAwardsMax": 319,
+  "NumberOfAwards": 2873,
+  "NumberOfAwardsMax": 320,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 319
+      "Count": 320
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3576,7 +3582,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 300
+      "Count": 301
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3609,9 +3615,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31876,
+  "EOS_Progressed": 31884,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -21239,6 +21245,11 @@
       "Time": "2023-12-03T17:06:25.9011235+00:00",
       "NumProgressed": 31876,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-03T18:05:46.9205593+00:00",
+      "NumProgressed": 31884,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -21250,7 +21261,7 @@
       "Name": "Advancement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2231
+      "UsersEstimate": 2232
     },
     {
       "ID": "Animated",
@@ -21258,7 +21269,7 @@
       "Name": "Animated",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "Back_Off",
@@ -21322,7 +21333,7 @@
       "Name": "Daily Dose",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "Diabolical",
@@ -21354,7 +21365,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "Efficient",
@@ -21362,7 +21373,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 2231
+      "UsersEstimate": 2232
     },
     {
       "ID": "Escape_Artist",
@@ -21394,7 +21405,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "Ghost_Expert",
@@ -21410,7 +21421,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "Legions",
@@ -21498,7 +21509,7 @@
       "Name": "Right back at ya",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "Rivalry",
@@ -21522,7 +21533,7 @@
       "Name": "Side Hustle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "Skilled",
@@ -21554,7 +21565,7 @@
       "Name": "Stylish",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2869
+      "UsersEstimate": 2870
     },
     {
       "ID": "Summoner",
@@ -21562,7 +21573,7 @@
       "Name": "Summoner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "Surprise",
@@ -21657,16 +21668,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31876,
+      "Progressed": 31884,
       "Completed": 69
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-12-02T17:01:35.0121715+00:00",
-  "LastChanged_Achievements": "2023-12-03T17:06:25.9011231+00:00",
+  "LastChanged": "2023-12-03T17:57:18.4581809+00:00",
+  "LastChanged_Achievements": "2023-12-03T18:05:46.9205591+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:17.1930733+00:00",
-  "LastUpdate_Ratings": "2023-12-03T16:57:28.3364954+00:00",
-  "LastUpdate_Achievements": "2023-12-03T17:06:25.9012427+00:00"
+  "LastUpdate_Ratings": "2023-12-03T17:57:18.4581813+00:00",
+  "LastUpdate_Achievements": "2023-12-03T18:05:46.9206686+00:00"
 }

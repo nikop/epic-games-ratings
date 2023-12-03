@@ -4,7 +4,7 @@
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
   "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 213,
+  "EOS_Progressed": 214,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.76,
+  "EOS_Completed_Percentage": 3.74,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.7250837+00:00",
@@ -871,6 +871,11 @@
       "Time": "2023-12-02T18:06:32.9566707+00:00",
       "NumProgressed": 213,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-03T18:06:13.7822985+00:00",
+      "NumProgressed": 214,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 17,
@@ -906,7 +911,7 @@
       "Name": "Solved third case",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "3",
@@ -1017,13 +1022,13 @@
     {
       "ID": "acl54ke",
       "IsBase": true,
-      "Progressed": 213,
+      "Progressed": 214,
       "Completed": 8
     },
     {
       "ID": "a3epimb",
       "IsBase": false,
-      "Progressed": 160,
+      "Progressed": 161,
       "Completed": 109
     }
   ],
@@ -1031,8 +1036,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-12-03T17:06:56.4870161+00:00",
+  "LastChanged_Achievements": "2023-12-03T18:06:13.7822983+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:51.7939148+00:00",
-  "LastUpdate_Ratings": "2023-12-03T17:02:20.3300913+00:00",
-  "LastUpdate_Achievements": "2023-12-03T17:06:56.4870324+00:00"
+  "LastUpdate_Ratings": "2023-12-03T18:00:18.5248787+00:00",
+  "LastUpdate_Achievements": "2023-12-03T18:06:13.7823095+00:00"
 }
