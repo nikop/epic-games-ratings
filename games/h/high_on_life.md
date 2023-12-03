@@ -1,13 +1,13 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.64 (Ranked 334)  
+Rating: 4.64 (Ranked 335)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Satisfied Gus-tomer | 4.00% | ~985 |
 | Cold-Blooded Driller | 4.00% | ~985 |
 | Creature Feature | 3.00% | ~739 |
-| Satisfied Gus-tomer | 3.00% | ~739 |
 | Are You Packin'? | 3.00% | ~739 |
 | Bring A Knife to a Gun Fight | 3.00% | ~739 |
 | Sweezy Like Sunday Morning | 3.00% | ~739 |

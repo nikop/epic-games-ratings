@@ -2,13 +2,13 @@
   "ID": "6bff1c13a8884b518bd44acaf691ddba",
   "Name": "MudRunner",
   "ProductSlug": "mudrunner",
-  "Ranking_Rating": 386,
-  "Ranking_Popularity": 261,
+  "Ranking_Rating": 387,
+  "Ranking_Popularity": 260,
   "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 774,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 491,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 490,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2020-11-26T16:00:00+00:00",
     "PcReleaseDate": "2020-11-26T16:00:00+00:00",
@@ -3251,11 +3251,17 @@
       "Rating": 4.61,
       "NumberOfAwards": 1903,
       "NumberOfAwardsMax": 286
+    },
+    {
+      "Time": "2023-12-03T13:00:04.2185345+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1905,
+      "NumberOfAwardsMax": 287
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1903,
-  "NumberOfAwardsMax": 286,
+  "NumberOfAwards": 1905,
+  "NumberOfAwardsMax": 287,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3268,13 +3274,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 234
+      "Count": 235
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 286
+      "Count": 287
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3336,8 +3342,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:58.5631341+00:00",
-  "LastChanged": "2023-12-02T11:59:46.7889464+00:00",
+  "LastChanged": "2023-12-03T13:00:04.2185343+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:41.7809685+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:00:29.3139977+00:00",
-  "LastUpdate_Achievements": "2023-12-03T12:05:52.7928434+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:00:04.2185348+00:00",
+  "LastUpdate_Achievements": "2023-12-03T13:10:05.1932107+00:00"
 }

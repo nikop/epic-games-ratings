@@ -4,11 +4,11 @@
   "ProductSlug": "the-binding-of-isaac-repentance",
   "Ranking_Rating": 6,
   "Ranking_Popularity": 112,
-  "Ranking_PopularitySum": 97,
+  "Ranking_PopularitySum": 96,
   "Ranking_EOS_Progress": 774,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 491,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 490,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-03-31T07:00:00+00:00",
     "PcReleaseDate": "2021-03-31T07:00:00+00:00",
@@ -5278,10 +5278,16 @@
       "Rating": 4.9,
       "NumberOfAwards": 9119,
       "NumberOfAwardsMax": 1955
+    },
+    {
+      "Time": "2023-12-03T13:04:16.8232426+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 9122,
+      "NumberOfAwardsMax": 1955
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9119,
+  "NumberOfAwards": 9122,
   "NumberOfAwardsMax": 1955,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5325,13 +5331,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 617
+      "Count": 618
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 568
+      "Count": 569
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5343,7 +5349,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 719
+      "Count": 720
     },
     {
       "Text": "This game has Unique Visuals",
@@ -5375,8 +5381,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:34.9311333+00:00",
-  "LastChanged": "2023-12-03T11:59:44.7158122+00:00",
+  "LastChanged": "2023-12-03T13:04:16.8232424+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:20.8408554+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:59:44.7158126+00:00",
-  "LastUpdate_Achievements": "2023-12-03T12:05:54.3336186+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:04:16.8232429+00:00",
+  "LastUpdate_Achievements": "2023-12-03T13:10:07.6103341+00:00"
 }

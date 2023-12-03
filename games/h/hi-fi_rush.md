@@ -5,14 +5,14 @@ Rating: 4.87 (Ranked 24)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 19.00% | ~847 |
-| Feeling the beat! | 19.00% | ~847 |
+| Start with a bang! | 19.00% | ~848 |
+| Feeling the beat! | 19.00% | ~848 |
 | You can pet the cat! | 18.00% | ~803 |
 | Who put gears in there? | 17.00% | ~758 |
 | Cream of the Crop | 16.00% | ~714 |
 | Thanks for the free chip, Peppermint! | 15.00% | ~669 |
 | You got this, Peppermint? | 15.00% | ~669 |
-| Perfect Parry | 14.00% | ~624 |
+| Perfect Parry | 14.00% | ~625 |
 | Alright, that felt AWESOME! | 13.00% | ~580 |
 | This will cost you big time | 12.00% | ~535 |
 | I play my own way! | 12.00% | ~535 |
@@ -29,7 +29,7 @@ Rating: 4.87 (Ranked 24)
 | Does that say weakpoint? | 9.00% | ~401 |
 | Who's the boss now? | 8.00% | ~357 |
 | Perfecter Parry-er! | 8.00% | ~357 |
-| NOW we got a kickass hideout! | 8.00% | ~238 |
+| NOW we got a kickass hideout! | 8.00% | ~239 |
 | I have to read these things? | 7.00% | ~312 |
 | That's a lot of junk metal… | 6.00% | ~268 |
 | Well that was a rush! | 5.00% | ~223 |
@@ -46,10 +46,10 @@ Rating: 4.87 (Ranked 24)
 | First we parry, then we counter | 2.00% | ~89 |
 | I hit things with a guitar really well. | 2.00% | ~89 |
 | Call me Turbo Chai | 2.00% | ~60 |
+| OK, well THEY came after ME! | 1.00% | ~45 |
 | I'm not done with you yet | 1.00% | ~45 |
 | You ever parry a volcano? | 1.00% | ~45 |
 | New bad guys? No problem! | 1.00% | ~30 |
-| OK, well THEY came after ME! | 0.90% | ~40 |
 | Easy Listening | 0.60% | ~27 |
 | Choose your own adventure | 0.60% | ~18 |
 | Problem solved... wait, what? | 0.50% | ~22 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,460 (Ranked 194)  
+Progressed: 4,461 (Ranked 194)  
 Completed: 8 (0.18%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 8 (0.18%) (Ranked 265)
 | 2023-11-30 | 4,441 | 8 |
 | 2023-12-01 | 4,446 | 8 |
 | 2023-12-02 | 4,456 | 8 |
-| 2023-12-03 | 4,460 | 8 |
+| 2023-12-03 | 4,461 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

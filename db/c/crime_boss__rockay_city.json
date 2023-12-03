@@ -4,10 +4,10 @@
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 1016,
   "Ranking_Popularity": 206,
-  "Ranking_PopularitySum": 175,
+  "Ranking_PopularitySum": 186,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4849,10 +4849,16 @@
       "Rating": 3.95,
       "NumberOfAwards": 3148,
       "NumberOfAwardsMax": 551
+    },
+    {
+      "Time": "2023-12-03T13:05:13.7744979+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 2634,
+      "NumberOfAwardsMax": 551
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 3148,
+  "NumberOfAwards": 2634,
   "NumberOfAwardsMax": 551,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4911,9 +4917,9 @@
       "Count": 508
     }
   ],
-  "EOS_Progressed": 91717,
+  "EOS_Progressed": 91722,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -27086,6 +27092,11 @@
       "Time": "2023-12-03T10:06:08.5940791+00:00",
       "NumProgressed": 91717,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-03T13:10:45.5958326+00:00",
+      "NumProgressed": 91722,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -27424,22 +27435,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91717,
+      "Progressed": 91722,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 20064,
+      "Progressed": 20069,
       "Completed": 15582
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-12-03T09:00:48.8453556+00:00",
-  "LastChanged_Achievements": "2023-12-03T12:06:23.5839178+00:00",
+  "LastChanged": "2023-12-03T13:05:13.7744977+00:00",
+  "LastChanged_Achievements": "2023-12-03T13:10:45.5958323+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:50.1764658+00:00",
-  "LastUpdate_Ratings": "2023-12-03T12:02:37.728747+00:00",
-  "LastUpdate_Achievements": "2023-12-03T12:06:23.5840161+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:05:13.7744984+00:00",
+  "LastUpdate_Achievements": "2023-12-03T13:10:45.5959624+00:00"
 }

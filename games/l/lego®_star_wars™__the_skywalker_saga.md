@@ -1,27 +1,27 @@
 # LEGO® Star Wars™: The Skywalker Saga
 [Store](https://store.epicgames.com/en-US/p/lego-star-wars-the-skywalker-saga)  
 [View Rawdata](../../db/l/lego®_star_wars™__the_skywalker_saga.json)  
-Rating: 4.78 (Ranked 105)  
+Rating: 4.78 (Ranked 106)  
 Number of Ratings: 2,536  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~50,474 |
-| ''I don't like you either!'' | 79.00% | ~41,108 |
-| ''Impressive, most impressive'' | 72.00% | ~37,465 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~37,465 |
-| The Phantom Menace | 59.00% | ~30,701 |
-| ''Aggressive Negotiations'' | 59.00% | ~30,701 |
-| ''I can fly anything'' | 57.00% | ~29,660 |
-| ''And who gave you permission...?'' | 54.00% | ~28,099 |
-| A New Hope | 48.00% | ~24,977 |
-| Attack of the Clones | 47.00% | ~24,456 |
-| Revenge of the Sith | 41.00% | ~21,334 |
-| The Empire Strikes Back | 38.00% | ~19,773 |
-| ''A fine addition to my collection'' | 38.00% | ~19,773 |
-| Return of the Jedi | 32.00% | ~16,651 |
-| The Force Awakens | 27.00% | ~14,049 |
-| The Last Jedi | 23.00% | ~11,968 |
+| ''You guys got yourself a ship!'' | 97.00% | ~50,476 |
+| ''I don't like you either!'' | 79.00% | ~41,109 |
+| ''Impressive, most impressive'' | 72.00% | ~37,467 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~37,467 |
+| The Phantom Menace | 59.00% | ~30,702 |
+| ''Aggressive Negotiations'' | 59.00% | ~30,702 |
+| ''I can fly anything'' | 57.00% | ~29,661 |
+| ''And who gave you permission...?'' | 54.00% | ~28,100 |
+| A New Hope | 48.00% | ~24,978 |
+| Attack of the Clones | 47.00% | ~24,457 |
+| Revenge of the Sith | 41.00% | ~21,335 |
+| The Empire Strikes Back | 38.00% | ~19,774 |
+| ''A fine addition to my collection'' | 38.00% | ~19,774 |
+| Return of the Jedi | 32.00% | ~16,652 |
+| The Force Awakens | 27.00% | ~14,050 |
+| The Last Jedi | 23.00% | ~11,969 |
 | The Rise of Skywalker | 20.00% | ~10,407 |
 | ''It's true... all of it'' | 19.00% | ~9,887 |
 | ''Get the crews to their fighters'' | 19.00% | ~9,887 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~520 |
 | ''I've never seen a real one!'' | 1.00% | ~520 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,035 (Ranked 112)  
+Progressed: 52,037 (Ranked 112)  
 Completed: 250 (0.48%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,14 +278,14 @@ Completed: 250 (0.48%) (Ranked 211)
 | 2023-11-30 | 52,024 | 250 |
 | 2023-12-01 | 52,029 | 250 |
 | 2023-12-02 | 52,031 | 250 |
-| 2023-12-03 | 52,035 | 250 |
+| 2023-12-03 | 52,037 | 250 |
 ## Awards
-Max (Great Boss Battles): 2,446  (Ranked 105)  
-Sum: 6,719 (Ranked 126)  
+Max (Great Boss Battles): 2,448  (Ranked 105)  
+Sum: 6,721 (Ranked 126)  
 Diff (max vs sum): -21  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,446 |
+| This game has Great Boss Battles | 2,448 |
 | This game is Great for Beginners | 518 |
 | This game has Diverse Characters | 510 |
 | This game has Amazing Characters | 492 |
@@ -561,4 +561,4 @@ Diff (max vs sum): -21
 | 2023-11-30 | 4.78 | - | 2,446 | 6,714 |
 | 2023-12-01 | 4.78 | - | 2,446 | 6,716 |
 | 2023-12-02 | 4.78 | - | 2,446 | 6,718 |
-| 2023-12-03 | 4.78 | - | 2,446 | 6,719 |
+| 2023-12-03 | 4.78 | - | 2,448 | 6,721 |

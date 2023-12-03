@@ -16,6 +16,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Untamed Wilds | 1.00% | ~176 |
 | First Real Expedition | 0.20% | ~35 |
 | Overcoming Difficulty | 0.20% | ~35 |
+| Ruined Armory | 0.20% | ~35 |
 | Royal Outpost | 0.20% | ~35 |
 | Watchtower | 0.20% | ~35 |
 | Coral Forest | 0.20% | ~35 |
@@ -35,7 +36,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Refinery | 0.10% | ~18 |
 | Homesick | 0.10% | ~18 |
 | Against All Odds | 0.10% | ~18 |
-| Ruined Armory | 0.10% | ~18 |
 | Bandit Camp | 0.10% | ~18 |
 | Barren Lands | 0.10% | ~18 |
 | Ancient Battleground | 0.10% | ~18 |

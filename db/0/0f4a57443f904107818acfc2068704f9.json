@@ -4,8 +4,8 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 824,
+  "EOS_Progressed": 825,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1742,6 +1742,11 @@
       "Time": "2023-12-03T11:05:54.3930914+00:00",
       "NumProgressed": 824,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T13:10:15.586052+00:00",
+      "NumProgressed": 825,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1810,7 +1815,7 @@
       "Name": "Pathfinder",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "CompleteChapter10",
@@ -1858,7 +1863,7 @@
       "Name": "The Great Scheme",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "CompleteChapter16",
@@ -1866,7 +1871,7 @@
       "Name": "Our Own Miracle",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "CompleteChapter17",
@@ -1898,7 +1903,7 @@
       "Name": "Met the Enemy",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "CompleteChapter3",
@@ -1914,7 +1919,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "CompleteChapter5",
@@ -1944,9 +1949,9 @@
       "ID": "CompleteChapter8",
       "SetID": "52ail55",
       "Name": "Troggoff Troubles",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 124
     },
     {
       "ID": "CompleteChapter9",
@@ -2049,14 +2054,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 824,
+      "Progressed": 825,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-03T12:06:00.3981908+00:00",
+  "LastChanged_Achievements": "2023-12-03T13:10:15.5860514+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:09.4303292+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:59:13.1828439+00:00",
-  "LastUpdate_Achievements": "2023-12-03T12:06:00.3982272+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:03:33.2989748+00:00",
+  "LastUpdate_Achievements": "2023-12-03T13:10:15.5860872+00:00"
 }

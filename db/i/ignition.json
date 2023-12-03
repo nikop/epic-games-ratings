@@ -4,8 +4,8 @@
   "ProductSlug": "ignition-5246f9",
   "Ranking_EOS_Progress": 774,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 491,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 490,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-07-15T16:00:00+00:00",
     "PcReleaseDate": "2022-07-15T16:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:02.2385978+00:00",
   "LastChanged": "2023-03-31T05:58:02.2385979+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:58.0341138+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:59:06.3905607+00:00",
-  "LastUpdate_Achievements": "2023-12-03T12:06:26.3086129+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:03:24.2590876+00:00",
+  "LastUpdate_Achievements": "2023-12-03T13:10:49.199696+00:00"
 }

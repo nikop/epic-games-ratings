@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -91,9 +91,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 726,
+  "EOS_Progressed": 728,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1711,6 +1711,11 @@
       "Time": "2023-12-03T11:09:28.6170382+00:00",
       "NumProgressed": 726,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T13:13:26.7024724+00:00",
+      "NumProgressed": 728,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1761,9 +1766,9 @@
       "ID": "achievement_14",
       "SetID": "jnappp",
       "Name": "Vehicle Builder",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 290
+      "UsersEstimate": 284
     },
     {
       "ID": "achievement_15",
@@ -1779,7 +1784,7 @@
       "Name": "Class Act",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "achievement_17",
@@ -1787,7 +1792,7 @@
       "Name": "Your first time?",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "achievement_18",
@@ -1811,7 +1816,7 @@
       "Name": "Team Principal",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 559
+      "UsersEstimate": 561
     },
     {
       "ID": "achievement_20",
@@ -1851,7 +1856,7 @@
       "Name": "Miracle in the Mountains",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "achievement_25",
@@ -1905,9 +1910,9 @@
       "ID": "achievement_7",
       "SetID": "jnappp",
       "Name": "NEW PB!",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 232
+      "UsersEstimate": 226
     },
     {
       "ID": "achievement_8",
@@ -1930,7 +1935,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 726,
+      "Progressed": 728,
       "Completed": 0
     }
   ],
@@ -1938,8 +1943,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-12-03T05:58:27.7865112+00:00",
-  "LastChanged_Achievements": "2023-12-03T12:10:00.761712+00:00",
+  "LastChanged_Achievements": "2023-12-03T13:13:26.7024718+00:00",
   "LastUpdate_AppInfo": "2023-11-28T21:56:52.2952246+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:58:43.6711098+00:00",
-  "LastUpdate_Achievements": "2023-12-03T12:10:00.7617342+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:02:51.8620377+00:00",
+  "LastUpdate_Achievements": "2023-12-03T13:13:26.7024916+00:00"
 }

@@ -5,11 +5,11 @@ Rating: 4.44 (Ranked 680)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,865 |
-| Confirming Suspicions | 41.00% | ~1,627 |
+| Meeting Resistance | 47.00% | ~1,866 |
+| Confirming Suspicions | 41.00% | ~1,628 |
 | The Kraken Wakes | 37.00% | ~1,469 |
-| It's Starting to Crack | 34.00% | ~1,349 |
-| Change the Channel | 31.00% | ~1,230 |
+| It's Starting to Crack | 34.00% | ~1,350 |
+| Change the Channel | 31.00% | ~1,231 |
 | Lord of War | 30.00% | ~1,191 |
 | Taking it back | 29.00% | ~1,151 |
 | Resourceful | 27.00% | ~1,072 |
@@ -21,14 +21,14 @@ Rating: 4.44 (Ranked 680)
 | Sharpshooter | 22.00% | ~873 |
 | Gunslinger | 19.00% | ~754 |
 | Explosive Efficiency | 19.00% | ~754 |
-| Climbing the Ladder | 17.00% | ~675 |
 | Just a Flesh Wound | 17.00% | ~675 |
 | Der Geist | 17.00% | ~675 |
+| Climbing the Ladder | 16.00% | ~635 |
 | Close Quarters | 16.00% | ~635 |
 | Snake in the Grass | 16.00% | ~635 |
-| Skirmisher | 15.00% | ~595 |
-| Die Nussknacker Sweet! | 15.00% | ~595 |
-| Brains of the Operation | 15.00% | ~595 |
+| Skirmisher | 15.00% | ~596 |
+| Die Nussknacker Sweet! | 15.00% | ~596 |
+| Brains of the Operation | 15.00% | ~596 |
 | No Stone Unturned | 14.00% | ~556 |
 | Opposing Force | 14.00% | ~556 |
 | Enemy at the Gates | 14.00% | ~556 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 680)
 | Stroll in the Woods | 0.60% | ~24 |
 | Going Overboard | 0.60% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,969 (Ranked 198)  
+Progressed: 3,970 (Ranked 198)  
 Completed: 11 (0.28%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 11 (0.28%) (Ranked 243)
 | 2023-11-30 | 3,958 | 11 |
 | 2023-12-01 | 3,961 | 11 |
 | 2023-12-02 | 3,967 | 11 |
-| 2023-12-03 | 3,969 | 11 |
+| 2023-12-03 | 3,970 | 11 |
 ## Awards
 Max (Great for Beginners): 27  (Ranked 515)  
 Sum: 27 (Ranked 528)  

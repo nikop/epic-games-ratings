@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7927,10 +7927,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 12042,
       "NumberOfAwardsMax": 6870
+    },
+    {
+      "Time": "2023-12-03T13:05:33.1802258+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12043,
+      "NumberOfAwardsMax": 6870
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12042,
+  "NumberOfAwards": 12043,
   "NumberOfAwardsMax": 6870,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8004,12 +8010,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 427
+      "Count": 428
     }
   ],
-  "EOS_Progressed": 717734,
+  "EOS_Progressed": 717741,
   "EOS_Completed": 12943,
-  "EOS_NewPlayers": 322,
+  "EOS_NewPlayers": 323,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -28177,6 +28183,11 @@
       "Time": "2023-12-03T12:07:48.3304591+00:00",
       "NumProgressed": 717734,
       "NumCompleted": 12943
+    },
+    {
+      "Time": "2023-12-03T13:11:03.5640072+00:00",
+      "NumProgressed": 717741,
+      "NumCompleted": 12943
     }
   ],
   "TotalAchievements": 60,
@@ -28290,9 +28301,9 @@
       "ID": "14_DeathlessBoss_Trophy",
       "SetID": "adcm20g",
       "Name": "Kill Nil",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 3589
+      "UsersEstimate": 4306
     },
     {
       "ID": "15_Detective_H1",
@@ -28667,21 +28678,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 27035,
+      "Progressed": 27042,
       "Completed": 10757
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 717734,
+      "Progressed": 717741,
       "Completed": 12943
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-12-03T11:02:46.3511416+00:00",
-  "LastChanged_Achievements": "2023-12-03T12:07:48.3304588+00:00",
+  "LastChanged": "2023-12-03T13:05:33.1802256+00:00",
+  "LastChanged_Achievements": "2023-12-03T13:11:03.5640065+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:06.4352314+00:00",
-  "LastUpdate_Ratings": "2023-12-03T12:02:56.3206568+00:00",
-  "LastUpdate_Achievements": "2023-12-03T12:07:48.3305908+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:05:33.1802261+00:00",
+  "LastUpdate_Achievements": "2023-12-03T13:11:03.5641406+00:00"
 }

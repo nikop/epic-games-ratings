@@ -3,12 +3,12 @@
   "Name": "Stranded Deep",
   "ProductSlug": "stranded-deep",
   "Ranking_Rating": 904,
-  "Ranking_Popularity": 278,
+  "Ranking_Popularity": 277,
   "Ranking_PopularitySum": 251,
   "Ranking_EOS_Progress": 774,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 491,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 490,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2020-12-28T16:00:00+00:00",
     "PcReleaseDate": "2015-01-23T16:00:00+00:00",
@@ -2719,11 +2719,17 @@
       "Rating": 4.22,
       "NumberOfAwards": 1152,
       "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-12-03T13:00:04.314371+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1154,
+      "NumberOfAwardsMax": 224
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1152,
-  "NumberOfAwardsMax": 223,
+  "NumberOfAwards": 1154,
+  "NumberOfAwardsMax": 224,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -2742,7 +2748,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 200
+      "Count": 201
     },
     {
       "Text": "This game is Relaxing",
@@ -2754,7 +2760,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 223
+      "Count": 224
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2798,8 +2804,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
-  "LastChanged": "2023-12-02T01:42:10.7716125+00:00",
+  "LastChanged": "2023-12-03T13:00:04.3143709+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:41.8513042+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:00:29.355639+00:00",
-  "LastUpdate_Achievements": "2023-12-03T12:03:59.456827+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:00:04.3143713+00:00",
+  "LastUpdate_Achievements": "2023-12-03T13:07:27.8854008+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 291,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1419,9 +1419,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6205,
+  "EOS_Progressed": 6206,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13794,6 +13794,11 @@
       "Time": "2023-12-03T11:09:31.5078195+00:00",
       "NumProgressed": 6205,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-03T13:13:30.5537437+00:00",
+      "NumProgressed": 6206,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -13829,7 +13834,7 @@
       "Name": "Happy Ending?",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -13885,7 +13890,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -13901,7 +13906,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2792
+      "UsersEstimate": 2793
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -13917,7 +13922,7 @@
       "Name": "Shackadelic",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -14061,7 +14066,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2854
+      "UsersEstimate": 2855
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -14124,15 +14129,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6205,
+      "Progressed": 6206,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-03T05:58:06.6554757+00:00",
-  "LastChanged_Achievements": "2023-12-03T12:10:03.7064528+00:00",
+  "LastChanged_Achievements": "2023-12-03T13:13:30.5537432+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:34.7926512+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:58:20.1415458+00:00",
-  "LastUpdate_Achievements": "2023-12-03T12:10:03.7065353+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:02:18.7391251+00:00",
+  "LastUpdate_Achievements": "2023-12-03T13:13:30.5538381+00:00"
 }

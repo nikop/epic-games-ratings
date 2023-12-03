@@ -6,9 +6,9 @@
   "Ranking_Popularity": 102,
   "Ranking_PopularitySum": 129,
   "Ranking_EOS_Progress": 68,
-  "Ranking_EOS_Completed": 251,
+  "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
     "PcReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -5023,10 +5023,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6368,
       "NumberOfAwardsMax": 2577
+    },
+    {
+      "Time": "2023-12-03T13:06:34.6694071+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6370,
+      "NumberOfAwardsMax": 2577
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6368,
+  "NumberOfAwards": 6370,
   "NumberOfAwardsMax": 2577,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5046,7 +5052,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 393
+      "Count": 395
     },
     {
       "Text": "This game has Challenging Combat",
@@ -5097,11 +5103,11 @@
       "Count": 393
     }
   ],
-  "EOS_Progressed": 233628,
-  "EOS_Completed": 549,
-  "EOS_NewPlayers": 5065,
-  "EOS_NewCompleters": 19,
-  "EOS_Completed_Percentage": 0.23,
+  "EOS_Progressed": 233694,
+  "EOS_Completed": 550,
+  "EOS_NewPlayers": 5071,
+  "EOS_NewCompleters": 20,
+  "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
       "Time": "2023-07-21T17:05:35.5618698+00:00",
@@ -21152,6 +21158,11 @@
       "Time": "2023-12-03T12:09:18.61675+00:00",
       "NumProgressed": 233628,
       "NumCompleted": 549
+    },
+    {
+      "Time": "2023-12-03T13:12:30.9251612+00:00",
+      "NumProgressed": 233694,
+      "NumCompleted": 550
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21244,7 +21255,7 @@
       "Name": "The Killing Jar",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -21282,9 +21293,9 @@
       "ID": "Defeat_World_Boss",
       "SetID": "bkp3b1a",
       "Name": "Quest for Survival",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 935
+      "UsersEstimate": 1168
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -21348,7 +21359,7 @@
       "Name": "First of Many",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -21474,9 +21485,9 @@
       "ID": "Obtain_Traits_B",
       "SetID": "bkp3b1a",
       "Name": "All These Traits\uFFFD",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 467
+      "UsersEstimate": 701
     },
     {
       "ID": "Obtain_Traits_C",
@@ -21603,22 +21614,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 233628,
-      "Completed": 549
+      "Progressed": 233694,
+      "Completed": 550
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 12793,
+      "Progressed": 12859,
       "Completed": 185
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-12-03T12:03:19.2990196+00:00",
-  "LastChanged_Achievements": "2023-12-03T12:09:18.6167496+00:00",
+  "LastChanged": "2023-12-03T13:06:34.6694066+00:00",
+  "LastChanged_Achievements": "2023-12-03T13:12:30.9251607+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-03T12:03:19.2990201+00:00",
-  "LastUpdate_Achievements": "2023-12-03T12:09:18.6168419+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:06:34.6694075+00:00",
+  "LastUpdate_Achievements": "2023-12-03T13:12:30.9252654+00:00"
 }

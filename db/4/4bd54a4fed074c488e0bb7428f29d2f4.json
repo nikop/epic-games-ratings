@@ -2,10 +2,10 @@
   "ID": "4bd54a4fed074c488e0bb7428f29d2f4",
   "Name": "1428: Shadows over Silesia",
   "ProductSlug": "1428-shadows-over-silesia-266e5f",
-  "Ranking_EOS_Progress": 611,
+  "Ranking_EOS_Progress": 600,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 318,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2022-10-04T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10,
+  "EOS_Progressed": 12,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -68,6 +68,11 @@
     {
       "Time": "2023-12-02T16:04:44.8327005+00:00",
       "NumProgressed": 10,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T13:07:47.8907086+00:00",
+      "NumProgressed": 12,
       "NumCompleted": 0
     }
   ],
@@ -151,9 +156,9 @@
       "ID": "SOS_BURN_HENNERSDORF",
       "SetID": "6ci4lm2",
       "Name": "Red rooster",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SOS_DEAD_END",
@@ -191,7 +196,7 @@
       "ID": "SOS_EVERYBODYS_DEAD",
       "SetID": "6ci4lm2",
       "Name": "Everybody\u0027s dead, Dave",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -231,9 +236,9 @@
       "ID": "SOS_FIRST_BLOOD",
       "SetID": "6ci4lm2",
       "Name": "First blood",
-      "Percentage": 50,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "SOS_FISH",
@@ -247,7 +252,7 @@
       "ID": "SOS_FOR_GLORY_OF_GOD",
       "SetID": "6ci4lm2",
       "Name": "For the glory of God",
-      "Percentage": 10,
+      "Percentage": 8,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -279,7 +284,7 @@
       "ID": "SOS_HEADACHE",
       "SetID": "6ci4lm2",
       "Name": "By fire and blood",
-      "Percentage": 30,
+      "Percentage": 25,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -311,9 +316,9 @@
       "ID": "SOS_HE_WILL_REMEMBER",
       "SetID": "6ci4lm2",
       "Name": "He will remember that",
-      "Percentage": 10,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SOS_INFERNAL_TONES",
@@ -327,7 +332,7 @@
       "ID": "SOS_ITS_TRAP",
       "SetID": "6ci4lm2",
       "Name": "It\u0027s a trap!",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -447,7 +452,7 @@
       "ID": "SOS_POISON",
       "SetID": "6ci4lm2",
       "Name": "Last cup",
-      "Percentage": 10,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -455,7 +460,7 @@
       "ID": "SOS_PRISON_BREAK",
       "SetID": "6ci4lm2",
       "Name": "At the bottom",
-      "Percentage": 10,
+      "Percentage": 8,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -551,7 +556,7 @@
       "ID": "SOS_WE_HAVE_TO_STOP_THEM",
       "SetID": "6ci4lm2",
       "Name": "We have to stop them",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -576,14 +581,14 @@
     {
       "ID": "6ci4lm2",
       "IsBase": true,
-      "Progressed": 10,
+      "Progressed": 12,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-12-03T12:04:15.0055984+00:00",
+  "LastChanged_Achievements": "2023-12-03T13:07:47.8907081+00:00",
   "LastUpdate_AppInfo": "2023-11-27T15:57:06.6652579+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:58:16.2321134+00:00",
-  "LastUpdate_Achievements": "2023-12-03T12:04:15.0056352+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:02:13.2556871+00:00",
+  "LastUpdate_Achievements": "2023-12-03T13:07:47.8907471+00:00"
 }

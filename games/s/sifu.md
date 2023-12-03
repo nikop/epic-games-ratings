@@ -17,13 +17,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Lightning Hands | 0.70% | ~5,024 |
 | A Lady's Blood in the Snow | 0.60% | ~4,306 |
 | Lady Wing Chun | 0.60% | ~4,306 |
+| Kill Nil | 0.60% | ~4,306 |
 | Street Fighting | 0.60% | ~4,306 |
 | Qi Gong: Essence | 0.60% | ~4,306 |
 | Path of the Prospect | 0.60% | ~4,306 |
 | Rumble in the Hangar | 0.60% | ~4,306 |
 | Fight the way you practice | 0.60% | ~162 |
 | Furious Fists | 0.50% | ~3,589 |
-| Kill Nil | 0.50% | ~3,589 |
 | Stuntmaster | 0.50% | ~3,589 |
 | Old Child | 0.50% | ~3,589 |
 | Take damage to save time | 0.50% | ~3,589 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,734 (Ranked 22)  
+Progressed: 717,741 (Ranked 22)  
 Completed: 12,943 (1.80%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,10 +294,10 @@ Completed: 12,943 (1.80%) (Ranked 134)
 | 2023-11-30 | 717,650 | 12,941 |
 | 2023-12-01 | 717,685 | 12,942 |
 | 2023-12-02 | 717,716 | 12,943 |
-| 2023-12-03 | 717,734 | 12,943 |
+| 2023-12-03 | 717,741 | 12,943 |
 ## Awards
 Max (Great Boss Battles): 6,870  (Ranked 55)  
-Sum: 12,042 (Ranked 83)  
+Sum: 12,043 (Ranked 83)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
@@ -310,7 +310,7 @@ Diff (max vs sum): -28
 | This game is Highly Recommended | 577 |
 | This game is Extremely Fun | 568 |
 | This game has Unique Visuals | 562 |
-| This game has a Creative Community | 427 |
+| This game has a Creative Community | 428 |
 | This game is Relaxing | 401 |
 | This game has Obsessive Gameplay | 293 |
 ## Ratings History
@@ -635,4 +635,4 @@ Diff (max vs sum): -28
 | 2023-11-30 | 4.82 | - | 6,858 | 12,017 |
 | 2023-12-01 | 4.82 | - | 6,864 | 12,030 |
 | 2023-12-02 | 4.82 | - | 6,864 | 12,035 |
-| 2023-12-03 | 4.82 | - | 6,870 | 12,042 |
+| 2023-12-03 | 4.82 | - | 6,870 | 12,043 |

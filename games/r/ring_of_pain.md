@@ -79,6 +79,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Obsessed | 0.20% | ~481 |
 | Sentimental Value | 0.20% | ~481 |
 | Precious | 0.20% | ~481 |
+| Nuclear | 0.20% | ~4 |
 | Raw Power | 0.20% | ~4 |
 | Quick Descent | 0.10% | ~241 |
 | A Week Attempt | 0.10% | ~241 |
@@ -142,10 +143,9 @@ Number of Ratings: 15,086  (23.09.2022)
 | Multiclass | 0.10% | ~2 |
 | Stalker | 0.10% | ~2 |
 | Brute | 0.10% | ~2 |
-| Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,563 (Ranked 64)  
+Progressed: 240,569 (Ranked 64)  
 Completed: 292 (0.12%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -372,7 +372,7 @@ Completed: 292 (0.12%) (Ranked 280)
 | 2023-11-30 | 240,445 | 291 |
 | 2023-12-01 | 240,480 | 291 |
 | 2023-12-02 | 240,522 | 291 |
-| 2023-12-03 | 240,563 | 292 |
+| 2023-12-03 | 240,569 | 292 |
 ## Awards
 Max (Quickly Understood Controls): 1,505  (Ranked 132)  
 Sum: 11,706 (Ranked 84)  

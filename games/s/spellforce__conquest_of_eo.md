@@ -29,9 +29,9 @@
 | Friend of Gillyshire | 18.00% | ~7 |
 | Friend of Connach | 18.00% | ~7 |
 | Friend of Bastion | 18.00% | ~7 |
+| Break Free | 18.00% | ~7 |
 | Philo's Tale | 16.00% | ~6 |
 | Stormwatch Faste | 16.00% | ~6 |
-| Break Free | 16.00% | ~6 |
 | Defeat Gor | 13.00% | ~5 |
 | Friend of Orgash | 13.00% | ~5 |
 | Magic Academy | 13.00% | ~5 |

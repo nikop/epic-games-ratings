@@ -1,26 +1,26 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 422)  
+Rating: 4.60 (Ranked 423)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Having A Field Day | 76.00% | ~5,385 |
-| Get A Room | 75.00% | ~5,314 |
-| Reap What You Sow | 73.00% | ~5,173 |
-| The First Day | 70.00% | ~4,960 |
-| Novice Researcher | 68.00% | ~4,818 |
+| Having A Field Day | 76.00% | ~5,386 |
+| Get A Room | 75.00% | ~5,315 |
+| Reap What You Sow | 73.00% | ~5,174 |
+| The First Day | 70.00% | ~4,961 |
+| Novice Researcher | 68.00% | ~4,819 |
 | Green Thumb | 67.00% | ~4,748 |
-| Home Cooked Meal | 61.00% | ~4,322 |
+| Home Cooked Meal | 61.00% | ~4,323 |
 | Onward | 58.00% | ~4,110 |
-| The First Week | 55.00% | ~3,897 |
+| The First Week | 55.00% | ~3,898 |
 | Studious Researcher | 53.00% | ~3,756 |
 | Beam Me Up | 52.00% | ~3,685 |
-| Putting Food on the Table | 47.00% | ~3,330 |
+| Putting Food on the Table | 47.00% | ~3,331 |
 | Adept Researcher | 45.00% | ~3,189 |
-| Retribution | 42.00% | ~2,976 |
-| ...And Don’t Come Back! | 42.00% | ~2,976 |
+| Retribution | 42.00% | ~2,977 |
+| ...And Don’t Come Back! | 42.00% | ~2,977 |
 | Feast or Famine | 38.00% | ~2,693 |
 | Heating Up | 32.00% | ~2,268 |
 | Luminary Researcher | 31.00% | ~2,197 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~142 |
 | Wabbit Season | 0.50% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,086 (Ranked 182)  
+Progressed: 7,087 (Ranked 182)  
 Completed: 14 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,10 +244,10 @@ Completed: 14 (0.20%) (Ranked 257)
 | 2023-11-30 | 7,043 | 14 |
 | 2023-12-01 | 7,062 | 14 |
 | 2023-12-02 | 7,078 | 14 |
-| 2023-12-03 | 7,086 | 14 |
+| 2023-12-03 | 7,087 | 14 |
 ## Awards
 Max (Great for Beginners): 126  (Ranked 337)  
-Sum: 1,030 (Ranked 260)  
+Sum: 1,031 (Ranked 260)  
 Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
@@ -260,7 +260,7 @@ Diff (max vs sum): 77
 | This game has Amazing Characters | 97 |
 | This game has Amazing Storytelling | 88 |
 | This game has Unique Visuals | 87 |
-| This game has a Creative Community | 72 |
+| This game has a Creative Community | 73 |
 | This game has Obsessive Gameplay | 56 |
 | This game is Educational | 21 |
 ## Ratings History
@@ -426,4 +426,4 @@ Diff (max vs sum): 77
 | 2023-11-26 | 4.60 | - | 126 | 1,025 |
 | 2023-11-28 | 4.60 | - | 126 | 1,026 |
 | 2023-11-30 | 4.60 | - | 126 | 1,029 |
-| 2023-12-03 | 4.60 | - | 126 | 1,030 |
+| 2023-12-03 | 4.60 | - | 126 | 1,031 |

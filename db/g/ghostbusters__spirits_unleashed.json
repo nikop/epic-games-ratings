@@ -4,11 +4,11 @@
   "ProductSlug": "ghostbusters-spirits-unleashed",
   "Ranking_Rating": 592,
   "Ranking_Popularity": 251,
-  "Ranking_PopularitySum": 179,
+  "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3609,9 +3609,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31862,
+  "EOS_Progressed": 31864,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -21214,6 +21214,11 @@
       "Time": "2023-12-03T12:06:12.7971782+00:00",
       "NumProgressed": 31862,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-03T13:10:31.1970868+00:00",
+      "NumProgressed": 31864,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -21265,7 +21270,7 @@
       "Name": "Clutch Capture",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "Collect_Spores",
@@ -21289,7 +21294,7 @@
       "Name": "Cultured",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "Daily_Dose",
@@ -21585,7 +21590,7 @@
       "Name": "There you are!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "Tobins_Prodigy",
@@ -21609,7 +21614,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "Welcome_Crew",
@@ -21625,14 +21630,14 @@
       "Name": "Whoopsie",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31862,
+      "Progressed": 31864,
       "Completed": 69
     }
   ],
@@ -21640,8 +21645,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-02T17:01:35.0121715+00:00",
-  "LastChanged_Achievements": "2023-12-03T12:06:12.7971779+00:00",
+  "LastChanged_Achievements": "2023-12-03T13:10:31.1970861+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:17.1930733+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:57:07.6467428+00:00",
-  "LastUpdate_Achievements": "2023-12-03T12:06:12.7973128+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:00:22.0591655+00:00",
+  "LastUpdate_Achievements": "2023-12-03T13:10:31.1971972+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "28eda6de701c47dfbbe6255fcee8aa65",
   "Name": "High On Life",
   "ProductSlug": "high-on-life-3a855b",
-  "Ranking_Rating": 334,
+  "Ranking_Rating": 335,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -7295,9 +7295,9 @@
       "ID": "ACH_GET_GUS",
       "SetID": "cdkbb11",
       "Name": "Satisfied Gus-tomer",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 739
+      "UsersEstimate": 985
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -7614,8 +7614,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-11-08T23:02:28.6590221+00:00",
-  "LastChanged_Achievements": "2023-12-03T12:04:07.046671+00:00",
+  "LastChanged_Achievements": "2023-12-03T13:07:37.4125516+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:04.790571+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:59:17.984724+00:00",
-  "LastUpdate_Achievements": "2023-12-03T12:04:07.0467215+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:03:40.2034856+00:00",
+  "LastUpdate_Achievements": "2023-12-03T13:07:37.4126046+00:00"
 }

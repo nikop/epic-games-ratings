@@ -1481,9 +1481,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 429373,
+  "EOS_Progressed": 429374,
   "EOS_Completed": 550,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -16361,6 +16361,11 @@
       "Time": "2023-12-03T12:08:12.3001699+00:00",
       "NumProgressed": 429373,
       "NumCompleted": 550
+    },
+    {
+      "Time": "2023-12-03T13:11:19.4850139+00:00",
+      "NumProgressed": 429374,
+      "NumCompleted": 550
     }
   ],
   "TotalAchievements": 41,
@@ -16380,7 +16385,7 @@
       "Name": "Harness Your Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 167455
+      "UsersEstimate": 167456
     },
     {
       "ID": "ACH_ABILITY_BOW",
@@ -16404,7 +16409,7 @@
       "Name": "Restore Balance",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 107343
+      "UsersEstimate": 107344
     },
     {
       "ID": "ACH_BOSS_TARO",
@@ -16508,7 +16513,7 @@
       "Name": "Between the Eyes",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 201805
+      "UsersEstimate": 201806
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -16540,7 +16545,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 407904
+      "UsersEstimate": 407905
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -16572,7 +16577,7 @@
       "Name": "Into the Woods",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 300561
+      "UsersEstimate": 300562
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -16588,7 +16593,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 343498
+      "UsersEstimate": 343499
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -16644,7 +16649,7 @@
       "Name": "Toshi\u0027s Fear",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 120224
+      "UsersEstimate": 120225
     },
     {
       "ID": "ACH_RELIC_KNIFE",
@@ -16660,7 +16665,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 188924
+      "UsersEstimate": 188925
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -16699,15 +16704,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 429373,
+      "Progressed": 429374,
       "Completed": 550
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-11-28T07:57:38.5040997+00:00",
-  "LastChanged_Achievements": "2023-12-03T12:08:12.3001696+00:00",
+  "LastChanged_Achievements": "2023-12-03T13:11:19.4850136+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:49.1718908+00:00",
-  "LastUpdate_Ratings": "2023-12-03T12:02:36.0623535+00:00",
-  "LastUpdate_Achievements": "2023-12-03T12:08:12.3002647+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:05:11.5896602+00:00",
+  "LastUpdate_Achievements": "2023-12-03T13:11:19.4850924+00:00"
 }

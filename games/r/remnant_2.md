@@ -5,15 +5,15 @@ Rating: 4.75 (Ranked 149)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 0.70% | ~1,635 |
-| First of Many | 0.70% | ~1,635 |
+| The Killing Jar | 0.70% | ~1,636 |
+| First of Many | 0.70% | ~1,636 |
 | Regicide | 0.70% | ~90 |
 | Master of the Dark Arts | 0.70% | ~90 |
 | Expanding Horizons | 0.50% | ~1,168 |
+| Quest for Survival | 0.50% | ~1,168 |
 | Not Your Average Trait | 0.50% | ~1,168 |
 | Gleaming the Cube | 0.40% | ~935 |
 | Not So Special Now | 0.40% | ~935 |
-| Quest for Survival | 0.40% | ~935 |
 | Not a Janitor | 0.40% | ~935 |
 | Familiar Face | 0.40% | ~935 |
 | Duality | 0.40% | ~935 |
@@ -31,6 +31,7 @@ Rating: 4.75 (Ranked 149)
 | Shhh...It's a Secret | 0.30% | ~701 |
 | Was This Supposed To Happen? | 0.30% | ~701 |
 | Scrap Collector | 0.30% | ~701 |
+| All These Traits� | 0.30% | ~701 |
 | Almost There | 0.30% | ~701 |
 | Make Some Room | 0.30% | ~701 |
 | Good, But Could Be Better! | 0.30% | ~701 |
@@ -48,7 +49,6 @@ Rating: 4.75 (Ranked 149)
 | The Web | 0.20% | ~467 |
 | The Collector | 0.20% | ~467 |
 | Scrap Hoarder | 0.20% | ~467 |
-| All These Traits� | 0.20% | ~467 |
 | Carnage in C-Minor | 0.20% | ~467 |
 | The Ultimate Weapon | 0.20% | ~467 |
 | No One Should Have All That Power | 0.20% | ~467 |
@@ -61,8 +61,8 @@ Rating: 4.75 (Ranked 149)
 | Maxed Out! | 0.10% | ~234 |
 | A Foul Feast | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,628 (Ranked 68)  
-Completed: 549 (0.23%) (Ranked 251)  
+Progressed: 233,694 (Ranked 68)  
+Completed: 550 (0.24%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -201,10 +201,10 @@ Completed: 549 (0.23%) (Ranked 251)
 | 2023-11-30 | 231,406 | 542 |
 | 2023-12-01 | 232,269 | 546 |
 | 2023-12-02 | 233,162 | 548 |
-| 2023-12-03 | 233,628 | 549 |
+| 2023-12-03 | 233,694 | 550 |
 ## Awards
 Max (Great Boss Battles): 2,577  (Ranked 102)  
-Sum: 6,368 (Ranked 129)  
+Sum: 6,370 (Ranked 129)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
@@ -212,7 +212,7 @@ Diff (max vs sum): -27
 | This game has Diverse Characters | 421 |
 | This game is Highly Recommended | 416 |
 | This game has Challenging Combat | 402 |
-| This game is Extremely Fun | 393 |
+| This game is Extremely Fun | 395 |
 | This game is Relaxing | 393 |
 | This game has Amazing Storytelling | 389 |
 | This game has Amazing Characters | 382 |
@@ -352,4 +352,4 @@ Diff (max vs sum): -27
 | 2023-11-30 | 4.75 | 2,533 | 6,208 |
 | 2023-12-01 | 4.75 | 2,558 | 6,266 |
 | 2023-12-02 | 4.75 | 2,577 | 6,336 |
-| 2023-12-03 | 4.75 | 2,577 | 6,368 |
+| 2023-12-03 | 4.75 | 2,577 | 6,370 |

@@ -227,6 +227,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Five Colonies | 0.10% | ~468 |
 | The Grand Armada | 0.10% | ~468 |
 | The Navigator | 0.10% | ~468 |
+| The Ostenders | 0.10% | ~468 |
 | The pen is mightier than the sword | 0.10% | ~468 |
 | The Pheasant Strut | 0.10% | ~468 |
 | The Power of Three | 0.10% | ~468 |
@@ -350,7 +351,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Freest Man in the World | 0.00% | ~0 |
 | The Great Khan | 0.00% | ~0 |
 | The League of Mayapan | 0.00% | ~0 |
-| The Ostenders | 0.00% | ~0 |
 | The Third Way | 0.00% | ~0 |
 | The Three Mountains | 0.00% | ~0 |
 | Tiger of Mysore | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 468,372 (Ranked 41)  
+Progressed: 468,429 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -597,16 +597,16 @@ Completed: 1 (0.00%) (Ranked 365)
 | 2023-11-30 | 466,525 | 1 |
 | 2023-12-01 | 467,159 | 1 |
 | 2023-12-02 | 467,938 | 1 |
-| 2023-12-03 | 468,372 | 1 |
+| 2023-12-03 | 468,429 | 1 |
 ## Awards
 Max (Educational): 7,242  (Ranked 54)  
-Sum: 59,633 (Ranked 24)  
+Sum: 59,648 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,242 |
 | This game has Diverse Characters | 7,002 |
-| This game is Highly Recommended | 6,939 |
+| This game is Highly Recommended | 6,954 |
 | This game has Challenging Combat | 6,876 |
 | This game is Extremely Fun | 6,816 |
 | This game is Relaxing | 6,666 |
@@ -937,4 +937,4 @@ Diff (max vs sum): 30
 | 2023-11-30 | 4.69 | - | 7,217 | 59,362 |
 | 2023-12-01 | 4.69 | - | 7,225 | 59,450 |
 | 2023-12-02 | 4.69 | - | 7,225 | 59,576 |
-| 2023-12-03 | 4.69 | - | 7,242 | 59,633 |
+| 2023-12-03 | 4.69 | - | 7,242 | 59,648 |

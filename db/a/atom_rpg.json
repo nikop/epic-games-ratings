@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 483,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1326,
+  "EOS_Progressed": 1327,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3083,6 +3083,11 @@
       "Time": "2023-11-30T23:09:21.8819787+00:00",
       "NumProgressed": 1326,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T13:13:12.0974248+00:00",
+      "NumProgressed": 1327,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3150,7 +3155,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     },
     {
       "ID": "EXPERT_1",
@@ -3220,9 +3225,9 @@
       "ID": "LOVE_GURU_1",
       "SetID": "bf13m8j",
       "Name": "Love Guru",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 119
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -3246,7 +3251,7 @@
       "Name": "One HIT wonder",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -3254,7 +3259,7 @@
       "Name": "One shot, one kill",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "PACIFIST",
@@ -3381,15 +3386,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1326,
+      "Progressed": 1327,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-03T12:09:49.4690274+00:00",
+  "LastChanged_Achievements": "2023-12-03T13:13:12.0974244+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:27.5202671+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:59:56.0922029+00:00",
-  "LastUpdate_Achievements": "2023-12-03T12:09:49.4690557+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:04:32.4313245+00:00",
+  "LastUpdate_Achievements": "2023-12-03T13:13:12.0974554+00:00"
 }

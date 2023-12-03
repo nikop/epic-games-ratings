@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8531,
+  "EOS_Progressed": 8534,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7888,6 +7888,11 @@
       "Time": "2023-12-03T12:10:08.6535682+00:00",
       "NumProgressed": 8531,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T13:13:35.8982622+00:00",
+      "NumProgressed": 8534,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -8002,9 +8007,9 @@
       "ID": "FRUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded Fast Recharge to Level 3",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 60
     },
     {
       "ID": "GPurchased1",
@@ -8020,7 +8025,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2645
+      "UsersEstimate": 2646
     },
     {
       "ID": "GamesPlayed10",
@@ -8044,7 +8049,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1706
+      "UsersEstimate": 1707
     },
     {
       "ID": "GamesWon10",
@@ -8324,7 +8329,7 @@
       "Name": "Destroyed the Nexus",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "PlayerKills10",
@@ -8396,7 +8401,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1194
+      "UsersEstimate": 1195
     },
     {
       "ID": "SEUpgraded1",
@@ -8460,7 +8465,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "TSUPurchased1",
@@ -8491,7 +8496,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8531,
+      "Progressed": 8534,
       "Completed": 1
     }
   ],
@@ -8499,8 +8504,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-28T13:57:22.5296785+00:00",
-  "LastChanged_Achievements": "2023-12-03T12:10:08.653568+00:00",
+  "LastChanged_Achievements": "2023-12-03T13:13:35.8982618+00:00",
   "LastUpdate_AppInfo": "2023-11-28T15:57:00.1791972+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:59:42.401842+00:00",
-  "LastUpdate_Achievements": "2023-12-03T12:10:08.6536477+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:04:13.6314307+00:00",
+  "LastUpdate_Achievements": "2023-12-03T13:13:35.8983447+00:00"
 }

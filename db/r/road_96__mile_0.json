@@ -3,9 +3,9 @@
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 321,
-  "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 432,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_Completed": 216,
+  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 449,
+  "EOS_Progressed": 450,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.45,
+  "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:35.153611+00:00",
@@ -1527,6 +1527,11 @@
       "Time": "2023-12-01T16:09:54.6706689+00:00",
       "NumProgressed": 449,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-03T13:13:26.9591284+00:00",
+      "NumProgressed": 450,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1538,7 +1543,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 55,
       "XP": 60,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "completeact2",
@@ -1546,7 +1551,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 47,
       "XP": 80,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "completeact3",
@@ -1634,7 +1639,7 @@
       "Name": "The Eye of the Storm",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "scoreminrankrv1",
@@ -1657,7 +1662,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 449,
+      "Progressed": 450,
       "Completed": 2
     }
   ],
@@ -1665,8 +1670,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-03T12:10:00.9409385+00:00",
+  "LastChanged_Achievements": "2023-12-03T13:13:26.9591278+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:49.500918+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:58:49.5335438+00:00",
-  "LastUpdate_Achievements": "2023-12-03T12:10:00.9409541+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:03:00.6975682+00:00",
+  "LastUpdate_Achievements": "2023-12-03T13:13:26.9591453+00:00"
 }

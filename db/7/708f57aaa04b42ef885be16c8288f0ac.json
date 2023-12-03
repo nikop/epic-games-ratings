@@ -2,7 +2,7 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_Rating": 105,
+  "Ranking_Rating": 106,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 179,
@@ -177,7 +177,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7339,
+  "EOS_Progressed": 7347,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 688,
   "EOS_NewCompleters": 6,
@@ -5372,6 +5372,11 @@
       "Time": "2023-12-03T12:09:51.7128336+00:00",
       "NumProgressed": 7339,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-03T13:13:14.8956568+00:00",
+      "NumProgressed": 7347,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5392,7 +5397,7 @@
       "Name": "Baby Steps",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1615
+      "UsersEstimate": 1616
     },
     {
       "ID": "BeLikeWater",
@@ -5424,7 +5429,7 @@
       "Name": "Connection Lost",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "Eavesdropper",
@@ -5440,7 +5445,7 @@
       "Name": "Explosive Personality",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "FasterThanLight",
@@ -5456,7 +5461,7 @@
       "Name": "First Time?",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2128
+      "UsersEstimate": 2131
     },
     {
       "ID": "FuneralForTheDeath",
@@ -5464,7 +5469,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "GarbageMan",
@@ -5488,7 +5493,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -5528,7 +5533,7 @@
       "Name": "Nasty!",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1176
     },
     {
       "ID": "NoMoreTotems",
@@ -5576,7 +5581,7 @@
       "Name": "The Old-School Way",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1029
     },
     {
       "ID": "TheQuarterback",
@@ -5584,7 +5589,7 @@
       "Name": "The Quarterback",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1688
+      "UsersEstimate": 1690
     },
     {
       "ID": "ThisIsDharma",
@@ -5600,7 +5605,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "UnResurrected",
@@ -5616,7 +5621,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -5640,7 +5645,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "k01101110",
@@ -5648,14 +5653,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7339,
+      "Progressed": 7347,
       "Completed": 13
     }
   ],
@@ -5663,8 +5668,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-03T03:57:18.7575798+00:00",
-  "LastChanged_Achievements": "2023-12-03T12:09:51.7128332+00:00",
+  "LastChanged_Achievements": "2023-12-03T13:13:14.8956563+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:57:41.6354645+00:00",
-  "LastUpdate_Achievements": "2023-12-03T12:09:51.7128767+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:01:24.8442832+00:00",
+  "LastUpdate_Achievements": "2023-12-03T13:13:14.8956928+00:00"
 }

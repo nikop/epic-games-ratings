@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3532,9 +3532,9 @@
       "Count": 746
     }
   ],
-  "EOS_Progressed": 240563,
+  "EOS_Progressed": 240569,
   "EOS_Completed": 292,
-  "EOS_NewPlayers": 316,
+  "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -26972,6 +26972,11 @@
       "Time": "2023-12-03T12:10:08.785379+00:00",
       "NumProgressed": 240563,
       "NumCompleted": 292
+    },
+    {
+      "Time": "2023-12-03T13:13:36.3174134+00:00",
+      "NumProgressed": 240569,
+      "NumCompleted": 292
     }
   ],
   "TotalAchievements": 138,
@@ -28029,9 +28034,9 @@
       "ID": "KILLALLCREATURESINONETURN",
       "SetID": "1peahb6",
       "Name": "Nuclear",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "KILLBOSSINDIRECTLY",
@@ -28086,13 +28091,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240563,
+      "Progressed": 240569,
       "Completed": 292
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2043,
+      "Progressed": 2049,
       "Completed": 393
     }
   ],
@@ -28100,8 +28105,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-03T07:59:02.1621168+00:00",
-  "LastChanged_Achievements": "2023-12-03T12:10:08.7853788+00:00",
+  "LastChanged_Achievements": "2023-12-03T13:13:36.3174128+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:52.1458075+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:58:54.8192452+00:00",
-  "LastUpdate_Achievements": "2023-12-03T12:10:08.7856054+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:03:07.9769788+00:00",
+  "LastUpdate_Achievements": "2023-12-03T13:13:36.3176459+00:00"
 }

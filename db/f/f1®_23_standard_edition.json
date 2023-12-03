@@ -4,11 +4,11 @@
   "ProductSlug": "f1-23",
   "Ranking_Rating": 255,
   "Ranking_Popularity": 510,
-  "Ranking_PopularitySum": 450,
+  "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -673,10 +673,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 102,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2023-12-03T13:00:04.1318697+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 123,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 102,
+  "NumberOfAwards": 123,
   "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -715,9 +721,15 @@
       "Prefix": "This game is",
       "Type": "Extremely Fun",
       "Count": 23
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 21
     }
   ],
-  "EOS_Progressed": 6017,
+  "EOS_Progressed": 6018,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
@@ -6717,6 +6729,11 @@
       "Time": "2023-12-03T12:03:46.1264186+00:00",
       "NumProgressed": 6017,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T13:07:10.5986472+00:00",
+      "NumProgressed": 6018,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -6761,7 +6778,7 @@
       "Name": "Crucial Combo",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1203
+      "UsersEstimate": 1204
     },
     {
       "ID": "achievement_0006",
@@ -6769,7 +6786,7 @@
       "Name": "Setting up for Success",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4693
+      "UsersEstimate": 4694
     },
     {
       "ID": "achievement_0007",
@@ -6777,7 +6794,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 5656
+      "UsersEstimate": 5657
     },
     {
       "ID": "achievement_0008",
@@ -6785,7 +6802,7 @@
       "Name": "On the Top Step",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 5295
+      "UsersEstimate": 5296
     },
     {
       "ID": "achievement_0009",
@@ -6839,9 +6856,9 @@
       "ID": "achievement_0015",
       "SetID": "9123ogc",
       "Name": "Lightning Round the World",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 842
+      "UsersEstimate": 903
     },
     {
       "ID": "achievement_0016",
@@ -6889,7 +6906,7 @@
       "Name": "Team Orders",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 4573
+      "UsersEstimate": 4574
     },
     {
       "ID": "achievement_0022",
@@ -6905,7 +6922,7 @@
       "Name": "Sharing the Love",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2647
+      "UsersEstimate": 2648
     },
     {
       "ID": "achievement_0024",
@@ -6927,9 +6944,9 @@
       "ID": "achievement_0026",
       "SetID": "9123ogc",
       "Name": "Friendly Competition",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 722
+      "UsersEstimate": 782
     },
     {
       "ID": "achievement_0027",
@@ -6945,7 +6962,7 @@
       "Name": "Spinning Around",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "achievement_0029",
@@ -7065,7 +7082,7 @@
       "Name": "Familiar Faces",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2948
+      "UsersEstimate": 2949
     },
     {
       "ID": "achievement_0044",
@@ -7073,7 +7090,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 2587
+      "UsersEstimate": 2588
     },
     {
       "ID": "achievement_0045",
@@ -7081,7 +7098,7 @@
       "Name": "Making History",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1925
+      "UsersEstimate": 1926
     },
     {
       "ID": "achievement_0046",
@@ -7089,7 +7106,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "achievement_0047",
@@ -7120,16 +7137,16 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 6017,
+      "Progressed": 6018,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2023-12-03T11:00:29.230059+00:00",
-  "LastChanged_Achievements": "2023-12-03T12:03:46.1264182+00:00",
+  "LastChanged": "2023-12-03T13:00:04.1318695+00:00",
+  "LastChanged_Achievements": "2023-12-03T13:07:10.5986468+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:30.4962244+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:00:29.2300594+00:00",
-  "LastUpdate_Achievements": "2023-12-03T12:03:46.1264816+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:00:04.1318699+00:00",
+  "LastUpdate_Achievements": "2023-12-03T13:07:10.5987003+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 27,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -12745,10 +12745,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 59633,
       "NumberOfAwardsMax": 7242
+    },
+    {
+      "Time": "2023-12-03T13:03:42.9616413+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 59648,
+      "NumberOfAwardsMax": 7242
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 59633,
+  "NumberOfAwards": 59648,
   "NumberOfAwardsMax": 7242,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -12756,7 +12762,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 6939
+      "Count": 6954
     },
     {
       "Text": "This game has Challenging Combat",
@@ -12819,9 +12825,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 468372,
+  "EOS_Progressed": 468429,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4366,
+  "EOS_NewPlayers": 4365,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38869,6 +38875,11 @@
       "Time": "2023-12-03T12:06:11.9138424+00:00",
       "NumProgressed": 468372,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T13:10:30.7001264+00:00",
+      "NumProgressed": 468429,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -41270,9 +41281,9 @@
       "ID": "achievement_the_ostenders",
       "SetID": "8p2n7he",
       "Name": "The Ostenders",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 468
     },
     {
       "ID": "achievement_the_pen_is_mightier_than_the_sword",
@@ -41783,21 +41794,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 468372,
+      "Progressed": 468429,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 468372,
+      "Progressed": 468429,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-12-03T09:59:17.7035028+00:00",
-  "LastChanged_Achievements": "2023-12-03T12:06:11.9138422+00:00",
+  "LastChanged": "2023-12-03T13:03:42.9616413+00:00",
+  "LastChanged_Achievements": "2023-12-03T13:10:30.700126+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:21.5867549+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:59:20.5384309+00:00",
-  "LastUpdate_Achievements": "2023-12-03T12:06:11.9148966+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:03:42.9616417+00:00",
+  "LastUpdate_Achievements": "2023-12-03T13:10:30.7011704+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 407,
+  "EOS_Progressed": 408,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
@@ -967,6 +967,11 @@
       "Time": "2023-12-03T10:08:42.5492039+00:00",
       "NumProgressed": 407,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T13:12:20.5692898+00:00",
+      "NumProgressed": 408,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -987,7 +992,7 @@
       "Name": "Kronos Island Explorer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND2",
@@ -1035,7 +1040,7 @@
       "Name": "Combo Convert",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -1075,15 +1080,15 @@
       "Name": "Celestial Rain",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
       "SetID": "apihg0e",
       "Name": "Unknown Threat",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 335
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1091,7 +1096,7 @@
       "Name": "Speed Demon",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1131,7 +1136,7 @@
       "Name": "The Beginning",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -1201,9 +1206,9 @@
       "ID": "PORTAL_REPAIRED_ISLANAD3",
       "SetID": "apihg0e",
       "Name": "Chaos Island Memories",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD4",
@@ -1241,9 +1246,9 @@
       "ID": "SPEED_STATUS_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Hypersonic Hedgehog",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "SUB_CLEAR_ALL",
@@ -1298,14 +1303,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 407,
+      "Progressed": 408,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-03T12:09:10.5191752+00:00",
+  "LastChanged_Achievements": "2023-12-03T13:12:20.5692894+00:00",
   "LastUpdate_AppInfo": "2023-11-28T17:56:55.9843317+00:00",
-  "LastUpdate_Ratings": "2023-12-03T12:03:04.0866691+00:00",
-  "LastUpdate_Achievements": "2023-12-03T12:09:10.5192211+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:06:13.8734118+00:00",
+  "LastUpdate_Achievements": "2023-12-03T13:12:20.5693143+00:00"
 }

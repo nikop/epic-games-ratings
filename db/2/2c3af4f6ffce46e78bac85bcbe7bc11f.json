@@ -2,10 +2,10 @@
   "ID": "2c3af4f6ffce46e78bac85bcbe7bc11f",
   "Name": "Recollection",
   "ProductSlug": "recollection-71f3a4",
-  "Ranking_EOS_Progress": 436,
+  "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 370,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
     "PcReleaseDate": "2023-04-17T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 103,
+  "EOS_Progressed": 104,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.83,
+  "EOS_Completed_Percentage": 5.77,
   "EosHistory": [
     {
       "Time": "2023-06-14T15:00:16.7509072+00:00",
@@ -559,6 +559,11 @@
       "Time": "2023-12-02T01:47:41.122364+00:00",
       "NumProgressed": 103,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-03T13:10:01.3611402+00:00",
+      "NumProgressed": 104,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 26,
@@ -568,7 +573,7 @@
       "ID": "Bird",
       "SetID": "6j29jep",
       "Name": "Something free...",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 14
     },
@@ -602,7 +607,7 @@
       "Name": "Something gentle...",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Butterfly_Fragile",
@@ -616,7 +621,7 @@
       "ID": "Cloud",
       "SetID": "6j29jep",
       "Name": "Something ever-changing...",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 16
     },
@@ -632,7 +637,7 @@
       "ID": "Flower",
       "SetID": "6j29jep",
       "Name": "Something fully in bloom...",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 15
     },
@@ -656,7 +661,7 @@
       "ID": "Grass",
       "SetID": "6j29jep",
       "Name": "Something foundational...",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 16
     },
@@ -674,7 +679,7 @@
       "Name": "Somewhere to belong...",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Home_Fragile",
@@ -688,7 +693,7 @@
       "ID": "Moon",
       "SetID": "6j29jep",
       "Name": "Something to make you dream...",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 16
     },
@@ -704,7 +709,7 @@
       "ID": "Mountain",
       "SetID": "6j29jep",
       "Name": "Something monumental...",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 14
     },
@@ -720,7 +725,7 @@
       "ID": "Natural_Mode",
       "SetID": "6j29jep",
       "Name": "Something natural...",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 14
     },
@@ -728,7 +733,7 @@
       "ID": "Star",
       "SetID": "6j29jep",
       "Name": "Something to long for...",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 16
     },
@@ -744,7 +749,7 @@
       "ID": "Tree",
       "SetID": "6j29jep",
       "Name": "Something firmly rooted...",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 15
     },
@@ -762,7 +767,7 @@
       "Name": "Something reflective...",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Water_Fragile",
@@ -777,14 +782,14 @@
     {
       "ID": "6j29jep",
       "IsBase": true,
-      "Progressed": 103,
+      "Progressed": 104,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-09-01T05:01:10.2908706+00:00",
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-12-03T12:05:49.6703739+00:00",
+  "LastChanged_Achievements": "2023-12-03T13:10:01.3611398+00:00",
   "LastUpdate_AppInfo": "2023-11-30T02:19:33.7243384+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:58:33.9457206+00:00",
-  "LastUpdate_Achievements": "2023-12-03T12:05:49.6703957+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:02:38.4092689+00:00",
+  "LastUpdate_Achievements": "2023-12-03T13:10:01.361159+00:00"
 }

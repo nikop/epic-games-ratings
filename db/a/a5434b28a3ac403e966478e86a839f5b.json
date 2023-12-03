@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 579,
+  "EOS_Progressed": 580,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.38,
   "EosHistory": [
@@ -1900,6 +1900,11 @@
       "Time": "2023-12-02T20:05:32.5280829+00:00",
       "NumProgressed": 579,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-03T13:08:26.7595832+00:00",
+      "NumProgressed": 580,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1912,7 +1917,7 @@
       "Name": "Assassinate the Makron",
       "Percentage": 17,
       "XP": 120,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_eou1",
@@ -1920,7 +1925,7 @@
       "Name": "Establish Communications",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH_eou2",
@@ -1928,7 +1933,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_eou3",
@@ -2015,14 +2020,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 579,
+      "Progressed": 580,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-03T12:04:44.9030373+00:00",
+  "LastChanged_Achievements": "2023-12-03T13:08:26.7595826+00:00",
   "LastUpdate_AppInfo": "2023-12-01T02:57:04.7742385+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:57:42.6290856+00:00",
-  "LastUpdate_Achievements": "2023-12-03T12:04:44.9030584+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:01:26.3185708+00:00",
+  "LastUpdate_Achievements": "2023-12-03T13:08:26.7596031+00:00"
 }

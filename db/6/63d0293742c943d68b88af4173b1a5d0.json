@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 343,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1256,9 +1256,9 @@
       "ID": "Remake_19",
       "SetID": "5pi96jj",
       "Name": "Pan Head",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 14
     },
     {
       "ID": "Remake_20",
@@ -1295,8 +1295,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-03T12:06:20.5365143+00:00",
+  "LastChanged_Achievements": "2023-12-03T13:10:41.082257+00:00",
   "LastUpdate_AppInfo": "2023-11-27T21:57:11.1049797+00:00",
-  "LastUpdate_Ratings": "2023-12-03T12:02:42.6082017+00:00",
-  "LastUpdate_Achievements": "2023-12-03T12:06:20.5365356+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:05:21.3414681+00:00",
+  "LastUpdate_Achievements": "2023-12-03T13:10:41.0822755+00:00"
 }

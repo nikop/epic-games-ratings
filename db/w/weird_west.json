@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 2016,
+  "EOS_Progressed": 2017,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2826,6 +2826,11 @@
       "Time": "2023-12-01T22:03:44.1390051+00:00",
       "NumProgressed": 2016,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-03T13:08:51.8356079+00:00",
+      "NumProgressed": 2017,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2837,7 +2842,7 @@
       "Name": "Chain Reaction",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
@@ -2933,7 +2938,7 @@
       "Name": "Ghost Town",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_GOLD_DIGGER",
@@ -2989,7 +2994,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 1189
+      "UsersEstimate": 1190
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -3005,7 +3010,7 @@
       "Name": "Lord Inut Sends His Regards",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_LOYALTY_TO_THE_PACK",
@@ -3013,7 +3018,7 @@
       "Name": "Loyalty to the Pack",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_MAN_IN_BLACK",
@@ -3021,7 +3026,7 @@
       "Name": "Eternity Can Wait",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_MA_BARKER",
@@ -3045,7 +3050,7 @@
       "Name": "Moondrunk",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_MOON_HUNTER",
@@ -3061,7 +3066,7 @@
       "Name": "Mystery Machine",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_OFF_THE_TRAIL",
@@ -3069,7 +3074,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -3085,7 +3090,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -3133,7 +3138,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1431
+      "UsersEstimate": 1432
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -3213,7 +3218,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -3221,7 +3226,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -3260,15 +3265,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 2016,
+      "Progressed": 2017,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-11-26T10:59:42.9428977+00:00",
-  "LastChanged_Achievements": "2023-12-03T12:04:56.6424208+00:00",
+  "LastChanged_Achievements": "2023-12-03T13:08:51.8356073+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:26.6657181+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:59:54.6131178+00:00",
-  "LastUpdate_Achievements": "2023-12-03T12:04:56.6424753+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:04:30.1601243+00:00",
+  "LastUpdate_Achievements": "2023-12-03T13:08:51.8356752+00:00"
 }

@@ -262,7 +262,7 @@ Completed: 2 (0.06%) (Ranked 310)
 | 2023-12-03 | 3,101 | 2 |
 ## Awards
 Max (Highly Recommended): 58  (Ranked 419)  
-Sum: 556 (Ranked 320)  
+Sum: 557 (Ranked 320)  
 Diff (max vs sum): 99  
 | Award | Count |
 | ----- | ----- |
@@ -277,7 +277,7 @@ Diff (max vs sum): 99
 | This game is Relaxing | 44 |
 | This game has Quickly Understood Controls | 39 |
 | This game is Educational | 37 |
-| This game has Challenging Combat | 30 |
+| This game has Challenging Combat | 31 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -458,3 +458,4 @@ Diff (max vs sum): 99
 | 2023-11-28 | 4.69 | - | 58 | 554 |
 | 2023-12-01 | 4.69 | - | 58 | 555 |
 | 2023-12-02 | 4.69 | - | 58 | 556 |
+| 2023-12-03 | 4.69 | - | 58 | 557 |

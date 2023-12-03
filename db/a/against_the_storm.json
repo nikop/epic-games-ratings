@@ -14768,9 +14768,9 @@
       "ID": "WinNearArmory",
       "SetID": "cfbk359",
       "Name": "Ruined Armory",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "WinNearBandit",
@@ -15136,8 +15136,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-02T05:00:23.9654103+00:00",
-  "LastChanged_Achievements": "2023-12-03T12:09:16.7905837+00:00",
+  "LastChanged_Achievements": "2023-12-03T13:12:28.6530709+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:14.3162798+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:57:13.55544+00:00",
-  "LastUpdate_Achievements": "2023-12-03T12:09:16.7906583+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:00:36.7123296+00:00",
+  "LastUpdate_Achievements": "2023-12-03T13:12:28.6531633+00:00"
 }

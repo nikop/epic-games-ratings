@@ -50,14 +50,15 @@
 | Mom got better | 40.00% | ~143 |
 | The die is cast | 40.00% | ~143 |
 | Get out of my apartment! | 39.00% | ~140 |
+| Seashell hunter | 38.00% | ~136 |
 | Gang wrangler | 37.00% | ~132 |
-| Seashell hunter | 37.00% | ~132 |
 | Undercover robot | 37.00% | ~132 |
 | Problems of cyborgs | 36.00% | ~129 |
 | Absolute Champion! | 36.00% | ~129 |
 | Not little hacker | 35.00% | ~125 |
 | Your own way | 35.00% | ~125 |
 | Trap disarmed | 34.00% | ~122 |
+| Another world | 34.00% | ~122 |
 | The lonesome road | 34.00% | ~122 |
 | Keep nature safe | 34.00% | ~122 |
 | Family comes first | 34.00% | ~122 |
@@ -65,10 +66,9 @@
 | Careerist | 34.00% | ~122 |
 | Anyone can resist | 34.00% | ~122 |
 | The heart of the Resistance | 34.00% | ~122 |
-| Another world | 33.00% | ~118 |
 | The last bell ring | 32.00% | ~115 |
+| Better cooking at home | 31.00% | ~111 |
 | Silver’s past | 30.00% | ~107 |
-| Better cooking at home | 30.00% | ~107 |
 | The only right decision | 30.00% | ~107 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 358 (Ranked 336)  

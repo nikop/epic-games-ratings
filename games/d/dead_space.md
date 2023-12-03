@@ -1,7 +1,7 @@
 # Dead Space
 [Store](https://store.epicgames.com/en-US/p/dead-space)  
 [View Rawdata](../../db/d/dead_space.json)  
-Rating: 4.64 (Ranked 334)  
+Rating: 4.64 (Ranked 335)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,7 +9,7 @@ Rating: 4.64 (Ranked 334)
 | Welcome Aboard | 86.00% | ~1,811 |
 | Lab Rat | 76.00% | ~1,601 |
 | All Systems Go | 67.00% | ~1,411 |
-| Brute Force | 66.00% | ~1,390 |
+| Brute Force | 67.00% | ~1,411 |
 | Cannon Fodder | 62.00% | ~1,306 |
 | Autofire | 58.00% | ~1,221 |
 | True Believer | 58.00% | ~1,221 |
@@ -136,8 +136,8 @@ Completed: 13 (0.62%) (Ranked 190)
 | 2023-12-03 | 2,106 | 13 |
 ## Awards
 Max (Great Boss Battles): 117  (Ranked 345)  
-Sum: 117 (Ranked 441)  
-Diff (max vs sum): -96  
+Sum: 117 (Ranked 442)  
+Diff (max vs sum): -97  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 117 |

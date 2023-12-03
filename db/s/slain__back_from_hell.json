@@ -244,9 +244,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 41387,
+  "EOS_Progressed": 41392,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 377,
+  "EOS_NewPlayers": 378,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -24954,6 +24954,11 @@
       "Time": "2023-12-03T12:03:28.7977019+00:00",
       "NumProgressed": 41387,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-12-03T13:06:48.3414621+00:00",
+      "NumProgressed": 41392,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 29,
@@ -24965,7 +24970,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6208
+      "UsersEstimate": 6209
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -24973,7 +24978,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8691
+      "UsersEstimate": 8692
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -24997,7 +25002,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -25013,7 +25018,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -25037,7 +25042,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2069
+      "UsersEstimate": 2070
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -25109,7 +25114,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1656
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -25117,7 +25122,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2483
+      "UsersEstimate": 2484
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -25125,7 +25130,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2483
+      "UsersEstimate": 2484
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -25196,7 +25201,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 41387,
+      "Progressed": 41392,
       "Completed": 27
     }
   ],
@@ -25204,8 +25209,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-02T18:57:45.107059+00:00",
-  "LastChanged_Achievements": "2023-12-03T12:03:28.7977016+00:00",
+  "LastChanged_Achievements": "2023-12-03T13:06:48.3414617+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:11.7949704+00:00",
-  "LastUpdate_Ratings": "2023-12-03T11:57:43.008799+00:00",
-  "LastUpdate_Achievements": "2023-12-03T12:03:28.7978313+00:00"
+  "LastUpdate_Ratings": "2023-12-03T13:01:26.8357052+00:00",
+  "LastUpdate_Achievements": "2023-12-03T13:06:48.3415897+00:00"
 }

@@ -579,7 +579,7 @@ Completed: 5 (0.03%) (Ranked 328)
 | 2023-12-03 | 15,609 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
-Sum: 1,884 (Ranked 220)  
+Sum: 1,885 (Ranked 220)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
@@ -588,7 +588,7 @@ Diff (max vs sum): 54
 | This game is Highly Recommended | 219 |
 | This game is Extremely Fun | 216 |
 | This game is Educational | 212 |
-| This game has Challenging Combat | 203 |
+| This game has Challenging Combat | 204 |
 | This game has Amazing Characters | 197 |
 | This game has Amazing Storytelling | 195 |
 | This game has Quickly Understood Controls | 194 |
@@ -766,3 +766,4 @@ Diff (max vs sum): 54
 | 2023-11-29 | 4.65 | - | 228 | 1,882 |
 | 2023-12-01 | 4.65 | - | 228 | 1,883 |
 | 2023-12-02 | 4.65 | - | 228 | 1,884 |
+| 2023-12-03 | 4.65 | - | 228 | 1,885 |

@@ -28,13 +28,13 @@
 | Integration | 4.00% | ~34 |
 | Trickshot | 2.00% | ~17 |
 | Destruction | 1.00% | ~8 |
+| Hard Boiled | 0.60% | ~5 |
 | Ripperdoc | 0.60% | ~5 |
-| Hard Boiled | 0.40% | ~3 |
 | Weaponsmith | 0.40% | ~3 |
 | Cyborg | 0.10% | ~1 |
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 845 (Ranked 272)  
+Progressed: 845 (Ranked 273)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |

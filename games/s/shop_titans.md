@@ -6,18 +6,18 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 7.00% | ~10,052 |
-| Titan's First Steps | 7.00% | ~10,052 |
-| Basic in Bulk | 6.00% | ~8,616 |
-| Tinkle of Coins | 6.00% | ~8,616 |
-| Disintermediation | 5.00% | ~7,180 |
-| Capitalism Ho! | 5.00% | ~7,180 |
-| One Easy Payment | 4.00% | ~5,744 |
-| Some Assembly Required | 4.00% | ~5,744 |
-| Another Satisfied Customer | 4.00% | ~5,744 |
-| It's Free Real Estate | 4.00% | ~5,744 |
-| Budding Merchant | 4.00% | ~5,744 |
-| Own the Means of Production | 4.00% | ~5,744 |
+| Sponsored by Argon | 7.00% | ~10,053 |
+| Titan's First Steps | 7.00% | ~10,053 |
+| Basic in Bulk | 6.00% | ~8,617 |
+| Tinkle of Coins | 6.00% | ~8,617 |
+| Disintermediation | 5.00% | ~7,181 |
+| Capitalism Ho! | 5.00% | ~7,181 |
+| One Easy Payment | 4.00% | ~5,745 |
+| Some Assembly Required | 4.00% | ~5,745 |
+| Another Satisfied Customer | 4.00% | ~5,745 |
+| It's Free Real Estate | 4.00% | ~5,745 |
+| Budding Merchant | 4.00% | ~5,745 |
+| Own the Means of Production | 4.00% | ~5,745 |
 | The Daily Grind | 3.00% | ~4,308 |
 | Bounty Hunters | 3.00% | ~4,308 |
 | Demand for Supplies | 3.00% | ~4,308 |
@@ -103,8 +103,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | All Accounted For | 1.00% | ~1,436 |
 | Economy of Scarce | 1.00% | ~1,436 |
 | King's Blade | 1.00% | ~1,436 |
-| The Free Encyclopedia | 0.90% | ~1,292 |
-| Eternal Crusade | 0.90% | ~1,292 |
+| The Free Encyclopedia | 0.90% | ~1,293 |
+| Eternal Crusade | 0.90% | ~1,293 |
 | The Greatest Grind | 0.70% | ~1,005 |
 | All or Nothing! | 0.70% | ~1,005 |
 | Anything not Nailed Down | 0.60% | ~862 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~431 |
 | Capitalist Camaraderie | 0.20% | ~287 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 143,593 (Ranked 80)  
+Progressed: 143,615 (Ranked 80)  
 Completed: 290 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,10 +346,10 @@ Completed: 290 (0.20%) (Ranked 257)
 | 2023-11-30 | 143,035 | 290 |
 | 2023-12-01 | 143,280 | 290 |
 | 2023-12-02 | 143,469 | 290 |
-| 2023-12-03 | 143,593 | 290 |
+| 2023-12-03 | 143,615 | 290 |
 ## Awards
 Max (Great for Beginners): 4,859  (Ranked 75)  
-Sum: 27,648 (Ranked 50)  
+Sum: 27,649 (Ranked 50)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
@@ -359,7 +359,7 @@ Diff (max vs sum): 25
 | This game has Diverse Characters | 3,958 |
 | This game is Highly Recommended | 3,790 |
 | This game has Easy Combat | 3,736 |
-| This game has Playful Visuals | 3,216 |
+| This game has Playful Visuals | 3,217 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -670,4 +670,4 @@ Diff (max vs sum): 25
 | 2023-11-30 | 3.99 | - | 4,858 | 27,639 |
 | 2023-12-01 | 3.99 | - | 4,859 | 27,642 |
 | 2023-12-02 | 3.99 | - | 4,859 | 27,647 |
-| 2023-12-03 | 3.99 | - | 4,859 | 27,648 |
+| 2023-12-03 | 3.99 | - | 4,859 | 27,649 |

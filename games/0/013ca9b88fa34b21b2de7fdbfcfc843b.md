@@ -1,27 +1,27 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.61 (Ranked 386)  
+Rating: 4.61 (Ranked 387)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,941 |
-| A Thorny Situation | 70.00% | ~5,776 |
-| ... And Spit Back Out | 61.00% | ~5,034 |
-| Break-Net Speed | 49.00% | ~4,043 |
-| Bramble Breaker | 47.00% | ~3,878 |
-| Miner 49er | 43.00% | ~3,548 |
-| Humble Collector | 42.00% | ~3,466 |
-| Calm Sailing | 37.00% | ~3,053 |
+| Azoria Beckons | 72.00% | ~5,943 |
+| A Thorny Situation | 70.00% | ~5,778 |
+| ... And Spit Back Out | 61.00% | ~5,035 |
+| Break-Net Speed | 49.00% | ~4,044 |
+| Bramble Breaker | 47.00% | ~3,879 |
+| Miner 49er | 43.00% | ~3,549 |
+| Humble Collector | 42.00% | ~3,467 |
+| Calm Sailing | 37.00% | ~3,054 |
 | Open the Gate! | 34.00% | ~2,806 |
 | Mist Walker | 32.00% | ~2,641 |
-| Lumberjack | 27.00% | ~2,228 |
+| Lumberjack | 27.00% | ~2,229 |
 | Oui, Chef! | 23.00% | ~1,898 |
 | Clear the Air | 19.00% | ~1,568 |
 | Botanical Breakthrough | 17.00% | ~1,403 |
-| Search for the Hairy Grell | 14.00% | ~1,155 |
-| Beach Comber | 14.00% | ~1,155 |
-| Higher Tax Bracket | 14.00% | ~1,155 |
+| Search for the Hairy Grell | 14.00% | ~1,156 |
+| Beach Comber | 14.00% | ~1,156 |
+| Higher Tax Bracket | 14.00% | ~1,156 |
 | Skilled | 9.00% | ~743 |
 | Flaming Hot Completos | 8.00% | ~660 |
 | Fae Farmer | 8.00% | ~660 |
@@ -41,7 +41,7 @@ Rating: 4.61 (Ranked 386)
 | Workaholic | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,252 (Ranked 175)  
+Progressed: 8,254 (Ranked 175)  
 Completed: 1 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 1 (0.01%) (Ranked 344)
 | 2023-11-30 | 8,184 | 1 |
 | 2023-12-01 | 8,203 | 1 |
 | 2023-12-02 | 8,228 | 1 |
-| 2023-12-03 | 8,252 | 1 |
+| 2023-12-03 | 8,254 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
