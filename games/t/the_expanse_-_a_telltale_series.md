@@ -5,12 +5,12 @@ Rating: 4.54 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 12.00% | ~1,903 |
-| The Pit and the Pirates | 7.00% | ~1,110 |
-| Bosmang | 7.00% | ~1,110 |
-| Captain Drummer | 7.00% | ~1,110 |
-| Celebrations are in Order | 7.00% | ~1,110 |
-| Impossible Objects | 7.00% | ~1,110 |
+| Oyedang, Kopengs | 12.00% | ~1,904 |
+| The Pit and the Pirates | 7.00% | ~1,111 |
+| Bosmang | 7.00% | ~1,111 |
+| Captain Drummer | 7.00% | ~1,111 |
+| Celebrations are in Order | 7.00% | ~1,111 |
+| Impossible Objects | 7.00% | ~1,111 |
 | Spore Taste | 6.00% | ~952 |
 | Martian Music | 6.00% | ~952 |
 | Drone Dodger | 6.00% | ~952 |
@@ -21,9 +21,9 @@ Rating: 4.54 (Ranked 529)
 | Drug Gifter | 5.00% | ~793 |
 | Call it Even | 5.00% | ~793 |
 | Keep Arjun in Check | 5.00% | ~91 |
-| Data Archivist | 4.00% | ~634 |
-| Heal Thy Medic | 4.00% | ~634 |
-| Khan's Revenge | 4.00% | ~634 |
+| Data Archivist | 4.00% | ~635 |
+| Heal Thy Medic | 4.00% | ~635 |
+| Khan's Revenge | 4.00% | ~635 |
 | Master Negotiator | 4.00% | ~73 |
 | Doctor Approved | 3.00% | ~476 |
 | Bottoms up! | 3.00% | ~476 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 529)
 | Scavenger Star | 0.10% | ~16 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,862 (Ranked 151)  
+Progressed: 15,866 (Ranked 151)  
 Completed: 40 (0.25%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 40 (0.25%) (Ranked 249)
 | 2023-11-30 | 15,794 | 39 |
 | 2023-12-01 | 15,822 | 39 |
 | 2023-12-02 | 15,842 | 39 |
-| 2023-12-03 | 15,862 | 40 |
+| 2023-12-03 | 15,866 | 40 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

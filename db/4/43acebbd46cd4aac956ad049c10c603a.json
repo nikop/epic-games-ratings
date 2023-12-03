@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -181,9 +181,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 850,
+  "EOS_Progressed": 852,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1986,6 +1986,11 @@
       "Time": "2023-12-03T16:04:34.7966618+00:00",
       "NumProgressed": 850,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T17:04:59.556388+00:00",
+      "NumProgressed": 852,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -1998,7 +2003,7 @@
       "Name": "Ab Aeterno",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "AbInitio",
@@ -2022,7 +2027,7 @@
       "Name": "Archaeologist",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Balance",
@@ -2046,7 +2051,7 @@
       "Name": "Break the Loop",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "BridgeBuilder",
@@ -2062,7 +2067,7 @@
       "Name": "Chasing the Light",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Chicken",
@@ -2092,9 +2097,9 @@
       "ID": "Discovery",
       "SetID": "1n308hc",
       "Name": "Discovery",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 77
     },
     {
       "ID": "EasternWetlands",
@@ -2102,7 +2107,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "EcstaticTruth",
@@ -2116,9 +2121,9 @@
       "ID": "Excellent",
       "SetID": "1n308hc",
       "Name": "Excellent",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 34
     },
     {
       "ID": "FloodedValley",
@@ -2188,17 +2193,17 @@
       "ID": "LostMarshes",
       "SetID": "1n308hc",
       "Name": "Lost Marshes",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 34
     },
     {
       "ID": "MistressOfRiddles",
       "SetID": "1n308hc",
       "Name": "Mistress of Riddles",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 60
     },
     {
       "ID": "Mnemosyne",
@@ -2404,17 +2409,17 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 111
     },
     {
       "ID": "TouchGrass",
       "SetID": "1n308hc",
       "Name": "Touch Grass",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 68
     },
     {
       "ID": "TrevorsBiographer",
@@ -2454,7 +2459,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "YourBiggestFan",
@@ -2462,14 +2467,14 @@
       "Name": "Your Biggest Fan",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 850,
+      "Progressed": 852,
       "Completed": 1
     }
   ],
@@ -2477,8 +2482,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-03T13:00:54.7758323+00:00",
-  "LastChanged_Achievements": "2023-12-03T16:04:34.7966616+00:00",
+  "LastChanged_Achievements": "2023-12-03T17:04:59.5563877+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-03T15:57:42.7657196+00:00",
-  "LastUpdate_Achievements": "2023-12-03T16:04:34.7967035+00:00"
+  "LastUpdate_Ratings": "2023-12-03T16:57:47.6246762+00:00",
+  "LastUpdate_Achievements": "2023-12-03T17:04:59.5564339+00:00"
 }

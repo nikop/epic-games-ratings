@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2200,
+  "EOS_Progressed": 2201,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3777,6 +3777,11 @@
       "Time": "2023-12-03T16:06:11.340404+00:00",
       "NumProgressed": 2200,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-03T17:06:48.5939918+00:00",
+      "NumProgressed": 2201,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 30,
@@ -3788,7 +3793,7 @@
       "Name": "Become King",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "Collect20Gold",
@@ -3812,7 +3817,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "CollectAllStatues",
@@ -3868,7 +3873,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 1804
+      "UsersEstimate": 1805
     },
     {
       "ID": "CompleteHunterFaction",
@@ -3914,9 +3919,9 @@
       "ID": "DefeatRattusAugustus",
       "SetID": "9lj35g4",
       "Name": "Defeat Rattus Augustail",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 594
+      "UsersEstimate": 572
     },
     {
       "ID": "FixTheTravellersWagon",
@@ -3932,7 +3937,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "GetTHWeapon",
@@ -3940,7 +3945,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "Kill25Bugs",
@@ -3948,7 +3953,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "Kill25Frogs",
@@ -3956,7 +3961,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "Kill25Mozi",
@@ -4012,7 +4017,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "ReturnPowerInMines",
@@ -4027,22 +4032,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2200,
+      "Progressed": 2201,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 841,
-      "Completed": 841
+      "Progressed": 842,
+      "Completed": 842
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-12-03T16:06:11.3404037+00:00",
+  "LastChanged_Achievements": "2023-12-03T17:06:48.5939914+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:26.7928423+00:00",
-  "LastUpdate_Ratings": "2023-12-03T15:59:32.3640057+00:00",
-  "LastUpdate_Achievements": "2023-12-03T16:06:11.3404393+00:00"
+  "LastUpdate_Ratings": "2023-12-03T16:59:57.7079973+00:00",
+  "LastUpdate_Achievements": "2023-12-03T17:06:48.5940296+00:00"
 }

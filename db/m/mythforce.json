@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -806,9 +806,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5308,
+  "EOS_Progressed": 5310,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10461,6 +10461,11 @@
       "Time": "2023-12-03T15:03:39.1832965+00:00",
       "NumProgressed": 5308,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-03T17:03:47.3618493+00:00",
+      "NumProgressed": 5310,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -10521,7 +10526,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -10537,7 +10542,7 @@
       "Name": "Flawless Victory",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -10553,15 +10558,15 @@
       "Name": "The Harder They Fall",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
       "SetID": "9b9n573",
       "Name": "Hit \u0027Em Where It Hurts",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1328
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -10569,7 +10574,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -10601,7 +10606,7 @@
       "Name": "On this Episode!",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -10656,15 +10661,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5308,
+      "Progressed": 5310,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-01T06:01:05.0621947+00:00",
-  "LastChanged_Achievements": "2023-12-03T16:03:33.7374113+00:00",
+  "LastChanged_Achievements": "2023-12-03T17:03:47.3618488+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:08.5943079+00:00",
-  "LastUpdate_Ratings": "2023-12-03T15:57:35.2990054+00:00",
-  "LastUpdate_Achievements": "2023-12-03T16:03:33.7374718+00:00"
+  "LastUpdate_Ratings": "2023-12-03T16:57:38.7397195+00:00",
+  "LastUpdate_Achievements": "2023-12-03T17:03:47.3619157+00:00"
 }

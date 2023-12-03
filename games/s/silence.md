@@ -16,13 +16,13 @@
 | Shadow on the wall | 31.00% | ~54 |
 | Let the boot talk | 30.00% | ~52 |
 | Chapter II | 25.00% | ~43 |
+| Handyman | 22.00% | ~38 |
 | Bubblekillerfamily | 22.00% | ~38 |
 | Chapter III | 22.00% | ~38 |
 | Like a moth in the Wind | 22.00% | ~38 |
 | Quite a buggy game | 21.00% | ~36 |
-| Handyman | 21.00% | ~36 |
 | Achoo!! | 21.00% | ~36 |
-| Pacifist | 18.00% | ~31 |
+| Pacifist | 19.00% | ~33 |
 | Mirror mirror on the wall... | 18.00% | ~31 |
 | Fastidious Clown | 17.00% | ~29 |
 | It's not easy being green! | 17.00% | ~29 |

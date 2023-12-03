@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -247,9 +247,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15862,
+  "EOS_Progressed": 15866,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 261,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -12992,6 +12992,11 @@
       "Time": "2023-12-03T16:04:53.3913279+00:00",
       "NumProgressed": 15862,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-12-03T17:05:21.0095445+00:00",
+      "NumProgressed": 15866,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13020,7 +13025,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "12",
@@ -13028,7 +13033,7 @@
       "Name": "Data Archivist",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "13",
@@ -13036,7 +13041,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1903
+      "UsersEstimate": 1904
     },
     {
       "ID": "14",
@@ -13124,7 +13129,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "24",
@@ -13140,7 +13145,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "26",
@@ -13156,7 +13161,7 @@
       "Name": "Bosmang",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "28",
@@ -13180,7 +13185,7 @@
       "Name": "Captain Drummer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "30",
@@ -13212,7 +13217,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "7",
@@ -13236,7 +13241,7 @@
       "Name": "Impossible Objects",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "31",
@@ -13283,22 +13288,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15862,
+      "Progressed": 15866,
       "Completed": 40
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1816,
-      "Completed": 803
+      "Progressed": 1820,
+      "Completed": 804
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-02T18:02:57.3938434+00:00",
-  "LastChanged_Achievements": "2023-12-03T16:04:53.3913275+00:00",
+  "LastChanged_Achievements": "2023-12-03T17:05:21.0095441+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-03T16:02:48.0052772+00:00",
-  "LastUpdate_Achievements": "2023-12-03T16:04:53.3914166+00:00"
+  "LastUpdate_Ratings": "2023-12-03T17:02:33.9480937+00:00",
+  "LastUpdate_Achievements": "2023-12-03T17:05:21.0096177+00:00"
 }

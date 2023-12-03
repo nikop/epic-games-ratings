@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 334,
+  "EOS_Progressed": 337,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1463,6 +1463,11 @@
       "Time": "2023-12-03T15:05:54.9034531+00:00",
       "NumProgressed": 334,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T17:06:18.5367709+00:00",
+      "NumProgressed": 337,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1499,7 +1504,7 @@
       "Name": "Dressed For Success",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "AttackCount",
@@ -1579,7 +1584,7 @@
       "Name": "Critical Hit",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Deepstrike",
@@ -1617,9 +1622,9 @@
       "ID": "DoubleKill",
       "SetID": "71c0n9i",
       "Name": "Double Kill",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 88
     },
     {
       "ID": "FlameAttackKillCount",
@@ -1803,7 +1808,7 @@
       "Name": "Adept",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "WielderLevel2",
@@ -1811,7 +1816,7 @@
       "Name": "Veteran",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "WielderLevel3",
@@ -1835,7 +1840,7 @@
       "Name": "Humiliation",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -1906,15 +1911,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 334,
+      "Progressed": 337,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-03T16:05:45.3072141+00:00",
+  "LastChanged_Achievements": "2023-12-03T17:06:18.5367705+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:08.015125+00:00",
-  "LastUpdate_Ratings": "2023-12-03T15:57:51.4541425+00:00",
-  "LastUpdate_Achievements": "2023-12-03T16:05:45.307271+00:00"
+  "LastUpdate_Ratings": "2023-12-03T16:57:58.1506297+00:00",
+  "LastUpdate_Achievements": "2023-12-03T17:06:18.53681+00:00"
 }

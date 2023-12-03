@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 430,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-11-15T17:00:00+00:00",
@@ -614,17 +614,17 @@
       "ID": "1006_achv_fixbomb",
       "SetID": "dhn82m5",
       "Name": "Handyman",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "1006_achv_pacifist",
       "SetID": "dhn82m5",
       "Name": "Pacifist",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "2001_achv_shrooms",
@@ -831,8 +831,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-12-03T16:06:06.7185812+00:00",
+  "LastChanged_Achievements": "2023-12-03T17:06:43.219028+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:39.3193657+00:00",
-  "LastUpdate_Ratings": "2023-12-03T16:00:15.2935195+00:00",
-  "LastUpdate_Achievements": "2023-12-03T16:06:06.7186118+00:00"
+  "LastUpdate_Ratings": "2023-12-03T17:00:48.4609563+00:00",
+  "LastUpdate_Achievements": "2023-12-03T17:06:43.2190558+00:00"
 }

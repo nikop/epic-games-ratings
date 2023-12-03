@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5642,
+  "EOS_Progressed": 5644,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4548,6 +4548,11 @@
       "Time": "2023-12-03T12:04:36.9578186+00:00",
       "NumProgressed": 5642,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T17:04:44.4820229+00:00",
+      "NumProgressed": 5644,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -4615,7 +4620,7 @@
       "Name": "Level: Charlie\u0027s Circuits",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "ach_campaign_progress10",
@@ -4671,7 +4676,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2765
+      "UsersEstimate": 2766
     },
     {
       "ID": "ach_campaign_progress6",
@@ -4831,7 +4836,7 @@
       "Name": "Merry-Go-Around: Self-Made",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ach_campaign_special8",
@@ -4943,7 +4948,7 @@
       "Name": "Peddler",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ach_frp_many_products2",
@@ -5166,15 +5171,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5642,
+      "Progressed": 5644,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-12-03T16:04:21.7079314+00:00",
+  "LastChanged_Achievements": "2023-12-03T17:04:44.4820225+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:47.7538127+00:00",
-  "LastUpdate_Ratings": "2023-12-03T15:58:55.843803+00:00",
-  "LastUpdate_Achievements": "2023-12-03T16:04:21.707998+00:00"
+  "LastUpdate_Ratings": "2023-12-03T16:59:14.5747336+00:00",
+  "LastUpdate_Achievements": "2023-12-03T17:04:44.4820918+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "remnant-2",
   "Ranking_Rating": 149,
   "Ranking_Popularity": 102,
-  "Ranking_PopularitySum": 129,
+  "Ranking_PopularitySum": 128,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 21,
@@ -5035,18 +5035,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 6373,
       "NumberOfAwardsMax": 2577
+    },
+    {
+      "Time": "2023-12-03T17:02:55.1057955+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6405,
+      "NumberOfAwardsMax": 2603
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6373,
-  "NumberOfAwardsMax": 2577,
+  "NumberOfAwards": 6405,
+  "NumberOfAwardsMax": 2603,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2577
+      "Count": 2603
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5082,7 +5088,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 389
+      "Count": 395
     },
     {
       "Text": "This game has a Creative Community",
@@ -5109,9 +5115,9 @@
       "Count": 396
     }
   ],
-  "EOS_Progressed": 233842,
-  "EOS_Completed": 550,
-  "EOS_NewPlayers": 5065,
+  "EOS_Progressed": 233899,
+  "EOS_Completed": 551,
+  "EOS_NewPlayers": 5070,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -21184,6 +21190,11 @@
       "Time": "2023-12-03T16:08:50.9023972+00:00",
       "NumProgressed": 233842,
       "NumCompleted": 550
+    },
+    {
+      "Time": "2023-12-03T17:08:29.8928843+00:00",
+      "NumProgressed": 233899,
+      "NumCompleted": 551
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21244,7 +21255,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -21300,7 +21311,7 @@
       "Name": "Not So Special Now",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "Defeat_Tal_Ratha",
@@ -21340,7 +21351,7 @@
       "Name": "Not a Janitor",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "Meet_Flautist",
@@ -21348,7 +21359,7 @@
       "Name": "Familiar Face",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "Meet_Meidra",
@@ -21388,7 +21399,7 @@
       "Name": "Duality",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -21428,7 +21439,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "Obtain_Guns_A",
@@ -21450,9 +21461,9 @@
       "ID": "Obtain_Melee_Weapons_A",
       "SetID": "bkp3b1a",
       "Name": "Edgelord",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 702
     },
     {
       "ID": "Obtain_Melee_Weapons_B",
@@ -21572,7 +21583,7 @@
       "Name": "Trait Chaser",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -21635,22 +21646,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 233842,
-      "Completed": 550
+      "Progressed": 233899,
+      "Completed": 551
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 13007,
-      "Completed": 185
+      "Progressed": 13064,
+      "Completed": 186
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-12-03T15:03:02.8512889+00:00",
-  "LastChanged_Achievements": "2023-12-03T16:08:50.9023967+00:00",
+  "LastChanged": "2023-12-03T17:02:55.1057954+00:00",
+  "LastChanged_Achievements": "2023-12-03T17:08:29.892884+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-03T16:03:06.2506771+00:00",
-  "LastUpdate_Achievements": "2023-12-03T16:08:50.9025178+00:00"
+  "LastUpdate_Ratings": "2023-12-03T17:02:55.1057961+00:00",
+  "LastUpdate_Achievements": "2023-12-03T17:08:29.8930305+00:00"
 }

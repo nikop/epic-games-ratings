@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 268,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11433,9 +11433,9 @@
       "Count": 832
     }
   ],
-  "EOS_Progressed": 303852,
+  "EOS_Progressed": 303856,
   "EOS_Completed": 521,
-  "EOS_NewPlayers": 589,
+  "EOS_NewPlayers": 583,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -35898,6 +35898,11 @@
       "Time": "2023-12-03T16:09:33.8190722+00:00",
       "NumProgressed": 303852,
       "NumCompleted": 521
+    },
+    {
+      "Time": "2023-12-03T17:09:38.0424504+00:00",
+      "NumProgressed": 303856,
+      "NumCompleted": 521
     }
   ],
   "TotalAchievements": 45,
@@ -35909,7 +35914,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48616
+      "UsersEstimate": 48617
     },
     {
       "ID": "PFA_10",
@@ -35933,7 +35938,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 36462
+      "UsersEstimate": 36463
     },
     {
       "ID": "PFA_13",
@@ -35965,7 +35970,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36462
+      "UsersEstimate": 36463
     },
     {
       "ID": "PFA_17",
@@ -36037,7 +36042,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36462
+      "UsersEstimate": 36463
     },
     {
       "ID": "PFA_25",
@@ -36093,7 +36098,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36462
+      "UsersEstimate": 36463
     },
     {
       "ID": "PFA_31",
@@ -36133,7 +36138,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30385
+      "UsersEstimate": 30386
     },
     {
       "ID": "PFA_36",
@@ -36245,7 +36250,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42539
+      "UsersEstimate": 42540
     },
     {
       "ID": "PFA_8",
@@ -36261,14 +36266,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30385
+      "UsersEstimate": 30386
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303852,
+      "Progressed": 303856,
       "Completed": 521
     }
   ],
@@ -36276,8 +36281,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-03T15:58:46.3788406+00:00",
-  "LastChanged_Achievements": "2023-12-03T16:09:33.819072+00:00",
+  "LastChanged_Achievements": "2023-12-03T17:09:38.0424499+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-03T15:58:46.3788412+00:00",
-  "LastUpdate_Achievements": "2023-12-03T16:09:33.8191892+00:00"
+  "LastUpdate_Ratings": "2023-12-03T16:59:03.0645957+00:00",
+  "LastUpdate_Achievements": "2023-12-03T17:09:38.0425619+00:00"
 }

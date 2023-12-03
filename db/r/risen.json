@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
     "PcReleaseDate": "2009-10-30T16:00:00+00:00",
@@ -396,9 +396,9 @@
       "ID": "id_15",
       "SetID": "bk9jib6",
       "Name": "Archaeologist",
-      "Percentage": 22,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "id_16",
@@ -773,8 +773,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-11-13T23:59:43.760664+00:00",
-  "LastChanged_Achievements": "2023-12-03T16:09:14.9509238+00:00",
+  "LastChanged_Achievements": "2023-12-03T17:09:17.1364344+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:25.2979991+00:00",
-  "LastUpdate_Ratings": "2023-12-03T15:57:29.9750858+00:00",
-  "LastUpdate_Achievements": "2023-12-03T16:09:14.9509529+00:00"
+  "LastUpdate_Ratings": "2023-12-03T16:57:32.5837238+00:00",
+  "LastUpdate_Achievements": "2023-12-03T17:09:17.1364685+00:00"
 }

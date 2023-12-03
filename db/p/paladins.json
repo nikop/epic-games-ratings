@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 53,
   "Ranking_EOS_Progress": 774,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 491,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 490,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-03-24T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -9651,11 +9651,17 @@
       "Rating": 4.32,
       "NumberOfAwards": 25357,
       "NumberOfAwardsMax": 3871
+    },
+    {
+      "Time": "2023-12-03T16:58:57.1488741+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 25371,
+      "NumberOfAwardsMax": 3882
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 25357,
-  "NumberOfAwardsMax": 3871,
+  "NumberOfAwards": 25371,
+  "NumberOfAwardsMax": 3882,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -9668,7 +9674,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3871
+      "Count": 3882
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9704,13 +9710,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3110
+      "Count": 3112
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2864
+      "Count": 2865
     },
     {
       "Text": "This game has a Competitive Community",
@@ -9730,8 +9736,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:05.5508389+00:00",
-  "LastChanged": "2023-12-03T13:02:32.6340822+00:00",
+  "LastChanged": "2023-12-03T16:58:57.148874+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:39.15187+00:00",
-  "LastUpdate_Ratings": "2023-12-03T15:58:40.8709323+00:00",
-  "LastUpdate_Achievements": "2023-12-03T16:06:02.1016184+00:00"
+  "LastUpdate_Ratings": "2023-12-03T16:58:57.1488746+00:00",
+  "LastUpdate_Achievements": "2023-12-03T17:06:37.9045359+00:00"
 }

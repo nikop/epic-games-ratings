@@ -5,19 +5,19 @@ Rating: 4.54 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,653 |
-| Pork Chopped | 3.00% | ~1,653 |
-| Git Gutte! | 2.00% | ~14,591 |
-| Break A Leg | 2.00% | ~14,591 |
-| Coup de Grâce | 2.00% | ~14,591 |
-| Hazardous Materials | 2.00% | ~14,591 |
-| Friends Like These | 2.00% | ~14,591 |
-| Hotel California | 2.00% | ~14,591 |
-| Apex Predator | 2.00% | ~14,591 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,591 |
-| Welcome To Hell-A | 2.00% | ~14,591 |
-| One of Us | 2.00% | ~1,102 |
-| Dr. Reed, I Presume? | 1.00% | ~7,296 |
+| Whatever It Takes | 3.00% | ~1,655 |
+| Pork Chopped | 3.00% | ~1,655 |
+| Dr. Reed, I Presume? | 2.00% | ~14,592 |
+| Git Gutte! | 2.00% | ~14,592 |
+| Break A Leg | 2.00% | ~14,592 |
+| Coup de Grâce | 2.00% | ~14,592 |
+| Hazardous Materials | 2.00% | ~14,592 |
+| Friends Like These | 2.00% | ~14,592 |
+| Hotel California | 2.00% | ~14,592 |
+| Apex Predator | 2.00% | ~14,592 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,592 |
+| Welcome To Hell-A | 2.00% | ~14,592 |
+| One of Us | 2.00% | ~1,103 |
 | Making Your Mark | 1.00% | ~7,296 |
 | Anger Management | 1.00% | ~7,296 |
 | Perks of the Job | 1.00% | ~7,296 |
@@ -34,21 +34,21 @@ Rating: 4.54 (Ranked 529)
 | Stacking the Deck | 1.00% | ~7,296 |
 | Our True Nature | 1.00% | ~7,296 |
 | This is My Weapon | 1.00% | ~7,296 |
-| Humanity Distilled | 0.90% | ~6,566 |
-| Max Headroom | 0.90% | ~6,566 |
+| Humanity Distilled | 0.90% | ~6,567 |
+| Max Headroom | 0.90% | ~6,567 |
 | Down with the Sickness | 0.80% | ~5,837 |
 | Not Even My Final Form | 0.70% | ~5,107 |
 | Jumbo Keyring | 0.70% | ~5,107 |
 | Go, Bobcats! | 0.70% | ~5,107 |
 | Rising Star | 0.70% | ~5,107 |
-| Internet Famous | 0.60% | ~4,377 |
+| Internet Famous | 0.60% | ~4,378 |
 | Make it So | 0.50% | ~3,648 |
 | On Safari | 0.50% | ~3,648 |
 | Smorgasbord | 0.50% | ~3,648 |
 | Variety is the Spice of Death | 0.50% | ~3,648 |
 | LA Influential | 0.40% | ~2,918 |
 | Gore Horse | 0.40% | ~2,918 |
-| Top That, Tisha! | 0.40% | ~220 |
+| Top That, Tisha! | 0.40% | ~221 |
 | Sole Survivor | 0.30% | ~2,189 |
 | Sharpest Tool in the Box | 0.30% | ~2,189 |
 | Survival Skills | 0.20% | ~1,459 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 529)
 | Bucket List | 0.10% | ~730 |
 | Wilhelm | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 729,571 (Ranked 21)  
+Progressed: 729,625 (Ranked 21)  
 Completed: 2,461 (0.34%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,10 +284,10 @@ Completed: 2,461 (0.34%) (Ranked 233)
 | 2023-11-30 | 728,231 | 2,456 |
 | 2023-12-01 | 728,667 | 2,459 |
 | 2023-12-02 | 729,149 | 2,460 |
-| 2023-12-03 | 729,571 | 2,461 |
+| 2023-12-03 | 729,625 | 2,461 |
 ## Awards
 Max (Great Boss Battles): 7,892  (Ranked 49)  
-Sum: 12,105 (Ranked 82)  
+Sum: 12,107 (Ranked 82)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -298,7 +298,7 @@ Diff (max vs sum): -33
 | This game is Relaxing | 522 |
 | This game has Amazing Storytelling | 510 |
 | This game is Extremely Fun | 499 |
-| This game is Highly Recommended | 488 |
+| This game is Highly Recommended | 490 |
 | This game has Amazing Characters | 456 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -529,4 +529,4 @@ Diff (max vs sum): -33
 | 2023-11-30 | 4.54 | 7,821 | 11,987 |
 | 2023-12-01 | 4.54 | 7,845 | 12,026 |
 | 2023-12-02 | 4.54 | 7,869 | 12,068 |
-| 2023-12-03 | 4.54 | 7,892 | 12,105 |
+| 2023-12-03 | 4.54 | 7,892 | 12,107 |

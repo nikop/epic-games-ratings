@@ -30,14 +30,14 @@
 | Shame! Shame! Shame! | 42.00% | ~217 |
 | Dungeonlord Gorgu | 40.00% | ~207 |
 | Mana Cannon | 39.00% | ~202 |
-| Tanos' Crusade Against Thalya | 37.00% | ~191 |
+| Tanos' Crusade Against Thalya | 38.00% | ~196 |
 | All’s Well That Ends Evil | 31.00% | ~160 |
 | Unstoppable Horde | 30.00% | ~155 |
 | Master of the Undead | 29.00% | ~150 |
 | The Duel | 28.00% | ~145 |
+| If Looks Could Kill | 26.00% | ~134 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 25.00% | ~129 |
 | Ghost Pirates? Ghost Heroes! | 25.00% | ~129 |
-| If Looks Could Kill | 25.00% | ~129 |
 | Hungry, Hungry Gorgu! | 24.00% | ~124 |
 | Forbidden Knowledge | 24.00% | ~124 |
 | The Finitude Drill | 23.00% | ~119 |
@@ -58,15 +58,15 @@
 | Mirror, Mirror | 11.00% | ~57 |
 | Untouchable | 11.00% | ~57 |
 | To the Max! | 11.00% | ~57 |
+| Evilification | 10.00% | ~52 |
 | Laser Eyes Are So Useless | 9.00% | ~47 |
-| Evilification | 9.00% | ~47 |
+| Heal Heal Blessing | 9.00% | ~47 |
 | Gorgu is in the Best of Health | 8.00% | ~41 |
-| Heal Heal Blessing | 8.00% | ~41 |
 | Hands Off My Stones | 8.00% | ~41 |
 | No Mana, No Cry | 6.00% | ~31 |
 | I Don't Need Any Help | 5.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 517 (Ranked 310)  
+Progressed: 517 (Ranked 311)  
 Completed: 11 (2.13%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |

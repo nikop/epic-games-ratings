@@ -33,7 +33,7 @@
 | Clean Forests | 62.00% | ~112 |
 | Starry: Meadowshire | 58.00% | ~105 |
 | Lieutenant of the Evil | 58.00% | ~105 |
-| Avada Kedavra | 56.00% | ~101 |
+| Avada Kedavra | 57.00% | ~103 |
 | Brilliant: Tanglewood | 55.00% | ~100 |
 | Starry: Holy Mountain | 54.00% | ~98 |
 | It's a Trap | 54.00% | ~98 |

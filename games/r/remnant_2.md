@@ -12,13 +12,13 @@ Rating: 4.75 (Ranked 149)
 | Expanding Horizons | 0.50% | ~1,169 |
 | Quest for Survival | 0.50% | ~1,169 |
 | Not Your Average Trait | 0.50% | ~1,169 |
-| Gleaming the Cube | 0.40% | ~935 |
-| Not So Special Now | 0.40% | ~935 |
-| Not a Janitor | 0.40% | ~935 |
-| Familiar Face | 0.40% | ~935 |
-| Duality | 0.40% | ~935 |
-| Boss'n Up | 0.40% | ~935 |
-| Trait Chaser | 0.40% | ~935 |
+| Gleaming the Cube | 0.40% | ~936 |
+| Not So Special Now | 0.40% | ~936 |
+| Not a Janitor | 0.40% | ~936 |
+| Familiar Face | 0.40% | ~936 |
+| Duality | 0.40% | ~936 |
+| Boss'n Up | 0.40% | ~936 |
+| Trait Chaser | 0.40% | ~936 |
 | Am I Seeing This? | 0.30% | ~702 |
 | Chaos | 0.30% | ~702 |
 | Traitor | 0.30% | ~702 |
@@ -30,6 +30,7 @@ Rating: 4.75 (Ranked 149)
 | Top Performer | 0.30% | ~702 |
 | Shhh...It's a Secret | 0.30% | ~702 |
 | Was This Supposed To Happen? | 0.30% | ~702 |
+| Edgelord | 0.30% | ~702 |
 | Scrap Collector | 0.30% | ~702 |
 | All These Traits� | 0.30% | ~702 |
 | Almost There | 0.30% | ~702 |
@@ -44,7 +45,6 @@ Rating: 4.75 (Ranked 149)
 | Bad Moon Rising | 0.20% | ~468 |
 | Strapped | 0.20% | ~468 |
 | The Trigger | 0.20% | ~468 |
-| Edgelord | 0.20% | ~468 |
 | Cutting Edge | 0.20% | ~468 |
 | The Web | 0.20% | ~468 |
 | The Collector | 0.20% | ~468 |
@@ -61,8 +61,8 @@ Rating: 4.75 (Ranked 149)
 | Maxed Out! | 0.10% | ~234 |
 | A Foul Feast | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,842 (Ranked 68)  
-Completed: 550 (0.24%) (Ranked 250)  
+Progressed: 233,899 (Ranked 68)  
+Completed: 551 (0.24%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -201,20 +201,20 @@ Completed: 550 (0.24%) (Ranked 250)
 | 2023-11-30 | 231,406 | 542 |
 | 2023-12-01 | 232,269 | 546 |
 | 2023-12-02 | 233,162 | 548 |
-| 2023-12-03 | 233,842 | 550 |
+| 2023-12-03 | 233,899 | 551 |
 ## Awards
-Max (Great Boss Battles): 2,577  (Ranked 102)  
-Sum: 6,373 (Ranked 129)  
-Diff (max vs sum): -27  
+Max (Great Boss Battles): 2,603  (Ranked 102)  
+Sum: 6,405 (Ranked 128)  
+Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,577 |
+| This game has Great Boss Battles | 2,603 |
 | This game has Diverse Characters | 421 |
 | This game is Highly Recommended | 416 |
 | This game has Challenging Combat | 402 |
 | This game is Relaxing | 396 |
 | This game is Extremely Fun | 395 |
-| This game has Amazing Storytelling | 389 |
+| This game has Amazing Storytelling | 395 |
 | This game has Amazing Characters | 382 |
 | This game has Quickly Understood Controls | 379 |
 | This game has Unique Visuals | 329 |
@@ -352,4 +352,4 @@ Diff (max vs sum): -27
 | 2023-11-30 | 4.75 | 2,533 | 6,208 |
 | 2023-12-01 | 4.75 | 2,558 | 6,266 |
 | 2023-12-02 | 4.75 | 2,577 | 6,336 |
-| 2023-12-03 | 4.75 | 2,577 | 6,373 |
+| 2023-12-03 | 4.75 | 2,603 | 6,405 |

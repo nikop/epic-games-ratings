@@ -8,9 +8,9 @@ Rating: 3.95 (Ranked 1,016)
 | Neophyte Ninja | 3.00% | ~2,752 |
 | First One’s Free | 3.00% | ~2,752 |
 | Downed but Not Outed | 3.00% | ~2,752 |
-| Underworld Initiate | 2.00% | ~1,834 |
-| Too Old for This | 2.00% | ~1,834 |
-| Fancy Pants | 2.00% | ~1,834 |
+| Underworld Initiate | 2.00% | ~1,835 |
+| Too Old for This | 2.00% | ~1,835 |
+| Fancy Pants | 2.00% | ~1,835 |
 | Roid Ranger | 1.00% | ~917 |
 | Hidden Sonata | 1.00% | ~917 |
 | Case Closed | 1.00% | ~917 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,016)
 | Full House | 0.10% | ~92 |
 | Geek Out | 0.10% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,725 (Ranked 92)  
+Progressed: 91,727 (Ranked 92)  
 Completed: 58 (0.06%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,14 +274,14 @@ Completed: 58 (0.06%) (Ranked 310)
 | 2023-11-30 | 91,670 | 58 |
 | 2023-12-01 | 91,683 | 58 |
 | 2023-12-02 | 91,704 | 58 |
-| 2023-12-03 | 91,725 | 58 |
+| 2023-12-03 | 91,727 | 58 |
 ## Awards
-Max (Diverse Characters): 551  (Ranked 206)  
-Sum: 2,634 (Ranked 186)  
+Max (Diverse Characters): 553  (Ranked 206)  
+Sum: 2,636 (Ranked 186)  
 Diff (max vs sum): 20  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 551 |
+| This game has Diverse Characters | 553 |
 | This game is Highly Recommended | 539 |
 | This game has Quickly Understood Controls | 526 |
 | This game has Challenging Combat | 514 |
@@ -538,4 +538,4 @@ Diff (max vs sum): 20
 | 2023-11-30 | 3.95 | 547 | 2,623 |
 | 2023-12-01 | 3.95 | 548 | 3,139 |
 | 2023-12-02 | 3.95 | 551 | 3,145 |
-| 2023-12-03 | 3.95 | 551 | 3,148 |
+| 2023-12-03 | 3.95 | 553 | 3,148 |

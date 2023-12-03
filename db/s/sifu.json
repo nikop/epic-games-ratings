@@ -8019,9 +8019,9 @@
       "Count": 428
     }
   ],
-  "EOS_Progressed": 717749,
+  "EOS_Progressed": 717752,
   "EOS_Completed": 12943,
-  "EOS_NewPlayers": 320,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -28204,6 +28204,11 @@
       "Time": "2023-12-03T16:03:09.1704505+00:00",
       "NumProgressed": 717749,
       "NumCompleted": 12943
+    },
+    {
+      "Time": "2023-12-03T17:03:20.1111293+00:00",
+      "NumProgressed": 717752,
+      "NumCompleted": 12943
     }
   ],
   "TotalAchievements": 60,
@@ -28239,7 +28244,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4306
+      "UsersEstimate": 4307
     },
     {
       "ID": "05_Vengeance_H4",
@@ -28247,7 +28252,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4306
+      "UsersEstimate": 4307
     },
     {
       "ID": "06_Vengeance_H5",
@@ -28287,7 +28292,7 @@
       "Name": "Iron Money",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1436
     },
     {
       "ID": "11_Wude_H5",
@@ -28295,7 +28300,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1436
     },
     {
       "ID": "12_MidAge",
@@ -28311,7 +28316,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1436
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -28319,7 +28324,7 @@
       "Name": "Kill Nil",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 4306
+      "UsersEstimate": 4307
     },
     {
       "ID": "15_Detective_H1",
@@ -28383,7 +28388,7 @@
       "Name": "Street Fighting",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4306
+      "UsersEstimate": 4307
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -28423,7 +28428,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4306
+      "UsersEstimate": 4307
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -28431,7 +28436,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1436
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -28471,7 +28476,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1436
     },
     {
       "ID": "34_TimedTakedown",
@@ -28495,7 +28500,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4306
+      "UsersEstimate": 4307
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -28503,7 +28508,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4306
+      "UsersEstimate": 4307
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -28559,7 +28564,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -28694,21 +28699,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 27050,
+      "Progressed": 27053,
       "Completed": 10757
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 717749,
+      "Progressed": 717752,
       "Completed": 12943
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-03T14:02:42.7820284+00:00",
-  "LastChanged_Achievements": "2023-12-03T16:03:09.1704497+00:00",
+  "LastChanged_Achievements": "2023-12-03T17:03:20.1111288+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:06.4352314+00:00",
-  "LastUpdate_Ratings": "2023-12-03T16:02:45.8402763+00:00",
-  "LastUpdate_Achievements": "2023-12-03T16:03:09.1722558+00:00"
+  "LastUpdate_Ratings": "2023-12-03T17:02:31.3146324+00:00",
+  "LastUpdate_Achievements": "2023-12-03T17:03:20.1113186+00:00"
 }

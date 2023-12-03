@@ -26,7 +26,7 @@
 | The Finisher | 42.00% | ~450 |
 | So Close | 41.00% | ~439 |
 | You Get Used To It | 41.00% | ~439 |
-| True Legends | 39.00% | ~418 |
+| True Legends | 40.00% | ~428 |
 | Family | 38.00% | ~407 |
 | Biggest Snowball Ever | 38.00% | ~407 |
 | Freeze The Ice Witch | 38.00% | ~407 |
@@ -41,7 +41,7 @@
 | One From The Heart | 14.00% | ~150 |
 | Yummy | 10.00% | ~107 |
 | Snowball Fightn't | 10.00% | ~107 |
-| It Was Him | 7.00% | ~75 |
+| It Was Him | 8.00% | ~86 |
 | Handy Yeti | 6.00% | ~64 |
 | The Pied Piper Of Freljord | 5.00% | ~54 |
 | Braum's Poro Ranch | 3.00% | ~32 |

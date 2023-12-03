@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1431,9 +1431,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 241081,
+  "EOS_Progressed": 241095,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1302,
+  "EOS_NewPlayers": 1292,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20896,6 +20896,11 @@
       "Time": "2023-12-03T16:09:03.6554405+00:00",
       "NumProgressed": 241081,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-03T17:09:04.7069486+00:00",
+      "NumProgressed": 241095,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -20907,7 +20912,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7232
+      "UsersEstimate": 7233
     },
     {
       "ID": "100Fail",
@@ -20923,7 +20928,7 @@
       "Name": "Holistic Adventuring Party",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "BarbarianEpic",
@@ -20939,7 +20944,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7232
+      "UsersEstimate": 7233
     },
     {
       "ID": "BookCollection",
@@ -20955,7 +20960,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16876
+      "UsersEstimate": 16877
     },
     {
       "ID": "Chapter2",
@@ -20963,7 +20968,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9643
+      "UsersEstimate": 9644
     },
     {
       "ID": "Chapter3",
@@ -20971,7 +20976,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7232
+      "UsersEstimate": 7233
     },
     {
       "ID": "Chapter4",
@@ -21307,7 +21312,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19286
+      "UsersEstimate": 19288
     },
     {
       "ID": "DwarfElf15Support",
@@ -21339,7 +21344,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12054
+      "UsersEstimate": 12055
     },
     {
       "ID": "ElfEpic",
@@ -21355,7 +21360,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 84378
+      "UsersEstimate": 84383
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -21371,7 +21376,7 @@
       "Name": "GG EZ",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9643
+      "UsersEstimate": 9644
     },
     {
       "ID": "EndCombatOneHp",
@@ -21379,7 +21384,7 @@
       "Name": "DM intervention",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9643
+      "UsersEstimate": 9644
     },
     {
       "ID": "EndGameCursed",
@@ -21403,7 +21408,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 21697
+      "UsersEstimate": 21699
     },
     {
       "ID": "FollowBraztok",
@@ -21419,7 +21424,7 @@
       "Name": "An old poacher makes the best gamekeeper",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "InsultLoose",
@@ -21475,7 +21480,7 @@
       "Name": "Law and Order",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "Poster",
@@ -21555,7 +21560,7 @@
       "Name": "Speedrun",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12054
+      "UsersEstimate": 12055
     },
     {
       "ID": "SupportCount4",
@@ -21603,28 +21608,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9643
+      "UsersEstimate": 9644
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 241081,
+      "Progressed": 241095,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 241081,
+      "Progressed": 241095,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-03T13:57:31.8059684+00:00",
-  "LastChanged_Achievements": "2023-12-03T16:09:03.6554402+00:00",
+  "LastChanged_Achievements": "2023-12-03T17:09:04.7069482+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:09.0043717+00:00",
-  "LastUpdate_Ratings": "2023-12-03T15:57:52.9088352+00:00",
-  "LastUpdate_Achievements": "2023-12-03T16:09:03.6555882+00:00"
+  "LastUpdate_Ratings": "2023-12-03T16:57:59.904972+00:00",
+  "LastUpdate_Achievements": "2023-12-03T17:09:04.7070833+00:00"
 }

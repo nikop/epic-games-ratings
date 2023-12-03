@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 233,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-03-18T04:00:00+00:00",
@@ -1795,9 +1795,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 80094,
+  "EOS_Progressed": 80095,
   "EOS_Completed": 2198,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 2.74,
   "EosHistory": [
@@ -10290,6 +10290,11 @@
       "Time": "2023-12-03T13:10:32.3794193+00:00",
       "NumProgressed": 80094,
       "NumCompleted": 2198
+    },
+    {
+      "Time": "2023-12-03T17:06:28.0150126+00:00",
+      "NumProgressed": 80095,
+      "NumCompleted": 2198
     }
   ],
   "TotalAchievements": 46,
@@ -10309,7 +10314,7 @@
       "Name": "Hopes and Dreams",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 65677
+      "UsersEstimate": 65678
     },
     {
       "ID": "002_TROPHY_MISSION_JOURNEY_BEGIN",
@@ -10325,7 +10330,7 @@
       "Name": "The King of the Dark Elves",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 54464
+      "UsersEstimate": 54465
     },
     {
       "ID": "004_TROPHY_MISSION_NATURAL_DISTORTION",
@@ -10333,7 +10338,7 @@
       "Name": "Distortion\u0027s Progeny",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 50459
+      "UsersEstimate": 50460
     },
     {
       "ID": "005_TROPHY_MISSION_FAMILIAR_PLACE",
@@ -10357,7 +10362,7 @@
       "Name": "Vague Remembrances",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 39246
+      "UsersEstimate": 39247
     },
     {
       "ID": "008_TROPHY_MISSION_FIRE_MEMORIES",
@@ -10365,7 +10370,7 @@
       "Name": "The Fire\u0027s Light",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 37644
+      "UsersEstimate": 37645
     },
     {
       "ID": "009_TROPHY_MISSION_PAST_PHANTOM",
@@ -10373,7 +10378,7 @@
       "Name": "Phantom Memories",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 37644
+      "UsersEstimate": 37645
     },
     {
       "ID": "010_TROPHY_MISSION_EARTH_MEMORIES",
@@ -10381,7 +10386,7 @@
       "Name": "The Earth\u0027s Light",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 36042
+      "UsersEstimate": 36043
     },
     {
       "ID": "011_TROPHY_MISSION_REMEMBER",
@@ -10389,7 +10394,7 @@
       "Name": "Shared Recollections",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 33639
+      "UsersEstimate": 33640
     },
     {
       "ID": "012_TROPHY_MISSION_WATER_MEMORIES",
@@ -10453,7 +10458,7 @@
       "Name": "Memories of the Distant Past",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 52862
+      "UsersEstimate": 52863
     },
     {
       "ID": "020_TROPHY_COMPLETE_SUB_MISSION",
@@ -10469,7 +10474,7 @@
       "Name": "Manifestation of the Soul",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 77691
+      "UsersEstimate": 77692
     },
     {
       "ID": "022_TROPHY_FIRST_WEAPON_ABILITY",
@@ -10477,7 +10482,7 @@
       "Name": "Imbued Memories",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 37644
+      "UsersEstimate": 37645
     },
     {
       "ID": "023_TROPHY_DEFEAT_USAB",
@@ -10485,7 +10490,7 @@
       "Name": "No Escape",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 68881
+      "UsersEstimate": 68882
     },
     {
       "ID": "024_TROPHY_DEFEAT_UTON",
@@ -10493,7 +10498,7 @@
       "Name": "Lantern Smasher",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 62473
+      "UsersEstimate": 62474
     },
     {
       "ID": "025_TROPHY_FIRST_ANIMA_FRAGMENT",
@@ -10501,7 +10506,7 @@
       "Name": "Seeker of Power",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 68080
+      "UsersEstimate": 68081
     },
     {
       "ID": "026_TROPHY_FIRST_ANIMA_CRYSTAL",
@@ -10549,7 +10554,7 @@
       "Name": "Savant",
       "Percentage": 62,
       "XP": 60,
-      "UsersEstimate": 49658
+      "UsersEstimate": 49659
     },
     {
       "ID": "032_TROPHY_USED_MASTER_POINT",
@@ -10668,15 +10673,15 @@
     {
       "ID": "4ajkb4b",
       "IsBase": true,
-      "Progressed": 80094,
+      "Progressed": 80095,
       "Completed": 2198
     }
   ],
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2023-12-03T14:57:44.1467972+00:00",
-  "LastChanged_Achievements": "2023-12-03T16:05:52.881433+00:00",
+  "LastChanged_Achievements": "2023-12-03T17:06:28.0150121+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:14.8259189+00:00",
-  "LastUpdate_Ratings": "2023-12-03T15:57:57.4807138+00:00",
-  "LastUpdate_Achievements": "2023-12-03T16:05:52.8815148+00:00"
+  "LastUpdate_Ratings": "2023-12-03T16:58:05.2641114+00:00",
+  "LastUpdate_Achievements": "2023-12-03T17:06:28.0150666+00:00"
 }

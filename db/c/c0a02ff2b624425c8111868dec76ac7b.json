@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
     "PcReleaseDate": "2023-11-21T13:00:00+00:00",
@@ -604,9 +604,9 @@
       "ID": "ACH_DEMON_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Demon",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_DETERMINATION",
@@ -708,9 +708,9 @@
       "ID": "ACH_YINYANG_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Yin-Yang",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
@@ -723,8 +723,8 @@
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-12-03T16:05:55.6898479+00:00",
+  "LastChanged_Achievements": "2023-12-03T17:06:30.8207492+00:00",
   "LastUpdate_AppInfo": "2023-12-01T13:57:00.5730741+00:00",
-  "LastUpdate_Ratings": "2023-12-03T15:58:27.4703018+00:00",
-  "LastUpdate_Achievements": "2023-12-03T16:05:55.6898668+00:00"
+  "LastUpdate_Ratings": "2023-12-03T16:58:40.9858946+00:00",
+  "LastUpdate_Achievements": "2023-12-03T17:06:30.8207679+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 402,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16824,
+  "EOS_Progressed": 16825,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -15388,6 +15388,11 @@
       "Time": "2023-12-03T16:06:02.2800086+00:00",
       "NumProgressed": 16824,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-12-03T17:06:38.1077876+00:00",
+      "NumProgressed": 16825,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15407,7 +15412,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "tpote_achievement_11",
@@ -15455,7 +15460,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2355
+      "UsersEstimate": 2356
     },
     {
       "ID": "tpote_achievement_17",
@@ -15599,7 +15604,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2355
+      "UsersEstimate": 2356
     },
     {
       "ID": "tpote_achievement_33",
@@ -15726,15 +15731,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16824,
+      "Progressed": 16825,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-12-03T16:06:02.280008+00:00",
+  "LastChanged_Achievements": "2023-12-03T17:06:38.1077872+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:14.9686486+00:00",
-  "LastUpdate_Ratings": "2023-12-03T15:57:56.214756+00:00",
-  "LastUpdate_Achievements": "2023-12-03T16:06:02.2801103+00:00"
+  "LastUpdate_Ratings": "2023-12-03T16:58:03.6884899+00:00",
+  "LastUpdate_Achievements": "2023-12-03T17:06:38.1078775+00:00"
 }

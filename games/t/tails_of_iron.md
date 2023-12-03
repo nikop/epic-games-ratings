@@ -5,14 +5,14 @@ Rating: 4.55 (Ranked 508)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 82.00% | ~1,804 |
-| Become King | 74.00% | ~1,628 |
-| Defeat 25 Frogs | 63.00% | ~1,386 |
-| Ranged Weapon | 62.00% | ~1,364 |
-| Collect Monster Parts | 58.00% | ~1,276 |
-| Two Handed Weapon | 57.00% | ~1,254 |
-| Defeat 25 Grubs | 53.00% | ~1,166 |
-| Rescue Redgi's Brothers | 53.00% | ~1,166 |
+| Complete Guard Faction | 82.00% | ~1,805 |
+| Become King | 74.00% | ~1,629 |
+| Defeat 25 Frogs | 63.00% | ~1,387 |
+| Ranged Weapon | 62.00% | ~1,365 |
+| Collect Monster Parts | 58.00% | ~1,277 |
+| Two Handed Weapon | 57.00% | ~1,255 |
+| Defeat 25 Grubs | 53.00% | ~1,167 |
+| Rescue Redgi's Brothers | 53.00% | ~1,167 |
 | Collect Iron Ore | 48.00% | ~1,056 |
 | Kitchen Ready To Cook | 48.00% | ~1,056 |
 | Defeat 25 Mozis | 47.00% | ~1,034 |
@@ -26,7 +26,7 @@ Rating: 4.55 (Ranked 508)
 | Return Power To The Depths | 36.00% | ~792 |
 | Defeat Ratnor Rodentson | 30.00% | ~660 |
 | Return the Statues | 27.00% | ~594 |
-| Defeat Rattus Augustail | 27.00% | ~594 |
+| Defeat Rattus Augustail | 26.00% | ~572 |
 | Complete the Chefs Book | 25.00% | ~550 |
 | Complete Ranger Faction | 21.00% | ~462 |
 | Defeat Avor Warden of the Northern Wastes | 20.00% | ~440 |
@@ -36,7 +36,7 @@ Rating: 4.55 (Ranked 508)
 | King of Kings | 8.00% | ~176 |
 | A new Warchief rises | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,200 (Ranked 224)  
+Progressed: 2,201 (Ranked 224)  
 Completed: 12 (0.55%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 12 (0.55%) (Ranked 201)
 | 2023-11-30 | 2,180 | 12 |
 | 2023-12-01 | 2,186 | 12 |
 | 2023-12-02 | 2,194 | 12 |
-| 2023-12-03 | 2,200 | 12 |
+| 2023-12-03 | 2,201 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

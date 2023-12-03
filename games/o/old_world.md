@@ -16,6 +16,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 4.00% | ~625 |
 | Good | 4.00% | ~625 |
 | Just | 4.00% | ~625 |
+| Keystone | 4.00% | ~625 |
 | Learned | 4.00% | ~625 |
 | Mason | 4.00% | ~625 |
 | Noble | 4.00% | ~625 |
@@ -32,7 +33,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 3.00% | ~468 |
 | Enlightened | 3.00% | ~468 |
 | Fountainhead | 3.00% | ~468 |
-| Keystone | 3.00% | ~468 |
 | Magnificent | 3.00% | ~468 |
 | Wise | 3.00% | ~468 |
 | Developing Cities | 3.00% | ~468 |
@@ -58,6 +58,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 2.00% | ~312 |
 | Great | 2.00% | ~312 |
 | Intercessor | 2.00% | ~312 |
+| Invincible | 2.00% | ~312 |
 | Lion | 2.00% | ~312 |
 | Mighty | 2.00% | ~312 |
 | Valiant | 2.00% | ~312 |
@@ -90,7 +91,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 1.00% | ~156 |
 | Capable | 1.00% | ~156 |
 | Devout | 1.00% | ~156 |
-| Invincible | 1.00% | ~156 |
 | Ready | 1.00% | ~156 |
 | Subjugator | 1.00% | ~156 |
 | Strong Difficulty | 1.00% | ~156 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,614 (Ranked 152)  
+Progressed: 15,616 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -576,7 +576,7 @@ Completed: 5 (0.03%) (Ranked 328)
 | 2023-11-30 | 15,566 | 5 |
 | 2023-12-01 | 15,583 | 5 |
 | 2023-12-02 | 15,604 | 5 |
-| 2023-12-03 | 15,614 | 5 |
+| 2023-12-03 | 15,616 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,885 (Ranked 220)  

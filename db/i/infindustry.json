@@ -2,10 +2,10 @@
   "ID": "3e8745caaecf4adb9e358de5df7b8a41",
   "Name": "Infindustry",
   "ProductSlug": "infindustry-cccc40",
-  "Ranking_EOS_Progress": 419,
+  "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-11T23:00:00+00:00",
     "PcReleaseDate": "2022-05-03T23:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 125,
+  "EOS_Progressed": 126,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.8,
+  "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
     {
       "Time": "2023-04-26T07:04:01.8730008+00:00",
@@ -644,6 +644,11 @@
       "Time": "2023-12-03T08:04:48.7631558+00:00",
       "NumProgressed": 125,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T17:05:21.1994448+00:00",
+      "NumProgressed": 126,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 12,
@@ -655,7 +660,7 @@
       "Name": "Builder",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Cook",
@@ -671,7 +676,7 @@
       "Name": "Crafter",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Defender",
@@ -703,7 +708,7 @@
       "Name": "Healer",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Rep1",
@@ -711,7 +716,7 @@
       "Name": "Rep1",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Rep2",
@@ -719,7 +724,7 @@
       "Name": "Rep2",
       "Percentage": 2,
       "XP": 160,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Rep3",
@@ -741,23 +746,23 @@
       "ID": "Workforce",
       "SetID": "82ojhod",
       "Name": "Workforce",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
     {
       "ID": "82ojhod",
       "IsBase": true,
-      "Progressed": 125,
+      "Progressed": 126,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-12-03T16:04:53.6164935+00:00",
+  "LastChanged_Achievements": "2023-12-03T17:05:21.1994444+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:32.8948928+00:00",
-  "LastUpdate_Ratings": "2023-12-03T15:57:13.553531+00:00",
-  "LastUpdate_Achievements": "2023-12-03T16:04:53.6165243+00:00"
+  "LastUpdate_Ratings": "2023-12-03T16:57:12.7152437+00:00",
+  "LastUpdate_Achievements": "2023-12-03T17:05:21.1994608+00:00"
 }

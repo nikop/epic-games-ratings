@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1495,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -5112,9 +5112,9 @@
       "ID": "achievement_78",
       "SetID": "d252ncf",
       "Name": "Heart of Darkness",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 448
+      "UsersEstimate": 463
     },
     {
       "ID": "achievement_79",
@@ -5316,8 +5316,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-03T16:08:59.1310856+00:00",
+  "LastChanged_Achievements": "2023-12-03T17:08:59.7079992+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:17.762066+00:00",
-  "LastUpdate_Ratings": "2023-12-03T16:03:01.0633363+00:00",
-  "LastUpdate_Achievements": "2023-12-03T16:08:59.131241+00:00"
+  "LastUpdate_Ratings": "2023-12-03T17:02:48.9065253+00:00",
+  "LastUpdate_Achievements": "2023-12-03T17:08:59.7081523+00:00"
 }

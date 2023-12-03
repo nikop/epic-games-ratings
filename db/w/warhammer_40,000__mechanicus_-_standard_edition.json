@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -978,9 +978,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 228559,
+  "EOS_Progressed": 228562,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 496,
+  "EOS_NewPlayers": 498,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25793,6 +25793,11 @@
       "Time": "2023-12-03T16:09:31.2141346+00:00",
       "NumProgressed": 228559,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-03T17:09:35.199929+00:00",
+      "NumProgressed": 228562,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -25812,7 +25817,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59425
+      "UsersEstimate": 59426
     },
     {
       "ID": "ACH_BASE_11",
@@ -25844,7 +25849,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20570
+      "UsersEstimate": 20571
     },
     {
       "ID": "ACH_BASE_16",
@@ -25860,7 +25865,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20570
+      "UsersEstimate": 20571
     },
     {
       "ID": "ACH_BASE_18",
@@ -25868,7 +25873,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20570
+      "UsersEstimate": 20571
     },
     {
       "ID": "ACH_BASE_19",
@@ -26068,14 +26073,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20570
+      "UsersEstimate": 20571
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 228559,
+      "Progressed": 228562,
       "Completed": 5
     }
   ],
@@ -26083,8 +26088,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-03T11:00:01.7209861+00:00",
-  "LastChanged_Achievements": "2023-12-03T16:09:31.2141344+00:00",
+  "LastChanged_Achievements": "2023-12-03T17:09:35.1999286+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:22.7221977+00:00",
-  "LastUpdate_Ratings": "2023-12-03T15:59:53.2002088+00:00",
-  "LastUpdate_Achievements": "2023-12-03T16:09:31.214243+00:00"
+  "LastUpdate_Ratings": "2023-12-03T17:00:22.5201724+00:00",
+  "LastUpdate_Achievements": "2023-12-03T17:09:35.2000575+00:00"
 }

@@ -58,12 +58,12 @@
 | Battlemaster | 31.00% | ~463 |
 | Big Game Hunter | 31.00% | ~463 |
 | Revenge! | 31.00% | ~463 |
+| Heart of Darkness | 31.00% | ~463 |
 | Bringer of War | 31.00% | ~463 |
 | Focused | 30.00% | ~448 |
 | Fade Away | 30.00% | ~448 |
 | Treason | 30.00% | ~448 |
 | Digital Exorcist | 30.00% | ~448 |
-| Heart of Darkness | 30.00% | ~448 |
 | Archivist | 29.00% | ~434 |
 | Friend or Foe | 29.00% | ~434 |
 | Cat's in the Cradle | 29.00% | ~434 |

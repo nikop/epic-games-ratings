@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -8233,9 +8233,9 @@
       "ID": "MaxDamageDone30000",
       "SetID": "12d07c7",
       "Name": "Dealt 30000 Damage in a single match",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 427
+      "UsersEstimate": 512
     },
     {
       "ID": "MaxHealingDone30000",
@@ -8514,8 +8514,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-28T13:57:22.5296785+00:00",
-  "LastChanged_Achievements": "2023-12-03T16:09:38.6563951+00:00",
+  "LastChanged_Achievements": "2023-12-03T17:09:43.3249483+00:00",
   "LastUpdate_AppInfo": "2023-11-28T15:57:00.1791972+00:00",
-  "LastUpdate_Ratings": "2023-12-03T15:59:47.8235383+00:00",
-  "LastUpdate_Achievements": "2023-12-03T16:09:38.6564972+00:00"
+  "LastUpdate_Ratings": "2023-12-03T17:00:16.5187604+00:00",
+  "LastUpdate_Achievements": "2023-12-03T17:09:43.3250505+00:00"
 }
