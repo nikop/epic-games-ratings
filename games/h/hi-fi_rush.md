@@ -10,7 +10,7 @@ Rating: 4.87 (Ranked 24)
 | You can pet the cat! | 18.00% | ~802 |
 | Cream of the Crop | 16.00% | ~713 |
 | Who put gears in there? | 16.00% | ~713 |
-| Thanks for the free chip, Peppermint! | 15.00% | ~668 |
+| Thanks for the free chip, Peppermint! | 15.00% | ~669 |
 | You got this, Peppermint? | 14.00% | ~624 |
 | Perfect Parry | 14.00% | ~624 |
 | Alright, that felt AWESOME! | 13.00% | ~579 |
@@ -27,8 +27,8 @@ Rating: 4.87 (Ranked 24)
 | Out in a puff of smoke | 9.00% | ~401 |
 | I look cool. But I can look COOLER. | 9.00% | ~401 |
 | Does that say weakpoint? | 9.00% | ~401 |
-| Who's the boss now? | 8.00% | ~356 |
-| Perfecter Parry-er! | 8.00% | ~356 |
+| Who's the boss now? | 8.00% | ~357 |
+| Perfecter Parry-er! | 8.00% | ~357 |
 | NOW we got a kickass hideout! | 8.00% | ~238 |
 | I have to read these things? | 7.00% | ~312 |
 | Well that was a rush! | 5.00% | ~223 |
@@ -62,6 +62,7 @@ Rating: 4.87 (Ranked 24)
 | I am a good person who likes to help | 0.30% | ~13 |
 | This was... not what I expected. | 0.20% | ~9 |
 | Have we met before? | 0.20% | ~9 |
+| I saw all those hits coming a measure away! | 0.20% | ~9 |
 | Please don't make this awkward | 0.20% | ~6 |
 | That was just EVIL | 0.20% | ~6 |
 | Didn't skip a beat! | 0.10% | ~4 |
@@ -71,13 +72,12 @@ Rating: 4.87 (Ranked 24)
 | What a journey it was... | 0.10% | ~4 |
 | I'm untouchable! | 0.10% | ~4 |
 | I'm trying to FOCUS HERE! | 0.10% | ~4 |
-| I saw all those hits coming a measure away! | 0.10% | ~4 |
 | OK, I THINK I know what I'm doing now | 0.10% | ~4 |
 | It was all for this | 0.10% | ~3 |
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,456 (Ranked 194)  
+Progressed: 4,457 (Ranked 194)  
 Completed: 8 (0.18%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,6 +294,7 @@ Completed: 8 (0.18%) (Ranked 265)
 | 2023-11-30 | 4,441 | 8 |
 | 2023-12-01 | 4,446 | 8 |
 | 2023-12-02 | 4,456 | 8 |
+| 2023-12-03 | 4,457 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

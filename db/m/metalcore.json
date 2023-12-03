@@ -2,10 +2,10 @@
   "ID": "4a759e15a2d54dd38e2a7db55564ba45",
   "Name": "MetalCore",
   "ProductSlug": "metalcore-f60c27",
-  "Ranking_EOS_Progress": 772,
+  "Ranking_EOS_Progress": 773,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-30T00:00:00+00:00",
     "PcReleaseDate": "2023-11-30T00:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-30T02:21:05.077575+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:23.6822074+00:00",
-  "LastUpdate_Ratings": "2023-12-02T23:02:09.4965833+00:00",
-  "LastUpdate_Achievements": "2023-12-02T23:08:10.8986228+00:00"
+  "LastUpdate_Ratings": "2023-12-03T00:00:46.1767324+00:00",
+  "LastUpdate_Achievements": "2023-12-03T00:06:39.3512747+00:00"
 }

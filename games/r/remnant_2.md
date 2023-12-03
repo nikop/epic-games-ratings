@@ -7,8 +7,8 @@ Rating: 4.75 (Ranked 149)
 | ---- | ---------- | ----- |
 | The Killing Jar | 0.70% | ~1,632 |
 | First of Many | 0.70% | ~1,632 |
-| Regicide | 0.70% | ~86 |
-| Master of the Dark Arts | 0.70% | ~86 |
+| Regicide | 0.70% | ~87 |
+| Master of the Dark Arts | 0.70% | ~87 |
 | Expanding Horizons | 0.50% | ~1,166 |
 | Not Your Average Trait | 0.50% | ~1,166 |
 | Gleaming the Cube | 0.40% | ~933 |
@@ -18,22 +18,22 @@ Rating: 4.75 (Ranked 149)
 | Familiar Face | 0.40% | ~933 |
 | Boss'n Up | 0.40% | ~933 |
 | Trait Chaser | 0.40% | ~933 |
-| Am I Seeing This? | 0.30% | ~699 |
-| Chaos | 0.30% | ~699 |
-| Traitor | 0.30% | ~699 |
-| Power Surge | 0.30% | ~699 |
-| The God Gambit | 0.30% | ~699 |
-| Dark Designs | 0.30% | ~699 |
-| Equal Measures | 0.30% | ~699 |
-| Blue Goddess | 0.30% | ~699 |
-| Duality | 0.30% | ~699 |
-| Top Performer | 0.30% | ~699 |
-| Shhh...It's a Secret | 0.30% | ~699 |
-| Was This Supposed To Happen? | 0.30% | ~699 |
-| Scrap Collector | 0.30% | ~699 |
-| Almost There | 0.30% | ~699 |
-| Make Some Room | 0.30% | ~699 |
-| Good, But Could Be Better! | 0.30% | ~699 |
+| Am I Seeing This? | 0.30% | ~700 |
+| Chaos | 0.30% | ~700 |
+| Traitor | 0.30% | ~700 |
+| Power Surge | 0.30% | ~700 |
+| The God Gambit | 0.30% | ~700 |
+| Dark Designs | 0.30% | ~700 |
+| Equal Measures | 0.30% | ~700 |
+| Blue Goddess | 0.30% | ~700 |
+| Duality | 0.30% | ~700 |
+| Top Performer | 0.30% | ~700 |
+| Shhh...It's a Secret | 0.30% | ~700 |
+| Was This Supposed To Happen? | 0.30% | ~700 |
+| Scrap Collector | 0.30% | ~700 |
+| Almost There | 0.30% | ~700 |
+| Make Some Room | 0.30% | ~700 |
+| Good, But Could Be Better! | 0.30% | ~700 |
 | Crafty | 0.20% | ~466 |
 | Ghost in the Machine | 0.20% | ~466 |
 | Forever is a Long Time Coming | 0.20% | ~466 |
@@ -61,8 +61,8 @@ Rating: 4.75 (Ranked 149)
 | Maxed Out! | 0.10% | ~233 |
 | A Foul Feast | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,162 (Ranked 68)  
-Completed: 548 (0.24%) (Ranked 250)  
+Progressed: 233,199 (Ranked 68)  
+Completed: 548 (0.23%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -201,6 +201,7 @@ Completed: 548 (0.24%) (Ranked 250)
 | 2023-11-30 | 231,406 | 542 |
 | 2023-12-01 | 232,269 | 546 |
 | 2023-12-02 | 233,162 | 548 |
+| 2023-12-03 | 233,199 | 548 |
 ## Awards
 Max (Great Boss Battles): 2,577  (Ranked 102)  
 Sum: 6,336 (Ranked 129)  

@@ -2,13 +2,13 @@
   "ID": "7c53d7dc86494d5abcdc974b0ef0a843",
   "Name": "Kena: Bridge of Spirits",
   "ProductSlug": "kena-bridge-of-spirits",
-  "Ranking_Rating": 215,
+  "Ranking_Rating": 214,
   "Ranking_Popularity": 136,
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1481,9 +1481,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 429356,
+  "EOS_Progressed": 429357,
   "EOS_Completed": 550,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -16311,6 +16311,11 @@
       "Time": "2023-12-02T18:06:37.7797864+00:00",
       "NumProgressed": 429356,
       "NumCompleted": 550
+    },
+    {
+      "Time": "2023-12-03T00:07:26.8410463+00:00",
+      "NumProgressed": 429357,
+      "NumCompleted": 550
     }
   ],
   "TotalAchievements": 41,
@@ -16322,7 +16327,7 @@
       "Name": "Skillful Spirit Guide",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 64403
+      "UsersEstimate": 64404
     },
     {
       "ID": "ACH_ABILITY_BOMB",
@@ -16346,7 +16351,7 @@
       "Name": "Crossing Over",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 124513
+      "UsersEstimate": 124514
     },
     {
       "ID": "ACH_BOSS_ROT_GOD",
@@ -16410,7 +16415,7 @@
       "Name": "Quick Draw",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 124513
+      "UsersEstimate": 124514
     },
     {
       "ID": "ACH_CHALLENGE_DASH_KILL",
@@ -16434,7 +16439,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 133100
+      "UsersEstimate": 133101
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -16458,7 +16463,7 @@
       "Name": "Between the Eyes",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 201797
+      "UsersEstimate": 201798
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -16490,7 +16495,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 407888
+      "UsersEstimate": 407889
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -16506,7 +16511,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 309136
+      "UsersEstimate": 309137
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -16522,7 +16527,7 @@
       "Name": "Into the Woods",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 300549
+      "UsersEstimate": 300550
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -16538,7 +16543,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 343485
+      "UsersEstimate": 343486
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -16554,7 +16559,7 @@
       "Name": "Zen Master",
       "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 34348
+      "UsersEstimate": 34349
     },
     {
       "ID": "ACH_PHOTO_MODE",
@@ -16578,7 +16583,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 141687
+      "UsersEstimate": 141688
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -16602,7 +16607,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 240439
+      "UsersEstimate": 240440
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -16634,7 +16639,7 @@
       "Name": "Adira\u0027s Regret",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 133100
+      "UsersEstimate": 133101
     },
     {
       "ID": "ACH_ROT_ALL",
@@ -16649,15 +16654,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 429356,
+      "Progressed": 429357,
       "Completed": 550
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-11-28T07:57:38.5040997+00:00",
-  "LastChanged_Achievements": "2023-12-02T23:09:58.6945244+00:00",
+  "LastChanged_Achievements": "2023-12-03T00:07:26.8410459+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:49.1718908+00:00",
-  "LastUpdate_Ratings": "2023-12-02T23:02:42.8161369+00:00",
-  "LastUpdate_Achievements": "2023-12-02T23:09:58.6946205+00:00"
+  "LastUpdate_Ratings": "2023-12-03T00:01:29.9904042+00:00",
+  "LastUpdate_Achievements": "2023-12-03T00:07:26.841173+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "ed76203f46df4835968c332886fadb25",
   "Name": "Restless Soul",
   "ProductSlug": "restless-soul-d5baed",
-  "Ranking_EOS_Progress": 772,
+  "Ranking_EOS_Progress": 773,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-09-01T14:00:00+00:00",
     "PcReleaseDate": "2022-09-01T14:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:20.7530847+00:00",
   "LastChanged": "2023-03-31T05:58:20.7530848+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:04.2645633+00:00",
-  "LastUpdate_Ratings": "2023-12-02T23:04:48.0385065+00:00",
-  "LastUpdate_Achievements": "2023-12-02T23:11:09.3151688+00:00"
+  "LastUpdate_Ratings": "2023-12-03T00:02:00.9943827+00:00",
+  "LastUpdate_Achievements": "2023-12-03T00:08:18.9879535+00:00"
 }

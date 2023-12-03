@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,7 +145,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4456,
+  "EOS_Progressed": 4457,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
@@ -8055,6 +8055,11 @@
       "Time": "2023-12-02T17:07:43.498335+00:00",
       "NumProgressed": 4456,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-03T00:03:29.681796+00:00",
+      "NumProgressed": 4457,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8114,7 +8119,7 @@
       "Name": "Who\u0027s the boss now?",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "Ach008",
@@ -8178,7 +8183,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "Ach016",
@@ -8314,7 +8319,7 @@
       "Name": "Perfecter Parry-er!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "Ach033",
@@ -8528,9 +8533,9 @@
       "ID": "Ach059",
       "SetID": "12n4k20",
       "Name": "I saw all those hits coming a measure away!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 9
     },
     {
       "ID": "Ach060",
@@ -8633,13 +8638,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4456,
+      "Progressed": 4457,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2977,
+      "Progressed": 2978,
       "Completed": 1930
     }
   ],
@@ -8647,8 +8652,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-02T23:05:40.9004048+00:00",
+  "LastChanged_Achievements": "2023-12-03T00:03:29.6817956+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:21.1661658+00:00",
-  "LastUpdate_Ratings": "2023-12-02T23:02:00.5669149+00:00",
-  "LastUpdate_Achievements": "2023-12-02T23:05:40.900495+00:00"
+  "LastUpdate_Ratings": "2023-12-03T00:00:34.4215446+00:00",
+  "LastUpdate_Achievements": "2023-12-03T00:03:29.6818965+00:00"
 }

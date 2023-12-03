@@ -6,24 +6,24 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 18.00% | ~120,048 |
-| Incurious | 17.00% | ~113,378 |
-| Climate Change | 16.00% | ~106,709 |
-| Stroller | 15.00% | ~100,040 |
-| Toy Train | 14.00% | ~93,370 |
-| Advanced Hiker | 13.00% | ~86,701 |
-| Hiker | 12.00% | ~80,032 |
-| Mojave Courier | 6.00% | ~40,016 |
-| Saved by Nausicaä | 5.00% | ~33,347 |
-| Advanced Voyager | 4.00% | ~26,677 |
-| Expert Stroller | 4.00% | ~26,677 |
-| Voyager | 3.00% | ~20,008 |
-| Orient Express | 3.00% | ~20,008 |
-| Marathon | 3.00% | ~20,008 |
-| Destructionist | 3.00% | ~20,008 |
+| Advanced Stroller | 18.00% | ~120,053 |
+| Incurious | 17.00% | ~113,383 |
+| Climate Change | 16.00% | ~106,714 |
+| Stroller | 15.00% | ~100,044 |
+| Toy Train | 14.00% | ~93,374 |
+| Advanced Hiker | 13.00% | ~86,705 |
+| Hiker | 12.00% | ~80,035 |
+| Mojave Courier | 6.00% | ~40,018 |
+| Saved by Nausicaä | 5.00% | ~33,348 |
+| Advanced Voyager | 4.00% | ~26,678 |
+| Expert Stroller | 4.00% | ~26,678 |
+| Voyager | 3.00% | ~20,009 |
+| Orient Express | 3.00% | ~20,009 |
+| Marathon | 3.00% | ~20,009 |
+| Destructionist | 3.00% | ~20,009 |
 | Expert Hiker | 2.00% | ~13,339 |
 | Lost | 2.00% | ~13,339 |
-| Rocketman | 0.80% | ~5,335 |
+| Rocketman | 0.80% | ~5,336 |
 | Expert Voyager | 0.70% | ~4,669 |
 | Shopaholic | 0.70% | ~4,669 |
 | Dynamite Fishing | 0.70% | ~4,669 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~667 |
 | 20 Miles under the Sea | 0.10% | ~667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666,931 (Ranked 28)  
+Progressed: 666,960 (Ranked 28)  
 Completed: 12 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,6 +286,7 @@ Completed: 12 (0.00%) (Ranked 365)
 | 2023-11-30 | 666,373 | 12 |
 | 2023-12-01 | 666,625 | 12 |
 | 2023-12-02 | 666,931 | 12 |
+| 2023-12-03 | 666,960 | 12 |
 ## Awards
 Max (Great for Beginners): 202  (Ranked 290)  
 Sum: 1,603 (Ranked 232)  

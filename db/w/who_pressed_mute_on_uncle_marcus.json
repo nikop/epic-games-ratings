@@ -3,9 +3,9 @@
   "Name": "Who Pressed Mute on Uncle Marcus?",
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 378,
-  "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 326,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_Completed": 41,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239,
+  "EOS_Progressed": 240,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.46,
+  "EOS_Completed_Percentage": 10.42,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.284727+00:00",
@@ -545,6 +545,11 @@
       "Time": "2023-12-01T22:08:48.8388915+00:00",
       "NumProgressed": 239,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-12-03T00:09:15.9048754+00:00",
+      "NumProgressed": 240,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 17,
@@ -556,7 +561,7 @@
       "Name": "And away we go!",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "bless_the_rain",
@@ -564,7 +569,7 @@
       "Name": "I bless the rain down in London",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "blow",
@@ -596,7 +601,7 @@
       "Name": "Delusions",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "dont_fear_the_baldness",
@@ -652,7 +657,7 @@
       "Name": "Sorry, kiddo",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "the_truth",
@@ -684,14 +689,14 @@
       "Name": "You are Carol Vorderman",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     }
   ],
   "AchievementSets": [
     {
       "ID": "202dmm8",
       "IsBase": true,
-      "Progressed": 239,
+      "Progressed": 240,
       "Completed": 25
     }
   ],
@@ -699,8 +704,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-12-02T23:11:53.8600796+00:00",
+  "LastChanged_Achievements": "2023-12-03T00:09:15.9048751+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:20.7396665+00:00",
-  "LastUpdate_Ratings": "2023-12-02T23:00:04.8333675+00:00",
-  "LastUpdate_Achievements": "2023-12-02T23:11:53.8600981+00:00"
+  "LastUpdate_Ratings": "2023-12-02T23:58:02.0709768+00:00",
+  "LastUpdate_Achievements": "2023-12-03T00:09:15.904888+00:00"
 }

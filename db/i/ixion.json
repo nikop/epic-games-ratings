@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -299,7 +299,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3390,
+  "EOS_Progressed": 3391,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
@@ -6039,6 +6039,11 @@
       "Time": "2023-12-02T19:06:31.4501523+00:00",
       "NumProgressed": 3390,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T00:07:22.9632425+00:00",
+      "NumProgressed": 3391,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6162,7 +6167,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "ACH_BASE_25",
@@ -6346,7 +6351,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "ACH_BASE_49",
@@ -6505,13 +6510,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1574,
+      "Progressed": 1575,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3390,
+      "Progressed": 3391,
       "Completed": 0
     }
   ],
@@ -6519,8 +6524,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-11-29T21:59:30.1166071+00:00",
-  "LastChanged_Achievements": "2023-12-02T23:09:55.5610137+00:00",
+  "LastChanged_Achievements": "2023-12-03T00:07:22.9632423+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:25.2087668+00:00",
-  "LastUpdate_Ratings": "2023-12-02T23:00:11.8261334+00:00",
-  "LastUpdate_Achievements": "2023-12-02T23:09:55.5610738+00:00"
+  "LastUpdate_Ratings": "2023-12-02T23:58:11.834043+00:00",
+  "LastUpdate_Achievements": "2023-12-03T00:07:22.963328+00:00"
 }

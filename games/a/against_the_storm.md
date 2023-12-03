@@ -14,6 +14,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Land of Greed | 1.00% | ~176 |
 | Ominous Presence | 1.00% | ~176 |
 | Untamed Wilds | 1.00% | ~176 |
+| First Real Expedition | 0.20% | ~35 |
 | Overcoming Difficulty | 0.20% | ~35 |
 | Watchtower | 0.20% | ~35 |
 | Coral Forest | 0.20% | ~35 |
@@ -30,7 +31,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Efficient Explorer | 0.10% | ~18 |
 | Refinery | 0.10% | ~18 |
 | Homesick | 0.10% | ~18 |
-| First Real Expedition | 0.10% | ~18 |
 | Against All Odds | 0.10% | ~18 |
 | Ruined Armory | 0.10% | ~18 |
 | Bandit Camp | 0.10% | ~18 |

@@ -16,7 +16,7 @@ Number of Ratings: 892  (23.09.2022)
 | On that Grindset | 76.00% | ~387 |
 | No Mountain Wide Enough | 76.00% | ~387 |
 | Yakmel Whisperer | 73.00% | ~372 |
-| Diamonds are Forever | 71.00% | ~361 |
+| Diamonds are Forever | 72.00% | ~366 |
 | Can We Keep It? | 70.00% | ~356 |
 | Pack Mule | 69.00% | ~351 |
 | I Do! | 67.00% | ~341 |
@@ -104,12 +104,12 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-12-01 | 497 | 0 |
 | 2023-12-02 | 512 | 0 |
 ## Awards
-Max (Character Customization): 600  (Ranked 197)  
-Sum: 1,413 (Ranked 239)  
-Diff (max vs sum): -42  
+Max (Character Customization): 601  (Ranked 196)  
+Sum: 1,414 (Ranked 239)  
+Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 600 |
+| This game has Inclusive Character Customization | 601 |
 | This game is Great for Beginners | 113 |
 | This game is Highly Recommended | 91 |
 | This game is Extremely Fun | 89 |
@@ -302,4 +302,4 @@ Diff (max vs sum): -42
 | 2023-11-29 | 4.68 | - | 599 | 1,406 |
 | 2023-11-30 | 4.68 | - | 600 | 1,411 |
 | 2023-12-01 | 4.68 | - | 600 | 1,412 |
-| 2023-12-02 | 4.68 | - | 600 | 1,413 |
+| 2023-12-02 | 4.68 | - | 601 | 1,414 |

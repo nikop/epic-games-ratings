@@ -4,8 +4,8 @@
   "ProductSlug": "front-mission-1st-remake-124a24",
   "Ranking_EOS_Progress": 660,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -285,8 +285,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:06.1324977+00:00",
   "FirstSeenAchievements": "2023-06-26T08:01:45.5503063+00:00",
-  "LastChanged_Achievements": "2023-12-02T23:07:26.6288691+00:00",
+  "LastChanged_Achievements": "2023-12-03T00:05:43.040729+00:00",
   "LastUpdate_AppInfo": "2023-11-27T19:57:22.2973432+00:00",
-  "LastUpdate_Ratings": "2023-12-02T23:01:08.3869911+00:00",
-  "LastUpdate_Achievements": "2023-12-02T23:07:26.6288865+00:00"
+  "LastUpdate_Ratings": "2023-12-02T23:59:27.1993083+00:00",
+  "LastUpdate_Achievements": "2023-12-03T00:05:43.0407439+00:00"
 }

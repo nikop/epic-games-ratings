@@ -25,9 +25,9 @@ Rating: 4.19 (Ranked 928)
 | What Lies Beneath | 5.00% | ~825 |
 | Full Circle | 5.00% | ~825 |
 | Power Up | 5.00% | ~825 |
+| It's Time | 5.00% | ~222 |
 | Giving Back | 4.00% | ~660 |
 | Terminated | 4.00% | ~660 |
-| It's Time | 4.00% | ~177 |
 | The Commonality | 3.00% | ~495 |
 | In Striking Distance | 2.00% | ~330 |
 | One Last Job | 2.00% | ~89 |

@@ -2,10 +2,10 @@
   "ID": "bc736ece2ddb43eb9850842fd7eb8167",
   "Name": "Bohnice - Within the Mind",
   "ProductSlug": "bohnice-within-the-mind-6d0726",
-  "Ranking_EOS_Progress": 772,
+  "Ranking_EOS_Progress": 773,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-26T15:57:05.8328734+00:00",
-  "LastUpdate_Ratings": "2023-12-02T23:00:31.8845917+00:00",
-  "LastUpdate_Achievements": "2023-12-02T23:06:37.4090116+00:00"
+  "LastUpdate_Ratings": "2023-12-02T23:58:38.0858522+00:00",
+  "LastUpdate_Achievements": "2023-12-03T00:04:40.5627686+00:00"
 }

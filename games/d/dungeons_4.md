@@ -14,7 +14,7 @@
 | Thalya's Concentrated Fury | 68.00% | ~350 |
 | Bad Elves Go Everywhere | 68.00% | ~350 |
 | Master of Magic | 64.00% | ~330 |
-| Heroes’ Gorge | 62.00% | ~319 |
+| Heroes’ Gorge | 63.00% | ~324 |
 | Unicorn steaks – fresh off the hoof! | 60.00% | ~309 |
 | Magic Accidents | 58.00% | ~299 |
 | Trap Master | 56.00% | ~288 |
@@ -22,7 +22,7 @@
 | The Ascent | 54.00% | ~278 |
 | It's Warm and Cozy at Home | 54.00% | ~278 |
 | Hard Work | 49.00% | ~252 |
-| YOU SHALL NOT PASS! | 47.00% | ~242 |
+| YOU SHALL NOT PASS! | 48.00% | ~247 |
 | The Big Eaty | 47.00% | ~242 |
 | Pure Dynamite! | 44.00% | ~227 |
 | “… like son” | 44.00% | ~227 |

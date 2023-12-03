@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2454,9 +2454,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44050,
+  "EOS_Progressed": 44051,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9454,6 +9454,11 @@
       "Time": "2023-12-02T20:06:13.4242614+00:00",
       "NumProgressed": 44050,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-12-03T00:05:42.9700484+00:00",
+      "NumProgressed": 44051,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -9465,7 +9470,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27311
+      "UsersEstimate": 27312
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -9473,7 +9478,7 @@
       "Name": "Kali Ma",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2202
+      "UsersEstimate": 2203
     },
     {
       "ID": "SE_COMPLETE_ALL_CHAPTERS_WITH_A_FULL_TEAM",
@@ -9497,7 +9502,7 @@
       "Name": "Well equipped",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 5726
+      "UsersEstimate": 5727
     },
     {
       "ID": "SE_COMPLETE_BLOOD_COUNT",
@@ -9537,7 +9542,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 18060
+      "UsersEstimate": 18061
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -9545,7 +9550,7 @@
       "Name": "Damnedbusters",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3964
+      "UsersEstimate": 3965
     },
     {
       "ID": "SE_COMPLETE_DEAD_ZEPPELIN",
@@ -9697,7 +9702,7 @@
       "Name": "Have you tried turning it off and on again?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2202
+      "UsersEstimate": 2203
     },
     {
       "ID": "SE_COMPLETE_TERROR_LAB",
@@ -9713,7 +9718,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21584
+      "UsersEstimate": 21585
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -9753,7 +9758,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16298
+      "UsersEstimate": 16299
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -9785,7 +9790,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 16298
+      "UsersEstimate": 16299
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -9793,7 +9798,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30394
+      "UsersEstimate": 30395
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -9825,7 +9830,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 25108
+      "UsersEstimate": 25109
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -9857,7 +9862,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19822
+      "UsersEstimate": 19823
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -9865,7 +9870,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29073
+      "UsersEstimate": 29074
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -9921,7 +9926,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29073
+      "UsersEstimate": 29074
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -9945,7 +9950,7 @@
       "Name": "Just me and my trusty sidearm",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "SE_REVIVE_PLAYERS_X_TIMES",
@@ -9992,15 +9997,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44050,
+      "Progressed": 44051,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-12-01T15:57:51.5766287+00:00",
-  "LastChanged_Achievements": "2023-12-02T23:07:26.4947661+00:00",
+  "LastChanged_Achievements": "2023-12-03T00:05:42.9700481+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:42.1034931+00:00",
-  "LastUpdate_Ratings": "2023-12-02T23:00:47.0206859+00:00",
-  "LastUpdate_Achievements": "2023-12-02T23:07:26.4948307+00:00"
+  "LastUpdate_Ratings": "2023-12-02T23:58:58.1061349+00:00",
+  "LastUpdate_Achievements": "2023-12-03T00:05:42.9701174+00:00"
 }

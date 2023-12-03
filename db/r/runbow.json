@@ -2,13 +2,13 @@
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
-  "Ranking_Rating": 651,
+  "Ranking_Rating": 650,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251796,
+  "EOS_Progressed": 251798,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20337,6 +20337,11 @@
       "Time": "2023-12-02T23:12:05.2440012+00:00",
       "NumProgressed": 251796,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-03T00:09:29.6818882+00:00",
+      "NumProgressed": 251798,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -20372,7 +20377,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52877
+      "UsersEstimate": 52878
     },
     {
       "ID": "blotbuster",
@@ -20404,7 +20409,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 42805
+      "UsersEstimate": 42806
     },
     {
       "ID": "cantBeKeptDown",
@@ -20420,7 +20425,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37769
+      "UsersEstimate": 37770
     },
     {
       "ID": "clearCut",
@@ -20444,7 +20449,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45323
+      "UsersEstimate": 45324
     },
     {
       "ID": "curator",
@@ -20452,7 +20457,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50359
+      "UsersEstimate": 50360
     },
     {
       "ID": "didYourTime",
@@ -20524,7 +20529,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133452
+      "UsersEstimate": 133453
     },
     {
       "ID": "indegestible",
@@ -20580,7 +20585,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 35251
+      "UsersEstimate": 35252
     },
     {
       "ID": "myFirstRunbow",
@@ -20588,7 +20593,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125898
+      "UsersEstimate": 125899
     },
     {
       "ID": "notScared",
@@ -20652,7 +20657,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55395
+      "UsersEstimate": 55396
     },
     {
       "ID": "thunderstruck",
@@ -20668,7 +20673,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32733
+      "UsersEstimate": 32734
     },
     {
       "ID": "treeMedalist",
@@ -20708,14 +20713,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40287
+      "UsersEstimate": 40288
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251796,
+      "Progressed": 251798,
       "Completed": 6
     }
   ],
@@ -20723,8 +20728,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-02T23:12:05.2440007+00:00",
+  "LastChanged_Achievements": "2023-12-03T00:09:29.6818879+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.4245998+00:00",
-  "LastUpdate_Ratings": "2023-12-02T23:04:38.780677+00:00",
-  "LastUpdate_Achievements": "2023-12-02T23:12:05.244114+00:00"
+  "LastUpdate_Ratings": "2023-12-03T00:01:48.7380856+00:00",
+  "LastUpdate_Achievements": "2023-12-03T00:09:29.6820045+00:00"
 }

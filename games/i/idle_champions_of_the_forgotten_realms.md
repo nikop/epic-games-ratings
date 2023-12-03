@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~204 |
 | See You on the Flipside | 0.10% | ~204 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,082 (Ranked 65)  
+Progressed: 238,088 (Ranked 65)  
 Completed: 2,494 (1.05%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -766,6 +766,7 @@ Completed: 2,494 (1.05%) (Ranked 164)
 | 2023-11-30 | 237,660 | 2,490 |
 | 2023-12-01 | 237,920 | 2,491 |
 | 2023-12-02 | 238,082 | 2,494 |
+| 2023-12-03 | 238,088 | 2,494 |
 ## Awards
 Max (Great for Beginners): 5,585  (Ranked 70)  
 Sum: 32,705 (Ranked 41)  

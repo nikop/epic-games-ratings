@@ -9,3 +9,10 @@
 | How Far 2 ? | 0.00% | ~0 |
 | How Far 3 ? | 0.00% | ~0 |
 | EOS Latest Updates | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 708)  
+Completed: 0 (0.00%) (Ranked 365)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-12-03 | 1 | 0 |

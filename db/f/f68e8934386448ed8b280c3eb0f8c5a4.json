@@ -2,10 +2,10 @@
   "ID": "f68e8934386448ed8b280c3eb0f8c5a4",
   "Name": "Train Valley World",
   "ProductSlug": "train-valley-world-9d238c",
-  "Ranking_EOS_Progress": 772,
+  "Ranking_EOS_Progress": 773,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-01T01:53:59.3297915+00:00",
-  "LastUpdate_Ratings": "2023-12-02T23:00:27.2076584+00:00",
-  "LastUpdate_Achievements": "2023-12-02T23:06:24.5758464+00:00"
+  "LastUpdate_Ratings": "2023-12-02T23:58:32.1831718+00:00",
+  "LastUpdate_Achievements": "2023-12-03T00:04:23.955205+00:00"
 }

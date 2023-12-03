@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 90.00% | ~43 |
-| Air Fighter | 88.00% | ~42 |
-| Oo-De-Lally | 77.00% | ~37 |
-| The Altruist | 71.00% | ~34 |
-| Treasure Hunter | 67.00% | ~32 |
-| Tap Dancing | 60.00% | ~29 |
-| Watch your Step! | 54.00% | ~26 |
-| MAX LEVEL | 54.00% | ~26 |
-| Right between the eyes | 50.00% | ~24 |
-| Spring Board | 48.00% | ~23 |
-| Starry Night | 42.00% | ~20 |
-| Locksley's Tears | 38.00% | ~18 |
+| Act of Kindness | 90.00% | ~44 |
+| Air Fighter | 88.00% | ~43 |
+| Oo-De-Lally | 76.00% | ~37 |
+| The Altruist | 69.00% | ~34 |
+| Treasure Hunter | 67.00% | ~33 |
+| Tap Dancing | 59.00% | ~29 |
+| Watch your Step! | 53.00% | ~26 |
+| MAX LEVEL | 53.00% | ~26 |
+| Right between the eyes | 51.00% | ~25 |
+| Spring Board | 47.00% | ~23 |
+| Starry Night | 43.00% | ~21 |
+| Locksley's Tears | 37.00% | ~18 |
 | Merry Co-operation | 35.00% | ~17 |
 | Rebel Unleashed | 35.00% | ~17 |
 | Savior | 31.00% | ~15 |
 | Finish Him! | 29.00% | ~14 |
 | Assault on the Ram | 27.00% | ~13 |
-| First Aid | 25.00% | ~12 |
-| Merry Go Round | 25.00% | ~12 |
-| Ultra Rebel Instinct | 23.00% | ~11 |
-| Take Action! | 23.00% | ~11 |
-| Ultra Combo | 21.00% | ~10 |
-| Ascending Will | 17.00% | ~8 |
-| Haute Couture | 15.00% | ~7 |
-| Hidden Experiment | 13.00% | ~6 |
+| First Aid | 24.00% | ~12 |
+| Merry Go Round | 24.00% | ~12 |
+| Ultra Rebel Instinct | 22.00% | ~11 |
+| Take Action! | 22.00% | ~11 |
+| Ultra Combo | 20.00% | ~10 |
+| Ascending Will | 16.00% | ~8 |
+| Haute Couture | 14.00% | ~7 |
+| Hidden Experiment | 12.00% | ~6 |
 | Brilliant Executioner | 10.00% | ~5 |
 | Into the Lion's Den | 10.00% | ~5 |
 | Bold and Bossy | 8.00% | ~4 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48 (Ranked 505)  
+Progressed: 49 (Ranked 504)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,3 +72,4 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-30 | 30 | 0 |
 | 2023-12-01 | 44 | 0 |
 | 2023-12-02 | 48 | 0 |
+| 2023-12-03 | 49 | 0 |

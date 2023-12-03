@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -332,9 +332,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109849,
+  "EOS_Progressed": 109850,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3362,6 +3362,11 @@
       "Time": "2023-12-02T18:09:17.3596279+00:00",
       "NumProgressed": 109849,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-03T00:08:58.0979591+00:00",
+      "NumProgressed": 109850,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -3565,7 +3570,7 @@
       "Name": "Well Socialised!",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 25265
+      "UsersEstimate": 25266
     },
     {
       "ID": "34",
@@ -3621,7 +3626,7 @@
       "Name": "Express Yourself - Bronze",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 7689
+      "UsersEstimate": 7690
     },
     {
       "ID": "7",
@@ -3644,15 +3649,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109849,
+      "Progressed": 109850,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-12-02T23:11:39.9037149+00:00",
+  "LastChanged_Achievements": "2023-12-03T00:08:58.0979586+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:24.4391549+00:00",
-  "LastUpdate_Ratings": "2023-12-02T23:02:06.8125301+00:00",
-  "LastUpdate_Achievements": "2023-12-02T23:11:39.9037537+00:00"
+  "LastUpdate_Ratings": "2023-12-03T00:00:42.7723746+00:00",
+  "LastUpdate_Achievements": "2023-12-03T00:08:58.0980003+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1062,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -2378,9 +2378,9 @@
       "ID": "EV_ACH03",
       "SetID": "6jeac23",
       "Name": "He\u0027s Famous!",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 690
+      "UsersEstimate": 701
     },
     {
       "ID": "EV_ACH04",
@@ -2482,9 +2482,9 @@
       "ID": "EV_ACH16",
       "SetID": "6jeac23",
       "Name": "Krugmazing",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 669
+      "UsersEstimate": 680
     },
     {
       "ID": "EV_ACH17",
@@ -2721,8 +2721,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-12-02T23:12:25.0318807+00:00",
+  "LastChanged_Achievements": "2023-12-03T00:09:54.6386507+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:30.6562338+00:00",
-  "LastUpdate_Ratings": "2023-12-02T23:00:24.1357766+00:00",
-  "LastUpdate_Achievements": "2023-12-02T23:12:25.0319136+00:00"
+  "LastUpdate_Ratings": "2023-12-02T23:58:28.0333298+00:00",
+  "LastUpdate_Achievements": "2023-12-03T00:09:54.638694+00:00"
 }

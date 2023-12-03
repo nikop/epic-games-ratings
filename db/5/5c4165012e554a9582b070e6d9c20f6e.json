@@ -2,10 +2,10 @@
   "ID": "5c4165012e554a9582b070e6d9c20f6e",
   "Name": "Don\u00B4t STOP",
   "ProductSlug": "dont-stop-7bbd8c",
-  "Ranking_EOS_Progress": 772,
+  "Ranking_EOS_Progress": 773,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-31T03:00:00+00:00",
     "PcReleaseDate": "2023-10-31T03:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-29T17:57:14.7913273+00:00",
-  "LastUpdate_Ratings": "2023-12-02T23:02:16.6735135+00:00",
-  "LastUpdate_Achievements": "2023-12-02T23:07:52.7286777+00:00"
+  "LastUpdate_Ratings": "2023-12-03T00:00:55.6825249+00:00",
+  "LastUpdate_Achievements": "2023-12-03T00:06:15.6169567+00:00"
 }

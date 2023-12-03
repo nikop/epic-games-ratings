@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8500,
+  "EOS_Progressed": 8506,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7838,6 +7838,11 @@
       "Time": "2023-12-02T19:09:48.3277289+00:00",
       "NumProgressed": 8500,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T00:09:59.3970468+00:00",
+      "NumProgressed": 8506,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -7898,7 +7903,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "CreditsSpent50000",
@@ -7962,7 +7967,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "GamesPlayed1",
@@ -7970,7 +7975,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2635
+      "UsersEstimate": 2637
     },
     {
       "ID": "GamesPlayed10",
@@ -7994,7 +7999,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1701
     },
     {
       "ID": "GamesWon10",
@@ -8042,7 +8047,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "HAUpgraded1",
@@ -8066,7 +8071,7 @@
       "Name": "Purchased Healing Sphere",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "HSUPurchased1",
@@ -8114,7 +8119,7 @@
       "Name": "Purchased Incendiary Rounds",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "InhibitorKills3",
@@ -8130,7 +8135,7 @@
       "Name": "Destroyed 30 Inhibitors",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "LMGUpgraded1",
@@ -8178,7 +8183,7 @@
       "Name": "Healed for 30000 in a single match",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MaxInhibitorsKilled3",
@@ -8218,7 +8223,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "MaxTowersKilled6",
@@ -8242,7 +8247,7 @@
       "Name": "2000 Minion Eliminations",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "NIUpgraded1",
@@ -8258,7 +8263,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1106
     },
     {
       "ID": "NeutralKills200",
@@ -8282,7 +8287,7 @@
       "Name": "10 Eliminations",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "PlayerKills100",
@@ -8346,7 +8351,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "SEUpgraded1",
@@ -8434,14 +8439,14 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8500,
+      "Progressed": 8506,
       "Completed": 1
     }
   ],
@@ -8449,8 +8454,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-28T13:57:22.5296785+00:00",
-  "LastChanged_Achievements": "2023-12-02T23:12:29.1731399+00:00",
+  "LastChanged_Achievements": "2023-12-03T00:09:59.3970464+00:00",
   "LastUpdate_AppInfo": "2023-11-28T15:57:00.1791972+00:00",
-  "LastUpdate_Ratings": "2023-12-02T23:01:57.9931039+00:00",
-  "LastUpdate_Achievements": "2023-12-02T23:12:29.1732393+00:00"
+  "LastUpdate_Ratings": "2023-12-03T00:00:31.0151508+00:00",
+  "LastUpdate_Achievements": "2023-12-03T00:09:59.3971455+00:00"
 }

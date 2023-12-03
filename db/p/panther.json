@@ -1,10 +1,10 @@
 {
   "ID": "2472bc298d2f4e678296394e9136cef1",
   "Name": "Panther",
-  "Ranking_EOS_Progress": 772,
+  "Ranking_EOS_Progress": 773,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:31.5326297+00:00",
-  "LastUpdate_Ratings": "2023-12-02T23:05:09.095878+00:00",
-  "LastUpdate_Achievements": "2023-12-02T23:09:59.8661039+00:00"
+  "LastUpdate_Ratings": "2023-12-03T00:02:44.8794876+00:00",
+  "LastUpdate_Achievements": "2023-12-03T00:07:28.1783414+00:00"
 }
