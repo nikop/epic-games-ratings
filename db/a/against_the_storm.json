@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 3639,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3341,9 +3341,9 @@
       "Count": 327
     }
   ],
-  "EOS_Progressed": 17568,
+  "EOS_Progressed": 17569,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": -7,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -14616,6 +14616,11 @@
       "Time": "2023-12-03T01:59:10.8434985+00:00",
       "NumProgressed": 17568,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-03T03:09:08.5370928+00:00",
+      "NumProgressed": 17569,
+      "NumCompleted": 49
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -14666,9 +14671,9 @@
       "ID": "HarpyUtopia",
       "SetID": "cfbk359",
       "Name": "Harpy Utopia",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 18
     },
     {
       "ID": "HumanUtopia",
@@ -14842,9 +14847,9 @@
       "ID": "WinNearOutpost",
       "SetID": "cfbk359",
       "Name": "Royal Outpost",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "WinNearRuins",
@@ -14914,9 +14919,9 @@
       "ID": "WinOnMoorlands",
       "SetID": "cfbk359",
       "Name": "The Scarlet Orchard",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "WinPrestige10",
@@ -14930,9 +14935,9 @@
       "ID": "WinPrestige20",
       "SetID": "cfbk359",
       "Name": "The Queen\u0027s Chosen",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 18
     },
     {
       "ID": "WinVeryHard",
@@ -15099,15 +15104,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17568,
+      "Progressed": 17569,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-02T05:00:23.9654103+00:00",
-  "LastChanged_Achievements": "2023-12-03T02:31:53.3569184+00:00",
+  "LastChanged_Achievements": "2023-12-03T03:09:08.5370926+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:14.3162798+00:00",
-  "LastUpdate_Ratings": "2023-12-03T02:20:15.2707781+00:00",
-  "LastUpdate_Achievements": "2023-12-03T02:31:53.3569962+00:00"
+  "LastUpdate_Ratings": "2023-12-03T02:57:07.3162323+00:00",
+  "LastUpdate_Achievements": "2023-12-03T03:09:08.5371697+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -175,7 +175,7 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 837,
+  "EOS_Progressed": 838,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
@@ -1935,6 +1935,11 @@
       "Time": "2023-12-03T00:04:53.9143394+00:00",
       "NumProgressed": 837,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T03:05:12.0493387+00:00",
+      "NumProgressed": 838,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2113,9 +2118,9 @@
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 59
     },
     {
       "ID": "JustOneLap",
@@ -2123,7 +2128,7 @@
       "Name": "Just One Lap",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "LordOfTheFiles",
@@ -2227,7 +2232,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "RemnantsOfThePast",
@@ -2403,7 +2408,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "YourBiggestFan",
@@ -2411,14 +2416,14 @@
       "Name": "Your Biggest Fan",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 837,
+      "Progressed": 838,
       "Completed": 1
     }
   ],
@@ -2426,8 +2431,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-02T13:02:26.2646778+00:00",
-  "LastChanged_Achievements": "2023-12-03T02:27:25.386103+00:00",
+  "LastChanged_Achievements": "2023-12-03T03:05:12.0493376+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-03T02:20:25.6709462+00:00",
-  "LastUpdate_Achievements": "2023-12-03T02:27:25.3861582+00:00"
+  "LastUpdate_Ratings": "2023-12-03T02:57:24.3029942+00:00",
+  "LastUpdate_Achievements": "2023-12-03T03:05:12.0493886+00:00"
 }

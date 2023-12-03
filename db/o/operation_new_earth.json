@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1948,
+  "EOS_Progressed": 1949,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7383,6 +7383,11 @@
       "Time": "2023-12-02T23:10:53.2926496+00:00",
       "NumProgressed": 1948,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T03:08:17.1802508+00:00",
+      "NumProgressed": 1949,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7570,7 +7575,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -7697,7 +7702,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1948,
+      "Progressed": 1949,
       "Completed": 1
     }
   ],
@@ -7705,8 +7710,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-21T23:00:15.982699+00:00",
-  "LastChanged_Achievements": "2023-12-03T02:29:35.825646+00:00",
+  "LastChanged_Achievements": "2023-12-03T03:08:17.1802504+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:25.6864843+00:00",
-  "LastUpdate_Ratings": "2023-12-03T02:20:59.6295506+00:00",
-  "LastUpdate_Achievements": "2023-12-03T02:29:35.8257046+00:00"
+  "LastUpdate_Ratings": "2023-12-03T02:58:17.1952337+00:00",
+  "LastUpdate_Achievements": "2023-12-03T03:08:17.180313+00:00"
 }

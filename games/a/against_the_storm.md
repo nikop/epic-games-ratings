@@ -16,9 +16,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Untamed Wilds | 1.00% | ~176 |
 | First Real Expedition | 0.20% | ~35 |
 | Overcoming Difficulty | 0.20% | ~35 |
+| Royal Outpost | 0.20% | ~35 |
 | Watchtower | 0.20% | ~35 |
 | Coral Forest | 0.20% | ~35 |
 | The Marshlands | 0.20% | ~35 |
+| The Scarlet Orchard | 0.20% | ~35 |
 | Taking Action | 0.20% | ~35 |
 | No Deaths | 0.20% | ~35 |
 | Fox Utopia | 0.20% | ~35 |
@@ -26,6 +28,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Feeding The People | 0.10% | ~18 |
 | Higher Needs | 0.10% | ~18 |
 | Beaver Utopia | 0.10% | ~18 |
+| Harpy Utopia | 0.10% | ~18 |
 | Human Utopia | 0.10% | ~18 |
 | Lizard Utopia | 0.10% | ~18 |
 | Efficient Explorer | 0.10% | ~18 |
@@ -45,14 +48,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Levitating Monument | 0.10% | ~18 |
 | Flooded Mines | 0.10% | ~18 |
 | Monastery of the Holy Flame | 0.10% | ~18 |
-| Royal Outpost | 0.10% | ~18 |
 | Lost Colonies | 0.10% | ~18 |
 | Statue of the Forefathers | 0.10% | ~18 |
 | Forsaken Gods Temple | 0.10% | ~18 |
 | Corrosive Torrent | 0.10% | ~18 |
 | Cursed Lands | 0.10% | ~18 |
-| The Scarlet Orchard | 0.10% | ~18 |
 | Prestigious Expedition | 0.10% | ~18 |
+| The Queen's Chosen | 0.10% | ~18 |
 | A Real Challenge | 0.10% | ~18 |
 | Blood Flower Farmer | 0.10% | ~18 |
 | Victory Through Prosperity | 0.10% | ~18 |
@@ -62,11 +64,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Defying the Crown | 0.10% | ~18 |
 | Into the Forest | 0.10% | ~18 |
 | Paradise | 0.00% | ~0 |
-| Harpy Utopia | 0.00% | ~0 |
-| The Queen's Chosen | 0.00% | ~0 |
 | Treasure | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,568 (Ranked 146)  
+Progressed: 17,569 (Ranked 146)  
 Completed: 49 (0.28%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 49 (0.28%) (Ranked 243)
 | 2023-11-30 | 17,540 | 51 |
 | 2023-12-01 | 17,557 | 49 |
 | 2023-12-02 | 17,567 | 49 |
-| 2023-12-03 | 17,568 | 49 |
+| 2023-12-03 | 17,569 | 49 |
 ## Awards
 Max (Quickly Understood Controls): 441  (Ranked 223)  
 Sum: 3,238 (Ranked 173)  

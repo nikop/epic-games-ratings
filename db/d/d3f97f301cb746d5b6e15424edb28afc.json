@@ -3130,17 +3130,17 @@
       "ID": "GSS_ACH_39_GARAGE_02",
       "SetID": "5fn8ia4",
       "Name": "Machine Head",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 786
+      "UsersEstimate": 797
     },
     {
       "ID": "GSS_ACH_40_GARAGE_03",
       "SetID": "5fn8ia4",
       "Name": "Greasemonkey",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 638
+      "UsersEstimate": 649
     },
     {
       "ID": "GSS_ACH_41_PARTY_BUS",
@@ -3491,8 +3491,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-28T04:59:34.1023632+00:00",
-  "LastChanged_Achievements": "2023-12-03T02:28:50.0812268+00:00",
+  "LastChanged_Achievements": "2023-12-03T03:07:11.4511491+00:00",
   "LastUpdate_AppInfo": "2023-11-27T17:57:10.8459621+00:00",
-  "LastUpdate_Ratings": "2023-12-03T02:21:32.6227064+00:00",
-  "LastUpdate_Achievements": "2023-12-03T02:28:50.0813135+00:00"
+  "LastUpdate_Ratings": "2023-12-03T02:59:08.9599948+00:00",
+  "LastUpdate_Achievements": "2023-12-03T03:07:11.451248+00:00"
 }

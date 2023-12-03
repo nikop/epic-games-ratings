@@ -19,11 +19,11 @@
 | Stone Collection | 9.00% | ~22 |
 | The Collector | 9.00% | ~22 |
 | Fashion Victim | 8.00% | ~19 |
+| Essence Blow | 6.00% | ~15 |
 | Calm before the Storm | 5.00% | ~12 |
 | To Battle | 5.00% | ~12 |
 | Godslayer | 5.00% | ~12 |
 | The Mentor | 5.00% | ~12 |
-| Essence Blow | 5.00% | ~12 |
 | Alchemist | 5.00% | ~12 |
 | Airborne | 4.00% | ~10 |
 | Fine Feathers Make Fine Birds | 4.00% | ~10 |

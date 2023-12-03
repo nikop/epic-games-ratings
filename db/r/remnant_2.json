@@ -5085,9 +5085,9 @@
       "Count": 393
     }
   ],
-  "EOS_Progressed": 233280,
+  "EOS_Progressed": 233302,
   "EOS_Completed": 548,
-  "EOS_NewPlayers": 5053,
+  "EOS_NewPlayers": 5061,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -21090,6 +21090,11 @@
       "Time": "2023-12-03T02:31:55.5103218+00:00",
       "NumProgressed": 233280,
       "NumCompleted": 548
+    },
+    {
+      "Time": "2023-12-03T03:09:11.6243337+00:00",
+      "NumProgressed": 233302,
+      "NumCompleted": 548
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21102,7 +21107,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -21406,7 +21411,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "Obtain_Traits_B",
@@ -21541,13 +21546,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 233280,
+      "Progressed": 233302,
       "Completed": 548
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 12445,
+      "Progressed": 12467,
       "Completed": 181
     }
   ],
@@ -21555,8 +21560,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-03T01:53:25.7512646+00:00",
-  "LastChanged_Achievements": "2023-12-03T02:31:55.5103216+00:00",
+  "LastChanged_Achievements": "2023-12-03T03:09:11.6243334+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-03T02:26:16.6403771+00:00",
-  "LastUpdate_Achievements": "2023-12-03T02:31:55.5104306+00:00"
+  "LastUpdate_Ratings": "2023-12-03T03:03:30.0647743+00:00",
+  "LastUpdate_Achievements": "2023-12-03T03:09:11.6244547+00:00"
 }

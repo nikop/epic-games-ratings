@@ -754,9 +754,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 41550,
+  "EOS_Progressed": 41553,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 363,
+  "EOS_NewPlayers": 364,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -23804,6 +23804,11 @@
       "Time": "2023-12-03T01:53:57.2208881+00:00",
       "NumProgressed": 41550,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-03T03:04:02.5098952+00:00",
+      "NumProgressed": 41553,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -23879,7 +23884,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4570
+      "UsersEstimate": 4571
     },
     {
       "ID": "ach_cursestone",
@@ -23895,7 +23900,7 @@
       "Name": "Storm\u0027s Curse",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1246
+      "UsersEstimate": 1247
     },
     {
       "ID": "ach_dawnmachine",
@@ -23903,7 +23908,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4570
+      "UsersEstimate": 4571
     },
     {
       "ID": "ach_deathofermod",
@@ -23935,7 +23940,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 14958
+      "UsersEstimate": 14959
     },
     {
       "ID": "ach_die10",
@@ -23967,7 +23972,7 @@
       "Name": "We\u0027re Gonna Need a Bigger Boat",
       "Percentage": 3,
       "XP": 70,
-      "UsersEstimate": 1246
+      "UsersEstimate": 1247
     },
     {
       "ID": "ach_eye",
@@ -23983,7 +23988,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4570
+      "UsersEstimate": 4571
     },
     {
       "ID": "ach_invictus",
@@ -23999,7 +24004,7 @@
       "Name": "Come Closer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1246
+      "UsersEstimate": 1247
     },
     {
       "ID": "ach_legacycorrespondent",
@@ -24039,7 +24044,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4570
+      "UsersEstimate": 4571
     },
     {
       "ID": "ach_newstories",
@@ -24167,7 +24172,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7479
+      "UsersEstimate": 7480
     },
     {
       "ID": "ach_terror100",
@@ -24183,7 +24188,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6232
+      "UsersEstimate": 6233
     },
     {
       "ID": "ach_undercurrent",
@@ -24246,15 +24251,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 41550,
+      "Progressed": 41553,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-11-28T11:59:28.088711+00:00",
-  "LastChanged_Achievements": "2023-12-03T02:26:37.1944027+00:00",
+  "LastChanged_Achievements": "2023-12-03T03:04:02.5098948+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:04.5816055+00:00",
-  "LastUpdate_Ratings": "2023-12-03T02:20:22.7412474+00:00",
-  "LastUpdate_Achievements": "2023-12-03T02:26:37.194517+00:00"
+  "LastUpdate_Ratings": "2023-12-03T02:57:19.7285823+00:00",
+  "LastUpdate_Achievements": "2023-12-03T03:04:02.510006+00:00"
 }

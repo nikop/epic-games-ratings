@@ -28,9 +28,9 @@
 | Missing in Action | 44.00% | ~653 |
 | Very Elusive | 43.00% | ~639 |
 | Scientist | 43.00% | ~639 |
+| Krogan Ally | 42.00% | ~624 |
 | Merciless | 42.00% | ~624 |
 | Sentinel Ally | 41.00% | ~609 |
-| Krogan Ally | 41.00% | ~609 |
 | Head Hunter | 40.00% | ~594 |
 | Operative | 40.00% | ~594 |
 | Scholar | 40.00% | ~594 |
@@ -105,7 +105,7 @@
 | Long Service Medal | 16.00% | ~238 |
 | Sabotage Specialist | 16.00% | ~238 |
 | Throw Mastery | 16.00% | ~238 |
-| Mail Slot | 14.00% | ~208 |
+| Mail Slot | 15.00% | ~223 |
 | Electronics Specialist | 14.00% | ~208 |
 | Combined Arms | 13.00% | ~193 |
 | Bruiser | 12.00% | ~178 |

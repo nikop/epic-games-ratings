@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 10,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
@@ -2055,9 +2055,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 1291629,
+  "EOS_Progressed": 1291630,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1313,
+  "EOS_NewPlayers": 1301,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23620,6 +23620,11 @@
       "Time": "2023-12-03T02:27:10.9246954+00:00",
       "NumProgressed": 1291629,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T03:04:51.6585549+00:00",
+      "NumProgressed": 1291630,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -23927,7 +23932,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 762061
+      "UsersEstimate": 762062
     },
     {
       "ID": "hunter_win",
@@ -23959,14 +23964,14 @@
       "Name": "Unlock Any Cosmetic",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 284158
+      "UsersEstimate": 284159
     }
   ],
   "AchievementSets": [
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1291629,
+      "Progressed": 1291630,
       "Completed": 0
     }
   ],
@@ -23974,8 +23979,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2023-12-02T22:59:41.9352885+00:00",
-  "LastChanged_Achievements": "2023-12-03T02:27:10.9246952+00:00",
+  "LastChanged_Achievements": "2023-12-03T03:04:51.6585545+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:12.3438566+00:00",
-  "LastUpdate_Ratings": "2023-12-03T02:20:32.9852855+00:00",
-  "LastUpdate_Achievements": "2023-12-03T02:27:10.9247929+00:00"
+  "LastUpdate_Ratings": "2023-12-03T02:57:35.6772946+00:00",
+  "LastUpdate_Achievements": "2023-12-03T03:04:51.6586738+00:00"
 }

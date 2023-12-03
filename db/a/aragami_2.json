@@ -241,7 +241,7 @@
   "Tags": [],
   "EOS_Progressed": 44171,
   "EOS_Completed": 245,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -18508,9 +18508,9 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "db84117",
       "Name": "Ruse",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4859
+      "UsersEstimate": 5301
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -18829,8 +18829,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-12-03T02:27:26.2758762+00:00",
+  "LastChanged_Achievements": "2023-12-03T03:05:13.4282169+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:13.8521051+00:00",
-  "LastUpdate_Ratings": "2023-12-03T02:26:05.5131904+00:00",
-  "LastUpdate_Achievements": "2023-12-03T02:27:26.2759699+00:00"
+  "LastUpdate_Ratings": "2023-12-03T03:03:13.3200487+00:00",
+  "LastUpdate_Achievements": "2023-12-03T03:05:13.4283085+00:00"
 }

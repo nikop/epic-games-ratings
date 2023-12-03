@@ -30,7 +30,7 @@
 | Single Minded | 38.00% | ~135 |
 | Artful Assister | 37.00% | ~131 |
 | Karakuri Trail | 35.00% | ~124 |
-| Team Hunter | 34.00% | ~120 |
+| Team Hunter | 35.00% | ~124 |
 | Karakuri Isle | 32.00% | ~113 |
 | Reincarnation Cycle Stopper | 32.00% | ~113 |
 | Left Arm Leverager | 28.00% | ~99 |

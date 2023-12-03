@@ -1326,9 +1326,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 29582,
+  "EOS_Progressed": 29586,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 437,
+  "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -25636,6 +25636,11 @@
       "Time": "2023-12-03T01:59:45.5617655+00:00",
       "NumProgressed": 29582,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-12-03T03:09:42.7483278+00:00",
+      "NumProgressed": 29586,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 22,
@@ -25711,7 +25716,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "1024",
@@ -25743,7 +25748,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2662
+      "UsersEstimate": 2663
     },
     {
       "ID": "1028",
@@ -25767,7 +25772,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5916
+      "UsersEstimate": 5917
     },
     {
       "ID": "1031",
@@ -25775,7 +25780,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 4141
+      "UsersEstimate": 4142
     },
     {
       "ID": "1032",
@@ -25783,7 +25788,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11833
+      "UsersEstimate": 11834
     },
     {
       "ID": "1033",
@@ -25791,7 +25796,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "1034",
@@ -25822,15 +25827,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 29582,
+      "Progressed": 29586,
       "Completed": 81
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-24T16:03:24.7183261+00:00",
-  "LastChanged_Achievements": "2023-12-03T02:32:17.2610282+00:00",
+  "LastChanged_Achievements": "2023-12-03T03:09:42.7483275+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:12.8181889+00:00",
-  "LastUpdate_Ratings": "2023-12-03T02:23:29.0566402+00:00",
-  "LastUpdate_Achievements": "2023-12-03T02:32:17.2611323+00:00"
+  "LastUpdate_Ratings": "2023-12-03T03:02:50.324682+00:00",
+  "LastUpdate_Achievements": "2023-12-03T03:09:42.7484623+00:00"
 }

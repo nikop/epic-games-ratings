@@ -21,6 +21,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 4.00% | ~624 |
 | Pioneer | 4.00% | ~624 |
 | Strong | 4.00% | ~624 |
+| Warrior | 4.00% | ~624 |
 | Hanging Gardens | 4.00% | ~624 |
 | Oracle | 4.00% | ~624 |
 | Judaism | 4.00% | ~624 |
@@ -33,7 +34,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 3.00% | ~468 |
 | Keystone | 3.00% | ~468 |
 | Magnificent | 3.00% | ~468 |
-| Warrior | 3.00% | ~468 |
 | Wise | 3.00% | ~468 |
 | Developing Cities | 3.00% | ~468 |
 | Strong Cities | 3.00% | ~468 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,606 (Ranked 152)  
+Progressed: 15,607 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -576,7 +576,7 @@ Completed: 5 (0.03%) (Ranked 328)
 | 2023-11-30 | 15,566 | 5 |
 | 2023-12-01 | 15,583 | 5 |
 | 2023-12-02 | 15,604 | 5 |
-| 2023-12-03 | 15,606 | 5 |
+| 2023-12-03 | 15,607 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,884 (Ranked 220)  

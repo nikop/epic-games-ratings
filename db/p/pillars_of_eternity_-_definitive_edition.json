@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 145,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 3637,
+  "Ranking_EOS_NewPlayers": 3638,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
@@ -3339,9 +3339,9 @@
       "Count": 189
     }
   ],
-  "EOS_Progressed": 1087,
+  "EOS_Progressed": 1086,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": -1,
+  "EOS_NewPlayers": -2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3624,6 +3624,11 @@
       "Time": "2023-11-27T22:04:30.7783287+00:00",
       "NumProgressed": 1087,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-03T03:08:05.5461518+00:00",
+      "NumProgressed": 1086,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -3723,7 +3728,7 @@
       "Name": "5 Upgrades in Stronghold",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 282
     },
     {
       "ID": "achievement_13",
@@ -3875,7 +3880,7 @@
       "Name": "Bounty Hunter",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 119
     },
     {
       "ID": "achievement_32",
@@ -3891,7 +3896,7 @@
       "Name": "The Giftbearer",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 119
     },
     {
       "ID": "achievement_34",
@@ -3915,7 +3920,7 @@
       "Name": "Kickstarter Backer",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 902
+      "UsersEstimate": 901
     },
     {
       "ID": "achievement_37",
@@ -4018,15 +4023,15 @@
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1087,
+      "Progressed": 1086,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2023-12-02T17:57:21.7396044+00:00",
-  "LastChanged_Achievements": "2023-12-03T02:29:27.6500623+00:00",
+  "LastChanged_Achievements": "2023-12-03T03:08:05.5461515+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:12.3573405+00:00",
-  "LastUpdate_Ratings": "2023-12-03T02:20:26.2824623+00:00",
-  "LastUpdate_Achievements": "2023-12-03T02:29:27.6500953+00:00"
+  "LastUpdate_Ratings": "2023-12-03T02:57:25.3050103+00:00",
+  "LastUpdate_Achievements": "2023-12-03T03:08:05.5461785+00:00"
 }

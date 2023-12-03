@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7859,
+  "EOS_Progressed": 7860,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -8631,6 +8631,11 @@
       "Time": "2023-12-03T01:55:01.711457+00:00",
       "NumProgressed": 7859,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-03T03:05:05.886715+00:00",
+      "NumProgressed": 7860,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -8666,7 +8671,7 @@
       "Name": "Body and Soul",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -8714,7 +8719,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -8746,7 +8751,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "LIBERATOR",
@@ -8809,7 +8814,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7859,
+      "Progressed": 7860,
       "Completed": 34
     }
   ],
@@ -8817,8 +8822,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-30T18:59:17.1585861+00:00",
-  "LastChanged_Achievements": "2023-12-03T02:27:20.9885235+00:00",
+  "LastChanged_Achievements": "2023-12-03T03:05:05.8867147+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:30.2114196+00:00",
-  "LastUpdate_Ratings": "2023-12-03T02:22:45.5623715+00:00",
-  "LastUpdate_Achievements": "2023-12-03T02:27:20.9885792+00:00"
+  "LastUpdate_Ratings": "2023-12-03T03:01:02.4376914+00:00",
+  "LastUpdate_Achievements": "2023-12-03T03:05:05.8867615+00:00"
 }

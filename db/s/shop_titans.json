@@ -7351,9 +7351,9 @@
       "Count": 3790
     }
   ],
-  "EOS_Progressed": 143500,
+  "EOS_Progressed": 143504,
   "EOS_Completed": 290,
-  "EOS_NewPlayers": 1403,
+  "EOS_NewPlayers": 1399,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -30836,6 +30836,11 @@
       "Time": "2023-12-03T02:28:36.1030651+00:00",
       "NumProgressed": 143500,
       "NumCompleted": 290
+    },
+    {
+      "Time": "2023-12-03T03:06:51.6562887+00:00",
+      "NumProgressed": 143504,
+      "NumCompleted": 290
     }
   ],
   "TotalAchievements": 112,
@@ -31535,7 +31540,7 @@
       "Name": "The Greatest Grind",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "masterpiece",
@@ -31543,7 +31548,7 @@
       "Name": "All or Nothing!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "polonia_a",
@@ -31583,7 +31588,7 @@
       "Name": "To Hell and Back",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "rareres01",
@@ -31639,7 +31644,7 @@
       "Name": "Cash Only Please",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "sia_a",
@@ -31742,15 +31747,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 143500,
+      "Progressed": 143504,
       "Completed": 290
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-03T01:53:10.6111959+00:00",
-  "LastChanged_Achievements": "2023-12-03T02:28:36.1030647+00:00",
+  "LastChanged_Achievements": "2023-12-03T03:06:51.6562883+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:14.839929+00:00",
-  "LastUpdate_Ratings": "2023-12-03T02:26:06.7421699+00:00",
-  "LastUpdate_Achievements": "2023-12-03T02:28:36.1032761+00:00"
+  "LastUpdate_Ratings": "2023-12-03T03:03:15.3878244+00:00",
+  "LastUpdate_Achievements": "2023-12-03T03:06:51.6564797+00:00"
 }

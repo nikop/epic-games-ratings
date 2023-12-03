@@ -669,9 +669,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 57545,
+  "EOS_Progressed": 57549,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 1592,
+  "EOS_NewPlayers": 1589,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11819,6 +11819,11 @@
       "Time": "2023-12-03T02:27:57.078449+00:00",
       "NumProgressed": 57545,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-03T03:05:56.5030156+00:00",
+      "NumProgressed": 57549,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -11855,7 +11860,7 @@
       "Name": "Aspen Tree",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 8056
+      "UsersEstimate": 8057
     },
     {
       "ID": "BAD_END",
@@ -11943,7 +11948,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 12660
+      "UsersEstimate": 12661
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -12007,7 +12012,7 @@
       "Name": "Healer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 8056
+      "UsersEstimate": 8057
     },
     {
       "ID": "HERBS_2",
@@ -12031,7 +12036,7 @@
       "Name": "Initiation",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 16113
+      "UsersEstimate": 16114
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -12079,7 +12084,7 @@
       "Name": "Soldier",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 6905
+      "UsersEstimate": 6906
     },
     {
       "ID": "NORMAL_END",
@@ -12183,7 +12188,7 @@
       "Name": "Water",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 5754
+      "UsersEstimate": 5755
     },
     {
       "ID": "WOLF",
@@ -12207,7 +12212,7 @@
       "Name": "Knower",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 9207
+      "UsersEstimate": 9208
     },
     {
       "ID": "ZNATKOST_2",
@@ -12230,15 +12235,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 57545,
+      "Progressed": 57549,
       "Completed": 57
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-12-01T11:58:05.6647761+00:00",
-  "LastChanged_Achievements": "2023-12-03T02:27:57.0784486+00:00",
+  "LastChanged_Achievements": "2023-12-03T03:05:56.5030153+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:55.6045759+00:00",
-  "LastUpdate_Ratings": "2023-12-03T02:21:54.0238302+00:00",
-  "LastUpdate_Achievements": "2023-12-03T02:27:57.0785181+00:00"
+  "LastUpdate_Ratings": "2023-12-03T02:59:42.1276446+00:00",
+  "LastUpdate_Achievements": "2023-12-03T03:05:56.5030978+00:00"
 }

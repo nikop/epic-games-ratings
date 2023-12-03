@@ -6,18 +6,19 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.80% | ~8,504 |
-| Skillful | 0.80% | ~8,504 |
-| Zealous | 0.70% | ~7,441 |
-| Not half bad | 0.60% | ~6,378 |
-| I | 0.60% | ~6,378 |
-| Make Some Noise | 0.60% | ~6,378 |
-| Handyman | 0.50% | ~5,315 |
-| Apt Survivor | 0.50% | ~5,315 |
-| Survival Treasures | 0.50% | ~5,315 |
-| Sorted | 0.50% | ~5,315 |
-| Resurgence | 0.50% | ~5,315 |
+| It wakes | 0.80% | ~8,505 |
+| Skillful | 0.80% | ~8,505 |
+| Zealous | 0.70% | ~7,442 |
+| Not half bad | 0.60% | ~6,379 |
+| I | 0.60% | ~6,379 |
+| Make Some Noise | 0.60% | ~6,379 |
+| Handyman | 0.50% | ~5,316 |
+| Apt Survivor | 0.50% | ~5,316 |
+| Survival Treasures | 0.50% | ~5,316 |
+| Sorted | 0.50% | ~5,316 |
+| Resurgence | 0.50% | ~5,316 |
 | The Grand Sacrifice | 0.40% | ~4,252 |
+| Backdoor Escape | 0.40% | ~4,252 |
 | No one left behind | 0.40% | ~4,252 |
 | Medic | 0.40% | ~4,252 |
 | Perfect Escape | 0.40% | ~4,252 |
@@ -27,7 +28,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Preemptive Strike | 0.40% | ~4,252 |
 | Humanitarian | 0.40% | ~4,252 |
 | Agonizing Escape | 0.30% | ~3,189 |
-| Backdoor Escape | 0.30% | ~3,189 |
 | I've got your back | 0.30% | ~3,189 |
 | Perfect Killing | 0.30% | ~3,189 |
 | Apt Killer | 0.30% | ~3,189 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,063 |
 | Adept Good Guy | 0.10% | ~1,063 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,063,026 (Ranked 14)  
+Progressed: 1,063,119 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -466,7 +466,7 @@ Completed: 61 (0.01%) (Ranked 344)
 | 2023-11-30 | 1,056,530 | 61 |
 | 2023-12-01 | 1,059,298 | 61 |
 | 2023-12-02 | 1,062,340 | 61 |
-| 2023-12-03 | 1,063,026 | 61 |
+| 2023-12-03 | 1,063,119 | 61 |
 ## Awards
 Max (Diverse Characters): 37,095  (Ranked 15)  
 Sum: 281,988 (Ranked 12)  

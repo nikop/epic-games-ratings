@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 243,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -1094,9 +1094,9 @@
       "ID": "ACH_16",
       "SetID": "efe2lj",
       "Name": "Essence Blow",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_17",
@@ -1269,8 +1269,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-03T02:32:36.082017+00:00",
+  "LastChanged_Achievements": "2023-12-03T03:10:09.3659562+00:00",
   "LastUpdate_AppInfo": "2023-11-27T19:57:22.2061003+00:00",
-  "LastUpdate_Ratings": "2023-12-03T02:21:51.7113527+00:00",
-  "LastUpdate_Achievements": "2023-12-03T02:32:36.0820396+00:00"
+  "LastUpdate_Ratings": "2023-12-03T02:59:38.5691367+00:00",
+  "LastUpdate_Achievements": "2023-12-03T03:10:09.3659762+00:00"
 }

@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 848,
+  "EOS_Progressed": 849,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 5.78,
+  "EOS_Completed_Percentage": 5.77,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3430,6 +3430,11 @@
       "Time": "2023-12-03T01:57:58.1053553+00:00",
       "NumProgressed": 848,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-03T03:07:59.5221634+00:00",
+      "NumProgressed": 849,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 25,
@@ -3503,9 +3508,9 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 136
     },
     {
       "ID": "META_RESULT_2-3",
@@ -3551,9 +3556,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G3M4R",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 187
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -3561,7 +3566,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -3617,7 +3622,7 @@
       "Name": "A new dawn",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "PROGRESS_N4",
@@ -3640,14 +3645,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 848,
+      "Progressed": 849,
       "Completed": 49
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-03T02:29:23.3702907+00:00",
+  "LastChanged_Achievements": "2023-12-03T03:07:59.5221632+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:43.5720459+00:00",
-  "LastUpdate_Ratings": "2023-12-03T02:23:00.8133616+00:00",
-  "LastUpdate_Achievements": "2023-12-03T02:29:23.3703253+00:00"
+  "LastUpdate_Ratings": "2023-12-03T03:01:26.5256117+00:00",
+  "LastUpdate_Achievements": "2023-12-03T03:07:59.5221937+00:00"
 }

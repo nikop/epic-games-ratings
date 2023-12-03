@@ -2235,9 +2235,9 @@
       "Count": 392
     }
   ],
-  "EOS_Progressed": 55783,
+  "EOS_Progressed": 55784,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1037,
+  "EOS_NewPlayers": 1035,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10745,6 +10745,11 @@
       "Time": "2023-12-03T02:28:02.4700236+00:00",
       "NumProgressed": 55783,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T03:06:04.1643825+00:00",
+      "NumProgressed": 55784,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -10765,7 +10770,7 @@
       "Name": "Surgical Aim",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "achievement_11",
@@ -10781,7 +10786,7 @@
       "Name": "PlayStyles\u002B",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 35701
+      "UsersEstimate": 35702
     },
     {
       "ID": "achievement_13",
@@ -10821,7 +10826,7 @@
       "Name": "One Moment Please!",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 32912
+      "UsersEstimate": 32913
     },
     {
       "ID": "achievement_18",
@@ -10853,7 +10858,7 @@
       "Name": "Record Breaker",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 11714
+      "UsersEstimate": 11715
     },
     {
       "ID": "achievement_21",
@@ -10861,7 +10866,7 @@
       "Name": "We\u0027re in the Game!",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 46300
+      "UsersEstimate": 46301
     },
     {
       "ID": "achievement_22",
@@ -10869,7 +10874,7 @@
       "Name": "Level Up!",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 29007
+      "UsersEstimate": 29008
     },
     {
       "ID": "achievement_23",
@@ -11045,7 +11050,7 @@
       "Name": "Dead-ball specialist",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 32912
+      "UsersEstimate": 32913
     },
     {
       "ID": "achievement_7",
@@ -11061,7 +11066,7 @@
       "Name": "Power Shot",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 41279
+      "UsersEstimate": 41280
     },
     {
       "ID": "achievement_9",
@@ -11076,7 +11081,7 @@
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 55783,
+      "Progressed": 55784,
       "Completed": 0
     }
   ],
@@ -11084,8 +11089,8 @@
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
   "LastChanged": "2023-12-03T01:47:33.4951357+00:00",
-  "LastChanged_Achievements": "2023-12-03T02:28:02.4700233+00:00",
+  "LastChanged_Achievements": "2023-12-03T03:06:04.1643822+00:00",
   "LastUpdate_AppInfo": "2023-12-01T05:57:07.0815744+00:00",
-  "LastUpdate_Ratings": "2023-12-03T02:20:42.803015+00:00",
-  "LastUpdate_Achievements": "2023-12-03T02:28:02.4700893+00:00"
+  "LastUpdate_Ratings": "2023-12-03T02:57:51.0425238+00:00",
+  "LastUpdate_Achievements": "2023-12-03T03:06:04.1644432+00:00"
 }

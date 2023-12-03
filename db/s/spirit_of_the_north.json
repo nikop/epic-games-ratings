@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 75776,
+  "EOS_Progressed": 75777,
   "EOS_Completed": 405,
-  "EOS_NewPlayers": 566,
+  "EOS_NewPlayers": 563,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -25273,6 +25273,11 @@
       "Time": "2023-12-03T02:32:06.7531308+00:00",
       "NumProgressed": 75776,
       "NumCompleted": 405
+    },
+    {
+      "Time": "2023-12-03T03:09:27.6245072+00:00",
+      "NumProgressed": 75777,
+      "NumCompleted": 405
     }
   ],
   "TotalAchievements": 24,
@@ -25300,7 +25305,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 52285
+      "UsersEstimate": 52286
     },
     {
       "ID": "BEST_FRIENDS",
@@ -25332,7 +25337,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21217
+      "UsersEstimate": 21218
     },
     {
       "ID": "FOXIN_AROUND",
@@ -25364,7 +25369,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 40161
+      "UsersEstimate": 40162
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -25452,7 +25457,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 11366
+      "UsersEstimate": 11367
     },
     {
       "ID": "WEIGHTLESS",
@@ -25475,7 +25480,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 75776,
+      "Progressed": 75777,
       "Completed": 405
     }
   ],
@@ -25483,8 +25488,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-12-03T02:32:06.7531304+00:00",
+  "LastChanged_Achievements": "2023-12-03T03:09:27.6245069+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:18.159527+00:00",
-  "LastUpdate_Ratings": "2023-12-03T02:22:28.8040265+00:00",
-  "LastUpdate_Achievements": "2023-12-03T02:32:06.7532647+00:00"
+  "LastUpdate_Ratings": "2023-12-03T03:00:35.9055096+00:00",
+  "LastUpdate_Achievements": "2023-12-03T03:09:27.6246187+00:00"
 }

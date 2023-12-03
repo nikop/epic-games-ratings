@@ -4,7 +4,7 @@
   "ProductSlug": "pinball-m-755276",
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 709,
+  "EOS_Progressed": 711,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 708,
+  "EOS_NewPlayers": 710,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -308,6 +308,11 @@
     {
       "Time": "2023-12-03T02:28:02.8209081+00:00",
       "NumProgressed": 709,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T03:06:04.6322881+00:00",
+      "NumProgressed": 711,
       "NumCompleted": 0
     }
   ],
@@ -696,14 +701,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 709,
+      "Progressed": 711,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-03T02:28:02.8209079+00:00",
+  "LastChanged_Achievements": "2023-12-03T03:06:04.6322877+00:00",
   "LastUpdate_AppInfo": "2023-11-28T10:57:06.6543167+00:00",
-  "LastUpdate_Ratings": "2023-12-03T02:22:26.1871977+00:00",
-  "LastUpdate_Achievements": "2023-12-03T02:28:02.8209457+00:00"
+  "LastUpdate_Ratings": "2023-12-03T03:00:31.8773203+00:00",
+  "LastUpdate_Achievements": "2023-12-03T03:06:04.6323206+00:00"
 }

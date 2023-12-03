@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2070,9 +2070,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15606,
+  "EOS_Progressed": 15607,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17000,6 +17000,11 @@
       "Time": "2023-12-03T01:54:22.0622339+00:00",
       "NumProgressed": 15606,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-03T03:04:28.0131313+00:00",
+      "NumProgressed": 15607,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -17673,9 +17678,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_WARRIOR",
       "SetID": "9201eeb",
       "Name": "Warrior",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 468
+      "UsersEstimate": 624
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WHITE_DEATH",
@@ -19746,21 +19751,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15606,
+      "Progressed": 15607,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15606,
+      "Progressed": 15607,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-02T17:00:16.9280186+00:00",
-  "LastChanged_Achievements": "2023-12-03T02:26:54.25774+00:00",
+  "LastChanged_Achievements": "2023-12-03T03:04:28.0131309+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:20.3030051+00:00",
-  "LastUpdate_Ratings": "2023-12-03T02:22:31.6065836+00:00",
-  "LastUpdate_Achievements": "2023-12-03T02:26:54.2586236+00:00"
+  "LastUpdate_Ratings": "2023-12-03T03:00:40.3742842+00:00",
+  "LastUpdate_Achievements": "2023-12-03T03:04:28.0139951+00:00"
 }

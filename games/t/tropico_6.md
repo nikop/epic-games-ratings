@@ -6,7 +6,7 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,650 |
+| Just One...More...Term... | 75.00% | ~4,651 |
 | Un-Lonely Island | 46.00% | ~2,852 |
 | The Beginning of a Servantship | 45.00% | ~2,790 |
 | Trade Is My Trait | 37.00% | ~2,294 |
@@ -39,15 +39,15 @@ Number of Ratings: 398  (23.09.2022)
 | One Does Not Simply Stage A Coup | 2.00% | ~124 |
 | Promising Endeavors | 2.00% | ~124 |
 | Sublime Subliminal Supreme | 2.00% | ~124 |
-| Teamplayer | 2.00% | ~124 |
 | Terraformer | 2.00% | ~124 |
 | Curse of the Mummy | 2.00% | ~124 |
 | Chain Gang | 1.00% | ~62 |
 | From Knight to Little Duck | 1.00% | ~62 |
+| Teamplayer | 1.00% | ~62 |
 | Survivor | 0.90% | ~56 |
 | My Ways | 0.30% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,200 (Ranked 185)  
+Progressed: 6,201 (Ranked 185)  
 Completed: 2 (0.03%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,6 +274,7 @@ Completed: 2 (0.03%) (Ranked 328)
 | 2023-11-30 | 6,178 | 2 |
 | 2023-12-01 | 6,188 | 2 |
 | 2023-12-02 | 6,200 | 2 |
+| 2023-12-03 | 6,201 | 2 |
 ## Awards
 Max (Highly Recommended): 103  (Ranked 359)  
 Sum: 734 (Ranked 291)  

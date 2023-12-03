@@ -47,9 +47,9 @@
 | Bonus Evilness | 17.00% | ~88 |
 | Brimstone Shaken, Not Stirred | 17.00% | ~88 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~83 |
+| The Rune Sockets of Finitude (Part 1) | 16.00% | ~83 |
 | My Little Torture Chamber | 15.00% | ~77 |
 | Raiders of the Lost Stone | 15.00% | ~77 |
-| The Rune Sockets of Finitude (Part 1) | 15.00% | ~77 |
 | Lavalumps on Ice! | 14.00% | ~72 |
 | The Rune Sockets of Finitude (Part 2) | 14.00% | ~72 |
 | Rubble and Ashes | 13.00% | ~67 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -5509,7 +5509,7 @@
       "Count": 343
     }
   ],
-  "EOS_Progressed": 252833,
+  "EOS_Progressed": 252835,
   "EOS_Completed": 894,
   "EOS_NewPlayers": 762,
   "EOS_NewCompleters": 5,
@@ -30159,6 +30159,11 @@
       "Time": "2023-12-03T02:32:35.872417+00:00",
       "NumProgressed": 252833,
       "NumCompleted": 894
+    },
+    {
+      "Time": "2023-12-03T03:10:09.2674104+00:00",
+      "NumProgressed": 252835,
+      "NumCompleted": 894
     }
   ],
   "TotalAchievements": 39,
@@ -30170,7 +30175,7 @@
       "Name": "Welcome to Earth",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 63208
+      "UsersEstimate": 63209
     },
     {
       "ID": "AchievementBananaLickerID",
@@ -30234,7 +30239,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 230078
+      "UsersEstimate": 230080
     },
     {
       "ID": "AchievementClownID",
@@ -30258,7 +30263,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 70793
+      "UsersEstimate": 70794
     },
     {
       "ID": "AchievementEggID",
@@ -30282,7 +30287,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 83435
+      "UsersEstimate": 83436
     },
     {
       "ID": "AchievementGoatID",
@@ -30298,7 +30303,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 134001
+      "UsersEstimate": 134003
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -30306,7 +30311,7 @@
       "Name": "Into the Matrix",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 48038
+      "UsersEstimate": 48039
     },
     {
       "ID": "AchievementINirvanaID",
@@ -30330,7 +30335,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 113775
+      "UsersEstimate": 113776
     },
     {
       "ID": "AchievementIntroID",
@@ -30338,7 +30343,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 144115
+      "UsersEstimate": 144116
     },
     {
       "ID": "AchievementLootBoxID",
@@ -30402,7 +30407,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 187096
+      "UsersEstimate": 187098
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -30418,7 +30423,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 128945
+      "UsersEstimate": 128946
     },
     {
       "ID": "AchievementStreakingID",
@@ -30442,7 +30447,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 139058
+      "UsersEstimate": 139059
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -30466,7 +30471,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 164341
+      "UsersEstimate": 164343
     },
     {
       "ID": "AchievementWhaleID",
@@ -30481,7 +30486,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 252833,
+      "Progressed": 252835,
       "Completed": 894
     }
   ],
@@ -30489,8 +30494,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-12-03T01:51:28.3607089+00:00",
-  "LastChanged_Achievements": "2023-12-03T02:32:35.8724168+00:00",
+  "LastChanged_Achievements": "2023-12-03T03:10:09.2674101+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:53.8008808+00:00",
-  "LastUpdate_Ratings": "2023-12-03T02:23:14.0113294+00:00",
-  "LastUpdate_Achievements": "2023-12-03T02:32:35.8725209+00:00"
+  "LastUpdate_Ratings": "2023-12-03T03:02:27.2273799+00:00",
+  "LastUpdate_Achievements": "2023-12-03T03:10:09.2675155+00:00"
 }

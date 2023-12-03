@@ -18,9 +18,9 @@
 | Rebel Unleashed | 41.00% | ~20 |
 | Locksley's Tears | 39.00% | ~19 |
 | Merry Co-operation | 35.00% | ~17 |
+| Finish Him! | 33.00% | ~16 |
 | Assault on the Ram | 33.00% | ~16 |
 | Savior | 31.00% | ~15 |
-| Finish Him! | 31.00% | ~15 |
 | Ultra Rebel Instinct | 24.00% | ~12 |
 | First Aid | 24.00% | ~12 |
 | Merry Go Round | 24.00% | ~12 |

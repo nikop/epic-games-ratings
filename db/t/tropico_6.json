@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 291,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1413,9 +1413,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6200,
+  "EOS_Progressed": 6201,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13768,6 +13768,11 @@
       "Time": "2023-12-02T23:12:24.7993014+00:00",
       "NumProgressed": 6200,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-03T03:10:10.8817533+00:00",
+      "NumProgressed": 6201,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -13939,7 +13944,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4650
+      "UsersEstimate": 4651
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -14017,9 +14022,9 @@
       "ID": "ACH_TEAMPLAYER",
       "SetID": "1p8ab95",
       "Name": "Teamplayer",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 124
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_TERRAFORMER",
@@ -14098,15 +14103,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6200,
+      "Progressed": 6201,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-01T03:57:15.3670548+00:00",
-  "LastChanged_Achievements": "2023-12-03T02:32:37.1710459+00:00",
+  "LastChanged_Achievements": "2023-12-03T03:10:10.881753+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:34.7926512+00:00",
-  "LastUpdate_Ratings": "2023-12-03T02:21:15.1808978+00:00",
-  "LastUpdate_Achievements": "2023-12-03T02:32:37.1711279+00:00"
+  "LastUpdate_Ratings": "2023-12-03T02:58:41.6797034+00:00",
+  "LastUpdate_Achievements": "2023-12-03T03:10:10.8818298+00:00"
 }
