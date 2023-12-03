@@ -2,10 +2,10 @@
   "ID": "c1e86ca0e67349d1b6c62d3f23cda1d5",
   "Name": "Avalon The Game",
   "ProductSlug": "avalon-the-game-c2a912",
-  "Ranking_EOS_Progress": 773,
+  "Ranking_EOS_Progress": 774,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 494,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-27T10:57:15.7600899+00:00",
-  "LastUpdate_Ratings": "2023-12-03T03:59:09.6501379+00:00",
-  "LastUpdate_Achievements": "2023-12-03T04:08:05.518869+00:00"
+  "LastUpdate_Ratings": "2023-12-03T04:59:31.7203129+00:00",
+  "LastUpdate_Achievements": "2023-12-03T05:08:29.2508215+00:00"
 }

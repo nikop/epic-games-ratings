@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Learned how to jump! | 76.00% | ~25 |
-| Learned how to walk! | 76.00% | ~25 |
-| Defeated Captain Tutorial | 64.00% | ~21 |
-| Immersion Breaking | 42.00% | ~14 |
-| Ḧ̴́͊̈́́̃̈́͊̂̏̅̈́̆͊͛͋̃̍̊̓͛̔̆͘͠͝Ë̵̢̢̧̛̛͇̪̟͓̝̼͕̞͔̻͎̠͔̤̥̺̹̱̼̪̺̪̺̰̱́̊͋̈́̔̍͑̄̅́̔͛̓̽̊̒̓́͛̀̀͗̈́́̃̈́̈́̄̔̓͐͆̀̈́̄́̚͘̕͘͘̕͝ͅL̸̀͠Ṕ̵̛̎̄̽̈́́͊̅͛̄ ̶̃M̶̨̧̼̪̞͈̯̬͖͖͎̞͎̻̥̍̌͊̀̓̄̋͋̂͌̏̈́̾͆̌̈́̆̈́̐̿̓͐͝͝͠͠E̵͒̓͊͋̄͘ | 36.00% | ~12 |
-| Defeated Booty The Bootleg | 27.00% | ~9 |
+| Learned how to jump! | 76.00% | ~26 |
+| Learned how to walk! | 76.00% | ~26 |
+| Defeated Captain Tutorial | 65.00% | ~22 |
+| Immersion Breaking | 41.00% | ~14 |
+| Ḧ̴́͊̈́́̃̈́͊̂̏̅̈́̆͊͛͋̃̍̊̓͛̔̆͘͠͝Ë̵̢̢̧̛̛͇̪̟͓̝̼͕̞͔̻͎̠͔̤̥̺̹̱̼̪̺̪̺̰̱́̊͋̈́̔̍͑̄̅́̔͛̓̽̊̒̓́͛̀̀͗̈́́̃̈́̈́̄̔̓͐͆̀̈́̄́̚͘̕͘͘̕͝ͅL̸̀͠Ṕ̵̛̎̄̽̈́́͊̅͛̄ ̶̃M̶̨̧̼̪̞͈̯̬͖͖͎̞͎̻̥̍̌͊̀̓̄̋͋̂͌̏̈́̾͆̌̈́̆̈́̐̿̓͐͝͝͠͠E̵͒̓͊͋̄͘ | 35.00% | ~12 |
+| Defeated Booty The Bootleg | 26.00% | ~9 |
 | S̸̛̞̺̞̝͎̒͑̄̽͑̈̔̍̓͆͒̐͊̈́͗̌̔͆̎̉͑̚͘͘̕̚͘͝͝͝Ḁ̶̛̘̱̪͓̣̗̦̺͈̠͔̄͑̋͆̓́͒̀̈́̐̐̾̑͑͆̾͗͌̍͋̂́̿͜͝͝͠͝V̴̡̟̗̮̪͝Ẻ̸̛̛̋͆́͌́̏̐̽̔̀̈̔͗̈́̚͝͝͝ ̸̛̛̀͛̈̍̐͊͊͒̌̍͋̿̅̆̾͂̎́̈́͗́̈́͒̾̐͌̕͘͠͝͝M̷̨̧̡̨̨̡̹͎̞̠̮͕̯̥̰͙̳̱̝̝͙̙̺͍̫̻̳̭̭̎͛͗̑͊͜͜ͅE̷̡̛̛̗͍̰̹͎̳͕͉͇̫̩͎͔͍͉͉͉͎̫̱̮͓͍͉̪̻̠̅̉̃͑̏̎̌̂̆͊͒͆̒̀̈́͑̔̋̎̅̐̆͊̊͗́͆͗͋́͘̕̕͝͝ | 24.00% | ~8 |
 | Too good for this racing mini-game | 24.00% | ~8 |
 | Defeated Mistermind | 21.00% | ~7 |
@@ -31,7 +31,7 @@
 | Love Master | 0.00% | ~0 |
 | No time to waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33 (Ranked 531)  
+Progressed: 34 (Ranked 529)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,4 +51,4 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-30 | 24 | 0 |
 | 2023-12-01 | 27 | 0 |
 | 2023-12-02 | 32 | 0 |
-| 2023-12-03 | 33 | 0 |
+| 2023-12-03 | 34 | 0 |

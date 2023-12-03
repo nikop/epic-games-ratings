@@ -5,28 +5,28 @@ Rating: 4.03 (Ranked 998)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,755 |
-| World Map | 78.00% | ~2,310 |
-| Temple of Eternals | 57.00% | ~1,688 |
-| Prestigious | 53.00% | ~1,570 |
-| Fellowship Power | 42.00% | ~1,244 |
+| Victor | 93.00% | ~2,757 |
+| World Map | 78.00% | ~2,312 |
+| Temple of Eternals | 57.00% | ~1,689 |
+| Prestigious | 53.00% | ~1,571 |
+| Fellowship Power | 42.00% | ~1,245 |
 | Guild Power | 24.00% | ~711 |
 | Prestigious x10 | 21.00% | ~622 |
 | Full Party | 19.00% | ~563 |
 | The game is on | 19.00% | ~563 |
 | Exotic Merchant | 17.00% | ~504 |
 | Dragon Clicker | 16.00% | ~474 |
-| Inspection | 15.00% | ~444 |
-| Miner Clicker | 15.00% | ~444 |
+| Inspection | 15.00% | ~445 |
+| Miner Clicker | 15.00% | ~445 |
 | Dragon Master | 14.00% | ~415 |
 | Enlightenment | 14.00% | ~415 |
 | Hero inspection | 14.00% | ~415 |
 | Lieutenant | 13.00% | ~385 |
-| Milestone collector | 12.00% | ~355 |
-| Mysterious Rock | 12.00% | ~355 |
-| Natural Talent | 12.00% | ~355 |
-| Superior | 12.00% | ~355 |
-| The Unstoppable | 12.00% | ~355 |
+| Milestone collector | 12.00% | ~356 |
+| Mysterious Rock | 12.00% | ~356 |
+| Natural Talent | 12.00% | ~356 |
+| Superior | 12.00% | ~356 |
+| The Unstoppable | 12.00% | ~356 |
 | Scientist | 10.00% | ~296 |
 | Challenger | 9.00% | ~267 |
 | Daily Quest Completionist | 9.00% | ~267 |
@@ -48,19 +48,19 @@ Rating: 4.03 (Ranked 998)
 | Dragon Slayer | 6.00% | ~178 |
 | Enchanting skill | 6.00% | ~178 |
 | Engineer Mastery | 6.00% | ~178 |
-| How Do You Turn This On? | 6.00% | ~178 |
 | Sailor | 6.00% | ~178 |
 | The Expeditioner | 6.00% | ~178 |
 | Weekly Quest Completionist | 6.00% | ~178 |
 | Active Member | 5.00% | ~148 |
 | Ancient Knowledge | 5.00% | ~148 |
 | Background Story | 5.00% | ~148 |
+| How Do You Turn This On? | 5.00% | ~148 |
 | Legendary | 5.00% | ~148 |
 | Lock And Load | 5.00% | ~148 |
 | Missions Dedication | 5.00% | ~148 |
 | The Alchemist | 5.00% | ~148 |
-| Arena Challenger | 4.00% | ~118 |
-| Ebony Jungle Liberator | 4.00% | ~118 |
+| Arena Challenger | 4.00% | ~119 |
+| Ebony Jungle Liberator | 4.00% | ~119 |
 | Gear Enchanting | 3.00% | ~89 |
 | Mythic Power | 3.00% | ~89 |
 | What lies behind the bush | 3.00% | ~89 |
@@ -81,7 +81,7 @@ Rating: 4.03 (Ranked 998)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,962 (Ranked 213)  
+Progressed: 2,964 (Ranked 213)  
 Completed: 2 (0.07%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,15 +303,15 @@ Completed: 2 (0.07%) (Ranked 305)
 | 2023-11-30 | 2,847 | 2 |
 | 2023-12-01 | 2,917 | 2 |
 | 2023-12-02 | 2,955 | 2 |
-| 2023-12-03 | 2,962 | 2 |
+| 2023-12-03 | 2,964 | 2 |
 ## Awards
-Max (Great for Beginners): 35  (Ranked 478)  
-Sum: 135 (Ranked 431)  
-Diff (max vs sum): 47  
+Max (Great for Beginners): 36  (Ranked 474)  
+Sum: 137 (Ranked 431)  
+Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 35 |
-| This game is Great for Quick Sessions | 30 |
+| This game is Great for Beginners | 36 |
+| This game is Great for Quick Sessions | 31 |
 | This game has Diverse Characters | 25 |
 | This game has Playful Visuals | 25 |
 | This game is Highly Recommended | 20 |
@@ -385,3 +385,4 @@ Diff (max vs sum): 47
 | 2023-11-27 | 4.06 | 33 | 112 |
 | 2023-11-28 | 4.04 | 34 | 134 |
 | 2023-12-01 | 4.03 | 35 | 135 |
+| 2023-12-03 | 4.03 | 36 | 137 |

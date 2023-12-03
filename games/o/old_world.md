@@ -142,13 +142,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate in Babylon | 0.70% | ~109 |
 | Carthage - Ox Hide | 0.70% | ~109 |
 | Learn to Play 5 | 0.70% | ~109 |
+| Old World Order | 0.70% | ~109 |
 | Cataphract Archer | 0.70% | ~109 |
 | No Undo | 0.70% | ~109 |
 | The Great Mage | 0.70% | ~109 |
 | Kush | 0.70% | ~109 |
 | Beja Archer | 0.70% | ~109 |
 | Old | 0.60% | ~94 |
-| Old World Order | 0.60% | ~94 |
 | Ten Crowns | 0.60% | ~94 |
 | Deposed Tribe | 0.60% | ~94 |
 | Ancient | 0.50% | ~78 |

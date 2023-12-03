@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 91,
   "Ranking_EOS_NewPlayers": 494,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2016-09-20T17:00:00+00:00",
@@ -511,9 +511,9 @@
       "ID": "PEG_COMMISSIONER",
       "SetID": "bho0i1h",
       "Name": "Commissioner",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "PEG_DOCTOR",
@@ -592,8 +592,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2023-12-03T04:04:34.4814963+00:00",
+  "LastChanged_Achievements": "2023-12-03T05:04:54.8933915+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:06.5825244+00:00",
-  "LastUpdate_Ratings": "2023-12-03T03:58:47.575225+00:00",
-  "LastUpdate_Achievements": "2023-12-03T04:04:34.481514+00:00"
+  "LastUpdate_Ratings": "2023-12-03T04:59:08.102295+00:00",
+  "LastUpdate_Achievements": "2023-12-03T05:04:54.8934122+00:00"
 }

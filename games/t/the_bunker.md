@@ -17,7 +17,7 @@
 | Awakenings | 56.00% | ~83 |
 | Cold Storage | 56.00% | ~83 |
 | Sam | 56.00% | ~83 |
-| Commissioner | 51.00% | ~76 |
+| Commissioner | 52.00% | ~77 |
 | Soldier | 50.00% | ~74 |
 | Churchill | 49.00% | ~73 |
 | Leave | 48.00% | ~72 |

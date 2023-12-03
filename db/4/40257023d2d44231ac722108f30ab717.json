@@ -4,8 +4,8 @@
   "ProductSlug": "orten-was-the-case-d108fb",
   "Ranking_EOS_Progress": 606,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 317,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-11-29T00:00:00+00:00",
     "PcReleaseDate": "2023-11-29T00:00:00+00:00",
@@ -123,9 +123,9 @@
       "ID": "FLASHBACK",
       "SetID": "51l0gl8",
       "Name": "Flashback",
-      "Percentage": 36,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "GETRICHORDIETRYING",
@@ -234,8 +234,8 @@
   ],
   "FirstSeen": "2023-12-03T01:50:41.1036238+00:00",
   "FirstSeenAchievements": "2023-10-25T12:03:08.1004674+00:00",
-  "LastChanged_Achievements": "2023-12-03T04:08:29.9469373+00:00",
+  "LastChanged_Achievements": "2023-12-03T05:08:51.8281917+00:00",
   "LastUpdate_AppInfo": "2023-11-29T13:56:57.5675213+00:00",
-  "LastUpdate_Ratings": "2023-12-03T03:59:19.541372+00:00",
-  "LastUpdate_Achievements": "2023-12-03T04:08:29.9469464+00:00"
+  "LastUpdate_Ratings": "2023-12-03T04:59:42.039154+00:00",
+  "LastUpdate_Achievements": "2023-12-03T05:08:51.8282002+00:00"
 }

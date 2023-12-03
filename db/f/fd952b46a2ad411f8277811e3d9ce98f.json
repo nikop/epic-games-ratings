@@ -4,8 +4,8 @@
   "ProductSlug": "mini-royale-ad1dca",
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 5,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 4,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 375326,
+  "EOS_Progressed": 376026,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23263,
+  "EOS_NewPlayers": 23919,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10667,6 +10667,11 @@
       "Time": "2023-12-03T04:05:35.3067433+00:00",
       "NumProgressed": 375326,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T05:05:57.923551+00:00",
+      "NumProgressed": 376026,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -10679,7 +10684,7 @@
       "Name": "Soldier 47",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "firstKills_1",
@@ -10759,7 +10764,7 @@
       "Name": "Close Combat",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "kar98_wkills_100",
@@ -10767,7 +10772,7 @@
       "Name": "Kar98 Master",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "kills_1",
@@ -10775,7 +10780,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 210183
+      "UsersEstimate": 210575
     },
     {
       "ID": "kills_100",
@@ -10783,7 +10788,7 @@
       "Name": "Rookie Riot",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 3753
+      "UsersEstimate": 3760
     },
     {
       "ID": "kills_1000",
@@ -10791,7 +10796,7 @@
       "Name": "Master Soldier",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "lastBulletKills_1",
@@ -10815,7 +10820,7 @@
       "Name": "Baton Soldier",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "mru2_wins_1",
@@ -10831,7 +10836,7 @@
       "Name": "Toy Surgeon",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 37533
+      "UsersEstimate": 37603
     },
     {
       "ID": "revives_25",
@@ -10839,7 +10844,7 @@
       "Name": "Royale Surgeon",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "silencedKills_25",
@@ -10871,7 +10876,7 @@
       "Name": "Top Toy",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "top10_10",
@@ -10879,7 +10884,7 @@
       "Name": "Experienced Soldier",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "winsNoDmgTaken_1",
@@ -10911,7 +10916,7 @@
       "Name": "Toy Commander",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "ziplineDistanceTravelled_10000",
@@ -10926,13 +10931,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 375326,
+      "Progressed": 376026,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-12-03T04:05:35.3067429+00:00",
+  "LastChanged_Achievements": "2023-12-03T05:05:57.9235501+00:00",
   "LastUpdate_AppInfo": "2023-11-29T17:57:14.644808+00:00",
-  "LastUpdate_Ratings": "2023-12-03T03:59:14.3533011+00:00",
-  "LastUpdate_Achievements": "2023-12-03T04:05:35.306815+00:00"
+  "LastUpdate_Ratings": "2023-12-03T04:59:36.6237607+00:00",
+  "LastUpdate_Achievements": "2023-12-03T05:05:57.9236214+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_EOS_Progress": 773,
+  "Ranking_EOS_Progress": 774,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 494,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -38,8 +38,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged_Achievements": "2023-12-03T04:08:32.8870429+00:00",
+  "LastChanged_Achievements": "2023-12-03T05:08:54.8935368+00:00",
   "LastUpdate_AppInfo": "2023-11-30T02:19:28.0281349+00:00",
-  "LastUpdate_Ratings": "2023-12-03T03:58:49.3961379+00:00",
-  "LastUpdate_Achievements": "2023-12-03T04:08:32.887046+00:00"
+  "LastUpdate_Ratings": "2023-12-03T04:59:10.0532864+00:00",
+  "LastUpdate_Achievements": "2023-12-03T05:08:54.8935399+00:00"
 }

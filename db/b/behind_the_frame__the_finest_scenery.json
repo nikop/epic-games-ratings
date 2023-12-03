@@ -2,10 +2,10 @@
   "ID": "5fb8093984924ff5bfad61ae28730818",
   "Name": "Behind the Frame: The Finest Scenery",
   "ProductSlug": "behind-the-frame-the-finest-scenery",
-  "Ranking_EOS_Progress": 773,
+  "Ranking_EOS_Progress": 774,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 494,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2021-08-25T13:00:00+00:00",
     "PcReleaseDate": "2021-08-25T13:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:26.1927561+00:00",
   "LastChanged": "2023-03-31T05:58:26.1927562+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:55.1905581+00:00",
-  "LastUpdate_Ratings": "2023-12-03T03:59:50.9745185+00:00",
-  "LastUpdate_Achievements": "2023-12-03T04:05:20.2093829+00:00"
+  "LastUpdate_Ratings": "2023-12-03T05:00:15.4064098+00:00",
+  "LastUpdate_Achievements": "2023-12-03T05:05:42.3430608+00:00"
 }

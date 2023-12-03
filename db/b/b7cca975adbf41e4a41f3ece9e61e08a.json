@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 136,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
     "PcReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -193,10 +193,10 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 10586,
+  "EOS_Progressed": 10587,
   "EOS_Completed": 187,
-  "EOS_NewPlayers": 694,
-  "EOS_NewCompleters": 25,
+  "EOS_NewPlayers": 686,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 1.77,
   "EosHistory": [
     {
@@ -5323,6 +5323,11 @@
       "Time": "2023-12-03T04:08:13.4453174+00:00",
       "NumProgressed": 10586,
       "NumCompleted": 187
+    },
+    {
+      "Time": "2023-12-03T05:08:37.5229319+00:00",
+      "NumProgressed": 10587,
+      "NumCompleted": 187
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -5335,7 +5340,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 92,
       "XP": 20,
-      "UsersEstimate": 9739
+      "UsersEstimate": 9740
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -5343,7 +5348,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 9104
+      "UsersEstimate": 9105
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -5367,7 +5372,7 @@
       "Name": "Off We Sail Tonight",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2011
+      "UsersEstimate": 2012
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -5375,7 +5380,7 @@
       "Name": "All I Have Is Money",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2646
+      "UsersEstimate": 2647
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -5423,7 +5428,7 @@
       "Name": "A Slap In The Face!",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 2646
+      "UsersEstimate": 2647
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -5431,7 +5436,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 7622
+      "UsersEstimate": 7623
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -5471,7 +5476,7 @@
       "Name": "Love Actually",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 5081
+      "UsersEstimate": 5082
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -5479,7 +5484,7 @@
       "Name": "Absolutely Elegant",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 3493
+      "UsersEstimate": 3494
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_26",
@@ -5527,7 +5532,7 @@
       "Name": "New Yoga Pose Unlocked",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_31",
@@ -5543,15 +5548,15 @@
       "Name": "What I Want Is You",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 6457
+      "UsersEstimate": 6458
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "7opfcp",
       "Name": "To Be Or Not To Be",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 6034
+      "UsersEstimate": 6140
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -5575,7 +5580,7 @@
       "Name": "ONE PUNCH",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 3599
+      "UsersEstimate": 3600
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -5583,7 +5588,7 @@
       "Name": "FIRST LOVE",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 3599
+      "UsersEstimate": 3600
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_0",
@@ -5591,7 +5596,7 @@
       "Name": "Are You Alright?",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 5293
+      "UsersEstimate": 5294
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
@@ -5607,7 +5612,7 @@
       "Name": "Drama CP: Reel to Real",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3599
+      "UsersEstimate": 3600
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_3",
@@ -5647,7 +5652,7 @@
       "Name": "Drama King",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 4446
+      "UsersEstimate": 4447
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_8",
@@ -5670,7 +5675,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 10586,
+      "Progressed": 10587,
       "Completed": 187
     }
   ],
@@ -5678,8 +5683,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-12-01T14:59:07.0284768+00:00",
-  "LastChanged_Achievements": "2023-12-03T04:08:13.4453168+00:00",
+  "LastChanged_Achievements": "2023-12-03T05:08:37.5229315+00:00",
   "LastUpdate_AppInfo": "2023-12-02T02:15:26.2086692+00:00",
-  "LastUpdate_Ratings": "2023-12-03T03:59:37.1356479+00:00",
-  "LastUpdate_Achievements": "2023-12-03T04:08:13.4454149+00:00"
+  "LastUpdate_Ratings": "2023-12-03T05:00:00.3316216+00:00",
+  "LastUpdate_Achievements": "2023-12-03T05:08:37.5229712+00:00"
 }

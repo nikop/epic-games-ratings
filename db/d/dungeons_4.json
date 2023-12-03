@@ -1396,9 +1396,9 @@
       "ID": "ach_main04undead_completed",
       "SetID": "4hg22ll",
       "Name": "The Plains of Strothalm",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 366
     },
     {
       "ID": "ach_main04undead_minions",
@@ -1588,9 +1588,9 @@
       "ID": "ach_main11blessing_undeadonly",
       "SetID": "4hg22ll",
       "Name": "Master of the Undead",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 144
     },
     {
       "ID": "ach_main12race_completed",
@@ -1780,9 +1780,9 @@
       "ID": "ach_main19war_stonedamage",
       "SetID": "4hg22ll",
       "Name": "Hands Off My Stones",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_main20end_completed",
@@ -1819,8 +1819,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-03T04:08:08.2296308+00:00",
+  "LastChanged_Achievements": "2023-12-03T05:08:32.0886314+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:15.3424787+00:00",
-  "LastUpdate_Ratings": "2023-12-03T03:58:24.6120212+00:00",
-  "LastUpdate_Achievements": "2023-12-03T04:08:08.2296718+00:00"
+  "LastUpdate_Ratings": "2023-12-03T04:58:43.7576486+00:00",
+  "LastUpdate_Achievements": "2023-12-03T05:08:32.0886729+00:00"
 }

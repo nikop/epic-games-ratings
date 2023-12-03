@@ -6,49 +6,49 @@ Rating: 4.14 (Ranked 956)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Attachments | 10.00% | ~4,325 |
-| Unlocked Potential | 9.00% | ~3,892 |
-| Tinkerer | 7.00% | ~3,027 |
+| Unlocked Potential | 9.00% | ~3,893 |
+| Tinkerer | 7.00% | ~3,028 |
 | Leapfrogger | 6.00% | ~2,595 |
 | Knock 'Em Dead | 6.00% | ~2,595 |
 | Pilgrimage: Initiate | 6.00% | ~2,595 |
 | Hell of a Run | 6.00% | ~2,595 |
 | Call of the Fount: Baptized | 6.00% | ~2,595 |
-| No Mercy | 5.00% | ~2,162 |
-| Explorer: Seeker | 5.00% | ~2,162 |
+| No Mercy | 5.00% | ~2,163 |
+| Explorer: Seeker | 5.00% | ~2,163 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,730 |
 | Stuck | 4.00% | ~1,730 |
 | Help Me Out Here | 4.00% | ~1,730 |
-| Outdoorsperson | 3.00% | ~1,297 |
-| The Interloper | 3.00% | ~1,297 |
-| Hop, Step, Jump | 3.00% | ~1,297 |
-| Endless Runner | 3.00% | ~1,297 |
+| Outdoorsperson | 3.00% | ~1,298 |
+| The Interloper | 3.00% | ~1,298 |
+| Hop, Step, Jump | 3.00% | ~1,298 |
+| Endless Runner | 3.00% | ~1,298 |
 | What Must Be Done | 2.00% | ~865 |
 | Might and Main | 2.00% | ~865 |
 | Damned If You Do... | 2.00% | ~865 |
 | Explorer: Pathfinder | 2.00% | ~865 |
 | Shocker | 2.00% | ~865 |
 | From Every Angle | 2.00% | ~865 |
-| The Hue of Blue | 1.00% | ~432 |
-| The Truth Will Out | 1.00% | ~432 |
-| Breaking Point | 1.00% | ~432 |
-| None the Wiser | 1.00% | ~432 |
-| Forspoken | 1.00% | ~432 |
-| Pilgrimage: Novice | 1.00% | ~432 |
+| The Hue of Blue | 1.00% | ~433 |
+| The Truth Will Out | 1.00% | ~433 |
+| Breaking Point | 1.00% | ~433 |
+| None the Wiser | 1.00% | ~433 |
+| Forspoken | 1.00% | ~433 |
+| Pilgrimage: Novice | 1.00% | ~433 |
 | Wildfire | 0.70% | ~303 |
 | Realized Potential | 0.70% | ~303 |
-| Awakening | 0.60% | ~259 |
-| Explorer: Trailblazer | 0.60% | ~259 |
+| Awakening | 0.60% | ~260 |
+| Explorer: Trailblazer | 0.60% | ~260 |
 | Through the Eyes of Another: Seer | 0.50% | ~216 |
 | Archivist | 0.30% | ~130 |
 | Craftsperson | 0.30% | ~130 |
 | Tit for Tat | 0.30% | ~130 |
 | Promises | 0.30% | ~130 |
 | Rebirth | 0.30% | ~130 |
-| Paragon | 0.20% | ~86 |
-| Pilgrimage: Adept | 0.20% | ~86 |
-| Call of the Fount: Beatified | 0.20% | ~86 |
-| I Can Fly! | 0.20% | ~86 |
-| A Roaring Trade | 0.20% | ~86 |
+| Paragon | 0.20% | ~87 |
+| Pilgrimage: Adept | 0.20% | ~87 |
+| Call of the Fount: Beatified | 0.20% | ~87 |
+| I Can Fly! | 0.20% | ~87 |
+| A Roaring Trade | 0.20% | ~87 |
 | Abominizer | 0.10% | ~43 |
 | Through the Eyes of Another: Visionary | 0.10% | ~43 |
 | Kit and Caboodle | 0.10% | ~43 |
@@ -59,7 +59,7 @@ Rating: 4.14 (Ranked 956)
 | Remembrance | 0.10% | ~43 |
 | Cat Person | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,247 (Ranked 118)  
+Progressed: 43,251 (Ranked 118)  
 Completed: 3 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 3 (0.01%) (Ranked 344)
 | 2023-11-30 | 43,162 | 3 |
 | 2023-12-01 | 43,214 | 3 |
 | 2023-12-02 | 43,240 | 3 |
-| 2023-12-03 | 43,247 | 3 |
+| 2023-12-03 | 43,251 | 3 |
 ## Awards
 Max (Character Customization): 29  (Ranked 504)  
 Sum: 29 (Ranked 518)  

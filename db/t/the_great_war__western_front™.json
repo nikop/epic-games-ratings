@@ -5,10 +5,10 @@
   "Ranking_Rating": 994,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
-  "Ranking_EOS_Progress": 305,
+  "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -73,9 +73,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 574,
+  "EOS_Progressed": 575,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2628,6 +2628,11 @@
       "Time": "2023-12-02T10:05:11.7150769+00:00",
       "NumProgressed": 574,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T05:05:27.3855469+00:00",
+      "NumProgressed": 575,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2703,7 +2708,7 @@
       "Name": "Earth Shattering",
       "Percentage": 49,
       "XP": 90,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -2727,14 +2732,14 @@
       "Name": "Nothing Can Stop Us!",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 574,
+      "Progressed": 575,
       "Completed": 0
     }
   ],
@@ -2742,8 +2747,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-11-20T01:47:16.6107096+00:00",
-  "LastChanged_Achievements": "2023-12-03T04:05:05.9109108+00:00",
+  "LastChanged_Achievements": "2023-12-03T05:05:27.3855466+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:01.0011076+00:00",
-  "LastUpdate_Ratings": "2023-12-03T03:58:38.1965728+00:00",
-  "LastUpdate_Achievements": "2023-12-03T04:05:05.9109329+00:00"
+  "LastUpdate_Ratings": "2023-12-03T04:58:58.1317045+00:00",
+  "LastUpdate_Achievements": "2023-12-03T05:05:27.3855654+00:00"
 }

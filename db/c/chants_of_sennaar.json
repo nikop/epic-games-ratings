@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 849,
+  "EOS_Progressed": 850,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 5.77,
+  "EOS_Completed_Percentage": 5.76,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3435,6 +3435,11 @@
       "Time": "2023-12-03T03:07:59.5221634+00:00",
       "NumProgressed": 849,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-03T05:08:00.7226245+00:00",
+      "NumProgressed": 850,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 25,
@@ -3454,7 +3459,7 @@
       "Name": "In this together",
       "Percentage": 19,
       "XP": 200,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "META_ALL_LINK",
@@ -3462,7 +3467,7 @@
       "Name": "Peace walker",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -3478,7 +3483,7 @@
       "Name": "A good beginning",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "META_HALF_LINK",
@@ -3518,7 +3523,7 @@
       "Name": "A great audience",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "META_RESULT_2-4",
@@ -3582,7 +3587,7 @@
       "Name": "Champollion",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -3606,7 +3611,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "PROGRESS_N2",
@@ -3614,7 +3619,7 @@
       "Name": "The great escape",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "PROGRESS_N3",
@@ -3630,7 +3635,7 @@
       "Name": "The darkness",
       "Percentage": 23,
       "XP": 60,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "PROGRESS_N5",
@@ -3645,14 +3650,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 849,
+      "Progressed": 850,
       "Completed": 49
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-03T04:05:57.7433889+00:00",
+  "LastChanged_Achievements": "2023-12-03T05:08:00.7226241+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:43.5720459+00:00",
-  "LastUpdate_Ratings": "2023-12-03T03:59:36.1873435+00:00",
-  "LastUpdate_Achievements": "2023-12-03T04:05:57.7434203+00:00"
+  "LastUpdate_Ratings": "2023-12-03T04:59:59.43754+00:00",
+  "LastUpdate_Achievements": "2023-12-03T05:08:00.7226851+00:00"
 }

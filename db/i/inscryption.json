@@ -4,11 +4,11 @@
   "ProductSlug": "inscryption-6b29ab",
   "Ranking_Rating": 33,
   "Ranking_Popularity": 241,
-  "Ranking_PopularitySum": 345,
-  "Ranking_EOS_Progress": 773,
+  "Ranking_PopularitySum": 339,
+  "Ranking_EOS_Progress": 774,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 494,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2021-10-19T19:00:00+00:00",
     "PcReleaseDate": "2021-10-19T19:00:00+00:00",
@@ -722,10 +722,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 395,
       "NumberOfAwardsMax": 349
+    },
+    {
+      "Time": "2023-12-03T04:57:08.6617297+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 415,
+      "NumberOfAwardsMax": 349
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 395,
+  "NumberOfAwards": 415,
   "NumberOfAwardsMax": 349,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -746,6 +752,12 @@
       "Prefix": "This game has",
       "Type": "Diverse Characters",
       "Count": 20
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -759,8 +771,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:28.221027+00:00",
-  "LastChanged": "2023-12-01T04:00:06.1006326+00:00",
+  "LastChanged": "2023-12-03T04:57:08.6617295+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:31.8342028+00:00",
-  "LastUpdate_Ratings": "2023-12-03T03:56:54.1027145+00:00",
-  "LastUpdate_Achievements": "2023-12-03T04:04:55.4019267+00:00"
+  "LastUpdate_Ratings": "2023-12-03T04:57:08.6617299+00:00",
+  "LastUpdate_Achievements": "2023-12-03T05:05:16.7228065+00:00"
 }

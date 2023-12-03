@@ -9,7 +9,7 @@
 | For the Horde! | 82.00% | ~423 |
 | Hammer Time, Round Two | 80.00% | ~413 |
 | The Hellwoods | 75.00% | ~387 |
-| The Plains of Strothalm | 70.00% | ~361 |
+| The Plains of Strothalm | 71.00% | ~366 |
 | Experienced Thalya | 70.00% | ~361 |
 | Thalya's Concentrated Fury | 68.00% | ~351 |
 | Bad Elves Go Everywhere | 67.00% | ~346 |
@@ -33,7 +33,7 @@
 | Tanos' Crusade Against Thalya | 36.00% | ~186 |
 | All’s Well That Ends Evil | 30.00% | ~155 |
 | Unstoppable Horde | 29.00% | ~150 |
-| Master of the Undead | 27.00% | ~139 |
+| Master of the Undead | 28.00% | ~144 |
 | The Duel | 27.00% | ~139 |
 | If Looks Could Kill | 25.00% | ~129 |
 | Hungry, Hungry Gorgu! | 24.00% | ~124 |
@@ -62,7 +62,7 @@
 | Evilification | 9.00% | ~46 |
 | Gorgu is in the Best of Health | 8.00% | ~41 |
 | Heal Heal Blessing | 8.00% | ~41 |
-| Hands Off My Stones | 7.00% | ~36 |
+| Hands Off My Stones | 8.00% | ~41 |
 | No Mana, No Cry | 5.00% | ~26 |
 | I Don't Need Any Help | 5.00% | ~26 |
 ## Popularity (Based on EOS Achievements)

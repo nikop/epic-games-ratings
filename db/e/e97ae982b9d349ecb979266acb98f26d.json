@@ -2,10 +2,10 @@
   "ID": "e97ae982b9d349ecb979266acb98f26d",
   "Name": "Retro Racers 2",
   "ProductSlug": "retro-racers-2-a98f93",
-  "Ranking_EOS_Progress": 773,
+  "Ranking_EOS_Progress": 774,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 494,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-06-16T23:00:00+00:00",
     "PcReleaseDate": "2018-07-06T23:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-30T16:57:22.0170936+00:00",
-  "LastUpdate_Ratings": "2023-12-03T03:58:15.388737+00:00",
-  "LastUpdate_Achievements": "2023-12-03T04:05:54.3711437+00:00"
+  "LastUpdate_Ratings": "2023-12-03T04:58:33.9331546+00:00",
+  "LastUpdate_Achievements": "2023-12-03T05:07:57.2829882+00:00"
 }

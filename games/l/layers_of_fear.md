@@ -10,10 +10,10 @@
 | It's covered up for a reason | 45.00% | ~45 |
 | Do what you have to | 45.00% | ~45 |
 | Scraps of love | 44.00% | ~44 |
-| The artist’s impression | 43.00% | ~43 |
+| The artist’s impression | 44.00% | ~44 |
 | Refuse to look | 36.00% | ~36 |
 | Sign of weakness | 36.00% | ~36 |
-| Finished it | 26.00% | ~26 |
+| Finished it | 27.00% | ~27 |
 | Face your fears | 24.00% | ~24 |
 | Playtime | 13.00% | ~13 |
 | Tough conversation | 13.00% | ~13 |

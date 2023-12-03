@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Stilesville | 93.00% | ~68 |
-| Talented Performer | 55.00% | ~40 |
+| Welcome to Stilesville | 93.00% | ~69 |
+| Talented Performer | 54.00% | ~40 |
 | Welcome to Barcelona | 53.00% | ~39 |
 | Roller Race | 38.00% | ~28 |
-| Born to Win | 36.00% | ~26 |
-| Welcome to Seoul | 36.00% | ~26 |
-| We will need a bigger wardrobe | 36.00% | ~26 |
+| Born to Win | 35.00% | ~26 |
+| Welcome to Seoul | 35.00% | ~26 |
+| We will need a bigger wardrobe | 35.00% | ~26 |
 | Stilesville Hidden Style | 30.00% | ~22 |
-| Creating New Trends | 25.00% | ~18 |
-| Barcelona Hidden Style | 25.00% | ~18 |
-| Best Gala Ever | 25.00% | ~18 |
-| Welcome to the The Stylin' Soiree | 25.00% | ~18 |
+| Creating New Trends | 24.00% | ~18 |
+| Barcelona Hidden Style | 24.00% | ~18 |
+| Best Gala Ever | 24.00% | ~18 |
+| Welcome to the The Stylin' Soiree | 24.00% | ~18 |
 | Scooter Race | 22.00% | ~16 |
 | Seoul Hidden Style | 16.00% | ~12 |
 | Hoverboard Race | 7.00% | ~5 |
@@ -24,7 +24,7 @@
 | Xtremely Cool Pictures | 1.00% | ~1 |
 | Exclusive Photoshoot | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73 (Ranked 466)  
+Progressed: 74 (Ranked 466)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,6 +69,7 @@ Completed: 0 (0.00%) (Ranked 365)
 | 2023-11-29 | 70 | 0 |
 | 2023-12-01 | 72 | 0 |
 | 2023-12-02 | 73 | 0 |
+| 2023-12-03 | 74 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

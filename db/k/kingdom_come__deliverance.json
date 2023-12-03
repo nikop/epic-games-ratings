@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -8967,9 +8967,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 810859,
+  "EOS_Progressed": 810860,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 934,
+  "EOS_NewPlayers": 932,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -34457,6 +34457,11 @@
       "Time": "2023-12-03T04:08:33.4425482+00:00",
       "NumProgressed": 810859,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-03T05:08:55.5751668+00:00",
+      "NumProgressed": 810860,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 82,
@@ -34492,7 +34497,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 129737
+      "UsersEstimate": 129738
     },
     {
       "ID": "Awakening",
@@ -34500,7 +34505,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 170280
+      "UsersEstimate": 170281
     },
     {
       "ID": "BadGirl",
@@ -34684,7 +34689,7 @@
       "Name": "Firestarter",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 129737
+      "UsersEstimate": 129738
     },
     {
       "ID": "Freud",
@@ -35004,7 +35009,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89194
+      "UsersEstimate": 89195
     },
     {
       "ID": "Sniper",
@@ -35076,7 +35081,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89194
+      "UsersEstimate": 89195
     },
     {
       "ID": "TrialAndError",
@@ -35123,15 +35128,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 810859,
+      "Progressed": 810860,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-12-02T21:57:44.0440589+00:00",
-  "LastChanged_Achievements": "2023-12-03T04:08:33.4425479+00:00",
+  "LastChanged_Achievements": "2023-12-03T05:08:55.5751664+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:12.1153377+00:00",
-  "LastUpdate_Ratings": "2023-12-03T03:57:22.2035313+00:00",
-  "LastUpdate_Achievements": "2023-12-03T04:08:33.4426941+00:00"
+  "LastUpdate_Ratings": "2023-12-03T04:57:38.190075+00:00",
+  "LastUpdate_Achievements": "2023-12-03T05:08:55.5753408+00:00"
 }

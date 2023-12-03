@@ -2,10 +2,10 @@
   "ID": "75b542796c6a48b2b5681403e04193db",
   "Name": "Classic Car Simulator Car Driving",
   "ProductSlug": "classic-car-drive-simulator-a540a9",
-  "Ranking_EOS_Progress": 773,
+  "Ranking_EOS_Progress": 774,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 494,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
     "PcReleaseDate": "2023-02-21T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-14T02:57:25.413606+00:00",
   "LastUpdate_AppInfo": "2023-11-27T19:57:22.6720361+00:00",
-  "LastUpdate_Ratings": "2023-12-03T03:58:45.6645884+00:00",
-  "LastUpdate_Achievements": "2023-12-03T04:03:00.1558037+00:00"
+  "LastUpdate_Ratings": "2023-12-03T04:59:06.0885598+00:00",
+  "LastUpdate_Achievements": "2023-12-03T05:03:16.3041726+00:00"
 }

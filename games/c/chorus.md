@@ -23,8 +23,8 @@ Number of Ratings: 58  (23.09.2022)
 | Born to Drift | 51.00% | ~664 |
 | Relentless | 48.00% | ~624 |
 | The Path Forward | 45.00% | ~585 |
+| Phoenix | 44.00% | ~572 |
 | Disruption | 43.00% | ~559 |
-| Phoenix | 43.00% | ~559 |
 | Cult Slayer | 41.00% | ~533 |
 | Origin | 40.00% | ~520 |
 | It Was An Accident | 40.00% | ~520 |
