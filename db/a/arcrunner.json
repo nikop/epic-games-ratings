@@ -3,9 +3,9 @@
   "Name": "ArcRunner",
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 274,
-  "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 279,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_Completed": 366,
+  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 845,
+  "EOS_Progressed": 846,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1951,6 +1951,11 @@
       "Time": "2023-12-03T09:08:57.8784217+00:00",
       "NumProgressed": 845,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T20:09:13.8698651+00:00",
+      "NumProgressed": 846,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -1976,9 +1981,9 @@
       "ID": "ACHV_CHALLENGEACCEPTED",
       "SetID": "cceobco",
       "Name": "Challenge Accepted",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 220
     },
     {
       "ID": "ACHV_CHALLENGEMASTERED",
@@ -2026,7 +2031,7 @@
       "Name": "Starship Docks",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHV_EDEN",
@@ -2090,7 +2095,7 @@
       "Name": "Nanonic III",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHV_OUTERCORE",
@@ -2130,15 +2135,15 @@
       "Name": "Terminated I",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACHV_TERMINATED2",
       "SetID": "cceobco",
       "Name": "Terminated II",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 169
+      "UsersEstimate": 178
     },
     {
       "ID": "ACHV_TERMINATED3",
@@ -2162,7 +2167,7 @@
       "Name": "Unlocked and Loaded",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ACHV_UPCLOSEANDPERSONAL",
@@ -2193,13 +2198,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 845,
+      "Progressed": 846,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 271,
+      "Progressed": 272,
       "Completed": 3
     }
   ],
@@ -2207,8 +2212,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-12-03T19:09:03.7755826+00:00",
+  "LastChanged_Achievements": "2023-12-03T20:09:13.8698646+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:12.3461317+00:00",
-  "LastUpdate_Ratings": "2023-12-03T18:58:12.4299381+00:00",
-  "LastUpdate_Achievements": "2023-12-03T19:09:03.7756045+00:00"
+  "LastUpdate_Ratings": "2023-12-03T19:58:38.9918158+00:00",
+  "LastUpdate_Achievements": "2023-12-03T20:09:13.8698887+00:00"
 }

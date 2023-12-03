@@ -4,8 +4,8 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -4730,9 +4730,9 @@
       "ID": "bonus4",
       "SetID": "2h56gn1",
       "Name": "Work It",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 153
     },
     {
       "ID": "bonus5",
@@ -4979,8 +4979,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-12-03T19:04:50.8131917+00:00",
+  "LastChanged_Achievements": "2023-12-03T20:05:39.8300234+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:09.7350451+00:00",
-  "LastUpdate_Ratings": "2023-12-03T18:59:40.6408318+00:00",
-  "LastUpdate_Achievements": "2023-12-03T19:04:50.8132334+00:00"
+  "LastUpdate_Ratings": "2023-12-03T20:00:51.3607622+00:00",
+  "LastUpdate_Achievements": "2023-12-03T20:05:39.8300716+00:00"
 }

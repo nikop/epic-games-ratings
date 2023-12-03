@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11359,10 +11359,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 49756,
       "NumberOfAwardsMax": 24854
+    },
+    {
+      "Time": "2023-12-03T19:59:37.3515174+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 49759,
+      "NumberOfAwardsMax": 24854
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49756,
+  "NumberOfAwards": 49759,
   "NumberOfAwardsMax": 24854,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11400,7 +11406,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1287
+      "Count": 1290
     },
     {
       "Text": "This game has Diverse Characters",
@@ -11439,9 +11445,9 @@
       "Count": 832
     }
   ],
-  "EOS_Progressed": 303872,
+  "EOS_Progressed": 303877,
   "EOS_Completed": 521,
-  "EOS_NewPlayers": 582,
+  "EOS_NewPlayers": 576,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -35919,6 +35925,11 @@
       "Time": "2023-12-03T19:09:46.4075273+00:00",
       "NumProgressed": 303872,
       "NumCompleted": 521
+    },
+    {
+      "Time": "2023-12-03T20:10:13.833268+00:00",
+      "NumProgressed": 303877,
+      "NumCompleted": 521
     }
   ],
   "TotalAchievements": 45,
@@ -35970,7 +35981,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 18232
+      "UsersEstimate": 18233
     },
     {
       "ID": "PFA_15",
@@ -36002,7 +36013,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 27348
+      "UsersEstimate": 27349
     },
     {
       "ID": "PFA_19",
@@ -36026,7 +36037,7 @@
       "Name": "The Good Samaritan",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 6077
+      "UsersEstimate": 6078
     },
     {
       "ID": "PFA_21",
@@ -36050,7 +36061,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39503
+      "UsersEstimate": 39504
     },
     {
       "ID": "PFA_24",
@@ -36066,7 +36077,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 18232
+      "UsersEstimate": 18233
     },
     {
       "ID": "PFA_26",
@@ -36098,7 +36109,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 18232
+      "UsersEstimate": 18233
     },
     {
       "ID": "PFA_3",
@@ -36154,7 +36165,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30387
+      "UsersEstimate": 30388
     },
     {
       "ID": "PFA_36",
@@ -36162,7 +36173,7 @@
       "Name": "Rise to the Challenges",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 6077
+      "UsersEstimate": 6078
     },
     {
       "ID": "PFA_37",
@@ -36202,7 +36213,7 @@
       "Name": "Demiguise Dread",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6077
+      "UsersEstimate": 6078
     },
     {
       "ID": "PFA_41",
@@ -36226,7 +36237,7 @@
       "Name": "Finishing Touches",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 6077
+      "UsersEstimate": 6078
     },
     {
       "ID": "PFA_44",
@@ -36234,7 +36245,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27348
+      "UsersEstimate": 27349
     },
     {
       "ID": "PFA_45",
@@ -36242,7 +36253,7 @@
       "Name": "A Forte for Achievement",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 6077
+      "UsersEstimate": 6078
     },
     {
       "ID": "PFA_5",
@@ -36258,7 +36269,7 @@
       "Name": "First Class Student",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45581
+      "UsersEstimate": 45582
     },
     {
       "ID": "PFA_7",
@@ -36266,7 +36277,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42542
+      "UsersEstimate": 42543
     },
     {
       "ID": "PFA_8",
@@ -36274,7 +36285,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39503
+      "UsersEstimate": 39504
     },
     {
       "ID": "PFA_9",
@@ -36282,23 +36293,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30387
+      "UsersEstimate": 30388
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303872,
+      "Progressed": 303877,
       "Completed": 521
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-12-03T17:58:39.4495128+00:00",
-  "LastChanged_Achievements": "2023-12-03T19:09:46.4075269+00:00",
+  "LastChanged": "2023-12-03T19:59:37.3515172+00:00",
+  "LastChanged_Achievements": "2023-12-03T20:10:13.8332677+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-03T18:58:51.3720318+00:00",
-  "LastUpdate_Achievements": "2023-12-03T19:09:46.4076442+00:00"
+  "LastUpdate_Ratings": "2023-12-03T19:59:37.3515179+00:00",
+  "LastUpdate_Achievements": "2023-12-03T20:10:13.833403+00:00"
 }

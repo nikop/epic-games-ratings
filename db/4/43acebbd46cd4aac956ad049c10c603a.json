@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 495,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -181,9 +181,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 858,
+  "EOS_Progressed": 859,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2001,6 +2001,11 @@
       "Time": "2023-12-03T19:04:50.5906156+00:00",
       "NumProgressed": 858,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T20:05:39.5102939+00:00",
+      "NumProgressed": 859,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2077,7 +2082,7 @@
       "Name": "Chasing the Light",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Chicken",
@@ -2115,9 +2120,9 @@
       "ID": "EasternWetlands",
       "SetID": "1n308hc",
       "Name": "Eastern Wetlands",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 52
     },
     {
       "ID": "EcstaticTruth",
@@ -2277,7 +2282,7 @@
       "Name": "Persistent",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "PrometheusUnbound",
@@ -2325,7 +2330,7 @@
       "Name": "Signatory",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "SingleRod",
@@ -2355,9 +2360,9 @@
       "ID": "TeamSpirit",
       "SetID": "1n308hc",
       "Name": "Team Spirit",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 69
     },
     {
       "ID": "TextAdventurer",
@@ -2371,9 +2376,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 60
     },
     {
       "ID": "TheEdgeOfForever",
@@ -2484,7 +2489,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 858,
+      "Progressed": 859,
       "Completed": 1
     }
   ],
@@ -2492,8 +2497,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-03T13:00:54.7758323+00:00",
-  "LastChanged_Achievements": "2023-12-03T19:04:50.5906153+00:00",
+  "LastChanged_Achievements": "2023-12-03T20:05:39.5102932+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-03T18:57:47.7080016+00:00",
-  "LastUpdate_Achievements": "2023-12-03T19:04:50.5906686+00:00"
+  "LastUpdate_Ratings": "2023-12-03T19:58:01.1368098+00:00",
+  "LastUpdate_Achievements": "2023-12-03T20:05:39.5103566+00:00"
 }

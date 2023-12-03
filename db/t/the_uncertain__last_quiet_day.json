@@ -4,8 +4,8 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 369,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 586,
+  "EOS_Progressed": 587,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.07,
   "EosHistory": [
@@ -849,6 +849,11 @@
       "Time": "2023-12-02T14:09:14.1027959+00:00",
       "NumProgressed": 586,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-03T20:09:51.3550995+00:00",
+      "NumProgressed": 587,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 32,
@@ -868,7 +873,7 @@
       "Name": "Annoying",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "BLADE_RUNNER",
@@ -900,7 +905,7 @@
       "Name": "Curious",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "EVERYBODY_LIES",
@@ -940,15 +945,15 @@
       "Name": "Hacker",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "HANDS_UP",
       "SetID": "2iigf77",
       "Name": "Hands up!",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 311
+      "UsersEstimate": 305
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -964,7 +969,7 @@
       "Name": "He is just a child",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "HIPSTER",
@@ -1058,9 +1063,9 @@
       "ID": "SHORT_CIRCUIT",
       "SetID": "2iigf77",
       "Name": "Short circuit",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 311
+      "UsersEstimate": 305
     },
     {
       "ID": "SILENT",
@@ -1074,9 +1079,9 @@
       "ID": "SYSADMIN",
       "SetID": "2iigf77",
       "Name": "Sysadmin",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 129
+      "UsersEstimate": 123
     },
     {
       "ID": "THAT_IS_MUCH_BETTER",
@@ -1100,7 +1105,7 @@
       "Name": "Uncertain",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "WALKING_ROBOT",
@@ -1108,14 +1113,14 @@
       "Name": "The Walking Robot Among Us",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     }
   ],
   "AchievementSets": [
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 586,
+      "Progressed": 587,
       "Completed": 18
     }
   ],
@@ -1123,8 +1128,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-12-03T19:09:30.2212916+00:00",
+  "LastChanged_Achievements": "2023-12-03T20:09:51.3550989+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:50.8279078+00:00",
-  "LastUpdate_Ratings": "2023-12-03T18:57:37.4251228+00:00",
-  "LastUpdate_Achievements": "2023-12-03T19:09:30.2213144+00:00"
+  "LastUpdate_Ratings": "2023-12-03T19:57:45.6549388+00:00",
+  "LastUpdate_Achievements": "2023-12-03T20:09:51.3551202+00:00"
 }

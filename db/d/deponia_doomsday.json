@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 369,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 483,
+  "EOS_Progressed": 484,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.45,
   "EosHistory": [
@@ -715,6 +715,11 @@
       "Time": "2023-12-03T14:06:22.7699857+00:00",
       "NumProgressed": 483,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-03T20:08:05.7046867+00:00",
+      "NumProgressed": 484,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 36,
@@ -724,9 +729,9 @@
       "ID": "dep4_achievement_1",
       "SetID": "5d32b60",
       "Name": "Huzza, he\u0027s back.",
-      "Percentage": 87,
+      "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 420
+      "UsersEstimate": 416
     },
     {
       "ID": "dep4_achievement_10",
@@ -774,7 +779,7 @@
       "Name": "Weapons 101",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "dep4_achievement_16",
@@ -782,7 +787,7 @@
       "Name": "Brainfreeze",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "dep4_achievement_17",
@@ -796,9 +801,9 @@
       "ID": "dep4_achievement_18",
       "SetID": "5d32b60",
       "Name": "Chunky",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 242
     },
     {
       "ID": "dep4_achievement_19",
@@ -814,7 +819,7 @@
       "Name": "And again, and again, and...",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "dep4_achievement_20",
@@ -886,7 +891,7 @@
       "Name": "Kuvaq Minigame-Master",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "dep4_achievement_29",
@@ -902,7 +907,7 @@
       "Name": "Burn, Elysium, burn!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "dep4_achievement_30",
@@ -966,7 +971,7 @@
       "Name": "Funtime\u0027s over",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "dep4_achievement_5",
@@ -1013,7 +1018,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 483,
+      "Progressed": 484,
       "Completed": 7
     }
   ],
@@ -1021,8 +1026,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-12-03T19:07:55.4385417+00:00",
+  "LastChanged_Achievements": "2023-12-03T20:08:05.7046862+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:12.9296857+00:00",
-  "LastUpdate_Ratings": "2023-12-03T19:02:56.2616924+00:00",
-  "LastUpdate_Achievements": "2023-12-03T19:07:55.4385669+00:00"
+  "LastUpdate_Ratings": "2023-12-03T20:03:07.4354545+00:00",
+  "LastUpdate_Achievements": "2023-12-03T20:08:05.7047078+00:00"
 }

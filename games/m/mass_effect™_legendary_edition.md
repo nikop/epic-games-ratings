@@ -17,8 +17,8 @@
 | Turian Ally | 53.00% | ~793 |
 | Medal of Honor | 52.00% | ~778 |
 | Meritorious Service Medal | 52.00% | ~778 |
+| Charismatic | 51.00% | ~763 |
 | Soldier | 50.00% | ~748 |
-| Charismatic | 50.00% | ~748 |
 | Asari Ally | 47.00% | ~703 |
 | Medal of Exploration III | 46.00% | ~688 |
 | Soldier Ally | 46.00% | ~688 |
@@ -43,19 +43,19 @@
 | The Krogan | 35.00% | ~524 |
 | Broke, Blind, and Bedlam | 34.00% | ~509 |
 | Ghost Ship | 33.00% | ~494 |
+| The Prodigal | 33.00% | ~494 |
 | Galactic Explorer | 33.00% | ~494 |
 | Shopaholic | 33.00% | ~494 |
 | A Personal Touch | 32.00% | ~479 |
 | The Assassin | 32.00% | ~479 |
 | The Justicar | 32.00% | ~479 |
 | The Quarian | 32.00% | ~479 |
+| Battlemaster | 32.00% | ~479 |
 | Catharsis | 32.00% | ~479 |
 | Ghost of the Father | 32.00% | ~479 |
 | The Cure | 32.00% | ~479 |
-| The Prodigal | 32.00% | ~479 |
 | Driven | 32.00% | ~479 |
 | Completionist | 31.00% | ~464 |
-| Battlemaster | 31.00% | ~464 |
 | Big Game Hunter | 31.00% | ~464 |
 | Revenge! | 31.00% | ~464 |
 | Heart of Darkness | 31.00% | ~464 |
@@ -92,12 +92,12 @@
 | Last Resort | 21.00% | ~314 |
 | Hard Target | 21.00% | ~314 |
 | Last Witness | 21.00% | ~314 |
+| Well Connected | 21.00% | ~314 |
 | Fact Finder | 21.00% | ~314 |
 | Problem Solver | 21.00% | ~314 |
 | Pyromaniac | 20.00% | ~299 |
 | No One Left Behind | 20.00% | ~299 |
 | Saboteur | 20.00% | ~299 |
-| Well Connected | 20.00% | ~299 |
 | Executioner | 19.00% | ~284 |
 | Master and Commander | 19.00% | ~284 |
 | Patriot | 18.00% | ~269 |

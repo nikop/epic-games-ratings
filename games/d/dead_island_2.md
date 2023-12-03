@@ -5,19 +5,19 @@ Rating: 4.54 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,657 |
-| Pork Chopped | 3.00% | ~1,657 |
-| Dr. Reed, I Presume? | 2.00% | ~14,594 |
-| Git Gutte! | 2.00% | ~14,594 |
-| Bookworm | 2.00% | ~14,594 |
-| Break A Leg | 2.00% | ~14,594 |
-| Coup de Grâce | 2.00% | ~14,594 |
-| Hazardous Materials | 2.00% | ~14,594 |
-| Friends Like These | 2.00% | ~14,594 |
-| Hotel California | 2.00% | ~14,594 |
-| Apex Predator | 2.00% | ~14,594 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,594 |
-| Welcome To Hell-A | 2.00% | ~14,594 |
+| Whatever It Takes | 3.00% | ~1,658 |
+| Pork Chopped | 3.00% | ~1,658 |
+| Dr. Reed, I Presume? | 2.00% | ~14,595 |
+| Git Gutte! | 2.00% | ~14,595 |
+| Bookworm | 2.00% | ~14,595 |
+| Break A Leg | 2.00% | ~14,595 |
+| Coup de Grâce | 2.00% | ~14,595 |
+| Hazardous Materials | 2.00% | ~14,595 |
+| Friends Like These | 2.00% | ~14,595 |
+| Hotel California | 2.00% | ~14,595 |
+| Apex Predator | 2.00% | ~14,595 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,595 |
+| Welcome To Hell-A | 2.00% | ~14,595 |
 | One of Us | 2.00% | ~1,105 |
 | Making Your Mark | 1.00% | ~7,297 |
 | Anger Management | 1.00% | ~7,297 |
@@ -34,8 +34,8 @@ Rating: 4.54 (Ranked 529)
 | Stacking the Deck | 1.00% | ~7,297 |
 | Our True Nature | 1.00% | ~7,297 |
 | This is My Weapon | 1.00% | ~7,297 |
-| Humanity Distilled | 0.90% | ~6,567 |
-| Max Headroom | 0.90% | ~6,567 |
+| Humanity Distilled | 0.90% | ~6,568 |
+| Max Headroom | 0.90% | ~6,568 |
 | Down with the Sickness | 0.80% | ~5,838 |
 | Not Even My Final Form | 0.70% | ~5,108 |
 | Jumbo Keyring | 0.70% | ~5,108 |
@@ -52,12 +52,12 @@ Rating: 4.54 (Ranked 529)
 | Sole Survivor | 0.30% | ~2,189 |
 | Sharpest Tool in the Box | 0.30% | ~2,189 |
 | Survival Skills | 0.20% | ~1,459 |
-| Lawn and Order | 0.20% | ~110 |
+| Lawn and Order | 0.20% | ~111 |
 | Donk! | 0.10% | ~730 |
 | Bucket List | 0.10% | ~730 |
 | Wilhelm | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 729,701 (Ranked 21)  
+Progressed: 729,732 (Ranked 21)  
 Completed: 2,461 (0.34%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,10 +284,10 @@ Completed: 2,461 (0.34%) (Ranked 233)
 | 2023-11-30 | 728,231 | 2,456 |
 | 2023-12-01 | 728,667 | 2,459 |
 | 2023-12-02 | 729,149 | 2,460 |
-| 2023-12-03 | 729,701 | 2,461 |
+| 2023-12-03 | 729,732 | 2,461 |
 ## Awards
 Max (Great Boss Battles): 7,892  (Ranked 49)  
-Sum: 12,107 (Ranked 82)  
+Sum: 12,110 (Ranked 82)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -299,7 +299,7 @@ Diff (max vs sum): -33
 | This game has Amazing Storytelling | 510 |
 | This game is Extremely Fun | 499 |
 | This game is Highly Recommended | 490 |
-| This game has Amazing Characters | 456 |
+| This game has Amazing Characters | 459 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -529,4 +529,4 @@ Diff (max vs sum): -33
 | 2023-11-30 | 4.54 | 7,821 | 11,987 |
 | 2023-12-01 | 4.54 | 7,845 | 12,026 |
 | 2023-12-02 | 4.54 | 7,869 | 12,068 |
-| 2023-12-03 | 4.54 | 7,892 | 12,107 |
+| 2023-12-03 | 4.54 | 7,892 | 12,110 |

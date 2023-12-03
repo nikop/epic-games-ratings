@@ -5,29 +5,29 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Travel Streamer | 93.00% | ~486 |
-| Training Simulation | 77.00% | ~403 |
+| Training Simulation | 78.00% | ~408 |
 | Kuku Bird Hunter | 62.00% | ~324 |
 | Storm Traveller | 57.00% | ~298 |
-| Wolf King Killer | 51.00% | ~267 |
+| Wolf King Killer | 52.00% | ~272 |
 | Fashion Connoisseur | 50.00% | ~262 |
 | Arms Mechanic | 46.00% | ~241 |
 | Flower Thief | 41.00% | ~214 |
 | Beginner Artificer | 36.00% | ~188 |
 | Apostle of Flame | 36.00% | ~188 |
 | Beginner Cook | 35.00% | ~183 |
-| Seal Breaker | 30.00% | ~157 |
+| Seal Breaker | 31.00% | ~162 |
 | Handyman | 27.00% | ~141 |
 | Giant Lizard Killer | 26.00% | ~136 |
 | Guardian | 25.00% | ~131 |
-| Nosebleeder | 24.00% | ~126 |
+| Nosebleeder | 25.00% | ~131 |
 | Trader | 21.00% | ~110 |
 | Weapon Boost | 20.00% | ~105 |
 | Flying Kobold Killer | 17.00% | ~89 |
 | Youth Magnet | 17.00% | ~89 |
+| Master Artificer | 16.00% | ~84 |
 | Furious Scorpion Killer | 15.00% | ~78 |
 | Lethal Blade Mantis Killer | 15.00% | ~78 |
 | Squeaky Clean | 15.00% | ~78 |
-| Master Artificer | 15.00% | ~78 |
 | Kind Adventurer | 13.00% | ~68 |
 | Mermaid Killer | 13.00% | ~68 |
 | Cave Master | 12.00% | ~63 |

@@ -12,21 +12,21 @@
 | All for one! | 31.00% | ~11 |
 | Royal blessing | 31.00% | ~11 |
 | A hidden snake | 31.00% | ~11 |
-| Blood and sand | 28.00% | ~10 |
+| Blood and sand | 31.00% | ~11 |
+| Vene, vidi, vici | 25.00% | ~9 |
 | Surpass the teacher | 22.00% | ~8 |
-| Vene, vidi, vici | 22.00% | ~8 |
-| She-Wolf | 19.00% | ~7 |
+| She-Wolf | 22.00% | ~8 |
 | Crimson rivers | 17.00% | ~6 |
 | Berkanan Borgia | 17.00% | ~6 |
 | Power of Inquisition | 17.00% | ~6 |
 | The champion of the arena | 17.00% | ~6 |
 | Help of the Gell | 17.00% | ~6 |
+| Protect the Healer! | 14.00% | ~5 |
 | Trial by cold | 14.00% | ~5 |
 | For the greater good | 11.00% | ~4 |
 | Overplay the rogue | 11.00% | ~4 |
 | Rage | 11.00% | ~4 |
 | Punish the Punisher | 11.00% | ~4 |
-| Protect the Healer! | 11.00% | ~4 |
 | Collector | 8.00% | ~3 |
 | The best apprentice | 8.00% | ~3 |
 | Stronger than Gellian steel | 8.00% | ~3 |
@@ -55,7 +55,7 @@
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 36 (Ranked 527)  
-Completed: 0 (0.00%) (Ranked 365)  
+Completed: 0 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

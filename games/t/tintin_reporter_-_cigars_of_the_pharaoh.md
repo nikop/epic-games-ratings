@@ -14,9 +14,9 @@
 | It's a Deal! | 7.00% | ~6 |
 | In the Name of the Law | 6.00% | ~5 |
 | Au Revoir, Abudin | 6.00% | ~5 |
+| Mysterious Bungalow | 6.00% | ~5 |
 | Dynamite, Treason and Coconuts | 6.00% | ~5 |
 | Save a Friend | 6.00% | ~5 |
-| Mysterious Bungalow | 5.00% | ~4 |
 | Mummy Nightmare | 5.00% | ~4 |
 | Barking Dog | 5.00% | ~4 |
 | The Eyes! | 4.00% | ~3 |
@@ -30,6 +30,7 @@
 | A Diagnosis | 2.00% | ~2 |
 | Threat | 2.00% | ~2 |
 | Tintin, Reporter | 1.00% | ~1 |
+| Jungle Runner | 1.00% | ~1 |
 | Mountain Runner | 1.00% | ~1 |
 | A Yummy Detour | 1.00% | ~1 |
 | The Pharaoh's New Clothes | 1.00% | ~1 |
@@ -38,12 +39,11 @@
 | Flying Ace | 0.00% | ~0 |
 | Trials of Kih-Oskh | 0.00% | ~0 |
 | Escaping War | 0.00% | ~0 |
-| Jungle Runner | 0.00% | ~0 |
 | Broken Brotherhood | 0.00% | ~0 |
 | Guilt | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 81 (Ranked 461)  
-Completed: 0 (0.00%) (Ranked 365)  
+Completed: 0 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

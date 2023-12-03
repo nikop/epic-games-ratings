@@ -3,9 +3,9 @@
   "Name": "Kingdom Rush Vengeance",
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 456,
-  "Ranking_EOS_Completed": 365,
+  "Ranking_EOS_Completed": 366,
   "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -858,9 +858,9 @@
       "ID": "KR4_ACHIEVEMENT_OLOCH_MAX",
       "SetID": "caeik3h",
       "Name": "Mischievous Demon",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "KR4_ACHIEVEMENT_ORCSDEN",
@@ -1063,8 +1063,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-03T19:05:33.487213+00:00",
+  "LastChanged_Achievements": "2023-12-03T20:06:40.0051074+00:00",
   "LastUpdate_AppInfo": "2023-11-30T16:57:23.733607+00:00",
-  "LastUpdate_Ratings": "2023-12-03T18:59:36.9673587+00:00",
-  "LastUpdate_Achievements": "2023-12-03T19:05:33.4872816+00:00"
+  "LastUpdate_Ratings": "2023-12-03T20:00:46.3489062+00:00",
+  "LastUpdate_Achievements": "2023-12-03T20:06:40.0051866+00:00"
 }

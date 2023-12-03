@@ -3,9 +3,9 @@
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 313,
-  "Ranking_EOS_Completed": 365,
+  "Ranking_EOS_Completed": 366,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 507,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1505,9 +1505,9 @@
       "ID": "AchvEvacuate",
       "SetID": "1hj060c",
       "Name": "Evacuation",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 66
+      "UsersEstimate": 71
     },
     {
       "ID": "AchvInvShip",
@@ -1609,9 +1609,9 @@
       "ID": "AchvReachCity",
       "SetID": "1hj060c",
       "Name": "The City",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 208
     },
     {
       "ID": "AchvReachCondor",
@@ -1641,9 +1641,9 @@
       "ID": "AchvTheEnd",
       "SetID": "1hj060c",
       "Name": "The End",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 55,
-      "UsersEstimate": 137
+      "UsersEstimate": 142
     },
     {
       "ID": "AchvUnity",
@@ -1664,8 +1664,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-03T19:09:00.300568+00:00",
+  "LastChanged_Achievements": "2023-12-03T20:09:08.9394447+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.6526822+00:00",
-  "LastUpdate_Ratings": "2023-12-03T18:57:25.9572589+00:00",
-  "LastUpdate_Achievements": "2023-12-03T19:09:00.3005899+00:00"
+  "LastUpdate_Ratings": "2023-12-03T19:57:28.3291252+00:00",
+  "LastUpdate_Achievements": "2023-12-03T20:09:08.9394706+00:00"
 }

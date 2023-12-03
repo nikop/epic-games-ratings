@@ -14,11 +14,11 @@ Rating: 4.50 (Ranked 592)
 | Solo Capture | 5.00% | ~1,594 |
 | Swift Rift Removers | 5.00% | ~1,594 |
 | Teamwork | 5.00% | ~1,594 |
-| Clutch Capture | 4.00% | ~1,275 |
-| Cultured | 4.00% | ~1,275 |
-| There you are! | 4.00% | ~1,275 |
-| Vaporous Expansion | 4.00% | ~1,275 |
-| Whoopsie | 4.00% | ~1,275 |
+| Clutch Capture | 4.00% | ~1,276 |
+| Cultured | 4.00% | ~1,276 |
+| There you are! | 4.00% | ~1,276 |
+| Vaporous Expansion | 4.00% | ~1,276 |
+| Whoopsie | 4.00% | ~1,276 |
 | Animated | 3.00% | ~957 |
 | Daily Dose | 3.00% | ~957 |
 | Ectoplasmic Entity | 3.00% | ~957 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 592)
 | Ultimate Defense | 0.20% | ~64 |
 | Line em' up | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,886 (Ranked 124)  
+Progressed: 31,888 (Ranked 124)  
 Completed: 69 (0.22%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,23 +284,23 @@ Completed: 69 (0.22%) (Ranked 254)
 | 2023-11-30 | 31,775 | 69 |
 | 2023-12-01 | 31,812 | 69 |
 | 2023-12-02 | 31,846 | 69 |
-| 2023-12-03 | 31,886 | 69 |
+| 2023-12-03 | 31,888 | 69 |
 ## Awards
 Max (Great for Beginners): 320  (Ranked 251)  
-Sum: 2,873 (Ranked 178)  
+Sum: 2,876 (Ranked 178)  
 Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 320 |
-| This game is Great for Quick Sessions | 313 |
+| This game is Great for Quick Sessions | 314 |
 | This game has Diverse Characters | 301 |
 | This game is Highly Recommended | 287 |
 | This game has Amazing Storytelling | 284 |
 | This game has Competitive Players | 281 |
 | This game is Relaxing | 279 |
 | This game is Extremely Fun | 277 |
+| This game has Amazing Characters | 267 |
 | This game has Quickly Understood Controls | 266 |
-| This game has Amazing Characters | 265 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
 ## Ratings History
@@ -534,4 +534,4 @@ Diff (max vs sum): 73
 | 2023-11-30 | 4.50 | 319 | 2,865 |
 | 2023-12-01 | 4.51 | 319 | 2,869 |
 | 2023-12-02 | 4.50 | 319 | 2,871 |
-| 2023-12-03 | 4.50 | 320 | 2,873 |
+| 2023-12-03 | 4.50 | 320 | 2,876 |

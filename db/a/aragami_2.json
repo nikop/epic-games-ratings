@@ -2,13 +2,13 @@
   "ID": "e8bab5eae849405890fca0cd2d1f808e",
   "Name": "Aragami 2",
   "ProductSlug": "aragami-2",
-  "Ranking_Rating": 494,
+  "Ranking_Rating": 495,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -245,7 +245,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44188,
+  "EOS_Progressed": 44189,
   "EOS_Completed": 245,
   "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 4,
@@ -18520,6 +18520,11 @@
       "Time": "2023-12-03T18:04:30.9831562+00:00",
       "NumProgressed": 44188,
       "NumCompleted": 245
+    },
+    {
+      "Time": "2023-12-03T20:05:39.5459716+00:00",
+      "NumProgressed": 44189,
+      "NumCompleted": 245
     }
   ],
   "TotalAchievements": 44,
@@ -18531,7 +18536,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25187
+      "UsersEstimate": 25188
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -18539,7 +18544,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13698
+      "UsersEstimate": 13699
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -18547,7 +18552,7 @@
       "Name": "Embers",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 9721
+      "UsersEstimate": 9722
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -18651,7 +18656,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35350
+      "UsersEstimate": 35351
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -18755,7 +18760,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 24303
+      "UsersEstimate": 24304
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -18771,7 +18776,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27838
+      "UsersEstimate": 27839
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -18803,7 +18808,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29606
+      "UsersEstimate": 29607
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -18867,7 +18872,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41095
+      "UsersEstimate": 41096
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -18882,7 +18887,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44188,
+      "Progressed": 44189,
       "Completed": 245
     }
   ],
@@ -18890,8 +18895,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-03T18:02:47.0707275+00:00",
-  "LastChanged_Achievements": "2023-12-03T19:04:50.6571219+00:00",
+  "LastChanged_Achievements": "2023-12-03T20:05:39.5459712+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:13.8521051+00:00",
-  "LastUpdate_Ratings": "2023-12-03T19:02:57.9604991+00:00",
-  "LastUpdate_Achievements": "2023-12-03T19:04:50.657218+00:00"
+  "LastUpdate_Ratings": "2023-12-03T20:03:10.1843499+00:00",
+  "LastUpdate_Achievements": "2023-12-03T20:05:39.5460726+00:00"
 }

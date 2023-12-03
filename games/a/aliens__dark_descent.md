@@ -52,7 +52,7 @@ Rating: 4.50 (Ranked 592)
 | Chalk It Up To Experience | 0.70% | ~26 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,734 (Ranked 202)  
-Completed: 3 (0.08%) (Ranked 299)  
+Completed: 3 (0.08%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -215,9 +215,9 @@ Completed: 3 (0.08%) (Ranked 299)
 | 2023-12-02 | 3,731 | 3 |
 | 2023-12-03 | 3,734 | 3 |
 ## Awards
-Max (Great Boss Battles): 36  (Ranked 473)  
+Max (Great Boss Battles): 36  (Ranked 474)  
 Sum: 36 (Ranked 505)  
-Diff (max vs sum): -32  
+Diff (max vs sum): -31  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 36 |

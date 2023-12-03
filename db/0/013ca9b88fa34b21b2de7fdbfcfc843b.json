@@ -6,9 +6,9 @@
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 175,
-  "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_Completed": 345,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8262,
+  "EOS_Progressed": 8263,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7954,6 +7954,11 @@
       "Time": "2023-12-03T19:09:45.8513854+00:00",
       "NumProgressed": 8262,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-03T20:10:13.1550901+00:00",
+      "NumProgressed": 8263,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -7972,9 +7977,9 @@
       "ID": "CHAPTER_2_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "A Thorny Situation",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5866
+      "UsersEstimate": 5784
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -8070,7 +8075,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 4048
+      "UsersEstimate": 4049
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -8142,7 +8147,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3883
+      "UsersEstimate": 3884
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -8174,7 +8179,7 @@
       "Name": "Chatty Neighbor",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "PREPARE_MEALS_1",
@@ -8214,7 +8219,7 @@
       "Name": "Right Tool For the Job",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "UPGRADE_COZYMAX",
@@ -8230,7 +8235,7 @@
       "Name": "House Proud",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "UPGRADE_ONESKILLMAX",
@@ -8245,22 +8250,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8262,
+      "Progressed": 8263,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 879,
-      "Completed": 879
+      "Progressed": 880,
+      "Completed": 880
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-01T18:02:55.7305048+00:00",
-  "LastChanged_Achievements": "2023-12-03T19:09:45.8513852+00:00",
+  "LastChanged_Achievements": "2023-12-03T20:10:13.1550896+00:00",
   "LastUpdate_AppInfo": "2023-12-01T09:57:19.7790129+00:00",
-  "LastUpdate_Ratings": "2023-12-03T19:03:01.7997444+00:00",
-  "LastUpdate_Achievements": "2023-12-03T19:09:45.8514397+00:00"
+  "LastUpdate_Ratings": "2023-12-03T20:03:16.1282997+00:00",
+  "LastUpdate_Achievements": "2023-12-03T20:10:13.155148+00:00"
 }

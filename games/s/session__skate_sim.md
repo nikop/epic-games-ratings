@@ -18,11 +18,11 @@ Number of Ratings: 111  (23.09.2022)
 | The hard way | 10.00% | ~310 |
 | Upfront shredder | 10.00% | ~310 |
 | Good vibes | 9.00% | ~279 |
+| Bottom ply killer | 8.00% | ~248 |
 | Fashionista | 8.00% | ~248 |
 | Finally he zips it | 8.00% | ~248 |
 | That pinch! | 8.00% | ~248 |
 | Tight lipslides | 8.00% | ~248 |
-| Bottom ply killer | 7.00% | ~217 |
 | Fulfilled the dream | 7.00% | ~217 |
 | G'Day Mate! | 7.00% | ~217 |
 | Commence the Hijinx! | 6.00% | ~186 |
@@ -56,7 +56,7 @@ Number of Ratings: 111  (23.09.2022)
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,101 (Ranked 211)  
-Completed: 2 (0.06%) (Ranked 310)  
+Completed: 2 (0.06%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

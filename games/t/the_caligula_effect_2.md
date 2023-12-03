@@ -43,7 +43,7 @@ Number of Ratings: 32  (23.09.2022)
 | Love, Loss, and the Omega Nebula | 8.00% | ~19 |
 | The Part-Time Tyrant | 7.00% | ~17 |
 | Songstress Unleashed | 7.00% | ~17 |
-| Executive Privilege | 6.00% | ~14 |
+| Executive Privilege | 7.00% | ~17 |
 | For the Love of Regret | 4.00% | ~10 |
 | Building Bridges | 3.00% | ~7 |
 | To the Other Side | 2.00% | ~5 |

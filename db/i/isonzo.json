@@ -2,12 +2,12 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
-  "Ranking_Rating": 494,
-  "Ranking_Popularity": 465,
+  "Ranking_Rating": 478,
+  "Ranking_Popularity": 466,
   "Ranking_PopularitySum": 361,
-  "Ranking_EOS_Progress": 169,
+  "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.56,
+  "Rating": 4.57,
   "NumberOfRatings": 98,
   "RatingHistory": [
     {
@@ -887,10 +887,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 321,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-12-03T20:00:14.2357615+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 322,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 321,
+  "NumberOfAwards": 322,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -916,7 +922,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game has Diverse Characters",
@@ -961,9 +967,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9211,
+  "EOS_Progressed": 9212,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -8711,6 +8717,11 @@
       "Time": "2023-12-03T19:04:40.9456443+00:00",
       "NumProgressed": 9211,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-03T20:05:25.5682811+00:00",
+      "NumProgressed": 9212,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -8730,7 +8741,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 1934
+      "UsersEstimate": 1935
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -8914,7 +8925,7 @@
       "Name": "Peak Performance",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4237
+      "UsersEstimate": 4238
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -9058,7 +9069,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -9081,16 +9092,16 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9211,
+      "Progressed": 9212,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
-  "LastChanged": "2023-12-02T15:59:35.3988448+00:00",
-  "LastChanged_Achievements": "2023-12-03T19:04:40.945644+00:00",
+  "LastChanged": "2023-12-03T20:00:14.2357613+00:00",
+  "LastChanged_Achievements": "2023-12-03T20:05:25.5682805+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:20.0438707+00:00",
-  "LastUpdate_Ratings": "2023-12-03T18:59:16.0541517+00:00",
-  "LastUpdate_Achievements": "2023-12-03T19:04:40.9457173+00:00"
+  "LastUpdate_Ratings": "2023-12-03T20:00:14.2357619+00:00",
+  "LastUpdate_Achievements": "2023-12-03T20:05:25.5683523+00:00"
 }

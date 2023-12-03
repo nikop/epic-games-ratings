@@ -4,8 +4,8 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1954,8 +1954,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-03T19:08:36.7707898+00:00",
+  "LastChanged_Achievements": "2023-12-03T20:08:35.5056417+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:21.663822+00:00",
-  "LastUpdate_Ratings": "2023-12-03T18:59:33.6909917+00:00",
-  "LastUpdate_Achievements": "2023-12-03T19:08:36.7708528+00:00"
+  "LastUpdate_Ratings": "2023-12-03T20:00:41.1358011+00:00",
+  "LastUpdate_Achievements": "2023-12-03T20:08:35.5056907+00:00"
 }

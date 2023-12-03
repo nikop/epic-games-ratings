@@ -28,10 +28,10 @@
 | For the Queen | 5.00% | ~191 |
 | Not a Drop Wasted | 5.00% | ~191 |
 | We Have the Technology | 5.00% | ~191 |
+| Work It | 4.00% | ~153 |
 | Reinforcements | 4.00% | ~153 |
 | Sweet Revenge | 4.00% | ~153 |
 | Figure of Breach | 4.00% | ~153 |
-| Work It | 3.00% | ~114 |
 | Almost Like Winning | 3.00% | ~114 |
 | The Handyman Can! | 3.00% | ~114 |
 | A Brief Moment of Respite | 3.00% | ~114 |

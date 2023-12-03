@@ -29,9 +29,9 @@
 | Getting Started | 16.00% | ~55 |
 | Eggtraordinary | 15.00% | ~52 |
 | Oh My Gourd | 15.00% | ~44 |
+| Perfect | 12.00% | ~35 |
 | Summers Here | 12.00% | ~35 |
 | Quit Horsin' Around | 11.00% | ~38 |
-| Perfect | 11.00% | ~32 |
 | Fresh Pancake | 10.00% | ~34 |
 | Quadsparagus | 10.00% | ~29 |
 | Bring Home The Bacon | 9.00% | ~31 |
@@ -80,7 +80,7 @@
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 344 (Ranked 341)  
-Completed: 0 (0.00%) (Ranked 365)  
+Completed: 0 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

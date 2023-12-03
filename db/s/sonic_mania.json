@@ -2,13 +2,13 @@
   "ID": "45e7cf3c49054f2fb20b673d9b0ae69e",
   "Name": "Sonic Mania",
   "ProductSlug": "sonic-mania",
-  "Ranking_Rating": 112,
+  "Ranking_Rating": 105,
   "Ranking_Popularity": 156,
   "Ranking_PopularitySum": 227,
   "Ranking_EOS_Progress": 775,
-  "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 488,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_Completed": 366,
+  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2021-06-24T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T18:52:05+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.77,
+  "Rating": 4.78,
   "NumberOfRatings": 2185,
   "RatingHistory": [
     {
@@ -1750,10 +1750,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 1647,
       "NumberOfAwardsMax": 969
+    },
+    {
+      "Time": "2023-12-03T20:00:39.6489417+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 1648,
+      "NumberOfAwardsMax": 969
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1647,
+  "NumberOfAwards": 1648,
   "NumberOfAwardsMax": 969,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1839,7 +1845,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 54
+      "Count": 55
     }
   ],
   "EOS_Progressed": 0,
@@ -1853,8 +1859,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:14.1875943+00:00",
-  "LastChanged": "2023-12-02T23:59:59.210858+00:00",
+  "LastChanged": "2023-12-03T20:00:39.6489413+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:21.5138265+00:00",
-  "LastUpdate_Ratings": "2023-12-03T18:59:32.7026441+00:00",
-  "LastUpdate_Achievements": "2023-12-03T19:05:46.326141+00:00"
+  "LastUpdate_Ratings": "2023-12-03T20:00:39.6489421+00:00",
+  "LastUpdate_Achievements": "2023-12-03T20:06:57.6030429+00:00"
 }

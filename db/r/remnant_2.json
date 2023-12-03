@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
     "PcReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -5115,10 +5115,10 @@
       "Count": 396
     }
   ],
-  "EOS_Progressed": 234023,
-  "EOS_Completed": 552,
-  "EOS_NewPlayers": 5126,
-  "EOS_NewCompleters": 18,
+  "EOS_Progressed": 234089,
+  "EOS_Completed": 553,
+  "EOS_NewPlayers": 5146,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
@@ -21205,6 +21205,11 @@
       "Time": "2023-12-03T19:09:04.1159898+00:00",
       "NumProgressed": 234023,
       "NumCompleted": 552
+    },
+    {
+      "Time": "2023-12-03T20:09:14.490103+00:00",
+      "NumProgressed": 234089,
+      "NumCompleted": 553
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21297,7 +21302,7 @@
       "Name": "The Killing Jar",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1872
+      "UsersEstimate": 1873
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -21401,7 +21406,7 @@
       "Name": "First of Many",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1638
+      "UsersEstimate": 1639
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -21599,9 +21604,9 @@
       "ID": "Upgrade_Traits_B",
       "SetID": "bkp3b1a",
       "Name": "Maxed Out!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 234
+      "UsersEstimate": 468
     },
     {
       "ID": "Upgrade_Weapon_Mutator",
@@ -21617,7 +21622,7 @@
       "Name": "Regicide",
       "Percentage": 0.7,
       "XP": 75,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -21625,7 +21630,7 @@
       "Name": "Succession",
       "Percentage": 0.2,
       "XP": 75,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "DLC1_Obtain_Archetype",
@@ -21633,7 +21638,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -21649,20 +21654,20 @@
       "Name": "You Shall Pass",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     }
   ],
   "AchievementSets": [
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 234023,
-      "Completed": 552
+      "Progressed": 234089,
+      "Completed": 553
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 13188,
+      "Progressed": 13254,
       "Completed": 187
     }
   ],
@@ -21670,8 +21675,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-03T17:02:55.1057954+00:00",
-  "LastChanged_Achievements": "2023-12-03T19:09:04.1159894+00:00",
+  "LastChanged_Achievements": "2023-12-03T20:09:14.4901025+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-03T19:03:18.5263461+00:00",
-  "LastUpdate_Achievements": "2023-12-03T19:09:04.1160895+00:00"
+  "LastUpdate_Ratings": "2023-12-03T20:03:26.2751628+00:00",
+  "LastUpdate_Achievements": "2023-12-03T20:09:14.4902205+00:00"
 }

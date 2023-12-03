@@ -1,27 +1,27 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.56 (Ranked 494)  
+Rating: 4.56 (Ranked 495)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~41,095 |
-| First Steps | 80.00% | ~35,350 |
-| Control the Shadows | 67.00% | ~29,606 |
-| Tools of the Trade | 63.00% | ~27,838 |
+| Awakening | 93.00% | ~41,096 |
+| First Steps | 80.00% | ~35,351 |
+| Control the Shadows | 67.00% | ~29,607 |
+| Tools of the Trade | 63.00% | ~27,839 |
 | Apprentice | 60.00% | ~26,513 |
-| Secret Seeker | 57.00% | ~25,187 |
-| Forge of Assassins | 55.00% | ~24,303 |
+| Secret Seeker | 57.00% | ~25,188 |
+| Forge of Assassins | 55.00% | ~24,304 |
 | Revenant | 52.00% | ~22,978 |
 | I don’t Care! | 45.00% | ~19,885 |
 | Bird of Prey | 37.00% | ~16,350 |
 | Engraved with Power | 32.00% | ~14,140 |
-| Lady | 31.00% | ~13,698 |
+| Lady | 31.00% | ~13,699 |
 | Fashionable Assassin | 27.00% | ~11,931 |
 | Apex Predator | 24.00% | ~10,605 |
 | Soul Reaver | 23.00% | ~10,163 |
-| Embers | 22.00% | ~9,721 |
+| Embers | 22.00% | ~9,722 |
 | Wall Lizard | 20.00% | ~8,838 |
 | Clinging to Life | 18.00% | ~7,954 |
 | Burning | 17.00% | ~7,512 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~884 |
 | Legacy | 2.00% | ~884 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,188 (Ranked 116)  
+Progressed: 44,189 (Ranked 116)  
 Completed: 245 (0.55%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 245 (0.55%) (Ranked 201)
 | 2023-11-30 | 44,141 | 242 |
 | 2023-12-01 | 44,155 | 245 |
 | 2023-12-02 | 44,169 | 245 |
-| 2023-12-03 | 44,188 | 245 |
+| 2023-12-03 | 44,189 | 245 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

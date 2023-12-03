@@ -4,8 +4,8 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3183,
+  "EOS_Progressed": 3185,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -4781,6 +4781,11 @@
       "Time": "2023-12-03T19:04:51.1007384+00:00",
       "NumProgressed": 3183,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-03T20:05:40.2812257+00:00",
+      "NumProgressed": 3185,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -4840,7 +4845,7 @@
       "Name": "Sliders",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "SNOW_RUINS",
@@ -4856,7 +4861,7 @@
       "Name": "Starting as a duo",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -4880,7 +4885,7 @@
       "Name": "Transmission",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -4895,7 +4900,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3183,
+      "Progressed": 3185,
       "Completed": 6
     }
   ],
@@ -4903,8 +4908,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-03T19:04:51.100738+00:00",
+  "LastChanged_Achievements": "2023-12-03T20:05:40.2812252+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:22.6950578+00:00",
-  "LastUpdate_Ratings": "2023-12-03T18:58:17.3701752+00:00",
-  "LastUpdate_Achievements": "2023-12-03T19:04:51.1007672+00:00"
+  "LastUpdate_Ratings": "2023-12-03T19:58:46.5589148+00:00",
+  "LastUpdate_Achievements": "2023-12-03T20:05:40.2812633+00:00"
 }

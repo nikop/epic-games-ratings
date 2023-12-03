@@ -69,6 +69,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 2.00% | ~312 |
 | Champions | 2.00% | ~312 |
 | Patrons | 2.00% | ~312 |
+| Riders | 2.00% | ~312 |
 | Sages | 2.00% | ~312 |
 | Acropolis | 2.00% | ~312 |
 | Apadana | 2.00% | ~312 |
@@ -96,7 +97,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Difficulty | 1.00% | ~156 |
 | Hunters | 1.00% | ~156 |
 | Landowners | 1.00% | ~156 |
-| Riders | 1.00% | ~156 |
 | Statesmen | 1.00% | ~156 |
 | Traders | 1.00% | ~156 |
 | Hittite Iron | 1.00% | ~156 |
@@ -350,7 +350,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,617 (Ranked 152)  
-Completed: 5 (0.03%) (Ranked 328)  
+Completed: 5 (0.03%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

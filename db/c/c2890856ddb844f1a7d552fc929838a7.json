@@ -6,9 +6,9 @@
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 263,
-  "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_Completed": 366,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -2848,9 +2848,9 @@
       "ID": "AC07",
       "SetID": "l4abp0",
       "Name": "The Sea dies on the Shore",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 644
+      "UsersEstimate": 654
     },
     {
       "ID": "AC08",
@@ -2944,9 +2944,9 @@
       "ID": "AC19",
       "SetID": "l4abp0",
       "Name": "Soledad",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 559
     },
     {
       "ID": "AC20",
@@ -3169,8 +3169,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-02T16:58:47.1446521+00:00",
-  "LastChanged_Achievements": "2023-12-03T19:04:25.6331637+00:00",
+  "LastChanged_Achievements": "2023-12-03T20:05:03.7718407+00:00",
   "LastUpdate_AppInfo": "2023-11-29T01:48:53.5271416+00:00",
-  "LastUpdate_Ratings": "2023-12-03T18:58:55.4023906+00:00",
-  "LastUpdate_Achievements": "2023-12-03T19:04:25.6332207+00:00"
+  "LastUpdate_Ratings": "2023-12-03T19:59:43.1272694+00:00",
+  "LastUpdate_Achievements": "2023-12-03T20:05:03.7718844+00:00"
 }

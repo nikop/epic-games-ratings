@@ -12,7 +12,7 @@ Rating: 4.58 (Ranked 449)
 | A Thousand Strong | 18.00% | ~611 |
 | Ready for a New World | 18.00% | ~611 |
 | Space Society | 17.00% | ~577 |
-| Permanent Redesigns | 15.00% | ~509 |
+| Permanent Redesigns | 16.00% | ~543 |
 | Fully Recycled | 14.00% | ~475 |
 | The Ship of Theseus | 14.00% | ~475 |
 | Guy de Borderlands | 13.00% | ~441 |
@@ -64,7 +64,7 @@ Rating: 4.58 (Ranked 449)
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,395 (Ranked 207)  
-Completed: 0 (0.00%) (Ranked 365)  
+Completed: 0 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

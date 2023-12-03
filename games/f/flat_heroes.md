@@ -16,7 +16,7 @@
 | Bomberman | 11.00% | ~71 |
 | Bubble Party | 9.00% | ~58 |
 | The Colossus | 8.00% | ~51 |
-| Floor is Lava | 6.00% | ~38 |
+| Floor is Lava | 7.00% | ~45 |
 | Pim Pam Pum | 6.00% | ~38 |
 | Dash Crash - Hero Edition | 5.00% | ~32 |
 | Ambush | 4.00% | ~26 |
@@ -50,7 +50,7 @@
 | Colorful | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 641 (Ranked 295)  
-Completed: 0 (0.00%) (Ranked 365)  
+Completed: 0 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,13 +2,13 @@
   "ID": "58dfcd1952ee48c1a1fa31c6ace5fe3d",
   "Name": "The Long Dark",
   "ProductSlug": "the-long-dark",
-  "Ranking_Rating": 158,
+  "Ranking_Rating": 159,
   "Ranking_Popularity": 166,
   "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 775,
-  "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 488,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_Completed": 366,
+  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2020-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-12-19T16:00:00+00:00",
@@ -5273,10 +5273,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 5088,
       "NumberOfAwardsMax": 847
+    },
+    {
+      "Time": "2023-12-03T20:02:27.2832445+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 5089,
+      "NumberOfAwardsMax": 847
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5088,
+  "NumberOfAwards": 5089,
   "NumberOfAwardsMax": 847,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -5290,7 +5296,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 780
+      "Count": 781
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5340,8 +5346,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:46.2160701+00:00",
-  "LastChanged": "2023-12-03T10:00:05.0083111+00:00",
+  "LastChanged": "2023-12-03T20:02:27.2832443+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:36.7368623+00:00",
-  "LastUpdate_Ratings": "2023-12-03T19:00:17.8958103+00:00",
-  "LastUpdate_Achievements": "2023-12-03T19:04:22.2930434+00:00"
+  "LastUpdate_Ratings": "2023-12-03T20:02:27.2832451+00:00",
+  "LastUpdate_Achievements": "2023-12-03T20:04:58.9101735+00:00"
 }

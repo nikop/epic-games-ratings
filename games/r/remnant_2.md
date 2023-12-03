@@ -5,10 +5,10 @@ Rating: 4.75 (Ranked 148)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 0.80% | ~1,872 |
-| First of Many | 0.70% | ~1,638 |
-| Regicide | 0.70% | ~92 |
-| Master of the Dark Arts | 0.70% | ~92 |
+| The Killing Jar | 0.80% | ~1,873 |
+| First of Many | 0.70% | ~1,639 |
+| Regicide | 0.70% | ~93 |
+| Master of the Dark Arts | 0.70% | ~93 |
 | Expanding Horizons | 0.50% | ~1,170 |
 | Quest for Survival | 0.50% | ~1,170 |
 | Not Your Average Trait | 0.50% | ~1,170 |
@@ -52,17 +52,17 @@ Rating: 4.75 (Ranked 148)
 | Carnage in C-Minor | 0.20% | ~468 |
 | The Ultimate Weapon | 0.20% | ~468 |
 | No One Should Have All That Power | 0.20% | ~468 |
+| Maxed Out! | 0.20% | ~468 |
 | Transmutate | 0.20% | ~468 |
-| Succession | 0.20% | ~26 |
-| You Shall Pass | 0.20% | ~26 |
+| Succession | 0.20% | ~27 |
+| You Shall Pass | 0.20% | ~27 |
 | Only Human | 0.10% | ~234 |
 | Red Room | 0.10% | ~234 |
 | Proving Grounds | 0.10% | ~234 |
-| Maxed Out! | 0.10% | ~234 |
 | A Foul Feast | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,023 (Ranked 68)  
-Completed: 552 (0.24%) (Ranked 250)  
+Progressed: 234,089 (Ranked 68)  
+Completed: 553 (0.24%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -201,7 +201,7 @@ Completed: 552 (0.24%) (Ranked 250)
 | 2023-11-30 | 231,406 | 542 |
 | 2023-12-01 | 232,269 | 546 |
 | 2023-12-02 | 233,162 | 548 |
-| 2023-12-03 | 234,023 | 552 |
+| 2023-12-03 | 234,089 | 553 |
 ## Awards
 Max (Great Boss Battles): 2,603  (Ranked 102)  
 Sum: 6,405 (Ranked 128)  

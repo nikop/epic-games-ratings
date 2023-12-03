@@ -6,13 +6,13 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~479,079 |
-| Apprentice | 58.00% | ~385,925 |
-| Close Shave | 25.00% | ~166,347 |
-| Mercenary | 23.00% | ~153,039 |
-| Ninja | 23.00% | ~153,039 |
+| The Fool | 72.00% | ~479,082 |
+| Apprentice | 58.00% | ~385,927 |
+| Close Shave | 25.00% | ~166,348 |
+| Mercenary | 23.00% | ~153,040 |
+| Ninja | 23.00% | ~153,040 |
 | Northern Scourge | 17.00% | ~113,116 |
-| Thief Bane | 14.00% | ~93,154 |
+| Thief Bane | 14.00% | ~93,155 |
 | Master of Arms | 12.00% | ~79,847 |
 | Gambler | 10.00% | ~66,539 |
 | Dice Master | 10.00% | ~66,539 |
@@ -26,8 +26,8 @@ Number of Ratings: 780  (23.09.2022)
 | Broken Heart | 7.00% | ~46,577 |
 | Adventurer | 6.00% | ~39,923 |
 | Empire's Bane | 6.00% | ~39,923 |
-| Jack of all Trades | 5.00% | ~33,269 |
-| Smithy | 5.00% | ~33,269 |
+| Jack of all Trades | 5.00% | ~33,270 |
+| Smithy | 5.00% | ~33,270 |
 | Leap of Faith | 3.00% | ~19,962 |
 | Combat Ready | 3.00% | ~19,962 |
 | Stuffed Potato | 3.00% | ~19,962 |
@@ -39,7 +39,7 @@ Number of Ratings: 780  (23.09.2022)
 | Cursed Soul | 1.00% | ~6,654 |
 | Champion | 1.00% | ~6,654 |
 | Final Death | 1.00% | ~6,654 |
-| Thomas' Bane | 0.90% | ~5,988 |
+| Thomas' Bane | 0.90% | ~5,989 |
 | Ally | 0.80% | ~5,323 |
 | Gamester | 0.70% | ~4,658 |
 | Hero | 0.60% | ~3,992 |
@@ -55,8 +55,8 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~665 |
 | Blood Pact | 0.10% | ~665 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 665,388 (Ranked 29)  
-Completed: 172 (0.03%) (Ranked 328)  
+Progressed: 665,391 (Ranked 29)  
+Completed: 172 (0.03%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -282,11 +282,11 @@ Completed: 172 (0.03%) (Ranked 328)
 | 2023-11-30 | 665,260 | 172 |
 | 2023-12-01 | 665,300 | 172 |
 | 2023-12-02 | 665,335 | 172 |
-| 2023-12-03 | 665,388 | 172 |
+| 2023-12-03 | 665,391 | 172 |
 ## Awards
-Max (Amazing Storytelling): 36  (Ranked 473)  
+Max (Amazing Storytelling): 36  (Ranked 474)  
 Sum: 193 (Ranked 407)  
-Diff (max vs sum): 66  
+Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 118 |

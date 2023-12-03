@@ -4,8 +4,8 @@
   "ProductSlug": "hide-and-seek-9e0912",
   "Ranking_EOS_Progress": 467,
   "Ranking_EOS_Completed": 13,
-  "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-11-17T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 73,
-  "EOS_Completed": 19,
+  "EOS_Completed": 20,
   "EOS_NewPlayers": 19,
-  "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 26.03,
+  "EOS_NewCompleters": 8,
+  "EOS_Completed_Percentage": 27.4,
   "EosHistory": [
     {
       "Time": "2023-10-27T08:03:12.3297461+00:00",
@@ -309,6 +309,11 @@
       "Time": "2023-12-03T19:05:45.1065568+00:00",
       "NumProgressed": 73,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-03T20:06:56.0731643+00:00",
+      "NumProgressed": 73,
+      "NumCompleted": 20
     }
   ],
   "AchievementsAdded": "2023-10-27T08:03:12.3312998+00:00",
@@ -343,17 +348,17 @@
       "ID": "ACHIEVEMENT_4",
       "SetID": "dhh8kbc",
       "Name": "The Best Seeker",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 150,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_5",
       "SetID": "dhh8kbc",
       "Name": "Hiders win!",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 150,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -369,13 +374,13 @@
       "ID": "dhh8kbc",
       "IsBase": true,
       "Progressed": 73,
-      "Completed": 19
+      "Completed": 20
     }
   ],
   "FirstSeen": "2023-11-18T09:58:40.5450132+00:00",
   "FirstSeenAchievements": "2023-10-27T08:03:12.3312996+00:00",
-  "LastChanged_Achievements": "2023-12-03T19:05:45.1065563+00:00",
+  "LastChanged_Achievements": "2023-12-03T20:06:56.0731637+00:00",
   "LastUpdate_AppInfo": "2023-12-01T11:57:04.7658946+00:00",
-  "LastUpdate_Ratings": "2023-12-03T18:59:42.8130156+00:00",
-  "LastUpdate_Achievements": "2023-12-03T19:05:45.1065959+00:00"
+  "LastUpdate_Ratings": "2023-12-03T20:00:54.6265723+00:00",
+  "LastUpdate_Achievements": "2023-12-03T20:06:56.0731776+00:00"
 }

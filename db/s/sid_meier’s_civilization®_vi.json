@@ -2,13 +2,13 @@
   "ID": "cd14dcaa4f3443f19f7169a980559c62",
   "Name": "Sid Meier\u2019s Civilization\u00AE VI",
   "ProductSlug": "sid-meiers-civilization-vi",
-  "Ranking_Rating": 158,
+  "Ranking_Rating": 159,
   "Ranking_Popularity": 13,
   "Ranking_PopularitySum": 11,
   "Ranking_EOS_Progress": 775,
-  "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 488,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_Completed": 366,
+  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2020-05-21T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -14255,10 +14255,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 341977,
       "NumberOfAwardsMax": 42799
+    },
+    {
+      "Time": "2023-12-03T20:01:24.5400747+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 342083,
+      "NumberOfAwardsMax": 42799
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 341977,
+  "NumberOfAwards": 342083,
   "NumberOfAwardsMax": 42799,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -14278,7 +14284,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 38460
+      "Count": 38519
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -14290,7 +14296,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 34998
+      "Count": 35045
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -14340,8 +14346,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
-  "LastChanged": "2023-12-03T15:59:57.0982841+00:00",
+  "LastChanged": "2023-12-03T20:01:24.5400745+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:25.0712932+00:00",
-  "LastUpdate_Ratings": "2023-12-03T19:00:02.8663723+00:00",
-  "LastUpdate_Achievements": "2023-12-03T19:05:31.5969662+00:00"
+  "LastUpdate_Ratings": "2023-12-03T20:01:24.5400751+00:00",
+  "LastUpdate_Achievements": "2023-12-03T20:06:37.3380502+00:00"
 }

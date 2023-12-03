@@ -1,20 +1,20 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.56 (Ranked 494)  
+Rating: 4.57 (Ranked 478)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You Shall Not Pass | 51.00% | ~4,698 |
 | Tutti Eroi! | 50.00% | ~4,606 |
-| Peak Performance | 46.00% | ~4,237 |
+| Peak Performance | 46.00% | ~4,238 |
 | Avanti Savoia! | 44.00% | ~4,053 |
 | Mamma Mia! | 35.00% | ~3,224 |
 | Conrad von Hotzensocks | 32.00% | ~2,948 |
 | Gabriele D'Annunzio | 32.00% | ~2,948 |
 | Silver Lining | 27.00% | ~2,487 |
-| Aurelio Baruzzi | 21.00% | ~1,934 |
+| Aurelio Baruzzi | 21.00% | ~1,935 |
 | Decimation | 20.00% | ~1,842 |
 | Donatello | 19.00% | ~1,750 |
 | Insubordination | 19.00% | ~1,750 |
@@ -23,7 +23,7 @@ Number of Ratings: 98  (23.09.2022)
 | Ragazzi del '99 | 17.00% | ~1,566 |
 | Luigi Cadorna | 15.00% | ~1,382 |
 | The Lion of the Isonzo | 14.00% | ~1,290 |
-| Uomo Universale | 13.00% | ~1,197 |
+| Uomo Universale | 13.00% | ~1,198 |
 | Dirty Dozen | 12.00% | ~1,105 |
 | Shaken, Not Stirred | 12.00% | ~1,105 |
 | Die Bosniaken Kommen! | 11.00% | ~1,013 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~37 |
 | Can I Go Home Now? | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,211 (Ranked 169)  
+Progressed: 9,212 (Ranked 170)  
 Completed: 10 (0.11%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,19 +273,19 @@ Completed: 10 (0.11%) (Ranked 283)
 | 2023-11-30 | 9,135 | 10 |
 | 2023-12-01 | 9,161 | 10 |
 | 2023-12-02 | 9,188 | 10 |
-| 2023-12-03 | 9,211 | 10 |
+| 2023-12-03 | 9,212 | 10 |
 ## Awards
-Max (Diverse Characters): 38  (Ranked 465)  
-Sum: 321 (Ranked 361)  
-Diff (max vs sum): 104  
+Max (Diverse Characters): 38  (Ranked 466)  
+Sum: 322 (Ranked 361)  
+Diff (max vs sum): 105  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 38 |
 | This game is Highly Recommended | 37 |
 | This game is Extremely Fun | 35 |
 | This game has Realistic Visuals | 35 |
+| This game has Challenging Combat | 33 |
 | This game has Amazing Characters | 33 |
-| This game has Challenging Combat | 32 |
 | This game is Educational | 32 |
 | This game has Quickly Understood Controls | 31 |
 | This game has Competitive Players | 26 |
@@ -422,3 +422,4 @@ Diff (max vs sum): 104
 | 2023-11-26 | 4.56 | - | 38 | 287 |
 | 2023-11-29 | 4.56 | - | 38 | 288 |
 | 2023-12-02 | 4.56 | - | 38 | 321 |
+| 2023-12-03 | 4.57 | - | 38 | 322 |

@@ -29,8 +29,8 @@ Rating: 4.64 (Ranked 335)
 | Eye Scream, You Scream | 1.00% | ~246 |
 | We Came, We Chainsaw, We Conquered | 1.00% | ~19 |
 | Mux Ado About Shipping | 0.80% | ~15 |
-| Gunning For Your Job | 0.70% | ~172 |
-| We Paid For The Rights To Put A Whole Movie In Here | 0.70% | ~172 |
+| Gunning For Your Job | 0.70% | ~173 |
+| We Paid For The Rights To Put A Whole Movie In Here | 0.70% | ~173 |
 | Fall In Love With A Parasite | 0.50% | ~10 |
 | Sequel-Bait | 0.40% | ~99 |
 | Playing Favorites | 0.30% | ~74 |
@@ -50,8 +50,8 @@ Rating: 4.64 (Ranked 335)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,641 (Ranked 132)  
-Completed: 14 (0.06%) (Ranked 310)  
+Progressed: 24,643 (Ranked 132)  
+Completed: 14 (0.06%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -276,7 +276,7 @@ Completed: 14 (0.06%) (Ranked 310)
 | 2023-11-30 | 24,613 | 14 |
 | 2023-12-01 | 24,623 | 14 |
 | 2023-12-02 | 24,629 | 14 |
-| 2023-12-03 | 24,641 | 14 |
+| 2023-12-03 | 24,643 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,13 +2,13 @@
   "ID": "be886d9db65047a89b24cd4317695f18",
   "Name": "Frostpunk",
   "ProductSlug": "frostpunk",
-  "Ranking_Rating": 158,
+  "Ranking_Rating": 159,
   "Ranking_Popularity": 167,
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 775,
-  "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 488,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_Completed": 366,
+  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2021-06-03T15:00:00+00:00",
     "PcReleaseDate": "2021-06-03T15:00:00+00:00",
@@ -6303,10 +6303,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 7213,
       "NumberOfAwardsMax": 843
+    },
+    {
+      "Time": "2023-12-03T20:01:03.1765134+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 7214,
+      "NumberOfAwardsMax": 843
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7213,
+  "NumberOfAwards": 7214,
   "NumberOfAwardsMax": 843,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -6362,7 +6368,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 583
+      "Count": 584
     },
     {
       "Text": "This game has a Creative Community",
@@ -6396,9 +6402,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
-  "LastChanged": "2023-12-03T14:59:33.9275707+00:00",
-  "LastChanged_Achievements": "2023-12-03T19:08:52.5872075+00:00",
+  "LastChanged": "2023-12-03T20:01:03.1765132+00:00",
+  "LastChanged_Achievements": "2023-12-03T20:08:57.9099824+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:27.4473364+00:00",
-  "LastUpdate_Ratings": "2023-12-03T18:59:48.7067889+00:00",
-  "LastUpdate_Achievements": "2023-12-03T19:08:52.5872107+00:00"
+  "LastUpdate_Ratings": "2023-12-03T20:01:03.1765139+00:00",
+  "LastUpdate_Achievements": "2023-12-03T20:08:57.9099866+00:00"
 }

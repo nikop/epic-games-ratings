@@ -3,9 +3,9 @@
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 330,
-  "Ranking_EOS_Completed": 365,
+  "Ranking_EOS_Completed": 366,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 408,
+  "EOS_Progressed": 409,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -972,6 +972,11 @@
       "Time": "2023-12-03T13:12:20.5692898+00:00",
       "NumProgressed": 408,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T20:09:04.4670097+00:00",
+      "NumProgressed": 409,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1048,7 +1053,7 @@
       "Name": "Perfect Run",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -1064,7 +1069,7 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
@@ -1104,7 +1109,7 @@
       "Name": "Superior Ranking",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1112,7 +1117,7 @@
       "Name": "Ticket to Tranquility",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "GET_FISH_ALL",
@@ -1120,7 +1125,7 @@
       "Name": "Angler\u0027s Club",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "KODAMA_REACH_NUM",
@@ -1142,9 +1147,9 @@
       "ID": "MAIN_CLEAR_ISLAND2",
       "SetID": "apihg0e",
       "Name": "Ancient Defiance",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 37
     },
     {
       "ID": "MAIN_CLEAR_ISLAND3",
@@ -1176,7 +1181,7 @@
       "Name": "The Journey Begins",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1296,21 +1301,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 408,
+      "Progressed": 409,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-03T19:08:57.0541411+00:00",
+  "LastChanged_Achievements": "2023-12-03T20:09:04.4670092+00:00",
   "LastUpdate_AppInfo": "2023-11-28T17:56:55.9843317+00:00",
-  "LastUpdate_Ratings": "2023-12-03T19:02:54.9393479+00:00",
-  "LastUpdate_Achievements": "2023-12-03T19:08:57.0541705+00:00"
+  "LastUpdate_Ratings": "2023-12-03T20:03:05.5183397+00:00",
+  "LastUpdate_Achievements": "2023-12-03T20:09:04.4670358+00:00"
 }

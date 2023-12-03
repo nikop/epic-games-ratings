@@ -3,7 +3,7 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 272,
-  "Ranking_EOS_Completed": 70,
+  "Ranking_EOS_Completed": 71,
   "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 858,
+  "EOS_Progressed": 859,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 5.71,
+  "EOS_Completed_Percentage": 5.7,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3470,6 +3470,11 @@
       "Time": "2023-12-03T17:03:28.2845249+00:00",
       "NumProgressed": 858,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-03T20:03:48.0978+00:00",
+      "NumProgressed": 859,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 25,
@@ -3591,9 +3596,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G3M4R",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 198
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -3625,7 +3630,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3633,7 +3638,7 @@
       "Name": "Scholar",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "PROGRESS_N1",
@@ -3641,7 +3646,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "PROGRESS_N2",
@@ -3680,14 +3685,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 858,
+      "Progressed": 859,
       "Completed": 49
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-03T19:03:32.381779+00:00",
+  "LastChanged_Achievements": "2023-12-03T20:03:48.0977996+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:43.5720459+00:00",
-  "LastUpdate_Ratings": "2023-12-03T19:00:22.1601511+00:00",
-  "LastUpdate_Achievements": "2023-12-03T19:03:32.3818037+00:00"
+  "LastUpdate_Ratings": "2023-12-03T20:02:33.7751807+00:00",
+  "LastUpdate_Achievements": "2023-12-03T20:03:48.0978461+00:00"
 }

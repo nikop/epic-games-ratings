@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7307,10 +7307,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27652,
       "NumberOfAwardsMax": 4859
+    },
+    {
+      "Time": "2023-12-03T20:03:11.7169339+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27653,
+      "NumberOfAwardsMax": 4859
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27652,
+  "NumberOfAwards": 27653,
   "NumberOfAwardsMax": 4859,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7348,7 +7354,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4054
+      "Count": 4055
     },
     {
       "Text": "This game has Playful Visuals",
@@ -7363,10 +7369,10 @@
       "Count": 3790
     }
   ],
-  "EOS_Progressed": 143687,
+  "EOS_Progressed": 143690,
   "EOS_Completed": 291,
-  "EOS_NewPlayers": 1387,
-  "EOS_NewCompleters": 18,
+  "EOS_NewPlayers": 1373,
+  "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -30933,6 +30939,11 @@
       "Time": "2023-12-03T19:06:04.4783933+00:00",
       "NumProgressed": 143687,
       "NumCompleted": 291
+    },
+    {
+      "Time": "2023-12-03T20:07:23.1247995+00:00",
+      "NumProgressed": 143690,
+      "NumCompleted": 291
     }
   ],
   "TotalAchievements": 112,
@@ -31024,7 +31035,7 @@
       "Name": "One Easy Payment",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5747
+      "UsersEstimate": 5748
     },
     {
       "ID": "bigsale02",
@@ -31048,7 +31059,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5747
+      "UsersEstimate": 5748
     },
     {
       "ID": "blueprint02",
@@ -31296,7 +31307,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5747
+      "UsersEstimate": 5748
     },
     {
       "ID": "energy02",
@@ -31320,7 +31331,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5747
+      "UsersEstimate": 5748
     },
     {
       "ID": "expansion02",
@@ -31424,7 +31435,7 @@
       "Name": "Pretty Penny",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5747
+      "UsersEstimate": 5748
     },
     {
       "ID": "gold03",
@@ -31528,7 +31539,7 @@
       "Name": "Budding Merchant",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5747
+      "UsersEstimate": 5748
     },
     {
       "ID": "level02",
@@ -31808,7 +31819,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5747
+      "UsersEstimate": 5748
     },
     {
       "ID": "workers02",
@@ -31839,15 +31850,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 143687,
+      "Progressed": 143690,
       "Completed": 291
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-12-03T18:02:48.3832131+00:00",
-  "LastChanged_Achievements": "2023-12-03T19:06:04.478393+00:00",
+  "LastChanged": "2023-12-03T20:03:11.7169338+00:00",
+  "LastChanged_Achievements": "2023-12-03T20:07:23.1247992+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:14.839929+00:00",
-  "LastUpdate_Ratings": "2023-12-03T19:02:59.0097259+00:00",
-  "LastUpdate_Achievements": "2023-12-03T19:06:04.478585+00:00"
+  "LastUpdate_Ratings": "2023-12-03T20:03:11.7169344+00:00",
+  "LastUpdate_Achievements": "2023-12-03T20:07:23.1249997+00:00"
 }

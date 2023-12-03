@@ -5,19 +5,19 @@ Rating: 4.69 (Ranked 232)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 31.00% | ~214,126 |
-| 50 HEADSHOTS | 29.00% | ~200,312 |
-| SCIENCE AND INDUSTRY | 28.00% | ~193,404 |
-| FINISHED CHAPTER 1 | 27.00% | ~186,497 |
-| FINISHED CHAPTER 2 | 20.00% | ~138,146 |
-| 200 HEADSHOTS | 17.00% | ~117,424 |
-| FINISHED CHAPTER 3 | 16.00% | ~110,517 |
-| FINISHED CHAPTER 4 | 14.00% | ~96,702 |
-| FINISH CHAPTER 5 | 12.00% | ~82,888 |
-| FINISH CHAPTER 6 | 10.00% | ~69,073 |
-| CATHARTIC ESCAPISM | 10.00% | ~69,073 |
-| 1000 KILLS | 9.00% | ~62,166 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~27,629 |
+| 100 KILLS | 31.00% | ~214,131 |
+| 50 HEADSHOTS | 29.00% | ~200,316 |
+| SCIENCE AND INDUSTRY | 28.00% | ~193,409 |
+| FINISHED CHAPTER 1 | 27.00% | ~186,501 |
+| FINISHED CHAPTER 2 | 20.00% | ~138,149 |
+| 200 HEADSHOTS | 17.00% | ~117,427 |
+| FINISHED CHAPTER 3 | 16.00% | ~110,519 |
+| FINISHED CHAPTER 4 | 14.00% | ~96,704 |
+| FINISH CHAPTER 5 | 12.00% | ~82,889 |
+| FINISH CHAPTER 6 | 10.00% | ~69,074 |
+| CATHARTIC ESCAPISM | 10.00% | ~69,074 |
+| 1000 KILLS | 9.00% | ~62,167 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~27,630 |
 | FIREFIGHT LEVEL 20 | 2.00% | ~13,815 |
 | FIRST BLOOD | 2.00% | ~13,815 |
 | PACEMAKER | 1.00% | ~6,907 |
@@ -58,8 +58,8 @@ Rating: 4.69 (Ranked 232)
 | THE GAMBLER | 0.10% | ~691 |
 | WARRIOR IN A GARDEN | 0.10% | ~691 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 690,730 (Ranked 26)  
-Completed: 88 (0.01%) (Ranked 344)  
+Progressed: 690,745 (Ranked 26)  
+Completed: 88 (0.01%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -285,11 +285,11 @@ Completed: 88 (0.01%) (Ranked 344)
 | 2023-11-30 | 689,810 | 86 |
 | 2023-12-01 | 690,070 | 86 |
 | 2023-12-02 | 690,382 | 87 |
-| 2023-12-03 | 690,730 | 88 |
+| 2023-12-03 | 690,745 | 88 |
 ## Awards
 Max (Great Boss Battles): 422  (Ranked 227)  
-Sum: 422 (Ranked 338)  
-Diff (max vs sum): -111  
+Sum: 422 (Ranked 339)  
+Diff (max vs sum): -112  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 422 |

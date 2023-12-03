@@ -1,11 +1,11 @@
 # Frostpunk
 [Store](https://store.epicgames.com/en-US/p/frostpunk)  
 [View Rawdata](../../db/f/frostpunk.json)  
-Rating: 4.74 (Ranked 158)  
+Rating: 4.74 (Ranked 159)  
 Number of Ratings: 11,240  (23.09.2022)  
 ## Awards
 Max (Quickly Understood Controls): 843  (Ranked 167)  
-Sum: 7,213 (Ranked 118)  
+Sum: 7,214 (Ranked 118)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): 49
 | This game is Extremely Fun | 773 |
 | This game has Unique Visuals | 694 |
 | This game has Challenging Combat | 652 |
-| This game has Amazing Characters | 583 |
+| This game has Amazing Characters | 584 |
 | This game has Obsessive Gameplay | 491 |
 | This game has a Creative Community | 418 |
 ## Ratings History
@@ -311,4 +311,4 @@ Diff (max vs sum): 49
 | 2023-11-30 | 4.74 | - | 841 | 7,195 |
 | 2023-12-01 | 4.74 | - | 841 | 7,201 |
 | 2023-12-02 | 4.74 | - | 841 | 7,206 |
-| 2023-12-03 | 4.74 | - | 843 | 7,213 |
+| 2023-12-03 | 4.74 | - | 843 | 7,214 |

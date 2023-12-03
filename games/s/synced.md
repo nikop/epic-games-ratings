@@ -1,19 +1,19 @@
 # SYNCED
 [Store](https://store.epicgames.com/en-US/p/synced)  
 [View Rawdata](../../db/s/synced.json)  
-Rating: 4.16 (Ranked 944)  
+Rating: 4.15 (Ranked 949)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 35.00% | ~23,804 |
-| As Far Away As Possible | 18.00% | ~12,242 |
+| Your Lucky Day | 35.00% | ~23,806 |
+| As Far Away As Possible | 18.00% | ~12,243 |
 | A Most Unstable Organism | 13.00% | ~8,842 |
-| No Time to Follow Protocol | 10.00% | ~6,801 |
+| No Time to Follow Protocol | 10.00% | ~6,802 |
 | Float Like a Butterfly... | 8.00% | ~5,441 |
 | Nano Connoisseur | 6.00% | ~4,081 |
 | In Two Places At Once | 6.00% | ~4,081 |
-| Pulling Your Weight | 3.00% | ~2,040 |
-| Reaping Rivals | 3.00% | ~2,040 |
+| Pulling Your Weight | 3.00% | ~2,041 |
+| Reaping Rivals | 3.00% | ~2,041 |
 | fifteenth Time's the Charm | 1.00% | ~680 |
 | More Power to You | 1.00% | ~680 |
 | Memory Keeper | 0.40% | ~272 |
@@ -22,8 +22,8 @@ Rating: 4.16 (Ranked 944)
 | Gone Rogue | 0.30% | ~204 |
 | Runs for Your Money | 0.30% | ~204 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,012 (Ranked 102)  
-Completed: 38 (0.06%) (Ranked 310)  
+Progressed: 68,018 (Ranked 102)  
+Completed: 38 (0.06%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -120,18 +120,18 @@ Completed: 38 (0.06%) (Ranked 310)
 | 2023-11-30 | 67,802 | 38 |
 | 2023-12-01 | 67,857 | 38 |
 | 2023-12-02 | 67,921 | 38 |
-| 2023-12-03 | 68,012 | 38 |
+| 2023-12-03 | 68,018 | 38 |
 ## Awards
 Max (Great for Beginners): 98  (Ranked 366)  
-Sum: 401 (Ranked 342)  
-Diff (max vs sum): 24  
+Sum: 453 (Ranked 334)  
+Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 98 |
 | This game has Diverse Characters | 70 |
 | This game has Amazing Characters | 53 |
+| This game has a Competitive Community | 52 |
 | This game is Highly Recommended | 51 |
-| This game has a Competitive Community | 48 |
 | This game is Extremely Fun | 47 |
 | This game has Amazing Storytelling | 43 |
 | This game has Quickly Understood Controls | 39 |
@@ -218,4 +218,4 @@ Diff (max vs sum): 24
 | 2023-11-30 | 4.16 | 98 | 398 |
 | 2023-12-01 | 4.16 | 98 | 399 |
 | 2023-12-02 | 4.16 | 98 | 400 |
-| 2023-12-03 | 4.16 | 98 | 401 |
+| 2023-12-03 | 4.16 | 98 | 453 |
