@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -735,7 +735,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6020,
+  "EOS_Progressed": 6021,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
@@ -6750,6 +6750,11 @@
       "Time": "2023-12-03T16:03:35.0530267+00:00",
       "NumProgressed": 6020,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T19:03:50.7806514+00:00",
+      "NumProgressed": 6021,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -6768,9 +6773,9 @@
       "ID": "achievement_0002",
       "SetID": "9123ogc",
       "Name": "Gathering Dust",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 963
+      "UsersEstimate": 1024
     },
     {
       "ID": "achievement_0003",
@@ -6810,7 +6815,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 5659
+      "UsersEstimate": 5660
     },
     {
       "ID": "achievement_0008",
@@ -6882,7 +6887,7 @@
       "Name": "Hitting a Season",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 2468
+      "UsersEstimate": 2469
     },
     {
       "ID": "achievement_0017",
@@ -6922,7 +6927,7 @@
       "Name": "Team Orders",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 4575
+      "UsersEstimate": 4576
     },
     {
       "ID": "achievement_0022",
@@ -7002,7 +7007,7 @@
       "Name": "Recycle",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "achievement_0032",
@@ -7018,7 +7023,7 @@
       "Name": "Engineer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 3371
+      "UsersEstimate": 3372
     },
     {
       "ID": "achievement_0034",
@@ -7074,7 +7079,7 @@
       "Name": "One for the Book",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "achievement_0041",
@@ -7114,7 +7119,7 @@
       "Name": "Making History",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1926
+      "UsersEstimate": 1927
     },
     {
       "ID": "achievement_0046",
@@ -7146,14 +7151,14 @@
       "Name": "Proving Them Wrong",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     }
   ],
   "AchievementSets": [
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 6020,
+      "Progressed": 6021,
       "Completed": 0
     }
   ],
@@ -7161,8 +7166,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-12-03T14:57:00.7181357+00:00",
-  "LastChanged_Achievements": "2023-12-03T18:03:29.5801834+00:00",
+  "LastChanged_Achievements": "2023-12-03T19:03:50.7806511+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:30.4962244+00:00",
-  "LastUpdate_Ratings": "2023-12-03T17:57:07.8285063+00:00",
-  "LastUpdate_Achievements": "2023-12-03T18:03:29.5802398+00:00"
+  "LastUpdate_Ratings": "2023-12-03T18:57:20.9180746+00:00",
+  "LastUpdate_Achievements": "2023-12-03T19:03:50.7807014+00:00"
 }

@@ -5,20 +5,20 @@ Rating: 4.54 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,656 |
-| Pork Chopped | 3.00% | ~1,656 |
-| Dr. Reed, I Presume? | 2.00% | ~14,593 |
-| Git Gutte! | 2.00% | ~14,593 |
-| Bookworm | 2.00% | ~14,593 |
-| Break A Leg | 2.00% | ~14,593 |
-| Coup de Grâce | 2.00% | ~14,593 |
-| Hazardous Materials | 2.00% | ~14,593 |
-| Friends Like These | 2.00% | ~14,593 |
-| Hotel California | 2.00% | ~14,593 |
-| Apex Predator | 2.00% | ~14,593 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,593 |
-| Welcome To Hell-A | 2.00% | ~14,593 |
-| One of Us | 2.00% | ~1,104 |
+| Whatever It Takes | 3.00% | ~1,657 |
+| Pork Chopped | 3.00% | ~1,657 |
+| Dr. Reed, I Presume? | 2.00% | ~14,594 |
+| Git Gutte! | 2.00% | ~14,594 |
+| Bookworm | 2.00% | ~14,594 |
+| Break A Leg | 2.00% | ~14,594 |
+| Coup de Grâce | 2.00% | ~14,594 |
+| Hazardous Materials | 2.00% | ~14,594 |
+| Friends Like These | 2.00% | ~14,594 |
+| Hotel California | 2.00% | ~14,594 |
+| Apex Predator | 2.00% | ~14,594 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,594 |
+| Welcome To Hell-A | 2.00% | ~14,594 |
+| One of Us | 2.00% | ~1,105 |
 | Making Your Mark | 1.00% | ~7,297 |
 | Anger Management | 1.00% | ~7,297 |
 | Perks of the Job | 1.00% | ~7,297 |
@@ -36,16 +36,16 @@ Rating: 4.54 (Ranked 529)
 | This is My Weapon | 1.00% | ~7,297 |
 | Humanity Distilled | 0.90% | ~6,567 |
 | Max Headroom | 0.90% | ~6,567 |
-| Down with the Sickness | 0.80% | ~5,837 |
+| Down with the Sickness | 0.80% | ~5,838 |
 | Not Even My Final Form | 0.70% | ~5,108 |
 | Jumbo Keyring | 0.70% | ~5,108 |
 | Go, Bobcats! | 0.70% | ~5,108 |
 | Rising Star | 0.70% | ~5,108 |
+| Smorgasbord | 0.60% | ~4,378 |
 | Internet Famous | 0.60% | ~4,378 |
-| Make it So | 0.50% | ~3,648 |
-| On Safari | 0.50% | ~3,648 |
-| Smorgasbord | 0.50% | ~3,648 |
-| Variety is the Spice of Death | 0.50% | ~3,648 |
+| Make it So | 0.50% | ~3,649 |
+| On Safari | 0.50% | ~3,649 |
+| Variety is the Spice of Death | 0.50% | ~3,649 |
 | LA Influential | 0.40% | ~2,919 |
 | Gore Horse | 0.40% | ~2,919 |
 | Top That, Tisha! | 0.40% | ~221 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 529)
 | Bucket List | 0.10% | ~730 |
 | Wilhelm | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 729,665 (Ranked 21)  
+Progressed: 729,701 (Ranked 21)  
 Completed: 2,461 (0.34%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 2,461 (0.34%) (Ranked 233)
 | 2023-11-30 | 728,231 | 2,456 |
 | 2023-12-01 | 728,667 | 2,459 |
 | 2023-12-02 | 729,149 | 2,460 |
-| 2023-12-03 | 729,665 | 2,461 |
+| 2023-12-03 | 729,701 | 2,461 |
 ## Awards
 Max (Great Boss Battles): 7,892  (Ranked 49)  
 Sum: 12,107 (Ranked 82)  

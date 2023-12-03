@@ -2,10 +2,10 @@
   "ID": "5aab0660c2db4caa8a535d267a84633c",
   "Name": "Tomb Raider I-III Remastered Starring Lara Croft",
   "ProductSlug": "tomb-raider-iiii-remastered-538640",
-  "Ranking_EOS_Progress": 774,
+  "Ranking_EOS_Progress": 775,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 488,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2024-02-14T18:00:00+00:00",
     "PcReleaseDate": "2024-02-14T18:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-28T15:57:01.3376247+00:00",
-  "LastUpdate_Ratings": "2023-12-03T17:59:29.9529052+00:00",
-  "LastUpdate_Achievements": "2023-12-03T18:04:16.8370253+00:00"
+  "LastUpdate_Ratings": "2023-12-03T18:59:41.3680098+00:00",
+  "LastUpdate_Achievements": "2023-12-03T19:04:36.950397+00:00"
 }

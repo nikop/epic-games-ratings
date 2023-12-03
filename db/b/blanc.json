@@ -4,8 +4,8 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3173,
+  "EOS_Progressed": 3183,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -4776,6 +4776,11 @@
       "Time": "2023-12-03T18:04:31.3021655+00:00",
       "NumProgressed": 3173,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-03T19:04:51.1007384+00:00",
+      "NumProgressed": 3183,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -4795,7 +4800,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "FALLEN_TREE",
@@ -4803,7 +4808,7 @@
       "Name": "Sheltered by the fallen tree",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "HELPING_LITTLE_ONES",
@@ -4811,7 +4816,7 @@
       "Name": "Helping the little ones",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "MOVE_ON",
@@ -4819,7 +4824,7 @@
       "Name": "The will to move on",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "REUNION",
@@ -4827,7 +4832,7 @@
       "Name": "Reunion",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "SLIDERS",
@@ -4851,7 +4856,7 @@
       "Name": "Starting as a duo",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -4859,7 +4864,7 @@
       "Name": "Stronger together",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 444
+      "UsersEstimate": 446
     },
     {
       "ID": "THE_END",
@@ -4867,7 +4872,7 @@
       "Name": "The end",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "TRANSMISSION",
@@ -4883,14 +4888,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 571
+      "UsersEstimate": 573
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3173,
+      "Progressed": 3183,
       "Completed": 6
     }
   ],
@@ -4898,8 +4903,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-03T18:04:31.3021651+00:00",
+  "LastChanged_Achievements": "2023-12-03T19:04:51.100738+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:22.6950578+00:00",
-  "LastUpdate_Ratings": "2023-12-03T17:58:05.8433179+00:00",
-  "LastUpdate_Achievements": "2023-12-03T18:04:31.3022007+00:00"
+  "LastUpdate_Ratings": "2023-12-03T18:58:17.3701752+00:00",
+  "LastUpdate_Achievements": "2023-12-03T19:04:51.1007672+00:00"
 }

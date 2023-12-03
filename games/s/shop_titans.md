@@ -6,8 +6,8 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 7.00% | ~10,057 |
-| Titan's First Steps | 7.00% | ~10,057 |
+| Sponsored by Argon | 7.00% | ~10,058 |
+| Titan's First Steps | 7.00% | ~10,058 |
 | Basic in Bulk | 6.00% | ~8,621 |
 | Tinkle of Coins | 6.00% | ~8,621 |
 | Disintermediation | 5.00% | ~7,184 |
@@ -19,14 +19,14 @@ Number of Ratings: 12,664  (23.09.2022)
 | Pretty Penny | 4.00% | ~5,747 |
 | Budding Merchant | 4.00% | ~5,747 |
 | Own the Means of Production | 4.00% | ~5,747 |
-| The Daily Grind | 3.00% | ~4,310 |
-| Bounty Hunters | 3.00% | ~4,310 |
-| Demand for Supplies | 3.00% | ~4,310 |
-| Flooding the Market | 3.00% | ~4,310 |
-| Where it Hurts | 3.00% | ~4,310 |
-| One-Armed Bandit | 3.00% | ~4,310 |
-| Dungeon Imports | 3.00% | ~4,310 |
-| Through Repetition, Perfection | 3.00% | ~4,310 |
+| The Daily Grind | 3.00% | ~4,311 |
+| Bounty Hunters | 3.00% | ~4,311 |
+| Demand for Supplies | 3.00% | ~4,311 |
+| Flooding the Market | 3.00% | ~4,311 |
+| Where it Hurts | 3.00% | ~4,311 |
+| One-Armed Bandit | 3.00% | ~4,311 |
+| Dungeon Imports | 3.00% | ~4,311 |
+| Through Repetition, Perfection | 3.00% | ~4,311 |
 | On the Path to Greatness | 2.00% | ~2,874 |
 | A Notch Above the Rest | 2.00% | ~2,874 |
 | Ascended | 2.00% | ~2,874 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~431 |
 | Capitalist Camaraderie | 0.20% | ~287 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 143,677 (Ranked 80)  
+Progressed: 143,687 (Ranked 80)  
 Completed: 291 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,7 +346,7 @@ Completed: 291 (0.20%) (Ranked 257)
 | 2023-11-30 | 143,035 | 290 |
 | 2023-12-01 | 143,280 | 290 |
 | 2023-12-02 | 143,469 | 290 |
-| 2023-12-03 | 143,677 | 291 |
+| 2023-12-03 | 143,687 | 291 |
 ## Awards
 Max (Great for Beginners): 4,859  (Ranked 75)  
 Sum: 27,652 (Ranked 50)  

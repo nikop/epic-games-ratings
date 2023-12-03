@@ -5115,9 +5115,9 @@
       "Count": 396
     }
   ],
-  "EOS_Progressed": 233958,
-  "EOS_Completed": 551,
-  "EOS_NewPlayers": 5090,
+  "EOS_Progressed": 234023,
+  "EOS_Completed": 552,
+  "EOS_NewPlayers": 5126,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -21200,6 +21200,11 @@
       "Time": "2023-12-03T18:08:47.0914227+00:00",
       "NumProgressed": 233958,
       "NumCompleted": 551
+    },
+    {
+      "Time": "2023-12-03T19:09:04.1159898+00:00",
+      "NumProgressed": 234023,
+      "NumCompleted": 552
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21290,9 +21295,9 @@
       "ID": "Defeat_Mantis",
       "SetID": "bkp3b1a",
       "Name": "The Killing Jar",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1638
+      "UsersEstimate": 1872
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -21410,9 +21415,9 @@
       "ID": "Obtain_Archetype_Level",
       "SetID": "bkp3b1a",
       "Name": "Top Performer",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 702
+      "UsersEstimate": 936
     },
     {
       "ID": "Obtain_Archetype_Secret",
@@ -21651,22 +21656,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 233958,
-      "Completed": 551
+      "Progressed": 234023,
+      "Completed": 552
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 13123,
-      "Completed": 186
+      "Progressed": 13188,
+      "Completed": 187
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-03T17:02:55.1057954+00:00",
-  "LastChanged_Achievements": "2023-12-03T18:08:47.0914223+00:00",
+  "LastChanged_Achievements": "2023-12-03T19:09:04.1159894+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-03T18:02:58.5520065+00:00",
-  "LastUpdate_Achievements": "2023-12-03T18:08:47.0915497+00:00"
+  "LastUpdate_Ratings": "2023-12-03T19:03:18.5263461+00:00",
+  "LastUpdate_Achievements": "2023-12-03T19:09:04.1160895+00:00"
 }

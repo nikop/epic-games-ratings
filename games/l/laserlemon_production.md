@@ -27,7 +27,7 @@
 | Little Lost Things | 25.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 16 (Ranked 583)  
-Completed: 3 (18.75%) (Ranked 22)  
+Completed: 3 (18.75%) (Ranked 23)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

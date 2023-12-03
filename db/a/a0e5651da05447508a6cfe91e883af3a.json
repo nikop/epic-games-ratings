@@ -2,10 +2,10 @@
   "ID": "a0e5651da05447508a6cfe91e883af3a",
   "Name": "Dark Table CCG",
   "ProductSlug": "dark-table-ccg-abe8b6",
-  "Ranking_EOS_Progress": 774,
+  "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 488,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-18T02:00:00+00:00",
     "PcReleaseDate": "2023-11-18T02:00:00+00:00",
@@ -24,27 +24,251 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2023-12-03T19:09:22.7139094+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2023-12-03T19:09:22.7139112+00:00",
+  "TotalAchievements": 27,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ActivateTraps_Cumulative_85",
+      "SetID": "2bonhb9",
+      "Name": "Clumsy",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BankKnowledge_Cumulative_250",
+      "SetID": "2bonhb9",
+      "Name": "Knowledge Banker",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BuildWalls_Cumulative_275",
+      "SetID": "2bonhb9",
+      "Name": "Stone Mason",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CastSpells_Cumulative_500",
+      "SetID": "2bonhb9",
+      "Name": "Spellcaster",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DamageBySpellsAbilities_Cumulative_800",
+      "SetID": "2bonhb9",
+      "Name": "Gifted Damager",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DestroyWalls_Cumulative_425",
+      "SetID": "2bonhb9",
+      "Name": "Homewrecker",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Gold_Cumulative_300000",
+      "SetID": "2bonhb9",
+      "Name": "Gold Digger",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Heal_Cumulative_500",
+      "SetID": "2bonhb9",
+      "Name": "Healing Hands",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_Cumulative_100",
+      "SetID": "2bonhb9",
+      "Name": "Kill 100 Units",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_Cumulative_1600",
+      "SetID": "2bonhb9",
+      "Name": "Kill 1600 Units",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_Cumulative_200",
+      "SetID": "2bonhb9",
+      "Name": "Kill 200 Units",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_Cumulative_400",
+      "SetID": "2bonhb9",
+      "Name": "Kill 400 Units",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_Cumulative_800",
+      "SetID": "2bonhb9",
+      "Name": "Kill 800 Units",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Login_First",
+      "SetID": "2bonhb9",
+      "Name": "First Login",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Losses_100",
+      "SetID": "2bonhb9",
+      "Name": "100 Losses",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PlayCardsQty_Cumulative_10000",
+      "SetID": "2bonhb9",
+      "Name": "Manipulator of the Worlds",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SetTraps_Cumulative_125",
+      "SetID": "2bonhb9",
+      "Name": "Trap Setter",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Wins_10",
+      "SetID": "2bonhb9",
+      "Name": "10 Wins",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Wins_100",
+      "SetID": "2bonhb9",
+      "Name": "100 Wins",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Wins_20",
+      "SetID": "2bonhb9",
+      "Name": "20 Wins",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Wins_50",
+      "SetID": "2bonhb9",
+      "Name": "50 Wins",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Wins_Land_17",
+      "SetID": "2bonhb9",
+      "Name": "Land Origin Player",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Wins_SameLeader_100",
+      "SetID": "2bonhb9",
+      "Name": "100 Leader Wins",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Wins_SameLeader_200",
+      "SetID": "2bonhb9",
+      "Name": "200 Leader Wins",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Wins_SameLeader_50",
+      "SetID": "2bonhb9",
+      "Name": "50 Leader Wins",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Wins_Void_17",
+      "SetID": "2bonhb9",
+      "Name": "Void Origin Player",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Wins_Water_17",
+      "SetID": "2bonhb9",
+      "Name": "Water Origin Player",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "2bonhb9",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-18T15:00:14.9921948+00:00",
   "FirstSeenAchievements": "2023-08-03T14:01:50.784469+00:00",
-  "LastChanged_Achievements": "2023-12-03T18:09:05.413089+00:00",
+  "LastChanged_Achievements": "2023-12-03T19:09:22.7139091+00:00",
   "LastUpdate_AppInfo": "2023-11-30T23:57:07.681139+00:00",
-  "LastUpdate_Ratings": "2023-12-03T17:57:27.4361528+00:00",
-  "LastUpdate_Achievements": "2023-12-03T18:09:05.4130908+00:00"
+  "LastUpdate_Ratings": "2023-12-03T18:57:40.0260699+00:00",
+  "LastUpdate_Achievements": "2023-12-03T19:09:22.715221+00:00"
 }

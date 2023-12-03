@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 828,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1887,9 +1887,9 @@
       "ID": "CompleteChapter17",
       "SetID": "52ail55",
       "Name": "Fool\u0027s Errand",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 50
     },
     {
       "ID": "CompleteChapter17NoIdenDeath",
@@ -1935,9 +1935,9 @@
       "ID": "CompleteChapter5",
       "SetID": "52ail55",
       "Name": "Breathing Easy",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 207
     },
     {
       "ID": "CompleteChapter6",
@@ -2070,8 +2070,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-03T18:05:36.1444397+00:00",
+  "LastChanged_Achievements": "2023-12-03T19:05:55.219292+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:09.4303292+00:00",
-  "LastUpdate_Ratings": "2023-12-03T17:59:15.4820115+00:00",
-  "LastUpdate_Achievements": "2023-12-03T18:05:36.1444748+00:00"
+  "LastUpdate_Ratings": "2023-12-03T18:59:27.3184791+00:00",
+  "LastUpdate_Achievements": "2023-12-03T19:05:55.219315+00:00"
 }

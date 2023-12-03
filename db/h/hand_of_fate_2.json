@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -943,9 +943,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 665387,
+  "EOS_Progressed": 665388,
   "EOS_Completed": 172,
-  "EOS_NewPlayers": 284,
+  "EOS_NewPlayers": 281,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -22378,6 +22378,11 @@
       "Time": "2023-12-03T18:06:21.2381521+00:00",
       "NumProgressed": 665387,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-12-03T19:08:20.0325467+00:00",
+      "NumProgressed": 665388,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 48,
@@ -22397,7 +22402,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 385924
+      "UsersEstimate": 385925
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -22629,7 +22634,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79846
+      "UsersEstimate": 79847
     },
     {
       "ID": "Achievement_32_Karma",
@@ -22772,15 +22777,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 665387,
+      "Progressed": 665388,
       "Completed": 172
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-24T17:58:48.2867936+00:00",
-  "LastChanged_Achievements": "2023-12-03T18:06:21.2381518+00:00",
+  "LastChanged_Achievements": "2023-12-03T19:08:20.0325464+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:29.5131333+00:00",
-  "LastUpdate_Ratings": "2023-12-03T17:57:30.9669734+00:00",
-  "LastUpdate_Achievements": "2023-12-03T18:06:21.2382723+00:00"
+  "LastUpdate_Ratings": "2023-12-03T18:57:43.4937722+00:00",
+  "LastUpdate_Achievements": "2023-12-03T19:08:20.0326516+00:00"
 }

@@ -7,16 +7,16 @@ Number of Ratings: 180  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First line | 77.00% | ~1,470 |
+| First cargo item on board | 71.00% | ~1,355 |
 | First cargo item waiting | 71.00% | ~1,355 |
 | First bus stop | 70.00% | ~1,336 |
-| First cargo item on board | 70.00% | ~1,336 |
 | First passenger on board | 67.00% | ~1,279 |
 | First passenger waiting | 67.00% | ~1,279 |
 | First bus arrived | 66.00% | ~1,260 |
 | First train station | 63.00% | ~1,203 |
 | First steam train arrived | 59.00% | ~1,126 |
 | First industry upgraded | 56.00% | ~1,069 |
-| Transport millionaire | 54.00% | ~1,031 |
+| Transport millionaire | 55.00% | ~1,050 |
 | Cadet | 54.00% | ~1,031 |
 | Transport master | 52.00% | ~993 |
 | Cargo hub | 52.00% | ~993 |

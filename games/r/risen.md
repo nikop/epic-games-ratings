@@ -11,8 +11,8 @@ Rating: 4.57 (Ranked 478)
 | Adventurer | 70.00% | ~42 |
 | The brave little tailor | 55.00% | ~33 |
 | Archer | 55.00% | ~33 |
+| Samaritan | 50.00% | ~30 |
 | Field hand | 48.00% | ~29 |
-| Samaritan | 48.00% | ~29 |
 | Well-to-do | 45.00% | ~27 |
 | The merciful one | 43.00% | ~26 |
 | Ladies' man | 43.00% | ~26 |
@@ -56,7 +56,7 @@ Rating: 4.57 (Ranked 478)
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60 (Ranked 485)  
+Progressed: 60 (Ranked 486)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |

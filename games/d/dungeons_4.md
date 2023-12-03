@@ -28,11 +28,11 @@
 | Pure Dynamite! | 44.00% | ~227 |
 | The Cathedral of Light | 42.00% | ~217 |
 | Shame! Shame! Shame! | 42.00% | ~217 |
-| Dungeonlord Gorgu | 40.00% | ~207 |
+| Dungeonlord Gorgu | 41.00% | ~212 |
 | Mana Cannon | 39.00% | ~202 |
 | Tanos' Crusade Against Thalya | 38.00% | ~196 |
 | All’s Well That Ends Evil | 32.00% | ~165 |
-| Unstoppable Horde | 30.00% | ~155 |
+| Unstoppable Horde | 31.00% | ~160 |
 | Master of the Undead | 29.00% | ~150 |
 | The Duel | 28.00% | ~145 |
 | If Looks Could Kill | 26.00% | ~134 |

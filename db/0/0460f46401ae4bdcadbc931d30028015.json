@@ -4,11 +4,11 @@
   "ProductSlug": "madden-nfl-24",
   "Ranking_Rating": 908,
   "Ranking_Popularity": 460,
-  "Ranking_PopularitySum": 420,
+  "Ranking_PopularitySum": 421,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -843,7 +843,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 4015,
+  "EOS_Progressed": 4016,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
@@ -6498,6 +6498,11 @@
       "Time": "2023-12-03T18:03:58.3775326+00:00",
       "NumProgressed": 4015,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T19:04:19.1490023+00:00",
+      "NumProgressed": 4016,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -6518,7 +6523,7 @@
       "Name": "Stud Finder",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "achievement_11",
@@ -6526,15 +6531,15 @@
       "Name": "Big Spender",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "achievement_12",
       "SetID": "aiin7da",
       "Name": "Dealmaker",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 60,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1124
     },
     {
       "ID": "achievement_13",
@@ -6662,7 +6667,7 @@
       "Name": "Bragging Rights",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "achievement_9",
@@ -6677,7 +6682,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 4015,
+      "Progressed": 4016,
       "Completed": 0
     }
   ],
@@ -6685,8 +6690,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-12-03T07:58:13.4190037+00:00",
-  "LastChanged_Achievements": "2023-12-03T18:03:58.3775324+00:00",
+  "LastChanged_Achievements": "2023-12-03T19:04:19.1490018+00:00",
   "LastUpdate_AppInfo": "2023-11-30T06:57:22.8292477+00:00",
-  "LastUpdate_Ratings": "2023-12-03T17:58:10.368673+00:00",
-  "LastUpdate_Achievements": "2023-12-03T18:03:58.3775634+00:00"
+  "LastUpdate_Ratings": "2023-12-03T18:58:21.9461237+00:00",
+  "LastUpdate_Achievements": "2023-12-03T19:04:19.1490393+00:00"
 }

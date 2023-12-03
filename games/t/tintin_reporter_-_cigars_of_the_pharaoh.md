@@ -12,10 +12,10 @@
 | The Curse of Kih-Oskh | 9.00% | ~7 |
 | Cat Lover | 7.00% | ~6 |
 | It's a Deal! | 7.00% | ~6 |
+| In the Name of the Law | 6.00% | ~5 |
+| Au Revoir, Abudin | 6.00% | ~5 |
 | Dynamite, Treason and Coconuts | 6.00% | ~5 |
 | Save a Friend | 6.00% | ~5 |
-| In the Name of the Law | 5.00% | ~4 |
-| Au Revoir, Abudin | 5.00% | ~4 |
 | Mysterious Bungalow | 5.00% | ~4 |
 | Mummy Nightmare | 5.00% | ~4 |
 | Barking Dog | 5.00% | ~4 |
@@ -42,7 +42,7 @@
 | Broken Brotherhood | 0.00% | ~0 |
 | Guilt | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81 (Ranked 460)  
+Progressed: 81 (Ranked 461)  
 Completed: 0 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |

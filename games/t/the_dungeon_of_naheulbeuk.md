@@ -6,19 +6,19 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~84,389 |
-| Alt+F4 | 9.00% | ~21,700 |
-| Where's that freaking Dwarf? | 8.00% | ~19,289 |
-| Déjà vu | 7.00% | ~16,878 |
+| Sowwy! | 35.00% | ~84,394 |
+| Alt+F4 | 9.00% | ~21,701 |
+| Where's that freaking Dwarf? | 8.00% | ~19,290 |
+| Déjà vu | 7.00% | ~16,879 |
 | Sock! SOCK! | 5.00% | ~12,056 |
 | Speedrun | 5.00% | ~12,056 |
-| A beer, two curses, three companions | 4.00% | ~9,644 |
-| GG EZ | 4.00% | ~9,644 |
-| DM intervention | 4.00% | ~9,644 |
-| Fireproof Wizardess | 4.00% | ~9,644 |
-| Livin' in a dwarven paradise | 3.00% | ~7,233 |
-| Way of the Wimp | 3.00% | ~7,233 |
-| The plot thickens... At the tavern | 3.00% | ~7,233 |
+| A beer, two curses, three companions | 4.00% | ~9,645 |
+| GG EZ | 4.00% | ~9,645 |
+| DM intervention | 4.00% | ~9,645 |
+| Fireproof Wizardess | 4.00% | ~9,645 |
+| Livin' in a dwarven paradise | 3.00% | ~7,234 |
+| Way of the Wimp | 3.00% | ~7,234 |
+| The plot thickens... At the tavern | 3.00% | ~7,234 |
 | Shiny and Crôm | 2.00% | ~4,822 |
 | The demons' feast | 2.00% | ~4,822 |
 | The Great Library | 2.00% | ~4,822 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~241 |
 | Dwarf Candy | 0.10% | ~241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,111 (Ranked 63)  
+Progressed: 241,125 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,10 +281,10 @@ Completed: 7 (0.00%) (Ranked 365)
 | 2023-11-30 | 240,529 | 7 |
 | 2023-12-01 | 240,719 | 7 |
 | 2023-12-02 | 240,910 | 7 |
-| 2023-12-03 | 241,111 | 7 |
+| 2023-12-03 | 241,125 | 7 |
 ## Awards
 Max (Character Customization): 241  (Ranked 272)  
-Sum: 486 (Ranked 329)  
+Sum: 487 (Ranked 329)  
 Diff (max vs sum): -57  
 | Award | Count |
 | ----- | ----- |
@@ -296,7 +296,7 @@ Diff (max vs sum): -57
 | This game has Quickly Understood Controls | 31 |
 | This game has Amazing Characters | 27 |
 | This game has Diverse Characters | 27 |
-| This game is Extremely Fun | 25 |
+| This game is Extremely Fun | 26 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -487,4 +487,4 @@ Diff (max vs sum): -57
 | 2023-11-27 | 4.58 | - | 240 | 483 |
 | 2023-11-28 | 4.58 | - | 240 | 484 |
 | 2023-11-30 | 4.58 | - | 240 | 485 |
-| 2023-12-03 | 4.58 | - | 241 | 486 |
+| 2023-12-03 | 4.58 | - | 241 | 487 |

@@ -5,7 +5,7 @@ Rating: 4.75 (Ranked 148)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 0.70% | ~1,638 |
+| The Killing Jar | 0.80% | ~1,872 |
 | First of Many | 0.70% | ~1,638 |
 | Regicide | 0.70% | ~92 |
 | Master of the Dark Arts | 0.70% | ~92 |
@@ -19,6 +19,7 @@ Rating: 4.75 (Ranked 148)
 | Familiar Face | 0.40% | ~936 |
 | Blue Goddess | 0.40% | ~936 |
 | Duality | 0.40% | ~936 |
+| Top Performer | 0.40% | ~936 |
 | Boss'n Up | 0.40% | ~936 |
 | Good, But Could Be Better! | 0.40% | ~936 |
 | Trait Chaser | 0.40% | ~936 |
@@ -28,7 +29,6 @@ Rating: 4.75 (Ranked 148)
 | The God Gambit | 0.30% | ~702 |
 | Dark Designs | 0.30% | ~702 |
 | Equal Measures | 0.30% | ~702 |
-| Top Performer | 0.30% | ~702 |
 | Shhh...It's a Secret | 0.30% | ~702 |
 | Was This Supposed To Happen? | 0.30% | ~702 |
 | Edgelord | 0.30% | ~702 |
@@ -61,8 +61,8 @@ Rating: 4.75 (Ranked 148)
 | Maxed Out! | 0.10% | ~234 |
 | A Foul Feast | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,958 (Ranked 68)  
-Completed: 551 (0.24%) (Ranked 250)  
+Progressed: 234,023 (Ranked 68)  
+Completed: 552 (0.24%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -201,7 +201,7 @@ Completed: 551 (0.24%) (Ranked 250)
 | 2023-11-30 | 231,406 | 542 |
 | 2023-12-01 | 232,269 | 546 |
 | 2023-12-02 | 233,162 | 548 |
-| 2023-12-03 | 233,958 | 551 |
+| 2023-12-03 | 234,023 | 552 |
 ## Awards
 Max (Great Boss Battles): 2,603  (Ranked 102)  
 Sum: 6,405 (Ranked 128)  

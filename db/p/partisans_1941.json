@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1821,
+  "EOS_Progressed": 1822,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4259,6 +4259,11 @@
       "Time": "2023-12-03T12:09:07.5653823+00:00",
       "NumProgressed": 1821,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-03T19:08:53.7280214+00:00",
+      "NumProgressed": 1822,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4270,7 +4275,7 @@
       "Name": "Agent 47",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "Auditor",
@@ -4302,7 +4307,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "Commandos",
@@ -4350,7 +4355,7 @@
       "Name": "E1M1",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "Everyone_is_here",
@@ -4358,7 +4363,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "Experienced_strategist",
@@ -4398,7 +4403,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "High_noon",
@@ -4406,7 +4411,7 @@
       "Name": "Payback Time",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "How",
@@ -4509,15 +4514,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1821,
+      "Progressed": 1822,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-12-03T18:08:36.4718429+00:00",
+  "LastChanged_Achievements": "2023-12-03T19:08:53.728021+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:23.2476007+00:00",
-  "LastUpdate_Ratings": "2023-12-03T17:59:48.3439519+00:00",
-  "LastUpdate_Achievements": "2023-12-03T18:08:36.4718836+00:00"
+  "LastUpdate_Ratings": "2023-12-03T18:59:59.9097442+00:00",
+  "LastUpdate_Achievements": "2023-12-03T19:08:53.7280504+00:00"
 }

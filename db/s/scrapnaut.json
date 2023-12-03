@@ -2,13 +2,13 @@
   "ID": "c1edd23d035a4df0bbc419f2d0fbb40d",
   "Name": "Scrapnaut",
   "ProductSlug": "scrapnaut",
-  "Ranking_Rating": 858,
+  "Ranking_Rating": 857,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1886,8 +1886,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-11-17T17:00:24.0955126+00:00",
-  "LastChanged_Achievements": "2023-12-03T18:08:24.6030113+00:00",
+  "LastChanged_Achievements": "2023-12-03T19:08:41.9481983+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:57.1838483+00:00",
-  "LastUpdate_Ratings": "2023-12-03T17:57:14.3037471+00:00",
-  "LastUpdate_Achievements": "2023-12-03T18:08:24.6030427+00:00"
+  "LastUpdate_Ratings": "2023-12-03T18:57:27.3482048+00:00",
+  "LastUpdate_Achievements": "2023-12-03T19:08:41.9482233+00:00"
 }

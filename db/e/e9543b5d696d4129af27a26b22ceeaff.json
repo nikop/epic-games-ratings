@@ -4,8 +4,8 @@
   "ProductSlug": "international-basketball-manager-23-561576",
   "Ranking_EOS_Progress": 618,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 368,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
     "PcReleaseDate": "2022-12-01T04:00:00+00:00",
@@ -220,9 +220,9 @@
       "ID": "ACH_LOSER_STREAK",
       "SetID": "1lnhagg",
       "Name": "Let the Streak End!",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_LOST_BY_40",
@@ -347,8 +347,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2023-12-03T17:07:52.985528+00:00",
+  "LastChanged_Achievements": "2023-12-03T19:03:22.2780887+00:00",
   "LastUpdate_AppInfo": "2023-12-01T01:54:00.4172287+00:00",
-  "LastUpdate_Ratings": "2023-12-03T18:00:06.6461654+00:00",
-  "LastUpdate_Achievements": "2023-12-03T17:07:52.9855456+00:00"
+  "LastUpdate_Ratings": "2023-12-03T19:00:18.3490244+00:00",
+  "LastUpdate_Achievements": "2023-12-03T19:03:22.2781111+00:00"
 }

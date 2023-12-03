@@ -2,10 +2,10 @@
   "ID": "6406959f53304f2f81a58dde8a6538ee",
   "Name": "Paramnesia",
   "ProductSlug": "paramnesia-a49100",
-  "Ranking_EOS_Progress": 774,
+  "Ranking_EOS_Progress": 775,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 488,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-11-09T05:00:00+00:00",
     "PcReleaseDate": "2022-09-23T16:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-02T22:58:33.9510144+00:00",
-  "LastUpdate_Ratings": "2023-12-03T18:00:03.0147997+00:00",
-  "LastUpdate_Achievements": "2023-12-03T18:03:12.6596219+00:00"
+  "LastUpdate_Ratings": "2023-12-03T19:00:14.7528712+00:00",
+  "LastUpdate_Achievements": "2023-12-03T19:03:33.7766228+00:00"
 }

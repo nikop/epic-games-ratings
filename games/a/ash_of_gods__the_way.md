@@ -11,7 +11,7 @@
 | Under cover | 36.00% | ~13 |
 | All for one! | 31.00% | ~11 |
 | Royal blessing | 31.00% | ~11 |
-| A hidden snake | 28.00% | ~10 |
+| A hidden snake | 31.00% | ~11 |
 | Blood and sand | 28.00% | ~10 |
 | Surpass the teacher | 22.00% | ~8 |
 | Vene, vidi, vici | 22.00% | ~8 |
@@ -19,8 +19,8 @@
 | Crimson rivers | 17.00% | ~6 |
 | Berkanan Borgia | 17.00% | ~6 |
 | Power of Inquisition | 17.00% | ~6 |
+| The champion of the arena | 17.00% | ~6 |
 | Help of the Gell | 17.00% | ~6 |
-| The champion of the arena | 14.00% | ~5 |
 | Trial by cold | 14.00% | ~5 |
 | For the greater good | 11.00% | ~4 |
 | Overplay the rogue | 11.00% | ~4 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -61,7 +61,7 @@
   "Tags": [],
   "EOS_Progressed": 1146,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3435,9 +3435,9 @@
       "ID": "GSS_ACH_74_SANDSTORM",
       "SetID": "5fn8ia4",
       "Name": "Sandstorm!",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 584
+      "UsersEstimate": 596
     },
     {
       "ID": "GSS_ACH_75_RACE_02_COMPLETE",
@@ -3475,9 +3475,9 @@
       "ID": "GSS_ACH_79_JACK_OF_ALL_TRADES",
       "SetID": "5fn8ia4",
       "Name": "Jack of all Trades",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "GSS_ACH_86_RC_01_FAST",
@@ -3516,8 +3516,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-28T04:59:34.1023632+00:00",
-  "LastChanged_Achievements": "2023-12-03T18:05:58.7139144+00:00",
+  "LastChanged_Achievements": "2023-12-03T19:06:17.8689864+00:00",
   "LastUpdate_AppInfo": "2023-11-27T17:57:10.8459621+00:00",
-  "LastUpdate_Ratings": "2023-12-03T17:58:44.0226299+00:00",
-  "LastUpdate_Achievements": "2023-12-03T18:05:58.7140156+00:00"
+  "LastUpdate_Ratings": "2023-12-03T18:58:55.6378094+00:00",
+  "LastUpdate_Achievements": "2023-12-03T19:06:17.8690753+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -9420,9 +9420,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 67017,
+  "EOS_Progressed": 67021,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 749,
+  "EOS_NewPlayers": 742,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33415,6 +33415,11 @@
       "Time": "2023-12-03T18:09:29.9257464+00:00",
       "NumProgressed": 67017,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-03T19:09:47.1564741+00:00",
+      "NumProgressed": 67021,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -33426,7 +33431,7 @@
       "Name": "Against all odds",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8712
+      "UsersEstimate": 8713
     },
     {
       "ID": "Apple of my eye",
@@ -33442,7 +33447,7 @@
       "Name": "Bannerlord",
       "Percentage": 24,
       "XP": 65,
-      "UsersEstimate": 16084
+      "UsersEstimate": 16085
     },
     {
       "ID": "Best served cold",
@@ -33554,7 +33559,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8712
+      "UsersEstimate": 8713
     },
     {
       "ID": "Great Granny",
@@ -33586,7 +33591,7 @@
       "Name": "Horde breaker",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 16084
+      "UsersEstimate": 16085
     },
     {
       "ID": "I can do it",
@@ -33618,7 +33623,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 12063
+      "UsersEstimate": 12064
     },
     {
       "ID": "Kingslayer",
@@ -33650,7 +33655,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 22116
+      "UsersEstimate": 22117
     },
     {
       "ID": "Lawbringer",
@@ -33658,7 +33663,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26807
+      "UsersEstimate": 26808
     },
     {
       "ID": "Lawmaker",
@@ -33666,7 +33671,7 @@
       "Name": "Lawmaker",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 16084
+      "UsersEstimate": 16085
     },
     {
       "ID": "Long live the Empire",
@@ -33682,7 +33687,7 @@
       "Name": "Mastery",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 5361
+      "UsersEstimate": 5362
     },
     {
       "ID": "Minor Clan",
@@ -33778,7 +33783,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12733
+      "UsersEstimate": 12734
     },
     {
       "ID": "This Is Our Land",
@@ -33786,7 +33791,7 @@
       "Name": "This Is Our Land",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 9382
+      "UsersEstimate": 9383
     },
     {
       "ID": "This is Sparta",
@@ -33802,7 +33807,7 @@
       "Name": "Trained",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 16084
+      "UsersEstimate": 16085
     },
     {
       "ID": "Undercover",
@@ -33833,15 +33838,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 67017,
+      "Progressed": 67021,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-12-03T15:58:31.3011923+00:00",
-  "LastChanged_Achievements": "2023-12-03T18:09:29.925746+00:00",
+  "LastChanged_Achievements": "2023-12-03T19:09:47.1564738+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:33.4590063+00:00",
-  "LastUpdate_Ratings": "2023-12-03T17:58:24.8931001+00:00",
-  "LastUpdate_Achievements": "2023-12-03T18:09:29.9259324+00:00"
+  "LastUpdate_Ratings": "2023-12-03T18:58:36.9445985+00:00",
+  "LastUpdate_Achievements": "2023-12-03T19:09:47.1565938+00:00"
 }

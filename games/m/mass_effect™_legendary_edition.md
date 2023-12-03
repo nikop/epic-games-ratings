@@ -42,10 +42,10 @@
 | Colony Defense | 35.00% | ~524 |
 | The Krogan | 35.00% | ~524 |
 | Broke, Blind, and Bedlam | 34.00% | ~509 |
+| Ghost Ship | 33.00% | ~494 |
 | Galactic Explorer | 33.00% | ~494 |
 | Shopaholic | 33.00% | ~494 |
 | A Personal Touch | 32.00% | ~479 |
-| Ghost Ship | 32.00% | ~479 |
 | The Assassin | 32.00% | ~479 |
 | The Justicar | 32.00% | ~479 |
 | The Quarian | 32.00% | ~479 |
@@ -65,15 +65,15 @@
 | Treason | 30.00% | ~449 |
 | Digital Exorcist | 30.00% | ~449 |
 | Archivist | 29.00% | ~434 |
+| Mission Accomplished | 29.00% | ~434 |
 | Suicide Mission | 29.00% | ~434 |
+| Against All Odds | 29.00% | ~434 |
 | Friend or Foe | 29.00% | ~434 |
 | Cat's in the Cradle | 29.00% | ~434 |
 | Doppelganger | 29.00% | ~434 |
 | Agent | 29.00% | ~434 |
 | Mobilizer | 29.00% | ~434 |
 | Untouchable | 28.00% | ~419 |
-| Mission Accomplished | 28.00% | ~419 |
-| Against All Odds | 28.00% | ~419 |
 | A House Divided | 28.00% | ~419 |
 | Eye of the Hurricane | 27.00% | ~404 |
 | Giant Killer | 27.00% | ~404 |

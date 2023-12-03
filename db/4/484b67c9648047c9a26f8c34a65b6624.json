@@ -2,10 +2,10 @@
   "ID": "484b67c9648047c9a26f8c34a65b6624",
   "Name": "Arena Tails",
   "ProductSlug": "project-qrs-a41a77",
-  "Ranking_EOS_Progress": 774,
+  "Ranking_EOS_Progress": 775,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 488,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-30T23:57:07.2601104+00:00",
-  "LastUpdate_Ratings": "2023-12-03T17:58:24.7604563+00:00",
-  "LastUpdate_Achievements": "2023-12-03T18:08:26.9328248+00:00"
+  "LastUpdate_Ratings": "2023-12-03T18:58:36.8259665+00:00",
+  "LastUpdate_Achievements": "2023-12-03T19:08:44.1273733+00:00"
 }

@@ -23,6 +23,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Marshlands | 0.20% | ~35 |
 | The Scarlet Orchard | 0.20% | ~35 |
 | Taking Action | 0.20% | ~35 |
+| Trade Baron | 0.20% | ~35 |
 | No Deaths | 0.20% | ~35 |
 | Fox Utopia | 0.20% | ~35 |
 | Serving Ale | 0.10% | ~18 |
@@ -60,7 +61,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Victory Through Prosperity | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
 | Like a Machine | 0.10% | ~18 |
-| Trade Baron | 0.10% | ~18 |
 | Defying the Crown | 0.10% | ~18 |
 | Into the Forest | 0.10% | ~18 |
 | Paradise | 0.00% | ~0 |

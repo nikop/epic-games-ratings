@@ -6,22 +6,22 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~51,031 |
-| Worth it | 63.00% | ~41,217 |
-| Eagle Eye | 55.00% | ~35,983 |
-| Corpseman I | 40.00% | ~26,170 |
-| Blast fishing | 37.00% | ~24,207 |
-| Not alone | 32.00% | ~20,936 |
-| Headhunter I | 26.00% | ~17,010 |
-| Manual Labour I | 25.00% | ~16,356 |
-| Developers, Developers, Developers | 24.00% | ~15,702 |
-| Basic Training | 24.00% | ~15,702 |
-| Furchtlos und Treu | 13.00% | ~8,505 |
+| Setting an example | 78.00% | ~51,035 |
+| Worth it | 63.00% | ~41,220 |
+| Eagle Eye | 55.00% | ~35,986 |
+| Corpseman I | 40.00% | ~26,172 |
+| Blast fishing | 37.00% | ~24,209 |
+| Not alone | 32.00% | ~20,937 |
+| Headhunter I | 26.00% | ~17,012 |
+| Manual Labour I | 25.00% | ~16,357 |
+| Developers, Developers, Developers | 24.00% | ~15,703 |
+| Basic Training | 24.00% | ~15,703 |
+| Furchtlos und Treu | 13.00% | ~8,506 |
 | Gott Mit Uns | 12.00% | ~7,851 |
-| This We'll Defend! | 9.00% | ~5,888 |
-| Anker wirf! | 9.00% | ~5,888 |
-| Providentiea Memor | 9.00% | ~5,888 |
-| For King and Country | 9.00% | ~5,888 |
+| This We'll Defend! | 9.00% | ~5,889 |
+| Anker wirf! | 9.00% | ~5,889 |
+| Providentiea Memor | 9.00% | ~5,889 |
+| For King and Country | 9.00% | ~5,889 |
 | Battle hardened | 8.00% | ~5,234 |
 | Semper Fidelis! | 7.00% | ~4,580 |
 | Honneur et Patrie | 7.00% | ~4,580 |
@@ -41,8 +41,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | In My Defens God Me Defend | 3.00% | ~1,963 |
 | Silver x100 | 3.00% | ~1,963 |
 | Impavidum Ferient Bella! | 3.00% | ~1,963 |
-| Bronze x100 | 2.00% | ~1,308 |
-| Shoot, Cover, Reload, Repeat | 2.00% | ~1,308 |
+| Bronze x100 | 2.00% | ~1,309 |
+| Shoot, Cover, Reload, Repeat | 2.00% | ~1,309 |
 | Gold x100 | 1.00% | ~654 |
 | Hunting the Hun | 1.00% | ~654 |
 | #1 | 1.00% | ~654 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~65 |
 | Blood Brother | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,424 (Ranked 105)  
+Progressed: 65,429 (Ranked 105)  
 Completed: 4 (0.01%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 4 (0.01%) (Ranked 344)
 | 2023-11-30 | 65,106 | 4 |
 | 2023-12-01 | 65,197 | 4 |
 | 2023-12-02 | 65,305 | 4 |
-| 2023-12-03 | 65,424 | 4 |
+| 2023-12-03 | 65,429 | 4 |
 ## Awards
 Max (Highly Recommended): 104  (Ranked 358)  
 Sum: 814 (Ranked 281)  

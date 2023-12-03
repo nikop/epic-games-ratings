@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7363,
+  "EOS_Progressed": 7365,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 660,
+  "EOS_NewPlayers": 657,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5408,6 +5408,11 @@
       "Time": "2023-12-03T18:09:18.3804723+00:00",
       "NumProgressed": 7363,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-03T19:09:35.7913673+00:00",
+      "NumProgressed": 7365,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5418,9 +5423,9 @@
       "ID": "AllJackedUp",
       "SetID": "acc6ea0",
       "Name": "All Jacked Up",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 59
     },
     {
       "ID": "BabySteps",
@@ -5450,9 +5455,9 @@
       "ID": "ChewingTheScenery",
       "SetID": "acc6ea0",
       "Name": "Chewing The Scenery",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 59
     },
     {
       "ID": "ConnectionLost",
@@ -5492,7 +5497,7 @@
       "Name": "First Time?",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2135
+      "UsersEstimate": 2136
     },
     {
       "ID": "FuneralForTheDeath",
@@ -5572,7 +5577,7 @@
       "Name": "No More Totems",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "NotLikeTheOthers",
@@ -5620,7 +5625,7 @@
       "Name": "The Quarterback",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1693
+      "UsersEstimate": 1694
     },
     {
       "ID": "ThisIsDharma",
@@ -5644,7 +5649,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 7,
       "XP": 45,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -5691,7 +5696,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7363,
+      "Progressed": 7365,
       "Completed": 13
     }
   ],
@@ -5699,8 +5704,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-03T17:57:51.312762+00:00",
-  "LastChanged_Achievements": "2023-12-03T18:09:18.380472+00:00",
+  "LastChanged_Achievements": "2023-12-03T19:09:35.7913671+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-03T17:57:51.3127625+00:00",
-  "LastUpdate_Achievements": "2023-12-03T18:09:18.3805235+00:00"
+  "LastUpdate_Ratings": "2023-12-03T18:58:03.1691351+00:00",
+  "LastUpdate_Achievements": "2023-12-03T19:09:35.7914117+00:00"
 }

@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| EOS Login | 0.00% | ~0 |
+| EOS Login | 100.00% | ~1 |
+| EOS Latest Updates | 100.00% | ~1 |
 | How Far ? | 0.00% | ~0 |
 | How Far 2 ? | 0.00% | ~0 |
 | How Far 3 ? | 0.00% | ~0 |
-| EOS Latest Updates | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1 (Ranked 708)  
 Completed: 0 (0.00%) (Ranked 365)  

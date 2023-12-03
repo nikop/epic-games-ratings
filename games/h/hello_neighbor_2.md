@@ -6,8 +6,8 @@ Rating: 4.44 (Ranked 680)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome to Raven Brooks | 78.00% | ~2,576 |
+| Shovel Night | 38.00% | ~1,255 |
 | Case Closed | 37.00% | ~1,222 |
-| Shovel Night | 37.00% | ~1,222 |
 | Easy As Pie | 35.00% | ~1,156 |
 | Family Lost | 34.00% | ~1,123 |
 | Treasure Hunt | 31.00% | ~1,024 |

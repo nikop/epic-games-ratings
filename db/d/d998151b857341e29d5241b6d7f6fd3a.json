@@ -2,10 +2,10 @@
   "ID": "d998151b857341e29d5241b6d7f6fd3a",
   "Name": "Get Slapped!",
   "ProductSlug": "get-slapped-d1aea8",
-  "Ranking_EOS_Progress": 774,
+  "Ranking_EOS_Progress": 775,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 488,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2024-02-29T00:00:00+00:00",
     "PcReleaseDate": "2024-02-29T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-01T18:57:10.1034207+00:00",
-  "LastUpdate_Ratings": "2023-12-03T17:58:03.2838044+00:00",
-  "LastUpdate_Achievements": "2023-12-03T18:03:49.632+00:00"
+  "LastUpdate_Ratings": "2023-12-03T18:58:14.8462701+00:00",
+  "LastUpdate_Achievements": "2023-12-03T19:04:10.7060818+00:00"
 }
