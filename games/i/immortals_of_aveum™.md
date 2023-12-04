@@ -11,7 +11,7 @@ Rating: 4.07 (Ranked 981)
 | Maybe Engage a Little | 81.00% | ~262 |
 | No More Names | 70.00% | ~226 |
 | Initiate | 57.00% | ~184 |
-| Thrada-Kul | 52.00% | ~168 |
+| Thrada-Kul | 53.00% | ~171 |
 | Gravity-Challenged Rocks | 44.00% | ~142 |
 | Soldier | 38.00% | ~123 |
 | All the Major Food Groups | 38.00% | ~123 |
@@ -24,7 +24,7 @@ Rating: 4.07 (Ranked 981)
 | Periapt Alizarin | 22.00% | ~71 |
 | Geas Aristeya | 21.00% | ~68 |
 | A Perfect Cycle | 19.00% | ~61 |
-| Recruit | 18.00% | ~58 |
+| Recruit | 19.00% | ~61 |
 | Armsman | 17.00% | ~55 |
 | Lights Army | 13.00% | ~42 |
 | Periapt Cerulean | 12.00% | ~39 |

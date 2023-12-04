@@ -2,7 +2,7 @@
   "ID": "3ffb410dab2d409aacd39a1abc6fcbba",
   "Name": "Prison Architect",
   "ProductSlug": "prison-architect",
-  "Ranking_Rating": 386,
+  "Ranking_Rating": 387,
   "Ranking_Popularity": 200,
   "Ranking_PopularitySum": 146,
   "Ranking_EOS_Progress": 75,
@@ -7251,7 +7251,7 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 200291,
+  "EOS_Progressed": 200298,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 2205,
   "EOS_NewCompleters": 0,
@@ -33251,6 +33251,11 @@
       "Time": "2023-12-04T05:09:38.6184025+00:00",
       "NumProgressed": 200291,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-04T06:09:32.3351807+00:00",
+      "NumProgressed": 200298,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 16,
@@ -33294,7 +33299,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 32047
+      "UsersEstimate": 32048
     },
     {
       "ID": "Achievement_13",
@@ -33342,7 +33347,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 50073
+      "UsersEstimate": 50074
     },
     {
       "ID": "Achievement_5",
@@ -33374,7 +33379,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 18026
+      "UsersEstimate": 18027
     },
     {
       "ID": "Achievement_9",
@@ -33389,15 +33394,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 200291,
+      "Progressed": 200298,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-12-03T23:00:03.0451509+00:00",
-  "LastChanged_Achievements": "2023-12-04T05:09:38.618402+00:00",
+  "LastChanged_Achievements": "2023-12-04T06:09:32.3351802+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:27.1980843+00:00",
-  "LastUpdate_Ratings": "2023-12-04T05:01:06.952403+00:00",
-  "LastUpdate_Achievements": "2023-12-04T05:09:38.6185121+00:00"
+  "LastUpdate_Ratings": "2023-12-04T06:01:15.2666507+00:00",
+  "LastUpdate_Achievements": "2023-12-04T06:09:32.3353477+00:00"
 }

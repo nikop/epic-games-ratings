@@ -13316,9 +13316,9 @@
       "Count": 27543
     }
   ],
-  "EOS_Progressed": 1068102,
+  "EOS_Progressed": 1068186,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 20583,
+  "EOS_NewPlayers": 20626,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39481,6 +39481,11 @@
       "Time": "2023-12-04T05:10:19.0944498+00:00",
       "NumProgressed": 1068102,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-04T06:10:14.8629344+00:00",
+      "NumProgressed": 1068186,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 232,
@@ -39516,7 +39521,7 @@
       "Name": "Blood on your hands",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "ACH_005",
@@ -39564,7 +39569,7 @@
       "Name": "Escape Artist",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "ACH_011",
@@ -39580,7 +39585,7 @@
       "Name": "Agonizing Escape",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 4272
+      "UsersEstimate": 4273
     },
     {
       "ID": "ACH_013",
@@ -39604,7 +39609,7 @@
       "Name": "I\u0027ve got your back",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 4272
+      "UsersEstimate": 4273
     },
     {
       "ID": "ACH_016",
@@ -39652,7 +39657,7 @@
       "Name": "Perfect Killing",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 4272
+      "UsersEstimate": 4273
     },
     {
       "ID": "ACH_022",
@@ -39660,7 +39665,7 @@
       "Name": "Zealous",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 9613
+      "UsersEstimate": 9614
     },
     {
       "ID": "ACH_023",
@@ -39668,7 +39673,7 @@
       "Name": "It wakes",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10681
+      "UsersEstimate": 10682
     },
     {
       "ID": "ACH_024",
@@ -39676,7 +39681,7 @@
       "Name": "Not half bad",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 9613
+      "UsersEstimate": 9614
     },
     {
       "ID": "ACH_025",
@@ -39692,7 +39697,7 @@
       "Name": "Gifts for the Fog",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "ACH_027",
@@ -39708,7 +39713,7 @@
       "Name": "Apt Killer",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 4272
+      "UsersEstimate": 4273
     },
     {
       "ID": "ACH_029",
@@ -39716,7 +39721,7 @@
       "Name": "Risk it all",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 4272
+      "UsersEstimate": 4273
     },
     {
       "ID": "ACH_030",
@@ -39732,7 +39737,7 @@
       "Name": "Vulture",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "ACH_032",
@@ -39796,7 +39801,7 @@
       "Name": "Skillful",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10681
+      "UsersEstimate": 10682
     },
     {
       "ID": "ACH_040",
@@ -39820,7 +39825,7 @@
       "Name": "III",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 4272
+      "UsersEstimate": 4273
     },
     {
       "ID": "ACH_043",
@@ -39828,7 +39833,7 @@
       "Name": "III-50",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "ACH_044",
@@ -39956,7 +39961,7 @@
       "Name": "Engineer",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4272
+      "UsersEstimate": 4273
     },
     {
       "ID": "ACH_060",
@@ -40388,7 +40393,7 @@
       "Name": "Wounded Healer",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 4272
+      "UsersEstimate": 4273
     },
     {
       "ID": "ACH_114",
@@ -40492,7 +40497,7 @@
       "Name": "First to the Punch",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "ACH_130",
@@ -40508,7 +40513,7 @@
       "Name": "Operation: Survival",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "ACH_132",
@@ -40604,7 +40609,7 @@
       "Name": "Old West Oasis",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "ACH_144",
@@ -40700,7 +40705,7 @@
       "Name": "Every Last Drop",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "ACH_156",
@@ -40844,7 +40849,7 @@
       "Name": "Raccoon City Recruit",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "ACH_174",
@@ -40940,7 +40945,7 @@
       "Name": "With Scars to Show",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "ACH_186",
@@ -40948,7 +40953,7 @@
       "Name": "Flight to Freedom",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "ACH_187",
@@ -41140,7 +41145,7 @@
       "Name": "Lifting The Fog",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "ACH_211",
@@ -41252,7 +41257,7 @@
       "Name": "Second Act",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "ACH_225",
@@ -41347,21 +41352,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1068102,
+      "Progressed": 1068186,
       "Completed": 67
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1068102,
+      "Progressed": 1068186,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-12-04T01:46:12.8012808+00:00",
-  "LastChanged_Achievements": "2023-12-04T05:10:19.0944494+00:00",
+  "LastChanged_Achievements": "2023-12-04T06:10:14.8629338+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:13.1126718+00:00",
-  "LastUpdate_Ratings": "2023-12-04T04:58:20.0063327+00:00",
-  "LastUpdate_Achievements": "2023-12-04T05:10:19.0949583+00:00"
+  "LastUpdate_Ratings": "2023-12-04T05:58:20.499575+00:00",
+  "LastUpdate_Achievements": "2023-12-04T06:10:14.8635695+00:00"
 }

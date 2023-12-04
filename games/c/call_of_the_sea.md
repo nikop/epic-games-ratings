@@ -5,23 +5,23 @@ Rating: 4.40 (Ranked 740)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~106,198 |
-| 74 miles East of Otaheité | 56.00% | ~74,338 |
-| Interesting... | 42.00% | ~55,754 |
-| The Everhart Expedition | 40.00% | ~53,099 |
-| Halfway there | 30.00% | ~39,824 |
-| The Vanishing of the Lady Shannon | 30.00% | ~39,824 |
-| Seaside Serenade | 30.00% | ~39,824 |
-| A brigantine, a brig and a barque | 28.00% | ~37,169 |
-| 506 East Hampden Avenue | 28.00% | ~37,169 |
+| A Family Heirloom | 80.00% | ~106,199 |
+| 74 miles East of Otaheité | 56.00% | ~74,339 |
+| Interesting... | 42.00% | ~55,755 |
+| The Everhart Expedition | 40.00% | ~53,100 |
+| Halfway there | 30.00% | ~39,825 |
+| The Vanishing of the Lady Shannon | 30.00% | ~39,825 |
+| Seaside Serenade | 30.00% | ~39,825 |
+| A brigantine, a brig and a barque | 28.00% | ~37,170 |
+| 506 East Hampden Avenue | 28.00% | ~37,170 |
 | Weekend at Walakea's | 27.00% | ~35,842 |
 | Quite a Show | 27.00% | ~35,842 |
 | Dark Water Ride | 25.00% | ~33,187 |
 | Sunken | 25.00% | ~33,187 |
-| Deep Cut | 24.00% | ~31,859 |
+| Deep Cut | 24.00% | ~31,860 |
 | FHALGOF'N' | 23.00% | ~30,532 |
 | Marsh Cannery | 21.00% | ~27,877 |
-| Greetings from Y'ha-nthlei! | 18.00% | ~23,894 |
+| Greetings from Y'ha-nthlei! | 18.00% | ~23,895 |
 | The only thing I have now | 17.00% | ~22,567 |
 | Naacalvision | 16.00% | ~21,240 |
 | Not Another Boring Slideshow! | 15.00% | ~19,912 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 740)
 | Gently down the stream... | 1.00% | ~1,327 |
 | Meta-reference | 1.00% | ~1,327 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,747 (Ranked 82)  
+Progressed: 132,749 (Ranked 82)  
 Completed: 1,171 (0.88%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 1,171 (0.88%) (Ranked 175)
 | 2023-12-01 | 132,329 | 1,161 |
 | 2023-12-02 | 132,501 | 1,164 |
 | 2023-12-03 | 132,723 | 1,170 |
-| 2023-12-04 | 132,747 | 1,171 |
+| 2023-12-04 | 132,749 | 1,171 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

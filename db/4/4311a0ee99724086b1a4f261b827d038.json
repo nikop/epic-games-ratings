@@ -4,7 +4,7 @@
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 509,
   "Ranking_Popularity": 493,
-  "Ranking_PopularitySum": 412,
+  "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 366,
   "Ranking_EOS_NewPlayers": 57,
@@ -591,10 +591,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 182,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2023-12-04T06:01:30.5373841+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 183,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 182,
+  "NumberOfAwards": 183,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -608,7 +614,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Challenging Combat",
@@ -653,9 +659,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 235930,
+  "EOS_Progressed": 235931,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1414,
+  "EOS_NewPlayers": 1412,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16073,6 +16079,11 @@
       "Time": "2023-12-04T05:10:08.3458847+00:00",
       "NumProgressed": 235930,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-04T06:10:03.5329367+00:00",
+      "NumProgressed": 235931,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -16141,7 +16152,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 49545
+      "UsersEstimate": 49546
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -16157,7 +16168,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 11796
+      "UsersEstimate": 11797
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -16341,7 +16352,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 58982
+      "UsersEstimate": 58983
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -16356,16 +16367,16 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 235930,
+      "Progressed": 235931,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2023-12-02T01:41:37.1242422+00:00",
-  "LastChanged_Achievements": "2023-12-04T05:10:08.3458843+00:00",
+  "LastChanged": "2023-12-04T06:01:30.5373839+00:00",
+  "LastChanged_Achievements": "2023-12-04T06:10:03.5329361+00:00",
   "LastUpdate_AppInfo": "2023-12-01T02:57:03.9317243+00:00",
-  "LastUpdate_Ratings": "2023-12-04T05:01:21.3748237+00:00",
-  "LastUpdate_Achievements": "2023-12-04T05:10:08.3459706+00:00"
+  "LastUpdate_Ratings": "2023-12-04T06:01:30.5373846+00:00",
+  "LastUpdate_Achievements": "2023-12-04T06:10:03.5330791+00:00"
 }

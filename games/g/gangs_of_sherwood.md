@@ -36,9 +36,9 @@
 | The Gang prevails | 7.00% | ~4 |
 | Out of the ring | 7.00% | ~4 |
 | King of the Iron Fist | 4.00% | ~2 |
+| No Mercy | 4.00% | ~2 |
 | Power of Friendship! | 4.00% | ~2 |
 | Five of Friends | 4.00% | ~2 |
-| No Mercy | 2.00% | ~1 |
 | Sherwood Moment 37 | 2.00% | ~1 |
 | The Crowkiller | 2.00% | ~1 |
 | A Gest of Robyn Hode | 2.00% | ~1 |

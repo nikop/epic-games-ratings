@@ -3,11 +3,11 @@
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
   "Ranking_Rating": 908,
-  "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 557,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -541,9 +541,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8704,
+  "EOS_Progressed": 8705,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -11621,6 +11621,11 @@
       "Time": "2023-12-03T19:03:41.6066914+00:00",
       "NumProgressed": 8704,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-04T06:04:09.1349704+00:00",
+      "NumProgressed": 8705,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 29,
@@ -11632,7 +11637,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 7224
+      "UsersEstimate": 7225
     },
     {
       "ID": "ACH02",
@@ -11640,7 +11645,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2959
+      "UsersEstimate": 2960
     },
     {
       "ID": "ACH03",
@@ -11863,7 +11868,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8704,
+      "Progressed": 8705,
       "Completed": 60
     }
   ],
@@ -11871,8 +11876,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-11-24T13:06:28.1547378+00:00",
-  "LastChanged_Achievements": "2023-12-04T05:04:12.5760489+00:00",
+  "LastChanged_Achievements": "2023-12-04T06:04:09.1349698+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:15.6257409+00:00",
-  "LastUpdate_Ratings": "2023-12-04T04:58:46.1547825+00:00",
-  "LastUpdate_Achievements": "2023-12-04T05:04:12.5761115+00:00"
+  "LastUpdate_Ratings": "2023-12-04T05:58:47.5406018+00:00",
+  "LastUpdate_Achievements": "2023-12-04T06:04:09.1350365+00:00"
 }

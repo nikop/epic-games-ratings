@@ -12843,9 +12843,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 468902,
+  "EOS_Progressed": 468910,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4339,
+  "EOS_NewPlayers": 4340,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38978,6 +38978,11 @@
       "Time": "2023-12-04T05:07:28.6250564+00:00",
       "NumProgressed": 468902,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-04T06:07:37.0804622+00:00",
+      "NumProgressed": 468910,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -39395,9 +39400,9 @@
       "ID": "achievement_breaking_the_yoke",
       "SetID": "8p2n7he",
       "Name": "Breaking the Yoke",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 469
     },
     {
       "ID": "achievement_brentry",
@@ -41892,21 +41897,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 468902,
+      "Progressed": 468910,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 468902,
+      "Progressed": 468910,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-12-03T20:00:40.9595739+00:00",
-  "LastChanged_Achievements": "2023-12-04T05:07:28.6250559+00:00",
+  "LastChanged_Achievements": "2023-12-04T06:07:37.0804618+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:21.5867549+00:00",
-  "LastUpdate_Ratings": "2023-12-04T05:00:53.8610966+00:00",
-  "LastUpdate_Achievements": "2023-12-04T05:07:28.6260537+00:00"
+  "LastUpdate_Ratings": "2023-12-04T06:01:01.1888068+00:00",
+  "LastUpdate_Achievements": "2023-12-04T06:07:37.0815454+00:00"
 }

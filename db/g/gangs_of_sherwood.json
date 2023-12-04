@@ -300,9 +300,9 @@
       "ID": "ACH_25_FINISHER",
       "SetID": "5akmpni",
       "Name": "No Mercy",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_AIR_COMBO",
@@ -691,8 +691,8 @@
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-12-04T05:06:27.6122682+00:00",
+  "LastChanged_Achievements": "2023-12-04T06:06:32.242123+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:51.6227723+00:00",
-  "LastUpdate_Ratings": "2023-12-04T04:57:20.8421111+00:00",
-  "LastUpdate_Achievements": "2023-12-04T05:06:27.6123063+00:00"
+  "LastUpdate_Ratings": "2023-12-04T05:57:18.7238026+00:00",
+  "LastUpdate_Achievements": "2023-12-04T06:06:32.2421753+00:00"
 }

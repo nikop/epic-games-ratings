@@ -181,9 +181,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 866,
+  "EOS_Progressed": 867,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2021,6 +2021,11 @@
       "Time": "2023-12-04T05:05:43.9306815+00:00",
       "NumProgressed": 866,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-04T06:05:46.1614921+00:00",
+      "NumProgressed": 867,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2423,9 +2428,9 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 87
     },
     {
       "ID": "TheThiefOfFire",
@@ -2479,9 +2484,9 @@
       "ID": "WesternDelta",
       "SetID": "1n308hc",
       "Name": "Western Delta",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 26
     },
     {
       "ID": "WoodedPlateau",
@@ -2504,7 +2509,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 866,
+      "Progressed": 867,
       "Completed": 1
     }
   ],
@@ -2512,8 +2517,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-03T13:00:54.7758323+00:00",
-  "LastChanged_Achievements": "2023-12-04T05:05:43.9306811+00:00",
+  "LastChanged_Achievements": "2023-12-04T06:05:46.1614915+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-04T04:58:19.109936+00:00",
-  "LastUpdate_Achievements": "2023-12-04T05:05:43.9307313+00:00"
+  "LastUpdate_Ratings": "2023-12-04T05:58:19.5551403+00:00",
+  "LastUpdate_Achievements": "2023-12-04T06:05:46.1615512+00:00"
 }

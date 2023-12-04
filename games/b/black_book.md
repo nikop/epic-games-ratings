@@ -1,20 +1,20 @@
 # Black Book
 [Store](https://store.epicgames.com/en-US/p/black-book)  
 [View Rawdata](../../db/b/black_book.json)  
-Rating: 4.65 (Ranked 314)  
+Rating: 4.65 (Ranked 315)  
 Number of Ratings: 96  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 28.00% | ~16,200 |
+| Initiation | 28.00% | ~16,201 |
 | Student | 22.00% | ~12,729 |
-| Knower | 16.00% | ~9,257 |
+| Knower | 16.00% | ~9,258 |
 | Listener | 15.00% | ~8,679 |
-| Aspen Tree | 14.00% | ~8,100 |
-| Healer | 14.00% | ~8,100 |
+| Aspen Tree | 14.00% | ~8,101 |
+| Healer | 14.00% | ~8,101 |
 | Soldier | 12.00% | ~6,943 |
-| Cow Level | 11.00% | ~6,364 |
-| Scientist | 11.00% | ~6,364 |
+| Cow Level | 11.00% | ~6,365 |
+| Scientist | 11.00% | ~6,365 |
 | Herbalist | 10.00% | ~5,786 |
 | Water | 10.00% | ~5,786 |
 | Old Friend | 9.00% | ~5,207 |
@@ -34,12 +34,12 @@ Number of Ratings: 96  (23.09.2022)
 | 100 Friends | 7.00% | ~4,050 |
 | Researcher | 7.00% | ~4,050 |
 | Savvy | 7.00% | ~4,050 |
-| Encyclopedist | 6.00% | ~3,471 |
-| Witch | 6.00% | ~3,471 |
-| Old Spirits | 6.00% | ~3,471 |
-| Sinner | 6.00% | ~3,471 |
-| Folklorist | 6.00% | ~3,471 |
-| Keeper of Knowledge | 6.00% | ~3,471 |
+| Encyclopedist | 6.00% | ~3,472 |
+| Witch | 6.00% | ~3,472 |
+| Old Spirits | 6.00% | ~3,472 |
+| Sinner | 6.00% | ~3,472 |
+| Folklorist | 6.00% | ~3,472 |
+| Keeper of Knowledge | 6.00% | ~3,472 |
 | Vorsa | 5.00% | ~2,893 |
 | Susanin | 5.00% | ~2,893 |
 | Traveller | 5.00% | ~2,893 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,157 |
 | Word Master | 0.20% | ~116 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,858 (Ranked 109)  
+Progressed: 57,861 (Ranked 109)  
 Completed: 57 (0.10%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 57 (0.10%) (Ranked 288)
 | 2023-12-01 | 57,255 | 57 |
 | 2023-12-02 | 57,519 | 57 |
 | 2023-12-03 | 57,828 | 57 |
-| 2023-12-04 | 57,858 | 57 |
+| 2023-12-04 | 57,861 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

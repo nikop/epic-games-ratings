@@ -11469,9 +11469,9 @@
       "Count": 832
     }
   ],
-  "EOS_Progressed": 303905,
+  "EOS_Progressed": 303906,
   "EOS_Completed": 521,
-  "EOS_NewPlayers": 555,
+  "EOS_NewPlayers": 553,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -35994,6 +35994,11 @@
       "Time": "2023-12-04T05:10:12.1990435+00:00",
       "NumProgressed": 303905,
       "NumCompleted": 521
+    },
+    {
+      "Time": "2023-12-04T06:10:07.738999+00:00",
+      "NumProgressed": 303906,
+      "NumCompleted": 521
     }
   ],
   "TotalAchievements": 45,
@@ -36077,7 +36082,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 27351
+      "UsersEstimate": 27352
     },
     {
       "ID": "PFA_19",
@@ -36229,7 +36234,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30390
+      "UsersEstimate": 30391
     },
     {
       "ID": "PFA_36",
@@ -36309,7 +36314,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27351
+      "UsersEstimate": 27352
     },
     {
       "ID": "PFA_45",
@@ -36357,14 +36362,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30390
+      "UsersEstimate": 30391
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303905,
+      "Progressed": 303906,
       "Completed": 521
     }
   ],
@@ -36372,8 +36377,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-04T04:59:52.4328104+00:00",
-  "LastChanged_Achievements": "2023-12-04T05:10:12.199043+00:00",
+  "LastChanged_Achievements": "2023-12-04T06:10:07.7389987+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-04T04:59:52.4328112+00:00",
-  "LastUpdate_Achievements": "2023-12-04T05:10:12.1991531+00:00"
+  "LastUpdate_Ratings": "2023-12-04T05:59:57.0839724+00:00",
+  "LastUpdate_Achievements": "2023-12-04T06:10:07.7391776+00:00"
 }

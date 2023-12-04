@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 32,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -7209,10 +7209,10 @@
       "Count": 510
     }
   ],
-  "EOS_Progressed": 729901,
+  "EOS_Progressed": 729910,
   "EOS_Completed": 2462,
-  "EOS_NewPlayers": 3713,
-  "EOS_NewCompleters": 20,
+  "EOS_NewPlayers": 3706,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -33299,6 +33299,11 @@
       "Time": "2023-12-04T05:08:52.350107+00:00",
       "NumProgressed": 729901,
       "NumCompleted": 2462
+    },
+    {
+      "Time": "2023-12-04T06:08:43.5499267+00:00",
+      "NumProgressed": 729910,
+      "NumCompleted": 2462
     }
   ],
   "TotalAchievements": 51,
@@ -33678,7 +33683,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "ach_gardening_tools",
@@ -33694,7 +33699,7 @@
       "Name": "Pork Chopped",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -33717,13 +33722,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 729901,
+      "Progressed": 729910,
       "Completed": 2462
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 55443,
+      "Progressed": 55452,
       "Completed": 36626
     }
   ],
@@ -33731,8 +33736,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-12-03T20:01:36.8173688+00:00",
-  "LastChanged_Achievements": "2023-12-04T05:08:52.3501065+00:00",
+  "LastChanged_Achievements": "2023-12-04T06:08:43.5499262+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:31.1640976+00:00",
-  "LastUpdate_Ratings": "2023-12-04T05:01:43.8133467+00:00",
-  "LastUpdate_Achievements": "2023-12-04T05:08:52.3502517+00:00"
+  "LastUpdate_Ratings": "2023-12-04T06:01:54.3078859+00:00",
+  "LastUpdate_Achievements": "2023-12-04T06:08:43.5501234+00:00"
 }

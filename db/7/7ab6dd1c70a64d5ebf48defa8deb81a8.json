@@ -1061,9 +1061,9 @@
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_11",
@@ -1245,9 +1245,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_35",
@@ -1284,8 +1284,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-04T05:10:11.3866138+00:00",
+  "LastChanged_Achievements": "2023-12-04T06:10:06.8550941+00:00",
   "LastUpdate_AppInfo": "2023-11-27T19:57:22.2061003+00:00",
-  "LastUpdate_Ratings": "2023-12-04T05:00:26.5926615+00:00",
-  "LastUpdate_Achievements": "2023-12-04T05:10:11.3866362+00:00"
+  "LastUpdate_Ratings": "2023-12-04T06:00:32.6119749+00:00",
+  "LastUpdate_Achievements": "2023-12-04T06:10:06.8551168+00:00"
 }

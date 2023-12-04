@@ -3,8 +3,8 @@
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
   "Ranking_Rating": 147,
-  "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 557,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 100,
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7393,
+  "EOS_Progressed": 7394,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 640,
+  "EOS_NewPlayers": 631,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5463,6 +5463,11 @@
       "Time": "2023-12-04T05:09:58.3650683+00:00",
       "NumProgressed": 7393,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-04T06:09:53.1442733+00:00",
+      "NumProgressed": 7394,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5483,7 +5488,7 @@
       "Name": "Baby Steps",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "BeLikeWater",
@@ -5555,7 +5560,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "GarbageMan",
@@ -5675,7 +5680,7 @@
       "Name": "The Quarterback",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1701
     },
     {
       "ID": "ThisIsDharma",
@@ -5746,7 +5751,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7393,
+      "Progressed": 7394,
       "Completed": 13
     }
   ],
@@ -5754,8 +5759,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-03T17:57:51.312762+00:00",
-  "LastChanged_Achievements": "2023-12-04T05:09:58.3650679+00:00",
+  "LastChanged_Achievements": "2023-12-04T06:09:53.1442726+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-04T04:58:42.0930369+00:00",
-  "LastUpdate_Achievements": "2023-12-04T05:09:58.3651121+00:00"
+  "LastUpdate_Ratings": "2023-12-04T05:58:43.3349198+00:00",
+  "LastUpdate_Achievements": "2023-12-04T06:09:53.1443394+00:00"
 }

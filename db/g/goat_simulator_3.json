@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -5551,10 +5551,10 @@
       "Count": 343
     }
   ],
-  "EOS_Progressed": 252987,
+  "EOS_Progressed": 252988,
   "EOS_Completed": 894,
-  "EOS_NewPlayers": 736,
-  "EOS_NewCompleters": 5,
+  "EOS_NewPlayers": 734,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
     {
@@ -30336,6 +30336,11 @@
       "Time": "2023-12-04T05:10:11.5537969+00:00",
       "NumProgressed": 252987,
       "NumCompleted": 894
+    },
+    {
+      "Time": "2023-12-04T06:10:06.9753097+00:00",
+      "NumProgressed": 252988,
+      "NumCompleted": 894
     }
   ],
   "TotalAchievements": 39,
@@ -30363,7 +30368,7 @@
       "Name": "Car Cave",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 30358
+      "UsersEstimate": 30359
     },
     {
       "ID": "AchievementBaywatchID",
@@ -30371,7 +30376,7 @@
       "Name": "Who Baywatches the Baywatch?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10119
+      "UsersEstimate": 10120
     },
     {
       "ID": "AchievementBecomeHumanID",
@@ -30379,7 +30384,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 68306
+      "UsersEstimate": 68307
     },
     {
       "ID": "AchievementBigFootID",
@@ -30411,7 +30416,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 230218
+      "UsersEstimate": 230219
     },
     {
       "ID": "AchievementClownID",
@@ -30435,7 +30440,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 70836
+      "UsersEstimate": 70837
     },
     {
       "ID": "AchievementEggID",
@@ -30475,7 +30480,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 134083
+      "UsersEstimate": 134084
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -30507,7 +30512,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 113844
+      "UsersEstimate": 113845
     },
     {
       "ID": "AchievementIntroID",
@@ -30579,7 +30584,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 187210
+      "UsersEstimate": 187211
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -30595,7 +30600,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 129023
+      "UsersEstimate": 129024
     },
     {
       "ID": "AchievementStreakingID",
@@ -30651,14 +30656,14 @@
       "Name": "Real Buoy",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 68306
+      "UsersEstimate": 68307
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 252987,
+      "Progressed": 252988,
       "Completed": 894
     }
   ],
@@ -30666,8 +30671,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-12-03T19:57:27.1972892+00:00",
-  "LastChanged_Achievements": "2023-12-04T05:10:11.5537964+00:00",
+  "LastChanged_Achievements": "2023-12-04T06:10:06.9753093+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:53.8008808+00:00",
-  "LastUpdate_Ratings": "2023-12-04T04:57:46.4372763+00:00",
-  "LastUpdate_Achievements": "2023-12-04T05:10:11.5539262+00:00"
+  "LastUpdate_Ratings": "2023-12-04T05:57:45.3925397+00:00",
+  "LastUpdate_Achievements": "2023-12-04T06:10:06.9755263+00:00"
 }

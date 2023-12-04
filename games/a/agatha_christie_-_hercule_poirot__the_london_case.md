@@ -34,8 +34,8 @@
 | Bartholomew | 26.00% | ~10 |
 | The Scheme | 26.00% | ~10 |
 | A curious phrase | 21.00% | ~8 |
+| Evelyn Lakshmi Warbeck | 21.00% | ~8 |
 | The Suspects | 21.00% | ~8 |
-| Evelyn Lakshmi Warbeck | 18.00% | ~7 |
 | Johan Kristiansen | 16.00% | ~6 |
 | Well-travelled | 13.00% | ~5 |
 | A peculiar fellow | 13.00% | ~5 |
@@ -46,9 +46,9 @@
 | The Investigation Starts Anew | 13.00% | ~5 |
 | The Denouement | 11.00% | ~4 |
 | A treasured heirloom | 11.00% | ~4 |
+| A perilous journey | 11.00% | ~4 |
 | The Penitent Magdalene | 11.00% | ~4 |
 | A true performance | 11.00% | ~4 |
-| A perilous journey | 8.00% | ~3 |
 | Perkins | 8.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 38 (Ranked 522)  

@@ -5,32 +5,32 @@ Rating: 4.69 (Ranked 232)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 31.00% | ~214,158 |
+| 100 KILLS | 31.00% | ~214,159 |
 | 50 HEADSHOTS | 29.00% | ~200,342 |
-| SCIENCE AND INDUSTRY | 28.00% | ~193,433 |
-| FINISHED CHAPTER 1 | 27.00% | ~186,525 |
+| SCIENCE AND INDUSTRY | 28.00% | ~193,434 |
+| FINISHED CHAPTER 1 | 27.00% | ~186,526 |
 | FINISHED CHAPTER 2 | 20.00% | ~138,167 |
 | 200 HEADSHOTS | 17.00% | ~117,442 |
-| FINISHED CHAPTER 3 | 16.00% | ~110,533 |
+| FINISHED CHAPTER 3 | 16.00% | ~110,534 |
 | FINISHED CHAPTER 4 | 14.00% | ~96,717 |
 | FINISH CHAPTER 5 | 12.00% | ~82,900 |
-| FINISH CHAPTER 6 | 10.00% | ~69,083 |
-| CATHARTIC ESCAPISM | 10.00% | ~69,083 |
+| FINISH CHAPTER 6 | 10.00% | ~69,084 |
+| CATHARTIC ESCAPISM | 10.00% | ~69,084 |
 | 1000 KILLS | 9.00% | ~62,175 |
 | FIREFIGHT LEVEL 10 | 4.00% | ~27,633 |
 | FIREFIGHT LEVEL 20 | 2.00% | ~13,817 |
 | FIRST BLOOD | 2.00% | ~13,817 |
 | PACEMAKER | 1.00% | ~6,908 |
 | TIME PARADOX | 1.00% | ~6,908 |
-| FIREFIGHT LEVEL 30 | 0.90% | ~6,217 |
-| OUT OF ORDER | 0.90% | ~6,217 |
+| FIREFIGHT LEVEL 30 | 0.90% | ~6,218 |
+| OUT OF ORDER | 0.90% | ~6,218 |
 | PARTYHARD | 0.80% | ~5,527 |
 | NEW GAME PLUS | 0.60% | ~4,145 |
 | FIREFIGHT LEVEL 40 | 0.50% | ~3,454 |
 | CHURCH | 0.40% | ~2,763 |
-| FIREFIGHT LEVEL 50 | 0.30% | ~2,072 |
-| REMEMBER THE ARMORY | 0.30% | ~2,072 |
-| 5 RUNS | 0.30% | ~2,072 |
+| FIREFIGHT LEVEL 50 | 0.30% | ~2,073 |
+| REMEMBER THE ARMORY | 0.30% | ~2,073 |
+| 5 RUNS | 0.30% | ~2,073 |
 | CHALET | 0.20% | ~1,382 |
 | FIREFIGHT LEVEL 60 | 0.20% | ~1,382 |
 | SOUL - HORIZONS | 0.20% | ~1,382 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 232)
 | THE GAMBLER | 0.10% | ~691 |
 | WARRIOR IN A GARDEN | 0.10% | ~691 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 690,833 (Ranked 26)  
+Progressed: 690,836 (Ranked 26)  
 Completed: 88 (0.01%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 88 (0.01%) (Ranked 345)
 | 2023-12-01 | 690,070 | 86 |
 | 2023-12-02 | 690,382 | 87 |
 | 2023-12-03 | 690,772 | 88 |
-| 2023-12-04 | 690,833 | 88 |
+| 2023-12-04 | 690,836 | 88 |
 ## Awards
 Max (Great Boss Battles): 422  (Ranked 227)  
 Sum: 422 (Ranked 339)  

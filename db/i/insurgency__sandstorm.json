@@ -2,7 +2,7 @@
   "ID": "94cec4802e954a6c9579e29e8b817f3a",
   "Name": "Insurgency: Sandstorm",
   "ProductSlug": "insurgency-sandstorm",
-  "Ranking_Rating": 386,
+  "Ranking_Rating": 387,
   "Ranking_Popularity": 233,
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 37,
@@ -4228,9 +4228,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 496862,
+  "EOS_Progressed": 496872,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4235,
+  "EOS_NewPlayers": 4211,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30268,6 +30268,11 @@
       "Time": "2023-12-04T05:06:02.4953109+00:00",
       "NumProgressed": 496862,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-04T06:06:05.836409+00:00",
+      "NumProgressed": 496872,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -30335,7 +30340,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19874
+      "UsersEstimate": 19875
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -30447,7 +30452,7 @@
       "Name": "Point Shooting",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19874
+      "UsersEstimate": 19875
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -30543,7 +30548,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 24843
+      "UsersEstimate": 24844
     },
     {
       "ID": "ACH_WET_FEET",
@@ -30551,22 +30556,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19874
+      "UsersEstimate": 19875
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 496862,
+      "Progressed": 496872,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-12-04T01:46:00.9658729+00:00",
-  "LastChanged_Achievements": "2023-12-04T05:06:02.4953104+00:00",
+  "LastChanged_Achievements": "2023-12-04T06:06:05.8364084+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:50.9367232+00:00",
-  "LastUpdate_Ratings": "2023-12-04T04:58:04.5299915+00:00",
-  "LastUpdate_Achievements": "2023-12-04T05:06:02.4954643+00:00"
+  "LastUpdate_Ratings": "2023-12-04T05:58:04.3836737+00:00",
+  "LastUpdate_Achievements": "2023-12-04T06:06:05.8366245+00:00"
 }

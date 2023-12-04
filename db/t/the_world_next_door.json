@@ -3,8 +3,8 @@
   "Name": "The World Next Door",
   "ProductSlug": "the-world-next-door",
   "Ranking_Rating": 974,
-  "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 557,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 776,
   "Ranking_EOS_Completed": 366,
   "Ranking_EOS_NewPlayers": 487,
@@ -204,5 +204,5 @@
   "LastChanged": "2023-11-24T13:04:26.8783475+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:31.8869842+00:00",
   "LastUpdate_Ratings": "2023-12-04T05:01:45.4274046+00:00",
-  "LastUpdate_Achievements": "2023-12-04T05:05:47.4683459+00:00"
+  "LastUpdate_Achievements": "2023-12-04T06:05:49.6959966+00:00"
 }

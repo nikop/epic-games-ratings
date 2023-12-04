@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | Wanderer | 79.00% | ~82 |
 | Something important | 76.00% | ~79 |
-| A piece of the story | 58.00% | ~60 |
+| A piece of the story | 59.00% | ~61 |
+| It's covered up for a reason | 45.00% | ~47 |
 | Do what you have to | 45.00% | ~47 |
-| It's covered up for a reason | 44.00% | ~46 |
-| The artist’s impression | 44.00% | ~46 |
-| Scraps of love | 43.00% | ~45 |
+| The artist’s impression | 45.00% | ~47 |
+| Scraps of love | 44.00% | ~46 |
 | Refuse to look | 38.00% | ~40 |
 | Sign of weakness | 37.00% | ~38 |
 | Finished it | 28.00% | ~29 |
@@ -20,23 +20,23 @@
 | The tragedy unfolds | 13.00% | ~14 |
 | Tough conversation | 13.00% | ~14 |
 | A new way | 11.00% | ~11 |
+| A Slice of Life | 10.00% | ~10 |
 | First steps | 10.00% | ~10 |
 | True Reflection | 10.00% | ~10 |
 | Breaking free | 9.00% | ~9 |
-| A Slice of Life | 9.00% | ~9 |
 | Debut | 9.00% | ~9 |
 | The art of movement | 9.00% | ~9 |
 | Sound Bite | 8.00% | ~8 |
+| Lights! Camera! Action! | 8.00% | ~8 |
 | Another perspective | 7.00% | ~7 |
 | Heavy Burden | 7.00% | ~7 |
-| Lights! Camera! Action! | 7.00% | ~7 |
 | Casting Finished | 6.00% | ~6 |
 | Fisherman | 5.00% | ~5 |
 | We Are Not Alone | 4.00% | ~4 |
 | Body of Work | 4.00% | ~4 |
+| The Perfect Storm | 4.00% | ~4 |
 | Something to think about | 3.00% | ~3 |
 | I remember It Like Was Yesterday | 3.00% | ~3 |
-| The Perfect Storm | 3.00% | ~3 |
 | Se7en Seas | 3.00% | ~3 |
 | A Mosaic of Misery | 3.00% | ~3 |
 | The Big Picture | 2.00% | ~2 |

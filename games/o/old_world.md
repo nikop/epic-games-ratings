@@ -1,15 +1,15 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 314)  
+Rating: 4.65 (Ranked 315)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Settler | 7.00% | ~1,094 |
 | Play a Single Player Game | 7.00% | ~1,094 |
-| Explorer | 6.00% | ~937 |
-| Friendly Family | 6.00% | ~937 |
+| Explorer | 6.00% | ~938 |
+| Friendly Family | 6.00% | ~938 |
 | Able | 5.00% | ~781 |
 | Architect | 5.00% | ~781 |
 | Intrepid | 5.00% | ~781 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,623 (Ranked 152)  
+Progressed: 15,625 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -577,10 +577,10 @@ Completed: 5 (0.03%) (Ranked 329)
 | 2023-12-01 | 15,583 | 5 |
 | 2023-12-02 | 15,604 | 5 |
 | 2023-12-03 | 15,619 | 5 |
-| 2023-12-04 | 15,623 | 5 |
+| 2023-12-04 | 15,625 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
-Sum: 1,887 (Ranked 220)  
+Sum: 1,888 (Ranked 220)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
@@ -590,7 +590,7 @@ Diff (max vs sum): 54
 | This game is Extremely Fun | 216 |
 | This game is Educational | 212 |
 | This game has Challenging Combat | 204 |
-| This game has Amazing Characters | 197 |
+| This game has Amazing Characters | 198 |
 | This game has Quickly Understood Controls | 195 |
 | This game has Amazing Storytelling | 195 |
 | This game has Obsessive Gameplay | 155 |
@@ -768,4 +768,4 @@ Diff (max vs sum): 54
 | 2023-12-01 | 4.65 | - | 228 | 1,883 |
 | 2023-12-02 | 4.65 | - | 228 | 1,884 |
 | 2023-12-03 | 4.65 | - | 228 | 1,885 |
-| 2023-12-04 | 4.65 | - | 228 | 1,887 |
+| 2023-12-04 | 4.65 | - | 228 | 1,888 |
