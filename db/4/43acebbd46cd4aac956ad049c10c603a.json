@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -183,7 +183,7 @@
   ],
   "EOS_Progressed": 867,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2244,9 +2244,9 @@
       "ID": "Mnemosyne",
       "SetID": "1n308hc",
       "Name": "Mnemosyne",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "MuseumExplorer",
@@ -2428,9 +2428,9 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 95
     },
     {
       "ID": "TheThiefOfFire",
@@ -2476,9 +2476,9 @@
       "ID": "Wanderers",
       "SetID": "1n308hc",
       "Name": "Wanderers",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 78
     },
     {
       "ID": "WesternDelta",
@@ -2517,8 +2517,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-03T13:00:54.7758323+00:00",
-  "LastChanged_Achievements": "2023-12-04T06:05:46.1614915+00:00",
+  "LastChanged_Achievements": "2023-12-04T07:04:46.2195611+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-04T05:58:19.5551403+00:00",
-  "LastUpdate_Achievements": "2023-12-04T06:05:46.1615512+00:00"
+  "LastUpdate_Ratings": "2023-12-04T06:57:47.1073072+00:00",
+  "LastUpdate_Achievements": "2023-12-04T07:04:46.2196034+00:00"
 }

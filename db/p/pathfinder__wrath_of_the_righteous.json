@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 366,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -16773,9 +16773,9 @@
       "ID": "49_Flame",
       "SetID": "989of5o",
       "Name": "A Flame",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 489
+      "UsersEstimate": 612
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -17339,8 +17339,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-03T18:59:23.0231359+00:00",
-  "LastChanged_Achievements": "2023-12-04T06:09:33.3304863+00:00",
+  "LastChanged_Achievements": "2023-12-04T07:08:56.3352662+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:59.5454343+00:00",
-  "LastUpdate_Ratings": "2023-12-04T06:00:44.8699576+00:00",
-  "LastUpdate_Achievements": "2023-12-04T06:09:33.330714+00:00"
+  "LastUpdate_Ratings": "2023-12-04T06:59:22.0002533+00:00",
+  "LastUpdate_Achievements": "2023-12-04T07:08:56.3354143+00:00"
 }

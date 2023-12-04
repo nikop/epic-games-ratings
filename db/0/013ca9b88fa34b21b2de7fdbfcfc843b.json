@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -199,7 +199,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8269,
+  "EOS_Progressed": 8270,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
@@ -7979,6 +7979,11 @@
       "Time": "2023-12-04T06:10:06.7001288+00:00",
       "NumProgressed": 8269,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-04T07:09:19.8624397+00:00",
+      "NumProgressed": 8270,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -7999,7 +8004,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5788
+      "UsersEstimate": 5789
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -8015,7 +8020,7 @@
       "Name": "Open the Gate!",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2811
+      "UsersEstimate": 2812
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -8143,7 +8148,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 5044
+      "UsersEstimate": 5045
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -8167,7 +8172,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3886
+      "UsersEstimate": 3887
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -8191,7 +8196,7 @@
       "Name": "I Now Pronounce You...",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "MAKE_FRIENDS_1",
@@ -8270,22 +8275,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8269,
+      "Progressed": 8270,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 886,
-      "Completed": 886
+      "Progressed": 887,
+      "Completed": 887
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-01T18:02:55.7305048+00:00",
-  "LastChanged_Achievements": "2023-12-04T06:10:06.7001284+00:00",
+  "LastChanged_Achievements": "2023-12-04T07:09:19.8624393+00:00",
   "LastUpdate_AppInfo": "2023-12-01T09:57:19.7790129+00:00",
-  "LastUpdate_Ratings": "2023-12-04T06:03:10.6465687+00:00",
-  "LastUpdate_Achievements": "2023-12-04T06:10:06.7002142+00:00"
+  "LastUpdate_Ratings": "2023-12-04T07:02:56.7926582+00:00",
+  "LastUpdate_Achievements": "2023-12-04T07:09:19.8624996+00:00"
 }

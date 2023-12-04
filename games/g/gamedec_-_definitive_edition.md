@@ -13,10 +13,10 @@ Number of Ratings: 33  (23.09.2022)
 | Guns, lots of guns | 13.00% | ~32,993 |
 | Collector | 12.00% | ~30,455 |
 | Elementary! | 9.00% | ~22,841 |
-| Griever | 8.00% | ~20,303 |
-| Pumpkin Jack | 8.00% | ~20,303 |
-| Wake up! | 8.00% | ~20,303 |
-| It's honest work | 7.00% | ~17,765 |
+| Griever | 8.00% | ~20,304 |
+| Pumpkin Jack | 8.00% | ~20,304 |
+| Wake up! | 8.00% | ~20,304 |
+| It's honest work | 7.00% | ~17,766 |
 | Me smart | 6.00% | ~15,228 |
 | Trash compactor | 6.00% | ~15,228 |
 | Good listener | 5.00% | ~12,690 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~508 |
 | Memory 5 | 0.10% | ~254 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,792 (Ranked 59)  
+Progressed: 253,794 (Ranked 59)  
 Completed: 7 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 7 (0.00%) (Ranked 366)
 | 2023-12-01 | 253,568 | 7 |
 | 2023-12-02 | 253,655 | 7 |
 | 2023-12-03 | 253,777 | 7 |
-| 2023-12-04 | 253,792 | 7 |
+| 2023-12-04 | 253,794 | 7 |
 ## Awards
 Max (Character Customization): 92  (Ranked 379)  
 Sum: 92 (Ranked 457)  

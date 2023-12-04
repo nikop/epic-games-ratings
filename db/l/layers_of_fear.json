@@ -4,8 +4,8 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -547,9 +547,9 @@
       "ID": "another_perspective",
       "SetID": "f2im8d",
       "Name": "Another perspective",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "assemble_puzzles",
@@ -707,9 +707,9 @@
       "ID": "find_one_poster",
       "SetID": "f2im8d",
       "Name": "Debut",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "find_one_rat_sketch",
@@ -899,9 +899,9 @@
       "ID": "the_art_of_movement",
       "SetID": "f2im8d",
       "Name": "The art of movement",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "the_tragedy_unfolds",
@@ -962,8 +962,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-04T06:03:56.4023185+00:00",
+  "LastChanged_Achievements": "2023-12-04T07:03:28.8849101+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:53.0795294+00:00",
-  "LastUpdate_Ratings": "2023-12-04T05:57:58.8777077+00:00",
-  "LastUpdate_Achievements": "2023-12-04T06:03:56.4023657+00:00"
+  "LastUpdate_Ratings": "2023-12-04T06:57:33.6481339+00:00",
+  "LastUpdate_Achievements": "2023-12-04T07:03:28.8849401+00:00"
 }

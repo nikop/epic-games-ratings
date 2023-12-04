@@ -668,9 +668,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 57861,
+  "EOS_Progressed": 57862,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 1579,
+  "EOS_NewPlayers": 1574,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11958,6 +11958,11 @@
       "Time": "2023-12-04T06:06:30.837357+00:00",
       "NumProgressed": 57861,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-04T07:05:17.8777517+00:00",
+      "NumProgressed": 57862,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -12074,7 +12079,7 @@
       "Name": "Old Friend",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5207
+      "UsersEstimate": 5208
     },
     {
       "ID": "ENCYCLOPEDIA_1",
@@ -12082,7 +12087,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 12729
+      "UsersEstimate": 12730
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -12210,7 +12215,7 @@
       "Name": "New Spirits",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5207
+      "UsersEstimate": 5208
     },
     {
       "ID": "NIKOLAY_LOYAL",
@@ -12258,7 +12263,7 @@
       "Name": "Voipel",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5207
+      "UsersEstimate": 5208
     },
     {
       "ID": "SAVVY",
@@ -12354,7 +12359,7 @@
       "Name": "Black Mage",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5207
+      "UsersEstimate": 5208
     },
     {
       "ID": "ZNATKOST_3",
@@ -12369,15 +12374,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 57861,
+      "Progressed": 57862,
       "Completed": 57
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-12-01T11:58:05.6647761+00:00",
-  "LastChanged_Achievements": "2023-12-04T06:06:30.8373564+00:00",
+  "LastChanged_Achievements": "2023-12-04T07:05:17.8777513+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:55.6045759+00:00",
-  "LastUpdate_Ratings": "2023-12-04T06:00:36.1777262+00:00",
-  "LastUpdate_Achievements": "2023-12-04T06:06:30.8374702+00:00"
+  "LastUpdate_Ratings": "2023-12-04T06:59:15.9944885+00:00",
+  "LastUpdate_Achievements": "2023-12-04T07:05:17.877832+00:00"
 }

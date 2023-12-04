@@ -4,8 +4,8 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 456,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -538,9 +538,9 @@
       "ID": "KR4_ACHIEVEMENT_DEFEAT_DWARF_KING",
       "SetID": "caeik3h",
       "Name": "I am Iron Man",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "KR4_ACHIEVEMENT_DEMOGORGON",
@@ -1063,8 +1063,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-04T06:06:47.275235+00:00",
+  "LastChanged_Achievements": "2023-12-04T07:05:29.5380844+00:00",
   "LastUpdate_AppInfo": "2023-11-30T16:57:23.733607+00:00",
-  "LastUpdate_Ratings": "2023-12-04T06:01:06.9240228+00:00",
-  "LastUpdate_Achievements": "2023-12-04T06:06:47.2753183+00:00"
+  "LastUpdate_Ratings": "2023-12-04T06:59:36.2578562+00:00",
+  "LastUpdate_Achievements": "2023-12-04T07:05:29.538152+00:00"
 }

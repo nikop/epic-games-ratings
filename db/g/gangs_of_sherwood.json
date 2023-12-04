@@ -4,8 +4,8 @@
   "ProductSlug": "gangs-of-sherwood",
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
     "PcReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -644,9 +644,9 @@
       "ID": "ACH_UNLOCK_ALL_GEARS",
       "SetID": "5akmpni",
       "Name": "The Arsenal",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_UNLOCK_ALL_GEARS_GANGS",
@@ -691,8 +691,8 @@
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-12-04T06:06:32.242123+00:00",
+  "LastChanged_Achievements": "2023-12-04T07:05:18.8090133+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:51.6227723+00:00",
-  "LastUpdate_Ratings": "2023-12-04T05:57:18.7238026+00:00",
-  "LastUpdate_Achievements": "2023-12-04T06:06:32.2421753+00:00"
+  "LastUpdate_Ratings": "2023-12-04T06:57:06.7544714+00:00",
+  "LastUpdate_Achievements": "2023-12-04T07:05:18.8090765+00:00"
 }

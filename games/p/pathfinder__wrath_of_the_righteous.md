@@ -23,12 +23,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | The Legacy | 5.00% | ~612 |
 | Voice from Your Dreams | 5.00% | ~612 |
 | All Paths Open | 5.00% | ~612 |
+| A Flame | 5.00% | ~612 |
 | Next-Door Play | 5.00% | ~612 |
 | Get the Toad | 5.00% | ~612 |
 | Heart of the Fallen Land | 4.00% | ~489 |
 | Divide and Rule | 4.00% | ~489 |
 | Mythic Reinforcements | 4.00% | ~489 |
-| A Flame | 4.00% | ~489 |
 | Hey, I Know You! | 4.00% | ~489 |
 | Path of the Trickster | 3.00% | ~367 |
 | Path of the Lich | 3.00% | ~367 |

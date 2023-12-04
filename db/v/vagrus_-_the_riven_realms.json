@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 366,
   "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -1096,9 +1096,9 @@
       "ID": "Vanilla_Eylani",
       "SetID": "27kik8p",
       "Name": "Ever After",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Vanilla_FactionBalancer",
@@ -1601,8 +1601,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-12-04T06:06:25.4990095+00:00",
+  "LastChanged_Achievements": "2023-12-04T07:05:13.92973+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:57.3657871+00:00",
-  "LastUpdate_Ratings": "2023-12-04T05:57:48.7948989+00:00",
-  "LastUpdate_Achievements": "2023-12-04T06:06:25.4991623+00:00"
+  "LastUpdate_Ratings": "2023-12-04T06:57:26.9522547+00:00",
+  "LastUpdate_Achievements": "2023-12-04T07:05:13.9298342+00:00"
 }

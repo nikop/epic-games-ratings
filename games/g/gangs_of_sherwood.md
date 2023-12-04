@@ -39,12 +39,12 @@
 | No Mercy | 4.00% | ~2 |
 | Power of Friendship! | 4.00% | ~2 |
 | Five of Friends | 4.00% | ~2 |
+| The Arsenal | 4.00% | ~2 |
 | Sherwood Moment 37 | 2.00% | ~1 |
 | The Crowkiller | 2.00% | ~1 |
 | A Gest of Robyn Hode | 2.00% | ~1 |
 | Money can not buy happiness | 2.00% | ~1 |
 | Only Child | 2.00% | ~1 |
-| The Arsenal | 2.00% | ~1 |
 | Master of One | 2.00% | ~1 |
 | Fashionista | 2.00% | ~1 |
 | Challenger | 0.00% | ~0 |

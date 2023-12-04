@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -61,7 +61,7 @@
   "Tags": [],
   "EOS_Progressed": 1147,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2869,9 +2869,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 998
+      "UsersEstimate": 1009
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -3021,17 +3021,17 @@
       "ID": "GSS_ACH_20_DECORATION_01",
       "SetID": "5fn8ia4",
       "Name": "Decorating!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1021
     },
     {
       "ID": "GSS_ACH_21_LOCKPICKING_01",
       "SetID": "5fn8ia4",
       "Name": "Thief!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1021
     },
     {
       "ID": "GSS_ACH_22_LOCKPICKING_02",
@@ -3133,9 +3133,9 @@
       "ID": "GSS_ACH_35_BROOM_01",
       "SetID": "5fn8ia4",
       "Name": "Broomed",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1055
     },
     {
       "ID": "GSS_ACH_36_BROOM_02",
@@ -3437,9 +3437,9 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 998
+      "UsersEstimate": 1009
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -3526,8 +3526,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-28T04:59:34.1023632+00:00",
-  "LastChanged_Achievements": "2023-12-04T06:07:46.8007635+00:00",
+  "LastChanged_Achievements": "2023-12-04T07:06:11.5910219+00:00",
   "LastUpdate_AppInfo": "2023-11-27T17:57:10.8459621+00:00",
-  "LastUpdate_Ratings": "2023-12-04T06:00:03.2058001+00:00",
-  "LastUpdate_Achievements": "2023-12-04T06:07:46.8008478+00:00"
+  "LastUpdate_Ratings": "2023-12-04T06:58:54.4810738+00:00",
+  "LastUpdate_Achievements": "2023-12-04T07:06:11.5910995+00:00"
 }

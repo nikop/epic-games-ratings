@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~84,422 |
+| Sowwy! | 35.00% | ~84,425 |
 | Alt+F4 | 9.00% | ~21,709 |
 | Where's that freaking Dwarf? | 8.00% | ~19,297 |
-| Déjà vu | 7.00% | ~16,884 |
-| Sock! SOCK! | 5.00% | ~12,060 |
-| GG EZ | 5.00% | ~12,060 |
-| Speedrun | 5.00% | ~12,060 |
-| A beer, two curses, three companions | 4.00% | ~9,648 |
-| DM intervention | 4.00% | ~9,648 |
-| Fireproof Wizardess | 4.00% | ~9,648 |
+| Déjà vu | 7.00% | ~16,885 |
+| Sock! SOCK! | 5.00% | ~12,061 |
+| GG EZ | 5.00% | ~12,061 |
+| Speedrun | 5.00% | ~12,061 |
+| A beer, two curses, three companions | 4.00% | ~9,649 |
+| DM intervention | 4.00% | ~9,649 |
+| Fireproof Wizardess | 4.00% | ~9,649 |
 | Livin' in a dwarven paradise | 3.00% | ~7,236 |
 | Way of the Wimp | 3.00% | ~7,236 |
 | The plot thickens... At the tavern | 3.00% | ~7,236 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~241 |
 | Dwarf Candy | 0.10% | ~241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,207 (Ranked 63)  
+Progressed: 241,213 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 7 (0.00%) (Ranked 366)
 | 2023-12-01 | 240,719 | 7 |
 | 2023-12-02 | 240,910 | 7 |
 | 2023-12-03 | 241,176 | 7 |
-| 2023-12-04 | 241,207 | 7 |
+| 2023-12-04 | 241,213 | 7 |
 ## Awards
 Max (Character Customization): 241  (Ranked 272)  
 Sum: 487 (Ranked 329)  

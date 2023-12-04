@@ -21,14 +21,14 @@
 | Tough conversation | 13.00% | ~14 |
 | A new way | 11.00% | ~11 |
 | A Slice of Life | 10.00% | ~10 |
+| Debut | 10.00% | ~10 |
 | First steps | 10.00% | ~10 |
+| The art of movement | 10.00% | ~10 |
 | True Reflection | 10.00% | ~10 |
 | Breaking free | 9.00% | ~9 |
-| Debut | 9.00% | ~9 |
-| The art of movement | 9.00% | ~9 |
+| Another perspective | 8.00% | ~8 |
 | Sound Bite | 8.00% | ~8 |
 | Lights! Camera! Action! | 8.00% | ~8 |
-| Another perspective | 7.00% | ~7 |
 | Heavy Burden | 7.00% | ~7 |
 | Casting Finished | 6.00% | ~6 |
 | Fisherman | 5.00% | ~5 |

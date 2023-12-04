@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 366,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -649,9 +649,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471764,
+  "EOS_Progressed": 471765,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24324,6 +24324,11 @@
       "Time": "2023-12-04T05:10:16.5993644+00:00",
       "NumProgressed": 471764,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-04T07:09:24.4176022+00:00",
+      "NumProgressed": 471765,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -24351,7 +24356,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113223
+      "UsersEstimate": 113224
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -24423,7 +24428,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311364
+      "UsersEstimate": 311365
     },
     {
       "ID": "achievement_story_landa",
@@ -24471,7 +24476,7 @@
       "Name": "Admiral Okonkwo",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33023
+      "UsersEstimate": 33024
     },
     {
       "ID": "achievement_story_meet_survivalists",
@@ -24479,7 +24484,7 @@
       "Name": "The Survivalists",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33023
+      "UsersEstimate": 33024
     },
     {
       "ID": "achievement_story_meet_tetsuo",
@@ -24575,7 +24580,7 @@
       "Name": "The Tech Specialist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33023
+      "UsersEstimate": 33024
     },
     {
       "ID": "achievement_unlock_officer_empire_2",
@@ -24759,7 +24764,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207576
+      "UsersEstimate": 207577
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -24767,7 +24772,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141529
+      "UsersEstimate": 141530
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -24966,21 +24971,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15698,
+      "Progressed": 15699,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471764,
+      "Progressed": 471765,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-01T18:58:58.8781534+00:00",
-  "LastChanged_Achievements": "2023-12-04T06:10:12.2779096+00:00",
+  "LastChanged_Achievements": "2023-12-04T07:09:24.4176019+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:22.9078654+00:00",
-  "LastUpdate_Ratings": "2023-12-04T06:01:40.3273278+00:00",
-  "LastUpdate_Achievements": "2023-12-04T06:10:12.2781306+00:00"
+  "LastUpdate_Ratings": "2023-12-04T06:59:58.1220797+00:00",
+  "LastUpdate_Achievements": "2023-12-04T07:09:24.4177899+00:00"
 }

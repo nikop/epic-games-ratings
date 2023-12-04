@@ -2,10 +2,10 @@
   "ID": "3a077bc4fa864985b8c0b343176226d2",
   "Name": "UFO ROBOT GRENDIZER - The Feast of the Wolves",
   "ProductSlug": "goldorak-d90cf1",
-  "Ranking_EOS_Progress": 626,
+  "Ranking_EOS_Progress": 619,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 368,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-14T16:00:00+00:00",
     "PcReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8,
+  "EOS_Progressed": 9,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -69,6 +69,11 @@
       "Time": "2023-11-30T17:09:56.5692559+00:00",
       "NumProgressed": 8,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-04T07:08:43.9318867+00:00",
+      "NumProgressed": 9,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-14T10:09:31.9139151+00:00",
@@ -95,15 +100,15 @@
       "ID": "ACH_COLLECTORS",
       "SetID": "ch874lb",
       "Name": "The Power of Friendship",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ESCAPEFROMFLEED",
       "SetID": "ch874lb",
       "Name": "Escape from Fleed",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -119,7 +124,7 @@
       "ID": "ACH_FIRSTDEATH",
       "SetID": "ch874lb",
       "Name": "Strength in Defeat",
-      "Percentage": 25,
+      "Percentage": 22,
       "XP": 35,
       "UsersEstimate": 2
     },
@@ -127,7 +132,7 @@
       "ID": "ACH_FIRSTLEGENDARYLOOT",
       "SetID": "ch874lb",
       "Name": "The Remains of Fleed",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -135,7 +140,7 @@
       "ID": "ACH_FIRSTMEDITATION",
       "SetID": "ch874lb",
       "Name": "Life of Pi",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -143,7 +148,7 @@
       "ID": "ACH_FIRSTSKINCHANGE",
       "SetID": "ch874lb",
       "Name": "A Good Paint Job",
-      "Percentage": 25,
+      "Percentage": 22,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -151,7 +156,7 @@
       "ID": "ACH_FIRSTUPGRADE",
       "SetID": "ch874lb",
       "Name": "Technology first!",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -183,7 +188,7 @@
       "ID": "ACH_IRONFIST",
       "SetID": "ch874lb",
       "Name": "Iron Fist",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -191,7 +196,7 @@
       "ID": "ACH_KILLENEMY",
       "SetID": "ch874lb",
       "Name": "The Exterminator",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -199,7 +204,7 @@
       "ID": "ACH_LEGENDARYMATERIAL",
       "SetID": "ch874lb",
       "Name": "The Legend",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -287,7 +292,7 @@
       "ID": "ACH_THESPACEHYDRA",
       "SetID": "ch874lb",
       "Name": "The Space Hydra",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -303,7 +308,7 @@
       "ID": "ACH_THEVEGATURTLE",
       "SetID": "ch874lb",
       "Name": "The Vega Turtle",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -320,14 +325,14 @@
     {
       "ID": "ch874lb",
       "IsBase": true,
-      "Progressed": 8,
+      "Progressed": 9,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2023-12-04T06:09:15.9492188+00:00",
+  "LastChanged_Achievements": "2023-12-04T07:08:43.9318865+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:12.6917781+00:00",
-  "LastUpdate_Ratings": "2023-12-04T05:58:22.7630616+00:00",
-  "LastUpdate_Achievements": "2023-12-04T06:09:15.9492424+00:00"
+  "LastUpdate_Ratings": "2023-12-04T06:57:49.1662728+00:00",
+  "LastUpdate_Achievements": "2023-12-04T07:08:43.9318996+00:00"
 }

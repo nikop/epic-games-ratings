@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Strength in Defeat | 25.00% | ~2 |
-| A Good Paint Job | 25.00% | ~2 |
-| Escape from Fleed | 13.00% | ~1 |
-| The Remains of Fleed | 13.00% | ~1 |
-| Life of Pi | 13.00% | ~1 |
-| Technology first! | 13.00% | ~1 |
-| Iron Fist | 13.00% | ~1 |
-| The Exterminator | 13.00% | ~1 |
-| The Legend | 13.00% | ~1 |
-| The Space Hydra | 13.00% | ~1 |
-| The Vega Turtle | 13.00% | ~1 |
+| Strength in Defeat | 22.00% | ~2 |
+| A Good Paint Job | 22.00% | ~2 |
+| The Power of Friendship | 11.00% | ~1 |
+| Escape from Fleed | 11.00% | ~1 |
+| The Remains of Fleed | 11.00% | ~1 |
+| Life of Pi | 11.00% | ~1 |
+| Technology first! | 11.00% | ~1 |
+| Iron Fist | 11.00% | ~1 |
+| The Exterminator | 11.00% | ~1 |
+| The Legend | 11.00% | ~1 |
+| The Space Hydra | 11.00% | ~1 |
+| The Vega Turtle | 11.00% | ~1 |
 | Gold Seeker | 0.00% | ~0 |
 | A Land of Peace | 0.00% | ~0 |
-| The Power of Friendship | 0.00% | ~0 |
 | First Contact | 0.00% | ~0 |
 | The Keeper of Fleed | 0.00% | ~0 |
 | The Planner | 0.00% | ~0 |
@@ -35,7 +35,7 @@
 | The Ultimate Attack | 0.00% | ~0 |
 | Vengeance of the Wolf | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8 (Ranked 626)  
+Progressed: 9 (Ranked 619)  
 Completed: 0 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -46,3 +46,4 @@ Completed: 0 (0.00%) (Ranked 366)
 | 2023-11-27 | 5 | 0 |
 | 2023-11-29 | 6 | 0 |
 | 2023-11-30 | 8 | 0 |
+| 2023-12-04 | 9 | 0 |

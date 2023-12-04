@@ -4,8 +4,8 @@
   "ProductSlug": "hidden-pass-c54045",
   "Ranking_EOS_Progress": 776,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 487,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 485,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2024-09-30T00:00:00+00:00",
     "PcReleaseDate": "2024-09-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-28T18:57:06.1736279+00:00",
-  "LastUpdate_Ratings": "2023-12-04T05:59:27.3816051+00:00",
-  "LastUpdate_Achievements": "2023-12-04T06:06:47.9078159+00:00"
+  "LastUpdate_Ratings": "2023-12-04T06:58:30.7238255+00:00",
+  "LastUpdate_Achievements": "2023-12-04T07:05:29.8470719+00:00"
 }

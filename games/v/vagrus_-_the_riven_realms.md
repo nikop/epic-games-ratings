@@ -51,6 +51,7 @@
 | Loremaster | 1.00% | ~2 |
 | Adept | 1.00% | ~2 |
 | Embellished | 1.00% | ~2 |
+| Ever After | 1.00% | ~2 |
 | Legacy of a Mercenary | 1.00% | ~2 |
 | Trailblazer | 1.00% | ~2 |
 | Moving At Odd Angles | 1.00% | ~2 |
@@ -65,7 +66,6 @@
 | Glorious leader | 1.00% | ~2 |
 | Voracity Confronted | 1.00% | ~2 |
 | General | 0.50% | ~1 |
-| Ever After | 0.50% | ~1 |
 | Conqueror | 0.50% | ~1 |
 | Forager | 0.50% | ~1 |
 | Forged in Battle | 0.50% | ~1 |

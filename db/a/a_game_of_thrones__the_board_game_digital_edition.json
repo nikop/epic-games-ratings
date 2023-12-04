@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1332,9 +1332,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 29685,
+  "EOS_Progressed": 29687,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 439,
+  "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -25767,6 +25767,11 @@
       "Time": "2023-12-04T06:09:39.7940887+00:00",
       "NumProgressed": 29685,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-04T07:09:00.8195931+00:00",
+      "NumProgressed": 29687,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 22,
@@ -25882,7 +25887,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5343
+      "UsersEstimate": 5344
     },
     {
       "ID": "1029",
@@ -25914,7 +25919,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11874
+      "UsersEstimate": 11875
     },
     {
       "ID": "1033",
@@ -25953,15 +25958,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 29685,
+      "Progressed": 29687,
       "Completed": 82
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-03T18:00:24.3998169+00:00",
-  "LastChanged_Achievements": "2023-12-04T06:09:39.7940882+00:00",
+  "LastChanged_Achievements": "2023-12-04T07:09:00.8195928+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:12.8181889+00:00",
-  "LastUpdate_Ratings": "2023-12-04T05:57:16.7415838+00:00",
-  "LastUpdate_Achievements": "2023-12-04T06:09:39.79433+00:00"
+  "LastUpdate_Ratings": "2023-12-04T06:57:05.5229031+00:00",
+  "LastUpdate_Achievements": "2023-12-04T07:09:00.8196993+00:00"
 }

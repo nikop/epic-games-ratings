@@ -7,11 +7,11 @@ Number of Ratings: 495  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 12.00% | ~26,085 |
-| A thief's beginning | 10.00% | ~21,737 |
-| Thorough | 10.00% | ~21,737 |
-| Disguised | 9.00% | ~19,563 |
-| Rollin' | 9.00% | ~19,563 |
-| Tanuki Time | 9.00% | ~19,563 |
+| A thief's beginning | 10.00% | ~21,738 |
+| Thorough | 10.00% | ~21,738 |
+| Disguised | 9.00% | ~19,564 |
+| Rollin' | 9.00% | ~19,564 |
+| Tanuki Time | 9.00% | ~19,564 |
 | Rescue Takuma | 8.00% | ~17,390 |
 | Stoned Ox | 8.00% | ~17,390 |
 | Happy Planning | 7.00% | ~15,216 |
@@ -32,11 +32,11 @@ Number of Ratings: 495  (23.09.2022)
 | It's raining men | 3.00% | ~6,521 |
 | Stoned | 3.00% | ~6,521 |
 | The Old Way | 3.00% | ~6,521 |
-| Atheist Ox | 2.00% | ~4,347 |
-| No Gimmicks | 2.00% | ~4,347 |
-| Old Man | 2.00% | ~4,347 |
-| The End | 2.00% | ~4,347 |
-| Winner Winner | 2.00% | ~4,347 |
+| Atheist Ox | 2.00% | ~4,348 |
+| No Gimmicks | 2.00% | ~4,348 |
+| Old Man | 2.00% | ~4,348 |
+| The End | 2.00% | ~4,348 |
+| Winner Winner | 2.00% | ~4,348 |
 | Meticulous | 1.00% | ~2,174 |
 | Undeserved Honor | 1.00% | ~2,174 |
 | When Cut Across the Neck | 0.90% | ~1,956 |
@@ -44,14 +44,14 @@ Number of Ratings: 495  (23.09.2022)
 | The Cave | 0.80% | ~1,739 |
 | Time Paradox | 0.60% | ~1,304 |
 | Merciful | 0.50% | ~1,087 |
-| Five Shadows | 0.40% | ~869 |
+| Five Shadows | 0.40% | ~870 |
 | Complete Mastery | 0.20% | ~435 |
 | Praise the Shogun | 0.20% | ~435 |
 | Chicken Dinner | 0.10% | ~217 |
 | Mimimi | 0.10% | ~217 |
 | Release the Kraken | 0.10% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,371 (Ranked 72)  
+Progressed: 217,375 (Ranked 72)  
 Completed: 100 (0.05%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 100 (0.05%) (Ranked 318)
 | 2023-12-01 | 216,916 | 100 |
 | 2023-12-02 | 217,105 | 100 |
 | 2023-12-03 | 217,342 | 100 |
-| 2023-12-04 | 217,371 | 100 |
+| 2023-12-04 | 217,375 | 100 |
 ## Awards
 Max (Great for Beginners): 580  (Ranked 201)  
 Sum: 4,893 (Ranked 144)  

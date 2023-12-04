@@ -57,10 +57,10 @@
 | Invicta | 0.80% | ~30 |
 | Olympian | 0.50% | ~19 |
 | Hipparchia's Labour | 0.40% | ~15 |
+| Debauchery | 0.40% | ~15 |
 | Interrupt the Interloper | 0.40% | ~15 |
 | Elephantine | 0.40% | ~15 |
 | Window Shopping | 0.30% | ~11 |
-| Debauchery | 0.30% | ~11 |
 | Blessing of Spring | 0.30% | ~11 |
 | Buyer's Remorse | 0.20% | ~7 |
 | Library of Alexandria | 0.10% | ~4 |

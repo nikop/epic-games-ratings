@@ -17,9 +17,9 @@
 | Heroes’ Gorge | 63.00% | ~328 |
 | Unicorn steaks – fresh off the hoof! | 61.00% | ~318 |
 | Magic Accidents | 58.00% | ~302 |
+| The Ascent | 56.00% | ~292 |
+| It's Warm and Cozy at Home | 56.00% | ~292 |
 | Trap Master | 55.00% | ~287 |
-| The Ascent | 55.00% | ~287 |
-| It's Warm and Cozy at Home | 55.00% | ~287 |
 | Minions, Minions! | 54.00% | ~281 |
 | Hard Work | 50.00% | ~260 |
 | The Big Eaty | 49.00% | ~255 |

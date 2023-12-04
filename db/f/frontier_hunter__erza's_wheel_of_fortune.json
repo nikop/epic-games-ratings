@@ -2,10 +2,10 @@
   "ID": "f9af68c0b03e425999c18381eb45e5fb",
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
-  "Ranking_EOS_Progress": 309,
+  "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 532,
+  "EOS_Progressed": 533,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
@@ -1662,6 +1662,11 @@
       "Time": "2023-12-04T04:08:16.2539036+00:00",
       "NumProgressed": 532,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-04T07:06:35.2565779+00:00",
+      "NumProgressed": 533,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1673,7 +1678,7 @@
       "Name": "Travel Streamer",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1681,7 +1686,7 @@
       "Name": "Giant Lizard Killer",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -1705,7 +1710,7 @@
       "Name": "Flying Kobold Killer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -1713,7 +1718,7 @@
       "Name": "Youth Magnet",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -1759,9 +1764,9 @@
       "ID": "ACHIEVEMENT_2",
       "SetID": "7pimpda",
       "Name": "Training Simulation",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 415
+      "UsersEstimate": 410
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1785,7 +1790,7 @@
       "Name": "Beginner Cook",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -1809,7 +1814,7 @@
       "Name": "Beginner Artificer",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -1857,7 +1862,7 @@
       "Name": "Weapon Boost",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -1929,7 +1934,7 @@
       "Name": "Storm Traveller",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -2001,7 +2006,7 @@
       "Name": "Flower Thief",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -2032,7 +2037,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 532,
+      "Progressed": 533,
       "Completed": 1
     }
   ],
@@ -2040,8 +2045,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-04T06:08:20.1539406+00:00",
+  "LastChanged_Achievements": "2023-12-04T07:06:35.2565775+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.7212859+00:00",
-  "LastUpdate_Ratings": "2023-12-04T06:02:45.0188215+00:00",
-  "LastUpdate_Achievements": "2023-12-04T06:08:20.1539813+00:00"
+  "LastUpdate_Ratings": "2023-12-04T07:02:40.2602904+00:00",
+  "LastUpdate_Achievements": "2023-12-04T07:06:35.2566192+00:00"
 }
