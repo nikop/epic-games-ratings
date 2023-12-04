@@ -4,7 +4,7 @@
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 494,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -498,9 +498,9 @@
       "ID": "6",
       "SetID": "6bgoh8g",
       "Name": "A true detective",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "7",
@@ -537,8 +537,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-12-04T09:05:34.8974302+00:00",
+  "LastChanged_Achievements": "2023-12-04T10:05:17.4077684+00:00",
   "LastUpdate_AppInfo": "2023-11-30T02:19:33.8334712+00:00",
-  "LastUpdate_Ratings": "2023-12-04T09:02:53.1536494+00:00",
-  "LastUpdate_Achievements": "2023-12-04T09:05:34.8974521+00:00"
+  "LastUpdate_Ratings": "2023-12-04T10:02:34.3953735+00:00",
+  "LastUpdate_Achievements": "2023-12-04T10:05:17.4077911+00:00"
 }

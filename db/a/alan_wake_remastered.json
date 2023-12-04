@@ -569,9 +569,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 97350,
+  "EOS_Progressed": 97351,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 1063,
+  "EOS_NewPlayers": 1062,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -24069,6 +24069,11 @@
       "Time": "2023-12-04T09:09:42.445089+00:00",
       "NumProgressed": 97350,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-12-04T10:09:03.5366918+00:00",
+      "NumProgressed": 97351,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 67,
@@ -24080,7 +24085,7 @@
       "Name": "Follow the Light",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 56463
+      "UsersEstimate": 56464
     },
     {
       "ID": "02",
@@ -24088,7 +24093,7 @@
       "Name": "Nordic Walking",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 37966
+      "UsersEstimate": 37967
     },
     {
       "ID": "03",
@@ -24120,7 +24125,7 @@
       "Name": "Park Ranger",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 28231
+      "UsersEstimate": 28232
     },
     {
       "ID": "07",
@@ -24144,7 +24149,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 22390
+      "UsersEstimate": 22391
     },
     {
       "ID": "10",
@@ -24152,7 +24157,7 @@
       "Name": "Medical Opinions",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2920
+      "UsersEstimate": 2921
     },
     {
       "ID": "11",
@@ -24256,7 +24261,7 @@
       "Name": "Taken Season",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2920
+      "UsersEstimate": 2921
     },
     {
       "ID": "24",
@@ -24264,7 +24269,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 18496
+      "UsersEstimate": 18497
     },
     {
       "ID": "25",
@@ -24280,7 +24285,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 18496
+      "UsersEstimate": 18497
     },
     {
       "ID": "27",
@@ -24320,7 +24325,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 26284
+      "UsersEstimate": 26285
     },
     {
       "ID": "32",
@@ -24328,7 +24333,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 45754
+      "UsersEstimate": 45755
     },
     {
       "ID": "33",
@@ -24392,7 +24397,7 @@
       "Name": "Right of Way",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 14602
+      "UsersEstimate": 14603
     },
     {
       "ID": "41",
@@ -24400,7 +24405,7 @@
       "Name": "Finders Keepers",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 26284
+      "UsersEstimate": 26285
     },
     {
       "ID": "42",
@@ -24416,7 +24421,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 28231
+      "UsersEstimate": 28232
     },
     {
       "ID": "44",
@@ -24615,21 +24620,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 97350,
+      "Progressed": 97351,
       "Completed": 107
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 60818,
+      "Progressed": 60819,
       "Completed": 92
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-11-23T00:00:36.1638519+00:00",
-  "LastChanged_Achievements": "2023-12-04T09:09:42.4450887+00:00",
+  "LastChanged_Achievements": "2023-12-04T10:09:03.5366914+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:16.2842941+00:00",
-  "LastUpdate_Ratings": "2023-12-04T08:57:38.1984869+00:00",
-  "LastUpdate_Achievements": "2023-12-04T09:09:42.4452154+00:00"
+  "LastUpdate_Ratings": "2023-12-04T09:57:20.5150157+00:00",
+  "LastUpdate_Achievements": "2023-12-04T10:09:03.5368368+00:00"
 }

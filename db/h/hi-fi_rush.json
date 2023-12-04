@@ -145,7 +145,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4468,
+  "EOS_Progressed": 4470,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
@@ -8110,6 +8110,11 @@
       "Time": "2023-12-04T05:04:23.80476+00:00",
       "NumProgressed": 4468,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-04T10:03:34.6559104+00:00",
+      "NumProgressed": 4470,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8169,7 +8174,7 @@
       "Name": "Who\u0027s the boss now?",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "Ach008",
@@ -8185,7 +8190,7 @@
       "Name": "Well that was a rush!",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "Ach010",
@@ -8305,7 +8310,7 @@
       "Name": "Beat-hit mania",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "Ach025",
@@ -8369,7 +8374,7 @@
       "Name": "Perfecter Parry-er!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "Ach033",
@@ -8401,7 +8406,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "Ach037",
@@ -8473,7 +8478,7 @@
       "Name": "There\u0027s such a thing as TOO helpful",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "Ach046",
@@ -8521,7 +8526,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "Ach052",
@@ -8688,13 +8693,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4468,
+      "Progressed": 4470,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2989,
+      "Progressed": 2991,
       "Completed": 1930
     }
   ],
@@ -8702,8 +8707,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-04T09:03:51.8604823+00:00",
+  "LastChanged_Achievements": "2023-12-04T10:03:34.6559098+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:21.1661658+00:00",
-  "LastUpdate_Ratings": "2023-12-04T09:00:13.5338675+00:00",
-  "LastUpdate_Achievements": "2023-12-04T09:03:51.8605597+00:00"
+  "LastUpdate_Ratings": "2023-12-04T09:59:56.2572132+00:00",
+  "LastUpdate_Achievements": "2023-12-04T10:03:34.6559982+00:00"
 }

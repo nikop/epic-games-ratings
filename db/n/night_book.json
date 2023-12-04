@@ -4,8 +4,8 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 344,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-07-27T17:00:00+00:00",
@@ -33,8 +33,8 @@
   "Tags": [],
   "EOS_Progressed": 250,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 4,
-  "EOS_NewCompleters": 2,
+  "EOS_NewPlayers": 3,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.8,
   "EosHistory": [
     {
@@ -575,8 +575,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-12-04T09:03:48.8894792+00:00",
+  "LastChanged_Achievements": "2023-12-04T10:03:31.4820551+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:20.0977038+00:00",
-  "LastUpdate_Ratings": "2023-12-04T08:58:26.5530799+00:00",
-  "LastUpdate_Achievements": "2023-12-04T09:03:48.88949+00:00"
+  "LastUpdate_Ratings": "2023-12-04T09:58:09.3748765+00:00",
+  "LastUpdate_Achievements": "2023-12-04T10:03:31.4820654+00:00"
 }

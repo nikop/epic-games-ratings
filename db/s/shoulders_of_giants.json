@@ -2,7 +2,7 @@
   "ID": "fa7346c113ff48d8b9a1b48f44a3a48e",
   "Name": "Shoulders of Giants",
   "ProductSlug": "shoulders-of-giants-61381f",
-  "Ranking_Rating": 818,
+  "Ranking_Rating": 794,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 221,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.33,
+  "Rating": 4.35,
   "RatingHistory": [
     {
       "Time": "2023-03-08T19:57:26.4841995+00:00",
@@ -85,6 +85,12 @@
     {
       "Time": "2023-11-30T08:59:12.4832589+00:00",
       "Rating": 4.33,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-04T09:57:32.2251726+00:00",
+      "Rating": 4.35,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -2057,9 +2063,9 @@
   "FirstSeen": "2023-01-26T15:57:54.151819+00:00",
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
-  "LastChanged": "2023-11-30T08:59:12.4832587+00:00",
-  "LastChanged_Achievements": "2023-12-04T09:04:06.6470231+00:00",
+  "LastChanged": "2023-12-04T09:57:32.2251724+00:00",
+  "LastChanged_Achievements": "2023-12-04T10:03:49.4678847+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:01.8595269+00:00",
-  "LastUpdate_Ratings": "2023-12-04T08:57:49.7958116+00:00",
-  "LastUpdate_Achievements": "2023-12-04T09:04:06.6470451+00:00"
+  "LastUpdate_Ratings": "2023-12-04T09:57:32.225173+00:00",
+  "LastUpdate_Achievements": "2023-12-04T10:03:49.4679045+00:00"
 }

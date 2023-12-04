@@ -4,13 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Escape from Fleed | 22.00% | ~2 |
+| First Contact | 22.00% | ~2 |
 | Strength in Defeat | 22.00% | ~2 |
 | A Good Paint Job | 22.00% | ~2 |
+| Technology first! | 22.00% | ~2 |
 | The Power of Friendship | 11.00% | ~1 |
-| Escape from Fleed | 11.00% | ~1 |
 | The Remains of Fleed | 11.00% | ~1 |
 | Life of Pi | 11.00% | ~1 |
-| Technology first! | 11.00% | ~1 |
 | The Keeper of Fleed | 11.00% | ~1 |
 | The Planner | 11.00% | ~1 |
 | Iron Fist | 11.00% | ~1 |
@@ -20,7 +21,6 @@
 | The Vega Turtle | 11.00% | ~1 |
 | Gold Seeker | 0.00% | ~0 |
 | A Land of Peace | 0.00% | ~0 |
-| First Contact | 0.00% | ~0 |
 | Earth's Savior | 0.00% | ~0 |
 | You can't fool me! | 0.00% | ~0 |
 | The Collector | 0.00% | ~0 |

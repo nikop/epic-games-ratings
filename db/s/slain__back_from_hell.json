@@ -244,9 +244,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 41453,
+  "EOS_Progressed": 41455,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 372,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -25044,6 +25044,11 @@
       "Time": "2023-12-04T09:03:36.9355192+00:00",
       "NumProgressed": 41453,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-04T10:03:19.6965718+00:00",
+      "NumProgressed": 41455,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 29,
@@ -25063,7 +25068,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8705
+      "UsersEstimate": 8706
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -25286,7 +25291,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 41453,
+      "Progressed": 41455,
       "Completed": 28
     }
   ],
@@ -25294,8 +25299,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-02T18:57:45.107059+00:00",
-  "LastChanged_Achievements": "2023-12-04T09:03:36.9355189+00:00",
+  "LastChanged_Achievements": "2023-12-04T10:03:19.6965714+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:11.7949704+00:00",
-  "LastUpdate_Ratings": "2023-12-04T08:58:24.2773208+00:00",
-  "LastUpdate_Achievements": "2023-12-04T09:03:36.9356512+00:00"
+  "LastUpdate_Ratings": "2023-12-04T09:58:07.161476+00:00",
+  "LastUpdate_Achievements": "2023-12-04T10:03:19.6966947+00:00"
 }

@@ -6,32 +6,32 @@ Rating: 4.74 (Ranked 158)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Last Night...Did We... | 92.00% | ~9,804 |
-| I Challenge You To Save More Money! | 86.00% | ~9,164 |
-| I Love How Tough You Are | 73.00% | ~7,779 |
-| Wanna Come To My Place For Dinner? | 66.00% | ~7,033 |
-| What I Want Is You | 61.00% | ~6,500 |
-| To Be Or Not To Be | 58.00% | ~6,180 |
+| I Challenge You To Save More Money! | 86.00% | ~9,165 |
+| I Love How Tough You Are | 73.00% | ~7,780 |
+| Wanna Come To My Place For Dinner? | 66.00% | ~7,034 |
+| What I Want Is You | 61.00% | ~6,501 |
+| To Be Or Not To Be | 58.00% | ~6,181 |
 | Are You Alright? | 50.00% | ~5,328 |
 | Love Actually | 48.00% | ~5,115 |
 | Drama King | 42.00% | ~4,476 |
 | You're Really Something Else | 37.00% | ~3,943 |
-| Go Clean up In Your Own Way | 36.00% | ~3,836 |
+| Go Clean up In Your Own Way | 36.00% | ~3,837 |
 | Happy Family | 35.00% | ~3,730 |
 | Worthless Speech | 35.00% | ~3,730 |
 | ONE PUNCH | 34.00% | ~3,623 |
 | FIRST LOVE | 34.00% | ~3,623 |
 | Drama CP: Reel to Real | 34.00% | ~3,623 |
-| Absolutely Elegant | 33.00% | ~3,516 |
+| Absolutely Elegant | 33.00% | ~3,517 |
 | Still Single | 32.00% | ~3,410 |
 | Days Of Innocence | 30.00% | ~3,197 |
-| Go Get Some Fries On The Pier | 29.00% | ~3,090 |
-| David | 29.00% | ~3,090 |
+| Go Get Some Fries On The Pier | 29.00% | ~3,091 |
+| David | 29.00% | ~3,091 |
 | All I Have Is Money | 25.00% | ~2,664 |
 | A Slap In The Face! | 25.00% | ~2,664 |
-| Lover In Dark Alley | 24.00% | ~2,557 |
-| Let Me Be Your Toy Boy | 24.00% | ~2,557 |
-| That's So You | 24.00% | ~2,557 |
-| SALUTE | 24.00% | ~2,557 |
+| Lover In Dark Alley | 24.00% | ~2,558 |
+| Let Me Be Your Toy Boy | 24.00% | ~2,558 |
+| That's So You | 24.00% | ~2,558 |
+| SALUTE | 24.00% | ~2,558 |
 | Off We Sail Tonight | 19.00% | ~2,025 |
 | Love You Three Thousand | 16.00% | ~1,705 |
 | Can You Do This Or Not? | 16.00% | ~1,705 |
@@ -41,14 +41,14 @@ Rating: 4.74 (Ranked 158)
 | My Dear Love! | 9.00% | ~959 |
 | Counting Sheep? | 9.00% | ~959 |
 | This Ain't Right In Many Ways... | 9.00% | ~959 |
-| Life Is A Rollercoaster | 8.00% | ~852 |
-| Boys Need To Protect Themselves | 8.00% | ~852 |
-| Stubborn Noob | 8.00% | ~852 |
+| Life Is A Rollercoaster | 8.00% | ~853 |
+| Boys Need To Protect Themselves | 8.00% | ~853 |
+| Stubborn Noob | 8.00% | ~853 |
 | Hurrah! | 2.00% | ~213 |
 | Tall; Grande; Venti | 2.00% | ~213 |
 | Limerence | 2.00% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,656 (Ranked 164)  
+Progressed: 10,657 (Ranked 164)  
 Completed: 188 (1.76%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 188 (1.76%) (Ranked 136)
 | 2023-12-01 | 10,506 | 183 |
 | 2023-12-02 | 10,578 | 187 |
 | 2023-12-03 | 10,641 | 188 |
-| 2023-12-04 | 10,656 | 188 |
+| 2023-12-04 | 10,657 | 188 |
 ## Awards
 Max (Impact the Story): 23  (Ranked 535)  
 Sum: 23 (Ranked 537)  

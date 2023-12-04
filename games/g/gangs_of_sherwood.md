@@ -13,14 +13,14 @@
 | Watch your Step! | 55.00% | ~31 |
 | MAX LEVEL | 55.00% | ~31 |
 | Right between the eyes | 52.00% | ~29 |
-| Spring Board | 48.00% | ~27 |
+| Spring Board | 50.00% | ~28 |
 | Starry Night | 45.00% | ~25 |
 | Rebel Unleashed | 41.00% | ~23 |
 | Locksley's Tears | 36.00% | ~20 |
 | Finish Him! | 34.00% | ~19 |
 | Merry Co-operation | 32.00% | ~18 |
 | Assault on the Ram | 32.00% | ~18 |
-| Savior | 27.00% | ~15 |
+| Savior | 29.00% | ~16 |
 | Ultra Rebel Instinct | 27.00% | ~15 |
 | Take Action! | 23.00% | ~13 |
 | Merry Go Round | 23.00% | ~13 |

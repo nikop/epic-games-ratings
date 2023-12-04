@@ -24,10 +24,10 @@ Number of Ratings: 7,683  (23.09.2022)
 | Vehicle fleet | 22.00% | ~12,041 |
 | You wood not believe it | 21.00% | ~11,494 |
 | Well-Oiled Machine | 16.00% | ~8,757 |
+| Long haul | 16.00% | ~8,757 |
 | Clucky Streak | 15.00% | ~8,210 |
 | The plot thickens | 15.00% | ~8,210 |
 | Large-scale supplier | 15.00% | ~8,210 |
-| Long haul | 15.00% | ~8,210 |
 | That's a wrap | 14.00% | ~7,663 |
 | Fix me up | 12.00% | ~6,568 |
 | It's sow easy | 11.00% | ~6,021 |

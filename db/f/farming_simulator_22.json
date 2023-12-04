@@ -12008,7 +12008,7 @@
   ],
   "EOS_Progressed": 54733,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1022,
+  "EOS_NewPlayers": 1015,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -33322,9 +33322,9 @@
       "ID": "TruckDriving",
       "SetID": "636ci4d",
       "Name": "Long haul",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8210
+      "UsersEstimate": 8757
     },
     {
       "ID": "VehicleRepaint",
@@ -33362,8 +33362,8 @@
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-12-04T08:57:53.9351312+00:00",
-  "LastChanged_Achievements": "2023-12-04T09:08:22.3294799+00:00",
+  "LastChanged_Achievements": "2023-12-04T10:06:14.344555+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:33.2145586+00:00",
-  "LastUpdate_Ratings": "2023-12-04T08:57:53.9351319+00:00",
-  "LastUpdate_Achievements": "2023-12-04T09:08:22.3296318+00:00"
+  "LastUpdate_Ratings": "2023-12-04T09:57:36.8655377+00:00",
+  "LastUpdate_Achievements": "2023-12-04T10:06:14.3447115+00:00"
 }

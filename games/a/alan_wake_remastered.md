@@ -6,34 +6,34 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 58.00% | ~56,463 |
+| Follow the Light | 58.00% | ~56,464 |
 | Let There Be Light | 49.00% | ~47,702 |
-| Float Like a Butterfly | 47.00% | ~45,754 |
-| Nordic Walking | 39.00% | ~37,966 |
+| Float Like a Butterfly | 47.00% | ~45,755 |
+| Nordic Walking | 39.00% | ~37,967 |
 | Bright Falls' Finest | 38.00% | ~36,993 |
 | Under a Thin Layer of Skin | 34.00% | ~33,099 |
-| Park Ranger | 29.00% | ~28,231 |
-| Paging Mr. Wake | 29.00% | ~28,231 |
-| Back! Back, I Say! | 27.00% | ~26,284 |
-| Finders Keepers | 27.00% | ~26,284 |
+| Park Ranger | 29.00% | ~28,232 |
+| Paging Mr. Wake | 29.00% | ~28,232 |
+| Back! Back, I Say! | 27.00% | ~26,285 |
+| Finders Keepers | 27.00% | ~26,285 |
 | Damn Good Cup of Coffee | 25.00% | ~24,338 |
 | They're Heeeeeere! | 24.00% | ~23,364 |
 | Sound and Fury | 24.00% | ~23,364 |
 | Missed by a Mile | 24.00% | ~23,364 |
-| Wheels Within Wheels | 23.00% | ~22,390 |
+| Wheels Within Wheels | 23.00% | ~22,391 |
 | The Six-Gun Scribe | 22.00% | ~21,417 |
 | Heavy Metal | 21.00% | ~20,444 |
 | Iron Horse | 21.00% | ~20,444 |
 | Collateral Carnage | 21.00% | ~20,444 |
 | Come One, Come All | 21.00% | ~20,444 |
 | Perchance to Dream | 20.00% | ~19,470 |
-| It's Not Just a Typewriter Brand | 19.00% | ~18,496 |
-| Thunder and Lightning | 19.00% | ~18,496 |
+| It's Not Just a Typewriter Brand | 19.00% | ~18,497 |
+| Thunder and Lightning | 19.00% | ~18,497 |
 | Gatekeeper | 18.00% | ~17,523 |
 | Two For the Price of One | 18.00% | ~17,523 |
 | The Lady of the Light | 17.00% | ~16,550 |
 | Energized! | 17.00% | ~16,550 |
-| Right of Way | 15.00% | ~14,602 |
+| Right of Way | 15.00% | ~14,603 |
 | What Light Through Yonder Window | 14.00% | ~13,629 |
 | Tornado Wrangler | 13.00% | ~12,656 |
 | Departure | 12.00% | ~11,682 |
@@ -50,8 +50,8 @@ Number of Ratings: 524  (23.09.2022)
 | An Idyllic Small Town | 4.00% | ~3,894 |
 | Kill Your Darlings | 4.00% | ~2,433 |
 | Heartbreaker | 4.00% | ~2,433 |
-| Medical Opinions | 3.00% | ~2,920 |
-| Taken Season | 3.00% | ~2,920 |
+| Medical Opinions | 3.00% | ~2,921 |
+| Taken Season | 3.00% | ~2,921 |
 | Couch Potato | 2.00% | ~1,947 |
 | Iron Will | 2.00% | ~1,216 |
 | Go Gentle Into That Good Light | 1.00% | ~608 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | No Punctuation | 0.20% | ~122 |
 | Licensed Properties | 0.20% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,350 (Ranked 90)  
+Progressed: 97,351 (Ranked 90)  
 Completed: 107 (0.11%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 107 (0.11%) (Ranked 283)
 | 2023-12-01 | 96,988 | 106 |
 | 2023-12-02 | 97,127 | 106 |
 | 2023-12-03 | 97,314 | 107 |
-| 2023-12-04 | 97,350 | 107 |
+| 2023-12-04 | 97,351 | 107 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

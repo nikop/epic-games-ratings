@@ -9,18 +9,18 @@ Number of Ratings: 70,340  (23.09.2022)
 | Zealous | 1.00% | ~10,684 |
 | It wakes | 1.00% | ~10,684 |
 | Skillful | 1.00% | ~10,684 |
-| Not half bad | 0.90% | ~9,615 |
+| Not half bad | 0.90% | ~9,616 |
+| Apt Survivor | 0.80% | ~8,547 |
 | Make Some Noise | 0.80% | ~8,547 |
 | Handyman | 0.70% | ~7,479 |
-| Apt Survivor | 0.70% | ~7,479 |
 | Survival Treasures | 0.70% | ~7,479 |
 | I | 0.70% | ~7,479 |
-| No one left behind | 0.60% | ~6,410 |
-| Medic | 0.60% | ~6,410 |
-| Sorted | 0.60% | ~6,410 |
-| Healthy Obsession | 0.60% | ~6,410 |
-| Resurgence | 0.60% | ~6,410 |
-| Preemptive Strike | 0.60% | ~6,410 |
+| No one left behind | 0.60% | ~6,411 |
+| Medic | 0.60% | ~6,411 |
+| Sorted | 0.60% | ~6,411 |
+| Healthy Obsession | 0.60% | ~6,411 |
+| Resurgence | 0.60% | ~6,411 |
+| Preemptive Strike | 0.60% | ~6,411 |
 | The Grand Sacrifice | 0.50% | ~5,342 |
 | Agonizing Escape | 0.50% | ~5,342 |
 | Backdoor Escape | 0.50% | ~5,342 |
@@ -29,13 +29,13 @@ Number of Ratings: 70,340  (23.09.2022)
 | II | 0.50% | ~5,342 |
 | Close Shave | 0.50% | ~5,342 |
 | Humanitarian | 0.50% | ~5,342 |
-| I've got your back | 0.40% | ~4,273 |
-| Perfect Killing | 0.40% | ~4,273 |
-| Apt Killer | 0.40% | ~4,273 |
-| Risk it all | 0.40% | ~4,273 |
-| III | 0.40% | ~4,273 |
-| Engineer | 0.40% | ~4,273 |
-| Wounded Healer | 0.40% | ~4,273 |
+| I've got your back | 0.40% | ~4,274 |
+| Perfect Killing | 0.40% | ~4,274 |
+| Apt Killer | 0.40% | ~4,274 |
+| Risk it all | 0.40% | ~4,274 |
+| III | 0.40% | ~4,274 |
+| Engineer | 0.40% | ~4,274 |
+| Wounded Healer | 0.40% | ~4,274 |
 | Blood on your hands | 0.30% | ~3,205 |
 | Escape Artist | 0.30% | ~3,205 |
 | Gifts for the Fog | 0.30% | ~3,205 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,068 |
 | Adept Good Guy | 0.10% | ~1,068 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,068,361 (Ranked 14)  
+Progressed: 1,068,423 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -467,7 +467,7 @@ Completed: 61 (0.01%) (Ranked 345)
 | 2023-12-01 | 1,059,298 | 61 |
 | 2023-12-02 | 1,062,340 | 61 |
 | 2023-12-03 | 1,067,390 | 61 |
-| 2023-12-04 | 1,068,361 | 61 |
+| 2023-12-04 | 1,068,423 | 61 |
 ## Awards
 Max (Diverse Characters): 37,218  (Ranked 15)  
 Sum: 282,686 (Ranked 12)  

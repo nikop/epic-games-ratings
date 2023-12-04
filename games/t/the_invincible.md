@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 58.00% | ~295 |
-| The Teleprobe | 46.00% | ~234 |
+| The Camp | 58.00% | ~296 |
+| The Teleprobe | 46.00% | ~235 |
 | The City | 42.00% | ~214 |
-| The field base | 37.00% | ~188 |
+| The field base | 37.00% | ~189 |
 | Survivors | 30.00% | ~153 |
 | The Condor | 28.00% | ~143 |
 | The End | 28.00% | ~143 |
@@ -25,16 +25,16 @@
 | Another giant | 9.00% | ~46 |
 | Violent solution | 8.00% | ~41 |
 | Innate curiosity | 7.00% | ~36 |
-| The Invincible | 6.00% | ~31 |
 | I leave no man behind | 6.00% | ~31 |
-| Strong objection | 5.00% | ~25 |
+| The Invincible | 5.00% | ~26 |
+| Strong objection | 5.00% | ~26 |
 | Ubiquitous holes | 4.00% | ~20 |
 | Got lost again | 4.00% | ~20 |
 | I leave no man behind (no exceptions) | 2.00% | ~10 |
 | Convoy list | 1.00% | ~5 |
 | No more mistakes | 0.60% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 509 (Ranked 312)  
+Progressed: 510 (Ranked 312)  
 Completed: 0 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,4 +63,4 @@ Completed: 0 (0.00%) (Ranked 366)
 | 2023-12-01 | 480 | 0 |
 | 2023-12-02 | 492 | 0 |
 | 2023-12-03 | 508 | 0 |
-| 2023-12-04 | 509 | 0 |
+| 2023-12-04 | 510 | 0 |
