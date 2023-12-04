@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 75911,
+  "EOS_Progressed": 75912,
   "EOS_Completed": 407,
-  "EOS_NewPlayers": 578,
+  "EOS_NewPlayers": 577,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -25393,6 +25393,11 @@
       "Time": "2023-12-04T02:32:34.8376036+00:00",
       "NumProgressed": 75911,
       "NumCompleted": 407
+    },
+    {
+      "Time": "2023-12-04T03:09:30.7224471+00:00",
+      "NumProgressed": 75912,
+      "NumCompleted": 407
     }
   ],
   "TotalAchievements": 24,
@@ -25412,7 +25417,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16700
+      "UsersEstimate": 16701
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -25428,7 +25433,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16700
+      "UsersEstimate": 16701
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -25444,7 +25449,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15941
+      "UsersEstimate": 15942
     },
     {
       "ID": "FETCH",
@@ -25548,7 +25553,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 15941
+      "UsersEstimate": 15942
     },
     {
       "ID": "SPIRIT_DASH",
@@ -25595,7 +25600,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 75911,
+      "Progressed": 75912,
       "Completed": 407
     }
   ],
@@ -25603,8 +25608,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-12-04T02:32:34.8376031+00:00",
+  "LastChanged_Achievements": "2023-12-04T03:09:30.7224468+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:18.159527+00:00",
-  "LastUpdate_Ratings": "2023-12-04T02:23:42.0854021+00:00",
-  "LastUpdate_Achievements": "2023-12-04T02:32:34.8377167+00:00"
+  "LastUpdate_Ratings": "2023-12-04T03:01:20.881562+00:00",
+  "LastUpdate_Achievements": "2023-12-04T03:09:30.722612+00:00"
 }

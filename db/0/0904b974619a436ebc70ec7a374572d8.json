@@ -294,9 +294,9 @@
       "ID": "ach_picklock23",
       "SetID": "753ghg2",
       "Name": "Tuning Center",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 45,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_picklock24",
@@ -334,9 +334,9 @@
       "ID": "ach_picklock6",
       "SetID": "753ghg2",
       "Name": "Great bike, bro",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_picklock7",
@@ -350,17 +350,17 @@
       "ID": "ach_picklock8",
       "SetID": "753ghg2",
       "Name": "Meat",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_picklock9",
       "SetID": "753ghg2",
       "Name": "I, the millionaire!",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -373,8 +373,8 @@
   ],
   "FirstSeen": "2023-11-03T03:57:37.1640095+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2023-12-04T02:32:51.1260895+00:00",
+  "LastChanged_Achievements": "2023-12-04T03:09:53.7621271+00:00",
   "LastUpdate_AppInfo": "2023-11-29T07:56:58.8766108+00:00",
-  "LastUpdate_Ratings": "2023-12-04T02:26:39.0612958+00:00",
-  "LastUpdate_Achievements": "2023-12-04T02:32:51.1261042+00:00"
+  "LastUpdate_Ratings": "2023-12-04T03:02:56.1428436+00:00",
+  "LastUpdate_Achievements": "2023-12-04T03:09:53.7621415+00:00"
 }

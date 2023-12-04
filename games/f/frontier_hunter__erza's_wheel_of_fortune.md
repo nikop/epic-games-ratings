@@ -15,11 +15,11 @@
 | Apostle of Flame | 36.00% | ~191 |
 | Beginner Cook | 35.00% | ~186 |
 | Beginner Artificer | 35.00% | ~186 |
-| Seal Breaker | 30.00% | ~159 |
+| Seal Breaker | 31.00% | ~165 |
 | Handyman | 27.00% | ~143 |
 | Giant Lizard Killer | 26.00% | ~138 |
 | Guardian | 25.00% | ~133 |
-| Nosebleeder | 24.00% | ~127 |
+| Nosebleeder | 25.00% | ~133 |
 | Trader | 21.00% | ~112 |
 | Weapon Boost | 20.00% | ~106 |
 | Flying Kobold Killer | 17.00% | ~90 |

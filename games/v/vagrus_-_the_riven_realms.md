@@ -54,6 +54,7 @@
 | Legacy of a Mercenary | 1.00% | ~2 |
 | Trailblazer | 1.00% | ~2 |
 | Moving At Odd Angles | 1.00% | ~2 |
+| Escort | 1.00% | ~2 |
 | The Darkness Within | 1.00% | ~2 |
 | Ruiner | 1.00% | ~2 |
 | What Lies Below | 1.00% | ~2 |
@@ -70,7 +71,6 @@
 | Manticore | 0.50% | ~1 |
 | Huntsmaster | 0.50% | ~1 |
 | Mercenary | 0.50% | ~1 |
-| Escort | 0.50% | ~1 |
 | Despoiler | 0.50% | ~1 |
 | Celebrity | 0.50% | ~1 |
 | Arcanite | 0.50% | ~1 |

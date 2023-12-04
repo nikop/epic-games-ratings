@@ -2,7 +2,7 @@
   "ID": "0e9ae0e756524ed49a27435c9c3c3e1c",
   "Name": "Chess Ultra",
   "ProductSlug": "chess-ultra-91bba3",
-  "Ranking_Rating": 839,
+  "Ranking_Rating": 840,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 71,
@@ -451,7 +451,7 @@
   "Tags": [],
   "EOS_Progressed": 220563,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1000,
+  "EOS_NewPlayers": 996,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26701,8 +26701,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-12-01T13:07:49.2205342+00:00",
-  "LastChanged_Achievements": "2023-12-04T02:30:18.5484575+00:00",
+  "LastChanged_Achievements": "2023-12-04T03:08:12.3462698+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:19.3584195+00:00",
-  "LastUpdate_Ratings": "2023-12-04T02:21:49.4127055+00:00",
-  "LastUpdate_Achievements": "2023-12-04T02:30:18.5486132+00:00"
+  "LastUpdate_Ratings": "2023-12-04T02:58:27.376488+00:00",
+  "LastUpdate_Achievements": "2023-12-04T03:08:12.3464019+00:00"
 }

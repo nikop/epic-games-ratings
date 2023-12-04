@@ -337,7 +337,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 236639,
+  "EOS_Progressed": 236642,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 0,
@@ -24242,6 +24242,11 @@
       "Time": "2023-12-04T02:29:04.0896837+00:00",
       "NumProgressed": 236639,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-04T03:06:26.5887532+00:00",
+      "NumProgressed": 236642,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -24269,7 +24274,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 66259
+      "UsersEstimate": 66260
     },
     {
       "ID": "CENTAUR",
@@ -24285,7 +24290,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 26030
+      "UsersEstimate": 26031
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -24389,7 +24394,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 78091
+      "UsersEstimate": 78092
     },
     {
       "ID": "NOBUNAGA",
@@ -24517,22 +24522,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 97022
+      "UsersEstimate": 97023
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 236639,
+      "Progressed": 236642,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-12-04T02:29:04.0896833+00:00",
+  "LastChanged_Achievements": "2023-12-04T03:06:26.588753+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:57.5074275+00:00",
-  "LastUpdate_Ratings": "2023-12-04T02:21:18.4653016+00:00",
-  "LastUpdate_Achievements": "2023-12-04T02:29:04.0898196+00:00"
+  "LastUpdate_Ratings": "2023-12-04T02:57:40.6302364+00:00",
+  "LastUpdate_Achievements": "2023-12-04T03:06:26.5888689+00:00"
 }

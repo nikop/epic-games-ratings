@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 521,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
@@ -1461,9 +1461,9 @@
       "ID": "ach_main05evil_unicorn",
       "SetID": "4hg22ll",
       "Name": "Unicorn steaks\u00A0\u2013 fresh off the hoof!",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 313
+      "UsersEstimate": 318
     },
     {
       "ID": "ach_main06transporter_completed",
@@ -1765,9 +1765,9 @@
       "ID": "ach_main18unholy_completed",
       "SetID": "4hg22ll",
       "Name": "The Rune Sockets of Finitude (Part 1)",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 89
     },
     {
       "ID": "ach_main18unholy_researches",
@@ -1844,8 +1844,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-04T02:30:45.3447189+00:00",
+  "LastChanged_Achievements": "2023-12-04T03:08:50.3616959+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:15.3424787+00:00",
-  "LastUpdate_Ratings": "2023-12-04T02:23:01.6598164+00:00",
-  "LastUpdate_Achievements": "2023-12-04T02:30:45.3447666+00:00"
+  "LastUpdate_Ratings": "2023-12-04T03:00:17.5606289+00:00",
+  "LastUpdate_Achievements": "2023-12-04T03:08:50.3617476+00:00"
 }

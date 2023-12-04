@@ -1614,9 +1614,9 @@
       "ID": "AchvReachCity",
       "SetID": "1hj060c",
       "Name": "The City",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 213
     },
     {
       "ID": "AchvReachCondor",
@@ -1669,8 +1669,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-04T02:32:19.5968038+00:00",
+  "LastChanged_Achievements": "2023-12-04T03:09:09.3475158+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.6526822+00:00",
-  "LastUpdate_Ratings": "2023-12-04T02:21:16.9931042+00:00",
-  "LastUpdate_Achievements": "2023-12-04T02:32:19.5968259+00:00"
+  "LastUpdate_Ratings": "2023-12-04T02:57:38.3765203+00:00",
+  "LastUpdate_Achievements": "2023-12-04T03:09:09.3475339+00:00"
 }

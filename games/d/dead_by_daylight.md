@@ -6,36 +6,36 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 1.00% | ~10,678 |
-| Skillful | 1.00% | ~10,678 |
+| It wakes | 1.00% | ~10,679 |
+| Skillful | 1.00% | ~10,679 |
 | Zealous | 0.90% | ~9,611 |
-| Not half bad | 0.80% | ~8,543 |
+| Not half bad | 0.90% | ~9,611 |
 | Make Some Noise | 0.80% | ~8,543 |
+| Handyman | 0.70% | ~7,475 |
 | Apt Survivor | 0.70% | ~7,475 |
 | Survival Treasures | 0.70% | ~7,475 |
 | I | 0.70% | ~7,475 |
 | No one left behind | 0.60% | ~6,407 |
 | Medic | 0.60% | ~6,407 |
-| Handyman | 0.60% | ~6,407 |
 | Sorted | 0.60% | ~6,407 |
 | Healthy Obsession | 0.60% | ~6,407 |
 | Resurgence | 0.60% | ~6,407 |
 | Preemptive Strike | 0.60% | ~6,407 |
-| The Grand Sacrifice | 0.50% | ~5,339 |
-| Backdoor Escape | 0.50% | ~5,339 |
-| Perfect Escape | 0.50% | ~5,339 |
-| Bloody Millionaire | 0.50% | ~5,339 |
-| II | 0.50% | ~5,339 |
-| Close Shave | 0.50% | ~5,339 |
-| Humanitarian | 0.50% | ~5,339 |
-| Agonizing Escape | 0.40% | ~4,271 |
-| I've got your back | 0.40% | ~4,271 |
-| Perfect Killing | 0.40% | ~4,271 |
-| Apt Killer | 0.40% | ~4,271 |
-| Risk it all | 0.40% | ~4,271 |
-| III | 0.40% | ~4,271 |
-| Engineer | 0.40% | ~4,271 |
-| Wounded Healer | 0.40% | ~4,271 |
+| The Grand Sacrifice | 0.50% | ~5,340 |
+| Backdoor Escape | 0.50% | ~5,340 |
+| Perfect Escape | 0.50% | ~5,340 |
+| Bloody Millionaire | 0.50% | ~5,340 |
+| II | 0.50% | ~5,340 |
+| Close Shave | 0.50% | ~5,340 |
+| Humanitarian | 0.50% | ~5,340 |
+| Agonizing Escape | 0.40% | ~4,272 |
+| I've got your back | 0.40% | ~4,272 |
+| Perfect Killing | 0.40% | ~4,272 |
+| Apt Killer | 0.40% | ~4,272 |
+| Risk it all | 0.40% | ~4,272 |
+| III | 0.40% | ~4,272 |
+| Engineer | 0.40% | ~4,272 |
+| Wounded Healer | 0.40% | ~4,272 |
 | Blood on your hands | 0.30% | ~3,204 |
 | Escape Artist | 0.30% | ~3,204 |
 | Gifts for the Fog | 0.30% | ~3,204 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,068 |
 | Adept Good Guy | 0.10% | ~1,068 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,067,844 (Ranked 14)  
+Progressed: 1,067,901 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -467,7 +467,7 @@ Completed: 61 (0.01%) (Ranked 345)
 | 2023-12-01 | 1,059,298 | 61 |
 | 2023-12-02 | 1,062,340 | 61 |
 | 2023-12-03 | 1,067,390 | 61 |
-| 2023-12-04 | 1,067,844 | 61 |
+| 2023-12-04 | 1,067,901 | 61 |
 ## Awards
 Max (Diverse Characters): 37,218  (Ranked 15)  
 Sum: 282,686 (Ranked 12)  

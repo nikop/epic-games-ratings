@@ -1,24 +1,24 @@
 # Ghostrunner
 [Store](https://store.epicgames.com/en-US/p/ghostrunner)  
 [View Rawdata](../../db/g/ghostrunner.json)  
-Rating: 4.72 (Ranked 184)  
+Rating: 4.72 (Ranked 185)  
 Number of Ratings: 1,047  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~17,974 |
-| Sword Runner | 61.00% | ~14,426 |
-| Running out of breath | 54.00% | ~12,771 |
-| Wallrunner | 53.00% | ~12,534 |
-| Homerunner | 45.00% | ~10,642 |
+| Longrunner | 76.00% | ~17,975 |
+| Sword Runner | 61.00% | ~14,427 |
+| Running out of breath | 54.00% | ~12,772 |
+| Wallrunner | 53.00% | ~12,535 |
+| Homerunner | 45.00% | ~10,643 |
 | Out of order | 44.00% | ~10,406 |
 | I call it luck | 43.00% | ~10,170 |
 | Where are my Keys? | 40.00% | ~9,460 |
-| Back to hell | 37.00% | ~8,750 |
+| Back to hell | 37.00% | ~8,751 |
 | Perfection | 32.00% | ~7,568 |
 | Why not both | 30.00% | ~7,095 |
-| Sword to a gunfight | 29.00% | ~6,858 |
-| Upgrades not mandatory | 29.00% | ~6,858 |
+| Sword to a gunfight | 29.00% | ~6,859 |
+| Upgrades not mandatory | 29.00% | ~6,859 |
 | Artificial selection | 28.00% | ~6,622 |
 | Control freak | 27.00% | ~6,386 |
 | Running Wild | 27.00% | ~6,386 |
@@ -32,10 +32,10 @@ Number of Ratings: 1,047  (23.09.2022)
 | Pre-empative strike | 12.00% | ~2,838 |
 | Strike | 12.00% | ~2,838 |
 | More than human | 11.00% | ~2,602 |
-| Triple A | 9.00% | ~2,128 |
+| Triple A | 9.00% | ~2,129 |
 | Fine addition | 6.00% | ~1,419 |
 | One Of Those Days | 6.00% | ~1,419 |
-| Where He Stood | 5.00% | ~1,182 |
+| Where He Stood | 5.00% | ~1,183 |
 | Push it to the limit | 4.00% | ~946 |
 | Scrapped | 4.00% | ~946 |
 | About Adam | 3.00% | ~710 |
@@ -43,7 +43,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Strafing Run | 3.00% | ~710 |
 | Junkrunner | 2.00% | ~473 |
 | One man's trash | 2.00% | ~473 |
-| Hit me if you can | 1.00% | ~236 |
+| Hit me if you can | 1.00% | ~237 |
 | Obedient Machine | 0.90% | ~213 |
 | Everyone Needs A Hobby | 0.70% | ~166 |
 | Legacy Drivers | 0.50% | ~118 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~95 |
 | Up Close And Personal | 0.40% | ~95 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,650 (Ranked 135)  
+Progressed: 23,651 (Ranked 135)  
 Completed: 93 (0.39%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 93 (0.39%) (Ranked 224)
 | 2023-12-01 | 23,497 | 91 |
 | 2023-12-02 | 23,563 | 91 |
 | 2023-12-03 | 23,644 | 93 |
-| 2023-12-04 | 23,650 | 93 |
+| 2023-12-04 | 23,651 | 93 |
 ## Awards
 Max (Great Boss Battles): 523  (Ranked 210)  
 Sum: 756 (Ranked 287)  

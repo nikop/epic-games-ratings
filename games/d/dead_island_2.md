@@ -5,19 +5,19 @@ Rating: 4.54 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,662 |
-| Pork Chopped | 3.00% | ~1,662 |
-| Dr. Reed, I Presume? | 2.00% | ~14,597 |
-| Git Gutte! | 2.00% | ~14,597 |
-| Bookworm | 2.00% | ~14,597 |
-| Break A Leg | 2.00% | ~14,597 |
-| Coup de Grâce | 2.00% | ~14,597 |
-| Hazardous Materials | 2.00% | ~14,597 |
-| Friends Like These | 2.00% | ~14,597 |
-| Hotel California | 2.00% | ~14,597 |
-| Apex Predator | 2.00% | ~14,597 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,597 |
-| Welcome To Hell-A | 2.00% | ~14,597 |
+| Whatever It Takes | 3.00% | ~1,663 |
+| Pork Chopped | 3.00% | ~1,663 |
+| Dr. Reed, I Presume? | 2.00% | ~14,598 |
+| Git Gutte! | 2.00% | ~14,598 |
+| Bookworm | 2.00% | ~14,598 |
+| Break A Leg | 2.00% | ~14,598 |
+| Coup de Grâce | 2.00% | ~14,598 |
+| Hazardous Materials | 2.00% | ~14,598 |
+| Friends Like These | 2.00% | ~14,598 |
+| Hotel California | 2.00% | ~14,598 |
+| Apex Predator | 2.00% | ~14,598 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,598 |
+| Welcome To Hell-A | 2.00% | ~14,598 |
 | One of Us | 2.00% | ~1,108 |
 | Making Your Mark | 1.00% | ~7,299 |
 | Anger Management | 1.00% | ~7,299 |
@@ -46,8 +46,8 @@ Rating: 4.54 (Ranked 529)
 | Make it So | 0.50% | ~3,649 |
 | On Safari | 0.50% | ~3,649 |
 | Variety is the Spice of Death | 0.50% | ~3,649 |
-| LA Influential | 0.40% | ~2,919 |
-| Gore Horse | 0.40% | ~2,919 |
+| LA Influential | 0.40% | ~2,920 |
+| Gore Horse | 0.40% | ~2,920 |
 | Top That, Tisha! | 0.40% | ~222 |
 | Sole Survivor | 0.30% | ~2,190 |
 | Sharpest Tool in the Box | 0.30% | ~2,190 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 529)
 | Bucket List | 0.10% | ~730 |
 | Wilhelm | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 729,874 (Ranked 21)  
+Progressed: 729,882 (Ranked 21)  
 Completed: 2,461 (0.34%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 2,461 (0.34%) (Ranked 232)
 | 2023-12-01 | 728,667 | 2,459 |
 | 2023-12-02 | 729,149 | 2,460 |
 | 2023-12-03 | 729,822 | 2,461 |
-| 2023-12-04 | 729,874 | 2,461 |
+| 2023-12-04 | 729,882 | 2,461 |
 ## Awards
 Max (Great Boss Battles): 7,892  (Ranked 49)  
 Sum: 12,110 (Ranked 82)  

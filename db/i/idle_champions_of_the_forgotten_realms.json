@@ -8447,10 +8447,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32719,
       "NumberOfAwardsMax": 5589
+    },
+    {
+      "Time": "2023-12-04T03:00:43.6400065+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32721,
+      "NumberOfAwardsMax": 5589
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32719,
+  "NumberOfAwards": 32721,
   "NumberOfAwardsMax": 5589,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8488,7 +8494,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4235
+      "Count": 4237
     },
     {
       "Text": "This game has Playful Visuals",
@@ -8497,9 +8503,9 @@
       "Count": 3552
     }
   ],
-  "EOS_Progressed": 238315,
+  "EOS_Progressed": 238320,
   "EOS_Completed": 2496,
-  "EOS_NewPlayers": 1146,
+  "EOS_NewPlayers": 1149,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -34087,6 +34093,11 @@
       "Time": "2023-12-04T02:33:12.219674+00:00",
       "NumProgressed": 238315,
       "NumCompleted": 2496
+    },
+    {
+      "Time": "2023-12-04T03:10:21.0167063+00:00",
+      "NumProgressed": 238320,
+      "NumCompleted": 2496
     }
   ],
   "TotalAchievements": 532,
@@ -38353,21 +38364,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 204589,
+      "Progressed": 204594,
       "Completed": 3956
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 238315,
+      "Progressed": 238320,
       "Completed": 2496
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-03T13:59:03.768277+00:00",
-  "LastChanged_Achievements": "2023-12-04T02:33:12.2196736+00:00",
+  "LastChanged": "2023-12-04T03:00:43.6400064+00:00",
+  "LastChanged_Achievements": "2023-12-04T03:10:21.0167061+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:02.8479395+00:00",
-  "LastUpdate_Ratings": "2023-12-04T02:23:18.1338108+00:00",
-  "LastUpdate_Achievements": "2023-12-04T02:33:12.2218714+00:00"
+  "LastUpdate_Ratings": "2023-12-04T03:00:43.6400069+00:00",
+  "LastUpdate_Achievements": "2023-12-04T03:10:21.0188651+00:00"
 }

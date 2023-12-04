@@ -991,7 +991,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 541294,
+  "EOS_Progressed": 541296,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 1258,
   "EOS_NewCompleters": 0,
@@ -26821,6 +26821,11 @@
       "Time": "2023-12-04T01:56:38.9713441+00:00",
       "NumProgressed": 541294,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-04T03:08:30.425539+00:00",
+      "NumProgressed": 541296,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -26832,7 +26837,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 146149
+      "UsersEstimate": 146150
     },
     {
       "ID": "Backdoor",
@@ -26856,7 +26861,7 @@
       "Name": "Bet Bet Bet",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 54129
+      "UsersEstimate": 54130
     },
     {
       "ID": "BlindmansBluff",
@@ -26864,7 +26869,7 @@
       "Name": "Blindman\u0027s Bluff",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 48716
+      "UsersEstimate": 48717
     },
     {
       "ID": "BluffingEh",
@@ -26984,7 +26989,7 @@
       "Name": "Handy",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 227343
+      "UsersEstimate": 227344
     },
     {
       "ID": "HoldingYourOwn",
@@ -27064,7 +27069,7 @@
       "Name": "Poker Joker",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 48716
+      "UsersEstimate": 48717
     },
     {
       "ID": "PokerShowdown",
@@ -27080,7 +27085,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 411383
+      "UsersEstimate": 411385
     },
     {
       "ID": "ProPlayer",
@@ -27184,14 +27189,14 @@
       "Name": "W.H.I.P.",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 64955
+      "UsersEstimate": 64956
     }
   ],
   "AchievementSets": [
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 541294,
+      "Progressed": 541296,
       "Completed": 2
     }
   ],
@@ -27199,8 +27204,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-11-29T22:57:38.4069669+00:00",
-  "LastChanged_Achievements": "2023-12-04T02:30:31.377842+00:00",
+  "LastChanged_Achievements": "2023-12-04T03:08:30.4255387+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:11.118442+00:00",
-  "LastUpdate_Ratings": "2023-12-04T02:23:32.2076875+00:00",
-  "LastUpdate_Achievements": "2023-12-04T02:30:31.3779564+00:00"
+  "LastUpdate_Ratings": "2023-12-04T03:01:05.4246238+00:00",
+  "LastUpdate_Achievements": "2023-12-04T03:08:30.4257224+00:00"
 }

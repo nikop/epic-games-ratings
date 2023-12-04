@@ -15,7 +15,7 @@
 | Bad Elves Go Everywhere | 67.00% | ~349 |
 | Master of Magic | 64.00% | ~333 |
 | Heroes’ Gorge | 63.00% | ~328 |
-| Unicorn steaks – fresh off the hoof! | 60.00% | ~313 |
+| Unicorn steaks – fresh off the hoof! | 61.00% | ~318 |
 | Magic Accidents | 58.00% | ~302 |
 | Trap Master | 55.00% | ~287 |
 | The Ascent | 55.00% | ~287 |
@@ -47,8 +47,8 @@
 | Brimstone Shaken, Not Stirred | 19.00% | ~99 |
 | Bonus Evilness | 17.00% | ~89 |
 | Raiders of the Lost Stone | 17.00% | ~89 |
+| The Rune Sockets of Finitude (Part 1) | 17.00% | ~89 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~83 |
-| The Rune Sockets of Finitude (Part 1) | 16.00% | ~83 |
 | My Little Torture Chamber | 15.00% | ~78 |
 | The Rune Sockets of Finitude (Part 2) | 15.00% | ~78 |
 | Lavalumps on Ice! | 14.00% | ~73 |

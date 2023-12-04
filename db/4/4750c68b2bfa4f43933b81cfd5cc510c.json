@@ -2,7 +2,7 @@
   "ID": "4750c68b2bfa4f43933b81cfd5cc510c",
   "Name": "EA SPORTS FC\u2122 24 Standard Edition",
   "ProductSlug": "ea-sports-fc-24",
-  "Ranking_Rating": 839,
+  "Ranking_Rating": 833,
   "Ranking_Popularity": 183,
   "Ranking_PopularitySum": 199,
   "Ranking_EOS_Progress": 110,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.3,
+  "Rating": 4.31,
   "RatingHistory": [
     {
       "Time": "2023-09-29T21:57:05.6639643+00:00",
@@ -2197,6 +2197,12 @@
       "Rating": 4.3,
       "NumberOfAwards": 2381,
       "NumberOfAwardsMax": 722
+    },
+    {
+      "Time": "2023-12-04T02:58:37.6860923+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 2381,
+      "NumberOfAwardsMax": 722
     }
   ],
   "ReviewsDisabled": false,
@@ -2261,7 +2267,7 @@
   ],
   "EOS_Progressed": 55946,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 976,
+  "EOS_NewPlayers": 975,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11227,9 +11233,9 @@
   "FirstSeen": "2023-09-29T00:00:53.2265881+00:00",
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
-  "LastChanged": "2023-12-03T17:57:52.9836991+00:00",
-  "LastChanged_Achievements": "2023-12-04T02:29:14.5183483+00:00",
+  "LastChanged": "2023-12-04T02:58:37.6860921+00:00",
+  "LastChanged_Achievements": "2023-12-04T03:06:41.2979396+00:00",
   "LastUpdate_AppInfo": "2023-12-01T05:57:07.0815744+00:00",
-  "LastUpdate_Ratings": "2023-12-04T02:21:55.938959+00:00",
-  "LastUpdate_Achievements": "2023-12-04T02:29:14.5184056+00:00"
+  "LastUpdate_Ratings": "2023-12-04T02:58:37.6860926+00:00",
+  "LastUpdate_Achievements": "2023-12-04T03:06:41.2980003+00:00"
 }

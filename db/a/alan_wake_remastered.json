@@ -569,9 +569,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 97334,
+  "EOS_Progressed": 97335,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 1089,
+  "EOS_NewPlayers": 1082,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -24034,6 +24034,11 @@
       "Time": "2023-12-04T02:33:08.7019188+00:00",
       "NumProgressed": 97334,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-12-04T03:10:17.4528414+00:00",
+      "NumProgressed": 97335,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 67,
@@ -24053,7 +24058,7 @@
       "Name": "Nordic Walking",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 37960
+      "UsersEstimate": 37961
     },
     {
       "ID": "03",
@@ -24165,7 +24170,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 12653
+      "UsersEstimate": 12654
     },
     {
       "ID": "17",
@@ -24181,7 +24186,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 9733
+      "UsersEstimate": 9734
     },
     {
       "ID": "19",
@@ -24213,7 +24218,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 21413
+      "UsersEstimate": 21414
     },
     {
       "ID": "23",
@@ -24229,7 +24234,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 18493
+      "UsersEstimate": 18494
     },
     {
       "ID": "25",
@@ -24245,7 +24250,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 18493
+      "UsersEstimate": 18494
     },
     {
       "ID": "27",
@@ -24580,21 +24585,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 97334,
+      "Progressed": 97335,
       "Completed": 107
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 60802,
+      "Progressed": 60803,
       "Completed": 92
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-11-23T00:00:36.1638519+00:00",
-  "LastChanged_Achievements": "2023-12-04T02:33:08.7019183+00:00",
+  "LastChanged_Achievements": "2023-12-04T03:10:17.4528413+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:16.2842941+00:00",
-  "LastUpdate_Ratings": "2023-12-04T02:21:08.5127265+00:00",
-  "LastUpdate_Achievements": "2023-12-04T02:33:08.7020523+00:00"
+  "LastUpdate_Ratings": "2023-12-04T02:57:25.2371429+00:00",
+  "LastUpdate_Achievements": "2023-12-04T03:10:17.4529914+00:00"
 }

@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 25864,
+  "EOS_Progressed": 25866,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 1483,
+  "EOS_NewPlayers": 1481,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -8768,6 +8768,11 @@
       "Time": "2023-12-04T02:32:24.7146504+00:00",
       "NumProgressed": 25864,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-12-04T03:09:16.6358485+00:00",
+      "NumProgressed": 25866,
+      "NumCompleted": 111
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -8780,7 +8785,7 @@
       "Name": "It Took Two",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 11380
+      "UsersEstimate": 11381
     },
     {
       "ID": "achievement_10",
@@ -8804,7 +8809,7 @@
       "Name": "On Rails Experience",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 14742
+      "UsersEstimate": 14744
     },
     {
       "ID": "achievement_13",
@@ -8836,7 +8841,7 @@
       "Name": "Mood Swing",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1810
+      "UsersEstimate": 1811
     },
     {
       "ID": "achievement_17",
@@ -8852,7 +8857,7 @@
       "Name": "Terror Of The Seven Seas",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 4138
+      "UsersEstimate": 4139
     },
     {
       "ID": "achievement_19",
@@ -8860,7 +8865,7 @@
       "Name": "Bug Sized Relaxation",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 5690
+      "UsersEstimate": 5691
     },
     {
       "ID": "achievement_2",
@@ -8884,7 +8889,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 22502
+      "UsersEstimate": 22503
     },
     {
       "ID": "achievement_4",
@@ -8892,7 +8897,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 22760
+      "UsersEstimate": 22762
     },
     {
       "ID": "achievement_5",
@@ -8916,7 +8921,7 @@
       "Name": "Look At Him Go",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 20433
+      "UsersEstimate": 20434
     },
     {
       "ID": "achievement_8",
@@ -8932,20 +8937,20 @@
       "Name": "A Daring Devil",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 13708
+      "UsersEstimate": 13709
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 25864,
+      "Progressed": 25866,
       "Completed": 111
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-12-04T02:32:24.7146498+00:00",
+  "LastChanged_Achievements": "2023-12-04T03:09:16.6358483+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:29.2026189+00:00",
-  "LastUpdate_Ratings": "2023-12-04T02:23:55.77813+00:00",
-  "LastUpdate_Achievements": "2023-12-04T02:32:24.7147107+00:00"
+  "LastUpdate_Ratings": "2023-12-04T03:01:42.2502147+00:00",
+  "LastUpdate_Achievements": "2023-12-04T03:09:16.6359091+00:00"
 }

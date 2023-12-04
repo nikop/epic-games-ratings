@@ -430,9 +430,9 @@
       "ID": "3",
       "SetID": "d37idgg",
       "Name": "The battle of Great Britain",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "30",
@@ -637,8 +637,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-12-04T02:32:15.9649474+00:00",
+  "LastChanged_Achievements": "2023-12-04T03:09:04.2258418+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:41.6257139+00:00",
-  "LastUpdate_Ratings": "2023-12-04T02:22:42.701661+00:00",
-  "LastUpdate_Achievements": "2023-12-04T02:32:15.9649943+00:00"
+  "LastUpdate_Ratings": "2023-12-04T02:59:48.3040298+00:00",
+  "LastUpdate_Achievements": "2023-12-04T03:09:04.2258692+00:00"
 }

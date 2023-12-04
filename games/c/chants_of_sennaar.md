@@ -10,9 +10,9 @@
 | The Preacher's fate | 30.00% | ~259 |
 | A new dawn | 26.00% | ~224 |
 | Scholar | 24.00% | ~207 |
+| A good beginning | 23.00% | ~198 |
 | True G3M4R | 23.00% | ~198 |
 | The darkness | 23.00% | ~198 |
-| A good beginning | 22.00% | ~190 |
 | One last step | 21.00% | ~181 |
 | I did it | 20.00% | ~172 |
 | Cable guy | 20.00% | ~172 |

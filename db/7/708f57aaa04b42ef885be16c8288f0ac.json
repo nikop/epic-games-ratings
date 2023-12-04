@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7385,
+  "EOS_Progressed": 7387,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 647,
+  "EOS_NewPlayers": 649,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5448,6 +5448,11 @@
       "Time": "2023-12-04T02:32:55.0023955+00:00",
       "NumProgressed": 7385,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-04T03:09:59.1947215+00:00",
+      "NumProgressed": 7387,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5516,7 +5521,7 @@
       "Name": "Explosive Personality",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "FasterThanLight",
@@ -5731,7 +5736,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7385,
+      "Progressed": 7387,
       "Completed": 13
     }
   ],
@@ -5739,8 +5744,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-03T17:57:51.312762+00:00",
-  "LastChanged_Achievements": "2023-12-04T02:32:55.0023951+00:00",
+  "LastChanged_Achievements": "2023-12-04T03:09:59.1947212+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-04T02:21:54.2260753+00:00",
-  "LastUpdate_Achievements": "2023-12-04T02:32:55.0024483+00:00"
+  "LastUpdate_Ratings": "2023-12-04T02:58:34.8994659+00:00",
+  "LastUpdate_Achievements": "2023-12-04T03:09:59.1947694+00:00"
 }

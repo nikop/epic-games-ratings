@@ -1,18 +1,18 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.38 (Ranked 766)  
+Rating: 4.39 (Ranked 751)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 11.00% | ~35,833 |
-| IT MAKES BOOM! | 7.00% | ~22,803 |
-| EXTRA BOOST | 5.00% | ~16,288 |
-| PROTECTED | 4.00% | ~13,030 |
-| PRO | 4.00% | ~13,030 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,773 |
-| AGGRESSIVE RACER | 3.00% | ~9,773 |
-| A TIGER'S FEAR | 2.00% | ~6,515 |
+| ROOKIE | 11.00% | ~35,839 |
+| IT MAKES BOOM! | 7.00% | ~22,806 |
+| EXTRA BOOST | 5.00% | ~16,290 |
+| PROTECTED | 4.00% | ~13,032 |
+| PRO | 4.00% | ~13,032 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,774 |
+| AGGRESSIVE RACER | 3.00% | ~9,774 |
+| A TIGER'S FEAR | 2.00% | ~6,516 |
 | IT'S A LONG WAY TO THE TOP | 1.00% | ~3,258 |
 | TRAINING HARD | 1.00% | ~3,258 |
 | BE OUR GUEST | 1.00% | ~3,258 |
@@ -22,7 +22,7 @@ Rating: 4.38 (Ranked 766)
 | FRIENDLY | 0.90% | ~2,932 |
 | LEGENDARY HERO | 0.90% | ~2,932 |
 | DEFEAT OUR CHAMPION | 0.80% | ~2,606 |
-| THE EYE OF THE HUNTER | 0.70% | ~2,280 |
+| THE EYE OF THE HUNTER | 0.70% | ~2,281 |
 | EXPERIENCED CREW | 0.60% | ~1,955 |
 | ACE DEFENDER | 0.50% | ~1,629 |
 | FRAMED! | 0.40% | ~1,303 |
@@ -30,8 +30,8 @@ Rating: 4.38 (Ranked 766)
 | ACE TRICKSTER | 0.40% | ~1,303 |
 | PERFECTLY POISED | 0.30% | ~977 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 325,757 (Ranked 51)  
-Completed: 447 (0.14%) (Ranked 274)  
+Progressed: 325,805 (Ranked 51)  
+Completed: 449 (0.14%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -254,14 +254,14 @@ Completed: 447 (0.14%) (Ranked 274)
 | 2023-12-01 | 320,205 | 413 |
 | 2023-12-02 | 321,996 | 428 |
 | 2023-12-03 | 325,453 | 446 |
-| 2023-12-04 | 325,757 | 447 |
+| 2023-12-04 | 325,805 | 449 |
 ## Awards
-Max (Great for Beginners): 101  (Ranked 362)  
-Sum: 735 (Ranked 291)  
-Diff (max vs sum): 71  
+Max (Great for Beginners): 109  (Ranked 354)  
+Sum: 743 (Ranked 290)  
+Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 101 |
+| This game is Great for Beginners | 109 |
 | This game is Great for Quick Sessions | 88 |
 | This game has Diverse Characters | 87 |
 | This game has Amazing Characters | 61 |
@@ -340,3 +340,4 @@ Diff (max vs sum): 71
 | 2023-12-01 | 4.40 | 98 | 703 |
 | 2023-12-02 | 4.40 | 98 | 712 |
 | 2023-12-03 | 4.40 | 101 | 735 |
+| 2023-12-04 | 4.39 | 109 | 743 |

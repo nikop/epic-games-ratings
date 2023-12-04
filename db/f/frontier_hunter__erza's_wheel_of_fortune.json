@@ -1690,9 +1690,9 @@
       "ID": "ACHIEVEMENT_12",
       "SetID": "7pimpda",
       "Name": "Nosebleeder",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -2010,9 +2010,9 @@
       "ID": "ACHIEVEMENT_8",
       "SetID": "7pimpda",
       "Name": "Seal Breaker",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 159
+      "UsersEstimate": 165
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -2035,8 +2035,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-04T02:30:28.2913478+00:00",
+  "LastChanged_Achievements": "2023-12-04T03:08:26.1850955+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.7212859+00:00",
-  "LastUpdate_Ratings": "2023-12-04T02:24:14.0168634+00:00",
-  "LastUpdate_Achievements": "2023-12-04T02:30:28.2913794+00:00"
+  "LastUpdate_Ratings": "2023-12-04T03:02:50.678787+00:00",
+  "LastUpdate_Achievements": "2023-12-04T03:08:26.1851309+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -112,7 +112,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 758,
+  "EOS_Progressed": 759,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
@@ -897,6 +897,11 @@
       "Time": "2023-12-04T01:53:07.4861915+00:00",
       "NumProgressed": 758,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-04T03:05:40.2465744+00:00",
+      "NumProgressed": 759,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -940,7 +945,7 @@
       "Name": "Clarity of Mind",
       "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Club_Star",
@@ -964,7 +969,7 @@
       "Name": "Deadly Kombationem",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "Fire in the hole!",
@@ -980,7 +985,7 @@
       "Name": "I feel secure, contained \u0026 protected",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "I\u0027m walking here!",
@@ -996,7 +1001,7 @@
       "Name": "I just love stuff!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "I_think_its_broke",
@@ -1020,7 +1025,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "Lady_Luck",
@@ -1034,9 +1039,9 @@
       "ID": "Omnipotence",
       "SetID": "gl7plp",
       "Name": "Omnipotence",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 152
+      "UsersEstimate": 144
     },
     {
       "ID": "SERENITY_NOW",
@@ -1052,7 +1057,7 @@
       "Name": "Science, it works!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "So_Fresh",
@@ -1076,7 +1081,7 @@
       "Name": "Tell me your story",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -1092,7 +1097,7 @@
       "Name": "The Traveler",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "The_Age_of_Mutationem",
@@ -1114,9 +1119,9 @@
       "ID": "The_Warlord",
       "SetID": "gl7plp",
       "Name": "The Warlord",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 152
+      "UsersEstimate": 144
     },
     {
       "ID": "The_things_they_print_nowadays",
@@ -1195,7 +1200,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 758,
+      "Progressed": 759,
       "Completed": 0
     }
   ],
@@ -1203,8 +1208,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-12-04T02:28:32.0500136+00:00",
+  "LastChanged_Achievements": "2023-12-04T03:05:40.2465741+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:27.326915+00:00",
-  "LastUpdate_Ratings": "2023-12-04T02:23:34.9063619+00:00",
-  "LastUpdate_Achievements": "2023-12-04T02:28:32.0500422+00:00"
+  "LastUpdate_Ratings": "2023-12-04T03:01:09.6500764+00:00",
+  "LastUpdate_Achievements": "2023-12-04T03:05:40.2465947+00:00"
 }
