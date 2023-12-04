@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 583,
+  "EOS_Progressed": 584,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 1,
@@ -1920,6 +1920,11 @@
       "Time": "2023-12-03T21:04:21.5971008+00:00",
       "NumProgressed": 583,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-04T16:06:15.4470596+00:00",
+      "NumProgressed": 584,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1940,7 +1945,7 @@
       "Name": "Establish Communications",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH_eou2",
@@ -2028,21 +2033,21 @@
       "Name": "Destroy the Moon Base",
       "Percentage": 9,
       "XP": 120,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     }
   ],
   "AchievementSets": [
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 583,
+      "Progressed": 584,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-04T15:05:10.7603334+00:00",
+  "LastChanged_Achievements": "2023-12-04T16:06:15.4470592+00:00",
   "LastUpdate_AppInfo": "2023-12-01T02:57:04.7742385+00:00",
-  "LastUpdate_Ratings": "2023-12-04T14:58:36.6721796+00:00",
-  "LastUpdate_Achievements": "2023-12-04T15:05:10.7603526+00:00"
+  "LastUpdate_Ratings": "2023-12-04T15:59:17.4474166+00:00",
+  "LastUpdate_Achievements": "2023-12-04T16:06:15.4470773+00:00"
 }

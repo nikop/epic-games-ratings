@@ -4,11 +4,11 @@
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 991,
   "Ranking_Popularity": 475,
-  "Ranking_PopularitySum": 431,
+  "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3029,
+  "EOS_Progressed": 3030,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8831,6 +8831,11 @@
       "Time": "2023-12-04T15:09:06.2866645+00:00",
       "NumProgressed": 3029,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-04T16:10:01.1614069+00:00",
+      "NumProgressed": 3030,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -8842,7 +8847,7 @@
       "Name": "Active Member",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ancientknowledge",
@@ -8850,7 +8855,7 @@
       "Name": "Ancient Knowledge",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "angelpower",
@@ -9026,7 +9031,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1273
     },
     {
       "ID": "fourleafclover",
@@ -9130,7 +9135,7 @@
       "Name": "Legendary",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "lieutenant",
@@ -9146,7 +9151,7 @@
       "Name": "Lock And Load",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "masterenchanter",
@@ -9186,7 +9191,7 @@
       "Name": "Missions Dedication",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "movinguptheladder",
@@ -9218,7 +9223,7 @@
       "Name": "Natural Talent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "pokerface",
@@ -9234,7 +9239,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1605
+      "UsersEstimate": 1606
     },
     {
       "ID": "prestigiousx10",
@@ -9258,7 +9263,7 @@
       "Name": "Sailor",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "scientist",
@@ -9290,7 +9295,7 @@
       "Name": "Superior",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "templeofeternals",
@@ -9306,7 +9311,7 @@
       "Name": "The Alchemist",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "theexpeditioner",
@@ -9346,7 +9351,7 @@
       "Name": "The Unstoppable",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "titanpower",
@@ -9402,7 +9407,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2817
+      "UsersEstimate": 2818
     },
     {
       "ID": "warmachinesarmy",
@@ -9441,7 +9446,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3029,
+      "Progressed": 3030,
       "Completed": 2
     }
   ],
@@ -9449,8 +9454,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-03T22:59:51.5029341+00:00",
-  "LastChanged_Achievements": "2023-12-04T15:09:06.2866641+00:00",
+  "LastChanged_Achievements": "2023-12-04T16:10:01.1614063+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:05.1164011+00:00",
-  "LastUpdate_Ratings": "2023-12-04T15:00:20.3964168+00:00",
-  "LastUpdate_Achievements": "2023-12-04T15:09:06.2867442+00:00"
+  "LastUpdate_Ratings": "2023-12-04T16:01:34.8338517+00:00",
+  "LastUpdate_Achievements": "2023-12-04T16:10:01.16149+00:00"
 }

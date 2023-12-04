@@ -1,10 +1,10 @@
 # Paragon: The Overprime
 [Store](https://store.epicgames.com/en-US/p/paragon-the-overprime-0bca60)  
 [View Rawdata](../../db/p/paragon__the_overprime.json)  
-Rating: 4.24 (Ranked 890)  
+Rating: 4.24 (Ranked 889)  
 ## Awards
 Max (Diverse Characters): 816  (Ranked 171)  
-Sum: 5,894 (Ranked 130)  
+Sum: 5,896 (Ranked 130)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): 41
 | This game has Quickly Understood Controls | 691 |
 | This game has Amazing Characters | 669 |
 | This game is Extremely Fun | 663 |
-| This game has Challenging Combat | 612 |
+| This game has Challenging Combat | 614 |
 | This game has Amazing Storytelling | 539 |
 | This game has a Competitive Community | 468 |
 | This game has Great Boss Battles | 109 |
@@ -307,4 +307,4 @@ Diff (max vs sum): 41
 | 2023-12-01 | 4.24 | 809 | 5,848 |
 | 2023-12-02 | 4.24 | 813 | 5,861 |
 | 2023-12-03 | 4.24 | 816 | 5,886 |
-| 2023-12-04 | 4.24 | 816 | 5,894 |
+| 2023-12-04 | 4.24 | 816 | 5,896 |

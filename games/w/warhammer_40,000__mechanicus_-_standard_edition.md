@@ -1,14 +1,14 @@
 # Warhammer 40,000: Mechanicus - Standard Edition
 [Store](https://store.epicgames.com/en-US/p/warhammer-mechanicus-0e4b71)  
 [View Rawdata](../../db/w/warhammer_40,000__mechanicus_-_standard_edition.json)  
-Rating: 4.43 (Ranked 696)  
+Rating: 4.43 (Ranked 695)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~59,442 |
+| No aid from the Omnissiah | 26.00% | ~59,443 |
 | This is only the beginning | 20.00% | ~45,725 |
 | Knowledge is power | 12.00% | ~27,435 |
-| Galvanic Rifle | 10.00% | ~22,862 |
+| Galvanic Rifle | 10.00% | ~22,863 |
 | Power Ranger | 9.00% | ~20,576 |
 | Taser Goad | 9.00% | ~20,576 |
 | Radium Ready | 9.00% | ~20,576 |
@@ -19,13 +19,13 @@ Rating: 4.43 (Ranked 696)
 | One with the Machine | 4.00% | ~9,145 |
 | Legio Cybernetica | 3.00% | ~6,859 |
 | Fleshy Disposal | 3.00% | ~6,859 |
-| Battle Servitor | 2.00% | ~4,572 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,572 |
-| Impatient destruction | 2.00% | ~4,572 |
-| Vivisected Vizier | 2.00% | ~4,572 |
-| Architect Abortion | 2.00% | ~4,572 |
+| Battle Servitor | 2.00% | ~4,573 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,573 |
+| Impatient destruction | 2.00% | ~4,573 |
+| Vivisected Vizier | 2.00% | ~4,573 |
+| Architect Abortion | 2.00% | ~4,573 |
 | Cohortus Maximus | 0.80% | ~1,829 |
-| Mother of Xenarites | 0.40% | ~914 |
+| Mother of Xenarites | 0.40% | ~915 |
 | False God | 0.30% | ~686 |
 | Hard | 0.20% | ~457 |
 | Sensory overload | 0.20% | ~457 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 696)
 | Perma-live | 0.10% | ~229 |
 | Purge the Heretek | 0.10% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,625 (Ranked 70)  
+Progressed: 228,627 (Ranked 70)  
 Completed: 5 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 5 (0.00%) (Ranked 366)
 | 2023-12-01 | 228,424 | 5 |
 | 2023-12-02 | 228,485 | 5 |
 | 2023-12-03 | 228,585 | 5 |
-| 2023-12-04 | 228,625 | 5 |
+| 2023-12-04 | 228,627 | 5 |
 ## Awards
 Max (Highly Recommended): 291  (Ranked 258)  
 Sum: 2,205 (Ranked 206)  

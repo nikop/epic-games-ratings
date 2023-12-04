@@ -5,10 +5,10 @@
   "Ranking_Rating": 113,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
-  "Ranking_EOS_Progress": 265,
+  "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 102,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -125,11 +125,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 998,
+  "EOS_Progressed": 999,
   "EOS_Completed": 31,
   "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.11,
+  "EOS_Completed_Percentage": 3.1,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -3315,6 +3315,11 @@
       "Time": "2023-12-04T15:04:29.6160244+00:00",
       "NumProgressed": 998,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-12-04T16:05:21.9614197+00:00",
+      "NumProgressed": 999,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3327,7 +3332,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -3351,7 +3356,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "_05_FinishAct2",
@@ -3359,7 +3364,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -3367,7 +3372,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "_07_FinishAct3",
@@ -3383,15 +3388,15 @@
       "Name": "Swabbie",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "_09_Completion_20",
       "SetID": "8a1io5d",
       "Name": "Powder Monkey",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 290
     },
     {
       "ID": "_10_Completion_30",
@@ -3455,7 +3460,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -3534,7 +3539,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 998,
+      "Progressed": 999,
       "Completed": 31
     }
   ],
@@ -3542,8 +3547,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-29T18:57:59.7478521+00:00",
-  "LastChanged_Achievements": "2023-12-04T15:04:29.6160242+00:00",
+  "LastChanged_Achievements": "2023-12-04T16:05:21.9614193+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:16.5122288+00:00",
-  "LastUpdate_Ratings": "2023-12-04T15:00:41.1543054+00:00",
-  "LastUpdate_Achievements": "2023-12-04T15:04:29.6160468+00:00"
+  "LastUpdate_Ratings": "2023-12-04T16:02:01.8547054+00:00",
+  "LastUpdate_Achievements": "2023-12-04T16:05:21.9614467+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,7 +145,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4470,
+  "EOS_Progressed": 4472,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
@@ -8115,6 +8115,11 @@
       "Time": "2023-12-04T10:03:34.6559104+00:00",
       "NumProgressed": 4470,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-04T16:04:56.7860325+00:00",
+      "NumProgressed": 4472,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8126,7 +8131,7 @@
       "Name": "Start with a bang!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "Ach002",
@@ -8134,7 +8139,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "Ach003",
@@ -8142,7 +8147,7 @@
       "Name": "This will cost you big time",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "Ach004",
@@ -8238,7 +8243,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "Ach016",
@@ -8254,7 +8259,7 @@
       "Name": "I play my own way!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "Ach018",
@@ -8302,7 +8307,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "Ach024",
@@ -8318,7 +8323,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "Ach026",
@@ -8334,7 +8339,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "Ach028",
@@ -8382,7 +8387,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "Ach034",
@@ -8693,13 +8698,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4470,
+      "Progressed": 4472,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2991,
+      "Progressed": 2993,
       "Completed": 1930
     }
   ],
@@ -8707,8 +8712,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-04T15:04:10.3096364+00:00",
+  "LastChanged_Achievements": "2023-12-04T16:04:56.7860321+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:21.1661658+00:00",
-  "LastUpdate_Ratings": "2023-12-04T15:02:27.9324503+00:00",
-  "LastUpdate_Achievements": "2023-12-04T15:04:10.3097323+00:00"
+  "LastUpdate_Ratings": "2023-12-04T16:02:39.1304066+00:00",
+  "LastUpdate_Achievements": "2023-12-04T16:04:56.786116+00:00"
 }

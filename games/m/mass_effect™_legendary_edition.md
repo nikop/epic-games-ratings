@@ -44,6 +44,7 @@
 | Broke, Blind, and Bedlam | 34.00% | ~511 |
 | Ghost Ship | 33.00% | ~496 |
 | The Prodigal | 33.00% | ~496 |
+| Galactic Explorer | 33.00% | ~496 |
 | A Personal Touch | 32.00% | ~481 |
 | The Assassin | 32.00% | ~481 |
 | The Justicar | 32.00% | ~481 |
@@ -51,7 +52,6 @@
 | Catharsis | 32.00% | ~481 |
 | Ghost of the Father | 32.00% | ~481 |
 | The Cure | 32.00% | ~481 |
-| Galactic Explorer | 32.00% | ~481 |
 | Driven | 32.00% | ~481 |
 | Shopaholic | 32.00% | ~481 |
 | Completionist | 31.00% | ~466 |
@@ -65,6 +65,7 @@
 | Treason | 30.00% | ~451 |
 | Digital Exorcist | 30.00% | ~451 |
 | Archivist | 29.00% | ~436 |
+| Suicide Mission | 29.00% | ~436 |
 | Friend or Foe | 29.00% | ~436 |
 | Cat's in the Cradle | 29.00% | ~436 |
 | Doppelganger | 29.00% | ~436 |
@@ -73,7 +74,6 @@
 | Untouchable | 28.00% | ~421 |
 | Giant Killer | 28.00% | ~421 |
 | Mission Accomplished | 28.00% | ~421 |
-| Suicide Mission | 28.00% | ~421 |
 | Against All Odds | 28.00% | ~421 |
 | A House Divided | 28.00% | ~421 |
 | Eye of the Hurricane | 27.00% | ~406 |

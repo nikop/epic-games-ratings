@@ -1,29 +1,29 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 935)  
+Rating: 4.18 (Ranked 936)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~38,829 |
+| First Step Into the Knight | 50.00% | ~38,830 |
 | Har, Har, Har, Very Funny | 34.00% | ~26,404 |
-| Loose Ends | 33.00% | ~25,627 |
-| To the Victor Go the Spoils | 28.00% | ~21,744 |
+| Loose Ends | 33.00% | ~25,628 |
+| To the Victor Go the Spoils | 28.00% | ~21,745 |
 | Knighthood | 27.00% | ~20,968 |
-| Get ReQ'd | 25.00% | ~19,414 |
-| Whispered Words | 24.00% | ~18,638 |
+| Get ReQ'd | 25.00% | ~19,415 |
+| Whispered Words | 25.00% | ~19,415 |
 | The Batman Family | 22.00% | ~17,085 |
 | Lock and Key | 22.00% | ~17,085 |
-| Something in the Clay | 21.00% | ~16,308 |
+| Something in the Clay | 21.00% | ~16,309 |
 | Quartzer Life Crisis | 20.00% | ~15,532 |
 | Working Hard or Harley Working? | 20.00% | ~15,532 |
 | Unstoppable Force | 20.00% | ~15,532 |
 | Bad Apples in Every Orchard | 20.00% | ~15,532 |
 | Snow Problem | 19.00% | ~14,755 |
-| The Show Mud Go On | 18.00% | ~13,978 |
-| From Inside Gotham's Walls | 18.00% | ~13,978 |
+| The Show Mud Go On | 18.00% | ~13,979 |
+| From Inside Gotham's Walls | 18.00% | ~13,979 |
 | Protector of Gotham | 17.00% | ~13,202 |
-| Universal Health Scare | 16.00% | ~12,425 |
+| Universal Health Scare | 16.00% | ~12,426 |
 | In Your Element | 15.00% | ~11,649 |
 | Voiceless | 15.00% | ~11,649 |
 | Rock and a Hard Place | 14.00% | ~10,872 |
@@ -34,13 +34,13 @@ Rating: 4.18 (Ranked 935)
 | End of an Era | 12.00% | ~9,319 |
 | Bulldozed | 12.00% | ~9,319 |
 | Gotham Knight | 12.00% | ~9,319 |
-| Gotham City Confidential | 11.00% | ~8,542 |
+| Gotham City Confidential | 11.00% | ~8,543 |
 | Drone You Out | 10.00% | ~7,766 |
 | Out of Their League | 9.00% | ~6,989 |
 | Solid Alibi | 9.00% | ~6,989 |
 | Fusion Expert | 7.00% | ~5,436 |
-| Family Meeting | 6.00% | ~4,659 |
-| A Worthy Successor | 6.00% | ~4,659 |
+| Family Meeting | 6.00% | ~4,660 |
+| A Worthy Successor | 6.00% | ~4,660 |
 | Expert Crime Fighter | 5.00% | ~3,883 |
 | Dressed to Impress | 4.00% | ~3,106 |
 | A Momentum Occasion | 3.00% | ~2,330 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 935)
 | Element of Surprise | 0.20% | ~96 |
 | It's Nice to Be Wanted | 0.20% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,658 (Ranked 99)  
+Progressed: 77,660 (Ranked 99)  
 Completed: 124 (0.16%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,10 +295,10 @@ Completed: 124 (0.16%) (Ranked 269)
 | 2023-12-01 | 77,532 | 124 |
 | 2023-12-02 | 77,577 | 124 |
 | 2023-12-03 | 77,643 | 124 |
-| 2023-12-04 | 77,658 | 124 |
+| 2023-12-04 | 77,660 | 124 |
 ## Awards
 Max (Great Boss Battles): 2,989  (Ranked 98)  
-Sum: 5,104 (Ranked 140)  
+Sum: 5,105 (Ranked 140)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
@@ -310,7 +310,7 @@ Diff (max vs sum): -42
 | This game is Great for Beginners | 265 |
 | This game has Amazing Characters | 261 |
 | This game is Highly Recommended | 261 |
-| This game has Amazing Storytelling | 259 |
+| This game has Amazing Storytelling | 260 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -597,4 +597,4 @@ Diff (max vs sum): -42
 | 2023-12-01 | 4.18 | 2,984 | 5,094 |
 | 2023-12-02 | 4.18 | 2,987 | 5,097 |
 | 2023-12-03 | 4.18 | 2,989 | 5,101 |
-| 2023-12-04 | 4.18 | 2,989 | 5,104 |
+| 2023-12-04 | 4.18 | 2,989 | 5,105 |

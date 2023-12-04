@@ -13,8 +13,8 @@ Number of Ratings: 285  (23.09.2022)
 | That'll Leave a Mark | 24.00% | ~1,280 |
 | Mushroom Madness! | 22.00% | ~1,173 |
 | First Strike | 19.00% | ~1,013 |
-| Spending Spree | 18.00% | ~960 |
-| Horder Better Faster Stronger | 17.00% | ~906 |
+| Spending Spree | 19.00% | ~1,013 |
+| Horder Better Faster Stronger | 18.00% | ~960 |
 | Ten Steps from the Grave | 15.00% | ~800 |
 | Everything Must Go! | 14.00% | ~746 |
 | Next Time on MythForce... | 14.00% | ~746 |
@@ -31,7 +31,7 @@ Number of Ratings: 285  (23.09.2022)
 | Deadalus and Loving It | 0.20% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,332 (Ranked 190)  
-Completed: 4 (0.08%) (Ranked 300)  
+Completed: 4 (0.08%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -174,12 +174,12 @@ Completed: 4 (0.08%) (Ranked 300)
 | 2023-12-03 | 5,316 | 4 |
 | 2023-12-04 | 5,332 | 4 |
 ## Awards
-Max (Great for Beginners): 35  (Ranked 480)  
-Sum: 289 (Ranked 370)  
-Diff (max vs sum): 110  
+Max (Great for Beginners): 36  (Ranked 475)  
+Sum: 290 (Ranked 370)  
+Diff (max vs sum): 105  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 35 |
+| This game is Great for Beginners | 36 |
 | This game is Highly Recommended | 32 |
 | This game has Amazing Characters | 31 |
 | This game has Diverse Characters | 31 |
@@ -292,3 +292,4 @@ Diff (max vs sum): 110
 | 2023-11-27 | 4.48 | - | 35 | 286 |
 | 2023-11-28 | 4.48 | - | 35 | 288 |
 | 2023-12-01 | 4.48 | - | 35 | 289 |
+| 2023-12-04 | 4.48 | - | 36 | 290 |

@@ -40,12 +40,12 @@ Number of Ratings: 45  (23.09.2022)
 | In Soil, In Smoke | 0.30% | ~5 |
 | All My Birds, Safely Home | 0.30% | ~5 |
 | Bears are Scary | 0.30% | ~5 |
+| Grillmaster | 0.30% | ~5 |
 | Into Mulch | 0.30% | ~5 |
 | Tempest | 0.30% | ~5 |
 | Lochias's Hunger | 0.30% | ~5 |
 | Worldwalker | 0.20% | ~3 |
 | Wingknight's Prowess | 0.20% | ~3 |
-| Grillmaster | 0.20% | ~3 |
 | I'm Not Smiling | 0.20% | ~3 |
 | We Emerge Changed | 0.10% | ~2 |
 | Overwhelming Monstrosity | 0.10% | ~2 |

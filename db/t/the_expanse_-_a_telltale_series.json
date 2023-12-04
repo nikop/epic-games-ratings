@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15887,
+  "EOS_Progressed": 15889,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -13053,6 +13053,11 @@
       "Time": "2023-12-04T15:05:38.0001102+00:00",
       "NumProgressed": 15887,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-12-04T16:06:50.8125736+00:00",
+      "NumProgressed": 15889,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13089,7 +13094,7 @@
       "Name": "Data Archivist",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "13",
@@ -13097,7 +13102,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1906
+      "UsersEstimate": 1907
     },
     {
       "ID": "14",
@@ -13185,7 +13190,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "24",
@@ -13201,7 +13206,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "26",
@@ -13313,7 +13318,7 @@
       "Name": "Safe Cracker",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "33",
@@ -13337,20 +13342,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15887,
+      "Progressed": 15889,
       "Completed": 40
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1841,
+      "Progressed": 1843,
       "Completed": 813
     }
   ],
@@ -13358,8 +13363,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-03T18:02:39.8331355+00:00",
-  "LastChanged_Achievements": "2023-12-04T15:05:38.0001098+00:00",
+  "LastChanged_Achievements": "2023-12-04T16:06:50.8125729+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-04T15:02:49.963295+00:00",
-  "LastUpdate_Achievements": "2023-12-04T15:05:38.0002354+00:00"
+  "LastUpdate_Ratings": "2023-12-04T16:03:08.0707657+00:00",
+  "LastUpdate_Achievements": "2023-12-04T16:06:50.8126492+00:00"
 }

@@ -13,11 +13,11 @@ Number of Ratings: 209  (23.09.2022)
 | High Jump | 96.00% | ~2,255 |
 | Knee bending | 96.00% | ~2,255 |
 | Pickaxe | 94.00% | ~2,208 |
+| Cage Town | 94.00% | ~2,208 |
 | Force Beam | 93.00% | ~2,185 |
 | Entered Cage Town | 93.00% | ~2,185 |
 | Stone Pickaxe | 93.00% | ~2,185 |
 | Revenge | 93.00% | ~2,185 |
-| Cage Town | 93.00% | ~2,185 |
 | Surprise | 93.00% | ~2,185 |
 | Magnet | 90.00% | ~2,114 |
 | Industrial Area | 89.00% | ~2,091 |
@@ -29,8 +29,8 @@ Number of Ratings: 209  (23.09.2022)
 | Arrested | 85.00% | ~1,997 |
 | Zappy Gun | 85.00% | ~1,997 |
 | Got your own one now | 85.00% | ~1,997 |
+| Don't draw dicks pls | 85.00% | ~1,997 |
 | Mission Unlikely | 85.00% | ~1,997 |
-| Don't draw dicks pls | 84.00% | ~1,973 |
 | Ripped | 84.00% | ~1,973 |
 | Beat the big arena | 82.00% | ~1,926 |
 | Force Cube | 82.00% | ~1,926 |

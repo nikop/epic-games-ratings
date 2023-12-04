@@ -4,8 +4,8 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 3651,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 3652,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 511,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1637,9 +1637,9 @@
       "ID": "AchvReachCondor",
       "SetID": "1hj060c",
       "Name": "The Condor",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 148
     },
     {
       "ID": "AchvSurvivors",
@@ -1684,8 +1684,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-04T15:08:41.5825954+00:00",
+  "LastChanged_Achievements": "2023-12-04T16:09:29.1376084+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.6526822+00:00",
-  "LastUpdate_Ratings": "2023-12-04T14:57:51.553607+00:00",
-  "LastUpdate_Achievements": "2023-12-04T15:08:41.5826162+00:00"
+  "LastUpdate_Ratings": "2023-12-04T15:58:18.1500024+00:00",
+  "LastUpdate_Achievements": "2023-12-04T16:09:29.1376299+00:00"
 }

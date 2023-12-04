@@ -23,7 +23,7 @@
 | Minions, Minions! | 54.00% | ~281 |
 | Hard Work | 51.00% | ~266 |
 | The Big Eaty | 50.00% | ~260 |
-| YOU SHALL NOT PASS! | 48.00% | ~250 |
+| YOU SHALL NOT PASS! | 49.00% | ~255 |
 | “… like son” | 46.00% | ~240 |
 | Pure Dynamite! | 45.00% | ~234 |
 | Shame! Shame! Shame! | 43.00% | ~224 |
@@ -49,7 +49,7 @@
 | Raiders of the Lost Stone | 17.00% | ~89 |
 | The Rune Sockets of Finitude (Part 1) | 17.00% | ~89 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~83 |
-| My Little Torture Chamber | 15.00% | ~78 |
+| My Little Torture Chamber | 16.00% | ~83 |
 | The Rune Sockets of Finitude (Part 2) | 15.00% | ~78 |
 | Lavalumps on Ice! | 14.00% | ~73 |
 | Rubble and Ashes | 14.00% | ~73 |

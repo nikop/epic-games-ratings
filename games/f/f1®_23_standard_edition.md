@@ -140,8 +140,8 @@ Completed: 0 (0.00%) (Ranked 366)
 | 2023-12-04 | 6,031 | 0 |
 ## Awards
 Max (Diverse Characters): 28  (Ranked 509)  
-Sum: 124 (Ranked 436)  
-Diff (max vs sum): 73  
+Sum: 144 (Ranked 429)  
+Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |
@@ -151,6 +151,7 @@ Diff (max vs sum): 73
 | This game is Great for Quick Sessions | 24 |
 | This game is Extremely Fun | 23 |
 | This game has Quickly Understood Controls | 21 |
+| This game has Amazing Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -239,3 +240,4 @@ Diff (max vs sum): 73
 | 2023-12-01 | 4.68 | 27 | 97 |
 | 2023-12-02 | 4.68 | 27 | 98 |
 | 2023-12-03 | 4.68 | 28 | 124 |
+| 2023-12-04 | 4.68 | 28 | 144 |

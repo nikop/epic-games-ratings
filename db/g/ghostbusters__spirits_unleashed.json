@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3633,7 +3633,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31910,
+  "EOS_Progressed": 31913,
   "EOS_Completed": 69,
   "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 0,
@@ -21338,6 +21338,11 @@
       "Time": "2023-12-04T15:06:41.4883008+00:00",
       "NumProgressed": 31910,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-04T16:08:11.5333761+00:00",
+      "NumProgressed": 31913,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -21389,7 +21394,7 @@
       "Name": "Clutch Capture",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "Collect_Spores",
@@ -21413,7 +21418,7 @@
       "Name": "Cultured",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "Daily_Dose",
@@ -21709,7 +21714,7 @@
       "Name": "There you are!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "Tobins_Prodigy",
@@ -21733,7 +21738,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "Welcome_Crew",
@@ -21749,14 +21754,14 @@
       "Name": "Whoopsie",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31910,
+      "Progressed": 31913,
       "Completed": 69
     }
   ],
@@ -21764,8 +21769,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-04T02:21:22.3527028+00:00",
-  "LastChanged_Achievements": "2023-12-04T15:06:41.4883005+00:00",
+  "LastChanged_Achievements": "2023-12-04T16:08:11.5333757+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:17.1930733+00:00",
-  "LastUpdate_Ratings": "2023-12-04T14:57:58.1486632+00:00",
-  "LastUpdate_Achievements": "2023-12-04T15:06:41.4884119+00:00"
+  "LastUpdate_Ratings": "2023-12-04T15:58:26.6894244+00:00",
+  "LastUpdate_Achievements": "2023-12-04T16:08:11.5334984+00:00"
 }

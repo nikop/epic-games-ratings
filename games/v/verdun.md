@@ -6,16 +6,16 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~51,088 |
-| Worth it | 63.00% | ~41,263 |
-| Eagle Eye | 55.00% | ~36,023 |
-| Corpseman I | 40.00% | ~26,199 |
-| Blast fishing | 37.00% | ~24,234 |
-| Not alone | 32.00% | ~20,959 |
-| Headhunter I | 26.00% | ~17,029 |
-| Manual Labour I | 25.00% | ~16,374 |
-| Developers, Developers, Developers | 24.00% | ~15,719 |
-| Basic Training | 24.00% | ~15,719 |
+| Setting an example | 78.00% | ~51,092 |
+| Worth it | 63.00% | ~41,266 |
+| Eagle Eye | 55.00% | ~36,026 |
+| Corpseman I | 40.00% | ~26,201 |
+| Blast fishing | 37.00% | ~24,236 |
+| Not alone | 32.00% | ~20,961 |
+| Headhunter I | 26.00% | ~17,031 |
+| Manual Labour I | 25.00% | ~16,376 |
+| Developers, Developers, Developers | 24.00% | ~15,720 |
+| Basic Training | 24.00% | ~15,720 |
 | Furchtlos und Treu | 13.00% | ~8,515 |
 | Gott Mit Uns | 12.00% | ~7,860 |
 | This We'll Defend! | 9.00% | ~5,895 |
@@ -53,20 +53,20 @@ Number of Ratings: 1,999  (23.09.2022)
 | Corpseman III | 1.00% | ~655 |
 | Elite Player | 0.80% | ~524 |
 | Manual Labour III | 0.40% | ~262 |
-| Buddy | 0.30% | ~196 |
+| Buddy | 0.30% | ~197 |
 | War is better with friends II | 0.20% | ~131 |
-| Gold Collector | 0.10% | ~65 |
-| Gold Hoarder | 0.10% | ~65 |
-| Silver Collector | 0.10% | ~65 |
-| Silver Hoarder | 0.10% | ~65 |
-| War is better with friends III | 0.10% | ~65 |
-| War is better with friends IV | 0.10% | ~65 |
-| Aimbot | 0.10% | ~65 |
-| Headhunter III | 0.10% | ~65 |
-| Comrade | 0.10% | ~65 |
-| Blood Brother | 0.10% | ~65 |
+| Gold Collector | 0.10% | ~66 |
+| Gold Hoarder | 0.10% | ~66 |
+| Silver Collector | 0.10% | ~66 |
+| Silver Hoarder | 0.10% | ~66 |
+| War is better with friends III | 0.10% | ~66 |
+| War is better with friends IV | 0.10% | ~66 |
+| Aimbot | 0.10% | ~66 |
+| Headhunter III | 0.10% | ~66 |
+| Comrade | 0.10% | ~66 |
+| Blood Brother | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,497 (Ranked 105)  
+Progressed: 65,502 (Ranked 105)  
 Completed: 4 (0.01%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 4 (0.01%) (Ranked 345)
 | 2023-12-01 | 65,197 | 4 |
 | 2023-12-02 | 65,305 | 4 |
 | 2023-12-03 | 65,451 | 4 |
-| 2023-12-04 | 65,497 | 4 |
+| 2023-12-04 | 65,502 | 4 |
 ## Awards
 Max (Highly Recommended): 104  (Ranked 359)  
 Sum: 816 (Ranked 281)  

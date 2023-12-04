@@ -14,11 +14,11 @@ Rating: 4.50 (Ranked 592)
 | Solo Capture | 5.00% | ~1,596 |
 | Swift Rift Removers | 5.00% | ~1,596 |
 | Teamwork | 5.00% | ~1,596 |
-| Clutch Capture | 4.00% | ~1,276 |
-| Cultured | 4.00% | ~1,276 |
-| There you are! | 4.00% | ~1,276 |
-| Vaporous Expansion | 4.00% | ~1,276 |
-| Whoopsie | 4.00% | ~1,276 |
+| Clutch Capture | 4.00% | ~1,277 |
+| Cultured | 4.00% | ~1,277 |
+| There you are! | 4.00% | ~1,277 |
+| Vaporous Expansion | 4.00% | ~1,277 |
+| Whoopsie | 4.00% | ~1,277 |
 | Animated | 3.00% | ~957 |
 | Daily Dose | 3.00% | ~957 |
 | Ectoplasmic Entity | 3.00% | ~957 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 592)
 | Ultimate Defense | 0.20% | ~64 |
 | Line em' up | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,910 (Ranked 124)  
+Progressed: 31,913 (Ranked 124)  
 Completed: 69 (0.22%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 69 (0.22%) (Ranked 254)
 | 2023-12-01 | 31,812 | 69 |
 | 2023-12-02 | 31,846 | 69 |
 | 2023-12-03 | 31,893 | 69 |
-| 2023-12-04 | 31,910 | 69 |
+| 2023-12-04 | 31,913 | 69 |
 ## Awards
 Max (Great for Beginners): 320  (Ranked 251)  
 Sum: 2,878 (Ranked 179)  

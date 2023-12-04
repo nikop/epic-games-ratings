@@ -6,9 +6,9 @@
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 106,
-  "Ranking_EOS_Completed": 300,
+  "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
     "PcReleaseDate": "2018-03-08T17:00:00+00:00",
@@ -149,11 +149,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63184,
-  "EOS_Completed": 53,
-  "EOS_NewPlayers": 4445,
-  "EOS_NewCompleters": 24,
-  "EOS_Completed_Percentage": 0.08,
+  "EOS_Progressed": 63209,
+  "EOS_Completed": 54,
+  "EOS_NewPlayers": 4435,
+  "EOS_NewCompleters": 25,
+  "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
     {
       "Time": "2023-11-14T10:06:35.674065+00:00",
@@ -2294,6 +2294,11 @@
       "Time": "2023-12-04T15:03:56.8842434+00:00",
       "NumProgressed": 63184,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-04T16:04:38.3136976+00:00",
+      "NumProgressed": 63209,
+      "NumCompleted": 54
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -2306,7 +2311,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 23378
+      "UsersEstimate": 23387
     },
     {
       "ID": "Achievement_10",
@@ -2362,7 +2367,7 @@
       "Name": "Diligent Hogbunny",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "Achievement_17",
@@ -2394,7 +2399,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 17060
+      "UsersEstimate": 17066
     },
     {
       "ID": "Achievement_20",
@@ -2410,7 +2415,7 @@
       "Name": "Heroic Hoarder",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "Achievement_22",
@@ -2450,7 +2455,7 @@
       "Name": "Fruits of Labour",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "Achievement_27",
@@ -2482,7 +2487,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 7582
+      "UsersEstimate": 7585
     },
     {
       "ID": "Achievement_30",
@@ -2530,7 +2535,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5055
+      "UsersEstimate": 5057
     },
     {
       "ID": "Achievement_5",
@@ -2538,7 +2543,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3791
+      "UsersEstimate": 3793
     },
     {
       "ID": "Achievement_6",
@@ -2577,16 +2582,16 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 63184,
-      "Completed": 53
+      "Progressed": 63209,
+      "Completed": 54
     }
   ],
   "FirstSeen": "2023-11-16T18:57:39.5657505+00:00",
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-03T21:02:40.1092603+00:00",
-  "LastChanged_Achievements": "2023-12-04T15:03:56.8842432+00:00",
+  "LastChanged_Achievements": "2023-12-04T16:04:38.3136973+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:03:15.0842163+00:00",
-  "LastUpdate_Ratings": "2023-12-04T15:02:53.0194403+00:00",
-  "LastUpdate_Achievements": "2023-12-04T15:03:56.8842686+00:00"
+  "LastUpdate_Ratings": "2023-12-04T16:03:12.6525715+00:00",
+  "LastUpdate_Achievements": "2023-12-04T16:04:38.3137291+00:00"
 }

@@ -39,6 +39,7 @@
 | Defeat Isgrimm | 11.00% | ~4 |
 | Defeat Uram | 11.00% | ~4 |
 | Lore's Tale | 11.00% | ~4 |
+| Yngrid's Tale | 11.00% | ~4 |
 | Mage Teacher | 11.00% | ~4 |
 | A Master of Magic | 11.00% | ~4 |
 | Friend of Silver Drift Hollow | 11.00% | ~4 |
@@ -51,7 +52,6 @@
 | Defeat Yria | 8.00% | ~3 |
 | Elynn's Tale | 8.00% | ~3 |
 | Lytra's Tale | 8.00% | ~3 |
-| Yngrid's Tale | 8.00% | ~3 |
 | The Forge of Regan Gor | 8.00% | ~3 |
 | Silver Drift Hollow Mine | 8.00% | ~3 |
 | Balanced | 8.00% | ~3 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38 (Ranked 522)  
+Progressed: 38 (Ranked 523)  
 Completed: 0 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |

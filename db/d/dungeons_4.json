@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 521,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.3,
   "EosHistory": [
@@ -1490,9 +1490,9 @@
       "ID": "ach_main06transporter_transport",
       "SetID": "4hg22ll",
       "Name": "YOU SHALL NOT PASS!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 255
     },
     {
       "ID": "ach_main07storm_classified",
@@ -1642,9 +1642,9 @@
       "ID": "ach_main12race_torture",
       "SetID": "4hg22ll",
       "Name": "My Little Torture Chamber",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 83
     },
     {
       "ID": "ach_main13tanos_completed",
@@ -1849,8 +1849,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-04T15:08:27.2407924+00:00",
+  "LastChanged_Achievements": "2023-12-04T16:09:10.1447294+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:15.3424787+00:00",
-  "LastUpdate_Ratings": "2023-12-04T14:59:54.8430046+00:00",
-  "LastUpdate_Achievements": "2023-12-04T15:08:27.2408343+00:00"
+  "LastUpdate_Ratings": "2023-12-04T16:01:00.4555481+00:00",
+  "LastUpdate_Achievements": "2023-12-04T16:09:10.1447823+00:00"
 }

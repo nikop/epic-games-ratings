@@ -5,11 +5,11 @@ Rating: 4.05 (Ranked 991)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,817 |
+| Victor | 93.00% | ~2,818 |
 | World Map | 78.00% | ~2,363 |
 | Temple of Eternals | 57.00% | ~1,727 |
-| Prestigious | 53.00% | ~1,605 |
-| Fellowship Power | 42.00% | ~1,272 |
+| Prestigious | 53.00% | ~1,606 |
+| Fellowship Power | 42.00% | ~1,273 |
 | Guild Power | 24.00% | ~727 |
 | Prestigious x10 | 21.00% | ~636 |
 | Full Party | 20.00% | ~606 |
@@ -22,9 +22,9 @@ Rating: 4.05 (Ranked 991)
 | Hero inspection | 14.00% | ~424 |
 | Dragon Master | 13.00% | ~394 |
 | Lieutenant | 13.00% | ~394 |
-| Natural Talent | 12.00% | ~363 |
-| Superior | 12.00% | ~363 |
-| The Unstoppable | 12.00% | ~363 |
+| Natural Talent | 12.00% | ~364 |
+| Superior | 12.00% | ~364 |
+| The Unstoppable | 12.00% | ~364 |
 | Milestone collector | 11.00% | ~333 |
 | Mysterious Rock | 11.00% | ~333 |
 | Scientist | 10.00% | ~303 |
@@ -51,13 +51,13 @@ Rating: 4.05 (Ranked 991)
 | How Do You Turn This On? | 6.00% | ~182 |
 | The Expeditioner | 6.00% | ~182 |
 | Weekly Quest Completionist | 6.00% | ~182 |
-| Active Member | 5.00% | ~151 |
-| Ancient Knowledge | 5.00% | ~151 |
-| Legendary | 5.00% | ~151 |
-| Lock And Load | 5.00% | ~151 |
-| Missions Dedication | 5.00% | ~151 |
-| Sailor | 5.00% | ~151 |
-| The Alchemist | 5.00% | ~151 |
+| Active Member | 5.00% | ~152 |
+| Ancient Knowledge | 5.00% | ~152 |
+| Legendary | 5.00% | ~152 |
+| Lock And Load | 5.00% | ~152 |
+| Missions Dedication | 5.00% | ~152 |
+| Sailor | 5.00% | ~152 |
+| The Alchemist | 5.00% | ~152 |
 | Arena Challenger | 4.00% | ~121 |
 | Background Story | 4.00% | ~121 |
 | Ebony Jungle Liberator | 4.00% | ~121 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 991)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,029 (Ranked 212)  
+Progressed: 3,030 (Ranked 212)  
 Completed: 2 (0.07%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,11 +304,11 @@ Completed: 2 (0.07%) (Ranked 307)
 | 2023-12-01 | 2,917 | 2 |
 | 2023-12-02 | 2,955 | 2 |
 | 2023-12-03 | 3,010 | 2 |
-| 2023-12-04 | 3,029 | 2 |
+| 2023-12-04 | 3,030 | 2 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 475)  
-Sum: 137 (Ranked 431)  
-Diff (max vs sum): 44  
+Sum: 137 (Ranked 432)  
+Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |

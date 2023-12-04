@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -850,7 +850,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 48869,
+  "EOS_Progressed": 48871,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 908,
   "EOS_NewCompleters": 0,
@@ -26665,6 +26665,11 @@
       "Time": "2023-12-04T15:03:37.0471129+00:00",
       "NumProgressed": 48869,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-04T16:04:13.0396682+00:00",
+      "NumProgressed": 48871,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -26788,7 +26793,7 @@
       "Name": "My Little Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     },
     {
       "ID": "nomad",
@@ -26868,7 +26873,7 @@
       "Name": "One With The Board",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     },
     {
       "ID": "proximityFly1000",
@@ -26884,7 +26889,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 12217
+      "UsersEstimate": 12218
     },
     {
       "ID": "sandboarder",
@@ -26964,7 +26969,7 @@
       "Name": "Voyager",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     },
     {
       "ID": "wanderer",
@@ -26987,15 +26992,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 48869,
+      "Progressed": 48871,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-11-29T16:56:50.2159506+00:00",
-  "LastChanged_Achievements": "2023-12-04T15:03:37.0471126+00:00",
+  "LastChanged_Achievements": "2023-12-04T16:04:13.0396677+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:54.929935+00:00",
-  "LastUpdate_Ratings": "2023-12-04T15:00:00.4776033+00:00",
-  "LastUpdate_Achievements": "2023-12-04T15:03:37.0472892+00:00"
+  "LastUpdate_Ratings": "2023-12-04T16:01:08.2356601+00:00",
+  "LastUpdate_Achievements": "2023-12-04T16:04:13.0398184+00:00"
 }

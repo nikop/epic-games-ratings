@@ -10,6 +10,7 @@ Rating: 4.64 (Ranked 337)
 | Creature Feature | 3.00% | ~739 |
 | Are You Packin'? | 3.00% | ~739 |
 | Bring A Knife to a Gun Fight | 3.00% | ~739 |
+| RIP Davey Glutes | 3.00% | ~739 |
 | Sweezy Like Sunday Morning | 3.00% | ~739 |
 | We're All Very Impressed, Trust Me | 3.00% | ~739 |
 | First Bounty Down | 3.00% | ~739 |
@@ -17,7 +18,6 @@ Rating: 4.64 (Ranked 337)
 | Who's The Boss? | 3.00% | ~739 |
 | Don't Knife The Hand That Feeds | 3.00% | ~739 |
 | Lezduit! | 2.00% | ~493 |
-| RIP Davey Glutes | 2.00% | ~493 |
 | Eye Scream, You Scream | 2.00% | ~493 |
 | Legendary Bounty Hunter | 2.00% | ~493 |
 | Hardest Battle In The Game | 2.00% | ~493 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -7183,10 +7183,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4531,
       "NumberOfAwardsMax": 587
+    },
+    {
+      "Time": "2023-12-04T16:01:50.3467796+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4534,
+      "NumberOfAwardsMax": 587
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4531,
+  "NumberOfAwards": 4534,
   "NumberOfAwardsMax": 587,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7236,7 +7242,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 524
+      "Count": 527
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7257,9 +7263,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 200387,
+  "EOS_Progressed": 200404,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 2179,
+  "EOS_NewPlayers": 2186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -33307,6 +33313,11 @@
       "Time": "2023-12-04T15:09:04.4030985+00:00",
       "NumProgressed": 200387,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-04T16:09:58.4374251+00:00",
+      "NumProgressed": 200404,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 16,
@@ -33350,7 +33361,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 32062
+      "UsersEstimate": 32065
     },
     {
       "ID": "Achievement_13",
@@ -33398,7 +33409,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 50097
+      "UsersEstimate": 50101
     },
     {
       "ID": "Achievement_5",
@@ -33430,7 +33441,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 18035
+      "UsersEstimate": 18036
     },
     {
       "ID": "Achievement_9",
@@ -33438,22 +33449,22 @@
       "Name": "Spare The Rod",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 10019
+      "UsersEstimate": 10020
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 200387,
+      "Progressed": 200404,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2023-12-04T11:59:46.1213894+00:00",
-  "LastChanged_Achievements": "2023-12-04T15:09:04.4030981+00:00",
+  "LastChanged": "2023-12-04T16:01:50.3467795+00:00",
+  "LastChanged_Achievements": "2023-12-04T16:09:58.4374246+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:27.1980843+00:00",
-  "LastUpdate_Ratings": "2023-12-04T15:00:32.3952485+00:00",
-  "LastUpdate_Achievements": "2023-12-04T15:09:04.4031973+00:00"
+  "LastUpdate_Ratings": "2023-12-04T16:01:50.34678+00:00",
+  "LastUpdate_Achievements": "2023-12-04T16:09:58.4375583+00:00"
 }

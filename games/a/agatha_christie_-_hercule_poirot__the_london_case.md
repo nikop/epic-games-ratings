@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 76.00% | ~29 |
-| Little ideas | 71.00% | ~27 |
-| The Ship | 68.00% | ~26 |
-| Seeking the truth | 58.00% | ~22 |
-| An old friend | 55.00% | ~21 |
-| The Gala | 53.00% | ~20 |
-| A curious gathering | 53.00% | ~20 |
-| Little grey cells | 50.00% | ~19 |
-| Impossible is possible | 50.00% | ~19 |
-| The Missing Magdalene | 50.00% | ~19 |
-| Arthur Hastings | 50.00% | ~19 |
-| Everything matters | 42.00% | ~16 |
-| DI Hardwicke | 42.00% | ~16 |
-| Order and method | 39.00% | ~15 |
-| An expert mediator | 39.00% | ~15 |
-| Betty Allen | 37.00% | ~14 |
-| The Investigation Begins | 37.00% | ~14 |
-| An odd series of events | 32.00% | ~12 |
-| Ms. Camilla B. Culsham | 32.00% | ~12 |
-| Irene Court-Smyth | 32.00% | ~12 |
-| The Apartment | 32.00% | ~12 |
-| Nathaniel Dryden | 29.00% | ~11 |
+| Marc Allard | 77.00% | ~30 |
+| Little ideas | 69.00% | ~27 |
+| The Ship | 67.00% | ~26 |
+| Seeking the truth | 56.00% | ~22 |
+| An old friend | 54.00% | ~21 |
+| The Gala | 51.00% | ~20 |
+| A curious gathering | 51.00% | ~20 |
+| Little grey cells | 49.00% | ~19 |
+| Impossible is possible | 49.00% | ~19 |
+| The Missing Magdalene | 49.00% | ~19 |
+| Arthur Hastings | 49.00% | ~19 |
+| Everything matters | 41.00% | ~16 |
+| DI Hardwicke | 41.00% | ~16 |
+| Order and method | 38.00% | ~15 |
+| An expert mediator | 38.00% | ~15 |
+| Betty Allen | 36.00% | ~14 |
+| The Investigation Begins | 36.00% | ~14 |
+| An odd series of events | 31.00% | ~12 |
+| Ms. Camilla B. Culsham | 31.00% | ~12 |
+| Irene Court-Smyth | 31.00% | ~12 |
+| The Apartment | 31.00% | ~12 |
+| Nathaniel Dryden | 28.00% | ~11 |
 | Well-acquainted | 26.00% | ~10 |
 | Truth from within | 26.00% | ~10 |
 | A rude awakening | 26.00% | ~10 |
@@ -36,23 +36,23 @@
 | A curious phrase | 21.00% | ~8 |
 | Evelyn Lakshmi Warbeck | 21.00% | ~8 |
 | The Suspects | 21.00% | ~8 |
-| Horace Mountjoy | 16.00% | ~6 |
-| Johan Kristiansen | 16.00% | ~6 |
-| The Secrets | 16.00% | ~6 |
+| Horace Mountjoy | 15.00% | ~6 |
+| Johan Kristiansen | 15.00% | ~6 |
+| The Secrets | 15.00% | ~6 |
 | Well-travelled | 13.00% | ~5 |
 | A peculiar fellow | 13.00% | ~5 |
 | Florence Farquhar | 13.00% | ~5 |
 | Mortimer Ailsworth | 13.00% | ~5 |
 | The Investigation Starts Anew | 13.00% | ~5 |
-| The Denouement | 11.00% | ~4 |
-| A treasured heirloom | 11.00% | ~4 |
-| A perilous journey | 11.00% | ~4 |
-| The Penitent Magdalene | 11.00% | ~4 |
-| A true performance | 11.00% | ~4 |
+| The Denouement | 10.00% | ~4 |
+| A treasured heirloom | 10.00% | ~4 |
+| A perilous journey | 10.00% | ~4 |
+| The Penitent Magdalene | 10.00% | ~4 |
+| A true performance | 10.00% | ~4 |
 | Perkins | 8.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38 (Ranked 522)  
-Completed: 1 (2.63%) (Ranked 116)  
+Progressed: 39 (Ranked 522)  
+Completed: 1 (2.56%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -88,3 +88,4 @@ Completed: 1 (2.63%) (Ranked 116)
 | 2023-11-28 | 35 | 1 |
 | 2023-11-29 | 36 | 1 |
 | 2023-12-01 | 38 | 1 |
+| 2023-12-04 | 39 | 1 |

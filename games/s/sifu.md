@@ -8,13 +8,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | ---- | ---------- | ----- |
 | Diligence as a goal | 1.00% | ~271 |
 | Project Arena | 0.80% | ~217 |
-| The Old Grandmaster | 0.70% | ~5,024 |
-| The Assault | 0.70% | ~5,024 |
-| The Hateful Pole Fighter | 0.70% | ~5,024 |
-| Life is your teacher | 0.70% | ~5,024 |
-| State of constant learning | 0.70% | ~5,024 |
-| Qi Gong: Breath | 0.70% | ~5,024 |
-| Lightning Hands | 0.70% | ~5,024 |
+| The Old Grandmaster | 0.70% | ~5,025 |
+| The Assault | 0.70% | ~5,025 |
+| The Hateful Pole Fighter | 0.70% | ~5,025 |
+| Life is your teacher | 0.70% | ~5,025 |
+| State of constant learning | 0.70% | ~5,025 |
+| Qi Gong: Breath | 0.70% | ~5,025 |
+| Lightning Hands | 0.70% | ~5,025 |
 | A Lady's Blood in the Snow | 0.60% | ~4,307 |
 | Lady Wing Chun | 0.60% | ~4,307 |
 | Kill Nil | 0.60% | ~4,307 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,784 (Ranked 22)  
+Progressed: 717,787 (Ranked 22)  
 Completed: 12,943 (1.80%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 12,943 (1.80%) (Ranked 134)
 | 2023-12-01 | 717,685 | 12,942 |
 | 2023-12-02 | 717,716 | 12,943 |
 | 2023-12-03 | 717,761 | 12,943 |
-| 2023-12-04 | 717,784 | 12,943 |
+| 2023-12-04 | 717,787 | 12,943 |
 ## Awards
 Max (Great Boss Battles): 6,870  (Ranked 55)  
 Sum: 12,052 (Ranked 83)  

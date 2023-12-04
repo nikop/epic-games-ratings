@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -315,7 +315,7 @@
   "Tags": [],
   "EOS_Progressed": 24647,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7362,9 +7362,9 @@
       "ID": "ACH_GET_MAGBOOTS",
       "SetID": "cdkbb11",
       "Name": "RIP Davey Glutes",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 493
+      "UsersEstimate": 739
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -7649,8 +7649,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-11-08T23:02:28.6590221+00:00",
-  "LastChanged_Achievements": "2023-12-04T15:04:32.3930922+00:00",
+  "LastChanged_Achievements": "2023-12-04T16:05:25.6373114+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:04.790571+00:00",
-  "LastUpdate_Ratings": "2023-12-04T15:00:19.2232367+00:00",
-  "LastUpdate_Achievements": "2023-12-04T15:04:32.3931662+00:00"
+  "LastUpdate_Ratings": "2023-12-04T16:01:33.1284808+00:00",
+  "LastUpdate_Achievements": "2023-12-04T16:05:25.637365+00:00"
 }

@@ -25,6 +25,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Delving Deeper | 0.40% | ~962 |
 | R.I.P | 0.40% | ~962 |
 | Dig Your Own Grave | 0.40% | ~962 |
+| Who To Trust? | 0.40% | ~962 |
 | Walk It Off | 0.40% | ~962 |
 | Cold Hearted | 0.40% | ~962 |
 | I Am Overburdened | 0.40% | ~962 |
@@ -46,7 +47,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shadow Spreads | 0.30% | ~722 |
 | To The Death! | 0.30% | ~722 |
 | Well Prepared | 0.30% | ~722 |
-| Who To Trust? | 0.30% | ~722 |
 | Just Chilling | 0.30% | ~722 |
 | Save Our Souls | 0.30% | ~722 |
 | Don't Ignore Me! | 0.30% | ~722 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,610 (Ranked 64)  
+Progressed: 240,612 (Ranked 64)  
 Completed: 292 (0.12%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -373,7 +373,7 @@ Completed: 292 (0.12%) (Ranked 280)
 | 2023-12-01 | 240,480 | 291 |
 | 2023-12-02 | 240,522 | 291 |
 | 2023-12-03 | 240,591 | 292 |
-| 2023-12-04 | 240,610 | 292 |
+| 2023-12-04 | 240,612 | 292 |
 ## Awards
 Max (Quickly Understood Controls): 1,505  (Ranked 133)  
 Sum: 11,707 (Ranked 84)  

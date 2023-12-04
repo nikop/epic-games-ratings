@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 3,
   "Ranking_EOS_Progress": 776,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 483,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 482,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-05-14T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -9965,10 +9965,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1836286,
       "NumberOfAwardsMax": 268786
+    },
+    {
+      "Time": "2023-12-04T16:00:05.8113158+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1837475,
+      "NumberOfAwardsMax": 268786
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1836286,
+  "NumberOfAwards": 1837475,
   "NumberOfAwardsMax": 268786,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9994,13 +10000,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 216342
+      "Count": 216732
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 218321
+      "Count": 218699
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -10012,7 +10018,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 224550
+      "Count": 224971
     },
     {
       "Text": "This game has Amazing Characters",
@@ -10044,8 +10050,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2023-12-04T14:59:13.4515528+00:00",
+  "LastChanged": "2023-12-04T16:00:05.8113157+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:32.4751543+00:00",
-  "LastUpdate_Ratings": "2023-12-04T14:59:13.4515534+00:00",
-  "LastUpdate_Achievements": "2023-12-04T15:04:06.6339435+00:00"
+  "LastUpdate_Ratings": "2023-12-04T16:00:05.8113164+00:00",
+  "LastUpdate_Achievements": "2023-12-04T16:04:51.4734122+00:00"
 }

@@ -6,16 +6,16 @@
 | ---- | ---------- | ----- |
 | Wanderer | 80.00% | ~83 |
 | Something important | 77.00% | ~80 |
-| A piece of the story | 59.00% | ~61 |
+| A piece of the story | 60.00% | ~62 |
+| It's covered up for a reason | 46.00% | ~48 |
 | Do what you have to | 46.00% | ~48 |
-| It's covered up for a reason | 45.00% | ~47 |
 | The artist’s impression | 45.00% | ~47 |
 | Scraps of love | 44.00% | ~46 |
 | Refuse to look | 38.00% | ~40 |
 | Sign of weakness | 38.00% | ~40 |
 | Finished it | 29.00% | ~30 |
 | Face your fears | 27.00% | ~28 |
-| Whispers long forgotten | 14.00% | ~15 |
+| Whispers long forgotten | 15.00% | ~16 |
 | Playtime | 13.00% | ~14 |
 | The tragedy unfolds | 13.00% | ~14 |
 | Tough conversation | 13.00% | ~14 |

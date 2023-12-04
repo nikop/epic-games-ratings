@@ -6,20 +6,20 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~10,689 |
-| It wakes | 1.00% | ~10,689 |
-| Skillful | 1.00% | ~10,689 |
-| Not half bad | 0.90% | ~9,620 |
-| Apt Survivor | 0.80% | ~8,551 |
-| I | 0.80% | ~8,551 |
-| Make Some Noise | 0.80% | ~8,551 |
+| Zealous | 1.00% | ~10,691 |
+| It wakes | 1.00% | ~10,691 |
+| Skillful | 1.00% | ~10,691 |
+| Not half bad | 0.90% | ~9,622 |
+| Apt Survivor | 0.80% | ~8,552 |
+| I | 0.80% | ~8,552 |
+| Make Some Noise | 0.80% | ~8,552 |
 | Handyman | 0.70% | ~7,483 |
 | Survival Treasures | 0.70% | ~7,483 |
+| Sorted | 0.70% | ~7,483 |
 | The Grand Sacrifice | 0.60% | ~6,414 |
 | No one left behind | 0.60% | ~6,414 |
 | Medic | 0.60% | ~6,414 |
 | Bloody Millionaire | 0.60% | ~6,414 |
-| Sorted | 0.60% | ~6,414 |
 | Healthy Obsession | 0.60% | ~6,414 |
 | Resurgence | 0.60% | ~6,414 |
 | Preemptive Strike | 0.60% | ~6,414 |
@@ -53,6 +53,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | With Scars to Show | 0.30% | ~3,207 |
 | Flight to Freedom | 0.30% | ~3,207 |
 | Lifting The Fog | 0.30% | ~3,207 |
+| Chorus of Chaos | 0.30% | ~3,207 |
 | Second Act | 0.30% | ~3,207 |
 | A bite for the Entity | 0.20% | ~2,138 |
 | Blood on your face | 0.20% | ~2,138 |
@@ -81,10 +82,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outrun the Overlap | 0.20% | ~2,138 |
 | A Fast Death | 0.20% | ~2,138 |
 | Rebuilding The Borgo | 0.20% | ~2,138 |
-| Chorus of Chaos | 0.20% | ~2,138 |
 | Extraterrestrial | 0.20% | ~2,138 |
 | One More Step | 0.20% | ~2,138 |
 | MU/TH/UR Dearest | 0.20% | ~2,138 |
+| Outta Nowhere | 0.20% | ~2,138 |
 | A feast for the Entity | 0.10% | ~1,069 |
 | Blood in your mouth | 0.10% | ~1,069 |
 | Cripple them all | 0.10% | ~1,069 |
@@ -236,10 +237,9 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~1,069 |
 | Adept Ripley | 0.10% | ~1,069 |
 | Joke’s On You | 0.10% | ~1,069 |
-| Outta Nowhere | 0.10% | ~1,069 |
 | Adept Good Guy | 0.10% | ~1,069 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,068,937 (Ranked 14)  
+Progressed: 1,069,059 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -467,7 +467,7 @@ Completed: 61 (0.01%) (Ranked 345)
 | 2023-12-01 | 1,059,298 | 61 |
 | 2023-12-02 | 1,062,340 | 61 |
 | 2023-12-03 | 1,067,390 | 61 |
-| 2023-12-04 | 1,068,937 | 61 |
+| 2023-12-04 | 1,069,059 | 61 |
 ## Awards
 Max (Diverse Characters): 37,218  (Ranked 15)  
 Sum: 282,770 (Ranked 12)  

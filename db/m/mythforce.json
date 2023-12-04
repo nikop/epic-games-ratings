@@ -3,12 +3,12 @@
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 634,
-  "Ranking_Popularity": 480,
+  "Ranking_Popularity": 475,
   "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 190,
-  "Ranking_EOS_Completed": 300,
+  "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -738,11 +738,17 @@
       "Rating": 4.48,
       "NumberOfAwards": 289,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-12-04T15:58:40.0597107+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 290,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 289,
-  "NumberOfAwardsMax": 35,
+  "NumberOfAwards": 290,
+  "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -761,7 +767,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -808,7 +814,7 @@
   ],
   "EOS_Progressed": 5332,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10632,9 +10638,9 @@
       "ID": "MF_Ach_HorderBetterFasterStronger",
       "SetID": "9b9n573",
       "Name": "Horder Better Faster Stronger",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 906
+      "UsersEstimate": 960
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -10688,9 +10694,9 @@
       "ID": "MF_Ach_SpendingSpree",
       "SetID": "9b9n573",
       "Name": "Spending Spree",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 960
+      "UsersEstimate": 1013
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -10727,9 +10733,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
-  "LastChanged": "2023-12-01T06:01:05.0621947+00:00",
-  "LastChanged_Achievements": "2023-12-04T15:04:09.6914632+00:00",
+  "LastChanged": "2023-12-04T15:58:40.0597106+00:00",
+  "LastChanged_Achievements": "2023-12-04T16:04:55.7857104+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:08.5943079+00:00",
-  "LastUpdate_Ratings": "2023-12-04T14:58:08.1532517+00:00",
-  "LastUpdate_Achievements": "2023-12-04T15:04:09.691525+00:00"
+  "LastUpdate_Ratings": "2023-12-04T15:58:40.059711+00:00",
+  "LastUpdate_Achievements": "2023-12-04T16:04:55.7857599+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -83,7 +83,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1961,
+  "EOS_Progressed": 1962,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
@@ -7438,6 +7438,11 @@
       "Time": "2023-12-04T15:03:23.3300265+00:00",
       "NumProgressed": 1961,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-04T16:03:55.0695514+00:00",
+      "NumProgressed": 1962,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7529,7 +7534,7 @@
       "Name": "Keeping Busy",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_headquarters_15",
@@ -7689,7 +7694,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -7752,7 +7757,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1961,
+      "Progressed": 1962,
       "Completed": 1
     }
   ],
@@ -7760,8 +7765,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-21T23:00:15.982699+00:00",
-  "LastChanged_Achievements": "2023-12-04T15:03:23.3300261+00:00",
+  "LastChanged_Achievements": "2023-12-04T16:03:55.069551+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:25.6864843+00:00",
-  "LastUpdate_Ratings": "2023-12-04T14:58:57.8446985+00:00",
-  "LastUpdate_Achievements": "2023-12-04T15:03:23.3300872+00:00"
+  "LastUpdate_Ratings": "2023-12-04T15:59:45.2770242+00:00",
+  "LastUpdate_Achievements": "2023-12-04T16:03:55.0696026+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -4819,9 +4819,9 @@
       "ID": "achievement_40",
       "SetID": "b9pe172",
       "Name": "Suicide Mission",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 421
+      "UsersEstimate": 436
     },
     {
       "ID": "achievement_41",
@@ -5067,9 +5067,9 @@
       "ID": "achievement_69",
       "SetID": "d252ncf",
       "Name": "Galactic Explorer",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 75,
-      "UsersEstimate": 481
+      "UsersEstimate": 496
     },
     {
       "ID": "achievement_7",
@@ -5351,8 +5351,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-04T15:08:57.2491881+00:00",
+  "LastChanged_Achievements": "2023-12-04T16:09:49.6755421+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:17.762066+00:00",
-  "LastUpdate_Ratings": "2023-12-04T15:03:05.059895+00:00",
-  "LastUpdate_Achievements": "2023-12-04T15:08:57.2493406+00:00"
+  "LastUpdate_Ratings": "2023-12-04T16:03:29.6249772+00:00",
+  "LastUpdate_Achievements": "2023-12-04T16:09:49.6757055+00:00"
 }
