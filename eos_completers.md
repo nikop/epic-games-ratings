@@ -16,7 +16,7 @@
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.47% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Overloop](games/o/overloop.md) | 25.00% |
-| 17 | [The Riflemen](games/t/the_riflemen.md) | 24.44% |
+| 17 | [The Riflemen](games/t/the_riflemen.md) | 24.42% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 20 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
@@ -59,7 +59,7 @@
 | 57 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.15% |
 | 58 | [Anna's Quest](games/a/anna's_quest.md) | 7.14% |
 | 58 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 7.14% |
-| 60 | [Sonic Origins](games/s/sonic_origins.md) | 7.13% |
+| 60 | [Sonic Origins](games/s/sonic_origins.md) | 7.12% |
 | 61 | [Scorn](games/s/scorn.md) | 7.09% |
 | 62 | [Time Loader](games/t/time_loader.md) | 7.03% |
 | 63 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.67% |
@@ -70,7 +70,7 @@
 | 68 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
 | 69 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.77% |
 | 70 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
-| 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.69% |
+| 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.68% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 72 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 74 | [JARS](games/j/jars.md) | 5.00% |
@@ -78,7 +78,7 @@
 | 76 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |
 | 76 | [Time on Frog Island](games/t/time_on_frog_island.md) | 4.76% |
 | 76 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 4.76% |
-| 79 | [ZZT!](games/z/zzt!.md) | 4.65% |
+| 79 | [ZZT!](games/z/zzt!.md) | 4.68% |
 | 80 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.60% |
 | 81 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.49% |
 | 82 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.47% |
@@ -141,7 +141,7 @@
 | 139 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 1.61% |
 | 140 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.59% |
 | 141 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
-| 142 | [Five Dates](games/f/five_dates.md) | 1.56% |
+| 142 | [Five Dates](games/f/five_dates.md) | 1.55% |
 | 143 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.54% |
 | 144 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.47% |
 | 144 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.47% |
@@ -179,9 +179,9 @@
 | 176 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.87% |
 | 178 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.83% |
 | 178 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.83% |
-| 180 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.82% |
-| 181 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
-| 181 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.81% |
+| 180 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.81% |
+| 180 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
+| 180 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.81% |
 | 183 | [Infindustry](games/i/infindustry.md) | 0.79% |
 | 184 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
 | 185 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.74% |
@@ -290,15 +290,15 @@
 | 288 | [Black Book](games/b/black_book.md) | 0.10% |
 | 288 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.10% |
 | 288 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 288 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 0.10% |
 | 288 | [Supraland](games/s/supraland.md) | 0.10% |
-| 292 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 292 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 0.09% |
-| 292 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 0.09% |
-| 292 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
-| 292 | [Port Royale 4](games/p/port_royale_4.md) | 0.09% |
-| 292 | [Riverbond](games/r/riverbond.md) | 0.09% |
-| 292 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
-| 292 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
+| 293 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 293 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 0.09% |
+| 293 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
+| 293 | [Port Royale 4](games/p/port_royale_4.md) | 0.09% |
+| 293 | [Riverbond](games/r/riverbond.md) | 0.09% |
+| 293 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
+| 293 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 300 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.08% |
 | 300 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
 | 300 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.08% |
@@ -696,6 +696,7 @@
 | 366 | [Suicide Guy](games/7/7d9cb4fa8c4b488d86c7e9dec37318d5.md) | 0.00% |
 | 366 | [Sunlight Scream](games/f/f1d0d2bf90c0444684c26bb6190cc74f.md) | 0.00% |
 | 366 | [Super Hydorah](games/0/0a17427d84184578bd1bc06a2f410a58.md) | 0.00% |
+| 366 | [Super Kids Racing](games/6/69cf8b0d605e4d88bc89e2c04199ab2e.md) | 0.00% |
 | 366 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 0.00% |
 | 366 | [Survive on Raft](games/s/survive_on_raft.md) | 0.00% |
 | 366 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 0.00% |
@@ -773,4 +774,4 @@
 | 366 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 366 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 366 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,646 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,647 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |

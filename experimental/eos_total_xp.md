@@ -675,6 +675,7 @@
 | [Super Alloy Ranger](../games/s/super_alloy_ranger.md) | 50 | 1,000 |
 | [Super Bit Blaster XL](../games/s/super_bit_blaster_xl.md) | 17 | 1,000 |
 | [Super Hydorah](../games/0/0a17427d84184578bd1bc06a2f410a58.md) | 21 | 1,000 |
+| [Super Kids Racing](../games/6/69cf8b0d605e4d88bc89e2c04199ab2e.md) | 8 | 1,000 |
 | [Super Smash Asteroids](../games/s/super_smash_asteroids.md) | 39 | 1,000 |
 | [Supfly Delivery Simulator](../games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 9 | 1,000 |
 | [Supraland](../games/s/supraland.md) | 98 | 1,000 |
