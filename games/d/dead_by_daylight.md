@@ -6,21 +6,21 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~10,686 |
-| It wakes | 1.00% | ~10,686 |
-| Skillful | 1.00% | ~10,686 |
-| Not half bad | 0.90% | ~9,617 |
-| Apt Survivor | 0.80% | ~8,549 |
-| Make Some Noise | 0.80% | ~8,549 |
-| Handyman | 0.70% | ~7,480 |
-| Survival Treasures | 0.70% | ~7,480 |
-| I | 0.70% | ~7,480 |
-| No one left behind | 0.60% | ~6,411 |
-| Medic | 0.60% | ~6,411 |
-| Sorted | 0.60% | ~6,411 |
-| Healthy Obsession | 0.60% | ~6,411 |
-| Resurgence | 0.60% | ~6,411 |
-| Preemptive Strike | 0.60% | ~6,411 |
+| Zealous | 1.00% | ~10,687 |
+| It wakes | 1.00% | ~10,687 |
+| Skillful | 1.00% | ~10,687 |
+| Not half bad | 0.90% | ~9,618 |
+| Apt Survivor | 0.80% | ~8,550 |
+| I | 0.80% | ~8,550 |
+| Make Some Noise | 0.80% | ~8,550 |
+| Handyman | 0.70% | ~7,481 |
+| Survival Treasures | 0.70% | ~7,481 |
+| No one left behind | 0.60% | ~6,412 |
+| Medic | 0.60% | ~6,412 |
+| Sorted | 0.60% | ~6,412 |
+| Healthy Obsession | 0.60% | ~6,412 |
+| Resurgence | 0.60% | ~6,412 |
+| Preemptive Strike | 0.60% | ~6,412 |
 | The Grand Sacrifice | 0.50% | ~5,343 |
 | Agonizing Escape | 0.50% | ~5,343 |
 | Backdoor Escape | 0.50% | ~5,343 |
@@ -29,15 +29,16 @@ Number of Ratings: 70,340  (23.09.2022)
 | II | 0.50% | ~5,343 |
 | Close Shave | 0.50% | ~5,343 |
 | Humanitarian | 0.50% | ~5,343 |
-| I've got your back | 0.40% | ~4,274 |
-| Perfect Killing | 0.40% | ~4,274 |
-| Apt Killer | 0.40% | ~4,274 |
-| Risk it all | 0.40% | ~4,274 |
-| III | 0.40% | ~4,274 |
-| Engineer | 0.40% | ~4,274 |
-| Wounded Healer | 0.40% | ~4,274 |
+| I've got your back | 0.40% | ~4,275 |
+| Perfect Killing | 0.40% | ~4,275 |
+| Apt Killer | 0.40% | ~4,275 |
+| Risk it all | 0.40% | ~4,275 |
+| III | 0.40% | ~4,275 |
+| Engineer | 0.40% | ~4,275 |
+| Wounded Healer | 0.40% | ~4,275 |
 | Blood on your hands | 0.30% | ~3,206 |
 | Escape Artist | 0.30% | ~3,206 |
+| Nerves of steel | 0.30% | ~3,206 |
 | Gifts for the Fog | 0.30% | ~3,206 |
 | Vulture | 0.30% | ~3,206 |
 | III-50 | 0.30% | ~3,206 |
@@ -54,7 +55,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | A bite for the Entity | 0.20% | ~2,137 |
 | Blood on your face | 0.20% | ~2,137 |
 | Made it out alive! | 0.20% | ~2,137 |
-| Nerves of steel | 0.20% | ~2,137 |
 | Hemophobia | 0.20% | ~2,137 |
 | Shock Therapy | 0.20% | ~2,137 |
 | All Aboard | 0.20% | ~2,137 |
@@ -62,6 +62,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Item of Obsession | 0.20% | ~2,137 |
 | House of Pain | 0.20% | ~2,137 |
 | Cottage Owner | 0.20% | ~2,137 |
+| Serial Killer | 0.20% | ~2,137 |
 | Escaping the Nightmare | 0.20% | ~2,137 |
 | Holiday Get-Together | 0.20% | ~2,137 |
 | Near-Death Experience | 0.20% | ~2,137 |
@@ -122,7 +123,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Texas BBQ | 0.10% | ~1,069 |
 | Adept Cannibal | 0.10% | ~1,069 |
 | Dream Demon | 0.10% | ~1,069 |
-| Serial Killer | 0.10% | ~1,069 |
 | Adept Nightmare | 0.10% | ~1,069 |
 | Looter | 0.10% | ~1,069 |
 | Adept Quentin | 0.10% | ~1,069 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,069 |
 | Adept Good Guy | 0.10% | ~1,069 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,068,582 (Ranked 14)  
+Progressed: 1,068,692 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -467,7 +467,7 @@ Completed: 61 (0.01%) (Ranked 345)
 | 2023-12-01 | 1,059,298 | 61 |
 | 2023-12-02 | 1,062,340 | 61 |
 | 2023-12-03 | 1,067,390 | 61 |
-| 2023-12-04 | 1,068,582 | 61 |
+| 2023-12-04 | 1,068,692 | 61 |
 ## Awards
 Max (Diverse Characters): 37,218  (Ranked 15)  
 Sum: 282,770 (Ranked 12)  

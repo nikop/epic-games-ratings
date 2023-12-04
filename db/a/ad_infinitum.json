@@ -4,7 +4,7 @@
   "ProductSlug": "ad-infinitum",
   "Ranking_EOS_Progress": 472,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 484,
+  "Ranking_EOS_NewPlayers": 483,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -439,9 +439,9 @@
       "ID": "ACH_CLARITY",
       "SetID": "88d7anj",
       "Name": "Clarity",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_CORRUPTION",
@@ -559,9 +559,9 @@
       "ID": "ACH_PATHOFPAIN",
       "SetID": "88d7anj",
       "Name": "Path of Pain",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_PEACE",
@@ -614,8 +614,8 @@
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2023-12-04T12:04:41.2306+00:00",
+  "LastChanged_Achievements": "2023-12-04T13:10:28.9715714+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:57.548474+00:00",
-  "LastUpdate_Ratings": "2023-12-04T11:59:23.9820422+00:00",
-  "LastUpdate_Achievements": "2023-12-04T12:04:41.2306279+00:00"
+  "LastUpdate_Ratings": "2023-12-04T13:05:15.8944839+00:00",
+  "LastUpdate_Achievements": "2023-12-04T13:10:28.9715907+00:00"
 }

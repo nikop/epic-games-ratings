@@ -1,18 +1,18 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.39 (Ranked 751)  
+Rating: 4.39 (Ranked 752)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 11.00% | ~35,879 |
-| IT MAKES BOOM! | 7.00% | ~22,832 |
-| EXTRA BOOST | 5.00% | ~16,309 |
-| PROTECTED | 4.00% | ~13,047 |
-| PRO | 4.00% | ~13,047 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,785 |
-| AGGRESSIVE RACER | 3.00% | ~9,785 |
-| A TIGER'S FEAR | 2.00% | ~6,523 |
+| ROOKIE | 11.00% | ~35,885 |
+| IT MAKES BOOM! | 7.00% | ~22,836 |
+| EXTRA BOOST | 5.00% | ~16,311 |
+| PROTECTED | 4.00% | ~13,049 |
+| PRO | 4.00% | ~13,049 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,787 |
+| AGGRESSIVE RACER | 3.00% | ~9,787 |
+| A TIGER'S FEAR | 2.00% | ~6,525 |
 | IT'S A LONG WAY TO THE TOP | 1.00% | ~3,262 |
 | TRAINING HARD | 1.00% | ~3,262 |
 | BE OUR GUEST | 1.00% | ~3,262 |
@@ -21,8 +21,8 @@ Rating: 4.39 (Ranked 751)
 | RELEASE THE KRAKEN | 0.90% | ~2,936 |
 | FRIENDLY | 0.90% | ~2,936 |
 | LEGENDARY HERO | 0.90% | ~2,936 |
-| DEFEAT OUR CHAMPION | 0.80% | ~2,609 |
-| THE EYE OF THE HUNTER | 0.70% | ~2,283 |
+| DEFEAT OUR CHAMPION | 0.80% | ~2,610 |
+| THE EYE OF THE HUNTER | 0.70% | ~2,284 |
 | EXPERIENCED CREW | 0.60% | ~1,957 |
 | ACE BRAWLER | 0.50% | ~1,631 |
 | ACE DEFENDER | 0.50% | ~1,631 |
@@ -30,7 +30,7 @@ Rating: 4.39 (Ranked 751)
 | ACE TRICKSTER | 0.40% | ~1,305 |
 | PERFECTLY POISED | 0.30% | ~979 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 326,171 (Ranked 51)  
+Progressed: 326,226 (Ranked 51)  
 Completed: 452 (0.14%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 452 (0.14%) (Ranked 274)
 | 2023-12-01 | 320,205 | 413 |
 | 2023-12-02 | 321,996 | 428 |
 | 2023-12-03 | 325,453 | 446 |
-| 2023-12-04 | 326,171 | 452 |
+| 2023-12-04 | 326,226 | 452 |
 ## Awards
 Max (Great for Beginners): 109  (Ranked 354)  
 Sum: 744 (Ranked 290)  

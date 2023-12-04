@@ -46,7 +46,7 @@
 | A Megapint...? | 23.00% | ~30 |
 | Your daily dose of Vitamin C. | 23.00% | ~30 |
 | I cant stand still! | 20.00% | ~26 |
-| Slimy... yet satisfying | 19.00% | ~25 |
+| Slimy... yet satisfying | 20.00% | ~26 |
 | Master Butcher | 18.00% | ~24 |
 | Just wing it! | 17.00% | ~22 |
 | Deal with it | 17.00% | ~22 |
@@ -87,7 +87,7 @@
 | Catch me if you can | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132 (Ranked 413)  
+Progressed: 132 (Ranked 414)  
 Completed: 0 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |

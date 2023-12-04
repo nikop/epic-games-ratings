@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7263,
+  "EOS_Progressed": 7265,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13524,6 +13524,11 @@
       "Time": "2023-12-04T07:03:47.6832707+00:00",
       "NumProgressed": 7263,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-04T13:09:34.0394874+00:00",
+      "NumProgressed": 7265,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -13591,7 +13596,7 @@
       "Name": "Dense Forest",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 1961
+      "UsersEstimate": 1962
     },
     {
       "ID": "3",
@@ -13623,7 +13628,7 @@
       "Name": "High Treetops",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "7",
@@ -13654,7 +13659,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 7263,
+      "Progressed": 7265,
       "Completed": 0
     }
   ],
@@ -13662,8 +13667,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-12-04T12:03:48.5417456+00:00",
+  "LastChanged_Achievements": "2023-12-04T13:09:34.039487+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:21.6342307+00:00",
-  "LastUpdate_Ratings": "2023-12-04T11:58:35.5548292+00:00",
-  "LastUpdate_Achievements": "2023-12-04T12:03:48.5418354+00:00"
+  "LastUpdate_Ratings": "2023-12-04T13:04:25.7524782+00:00",
+  "LastUpdate_Achievements": "2023-12-04T13:09:34.0395609+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "eyes-in-the-dark",
   "Ranking_EOS_Progress": 776,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 484,
+  "Ranking_EOS_NewPlayers": 483,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-07-14T13:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:02.9282525+00:00",
   "LastChanged": "2023-03-31T05:57:02.9282526+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:16.6421683+00:00",
-  "LastUpdate_Ratings": "2023-12-04T12:02:52.4330576+00:00",
-  "LastUpdate_Achievements": "2023-12-04T12:04:50.3447411+00:00"
+  "LastUpdate_Ratings": "2023-12-04T13:08:34.5797858+00:00",
+  "LastUpdate_Achievements": "2023-12-04T13:10:38.3980252+00:00"
 }

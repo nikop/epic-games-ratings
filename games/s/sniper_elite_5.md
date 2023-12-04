@@ -5,7 +5,7 @@ Rating: 4.44 (Ranked 678)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,867 |
+| Meeting Resistance | 47.00% | ~1,868 |
 | Confirming Suspicions | 41.00% | ~1,629 |
 | The Kraken Wakes | 37.00% | ~1,470 |
 | It's Starting to Crack | 34.00% | ~1,351 |
@@ -14,16 +14,16 @@ Rating: 4.44 (Ranked 678)
 | Taking it back | 29.00% | ~1,152 |
 | Resourceful | 27.00% | ~1,073 |
 | Target America | 27.00% | ~1,073 |
-| The Kraken Sleeps | 25.00% | ~993 |
+| The Kraken Sleeps | 25.00% | ~994 |
 | Liberté | 23.00% | ~914 |
 | Organ Grinder | 23.00% | ~914 |
-| Sharpshooter | 23.00% | ~914 |
 | As Quiet as a Mouse | 23.00% | ~914 |
+| Sharpshooter | 22.00% | ~874 |
 | Gunslinger | 19.00% | ~755 |
 | Explosive Efficiency | 19.00% | ~755 |
-| Climbing the Ladder | 17.00% | ~675 |
-| Just a Flesh Wound | 17.00% | ~675 |
-| Der Geist | 17.00% | ~675 |
+| Climbing the Ladder | 17.00% | ~676 |
+| Just a Flesh Wound | 17.00% | ~676 |
+| Der Geist | 17.00% | ~676 |
 | Close Quarters | 16.00% | ~636 |
 | Snake in the Grass | 16.00% | ~636 |
 | Skirmisher | 15.00% | ~596 |
@@ -33,12 +33,12 @@ Rating: 4.44 (Ranked 678)
 | Opposing Force | 14.00% | ~556 |
 | Enemy at the Gates | 14.00% | ~556 |
 | Fields of Glory | 14.00% | ~556 |
-| Set Europe Ablaze | 13.00% | ~516 |
+| Set Europe Ablaze | 13.00% | ~517 |
 | Precision Is Key | 10.00% | ~397 |
 | My Little Friend | 10.00% | ~397 |
 | Rigged to Blow | 9.00% | ~358 |
 | Herr Today, Gone Tomorrow | 7.00% | ~275 |
-| Operation Foxley | 6.00% | ~235 |
+| Operation Foxley | 6.00% | ~236 |
 | The Long Game | 5.00% | ~199 |
 | Tinkerer | 5.00% | ~199 |
 | It'll Buff Right Out | 5.00% | ~199 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 678)
 | Stroll in the Woods | 0.60% | ~24 |
 | Going Overboard | 0.60% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,973 (Ranked 198)  
+Progressed: 3,974 (Ranked 198)  
 Completed: 11 (0.28%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 11 (0.28%) (Ranked 243)
 | 2023-12-01 | 3,961 | 11 |
 | 2023-12-02 | 3,967 | 11 |
 | 2023-12-03 | 3,972 | 11 |
-| 2023-12-04 | 3,973 | 11 |
+| 2023-12-04 | 3,974 | 11 |
 ## Awards
 Max (Great for Beginners): 27  (Ranked 515)  
 Sum: 27 (Ranked 527)  

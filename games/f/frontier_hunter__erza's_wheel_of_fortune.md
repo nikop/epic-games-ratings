@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 92.00% | ~494 |
-| Training Simulation | 77.00% | ~413 |
-| Kuku Bird Hunter | 62.00% | ~333 |
+| Travel Streamer | 93.00% | ~499 |
+| Training Simulation | 78.00% | ~419 |
+| Kuku Bird Hunter | 63.00% | ~338 |
 | Storm Traveller | 57.00% | ~306 |
 | Wolf King Killer | 52.00% | ~279 |
 | Fashion Connoisseur | 50.00% | ~268 |
@@ -23,7 +23,7 @@
 | Trader | 21.00% | ~113 |
 | Weapon Boost | 20.00% | ~107 |
 | Flying Kobold Killer | 17.00% | ~91 |
-| Youth Magnet | 16.00% | ~86 |
+| Youth Magnet | 17.00% | ~91 |
 | Master Artificer | 16.00% | ~86 |
 | Furious Scorpion Killer | 15.00% | ~81 |
 | Lethal Blade Mantis Killer | 15.00% | ~81 |

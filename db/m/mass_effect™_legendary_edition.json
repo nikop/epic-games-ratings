@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1500,
+  "EOS_Progressed": 1501,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -4303,6 +4303,11 @@
       "Time": "2023-12-04T12:08:47.5736566+00:00",
       "NumProgressed": 1500,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-04T13:14:19.8037652+00:00",
+      "NumProgressed": 1501,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -4315,7 +4320,7 @@
       "Name": "Medal of Honor",
       "Percentage": 52,
       "XP": 125,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "achievement_10",
@@ -4539,7 +4544,7 @@
       "Name": "Recruit",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "achievement_125",
@@ -4611,7 +4616,7 @@
       "Name": "Meritorious Service Medal",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "achievement_19",
@@ -4627,7 +4632,7 @@
       "Name": "Medal of Heroism",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "achievement_20",
@@ -4643,15 +4648,15 @@
       "Name": "Medal of Exploration I",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "achievement_22",
       "SetID": "b9pe172",
       "Name": "Medal of Exploration II",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 810
+      "UsersEstimate": 796
     },
     {
       "ID": "achievement_23",
@@ -4691,7 +4696,7 @@
       "Name": "Turian Ally",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "achievement_28",
@@ -4699,7 +4704,7 @@
       "Name": "Quarian Ally",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "achievement_29",
@@ -4715,7 +4720,7 @@
       "Name": "Distinguished Service Medal",
       "Percentage": 93,
       "XP": 25,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "achievement_30",
@@ -4731,15 +4736,15 @@
       "Name": "Spectre Inductee",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 1200
+      "UsersEstimate": 1201
     },
     {
       "ID": "achievement_32",
       "SetID": "b9pe172",
       "Name": "Charismatic",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 765
+      "UsersEstimate": 750
     },
     {
       "ID": "achievement_33",
@@ -4747,7 +4752,7 @@
       "Name": "Search and Rescue",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "achievement_34",
@@ -4803,7 +4808,7 @@
       "Name": "Council Legion of Merit",
       "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "achievement_40",
@@ -4891,7 +4896,7 @@
       "Name": "Honorarium of Corporate Service",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "achievement_50",
@@ -5330,19 +5335,19 @@
     {
       "ID": "b9pe172",
       "IsBase": true,
-      "Progressed": 1500,
+      "Progressed": 1501,
       "Completed": 7
     },
     {
       "ID": "d252ncf",
       "IsBase": false,
-      "Progressed": 1500,
+      "Progressed": 1501,
       "Completed": 4
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-04T12:08:47.5736563+00:00",
+  "LastChanged_Achievements": "2023-12-04T13:14:19.8037645+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:17.762066+00:00",
-  "LastUpdate_Ratings": "2023-12-04T12:02:54.3630407+00:00",
-  "LastUpdate_Achievements": "2023-12-04T12:08:47.5738514+00:00"
+  "LastUpdate_Ratings": "2023-12-04T13:08:36.4877876+00:00",
+  "LastUpdate_Achievements": "2023-12-04T13:14:19.8039349+00:00"
 }

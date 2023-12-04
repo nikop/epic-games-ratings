@@ -25,10 +25,10 @@ Rating: 4.56 (Ranked 495)
 | In the smacker...I think | 10.00% | ~76 |
 | Arm Wrestlin' | 9.00% | ~68 |
 | 1+1>2 | 9.00% | ~68 |
+| So Fresh and So clean clean | 8.00% | ~61 |
 | This can't be right… | 8.00% | ~61 |
 | Welcome home, 06 | 8.00% | ~61 |
 | I'm walking here! | 7.00% | ~53 |
-| So Fresh and So clean clean | 7.00% | ~53 |
 | Supreme Bartender Ann | 7.00% | ~53 |
 | Clarity of Mind | 6.00% | ~46 |
 | I feel secure, contained & protected | 6.00% | ~46 |

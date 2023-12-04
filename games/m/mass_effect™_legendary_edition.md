@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 93.00% | ~1,395 |
-| Spectre Inductee | 80.00% | ~1,200 |
-| Medal of Exploration I | 72.00% | ~1,080 |
-| Recruit | 68.00% | ~1,020 |
-| Search and Rescue | 67.00% | ~1,005 |
-| Quarian Ally | 64.00% | ~960 |
-| Medal of Heroism | 60.00% | ~900 |
-| Honorarium of Corporate Service | 60.00% | ~900 |
-| Medal of Exploration II | 54.00% | ~810 |
-| Council Legion of Merit | 54.00% | ~810 |
-| Turian Ally | 53.00% | ~795 |
-| Medal of Honor | 52.00% | ~780 |
-| Meritorious Service Medal | 52.00% | ~780 |
-| Charismatic | 51.00% | ~765 |
+| Distinguished Service Medal | 93.00% | ~1,396 |
+| Spectre Inductee | 80.00% | ~1,201 |
+| Medal of Exploration I | 72.00% | ~1,081 |
+| Recruit | 68.00% | ~1,021 |
+| Search and Rescue | 67.00% | ~1,006 |
+| Quarian Ally | 64.00% | ~961 |
+| Medal of Heroism | 60.00% | ~901 |
+| Honorarium of Corporate Service | 60.00% | ~901 |
+| Council Legion of Merit | 54.00% | ~811 |
+| Medal of Exploration II | 53.00% | ~796 |
+| Turian Ally | 53.00% | ~796 |
+| Medal of Honor | 52.00% | ~781 |
+| Meritorious Service Medal | 52.00% | ~781 |
 | Soldier | 50.00% | ~750 |
+| Charismatic | 50.00% | ~750 |
 | Soldier Ally | 47.00% | ~705 |
 | Asari Ally | 47.00% | ~705 |
 | Medal of Exploration III | 46.00% | ~690 |
@@ -132,7 +132,7 @@
 | Insanity III | 1.00% | ~15 |
 | Neural Shock Specialist | 1.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,500 (Ranked 243)  
+Progressed: 1,501 (Ranked 243)  
 Completed: 7 (0.47%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,4 +212,4 @@ Completed: 7 (0.47%) (Ranked 212)
 | 2023-12-01 | 1,472 | 6 |
 | 2023-12-02 | 1,484 | 6 |
 | 2023-12-03 | 1,498 | 7 |
-| 2023-12-04 | 1,500 | 7 |
+| 2023-12-04 | 1,501 | 7 |

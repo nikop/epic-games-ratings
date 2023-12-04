@@ -4517,9 +4517,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77657,
+  "EOS_Progressed": 77658,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 403,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24952,6 +24952,11 @@
       "Time": "2023-12-04T09:06:07.6215373+00:00",
       "NumProgressed": 77657,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-04T13:11:53.1556987+00:00",
+      "NumProgressed": 77658,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -25123,7 +25128,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 10095
+      "UsersEstimate": 10096
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -25171,7 +25176,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10095
+      "UsersEstimate": 10096
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -25195,7 +25200,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15531
+      "UsersEstimate": 15532
     },
     {
       "ID": "FREEZE_2",
@@ -25219,7 +25224,7 @@
       "Name": "Icebreaker",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "FREEZE_SHOWDOWN_2",
@@ -25267,7 +25272,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26403
+      "UsersEstimate": 26404
     },
     {
       "ID": "HARLEY_2",
@@ -25283,7 +25288,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15531
+      "UsersEstimate": 15532
     },
     {
       "ID": "HARLEY_4",
@@ -25299,7 +25304,7 @@
       "Name": "A Sophisticated Mallet",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "HERO_PROGRESSION_1",
@@ -25307,7 +25312,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38828
+      "UsersEstimate": 38829
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -25331,7 +25336,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15531
+      "UsersEstimate": 15532
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -25339,7 +25344,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20967
+      "UsersEstimate": 20968
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -25361,9 +25366,9 @@
       "ID": "MYSTERY_02",
       "SetID": "4eo5ebm",
       "Name": "Whispered Words",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19414
+      "UsersEstimate": 18638
     },
     {
       "ID": "MYSTERY_03",
@@ -25379,7 +25384,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15531
+      "UsersEstimate": 15532
     },
     {
       "ID": "MYSTERY_05",
@@ -25450,13 +25455,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77657,
+      "Progressed": 77658,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47937,
+      "Progressed": 47938,
       "Completed": 2675
     }
   ],
@@ -25464,8 +25469,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-04T08:57:48.9705429+00:00",
-  "LastChanged_Achievements": "2023-12-04T12:06:02.2373101+00:00",
+  "LastChanged_Achievements": "2023-12-04T13:11:53.1556982+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.5024346+00:00",
-  "LastUpdate_Ratings": "2023-12-04T11:57:35.1927302+00:00",
-  "LastUpdate_Achievements": "2023-12-04T12:06:02.2375282+00:00"
+  "LastUpdate_Ratings": "2023-12-04T13:03:22.1153991+00:00",
+  "LastUpdate_Achievements": "2023-12-04T13:11:53.1558423+00:00"
 }

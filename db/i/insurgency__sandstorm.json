@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewPlayers": 29,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
@@ -4228,9 +4228,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 496926,
+  "EOS_Progressed": 496942,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4129,
+  "EOS_NewPlayers": 4109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30303,6 +30303,11 @@
       "Time": "2023-12-04T12:04:59.1811599+00:00",
       "NumProgressed": 496926,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-04T13:10:47.5094524+00:00",
+      "NumProgressed": 496942,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -30370,7 +30375,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19877
+      "UsersEstimate": 19878
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -30402,7 +30407,7 @@
       "Name": "Grounded",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 3975
+      "UsersEstimate": 3976
     },
     {
       "ID": "ACH_HIT_RUN",
@@ -30474,7 +30479,7 @@
       "Name": "Play to Win",
       "Percentage": 0.8,
       "XP": 80,
-      "UsersEstimate": 3975
+      "UsersEstimate": 3976
     },
     {
       "ID": "ACH_POINT_SHOOTING",
@@ -30482,7 +30487,7 @@
       "Name": "Point Shooting",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19877
+      "UsersEstimate": 19878
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -30538,7 +30543,7 @@
       "Name": "Special Delivery",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 3478
+      "UsersEstimate": 3479
     },
     {
       "ID": "ACH_STYLING",
@@ -30578,7 +30583,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 24846
+      "UsersEstimate": 24847
     },
     {
       "ID": "ACH_WET_FEET",
@@ -30586,22 +30591,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19877
+      "UsersEstimate": 19878
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 496926,
+      "Progressed": 496942,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-12-04T01:46:00.9658729+00:00",
-  "LastChanged_Achievements": "2023-12-04T12:04:59.1811595+00:00",
+  "LastChanged_Achievements": "2023-12-04T13:10:47.5094518+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:50.9367232+00:00",
-  "LastUpdate_Ratings": "2023-12-04T11:57:43.9339101+00:00",
-  "LastUpdate_Achievements": "2023-12-04T12:04:59.1813439+00:00"
+  "LastUpdate_Ratings": "2023-12-04T13:03:31.3507721+00:00",
+  "LastUpdate_Achievements": "2023-12-04T13:10:47.5095873+00:00"
 }

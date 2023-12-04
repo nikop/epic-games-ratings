@@ -1325,9 +1325,9 @@
       "ID": "Samaritan",
       "SetID": "b7i210",
       "Name": "Samaritan",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 127
     },
     {
       "ID": "Street_food",
@@ -1364,8 +1364,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-12-04T12:04:39.9084652+00:00",
+  "LastChanged_Achievements": "2023-12-04T13:10:27.6509154+00:00",
   "LastUpdate_AppInfo": "2023-11-28T06:57:03.7256389+00:00",
-  "LastUpdate_Ratings": "2023-12-04T11:57:46.2408952+00:00",
-  "LastUpdate_Achievements": "2023-12-04T12:04:39.9084883+00:00"
+  "LastUpdate_Ratings": "2023-12-04T13:03:33.7269236+00:00",
+  "LastUpdate_Achievements": "2023-12-04T13:10:27.6509422+00:00"
 }

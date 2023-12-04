@@ -5,29 +5,29 @@ Rating: 4.74 (Ranked 158)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 92.00% | ~9,813 |
-| I Challenge You To Save More Money! | 86.00% | ~9,173 |
-| I Love How Tough You Are | 72.00% | ~7,680 |
+| Last Night...Did We... | 92.00% | ~9,814 |
+| I Challenge You To Save More Money! | 86.00% | ~9,174 |
+| I Love How Tough You Are | 73.00% | ~7,787 |
 | Wanna Come To My Place For Dinner? | 66.00% | ~7,040 |
-| What I Want Is You | 61.00% | ~6,506 |
-| To Be Or Not To Be | 58.00% | ~6,186 |
-| Are You Alright? | 50.00% | ~5,333 |
+| What I Want Is You | 61.00% | ~6,507 |
+| To Be Or Not To Be | 58.00% | ~6,187 |
+| Are You Alright? | 50.00% | ~5,334 |
 | Love Actually | 48.00% | ~5,120 |
 | Drama King | 42.00% | ~4,480 |
-| You're Really Something Else | 37.00% | ~3,946 |
+| You're Really Something Else | 37.00% | ~3,947 |
 | Go Clean up In Your Own Way | 36.00% | ~3,840 |
 | Happy Family | 35.00% | ~3,733 |
 | Worthless Speech | 35.00% | ~3,733 |
-| ONE PUNCH | 34.00% | ~3,626 |
-| FIRST LOVE | 34.00% | ~3,626 |
-| Drama CP: Reel to Real | 34.00% | ~3,626 |
+| ONE PUNCH | 34.00% | ~3,627 |
+| FIRST LOVE | 34.00% | ~3,627 |
+| Drama CP: Reel to Real | 34.00% | ~3,627 |
 | Absolutely Elegant | 33.00% | ~3,520 |
 | Still Single | 32.00% | ~3,413 |
 | Days Of Innocence | 30.00% | ~3,200 |
 | Go Get Some Fries On The Pier | 29.00% | ~3,093 |
 | David | 29.00% | ~3,093 |
-| All I Have Is Money | 25.00% | ~2,666 |
-| A Slap In The Face! | 25.00% | ~2,666 |
+| All I Have Is Money | 25.00% | ~2,667 |
+| A Slap In The Face! | 25.00% | ~2,667 |
 | Lover In Dark Alley | 24.00% | ~2,560 |
 | Let Me Be Your Toy Boy | 24.00% | ~2,560 |
 | That's So You | 24.00% | ~2,560 |
@@ -48,7 +48,7 @@ Rating: 4.74 (Ranked 158)
 | Tall; Grande; Venti | 2.00% | ~213 |
 | Limerence | 2.00% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,666 (Ranked 164)  
+Progressed: 10,667 (Ranked 164)  
 Completed: 188 (1.76%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 188 (1.76%) (Ranked 136)
 | 2023-12-01 | 10,506 | 183 |
 | 2023-12-02 | 10,578 | 187 |
 | 2023-12-03 | 10,641 | 188 |
-| 2023-12-04 | 10,666 | 188 |
+| 2023-12-04 | 10,667 | 188 |
 ## Awards
 Max (Impact the Story): 23  (Ranked 535)  
 Sum: 23 (Ranked 537)  

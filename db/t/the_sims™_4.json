@@ -3,11 +3,11 @@
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
   "Ranking_Rating": 351,
-  "Ranking_Popularity": 115,
+  "Ranking_Popularity": 112,
   "Ranking_PopularitySum": 91,
   "Ranking_EOS_Progress": 776,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 484,
+  "Ranking_EOS_NewPlayers": 483,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
@@ -10061,11 +10061,17 @@
       "Rating": 4.63,
       "NumberOfAwards": 10230,
       "NumberOfAwardsMax": 1942
+    },
+    {
+      "Time": "2023-12-04T13:03:52.0304887+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 10262,
+      "NumberOfAwardsMax": 1974
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10230,
-  "NumberOfAwardsMax": 1942,
+  "NumberOfAwards": 10262,
+  "NumberOfAwardsMax": 1974,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -10078,7 +10084,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1942
+      "Count": 1974
     },
     {
       "Text": "This game has Diverse Characters",
@@ -10155,9 +10161,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2023-12-04T11:58:03.5645862+00:00",
-  "LastChanged_Achievements": "2023-12-04T12:06:15.6768312+00:00",
+  "LastChanged": "2023-12-04T13:03:52.0304885+00:00",
+  "LastChanged_Achievements": "2023-12-04T13:12:06.9921657+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:18.890278+00:00",
-  "LastUpdate_Ratings": "2023-12-04T11:58:03.5645868+00:00",
-  "LastUpdate_Achievements": "2023-12-04T12:06:15.6768341+00:00"
+  "LastUpdate_Ratings": "2023-12-04T13:03:52.0304891+00:00",
+  "LastUpdate_Achievements": "2023-12-04T13:12:06.9921689+00:00"
 }

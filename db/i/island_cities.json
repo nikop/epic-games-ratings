@@ -2,10 +2,10 @@
   "ID": "405a48516fba4540bd8cc17c53085ab2",
   "Name": "Island Cities",
   "ProductSlug": "island-cities-0a3026",
-  "Ranking_EOS_Progress": 278,
+  "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 831,
+  "EOS_Progressed": 832,
   "EOS_Completed": 136,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 16.37,
+  "EOS_Completed_Percentage": 16.35,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3531,6 +3531,11 @@
       "Time": "2023-12-04T08:03:55.442106+00:00",
       "NumProgressed": 831,
       "NumCompleted": 136
+    },
+    {
+      "Time": "2023-12-04T13:09:10.6508976+00:00",
+      "NumProgressed": 832,
+      "NumCompleted": 136
     }
   ],
   "TotalAchievements": 22,
@@ -3542,7 +3547,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "LEVEL_002",
@@ -3550,7 +3555,7 @@
       "Name": "A tiny town",
       "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "LEVEL_003",
@@ -3598,7 +3603,7 @@
       "Name": "Passion for sports",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "LEVEL_009",
@@ -3606,7 +3611,7 @@
       "Name": "Who loves trains?",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "LEVEL_010",
@@ -3630,7 +3635,7 @@
       "Name": "Calm neighborhood",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "LEVEL_013",
@@ -3717,7 +3722,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 831,
+      "Progressed": 832,
       "Completed": 136
     }
   ],
@@ -3725,8 +3730,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-12-04T12:03:25.6986151+00:00",
+  "LastChanged_Achievements": "2023-12-04T13:09:10.6508973+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:28.3686171+00:00",
-  "LastUpdate_Ratings": "2023-12-04T11:58:32.1685431+00:00",
-  "LastUpdate_Achievements": "2023-12-04T12:03:25.6986677+00:00"
+  "LastUpdate_Ratings": "2023-12-04T13:04:22.1304306+00:00",
+  "LastUpdate_Achievements": "2023-12-04T13:09:10.6509381+00:00"
 }

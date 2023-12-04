@@ -199,7 +199,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8272,
+  "EOS_Progressed": 8273,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
@@ -7994,6 +7994,11 @@
       "Time": "2023-12-04T11:09:37.087706+00:00",
       "NumProgressed": 8272,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-04T13:14:51.5666758+00:00",
+      "NumProgressed": 8273,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -8006,7 +8011,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5956
+      "UsersEstimate": 5957
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -8014,7 +8019,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5790
+      "UsersEstimate": 5791
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -8030,7 +8035,7 @@
       "Name": "Open the Gate!",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2812
+      "UsersEstimate": 2813
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -8094,7 +8099,7 @@
       "Name": "Lumberjack",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2233
+      "UsersEstimate": 2234
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -8110,7 +8115,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 4053
+      "UsersEstimate": 4054
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -8140,9 +8145,9 @@
       "ID": "DISCOVER_SCROLLS_1",
       "SetID": "9eia0f5",
       "Name": "Humble Collector",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3557
+      "UsersEstimate": 3475
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -8158,7 +8163,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 5046
+      "UsersEstimate": 5047
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -8278,29 +8283,29 @@
       "Name": "Skilled",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8272,
+      "Progressed": 8273,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 889,
-      "Completed": 889
+      "Progressed": 890,
+      "Completed": 890
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-01T18:02:55.7305048+00:00",
-  "LastChanged_Achievements": "2023-12-04T12:09:18.3331065+00:00",
+  "LastChanged_Achievements": "2023-12-04T13:14:51.5666755+00:00",
   "LastUpdate_AppInfo": "2023-12-01T09:57:19.7790129+00:00",
-  "LastUpdate_Ratings": "2023-12-04T12:02:52.5218384+00:00",
-  "LastUpdate_Achievements": "2023-12-04T12:09:18.3331715+00:00"
+  "LastUpdate_Ratings": "2023-12-04T13:08:34.6348846+00:00",
+  "LastUpdate_Achievements": "2023-12-04T13:14:51.5667259+00:00"
 }

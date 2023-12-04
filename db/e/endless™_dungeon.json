@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 1285,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2636,9 +2636,9 @@
       "ID": "ACHIEVEMENT_SPECIAL_WIN",
       "SetID": "9991201",
       "Name": "All Your Secrets Are Belong to Us",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 90,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_TIME_LIMIT1WIN",
@@ -2667,8 +2667,8 @@
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-12-04T12:03:24.5735447+00:00",
+  "LastChanged_Achievements": "2023-12-04T13:09:09.5406935+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:49.9907014+00:00",
-  "LastUpdate_Ratings": "2023-12-04T11:59:09.8486136+00:00",
-  "LastUpdate_Achievements": "2023-12-04T12:03:24.5736105+00:00"
+  "LastUpdate_Ratings": "2023-12-04T13:05:01.1480268+00:00",
+  "LastUpdate_Achievements": "2023-12-04T13:09:09.5407227+00:00"
 }

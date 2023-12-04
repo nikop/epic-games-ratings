@@ -16,13 +16,23 @@ Rating: 4.20 (Ranked 915)
 | A Rest Among the Dead | 0.30% | ~7 |
 | Honed to Perfection | 0.20% | ~4 |
 | Rune Novice | 0.20% | ~4 |
+| Carving Out Victory | 0.20% | ~4 |
+| Utmost Insight | 0.20% | ~4 |
 | Vengeance for the Fallen | 0.20% | ~4 |
 | Rise and Fall | 0.20% | ~4 |
 | Together in Death | 0.20% | ~4 |
 | Burying the Past | 0.20% | ~4 |
 | Unwanted | 0.20% | ~4 |
 | Unbroken to the End | 0.20% | ~4 |
+| Wings of Grief | 0.20% | ~4 |
+| Twin Faces of Sin | 0.20% | ~4 |
+| Judgement | 0.20% | ~4 |
+| Hunt's End | 0.20% | ~4 |
+| The King is Dead | 0.20% | ~4 |
 | Moving On | 0.20% | ~4 |
+| Hero Worship | 0.20% | ~4 |
+| Without Purpose | 0.20% | ~4 |
+| Lord of the Risen | 0.20% | ~4 |
 | Essence of Death | 0.20% | ~4 |
 | Seasoned | 0.20% | ~4 |
 | Wayfarer | 0.10% | ~2 |
@@ -38,30 +48,20 @@ Rating: 4.20 (Ranked 915)
 | Gesture Collector | 0.10% | ~2 |
 | Salvation in Blood | 0.10% | ~2 |
 | Rune Master | 0.10% | ~2 |
-| Carving Out Victory | 0.10% | ~2 |
-| Utmost Insight | 0.10% | ~2 |
 | Infernal Offerings | 0.10% | ~2 |
 | Radiant Offerings | 0.10% | ~2 |
 | Umbral Offerings | 0.10% | ~2 |
-| Wings of Grief | 0.10% | ~2 |
-| Twin Faces of Sin | 0.10% | ~2 |
-| Judgement | 0.10% | ~2 |
-| Hunt's End | 0.10% | ~2 |
-| The King is Dead | 0.10% | ~2 |
 | A Hunger Sated | 0.10% | ~2 |
 | Fallen | 0.10% | ~2 |
 | None Shall be Spared | 0.10% | ~2 |
 | The Price of Knowledge | 0.10% | ~2 |
 | Part of the Divine | 0.10% | ~2 |
 | Travels Resumed | 0.10% | ~2 |
-| Hero Worship | 0.10% | ~2 |
 | Antanas' Legacy | 0.10% | ~2 |
 | Faithful | 0.10% | ~2 |
-| Without Purpose | 0.10% | ~2 |
 | A Queen's Rest | 0.10% | ~2 |
 | The Last Step | 0.10% | ~2 |
 | Vengeful Reflection | 0.10% | ~2 |
-| Lord of the Risen | 0.10% | ~2 |
 | In Light we Walk | 0.10% | ~2 |
 | Back to the Void | 0.10% | ~2 |
 | A Shadow Dispelled | 0.10% | ~2 |
