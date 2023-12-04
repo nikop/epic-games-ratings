@@ -16,7 +16,7 @@ Rating: 4.30 (Ranked 839)
 | The Penguin | 44.00% | ~88 |
 | The Tunneler | 40.00% | ~80 |
 | The Magician | 39.00% | ~78 |
-| Level Up!! | 36.00% | ~72 |
+| Level Up!! | 37.00% | ~74 |
 | The Shield | 35.00% | ~70 |
 | Kill-streak | 29.00% | ~58 |
 | Topped up | 29.00% | ~58 |

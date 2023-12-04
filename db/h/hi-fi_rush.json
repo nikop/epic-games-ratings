@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4464,
+  "EOS_Progressed": 4465,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -8090,6 +8090,11 @@
       "Time": "2023-12-03T21:03:27.4676613+00:00",
       "NumProgressed": 4464,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-04T00:04:04.7405728+00:00",
+      "NumProgressed": 4465,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8261,7 +8266,7 @@
       "Name": "I have to read these things?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "Ach022",
@@ -8539,9 +8544,9 @@
       "ID": "Ach056",
       "SetID": "12n4k20",
       "Name": "I am a good person who likes to help",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 18
     },
     {
       "ID": "Ach057",
@@ -8668,13 +8673,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4464,
+      "Progressed": 4465,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2985,
+      "Progressed": 2986,
       "Completed": 1930
     }
   ],
@@ -8682,8 +8687,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-03T23:03:40.8116735+00:00",
+  "LastChanged_Achievements": "2023-12-04T00:04:04.7405725+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:21.1661658+00:00",
-  "LastUpdate_Ratings": "2023-12-03T23:00:18.1003418+00:00",
-  "LastUpdate_Achievements": "2023-12-03T23:03:40.8117673+00:00"
+  "LastUpdate_Ratings": "2023-12-04T00:01:06.2006339+00:00",
+  "LastUpdate_Achievements": "2023-12-04T00:04:04.7406757+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "b4e95103463b491ab34b29e616404325",
   "Name": "The Alto Collection",
   "ProductSlug": "the-alto-collection",
-  "Ranking_Rating": 200,
+  "Ranking_Rating": 199,
   "Ranking_Popularity": 440,
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -850,9 +850,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 48800,
+  "EOS_Progressed": 48802,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 907,
+  "EOS_NewPlayers": 899,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26585,6 +26585,11 @@
       "Time": "2023-12-03T23:03:09.2346802+00:00",
       "NumProgressed": 48800,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-04T00:03:26.7609945+00:00",
+      "NumProgressed": 48802,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -26636,7 +26641,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 13176
+      "UsersEstimate": 13177
     },
     {
       "ID": "goals180",
@@ -26907,15 +26912,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 48800,
+      "Progressed": 48802,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-11-29T16:56:50.2159506+00:00",
-  "LastChanged_Achievements": "2023-12-03T23:03:09.2346797+00:00",
+  "LastChanged_Achievements": "2023-12-04T00:03:26.7609943+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:54.929935+00:00",
-  "LastUpdate_Ratings": "2023-12-03T22:59:32.5293008+00:00",
-  "LastUpdate_Achievements": "2023-12-03T23:03:09.2348658+00:00"
+  "LastUpdate_Ratings": "2023-12-04T00:00:08.8079767+00:00",
+  "LastUpdate_Achievements": "2023-12-04T00:03:26.7611145+00:00"
 }

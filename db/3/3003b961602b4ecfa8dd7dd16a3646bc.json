@@ -399,9 +399,9 @@
       "ID": "ACH_13_TREASUREHUNTER",
       "SetID": "9dl0ei6",
       "Name": "Treasure Hunter",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_14_HORSECLUB",
@@ -526,8 +526,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-12-03T23:09:14.3784998+00:00",
+  "LastChanged_Achievements": "2023-12-04T00:09:58.4424466+00:00",
   "LastUpdate_AppInfo": "2023-11-26T23:57:17.243865+00:00",
-  "LastUpdate_Ratings": "2023-12-03T22:57:53.3575407+00:00",
-  "LastUpdate_Achievements": "2023-12-03T23:09:14.3785184+00:00"
+  "LastUpdate_Ratings": "2023-12-03T23:58:01.9686088+00:00",
+  "LastUpdate_Achievements": "2023-12-04T00:09:58.4424592+00:00"
 }

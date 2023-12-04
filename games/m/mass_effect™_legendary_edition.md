@@ -19,9 +19,9 @@
 | Meritorious Service Medal | 52.00% | ~779 |
 | Charismatic | 51.00% | ~764 |
 | Soldier | 50.00% | ~749 |
+| Soldier Ally | 47.00% | ~704 |
 | Asari Ally | 47.00% | ~704 |
 | Medal of Exploration III | 46.00% | ~689 |
-| Soldier Ally | 46.00% | ~689 |
 | Principled | 46.00% | ~689 |
 | Paramour I | 44.00% | ~659 |
 | Colonial Savior | 44.00% | ~659 |

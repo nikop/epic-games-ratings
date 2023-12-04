@@ -2,7 +2,7 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 633,
+  "Ranking_Rating": 634,
   "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 190,
@@ -806,7 +806,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5316,
+  "EOS_Progressed": 5318,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
@@ -10486,6 +10486,11 @@
       "Time": "2023-12-03T23:03:40.358881+00:00",
       "NumProgressed": 5316,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-04T00:04:04.2225389+00:00",
+      "NumProgressed": 5318,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -10538,7 +10543,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -10546,7 +10551,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1383
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -10602,7 +10607,7 @@
       "Name": "We\u0027ve Got a Kaiju on the Field",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "MF_Ach_MushroomMadness",
@@ -10618,7 +10623,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -10658,7 +10663,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -10681,15 +10686,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5316,
+      "Progressed": 5318,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-01T06:01:05.0621947+00:00",
-  "LastChanged_Achievements": "2023-12-03T23:03:40.3588808+00:00",
+  "LastChanged_Achievements": "2023-12-04T00:04:04.2225386+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:08.5943079+00:00",
-  "LastUpdate_Ratings": "2023-12-03T22:57:46.1534697+00:00",
-  "LastUpdate_Achievements": "2023-12-03T23:03:40.3589515+00:00"
+  "LastUpdate_Ratings": "2023-12-03T23:57:52.6746675+00:00",
+  "LastUpdate_Achievements": "2023-12-04T00:04:04.2226037+00:00"
 }

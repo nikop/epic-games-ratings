@@ -30,7 +30,7 @@ Rating: 4.87 (Ranked 24)
 | Who's the boss now? | 8.00% | ~357 |
 | Perfecter Parry-er! | 8.00% | ~357 |
 | NOW we got a kickass hideout! | 8.00% | ~239 |
-| I have to read these things? | 7.00% | ~312 |
+| I have to read these things? | 7.00% | ~313 |
 | That's a lot of junk metal… | 6.00% | ~268 |
 | Well that was a rush! | 5.00% | ~223 |
 | Beat-hit mania | 5.00% | ~223 |
@@ -54,12 +54,12 @@ Rating: 4.87 (Ranked 24)
 | Choose your own adventure | 0.60% | ~18 |
 | Problem solved... wait, what? | 0.50% | ~22 |
 | Now this is how you fight like a team! | 0.50% | ~22 |
+| I am a good person who likes to help | 0.40% | ~18 |
 | With our powers combined…and to the rhythm… | 0.40% | ~18 |
 | It'll do, CNMN | 0.40% | ~12 |
 | And the crowd goes wild! | 0.30% | ~13 |
 | I can't see this ever being a problem again | 0.30% | ~13 |
 | Fully Powered Up! | 0.30% | ~13 |
-| I am a good person who likes to help | 0.30% | ~13 |
 | This was... not what I expected. | 0.20% | ~9 |
 | Have we met before? | 0.20% | ~9 |
 | I saw all those hits coming a measure away! | 0.20% | ~9 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,464 (Ranked 194)  
+Progressed: 4,465 (Ranked 194)  
 Completed: 8 (0.18%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,6 +295,7 @@ Completed: 8 (0.18%) (Ranked 265)
 | 2023-12-01 | 4,446 | 8 |
 | 2023-12-02 | 4,456 | 8 |
 | 2023-12-03 | 4,464 | 8 |
+| 2023-12-04 | 4,465 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

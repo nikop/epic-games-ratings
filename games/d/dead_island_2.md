@@ -7,18 +7,18 @@ Rating: 4.54 (Ranked 529)
 | ---- | ---------- | ----- |
 | Whatever It Takes | 3.00% | ~1,661 |
 | Pork Chopped | 3.00% | ~1,661 |
-| Dr. Reed, I Presume? | 2.00% | ~14,596 |
-| Git Gutte! | 2.00% | ~14,596 |
-| Bookworm | 2.00% | ~14,596 |
-| Break A Leg | 2.00% | ~14,596 |
-| Coup de Grâce | 2.00% | ~14,596 |
-| Hazardous Materials | 2.00% | ~14,596 |
-| Friends Like These | 2.00% | ~14,596 |
-| Hotel California | 2.00% | ~14,596 |
-| Apex Predator | 2.00% | ~14,596 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,596 |
-| Welcome To Hell-A | 2.00% | ~14,596 |
-| One of Us | 2.00% | ~1,107 |
+| Dr. Reed, I Presume? | 2.00% | ~14,597 |
+| Git Gutte! | 2.00% | ~14,597 |
+| Bookworm | 2.00% | ~14,597 |
+| Break A Leg | 2.00% | ~14,597 |
+| Coup de Grâce | 2.00% | ~14,597 |
+| Hazardous Materials | 2.00% | ~14,597 |
+| Friends Like These | 2.00% | ~14,597 |
+| Hotel California | 2.00% | ~14,597 |
+| Apex Predator | 2.00% | ~14,597 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,597 |
+| Welcome To Hell-A | 2.00% | ~14,597 |
+| One of Us | 2.00% | ~1,108 |
 | Making Your Mark | 1.00% | ~7,298 |
 | Anger Management | 1.00% | ~7,298 |
 | Perks of the Job | 1.00% | ~7,298 |
@@ -34,8 +34,8 @@ Rating: 4.54 (Ranked 529)
 | Stacking the Deck | 1.00% | ~7,298 |
 | Our True Nature | 1.00% | ~7,298 |
 | This is My Weapon | 1.00% | ~7,298 |
-| Humanity Distilled | 0.90% | ~6,568 |
-| Max Headroom | 0.90% | ~6,568 |
+| Humanity Distilled | 0.90% | ~6,569 |
+| Max Headroom | 0.90% | ~6,569 |
 | Down with the Sickness | 0.80% | ~5,839 |
 | Not Even My Final Form | 0.70% | ~5,109 |
 | Jumbo Keyring | 0.70% | ~5,109 |
@@ -48,16 +48,16 @@ Rating: 4.54 (Ranked 529)
 | Variety is the Spice of Death | 0.50% | ~3,649 |
 | LA Influential | 0.40% | ~2,919 |
 | Gore Horse | 0.40% | ~2,919 |
-| Top That, Tisha! | 0.40% | ~221 |
-| Sole Survivor | 0.30% | ~2,189 |
-| Sharpest Tool in the Box | 0.30% | ~2,189 |
+| Top That, Tisha! | 0.40% | ~222 |
+| Sole Survivor | 0.30% | ~2,190 |
+| Sharpest Tool in the Box | 0.30% | ~2,190 |
 | Survival Skills | 0.20% | ~1,460 |
 | Lawn and Order | 0.20% | ~111 |
 | Donk! | 0.10% | ~730 |
 | Bucket List | 0.10% | ~730 |
 | Wilhelm | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 729,822 (Ranked 21)  
+Progressed: 729,838 (Ranked 21)  
 Completed: 2,461 (0.34%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,6 +285,7 @@ Completed: 2,461 (0.34%) (Ranked 232)
 | 2023-12-01 | 728,667 | 2,459 |
 | 2023-12-02 | 729,149 | 2,460 |
 | 2023-12-03 | 729,822 | 2,461 |
+| 2023-12-04 | 729,838 | 2,461 |
 ## Awards
 Max (Great Boss Battles): 7,892  (Ranked 49)  
 Sum: 12,110 (Ranked 82)  

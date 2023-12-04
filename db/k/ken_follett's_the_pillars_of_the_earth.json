@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16840,
+  "EOS_Progressed": 16841,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -15413,6 +15413,11 @@
       "Time": "2023-12-03T21:05:51.2900556+00:00",
       "NumProgressed": 16840,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-12-04T00:07:20.3309644+00:00",
+      "NumProgressed": 16841,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15464,7 +15469,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5557
+      "UsersEstimate": 5558
     },
     {
       "ID": "tpote_achievement_15",
@@ -15488,7 +15493,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2694
+      "UsersEstimate": 2695
     },
     {
       "ID": "tpote_achievement_18",
@@ -15512,7 +15517,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5557
+      "UsersEstimate": 5558
     },
     {
       "ID": "tpote_achievement_20",
@@ -15552,7 +15557,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1852
+      "UsersEstimate": 1853
     },
     {
       "ID": "tpote_achievement_25",
@@ -15736,7 +15741,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3536
+      "UsersEstimate": 3537
     },
     {
       "ID": "tpote_achievement_9",
@@ -15751,15 +15756,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16840,
+      "Progressed": 16841,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-12-03T23:06:21.0227438+00:00",
+  "LastChanged_Achievements": "2023-12-04T00:07:20.3309641+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:14.9686486+00:00",
-  "LastUpdate_Ratings": "2023-12-03T22:58:09.5950875+00:00",
-  "LastUpdate_Achievements": "2023-12-03T23:06:21.0228337+00:00"
+  "LastUpdate_Ratings": "2023-12-03T23:58:22.6375042+00:00",
+  "LastUpdate_Achievements": "2023-12-04T00:07:20.3310433+00:00"
 }

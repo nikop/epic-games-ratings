@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
@@ -2162,10 +2162,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 4892,
       "NumberOfAwardsMax": 580
+    },
+    {
+      "Time": "2023-12-03T23:59:09.088545+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4893,
+      "NumberOfAwardsMax": 580
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4892,
+  "NumberOfAwards": 4893,
   "NumberOfAwardsMax": 580,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2191,7 +2197,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 519
+      "Count": 520
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2236,9 +2242,9 @@
       "Count": 256
     }
   ],
-  "EOS_Progressed": 217342,
+  "EOS_Progressed": 217344,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 1267,
+  "EOS_NewPlayers": 1262,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -28291,6 +28297,11 @@
       "Time": "2023-12-03T23:05:27.4282111+00:00",
       "NumProgressed": 217342,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-12-04T00:06:15.0887091+00:00",
+      "NumProgressed": 217344,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 44,
@@ -28518,7 +28529,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17387
+      "UsersEstimate": 17388
     },
     {
       "ID": "Rollin",
@@ -28550,7 +28561,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17387
+      "UsersEstimate": 17388
     },
     {
       "ID": "TanukiTime",
@@ -28653,15 +28664,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 217342,
+      "Progressed": 217344,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2023-12-03T01:48:17.7981876+00:00",
-  "LastChanged_Achievements": "2023-12-03T23:05:27.4282108+00:00",
+  "LastChanged": "2023-12-03T23:59:09.0885448+00:00",
+  "LastChanged_Achievements": "2023-12-04T00:06:15.0887087+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:31.5350998+00:00",
-  "LastUpdate_Ratings": "2023-12-03T22:58:45.8919046+00:00",
-  "LastUpdate_Achievements": "2023-12-03T23:05:27.4284117+00:00"
+  "LastUpdate_Ratings": "2023-12-03T23:59:09.0885454+00:00",
+  "LastUpdate_Achievements": "2023-12-04T00:06:15.0888743+00:00"
 }

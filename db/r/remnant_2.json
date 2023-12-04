@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
     "PcReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -5115,10 +5115,10 @@
       "Count": 396
     }
   ],
-  "EOS_Progressed": 234204,
+  "EOS_Progressed": 234238,
   "EOS_Completed": 554,
-  "EOS_NewPlayers": 5192,
-  "EOS_NewCompleters": 20,
+  "EOS_NewPlayers": 5206,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
@@ -21225,6 +21225,11 @@
       "Time": "2023-12-03T23:08:30.1450549+00:00",
       "NumProgressed": 234204,
       "NumCompleted": 554
+    },
+    {
+      "Time": "2023-12-04T00:09:04.2092888+00:00",
+      "NumProgressed": 234238,
+      "NumCompleted": 554
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21421,7 +21426,7 @@
       "Name": "First of Many",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1640
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -21676,13 +21681,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 234204,
+      "Progressed": 234238,
       "Completed": 554
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 13369,
+      "Progressed": 13403,
       "Completed": 188
     }
   ],
@@ -21690,8 +21695,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-03T17:02:55.1057954+00:00",
-  "LastChanged_Achievements": "2023-12-03T23:08:30.1450546+00:00",
+  "LastChanged_Achievements": "2023-12-04T00:09:04.2092883+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-03T23:03:01.3950321+00:00",
-  "LastUpdate_Achievements": "2023-12-03T23:08:30.1451932+00:00"
+  "LastUpdate_Ratings": "2023-12-04T00:03:15.2473279+00:00",
+  "LastUpdate_Achievements": "2023-12-04T00:09:04.2093789+00:00"
 }

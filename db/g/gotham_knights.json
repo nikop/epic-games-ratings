@@ -4505,9 +4505,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77643,
+  "EOS_Progressed": 77644,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 428,
+  "EOS_NewPlayers": 424,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24900,6 +24900,11 @@
       "Time": "2023-12-03T23:06:14.9219412+00:00",
       "NumProgressed": 77643,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-04T00:07:12.7977911+00:00",
+      "NumProgressed": 77644,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -24959,7 +24964,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17081
+      "UsersEstimate": 17082
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -24999,7 +25004,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11646
+      "UsersEstimate": 11647
     },
     {
       "ID": "CHALLENGES_1",
@@ -25303,7 +25308,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 25622
+      "UsersEstimate": 25623
     },
     {
       "ID": "MYSTERY_02",
@@ -25311,7 +25316,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 18634
+      "UsersEstimate": 18635
     },
     {
       "ID": "MYSTERY_03",
@@ -25319,7 +25324,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17081
+      "UsersEstimate": 17082
     },
     {
       "ID": "MYSTERY_04",
@@ -25343,7 +25348,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11646
+      "UsersEstimate": 11647
     },
     {
       "ID": "MYSTERY_07",
@@ -25398,13 +25403,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77643,
+      "Progressed": 77644,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47923,
+      "Progressed": 47924,
       "Completed": 2675
     }
   ],
@@ -25412,8 +25417,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-03T13:57:01.5180238+00:00",
-  "LastChanged_Achievements": "2023-12-03T23:06:14.9219408+00:00",
+  "LastChanged_Achievements": "2023-12-04T00:07:12.7977908+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.5024346+00:00",
-  "LastUpdate_Ratings": "2023-12-03T22:57:32.9292208+00:00",
-  "LastUpdate_Achievements": "2023-12-03T23:06:14.9221141+00:00"
+  "LastUpdate_Ratings": "2023-12-03T23:57:36.0015096+00:00",
+  "LastUpdate_Achievements": "2023-12-04T00:07:12.7979052+00:00"
 }

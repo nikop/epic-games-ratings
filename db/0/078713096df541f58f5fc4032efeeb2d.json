@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
   "Ranking_EOS_Progress": 569,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -177,9 +177,9 @@
       "ID": "creepytale3_ach_17",
       "SetID": "7idcjbn",
       "Name": "Pain lover",
-      "Percentage": 32,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "creepytale3_ach_18",
@@ -257,9 +257,9 @@
       "ID": "creepytale3_ach_27",
       "SetID": "7idcjbn",
       "Name": "Mimic",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "creepytale3_ach_3",
@@ -400,8 +400,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-12-03T23:05:59.7198017+00:00",
+  "LastChanged_Achievements": "2023-12-04T00:06:54.4428901+00:00",
   "LastUpdate_AppInfo": "2023-11-29T05:57:16.1514694+00:00",
-  "LastUpdate_Ratings": "2023-12-03T22:57:20.7274005+00:00",
-  "LastUpdate_Achievements": "2023-12-03T23:05:59.7198187+00:00"
+  "LastUpdate_Ratings": "2023-12-03T23:57:19.9206315+00:00",
+  "LastUpdate_Achievements": "2023-12-04T00:06:54.4429177+00:00"
 }

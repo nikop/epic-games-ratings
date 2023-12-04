@@ -6,27 +6,27 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~24,836 |
+| Wallbanger | 5.00% | ~24,837 |
 | Exploitative | 4.00% | ~19,869 |
 | Point Shooting | 4.00% | ~19,869 |
 | Wet Feet | 4.00% | ~19,869 |
-| High Speed Low Drag | 3.00% | ~14,901 |
-| Lucky | 3.00% | ~14,901 |
-| Stylin' | 3.00% | ~14,901 |
-| Turf War | 3.00% | ~14,901 |
-| Banged | 2.00% | ~9,934 |
-| Checkpoint Victory | 2.00% | ~9,934 |
-| First Blood | 2.00% | ~9,934 |
-| Flaccid Paralysis | 2.00% | ~9,934 |
-| Push Victory | 2.00% | ~9,934 |
-| Self-destructive | 2.00% | ~9,934 |
+| High Speed Low Drag | 3.00% | ~14,902 |
+| Lucky | 3.00% | ~14,902 |
+| Stylin' | 3.00% | ~14,902 |
+| Turf War | 3.00% | ~14,902 |
+| Banged | 2.00% | ~9,935 |
+| Checkpoint Victory | 2.00% | ~9,935 |
+| First Blood | 2.00% | ~9,935 |
+| Flaccid Paralysis | 2.00% | ~9,935 |
+| Push Victory | 2.00% | ~9,935 |
+| Self-destructive | 2.00% | ~9,935 |
 | Blindfire | 1.00% | ~4,967 |
 | Ruthless | 1.00% | ~4,967 |
 | Semper Paratus | 1.00% | ~4,967 |
-| Carrying | 0.90% | ~4,470 |
-| Efficient | 0.90% | ~4,470 |
-| Mount & Gun | 0.90% | ~4,470 |
-| Personal | 0.90% | ~4,470 |
+| Carrying | 0.90% | ~4,471 |
+| Efficient | 0.90% | ~4,471 |
+| Mount & Gun | 0.90% | ~4,471 |
+| Personal | 0.90% | ~4,471 |
 | Grounded | 0.80% | ~3,974 |
 | Play to Win | 0.80% | ~3,974 |
 | Special Delivery | 0.70% | ~3,477 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~497 |
 | Road Hazard | 0.10% | ~497 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 496,715 (Ranked 37)  
+Progressed: 496,733 (Ranked 37)  
 Completed: 2 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,6 +270,7 @@ Completed: 2 (0.00%) (Ranked 366)
 | 2023-12-01 | 495,612 | 2 |
 | 2023-12-02 | 496,084 | 2 |
 | 2023-12-03 | 496,715 | 2 |
+| 2023-12-04 | 496,733 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 402  (Ranked 233)  
 Sum: 3,201 (Ranked 174)  

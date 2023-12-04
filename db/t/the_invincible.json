@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 508,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1526,9 +1526,9 @@
       "ID": "AchvKrautaAlive",
       "SetID": "1hj060c",
       "Name": "Krauta is alive",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 102
+      "UsersEstimate": 107
     },
     {
       "ID": "AchvLava",
@@ -1638,9 +1638,9 @@
       "ID": "AchvTeleprobeOperator",
       "SetID": "1hj060c",
       "Name": "Flying Objects Operator",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 66
     },
     {
       "ID": "AchvTheEnd",
@@ -1669,8 +1669,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-03T23:08:25.8838762+00:00",
+  "LastChanged_Achievements": "2023-12-04T00:08:58.6767058+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.6526822+00:00",
-  "LastUpdate_Ratings": "2023-12-03T22:57:30.1423469+00:00",
-  "LastUpdate_Achievements": "2023-12-03T23:08:25.8839017+00:00"
+  "LastUpdate_Ratings": "2023-12-03T23:57:32.0302023+00:00",
+  "LastUpdate_Achievements": "2023-12-04T00:08:58.6767246+00:00"
 }

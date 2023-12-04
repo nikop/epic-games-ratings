@@ -5,11 +5,11 @@ Rating: 4.57 (Ranked 478)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 92.00% | ~56 |
-| Map reader | 77.00% | ~47 |
-| Philanthropist | 72.00% | ~44 |
-| Adventurer | 69.00% | ~42 |
-| The brave little tailor | 54.00% | ~33 |
+| Beginner | 93.00% | ~57 |
+| Map reader | 79.00% | ~48 |
+| Philanthropist | 74.00% | ~45 |
+| Adventurer | 70.00% | ~43 |
+| The brave little tailor | 56.00% | ~34 |
 | Archer | 54.00% | ~33 |
 | Samaritan | 49.00% | ~30 |
 | Field hand | 48.00% | ~29 |

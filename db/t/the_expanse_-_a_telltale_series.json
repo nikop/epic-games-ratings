@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -253,7 +253,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15879,
+  "EOS_Progressed": 15880,
   "EOS_Completed": 40,
   "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 5,
@@ -13028,6 +13028,11 @@
       "Time": "2023-12-03T22:04:58.2814428+00:00",
       "NumProgressed": 15879,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-12-04T00:05:50.3569551+00:00",
+      "NumProgressed": 15880,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13072,7 +13077,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1906
     },
     {
       "ID": "14",
@@ -13319,22 +13324,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15879,
+      "Progressed": 15880,
       "Completed": 40
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1833,
-      "Completed": 806
+      "Progressed": 1834,
+      "Completed": 807
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-03T18:02:39.8331355+00:00",
-  "LastChanged_Achievements": "2023-12-03T23:05:07.3243098+00:00",
+  "LastChanged_Achievements": "2023-12-04T00:05:50.3569547+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-03T23:02:41.049112+00:00",
-  "LastUpdate_Achievements": "2023-12-03T23:05:07.3244392+00:00"
+  "LastUpdate_Ratings": "2023-12-04T00:02:49.2041447+00:00",
+  "LastUpdate_Achievements": "2023-12-04T00:05:50.3570528+00:00"
 }
