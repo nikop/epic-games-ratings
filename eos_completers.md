@@ -17,7 +17,7 @@
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Overloop](games/o/overloop.md) | 25.00% |
 | 17 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 18 | [The Riflemen](games/t/the_riflemen.md) | 24.25% |
+| 18 | [The Riflemen](games/t/the_riflemen.md) | 24.23% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 20 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 20 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -123,10 +123,10 @@
 | 121 | [Lamentum](games/l/lamentum.md) | 2.42% |
 | 122 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.41% |
 | 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.38% |
-| 124 | [Dungeons 4](games/d/dungeons_4.md) | 2.30% |
+| 124 | [Dungeons 4](games/d/dungeons_4.md) | 2.29% |
 | 125 | [Bloodshore](games/b/bloodshore.md) | 2.25% |
 | 125 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.25% |
-| 127 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.24% |
+| 127 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.23% |
 | 128 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.21% |
 | 129 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.92% |
 | 130 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.89% |
@@ -279,14 +279,14 @@
 | 275 | [BLACKTAIL](games/b/blacktail.md) | 0.13% |
 | 275 | [Fall Guys](games/f/fall_guys.md) | 0.13% |
 | 275 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
+| 280 | [GRIME](games/g/grime.md) | 0.12% |
 | 280 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
 | 280 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.12% |
-| 282 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.11% |
-| 282 | [GRIME](games/g/grime.md) | 0.11% |
-| 282 | [Isonzo](games/i/isonzo.md) | 0.11% |
-| 282 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
-| 282 | [Partisans 1941](games/p/partisans_1941.md) | 0.11% |
-| 282 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.11% |
+| 283 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.11% |
+| 283 | [Isonzo](games/i/isonzo.md) | 0.11% |
+| 283 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
+| 283 | [Partisans 1941](games/p/partisans_1941.md) | 0.11% |
+| 283 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.11% |
 | 288 | [Black Book](games/b/black_book.md) | 0.10% |
 | 288 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.10% |
 | 288 | [House Flipper](games/h/house_flipper.md) | 0.10% |
@@ -774,4 +774,4 @@
 | 366 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 366 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 366 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,655 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,658 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
