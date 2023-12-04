@@ -806,6 +806,7 @@
 | [Metro Simulator 2](../games/7/7ef79b257fe8475aa5c7a9d6c4d96f9b.md) | 8 | 1,000 |
 | [NINJA KATO 1](../games/1/1d712926020a45dc8fe28cb4c963c9ce.md) | 8 | 1,000 |
 | [Super Kids Racing](../games/6/69cf8b0d605e4d88bc89e2c04199ab2e.md) | 8 | 1,000 |
+| [Tangles](../games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 8 | 1,000 |
 | [Trash Troopers Earth Reclaim](../games/4/403db5711e5047ef8407ba1ab1fb944a.md) | 8 | 1,000 |
 | [CHUCHEL](../games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 7 | 1,000 |
 | [Remains](../games/r/remains.md) | 7 | 1,000 |

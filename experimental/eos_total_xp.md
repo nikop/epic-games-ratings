@@ -696,6 +696,7 @@
 | [Tad the Lost Explorer](../games/t/tad_the_lost_explorer.md) | 27 | 1,000 |
 | [Tails of Iron](../games/t/tails_of_iron.md) | 30 | 1,000 |
 | [Tales of the Orient: The Rising Sun](../games/t/tales_of_the_orient__the_rising_sun.md) | 16 | 1,000 |
+| [Tangles](../games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 8 | 1,000 |
 | [Tannenberg](../games/t/tannenberg.md) | 67 | 1,000 |
 | [Tchia](../games/t/tchia.md) | 21 | 1,000 |
 | [Ten Dates](../games/t/ten_dates.md) | 19 | 1,000 |
