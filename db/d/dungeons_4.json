@@ -3,7 +3,7 @@
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 311,
-  "Ranking_EOS_Completed": 127,
+  "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 521,
-  "EOS_Completed": 11,
-  "EOS_NewPlayers": 56,
+  "EOS_Completed": 12,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 2.11,
+  "EOS_Completed_Percentage": 2.3,
   "EosHistory": [
     {
       "Time": "2023-11-09T19:14:40.2664678+00:00",
@@ -1339,6 +1339,11 @@
       "Time": "2023-12-04T00:08:38.8812476+00:00",
       "NumProgressed": 521,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-04T11:08:39.4781666+00:00",
+      "NumProgressed": 521,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-11-07T12:05:38.3005436+00:00",
@@ -1829,9 +1834,9 @@
       "ID": "ach_main20end_spawners",
       "SetID": "4hg22ll",
       "Name": "Evilification",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 57
     }
   ],
   "AchievementSets": [
@@ -1839,13 +1844,13 @@
       "ID": "4hg22ll",
       "IsBase": true,
       "Progressed": 521,
-      "Completed": 11
+      "Completed": 12
     }
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-04T10:08:03.3563778+00:00",
+  "LastChanged_Achievements": "2023-12-04T11:08:39.4781663+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:15.3424787+00:00",
-  "LastUpdate_Ratings": "2023-12-04T09:59:12.0249986+00:00",
-  "LastUpdate_Achievements": "2023-12-04T10:08:03.3564195+00:00"
+  "LastUpdate_Ratings": "2023-12-04T10:59:19.5310687+00:00",
+  "LastUpdate_Achievements": "2023-12-04T11:08:39.47821+00:00"
 }

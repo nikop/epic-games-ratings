@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 5,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -13242,10 +13242,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 282686,
       "NumberOfAwardsMax": 37218
+    },
+    {
+      "Time": "2023-12-04T10:57:58.3323703+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 282770,
+      "NumberOfAwardsMax": 37218
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 282686,
+  "NumberOfAwards": 282770,
   "NumberOfAwardsMax": 37218,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -13301,7 +13307,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 31187
+      "Count": 31271
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -13316,9 +13322,9 @@
       "Count": 27543
     }
   ],
-  "EOS_Progressed": 1068423,
+  "EOS_Progressed": 1068486,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 20697,
+  "EOS_NewPlayers": 20699,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39506,6 +39512,11 @@
       "Time": "2023-12-04T10:09:05.9210261+00:00",
       "NumProgressed": 1068423,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-04T11:09:43.3276397+00:00",
+      "NumProgressed": 1068486,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 232,
@@ -39685,7 +39696,7 @@
       "Name": "Zealous",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10684
+      "UsersEstimate": 10685
     },
     {
       "ID": "ACH_023",
@@ -39693,7 +39704,7 @@
       "Name": "It wakes",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10684
+      "UsersEstimate": 10685
     },
     {
       "ID": "ACH_024",
@@ -39725,7 +39736,7 @@
       "Name": "Apt Survivor",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 8547
+      "UsersEstimate": 8548
     },
     {
       "ID": "ACH_028",
@@ -39821,7 +39832,7 @@
       "Name": "Skillful",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10684
+      "UsersEstimate": 10685
     },
     {
       "ID": "ACH_040",
@@ -41285,7 +41296,7 @@
       "Name": "Make Some Noise",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 8547
+      "UsersEstimate": 8548
     },
     {
       "ID": "ACH_226",
@@ -41372,21 +41383,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1068423,
-      "Completed": 67
+      "Progressed": 1068486,
+      "Completed": 68
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1068423,
+      "Progressed": 1068486,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-12-04T01:46:12.8012808+00:00",
-  "LastChanged_Achievements": "2023-12-04T10:09:05.9210256+00:00",
+  "LastChanged": "2023-12-04T10:57:58.3323702+00:00",
+  "LastChanged_Achievements": "2023-12-04T11:09:43.3276395+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:13.1126718+00:00",
-  "LastUpdate_Ratings": "2023-12-04T09:57:51.0769832+00:00",
-  "LastUpdate_Achievements": "2023-12-04T10:09:05.9215579+00:00"
+  "LastUpdate_Ratings": "2023-12-04T10:57:58.3323708+00:00",
+  "LastUpdate_Achievements": "2023-12-04T11:09:43.3281525+00:00"
 }

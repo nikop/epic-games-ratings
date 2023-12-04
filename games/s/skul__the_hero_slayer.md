@@ -6,13 +6,13 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,799 |
-| What should I buy? | 84.00% | ~7,044 |
-| Focus! | 63.00% | ~5,283 |
-| Rescued Elder Ent | 63.00% | ~5,283 |
-| The End of the Gold Mane Knights | 49.00% | ~4,109 |
-| Rules of Etiquette | 42.00% | ~3,522 |
-| False Goddess, Disappear | 41.00% | ~3,438 |
+| The Legend Begins | 93.00% | ~7,800 |
+| What should I buy? | 84.00% | ~7,045 |
+| Focus! | 63.00% | ~5,284 |
+| Rescued Elder Ent | 63.00% | ~5,284 |
+| The End of the Gold Mane Knights | 49.00% | ~4,110 |
+| Rules of Etiquette | 42.00% | ~3,523 |
+| False Goddess, Disappear | 41.00% | ~3,439 |
 | Quick Movements | 35.00% | ~2,935 |
 | Inventory Management | 35.00% | ~2,935 |
 | The Fall of the Leonia Order | 32.00% | ~2,684 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 2.00% | ~168 |
 | Cold-Blooded | 0.80% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,386 (Ranked 174)  
+Progressed: 8,387 (Ranked 174)  
 Completed: 16 (0.19%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,14 +238,14 @@ Completed: 16 (0.19%) (Ranked 262)
 | 2023-12-01 | 8,370 | 16 |
 | 2023-12-02 | 8,375 | 16 |
 | 2023-12-03 | 8,382 | 16 |
-| 2023-12-04 | 8,386 | 16 |
+| 2023-12-04 | 8,387 | 16 |
 ## Awards
-Max (Great for Beginners): 135  (Ranked 328)  
-Sum: 941 (Ranked 271)  
-Diff (max vs sum): 57  
+Max (Great for Beginners): 136  (Ranked 327)  
+Sum: 942 (Ranked 271)  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 135 |
+| This game is Great for Beginners | 136 |
 | This game has Diverse Characters | 132 |
 | This game is Highly Recommended | 115 |
 | This game is Extremely Fun | 111 |
@@ -404,4 +404,4 @@ Diff (max vs sum): 57
 | 2023-11-30 | 4.72 | - | 134 | 937 |
 | 2023-12-01 | 4.72 | - | 134 | 938 |
 | 2023-12-02 | 4.72 | - | 135 | 941 |
-| 2023-12-04 | 4.73 | - | 135 | 941 |
+| 2023-12-04 | 4.73 | - | 136 | 942 |

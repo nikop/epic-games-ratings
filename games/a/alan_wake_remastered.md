@@ -10,8 +10,8 @@ Number of Ratings: 524  (23.09.2022)
 | Let There Be Light | 49.00% | ~47,702 |
 | Float Like a Butterfly | 47.00% | ~45,755 |
 | Nordic Walking | 39.00% | ~37,967 |
-| Bright Falls' Finest | 38.00% | ~36,993 |
-| Under a Thin Layer of Skin | 34.00% | ~33,099 |
+| Bright Falls' Finest | 38.00% | ~36,994 |
+| Under a Thin Layer of Skin | 34.00% | ~33,100 |
 | Park Ranger | 29.00% | ~28,232 |
 | Paging Mr. Wake | 29.00% | ~28,232 |
 | Back! Back, I Say! | 27.00% | ~26,285 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | No Punctuation | 0.20% | ~122 |
 | Licensed Properties | 0.20% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,351 (Ranked 90)  
+Progressed: 97,352 (Ranked 90)  
 Completed: 107 (0.11%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 107 (0.11%) (Ranked 283)
 | 2023-12-01 | 96,988 | 106 |
 | 2023-12-02 | 97,127 | 106 |
 | 2023-12-03 | 97,314 | 107 |
-| 2023-12-04 | 97,351 | 107 |
+| 2023-12-04 | 97,352 | 107 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

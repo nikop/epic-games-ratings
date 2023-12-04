@@ -4,8 +4,8 @@
   "ProductSlug": "tenement-c15712",
   "Ranking_EOS_Progress": 776,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 485,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 484,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -522,8 +522,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-30T18:03:11.7514662+00:00",
-  "LastChanged_Achievements": "2023-12-04T10:04:17.6794256+00:00",
+  "LastChanged_Achievements": "2023-12-04T11:04:35.7301564+00:00",
   "LastUpdate_AppInfo": "2023-11-30T17:57:13.9744343+00:00",
-  "LastUpdate_Ratings": "2023-12-04T09:58:42.2217465+00:00",
-  "LastUpdate_Achievements": "2023-12-04T10:04:17.6794668+00:00"
+  "LastUpdate_Ratings": "2023-12-04T10:58:49.8823603+00:00",
+  "LastUpdate_Achievements": "2023-12-04T11:04:35.7301905+00:00"
 }

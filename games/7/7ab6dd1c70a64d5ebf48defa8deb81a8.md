@@ -19,7 +19,7 @@
 | Geared Up | 9.00% | ~22 |
 | Stone Collection | 9.00% | ~22 |
 | Fashion Victim | 8.00% | ~20 |
-| Essence Blow | 6.00% | ~15 |
+| Essence Blow | 7.00% | ~17 |
 | Alchemist | 6.00% | ~15 |
 | Calm before the Storm | 5.00% | ~12 |
 | The Mentor | 5.00% | ~12 |
@@ -30,11 +30,11 @@
 | Clear Sight | 3.00% | ~7 |
 | Shatterer | 3.00% | ~7 |
 | Slayer | 2.00% | ~5 |
+| Flawless Victory | 2.00% | ~5 |
 | All There Is | 2.00% | ~5 |
 | False God | 2.00% | ~5 |
 | Miner | 2.00% | ~5 |
 | A Queen's Tale | 2.00% | ~5 |
-| Flawless Victory | 1.00% | ~2 |
 | All That Gold | 1.00% | ~2 |
 | Summiter | 1.00% | ~2 |
 | Forgemaster | 0.80% | ~2 |

@@ -14,11 +14,11 @@ Number of Ratings: 292  (23.09.2022)
 | Humiliation | 7.00% | ~24 |
 | Sorcerous Spree | 6.00% | ~21 |
 | Whoops! | 4.00% | ~14 |
+| Expert Essence Employment | 4.00% | ~14 |
 | Veni, Vidi, Vici | 4.00% | ~14 |
 | Multi Kill | 3.00% | ~10 |
 | Landlord Extraordinaire | 3.00% | ~10 |
 | Master | 3.00% | ~10 |
-| Expert Essence Employment | 3.00% | ~10 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~10 |
 | The Song of Stoutheart | 2.00% | ~7 |
 | Such A Fungi | 2.00% | ~7 |

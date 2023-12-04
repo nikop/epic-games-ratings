@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -625,9 +625,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 3972,
+  "EOS_Progressed": 3973,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8395,6 +8395,11 @@
       "Time": "2023-12-03T18:04:52.8908075+00:00",
       "NumProgressed": 3972,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-04T11:05:12.7710149+00:00",
+      "NumProgressed": 3973,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8590,7 +8595,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -8630,7 +8635,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -8718,7 +8723,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1350
+      "UsersEstimate": 1351
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -8742,7 +8747,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -8798,7 +8803,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -8973,13 +8978,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3923,
+      "Progressed": 3924,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3972,
+      "Progressed": 3973,
       "Completed": 11
     }
   ],
@@ -8987,8 +8992,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-29T01:50:55.7506147+00:00",
-  "LastChanged_Achievements": "2023-12-04T10:04:54.7493953+00:00",
+  "LastChanged_Achievements": "2023-12-04T11:05:12.7710144+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:29.4601542+00:00",
-  "LastUpdate_Ratings": "2023-12-04T09:57:30.7259049+00:00",
-  "LastUpdate_Achievements": "2023-12-04T10:04:54.7495208+00:00"
+  "LastUpdate_Ratings": "2023-12-04T10:57:38.1992185+00:00",
+  "LastUpdate_Achievements": "2023-12-04T11:05:12.7710941+00:00"
 }

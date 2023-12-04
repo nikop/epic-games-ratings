@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 366,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251856,
+  "EOS_Progressed": 251857,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20452,6 +20452,11 @@
       "Time": "2023-12-04T04:09:15.3970823+00:00",
       "NumProgressed": 251856,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-04T11:09:21.240319+00:00",
+      "NumProgressed": 251857,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -20535,7 +20540,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37778
+      "UsersEstimate": 37779
     },
     {
       "ID": "clearCut",
@@ -20679,7 +20684,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20148
+      "UsersEstimate": 20149
     },
     {
       "ID": "lockupLockdown",
@@ -20767,7 +20772,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55408
+      "UsersEstimate": 55409
     },
     {
       "ID": "thunderstruck",
@@ -20830,7 +20835,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251856,
+      "Progressed": 251857,
       "Completed": 6
     }
   ],
@@ -20838,8 +20843,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-04T10:08:44.3323452+00:00",
+  "LastChanged_Achievements": "2023-12-04T11:09:21.2403186+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.4245998+00:00",
-  "LastUpdate_Ratings": "2023-12-04T09:57:31.3810648+00:00",
-  "LastUpdate_Achievements": "2023-12-04T10:08:44.3324775+00:00"
+  "LastUpdate_Ratings": "2023-12-04T10:57:38.8001983+00:00",
+  "LastUpdate_Achievements": "2023-12-04T11:09:21.2404471+00:00"
 }

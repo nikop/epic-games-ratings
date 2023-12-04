@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -806,9 +806,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5329,
+  "EOS_Progressed": 5331,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10516,6 +10516,11 @@
       "Time": "2023-12-04T10:03:34.3069136+00:00",
       "NumProgressed": 5329,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-04T11:03:52.4805803+00:00",
+      "NumProgressed": 5331,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -10624,7 +10629,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -10640,7 +10645,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1172
+      "UsersEstimate": 1173
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -10678,9 +10683,9 @@
       "ID": "MF_Ach_SpendingSpree",
       "SetID": "9b9n573",
       "Name": "Spending Spree",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1013
+      "UsersEstimate": 960
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -10688,7 +10693,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -10711,15 +10716,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5329,
+      "Progressed": 5331,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-01T06:01:05.0621947+00:00",
-  "LastChanged_Achievements": "2023-12-04T10:03:34.3069131+00:00",
+  "LastChanged_Achievements": "2023-12-04T11:03:52.4805791+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:08.5943079+00:00",
-  "LastUpdate_Ratings": "2023-12-04T09:57:43.3348738+00:00",
-  "LastUpdate_Achievements": "2023-12-04T10:03:34.3069852+00:00"
+  "LastUpdate_Ratings": "2023-12-04T10:57:50.4423515+00:00",
+  "LastUpdate_Achievements": "2023-12-04T11:03:52.4806243+00:00"
 }

@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mighty Powers | 78.00% | ~32 |
-| Grand Re-Opening | 66.00% | ~27 |
-| Pup Pup Boogie | 63.00% | ~26 |
-| Summer Day | 61.00% | ~25 |
-| Mr. Porter | 51.00% | ~21 |
-| Risky Rescue | 46.00% | ~19 |
-| Carlos Is Tangled | 44.00% | ~18 |
-| Mandy Family | 41.00% | ~17 |
-| Clear the Road | 39.00% | ~16 |
-| Paw patrol member | 37.00% | ~15 |
-| Robot Out of Control | 37.00% | ~15 |
-| Break Time | 34.00% | ~14 |
-| Master of the Rope | 32.00% | ~13 |
-| Training Day | 32.00% | ~13 |
-| In the Air | 32.00% | ~13 |
+| Mighty Powers | 76.00% | ~32 |
+| Grand Re-Opening | 64.00% | ~27 |
+| Pup Pup Boogie | 62.00% | ~26 |
+| Summer Day | 60.00% | ~25 |
+| Mr. Porter | 50.00% | ~21 |
+| Risky Rescue | 45.00% | ~19 |
+| Carlos Is Tangled | 43.00% | ~18 |
+| Mandy Family | 40.00% | ~17 |
+| Clear the Road | 38.00% | ~16 |
+| Paw patrol member | 36.00% | ~15 |
+| Robot Out of Control | 36.00% | ~15 |
+| Break Time | 33.00% | ~14 |
+| Master of the Rope | 31.00% | ~13 |
+| Training Day | 31.00% | ~13 |
+| In the Air | 31.00% | ~13 |
 | The Fastest | 29.00% | ~12 |
 | Never Miss | 29.00% | ~12 |
 | Animal Sighting | 24.00% | ~10 |
 | Don’t Miss Any | 24.00% | ~10 |
-| Adventure Bay’s Citizen | 22.00% | ~9 |
+| Adventure Bay’s Citizen | 21.00% | ~9 |
 | You Have Been Everywhere | 17.00% | ~7 |
 | Mountain and Ice | 17.00% | ~7 |
 | Everything Under Control | 12.00% | ~5 |
@@ -35,7 +35,7 @@
 | The Collector | 0.00% | ~0 |
 | Pup Treat Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41 (Ranked 516)  
+Progressed: 42 (Ranked 514)  
 Completed: 0 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,6 +76,7 @@ Completed: 0 (0.00%) (Ranked 366)
 | 2023-11-18 | 38 | 0 |
 | 2023-11-20 | 39 | 0 |
 | 2023-11-28 | 41 | 0 |
+| 2023-12-04 | 42 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

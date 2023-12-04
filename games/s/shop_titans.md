@@ -12,13 +12,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Tinkle of Coins | 6.00% | ~8,626 |
 | Disintermediation | 5.00% | ~7,188 |
 | Capitalism Ho! | 5.00% | ~7,188 |
-| One Easy Payment | 4.00% | ~5,750 |
-| Some Assembly Required | 4.00% | ~5,750 |
-| Another Satisfied Customer | 4.00% | ~5,750 |
-| It's Free Real Estate | 4.00% | ~5,750 |
-| Pretty Penny | 4.00% | ~5,750 |
-| Budding Merchant | 4.00% | ~5,750 |
-| Own the Means of Production | 4.00% | ~5,750 |
+| One Easy Payment | 4.00% | ~5,751 |
+| Some Assembly Required | 4.00% | ~5,751 |
+| Another Satisfied Customer | 4.00% | ~5,751 |
+| It's Free Real Estate | 4.00% | ~5,751 |
+| Pretty Penny | 4.00% | ~5,751 |
+| Budding Merchant | 4.00% | ~5,751 |
+| Own the Means of Production | 4.00% | ~5,751 |
 | The Daily Grind | 3.00% | ~4,313 |
 | Bounty Hunters | 3.00% | ~4,313 |
 | Demand for Supplies | 3.00% | ~4,313 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~431 |
 | Capitalist Camaraderie | 0.20% | ~288 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 143,760 (Ranked 80)  
+Progressed: 143,764 (Ranked 80)  
 Completed: 291 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 291 (0.20%) (Ranked 257)
 | 2023-12-01 | 143,280 | 290 |
 | 2023-12-02 | 143,469 | 290 |
 | 2023-12-03 | 143,715 | 291 |
-| 2023-12-04 | 143,760 | 291 |
+| 2023-12-04 | 143,764 | 291 |
 ## Awards
 Max (Great for Beginners): 4,862  (Ranked 75)  
 Sum: 27,656 (Ranked 50)  

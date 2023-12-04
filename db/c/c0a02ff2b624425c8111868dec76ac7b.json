@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 366,
   "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
     "PcReleaseDate": "2023-11-21T13:00:00+00:00",
@@ -592,9 +592,9 @@
       "ID": "ACH_AVEN_UNLOCKED",
       "SetID": "cagp2pi",
       "Name": "Together",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_BIPOLAR_ABSORBED",
@@ -743,8 +743,8 @@
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-12-04T10:02:56.4055926+00:00",
+  "LastChanged_Achievements": "2023-12-04T11:03:14.3468438+00:00",
   "LastUpdate_AppInfo": "2023-12-01T13:57:00.5730741+00:00",
-  "LastUpdate_Ratings": "2023-12-04T09:58:34.6640728+00:00",
-  "LastUpdate_Achievements": "2023-12-04T10:02:56.4056144+00:00"
+  "LastUpdate_Ratings": "2023-12-04T10:58:42.3477428+00:00",
+  "LastUpdate_Achievements": "2023-12-04T11:03:14.3468647+00:00"
 }

@@ -6,33 +6,33 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,343 |
-| Gun Fu | 7.00% | ~67,867 |
-| The Fool | 6.00% | ~58,171 |
-| Right Back At Ya | 4.00% | ~38,781 |
-| The Lovers | 4.00% | ~38,781 |
-| Full Body Conversion | 3.00% | ~29,086 |
-| Stanislavski's Method | 3.00% | ~29,086 |
-| The Wheel of Fortune | 3.00% | ~29,086 |
-| True Soldier | 3.00% | ~29,086 |
-| Christmas Tree Attack | 2.00% | ~19,390 |
-| The Quick and the Dead | 2.00% | ~19,390 |
-| Life of the Road | 2.00% | ~19,390 |
-| The Hermit | 2.00% | ~19,390 |
-| The High Priestess | 2.00% | ~19,390 |
-| True Warrior | 2.00% | ~19,390 |
-| Legend of The Afterlife | 2.00% | ~19,390 |
-| Relic Ruler | 2.00% | ~1,963 |
-| All the President's Men | 2.00% | ~1,963 |
-| Arachnophobia | 2.00% | ~1,963 |
-| Bushido and Chill | 1.00% | ~9,695 |
-| Master Crafter | 1.00% | ~9,695 |
-| I Am The Law | 1.00% | ~9,695 |
-| The World | 1.00% | ~9,695 |
-| Two Heads, One Bullet | 1.00% | ~9,695 |
-| Judy vs Night City | 1.00% | ~9,695 |
+| V for Vendetta | 12.00% | ~116,347 |
+| Gun Fu | 7.00% | ~67,869 |
+| The Fool | 6.00% | ~58,173 |
+| Right Back At Ya | 4.00% | ~38,782 |
+| The Lovers | 4.00% | ~38,782 |
+| Full Body Conversion | 3.00% | ~29,087 |
+| Stanislavski's Method | 3.00% | ~29,087 |
+| The Wheel of Fortune | 3.00% | ~29,087 |
+| True Soldier | 3.00% | ~29,087 |
+| Christmas Tree Attack | 2.00% | ~19,391 |
+| The Quick and the Dead | 2.00% | ~19,391 |
+| Life of the Road | 2.00% | ~19,391 |
+| The Hermit | 2.00% | ~19,391 |
+| The High Priestess | 2.00% | ~19,391 |
+| True Warrior | 2.00% | ~19,391 |
+| Legend of The Afterlife | 2.00% | ~19,391 |
+| Relic Ruler | 2.00% | ~1,964 |
+| All the President's Men | 2.00% | ~1,964 |
+| Arachnophobia | 2.00% | ~1,964 |
+| Bushido and Chill | 1.00% | ~9,696 |
+| Master Crafter | 1.00% | ~9,696 |
+| I Am The Law | 1.00% | ~9,696 |
+| The World | 1.00% | ~9,696 |
+| Two Heads, One Bullet | 1.00% | ~9,696 |
+| Judy vs Night City | 1.00% | ~9,696 |
 | To Protect and Serve | 0.90% | ~8,726 |
-| Spin Doctor | 0.90% | ~883 |
+| Spin Doctor | 0.90% | ~884 |
 | The Wandering Fool | 0.70% | ~6,787 |
 | Easy Come, Easy Go | 0.70% | ~687 |
 | King of Wands | 0.60% | ~589 |
@@ -47,9 +47,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | Autojock | 0.30% | ~2,909 |
 | Must Be Rats | 0.30% | ~2,909 |
 | Temperance | 0.30% | ~2,909 |
-| The APB is Not Enough | 0.30% | ~294 |
-| Judgement Day | 0.30% | ~294 |
-| King of Pentacles | 0.30% | ~294 |
+| The APB is Not Enough | 0.30% | ~295 |
+| Judgement Day | 0.30% | ~295 |
+| King of Pentacles | 0.30% | ~295 |
 | City Lights | 0.20% | ~1,939 |
 | King of Cups | 0.20% | ~196 |
 | Frequent Flyer | 0.10% | ~970 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 969,524 (Ranked 15)  
-Completed: 2,839 (0.29%) (Ranked 239)  
+Progressed: 969,558 (Ranked 15)  
+Completed: 2,840 (0.29%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -302,15 +302,15 @@ Completed: 2,839 (0.29%) (Ranked 239)
 | 2023-12-01 | 966,265 | 2,832 |
 | 2023-12-02 | 967,833 | 2,836 |
 | 2023-12-03 | 969,229 | 2,839 |
-| 2023-12-04 | 969,524 | 2,839 |
+| 2023-12-04 | 969,558 | 2,840 |
 ## Awards
 Max (Character Customization): 115,469  (Ranked 9)  
-Sum: 385,229 (Ranked 9)  
+Sum: 386,007 (Ranked 9)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 115,469 |
-| This game has Great Boss Battles | 82,883 |
+| This game has Great Boss Battles | 83,517 |
 | This game is Great for Beginners | 23,231 |
 | This game has Diverse Characters | 22,799 |
 | This game is Highly Recommended | 21,787 |
@@ -318,7 +318,7 @@ Diff (max vs sum): 0
 | This game is Extremely Fun | 21,357 |
 | This game has Amazing Characters | 21,149 |
 | This game is Relaxing | 20,436 |
-| This game has Quickly Understood Controls | 20,273 |
+| This game has Quickly Understood Controls | 20,417 |
 | This game has a Creative Community | 14,147 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -642,4 +642,4 @@ Diff (max vs sum): 0
 | 2023-12-01 | 4.65 | - | 113,560 | 378,672 |
 | 2023-12-02 | 4.65 | - | 114,587 | 382,001 |
 | 2023-12-03 | 4.65 | - | 115,469 | 385,067 |
-| 2023-12-04 | 4.65 | - | 115,469 | 385,229 |
+| 2023-12-04 | 4.65 | - | 115,469 | 386,007 |

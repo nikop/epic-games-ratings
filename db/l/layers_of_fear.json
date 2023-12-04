@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 366,
   "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -667,9 +667,9 @@
       "ID": "face_your_fears",
       "SetID": "f2im8d",
       "Name": "Face your fears",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -859,9 +859,9 @@
       "ID": "self_preservation",
       "SetID": "f2im8d",
       "Name": "Instinct of self-preservation",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "sign_of_weakness",
@@ -962,8 +962,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-04T10:03:17.3797093+00:00",
+  "LastChanged_Achievements": "2023-12-04T11:03:35.6104715+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:53.0795294+00:00",
-  "LastUpdate_Ratings": "2023-12-04T09:57:37.2843194+00:00",
-  "LastUpdate_Achievements": "2023-12-04T10:03:17.3797411+00:00"
+  "LastUpdate_Ratings": "2023-12-04T10:57:44.3826475+00:00",
+  "LastUpdate_Achievements": "2023-12-04T11:03:35.6105044+00:00"
 }

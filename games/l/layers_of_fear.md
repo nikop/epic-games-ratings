@@ -14,7 +14,7 @@
 | Refuse to look | 38.00% | ~40 |
 | Sign of weakness | 38.00% | ~40 |
 | Finished it | 29.00% | ~30 |
-| Face your fears | 26.00% | ~27 |
+| Face your fears | 27.00% | ~28 |
 | Whispers long forgotten | 14.00% | ~15 |
 | Playtime | 13.00% | ~14 |
 | The tragedy unfolds | 13.00% | ~14 |
@@ -38,13 +38,13 @@
 | Something to think about | 3.00% | ~3 |
 | I remember It Like Was Yesterday | 3.00% | ~3 |
 | Se7en Seas | 3.00% | ~3 |
+| Instinct of self-preservation | 3.00% | ~3 |
 | A Mosaic of Misery | 3.00% | ~3 |
 | The Big Picture | 2.00% | ~2 |
 | Dark correspondence | 2.00% | ~2 |
 | It was worth a try | 2.00% | ~2 |
 | Immortalized in my heart | 2.00% | ~2 |
 | Full Scoop | 2.00% | ~2 |
-| Instinct of self-preservation | 2.00% | ~2 |
 | In One Take | 1.00% | ~1 |
 | Preferred Parent | 1.00% | ~1 |
 | The Tree and the Apple | 1.00% | ~1 |

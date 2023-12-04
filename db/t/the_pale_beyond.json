@@ -4,8 +4,8 @@
   "ProductSlug": "the-pale-beyond-e09cae",
   "Ranking_EOS_Progress": 776,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 485,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 484,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-02-24T16:00:00+00:00",
     "PcReleaseDate": "2023-02-24T16:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:57:22.9345755+00:00",
   "LastChanged": "2023-03-31T05:57:22.9345755+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:12.5606929+00:00",
-  "LastUpdate_Ratings": "2023-12-04T09:59:44.8769712+00:00",
-  "LastUpdate_Achievements": "2023-12-04T10:05:08.5195861+00:00"
+  "LastUpdate_Ratings": "2023-12-04T10:59:52.5665048+00:00",
+  "LastUpdate_Achievements": "2023-12-04T11:05:26.4167032+00:00"
 }

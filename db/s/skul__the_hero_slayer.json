@@ -3,12 +3,12 @@
   "Name": "Skul: The Hero Slayer",
   "ProductSlug": "skul-the-hero-slayer",
   "Ranking_Rating": 169,
-  "Ranking_Popularity": 328,
+  "Ranking_Popularity": 327,
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -1095,11 +1095,17 @@
       "Rating": 4.73,
       "NumberOfAwards": 941,
       "NumberOfAwardsMax": 135
+    },
+    {
+      "Time": "2023-12-04T11:02:43.8439922+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 942,
+      "NumberOfAwardsMax": 136
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 941,
-  "NumberOfAwardsMax": 135,
+  "NumberOfAwards": 942,
+  "NumberOfAwardsMax": 136,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1166,10 +1172,10 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 135
+      "Count": 136
     }
   ],
-  "EOS_Progressed": 8386,
+  "EOS_Progressed": 8387,
   "EOS_Completed": 16,
   "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
@@ -5799,6 +5805,11 @@
       "Time": "2023-12-04T05:07:57.7660929+00:00",
       "NumProgressed": 8386,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-04T11:08:17.4170758+00:00",
+      "NumProgressed": 8387,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 24,
@@ -5834,7 +5845,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5283
+      "UsersEstimate": 5284
     },
     {
       "ID": "DemonCastleRestoration",
@@ -5858,7 +5869,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 3438
+      "UsersEstimate": 3439
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -5922,7 +5933,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 3522
+      "UsersEstimate": 3523
     },
     {
       "ID": "RookieWelcome",
@@ -5938,7 +5949,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5283
+      "UsersEstimate": 5284
     },
     {
       "ID": "SavedElderEnt_2",
@@ -5970,7 +5981,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7799
+      "UsersEstimate": 7800
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -5978,7 +5989,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 4109
+      "UsersEstimate": 4110
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -5994,22 +6005,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 7044
+      "UsersEstimate": 7045
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8386,
+      "Progressed": 8387,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2023-12-04T04:02:46.5531236+00:00",
-  "LastChanged_Achievements": "2023-12-04T10:06:10.13823+00:00",
+  "LastChanged": "2023-12-04T11:02:43.843992+00:00",
+  "LastChanged_Achievements": "2023-12-04T11:08:17.4170755+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.4264134+00:00",
-  "LastUpdate_Ratings": "2023-12-04T10:02:27.6241106+00:00",
-  "LastUpdate_Achievements": "2023-12-04T10:06:10.1382629+00:00"
+  "LastUpdate_Ratings": "2023-12-04T11:02:43.8439925+00:00",
+  "LastUpdate_Achievements": "2023-12-04T11:08:17.4171233+00:00"
 }

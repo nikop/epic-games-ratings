@@ -6,14 +6,14 @@ Rating: 4.52 (Ranked 557)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Legal Counsel | 47.00% | ~5,252 |
-| Greasy Palms | 42.00% | ~4,693 |
-| South American Connection | 26.00% | ~2,905 |
+| Greasy Palms | 42.00% | ~4,694 |
+| South American Connection | 26.00% | ~2,906 |
 | Life of the Party | 21.00% | ~2,347 |
 | Tommy Two-Wheels | 16.00% | ~1,788 |
 | Big Heat from Little Havana | 15.00% | ~1,676 |
 | Chauffeur | 15.00% | ~1,676 |
 | Salutations My Little Friend | 11.00% | ~1,229 |
-| Iron-y | 10.00% | ~1,117 |
+| Iron-y | 10.00% | ~1,118 |
 | Gun for Hire | 9.00% | ~1,006 |
 | Mischief Managed | 9.00% | ~1,006 |
 | Vice City Mogul | 7.00% | ~782 |
@@ -30,9 +30,9 @@ Rating: 4.52 (Ranked 557)
 | Just Like the Real Thing | 3.00% | ~335 |
 | Don't Need Roads | 3.00% | ~335 |
 | City Sleuth | 3.00% | ~335 |
-| One is Better Than Two | 2.00% | ~223 |
-| Take the Cannoli | 2.00% | ~223 |
-| Chopper’d Up | 2.00% | ~223 |
+| One is Better Than Two | 2.00% | ~224 |
+| Take the Cannoli | 2.00% | ~224 |
+| Chopper’d Up | 2.00% | ~224 |
 | Born in the 80’s | 1.00% | ~112 |
 | Keepie-Uppy Okie Dokie | 1.00% | ~112 |
 | I'm Famous! | 1.00% | ~112 |
@@ -40,7 +40,7 @@ Rating: 4.52 (Ranked 557)
 | Done it All | 1.00% | ~112 |
 | Kingpin | 0.60% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,174 (Ranked 163)  
+Progressed: 11,175 (Ranked 163)  
 Completed: 65 (0.58%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 65 (0.58%) (Ranked 198)
 | 2023-12-01 | 11,144 | 65 |
 | 2023-12-02 | 11,154 | 65 |
 | 2023-12-03 | 11,170 | 65 |
-| 2023-12-04 | 11,174 | 65 |
+| 2023-12-04 | 11,175 | 65 |
 ## Awards
 Max (Great Boss Battles): 113  (Ranked 349)  
 Sum: 113 (Ranked 446)  

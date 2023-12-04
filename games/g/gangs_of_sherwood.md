@@ -16,7 +16,7 @@
 | Spring Board | 50.00% | ~28 |
 | Starry Night | 45.00% | ~25 |
 | Rebel Unleashed | 41.00% | ~23 |
-| Locksley's Tears | 36.00% | ~20 |
+| Locksley's Tears | 38.00% | ~21 |
 | Finish Him! | 34.00% | ~19 |
 | Merry Co-operation | 32.00% | ~18 |
 | Assault on the Ram | 32.00% | ~18 |

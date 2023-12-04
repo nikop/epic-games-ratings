@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 366,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
     "PcReleaseDate": "2021-04-07T13:00:00+00:00",
@@ -617,17 +617,17 @@
       "ID": "GREEDY",
       "SetID": "40o4f14",
       "Name": "Greedy",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "HERO",
       "SetID": "40o4f14",
       "Name": "Hero",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "KING",
@@ -784,8 +784,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-12-04T10:03:00.6246858+00:00",
+  "LastChanged_Achievements": "2023-12-04T11:03:18.7370677+00:00",
   "LastUpdate_AppInfo": "2023-11-30T01:44:08.4871505+00:00",
-  "LastUpdate_Ratings": "2023-12-04T10:02:26.8939318+00:00",
-  "LastUpdate_Achievements": "2023-12-04T10:03:00.6247065+00:00"
+  "LastUpdate_Ratings": "2023-12-04T11:02:43.1097712+00:00",
+  "LastUpdate_Achievements": "2023-12-04T11:03:18.7370911+00:00"
 }

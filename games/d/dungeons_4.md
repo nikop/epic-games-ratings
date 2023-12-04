@@ -58,7 +58,7 @@
 | To Infinity And Beyond! | 12.00% | ~63 |
 | Mirror, Mirror | 11.00% | ~57 |
 | Untouchable | 11.00% | ~57 |
-| Evilification | 10.00% | ~52 |
+| Evilification | 11.00% | ~57 |
 | Laser Eyes Are So Useless | 9.00% | ~47 |
 | Heal Heal Blessing | 9.00% | ~47 |
 | Gorgu is in the Best of Health | 8.00% | ~42 |
@@ -67,7 +67,7 @@
 | I Don't Need Any Help | 5.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 521 (Ranked 311)  
-Completed: 11 (2.11%) (Ranked 127)  
+Completed: 12 (2.30%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -96,4 +96,4 @@ Completed: 11 (2.11%) (Ranked 127)
 | 2023-12-01 | 511 | 10 |
 | 2023-12-02 | 515 | 10 |
 | 2023-12-03 | 520 | 11 |
-| 2023-12-04 | 521 | 11 |
+| 2023-12-04 | 521 | 12 |

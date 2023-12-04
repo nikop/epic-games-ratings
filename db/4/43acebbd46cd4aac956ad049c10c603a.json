@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -2076,9 +2076,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 113
     },
     {
       "ID": "BreakTheLoop",
@@ -2164,9 +2164,9 @@
       "ID": "FloodedValley",
       "SetID": "1n308hc",
       "Name": "Flooded Valley",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 35
     },
     {
       "ID": "GnothiSeauton",
@@ -2517,8 +2517,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-03T13:00:54.7758323+00:00",
-  "LastChanged_Achievements": "2023-12-04T10:04:33.7984322+00:00",
+  "LastChanged_Achievements": "2023-12-04T11:04:51.6370996+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-04T09:57:50.4737466+00:00",
-  "LastUpdate_Achievements": "2023-12-04T10:04:33.798475+00:00"
+  "LastUpdate_Ratings": "2023-12-04T10:57:57.7076488+00:00",
+  "LastUpdate_Achievements": "2023-12-04T11:04:51.6371492+00:00"
 }
