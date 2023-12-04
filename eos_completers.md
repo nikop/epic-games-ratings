@@ -129,7 +129,7 @@
 | 127 | [Dungeons 4](games/d/dungeons_4.md) | 2.11% |
 | 128 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 1.98% |
 | 129 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.92% |
-| 130 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.90% |
+| 130 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.89% |
 | 131 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.88% |
 | 132 | [Somerville](games/s/somerville.md) | 1.86% |
 | 133 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.82% |
