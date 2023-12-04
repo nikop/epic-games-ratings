@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 115841,
+  "EOS_Progressed": 115844,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 586,
+  "EOS_NewPlayers": 587,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -20059,6 +20059,11 @@
       "Time": "2023-12-04T04:09:13.598063+00:00",
       "NumProgressed": 115841,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-12-04T05:09:47.4526982+00:00",
+      "NumProgressed": 115844,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 49,
@@ -20078,7 +20083,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 89198
+      "UsersEstimate": 89200
     },
     {
       "ID": "EAwards_10",
@@ -20102,7 +20107,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17376
+      "UsersEstimate": 17377
     },
     {
       "ID": "EAwards_13",
@@ -20142,7 +20147,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42861
+      "UsersEstimate": 42862
     },
     {
       "ID": "EAwards_18",
@@ -20158,7 +20163,7 @@
       "Name": "One Born Every Minute",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6950
+      "UsersEstimate": 6951
     },
     {
       "ID": "EAwards_2",
@@ -20166,7 +20171,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 55604
+      "UsersEstimate": 55605
     },
     {
       "ID": "EAwards_20",
@@ -20190,7 +20195,7 @@
       "Name": "Combo Machine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6950
+      "UsersEstimate": 6951
     },
     {
       "ID": "EAwards_23",
@@ -20198,7 +20203,7 @@
       "Name": "These are not fertilized",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 9267
+      "UsersEstimate": 9268
     },
     {
       "ID": "EAwards_24",
@@ -20254,7 +20259,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 23168
+      "UsersEstimate": 23169
     },
     {
       "ID": "EAwards_30",
@@ -20342,7 +20347,7 @@
       "Name": "Severed",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 15059
+      "UsersEstimate": 15060
     },
     {
       "ID": "EAwards_40",
@@ -20461,7 +20466,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 115841,
+      "Progressed": 115844,
       "Completed": 51
     }
   ],
@@ -20469,8 +20474,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-04T04:09:13.5980626+00:00",
+  "LastChanged_Achievements": "2023-12-04T05:09:47.4526978+00:00",
   "LastUpdate_AppInfo": "2023-12-01T05:57:06.5040385+00:00",
-  "LastUpdate_Ratings": "2023-12-04T03:59:31.071919+00:00",
-  "LastUpdate_Achievements": "2023-12-04T04:09:13.598189+00:00"
+  "LastUpdate_Ratings": "2023-12-04T05:00:58.5110282+00:00",
+  "LastUpdate_Achievements": "2023-12-04T05:09:47.452797+00:00"
 }

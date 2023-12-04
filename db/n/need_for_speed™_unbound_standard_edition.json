@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 11679,
+  "EOS_Progressed": 11680,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 557,
   "EOS_NewCompleters": 0,
@@ -8743,6 +8743,11 @@
       "Time": "2023-12-04T04:08:20.1896716+00:00",
       "NumProgressed": 11679,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-04T05:08:15.1156738+00:00",
+      "NumProgressed": 11680,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-09-19T23:06:56.1964818+00:00",
@@ -8811,7 +8816,7 @@
       "Name": "Cash Money Millionaire",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 5372
+      "UsersEstimate": 5373
     },
     {
       "ID": "achievement_17",
@@ -8819,7 +8824,7 @@
       "Name": "Flow Master",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1401
+      "UsersEstimate": 1402
     },
     {
       "ID": "achievement_18",
@@ -8875,7 +8880,7 @@
       "Name": "Public Enemy",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 9577
+      "UsersEstimate": 9578
     },
     {
       "ID": "achievement_24",
@@ -8883,7 +8888,7 @@
       "Name": "Untouchable",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 6073
+      "UsersEstimate": 6074
     },
     {
       "ID": "achievement_25",
@@ -8907,7 +8912,7 @@
       "Name": "B for My Name",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1985
+      "UsersEstimate": 1986
     },
     {
       "ID": "achievement_28",
@@ -8931,7 +8936,7 @@
       "Name": "New Crew",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 7241
+      "UsersEstimate": 7242
     },
     {
       "ID": "achievement_30",
@@ -8955,7 +8960,7 @@
       "Name": "Mixtape",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1985
+      "UsersEstimate": 1986
     },
     {
       "ID": "achievement_33",
@@ -8987,7 +8992,7 @@
       "Name": "100 Miles and Runnin\u0027",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 9810
+      "UsersEstimate": 9811
     },
     {
       "ID": "achievement_37",
@@ -8995,7 +9000,7 @@
       "Name": "Throwing up Tags",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 10745
+      "UsersEstimate": 10746
     },
     {
       "ID": "achievement_38",
@@ -9011,7 +9016,7 @@
       "Name": "Cool Whip",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 10511
+      "UsersEstimate": 10512
     },
     {
       "ID": "achievement_4",
@@ -9035,7 +9040,7 @@
       "Name": "Drop the Beat",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 10044
+      "UsersEstimate": 10045
     },
     {
       "ID": "achievement_5",
@@ -9051,7 +9056,7 @@
       "Name": "Found Family",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 3620
+      "UsersEstimate": 3621
     },
     {
       "ID": "achievement_7",
@@ -9059,7 +9064,7 @@
       "Name": "Hey Lakeshore",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 9927
+      "UsersEstimate": 9928
     },
     {
       "ID": "achievement_8",
@@ -9082,13 +9087,13 @@
     {
       "ID": "d0n64ce",
       "IsBase": true,
-      "Progressed": 11679,
+      "Progressed": 11680,
       "Completed": 52
     }
   ],
   "FirstSeenAchievements": "2023-07-25T22:03:37.4196764+00:00",
-  "LastChanged_Achievements": "2023-12-04T04:08:20.1896713+00:00",
+  "LastChanged_Achievements": "2023-12-04T05:08:15.1156733+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:24.389053+00:00",
-  "LastUpdate_Ratings": "2023-12-04T03:59:02.1499161+00:00",
-  "LastUpdate_Achievements": "2023-12-04T04:08:20.1897306+00:00"
+  "LastUpdate_Ratings": "2023-12-04T05:00:14.812758+00:00",
+  "LastUpdate_Achievements": "2023-12-04T05:08:15.115732+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-moshpit-9c2eeb",
   "Ranking_EOS_Progress": 776,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 488,
+  "Ranking_EOS_NewPlayers": 487,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-10T11:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-06T15:57:31.6423725+00:00",
   "LastUpdate_AppInfo": "2023-11-28T21:56:52.1521614+00:00",
-  "LastUpdate_Ratings": "2023-12-04T03:58:26.7675346+00:00",
-  "LastUpdate_Achievements": "2023-12-04T04:09:12.1681049+00:00"
+  "LastUpdate_Ratings": "2023-12-04T04:59:21.4741908+00:00",
+  "LastUpdate_Achievements": "2023-12-04T05:09:45.3065831+00:00"
 }

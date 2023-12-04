@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
@@ -826,9 +826,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 9813,
+  "EOS_Progressed": 9814,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12286,6 +12286,11 @@
       "Time": "2023-12-04T03:04:09.149829+00:00",
       "NumProgressed": 9813,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-04T05:04:10.5238164+00:00",
+      "NumProgressed": 9814,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 50,
@@ -12297,7 +12302,7 @@
       "Name": "Adventure Time",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 7458
+      "UsersEstimate": 7459
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -12321,7 +12326,7 @@
       "Name": "Clips and Crits",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "ACH_COUP_DETAT",
@@ -12329,7 +12334,7 @@
       "Name": "Coup d\u0027Etat",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5495
+      "UsersEstimate": 5496
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -12361,7 +12366,7 @@
       "Name": "Get Furious",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 5299
+      "UsersEstimate": 5300
     },
     {
       "ID": "ACH_GET_IN_THE_RING",
@@ -12441,7 +12446,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 8537
+      "UsersEstimate": 8538
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -12449,7 +12454,7 @@
       "Name": "Light My Fire",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "ACH_MASTER_OF_ARMS",
@@ -12465,7 +12470,7 @@
       "Name": "Meching Enemies",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 4612
+      "UsersEstimate": 4613
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -12497,7 +12502,7 @@
       "Name": "Photogenic",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 8243
+      "UsersEstimate": 8244
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -12505,7 +12510,7 @@
       "Name": "Playing With Power",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 7163
+      "UsersEstimate": 7164
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -12513,7 +12518,7 @@
       "Name": "Plug It In",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 7850
+      "UsersEstimate": 7851
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -12553,7 +12558,7 @@
       "Name": "Seasoned Adventurer",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "ACH_SHIELD_AND_SHRED",
@@ -12689,22 +12694,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 5397
+      "UsersEstimate": 5398
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 9813,
+      "Progressed": 9814,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-11-27T06:59:40.9227353+00:00",
-  "LastChanged_Achievements": "2023-12-04T04:03:39.547952+00:00",
+  "LastChanged_Achievements": "2023-12-04T05:04:10.5238155+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:46.9519567+00:00",
-  "LastUpdate_Ratings": "2023-12-04T03:58:55.7836972+00:00",
-  "LastUpdate_Achievements": "2023-12-04T04:03:39.5480209+00:00"
+  "LastUpdate_Ratings": "2023-12-04T05:00:04.8675978+00:00",
+  "LastUpdate_Achievements": "2023-12-04T05:04:10.5238874+00:00"
 }

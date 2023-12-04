@@ -3,9 +3,9 @@
   "Name": "Lost Abroad Cafe - A Language Learning Management",
   "ProductSlug": "lost-abroad-cafe-a-language-learning-management-sim-bfc28c",
   "Ranking_EOS_Progress": 300,
-  "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_Completed": 149,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-05-26T17:00:00+00:00",
     "PcReleaseDate": "2022-12-31T01:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 594,
-  "EOS_Completed": 7,
+  "EOS_Completed": 8,
   "EOS_NewPlayers": 12,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.18,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 1.35,
   "EosHistory": [
     {
       "Time": "2023-05-22T02:10:23.0997287+00:00",
@@ -2734,6 +2734,11 @@
       "Time": "2023-12-04T01:51:57.0986697+00:00",
       "NumProgressed": 594,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-04T05:04:09.2570096+00:00",
+      "NumProgressed": 594,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 8,
@@ -2809,13 +2814,13 @@
       "ID": "56hff7o",
       "IsBase": true,
       "Progressed": 594,
-      "Completed": 7
+      "Completed": 8
     }
   ],
   "FirstSeen": "2023-06-23T10:58:45.2753016+00:00",
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2023-12-04T04:03:38.7090859+00:00",
+  "LastChanged_Achievements": "2023-12-04T05:04:09.2570091+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:02.3973425+00:00",
-  "LastUpdate_Ratings": "2023-12-04T03:59:21.8165241+00:00",
-  "LastUpdate_Achievements": "2023-12-04T04:03:38.7091138+00:00"
+  "LastUpdate_Ratings": "2023-12-04T05:00:44.8116919+00:00",
+  "LastUpdate_Achievements": "2023-12-04T05:04:09.2570312+00:00"
 }

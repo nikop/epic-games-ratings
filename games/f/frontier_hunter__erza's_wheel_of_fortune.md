@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Travel Streamer | 92.00% | ~489 |
-| Training Simulation | 77.00% | ~410 |
+| Training Simulation | 78.00% | ~415 |
 | Kuku Bird Hunter | 62.00% | ~330 |
 | Storm Traveller | 57.00% | ~303 |
 | Wolf King Killer | 52.00% | ~277 |
@@ -24,10 +24,10 @@
 | Weapon Boost | 20.00% | ~106 |
 | Flying Kobold Killer | 17.00% | ~90 |
 | Youth Magnet | 17.00% | ~90 |
+| Master Artificer | 16.00% | ~85 |
 | Furious Scorpion Killer | 15.00% | ~80 |
 | Lethal Blade Mantis Killer | 15.00% | ~80 |
 | Squeaky Clean | 15.00% | ~80 |
-| Master Artificer | 15.00% | ~80 |
 | Kind Adventurer | 13.00% | ~69 |
 | Mermaid Killer | 13.00% | ~69 |
 | Cave Master | 12.00% | ~64 |

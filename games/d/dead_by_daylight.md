@@ -6,28 +6,28 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 1.00% | ~10,680 |
-| Skillful | 1.00% | ~10,680 |
-| Zealous | 0.90% | ~9,612 |
-| Not half bad | 0.90% | ~9,612 |
-| Make Some Noise | 0.80% | ~8,544 |
-| Handyman | 0.70% | ~7,476 |
-| Apt Survivor | 0.70% | ~7,476 |
-| Survival Treasures | 0.70% | ~7,476 |
-| I | 0.70% | ~7,476 |
-| No one left behind | 0.60% | ~6,408 |
-| Medic | 0.60% | ~6,408 |
-| Sorted | 0.60% | ~6,408 |
-| Healthy Obsession | 0.60% | ~6,408 |
-| Resurgence | 0.60% | ~6,408 |
-| Preemptive Strike | 0.60% | ~6,408 |
-| The Grand Sacrifice | 0.50% | ~5,340 |
-| Backdoor Escape | 0.50% | ~5,340 |
-| Perfect Escape | 0.50% | ~5,340 |
-| Bloody Millionaire | 0.50% | ~5,340 |
-| II | 0.50% | ~5,340 |
-| Close Shave | 0.50% | ~5,340 |
-| Humanitarian | 0.50% | ~5,340 |
+| It wakes | 1.00% | ~10,681 |
+| Skillful | 1.00% | ~10,681 |
+| Zealous | 0.90% | ~9,613 |
+| Not half bad | 0.90% | ~9,613 |
+| Make Some Noise | 0.80% | ~8,545 |
+| Handyman | 0.70% | ~7,477 |
+| Apt Survivor | 0.70% | ~7,477 |
+| Survival Treasures | 0.70% | ~7,477 |
+| I | 0.70% | ~7,477 |
+| No one left behind | 0.60% | ~6,409 |
+| Medic | 0.60% | ~6,409 |
+| Sorted | 0.60% | ~6,409 |
+| Healthy Obsession | 0.60% | ~6,409 |
+| Resurgence | 0.60% | ~6,409 |
+| Preemptive Strike | 0.60% | ~6,409 |
+| The Grand Sacrifice | 0.50% | ~5,341 |
+| Backdoor Escape | 0.50% | ~5,341 |
+| Perfect Escape | 0.50% | ~5,341 |
+| Bloody Millionaire | 0.50% | ~5,341 |
+| II | 0.50% | ~5,341 |
+| Close Shave | 0.50% | ~5,341 |
+| Humanitarian | 0.50% | ~5,341 |
 | Agonizing Escape | 0.40% | ~4,272 |
 | I've got your back | 0.40% | ~4,272 |
 | Perfect Killing | 0.40% | ~4,272 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,068 |
 | Adept Good Guy | 0.10% | ~1,068 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,068,008 (Ranked 14)  
+Progressed: 1,068,102 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -467,7 +467,7 @@ Completed: 61 (0.01%) (Ranked 345)
 | 2023-12-01 | 1,059,298 | 61 |
 | 2023-12-02 | 1,062,340 | 61 |
 | 2023-12-03 | 1,067,390 | 61 |
-| 2023-12-04 | 1,068,008 | 61 |
+| 2023-12-04 | 1,068,102 | 61 |
 ## Awards
 Max (Diverse Characters): 37,218  (Ranked 15)  
 Sum: 282,686 (Ranked 12)  

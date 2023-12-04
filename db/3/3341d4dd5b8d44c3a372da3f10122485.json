@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 7,
   "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -1010,17 +1010,17 @@
       "ID": "Kanalizace",
       "SetID": "823jm6g",
       "Name": "Sewers",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 75,
-      "UsersEstimate": 116
+      "UsersEstimate": 118
     },
     {
       "ID": "Kompotarna",
       "SetID": "823jm6g",
       "Name": "Pantry",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 80,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "Konec",
@@ -1066,25 +1066,25 @@
       "ID": "Poklop",
       "SetID": "823jm6g",
       "Name": "Hatch",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 75,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "Snekoun",
       "SetID": "823jm6g",
       "Name": "Snailman",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 80,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "Sopouch",
       "SetID": "823jm6g",
       "Name": "Pit",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 75,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "Tuleni",
@@ -1105,8 +1105,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-12-04T04:04:41.1962075+00:00",
+  "LastChanged_Achievements": "2023-12-04T05:05:33.4270709+00:00",
   "LastUpdate_AppInfo": "2023-12-02T03:57:03.1618999+00:00",
-  "LastUpdate_Ratings": "2023-12-04T03:59:02.4173259+00:00",
-  "LastUpdate_Achievements": "2023-12-04T04:04:41.1962232+00:00"
+  "LastUpdate_Ratings": "2023-12-04T05:00:15.3674337+00:00",
+  "LastUpdate_Achievements": "2023-12-04T05:05:33.4271169+00:00"
 }

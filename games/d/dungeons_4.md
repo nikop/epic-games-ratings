@@ -53,7 +53,7 @@
 | The Rune Sockets of Finitude (Part 2) | 15.00% | ~78 |
 | Lavalumps on Ice! | 14.00% | ~73 |
 | Rubble and Ashes | 14.00% | ~73 |
-| The Last Stand - This Time For Real! | 13.00% | ~68 |
+| The Last Stand - This Time For Real! | 14.00% | ~73 |
 | To the Max! | 12.00% | ~63 |
 | To Infinity And Beyond! | 12.00% | ~63 |
 | Mirror, Mirror | 11.00% | ~57 |

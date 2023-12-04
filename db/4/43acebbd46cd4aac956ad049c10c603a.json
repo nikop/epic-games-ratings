@@ -181,9 +181,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 865,
+  "EOS_Progressed": 866,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2016,6 +2016,11 @@
       "Time": "2023-12-03T23:04:46.3346545+00:00",
       "NumProgressed": 865,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-04T05:05:43.9306815+00:00",
+      "NumProgressed": 866,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2252,7 +2257,7 @@
       "Name": "Museum Visitor",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "NewBeginning",
@@ -2499,7 +2504,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 865,
+      "Progressed": 866,
       "Completed": 1
     }
   ],
@@ -2507,8 +2512,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-03T13:00:54.7758323+00:00",
-  "LastChanged_Achievements": "2023-12-04T04:04:48.7794879+00:00",
+  "LastChanged_Achievements": "2023-12-04T05:05:43.9306811+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-04T03:57:45.7681196+00:00",
-  "LastUpdate_Achievements": "2023-12-04T04:04:48.7795379+00:00"
+  "LastUpdate_Ratings": "2023-12-04T04:58:19.109936+00:00",
+  "LastUpdate_Achievements": "2023-12-04T05:05:43.9307313+00:00"
 }

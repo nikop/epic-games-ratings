@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 412,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1314,9 +1314,9 @@
       "ID": "TOTAL_DESTROYED_OBJECT",
       "SetID": "apihg0e",
       "Name": "Swath of Destruction",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 124
     }
   ],
   "AchievementSets": [
@@ -1329,8 +1329,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-04T04:08:44.0285889+00:00",
+  "LastChanged_Achievements": "2023-12-04T05:09:06.8989739+00:00",
   "LastUpdate_AppInfo": "2023-11-28T17:56:55.9843317+00:00",
-  "LastUpdate_Ratings": "2023-12-04T04:02:56.4499094+00:00",
-  "LastUpdate_Achievements": "2023-12-04T04:08:44.028615+00:00"
+  "LastUpdate_Ratings": "2023-12-04T05:03:08.1353602+00:00",
+  "LastUpdate_Achievements": "2023-12-04T05:09:06.8989986+00:00"
 }

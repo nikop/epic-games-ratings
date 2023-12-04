@@ -5,9 +5,9 @@
   "Ranking_Rating": 775,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
-  "Ranking_EOS_Progress": 293,
+  "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 655,
+  "EOS_Progressed": 656,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2240,6 +2240,11 @@
       "Time": "2023-12-03T23:09:11.925838+00:00",
       "NumProgressed": 655,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-04T05:10:07.5123104+00:00",
+      "NumProgressed": 656,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2355,7 +2360,7 @@
       "Name": "Explorer",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "ACH_COLL_20",
@@ -2475,7 +2480,7 @@
       "Name": "Cowardice",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -2617,9 +2622,9 @@
       "ID": "ACH_KILL_BRAWL",
       "SetID": "1j25agn",
       "Name": "Here Comes the Boom",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 282
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -2657,9 +2662,9 @@
       "ID": "ACH_KILL_OFFICER",
       "SetID": "1j25agn",
       "Name": "Eat Lead!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 295
+      "UsersEstimate": 302
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -2722,15 +2727,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 655,
+      "Progressed": 656,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-28T01:45:15.549368+00:00",
-  "LastChanged_Achievements": "2023-12-04T04:09:28.223286+00:00",
+  "LastChanged_Achievements": "2023-12-04T05:10:07.5123099+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:23.9712972+00:00",
-  "LastUpdate_Ratings": "2023-12-04T04:02:31.7863447+00:00",
-  "LastUpdate_Achievements": "2023-12-04T04:09:28.223332+00:00"
+  "LastUpdate_Ratings": "2023-12-04T05:01:42.3090699+00:00",
+  "LastUpdate_Achievements": "2023-12-04T05:10:07.5123626+00:00"
 }

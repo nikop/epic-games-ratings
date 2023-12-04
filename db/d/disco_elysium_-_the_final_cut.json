@@ -3,7 +3,7 @@
   "Name": "Disco Elysium - The Final Cut",
   "ProductSlug": "disco-elysium",
   "Ranking_Rating": 24,
-  "Ranking_Popularity": 181,
+  "Ranking_Popularity": 182,
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 336,
@@ -1514,7 +1514,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131594,
+  "EOS_Progressed": 131595,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 0,
@@ -23759,6 +23759,11 @@
       "Time": "2023-12-04T04:05:21.9387791+00:00",
       "NumProgressed": 131594,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-04T05:06:29.4258616+00:00",
+      "NumProgressed": 131595,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -23818,7 +23823,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11843
+      "UsersEstimate": 11844
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -23834,7 +23839,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11843
+      "UsersEstimate": 11844
     },
     {
       "ID": "ACH_COP_DORK",
@@ -23850,7 +23855,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36846
+      "UsersEstimate": 36847
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -23930,7 +23935,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 13159
+      "UsersEstimate": 13160
     },
     {
       "ID": "ACH_GLUTEN",
@@ -24089,15 +24094,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131594,
+      "Progressed": 131595,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-28T12:00:15.5937153+00:00",
-  "LastChanged_Achievements": "2023-12-04T04:05:21.9387787+00:00",
+  "LastChanged_Achievements": "2023-12-04T05:06:29.4258611+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:21.910323+00:00",
-  "LastUpdate_Ratings": "2023-12-04T03:58:13.86908+00:00",
-  "LastUpdate_Achievements": "2023-12-04T04:05:21.9389121+00:00"
+  "LastUpdate_Ratings": "2023-12-04T04:59:01.7734272+00:00",
+  "LastUpdate_Achievements": "2023-12-04T05:06:29.425978+00:00"
 }

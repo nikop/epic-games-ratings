@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4467,
+  "EOS_Progressed": 4468,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -8105,6 +8105,11 @@
       "Time": "2023-12-04T04:03:49.2523263+00:00",
       "NumProgressed": 4467,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-04T05:04:23.80476+00:00",
+      "NumProgressed": 4468,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8356,7 +8361,7 @@
       "Name": "Perfect Parry",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "Ach032",
@@ -8484,7 +8489,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "Ach048",
@@ -8683,13 +8688,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4467,
+      "Progressed": 4468,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2988,
+      "Progressed": 2989,
       "Completed": 1930
     }
   ],
@@ -8697,8 +8702,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-04T04:03:49.252326+00:00",
+  "LastChanged_Achievements": "2023-12-04T05:04:23.8047595+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:21.1661658+00:00",
-  "LastUpdate_Ratings": "2023-12-04T03:59:49.6845453+00:00",
-  "LastUpdate_Achievements": "2023-12-04T04:03:49.2524138+00:00"
+  "LastUpdate_Ratings": "2023-12-04T05:01:26.2380898+00:00",
+  "LastUpdate_Achievements": "2023-12-04T05:04:23.8048555+00:00"
 }

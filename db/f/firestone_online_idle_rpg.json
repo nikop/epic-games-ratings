@@ -2,7 +2,7 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 990,
+  "Ranking_Rating": 991,
   "Ranking_Popularity": 475,
   "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 212,
@@ -571,9 +571,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3019,
+  "EOS_Progressed": 3020,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 278,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8796,6 +8796,11 @@
       "Time": "2023-12-04T04:09:08.3983969+00:00",
       "NumProgressed": 3019,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-04T05:09:40.0578708+00:00",
+      "NumProgressed": 3020,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -8919,7 +8924,7 @@
       "Name": "Dragon Master",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "dragonslayer",
@@ -9103,7 +9108,7 @@
       "Name": "Lieutenant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "lockandload",
@@ -9199,7 +9204,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "prestigiousx10",
@@ -9367,7 +9372,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2808
+      "UsersEstimate": 2809
     },
     {
       "ID": "warmachinesarmy",
@@ -9399,14 +9404,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2355
+      "UsersEstimate": 2356
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3019,
+      "Progressed": 3020,
       "Completed": 2
     }
   ],
@@ -9414,8 +9419,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-03T22:59:51.5029341+00:00",
-  "LastChanged_Achievements": "2023-12-04T04:09:08.3983967+00:00",
+  "LastChanged_Achievements": "2023-12-04T05:09:40.0578702+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:05.1164011+00:00",
-  "LastUpdate_Ratings": "2023-12-04T03:59:27.1830973+00:00",
-  "LastUpdate_Achievements": "2023-12-04T04:09:08.398494+00:00"
+  "LastUpdate_Ratings": "2023-12-04T05:00:52.5512949+00:00",
+  "LastUpdate_Achievements": "2023-12-04T05:09:40.0579548+00:00"
 }

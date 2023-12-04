@@ -6,11 +6,12 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Hunt | 0.30% | ~483 |
-| Taste | 0.30% | ~483 |
-| Imprint | 0.30% | ~483 |
-| Ravenous | 0.30% | ~483 |
+| The Hunt | 0.30% | ~484 |
+| Taste | 0.30% | ~484 |
+| Imprint | 0.30% | ~484 |
+| Ravenous | 0.30% | ~484 |
 | Weeper | 0.20% | ~322 |
+| Devourer | 0.20% | ~322 |
 | Spiral Heart | 0.10% | ~161 |
 | Bloodhunter | 0.10% | ~161 |
 | Skinmaker | 0.10% | ~161 |
@@ -33,7 +34,6 @@ Number of Ratings: 46  (23.09.2022)
 | Feast | 0.10% | ~161 |
 | Watcher | 0.10% | ~161 |
 | Silenced Whispers | 0.10% | ~161 |
-| Devourer | 0.10% | ~161 |
 | All-Seeing | 0.10% | ~161 |
 | Predator | 0.10% | ~161 |
 | Kinship | 0.10% | ~161 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~161 |
 | Intensify | 0.10% | ~161 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 161,164 (Ranked 78)  
+Progressed: 161,169 (Ranked 78)  
 Completed: 177 (0.11%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 177 (0.11%) (Ranked 283)
 | 2023-12-01 | 160,762 | 100 |
 | 2023-12-02 | 160,919 | 135 |
 | 2023-12-03 | 161,134 | 172 |
-| 2023-12-04 | 161,164 | 177 |
+| 2023-12-04 | 161,169 | 177 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 424)  
 Sum: 392 (Ranked 345)  

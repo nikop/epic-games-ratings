@@ -1,12 +1,12 @@
 # Pinball FX
 [Store](https://store.epicgames.com/en-US/p/pinball-fx)  
 [View Rawdata](../../db/p/pinball_fx.json)  
-Rating: 4.06 (Ranked 986)  
+Rating: 4.06 (Ranked 987)  
 Number of Ratings: 756  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 82.00% | ~231,386 |
+| Ball Launched | 82.00% | ~231,387 |
 | I know the Rules | 34.00% | ~95,941 |
 | I Found it! | 11.00% | ~31,040 |
 | Contender | 10.00% | ~28,218 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 282,178 (Ranked 56)  
+Progressed: 282,179 (Ranked 56)  
 Completed: 0 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,16 +265,16 @@ Completed: 0 (0.00%) (Ranked 366)
 | 2023-12-01 | 281,867 | 0 |
 | 2023-12-02 | 281,976 | 0 |
 | 2023-12-03 | 282,158 | 0 |
-| 2023-12-04 | 282,178 | 0 |
+| 2023-12-04 | 282,179 | 0 |
 ## Awards
 Max (Great for Beginners): 203  (Ranked 289)  
-Sum: 1,605 (Ranked 231)  
+Sum: 1,606 (Ranked 231)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 203 |
 | This game is Great for Quick Sessions | 191 |
-| This game has Quickly Understood Controls | 167 |
+| This game has Quickly Understood Controls | 168 |
 | This game is Relaxing | 164 |
 | This game is Extremely Fun | 159 |
 | This game is Highly Recommended | 157 |
@@ -480,3 +480,4 @@ Diff (max vs sum): 58
 | 2023-11-25 | 4.06 | - | 203 | 1,602 |
 | 2023-11-29 | 4.06 | - | 203 | 1,604 |
 | 2023-11-30 | 4.06 | - | 203 | 1,605 |
+| 2023-12-04 | 4.06 | - | 203 | 1,606 |

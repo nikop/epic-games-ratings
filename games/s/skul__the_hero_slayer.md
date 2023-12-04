@@ -6,8 +6,8 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,798 |
-| What should I buy? | 84.00% | ~7,043 |
+| The Legend Begins | 93.00% | ~7,799 |
+| What should I buy? | 84.00% | ~7,044 |
 | Focus! | 63.00% | ~5,283 |
 | Rescued Elder Ent | 63.00% | ~5,283 |
 | The End of the Gold Mane Knights | 49.00% | ~4,109 |
@@ -15,23 +15,23 @@ Number of Ratings: 546  (23.09.2022)
 | False Goddess, Disappear | 41.00% | ~3,438 |
 | Quick Movements | 35.00% | ~2,935 |
 | Inventory Management | 35.00% | ~2,935 |
-| The Fall of the Leonia Order | 32.00% | ~2,683 |
+| The Fall of the Leonia Order | 32.00% | ~2,684 |
 | The Hero Killer | 30.00% | ~2,516 |
 | Go Home... | 29.00% | ~2,432 |
 | The Final Battle of the First Hero | 28.00% | ~2,348 |
-| Brain at Full Throttle | 24.00% | ~2,012 |
+| Brain at Full Throttle | 24.00% | ~2,013 |
 | Rookies Welcome | 20.00% | ~1,677 |
-| Deadly Power | 17.00% | ~1,425 |
+| Deadly Power | 17.00% | ~1,426 |
 | Castle Restoration Plans | 15.00% | ~1,258 |
 | The Dwarven Chandelier | 13.00% | ~1,090 |
-| Master of Speed | 10.00% | ~838 |
+| Master of Speed | 10.00% | ~839 |
 | The Levitator | 7.00% | ~587 |
 | The God of Battle | 3.00% | ~252 |
 | Too Much of a Talker | 2.00% | ~168 |
 | The Skeleton King | 2.00% | ~168 |
 | Cold-Blooded | 0.80% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,385 (Ranked 174)  
+Progressed: 8,386 (Ranked 174)  
 Completed: 16 (0.19%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 16 (0.19%) (Ranked 262)
 | 2023-12-01 | 8,370 | 16 |
 | 2023-12-02 | 8,375 | 16 |
 | 2023-12-03 | 8,382 | 16 |
-| 2023-12-04 | 8,385 | 16 |
+| 2023-12-04 | 8,386 | 16 |
 ## Awards
 Max (Great for Beginners): 135  (Ranked 328)  
 Sum: 941 (Ranked 271)  

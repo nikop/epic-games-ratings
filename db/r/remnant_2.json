@@ -5047,10 +5047,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6412,
       "NumberOfAwardsMax": 2603
+    },
+    {
+      "Time": "2023-12-04T05:03:27.6897725+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6419,
+      "NumberOfAwardsMax": 2603
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6412,
+  "NumberOfAwards": 6419,
   "NumberOfAwardsMax": 2603,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5082,7 +5088,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 421
+      "Count": 428
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5121,9 +5127,9 @@
       "Count": 396
     }
   ],
-  "EOS_Progressed": 234350,
+  "EOS_Progressed": 234366,
   "EOS_Completed": 554,
-  "EOS_NewPlayers": 5229,
+  "EOS_NewPlayers": 5230,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -21256,6 +21262,11 @@
       "Time": "2023-12-04T04:08:50.9087721+00:00",
       "NumProgressed": 234350,
       "NumCompleted": 554
+    },
+    {
+      "Time": "2023-12-04T05:09:16.2011487+00:00",
+      "NumProgressed": 234366,
+      "NumCompleted": 554
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21298,9 +21309,9 @@
       "ID": "Defeat_Boss_No_Damage",
       "SetID": "bkp3b1a",
       "Name": "Only Human",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 469
     },
     {
       "ID": "Defeat_Corrupted_Ravager",
@@ -21452,7 +21463,7 @@
       "Name": "First of Many",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -21707,22 +21718,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 234350,
+      "Progressed": 234366,
       "Completed": 554
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 13515,
-      "Completed": 189
+      "Progressed": 13531,
+      "Completed": 190
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-12-04T01:51:27.3001098+00:00",
-  "LastChanged_Achievements": "2023-12-04T04:08:50.9087717+00:00",
+  "LastChanged": "2023-12-04T05:03:27.6897723+00:00",
+  "LastChanged_Achievements": "2023-12-04T05:09:16.2011483+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-04T04:03:09.9383526+00:00",
-  "LastUpdate_Achievements": "2023-12-04T04:08:50.9088839+00:00"
+  "LastUpdate_Ratings": "2023-12-04T05:03:27.6897738+00:00",
+  "LastUpdate_Achievements": "2023-12-04T05:09:16.2012468+00:00"
 }
