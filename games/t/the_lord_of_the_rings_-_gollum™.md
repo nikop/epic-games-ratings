@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Wraith | 63.00% | ~387 |
-| Welcome to Mordor! | 54.00% | ~332 |
+| The Wraith | 63.00% | ~388 |
+| Welcome to Mordor! | 54.00% | ~333 |
 | Collectibles Part 1 | 51.00% | ~314 |
 | Wait! Wait! Not yet! | 39.00% | ~240 |
 | Like Flying... | 33.00% | ~203 |
@@ -32,16 +32,16 @@
 | Ss ss ss... | 2.00% | ~12 |
 | Collectibles Part 2 | 1.00% | ~6 |
 | Nervous Hands | 0.80% | ~5 |
-| Elf-Friend | 0.70% | ~4 |
-| We wants it! We needs it | 0.70% | ~4 |
-| Scout | 0.70% | ~4 |
+| Elf-Friend | 0.60% | ~4 |
+| We wants it! We needs it | 0.60% | ~4 |
+| Scout | 0.60% | ~4 |
 | We Hates Them! | 0.50% | ~3 |
 | Good Sméagol! | 0.50% | ~3 |
 | Rule them all! | 0.20% | ~1 |
 | How Did You Do That? | 0.20% | ~1 |
 | River Hobbit | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 615 (Ranked 299)  
+Progressed: 616 (Ranked 299)  
 Completed: 1 (0.16%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,4 +161,4 @@ Completed: 1 (0.16%) (Ranked 269)
 | 2023-11-29 | 611 | 1 |
 | 2023-12-02 | 613 | 1 |
 | 2023-12-03 | 614 | 1 |
-| 2023-12-04 | 615 | 1 |
+| 2023-12-04 | 616 | 1 |

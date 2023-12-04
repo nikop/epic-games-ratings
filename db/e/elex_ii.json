@@ -574,10 +574,19 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "a1angca",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
+  "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-11-15T13:09:21.2815291+00:00",
+  "LastChanged_Achievements": "2023-12-04T12:03:29.3515475+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:01.1776334+00:00",
-  "LastUpdate_Ratings": "2023-12-04T10:59:33.6214571+00:00",
-  "LastUpdate_Achievements": "2023-12-04T11:03:34.4117437+00:00"
+  "LastUpdate_Ratings": "2023-12-04T11:59:28.981053+00:00",
+  "LastUpdate_Achievements": "2023-12-04T12:03:29.3515515+00:00"
 }

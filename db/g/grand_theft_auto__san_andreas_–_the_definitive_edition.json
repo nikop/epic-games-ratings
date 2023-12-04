@@ -3,11 +3,11 @@
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 509,
-  "Ranking_Popularity": 229,
+  "Ranking_Popularity": 228,
   "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -1577,18 +1577,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 689,
       "NumberOfAwardsMax": 416
+    },
+    {
+      "Time": "2023-12-04T11:57:11.9684548+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 692,
+      "NumberOfAwardsMax": 419
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 689,
-  "NumberOfAwardsMax": 416,
+  "NumberOfAwards": 692,
+  "NumberOfAwardsMax": 419,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 416
+      "Count": 419
     },
     {
       "Text": "This game is Relaxing",
@@ -1647,7 +1653,7 @@
   ],
   "EOS_Progressed": 13845,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -15672,9 +15678,9 @@
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-12-04T04:57:16.5819395+00:00",
-  "LastChanged_Achievements": "2023-12-04T11:09:16.6035829+00:00",
+  "LastChanged": "2023-12-04T11:57:11.9684546+00:00",
+  "LastChanged_Achievements": "2023-12-04T12:08:58.2602338+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:45.2117848+00:00",
-  "LastUpdate_Ratings": "2023-12-04T10:57:15.3639811+00:00",
-  "LastUpdate_Achievements": "2023-12-04T11:09:16.6036684+00:00"
+  "LastUpdate_Ratings": "2023-12-04T11:57:11.9684551+00:00",
+  "LastUpdate_Achievements": "2023-12-04T12:08:58.2603325+00:00"
 }

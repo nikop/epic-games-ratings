@@ -47,7 +47,7 @@ Rating: 4.62 (Ranked 368)
 | Corin Goes Home | 8.00% | ~76 |
 | Sartorialist | 8.00% | ~76 |
 | Golem Hunter | 7.00% | ~66 |
-| Clovemary for Remembering | 5.00% | ~47 |
+| Clovemary for Remembering | 6.00% | ~57 |
 | Hexlock for Protection | 5.00% | ~47 |
 | Rungs Was Right | 5.00% | ~47 |
 | Wunderkind | 3.00% | ~28 |

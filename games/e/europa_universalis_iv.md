@@ -219,6 +219,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Sweet Harmony | 0.10% | ~469 |
 | Sweet Home Qaraqorum | 0.10% | ~469 |
 | Switzerlake | 0.10% | ~469 |
+| Take that, von Habsburgs! | 0.10% | ~469 |
 | Tear Down This Wall | 0.10% | ~469 |
 | That's a Silk Road | 0.10% | ~469 |
 | The Bohemians | 0.10% | ~469 |
@@ -344,7 +345,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Stiff Upper Lippe | 0.00% | ~0 |
 | The Sun Never Sets on the Indian Empire | 0.00% | ~0 |
 | Sworn Fealty | 0.00% | ~0 |
-| Take that, von Habsburgs! | 0.00% | ~0 |
 | Tatarstan | 0.00% | ~0 |
 | Terra Mariana | 0.00% | ~0 |
 | That's No Mon | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 468,976 (Ranked 41)  
+Progressed: 469,002 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -598,10 +598,10 @@ Completed: 1 (0.00%) (Ranked 366)
 | 2023-12-01 | 467,159 | 1 |
 | 2023-12-02 | 467,938 | 1 |
 | 2023-12-03 | 468,823 | 1 |
-| 2023-12-04 | 468,976 | 1 |
+| 2023-12-04 | 469,002 | 1 |
 ## Awards
 Max (Educational): 7,242  (Ranked 54)  
-Sum: 59,725 (Ranked 24)  
+Sum: 59,734 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -610,7 +610,7 @@ Diff (max vs sum): 30
 | This game is Highly Recommended | 6,954 |
 | This game has Challenging Combat | 6,876 |
 | This game is Extremely Fun | 6,826 |
-| This game is Relaxing | 6,666 |
+| This game is Relaxing | 6,675 |
 | This game has Competitive Players | 6,508 |
 | This game has Amazing Storytelling | 6,039 |
 | This game has Amazing Characters | 5,592 |
@@ -939,4 +939,4 @@ Diff (max vs sum): 30
 | 2023-12-01 | 4.69 | - | 7,225 | 59,450 |
 | 2023-12-02 | 4.69 | - | 7,225 | 59,576 |
 | 2023-12-03 | 4.69 | - | 7,242 | 59,712 |
-| 2023-12-04 | 4.69 | - | 7,242 | 59,725 |
+| 2023-12-04 | 4.69 | - | 7,242 | 59,734 |

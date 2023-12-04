@@ -749,7 +749,7 @@
   ],
   "EOS_Progressed": 2250,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -4134,17 +4134,17 @@
       "ID": "TLOTF_ACHIEVEMENT_015",
       "SetID": "87e61g",
       "Name": "Honed to Perfection",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_016",
       "SetID": "87e61g",
       "Name": "Rune Novice",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_017",
@@ -4182,9 +4182,9 @@
       "ID": "TLOTF_ACHIEVEMENT_021",
       "SetID": "87e61g",
       "Name": "Shared Triumph",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_022",
@@ -4366,9 +4366,9 @@
       "ID": "TLOTF_ACHIEVEMENT_044",
       "SetID": "87e61g",
       "Name": "Moving On",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_045",
@@ -4462,9 +4462,9 @@
       "ID": "TLOTF_ACHIEVEMENT_056",
       "SetID": "87e61g",
       "Name": "Essence of Death",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_057",
@@ -4535,8 +4535,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-12-03T16:57:18.1806072+00:00",
-  "LastChanged_Achievements": "2023-12-04T11:03:48.4406984+00:00",
+  "LastChanged_Achievements": "2023-12-04T12:03:42.9341763+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:59.1898679+00:00",
-  "LastUpdate_Ratings": "2023-12-04T10:57:33.4258376+00:00",
-  "LastUpdate_Achievements": "2023-12-04T11:03:48.4407514+00:00"
+  "LastUpdate_Ratings": "2023-12-04T11:57:29.6509676+00:00",
+  "LastUpdate_Achievements": "2023-12-04T12:03:42.9342544+00:00"
 }

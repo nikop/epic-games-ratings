@@ -8,18 +8,22 @@ Rating: 4.20 (Ranked 915)
 | Comrades | 0.60% | ~14 |
 | A Veil Lifted | 0.50% | ~11 |
 | Lost and Found | 0.50% | ~11 |
-| Shared Triumph | 0.40% | ~9 |
+| Shared Triumph | 0.50% | ~11 |
 | No Mercy | 0.40% | ~9 |
 | Shades of Violence | 0.40% | ~9 |
 | Thriving in Darkness | 0.40% | ~9 |
 | The Past Shapes the Present | 0.40% | ~9 |
 | A Rest Among the Dead | 0.30% | ~7 |
+| Honed to Perfection | 0.20% | ~4 |
+| Rune Novice | 0.20% | ~4 |
 | Vengeance for the Fallen | 0.20% | ~4 |
 | Rise and Fall | 0.20% | ~4 |
 | Together in Death | 0.20% | ~4 |
 | Burying the Past | 0.20% | ~4 |
 | Unwanted | 0.20% | ~4 |
 | Unbroken to the End | 0.20% | ~4 |
+| Moving On | 0.20% | ~4 |
+| Essence of Death | 0.20% | ~4 |
 | Seasoned | 0.20% | ~4 |
 | Wayfarer | 0.10% | ~2 |
 | Weapon Collector | 0.10% | ~2 |
@@ -33,8 +37,6 @@ Rating: 4.20 (Ranked 915)
 | Throwable Collector | 0.10% | ~2 |
 | Gesture Collector | 0.10% | ~2 |
 | Salvation in Blood | 0.10% | ~2 |
-| Honed to Perfection | 0.10% | ~2 |
-| Rune Novice | 0.10% | ~2 |
 | Rune Master | 0.10% | ~2 |
 | Carving Out Victory | 0.10% | ~2 |
 | Utmost Insight | 0.10% | ~2 |
@@ -52,7 +54,6 @@ Rating: 4.20 (Ranked 915)
 | The Price of Knowledge | 0.10% | ~2 |
 | Part of the Divine | 0.10% | ~2 |
 | Travels Resumed | 0.10% | ~2 |
-| Moving On | 0.10% | ~2 |
 | Hero Worship | 0.10% | ~2 |
 | Antanas' Legacy | 0.10% | ~2 |
 | Faithful | 0.10% | ~2 |
@@ -64,7 +65,6 @@ Rating: 4.20 (Ranked 915)
 | In Light we Walk | 0.10% | ~2 |
 | Back to the Void | 0.10% | ~2 |
 | A Shadow Dispelled | 0.10% | ~2 |
-| Essence of Death | 0.10% | ~2 |
 | Lord of the Fallen | 0.10% | ~2 |
 | Lingering Moments | 0.10% | ~2 |
 | A Trace of Venom | 0.10% | ~2 |

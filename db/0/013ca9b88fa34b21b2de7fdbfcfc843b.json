@@ -201,7 +201,7 @@
   "Tags": [],
   "EOS_Progressed": 8272,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8140,9 +8140,9 @@
       "ID": "DISCOVER_SCROLLS_1",
       "SetID": "9eia0f5",
       "Name": "Humble Collector",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3474
+      "UsersEstimate": 3557
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -8299,8 +8299,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-01T18:02:55.7305048+00:00",
-  "LastChanged_Achievements": "2023-12-04T11:09:37.0877058+00:00",
+  "LastChanged_Achievements": "2023-12-04T12:09:18.3331065+00:00",
   "LastUpdate_AppInfo": "2023-12-01T09:57:19.7790129+00:00",
-  "LastUpdate_Ratings": "2023-12-04T11:02:58.612364+00:00",
-  "LastUpdate_Achievements": "2023-12-04T11:09:37.0877558+00:00"
+  "LastUpdate_Ratings": "2023-12-04T12:02:52.5218384+00:00",
+  "LastUpdate_Achievements": "2023-12-04T12:09:18.3331715+00:00"
 }

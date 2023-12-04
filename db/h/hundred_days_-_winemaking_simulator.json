@@ -1075,9 +1075,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 14785,
+  "EOS_Progressed": 14790,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 864,
+  "EOS_NewPlayers": 861,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -12365,6 +12365,11 @@
       "Time": "2023-12-04T11:09:03.4162637+00:00",
       "NumProgressed": 14785,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-04T12:08:45.2627508+00:00",
+      "NumProgressed": 14790,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -12377,7 +12382,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1478
+      "UsersEstimate": 1479
     },
     {
       "ID": "a_10",
@@ -12425,7 +12430,7 @@
       "Name": "Bye Bye",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 6210
+      "UsersEstimate": 6212
     },
     {
       "ID": "a_19",
@@ -12441,7 +12446,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "a_20",
@@ -12465,7 +12470,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "a_23",
@@ -12481,7 +12486,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "a_26",
@@ -12585,7 +12590,7 @@
       "Name": "Treasure of Roero",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "a_6",
@@ -12624,7 +12629,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 14785,
+      "Progressed": 14790,
       "Completed": 12
     }
   ],
@@ -12632,8 +12637,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-27T12:03:17.4706024+00:00",
-  "LastChanged_Achievements": "2023-12-04T11:09:03.4162636+00:00",
+  "LastChanged_Achievements": "2023-12-04T12:08:45.2627505+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:18.6853909+00:00",
-  "LastUpdate_Ratings": "2023-12-04T11:02:56.389246+00:00",
-  "LastUpdate_Achievements": "2023-12-04T11:09:03.4163215+00:00"
+  "LastUpdate_Ratings": "2023-12-04T12:02:50.1731495+00:00",
+  "LastUpdate_Achievements": "2023-12-04T12:08:45.2628482+00:00"
 }

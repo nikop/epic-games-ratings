@@ -4,7 +4,7 @@
   "ProductSlug": "arons-adventure-1e76cd",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 133,
+  "EOS_Progressed": 134,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -519,6 +519,11 @@
       "Time": "2023-12-04T01:51:31.0951458+00:00",
       "NumProgressed": 133,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-04T12:03:13.6102393+00:00",
+      "NumProgressed": 134,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T20:03:47.3726007+00:00",
@@ -529,7 +534,7 @@
       "ID": "ADVENTURE",
       "SetID": "40o4f14",
       "Name": "Adventure awaits",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 100,
       "UsersEstimate": 110
     },
@@ -553,9 +558,9 @@
       "ID": "CRASHING",
       "SetID": "40o4f14",
       "Name": "Crashing the economy",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "CULT",
@@ -625,9 +630,9 @@
       "ID": "HERO",
       "SetID": "40o4f14",
       "Name": "Hero",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 200,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "KING",
@@ -649,9 +654,9 @@
       "ID": "LIBRARY",
       "SetID": "40o4f14",
       "Name": "The library",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "LOVERS",
@@ -681,7 +686,7 @@
       "ID": "MIRROR",
       "SetID": "40o4f14",
       "Name": "Mirror Mirror on the wall",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -697,7 +702,7 @@
       "ID": "MOUNTAINEER",
       "SetID": "40o4f14",
       "Name": "Mountaineer",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -713,9 +718,9 @@
       "ID": "RECOVERING",
       "SetID": "40o4f14",
       "Name": "Growing the economy",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "SAVIOR",
@@ -747,7 +752,7 @@
       "Name": "A restless soul",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "WASHING",
@@ -778,14 +783,14 @@
     {
       "ID": "40o4f14",
       "IsBase": true,
-      "Progressed": 133,
+      "Progressed": 134,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-12-04T11:03:18.7370677+00:00",
+  "LastChanged_Achievements": "2023-12-04T12:03:13.6102388+00:00",
   "LastUpdate_AppInfo": "2023-11-30T01:44:08.4871505+00:00",
   "LastUpdate_Ratings": "2023-12-04T11:02:43.1097712+00:00",
-  "LastUpdate_Achievements": "2023-12-04T11:03:18.7370911+00:00"
+  "LastUpdate_Achievements": "2023-12-04T12:03:13.6102646+00:00"
 }

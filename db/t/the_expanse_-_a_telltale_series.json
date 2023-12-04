@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -13162,9 +13162,9 @@
       "ID": "21",
       "SetID": "458bbdk",
       "Name": "Drone Dodger",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 953
+      "UsersEstimate": 1112
     },
     {
       "ID": "22",
@@ -13353,8 +13353,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-03T18:02:39.8331355+00:00",
-  "LastChanged_Achievements": "2023-12-04T11:05:09.7785025+00:00",
+  "LastChanged_Achievements": "2023-12-04T12:05:03.9850245+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-04T11:02:47.4905263+00:00",
-  "LastUpdate_Achievements": "2023-12-04T11:05:09.7785791+00:00"
+  "LastUpdate_Ratings": "2023-12-04T12:02:41.5440264+00:00",
+  "LastUpdate_Achievements": "2023-12-04T12:05:03.9851233+00:00"
 }

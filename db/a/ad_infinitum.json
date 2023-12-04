@@ -575,9 +575,9 @@
       "ID": "ACH_RAGE",
       "SetID": "88d7anj",
       "Name": "Rage",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_REFLECTIONS",
@@ -614,8 +614,8 @@
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2023-12-04T11:04:46.941505+00:00",
+  "LastChanged_Achievements": "2023-12-04T12:04:41.2306+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:57.548474+00:00",
-  "LastUpdate_Ratings": "2023-12-04T10:59:28.3655531+00:00",
-  "LastUpdate_Achievements": "2023-12-04T11:04:46.9415229+00:00"
+  "LastUpdate_Ratings": "2023-12-04T11:59:23.9820422+00:00",
+  "LastUpdate_Achievements": "2023-12-04T12:04:41.2306279+00:00"
 }

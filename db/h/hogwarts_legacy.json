@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 268,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11469,9 +11469,9 @@
       "Count": 832
     }
   ],
-  "EOS_Progressed": 303914,
+  "EOS_Progressed": 303915,
   "EOS_Completed": 521,
-  "EOS_NewPlayers": 552,
+  "EOS_NewPlayers": 549,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36014,6 +36014,11 @@
       "Time": "2023-12-04T11:09:37.955821+00:00",
       "NumProgressed": 303914,
       "NumCompleted": 521
+    },
+    {
+      "Time": "2023-12-04T12:09:19.2801307+00:00",
+      "NumProgressed": 303915,
+      "NumCompleted": 521
     }
   ],
   "TotalAchievements": 45,
@@ -36249,7 +36254,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30391
+      "UsersEstimate": 30392
     },
     {
       "ID": "PFA_36",
@@ -36377,14 +36382,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30391
+      "UsersEstimate": 30392
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303914,
+      "Progressed": 303915,
       "Completed": 521
     }
   ],
@@ -36392,8 +36397,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-04T04:59:52.4328104+00:00",
-  "LastChanged_Achievements": "2023-12-04T11:09:37.9558208+00:00",
+  "LastChanged_Achievements": "2023-12-04T12:09:19.2801303+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-04T10:59:00.5253695+00:00",
-  "LastUpdate_Achievements": "2023-12-04T11:09:37.9559799+00:00"
+  "LastUpdate_Ratings": "2023-12-04T11:58:55.8248291+00:00",
+  "LastUpdate_Achievements": "2023-12-04T12:09:19.2803311+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
   "Ranking_Rating": 449,
-  "Ranking_Popularity": 132,
+  "Ranking_Popularity": 133,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3538,9 +3538,9 @@
       "Count": 746
     }
   ],
-  "EOS_Progressed": 240604,
+  "EOS_Progressed": 240605,
   "EOS_Completed": 292,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -27073,6 +27073,11 @@
       "Time": "2023-12-04T10:09:05.6195344+00:00",
       "NumProgressed": 240604,
       "NumCompleted": 292
+    },
+    {
+      "Time": "2023-12-04T12:09:24.2637427+00:00",
+      "NumProgressed": 240605,
+      "NumCompleted": 292
     }
   ],
   "TotalAchievements": 138,
@@ -28187,22 +28192,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240604,
+      "Progressed": 240605,
       "Completed": 292
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2084,
-      "Completed": 393
+      "Progressed": 2085,
+      "Completed": 394
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-04T02:23:00.4450449+00:00",
-  "LastChanged_Achievements": "2023-12-04T11:09:43.0235874+00:00",
+  "LastChanged_Achievements": "2023-12-04T12:09:24.2637422+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:52.1458075+00:00",
-  "LastUpdate_Ratings": "2023-12-04T10:59:18.4548197+00:00",
-  "LastUpdate_Achievements": "2023-12-04T11:09:43.0238161+00:00"
+  "LastUpdate_Ratings": "2023-12-04T11:59:13.9713049+00:00",
+  "LastUpdate_Achievements": "2023-12-04T12:09:24.2639736+00:00"
 }

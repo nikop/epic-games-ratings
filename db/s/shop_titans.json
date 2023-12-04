@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7375,9 +7375,9 @@
       "Count": 3790
     }
   ],
-  "EOS_Progressed": 143764,
+  "EOS_Progressed": 143769,
   "EOS_Completed": 291,
-  "EOS_NewPlayers": 1345,
+  "EOS_NewPlayers": 1336,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -31020,6 +31020,11 @@
       "Time": "2023-12-04T11:06:04.1143082+00:00",
       "NumProgressed": 143764,
       "NumCompleted": 291
+    },
+    {
+      "Time": "2023-12-04T12:05:58.2939314+00:00",
+      "NumProgressed": 143769,
+      "NumCompleted": 291
     }
   ],
   "TotalAchievements": 112,
@@ -31199,7 +31204,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10063
+      "UsersEstimate": 10064
     },
     {
       "ID": "chest02",
@@ -31847,7 +31852,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10063
+      "UsersEstimate": 10064
     },
     {
       "ID": "twinenchant01",
@@ -31926,15 +31931,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 143764,
+      "Progressed": 143769,
       "Completed": 291
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-04T03:03:11.6213338+00:00",
-  "LastChanged_Achievements": "2023-12-04T11:06:04.1143078+00:00",
+  "LastChanged_Achievements": "2023-12-04T12:05:58.2939311+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:14.839929+00:00",
-  "LastUpdate_Ratings": "2023-12-04T11:02:55.9385064+00:00",
-  "LastUpdate_Achievements": "2023-12-04T11:06:04.1145145+00:00"
+  "LastUpdate_Ratings": "2023-12-04T12:02:49.7931551+00:00",
+  "LastUpdate_Achievements": "2023-12-04T12:05:58.2941912+00:00"
 }

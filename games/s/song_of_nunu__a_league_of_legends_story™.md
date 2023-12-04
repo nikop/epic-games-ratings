@@ -5,25 +5,25 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feels Familiar | 76.00% | ~819 |
-| I Broke It | 73.00% | ~786 |
-| Better On Ice | 68.00% | ~732 |
+| I Broke It | 73.00% | ~787 |
+| Better On Ice | 68.00% | ~733 |
 | Notai Notes | 67.00% | ~722 |
 | Blue Dreams | 66.00% | ~711 |
 | He's Famous! | 66.00% | ~711 |
 | Cutie Poro | 66.00% | ~711 |
-| Krugmazing | 64.00% | ~689 |
-| Moneyball | 60.00% | ~646 |
-| The Fire Below the Mountain | 60.00% | ~646 |
-| No Bites | 55.00% | ~592 |
-| Iceborn | 55.00% | ~592 |
+| Krugmazing | 64.00% | ~690 |
+| Moneyball | 60.00% | ~647 |
+| The Fire Below the Mountain | 60.00% | ~647 |
+| No Bites | 55.00% | ~593 |
+| Iceborn | 55.00% | ~593 |
 | Tear of Freedom | 53.00% | ~571 |
 | Boom Things | 53.00% | ~571 |
 | My Darkest Day | 49.00% | ~528 |
-| Rhythm Of Willump | 47.00% | ~506 |
-| The Relentless Storm | 47.00% | ~506 |
+| Rhythm Of Willump | 47.00% | ~507 |
+| The Relentless Storm | 47.00% | ~507 |
 | A Tragic Reminder | 45.00% | ~485 |
 | 3000 Year Blackout | 45.00% | ~485 |
-| The Finisher | 42.00% | ~452 |
+| The Finisher | 42.00% | ~453 |
 | So Close | 41.00% | ~442 |
 | You Get Used To It | 41.00% | ~442 |
 | True Legends | 40.00% | ~431 |
@@ -31,10 +31,10 @@
 | Biggest Snowball Ever | 39.00% | ~420 |
 | Boosted! | 39.00% | ~420 |
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~420 |
-| Freeze The Ice Witch | 38.00% | ~409 |
-| Bullseye | 37.00% | ~398 |
+| Freeze The Ice Witch | 38.00% | ~410 |
+| Bullseye | 37.00% | ~399 |
 | It Is Not Over | 35.00% | ~377 |
-| On The Rocks | 34.00% | ~366 |
+| On The Rocks | 34.00% | ~367 |
 | Snowy Poro | 31.00% | ~334 |
 | Never Gets Old | 31.00% | ~334 |
 | Vertical Power | 27.00% | ~291 |
@@ -49,7 +49,7 @@
 | We Are Speed | 2.00% | ~22 |
 | Sneaky Notai | 1.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,077 (Ranked 260)  
+Progressed: 1,078 (Ranked 260)  
 Completed: 8 (0.74%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,3 +94,4 @@ Completed: 8 (0.74%) (Ranked 185)
 | 2023-12-01 | 1,051 | 8 |
 | 2023-12-02 | 1,062 | 8 |
 | 2023-12-03 | 1,077 | 8 |
+| 2023-12-04 | 1,078 | 8 |

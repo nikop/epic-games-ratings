@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 93.00% | ~1,394 |
-| Spectre Inductee | 80.00% | ~1,199 |
-| Medal of Exploration I | 72.00% | ~1,079 |
-| Recruit | 68.00% | ~1,019 |
-| Search and Rescue | 68.00% | ~1,019 |
-| Quarian Ally | 64.00% | ~959 |
-| Medal of Heroism | 60.00% | ~899 |
-| Honorarium of Corporate Service | 60.00% | ~899 |
-| Medal of Exploration II | 54.00% | ~809 |
-| Council Legion of Merit | 54.00% | ~809 |
-| Turian Ally | 53.00% | ~794 |
-| Medal of Honor | 52.00% | ~779 |
-| Meritorious Service Medal | 52.00% | ~779 |
-| Charismatic | 51.00% | ~764 |
+| Distinguished Service Medal | 93.00% | ~1,395 |
+| Spectre Inductee | 80.00% | ~1,200 |
+| Medal of Exploration I | 72.00% | ~1,080 |
+| Recruit | 68.00% | ~1,020 |
+| Search and Rescue | 67.00% | ~1,005 |
+| Quarian Ally | 64.00% | ~960 |
+| Medal of Heroism | 60.00% | ~900 |
+| Honorarium of Corporate Service | 60.00% | ~900 |
+| Medal of Exploration II | 54.00% | ~810 |
+| Council Legion of Merit | 54.00% | ~810 |
+| Turian Ally | 53.00% | ~795 |
+| Medal of Honor | 52.00% | ~780 |
+| Meritorious Service Medal | 52.00% | ~780 |
+| Charismatic | 51.00% | ~765 |
 | Soldier | 50.00% | ~750 |
 | Soldier Ally | 47.00% | ~705 |
 | Asari Ally | 47.00% | ~705 |
@@ -91,13 +91,13 @@
 | Under Pressure | 21.00% | ~315 |
 | Last Resort | 21.00% | ~315 |
 | Hard Target | 21.00% | ~315 |
+| Saboteur | 21.00% | ~315 |
 | Last Witness | 21.00% | ~315 |
 | Well Connected | 21.00% | ~315 |
 | Fact Finder | 21.00% | ~315 |
 | Problem Solver | 21.00% | ~315 |
 | Pyromaniac | 20.00% | ~300 |
 | No One Left Behind | 20.00% | ~300 |
-| Saboteur | 20.00% | ~300 |
 | Executioner | 19.00% | ~285 |
 | Master and Commander | 19.00% | ~285 |
 | Patriot | 18.00% | ~270 |
@@ -132,7 +132,7 @@
 | Insanity III | 1.00% | ~15 |
 | Neural Shock Specialist | 1.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,499 (Ranked 243)  
+Progressed: 1,500 (Ranked 243)  
 Completed: 7 (0.47%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,4 +212,4 @@ Completed: 7 (0.47%) (Ranked 212)
 | 2023-12-01 | 1,472 | 6 |
 | 2023-12-02 | 1,484 | 6 |
 | 2023-12-03 | 1,498 | 7 |
-| 2023-12-04 | 1,499 | 7 |
+| 2023-12-04 | 1,500 | 7 |

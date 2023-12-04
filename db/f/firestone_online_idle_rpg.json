@@ -571,7 +571,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3026,
+  "EOS_Progressed": 3027,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
@@ -8816,6 +8816,11 @@
       "Time": "2023-12-04T10:08:37.5548277+00:00",
       "NumProgressed": 3026,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-04T12:08:55.778828+00:00",
+      "NumProgressed": 3027,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -8939,7 +8944,7 @@
       "Name": "Dragon Master",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "dragonslayer",
@@ -9003,7 +9008,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "fellowshippower",
@@ -9123,7 +9128,7 @@
       "Name": "Lieutenant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "lockandload",
@@ -9227,7 +9232,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "relicofthepast",
@@ -9387,7 +9392,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2814
+      "UsersEstimate": 2815
     },
     {
       "ID": "warmachinesarmy",
@@ -9419,14 +9424,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2360
+      "UsersEstimate": 2361
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3026,
+      "Progressed": 3027,
       "Completed": 2
     }
   ],
@@ -9434,8 +9439,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-03T22:59:51.5029341+00:00",
-  "LastChanged_Achievements": "2023-12-04T11:09:14.0660691+00:00",
+  "LastChanged_Achievements": "2023-12-04T12:08:55.7788277+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:05.1164011+00:00",
-  "LastUpdate_Ratings": "2023-12-04T10:59:40.7946595+00:00",
-  "LastUpdate_Achievements": "2023-12-04T11:09:14.066158+00:00"
+  "LastUpdate_Ratings": "2023-12-04T11:59:36.0339012+00:00",
+  "LastUpdate_Achievements": "2023-12-04T12:08:55.7789093+00:00"
 }

@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 11689,
+  "EOS_Progressed": 11690,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 553,
+  "EOS_NewPlayers": 550,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -8768,6 +8768,11 @@
       "Time": "2023-12-04T11:08:26.6582997+00:00",
       "NumProgressed": 11689,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-04T12:08:08.688449+00:00",
+      "NumProgressed": 11690,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-09-19T23:06:56.1964818+00:00",
@@ -8828,7 +8833,7 @@
       "Name": "Serious Guap",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 6195
+      "UsersEstimate": 6196
     },
     {
       "ID": "achievement_16",
@@ -8868,7 +8873,7 @@
       "Name": "Most Wanted",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 7481
+      "UsersEstimate": 7482
     },
     {
       "ID": "achievement_20",
@@ -8876,7 +8881,7 @@
       "Name": "Style it Out",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 6195
+      "UsersEstimate": 6196
     },
     {
       "ID": "achievement_21",
@@ -8892,7 +8897,7 @@
       "Name": "Escape Artist",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 6312
+      "UsersEstimate": 6313
     },
     {
       "ID": "achievement_23",
@@ -8900,7 +8905,7 @@
       "Name": "Public Enemy",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 9585
+      "UsersEstimate": 9586
     },
     {
       "ID": "achievement_24",
@@ -8908,7 +8913,7 @@
       "Name": "Untouchable",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 6078
+      "UsersEstimate": 6079
     },
     {
       "ID": "achievement_25",
@@ -8916,7 +8921,7 @@
       "Name": "Access All Areas",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 3857
+      "UsersEstimate": 3858
     },
     {
       "ID": "achievement_26",
@@ -8940,7 +8945,7 @@
       "Name": "Bring Your A Game",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "achievement_29",
@@ -8956,7 +8961,7 @@
       "Name": "New Crew",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 7247
+      "UsersEstimate": 7248
     },
     {
       "ID": "achievement_30",
@@ -8988,7 +8993,7 @@
       "Name": "#Blessed",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 3974
+      "UsersEstimate": 3975
     },
     {
       "ID": "achievement_34",
@@ -9012,7 +9017,7 @@
       "Name": "100 Miles and Runnin\u0027",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 9819
+      "UsersEstimate": 9820
     },
     {
       "ID": "achievement_37",
@@ -9020,7 +9025,7 @@
       "Name": "Throwing up Tags",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 10754
+      "UsersEstimate": 10755
     },
     {
       "ID": "achievement_38",
@@ -9028,7 +9033,7 @@
       "Name": "Fashion Killa",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 10286
+      "UsersEstimate": 10287
     },
     {
       "ID": "achievement_39",
@@ -9036,7 +9041,7 @@
       "Name": "Cool Whip",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 10520
+      "UsersEstimate": 10521
     },
     {
       "ID": "achievement_4",
@@ -9044,7 +9049,7 @@
       "Name": "Oh, It\u0027s On",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 5844
+      "UsersEstimate": 5845
     },
     {
       "ID": "achievement_40",
@@ -9107,13 +9112,13 @@
     {
       "ID": "d0n64ce",
       "IsBase": true,
-      "Progressed": 11689,
+      "Progressed": 11690,
       "Completed": 52
     }
   ],
   "FirstSeenAchievements": "2023-07-25T22:03:37.4196764+00:00",
-  "LastChanged_Achievements": "2023-12-04T11:08:26.6582991+00:00",
+  "LastChanged_Achievements": "2023-12-04T12:08:08.6884487+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:24.389053+00:00",
-  "LastUpdate_Ratings": "2023-12-04T10:59:15.4055673+00:00",
-  "LastUpdate_Achievements": "2023-12-04T11:08:26.6583723+00:00"
+  "LastUpdate_Ratings": "2023-12-04T11:59:10.9034181+00:00",
+  "LastUpdate_Achievements": "2023-12-04T12:08:08.6885381+00:00"
 }

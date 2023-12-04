@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Strength in Defeat | 30.00% | ~3 |
 | Escape from Fleed | 20.00% | ~2 |
 | First Contact | 20.00% | ~2 |
-| Strength in Defeat | 20.00% | ~2 |
 | Life of Pi | 20.00% | ~2 |
 | A Good Paint Job | 20.00% | ~2 |
 | Technology first! | 20.00% | ~2 |

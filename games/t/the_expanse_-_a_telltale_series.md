@@ -7,6 +7,7 @@ Rating: 4.53 (Ranked 542)
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 12.00% | ~1,906 |
 | The Pit and the Pirates | 7.00% | ~1,112 |
+| Drone Dodger | 7.00% | ~1,112 |
 | Bosmang | 7.00% | ~1,112 |
 | Captain Drummer | 7.00% | ~1,112 |
 | Celebrations are in Order | 7.00% | ~1,112 |
@@ -14,7 +15,6 @@ Rating: 4.53 (Ranked 542)
 | Zen Master | 7.00% | ~129 |
 | Spore Taste | 6.00% | ~953 |
 | Martian Music | 6.00% | ~953 |
-| Drone Dodger | 6.00% | ~953 |
 | Safe Cracker | 6.00% | ~110 |
 | Madame Undersecretary | 6.00% | ~110 |
 | Stogie for Fogey | 5.00% | ~794 |

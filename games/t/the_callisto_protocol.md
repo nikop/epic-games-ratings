@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.19 (Ranked 926)  
+Rating: 4.19 (Ranked 927)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -22,12 +22,12 @@ Rating: 4.19 (Ranked 926)
 | Keep Fighting | 6.00% | ~266 |
 | You Need a Gun | 5.00% | ~825 |
 | I Do Belong Here | 5.00% | ~825 |
+| Terminated | 5.00% | ~825 |
 | What Lies Beneath | 5.00% | ~825 |
 | Full Circle | 5.00% | ~825 |
 | Power Up | 5.00% | ~825 |
 | It's Time | 5.00% | ~222 |
 | Giving Back | 4.00% | ~660 |
-| Terminated | 4.00% | ~660 |
 | The Commonality | 3.00% | ~495 |
 | In Striking Distance | 2.00% | ~330 |
 | One Last Job | 2.00% | ~89 |

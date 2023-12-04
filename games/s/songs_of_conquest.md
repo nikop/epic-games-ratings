@@ -7,8 +7,8 @@ Number of Ratings: 292  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adept | 35.00% | ~120 |
-| Double Kill | 25.00% | ~86 |
-| Critical Hit | 15.00% | ~51 |
+| Double Kill | 26.00% | ~89 |
+| Critical Hit | 15.00% | ~52 |
 | Veteran | 13.00% | ~45 |
 | Dressed For Success | 10.00% | ~34 |
 | Humiliation | 7.00% | ~24 |
@@ -34,13 +34,13 @@ Number of Ratings: 292  (23.09.2022)
 | Unlimited Power! | 0.60% | ~2 |
 | Coming Through! | 0.60% | ~2 |
 | Barbecue | 0.60% | ~2 |
+| In The Thick of It | 0.60% | ~2 |
 | From the Ashes | 0.60% | ~2 |
 | The Marsh Expands | 0.60% | ~2 |
 | Cleave | 0.60% | ~2 |
 | Grand Master | 0.60% | ~2 |
 | Hello There | 0.30% | ~1 |
 | Fully Charged | 0.30% | ~1 |
-| In The Thick of It | 0.30% | ~1 |
 | Together For Her | 0.30% | ~1 |
 | An Empress's Hope | 0.30% | ~1 |
 | Get Over Here! | 0.30% | ~1 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 343 (Ranked 343)  
+Progressed: 344 (Ranked 341)  
 Completed: 0 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,6 +85,7 @@ Completed: 0 (0.00%) (Ranked 366)
 | 2023-12-01 | 318 | 0 |
 | 2023-12-02 | 328 | 0 |
 | 2023-12-03 | 343 | 0 |
+| 2023-12-04 | 344 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 515)  
 Sum: 194 (Ranked 405)  

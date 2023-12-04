@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 126,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3743,9 +3743,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 52044,
+  "EOS_Progressed": 52045,
   "EOS_Completed": 250,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -14233,6 +14233,11 @@
       "Time": "2023-12-04T07:05:47.7430035+00:00",
       "NumProgressed": 52044,
       "NumCompleted": 250
+    },
+    {
+      "Time": "2023-12-04T12:05:45.9901416+00:00",
+      "NumProgressed": 52045,
+      "NumCompleted": 250
     }
   ],
   "TotalAchievements": 45,
@@ -14268,7 +14273,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 41115
+      "UsersEstimate": 41116
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -14356,7 +14361,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 30706
+      "UsersEstimate": 30707
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -14380,7 +14385,7 @@
       "Name": "A New Hope",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 24981
+      "UsersEstimate": 24982
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -14436,7 +14441,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 29665
+      "UsersEstimate": 29666
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -14468,7 +14473,7 @@
       "Name": "\u0027\u0027It\u0027s true... all of it\u0027\u0027",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 9888
+      "UsersEstimate": 9889
     },
     {
       "ID": "CREATE_25_REBEL_DISGUISES",
@@ -14484,7 +14489,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 30706
+      "UsersEstimate": 30707
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -14492,7 +14497,7 @@
       "Name": "\u0027\u0027Get the crews to their fighters\u0027\u0027",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 9888
+      "UsersEstimate": 9889
     },
     {
       "ID": "EARN_10B_STUDS",
@@ -14508,7 +14513,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50483
+      "UsersEstimate": 50484
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -14603,15 +14608,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 52044,
+      "Progressed": 52045,
       "Completed": 250
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-12-04T02:59:03.5111194+00:00",
-  "LastChanged_Achievements": "2023-12-04T11:05:51.5765401+00:00",
+  "LastChanged_Achievements": "2023-12-04T12:05:45.9901411+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:20.8912008+00:00",
-  "LastUpdate_Ratings": "2023-12-04T10:58:31.8710186+00:00",
-  "LastUpdate_Achievements": "2023-12-04T11:05:51.5766073+00:00"
+  "LastUpdate_Ratings": "2023-12-04T11:58:27.397705+00:00",
+  "LastUpdate_Achievements": "2023-12-04T12:05:45.9902235+00:00"
 }

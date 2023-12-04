@@ -37,18 +37,18 @@ Number of Ratings: 45  (23.09.2022)
 | Storied Past | 0.30% | ~5 |
 | No More Nightmares | 0.30% | ~5 |
 | Plague Doctor | 0.30% | ~5 |
+| In Soil, In Smoke | 0.30% | ~5 |
 | All My Birds, Safely Home | 0.30% | ~5 |
 | Bears are Scary | 0.30% | ~5 |
 | Into Mulch | 0.30% | ~5 |
 | Tempest | 0.30% | ~5 |
 | Lochias's Hunger | 0.30% | ~5 |
-| In Soil, In Smoke | 0.20% | ~3 |
+| Worldwalker | 0.20% | ~3 |
 | Wingknight's Prowess | 0.20% | ~3 |
 | Grillmaster | 0.20% | ~3 |
 | I'm Not Smiling | 0.20% | ~3 |
 | We Emerge Changed | 0.10% | ~2 |
 | Overwhelming Monstrosity | 0.10% | ~2 |
-| Worldwalker | 0.10% | ~2 |
 | A Lowly Crust of Beef | 0.10% | ~2 |
 | The Power of Friendship | 0.10% | ~2 |
 | Back into the Sea | 0.10% | ~2 |

@@ -40,7 +40,7 @@
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 25.00% | ~130 |
 | Forbidden Knowledge | 25.00% | ~130 |
 | Ghost Pirates? Ghost Heroes! | 25.00% | ~130 |
-| The Finitude Drill | 23.00% | ~120 |
+| The Finitude Drill | 24.00% | ~125 |
 | Doom Hill | 21.00% | ~109 |
 | Stop Tanos! | 20.00% | ~104 |
 | Sabotage! | 19.00% | ~99 |
