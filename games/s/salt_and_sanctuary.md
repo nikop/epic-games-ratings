@@ -6,17 +6,17 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~448,127 |
-| The Three | 64.00% | ~345,544 |
-| The Banquet | 40.00% | ~215,965 |
-| Devara's Light | 31.00% | ~167,373 |
-| The Iron Ones | 19.00% | ~102,583 |
-| The Village | 17.00% | ~91,785 |
+| Find Sanctuary | 83.00% | ~448,129 |
+| The Three | 64.00% | ~345,546 |
+| The Banquet | 40.00% | ~215,966 |
+| Devara's Light | 31.00% | ~167,374 |
+| The Iron Ones | 19.00% | ~102,584 |
+| The Village | 17.00% | ~91,786 |
 | The Forest | 15.00% | ~80,987 |
 | The Imposter | 14.00% | ~75,588 |
 | The Keep | 14.00% | ~75,588 |
 | Branded | 13.00% | ~70,189 |
-| The Castle | 11.00% | ~59,390 |
+| The Castle | 11.00% | ~59,391 |
 | The Dome | 9.00% | ~48,592 |
 | The Red Hall | 9.00% | ~48,592 |
 | The Sacrifice | 8.00% | ~43,193 |
@@ -30,10 +30,10 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Ruins | 6.00% | ~32,395 |
 | The Alkymancery | 5.00% | ~26,996 |
 | The Pitchwoods | 5.00% | ~26,996 |
-| Honed | 4.00% | ~21,596 |
-| The House of Splendor | 4.00% | ~21,596 |
-| The Crypt | 4.00% | ~21,596 |
-| The Palace | 4.00% | ~21,596 |
+| Honed | 4.00% | ~21,597 |
+| The House of Splendor | 4.00% | ~21,597 |
+| The Crypt | 4.00% | ~21,597 |
+| The Palace | 4.00% | ~21,597 |
 | Find Salvation | 3.00% | ~16,197 |
 | The Unspeakable Deep | 3.00% | ~16,197 |
 | Coastrock | 2.00% | ~10,798 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,798 |
 | Fading Fast | 1.00% | ~5,399 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 539,912 (Ranked 34)  
+Progressed: 539,915 (Ranked 34)  
 Completed: 1,635 (0.30%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 1,635 (0.30%) (Ranked 238)
 | 2023-12-01 | 539,683 | 1,631 |
 | 2023-12-02 | 539,780 | 1,633 |
 | 2023-12-03 | 539,892 | 1,635 |
-| 2023-12-04 | 539,912 | 1,635 |
+| 2023-12-04 | 539,915 | 1,635 |
 ## Awards
 Max (Challenging Combat): 294  (Ranked 256)  
 Sum: 2,006 (Ranked 214)  

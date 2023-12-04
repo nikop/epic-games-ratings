@@ -6273,9 +6273,9 @@
       "Count": 132
     }
   ],
-  "EOS_Progressed": 1566466,
+  "EOS_Progressed": 1566471,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 3252,
+  "EOS_NewPlayers": 3249,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32383,6 +32383,11 @@
       "Time": "2023-12-04T08:04:24.6119779+00:00",
       "NumProgressed": 1566466,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-04T09:03:56.1848445+00:00",
+      "NumProgressed": 1566471,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 38,
@@ -32474,7 +32479,7 @@
       "Name": "Guts",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 313293
+      "UsersEstimate": 313294
     },
     {
       "ID": "Highlander",
@@ -32490,7 +32495,7 @@
       "Name": "Home Run",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 642251
+      "UsersEstimate": 642253
     },
     {
       "ID": "JustScratch",
@@ -32506,7 +32511,7 @@
       "Name": "Justice from the Grave",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 767568
+      "UsersEstimate": 767571
     },
     {
       "ID": "KeepsComingOff",
@@ -32514,7 +32519,7 @@
       "Name": "Keeps Coming Off",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 642251
+      "UsersEstimate": 642253
     },
     {
       "ID": "KungFu",
@@ -32530,7 +32535,7 @@
       "Name": "Lived to Tell the Tale",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 187976
+      "UsersEstimate": 187977
     },
     {
       "ID": "LivingSculpture",
@@ -32626,7 +32631,7 @@
       "Name": "The ABCs",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 673580
+      "UsersEstimate": 673583
     },
     {
       "ID": "ToughNut",
@@ -32697,7 +32702,7 @@
     {
       "ID": "anh8moj",
       "IsBase": true,
-      "Progressed": 1566466,
+      "Progressed": 1566471,
       "Completed": 69
     }
   ],
@@ -32705,8 +32710,8 @@
   "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:33.1084407+00:00",
   "LastChanged": "2023-12-03T20:57:11.4768882+00:00",
-  "LastChanged_Achievements": "2023-12-04T08:04:24.6119776+00:00",
+  "LastChanged_Achievements": "2023-12-04T09:03:56.1848442+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:47.9329153+00:00",
-  "LastUpdate_Ratings": "2023-12-04T07:57:49.9434355+00:00",
-  "LastUpdate_Achievements": "2023-12-04T08:04:24.6121484+00:00"
+  "LastUpdate_Ratings": "2023-12-04T08:57:38.8697466+00:00",
+  "LastUpdate_Achievements": "2023-12-04T09:03:56.1849796+00:00"
 }

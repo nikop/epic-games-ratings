@@ -39,8 +39,8 @@ Rating: 4.50 (Ranked 592)
 | You've Got A Friend | 23.00% | ~2,127 |
 | King of the World | 17.00% | ~1,572 |
 | Max Capacity | 15.00% | ~1,387 |
+| A Presence I've Not Felt Since... | 15.00% | ~1,387 |
 | Reconnaissance | 15.00% | ~1,387 |
-| A Presence I've Not Felt Since... | 14.00% | ~1,295 |
 | Slam Dunk | 12.00% | ~1,110 |
 | Star Tours | 11.00% | ~1,017 |
 | Caij Match | 10.00% | ~925 |

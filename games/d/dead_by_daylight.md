@@ -6,15 +6,15 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 1.00% | ~10,683 |
-| Skillful | 1.00% | ~10,683 |
-| Zealous | 0.90% | ~9,615 |
+| Zealous | 1.00% | ~10,684 |
+| It wakes | 1.00% | ~10,684 |
+| Skillful | 1.00% | ~10,684 |
 | Not half bad | 0.90% | ~9,615 |
-| Make Some Noise | 0.80% | ~8,546 |
-| Handyman | 0.70% | ~7,478 |
-| Apt Survivor | 0.70% | ~7,478 |
-| Survival Treasures | 0.70% | ~7,478 |
-| I | 0.70% | ~7,478 |
+| Make Some Noise | 0.80% | ~8,547 |
+| Handyman | 0.70% | ~7,479 |
+| Apt Survivor | 0.70% | ~7,479 |
+| Survival Treasures | 0.70% | ~7,479 |
+| I | 0.70% | ~7,479 |
 | No one left behind | 0.60% | ~6,410 |
 | Medic | 0.60% | ~6,410 |
 | Sorted | 0.60% | ~6,410 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,068 |
 | Adept Good Guy | 0.10% | ~1,068 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,068,310 (Ranked 14)  
+Progressed: 1,068,361 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -467,7 +467,7 @@ Completed: 61 (0.01%) (Ranked 345)
 | 2023-12-01 | 1,059,298 | 61 |
 | 2023-12-02 | 1,062,340 | 61 |
 | 2023-12-03 | 1,067,390 | 61 |
-| 2023-12-04 | 1,068,310 | 61 |
+| 2023-12-04 | 1,068,361 | 61 |
 ## Awards
 Max (Diverse Characters): 37,218  (Ranked 15)  
 Sum: 282,686 (Ranked 12)  

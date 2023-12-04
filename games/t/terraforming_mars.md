@@ -6,11 +6,11 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~31,451 |
-| Final touch | 35.00% | ~29,751 |
-| Prop-M Rover | 32.00% | ~27,201 |
-| Changing the Planet | 28.00% | ~23,801 |
-| Sojourner | 26.00% | ~22,101 |
+| It's a steal! | 37.00% | ~31,452 |
+| Final touch | 35.00% | ~29,752 |
+| Prop-M Rover | 32.00% | ~27,202 |
+| Changing the Planet | 28.00% | ~23,802 |
+| Sojourner | 26.00% | ~22,102 |
 | New Home | 23.00% | ~19,551 |
 | Beagle 2 | 23.00% | ~19,551 |
 | Winner Winner Terraformer | 21.00% | ~17,851 |
@@ -23,21 +23,21 @@ Number of Ratings: 2,731  (23.09.2022)
 | Money money | 15.00% | ~12,751 |
 | Biggest Reward | 14.00% | ~11,901 |
 | First Journey | 13.00% | ~11,051 |
-| Acquired knowledge | 12.00% | ~10,200 |
-| Landlord | 11.00% | ~9,350 |
-| Most Achievements | 11.00% | ~9,350 |
-| Hellenic Elysium | 11.00% | ~9,350 |
-| Grand champion | 11.00% | ~9,350 |
-| Spirit | 10.00% | ~8,500 |
-| Ultimate success | 10.00% | ~8,500 |
-| Variety Expert | 9.00% | ~7,650 |
+| Acquired knowledge | 12.00% | ~10,201 |
+| Landlord | 11.00% | ~9,351 |
+| Most Achievements | 11.00% | ~9,351 |
+| Hellenic Elysium | 11.00% | ~9,351 |
+| Grand champion | 11.00% | ~9,351 |
+| Spirit | 10.00% | ~8,501 |
+| Ultimate success | 10.00% | ~8,501 |
+| Variety Expert | 9.00% | ~7,651 |
 | Frequent tester | 8.00% | ~6,800 |
 | Determined | 8.00% | ~6,800 |
 | Terraformer | 4.00% | ~3,400 |
 | Team Effort | 3.00% | ~2,550 |
 | Opportunity | 3.00% | ~2,550 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85,004 (Ranked 94)  
+Progressed: 85,006 (Ranked 94)  
 Completed: 172 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 172 (0.20%) (Ranked 257)
 | 2023-12-01 | 84,641 | 168 |
 | 2023-12-02 | 84,762 | 169 |
 | 2023-12-03 | 84,968 | 171 |
-| 2023-12-04 | 85,004 | 172 |
+| 2023-12-04 | 85,006 | 172 |
 ## Awards
 Max (Relaxing): 529  (Ranked 209)  
 Sum: 3,277 (Ranked 172)  

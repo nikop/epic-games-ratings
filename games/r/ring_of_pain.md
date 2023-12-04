@@ -28,6 +28,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Walk It Off | 0.40% | ~962 |
 | Cold Hearted | 0.40% | ~962 |
 | I Am Overburdened | 0.40% | ~962 |
+| Destroy Your Fears | 0.40% | ~962 |
 | The Bestiary | 0.40% | ~962 |
 | Heartless | 0.40% | ~962 |
 | What's Yours Is Mine | 0.40% | ~962 |
@@ -48,10 +49,10 @@ Number of Ratings: 15,086  (23.09.2022)
 | Who To Trust? | 0.30% | ~722 |
 | Just Chilling | 0.30% | ~722 |
 | Save Our Souls | 0.30% | ~722 |
-| Destroy Your Fears | 0.30% | ~722 |
 | Don't Ignore Me! | 0.30% | ~722 |
 | All Consuming | 0.30% | ~722 |
 | Stop Hitting Yourself | 0.30% | ~722 |
+| Illuminate, Eliminate | 0.30% | ~722 |
 | Doing Time | 0.30% | ~722 |
 | Spreading Plague | 0.30% | ~722 |
 | Acid Bath | 0.30% | ~722 |
@@ -69,7 +70,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Berzerker | 0.20% | ~481 |
 | Juggernaut | 0.20% | ~481 |
 | Clearing The Room | 0.20% | ~481 |
-| Illuminate, Eliminate | 0.20% | ~481 |
 | Chain Reaction | 0.20% | ~481 |
 | Antivenom | 0.20% | ~481 |
 | Decisions, Decisions | 0.20% | ~481 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,602 (Ranked 64)  
+Progressed: 240,603 (Ranked 64)  
 Completed: 292 (0.12%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -373,7 +373,7 @@ Completed: 292 (0.12%) (Ranked 280)
 | 2023-12-01 | 240,480 | 291 |
 | 2023-12-02 | 240,522 | 291 |
 | 2023-12-03 | 240,591 | 292 |
-| 2023-12-04 | 240,602 | 292 |
+| 2023-12-04 | 240,603 | 292 |
 ## Awards
 Max (Quickly Understood Controls): 1,505  (Ranked 132)  
 Sum: 11,707 (Ranked 84)  

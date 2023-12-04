@@ -5,19 +5,19 @@ Rating: 4.05 (Ranked 991)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,811 |
-| World Map | 78.00% | ~2,358 |
-| Temple of Eternals | 57.00% | ~1,723 |
-| Prestigious | 53.00% | ~1,602 |
+| Victor | 93.00% | ~2,812 |
+| World Map | 78.00% | ~2,359 |
+| Temple of Eternals | 57.00% | ~1,724 |
+| Prestigious | 53.00% | ~1,603 |
 | Fellowship Power | 42.00% | ~1,270 |
 | Guild Power | 24.00% | ~726 |
 | Prestigious x10 | 21.00% | ~635 |
 | Full Party | 20.00% | ~605 |
-| The game is on | 19.00% | ~574 |
+| The game is on | 19.00% | ~575 |
 | Exotic Merchant | 17.00% | ~514 |
 | Dragon Clicker | 16.00% | ~484 |
-| Inspection | 15.00% | ~453 |
-| Miner Clicker | 15.00% | ~453 |
+| Inspection | 15.00% | ~454 |
+| Miner Clicker | 15.00% | ~454 |
 | Enlightenment | 14.00% | ~423 |
 | Hero inspection | 14.00% | ~423 |
 | Dragon Master | 13.00% | ~393 |
@@ -33,12 +33,12 @@ Rating: 4.05 (Ranked 991)
 | Doing My Part | 9.00% | ~272 |
 | Hunter | 9.00% | ~272 |
 | Mastery | 9.00% | ~272 |
-| Relic Of The Past | 9.00% | ~272 |
 | Scroll Master | 9.00% | ~272 |
 | The power of Awakening | 9.00% | ~272 |
 | Four Leaf Clover | 8.00% | ~242 |
 | Frostfire Liberator | 8.00% | ~242 |
 | Moving Up The Ladder | 8.00% | ~242 |
+| Relic Of The Past | 8.00% | ~242 |
 | Here We Go Again | 7.00% | ~212 |
 | Master Enchanter | 7.00% | ~212 |
 | The father of Dragons | 7.00% | ~212 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 991)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,023 (Ranked 212)  
+Progressed: 3,024 (Ranked 212)  
 Completed: 2 (0.07%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 2 (0.07%) (Ranked 307)
 | 2023-12-01 | 2,917 | 2 |
 | 2023-12-02 | 2,955 | 2 |
 | 2023-12-03 | 3,010 | 2 |
-| 2023-12-04 | 3,023 | 2 |
+| 2023-12-04 | 3,024 | 2 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 475)  
 Sum: 137 (Ranked 431)  

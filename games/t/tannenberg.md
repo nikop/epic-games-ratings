@@ -6,24 +6,24 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~124,774 |
-| Comeback | 82.00% | ~114,961 |
-| Information is Key | 80.00% | ~112,157 |
-| Unlucky | 70.00% | ~98,137 |
-| Anarchist | 68.00% | ~95,333 |
-| Wallhack | 65.00% | ~91,127 |
+| Immovable Object | 89.00% | ~124,775 |
+| Comeback | 82.00% | ~114,962 |
+| Information is Key | 80.00% | ~112,158 |
+| Unlucky | 70.00% | ~98,138 |
+| Anarchist | 68.00% | ~95,334 |
+| Wallhack | 65.00% | ~91,128 |
 | Steady Supply | 60.00% | ~84,118 |
 | Lucky Shot | 53.00% | ~74,304 |
 | Forward Observer | 52.00% | ~72,902 |
 | Ring Ring! | 52.00% | ~72,902 |
-| Bossing Around | 45.00% | ~63,088 |
-| Frostbite | 45.00% | ~63,088 |
-| Night Owl | 44.00% | ~61,686 |
-| Strength in Numbers | 44.00% | ~61,686 |
-| Fog of War | 41.00% | ~57,480 |
-| Rasputin | 39.00% | ~54,676 |
-| Stronghold Denied | 39.00% | ~54,676 |
-| Anyone Else? | 38.00% | ~53,274 |
+| Bossing Around | 45.00% | ~63,089 |
+| Frostbite | 45.00% | ~63,089 |
+| Night Owl | 44.00% | ~61,687 |
+| Strength in Numbers | 44.00% | ~61,687 |
+| Fog of War | 41.00% | ~57,481 |
+| Rasputin | 39.00% | ~54,677 |
+| Stronghold Denied | 39.00% | ~54,677 |
+| Anyone Else? | 38.00% | ~53,275 |
 | Hydra | 36.00% | ~50,471 |
 | This Belongs to Us Now | 36.00% | ~50,471 |
 | Stronghold | 35.00% | ~49,069 |
@@ -41,7 +41,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | At Least This Way I Can Win... | 17.00% | ~23,833 |
 | I've Seen It All | 17.00% | ~23,833 |
 | Oops! | 17.00% | ~23,833 |
-| Developers, Developers, Developers, Developers! | 16.00% | ~22,431 |
+| Developers, Developers, Developers, Developers! | 16.00% | ~22,432 |
 | Butcher | 12.00% | ~16,824 |
 | Before the Leaves Fall | 10.00% | ~14,020 |
 | Close Call | 10.00% | ~14,020 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,262 |
 | Road to Berlin | 0.60% | ~841 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,196 (Ranked 81)  
+Progressed: 140,197 (Ranked 81)  
 Completed: 32 (0.02%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 32 (0.02%) (Ranked 336)
 | 2023-12-01 | 139,870 | 32 |
 | 2023-12-02 | 139,975 | 32 |
 | 2023-12-03 | 140,175 | 32 |
-| 2023-12-04 | 140,196 | 32 |
+| 2023-12-04 | 140,197 | 32 |
 ## Awards
 Max (Competitive Players): 335  (Ranked 246)  
 Sum: 3,284 (Ranked 171)  

@@ -19,7 +19,7 @@ Rating: 4.54 (Ranked 529)
 | Stacking the Deck | 2.00% | ~14,599 |
 | Personal Assistant Personally Assisted | 2.00% | ~14,599 |
 | Welcome To Hell-A | 2.00% | ~14,599 |
-| One of Us | 2.00% | ~1,109 |
+| One of Us | 2.00% | ~1,110 |
 | Making Your Mark | 1.00% | ~7,299 |
 | Anger Management | 1.00% | ~7,299 |
 | Perks of the Job | 1.00% | ~7,299 |
@@ -36,7 +36,7 @@ Rating: 4.54 (Ranked 529)
 | This is My Weapon | 1.00% | ~7,299 |
 | Humanity Distilled | 0.90% | ~6,569 |
 | Max Headroom | 0.90% | ~6,569 |
-| Down with the Sickness | 0.80% | ~5,839 |
+| Down with the Sickness | 0.80% | ~5,840 |
 | Not Even My Final Form | 0.70% | ~5,110 |
 | Jumbo Keyring | 0.70% | ~5,110 |
 | Go, Bobcats! | 0.70% | ~5,110 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 529)
 | Bucket List | 0.10% | ~730 |
 | Wilhelm | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 729,929 (Ranked 21)  
+Progressed: 729,941 (Ranked 21)  
 Completed: 2,462 (0.34%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 2,462 (0.34%) (Ranked 232)
 | 2023-12-01 | 728,667 | 2,459 |
 | 2023-12-02 | 729,149 | 2,460 |
 | 2023-12-03 | 729,822 | 2,461 |
-| 2023-12-04 | 729,929 | 2,462 |
+| 2023-12-04 | 729,941 | 2,462 |
 ## Awards
 Max (Great Boss Battles): 7,892  (Ranked 49)  
 Sum: 12,110 (Ranked 82)  

@@ -11,7 +11,7 @@
 | Graduated | 32.00% | ~38 |
 | Ay ay yarrr! | 22.00% | ~26 |
 | Night Shift | 22.00% | ~26 |
-| Shine bright | 18.00% | ~21 |
+| Shine bright | 19.00% | ~23 |
 | It's about the journey | 12.00% | ~14 |
 | C'who? | 11.00% | ~13 |
 | There be sand in me shorts | 11.00% | ~13 |

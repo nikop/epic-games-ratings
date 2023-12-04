@@ -52,43 +52,43 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 3.00% | ~469 |
 | Roman Paganism | 3.00% | ~469 |
 | Zoroastrianism | 3.00% | ~469 |
-| Regicide | 2.00% | ~312 |
-| Hanging Gardens in Babylon | 2.00% | ~312 |
-| Beloved | 2.00% | ~312 |
-| Conqueror | 2.00% | ~312 |
-| Great | 2.00% | ~312 |
-| Intercessor | 2.00% | ~312 |
-| Invincible | 2.00% | ~312 |
-| Lion | 2.00% | ~312 |
-| Mighty | 2.00% | ~312 |
-| Valiant | 2.00% | ~312 |
-| Victorious | 2.00% | ~312 |
-| Legendary Cities | 2.00% | ~312 |
-| Good Difficulty | 2.00% | ~312 |
-| Just Difficulty | 2.00% | ~312 |
-| Artisans | 2.00% | ~312 |
-| Champions | 2.00% | ~312 |
-| Patrons | 2.00% | ~312 |
-| Riders | 2.00% | ~312 |
-| Sages | 2.00% | ~312 |
-| Acropolis | 2.00% | ~312 |
-| Apadana | 2.00% | ~312 |
-| Colossus | 2.00% | ~312 |
-| Mausoleum | 2.00% | ~312 |
-| Musaeum | 2.00% | ~312 |
-| Necropolis | 2.00% | ~312 |
-| Learn to Play 3 | 2.00% | ~312 |
-| Greece | 2.00% | ~312 |
-| Power to the People | 2.00% | ~312 |
-| Manichaeism | 2.00% | ~312 |
-| Persian Paganism | 2.00% | ~312 |
-| Building Wonders | 2.00% | ~312 |
-| Mythology | 2.00% | ~312 |
-| Points Victory | 2.00% | ~312 |
-| Win a Single Player Game | 2.00% | ~312 |
-| The Clergy | 2.00% | ~312 |
-| Kushite Pyramids | 2.00% | ~312 |
-| Kushite Paganism | 2.00% | ~312 |
+| Regicide | 2.00% | ~313 |
+| Hanging Gardens in Babylon | 2.00% | ~313 |
+| Beloved | 2.00% | ~313 |
+| Conqueror | 2.00% | ~313 |
+| Great | 2.00% | ~313 |
+| Intercessor | 2.00% | ~313 |
+| Invincible | 2.00% | ~313 |
+| Lion | 2.00% | ~313 |
+| Mighty | 2.00% | ~313 |
+| Valiant | 2.00% | ~313 |
+| Victorious | 2.00% | ~313 |
+| Legendary Cities | 2.00% | ~313 |
+| Good Difficulty | 2.00% | ~313 |
+| Just Difficulty | 2.00% | ~313 |
+| Artisans | 2.00% | ~313 |
+| Champions | 2.00% | ~313 |
+| Patrons | 2.00% | ~313 |
+| Riders | 2.00% | ~313 |
+| Sages | 2.00% | ~313 |
+| Acropolis | 2.00% | ~313 |
+| Apadana | 2.00% | ~313 |
+| Colossus | 2.00% | ~313 |
+| Mausoleum | 2.00% | ~313 |
+| Musaeum | 2.00% | ~313 |
+| Necropolis | 2.00% | ~313 |
+| Learn to Play 3 | 2.00% | ~313 |
+| Greece | 2.00% | ~313 |
+| Power to the People | 2.00% | ~313 |
+| Manichaeism | 2.00% | ~313 |
+| Persian Paganism | 2.00% | ~313 |
+| Building Wonders | 2.00% | ~313 |
+| Mythology | 2.00% | ~313 |
+| Points Victory | 2.00% | ~313 |
+| Win a Single Player Game | 2.00% | ~313 |
+| The Clergy | 2.00% | ~313 |
+| Kushite Pyramids | 2.00% | ~313 |
+| Kushite Paganism | 2.00% | ~313 |
 | Bad Heir Day | 1.00% | ~156 |
 | Capable | 1.00% | ~156 |
 | Devout | 1.00% | ~156 |
@@ -163,18 +163,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conquest Victory | 0.50% | ~78 |
 | Rmt n Kmt Buhen | 0.50% | ~78 |
 | Greater Kmt Unified | 0.50% | ~78 |
-| Bronze Victory (Carthage 1) | 0.40% | ~62 |
-| Silver Victory (Carthage 1) | 0.40% | ~62 |
-| Magnificent Difficulty | 0.40% | ~62 |
-| The Eternal Treaty | 0.40% | ~62 |
-| Run, Pheidippides, Run! | 0.40% | ~62 |
-| Nenikekamen | 0.40% | ~62 |
-| Assyria | 0.40% | ~62 |
-| Apadana in Parsa | 0.40% | ~62 |
-| Play a Free-For-All Game (>2 Players) | 0.40% | ~62 |
-| Circus Maximus in Roma | 0.40% | ~62 |
-| Necropolis in Waset | 0.40% | ~62 |
-| Prosperous Kmt | 0.40% | ~62 |
+| Bronze Victory (Carthage 1) | 0.40% | ~63 |
+| Silver Victory (Carthage 1) | 0.40% | ~63 |
+| Magnificent Difficulty | 0.40% | ~63 |
+| The Eternal Treaty | 0.40% | ~63 |
+| Run, Pheidippides, Run! | 0.40% | ~63 |
+| Nenikekamen | 0.40% | ~63 |
+| Assyria | 0.40% | ~63 |
+| Apadana in Parsa | 0.40% | ~63 |
+| Play a Free-For-All Game (>2 Players) | 0.40% | ~63 |
+| Circus Maximus in Roma | 0.40% | ~63 |
+| Necropolis in Waset | 0.40% | ~63 |
+| Prosperous Kmt | 0.40% | ~63 |
 | Gold Victory (Carthage 1) | 0.30% | ~47 |
 | Carthage - Riches and Influence | 0.30% | ~47 |
 | Cleopatra's Love | 0.30% | ~47 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,625 (Ranked 152)  
+Progressed: 15,626 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -577,7 +577,7 @@ Completed: 5 (0.03%) (Ranked 329)
 | 2023-12-01 | 15,583 | 5 |
 | 2023-12-02 | 15,604 | 5 |
 | 2023-12-03 | 15,619 | 5 |
-| 2023-12-04 | 15,625 | 5 |
+| 2023-12-04 | 15,626 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,888 (Ranked 220)  

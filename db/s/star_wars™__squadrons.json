@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26468,
+  "EOS_Progressed": 26473,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2299,
+  "EOS_NewPlayers": 2301,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8919,6 +8919,11 @@
       "Time": "2023-12-04T08:09:48.0730078+00:00",
       "NumProgressed": 26468,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-04T09:09:40.7127907+00:00",
+      "NumProgressed": 26473,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -8931,7 +8936,7 @@
       "Name": "The Galaxy\u0027s Finest (Story Mode)",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3970
+      "UsersEstimate": 3971
     },
     {
       "ID": "achievement_10",
@@ -8979,7 +8984,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 5294
+      "UsersEstimate": 5295
     },
     {
       "ID": "achievement_16",
@@ -9083,7 +9088,7 @@
       "Name": "Unkillable",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2117
+      "UsersEstimate": 2118
     },
     {
       "ID": "achievement_28",
@@ -9139,7 +9144,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 5029
+      "UsersEstimate": 5030
     },
     {
       "ID": "achievement_34",
@@ -9155,7 +9160,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 25145
+      "UsersEstimate": 25149
     },
     {
       "ID": "achievement_36",
@@ -9187,7 +9192,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 6352
+      "UsersEstimate": 6354
     },
     {
       "ID": "achievement_4",
@@ -9259,7 +9264,7 @@
       "Name": "Stomped",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "achievement_5",
@@ -9291,7 +9296,7 @@
       "Name": "A Better Idea",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 6352
+      "UsersEstimate": 6354
     },
     {
       "ID": "achievement_9",
@@ -9299,14 +9304,14 @@
       "Name": "A Promising Career",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 26468,
+      "Progressed": 26473,
       "Completed": 2
     }
   ],
@@ -9314,8 +9319,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-12-04T08:09:48.0730075+00:00",
+  "LastChanged_Achievements": "2023-12-04T09:09:40.7127904+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:20.4359375+00:00",
-  "LastUpdate_Ratings": "2023-12-04T08:03:26.9722639+00:00",
-  "LastUpdate_Achievements": "2023-12-04T08:09:48.0730696+00:00"
+  "LastUpdate_Ratings": "2023-12-04T09:03:03.8691068+00:00",
+  "LastUpdate_Achievements": "2023-12-04T09:09:40.7128705+00:00"
 }

@@ -419,11 +419,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25488,
+  "EOS_Progressed": 25489,
   "EOS_Completed": 483,
-  "EOS_NewPlayers": 473,
+  "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 1.9,
+  "EOS_Completed_Percentage": 1.89,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -24869,6 +24869,11 @@
       "Time": "2023-12-04T07:03:32.1269457+00:00",
       "NumProgressed": 25488,
       "NumCompleted": 483
+    },
+    {
+      "Time": "2023-12-04T09:03:37.6441472+00:00",
+      "NumProgressed": 25489,
+      "NumCompleted": 483
     }
   ],
   "TotalAchievements": 20,
@@ -24976,7 +24981,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3313
+      "UsersEstimate": 3314
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -25000,7 +25005,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 19371
+      "UsersEstimate": 19372
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -25016,7 +25021,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3313
+      "UsersEstimate": 3314
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -25039,15 +25044,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 25488,
+      "Progressed": 25489,
       "Completed": 483
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-04T08:04:04.2315647+00:00",
+  "LastChanged_Achievements": "2023-12-04T09:03:37.6441469+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:59.5744721+00:00",
-  "LastUpdate_Ratings": "2023-12-04T08:00:11.1394587+00:00",
-  "LastUpdate_Achievements": "2023-12-04T08:04:04.2316711+00:00"
+  "LastUpdate_Ratings": "2023-12-04T08:59:40.7231073+00:00",
+  "LastUpdate_Achievements": "2023-12-04T09:03:37.6442734+00:00"
 }

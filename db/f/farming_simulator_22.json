@@ -11920,10 +11920,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 43631,
       "NumberOfAwardsMax": 5721
+    },
+    {
+      "Time": "2023-12-04T08:57:53.9351314+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 43654,
+      "NumberOfAwardsMax": 5721
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43631,
+  "NumberOfAwards": 43654,
   "NumberOfAwardsMax": 5721,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -11979,7 +11985,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3779
+      "Count": 3802
     },
     {
       "Text": "This game has Diverse Characters",
@@ -12000,9 +12006,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 54732,
+  "EOS_Progressed": 54733,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1024,
+  "EOS_NewPlayers": 1022,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32990,6 +32996,11 @@
       "Time": "2023-12-04T08:07:19.8092861+00:00",
       "NumProgressed": 54732,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-04T09:08:22.3294803+00:00",
+      "NumProgressed": 54733,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -33225,7 +33236,7 @@
       "Name": "I like to switch it up",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 21345
+      "UsersEstimate": 21346
     },
     {
       "ID": "NumPlaceables",
@@ -33273,7 +33284,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 31197
+      "UsersEstimate": 31198
     },
     {
       "ID": "Sow",
@@ -33305,7 +33316,7 @@
       "Name": "Field Trip",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 22987
+      "UsersEstimate": 22988
     },
     {
       "ID": "TruckDriving",
@@ -33337,22 +33348,22 @@
       "Name": "That\u0027s a wrap",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7662
+      "UsersEstimate": 7663
     }
   ],
   "AchievementSets": [
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 54732,
+      "Progressed": 54733,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2023-12-04T06:57:33.1723863+00:00",
-  "LastChanged_Achievements": "2023-12-04T08:07:19.8092859+00:00",
+  "LastChanged": "2023-12-04T08:57:53.9351312+00:00",
+  "LastChanged_Achievements": "2023-12-04T09:08:22.3294799+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:33.2145586+00:00",
-  "LastUpdate_Ratings": "2023-12-04T07:58:07.5428307+00:00",
-  "LastUpdate_Achievements": "2023-12-04T08:07:19.809395+00:00"
+  "LastUpdate_Ratings": "2023-12-04T08:57:53.9351319+00:00",
+  "LastUpdate_Achievements": "2023-12-04T09:08:22.3296318+00:00"
 }

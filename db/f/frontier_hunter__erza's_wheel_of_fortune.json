@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 534,
+  "EOS_Progressed": 535,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
@@ -1672,6 +1672,11 @@
       "Time": "2023-12-04T08:07:24.9475071+00:00",
       "NumProgressed": 534,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-04T09:08:26.9640724+00:00",
+      "NumProgressed": 535,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1683,7 +1688,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1705,9 +1710,9 @@
       "ID": "ACHIEVEMENT_12",
       "SetID": "7pimpda",
       "Name": "Nosebleeder",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 128
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -1723,7 +1728,7 @@
       "Name": "Youth Magnet",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -1755,7 +1760,7 @@
       "Name": "Kind Adventurer",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -1763,7 +1768,7 @@
       "Name": "Mermaid Killer",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -1827,15 +1832,15 @@
       "Name": "Master Artificer",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHIEVEMENT_27",
       "SetID": "7pimpda",
       "Name": "Fashion Connoisseur",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 262
+      "UsersEstimate": 268
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -1851,7 +1856,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1939,7 +1944,7 @@
       "Name": "Storm Traveller",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -2001,9 +2006,9 @@
       "ID": "ACHIEVEMENT_5",
       "SetID": "7pimpda",
       "Name": "Wolf King Killer",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 272
+      "UsersEstimate": 278
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2019,7 +2024,7 @@
       "Name": "Apostle of Flame",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -2042,7 +2047,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 534,
+      "Progressed": 535,
       "Completed": 1
     }
   ],
@@ -2050,8 +2055,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-04T08:07:24.9475067+00:00",
+  "LastChanged_Achievements": "2023-12-04T09:08:26.964072+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.7212859+00:00",
-  "LastUpdate_Ratings": "2023-12-04T08:03:05.1222718+00:00",
-  "LastUpdate_Achievements": "2023-12-04T08:07:24.9475383+00:00"
+  "LastUpdate_Ratings": "2023-12-04T09:00:35.0825884+00:00",
+  "LastUpdate_Achievements": "2023-12-04T09:08:26.96413+00:00"
 }

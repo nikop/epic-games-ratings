@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16845,
+  "EOS_Progressed": 16846,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -15433,6 +15433,11 @@
       "Time": "2023-12-04T07:06:10.0821032+00:00",
       "NumProgressed": 16845,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-12-04T09:06:13.1383897+00:00",
+      "NumProgressed": 16846,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15444,7 +15449,7 @@
       "Name": "Good midwife",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1684
+      "UsersEstimate": 1685
     },
     {
       "ID": "tpote_achievement_10",
@@ -15460,7 +15465,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3874
+      "UsersEstimate": 3875
     },
     {
       "ID": "tpote_achievement_12",
@@ -15516,7 +15521,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1684
+      "UsersEstimate": 1685
     },
     {
       "ID": "tpote_achievement_19",
@@ -15604,7 +15609,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "tpote_achievement_29",
@@ -15620,7 +15625,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5390
+      "UsersEstimate": 5391
     },
     {
       "ID": "tpote_achievement_30",
@@ -15628,7 +15633,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1684
+      "UsersEstimate": 1685
     },
     {
       "ID": "tpote_achievement_31",
@@ -15740,7 +15745,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3874
+      "UsersEstimate": 3875
     },
     {
       "ID": "tpote_achievement_7",
@@ -15756,7 +15761,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3537
+      "UsersEstimate": 3538
     },
     {
       "ID": "tpote_achievement_9",
@@ -15764,22 +15769,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5727
+      "UsersEstimate": 5728
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16845,
+      "Progressed": 16846,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-12-04T08:06:57.6050386+00:00",
+  "LastChanged_Achievements": "2023-12-04T09:06:13.1383893+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:14.9686486+00:00",
-  "LastUpdate_Ratings": "2023-12-04T07:58:38.8206683+00:00",
-  "LastUpdate_Achievements": "2023-12-04T08:06:57.6051587+00:00"
+  "LastUpdate_Ratings": "2023-12-04T08:58:20.9337427+00:00",
+  "LastUpdate_Achievements": "2023-12-04T09:06:13.1385068+00:00"
 }

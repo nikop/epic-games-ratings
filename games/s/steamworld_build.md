@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Botropolis | 100.00% | ~1 |
-| Conducted Trade | 100.00% | ~1 |
-| Gotta Go Fast | 100.00% | ~1 |
-| It's Yours, My Friend | 100.00% | ~1 |
-| Real Purdy | 100.00% | ~1 |
-| Slotting Machine | 100.00% | ~1 |
-| Stack Overflow | 100.00% | ~1 |
-| Steaming Rich | 100.00% | ~1 |
-| Tutti Frutti | 100.00% | ~1 |
-| Up, Up And Away! | 100.00% | ~1 |
-| Whoa! | 100.00% | ~1 |
+| Botropolis | 50.00% | ~1 |
+| Conducted Trade | 50.00% | ~1 |
+| Gotta Go Fast | 50.00% | ~1 |
+| It's Yours, My Friend | 50.00% | ~1 |
+| Real Purdy | 50.00% | ~1 |
+| Slotting Machine | 50.00% | ~1 |
+| Stack Overflow | 50.00% | ~1 |
+| Steaming Rich | 50.00% | ~1 |
+| Tutti Frutti | 50.00% | ~1 |
+| Up, Up And Away! | 50.00% | ~1 |
+| Whoa! | 50.00% | ~1 |
 | Accustomed Customer | 0.00% | ~0 |
 | Aristocratic | 0.00% | ~0 |
 | Click 'Em All | 0.00% | ~0 |
@@ -33,9 +33,10 @@
 | Systematic | 0.00% | ~0 |
 | Yup. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 710)  
+Progressed: 2 (Ranked 678)  
 Completed: 0 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-11-20 | 1 | 0 |
+| 2023-12-04 | 2 | 0 |

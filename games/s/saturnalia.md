@@ -1,7 +1,7 @@
 # Saturnalia
 [Store](https://store.epicgames.com/en-US/p/saturnalia)  
 [View Rawdata](../../db/s/saturnalia.json)  
-Rating: 4.26 (Ranked 872)  
+Rating: 4.26 (Ranked 871)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,10 +11,10 @@ Rating: 4.26 (Ranked 872)
 | Denial | 2.00% | ~1,379 |
 | Acceptance | 2.00% | ~1,379 |
 | Bargaining | 2.00% | ~1,379 |
-| Anger | 1.00% | ~689 |
-| Fear Of The Dark | 1.00% | ~689 |
-| Detective of the occult | 1.00% | ~689 |
-| Depression | 1.00% | ~689 |
+| Anger | 1.00% | ~690 |
+| Fear Of The Dark | 1.00% | ~690 |
+| Detective of the occult | 1.00% | ~690 |
+| Depression | 1.00% | ~690 |
 | Bless me Father... | 0.90% | ~621 |
 | Phone Bill | 0.80% | ~552 |
 | Power of Friendship | 0.70% | ~483 |
@@ -26,7 +26,7 @@ Rating: 4.26 (Ranked 872)
 | Are you still there? | 0.40% | ~276 |
 | Ear Ringing | 0.10% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,948 (Ranked 101)  
+Progressed: 68,950 (Ranked 101)  
 Completed: 18 (0.03%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 18 (0.03%) (Ranked 329)
 | 2023-12-01 | 68,855 | 18 |
 | 2023-12-02 | 68,882 | 18 |
 | 2023-12-03 | 68,938 | 18 |
-| 2023-12-04 | 68,948 | 18 |
+| 2023-12-04 | 68,950 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

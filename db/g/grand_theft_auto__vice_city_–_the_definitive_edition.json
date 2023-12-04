@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 446,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -895,9 +895,9 @@
       "Count": 113
     }
   ],
-  "EOS_Progressed": 11173,
+  "EOS_Progressed": 11174,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -13600,6 +13600,11 @@
       "Time": "2023-12-04T03:09:11.9102219+00:00",
       "NumProgressed": 11173,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-12-04T09:08:55.9713527+00:00",
+      "NumProgressed": 11174,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -13771,7 +13776,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 5251
+      "UsersEstimate": 5252
     },
     {
       "ID": "ACH22",
@@ -13779,7 +13784,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2346
+      "UsersEstimate": 2347
     },
     {
       "ID": "ACH23",
@@ -13882,7 +13887,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11173,
+      "Progressed": 11174,
       "Completed": 65
     }
   ],
@@ -13890,8 +13895,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-03T21:59:16.7157988+00:00",
-  "LastChanged_Achievements": "2023-12-04T08:08:57.8922312+00:00",
+  "LastChanged_Achievements": "2023-12-04T09:08:55.9713523+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:55.5499109+00:00",
-  "LastUpdate_Ratings": "2023-12-04T08:00:04.2740561+00:00",
-  "LastUpdate_Achievements": "2023-12-04T08:08:57.8923117+00:00"
+  "LastUpdate_Ratings": "2023-12-04T08:59:34.7708053+00:00",
+  "LastUpdate_Achievements": "2023-12-04T09:08:55.9714319+00:00"
 }
