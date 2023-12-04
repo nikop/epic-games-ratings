@@ -1,7 +1,7 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 449)  
+Rating: 4.58 (Ranked 448)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,612 (Ranked 64)  
+Progressed: 240,616 (Ranked 64)  
 Completed: 292 (0.12%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -373,16 +373,16 @@ Completed: 292 (0.12%) (Ranked 280)
 | 2023-12-01 | 240,480 | 291 |
 | 2023-12-02 | 240,522 | 291 |
 | 2023-12-03 | 240,591 | 292 |
-| 2023-12-04 | 240,612 | 292 |
+| 2023-12-04 | 240,616 | 292 |
 ## Awards
 Max (Quickly Understood Controls): 1,505  (Ranked 133)  
-Sum: 11,707 (Ranked 84)  
+Sum: 11,708 (Ranked 84)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,534 |
 | This game has Quickly Understood Controls | 1,505 |
-| This game is Relaxing | 1,437 |
+| This game is Relaxing | 1,438 |
 | This game has Challenging Combat | 1,436 |
 | This game is Extremely Fun | 1,417 |
 | This game is Highly Recommended | 1,386 |
@@ -615,4 +615,4 @@ Diff (max vs sum): 49
 | 2023-11-29 | 4.58 | - | 1,534 | 13,236 |
 | 2023-12-01 | 4.58 | - | 1,534 | 13,240 |
 | 2023-12-03 | 4.58 | - | 1,505 | 11,706 |
-| 2023-12-04 | 4.58 | - | 1,505 | 11,707 |
+| 2023-12-04 | 4.58 | - | 1,505 | 11,708 |

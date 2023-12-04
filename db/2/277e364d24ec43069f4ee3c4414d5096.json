@@ -2,7 +2,7 @@
   "ID": "277e364d24ec43069f4ee3c4414d5096",
   "Name": "Guacamelee! 2",
   "ProductSlug": "guacamelee-2-ac4977",
-  "Ranking_Rating": 421,
+  "Ranking_Rating": 420,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 85,
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 115877,
+  "EOS_Progressed": 115878,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 588,
+  "EOS_NewPlayers": 587,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -20119,6 +20119,11 @@
       "Time": "2023-12-04T17:10:07.3163263+00:00",
       "NumProgressed": 115877,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-12-04T18:09:20.4505639+00:00",
+      "NumProgressed": 115878,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 49,
@@ -20138,7 +20143,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 89225
+      "UsersEstimate": 89226
     },
     {
       "ID": "EAwards_10",
@@ -20202,7 +20207,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42874
+      "UsersEstimate": 42875
     },
     {
       "ID": "EAwards_18",
@@ -20234,7 +20239,7 @@
       "Name": "King of the Hill",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12746
+      "UsersEstimate": 12747
     },
     {
       "ID": "EAwards_21",
@@ -20282,7 +20287,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12746
+      "UsersEstimate": 12747
     },
     {
       "ID": "EAwards_27",
@@ -20314,7 +20319,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 23175
+      "UsersEstimate": 23176
     },
     {
       "ID": "EAwards_30",
@@ -20514,14 +20519,14 @@
       "Name": "Grapple Expert",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12746
+      "UsersEstimate": 12747
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 115877,
+      "Progressed": 115878,
       "Completed": 51
     }
   ],
@@ -20529,8 +20534,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-04T17:10:07.3163259+00:00",
+  "LastChanged_Achievements": "2023-12-04T18:09:20.4505636+00:00",
   "LastUpdate_AppInfo": "2023-12-01T05:57:06.5040385+00:00",
-  "LastUpdate_Ratings": "2023-12-04T17:01:43.6998845+00:00",
-  "LastUpdate_Achievements": "2023-12-04T17:10:07.3164356+00:00"
+  "LastUpdate_Ratings": "2023-12-04T18:00:09.1322775+00:00",
+  "LastUpdate_Achievements": "2023-12-04T18:09:20.4506905+00:00"
 }

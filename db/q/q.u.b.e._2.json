@@ -2,7 +2,7 @@
   "ID": "4b5f1eb366dc45f0920d397c01b291ba",
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
-  "Ranking_Rating": 695,
+  "Ranking_Rating": 696,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 119,
@@ -557,9 +557,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 42391,
+  "EOS_Progressed": 42395,
   "EOS_Completed": 188,
-  "EOS_NewPlayers": 974,
+  "EOS_NewPlayers": 968,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -9392,6 +9392,11 @@
       "Time": "2023-12-04T17:09:20.6643624+00:00",
       "NumProgressed": 42391,
       "NumCompleted": 188
+    },
+    {
+      "Time": "2023-12-04T18:08:38.032012+00:00",
+      "NumProgressed": 42395,
+      "NumCompleted": 188
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -9420,7 +9425,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 8054
+      "UsersEstimate": 8055
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -9540,7 +9545,7 @@
       "Name": "Infinity Loop",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 7206
+      "UsersEstimate": 7207
     },
     {
       "ID": "ACH_HUB1",
@@ -9548,7 +9553,7 @@
       "Name": "Mission Success",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 9750
+      "UsersEstimate": 9751
     },
     {
       "ID": "ACH_HUB2",
@@ -9556,7 +9561,7 @@
       "Name": "Path to Salvation",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7206
+      "UsersEstimate": 7207
     },
     {
       "ID": "ACH_OASIS",
@@ -9564,7 +9569,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 22043
+      "UsersEstimate": 22045
     },
     {
       "ID": "ACH_PEAK",
@@ -9572,7 +9577,7 @@
       "Name": "There\u0027s No Place Like Home",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 9326
+      "UsersEstimate": 9327
     },
     {
       "ID": "ACH_PROPELL",
@@ -9580,7 +9585,7 @@
       "Name": "To Infinity and Beyond",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2543
+      "UsersEstimate": 2544
     },
     {
       "ID": "ACH_REDEND",
@@ -9596,7 +9601,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 28826
+      "UsersEstimate": 28829
     },
     {
       "ID": "ACH_S4",
@@ -9604,7 +9609,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 21196
+      "UsersEstimate": 21198
     },
     {
       "ID": "ACH_S5",
@@ -9612,7 +9617,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 15261
+      "UsersEstimate": 15262
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -9620,7 +9625,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 31793
+      "UsersEstimate": 31796
     },
     {
       "ID": "ACH_STATUE",
@@ -9628,22 +9633,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 18228
+      "UsersEstimate": 18230
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 42391,
+      "Progressed": 42395,
       "Completed": 188
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-12-02T07:57:33.1539453+00:00",
-  "LastChanged_Achievements": "2023-12-04T17:09:20.6643621+00:00",
+  "LastChanged_Achievements": "2023-12-04T18:08:38.0320117+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:17.490773+00:00",
-  "LastUpdate_Ratings": "2023-12-04T17:00:15.6815513+00:00",
-  "LastUpdate_Achievements": "2023-12-04T17:09:20.6644232+00:00"
+  "LastUpdate_Ratings": "2023-12-04T17:59:11.1641433+00:00",
+  "LastUpdate_Achievements": "2023-12-04T18:08:38.0320658+00:00"
 }

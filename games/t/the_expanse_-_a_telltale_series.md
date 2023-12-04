@@ -13,8 +13,8 @@ Rating: 4.53 (Ranked 542)
 | Celebrations are in Order | 7.00% | ~1,112 |
 | Impossible Objects | 7.00% | ~1,112 |
 | Zen Master | 7.00% | ~129 |
-| Spore Taste | 6.00% | ~953 |
-| Martian Music | 6.00% | ~953 |
+| Spore Taste | 6.00% | ~954 |
+| Martian Music | 6.00% | ~954 |
 | Safe Cracker | 6.00% | ~111 |
 | Madame Undersecretary | 6.00% | ~111 |
 | Stogie for Fogey | 5.00% | ~795 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 542)
 | Scavenger Star | 0.10% | ~16 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,891 (Ranked 151)  
+Progressed: 15,892 (Ranked 151)  
 Completed: 40 (0.25%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 40 (0.25%) (Ranked 249)
 | 2023-12-01 | 15,822 | 39 |
 | 2023-12-02 | 15,842 | 39 |
 | 2023-12-03 | 15,879 | 40 |
-| 2023-12-04 | 15,891 | 40 |
+| 2023-12-04 | 15,892 | 40 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

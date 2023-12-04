@@ -7,7 +7,7 @@
 | The Camp | 58.00% | ~297 |
 | The Teleprobe | 46.00% | ~236 |
 | The City | 42.00% | ~215 |
-| The field base | 37.00% | ~189 |
+| The field base | 38.00% | ~195 |
 | Survivors | 30.00% | ~154 |
 | The Condor | 29.00% | ~148 |
 | The End | 28.00% | ~143 |
@@ -16,7 +16,7 @@
 | The Necroevolution | 21.00% | ~108 |
 | Peacemaker | 19.00% | ~97 |
 | Volcanologist | 19.00% | ~97 |
-| On her own | 15.00% | ~77 |
+| On her own | 16.00% | ~82 |
 | Beyond divisions | 15.00% | ~77 |
 | Evacuation | 14.00% | ~72 |
 | Fierce fight | 13.00% | ~67 |

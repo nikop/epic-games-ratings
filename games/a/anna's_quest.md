@@ -19,16 +19,16 @@
 | Mystery solved | 31.00% | ~26 |
 | Game Over! | 31.00% | ~26 |
 | Sorry Grandpa | 31.00% | ~26 |
+| Shattered | 29.00% | ~25 |
 | GG | 29.00% | ~25 |
 | NOW GO AWAY! | 29.00% | ~25 |
-| Shattered | 28.00% | ~24 |
 | You've got mail! | 28.00% | ~24 |
 | Beekeeper | 28.00% | ~24 |
 | Far away from home | 28.00% | ~24 |
 | Show me your true self | 27.00% | ~23 |
+| Memories | 27.00% | ~23 |
 | Mischief maker | 27.00% | ~23 |
 | No posters allowed | 27.00% | ~23 |
-| Memories | 26.00% | ~22 |
 | Little genius | 26.00% | ~22 |
 | Turn the last page | 24.00% | ~20 |
 | Pain in the hands | 24.00% | ~20 |

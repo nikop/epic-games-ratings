@@ -4,7 +4,7 @@
   "ProductSlug": "ash-of-gods-the-way-58bd36",
   "Ranking_EOS_Progress": 527,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 425,
+  "Ranking_EOS_NewPlayers": 426,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-04-27T11:00:00+00:00",
@@ -220,9 +220,9 @@
       "ID": "collect1",
       "SetID": "c64if4d",
       "Name": "Crimson rivers",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "collect2",
@@ -356,9 +356,9 @@
       "ID": "special10",
       "SetID": "c64if4d",
       "Name": "Rage",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "special11",
@@ -468,9 +468,9 @@
       "ID": "story12",
       "SetID": "c64if4d",
       "Name": "Help of the Gell",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "story13",
@@ -621,8 +621,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2023-12-04T17:09:05.241214+00:00",
+  "LastChanged_Achievements": "2023-12-04T18:08:27.2973798+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:23.1889916+00:00",
-  "LastUpdate_Ratings": "2023-12-04T16:57:16.5892723+00:00",
-  "LastUpdate_Achievements": "2023-12-04T17:09:05.2412443+00:00"
+  "LastUpdate_Ratings": "2023-12-04T17:57:16.1463031+00:00",
+  "LastUpdate_Achievements": "2023-12-04T18:08:27.2974075+00:00"
 }

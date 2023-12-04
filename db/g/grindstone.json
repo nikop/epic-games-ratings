@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 425,
+  "Ranking_EOS_NewPlayers": 388,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -213,9 +213,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5183,
+  "EOS_Progressed": 5184,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -908,6 +908,11 @@
       "Time": "2023-12-01T04:07:44.01495+00:00",
       "NumProgressed": 5183,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-04T18:04:25.466896+00:00",
+      "NumProgressed": 5184,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -959,7 +964,7 @@
       "Name": "Ghost Facers!",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1452
     },
     {
       "ID": "ACHIEVE_50_GOLD",
@@ -967,7 +972,7 @@
       "Name": "Goldrush Glory Days",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "ACHIEVE_50_GUTS",
@@ -983,7 +988,7 @@
       "Name": "Best Party Guest",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "ACHIEVE_50_IRON",
@@ -1021,9 +1026,9 @@
       "ID": "ACHIEVE_50_WOOD",
       "SetID": "b8l3p0g",
       "Name": "Timber!",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 3162
+      "UsersEstimate": 3110
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -1047,7 +1052,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5079
+      "UsersEstimate": 5080
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -1055,7 +1060,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3265
+      "UsersEstimate": 3266
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -1079,7 +1084,7 @@
       "Name": "The Fellowship",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACHIEVE_FIREMAN",
@@ -1127,7 +1132,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4043
+      "UsersEstimate": 4044
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1135,7 +1140,7 @@
       "Name": "If It Bleeds, You Can Kill It",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_20",
@@ -1159,7 +1164,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3213
+      "UsersEstimate": 3214
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -1191,7 +1196,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3058
+      "UsersEstimate": 3059
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -1207,7 +1212,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5079
+      "UsersEstimate": 5080
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1223,7 +1228,7 @@
       "Name": "Shrub it Off",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "ACHIEVE_LVL_90_COMPLETE",
@@ -1231,7 +1236,7 @@
       "Name": "It\u0027s Been a Blast",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "ACHIEVE_MIDAS",
@@ -1247,7 +1252,7 @@
       "Name": "For Rock and Stone!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "ACHIEVE_OKBOOMER_LAVA",
@@ -1303,22 +1308,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3680
+      "UsersEstimate": 3681
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5183,
+      "Progressed": 5184,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-12-04T17:05:11.4494978+00:00",
+  "LastChanged_Achievements": "2023-12-04T18:04:25.4668953+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:12.4422626+00:00",
-  "LastUpdate_Ratings": "2023-12-04T16:57:44.0239077+00:00",
-  "LastUpdate_Achievements": "2023-12-04T17:05:11.449527+00:00"
+  "LastUpdate_Ratings": "2023-12-04T17:57:33.865608+00:00",
+  "LastUpdate_Achievements": "2023-12-04T18:04:25.4669554+00:00"
 }

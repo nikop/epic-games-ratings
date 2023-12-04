@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 456,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2021-09-23T13:00:00+00:00",
@@ -515,9 +515,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 102423,
+  "EOS_Progressed": 102424,
   "EOS_Completed": 1035,
-  "EOS_NewPlayers": 1218,
+  "EOS_NewPlayers": 1214,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -26610,6 +26610,11 @@
       "Time": "2023-12-04T17:10:14.8810918+00:00",
       "NumProgressed": 102423,
       "NumCompleted": 1035
+    },
+    {
+      "Time": "2023-12-04T18:09:25.6717474+00:00",
+      "NumProgressed": 102424,
+      "NumCompleted": 1035
     }
   ],
   "TotalAchievements": 56,
@@ -26797,7 +26802,7 @@
       "Name": "Thread The Needle",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 15363
+      "UsersEstimate": 15364
     },
     {
       "ID": "ach_023_open_sandwyrm",
@@ -27068,15 +27073,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 102423,
+      "Progressed": 102424,
       "Completed": 1035
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-12-03T22:58:57.1479092+00:00",
-  "LastChanged_Achievements": "2023-12-04T17:10:14.8810914+00:00",
+  "LastChanged_Achievements": "2023-12-04T18:09:25.6717471+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:38.0200623+00:00",
-  "LastUpdate_Ratings": "2023-12-04T17:00:22.4131044+00:00",
-  "LastUpdate_Achievements": "2023-12-04T17:10:14.8812634+00:00"
+  "LastUpdate_Ratings": "2023-12-04T17:59:15.5799218+00:00",
+  "LastUpdate_Achievements": "2023-12-04T18:09:25.6718968+00:00"
 }

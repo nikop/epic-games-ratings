@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 3655,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 3658,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3285,10 +3285,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3241,
       "NumberOfAwardsMax": 441
+    },
+    {
+      "Time": "2023-12-04T17:58:07.9409359+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3242,
+      "NumberOfAwardsMax": 441
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3241,
+  "NumberOfAwards": 3242,
   "NumberOfAwardsMax": 441,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3326,7 +3332,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 422
+      "Count": 423
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3353,10 +3359,10 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 17600,
+  "EOS_Progressed": 17601,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 98,
-  "EOS_NewCompleters": -6,
+  "EOS_NewPlayers": 97,
+  "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -14743,6 +14749,11 @@
       "Time": "2023-12-04T17:09:33.6253123+00:00",
       "NumProgressed": 17600,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-04T18:08:46.9060981+00:00",
+      "NumProgressed": 17601,
+      "NumCompleted": 49
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -15033,9 +15044,9 @@
       "ID": "WinOnMarshlands",
       "SetID": "cfbk359",
       "Name": "The Marshlands",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 35
     },
     {
       "ID": "WinOnMoorlands",
@@ -15217,24 +15228,24 @@
       "ID": "WinWithFoxes",
       "SetID": "cfbk359",
       "Name": "Fox Utopia",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 35
     }
   ],
   "AchievementSets": [
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17600,
+      "Progressed": 17601,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-04T03:57:35.3652806+00:00",
-  "LastChanged_Achievements": "2023-12-04T17:09:33.6253119+00:00",
+  "LastChanged": "2023-12-04T17:58:07.9409357+00:00",
+  "LastChanged_Achievements": "2023-12-04T18:08:46.9060978+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:14.3162798+00:00",
-  "LastUpdate_Ratings": "2023-12-04T16:58:37.2550657+00:00",
-  "LastUpdate_Achievements": "2023-12-04T17:09:33.6253935+00:00"
+  "LastUpdate_Ratings": "2023-12-04T17:58:07.9409362+00:00",
+  "LastUpdate_Achievements": "2023-12-04T18:08:46.9061857+00:00"
 }

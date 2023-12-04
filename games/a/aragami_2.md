@@ -30,7 +30,7 @@ Number of Ratings: 88  (23.09.2022)
 | Family | 14.00% | ~6,188 |
 | War Engines | 14.00% | ~6,188 |
 | Signature Move | 14.00% | ~6,188 |
-| Ruse | 11.00% | ~4,862 |
+| Ruse | 12.00% | ~5,304 |
 | Master Ninja | 11.00% | ~4,862 |
 | Hatching | 10.00% | ~4,420 |
 | Bonds | 9.00% | ~3,978 |

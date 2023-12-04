@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -247,7 +247,7 @@
   "Tags": [],
   "EOS_Progressed": 44199,
   "EOS_Completed": 245,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -18619,9 +18619,9 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "db84117",
       "Name": "Ruse",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4862
+      "UsersEstimate": 5304
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -18940,8 +18940,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-03T18:02:47.0707275+00:00",
-  "LastChanged_Achievements": "2023-12-04T17:06:24.3997925+00:00",
+  "LastChanged_Achievements": "2023-12-04T18:05:16.196677+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:13.8521051+00:00",
-  "LastUpdate_Ratings": "2023-12-04T17:03:23.4595286+00:00",
-  "LastUpdate_Achievements": "2023-12-04T17:06:24.3999203+00:00"
+  "LastUpdate_Ratings": "2023-12-04T18:02:52.1730606+00:00",
+  "LastUpdate_Achievements": "2023-12-04T18:05:16.1967814+00:00"
 }

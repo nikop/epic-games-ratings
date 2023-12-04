@@ -2,8 +2,8 @@
   "ID": "6a9d6df3f6f74983a7d77861ccfcf50b",
   "Name": "Ranch Simulator",
   "ProductSlug": "ranch-simulator",
-  "Ranking_Rating": 695,
-  "Ranking_Popularity": 409,
+  "Ranking_Rating": 696,
+  "Ranking_Popularity": 408,
   "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 776,
   "Ranking_EOS_Completed": 366,
@@ -1206,11 +1206,17 @@
       "Rating": 4.43,
       "NumberOfAwards": 457,
       "NumberOfAwardsMax": 67
+    },
+    {
+      "Time": "2023-12-04T17:57:23.6733998+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 458,
+      "NumberOfAwardsMax": 68
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 457,
-  "NumberOfAwardsMax": 67,
+  "NumberOfAwards": 458,
+  "NumberOfAwardsMax": 68,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1223,7 +1229,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 67
+      "Count": 68
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1291,8 +1297,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:57.8144749+00:00",
-  "LastChanged": "2023-12-03T16:00:03.9003524+00:00",
+  "LastChanged": "2023-12-04T17:57:23.6733996+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:29.8897356+00:00",
-  "LastUpdate_Ratings": "2023-12-04T16:57:28.3772069+00:00",
-  "LastUpdate_Achievements": "2023-12-04T17:07:08.1078784+00:00"
+  "LastUpdate_Ratings": "2023-12-04T17:57:23.6734+00:00",
+  "LastUpdate_Achievements": "2023-12-04T18:05:46.2466713+00:00"
 }

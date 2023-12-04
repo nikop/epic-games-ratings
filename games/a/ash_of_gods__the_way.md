@@ -16,16 +16,16 @@
 | Vene, vidi, vici | 25.00% | ~9 |
 | Surpass the teacher | 22.00% | ~8 |
 | She-Wolf | 22.00% | ~8 |
-| Crimson rivers | 17.00% | ~6 |
+| Crimson rivers | 19.00% | ~7 |
+| Help of the Gell | 19.00% | ~7 |
 | Berkanan Borgia | 17.00% | ~6 |
 | Power of Inquisition | 17.00% | ~6 |
 | The champion of the arena | 17.00% | ~6 |
-| Help of the Gell | 17.00% | ~6 |
+| Rage | 14.00% | ~5 |
 | Protect the Healer! | 14.00% | ~5 |
 | Trial by cold | 14.00% | ~5 |
 | For the greater good | 11.00% | ~4 |
 | Overplay the rogue | 11.00% | ~4 |
-| Rage | 11.00% | ~4 |
 | Punish the Punisher | 11.00% | ~4 |
 | Collector | 8.00% | ~3 |
 | The best apprentice | 8.00% | ~3 |

@@ -22,7 +22,7 @@ Number of Ratings: 28  (23.09.2022)
 | Let's roll! | 27.00% | ~144 |
 | Ouroboros | 25.00% | ~133 |
 | Non Stop! | 24.00% | ~128 |
-| Foreman | 21.00% | ~112 |
+| Foreman | 22.00% | ~117 |
 | Russia | 20.00% | ~107 |
 | America | 19.00% | ~101 |
 | Missed it! | 19.00% | ~101 |

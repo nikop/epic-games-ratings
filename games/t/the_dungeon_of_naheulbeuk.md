@@ -1,24 +1,24 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 449)  
+Rating: 4.58 (Ranked 448)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~84,449 |
-| Alt+F4 | 9.00% | ~21,715 |
+| Sowwy! | 35.00% | ~84,452 |
+| Alt+F4 | 9.00% | ~21,716 |
 | Where's that freaking Dwarf? | 8.00% | ~19,303 |
 | Déjà vu | 7.00% | ~16,890 |
-| Sock! SOCK! | 5.00% | ~12,064 |
-| GG EZ | 5.00% | ~12,064 |
-| Speedrun | 5.00% | ~12,064 |
-| A beer, two curses, three companions | 4.00% | ~9,651 |
-| DM intervention | 4.00% | ~9,651 |
-| Fireproof Wizardess | 4.00% | ~9,651 |
-| Livin' in a dwarven paradise | 3.00% | ~7,238 |
-| Way of the Wimp | 3.00% | ~7,238 |
-| The plot thickens... At the tavern | 3.00% | ~7,238 |
+| Sock! SOCK! | 5.00% | ~12,065 |
+| GG EZ | 5.00% | ~12,065 |
+| Speedrun | 5.00% | ~12,065 |
+| A beer, two curses, three companions | 4.00% | ~9,652 |
+| DM intervention | 4.00% | ~9,652 |
+| Fireproof Wizardess | 4.00% | ~9,652 |
+| Livin' in a dwarven paradise | 3.00% | ~7,239 |
+| Way of the Wimp | 3.00% | ~7,239 |
+| The plot thickens... At the tavern | 3.00% | ~7,239 |
 | Shiny and Crôm | 2.00% | ~4,826 |
 | The demons' feast | 2.00% | ~4,826 |
 | The Great Library | 2.00% | ~4,826 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~241 |
 | Dwarf Candy | 0.10% | ~241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,282 (Ranked 63)  
+Progressed: 241,292 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 7 (0.00%) (Ranked 366)
 | 2023-12-01 | 240,719 | 7 |
 | 2023-12-02 | 240,910 | 7 |
 | 2023-12-03 | 241,176 | 7 |
-| 2023-12-04 | 241,282 | 7 |
+| 2023-12-04 | 241,292 | 7 |
 ## Awards
 Max (Character Customization): 241  (Ranked 272)  
 Sum: 488 (Ranked 329)  

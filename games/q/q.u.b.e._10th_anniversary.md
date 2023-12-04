@@ -1,24 +1,24 @@
 # Q.U.B.E. 10th Anniversary
 [Store](https://store.epicgames.com/en-US/p/qube-10th-anniversary-59e999)  
 [View Rawdata](../../db/q/q.u.b.e._10th_anniversary.json)  
-Rating: 4.43 (Ranked 695)  
+Rating: 4.44 (Ranked 678)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 25.00% | ~5,896 |
-| Sector 2 | 22.00% | ~5,188 |
-| Crush That Cube! | 19.00% | ~4,481 |
-| Sector 3 | 19.00% | ~4,481 |
-| Crush That Ball! | 15.00% | ~3,537 |
-| Sector 4 | 15.00% | ~3,537 |
-| Sector 5 | 10.00% | ~2,358 |
-| Sector 6 | 8.00% | ~1,887 |
-| Feeling the Blues | 7.00% | ~1,651 |
-| Squished | 6.00% | ~1,415 |
-| Finale | 6.00% | ~1,415 |
-| Sector 7 | 6.00% | ~1,415 |
-| Did That Work? -- No! | 5.00% | ~1,179 |
-| Master Room | 3.00% | ~707 |
+| Sector 1 | 25.00% | ~5,899 |
+| Sector 2 | 22.00% | ~5,191 |
+| Crush That Cube! | 19.00% | ~4,483 |
+| Sector 3 | 19.00% | ~4,483 |
+| Crush That Ball! | 15.00% | ~3,539 |
+| Sector 4 | 15.00% | ~3,539 |
+| Sector 5 | 10.00% | ~2,360 |
+| Sector 6 | 8.00% | ~1,888 |
+| Feeling the Blues | 7.00% | ~1,652 |
+| Squished | 6.00% | ~1,416 |
+| Finale | 6.00% | ~1,416 |
+| Sector 7 | 6.00% | ~1,416 |
+| Did That Work? -- No! | 5.00% | ~1,180 |
+| Master Room | 3.00% | ~708 |
 | Bronze Trophy | 2.00% | ~472 |
 | Phew! | 2.00% | ~472 |
 | The Puzzle Master | 2.00% | ~472 |
@@ -30,7 +30,7 @@ Rating: 4.43 (Ranked 695)
 | Silver Trophy | 1.00% | ~236 |
 | Maxed Out | 1.00% | ~236 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,583 (Ranked 137)  
+Progressed: 23,596 (Ranked 137)  
 Completed: 133 (0.56%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 133 (0.56%) (Ranked 200)
 | 2023-12-01 | 23,078 | 126 |
 | 2023-12-02 | 23,248 | 129 |
 | 2023-12-03 | 23,480 | 133 |
-| 2023-12-04 | 23,583 | 133 |
+| 2023-12-04 | 23,596 | 133 |
 ## Awards
 Max (Challenging Puzzles): 22  (Ranked 540)  
 Sum: 22 (Ranked 542)  
@@ -126,4 +126,4 @@ Diff (max vs sum): -2
 | 2023-11-30 | 4.46 | 21 | 21 |
 | 2023-12-02 | 4.45 | 21 | 21 |
 | 2023-12-03 | 4.44 | 22 | 22 |
-| 2023-12-04 | 4.43 | 22 | 22 |
+| 2023-12-04 | 4.44 | 22 | 22 |

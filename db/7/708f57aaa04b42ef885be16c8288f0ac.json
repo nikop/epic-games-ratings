@@ -2,7 +2,7 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_Rating": 147,
+  "Ranking_Rating": 157,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 178,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.75,
+  "Rating": 4.74,
   "RatingHistory": [
     {
       "Time": "2023-10-30T17:01:05.4334371+00:00",
@@ -177,13 +177,19 @@
       "Rating": 4.75,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-04T17:58:34.5541177+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7412,
+  "EOS_Progressed": 7415,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 559,
   "EOS_NewCompleters": 6,
@@ -5513,6 +5519,11 @@
       "Time": "2023-12-04T17:10:19.2530802+00:00",
       "NumProgressed": 7412,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-04T18:09:28.8343923+00:00",
+      "NumProgressed": 7415,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5549,7 +5560,7 @@
       "Name": "Bikemaggedon",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ChewingTheScenery",
@@ -5563,9 +5574,9 @@
       "ID": "ConnectionLost",
       "SetID": "acc6ea0",
       "Name": "Connection Lost",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1038
+      "UsersEstimate": 964
     },
     {
       "ID": "Eavesdropper",
@@ -5581,7 +5592,7 @@
       "Name": "Explosive Personality",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "FasterThanLight",
@@ -5597,7 +5608,7 @@
       "Name": "First Time?",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2149
+      "UsersEstimate": 2150
     },
     {
       "ID": "FuneralForTheDeath",
@@ -5629,7 +5640,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -5637,7 +5648,7 @@
       "Name": "He Just Wanted To Help",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "JackOfAllTrades",
@@ -5741,7 +5752,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "UnResurrected",
@@ -5757,7 +5768,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -5796,16 +5807,16 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7412,
+      "Progressed": 7415,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged": "2023-12-03T17:57:51.312762+00:00",
-  "LastChanged_Achievements": "2023-12-04T17:10:19.2530798+00:00",
+  "LastChanged": "2023-12-04T17:58:34.5541174+00:00",
+  "LastChanged_Achievements": "2023-12-04T18:09:28.8343919+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-04T16:59:17.9658073+00:00",
-  "LastUpdate_Achievements": "2023-12-04T17:10:19.2531296+00:00"
+  "LastUpdate_Ratings": "2023-12-04T17:58:34.5541184+00:00",
+  "LastUpdate_Achievements": "2023-12-04T18:09:28.8344393+00:00"
 }

@@ -6,33 +6,34 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~10,692 |
-| It wakes | 1.00% | ~10,692 |
-| Skillful | 1.00% | ~10,692 |
-| Not half bad | 0.90% | ~9,623 |
-| Apt Survivor | 0.80% | ~8,554 |
-| Survival Treasures | 0.80% | ~8,554 |
-| I | 0.80% | ~8,554 |
-| Make Some Noise | 0.80% | ~8,554 |
-| Handyman | 0.70% | ~7,484 |
-| Sorted | 0.70% | ~7,484 |
-| The Grand Sacrifice | 0.60% | ~6,415 |
-| No one left behind | 0.60% | ~6,415 |
-| Medic | 0.60% | ~6,415 |
-| Bloody Millionaire | 0.60% | ~6,415 |
-| Healthy Obsession | 0.60% | ~6,415 |
-| Resurgence | 0.60% | ~6,415 |
-| Preemptive Strike | 0.60% | ~6,415 |
-| Humanitarian | 0.60% | ~6,415 |
-| Agonizing Escape | 0.50% | ~5,346 |
-| Backdoor Escape | 0.50% | ~5,346 |
-| I've got your back | 0.50% | ~5,346 |
-| Perfect Escape | 0.50% | ~5,346 |
-| Perfect Killing | 0.50% | ~5,346 |
-| II | 0.50% | ~5,346 |
-| Close Shave | 0.50% | ~5,346 |
+| Zealous | 1.00% | ~10,694 |
+| It wakes | 1.00% | ~10,694 |
+| Skillful | 1.00% | ~10,694 |
+| Not half bad | 0.90% | ~9,624 |
+| Apt Survivor | 0.80% | ~8,555 |
+| Survival Treasures | 0.80% | ~8,555 |
+| I | 0.80% | ~8,555 |
+| Make Some Noise | 0.80% | ~8,555 |
+| Handyman | 0.70% | ~7,485 |
+| Sorted | 0.70% | ~7,485 |
+| Resurgence | 0.70% | ~7,485 |
+| The Grand Sacrifice | 0.60% | ~6,416 |
+| No one left behind | 0.60% | ~6,416 |
+| Medic | 0.60% | ~6,416 |
+| Bloody Millionaire | 0.60% | ~6,416 |
+| Healthy Obsession | 0.60% | ~6,416 |
+| Preemptive Strike | 0.60% | ~6,416 |
+| Humanitarian | 0.60% | ~6,416 |
+| Agonizing Escape | 0.50% | ~5,347 |
+| Backdoor Escape | 0.50% | ~5,347 |
+| I've got your back | 0.50% | ~5,347 |
+| Perfect Escape | 0.50% | ~5,347 |
+| Perfect Killing | 0.50% | ~5,347 |
+| Risk it all | 0.50% | ~5,347 |
+| II | 0.50% | ~5,347 |
+| Close Shave | 0.50% | ~5,347 |
 | Apt Killer | 0.40% | ~4,277 |
-| Risk it all | 0.40% | ~4,277 |
+| Vulture | 0.40% | ~4,277 |
 | III | 0.40% | ~4,277 |
 | Engineer | 0.40% | ~4,277 |
 | Wounded Healer | 0.40% | ~4,277 |
@@ -40,7 +41,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Escape Artist | 0.30% | ~3,208 |
 | Nerves of steel | 0.30% | ~3,208 |
 | Gifts for the Fog | 0.30% | ~3,208 |
-| Vulture | 0.30% | ~3,208 |
 | III-50 | 0.30% | ~3,208 |
 | Cherish your Life | 0.30% | ~3,208 |
 | Unforgettable Getaway | 0.30% | ~3,208 |
@@ -55,37 +55,37 @@ Number of Ratings: 70,340  (23.09.2022)
 | Lifting The Fog | 0.30% | ~3,208 |
 | Chorus of Chaos | 0.30% | ~3,208 |
 | Second Act | 0.30% | ~3,208 |
-| A bite for the Entity | 0.20% | ~2,138 |
-| Blood on your face | 0.20% | ~2,138 |
-| Made it out alive! | 0.20% | ~2,138 |
-| Hemophobia | 0.20% | ~2,138 |
-| Shock Therapy | 0.20% | ~2,138 |
-| All Aboard | 0.20% | ~2,138 |
-| Leapfrog | 0.20% | ~2,138 |
-| Item of Obsession | 0.20% | ~2,138 |
-| House of Pain | 0.20% | ~2,138 |
-| Cottage Owner | 0.20% | ~2,138 |
-| Serial Killer | 0.20% | ~2,138 |
-| Escaping the Nightmare | 0.20% | ~2,138 |
-| Holiday Get-Together | 0.20% | ~2,138 |
-| Near-Death Experience | 0.20% | ~2,138 |
-| Campbell's Chapel Legacy | 0.20% | ~2,138 |
-| Ancestor's Rite | 0.20% | ~2,138 |
-| Devoted Gatekeeping | 0.20% | ~2,138 |
-| Shrine Apparatus | 0.20% | ~2,138 |
-| Cutting Out | 0.20% | ~2,138 |
-| Outrun Evil | 0.20% | ~2,138 |
-| Grim Pilgrimage | 0.20% | ~2,138 |
-| Selfless Survival | 0.20% | ~2,138 |
-| End of Days | 0.20% | ~2,138 |
-| Insult and Injury | 0.20% | ~2,138 |
-| Outrun the Overlap | 0.20% | ~2,138 |
-| A Fast Death | 0.20% | ~2,138 |
-| Rebuilding The Borgo | 0.20% | ~2,138 |
-| Extraterrestrial | 0.20% | ~2,138 |
-| One More Step | 0.20% | ~2,138 |
-| MU/TH/UR Dearest | 0.20% | ~2,138 |
-| Outta Nowhere | 0.20% | ~2,138 |
+| A bite for the Entity | 0.20% | ~2,139 |
+| Blood on your face | 0.20% | ~2,139 |
+| Made it out alive! | 0.20% | ~2,139 |
+| Hemophobia | 0.20% | ~2,139 |
+| Shock Therapy | 0.20% | ~2,139 |
+| All Aboard | 0.20% | ~2,139 |
+| Leapfrog | 0.20% | ~2,139 |
+| Item of Obsession | 0.20% | ~2,139 |
+| House of Pain | 0.20% | ~2,139 |
+| Cottage Owner | 0.20% | ~2,139 |
+| Serial Killer | 0.20% | ~2,139 |
+| Escaping the Nightmare | 0.20% | ~2,139 |
+| Holiday Get-Together | 0.20% | ~2,139 |
+| Near-Death Experience | 0.20% | ~2,139 |
+| Campbell's Chapel Legacy | 0.20% | ~2,139 |
+| Ancestor's Rite | 0.20% | ~2,139 |
+| Devoted Gatekeeping | 0.20% | ~2,139 |
+| Shrine Apparatus | 0.20% | ~2,139 |
+| Cutting Out | 0.20% | ~2,139 |
+| Outrun Evil | 0.20% | ~2,139 |
+| Grim Pilgrimage | 0.20% | ~2,139 |
+| Selfless Survival | 0.20% | ~2,139 |
+| End of Days | 0.20% | ~2,139 |
+| Insult and Injury | 0.20% | ~2,139 |
+| Outrun the Overlap | 0.20% | ~2,139 |
+| A Fast Death | 0.20% | ~2,139 |
+| Rebuilding The Borgo | 0.20% | ~2,139 |
+| Extraterrestrial | 0.20% | ~2,139 |
+| One More Step | 0.20% | ~2,139 |
+| MU/TH/UR Dearest | 0.20% | ~2,139 |
+| Outta Nowhere | 0.20% | ~2,139 |
 | A feast for the Entity | 0.10% | ~1,069 |
 | Blood in your mouth | 0.10% | ~1,069 |
 | Cripple them all | 0.10% | ~1,069 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Joke’s On You | 0.10% | ~1,069 |
 | Adept Good Guy | 0.10% | ~1,069 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,069,192 (Ranked 14)  
+Progressed: 1,069,352 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -467,10 +467,10 @@ Completed: 61 (0.01%) (Ranked 345)
 | 2023-12-01 | 1,059,298 | 61 |
 | 2023-12-02 | 1,062,340 | 61 |
 | 2023-12-03 | 1,067,390 | 61 |
-| 2023-12-04 | 1,069,192 | 61 |
+| 2023-12-04 | 1,069,352 | 61 |
 ## Awards
 Max (Diverse Characters): 37,218  (Ranked 15)  
-Sum: 282,770 (Ranked 12)  
+Sum: 282,837 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -482,7 +482,7 @@ Diff (max vs sum): 3
 | This game has Challenging Combat | 31,271 |
 | This game has Quickly Understood Controls | 30,545 |
 | This game has Amazing Storytelling | 28,884 |
-| This game has a Competitive Community | 27,543 |
+| This game has a Competitive Community | 27,610 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
 ## Ratings History
@@ -802,4 +802,4 @@ Diff (max vs sum): 3
 | 2023-12-01 | 4.51 | - | 37,031 | 281,537 |
 | 2023-12-02 | 4.51 | - | 37,095 | 281,803 |
 | 2023-12-03 | 4.51 | - | 37,218 | 282,346 |
-| 2023-12-04 | 4.51 | - | 37,218 | 282,770 |
+| 2023-12-04 | 4.51 | - | 37,218 | 282,837 |

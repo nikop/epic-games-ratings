@@ -29,9 +29,9 @@
 | True Legends | 40.00% | ~431 |
 | Family | 39.00% | ~420 |
 | Biggest Snowball Ever | 39.00% | ~420 |
+| Freeze The Ice Witch | 39.00% | ~420 |
 | Boosted! | 39.00% | ~420 |
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~420 |
-| Freeze The Ice Witch | 38.00% | ~410 |
 | Bullseye | 37.00% | ~399 |
 | It Is Not Over | 36.00% | ~388 |
 | On The Rocks | 35.00% | ~377 |

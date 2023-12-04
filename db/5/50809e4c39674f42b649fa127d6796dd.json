@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 413,
+  "EOS_Progressed": 414,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -997,6 +997,11 @@
       "Time": "2023-12-04T16:09:25.1620443+00:00",
       "NumProgressed": 413,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-04T18:08:41.0883015+00:00",
+      "NumProgressed": 414,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1103,9 +1108,9 @@
       "ID": "FIRST_METEOR_SHOWER",
       "SetID": "apihg0e",
       "Name": "Celestial Rain",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 87
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -1137,7 +1142,7 @@
       "Name": "Ticket to Tranquility",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "GET_FISH_ALL",
@@ -1201,7 +1206,7 @@
       "Name": "The Journey Begins",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1328,14 +1333,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 413,
+      "Progressed": 414,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-04T17:09:25.0249152+00:00",
+  "LastChanged_Achievements": "2023-12-04T18:08:41.0883012+00:00",
   "LastUpdate_AppInfo": "2023-11-28T17:56:55.9843317+00:00",
-  "LastUpdate_Ratings": "2023-12-04T17:03:19.1815364+00:00",
-  "LastUpdate_Achievements": "2023-12-04T17:09:25.0249439+00:00"
+  "LastUpdate_Ratings": "2023-12-04T18:02:49.5258998+00:00",
+  "LastUpdate_Achievements": "2023-12-04T18:08:41.0883255+00:00"
 }

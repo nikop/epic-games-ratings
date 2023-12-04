@@ -20,7 +20,7 @@ Number of Ratings: 43  (23.09.2022)
 | Silver-Tongued Sable | 16.00% | ~16,388 |
 | Sticky Paws | 16.00% | ~16,388 |
 | Bubble Up | 16.00% | ~16,388 |
-| Thread The Needle | 15.00% | ~15,363 |
+| Thread The Needle | 15.00% | ~15,364 |
 | Power to the People | 14.00% | ~14,339 |
 | Nesting Giant | 14.00% | ~14,339 |
 | Take That! | 13.00% | ~13,315 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~3,073 |
 | Vivacious Vivarium | 2.00% | ~2,048 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102,423 (Ranked 88)  
+Progressed: 102,424 (Ranked 88)  
 Completed: 1,035 (1.01%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 1,035 (1.01%) (Ranked 167)
 | 2023-12-01 | 101,851 | 1,032 |
 | 2023-12-02 | 102,050 | 1,033 |
 | 2023-12-03 | 102,316 | 1,034 |
-| 2023-12-04 | 102,423 | 1,035 |
+| 2023-12-04 | 102,424 | 1,035 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 521)  
 Sum: 94 (Ranked 456)  

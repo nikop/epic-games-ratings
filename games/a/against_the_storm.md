@@ -14,10 +14,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ominous Presence | 2.00% | ~352 |
 | Gathering Storm | 2.00% | ~352 |
 | Untamed Wilds | 1.00% | ~176 |
-| The Marshlands | 0.30% | ~53 |
 | Taking Action | 0.30% | ~53 |
 | No Deaths | 0.30% | ~53 |
-| Fox Utopia | 0.30% | ~53 |
 | First Real Expedition | 0.20% | ~35 |
 | Overcoming Difficulty | 0.20% | ~35 |
 | Ruined Armory | 0.20% | ~35 |
@@ -28,8 +26,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Corrosive Torrent | 0.20% | ~35 |
 | Watchtower | 0.20% | ~35 |
 | Coral Forest | 0.20% | ~35 |
+| The Marshlands | 0.20% | ~35 |
 | The Scarlet Orchard | 0.20% | ~35 |
 | Trade Baron | 0.20% | ~35 |
+| Fox Utopia | 0.20% | ~35 |
 | Serving Ale | 0.10% | ~18 |
 | Feeding The People | 0.10% | ~18 |
 | Higher Needs | 0.10% | ~18 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.00% | ~0 |
 | Treasure | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,600 (Ranked 146)  
+Progressed: 17,601 (Ranked 146)  
 Completed: 49 (0.28%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,16 +294,16 @@ Completed: 49 (0.28%) (Ranked 243)
 | 2023-12-01 | 17,557 | 49 |
 | 2023-12-02 | 17,567 | 49 |
 | 2023-12-03 | 17,585 | 49 |
-| 2023-12-04 | 17,600 | 49 |
+| 2023-12-04 | 17,601 | 49 |
 ## Awards
 Max (Quickly Understood Controls): 441  (Ranked 223)  
-Sum: 3,241 (Ranked 173)  
+Sum: 3,242 (Ranked 173)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 441 |
 | This game is Relaxing | 431 |
-| This game is Great for Beginners | 422 |
+| This game is Great for Beginners | 423 |
 | This game is Extremely Fun | 409 |
 | This game is Highly Recommended | 391 |
 | This game has Unique Visuals | 328 |
@@ -558,4 +558,4 @@ Diff (max vs sum): 50
 | 2023-12-01 | 4.81 | - | 441 | 3,237 |
 | 2023-12-02 | 4.81 | - | 441 | 3,238 |
 | 2023-12-03 | 4.81 | - | 441 | 3,239 |
-| 2023-12-04 | 4.82 | - | 441 | 3,241 |
+| 2023-12-04 | 4.82 | - | 441 | 3,242 |
