@@ -7,10 +7,10 @@
 | Small town | 12.00% | ~48 |
 | I like parks | 11.00% | ~44 |
 | The spiritual world... | 7.00% | ~28 |
+| The woodcutter | 6.00% | ~24 |
 | It is nice to share with friends in the city | 6.00% | ~24 |
 | Sport is good for you | 6.00% | ~24 |
 | I like books | 5.00% | ~20 |
-| The woodcutter | 5.00% | ~20 |
 | Soviet town | 5.00% | ~20 |
 | I like my life | 4.00% | ~16 |
 | Clean energy | 4.00% | ~16 |
@@ -85,7 +85,7 @@
 | Welfare state | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 401 (Ranked 331)  
-Completed: 0 (0.00%) (Ranked 366)  
+Completed: 0 (0.00%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

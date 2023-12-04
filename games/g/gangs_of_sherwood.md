@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | Act of Kindness | 89.00% | ~50 |
 | Air Fighter | 86.00% | ~48 |
+| Treasure Hunter | 71.00% | ~40 |
 | Oo-De-Lally | 70.00% | ~39 |
-| Treasure Hunter | 70.00% | ~39 |
 | The Altruist | 70.00% | ~39 |
-| Watch your Step! | 57.00% | ~32 |
-| Tap Dancing | 55.00% | ~31 |
+| Watch your Step! | 59.00% | ~33 |
+| Tap Dancing | 57.00% | ~32 |
 | MAX LEVEL | 55.00% | ~31 |
 | Right between the eyes | 52.00% | ~29 |
 | Spring Board | 50.00% | ~28 |
@@ -59,7 +59,7 @@
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 56 (Ranked 494)  
-Completed: 0 (0.00%) (Ranked 366)  
+Completed: 0 (0.00%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

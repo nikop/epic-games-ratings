@@ -2,10 +2,10 @@
   "ID": "40257023d2d44231ac722108f30ab717",
   "Name": "Orten Was The Case",
   "ProductSlug": "orten-was-the-case-d108fb",
-  "Ranking_EOS_Progress": 604,
-  "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_Progress": 598,
+  "Ranking_EOS_Completed": 53,
+  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-29T00:00:00+00:00",
     "PcReleaseDate": "2023-11-29T00:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12,
+  "EOS_Progressed": 13,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.33,
+  "EOS_Completed_Percentage": 7.69,
   "EosHistory": [
     {
       "Time": "2023-10-30T17:05:12.224578+00:00",
@@ -94,6 +94,11 @@
       "Time": "2023-12-03T08:08:55.5247618+00:00",
       "NumProgressed": 12,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-04T21:09:28.6024221+00:00",
+      "NumProgressed": 13,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-25T12:03:08.1004675+00:00",
@@ -104,7 +109,7 @@
       "ID": "ABOTHEABOMINATION",
       "SetID": "51l0gl8",
       "Name": "Abo The Abomination",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -128,7 +133,7 @@
       "ID": "FLASHBACK",
       "SetID": "51l0gl8",
       "Name": "Flashback",
-      "Percentage": 50,
+      "Percentage": 46,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -152,7 +157,7 @@
       "ID": "HOOPDREAMS",
       "SetID": "51l0gl8",
       "Name": "Hoop Dreams",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -160,7 +165,7 @@
       "ID": "KINGOFTHELINE",
       "SetID": "51l0gl8",
       "Name": "King Of The Line",
-      "Percentage": 25,
+      "Percentage": 23,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -176,7 +181,7 @@
       "ID": "MONSTERSLAYER",
       "SetID": "51l0gl8",
       "Name": "Monster Slayer",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -184,7 +189,7 @@
       "ID": "POSSESSED",
       "SetID": "51l0gl8",
       "Name": "Possessed",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -200,7 +205,7 @@
       "ID": "SPIDERSLAYER",
       "SetID": "51l0gl8",
       "Name": "Spider Slayer",
-      "Percentage": 25,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -208,7 +213,7 @@
       "ID": "THEEND",
       "SetID": "51l0gl8",
       "Name": "The End",
-      "Percentage": 50,
+      "Percentage": 46,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -233,14 +238,14 @@
     {
       "ID": "51l0gl8",
       "IsBase": true,
-      "Progressed": 12,
+      "Progressed": 13,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-03T01:50:41.1036238+00:00",
   "FirstSeenAchievements": "2023-10-25T12:03:08.1004674+00:00",
-  "LastChanged_Achievements": "2023-12-04T20:08:52.4548509+00:00",
+  "LastChanged_Achievements": "2023-12-04T21:09:28.6024218+00:00",
   "LastUpdate_AppInfo": "2023-11-29T13:56:57.5675213+00:00",
-  "LastUpdate_Ratings": "2023-12-04T19:57:24.9844714+00:00",
-  "LastUpdate_Achievements": "2023-12-04T20:08:52.4548631+00:00"
+  "LastUpdate_Ratings": "2023-12-04T20:57:32.5884637+00:00",
+  "LastUpdate_Achievements": "2023-12-04T21:09:28.602433+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Knowledge Party",
   "ProductSlug": "knowledge-party-0f7f62",
   "Ranking_EOS_Progress": 778,
-  "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 484,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_Completed": 367,
+  "Ranking_EOS_NewPlayers": 483,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-28T10:57:06.9665912+00:00",
-  "LastUpdate_Ratings": "2023-12-04T19:59:17.6932464+00:00",
-  "LastUpdate_Achievements": "2023-12-04T20:05:37.0849309+00:00"
+  "LastUpdate_Ratings": "2023-12-04T21:00:07.8876685+00:00",
+  "LastUpdate_Achievements": "2023-12-04T21:06:22.6377437+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "43acebbd46cd4aac956ad049c10c603a",
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
-  "Ranking_Rating": 33,
+  "Ranking_Rating": 24,
   "Ranking_Popularity": 451,
   "Ranking_PopularitySum": 495,
   "Ranking_EOS_Progress": 272,
-  "Ranking_EOS_Completed": 283,
+  "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.86,
+  "Rating": 4.87,
   "RatingHistory": [
     {
       "Time": "2023-11-08T20:00:37.8164591+00:00",
@@ -173,6 +173,12 @@
       "Rating": 4.86,
       "NumberOfAwards": 44,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-12-04T20:58:58.9737824+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 44,
+      "NumberOfAwardsMax": 44
     }
   ],
   "ReviewsDisabled": false,
@@ -187,7 +193,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 871,
+  "EOS_Progressed": 872,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
@@ -2052,6 +2058,11 @@
       "Time": "2023-12-04T18:05:16.7144938+00:00",
       "NumProgressed": 871,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-04T21:06:24.3388299+00:00",
+      "NumProgressed": 872,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2078,9 +2089,9 @@
       "ID": "AnthropicHills",
       "SetID": "1n308hc",
       "Name": "Anthropic Hills",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 26
     },
     {
       "ID": "Archaeologist",
@@ -2126,9 +2137,9 @@
       "ID": "ChasingTheLight",
       "SetID": "1n308hc",
       "Name": "Chasing the Light",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 61
     },
     {
       "ID": "Chicken",
@@ -2286,9 +2297,9 @@
       "ID": "MuseumVisitor",
       "SetID": "1n308hc",
       "Name": "Museum Visitor",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 96
     },
     {
       "ID": "NewBeginning",
@@ -2350,9 +2361,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 113
     },
     {
       "ID": "RenaissanceRobot",
@@ -2535,16 +2546,16 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 871,
+      "Progressed": 872,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-03T01:41:58.8670455+00:00",
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
-  "LastChanged": "2023-12-04T13:58:50.2802075+00:00",
-  "LastChanged_Achievements": "2023-12-04T20:05:38.3708052+00:00",
+  "LastChanged": "2023-12-04T20:58:58.9737822+00:00",
+  "LastChanged_Achievements": "2023-12-04T21:06:24.3388295+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-04T19:58:27.7699884+00:00",
-  "LastUpdate_Achievements": "2023-12-04T20:05:38.3708506+00:00"
+  "LastUpdate_Ratings": "2023-12-04T20:58:58.9737835+00:00",
+  "LastUpdate_Achievements": "2023-12-04T21:06:24.338892+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Thunder Ray",
   "ProductSlug": "thunder-ray-e9a2e3",
   "Ranking_EOS_Progress": 560,
-  "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_Completed": 367,
+  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-14T12:00:00+00:00",
     "PcReleaseDate": "2023-09-14T12:00:00+00:00",
@@ -231,8 +231,8 @@
   ],
   "FirstSeen": "2023-10-21T23:58:29.5927099+00:00",
   "FirstSeenAchievements": "2023-09-02T00:00:26.8543865+00:00",
-  "LastChanged_Achievements": "2023-12-04T20:09:30.0061669+00:00",
+  "LastChanged_Achievements": "2023-12-04T21:10:04.3242118+00:00",
   "LastUpdate_AppInfo": "2023-12-02T04:57:13.8444175+00:00",
-  "LastUpdate_Ratings": "2023-12-04T20:00:07.3186647+00:00",
-  "LastUpdate_Achievements": "2023-12-04T20:09:30.0061762+00:00"
+  "LastUpdate_Ratings": "2023-12-04T21:01:14.6220175+00:00",
+  "LastUpdate_Achievements": "2023-12-04T21:10:04.3242209+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
-  "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_Completed": 269,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11511,7 +11511,7 @@
       "Count": 835
     }
   ],
-  "EOS_Progressed": 303930,
+  "EOS_Progressed": 303933,
   "EOS_Completed": 521,
   "EOS_NewPlayers": 524,
   "EOS_NewCompleters": 3,
@@ -36091,6 +36091,11 @@
       "Time": "2023-12-04T20:09:48.351289+00:00",
       "NumProgressed": 303930,
       "NumCompleted": 521
+    },
+    {
+      "Time": "2023-12-04T21:10:27.5570376+00:00",
+      "NumProgressed": 303933,
+      "NumCompleted": 521
     }
   ],
   "TotalAchievements": 45,
@@ -36110,7 +36115,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33432
+      "UsersEstimate": 33433
     },
     {
       "ID": "PFA_11",
@@ -36118,7 +36123,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33432
+      "UsersEstimate": 33433
     },
     {
       "ID": "PFA_12",
@@ -36134,7 +36139,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 33432
+      "UsersEstimate": 33433
     },
     {
       "ID": "PFA_14",
@@ -36150,7 +36155,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24314
+      "UsersEstimate": 24315
     },
     {
       "ID": "PFA_16",
@@ -36166,7 +36171,7 @@
       "Name": "Beast Friends",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24314
+      "UsersEstimate": 24315
     },
     {
       "ID": "PFA_18",
@@ -36182,7 +36187,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 24314
+      "UsersEstimate": 24315
     },
     {
       "ID": "PFA_2",
@@ -36190,7 +36195,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15196
+      "UsersEstimate": 15197
     },
     {
       "ID": "PFA_20",
@@ -36206,7 +36211,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33432
+      "UsersEstimate": 33433
     },
     {
       "ID": "PFA_22",
@@ -36358,7 +36363,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33432
+      "UsersEstimate": 33433
     },
     {
       "ID": "PFA_4",
@@ -36366,7 +36371,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15196
+      "UsersEstimate": 15197
     },
     {
       "ID": "PFA_40",
@@ -36382,7 +36387,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 15196
+      "UsersEstimate": 15197
     },
     {
       "ID": "PFA_42",
@@ -36438,7 +36443,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42550
+      "UsersEstimate": 42551
     },
     {
       "ID": "PFA_8",
@@ -36461,7 +36466,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303930,
+      "Progressed": 303933,
       "Completed": 521
     }
   ],
@@ -36469,8 +36474,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-04T19:59:39.6588617+00:00",
-  "LastChanged_Achievements": "2023-12-04T20:09:48.3512886+00:00",
+  "LastChanged_Achievements": "2023-12-04T21:10:27.5570372+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-04T19:59:39.6588623+00:00",
-  "LastUpdate_Achievements": "2023-12-04T20:09:48.3514464+00:00"
+  "LastUpdate_Ratings": "2023-12-04T21:00:37.3954699+00:00",
+  "LastUpdate_Achievements": "2023-12-04T21:10:27.5571729+00:00"
 }

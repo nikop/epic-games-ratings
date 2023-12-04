@@ -5,7 +5,7 @@ Rating: 4.75 (Ranked 147)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 0.80% | ~1,878 |
+| The Killing Jar | 0.80% | ~1,879 |
 | Regicide | 0.80% | ~112 |
 | First of Many | 0.70% | ~1,644 |
 | Master of the Dark Arts | 0.70% | ~98 |
@@ -26,20 +26,20 @@ Rating: 4.75 (Ranked 147)
 | Make Some Room | 0.40% | ~939 |
 | Good, But Could Be Better! | 0.40% | ~939 |
 | Trait Chaser | 0.40% | ~939 |
-| Chaos | 0.30% | ~704 |
-| Traitor | 0.30% | ~704 |
-| Forever is a Long Time Coming | 0.30% | ~704 |
-| Power Surge | 0.30% | ~704 |
-| The God Gambit | 0.30% | ~704 |
-| Dark Designs | 0.30% | ~704 |
-| Madman's Paradise | 0.30% | ~704 |
-| Shhh...It's a Secret | 0.30% | ~704 |
-| Was This Supposed To Happen? | 0.30% | ~704 |
-| Edgelord | 0.30% | ~704 |
-| The Web | 0.30% | ~704 |
-| Scrap Collector | 0.30% | ~704 |
-| Scrap Hoarder | 0.30% | ~704 |
-| All These Traits� | 0.30% | ~704 |
+| Chaos | 0.30% | ~705 |
+| Traitor | 0.30% | ~705 |
+| Forever is a Long Time Coming | 0.30% | ~705 |
+| Power Surge | 0.30% | ~705 |
+| The God Gambit | 0.30% | ~705 |
+| Dark Designs | 0.30% | ~705 |
+| Madman's Paradise | 0.30% | ~705 |
+| Shhh...It's a Secret | 0.30% | ~705 |
+| Was This Supposed To Happen? | 0.30% | ~705 |
+| Edgelord | 0.30% | ~705 |
+| The Web | 0.30% | ~705 |
+| Scrap Collector | 0.30% | ~705 |
+| Scrap Hoarder | 0.30% | ~705 |
+| All These Traits� | 0.30% | ~705 |
 | Crafty | 0.20% | ~470 |
 | Ghost in the Machine | 0.20% | ~470 |
 | Only Human | 0.20% | ~470 |
@@ -61,8 +61,8 @@ Rating: 4.75 (Ranked 147)
 | Red Room | 0.10% | ~235 |
 | A Foul Feast | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,799 (Ranked 68)  
-Completed: 557 (0.24%) (Ranked 250)  
+Progressed: 234,839 (Ranked 68)  
+Completed: 558 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -202,10 +202,10 @@ Completed: 557 (0.24%) (Ranked 250)
 | 2023-12-01 | 232,269 | 546 |
 | 2023-12-02 | 233,162 | 548 |
 | 2023-12-03 | 234,204 | 554 |
-| 2023-12-04 | 234,799 | 557 |
+| 2023-12-04 | 234,839 | 558 |
 ## Awards
 Max (Great Boss Battles): 2,623  (Ranked 102)  
-Sum: 6,476 (Ranked 128)  
+Sum: 6,481 (Ranked 128)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
@@ -219,7 +219,7 @@ Diff (max vs sum): -26
 | This game has Amazing Characters | 390 |
 | This game has Quickly Understood Controls | 385 |
 | This game has Unique Visuals | 337 |
-| This game has a Creative Community | 287 |
+| This game has a Creative Community | 292 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -354,4 +354,4 @@ Diff (max vs sum): -26
 | 2023-12-01 | 4.75 | 2,558 | 6,266 |
 | 2023-12-02 | 4.75 | 2,577 | 6,336 |
 | 2023-12-03 | 4.75 | 2,603 | 6,405 |
-| 2023-12-04 | 4.75 | 2,623 | 6,476 |
+| 2023-12-04 | 4.75 | 2,623 | 6,481 |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 274,
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 152,
-  "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_Completed": 330,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2094,9 +2094,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15634,
+  "EOS_Progressed": 15636,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17124,6 +17124,11 @@
       "Time": "2023-12-04T19:05:38.3215198+00:00",
       "NumProgressed": 15634,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-04T21:05:47.9123766+00:00",
+      "NumProgressed": 15636,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -17759,7 +17764,7 @@
       "Name": "Settler",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -17981,9 +17986,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_CLERICS",
       "SetID": "7l38kb8",
       "Name": "Clerics",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 156
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_HUNTERS",
@@ -18887,7 +18892,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -19870,21 +19875,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15634,
+      "Progressed": 15636,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15634,
+      "Progressed": 15636,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-04T06:01:34.3370181+00:00",
-  "LastChanged_Achievements": "2023-12-04T20:05:10.7778836+00:00",
+  "LastChanged_Achievements": "2023-12-04T21:05:47.9123762+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:20.3030051+00:00",
-  "LastUpdate_Ratings": "2023-12-04T19:57:17.6478555+00:00",
-  "LastUpdate_Achievements": "2023-12-04T20:05:10.7788978+00:00"
+  "LastUpdate_Ratings": "2023-12-04T20:57:22.5635314+00:00",
+  "LastUpdate_Achievements": "2023-12-04T21:05:47.9134746+00:00"
 }

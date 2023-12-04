@@ -9,10 +9,10 @@
 | Creator of Life | 84.00% | ~218 |
 | Creator of Diversity | 73.00% | ~190 |
 | Similar to Similar | 71.00% | ~185 |
-| Creator of Humanity | 66.00% | ~172 |
+| Creator of Humanity | 67.00% | ~174 |
 | Creator of Civilization | 40.00% | ~104 |
 | Creator of Technology | 25.00% | ~65 |
-| Honorable Santa | 21.00% | ~55 |
+| Honorable Santa | 22.00% | ~57 |
 | God of Fun | 18.00% | ~47 |
 | Creator of Modernity | 17.00% | ~44 |
 | Deity of Darkness | 17.00% | ~44 |
@@ -28,7 +28,7 @@
 | God of Patience | 3.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 260 (Ranked 371)  
-Completed: 8 (3.08%) (Ranked 103)  
+Completed: 8 (3.08%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

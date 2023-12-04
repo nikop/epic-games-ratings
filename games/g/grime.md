@@ -10,8 +10,8 @@ Number of Ratings: 46  (23.09.2022)
 | Imprint | 0.40% | ~645 |
 | The Hunt | 0.30% | ~484 |
 | Ravenous | 0.30% | ~484 |
-| Weeper | 0.20% | ~322 |
-| Devourer | 0.20% | ~322 |
+| Weeper | 0.20% | ~323 |
+| Devourer | 0.20% | ~323 |
 | Spiral Heart | 0.10% | ~161 |
 | Bloodhunter | 0.10% | ~161 |
 | Skinmaker | 0.10% | ~161 |
@@ -53,8 +53,8 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~161 |
 | Intensify | 0.10% | ~161 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 161,249 (Ranked 78)  
-Completed: 188 (0.12%) (Ranked 280)  
+Progressed: 161,256 (Ranked 78)  
+Completed: 189 (0.12%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -258,10 +258,10 @@ Completed: 188 (0.12%) (Ranked 280)
 | 2023-12-01 | 160,762 | 100 |
 | 2023-12-02 | 160,919 | 135 |
 | 2023-12-03 | 161,134 | 172 |
-| 2023-12-04 | 161,249 | 188 |
+| 2023-12-04 | 161,256 | 189 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 424)  
-Sum: 394 (Ranked 345)  
+Sum: 396 (Ranked 345)  
 Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
@@ -269,8 +269,8 @@ Diff (max vs sum): 79
 | This game has Quickly Understood Controls | 54 |
 | This game has Unique Visuals | 54 |
 | This game has Amazing Storytelling | 53 |
+| This game is Extremely Fun | 51 |
 | This game has Challenging Combat | 49 |
-| This game is Extremely Fun | 49 |
 | This game has Amazing Characters | 42 |
 | This game has a Creative Community | 39 |
 | This game has Diverse Characters | 20 |
@@ -429,4 +429,4 @@ Diff (max vs sum): 79
 | 2023-12-01 | 4.58 | - | 54 | 390 |
 | 2023-12-02 | 4.59 | - | 54 | 391 |
 | 2023-12-03 | 4.59 | - | 54 | 392 |
-| 2023-12-04 | 4.59 | - | 54 | 394 |
+| 2023-12-04 | 4.59 | - | 54 | 396 |

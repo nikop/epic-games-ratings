@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 92.00% | ~501 |
-| Training Simulation | 78.00% | ~425 |
-| Kuku Bird Hunter | 63.00% | ~343 |
+| Travel Streamer | 92.00% | ~502 |
+| Training Simulation | 78.00% | ~426 |
+| Kuku Bird Hunter | 63.00% | ~344 |
 | Storm Traveller | 57.00% | ~311 |
-| Wolf King Killer | 52.00% | ~283 |
-| Fashion Connoisseur | 50.00% | ~272 |
+| Wolf King Killer | 52.00% | ~284 |
+| Fashion Connoisseur | 50.00% | ~273 |
 | Arms Mechanic | 46.00% | ~251 |
-| Flower Thief | 41.00% | ~223 |
-| Apostle of Flame | 37.00% | ~202 |
-| Beginner Artificer | 36.00% | ~196 |
+| Flower Thief | 41.00% | ~224 |
+| Beginner Artificer | 36.00% | ~197 |
+| Apostle of Flame | 36.00% | ~197 |
 | Beginner Cook | 35.00% | ~191 |
 | Seal Breaker | 31.00% | ~169 |
 | Handyman | 27.00% | ~147 |
 | Giant Lizard Killer | 26.00% | ~142 |
 | Guardian | 25.00% | ~136 |
 | Nosebleeder | 25.00% | ~136 |
-| Trader | 21.00% | ~114 |
+| Trader | 21.00% | ~115 |
 | Weapon Boost | 20.00% | ~109 |
 | Flying Kobold Killer | 17.00% | ~93 |
-| Youth Magnet | 17.00% | ~93 |
+| Youth Magnet | 16.00% | ~87 |
+| Master Artificer | 16.00% | ~87 |
 | Furious Scorpion Killer | 15.00% | ~82 |
 | Lethal Blade Mantis Killer | 15.00% | ~82 |
 | Squeaky Clean | 15.00% | ~82 |
-| Master Artificer | 15.00% | ~82 |
 | Kind Adventurer | 13.00% | ~71 |
 | Mermaid Killer | 13.00% | ~71 |
-| Cave Master | 12.00% | ~65 |
-| Face Slapper | 12.00% | ~65 |
+| Cave Master | 12.00% | ~66 |
+| Face Slapper | 12.00% | ~66 |
 | Boss challenge | 8.00% | ~44 |
 | Berserker Slayer | 8.00% | ~44 |
 | Master Cook | 7.00% | ~38 |
@@ -50,8 +50,8 @@
 | Giantess Challenge | 1.00% | ~5 |
 | Warden Challenge | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 545 (Ranked 308)  
-Completed: 1 (0.18%) (Ranked 265)  
+Progressed: 546 (Ranked 308)  
+Completed: 1 (0.18%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -141,7 +141,7 @@ Completed: 1 (0.18%) (Ranked 265)
 | 2023-12-01 | 471 | 1 |
 | 2023-12-02 | 496 | 1 |
 | 2023-12-03 | 527 | 1 |
-| 2023-12-04 | 545 | 1 |
+| 2023-12-04 | 546 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

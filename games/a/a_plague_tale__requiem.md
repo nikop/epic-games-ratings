@@ -5,7 +5,7 @@ Rating: 4.73 (Ranked 169)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~12,945 |
+| Under a New Sun | 93.00% | ~13,086 |
 | Newcomers | 79.00% | ~11,116 |
 | A Burden of Blood | 74.00% | ~10,413 |
 | Protector's Duty | 71.00% | ~9,990 |
@@ -42,7 +42,7 @@ Rating: 4.73 (Ranked 169)
 | Malignant | 1.00% | ~141 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 14,071 (Ranked 156)  
-Completed: 55 (0.39%) (Ranked 224)  
+Completed: 55 (0.39%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

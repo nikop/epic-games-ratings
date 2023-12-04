@@ -14,15 +14,15 @@
 | Pulp! Terror Tales in the Night | 13.00% | ~6 |
 | The happy farmer girl | 13.00% | ~6 |
 | A rival with no options | 11.00% | ~5 |
+| The artist | 11.00% | ~5 |
 | The seer | 11.00% | ~5 |
-| The artist | 9.00% | ~4 |
+| Pulp! Out of this World | 9.00% | ~4 |
 | Kirlian's best disciple | 9.00% | ~4 |
 | You have two wishes left | 9.00% | ~4 |
 | You had one wish left | 7.00% | ~3 |
 | Bread and bocaua | 7.00% | ~3 |
 | Fanatacism is... poisonous | 7.00% | ~3 |
 | The adventurer | 7.00% | ~3 |
-| Pulp! Out of this World | 7.00% | ~3 |
 | Pulp! Adventures into the Unknown | 7.00% | ~3 |
 | ECO mode | 7.00% | ~3 |
 | Diagnosis: fear | 7.00% | ~3 |
@@ -53,7 +53,7 @@
 | A new Hindenburg | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 46 (Ranked 507)  
-Completed: 0 (0.00%) (Ranked 366)  
+Completed: 0 (0.00%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

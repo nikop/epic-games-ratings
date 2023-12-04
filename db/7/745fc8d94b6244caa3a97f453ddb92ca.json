@@ -3,9 +3,9 @@
   "Name": "Project Nightmares Case 36: Henrietta Kedward",
   "ProductSlug": "project-nightmares-dcc54b",
   "Ranking_EOS_Progress": 554,
-  "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 423,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_Completed": 367,
+  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-08-10T13:00:00+00:00",
     "PcReleaseDate": "2023-08-10T13:00:00+00:00",
@@ -221,9 +221,9 @@
       "ID": "ACH_PUZZLEMASTER",
       "SetID": "9675gi1",
       "Name": "Puzzle Master",
-      "Percentage": 5,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_SECUNDARIA_MASK",
@@ -316,8 +316,8 @@
   ],
   "FirstSeen": "2023-08-13T20:57:41.0534986+00:00",
   "FirstSeenAchievements": "2023-07-27T13:10:49.3119111+00:00",
-  "LastChanged_Achievements": "2023-12-04T20:04:26.4652663+00:00",
+  "LastChanged_Achievements": "2023-12-04T21:04:48.3864478+00:00",
   "LastUpdate_AppInfo": "2023-12-01T01:53:59.9894594+00:00",
-  "LastUpdate_Ratings": "2023-12-04T20:00:28.2206156+00:00",
-  "LastUpdate_Achievements": "2023-12-04T20:04:26.4652801+00:00"
+  "LastUpdate_Ratings": "2023-12-04T21:01:43.0841456+00:00",
+  "LastUpdate_Achievements": "2023-12-04T21:04:48.3864626+00:00"
 }

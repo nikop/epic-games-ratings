@@ -3,9 +3,9 @@
   "Name": "Blanc",
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 210,
-  "Ranking_EOS_Completed": 263,
+  "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3238,
+  "EOS_Progressed": 3241,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
@@ -4856,6 +4856,11 @@
       "Time": "2023-12-04T20:05:38.7734623+00:00",
       "NumProgressed": 3238,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-04T21:06:24.8687402+00:00",
+      "NumProgressed": 3241,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -4891,7 +4896,7 @@
       "Name": "Helping the little ones",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "MOVE_ON",
@@ -4931,7 +4936,7 @@
       "Name": "Starting as a duo",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -4939,7 +4944,7 @@
       "Name": "Stronger together",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "THE_END",
@@ -4955,7 +4960,7 @@
       "Name": "Transmission",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -4963,14 +4968,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3238,
+      "Progressed": 3241,
       "Completed": 6
     }
   ],
@@ -4978,8 +4983,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-04T20:05:38.7734618+00:00",
+  "LastChanged_Achievements": "2023-12-04T21:06:24.8687398+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:22.6950578+00:00",
-  "LastUpdate_Ratings": "2023-12-04T19:59:02.0196211+00:00",
-  "LastUpdate_Achievements": "2023-12-04T20:05:38.7734931+00:00"
+  "LastUpdate_Ratings": "2023-12-04T20:59:46.006149+00:00",
+  "LastUpdate_Achievements": "2023-12-04T21:06:24.8687866+00:00"
 }

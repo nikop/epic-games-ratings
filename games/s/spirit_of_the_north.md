@@ -6,33 +6,33 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 69.00% | ~52,409 |
-| INFUSED WITH LIGHT | 53.00% | ~40,256 |
-| FOXIN' AROUND | 29.00% | ~22,027 |
-| FETCH | 28.00% | ~21,267 |
-| BLOOMS OF LIGHT | 26.00% | ~19,748 |
-| AWAKEN | 22.00% | ~16,710 |
-| BEST FRIENDS | 22.00% | ~16,710 |
+| A GUARDIAN FORGOTTEN | 69.00% | ~52,412 |
+| INFUSED WITH LIGHT | 53.00% | ~40,258 |
+| FOXIN' AROUND | 29.00% | ~22,028 |
+| FETCH | 28.00% | ~21,269 |
+| BLOOMS OF LIGHT | 26.00% | ~19,749 |
+| AWAKEN | 22.00% | ~16,711 |
+| BEST FRIENDS | 22.00% | ~16,711 |
 | ERADICATE | 21.00% | ~15,951 |
 | SPIRIT BARK | 21.00% | ~15,951 |
-| GARDEN OF LIGHT | 18.00% | ~13,672 |
-| SPIRIT FORM | 17.00% | ~12,912 |
+| GARDEN OF LIGHT | 18.00% | ~13,673 |
+| SPIRIT FORM | 17.00% | ~12,913 |
 | UPROOTING DARKNESS | 16.00% | ~12,153 |
 | WRITTEN IN STONE | 16.00% | ~12,153 |
 | WEIGHTLESS | 12.00% | ~9,115 |
 | SPIRIT DASH | 11.00% | ~8,355 |
 | OLD COMPANION | 9.00% | ~6,836 |
 | PLAGUE DOCTOR | 9.00% | ~6,836 |
-| MATCH MAKER | 8.00% | ~6,076 |
-| NORTHERN LIGHTS | 8.00% | ~6,076 |
-| SPIRITED AWAY | 8.00% | ~6,076 |
+| MATCH MAKER | 8.00% | ~6,077 |
+| NORTHERN LIGHTS | 8.00% | ~6,077 |
+| SPIRITED AWAY | 8.00% | ~6,077 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~3,038 |
 | ANCIENT HISTORY | 3.00% | ~2,279 |
 | NONE FORGOTTEN | 2.00% | ~1,519 |
 | KINDRED SPIRITS | 0.60% | ~456 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,955 (Ranked 100)  
-Completed: 407 (0.54%) (Ranked 203)  
+Progressed: 75,959 (Ranked 100)  
+Completed: 407 (0.54%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -259,7 +259,7 @@ Completed: 407 (0.54%) (Ranked 203)
 | 2023-12-01 | 75,676 | 404 |
 | 2023-12-02 | 75,762 | 404 |
 | 2023-12-03 | 75,899 | 407 |
-| 2023-12-04 | 75,955 | 407 |
+| 2023-12-04 | 75,959 | 407 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 521)  
 Sum: 115 (Ranked 444)  

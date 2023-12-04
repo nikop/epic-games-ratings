@@ -6,9 +6,9 @@
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 61,
-  "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_Completed": 367,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251865,
+  "EOS_Progressed": 251866,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20482,6 +20482,11 @@
       "Time": "2023-12-04T19:09:59.1301236+00:00",
       "NumProgressed": 251865,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-04T21:10:04.101271+00:00",
+      "NumProgressed": 251866,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -20669,7 +20674,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133488
+      "UsersEstimate": 133489
     },
     {
       "ID": "indegestible",
@@ -20733,7 +20738,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125932
+      "UsersEstimate": 125933
     },
     {
       "ID": "notScared",
@@ -20797,7 +20802,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55410
+      "UsersEstimate": 55411
     },
     {
       "ID": "thunderstruck",
@@ -20813,7 +20818,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32742
+      "UsersEstimate": 32743
     },
     {
       "ID": "treeMedalist",
@@ -20853,14 +20858,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40298
+      "UsersEstimate": 40299
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251865,
+      "Progressed": 251866,
       "Completed": 6
     }
   ],
@@ -20868,8 +20873,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-04T20:09:29.7741287+00:00",
+  "LastChanged_Achievements": "2023-12-04T21:10:04.1012706+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.4245998+00:00",
-  "LastUpdate_Ratings": "2023-12-04T19:58:06.2436617+00:00",
-  "LastUpdate_Achievements": "2023-12-04T20:09:29.7742553+00:00"
+  "LastUpdate_Ratings": "2023-12-04T20:58:28.7948747+00:00",
+  "LastUpdate_Achievements": "2023-12-04T21:10:04.1013692+00:00"
 }

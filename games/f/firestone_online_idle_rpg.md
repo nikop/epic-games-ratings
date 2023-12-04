@@ -5,19 +5,19 @@ Rating: 4.05 (Ranked 991)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,823 |
-| World Map | 78.00% | ~2,367 |
-| Temple of Eternals | 57.00% | ~1,730 |
-| Prestigious | 53.00% | ~1,609 |
-| Fellowship Power | 42.00% | ~1,275 |
-| Guild Power | 24.00% | ~728 |
-| Prestigious x10 | 21.00% | ~637 |
+| Victor | 93.00% | ~2,824 |
+| World Map | 78.00% | ~2,369 |
+| Temple of Eternals | 57.00% | ~1,731 |
+| Prestigious | 53.00% | ~1,610 |
+| Fellowship Power | 42.00% | ~1,276 |
+| Guild Power | 24.00% | ~729 |
+| Prestigious x10 | 21.00% | ~638 |
 | Full Party | 20.00% | ~607 |
 | The game is on | 19.00% | ~577 |
 | Exotic Merchant | 17.00% | ~516 |
 | Dragon Clicker | 16.00% | ~486 |
-| Inspection | 15.00% | ~455 |
-| Miner Clicker | 15.00% | ~455 |
+| Inspection | 15.00% | ~456 |
+| Miner Clicker | 15.00% | ~456 |
 | Enlightenment | 14.00% | ~425 |
 | Hero inspection | 14.00% | ~425 |
 | Dragon Master | 13.00% | ~395 |
@@ -39,10 +39,10 @@ Rating: 4.05 (Ranked 991)
 | Frostfire Liberator | 8.00% | ~243 |
 | Moving Up The Ladder | 8.00% | ~243 |
 | Relic Of The Past | 8.00% | ~243 |
-| Here We Go Again | 7.00% | ~212 |
-| Master Enchanter | 7.00% | ~212 |
-| The father of Dragons | 7.00% | ~212 |
-| Trader | 7.00% | ~212 |
+| Here We Go Again | 7.00% | ~213 |
+| Master Enchanter | 7.00% | ~213 |
+| The father of Dragons | 7.00% | ~213 |
+| Trader | 7.00% | ~213 |
 | Blueprint Upgrades | 6.00% | ~182 |
 | Crystal Mining | 6.00% | ~182 |
 | Dragon Slayer | 6.00% | ~182 |
@@ -81,8 +81,8 @@ Rating: 4.05 (Ranked 991)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,035 (Ranked 212)  
-Completed: 2 (0.07%) (Ranked 306)  
+Progressed: 3,037 (Ranked 212)  
+Completed: 2 (0.07%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -304,11 +304,11 @@ Completed: 2 (0.07%) (Ranked 306)
 | 2023-12-01 | 2,917 | 2 |
 | 2023-12-02 | 2,955 | 2 |
 | 2023-12-03 | 3,010 | 2 |
-| 2023-12-04 | 3,035 | 2 |
+| 2023-12-04 | 3,037 | 2 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 476)  
-Sum: 137 (Ranked 432)  
-Diff (max vs sum): 44  
+Sum: 157 (Ranked 427)  
+Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |
@@ -316,6 +316,7 @@ Diff (max vs sum): 44
 | This game has Diverse Characters | 25 |
 | This game has Playful Visuals | 25 |
 | This game is Highly Recommended | 20 |
+| This game has a Kind Community | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -387,3 +388,4 @@ Diff (max vs sum): 44
 | 2023-11-28 | 4.04 | 34 | 134 |
 | 2023-12-01 | 4.03 | 35 | 135 |
 | 2023-12-03 | 4.05 | 36 | 137 |
+| 2023-12-04 | 4.05 | 36 | 157 |

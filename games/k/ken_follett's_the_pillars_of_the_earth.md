@@ -8,14 +8,14 @@ Number of Ratings: 368  (23.09.2022)
 | ---- | ---------- | ----- |
 | Tattletale | 40.00% | ~6,740 |
 | Man of politics | 34.00% | ~5,729 |
-| Friends of sorts | 33.00% | ~5,560 |
-| Yet another secret | 33.00% | ~5,560 |
+| Friends of sorts | 33.00% | ~5,561 |
+| Yet another secret | 33.00% | ~5,561 |
 | Let there be darkness | 32.00% | ~5,392 |
-| End of Book One | 29.00% | ~4,886 |
+| End of Book One | 29.00% | ~4,887 |
 | Garden of Eden | 24.00% | ~4,044 |
 | Wannabe knight | 23.00% | ~3,876 |
 | Full house | 23.00% | ~3,876 |
-| Help an old friend | 21.00% | ~3,538 |
+| Help an old friend | 21.00% | ~3,539 |
 | Two of us | 20.00% | ~3,370 |
 | Negotiation skills | 18.00% | ~3,033 |
 | Workers' union | 18.00% | ~3,033 |
@@ -23,24 +23,24 @@ Number of Ratings: 368  (23.09.2022)
 | Everything's in order | 16.00% | ~2,696 |
 | Twist of Fate | 14.00% | ~2,359 |
 | Jack was here! | 14.00% | ~2,359 |
-| Exterminator | 13.00% | ~2,190 |
+| Exterminator | 13.00% | ~2,191 |
 | Whodunnit | 12.00% | ~2,022 |
 | First profit | 11.00% | ~1,854 |
 | Good midwife | 10.00% | ~1,685 |
 | Friar Tuck | 10.00% | ~1,685 |
 | Team player | 10.00% | ~1,685 |
-| Skilled merchant | 9.00% | ~1,516 |
-| Nothing but make-believe | 9.00% | ~1,516 |
-| Brother Marcus | 9.00% | ~1,516 |
-| The oath | 9.00% | ~1,516 |
-| The truth revealed | 9.00% | ~1,516 |
-| The End. | 9.00% | ~1,516 |
+| Skilled merchant | 9.00% | ~1,517 |
+| Nothing but make-believe | 9.00% | ~1,517 |
+| Brother Marcus | 9.00% | ~1,517 |
+| The oath | 9.00% | ~1,517 |
+| The truth revealed | 9.00% | ~1,517 |
+| The End. | 9.00% | ~1,517 |
 | A cry for help | 8.00% | ~1,348 |
 | Silentium est aureum | 7.00% | ~1,180 |
 | Rebel without a cause | 6.00% | ~1,011 |
-| Staring contest champion | 5.00% | ~842 |
-| Lone wolf | 5.00% | ~842 |
-| Vox Populi | 5.00% | ~842 |
+| Staring contest champion | 5.00% | ~843 |
+| Lone wolf | 5.00% | ~843 |
+| Vox Populi | 5.00% | ~843 |
 | Revenge | 4.00% | ~674 |
 | Countess Aliena | 4.00% | ~674 |
 | Care, like a brother cares | 3.00% | ~506 |
@@ -48,8 +48,8 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~506 |
 | Boy of mystery | 2.00% | ~337 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,850 (Ranked 148)  
-Completed: 116 (0.69%) (Ranked 186)  
+Progressed: 16,851 (Ranked 148)  
+Completed: 116 (0.69%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -276,7 +276,7 @@ Completed: 116 (0.69%) (Ranked 186)
 | 2023-12-01 | 16,781 | 116 |
 | 2023-12-02 | 16,806 | 116 |
 | 2023-12-03 | 16,840 | 116 |
-| 2023-12-04 | 16,850 | 116 |
+| 2023-12-04 | 16,851 | 116 |
 ## Awards
 Max (Easy Puzzles): 155  (Ranked 318)  
 Sum: 198 (Ranked 402)  

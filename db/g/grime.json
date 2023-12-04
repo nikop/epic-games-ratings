@@ -6,7 +6,7 @@
   "Ranking_Popularity": 424,
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 78,
-  "Ranking_EOS_Completed": 280,
+  "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -1559,10 +1559,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 394,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2023-12-04T21:01:04.808408+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 396,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 394,
+  "NumberOfAwards": 396,
   "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1594,7 +1600,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 49
+      "Count": 51
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1621,10 +1627,10 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 161249,
-  "EOS_Completed": 188,
-  "EOS_NewPlayers": 866,
-  "EOS_NewCompleters": 187,
+  "EOS_Progressed": 161256,
+  "EOS_Completed": 189,
+  "EOS_NewPlayers": 862,
+  "EOS_NewCompleters": 188,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
     {
@@ -17986,6 +17992,11 @@
       "Time": "2023-12-04T20:05:49.6607646+00:00",
       "NumProgressed": 161249,
       "NumCompleted": 188
+    },
+    {
+      "Time": "2023-12-04T21:06:38.9061833+00:00",
+      "NumProgressed": 161256,
+      "NumCompleted": 189
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -18070,7 +18081,7 @@
       "Name": "Weeper",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -18198,7 +18209,7 @@
       "Name": "Devourer",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -18365,21 +18376,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 160832,
+      "Progressed": 160839,
       "Completed": 1232
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 161249,
-      "Completed": 188
+      "Progressed": 161256,
+      "Completed": 189
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-12-04T10:59:17.8249231+00:00",
-  "LastChanged_Achievements": "2023-12-04T20:05:49.6607642+00:00",
+  "LastChanged": "2023-12-04T21:01:04.8084079+00:00",
+  "LastChanged_Achievements": "2023-12-04T21:06:38.9061829+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:51.7108111+00:00",
-  "LastUpdate_Ratings": "2023-12-04T20:00:00.5488758+00:00",
-  "LastUpdate_Achievements": "2023-12-04T20:05:49.6608992+00:00"
+  "LastUpdate_Ratings": "2023-12-04T21:01:04.8084084+00:00",
+  "LastUpdate_Achievements": "2023-12-04T21:06:38.9063172+00:00"
 }

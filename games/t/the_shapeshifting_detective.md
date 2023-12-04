@@ -9,7 +9,7 @@
 | Play Me By The Hour | 69.00% | ~172 |
 | Patient Listener | 47.00% | ~117 |
 | Video Saved The Radio Star | 39.00% | ~97 |
-| Hashtag Winning | 37.00% | ~92 |
+| Hashtag Winning | 38.00% | ~95 |
 | A Woman Scorned | 28.00% | ~70 |
 | Chameleon | 22.00% | ~55 |
 | Look Mum I'm A Detective | 21.00% | ~52 |
@@ -20,14 +20,14 @@
 | Voyeur | 11.00% | ~27 |
 | Oscar Winning Performance | 10.00% | ~25 |
 | Put A Ring On It | 10.00% | ~25 |
+| Chicken | 8.00% | ~20 |
 | Heavy Rayne | 8.00% | ~20 |
-| Chicken | 7.00% | ~17 |
 | Show Me Some Skin | 5.00% | ~12 |
 | The Big Sleep | 5.00% | ~12 |
 | Bullseye | 4.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 249 (Ranked 374)  
-Completed: 2 (0.80%) (Ranked 182)  
+Completed: 2 (0.80%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

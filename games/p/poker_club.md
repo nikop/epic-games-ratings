@@ -1,25 +1,25 @@
 # Poker Club
 [Store](https://store.epicgames.com/en-US/p/poker-club-6e18ee)  
 [View Rawdata](../../db/p/poker_club.json)  
-Rating: 3.82 (Ranked 1,036)  
+Rating: 3.83 (Ranked 1,034)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~411,466 |
-| Handy | 42.00% | ~227,389 |
-| Cold Caller | 40.00% | ~216,561 |
-| A Bit On The Side | 27.00% | ~146,179 |
-| Backdoor | 25.00% | ~135,351 |
+| Pro Creation | 76.00% | ~411,469 |
+| Handy | 42.00% | ~227,391 |
+| Cold Caller | 40.00% | ~216,562 |
+| A Bit On The Side | 27.00% | ~146,180 |
+| Backdoor | 25.00% | ~135,352 |
 | Rank Amateur | 22.00% | ~119,109 |
 | Three Way | 19.00% | ~102,867 |
-| Deadly Assassin | 16.00% | ~86,624 |
-| Gutshot | 14.00% | ~75,796 |
-| Risk It For A Biscuit | 14.00% | ~75,796 |
-| Showoff | 13.00% | ~70,382 |
-| W.H.I.P. | 12.00% | ~64,968 |
-| Bet Bet Bet | 10.00% | ~54,140 |
-| Blindman's Bluff | 9.00% | ~48,726 |
-| Poker Joker | 9.00% | ~48,726 |
+| Deadly Assassin | 16.00% | ~86,625 |
+| Gutshot | 14.00% | ~75,797 |
+| Risk It For A Biscuit | 14.00% | ~75,797 |
+| Showoff | 13.00% | ~70,383 |
+| W.H.I.P. | 12.00% | ~64,969 |
+| Bet Bet Bet | 10.00% | ~54,141 |
+| Blindman's Bluff | 9.00% | ~48,727 |
+| Poker Joker | 9.00% | ~48,727 |
 | Never Give Up | 8.00% | ~43,312 |
 | The Bigger They Are | 8.00% | ~43,312 |
 | Total Knock Out | 8.00% | ~43,312 |
@@ -51,8 +51,8 @@ Rating: 3.82 (Ranked 1,036)
 | Rounder | 0.10% | ~541 |
 | Top Dog | 0.10% | ~541 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 541,403 (Ranked 33)  
-Completed: 2 (0.00%) (Ranked 366)  
+Progressed: 541,406 (Ranked 33)  
+Completed: 2 (0.00%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -278,16 +278,16 @@ Completed: 2 (0.00%) (Ranked 366)
 | 2023-12-01 | 540,787 | 2 |
 | 2023-12-02 | 540,982 | 2 |
 | 2023-12-03 | 541,281 | 2 |
-| 2023-12-04 | 541,403 | 2 |
+| 2023-12-04 | 541,406 | 2 |
 ## Awards
 Max (Great for Beginners): 62  (Ranked 415)  
-Sum: 183 (Ranked 411)  
+Sum: 185 (Ranked 411)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 62 |
 | This game is Highly Recommended | 36 |
-| This game has Competitive Players | 29 |
+| This game has Competitive Players | 31 |
 | This game has a Competitive Community | 28 |
 | This game has Quickly Understood Controls | 28 |
 ## Ratings History
@@ -407,3 +407,4 @@ Diff (max vs sum): 4
 | 2023-11-25 | 3.82 | 61 | 181 |
 | 2023-11-26 | 3.82 | 62 | 182 |
 | 2023-11-29 | 3.82 | 62 | 183 |
+| 2023-12-04 | 3.83 | 62 | 185 |

@@ -3,9 +3,9 @@
   "Name": "The Shapeshifting Detective",
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 374,
-  "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_Completed": 183,
+  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -541,17 +541,17 @@
       "ID": "chicken",
       "SetID": "2db2j74",
       "Name": "Chicken",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 17
+      "UsersEstimate": 20
     },
     {
       "ID": "hashtag_winning",
       "SetID": "2db2j74",
       "Name": "Hashtag Winning",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 90,
-      "UsersEstimate": 92
+      "UsersEstimate": 95
     },
     {
       "ID": "heavy_rayne",
@@ -686,8 +686,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-12-04T20:06:23.4765908+00:00",
+  "LastChanged_Achievements": "2023-12-04T21:07:21.8583538+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:12.5768552+00:00",
-  "LastUpdate_Ratings": "2023-12-04T20:02:55.0455589+00:00",
-  "LastUpdate_Achievements": "2023-12-04T20:06:23.4766091+00:00"
+  "LastUpdate_Ratings": "2023-12-04T21:03:14.8958439+00:00",
+  "LastUpdate_Achievements": "2023-12-04T21:07:21.8583691+00:00"
 }

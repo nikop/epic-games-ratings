@@ -7,8 +7,8 @@
 | The Camp | 58.00% | ~298 |
 | The Teleprobe | 46.00% | ~236 |
 | The City | 42.00% | ~215 |
-| The field base | 37.00% | ~190 |
-| Survivors | 30.00% | ~154 |
+| The field base | 38.00% | ~195 |
+| Survivors | 31.00% | ~159 |
 | The Condor | 29.00% | ~149 |
 | The End | 28.00% | ~144 |
 | The Alliance | 23.00% | ~118 |
@@ -18,8 +18,8 @@
 | Volcanologist | 19.00% | ~97 |
 | On her own | 16.00% | ~82 |
 | Beyond divisions | 15.00% | ~77 |
+| Fierce fight | 14.00% | ~72 |
 | Evacuation | 14.00% | ~72 |
-| Fierce fight | 13.00% | ~67 |
 | I remember everything! | 12.00% | ~62 |
 | Flying Objects Operator | 12.00% | ~62 |
 | Another giant | 9.00% | ~46 |
@@ -35,7 +35,7 @@
 | No more mistakes | 0.60% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 513 (Ranked 312)  
-Completed: 0 (0.00%) (Ranked 366)  
+Completed: 0 (0.00%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

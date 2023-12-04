@@ -5,14 +5,15 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | EOS Login | 100.00% | ~1 |
+| How Far ? | 100.00% | ~1 |
+| How Far 2 ? | 100.00% | ~1 |
+| How Far 3 ? | 100.00% | ~1 |
 | EOS Latest Updates | 100.00% | ~1 |
-| How Far ? | 0.00% | ~0 |
-| How Far 2 ? | 0.00% | ~0 |
-| How Far 3 ? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1 (Ranked 712)  
-Completed: 0 (0.00%) (Ranked 366)  
+Completed: 1 (100.00%) (Ranked 1)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-12-03 | 1 | 0 |
+| 2023-12-04 | 1 | 1 |

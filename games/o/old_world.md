@@ -6,8 +6,8 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Settler | 7.00% | ~1,094 |
-| Play a Single Player Game | 7.00% | ~1,094 |
+| Settler | 7.00% | ~1,095 |
+| Play a Single Player Game | 7.00% | ~1,095 |
 | Explorer | 6.00% | ~938 |
 | Friendly Family | 6.00% | ~938 |
 | Able | 5.00% | ~782 |
@@ -96,6 +96,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 1.00% | ~156 |
 | Subjugator | 1.00% | ~156 |
 | Strong Difficulty | 1.00% | ~156 |
+| Clerics | 1.00% | ~156 |
 | Hunters | 1.00% | ~156 |
 | Landowners | 1.00% | ~156 |
 | Statesmen | 1.00% | ~156 |
@@ -128,7 +129,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legionary | 1.00% | ~156 |
 | Phalangite | 1.00% | ~156 |
 | Ambition Victory | 1.00% | ~156 |
-| Clerics | 0.90% | ~141 |
 | Rome | 0.90% | ~141 |
 | Hittite Paganism | 0.90% | ~141 |
 | Turreted Elephant | 0.90% | ~141 |
@@ -349,8 +349,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,634 (Ranked 152)  
-Completed: 5 (0.03%) (Ranked 329)  
+Progressed: 15,636 (Ranked 152)  
+Completed: 5 (0.03%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -577,7 +577,7 @@ Completed: 5 (0.03%) (Ranked 329)
 | 2023-12-01 | 15,583 | 5 |
 | 2023-12-02 | 15,604 | 5 |
 | 2023-12-03 | 15,619 | 5 |
-| 2023-12-04 | 15,634 | 5 |
+| 2023-12-04 | 15,636 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,888 (Ranked 220)  

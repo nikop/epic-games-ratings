@@ -64,7 +64,7 @@ Rating: 4.25 (Ranked 882)
 | Swiss Army Drone | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,219 (Ranked 223)  
-Completed: 13 (0.59%) (Ranked 194)  
+Completed: 13 (0.59%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

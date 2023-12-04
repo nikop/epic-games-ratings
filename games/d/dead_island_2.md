@@ -5,20 +5,20 @@ Rating: 4.54 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,672 |
-| Pork Chopped | 3.00% | ~1,672 |
-| Dr. Reed, I Presume? | 2.00% | ~14,604 |
-| Git Gutte! | 2.00% | ~14,604 |
-| Bookworm | 2.00% | ~14,604 |
-| Break A Leg | 2.00% | ~14,604 |
-| Coup de Grâce | 2.00% | ~14,604 |
-| Hazardous Materials | 2.00% | ~14,604 |
-| Friends Like These | 2.00% | ~14,604 |
-| Hotel California | 2.00% | ~14,604 |
-| Apex Predator | 2.00% | ~14,604 |
-| Stacking the Deck | 2.00% | ~14,604 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,604 |
-| Welcome To Hell-A | 2.00% | ~14,604 |
+| Whatever It Takes | 3.00% | ~1,673 |
+| Pork Chopped | 3.00% | ~1,673 |
+| Dr. Reed, I Presume? | 2.00% | ~14,605 |
+| Git Gutte! | 2.00% | ~14,605 |
+| Bookworm | 2.00% | ~14,605 |
+| Break A Leg | 2.00% | ~14,605 |
+| Coup de Grâce | 2.00% | ~14,605 |
+| Hazardous Materials | 2.00% | ~14,605 |
+| Friends Like These | 2.00% | ~14,605 |
+| Hotel California | 2.00% | ~14,605 |
+| Apex Predator | 2.00% | ~14,605 |
+| Stacking the Deck | 2.00% | ~14,605 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,605 |
+| Welcome To Hell-A | 2.00% | ~14,605 |
 | One of Us | 2.00% | ~1,115 |
 | Making Your Mark | 1.00% | ~7,302 |
 | Anger Management | 1.00% | ~7,302 |
@@ -37,10 +37,10 @@ Rating: 4.54 (Ranked 529)
 | Humanity Distilled | 0.90% | ~6,572 |
 | Down with the Sickness | 0.90% | ~6,572 |
 | Max Headroom | 0.90% | ~6,572 |
-| Not Even My Final Form | 0.70% | ~5,111 |
-| Jumbo Keyring | 0.70% | ~5,111 |
-| Go, Bobcats! | 0.70% | ~5,111 |
-| Rising Star | 0.70% | ~5,111 |
+| Not Even My Final Form | 0.70% | ~5,112 |
+| Jumbo Keyring | 0.70% | ~5,112 |
+| Go, Bobcats! | 0.70% | ~5,112 |
+| Rising Star | 0.70% | ~5,112 |
 | Smorgasbord | 0.60% | ~4,381 |
 | Internet Famous | 0.60% | ~4,381 |
 | Make it So | 0.50% | ~3,651 |
@@ -52,13 +52,13 @@ Rating: 4.54 (Ranked 529)
 | Sole Survivor | 0.30% | ~2,191 |
 | Sharpest Tool in the Box | 0.30% | ~2,191 |
 | Survival Skills | 0.20% | ~1,460 |
-| Lawn and Order | 0.20% | ~111 |
+| Lawn and Order | 0.20% | ~112 |
 | Donk! | 0.10% | ~730 |
 | Bucket List | 0.10% | ~730 |
 | Wilhelm | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 730,201 (Ranked 21)  
-Completed: 2,463 (0.34%) (Ranked 232)  
+Progressed: 730,231 (Ranked 21)  
+Completed: 2,463 (0.34%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -285,7 +285,7 @@ Completed: 2,463 (0.34%) (Ranked 232)
 | 2023-12-01 | 728,667 | 2,459 |
 | 2023-12-02 | 729,149 | 2,460 |
 | 2023-12-03 | 729,822 | 2,461 |
-| 2023-12-04 | 730,201 | 2,463 |
+| 2023-12-04 | 730,231 | 2,463 |
 ## Awards
 Max (Great Boss Battles): 7,915  (Ranked 49)  
 Sum: 12,139 (Ranked 82)  

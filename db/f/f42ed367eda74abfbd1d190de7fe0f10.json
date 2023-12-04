@@ -3,9 +3,9 @@
   "Name": "EndlessRunner",
   "ProductSlug": "endlessrunner-00119d",
   "Ranking_EOS_Progress": 712,
-  "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 484,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_Completed": 1,
+  "Ranking_EOS_NewPlayers": 483,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-12-02T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -23,15 +23,20 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 1,
-  "EOS_Completed": 0,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 100,
   "EosHistory": [
     {
       "Time": "2023-12-03T00:08:59.4670653+00:00",
       "NumProgressed": 1,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-04T21:03:38.9911894+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-27T08:09:33.7613608+00:00",
@@ -50,25 +55,25 @@
       "ID": "001",
       "SetID": "79na3gn",
       "Name": "How Far ?",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "002",
       "SetID": "79na3gn",
       "Name": "How Far 2 ?",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "003",
       "SetID": "79na3gn",
       "Name": "How Far 3 ?",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LatestUpdates",
@@ -84,12 +89,12 @@
       "ID": "79na3gn",
       "IsBase": true,
       "Progressed": 1,
-      "Completed": 0
+      "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-09-24T20:02:24.32066+00:00",
-  "LastChanged_Achievements": "2023-12-04T19:09:27.2381937+00:00",
+  "LastChanged_Achievements": "2023-12-04T21:03:38.9911882+00:00",
   "LastUpdate_AppInfo": "2023-12-04T01:45:22.3643559+00:00",
-  "LastUpdate_Ratings": "2023-12-04T19:58:10.2867626+00:00",
-  "LastUpdate_Achievements": "2023-12-04T19:09:27.2382002+00:00"
+  "LastUpdate_Ratings": "2023-12-04T20:58:33.9216465+00:00",
+  "LastUpdate_Achievements": "2023-12-04T21:03:38.9912085+00:00"
 }

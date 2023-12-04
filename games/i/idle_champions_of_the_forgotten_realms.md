@@ -6,12 +6,13 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 0.60% | ~1,430 |
+| A Brief Tour of the Realms | 0.60% | ~1,431 |
 | The Cursed Farmer | 0.30% | ~715 |
 | Beast Intentions | 0.20% | ~477 |
 | The Ring of Regeneration | 0.20% | ~477 |
 | The Mad Wizard | 0.20% | ~477 |
 | The Beginning is the End | 0.20% | ~409 |
+| The End is the Beginning | 0.20% | ~409 |
 | Maddening | 0.10% | ~238 |
 | Pros and CONs | 0.10% | ~238 |
 | Upholding the Law | 0.10% | ~238 |
@@ -536,11 +537,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.10% | ~205 |
 | Time Out | 0.10% | ~205 |
 | Tomb of Champions | 0.10% | ~205 |
-| The End is the Beginning | 0.10% | ~205 |
 | See You on the Flipside | 0.10% | ~205 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,408 (Ranked 65)  
-Completed: 2,498 (1.05%) (Ranked 164)  
+Progressed: 238,418 (Ranked 65)  
+Completed: 2,498 (1.05%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -767,16 +767,16 @@ Completed: 2,498 (1.05%) (Ranked 164)
 | 2023-12-01 | 237,920 | 2,491 |
 | 2023-12-02 | 238,082 | 2,494 |
 | 2023-12-03 | 238,298 | 2,495 |
-| 2023-12-04 | 238,408 | 2,498 |
+| 2023-12-04 | 238,418 | 2,498 |
 ## Awards
 Max (Great for Beginners): 5,593  (Ranked 70)  
-Sum: 32,726 (Ranked 41)  
+Sum: 32,727 (Ranked 41)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,593 |
 | This game has Diverse Characters | 5,566 |
-| This game has Quickly Understood Controls | 4,830 |
+| This game has Quickly Understood Controls | 4,831 |
 | This game is Relaxing | 4,717 |
 | This game has Amazing Characters | 4,237 |
 | This game is Highly Recommended | 4,231 |
@@ -1096,4 +1096,4 @@ Diff (max vs sum): 29
 | 2023-12-01 | 4.06 | - | 5,580 | 32,695 |
 | 2023-12-02 | 4.06 | - | 5,585 | 32,705 |
 | 2023-12-03 | 4.06 | - | 5,589 | 32,719 |
-| 2023-12-04 | 4.06 | - | 5,593 | 32,726 |
+| 2023-12-04 | 4.06 | - | 5,593 | 32,727 |

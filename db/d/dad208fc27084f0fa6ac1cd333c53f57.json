@@ -2,8 +2,8 @@
   "ID": "dad208fc27084f0fa6ac1cd333c53f57",
   "Name": "The Hidden Room",
   "ProductSlug": "the-hidden-room-1a63ec",
-  "Ranking_EOS_Progress": 193,
-  "Ranking_EOS_Completed": 170,
+  "Ranking_EOS_Progress": 192,
+  "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4864,
+  "EOS_Progressed": 4866,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 473,
+  "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -3924,6 +3924,11 @@
       "Time": "2023-12-04T19:05:36.1033468+00:00",
       "NumProgressed": 4864,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-12-04T21:05:45.0557822+00:00",
+      "NumProgressed": 4866,
+      "NumCompleted": 47
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -3952,7 +3957,7 @@
       "Name": "Collect the mask",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_OPENGATE",
@@ -3960,7 +3965,7 @@
       "Name": "Unlock the gate",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_PC",
@@ -3976,7 +3981,7 @@
       "Name": "Move the sofa",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 1702
+      "UsersEstimate": 1703
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -3984,7 +3989,7 @@
       "Name": "Turn on the TV",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 2772
+      "UsersEstimate": 2774
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -3992,7 +3997,7 @@
       "Name": "Wrong passcode",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 3891
+      "UsersEstimate": 3893
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -4063,14 +4068,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 4864,
+      "Progressed": 4866,
       "Completed": 47
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-12-04T20:05:08.9788576+00:00",
+  "LastChanged_Achievements": "2023-12-04T21:05:45.0557817+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:12.1666356+00:00",
-  "LastUpdate_Ratings": "2023-12-04T19:59:12.3358382+00:00",
-  "LastUpdate_Achievements": "2023-12-04T20:05:08.9788949+00:00"
+  "LastUpdate_Ratings": "2023-12-04T21:00:00.3529422+00:00",
+  "LastUpdate_Achievements": "2023-12-04T21:05:45.0558156+00:00"
 }

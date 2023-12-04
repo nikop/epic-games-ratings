@@ -14,7 +14,7 @@
 | Thalya's Concentrated Fury | 69.00% | ~362 |
 | Bad Elves Go Everywhere | 68.00% | ~356 |
 | Master of Magic | 64.00% | ~335 |
-| Heroes’ Gorge | 63.00% | ~330 |
+| Heroes’ Gorge | 64.00% | ~335 |
 | Unicorn steaks – fresh off the hoof! | 61.00% | ~320 |
 | Magic Accidents | 58.00% | ~304 |
 | The Ascent | 56.00% | ~293 |
@@ -23,7 +23,7 @@
 | Minions, Minions! | 54.00% | ~283 |
 | Hard Work | 51.00% | ~267 |
 | The Big Eaty | 50.00% | ~262 |
-| YOU SHALL NOT PASS! | 48.00% | ~252 |
+| YOU SHALL NOT PASS! | 49.00% | ~257 |
 | “… like son” | 47.00% | ~246 |
 | Pure Dynamite! | 44.00% | ~231 |
 | The Cathedral of Light | 43.00% | ~225 |
@@ -34,18 +34,18 @@
 | All’s Well That Ends Evil | 32.00% | ~168 |
 | Unstoppable Horde | 31.00% | ~162 |
 | Master of the Undead | 30.00% | ~157 |
-| The Duel | 28.00% | ~147 |
+| The Duel | 29.00% | ~152 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 26.00% | ~136 |
+| Forbidden Knowledge | 26.00% | ~136 |
 | If Looks Could Kill | 26.00% | ~136 |
 | Hungry, Hungry Gorgu! | 25.00% | ~131 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 25.00% | ~131 |
-| Forbidden Knowledge | 25.00% | ~131 |
 | Ghost Pirates? Ghost Heroes! | 25.00% | ~131 |
 | The Finitude Drill | 24.00% | ~126 |
 | Stop Tanos! | 21.00% | ~110 |
 | Doom Hill | 21.00% | ~110 |
 | Sabotage! | 19.00% | ~100 |
 | Brimstone Shaken, Not Stirred | 19.00% | ~100 |
-| Bonus Evilness | 17.00% | ~89 |
+| Bonus Evilness | 18.00% | ~94 |
 | Raiders of the Lost Stone | 17.00% | ~89 |
 | The Rune Sockets of Finitude (Part 1) | 17.00% | ~89 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~84 |
@@ -67,7 +67,7 @@
 | I Don't Need Any Help | 5.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 524 (Ranked 311)  
-Completed: 12 (2.29%) (Ranked 124)  
+Completed: 12 (2.29%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

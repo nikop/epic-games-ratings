@@ -87,7 +87,7 @@
 | Science Frontier | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 229 (Ranked 381)  
-Completed: 0 (0.00%) (Ranked 366)  
+Completed: 0 (0.00%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

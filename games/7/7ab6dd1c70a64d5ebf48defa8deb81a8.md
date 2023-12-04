@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Trinity | 15.00% | ~37 |
 | Break Out | 14.00% | ~34 |
-| Trinity | 14.00% | ~34 |
 | Find Allies | 11.00% | ~27 |
 | Powerful Allies | 11.00% | ~27 |
 | Adventurer | 11.00% | ~27 |
@@ -42,7 +42,7 @@
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 246 (Ranked 375)  
-Completed: 2 (0.81%) (Ranked 180)  
+Completed: 2 (0.81%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

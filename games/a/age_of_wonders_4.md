@@ -22,6 +22,7 @@ Rating: 4.61 (Ranked 387)
 | Intimidation Tactics | 2.00% | ~111 |
 | Tipping the Scales | 2.00% | ~111 |
 | Freed Lands of Manuhari | 2.00% | ~111 |
+| Sehiran Oasis | 2.00% | ~111 |
 | Chaos Surge | 2.00% | ~111 |
 | Return of the Wizard King | 1.00% | ~56 |
 | Arch Mage | 1.00% | ~56 |
@@ -35,7 +36,6 @@ Rating: 4.61 (Ranked 387)
 | Here be Dragons | 1.00% | ~56 |
 | Blood of the Dragon | 1.00% | ~56 |
 | Mighty Hoard | 1.00% | ~56 |
-| Sehiran Oasis | 1.00% | ~56 |
 | Prometheus Avenged | 1.00% | ~56 |
 | Seal the Deal | 1.00% | ~56 |
 | Spoils of War | 1.00% | ~56 |
@@ -67,7 +67,7 @@ Rating: 4.61 (Ranked 387)
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,568 (Ranked 189)  
-Completed: 7 (0.13%) (Ranked 275)  
+Completed: 7 (0.13%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
