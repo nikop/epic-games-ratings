@@ -16,7 +16,7 @@
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.47% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Overloop](games/o/overloop.md) | 25.00% |
-| 17 | [The Riflemen](games/t/the_riflemen.md) | 24.47% |
+| 17 | [The Riflemen](games/t/the_riflemen.md) | 24.44% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 20 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
@@ -79,7 +79,7 @@
 | 76 | [Time on Frog Island](games/t/time_on_frog_island.md) | 4.76% |
 | 76 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 4.76% |
 | 79 | [ZZT!](games/z/zzt!.md) | 4.65% |
-| 80 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.59% |
+| 80 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.60% |
 | 81 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.49% |
 | 82 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.47% |
 | 83 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.41% |
@@ -126,7 +126,7 @@
 | 124 | [Bloodshore](games/b/bloodshore.md) | 2.25% |
 | 124 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.25% |
 | 126 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.21% |
-| 127 | [Dungeons 4](games/d/dungeons_4.md) | 2.12% |
+| 127 | [Dungeons 4](games/d/dungeons_4.md) | 2.11% |
 | 128 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 1.98% |
 | 129 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.92% |
 | 130 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.90% |
@@ -151,8 +151,8 @@
 | 149 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.34% |
 | 150 | [Poosh XL](games/p/poosh_xl.md) | 1.31% |
 | 151 | [Chorus](games/c/chorus.md) | 1.30% |
+| 152 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.29% |
 | 152 | [Late Shift](games/l/late_shift.md) | 1.29% |
-| 153 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.28% |
 | 154 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.27% |
 | 155 | [Ten Dates](games/t/ten_dates.md) | 1.26% |
 | 156 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.25% |
@@ -169,7 +169,7 @@
 | 167 | [Sable](games/s/sable.md) | 1.01% |
 | 167 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.01% |
 | 169 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.99% |
-| 170 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.98% |
+| 170 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.97% |
 | 171 | [Trifox](games/t/trifox.md) | 0.96% |
 | 172 | [A Musical Story](games/a/a_musical_story.md) | 0.94% |
 | 173 | [Hades](games/h/hades.md) | 0.91% |
