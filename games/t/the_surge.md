@@ -6,31 +6,31 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,573 |
-| I'll Be Back | 85.00% | ~4,135 |
-| Sorry, I Dropped This | 77.00% | ~3,746 |
-| First Day on the Job | 77.00% | ~3,746 |
+| On My Own Two Feet | 94.00% | ~4,574 |
+| I'll Be Back | 85.00% | ~4,136 |
+| Sorry, I Dropped This | 77.00% | ~3,747 |
+| First Day on the Job | 77.00% | ~3,747 |
 | Butcher's Bill | 55.00% | ~2,676 |
 | P.A.X | 38.00% | ~1,849 |
 | Hey Listen | 37.00% | ~1,800 |
-| OPERATOR | 36.00% | ~1,751 |
-| It's Blue Light | 33.00% | ~1,605 |
+| OPERATOR | 36.00% | ~1,752 |
+| It's Blue Light | 33.00% | ~1,606 |
 | Most Wanted | 27.00% | ~1,314 |
 | Infidel | 24.00% | ~1,168 |
 | Firebug | 21.00% | ~1,022 |
 | GOLIATH | 21.00% | ~1,022 |
 | I Choose You | 18.00% | ~876 |
 | Nothing to Lose | 18.00% | ~876 |
-| Big Sister | 16.00% | ~778 |
-| SENTINEL | 16.00% | ~778 |
+| Big Sister | 16.00% | ~779 |
+| SENTINEL | 16.00% | ~779 |
 | Gear Up | 15.00% | ~730 |
-| Core Power | 13.00% | ~632 |
+| Core Power | 13.00% | ~633 |
 | The Black Cerberus | 12.00% | ~584 |
 | Watchman | 12.00% | ~584 |
 | CREO Killed the Video Star | 11.00% | ~535 |
 | Who's in Charge Here? | 11.00% | ~535 |
 | Shall Not Pass | 11.00% | ~535 |
-| Right Tool for the Job | 10.00% | ~486 |
+| Right Tool for the Job | 10.00% | ~487 |
 | Melting Down | 9.00% | ~438 |
 | Raging Drones | 9.00% | ~438 |
 | Overconfident | 9.00% | ~438 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~29 |
 | The Surge | 0.40% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,865 (Ranked 192)  
+Progressed: 4,866 (Ranked 192)  
 Completed: 18 (0.37%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,6 +261,7 @@ Completed: 18 (0.37%) (Ranked 228)
 | 2023-11-29 | 4,860 | 18 |
 | 2023-12-01 | 4,863 | 18 |
 | 2023-12-03 | 4,865 | 18 |
+| 2023-12-04 | 4,866 | 18 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 503)  
 Sum: 29 (Ranked 517)  

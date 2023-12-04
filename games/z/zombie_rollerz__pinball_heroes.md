@@ -1,7 +1,7 @@
 # Zombie Rollerz: Pinball Heroes
 [Store](https://store.epicgames.com/en-US/p/zombie-rollerz-7aa027)  
 [View Rawdata](../../db/z/zombie_rollerz__pinball_heroes.json)  
-Rating: 4.30 (Ranked 840)  
+Rating: 4.30 (Ranked 841)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,22 +12,22 @@ Rating: 4.30 (Ranked 840)
 | Right in the kisser! | 58.00% | ~115 |
 | Duscot Steamcity | 47.00% | ~94 |
 | The Thrower | 46.00% | ~92 |
+| The Penguin | 45.00% | ~90 |
 | The Shaman | 45.00% | ~90 |
-| The Penguin | 44.00% | ~88 |
 | The Tunneler | 40.00% | ~80 |
 | The Magician | 39.00% | ~78 |
 | Level Up!! | 37.00% | ~74 |
 | The Shield | 35.00% | ~70 |
 | Kill-streak | 29.00% | ~58 |
 | Topped up | 29.00% | ~58 |
-| The Bird | 27.00% | ~54 |
+| The Bird | 28.00% | ~56 |
 | The Idol | 25.00% | ~50 |
 | The Ninja | 25.00% | ~50 |
-| Inferno Ruins | 24.00% | ~48 |
+| Inferno Ruins | 25.00% | ~50 |
 | I'm Rich | 22.00% | ~44 |
+| Untouchable | 21.00% | ~42 |
 | 1 is all I need | 21.00% | ~42 |
 | The Slime | 21.00% | ~42 |
-| Untouchable | 20.00% | ~40 |
 | The Giant | 17.00% | ~34 |
 | The Blacksmith | 16.00% | ~32 |
 | The Flower | 16.00% | ~32 |

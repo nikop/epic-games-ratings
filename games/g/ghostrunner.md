@@ -1,30 +1,30 @@
 # Ghostrunner
 [Store](https://store.epicgames.com/en-US/p/ghostrunner)  
 [View Rawdata](../../db/g/ghostrunner.json)  
-Rating: 4.72 (Ranked 185)  
+Rating: 4.72 (Ranked 186)  
 Number of Ratings: 1,047  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~17,975 |
-| Sword Runner | 61.00% | ~14,427 |
-| Running out of breath | 54.00% | ~12,772 |
-| Wallrunner | 53.00% | ~12,535 |
-| Homerunner | 45.00% | ~10,643 |
-| Out of order | 44.00% | ~10,406 |
-| I call it luck | 43.00% | ~10,170 |
-| Where are my Keys? | 40.00% | ~9,460 |
-| Back to hell | 37.00% | ~8,751 |
-| Perfection | 32.00% | ~7,568 |
-| Why not both | 30.00% | ~7,095 |
+| Longrunner | 76.00% | ~17,976 |
+| Sword Runner | 61.00% | ~14,428 |
+| Running out of breath | 54.00% | ~12,773 |
+| Wallrunner | 53.00% | ~12,536 |
+| Homerunner | 45.00% | ~10,644 |
+| Out of order | 44.00% | ~10,407 |
+| I call it luck | 43.00% | ~10,171 |
+| Where are my Keys? | 40.00% | ~9,461 |
+| Back to hell | 37.00% | ~8,752 |
+| Perfection | 32.00% | ~7,569 |
+| Why not both | 30.00% | ~7,096 |
 | Sword to a gunfight | 29.00% | ~6,859 |
 | Upgrades not mandatory | 29.00% | ~6,859 |
-| Artificial selection | 28.00% | ~6,622 |
+| Artificial selection | 28.00% | ~6,623 |
 | Control freak | 27.00% | ~6,386 |
 | Running Wild | 27.00% | ~6,386 |
-| Finish line | 26.00% | ~6,149 |
-| Unstoppable force | 22.00% | ~5,203 |
-| Wave of mutilation | 22.00% | ~5,203 |
+| Finish line | 26.00% | ~6,150 |
+| Unstoppable force | 22.00% | ~5,204 |
+| Wave of mutilation | 22.00% | ~5,204 |
 | Can't Run Can't Hide | 16.00% | ~3,784 |
 | R is for Running | 16.00% | ~3,784 |
 | Dead in the air | 15.00% | ~3,548 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~95 |
 | Up Close And Personal | 0.40% | ~95 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,651 (Ranked 135)  
+Progressed: 23,653 (Ranked 135)  
 Completed: 93 (0.39%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 93 (0.39%) (Ranked 224)
 | 2023-12-01 | 23,497 | 91 |
 | 2023-12-02 | 23,563 | 91 |
 | 2023-12-03 | 23,644 | 93 |
-| 2023-12-04 | 23,651 | 93 |
+| 2023-12-04 | 23,653 | 93 |
 ## Awards
 Max (Great Boss Battles): 523  (Ranked 210)  
 Sum: 756 (Ranked 287)  

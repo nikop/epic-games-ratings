@@ -6,27 +6,27 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 79.00% | ~541,682 |
-| Every story has a beginning | 36.00% | ~246,842 |
-| The first of many | 31.00% | ~212,559 |
-| Positive word of mouth | 18.00% | ~123,421 |
-| Lawn in the U.S.A. | 15.00% | ~102,851 |
+| The dream begins | 79.00% | ~541,688 |
+| Every story has a beginning | 36.00% | ~246,845 |
+| The first of many | 31.00% | ~212,561 |
+| Positive word of mouth | 18.00% | ~123,423 |
+| Lawn in the U.S.A. | 15.00% | ~102,852 |
 | Blade Runner | 9.00% | ~61,711 |
-| Credible | 7.00% | ~47,997 |
-| Teamwork makes the dream work | 6.00% | ~41,140 |
+| Credible | 7.00% | ~47,998 |
+| Teamwork makes the dream work | 6.00% | ~41,141 |
 | Where there's muck there's brass | 4.00% | ~27,427 |
 | Bigger and better | 4.00% | ~27,427 |
 | Aggressive expansion | 4.00% | ~27,427 |
 | Size isn't everything | 3.00% | ~20,570 |
 | Close shave | 3.00% | ~20,570 |
 | Established | 3.00% | ~20,570 |
-| Fighting on all fronts | 2.00% | ~13,713 |
-| Mighty Mowing Park Ranger | 2.00% | ~13,713 |
-| Every good deed… | 2.00% | ~13,713 |
-| Leaner and meaner | 2.00% | ~13,713 |
-| The top of the mountain | 2.00% | ~13,713 |
-| First step on the ladder | 2.00% | ~13,713 |
-| Trusted | 2.00% | ~13,713 |
+| Fighting on all fronts | 2.00% | ~13,714 |
+| Mighty Mowing Park Ranger | 2.00% | ~13,714 |
+| Every good deed… | 2.00% | ~13,714 |
+| Leaner and meaner | 2.00% | ~13,714 |
+| The top of the mountain | 2.00% | ~13,714 |
+| First step on the ladder | 2.00% | ~13,714 |
+| Trusted | 2.00% | ~13,714 |
 | Earn your stripes | 0.90% | ~6,171 |
 | Lawn & Order | 0.90% | ~6,171 |
 | The grass is always greener | 0.90% | ~6,171 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~686 |
 | Mo mowers, mo problems | 0.10% | ~686 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 685,673 (Ranked 27)  
+Progressed: 685,681 (Ranked 27)  
 Completed: 19 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 19 (0.00%) (Ranked 366)
 | 2023-12-01 | 684,908 | 19 |
 | 2023-12-02 | 685,178 | 19 |
 | 2023-12-03 | 685,634 | 19 |
-| 2023-12-04 | 685,673 | 19 |
+| 2023-12-04 | 685,681 | 19 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 301)  
 Sum: 989 (Ranked 264)  

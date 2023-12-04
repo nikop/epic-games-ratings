@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 411,
+  "EOS_Progressed": 412,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -987,6 +987,11 @@
       "Time": "2023-12-04T03:09:05.247252+00:00",
       "NumProgressed": 411,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-04T04:08:44.0285893+00:00",
+      "NumProgressed": 412,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1063,7 +1068,7 @@
       "Name": "Perfect Run",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -1071,7 +1076,7 @@
       "Name": "Big Encounter",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -1079,7 +1084,7 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
@@ -1087,7 +1092,7 @@
       "Name": "Hermit Koco Encounter",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -1095,7 +1100,7 @@
       "Name": "Celestial Rain",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -1103,7 +1108,7 @@
       "Name": "Unknown Threat",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1119,7 +1124,7 @@
       "Name": "Superior Ranking",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1191,7 +1196,7 @@
       "Name": "The Journey Begins",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1207,7 +1212,7 @@
       "Name": "Kronos Island Memories",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD2",
@@ -1318,14 +1323,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 411,
+      "Progressed": 412,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-04T03:09:05.2472519+00:00",
+  "LastChanged_Achievements": "2023-12-04T04:08:44.0285889+00:00",
   "LastUpdate_AppInfo": "2023-11-28T17:56:55.9843317+00:00",
-  "LastUpdate_Ratings": "2023-12-04T03:03:05.5609396+00:00",
-  "LastUpdate_Achievements": "2023-12-04T03:09:05.2472759+00:00"
+  "LastUpdate_Ratings": "2023-12-04T04:02:56.4499094+00:00",
+  "LastUpdate_Achievements": "2023-12-04T04:08:44.028615+00:00"
 }

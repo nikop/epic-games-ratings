@@ -36,10 +36,10 @@
 | Master of the Undead | 29.00% | ~151 |
 | The Duel | 28.00% | ~146 |
 | If Looks Could Kill | 26.00% | ~135 |
+| Hungry, Hungry Gorgu! | 25.00% | ~130 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 25.00% | ~130 |
 | Forbidden Knowledge | 25.00% | ~130 |
 | Ghost Pirates? Ghost Heroes! | 25.00% | ~130 |
-| Hungry, Hungry Gorgu! | 24.00% | ~125 |
 | The Finitude Drill | 23.00% | ~120 |
 | Doom Hill | 21.00% | ~109 |
 | Stop Tanos! | 20.00% | ~104 |

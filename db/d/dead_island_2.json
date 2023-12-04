@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 32,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -7209,10 +7209,10 @@
       "Count": 510
     }
   ],
-  "EOS_Progressed": 729882,
-  "EOS_Completed": 2461,
-  "EOS_NewPlayers": 3731,
-  "EOS_NewCompleters": 19,
+  "EOS_Progressed": 729897,
+  "EOS_Completed": 2462,
+  "EOS_NewPlayers": 3733,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -33289,6 +33289,11 @@
       "Time": "2023-12-04T03:08:50.0159136+00:00",
       "NumProgressed": 729882,
       "NumCompleted": 2461
+    },
+    {
+      "Time": "2023-12-04T04:08:33.1650441+00:00",
+      "NumProgressed": 729897,
+      "NumCompleted": 2462
     }
   ],
   "TotalAchievements": 51,
@@ -33660,7 +33665,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "ach_dark_magic",
@@ -33707,13 +33712,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 729882,
-      "Completed": 2461
+      "Progressed": 729897,
+      "Completed": 2462
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 55424,
+      "Progressed": 55439,
       "Completed": 36626
     }
   ],
@@ -33721,8 +33726,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-12-03T20:01:36.8173688+00:00",
-  "LastChanged_Achievements": "2023-12-04T03:08:50.0159133+00:00",
+  "LastChanged_Achievements": "2023-12-04T04:08:33.1650437+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:31.1640976+00:00",
-  "LastUpdate_Ratings": "2023-12-04T03:02:29.0140685+00:00",
-  "LastUpdate_Achievements": "2023-12-04T03:08:50.0161071+00:00"
+  "LastUpdate_Ratings": "2023-12-04T04:02:32.8767984+00:00",
+  "LastUpdate_Achievements": "2023-12-04T04:08:33.1652516+00:00"
 }

@@ -13316,9 +13316,9 @@
       "Count": 27543
     }
   ],
-  "EOS_Progressed": 1067901,
+  "EOS_Progressed": 1068008,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 20488,
+  "EOS_NewPlayers": 20535,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39471,6 +39471,11 @@
       "Time": "2023-12-04T03:10:20.7429003+00:00",
       "NumProgressed": 1067901,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-04T04:09:37.722425+00:00",
+      "NumProgressed": 1068008,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 232,
@@ -39602,7 +39607,7 @@
       "Name": "No one left behind",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 6407
+      "UsersEstimate": 6408
     },
     {
       "ID": "ACH_017",
@@ -39610,7 +39615,7 @@
       "Name": "Medic",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 6407
+      "UsersEstimate": 6408
     },
     {
       "ID": "ACH_018",
@@ -39618,7 +39623,7 @@
       "Name": "Handyman",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 7475
+      "UsersEstimate": 7476
     },
     {
       "ID": "ACH_019",
@@ -39650,7 +39655,7 @@
       "Name": "Zealous",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 9611
+      "UsersEstimate": 9612
     },
     {
       "ID": "ACH_023",
@@ -39658,7 +39663,7 @@
       "Name": "It wakes",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10679
+      "UsersEstimate": 10680
     },
     {
       "ID": "ACH_024",
@@ -39666,7 +39671,7 @@
       "Name": "Not half bad",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 9611
+      "UsersEstimate": 9612
     },
     {
       "ID": "ACH_025",
@@ -39690,7 +39695,7 @@
       "Name": "Apt Survivor",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 7475
+      "UsersEstimate": 7476
     },
     {
       "ID": "ACH_028",
@@ -39714,7 +39719,7 @@
       "Name": "Survival Treasures",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 7475
+      "UsersEstimate": 7476
     },
     {
       "ID": "ACH_031",
@@ -39786,7 +39791,7 @@
       "Name": "Skillful",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10679
+      "UsersEstimate": 10680
     },
     {
       "ID": "ACH_040",
@@ -39794,7 +39799,7 @@
       "Name": "I",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 7475
+      "UsersEstimate": 7476
     },
     {
       "ID": "ACH_041",
@@ -40050,7 +40055,7 @@
       "Name": "Sorted",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6407
+      "UsersEstimate": 6408
     },
     {
       "ID": "ACH_073",
@@ -40592,9 +40597,9 @@
       "ID": "ACH_143",
       "SetID": "16jml5b",
       "Name": "Old West Oasis",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2136
+      "UsersEstimate": 3204
     },
     {
       "ID": "ACH_144",
@@ -40650,7 +40655,7 @@
       "Name": "Healthy Obsession",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 6407
+      "UsersEstimate": 6408
     },
     {
       "ID": "ACH_151",
@@ -40698,7 +40703,7 @@
       "Name": "Resurgence",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 6407
+      "UsersEstimate": 6408
     },
     {
       "ID": "ACH_157",
@@ -40818,7 +40823,7 @@
       "Name": "Preemptive Strike",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 6407
+      "UsersEstimate": 6408
     },
     {
       "ID": "ACH_172",
@@ -41250,7 +41255,7 @@
       "Name": "Make Some Noise",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 8543
+      "UsersEstimate": 8544
     },
     {
       "ID": "ACH_226",
@@ -41337,21 +41342,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1067901,
+      "Progressed": 1068008,
       "Completed": 67
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1067901,
+      "Progressed": 1068008,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-12-04T01:46:12.8012808+00:00",
-  "LastChanged_Achievements": "2023-12-04T03:10:20.7429001+00:00",
+  "LastChanged_Achievements": "2023-12-04T04:09:37.7224246+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:13.1126718+00:00",
-  "LastUpdate_Ratings": "2023-12-04T02:58:12.1796205+00:00",
-  "LastUpdate_Achievements": "2023-12-04T03:10:20.7434189+00:00"
+  "LastUpdate_Ratings": "2023-12-04T03:57:46.3645672+00:00",
+  "LastUpdate_Achievements": "2023-12-04T04:09:37.7229856+00:00"
 }

@@ -20,6 +20,7 @@
 | Losing your Head | 3.00% | ~1 |
 | Captain | 3.00% | ~1 |
 | Chief | 3.00% | ~1 |
+| Dust to Dust | 3.00% | ~1 |
 | Flawless Victory | 3.00% | ~1 |
 | For Science | 3.00% | ~1 |
 | Restore Honor | 3.00% | ~1 |
@@ -29,7 +30,6 @@
 | Speedrunner | 3.00% | ~1 |
 | Overthrow The Crown | 3.00% | ~0 |
 | Lieutenant | 0.00% | ~0 |
-| Dust to Dust | 0.00% | ~0 |
 | Knife Juggler | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 36 (Ranked 527)  

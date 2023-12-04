@@ -2058,9 +2058,9 @@
       "ID": "Balance",
       "SetID": "1n308hc",
       "Name": "Balance",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "BecomingSmarter",
@@ -2507,8 +2507,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-03T13:00:54.7758323+00:00",
-  "LastChanged_Achievements": "2023-12-04T03:05:49.0143521+00:00",
+  "LastChanged_Achievements": "2023-12-04T04:04:48.7794879+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-04T02:58:11.2404574+00:00",
-  "LastUpdate_Achievements": "2023-12-04T03:05:49.014414+00:00"
+  "LastUpdate_Ratings": "2023-12-04T03:57:45.7681196+00:00",
+  "LastUpdate_Achievements": "2023-12-04T04:04:48.7795379+00:00"
 }

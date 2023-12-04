@@ -5121,9 +5121,9 @@
       "Count": 396
     }
   ],
-  "EOS_Progressed": 234327,
+  "EOS_Progressed": 234350,
   "EOS_Completed": 554,
-  "EOS_NewPlayers": 5231,
+  "EOS_NewPlayers": 5229,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -21251,6 +21251,11 @@
       "Time": "2023-12-04T03:09:15.1057965+00:00",
       "NumProgressed": 234327,
       "NumCompleted": 554
+    },
+    {
+      "Time": "2023-12-04T04:08:50.9087721+00:00",
+      "NumProgressed": 234350,
+      "NumCompleted": 554
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21663,7 +21668,7 @@
       "Name": "Regicide",
       "Percentage": 0.7,
       "XP": 75,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -21679,7 +21684,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -21687,7 +21692,7 @@
       "Name": "A Foul Feast",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "DLC1_Obtain_Warden_Reward",
@@ -21702,22 +21707,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 234327,
+      "Progressed": 234350,
       "Completed": 554
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 13492,
-      "Completed": 188
+      "Progressed": 13515,
+      "Completed": 189
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-04T01:51:27.3001098+00:00",
-  "LastChanged_Achievements": "2023-12-04T03:09:15.1057963+00:00",
+  "LastChanged_Achievements": "2023-12-04T04:08:50.9087717+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-04T03:03:26.3805504+00:00",
-  "LastUpdate_Achievements": "2023-12-04T03:09:15.1058949+00:00"
+  "LastUpdate_Ratings": "2023-12-04T04:03:09.9383526+00:00",
+  "LastUpdate_Achievements": "2023-12-04T04:08:50.9088839+00:00"
 }

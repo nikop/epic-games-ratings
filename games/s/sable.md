@@ -6,14 +6,14 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~34,796 |
+| Simoon | 34.00% | ~34,797 |
 | Just The Two of Us | 33.00% | ~33,773 |
-| Up On High | 25.00% | ~25,585 |
-| Under The Hood | 25.00% | ~25,585 |
+| Up On High | 25.00% | ~25,586 |
+| Under The Hood | 25.00% | ~25,586 |
 | Got Your Nose | 24.00% | ~24,562 |
 | The Gift of Gab | 24.00% | ~24,562 |
 | Wrapping Up | 22.00% | ~22,515 |
-| More Than A Box Of Sand | 18.00% | ~18,421 |
+| More Than A Box Of Sand | 18.00% | ~18,422 |
 | The Dunboyne | 17.00% | ~17,398 |
 | Badge Hobbyist | 17.00% | ~17,398 |
 | Chum Novice | 16.00% | ~16,375 |
@@ -23,9 +23,9 @@ Number of Ratings: 43  (23.09.2022)
 | Thread The Needle | 15.00% | ~15,351 |
 | Power to the People | 14.00% | ~14,328 |
 | Nesting Giant | 14.00% | ~14,328 |
-| Take That! | 13.00% | ~13,304 |
-| Treasure Tracker | 13.00% | ~13,304 |
-| Big Spender | 13.00% | ~13,304 |
+| Take That! | 13.00% | ~13,305 |
+| Treasure Tracker | 13.00% | ~13,305 |
+| Big Spender | 13.00% | ~13,305 |
 | Badge Collector | 12.00% | ~12,281 |
 | Quite The Catch | 12.00% | ~12,281 |
 | Rowleys Way | 11.00% | ~11,258 |
@@ -50,10 +50,10 @@ Number of Ratings: 43  (23.09.2022)
 | The Guard Mask | 7.00% | ~7,164 |
 | Smoked Out | 7.00% | ~7,164 |
 | A Hard Place | 7.00% | ~7,164 |
-| The Climber Mask | 6.00% | ~6,140 |
-| The Merchant Mask | 6.00% | ~6,140 |
-| Honorary Chum | 6.00% | ~6,140 |
-| Bikes Don't Fly | 6.00% | ~6,140 |
+| The Climber Mask | 6.00% | ~6,141 |
+| The Merchant Mask | 6.00% | ~6,141 |
+| Honorary Chum | 6.00% | ~6,141 |
+| Bikes Don't Fly | 6.00% | ~6,141 |
 | The Gliding | 5.00% | ~5,117 |
 | The Entertainer Mask | 5.00% | ~5,117 |
 | The Quick and the Curious | 4.00% | ~4,094 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~3,070 |
 | Vivacious Vivarium | 2.00% | ~2,047 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102,341 (Ranked 88)  
+Progressed: 102,343 (Ranked 88)  
 Completed: 1,034 (1.01%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 1,034 (1.01%) (Ranked 167)
 | 2023-12-01 | 101,851 | 1,032 |
 | 2023-12-02 | 102,050 | 1,033 |
 | 2023-12-03 | 102,316 | 1,034 |
-| 2023-12-04 | 102,341 | 1,034 |
+| 2023-12-04 | 102,343 | 1,034 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 521)  
 Sum: 94 (Ranked 456)  

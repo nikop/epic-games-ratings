@@ -2,7 +2,7 @@
   "ID": "0c40923dd1174a768f732a3b013dcff2",
   "Name": "The Last of Us\u2122 Part I",
   "ProductSlug": "the-last-of-us-part-1",
-  "Ranking_Rating": 840,
+  "Ranking_Rating": 833,
   "Ranking_Popularity": 286,
   "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 776,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.3,
+  "Rating": 4.31,
   "RatingHistory": [
     {
       "Time": "2023-03-30T20:57:18.2148278+00:00",
@@ -1053,6 +1053,12 @@
       "Rating": 4.3,
       "NumberOfAwards": 208,
       "NumberOfAwardsMax": 208
+    },
+    {
+      "Time": "2023-12-04T04:02:28.1864508+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 208,
+      "NumberOfAwardsMax": 208
     }
   ],
   "ReviewsDisabled": false,
@@ -1079,8 +1085,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-28T17:57:06.372926+00:00",
   "FirstSeenRating": "2023-03-30T20:57:18.2148276+00:00",
-  "LastChanged": "2023-12-03T09:00:15.9687633+00:00",
+  "LastChanged": "2023-12-04T04:02:28.1864506+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:26.8818704+00:00",
-  "LastUpdate_Ratings": "2023-12-04T03:01:40.6883029+00:00",
-  "LastUpdate_Achievements": "2023-12-04T03:07:37.8505431+00:00"
+  "LastUpdate_Ratings": "2023-12-04T04:02:28.1864511+00:00",
+  "LastUpdate_Achievements": "2023-12-04T04:06:03.5228481+00:00"
 }

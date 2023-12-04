@@ -9,7 +9,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | Conqueror | 40.00% | ~11,871 |
 | Battering Crew | 20.00% | ~5,935 |
 | The Kingsroad | 18.00% | ~5,342 |
-| Well Stocked | 13.00% | ~3,858 |
+| Well Stocked | 14.00% | ~4,155 |
 | Royal Fleet | 13.00% | ~3,858 |
 | The Kraken’s Grasp | 9.00% | ~2,671 |
 | Daggers in the Dark | 8.00% | ~2,374 |

@@ -251,9 +251,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 329066,
+  "EOS_Progressed": 329070,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2290,
+  "EOS_NewPlayers": 2289,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12441,6 +12441,11 @@
       "Time": "2023-12-04T03:05:04.7305172+00:00",
       "NumProgressed": 329066,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-04T04:04:17.9871678+00:00",
+      "NumProgressed": 329070,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -12477,7 +12482,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 144789
+      "UsersEstimate": 144791
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -12485,7 +12490,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 105301
+      "UsersEstimate": 105302
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -12493,7 +12498,7 @@
       "Name": "Cape Wrath",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 69104
+      "UsersEstimate": 69105
     },
     {
       "ID": "ACHV_M04_COMPLETE",
@@ -12541,7 +12546,7 @@
       "Name": "The Whispering Gallery",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 26325
+      "UsersEstimate": 26326
     },
     {
       "ID": "ACHV_M10_COMPLETE",
@@ -12549,7 +12554,7 @@
       "Name": "Khashar Approach",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 26325
+      "UsersEstimate": 26326
     },
     {
       "ID": "ACHV_M11_COMPLETE",
@@ -12829,20 +12834,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 167824
+      "UsersEstimate": 167826
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 329066,
+      "Progressed": 329070,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 329055,
+      "Progressed": 329059,
       "Completed": 1
     }
   ],
@@ -12850,8 +12855,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2023-11-29T16:59:19.7376867+00:00",
-  "LastChanged_Achievements": "2023-12-04T03:05:04.730517+00:00",
+  "LastChanged_Achievements": "2023-12-04T04:04:17.9871675+00:00",
   "LastUpdate_AppInfo": "2023-12-01T01:54:01.1893998+00:00",
-  "LastUpdate_Ratings": "2023-12-04T02:58:48.5253378+00:00",
-  "LastUpdate_Achievements": "2023-12-04T03:05:04.7305919+00:00"
+  "LastUpdate_Ratings": "2023-12-04T03:58:09.5880882+00:00",
+  "LastUpdate_Achievements": "2023-12-04T04:04:17.9872491+00:00"
 }

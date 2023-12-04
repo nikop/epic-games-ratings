@@ -569,9 +569,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 97335,
+  "EOS_Progressed": 97336,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 1082,
+  "EOS_NewPlayers": 1079,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -24039,6 +24039,11 @@
       "Time": "2023-12-04T03:10:17.4528414+00:00",
       "NumProgressed": 97335,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-12-04T04:09:34.9975899+00:00",
+      "NumProgressed": 97336,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 67,
@@ -24050,7 +24055,7 @@
       "Name": "Follow the Light",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 56454
+      "UsersEstimate": 56455
     },
     {
       "ID": "02",
@@ -24066,7 +24071,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 36987
+      "UsersEstimate": 36988
     },
     {
       "ID": "04",
@@ -24074,7 +24079,7 @@
       "Name": "Boob Tube",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 6813
+      "UsersEstimate": 6814
     },
     {
       "ID": "05",
@@ -24098,7 +24103,7 @@
       "Name": "Heavy Metal",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 20440
+      "UsersEstimate": 20441
     },
     {
       "ID": "08",
@@ -24106,7 +24111,7 @@
       "Name": "Iron Horse",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 20440
+      "UsersEstimate": 20441
     },
     {
       "ID": "09",
@@ -24202,7 +24207,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 6813
+      "UsersEstimate": 6814
     },
     {
       "ID": "21",
@@ -24210,7 +24215,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 23360
+      "UsersEstimate": 23361
     },
     {
       "ID": "22",
@@ -24258,7 +24263,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 20440
+      "UsersEstimate": 20441
     },
     {
       "ID": "28",
@@ -24266,7 +24271,7 @@
       "Name": "Come One, Come All",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 20440
+      "UsersEstimate": 20441
     },
     {
       "ID": "29",
@@ -24274,7 +24279,7 @@
       "Name": "Sound and Fury",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 23360
+      "UsersEstimate": 23361
     },
     {
       "ID": "30",
@@ -24290,7 +24295,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 26280
+      "UsersEstimate": 26281
     },
     {
       "ID": "32",
@@ -24298,7 +24303,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 45747
+      "UsersEstimate": 45748
     },
     {
       "ID": "33",
@@ -24306,7 +24311,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 23360
+      "UsersEstimate": 23361
     },
     {
       "ID": "34",
@@ -24322,7 +24327,7 @@
       "Name": "Let There Be Light",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 47694
+      "UsersEstimate": 47695
     },
     {
       "ID": "36",
@@ -24370,7 +24375,7 @@
       "Name": "Finders Keepers",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 26280
+      "UsersEstimate": 26281
     },
     {
       "ID": "42",
@@ -24426,7 +24431,7 @@
       "Name": "KBF-FM",
       "Percentage": 7,
       "XP": 110,
-      "UsersEstimate": 6813
+      "UsersEstimate": 6814
     },
     {
       "ID": "49",
@@ -24585,21 +24590,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 97335,
+      "Progressed": 97336,
       "Completed": 107
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 60803,
+      "Progressed": 60804,
       "Completed": 92
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-11-23T00:00:36.1638519+00:00",
-  "LastChanged_Achievements": "2023-12-04T03:10:17.4528413+00:00",
+  "LastChanged_Achievements": "2023-12-04T04:09:34.9975896+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:16.2842941+00:00",
-  "LastUpdate_Ratings": "2023-12-04T02:57:25.2371429+00:00",
-  "LastUpdate_Achievements": "2023-12-04T03:10:17.4529914+00:00"
+  "LastUpdate_Ratings": "2023-12-04T03:57:16.4653083+00:00",
+  "LastUpdate_Achievements": "2023-12-04T04:09:34.9977318+00:00"
 }

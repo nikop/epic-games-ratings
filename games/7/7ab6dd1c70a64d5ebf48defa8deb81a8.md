@@ -20,9 +20,9 @@
 | The Collector | 9.00% | ~22 |
 | Fashion Victim | 8.00% | ~20 |
 | Essence Blow | 6.00% | ~15 |
+| Alchemist | 6.00% | ~15 |
 | Calm before the Storm | 5.00% | ~12 |
 | The Mentor | 5.00% | ~12 |
-| Alchemist | 5.00% | ~12 |
 | To Battle | 4.00% | ~10 |
 | Godslayer | 4.00% | ~10 |
 | Airborne | 4.00% | ~10 |

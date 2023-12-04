@@ -5,18 +5,18 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Travel Streamer | 92.00% | ~489 |
-| Training Simulation | 78.00% | ~414 |
-| Kuku Bird Hunter | 62.00% | ~329 |
+| Training Simulation | 77.00% | ~410 |
+| Kuku Bird Hunter | 62.00% | ~330 |
 | Storm Traveller | 57.00% | ~303 |
-| Wolf King Killer | 52.00% | ~276 |
+| Wolf King Killer | 52.00% | ~277 |
 | Fashion Connoisseur | 50.00% | ~266 |
-| Arms Mechanic | 46.00% | ~244 |
+| Arms Mechanic | 46.00% | ~245 |
 | Flower Thief | 41.00% | ~218 |
-| Apostle of Flame | 36.00% | ~191 |
+| Apostle of Flame | 36.00% | ~192 |
 | Beginner Cook | 35.00% | ~186 |
 | Beginner Artificer | 35.00% | ~186 |
-| Seal Breaker | 31.00% | ~165 |
-| Handyman | 27.00% | ~143 |
+| Seal Breaker | 30.00% | ~160 |
+| Handyman | 27.00% | ~144 |
 | Giant Lizard Killer | 26.00% | ~138 |
 | Guardian | 25.00% | ~133 |
 | Nosebleeder | 25.00% | ~133 |
@@ -32,8 +32,8 @@
 | Mermaid Killer | 13.00% | ~69 |
 | Cave Master | 12.00% | ~64 |
 | Face Slapper | 12.00% | ~64 |
-| Boss challenge | 8.00% | ~42 |
-| Berserker Slayer | 8.00% | ~42 |
+| Boss challenge | 8.00% | ~43 |
+| Berserker Slayer | 8.00% | ~43 |
 | Master Cook | 7.00% | ~37 |
 | Giantess Slayer | 6.00% | ~32 |
 | Warden Slayer | 6.00% | ~32 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 1.00% | ~5 |
 | Warden Challenge | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 531 (Ranked 309)  
+Progressed: 532 (Ranked 309)  
 Completed: 1 (0.19%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 1 (0.19%) (Ranked 262)
 | 2023-12-01 | 471 | 1 |
 | 2023-12-02 | 496 | 1 |
 | 2023-12-03 | 527 | 1 |
-| 2023-12-04 | 531 | 1 |
+| 2023-12-04 | 532 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

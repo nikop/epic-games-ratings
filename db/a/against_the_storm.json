@@ -2,13 +2,13 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 81,
+  "Ranking_Rating": 68,
   "Ranking_Popularity": 223,
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 3647,
+  "Ranking_EOS_NewCompleters": 3648,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.81,
+  "Rating": 4.82,
   "NumberOfRatings": 1845,
   "RatingHistory": [
     {
@@ -3279,10 +3279,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 3239,
       "NumberOfAwardsMax": 441
+    },
+    {
+      "Time": "2023-12-04T03:57:35.3652808+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3241,
+      "NumberOfAwardsMax": 441
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3239,
+  "NumberOfAwards": 3241,
   "NumberOfAwardsMax": 441,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3308,7 +3314,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 408
+      "Count": 409
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3344,12 +3350,12 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 327
+      "Count": 328
     }
   ],
   "EOS_Progressed": 17588,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": -7,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -15186,9 +15192,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-03T16:57:34.9742503+00:00",
-  "LastChanged_Achievements": "2023-12-04T03:09:13.5098856+00:00",
+  "LastChanged": "2023-12-04T03:57:35.3652806+00:00",
+  "LastChanged_Achievements": "2023-12-04T04:08:49.7722718+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:14.3162798+00:00",
-  "LastUpdate_Ratings": "2023-12-04T02:57:55.0322825+00:00",
-  "LastUpdate_Achievements": "2023-12-04T03:09:13.5099675+00:00"
+  "LastUpdate_Ratings": "2023-12-04T03:57:35.3652811+00:00",
+  "LastUpdate_Achievements": "2023-12-04T04:08:49.7723581+00:00"
 }

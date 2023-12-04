@@ -18,7 +18,7 @@ Rating: 4.54 (Ranked 529)
 | Apex Predator | 2.00% | ~14,598 |
 | Personal Assistant Personally Assisted | 2.00% | ~14,598 |
 | Welcome To Hell-A | 2.00% | ~14,598 |
-| One of Us | 2.00% | ~1,108 |
+| One of Us | 2.00% | ~1,109 |
 | Making Your Mark | 1.00% | ~7,299 |
 | Anger Management | 1.00% | ~7,299 |
 | Perks of the Job | 1.00% | ~7,299 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 529)
 | Bucket List | 0.10% | ~730 |
 | Wilhelm | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 729,882 (Ranked 21)  
-Completed: 2,461 (0.34%) (Ranked 232)  
+Progressed: 729,897 (Ranked 21)  
+Completed: 2,462 (0.34%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -285,7 +285,7 @@ Completed: 2,461 (0.34%) (Ranked 232)
 | 2023-12-01 | 728,667 | 2,459 |
 | 2023-12-02 | 729,149 | 2,460 |
 | 2023-12-03 | 729,822 | 2,461 |
-| 2023-12-04 | 729,882 | 2,461 |
+| 2023-12-04 | 729,897 | 2,462 |
 ## Awards
 Max (Great Boss Battles): 7,892  (Ranked 49)  
 Sum: 12,110 (Ranked 82)  

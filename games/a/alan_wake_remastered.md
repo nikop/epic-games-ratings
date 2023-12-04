@@ -6,26 +6,26 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 58.00% | ~56,454 |
-| Let There Be Light | 49.00% | ~47,694 |
-| Float Like a Butterfly | 47.00% | ~45,747 |
+| Follow the Light | 58.00% | ~56,455 |
+| Let There Be Light | 49.00% | ~47,695 |
+| Float Like a Butterfly | 47.00% | ~45,748 |
 | Nordic Walking | 39.00% | ~37,961 |
-| Bright Falls' Finest | 38.00% | ~36,987 |
+| Bright Falls' Finest | 38.00% | ~36,988 |
 | Under a Thin Layer of Skin | 34.00% | ~33,094 |
 | Park Ranger | 29.00% | ~28,227 |
 | Paging Mr. Wake | 29.00% | ~28,227 |
-| Back! Back, I Say! | 27.00% | ~26,280 |
-| Finders Keepers | 27.00% | ~26,280 |
+| Back! Back, I Say! | 27.00% | ~26,281 |
+| Finders Keepers | 27.00% | ~26,281 |
 | Damn Good Cup of Coffee | 25.00% | ~24,334 |
-| They're Heeeeeere! | 24.00% | ~23,360 |
-| Sound and Fury | 24.00% | ~23,360 |
-| Missed by a Mile | 24.00% | ~23,360 |
+| They're Heeeeeere! | 24.00% | ~23,361 |
+| Sound and Fury | 24.00% | ~23,361 |
+| Missed by a Mile | 24.00% | ~23,361 |
 | Wheels Within Wheels | 23.00% | ~22,387 |
 | The Six-Gun Scribe | 22.00% | ~21,414 |
-| Heavy Metal | 21.00% | ~20,440 |
-| Iron Horse | 21.00% | ~20,440 |
-| Collateral Carnage | 21.00% | ~20,440 |
-| Come One, Come All | 21.00% | ~20,440 |
+| Heavy Metal | 21.00% | ~20,441 |
+| Iron Horse | 21.00% | ~20,441 |
+| Collateral Carnage | 21.00% | ~20,441 |
+| Come One, Come All | 21.00% | ~20,441 |
 | Perchance to Dream | 20.00% | ~19,467 |
 | It's Not Just a Typewriter Brand | 19.00% | ~18,494 |
 | Thunder and Lightning | 19.00% | ~18,494 |
@@ -41,9 +41,9 @@ Number of Ratings: 524  (23.09.2022)
 | A Friend in Need | 10.00% | ~6,080 |
 | Drink 'Em Both Up | 9.00% | ~8,760 |
 | Children of the Elder God | 8.00% | ~7,787 |
-| Boob Tube | 7.00% | ~6,813 |
-| If It Flies, It Burns | 7.00% | ~6,813 |
-| KBF-FM | 7.00% | ~6,813 |
+| Boob Tube | 7.00% | ~6,814 |
+| If It Flies, It Burns | 7.00% | ~6,814 |
+| KBF-FM | 7.00% | ~6,814 |
 | A Friend Indeed | 7.00% | ~4,256 |
 | Ding! | 6.00% | ~3,648 |
 | Carny | 4.00% | ~3,893 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | No Punctuation | 0.20% | ~122 |
 | Licensed Properties | 0.20% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,335 (Ranked 90)  
+Progressed: 97,336 (Ranked 90)  
 Completed: 107 (0.11%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 107 (0.11%) (Ranked 283)
 | 2023-12-01 | 96,988 | 106 |
 | 2023-12-02 | 97,127 | 106 |
 | 2023-12-03 | 97,314 | 107 |
-| 2023-12-04 | 97,335 | 107 |
+| 2023-12-04 | 97,336 | 107 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

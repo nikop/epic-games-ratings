@@ -2,12 +2,12 @@
   "ID": "35eda4ff87f94a7491dc28175b8f3b4f",
   "Name": "Eternal Threads",
   "ProductSlug": "eternal-threads-197169",
-  "Ranking_Rating": 840,
+  "Ranking_Rating": 841,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 42,
+  "Ranking_EOS_NewPlayers": 41,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -227,9 +227,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11945,
+  "EOS_Progressed": 11954,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 2305,
+  "EOS_NewPlayers": 2307,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -3057,6 +3057,11 @@
       "Time": "2023-12-04T03:04:01.1486124+00:00",
       "NumProgressed": 11945,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-04T04:03:33.9098633+00:00",
+      "NumProgressed": 11954,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -3077,7 +3082,7 @@
       "Name": "Beam Me Up Scotty",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
@@ -3109,7 +3114,7 @@
       "Name": "Righter of Wrongs",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "SAVE_ONE_PERSON_1_0",
@@ -3117,7 +3122,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -3141,14 +3146,14 @@
       "Name": "Investigator",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     }
   ],
   "AchievementSets": [
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 11945,
+      "Progressed": 11954,
       "Completed": 41
     }
   ],
@@ -3156,8 +3161,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-12-03T13:57:20.3855613+00:00",
-  "LastChanged_Achievements": "2023-12-04T03:04:01.148612+00:00",
+  "LastChanged_Achievements": "2023-12-04T04:03:33.909863+00:00",
   "LastUpdate_AppInfo": "2023-11-30T16:57:25.9154897+00:00",
-  "LastUpdate_Ratings": "2023-12-04T02:58:09.5673583+00:00",
-  "LastUpdate_Achievements": "2023-12-04T03:04:01.1486338+00:00"
+  "LastUpdate_Ratings": "2023-12-04T03:57:44.7614799+00:00",
+  "LastUpdate_Achievements": "2023-12-04T04:03:33.9098859+00:00"
 }
