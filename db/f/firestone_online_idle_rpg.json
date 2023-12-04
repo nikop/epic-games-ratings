@@ -3,12 +3,12 @@
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 990,
-  "Ranking_Popularity": 474,
+  "Ranking_Popularity": 475,
   "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3011,
+  "EOS_Progressed": 3013,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 275,
+  "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8781,6 +8781,11 @@
       "Time": "2023-12-04T00:09:28.3393647+00:00",
       "NumProgressed": 3011,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-04T01:57:34.250245+00:00",
+      "NumProgressed": 3013,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -8816,7 +8821,7 @@
       "Name": "Arena Challenger",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "backgroundstory",
@@ -8904,7 +8909,7 @@
       "Name": "Dragon Master",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "dragonslayer",
@@ -8920,7 +8925,7 @@
       "Name": "Ebony Jungle Liberator",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "enchantingskill",
@@ -9000,7 +9005,7 @@
       "Name": "Full Party",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "gearenchanting",
@@ -9088,7 +9093,7 @@
       "Name": "Lieutenant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "lockandload",
@@ -9168,7 +9173,7 @@
       "Name": "Natural Talent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "pokerface",
@@ -9184,7 +9189,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "prestigiousx10",
@@ -9192,7 +9197,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "relicofthepast",
@@ -9240,7 +9245,7 @@
       "Name": "Superior",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "templeofeternals",
@@ -9248,7 +9253,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "thealchemist",
@@ -9296,7 +9301,7 @@
       "Name": "The Unstoppable",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "titanpower",
@@ -9352,7 +9357,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2800
+      "UsersEstimate": 2802
     },
     {
       "ID": "warmachinesarmy",
@@ -9384,14 +9389,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2349
+      "UsersEstimate": 2350
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3011,
+      "Progressed": 3013,
       "Completed": 2
     }
   ],
@@ -9399,8 +9404,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-03T22:59:51.5029341+00:00",
-  "LastChanged_Achievements": "2023-12-04T00:09:28.3393643+00:00",
+  "LastChanged_Achievements": "2023-12-04T01:57:34.2502447+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:05.1164011+00:00",
-  "LastUpdate_Ratings": "2023-12-04T00:00:32.3873432+00:00",
-  "LastUpdate_Achievements": "2023-12-04T00:09:28.3394928+00:00"
+  "LastUpdate_Ratings": "2023-12-04T01:48:09.3725536+00:00",
+  "LastUpdate_Achievements": "2023-12-04T01:57:34.2503283+00:00"
 }

@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter I | 50.00% | ~86 |
-| Fire in the... nevermind | 50.00% | ~86 |
-| Haute cuisine | 45.00% | ~78 |
-| Demolition expert | 39.00% | ~67 |
-| I didn't do it! | 39.00% | ~67 |
-| Keep away from children | 36.00% | ~62 |
+| Chapter I | 50.00% | ~87 |
+| Fire in the... nevermind | 49.00% | ~85 |
+| Haute cuisine | 44.00% | ~77 |
+| Demolition expert | 39.00% | ~68 |
+| I didn't do it! | 39.00% | ~68 |
+| Keep away from children | 36.00% | ~63 |
 | Open up wide | 35.00% | ~61 |
 | Wooooooow! | 34.00% | ~59 |
-| Artistic fool | 32.00% | ~55 |
-| Shadow on the wall | 31.00% | ~54 |
+| Artistic fool | 32.00% | ~56 |
 | Let the boot talk | 30.00% | ~52 |
-| Chapter II | 25.00% | ~43 |
+| Shadow on the wall | 30.00% | ~52 |
+| Chapter II | 25.00% | ~44 |
 | Handyman | 22.00% | ~38 |
 | Bubblekillerfamily | 22.00% | ~38 |
 | Chapter III | 22.00% | ~38 |
 | Like a moth in the Wind | 22.00% | ~38 |
-| Quite a buggy game | 21.00% | ~36 |
-| Achoo!! | 21.00% | ~36 |
-| Pacifist | 19.00% | ~33 |
+| Quite a buggy game | 21.00% | ~37 |
+| Achoo!! | 21.00% | ~37 |
+| Pacifist | 20.00% | ~35 |
 | Mirror mirror on the wall... | 18.00% | ~31 |
-| Fastidious Clown | 17.00% | ~29 |
-| It's not easy being green! | 17.00% | ~29 |
-| Home is where the heart is | 17.00% | ~29 |
+| Fastidious Clown | 17.00% | ~30 |
+| It's not easy being green! | 17.00% | ~30 |
+| Home is where the heart is | 17.00% | ~30 |
 | Death is a part of life | 14.00% | ~24 |
-| Master of Thermodynamics | 13.00% | ~22 |
-| To err is human... | 12.00% | ~21 |
-| Unfullfilled dreams | 12.00% | ~21 |
+| Master of Thermodynamics | 13.00% | ~23 |
+| To err is human... | 11.00% | ~19 |
+| Unfullfilled dreams | 11.00% | ~19 |
 | Nothing can stop me | 9.00% | ~16 |
 | Mumbo Jumbo | 9.00% | ~16 |
 | Useless but beautiful | 8.00% | ~14 |
-| Lollipop | 8.00% | ~14 |
+| Lollipop | 7.00% | ~12 |
 | Where there is life, there is hope | 7.00% | ~12 |
 | The hands of a healer | 6.00% | ~10 |
 | It's nothing personal | 6.00% | ~10 |
@@ -51,7 +51,7 @@
 | Sherlock Holmes | 0.60% | ~1 |
 | Do not feed the fish! | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 173 (Ranked 398)  
+Progressed: 174 (Ranked 397)  
 Completed: 0 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,6 +113,7 @@ Completed: 0 (0.00%) (Ranked 366)
 | 2023-11-21 | 171 | 0 |
 | 2023-11-30 | 172 | 0 |
 | 2023-12-03 | 173 | 0 |
+| 2023-12-04 | 174 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

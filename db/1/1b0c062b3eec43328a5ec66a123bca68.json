@@ -2,10 +2,10 @@
   "ID": "1b0c062b3eec43328a5ec66a123bca68",
   "Name": "School Bus Driving Simulator",
   "ProductSlug": "school-bus-driving-simulator-b878a8",
-  "Ranking_EOS_Progress": 775,
+  "Ranking_EOS_Progress": 776,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 488,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-07-25T17:30:00+00:00",
     "PcReleaseDate": "2023-07-24T09:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-26T21:00:12.0706219+00:00",
   "LastUpdate_AppInfo": "2023-11-29T01:48:53.3424683+00:00",
-  "LastUpdate_Ratings": "2023-12-03T23:59:29.9973875+00:00",
-  "LastUpdate_Achievements": "2023-12-04T00:07:01.6137981+00:00"
+  "LastUpdate_Ratings": "2023-12-04T01:47:20.1259726+00:00",
+  "LastUpdate_Achievements": "2023-12-04T01:54:32.3142773+00:00"
 }

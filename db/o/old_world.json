@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1996,10 +1996,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1885,
       "NumberOfAwardsMax": 228
+    },
+    {
+      "Time": "2023-12-04T01:48:34.6290158+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1886,
+      "NumberOfAwardsMax": 228
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1885,
+  "NumberOfAwards": 1886,
   "NumberOfAwardsMax": 228,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2043,7 +2049,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 194
+      "Count": 195
     },
     {
       "Text": "This game is Relaxing",
@@ -2076,9 +2082,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15620,
+  "EOS_Progressed": 15621,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17056,6 +17062,11 @@
       "Time": "2023-12-04T00:04:46.9636227+00:00",
       "NumProgressed": 15620,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-04T01:52:43.2347831+00:00",
+      "NumProgressed": 15621,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -18753,9 +18764,9 @@
       "ID": "ACHIEVEMENT_PERSEPOLIS_APADANA",
       "SetID": "9201eeb",
       "Name": "Apadana in Parsa",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 62
     },
     {
       "ID": "ACHIEVEMENT_PLAY_1V1",
@@ -19802,21 +19813,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15620,
+      "Progressed": 15621,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15620,
+      "Progressed": 15621,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2023-12-03T13:04:15.9334657+00:00",
-  "LastChanged_Achievements": "2023-12-04T00:04:46.9636223+00:00",
+  "LastChanged": "2023-12-04T01:48:34.6290157+00:00",
+  "LastChanged_Achievements": "2023-12-04T01:52:43.2347828+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:20.3030051+00:00",
-  "LastUpdate_Ratings": "2023-12-04T00:01:04.8108219+00:00",
-  "LastUpdate_Achievements": "2023-12-04T00:04:46.9645119+00:00"
+  "LastUpdate_Ratings": "2023-12-04T01:48:34.6290161+00:00",
+  "LastUpdate_Achievements": "2023-12-04T01:52:43.2356484+00:00"
 }

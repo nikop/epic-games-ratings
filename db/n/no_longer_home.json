@@ -2,10 +2,10 @@
   "ID": "1be39e503e234386a7d4456d33b197fc",
   "Name": "No Longer Home",
   "ProductSlug": "no-longer-home",
-  "Ranking_EOS_Progress": 775,
+  "Ranking_EOS_Progress": 776,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 488,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-07-30T12:00:00+00:00",
     "PcReleaseDate": "2021-07-30T12:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:13.5829267+00:00",
   "LastChanged": "2023-03-31T05:57:13.5829268+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:16.2106368+00:00",
-  "LastUpdate_Ratings": "2023-12-04T00:00:56.3054886+00:00",
-  "LastUpdate_Achievements": "2023-12-04T00:03:47.6757229+00:00"
+  "LastUpdate_Ratings": "2023-12-04T01:48:28.2056298+00:00",
+  "LastUpdate_Achievements": "2023-12-04T01:51:54.5389442+00:00"
 }

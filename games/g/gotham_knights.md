@@ -1,17 +1,17 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 936)  
+Rating: 4.18 (Ranked 935)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 50.00% | ~38,822 |
 | Har, Har, Har, Very Funny | 34.00% | ~26,399 |
 | Loose Ends | 33.00% | ~25,623 |
-| To the Victor Go the Spoils | 28.00% | ~21,740 |
+| To the Victor Go the Spoils | 28.00% | ~21,741 |
 | Knighthood | 27.00% | ~20,964 |
 | Get ReQ'd | 25.00% | ~19,411 |
-| Whispered Words | 24.00% | ~18,635 |
+| Whispered Words | 25.00% | ~19,411 |
 | The Batman Family | 22.00% | ~17,082 |
 | Lock and Key | 22.00% | ~17,082 |
 | Something in the Clay | 21.00% | ~16,305 |
@@ -19,10 +19,10 @@ Rating: 4.18 (Ranked 936)
 | Working Hard or Harley Working? | 20.00% | ~15,529 |
 | Unstoppable Force | 20.00% | ~15,529 |
 | Bad Apples in Every Orchard | 20.00% | ~15,529 |
-| Snow Problem | 19.00% | ~14,752 |
+| Snow Problem | 19.00% | ~14,753 |
 | The Show Mud Go On | 18.00% | ~13,976 |
 | From Inside Gotham's Walls | 18.00% | ~13,976 |
-| Protector of Gotham | 17.00% | ~13,199 |
+| Protector of Gotham | 17.00% | ~13,200 |
 | Universal Health Scare | 16.00% | ~12,423 |
 | In Your Element | 15.00% | ~11,647 |
 | Voiceless | 15.00% | ~11,647 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 936)
 | Element of Surprise | 0.20% | ~96 |
 | It's Nice to Be Wanted | 0.20% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,644 (Ranked 99)  
+Progressed: 77,645 (Ranked 99)  
 Completed: 124 (0.16%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 124 (0.16%) (Ranked 269)
 | 2023-12-01 | 77,532 | 124 |
 | 2023-12-02 | 77,577 | 124 |
 | 2023-12-03 | 77,643 | 124 |
-| 2023-12-04 | 77,644 | 124 |
+| 2023-12-04 | 77,645 | 124 |
 ## Awards
 Max (Great Boss Battles): 2,989  (Ranked 98)  
 Sum: 5,101 (Ranked 140)  

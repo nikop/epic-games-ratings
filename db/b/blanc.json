@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3190,
+  "EOS_Progressed": 3191,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -4791,6 +4791,11 @@
       "Time": "2023-12-03T21:04:27.6285152+00:00",
       "NumProgressed": 3190,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-04T01:53:14.8852826+00:00",
+      "NumProgressed": 3191,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -4866,7 +4871,7 @@
       "Name": "Starting as a duo",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -4905,7 +4910,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3190,
+      "Progressed": 3191,
       "Completed": 6
     }
   ],
@@ -4913,8 +4918,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-04T00:05:26.1215018+00:00",
+  "LastChanged_Achievements": "2023-12-04T01:53:14.8852821+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:22.6950578+00:00",
-  "LastUpdate_Ratings": "2023-12-03T23:58:46.3585986+00:00",
-  "LastUpdate_Achievements": "2023-12-04T00:05:26.1215327+00:00"
+  "LastUpdate_Ratings": "2023-12-04T01:46:45.8566234+00:00",
+  "LastUpdate_Achievements": "2023-12-04T01:53:14.8853128+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -253,7 +253,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15880,
+  "EOS_Progressed": 15884,
   "EOS_Completed": 40,
   "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 5,
@@ -13033,6 +13033,11 @@
       "Time": "2023-12-04T00:05:50.3569551+00:00",
       "NumProgressed": 15880,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-12-04T01:53:34.6731097+00:00",
+      "NumProgressed": 15884,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13085,7 +13090,7 @@
       "Name": "Doctor Approved",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "15",
@@ -13117,7 +13122,7 @@
       "Name": "Bottoms up!",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "19",
@@ -13141,7 +13146,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "21",
@@ -13301,7 +13306,7 @@
       "Name": "Zen Master",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "34",
@@ -13309,7 +13314,7 @@
       "Name": "Master Negotiator",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "35",
@@ -13324,22 +13329,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15880,
+      "Progressed": 15884,
       "Completed": 40
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1834,
-      "Completed": 807
+      "Progressed": 1838,
+      "Completed": 808
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-03T18:02:39.8331355+00:00",
-  "LastChanged_Achievements": "2023-12-04T00:05:50.3569547+00:00",
+  "LastChanged_Achievements": "2023-12-04T01:53:34.6731091+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-04T00:02:49.2041447+00:00",
-  "LastUpdate_Achievements": "2023-12-04T00:05:50.3570528+00:00"
+  "LastUpdate_Ratings": "2023-12-04T01:51:06.7932996+00:00",
+  "LastUpdate_Achievements": "2023-12-04T01:53:34.6731948+00:00"
 }

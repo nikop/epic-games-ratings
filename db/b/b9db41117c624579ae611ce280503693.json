@@ -2,10 +2,10 @@
   "ID": "b9db41117c624579ae611ce280503693",
   "Name": "Vampire Clans",
   "ProductSlug": "vampire-clans-a12dac",
-  "Ranking_EOS_Progress": 775,
+  "Ranking_EOS_Progress": 776,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 488,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-01T16:57:03.6777811+00:00",
-  "LastUpdate_Ratings": "2023-12-04T00:00:20.9689189+00:00",
-  "LastUpdate_Achievements": "2023-12-04T00:07:20.5655281+00:00"
+  "LastUpdate_Ratings": "2023-12-04T01:48:00.5469321+00:00",
+  "LastUpdate_Achievements": "2023-12-04T01:54:47.5895897+00:00"
 }

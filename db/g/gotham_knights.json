@@ -2,13 +2,13 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 936,
+  "Ranking_Rating": 935,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4505,9 +4505,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77644,
+  "EOS_Progressed": 77645,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 424,
+  "EOS_NewPlayers": 418,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24905,6 +24905,11 @@
       "Time": "2023-12-04T00:07:12.7977911+00:00",
       "NumProgressed": 77644,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-04T01:54:41.4120887+00:00",
+      "NumProgressed": 77645,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -25012,7 +25017,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 13199
+      "UsersEstimate": 13200
     },
     {
       "ID": "CLAYFACE_1",
@@ -25140,7 +25145,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21740
+      "UsersEstimate": 21741
     },
     {
       "ID": "FREEZE_1_5",
@@ -25156,7 +25161,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14752
+      "UsersEstimate": 14753
     },
     {
       "ID": "FREEZE_3",
@@ -25314,9 +25319,9 @@
       "ID": "MYSTERY_02",
       "SetID": "4eo5ebm",
       "Name": "Whispered Words",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18635
+      "UsersEstimate": 19411
     },
     {
       "ID": "MYSTERY_03",
@@ -25403,13 +25408,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77644,
+      "Progressed": 77645,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47924,
+      "Progressed": 47925,
       "Completed": 2675
     }
   ],
@@ -25417,8 +25422,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-03T13:57:01.5180238+00:00",
-  "LastChanged_Achievements": "2023-12-04T00:07:12.7977908+00:00",
+  "LastChanged_Achievements": "2023-12-04T01:54:41.4120884+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.5024346+00:00",
-  "LastUpdate_Ratings": "2023-12-03T23:57:36.0015096+00:00",
-  "LastUpdate_Achievements": "2023-12-04T00:07:12.7979052+00:00"
+  "LastUpdate_Ratings": "2023-12-04T01:45:50.6660814+00:00",
+  "LastUpdate_Achievements": "2023-12-04T01:54:41.4122076+00:00"
 }

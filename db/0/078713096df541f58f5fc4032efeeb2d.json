@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 569,
   "Ranking_EOS_Completed": 366,
   "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -273,17 +273,17 @@
       "ID": "creepytale3_ach_31",
       "SetID": "7idcjbn",
       "Name": "An insidious ritual",
-      "Percentage": 16,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "creepytale3_ach_32",
       "SetID": "7idcjbn",
       "Name": "Classic",
-      "Percentage": 21,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "creepytale3_ach_33",
@@ -297,17 +297,17 @@
       "ID": "creepytale3_ach_34",
       "SetID": "7idcjbn",
       "Name": "Harvest",
-      "Percentage": 26,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "creepytale3_ach_35",
       "SetID": "7idcjbn",
       "Name": "Heartfelt conversations",
-      "Percentage": 21,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "creepytale3_ach_36",
@@ -400,8 +400,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-12-04T00:06:54.4428901+00:00",
+  "LastChanged_Achievements": "2023-12-04T01:54:26.4236826+00:00",
   "LastUpdate_AppInfo": "2023-11-29T05:57:16.1514694+00:00",
-  "LastUpdate_Ratings": "2023-12-03T23:57:19.9206315+00:00",
-  "LastUpdate_Achievements": "2023-12-04T00:06:54.4429177+00:00"
+  "LastUpdate_Ratings": "2023-12-04T01:45:38.2971894+00:00",
+  "LastUpdate_Achievements": "2023-12-04T01:54:26.4237021+00:00"
 }

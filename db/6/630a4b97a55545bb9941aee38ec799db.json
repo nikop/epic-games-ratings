@@ -2,10 +2,10 @@
   "ID": "630a4b97a55545bb9941aee38ec799db",
   "Name": "Eastern Exorcist",
   "ProductSlug": "eastern-exorcist-d49923",
-  "Ranking_EOS_Progress": 775,
+  "Ranking_EOS_Progress": 776,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 488,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-20T03:00:00+00:00",
     "PcReleaseDate": "2021-07-08T02:00:00+00:00",
@@ -43,8 +43,8 @@
   ],
   "FirstSeen": "2023-11-30T13:08:38.145365+00:00",
   "FirstSeenAchievements": "2023-11-20T04:03:02.477451+00:00",
-  "LastChanged_Achievements": "2023-12-04T00:06:05.7430996+00:00",
+  "LastChanged_Achievements": "2023-12-04T01:53:46.6937212+00:00",
   "LastUpdate_AppInfo": "2023-11-27T03:57:12.5517412+00:00",
-  "LastUpdate_Ratings": "2023-12-04T00:02:56.1846886+00:00",
-  "LastUpdate_Achievements": "2023-12-04T00:06:05.743103+00:00"
+  "LastUpdate_Ratings": "2023-12-04T01:51:12.1573632+00:00",
+  "LastUpdate_Achievements": "2023-12-04T01:53:46.6937245+00:00"
 }

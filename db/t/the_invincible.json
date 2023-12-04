@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 366,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 3645,
+  "Ranking_EOS_NewCompleters": 3646,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 508,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1598,9 +1598,9 @@
       "ID": "AchvReachBase",
       "SetID": "1hj060c",
       "Name": "The field base",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 188
     },
     {
       "ID": "AchvReachCamp",
@@ -1669,8 +1669,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-04T00:08:58.6767058+00:00",
+  "LastChanged_Achievements": "2023-12-04T01:57:10.5899868+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.6526822+00:00",
-  "LastUpdate_Ratings": "2023-12-03T23:57:32.0302023+00:00",
-  "LastUpdate_Achievements": "2023-12-04T00:08:58.6767246+00:00"
+  "LastUpdate_Ratings": "2023-12-04T01:45:47.7538328+00:00",
+  "LastUpdate_Achievements": "2023-12-04T01:57:10.590009+00:00"
 }

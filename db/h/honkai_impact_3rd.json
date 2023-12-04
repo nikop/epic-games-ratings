@@ -5,10 +5,10 @@
   "Ranking_Rating": 592,
   "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 85,
-  "Ranking_EOS_Progress": 775,
+  "Ranking_EOS_Progress": 776,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 488,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-10-27T06:00:00+00:00",
     "PcReleaseDate": null,
@@ -8987,10 +8987,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 11484,
       "NumberOfAwardsMax": 3079
+    },
+    {
+      "Time": "2023-12-04T01:47:15.2061629+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 11489,
+      "NumberOfAwardsMax": 3079
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11484,
+  "NumberOfAwards": 11489,
   "NumberOfAwardsMax": 3079,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9016,7 +9022,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 607
+      "Count": 610
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9070,7 +9076,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 597
+      "Count": 599
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -9091,8 +9097,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
-  "LastChanged": "2023-12-03T11:58:26.7051029+00:00",
+  "LastChanged": "2023-12-04T01:47:15.2061628+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:37.8782577+00:00",
-  "LastUpdate_Ratings": "2023-12-03T23:59:23.8958848+00:00",
-  "LastUpdate_Achievements": "2023-12-04T00:05:33.3037173+00:00"
+  "LastUpdate_Ratings": "2023-12-04T01:47:15.2061633+00:00",
+  "LastUpdate_Achievements": "2023-12-04T01:53:20.9603034+00:00"
 }

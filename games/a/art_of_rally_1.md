@@ -1,7 +1,7 @@
 # Art of Rally
 [Store](https://store.epicgames.com/en-US/p/art-of-rally)  
 [View Rawdata](../../db/a/art_of_rally_1.json)  
-Rating: 4.86 (Ranked 33)  
+Rating: 4.86 (Ranked 34)  
 Number of Ratings: 56  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -51,7 +51,7 @@ Number of Ratings: 56  (23.09.2022)
 | barely keeping it together | 0.40% | ~41 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10,333 (Ranked 165)  
-Completed: 9 (0.09%) (Ranked 292)  
+Completed: 9 (0.09%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

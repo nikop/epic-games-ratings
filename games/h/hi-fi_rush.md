@@ -5,22 +5,22 @@ Rating: 4.87 (Ranked 24)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 19.00% | ~848 |
-| Feeling the beat! | 19.00% | ~848 |
+| Start with a bang! | 19.00% | ~849 |
+| Feeling the beat! | 19.00% | ~849 |
 | You can pet the cat! | 18.00% | ~804 |
 | Who put gears in there? | 17.00% | ~759 |
-| Cream of the Crop | 16.00% | ~714 |
+| Cream of the Crop | 16.00% | ~715 |
 | Thanks for the free chip, Peppermint! | 15.00% | ~670 |
 | You got this, Peppermint? | 15.00% | ~670 |
 | Perfect Parry | 14.00% | ~625 |
-| Alright, that felt AWESOME! | 13.00% | ~580 |
+| Alright, that felt AWESOME! | 13.00% | ~581 |
 | This will cost you big time | 12.00% | ~536 |
 | I play my own way! | 12.00% | ~536 |
 | Z-shielding's got nothing on us! | 12.00% | ~536 |
 | Uh, they were broken when I got here | 12.00% | ~536 |
 | Kissing the sky! | 11.00% | ~491 |
-| The Negotiator | 10.00% | ~446 |
-| Whoa! There's ANOTHER health bar!? | 10.00% | ~446 |
+| The Negotiator | 10.00% | ~447 |
+| Whoa! There's ANOTHER health bar!? | 10.00% | ~447 |
 | Headliner | 9.00% | ~402 |
 | Time to pay up! | 9.00% | ~402 |
 | You must like calling me in, Chai | 9.00% | ~402 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,465 (Ranked 194)  
+Progressed: 4,466 (Ranked 194)  
 Completed: 8 (0.18%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 8 (0.18%) (Ranked 265)
 | 2023-12-01 | 4,446 | 8 |
 | 2023-12-02 | 4,456 | 8 |
 | 2023-12-03 | 4,464 | 8 |
-| 2023-12-04 | 4,465 | 8 |
+| 2023-12-04 | 4,466 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

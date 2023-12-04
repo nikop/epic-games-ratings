@@ -170,6 +170,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Run, Pheidippides, Run! | 0.40% | ~62 |
 | Nenikekamen | 0.40% | ~62 |
 | Assyria | 0.40% | ~62 |
+| Apadana in Parsa | 0.40% | ~62 |
 | Play a Free-For-All Game (>2 Players) | 0.40% | ~62 |
 | Circus Maximus in Roma | 0.40% | ~62 |
 | Necropolis in Waset | 0.40% | ~62 |
@@ -184,7 +185,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | A Good Start | 0.30% | ~47 |
 | Tell the Spartans | 0.30% | ~47 |
 | Medo-Babylonian Conquest | 0.30% | ~47 |
-| Apadana in Parsa | 0.30% | ~47 |
 | Pantheon in Roma | 0.30% | ~47 |
 | Randomized Leaders | 0.30% | ~47 |
 | Barbarian Horde | 0.20% | ~31 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,620 (Ranked 152)  
+Progressed: 15,621 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -577,10 +577,10 @@ Completed: 5 (0.03%) (Ranked 329)
 | 2023-12-01 | 15,583 | 5 |
 | 2023-12-02 | 15,604 | 5 |
 | 2023-12-03 | 15,619 | 5 |
-| 2023-12-04 | 15,620 | 5 |
+| 2023-12-04 | 15,621 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
-Sum: 1,885 (Ranked 220)  
+Sum: 1,886 (Ranked 220)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
@@ -591,8 +591,8 @@ Diff (max vs sum): 54
 | This game is Educational | 212 |
 | This game has Challenging Combat | 204 |
 | This game has Amazing Characters | 197 |
+| This game has Quickly Understood Controls | 195 |
 | This game has Amazing Storytelling | 195 |
-| This game has Quickly Understood Controls | 194 |
 | This game has Obsessive Gameplay | 155 |
 | This game has a Creative Community | 101 |
 | This game has Competitive Players | 59 |
@@ -768,3 +768,4 @@ Diff (max vs sum): 54
 | 2023-12-01 | 4.65 | - | 228 | 1,883 |
 | 2023-12-02 | 4.65 | - | 228 | 1,884 |
 | 2023-12-03 | 4.65 | - | 228 | 1,885 |
+| 2023-12-04 | 4.65 | - | 228 | 1,886 |

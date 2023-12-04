@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7570,
+  "EOS_Progressed": 7571,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -6053,6 +6053,11 @@
       "Time": "2023-12-03T18:03:34.408015+00:00",
       "NumProgressed": 7570,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-04T01:52:14.6328586+00:00",
+      "NumProgressed": 7571,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -6096,7 +6101,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 4012
+      "UsersEstimate": 4013
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -6112,7 +6117,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1665
+      "UsersEstimate": 1666
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -6120,7 +6125,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1892
+      "UsersEstimate": 1893
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -6128,7 +6133,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1892
+      "UsersEstimate": 1893
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -6216,7 +6221,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4239
+      "UsersEstimate": 4240
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -6279,15 +6284,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7570,
+      "Progressed": 7571,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-12-04T00:04:11.9256112+00:00",
+  "LastChanged_Achievements": "2023-12-04T01:52:14.632858+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:34.8326286+00:00",
-  "LastUpdate_Ratings": "2023-12-04T00:03:09.5013771+00:00",
-  "LastUpdate_Achievements": "2023-12-04T00:04:11.9256596+00:00"
+  "LastUpdate_Ratings": "2023-12-04T01:51:22.7182509+00:00",
+  "LastUpdate_Achievements": "2023-12-04T01:52:14.632893+00:00"
 }

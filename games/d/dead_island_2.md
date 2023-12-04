@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,661 |
-| Pork Chopped | 3.00% | ~1,661 |
+| Whatever It Takes | 3.00% | ~1,662 |
+| Pork Chopped | 3.00% | ~1,662 |
 | Dr. Reed, I Presume? | 2.00% | ~14,597 |
 | Git Gutte! | 2.00% | ~14,597 |
 | Bookworm | 2.00% | ~14,597 |
@@ -19,21 +19,21 @@ Rating: 4.54 (Ranked 529)
 | Personal Assistant Personally Assisted | 2.00% | ~14,597 |
 | Welcome To Hell-A | 2.00% | ~14,597 |
 | One of Us | 2.00% | ~1,108 |
-| Making Your Mark | 1.00% | ~7,298 |
-| Anger Management | 1.00% | ~7,298 |
-| Perks of the Job | 1.00% | ~7,298 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,298 |
-| But Doctor, I am Butcho | 1.00% | ~7,298 |
-| Slayer Squad | 1.00% | ~7,298 |
-| Can't Handle the Truth | 1.00% | ~7,298 |
-| Like Riding a Bike | 1.00% | ~7,298 |
-| Zombologist | 1.00% | ~7,298 |
-| Ooh, Shiny! | 1.00% | ~7,298 |
-| A Patton Emerges | 1.00% | ~7,298 |
-| I Am the Resurrection | 1.00% | ~7,298 |
-| Stacking the Deck | 1.00% | ~7,298 |
-| Our True Nature | 1.00% | ~7,298 |
-| This is My Weapon | 1.00% | ~7,298 |
+| Making Your Mark | 1.00% | ~7,299 |
+| Anger Management | 1.00% | ~7,299 |
+| Perks of the Job | 1.00% | ~7,299 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,299 |
+| But Doctor, I am Butcho | 1.00% | ~7,299 |
+| Slayer Squad | 1.00% | ~7,299 |
+| Can't Handle the Truth | 1.00% | ~7,299 |
+| Like Riding a Bike | 1.00% | ~7,299 |
+| Zombologist | 1.00% | ~7,299 |
+| Ooh, Shiny! | 1.00% | ~7,299 |
+| A Patton Emerges | 1.00% | ~7,299 |
+| I Am the Resurrection | 1.00% | ~7,299 |
+| Stacking the Deck | 1.00% | ~7,299 |
+| Our True Nature | 1.00% | ~7,299 |
+| This is My Weapon | 1.00% | ~7,299 |
 | Humanity Distilled | 0.90% | ~6,569 |
 | Max Headroom | 0.90% | ~6,569 |
 | Down with the Sickness | 0.80% | ~5,839 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 529)
 | Bucket List | 0.10% | ~730 |
 | Wilhelm | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 729,838 (Ranked 21)  
+Progressed: 729,864 (Ranked 21)  
 Completed: 2,461 (0.34%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 2,461 (0.34%) (Ranked 232)
 | 2023-12-01 | 728,667 | 2,459 |
 | 2023-12-02 | 729,149 | 2,460 |
 | 2023-12-03 | 729,822 | 2,461 |
-| 2023-12-04 | 729,838 | 2,461 |
+| 2023-12-04 | 729,864 | 2,461 |
 ## Awards
 Max (Great Boss Battles): 7,892  (Ranked 49)  
 Sum: 12,110 (Ranked 82)  

@@ -31,6 +31,7 @@ Rating: 4.75 (Ranked 147)
 | Power Surge | 0.30% | ~703 |
 | The God Gambit | 0.30% | ~703 |
 | Dark Designs | 0.30% | ~703 |
+| Madman's Paradise | 0.30% | ~703 |
 | Equal Measures | 0.30% | ~703 |
 | Shhh...It's a Secret | 0.30% | ~703 |
 | Was This Supposed To Happen? | 0.30% | ~703 |
@@ -38,22 +39,21 @@ Rating: 4.75 (Ranked 147)
 | The Web | 0.30% | ~703 |
 | Scrap Collector | 0.30% | ~703 |
 | All These Traits� | 0.30% | ~703 |
-| Crafty | 0.20% | ~468 |
-| Ghost in the Machine | 0.20% | ~468 |
-| Madman's Paradise | 0.20% | ~468 |
-| The Agenda | 0.20% | ~468 |
-| Tall Tales | 0.20% | ~468 |
-| Bad Moon Rising | 0.20% | ~468 |
-| Strapped | 0.20% | ~468 |
-| The Trigger | 0.20% | ~468 |
-| Cutting Edge | 0.20% | ~468 |
-| The Collector | 0.20% | ~468 |
-| Scrap Hoarder | 0.20% | ~468 |
-| Carnage in C-Minor | 0.20% | ~468 |
-| The Ultimate Weapon | 0.20% | ~468 |
-| No One Should Have All That Power | 0.20% | ~468 |
-| Maxed Out! | 0.20% | ~468 |
-| Transmutate | 0.20% | ~468 |
+| Crafty | 0.20% | ~469 |
+| Ghost in the Machine | 0.20% | ~469 |
+| The Agenda | 0.20% | ~469 |
+| Tall Tales | 0.20% | ~469 |
+| Bad Moon Rising | 0.20% | ~469 |
+| Strapped | 0.20% | ~469 |
+| The Trigger | 0.20% | ~469 |
+| Cutting Edge | 0.20% | ~469 |
+| The Collector | 0.20% | ~469 |
+| Scrap Hoarder | 0.20% | ~469 |
+| Carnage in C-Minor | 0.20% | ~469 |
+| The Ultimate Weapon | 0.20% | ~469 |
+| No One Should Have All That Power | 0.20% | ~469 |
+| Maxed Out! | 0.20% | ~469 |
+| Transmutate | 0.20% | ~469 |
 | Succession | 0.20% | ~27 |
 | You Shall Pass | 0.20% | ~27 |
 | Only Human | 0.10% | ~234 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 147)
 | Proving Grounds | 0.10% | ~234 |
 | A Foul Feast | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,238 (Ranked 68)  
+Progressed: 234,299 (Ranked 68)  
 Completed: 554 (0.24%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,17 +202,17 @@ Completed: 554 (0.24%) (Ranked 250)
 | 2023-12-01 | 232,269 | 546 |
 | 2023-12-02 | 233,162 | 548 |
 | 2023-12-03 | 234,204 | 554 |
-| 2023-12-04 | 234,238 | 554 |
+| 2023-12-04 | 234,299 | 554 |
 ## Awards
 Max (Great Boss Battles): 2,603  (Ranked 102)  
-Sum: 6,405 (Ranked 128)  
+Sum: 6,412 (Ranked 128)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,603 |
 | This game has Diverse Characters | 421 |
 | This game is Highly Recommended | 416 |
-| This game has Challenging Combat | 402 |
+| This game has Challenging Combat | 409 |
 | This game is Relaxing | 396 |
 | This game is Extremely Fun | 395 |
 | This game has Amazing Storytelling | 395 |
@@ -354,3 +354,4 @@ Diff (max vs sum): -26
 | 2023-12-01 | 4.75 | 2,558 | 6,266 |
 | 2023-12-02 | 4.75 | 2,577 | 6,336 |
 | 2023-12-03 | 4.75 | 2,603 | 6,405 |
+| 2023-12-04 | 4.75 | 2,603 | 6,412 |

@@ -4,8 +4,8 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 707,
+  "EOS_Progressed": 708,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.56,
+  "EOS_Completed_Percentage": 1.55,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.144074+00:00",
@@ -1855,6 +1855,11 @@
       "Time": "2023-12-03T20:09:52.112618+00:00",
       "NumProgressed": 707,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-04T01:57:43.1882805+00:00",
+      "NumProgressed": 708,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 15,
@@ -1866,7 +1871,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "booty_call",
@@ -1890,7 +1895,7 @@
       "Name": "Digital Casanova",
       "Percentage": 97,
       "XP": 50,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "hold_my_beer",
@@ -1938,7 +1943,7 @@
       "Name": "Nueva Beginnings",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "only_thyme_will_tell",
@@ -1946,7 +1951,7 @@
       "Name": "Only Thyme Will Tell",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "planting_the_seed",
@@ -1954,7 +1959,7 @@
       "Name": "Planting the Seed",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "smooth_criminal",
@@ -1985,7 +1990,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 707,
+      "Progressed": 708,
       "Completed": 11
     }
   ],
@@ -1993,8 +1998,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-12-04T00:09:39.9498766+00:00",
+  "LastChanged_Achievements": "2023-12-04T01:57:43.18828+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:06.2456527+00:00",
-  "LastUpdate_Ratings": "2023-12-04T00:00:34.3347308+00:00",
-  "LastUpdate_Achievements": "2023-12-04T00:09:39.949894+00:00"
+  "LastUpdate_Ratings": "2023-12-04T01:48:10.8761393+00:00",
+  "LastUpdate_Achievements": "2023-12-04T01:57:43.1882996+00:00"
 }

@@ -11,7 +11,7 @@ Rating: 4.53 (Ranked 542)
 | Captain Drummer | 7.00% | ~1,112 |
 | Celebrations are in Order | 7.00% | ~1,112 |
 | Impossible Objects | 7.00% | ~1,112 |
-| Zen Master | 7.00% | ~128 |
+| Zen Master | 7.00% | ~129 |
 | Spore Taste | 6.00% | ~953 |
 | Martian Music | 6.00% | ~953 |
 | Drone Dodger | 6.00% | ~953 |
@@ -24,10 +24,10 @@ Rating: 4.53 (Ranked 542)
 | Data Archivist | 4.00% | ~635 |
 | Heal Thy Medic | 4.00% | ~635 |
 | Khan's Revenge | 4.00% | ~635 |
-| Master Negotiator | 4.00% | ~73 |
-| Doctor Approved | 3.00% | ~476 |
-| Bottoms up! | 3.00% | ~476 |
-| Thorston Mayer | 3.00% | ~476 |
+| Master Negotiator | 4.00% | ~74 |
+| Doctor Approved | 3.00% | ~477 |
+| Bottoms up! | 3.00% | ~477 |
+| Thorston Mayer | 3.00% | ~477 |
 | Data Logger | 2.00% | ~318 |
 | Miraculous Maya | 2.00% | ~318 |
 | Data Master | 2.00% | ~318 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 542)
 | Scavenger Star | 0.10% | ~16 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,880 (Ranked 151)  
+Progressed: 15,884 (Ranked 151)  
 Completed: 40 (0.25%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 40 (0.25%) (Ranked 249)
 | 2023-12-01 | 15,822 | 39 |
 | 2023-12-02 | 15,842 | 39 |
 | 2023-12-03 | 15,879 | 40 |
-| 2023-12-04 | 15,880 | 40 |
+| 2023-12-04 | 15,884 | 40 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

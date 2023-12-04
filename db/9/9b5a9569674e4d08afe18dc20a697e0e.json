@@ -2,10 +2,10 @@
   "ID": "9b5a9569674e4d08afe18dc20a697e0e",
   "Name": "Aron\u0027s Adventure: Magic Reborn",
   "ProductSlug": "arons-adventure-1e76cd",
-  "Ranking_EOS_Progress": 414,
+  "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
     "PcReleaseDate": "2021-04-07T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 131,
+  "EOS_Progressed": 133,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -514,6 +514,11 @@
       "Time": "2023-12-03T14:08:29.2599568+00:00",
       "NumProgressed": 131,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-04T01:51:31.0951458+00:00",
+      "NumProgressed": 133,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T20:03:47.3726007+00:00",
@@ -524,9 +529,9 @@
       "ID": "ADVENTURE",
       "SetID": "40o4f14",
       "Name": "Adventure awaits",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 100,
-      "UsersEstimate": 107
+      "UsersEstimate": 110
     },
     {
       "ID": "BARON",
@@ -558,7 +563,7 @@
       "Name": "Dragon Cult",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "DISCIPLE",
@@ -638,7 +643,7 @@
       "Name": "Liberator",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "LIBRARY",
@@ -686,7 +691,7 @@
       "Name": "Moist",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "MOUNTAINEER",
@@ -732,17 +737,17 @@
       "ID": "SNEAKY",
       "SetID": "40o4f14",
       "Name": "Sneaky",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 40
     },
     {
       "ID": "SOUL",
       "SetID": "40o4f14",
       "Name": "A restless soul",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "WASHING",
@@ -773,14 +778,14 @@
     {
       "ID": "40o4f14",
       "IsBase": true,
-      "Progressed": 131,
+      "Progressed": 133,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-12-04T00:03:18.8268427+00:00",
+  "LastChanged_Achievements": "2023-12-04T01:51:31.0951453+00:00",
   "LastUpdate_AppInfo": "2023-11-30T01:44:08.4871505+00:00",
-  "LastUpdate_Ratings": "2023-12-04T00:02:38.0743137+00:00",
-  "LastUpdate_Achievements": "2023-12-04T00:03:18.8287115+00:00"
+  "LastUpdate_Ratings": "2023-12-04T01:50:57.9306255+00:00",
+  "LastUpdate_Achievements": "2023-12-04T01:51:31.0951871+00:00"
 }

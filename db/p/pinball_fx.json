@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 366,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2059,9 +2059,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 282166,
+  "EOS_Progressed": 282170,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 751,
+  "EOS_NewPlayers": 750,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28069,6 +28069,11 @@
       "Time": "2023-12-04T00:07:21.44098+00:00",
       "NumProgressed": 282166,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-04T01:54:48.3048278+00:00",
+      "NumProgressed": 282170,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -28160,7 +28165,7 @@
       "Name": "Shiny Memento",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -28208,7 +28213,7 @@
       "Name": "Pinball Hoarder",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -28240,7 +28245,7 @@
       "Name": "I Found it!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 31038
+      "UsersEstimate": 31039
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -28264,7 +28269,7 @@
       "Name": "Interior Designer",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -28304,7 +28309,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 231376
+      "UsersEstimate": 231379
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -28312,28 +28317,28 @@
       "Name": "I know the Rules",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 95936
+      "UsersEstimate": 95938
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 282166,
+      "Progressed": 282170,
       "Completed": 0
     },
     {
       "ID": "5ld4kno",
       "IsBase": false,
-      "Progressed": 325,
-      "Completed": 325
+      "Progressed": 329,
+      "Completed": 329
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-11-30T20:03:23.0507631+00:00",
-  "LastChanged_Achievements": "2023-12-04T00:07:21.4409796+00:00",
+  "LastChanged_Achievements": "2023-12-04T01:54:48.3048273+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.6593003+00:00",
-  "LastUpdate_Ratings": "2023-12-04T00:03:15.4148235+00:00",
-  "LastUpdate_Achievements": "2023-12-04T00:07:21.4410916+00:00"
+  "LastUpdate_Ratings": "2023-12-04T01:51:27.3172566+00:00",
+  "LastUpdate_Achievements": "2023-12-04T01:54:48.304946+00:00"
 }

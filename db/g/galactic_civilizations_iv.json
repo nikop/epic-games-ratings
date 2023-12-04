@@ -5,10 +5,10 @@
   "Ranking_Rating": 942,
   "Ranking_Popularity": 369,
   "Ranking_PopularitySum": 300,
-  "Ranking_EOS_Progress": 178,
+  "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -933,7 +933,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7380,
+  "EOS_Progressed": 7381,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
@@ -8933,6 +8933,11 @@
       "Time": "2023-12-03T21:08:45.9463994+00:00",
       "NumProgressed": 7380,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-04T01:57:25.8510158+00:00",
+      "NumProgressed": 7381,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9160,7 +9165,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2435
+      "UsersEstimate": 2436
     },
     {
       "ID": "Play_1000_Hours",
@@ -9264,7 +9269,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4428
+      "UsersEstimate": 4429
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -9432,7 +9437,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4797
+      "UsersEstimate": 4798
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -9496,7 +9501,7 @@
       "Name": "Prestige Victory!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "Win_Quickly",
@@ -9519,15 +9524,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7380,
+      "Progressed": 7381,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-12-04T00:00:47.1534207+00:00",
-  "LastChanged_Achievements": "2023-12-04T00:09:17.9346232+00:00",
+  "LastChanged_Achievements": "2023-12-04T01:57:25.8510152+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:22.8362699+00:00",
-  "LastUpdate_Ratings": "2023-12-04T00:00:47.1534212+00:00",
-  "LastUpdate_Achievements": "2023-12-04T00:09:17.9346988+00:00"
+  "LastUpdate_Ratings": "2023-12-04T01:48:21.0809224+00:00",
+  "LastUpdate_Achievements": "2023-12-04T01:57:25.8511002+00:00"
 }

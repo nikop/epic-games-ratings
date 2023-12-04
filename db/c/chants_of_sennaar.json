@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 861,
+  "EOS_Progressed": 862,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 5.69,
+  "EOS_Completed_Percentage": 5.68,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3485,6 +3485,11 @@
       "Time": "2023-12-03T23:03:21.8269372+00:00",
       "NumProgressed": 861,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-04T01:51:49.4666514+00:00",
+      "NumProgressed": 862,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 25,
@@ -3528,7 +3533,7 @@
       "Name": "A good beginning",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "META_HALF_LINK",
@@ -3544,7 +3549,7 @@
       "Name": "Open door",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "META_RESULT_1-3",
@@ -3616,7 +3621,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -3656,7 +3661,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "PROGRESS_N2",
@@ -3695,14 +3700,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 861,
+      "Progressed": 862,
       "Completed": 49
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-04T00:03:41.9575646+00:00",
+  "LastChanged_Achievements": "2023-12-04T01:51:49.466651+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:43.5720459+00:00",
-  "LastUpdate_Ratings": "2023-12-04T00:01:42.0825794+00:00",
-  "LastUpdate_Achievements": "2023-12-04T00:03:41.957593+00:00"
+  "LastUpdate_Ratings": "2023-12-04T01:49:04.0919163+00:00",
+  "LastUpdate_Achievements": "2023-12-04T01:51:49.4667104+00:00"
 }

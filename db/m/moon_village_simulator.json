@@ -2,10 +2,10 @@
   "ID": "cfed5ac1c69849129b8c8da153334052",
   "Name": "Moon Village Simulator",
   "ProductSlug": "moon-village-simulator-ac5489",
-  "Ranking_EOS_Progress": 775,
+  "Ranking_EOS_Progress": 776,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 488,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-02T18:57:24.4972087+00:00",
-  "LastUpdate_Ratings": "2023-12-03T23:57:57.029323+00:00",
-  "LastUpdate_Achievements": "2023-12-04T00:07:39.0729713+00:00"
+  "LastUpdate_Ratings": "2023-12-04T01:46:07.3169675+00:00",
+  "LastUpdate_Achievements": "2023-12-04T01:55:02.6639839+00:00"
 }

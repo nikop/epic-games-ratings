@@ -2,10 +2,10 @@
   "ID": "0e6f7995691248e59df9d6c9efb7e495",
   "Name": "The Sophisticated Art of Friendship: Tales of a Lost Friend",
   "ProductSlug": "the-sophisticated-art-of-friendship-ed1d26",
-  "Ranking_EOS_Progress": 775,
+  "Ranking_EOS_Progress": 776,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 488,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-30T16:57:26.6252796+00:00",
-  "LastUpdate_Ratings": "2023-12-03T23:58:46.8745895+00:00",
-  "LastUpdate_Achievements": "2023-12-04T00:09:53.8465915+00:00"
+  "LastUpdate_Ratings": "2023-12-04T01:46:46.1863191+00:00",
+  "LastUpdate_Achievements": "2023-12-04T01:57:54.3762323+00:00"
 }

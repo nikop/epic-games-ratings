@@ -1,25 +1,25 @@
 # Lawn Mowing Simulator
 [Store](https://store.epicgames.com/en-US/p/lawn-mowing-simulator-838bf3)  
 [View Rawdata](../../db/l/lawn_mowing_simulator.json)  
-Rating: 4.07 (Ranked 979)  
+Rating: 4.08 (Ranked 974)  
 Number of Ratings: 5,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 79.00% | ~541,660 |
-| Every story has a beginning | 36.00% | ~246,833 |
-| The first of many | 31.00% | ~212,550 |
-| Positive word of mouth | 18.00% | ~123,416 |
-| Lawn in the U.S.A. | 15.00% | ~102,847 |
-| Blade Runner | 9.00% | ~61,708 |
-| Credible | 7.00% | ~47,995 |
-| Teamwork makes the dream work | 6.00% | ~41,139 |
+| The dream begins | 79.00% | ~541,673 |
+| Every story has a beginning | 36.00% | ~246,838 |
+| The first of many | 31.00% | ~212,555 |
+| Positive word of mouth | 18.00% | ~123,419 |
+| Lawn in the U.S.A. | 15.00% | ~102,849 |
+| Blade Runner | 9.00% | ~61,710 |
+| Credible | 7.00% | ~47,996 |
+| Teamwork makes the dream work | 6.00% | ~41,140 |
 | Where there's muck there's brass | 4.00% | ~27,426 |
 | Bigger and better | 4.00% | ~27,426 |
 | Aggressive expansion | 4.00% | ~27,426 |
-| Size isn't everything | 3.00% | ~20,569 |
-| Close shave | 3.00% | ~20,569 |
-| Established | 3.00% | ~20,569 |
+| Size isn't everything | 3.00% | ~20,570 |
+| Close shave | 3.00% | ~20,570 |
+| Established | 3.00% | ~20,570 |
 | Fighting on all fronts | 2.00% | ~13,713 |
 | Mighty Mowing Park Ranger | 2.00% | ~13,713 |
 | Every good deed… | 2.00% | ~13,713 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~686 |
 | Mo mowers, mo problems | 0.10% | ~686 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 685,646 (Ranked 27)  
+Progressed: 685,662 (Ranked 27)  
 Completed: 19 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 19 (0.00%) (Ranked 366)
 | 2023-12-01 | 684,908 | 19 |
 | 2023-12-02 | 685,178 | 19 |
 | 2023-12-03 | 685,634 | 19 |
-| 2023-12-04 | 685,646 | 19 |
+| 2023-12-04 | 685,662 | 19 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 301)  
 Sum: 989 (Ranked 264)  
@@ -404,3 +404,4 @@ Diff (max vs sum): 37
 | 2023-11-20 | 4.08 | - | 182 | 988 |
 | 2023-11-26 | 4.07 | - | 182 | 988 |
 | 2023-11-27 | 4.07 | - | 182 | 989 |
+| 2023-12-04 | 4.08 | - | 182 | 989 |

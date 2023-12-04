@@ -1,14 +1,14 @@
 # The Elder Scrolls V: Skyrim Special Edition
 [Store](https://store.epicgames.com/en-US/p/skyrim)  
 [View Rawdata](../../db/t/the_elder_scrolls_v__skyrim_special_edition.json)  
-Rating: 4.86 (Ranked 33)  
+Rating: 4.86 (Ranked 34)  
 ## Awards
-Max (Character Customization): 1,568  (Ranked 129)  
-Sum: 3,553 (Ranked 163)  
+Max (Character Customization): 1,569  (Ranked 129)  
+Sum: 3,554 (Ranked 163)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 1,568 |
+| This game has Inclusive Character Customization | 1,569 |
 | This game is Great for Beginners | 293 |
 | This game has Diverse Characters | 271 |
 | This game is Highly Recommended | 237 |
@@ -292,3 +292,4 @@ Diff (max vs sum): -34
 | 2023-12-01 | 4.86 | 1,568 | 3,551 |
 | 2023-12-02 | 4.86 | 1,568 | 3,552 |
 | 2023-12-03 | 4.86 | 1,568 | 3,553 |
+| 2023-12-04 | 4.86 | 1,569 | 3,554 |

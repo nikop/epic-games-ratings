@@ -2,10 +2,10 @@
   "ID": "4843acbd9ca647e3ad3eecae110daa80",
   "Name": "Elite Comet",
   "ProductSlug": "kanea-fc0dea",
-  "Ranking_EOS_Progress": 775,
+  "Ranking_EOS_Progress": 776,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 488,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-11-10T05:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-27T19:57:21.631022+00:00",
-  "LastUpdate_Ratings": "2023-12-04T00:01:32.9797009+00:00",
-  "LastUpdate_Achievements": "2023-12-04T00:04:42.2527045+00:00"
+  "LastUpdate_Ratings": "2023-12-04T01:48:56.8728492+00:00",
+  "LastUpdate_Achievements": "2023-12-04T01:52:39.3451141+00:00"
 }
