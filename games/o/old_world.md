@@ -10,9 +10,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 7.00% | ~1,094 |
 | Explorer | 6.00% | ~938 |
 | Friendly Family | 6.00% | ~938 |
-| Able | 5.00% | ~781 |
-| Architect | 5.00% | ~781 |
-| Intrepid | 5.00% | ~781 |
+| Able | 5.00% | ~782 |
+| Architect | 5.00% | ~782 |
+| Intrepid | 5.00% | ~782 |
 | Glorious | 4.00% | ~625 |
 | Good | 4.00% | ~625 |
 | Just | 4.00% | ~625 |
@@ -43,6 +43,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 3.00% | ~469 |
 | Ishtar Gate | 3.00% | ~469 |
 | Lighthouse | 3.00% | ~469 |
+| Musaeum | 3.00% | ~469 |
 | Pyramids | 3.00% | ~469 |
 | Learn to Play 1 | 3.00% | ~469 |
 | Learn to Play 2 | 3.00% | ~469 |
@@ -75,7 +76,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 2.00% | ~313 |
 | Colossus | 2.00% | ~313 |
 | Mausoleum | 2.00% | ~313 |
-| Musaeum | 2.00% | ~313 |
 | Necropolis | 2.00% | ~313 |
 | Learn to Play 3 | 2.00% | ~313 |
 | Greece | 2.00% | ~313 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,628 (Ranked 152)  
+Progressed: 15,630 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -577,7 +577,7 @@ Completed: 5 (0.03%) (Ranked 329)
 | 2023-12-01 | 15,583 | 5 |
 | 2023-12-02 | 15,604 | 5 |
 | 2023-12-03 | 15,619 | 5 |
-| 2023-12-04 | 15,628 | 5 |
+| 2023-12-04 | 15,630 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,888 (Ranked 220)  

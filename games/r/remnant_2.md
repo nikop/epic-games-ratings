@@ -5,13 +5,13 @@ Rating: 4.75 (Ranked 147)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 0.80% | ~1,876 |
+| The Killing Jar | 0.80% | ~1,877 |
 | First of Many | 0.70% | ~1,642 |
 | Regicide | 0.70% | ~96 |
 | Master of the Dark Arts | 0.70% | ~96 |
+| Not Your Average Trait | 0.60% | ~1,407 |
 | Expanding Horizons | 0.50% | ~1,173 |
 | Quest for Survival | 0.50% | ~1,173 |
-| Not Your Average Trait | 0.50% | ~1,173 |
 | Am I Seeing This? | 0.40% | ~938 |
 | Gleaming the Cube | 0.40% | ~938 |
 | Not So Special Now | 0.40% | ~938 |
@@ -38,6 +38,7 @@ Rating: 4.75 (Ranked 147)
 | Edgelord | 0.30% | ~704 |
 | The Web | 0.30% | ~704 |
 | Scrap Collector | 0.30% | ~704 |
+| Scrap Hoarder | 0.30% | ~704 |
 | All These Traits� | 0.30% | ~704 |
 | Crafty | 0.20% | ~469 |
 | Ghost in the Machine | 0.20% | ~469 |
@@ -49,7 +50,7 @@ Rating: 4.75 (Ranked 147)
 | The Trigger | 0.20% | ~469 |
 | Cutting Edge | 0.20% | ~469 |
 | The Collector | 0.20% | ~469 |
-| Scrap Hoarder | 0.20% | ~469 |
+| Proving Grounds | 0.20% | ~469 |
 | Carnage in C-Minor | 0.20% | ~469 |
 | The Ultimate Weapon | 0.20% | ~469 |
 | No One Should Have All That Power | 0.20% | ~469 |
@@ -58,10 +59,9 @@ Rating: 4.75 (Ranked 147)
 | Succession | 0.20% | ~27 |
 | You Shall Pass | 0.20% | ~27 |
 | Red Room | 0.10% | ~235 |
-| Proving Grounds | 0.10% | ~235 |
 | A Foul Feast | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,545 (Ranked 68)  
+Progressed: 234,575 (Ranked 68)  
 Completed: 555 (0.24%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 555 (0.24%) (Ranked 250)
 | 2023-12-01 | 232,269 | 546 |
 | 2023-12-02 | 233,162 | 548 |
 | 2023-12-03 | 234,204 | 554 |
-| 2023-12-04 | 234,545 | 555 |
+| 2023-12-04 | 234,575 | 555 |
 ## Awards
 Max (Great Boss Battles): 2,603  (Ranked 102)  
 Sum: 6,428 (Ranked 128)  

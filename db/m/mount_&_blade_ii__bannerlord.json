@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -9352,10 +9352,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 15598,
       "NumberOfAwardsMax": 7490
+    },
+    {
+      "Time": "2023-12-04T14:00:05.0388481+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15599,
+      "NumberOfAwardsMax": 7490
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15598,
+  "NumberOfAwards": 15599,
   "NumberOfAwardsMax": 7490,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9393,7 +9399,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 882
+      "Count": 883
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9432,9 +9438,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 67066,
+  "EOS_Progressed": 67069,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 707,
+  "EOS_NewPlayers": 700,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33507,6 +33513,11 @@
       "Time": "2023-12-04T13:14:53.1220471+00:00",
       "NumProgressed": 67066,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-04T14:10:30.8670491+00:00",
+      "NumProgressed": 67069,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -33534,7 +33545,7 @@
       "Name": "Bannerlord",
       "Percentage": 24,
       "XP": 65,
-      "UsersEstimate": 16096
+      "UsersEstimate": 16097
     },
     {
       "ID": "Best served cold",
@@ -33678,7 +33689,7 @@
       "Name": "Horde breaker",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 16096
+      "UsersEstimate": 16097
     },
     {
       "ID": "I can do it",
@@ -33742,7 +33753,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 22132
+      "UsersEstimate": 22133
     },
     {
       "ID": "Lawbringer",
@@ -33750,7 +33761,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26826
+      "UsersEstimate": 26828
     },
     {
       "ID": "Lawmaker",
@@ -33758,7 +33769,7 @@
       "Name": "Lawmaker",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 16096
+      "UsersEstimate": 16097
     },
     {
       "ID": "Long live the Empire",
@@ -33774,7 +33785,7 @@
       "Name": "Mastery",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 5365
+      "UsersEstimate": 5366
     },
     {
       "ID": "Minor Clan",
@@ -33878,7 +33889,7 @@
       "Name": "This Is Our Land",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 9389
+      "UsersEstimate": 9390
     },
     {
       "ID": "This is Sparta",
@@ -33894,7 +33905,7 @@
       "Name": "Trained",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 16096
+      "UsersEstimate": 16097
     },
     {
       "ID": "Undercover",
@@ -33925,15 +33936,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 67066,
+      "Progressed": 67069,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-12-04T10:58:46.2811847+00:00",
-  "LastChanged_Achievements": "2023-12-04T13:14:53.1220467+00:00",
+  "LastChanged": "2023-12-04T14:00:05.0388479+00:00",
+  "LastChanged_Achievements": "2023-12-04T14:10:30.8670489+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:33.4590063+00:00",
-  "LastUpdate_Ratings": "2023-12-04T13:04:32.1653448+00:00",
-  "LastUpdate_Achievements": "2023-12-04T13:14:53.1222997+00:00"
+  "LastUpdate_Ratings": "2023-12-04T14:00:05.0388485+00:00",
+  "LastUpdate_Achievements": "2023-12-04T14:10:30.8671621+00:00"
 }

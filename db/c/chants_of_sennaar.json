@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 865,
+  "EOS_Progressed": 866,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 5.66,
   "EosHistory": [
@@ -3505,6 +3505,11 @@
       "Time": "2023-12-04T11:03:35.0849711+00:00",
       "NumProgressed": 865,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-04T14:04:32.5484514+00:00",
+      "NumProgressed": 866,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 25,
@@ -3524,7 +3529,7 @@
       "Name": "In this together",
       "Percentage": 19,
       "XP": 200,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "META_ALL_LINK",
@@ -3532,7 +3537,7 @@
       "Name": "Peace walker",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -3548,7 +3553,7 @@
       "Name": "A good beginning",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "META_HALF_LINK",
@@ -3580,7 +3585,7 @@
       "Name": "Feels like springtime",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "META_RESULT_2-3",
@@ -3596,7 +3601,7 @@
       "Name": "For its own good",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "META_RESULT_3-4",
@@ -3604,7 +3609,7 @@
       "Name": "A Link to the Past",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -3612,7 +3617,7 @@
       "Name": "Alchemists Express",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -3652,7 +3657,7 @@
       "Name": "Champollion",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -3715,14 +3720,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 865,
+      "Progressed": 866,
       "Completed": 49
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-04T13:09:15.0102402+00:00",
+  "LastChanged_Achievements": "2023-12-04T14:04:32.5484512+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:43.5720459+00:00",
-  "LastUpdate_Ratings": "2023-12-04T13:02:50.3191345+00:00",
-  "LastUpdate_Achievements": "2023-12-04T13:09:15.0102752+00:00"
+  "LastUpdate_Ratings": "2023-12-04T13:57:34.213412+00:00",
+  "LastUpdate_Achievements": "2023-12-04T14:04:32.5484842+00:00"
 }

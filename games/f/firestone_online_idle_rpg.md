@@ -5,14 +5,14 @@ Rating: 4.05 (Ranked 991)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,815 |
-| World Map | 78.00% | ~2,361 |
-| Temple of Eternals | 57.00% | ~1,725 |
-| Prestigious | 53.00% | ~1,604 |
-| Fellowship Power | 42.00% | ~1,271 |
-| Guild Power | 24.00% | ~726 |
+| Victor | 93.00% | ~2,816 |
+| World Map | 78.00% | ~2,362 |
+| Temple of Eternals | 57.00% | ~1,726 |
+| Prestigious | 53.00% | ~1,605 |
+| Fellowship Power | 42.00% | ~1,272 |
+| Guild Power | 24.00% | ~727 |
 | Prestigious x10 | 21.00% | ~636 |
-| Full Party | 20.00% | ~605 |
+| Full Party | 20.00% | ~606 |
 | The game is on | 19.00% | ~575 |
 | Exotic Merchant | 17.00% | ~515 |
 | Dragon Clicker | 16.00% | ~484 |
@@ -28,13 +28,13 @@ Rating: 4.05 (Ranked 991)
 | Milestone collector | 11.00% | ~333 |
 | Mysterious Rock | 11.00% | ~333 |
 | Scientist | 10.00% | ~303 |
-| Challenger | 9.00% | ~272 |
-| Daily Quest Completionist | 9.00% | ~272 |
-| Doing My Part | 9.00% | ~272 |
-| Hunter | 9.00% | ~272 |
-| Mastery | 9.00% | ~272 |
-| Scroll Master | 9.00% | ~272 |
-| The power of Awakening | 9.00% | ~272 |
+| Challenger | 9.00% | ~273 |
+| Daily Quest Completionist | 9.00% | ~273 |
+| Doing My Part | 9.00% | ~273 |
+| Hunter | 9.00% | ~273 |
+| Mastery | 9.00% | ~273 |
+| Scroll Master | 9.00% | ~273 |
+| The power of Awakening | 9.00% | ~273 |
 | Four Leaf Clover | 8.00% | ~242 |
 | Frostfire Liberator | 8.00% | ~242 |
 | Moving Up The Ladder | 8.00% | ~242 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 991)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,027 (Ranked 212)  
+Progressed: 3,028 (Ranked 212)  
 Completed: 2 (0.07%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 2 (0.07%) (Ranked 307)
 | 2023-12-01 | 2,917 | 2 |
 | 2023-12-02 | 2,955 | 2 |
 | 2023-12-03 | 3,010 | 2 |
-| 2023-12-04 | 3,027 | 2 |
+| 2023-12-04 | 3,028 | 2 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 475)  
 Sum: 137 (Ranked 431)  

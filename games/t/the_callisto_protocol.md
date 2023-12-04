@@ -20,12 +20,12 @@ Rating: 4.19 (Ranked 927)
 | Desperate Times | 6.00% | ~991 |
 | Crash Site | 6.00% | ~991 |
 | Keep Fighting | 6.00% | ~266 |
-| You Need a Gun | 5.00% | ~825 |
-| I Do Belong Here | 5.00% | ~825 |
-| Terminated | 5.00% | ~825 |
-| What Lies Beneath | 5.00% | ~825 |
-| Full Circle | 5.00% | ~825 |
-| Power Up | 5.00% | ~825 |
+| You Need a Gun | 5.00% | ~826 |
+| I Do Belong Here | 5.00% | ~826 |
+| Terminated | 5.00% | ~826 |
+| What Lies Beneath | 5.00% | ~826 |
+| Full Circle | 5.00% | ~826 |
+| Power Up | 5.00% | ~826 |
 | It's Time | 5.00% | ~222 |
 | Giving Back | 4.00% | ~660 |
 | The Commonality | 3.00% | ~495 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 927)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,509 (Ranked 149)  
+Progressed: 16,510 (Ranked 149)  
 Completed: 81 (0.49%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,6 +274,7 @@ Completed: 81 (0.49%) (Ranked 209)
 | 2023-12-01 | 16,499 | 81 |
 | 2023-12-02 | 16,505 | 81 |
 | 2023-12-03 | 16,509 | 81 |
+| 2023-12-04 | 16,510 | 81 |
 ## Awards
 Max (Quickly Understood Controls): 84  (Ranked 388)  
 Sum: 501 (Ranked 325)  

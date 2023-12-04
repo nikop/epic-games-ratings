@@ -23,8 +23,8 @@
 | Savior | 29.00% | ~16 |
 | Ultra Rebel Instinct | 27.00% | ~15 |
 | Take Action! | 23.00% | ~13 |
+| First Aid | 23.00% | ~13 |
 | Merry Go Round | 23.00% | ~13 |
-| First Aid | 21.00% | ~12 |
 | Ultra Combo | 20.00% | ~11 |
 | Ascending Will | 16.00% | ~9 |
 | Hidden Experiment | 16.00% | ~9 |

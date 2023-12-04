@@ -6,61 +6,61 @@ Number of Ratings: 209  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Morning | 99.00% | ~2,325 |
-| Hit Rock Bottom | 97.00% | ~2,278 |
-| Rocket Launched | 97.00% | ~2,278 |
-| Speed | 97.00% | ~2,278 |
-| High Jump | 96.00% | ~2,254 |
-| Knee bending | 96.00% | ~2,254 |
-| Pickaxe | 94.00% | ~2,207 |
-| Force Beam | 93.00% | ~2,184 |
-| Entered Cage Town | 93.00% | ~2,184 |
-| Stone Pickaxe | 93.00% | ~2,184 |
-| Revenge | 93.00% | ~2,184 |
-| Cage Town | 93.00% | ~2,184 |
-| Surprise | 93.00% | ~2,184 |
-| Magnet | 90.00% | ~2,113 |
-| Industrial Area | 89.00% | ~2,090 |
-| Magnet Repel | 88.00% | ~2,066 |
-| You feel middle classy | 87.00% | ~2,043 |
-| Boomeraxe | 87.00% | ~2,043 |
-| Iron Pickaxe | 87.00% | ~2,043 |
-| Banking District | 86.00% | ~2,019 |
-| Arrested | 85.00% | ~1,996 |
-| Zappy Gun | 85.00% | ~1,996 |
-| Got your own one now | 85.00% | ~1,996 |
-| Mission Unlikely | 85.00% | ~1,996 |
-| Don't draw dicks pls | 84.00% | ~1,972 |
-| Ripped | 84.00% | ~1,972 |
-| Beat the big arena | 82.00% | ~1,925 |
-| Force Cube | 82.00% | ~1,925 |
-| Got Battery | 81.00% | ~1,902 |
-| Guard Distracted | 80.00% | ~1,878 |
-| Translocator | 80.00% | ~1,878 |
-| Inner Peace | 78.00% | ~1,831 |
-| Diamond Pickaxe | 77.00% | ~1,808 |
-| Killed them all | 76.00% | ~1,784 |
-| Trickle Down Economy | 76.00% | ~1,784 |
-| Win | 76.00% | ~1,784 |
+| Good Morning | 99.00% | ~2,326 |
+| Hit Rock Bottom | 97.00% | ~2,279 |
+| Rocket Launched | 97.00% | ~2,279 |
+| Speed | 97.00% | ~2,279 |
+| High Jump | 96.00% | ~2,255 |
+| Knee bending | 96.00% | ~2,255 |
+| Pickaxe | 94.00% | ~2,208 |
+| Entered Cage Town | 93.00% | ~2,185 |
+| Stone Pickaxe | 93.00% | ~2,185 |
+| Revenge | 93.00% | ~2,185 |
+| Cage Town | 93.00% | ~2,185 |
+| Surprise | 93.00% | ~2,185 |
+| Force Beam | 92.00% | ~2,161 |
+| Magnet | 90.00% | ~2,114 |
+| Industrial Area | 89.00% | ~2,091 |
+| Magnet Repel | 88.00% | ~2,067 |
+| You feel middle classy | 87.00% | ~2,044 |
+| Boomeraxe | 87.00% | ~2,044 |
+| Iron Pickaxe | 87.00% | ~2,044 |
+| Banking District | 86.00% | ~2,020 |
+| Arrested | 85.00% | ~1,997 |
+| Zappy Gun | 85.00% | ~1,997 |
+| Got your own one now | 85.00% | ~1,997 |
+| Mission Unlikely | 85.00% | ~1,997 |
+| Don't draw dicks pls | 84.00% | ~1,973 |
+| Ripped | 84.00% | ~1,973 |
+| Beat the big arena | 82.00% | ~1,926 |
+| Force Cube | 82.00% | ~1,926 |
+| Got Battery | 81.00% | ~1,903 |
+| Guard Distracted | 80.00% | ~1,879 |
+| Translocator | 80.00% | ~1,879 |
+| Inner Peace | 78.00% | ~1,832 |
+| Diamond Pickaxe | 77.00% | ~1,809 |
+| Killed them all | 76.00% | ~1,785 |
+| Trickle Down Economy | 76.00% | ~1,785 |
+| Win | 76.00% | ~1,785 |
 | Greenhouse | 72.00% | ~1,691 |
 | Played with fire | 70.00% | ~1,644 |
 | You feel very sorry | 70.00% | ~1,644 |
-| No Match for you | 65.00% | ~1,526 |
+| No Match for you | 65.00% | ~1,527 |
 | Bouncy | 62.00% | ~1,456 |
-| Plumbster | 61.00% | ~1,432 |
-| Faster | 59.00% | ~1,385 |
+| Plumbster | 61.00% | ~1,433 |
+| Faster | 59.00% | ~1,386 |
 | Much Magic | 58.00% | ~1,362 |
-| Chest Detector | 55.00% | ~1,291 |
+| Chest Detector | 55.00% | ~1,292 |
 | Flames | 52.00% | ~1,221 |
-| Momentum | 46.00% | ~1,080 |
+| Momentum | 46.00% | ~1,081 |
 | You're unsure if you broke the game or not | 43.00% | ~1,010 |
-| But wait... ...There's more... | 40.00% | ~939 |
+| But wait... ...There's more... | 40.00% | ~940 |
 | So much force | 35.00% | ~822 |
 | You feel fully engaged | 24.00% | ~564 |
 | Too hot | 20.00% | ~470 |
 | All the chests | 14.00% | ~329 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,348 (Ranked 218)  
+Progressed: 2,349 (Ranked 218)  
 Completed: 290 (12.35%) (Ranked 34)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 290 (12.35%) (Ranked 34)
 | 2023-12-01 | 2,337 | 289 |
 | 2023-12-02 | 2,341 | 290 |
 | 2023-12-03 | 2,347 | 290 |
-| 2023-12-04 | 2,348 | 290 |
+| 2023-12-04 | 2,349 | 290 |
 ## Awards
 Max (Challenging Puzzles): 107  (Ranked 355)  
 Sum: 107 (Ranked 450)  

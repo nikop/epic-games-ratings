@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 835,
+  "EOS_Progressed": 836,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1772,6 +1772,11 @@
       "Time": "2023-12-04T12:05:48.4760807+00:00",
       "NumProgressed": 835,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-04T14:07:53.785518+00:00",
+      "NumProgressed": 836,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1840,7 +1845,7 @@
       "Name": "Pathfinder",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "CompleteChapter10",
@@ -1880,15 +1885,15 @@
       "Name": "For Harkanibus!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "CompleteChapter15",
       "SetID": "52ail55",
       "Name": "The Great Scheme",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 59
     },
     {
       "ID": "CompleteChapter16",
@@ -1928,7 +1933,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "CompleteChapter3",
@@ -1944,7 +1949,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "CompleteChapter5",
@@ -2079,14 +2084,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 835,
+      "Progressed": 836,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-04T13:11:38.6500549+00:00",
+  "LastChanged_Achievements": "2023-12-04T14:07:53.7855176+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:09.4303292+00:00",
-  "LastUpdate_Ratings": "2023-12-04T13:05:22.9689001+00:00",
-  "LastUpdate_Achievements": "2023-12-04T13:11:38.6500829+00:00"
+  "LastUpdate_Ratings": "2023-12-04T14:01:22.5096403+00:00",
+  "LastUpdate_Achievements": "2023-12-04T14:07:53.7855417+00:00"
 }

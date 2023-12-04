@@ -1,24 +1,24 @@
 # Chess Ultra
 [Store](https://store.epicgames.com/en-US/p/chess-ultra-91bba3)  
 [View Rawdata](../../db/c/chess_ultra.json)  
-Rating: 4.30 (Ranked 841)  
+Rating: 4.30 (Ranked 843)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 70.00% | ~154,421 |
-| Doubled Pawn | 57.00% | ~125,743 |
-| Check | 55.00% | ~121,331 |
-| Absolute pin | 47.00% | ~103,682 |
-| Promotion | 31.00% | ~68,386 |
-| Checkmate | 30.00% | ~66,180 |
-| O-O | 24.00% | ~52,944 |
-| Spanish Bishop | 21.00% | ~46,326 |
-| Queen Sacrifice | 20.00% | ~44,120 |
-| Stalemate | 18.00% | ~39,708 |
-| O-O-O | 13.00% | ~28,678 |
-| Octopus | 13.00% | ~28,678 |
-| Stranger Danger | 12.00% | ~26,472 |
-| En Passant | 9.00% | ~19,854 |
+| Chop Wood | 70.00% | ~154,425 |
+| Doubled Pawn | 57.00% | ~125,746 |
+| Check | 55.00% | ~121,334 |
+| Absolute pin | 47.00% | ~103,685 |
+| Promotion | 31.00% | ~68,388 |
+| Checkmate | 30.00% | ~66,182 |
+| O-O | 24.00% | ~52,946 |
+| Spanish Bishop | 21.00% | ~46,327 |
+| Queen Sacrifice | 20.00% | ~44,121 |
+| Stalemate | 18.00% | ~39,709 |
+| O-O-O | 13.00% | ~28,679 |
+| Octopus | 13.00% | ~28,679 |
+| Stranger Danger | 12.00% | ~26,473 |
+| En Passant | 9.00% | ~19,855 |
 | Double Check | 7.00% | ~15,442 |
 | Family Fork | 6.00% | ~13,236 |
 | Piece Collector | 6.00% | ~13,236 |
@@ -44,7 +44,7 @@ Rating: 4.30 (Ranked 841)
 | Tournament Master | 0.10% | ~221 |
 | Tournament Pro | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,601 (Ranked 71)  
+Progressed: 220,607 (Ranked 71)  
 Completed: 2 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 2 (0.00%) (Ranked 366)
 | 2023-12-01 | 220,170 | 2 |
 | 2023-12-02 | 220,335 | 2 |
 | 2023-12-03 | 220,546 | 2 |
-| 2023-12-04 | 220,601 | 2 |
+| 2023-12-04 | 220,607 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

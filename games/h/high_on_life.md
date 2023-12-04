@@ -18,6 +18,7 @@ Rating: 4.64 (Ranked 337)
 | Don't Knife The Hand That Feeds | 3.00% | ~739 |
 | Lezduit! | 2.00% | ~493 |
 | RIP Davey Glutes | 2.00% | ~493 |
+| Eye Scream, You Scream | 2.00% | ~493 |
 | Legendary Bounty Hunter | 2.00% | ~493 |
 | Hardest Battle In The Game | 2.00% | ~493 |
 | Self-Actualization | 2.00% | ~493 |
@@ -26,7 +27,6 @@ Rating: 4.64 (Ranked 337)
 | Series Wrap on Suit-O | 2.00% | ~493 |
 | Bathe With A Giant Nude Alien | 2.00% | ~39 |
 | Eatin' Good in the Neighborhood | 1.00% | ~246 |
-| Eye Scream, You Scream | 1.00% | ~246 |
 | We Came, We Chainsaw, We Conquered | 1.00% | ~19 |
 | Mux Ado About Shipping | 0.80% | ~16 |
 | Gunning For Your Job | 0.70% | ~173 |

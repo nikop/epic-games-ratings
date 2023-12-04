@@ -5139,9 +5139,9 @@
       "Count": 396
     }
   ],
-  "EOS_Progressed": 234545,
+  "EOS_Progressed": 234575,
   "EOS_Completed": 555,
-  "EOS_NewPlayers": 5219,
+  "EOS_NewPlayers": 5220,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -21319,6 +21319,11 @@
       "Time": "2023-12-04T13:14:09.9984772+00:00",
       "NumProgressed": 234545,
       "NumCompleted": 555
+    },
+    {
+      "Time": "2023-12-04T14:09:31.7424473+00:00",
+      "NumProgressed": 234575,
+      "NumCompleted": 555
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21411,7 +21416,7 @@
       "Name": "The Killing Jar",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1876
+      "UsersEstimate": 1877
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -21625,17 +21630,17 @@
       "ID": "Obtain_Scrap_B",
       "SetID": "bkp3b1a",
       "Name": "Scrap Hoarder",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 469
+      "UsersEstimate": 704
     },
     {
       "ID": "Obtain_Traits_A",
       "SetID": "bkp3b1a",
       "Name": "Not Your Average Trait",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1407
     },
     {
       "ID": "Obtain_Traits_B",
@@ -21649,9 +21654,9 @@
       "ID": "Obtain_Traits_C",
       "SetID": "bkp3b1a",
       "Name": "Proving Grounds",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 235
+      "UsersEstimate": 469
     },
     {
       "ID": "Obtain_Water_Harp_Item",
@@ -21770,13 +21775,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 234545,
+      "Progressed": 234575,
       "Completed": 555
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 13710,
+      "Progressed": 13740,
       "Completed": 192
     }
   ],
@@ -21784,8 +21789,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-04T12:02:59.2774256+00:00",
-  "LastChanged_Achievements": "2023-12-04T13:14:09.9984768+00:00",
+  "LastChanged_Achievements": "2023-12-04T14:09:31.7424471+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-04T13:08:41.5103493+00:00",
-  "LastUpdate_Achievements": "2023-12-04T13:14:09.9986009+00:00"
+  "LastUpdate_Ratings": "2023-12-04T14:03:43.4346979+00:00",
+  "LastUpdate_Achievements": "2023-12-04T14:09:31.7425364+00:00"
 }

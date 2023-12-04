@@ -1,7 +1,7 @@
 # Star Atlas
 [Store](https://store.epicgames.com/en-US/p/star-atlas-bead34)  
 [View Rawdata](../../db/s/star_atlas.json)  
-Rating: 4.81 (Ranked 82)  
+Rating: 4.82 (Ranked 68)  
 ## Awards
 Max (Character Customization): 26  (Ranked 521)  
 Sum: 26 (Ranked 529)  
@@ -37,3 +37,4 @@ Diff (max vs sum): -8
 | 2023-09-25 | 4.80 | 25 | 25 |
 | 2023-09-28 | 4.80 | 26 | 26 |
 | 2023-11-25 | 4.81 | 26 | 26 |
+| 2023-12-04 | 4.82 | 26 | 26 |

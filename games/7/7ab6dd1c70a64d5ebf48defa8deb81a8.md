@@ -11,17 +11,17 @@
 | I Found It | 11.00% | ~27 |
 | Adventurer | 10.00% | ~25 |
 | Shatter Them All | 10.00% | ~25 |
+| Geared Up | 10.00% | ~25 |
 | Scholar | 10.00% | ~25 |
 | The Collector | 10.00% | ~25 |
 | A Taste of Wrath | 9.00% | ~22 |
 | Tributes of Caladrias | 9.00% | ~22 |
 | Big Bazar | 9.00% | ~22 |
-| Geared Up | 9.00% | ~22 |
 | Stone Collection | 9.00% | ~22 |
 | Fashion Victim | 8.00% | ~20 |
 | Essence Blow | 7.00% | ~17 |
+| Calm before the Storm | 6.00% | ~15 |
 | Alchemist | 6.00% | ~15 |
-| Calm before the Storm | 5.00% | ~12 |
 | The Mentor | 5.00% | ~12 |
 | To Battle | 4.00% | ~10 |
 | Godslayer | 4.00% | ~10 |

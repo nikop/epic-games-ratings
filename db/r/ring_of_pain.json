@@ -3538,7 +3538,7 @@
       "Count": 746
     }
   ],
-  "EOS_Progressed": 240608,
+  "EOS_Progressed": 240610,
   "EOS_Completed": 292,
   "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 1,
@@ -27083,6 +27083,11 @@
       "Time": "2023-12-04T13:14:57.5076967+00:00",
       "NumProgressed": 240608,
       "NumCompleted": 292
+    },
+    {
+      "Time": "2023-12-04T14:10:36.7082451+00:00",
+      "NumProgressed": 240610,
+      "NumCompleted": 292
     }
   ],
   "TotalAchievements": 138,
@@ -27132,9 +27137,9 @@
       "ID": "CURSE1HP",
       "SetID": "5l8oe0h",
       "Name": "Nothing To Lose",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 962
+      "UsersEstimate": 1203
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -28197,13 +28202,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240608,
+      "Progressed": 240610,
       "Completed": 292
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2088,
+      "Progressed": 2090,
       "Completed": 394
     }
   ],
@@ -28211,8 +28216,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-04T02:23:00.4450449+00:00",
-  "LastChanged_Achievements": "2023-12-04T13:14:57.5076963+00:00",
+  "LastChanged_Achievements": "2023-12-04T14:10:36.708245+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:52.1458075+00:00",
-  "LastUpdate_Ratings": "2023-12-04T13:05:05.3904179+00:00",
-  "LastUpdate_Achievements": "2023-12-04T13:14:57.5079279+00:00"
+  "LastUpdate_Ratings": "2023-12-04T14:00:56.0234042+00:00",
+  "LastUpdate_Achievements": "2023-12-04T14:10:36.708485+00:00"
 }

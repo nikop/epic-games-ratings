@@ -21,7 +21,7 @@
 | It's Warm and Cozy at Home | 56.00% | ~292 |
 | Trap Master | 55.00% | ~287 |
 | Minions, Minions! | 54.00% | ~281 |
-| Hard Work | 50.00% | ~260 |
+| Hard Work | 51.00% | ~266 |
 | The Big Eaty | 49.00% | ~255 |
 | YOU SHALL NOT PASS! | 48.00% | ~250 |
 | “… like son” | 46.00% | ~240 |
@@ -33,7 +33,7 @@
 | Tanos' Crusade Against Thalya | 38.00% | ~198 |
 | All’s Well That Ends Evil | 32.00% | ~167 |
 | Unstoppable Horde | 31.00% | ~162 |
-| Master of the Undead | 29.00% | ~151 |
+| Master of the Undead | 30.00% | ~156 |
 | The Duel | 28.00% | ~146 |
 | If Looks Could Kill | 26.00% | ~135 |
 | Hungry, Hungry Gorgu! | 25.00% | ~130 |

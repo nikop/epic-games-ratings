@@ -6,21 +6,21 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,662 |
-| Un-Lonely Island | 46.00% | ~2,859 |
-| The Beginning of a Servantship | 45.00% | ~2,797 |
+| Just One...More...Term... | 75.00% | ~4,663 |
+| Un-Lonely Island | 46.00% | ~2,860 |
+| The Beginning of a Servantship | 45.00% | ~2,798 |
 | Trade Is My Trait | 37.00% | ~2,300 |
 | Number 18 | 24.00% | ~1,492 |
 | We Don't Have Time For That | 19.00% | ~1,181 |
 | The Governator | 17.00% | ~1,057 |
 | The Legend of Langostino | 16.00% | ~995 |
-| Caribbean Comrade | 15.00% | ~932 |
-| The Dreamer of Dreams | 15.00% | ~932 |
+| Caribbean Comrade | 15.00% | ~933 |
+| The Dreamer of Dreams | 15.00% | ~933 |
 | Go Sovereigns! | 11.00% | ~684 |
 | For Science! | 11.00% | ~684 |
 | Happy Ending? | 10.00% | ~622 |
-| Of Seals And Men | 9.00% | ~559 |
-| Shackadelic | 9.00% | ~559 |
+| Of Seals And Men | 9.00% | ~560 |
+| Shackadelic | 9.00% | ~560 |
 | Double Trouble | 8.00% | ~497 |
 | Firestarter | 8.00% | ~497 |
 | I Owe You Nothing | 7.00% | ~435 |
@@ -32,10 +32,10 @@ Number of Ratings: 398  (23.09.2022)
 | Computer Says "No" | 5.00% | ~311 |
 | Watch The World Burn | 5.00% | ~311 |
 | Fairy Tale Come True | 5.00% | ~311 |
-| Been there, Done That | 3.00% | ~186 |
-| Apocalypso | 3.00% | ~186 |
-| Narcissist | 3.00% | ~186 |
-| The Time For Wonders | 3.00% | ~186 |
+| Been there, Done That | 3.00% | ~187 |
+| Apocalypso | 3.00% | ~187 |
+| Narcissist | 3.00% | ~187 |
+| The Time For Wonders | 3.00% | ~187 |
 | One Does Not Simply Stage A Coup | 2.00% | ~124 |
 | Promising Endeavors | 2.00% | ~124 |
 | Sublime Subliminal Supreme | 2.00% | ~124 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~56 |
 | My Ways | 0.30% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,216 (Ranked 185)  
+Progressed: 6,217 (Ranked 185)  
 Completed: 2 (0.03%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 2 (0.03%) (Ranked 329)
 | 2023-12-01 | 6,188 | 2 |
 | 2023-12-02 | 6,200 | 2 |
 | 2023-12-03 | 6,214 | 2 |
-| 2023-12-04 | 6,216 | 2 |
+| 2023-12-04 | 6,217 | 2 |
 ## Awards
 Max (Highly Recommended): 103  (Ranked 360)  
 Sum: 737 (Ranked 292)  

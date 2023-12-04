@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8273,
+  "EOS_Progressed": 8274,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7999,6 +7999,11 @@
       "Time": "2023-12-04T13:14:51.5666758+00:00",
       "NumProgressed": 8273,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-04T14:10:29.1258763+00:00",
+      "NumProgressed": 8274,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -8019,7 +8024,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5791
+      "UsersEstimate": 5792
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -8107,7 +8112,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3557
+      "UsersEstimate": 3558
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -8171,7 +8176,7 @@
       "Name": "Mist Walker",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2647
+      "UsersEstimate": 2648
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -8187,7 +8192,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3888
+      "UsersEstimate": 3889
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -8235,7 +8240,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -8290,22 +8295,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8273,
+      "Progressed": 8274,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 890,
-      "Completed": 890
+      "Progressed": 891,
+      "Completed": 891
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-01T18:02:55.7305048+00:00",
-  "LastChanged_Achievements": "2023-12-04T13:14:51.5666755+00:00",
+  "LastChanged_Achievements": "2023-12-04T14:10:29.125876+00:00",
   "LastUpdate_AppInfo": "2023-12-01T09:57:19.7790129+00:00",
-  "LastUpdate_Ratings": "2023-12-04T13:08:34.6348846+00:00",
-  "LastUpdate_Achievements": "2023-12-04T13:14:51.5667259+00:00"
+  "LastUpdate_Ratings": "2023-12-04T14:03:33.0631084+00:00",
+  "LastUpdate_Achievements": "2023-12-04T14:10:29.1259237+00:00"
 }

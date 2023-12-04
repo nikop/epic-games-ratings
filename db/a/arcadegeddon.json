@@ -2,12 +2,12 @@
   "ID": "043ffc92cbd64a9fbc350ea68f415937",
   "Name": "Arcadegeddon",
   "ProductSlug": "arcadegeddon",
-  "Ranking_Rating": 614,
+  "Ranking_Rating": 613,
   "Ranking_Popularity": 411,
   "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
@@ -12614,9 +12614,9 @@
       "ID": "ACH_SURGE_GAUNTLET_JOCKEY",
       "SetID": "97mcd7i",
       "Name": "Surge Gauntlet Jockey",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 7855
+      "UsersEstimate": 7953
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -12718,8 +12718,8 @@
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-11-27T06:59:40.9227353+00:00",
-  "LastChanged_Achievements": "2023-12-04T13:09:23.009798+00:00",
+  "LastChanged_Achievements": "2023-12-04T14:04:43.7018625+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:46.9519567+00:00",
-  "LastUpdate_Ratings": "2023-12-04T13:04:55.380076+00:00",
-  "LastUpdate_Achievements": "2023-12-04T13:09:23.0098769+00:00"
+  "LastUpdate_Ratings": "2023-12-04T14:00:41.094345+00:00",
+  "LastUpdate_Achievements": "2023-12-04T14:04:43.7019558+00:00"
 }

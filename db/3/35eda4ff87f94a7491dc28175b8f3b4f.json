@@ -2,7 +2,7 @@
   "ID": "35eda4ff87f94a7491dc28175b8f3b4f",
   "Name": "Eternal Threads",
   "ProductSlug": "eternal-threads-197169",
-  "Ranking_Rating": 841,
+  "Ranking_Rating": 834,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 161,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.3,
+  "Rating": 4.31,
   "RatingHistory": [
     {
       "Time": "2023-10-22T18:02:06.461255+00:00",
@@ -221,15 +221,21 @@
       "Rating": 4.3,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-04T13:58:48.5940057+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12026,
+  "EOS_Progressed": 12036,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 2293,
+  "EOS_NewPlayers": 2281,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -3107,6 +3113,11 @@
       "Time": "2023-12-04T13:09:16.8772725+00:00",
       "NumProgressed": 12026,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-04T14:04:35.2076272+00:00",
+      "NumProgressed": 12036,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -3127,7 +3138,7 @@
       "Name": "Beam Me Up Scotty",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
@@ -3151,7 +3162,7 @@
       "Name": "Savior",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -3159,7 +3170,7 @@
       "Name": "Righter of Wrongs",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "SAVE_ONE_PERSON_1_0",
@@ -3167,7 +3178,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1443
+      "UsersEstimate": 1444
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -3183,7 +3194,7 @@
       "Name": "Locksmith",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "WATCH_ALL_SCENES_1_5",
@@ -3198,16 +3209,16 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 12026,
+      "Progressed": 12036,
       "Completed": 41
     }
   ],
   "FirstSeen": "2023-10-19T17:59:40.5875906+00:00",
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
-  "LastChanged": "2023-12-03T13:57:20.3855613+00:00",
-  "LastChanged_Achievements": "2023-12-04T13:09:16.8772721+00:00",
+  "LastChanged": "2023-12-04T13:58:48.5940056+00:00",
+  "LastChanged_Achievements": "2023-12-04T14:04:35.2076268+00:00",
   "LastUpdate_AppInfo": "2023-11-30T16:57:25.9154897+00:00",
-  "LastUpdate_Ratings": "2023-12-04T13:03:40.6435389+00:00",
-  "LastUpdate_Achievements": "2023-12-04T13:09:16.877292+00:00"
+  "LastUpdate_Ratings": "2023-12-04T13:58:48.594006+00:00",
+  "LastUpdate_Achievements": "2023-12-04T14:04:35.2076475+00:00"
 }

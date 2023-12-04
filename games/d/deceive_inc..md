@@ -17,8 +17,8 @@ Rating: 4.58 (Ranked 449)
 | You Only Live Twice | 16.00% | ~3,038 |
 | Fully Decked Out | 16.00% | ~3,038 |
 | A view to Win | 13.00% | ~2,468 |
-| The Living Portrait | 12.00% | ~2,278 |
-| Smells Like Trouble | 12.00% | ~2,278 |
+| The Living Portrait | 12.00% | ~2,279 |
+| Smells Like Trouble | 12.00% | ~2,279 |
 | My Motto, My Creed | 11.00% | ~2,089 |
 | Private Collection | 11.00% | ~2,089 |
 | Killer Looks | 11.00% | ~2,089 |
@@ -28,7 +28,7 @@ Rating: 4.58 (Ranked 449)
 | In It to Win It | 9.00% | ~1,709 |
 | Security Supervisor | 6.00% | ~1,139 |
 | License to Thrill | 5.00% | ~949 |
-| Social of Solace | 4.00% | ~759 |
+| Social of Solace | 4.00% | ~760 |
 | Live and let lie | 3.00% | ~570 |
 | Safe Withdrawal | 3.00% | ~570 |
 | Branch Manager | 2.00% | ~380 |
@@ -42,7 +42,7 @@ Rating: 4.58 (Ranked 449)
 | Extraction Confusion | 0.20% | ~38 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,987 (Ranked 144)  
+Progressed: 18,988 (Ranked 144)  
 Completed: 4 (0.02%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 4 (0.02%) (Ranked 336)
 | 2023-12-01 | 18,970 | 4 |
 | 2023-12-02 | 18,973 | 4 |
 | 2023-12-03 | 18,982 | 4 |
-| 2023-12-04 | 18,987 | 4 |
+| 2023-12-04 | 18,988 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

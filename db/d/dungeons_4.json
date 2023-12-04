@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 521,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.3,
   "EosHistory": [
@@ -1498,9 +1498,9 @@
       "ID": "ach_main07storm_classified",
       "SetID": "4hg22ll",
       "Name": "Hard Work",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 266
     },
     {
       "ID": "ach_main07storm_completed",
@@ -1618,9 +1618,9 @@
       "ID": "ach_main11blessing_undeadonly",
       "SetID": "4hg22ll",
       "Name": "Master of the Undead",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 156
     },
     {
       "ID": "ach_main12race_completed",
@@ -1849,8 +1849,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-04T13:13:53.0502886+00:00",
+  "LastChanged_Achievements": "2023-12-04T14:09:07.0312314+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:15.3424787+00:00",
-  "LastUpdate_Ratings": "2023-12-04T13:05:06.5144016+00:00",
-  "LastUpdate_Achievements": "2023-12-04T13:13:53.0503584+00:00"
+  "LastUpdate_Ratings": "2023-12-04T14:00:57.581821+00:00",
+  "LastUpdate_Achievements": "2023-12-04T14:09:07.0312723+00:00"
 }
