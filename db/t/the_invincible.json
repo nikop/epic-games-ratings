@@ -4,7 +4,7 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 3657,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 512,
+  "EOS_Progressed": 513,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1440,6 +1440,11 @@
       "Time": "2023-12-04T17:09:28.9703169+00:00",
       "NumProgressed": 512,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-04T19:09:18.0507659+00:00",
+      "NumProgressed": 513,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1460,7 +1465,7 @@
       "Name": "I remember everything!",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "AchvAssertive",
@@ -1508,7 +1513,7 @@
       "Name": "Ubiquitous holes",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "AchvDiscoverAlliance",
@@ -1604,7 +1609,7 @@
       "Name": "Got lost again",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "AchvPutAsleep",
@@ -1618,9 +1623,9 @@
       "ID": "AchvReachBase",
       "SetID": "1hj060c",
       "Name": "The field base",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 190
     },
     {
       "ID": "AchvReachCamp",
@@ -1628,7 +1633,7 @@
       "Name": "The Camp",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "AchvReachCity",
@@ -1644,7 +1649,7 @@
       "Name": "The Condor",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "AchvSurvivors",
@@ -1658,9 +1663,9 @@
       "ID": "AchvTeleprobeOperator",
       "SetID": "1hj060c",
       "Name": "Flying Objects Operator",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 62
     },
     {
       "ID": "AchvTheEnd",
@@ -1668,7 +1673,7 @@
       "Name": "The End",
       "Percentage": 28,
       "XP": 55,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "AchvUnity",
@@ -1683,14 +1688,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 512,
+      "Progressed": 513,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-04T18:08:43.8049654+00:00",
+  "LastChanged_Achievements": "2023-12-04T19:09:18.0507655+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.6526822+00:00",
-  "LastUpdate_Ratings": "2023-12-04T17:57:56.8750836+00:00",
-  "LastUpdate_Achievements": "2023-12-04T18:08:43.8049875+00:00"
+  "LastUpdate_Ratings": "2023-12-04T18:58:12.4194673+00:00",
+  "LastUpdate_Achievements": "2023-12-04T19:09:18.0507921+00:00"
 }

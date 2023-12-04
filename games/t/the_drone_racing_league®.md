@@ -1,25 +1,25 @@
 # The Drone Racing League®
 [Store](https://store.epicgames.com/en-US/p/the-drone-racing-league-simulator)  
 [View Rawdata](../../db/t/the_drone_racing_league®.json)  
-Rating: 4.51 (Ranked 572)  
+Rating: 4.50 (Ranked 591)  
 Number of Ratings: 36  (23.09.2022)  
 ## Awards
-Max (Extremely Fun): 66  (Ranked 410)  
-Sum: 507 (Ranked 324)  
-Diff (max vs sum): 86  
+Max (Extremely Fun): 68  (Ranked 408)  
+Sum: 534 (Ranked 324)  
+Diff (max vs sum): 84  
 | Award | Count |
 | ----- | ----- |
-| This game is Extremely Fun | 66 |
-| This game is Educational | 59 |
-| This game is Great for Quick Sessions | 55 |
-| This game is Relaxing | 54 |
-| This game has Quickly Understood Controls | 50 |
-| This game is Highly Recommended | 49 |
+| This game is Extremely Fun | 68 |
+| This game is Educational | 63 |
+| This game is Great for Quick Sessions | 63 |
+| This game is Relaxing | 57 |
+| This game has Quickly Understood Controls | 52 |
+| This game is Highly Recommended | 50 |
+| This game has a Competitive Community | 45 |
 | This game is Great for Beginners | 45 |
-| This game has Competitive Players | 43 |
-| This game has a Competitive Community | 43 |
-| This game has Amazing Storytelling | 39 |
-| This game has Challenging Combat | 29 |
+| This game has Competitive Players | 44 |
+| This game has Amazing Storytelling | 42 |
+| This game has Challenging Combat | 30 |
 | This game has Amazing Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -111,3 +111,4 @@ Diff (max vs sum): 86
 | 2023-09-09 | 4.51 | - | 66 | 505 |
 | 2023-09-19 | 4.51 | - | 66 | 506 |
 | 2023-09-23 | 4.51 | - | 66 | 507 |
+| 2023-12-04 | 4.50 | - | 68 | 534 |

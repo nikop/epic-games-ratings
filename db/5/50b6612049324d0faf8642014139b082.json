@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -103,9 +103,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 739,
+  "EOS_Progressed": 740,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1763,6 +1763,11 @@
       "Time": "2023-12-04T16:10:31.1959918+00:00",
       "NumProgressed": 739,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-04T19:10:19.6576332+00:00",
+      "NumProgressed": 740,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1783,7 +1788,7 @@
       "Name": "Asphalt Artist",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "achievement_11",
@@ -1815,7 +1820,7 @@
       "Name": "Vehicle Builder",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "achievement_15",
@@ -1839,7 +1844,7 @@
       "Name": "Your first time?",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "achievement_18",
@@ -1863,7 +1868,7 @@
       "Name": "Team Principal",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "achievement_20",
@@ -1959,7 +1964,7 @@
       "Name": "NEW PB!",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "achievement_8",
@@ -1982,7 +1987,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 739,
+      "Progressed": 740,
       "Completed": 0
     }
   ],
@@ -1990,8 +1995,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-12-04T08:59:17.8439063+00:00",
-  "LastChanged_Achievements": "2023-12-04T18:09:36.4672594+00:00",
+  "LastChanged_Achievements": "2023-12-04T19:10:19.6576329+00:00",
   "LastUpdate_AppInfo": "2023-11-28T21:56:52.2952246+00:00",
-  "LastUpdate_Ratings": "2023-12-04T17:59:30.7888467+00:00",
-  "LastUpdate_Achievements": "2023-12-04T18:09:36.467282+00:00"
+  "LastUpdate_Ratings": "2023-12-04T19:00:38.5342464+00:00",
+  "LastUpdate_Achievements": "2023-12-04T19:10:19.6576542+00:00"
 }

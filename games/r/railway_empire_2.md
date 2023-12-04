@@ -41,9 +41,9 @@ Rating: 4.43 (Ranked 696)
 | Traffic Jam | 19.00% | ~444 |
 | Networker | 18.00% | ~420 |
 | Resistance is futile | 17.00% | ~397 |
+| Settler | 16.00% | ~374 |
 | Assimilated | 15.00% | ~350 |
 | Bold and beautiful | 15.00% | ~350 |
-| Settler | 15.00% | ~350 |
 | Go West | 14.00% | ~327 |
 | Max Power | 14.00% | ~327 |
 | Locusts | 14.00% | ~327 |

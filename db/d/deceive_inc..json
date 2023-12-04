@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18989,
+  "EOS_Progressed": 18990,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13454,6 +13454,11 @@
       "Time": "2023-12-04T16:07:21.0816367+00:00",
       "NumProgressed": 18989,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-04T19:07:12.7857484+00:00",
+      "NumProgressed": 18990,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13473,7 +13478,7 @@
       "Name": "License to Thrill",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "0003",
@@ -13529,7 +13534,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4367
+      "UsersEstimate": 4368
     },
     {
       "ID": "0010",
@@ -13681,7 +13686,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4367
+      "UsersEstimate": 4368
     },
     {
       "ID": "0029",
@@ -13752,7 +13757,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18989,
+      "Progressed": 18990,
       "Completed": 4
     }
   ],
@@ -13760,8 +13765,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-12-04T18:05:56.2919409+00:00",
+  "LastChanged_Achievements": "2023-12-04T19:07:12.7857481+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:38.3504901+00:00",
-  "LastUpdate_Ratings": "2023-12-04T17:57:18.3714623+00:00",
-  "LastUpdate_Achievements": "2023-12-04T18:05:56.2920262+00:00"
+  "LastUpdate_Ratings": "2023-12-04T18:57:12.239097+00:00",
+  "LastUpdate_Achievements": "2023-12-04T19:07:12.7858312+00:00"
 }

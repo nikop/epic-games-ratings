@@ -38,9 +38,9 @@ Number of Ratings: 1,047  (23.09.2022)
 | Where He Stood | 5.00% | ~1,184 |
 | Push it to the limit | 4.00% | ~947 |
 | Scrapped | 4.00% | ~947 |
+| Strafing Run | 4.00% | ~947 |
 | About Adam | 3.00% | ~710 |
 | Just A Man | 3.00% | ~710 |
-| Strafing Run | 3.00% | ~710 |
 | Junkrunner | 2.00% | ~474 |
 | One man's trash | 2.00% | ~474 |
 | Hit me if you can | 1.00% | ~237 |

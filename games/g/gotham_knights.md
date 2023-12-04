@@ -6,7 +6,7 @@ Rating: 4.18 (Ranked 936)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 50.00% | ~38,830 |
-| Har, Har, Har, Very Funny | 34.00% | ~26,404 |
+| Har, Har, Har, Very Funny | 34.00% | ~26,405 |
 | Loose Ends | 33.00% | ~25,628 |
 | To the Victor Go the Spoils | 28.00% | ~21,745 |
 | Knighthood | 27.00% | ~20,968 |
@@ -19,16 +19,16 @@ Rating: 4.18 (Ranked 936)
 | Working Hard or Harley Working? | 20.00% | ~15,532 |
 | Unstoppable Force | 20.00% | ~15,532 |
 | Bad Apples in Every Orchard | 20.00% | ~15,532 |
-| Snow Problem | 19.00% | ~14,755 |
+| Snow Problem | 19.00% | ~14,756 |
 | The Show Mud Go On | 18.00% | ~13,979 |
 | From Inside Gotham's Walls | 18.00% | ~13,979 |
 | Protector of Gotham | 17.00% | ~13,202 |
 | Universal Health Scare | 16.00% | ~12,426 |
 | In Your Element | 15.00% | ~11,649 |
 | Voiceless | 15.00% | ~11,649 |
-| Rock and a Hard Place | 14.00% | ~10,872 |
-| Cooldown | 14.00% | ~10,872 |
-| Seeking Asylum | 14.00% | ~10,872 |
+| Rock and a Hard Place | 14.00% | ~10,873 |
+| Cooldown | 14.00% | ~10,873 |
+| Seeking Asylum | 14.00% | ~10,873 |
 | Not On My Watch | 13.00% | ~10,096 |
 | Shock Til They Drop | 13.00% | ~10,096 |
 | End of an Era | 12.00% | ~9,319 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 936)
 | Element of Surprise | 0.20% | ~96 |
 | It's Nice to Be Wanted | 0.20% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,660 (Ranked 99)  
+Progressed: 77,661 (Ranked 99)  
 Completed: 124 (0.16%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,17 +295,17 @@ Completed: 124 (0.16%) (Ranked 269)
 | 2023-12-01 | 77,532 | 124 |
 | 2023-12-02 | 77,577 | 124 |
 | 2023-12-03 | 77,643 | 124 |
-| 2023-12-04 | 77,660 | 124 |
+| 2023-12-04 | 77,661 | 124 |
 ## Awards
 Max (Great Boss Battles): 2,991  (Ranked 98)  
-Sum: 5,107 (Ranked 140)  
+Sum: 5,108 (Ranked 140)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,991 |
 | This game has Diverse Characters | 270 |
 | This game is Extremely Fun | 268 |
-| This game is Relaxing | 266 |
+| This game is Relaxing | 267 |
 | This game has Quickly Understood Controls | 265 |
 | This game is Great for Beginners | 265 |
 | This game has Amazing Characters | 261 |
@@ -597,4 +597,4 @@ Diff (max vs sum): -42
 | 2023-12-01 | 4.18 | 2,984 | 5,094 |
 | 2023-12-02 | 4.18 | 2,987 | 5,097 |
 | 2023-12-03 | 4.18 | 2,989 | 5,101 |
-| 2023-12-04 | 4.18 | 2,991 | 5,107 |
+| 2023-12-04 | 4.18 | 2,991 | 5,108 |

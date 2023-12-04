@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 352,
+  "EOS_Progressed": 353,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1084,6 +1084,11 @@
       "Time": "2023-12-04T17:08:18.577001+00:00",
       "NumProgressed": 352,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-04T19:08:08.4120619+00:00",
+      "NumProgressed": 353,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1160,7 +1165,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "REMAKE_004",
@@ -1168,7 +1173,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "Remake_005",
@@ -1182,9 +1187,9 @@
       "ID": "Remake_006",
       "SetID": "5pi96jj",
       "Name": "Attempted Vehicular Infanticide",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 35
     },
     {
       "ID": "Remake_007",
@@ -1214,7 +1219,7 @@
       "ID": "Remake_010",
       "SetID": "5pi96jj",
       "Name": "Played with balls",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -1312,21 +1317,21 @@
       "Name": "Escape Lookout Cove",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     }
   ],
   "AchievementSets": [
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 352,
+      "Progressed": 353,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-04T18:06:35.1320159+00:00",
+  "LastChanged_Achievements": "2023-12-04T19:08:08.4120617+00:00",
   "LastUpdate_AppInfo": "2023-11-27T21:57:11.1049797+00:00",
-  "LastUpdate_Ratings": "2023-12-04T17:57:32.603609+00:00",
-  "LastUpdate_Achievements": "2023-12-04T18:06:35.1320427+00:00"
+  "LastUpdate_Ratings": "2023-12-04T18:57:33.8319719+00:00",
+  "LastUpdate_Achievements": "2023-12-04T19:08:08.4120782+00:00"
 }

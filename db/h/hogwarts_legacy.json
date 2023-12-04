@@ -11419,10 +11419,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 49869,
       "NumberOfAwardsMax": 24909
+    },
+    {
+      "Time": "2023-12-04T19:00:26.3799189+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 49873,
+      "NumberOfAwardsMax": 24909
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49869,
+  "NumberOfAwards": 49873,
   "NumberOfAwardsMax": 24909,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11442,7 +11448,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 1076
+      "Count": 1080
     },
     {
       "Text": "This game has Amazing Characters",
@@ -11499,9 +11505,9 @@
       "Count": 835
     }
   ],
-  "EOS_Progressed": 303927,
+  "EOS_Progressed": 303929,
   "EOS_Completed": 521,
-  "EOS_NewPlayers": 532,
+  "EOS_NewPlayers": 530,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36069,6 +36075,11 @@
       "Time": "2023-12-04T18:09:39.1008425+00:00",
       "NumProgressed": 303927,
       "NumCompleted": 521
+    },
+    {
+      "Time": "2023-12-04T19:10:23.3764016+00:00",
+      "NumProgressed": 303929,
+      "NumCompleted": 521
     }
   ],
   "TotalAchievements": 45,
@@ -36080,7 +36091,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48628
+      "UsersEstimate": 48629
     },
     {
       "ID": "PFA_10",
@@ -36152,7 +36163,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 27353
+      "UsersEstimate": 27354
     },
     {
       "ID": "PFA_19",
@@ -36224,7 +36235,7 @@
       "Name": "The Nature of the Beast",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 2127
+      "UsersEstimate": 2128
     },
     {
       "ID": "PFA_27",
@@ -36384,7 +36395,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27353
+      "UsersEstimate": 27354
     },
     {
       "ID": "PFA_45",
@@ -36439,16 +36450,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303927,
+      "Progressed": 303929,
       "Completed": 521
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-12-04T17:59:22.902614+00:00",
-  "LastChanged_Achievements": "2023-12-04T18:09:39.1008422+00:00",
+  "LastChanged": "2023-12-04T19:00:26.3799188+00:00",
+  "LastChanged_Achievements": "2023-12-04T19:10:23.3764014+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-04T17:59:22.9026147+00:00",
-  "LastUpdate_Achievements": "2023-12-04T18:09:39.100987+00:00"
+  "LastUpdate_Ratings": "2023-12-04T19:00:26.3799193+00:00",
+  "LastUpdate_Achievements": "2023-12-04T19:10:23.3765135+00:00"
 }

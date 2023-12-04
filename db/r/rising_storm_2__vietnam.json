@@ -2,12 +2,12 @@
   "ID": "3542a1df211e492bb2abecb7c734f7f9",
   "Name": "Rising Storm 2: Vietnam",
   "ProductSlug": "rising-storm-2-vietnam",
-  "Ranking_Rating": 613,
+  "Ranking_Rating": 591,
   "Ranking_Popularity": 161,
   "Ranking_PopularitySum": 109,
   "Ranking_EOS_Progress": 776,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 481,
+  "Ranking_EOS_NewPlayers": 482,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-10-08T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.49,
+  "Rating": 4.5,
   "NumberOfRatings": 2871,
   "RatingHistory": [
     {
@@ -8062,10 +8062,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 7979,
       "NumberOfAwardsMax": 905
+    },
+    {
+      "Time": "2023-12-04T18:58:30.7424625+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 7985,
+      "NumberOfAwardsMax": 905
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7979,
+  "NumberOfAwards": 7985,
   "NumberOfAwardsMax": 905,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -8097,7 +8103,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 792
+      "Count": 795
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8109,13 +8115,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 746
+      "Count": 748
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 694
+      "Count": 695
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8153,8 +8159,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
-  "LastChanged": "2023-12-04T15:58:35.6332767+00:00",
+  "LastChanged": "2023-12-04T18:58:30.7424624+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:14.461938+00:00",
-  "LastUpdate_Ratings": "2023-12-04T17:58:08.3585636+00:00",
-  "LastUpdate_Achievements": "2023-12-04T18:05:12.8079795+00:00"
+  "LastUpdate_Ratings": "2023-12-04T18:58:30.7424629+00:00",
+  "LastUpdate_Achievements": "2023-12-04T19:06:09.2734139+00:00"
 }

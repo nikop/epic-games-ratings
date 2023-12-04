@@ -1547,9 +1547,9 @@
       "Count": 73
     }
   ],
-  "EOS_Progressed": 7108,
+  "EOS_Progressed": 7109,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -14022,6 +14022,11 @@
       "Time": "2023-12-04T16:06:14.0558782+00:00",
       "NumProgressed": 7108,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-04T19:06:04.9908445+00:00",
+      "NumProgressed": 7109,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -14033,7 +14038,7 @@
       "Name": "Get A Room",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 5331
+      "UsersEstimate": 5332
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -14041,7 +14046,7 @@
       "Name": "Beam Me Up",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 3696
+      "UsersEstimate": 3697
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -14065,7 +14070,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4763
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -14073,7 +14078,7 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5402
+      "UsersEstimate": 5403
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -14081,7 +14086,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5189
+      "UsersEstimate": 5190
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -14145,7 +14150,7 @@
       "Name": "Retribution",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 2985
+      "UsersEstimate": 2986
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -14167,9 +14172,9 @@
       "ID": "STORE_NUTRITION_20000",
       "SetID": "5349c2e",
       "Name": "Fit For A King",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2061
+      "UsersEstimate": 1991
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -14185,7 +14190,7 @@
       "Name": "Winter Is Coming",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 2061
+      "UsersEstimate": 2062
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
@@ -14201,7 +14206,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 2985
+      "UsersEstimate": 2986
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -14233,7 +14238,7 @@
       "Name": "The First Week",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3980
+      "UsersEstimate": 3981
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -14241,7 +14246,7 @@
       "Name": "Novice Researcher",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 4833
+      "UsersEstimate": 4834
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -14257,7 +14262,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 2203
+      "UsersEstimate": 2204
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -14273,22 +14278,22 @@
       "Name": "Studious Researcher",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 3767
+      "UsersEstimate": 3768
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7108,
+      "Progressed": 7109,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-12-03T13:02:18.6162453+00:00",
-  "LastChanged_Achievements": "2023-12-04T18:05:09.7985401+00:00",
+  "LastChanged_Achievements": "2023-12-04T19:06:04.9908441+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:34.6501981+00:00",
-  "LastUpdate_Ratings": "2023-12-04T17:59:09.3952347+00:00",
-  "LastUpdate_Achievements": "2023-12-04T18:05:09.7986179+00:00"
+  "LastUpdate_Ratings": "2023-12-04T19:00:05.305367+00:00",
+  "LastUpdate_Achievements": "2023-12-04T19:06:04.990915+00:00"
 }

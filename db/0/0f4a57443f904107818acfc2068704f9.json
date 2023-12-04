@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 836,
+  "EOS_Progressed": 837,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1777,6 +1777,11 @@
       "Time": "2023-12-04T14:07:53.785518+00:00",
       "NumProgressed": 836,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-04T19:07:47.7369052+00:00",
+      "NumProgressed": 837,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1973,7 +1978,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "CompleteChapter8",
@@ -1981,7 +1986,7 @@
       "Name": "Troggoff Troubles",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "CompleteChapter9",
@@ -2037,7 +2042,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "Win100OnlineMatched",
@@ -2084,14 +2089,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 836,
+      "Progressed": 837,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-04T18:06:20.3031482+00:00",
+  "LastChanged_Achievements": "2023-12-04T19:07:47.7369048+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:09.4303292+00:00",
-  "LastUpdate_Ratings": "2023-12-04T17:59:59.5308699+00:00",
-  "LastUpdate_Achievements": "2023-12-04T18:06:20.3031802+00:00"
+  "LastUpdate_Ratings": "2023-12-04T19:01:21.6211808+00:00",
+  "LastUpdate_Achievements": "2023-12-04T19:07:47.7369304+00:00"
 }

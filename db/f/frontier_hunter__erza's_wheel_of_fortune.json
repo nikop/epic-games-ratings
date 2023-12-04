@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 542,
+  "EOS_Progressed": 544,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
@@ -1702,6 +1702,11 @@
       "Time": "2023-12-04T18:08:16.2620882+00:00",
       "NumProgressed": 542,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-04T19:08:37.8580577+00:00",
+      "NumProgressed": 544,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1713,7 +1718,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 504
+      "UsersEstimate": 506
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1761,7 +1766,7 @@
       "Name": "Furious Scorpion Killer",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -1769,7 +1774,7 @@
       "Name": "Lethal Blade Mantis Killer",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -1777,7 +1782,7 @@
       "Name": "Squeaky Clean",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -1785,7 +1790,7 @@
       "Name": "Kind Adventurer",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -1793,7 +1798,7 @@
       "Name": "Mermaid Killer",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -1801,7 +1806,7 @@
       "Name": "Training Simulation",
       "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1841,7 +1846,7 @@
       "Name": "Arms Mechanic",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -1849,7 +1854,7 @@
       "Name": "Beginner Artificer",
       "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -1857,7 +1862,7 @@
       "Name": "Master Artificer",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -1865,7 +1870,7 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -1881,7 +1886,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 341
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1897,7 +1902,7 @@
       "Name": "Weapon Boost",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -1905,7 +1910,7 @@
       "Name": "Boss challenge",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -1969,7 +1974,7 @@
       "Name": "Storm Traveller",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -1985,7 +1990,7 @@
       "Name": "Berserker Slayer",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -2033,7 +2038,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2041,7 +2046,7 @@
       "Name": "Flower Thief",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -2057,7 +2062,7 @@
       "Name": "Seal Breaker",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -2065,14 +2070,14 @@
       "Name": "Handyman",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 542,
+      "Progressed": 544,
       "Completed": 1
     }
   ],
@@ -2080,8 +2085,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-04T18:08:16.2620879+00:00",
+  "LastChanged_Achievements": "2023-12-04T19:08:37.8580573+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.7212859+00:00",
-  "LastUpdate_Ratings": "2023-12-04T18:02:41.2423356+00:00",
-  "LastUpdate_Achievements": "2023-12-04T18:08:16.2621283+00:00"
+  "LastUpdate_Ratings": "2023-12-04T19:02:54.2174071+00:00",
+  "LastUpdate_Achievements": "2023-12-04T19:08:37.8580991+00:00"
 }

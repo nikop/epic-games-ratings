@@ -8636,9 +8636,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 477155,
+  "EOS_Progressed": 477156,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 356,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31736,6 +31736,11 @@
       "Time": "2023-12-04T18:03:09.3996572+00:00",
       "NumProgressed": 477155,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-12-04T19:03:40.6378734+00:00",
+      "NumProgressed": 477156,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -31771,7 +31776,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 176547
+      "UsersEstimate": 176548
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -31803,7 +31808,7 @@
       "Name": "On A Roll",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 124060
+      "UsersEstimate": 124061
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -31827,7 +31832,7 @@
       "Name": "Top Form",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 81116
+      "UsersEstimate": 81117
     },
     {
       "ID": "achievement_3_players_in_team_of_the_year",
@@ -31859,7 +31864,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 143146
+      "UsersEstimate": 143147
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -31899,7 +31904,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 176547
+      "UsersEstimate": 176548
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -31947,7 +31952,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 90659
+      "UsersEstimate": 90660
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -31979,7 +31984,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 200405
+      "UsersEstimate": 200406
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -32035,7 +32040,7 @@
       "Name": "Attack!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 133603
+      "UsersEstimate": 133604
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -32139,7 +32144,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 124060
+      "UsersEstimate": 124061
     },
     {
       "ID": "achievement_mr_delegator",
@@ -32171,7 +32176,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 167004
+      "UsersEstimate": 167005
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -32283,7 +32288,7 @@
       "Name": "Cash To Burn",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 81116
+      "UsersEstimate": 81117
     },
     {
       "ID": "achievement_sell_player",
@@ -32291,7 +32296,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 229034
+      "UsersEstimate": 229035
     },
     {
       "ID": "achievement_signed_a_player",
@@ -32530,15 +32535,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 477155,
+      "Progressed": 477156,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-12-04T15:00:02.045003+00:00",
-  "LastChanged_Achievements": "2023-12-04T18:03:09.3996569+00:00",
+  "LastChanged_Achievements": "2023-12-04T19:03:40.6378732+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:55.7278708+00:00",
-  "LastUpdate_Ratings": "2023-12-04T17:59:49.6208829+00:00",
-  "LastUpdate_Achievements": "2023-12-04T18:03:09.3998246+00:00"
+  "LastUpdate_Ratings": "2023-12-04T19:01:06.2373452+00:00",
+  "LastUpdate_Achievements": "2023-12-04T19:03:40.6380364+00:00"
 }

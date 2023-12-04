@@ -7,6 +7,7 @@ Rating: 3.45 (Ranked 1,051)
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 3.00% | ~53 |
 | Home Is Where the Heart Is | 2.00% | ~36 |
+| Enter of Your Own Free Will | 2.00% | ~36 |
 | Blood Will Have Blood | 2.00% | ~36 |
 | Ne Plus Ultra | 2.00% | ~36 |
 | Grounded | 2.00% | ~36 |
@@ -18,7 +19,6 @@ Rating: 3.45 (Ranked 1,051)
 | Wounded Whispers | 2.00% | ~36 |
 | Catch and Release | 2.00% | ~36 |
 | Neighborhood Revitalization | 1.00% | ~18 |
-| Enter of Your Own Free Will | 1.00% | ~18 |
 | Welcome to the Neighborhood | 1.00% | ~18 |
 | Bad Wiring | 1.00% | ~18 |
 | Sic Transit Umbra | 1.00% | ~18 |

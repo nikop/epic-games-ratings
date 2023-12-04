@@ -16142,9 +16142,9 @@
       "Count": 14247
     }
   ],
-  "EOS_Progressed": 969897,
+  "EOS_Progressed": 969915,
   "EOS_Completed": 2842,
-  "EOS_NewPlayers": 15027,
+  "EOS_NewPlayers": 14861,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -42087,6 +42087,11 @@
       "Time": "2023-12-04T18:05:54.6947982+00:00",
       "NumProgressed": 969897,
       "NumCompleted": 2842
+    },
+    {
+      "Time": "2023-12-04T19:07:10.6279912+00:00",
+      "NumProgressed": 969915,
+      "NumCompleted": 2842
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -42107,7 +42112,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4849
+      "UsersEstimate": 4850
     },
     {
       "ID": "BushidoAndChill",
@@ -42131,7 +42136,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48495
+      "UsersEstimate": 48496
     },
     {
       "ID": "FollowingTheRiver",
@@ -42171,7 +42176,7 @@
       "Name": "Gun Fu",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 67893
+      "UsersEstimate": 67894
     },
     {
       "ID": "Gunslinger",
@@ -42283,7 +42288,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4849
+      "UsersEstimate": 4850
     },
     {
       "ID": "Temperance",
@@ -42315,7 +42320,7 @@
       "Name": "The Fool",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58194
+      "UsersEstimate": 58195
     },
     {
       "ID": "TheHermit",
@@ -42339,7 +42344,7 @@
       "Name": "The Lovers",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 38796
+      "UsersEstimate": 38797
     },
     {
       "ID": "TheStar",
@@ -42347,7 +42352,7 @@
       "Name": "The Star",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4849
+      "UsersEstimate": 4850
     },
     {
       "ID": "TheSun",
@@ -42355,7 +42360,7 @@
       "Name": "The Sun",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4849
+      "UsersEstimate": 4850
     },
     {
       "ID": "TheWheelOfFortune",
@@ -42427,7 +42432,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 116388
+      "UsersEstimate": 116390
     },
     {
       "ID": "YipMan",
@@ -42539,7 +42544,7 @@
       "Name": "Relic Ruler",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 1970
+      "UsersEstimate": 1971
     },
     {
       "ID": "UltimateSurvivor",
@@ -42555,7 +42560,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 1970
+      "UsersEstimate": 1971
     },
     {
       "ID": "HydraIsDead",
@@ -42571,7 +42576,7 @@
       "Name": "Arachnophobia",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 1970
+      "UsersEstimate": 1971
     },
     {
       "ID": "KingOfTheCups",
@@ -42634,21 +42639,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 969897,
+      "Progressed": 969915,
       "Completed": 2842
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 98520,
+      "Progressed": 98538,
       "Completed": 10300
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-04T18:02:47.387456+00:00",
-  "LastChanged_Achievements": "2023-12-04T18:05:54.6947978+00:00",
+  "LastChanged_Achievements": "2023-12-04T19:07:10.6279909+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:33.8863582+00:00",
-  "LastUpdate_Ratings": "2023-12-04T18:02:47.3874565+00:00",
-  "LastUpdate_Achievements": "2023-12-04T18:05:54.6949418+00:00"
+  "LastUpdate_Ratings": "2023-12-04T19:03:03.8989763+00:00",
+  "LastUpdate_Achievements": "2023-12-04T19:07:10.6281285+00:00"
 }

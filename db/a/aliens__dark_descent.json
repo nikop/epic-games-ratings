@@ -2,12 +2,12 @@
   "ID": "87b7ded137594cbbbe7b772826ec3289",
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
-  "Ranking_Rating": 592,
+  "Ranking_Rating": 591,
   "Ranking_Popularity": 475,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -411,9 +411,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 3737,
+  "EOS_Progressed": 3738,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -6206,6 +6206,11 @@
       "Time": "2023-12-04T18:05:31.7494454+00:00",
       "NumProgressed": 3737,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-04T19:06:36.5601848+00:00",
+      "NumProgressed": 3738,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -6313,7 +6318,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2728
+      "UsersEstimate": 2729
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -6329,7 +6334,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2354
+      "UsersEstimate": 2355
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -6377,7 +6382,7 @@
       "Name": "Bandage Lover",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -6393,7 +6398,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -6417,7 +6422,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 2018
+      "UsersEstimate": 2019
     },
     {
       "ID": "ACH_MISSION_03",
@@ -6425,7 +6430,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 1756
+      "UsersEstimate": 1757
     },
     {
       "ID": "ACH_MISSION_04",
@@ -6441,7 +6446,7 @@
       "Name": "Where It All Begun",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "ACH_MISSION_06",
@@ -6457,7 +6462,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "ACH_MISSION_08",
@@ -6513,7 +6518,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2765
+      "UsersEstimate": 2766
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -6521,7 +6526,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 3027
+      "UsersEstimate": 3028
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -6537,7 +6542,7 @@
       "Name": "People Person",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 2130
+      "UsersEstimate": 2131
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -6553,7 +6558,7 @@
       "Name": "Recouped Investment",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -6569,14 +6574,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 2130
+      "UsersEstimate": 2131
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3737,
+      "Progressed": 3738,
       "Completed": 3
     }
   ],
@@ -6584,8 +6589,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-27T19:00:30.5070176+00:00",
-  "LastChanged_Achievements": "2023-12-04T18:05:31.7494452+00:00",
+  "LastChanged_Achievements": "2023-12-04T19:06:36.5601844+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:59.8207235+00:00",
-  "LastUpdate_Ratings": "2023-12-04T17:59:55.2366022+00:00",
-  "LastUpdate_Achievements": "2023-12-04T18:05:31.7494977+00:00"
+  "LastUpdate_Ratings": "2023-12-04T19:01:15.2186405+00:00",
+  "LastUpdate_Achievements": "2023-12-04T19:06:36.5602604+00:00"
 }

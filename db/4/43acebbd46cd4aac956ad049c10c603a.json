@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 495,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -189,7 +189,7 @@
   ],
   "EOS_Progressed": 871,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2070,9 +2070,9 @@
       "ID": "AbInitio",
       "SetID": "1n308hc",
       "Name": "Ab Initio",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 105
     },
     {
       "ID": "AnthropicHills",
@@ -2094,9 +2094,9 @@
       "ID": "Balance",
       "SetID": "1n308hc",
       "Name": "Balance",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "BecomingSmarter",
@@ -2118,9 +2118,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 113
     },
     {
       "ID": "ChasingTheLight",
@@ -2246,9 +2246,9 @@
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 105
     },
     {
       "ID": "LostMarshes",
@@ -2406,9 +2406,9 @@
       "ID": "TeamSpirit",
       "SetID": "1n308hc",
       "Name": "Team Spirit",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 78
     },
     {
       "ID": "TextAdventurer",
@@ -2470,9 +2470,9 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 131
     },
     {
       "ID": "TouchGrass",
@@ -2543,8 +2543,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-04T13:58:50.2802075+00:00",
-  "LastChanged_Achievements": "2023-12-04T18:05:16.7144935+00:00",
+  "LastChanged_Achievements": "2023-12-04T19:06:15.0744736+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-04T17:58:18.7564035+00:00",
-  "LastUpdate_Achievements": "2023-12-04T18:05:16.7146039+00:00"
+  "LastUpdate_Ratings": "2023-12-04T18:58:47.1335989+00:00",
+  "LastUpdate_Achievements": "2023-12-04T19:06:15.0745273+00:00"
 }

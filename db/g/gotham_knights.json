@@ -4461,10 +4461,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 5107,
       "NumberOfAwardsMax": 2991
+    },
+    {
+      "Time": "2023-12-04T18:58:16.6841066+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 5108,
+      "NumberOfAwardsMax": 2991
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5107,
+  "NumberOfAwards": 5108,
   "NumberOfAwardsMax": 2991,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4508,7 +4514,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 266
+      "Count": 267
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4529,9 +4535,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77660,
+  "EOS_Progressed": 77661,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 380,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24974,6 +24980,11 @@
       "Time": "2023-12-04T16:03:41.8739883+00:00",
       "NumProgressed": 77660,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-04T19:03:35.6637801+00:00",
+      "NumProgressed": 77661,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -25105,7 +25116,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10872
+      "UsersEstimate": 10873
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -25225,7 +25236,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14755
+      "UsersEstimate": 14756
     },
     {
       "ID": "FREEZE_3",
@@ -25233,7 +25244,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10872
+      "UsersEstimate": 10873
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -25289,7 +25300,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26404
+      "UsersEstimate": 26405
     },
     {
       "ID": "HARLEY_2",
@@ -25425,7 +25436,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10872
+      "UsersEstimate": 10873
     },
     {
       "ID": "MYSTERY_08",
@@ -25472,22 +25483,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77660,
+      "Progressed": 77661,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47940,
+      "Progressed": 47941,
       "Completed": 2675
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-12-04T17:57:59.36459+00:00",
-  "LastChanged_Achievements": "2023-12-04T18:03:05.8902159+00:00",
+  "LastChanged": "2023-12-04T18:58:16.6841064+00:00",
+  "LastChanged_Achievements": "2023-12-04T19:03:35.6637797+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.5024346+00:00",
-  "LastUpdate_Ratings": "2023-12-04T17:57:59.3645907+00:00",
-  "LastUpdate_Achievements": "2023-12-04T18:03:05.8911568+00:00"
+  "LastUpdate_Ratings": "2023-12-04T18:58:16.6841069+00:00",
+  "LastUpdate_Achievements": "2023-12-04T19:03:35.6639115+00:00"
 }

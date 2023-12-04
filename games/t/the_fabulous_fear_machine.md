@@ -9,13 +9,14 @@
 | You have three wishes left | 22.00% | ~10 |
 | The battle of Great Britain | 20.00% | ~9 |
 | Pulp! Where Monsters Dwell | 20.00% | ~9 |
-| A continent with chemistry | 15.00% | ~7 |
+| A continent with chemistry | 17.00% | ~8 |
 | Giant | 13.00% | ~6 |
 | Pulp! Terror Tales in the Night | 13.00% | ~6 |
+| The happy farmer girl | 13.00% | ~6 |
 | A rival with no options | 11.00% | ~5 |
-| The happy farmer girl | 11.00% | ~5 |
+| The seer | 11.00% | ~5 |
 | The artist | 9.00% | ~4 |
-| The seer | 9.00% | ~4 |
+| Kirlian's best disciple | 9.00% | ~4 |
 | You have two wishes left | 9.00% | ~4 |
 | You had one wish left | 7.00% | ~3 |
 | Bread and bocaua | 7.00% | ~3 |
@@ -23,7 +24,6 @@
 | The adventurer | 7.00% | ~3 |
 | Pulp! Out of this World | 7.00% | ~3 |
 | Pulp! Adventures into the Unknown | 7.00% | ~3 |
-| Kirlian's best disciple | 7.00% | ~3 |
 | ECO mode | 7.00% | ~3 |
 | Diagnosis: fear | 7.00% | ~3 |
 | Ambition is... blind | 7.00% | ~3 |

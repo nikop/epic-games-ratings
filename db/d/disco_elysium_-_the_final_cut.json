@@ -1428,18 +1428,24 @@
       "Rating": 4.87,
       "NumberOfAwards": 1128,
       "NumberOfAwardsMax": 737
+    },
+    {
+      "Time": "2023-12-04T18:59:31.8633311+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1129,
+      "NumberOfAwardsMax": 738
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1128,
-  "NumberOfAwardsMax": 737,
+  "NumberOfAwards": 1129,
+  "NumberOfAwardsMax": 738,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 737
+      "Count": 738
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1514,9 +1520,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131621,
+  "EOS_Progressed": 131625,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 304,
+  "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -23819,6 +23825,11 @@
       "Time": "2023-12-04T18:05:50.4321825+00:00",
       "NumProgressed": 131621,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-04T19:07:04.3323651+00:00",
+      "NumProgressed": 131625,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -23886,7 +23897,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31589
+      "UsersEstimate": 31590
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -23910,7 +23921,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36854
+      "UsersEstimate": 36855
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -23934,7 +23945,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21059
+      "UsersEstimate": 21060
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -23942,7 +23953,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27640
+      "UsersEstimate": 27641
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -23966,7 +23977,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21059
+      "UsersEstimate": 21060
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -23974,7 +23985,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14478
+      "UsersEstimate": 14479
     },
     {
       "ID": "ACH_CUNO",
@@ -24022,7 +24033,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7897
+      "UsersEstimate": 7898
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -24046,7 +24057,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 18427
+      "UsersEstimate": 18428
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -24110,7 +24121,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 18427
+      "UsersEstimate": 18428
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -24149,15 +24160,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131621,
+      "Progressed": 131625,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
-  "LastChanged": "2023-11-28T12:00:15.5937153+00:00",
-  "LastChanged_Achievements": "2023-12-04T18:05:50.4321822+00:00",
+  "LastChanged": "2023-12-04T18:59:31.8633309+00:00",
+  "LastChanged_Achievements": "2023-12-04T19:07:04.3323646+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:21.910323+00:00",
-  "LastUpdate_Ratings": "2023-12-04T17:58:48.0097347+00:00",
-  "LastUpdate_Achievements": "2023-12-04T18:05:50.432298+00:00"
+  "LastUpdate_Ratings": "2023-12-04T18:59:31.8633314+00:00",
+  "LastUpdate_Achievements": "2023-12-04T19:07:04.3324788+00:00"
 }

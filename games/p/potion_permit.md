@@ -24,7 +24,7 @@ Rating: 3.83 (Ranked 1,034)
 | Spark of Love | 19.00% | ~317 |
 | Community Helper | 18.00% | ~301 |
 | Expert Chemist | 15.00% | ~250 |
-| Stone Specialist | 14.00% | ~234 |
+| Stone Specialist | 15.00% | ~250 |
 | Sociable | 13.00% | ~217 |
 | Ablutomaniac | 13.00% | ~217 |
 | Line Cook | 12.00% | ~200 |
