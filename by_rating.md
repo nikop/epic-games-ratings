@@ -470,30 +470,30 @@
 | 449 | [The Colonists](games/t/the_colonists.md) | 4.58 | 0 | 557 |
 | 449 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.58 | 241 | 272 |
 | 449 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 56 | 419 |
-| 449 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 4.58 | 116 | 346 |
 | 449 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,573 | 58 |
 | 449 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 0 | 557 |
 | 449 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.58 | 0 | 557 |
 | 449 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 225 | 276 |
 | 449 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,624 | 26 |
 | 449 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 22 | 540 |
-| 478 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 557 |
-| 478 | [Among Us](games/a/among_us.md) | 4.57 | 2,874 | 99 |
-| 478 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 0 | 557 |
-| 478 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.57 | 350 | 241 |
-| 478 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.57 | 0 | 557 |
-| 478 | [Hob](games/h/hob.md) | 4.57 | 0 | 557 |
-| 478 | [Isonzo](games/i/isonzo.md) | 4.57 | 38 | 466 |
-| 478 | [Minit](games/m/minit.md) | 4.57 | 0 | 557 |
-| 478 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 25 | 526 |
-| 478 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,373 | 96 |
-| 478 | [Risen](games/r/risen.md) | 4.57 | 0 | 557 |
-| 478 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 557 |
-| 478 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 4,518 | 81 |
-| 478 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 31 | 498 |
-| 478 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 20,666 | 22 |
-| 478 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,792 | 121 |
-| 478 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 92 | 379 |
+| 477 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 557 |
+| 477 | [Among Us](games/a/among_us.md) | 4.57 | 2,874 | 99 |
+| 477 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 0 | 557 |
+| 477 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.57 | 350 | 241 |
+| 477 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.57 | 0 | 557 |
+| 477 | [Hob](games/h/hob.md) | 4.57 | 0 | 557 |
+| 477 | [Isonzo](games/i/isonzo.md) | 4.57 | 38 | 466 |
+| 477 | [Minit](games/m/minit.md) | 4.57 | 0 | 557 |
+| 477 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 25 | 526 |
+| 477 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,373 | 96 |
+| 477 | [Risen](games/r/risen.md) | 4.57 | 0 | 557 |
+| 477 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 4.57 | 116 | 346 |
+| 477 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 557 |
+| 477 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 4,518 | 81 |
+| 477 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 31 | 498 |
+| 477 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 20,666 | 22 |
+| 477 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,792 | 121 |
+| 477 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 92 | 379 |
 | 495 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.56 | 0 | 557 |
 | 495 | [Aragami 2](games/a/aragami_2.md) | 4.56 | 0 | 557 |
 | 495 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 48 | 440 |
@@ -541,7 +541,7 @@
 | 529 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 97 | 369 |
 | 529 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 0 | 557 |
 | 529 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.54 | 666 | 188 |
-| 542 | [Dauntless](games/d/dauntless.md) | 4.53 | 24,250 | 18 |
+| 542 | [Dauntless](games/d/dauntless.md) | 4.53 | 24,324 | 18 |
 | 542 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 23 | 535 |
 | 542 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 35 | 480 |
 | 542 | [Duskers](games/d/duskers.md) | 4.53 | 0 | 557 |
@@ -664,21 +664,21 @@
 | 649 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 557 |
 | 649 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.46 | 0 | 557 |
 | 649 | [Scorn](games/s/scorn.md) | 4.46 | 0 | 557 |
-| 649 | [Tunche](games/t/tunche.md) | 4.46 | 28 | 509 |
-| 666 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 0 | 557 |
-| 666 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.45 | 0 | 557 |
-| 666 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 261 | 268 |
-| 666 | [Faeria](games/f/faeria.md) | 4.45 | 114 | 348 |
-| 666 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.45 | 111 | 350 |
-| 666 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 968 | 157 |
-| 666 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 0 | 557 |
-| 666 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 38 | 466 |
-| 666 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 897 | 162 |
-| 666 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.45 | 0 | 557 |
-| 666 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 294 | 256 |
-| 666 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 121 | 341 |
-| 666 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.45 | 0 | 557 |
-| 666 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 25 | 526 |
+| 665 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 0 | 557 |
+| 665 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.45 | 0 | 557 |
+| 665 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 261 | 268 |
+| 665 | [Faeria](games/f/faeria.md) | 4.45 | 114 | 348 |
+| 665 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.45 | 111 | 350 |
+| 665 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 968 | 157 |
+| 665 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 0 | 557 |
+| 665 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 38 | 466 |
+| 665 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 897 | 162 |
+| 665 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.45 | 0 | 557 |
+| 665 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 294 | 256 |
+| 665 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 121 | 341 |
+| 665 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.45 | 0 | 557 |
+| 665 | [Tunche](games/t/tunche.md) | 4.45 | 28 | 509 |
+| 665 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 25 | 526 |
 | 680 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 4.44 | 171 | 309 |
 | 680 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 557 |
 | 680 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.44 | 255 | 269 |
