@@ -16,7 +16,7 @@
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.47% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Overloop](games/o/overloop.md) | 25.00% |
-| 17 | [The Riflemen](games/t/the_riflemen.md) | 24.35% |
+| 17 | [The Riflemen](games/t/the_riflemen.md) | 24.34% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 20 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
@@ -57,10 +57,10 @@
 | 55 | [Ravenlok](games/r/ravenlok.md) | 7.67% |
 | 56 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.53% |
 | 57 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.15% |
-| 58 | [Anna's Quest](games/a/anna's_quest.md) | 7.14% |
 | 58 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 7.14% |
-| 60 | [Sonic Origins](games/s/sonic_origins.md) | 7.12% |
-| 61 | [Scorn](games/s/scorn.md) | 7.09% |
+| 59 | [Sonic Origins](games/s/sonic_origins.md) | 7.12% |
+| 60 | [Scorn](games/s/scorn.md) | 7.09% |
+| 61 | [Anna's Quest](games/a/anna's_quest.md) | 7.06% |
 | 62 | [Time Loader](games/t/time_loader.md) | 7.03% |
 | 63 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.67% |
 | 64 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.60% |
@@ -70,7 +70,7 @@
 | 68 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
 | 69 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.77% |
 | 70 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
-| 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.68% |
+| 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.67% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 72 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 74 | [JARS](games/j/jars.md) | 5.00% |
@@ -214,9 +214,9 @@
 | 212 | [Eternights](games/e/eternights.md) | 0.47% |
 | 212 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.47% |
 | 214 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
-| 214 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.45% |
-| 216 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.44% |
-| 216 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.44% |
+| 215 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.44% |
+| 215 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.44% |
+| 215 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.44% |
 | 218 | [It Takes Two](games/i/it_takes_two.md) | 0.43% |
 | 218 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.43% |
 | 218 | [Tchia](games/t/tchia.md) | 0.43% |
