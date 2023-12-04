@@ -6,20 +6,20 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~24,854 |
-| Exploitative | 4.00% | ~19,883 |
-| Point Shooting | 4.00% | ~19,883 |
-| Wet Feet | 4.00% | ~19,883 |
-| High Speed Low Drag | 3.00% | ~14,912 |
-| Lucky | 3.00% | ~14,912 |
-| Stylin' | 3.00% | ~14,912 |
-| Turf War | 3.00% | ~14,912 |
-| Banged | 2.00% | ~9,941 |
-| Checkpoint Victory | 2.00% | ~9,941 |
-| First Blood | 2.00% | ~9,941 |
-| Flaccid Paralysis | 2.00% | ~9,941 |
-| Push Victory | 2.00% | ~9,941 |
-| Self-destructive | 2.00% | ~9,941 |
+| Wallbanger | 5.00% | ~24,855 |
+| Exploitative | 4.00% | ~19,884 |
+| Point Shooting | 4.00% | ~19,884 |
+| Wet Feet | 4.00% | ~19,884 |
+| High Speed Low Drag | 3.00% | ~14,913 |
+| Lucky | 3.00% | ~14,913 |
+| Stylin' | 3.00% | ~14,913 |
+| Turf War | 3.00% | ~14,913 |
+| Banged | 2.00% | ~9,942 |
+| Checkpoint Victory | 2.00% | ~9,942 |
+| First Blood | 2.00% | ~9,942 |
+| Flaccid Paralysis | 2.00% | ~9,942 |
+| Push Victory | 2.00% | ~9,942 |
+| Self-destructive | 2.00% | ~9,942 |
 | Blindfire | 1.00% | ~4,971 |
 | Ruthless | 1.00% | ~4,971 |
 | Semper Paratus | 1.00% | ~4,971 |
@@ -29,9 +29,9 @@ Number of Ratings: 1,316  (23.09.2022)
 | Personal | 0.90% | ~4,474 |
 | Grounded | 0.80% | ~3,977 |
 | Play to Win | 0.80% | ~3,977 |
-| Special Delivery | 0.70% | ~3,479 |
-| Firefight Victory | 0.60% | ~2,982 |
-| #1 | 0.60% | ~2,982 |
+| Special Delivery | 0.70% | ~3,480 |
+| Firefight Victory | 0.60% | ~2,983 |
+| #1 | 0.60% | ~2,983 |
 | Cinematic | 0.50% | ~2,485 |
 | Thanks Station! | 0.40% | ~1,988 |
 | Knock Knock | 0.30% | ~1,491 |
@@ -42,8 +42,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~497 |
 | Road Hazard | 0.10% | ~497 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 497,071 (Ranked 37)  
-Completed: 2 (0.00%) (Ranked 367)  
+Progressed: 497,099 (Ranked 37)  
+Completed: 2 (0.00%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -270,7 +270,7 @@ Completed: 2 (0.00%) (Ranked 367)
 | 2023-12-01 | 495,612 | 2 |
 | 2023-12-02 | 496,084 | 2 |
 | 2023-12-03 | 496,715 | 2 |
-| 2023-12-04 | 497,071 | 2 |
+| 2023-12-04 | 497,099 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 402  (Ranked 233)  
 Sum: 3,202 (Ranked 174)  

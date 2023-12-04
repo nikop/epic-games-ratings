@@ -6,34 +6,34 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~10,699 |
-| It wakes | 1.00% | ~10,699 |
-| Skillful | 1.00% | ~10,699 |
-| Not half bad | 0.90% | ~9,629 |
-| Make Some Noise | 0.90% | ~9,629 |
-| Apt Survivor | 0.80% | ~8,559 |
-| Survival Treasures | 0.80% | ~8,559 |
-| I | 0.80% | ~8,559 |
-| Handyman | 0.70% | ~7,489 |
-| Sorted | 0.70% | ~7,489 |
-| Resurgence | 0.70% | ~7,489 |
-| The Grand Sacrifice | 0.60% | ~6,419 |
-| No one left behind | 0.60% | ~6,419 |
-| Medic | 0.60% | ~6,419 |
-| Bloody Millionaire | 0.60% | ~6,419 |
-| Healthy Obsession | 0.60% | ~6,419 |
-| Preemptive Strike | 0.60% | ~6,419 |
-| Humanitarian | 0.60% | ~6,419 |
-| Agonizing Escape | 0.50% | ~5,349 |
-| Backdoor Escape | 0.50% | ~5,349 |
-| I've got your back | 0.50% | ~5,349 |
-| Perfect Escape | 0.50% | ~5,349 |
-| Perfect Killing | 0.50% | ~5,349 |
-| Risk it all | 0.50% | ~5,349 |
-| II | 0.50% | ~5,349 |
-| Engineer | 0.50% | ~5,349 |
-| Wounded Healer | 0.50% | ~5,349 |
-| Close Shave | 0.50% | ~5,349 |
+| Zealous | 1.00% | ~10,700 |
+| It wakes | 1.00% | ~10,700 |
+| Skillful | 1.00% | ~10,700 |
+| Not half bad | 0.90% | ~9,630 |
+| Make Some Noise | 0.90% | ~9,630 |
+| Apt Survivor | 0.80% | ~8,560 |
+| Survival Treasures | 0.80% | ~8,560 |
+| I | 0.80% | ~8,560 |
+| Handyman | 0.70% | ~7,490 |
+| Sorted | 0.70% | ~7,490 |
+| Resurgence | 0.70% | ~7,490 |
+| The Grand Sacrifice | 0.60% | ~6,420 |
+| No one left behind | 0.60% | ~6,420 |
+| Medic | 0.60% | ~6,420 |
+| Bloody Millionaire | 0.60% | ~6,420 |
+| Healthy Obsession | 0.60% | ~6,420 |
+| Preemptive Strike | 0.60% | ~6,420 |
+| Humanitarian | 0.60% | ~6,420 |
+| Agonizing Escape | 0.50% | ~5,350 |
+| Backdoor Escape | 0.50% | ~5,350 |
+| I've got your back | 0.50% | ~5,350 |
+| Perfect Escape | 0.50% | ~5,350 |
+| Perfect Killing | 0.50% | ~5,350 |
+| Risk it all | 0.50% | ~5,350 |
+| II | 0.50% | ~5,350 |
+| Engineer | 0.50% | ~5,350 |
+| Wounded Healer | 0.50% | ~5,350 |
+| Close Shave | 0.50% | ~5,350 |
 | Apt Killer | 0.40% | ~4,280 |
 | Vulture | 0.40% | ~4,280 |
 | III | 0.40% | ~4,280 |
@@ -46,6 +46,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Item of Obsession | 0.30% | ~3,210 |
 | Cherish your Life | 0.30% | ~3,210 |
 | Unforgettable Getaway | 0.30% | ~3,210 |
+| Cutting Out | 0.30% | ~3,210 |
 | First to the Punch | 0.30% | ~3,210 |
 | Operation: Survival | 0.30% | ~3,210 |
 | Old West Oasis | 0.30% | ~3,210 |
@@ -74,7 +75,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Ancestor's Rite | 0.20% | ~2,140 |
 | Devoted Gatekeeping | 0.20% | ~2,140 |
 | Shrine Apparatus | 0.20% | ~2,140 |
-| Cutting Out | 0.20% | ~2,140 |
 | Outrun Evil | 0.20% | ~2,140 |
 | Broken Bodies | 0.20% | ~2,140 |
 | Grim Pilgrimage | 0.20% | ~2,140 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Joke’s On You | 0.10% | ~1,070 |
 | Adept Good Guy | 0.10% | ~1,070 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,069,879 (Ranked 14)  
+Progressed: 1,070,017 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -467,7 +467,7 @@ Completed: 61 (0.01%) (Ranked 346)
 | 2023-12-01 | 1,059,298 | 61 |
 | 2023-12-02 | 1,062,340 | 61 |
 | 2023-12-03 | 1,067,390 | 61 |
-| 2023-12-04 | 1,069,879 | 61 |
+| 2023-12-04 | 1,070,017 | 61 |
 ## Awards
 Max (Diverse Characters): 37,218  (Ranked 15)  
 Sum: 282,885 (Ranked 12)  

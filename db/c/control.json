@@ -3,12 +3,12 @@
   "Name": "Control",
   "ProductSlug": "control",
   "Ranking_Rating": 387,
-  "Ranking_Popularity": 42,
+  "Ranking_Popularity": 41,
   "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 778,
-  "Ranking_EOS_Completed": 367,
-  "Ranking_EOS_NewPlayers": 483,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Completed": 368,
+  "Ranking_EOS_NewPlayers": 481,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2019-08-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -5732,18 +5732,24 @@
       "Rating": 4.61,
       "NumberOfAwards": 13317,
       "NumberOfAwardsMax": 8825
+    },
+    {
+      "Time": "2023-12-04T21:57:09.7732169+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 13321,
+      "NumberOfAwardsMax": 8829
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13317,
-  "NumberOfAwardsMax": 8825,
+  "NumberOfAwards": 13321,
+  "NumberOfAwardsMax": 8829,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 8825
+      "Count": 8829
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5811,8 +5817,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:45.0678604+00:00",
-  "LastChanged": "2023-12-04T20:57:31.1968134+00:00",
+  "LastChanged": "2023-12-04T21:57:09.7732167+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:35.6243866+00:00",
-  "LastUpdate_Ratings": "2023-12-04T20:57:31.196814+00:00",
-  "LastUpdate_Achievements": "2023-12-04T21:06:58.6234362+00:00"
+  "LastUpdate_Ratings": "2023-12-04T21:57:09.7732172+00:00",
+  "LastUpdate_Achievements": "2023-12-04T22:05:20.9571356+00:00"
 }

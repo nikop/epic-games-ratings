@@ -3,9 +3,9 @@
   "Name": "HORSE CLUB Adventures",
   "ProductSlug": "horse-club-adventures-19e7a0",
   "Ranking_EOS_Progress": 480,
-  "Ranking_EOS_Completed": 367,
+  "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
     "PcReleaseDate": "2021-05-26T11:00:00+00:00",
@@ -366,9 +366,9 @@
       "ID": "ACH_07_GRANDLAP3",
       "SetID": "9dl0ei6",
       "Name": "The Grand Lap 3",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_08_TOURNAMENTWINNER",
@@ -541,8 +541,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-12-04T21:10:24.847361+00:00",
+  "LastChanged_Achievements": "2023-12-04T22:09:26.5886655+00:00",
   "LastUpdate_AppInfo": "2023-12-04T01:45:22.3495057+00:00",
-  "LastUpdate_Ratings": "2023-12-04T20:58:57.0643538+00:00",
-  "LastUpdate_Achievements": "2023-12-04T21:10:24.8473796+00:00"
+  "LastUpdate_Ratings": "2023-12-04T21:58:06.0168901+00:00",
+  "LastUpdate_Achievements": "2023-12-04T22:09:26.5886825+00:00"
 }

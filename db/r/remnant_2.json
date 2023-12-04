@@ -5163,9 +5163,9 @@
       "Count": 396
     }
   ],
-  "EOS_Progressed": 234839,
+  "EOS_Progressed": 234872,
   "EOS_Completed": 558,
-  "EOS_NewPlayers": 5260,
+  "EOS_NewPlayers": 5277,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -21383,6 +21383,11 @@
       "Time": "2023-12-04T21:09:28.9428096+00:00",
       "NumProgressed": 234839,
       "NumCompleted": 558
+    },
+    {
+      "Time": "2023-12-04T22:08:46.506313+00:00",
+      "NumProgressed": 234872,
+      "NumCompleted": 558
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21625,9 +21630,9 @@
       "ID": "Obtain_Boss_Weapon",
       "SetID": "bkp3b1a",
       "Name": "Boss\u0027n Up",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 939
+      "UsersEstimate": 1174
     },
     {
       "ID": "Obtain_Guns_A",
@@ -21834,13 +21839,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 234839,
+      "Progressed": 234872,
       "Completed": 558
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 14004,
+      "Progressed": 14037,
       "Completed": 195
     }
   ],
@@ -21848,8 +21853,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-04T21:03:34.347154+00:00",
-  "LastChanged_Achievements": "2023-12-04T21:09:28.9428092+00:00",
+  "LastChanged_Achievements": "2023-12-04T22:08:46.5063124+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-04T21:03:34.3471545+00:00",
-  "LastUpdate_Achievements": "2023-12-04T21:09:28.9429178+00:00"
+  "LastUpdate_Ratings": "2023-12-04T22:02:59.4473702+00:00",
+  "LastUpdate_Achievements": "2023-12-04T22:08:46.5064074+00:00"
 }

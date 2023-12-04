@@ -28,7 +28,7 @@ Number of Ratings: 892  (23.09.2022)
 | Got Served | 63.00% | ~315 |
 | Elementary, My Dear | 61.00% | ~305 |
 | Builder of the Month | 60.00% | ~300 |
-| Panda-kin | 58.00% | ~290 |
+| Panda-kin | 59.00% | ~295 |
 | You Don't Win Friends With Salad | 58.00% | ~290 |
 | Waste Not Want Not | 58.00% | ~290 |
 | Better Late than Never | 57.00% | ~285 |
@@ -45,7 +45,7 @@ Number of Ratings: 892  (23.09.2022)
 | Finishing Touches | 52.00% | ~260 |
 | Bridging the Gap | 52.00% | ~260 |
 | Got the Flow Back | 47.00% | ~235 |
-| Sepia Toned Memories | 45.00% | ~225 |
+| Sepia Toned Memories | 46.00% | ~230 |
 | Who Ya Gonna Call...? | 45.00% | ~225 |
 | Time Flies | 43.00% | ~215 |
 | My Time Mansion | 42.00% | ~210 |
@@ -68,7 +68,7 @@ Number of Ratings: 892  (23.09.2022)
 | Sandrock's Hottest Club | 5.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 500 (Ranked 314)  
-Completed: 0 (0.00%) (Ranked 367)  
+Completed: 0 (0.00%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,673 |
-| Pork Chopped | 3.00% | ~1,673 |
+| Whatever It Takes | 3.00% | ~1,674 |
+| Pork Chopped | 3.00% | ~1,674 |
 | Dr. Reed, I Presume? | 2.00% | ~14,605 |
 | Git Gutte! | 2.00% | ~14,605 |
 | Bookworm | 2.00% | ~14,605 |
@@ -19,21 +19,21 @@ Rating: 4.54 (Ranked 529)
 | Stacking the Deck | 2.00% | ~14,605 |
 | Personal Assistant Personally Assisted | 2.00% | ~14,605 |
 | Welcome To Hell-A | 2.00% | ~14,605 |
-| One of Us | 2.00% | ~1,115 |
-| Making Your Mark | 1.00% | ~7,302 |
-| Anger Management | 1.00% | ~7,302 |
-| Perks of the Job | 1.00% | ~7,302 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,302 |
-| But Doctor, I am Butcho | 1.00% | ~7,302 |
-| Slayer Squad | 1.00% | ~7,302 |
-| Can't Handle the Truth | 1.00% | ~7,302 |
-| Like Riding a Bike | 1.00% | ~7,302 |
-| Zombologist | 1.00% | ~7,302 |
-| Ooh, Shiny! | 1.00% | ~7,302 |
-| A Patton Emerges | 1.00% | ~7,302 |
-| I Am the Resurrection | 1.00% | ~7,302 |
-| Our True Nature | 1.00% | ~7,302 |
-| This is My Weapon | 1.00% | ~7,302 |
+| One of Us | 2.00% | ~1,116 |
+| Making Your Mark | 1.00% | ~7,303 |
+| Anger Management | 1.00% | ~7,303 |
+| Perks of the Job | 1.00% | ~7,303 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,303 |
+| But Doctor, I am Butcho | 1.00% | ~7,303 |
+| Slayer Squad | 1.00% | ~7,303 |
+| Can't Handle the Truth | 1.00% | ~7,303 |
+| Like Riding a Bike | 1.00% | ~7,303 |
+| Zombologist | 1.00% | ~7,303 |
+| Ooh, Shiny! | 1.00% | ~7,303 |
+| A Patton Emerges | 1.00% | ~7,303 |
+| I Am the Resurrection | 1.00% | ~7,303 |
+| Our True Nature | 1.00% | ~7,303 |
+| This is My Weapon | 1.00% | ~7,303 |
 | Humanity Distilled | 0.90% | ~6,572 |
 | Down with the Sickness | 0.90% | ~6,572 |
 | Max Headroom | 0.90% | ~6,572 |
@@ -41,23 +41,23 @@ Rating: 4.54 (Ranked 529)
 | Jumbo Keyring | 0.70% | ~5,112 |
 | Go, Bobcats! | 0.70% | ~5,112 |
 | Rising Star | 0.70% | ~5,112 |
-| Smorgasbord | 0.60% | ~4,381 |
-| Internet Famous | 0.60% | ~4,381 |
+| Smorgasbord | 0.60% | ~4,382 |
+| Internet Famous | 0.60% | ~4,382 |
+| Variety is the Spice of Death | 0.60% | ~4,382 |
 | Make it So | 0.50% | ~3,651 |
 | On Safari | 0.50% | ~3,651 |
-| Variety is the Spice of Death | 0.50% | ~3,651 |
 | LA Influential | 0.40% | ~2,921 |
 | Gore Horse | 0.40% | ~2,921 |
 | Top That, Tisha! | 0.40% | ~223 |
 | Sole Survivor | 0.30% | ~2,191 |
 | Sharpest Tool in the Box | 0.30% | ~2,191 |
-| Survival Skills | 0.20% | ~1,460 |
+| Survival Skills | 0.20% | ~1,461 |
 | Lawn and Order | 0.20% | ~112 |
 | Donk! | 0.10% | ~730 |
 | Bucket List | 0.10% | ~730 |
 | Wilhelm | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 730,231 (Ranked 21)  
+Progressed: 730,253 (Ranked 21)  
 Completed: 2,463 (0.34%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,21 +285,21 @@ Completed: 2,463 (0.34%) (Ranked 233)
 | 2023-12-01 | 728,667 | 2,459 |
 | 2023-12-02 | 729,149 | 2,460 |
 | 2023-12-03 | 729,822 | 2,461 |
-| 2023-12-04 | 730,231 | 2,463 |
+| 2023-12-04 | 730,253 | 2,463 |
 ## Awards
 Max (Great Boss Battles): 7,915  (Ranked 49)  
-Sum: 12,139 (Ranked 82)  
+Sum: 12,148 (Ranked 82)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,915 |
-| This game is Great for Beginners | 614 |
-| This game has Diverse Characters | 579 |
+| This game is Great for Beginners | 617 |
+| This game has Diverse Characters | 581 |
 | This game has Quickly Understood Controls | 547 |
 | This game is Relaxing | 526 |
 | This game has Amazing Storytelling | 510 |
 | This game is Extremely Fun | 499 |
-| This game is Highly Recommended | 490 |
+| This game is Highly Recommended | 494 |
 | This game has Amazing Characters | 459 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -531,4 +531,4 @@ Diff (max vs sum): -33
 | 2023-12-01 | 4.54 | 7,845 | 12,026 |
 | 2023-12-02 | 4.54 | 7,869 | 12,068 |
 | 2023-12-03 | 4.54 | 7,892 | 12,110 |
-| 2023-12-04 | 4.54 | 7,915 | 12,139 |
+| 2023-12-04 | 4.54 | 7,915 | 12,148 |

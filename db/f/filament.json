@@ -336,9 +336,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 206501,
+  "EOS_Progressed": 206507,
   "EOS_Completed": 538,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -24751,6 +24751,11 @@
       "Time": "2023-12-04T21:06:21.8774445+00:00",
       "NumProgressed": 206501,
       "NumCompleted": 538
+    },
+    {
+      "Time": "2023-12-04T22:04:55.3821682+00:00",
+      "NumProgressed": 206507,
+      "NumCompleted": 538
     }
   ],
   "TotalAchievements": 29,
@@ -24786,7 +24791,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 194111
+      "UsersEstimate": 194117
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -24946,7 +24951,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20650
+      "UsersEstimate": 20651
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -24962,7 +24967,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16520
+      "UsersEstimate": 16521
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -24993,7 +24998,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 206501,
+      "Progressed": 206507,
       "Completed": 538
     }
   ],
@@ -25001,8 +25006,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-12-03T15:57:39.8405017+00:00",
-  "LastChanged_Achievements": "2023-12-04T21:06:21.8774441+00:00",
+  "LastChanged_Achievements": "2023-12-04T22:04:55.3821677+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:18.4469481+00:00",
-  "LastUpdate_Ratings": "2023-12-04T20:58:54.4194946+00:00",
-  "LastUpdate_Achievements": "2023-12-04T21:06:21.8775716+00:00"
+  "LastUpdate_Ratings": "2023-12-04T21:58:04.1190111+00:00",
+  "LastUpdate_Achievements": "2023-12-04T22:04:55.3823384+00:00"
 }

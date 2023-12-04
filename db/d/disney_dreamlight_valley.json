@@ -4927,10 +4927,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7988,
       "NumberOfAwardsMax": 1085
+    },
+    {
+      "Time": "2023-12-04T21:59:34.4384309+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7989,
+      "NumberOfAwardsMax": 1085
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7988,
+  "NumberOfAwards": 7989,
   "NumberOfAwardsMax": 1085,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4974,7 +4980,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 908
+      "Count": 909
     },
     {
       "Text": "This game is Relaxing",
@@ -5001,9 +5007,9 @@
       "Count": 533
     }
   ],
-  "EOS_Progressed": 12171,
+  "EOS_Progressed": 12172,
   "EOS_Completed": 290,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.38,
   "EosHistory": [
@@ -20481,6 +20487,11 @@
       "Time": "2023-12-04T21:08:52.5354913+00:00",
       "NumProgressed": 12171,
       "NumCompleted": 290
+    },
+    {
+      "Time": "2023-12-04T22:08:20.6550856+00:00",
+      "NumProgressed": 12172,
+      "NumCompleted": 290
     }
   ],
   "TotalAchievements": 15,
@@ -20532,7 +20543,7 @@
       "Name": "Constructor",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 6207
+      "UsersEstimate": 6208
     },
     {
       "ID": "Duty_Bound",
@@ -20564,7 +20575,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 69,
       "XP": 75,
-      "UsersEstimate": 8398
+      "UsersEstimate": 8399
     },
     {
       "ID": "Miner",
@@ -20580,7 +20591,7 @@
       "Name": "Photographer",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 8276
+      "UsersEstimate": 8277
     },
     {
       "ID": "Renovator",
@@ -20588,7 +20599,7 @@
       "Name": "Renovator",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 6207
+      "UsersEstimate": 6208
     },
     {
       "ID": "Thorn_Cleaner",
@@ -20604,23 +20615,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 7424
+      "UsersEstimate": 7425
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 12171,
+      "Progressed": 12172,
       "Completed": 290
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-12-04T20:00:04.2495976+00:00",
-  "LastChanged_Achievements": "2023-12-04T21:08:52.5354907+00:00",
+  "LastChanged": "2023-12-04T21:59:34.4384307+00:00",
+  "LastChanged_Achievements": "2023-12-04T22:08:20.6550851+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:53.5041293+00:00",
-  "LastUpdate_Ratings": "2023-12-04T21:01:10.2508175+00:00",
-  "LastUpdate_Achievements": "2023-12-04T21:08:52.5355974+00:00"
+  "LastUpdate_Ratings": "2023-12-04T21:59:34.4384313+00:00",
+  "LastUpdate_Achievements": "2023-12-04T22:08:20.6551631+00:00"
 }

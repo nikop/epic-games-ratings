@@ -6,9 +6,9 @@
   "Ranking_Popularity": 125,
   "Ranking_PopularitySum": 134,
   "Ranking_EOS_Progress": 168,
-  "Ranking_EOS_Completed": 367,
+  "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -3393,9 +3393,9 @@
       "Count": 412
     }
   ],
-  "EOS_Progressed": 9508,
+  "EOS_Progressed": 9509,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10473,6 +10473,11 @@
       "Time": "2023-12-04T21:04:43.7745354+00:00",
       "NumProgressed": 9508,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-04T22:03:47.1583871+00:00",
+      "NumProgressed": 9509,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -10525,7 +10530,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 7131
+      "UsersEstimate": 7132
     },
     {
       "ID": "ach07",
@@ -10533,7 +10538,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 5324
+      "UsersEstimate": 5325
     },
     {
       "ID": "ach08",
@@ -10541,7 +10546,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3898
+      "UsersEstimate": 3899
     },
     {
       "ID": "ach09",
@@ -10605,7 +10610,7 @@
       "Name": "Test Your Might",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1617
     },
     {
       "ID": "ach17",
@@ -10613,7 +10618,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 5039
+      "UsersEstimate": 5040
     },
     {
       "ID": "ach18",
@@ -10661,7 +10666,7 @@
       "Name": "Take And Deny",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 2757
+      "UsersEstimate": 2758
     },
     {
       "ID": "ach24",
@@ -10789,7 +10794,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3898
+      "UsersEstimate": 3899
     },
     {
       "ID": "ach40",
@@ -10877,14 +10882,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3803
+      "UsersEstimate": 3804
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 9508,
+      "Progressed": 9509,
       "Completed": 0
     }
   ],
@@ -10892,8 +10897,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-12-04T21:03:19.3117153+00:00",
-  "LastChanged_Achievements": "2023-12-04T21:04:43.7745351+00:00",
+  "LastChanged_Achievements": "2023-12-04T22:03:47.1583865+00:00",
   "LastUpdate_AppInfo": "2023-12-02T11:57:13.7403672+00:00",
-  "LastUpdate_Ratings": "2023-12-04T21:03:19.3117158+00:00",
-  "LastUpdate_Achievements": "2023-12-04T21:04:43.7745978+00:00"
+  "LastUpdate_Ratings": "2023-12-04T22:02:49.3653947+00:00",
+  "LastUpdate_Achievements": "2023-12-04T22:03:47.1584441+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
     "PcReleaseDate": "2021-10-14T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4866,
+  "EOS_Progressed": 4867,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 472,
+  "EOS_NewPlayers": 468,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -3929,6 +3929,11 @@
       "Time": "2023-12-04T21:05:45.0557822+00:00",
       "NumProgressed": 4866,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-12-04T22:04:29.6528918+00:00",
+      "NumProgressed": 4867,
+      "NumCompleted": 47
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -3973,7 +3978,7 @@
       "Name": "Unlock the PC",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 1800
+      "UsersEstimate": 1801
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_SOFA",
@@ -3997,7 +4002,7 @@
       "Name": "Wrong passcode",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 3893
+      "UsersEstimate": 3894
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -4068,14 +4073,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 4866,
+      "Progressed": 4867,
       "Completed": 47
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-12-04T21:05:45.0557817+00:00",
+  "LastChanged_Achievements": "2023-12-04T22:04:29.6528911+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:12.1666356+00:00",
-  "LastUpdate_Ratings": "2023-12-04T21:00:00.3529422+00:00",
-  "LastUpdate_Achievements": "2023-12-04T21:05:45.0558156+00:00"
+  "LastUpdate_Ratings": "2023-12-04T21:58:47.5862495+00:00",
+  "LastUpdate_Achievements": "2023-12-04T22:04:29.6529218+00:00"
 }

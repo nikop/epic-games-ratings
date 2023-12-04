@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 524,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.29,
   "EosHistory": [
@@ -1465,9 +1465,9 @@
       "ID": "ach_main05evil_completed",
       "SetID": "4hg22ll",
       "Name": "Bad Elves Go Everywhere",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 362
     },
     {
       "ID": "ach_main05evil_thalyalevel",
@@ -1745,9 +1745,9 @@
       "ID": "ach_main16ring_lavalings",
       "SetID": "4hg22ll",
       "Name": "Lavalumps on Ice!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 79
     },
     {
       "ID": "ach_main16ring_spawners",
@@ -1864,8 +1864,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-04T21:09:05.0503588+00:00",
+  "LastChanged_Achievements": "2023-12-04T22:08:29.7049874+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:15.3424787+00:00",
-  "LastUpdate_Ratings": "2023-12-04T21:01:07.4768577+00:00",
-  "LastUpdate_Achievements": "2023-12-04T21:09:05.0504028+00:00"
+  "LastUpdate_Ratings": "2023-12-04T21:59:32.693257+00:00",
+  "LastUpdate_Achievements": "2023-12-04T22:08:29.7050315+00:00"
 }

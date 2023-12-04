@@ -49,18 +49,18 @@
 | First 100 Days | 8.00% | ~29 |
 | Water Features | 8.00% | ~29 |
 | Revenue Royalty | 8.00% | ~29 |
+| Pipe Up | 8.00% | ~29 |
 | Careful Constructor | 7.00% | ~25 |
 | Meet Me at HQ | 7.00% | ~25 |
 | Maximum Reuse | 7.00% | ~25 |
 | Golden Opportunity | 7.00% | ~25 |
-| Pipe Up | 7.00% | ~25 |
+| Penthouse in the Sky | 6.00% | ~21 |
 | I'm Busy Ruling | 6.00% | ~21 |
 | Sky High Stature | 6.00% | ~21 |
 | Profound Proceeds | 6.00% | ~21 |
 | Tuned In | 6.00% | ~21 |
 | It's a Gas | 6.00% | ~21 |
 | Meet ADA/360 | 5.00% | ~18 |
-| Penthouse in the Sky | 5.00% | ~18 |
 | Baron of Business | 5.00% | ~18 |
 | Office Bigwigs | 4.00% | ~14 |
 | Three of a Kind | 4.00% | ~14 |
@@ -94,7 +94,7 @@
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 357 (Ranked 338)  
-Completed: 0 (0.00%) (Ranked 367)  
+Completed: 0 (0.00%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

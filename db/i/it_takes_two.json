@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-06-10T11:00:00+00:00",
     "PcReleaseDate": "2021-03-25T11:00:00+00:00",
@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 25995,
+  "EOS_Progressed": 25997,
   "EOS_Completed": 111,
   "EOS_NewPlayers": 1468,
   "EOS_NewCompleters": 6,
@@ -8858,6 +8858,11 @@
       "Time": "2023-12-04T21:09:30.0734747+00:00",
       "NumProgressed": 25995,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-12-04T22:08:47.2622729+00:00",
+      "NumProgressed": 25997,
+      "NumCompleted": 111
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -8870,7 +8875,7 @@
       "Name": "It Took Two",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 11438
+      "UsersEstimate": 11439
     },
     {
       "ID": "achievement_10",
@@ -8886,7 +8891,7 @@
       "Name": "Realize Your Art",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3119
+      "UsersEstimate": 3120
     },
     {
       "ID": "achievement_12",
@@ -8894,7 +8899,7 @@
       "Name": "On Rails Experience",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 14817
+      "UsersEstimate": 14818
     },
     {
       "ID": "achievement_13",
@@ -8910,7 +8915,7 @@
       "Name": "Force Triangulated",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3119
+      "UsersEstimate": 3120
     },
     {
       "ID": "achievement_15",
@@ -8918,7 +8923,7 @@
       "Name": "Lost And Found",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2859
+      "UsersEstimate": 2860
     },
     {
       "ID": "achievement_16",
@@ -8934,7 +8939,7 @@
       "Name": "Something Fishy",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2859
+      "UsersEstimate": 2860
     },
     {
       "ID": "achievement_18",
@@ -8942,7 +8947,7 @@
       "Name": "Terror Of The Seven Seas",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 4159
+      "UsersEstimate": 4160
     },
     {
       "ID": "achievement_19",
@@ -8966,7 +8971,7 @@
       "Name": "Meditation Maestro",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3119
+      "UsersEstimate": 3120
     },
     {
       "ID": "achievement_3",
@@ -8974,7 +8979,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 22616
+      "UsersEstimate": 22617
     },
     {
       "ID": "achievement_4",
@@ -8982,7 +8987,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 22876
+      "UsersEstimate": 22877
     },
     {
       "ID": "achievement_5",
@@ -9006,7 +9011,7 @@
       "Name": "Look At Him Go",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 20536
+      "UsersEstimate": 20538
     },
     {
       "ID": "achievement_8",
@@ -9014,7 +9019,7 @@
       "Name": "Break the Bank",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 11178
+      "UsersEstimate": 11179
     },
     {
       "ID": "achievement_9",
@@ -9022,20 +9027,20 @@
       "Name": "A Daring Devil",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 13777
+      "UsersEstimate": 13778
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 25995,
+      "Progressed": 25997,
       "Completed": 111
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-12-04T21:09:30.0734743+00:00",
+  "LastChanged_Achievements": "2023-12-04T22:08:47.2622724+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:29.2026189+00:00",
-  "LastUpdate_Ratings": "2023-12-04T21:02:52.3329036+00:00",
-  "LastUpdate_Achievements": "2023-12-04T21:09:30.0735236+00:00"
+  "LastUpdate_Ratings": "2023-12-04T22:00:21.985633+00:00",
+  "LastUpdate_Achievements": "2023-12-04T22:08:47.2623248+00:00"
 }

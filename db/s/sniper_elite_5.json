@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -625,9 +625,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 3975,
+  "EOS_Progressed": 3976,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8410,6 +8410,11 @@
       "Time": "2023-12-04T17:06:57.0235636+00:00",
       "NumProgressed": 3975,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-04T22:05:19.1609706+00:00",
+      "NumProgressed": 3976,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8445,7 +8450,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -8453,7 +8458,7 @@
       "Name": "Opposing Force",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -8461,7 +8466,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -8469,7 +8474,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -8501,7 +8506,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1868
+      "UsersEstimate": 1869
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8629,7 +8634,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -8645,7 +8650,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -8757,7 +8762,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1233
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -8813,7 +8818,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -8988,13 +8993,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3926,
+      "Progressed": 3927,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3975,
+      "Progressed": 3976,
       "Completed": 11
     }
   ],
@@ -9002,8 +9007,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-29T01:50:55.7506147+00:00",
-  "LastChanged_Achievements": "2023-12-04T21:06:55.9305091+00:00",
+  "LastChanged_Achievements": "2023-12-04T22:05:19.1609702+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:29.4601542+00:00",
-  "LastUpdate_Ratings": "2023-12-04T20:58:27.8436897+00:00",
-  "LastUpdate_Achievements": "2023-12-04T21:06:55.9306266+00:00"
+  "LastUpdate_Ratings": "2023-12-04T21:57:47.1808187+00:00",
+  "LastUpdate_Achievements": "2023-12-04T22:05:19.1610767+00:00"
 }

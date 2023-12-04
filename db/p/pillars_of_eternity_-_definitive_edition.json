@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 3657,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
     "PcReleaseDate": "2015-03-26T16:00:00+00:00",
@@ -3357,9 +3357,9 @@
       "Count": 189
     }
   ],
-  "EOS_Progressed": 1086,
+  "EOS_Progressed": 1085,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": -1,
+  "EOS_NewPlayers": -2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3647,6 +3647,11 @@
       "Time": "2023-12-03T03:08:05.5461518+00:00",
       "NumProgressed": 1086,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-04T22:03:12.0452081+00:00",
+      "NumProgressed": 1085,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -3658,7 +3663,7 @@
       "Name": "Completed Act I",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 337
+      "UsersEstimate": 336
     },
     {
       "ID": "achievement_02",
@@ -3792,9 +3797,9 @@
       "ID": "achievement_18",
       "SetID": "70p237j",
       "Name": "The Storied Adventurer",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_19",
@@ -3874,7 +3879,7 @@
       "Name": "First 5 Levels of Od Nua",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 271
     },
     {
       "ID": "achievement_29",
@@ -4041,15 +4046,15 @@
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1086,
+      "Progressed": 1085,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2023-12-04T19:58:28.6175482+00:00",
-  "LastChanged_Achievements": "2023-12-04T21:03:53.1040963+00:00",
+  "LastChanged_Achievements": "2023-12-04T22:03:12.0452074+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:12.3573405+00:00",
-  "LastUpdate_Ratings": "2023-12-04T20:59:00.1276426+00:00",
-  "LastUpdate_Achievements": "2023-12-04T21:03:53.1041258+00:00"
+  "LastUpdate_Ratings": "2023-12-04T21:58:07.9226708+00:00",
+  "LastUpdate_Achievements": "2023-12-04T22:03:12.0452394+00:00"
 }

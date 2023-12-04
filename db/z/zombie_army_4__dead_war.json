@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2472,9 +2472,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44069,
+  "EOS_Progressed": 44070,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9542,6 +9542,11 @@
       "Time": "2023-12-04T21:07:15.4271687+00:00",
       "NumProgressed": 44069,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-12-04T22:05:33.022639+00:00",
+      "NumProgressed": 44070,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -9561,7 +9566,7 @@
       "Name": "Kali Ma",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2203
+      "UsersEstimate": 2204
     },
     {
       "ID": "SE_COMPLETE_ALL_CHAPTERS_WITH_A_FULL_TEAM",
@@ -9609,7 +9614,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12339
+      "UsersEstimate": 12340
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -9625,7 +9630,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 18068
+      "UsersEstimate": 18069
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -9745,7 +9750,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27763
+      "UsersEstimate": 27764
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -9761,7 +9766,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 14983
+      "UsersEstimate": 14984
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -9769,7 +9774,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 19390
+      "UsersEstimate": 19391
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -9785,7 +9790,7 @@
       "Name": "Have you tried turning it off and on again?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2203
+      "UsersEstimate": 2204
     },
     {
       "ID": "SE_COMPLETE_TERROR_LAB",
@@ -9817,7 +9822,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13661
+      "UsersEstimate": 13662
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -9857,7 +9862,7 @@
       "Name": "Gold",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 22475
+      "UsersEstimate": 22476
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -9865,7 +9870,7 @@
       "Name": "Come and get it! It\u0027s a running buffet!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 16746
+      "UsersEstimate": 16747
     },
     {
       "ID": "SE_GET_X_HEADSHOT_STREAK",
@@ -9897,7 +9902,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13661
+      "UsersEstimate": 13662
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -9905,7 +9910,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20712
+      "UsersEstimate": 20713
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -9913,7 +9918,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 25119
+      "UsersEstimate": 25120
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -9921,7 +9926,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20712
+      "UsersEstimate": 20713
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -9945,7 +9950,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19831
+      "UsersEstimate": 19832
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -9993,7 +9998,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14983
+      "UsersEstimate": 14984
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -10065,7 +10070,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7932
+      "UsersEstimate": 7933
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -10080,15 +10085,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44069,
+      "Progressed": 44070,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-12-03T08:58:51.1292679+00:00",
-  "LastChanged_Achievements": "2023-12-04T21:07:15.4271683+00:00",
+  "LastChanged_Achievements": "2023-12-04T22:05:33.0226387+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:42.1034931+00:00",
-  "LastUpdate_Ratings": "2023-12-04T21:00:39.3008551+00:00",
-  "LastUpdate_Achievements": "2023-12-04T21:07:15.4272654+00:00"
+  "LastUpdate_Ratings": "2023-12-04T21:59:13.3769527+00:00",
+  "LastUpdate_Achievements": "2023-12-04T22:05:33.0227259+00:00"
 }

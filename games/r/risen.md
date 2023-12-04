@@ -21,11 +21,11 @@ Rating: 4.57 (Ranked 477)
 | Wise man | 28.00% | ~17 |
 | Beast slayer | 28.00% | ~17 |
 | Ogre friend | 26.00% | ~16 |
+| The fourth triplet | 26.00% | ~16 |
 | Family man | 25.00% | ~15 |
 | Death of a legend | 25.00% | ~15 |
 | Archaeologist | 25.00% | ~15 |
 | Hard worker | 25.00% | ~15 |
-| The fourth triplet | 25.00% | ~15 |
 | Master detective | 25.00% | ~15 |
 | Peacekeeper | 23.00% | ~14 |
 | Little hero | 21.00% | ~13 |
@@ -57,7 +57,7 @@ Rating: 4.57 (Ranked 477)
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 61 (Ranked 487)  
-Completed: 0 (0.00%) (Ranked 367)  
+Completed: 0 (0.00%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

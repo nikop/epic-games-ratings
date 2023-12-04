@@ -5,15 +5,15 @@ Rating: 4.44 (Ranked 678)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,868 |
+| Meeting Resistance | 47.00% | ~1,869 |
 | Confirming Suspicions | 41.00% | ~1,630 |
 | The Kraken Wakes | 37.00% | ~1,471 |
 | It's Starting to Crack | 34.00% | ~1,352 |
-| Change the Channel | 31.00% | ~1,232 |
-| Lord of War | 30.00% | ~1,192 |
+| Change the Channel | 31.00% | ~1,233 |
+| Lord of War | 30.00% | ~1,193 |
 | Taking it back | 29.00% | ~1,153 |
-| Resourceful | 27.00% | ~1,073 |
-| Target America | 27.00% | ~1,073 |
+| Resourceful | 27.00% | ~1,074 |
+| Target America | 27.00% | ~1,074 |
 | The Kraken Sleeps | 25.00% | ~994 |
 | Liberté | 23.00% | ~914 |
 | Organ Grinder | 23.00% | ~914 |
@@ -29,10 +29,10 @@ Rating: 4.44 (Ranked 678)
 | Skirmisher | 15.00% | ~596 |
 | Die Nussknacker Sweet! | 15.00% | ~596 |
 | Brains of the Operation | 15.00% | ~596 |
-| No Stone Unturned | 14.00% | ~556 |
-| Opposing Force | 14.00% | ~556 |
-| Enemy at the Gates | 14.00% | ~556 |
-| Fields of Glory | 14.00% | ~556 |
+| No Stone Unturned | 14.00% | ~557 |
+| Opposing Force | 14.00% | ~557 |
+| Enemy at the Gates | 14.00% | ~557 |
+| Fields of Glory | 14.00% | ~557 |
 | Set Europe Ablaze | 13.00% | ~517 |
 | Precision Is Key | 10.00% | ~398 |
 | My Little Friend | 10.00% | ~398 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 678)
 | Stroll in the Woods | 0.60% | ~24 |
 | Going Overboard | 0.60% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,975 (Ranked 198)  
+Progressed: 3,976 (Ranked 198)  
 Completed: 11 (0.28%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 11 (0.28%) (Ranked 244)
 | 2023-12-01 | 3,961 | 11 |
 | 2023-12-02 | 3,967 | 11 |
 | 2023-12-03 | 3,972 | 11 |
-| 2023-12-04 | 3,975 | 11 |
+| 2023-12-04 | 3,976 | 11 |
 ## Awards
 Max (Great for Beginners): 27  (Ranked 515)  
 Sum: 27 (Ranked 527)  

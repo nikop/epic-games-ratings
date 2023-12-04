@@ -3,9 +3,9 @@
   "Name": "Tintin Reporter - Cigars of the Pharaoh",
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
   "Ranking_EOS_Progress": 461,
-  "Ranking_EOS_Completed": 367,
-  "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Completed": 368,
+  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
     "PcReleaseDate": "2023-11-07T09:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 81,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -687,8 +687,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-12-04T21:04:11.9475172+00:00",
+  "LastChanged_Achievements": "2023-12-04T22:03:25.0887562+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:58.0798624+00:00",
-  "LastUpdate_Ratings": "2023-12-04T21:01:22.9572705+00:00",
-  "LastUpdate_Achievements": "2023-12-04T21:04:11.9475442+00:00"
+  "LastUpdate_Ratings": "2023-12-04T21:59:43.076027+00:00",
+  "LastUpdate_Achievements": "2023-12-04T22:03:25.088778+00:00"
 }

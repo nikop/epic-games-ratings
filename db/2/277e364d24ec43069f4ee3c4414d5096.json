@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 115890,
+  "EOS_Progressed": 115892,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 590,
+  "EOS_NewPlayers": 587,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -20139,6 +20139,11 @@
       "Time": "2023-12-04T21:10:01.1176127+00:00",
       "NumProgressed": 115890,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-12-04T22:09:09.5248272+00:00",
+      "NumProgressed": 115892,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 49,
@@ -20158,7 +20163,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 89235
+      "UsersEstimate": 89237
     },
     {
       "ID": "EAwards_10",
@@ -20174,7 +20179,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 30131
+      "UsersEstimate": 30132
     },
     {
       "ID": "EAwards_12",
@@ -20222,7 +20227,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42879
+      "UsersEstimate": 42880
     },
     {
       "ID": "EAwards_18",
@@ -20238,7 +20243,7 @@
       "Name": "One Born Every Minute",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6953
+      "UsersEstimate": 6954
     },
     {
       "ID": "EAwards_2",
@@ -20246,7 +20251,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 55627
+      "UsersEstimate": 55628
     },
     {
       "ID": "EAwards_20",
@@ -20270,7 +20275,7 @@
       "Name": "Combo Machine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6953
+      "UsersEstimate": 6954
     },
     {
       "ID": "EAwards_23",
@@ -20541,7 +20546,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 115890,
+      "Progressed": 115892,
       "Completed": 51
     }
   ],
@@ -20549,8 +20554,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-04T21:10:01.1176122+00:00",
+  "LastChanged_Achievements": "2023-12-04T22:09:09.5248268+00:00",
   "LastUpdate_AppInfo": "2023-12-01T05:57:06.5040385+00:00",
-  "LastUpdate_Ratings": "2023-12-04T21:01:46.8107601+00:00",
-  "LastUpdate_Achievements": "2023-12-04T21:10:01.117713+00:00"
+  "LastUpdate_Ratings": "2023-12-04T21:59:58.5957439+00:00",
+  "LastUpdate_Achievements": "2023-12-04T22:09:09.5249442+00:00"
 }

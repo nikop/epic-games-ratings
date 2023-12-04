@@ -12,7 +12,7 @@
 | The Plains of Strothalm | 71.00% | ~372 |
 | Experienced Thalya | 71.00% | ~372 |
 | Thalya's Concentrated Fury | 69.00% | ~362 |
-| Bad Elves Go Everywhere | 68.00% | ~356 |
+| Bad Elves Go Everywhere | 69.00% | ~362 |
 | Master of Magic | 64.00% | ~335 |
 | Heroes’ Gorge | 64.00% | ~335 |
 | Unicorn steaks – fresh off the hoof! | 61.00% | ~320 |
@@ -50,8 +50,8 @@
 | The Rune Sockets of Finitude (Part 1) | 17.00% | ~89 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~84 |
 | My Little Torture Chamber | 15.00% | ~79 |
+| Lavalumps on Ice! | 15.00% | ~79 |
 | The Rune Sockets of Finitude (Part 2) | 15.00% | ~79 |
-| Lavalumps on Ice! | 14.00% | ~73 |
 | Rubble and Ashes | 14.00% | ~73 |
 | The Last Stand - This Time For Real! | 14.00% | ~73 |
 | To Infinity And Beyond! | 12.00% | ~63 |

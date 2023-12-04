@@ -15,10 +15,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Gathering Storm | 2.00% | ~352 |
 | Untamed Wilds | 1.00% | ~176 |
 | First Real Expedition | 0.30% | ~53 |
+| Overcoming Difficulty | 0.30% | ~53 |
 | The Marshlands | 0.30% | ~53 |
 | Taking Action | 0.30% | ~53 |
 | No Deaths | 0.30% | ~53 |
-| Overcoming Difficulty | 0.20% | ~35 |
 | Ruined Armory | 0.20% | ~35 |
 | Ancient Battleground | 0.20% | ~35 |
 | Fertile Meadows | 0.20% | ~35 |

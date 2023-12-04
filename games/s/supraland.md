@@ -6,37 +6,37 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~727,700 |
-| The Blues | 85.00% | ~624,792 |
-| Fast | 66.00% | ~485,133 |
-| Healthbar | 55.00% | ~404,278 |
-| Force Cube | 53.00% | ~389,576 |
-| Double Jump | 48.00% | ~352,824 |
-| Regeneration | 47.00% | ~345,474 |
-| Triple Jump | 43.00% | ~316,072 |
-| Climb the hill | 42.00% | ~308,721 |
-| Through the fire pipe | 39.00% | ~286,670 |
-| MacGuffin | 38.00% | ~279,319 |
-| Just once | 37.00% | ~271,968 |
-| Armor | 30.00% | ~220,515 |
-| True holy spirit | 28.00% | ~205,814 |
-| That's how electronics work obviously | 27.00% | ~198,464 |
-| Force Cube Catapult | 25.00% | ~183,762 |
+| Out of bed | 99.00% | ~727,703 |
+| The Blues | 85.00% | ~624,796 |
+| Fast | 66.00% | ~485,136 |
+| Healthbar | 55.00% | ~404,280 |
+| Force Cube | 53.00% | ~389,579 |
+| Double Jump | 48.00% | ~352,826 |
+| Regeneration | 47.00% | ~345,475 |
+| Triple Jump | 43.00% | ~316,073 |
+| Climb the hill | 42.00% | ~308,723 |
+| Through the fire pipe | 39.00% | ~286,671 |
+| MacGuffin | 38.00% | ~279,321 |
+| Just once | 37.00% | ~271,970 |
+| Armor | 30.00% | ~220,516 |
+| True holy spirit | 28.00% | ~205,815 |
+| That's how electronics work obviously | 27.00% | ~198,465 |
+| Force Cube Catapult | 25.00% | ~183,764 |
 | Holy Sword | 23.00% | ~169,062 |
 | Telefrag | 23.00% | ~169,062 |
-| Freed from prison | 21.00% | ~154,360 |
-| Stomp | 21.00% | ~154,360 |
+| Freed from prison | 21.00% | ~154,361 |
+| Stomp | 21.00% | ~154,361 |
 | Double Health | 19.00% | ~139,660 |
-| Buckle | 18.00% | ~132,309 |
-| Green Keycard | 18.00% | ~132,309 |
-| Rattle Hag | 16.00% | ~117,608 |
+| Buckle | 18.00% | ~132,310 |
+| Green Keycard | 18.00% | ~132,310 |
+| Rattle Hag | 16.00% | ~117,609 |
 | All Shells | 15.00% | ~110,258 |
-| Beam | 14.00% | ~102,907 |
-| Health Drink | 13.00% | ~95,556 |
-| Helped a star | 13.00% | ~95,556 |
-| 9 | 13.00% | ~95,556 |
-| Purple Cube | 13.00% | ~95,556 |
-| Supraball Noob | 13.00% | ~95,556 |
+| Beam | 14.00% | ~102,908 |
+| Health Drink | 13.00% | ~95,557 |
+| Helped a star | 13.00% | ~95,557 |
+| 9 | 13.00% | ~95,557 |
+| Purple Cube | 13.00% | ~95,557 |
+| Supraball Noob | 13.00% | ~95,557 |
 | Strong | 12.00% | ~88,206 |
 | Blue King's lair | 11.00% | ~80,856 |
 | Payback | 11.00% | ~80,856 |
@@ -51,10 +51,10 @@ Number of Ratings: 25,175  (23.09.2022)
 | Panic Lights | 10.00% | ~73,505 |
 | Translocator | 10.00% | ~73,505 |
 | Yellow Shot Button | 10.00% | ~73,505 |
-| Moon Door | 9.00% | ~66,154 |
-| Momentum | 9.00% | ~66,154 |
-| Through the tiny pipe | 9.00% | ~66,154 |
-| Win! | 9.00% | ~66,154 |
+| Moon Door | 9.00% | ~66,155 |
+| Momentum | 9.00% | ~66,155 |
+| Through the tiny pipe | 9.00% | ~66,155 |
+| Win! | 9.00% | ~66,155 |
 | The real real teleported man | 8.00% | ~58,804 |
 | Well deserved | 6.00% | ~44,103 |
 | Super Sword | 4.00% | ~29,402 |
@@ -63,9 +63,9 @@ Number of Ratings: 25,175  (23.09.2022)
 | Poor ancestors | 2.00% | ~14,701 |
 | Shelf filled | 2.00% | ~14,701 |
 | Invisible Wall | 2.00% | ~14,701 |
-| Groupies | 1.00% | ~7,350 |
-| Jesus Christ Suprastar | 1.00% | ~7,350 |
-| Redstone Pickaxe | 1.00% | ~7,350 |
+| Groupies | 1.00% | ~7,351 |
+| Jesus Christ Suprastar | 1.00% | ~7,351 |
+| Redstone Pickaxe | 1.00% | ~7,351 |
 | DLC: Crashed | 0.60% | ~4,410 |
 | DLC: Green Bird | 0.50% | ~3,675 |
 | DLC: Basement Robbery | 0.50% | ~3,675 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~735 |
 | DLC: Top of the world | 0.10% | ~735 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 735,050 (Ranked 20)  
+Progressed: 735,054 (Ranked 20)  
 Completed: 766 (0.10%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 766 (0.10%) (Ranked 289)
 | 2023-12-01 | 734,637 | 764 |
 | 2023-12-02 | 734,757 | 765 |
 | 2023-12-03 | 734,958 | 766 |
-| 2023-12-04 | 735,050 | 766 |
+| 2023-12-04 | 735,054 | 766 |
 ## Awards
 Max (Challenging Puzzles): 7,741  (Ranked 50)  
 Sum: 10,100 (Ranked 92)  

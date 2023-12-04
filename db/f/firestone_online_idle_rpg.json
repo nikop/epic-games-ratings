@@ -6,9 +6,9 @@
   "Ranking_Popularity": 476,
   "Ranking_PopularitySum": 427,
   "Ranking_EOS_Progress": 212,
-  "Ranking_EOS_Completed": 307,
+  "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -583,9 +583,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3037,
+  "EOS_Progressed": 3038,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 270,
+  "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8863,6 +8863,11 @@
       "Time": "2023-12-04T21:03:42.2230666+00:00",
       "NumProgressed": 3037,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-04T22:03:04.4363446+00:00",
+      "NumProgressed": 3038,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -8898,7 +8903,7 @@
       "Name": "Arena Challenger",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "backgroundstory",
@@ -8906,7 +8911,7 @@
       "Name": "Background Story",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "beastwarmachines",
@@ -9002,7 +9007,7 @@
       "Name": "Ebony Jungle Liberator",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "enchantingskill",
@@ -9082,7 +9087,7 @@
       "Name": "Full Party",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "gearenchanting",
@@ -9250,7 +9255,7 @@
       "Name": "Natural Talent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "pokerface",
@@ -9322,7 +9327,7 @@
       "Name": "Superior",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "templeofeternals",
@@ -9330,7 +9335,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "thealchemist",
@@ -9378,7 +9383,7 @@
       "Name": "The Unstoppable",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "titanpower",
@@ -9434,7 +9439,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2825
     },
     {
       "ID": "warmachinesarmy",
@@ -9466,14 +9471,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2369
+      "UsersEstimate": 2370
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3037,
+      "Progressed": 3038,
       "Completed": 2
     }
   ],
@@ -9481,8 +9486,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-04T21:01:40.580953+00:00",
-  "LastChanged_Achievements": "2023-12-04T21:03:42.2230662+00:00",
+  "LastChanged_Achievements": "2023-12-04T22:03:04.4363443+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:05.1164011+00:00",
-  "LastUpdate_Ratings": "2023-12-04T21:01:40.5809534+00:00",
-  "LastUpdate_Achievements": "2023-12-04T21:03:42.2231775+00:00"
+  "LastUpdate_Ratings": "2023-12-04T21:59:54.5635975+00:00",
+  "LastUpdate_Achievements": "2023-12-04T22:03:04.4364509+00:00"
 }

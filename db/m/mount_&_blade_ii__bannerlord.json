@@ -6,9 +6,9 @@
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 104,
-  "Ranking_EOS_Completed": 367,
+  "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -9444,9 +9444,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 67090,
+  "EOS_Progressed": 67093,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 677,
+  "EOS_NewPlayers": 672,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33559,6 +33559,11 @@
       "Time": "2023-12-04T21:10:27.9864821+00:00",
       "NumProgressed": 67090,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-04T22:09:29.2907146+00:00",
+      "NumProgressed": 67093,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -33578,7 +33583,7 @@
       "Name": "Apple of my eye",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10734
+      "UsersEstimate": 10735
     },
     {
       "ID": "Bannerlord",
@@ -33626,7 +33631,7 @@
       "Name": "Crowdfunded",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3354
+      "UsersEstimate": 3355
     },
     {
       "ID": "Crackshot",
@@ -33642,7 +33647,7 @@
       "Name": "Crush your enemies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3354
+      "UsersEstimate": 3355
     },
     {
       "ID": "Duelist",
@@ -33738,7 +33743,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10734
+      "UsersEstimate": 10735
     },
     {
       "ID": "I spit on your grave",
@@ -33762,7 +33767,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 12076
+      "UsersEstimate": 12077
     },
     {
       "ID": "Kingslayer",
@@ -33778,7 +33783,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4696
+      "UsersEstimate": 4697
     },
     {
       "ID": "Lance-a-lot",
@@ -33794,7 +33799,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 22140
+      "UsersEstimate": 22141
     },
     {
       "ID": "Lawbringer",
@@ -33802,7 +33807,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26836
+      "UsersEstimate": 26837
     },
     {
       "ID": "Lawmaker",
@@ -33850,7 +33855,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3354
+      "UsersEstimate": 3355
     },
     {
       "ID": "Real Estate",
@@ -33922,7 +33927,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12747
+      "UsersEstimate": 12748
     },
     {
       "ID": "This Is Our Land",
@@ -33977,15 +33982,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 67090,
+      "Progressed": 67093,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-12-04T17:00:10.542295+00:00",
-  "LastChanged_Achievements": "2023-12-04T21:10:27.9864817+00:00",
+  "LastChanged_Achievements": "2023-12-04T22:09:29.2907142+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:33.4590063+00:00",
-  "LastUpdate_Ratings": "2023-12-04T21:00:15.0124567+00:00",
-  "LastUpdate_Achievements": "2023-12-04T21:10:27.9866525+00:00"
+  "LastUpdate_Ratings": "2023-12-04T21:58:57.4449234+00:00",
+  "LastUpdate_Achievements": "2023-12-04T22:09:29.2908815+00:00"
 }

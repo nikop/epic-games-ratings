@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 103,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -131,9 +131,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 999,
+  "EOS_Progressed": 1000,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.1,
   "EosHistory": [
@@ -3326,6 +3326,11 @@
       "Time": "2023-12-04T16:05:21.9614197+00:00",
       "NumProgressed": 999,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-12-04T22:04:13.4853359+00:00",
+      "NumProgressed": 1000,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3346,7 +3351,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "_03_FinishAct1",
@@ -3354,7 +3359,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3545,7 +3550,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 999,
+      "Progressed": 1000,
       "Completed": 31
     }
   ],
@@ -3553,8 +3558,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-04T19:02:27.0959811+00:00",
-  "LastChanged_Achievements": "2023-12-04T21:05:22.3734548+00:00",
+  "LastChanged_Achievements": "2023-12-04T22:04:13.4853355+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:16.5122288+00:00",
-  "LastUpdate_Ratings": "2023-12-04T20:00:45.0348395+00:00",
-  "LastUpdate_Achievements": "2023-12-04T21:05:22.3734877+00:00"
+  "LastUpdate_Ratings": "2023-12-04T21:56:58.3376794+00:00",
+  "LastUpdate_Achievements": "2023-12-04T22:04:13.4853705+00:00"
 }

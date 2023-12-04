@@ -21,27 +21,27 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Quick Escape | 0.50% | ~1,203 |
 | Explorer | 0.50% | ~1,203 |
 | An Offering | 0.50% | ~1,203 |
-| Ambitious Intent | 0.40% | ~962 |
-| Delving Deeper | 0.40% | ~962 |
-| R.I.P | 0.40% | ~962 |
-| Dig Your Own Grave | 0.40% | ~962 |
-| Who To Trust? | 0.40% | ~962 |
-| Walk It Off | 0.40% | ~962 |
-| Cold Hearted | 0.40% | ~962 |
-| I Am Overburdened | 0.40% | ~962 |
-| Destroy Your Fears | 0.40% | ~962 |
-| The Bestiary | 0.40% | ~962 |
-| Heartless | 0.40% | ~962 |
-| What's Yours Is Mine | 0.40% | ~962 |
-| Spine Breaker | 0.40% | ~962 |
-| Shootout | 0.40% | ~962 |
-| C-C-Combo | 0.40% | ~962 |
-| Deflection | 0.40% | ~962 |
-| Stone Touch | 0.40% | ~962 |
-| Toxic | 0.40% | ~962 |
-| Sneaky | 0.40% | ~962 |
-| Shadow Walker | 0.40% | ~962 |
-| Flesh Wound | 0.40% | ~962 |
+| Ambitious Intent | 0.40% | ~963 |
+| Delving Deeper | 0.40% | ~963 |
+| R.I.P | 0.40% | ~963 |
+| Dig Your Own Grave | 0.40% | ~963 |
+| Who To Trust? | 0.40% | ~963 |
+| Walk It Off | 0.40% | ~963 |
+| Cold Hearted | 0.40% | ~963 |
+| I Am Overburdened | 0.40% | ~963 |
+| Destroy Your Fears | 0.40% | ~963 |
+| The Bestiary | 0.40% | ~963 |
+| Heartless | 0.40% | ~963 |
+| What's Yours Is Mine | 0.40% | ~963 |
+| Spine Breaker | 0.40% | ~963 |
+| Shootout | 0.40% | ~963 |
+| C-C-Combo | 0.40% | ~963 |
+| Deflection | 0.40% | ~963 |
+| Stone Touch | 0.40% | ~963 |
+| Toxic | 0.40% | ~963 |
+| Sneaky | 0.40% | ~963 |
+| Shadow Walker | 0.40% | ~963 |
+| Flesh Wound | 0.40% | ~963 |
 | Expensive Look | 0.40% | ~8 |
 | What Doesn't Kill You | 0.40% | ~8 |
 | Consecutive Curses | 0.30% | ~722 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,624 (Ranked 64)  
+Progressed: 240,626 (Ranked 64)  
 Completed: 292 (0.12%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -373,7 +373,7 @@ Completed: 292 (0.12%) (Ranked 281)
 | 2023-12-01 | 240,480 | 291 |
 | 2023-12-02 | 240,522 | 291 |
 | 2023-12-03 | 240,591 | 292 |
-| 2023-12-04 | 240,624 | 292 |
+| 2023-12-04 | 240,626 | 292 |
 ## Awards
 Max (Quickly Understood Controls): 1,505  (Ranked 133)  
 Sum: 11,708 (Ranked 84)  

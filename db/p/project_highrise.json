@@ -3,9 +3,9 @@
   "Name": "Project Highrise",
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 338,
-  "Ranking_EOS_Completed": 367,
+  "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 387,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -1023,9 +1023,9 @@
       "ID": "ach_apartments_2",
       "SetID": "b8gh1fi",
       "Name": "Penthouse in the Sky",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "ach_area",
@@ -1679,9 +1679,9 @@
       "ID": "ach_util_water",
       "SetID": "b8gh1fi",
       "Name": "Pipe Up",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 29
     },
     {
       "ID": "ach_veryhappy",
@@ -1712,8 +1712,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-04T21:05:33.4855749+00:00",
+  "LastChanged_Achievements": "2023-12-04T22:04:21.4798689+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:52.4497593+00:00",
-  "LastUpdate_Ratings": "2023-12-04T20:58:21.9625059+00:00",
-  "LastUpdate_Achievements": "2023-12-04T21:05:33.48566+00:00"
+  "LastUpdate_Ratings": "2023-12-04T21:57:43.3129183+00:00",
+  "LastUpdate_Achievements": "2023-12-04T22:04:21.4799425+00:00"
 }

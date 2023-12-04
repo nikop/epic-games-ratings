@@ -20,9 +20,9 @@
 | The More the Merrier | 7.00% | ~14 |
 | Tail-wind | 7.00% | ~14 |
 | Harbinger | 6.00% | ~12 |
+| Courier | 6.00% | ~12 |
 | Strategist | 5.00% | ~10 |
 | Deputized | 5.00% | ~10 |
-| Courier | 5.00% | ~10 |
 | Pilgrimage's End | 5.00% | ~10 |
 | Merchant | 5.00% | ~10 |
 | Quartermaster | 4.00% | ~8 |
@@ -105,7 +105,7 @@
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 205 (Ranked 391)  
-Completed: 0 (0.00%) (Ranked 367)  
+Completed: 0 (0.00%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

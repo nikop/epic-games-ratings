@@ -6,16 +6,16 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~26,836 |
-| Landlord | 33.00% | ~22,140 |
+| Lawbringer | 40.00% | ~26,837 |
+| Landlord | 33.00% | ~22,141 |
 | Bannerlord | 24.00% | ~16,102 |
 | Horde breaker | 24.00% | ~16,102 |
 | Lawmaker | 24.00% | ~16,102 |
 | Trained | 24.00% | ~16,102 |
-| The king is pleased | 19.00% | ~12,747 |
-| King Solomon | 18.00% | ~12,076 |
-| Apple of my eye | 16.00% | ~10,734 |
-| I can do it | 16.00% | ~10,734 |
+| The king is pleased | 19.00% | ~12,748 |
+| King Solomon | 18.00% | ~12,077 |
+| Apple of my eye | 16.00% | ~10,735 |
+| I can do it | 16.00% | ~10,735 |
 | This Is Our Land | 14.00% | ~9,393 |
 | Against all odds | 13.00% | ~8,722 |
 | God of the Arena | 13.00% | ~8,722 |
@@ -26,10 +26,10 @@ Number of Ratings: 5,603  (23.09.2022)
 | What have the Romans ever done for us? | 10.00% | ~6,709 |
 | Butterlord | 9.00% | ~6,038 |
 | Mastery | 8.00% | ~5,367 |
-| Know your enemy | 7.00% | ~4,696 |
-| Crowdfunded | 5.00% | ~3,354 |
-| Crush your enemies | 5.00% | ~3,354 |
-| My way | 5.00% | ~3,354 |
+| Know your enemy | 7.00% | ~4,697 |
+| Crowdfunded | 5.00% | ~3,355 |
+| Crush your enemies | 5.00% | ~3,355 |
+| My way | 5.00% | ~3,355 |
 | Veni vidi vici | 4.00% | ~2,684 |
 | Freedom! | 3.00% | ~2,013 |
 | Long live the Empire! | 3.00% | ~2,013 |
@@ -58,8 +58,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,090 (Ranked 104)  
-Completed: 0 (0.00%) (Ranked 367)  
+Progressed: 67,093 (Ranked 104)  
+Completed: 0 (0.00%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -286,7 +286,7 @@ Completed: 0 (0.00%) (Ranked 367)
 | 2023-12-01 | 66,833 | 0 |
 | 2023-12-02 | 66,936 | 0 |
 | 2023-12-03 | 67,037 | 0 |
-| 2023-12-04 | 67,090 | 0 |
+| 2023-12-04 | 67,093 | 0 |
 ## Awards
 Max (Character Customization): 7,500  (Ranked 53)  
 Sum: 15,609 (Ranked 68)  

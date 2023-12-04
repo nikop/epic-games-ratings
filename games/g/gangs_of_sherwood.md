@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 89.00% | ~50 |
-| Air Fighter | 86.00% | ~48 |
-| Treasure Hunter | 71.00% | ~40 |
-| Oo-De-Lally | 70.00% | ~39 |
-| The Altruist | 70.00% | ~39 |
-| Watch your Step! | 59.00% | ~33 |
-| Tap Dancing | 57.00% | ~32 |
-| MAX LEVEL | 55.00% | ~31 |
-| Right between the eyes | 52.00% | ~29 |
-| Spring Board | 50.00% | ~28 |
-| Starry Night | 45.00% | ~25 |
-| Rebel Unleashed | 41.00% | ~23 |
-| Locksley's Tears | 38.00% | ~21 |
-| Finish Him! | 34.00% | ~19 |
+| Act of Kindness | 88.00% | ~50 |
+| Air Fighter | 84.00% | ~48 |
+| Treasure Hunter | 70.00% | ~40 |
+| Oo-De-Lally | 68.00% | ~39 |
+| The Altruist | 68.00% | ~39 |
+| Watch your Step! | 58.00% | ~33 |
+| Tap Dancing | 56.00% | ~32 |
+| MAX LEVEL | 54.00% | ~31 |
+| Right between the eyes | 51.00% | ~29 |
+| Spring Board | 49.00% | ~28 |
+| Starry Night | 44.00% | ~25 |
+| Rebel Unleashed | 40.00% | ~23 |
+| Locksley's Tears | 37.00% | ~21 |
+| Finish Him! | 33.00% | ~19 |
 | Merry Co-operation | 32.00% | ~18 |
 | Assault on the Ram | 32.00% | ~18 |
-| Savior | 29.00% | ~16 |
-| Ultra Rebel Instinct | 27.00% | ~15 |
+| Savior | 28.00% | ~16 |
+| Ultra Rebel Instinct | 26.00% | ~15 |
 | Take Action! | 23.00% | ~13 |
 | First Aid | 23.00% | ~13 |
 | Merry Go Round | 23.00% | ~13 |
-| Ultra Combo | 20.00% | ~11 |
+| Ultra Combo | 19.00% | ~11 |
 | Ascending Will | 18.00% | ~10 |
 | Hidden Experiment | 16.00% | ~9 |
 | Haute Couture | 16.00% | ~9 |
@@ -58,8 +58,8 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56 (Ranked 494)  
-Completed: 0 (0.00%) (Ranked 367)  
+Progressed: 57 (Ranked 493)  
+Completed: 0 (0.00%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -73,4 +73,4 @@ Completed: 0 (0.00%) (Ranked 367)
 | 2023-12-01 | 44 | 0 |
 | 2023-12-02 | 48 | 0 |
 | 2023-12-03 | 55 | 0 |
-| 2023-12-04 | 56 | 0 |
+| 2023-12-04 | 57 | 0 |

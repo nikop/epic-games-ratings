@@ -6,9 +6,9 @@
   "Ranking_Popularity": 515,
   "Ranking_PopularitySum": 405,
   "Ranking_EOS_Progress": 340,
-  "Ranking_EOS_Completed": 367,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Completed": 368,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 348,
+  "EOS_Progressed": 350,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1513,6 +1513,11 @@
       "Time": "2023-12-04T20:06:54.973034+00:00",
       "NumProgressed": 348,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-04T22:06:05.9458471+00:00",
+      "NumProgressed": 350,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1581,7 +1586,7 @@
       "Name": "This Spot\u0027s Taken",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "BurrowUp",
@@ -1597,7 +1602,7 @@
       "Name": "Versatile Wielder",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ChainLightningKills",
@@ -1637,7 +1642,7 @@
       "Name": "Deepstrike",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DieByTheBow",
@@ -1669,7 +1674,7 @@
       "Name": "Double Kill",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "FlameAttackKillCount",
@@ -1701,7 +1706,7 @@
       "Name": "Infernal Influence",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "KillingSpree",
@@ -1789,7 +1794,7 @@
       "Name": "Don\u0027t Touch My Stuff",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -1805,7 +1810,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -1853,7 +1858,7 @@
       "Name": "Adept",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "WielderLevel2",
@@ -1861,15 +1866,15 @@
       "Name": "Veteran",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "WielderLevel3",
       "SetID": "71c0n9i",
       "Name": "Master",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 14
     },
     {
       "ID": "WielderLevel4",
@@ -1885,7 +1890,7 @@
       "Name": "Humiliation",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -1907,9 +1912,9 @@
       "ID": "WinSiegeAsAttacker",
       "SetID": "71c0n9i",
       "Name": "Veni, Vidi, Vici",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 18
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -1956,15 +1961,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 348,
+      "Progressed": 350,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-04T21:08:02.3973682+00:00",
+  "LastChanged_Achievements": "2023-12-04T22:06:05.9458467+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:08.015125+00:00",
-  "LastUpdate_Ratings": "2023-12-04T20:59:12.9590525+00:00",
-  "LastUpdate_Achievements": "2023-12-04T21:08:02.3974263+00:00"
+  "LastUpdate_Ratings": "2023-12-04T21:58:16.2134879+00:00",
+  "LastUpdate_Achievements": "2023-12-04T22:06:05.9458829+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "PHAGEBORN: Online Card Game",
   "ProductSlug": "phageborn-c7b533",
   "Ranking_EOS_Progress": 778,
-  "Ranking_EOS_Completed": 367,
-  "Ranking_EOS_NewPlayers": 483,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Completed": 368,
+  "Ranking_EOS_NewPlayers": 481,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-19T10:00:00+00:00",
     "PcReleaseDate": "2022-08-11T09:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-20T07:59:05.2211705+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:10.5594836+00:00",
-  "LastUpdate_Ratings": "2023-12-04T20:58:50.4279735+00:00",
-  "LastUpdate_Achievements": "2023-12-04T21:04:55.9900334+00:00"
+  "LastUpdate_Ratings": "2023-12-04T21:58:01.6634079+00:00",
+  "LastUpdate_Achievements": "2023-12-04T22:03:55.5926813+00:00"
 }

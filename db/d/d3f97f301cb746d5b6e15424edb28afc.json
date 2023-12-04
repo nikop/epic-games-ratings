@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -67,7 +67,7 @@
   "Tags": [],
   "EOS_Progressed": 1151,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2895,9 +2895,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1013
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -3047,17 +3047,17 @@
       "ID": "GSS_ACH_20_DECORATION_01",
       "SetID": "5fn8ia4",
       "Name": "Decorating!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1024
     },
     {
       "ID": "GSS_ACH_21_LOCKPICKING_01",
       "SetID": "5fn8ia4",
       "Name": "Thief!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1024
     },
     {
       "ID": "GSS_ACH_22_LOCKPICKING_02",
@@ -3143,9 +3143,9 @@
       "ID": "GSS_ACH_33_FLY",
       "SetID": "5fn8ia4",
       "Name": "Fly Like an Eagle",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 81
     },
     {
       "ID": "GSS_ACH_34_FLYING_CARS",
@@ -3239,9 +3239,9 @@
       "ID": "GSS_ACH_45_ORDER_PRODUCTS",
       "SetID": "5fn8ia4",
       "Name": "Products Please!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 944
+      "UsersEstimate": 955
     },
     {
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
@@ -3552,8 +3552,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-04T17:00:39.9868842+00:00",
-  "LastChanged_Achievements": "2023-12-04T21:08:23.5438343+00:00",
+  "LastChanged_Achievements": "2023-12-04T22:06:20.8571929+00:00",
   "LastUpdate_AppInfo": "2023-12-04T17:57:13.8571473+00:00",
-  "LastUpdate_Ratings": "2023-12-04T21:00:43.4906596+00:00",
-  "LastUpdate_Achievements": "2023-12-04T21:08:23.5439303+00:00"
+  "LastUpdate_Ratings": "2023-12-04T21:59:16.1249356+00:00",
+  "LastUpdate_Achievements": "2023-12-04T22:06:20.8572939+00:00"
 }
