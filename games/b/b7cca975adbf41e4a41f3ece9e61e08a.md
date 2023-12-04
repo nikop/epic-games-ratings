@@ -17,9 +17,9 @@ Rating: 4.74 (Ranked 157)
 | You're Really Something Else | 37.00% | ~3,952 |
 | Go Clean up In Your Own Way | 36.00% | ~3,845 |
 | Happy Family | 35.00% | ~3,738 |
+| FIRST LOVE | 35.00% | ~3,738 |
 | Worthless Speech | 35.00% | ~3,738 |
 | ONE PUNCH | 34.00% | ~3,631 |
-| FIRST LOVE | 34.00% | ~3,631 |
 | Drama CP: Reel to Real | 34.00% | ~3,631 |
 | Absolutely Elegant | 33.00% | ~3,524 |
 | Still Single | 32.00% | ~3,418 |

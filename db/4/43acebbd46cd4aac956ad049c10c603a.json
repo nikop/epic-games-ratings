@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 495,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -193,9 +193,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 872,
+  "EOS_Progressed": 873,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2063,6 +2063,11 @@
       "Time": "2023-12-04T21:06:24.3388299+00:00",
       "NumProgressed": 872,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-04T23:05:07.9072921+00:00",
+      "NumProgressed": 873,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2243,7 +2248,7 @@
       "Name": "Into the Machine",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "JustOneLap",
@@ -2273,9 +2278,9 @@
       "ID": "MistressOfRiddles",
       "SetID": "1n308hc",
       "Name": "Mistress of Riddles",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 70
     },
     {
       "ID": "Mnemosyne",
@@ -2361,9 +2366,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 105
     },
     {
       "ID": "RenaissanceRobot",
@@ -2419,7 +2424,7 @@
       "Name": "Team Spirit",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "TextAdventurer",
@@ -2491,7 +2496,7 @@
       "Name": "Touch Grass",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "TrevorsBiographer",
@@ -2515,7 +2520,7 @@
       "Name": "Wanderers",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "WesternDelta",
@@ -2546,7 +2551,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 872,
+      "Progressed": 873,
       "Completed": 1
     }
   ],
@@ -2554,8 +2559,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-04T20:58:58.9737822+00:00",
-  "LastChanged_Achievements": "2023-12-04T22:04:57.1514601+00:00",
+  "LastChanged_Achievements": "2023-12-04T23:05:07.9072917+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-04T21:58:07.0970586+00:00",
-  "LastUpdate_Achievements": "2023-12-04T22:04:57.1515288+00:00"
+  "LastUpdate_Ratings": "2023-12-04T22:58:13.6145705+00:00",
+  "LastUpdate_Achievements": "2023-12-04T23:05:07.9073412+00:00"
 }

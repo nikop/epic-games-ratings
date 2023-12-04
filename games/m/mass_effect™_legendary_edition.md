@@ -12,8 +12,8 @@
 | Quarian Ally | 64.00% | ~963 |
 | Medal of Heroism | 60.00% | ~903 |
 | Honorarium of Corporate Service | 60.00% | ~903 |
+| Council Legion of Merit | 55.00% | ~828 |
 | Medal of Exploration II | 54.00% | ~813 |
-| Council Legion of Merit | 54.00% | ~813 |
 | Turian Ally | 53.00% | ~798 |
 | Medal of Honor | 52.00% | ~783 |
 | Meritorious Service Medal | 52.00% | ~783 |
@@ -61,6 +61,7 @@
 | Heart of Darkness | 31.00% | ~467 |
 | Bringer of War | 31.00% | ~467 |
 | Focused | 30.00% | ~452 |
+| Doppelganger | 30.00% | ~452 |
 | Fade Away | 30.00% | ~452 |
 | Treason | 30.00% | ~452 |
 | Agent | 30.00% | ~452 |
@@ -71,7 +72,6 @@
 | Against All Odds | 29.00% | ~436 |
 | Friend or Foe | 29.00% | ~436 |
 | Cat's in the Cradle | 29.00% | ~436 |
-| Doppelganger | 29.00% | ~436 |
 | Mobilizer | 29.00% | ~436 |
 | Untouchable | 28.00% | ~421 |
 | Giant Killer | 28.00% | ~421 |
@@ -99,8 +99,8 @@
 | Pyromaniac | 20.00% | ~301 |
 | No One Left Behind | 20.00% | ~301 |
 | Executioner | 19.00% | ~286 |
+| Patriot | 19.00% | ~286 |
 | Master and Commander | 19.00% | ~286 |
-| Patriot | 18.00% | ~271 |
 | Legend | 18.00% | ~271 |
 | Long Service Medal | 16.00% | ~241 |
 | Sabotage Specialist | 16.00% | ~241 |

@@ -850,9 +850,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 48904,
+  "EOS_Progressed": 48906,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 908,
+  "EOS_NewPlayers": 906,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26700,6 +26700,11 @@
       "Time": "2023-12-04T22:03:26.3513304+00:00",
       "NumProgressed": 48904,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-04T23:03:39.4008911+00:00",
+      "NumProgressed": 48906,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -26735,7 +26740,7 @@
       "Name": "Scout",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5379
+      "UsersEstimate": 5380
     },
     {
       "ID": "distance500000",
@@ -26751,7 +26756,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 13204
+      "UsersEstimate": 13205
     },
     {
       "ID": "goals180",
@@ -26767,7 +26772,7 @@
       "Name": "Amateur",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4890
+      "UsersEstimate": 4891
     },
     {
       "ID": "goals75",
@@ -26935,7 +26940,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5379
+      "UsersEstimate": 5380
     },
     {
       "ID": "ultimate",
@@ -27022,15 +27027,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 48904,
+      "Progressed": 48906,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-11-29T16:56:50.2159506+00:00",
-  "LastChanged_Achievements": "2023-12-04T22:03:26.3513301+00:00",
+  "LastChanged_Achievements": "2023-12-04T23:03:39.4008907+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:54.929935+00:00",
-  "LastUpdate_Ratings": "2023-12-04T21:59:37.5139144+00:00",
-  "LastUpdate_Achievements": "2023-12-04T22:03:26.3514841+00:00"
+  "LastUpdate_Ratings": "2023-12-04T22:59:41.7964994+00:00",
+  "LastUpdate_Achievements": "2023-12-04T23:03:39.4010515+00:00"
 }

@@ -9,8 +9,8 @@
 | For the Horde! | 82.00% | ~430 |
 | Hammer Time, Round Two | 80.00% | ~419 |
 | The Hellwoods | 75.00% | ~393 |
+| Experienced Thalya | 72.00% | ~377 |
 | The Plains of Strothalm | 71.00% | ~372 |
-| Experienced Thalya | 71.00% | ~372 |
 | Thalya's Concentrated Fury | 69.00% | ~362 |
 | Bad Elves Go Everywhere | 69.00% | ~362 |
 | Master of Magic | 64.00% | ~335 |
@@ -31,13 +31,13 @@
 | Dungeonlord Gorgu | 42.00% | ~220 |
 | Mana Cannon | 40.00% | ~210 |
 | Tanos' Crusade Against Thalya | 39.00% | ~204 |
+| Unstoppable Horde | 32.00% | ~168 |
 | All’s Well That Ends Evil | 32.00% | ~168 |
-| Unstoppable Horde | 31.00% | ~162 |
 | Master of the Undead | 30.00% | ~157 |
 | The Duel | 29.00% | ~152 |
+| If Looks Could Kill | 27.00% | ~141 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 26.00% | ~136 |
 | Forbidden Knowledge | 26.00% | ~136 |
-| If Looks Could Kill | 26.00% | ~136 |
 | Hungry, Hungry Gorgu! | 25.00% | ~131 |
 | Ghost Pirates? Ghost Heroes! | 25.00% | ~131 |
 | The Finitude Drill | 24.00% | ~126 |
@@ -51,8 +51,8 @@
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~84 |
 | My Little Torture Chamber | 15.00% | ~79 |
 | Lavalumps on Ice! | 15.00% | ~79 |
+| Rubble and Ashes | 15.00% | ~79 |
 | The Rune Sockets of Finitude (Part 2) | 15.00% | ~79 |
-| Rubble and Ashes | 14.00% | ~73 |
 | The Last Stand - This Time For Real! | 14.00% | ~73 |
 | To Infinity And Beyond! | 12.00% | ~63 |
 | Mirror, Mirror | 11.00% | ~58 |

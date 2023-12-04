@@ -6,21 +6,21 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~448,173 |
-| The Three | 64.00% | ~345,580 |
-| The Banquet | 40.00% | ~215,987 |
-| Devara's Light | 31.00% | ~167,390 |
-| The Iron Ones | 19.00% | ~102,594 |
+| Find Sanctuary | 83.00% | ~448,178 |
+| The Three | 64.00% | ~345,583 |
+| The Banquet | 40.00% | ~215,989 |
+| Devara's Light | 31.00% | ~167,392 |
+| The Iron Ones | 19.00% | ~102,595 |
 | The Village | 17.00% | ~91,795 |
-| The Forest | 15.00% | ~80,995 |
+| The Forest | 15.00% | ~80,996 |
 | The Imposter | 14.00% | ~75,596 |
 | The Keep | 14.00% | ~75,596 |
 | Branded | 13.00% | ~70,196 |
-| The Castle | 11.00% | ~59,396 |
-| The Dome | 9.00% | ~48,597 |
-| The Red Hall | 9.00% | ~48,597 |
-| The Sacrifice | 8.00% | ~43,197 |
-| The Ziggurat | 8.00% | ~43,197 |
+| The Castle | 11.00% | ~59,397 |
+| The Dome | 9.00% | ~48,598 |
+| The Red Hall | 9.00% | ~48,598 |
+| The Sacrifice | 8.00% | ~43,198 |
+| The Ziggurat | 8.00% | ~43,198 |
 | The Cave | 7.00% | ~37,798 |
 | The Mire | 7.00% | ~37,798 |
 | The Stone Roots | 7.00% | ~37,798 |
@@ -28,8 +28,8 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Construct | 6.00% | ~32,398 |
 | The Lake | 6.00% | ~32,398 |
 | The Ruins | 6.00% | ~32,398 |
-| The Alkymancery | 5.00% | ~26,998 |
-| The Pitchwoods | 5.00% | ~26,998 |
+| The Alkymancery | 5.00% | ~26,999 |
+| The Pitchwoods | 5.00% | ~26,999 |
 | Honed | 4.00% | ~21,599 |
 | The House of Splendor | 4.00% | ~21,599 |
 | The Crypt | 4.00% | ~21,599 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,799 |
 | Fading Fast | 1.00% | ~5,400 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 539,968 (Ranked 34)  
+Progressed: 539,973 (Ranked 34)  
 Completed: 1,636 (0.30%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 1,636 (0.30%) (Ranked 239)
 | 2023-12-01 | 539,683 | 1,631 |
 | 2023-12-02 | 539,780 | 1,633 |
 | 2023-12-03 | 539,892 | 1,635 |
-| 2023-12-04 | 539,968 | 1,636 |
+| 2023-12-04 | 539,973 | 1,636 |
 ## Awards
 Max (Challenging Combat): 294  (Ranked 256)  
 Sum: 2,006 (Ranked 214)  

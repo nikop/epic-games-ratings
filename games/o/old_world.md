@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 315)  
+Rating: 4.65 (Ranked 316)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,22 +13,22 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 5.00% | ~782 |
 | Architect | 5.00% | ~782 |
 | Intrepid | 5.00% | ~782 |
-| Glorious | 4.00% | ~625 |
-| Good | 4.00% | ~625 |
-| Just | 4.00% | ~625 |
-| Keystone | 4.00% | ~625 |
-| Learned | 4.00% | ~625 |
-| Mason | 4.00% | ~625 |
-| Noble | 4.00% | ~625 |
-| Pioneer | 4.00% | ~625 |
-| Strong | 4.00% | ~625 |
-| Warrior | 4.00% | ~625 |
-| Hanging Gardens | 4.00% | ~625 |
-| Oracle | 4.00% | ~625 |
-| Judaism | 4.00% | ~625 |
-| Greek Paganism | 4.00% | ~625 |
-| Naming Landmarks | 4.00% | ~625 |
-| Trade Caravan | 4.00% | ~625 |
+| Glorious | 4.00% | ~626 |
+| Good | 4.00% | ~626 |
+| Just | 4.00% | ~626 |
+| Keystone | 4.00% | ~626 |
+| Learned | 4.00% | ~626 |
+| Mason | 4.00% | ~626 |
+| Noble | 4.00% | ~626 |
+| Pioneer | 4.00% | ~626 |
+| Strong | 4.00% | ~626 |
+| Warrior | 4.00% | ~626 |
+| Hanging Gardens | 4.00% | ~626 |
+| Oracle | 4.00% | ~626 |
+| Judaism | 4.00% | ~626 |
+| Greek Paganism | 4.00% | ~626 |
+| Naming Landmarks | 4.00% | ~626 |
+| Trade Caravan | 4.00% | ~626 |
 | Ambitious | 3.00% | ~469 |
 | Drillmaster | 3.00% | ~469 |
 | Brilliant | 3.00% | ~469 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,637 (Ranked 152)  
+Progressed: 15,638 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -577,7 +577,7 @@ Completed: 5 (0.03%) (Ranked 330)
 | 2023-12-01 | 15,583 | 5 |
 | 2023-12-02 | 15,604 | 5 |
 | 2023-12-03 | 15,619 | 5 |
-| 2023-12-04 | 15,637 | 5 |
+| 2023-12-04 | 15,638 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,888 (Ranked 220)  

@@ -2,12 +2,12 @@
   "ID": "ca8077d80493497188e0ca5bca3ebe60",
   "Name": "Sundered: Eldritch Edition",
   "ProductSlug": "sundered-eldritch-edition",
-  "Ranking_Rating": 435,
+  "Ranking_Rating": 420,
   "Ranking_Popularity": 391,
   "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 778,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 481,
+  "Ranking_EOS_NewPlayers": 480,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2017-07-28T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.6,
   "NumberOfRatings": 181,
   "RatingHistory": [
     {
@@ -383,6 +383,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 82,
       "NumberOfAwardsMax": 82
+    },
+    {
+      "Time": "2023-12-04T22:57:41.8758443+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 82,
+      "NumberOfAwardsMax": 82
     }
   ],
   "ReviewsDisabled": false,
@@ -408,8 +414,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:53.2112197+00:00",
-  "LastChanged": "2023-12-03T22:57:18.6446666+00:00",
+  "LastChanged": "2023-12-04T22:57:41.8758441+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:40.2237772+00:00",
-  "LastUpdate_Ratings": "2023-12-04T21:57:34.869105+00:00",
-  "LastUpdate_Achievements": "2023-12-04T22:05:08.3935385+00:00"
+  "LastUpdate_Ratings": "2023-12-04T22:57:41.8758446+00:00",
+  "LastUpdate_Achievements": "2023-12-04T23:05:18.8814123+00:00"
 }

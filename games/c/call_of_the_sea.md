@@ -5,25 +5,25 @@ Rating: 4.40 (Ranked 740)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~106,281 |
-| 74 miles East of Otaheité | 56.00% | ~74,397 |
-| Interesting... | 42.00% | ~55,797 |
-| The Everhart Expedition | 40.00% | ~53,140 |
-| Halfway there | 30.00% | ~39,855 |
-| The Vanishing of the Lady Shannon | 30.00% | ~39,855 |
-| Seaside Serenade | 30.00% | ~39,855 |
-| A brigantine, a brig and a barque | 28.00% | ~37,198 |
-| 506 East Hampden Avenue | 28.00% | ~37,198 |
-| Weekend at Walakea's | 27.00% | ~35,870 |
-| Quite a Show | 27.00% | ~35,870 |
-| Dark Water Ride | 25.00% | ~33,213 |
-| Sunken | 25.00% | ~33,213 |
-| Deep Cut | 24.00% | ~31,884 |
-| FHALGOF'N' | 23.00% | ~30,556 |
-| Marsh Cannery | 21.00% | ~27,899 |
-| Greetings from Y'ha-nthlei! | 18.00% | ~23,913 |
-| The only thing I have now | 17.00% | ~22,585 |
-| Naacalvision | 16.00% | ~21,256 |
+| A Family Heirloom | 80.00% | ~106,285 |
+| 74 miles East of Otaheité | 56.00% | ~74,399 |
+| Interesting... | 42.00% | ~55,800 |
+| The Everhart Expedition | 40.00% | ~53,142 |
+| Halfway there | 30.00% | ~39,857 |
+| The Vanishing of the Lady Shannon | 30.00% | ~39,857 |
+| Seaside Serenade | 30.00% | ~39,857 |
+| A brigantine, a brig and a barque | 28.00% | ~37,200 |
+| 506 East Hampden Avenue | 28.00% | ~37,200 |
+| Weekend at Walakea's | 27.00% | ~35,871 |
+| Quite a Show | 27.00% | ~35,871 |
+| Dark Water Ride | 25.00% | ~33,214 |
+| Sunken | 25.00% | ~33,214 |
+| Deep Cut | 24.00% | ~31,885 |
+| FHALGOF'N' | 23.00% | ~30,557 |
+| Marsh Cannery | 21.00% | ~27,900 |
+| Greetings from Y'ha-nthlei! | 18.00% | ~23,914 |
+| The only thing I have now | 17.00% | ~22,586 |
+| Naacalvision | 16.00% | ~21,257 |
 | Not Another Boring Slideshow! | 15.00% | ~19,928 |
 | I'll make a note of that... | 9.00% | ~11,957 |
 | The Norahnomicon | 9.00% | ~11,957 |
@@ -40,8 +40,8 @@ Rating: 4.40 (Ranked 740)
 | Gently down the stream... | 1.00% | ~1,329 |
 | Meta-reference | 1.00% | ~1,329 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,851 (Ranked 82)  
-Completed: 1,172 (0.88%) (Ranked 176)  
+Progressed: 132,856 (Ranked 82)  
+Completed: 1,173 (0.88%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -268,7 +268,7 @@ Completed: 1,172 (0.88%) (Ranked 176)
 | 2023-12-01 | 132,329 | 1,161 |
 | 2023-12-02 | 132,501 | 1,164 |
 | 2023-12-03 | 132,723 | 1,170 |
-| 2023-12-04 | 132,851 | 1,172 |
+| 2023-12-04 | 132,856 | 1,173 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

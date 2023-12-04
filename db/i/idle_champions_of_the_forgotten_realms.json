@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 988,
+  "Ranking_Rating": 989,
   "Ranking_Popularity": 70,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 65,
@@ -8471,10 +8471,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32727,
       "NumberOfAwardsMax": 5593
+    },
+    {
+      "Time": "2023-12-04T22:59:53.8809645+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32728,
+      "NumberOfAwardsMax": 5593
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32727,
+  "NumberOfAwards": 32728,
   "NumberOfAwardsMax": 5593,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8518,12 +8524,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3552
+      "Count": 3553
     }
   ],
-  "EOS_Progressed": 238429,
+  "EOS_Progressed": 238433,
   "EOS_Completed": 2498,
-  "EOS_NewPlayers": 1167,
+  "EOS_NewPlayers": 1168,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -34211,6 +34217,11 @@
       "Time": "2023-12-04T22:09:35.0186888+00:00",
       "NumProgressed": 238429,
       "NumCompleted": 2498
+    },
+    {
+      "Time": "2023-12-04T23:09:56.0914165+00:00",
+      "NumProgressed": 238433,
+      "NumCompleted": 2498
     }
   ],
   "TotalAchievements": 532,
@@ -38477,21 +38488,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 204703,
+      "Progressed": 204707,
       "Completed": 3958
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 238429,
+      "Progressed": 238433,
       "Completed": 2498
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-04T21:01:33.2840173+00:00",
-  "LastChanged_Achievements": "2023-12-04T22:09:35.0186885+00:00",
+  "LastChanged": "2023-12-04T22:59:53.8809644+00:00",
+  "LastChanged_Achievements": "2023-12-04T23:09:56.091416+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:02.8479395+00:00",
-  "LastUpdate_Ratings": "2023-12-04T21:59:49.7883466+00:00",
-  "LastUpdate_Achievements": "2023-12-04T22:09:35.0208863+00:00"
+  "LastUpdate_Ratings": "2023-12-04T22:59:53.8809649+00:00",
+  "LastUpdate_Achievements": "2023-12-04T23:09:56.0936284+00:00"
 }

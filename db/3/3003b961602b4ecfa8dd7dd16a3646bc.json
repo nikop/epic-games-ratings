@@ -334,17 +334,17 @@
       "ID": "ACH_03_TRAININGRACE2",
       "SetID": "9dl0ei6",
       "Name": "Training Race 2",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_04_TRAININGRACE3",
       "SetID": "9dl0ei6",
       "Name": "Training Race 3",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 35,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_05_GRANDLAP1",
@@ -541,8 +541,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-12-04T22:09:26.5886655+00:00",
+  "LastChanged_Achievements": "2023-12-04T23:09:48.1692502+00:00",
   "LastUpdate_AppInfo": "2023-12-04T01:45:22.3495057+00:00",
-  "LastUpdate_Ratings": "2023-12-04T21:58:06.0168901+00:00",
-  "LastUpdate_Achievements": "2023-12-04T22:09:26.5886825+00:00"
+  "LastUpdate_Ratings": "2023-12-04T22:58:12.4758502+00:00",
+  "LastUpdate_Achievements": "2023-12-04T23:09:48.1692756+00:00"
 }

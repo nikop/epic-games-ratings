@@ -2,12 +2,12 @@
   "ID": "8432511ef63b489b843d21ff486a0355",
   "Name": "Torchlight II",
   "ProductSlug": "torchlight-2",
-  "Ranking_Rating": 435,
+  "Ranking_Rating": 436,
   "Ranking_Popularity": 148,
   "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 778,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 481,
+  "Ranking_EOS_NewPlayers": 480,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-07-16T15:00:00+00:00",
@@ -2350,10 +2350,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 2097,
       "NumberOfAwardsMax": 1057
+    },
+    {
+      "Time": "2023-12-04T22:59:45.9905157+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 2098,
+      "NumberOfAwardsMax": 1057
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2097,
+  "NumberOfAwards": 2098,
   "NumberOfAwardsMax": 1057,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2367,7 +2373,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 525
+      "Count": 526
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2435,8 +2441,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:22.1423084+00:00",
-  "LastChanged": "2023-12-03T20:59:10.5455991+00:00",
+  "LastChanged": "2023-12-04T22:59:45.9905155+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:57.292397+00:00",
-  "LastUpdate_Ratings": "2023-12-04T21:59:41.9911439+00:00",
-  "LastUpdate_Achievements": "2023-12-04T22:05:00.8343198+00:00"
+  "LastUpdate_Ratings": "2023-12-04T22:59:45.9905162+00:00",
+  "LastUpdate_Achievements": "2023-12-04T23:05:11.3718845+00:00"
 }

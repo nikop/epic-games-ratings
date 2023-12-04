@@ -2,12 +2,12 @@
   "ID": "b3d490d845c040ee82fd02f400ab0efc",
   "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
   "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
-  "Ranking_Rating": 315,
+  "Ranking_Rating": 316,
   "Ranking_Popularity": 486,
   "Ranking_PopularitySum": 510,
   "Ranking_EOS_Progress": 778,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 481,
+  "Ranking_EOS_NewPlayers": 480,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
@@ -325,8 +325,8 @@
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-11-05T13:58:08.4388746+00:00",
-  "LastChanged_Achievements": "2023-12-04T22:03:08.6417023+00:00",
+  "LastChanged_Achievements": "2023-12-04T23:03:21.894135+00:00",
   "LastUpdate_AppInfo": "2023-12-02T11:57:12.0045849+00:00",
-  "LastUpdate_Ratings": "2023-12-04T21:58:14.696703+00:00",
-  "LastUpdate_Achievements": "2023-12-04T22:03:08.6417093+00:00"
+  "LastUpdate_Ratings": "2023-12-04T22:58:21.3245149+00:00",
+  "LastUpdate_Achievements": "2023-12-04T23:03:21.8941377+00:00"
 }

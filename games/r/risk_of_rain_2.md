@@ -1,12 +1,12 @@
 # Risk of Rain 2
 [Store](https://store.epicgames.com/en-US/p/risk-of-rain-2)  
 [View Rawdata](../../db/r/risk_of_rain_2.json)  
-Rating: 4.83 (Ranked 60)  
+Rating: 4.83 (Ranked 61)  
 Number of Ratings: 1,310  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 268  (Ranked 265)  
-Sum: 2,562 (Ranked 192)  
-Diff (max vs sum): 73  
+Sum: 2,562 (Ranked 193)  
+Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 268 |

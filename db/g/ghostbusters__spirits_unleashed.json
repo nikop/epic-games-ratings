@@ -3633,9 +3633,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31920,
+  "EOS_Progressed": 31923,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 248,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -21358,6 +21358,11 @@
       "Time": "2023-12-04T21:08:08.7647963+00:00",
       "NumProgressed": 31920,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-04T23:06:20.0982056+00:00",
+      "NumProgressed": 31923,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -21369,7 +21374,7 @@
       "Name": "Advancement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2234
+      "UsersEstimate": 2235
     },
     {
       "ID": "Animated",
@@ -21481,7 +21486,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 2234
+      "UsersEstimate": 2235
     },
     {
       "ID": "Escape_Artist",
@@ -21535,9 +21540,9 @@
       "ID": "Legions",
       "SetID": "819popo",
       "Name": "Legions",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 958
+      "UsersEstimate": 638
     },
     {
       "ID": "Liability",
@@ -21583,9 +21588,9 @@
       "ID": "Pesky_Jerks",
       "SetID": "819popo",
       "Name": "Pesky Jerks",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 958
+      "UsersEstimate": 638
     },
     {
       "ID": "Reckless",
@@ -21776,7 +21781,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31920,
+      "Progressed": 31923,
       "Completed": 69
     }
   ],
@@ -21784,8 +21789,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-04T02:21:22.3527028+00:00",
-  "LastChanged_Achievements": "2023-12-04T22:06:10.3009226+00:00",
+  "LastChanged_Achievements": "2023-12-04T23:06:20.0982051+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:17.1930733+00:00",
-  "LastUpdate_Ratings": "2023-12-04T21:57:50.8934871+00:00",
-  "LastUpdate_Achievements": "2023-12-04T22:06:10.3010327+00:00"
+  "LastUpdate_Ratings": "2023-12-04T22:57:57.5964426+00:00",
+  "LastUpdate_Achievements": "2023-12-04T23:06:20.0983235+00:00"
 }

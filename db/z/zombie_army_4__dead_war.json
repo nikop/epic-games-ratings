@@ -4,7 +4,7 @@
   "ProductSlug": "zombie-army-4-dead-war",
   "Ranking_Rating": 231,
   "Ranking_Popularity": 164,
-  "Ranking_PopularitySum": 191,
+  "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 187,
@@ -2472,9 +2472,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44070,
+  "EOS_Progressed": 44071,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9547,6 +9547,11 @@
       "Time": "2023-12-04T22:05:33.022639+00:00",
       "NumProgressed": 44070,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-12-04T23:05:43.4011142+00:00",
+      "NumProgressed": 44071,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -9558,7 +9563,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27323
+      "UsersEstimate": 27324
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -9662,7 +9667,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 17187
+      "UsersEstimate": 17188
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -9678,7 +9683,7 @@
       "Name": "You\u0027re all going to die down here",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 14102
+      "UsersEstimate": 14103
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_CAGED_FEAR",
@@ -9726,7 +9731,7 @@
       "Name": "Into the deep",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5288
+      "UsersEstimate": 5289
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_UNDEAD_WOOD",
@@ -9750,7 +9755,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27764
+      "UsersEstimate": 27765
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -9782,7 +9787,7 @@
       "Name": "He did Nazi that coming",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 14102
+      "UsersEstimate": 14103
     },
     {
       "ID": "SE_COMPLETE_TERMINAL_ERROR",
@@ -9806,7 +9811,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21594
+      "UsersEstimate": 21595
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -9814,7 +9819,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15865
+      "UsersEstimate": 15866
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -9854,7 +9859,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18509
+      "UsersEstimate": 18510
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -9886,7 +9891,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30408
+      "UsersEstimate": 30409
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -9934,7 +9939,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15865
+      "UsersEstimate": 15866
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -9958,7 +9963,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29086
+      "UsersEstimate": 29087
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -10014,7 +10019,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29086
+      "UsersEstimate": 29087
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -10062,7 +10067,7 @@
       "Name": "The bigger they are...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6610
+      "UsersEstimate": 6611
     },
     {
       "ID": "SE_TAKEDOWN_A_BLIND_SCREAMER",
@@ -10078,22 +10083,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15865
+      "UsersEstimate": 15866
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44070,
+      "Progressed": 44071,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-12-03T08:58:51.1292679+00:00",
-  "LastChanged_Achievements": "2023-12-04T22:05:33.0226387+00:00",
+  "LastChanged_Achievements": "2023-12-04T23:05:43.4011139+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:42.1034931+00:00",
-  "LastUpdate_Ratings": "2023-12-04T21:59:13.3769527+00:00",
-  "LastUpdate_Achievements": "2023-12-04T22:05:33.0227259+00:00"
+  "LastUpdate_Ratings": "2023-12-04T22:59:18.9184051+00:00",
+  "LastUpdate_Achievements": "2023-12-04T23:05:43.4012309+00:00"
 }

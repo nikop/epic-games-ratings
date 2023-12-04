@@ -17,9 +17,9 @@ Rating: 4.57 (Ranked 477)
 | Well-to-do | 44.00% | ~27 |
 | Ladies' man | 43.00% | ~26 |
 | Ferocious wild boars | 31.00% | ~19 |
+| Beast slayer | 30.00% | ~18 |
 | Idiot | 30.00% | ~18 |
 | Wise man | 28.00% | ~17 |
-| Beast slayer | 28.00% | ~17 |
 | Ogre friend | 26.00% | ~16 |
 | The fourth triplet | 26.00% | ~16 |
 | Family man | 25.00% | ~15 |
@@ -27,8 +27,8 @@ Rating: 4.57 (Ranked 477)
 | Archaeologist | 25.00% | ~15 |
 | Hard worker | 25.00% | ~15 |
 | Master detective | 25.00% | ~15 |
+| Little hero | 23.00% | ~14 |
 | Peacekeeper | 23.00% | ~14 |
-| Little hero | 21.00% | ~13 |
 | Pandora's box | 21.00% | ~13 |
 | Ghost hunter | 21.00% | ~13 |
 | Sidelined | 21.00% | ~13 |

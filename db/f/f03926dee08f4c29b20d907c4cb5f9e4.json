@@ -521,9 +521,9 @@
       "ID": "ACH_35_RIDING_LESSON",
       "SetID": "9loam6m",
       "Name": "Riding lesson",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_36_LIFE_IN_COUNTRYSIDE",
@@ -545,17 +545,17 @@
       "ID": "ACH_38_WELL_HIDDEN",
       "SetID": "9loam6m",
       "Name": "Well hidden!",
-      "Percentage": 36,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_39_TENS_AT_THE_LAKE",
       "SetID": "9loam6m",
       "Name": "Tents at the lake",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_40_GLOBETROTTER",
@@ -592,8 +592,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-12-04T22:05:44.1020963+00:00",
+  "LastChanged_Achievements": "2023-12-04T23:05:54.0737335+00:00",
   "LastUpdate_AppInfo": "2023-11-30T02:19:30.3024246+00:00",
-  "LastUpdate_Ratings": "2023-12-04T21:57:22.143263+00:00",
-  "LastUpdate_Achievements": "2023-12-04T22:05:44.1021193+00:00"
+  "LastUpdate_Ratings": "2023-12-04T22:57:29.1096347+00:00",
+  "LastUpdate_Achievements": "2023-12-04T23:05:54.0737618+00:00"
 }

@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 547,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1731,9 +1731,9 @@
       "ID": "ACHIEVEMENT_1",
       "SetID": "7pimpda",
       "Name": "Travel Streamer",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 503
+      "UsersEstimate": 509
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2100,8 +2100,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-04T22:08:14.602844+00:00",
+  "LastChanged_Achievements": "2023-12-04T23:08:31.9694796+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.7212859+00:00",
-  "LastUpdate_Ratings": "2023-12-04T22:02:37.333806+00:00",
-  "LastUpdate_Achievements": "2023-12-04T22:08:14.6028828+00:00"
+  "LastUpdate_Ratings": "2023-12-04T23:02:49.1427403+00:00",
+  "LastUpdate_Achievements": "2023-12-04T23:08:31.9695275+00:00"
 }

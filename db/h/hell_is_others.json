@@ -1291,7 +1291,7 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 259049,
+  "EOS_Progressed": 259050,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 0,
@@ -23271,6 +23271,11 @@
       "Time": "2023-12-04T22:04:45.9481134+00:00",
       "NumProgressed": 259049,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-04T23:04:56.8114888+00:00",
+      "NumProgressed": 259050,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -23282,7 +23287,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18133
+      "UsersEstimate": 18134
     },
     {
       "ID": "Act2",
@@ -23330,7 +23335,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80305
+      "UsersEstimate": 80306
     },
     {
       "ID": "BackHomeNTimes",
@@ -23394,7 +23399,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7771
+      "UsersEstimate": 7772
     },
     {
       "ID": "CreditLevel3",
@@ -23554,7 +23559,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7771
+      "UsersEstimate": 7772
     },
     {
       "ID": "KillOtherWithMine",
@@ -23570,7 +23575,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59581
+      "UsersEstimate": 59582
     },
     {
       "ID": "KillOthers2",
@@ -23729,7 +23734,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 259049,
+      "Progressed": 259050,
       "Completed": 3
     }
   ],
@@ -23737,8 +23742,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-04T17:00:38.6588188+00:00",
-  "LastChanged_Achievements": "2023-12-04T22:04:45.948113+00:00",
+  "LastChanged_Achievements": "2023-12-04T23:04:56.8114885+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:43.7496821+00:00",
-  "LastUpdate_Ratings": "2023-12-04T21:59:15.4647383+00:00",
-  "LastUpdate_Achievements": "2023-12-04T22:04:45.9482284+00:00"
+  "LastUpdate_Ratings": "2023-12-04T22:59:21.0150112+00:00",
+  "LastUpdate_Achievements": "2023-12-04T23:04:56.8116137+00:00"
 }

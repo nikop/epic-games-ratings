@@ -39,19 +39,19 @@ Number of Ratings: 495  (23.09.2022)
 | Winner Winner | 2.00% | ~4,350 |
 | Meticulous | 1.00% | ~2,175 |
 | Undeserved Honor | 1.00% | ~2,175 |
-| When Cut Across the Neck | 0.90% | ~1,957 |
+| When Cut Across the Neck | 0.90% | ~1,958 |
 | High Five the Moon | 0.80% | ~1,740 |
 | The Cave | 0.80% | ~1,740 |
 | Time Paradox | 0.60% | ~1,305 |
-| Merciful | 0.50% | ~1,087 |
+| Merciful | 0.50% | ~1,088 |
 | Five Shadows | 0.40% | ~870 |
 | Complete Mastery | 0.20% | ~435 |
 | Praise the Shogun | 0.20% | ~435 |
-| Chicken Dinner | 0.10% | ~217 |
-| Mimimi | 0.10% | ~217 |
-| Release the Kraken | 0.10% | ~217 |
+| Chicken Dinner | 0.10% | ~218 |
+| Mimimi | 0.10% | ~218 |
+| Release the Kraken | 0.10% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,496 (Ranked 72)  
+Progressed: 217,501 (Ranked 72)  
 Completed: 100 (0.05%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,14 +279,14 @@ Completed: 100 (0.05%) (Ranked 319)
 | 2023-12-01 | 216,916 | 100 |
 | 2023-12-02 | 217,105 | 100 |
 | 2023-12-03 | 217,342 | 100 |
-| 2023-12-04 | 217,496 | 100 |
+| 2023-12-04 | 217,501 | 100 |
 ## Awards
-Max (Great for Beginners): 580  (Ranked 201)  
-Sum: 4,894 (Ranked 144)  
+Max (Great for Beginners): 581  (Ranked 201)  
+Sum: 4,895 (Ranked 144)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 580 |
+| This game is Great for Beginners | 581 |
 | This game has Diverse Characters | 542 |
 | This game is Extremely Fun | 539 |
 | This game has Amazing Storytelling | 520 |
@@ -528,4 +528,4 @@ Diff (max vs sum): 57
 | 2023-11-30 | 4.67 | - | 579 | 4,886 |
 | 2023-12-02 | 4.67 | - | 580 | 4,888 |
 | 2023-12-03 | 4.67 | - | 580 | 4,893 |
-| 2023-12-04 | 4.67 | - | 580 | 4,894 |
+| 2023-12-04 | 4.67 | - | 581 | 4,895 |

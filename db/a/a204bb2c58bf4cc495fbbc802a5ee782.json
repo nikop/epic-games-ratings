@@ -4,7 +4,7 @@
   "ProductSlug": "steamworld-dig-05e1e1",
   "Ranking_EOS_Progress": 778,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 481,
+  "Ranking_EOS_NewPlayers": 480,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-30T02:19:32.4454948+00:00",
-  "LastUpdate_Ratings": "2023-12-04T21:59:00.0419504+00:00",
-  "LastUpdate_Achievements": "2023-12-04T22:04:16.1778534+00:00"
+  "LastUpdate_Ratings": "2023-12-04T22:59:05.33808+00:00",
+  "LastUpdate_Achievements": "2023-12-04T23:04:28.0716147+00:00"
 }

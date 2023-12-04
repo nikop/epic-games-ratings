@@ -35,10 +35,10 @@
 | We Are Not Alone | 4.00% | ~4 |
 | Body of Work | 4.00% | ~4 |
 | The Perfect Storm | 4.00% | ~4 |
+| Instinct of self-preservation | 4.00% | ~4 |
 | Something to think about | 3.00% | ~3 |
 | I remember It Like Was Yesterday | 3.00% | ~3 |
 | Se7en Seas | 3.00% | ~3 |
-| Instinct of self-preservation | 3.00% | ~3 |
 | A Mosaic of Misery | 3.00% | ~3 |
 | The Big Picture | 2.00% | ~2 |
 | Dark correspondence | 2.00% | ~2 |

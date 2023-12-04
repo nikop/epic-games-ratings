@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2022-06-10T11:00:00+00:00",
     "PcReleaseDate": "2021-03-25T11:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 25997,
+  "EOS_Progressed": 25998,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 1468,
+  "EOS_NewPlayers": 1469,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -8863,6 +8863,11 @@
       "Time": "2023-12-04T22:08:47.2622729+00:00",
       "NumProgressed": 25997,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-12-04T23:09:03.5690705+00:00",
+      "NumProgressed": 25998,
+      "NumCompleted": 111
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -8899,7 +8904,7 @@
       "Name": "On Rails Experience",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 14818
+      "UsersEstimate": 14819
     },
     {
       "ID": "achievement_13",
@@ -8955,7 +8960,7 @@
       "Name": "Bug Sized Relaxation",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 5719
+      "UsersEstimate": 5720
     },
     {
       "ID": "achievement_2",
@@ -8979,7 +8984,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 22617
+      "UsersEstimate": 22618
     },
     {
       "ID": "achievement_4",
@@ -8987,7 +8992,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 22877
+      "UsersEstimate": 22878
     },
     {
       "ID": "achievement_5",
@@ -8995,7 +9000,7 @@
       "Name": "Plastic Prison Breakers",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 4419
+      "UsersEstimate": 4420
     },
     {
       "ID": "achievement_6",
@@ -9027,20 +9032,20 @@
       "Name": "A Daring Devil",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 13778
+      "UsersEstimate": 13779
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 25997,
+      "Progressed": 25998,
       "Completed": 111
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-12-04T22:08:47.2622724+00:00",
+  "LastChanged_Achievements": "2023-12-04T23:09:03.56907+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:29.2026189+00:00",
-  "LastUpdate_Ratings": "2023-12-04T22:00:21.985633+00:00",
-  "LastUpdate_Achievements": "2023-12-04T22:08:47.2623248+00:00"
+  "LastUpdate_Ratings": "2023-12-04T23:02:45.3928809+00:00",
+  "LastUpdate_Achievements": "2023-12-04T23:09:03.5691249+00:00"
 }

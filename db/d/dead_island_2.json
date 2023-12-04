@@ -6,7 +6,7 @@
   "Ranking_Popularity": 49,
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 21,
-  "Ranking_EOS_Completed": 233,
+  "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 33,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
@@ -7233,9 +7233,9 @@
       "Count": 510
     }
   ],
-  "EOS_Progressed": 730253,
+  "EOS_Progressed": 730272,
   "EOS_Completed": 2463,
-  "EOS_NewPlayers": 3535,
+  "EOS_NewPlayers": 3519,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -33408,6 +33408,11 @@
       "Time": "2023-12-04T22:08:29.1382718+00:00",
       "NumProgressed": 730253,
       "NumCompleted": 2463
+    },
+    {
+      "Time": "2023-12-04T23:08:46.0102626+00:00",
+      "NumProgressed": 730272,
+      "NumCompleted": 2463
     }
   ],
   "TotalAchievements": 51,
@@ -33489,9 +33494,9 @@
       "ID": "ach_contender",
       "SetID": "7km39fm",
       "Name": "On Safari",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 3651
+      "UsersEstimate": 4382
     },
     {
       "ID": "ach_defensive",
@@ -33826,13 +33831,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 730253,
+      "Progressed": 730272,
       "Completed": 2463
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 55795,
+      "Progressed": 55814,
       "Completed": 36627
     }
   ],
@@ -33840,8 +33845,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-12-04T21:57:01.5471537+00:00",
-  "LastChanged_Achievements": "2023-12-04T22:08:29.1382715+00:00",
+  "LastChanged_Achievements": "2023-12-04T23:08:46.0102622+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:31.1640976+00:00",
-  "LastUpdate_Ratings": "2023-12-04T21:57:01.5471543+00:00",
-  "LastUpdate_Achievements": "2023-12-04T22:08:29.1384505+00:00"
+  "LastUpdate_Ratings": "2023-12-04T22:57:09.2321959+00:00",
+  "LastUpdate_Achievements": "2023-12-04T23:08:46.0104193+00:00"
 }

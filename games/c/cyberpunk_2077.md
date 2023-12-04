@@ -1,16 +1,16 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.65 (Ranked 315)  
+Rating: 4.66 (Ranked 295)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,398 |
-| Gun Fu | 7.00% | ~67,899 |
-| The Fool | 6.00% | ~58,199 |
-| Right Back At Ya | 5.00% | ~48,499 |
-| The Lovers | 4.00% | ~38,799 |
+| V for Vendetta | 12.00% | ~116,400 |
+| Gun Fu | 7.00% | ~67,900 |
+| The Fool | 6.00% | ~58,200 |
+| Right Back At Ya | 5.00% | ~48,500 |
+| The Lovers | 4.00% | ~38,800 |
 | Full Body Conversion | 3.00% | ~29,100 |
 | Stanislavski's Method | 3.00% | ~29,100 |
 | The Wheel of Fortune | 3.00% | ~29,100 |
@@ -22,9 +22,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | The High Priestess | 2.00% | ~19,400 |
 | True Warrior | 2.00% | ~19,400 |
 | Legend of The Afterlife | 2.00% | ~19,400 |
-| Relic Ruler | 2.00% | ~1,972 |
-| All the President's Men | 2.00% | ~1,972 |
-| Arachnophobia | 2.00% | ~1,972 |
+| Relic Ruler | 2.00% | ~1,973 |
+| All the President's Men | 2.00% | ~1,973 |
+| Arachnophobia | 2.00% | ~1,973 |
 | Bushido and Chill | 1.00% | ~9,700 |
 | Master Crafter | 1.00% | ~9,700 |
 | I Am The Law | 1.00% | ~9,700 |
@@ -32,7 +32,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Two Heads, One Bullet | 1.00% | ~9,700 |
 | Judy vs Night City | 1.00% | ~9,700 |
 | To Protect and Serve | 0.90% | ~8,730 |
-| Spin Doctor | 0.90% | ~887 |
+| Spin Doctor | 0.90% | ~888 |
 | The Wandering Fool | 0.70% | ~6,790 |
 | King of Wands | 0.70% | ~690 |
 | Easy Come, Easy Go | 0.70% | ~690 |
@@ -42,9 +42,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Star | 0.50% | ~4,850 |
 | The Sun | 0.50% | ~4,850 |
 | Breathtaking | 0.40% | ~3,880 |
-| Judgement Day | 0.40% | ~394 |
-| King of Swords | 0.40% | ~394 |
-| The Tower | 0.40% | ~394 |
+| Judgement Day | 0.40% | ~395 |
+| King of Swords | 0.40% | ~395 |
+| The Tower | 0.40% | ~395 |
 | Autojock | 0.30% | ~2,910 |
 | Must Be Rats | 0.30% | ~2,910 |
 | Temperance | 0.30% | ~2,910 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 969,987 (Ranked 15)  
+Progressed: 970,004 (Ranked 15)  
 Completed: 2,843 (0.29%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,17 +302,17 @@ Completed: 2,843 (0.29%) (Ranked 240)
 | 2023-12-01 | 966,265 | 2,832 |
 | 2023-12-02 | 967,833 | 2,836 |
 | 2023-12-03 | 969,229 | 2,839 |
-| 2023-12-04 | 969,987 | 2,843 |
+| 2023-12-04 | 970,004 | 2,843 |
 ## Awards
 Max (Character Customization): 116,208  (Ranked 9)  
-Sum: 387,583 (Ranked 9)  
+Sum: 387,763 (Ranked 9)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 116,208 |
 | This game has Great Boss Battles | 83,517 |
 | This game is Great for Beginners | 23,387 |
-| This game has Diverse Characters | 22,799 |
+| This game has Diverse Characters | 22,979 |
 | This game is Highly Recommended | 21,925 |
 | This game has Amazing Storytelling | 21,698 |
 | This game is Extremely Fun | 21,509 |
@@ -642,4 +642,4 @@ Diff (max vs sum): 0
 | 2023-12-01 | 4.65 | - | 113,560 | 378,672 |
 | 2023-12-02 | 4.65 | - | 114,587 | 382,001 |
 | 2023-12-03 | 4.65 | - | 115,469 | 385,067 |
-| 2023-12-04 | 4.65 | - | 116,208 | 387,583 |
+| 2023-12-04 | 4.66 | - | 116,208 | 387,763 |

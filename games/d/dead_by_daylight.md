@@ -6,44 +6,46 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~10,700 |
-| It wakes | 1.00% | ~10,700 |
-| Skillful | 1.00% | ~10,700 |
-| Not half bad | 0.90% | ~9,630 |
-| Make Some Noise | 0.90% | ~9,630 |
-| Apt Survivor | 0.80% | ~8,560 |
-| Survival Treasures | 0.80% | ~8,560 |
-| I | 0.80% | ~8,560 |
-| Handyman | 0.70% | ~7,490 |
-| Sorted | 0.70% | ~7,490 |
-| Resurgence | 0.70% | ~7,490 |
-| The Grand Sacrifice | 0.60% | ~6,420 |
-| No one left behind | 0.60% | ~6,420 |
-| Medic | 0.60% | ~6,420 |
-| Bloody Millionaire | 0.60% | ~6,420 |
-| Healthy Obsession | 0.60% | ~6,420 |
-| Preemptive Strike | 0.60% | ~6,420 |
-| Humanitarian | 0.60% | ~6,420 |
-| Agonizing Escape | 0.50% | ~5,350 |
-| Backdoor Escape | 0.50% | ~5,350 |
-| I've got your back | 0.50% | ~5,350 |
-| Perfect Escape | 0.50% | ~5,350 |
-| Perfect Killing | 0.50% | ~5,350 |
-| Risk it all | 0.50% | ~5,350 |
-| II | 0.50% | ~5,350 |
-| Engineer | 0.50% | ~5,350 |
-| Wounded Healer | 0.50% | ~5,350 |
-| Close Shave | 0.50% | ~5,350 |
-| Apt Killer | 0.40% | ~4,280 |
-| Vulture | 0.40% | ~4,280 |
-| III | 0.40% | ~4,280 |
-| Lifting The Fog | 0.40% | ~4,280 |
+| Zealous | 1.00% | ~10,701 |
+| It wakes | 1.00% | ~10,701 |
+| Not half bad | 1.00% | ~10,701 |
+| Skillful | 1.00% | ~10,701 |
+| Make Some Noise | 0.90% | ~9,631 |
+| Apt Survivor | 0.80% | ~8,561 |
+| Survival Treasures | 0.80% | ~8,561 |
+| I | 0.80% | ~8,561 |
+| Handyman | 0.70% | ~7,491 |
+| Sorted | 0.70% | ~7,491 |
+| Resurgence | 0.70% | ~7,491 |
+| The Grand Sacrifice | 0.60% | ~6,421 |
+| No one left behind | 0.60% | ~6,421 |
+| Medic | 0.60% | ~6,421 |
+| Bloody Millionaire | 0.60% | ~6,421 |
+| Healthy Obsession | 0.60% | ~6,421 |
+| Preemptive Strike | 0.60% | ~6,421 |
+| Humanitarian | 0.60% | ~6,421 |
+| Agonizing Escape | 0.50% | ~5,351 |
+| Backdoor Escape | 0.50% | ~5,351 |
+| I've got your back | 0.50% | ~5,351 |
+| Perfect Escape | 0.50% | ~5,351 |
+| Perfect Killing | 0.50% | ~5,351 |
+| Risk it all | 0.50% | ~5,351 |
+| II | 0.50% | ~5,351 |
+| Engineer | 0.50% | ~5,351 |
+| Wounded Healer | 0.50% | ~5,351 |
+| Close Shave | 0.50% | ~5,351 |
+| Apt Killer | 0.40% | ~4,281 |
+| Vulture | 0.40% | ~4,281 |
+| III | 0.40% | ~4,281 |
+| Lifting The Fog | 0.40% | ~4,281 |
 | Blood on your hands | 0.30% | ~3,210 |
 | Escape Artist | 0.30% | ~3,210 |
+| Made it out alive! | 0.30% | ~3,210 |
 | Nerves of steel | 0.30% | ~3,210 |
 | Gifts for the Fog | 0.30% | ~3,210 |
 | III-50 | 0.30% | ~3,210 |
 | Item of Obsession | 0.30% | ~3,210 |
+| Near-Death Experience | 0.30% | ~3,210 |
 | Cherish your Life | 0.30% | ~3,210 |
 | Unforgettable Getaway | 0.30% | ~3,210 |
 | Cutting Out | 0.30% | ~3,210 |
@@ -59,7 +61,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Second Act | 0.30% | ~3,210 |
 | A bite for the Entity | 0.20% | ~2,140 |
 | Blood on your face | 0.20% | ~2,140 |
-| Made it out alive! | 0.20% | ~2,140 |
 | Hemophobia | 0.20% | ~2,140 |
 | Shock Therapy | 0.20% | ~2,140 |
 | All Aboard | 0.20% | ~2,140 |
@@ -70,7 +71,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Escaping the Nightmare | 0.20% | ~2,140 |
 | Holiday Get-Together | 0.20% | ~2,140 |
 | Game Over | 0.20% | ~2,140 |
-| Near-Death Experience | 0.20% | ~2,140 |
 | Campbell's Chapel Legacy | 0.20% | ~2,140 |
 | Ancestor's Rite | 0.20% | ~2,140 |
 | Devoted Gatekeeping | 0.20% | ~2,140 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Joke’s On You | 0.10% | ~1,070 |
 | Adept Good Guy | 0.10% | ~1,070 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,070,017 (Ranked 14)  
+Progressed: 1,070,133 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -467,14 +467,14 @@ Completed: 61 (0.01%) (Ranked 346)
 | 2023-12-01 | 1,059,298 | 61 |
 | 2023-12-02 | 1,062,340 | 61 |
 | 2023-12-03 | 1,067,390 | 61 |
-| 2023-12-04 | 1,070,017 | 61 |
+| 2023-12-04 | 1,070,133 | 61 |
 ## Awards
-Max (Diverse Characters): 37,218  (Ranked 15)  
-Sum: 282,885 (Ranked 12)  
+Max (Diverse Characters): 37,289  (Ranked 15)  
+Sum: 282,956 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 37,218 |
+| This game has Diverse Characters | 37,289 |
 | This game is Highly Recommended | 32,351 |
 | This game has Amazing Characters | 31,874 |
 | This game has Competitive Players | 31,715 |
@@ -802,4 +802,4 @@ Diff (max vs sum): 3
 | 2023-12-01 | 4.51 | - | 37,031 | 281,537 |
 | 2023-12-02 | 4.51 | - | 37,095 | 281,803 |
 | 2023-12-03 | 4.51 | - | 37,218 | 282,346 |
-| 2023-12-04 | 4.51 | - | 37,218 | 282,885 |
+| 2023-12-04 | 4.51 | - | 37,289 | 282,956 |

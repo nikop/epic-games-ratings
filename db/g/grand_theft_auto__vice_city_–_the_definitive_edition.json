@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -901,9 +901,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 11177,
+  "EOS_Progressed": 11179,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -13626,6 +13626,11 @@
       "Time": "2023-12-04T16:09:31.7552625+00:00",
       "NumProgressed": 11177,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-12-04T23:09:01.0634529+00:00",
+      "NumProgressed": 11179,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -13709,7 +13714,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "ACH11",
@@ -13717,7 +13722,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "ACH12",
@@ -13741,7 +13746,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4694
+      "UsersEstimate": 4695
     },
     {
       "ID": "ACH15",
@@ -13797,7 +13802,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 5253
+      "UsersEstimate": 5254
     },
     {
       "ID": "ACH22",
@@ -13805,7 +13810,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2347
+      "UsersEstimate": 2348
     },
     {
       "ID": "ACH23",
@@ -13813,7 +13818,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2906
+      "UsersEstimate": 2907
     },
     {
       "ID": "ACH24",
@@ -13837,7 +13842,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "ACH27",
@@ -13853,7 +13858,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "ACH29",
@@ -13908,7 +13913,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11177,
+      "Progressed": 11179,
       "Completed": 65
     }
   ],
@@ -13916,8 +13921,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-04T17:01:12.7618907+00:00",
-  "LastChanged_Achievements": "2023-12-04T22:08:44.5267976+00:00",
+  "LastChanged_Achievements": "2023-12-04T23:09:01.0634525+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:55.5499109+00:00",
-  "LastUpdate_Ratings": "2023-12-04T21:59:38.4016171+00:00",
-  "LastUpdate_Achievements": "2023-12-04T22:08:44.5268736+00:00"
+  "LastUpdate_Ratings": "2023-12-04T22:59:42.6500498+00:00",
+  "LastUpdate_Achievements": "2023-12-04T23:09:01.0635521+00:00"
 }

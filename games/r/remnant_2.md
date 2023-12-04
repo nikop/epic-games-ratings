@@ -12,20 +12,20 @@ Rating: 4.75 (Ranked 147)
 | Not Your Average Trait | 0.60% | ~1,409 |
 | Expanding Horizons | 0.50% | ~1,174 |
 | Quest for Survival | 0.50% | ~1,174 |
-| Boss'n Up | 0.50% | ~1,174 |
-| Am I Seeing This? | 0.40% | ~939 |
-| Gleaming the Cube | 0.40% | ~939 |
-| Not So Special Now | 0.40% | ~939 |
-| Not a Janitor | 0.40% | ~939 |
-| Familiar Face | 0.40% | ~939 |
-| Equal Measures | 0.40% | ~939 |
-| Blue Goddess | 0.40% | ~939 |
-| Duality | 0.40% | ~939 |
-| Top Performer | 0.40% | ~939 |
-| Almost There | 0.40% | ~939 |
-| Make Some Room | 0.40% | ~939 |
-| Good, But Could Be Better! | 0.40% | ~939 |
-| Trait Chaser | 0.40% | ~939 |
+| Am I Seeing This? | 0.40% | ~940 |
+| Gleaming the Cube | 0.40% | ~940 |
+| Not So Special Now | 0.40% | ~940 |
+| Not a Janitor | 0.40% | ~940 |
+| Familiar Face | 0.40% | ~940 |
+| Equal Measures | 0.40% | ~940 |
+| Blue Goddess | 0.40% | ~940 |
+| Duality | 0.40% | ~940 |
+| Top Performer | 0.40% | ~940 |
+| Boss'n Up | 0.40% | ~940 |
+| Almost There | 0.40% | ~940 |
+| Make Some Room | 0.40% | ~940 |
+| Good, But Could Be Better! | 0.40% | ~940 |
+| Trait Chaser | 0.40% | ~940 |
 | Chaos | 0.30% | ~705 |
 | Traitor | 0.30% | ~705 |
 | Forever is a Long Time Coming | 0.30% | ~705 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 147)
 | Red Room | 0.10% | ~235 |
 | A Foul Feast | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,872 (Ranked 68)  
+Progressed: 234,896 (Ranked 68)  
 Completed: 558 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 558 (0.24%) (Ranked 251)
 | 2023-12-01 | 232,269 | 546 |
 | 2023-12-02 | 233,162 | 548 |
 | 2023-12-03 | 234,204 | 554 |
-| 2023-12-04 | 234,872 | 558 |
+| 2023-12-04 | 234,896 | 558 |
 ## Awards
 Max (Great Boss Battles): 2,623  (Ranked 102)  
 Sum: 6,481 (Ranked 128)  

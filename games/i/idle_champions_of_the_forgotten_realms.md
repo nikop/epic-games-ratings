@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 988)  
+Rating: 4.06 (Ranked 989)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of Champions | 0.10% | ~205 |
 | See You on the Flipside | 0.10% | ~205 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,429 (Ranked 65)  
+Progressed: 238,433 (Ranked 65)  
 Completed: 2,498 (1.05%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -767,10 +767,10 @@ Completed: 2,498 (1.05%) (Ranked 165)
 | 2023-12-01 | 237,920 | 2,491 |
 | 2023-12-02 | 238,082 | 2,494 |
 | 2023-12-03 | 238,298 | 2,495 |
-| 2023-12-04 | 238,429 | 2,498 |
+| 2023-12-04 | 238,433 | 2,498 |
 ## Awards
 Max (Great for Beginners): 5,593  (Ranked 70)  
-Sum: 32,727 (Ranked 41)  
+Sum: 32,728 (Ranked 41)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -780,7 +780,7 @@ Diff (max vs sum): 29
 | This game is Relaxing | 4,717 |
 | This game has Amazing Characters | 4,237 |
 | This game is Highly Recommended | 4,231 |
-| This game has Playful Visuals | 3,552 |
+| This game has Playful Visuals | 3,553 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -1096,4 +1096,4 @@ Diff (max vs sum): 29
 | 2023-12-01 | 4.06 | - | 5,580 | 32,695 |
 | 2023-12-02 | 4.06 | - | 5,585 | 32,705 |
 | 2023-12-03 | 4.06 | - | 5,589 | 32,719 |
-| 2023-12-04 | 4.06 | - | 5,593 | 32,727 |
+| 2023-12-04 | 4.06 | - | 5,593 | 32,728 |

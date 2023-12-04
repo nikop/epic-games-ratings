@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 232,
   "Ranking_EOS_Progress": 28,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 52,
+  "Ranking_EOS_NewPlayers": 51,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
@@ -2849,9 +2849,9 @@
       "Count": 149
     }
   ],
-  "EOS_Progressed": 667568,
+  "EOS_Progressed": 667573,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1686,
+  "EOS_NewPlayers": 1684,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28939,6 +28939,11 @@
       "Time": "2023-12-04T22:09:23.9437824+00:00",
       "NumProgressed": 667568,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-04T23:09:45.741736+00:00",
+      "NumProgressed": 667573,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -28950,7 +28955,7 @@
       "Name": "Stroller",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 100135
+      "UsersEstimate": 100136
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -28958,7 +28963,7 @@
       "Name": "Hiker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 80108
+      "UsersEstimate": 80109
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -28990,7 +28995,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 120162
+      "UsersEstimate": 120163
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -29270,7 +29275,7 @@
       "Name": "Climate Change",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 106811
+      "UsersEstimate": 106812
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -29358,22 +29363,22 @@
       "Name": "Saved by Nausica\u00E4",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 33378
+      "UsersEstimate": 33379
     }
   ],
   "AchievementSets": [
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 667568,
+      "Progressed": 667573,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-12-03T11:56:58.0700241+00:00",
-  "LastChanged_Achievements": "2023-12-04T22:09:23.9437821+00:00",
+  "LastChanged_Achievements": "2023-12-04T23:09:45.7417356+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:29.0797775+00:00",
-  "LastUpdate_Ratings": "2023-12-04T21:57:42.1493539+00:00",
-  "LastUpdate_Achievements": "2023-12-04T22:09:23.9439288+00:00"
+  "LastUpdate_Ratings": "2023-12-04T22:57:48.7032495+00:00",
+  "LastUpdate_Achievements": "2023-12-04T23:09:45.7418926+00:00"
 }

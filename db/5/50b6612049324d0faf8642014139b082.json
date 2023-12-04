@@ -103,9 +103,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 741,
+  "EOS_Progressed": 742,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1773,6 +1773,11 @@
       "Time": "2023-12-04T22:09:26.0322535+00:00",
       "NumProgressed": 741,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-04T23:09:47.7817808+00:00",
+      "NumProgressed": 742,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1801,7 +1806,7 @@
       "Name": "Gravel Guru",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "achievement_12",
@@ -1809,7 +1814,7 @@
       "Name": "Snow Specialist",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "achievement_13",
@@ -1849,7 +1854,7 @@
       "Name": "Your first time?",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "achievement_18",
@@ -1871,9 +1876,9 @@
       "ID": "achievement_2",
       "SetID": "jnappp",
       "Name": "Team Principal",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 578
+      "UsersEstimate": 571
     },
     {
       "ID": "achievement_20",
@@ -1921,7 +1926,7 @@
       "Name": "E-stonia",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "achievement_26",
@@ -1929,7 +1934,7 @@
       "Name": "Driver\u0027s Alliance",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "achievement_3",
@@ -1992,7 +1997,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 741,
+      "Progressed": 742,
       "Completed": 0
     }
   ],
@@ -2000,8 +2005,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-12-04T08:59:17.8439063+00:00",
-  "LastChanged_Achievements": "2023-12-04T22:09:26.0322533+00:00",
+  "LastChanged_Achievements": "2023-12-04T23:09:47.7817804+00:00",
   "LastUpdate_AppInfo": "2023-11-28T21:56:52.2952246+00:00",
-  "LastUpdate_Ratings": "2023-12-04T21:59:20.1115206+00:00",
-  "LastUpdate_Achievements": "2023-12-04T22:09:26.0322715+00:00"
+  "LastUpdate_Ratings": "2023-12-04T22:59:25.3609691+00:00",
+  "LastUpdate_Achievements": "2023-12-04T23:09:47.7818101+00:00"
 }

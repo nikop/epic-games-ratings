@@ -11969,9 +11969,9 @@
       "ID": "ACH_01",
       "SetID": "9d4cf4c",
       "Name": "Under a New Sun",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 12947
+      "UsersEstimate": 13088
     },
     {
       "ID": "ACH_02",
@@ -12258,8 +12258,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-12-03T19:59:01.7497706+00:00",
-  "LastChanged_Achievements": "2023-12-04T22:04:21.8637716+00:00",
+  "LastChanged_Achievements": "2023-12-04T23:04:33.5523354+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:28.8291832+00:00",
-  "LastUpdate_Ratings": "2023-12-04T21:58:48.1891299+00:00",
-  "LastUpdate_Achievements": "2023-12-04T22:04:21.8638422+00:00"
+  "LastUpdate_Ratings": "2023-12-04T22:58:53.3267014+00:00",
+  "LastUpdate_Achievements": "2023-12-04T23:04:33.5524712+00:00"
 }

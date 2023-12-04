@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2174,11 +2174,17 @@
       "Rating": 4.67,
       "NumberOfAwards": 4894,
       "NumberOfAwardsMax": 580
+    },
+    {
+      "Time": "2023-12-04T22:58:59.6636543+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4895,
+      "NumberOfAwardsMax": 581
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4894,
-  "NumberOfAwardsMax": 580,
+  "NumberOfAwards": 4895,
+  "NumberOfAwardsMax": 581,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2215,7 +2221,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 580
+      "Count": 581
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2248,9 +2254,9 @@
       "Count": 256
     }
   ],
-  "EOS_Progressed": 217496,
+  "EOS_Progressed": 217501,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 1268,
+  "EOS_NewPlayers": 1269,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -28418,6 +28424,11 @@
       "Time": "2023-12-04T22:05:33.5592694+00:00",
       "NumProgressed": 217496,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-12-04T23:05:43.8119168+00:00",
+      "NumProgressed": 217501,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 44,
@@ -28445,7 +28456,7 @@
       "Name": "Chicken Dinner",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "Chunin",
@@ -28557,7 +28568,7 @@
       "Name": "Merciful",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "Meticulous",
@@ -28573,7 +28584,7 @@
       "Name": "Mimimi",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "MugenUnchained",
@@ -28637,7 +28648,7 @@
       "Name": "Release the Kraken",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "RescueTakuma",
@@ -28757,7 +28768,7 @@
       "Name": "When Cut Across the Neck",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1957
+      "UsersEstimate": 1958
     },
     {
       "ID": "WinnerWinner",
@@ -28780,15 +28791,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 217496,
+      "Progressed": 217501,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2023-12-04T14:00:00.6062231+00:00",
-  "LastChanged_Achievements": "2023-12-04T22:05:33.5592691+00:00",
+  "LastChanged": "2023-12-04T22:58:59.6636542+00:00",
+  "LastChanged_Achievements": "2023-12-04T23:05:43.8119164+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:31.5350998+00:00",
-  "LastUpdate_Ratings": "2023-12-04T21:58:54.4402696+00:00",
-  "LastUpdate_Achievements": "2023-12-04T22:05:33.5593964+00:00"
+  "LastUpdate_Ratings": "2023-12-04T22:58:59.6636547+00:00",
+  "LastUpdate_Achievements": "2023-12-04T23:05:43.8121413+00:00"
 }

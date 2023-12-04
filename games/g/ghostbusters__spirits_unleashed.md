@@ -6,8 +6,8 @@ Rating: 4.50 (Ranked 591)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 9.00% | ~2,873 |
-| Advancement | 7.00% | ~2,234 |
-| Meticulously Efficient | 7.00% | ~2,234 |
+| Advancement | 7.00% | ~2,235 |
+| Meticulously Efficient | 7.00% | ~2,235 |
 | I collect Spores, Molds, and Fungi | 5.00% | ~1,596 |
 | Discovery | 5.00% | ~1,596 |
 | Fully Upgraded | 5.00% | ~1,596 |
@@ -24,8 +24,6 @@ Rating: 4.50 (Ranked 591)
 | Ectoplasmic Entity | 3.00% | ~958 |
 | Ghostbuster In Training | 3.00% | ~958 |
 | Icing on the Cake | 3.00% | ~958 |
-| Legions | 3.00% | ~958 |
-| Pesky Jerks | 3.00% | ~958 |
 | Right back at ya | 3.00% | ~958 |
 | Side Hustle | 3.00% | ~958 |
 | Summoner | 3.00% | ~958 |
@@ -33,6 +31,8 @@ Rating: 4.50 (Ranked 591)
 | We have the best insurance | 2.00% | ~638 |
 | Collector | 2.00% | ~638 |
 | Escape Artist | 2.00% | ~638 |
+| Legions | 2.00% | ~638 |
+| Pesky Jerks | 2.00% | ~638 |
 | Rift Destroyer | 2.00% | ~638 |
 | Seasoned | 2.00% | ~638 |
 | Skilled | 2.00% | ~638 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 591)
 | Ultimate Defense | 0.20% | ~64 |
 | Line em' up | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,920 (Ranked 124)  
+Progressed: 31,923 (Ranked 124)  
 Completed: 69 (0.22%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 69 (0.22%) (Ranked 255)
 | 2023-12-01 | 31,812 | 69 |
 | 2023-12-02 | 31,846 | 69 |
 | 2023-12-03 | 31,893 | 69 |
-| 2023-12-04 | 31,920 | 69 |
+| 2023-12-04 | 31,923 | 69 |
 ## Awards
 Max (Great for Beginners): 320  (Ranked 251)  
 Sum: 2,878 (Ranked 179)  
