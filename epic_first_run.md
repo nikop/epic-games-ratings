@@ -1,6 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Zarathustra - Cybergeddon](games/7/70c81891c1bc4e3aabd01e1c47ef9e7d.md) | 2023-12-31 | - |  | - | - |
+| [Tiny Jump](games/0/08d22307c66c4923ae6fab7edfa6e227.md) | 2024-01-29 | - |  | - | - |
+| [Zarathustra - Cybergeddon](games/7/70c81891c1bc4e3aabd01e1c47ef9e7d.md) | 2023-12-05 | - |  | - | - |
 | [Legendary Road Online](games/a/a55f781bdb5940bab92aae536a879f89.md) | 2023-12-04 | - |  | - | - |
 | [Get Slapped!](games/d/d998151b857341e29d5241b6d7f6fd3a.md) | 2024-02-29 | - |  | - | - |
 | [Tenement](games/7/78d14ec62d2a41d095ac4facc9278617.md) | 2023-12-31 | 60 (1,000 XP) | 0 | - | - |

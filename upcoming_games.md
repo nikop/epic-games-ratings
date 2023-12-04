@@ -3,6 +3,7 @@
 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 2023-12-04 | 5 (1,000 XP) | 1 | - | - |
 | [Kanjozoku Game Online Street Racing Drift](games/5/54a196da2d224953aa49aada4f6ce465.md) | 2023-12-04 | - |  | - | - |
 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 2023-12-05 | - |  | - | - |
+| [Zarathustra - Cybergeddon](games/7/70c81891c1bc4e3aabd01e1c47ef9e7d.md) | 2023-12-05 | - |  | - | - |
 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2023-12-05 | 18 (1,000 XP) | 288 | - | - |
 | [Born of Bread](games/2/269f94247b4f471b9381fd4052bf1fad.md) | 2023-12-05 | - |  | - | - |
 | [Extreme Formula Championship](games/1/1903efa2b18040089ecbd796f9ec3a16.md) | 2023-12-05 | 5 (1,000 XP) | 2 | - | - |
@@ -34,7 +35,6 @@
 | [9Lives Arena](games/9/9lives_arena.md) | 2023-12-31 | - |  | - | - |
 | [Abtos Covert](games/f/f824b337a16d464eab50d0564bc3389a.md) | 2023-12-31 | - |  | - | - |
 | [Active and Operational](games/a/active_and_operational.md) | 2023-12-31 | - |  | - | - |
-| [Age of Rust](games/a/age_of_rust.md) | 2023-12-31 | - |  | - | - |
 | [Alaskan Road Truckers](games/a/alaskan_truck_simulator.md) | 2023-12-31 | - |  | - | - |
 | [Arms Race 2](games/d/d3b4722b35674be186318c5f5e14b13e.md) | 2023-12-31 | 17 (1,000 XP) | 0 | - | - |
 | [Assassin: The First List](games/a/assassin_the_first_list.md) | 2023-12-31 | - |  | - | - |
@@ -96,10 +96,10 @@
 | [Underground Waifus TCG](games/4/469efc19125a4c3fb518e4723ad3010e.md) | 2023-12-31 | - |  | - | - |
 | [Valfaris Mecha Therion](games/v/valfaris_mecha_therion.md) | 2023-12-31 | - |  | - | - |
 | [Warpaws](games/w/warpaws.md) | 2023-12-31 | - |  | - | - |
-| [Zarathustra - Cybergeddon](games/7/70c81891c1bc4e3aabd01e1c47ef9e7d.md) | 2023-12-31 | - |  | - | - |
 | [OpenSeason](games/5/53b4ffb651f04ca0bbd47c310ad6efd8.md) | 2024-01-05 | - |  | - | - |
 | [Prince of Persia The Lost Crown](games/2/22600f09e936468c8ecfc22b5eac7d7c.md) | 2024-01-18 | - |  | - | - |
 | [Howl](games/h/howl.md) | 2024-01-23 | - |  | - | - |
+| [Tiny Jump](games/0/08d22307c66c4923ae6fab7edfa6e227.md) | 2024-01-29 | - |  | - | - |
 | [Murder Is Game Over - Deal Killer](games/b/b2a82abf9d2b4356a29a4c5d2a15c830.md) | 2024-01-31 | - |  | - | - |
 | [The Harvest](games/1/171eb5b083604de697c6d64e243d308b.md) | 2024-01-31 | - |  | - | - |
 | [Total Reload](games/t/total_reload.md) | 2024-01-31 | - |  | - | - |
@@ -122,6 +122,7 @@
 | [Life by You](games/l/life_by_you.md) | 2024-03-05 | - |  | - | - |
 | [Homeworld 3](games/h/homeworld_3.md) | 2024-03-08 | - |  | - | - |
 | [Tall Poppy 2](games/7/71f1ccd53d6a46c8a44b9e5425af0723.md) | 2024-03-29 | - |  | - | - |
+| [Age of Rust](games/a/age_of_rust.md) | 2024-03-31 | - |  | - | - |
 | [Almost Formula](games/c/c738515085eb490fb8c13acf3749e9e9.md) | 2024-03-31 | - |  | - | - |
 | [Campfire - Cozy AI Villagers](games/3/3f7a5911da8e4605a607533e5933fc7e.md) | 2024-03-31 | - |  | - | - |
 | [Champion Shift](games/4/49e9bdf671fd4d87bb19ea1a7b0be11f.md) | 2024-03-31 | - |  | - | - |
@@ -143,7 +144,7 @@
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
 | [Forgotten Runiverse](games/2/28102c9b12f0424cb937170f7f6286b9.md) | 2024-06-30 | - |  | - | - |
 | [I Love Finding Cats](games/2/22d7d08b02de4ce79b0316ced5064741.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 388,450 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 388,575 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -285,6 +286,7 @@
 | [Derelicts](games/d/derelicts.md) | 2099-01-01 | - |  | - | - |
 | [DESERTED](games/0/0ee52c80fe5e48a48f5c0d80fa9436cc.md) | 2099-01-01 | 23 (1,000 XP) | 3 | - | - |
 | [Despelote](games/e/ebe9c4222dc7428b955c31dc8131616d.md) | 2099-01-01 | - |  | - | - |
+| [Devil's Island](games/0/090ac4b263f44ea79418069fddfb0d9b.md) | 2099-01-01 | - |  | - | - |
 | [dHexUs](games/1/18ce5f915fb44c1c957951439af675fb.md) | 2099-01-01 | - |  | - | - |
 | [Die By The Blade](games/d/die_by_the_blade.md) | 2099-01-01 | - |  | - | - |
 | [Don Duality](games/2/2325c580f06d4eb4ba6814c1b6802bed.md) | 2099-01-01 | - |  | - | - |
