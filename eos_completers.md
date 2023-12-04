@@ -70,7 +70,7 @@
 | 68 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
 | 69 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.77% |
 | 70 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
-| 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.67% |
+| 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.66% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 72 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 74 | [JARS](games/j/jars.md) | 5.00% |
@@ -98,7 +98,7 @@
 | 96 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 97 | [Bunny Park](games/b/bunny_park.md) | 3.30% |
 | 98 | [The Complex](games/t/the_complex.md) | 3.20% |
-| 99 | [Destiny 2](games/d/destiny_2.md) | 3.15% |
+| 99 | [Destiny 2](games/d/destiny_2.md) | 3.16% |
 | 100 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
 | 100 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.12% |
 | 102 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.11% |
@@ -123,10 +123,10 @@
 | 121 | [Lamentum](games/l/lamentum.md) | 2.42% |
 | 122 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.41% |
 | 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.38% |
-| 124 | [Bloodshore](games/b/bloodshore.md) | 2.25% |
-| 124 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.25% |
-| 126 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.21% |
-| 127 | [Dungeons 4](games/d/dungeons_4.md) | 2.11% |
+| 124 | [Dungeons 4](games/d/dungeons_4.md) | 2.30% |
+| 125 | [Bloodshore](games/b/bloodshore.md) | 2.25% |
+| 125 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.25% |
+| 127 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.21% |
 | 128 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 1.98% |
 | 129 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.92% |
 | 130 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.89% |
@@ -139,8 +139,8 @@
 | 136 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.76% |
 | 138 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.63% |
 | 139 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 1.61% |
-| 140 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.59% |
-| 141 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
+| 140 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
+| 141 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.56% |
 | 142 | [Five Dates](games/f/five_dates.md) | 1.55% |
 | 143 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.54% |
 | 144 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.47% |
@@ -199,7 +199,7 @@
 | 195 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
 | 198 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.58% |
 | 198 | [Grindstone](games/g/grindstone.md) | 0.58% |
-| 200 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.57% |
+| 200 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.56% |
 | 201 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 201 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.55% |
 | 203 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.54% |
