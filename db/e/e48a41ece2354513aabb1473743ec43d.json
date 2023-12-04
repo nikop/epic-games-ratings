@@ -2,9 +2,9 @@
   "ID": "e48a41ece2354513aabb1473743ec43d",
   "Name": "Bluelight.inc",
   "ProductSlug": "bluelight-dfabd2",
-  "Ranking_EOS_Progress": 776,
+  "Ranking_EOS_Progress": 778,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 482,
+  "Ranking_EOS_NewPlayers": 484,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-29T13:56:58.7058984+00:00",
-  "LastUpdate_Ratings": "2023-12-04T18:57:35.555712+00:00",
-  "LastUpdate_Achievements": "2023-12-04T19:08:39.4453257+00:00"
+  "LastUpdate_Ratings": "2023-12-04T19:57:37.0455725+00:00",
+  "LastUpdate_Achievements": "2023-12-04T20:08:18.7092443+00:00"
 }

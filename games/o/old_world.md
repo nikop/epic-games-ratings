@@ -84,6 +84,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 2.00% | ~313 |
 | Building Wonders | 2.00% | ~313 |
 | Mythology | 2.00% | ~313 |
+| Double Victory | 2.00% | ~313 |
 | Points Victory | 2.00% | ~313 |
 | Win a Single Player Game | 2.00% | ~313 |
 | The Clergy | 2.00% | ~313 |
@@ -127,7 +128,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legionary | 1.00% | ~156 |
 | Phalangite | 1.00% | ~156 |
 | Ambition Victory | 1.00% | ~156 |
-| Double Victory | 1.00% | ~156 |
 | Clerics | 0.90% | ~141 |
 | Rome | 0.90% | ~141 |
 | Hittite Paganism | 0.90% | ~141 |
@@ -145,12 +145,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old World Order | 0.70% | ~109 |
 | Cataphract Archer | 0.70% | ~109 |
 | No Undo | 0.70% | ~109 |
+| Deposed Tribe | 0.70% | ~109 |
 | The Great Mage | 0.70% | ~109 |
 | Kush | 0.70% | ~109 |
 | Beja Archer | 0.70% | ~109 |
 | Old | 0.60% | ~94 |
 | Ten Crowns | 0.60% | ~94 |
-| Deposed Tribe | 0.60% | ~94 |
 | Ancient | 0.50% | ~78 |
 | Glorious Difficulty | 0.50% | ~78 |
 | Hatti | 0.50% | ~78 |

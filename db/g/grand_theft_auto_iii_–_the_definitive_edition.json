@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -547,9 +547,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8707,
+  "EOS_Progressed": 8708,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -11642,6 +11642,11 @@
       "Time": "2023-12-04T13:09:24.1685084+00:00",
       "NumProgressed": 8707,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-04T20:04:23.084615+00:00",
+      "NumProgressed": 8708,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 29,
@@ -11653,7 +11658,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 7227
+      "UsersEstimate": 7228
     },
     {
       "ID": "ACH02",
@@ -11661,7 +11666,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2960
+      "UsersEstimate": 2961
     },
     {
       "ID": "ACH03",
@@ -11693,7 +11698,7 @@
       "Name": "Street Sweeper",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "ACH07",
@@ -11797,7 +11802,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "ACH20",
@@ -11884,7 +11889,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8707,
+      "Progressed": 8708,
       "Completed": 60
     }
   ],
@@ -11892,8 +11897,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-12-04T13:04:00.769343+00:00",
-  "LastChanged_Achievements": "2023-12-04T19:04:35.6102981+00:00",
+  "LastChanged_Achievements": "2023-12-04T20:04:23.0846145+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:15.6257409+00:00",
-  "LastUpdate_Ratings": "2023-12-04T18:59:15.4012103+00:00",
-  "LastUpdate_Achievements": "2023-12-04T19:04:35.6103755+00:00"
+  "LastUpdate_Ratings": "2023-12-04T19:58:48.3383899+00:00",
+  "LastUpdate_Achievements": "2023-12-04T20:04:23.0847152+00:00"
 }

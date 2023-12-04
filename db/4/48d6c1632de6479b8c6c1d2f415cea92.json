@@ -2,9 +2,9 @@
   "ID": "48d6c1632de6479b8c6c1d2f415cea92",
   "Name": "Unreachable",
   "ProductSlug": "unreachable-2339b0",
-  "Ranking_EOS_Progress": 776,
+  "Ranking_EOS_Progress": 778,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 482,
+  "Ranking_EOS_NewPlayers": 484,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2024-09-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-28T13:57:14.4680489+00:00",
-  "LastUpdate_Ratings": "2023-12-04T19:01:51.5528073+00:00",
-  "LastUpdate_Achievements": "2023-12-04T19:07:01.0885452+00:00"
+  "LastUpdate_Ratings": "2023-12-04T20:00:41.5478996+00:00",
+  "LastUpdate_Achievements": "2023-12-04T20:06:13.6211749+00:00"
 }

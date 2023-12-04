@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -2007,9 +2007,9 @@
       "ID": "ACHV_CITY",
       "SetID": "cceobco",
       "Name": "The City",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 153
+      "UsersEstimate": 162
     },
     {
       "ID": "ACHV_CYBERNETIC",
@@ -2151,9 +2151,9 @@
       "ID": "ACHV_TERMINATED2",
       "SetID": "cceobco",
       "Name": "Terminated II",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 170
+      "UsersEstimate": 178
     },
     {
       "ID": "ACHV_TERMINATED3",
@@ -2222,8 +2222,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-12-04T19:09:22.5245376+00:00",
+  "LastChanged_Achievements": "2023-12-04T20:08:51.8265043+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:12.3461317+00:00",
-  "LastUpdate_Ratings": "2023-12-04T18:59:26.0092478+00:00",
-  "LastUpdate_Achievements": "2023-12-04T19:09:22.524559+00:00"
+  "LastUpdate_Ratings": "2023-12-04T19:58:55.9557785+00:00",
+  "LastUpdate_Achievements": "2023-12-04T20:08:51.8265312+00:00"
 }

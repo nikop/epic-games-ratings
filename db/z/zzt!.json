@@ -4,8 +4,8 @@
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
     "PcReleaseDate": "1991-01-15T12:31:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3463,
+  "EOS_Progressed": 3465,
   "EOS_Completed": 162,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 4.68,
   "EosHistory": [
@@ -5919,6 +5919,11 @@
       "Time": "2023-12-04T07:03:14.9926894+00:00",
       "NumProgressed": 3463,
       "NumCompleted": 162
+    },
+    {
+      "Time": "2023-12-04T20:03:56.3652766+00:00",
+      "NumProgressed": 3465,
+      "NumCompleted": 162
     }
   ],
   "TotalAchievements": 5,
@@ -5930,7 +5935,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 3463
+      "UsersEstimate": 3465
     },
     {
       "ID": "2",
@@ -5938,7 +5943,7 @@
       "Name": "Traveler",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "3",
@@ -5969,7 +5974,7 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 3463,
+      "Progressed": 3465,
       "Completed": 162
     }
   ],
@@ -5977,8 +5982,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-12-04T19:04:02.9403578+00:00",
+  "LastChanged_Achievements": "2023-12-04T20:03:56.3652762+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:26.8981896+00:00",
-  "LastUpdate_Ratings": "2023-12-04T19:01:43.7379758+00:00",
-  "LastUpdate_Achievements": "2023-12-04T19:04:02.9404004+00:00"
+  "LastUpdate_Ratings": "2023-12-04T20:00:35.9907149+00:00",
+  "LastUpdate_Achievements": "2023-12-04T20:03:56.3653158+00:00"
 }

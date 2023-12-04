@@ -5077,10 +5077,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6468,
       "NumberOfAwardsMax": 2623
+    },
+    {
+      "Time": "2023-12-04T20:03:30.1376836+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6476,
+      "NumberOfAwardsMax": 2623
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6468,
+  "NumberOfAwards": 6476,
   "NumberOfAwardsMax": 2623,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5124,7 +5130,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 395
+      "Count": 403
     },
     {
       "Text": "This game has a Creative Community",
@@ -5151,9 +5157,9 @@
       "Count": 396
     }
   ],
-  "EOS_Progressed": 234769,
+  "EOS_Progressed": 234799,
   "EOS_Completed": 557,
-  "EOS_NewPlayers": 5245,
+  "EOS_NewPlayers": 5232,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -21361,6 +21367,11 @@
       "Time": "2023-12-04T19:09:23.6500042+00:00",
       "NumProgressed": 234769,
       "NumCompleted": 557
+    },
+    {
+      "Time": "2023-12-04T20:08:52.7541888+00:00",
+      "NumProgressed": 234799,
+      "NumCompleted": 557
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21557,7 +21568,7 @@
       "Name": "First of Many",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -21771,9 +21782,9 @@
       "ID": "DLC1_Defeat_OneTrueKing",
       "SetID": "bkoie00",
       "Name": "Regicide",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 75,
-      "UsersEstimate": 98
+      "UsersEstimate": 112
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -21812,22 +21823,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 234769,
+      "Progressed": 234799,
       "Completed": 557
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 13934,
+      "Progressed": 13964,
       "Completed": 195
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-12-04T18:03:03.0743341+00:00",
-  "LastChanged_Achievements": "2023-12-04T19:09:23.6500039+00:00",
+  "LastChanged": "2023-12-04T20:03:30.1376834+00:00",
+  "LastChanged_Achievements": "2023-12-04T20:08:52.7541883+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-04T19:03:28.5218161+00:00",
-  "LastUpdate_Achievements": "2023-12-04T19:09:23.6501244+00:00"
+  "LastUpdate_Ratings": "2023-12-04T20:03:30.137684+00:00",
+  "LastUpdate_Achievements": "2023-12-04T20:08:52.7543293+00:00"
 }

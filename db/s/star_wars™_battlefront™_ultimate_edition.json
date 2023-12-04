@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -5012,9 +5012,9 @@
       "ID": "achievement_47",
       "SetID": "cemm4l8",
       "Name": "Greed can be a very powerful ally",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 60,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_48",
@@ -5203,8 +5203,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-04T19:10:27.8827526+00:00",
+  "LastChanged_Achievements": "2023-12-04T20:09:51.9426608+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:10.1536923+00:00",
-  "LastUpdate_Ratings": "2023-12-04T19:01:42.9686254+00:00",
-  "LastUpdate_Achievements": "2023-12-04T19:10:27.8828104+00:00"
+  "LastUpdate_Ratings": "2023-12-04T20:00:35.4369777+00:00",
+  "LastUpdate_Achievements": "2023-12-04T20:09:51.9427308+00:00"
 }

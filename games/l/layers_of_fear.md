@@ -9,8 +9,8 @@
 | A piece of the story | 60.00% | ~62 |
 | It's covered up for a reason | 46.00% | ~48 |
 | Do what you have to | 46.00% | ~48 |
-| The artist’s impression | 45.00% | ~47 |
-| Scraps of love | 44.00% | ~46 |
+| The artist’s impression | 46.00% | ~48 |
+| Scraps of love | 45.00% | ~47 |
 | Refuse to look | 38.00% | ~40 |
 | Sign of weakness | 38.00% | ~40 |
 | Finished it | 29.00% | ~30 |

@@ -6,37 +6,38 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~10,695 |
-| It wakes | 1.00% | ~10,695 |
-| Skillful | 1.00% | ~10,695 |
-| Not half bad | 0.90% | ~9,626 |
-| Apt Survivor | 0.80% | ~8,556 |
-| Survival Treasures | 0.80% | ~8,556 |
-| I | 0.80% | ~8,556 |
-| Make Some Noise | 0.80% | ~8,556 |
-| Handyman | 0.70% | ~7,487 |
-| Sorted | 0.70% | ~7,487 |
-| Resurgence | 0.70% | ~7,487 |
-| The Grand Sacrifice | 0.60% | ~6,417 |
-| No one left behind | 0.60% | ~6,417 |
-| Medic | 0.60% | ~6,417 |
-| Bloody Millionaire | 0.60% | ~6,417 |
-| Healthy Obsession | 0.60% | ~6,417 |
-| Preemptive Strike | 0.60% | ~6,417 |
-| Humanitarian | 0.60% | ~6,417 |
-| Agonizing Escape | 0.50% | ~5,348 |
-| Backdoor Escape | 0.50% | ~5,348 |
-| I've got your back | 0.50% | ~5,348 |
-| Perfect Escape | 0.50% | ~5,348 |
-| Perfect Killing | 0.50% | ~5,348 |
-| Risk it all | 0.50% | ~5,348 |
-| II | 0.50% | ~5,348 |
-| Close Shave | 0.50% | ~5,348 |
-| Apt Killer | 0.40% | ~4,278 |
-| Vulture | 0.40% | ~4,278 |
-| III | 0.40% | ~4,278 |
-| Engineer | 0.40% | ~4,278 |
-| Wounded Healer | 0.40% | ~4,278 |
+| Zealous | 1.00% | ~10,697 |
+| It wakes | 1.00% | ~10,697 |
+| Skillful | 1.00% | ~10,697 |
+| Not half bad | 0.90% | ~9,628 |
+| Make Some Noise | 0.90% | ~9,628 |
+| Apt Survivor | 0.80% | ~8,558 |
+| Survival Treasures | 0.80% | ~8,558 |
+| I | 0.80% | ~8,558 |
+| Handyman | 0.70% | ~7,488 |
+| Sorted | 0.70% | ~7,488 |
+| Resurgence | 0.70% | ~7,488 |
+| The Grand Sacrifice | 0.60% | ~6,418 |
+| No one left behind | 0.60% | ~6,418 |
+| Medic | 0.60% | ~6,418 |
+| Bloody Millionaire | 0.60% | ~6,418 |
+| Healthy Obsession | 0.60% | ~6,418 |
+| Preemptive Strike | 0.60% | ~6,418 |
+| Humanitarian | 0.60% | ~6,418 |
+| Agonizing Escape | 0.50% | ~5,349 |
+| Backdoor Escape | 0.50% | ~5,349 |
+| I've got your back | 0.50% | ~5,349 |
+| Perfect Escape | 0.50% | ~5,349 |
+| Perfect Killing | 0.50% | ~5,349 |
+| Risk it all | 0.50% | ~5,349 |
+| II | 0.50% | ~5,349 |
+| Wounded Healer | 0.50% | ~5,349 |
+| Close Shave | 0.50% | ~5,349 |
+| Apt Killer | 0.40% | ~4,279 |
+| Vulture | 0.40% | ~4,279 |
+| III | 0.40% | ~4,279 |
+| Engineer | 0.40% | ~4,279 |
+| Lifting The Fog | 0.40% | ~4,279 |
 | Blood on your hands | 0.30% | ~3,209 |
 | Escape Artist | 0.30% | ~3,209 |
 | Nerves of steel | 0.30% | ~3,209 |
@@ -52,7 +53,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Raccoon City Recruit | 0.30% | ~3,209 |
 | With Scars to Show | 0.30% | ~3,209 |
 | Flight to Freedom | 0.30% | ~3,209 |
-| Lifting The Fog | 0.30% | ~3,209 |
 | Chorus of Chaos | 0.30% | ~3,209 |
 | Second Act | 0.30% | ~3,209 |
 | A bite for the Entity | 0.20% | ~2,139 |
@@ -68,6 +68,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Serial Killer | 0.20% | ~2,139 |
 | Escaping the Nightmare | 0.20% | ~2,139 |
 | Holiday Get-Together | 0.20% | ~2,139 |
+| Game Over | 0.20% | ~2,139 |
 | Near-Death Experience | 0.20% | ~2,139 |
 | Campbell's Chapel Legacy | 0.20% | ~2,139 |
 | Ancestor's Rite | 0.20% | ~2,139 |
@@ -75,6 +76,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Shrine Apparatus | 0.20% | ~2,139 |
 | Cutting Out | 0.20% | ~2,139 |
 | Outrun Evil | 0.20% | ~2,139 |
+| Broken Bodies | 0.20% | ~2,139 |
 | Grim Pilgrimage | 0.20% | ~2,139 |
 | Selfless Survival | 0.20% | ~2,139 |
 | End of Days | 0.20% | ~2,139 |
@@ -130,7 +132,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Milk 'n' Cookies | 0.10% | ~1,070 |
 | Happy Holidays | 0.10% | ~1,070 |
 | I Want to Play a Game | 0.10% | ~1,070 |
-| Game Over | 0.10% | ~1,070 |
 | Adept Pig | 0.10% | ~1,070 |
 | Adept Tapp | 0.10% | ~1,070 |
 | Party Crasher | 0.10% | ~1,070 |
@@ -162,7 +163,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Tools of the Trade | 0.10% | ~1,070 |
 | Expert Generalist | 0.10% | ~1,070 |
 | Skilled Generalist | 0.10% | ~1,070 |
-| Broken Bodies | 0.10% | ~1,070 |
 | Bloodbath | 0.10% | ~1,070 |
 | Adept Oni | 0.10% | ~1,070 |
 | Bodyguard | 0.10% | ~1,070 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Joke’s On You | 0.10% | ~1,070 |
 | Adept Good Guy | 0.10% | ~1,070 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,069,529 (Ranked 14)  
+Progressed: 1,069,723 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -467,10 +467,10 @@ Completed: 61 (0.01%) (Ranked 345)
 | 2023-12-01 | 1,059,298 | 61 |
 | 2023-12-02 | 1,062,340 | 61 |
 | 2023-12-03 | 1,067,390 | 61 |
-| 2023-12-04 | 1,069,529 | 61 |
+| 2023-12-04 | 1,069,723 | 61 |
 ## Awards
 Max (Diverse Characters): 37,218  (Ranked 15)  
-Sum: 282,837 (Ranked 12)  
+Sum: 282,885 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -480,7 +480,7 @@ Diff (max vs sum): 3
 | This game has Competitive Players | 31,715 |
 | This game is Extremely Fun | 31,369 |
 | This game has Challenging Combat | 31,271 |
-| This game has Quickly Understood Controls | 30,545 |
+| This game has Quickly Understood Controls | 30,593 |
 | This game has Amazing Storytelling | 28,884 |
 | This game has a Competitive Community | 27,610 |
 | This game has Obsessive Gameplay | 16,768 |
@@ -802,4 +802,4 @@ Diff (max vs sum): 3
 | 2023-12-01 | 4.51 | - | 37,031 | 281,537 |
 | 2023-12-02 | 4.51 | - | 37,095 | 281,803 |
 | 2023-12-03 | 4.51 | - | 37,218 | 282,346 |
-| 2023-12-04 | 4.51 | - | 37,218 | 282,837 |
+| 2023-12-04 | 4.51 | - | 37,218 | 282,885 |

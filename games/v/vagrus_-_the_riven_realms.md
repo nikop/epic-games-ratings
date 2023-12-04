@@ -36,6 +36,7 @@
 | Xevarian Gambit | 3.00% | ~6 |
 | Despised | 3.00% | ~6 |
 | A Terrible Will | 3.00% | ~6 |
+| Life... Finds a Way | 3.00% | ~6 |
 | Inquisitions of Discord | 3.00% | ~6 |
 | Supercargo | 2.00% | ~4 |
 | Talent Nurtured | 2.00% | ~4 |
@@ -43,7 +44,6 @@
 | Business As Usual | 2.00% | ~4 |
 | Delayed | 2.00% | ~4 |
 | A Real Battle | 2.00% | ~4 |
-| Life... Finds a Way | 2.00% | ~4 |
 | Insectoid Propagator | 2.00% | ~4 |
 | Making Contact | 1.00% | ~2 |
 | Watcher | 1.00% | ~2 |

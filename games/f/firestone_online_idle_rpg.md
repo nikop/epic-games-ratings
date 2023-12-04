@@ -5,29 +5,29 @@ Rating: 4.05 (Ranked 991)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,821 |
-| World Map | 78.00% | ~2,366 |
-| Temple of Eternals | 57.00% | ~1,729 |
-| Prestigious | 53.00% | ~1,607 |
-| Fellowship Power | 42.00% | ~1,274 |
+| Victor | 93.00% | ~2,823 |
+| World Map | 78.00% | ~2,367 |
+| Temple of Eternals | 57.00% | ~1,730 |
+| Prestigious | 53.00% | ~1,609 |
+| Fellowship Power | 42.00% | ~1,275 |
 | Guild Power | 24.00% | ~728 |
 | Prestigious x10 | 21.00% | ~637 |
 | Full Party | 20.00% | ~607 |
-| The game is on | 19.00% | ~576 |
+| The game is on | 19.00% | ~577 |
 | Exotic Merchant | 17.00% | ~516 |
-| Dragon Clicker | 16.00% | ~485 |
+| Dragon Clicker | 16.00% | ~486 |
 | Inspection | 15.00% | ~455 |
 | Miner Clicker | 15.00% | ~455 |
 | Enlightenment | 14.00% | ~425 |
 | Hero inspection | 14.00% | ~425 |
-| Dragon Master | 13.00% | ~394 |
-| Lieutenant | 13.00% | ~394 |
+| Dragon Master | 13.00% | ~395 |
+| Lieutenant | 13.00% | ~395 |
 | Natural Talent | 12.00% | ~364 |
 | Superior | 12.00% | ~364 |
 | The Unstoppable | 12.00% | ~364 |
 | Milestone collector | 11.00% | ~334 |
 | Mysterious Rock | 11.00% | ~334 |
-| Scientist | 10.00% | ~303 |
+| Scientist | 10.00% | ~304 |
 | Challenger | 9.00% | ~273 |
 | Daily Quest Completionist | 9.00% | ~273 |
 | Doing My Part | 9.00% | ~273 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 991)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,033 (Ranked 212)  
+Progressed: 3,035 (Ranked 212)  
 Completed: 2 (0.07%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,11 +304,11 @@ Completed: 2 (0.07%) (Ranked 306)
 | 2023-12-01 | 2,917 | 2 |
 | 2023-12-02 | 2,955 | 2 |
 | 2023-12-03 | 3,010 | 2 |
-| 2023-12-04 | 3,033 | 2 |
+| 2023-12-04 | 3,035 | 2 |
 ## Awards
-Max (Great for Beginners): 36  (Ranked 475)  
+Max (Great for Beginners): 36  (Ranked 476)  
 Sum: 137 (Ranked 432)  
-Diff (max vs sum): 43  
+Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |

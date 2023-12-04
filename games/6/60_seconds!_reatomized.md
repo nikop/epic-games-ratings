@@ -5,32 +5,32 @@ Rating: 4.54 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 94.00% | ~5,370 |
-| I will survive! | 93.00% | ~5,313 |
-| All thumbs | 92.00% | ~5,256 |
-| Home, sweet home | 91.00% | ~5,199 |
-| Survivalist | 90.00% | ~5,142 |
-| One way ticket | 85.00% | ~4,856 |
-| Last man standing | 80.00% | ~4,570 |
-| Family guy | 77.00% | ~4,399 |
-| Out of the Bag | 76.00% | ~4,342 |
-| The Dark Side | 71.00% | ~4,056 |
+| Prepper | 94.00% | ~5,371 |
+| I will survive! | 93.00% | ~5,314 |
+| All thumbs | 92.00% | ~5,257 |
+| Home, sweet home | 91.00% | ~5,200 |
+| Survivalist | 90.00% | ~5,143 |
+| One way ticket | 85.00% | ~4,857 |
+| Last man standing | 80.00% | ~4,571 |
+| Family guy | 77.00% | ~4,400 |
+| Out of the Bag | 76.00% | ~4,343 |
+| The Dark Side | 71.00% | ~4,057 |
 | Duck and cover! | 66.00% | ~3,771 |
-| Souper! | 65.00% | ~3,713 |
+| Souper! | 65.00% | ~3,714 |
 | 2-1-6 | 59.00% | ~3,371 |
 | Pacifist | 59.00% | ~3,371 |
-| A gift | 54.00% | ~3,085 |
-| Girl Power | 49.00% | ~2,799 |
+| A gift | 54.00% | ~3,086 |
+| Girl Power | 49.00% | ~2,800 |
 | What goes around... | 44.00% | ~2,514 |
 | Be Prepared | 38.00% | ~2,171 |
 | Unbreakable | 37.00% | ~2,114 |
-| Gotta get 'em all | 34.00% | ~1,942 |
-| This is the end | 34.00% | ~1,942 |
+| Gotta get 'em all | 34.00% | ~1,943 |
+| This is the end | 34.00% | ~1,943 |
 | Atomic drill | 32.00% | ~1,828 |
 | Disco Roach | 28.00% | ~1,600 |
 | Dawkins Residence | 22.00% | ~1,257 |
-| Rescue time! | 19.00% | ~1,085 |
-| New order | 18.00% | ~1,028 |
+| Rescue time! | 19.00% | ~1,086 |
+| New order | 18.00% | ~1,029 |
 | New species | 17.00% | ~971 |
 | A New Hope | 16.00% | ~914 |
 | Enigma | 16.00% | ~914 |
@@ -66,7 +66,7 @@ Rating: 4.54 (Ranked 529)
 | Tora! Tora! Tora! | 0.20% | ~11 |
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,713 (Ranked 187)  
+Progressed: 5,714 (Ranked 187)  
 Completed: 1 (0.02%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 1 (0.02%) (Ranked 336)
 | 2023-12-01 | 5,688 | 1 |
 | 2023-12-02 | 5,696 | 1 |
 | 2023-12-03 | 5,710 | 1 |
-| 2023-12-04 | 5,713 | 1 |
+| 2023-12-04 | 5,714 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

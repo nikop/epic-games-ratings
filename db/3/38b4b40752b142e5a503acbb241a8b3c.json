@@ -3,11 +3,11 @@
   "Name": "F1\u00AE Manager 2023",
   "ProductSlug": "f1-manager-2023",
   "Ranking_Rating": 448,
-  "Ranking_Popularity": 546,
+  "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 497,
-  "Ranking_EOS_Progress": 776,
+  "Ranking_EOS_Progress": 778,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 482,
+  "Ranking_EOS_NewPlayers": 484,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-07-31T15:00:00+00:00",
@@ -387,12 +387,18 @@
       "Rating": 4.58,
       "NumberOfAwards": 42,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2023-12-04T19:59:28.9942529+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 43,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 42,
-  "NumberOfAwardsMax": 21,
-  "MaxAwardTitle": "Diverse Characters",
+  "NumberOfAwards": 43,
+  "NumberOfAwardsMax": 22,
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
@@ -404,7 +410,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 21
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -427,9 +433,9 @@
   "FirstSeen": "2023-07-31T15:57:55.8099834+00:00",
   "FirstSeenRating": "2023-08-07T09:57:49.6862064+00:00",
   "FirstSeenAchievements": "2023-07-17T12:05:29.3439322+00:00",
-  "LastChanged": "2023-11-30T02:23:34.1867247+00:00",
-  "LastChanged_Achievements": "2023-12-04T19:06:01.7949579+00:00",
+  "LastChanged": "2023-12-04T19:59:28.9942527+00:00",
+  "LastChanged_Achievements": "2023-12-04T20:05:28.2961489+00:00",
   "LastUpdate_AppInfo": "2023-11-29T07:56:58.6837819+00:00",
-  "LastUpdate_Ratings": "2023-12-04T19:00:11.8565097+00:00",
-  "LastUpdate_Achievements": "2023-12-04T19:06:01.794962+00:00"
+  "LastUpdate_Ratings": "2023-12-04T19:59:28.9942531+00:00",
+  "LastUpdate_Achievements": "2023-12-04T20:05:28.2961515+00:00"
 }

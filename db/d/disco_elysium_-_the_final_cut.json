@@ -1520,9 +1520,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131625,
+  "EOS_Progressed": 131626,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 305,
+  "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -23830,6 +23830,11 @@
       "Time": "2023-12-04T19:07:04.3323651+00:00",
       "NumProgressed": 131625,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-04T20:06:16.041972+00:00",
+      "NumProgressed": 131626,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -23873,7 +23878,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23692
+      "UsersEstimate": 23693
     },
     {
       "ID": "ACH_COP_BAD",
@@ -23881,7 +23886,7 @@
       "Name": "Baddest Of the Bad Cops",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2632
+      "UsersEstimate": 2633
     },
     {
       "ID": "ACH_COP_BORING",
@@ -23961,7 +23966,7 @@
       "Name": "Expert Advanced Remote Viewer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2632
+      "UsersEstimate": 2633
     },
     {
       "ID": "ACH_COP_SORRY",
@@ -23993,7 +23998,7 @@
       "Name": "Recruit Detective Kuuno de Ruyter",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2632
+      "UsersEstimate": 2633
     },
     {
       "ID": "ACH_DOLORES",
@@ -24001,7 +24006,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 13162
+      "UsersEstimate": 13163
     },
     {
       "ID": "ACH_GLUTEN",
@@ -24129,7 +24134,7 @@
       "Name": "Wheel of Pleasure and Light",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2632
+      "UsersEstimate": 2633
     },
     {
       "ID": "ACH_POWERARMOR",
@@ -24160,15 +24165,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131625,
+      "Progressed": 131626,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-12-04T18:59:31.8633309+00:00",
-  "LastChanged_Achievements": "2023-12-04T19:07:04.3323646+00:00",
+  "LastChanged_Achievements": "2023-12-04T20:06:16.0419715+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:21.910323+00:00",
-  "LastUpdate_Ratings": "2023-12-04T18:59:31.8633314+00:00",
-  "LastUpdate_Achievements": "2023-12-04T19:07:04.3324788+00:00"
+  "LastUpdate_Ratings": "2023-12-04T19:59:00.3766542+00:00",
+  "LastUpdate_Achievements": "2023-12-04T20:06:16.042118+00:00"
 }

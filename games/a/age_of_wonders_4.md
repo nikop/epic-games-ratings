@@ -20,6 +20,7 @@ Rating: 4.61 (Ranked 387)
 | Seat of Power | 2.00% | ~111 |
 | In a Liege of Your Own | 2.00% | ~111 |
 | Intimidation Tactics | 2.00% | ~111 |
+| Tipping the Scales | 2.00% | ~111 |
 | Freed Lands of Manuhari | 2.00% | ~111 |
 | Chaos Surge | 2.00% | ~111 |
 | Return of the Wizard King | 1.00% | ~56 |
@@ -32,27 +33,26 @@ Rating: 4.61 (Ranked 387)
 | Fiery Friend | 1.00% | ~56 |
 | Impenetrable Fortress | 1.00% | ~56 |
 | Here be Dragons | 1.00% | ~56 |
-| Tipping the Scales | 1.00% | ~56 |
+| Blood of the Dragon | 1.00% | ~56 |
 | Mighty Hoard | 1.00% | ~56 |
 | Sehiran Oasis | 1.00% | ~56 |
 | Prometheus Avenged | 1.00% | ~56 |
 | Seal the Deal | 1.00% | ~56 |
 | Spoils of War | 1.00% | ~56 |
 | Dawn of the Dread | 1.00% | ~56 |
-| Blood of the Dragon | 0.90% | ~50 |
+| A Conqueror's Cohort | 0.90% | ~50 |
 | The Creator | 0.80% | ~45 |
-| A Conqueror's Cohort | 0.80% | ~45 |
 | Lord of Chaos | 0.70% | ~39 |
 | The Eternal Court | 0.70% | ~39 |
 | I've Got Everything I Need Right Here | 0.60% | ~33 |
 | God Emperor | 0.60% | ~33 |
+| The Goddess of Nature | 0.60% | ~33 |
 | Eternal Lord | 0.60% | ~33 |
 | Manufactured War | 0.60% | ~33 |
 | Grexolis | 0.60% | ~33 |
 | One for All, All for One | 0.60% | ~33 |
-| The Goddess of Nature | 0.50% | ~28 |
 | Pruning for Progress | 0.50% | ~28 |
-| Duality | 0.40% | ~22 |
+| Duality | 0.50% | ~28 |
 | Betrayal Most Foul | 0.30% | ~17 |
 | Snap Out of It! | 0.20% | ~11 |
 | The Magic That Empowers Me! | 0.20% | ~11 |
@@ -265,13 +265,13 @@ Completed: 7 (0.13%) (Ranked 275)
 | 2023-12-04 | 5,568 | 7 |
 ## Awards
 Max (Great for Beginners): 35  (Ranked 481)  
-Sum: 84 (Ranked 462)  
+Sum: 85 (Ranked 462)  
 Diff (max vs sum): 19  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 35 |
 | This game has Diverse Characters | 29 |
-| This game is Extremely Fun | 20 |
+| This game is Extremely Fun | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -342,3 +342,4 @@ Diff (max vs sum): 19
 | 2023-11-27 | 4.61 | 35 | 61 |
 | 2023-11-28 | 4.61 | 35 | 81 |
 | 2023-11-29 | 4.61 | 35 | 84 |
+| 2023-12-04 | 4.61 | 35 | 85 |

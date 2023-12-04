@@ -155,9 +155,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63266,
+  "EOS_Progressed": 63293,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 4375,
+  "EOS_NewPlayers": 4346,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2320,6 +2320,11 @@
       "Time": "2023-12-04T19:04:31.0289979+00:00",
       "NumProgressed": 63266,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-12-04T20:04:19.5595756+00:00",
+      "NumProgressed": 63293,
+      "NumCompleted": 55
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -2332,7 +2337,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 23408
+      "UsersEstimate": 23418
     },
     {
       "ID": "Achievement_10",
@@ -2364,7 +2369,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "Achievement_14",
@@ -2372,7 +2377,7 @@
       "Name": "Gardener of Lango",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "Achievement_15",
@@ -2420,7 +2425,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 17082
+      "UsersEstimate": 17089
     },
     {
       "ID": "Achievement_20",
@@ -2444,7 +2449,7 @@
       "Name": "Spiritualist of the Sands",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "Achievement_23",
@@ -2460,7 +2465,7 @@
       "Name": "Custodian of Scrollroads",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "Achievement_25",
@@ -2508,7 +2513,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 7592
+      "UsersEstimate": 7595
     },
     {
       "ID": "Achievement_30",
@@ -2556,7 +2561,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5061
+      "UsersEstimate": 5063
     },
     {
       "ID": "Achievement_5",
@@ -2564,7 +2569,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3796
+      "UsersEstimate": 3798
     },
     {
       "ID": "Achievement_6",
@@ -2572,7 +2577,7 @@
       "Name": "The Red-Haired Enigma",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "Achievement_7",
@@ -2580,7 +2585,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "Achievement_8",
@@ -2588,7 +2593,7 @@
       "Name": "House In Order",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "Achievement_9",
@@ -2596,14 +2601,14 @@
       "Name": "Shielded by L\u00FFs",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     }
   ],
   "AchievementSets": [
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 63266,
+      "Progressed": 63293,
       "Completed": 55
     }
   ],
@@ -2611,8 +2616,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-04T17:03:16.430854+00:00",
-  "LastChanged_Achievements": "2023-12-04T19:04:31.0289976+00:00",
+  "LastChanged_Achievements": "2023-12-04T20:04:19.5595751+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:03:15.0842163+00:00",
-  "LastUpdate_Ratings": "2023-12-04T19:03:04.3226374+00:00",
-  "LastUpdate_Achievements": "2023-12-04T19:04:31.0290457+00:00"
+  "LastUpdate_Ratings": "2023-12-04T20:02:51.7657237+00:00",
+  "LastUpdate_Achievements": "2023-12-04T20:04:19.559605+00:00"
 }

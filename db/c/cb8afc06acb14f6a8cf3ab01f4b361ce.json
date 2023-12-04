@@ -389,9 +389,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 323925,
+  "EOS_Progressed": 323948,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4009,
+  "EOS_NewPlayers": 4006,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8389,6 +8389,11 @@
       "Time": "2023-12-04T19:07:25.6267185+00:00",
       "NumProgressed": 323925,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-04T20:06:32.6117656+00:00",
+      "NumProgressed": 323948,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -8401,7 +8406,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6478
+      "UsersEstimate": 6479
     },
     {
       "ID": "S02_BRDA",
@@ -8409,7 +8414,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6478
+      "UsersEstimate": 6479
     },
     {
       "ID": "S03_OTWA",
@@ -8713,14 +8718,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2915
+      "UsersEstimate": 2916
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 323925,
+      "Progressed": 323948,
       "Completed": 4
     }
   ],
@@ -8728,8 +8733,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-02T08:58:54.6895718+00:00",
-  "LastChanged_Achievements": "2023-12-04T19:07:25.6267182+00:00",
+  "LastChanged_Achievements": "2023-12-04T20:06:32.6117651+00:00",
   "LastUpdate_AppInfo": "2023-11-30T19:57:08.777578+00:00",
-  "LastUpdate_Ratings": "2023-12-04T19:01:00.36202+00:00",
-  "LastUpdate_Achievements": "2023-12-04T19:07:25.6267719+00:00"
+  "LastUpdate_Ratings": "2023-12-04T20:00:05.0790119+00:00",
+  "LastUpdate_Achievements": "2023-12-04T20:06:32.611832+00:00"
 }

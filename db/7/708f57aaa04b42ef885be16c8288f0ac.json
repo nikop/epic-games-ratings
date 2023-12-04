@@ -189,9 +189,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7417,
+  "EOS_Progressed": 7418,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 558,
+  "EOS_NewPlayers": 556,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5529,6 +5529,11 @@
       "Time": "2023-12-04T19:10:08.4134294+00:00",
       "NumProgressed": 7417,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-04T20:09:36.8843653+00:00",
+      "NumProgressed": 7418,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5581,7 +5586,7 @@
       "Name": "Connection Lost",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "Eavesdropper",
@@ -5733,7 +5738,7 @@
       "Name": "The Old-School Way",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "TheQuarterback",
@@ -5812,7 +5817,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7417,
+      "Progressed": 7418,
       "Completed": 14
     }
   ],
@@ -5820,8 +5825,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-04T17:58:34.5541174+00:00",
-  "LastChanged_Achievements": "2023-12-04T19:10:08.413429+00:00",
+  "LastChanged_Achievements": "2023-12-04T20:09:36.8843649+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-04T18:59:11.3034034+00:00",
-  "LastUpdate_Achievements": "2023-12-04T19:10:08.4134853+00:00"
+  "LastUpdate_Ratings": "2023-12-04T19:58:45.0904073+00:00",
+  "LastUpdate_Achievements": "2023-12-04T20:09:36.8844125+00:00"
 }

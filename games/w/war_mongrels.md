@@ -24,7 +24,7 @@ Number of Ratings: 34  (23.09.2022)
 | Opportunities | 31.00% | ~203 |
 | The Horror | 29.00% | ~190 |
 | The Difference | 27.00% | ~177 |
-| Vengeance | 25.00% | ~164 |
+| Vengeance | 26.00% | ~171 |
 | It's Just an Accident | 25.00% | ~164 |
 | Broken Hopes | 23.00% | ~151 |
 | Bullseye! | 23.00% | ~151 |
@@ -32,7 +32,7 @@ Number of Ratings: 34  (23.09.2022)
 | Sorrow | 20.00% | ~131 |
 | Atonement | 18.00% | ~118 |
 | Food Massacre | 18.00% | ~118 |
-| Helping Hand | 16.00% | ~105 |
+| Helping Hand | 17.00% | ~112 |
 | Without a Second Thought | 15.00% | ~98 |
 | Collectibles of Chapter III | 14.00% | ~92 |
 | Collectibles of Chapter IV | 14.00% | ~92 |

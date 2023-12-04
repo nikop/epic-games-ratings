@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 3658,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3359,7 +3359,7 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 17601,
+  "EOS_Progressed": 17602,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 97,
   "EOS_NewCompleters": -5,
@@ -14754,6 +14754,11 @@
       "Time": "2023-12-04T18:08:46.9060981+00:00",
       "NumProgressed": 17601,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-04T20:08:51.8042678+00:00",
+      "NumProgressed": 17602,
+      "NumCompleted": 49
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -14852,9 +14857,9 @@
       "ID": "WinFirstGame",
       "SetID": "cfbk359",
       "Name": "First Real Expedition",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 53
     },
     {
       "ID": "WinHard",
@@ -15237,15 +15242,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17601,
+      "Progressed": 17602,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-04T17:58:07.9409357+00:00",
-  "LastChanged_Achievements": "2023-12-04T19:09:22.3714361+00:00",
+  "LastChanged_Achievements": "2023-12-04T20:08:51.8042673+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:14.3162798+00:00",
-  "LastUpdate_Ratings": "2023-12-04T18:58:30.1504302+00:00",
-  "LastUpdate_Achievements": "2023-12-04T19:09:22.3715131+00:00"
+  "LastUpdate_Ratings": "2023-12-04T19:58:15.984585+00:00",
+  "LastUpdate_Achievements": "2023-12-04T20:08:51.8043983+00:00"
 }

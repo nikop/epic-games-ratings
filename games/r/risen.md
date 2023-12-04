@@ -29,13 +29,13 @@ Rating: 4.57 (Ranked 478)
 | Master detective | 25.00% | ~15 |
 | Little hero | 21.00% | ~13 |
 | Pandora's box | 21.00% | ~13 |
+| Ghost hunter | 21.00% | ~13 |
 | Peacekeeper | 21.00% | ~13 |
 | Sidelined | 21.00% | ~13 |
-| Ghost hunter | 20.00% | ~12 |
 | Defender | 18.00% | ~11 |
+| Workaholic | 18.00% | ~11 |
 | Fence | 18.00% | ~11 |
 | Showdown | 16.00% | ~10 |
-| Workaholic | 16.00% | ~10 |
 | Master thief | 15.00% | ~9 |
 | Freedom fighter | 13.00% | ~8 |
 | Safecracker | 13.00% | ~8 |

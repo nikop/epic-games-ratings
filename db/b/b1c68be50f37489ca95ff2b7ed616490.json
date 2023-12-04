@@ -4,7 +4,7 @@
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 494,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -338,25 +338,25 @@
       "ID": "12",
       "SetID": "6bgoh8g",
       "Name": "Time to rob a bank!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "13",
       "SetID": "6bgoh8g",
       "Name": "A leap of faith to be sure!",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "14",
       "SetID": "6bgoh8g",
       "Name": "End of the line, everyone disembark",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "15",
@@ -537,8 +537,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-12-04T19:07:19.6147062+00:00",
+  "LastChanged_Achievements": "2023-12-04T20:06:28.0252591+00:00",
   "LastUpdate_AppInfo": "2023-11-30T02:19:33.8334712+00:00",
-  "LastUpdate_Ratings": "2023-12-04T19:03:05.0838327+00:00",
-  "LastUpdate_Achievements": "2023-12-04T19:07:19.6147254+00:00"
+  "LastUpdate_Ratings": "2023-12-04T20:02:52.3176186+00:00",
+  "LastUpdate_Achievements": "2023-12-04T20:06:28.0252749+00:00"
 }

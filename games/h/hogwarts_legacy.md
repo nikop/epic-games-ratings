@@ -6,14 +6,14 @@ Rating: 4.76 (Ranked 129)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 16.00% | ~48,629 |
-| First Class Student | 15.00% | ~45,589 |
+| First Class Student | 15.00% | ~45,590 |
 | Troll with the Punches | 14.00% | ~42,550 |
 | A Keen Sense of Spell | 13.00% | ~39,511 |
 | That's a Keeper | 13.00% | ~39,511 |
-| The Hallowed Hero | 12.00% | ~36,471 |
-| The Defender of Dragons | 12.00% | ~36,471 |
-| Loom for Improvement | 12.00% | ~36,471 |
-| A Talent for Spending | 12.00% | ~36,471 |
+| The Hallowed Hero | 12.00% | ~36,472 |
+| The Defender of Dragons | 12.00% | ~36,472 |
+| Loom for Improvement | 12.00% | ~36,472 |
+| A Talent for Spending | 12.00% | ~36,472 |
 | Grappling with a Graphorn | 11.00% | ~33,432 |
 | The One Who Mastered Memories | 11.00% | ~33,432 |
 | The Hero of Hogwarts | 11.00% | ~33,432 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 129)
 | The Nature of the Beast | 0.70% | ~2,128 |
 | Collector's Edition | 0.30% | ~912 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,929 (Ranked 54)  
+Progressed: 303,930 (Ranked 54)  
 Completed: 521 (0.17%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,10 +279,10 @@ Completed: 521 (0.17%) (Ranked 268)
 | 2023-12-01 | 303,730 | 520 |
 | 2023-12-02 | 303,789 | 520 |
 | 2023-12-03 | 303,892 | 521 |
-| 2023-12-04 | 303,929 | 521 |
+| 2023-12-04 | 303,930 | 521 |
 ## Awards
 Max (Character Customization): 24,909  (Ranked 17)  
-Sum: 49,873 (Ranked 30)  
+Sum: 49,885 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -291,10 +291,10 @@ Diff (max vs sum): -13
 | This game is Great for Beginners | 1,376 |
 | This game has Amazing Storytelling | 1,332 |
 | This game has Diverse Characters | 1,330 |
+| This game is Extremely Fun | 1,295 |
 | This game is Relaxing | 1,294 |
-| This game is Extremely Fun | 1,290 |
 | This game has Amazing Characters | 1,259 |
-| This game is Highly Recommended | 1,229 |
+| This game is Highly Recommended | 1,236 |
 | This game has Quickly Understood Controls | 1,191 |
 | This game has Beautiful Visuals | 1,080 |
 | This game has a Creative Community | 835 |
@@ -556,4 +556,4 @@ Diff (max vs sum): -13
 | 2023-12-01 | 4.76 | 24,816 | 49,628 |
 | 2023-12-02 | 4.76 | 24,816 | 49,655 |
 | 2023-12-03 | 4.76 | 24,854 | 49,759 |
-| 2023-12-04 | 4.76 | 24,909 | 49,873 |
+| 2023-12-04 | 4.76 | 24,909 | 49,885 |

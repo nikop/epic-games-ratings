@@ -25,6 +25,7 @@
 | Caught Ya! | 10.00% | ~2 |
 | Safe Investment | 10.00% | ~2 |
 | Bank of Me | 10.00% | ~2 |
+| Honey, I'm Home | 10.00% | ~2 |
 | Home Sweet Home | 10.00% | ~2 |
 | The Journey Continues | 10.00% | ~2 |
 | Crunch Time | 5.00% | ~1 |
@@ -32,7 +33,6 @@
 | Shrub-Seeing: Lights in the sky | 5.00% | ~1 |
 | Shrub-Seeing: Ancient Extractor | 5.00% | ~1 |
 | Shrub-Seeing: Seen it all! | 5.00% | ~1 |
-| Honey, I'm Home | 5.00% | ~1 |
 | Return to sender | 5.00% | ~1 |
 | Fantastic Fungi | 5.00% | ~1 |
 | Vandal | 5.00% | ~1 |

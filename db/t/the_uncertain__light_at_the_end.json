@@ -6,8 +6,8 @@
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 306,
-  "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 482,
+  "Ranking_EOS_Completed": 165,
+  "Ranking_EOS_NewPlayers": 423,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -83,11 +83,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 574,
+  "EOS_Progressed": 575,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.05,
+  "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:44.5175392+00:00",
@@ -948,6 +948,11 @@
       "Time": "2023-11-27T19:05:01.0022226+00:00",
       "NumProgressed": 574,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-04T20:03:38.114426+00:00",
+      "NumProgressed": 575,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -975,7 +980,7 @@
       "Name": "The Butterfly Effect",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Caring_Soul",
@@ -999,7 +1004,7 @@
       "Name": "Echoes of the Past",
       "Percentage": 2,
       "XP": 115,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Enjoyable_Read",
@@ -1015,7 +1020,7 @@
       "Name": "Casual Gamer",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Graffiti_Artist",
@@ -1023,7 +1028,7 @@
       "Name": "Urban Scrawl",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Hacker",
@@ -1071,7 +1076,7 @@
       "Name": "Marvellous Toys",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Left_Behind",
@@ -1183,14 +1188,14 @@
       "Name": "Unexpected Consequences",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     }
   ],
   "AchievementSets": [
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 574,
+      "Progressed": 575,
       "Completed": 6
     }
   ],
@@ -1198,8 +1203,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-12-04T19:03:38.9929722+00:00",
+  "LastChanged_Achievements": "2023-12-04T20:03:38.1144256+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:31.6928457+00:00",
-  "LastUpdate_Ratings": "2023-12-04T19:03:30.2150504+00:00",
-  "LastUpdate_Achievements": "2023-12-04T19:03:38.9930035+00:00"
+  "LastUpdate_Ratings": "2023-12-04T20:03:31.3856039+00:00",
+  "LastUpdate_Achievements": "2023-12-04T20:03:38.1144519+00:00"
 }

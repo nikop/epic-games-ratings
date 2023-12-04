@@ -5,34 +5,34 @@ Rating: 4.55 (Ranked 509)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 86.00% | ~416 |
+| Huzza, he's back. | 86.00% | ~417 |
 | And again, and again, and... | 64.00% | ~310 |
-| Burn, Elysium, burn! | 63.00% | ~305 |
-| Kuvaq Minigame-Master | 62.00% | ~300 |
-| FunScore | 55.00% | ~266 |
+| Kuvaq Minigame-Master | 62.00% | ~301 |
+| Burn, Elysium, burn! | 62.00% | ~301 |
+| FunScore | 55.00% | ~267 |
 | Funtime's over | 53.00% | ~257 |
 | Chunky | 50.00% | ~242 |
-| Boat of love, boat of love | 49.00% | ~237 |
-| Shall we play a game? | 48.00% | ~232 |
+| Boat of love, boat of love | 49.00% | ~238 |
+| Shall we play a game? | 48.00% | ~233 |
 | School's out | 44.00% | ~213 |
 | Scaffolding Expert | 37.00% | ~179 |
 | Elysian Minigame-Master | 37.00% | ~179 |
-| Sole Music | 36.00% | ~174 |
-| Portals come in packs | 30.00% | ~145 |
-| No man left behind! | 29.00% | ~140 |
+| Sole Music | 36.00% | ~175 |
+| Portals come in packs | 30.00% | ~146 |
+| No man left behind! | 29.00% | ~141 |
 | Photo Friend | 26.00% | ~126 |
 | Brainfreeze | 21.00% | ~102 |
 | And everything comes full circle. | 20.00% | ~97 |
 | Masseltov | 19.00% | ~92 |
-| Quickdraw | 16.00% | ~77 |
+| Quickdraw | 16.00% | ~78 |
 | Thuna...? | 14.00% | ~68 |
 | Monstrous Harassment | 14.00% | ~68 |
 | Heading the inverter | 14.00% | ~68 |
 | Blast from the Past | 12.00% | ~58 |
 | Play it again, Ronny | 11.00% | ~53 |
 | Paradox! | 11.00% | ~53 |
-| Goat Team | 10.00% | ~48 |
 | Weapons 101 | 9.00% | ~44 |
+| Goat Team | 9.00% | ~44 |
 | Sadist | 7.00% | ~34 |
 | The customer is always right | 7.00% | ~34 |
 | Every man for himself! | 6.00% | ~29 |
@@ -42,8 +42,8 @@ Rating: 4.55 (Ranked 509)
 | Distraction | 5.00% | ~24 |
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 484 (Ranked 318)  
-Completed: 7 (1.45%) (Ranked 146)  
+Progressed: 485 (Ranked 317)  
+Completed: 7 (1.44%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -128,6 +128,7 @@ Completed: 7 (1.45%) (Ranked 146)
 | 2023-11-29 | 481 | 7 |
 | 2023-12-01 | 482 | 7 |
 | 2023-12-03 | 484 | 7 |
+| 2023-12-04 | 485 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

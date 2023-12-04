@@ -91,13 +91,13 @@
 | Under Pressure | 21.00% | ~316 |
 | Last Resort | 21.00% | ~316 |
 | Hard Target | 21.00% | ~316 |
+| Saboteur | 21.00% | ~316 |
 | Last Witness | 21.00% | ~316 |
 | Well Connected | 21.00% | ~316 |
 | Fact Finder | 21.00% | ~316 |
 | Problem Solver | 21.00% | ~316 |
 | Pyromaniac | 20.00% | ~301 |
 | No One Left Behind | 20.00% | ~301 |
-| Saboteur | 20.00% | ~301 |
 | Executioner | 19.00% | ~286 |
 | Master and Commander | 19.00% | ~286 |
 | Patriot | 18.00% | ~271 |

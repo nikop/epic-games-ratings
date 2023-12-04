@@ -11,12 +11,12 @@
 | Video Saved The Radio Star | 39.00% | ~97 |
 | Hashtag Winning | 37.00% | ~92 |
 | A Woman Scorned | 28.00% | ~70 |
-| Chameleon | 21.00% | ~52 |
+| Chameleon | 22.00% | ~55 |
 | Look Mum I'm A Detective | 21.00% | ~52 |
 | Highlander | 18.00% | ~45 |
 | You Had One Job | 14.00% | ~35 |
 | Book 'em Danny | 13.00% | ~32 |
-| Poetent | 12.00% | ~30 |
+| Poetent | 13.00% | ~32 |
 | Voyeur | 11.00% | ~27 |
 | Oscar Winning Performance | 10.00% | ~25 |
 | Put A Ring On It | 10.00% | ~25 |

@@ -6,12 +6,12 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 69.00% | ~8,396 |
-| Photographer | 68.00% | ~8,274 |
-| Valley's Helper | 61.00% | ~7,422 |
+| Goofy's Investor | 69.00% | ~8,397 |
+| Photographer | 68.00% | ~8,275 |
+| Valley's Helper | 61.00% | ~7,423 |
 | Constructor | 51.00% | ~6,206 |
 | Renovator | 51.00% | ~6,206 |
-| Bestest Friend | 46.00% | ~5,597 |
+| Bestest Friend | 46.00% | ~5,598 |
 | Banker | 39.00% | ~4,746 |
 | Gardener | 31.00% | ~3,772 |
 | Generous | 25.00% | ~3,042 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Angler | 5.00% | ~608 |
 | Chit Chatter | 3.00% | ~365 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,168 (Ranked 160)  
+Progressed: 12,169 (Ranked 160)  
 Completed: 290 (2.38%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,10 +201,10 @@ Completed: 290 (2.38%) (Ranked 123)
 | 2023-12-01 | 12,084 | 288 |
 | 2023-12-02 | 12,099 | 288 |
 | 2023-12-03 | 12,149 | 289 |
-| 2023-12-04 | 12,168 | 290 |
+| 2023-12-04 | 12,169 | 290 |
 ## Awards
 Max (Great for Beginners): 1,085  (Ranked 146)  
-Sum: 7,986 (Ranked 108)  
+Sum: 7,988 (Ranked 108)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
@@ -213,9 +213,9 @@ Diff (max vs sum): 38
 | This game is Highly Recommended | 833 |
 | This game has Amazing Characters | 824 |
 | This game is Relaxing | 812 |
-| This game has Amazing Storytelling | 781 |
+| This game has Amazing Storytelling | 782 |
 | This game is Extremely Fun | 769 |
-| This game has Quickly Understood Controls | 759 |
+| This game has Quickly Understood Controls | 760 |
 | This game has a Creative Community | 682 |
 | This game has Easy Combat | 533 |
 | This game has Obsessive Gameplay | 415 |
@@ -486,4 +486,4 @@ Diff (max vs sum): 38
 | 2023-12-01 | 4.76 | - | 1,077 | 7,966 |
 | 2023-12-02 | 4.76 | - | 1,077 | 7,968 |
 | 2023-12-03 | 4.76 | - | 1,080 | 7,977 |
-| 2023-12-04 | 4.76 | - | 1,085 | 7,986 |
+| 2023-12-04 | 4.76 | - | 1,085 | 7,988 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 483,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1334,
+  "EOS_Progressed": 1335,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3113,6 +3113,11 @@
       "Time": "2023-12-04T19:10:04.8424662+00:00",
       "NumProgressed": 1334,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-04T20:09:34.147182+00:00",
+      "NumProgressed": 1335,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3172,7 +3177,7 @@
       "Name": "Double agent",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -3180,7 +3185,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "EXPERT_1",
@@ -3212,7 +3217,7 @@
       "Name": "Grave Robber",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "HEAD_BURST_1",
@@ -3220,7 +3225,7 @@
       "Name": "Head Burst",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "INDY_1",
@@ -3244,7 +3249,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "LOVE_GURU_1",
@@ -3276,7 +3281,7 @@
       "Name": "One HIT wonder",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -3300,7 +3305,7 @@
       "Name": "Paranoia",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "PRIVATE_EYE",
@@ -3348,7 +3353,7 @@
       "Name": "Savant",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "SECRET_ROOM",
@@ -3411,15 +3416,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1334,
+      "Progressed": 1335,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-04T19:10:04.8424658+00:00",
+  "LastChanged_Achievements": "2023-12-04T20:09:34.1471812+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:27.5202671+00:00",
-  "LastUpdate_Ratings": "2023-12-04T19:02:45.5524886+00:00",
-  "LastUpdate_Achievements": "2023-12-04T19:10:04.8425034+00:00"
+  "LastUpdate_Ratings": "2023-12-04T20:02:37.9942314+00:00",
+  "LastUpdate_Achievements": "2023-12-04T20:09:34.1472176+00:00"
 }
