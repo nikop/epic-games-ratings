@@ -45,7 +45,7 @@
 | 34 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.86 | 0 | 558 |
 | 44 | [Blasphemous](games/b/blasphemous.md) | 4.85 | 159 | 314 |
 | 44 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 8,105 | 47 |
-| 44 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,670 | 69 |
+| 44 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,676 | 69 |
 | 44 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 223 | 279 |
 | 44 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 167 | 310 |
 | 44 | [Subnautica](games/s/subnautica.md) | 4.85 | 758 | 178 |
@@ -128,12 +128,12 @@
 | 113 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.77 | 0 | 558 |
 | 113 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 558 |
 | 128 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 0 | 558 |
-| 128 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 16,015 | 24 |
+| 128 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 16,034 | 24 |
 | 128 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,401 | 93 |
 | 128 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,080 | 146 |
 | 128 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 1,229 | 140 |
 | 128 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 24,909 | 17 |
-| 128 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 5,193 | 71 |
+| 128 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 5,201 | 71 |
 | 128 | [Journey](games/j/journey.md) | 4.76 | 0 | 558 |
 | 128 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 558 |
 | 128 | [Legend Bowl](games/l/legend_bowl.md) | 4.76 | 0 | 558 |
@@ -868,7 +868,7 @@
 | 865 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.27 | 3,868 | 88 |
 | 865 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 20 | 551 |
 | 865 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.27 | 0 | 558 |
-| 865 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,763 | 100 |
+| 865 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,768 | 100 |
 | 865 | [RiMS Racing](games/r/rims_racing.md) | 4.27 | 0 | 558 |
 | 865 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 4.27 | 0 | 558 |
 | 872 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.26 | 0 | 558 |
@@ -938,7 +938,7 @@
 | 935 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.18 | 26 | 521 |
 | 935 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 558 |
 | 935 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,989 | 98 |
-| 935 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 213,560 | 5 |
+| 935 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 213,664 | 5 |
 | 935 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.18 | 45 | 447 |
 | 935 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 372 |
 | 942 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 97 | 369 |
@@ -966,8 +966,8 @@
 | 964 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 558 |
 | 964 | [Fangs](games/f/fangs.md) | 4.13 | 0 | 558 |
 | 964 | [Model Builder](games/m/model_builder.md) | 4.13 | 0 | 558 |
-| 967 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.11 | 0 | 558 |
-| 967 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 4.11 | 36 | 475 |
+| 964 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 4.13 | 36 | 475 |
+| 968 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.11 | 0 | 558 |
 | 969 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 100 | 363 |
 | 969 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,519 | 104 |
 | 971 | [Lake](games/l/lake.md) | 4.09 | 0 | 558 |
@@ -1010,7 +1010,7 @@
 | 1,008 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 377 | 238 |
 | 1,008 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,862 | 75 |
 | 1,008 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 0 | 558 |
-| 1,011 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 5,086 | 72 |
+| 1,011 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 5,120 | 72 |
 | 1,011 | [The Front](games/t/the_front.md) | 3.98 | 22 | 540 |
 | 1,013 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 0 | 558 |
 | 1,013 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 3.97 | 0 | 558 |

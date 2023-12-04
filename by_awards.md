@@ -4,7 +4,7 @@
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 640,589 | 4.47 | 640 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 317,164 | 4.68 | 255 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 268,167 | 4.68 | 255 |
-| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 213,560 | 4.18 | 935 |
+| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 213,664 | 4.18 | 935 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 204,778 | 4.88 | 16 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 152,577 | 4.51 | 571 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 121,788 | 4.69 | 232 |
@@ -23,7 +23,7 @@
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 20,798 | 4.89 | 11 |
 | 22 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 20,666 | 4.57 | 478 |
 | 23 | [Warframe](games/w/warframe.md) | 18,807 | 4.61 | 387 |
-| 24 | [Borderlands 2](games/b/borderlands_2.md) | 16,015 | 4.76 | 128 |
+| 24 | [Borderlands 2](games/b/borderlands_2.md) | 16,034 | 4.76 | 128 |
 | 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 15,130 | 4.60 | 422 |
 | 26 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,624 | 4.58 | 449 |
 | 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 14,075 | 4.60 | 422 |
@@ -68,10 +68,10 @@
 | 66 | [Prey](games/p/prey.md) | 5,799 | 4.63 | 351 |
 | 67 | [Rogue Company](games/r/rogue_company.md) | 5,740 | 4.30 | 842 |
 | 68 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 5,721 | 4.68 | 255 |
-| 69 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,670 | 4.85 | 44 |
+| 69 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,676 | 4.85 | 44 |
 | 70 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,589 | 4.06 | 987 |
-| 71 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 5,193 | 4.76 | 128 |
-| 72 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 5,086 | 3.98 | 1,011 |
+| 71 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 5,201 | 4.76 | 128 |
+| 72 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 5,120 | 3.98 | 1,011 |
 | 73 | [Chivalry 2](games/c/chivalry_2.md) | 4,984 | 4.60 | 422 |
 | 74 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,927 | 4.56 | 495 |
 | 75 | [Shop Titans](games/s/shop_titans.md) | 4,862 | 3.99 | 1,008 |
@@ -99,7 +99,7 @@
 | 97 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 3,079 | 4.50 | 592 |
 | 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,989 | 4.18 | 935 |
 | 99 | [Among Us](games/a/among_us.md) | 2,874 | 4.57 | 478 |
-| 100 | [RAGE 2](games/r/rage_2.md) | 2,763 | 4.27 | 865 |
+| 100 | [RAGE 2](games/r/rage_2.md) | 2,768 | 4.27 | 865 |
 | 101 | [Path of Exile](games/p/path_of_exile.md) | 2,702 | 4.61 | 387 |
 | 102 | [Remnant 2](games/r/remnant_2.md) | 2,603 | 4.75 | 147 |
 | 103 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,530 | 4.80 | 89 |
@@ -478,7 +478,7 @@
 | 475 | [DEATHLOOP](games/d/deathloop.md) | 36 | 4.54 | 529 |
 | 475 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 36 | 4.05 | 991 |
 | 475 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 36 | 4.55 | 509 |
-| 475 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 36 | 4.11 | 967 |
+| 475 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 36 | 4.13 | 964 |
 | 480 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 35 | 4.61 | 387 |
 | 480 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 35 | 4.53 | 542 |
 | 480 | [FUSER™](games/f/fuser™.md) | 35 | 4.71 | 199 |

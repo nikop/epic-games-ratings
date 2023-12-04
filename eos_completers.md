@@ -16,7 +16,7 @@
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.47% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Overloop](games/o/overloop.md) | 25.00% |
-| 17 | [The Riflemen](games/t/the_riflemen.md) | 24.36% |
+| 17 | [The Riflemen](games/t/the_riflemen.md) | 24.35% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 20 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
@@ -27,7 +27,7 @@
 | 25 | [Doodle Devil](games/d/doodle_devil.md) | 18.60% |
 | 26 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 16.67% |
 | 26 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 16.67% |
-| 28 | [Island Cities](games/i/island_cities.md) | 16.39% |
+| 28 | [Island Cities](games/i/island_cities.md) | 16.37% |
 | 29 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.47% |
 | 30 | [Remains](games/r/remains.md) | 14.55% |
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
@@ -135,8 +135,8 @@
 | 133 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.82% |
 | 134 | [Sifu](games/s/sifu.md) | 1.80% |
 | 135 | [Frogun](games/f/frogun.md) | 1.78% |
-| 136 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.77% |
-| 137 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.76% |
+| 136 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.76% |
+| 136 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.76% |
 | 138 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.63% |
 | 139 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 1.61% |
 | 140 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.59% |
@@ -774,4 +774,4 @@
 | 366 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 366 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 366 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,650 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,651 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
