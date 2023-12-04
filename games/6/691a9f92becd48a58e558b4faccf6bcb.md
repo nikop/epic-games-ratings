@@ -8,6 +8,7 @@
 | A new HOME | 2.00% | ~6 |
 | At least you tried | 2.00% | ~6 |
 | Golden Carrot | 2.00% | ~6 |
+| Naughty list | 2.00% | ~6 |
 | Silver Button | 2.00% | ~6 |
 | Silver Carrot | 2.00% | ~6 |
 | Silver Hat | 2.00% | ~6 |
@@ -15,7 +16,6 @@
 | I deliver the presents! | 1.00% | ~3 |
 | Golden Button | 1.00% | ~3 |
 | Golden Hat | 1.00% | ~3 |
-| Naughty list | 1.00% | ~3 |
 | Lesson learned | 0.70% | ~2 |
 | Good list | 0.70% | ~2 |
 | Golden Scarf | 0.70% | ~2 |

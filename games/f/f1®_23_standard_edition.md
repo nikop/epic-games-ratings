@@ -5,21 +5,21 @@ Rating: 4.68 (Ranked 255)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,669 |
-| On the Top Step | 88.00% | ~5,307 |
-| Setting up for Success | 78.00% | ~4,704 |
+| Getting on the Step | 94.00% | ~5,670 |
+| On the Top Step | 88.00% | ~5,308 |
+| Setting up for Success | 78.00% | ~4,705 |
 | Team Orders | 76.00% | ~4,584 |
-| Engineer | 56.00% | ~3,377 |
-| Familiar Faces | 49.00% | ~2,955 |
+| Engineer | 56.00% | ~3,378 |
+| Familiar Faces | 49.00% | ~2,956 |
 | Sharing the Love | 44.00% | ~2,654 |
-| Going the Extra Mile | 43.00% | ~2,593 |
+| Going the Extra Mile | 43.00% | ~2,594 |
 | Hitting a Season | 41.00% | ~2,473 |
 | A Dozen Pieces | 35.00% | ~2,111 |
 | Challenge Yourself | 34.00% | ~2,051 |
 | Making History | 32.00% | ~1,930 |
 | Network Success | 28.00% | ~1,689 |
 | Writing a new Chapter | 26.00% | ~1,568 |
-| Spring Cleaning | 24.00% | ~1,447 |
+| Spring Cleaning | 24.00% | ~1,448 |
 | Reduce | 21.00% | ~1,267 |
 | Ups and Downs | 21.00% | ~1,267 |
 | Crucial Combo | 20.00% | ~1,206 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 255)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,031 (Ranked 186)  
+Progressed: 6,032 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,10 +137,10 @@ Completed: 0 (0.00%) (Ranked 366)
 | 2023-12-01 | 5,992 | 0 |
 | 2023-12-02 | 6,006 | 0 |
 | 2023-12-03 | 6,025 | 0 |
-| 2023-12-04 | 6,031 | 0 |
+| 2023-12-04 | 6,032 | 0 |
 ## Awards
 Max (Diverse Characters): 28  (Ranked 509)  
-Sum: 144 (Ranked 429)  
+Sum: 145 (Ranked 429)  
 Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
@@ -149,7 +149,7 @@ Diff (max vs sum): 80
 | This game is Highly Recommended | 26 |
 | This game has a Competitive Community | 26 |
 | This game is Great for Quick Sessions | 24 |
-| This game is Extremely Fun | 23 |
+| This game is Extremely Fun | 24 |
 | This game has Quickly Understood Controls | 21 |
 | This game has Amazing Characters | 20 |
 ## Ratings History
@@ -240,4 +240,4 @@ Diff (max vs sum): 80
 | 2023-12-01 | 4.68 | 27 | 97 |
 | 2023-12-02 | 4.68 | 27 | 98 |
 | 2023-12-03 | 4.68 | 28 | 124 |
-| 2023-12-04 | 4.68 | 28 | 144 |
+| 2023-12-04 | 4.68 | 28 | 145 |

@@ -12867,9 +12867,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 469111,
+  "EOS_Progressed": 469147,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4324,
+  "EOS_NewPlayers": 4333,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39057,6 +39057,11 @@
       "Time": "2023-12-04T16:08:18.7308905+00:00",
       "NumProgressed": 469111,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-04T17:08:20.1091184+00:00",
+      "NumProgressed": 469147,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -39466,9 +39471,9 @@
       "ID": "achievement_blood_for_the_sky_god",
       "SetID": "8p2n7he",
       "Name": "Blood for the Sky God!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 469
     },
     {
       "ID": "achievement_breaking_the_yoke",
@@ -41971,21 +41976,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 469111,
+      "Progressed": 469147,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 469111,
+      "Progressed": 469147,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-12-04T16:01:36.3812591+00:00",
-  "LastChanged_Achievements": "2023-12-04T16:08:18.7308901+00:00",
+  "LastChanged_Achievements": "2023-12-04T17:08:20.1091181+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:21.5867549+00:00",
-  "LastUpdate_Ratings": "2023-12-04T16:01:36.3812597+00:00",
-  "LastUpdate_Achievements": "2023-12-04T16:08:18.7318967+00:00"
+  "LastUpdate_Ratings": "2023-12-04T17:01:38.9130563+00:00",
+  "LastUpdate_Achievements": "2023-12-04T17:08:20.1101627+00:00"
 }

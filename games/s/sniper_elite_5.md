@@ -6,19 +6,19 @@ Rating: 4.44 (Ranked 678)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~1,868 |
-| Confirming Suspicions | 41.00% | ~1,629 |
-| The Kraken Wakes | 37.00% | ~1,470 |
-| It's Starting to Crack | 34.00% | ~1,351 |
+| Confirming Suspicions | 41.00% | ~1,630 |
+| The Kraken Wakes | 37.00% | ~1,471 |
+| It's Starting to Crack | 34.00% | ~1,352 |
 | Change the Channel | 31.00% | ~1,232 |
 | Lord of War | 30.00% | ~1,192 |
-| Taking it back | 29.00% | ~1,152 |
+| Taking it back | 29.00% | ~1,153 |
 | Resourceful | 27.00% | ~1,073 |
 | Target America | 27.00% | ~1,073 |
 | The Kraken Sleeps | 25.00% | ~994 |
 | Liberté | 23.00% | ~914 |
 | Organ Grinder | 23.00% | ~914 |
+| Sharpshooter | 23.00% | ~914 |
 | As Quiet as a Mouse | 23.00% | ~914 |
-| Sharpshooter | 22.00% | ~874 |
 | Gunslinger | 19.00% | ~755 |
 | Explosive Efficiency | 19.00% | ~755 |
 | Climbing the Ladder | 17.00% | ~676 |
@@ -34,8 +34,8 @@ Rating: 4.44 (Ranked 678)
 | Enemy at the Gates | 14.00% | ~556 |
 | Fields of Glory | 14.00% | ~556 |
 | Set Europe Ablaze | 13.00% | ~517 |
-| Precision Is Key | 10.00% | ~397 |
-| My Little Friend | 10.00% | ~397 |
+| Precision Is Key | 10.00% | ~398 |
+| My Little Friend | 10.00% | ~398 |
 | Rigged to Blow | 9.00% | ~358 |
 | Herr Today, Gone Tomorrow | 7.00% | ~275 |
 | Operation Foxley | 6.00% | ~236 |
@@ -56,14 +56,14 @@ Rating: 4.44 (Ranked 678)
 | If You Go Down To The Woods Today | 3.00% | ~118 |
 | Fight Another Day | 3.00% | ~118 |
 | Shipbreaker | 3.00% | ~118 |
-| Out of Scope | 2.00% | ~79 |
-| Eagle Eyed | 2.00% | ~79 |
-| Up close and personal | 2.00% | ~79 |
-| Can't Outrun A Bullet | 2.00% | ~79 |
-| Führerious Repetition | 2.00% | ~78 |
-| Reich To The Point | 2.00% | ~78 |
-| Covert Elimination | 2.00% | ~78 |
-| Sink or Swim | 2.00% | ~78 |
+| Out of Scope | 2.00% | ~80 |
+| Eagle Eyed | 2.00% | ~80 |
+| Up close and personal | 2.00% | ~80 |
+| Can't Outrun A Bullet | 2.00% | ~80 |
+| Führerious Repetition | 2.00% | ~79 |
+| Reich To The Point | 2.00% | ~79 |
+| Covert Elimination | 2.00% | ~79 |
+| Sink or Swim | 2.00% | ~79 |
 | Best of the Best | 1.00% | ~40 |
 | Sight Beyond Sights | 1.00% | ~40 |
 | From Führer Away | 1.00% | ~39 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 678)
 | Stroll in the Woods | 0.60% | ~24 |
 | Going Overboard | 0.60% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,974 (Ranked 198)  
+Progressed: 3,975 (Ranked 198)  
 Completed: 11 (0.28%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 11 (0.28%) (Ranked 243)
 | 2023-12-01 | 3,961 | 11 |
 | 2023-12-02 | 3,967 | 11 |
 | 2023-12-03 | 3,972 | 11 |
-| 2023-12-04 | 3,974 | 11 |
+| 2023-12-04 | 3,975 | 11 |
 ## Awards
 Max (Great for Beginners): 27  (Ranked 515)  
 Sum: 27 (Ranked 527)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -8187,9 +8187,9 @@
       "ID": "53",
       "SetID": "7132754",
       "Name": "Prometheus Avenged",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 56
     },
     {
       "ID": "54",
@@ -8266,8 +8266,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-29T19:59:17.4564892+00:00",
-  "LastChanged_Achievements": "2023-12-04T16:07:20.361442+00:00",
+  "LastChanged_Achievements": "2023-12-04T17:07:21.5782276+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:28.1716609+00:00",
-  "LastUpdate_Ratings": "2023-12-04T15:59:52.138569+00:00",
-  "LastUpdate_Achievements": "2023-12-04T16:07:20.3615076+00:00"
+  "LastUpdate_Ratings": "2023-12-04T16:59:54.4730253+00:00",
+  "LastUpdate_Achievements": "2023-12-04T17:07:21.5783336+00:00"
 }

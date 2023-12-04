@@ -2,12 +2,12 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 495,
+  "Ranking_Rating": 494,
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 384,
   "Ranking_EOS_Progress": 203,
-  "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_Completed": 282,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -535,9 +535,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3708,
+  "EOS_Progressed": 3709,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5780,6 +5780,11 @@
       "Time": "2023-12-03T17:05:21.4247579+00:00",
       "NumProgressed": 3708,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-04T17:06:52.6401727+00:00",
+      "NumProgressed": 3709,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5791,7 +5796,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "AceDetective_9",
@@ -5815,7 +5820,7 @@
       "Name": "Apex Predator",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "BloodAndJustice_50",
@@ -5823,7 +5828,7 @@
       "Name": "Blood and justice",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "CordonBleu_28",
@@ -5887,7 +5892,7 @@
       "Name": "Hold my Mead and Watch This",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "HomeSweetHome_25",
@@ -5975,7 +5980,7 @@
       "Name": "Ready for Summer",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1966
     },
     {
       "ID": "ReadyforWinter_42",
@@ -5983,7 +5988,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2410
+      "UsersEstimate": 2411
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -6055,7 +6060,7 @@
       "Name": "The Power of Family",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -6111,7 +6116,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2818
+      "UsersEstimate": 2819
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -6126,15 +6131,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3708,
+      "Progressed": 3709,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-01T16:57:27.3862191+00:00",
-  "LastChanged_Achievements": "2023-12-04T16:06:51.2993475+00:00",
+  "LastChanged_Achievements": "2023-12-04T17:06:52.6401723+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:35.7033793+00:00",
-  "LastUpdate_Ratings": "2023-12-04T16:00:12.8801182+00:00",
-  "LastUpdate_Achievements": "2023-12-04T16:06:51.2993993+00:00"
+  "LastUpdate_Ratings": "2023-12-04T17:00:15.7197871+00:00",
+  "LastUpdate_Achievements": "2023-12-04T17:06:52.6402243+00:00"
 }

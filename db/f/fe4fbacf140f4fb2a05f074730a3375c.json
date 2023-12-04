@@ -4,7 +4,7 @@
   "ProductSlug": "angelo-and-deemon-one-hell-of-a-quest-94d7e2",
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 482,
+  "Ranking_EOS_NewPlayers": 481,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-08-15T14:00:00+00:00",
@@ -227,9 +227,9 @@
       "ID": "BigBrother",
       "SetID": "bl5ebnd",
       "Name": "Big Brother is Watching You",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CustomerService",
@@ -362,8 +362,8 @@
   ],
   "FirstSeen": "2023-08-17T18:58:24.9645981+00:00",
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2023-12-04T16:05:03.7065032+00:00",
+  "LastChanged_Achievements": "2023-12-04T17:05:05.7995854+00:00",
   "LastUpdate_AppInfo": "2023-11-30T16:57:24.0435095+00:00",
-  "LastUpdate_Ratings": "2023-12-04T16:02:05.3303924+00:00",
-  "LastUpdate_Achievements": "2023-12-04T16:05:03.7065146+00:00"
+  "LastUpdate_Ratings": "2023-12-04T17:02:37.7494219+00:00",
+  "LastUpdate_Achievements": "2023-12-04T17:05:05.7995965+00:00"
 }

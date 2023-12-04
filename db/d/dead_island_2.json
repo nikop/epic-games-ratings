@@ -7227,10 +7227,10 @@
       "Count": 510
     }
   ],
-  "EOS_Progressed": 730081,
-  "EOS_Completed": 2462,
-  "EOS_NewPlayers": 3593,
-  "EOS_NewCompleters": 19,
+  "EOS_Progressed": 730115,
+  "EOS_Completed": 2463,
+  "EOS_NewPlayers": 3597,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -33372,6 +33372,11 @@
       "Time": "2023-12-04T16:09:09.0156855+00:00",
       "NumProgressed": 730081,
       "NumCompleted": 2462
+    },
+    {
+      "Time": "2023-12-04T17:09:09.5332099+00:00",
+      "NumProgressed": 730115,
+      "NumCompleted": 2463
     }
   ],
   "TotalAchievements": 51,
@@ -33415,7 +33420,7 @@
       "Name": "Make it So",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3650
+      "UsersEstimate": 3651
     },
     {
       "ID": "ach_big_name_in_town",
@@ -33455,7 +33460,7 @@
       "Name": "On Safari",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3650
+      "UsersEstimate": 3651
     },
     {
       "ID": "ach_defensive",
@@ -33487,7 +33492,7 @@
       "Name": "Smorgasbord",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4380
+      "UsersEstimate": 4381
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -33559,7 +33564,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4380
+      "UsersEstimate": 4381
     },
     {
       "ID": "ach_investigator",
@@ -33711,7 +33716,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3650
+      "UsersEstimate": 3651
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -33743,7 +33748,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "ach_dark_magic",
@@ -33751,7 +33756,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1670
     },
     {
       "ID": "ach_gardening_tools",
@@ -33767,7 +33772,7 @@
       "Name": "Pork Chopped",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1670
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -33783,20 +33788,20 @@
       "Name": "Top That, Tisha!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 730081,
-      "Completed": 2462
+      "Progressed": 730115,
+      "Completed": 2463
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 55623,
+      "Progressed": 55657,
       "Completed": 36627
     }
   ],
@@ -33804,8 +33809,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-12-04T14:03:02.7561532+00:00",
-  "LastChanged_Achievements": "2023-12-04T16:09:09.0156848+00:00",
+  "LastChanged_Achievements": "2023-12-04T17:09:09.5332095+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:31.1640976+00:00",
-  "LastUpdate_Ratings": "2023-12-04T16:02:55.1082721+00:00",
-  "LastUpdate_Achievements": "2023-12-04T16:09:09.0158196+00:00"
+  "LastUpdate_Ratings": "2023-12-04T17:02:58.6299756+00:00",
+  "LastUpdate_Achievements": "2023-12-04T17:09:09.5333461+00:00"
 }

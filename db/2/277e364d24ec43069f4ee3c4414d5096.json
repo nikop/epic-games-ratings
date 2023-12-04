@@ -2,13 +2,13 @@
   "ID": "277e364d24ec43069f4ee3c4414d5096",
   "Name": "Guacamelee! 2",
   "ProductSlug": "guacamelee-2-ac4977",
-  "Ranking_Rating": 422,
+  "Ranking_Rating": 421,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 115876,
+  "EOS_Progressed": 115877,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 590,
+  "EOS_NewPlayers": 588,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -20114,6 +20114,11 @@
       "Time": "2023-12-04T16:10:08.3014568+00:00",
       "NumProgressed": 115876,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-12-04T17:10:07.3163263+00:00",
+      "NumProgressed": 115877,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 49,
@@ -20157,7 +20162,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17381
+      "UsersEstimate": 17382
     },
     {
       "ID": "EAwards_13",
@@ -20221,7 +20226,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 55620
+      "UsersEstimate": 55621
     },
     {
       "ID": "EAwards_20",
@@ -20269,7 +20274,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 22016
+      "UsersEstimate": 22017
     },
     {
       "ID": "EAwards_26",
@@ -20516,7 +20521,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 115876,
+      "Progressed": 115877,
       "Completed": 51
     }
   ],
@@ -20524,8 +20529,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-04T16:10:08.3014563+00:00",
+  "LastChanged_Achievements": "2023-12-04T17:10:07.3163259+00:00",
   "LastUpdate_AppInfo": "2023-12-01T05:57:06.5040385+00:00",
-  "LastUpdate_Ratings": "2023-12-04T16:01:41.1780066+00:00",
-  "LastUpdate_Achievements": "2023-12-04T16:10:08.301579+00:00"
+  "LastUpdate_Ratings": "2023-12-04T17:01:43.6998845+00:00",
+  "LastUpdate_Achievements": "2023-12-04T17:10:07.3164356+00:00"
 }

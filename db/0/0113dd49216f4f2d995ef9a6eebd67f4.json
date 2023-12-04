@@ -4,7 +4,7 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -521,9 +521,9 @@
       "ID": "SG_ARROWOFEROSUNDONE",
       "SetID": "bj5g0n4",
       "Name": "Arrow Of Eros Undone",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SG_BRANDNEWCHORUS",
@@ -792,8 +792,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-04T16:04:43.2815178+00:00",
+  "LastChanged_Achievements": "2023-12-04T17:04:46.0267058+00:00",
   "LastUpdate_AppInfo": "2023-11-30T16:57:24.6130693+00:00",
-  "LastUpdate_Ratings": "2023-12-04T16:02:42.1005526+00:00",
-  "LastUpdate_Achievements": "2023-12-04T16:04:43.2815443+00:00"
+  "LastUpdate_Ratings": "2023-12-04T17:02:43.9719596+00:00",
+  "LastUpdate_Achievements": "2023-12-04T17:04:46.0267268+00:00"
 }

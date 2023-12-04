@@ -4,10 +4,10 @@
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 557,
   "Ranking_Popularity": 349,
-  "Ranking_PopularitySum": 446,
+  "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -881,18 +881,24 @@
       "Rating": 4.52,
       "NumberOfAwards": 113,
       "NumberOfAwardsMax": 113
+    },
+    {
+      "Time": "2023-12-04T17:01:12.7618909+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 114,
+      "NumberOfAwardsMax": 114
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 113,
-  "NumberOfAwardsMax": 113,
+  "NumberOfAwards": 114,
+  "NumberOfAwardsMax": 114,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 113
+      "Count": 114
     }
   ],
   "EOS_Progressed": 11177,
@@ -13909,9 +13915,9 @@
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2023-12-03T21:59:16.7157988+00:00",
-  "LastChanged_Achievements": "2023-12-04T16:09:31.7552613+00:00",
+  "LastChanged": "2023-12-04T17:01:12.7618907+00:00",
+  "LastChanged_Achievements": "2023-12-04T17:09:31.7473062+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:55.5499109+00:00",
-  "LastUpdate_Ratings": "2023-12-04T16:01:09.3893182+00:00",
-  "LastUpdate_Achievements": "2023-12-04T16:09:31.7553533+00:00"
+  "LastUpdate_Ratings": "2023-12-04T17:01:12.7618913+00:00",
+  "LastUpdate_Achievements": "2023-12-04T17:09:31.7473674+00:00"
 }

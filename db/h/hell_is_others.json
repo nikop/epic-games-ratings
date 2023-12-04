@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1217,10 +1217,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 353,
       "NumberOfAwardsMax": 52
+    },
+    {
+      "Time": "2023-12-04T17:00:38.658819+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 354,
+      "NumberOfAwardsMax": 52
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 353,
+  "NumberOfAwards": 354,
   "NumberOfAwardsMax": 52,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1240,7 +1246,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 38
+      "Count": 39
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1287,7 +1293,7 @@
   ],
   "EOS_Progressed": 259039,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23705,9 +23711,9 @@
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-12-03T20:58:45.8275295+00:00",
-  "LastChanged_Achievements": "2023-12-04T16:06:08.1769404+00:00",
+  "LastChanged": "2023-12-04T17:00:38.6588188+00:00",
+  "LastChanged_Achievements": "2023-12-04T17:06:09.4622295+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:43.7496821+00:00",
-  "LastUpdate_Ratings": "2023-12-04T16:00:35.5428385+00:00",
-  "LastUpdate_Achievements": "2023-12-04T16:06:08.1770772+00:00"
+  "LastUpdate_Ratings": "2023-12-04T17:00:38.6588195+00:00",
+  "LastUpdate_Achievements": "2023-12-04T17:06:09.4623395+00:00"
 }

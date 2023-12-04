@@ -21,19 +21,19 @@ Rating: 4.87 (Ranked 24)
 | Kissing the sky! | 11.00% | ~492 |
 | The Negotiator | 10.00% | ~447 |
 | Whoa! There's ANOTHER health bar!? | 10.00% | ~447 |
-| Headliner | 9.00% | ~402 |
-| Time to pay up! | 9.00% | ~402 |
-| You must like calling me in, Chai | 9.00% | ~402 |
-| Out in a puff of smoke | 9.00% | ~402 |
-| I look cool. But I can look COOLER. | 9.00% | ~402 |
-| Does that say weakpoint? | 9.00% | ~402 |
+| Headliner | 9.00% | ~403 |
+| Time to pay up! | 9.00% | ~403 |
+| You must like calling me in, Chai | 9.00% | ~403 |
+| Out in a puff of smoke | 9.00% | ~403 |
+| I look cool. But I can look COOLER. | 9.00% | ~403 |
+| Does that say weakpoint? | 9.00% | ~403 |
 | Who's the boss now? | 8.00% | ~358 |
 | Perfecter Parry-er! | 8.00% | ~358 |
-| NOW we got a kickass hideout! | 8.00% | ~239 |
+| NOW we got a kickass hideout! | 8.00% | ~240 |
 | I have to read these things? | 7.00% | ~313 |
-| That's a lot of junk metal… | 6.00% | ~268 |
 | Well that was a rush! | 5.00% | ~224 |
 | Beat-hit mania | 5.00% | ~224 |
+| That's a lot of junk metal… | 5.00% | ~224 |
 | There's such a thing as TOO helpful | 5.00% | ~224 |
 | Chip-tuned | 3.00% | ~134 |
 | Wanna hear my playlist? | 3.00% | ~134 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,472 (Ranked 194)  
+Progressed: 4,473 (Ranked 194)  
 Completed: 8 (0.18%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 8 (0.18%) (Ranked 265)
 | 2023-12-01 | 4,446 | 8 |
 | 2023-12-02 | 4,456 | 8 |
 | 2023-12-03 | 4,464 | 8 |
-| 2023-12-04 | 4,472 | 8 |
+| 2023-12-04 | 4,473 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

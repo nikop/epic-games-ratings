@@ -17,8 +17,8 @@
 | Turian Ally | 53.00% | ~796 |
 | Medal of Honor | 52.00% | ~781 |
 | Meritorious Service Medal | 52.00% | ~781 |
+| Charismatic | 51.00% | ~766 |
 | Soldier | 50.00% | ~751 |
-| Charismatic | 50.00% | ~751 |
 | Soldier Ally | 47.00% | ~706 |
 | Asari Ally | 47.00% | ~706 |
 | Medal of Exploration III | 46.00% | ~691 |
@@ -65,7 +65,9 @@
 | Treason | 30.00% | ~451 |
 | Digital Exorcist | 30.00% | ~451 |
 | Archivist | 29.00% | ~436 |
+| Mission Accomplished | 29.00% | ~436 |
 | Suicide Mission | 29.00% | ~436 |
+| Against All Odds | 29.00% | ~436 |
 | Friend or Foe | 29.00% | ~436 |
 | Cat's in the Cradle | 29.00% | ~436 |
 | Doppelganger | 29.00% | ~436 |
@@ -73,8 +75,6 @@
 | Mobilizer | 29.00% | ~436 |
 | Untouchable | 28.00% | ~421 |
 | Giant Killer | 28.00% | ~421 |
-| Mission Accomplished | 28.00% | ~421 |
-| Against All Odds | 28.00% | ~421 |
 | A House Divided | 28.00% | ~421 |
 | Eye of the Hurricane | 27.00% | ~406 |
 | World Shaker | 27.00% | ~406 |

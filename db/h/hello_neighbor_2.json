@@ -471,7 +471,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3305,
+  "EOS_Progressed": 3306,
   "EOS_Completed": 135,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
@@ -5106,6 +5106,11 @@
       "Time": "2023-12-04T14:06:46.4756646+00:00",
       "NumProgressed": 3305,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2023-12-04T17:06:49.3020808+00:00",
+      "NumProgressed": 3306,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 14,
@@ -5117,7 +5122,7 @@
       "Name": "Ancient Curse",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -5133,7 +5138,7 @@
       "Name": "Cat Person",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "ACH_CLIMBER",
@@ -5173,7 +5178,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -5221,14 +5226,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 78,
       "XP": 35,
-      "UsersEstimate": 2578
+      "UsersEstimate": 2579
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3305,
+      "Progressed": 3306,
       "Completed": 135
     }
   ],
@@ -5236,8 +5241,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-11-18T13:02:58.1900278+00:00",
-  "LastChanged_Achievements": "2023-12-04T16:06:48.0505465+00:00",
+  "LastChanged_Achievements": "2023-12-04T17:06:49.3020805+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:56.2893287+00:00",
-  "LastUpdate_Ratings": "2023-12-04T15:58:27.7514536+00:00",
-  "LastUpdate_Achievements": "2023-12-04T16:06:48.0505825+00:00"
+  "LastUpdate_Ratings": "2023-12-04T16:58:29.8038257+00:00",
+  "LastUpdate_Achievements": "2023-12-04T17:06:49.3021117+00:00"
 }

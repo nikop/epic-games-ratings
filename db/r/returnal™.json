@@ -2,12 +2,12 @@
   "ID": "4c461792757541e99c4a16c00834c956",
   "Name": "Returnal\u2122",
   "ProductSlug": "returnal",
-  "Ranking_Rating": 422,
+  "Ranking_Rating": 421,
   "Ranking_Popularity": 369,
   "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 776,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 482,
+  "Ranking_EOS_NewPlayers": 481,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-02-15T16:00:00+00:00",
@@ -685,6 +685,6 @@
   "FirstSeenRating": "2023-02-22T19:57:26.9994266+00:00",
   "LastChanged": "2023-12-03T13:03:56.7041021+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:11.2921823+00:00",
-  "LastUpdate_Ratings": "2023-12-04T16:01:50.0259922+00:00",
-  "LastUpdate_Achievements": "2023-12-04T16:03:49.3784742+00:00"
+  "LastUpdate_Ratings": "2023-12-04T17:01:52.7869733+00:00",
+  "LastUpdate_Achievements": "2023-12-04T17:03:52.9167522+00:00"
 }

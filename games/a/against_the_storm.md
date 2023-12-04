@@ -14,6 +14,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ominous Presence | 2.00% | ~352 |
 | Gathering Storm | 2.00% | ~352 |
 | Untamed Wilds | 1.00% | ~176 |
+| The Marshlands | 0.30% | ~53 |
+| Taking Action | 0.30% | ~53 |
 | No Deaths | 0.30% | ~53 |
 | Fox Utopia | 0.30% | ~53 |
 | First Real Expedition | 0.20% | ~35 |
@@ -26,9 +28,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Corrosive Torrent | 0.20% | ~35 |
 | Watchtower | 0.20% | ~35 |
 | Coral Forest | 0.20% | ~35 |
-| The Marshlands | 0.20% | ~35 |
 | The Scarlet Orchard | 0.20% | ~35 |
-| Taking Action | 0.20% | ~35 |
 | Trade Baron | 0.20% | ~35 |
 | Serving Ale | 0.10% | ~18 |
 | Feeding The People | 0.10% | ~18 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.00% | ~0 |
 | Treasure | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,597 (Ranked 146)  
+Progressed: 17,600 (Ranked 146)  
 Completed: 49 (0.28%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 49 (0.28%) (Ranked 243)
 | 2023-12-01 | 17,557 | 49 |
 | 2023-12-02 | 17,567 | 49 |
 | 2023-12-03 | 17,585 | 49 |
-| 2023-12-04 | 17,597 | 49 |
+| 2023-12-04 | 17,600 | 49 |
 ## Awards
 Max (Quickly Understood Controls): 441  (Ranked 223)  
 Sum: 3,241 (Ranked 173)  

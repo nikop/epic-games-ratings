@@ -40,7 +40,7 @@ Rating: 4.50 (Ranked 592)
 | Bandage Lover | 20.00% | ~747 |
 | Regicide | 17.00% | ~635 |
 | This Went Smoothly | 15.00% | ~560 |
-| Flawless Victory | 13.00% | ~486 |
+| Flawless Victory | 14.00% | ~523 |
 | Heavy Steps | 13.00% | ~486 |
 | Perfect Enhancements | 10.00% | ~374 |
 | Hardened In The Heat Of Battle | 8.00% | ~299 |

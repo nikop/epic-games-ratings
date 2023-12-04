@@ -52,6 +52,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Black Jack | 0.10% | ~469 |
 | Bleed Them Dry | 0.10% | ~469 |
 | Blockader | 0.10% | ~469 |
+| Blood for the Sky God! | 0.10% | ~469 |
 | Breaking the Yoke | 0.10% | ~469 |
 | Brentry! | 0.10% | ~469 |
 | Brick by Brick | 0.10% | ~469 |
@@ -282,7 +283,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Around the World in 80 Years | 0.00% | ~0 |
 | Atwix Legacy | 0.00% | ~0 |
 | Barbarossa | 0.00% | ~0 |
-| Blood for the Sky God! | 0.00% | ~0 |
 | The Buddhists Strike Back | 0.00% | ~0 |
 | Bunte Kuh | 0.00% | ~0 |
 | Cherrypicking | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 469,111 (Ranked 41)  
+Progressed: 469,147 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -598,7 +598,7 @@ Completed: 1 (0.00%) (Ranked 366)
 | 2023-12-01 | 467,159 | 1 |
 | 2023-12-02 | 467,938 | 1 |
 | 2023-12-03 | 468,823 | 1 |
-| 2023-12-04 | 469,111 | 1 |
+| 2023-12-04 | 469,147 | 1 |
 ## Awards
 Max (Educational): 7,256  (Ranked 54)  
 Sum: 59,793 (Ranked 24)  

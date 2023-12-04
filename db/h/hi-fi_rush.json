@@ -145,7 +145,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4472,
+  "EOS_Progressed": 4473,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
@@ -8120,6 +8120,11 @@
       "Time": "2023-12-04T16:04:56.7860325+00:00",
       "NumProgressed": 4472,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-04T17:04:58.949202+00:00",
+      "NumProgressed": 4473,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8163,7 +8168,7 @@
       "Name": "Headliner",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "Ach006",
@@ -8171,7 +8176,7 @@
       "Name": "Time to pay up!",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "Ach007",
@@ -8331,7 +8336,7 @@
       "Name": "You must like calling me in, Chai",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "Ach027",
@@ -8355,7 +8360,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "Ach030",
@@ -8393,9 +8398,9 @@
       "ID": "Ach034",
       "SetID": "12n4k20",
       "Name": "That\u0027s a lot of junk metal\u2026",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 268
+      "UsersEstimate": 224
     },
     {
       "ID": "Ach035",
@@ -8459,7 +8464,7 @@
       "Name": "I look cool. But I can look COOLER.",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "Ach043",
@@ -8547,7 +8552,7 @@
       "Name": "Does that say weakpoint?",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "Ach054",
@@ -8619,7 +8624,7 @@
       "Name": "NOW we got a kickass hideout!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "Ach063",
@@ -8698,13 +8703,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4472,
+      "Progressed": 4473,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2993,
+      "Progressed": 2994,
       "Completed": 1930
     }
   ],
@@ -8712,8 +8717,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-04T16:04:56.7860321+00:00",
+  "LastChanged_Achievements": "2023-12-04T17:04:58.9492016+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:21.1661658+00:00",
-  "LastUpdate_Ratings": "2023-12-04T16:02:39.1304066+00:00",
-  "LastUpdate_Achievements": "2023-12-04T16:04:56.786116+00:00"
+  "LastUpdate_Ratings": "2023-12-04T17:02:41.0249962+00:00",
+  "LastUpdate_Achievements": "2023-12-04T17:04:58.9492787+00:00"
 }

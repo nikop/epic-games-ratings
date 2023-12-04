@@ -1,14 +1,14 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.56 (Ranked 495)  
+Rating: 4.56 (Ranked 494)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 76.00% | ~2,818 |
-| Ready for Winter | 65.00% | ~2,410 |
-| Ready for Summer | 53.00% | ~1,965 |
+| Venture Outward | 76.00% | ~2,819 |
+| Ready for Winter | 65.00% | ~2,411 |
+| Ready for Summer | 53.00% | ~1,966 |
 | Cordon Bleu | 45.00% | ~1,669 |
 | Tapped! | 38.00% | ~1,409 |
 | Eureka | 33.00% | ~1,224 |
@@ -17,9 +17,9 @@ Number of Ratings: 266  (23.09.2022)
 | Exceptional Skill | 23.00% | ~853 |
 | Home Sweet Home | 23.00% | ~853 |
 | Encyclopedic! | 20.00% | ~742 |
-| A Fortress Toppled! | 17.00% | ~630 |
-| Apex Predator | 17.00% | ~630 |
-| The Power of Family | 17.00% | ~630 |
+| A Fortress Toppled! | 17.00% | ~631 |
+| Apex Predator | 17.00% | ~631 |
+| The Power of Family | 17.00% | ~631 |
 | Strange amalgams | 13.00% | ~482 |
 | The Power of Faith | 13.00% | ~482 |
 | The Power of Freedom | 10.00% | ~371 |
@@ -30,8 +30,8 @@ Number of Ratings: 266  (23.09.2022)
 | Let ‘em eat magma! | 7.00% | ~260 |
 | The power of ambition | 7.00% | ~260 |
 | The stuff of legends. | 7.00% | ~260 |
-| Blood and justice | 6.00% | ~222 |
-| Hold my Mead and Watch This | 6.00% | ~222 |
+| Blood and justice | 6.00% | ~223 |
+| Hold my Mead and Watch This | 6.00% | ~223 |
 | Ancestor's Pride | 4.00% | ~148 |
 | For All Aurai | 4.00% | ~148 |
 | Light of Levant | 4.00% | ~148 |
@@ -49,8 +49,8 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~11 |
 | The Absolute Pinnacle. | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,708 (Ranked 203)  
-Completed: 4 (0.11%) (Ranked 283)  
+Progressed: 3,709 (Ranked 203)  
+Completed: 4 (0.11%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -264,6 +264,7 @@ Completed: 4 (0.11%) (Ranked 283)
 | 2023-12-01 | 3,700 | 4 |
 | 2023-12-02 | 3,704 | 4 |
 | 2023-12-03 | 3,708 | 4 |
+| 2023-12-04 | 3,709 | 4 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 481)  
 Sum: 246 (Ranked 384)  

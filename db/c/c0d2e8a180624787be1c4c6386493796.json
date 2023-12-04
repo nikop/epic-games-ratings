@@ -943,9 +943,9 @@
       "ID": "KR4_ACHIEVEMENT_SKIYETI",
       "SetID": "caeik3h",
       "Name": "Ski Free",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "KR4_ACHIEVEMENT_SLENDERMAN",
@@ -1015,9 +1015,9 @@
       "ID": "KR4_ACHIEVEMENT_THE_THING",
       "SetID": "caeik3h",
       "Name": "Get Away From That!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "KR4_ACHIEVEMENT_TROLL",
@@ -1047,9 +1047,9 @@
       "ID": "KR4_ACHIEVEMENT_WINTER_QUEEN",
       "SetID": "caeik3h",
       "Name": "More Than A Legend",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     }
   ],
   "AchievementSets": [
@@ -1068,8 +1068,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-04T16:07:26.6495489+00:00",
+  "LastChanged_Achievements": "2023-12-04T17:07:27.7224504+00:00",
   "LastUpdate_AppInfo": "2023-11-30T16:57:23.733607+00:00",
-  "LastUpdate_Ratings": "2023-12-04T16:01:41.9119054+00:00",
-  "LastUpdate_Achievements": "2023-12-04T16:07:26.6496184+00:00"
+  "LastUpdate_Ratings": "2023-12-04T17:01:44.4472667+00:00",
+  "LastUpdate_Achievements": "2023-12-04T17:07:27.7225233+00:00"
 }

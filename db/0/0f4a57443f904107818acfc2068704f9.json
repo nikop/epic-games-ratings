@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -1939,9 +1939,9 @@
       "ID": "CompleteChapter3",
       "SetID": "52ail55",
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 334
+      "UsersEstimate": 343
     },
     {
       "ID": "CompleteChapter4",
@@ -2043,9 +2043,9 @@
       "ID": "Win100OnlineMatched",
       "SetID": "52ail55",
       "Name": "True Commander",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Win10BonusConquestBattles",
@@ -2090,8 +2090,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-04T16:07:56.5132474+00:00",
+  "LastChanged_Achievements": "2023-12-04T17:07:57.3276612+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:09.4303292+00:00",
-  "LastUpdate_Ratings": "2023-12-04T16:01:25.978417+00:00",
-  "LastUpdate_Achievements": "2023-12-04T16:07:56.5132794+00:00"
+  "LastUpdate_Ratings": "2023-12-04T17:01:28.9430733+00:00",
+  "LastUpdate_Achievements": "2023-12-04T17:07:57.3276928+00:00"
 }

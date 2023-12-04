@@ -2430,9 +2430,9 @@
       "ID": "EV_ACH02",
       "SetID": "6jeac23",
       "Name": "My Darkest Day",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 528
+      "UsersEstimate": 539
     },
     {
       "ID": "EV_ACH03",
@@ -2478,9 +2478,9 @@
       "ID": "EV_ACH08",
       "SetID": "6jeac23",
       "Name": "So Close",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 453
     },
     {
       "ID": "EV_ACH09",
@@ -2781,8 +2781,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-12-04T16:10:35.9545979+00:00",
+  "LastChanged_Achievements": "2023-12-04T17:10:35.0804803+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:30.6562338+00:00",
-  "LastUpdate_Ratings": "2023-12-04T16:00:01.0743476+00:00",
-  "LastUpdate_Achievements": "2023-12-04T16:10:35.9546387+00:00"
+  "LastUpdate_Ratings": "2023-12-04T17:00:03.2076217+00:00",
+  "LastUpdate_Achievements": "2023-12-04T17:10:35.0805229+00:00"
 }

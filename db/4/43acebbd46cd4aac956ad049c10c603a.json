@@ -6,8 +6,8 @@
   "Ranking_Popularity": 451,
   "Ranking_PopularitySum": 495,
   "Ranking_EOS_Progress": 272,
-  "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_Completed": 282,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -187,11 +187,11 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 869,
+  "EOS_Progressed": 870,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.12,
+  "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
     {
       "Time": "2023-11-08T08:07:23.567232+00:00",
@@ -2042,6 +2042,11 @@
       "Time": "2023-12-04T15:05:17.2454542+00:00",
       "NumProgressed": 869,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-04T17:06:25.2244252+00:00",
+      "NumProgressed": 870,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2230,7 +2235,7 @@
       "Name": "Just One Lap",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "LordOfTheFiles",
@@ -2334,15 +2339,15 @@
       "Name": "Puzzle Fiend",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 96
     },
     {
       "ID": "RenaissanceRobot",
@@ -2510,7 +2515,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "YourBiggestFan",
@@ -2518,14 +2523,14 @@
       "Name": "Your Biggest Fan",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 869,
+      "Progressed": 870,
       "Completed": 1
     }
   ],
@@ -2533,8 +2538,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-04T13:58:50.2802075+00:00",
-  "LastChanged_Achievements": "2023-12-04T16:06:24.0663591+00:00",
+  "LastChanged_Achievements": "2023-12-04T17:06:25.2244247+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-04T15:58:51.666354+00:00",
-  "LastUpdate_Achievements": "2023-12-04T16:06:24.0664137+00:00"
+  "LastUpdate_Ratings": "2023-12-04T16:58:53.8547766+00:00",
+  "LastUpdate_Achievements": "2023-12-04T17:06:25.2245152+00:00"
 }

@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Travel Streamer | 93.00% | ~503 |
 | Training Simulation | 78.00% | ~422 |
-| Kuku Bird Hunter | 62.00% | ~335 |
+| Kuku Bird Hunter | 63.00% | ~341 |
 | Storm Traveller | 57.00% | ~308 |
 | Wolf King Killer | 52.00% | ~281 |
 | Fashion Connoisseur | 50.00% | ~270 |
@@ -23,7 +23,7 @@
 | Trader | 21.00% | ~114 |
 | Weapon Boost | 20.00% | ~108 |
 | Flying Kobold Killer | 17.00% | ~92 |
-| Youth Magnet | 16.00% | ~87 |
+| Youth Magnet | 17.00% | ~92 |
 | Master Artificer | 16.00% | ~87 |
 | Furious Scorpion Killer | 15.00% | ~81 |
 | Lethal Blade Mantis Killer | 15.00% | ~81 |

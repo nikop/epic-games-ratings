@@ -6,28 +6,28 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 238.00% | ~1,183 |
-| Iron Chef | 168.00% | ~835 |
-| Super Spelunker | 132.00% | ~656 |
-| Greeno-B-Gone | 128.00% | ~636 |
-| Your Especially Earned Trajectory | 105.00% | ~522 |
-| The Little Wood that Could | 103.00% | ~512 |
-| No Mountain Wide Enough | 82.00% | ~408 |
-| One of the Cool Kids | 82.00% | ~408 |
-| On that Grindset | 79.00% | ~393 |
-| Yakmel Whisperer | 78.00% | ~388 |
-| Diamonds are Forever | 75.00% | ~373 |
-| Pack Mule | 73.00% | ~363 |
-| Can We Keep It? | 73.00% | ~363 |
-| I Do! | 72.00% | ~358 |
-| First Love | 70.00% | ~348 |
-| Unboxing | 69.00% | ~343 |
-| Big Game Hunter | 65.00% | ~323 |
-| Financially Secure | 65.00% | ~323 |
-| Chatterbox | 65.00% | ~323 |
-| Got Served | 64.00% | ~318 |
+| Adept Assembler | 239.00% | ~1,185 |
+| Iron Chef | 169.00% | ~838 |
+| Super Spelunker | 132.00% | ~655 |
+| Greeno-B-Gone | 128.00% | ~635 |
+| Your Especially Earned Trajectory | 105.00% | ~521 |
+| The Little Wood that Could | 104.00% | ~516 |
+| No Mountain Wide Enough | 82.00% | ~407 |
+| One of the Cool Kids | 82.00% | ~407 |
+| On that Grindset | 80.00% | ~397 |
+| Yakmel Whisperer | 78.00% | ~387 |
+| Diamonds are Forever | 75.00% | ~372 |
+| Pack Mule | 73.00% | ~362 |
+| Can We Keep It? | 73.00% | ~362 |
+| I Do! | 72.00% | ~357 |
+| First Love | 70.00% | ~347 |
+| Unboxing | 69.00% | ~342 |
+| Financially Secure | 66.00% | ~327 |
+| Big Game Hunter | 65.00% | ~322 |
+| Chatterbox | 65.00% | ~322 |
+| Got Served | 64.00% | ~317 |
+| Elementary, My Dear | 61.00% | ~303 |
 | Builder of the Month | 60.00% | ~298 |
-| Elementary, My Dear | 60.00% | ~298 |
 | Panda-kin | 59.00% | ~293 |
 | What Plants Crave | 58.00% | ~288 |
 | Happier-est Place on Earth | 58.00% | ~288 |
@@ -44,30 +44,30 @@ Number of Ratings: 892  (23.09.2022)
 | Knowledge is Power | 54.00% | ~268 |
 | Finishing Touches | 52.00% | ~258 |
 | Bridging the Gap | 52.00% | ~258 |
-| Got the Flow Back | 48.00% | ~239 |
-| Sepia Toned Memories | 45.00% | ~224 |
-| Who Ya Gonna Call...? | 45.00% | ~224 |
-| Time Flies | 43.00% | ~214 |
-| Jewel of the Eufaula | 42.00% | ~209 |
-| My Time Mansion | 41.00% | ~204 |
-| Kind of a Big Deal | 41.00% | ~204 |
-| Just What I Always Wanted! | 38.00% | ~189 |
+| Got the Flow Back | 48.00% | ~238 |
+| Sepia Toned Memories | 45.00% | ~223 |
+| Who Ya Gonna Call...? | 45.00% | ~223 |
+| Time Flies | 43.00% | ~213 |
+| My Time Mansion | 42.00% | ~208 |
+| Jewel of the Eufaula | 42.00% | ~208 |
+| Kind of a Big Deal | 41.00% | ~203 |
+| Just What I Always Wanted! | 38.00% | ~188 |
 | He Can Spin A Yarn... | 37.00% | ~184 |
 | Santa In Training | 35.00% | ~174 |
 | Sandrunning Speedster | 35.00% | ~174 |
 | Newton | 33.00% | ~164 |
+| It Belongs in a Museum! | 33.00% | ~164 |
 | Pro Gamer | 32.00% | ~159 |
 | Do Your Part | 32.00% | ~159 |
-| It Belongs in a Museum! | 32.00% | ~159 |
 | Cardistry | 22.00% | ~109 |
-| Winner and Still Champeen | 16.00% | ~80 |
-| Strong Arms | 15.00% | ~75 |
-| Got the Receipt? | 15.00% | ~75 |
-| It's High Noon... | 14.00% | ~70 |
+| Winner and Still Champeen | 16.00% | ~79 |
+| It's High Noon... | 15.00% | ~74 |
+| Strong Arms | 15.00% | ~74 |
+| Got the Receipt? | 15.00% | ~74 |
 | Jack of All Trades | 8.00% | ~40 |
 | Sandrock's Hottest Club | 5.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 497 (Ranked 315)  
+Progressed: 496 (Ranked 315)  
 Completed: 0 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,9 +106,9 @@ Completed: 0 (0.00%) (Ranked 366)
 | 2023-12-03 | 511 | 0 |
 | 2023-12-04 | 507 | 0 |
 ## Awards
-Max (Character Customization): 601  (Ranked 197)  
+Max (Character Customization): 601  (Ranked 198)  
 Sum: 1,416 (Ranked 239)  
-Diff (max vs sum): -42  
+Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 601 |

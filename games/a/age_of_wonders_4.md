@@ -35,11 +35,11 @@ Rating: 4.61 (Ranked 387)
 | Tipping the Scales | 1.00% | ~56 |
 | Mighty Hoard | 1.00% | ~56 |
 | Sehiran Oasis | 1.00% | ~56 |
+| Prometheus Avenged | 1.00% | ~56 |
 | Seal the Deal | 1.00% | ~56 |
 | Spoils of War | 1.00% | ~56 |
 | Dawn of the Dread | 1.00% | ~56 |
 | Blood of the Dragon | 0.90% | ~50 |
-| Prometheus Avenged | 0.90% | ~50 |
 | The Creator | 0.80% | ~45 |
 | A Conqueror's Cohort | 0.80% | ~45 |
 | Lord of Chaos | 0.70% | ~39 |

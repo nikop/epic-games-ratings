@@ -6,28 +6,28 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 79.00% | ~49,042 |
-| Initial Capital | 66.00% | ~40,972 |
-| Junior Supply Officer | 44.00% | ~27,315 |
-| Moneybags | 43.00% | ~26,694 |
-| Naval Warfare. Arson | 33.00% | ~20,486 |
-| Naval Warfare. Ramming | 32.00% | ~19,865 |
-| Amateur | 30.00% | ~18,624 |
-| Naval Warfare. Tactics | 30.00% | ~18,624 |
-| Naval Constructor | 30.00% | ~18,624 |
-| Naval Warfare. Weaponry Basics | 22.00% | ~13,657 |
-| Naval Warfare. Flooding | 19.00% | ~11,795 |
-| Naval Warfare. Lucky Shot | 19.00% | ~11,795 |
-| Business Magnate | 16.00% | ~9,933 |
-| Battle Hero | 15.00% | ~9,312 |
-| Smooth Supply | 13.00% | ~8,070 |
-| Warrior | 12.00% | ~7,449 |
-| Supply Officer | 12.00% | ~7,449 |
-| Veteran | 7.00% | ~4,346 |
-| Shield | 4.00% | ~2,483 |
-| Legend of the Seas | 3.00% | ~1,862 |
-| Chief Naval Architect | 3.00% | ~1,862 |
-| Important Missions | 3.00% | ~1,862 |
+| Junior Naval Designer | 79.00% | ~49,057 |
+| Initial Capital | 66.00% | ~40,985 |
+| Junior Supply Officer | 44.00% | ~27,323 |
+| Moneybags | 43.00% | ~26,702 |
+| Naval Warfare. Arson | 33.00% | ~20,492 |
+| Naval Warfare. Ramming | 32.00% | ~19,871 |
+| Amateur | 30.00% | ~18,629 |
+| Naval Warfare. Tactics | 30.00% | ~18,629 |
+| Naval Constructor | 30.00% | ~18,629 |
+| Naval Warfare. Weaponry Basics | 22.00% | ~13,662 |
+| Naval Warfare. Flooding | 19.00% | ~11,799 |
+| Naval Warfare. Lucky Shot | 19.00% | ~11,799 |
+| Business Magnate | 16.00% | ~9,936 |
+| Battle Hero | 15.00% | ~9,315 |
+| Smooth Supply | 13.00% | ~8,073 |
+| Warrior | 12.00% | ~7,452 |
+| Supply Officer | 12.00% | ~7,452 |
+| Veteran | 7.00% | ~4,347 |
+| Shield | 4.00% | ~2,484 |
+| Legend of the Seas | 3.00% | ~1,863 |
+| Chief Naval Architect | 3.00% | ~1,863 |
+| Important Missions | 3.00% | ~1,863 |
 | Senior Supply Officer | 2.00% | ~1,242 |
 | "Science of Victory" | 2.00% | ~1,242 |
 | Weather Beaten | 2.00% | ~1,242 |
@@ -39,7 +39,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | Exterminator | 1.00% | ~621 |
 | American Cruisers | 1.00% | ~621 |
 | Secret Instructions | 0.70% | ~435 |
-| Raider | 0.60% | ~372 |
+| Raider | 0.60% | ~373 |
 | Experienced One | 0.50% | ~310 |
 | Ravager | 0.30% | ~186 |
 | "Yamamoto Isoroku" | 0.30% | ~186 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~62 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,079 (Ranked 107)  
+Progressed: 62,098 (Ranked 107)  
 Completed: 0 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,14 +164,14 @@ Completed: 0 (0.00%) (Ranked 366)
 | 2023-12-01 | 60,566 | 0 |
 | 2023-12-02 | 61,062 | 0 |
 | 2023-12-03 | 61,836 | 0 |
-| 2023-12-04 | 62,079 | 0 |
+| 2023-12-04 | 62,098 | 0 |
 ## Awards
-Max (Relaxing): 1,557  (Ranked 130)  
-Sum: 13,066 (Ranked 79)  
-Diff (max vs sum): 51  
+Max (Relaxing): 1,562  (Ranked 130)  
+Sum: 13,075 (Ranked 78)  
+Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 1,557 |
+| This game is Relaxing | 1,562 |
 | This game has Quickly Understood Controls | 1,551 |
 | This game has Challenging Combat | 1,550 |
 | This game has Competitive Players | 1,520 |
@@ -179,7 +179,7 @@ Diff (max vs sum): 51
 | This game is Highly Recommended | 1,501 |
 | This game has Realistic Visuals | 1,362 |
 | This game has Amazing Storytelling | 1,295 |
-| This game has a Competitive Community | 1,216 |
+| This game has a Competitive Community | 1,220 |
 | This game has Amazing Characters | 942 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -510,4 +510,4 @@ Diff (max vs sum): 51
 | 2023-12-01 | 4.41 | - | 1,553 | 13,002 |
 | 2023-12-02 | 4.41 | - | 1,553 | 13,013 |
 | 2023-12-03 | 4.41 | - | 1,557 | 13,039 |
-| 2023-12-04 | 4.41 | - | 1,557 | 13,066 |
+| 2023-12-04 | 4.41 | - | 1,562 | 13,075 |
