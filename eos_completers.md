@@ -16,7 +16,7 @@
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.47% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Overloop](games/o/overloop.md) | 25.00% |
-| 17 | [The Riflemen](games/t/the_riflemen.md) | 24.39% |
+| 17 | [The Riflemen](games/t/the_riflemen.md) | 24.37% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 20 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
@@ -148,19 +148,19 @@
 | 146 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.45% |
 | 147 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.43% |
 | 148 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.37% |
-| 149 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.34% |
-| 150 | [Poosh XL](games/p/poosh_xl.md) | 1.31% |
-| 151 | [Chorus](games/c/chorus.md) | 1.30% |
-| 152 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.29% |
-| 152 | [Late Shift](games/l/late_shift.md) | 1.29% |
-| 154 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.27% |
-| 155 | [Ten Dates](games/t/ten_dates.md) | 1.26% |
-| 156 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.25% |
-| 157 | [Iron Danger](games/i/iron_danger.md) | 1.23% |
-| 158 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.22% |
-| 159 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
-| 159 | [Lemon Cake](games/l/lemon_cake.md) | 1.21% |
-| 161 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.18% |
+| 149 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.35% |
+| 150 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.34% |
+| 151 | [Poosh XL](games/p/poosh_xl.md) | 1.31% |
+| 152 | [Chorus](games/c/chorus.md) | 1.30% |
+| 153 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.29% |
+| 153 | [Late Shift](games/l/late_shift.md) | 1.29% |
+| 155 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.27% |
+| 156 | [Ten Dates](games/t/ten_dates.md) | 1.26% |
+| 157 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.25% |
+| 158 | [Iron Danger](games/i/iron_danger.md) | 1.23% |
+| 159 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.22% |
+| 160 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
+| 160 | [Lemon Cake](games/l/lemon_cake.md) | 1.21% |
 | 162 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.15% |
 | 163 | [Adios](games/a/adios.md) | 1.08% |
 | 164 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.05% |
