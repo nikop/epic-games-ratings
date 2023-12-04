@@ -1,18 +1,18 @@
 # Disney Dreamlight Valley
 [Store](https://store.epicgames.com/en-US/p/disney-dreamlight-valley)  
 [View Rawdata](../../db/d/disney_dreamlight_valley.json)  
-Rating: 4.76 (Ranked 128)  
+Rating: 4.76 (Ranked 129)  
 Number of Ratings: 1,396  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 69.00% | ~8,390 |
+| Goofy's Investor | 69.00% | ~8,391 |
 | Photographer | 68.00% | ~8,269 |
 | Valley's Helper | 61.00% | ~7,418 |
 | Constructor | 51.00% | ~6,202 |
 | Renovator | 51.00% | ~6,202 |
 | Bestest Friend | 46.00% | ~5,594 |
-| Banker | 39.00% | ~4,742 |
+| Banker | 39.00% | ~4,743 |
 | Gardener | 31.00% | ~3,770 |
 | Generous | 25.00% | ~3,040 |
 | Chef Cook | 18.00% | ~2,189 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Angler | 5.00% | ~608 |
 | Chit Chatter | 3.00% | ~365 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,160 (Ranked 160)  
+Progressed: 12,161 (Ranked 160)  
 Completed: 290 (2.38%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,14 +201,14 @@ Completed: 290 (2.38%) (Ranked 123)
 | 2023-12-01 | 12,084 | 288 |
 | 2023-12-02 | 12,099 | 288 |
 | 2023-12-03 | 12,149 | 289 |
-| 2023-12-04 | 12,160 | 290 |
+| 2023-12-04 | 12,161 | 290 |
 ## Awards
-Max (Great for Beginners): 1,080  (Ranked 146)  
-Sum: 7,980 (Ranked 108)  
+Max (Great for Beginners): 1,085  (Ranked 146)  
+Sum: 7,986 (Ranked 108)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 1,080 |
+| This game is Great for Beginners | 1,085 |
 | This game has Diverse Characters | 908 |
 | This game is Highly Recommended | 833 |
 | This game has Amazing Characters | 824 |
@@ -217,7 +217,7 @@ Diff (max vs sum): 38
 | This game is Extremely Fun | 769 |
 | This game has Quickly Understood Controls | 759 |
 | This game has a Creative Community | 682 |
-| This game has Easy Combat | 532 |
+| This game has Easy Combat | 533 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -486,4 +486,4 @@ Diff (max vs sum): 38
 | 2023-12-01 | 4.76 | - | 1,077 | 7,966 |
 | 2023-12-02 | 4.76 | - | 1,077 | 7,968 |
 | 2023-12-03 | 4.76 | - | 1,080 | 7,977 |
-| 2023-12-04 | 4.76 | - | 1,080 | 7,980 |
+| 2023-12-04 | 4.76 | - | 1,085 | 7,986 |

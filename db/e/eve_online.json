@@ -4,7 +4,7 @@
   "ProductSlug": "eve-online",
   "Ranking_Rating": 890,
   "Ranking_Popularity": 143,
-  "Ranking_PopularitySum": 182,
+  "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 776,
   "Ranking_EOS_Completed": 366,
   "Ranking_EOS_NewPlayers": 483,
@@ -3052,18 +3052,24 @@
       "Rating": 4.24,
       "NumberOfAwards": 2712,
       "NumberOfAwardsMax": 1146
+    },
+    {
+      "Time": "2023-12-04T15:00:27.5375286+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 2717,
+      "NumberOfAwardsMax": 1150
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2712,
-  "NumberOfAwardsMax": 1146,
+  "NumberOfAwards": 2717,
+  "NumberOfAwardsMax": 1150,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1146
+      "Count": 1150
     },
     {
       "Text": "This game is Relaxing",
@@ -3081,7 +3087,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 212
+      "Count": 213
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3137,8 +3143,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:38.4001765+00:00",
-  "LastChanged": "2023-12-03T16:59:59.0047359+00:00",
+  "LastChanged": "2023-12-04T15:00:27.5375284+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:22.2854272+00:00",
-  "LastUpdate_Ratings": "2023-12-04T14:01:40.2599958+00:00",
-  "LastUpdate_Achievements": "2023-12-04T14:09:03.7792459+00:00"
+  "LastUpdate_Ratings": "2023-12-04T15:00:27.5375291+00:00",
+  "LastUpdate_Achievements": "2023-12-04T15:08:24.7422234+00:00"
 }

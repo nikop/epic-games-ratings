@@ -14,27 +14,27 @@ Rating: 4.20 (Ranked 915)
 | Thriving in Darkness | 0.40% | ~9 |
 | The Past Shapes the Present | 0.40% | ~9 |
 | A Rest Among the Dead | 0.30% | ~7 |
-| Honed to Perfection | 0.20% | ~4 |
-| Rune Novice | 0.20% | ~4 |
-| Carving Out Victory | 0.20% | ~4 |
-| Utmost Insight | 0.20% | ~4 |
-| Vengeance for the Fallen | 0.20% | ~4 |
-| Rise and Fall | 0.20% | ~4 |
-| Together in Death | 0.20% | ~4 |
-| Burying the Past | 0.20% | ~4 |
-| Unwanted | 0.20% | ~4 |
-| Unbroken to the End | 0.20% | ~4 |
-| Wings of Grief | 0.20% | ~4 |
-| Twin Faces of Sin | 0.20% | ~4 |
-| Judgement | 0.20% | ~4 |
-| Hunt's End | 0.20% | ~4 |
-| The King is Dead | 0.20% | ~4 |
-| Moving On | 0.20% | ~4 |
-| Hero Worship | 0.20% | ~4 |
-| Without Purpose | 0.20% | ~4 |
-| Lord of the Risen | 0.20% | ~4 |
-| Essence of Death | 0.20% | ~4 |
-| Seasoned | 0.20% | ~4 |
+| Honed to Perfection | 0.20% | ~5 |
+| Rune Novice | 0.20% | ~5 |
+| Carving Out Victory | 0.20% | ~5 |
+| Utmost Insight | 0.20% | ~5 |
+| Vengeance for the Fallen | 0.20% | ~5 |
+| Rise and Fall | 0.20% | ~5 |
+| Together in Death | 0.20% | ~5 |
+| Burying the Past | 0.20% | ~5 |
+| Unwanted | 0.20% | ~5 |
+| Unbroken to the End | 0.20% | ~5 |
+| Wings of Grief | 0.20% | ~5 |
+| Twin Faces of Sin | 0.20% | ~5 |
+| Judgement | 0.20% | ~5 |
+| Hunt's End | 0.20% | ~5 |
+| The King is Dead | 0.20% | ~5 |
+| Moving On | 0.20% | ~5 |
+| Hero Worship | 0.20% | ~5 |
+| Without Purpose | 0.20% | ~5 |
+| Lord of the Risen | 0.20% | ~5 |
+| Essence of Death | 0.20% | ~5 |
+| Seasoned | 0.20% | ~5 |
 | Wayfarer | 0.10% | ~2 |
 | Weapon Collector | 0.10% | ~2 |
 | Ironclad | 0.10% | ~2 |
@@ -69,7 +69,7 @@ Rating: 4.20 (Ranked 915)
 | Lingering Moments | 0.10% | ~2 |
 | A Trace of Venom | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,250 (Ranked 222)  
+Progressed: 2,251 (Ranked 222)  
 Completed: 1 (0.04%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 1 (0.04%) (Ranked 326)
 | 2023-12-01 | 2,209 | 1 |
 | 2023-12-02 | 2,227 | 1 |
 | 2023-12-03 | 2,248 | 1 |
-| 2023-12-04 | 2,250 | 1 |
+| 2023-12-04 | 2,251 | 1 |
 ## Awards
 Max (Character Customization): 185  (Ranked 300)  
 Sum: 425 (Ranked 338)  

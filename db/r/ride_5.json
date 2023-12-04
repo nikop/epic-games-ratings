@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2345,
+  "EOS_Progressed": 2346,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5687,6 +5687,11 @@
       "Time": "2023-12-04T11:09:40.0985808+00:00",
       "NumProgressed": 2345,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-04T15:09:34.1958212+00:00",
+      "NumProgressed": 2346,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5699,7 +5704,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -5907,7 +5912,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 961
+      "UsersEstimate": 962
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -5995,7 +6000,7 @@
       "Name": "Eat My Dust",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -6090,14 +6095,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2345,
+      "Progressed": 2346,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-04T14:10:33.016369+00:00",
+  "LastChanged_Achievements": "2023-12-04T15:09:34.1958209+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:07.5482593+00:00",
-  "LastUpdate_Ratings": "2023-12-04T13:58:31.5905927+00:00",
-  "LastUpdate_Achievements": "2023-12-04T14:10:33.016417+00:00"
+  "LastUpdate_Ratings": "2023-12-04T14:58:02.9225336+00:00",
+  "LastUpdate_Achievements": "2023-12-04T15:09:34.1958691+00:00"
 }

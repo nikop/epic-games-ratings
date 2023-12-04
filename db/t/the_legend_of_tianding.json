@@ -4,7 +4,7 @@
   "ProductSlug": "the-legend-of-tianding",
   "Ranking_EOS_Progress": 536,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -205,9 +205,9 @@
       "ID": "BeatBossChen",
       "SetID": "123m9l1",
       "Name": "Death Battle",
-      "Percentage": 43,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "BeatBossKawa",
@@ -277,9 +277,9 @@
       "ID": "ExpressTrainExplorer",
       "SetID": "123m9l1",
       "Name": "Tour Guide",
-      "Percentage": 20,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "FanOfYang",
@@ -325,9 +325,9 @@
       "ID": "MightySword",
       "SetID": "123m9l1",
       "Name": "Demon Slayer",
-      "Percentage": 27,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MilitaryFactoryExplorer",
@@ -349,9 +349,9 @@
       "ID": "RescueAKuai",
       "SetID": "123m9l1",
       "Name": "Steal Her Away",
-      "Percentage": 27,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "SaveMatsumoto",
@@ -422,8 +422,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-12-04T14:05:20.3937936+00:00",
+  "LastChanged_Achievements": "2023-12-04T15:04:27.8934629+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:47.9296784+00:00",
-  "LastUpdate_Ratings": "2023-12-04T13:58:05.1276346+00:00",
-  "LastUpdate_Achievements": "2023-12-04T14:05:20.3938051+00:00"
+  "LastUpdate_Ratings": "2023-12-04T14:57:42.3695281+00:00",
+  "LastUpdate_Achievements": "2023-12-04T15:04:27.8934789+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "switchball-hd-6d3802",
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-12T13:00:00+00:00",
@@ -794,9 +794,9 @@
       "ID": "ACHIEVEMENT_METALBALL_BADGE_ID",
       "SetID": "2h9pc72",
       "Name": "Metalball Badge",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_POWERBALL_BADGE_ID",
@@ -857,8 +857,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:34.7709022+00:00",
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-12-04T14:10:26.2944313+00:00",
+  "LastChanged_Achievements": "2023-12-04T15:09:28.791372+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:25.5328573+00:00",
-  "LastUpdate_Ratings": "2023-12-04T14:01:55.0635767+00:00",
-  "LastUpdate_Achievements": "2023-12-04T14:10:26.2944408+00:00"
+  "LastUpdate_Ratings": "2023-12-04T15:00:39.2365325+00:00",
+  "LastUpdate_Achievements": "2023-12-04T15:09:28.7914028+00:00"
 }

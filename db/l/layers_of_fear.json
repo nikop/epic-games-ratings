@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -875,9 +875,9 @@
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "spy_one_item",
@@ -939,9 +939,9 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "whispers_long_forgotten",
@@ -962,8 +962,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-04T14:04:33.3674732+00:00",
+  "LastChanged_Achievements": "2023-12-04T15:03:50.691056+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:53.0795294+00:00",
-  "LastUpdate_Ratings": "2023-12-04T13:58:29.01785+00:00",
-  "LastUpdate_Achievements": "2023-12-04T14:04:33.3675062+00:00"
+  "LastUpdate_Ratings": "2023-12-04T14:58:01.082777+00:00",
+  "LastUpdate_Achievements": "2023-12-04T15:03:50.6910856+00:00"
 }

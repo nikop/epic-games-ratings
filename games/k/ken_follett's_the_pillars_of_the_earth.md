@@ -12,14 +12,14 @@ Number of Ratings: 368  (23.09.2022)
 | Yet another secret | 33.00% | ~5,560 |
 | Let there be darkness | 32.00% | ~5,391 |
 | End of Book One | 29.00% | ~4,886 |
-| Garden of Eden | 24.00% | ~4,043 |
+| Garden of Eden | 24.00% | ~4,044 |
 | Wannabe knight | 23.00% | ~3,875 |
 | Full house | 23.00% | ~3,875 |
 | Help an old friend | 21.00% | ~3,538 |
-| Two of us | 20.00% | ~3,369 |
-| Negotiation skills | 18.00% | ~3,032 |
-| Workers' union | 18.00% | ~3,032 |
-| End of Book Two | 18.00% | ~3,032 |
+| Two of us | 20.00% | ~3,370 |
+| Negotiation skills | 18.00% | ~3,033 |
+| Workers' union | 18.00% | ~3,033 |
+| End of Book Two | 18.00% | ~3,033 |
 | Everything's in order | 16.00% | ~2,696 |
 | Twist of Fate | 14.00% | ~2,359 |
 | Jack was here! | 14.00% | ~2,359 |
@@ -30,11 +30,11 @@ Number of Ratings: 368  (23.09.2022)
 | Friar Tuck | 10.00% | ~1,685 |
 | Team player | 10.00% | ~1,685 |
 | Skilled merchant | 9.00% | ~1,516 |
-| Nothing but make-believe | 9.00% | ~1,516 |
 | Brother Marcus | 9.00% | ~1,516 |
 | The oath | 9.00% | ~1,516 |
 | The truth revealed | 9.00% | ~1,516 |
 | The End. | 9.00% | ~1,516 |
+| Nothing but make-believe | 8.00% | ~1,348 |
 | A cry for help | 8.00% | ~1,348 |
 | Silentium est aureum | 7.00% | ~1,179 |
 | Rebel without a cause | 6.00% | ~1,011 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~505 |
 | Boy of mystery | 2.00% | ~337 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,847 (Ranked 148)  
+Progressed: 16,848 (Ranked 148)  
 Completed: 116 (0.69%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 116 (0.69%) (Ranked 186)
 | 2023-12-01 | 16,781 | 116 |
 | 2023-12-02 | 16,806 | 116 |
 | 2023-12-03 | 16,840 | 116 |
-| 2023-12-04 | 16,847 | 116 |
+| 2023-12-04 | 16,848 | 116 |
 ## Awards
 Max (Easy Puzzles): 155  (Ranked 318)  
 Sum: 198 (Ranked 402)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7403,
+  "EOS_Progressed": 7405,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 575,
+  "EOS_NewPlayers": 567,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5498,6 +5498,11 @@
       "Time": "2023-12-04T14:10:16.0675889+00:00",
       "NumProgressed": 7403,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-04T15:09:20.8425733+00:00",
+      "NumProgressed": 7405,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5548,9 +5553,9 @@
       "ID": "ConnectionLost",
       "SetID": "acc6ea0",
       "Name": "Connection Lost",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 962
+      "UsersEstimate": 1037
     },
     {
       "ID": "Eavesdropper",
@@ -5566,7 +5571,7 @@
       "Name": "Explosive Personality",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "FasterThanLight",
@@ -5614,7 +5619,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -5654,7 +5659,7 @@
       "Name": "Nasty!",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "NoMoreTotems",
@@ -5702,7 +5707,7 @@
       "Name": "The Old-School Way",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "TheQuarterback",
@@ -5726,7 +5731,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "UnResurrected",
@@ -5742,7 +5747,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -5781,7 +5786,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7403,
+      "Progressed": 7405,
       "Completed": 13
     }
   ],
@@ -5789,8 +5794,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-03T17:57:51.312762+00:00",
-  "LastChanged_Achievements": "2023-12-04T14:10:16.0675884+00:00",
+  "LastChanged_Achievements": "2023-12-04T15:09:20.8425729+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-04T13:59:14.0956909+00:00",
-  "LastUpdate_Achievements": "2023-12-04T14:10:16.0676308+00:00"
+  "LastUpdate_Ratings": "2023-12-04T14:58:35.7121216+00:00",
+  "LastUpdate_Achievements": "2023-12-04T15:09:20.8426172+00:00"
 }

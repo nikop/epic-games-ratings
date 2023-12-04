@@ -2,12 +2,12 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 128,
+  "Ranking_Rating": 129,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11395,10 +11395,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 49854,
       "NumberOfAwardsMax": 24909
+    },
+    {
+      "Time": "2023-12-04T14:59:31.9261272+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 49856,
+      "NumberOfAwardsMax": 24909
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49854,
+  "NumberOfAwards": 49856,
   "NumberOfAwardsMax": 24909,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11466,7 +11472,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1189
+      "Count": 1191
     },
     {
       "Text": "This game has a Creative Community",
@@ -11475,9 +11481,9 @@
       "Count": 832
     }
   ],
-  "EOS_Progressed": 303915,
+  "EOS_Progressed": 303919,
   "EOS_Completed": 521,
-  "EOS_NewPlayers": 543,
+  "EOS_NewPlayers": 546,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36025,6 +36031,11 @@
       "Time": "2023-12-04T12:09:19.2801307+00:00",
       "NumProgressed": 303915,
       "NumCompleted": 521
+    },
+    {
+      "Time": "2023-12-04T15:09:32.2160464+00:00",
+      "NumProgressed": 303919,
+      "NumCompleted": 521
     }
   ],
   "TotalAchievements": 45,
@@ -36036,7 +36047,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48626
+      "UsersEstimate": 48627
     },
     {
       "ID": "PFA_10",
@@ -36084,7 +36095,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24313
+      "UsersEstimate": 24314
     },
     {
       "ID": "PFA_16",
@@ -36100,7 +36111,7 @@
       "Name": "Beast Friends",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24313
+      "UsersEstimate": 24314
     },
     {
       "ID": "PFA_18",
@@ -36108,7 +36119,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 27352
+      "UsersEstimate": 27353
     },
     {
       "ID": "PFA_19",
@@ -36116,7 +36127,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 24313
+      "UsersEstimate": 24314
     },
     {
       "ID": "PFA_2",
@@ -36196,7 +36207,7 @@
       "Name": "Put Down Roots",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 9117
+      "UsersEstimate": 9118
     },
     {
       "ID": "PFA_29",
@@ -36212,7 +36223,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9117
+      "UsersEstimate": 9118
     },
     {
       "ID": "PFA_30",
@@ -36252,7 +36263,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9117
+      "UsersEstimate": 9118
     },
     {
       "ID": "PFA_35",
@@ -36340,7 +36351,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27352
+      "UsersEstimate": 27353
     },
     {
       "ID": "PFA_45",
@@ -36364,7 +36375,7 @@
       "Name": "First Class Student",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45587
+      "UsersEstimate": 45588
     },
     {
       "ID": "PFA_7",
@@ -36372,7 +36383,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42548
+      "UsersEstimate": 42549
     },
     {
       "ID": "PFA_8",
@@ -36395,16 +36406,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303915,
+      "Progressed": 303919,
       "Completed": 521
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-12-04T14:00:27.6617734+00:00",
-  "LastChanged_Achievements": "2023-12-04T14:10:30.4418464+00:00",
+  "LastChanged": "2023-12-04T14:59:31.9261268+00:00",
+  "LastChanged_Achievements": "2023-12-04T15:09:32.2160461+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-04T14:00:27.661774+00:00",
-  "LastUpdate_Achievements": "2023-12-04T14:10:30.4420014+00:00"
+  "LastUpdate_Ratings": "2023-12-04T14:59:31.9261277+00:00",
+  "LastUpdate_Achievements": "2023-12-04T15:09:32.2162123+00:00"
 }

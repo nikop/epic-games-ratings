@@ -15,6 +15,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Gathering Storm | 2.00% | ~352 |
 | Untamed Wilds | 1.00% | ~176 |
 | No Deaths | 0.30% | ~53 |
+| Fox Utopia | 0.30% | ~53 |
 | First Real Expedition | 0.20% | ~35 |
 | Overcoming Difficulty | 0.20% | ~35 |
 | Ruined Armory | 0.20% | ~35 |
@@ -22,13 +23,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fertile Meadows | 0.20% | ~35 |
 | Monastery of the Holy Flame | 0.20% | ~35 |
 | Royal Outpost | 0.20% | ~35 |
+| Corrosive Torrent | 0.20% | ~35 |
 | Watchtower | 0.20% | ~35 |
 | Coral Forest | 0.20% | ~35 |
 | The Marshlands | 0.20% | ~35 |
 | The Scarlet Orchard | 0.20% | ~35 |
 | Taking Action | 0.20% | ~35 |
 | Trade Baron | 0.20% | ~35 |
-| Fox Utopia | 0.20% | ~35 |
 | Serving Ale | 0.10% | ~18 |
 | Feeding The People | 0.10% | ~18 |
 | Higher Needs | 0.10% | ~18 |
@@ -52,7 +53,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lost Colonies | 0.10% | ~18 |
 | Statue of the Forefathers | 0.10% | ~18 |
 | Forsaken Gods Temple | 0.10% | ~18 |
-| Corrosive Torrent | 0.10% | ~18 |
 | Cursed Lands | 0.10% | ~18 |
 | Prestigious Expedition | 0.10% | ~18 |
 | The Queen's Chosen | 0.10% | ~18 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.00% | ~0 |
 | Treasure | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,596 (Ranked 146)  
+Progressed: 17,597 (Ranked 146)  
 Completed: 49 (0.28%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 49 (0.28%) (Ranked 243)
 | 2023-12-01 | 17,557 | 49 |
 | 2023-12-02 | 17,567 | 49 |
 | 2023-12-03 | 17,585 | 49 |
-| 2023-12-04 | 17,596 | 49 |
+| 2023-12-04 | 17,597 | 49 |
 ## Awards
 Max (Quickly Understood Controls): 441  (Ranked 223)  
 Sum: 3,241 (Ranked 173)  

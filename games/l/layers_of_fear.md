@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wanderer | 79.00% | ~82 |
-| Something important | 76.00% | ~79 |
+| Wanderer | 80.00% | ~83 |
+| Something important | 77.00% | ~80 |
 | A piece of the story | 59.00% | ~61 |
 | Do what you have to | 46.00% | ~48 |
 | It's covered up for a reason | 45.00% | ~47 |

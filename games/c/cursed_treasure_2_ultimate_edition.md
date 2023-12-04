@@ -50,8 +50,8 @@
 | Dwarven Countdown | 31.00% | ~56 |
 | Starry: Wasteland | 30.00% | ~54 |
 | Deadman's Chest | 29.00% | ~52 |
+| Brilliant: Free Coast | 28.00% | ~51 |
 | Monument Keeper | 28.00% | ~51 |
-| Brilliant: Free Coast | 27.00% | ~49 |
 | Brilliant: The Deep | 25.00% | ~45 |
 | Starry: Free Coast | 24.00% | ~43 |
 | Starry: The Deep | 23.00% | ~42 |

@@ -2,9 +2,9 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 485,
+  "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -388,9 +388,9 @@
       "ID": "AC_BLACKJACK_GAMES_2",
       "SetID": "16i2akc",
       "Name": "Ludopath",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "AC_BOSS_00",
@@ -667,8 +667,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-04T14:07:40.9560838+00:00",
+  "LastChanged_Achievements": "2023-12-04T15:06:19.2207209+00:00",
   "LastUpdate_AppInfo": "2023-11-28T18:57:05.8641658+00:00",
-  "LastUpdate_Ratings": "2023-12-04T14:00:10.1787177+00:00",
-  "LastUpdate_Achievements": "2023-12-04T14:07:40.956113+00:00"
+  "LastUpdate_Ratings": "2023-12-04T14:59:19.1156903+00:00",
+  "LastUpdate_Achievements": "2023-12-04T15:06:19.220743+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 338,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -747,7 +747,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2250,
+  "EOS_Progressed": 2251,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
@@ -4012,6 +4012,11 @@
       "Time": "2023-12-04T11:03:48.4406988+00:00",
       "NumProgressed": 2250,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-04T15:04:05.0473189+00:00",
+      "NumProgressed": 2251,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -4136,7 +4141,7 @@
       "Name": "Honed to Perfection",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_016",
@@ -4144,7 +4149,7 @@
       "Name": "Rune Novice",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_017",
@@ -4160,7 +4165,7 @@
       "Name": "Carving Out Victory",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_019",
@@ -4168,7 +4173,7 @@
       "Name": "Utmost Insight",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_020",
@@ -4192,7 +4197,7 @@
       "Name": "Vengeance for the Fallen",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_023",
@@ -4240,7 +4245,7 @@
       "Name": "Rise and Fall",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_029",
@@ -4248,7 +4253,7 @@
       "Name": "Together in Death",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_030",
@@ -4256,7 +4261,7 @@
       "Name": "Burying the Past",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_031",
@@ -4264,7 +4269,7 @@
       "Name": "Unwanted",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_032",
@@ -4272,7 +4277,7 @@
       "Name": "Unbroken to the End",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_033",
@@ -4280,7 +4285,7 @@
       "Name": "Wings of Grief",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_034",
@@ -4288,7 +4293,7 @@
       "Name": "Twin Faces of Sin",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_035",
@@ -4296,7 +4301,7 @@
       "Name": "Judgement",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_036",
@@ -4304,7 +4309,7 @@
       "Name": "Hunt\u0027s End",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_037",
@@ -4312,7 +4317,7 @@
       "Name": "The King is Dead",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_038",
@@ -4368,7 +4373,7 @@
       "Name": "Moving On",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_045",
@@ -4376,7 +4381,7 @@
       "Name": "Hero Worship",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_046",
@@ -4400,7 +4405,7 @@
       "Name": "Without Purpose",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_049",
@@ -4432,7 +4437,7 @@
       "Name": "Lord of the Risen",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_053",
@@ -4464,7 +4469,7 @@
       "Name": "Essence of Death",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_057",
@@ -4480,7 +4485,7 @@
       "Name": "Seasoned",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_059",
@@ -4527,7 +4532,7 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 2250,
+      "Progressed": 2251,
       "Completed": 1
     }
   ],
@@ -4535,8 +4540,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-12-03T16:57:18.1806072+00:00",
-  "LastChanged_Achievements": "2023-12-04T14:04:51.1372506+00:00",
+  "LastChanged_Achievements": "2023-12-04T15:04:05.0473187+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:59.1898679+00:00",
-  "LastUpdate_Ratings": "2023-12-04T13:58:12.1571316+00:00",
-  "LastUpdate_Achievements": "2023-12-04T14:04:51.1373024+00:00"
+  "LastUpdate_Ratings": "2023-12-04T14:57:48.0241367+00:00",
+  "LastUpdate_Achievements": "2023-12-04T15:04:05.04738+00:00"
 }

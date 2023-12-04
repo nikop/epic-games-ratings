@@ -1,13 +1,13 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 128)  
+Rating: 4.76 (Ranked 129)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,626 |
-| First Class Student | 15.00% | ~45,587 |
-| Troll with the Punches | 14.00% | ~42,548 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,627 |
+| First Class Student | 15.00% | ~45,588 |
+| Troll with the Punches | 14.00% | ~42,549 |
 | A Keen Sense of Spell | 13.00% | ~39,509 |
 | That's a Keeper | 13.00% | ~39,509 |
 | The Hallowed Hero | 12.00% | ~36,470 |
@@ -21,11 +21,11 @@ Rating: 4.76 (Ranked 128)
 | Coasting Along | 11.00% | ~33,431 |
 | Followed the Butterflies | 10.00% | ~30,392 |
 | Rising From the Ashes | 10.00% | ~30,392 |
-| A Sallow Grave | 9.00% | ~27,352 |
-| The Spell Master | 9.00% | ~27,352 |
-| The Avenging Gazelle | 8.00% | ~24,313 |
-| Beast Friends | 8.00% | ~24,313 |
-| Flight the Good Flight | 8.00% | ~24,313 |
+| A Sallow Grave | 9.00% | ~27,353 |
+| The Spell Master | 9.00% | ~27,353 |
+| The Avenging Gazelle | 8.00% | ~24,314 |
+| Beast Friends | 8.00% | ~24,314 |
+| Flight the Good Flight | 8.00% | ~24,314 |
 | Raising Expectations | 7.00% | ~21,274 |
 | The Seeker of Knowledge | 6.00% | ~18,235 |
 | The Root of the Problem | 6.00% | ~18,235 |
@@ -37,9 +37,9 @@ Rating: 4.76 (Ranked 128)
 | Room with a View | 4.00% | ~12,157 |
 | The Intrepid Explorer | 4.00% | ~12,157 |
 | The Wise Owl | 4.00% | ~12,157 |
-| Put Down Roots | 3.00% | ~9,117 |
-| The Auror's Apprentice | 3.00% | ~9,117 |
-| Floo Around the World | 3.00% | ~9,117 |
+| Put Down Roots | 3.00% | ~9,118 |
+| The Auror's Apprentice | 3.00% | ~9,118 |
+| Floo Around the World | 3.00% | ~9,118 |
 | The Good Samaritan | 2.00% | ~6,078 |
 | Rise to the Challenges | 2.00% | ~6,078 |
 | Demiguise Dread | 2.00% | ~6,078 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 128)
 | The Nature of the Beast | 0.70% | ~2,127 |
 | Collector's Edition | 0.30% | ~912 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,915 (Ranked 54)  
+Progressed: 303,919 (Ranked 54)  
 Completed: 521 (0.17%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,10 +279,10 @@ Completed: 521 (0.17%) (Ranked 268)
 | 2023-12-01 | 303,730 | 520 |
 | 2023-12-02 | 303,789 | 520 |
 | 2023-12-03 | 303,892 | 521 |
-| 2023-12-04 | 303,915 | 521 |
+| 2023-12-04 | 303,919 | 521 |
 ## Awards
 Max (Character Customization): 24,909  (Ranked 17)  
-Sum: 49,854 (Ranked 30)  
+Sum: 49,856 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -295,7 +295,7 @@ Diff (max vs sum): -13
 | This game is Relaxing | 1,288 |
 | This game has Amazing Characters | 1,255 |
 | This game is Highly Recommended | 1,229 |
-| This game has Quickly Understood Controls | 1,189 |
+| This game has Quickly Understood Controls | 1,191 |
 | This game has Beautiful Visuals | 1,076 |
 | This game has a Creative Community | 832 |
 ## Ratings History
@@ -556,4 +556,4 @@ Diff (max vs sum): -13
 | 2023-12-01 | 4.76 | 24,816 | 49,628 |
 | 2023-12-02 | 4.76 | 24,816 | 49,655 |
 | 2023-12-03 | 4.76 | 24,854 | 49,759 |
-| 2023-12-04 | 4.76 | 24,909 | 49,854 |
+| 2023-12-04 | 4.76 | 24,909 | 49,856 |

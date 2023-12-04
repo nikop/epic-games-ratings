@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 3651,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 3652,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3353,9 +3353,9 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 17596,
+  "EOS_Progressed": 17597,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": -7,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -14733,6 +14733,11 @@
       "Time": "2023-12-04T14:09:30.5886803+00:00",
       "NumProgressed": 17596,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-04T15:08:45.1156213+00:00",
+      "NumProgressed": 17597,
+      "NumCompleted": 49
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -14991,9 +14996,9 @@
       "ID": "WinNearTorrent",
       "SetID": "cfbk359",
       "Name": "Corrosive Torrent",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "WinNearWatchtower",
@@ -15207,24 +15212,24 @@
       "ID": "WinWithFoxes",
       "SetID": "cfbk359",
       "Name": "Fox Utopia",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 53
     }
   ],
   "AchievementSets": [
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17596,
+      "Progressed": 17597,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-04T03:57:35.3652806+00:00",
-  "LastChanged_Achievements": "2023-12-04T14:09:30.58868+00:00",
+  "LastChanged_Achievements": "2023-12-04T15:08:45.1156211+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:14.3162798+00:00",
-  "LastUpdate_Ratings": "2023-12-04T13:58:33.656776+00:00",
-  "LastUpdate_Achievements": "2023-12-04T14:09:30.588788+00:00"
+  "LastUpdate_Ratings": "2023-12-04T14:58:04.4450103+00:00",
+  "LastUpdate_Achievements": "2023-12-04T15:08:45.1157133+00:00"
 }

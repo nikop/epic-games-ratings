@@ -1,15 +1,15 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 128)  
+Rating: 4.76 (Ranked 129)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 27.00% | ~3,303 |
-| A Spark | 19.00% | ~2,324 |
+| A Spark | 19.00% | ~2,325 |
 | Burning City | 18.00% | ~2,202 |
-| Defender's Heart | 16.00% | ~1,957 |
+| Defender's Heart | 16.00% | ~1,958 |
 | Mythic Choices | 15.00% | ~1,835 |
 | Banner over the Citadel | 14.00% | ~1,713 |
 | Queen's Gratitude | 12.00% | ~1,468 |
@@ -34,10 +34,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Lich | 3.00% | ~367 |
 | Heroic Victory | 3.00% | ~367 |
 | Core of the Riddle | 3.00% | ~367 |
-| Hanged Man's Notes | 3.00% | ~330 |
-| Sarkoris Will Be Green | 3.00% | ~330 |
-| The Lady of the Forest | 3.00% | ~330 |
-| Beware Still Water | 3.00% | ~330 |
+| Hanged Man's Notes | 3.00% | ~331 |
+| Sarkoris Will Be Green | 3.00% | ~331 |
+| The Lady of the Forest | 3.00% | ~331 |
+| Beware Still Water | 3.00% | ~331 |
 | Path of the Demon | 2.00% | ~245 |
 | Path of the Aeon | 2.00% | ~245 |
 | Capitulation Is Now Moot | 2.00% | ~245 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,234 (Ranked 159)  
+Progressed: 12,235 (Ranked 159)  
 Completed: 0 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,7 +351,7 @@ Completed: 0 (0.00%) (Ranked 366)
 | 2023-12-01 | 12,220 | 0 |
 | 2023-12-02 | 12,225 | 0 |
 | 2023-12-03 | 12,230 | 0 |
-| 2023-12-04 | 12,234 | 0 |
+| 2023-12-04 | 12,235 | 0 |
 ## Awards
 Max (Character Customization): 1,753  (Ranked 122)  
 Sum: 7,109 (Ranked 120)  

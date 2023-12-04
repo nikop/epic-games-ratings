@@ -4,7 +4,7 @@
   "ProductSlug": "tyranny",
   "Ranking_Rating": 436,
   "Ranking_Popularity": 184,
-  "Ranking_PopularitySum": 237,
+  "Ranking_PopularitySum": 238,
   "Ranking_EOS_Progress": 776,
   "Ranking_EOS_Completed": 366,
   "Ranking_EOS_NewPlayers": 483,
@@ -1619,10 +1619,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1470,
       "NumberOfAwardsMax": 722
+    },
+    {
+      "Time": "2023-12-04T14:58:51.3093695+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1426,
+      "NumberOfAwardsMax": 722
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1470,
+  "NumberOfAwards": 1426,
   "NumberOfAwardsMax": 722,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1704,8 +1710,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:41.6168651+00:00",
-  "LastChanged": "2023-12-03T15:58:11.2634739+00:00",
+  "LastChanged": "2023-12-04T14:58:51.3093694+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:21.73397+00:00",
-  "LastUpdate_Ratings": "2023-12-04T13:59:34.0637457+00:00",
-  "LastUpdate_Achievements": "2023-12-04T14:07:56.0774097+00:00"
+  "LastUpdate_Ratings": "2023-12-04T14:58:51.30937+00:00",
+  "LastUpdate_Achievements": "2023-12-04T15:06:31.1213983+00:00"
 }

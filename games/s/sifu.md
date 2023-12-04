@@ -22,7 +22,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Essence | 0.60% | ~4,307 |
 | Path of the Prospect | 0.60% | ~4,307 |
 | Rumble in the Hangar | 0.60% | ~4,307 |
-| Fight the way you practice | 0.60% | ~162 |
+| Fight the way you practice | 0.60% | ~163 |
 | Furious Fists | 0.50% | ~3,589 |
 | Stuntmaster | 0.50% | ~3,589 |
 | Old Child | 0.50% | ~3,589 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,781 (Ranked 22)  
+Progressed: 717,784 (Ranked 22)  
 Completed: 12,943 (1.80%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,15 +295,15 @@ Completed: 12,943 (1.80%) (Ranked 134)
 | 2023-12-01 | 717,685 | 12,942 |
 | 2023-12-02 | 717,716 | 12,943 |
 | 2023-12-03 | 717,761 | 12,943 |
-| 2023-12-04 | 717,781 | 12,943 |
+| 2023-12-04 | 717,784 | 12,943 |
 ## Awards
 Max (Great Boss Battles): 6,870  (Ranked 55)  
-Sum: 12,049 (Ranked 83)  
+Sum: 12,052 (Ranked 83)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,870 |
-| This game has Diverse Characters | 668 |
+| This game has Diverse Characters | 671 |
 | This game has Challenging Combat | 613 |
 | This game has Amazing Storytelling | 599 |
 | This game has Amazing Characters | 585 |
@@ -637,4 +637,4 @@ Diff (max vs sum): -28
 | 2023-12-01 | 4.82 | - | 6,864 | 12,030 |
 | 2023-12-02 | 4.82 | - | 6,864 | 12,035 |
 | 2023-12-03 | 4.82 | - | 6,870 | 12,046 |
-| 2023-12-04 | 4.82 | - | 6,870 | 12,049 |
+| 2023-12-04 | 4.82 | - | 6,870 | 12,052 |

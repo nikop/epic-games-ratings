@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 412,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1058,9 +1058,9 @@
       "ID": "FIRST_ACCEL_COMBO",
       "SetID": "apihg0e",
       "Name": "Combo Convert",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 148
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -1329,8 +1329,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-04T14:09:21.5303465+00:00",
+  "LastChanged_Achievements": "2023-12-04T15:08:38.5848715+00:00",
   "LastUpdate_AppInfo": "2023-11-28T17:56:55.9843317+00:00",
-  "LastUpdate_Ratings": "2023-12-04T14:03:22.8576617+00:00",
-  "LastUpdate_Achievements": "2023-12-04T14:09:21.5303791+00:00"
+  "LastUpdate_Ratings": "2023-12-04T15:02:54.9972741+00:00",
+  "LastUpdate_Achievements": "2023-12-04T15:08:38.5848961+00:00"
 }

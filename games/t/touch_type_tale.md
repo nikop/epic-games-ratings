@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 87.00% | ~3,320 |
-| Flanked! | 76.00% | ~2,900 |
+| You and what Army? | 87.00% | ~3,321 |
+| Flanked! | 76.00% | ~2,901 |
 | Economics 101 | 60.00% | ~2,290 |
 | Get Rich Quick | 42.00% | ~1,603 |
 | Do the Splits | 38.00% | ~1,450 |
@@ -32,13 +32,13 @@
 | Reinforcements | 4.00% | ~153 |
 | Sweet Revenge | 4.00% | ~153 |
 | Figure of Breach | 4.00% | ~153 |
-| Almost Like Winning | 3.00% | ~114 |
-| The Handyman Can! | 3.00% | ~114 |
-| A Brief Moment of Respite | 3.00% | ~114 |
+| Almost Like Winning | 3.00% | ~115 |
+| The Handyman Can! | 3.00% | ~115 |
+| A Brief Moment of Respite | 3.00% | ~115 |
 | Untouchable | 1.00% | ~38 |
 | All Geared Up | 0.90% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,816 (Ranked 200)  
+Progressed: 3,817 (Ranked 200)  
 Completed: 11 (0.29%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 11 (0.29%) (Ranked 239)
 | 2023-12-01 | 3,810 | 11 |
 | 2023-12-02 | 3,812 | 11 |
 | 2023-12-03 | 3,815 | 11 |
-| 2023-12-04 | 3,816 | 11 |
+| 2023-12-04 | 3,817 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

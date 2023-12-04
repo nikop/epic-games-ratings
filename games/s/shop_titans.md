@@ -19,14 +19,14 @@ Number of Ratings: 12,664  (23.09.2022)
 | Pretty Penny | 4.00% | ~5,751 |
 | Budding Merchant | 4.00% | ~5,751 |
 | Own the Means of Production | 4.00% | ~5,751 |
-| The Daily Grind | 3.00% | ~4,313 |
-| Bounty Hunters | 3.00% | ~4,313 |
-| Demand for Supplies | 3.00% | ~4,313 |
-| Flooding the Market | 3.00% | ~4,313 |
-| Where it Hurts | 3.00% | ~4,313 |
-| One-Armed Bandit | 3.00% | ~4,313 |
-| Dungeon Imports | 3.00% | ~4,313 |
-| Through Repetition, Perfection | 3.00% | ~4,313 |
+| The Daily Grind | 3.00% | ~4,314 |
+| Bounty Hunters | 3.00% | ~4,314 |
+| Demand for Supplies | 3.00% | ~4,314 |
+| Flooding the Market | 3.00% | ~4,314 |
+| Where it Hurts | 3.00% | ~4,314 |
+| One-Armed Bandit | 3.00% | ~4,314 |
+| Dungeon Imports | 3.00% | ~4,314 |
+| Through Repetition, Perfection | 3.00% | ~4,314 |
 | On the Path to Greatness | 2.00% | ~2,876 |
 | A Notch Above the Rest | 2.00% | ~2,876 |
 | Ascended | 2.00% | ~2,876 |
@@ -105,8 +105,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Blade | 1.00% | ~1,438 |
 | The Free Encyclopedia | 0.90% | ~1,294 |
 | Eternal Crusade | 0.90% | ~1,294 |
-| The Greatest Grind | 0.70% | ~1,006 |
-| All or Nothing! | 0.70% | ~1,006 |
+| The Greatest Grind | 0.70% | ~1,007 |
+| All or Nothing! | 0.70% | ~1,007 |
 | Anything not Nailed Down | 0.60% | ~863 |
 | Marvels from the World Over | 0.60% | ~863 |
 | Bane of Legends | 0.50% | ~719 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~431 |
 | Capitalist Camaraderie | 0.20% | ~288 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 143,781 (Ranked 80)  
+Progressed: 143,787 (Ranked 80)  
 Completed: 291 (0.20%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 291 (0.20%) (Ranked 257)
 | 2023-12-01 | 143,280 | 290 |
 | 2023-12-02 | 143,469 | 290 |
 | 2023-12-03 | 143,715 | 291 |
-| 2023-12-04 | 143,781 | 291 |
+| 2023-12-04 | 143,787 | 291 |
 ## Awards
 Max (Great for Beginners): 4,862  (Ranked 75)  
 Sum: 27,658 (Ranked 50)  

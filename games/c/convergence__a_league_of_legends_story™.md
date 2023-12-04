@@ -25,9 +25,9 @@ Rating: 4.62 (Ranked 368)
 | The Betrayer | 20.00% | ~189 |
 | Golem Chaser | 20.00% | ~189 |
 | Right On Time | 19.00% | ~180 |
+| The Loose Cannon | 19.00% | ~180 |
 | Check Your Pulse | 19.00% | ~180 |
 | The Man Who Shattered Time | 18.00% | ~170 |
-| The Loose Cannon | 18.00% | ~170 |
 | The Family Fortune | 18.00% | ~170 |
 | Street Style | 17.00% | ~161 |
 | Whiz Kid | 15.00% | ~142 |

@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escape from Fleed | 27.00% | ~3 |
-| First Contact | 27.00% | ~3 |
-| Strength in Defeat | 27.00% | ~3 |
-| Life of Pi | 27.00% | ~3 |
-| Technology first! | 27.00% | ~3 |
-| A Good Paint Job | 18.00% | ~2 |
-| The Keeper of Fleed | 18.00% | ~2 |
-| The Power of Friendship | 9.00% | ~1 |
-| The Remains of Fleed | 9.00% | ~1 |
-| The Planner | 9.00% | ~1 |
-| Iron Fist | 9.00% | ~1 |
-| The Exterminator | 9.00% | ~1 |
-| The Legend | 9.00% | ~1 |
-| The Space Hydra | 9.00% | ~1 |
-| The Vega Turtle | 9.00% | ~1 |
+| Escape from Fleed | 25.00% | ~3 |
+| First Contact | 25.00% | ~3 |
+| Strength in Defeat | 25.00% | ~3 |
+| Life of Pi | 25.00% | ~3 |
+| Technology first! | 25.00% | ~3 |
+| The Remains of Fleed | 17.00% | ~2 |
+| A Good Paint Job | 17.00% | ~2 |
+| The Keeper of Fleed | 17.00% | ~2 |
+| The Legend | 17.00% | ~2 |
+| The Vega Turtle | 17.00% | ~2 |
+| The Power of Friendship | 8.00% | ~1 |
+| The Planner | 8.00% | ~1 |
+| Iron Fist | 8.00% | ~1 |
+| The Exterminator | 8.00% | ~1 |
+| The Space Hydra | 8.00% | ~1 |
 | Gold Seeker | 0.00% | ~0 |
 | A Land of Peace | 0.00% | ~0 |
 | Earth's Savior | 0.00% | ~0 |
@@ -35,7 +35,7 @@
 | The Ultimate Attack | 0.00% | ~0 |
 | Vengeance of the Wolf | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11 (Ranked 610)  
+Progressed: 12 (Ranked 603)  
 Completed: 0 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -46,4 +46,4 @@ Completed: 0 (0.00%) (Ranked 366)
 | 2023-11-27 | 5 | 0 |
 | 2023-11-29 | 6 | 0 |
 | 2023-11-30 | 8 | 0 |
-| 2023-12-04 | 11 | 0 |
+| 2023-12-04 | 12 | 0 |

@@ -12,9 +12,9 @@
 | Fashion Connoisseur | 50.00% | ~270 |
 | Arms Mechanic | 46.00% | ~248 |
 | Flower Thief | 41.00% | ~221 |
+| Beginner Artificer | 36.00% | ~194 |
 | Apostle of Flame | 36.00% | ~194 |
 | Beginner Cook | 35.00% | ~189 |
-| Beginner Artificer | 35.00% | ~189 |
 | Seal Breaker | 31.00% | ~167 |
 | Handyman | 27.00% | ~146 |
 | Giant Lizard Killer | 26.00% | ~140 |
@@ -33,9 +33,9 @@
 | Cave Master | 12.00% | ~65 |
 | Face Slapper | 12.00% | ~65 |
 | Boss challenge | 8.00% | ~43 |
+| Berserker Slayer | 8.00% | ~43 |
 | Master Cook | 7.00% | ~38 |
-| Berserker Slayer | 7.00% | ~38 |
-| Giantess Slayer | 6.00% | ~32 |
+| Giantess Slayer | 7.00% | ~38 |
 | Warden Slayer | 6.00% | ~32 |
 | Rebellious | 2.00% | ~11 |
 | Blade Mantis Challenge | 2.00% | ~11 |

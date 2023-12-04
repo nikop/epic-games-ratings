@@ -7381,9 +7381,9 @@
       "Count": 3792
     }
   ],
-  "EOS_Progressed": 143781,
+  "EOS_Progressed": 143787,
   "EOS_Completed": 291,
-  "EOS_NewPlayers": 1334,
+  "EOS_NewPlayers": 1330,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -31041,6 +31041,11 @@
       "Time": "2023-12-04T14:08:08.3838596+00:00",
       "NumProgressed": 143781,
       "NumCompleted": 291
+    },
+    {
+      "Time": "2023-12-04T15:06:41.4106318+00:00",
+      "NumProgressed": 143787,
+      "NumCompleted": 291
     }
   ],
   "TotalAchievements": 112,
@@ -31052,7 +31057,7 @@
       "Name": "The Daily Grind",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4313
+      "UsersEstimate": 4314
     },
     {
       "ID": "advlevel02",
@@ -31188,7 +31193,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4313
+      "UsersEstimate": 4314
     },
     {
       "ID": "boss02",
@@ -31292,7 +31297,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4313
+      "UsersEstimate": 4314
     },
     {
       "ID": "commonres03",
@@ -31324,7 +31329,7 @@
       "Name": "Flooding the Market",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4313
+      "UsersEstimate": 4314
     },
     {
       "ID": "craft03",
@@ -31356,7 +31361,7 @@
       "Name": "Where it Hurts",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4313
+      "UsersEstimate": 4314
     },
     {
       "ID": "damage02",
@@ -31604,7 +31609,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4313
+      "UsersEstimate": 4314
     },
     {
       "ID": "jackslot02",
@@ -31676,7 +31681,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4313
+      "UsersEstimate": 4314
     },
     {
       "ID": "loot02",
@@ -31708,7 +31713,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4313
+      "UsersEstimate": 4314
     },
     {
       "ID": "master02",
@@ -31740,7 +31745,7 @@
       "Name": "The Greatest Grind",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "masterpiece",
@@ -31748,7 +31753,7 @@
       "Name": "All or Nothing!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "polonia_a",
@@ -31947,15 +31952,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 143781,
+      "Progressed": 143787,
       "Completed": 291
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-04T14:03:28.9048198+00:00",
-  "LastChanged_Achievements": "2023-12-04T14:08:08.3838593+00:00",
+  "LastChanged_Achievements": "2023-12-04T15:06:41.4106314+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:14.839929+00:00",
-  "LastUpdate_Ratings": "2023-12-04T14:03:28.9048208+00:00",
-  "LastUpdate_Achievements": "2023-12-04T14:08:08.3840438+00:00"
+  "LastUpdate_Ratings": "2023-12-04T15:02:59.7768189+00:00",
+  "LastUpdate_Achievements": "2023-12-04T15:06:41.4108274+00:00"
 }

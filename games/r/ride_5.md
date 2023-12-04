@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 45.00% | ~1,055 |
-| First Love | 43.00% | ~1,008 |
-| Clean Race | 41.00% | ~961 |
+| Eat My Dust | 45.00% | ~1,056 |
+| First Love | 43.00% | ~1,009 |
+| Clean Race | 41.00% | ~962 |
 | Hear That Roar! | 39.00% | ~915 |
 | Rivals to the End | 28.00% | ~657 |
 | Bitter Rivalry | 27.00% | ~633 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,345 (Ranked 219)  
+Progressed: 2,346 (Ranked 219)  
 Completed: 0 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,4 +148,4 @@ Completed: 0 (0.00%) (Ranked 366)
 | 2023-12-01 | 2,323 | 0 |
 | 2023-12-02 | 2,332 | 0 |
 | 2023-12-03 | 2,344 | 0 |
-| 2023-12-04 | 2,345 | 0 |
+| 2023-12-04 | 2,346 | 0 |

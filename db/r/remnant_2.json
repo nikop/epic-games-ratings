@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
     "PcReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -5139,10 +5139,10 @@
       "Count": 396
     }
   ],
-  "EOS_Progressed": 234575,
-  "EOS_Completed": 555,
-  "EOS_NewPlayers": 5220,
-  "EOS_NewCompleters": 19,
+  "EOS_Progressed": 234609,
+  "EOS_Completed": 556,
+  "EOS_NewPlayers": 5226,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
@@ -21324,6 +21324,11 @@
       "Time": "2023-12-04T14:09:31.7424473+00:00",
       "NumProgressed": 234575,
       "NumCompleted": 555
+    },
+    {
+      "Time": "2023-12-04T15:08:46.0027369+00:00",
+      "NumProgressed": 234609,
+      "NumCompleted": 556
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21640,7 +21645,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1407
+      "UsersEstimate": 1408
     },
     {
       "ID": "Obtain_Traits_B",
@@ -21744,7 +21749,7 @@
       "Name": "Succession",
       "Percentage": 0.2,
       "XP": 75,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "DLC1_Obtain_Archetype",
@@ -21768,20 +21773,20 @@
       "Name": "You Shall Pass",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     }
   ],
   "AchievementSets": [
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 234575,
-      "Completed": 555
+      "Progressed": 234609,
+      "Completed": 556
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 13740,
+      "Progressed": 13774,
       "Completed": 192
     }
   ],
@@ -21789,8 +21794,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-04T12:02:59.2774256+00:00",
-  "LastChanged_Achievements": "2023-12-04T14:09:31.7424471+00:00",
+  "LastChanged_Achievements": "2023-12-04T15:08:46.0027365+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-04T14:03:43.4346979+00:00",
-  "LastUpdate_Achievements": "2023-12-04T14:09:31.7425364+00:00"
+  "LastUpdate_Ratings": "2023-12-04T15:03:10.8786801+00:00",
+  "LastUpdate_Achievements": "2023-12-04T15:08:46.0028257+00:00"
 }

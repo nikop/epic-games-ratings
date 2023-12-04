@@ -6,10 +6,10 @@ Number of Ratings: 170  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~19,378 |
-| Mama? | 27.00% | ~6,884 |
-| People's Haven | 18.00% | ~4,589 |
-| Cartographer | 17.00% | ~4,334 |
+| Light at the end of the tunnel | 76.00% | ~19,379 |
+| Mama? | 27.00% | ~6,885 |
+| People's Haven | 18.00% | ~4,590 |
+| Cartographer | 17.00% | ~4,335 |
 | Knowledge for Power | 14.00% | ~3,570 |
 | Antlers of Stone | 14.00% | ~3,570 |
 | Gaze into the abyss | 13.00% | ~3,315 |
@@ -27,7 +27,7 @@ Number of Ratings: 170  (23.09.2022)
 | Ripples on the surface | 5.00% | ~1,275 |
 | Hide and Seek | 4.00% | ~1,020 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,497 (Ranked 130)  
+Progressed: 25,499 (Ranked 130)  
 Completed: 483 (1.89%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 483 (1.89%) (Ranked 130)
 | 2023-12-01 | 25,291 | 480 |
 | 2023-12-02 | 25,364 | 481 |
 | 2023-12-03 | 25,469 | 483 |
-| 2023-12-04 | 25,497 | 483 |
+| 2023-12-04 | 25,499 | 483 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

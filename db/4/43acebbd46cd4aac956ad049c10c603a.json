@@ -187,9 +187,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 868,
+  "EOS_Progressed": 869,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2037,6 +2037,11 @@
       "Time": "2023-12-04T14:06:22.9016519+00:00",
       "NumProgressed": 868,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-04T15:05:17.2454542+00:00",
+      "NumProgressed": 869,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2057,7 +2062,7 @@
       "Name": "Ab Initio",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "AnthropicHills",
@@ -2233,7 +2238,7 @@
       "Name": "Lord of the Files",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "LostMarshes",
@@ -2305,7 +2310,7 @@
       "Name": "Overload",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "Persistent",
@@ -2393,7 +2398,7 @@
       "Name": "Team Spirit",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "TextAdventurer",
@@ -2441,7 +2446,7 @@
       "Name": "The Spark",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "TheThiefOfFire",
@@ -2463,9 +2468,9 @@
       "ID": "TouchGrass",
       "SetID": "1n308hc",
       "Name": "Touch Grass",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 78
     },
     {
       "ID": "TrevorsBiographer",
@@ -2479,9 +2484,9 @@
       "ID": "VerdantCanyon",
       "SetID": "1n308hc",
       "Name": "Verdant Canyon",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 35
     },
     {
       "ID": "Wanderers",
@@ -2520,7 +2525,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 868,
+      "Progressed": 869,
       "Completed": 1
     }
   ],
@@ -2528,8 +2533,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-04T13:58:50.2802075+00:00",
-  "LastChanged_Achievements": "2023-12-04T14:06:22.9016514+00:00",
+  "LastChanged_Achievements": "2023-12-04T15:05:17.2454538+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-04T13:58:50.2802081+00:00",
-  "LastUpdate_Achievements": "2023-12-04T14:06:22.9017048+00:00"
+  "LastUpdate_Ratings": "2023-12-04T14:58:17.2727353+00:00",
+  "LastUpdate_Achievements": "2023-12-04T15:05:17.2454949+00:00"
 }

@@ -26,7 +26,7 @@
 | First Aid | 23.00% | ~13 |
 | Merry Go Round | 23.00% | ~13 |
 | Ultra Combo | 20.00% | ~11 |
-| Ascending Will | 16.00% | ~9 |
+| Ascending Will | 18.00% | ~10 |
 | Hidden Experiment | 16.00% | ~9 |
 | Haute Couture | 16.00% | ~9 |
 | Brilliant Executioner | 11.00% | ~6 |
@@ -35,7 +35,7 @@
 | Bold and Bossy | 7.00% | ~4 |
 | The Gang prevails | 7.00% | ~4 |
 | Out of the ring | 7.00% | ~4 |
-| King of the Iron Fist | 4.00% | ~2 |
+| King of the Iron Fist | 5.00% | ~3 |
 | No Mercy | 4.00% | ~2 |
 | Power of Friendship! | 4.00% | ~2 |
 | Five of Friends | 4.00% | ~2 |

@@ -22,27 +22,27 @@
 | Trap Master | 55.00% | ~287 |
 | Minions, Minions! | 54.00% | ~281 |
 | Hard Work | 51.00% | ~266 |
-| The Big Eaty | 49.00% | ~255 |
+| The Big Eaty | 50.00% | ~260 |
 | YOU SHALL NOT PASS! | 48.00% | ~250 |
 | “… like son” | 46.00% | ~240 |
 | Pure Dynamite! | 45.00% | ~234 |
+| Shame! Shame! Shame! | 43.00% | ~224 |
 | The Cathedral of Light | 42.00% | ~219 |
-| Shame! Shame! Shame! | 42.00% | ~219 |
 | Dungeonlord Gorgu | 41.00% | ~214 |
 | Mana Cannon | 39.00% | ~203 |
-| Tanos' Crusade Against Thalya | 38.00% | ~198 |
+| Tanos' Crusade Against Thalya | 39.00% | ~203 |
 | All’s Well That Ends Evil | 32.00% | ~167 |
 | Unstoppable Horde | 31.00% | ~162 |
 | Master of the Undead | 30.00% | ~156 |
 | The Duel | 28.00% | ~146 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 26.00% | ~135 |
 | If Looks Could Kill | 26.00% | ~135 |
 | Hungry, Hungry Gorgu! | 25.00% | ~130 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 25.00% | ~130 |
 | Forbidden Knowledge | 25.00% | ~130 |
 | Ghost Pirates? Ghost Heroes! | 25.00% | ~130 |
 | The Finitude Drill | 24.00% | ~125 |
+| Stop Tanos! | 21.00% | ~109 |
 | Doom Hill | 21.00% | ~109 |
-| Stop Tanos! | 20.00% | ~104 |
 | Sabotage! | 19.00% | ~99 |
 | Brimstone Shaken, Not Stirred | 19.00% | ~99 |
 | Bonus Evilness | 17.00% | ~89 |

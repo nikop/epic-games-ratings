@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -18,11 +18,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 354,
+  "EOS_Progressed": 355,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.98,
+  "EOS_Completed_Percentage": 1.97,
   "EosHistory": [
     {
       "Time": "2023-09-19T03:08:38.9448107+00:00",
@@ -1633,6 +1633,11 @@
       "Time": "2023-12-03T00:07:29.0685558+00:00",
       "NumProgressed": 354,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-04T15:08:07.8860007+00:00",
+      "NumProgressed": 355,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -1645,15 +1650,15 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "achievement_10",
       "SetID": "2cpn27e",
       "Name": "Karakuri Trail",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 124
     },
     {
       "ID": "achievement_11",
@@ -1661,7 +1666,7 @@
       "Name": "Karakuri Isle",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "achievement_12",
@@ -1669,7 +1674,7 @@
       "Name": "Canyon of Karakuri",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_13",
@@ -1683,17 +1688,17 @@
       "ID": "achievement_14",
       "SetID": "2cpn27e",
       "Name": "Fusion Conjuror",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 224
     },
     {
       "ID": "achievement_15",
       "SetID": "2cpn27e",
       "Name": "Memory Rouser",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 224
     },
     {
       "ID": "achievement_16",
@@ -1701,23 +1706,23 @@
       "Name": "Distance Devourer",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "achievement_17",
       "SetID": "2cpn27e",
       "Name": "Master of the Skies",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 170
     },
     {
       "ID": "achievement_18",
       "SetID": "2cpn27e",
       "Name": "Man-Machine Master",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 231
     },
     {
       "ID": "achievement_19",
@@ -1733,7 +1738,7 @@
       "Name": "Mountain Splitter",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "achievement_20",
@@ -1805,7 +1810,7 @@
       "Name": "Flawless Crystal",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "achievement_29",
@@ -1883,9 +1888,9 @@
       "ID": "achievement_37",
       "SetID": "2cpn27e",
       "Name": "Hidden History",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 297
+      "UsersEstimate": 295
     },
     {
       "ID": "achievement_38",
@@ -1909,7 +1914,7 @@
       "Name": "Axer of Auspice",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "achievement_40",
@@ -1917,7 +1922,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "achievement_41",
@@ -1965,7 +1970,7 @@
       "Name": "Charmed by the Hunt",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "achievement_47",
@@ -1989,7 +1994,7 @@
       "Name": "Reincarnation Cycle Stopper",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "achievement_6",
@@ -2013,7 +2018,7 @@
       "Name": "Expert Conjuror",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "achievement_9",
@@ -2028,13 +2033,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 354,
+      "Progressed": 355,
       "Completed": 7
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-04T14:08:42.6158578+00:00",
+  "LastChanged_Achievements": "2023-12-04T15:08:07.8860004+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:14.6460494+00:00",
-  "LastUpdate_Ratings": "2023-12-04T14:00:48.5988455+00:00",
-  "LastUpdate_Achievements": "2023-12-04T14:08:42.6158996+00:00"
+  "LastUpdate_Ratings": "2023-12-04T14:59:48.1823862+00:00",
+  "LastUpdate_Achievements": "2023-12-04T15:08:07.8860692+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 3650,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 3651,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 510,
+  "EOS_Progressed": 511,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1430,6 +1430,11 @@
       "Time": "2023-12-04T10:08:15.9484405+00:00",
       "NumProgressed": 510,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-04T15:08:41.5825957+00:00",
+      "NumProgressed": 511,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1458,7 +1463,7 @@
       "Name": "On her own",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "AchvBattleScore",
@@ -1506,7 +1511,7 @@
       "Name": "The Alliance",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "AchvDoom",
@@ -1522,7 +1527,7 @@
       "Name": "Evacuation",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "AchvInvShip",
@@ -1624,9 +1629,9 @@
       "ID": "AchvReachCity",
       "SetID": "1hj060c",
       "Name": "The City",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 210
     },
     {
       "ID": "AchvReachCondor",
@@ -1666,21 +1671,21 @@
       "Name": "Beyond divisions",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 510,
+      "Progressed": 511,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-04T14:09:26.0906412+00:00",
+  "LastChanged_Achievements": "2023-12-04T15:08:41.5825954+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.6526822+00:00",
-  "LastUpdate_Ratings": "2023-12-04T13:58:16.8198194+00:00",
-  "LastUpdate_Achievements": "2023-12-04T14:09:26.0906618+00:00"
+  "LastUpdate_Ratings": "2023-12-04T14:57:51.553607+00:00",
+  "LastUpdate_Achievements": "2023-12-04T15:08:41.5826162+00:00"
 }

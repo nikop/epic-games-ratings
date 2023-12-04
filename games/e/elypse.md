@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A path of no return | 99.00% | ~100 |
-| A bottomless pit | 84.00% | ~85 |
-| Pigeon | 80.00% | ~81 |
+| A path of no return | 98.00% | ~100 |
+| A bottomless pit | 83.00% | ~85 |
+| Pigeon | 79.00% | ~81 |
 | Baited | 69.00% | ~70 |
 | "Swoosh" | 61.00% | ~62 |
 | The light at the end of the tunnel | 60.00% | ~61 |
 | Masochistic | 54.00% | ~55 |
 | Splash! | 54.00% | ~55 |
 | Soft skin | 51.00% | ~52 |
-| Squid game | 45.00% | ~45 |
-| Rock Solid | 36.00% | ~36 |
-| The beast within | 35.00% | ~35 |
-| It's getting dark | 35.00% | ~35 |
-| Sensitive soul | 34.00% | ~34 |
-| Hard Rock | 33.00% | ~33 |
-| Rooftop | 31.00% | ~31 |
-| Homeless | 30.00% | ~30 |
-| Big badaboom! | 29.00% | ~29 |
-| Bookworm | 26.00% | ~26 |
-| Payback | 26.00% | ~26 |
-| Nokron tower | 25.00% | ~25 |
-| Magnitude 5 | 25.00% | ~25 |
+| Squid game | 44.00% | ~45 |
+| Rock Solid | 35.00% | ~36 |
+| The beast within | 34.00% | ~35 |
+| It's getting dark | 34.00% | ~35 |
+| Sensitive soul | 33.00% | ~34 |
+| Hard Rock | 32.00% | ~33 |
+| Rooftop | 30.00% | ~31 |
+| Homeless | 29.00% | ~30 |
+| Big badaboom! | 28.00% | ~29 |
+| Nokron tower | 25.00% | ~26 |
+| Magnitude 5 | 25.00% | ~26 |
+| Bookworm | 25.00% | ~26 |
+| Payback | 25.00% | ~26 |
 | Full power | 24.00% | ~24 |
 | "Ah sh*t... Here we go again!" | 24.00% | ~24 |
 | Compulsive hoarder | 23.00% | ~23 |
@@ -39,7 +39,7 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 101 (Ranked 438)  
+Progressed: 102 (Ranked 438)  
 Completed: 0 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,3 +96,4 @@ Completed: 0 (0.00%) (Ranked 366)
 | 2023-10-13 | 99 | 0 |
 | 2023-11-04 | 100 | 0 |
 | 2023-11-24 | 101 | 0 |
+| 2023-12-04 | 102 | 0 |

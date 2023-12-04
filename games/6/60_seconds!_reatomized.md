@@ -5,28 +5,28 @@ Rating: 4.54 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 94.00% | ~5,367 |
-| I will survive! | 93.00% | ~5,310 |
-| All thumbs | 92.00% | ~5,253 |
-| Home, sweet home | 91.00% | ~5,196 |
-| Survivalist | 90.00% | ~5,139 |
+| Prepper | 94.00% | ~5,368 |
+| I will survive! | 93.00% | ~5,311 |
+| All thumbs | 92.00% | ~5,254 |
+| Home, sweet home | 91.00% | ~5,197 |
+| Survivalist | 90.00% | ~5,140 |
 | One way ticket | 85.00% | ~4,854 |
-| Last man standing | 80.00% | ~4,568 |
+| Last man standing | 80.00% | ~4,569 |
 | Family guy | 77.00% | ~4,397 |
 | Out of the Bag | 76.00% | ~4,340 |
-| The Dark Side | 71.00% | ~4,054 |
+| The Dark Side | 71.00% | ~4,055 |
 | Duck and cover! | 66.00% | ~3,769 |
 | Souper! | 65.00% | ~3,712 |
 | 2-1-6 | 59.00% | ~3,369 |
 | Pacifist | 59.00% | ~3,369 |
-| A gift | 54.00% | ~3,083 |
+| A gift | 54.00% | ~3,084 |
 | Girl Power | 49.00% | ~2,798 |
-| What goes around... | 44.00% | ~2,512 |
+| What goes around... | 44.00% | ~2,513 |
 | Be Prepared | 38.00% | ~2,170 |
 | Unbreakable | 37.00% | ~2,113 |
-| Gotta get 'em all | 34.00% | ~1,941 |
-| This is the end | 34.00% | ~1,941 |
-| Atomic drill | 32.00% | ~1,827 |
+| Gotta get 'em all | 34.00% | ~1,942 |
+| This is the end | 34.00% | ~1,942 |
+| Atomic drill | 32.00% | ~1,828 |
 | Disco Roach | 28.00% | ~1,599 |
 | Dawkins Residence | 22.00% | ~1,256 |
 | Rescue time! | 19.00% | ~1,085 |
@@ -66,7 +66,7 @@ Rating: 4.54 (Ranked 529)
 | Tora! Tora! Tora! | 0.20% | ~11 |
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,710 (Ranked 187)  
+Progressed: 5,711 (Ranked 187)  
 Completed: 1 (0.02%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,6 +294,7 @@ Completed: 1 (0.02%) (Ranked 336)
 | 2023-12-01 | 5,688 | 1 |
 | 2023-12-02 | 5,696 | 1 |
 | 2023-12-03 | 5,710 | 1 |
+| 2023-12-04 | 5,711 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

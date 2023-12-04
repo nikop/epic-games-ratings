@@ -2,12 +2,12 @@
   "ID": "7e2ec8a47b8d41528eb6dd2efd2b1abc",
   "Name": "Disney Dreamlight Valley",
   "ProductSlug": "disney-dreamlight-valley",
-  "Ranking_Rating": 128,
+  "Ranking_Rating": 129,
   "Ranking_Popularity": 146,
   "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -4915,11 +4915,17 @@
       "Rating": 4.76,
       "NumberOfAwards": 7980,
       "NumberOfAwardsMax": 1080
+    },
+    {
+      "Time": "2023-12-04T14:59:56.7847544+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7986,
+      "NumberOfAwardsMax": 1085
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7980,
-  "NumberOfAwardsMax": 1080,
+  "NumberOfAwards": 7986,
+  "NumberOfAwardsMax": 1085,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -4932,7 +4938,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1080
+      "Count": 1085
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4986,12 +4992,12 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 532
+      "Count": 533
     }
   ],
-  "EOS_Progressed": 12160,
+  "EOS_Progressed": 12161,
   "EOS_Completed": 290,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.38,
   "EosHistory": [
@@ -20439,6 +20445,11 @@
       "Time": "2023-12-04T14:08:55.0900246+00:00",
       "NumProgressed": 12160,
       "NumCompleted": 290
+    },
+    {
+      "Time": "2023-12-04T15:08:17.7642408+00:00",
+      "NumProgressed": 12161,
+      "NumCompleted": 290
     }
   ],
   "TotalAchievements": 15,
@@ -20458,7 +20469,7 @@
       "Name": "Banker",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 4742
+      "UsersEstimate": 4743
     },
     {
       "ID": "Bestest_Friend",
@@ -20522,7 +20533,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 69,
       "XP": 75,
-      "UsersEstimate": 8390
+      "UsersEstimate": 8391
     },
     {
       "ID": "Miner",
@@ -20569,16 +20580,16 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 12160,
+      "Progressed": 12161,
       "Completed": 290
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-12-04T05:00:23.6640017+00:00",
-  "LastChanged_Achievements": "2023-12-04T14:08:55.0900243+00:00",
+  "LastChanged": "2023-12-04T14:59:56.7847542+00:00",
+  "LastChanged_Achievements": "2023-12-04T15:08:17.7642405+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:53.5041293+00:00",
-  "LastUpdate_Ratings": "2023-12-04T14:01:00.1584632+00:00",
-  "LastUpdate_Achievements": "2023-12-04T14:08:55.090113+00:00"
+  "LastUpdate_Ratings": "2023-12-04T14:59:56.7847548+00:00",
+  "LastUpdate_Achievements": "2023-12-04T15:08:17.7643178+00:00"
 }
