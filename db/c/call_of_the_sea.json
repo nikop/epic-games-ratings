@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 132732,
+  "EOS_Progressed": 132733,
   "EOS_Completed": 1170,
-  "EOS_NewPlayers": 1004,
+  "EOS_NewPlayers": 1003,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -26233,6 +26233,11 @@
       "Time": "2023-12-04T01:54:15.9239142+00:00",
       "NumProgressed": 132732,
       "NumCompleted": 1170
+    },
+    {
+      "Time": "2023-12-04T02:29:34.4104991+00:00",
+      "NumProgressed": 132733,
+      "NumCompleted": 1170
     }
   ],
   "TotalAchievements": 34,
@@ -26252,7 +26257,7 @@
       "Name": "The only thing I have now",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 22564
+      "UsersEstimate": 22565
     },
     {
       "ID": "ACH_GAME_JOURNAL1",
@@ -26260,7 +26265,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 55747
+      "UsersEstimate": 55748
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -26500,7 +26505,7 @@
       "Name": "FHALGOF\u0027N\u0027",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 30528
+      "UsersEstimate": 30529
     },
     {
       "ID": "ACH_L06_TEMPLE_OBJ",
@@ -26515,7 +26520,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 132732,
+      "Progressed": 132733,
       "Completed": 1170
     }
   ],
@@ -26523,8 +26528,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-11-24T21:59:26.7035134+00:00",
-  "LastChanged_Achievements": "2023-12-04T01:54:15.9239126+00:00",
+  "LastChanged_Achievements": "2023-12-04T02:29:34.4104987+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:27.67682+00:00",
-  "LastUpdate_Ratings": "2023-12-04T01:48:47.2183138+00:00",
-  "LastUpdate_Achievements": "2023-12-04T01:54:15.9240554+00:00"
+  "LastUpdate_Ratings": "2023-12-04T02:23:55.9023529+00:00",
+  "LastUpdate_Achievements": "2023-12-04T02:29:34.4106372+00:00"
 }

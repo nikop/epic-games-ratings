@@ -6,13 +6,13 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~974,244 |
-| I Need a Bigger Garage | 63.00% | ~681,971 |
-| Pump my Ride | 47.00% | ~508,772 |
-| Ghostbuster | 34.00% | ~368,048 |
-| Call Roadside Assistance | 18.00% | ~194,849 |
-| That Was Close | 18.00% | ~194,849 |
-| Quickie | 11.00% | ~119,074 |
+| The First of Many | 90.00% | ~974,253 |
+| I Need a Bigger Garage | 63.00% | ~681,977 |
+| Pump my Ride | 47.00% | ~508,776 |
+| Ghostbuster | 34.00% | ~368,051 |
+| Call Roadside Assistance | 18.00% | ~194,851 |
+| That Was Close | 18.00% | ~194,851 |
+| Quickie | 11.00% | ~119,075 |
 | California Dreamer | 7.00% | ~75,775 |
 | Can't Touch This | 5.00% | ~54,125 |
 | Carménère Taster | 4.00% | ~43,300 |
@@ -33,18 +33,18 @@ Number of Ratings: 1,343  (23.09.2022)
 | Oil Tycoon | 1.00% | ~10,825 |
 | Golden Passport | 1.00% | ~10,825 |
 | Brave and Bold | 1.00% | ~10,825 |
-| Old Master | 0.90% | ~9,742 |
-| Otaku | 0.90% | ~9,742 |
+| Old Master | 0.90% | ~9,743 |
+| Otaku | 0.90% | ~9,743 |
 | Volcano Surfer | 0.80% | ~8,660 |
 | Survivor | 0.60% | ~6,495 |
 | King of the World | 0.60% | ~6,495 |
-| Getting Famous | 0.50% | ~5,412 |
-| Now Go Play Outside | 0.30% | ~3,247 |
+| Getting Famous | 0.50% | ~5,413 |
+| Now Go Play Outside | 0.30% | ~3,248 |
 | Master of the Racetrack | 0.20% | ~2,165 |
-| Transporter | 0.10% | ~1,082 |
-| Look Mom, No Hands! | 0.10% | ~1,082 |
+| Transporter | 0.10% | ~1,083 |
+| Look Mom, No Hands! | 0.10% | ~1,083 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,082,493 (Ranked 12)  
+Progressed: 1,082,503 (Ranked 12)  
 Completed: 500 (0.05%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 500 (0.05%) (Ranked 318)
 | 2023-12-01 | 1,081,289 | 500 |
 | 2023-12-02 | 1,081,739 | 500 |
 | 2023-12-03 | 1,082,447 | 500 |
-| 2023-12-04 | 1,082,493 | 500 |
+| 2023-12-04 | 1,082,503 | 500 |
 ## Awards
 Max (Great for Beginners): 172  (Ranked 308)  
 Sum: 1,410 (Ranked 240)  

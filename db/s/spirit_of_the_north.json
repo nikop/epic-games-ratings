@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 75910,
+  "EOS_Progressed": 75911,
   "EOS_Completed": 407,
-  "EOS_NewPlayers": 581,
+  "EOS_NewPlayers": 578,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -25388,6 +25388,11 @@
       "Time": "2023-12-04T01:57:26.9833146+00:00",
       "NumProgressed": 75910,
       "NumCompleted": 407
+    },
+    {
+      "Time": "2023-12-04T02:32:34.8376036+00:00",
+      "NumProgressed": 75911,
+      "NumCompleted": 407
     }
   ],
   "TotalAchievements": 24,
@@ -25415,7 +25420,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 52378
+      "UsersEstimate": 52379
     },
     {
       "ID": "BEST_FRIENDS",
@@ -25479,7 +25484,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 40232
+      "UsersEstimate": 40233
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -25567,7 +25572,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 11386
+      "UsersEstimate": 11387
     },
     {
       "ID": "WEIGHTLESS",
@@ -25590,7 +25595,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 75910,
+      "Progressed": 75911,
       "Completed": 407
     }
   ],
@@ -25598,8 +25603,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-12-04T01:57:26.9833141+00:00",
+  "LastChanged_Achievements": "2023-12-04T02:32:34.8376031+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:18.159527+00:00",
-  "LastUpdate_Ratings": "2023-12-04T01:48:31.3236115+00:00",
-  "LastUpdate_Achievements": "2023-12-04T01:57:26.9834371+00:00"
+  "LastUpdate_Ratings": "2023-12-04T02:23:42.0854021+00:00",
+  "LastUpdate_Achievements": "2023-12-04T02:32:34.8377167+00:00"
 }

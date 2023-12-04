@@ -23,6 +23,7 @@ Rating: 4.61 (Ranked 386)
 | Freed Lands of Manuhari | 2.00% | ~111 |
 | Chaos Surge | 2.00% | ~111 |
 | Return of the Wizard King | 1.00% | ~56 |
+| Arch Mage | 1.00% | ~56 |
 | Enchanted Archipelago | 1.00% | ~56 |
 | Digging for Treasure | 1.00% | ~56 |
 | Crimson Caldera | 1.00% | ~56 |
@@ -37,7 +38,6 @@ Rating: 4.61 (Ranked 386)
 | Seal the Deal | 1.00% | ~56 |
 | Spoils of War | 1.00% | ~56 |
 | Dawn of the Dread | 1.00% | ~56 |
-| Arch Mage | 0.90% | ~50 |
 | Blood of the Dragon | 0.90% | ~50 |
 | Prometheus Avenged | 0.90% | ~50 |
 | The Creator | 0.80% | ~45 |

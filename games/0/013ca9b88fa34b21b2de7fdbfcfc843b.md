@@ -5,7 +5,7 @@ Rating: 4.61 (Ranked 386)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,951 |
+| Azoria Beckons | 72.00% | ~5,952 |
 | A Thorny Situation | 70.00% | ~5,786 |
 | ... And Spit Back Out | 61.00% | ~5,042 |
 | Break-Net Speed | 49.00% | ~4,050 |
@@ -17,7 +17,7 @@ Rating: 4.61 (Ranked 386)
 | Mist Walker | 32.00% | ~2,645 |
 | Lumberjack | 27.00% | ~2,232 |
 | Oui, Chef! | 23.00% | ~1,901 |
-| Clear the Air | 19.00% | ~1,570 |
+| Clear the Air | 19.00% | ~1,571 |
 | Botanical Breakthrough | 17.00% | ~1,405 |
 | Search for the Hairy Grell | 14.00% | ~1,157 |
 | Beach Comber | 14.00% | ~1,157 |
@@ -41,7 +41,7 @@ Rating: 4.61 (Ranked 386)
 | Workaholic | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,265 (Ranked 175)  
+Progressed: 8,266 (Ranked 175)  
 Completed: 1 (0.01%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 1 (0.01%) (Ranked 345)
 | 2023-12-01 | 8,203 | 1 |
 | 2023-12-02 | 8,228 | 1 |
 | 2023-12-03 | 8,263 | 1 |
-| 2023-12-04 | 8,265 | 1 |
+| 2023-12-04 | 8,266 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1332,9 +1332,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 29675,
+  "EOS_Progressed": 29676,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 442,
+  "EOS_NewPlayers": 443,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -25747,6 +25747,11 @@
       "Time": "2023-12-04T01:57:38.614367+00:00",
       "NumProgressed": 29675,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-04T02:32:45.5943675+00:00",
+      "NumProgressed": 29676,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 22,
@@ -25766,7 +25771,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "1017",
@@ -25774,7 +25779,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "1018",
@@ -25814,7 +25819,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "1023",
@@ -25933,15 +25938,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 29675,
+      "Progressed": 29676,
       "Completed": 82
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-03T18:00:24.3998169+00:00",
-  "LastChanged_Achievements": "2023-12-04T01:57:38.6143667+00:00",
+  "LastChanged_Achievements": "2023-12-04T02:32:45.5943671+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:12.8181889+00:00",
-  "LastUpdate_Ratings": "2023-12-04T01:45:25.4302314+00:00",
-  "LastUpdate_Achievements": "2023-12-04T01:57:38.614486+00:00"
+  "LastUpdate_Ratings": "2023-12-04T02:20:57.437839+00:00",
+  "LastUpdate_Achievements": "2023-12-04T02:32:45.5944856+00:00"
 }

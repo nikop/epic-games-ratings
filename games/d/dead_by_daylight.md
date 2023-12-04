@@ -8,12 +8,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | ---- | ---------- | ----- |
 | It wakes | 1.00% | ~10,678 |
 | Skillful | 1.00% | ~10,678 |
-| Zealous | 0.90% | ~9,610 |
-| Not half bad | 0.80% | ~8,542 |
-| Make Some Noise | 0.80% | ~8,542 |
-| Apt Survivor | 0.70% | ~7,474 |
-| Survival Treasures | 0.70% | ~7,474 |
-| I | 0.70% | ~7,474 |
+| Zealous | 0.90% | ~9,611 |
+| Not half bad | 0.80% | ~8,543 |
+| Make Some Noise | 0.80% | ~8,543 |
+| Apt Survivor | 0.70% | ~7,475 |
+| Survival Treasures | 0.70% | ~7,475 |
+| I | 0.70% | ~7,475 |
 | No one left behind | 0.60% | ~6,407 |
 | Medic | 0.60% | ~6,407 |
 | Handyman | 0.60% | ~6,407 |
@@ -26,6 +26,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Perfect Escape | 0.50% | ~5,339 |
 | Bloody Millionaire | 0.50% | ~5,339 |
 | II | 0.50% | ~5,339 |
+| Close Shave | 0.50% | ~5,339 |
 | Humanitarian | 0.50% | ~5,339 |
 | Agonizing Escape | 0.40% | ~4,271 |
 | I've got your back | 0.40% | ~4,271 |
@@ -35,24 +36,24 @@ Number of Ratings: 70,340  (23.09.2022)
 | III | 0.40% | ~4,271 |
 | Engineer | 0.40% | ~4,271 |
 | Wounded Healer | 0.40% | ~4,271 |
-| Close Shave | 0.40% | ~4,271 |
-| Blood on your hands | 0.30% | ~3,203 |
-| Escape Artist | 0.30% | ~3,203 |
-| Gifts for the Fog | 0.30% | ~3,203 |
-| Vulture | 0.30% | ~3,203 |
-| III-50 | 0.30% | ~3,203 |
-| First to the Punch | 0.30% | ~3,203 |
-| Operation: Survival | 0.30% | ~3,203 |
-| Every Last Drop | 0.30% | ~3,203 |
-| Raccoon City Recruit | 0.30% | ~3,203 |
-| With Scars to Show | 0.30% | ~3,203 |
-| Flight to Freedom | 0.30% | ~3,203 |
-| Lifting The Fog | 0.30% | ~3,203 |
-| Second Act | 0.30% | ~3,203 |
+| Blood on your hands | 0.30% | ~3,204 |
+| Escape Artist | 0.30% | ~3,204 |
+| Gifts for the Fog | 0.30% | ~3,204 |
+| Vulture | 0.30% | ~3,204 |
+| III-50 | 0.30% | ~3,204 |
+| First to the Punch | 0.30% | ~3,204 |
+| Operation: Survival | 0.30% | ~3,204 |
+| Every Last Drop | 0.30% | ~3,204 |
+| Raccoon City Recruit | 0.30% | ~3,204 |
+| With Scars to Show | 0.30% | ~3,204 |
+| Flight to Freedom | 0.30% | ~3,204 |
+| Lifting The Fog | 0.30% | ~3,204 |
+| Second Act | 0.30% | ~3,204 |
 | A bite for the Entity | 0.20% | ~2,136 |
 | Blood on your face | 0.20% | ~2,136 |
 | Made it out alive! | 0.20% | ~2,136 |
 | Nerves of steel | 0.20% | ~2,136 |
+| Hemophobia | 0.20% | ~2,136 |
 | Shock Therapy | 0.20% | ~2,136 |
 | All Aboard | 0.20% | ~2,136 |
 | Leapfrog | 0.20% | ~2,136 |
@@ -98,7 +99,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | In the void she walks | 0.10% | ~1,068 |
 | From the void she kills | 0.10% | ~1,068 |
 | Adept Nurse | 0.10% | ~1,068 |
-| Hemophobia | 0.10% | ~1,068 |
 | Adept Nea | 0.10% | ~1,068 |
 | Triggered | 0.10% | ~1,068 |
 | Even Punishment | 0.10% | ~1,068 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.10% | ~1,068 |
 | Adept Good Guy | 0.10% | ~1,068 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,067,766 (Ranked 14)  
+Progressed: 1,067,844 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -467,7 +467,7 @@ Completed: 61 (0.01%) (Ranked 345)
 | 2023-12-01 | 1,059,298 | 61 |
 | 2023-12-02 | 1,062,340 | 61 |
 | 2023-12-03 | 1,067,390 | 61 |
-| 2023-12-04 | 1,067,766 | 61 |
+| 2023-12-04 | 1,067,844 | 61 |
 ## Awards
 Max (Diverse Characters): 37,218  (Ranked 15)  
 Sum: 282,686 (Ranked 12)  

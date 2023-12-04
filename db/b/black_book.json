@@ -668,9 +668,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 57846,
+  "EOS_Progressed": 57848,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 1589,
+  "EOS_NewPlayers": 1588,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11933,6 +11933,11 @@
       "Time": "2023-12-04T01:53:48.4504018+00:00",
       "NumProgressed": 57846,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-04T02:29:09.3109721+00:00",
+      "NumProgressed": 57848,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -11969,7 +11974,7 @@
       "Name": "Aspen Tree",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 8098
+      "UsersEstimate": 8099
     },
     {
       "ID": "BAD_END",
@@ -12057,7 +12062,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 12726
+      "UsersEstimate": 12727
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -12121,7 +12126,7 @@
       "Name": "Healer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 8098
+      "UsersEstimate": 8099
     },
     {
       "ID": "HERBS_2",
@@ -12321,7 +12326,7 @@
       "Name": "Knower",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 9255
+      "UsersEstimate": 9256
     },
     {
       "ID": "ZNATKOST_2",
@@ -12344,15 +12349,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 57846,
+      "Progressed": 57848,
       "Completed": 57
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-12-01T11:58:05.6647761+00:00",
-  "LastChanged_Achievements": "2023-12-04T01:53:48.4504015+00:00",
+  "LastChanged_Achievements": "2023-12-04T02:29:09.3109718+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:55.6045759+00:00",
-  "LastUpdate_Ratings": "2023-12-04T01:47:51.891872+00:00",
-  "LastUpdate_Achievements": "2023-12-04T01:53:48.4504733+00:00"
+  "LastUpdate_Ratings": "2023-12-04T02:23:07.5691953+00:00",
+  "LastUpdate_Achievements": "2023-12-04T02:29:09.3110433+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -557,7 +557,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 42333,
+  "EOS_Progressed": 42334,
   "EOS_Completed": 187,
   "EOS_NewPlayers": 989,
   "EOS_NewCompleters": 13,
@@ -9312,6 +9312,11 @@
       "Time": "2023-12-04T01:57:04.9229758+00:00",
       "NumProgressed": 42333,
       "NumCompleted": 187
+    },
+    {
+      "Time": "2023-12-04T02:32:14.3134119+00:00",
+      "NumProgressed": 42334,
+      "NumCompleted": 187
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -9484,7 +9489,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 22013
+      "UsersEstimate": 22014
     },
     {
       "ID": "ACH_PEAK",
@@ -9516,7 +9521,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 28786
+      "UsersEstimate": 28787
     },
     {
       "ID": "ACH_S4",
@@ -9524,7 +9529,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 21166
+      "UsersEstimate": 21167
     },
     {
       "ID": "ACH_S5",
@@ -9548,22 +9553,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 18203
+      "UsersEstimate": 18204
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 42333,
+      "Progressed": 42334,
       "Completed": 187
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-12-02T07:57:33.1539453+00:00",
-  "LastChanged_Achievements": "2023-12-04T01:57:04.9229753+00:00",
+  "LastChanged_Achievements": "2023-12-04T02:32:14.3134113+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:17.490773+00:00",
-  "LastUpdate_Ratings": "2023-12-04T01:47:10.4508219+00:00",
-  "LastUpdate_Achievements": "2023-12-04T01:57:04.9230286+00:00"
+  "LastUpdate_Ratings": "2023-12-04T02:22:31.085691+00:00",
+  "LastUpdate_Achievements": "2023-12-04T02:32:14.3134813+00:00"
 }

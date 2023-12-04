@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter I | 50.00% | ~87 |
-| Fire in the... nevermind | 49.00% | ~85 |
-| Haute cuisine | 44.00% | ~77 |
+| Chapter I | 51.00% | ~89 |
+| Fire in the... nevermind | 50.00% | ~87 |
+| Haute cuisine | 45.00% | ~78 |
 | Demolition expert | 39.00% | ~68 |
 | I didn't do it! | 39.00% | ~68 |
 | Keep away from children | 36.00% | ~63 |
@@ -29,7 +29,7 @@
 | Home is where the heart is | 17.00% | ~30 |
 | Death is a part of life | 14.00% | ~24 |
 | Master of Thermodynamics | 13.00% | ~23 |
-| To err is human... | 11.00% | ~19 |
+| To err is human... | 12.00% | ~21 |
 | Unfullfilled dreams | 11.00% | ~19 |
 | Nothing can stop me | 9.00% | ~16 |
 | Mumbo Jumbo | 9.00% | ~16 |

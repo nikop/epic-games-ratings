@@ -16106,9 +16106,9 @@
       "Count": 14147
     }
   ],
-  "EOS_Progressed": 969303,
+  "EOS_Progressed": 969314,
   "EOS_Completed": 2839,
-  "EOS_NewPlayers": 18421,
+  "EOS_NewPlayers": 18338,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -41966,6 +41966,11 @@
       "Time": "2023-12-04T01:53:55.3719809+00:00",
       "NumProgressed": 969303,
       "NumCompleted": 2839
+    },
+    {
+      "Time": "2023-12-04T02:29:15.7266053+00:00",
+      "NumProgressed": 969314,
+      "NumCompleted": 2839
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -42010,7 +42015,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 38772
+      "UsersEstimate": 38773
     },
     {
       "ID": "FollowingTheRiver",
@@ -42050,7 +42055,7 @@
       "Name": "Gun Fu",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 67851
+      "UsersEstimate": 67852
     },
     {
       "ID": "Gunslinger",
@@ -42194,7 +42199,7 @@
       "Name": "The Fool",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58158
+      "UsersEstimate": 58159
     },
     {
       "ID": "TheHermit",
@@ -42218,7 +42223,7 @@
       "Name": "The Lovers",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 38772
+      "UsersEstimate": 38773
     },
     {
       "ID": "TheStar",
@@ -42306,7 +42311,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 116316
+      "UsersEstimate": 116318
     },
     {
       "ID": "YipMan",
@@ -42506,28 +42511,28 @@
       "Name": "Easy Come, Easy Go",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 969303,
+      "Progressed": 969314,
       "Completed": 2839
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 97926,
+      "Progressed": 97937,
       "Completed": 10296
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-03T22:02:38.8178813+00:00",
-  "LastChanged_Achievements": "2023-12-04T01:53:55.3719804+00:00",
+  "LastChanged_Achievements": "2023-12-04T02:29:15.7266047+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:33.8863582+00:00",
-  "LastUpdate_Ratings": "2023-12-04T01:51:09.458245+00:00",
-  "LastUpdate_Achievements": "2023-12-04T01:53:55.3721661+00:00"
+  "LastUpdate_Ratings": "2023-12-04T02:26:43.0495465+00:00",
+  "LastUpdate_Achievements": "2023-12-04T02:29:15.7268859+00:00"
 }

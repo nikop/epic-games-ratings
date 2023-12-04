@@ -149,9 +149,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63000,
+  "EOS_Progressed": 63005,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 4650,
+  "EOS_NewPlayers": 4634,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2224,6 +2224,11 @@
       "Time": "2023-12-04T01:51:56.3332531+00:00",
       "NumProgressed": 63000,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-04T02:27:26.6137037+00:00",
+      "NumProgressed": 63005,
+      "NumCompleted": 53
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -2236,7 +2241,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 23310
+      "UsersEstimate": 23312
     },
     {
       "ID": "Achievement_10",
@@ -2324,7 +2329,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 17010
+      "UsersEstimate": 17011
     },
     {
       "ID": "Achievement_20",
@@ -2378,9 +2383,9 @@
       "ID": "Achievement_26",
       "SetID": "2md12pi",
       "Name": "Fruits of Labour",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 441
+      "UsersEstimate": 504
     },
     {
       "ID": "Achievement_27",
@@ -2412,7 +2417,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 7560
+      "UsersEstimate": 7561
     },
     {
       "ID": "Achievement_30",
@@ -2507,7 +2512,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 63000,
+      "Progressed": 63005,
       "Completed": 53
     }
   ],
@@ -2515,8 +2520,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-03T21:02:40.1092603+00:00",
-  "LastChanged_Achievements": "2023-12-04T01:51:56.3332526+00:00",
+  "LastChanged_Achievements": "2023-12-04T02:27:26.6137032+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:03:15.0842163+00:00",
-  "LastUpdate_Ratings": "2023-12-04T01:51:10.0694856+00:00",
-  "LastUpdate_Achievements": "2023-12-04T01:51:56.3332939+00:00"
+  "LastUpdate_Ratings": "2023-12-04T02:26:43.5605912+00:00",
+  "LastUpdate_Achievements": "2023-12-04T02:27:26.6137518+00:00"
 }

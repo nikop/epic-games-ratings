@@ -6,11 +6,11 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,316 |
-| Gun Fu | 7.00% | ~67,851 |
-| The Fool | 6.00% | ~58,158 |
-| Right Back At Ya | 4.00% | ~38,772 |
-| The Lovers | 4.00% | ~38,772 |
+| V for Vendetta | 12.00% | ~116,318 |
+| Gun Fu | 7.00% | ~67,852 |
+| The Fool | 6.00% | ~58,159 |
+| Right Back At Ya | 4.00% | ~38,773 |
+| The Lovers | 4.00% | ~38,773 |
 | Full Body Conversion | 3.00% | ~29,079 |
 | Stanislavski's Method | 3.00% | ~29,079 |
 | The Wheel of Fortune | 3.00% | ~29,079 |
@@ -34,7 +34,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | To Protect and Serve | 0.90% | ~8,724 |
 | Spin Doctor | 0.90% | ~881 |
 | The Wandering Fool | 0.70% | ~6,785 |
-| Easy Come, Easy Go | 0.70% | ~685 |
+| Easy Come, Easy Go | 0.70% | ~686 |
 | King of Wands | 0.60% | ~588 |
 | Dirty Deeds | 0.60% | ~588 |
 | Ten out of Ten | 0.50% | ~4,847 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 969,303 (Ranked 15)  
+Progressed: 969,314 (Ranked 15)  
 Completed: 2,839 (0.29%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 2,839 (0.29%) (Ranked 239)
 | 2023-12-01 | 966,265 | 2,832 |
 | 2023-12-02 | 967,833 | 2,836 |
 | 2023-12-03 | 969,229 | 2,839 |
-| 2023-12-04 | 969,303 | 2,839 |
+| 2023-12-04 | 969,314 | 2,839 |
 ## Awards
 Max (Character Customization): 115,469  (Ranked 9)  
 Sum: 385,067 (Ranked 9)  

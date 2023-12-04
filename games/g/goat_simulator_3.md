@@ -5,25 +5,25 @@ Rating: 4.84 (Ranked 51)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~230,212 |
-| Private Club | 74.00% | ~187,205 |
-| Rogue Guild | 65.00% | ~164,437 |
+| Forgotten Sorority | 91.00% | ~230,213 |
+| Private Club | 74.00% | ~187,206 |
+| Rogue Guild | 65.00% | ~164,438 |
 | I Watched the Intro | 57.00% | ~144,199 |
-| Covert Consortium | 55.00% | ~139,139 |
-| Goat Queen | 53.00% | ~134,079 |
+| Covert Consortium | 55.00% | ~139,140 |
+| Goat Queen | 53.00% | ~134,080 |
 | Reach the Stratosphere | 51.00% | ~129,020 |
 | Synchronization Complete | 47.00% | ~118,901 |
 | Secret Society | 45.00% | ~113,841 |
-| Shadow Syndicate | 38.00% | ~96,132 |
-| What a Waste of Money | 33.00% | ~83,483 |
+| Shadow Syndicate | 38.00% | ~96,133 |
+| What a Waste of Money | 33.00% | ~83,484 |
 | New Goat Order | 30.00% | ~75,894 |
-| Don't touch the servers | 28.00% | ~70,834 |
+| Don't touch the servers | 28.00% | ~70,835 |
 | San Angora: Become Human | 27.00% | ~68,305 |
 | Real Buoy | 27.00% | ~68,305 |
 | Raider of the Lost Parking Garage | 26.00% | ~65,775 |
 | Welcome to Earth | 25.00% | ~63,245 |
 | Into the Matrix | 19.00% | ~48,066 |
-| Egg Simulator | 18.00% | ~45,536 |
+| Egg Simulator | 18.00% | ~45,537 |
 | Where is It? | 17.00% | ~43,007 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~37,947 |
 | 401(K.O.) | 15.00% | ~37,947 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 51)
 | Move! That! Bus! | 0.60% | ~1,518 |
 | G.O.A.T | 0.40% | ~1,012 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,980 (Ranked 60)  
+Progressed: 252,981 (Ranked 60)  
 Completed: 894 (0.35%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 894 (0.35%) (Ranked 229)
 | 2023-12-01 | 252,686 | 894 |
 | 2023-12-02 | 252,809 | 894 |
 | 2023-12-03 | 252,977 | 894 |
-| 2023-12-04 | 252,980 | 894 |
+| 2023-12-04 | 252,981 | 894 |
 ## Awards
 Max (Great for Beginners): 480  (Ranked 215)  
 Sum: 3,966 (Ranked 155)  
