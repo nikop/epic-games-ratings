@@ -52,7 +52,7 @@
 | [Bluelight.inc](games/e/e48a41ece2354513aabb1473743ec43d.md) | 2023-10-31 | - |  | - | - |
 | [Yaku](games/3/3ad47e385f544acaa228638fe650e078.md) | 2023-10-31 | - |  | - | 0 |
 | [Kugle](games/5/5b14619578434ff7b6cde619be141d38.md) | 2023-10-30 | - |  | - | 0 |
-| [Night Run](games/c/c9340fb1d3984f4f8f5bbafaa0ea066d.md) | 2023-10-24 | 53 (1,000 XP) | 23,004 | - | 0 |
+| [Night Run](games/c/c9340fb1d3984f4f8f5bbafaa0ea066d.md) | 2023-10-24 | 53 (1,000 XP) | 23,011 | - | 0 |
 | [Brawlers](games/0/03daf1d62b1b42c0a2a5168d91cb61b2.md) | 2023-10-17 | - |  | - | 0 |
 | [KOMPETE](games/3/359ed81fde234ff2a1b190ba60da928e.md) | 2023-10-16 | - |  | - | 0 |
 | [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 2023-10-02 | - |  | - | 0 |
@@ -82,6 +82,6 @@
 | [GRIT](games/g/grit.md) | 2023-05-08 | - |  | 4.58 | 0 |
 | [Aether TCG](games/c/cards_of_ethernity.md) | 2023-04-26 | - |  | 4.83 | 0 |
 | [Chainmonsters](games/c/chainmonsters.md) | 2023-03-08 | - |  | 3.68 | 0 |
-| [Star Atlas](games/s/star_atlas.md) | 2022-12-31 | - |  | 4.81 | 26 |
+| [Star Atlas](games/s/star_atlas.md) | 2022-12-31 | - |  | 4.82 | 26 |
 | [STG Football](games/s/stg_football.md) | 2022-10-26 | - |  | 4.42 | 51 |
 | [Blankos Block Party](games/b/blankos_block_party.md) | 2022-09-15 | - |  | 4.21 | 32 |

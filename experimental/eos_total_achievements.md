@@ -419,6 +419,7 @@
 | [I Did Not Buy This Ticket](../games/9/97359b2710354a139a24ddb1580b5b3d.md) | 30 | 1,000 |
 | [Island Farmer](../games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 30 | 1,000 |
 | [Maid of Sker](../games/m/maid_of_sker.md) | 30 | 1,000 |
+| [Naheulbeuk's Dungeon Master](../games/4/4885ae8497a54a0d95073db643c65ea0.md) | 30 | 1,000 |
 | [Partisans 1941](../games/p/partisans_1941.md) | 30 | 1,000 |
 | [PAW Patrol Mighty Pups Save Adventure Bay](../games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 30 | 1,000 |
 | [Pinball FX](../games/p/pinball_fx.md) | 30 | 1,000 |

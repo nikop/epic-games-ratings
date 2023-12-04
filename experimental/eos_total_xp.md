@@ -485,6 +485,7 @@
 | [My Time at Sandrock](../games/m/my_time_at_sandrock.md) | 60 | 1,000 |
 | [Mystery in the Office](../games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 10 | 1,000 |
 | [MythForce](../games/m/mythforce.md) | 23 | 1,000 |
+| [Naheulbeuk's Dungeon Master](../games/4/4885ae8497a54a0d95073db643c65ea0.md) | 30 | 1,000 |
 | [Need for Speed™ Unbound Standard Edition](../games/n/need_for_speed™_unbound_standard_edition.md) | 41 | 1,000 |
 | [Neon Noodles - Cyberpunk Kitchen Automation](../games/e/e43864d9ce5b4ac3927a289c6d977650.md) | 19 | 1,000 |
 | [Nephise: Ascension](../games/d/d683909340554b3396b3aa477c07639e.md) | 10 | 1,000 |

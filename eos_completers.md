@@ -17,11 +17,11 @@
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Overloop](games/o/overloop.md) | 25.00% |
 | 17 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 18 | [The Riflemen](games/t/the_riflemen.md) | 24.31% |
+| 18 | [The Riflemen](games/t/the_riflemen.md) | 24.30% |
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
-| 20 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
-| 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
-| 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
+| 20 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
+| 20 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
+| 20 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
 | 23 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 24 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 18.65% |
 | 25 | [Doodle Devil](games/d/doodle_devil.md) | 18.60% |
@@ -88,7 +88,7 @@
 | 86 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.25% |
 | 86 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.25% |
 | 88 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.17% |
-| 89 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.09% |
+| 89 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
 | 90 | [The Bunker](games/t/the_bunker.md) | 4.03% |
 | 91 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.74% |
 | 92 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 3.70% |
@@ -102,7 +102,7 @@
 | 100 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
 | 100 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.12% |
 | 102 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.11% |
-| 103 | [Doodle God](games/d/doodle_god.md) | 3.10% |
+| 103 | [Doodle God](games/d/doodle_god.md) | 3.09% |
 | 104 | [Monster Harvest](games/m/monster_harvest.md) | 3.08% |
 | 105 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.07% |
 | 106 | [HordeCore](games/h/hordecore.md) | 3.04% |
@@ -122,7 +122,7 @@
 | 119 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 121 | [Lamentum](games/l/lamentum.md) | 2.42% |
 | 122 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.41% |
-| 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.39% |
+| 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.38% |
 | 124 | [Dungeons 4](games/d/dungeons_4.md) | 2.30% |
 | 125 | [Bloodshore](games/b/bloodshore.md) | 2.25% |
 | 125 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.25% |
@@ -187,7 +187,7 @@
 | 185 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.74% |
 | 186 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.69% |
 | 186 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.69% |
-| 188 | [Haven](games/h/haven.md) | 0.65% |
+| 188 | [Haven](games/h/haven.md) | 0.64% |
 | 189 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.63% |
 | 190 | [Dead Space](games/d/dead_space.md) | 0.61% |
 | 191 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.60% |
@@ -260,10 +260,10 @@
 | 257 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
 | 257 | [Lost Ruins](games/l/lost_ruins.md) | 0.20% |
 | 257 | [Shop Titans](games/s/shop_titans.md) | 0.20% |
+| 257 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.20% |
 | 257 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
-| 262 | [Blanc](games/b/blanc.md) | 0.19% |
-| 262 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.19% |
-| 262 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.19% |
+| 263 | [Blanc](games/b/blanc.md) | 0.19% |
+| 263 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.19% |
 | 265 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.18% |
 | 265 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.18% |
 | 265 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
