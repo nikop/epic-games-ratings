@@ -12,7 +12,7 @@
 | The Plains of Strothalm | 71.00% | ~370 |
 | Experienced Thalya | 71.00% | ~370 |
 | Thalya's Concentrated Fury | 69.00% | ~359 |
-| Bad Elves Go Everywhere | 67.00% | ~349 |
+| Bad Elves Go Everywhere | 68.00% | ~354 |
 | Master of Magic | 64.00% | ~333 |
 | Heroes’ Gorge | 63.00% | ~328 |
 | Unicorn steaks – fresh off the hoof! | 61.00% | ~318 |

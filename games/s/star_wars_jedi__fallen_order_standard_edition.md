@@ -5,34 +5,34 @@ Rating: 4.66 (Ranked 295)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 100.00% | ~21,654 |
-| A Long Time Ago | 93.00% | ~20,138 |
-| Sabersmith | 80.00% | ~17,323 |
-| The Obstacle is the Way | 78.00% | ~16,890 |
-| Back At You | 73.00% | ~15,807 |
-| Happy Go Wookiee | 69.00% | ~14,941 |
-| Everything is Connected | 60.00% | ~12,992 |
+| The Mantis | 100.00% | ~21,655 |
+| A Long Time Ago | 93.00% | ~20,139 |
+| Sabersmith | 80.00% | ~17,324 |
+| The Obstacle is the Way | 78.00% | ~16,891 |
+| Back At You | 73.00% | ~15,808 |
+| Happy Go Wookiee | 69.00% | ~14,942 |
+| Everything is Connected | 60.00% | ~12,993 |
 | Her Name Was Masana Tide | 55.00% | ~11,910 |
-| Bank Shot | 54.00% | ~11,693 |
+| Bank Shot | 54.00% | ~11,694 |
 | Perfect Timing | 53.00% | ~11,477 |
 | Gorgara Falls | 51.00% | ~11,044 |
-| The Full Glow-Up | 50.00% | ~10,827 |
-| For A More Civilized Age | 49.00% | ~10,610 |
-| I Knew He Was No Good | 47.00% | ~10,177 |
+| The Full Glow-Up | 50.00% | ~10,828 |
+| For A More Civilized Age | 49.00% | ~10,611 |
+| I Knew He Was No Good | 47.00% | ~10,178 |
 | The Holocron Awaits | 46.00% | ~9,961 |
 | Look Out Below | 44.00% | ~9,528 |
 | Trust Only In The Force | 44.00% | ~9,528 |
-| Scum and Villainy | 43.00% | ~9,311 |
+| Scum and Villainy | 43.00% | ~9,312 |
 | Don't Mess with BD-1 | 42.00% | ~9,095 |
 | Blade Master | 39.00% | ~8,445 |
-| Full House | 36.00% | ~7,795 |
+| Full House | 36.00% | ~7,796 |
 | Legendary Beasts | 22.00% | ~4,764 |
 | Echo Location | 20.00% | ~4,331 |
 | Visiting Alderaan Places | 18.00% | ~3,898 |
 | Triple Take | 14.00% | ~3,032 |
 | Cal Got Your Tongue? | 14.00% | ~3,032 |
-| Big Bang | 12.00% | ~2,598 |
-| Feel the Force | 10.00% | ~2,165 |
+| Big Bang | 12.00% | ~2,599 |
+| Feel the Force | 10.00% | ~2,166 |
 | Can't Touch This | 9.00% | ~1,949 |
 | Medical Droid | 8.00% | ~1,732 |
 | Data Collector | 8.00% | ~1,732 |
@@ -45,7 +45,7 @@ Rating: 4.66 (Ranked 295)
 | Kicking Back | 2.00% | ~433 |
 | Not So Fast | 1.00% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,654 (Ranked 141)  
+Progressed: 21,655 (Ranked 141)  
 Completed: 220 (1.02%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 220 (1.02%) (Ranked 167)
 | 2023-12-01 | 21,118 | 217 |
 | 2023-12-02 | 21,293 | 217 |
 | 2023-12-03 | 21,610 | 219 |
-| 2023-12-04 | 21,654 | 220 |
+| 2023-12-04 | 21,655 | 220 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5692,9 +5692,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 717348,
+  "EOS_Progressed": 717349,
   "EOS_Completed": 6517,
-  "EOS_NewPlayers": 1262,
+  "EOS_NewPlayers": 1258,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -30427,6 +30427,11 @@
       "Time": "2023-12-04T07:09:08.33823+00:00",
       "NumProgressed": 717348,
       "NumCompleted": 6517
+    },
+    {
+      "Time": "2023-12-04T08:09:33.1686543+00:00",
+      "NumProgressed": 717349,
+      "NumCompleted": 6517
     }
   ],
   "TotalAchievements": 49,
@@ -30438,7 +30443,7 @@
       "Name": "Back to Work",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 272592
+      "UsersEstimate": 272593
     },
     {
       "ID": "AchAresKills",
@@ -30486,7 +30491,7 @@
       "Name": "Three-Headed Boy",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 229551
+      "UsersEstimate": 229552
     },
     {
       "ID": "AchClearAnyRun",
@@ -30502,7 +30507,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 566705
+      "UsersEstimate": 566706
     },
     {
       "ID": "AchClearElysium",
@@ -30542,7 +30547,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 88,
       "XP": 25,
-      "UsersEstimate": 631266
+      "UsersEstimate": 631267
     },
     {
       "ID": "AchCrushedThanatos",
@@ -30566,7 +30571,7 @@
       "Name": "River Denizens",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 200857
+      "UsersEstimate": 200858
     },
     {
       "ID": "AchForgedBond",
@@ -30574,7 +30579,7 @@
       "Name": "Grown Close",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 200857
+      "UsersEstimate": 200858
     },
     {
       "ID": "AchFoundAllSummons",
@@ -30606,7 +30611,7 @@
       "Name": "Friends in High Places",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 480623
+      "UsersEstimate": 480624
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -30710,7 +30715,7 @@
       "Name": "Urge to Sing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 258245
+      "UsersEstimate": 258246
     },
     {
       "ID": "AchPactUpgradesClears",
@@ -30790,7 +30795,7 @@
       "Name": "Skelly Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 301286
+      "UsersEstimate": 301287
     },
     {
       "ID": "AchUnlockedAllWeapons",
@@ -30814,7 +30819,7 @@
       "Name": "Well Stocked",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 286939
+      "UsersEstimate": 286940
     },
     {
       "ID": "ActUnlockedAllAspects",
@@ -30829,15 +30834,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 717348,
+      "Progressed": 717349,
       "Completed": 6517
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-12-03T23:00:38.0627364+00:00",
-  "LastChanged_Achievements": "2023-12-04T07:09:08.3382296+00:00",
+  "LastChanged_Achievements": "2023-12-04T08:09:33.1686539+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:34.3218776+00:00",
-  "LastUpdate_Ratings": "2023-12-04T07:00:09.8378391+00:00",
-  "LastUpdate_Achievements": "2023-12-04T07:09:08.3383485+00:00"
+  "LastUpdate_Ratings": "2023-12-04T08:01:05.4671529+00:00",
+  "LastUpdate_Achievements": "2023-12-04T08:09:33.1687913+00:00"
 }

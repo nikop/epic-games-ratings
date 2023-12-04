@@ -6,15 +6,15 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~974,310 |
-| I Need a Bigger Garage | 63.00% | ~682,017 |
-| Pump my Ride | 47.00% | ~508,806 |
-| Ghostbuster | 34.00% | ~368,073 |
-| Call Roadside Assistance | 18.00% | ~194,862 |
-| That Was Close | 18.00% | ~194,862 |
-| Quickie | 11.00% | ~119,082 |
+| The First of Many | 90.00% | ~974,317 |
+| I Need a Bigger Garage | 63.00% | ~682,022 |
+| Pump my Ride | 47.00% | ~508,810 |
+| Ghostbuster | 34.00% | ~368,075 |
+| Call Roadside Assistance | 18.00% | ~194,863 |
+| That Was Close | 18.00% | ~194,863 |
+| Quickie | 11.00% | ~119,083 |
 | California Dreamer | 7.00% | ~75,780 |
-| Can't Touch This | 5.00% | ~54,128 |
+| Can't Touch This | 5.00% | ~54,129 |
 | Carménère Taster | 4.00% | ~43,303 |
 | Comeback | 4.00% | ~43,303 |
 | Driver from Ipanema | 3.00% | ~32,477 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,083 |
 | Look Mom, No Hands! | 0.10% | ~1,083 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,082,567 (Ranked 12)  
+Progressed: 1,082,574 (Ranked 12)  
 Completed: 500 (0.05%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,10 +272,10 @@ Completed: 500 (0.05%) (Ranked 318)
 | 2023-12-01 | 1,081,289 | 500 |
 | 2023-12-02 | 1,081,739 | 500 |
 | 2023-12-03 | 1,082,447 | 500 |
-| 2023-12-04 | 1,082,567 | 500 |
+| 2023-12-04 | 1,082,574 | 500 |
 ## Awards
 Max (Great for Beginners): 172  (Ranked 308)  
-Sum: 1,410 (Ranked 240)  
+Sum: 1,411 (Ranked 240)  
 Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
@@ -287,7 +287,7 @@ Diff (max vs sum): 68
 | This game is Highly Recommended | 133 |
 | This game has Playful Visuals | 127 |
 | This game has Competitive Players | 126 |
-| This game is Extremely Fun | 123 |
+| This game is Extremely Fun | 124 |
 | This game has Amazing Storytelling | 109 |
 | This game has Amazing Characters | 100 |
 | This game has a Competitive Community | 92 |
@@ -552,3 +552,4 @@ Diff (max vs sum): 68
 | 2023-11-30 | 4.54 | - | 169 | 1,552 |
 | 2023-12-01 | 4.54 | - | 170 | 1,553 |
 | 2023-12-03 | 4.54 | - | 172 | 1,410 |
+| 2023-12-04 | 4.54 | - | 172 | 1,411 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -850,9 +850,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 48833,
+  "EOS_Progressed": 48838,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 902,
+  "EOS_NewPlayers": 904,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26625,6 +26625,11 @@
       "Time": "2023-12-04T07:03:17.2677543+00:00",
       "NumProgressed": 48833,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-04T08:03:47.4948936+00:00",
+      "NumProgressed": 48838,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -26676,7 +26681,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 13185
+      "UsersEstimate": 13186
     },
     {
       "ID": "goals180",
@@ -26692,7 +26697,7 @@
       "Name": "Amateur",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4883
+      "UsersEstimate": 4884
     },
     {
       "ID": "goals75",
@@ -26740,7 +26745,7 @@
       "Name": "Master Of The Sands",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "mylittlefriend",
@@ -26764,7 +26769,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7813
+      "UsersEstimate": 7814
     },
     {
       "ID": "playerFelipe",
@@ -26772,7 +26777,7 @@
       "Name": "Unlock Felipe",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "playerIzel",
@@ -26844,7 +26849,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 12208
+      "UsersEstimate": 12210
     },
     {
       "ID": "sandboarder",
@@ -26908,7 +26913,7 @@
       "Name": "Enter Paz",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3418
+      "UsersEstimate": 3419
     },
     {
       "ID": "vandal",
@@ -26947,15 +26952,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 48833,
+      "Progressed": 48838,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-11-29T16:56:50.2159506+00:00",
-  "LastChanged_Achievements": "2023-12-04T07:03:17.2677539+00:00",
+  "LastChanged_Achievements": "2023-12-04T08:03:47.4948932+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:54.929935+00:00",
-  "LastUpdate_Ratings": "2023-12-04T06:59:14.8857346+00:00",
-  "LastUpdate_Achievements": "2023-12-04T07:03:17.2678885+00:00"
+  "LastUpdate_Ratings": "2023-12-04T08:00:03.5723829+00:00",
+  "LastUpdate_Achievements": "2023-12-04T08:03:47.4950224+00:00"
 }

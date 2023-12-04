@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 366,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -1154,9 +1154,9 @@
       "ID": "MAIN_CLEAR_ISLAND1",
       "SetID": "apihg0e",
       "Name": "The Beginning",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 82
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -1218,9 +1218,9 @@
       "ID": "PORTAL_REPAIRED_ISLANAD2",
       "SetID": "apihg0e",
       "Name": "Ares Island Memories",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 12
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD3",
@@ -1329,8 +1329,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-04T07:08:32.0681836+00:00",
+  "LastChanged_Achievements": "2023-12-04T08:08:52.9948013+00:00",
   "LastUpdate_AppInfo": "2023-11-28T17:56:55.9843317+00:00",
-  "LastUpdate_Ratings": "2023-12-04T07:02:50.032349+00:00",
-  "LastUpdate_Achievements": "2023-12-04T07:08:32.0682144+00:00"
+  "LastUpdate_Ratings": "2023-12-04T08:03:16.1503192+00:00",
+  "LastUpdate_Achievements": "2023-12-04T08:08:52.9948338+00:00"
 }

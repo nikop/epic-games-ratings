@@ -2,10 +2,10 @@
   "ID": "5820c931df34423cbdf56ae90d20389a",
   "Name": "The Unbeatable Path",
   "ProductSlug": "the-unbeatable-path-8af8fc",
-  "Ranking_EOS_Progress": 619,
+  "Ranking_EOS_Progress": 614,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 485,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 426,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-06-01T07:00:00+00:00",
     "PcReleaseDate": "2023-04-06T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -69,6 +69,11 @@
       "Time": "2023-11-20T21:06:20.4845279+00:00",
       "NumProgressed": 9,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-04T08:05:09.1662256+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -78,7 +83,7 @@
       "ID": "10deaths",
       "SetID": "7go7g4h",
       "Name": "Angel of Death",
-      "Percentage": -11.1,
+      "Percentage": -10,
       "XP": 30,
       "UsersEstimate": -1
     },
@@ -126,7 +131,7 @@
       "ID": "chapter_01_done",
       "SetID": "7go7g4h",
       "Name": "Chapter 01",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -134,7 +139,7 @@
       "ID": "chapter_02_done",
       "SetID": "7go7g4h",
       "Name": "Chapter 02",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -142,7 +147,7 @@
       "ID": "chapter_03_done",
       "SetID": "7go7g4h",
       "Name": "Chapter 03",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -238,7 +243,7 @@
       "ID": "level01_started",
       "SetID": "7go7g4h",
       "Name": "Welcome To Hell",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -263,14 +268,14 @@
     {
       "ID": "7go7g4h",
       "IsBase": true,
-      "Progressed": 9,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-23T19:59:32.7186048+00:00",
   "FirstSeenAchievements": "2023-05-02T07:59:42.1389643+00:00",
-  "LastChanged_Achievements": "2023-12-04T07:04:30.5723894+00:00",
+  "LastChanged_Achievements": "2023-12-04T08:05:09.1662251+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:18.269839+00:00",
-  "LastUpdate_Ratings": "2023-12-04T06:57:07.749521+00:00",
-  "LastUpdate_Achievements": "2023-12-04T07:04:30.5724032+00:00"
+  "LastUpdate_Ratings": "2023-12-04T07:57:39.0704963+00:00",
+  "LastUpdate_Achievements": "2023-12-04T08:05:09.1662465+00:00"
 }

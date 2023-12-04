@@ -6,24 +6,24 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 88.00% | ~631,266 |
-| Escaped Asphodel | 79.00% | ~566,705 |
+| Escaped Tartarus | 88.00% | ~631,267 |
+| Escaped Asphodel | 79.00% | ~566,706 |
 | Arms Collector | 70.00% | ~502,144 |
-| Friends in High Places | 67.00% | ~480,623 |
+| Friends in High Places | 67.00% | ~480,624 |
 | Escaped Elysium | 66.00% | ~473,450 |
 | Chthonic Colleagues | 62.00% | ~444,756 |
 | Is There No Escape? | 52.00% | ~373,021 |
 | Death Dealer | 45.00% | ~322,807 |
-| Skelly Slayer | 42.00% | ~301,286 |
-| Well Stocked | 40.00% | ~286,939 |
-| Back to Work | 38.00% | ~272,592 |
+| Skelly Slayer | 42.00% | ~301,287 |
+| Well Stocked | 40.00% | ~286,940 |
+| Back to Work | 38.00% | ~272,593 |
 | Day-or-Night Trader | 37.00% | ~265,419 |
 | Blessed by the Gods | 37.00% | ~265,419 |
-| Urge to Sing | 36.00% | ~258,245 |
+| Urge to Sing | 36.00% | ~258,246 |
 | Blood Bound | 35.00% | ~251,072 |
-| Three-Headed Boy | 32.00% | ~229,551 |
-| River Denizens | 28.00% | ~200,857 |
-| Grown Close | 28.00% | ~200,857 |
+| Three-Headed Boy | 32.00% | ~229,552 |
+| River Denizens | 28.00% | ~200,858 |
+| Grown Close | 28.00% | ~200,858 |
 | Home Makeover | 27.00% | ~193,684 |
 | Had to Happen | 25.00% | ~179,337 |
 | The Family Secret | 25.00% | ~179,337 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,694 |
 | Friends Forever | 4.00% | ~28,694 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,348 (Ranked 23)  
+Progressed: 717,349 (Ranked 23)  
 Completed: 6,517 (0.91%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 6,517 (0.91%) (Ranked 173)
 | 2023-12-01 | 716,927 | 6,512 |
 | 2023-12-02 | 717,106 | 6,515 |
 | 2023-12-03 | 717,322 | 6,517 |
-| 2023-12-04 | 717,348 | 6,517 |
+| 2023-12-04 | 717,349 | 6,517 |
 ## Awards
 Max (Character Customization): 3,404  (Ranked 92)  
 Sum: 8,303 (Ranked 103)  

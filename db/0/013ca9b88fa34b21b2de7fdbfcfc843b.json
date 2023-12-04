@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8270,
+  "EOS_Progressed": 8271,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7984,6 +7984,11 @@
       "Time": "2023-12-04T07:09:19.8624397+00:00",
       "NumProgressed": 8270,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-04T08:09:45.898912+00:00",
+      "NumProgressed": 8271,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -7996,7 +8001,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5954
+      "UsersEstimate": 5955
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -8004,7 +8009,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5789
+      "UsersEstimate": 5790
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -8092,7 +8097,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3556
+      "UsersEstimate": 3557
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -8100,7 +8105,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 4052
+      "UsersEstimate": 4053
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -8130,9 +8135,9 @@
       "ID": "DISCOVER_SCROLLS_1",
       "SetID": "9eia0f5",
       "Name": "Humble Collector",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3556
+      "UsersEstimate": 3474
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -8156,7 +8161,7 @@
       "Name": "Mist Walker",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2646
+      "UsersEstimate": 2647
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -8275,22 +8280,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8270,
+      "Progressed": 8271,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 887,
-      "Completed": 887
+      "Progressed": 888,
+      "Completed": 888
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-01T18:02:55.7305048+00:00",
-  "LastChanged_Achievements": "2023-12-04T07:09:19.8624393+00:00",
+  "LastChanged_Achievements": "2023-12-04T08:09:45.8989117+00:00",
   "LastUpdate_AppInfo": "2023-12-01T09:57:19.7790129+00:00",
-  "LastUpdate_Ratings": "2023-12-04T07:02:56.7926582+00:00",
-  "LastUpdate_Achievements": "2023-12-04T07:09:19.8624996+00:00"
+  "LastUpdate_Ratings": "2023-12-04T08:03:23.838243+00:00",
+  "LastUpdate_Achievements": "2023-12-04T08:09:45.8989705+00:00"
 }

@@ -12,16 +12,16 @@ Number of Ratings: 274  (23.09.2022)
 | SNEAKY SNEAKY | 22.00% | ~52,063 |
 | TRICK UP YOUR SLEEVE | 22.00% | ~52,063 |
 | GT9STRADALE | 20.00% | ~47,330 |
-| CHALLENGER | 11.00% | ~26,031 |
+| CHALLENGER | 11.00% | ~26,032 |
 | ON A ROLL | 9.00% | ~21,298 |
 | CENTAUR | 8.00% | ~18,932 |
 | FASTER THAN EVER | 8.00% | ~18,932 |
-| CHALLENGE THE WORLD | 7.00% | ~16,565 |
-| PHOTOFINISH | 7.00% | ~16,565 |
+| CHALLENGE THE WORLD | 7.00% | ~16,566 |
+| PHOTOFINISH | 7.00% | ~16,566 |
 | QAREEN | 5.00% | ~11,832 |
 | SHOWOFF | 4.00% | ~9,466 |
 | TAKATORA | 4.00% | ~9,466 |
-| GILA | 3.00% | ~7,099 |
+| GILA | 3.00% | ~7,100 |
 | PRO | 2.00% | ~4,733 |
 | RESPWND | 2.00% | ~4,733 |
 | SHINY SHINY GOLD | 2.00% | ~4,733 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~473 |
 | ENLIGHTENED | 0.10% | ~237 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,649 (Ranked 66)  
+Progressed: 236,650 (Ranked 66)  
 Completed: 49 (0.02%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 49 (0.02%) (Ranked 336)
 | 2023-12-01 | 236,496 | 49 |
 | 2023-12-02 | 236,549 | 49 |
 | 2023-12-03 | 236,629 | 49 |
-| 2023-12-04 | 236,649 | 49 |
+| 2023-12-04 | 236,650 | 49 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

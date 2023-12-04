@@ -11,6 +11,8 @@
 | The Remains of Fleed | 11.00% | ~1 |
 | Life of Pi | 11.00% | ~1 |
 | Technology first! | 11.00% | ~1 |
+| The Keeper of Fleed | 11.00% | ~1 |
+| The Planner | 11.00% | ~1 |
 | Iron Fist | 11.00% | ~1 |
 | The Exterminator | 11.00% | ~1 |
 | The Legend | 11.00% | ~1 |
@@ -19,8 +21,6 @@
 | Gold Seeker | 0.00% | ~0 |
 | A Land of Peace | 0.00% | ~0 |
 | First Contact | 0.00% | ~0 |
-| The Keeper of Fleed | 0.00% | ~0 |
-| The Planner | 0.00% | ~0 |
 | Earth's Savior | 0.00% | ~0 |
 | You can't fool me! | 0.00% | ~0 |
 | The Collector | 0.00% | ~0 |
@@ -35,7 +35,7 @@
 | The Ultimate Attack | 0.00% | ~0 |
 | Vengeance of the Wolf | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9 (Ranked 619)  
+Progressed: 9 (Ranked 620)  
 Completed: 0 (0.00%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |

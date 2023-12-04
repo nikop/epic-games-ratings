@@ -8483,9 +8483,9 @@
       "Count": 1274
     }
   ],
-  "EOS_Progressed": 852602,
+  "EOS_Progressed": 852620,
   "EOS_Completed": 210,
-  "EOS_NewPlayers": 4957,
+  "EOS_NewPlayers": 4968,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -31133,6 +31133,11 @@
       "Time": "2023-12-04T07:03:55.5945339+00:00",
       "NumProgressed": 852602,
       "NumCompleted": 210
+    },
+    {
+      "Time": "2023-12-04T08:04:29.9538615+00:00",
+      "NumProgressed": 852620,
+      "NumCompleted": 210
     }
   ],
   "TotalAchievements": 75,
@@ -31144,7 +31149,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 213150
+      "UsersEstimate": 213155
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -31184,7 +31189,7 @@
       "Name": "Blast Mastery",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 25578
+      "UsersEstimate": 25579
     },
     {
       "ID": "ACHIEVEMENT_CARAVAN_MASTER",
@@ -31224,7 +31229,7 @@
       "Name": "Come Fly With Me",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 51156
+      "UsersEstimate": 51157
     },
     {
       "ID": "ACHIEVEMENT_CONDEMNED_TO_REPEAT_IT",
@@ -31240,7 +31245,7 @@
       "Name": "Crafty",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 51156
+      "UsersEstimate": 51157
     },
     {
       "ID": "ACHIEVEMENT_CURIOS_AND_RELICS",
@@ -31248,7 +31253,7 @@
       "Name": "Curios and Relics",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 25578
+      "UsersEstimate": 25579
     },
     {
       "ID": "ACHIEVEMENT_DESERT_SURVIVALIST",
@@ -31296,7 +31301,7 @@
       "Name": "G.I. Blues",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 34104
+      "UsersEstimate": 34105
     },
     {
       "ID": "ACHIEVEMENT_GLOBE_TROTTER",
@@ -31352,7 +31357,7 @@
       "Name": "Jury Rigger",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 34104
+      "UsersEstimate": 34105
     },
     {
       "ID": "ACHIEVEMENT_KNOW_WHEN_TO_FOLD_EM",
@@ -31368,7 +31373,7 @@
       "Name": "Lead Dealer",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 42630
+      "UsersEstimate": 42631
     },
     {
       "ID": "ACHIEVEMENT_LITTLE_WHEEL",
@@ -31440,7 +31445,7 @@
       "Name": "New Kid",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 51156
+      "UsersEstimate": 51157
     },
     {
       "ID": "ACHIEVEMENT_NEW_VEGAS_SAMURAI",
@@ -31464,7 +31469,7 @@
       "Name": "No Tumbler Fumbler",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 34104
+      "UsersEstimate": 34105
     },
     {
       "ID": "ACHIEVEMENT_OLD_TYME_BRAWLER",
@@ -31480,7 +31485,7 @@
       "Name": "Ol\u0027 Buddy Ol\u0027 Pal",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 51156
+      "UsersEstimate": 51157
     },
     {
       "ID": "ACHIEVEMENT_ONE_ARMED_BANDIT",
@@ -31504,7 +31509,7 @@
       "Name": "Outstanding Orator",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 34104
+      "UsersEstimate": 34105
     },
     {
       "ID": "ACHIEVEMENT_O_DAUGHER_OF_BABYLON",
@@ -31552,7 +31557,7 @@
       "Name": "Ring-a-Ding-Ding",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 42630
+      "UsersEstimate": 42631
     },
     {
       "ID": "ACHIEVEMENT_ROCKETS_RED_GLARE",
@@ -31608,7 +31613,7 @@
       "Name": "That Lucky Old Sun",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 34104
+      "UsersEstimate": 34105
     },
     {
       "ID": "ACHIEVEMENT_THEY_WENT_THAT_A_WAY",
@@ -31616,7 +31621,7 @@
       "Name": "They Went That-a-Way",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 51156
+      "UsersEstimate": 51157
     },
     {
       "ID": "ACHIEVEMENT_THE_BOSS",
@@ -31624,7 +31629,7 @@
       "Name": "The Boss",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 25578
+      "UsersEstimate": 25579
     },
     {
       "ID": "ACHIEVEMENT_THE_COURIER_WHO_BROKE_THE_BANK",
@@ -31664,7 +31669,7 @@
       "Name": "Up and Comer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 34104
+      "UsersEstimate": 34105
     },
     {
       "ID": "ACHIEVEMENT_UP_TO_THE_CHALLENGE",
@@ -31688,7 +31693,7 @@
       "Name": "Volare!",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 34104
+      "UsersEstimate": 34105
     },
     {
       "ID": "ACHIEVEMENT_WALKER_OF_THE_MOJAVE",
@@ -31696,7 +31701,7 @@
       "Name": "Walker of the Mojave",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 42630
+      "UsersEstimate": 42631
     },
     {
       "ID": "ACHIEVEMENT_WARHEAD_HUNTER",
@@ -31712,7 +31717,7 @@
       "Name": "When We Remembered Zion",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 25578
+      "UsersEstimate": 25579
     },
     {
       "ID": "ACHIEVEMENT_WILD_CARD",
@@ -31736,20 +31741,20 @@
       "Name": "You Run Barter Town",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 42630
+      "UsersEstimate": 42631
     }
   ],
   "AchievementSets": [
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 852602,
+      "Progressed": 852620,
       "Completed": 256
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 852602,
+      "Progressed": 852620,
       "Completed": 210
     }
   ],
@@ -31757,8 +31762,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-12-04T06:58:08.0586988+00:00",
-  "LastChanged_Achievements": "2023-12-04T07:03:55.5945337+00:00",
+  "LastChanged_Achievements": "2023-12-04T08:04:29.9538612+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:13.278539+00:00",
-  "LastUpdate_Ratings": "2023-12-04T06:58:08.0586994+00:00",
-  "LastUpdate_Achievements": "2023-12-04T07:03:55.5947003+00:00"
+  "LastUpdate_Ratings": "2023-12-04T07:58:47.4074148+00:00",
+  "LastUpdate_Achievements": "2023-12-04T08:04:29.9540215+00:00"
 }
