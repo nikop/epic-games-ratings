@@ -205,7 +205,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8287,
+  "EOS_Progressed": 8288,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
@@ -8045,6 +8045,11 @@
       "Time": "2023-12-05T06:10:26.4582054+00:00",
       "NumProgressed": 8287,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-05T10:09:24.7233136+00:00",
+      "NumProgressed": 8288,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -8065,7 +8070,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5801
+      "UsersEstimate": 5802
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -8073,7 +8078,7 @@
       "Name": "Calm Sailing",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3066
+      "UsersEstimate": 3067
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -8145,7 +8150,7 @@
       "Name": "Lumberjack",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2237
+      "UsersEstimate": 2238
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -8153,7 +8158,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3563
+      "UsersEstimate": 3564
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -8193,7 +8198,7 @@
       "Name": "Humble Collector",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3563
+      "UsersEstimate": 3564
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -8209,7 +8214,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 5055
+      "UsersEstimate": 5056
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -8265,7 +8270,7 @@
       "Name": "Chatty Neighbor",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "PREPARE_MEALS_1",
@@ -8305,7 +8310,7 @@
       "Name": "Right Tool For the Job",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "UPGRADE_COZYMAX",
@@ -8321,7 +8326,7 @@
       "Name": "House Proud",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "UPGRADE_ONESKILLMAX",
@@ -8336,22 +8341,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8287,
+      "Progressed": 8288,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 904,
-      "Completed": 904
+      "Progressed": 905,
+      "Completed": 905
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-04T18:02:55.9509642+00:00",
-  "LastChanged_Achievements": "2023-12-05T09:10:32.077059+00:00",
+  "LastChanged_Achievements": "2023-12-05T10:09:24.7233132+00:00",
   "LastUpdate_AppInfo": "2023-12-01T09:57:19.7790129+00:00",
-  "LastUpdate_Ratings": "2023-12-05T09:03:31.1670964+00:00",
-  "LastUpdate_Achievements": "2023-12-05T09:10:32.0771265+00:00"
+  "LastUpdate_Ratings": "2023-12-05T10:03:04.8374164+00:00",
+  "LastUpdate_Achievements": "2023-12-05T10:09:24.7233714+00:00"
 }

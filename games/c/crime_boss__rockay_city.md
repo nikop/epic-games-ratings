@@ -26,11 +26,11 @@ Rating: 3.95 (Ranked 1,016)
 | Freebooter | 0.60% | ~550 |
 | Legend Looter | 0.50% | ~459 |
 | Imports and Exports | 0.50% | ~459 |
+| Savvy Seeker | 0.50% | ~459 |
 | Foo Finder | 0.50% | ~459 |
 | Moneybags | 0.50% | ~459 |
 | Olympus Ascended | 0.50% | ~459 |
 | Ding Dong | 0.50% | ~459 |
-| Savvy Seeker | 0.40% | ~367 |
 | All that Glitters | 0.40% | ~80 |
 | Rockay Raider | 0.30% | ~275 |
 | Groundhog Days | 0.30% | ~275 |

@@ -36,6 +36,7 @@ Rating: 4.75 (Ranked 147)
 | Madman's Paradise | 0.30% | ~705 |
 | Shhh...It's a Secret | 0.30% | ~705 |
 | Was This Supposed To Happen? | 0.30% | ~705 |
+| Strapped | 0.30% | ~705 |
 | Edgelord | 0.30% | ~705 |
 | The Web | 0.30% | ~705 |
 | Scrap Collector | 0.30% | ~705 |
@@ -47,7 +48,6 @@ Rating: 4.75 (Ranked 147)
 | The Agenda | 0.20% | ~470 |
 | Tall Tales | 0.20% | ~470 |
 | Bad Moon Rising | 0.20% | ~470 |
-| Strapped | 0.20% | ~470 |
 | The Trigger | 0.20% | ~470 |
 | Cutting Edge | 0.20% | ~470 |
 | The Collector | 0.20% | ~470 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 147)
 | You Shall Pass | 0.20% | ~29 |
 | A Foul Feast | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,100 (Ranked 68)  
+Progressed: 235,119 (Ranked 68)  
 Completed: 558 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 558 (0.24%) (Ranked 251)
 | 2023-12-02 | 233,162 | 548 |
 | 2023-12-03 | 234,204 | 554 |
 | 2023-12-04 | 234,896 | 558 |
-| 2023-12-05 | 235,100 | 558 |
+| 2023-12-05 | 235,119 | 558 |
 ## Awards
 Max (Great Boss Battles): 2,623  (Ranked 102)  
 Sum: 6,492 (Ranked 128)  

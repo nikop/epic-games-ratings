@@ -8,6 +8,7 @@
 | Conducted Trade | 50.00% | ~1 |
 | Gotta Go Fast | 50.00% | ~1 |
 | It's Yours, My Friend | 50.00% | ~1 |
+| Mathematic | 50.00% | ~1 |
 | Real Purdy | 50.00% | ~1 |
 | Slotting Machine | 50.00% | ~1 |
 | Stack Overflow | 50.00% | ~1 |
@@ -24,7 +25,6 @@
 | I'm A Lumberbot | 0.00% | ~0 |
 | Interstellar Performance | 0.00% | ~0 |
 | Manic Mechanic | 0.00% | ~0 |
-| Mathematic | 0.00% | ~0 |
 | Mine Sweeper | 0.00% | ~0 |
 | Nothing But Road | 0.00% | ~0 |
 | Roll Out | 0.00% | ~0 |

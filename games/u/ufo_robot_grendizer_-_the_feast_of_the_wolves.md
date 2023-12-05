@@ -13,20 +13,20 @@
 | The Legend | 25.00% | ~3 |
 | A Good Paint Job | 17.00% | ~2 |
 | The Keeper of Fleed | 17.00% | ~2 |
+| Iron Fist | 17.00% | ~2 |
+| The Exterminator | 17.00% | ~2 |
 | The Vega Turtle | 17.00% | ~2 |
 | The Power of Friendship | 8.00% | ~1 |
 | The Planner | 8.00% | ~1 |
-| Iron Fist | 8.00% | ~1 |
-| The Exterminator | 8.00% | ~1 |
+| Earth's Savior | 8.00% | ~1 |
+| Saucer Beast Unchained | 8.00% | ~1 |
 | The Space Hydra | 8.00% | ~1 |
 | The Ultimate Attack | 8.00% | ~1 |
 | Gold Seeker | 0.00% | ~0 |
 | A Land of Peace | 0.00% | ~0 |
-| Earth's Savior | 0.00% | ~0 |
 | You can't fool me! | 0.00% | ~0 |
 | The Collector | 0.00% | ~0 |
 | The Broken Guard | 0.00% | ~0 |
-| Saucer Beast Unchained | 0.00% | ~0 |
 | The Completionist | 0.00% | ~0 |
 | The Battle Axe | 0.00% | ~0 |
 | The Fire Cannons | 0.00% | ~0 |

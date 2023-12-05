@@ -4,7 +4,7 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 325,
+  "EOS_Progressed": 326,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.23,
   "EosHistory": [
@@ -839,6 +839,11 @@
       "Time": "2023-12-05T05:03:34.8054434+00:00",
       "NumProgressed": 325,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-05T10:03:44.6988582+00:00",
+      "NumProgressed": 326,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -866,7 +871,7 @@
       "Name": "Mushroom Forager",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_FORAGER_BERRY",
@@ -882,7 +887,7 @@
       "Name": "Good Stew",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_GREEN_THUMB",
@@ -898,7 +903,7 @@
       "Name": "Avian Veterinarian",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_GROUSE_KILLED",
@@ -938,7 +943,7 @@
       "Name": "Natural Selection",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_PLAYER_DEATHS",
@@ -970,7 +975,7 @@
       "Name": "First Shard",
       "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_SHARD_2",
@@ -1033,7 +1038,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 325,
+      "Progressed": 326,
       "Completed": 4
     }
   ],
@@ -1041,8 +1046,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-12-05T09:04:12.7071076+00:00",
+  "LastChanged_Achievements": "2023-12-05T10:03:44.6988577+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:24.0129213+00:00",
-  "LastUpdate_Ratings": "2023-12-05T08:59:58.0567738+00:00",
-  "LastUpdate_Achievements": "2023-12-05T09:04:12.707124+00:00"
+  "LastUpdate_Ratings": "2023-12-05T09:59:04.1449357+00:00",
+  "LastUpdate_Achievements": "2023-12-05T10:03:44.6988738+00:00"
 }

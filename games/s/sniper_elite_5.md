@@ -6,7 +6,7 @@ Rating: 4.44 (Ranked 678)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~1,869 |
-| Confirming Suspicions | 41.00% | ~1,630 |
+| Confirming Suspicions | 41.00% | ~1,631 |
 | The Kraken Wakes | 37.00% | ~1,471 |
 | It's Starting to Crack | 34.00% | ~1,352 |
 | Change the Channel | 31.00% | ~1,233 |
@@ -15,20 +15,20 @@ Rating: 4.44 (Ranked 678)
 | Resourceful | 27.00% | ~1,074 |
 | Target America | 27.00% | ~1,074 |
 | The Kraken Sleeps | 25.00% | ~994 |
-| Liberté | 23.00% | ~914 |
-| Organ Grinder | 23.00% | ~914 |
-| Sharpshooter | 23.00% | ~914 |
-| As Quiet as a Mouse | 23.00% | ~914 |
-| Gunslinger | 19.00% | ~755 |
-| Explosive Efficiency | 19.00% | ~755 |
+| Liberté | 23.00% | ~915 |
+| Organ Grinder | 23.00% | ~915 |
+| Sharpshooter | 23.00% | ~915 |
+| As Quiet as a Mouse | 23.00% | ~915 |
+| Gunslinger | 19.00% | ~756 |
+| Explosive Efficiency | 19.00% | ~756 |
 | Climbing the Ladder | 17.00% | ~676 |
 | Just a Flesh Wound | 17.00% | ~676 |
 | Der Geist | 17.00% | ~676 |
 | Close Quarters | 16.00% | ~636 |
 | Snake in the Grass | 16.00% | ~636 |
-| Skirmisher | 15.00% | ~596 |
-| Die Nussknacker Sweet! | 15.00% | ~596 |
-| Brains of the Operation | 15.00% | ~596 |
+| Skirmisher | 15.00% | ~597 |
+| Die Nussknacker Sweet! | 15.00% | ~597 |
+| Brains of the Operation | 15.00% | ~597 |
 | No Stone Unturned | 14.00% | ~557 |
 | Opposing Force | 14.00% | ~557 |
 | Enemy at the Gates | 14.00% | ~557 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 678)
 | Stroll in the Woods | 0.60% | ~24 |
 | Going Overboard | 0.60% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,976 (Ranked 198)  
+Progressed: 3,977 (Ranked 198)  
 Completed: 11 (0.28%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,6 +304,7 @@ Completed: 11 (0.28%) (Ranked 244)
 | 2023-12-02 | 3,967 | 11 |
 | 2023-12-03 | 3,972 | 11 |
 | 2023-12-04 | 3,976 | 11 |
+| 2023-12-05 | 3,977 | 11 |
 ## Awards
 Max (Great for Beginners): 27  (Ranked 515)  
 Sum: 27 (Ranked 527)  

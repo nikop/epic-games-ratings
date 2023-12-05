@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 495,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -199,7 +199,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 873,
+  "EOS_Progressed": 874,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
@@ -2074,6 +2074,11 @@
       "Time": "2023-12-04T23:05:07.9072921+00:00",
       "NumProgressed": 873,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-05T10:05:28.1995909+00:00",
+      "NumProgressed": 874,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2156,9 +2161,9 @@
       "ID": "Chicken",
       "SetID": "1n308hc",
       "Name": "Chicken",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CircularOasis",
@@ -2270,7 +2275,7 @@
       "Name": "Lord of the Files",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "LostMarshes",
@@ -2374,15 +2379,15 @@
       "Name": "Remnants of the Past",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "RenaissanceRobot",
       "SetID": "1n308hc",
       "Name": "Renaissance Robot",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 90,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ScientiaVincereTenebras",
@@ -2500,9 +2505,9 @@
       "ID": "TouchGrass",
       "SetID": "1n308hc",
       "Name": "Touch Grass",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 79
     },
     {
       "ID": "TrevorsBiographer",
@@ -2557,7 +2562,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 873,
+      "Progressed": 874,
       "Completed": 1
     }
   ],
@@ -2565,8 +2570,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-05T02:22:43.8735927+00:00",
-  "LastChanged_Achievements": "2023-12-05T09:06:35.3754792+00:00",
+  "LastChanged_Achievements": "2023-12-05T10:05:28.1995904+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-05T08:59:11.0388596+00:00",
-  "LastUpdate_Achievements": "2023-12-05T09:06:35.3755295+00:00"
+  "LastUpdate_Ratings": "2023-12-05T09:58:32.1231208+00:00",
+  "LastUpdate_Achievements": "2023-12-05T10:05:28.1996601+00:00"
 }

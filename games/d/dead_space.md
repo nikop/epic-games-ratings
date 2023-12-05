@@ -5,34 +5,34 @@ Rating: 4.64 (Ranked 337)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 93.00% | ~1,987 |
-| Welcome Aboard | 86.00% | ~1,838 |
-| Lab Rat | 77.00% | ~1,645 |
+| Marksman | 93.00% | ~1,988 |
+| Welcome Aboard | 86.00% | ~1,839 |
+| Lab Rat | 77.00% | ~1,646 |
 | All Systems Go | 67.00% | ~1,432 |
 | Brute Force | 67.00% | ~1,432 |
-| Cannon Fodder | 63.00% | ~1,346 |
-| Autofire | 58.00% | ~1,239 |
-| True Believer | 58.00% | ~1,239 |
-| Story Teller | 57.00% | ~1,218 |
+| Cannon Fodder | 63.00% | ~1,347 |
+| Autofire | 58.00% | ~1,240 |
+| True Believer | 58.00% | ~1,240 |
+| Story Teller | 57.00% | ~1,219 |
 | Raise the Stakes | 56.00% | ~1,197 |
-| Surgeon | 54.00% | ~1,154 |
+| Surgeon | 54.00% | ~1,155 |
 | Exterminator | 53.00% | ~1,133 |
 | Greenhouse Effect | 53.00% | ~1,133 |
-| Freeze | 52.00% | ~1,111 |
+| Freeze | 52.00% | ~1,112 |
 | S.O.S. | 48.00% | ~1,026 |
-| Full Arsenal | 47.00% | ~1,004 |
+| Full Arsenal | 47.00% | ~1,005 |
 | Get Off My Ship! | 45.00% | ~962 |
 | Strange Transmissions | 45.00% | ~962 |
-| Wreckage | 44.00% | ~940 |
+| Wreckage | 44.00% | ~941 |
 | Keeper of the Faith | 42.00% | ~898 |
 | Live with the Hot Ones | 42.00% | ~898 |
 | Betrayed | 40.00% | ~855 |
-| Exodus | 39.00% | ~833 |
-| Legend Teller | 39.00% | ~833 |
-| Mindless Prey | 39.00% | ~833 |
+| Exodus | 39.00% | ~834 |
+| Legend Teller | 39.00% | ~834 |
+| Mindless Prey | 39.00% | ~834 |
 | There's Always Peng! | 38.00% | ~812 |
 | Front Toward Enemy | 34.00% | ~727 |
-| A Cut Above | 33.00% | ~705 |
+| A Cut Above | 33.00% | ~706 |
 | Whole Again | 30.00% | ~641 |
 | Set A Benchmark | 30.00% | ~641 |
 | Full Contact | 27.00% | ~577 |
@@ -53,7 +53,7 @@ Rating: 4.64 (Ranked 337)
 | Untouchable | 2.00% | ~43 |
 | One Gun | 2.00% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,137 (Ranked 226)  
+Progressed: 2,138 (Ranked 226)  
 Completed: 13 (0.61%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 13 (0.61%) (Ranked 191)
 | 2023-12-02 | 2,094 | 13 |
 | 2023-12-03 | 2,110 | 13 |
 | 2023-12-04 | 2,126 | 13 |
-| 2023-12-05 | 2,137 | 13 |
+| 2023-12-05 | 2,138 | 13 |
 ## Awards
 Max (Great Boss Battles): 117  (Ranked 346)  
 Sum: 117 (Ranked 443)  

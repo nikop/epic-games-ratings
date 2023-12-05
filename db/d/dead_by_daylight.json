@@ -13358,9 +13358,9 @@
       "Count": 27610
     }
   ],
-  "EOS_Progressed": 1071002,
+  "EOS_Progressed": 1071058,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 21607,
+  "EOS_NewPlayers": 21615,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39663,6 +39663,11 @@
       "Time": "2023-12-05T09:10:39.5635614+00:00",
       "NumProgressed": 1071002,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-05T10:09:30.5607504+00:00",
+      "NumProgressed": 1071058,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 232,
@@ -39842,7 +39847,7 @@
       "Name": "Zealous",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10710
+      "UsersEstimate": 10711
     },
     {
       "ID": "ACH_023",
@@ -39850,7 +39855,7 @@
       "Name": "It wakes",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10710
+      "UsersEstimate": 10711
     },
     {
       "ID": "ACH_024",
@@ -39858,7 +39863,7 @@
       "Name": "Not half bad",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10710
+      "UsersEstimate": 10711
     },
     {
       "ID": "ACH_025",
@@ -39882,7 +39887,7 @@
       "Name": "Apt Survivor",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 9639
+      "UsersEstimate": 9640
     },
     {
       "ID": "ACH_028",
@@ -39978,7 +39983,7 @@
       "Name": "Skillful",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10710
+      "UsersEstimate": 10711
     },
     {
       "ID": "ACH_040",
@@ -41442,7 +41447,7 @@
       "Name": "Make Some Noise",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 9639
+      "UsersEstimate": 9640
     },
     {
       "ID": "ACH_226",
@@ -41529,21 +41534,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1071002,
+      "Progressed": 1071058,
       "Completed": 70
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1071002,
+      "Progressed": 1071058,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-12-05T03:58:50.680368+00:00",
-  "LastChanged_Achievements": "2023-12-05T09:10:39.5635611+00:00",
+  "LastChanged_Achievements": "2023-12-05T10:09:30.56075+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:13.1126718+00:00",
-  "LastUpdate_Ratings": "2023-12-05T08:59:11.914763+00:00",
-  "LastUpdate_Achievements": "2023-12-05T09:10:39.564156+00:00"
+  "LastUpdate_Ratings": "2023-12-05T09:58:32.6845647+00:00",
+  "LastUpdate_Achievements": "2023-12-05T10:09:30.5612811+00:00"
 }

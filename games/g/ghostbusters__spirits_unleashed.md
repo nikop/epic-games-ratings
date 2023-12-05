@@ -25,6 +25,7 @@ Rating: 4.51 (Ranked 572)
 | Ectoplasmic Entity | 3.00% | ~958 |
 | Ghostbuster In Training | 3.00% | ~958 |
 | Icing on the Cake | 3.00% | ~958 |
+| Legions | 3.00% | ~958 |
 | Pesky Jerks | 3.00% | ~958 |
 | Right back at ya | 3.00% | ~958 |
 | Side Hustle | 3.00% | ~958 |
@@ -32,7 +33,6 @@ Rating: 4.51 (Ranked 572)
 | Back Off | 2.00% | ~639 |
 | Collector | 2.00% | ~639 |
 | Escape Artist | 2.00% | ~639 |
-| Legions | 2.00% | ~639 |
 | Rift Destroyer | 2.00% | ~639 |
 | Seasoned | 2.00% | ~639 |
 | Skilled | 2.00% | ~639 |

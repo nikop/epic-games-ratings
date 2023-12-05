@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7381,9 +7381,9 @@
       "Count": 3792
     }
   ],
-  "EOS_Progressed": 143869,
+  "EOS_Progressed": 143872,
   "EOS_Completed": 291,
-  "EOS_NewPlayers": 1263,
+  "EOS_NewPlayers": 1257,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -31136,6 +31136,11 @@
       "Time": "2023-12-05T09:08:32.966258+00:00",
       "NumProgressed": 143869,
       "NumCompleted": 291
+    },
+    {
+      "Time": "2023-12-05T10:07:57.9908308+00:00",
+      "NumProgressed": 143872,
+      "NumCompleted": 291
     }
   ],
   "TotalAchievements": 112,
@@ -31411,7 +31416,7 @@
       "Name": "Disintermediation",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7193
+      "UsersEstimate": 7194
     },
     {
       "ID": "craft02",
@@ -31923,7 +31928,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7193
+      "UsersEstimate": 7194
     },
     {
       "ID": "sell02",
@@ -32042,15 +32047,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 143869,
+      "Progressed": 143872,
       "Completed": 291
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-04T14:03:28.9048198+00:00",
-  "LastChanged_Achievements": "2023-12-05T09:08:32.9662574+00:00",
+  "LastChanged_Achievements": "2023-12-05T10:07:57.9908303+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:14.839929+00:00",
-  "LastUpdate_Ratings": "2023-12-05T09:03:27.3540293+00:00",
-  "LastUpdate_Achievements": "2023-12-05T09:08:32.9664653+00:00"
+  "LastUpdate_Ratings": "2023-12-05T10:03:02.2801546+00:00",
+  "LastUpdate_Achievements": "2023-12-05T10:07:57.9910211+00:00"
 }

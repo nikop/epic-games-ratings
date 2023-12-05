@@ -6,32 +6,32 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,430 |
-| Gun Fu | 7.00% | ~67,918 |
-| The Fool | 6.00% | ~58,215 |
-| Right Back At Ya | 5.00% | ~48,512 |
-| The Lovers | 4.00% | ~38,810 |
-| Full Body Conversion | 3.00% | ~29,108 |
-| Stanislavski's Method | 3.00% | ~29,108 |
-| The Wheel of Fortune | 3.00% | ~29,108 |
-| True Soldier | 3.00% | ~29,108 |
-| Christmas Tree Attack | 2.00% | ~19,405 |
-| The Quick and the Dead | 2.00% | ~19,405 |
-| Life of the Road | 2.00% | ~19,405 |
-| The Hermit | 2.00% | ~19,405 |
-| The High Priestess | 2.00% | ~19,405 |
-| True Warrior | 2.00% | ~19,405 |
-| Legend of The Afterlife | 2.00% | ~19,405 |
-| Relic Ruler | 2.00% | ~1,977 |
-| All the President's Men | 2.00% | ~1,977 |
-| Arachnophobia | 2.00% | ~1,977 |
-| Bushido and Chill | 1.00% | ~9,702 |
-| To Protect and Serve | 1.00% | ~9,702 |
-| Master Crafter | 1.00% | ~9,702 |
-| I Am The Law | 1.00% | ~9,702 |
-| The World | 1.00% | ~9,702 |
-| Two Heads, One Bullet | 1.00% | ~9,702 |
-| Judy vs Night City | 1.00% | ~9,702 |
+| V for Vendetta | 12.00% | ~116,434 |
+| Gun Fu | 7.00% | ~67,920 |
+| The Fool | 6.00% | ~58,217 |
+| Right Back At Ya | 5.00% | ~48,514 |
+| The Lovers | 4.00% | ~38,811 |
+| Full Body Conversion | 3.00% | ~29,109 |
+| Stanislavski's Method | 3.00% | ~29,109 |
+| The Hermit | 3.00% | ~29,109 |
+| The Wheel of Fortune | 3.00% | ~29,109 |
+| True Soldier | 3.00% | ~29,109 |
+| Christmas Tree Attack | 2.00% | ~19,406 |
+| The Quick and the Dead | 2.00% | ~19,406 |
+| Life of the Road | 2.00% | ~19,406 |
+| The High Priestess | 2.00% | ~19,406 |
+| True Warrior | 2.00% | ~19,406 |
+| Legend of The Afterlife | 2.00% | ~19,406 |
+| Relic Ruler | 2.00% | ~1,978 |
+| All the President's Men | 2.00% | ~1,978 |
+| Arachnophobia | 2.00% | ~1,978 |
+| Bushido and Chill | 1.00% | ~9,703 |
+| To Protect and Serve | 1.00% | ~9,703 |
+| Master Crafter | 1.00% | ~9,703 |
+| I Am The Law | 1.00% | ~9,703 |
+| The World | 1.00% | ~9,703 |
+| Two Heads, One Bullet | 1.00% | ~9,703 |
+| Judy vs Night City | 1.00% | ~9,703 |
 | Spin Doctor | 0.90% | ~890 |
 | The Wandering Fool | 0.70% | ~6,792 |
 | King of Wands | 0.70% | ~692 |
@@ -42,15 +42,15 @@ Number of Ratings: 32,700  (23.09.2022)
 | To Bad Decisions! | 0.50% | ~4,851 |
 | The Star | 0.50% | ~4,851 |
 | Breathtaking | 0.40% | ~3,881 |
-| Judgement Day | 0.40% | ~395 |
-| King of Swords | 0.40% | ~395 |
-| The Tower | 0.40% | ~395 |
+| Judgement Day | 0.40% | ~396 |
+| King of Swords | 0.40% | ~396 |
+| The Tower | 0.40% | ~396 |
 | Autojock | 0.30% | ~2,911 |
 | Must Be Rats | 0.30% | ~2,911 |
 | Temperance | 0.30% | ~2,911 |
 | The APB is Not Enough | 0.30% | ~297 |
 | King of Pentacles | 0.30% | ~297 |
-| City Lights | 0.20% | ~1,940 |
+| City Lights | 0.20% | ~1,941 |
 | King of Cups | 0.20% | ~198 |
 | Frequent Flyer | 0.10% | ~970 |
 | Gunslinger | 0.10% | ~970 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 970,250 (Ranked 15)  
+Progressed: 970,284 (Ranked 15)  
 Completed: 2,844 (0.29%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,10 +303,10 @@ Completed: 2,844 (0.29%) (Ranked 240)
 | 2023-12-02 | 967,833 | 2,836 |
 | 2023-12-03 | 969,229 | 2,839 |
 | 2023-12-04 | 970,004 | 2,843 |
-| 2023-12-05 | 970,250 | 2,844 |
+| 2023-12-05 | 970,284 | 2,844 |
 ## Awards
 Max (Character Customization): 116,208  (Ranked 9)  
-Sum: 387,763 (Ranked 9)  
+Sum: 387,915 (Ranked 9)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -315,7 +315,7 @@ Diff (max vs sum): 0
 | This game is Great for Beginners | 23,387 |
 | This game has Diverse Characters | 22,979 |
 | This game is Highly Recommended | 21,925 |
-| This game has Amazing Storytelling | 21,698 |
+| This game has Amazing Storytelling | 21,850 |
 | This game is Extremely Fun | 21,509 |
 | This game has Amazing Characters | 21,298 |
 | This game is Relaxing | 20,578 |
@@ -644,4 +644,4 @@ Diff (max vs sum): 0
 | 2023-12-02 | 4.65 | - | 114,587 | 382,001 |
 | 2023-12-03 | 4.65 | - | 115,469 | 385,067 |
 | 2023-12-04 | 4.66 | - | 116,208 | 387,763 |
-| 2023-12-05 | 4.66 | - | 116,208 | 387,763 |
+| 2023-12-05 | 4.66 | - | 116,208 | 387,915 |

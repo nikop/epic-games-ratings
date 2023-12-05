@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -2849,9 +2849,9 @@
       "ID": "ACH_SHRINEARRIVER",
       "SetID": "7pam6gn",
       "Name": "Shrine Arriver",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 185
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_STRANGERENCOUNTERER",
@@ -2890,8 +2890,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-05T09:10:08.4704965+00:00",
+  "LastChanged_Achievements": "2023-12-05T10:09:07.4607212+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:07.8879724+00:00",
-  "LastUpdate_Ratings": "2023-12-05T09:01:53.1974179+00:00",
-  "LastUpdate_Achievements": "2023-12-05T09:10:08.4705199+00:00"
+  "LastUpdate_Ratings": "2023-12-05T10:02:32.6555937+00:00",
+  "LastUpdate_Achievements": "2023-12-05T10:09:07.4607476+00:00"
 }

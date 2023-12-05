@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 312,
   "Ranking_EOS_Progress": 10,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
@@ -2085,9 +2085,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 1292087,
+  "EOS_Progressed": 1292090,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1261,
+  "EOS_NewPlayers": 1258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23925,6 +23925,11 @@
       "Time": "2023-12-05T09:06:13.7962485+00:00",
       "NumProgressed": 1292087,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-05T10:05:12.3836051+00:00",
+      "NumProgressed": 1292090,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -24200,7 +24205,7 @@
       "Name": "25 Taunts In One Game!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 51683
+      "UsersEstimate": 51684
     },
     {
       "ID": "50_riot_shield_kills",
@@ -24232,7 +24237,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 762331
+      "UsersEstimate": 762333
     },
     {
       "ID": "hunter_win",
@@ -24240,7 +24245,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 697727
+      "UsersEstimate": 697729
     },
     {
       "ID": "master_of_loadouts",
@@ -24264,14 +24269,14 @@
       "Name": "Unlock Any Cosmetic",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 284259
+      "UsersEstimate": 284260
     }
   ],
   "AchievementSets": [
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1292087,
+      "Progressed": 1292090,
       "Completed": 0
     }
   ],
@@ -24279,8 +24284,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2023-12-04T10:58:05.076381+00:00",
-  "LastChanged_Achievements": "2023-12-05T09:06:13.7962478+00:00",
+  "LastChanged_Achievements": "2023-12-05T10:05:12.3836046+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:12.3438566+00:00",
-  "LastUpdate_Ratings": "2023-12-05T08:59:22.0398349+00:00",
-  "LastUpdate_Achievements": "2023-12-05T09:06:13.7963738+00:00"
+  "LastUpdate_Ratings": "2023-12-05T09:58:39.8890735+00:00",
+  "LastUpdate_Achievements": "2023-12-05T10:05:12.3837561+00:00"
 }

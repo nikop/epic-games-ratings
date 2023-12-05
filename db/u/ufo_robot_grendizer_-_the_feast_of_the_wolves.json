@@ -195,25 +195,25 @@
       "ID": "ACH_GREENEARTH",
       "SetID": "ch874lb",
       "Name": "Earth\u0027s Savior",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_IRONFIST",
       "SetID": "ch874lb",
       "Name": "Iron Fist",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_KILLENEMY",
       "SetID": "ch874lb",
       "Name": "The Exterminator",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_LEGENDARYMATERIAL",
@@ -251,9 +251,9 @@
       "ID": "ACH_SAUCERBEASTUNCHAINED",
       "SetID": "ch874lb",
       "Name": "Saucer Beast Unchained",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_SKILLTREE",
@@ -346,8 +346,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2023-12-05T09:09:44.0385439+00:00",
+  "LastChanged_Achievements": "2023-12-05T10:08:49.4955675+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:12.6917781+00:00",
-  "LastUpdate_Ratings": "2023-12-05T08:59:14.1558718+00:00",
-  "LastUpdate_Achievements": "2023-12-05T09:09:44.0385612+00:00"
+  "LastUpdate_Ratings": "2023-12-05T09:58:34.6760258+00:00",
+  "LastUpdate_Achievements": "2023-12-05T10:08:49.4955835+00:00"
 }

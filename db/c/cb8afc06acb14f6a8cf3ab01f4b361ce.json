@@ -389,9 +389,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 324207,
+  "EOS_Progressed": 324223,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4022,
+  "EOS_NewPlayers": 4025,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8459,6 +8459,11 @@
       "Time": "2023-12-05T09:07:40.7692804+00:00",
       "NumProgressed": 324207,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-05T10:06:15.351446+00:00",
+      "NumProgressed": 324223,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -8471,7 +8476,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9726
+      "UsersEstimate": 9727
     },
     {
       "ID": "S02_BRDA",
@@ -8607,7 +8612,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9726
+      "UsersEstimate": 9727
     },
     {
       "ID": "S19_CHALLENGES",
@@ -8695,7 +8700,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2269
+      "UsersEstimate": 2270
     },
     {
       "ID": "S30_DIAMOND",
@@ -8790,7 +8795,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 324207,
+      "Progressed": 324223,
       "Completed": 4
     }
   ],
@@ -8798,8 +8803,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-02T08:58:54.6895718+00:00",
-  "LastChanged_Achievements": "2023-12-05T09:07:40.7692797+00:00",
+  "LastChanged_Achievements": "2023-12-05T10:06:15.3514455+00:00",
   "LastUpdate_AppInfo": "2023-11-30T19:57:08.777578+00:00",
-  "LastUpdate_Ratings": "2023-12-05T09:01:18.3671986+00:00",
-  "LastUpdate_Achievements": "2023-12-05T09:07:40.7693375+00:00"
+  "LastUpdate_Ratings": "2023-12-05T09:59:59.3560284+00:00",
+  "LastUpdate_Achievements": "2023-12-05T10:06:15.3515146+00:00"
 }

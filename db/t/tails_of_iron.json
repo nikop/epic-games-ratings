@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2208,
+  "EOS_Progressed": 2209,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -3812,6 +3812,11 @@
       "Time": "2023-12-05T09:04:32.1376314+00:00",
       "NumProgressed": 2208,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-05T10:03:58.7745431+00:00",
+      "NumProgressed": 2209,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 30,
@@ -3823,7 +3828,7 @@
       "Name": "Become King",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1634
+      "UsersEstimate": 1635
     },
     {
       "ID": "Collect20Gold",
@@ -3895,7 +3900,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "CompleteGuardFaction",
@@ -3943,7 +3948,7 @@
       "Name": "Defeat Ratnor Rodentson",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -3967,7 +3972,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "GetTHWeapon",
@@ -3983,7 +3988,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1171
     },
     {
       "ID": "Kill25Frogs",
@@ -3991,7 +3996,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "Kill25Mozi",
@@ -4039,7 +4044,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "RescueBrothers",
@@ -4047,7 +4052,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1171
     },
     {
       "ID": "ReturnPowerInMines",
@@ -4062,22 +4067,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2208,
+      "Progressed": 2209,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 849,
-      "Completed": 849
+      "Progressed": 850,
+      "Completed": 850
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-12-05T09:04:32.1376308+00:00",
+  "LastChanged_Achievements": "2023-12-05T10:03:58.7745426+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:26.7928423+00:00",
-  "LastUpdate_Ratings": "2023-12-05T09:01:54.0006575+00:00",
-  "LastUpdate_Achievements": "2023-12-05T09:04:32.1376685+00:00"
+  "LastUpdate_Ratings": "2023-12-05T10:02:33.2884039+00:00",
+  "LastUpdate_Achievements": "2023-12-05T10:03:58.7745814+00:00"
 }

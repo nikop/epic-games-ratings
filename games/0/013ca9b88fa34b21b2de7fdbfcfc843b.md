@@ -6,16 +6,16 @@ Rating: 4.58 (Ranked 448)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Azoria Beckons | 72.00% | ~5,967 |
-| A Thorny Situation | 70.00% | ~5,801 |
-| ... And Spit Back Out | 61.00% | ~5,055 |
+| A Thorny Situation | 70.00% | ~5,802 |
+| ... And Spit Back Out | 61.00% | ~5,056 |
 | Break-Net Speed | 49.00% | ~4,061 |
 | Bramble Breaker | 47.00% | ~3,895 |
-| Miner 49er | 43.00% | ~3,563 |
-| Humble Collector | 43.00% | ~3,563 |
-| Calm Sailing | 37.00% | ~3,066 |
+| Miner 49er | 43.00% | ~3,564 |
+| Humble Collector | 43.00% | ~3,564 |
+| Calm Sailing | 37.00% | ~3,067 |
 | Open the Gate! | 34.00% | ~2,818 |
 | Mist Walker | 32.00% | ~2,652 |
-| Lumberjack | 27.00% | ~2,237 |
+| Lumberjack | 27.00% | ~2,238 |
 | Oui, Chef! | 23.00% | ~1,906 |
 | Clear the Air | 19.00% | ~1,575 |
 | Botanical Breakthrough | 17.00% | ~1,409 |
@@ -31,9 +31,9 @@ Rating: 4.58 (Ranked 448)
 | Scattered Scroll Scrounger | 6.00% | ~497 |
 | Azorian Anniversary | 6.00% | ~497 |
 | I Now Pronounce You... | 5.00% | ~414 |
-| Chatty Neighbor | 4.00% | ~331 |
-| Right Tool For the Job | 4.00% | ~331 |
-| House Proud | 4.00% | ~331 |
+| Chatty Neighbor | 4.00% | ~332 |
+| Right Tool For the Job | 4.00% | ~332 |
+| House Proud | 4.00% | ~332 |
 | Captain of Cozy | 2.00% | ~166 |
 | Angling Authority | 1.00% | ~83 |
 | Cloverfield Island | 0.20% | ~17 |
@@ -41,7 +41,7 @@ Rating: 4.58 (Ranked 448)
 | Workaholic | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,287 (Ranked 175)  
+Progressed: 8,288 (Ranked 175)  
 Completed: 1 (0.01%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 1 (0.01%) (Ranked 346)
 | 2023-12-02 | 8,228 | 1 |
 | 2023-12-03 | 8,263 | 1 |
 | 2023-12-04 | 8,286 | 1 |
-| 2023-12-05 | 8,287 | 1 |
+| 2023-12-05 | 8,288 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
