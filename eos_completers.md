@@ -18,14 +18,14 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.87% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.86% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 25 | [Doodle Devil](games/d/doodle_devil.md) | 18.60% |
-| 26 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 18.50% |
+| 26 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 18.45% |
 | 27 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 16.67% |
 | 27 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 16.67% |
 | 29 | [Island Cities](games/i/island_cities.md) | 16.45% |
@@ -40,17 +40,17 @@
 | 38 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 39 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 10.71% |
 | 40 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.33% |
-| 41 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 10.29% |
+| 41 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 10.14% |
 | 42 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.06% |
 | 43 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 43 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
 | 45 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 9.91% |
 | 46 | [Smelter](games/s/smelter.md) | 9.52% |
 | 47 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
-| 48 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 9.09% |
-| 49 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.98% |
-| 50 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.57% |
-| 51 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.49% |
+| 48 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.98% |
+| 49 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.57% |
+| 50 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.49% |
+| 51 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 8.33% |
 | 52 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.70% |
 | 53 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 53 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 7.69% |
@@ -90,13 +90,13 @@
 | 88 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.23% |
 | 89 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.17% |
 | 90 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
-| 91 | [The Bunker](games/t/the_bunker.md) | 4.03% |
+| 91 | [The Bunker](games/t/the_bunker.md) | 4.00% |
 | 92 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.74% |
 | 93 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.61% |
 | 93 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.61% |
 | 95 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 3.45% |
-| 96 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.37% |
-| 97 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
+| 96 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
+| 96 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.36% |
 | 98 | [Bunny Park](games/b/bunny_park.md) | 3.30% |
 | 99 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.19% |
 | 100 | [The Complex](games/t/the_complex.md) | 3.18% |
