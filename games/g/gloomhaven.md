@@ -51,8 +51,8 @@ Number of Ratings: 68  (23.09.2022)
 | Captain hooked | 1.00% | ~247 |
 | Spoiler police! | 1.00% | ~247 |
 | New Blood | 1.00% | ~247 |
-| The Pacifist | 0.50% | ~123 |
-| Born Support | 0.50% | ~123 |
+| The Pacifist | 0.50% | ~124 |
+| Born Support | 0.50% | ~124 |
 | A tough job | 0.40% | ~99 |
 | The evil that men do | 0.40% | ~99 |
 | MacReady Steady.. Go! | 0.30% | ~74 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~25 |
 | Murder Death Kill | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,699 (Ranked 132)  
+Progressed: 24,700 (Ranked 132)  
 Completed: 1 (0.00%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 1 (0.00%) (Ranked 368)
 | 2023-12-02 | 24,205 | 1 |
 | 2023-12-03 | 24,487 | 1 |
 | 2023-12-04 | 24,648 | 1 |
-| 2023-12-05 | 24,699 | 1 |
+| 2023-12-05 | 24,700 | 1 |
 ## Awards
 Max (Character Customization): 3,591  (Ranked 90)  
 Sum: 8,397 (Ranked 101)  

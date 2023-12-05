@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 115919,
+  "EOS_Progressed": 115920,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 593,
+  "EOS_NewPlayers": 594,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -20184,6 +20184,11 @@
       "Time": "2023-12-05T07:09:47.0058702+00:00",
       "NumProgressed": 115919,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-12-05T08:09:05.5719915+00:00",
+      "NumProgressed": 115920,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 49,
@@ -20291,7 +20296,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 55641
+      "UsersEstimate": 55642
     },
     {
       "ID": "EAwards_20",
@@ -20467,7 +20472,7 @@
       "Name": "Severed",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 15069
+      "UsersEstimate": 15070
     },
     {
       "ID": "EAwards_40",
@@ -20586,7 +20591,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 115919,
+      "Progressed": 115920,
       "Completed": 51
     }
   ],
@@ -20594,8 +20599,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-05T07:09:47.0058697+00:00",
+  "LastChanged_Achievements": "2023-12-05T08:09:05.5719908+00:00",
   "LastUpdate_AppInfo": "2023-12-01T05:57:06.5040385+00:00",
-  "LastUpdate_Ratings": "2023-12-05T07:01:47.7038948+00:00",
-  "LastUpdate_Achievements": "2023-12-05T07:09:47.0060159+00:00"
+  "LastUpdate_Ratings": "2023-12-05T08:00:12.4167341+00:00",
+  "LastUpdate_Achievements": "2023-12-05T08:09:05.5721188+00:00"
 }

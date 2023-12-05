@@ -7,7 +7,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Matching | 1.00% | ~21 |
-| First Steps | 0.70% | ~1,684 |
+| First Steps | 0.70% | ~1,685 |
 | Uncharted Territory | 0.60% | ~1,444 |
 | Not Touching You | 0.60% | ~13 |
 | Nothing To Lose | 0.50% | ~1,203 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,639 (Ranked 64)  
+Progressed: 240,645 (Ranked 64)  
 Completed: 292 (0.12%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -374,7 +374,7 @@ Completed: 292 (0.12%) (Ranked 281)
 | 2023-12-02 | 240,522 | 291 |
 | 2023-12-03 | 240,591 | 292 |
 | 2023-12-04 | 240,628 | 292 |
-| 2023-12-05 | 240,639 | 292 |
+| 2023-12-05 | 240,645 | 292 |
 ## Awards
 Max (Quickly Understood Controls): 1,505  (Ranked 133)  
 Sum: 11,708 (Ranked 84)  

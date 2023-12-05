@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1585,
+  "EOS_Progressed": 1586,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4699,6 +4699,11 @@
       "Time": "2023-12-05T07:10:16.9689711+00:00",
       "NumProgressed": 1585,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-05T08:09:27.7637034+00:00",
+      "NumProgressed": 1586,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4815,7 +4820,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "achievement_22",
@@ -4911,7 +4916,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "achievement_33",
@@ -4933,9 +4938,9 @@
       "ID": "achievement_35",
       "SetID": "271ol84",
       "Name": "New Recruit",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1427
     },
     {
       "ID": "achievement_36",
@@ -4951,7 +4956,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "achievement_38",
@@ -4983,7 +4988,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "achievement_41",
@@ -5149,9 +5154,9 @@
       "ID": "achievement_6",
       "SetID": "271ol84",
       "Name": "Great shot, kid!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 285
     },
     {
       "ID": "achievement_60",
@@ -5214,13 +5219,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1585,
+      "Progressed": 1586,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1585,
+      "Progressed": 1586,
       "Completed": 1
     }
   ],
@@ -5228,8 +5233,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-05T07:10:16.9689708+00:00",
+  "LastChanged_Achievements": "2023-12-05T08:09:27.7637028+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:10.1536923+00:00",
-  "LastUpdate_Ratings": "2023-12-05T07:01:52.9263726+00:00",
-  "LastUpdate_Achievements": "2023-12-05T07:10:16.9690342+00:00"
+  "LastUpdate_Ratings": "2023-12-05T08:00:15.8546303+00:00",
+  "LastUpdate_Achievements": "2023-12-05T08:09:27.763801+00:00"
 }

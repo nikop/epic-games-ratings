@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -2603,9 +2603,9 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 24699,
+  "EOS_Progressed": 24700,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1276,
+  "EOS_NewPlayers": 1273,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11828,6 +11828,11 @@
       "Time": "2023-12-05T07:08:50.3092506+00:00",
       "NumProgressed": 24699,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-05T08:08:23.791701+00:00",
+      "NumProgressed": 24700,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -12232,7 +12237,7 @@
       "Name": "The Pacifist",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "Achievement_Trophy_JOTL_01",
@@ -12320,14 +12325,14 @@
       "Name": "Born Support",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     }
   ],
   "AchievementSets": [
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 24699,
+      "Progressed": 24700,
       "Completed": 1
     }
   ],
@@ -12335,8 +12340,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-03T16:58:41.8271034+00:00",
-  "LastChanged_Achievements": "2023-12-05T07:08:50.3092503+00:00",
+  "LastChanged_Achievements": "2023-12-05T08:08:23.7917004+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:31.3646909+00:00",
-  "LastUpdate_Ratings": "2023-12-05T07:00:13.6257874+00:00",
-  "LastUpdate_Achievements": "2023-12-05T07:08:50.3093192+00:00"
+  "LastUpdate_Ratings": "2023-12-05T07:59:08.5966837+00:00",
+  "LastUpdate_Achievements": "2023-12-05T08:08:23.7917996+00:00"
 }

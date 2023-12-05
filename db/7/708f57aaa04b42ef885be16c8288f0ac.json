@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -189,9 +189,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7426,
+  "EOS_Progressed": 7428,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 510,
+  "EOS_NewPlayers": 506,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5559,6 +5559,11 @@
       "Time": "2023-12-05T03:09:55.194224+00:00",
       "NumProgressed": 7426,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-05T08:09:14.1223035+00:00",
+      "NumProgressed": 7428,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5811,7 +5816,7 @@
       "Name": "Digestive Issues",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -5842,7 +5847,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7426,
+      "Progressed": 7428,
       "Completed": 14
     }
   ],
@@ -5850,8 +5855,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-04T17:58:34.5541174+00:00",
-  "LastChanged_Achievements": "2023-12-05T07:09:59.0729728+00:00",
+  "LastChanged_Achievements": "2023-12-05T08:09:14.122303+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-05T06:59:28.6322333+00:00",
-  "LastUpdate_Achievements": "2023-12-05T07:09:59.0730261+00:00"
+  "LastUpdate_Ratings": "2023-12-05T07:58:38.5784886+00:00",
+  "LastUpdate_Achievements": "2023-12-05T08:09:14.1223507+00:00"
 }

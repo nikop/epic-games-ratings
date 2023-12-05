@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -649,9 +649,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471806,
+  "EOS_Progressed": 471807,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 330,
+  "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24409,6 +24409,11 @@
       "Time": "2023-12-05T06:10:31.5374067+00:00",
       "NumProgressed": 471806,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-05T08:09:27.5183156+00:00",
+      "NumProgressed": 471807,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -24436,7 +24441,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113233
+      "UsersEstimate": 113234
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -24444,7 +24449,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103797
+      "UsersEstimate": 103798
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -24468,7 +24473,7 @@
       "Name": "Chapter IV: Through the Looking Glass",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 37744
+      "UsersEstimate": 37745
     },
     {
       "ID": "achievement_story_complete_chapter_5",
@@ -24508,7 +24513,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311392
+      "UsersEstimate": 311393
     },
     {
       "ID": "achievement_story_landa",
@@ -24532,7 +24537,7 @@
       "Name": "Through the mirror",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37744
+      "UsersEstimate": 37745
     },
     {
       "ID": "achievement_story_meet_mother",
@@ -24580,7 +24585,7 @@
       "Name": "General Vivar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37744
+      "UsersEstimate": 37745
     },
     {
       "ID": "achievement_story_meet_zenon",
@@ -24612,7 +24617,7 @@
       "Name": "Back to Ganyma",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37744
+      "UsersEstimate": 37745
     },
     {
       "ID": "achievement_story_spare_oberon",
@@ -24876,7 +24881,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184004
+      "UsersEstimate": 184005
     },
     {
       "ID": "achievement_win_run_hard",
@@ -24924,7 +24929,7 @@
       "Name": "Kaos Rule",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37744
+      "UsersEstimate": 37745
     },
     {
       "ID": "achievement_win_run_with_starter",
@@ -24932,7 +24937,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103797
+      "UsersEstimate": 103798
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -25051,21 +25056,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15740,
+      "Progressed": 15741,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471806,
+      "Progressed": 471807,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-01T18:58:58.8781534+00:00",
-  "LastChanged_Achievements": "2023-12-05T07:10:16.6202857+00:00",
+  "LastChanged_Achievements": "2023-12-05T08:09:27.5183147+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:22.9078654+00:00",
-  "LastUpdate_Ratings": "2023-12-05T07:02:07.0922552+00:00",
-  "LastUpdate_Achievements": "2023-12-05T07:10:16.6204242+00:00"
+  "LastUpdate_Ratings": "2023-12-05T08:00:25.1766022+00:00",
+  "LastUpdate_Achievements": "2023-12-05T08:09:27.5184756+00:00"
 }

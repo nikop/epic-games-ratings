@@ -13,22 +13,22 @@
 | Scraps of love | 45.00% | ~47 |
 | Refuse to look | 38.00% | ~40 |
 | Sign of weakness | 38.00% | ~40 |
-| Finished it | 30.00% | ~31 |
+| Finished it | 31.00% | ~32 |
 | Face your fears | 27.00% | ~28 |
 | Whispers long forgotten | 16.00% | ~17 |
 | Playtime | 13.00% | ~14 |
 | The tragedy unfolds | 13.00% | ~14 |
 | Tough conversation | 13.00% | ~14 |
 | A new way | 11.00% | ~11 |
-| A Slice of Life | 10.00% | ~10 |
-| Debut | 10.00% | ~10 |
+| A Slice of Life | 11.00% | ~11 |
+| Debut | 11.00% | ~11 |
+| The art of movement | 11.00% | ~11 |
 | First steps | 10.00% | ~10 |
-| The art of movement | 10.00% | ~10 |
 | True Reflection | 10.00% | ~10 |
+| Another perspective | 9.00% | ~9 |
 | Breaking free | 9.00% | ~9 |
-| Another perspective | 8.00% | ~8 |
-| Sound Bite | 8.00% | ~8 |
-| Lights! Camera! Action! | 8.00% | ~8 |
+| Sound Bite | 9.00% | ~9 |
+| Lights! Camera! Action! | 9.00% | ~9 |
 | Heavy Burden | 7.00% | ~7 |
 | Casting Finished | 6.00% | ~6 |
 | Fisherman | 5.00% | ~5 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1494,9 +1494,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 23649,
+  "EOS_Progressed": 23650,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10164,6 +10164,11 @@
       "Time": "2023-12-04T10:08:33.7783181+00:00",
       "NumProgressed": 23649,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-05T08:08:56.500833+00:00",
+      "NumProgressed": 23650,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -10239,7 +10244,7 @@
       "Name": "Captain and Crew",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -10486,21 +10491,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 23649,
+      "Progressed": 23650,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 2579,
+      "Progressed": 2580,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-11-23T01:44:15.9568537+00:00",
-  "LastChanged_Achievements": "2023-12-05T07:09:34.8052181+00:00",
+  "LastChanged_Achievements": "2023-12-05T08:08:56.5008324+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:27.7213777+00:00",
-  "LastUpdate_Ratings": "2023-12-05T06:57:24.6004485+00:00",
-  "LastUpdate_Achievements": "2023-12-05T07:09:34.8052791+00:00"
+  "LastUpdate_Ratings": "2023-12-05T07:57:14.4818728+00:00",
+  "LastUpdate_Achievements": "2023-12-05T08:08:56.5009035+00:00"
 }

@@ -6,30 +6,30 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~448,191 |
-| The Three | 64.00% | ~345,593 |
-| The Banquet | 40.00% | ~215,996 |
-| Devara's Light | 31.00% | ~167,397 |
-| The Iron Ones | 19.00% | ~102,598 |
-| The Village | 17.00% | ~91,798 |
-| The Forest | 15.00% | ~80,998 |
-| The Imposter | 14.00% | ~75,598 |
-| The Keep | 14.00% | ~75,598 |
+| Find Sanctuary | 83.00% | ~448,194 |
+| The Three | 64.00% | ~345,596 |
+| The Banquet | 40.00% | ~215,997 |
+| Devara's Light | 31.00% | ~167,398 |
+| The Iron Ones | 19.00% | ~102,599 |
+| The Village | 17.00% | ~91,799 |
+| The Forest | 15.00% | ~80,999 |
+| The Imposter | 14.00% | ~75,599 |
+| The Keep | 14.00% | ~75,599 |
 | Branded | 13.00% | ~70,199 |
 | The Castle | 11.00% | ~59,399 |
 | The Dome | 9.00% | ~48,599 |
 | The Red Hall | 9.00% | ~48,599 |
 | The Sacrifice | 8.00% | ~43,199 |
 | The Ziggurat | 8.00% | ~43,199 |
-| The Cave | 7.00% | ~37,799 |
-| The Mire | 7.00% | ~37,799 |
-| The Stone Roots | 7.00% | ~37,799 |
-| Storied | 6.00% | ~32,399 |
-| The Construct | 6.00% | ~32,399 |
-| The Lake | 6.00% | ~32,399 |
-| The Ruins | 6.00% | ~32,399 |
-| The Alkymancery | 5.00% | ~26,999 |
-| The Pitchwoods | 5.00% | ~26,999 |
+| The Cave | 7.00% | ~37,800 |
+| The Mire | 7.00% | ~37,800 |
+| The Stone Roots | 7.00% | ~37,800 |
+| Storied | 6.00% | ~32,400 |
+| The Construct | 6.00% | ~32,400 |
+| The Lake | 6.00% | ~32,400 |
+| The Ruins | 6.00% | ~32,400 |
+| The Alkymancery | 5.00% | ~27,000 |
+| The Pitchwoods | 5.00% | ~27,000 |
 | Honed | 4.00% | ~21,600 |
 | The House of Splendor | 4.00% | ~21,600 |
 | The Crypt | 4.00% | ~21,600 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,800 |
 | Fading Fast | 1.00% | ~5,400 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 539,989 (Ranked 34)  
+Progressed: 539,993 (Ranked 34)  
 Completed: 1,636 (0.30%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 1,636 (0.30%) (Ranked 239)
 | 2023-12-02 | 539,780 | 1,633 |
 | 2023-12-03 | 539,892 | 1,635 |
 | 2023-12-04 | 539,973 | 1,636 |
-| 2023-12-05 | 539,989 | 1,636 |
+| 2023-12-05 | 539,993 | 1,636 |
 ## Awards
 Max (Challenging Combat): 294  (Ranked 256)  
 Sum: 2,006 (Ranked 215)  

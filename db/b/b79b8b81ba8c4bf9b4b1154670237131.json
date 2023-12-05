@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -107,9 +107,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14391,
+  "EOS_Progressed": 14393,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 923,
+  "EOS_NewPlayers": 922,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2542,6 +2542,11 @@
       "Time": "2023-12-05T07:09:06.2998187+00:00",
       "NumProgressed": 14391,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-05T08:08:35.5855624+00:00",
+      "NumProgressed": 14393,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -2578,7 +2583,7 @@
       "Name": "Versatile",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "ACH_AE_13",
@@ -2586,7 +2591,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 10793
+      "UsersEstimate": 10795
     },
     {
       "ID": "ACH_AE_14",
@@ -2594,7 +2599,7 @@
       "Name": "Sticky Situation",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2734
+      "UsersEstimate": 2735
     },
     {
       "ID": "ACH_AE_15",
@@ -2730,7 +2735,7 @@
       "Name": "Pajama Boy",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2446
+      "UsersEstimate": 2447
     },
     {
       "ID": "ACH_AE_30",
@@ -2754,7 +2759,7 @@
       "Name": "Diplomat",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1007
+      "UsersEstimate": 1008
     },
     {
       "ID": "ACH_AE_33",
@@ -2833,7 +2838,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 14391,
+      "Progressed": 14393,
       "Completed": 14
     }
   ],
@@ -2841,8 +2846,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-04T04:58:00.2454855+00:00",
-  "LastChanged_Achievements": "2023-12-05T07:09:06.2998183+00:00",
+  "LastChanged_Achievements": "2023-12-05T08:08:35.5855619+00:00",
   "LastUpdate_AppInfo": "2023-11-28T15:57:01.0190602+00:00",
-  "LastUpdate_Ratings": "2023-12-05T06:58:45.4168125+00:00",
-  "LastUpdate_Achievements": "2023-12-05T07:09:06.2998531+00:00"
+  "LastUpdate_Ratings": "2023-12-05T07:58:09.6145106+00:00",
+  "LastUpdate_Achievements": "2023-12-05T08:08:35.5855949+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -112,7 +112,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 760,
+  "EOS_Progressed": 761,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
@@ -907,6 +907,11 @@
       "Time": "2023-12-04T05:05:35.5008406+00:00",
       "NumProgressed": 760,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-05T08:05:03.747976+00:00",
+      "NumProgressed": 761,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1006,7 +1011,7 @@
       "Name": "I just love stuff!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "I_think_its_broke",
@@ -1030,7 +1035,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "Lady_Luck",
@@ -1046,7 +1051,7 @@
       "Name": "Omnipotence",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "SERENITY_NOW",
@@ -1068,9 +1073,9 @@
       "ID": "So_Fresh",
       "SetID": "gl7plp",
       "Name": "So Fresh and So clean clean",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 53
     },
     {
       "ID": "Supreme_Bartender_Ann",
@@ -1086,7 +1091,7 @@
       "Name": "Tell me your story",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -1126,7 +1131,7 @@
       "Name": "The Warlord",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "The_things_they_print_nowadays",
@@ -1134,7 +1139,7 @@
       "Name": "The things they print nowadays",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "The_truth_is_out_there",
@@ -1174,7 +1179,7 @@
       "Name": "You are the One",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "manhole",
@@ -1182,7 +1187,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "posters",
@@ -1205,7 +1210,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 760,
+      "Progressed": 761,
       "Completed": 0
     }
   ],
@@ -1213,8 +1218,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-12-05T07:06:17.3396161+00:00",
+  "LastChanged_Achievements": "2023-12-05T08:05:03.7479754+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:27.326915+00:00",
-  "LastUpdate_Ratings": "2023-12-05T07:01:57.5517769+00:00",
-  "LastUpdate_Achievements": "2023-12-05T07:06:17.3396484+00:00"
+  "LastUpdate_Ratings": "2023-12-05T08:00:18.8730274+00:00",
+  "LastUpdate_Achievements": "2023-12-05T08:05:03.7480076+00:00"
 }

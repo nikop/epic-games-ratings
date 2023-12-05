@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 104515,
+  "EOS_Progressed": 104516,
   "EOS_Completed": 4817,
-  "EOS_NewPlayers": 2184,
+  "EOS_NewPlayers": 2182,
   "EOS_NewCompleters": 147,
   "EOS_Completed_Percentage": 4.61,
   "EosHistory": [
@@ -9609,6 +9609,11 @@
       "Time": "2023-12-05T07:04:47.1648851+00:00",
       "NumProgressed": 104515,
       "NumCompleted": 4817
+    },
+    {
+      "Time": "2023-12-05T08:03:58.7530621+00:00",
+      "NumProgressed": 104516,
+      "NumCompleted": 4817
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -9621,7 +9626,7 @@
       "Name": "Assemble a Crew!",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 65844
+      "UsersEstimate": 65845
     },
     {
       "ID": "GoldMedalCrewmates",
@@ -9629,7 +9634,7 @@
       "Name": "Gold Medal Crewmates",
       "Percentage": 16,
       "XP": 125,
-      "UsersEstimate": 16722
+      "UsersEstimate": 16723
     },
     {
       "ID": "GoldPact",
@@ -9653,7 +9658,7 @@
       "Name": "Pelagic Perils",
       "Percentage": 55,
       "XP": 75,
-      "UsersEstimate": 57483
+      "UsersEstimate": 57484
     },
     {
       "ID": "ShipDip",
@@ -9669,7 +9674,7 @@
       "Name": "The Art of Parley",
       "Percentage": 75,
       "XP": 75,
-      "UsersEstimate": 78386
+      "UsersEstimate": 78387
     },
     {
       "ID": "TheGoldenRatio",
@@ -9685,7 +9690,7 @@
       "Name": "Tiles, Trails, Treasure!",
       "Percentage": 60,
       "XP": 75,
-      "UsersEstimate": 62709
+      "UsersEstimate": 62710
     },
     {
       "ID": "WeCanDoBetter",
@@ -9701,7 +9706,7 @@
       "Name": "Weigh Anchor, Set Sail!",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 82567
+      "UsersEstimate": 82568
     },
     {
       "ID": "WelcomeAboard",
@@ -9716,7 +9721,7 @@
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 104515,
+      "Progressed": 104516,
       "Completed": 4817
     }
   ],
@@ -9724,8 +9729,8 @@
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2023-11-17T20:58:16.4880709+00:00",
-  "LastChanged_Achievements": "2023-12-05T07:04:47.1648847+00:00",
+  "LastChanged_Achievements": "2023-12-05T08:03:58.7530617+00:00",
   "LastUpdate_AppInfo": "2023-11-30T16:57:23.3312057+00:00",
-  "LastUpdate_Ratings": "2023-12-05T07:01:30.3370746+00:00",
-  "LastUpdate_Achievements": "2023-12-05T07:04:47.1649456+00:00"
+  "LastUpdate_Ratings": "2023-12-05T08:00:00.7249798+00:00",
+  "LastUpdate_Achievements": "2023-12-05T08:03:58.7531347+00:00"
 }

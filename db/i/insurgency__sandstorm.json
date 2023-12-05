@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 31,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -4228,9 +4228,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 497266,
+  "EOS_Progressed": 497277,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3680,
+  "EOS_NewPlayers": 3664,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30398,6 +30398,11 @@
       "Time": "2023-12-05T07:06:44.9865748+00:00",
       "NumProgressed": 497266,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-05T08:05:23.8558921+00:00",
+      "NumProgressed": 497277,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -30409,7 +30414,7 @@
       "Name": "Banged",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9945
+      "UsersEstimate": 9946
     },
     {
       "ID": "ACH_BLINDFIRE",
@@ -30433,7 +30438,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 9945
+      "UsersEstimate": 9946
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -30481,7 +30486,7 @@
       "Name": "First Blood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9945
+      "UsersEstimate": 9946
     },
     {
       "ID": "ACH_FLACCID_PARALYSIS",
@@ -30489,7 +30494,7 @@
       "Name": "Flaccid Paralysis",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 9945
+      "UsersEstimate": 9946
     },
     {
       "ID": "ACH_GROUNDED",
@@ -30585,7 +30590,7 @@
       "Name": "Push Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 9945
+      "UsersEstimate": 9946
     },
     {
       "ID": "ACH_REFLEXES",
@@ -30617,7 +30622,7 @@
       "Name": "Self-destructive",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9945
+      "UsersEstimate": 9946
     },
     {
       "ID": "ACH_SEMPER_PARATUS",
@@ -30673,7 +30678,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 24863
+      "UsersEstimate": 24864
     },
     {
       "ID": "ACH_WET_FEET",
@@ -30688,15 +30693,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 497266,
+      "Progressed": 497277,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-12-04T01:46:00.9658729+00:00",
-  "LastChanged_Achievements": "2023-12-05T07:06:44.9865743+00:00",
+  "LastChanged_Achievements": "2023-12-05T08:05:23.8558913+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:50.9367232+00:00",
-  "LastUpdate_Ratings": "2023-12-05T06:58:49.9817914+00:00",
-  "LastUpdate_Achievements": "2023-12-05T07:06:44.9867011+00:00"
+  "LastUpdate_Ratings": "2023-12-05T07:58:12.8638484+00:00",
+  "LastUpdate_Achievements": "2023-12-05T08:05:23.8560503+00:00"
 }

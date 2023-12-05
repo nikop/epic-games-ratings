@@ -10,31 +10,31 @@ Number of Ratings: 70,340  (23.09.2022)
 | It wakes | 1.00% | ~10,709 |
 | Not half bad | 1.00% | ~10,709 |
 | Skillful | 1.00% | ~10,709 |
-| Make Some Noise | 0.90% | ~9,638 |
-| Apt Survivor | 0.80% | ~8,567 |
-| Survival Treasures | 0.80% | ~8,567 |
-| I | 0.80% | ~8,567 |
-| No one left behind | 0.70% | ~7,496 |
-| Medic | 0.70% | ~7,496 |
-| Handyman | 0.70% | ~7,496 |
-| Sorted | 0.70% | ~7,496 |
-| Resurgence | 0.70% | ~7,496 |
-| Preemptive Strike | 0.70% | ~7,496 |
-| The Grand Sacrifice | 0.60% | ~6,425 |
-| Perfect Escape | 0.60% | ~6,425 |
-| Bloody Millionaire | 0.60% | ~6,425 |
-| Healthy Obsession | 0.60% | ~6,425 |
-| Humanitarian | 0.60% | ~6,425 |
-| Agonizing Escape | 0.50% | ~5,354 |
-| Backdoor Escape | 0.50% | ~5,354 |
-| I've got your back | 0.50% | ~5,354 |
-| Perfect Killing | 0.50% | ~5,354 |
-| Apt Killer | 0.50% | ~5,354 |
-| Risk it all | 0.50% | ~5,354 |
-| II | 0.50% | ~5,354 |
-| Engineer | 0.50% | ~5,354 |
-| Wounded Healer | 0.50% | ~5,354 |
-| Close Shave | 0.50% | ~5,354 |
+| Apt Survivor | 0.90% | ~9,639 |
+| Make Some Noise | 0.90% | ~9,639 |
+| Handyman | 0.80% | ~8,568 |
+| Survival Treasures | 0.80% | ~8,568 |
+| I | 0.80% | ~8,568 |
+| No one left behind | 0.70% | ~7,497 |
+| Medic | 0.70% | ~7,497 |
+| Sorted | 0.70% | ~7,497 |
+| Resurgence | 0.70% | ~7,497 |
+| Preemptive Strike | 0.70% | ~7,497 |
+| The Grand Sacrifice | 0.60% | ~6,426 |
+| Perfect Escape | 0.60% | ~6,426 |
+| Bloody Millionaire | 0.60% | ~6,426 |
+| Healthy Obsession | 0.60% | ~6,426 |
+| Humanitarian | 0.60% | ~6,426 |
+| Agonizing Escape | 0.50% | ~5,355 |
+| Backdoor Escape | 0.50% | ~5,355 |
+| I've got your back | 0.50% | ~5,355 |
+| Perfect Killing | 0.50% | ~5,355 |
+| Apt Killer | 0.50% | ~5,355 |
+| Risk it all | 0.50% | ~5,355 |
+| II | 0.50% | ~5,355 |
+| Engineer | 0.50% | ~5,355 |
+| Wounded Healer | 0.50% | ~5,355 |
+| Close Shave | 0.50% | ~5,355 |
 | Vulture | 0.40% | ~4,284 |
 | III | 0.40% | ~4,284 |
 | With Scars to Show | 0.40% | ~4,284 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Joke’s On You | 0.10% | ~1,071 |
 | Adept Good Guy | 0.10% | ~1,071 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,070,889 (Ranked 14)  
+Progressed: 1,070,946 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -468,7 +468,7 @@ Completed: 61 (0.01%) (Ranked 346)
 | 2023-12-02 | 1,062,340 | 61 |
 | 2023-12-03 | 1,067,390 | 61 |
 | 2023-12-04 | 1,070,133 | 61 |
-| 2023-12-05 | 1,070,889 | 61 |
+| 2023-12-05 | 1,070,946 | 61 |
 ## Awards
 Max (Diverse Characters): 37,289  (Ranked 15)  
 Sum: 283,155 (Ranked 12)  

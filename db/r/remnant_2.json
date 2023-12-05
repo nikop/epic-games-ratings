@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
     "PcReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -5175,9 +5175,9 @@
       "Count": 403
     }
   ],
-  "EOS_Progressed": 235067,
+  "EOS_Progressed": 235078,
   "EOS_Completed": 558,
-  "EOS_NewPlayers": 5317,
+  "EOS_NewPlayers": 5305,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -21445,6 +21445,11 @@
       "Time": "2023-12-05T07:09:15.4447415+00:00",
       "NumProgressed": 235067,
       "NumCompleted": 558
+    },
+    {
+      "Time": "2023-12-05T08:08:42.1957461+00:00",
+      "NumProgressed": 235078,
+      "NumCompleted": 558
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21641,7 +21646,7 @@
       "Name": "First of Many",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1645
+      "UsersEstimate": 1646
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -21896,13 +21901,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 235067,
+      "Progressed": 235078,
       "Completed": 558
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 14232,
+      "Progressed": 14243,
       "Completed": 195
     }
   ],
@@ -21910,8 +21915,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-05T05:03:13.965754+00:00",
-  "LastChanged_Achievements": "2023-12-05T07:09:15.4447411+00:00",
+  "LastChanged_Achievements": "2023-12-05T08:08:42.1957454+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-05T07:03:31.1448634+00:00",
-  "LastUpdate_Achievements": "2023-12-05T07:09:15.4448716+00:00"
+  "LastUpdate_Ratings": "2023-12-05T08:03:04.037177+00:00",
+  "LastUpdate_Achievements": "2023-12-05T08:08:42.1958645+00:00"
 }

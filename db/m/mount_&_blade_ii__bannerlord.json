@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -9456,9 +9456,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 67106,
+  "EOS_Progressed": 67107,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 657,
+  "EOS_NewPlayers": 654,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33611,6 +33611,11 @@
       "Time": "2023-12-05T07:10:13.3576065+00:00",
       "NumProgressed": 67106,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-05T08:09:24.9371828+00:00",
+      "NumProgressed": 67107,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -33638,7 +33643,7 @@
       "Name": "Bannerlord",
       "Percentage": 24,
       "XP": 65,
-      "UsersEstimate": 16105
+      "UsersEstimate": 16106
     },
     {
       "ID": "Best served cold",
@@ -33782,7 +33787,7 @@
       "Name": "Horde breaker",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 16105
+      "UsersEstimate": 16106
     },
     {
       "ID": "I can do it",
@@ -33854,7 +33859,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26842
+      "UsersEstimate": 26843
     },
     {
       "ID": "Lawmaker",
@@ -33862,7 +33867,7 @@
       "Name": "Lawmaker",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 16105
+      "UsersEstimate": 16106
     },
     {
       "ID": "Long live the Empire",
@@ -33878,7 +33883,7 @@
       "Name": "Mastery",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 5368
+      "UsersEstimate": 5369
     },
     {
       "ID": "Minor Clan",
@@ -33998,7 +34003,7 @@
       "Name": "Trained",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 16105
+      "UsersEstimate": 16106
     },
     {
       "ID": "Undercover",
@@ -34029,15 +34034,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 67106,
+      "Progressed": 67107,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-12-05T07:00:18.6112207+00:00",
-  "LastChanged_Achievements": "2023-12-05T07:10:13.3576056+00:00",
+  "LastChanged_Achievements": "2023-12-05T08:09:24.9371821+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:33.4590063+00:00",
-  "LastUpdate_Ratings": "2023-12-05T07:00:18.6112215+00:00",
-  "LastUpdate_Achievements": "2023-12-05T07:10:13.3577649+00:00"
+  "LastUpdate_Ratings": "2023-12-05T07:59:12.0199841+00:00",
+  "LastUpdate_Achievements": "2023-12-05T08:09:24.9373409+00:00"
 }
