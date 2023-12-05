@@ -37,11 +37,11 @@ Rating: 3.45 (Ranked 1,051)
 | Revelations | 0.60% | ~11 |
 | You Clean It Up | 0.60% | ~11 |
 | Check, Please! | 0.60% | ~11 |
+| Block Party | 0.50% | ~9 |
 | Starve the Beast | 0.50% | ~9 |
 | Right This Way | 0.50% | ~9 |
 | Blacklight Down | 0.50% | ~9 |
 | I Spit On Your Grave | 0.50% | ~9 |
-| Block Party | 0.40% | ~7 |
 | Sisterhood | 0.40% | ~7 |
 | What Lies Below | 0.40% | ~7 |
 | Bloody Initiate | 0.40% | ~7 |

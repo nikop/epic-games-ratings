@@ -2,9 +2,9 @@
   "ID": "652423874791471c8ed723e94d43062b",
   "Name": "Return to Monkey Island",
   "ProductSlug": "return-to-monkey-island-f4af79",
-  "Ranking_EOS_Progress": 778,
+  "Ranking_EOS_Progress": 779,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewPlayers": 473,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-05-18T15:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-19T16:56:58.337343+00:00",
   "LastUpdate_AppInfo": "2023-12-02T11:57:12.4008412+00:00",
-  "LastUpdate_Ratings": "2023-12-05T07:58:50.947092+00:00",
-  "LastUpdate_Achievements": "2023-12-05T08:04:26.9309399+00:00"
+  "LastUpdate_Ratings": "2023-12-05T08:59:52.6324415+00:00",
+  "LastUpdate_Achievements": "2023-12-05T09:05:36.0052663+00:00"
 }

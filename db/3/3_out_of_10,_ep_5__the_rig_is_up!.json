@@ -2,9 +2,9 @@
   "ID": "6a70006d598948bfa6c71ceb334ad635",
   "Name": "3 out of 10, EP 5: The Rig Is Up!",
   "ProductSlug": "3-out-of-10-ep-5",
-  "Ranking_EOS_Progress": 778,
+  "Ranking_EOS_Progress": 779,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewPlayers": 473,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-09-03T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:17.9713217+00:00",
   "LastChanged": "2023-03-31T05:58:17.9713218+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:19.2855086+00:00",
-  "LastUpdate_Ratings": "2023-12-05T08:03:00.9021084+00:00",
-  "LastUpdate_Achievements": "2023-12-05T08:04:29.1402081+00:00"
+  "LastUpdate_Ratings": "2023-12-05T09:03:36.6123879+00:00",
+  "LastUpdate_Achievements": "2023-12-05T09:05:38.9281386+00:00"
 }

@@ -32,8 +32,8 @@ Rating: 4.57 (Ranked 478)
 | Pandora's box | 21.00% | ~13 |
 | Ghost hunter | 21.00% | ~13 |
 | Sidelined | 21.00% | ~13 |
+| Workaholic | 20.00% | ~12 |
 | Defender | 18.00% | ~11 |
-| Workaholic | 18.00% | ~11 |
 | Fence | 18.00% | ~11 |
 | Showdown | 16.00% | ~10 |
 | Master thief | 15.00% | ~9 |

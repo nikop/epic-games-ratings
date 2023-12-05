@@ -41,10 +41,10 @@
 | Hungry, Hungry Gorgu! | 25.00% | ~132 |
 | Ghost Pirates? Ghost Heroes! | 25.00% | ~132 |
 | The Finitude Drill | 24.00% | ~126 |
-| Doom Hill | 21.00% | ~111 |
+| Doom Hill | 22.00% | ~116 |
 | Stop Tanos! | 20.00% | ~105 |
+| Brimstone Shaken, Not Stirred | 20.00% | ~105 |
 | Sabotage! | 19.00% | ~100 |
-| Brimstone Shaken, Not Stirred | 19.00% | ~100 |
 | Bonus Evilness | 17.00% | ~90 |
 | Raiders of the Lost Stone | 17.00% | ~90 |
 | The Rune Sockets of Finitude (Part 1) | 17.00% | ~90 |

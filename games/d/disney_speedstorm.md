@@ -5,14 +5,14 @@ Rating: 4.39 (Ranked 752)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 11.00% | ~36,017 |
-| IT MAKES BOOM! | 7.00% | ~22,920 |
-| EXTRA BOOST | 5.00% | ~16,371 |
-| PROTECTED | 4.00% | ~13,097 |
-| PRO | 4.00% | ~13,097 |
+| ROOKIE | 11.00% | ~36,019 |
+| IT MAKES BOOM! | 7.00% | ~22,921 |
+| EXTRA BOOST | 5.00% | ~16,372 |
+| PROTECTED | 4.00% | ~13,098 |
+| PRO | 4.00% | ~13,098 |
 | HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,823 |
 | AGGRESSIVE RACER | 3.00% | ~9,823 |
-| A TIGER'S FEAR | 2.00% | ~6,548 |
+| A TIGER'S FEAR | 2.00% | ~6,549 |
 | IT'S A LONG WAY TO THE TOP | 1.00% | ~3,274 |
 | TRAINING HARD | 1.00% | ~3,274 |
 | BE OUR GUEST | 1.00% | ~3,274 |
@@ -21,7 +21,7 @@ Rating: 4.39 (Ranked 752)
 | RELEASE THE KRAKEN | 0.90% | ~2,947 |
 | FRIENDLY | 0.90% | ~2,947 |
 | LEGENDARY HERO | 0.90% | ~2,947 |
-| DEFEAT OUR CHAMPION | 0.80% | ~2,619 |
+| DEFEAT OUR CHAMPION | 0.80% | ~2,620 |
 | THE EYE OF THE HUNTER | 0.70% | ~2,292 |
 | EXPERIENCED CREW | 0.60% | ~1,965 |
 | ACE BRAWLER | 0.50% | ~1,637 |
@@ -30,8 +30,8 @@ Rating: 4.39 (Ranked 752)
 | ACE TRICKSTER | 0.40% | ~1,310 |
 | PERFECTLY POISED | 0.30% | ~982 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 327,424 (Ranked 51)  
-Completed: 470 (0.14%) (Ranked 275)  
+Progressed: 327,448 (Ranked 51)  
+Completed: 471 (0.14%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -255,11 +255,11 @@ Completed: 470 (0.14%) (Ranked 275)
 | 2023-12-02 | 321,996 | 428 |
 | 2023-12-03 | 325,453 | 446 |
 | 2023-12-04 | 326,987 | 461 |
-| 2023-12-05 | 327,424 | 470 |
+| 2023-12-05 | 327,448 | 471 |
 ## Awards
 Max (Great for Beginners): 109  (Ranked 354)  
-Sum: 754 (Ranked 289)  
-Diff (max vs sum): 65  
+Sum: 757 (Ranked 287)  
+Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 109 |
@@ -271,9 +271,9 @@ Diff (max vs sum): 65
 | This game is Highly Recommended | 54 |
 | This game has Competitive Players | 50 |
 | This game is Extremely Fun | 50 |
+| This game is Relaxing | 47 |
 | This game has Quickly Understood Controls | 45 |
 | This game has Amazing Storytelling | 44 |
-| This game is Relaxing | 44 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -342,3 +342,4 @@ Diff (max vs sum): 65
 | 2023-12-02 | 4.40 | 98 | 712 |
 | 2023-12-03 | 4.40 | 101 | 735 |
 | 2023-12-04 | 4.39 | 109 | 754 |
+| 2023-12-05 | 4.39 | 109 | 757 |

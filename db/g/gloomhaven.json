@@ -2603,7 +2603,7 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 24700,
+  "EOS_Progressed": 24703,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 1273,
   "EOS_NewCompleters": 0,
@@ -11833,6 +11833,11 @@
       "Time": "2023-12-05T08:08:23.791701+00:00",
       "NumProgressed": 24700,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-05T09:09:12.7604499+00:00",
+      "NumProgressed": 24703,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -12013,7 +12018,7 @@
       "Name": "Precious!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4199
+      "UsersEstimate": 4200
     },
     {
       "ID": "Achievement_Trophy23",
@@ -12029,7 +12034,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 10127
+      "UsersEstimate": 10128
     },
     {
       "ID": "Achievement_Trophy25",
@@ -12045,7 +12050,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 8398
+      "UsersEstimate": 8399
     },
     {
       "ID": "Achievement_Trophy27",
@@ -12061,7 +12066,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 8151
+      "UsersEstimate": 8152
     },
     {
       "ID": "Achievement_Trophy29",
@@ -12077,7 +12082,7 @@
       "Name": "Spread the plague",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 7163
+      "UsersEstimate": 7164
     },
     {
       "ID": "Achievement_Trophy31",
@@ -12085,7 +12090,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 7657
+      "UsersEstimate": 7658
     },
     {
       "ID": "Achievement_Trophy32",
@@ -12133,7 +12138,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 6175
+      "UsersEstimate": 6176
     },
     {
       "ID": "Achievement_Trophy38",
@@ -12141,7 +12146,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4199
+      "UsersEstimate": 4200
     },
     {
       "ID": "Achievement_Trophy39",
@@ -12149,7 +12154,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4693
+      "UsersEstimate": 4694
     },
     {
       "ID": "Achievement_Trophy40",
@@ -12332,7 +12337,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 24700,
+      "Progressed": 24703,
       "Completed": 1
     }
   ],
@@ -12340,8 +12345,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-03T16:58:41.8271034+00:00",
-  "LastChanged_Achievements": "2023-12-05T08:08:23.7917004+00:00",
+  "LastChanged_Achievements": "2023-12-05T09:09:12.7604493+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:31.3646909+00:00",
-  "LastUpdate_Ratings": "2023-12-05T07:59:08.5966837+00:00",
-  "LastUpdate_Achievements": "2023-12-05T08:08:23.7917996+00:00"
+  "LastUpdate_Ratings": "2023-12-05T09:00:18.6382008+00:00",
+  "LastUpdate_Achievements": "2023-12-05T09:09:12.7605266+00:00"
 }

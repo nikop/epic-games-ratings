@@ -9,8 +9,8 @@ Number of Ratings: 2,731  (23.09.2022)
 | It's a steal! | 37.00% | ~31,485 |
 | Final touch | 35.00% | ~29,783 |
 | Prop-M Rover | 32.00% | ~27,230 |
-| Changing the Planet | 28.00% | ~23,826 |
-| Sojourner | 26.00% | ~22,124 |
+| Changing the Planet | 28.00% | ~23,827 |
+| Sojourner | 26.00% | ~22,125 |
 | New Home | 23.00% | ~19,572 |
 | Beagle 2 | 23.00% | ~19,572 |
 | Winner Winner Terraformer | 21.00% | ~17,870 |
@@ -28,16 +28,16 @@ Number of Ratings: 2,731  (23.09.2022)
 | Most Achievements | 11.00% | ~9,360 |
 | Hellenic Elysium | 11.00% | ~9,360 |
 | Grand champion | 11.00% | ~9,360 |
-| Spirit | 10.00% | ~8,509 |
-| Ultimate success | 10.00% | ~8,509 |
-| Variety Expert | 9.00% | ~7,658 |
+| Spirit | 10.00% | ~8,510 |
+| Ultimate success | 10.00% | ~8,510 |
+| Variety Expert | 9.00% | ~7,659 |
 | Frequent tester | 8.00% | ~6,808 |
 | Determined | 8.00% | ~6,808 |
 | Terraformer | 4.00% | ~3,404 |
 | Team Effort | 3.00% | ~2,553 |
 | Opportunity | 3.00% | ~2,553 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85,094 (Ranked 95)  
+Progressed: 85,095 (Ranked 95)  
 Completed: 172 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 172 (0.20%) (Ranked 258)
 | 2023-12-02 | 84,762 | 169 |
 | 2023-12-03 | 84,968 | 171 |
 | 2023-12-04 | 85,071 | 172 |
-| 2023-12-05 | 85,094 | 172 |
+| 2023-12-05 | 85,095 | 172 |
 ## Awards
 Max (Relaxing): 529  (Ranked 209)  
 Sum: 3,278 (Ranked 172)  

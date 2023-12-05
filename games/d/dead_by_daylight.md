@@ -6,10 +6,10 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~10,709 |
-| It wakes | 1.00% | ~10,709 |
-| Not half bad | 1.00% | ~10,709 |
-| Skillful | 1.00% | ~10,709 |
+| Zealous | 1.00% | ~10,710 |
+| It wakes | 1.00% | ~10,710 |
+| Not half bad | 1.00% | ~10,710 |
+| Skillful | 1.00% | ~10,710 |
 | Apt Survivor | 0.90% | ~9,639 |
 | Make Some Noise | 0.90% | ~9,639 |
 | Handyman | 0.80% | ~8,568 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Joke’s On You | 0.10% | ~1,071 |
 | Adept Good Guy | 0.10% | ~1,071 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,070,946 (Ranked 14)  
+Progressed: 1,071,002 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -468,7 +468,7 @@ Completed: 61 (0.01%) (Ranked 346)
 | 2023-12-02 | 1,062,340 | 61 |
 | 2023-12-03 | 1,067,390 | 61 |
 | 2023-12-04 | 1,070,133 | 61 |
-| 2023-12-05 | 1,070,946 | 61 |
+| 2023-12-05 | 1,071,002 | 61 |
 ## Awards
 Max (Diverse Characters): 37,289  (Ranked 15)  
 Sum: 283,155 (Ranked 12)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 75976,
+  "EOS_Progressed": 75977,
   "EOS_Completed": 407,
-  "EOS_NewPlayers": 555,
+  "EOS_NewPlayers": 554,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -25508,6 +25508,11 @@
       "Time": "2023-12-05T06:09:44.9900399+00:00",
       "NumProgressed": 75976,
       "NumCompleted": 407
+    },
+    {
+      "Time": "2023-12-05T09:09:51.7087161+00:00",
+      "NumProgressed": 75977,
+      "NumCompleted": 407
     }
   ],
   "TotalAchievements": 24,
@@ -25535,7 +25540,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 52423
+      "UsersEstimate": 52424
     },
     {
       "ID": "BEST_FRIENDS",
@@ -25567,7 +25572,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21273
+      "UsersEstimate": 21274
     },
     {
       "ID": "FOXIN_AROUND",
@@ -25599,7 +25604,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 40267
+      "UsersEstimate": 40268
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -25710,7 +25715,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 75976,
+      "Progressed": 75977,
       "Completed": 407
     }
   ],
@@ -25718,8 +25723,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-12-05T08:08:53.0637789+00:00",
+  "LastChanged_Achievements": "2023-12-05T09:09:51.7087158+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:18.159527+00:00",
-  "LastUpdate_Ratings": "2023-12-05T07:57:09.7065917+00:00",
-  "LastUpdate_Achievements": "2023-12-05T08:08:53.0639639+00:00"
+  "LastUpdate_Ratings": "2023-12-05T08:57:26.6981213+00:00",
+  "LastUpdate_Achievements": "2023-12-05T09:09:51.7088686+00:00"
 }

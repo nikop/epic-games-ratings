@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mighty Powers | 79.00% | ~33 |
-| Grand Re-Opening | 64.00% | ~27 |
-| Pup Pup Boogie | 62.00% | ~26 |
-| Summer Day | 60.00% | ~25 |
-| Mr. Porter | 50.00% | ~21 |
-| Risky Rescue | 45.00% | ~19 |
-| Carlos Is Tangled | 43.00% | ~18 |
+| Mighty Powers | 79.00% | ~34 |
+| Grand Re-Opening | 63.00% | ~27 |
+| Pup Pup Boogie | 60.00% | ~26 |
+| Summer Day | 58.00% | ~25 |
+| Mr. Porter | 49.00% | ~21 |
+| Risky Rescue | 44.00% | ~19 |
+| Carlos Is Tangled | 42.00% | ~18 |
 | Mandy Family | 40.00% | ~17 |
-| Clear the Road | 38.00% | ~16 |
-| Paw patrol member | 36.00% | ~15 |
-| Robot Out of Control | 36.00% | ~15 |
+| Clear the Road | 37.00% | ~16 |
+| Paw patrol member | 35.00% | ~15 |
+| Robot Out of Control | 35.00% | ~15 |
 | Break Time | 33.00% | ~14 |
-| Master of the Rope | 31.00% | ~13 |
-| Training Day | 31.00% | ~13 |
-| In the Air | 31.00% | ~13 |
-| The Fastest | 29.00% | ~12 |
-| Never Miss | 29.00% | ~12 |
+| Master of the Rope | 30.00% | ~13 |
+| Training Day | 30.00% | ~13 |
+| In the Air | 30.00% | ~13 |
+| The Fastest | 28.00% | ~12 |
+| Never Miss | 28.00% | ~12 |
 | Don’t Miss Any | 26.00% | ~11 |
-| Animal Sighting | 24.00% | ~10 |
+| Animal Sighting | 23.00% | ~10 |
 | Adventure Bay’s Citizen | 21.00% | ~9 |
-| You Have Been Everywhere | 17.00% | ~7 |
-| Mountain and Ice | 17.00% | ~7 |
+| You Have Been Everywhere | 16.00% | ~7 |
+| Mountain and Ice | 16.00% | ~7 |
 | Everything Under Control | 12.00% | ~5 |
-| A Great Explorer | 10.00% | ~4 |
-| Nothing Can Stop You | 10.00% | ~4 |
+| A Great Explorer | 9.00% | ~4 |
+| Nothing Can Stop You | 9.00% | ~4 |
 | King of the Mountain | 5.00% | ~2 |
 | Air Ace | 0.00% | ~0 |
 | You Know Them All | 0.00% | ~0 |
 | The Collector | 0.00% | ~0 |
 | Pup Treat Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42 (Ranked 514)  
+Progressed: 43 (Ranked 514)  
 Completed: 0 (0.00%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,6 +77,7 @@ Completed: 0 (0.00%) (Ranked 368)
 | 2023-11-20 | 39 | 0 |
 | 2023-11-28 | 41 | 0 |
 | 2023-12-04 | 42 | 0 |
+| 2023-12-05 | 43 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

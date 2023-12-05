@@ -44,6 +44,7 @@
 | Business As Usual | 2.00% | ~4 |
 | Delayed | 2.00% | ~4 |
 | A Real Battle | 2.00% | ~4 |
+| Merchant Lord | 2.00% | ~4 |
 | Insectoid Propagator | 2.00% | ~4 |
 | Making Contact | 1.00% | ~2 |
 | Watcher | 1.00% | ~2 |
@@ -62,7 +63,6 @@
 | The Last Voyage | 1.00% | ~2 |
 | Theory to Practice | 1.00% | ~2 |
 | Wyrmslayer | 1.00% | ~2 |
-| Merchant Lord | 1.00% | ~2 |
 | Glorious leader | 1.00% | ~2 |
 | Voracity Confronted | 1.00% | ~2 |
 | General | 0.50% | ~1 |

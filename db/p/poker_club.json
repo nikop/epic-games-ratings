@@ -997,9 +997,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 541466,
+  "EOS_Progressed": 541467,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1240,
+  "EOS_NewPlayers": 1238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26972,6 +26972,11 @@
       "Time": "2023-12-05T08:06:42.5292432+00:00",
       "NumProgressed": 541466,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-05T09:08:58.9964364+00:00",
+      "NumProgressed": 541467,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -26991,7 +26996,7 @@
       "Name": "Backdoor",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 135366
+      "UsersEstimate": 135367
     },
     {
       "ID": "BeforeYouWreckYourself",
@@ -27079,7 +27084,7 @@
       "Name": "Cold Caller",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 216586
+      "UsersEstimate": 216587
     },
     {
       "ID": "DeadlyAssassin",
@@ -27231,7 +27236,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 411514
+      "UsersEstimate": 411515
     },
     {
       "ID": "ProPlayer",
@@ -27342,7 +27347,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 541466,
+      "Progressed": 541467,
       "Completed": 2
     }
   ],
@@ -27350,8 +27355,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-12-04T21:01:55.0231248+00:00",
-  "LastChanged_Achievements": "2023-12-05T08:06:42.5292426+00:00",
+  "LastChanged_Achievements": "2023-12-05T09:08:58.9964362+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:11.118442+00:00",
-  "LastUpdate_Ratings": "2023-12-05T08:00:17.1683599+00:00",
-  "LastUpdate_Achievements": "2023-12-05T08:06:42.5294348+00:00"
+  "LastUpdate_Ratings": "2023-12-05T09:02:49.9359578+00:00",
+  "LastUpdate_Achievements": "2023-12-05T09:08:58.9966107+00:00"
 }

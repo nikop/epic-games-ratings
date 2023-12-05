@@ -6,29 +6,29 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~26,104 |
+| Genin | 12.00% | ~26,105 |
 | A thief's beginning | 10.00% | ~21,754 |
 | Thorough | 10.00% | ~21,754 |
-| Disguised | 9.00% | ~19,578 |
-| Rollin' | 9.00% | ~19,578 |
-| Tanuki Time | 9.00% | ~19,578 |
+| Disguised | 9.00% | ~19,579 |
+| Rollin' | 9.00% | ~19,579 |
+| Tanuki Time | 9.00% | ~19,579 |
 | Rescue Takuma | 8.00% | ~17,403 |
 | Stoned Ox | 8.00% | ~17,403 |
 | Happy Planning | 7.00% | ~15,228 |
 | Ice Ice Yuki | 7.00% | ~15,228 |
 | Jonin | 7.00% | ~15,228 |
 | Yabu | 7.00% | ~15,228 |
-| Chunin | 6.00% | ~13,052 |
-| Flying Rocks | 6.00% | ~13,052 |
-| Mugen Unchained | 6.00% | ~13,052 |
-| Warzone | 6.00% | ~13,052 |
+| Chunin | 6.00% | ~13,053 |
+| Flying Rocks | 6.00% | ~13,053 |
+| Mugen Unchained | 6.00% | ~13,053 |
+| Warzone | 6.00% | ~13,053 |
 | Okkoto | 5.00% | ~10,877 |
 | Prisoners | 5.00% | ~10,877 |
 | Too Early | 5.00% | ~10,877 |
-| Gear up | 4.00% | ~8,701 |
-| Happy little accidents | 4.00% | ~8,701 |
-| Noboru | 4.00% | ~8,701 |
-| Still Rollin' | 4.00% | ~8,701 |
+| Gear up | 4.00% | ~8,702 |
+| Happy little accidents | 4.00% | ~8,702 |
+| Noboru | 4.00% | ~8,702 |
+| Still Rollin' | 4.00% | ~8,702 |
 | It's raining men | 3.00% | ~6,526 |
 | Stoned | 3.00% | ~6,526 |
 | The Old Way | 3.00% | ~6,526 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~218 |
 | Release the Kraken | 0.10% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,536 (Ranked 72)  
+Progressed: 217,542 (Ranked 72)  
 Completed: 100 (0.05%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 100 (0.05%) (Ranked 319)
 | 2023-12-02 | 217,105 | 100 |
 | 2023-12-03 | 217,342 | 100 |
 | 2023-12-04 | 217,501 | 100 |
-| 2023-12-05 | 217,536 | 100 |
+| 2023-12-05 | 217,542 | 100 |
 ## Awards
 Max (Great for Beginners): 581  (Ranked 201)  
 Sum: 4,895 (Ranked 144)  

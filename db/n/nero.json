@@ -2,9 +2,9 @@
   "ID": "dfb15b4fd0834720a774605c028fcefa",
   "Name": "NERO",
   "ProductSlug": "nero-0011a8",
-  "Ranking_EOS_Progress": 778,
+  "Ranking_EOS_Progress": 779,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewPlayers": 473,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-09-21T06:30:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:35.5794403+00:00",
   "LastChanged": "2023-03-31T05:58:35.5794404+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:53.5542729+00:00",
-  "LastUpdate_Ratings": "2023-12-05T07:57:59.5808977+00:00",
-  "LastUpdate_Achievements": "2023-12-05T08:05:51.0616543+00:00"
+  "LastUpdate_Ratings": "2023-12-05T08:58:37.588134+00:00",
+  "LastUpdate_Achievements": "2023-12-05T09:07:29.4560722+00:00"
 }

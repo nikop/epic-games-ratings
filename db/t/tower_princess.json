@@ -2,9 +2,9 @@
   "ID": "0f607d2997b04e7384c786708ee2c67a",
   "Name": "Tower Princess",
   "ProductSlug": "tower-princess-ae1a22",
-  "Ranking_EOS_Progress": 712,
+  "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewPlayers": 473,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-09-08T17:00:00+00:00",
@@ -346,8 +346,8 @@
   "FirstSeenRating": "2023-03-31T05:58:39.3470193+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.729738+00:00",
   "LastChanged": "2023-03-31T05:58:39.3470194+00:00",
-  "LastChanged_Achievements": "2023-12-05T08:09:17.529566+00:00",
+  "LastChanged_Achievements": "2023-12-05T09:10:24.3825019+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:39.9550414+00:00",
-  "LastUpdate_Ratings": "2023-12-05T07:59:23.5568102+00:00",
-  "LastUpdate_Achievements": "2023-12-05T08:09:17.52959+00:00"
+  "LastUpdate_Ratings": "2023-12-05T09:00:40.7768808+00:00",
+  "LastUpdate_Achievements": "2023-12-05T09:10:24.3825177+00:00"
 }

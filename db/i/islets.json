@@ -2,9 +2,9 @@
   "ID": "cecc5a53aa534e15881fdbd67a1e83b7",
   "Name": "Islets",
   "ProductSlug": "islets-5f2670",
-  "Ranking_EOS_Progress": 778,
+  "Ranking_EOS_Progress": 779,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewPlayers": 473,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-08-24T13:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:48.8913883+00:00",
   "LastChanged": "2023-03-31T05:57:48.8913885+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:45.853526+00:00",
-  "LastUpdate_Ratings": "2023-12-05T07:59:32.8329035+00:00",
-  "LastUpdate_Achievements": "2023-12-05T08:09:10.13274+00:00"
+  "LastUpdate_Ratings": "2023-12-05T09:00:54.7171422+00:00",
+  "LastUpdate_Achievements": "2023-12-05T09:10:14.3135625+00:00"
 }

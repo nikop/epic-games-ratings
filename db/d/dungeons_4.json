@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 527,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.28,
   "EosHistory": [
@@ -1752,9 +1752,9 @@
       "ID": "ach_main16ring_completed",
       "SetID": "4hg22ll",
       "Name": "Doom Hill",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 116
     },
     {
       "ID": "ach_main16ring_lavalings",
@@ -1784,9 +1784,9 @@
       "ID": "ach_main17stone_explosions",
       "SetID": "4hg22ll",
       "Name": "Brimstone Shaken, Not Stirred",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 105
     },
     {
       "ID": "ach_main17stone_transporter",
@@ -1879,8 +1879,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-05T08:08:26.9699391+00:00",
+  "LastChanged_Achievements": "2023-12-05T09:09:17.0443391+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:15.3424787+00:00",
-  "LastUpdate_Ratings": "2023-12-05T07:59:46.4690607+00:00",
-  "LastUpdate_Achievements": "2023-12-05T08:08:26.9699829+00:00"
+  "LastUpdate_Ratings": "2023-12-05T09:01:14.7112533+00:00",
+  "LastUpdate_Achievements": "2023-12-05T09:09:17.0443797+00:00"
 }

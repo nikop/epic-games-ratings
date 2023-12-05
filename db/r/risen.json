@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 487,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -577,9 +577,9 @@
       "ID": "id_45",
       "SetID": "bk9jib6",
       "Name": "Workaholic",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "id_46",
@@ -778,8 +778,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-11-13T23:59:43.760664+00:00",
-  "LastChanged_Achievements": "2023-12-05T08:09:06.1159157+00:00",
+  "LastChanged_Achievements": "2023-12-05T09:10:08.9573941+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:25.2979991+00:00",
-  "LastUpdate_Ratings": "2023-12-05T07:58:10.2271057+00:00",
-  "LastUpdate_Achievements": "2023-12-05T08:09:06.115951+00:00"
+  "LastUpdate_Ratings": "2023-12-05T08:58:52.9444207+00:00",
+  "LastUpdate_Achievements": "2023-12-05T09:10:08.9574233+00:00"
 }

@@ -13358,9 +13358,9 @@
       "Count": 27610
     }
   ],
-  "EOS_Progressed": 1070946,
+  "EOS_Progressed": 1071002,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 21582,
+  "EOS_NewPlayers": 21607,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39658,6 +39658,11 @@
       "Time": "2023-12-05T08:09:29.4620487+00:00",
       "NumProgressed": 1070946,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-05T09:10:39.5635614+00:00",
+      "NumProgressed": 1071002,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 232,
@@ -39837,7 +39842,7 @@
       "Name": "Zealous",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10709
+      "UsersEstimate": 10710
     },
     {
       "ID": "ACH_023",
@@ -39845,7 +39850,7 @@
       "Name": "It wakes",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10709
+      "UsersEstimate": 10710
     },
     {
       "ID": "ACH_024",
@@ -39853,7 +39858,7 @@
       "Name": "Not half bad",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10709
+      "UsersEstimate": 10710
     },
     {
       "ID": "ACH_025",
@@ -39973,7 +39978,7 @@
       "Name": "Skillful",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10709
+      "UsersEstimate": 10710
     },
     {
       "ID": "ACH_040",
@@ -41524,21 +41529,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1070946,
+      "Progressed": 1071002,
       "Completed": 70
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1070946,
+      "Progressed": 1071002,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-12-05T03:58:50.680368+00:00",
-  "LastChanged_Achievements": "2023-12-05T08:09:29.4620482+00:00",
+  "LastChanged_Achievements": "2023-12-05T09:10:39.5635611+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:13.1126718+00:00",
-  "LastUpdate_Ratings": "2023-12-05T07:58:23.5713099+00:00",
-  "LastUpdate_Achievements": "2023-12-05T08:09:29.4627158+00:00"
+  "LastUpdate_Ratings": "2023-12-05T08:59:11.914763+00:00",
+  "LastUpdate_Achievements": "2023-12-05T09:10:39.564156+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -5569,9 +5569,9 @@
       "Count": 343
     }
   ],
-  "EOS_Progressed": 253070,
+  "EOS_Progressed": 253071,
   "EOS_Completed": 895,
-  "EOS_NewPlayers": 700,
+  "EOS_NewPlayers": 701,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -30479,6 +30479,11 @@
       "Time": "2023-12-05T08:09:23.2931063+00:00",
       "NumProgressed": 253070,
       "NumCompleted": 895
+    },
+    {
+      "Time": "2023-12-05T09:10:31.8077727+00:00",
+      "NumProgressed": 253071,
+      "NumCompleted": 895
     }
   ],
   "TotalAchievements": 39,
@@ -30506,7 +30511,7 @@
       "Name": "Car Cave",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 30368
+      "UsersEstimate": 30369
     },
     {
       "ID": "AchievementBaywatchID",
@@ -30554,7 +30559,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 230294
+      "UsersEstimate": 230295
     },
     {
       "ID": "AchievementClownID",
@@ -30618,7 +30623,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 134127
+      "UsersEstimate": 134128
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -30634,7 +30639,7 @@
       "Name": "Beauty, Mindfulness and Meditation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 37960
+      "UsersEstimate": 37961
     },
     {
       "ID": "AchievementInstinctID",
@@ -30722,7 +30727,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 187272
+      "UsersEstimate": 187273
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -30754,7 +30759,7 @@
       "Name": "401(K.O.)",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 37960
+      "UsersEstimate": 37961
     },
     {
       "ID": "AchievementThroneID",
@@ -30762,7 +30767,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 139188
+      "UsersEstimate": 139189
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -30801,7 +30806,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 253070,
+      "Progressed": 253071,
       "Completed": 895
     }
   ],
@@ -30809,8 +30814,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-12-04T17:57:56.0779123+00:00",
-  "LastChanged_Achievements": "2023-12-05T08:09:23.2931058+00:00",
+  "LastChanged_Achievements": "2023-12-05T09:10:31.8077724+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:53.8008808+00:00",
-  "LastUpdate_Ratings": "2023-12-05T07:58:00.0897834+00:00",
-  "LastUpdate_Achievements": "2023-12-05T08:09:23.2932823+00:00"
+  "LastUpdate_Ratings": "2023-12-05T08:58:38.3061542+00:00",
+  "LastUpdate_Achievements": "2023-12-05T09:10:31.8079166+00:00"
 }

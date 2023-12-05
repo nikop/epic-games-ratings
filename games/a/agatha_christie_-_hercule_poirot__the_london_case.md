@@ -17,8 +17,8 @@
 | Arthur Hastings | 51.00% | ~20 |
 | Everything matters | 44.00% | ~17 |
 | DI Hardwicke | 44.00% | ~17 |
-| Order and method | 38.00% | ~15 |
-| An expert mediator | 38.00% | ~15 |
+| Order and method | 41.00% | ~16 |
+| An expert mediator | 41.00% | ~16 |
 | Betty Allen | 36.00% | ~14 |
 | The Investigation Begins | 36.00% | ~14 |
 | An odd series of events | 31.00% | ~12 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1651,9 +1651,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 13855,
+  "EOS_Progressed": 13856,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -15421,6 +15421,11 @@
       "Time": "2023-12-05T07:09:44.2466828+00:00",
       "NumProgressed": 13855,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-05T09:10:05.5054302+00:00",
+      "NumProgressed": 13856,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 35,
@@ -15432,7 +15437,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11361
+      "UsersEstimate": 11362
     },
     {
       "ID": "ACH02",
@@ -15528,7 +15533,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2632
+      "UsersEstimate": 2633
     },
     {
       "ID": "ACH14",
@@ -15552,7 +15557,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2355
+      "UsersEstimate": 2356
     },
     {
       "ID": "ACH17",
@@ -15711,7 +15716,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13855,
+      "Progressed": 13856,
       "Completed": 56
     }
   ],
@@ -15719,8 +15724,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-04T11:57:11.9684546+00:00",
-  "LastChanged_Achievements": "2023-12-05T08:09:03.5007609+00:00",
+  "LastChanged_Achievements": "2023-12-05T09:10:05.5054299+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:45.2117848+00:00",
-  "LastUpdate_Ratings": "2023-12-05T07:57:38.501927+00:00",
-  "LastUpdate_Achievements": "2023-12-05T08:09:03.5008351+00:00"
+  "LastUpdate_Ratings": "2023-12-05T08:58:08.1903536+00:00",
+  "LastUpdate_Achievements": "2023-12-05T09:10:05.5055098+00:00"
 }
