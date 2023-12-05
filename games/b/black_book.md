@@ -1,31 +1,31 @@
 # Black Book
 [Store](https://store.epicgames.com/en-US/p/black-book)  
 [View Rawdata](../../db/b/black_book.json)  
-Rating: 4.65 (Ranked 315)  
+Rating: 4.65 (Ranked 316)  
 Number of Ratings: 96  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 28.00% | ~16,249 |
+| Initiation | 28.00% | ~16,250 |
 | Student | 22.00% | ~12,767 |
 | Knower | 16.00% | ~9,285 |
 | Listener | 15.00% | ~8,705 |
-| Aspen Tree | 14.00% | ~8,124 |
-| Healer | 14.00% | ~8,124 |
+| Aspen Tree | 14.00% | ~8,125 |
+| Healer | 14.00% | ~8,125 |
 | Soldier | 12.00% | ~6,964 |
-| Cow Level | 11.00% | ~6,383 |
-| Scientist | 11.00% | ~6,383 |
+| Cow Level | 11.00% | ~6,384 |
+| Scientist | 11.00% | ~6,384 |
 | Herbalist | 10.00% | ~5,803 |
 | Water | 10.00% | ~5,803 |
 | Old Friend | 9.00% | ~5,223 |
 | New Spirits | 9.00% | ~5,223 |
 | Voipel | 9.00% | ~5,223 |
 | Black Mage | 9.00% | ~5,223 |
-| Card Player | 8.00% | ~4,642 |
-| Dead Friend | 8.00% | ~4,642 |
-| Pine Tree | 8.00% | ~4,642 |
-| Collector | 8.00% | ~4,642 |
-| Wolf | 8.00% | ~4,642 |
+| Card Player | 8.00% | ~4,643 |
+| Dead Friend | 8.00% | ~4,643 |
+| Pine Tree | 8.00% | ~4,643 |
+| Collector | 8.00% | ~4,643 |
+| Wolf | 8.00% | ~4,643 |
 | Worthy | 7.00% | ~4,062 |
 | Black Book | 7.00% | ~4,062 |
 | Black Sorcerer | 7.00% | ~4,062 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,161 |
 | Word Master | 0.20% | ~116 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,031 (Ranked 109)  
+Progressed: 58,034 (Ranked 109)  
 Completed: 57 (0.10%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 57 (0.10%) (Ranked 289)
 | 2023-12-02 | 57,519 | 57 |
 | 2023-12-03 | 57,828 | 57 |
 | 2023-12-04 | 58,011 | 57 |
-| 2023-12-05 | 58,031 | 57 |
+| 2023-12-05 | 58,034 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

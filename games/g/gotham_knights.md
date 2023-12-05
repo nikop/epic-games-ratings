@@ -8,17 +8,17 @@ Rating: 4.18 (Ranked 936)
 | First Step Into the Knight | 50.00% | ~38,844 |
 | Har, Har, Har, Very Funny | 34.00% | ~26,414 |
 | Loose Ends | 33.00% | ~25,637 |
-| To the Victor Go the Spoils | 28.00% | ~21,752 |
-| Knighthood | 27.00% | ~20,975 |
+| To the Victor Go the Spoils | 28.00% | ~21,753 |
+| Knighthood | 27.00% | ~20,976 |
 | Get ReQ'd | 25.00% | ~19,422 |
 | Whispered Words | 24.00% | ~18,645 |
 | The Batman Family | 22.00% | ~17,091 |
 | Lock and Key | 22.00% | ~17,091 |
 | Something in the Clay | 21.00% | ~16,314 |
-| Quartzer Life Crisis | 20.00% | ~15,537 |
-| Working Hard or Harley Working? | 20.00% | ~15,537 |
-| Unstoppable Force | 20.00% | ~15,537 |
-| Bad Apples in Every Orchard | 20.00% | ~15,537 |
+| Quartzer Life Crisis | 20.00% | ~15,538 |
+| Working Hard or Harley Working? | 20.00% | ~15,538 |
+| Unstoppable Force | 20.00% | ~15,538 |
+| Bad Apples in Every Orchard | 20.00% | ~15,538 |
 | Snow Problem | 19.00% | ~14,761 |
 | The Show Mud Go On | 18.00% | ~13,984 |
 | From Inside Gotham's Walls | 18.00% | ~13,984 |
@@ -31,9 +31,9 @@ Rating: 4.18 (Ranked 936)
 | Seeking Asylum | 14.00% | ~10,876 |
 | Not On My Watch | 13.00% | ~10,099 |
 | Shock Til They Drop | 13.00% | ~10,099 |
-| End of an Era | 12.00% | ~9,322 |
-| Bulldozed | 12.00% | ~9,322 |
-| Gotham Knight | 12.00% | ~9,322 |
+| End of an Era | 12.00% | ~9,323 |
+| Bulldozed | 12.00% | ~9,323 |
+| Gotham Knight | 12.00% | ~9,323 |
 | Gotham City Confidential | 11.00% | ~8,546 |
 | Drone You Out | 10.00% | ~7,769 |
 | Out of Their League | 9.00% | ~6,992 |
@@ -42,7 +42,7 @@ Rating: 4.18 (Ranked 936)
 | Family Meeting | 6.00% | ~4,661 |
 | A Worthy Successor | 6.00% | ~4,661 |
 | Expert Crime Fighter | 5.00% | ~3,884 |
-| Dressed to Impress | 4.00% | ~3,107 |
+| Dressed to Impress | 4.00% | ~3,108 |
 | A Momentum Occasion | 3.00% | ~2,331 |
 | Bat Out of Hell | 3.00% | ~2,331 |
 | Practice Makes Perfect | 2.00% | ~1,554 |
@@ -52,7 +52,7 @@ Rating: 4.18 (Ranked 936)
 | Batarang Collector | 1.00% | ~777 |
 | Claiming the Mural High Ground | 1.00% | ~777 |
 | Icebreaker | 0.80% | ~384 |
-| History Major | 0.80% | ~621 |
+| History Major | 0.80% | ~622 |
 | A Sophisticated Mallet | 0.80% | ~384 |
 | Read Owl About It | 0.70% | ~544 |
 | Gotham's Greatest Depths | 0.60% | ~288 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 936)
 | Element of Surprise | 0.20% | ~96 |
 | It's Nice to Be Wanted | 0.20% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,687 (Ranked 99)  
+Progressed: 77,688 (Ranked 99)  
 Completed: 124 (0.16%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 124 (0.16%) (Ranked 270)
 | 2023-12-02 | 77,577 | 124 |
 | 2023-12-03 | 77,643 | 124 |
 | 2023-12-04 | 77,678 | 124 |
-| 2023-12-05 | 77,687 | 124 |
+| 2023-12-05 | 77,688 | 124 |
 ## Awards
 Max (Great Boss Battles): 2,991  (Ranked 98)  
 Sum: 5,109 (Ranked 140)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 3659,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3359,9 +3359,9 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 17606,
+  "EOS_Progressed": 17608,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -14774,6 +14774,11 @@
       "Time": "2023-12-05T02:04:51.8845286+00:00",
       "NumProgressed": 17606,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-05T03:09:09.8671613+00:00",
+      "NumProgressed": 17608,
+      "NumCompleted": 49
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -14928,9 +14933,9 @@
       "ID": "WinNearCrystals",
       "SetID": "cfbk359",
       "Name": "Sparkdew Crystals",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "WinNearDangerous",
@@ -15072,9 +15077,9 @@
       "ID": "WinOnMoorlands",
       "SetID": "cfbk359",
       "Name": "The Scarlet Orchard",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 53
     },
     {
       "ID": "WinPrestige10",
@@ -15257,15 +15262,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17606,
+      "Progressed": 17608,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-04T17:58:07.9409357+00:00",
-  "LastChanged_Achievements": "2023-12-05T02:33:10.3067604+00:00",
+  "LastChanged_Achievements": "2023-12-05T03:09:09.8671611+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:14.3162798+00:00",
-  "LastUpdate_Ratings": "2023-12-05T02:22:27.7203752+00:00",
-  "LastUpdate_Achievements": "2023-12-05T02:33:10.3068412+00:00"
+  "LastUpdate_Ratings": "2023-12-05T02:58:41.7321736+00:00",
+  "LastUpdate_Achievements": "2023-12-05T03:09:09.8672405+00:00"
 }

@@ -18,10 +18,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Overcoming Difficulty | 0.30% | ~53 |
 | Watchtower | 0.30% | ~53 |
 | The Marshlands | 0.30% | ~53 |
+| The Scarlet Orchard | 0.30% | ~53 |
 | Taking Action | 0.30% | ~53 |
 | No Deaths | 0.30% | ~53 |
 | Ruined Armory | 0.20% | ~35 |
 | Ancient Battleground | 0.20% | ~35 |
+| Sparkdew Crystals | 0.20% | ~35 |
 | Fertile Meadows | 0.20% | ~35 |
 | Monastery of the Holy Flame | 0.20% | ~35 |
 | Royal Outpost | 0.20% | ~35 |
@@ -29,7 +31,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Statue of the Forefathers | 0.20% | ~35 |
 | Corrosive Torrent | 0.20% | ~35 |
 | Coral Forest | 0.20% | ~35 |
-| The Scarlet Orchard | 0.20% | ~35 |
 | Trade Baron | 0.20% | ~35 |
 | Fox Utopia | 0.20% | ~35 |
 | Serving Ale | 0.10% | ~18 |
@@ -45,7 +46,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Against All Odds | 0.10% | ~18 |
 | Bandit Camp | 0.10% | ~18 |
 | Barren Lands | 0.10% | ~18 |
-| Sparkdew Crystals | 0.10% | ~18 |
 | Dangerous Lands | 0.10% | ~18 |
 | Fishmen Ritual Site | 0.10% | ~18 |
 | Forbidden Lands | 0.10% | ~18 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.00% | ~0 |
 | Treasure | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,606 (Ranked 146)  
+Progressed: 17,608 (Ranked 146)  
 Completed: 49 (0.28%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 49 (0.28%) (Ranked 244)
 | 2023-12-02 | 17,567 | 49 |
 | 2023-12-03 | 17,585 | 49 |
 | 2023-12-04 | 17,605 | 49 |
-| 2023-12-05 | 17,606 | 49 |
+| 2023-12-05 | 17,608 | 49 |
 ## Awards
 Max (Quickly Understood Controls): 441  (Ranked 223)  
 Sum: 3,242 (Ranked 173)  

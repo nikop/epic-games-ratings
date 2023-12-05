@@ -7239,9 +7239,9 @@
       "Count": 510
     }
   ],
-  "EOS_Progressed": 730318,
+  "EOS_Progressed": 730323,
   "EOS_Completed": 2463,
-  "EOS_NewPlayers": 3487,
+  "EOS_NewPlayers": 3484,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -33434,6 +33434,11 @@
       "Time": "2023-12-05T02:32:48.6095273+00:00",
       "NumProgressed": 730318,
       "NumCompleted": 2463
+    },
+    {
+      "Time": "2023-12-05T03:08:48.4712987+00:00",
+      "NumProgressed": 730323,
+      "NumCompleted": 2463
     }
   ],
   "TotalAchievements": 51,
@@ -33627,9 +33632,9 @@
       "ID": "ach_investigator",
       "SetID": "7km39fm",
       "Name": "Sole Survivor",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2191
+      "UsersEstimate": 2921
     },
     {
       "ID": "ach_jumbo_keyring",
@@ -33852,13 +33857,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 730318,
+      "Progressed": 730323,
       "Completed": 2463
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 55860,
+      "Progressed": 55865,
       "Completed": 36628
     }
   ],
@@ -33866,8 +33871,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-12-05T01:45:41.4460983+00:00",
-  "LastChanged_Achievements": "2023-12-05T02:32:48.6095268+00:00",
+  "LastChanged_Achievements": "2023-12-05T03:08:48.4712981+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:31.1640976+00:00",
-  "LastUpdate_Ratings": "2023-12-05T02:21:04.8442618+00:00",
-  "LastUpdate_Achievements": "2023-12-05T02:32:48.6097409+00:00"
+  "LastUpdate_Ratings": "2023-12-05T02:57:18.8826121+00:00",
+  "LastUpdate_Achievements": "2023-12-05T03:08:48.4714645+00:00"
 }

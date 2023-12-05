@@ -862,9 +862,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 355292,
+  "EOS_Progressed": 355293,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 921,
+  "EOS_NewPlayers": 920,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26847,6 +26847,11 @@
       "Time": "2023-12-05T02:30:14.0798605+00:00",
       "NumProgressed": 355292,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-05T03:06:13.5675409+00:00",
+      "NumProgressed": 355293,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -27066,7 +27071,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 163434
+      "UsersEstimate": 163435
     },
     {
       "ID": "ach028",
@@ -27194,7 +27199,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24870
+      "UsersEstimate": 24871
     },
     {
       "ID": "ach044",
@@ -27218,7 +27223,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24870
+      "UsersEstimate": 24871
     },
     {
       "ID": "ach047",
@@ -27466,7 +27471,7 @@
       "Name": "People Person",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24870
+      "UsersEstimate": 24871
     },
     {
       "ID": "ach079",
@@ -27497,7 +27502,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 355292,
+      "Progressed": 355293,
       "Completed": 7
     }
   ],
@@ -27505,8 +27510,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-12-05T00:02:46.8597708+00:00",
-  "LastChanged_Achievements": "2023-12-05T02:30:14.0798602+00:00",
+  "LastChanged_Achievements": "2023-12-05T03:06:13.5675405+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:09.0169735+00:00",
-  "LastUpdate_Ratings": "2023-12-05T02:26:54.9314064+00:00",
-  "LastUpdate_Achievements": "2023-12-05T02:30:14.0800451+00:00"
+  "LastUpdate_Ratings": "2023-12-05T03:02:54.5607906+00:00",
+  "LastUpdate_Achievements": "2023-12-05T03:06:13.5677844+00:00"
 }

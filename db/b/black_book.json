@@ -2,13 +2,13 @@
   "ID": "8211dc6089af4542926b7a8137b9079e",
   "Name": "Black Book",
   "ProductSlug": "black-book",
-  "Ranking_Rating": 315,
+  "Ranking_Rating": 316,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
     "PcReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -668,9 +668,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 58031,
+  "EOS_Progressed": 58034,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 1564,
+  "EOS_NewPlayers": 1565,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -12058,6 +12058,11 @@
       "Time": "2023-12-05T02:31:00.5528378+00:00",
       "NumProgressed": 58031,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-05T03:07:00.7262449+00:00",
+      "NumProgressed": 58034,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -12094,7 +12099,7 @@
       "Name": "Aspen Tree",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 8124
+      "UsersEstimate": 8125
     },
     {
       "ID": "BAD_END",
@@ -12126,7 +12131,7 @@
       "Name": "Card Player",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4642
+      "UsersEstimate": 4643
     },
     {
       "ID": "CHEATER",
@@ -12142,7 +12147,7 @@
       "Name": "Cow Level",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 6383
+      "UsersEstimate": 6384
     },
     {
       "ID": "DEAD_MAN",
@@ -12190,7 +12195,7 @@
       "Name": "Scientist",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 6383
+      "UsersEstimate": 6384
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -12246,7 +12251,7 @@
       "Name": "Healer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 8124
+      "UsersEstimate": 8125
     },
     {
       "ID": "HERBS_2",
@@ -12270,7 +12275,7 @@
       "Name": "Initiation",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 16249
+      "UsersEstimate": 16250
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -12286,7 +12291,7 @@
       "Name": "Dead Friend",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4642
+      "UsersEstimate": 4643
     },
     {
       "ID": "MERMAID_NOT_FREE",
@@ -12350,7 +12355,7 @@
       "Name": "Pine Tree",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4642
+      "UsersEstimate": 4643
     },
     {
       "ID": "PROSHKA_LOYAL",
@@ -12398,7 +12403,7 @@
       "Name": "Collector",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4642
+      "UsersEstimate": 4643
     },
     {
       "ID": "TALES_3",
@@ -12430,7 +12435,7 @@
       "Name": "Wolf",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4642
+      "UsersEstimate": 4643
     },
     {
       "ID": "WORD_MASTER",
@@ -12469,15 +12474,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 58031,
+      "Progressed": 58034,
       "Completed": 57
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-12-01T11:58:05.6647761+00:00",
-  "LastChanged_Achievements": "2023-12-05T02:31:00.5528373+00:00",
+  "LastChanged_Achievements": "2023-12-05T03:07:00.7262444+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:55.6045759+00:00",
-  "LastUpdate_Ratings": "2023-12-05T02:25:02.0068869+00:00",
-  "LastUpdate_Achievements": "2023-12-05T02:31:00.552906+00:00"
+  "LastUpdate_Ratings": "2023-12-05T03:01:13.8607337+00:00",
+  "LastUpdate_Achievements": "2023-12-05T03:07:00.7263647+00:00"
 }

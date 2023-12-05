@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12174,
+  "EOS_Progressed": 12176,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 2241,
+  "EOS_NewPlayers": 2239,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -3178,6 +3178,11 @@
       "Time": "2023-12-05T02:28:28.1009147+00:00",
       "NumProgressed": 12174,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-12-05T03:04:27.957999+00:00",
+      "NumProgressed": 12176,
+      "NumCompleted": 42
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -3214,7 +3219,7 @@
       "Name": "Morbidly Curious",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "SAVE_EVERYONE_1_1",
@@ -3246,7 +3251,7 @@
       "Name": "Secrets Out",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "UNLOCK_ALL_4_DOORS_1_3",
@@ -3269,7 +3274,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 12174,
+      "Progressed": 12176,
       "Completed": 42
     }
   ],
@@ -3277,8 +3282,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-12-04T13:58:48.5940056+00:00",
-  "LastChanged_Achievements": "2023-12-05T02:28:28.1009143+00:00",
+  "LastChanged_Achievements": "2023-12-05T03:04:27.9579987+00:00",
   "LastUpdate_AppInfo": "2023-11-30T16:57:25.9154897+00:00",
-  "LastUpdate_Ratings": "2023-12-05T02:22:41.9475768+00:00",
-  "LastUpdate_Achievements": "2023-12-05T02:28:28.1009665+00:00"
+  "LastUpdate_Ratings": "2023-12-05T02:58:55.9354854+00:00",
+  "LastUpdate_Achievements": "2023-12-05T03:04:27.9580185+00:00"
 }

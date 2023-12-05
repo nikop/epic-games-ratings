@@ -189,9 +189,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7425,
+  "EOS_Progressed": 7426,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 545,
+  "EOS_NewPlayers": 542,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5554,6 +5554,11 @@
       "Time": "2023-12-05T02:05:23.2446178+00:00",
       "NumProgressed": 7425,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-05T03:09:55.194224+00:00",
+      "NumProgressed": 7426,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5614,7 +5619,7 @@
       "Name": "Eavesdropper",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ExplosivePersonality",
@@ -5638,7 +5643,7 @@
       "Name": "First Time?",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2153
+      "UsersEstimate": 2154
     },
     {
       "ID": "FuneralForTheDeath",
@@ -5734,15 +5739,15 @@
       "Name": "One-Star Man",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ScorchSquad",
       "SetID": "acc6ea0",
       "Name": "Scorch Squaaad!",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 67
     },
     {
       "ID": "TheFloorIsLava",
@@ -5774,7 +5779,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -5837,7 +5842,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7425,
+      "Progressed": 7426,
       "Completed": 14
     }
   ],
@@ -5845,8 +5850,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-04T17:58:34.5541174+00:00",
-  "LastChanged_Achievements": "2023-12-05T02:33:56.0118814+00:00",
+  "LastChanged_Achievements": "2023-12-05T03:09:55.1942236+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-05T02:23:08.474096+00:00",
-  "LastUpdate_Achievements": "2023-12-05T02:33:56.0119251+00:00"
+  "LastUpdate_Ratings": "2023-12-05T02:59:21.9473647+00:00",
+  "LastUpdate_Achievements": "2023-12-05T03:09:55.1942593+00:00"
 }

@@ -6,21 +6,21 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~34,837 |
+| Simoon | 34.00% | ~34,838 |
 | Just The Two of Us | 33.00% | ~33,813 |
 | Up On High | 25.00% | ~25,616 |
 | Under The Hood | 25.00% | ~25,616 |
-| Got Your Nose | 24.00% | ~24,591 |
-| The Gift of Gab | 24.00% | ~24,591 |
+| Got Your Nose | 24.00% | ~24,592 |
+| The Gift of Gab | 24.00% | ~24,592 |
 | Wrapping Up | 22.00% | ~22,542 |
-| More Than A Box Of Sand | 18.00% | ~18,443 |
+| More Than A Box Of Sand | 18.00% | ~18,444 |
 | The Dunboyne | 17.00% | ~17,419 |
 | Badge Hobbyist | 17.00% | ~17,419 |
 | Chum Novice | 16.00% | ~16,394 |
 | Silver-Tongued Sable | 16.00% | ~16,394 |
 | Sticky Paws | 16.00% | ~16,394 |
 | Bubble Up | 16.00% | ~16,394 |
-| Thread The Needle | 15.00% | ~15,369 |
+| Thread The Needle | 15.00% | ~15,370 |
 | Power to the People | 14.00% | ~14,345 |
 | Nesting Giant | 14.00% | ~14,345 |
 | Take That! | 13.00% | ~13,320 |
@@ -45,11 +45,11 @@ Number of Ratings: 43  (23.09.2022)
 | Glider on the Storm | 8.00% | ~8,197 |
 | Squeeze One Out | 8.00% | ~8,197 |
 | Dune Rider | 8.00% | ~8,197 |
-| Amateur Historian | 7.00% | ~7,172 |
-| The Beetle Mask | 7.00% | ~7,172 |
-| The Guard Mask | 7.00% | ~7,172 |
-| Smoked Out | 7.00% | ~7,172 |
-| A Hard Place | 7.00% | ~7,172 |
+| Amateur Historian | 7.00% | ~7,173 |
+| The Beetle Mask | 7.00% | ~7,173 |
+| The Guard Mask | 7.00% | ~7,173 |
+| Smoked Out | 7.00% | ~7,173 |
+| A Hard Place | 7.00% | ~7,173 |
 | The Climber Mask | 6.00% | ~6,148 |
 | The Merchant Mask | 6.00% | ~6,148 |
 | Honorary Chum | 6.00% | ~6,148 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~3,074 |
 | Vivacious Vivarium | 2.00% | ~2,049 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102,463 (Ranked 88)  
+Progressed: 102,465 (Ranked 88)  
 Completed: 1,035 (1.01%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 1,035 (1.01%) (Ranked 168)
 | 2023-12-02 | 102,050 | 1,033 |
 | 2023-12-03 | 102,316 | 1,034 |
 | 2023-12-04 | 102,451 | 1,035 |
-| 2023-12-05 | 102,463 | 1,035 |
+| 2023-12-05 | 102,465 | 1,035 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 521)  
 Sum: 94 (Ranked 456)  

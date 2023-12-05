@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2021-09-23T13:00:00+00:00",
     "PcReleaseDate": "2021-09-23T13:00:00+00:00",
@@ -515,9 +515,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 102463,
+  "EOS_Progressed": 102465,
   "EOS_Completed": 1035,
-  "EOS_NewPlayers": 1194,
+  "EOS_NewPlayers": 1192,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -26655,6 +26655,11 @@
       "Time": "2023-12-05T02:33:52.1218985+00:00",
       "NumProgressed": 102463,
       "NumCompleted": 1035
+    },
+    {
+      "Time": "2023-12-05T03:09:51.3365422+00:00",
+      "NumProgressed": 102465,
+      "NumCompleted": 1035
     }
   ],
   "TotalAchievements": 56,
@@ -26698,7 +26703,7 @@
       "Name": "Amateur Historian",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 7172
+      "UsersEstimate": 7173
     },
     {
       "ID": "ach_005_machinist_mask",
@@ -26714,7 +26719,7 @@
       "Name": "The Beetle Mask",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 7172
+      "UsersEstimate": 7173
     },
     {
       "ID": "ach_007_climbers_mask",
@@ -26738,7 +26743,7 @@
       "Name": "The Guard Mask",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 7172
+      "UsersEstimate": 7173
     },
     {
       "ID": "ach_010_scrapper_mask",
@@ -26842,7 +26847,7 @@
       "Name": "Thread The Needle",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 15369
+      "UsersEstimate": 15370
     },
     {
       "ID": "ach_023_open_sandwyrm",
@@ -26906,7 +26911,7 @@
       "Name": "Smoked Out",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7172
+      "UsersEstimate": 7173
     },
     {
       "ID": "ach_031_enter_hercules_beetle_nest",
@@ -26922,7 +26927,7 @@
       "Name": "Got Your Nose",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 24591
+      "UsersEstimate": 24592
     },
     {
       "ID": "ach_033_collect_slicer_beetle_poo",
@@ -26938,7 +26943,7 @@
       "Name": "A Hard Place",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7172
+      "UsersEstimate": 7173
     },
     {
       "ID": "ach_035_collect_bike_parts_1",
@@ -26978,7 +26983,7 @@
       "Name": "Simoon",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 34837
+      "UsersEstimate": 34838
     },
     {
       "ID": "ach_040_customise_hoverbike",
@@ -26994,7 +26999,7 @@
       "Name": "The Gift of Gab",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 24591
+      "UsersEstimate": 24592
     },
     {
       "ID": "ach_042_talk_to_npcs_2",
@@ -27018,7 +27023,7 @@
       "Name": "More Than A Box Of Sand",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 18443
+      "UsersEstimate": 18444
     },
     {
       "ID": "ach_045_open_chests_2",
@@ -27113,15 +27118,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 102463,
+      "Progressed": 102465,
       "Completed": 1035
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-12-03T22:58:57.1479092+00:00",
-  "LastChanged_Achievements": "2023-12-05T02:33:52.1218981+00:00",
+  "LastChanged_Achievements": "2023-12-05T03:09:51.3365418+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:38.0200623+00:00",
-  "LastUpdate_Ratings": "2023-12-05T02:24:11.5394101+00:00",
-  "LastUpdate_Achievements": "2023-12-05T02:33:52.1220247+00:00"
+  "LastUpdate_Ratings": "2023-12-05T03:00:23.4349499+00:00",
+  "LastUpdate_Achievements": "2023-12-05T03:09:51.3367144+00:00"
 }

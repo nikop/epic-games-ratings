@@ -2,7 +2,7 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 991,
+  "Ranking_Rating": 992,
   "Ranking_Popularity": 476,
   "Ranking_PopularitySum": 427,
   "Ranking_EOS_Progress": 212,
@@ -9274,9 +9274,9 @@
       "ID": "prestigious",
       "SetID": "3nl4bcg",
       "Name": "Prestigious",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1611
+      "UsersEstimate": 1641
     },
     {
       "ID": "prestigiousx10",
@@ -9491,8 +9491,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-04T21:01:40.580953+00:00",
-  "LastChanged_Achievements": "2023-12-05T02:27:39.2801305+00:00",
+  "LastChanged_Achievements": "2023-12-05T03:03:38.5080818+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:05.1164011+00:00",
-  "LastUpdate_Ratings": "2023-12-05T02:25:25.7287595+00:00",
-  "LastUpdate_Achievements": "2023-12-05T02:27:39.2802195+00:00"
+  "LastUpdate_Ratings": "2023-12-05T03:01:37.4068334+00:00",
+  "LastUpdate_Achievements": "2023-12-05T03:03:38.5082098+00:00"
 }
