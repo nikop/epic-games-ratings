@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Trinity | 15.00% | ~37 |
-| Break Out | 14.00% | ~34 |
+| Break Out | 14.00% | ~35 |
 | Find Allies | 12.00% | ~30 |
 | Powerful Allies | 11.00% | ~27 |
 | A Taste of Wrath | 11.00% | ~27 |
@@ -20,8 +20,8 @@
 | Stone Collection | 9.00% | ~22 |
 | Fashion Victim | 8.00% | ~20 |
 | Essence Blow | 7.00% | ~17 |
-| Alchemist | 7.00% | ~17 |
 | Calm before the Storm | 6.00% | ~15 |
+| Alchemist | 6.00% | ~15 |
 | To Battle | 5.00% | ~12 |
 | Godslayer | 5.00% | ~12 |
 | The Mentor | 5.00% | ~12 |
@@ -41,7 +41,7 @@
 | Shardbearer | 0.80% | ~2 |
 | Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246 (Ranked 375)  
+Progressed: 247 (Ranked 375)  
 Completed: 2 (0.81%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,3 +95,4 @@ Completed: 2 (0.81%) (Ranked 181)
 | 2023-12-02 | 242 | 2 |
 | 2023-12-03 | 245 | 2 |
 | 2023-12-04 | 246 | 2 |
+| 2023-12-05 | 247 | 2 |

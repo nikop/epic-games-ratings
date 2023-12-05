@@ -8,13 +8,13 @@
 | Thalya – Simply Immortal | 88.00% | ~464 |
 | For the Horde! | 82.00% | ~432 |
 | Hammer Time, Round Two | 80.00% | ~422 |
-| The Hellwoods | 75.00% | ~395 |
+| The Hellwoods | 76.00% | ~401 |
+| Experienced Thalya | 72.00% | ~379 |
 | The Plains of Strothalm | 71.00% | ~374 |
-| Experienced Thalya | 71.00% | ~374 |
 | Thalya's Concentrated Fury | 69.00% | ~364 |
 | Bad Elves Go Everywhere | 69.00% | ~364 |
 | Heroes’ Gorge | 65.00% | ~343 |
-| Master of Magic | 63.00% | ~332 |
+| Master of Magic | 64.00% | ~337 |
 | Unicorn steaks – fresh off the hoof! | 61.00% | ~321 |
 | Magic Accidents | 58.00% | ~306 |
 | The Ascent | 56.00% | ~295 |

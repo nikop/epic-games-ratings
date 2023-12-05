@@ -15,6 +15,7 @@ Rating: 4.61 (Ranked 387)
 | From Friends to Family | 3.00% | ~167 |
 | Valley of Wonders | 2.00% | ~111 |
 | There Can Only Be One! | 2.00% | ~111 |
+| Enchanted Archipelago | 2.00% | ~111 |
 | Stronger Together | 2.00% | ~111 |
 | Magical Synergy | 2.00% | ~111 |
 | Seat of Power | 2.00% | ~111 |
@@ -26,7 +27,6 @@ Rating: 4.61 (Ranked 387)
 | Chaos Surge | 2.00% | ~111 |
 | Return of the Wizard King | 1.00% | ~56 |
 | Arch Mage | 1.00% | ~56 |
-| Enchanted Archipelago | 1.00% | ~56 |
 | Digging for Treasure | 1.00% | ~56 |
 | Crimson Caldera | 1.00% | ~56 |
 | Preparation Is Everything | 1.00% | ~56 |

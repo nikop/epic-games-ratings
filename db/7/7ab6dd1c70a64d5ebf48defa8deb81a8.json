@@ -4,8 +4,8 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246,
+  "EOS_Progressed": 247,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -980,6 +980,11 @@
       "Time": "2023-12-04T01:57:59.396384+00:00",
       "NumProgressed": 246,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-05T18:09:35.8813294+00:00",
+      "NumProgressed": 247,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 36,
@@ -991,7 +996,7 @@
       "Name": "Break Out",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_02",
@@ -1221,9 +1226,9 @@
       "ID": "ACH_30",
       "SetID": "efe2lj",
       "Name": "Alchemist",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_31",
@@ -1278,14 +1283,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 246,
+      "Progressed": 247,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-05T17:09:41.4324904+00:00",
+  "LastChanged_Achievements": "2023-12-05T18:09:35.8813292+00:00",
   "LastUpdate_AppInfo": "2023-12-04T20:57:12.3755943+00:00",
-  "LastUpdate_Ratings": "2023-12-05T17:00:29.7265737+00:00",
-  "LastUpdate_Achievements": "2023-12-05T17:09:41.4325181+00:00"
+  "LastUpdate_Ratings": "2023-12-05T18:00:31.9272646+00:00",
+  "LastUpdate_Achievements": "2023-12-05T18:09:35.8813541+00:00"
 }

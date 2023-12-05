@@ -2,13 +2,13 @@
   "ID": "b4565296c22549e4830c13bc7506642d",
   "Name": "Far Cry 6 Standard Edition",
   "ProductSlug": "far-cry-6",
-  "Ranking_Rating": 648,
+  "Ranking_Rating": 663,
   "Ranking_Popularity": 156,
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 781,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 474,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 473,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-11-29T15:00:00+00:00",
     "PcReleaseDate": "2021-10-07T04:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.46,
+  "Rating": 4.45,
   "NumberOfRatings": 12290,
   "RatingHistory": [
     {
@@ -8789,11 +8789,17 @@
       "Rating": 4.46,
       "NumberOfAwards": 7464,
       "NumberOfAwardsMax": 970
+    },
+    {
+      "Time": "2023-12-05T18:02:27.1614147+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 7467,
+      "NumberOfAwardsMax": 972
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7464,
-  "NumberOfAwardsMax": 970,
+  "NumberOfAwards": 7467,
+  "NumberOfAwardsMax": 972,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -8812,7 +8818,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 970
+      "Count": 972
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8836,7 +8842,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 951
+      "Count": 952
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8862,8 +8868,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:07.3905482+00:00",
-  "LastChanged": "2023-12-05T15:01:43.2477602+00:00",
+  "LastChanged": "2023-12-05T18:02:27.1614145+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:56.7693967+00:00",
-  "LastUpdate_Ratings": "2023-12-05T17:00:35.2529331+00:00",
-  "LastUpdate_Achievements": "2023-12-05T17:08:21.7611317+00:00"
+  "LastUpdate_Ratings": "2023-12-05T18:02:27.1614154+00:00",
+  "LastUpdate_Achievements": "2023-12-05T18:08:11.1702351+00:00"
 }

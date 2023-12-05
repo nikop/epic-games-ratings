@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1288,
+  "EOS_Progressed": 1289,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
@@ -2425,6 +2425,11 @@
       "Time": "2023-12-05T06:04:25.416878+00:00",
       "NumProgressed": 1288,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-05T18:04:18.7746405+00:00",
+      "NumProgressed": 1289,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -2637,7 +2642,7 @@
       "Name": "Effective Efficiency",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -2676,14 +2681,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1288,
+      "Progressed": 1289,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-12-05T17:04:19.7395388+00:00",
+  "LastChanged_Achievements": "2023-12-05T18:04:18.77464+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:49.9907014+00:00",
-  "LastUpdate_Ratings": "2023-12-05T17:00:20.1037233+00:00",
-  "LastUpdate_Achievements": "2023-12-05T17:04:19.7395671+00:00"
+  "LastUpdate_Ratings": "2023-12-05T18:00:21.5146539+00:00",
+  "LastUpdate_Achievements": "2023-12-05T18:04:18.7746693+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 420,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -855,7 +855,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 4040,
+  "EOS_Progressed": 4041,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
@@ -6580,6 +6580,11 @@
       "Time": "2023-12-05T07:05:41.3605014+00:00",
       "NumProgressed": 4040,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-05T18:05:14.2337699+00:00",
+      "NumProgressed": 4041,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -6624,7 +6629,7 @@
       "Name": "MVP",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "achievement_14",
@@ -6632,7 +6637,7 @@
       "Name": "ROTY",
       "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "achievement_15",
@@ -6728,7 +6733,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "achievement_7",
@@ -6759,7 +6764,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 4040,
+      "Progressed": 4041,
       "Completed": 0
     }
   ],
@@ -6767,8 +6772,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-12-04T04:59:10.244223+00:00",
-  "LastChanged_Achievements": "2023-12-05T17:05:11.0756333+00:00",
+  "LastChanged_Achievements": "2023-12-05T18:05:14.2337682+00:00",
   "LastUpdate_AppInfo": "2023-11-30T06:57:22.8292477+00:00",
-  "LastUpdate_Ratings": "2023-12-05T16:59:34.0073753+00:00",
-  "LastUpdate_Achievements": "2023-12-05T17:05:11.0756768+00:00"
+  "LastUpdate_Ratings": "2023-12-05T17:59:29.9462392+00:00",
+  "LastUpdate_Achievements": "2023-12-05T18:05:14.2338179+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "40257023d2d44231ac722108f30ab717",
   "Name": "Orten Was The Case",
   "ProductSlug": "orten-was-the-case-d108fb",
-  "Ranking_EOS_Progress": 599,
+  "Ranking_EOS_Progress": 600,
   "Ranking_EOS_Completed": 53,
   "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-11-29T00:00:00+00:00",
     "PcReleaseDate": "2023-11-29T00:00:00+00:00",
@@ -244,8 +244,8 @@
   ],
   "FirstSeen": "2023-12-03T01:50:41.1036238+00:00",
   "FirstSeenAchievements": "2023-10-25T12:03:08.1004674+00:00",
-  "LastChanged_Achievements": "2023-12-05T17:08:59.5179989+00:00",
+  "LastChanged_Achievements": "2023-12-05T18:08:50.9838841+00:00",
   "LastUpdate_AppInfo": "2023-11-29T13:56:57.5675213+00:00",
-  "LastUpdate_Ratings": "2023-12-05T16:57:57.8343475+00:00",
-  "LastUpdate_Achievements": "2023-12-05T17:08:59.5180095+00:00"
+  "LastUpdate_Ratings": "2023-12-05T17:57:46.4054973+00:00",
+  "LastUpdate_Achievements": "2023-12-05T18:08:50.9838928+00:00"
 }

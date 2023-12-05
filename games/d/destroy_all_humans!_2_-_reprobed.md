@@ -6,6 +6,7 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Ducks in a Row, Fish in a Barrel | 7.00% | ~1 |
 | Mash Machine | 0.00% | ~0 |
 | Ultimate Smoothie | 0.00% | ~0 |
 | Perfect Probulator | 0.00% | ~0 |
@@ -20,7 +21,6 @@ Number of Ratings: 90  (23.09.2022)
 | Forbidden Donut | 0.00% | ~0 |
 | Hidden Human Hive Harvest | 0.00% | ~0 |
 | Toilet Break | 0.00% | ~0 |
-| Ducks in a Row, Fish in a Barrel | 0.00% | ~0 |
 | Albion Bridge Is for Falling Down | 0.00% | ~0 |
 | Lie Back and Think of Albion | 0.00% | ~0 |
 | Rock of the Bay | 0.00% | ~0 |

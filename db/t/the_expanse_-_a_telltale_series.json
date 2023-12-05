@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15911,
+  "EOS_Progressed": 15913,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -13128,6 +13128,11 @@
       "Time": "2023-12-05T17:06:03.4323762+00:00",
       "NumProgressed": 15911,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-12-05T18:06:09.9106111+00:00",
+      "NumProgressed": 15913,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13164,7 +13169,7 @@
       "Name": "Data Archivist",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "13",
@@ -13172,7 +13177,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1909
+      "UsersEstimate": 1910
     },
     {
       "ID": "14",
@@ -13258,9 +13263,9 @@
       "ID": "23",
       "SetID": "458bbdk",
       "Name": "Heal Thy Medic",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 796
+      "UsersEstimate": 637
     },
     {
       "ID": "24",
@@ -13276,7 +13281,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "26",
@@ -13419,13 +13424,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15911,
+      "Progressed": 15913,
       "Completed": 40
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1865,
+      "Progressed": 1867,
       "Completed": 822
     }
   ],
@@ -13433,8 +13438,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-03T18:02:39.8331355+00:00",
-  "LastChanged_Achievements": "2023-12-05T17:06:03.4323755+00:00",
+  "LastChanged_Achievements": "2023-12-05T18:06:09.9106106+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-05T17:03:05.7158203+00:00",
-  "LastUpdate_Achievements": "2023-12-05T17:06:03.4324643+00:00"
+  "LastUpdate_Ratings": "2023-12-05T18:02:59.0408071+00:00",
+  "LastUpdate_Achievements": "2023-12-05T18:06:09.9107206+00:00"
 }

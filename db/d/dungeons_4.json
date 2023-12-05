@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 125,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1432,17 +1432,17 @@
       "ID": "ach_main03demon_completed",
       "SetID": "4hg22ll",
       "Name": "The Hellwoods",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 401
     },
     {
       "ID": "ach_main03demon_doors",
       "SetID": "4hg22ll",
       "Name": "Master of Magic",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 332
+      "UsersEstimate": 337
     },
     {
       "ID": "ach_main03demon_spells",
@@ -1488,9 +1488,9 @@
       "ID": "ach_main05evil_thalyalevel",
       "SetID": "4hg22ll",
       "Name": "Experienced Thalya",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 374
+      "UsersEstimate": 379
     },
     {
       "ID": "ach_main05evil_unicorn",
@@ -1879,8 +1879,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-05T17:08:44.8649136+00:00",
+  "LastChanged_Achievements": "2023-12-05T18:08:35.5237272+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:15.3424787+00:00",
-  "LastUpdate_Ratings": "2023-12-05T17:00:25.6763894+00:00",
-  "LastUpdate_Achievements": "2023-12-05T17:08:44.8649587+00:00"
+  "LastUpdate_Ratings": "2023-12-05T18:00:27.7400217+00:00",
+  "LastUpdate_Achievements": "2023-12-05T18:08:35.5237824+00:00"
 }

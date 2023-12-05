@@ -2,10 +2,10 @@
   "ID": "87b2e2971d6b485085001a91c73a9718",
   "Name": "Kaze and the Wild Masks",
   "ProductSlug": "kaze-and-the-wild-masks-94a27d",
-  "Ranking_EOS_Progress": 616,
+  "Ranking_EOS_Progress": 618,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 290,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-11-30T08:00:00+00:00",
     "PcReleaseDate": "2021-03-26T08:00:00+00:00",
@@ -244,9 +244,9 @@
       "ID": "5",
       "SetID": "279eo25",
       "Name": "Card Addict",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "6",
@@ -291,8 +291,8 @@
   ],
   "FirstSeen": "2023-12-03T09:57:17.9885642+00:00",
   "FirstSeenAchievements": "2023-11-20T15:03:30.7239426+00:00",
-  "LastChanged_Achievements": "2023-12-05T17:08:39.1680583+00:00",
+  "LastChanged_Achievements": "2023-12-05T18:08:29.4181504+00:00",
   "LastUpdate_AppInfo": "2023-12-04T15:57:13.2655185+00:00",
-  "LastUpdate_Ratings": "2023-12-05T16:58:51.6920329+00:00",
-  "LastUpdate_Achievements": "2023-12-05T17:08:39.1680719+00:00"
+  "LastUpdate_Ratings": "2023-12-05T17:58:44.6674804+00:00",
+  "LastUpdate_Achievements": "2023-12-05T18:08:29.4181672+00:00"
 }

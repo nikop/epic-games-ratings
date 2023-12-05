@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -199,9 +199,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 876,
+  "EOS_Progressed": 877,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2089,6 +2089,11 @@
       "Time": "2023-12-05T15:06:41.9448245+00:00",
       "NumProgressed": 876,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-05T18:05:50.6906094+00:00",
+      "NumProgressed": 877,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2141,7 +2146,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "BreakTheLoop",
@@ -2283,9 +2288,9 @@
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 114
+      "UsersEstimate": 123
     },
     {
       "ID": "LostMarshes",
@@ -2315,9 +2320,9 @@
       "ID": "MuseumExplorer",
       "SetID": "1n308hc",
       "Name": "Museum Explorer",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 70
     },
     {
       "ID": "MuseumVisitor",
@@ -2347,9 +2352,9 @@
       "ID": "NotWhatItSeems",
       "SetID": "1n308hc",
       "Name": "Not What It Seems",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 44
     },
     {
       "ID": "Overload",
@@ -2483,9 +2488,9 @@
       "ID": "TheHardWay",
       "SetID": "1n308hc",
       "Name": "The Hard Way",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "TheSpark",
@@ -2507,9 +2512,9 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 140
     },
     {
       "ID": "TouchGrass",
@@ -2572,7 +2577,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 876,
+      "Progressed": 877,
       "Completed": 1
     }
   ],
@@ -2580,8 +2585,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-05T02:22:43.8735927+00:00",
-  "LastChanged_Achievements": "2023-12-05T17:05:45.622482+00:00",
+  "LastChanged_Achievements": "2023-12-05T18:05:50.690609+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-05T16:58:56.8440356+00:00",
-  "LastUpdate_Achievements": "2023-12-05T17:05:45.6225257+00:00"
+  "LastUpdate_Ratings": "2023-12-05T17:58:50.2321649+00:00",
+  "LastUpdate_Achievements": "2023-12-05T18:05:50.6906706+00:00"
 }

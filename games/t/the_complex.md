@@ -15,13 +15,13 @@
 | Trust Me For Once | 28.00% | ~185 |
 | Lab Rat | 24.00% | ~158 |
 | Stalemate | 20.00% | ~132 |
-| Kindar Surprise | 17.00% | ~112 |
+| Kindar Surprise | 18.00% | ~119 |
 | MVP - Most Vanishing Person | 14.00% | ~92 |
 | Deadly Secret | 13.00% | ~86 |
 | Get Out Of This Alive | 10.00% | ~66 |
 | The Promise | 9.00% | ~59 |
 | People Pleaser | 9.00% | ~59 |
-| The Nano Glitches And The Martyr | 7.00% | ~46 |
+| The Nano Glitches And The Martyr | 8.00% | ~53 |
 | Second Chances | 7.00% | ~46 |
 | Not A People Person | 4.00% | ~26 |
 ## Popularity (Based on EOS Achievements)

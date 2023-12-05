@@ -2,10 +2,10 @@
   "ID": "08a9c02dda9c41a59230704e270c4c01",
   "Name": "Outbreak Lost Hope Broken Faith",
   "ProductSlug": "outbreak-lost-hope-broken-faith-77b3f9",
-  "Ranking_EOS_Progress": 623,
+  "Ranking_EOS_Progress": 624,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 474,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 473,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-10-11T14:00:00+00:00",
     "PcReleaseDate": "2023-10-11T14:00:00+00:00",
@@ -187,8 +187,8 @@
   ],
   "FirstSeen": "2023-10-20T21:02:31.2622202+00:00",
   "FirstSeenAchievements": "2023-08-09T15:02:36.7106798+00:00",
-  "LastChanged_Achievements": "2023-12-05T17:08:44.5194045+00:00",
+  "LastChanged_Achievements": "2023-12-05T18:08:35.095857+00:00",
   "LastUpdate_AppInfo": "2023-11-30T01:44:08.0991851+00:00",
-  "LastUpdate_Ratings": "2023-12-05T16:57:28.0634291+00:00",
-  "LastUpdate_Achievements": "2023-12-05T17:08:44.5194145+00:00"
+  "LastUpdate_Ratings": "2023-12-05T17:57:12.8811656+00:00",
+  "LastUpdate_Achievements": "2023-12-05T18:08:35.0958643+00:00"
 }

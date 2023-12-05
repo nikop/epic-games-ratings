@@ -26,7 +26,7 @@ Rating: 4.64 (Ranked 337)
 | Spent 15 Hours At The Alien Strip Club | 2.00% | ~493 |
 | Series Wrap on Suit-O | 2.00% | ~493 |
 | Bathe With A Giant Nude Alien | 2.00% | ~39 |
-| Eatin' Good in the Neighborhood | 1.00% | ~246 |
+| Eatin' Good in the Neighborhood | 1.00% | ~247 |
 | We Came, We Chainsaw, We Conquered | 1.00% | ~19 |
 | Gunning For Your Job | 0.80% | ~197 |
 | Mux Ado About Shipping | 0.80% | ~16 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 337)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,650 (Ranked 133)  
+Progressed: 24,651 (Ranked 133)  
 Completed: 14 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 14 (0.06%) (Ranked 313)
 | 2023-12-02 | 24,629 | 14 |
 | 2023-12-03 | 24,643 | 14 |
 | 2023-12-04 | 24,648 | 14 |
-| 2023-12-05 | 24,650 | 14 |
+| 2023-12-05 | 24,651 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

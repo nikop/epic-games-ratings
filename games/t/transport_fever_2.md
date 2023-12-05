@@ -1,7 +1,7 @@
 # Transport Fever 2
 [Store](https://store.epicgames.com/en-US/p/transport-fever-2)  
 [View Rawdata](../../db/t/transport_fever_2.json)  
-Rating: 4.68 (Ranked 256)  
+Rating: 4.68 (Ranked 257)  
 Number of Ratings: 180  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -37,8 +37,8 @@ Number of Ratings: 180  (23.09.2022)
 | City | 28.00% | ~536 |
 | The king of the sea | 28.00% | ~536 |
 | Transport tycoon | 23.00% | ~441 |
+| Old timer | 23.00% | ~441 |
 | Climate change | 22.00% | ~422 |
-| Old timer | 22.00% | ~422 |
 | The ugly smell of success | 22.00% | ~422 |
 | Heavily loaded | 21.00% | ~402 |
 | Bob Ross | 16.00% | ~307 |

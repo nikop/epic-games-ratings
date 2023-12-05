@@ -4,11 +4,11 @@
   "ProductSlug": "automachef",
   "Ranking_Rating": 810,
   "Ranking_Popularity": 515,
-  "Ranking_PopularitySum": 469,
+  "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 781,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 474,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 473,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-08-26T15:00:00+00:00",
     "PcReleaseDate": "2019-07-23T11:00:00+00:00",
@@ -651,6 +651,6 @@
   "FirstSeen": "2022-07-22T20:30:48.5612754+00:00",
   "LastChanged": "2023-11-04T17:57:59.4830793+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:39.7062918+00:00",
-  "LastUpdate_Ratings": "2023-12-05T16:58:23.0550775+00:00",
-  "LastUpdate_Achievements": "2023-12-05T17:04:10.1560727+00:00"
+  "LastUpdate_Ratings": "2023-12-05T17:58:13.564083+00:00",
+  "LastUpdate_Achievements": "2023-12-05T18:04:08.6299656+00:00"
 }

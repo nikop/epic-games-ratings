@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1663,9 +1663,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 13860,
+  "EOS_Progressed": 13861,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -15453,6 +15453,11 @@
       "Time": "2023-12-05T17:09:21.6007866+00:00",
       "NumProgressed": 13860,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-05T18:09:14.0356323+00:00",
+      "NumProgressed": 13861,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 35,
@@ -15464,7 +15469,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11365
+      "UsersEstimate": 11366
     },
     {
       "ID": "ACH02",
@@ -15520,7 +15525,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 7207
+      "UsersEstimate": 7208
     },
     {
       "ID": "ACH09",
@@ -15560,7 +15565,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2633
+      "UsersEstimate": 2634
     },
     {
       "ID": "ACH14",
@@ -15638,9 +15643,9 @@
       "ID": "ACH23",
       "SetID": "4ck5mbe",
       "Name": "All Dressed Up for San Fierro",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3742
+      "UsersEstimate": 3604
     },
     {
       "ID": "ACH24",
@@ -15743,7 +15748,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13860,
+      "Progressed": 13861,
       "Completed": 56
     }
   ],
@@ -15751,8 +15756,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-05T16:58:11.3187586+00:00",
-  "LastChanged_Achievements": "2023-12-05T17:09:21.6007862+00:00",
+  "LastChanged_Achievements": "2023-12-05T18:09:14.0356319+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:45.2117848+00:00",
-  "LastUpdate_Ratings": "2023-12-05T16:58:11.318759+00:00",
-  "LastUpdate_Achievements": "2023-12-05T17:09:21.6008604+00:00"
+  "LastUpdate_Ratings": "2023-12-05T17:58:01.1171001+00:00",
+  "LastUpdate_Achievements": "2023-12-05T18:09:14.0357426+00:00"
 }

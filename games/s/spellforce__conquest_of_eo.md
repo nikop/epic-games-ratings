@@ -59,6 +59,7 @@
 | Defeat Raith | 5.00% | ~2 |
 | Crypt of the Revenant | 5.00% | ~2 |
 | Tuscari Sea Portal | 5.00% | ~2 |
+| Fireforge | 5.00% | ~2 |
 | Master Alchemist | 5.00% | ~2 |
 | Master Artificer | 5.00% | ~2 |
 | Breaking the circle | 5.00% | ~2 |
@@ -66,7 +67,6 @@
 | Heroes | 5.00% | ~2 |
 | Friend of Uram Gor | 5.00% | ~2 |
 | Misty Coast Dragonbones | 3.00% | ~1 |
-| Fireforge | 3.00% | ~1 |
 | My Friends! | 3.00% | ~1 |
 | Master Necromancer | 3.00% | ~1 |
 | Hard Life | 0.00% | ~0 |

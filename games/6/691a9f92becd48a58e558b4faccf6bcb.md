@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost forever | 4.00% | ~12 |
+| Lost forever | 5.00% | ~15 |
 | A new HOME | 2.00% | ~6 |
 | At least you tried | 2.00% | ~6 |
 | Golden Carrot | 2.00% | ~6 |

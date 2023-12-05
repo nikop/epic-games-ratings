@@ -1143,9 +1143,9 @@
       "ID": "ending_1",
       "SetID": "d4f4pll",
       "Name": "The Nano Glitches And The Martyr",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 53
     },
     {
       "ID": "ending_2",
@@ -1231,9 +1231,9 @@
       "ID": "kindar_surprise",
       "SetID": "d4f4pll",
       "Name": "Kindar Surprise",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 112
+      "UsersEstimate": 119
     },
     {
       "ID": "not_a_people_person",
@@ -1288,8 +1288,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-12-05T17:09:02.0485278+00:00",
+  "LastChanged_Achievements": "2023-12-05T18:08:53.7587911+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:10.0081915+00:00",
-  "LastUpdate_Ratings": "2023-12-05T16:59:13.3453765+00:00",
-  "LastUpdate_Achievements": "2023-12-05T17:09:02.0485458+00:00"
+  "LastUpdate_Ratings": "2023-12-05T17:59:07.5008601+00:00",
+  "LastUpdate_Achievements": "2023-12-05T18:08:53.7588095+00:00"
 }

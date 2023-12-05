@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2100,9 +2100,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15646,
+  "EOS_Progressed": 15647,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17180,6 +17180,11 @@
       "Time": "2023-12-05T17:05:22.7161762+00:00",
       "NumProgressed": 15646,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-05T18:05:26.7718938+00:00",
+      "NumProgressed": 15647,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -17525,9 +17530,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
       "SetID": "9201eeb",
       "Name": "Ambitious",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 469
+      "UsersEstimate": 626
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ANCIENT",
@@ -17653,9 +17658,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
       "SetID": "7l38kb8",
       "Name": "Great",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 313
+      "UsersEstimate": 469
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_HOLY",
@@ -19926,21 +19931,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15646,
+      "Progressed": 15647,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15646,
+      "Progressed": 15647,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-05T01:45:43.8442323+00:00",
-  "LastChanged_Achievements": "2023-12-05T17:05:22.7161759+00:00",
+  "LastChanged_Achievements": "2023-12-05T18:05:26.7718934+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:20.3030051+00:00",
-  "LastUpdate_Ratings": "2023-12-05T16:57:51.2100569+00:00",
-  "LastUpdate_Achievements": "2023-12-05T17:05:22.7171459+00:00"
+  "LastUpdate_Ratings": "2023-12-05T17:57:38.5271398+00:00",
+  "LastUpdate_Achievements": "2023-12-05T18:05:26.7728019+00:00"
 }

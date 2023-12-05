@@ -6,8 +6,8 @@
   "Ranking_Popularity": 133,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 64,
-  "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_Completed": 282,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3544,9 +3544,9 @@
       "Count": 746
     }
   ],
-  "EOS_Progressed": 240664,
+  "EOS_Progressed": 240666,
   "EOS_Completed": 292,
-  "EOS_NewPlayers": 328,
+  "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -27204,6 +27204,11 @@
       "Time": "2023-12-05T17:09:47.3638742+00:00",
       "NumProgressed": 240664,
       "NumCompleted": 292
+    },
+    {
+      "Time": "2023-12-05T18:09:41.9528247+00:00",
+      "NumProgressed": 240666,
+      "NumCompleted": 292
     }
   ],
   "TotalAchievements": 138,
@@ -28021,9 +28026,9 @@
       "ID": "TRANSFORMFIREBEAD",
       "SetID": "5l8oe0h",
       "Name": "Defuser",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 481
     },
     {
       "ID": "USESHRINE",
@@ -28318,13 +28323,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240664,
+      "Progressed": 240666,
       "Completed": 292
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2144,
+      "Progressed": 2146,
       "Completed": 394
     }
   ],
@@ -28332,8 +28337,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-04T17:59:42.1827861+00:00",
-  "LastChanged_Achievements": "2023-12-05T17:09:47.3638739+00:00",
+  "LastChanged_Achievements": "2023-12-05T18:09:41.9528244+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:52.1458075+00:00",
-  "LastUpdate_Ratings": "2023-12-05T17:00:24.5223339+00:00",
-  "LastUpdate_Achievements": "2023-12-05T17:09:47.3641144+00:00"
+  "LastUpdate_Ratings": "2023-12-05T18:00:26.6473359+00:00",
+  "LastUpdate_Achievements": "2023-12-05T18:09:41.9530843+00:00"
 }
