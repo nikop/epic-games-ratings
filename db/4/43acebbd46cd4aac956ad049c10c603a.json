@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 495,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -201,7 +201,7 @@
   ],
   "EOS_Progressed": 875,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2438,9 +2438,9 @@
       "ID": "TeamSpirit",
       "SetID": "1n308hc",
       "Name": "Team Spirit",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 88
     },
     {
       "ID": "TextAdventurer",
@@ -2510,9 +2510,9 @@
       "ID": "TouchGrass",
       "SetID": "1n308hc",
       "Name": "Touch Grass",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 88
     },
     {
       "ID": "TrevorsBiographer",
@@ -2575,8 +2575,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-05T02:22:43.8735927+00:00",
-  "LastChanged_Achievements": "2023-12-05T13:12:07.0874926+00:00",
+  "LastChanged_Achievements": "2023-12-05T14:05:39.4688617+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-05T13:05:11.0837103+00:00",
-  "LastUpdate_Achievements": "2023-12-05T13:12:07.0875378+00:00"
+  "LastUpdate_Ratings": "2023-12-05T13:58:46.5813806+00:00",
+  "LastUpdate_Achievements": "2023-12-05T14:05:39.4689274+00:00"
 }

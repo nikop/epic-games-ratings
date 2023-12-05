@@ -1,12 +1,12 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.55 (Ranked 509)  
+Rating: 4.56 (Ranked 494)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 82.00% | ~11,362 |
-| Pay 'n' Spray | 52.00% | ~7,205 |
+| Getting Started | 82.00% | ~11,363 |
+| Pay 'n' Spray | 52.00% | ~7,206 |
 | All Dressed Up for San Fierro | 27.00% | ~3,741 |
 | The American Dream | 20.00% | ~2,771 |
 | School's Out | 19.00% | ~2,633 |
@@ -16,7 +16,7 @@ Rating: 4.55 (Ranked 509)
 | Horror of the Santa Maria | 11.00% | ~1,524 |
 | Liberty City State of Mind | 10.00% | ~1,386 |
 | Original Gangster | 9.00% | ~1,247 |
-| The End of the Line | 8.00% | ~1,108 |
+| The End of the Line | 8.00% | ~1,109 |
 | With Extra Dip | 7.00% | ~970 |
 | Saviour | 6.00% | ~831 |
 | They Can’t Stop All of Us | 5.00% | ~693 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 509)
 | ...Here we go again | 0.50% | ~69 |
 | I Ain't No Buster | 0.40% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,856 (Ranked 157)  
+Progressed: 13,857 (Ranked 157)  
 Completed: 56 (0.40%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,14 +270,14 @@ Completed: 56 (0.40%) (Ranked 222)
 | 2023-12-02 | 13,827 | 56 |
 | 2023-12-03 | 13,843 | 56 |
 | 2023-12-04 | 13,851 | 56 |
-| 2023-12-05 | 13,856 | 56 |
+| 2023-12-05 | 13,857 | 56 |
 ## Awards
-Max (Great Boss Battles): 419  (Ranked 229)  
-Sum: 692 (Ranked 299)  
-Diff (max vs sum): -70  
+Max (Great Boss Battles): 423  (Ranked 228)  
+Sum: 696 (Ranked 299)  
+Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 419 |
+| This game has Great Boss Battles | 423 |
 | This game is Relaxing | 38 |
 | This game has Amazing Characters | 38 |
 | This game is Great for Beginners | 37 |
@@ -481,3 +481,4 @@ Diff (max vs sum): -70
 | 2023-12-02 | 4.55 | 413 | 685 |
 | 2023-12-03 | 4.55 | 416 | 688 |
 | 2023-12-04 | 4.55 | 419 | 692 |
+| 2023-12-05 | 4.56 | 423 | 696 |

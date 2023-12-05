@@ -10,8 +10,8 @@ Rating: 4.26 (Ranked 871)
 | Manipulating Fate | 10.00% | ~118 |
 | Full house | 7.00% | ~83 |
 | Hear me out | 7.00% | ~83 |
+| Listening to the crowd | 7.00% | ~83 |
 | Burn and Pillage | 6.00% | ~71 |
-| Listening to the crowd | 6.00% | ~71 |
 | Ascended | 5.00% | ~59 |
 | The Penitent Ones | 5.00% | ~59 |
 | Greedy | 5.00% | ~59 |

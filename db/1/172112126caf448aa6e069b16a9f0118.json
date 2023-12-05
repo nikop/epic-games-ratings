@@ -201,9 +201,9 @@
       "ID": "6",
       "SetID": "36pe9e2",
       "Name": "Aligned Hovercams",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "7",
@@ -217,9 +217,9 @@
       "ID": "8",
       "SetID": "36pe9e2",
       "Name": "Read Between the Lines",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "9",
@@ -239,8 +239,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-10T13:09:13.1022391+00:00",
-  "LastChanged_Achievements": "2023-12-05T13:11:23.2294452+00:00",
+  "LastChanged_Achievements": "2023-12-05T14:04:50.9415024+00:00",
   "LastUpdate_AppInfo": "2023-11-28T18:57:03.2699178+00:00",
-  "LastUpdate_Ratings": "2023-12-05T13:03:54.3111843+00:00",
-  "LastUpdate_Achievements": "2023-12-05T13:11:23.2294537+00:00"
+  "LastUpdate_Ratings": "2023-12-05T13:57:19.5478393+00:00",
+  "LastUpdate_Achievements": "2023-12-05T14:04:50.941512+00:00"
 }

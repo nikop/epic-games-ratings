@@ -15,7 +15,7 @@
 | Wild's Keeper | 36.00% | ~35 |
 | Stellar Dismantler | 33.00% | ~32 |
 | Eridanian Champion | 31.00% | ~30 |
-| Lacertian Champion | 30.00% | ~29 |
+| Lacertian Champion | 31.00% | ~30 |
 | Anomaly Destroyer | 29.00% | ~28 |
 | Astral Adventurer | 26.00% | ~25 |
 | Star Killer | 26.00% | ~25 |

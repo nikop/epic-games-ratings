@@ -50,12 +50,12 @@
 | The Assassin | 32.00% | ~482 |
 | The Justicar | 32.00% | ~482 |
 | The Quarian | 32.00% | ~482 |
+| Battlemaster | 32.00% | ~482 |
 | Catharsis | 32.00% | ~482 |
 | Ghost of the Father | 32.00% | ~482 |
 | The Cure | 32.00% | ~482 |
 | Driven | 32.00% | ~482 |
 | Completionist | 31.00% | ~467 |
-| Battlemaster | 31.00% | ~467 |
 | Big Game Hunter | 31.00% | ~467 |
 | Revenge! | 31.00% | ~467 |
 | Heart of Darkness | 31.00% | ~467 |

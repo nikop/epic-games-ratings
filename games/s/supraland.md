@@ -6,11 +6,11 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~727,748 |
-| The Blues | 85.00% | ~624,834 |
-| Fast | 66.00% | ~485,165 |
-| Healthbar | 55.00% | ~404,304 |
-| Force Cube | 53.00% | ~389,602 |
+| Out of bed | 99.00% | ~727,750 |
+| The Blues | 85.00% | ~624,836 |
+| Fast | 66.00% | ~485,167 |
+| Healthbar | 55.00% | ~404,306 |
+| Force Cube | 53.00% | ~389,604 |
 | Double Jump | 48.00% | ~352,848 |
 | Regeneration | 47.00% | ~345,497 |
 | Triple Jump | 43.00% | ~316,093 |
@@ -67,25 +67,25 @@ Number of Ratings: 25,175  (23.09.2022)
 | Jesus Christ Suprastar | 1.00% | ~7,351 |
 | Redstone Pickaxe | 1.00% | ~7,351 |
 | DLC: Crashed | 0.60% | ~4,411 |
-| DLC: Green Bird | 0.50% | ~3,675 |
-| DLC: Basement Robbery | 0.50% | ~3,675 |
-| DLC: Rooftop Chase | 0.50% | ~3,675 |
-| DLC: Home Invasion | 0.50% | ~3,675 |
-| DLC: The palace job | 0.50% | ~3,675 |
-| DLC: Crashed again | 0.50% | ~3,675 |
-| DLC: Crashed again (again) | 0.50% | ~3,675 |
-| DLC: Crashed for the final time! | 0.50% | ~3,675 |
-| DLC: Discovering the Globe | 0.50% | ~3,675 |
-| DLC: Gotta Jump High | 0.50% | ~3,675 |
-| DLC: Gotta Run Fast | 0.50% | ~3,675 |
-| DLC: Monster Maker | 0.50% | ~3,675 |
-| DLC: Obvious Area | 0.50% | ~3,675 |
-| DLC: Race the First | 0.50% | ~3,675 |
-| DLC: No-ball Winner | 0.50% | ~3,675 |
-| DLC: Race the Gauntlet | 0.50% | ~3,675 |
-| DLC: Finding Sideburg | 0.50% | ~3,675 |
-| DLC: Welcome to Orangeburg | 0.50% | ~3,675 |
-| DLC: A Wrinkle in Spacetime | 0.50% | ~3,675 |
+| DLC: Green Bird | 0.50% | ~3,676 |
+| DLC: Basement Robbery | 0.50% | ~3,676 |
+| DLC: Rooftop Chase | 0.50% | ~3,676 |
+| DLC: Home Invasion | 0.50% | ~3,676 |
+| DLC: The palace job | 0.50% | ~3,676 |
+| DLC: Crashed again | 0.50% | ~3,676 |
+| DLC: Crashed again (again) | 0.50% | ~3,676 |
+| DLC: Crashed for the final time! | 0.50% | ~3,676 |
+| DLC: Discovering the Globe | 0.50% | ~3,676 |
+| DLC: Gotta Jump High | 0.50% | ~3,676 |
+| DLC: Gotta Run Fast | 0.50% | ~3,676 |
+| DLC: Monster Maker | 0.50% | ~3,676 |
+| DLC: Obvious Area | 0.50% | ~3,676 |
+| DLC: Race the First | 0.50% | ~3,676 |
+| DLC: No-ball Winner | 0.50% | ~3,676 |
+| DLC: Race the Gauntlet | 0.50% | ~3,676 |
+| DLC: Finding Sideburg | 0.50% | ~3,676 |
+| DLC: Welcome to Orangeburg | 0.50% | ~3,676 |
+| DLC: A Wrinkle in Spacetime | 0.50% | ~3,676 |
 | DLC: A Criminal Revealed | 0.40% | ~2,940 |
 | DLC: Crashed for the final time (again) | 0.40% | ~2,940 |
 | DLC: South of the wall | 0.40% | ~2,940 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~735 |
 | DLC: Top of the world | 0.10% | ~735 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 735,099 (Ranked 20)  
+Progressed: 735,101 (Ranked 20)  
 Completed: 766 (0.10%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,10 +334,10 @@ Completed: 766 (0.10%) (Ranked 289)
 | 2023-12-02 | 734,757 | 765 |
 | 2023-12-03 | 734,958 | 766 |
 | 2023-12-04 | 735,058 | 766 |
-| 2023-12-05 | 735,099 | 766 |
+| 2023-12-05 | 735,101 | 766 |
 ## Awards
 Max (Challenging Puzzles): 7,741  (Ranked 50)  
-Sum: 10,100 (Ranked 92)  
+Sum: 10,101 (Ranked 92)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
@@ -346,7 +346,7 @@ Diff (max vs sum): -42
 | This game has Amazing Storytelling | 281 |
 | This game has Amazing Characters | 279 |
 | This game is Relaxing | 278 |
-| This game is Great for Beginners | 270 |
+| This game is Great for Beginners | 271 |
 | This game has Quickly Understood Controls | 269 |
 | This game is Extremely Fun | 262 |
 | This game has Obsessive Gameplay | 243 |
@@ -554,3 +554,4 @@ Diff (max vs sum): -42
 | 2023-11-29 | 4.61 | - | 7,736 | 10,094 |
 | 2023-12-03 | 4.61 | - | 7,737 | 10,096 |
 | 2023-12-04 | 4.61 | - | 7,741 | 10,100 |
+| 2023-12-05 | 4.61 | - | 7,741 | 10,101 |

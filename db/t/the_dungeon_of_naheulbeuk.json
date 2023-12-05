@@ -1443,9 +1443,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 241379,
+  "EOS_Progressed": 241384,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1254,
+  "EOS_NewPlayers": 1256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21128,6 +21128,11 @@
       "Time": "2023-12-05T13:15:54.6490593+00:00",
       "NumProgressed": 241379,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-05T14:09:14.1217486+00:00",
+      "NumProgressed": 241384,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -21139,7 +21144,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7241
+      "UsersEstimate": 7242
     },
     {
       "ID": "100Fail",
@@ -21171,7 +21176,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7241
+      "UsersEstimate": 7242
     },
     {
       "ID": "BookCollection",
@@ -21203,7 +21208,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7241
+      "UsersEstimate": 7242
     },
     {
       "ID": "Chapter4",
@@ -21291,7 +21296,7 @@
       "Name": "The Woman in the High Castle",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7241
+      "UsersEstimate": 7242
     },
     {
       "ID": "DLC1ChooseNecro",
@@ -21539,7 +21544,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19310
+      "UsersEstimate": 19311
     },
     {
       "ID": "DwarfElf15Support",
@@ -21587,7 +21592,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 84483
+      "UsersEstimate": 84484
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -21635,7 +21640,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 21724
+      "UsersEstimate": 21725
     },
     {
       "ID": "FollowBraztok",
@@ -21649,9 +21654,9 @@
       "ID": "FollowNarzatok",
       "SetID": "50chcgj",
       "Name": "An old poacher makes the best gamekeeper",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1690
     },
     {
       "ID": "InsultLoose",
@@ -21842,21 +21847,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 241379,
+      "Progressed": 241384,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 241379,
+      "Progressed": 241384,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-04T10:58:07.9132872+00:00",
-  "LastChanged_Achievements": "2023-12-05T13:15:54.6490591+00:00",
+  "LastChanged_Achievements": "2023-12-05T14:09:14.1217481+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:09.0043717+00:00",
-  "LastUpdate_Ratings": "2023-12-05T13:05:21.4929422+00:00",
-  "LastUpdate_Achievements": "2023-12-05T13:15:54.6492166+00:00"
+  "LastUpdate_Ratings": "2023-12-05T13:58:57.9656053+00:00",
+  "LastUpdate_Achievements": "2023-12-05T14:09:14.1219212+00:00"
 }

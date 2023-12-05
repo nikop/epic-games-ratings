@@ -6,20 +6,20 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,745 |
-| Man of politics | 34.00% | ~5,733 |
+| Tattletale | 40.00% | ~6,746 |
+| Man of politics | 34.00% | ~5,734 |
 | Friends of sorts | 33.00% | ~5,565 |
 | Yet another secret | 33.00% | ~5,565 |
 | Let there be darkness | 32.00% | ~5,396 |
-| End of Book One | 29.00% | ~4,890 |
+| End of Book One | 29.00% | ~4,891 |
 | Garden of Eden | 24.00% | ~4,047 |
-| Wannabe knight | 23.00% | ~3,878 |
-| Full house | 23.00% | ~3,878 |
+| Wannabe knight | 23.00% | ~3,879 |
+| Full house | 23.00% | ~3,879 |
 | Help an old friend | 21.00% | ~3,541 |
 | Two of us | 20.00% | ~3,373 |
-| Negotiation skills | 18.00% | ~3,035 |
-| Workers' union | 18.00% | ~3,035 |
-| End of Book Two | 18.00% | ~3,035 |
+| Negotiation skills | 18.00% | ~3,036 |
+| Workers' union | 18.00% | ~3,036 |
+| End of Book Two | 18.00% | ~3,036 |
 | Everything's in order | 16.00% | ~2,698 |
 | Twist of Fate | 14.00% | ~2,361 |
 | Jack was here! | 14.00% | ~2,361 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~506 |
 | Boy of mystery | 2.00% | ~337 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,863 (Ranked 148)  
+Progressed: 16,864 (Ranked 148)  
 Completed: 116 (0.69%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 116 (0.69%) (Ranked 187)
 | 2023-12-02 | 16,806 | 116 |
 | 2023-12-03 | 16,840 | 116 |
 | 2023-12-04 | 16,852 | 116 |
-| 2023-12-05 | 16,863 | 116 |
+| 2023-12-05 | 16,864 | 116 |
 ## Awards
 Max (Easy Puzzles): 155  (Ranked 318)  
 Sum: 198 (Ranked 402)  

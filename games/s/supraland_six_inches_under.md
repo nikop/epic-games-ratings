@@ -1,7 +1,7 @@
 # Supraland Six Inches Under
 [Store](https://store.epicgames.com/en-US/p/supraland-six-inches-under-dd0220)  
 [View Rawdata](../../db/s/supraland_six_inches_under.json)  
-Rating: 4.77 (Ranked 114)  
+Rating: 4.77 (Ranked 115)  
 Number of Ratings: 209  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -26,10 +26,10 @@ Number of Ratings: 209  (23.09.2022)
 | Boomeraxe | 87.00% | ~2,045 |
 | Iron Pickaxe | 87.00% | ~2,045 |
 | Banking District | 86.00% | ~2,022 |
+| Mission Unlikely | 86.00% | ~2,022 |
 | Arrested | 85.00% | ~1,998 |
 | Zappy Gun | 85.00% | ~1,998 |
 | Got your own one now | 85.00% | ~1,998 |
-| Mission Unlikely | 85.00% | ~1,998 |
 | Don't draw dicks pls | 84.00% | ~1,975 |
 | Ripped | 84.00% | ~1,975 |
 | Beat the big arena | 82.00% | ~1,928 |

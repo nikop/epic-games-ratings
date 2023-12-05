@@ -6,26 +6,26 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~10,713 |
-| It wakes | 1.00% | ~10,713 |
-| Not half bad | 1.00% | ~10,713 |
-| Skillful | 1.00% | ~10,713 |
-| Apt Survivor | 0.90% | ~9,642 |
-| Make Some Noise | 0.90% | ~9,642 |
+| Zealous | 1.00% | ~10,714 |
+| It wakes | 1.00% | ~10,714 |
+| Not half bad | 1.00% | ~10,714 |
+| Skillful | 1.00% | ~10,714 |
+| Apt Survivor | 0.90% | ~9,643 |
+| Make Some Noise | 0.90% | ~9,643 |
 | Handyman | 0.80% | ~8,571 |
 | Survival Treasures | 0.80% | ~8,571 |
 | I | 0.80% | ~8,571 |
-| No one left behind | 0.70% | ~7,499 |
-| Medic | 0.70% | ~7,499 |
-| Sorted | 0.70% | ~7,499 |
-| Healthy Obsession | 0.70% | ~7,499 |
-| Resurgence | 0.70% | ~7,499 |
-| Preemptive Strike | 0.70% | ~7,499 |
-| The Grand Sacrifice | 0.60% | ~6,428 |
-| Backdoor Escape | 0.60% | ~6,428 |
-| Perfect Escape | 0.60% | ~6,428 |
-| Bloody Millionaire | 0.60% | ~6,428 |
-| Humanitarian | 0.60% | ~6,428 |
+| No one left behind | 0.70% | ~7,500 |
+| Medic | 0.70% | ~7,500 |
+| Sorted | 0.70% | ~7,500 |
+| Healthy Obsession | 0.70% | ~7,500 |
+| Resurgence | 0.70% | ~7,500 |
+| Preemptive Strike | 0.70% | ~7,500 |
+| The Grand Sacrifice | 0.60% | ~6,429 |
+| Backdoor Escape | 0.60% | ~6,429 |
+| Perfect Escape | 0.60% | ~6,429 |
+| Bloody Millionaire | 0.60% | ~6,429 |
+| Humanitarian | 0.60% | ~6,429 |
 | Agonizing Escape | 0.50% | ~5,357 |
 | I've got your back | 0.50% | ~5,357 |
 | Perfect Killing | 0.50% | ~5,357 |
@@ -35,10 +35,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | Engineer | 0.50% | ~5,357 |
 | Wounded Healer | 0.50% | ~5,357 |
 | Close Shave | 0.50% | ~5,357 |
-| Vulture | 0.40% | ~4,285 |
-| III | 0.40% | ~4,285 |
-| With Scars to Show | 0.40% | ~4,285 |
-| Lifting The Fog | 0.40% | ~4,285 |
+| Vulture | 0.40% | ~4,286 |
+| III | 0.40% | ~4,286 |
+| With Scars to Show | 0.40% | ~4,286 |
+| Lifting The Fog | 0.40% | ~4,286 |
 | Blood on your hands | 0.30% | ~3,214 |
 | Escape Artist | 0.30% | ~3,214 |
 | Made it out alive! | 0.30% | ~3,214 |
@@ -67,6 +67,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | A bite for the Entity | 0.20% | ~2,143 |
 | Blood on your face | 0.20% | ~2,143 |
 | Hemophobia | 0.20% | ~2,143 |
+| Deep Cleansing | 0.20% | ~2,143 |
 | Leapfrog | 0.20% | ~2,143 |
 | Cottage Owner | 0.20% | ~2,143 |
 | Serial Killer | 0.20% | ~2,143 |
@@ -109,7 +110,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Triggered | 0.10% | ~1,071 |
 | Even Punishment | 0.10% | ~1,071 |
 | Adept Hag | 0.10% | ~1,071 |
-| Deep Cleansing | 0.10% | ~1,071 |
 | Adept Ace | 0.10% | ~1,071 |
 | Shocking Treatment | 0.10% | ~1,071 |
 | Mad House | 0.10% | ~1,071 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Joke’s On You | 0.10% | ~1,071 |
 | Adept Good Guy | 0.10% | ~1,071 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,071,330 (Ranked 14)  
+Progressed: 1,071,428 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -468,7 +468,7 @@ Completed: 61 (0.01%) (Ranked 347)
 | 2023-12-02 | 1,062,340 | 61 |
 | 2023-12-03 | 1,067,390 | 61 |
 | 2023-12-04 | 1,070,133 | 61 |
-| 2023-12-05 | 1,071,330 | 61 |
+| 2023-12-05 | 1,071,428 | 61 |
 ## Awards
 Max (Diverse Characters): 37,289  (Ranked 15)  
 Sum: 283,188 (Ranked 12)  

@@ -3,9 +3,9 @@
 [View Rawdata](../../db/b/blazing_sails.json)  
 Rating: 3.94 (Ranked 1,019)  
 ## Awards
-Max (Highly Recommended): 420  (Ranked 228)  
+Max (Highly Recommended): 420  (Ranked 229)  
 Sum: 2,644 (Ranked 187)  
-Diff (max vs sum): 41  
+Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 420 |

@@ -22,8 +22,8 @@
 | Trap Master | 55.00% | ~290 |
 | Minions, Minions! | 54.00% | ~285 |
 | Hard Work | 51.00% | ~269 |
+| The Big Eaty | 51.00% | ~269 |
 | YOU SHALL NOT PASS! | 50.00% | ~264 |
-| The Big Eaty | 50.00% | ~264 |
 | “… like son” | 47.00% | ~248 |
 | Pure Dynamite! | 45.00% | ~237 |
 | The Cathedral of Light | 43.00% | ~227 |
@@ -45,7 +45,7 @@
 | Stop Tanos! | 21.00% | ~111 |
 | Sabotage! | 20.00% | ~105 |
 | Brimstone Shaken, Not Stirred | 20.00% | ~105 |
-| Bonus Evilness | 17.00% | ~90 |
+| Bonus Evilness | 18.00% | ~95 |
 | Raiders of the Lost Stone | 17.00% | ~90 |
 | The Rune Sockets of Finitude (Part 1) | 17.00% | ~90 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~84 |

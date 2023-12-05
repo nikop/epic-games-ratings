@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 446,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1235,9 +1235,9 @@
       "ID": "LacertianChampion",
       "SetID": "1jeo1g7",
       "Name": "Lacertian Champion",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "LacertianHero",
@@ -1290,8 +1290,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-05T13:11:46.1213593+00:00",
+  "LastChanged_Achievements": "2023-12-05T14:05:16.3288512+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:23.7468693+00:00",
-  "LastUpdate_Ratings": "2023-12-05T13:03:52.5297811+00:00",
-  "LastUpdate_Achievements": "2023-12-05T13:11:46.1214317+00:00"
+  "LastUpdate_Ratings": "2023-12-05T13:57:17.4522036+00:00",
+  "LastUpdate_Achievements": "2023-12-05T14:05:16.3289492+00:00"
 }

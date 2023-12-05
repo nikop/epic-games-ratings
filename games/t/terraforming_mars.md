@@ -20,9 +20,9 @@ Number of Ratings: 2,731  (23.09.2022)
 | Master | 19.00% | ~16,170 |
 | No Longer Red | 18.00% | ~15,319 |
 | Self-sufficient | 17.00% | ~14,468 |
-| Money money | 15.00% | ~12,765 |
-| Biggest Reward | 14.00% | ~11,914 |
-| First Journey | 13.00% | ~11,063 |
+| Money money | 15.00% | ~12,766 |
+| Biggest Reward | 14.00% | ~11,915 |
+| First Journey | 13.00% | ~11,064 |
 | Acquired knowledge | 12.00% | ~10,212 |
 | Landlord | 11.00% | ~9,361 |
 | Most Achievements | 11.00% | ~9,361 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,553 |
 | Opportunity | 3.00% | ~2,553 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85,103 (Ranked 95)  
+Progressed: 85,104 (Ranked 95)  
 Completed: 172 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 172 (0.20%) (Ranked 258)
 | 2023-12-02 | 84,762 | 169 |
 | 2023-12-03 | 84,968 | 171 |
 | 2023-12-04 | 85,071 | 172 |
-| 2023-12-05 | 85,103 | 172 |
+| 2023-12-05 | 85,104 | 172 |
 ## Awards
 Max (Relaxing): 529  (Ranked 209)  
 Sum: 3,279 (Ranked 172)  

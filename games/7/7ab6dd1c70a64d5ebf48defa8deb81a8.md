@@ -8,10 +8,10 @@
 | Break Out | 14.00% | ~34 |
 | Find Allies | 12.00% | ~30 |
 | Powerful Allies | 11.00% | ~27 |
+| A Taste of Wrath | 11.00% | ~27 |
 | Adventurer | 11.00% | ~27 |
 | Shatter Them All | 11.00% | ~27 |
 | I Found It | 11.00% | ~27 |
-| A Taste of Wrath | 10.00% | ~25 |
 | Tributes of Caladrias | 10.00% | ~25 |
 | Geared Up | 10.00% | ~25 |
 | Scholar | 10.00% | ~25 |
@@ -26,9 +26,9 @@
 | Godslayer | 5.00% | ~12 |
 | The Mentor | 5.00% | ~12 |
 | Airborne | 4.00% | ~10 |
+| Shatterer | 4.00% | ~10 |
 | Fine Feathers Make Fine Birds | 4.00% | ~10 |
 | Clear Sight | 3.00% | ~7 |
-| Shatterer | 3.00% | ~7 |
 | Slayer | 2.00% | ~5 |
 | Flawless Victory | 2.00% | ~5 |
 | All There Is | 2.00% | ~5 |
