@@ -3,11 +3,11 @@
   "Name": "Redout 2",
   "ProductSlug": "redout-2",
   "Ranking_Rating": 592,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 557,
+  "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1175,
+  "EOS_Progressed": 1176,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1144,6 +1144,11 @@
       "Time": "2023-12-05T05:09:57.8118776+00:00",
       "NumProgressed": 1175,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-05T15:10:23.5703436+00:00",
+      "NumProgressed": 1176,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1219,7 +1224,7 @@
       "Name": "Over the clouds",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ALLTRACKSFUJI",
@@ -1243,7 +1248,7 @@
       "Name": "Under the sea, under the sea",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ALLTRACKSMARS",
@@ -1299,7 +1304,7 @@
       "Name": "Even Faster!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "CAREERCLASSB",
@@ -1395,7 +1400,7 @@
       "Name": "Longshot",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "GOFAST",
@@ -1570,7 +1575,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1175,
+      "Progressed": 1176,
       "Completed": 0
     }
   ],
@@ -1578,8 +1583,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-11-23T19:59:23.2109032+00:00",
-  "LastChanged_Achievements": "2023-12-05T14:09:46.9223278+00:00",
+  "LastChanged_Achievements": "2023-12-05T15:10:23.5703432+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:13.2278064+00:00",
-  "LastUpdate_Ratings": "2023-12-05T14:02:56.3730871+00:00",
-  "LastUpdate_Achievements": "2023-12-05T14:09:46.9223668+00:00"
+  "LastUpdate_Ratings": "2023-12-05T15:03:12.0628688+00:00",
+  "LastUpdate_Achievements": "2023-12-05T15:10:23.5703898+00:00"
 }

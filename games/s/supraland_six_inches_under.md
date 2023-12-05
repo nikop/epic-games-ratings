@@ -30,11 +30,11 @@ Number of Ratings: 209  (23.09.2022)
 | Arrested | 85.00% | ~1,998 |
 | Zappy Gun | 85.00% | ~1,998 |
 | Got your own one now | 85.00% | ~1,998 |
-| Don't draw dicks pls | 84.00% | ~1,975 |
+| Don't draw dicks pls | 85.00% | ~1,998 |
 | Ripped | 84.00% | ~1,975 |
-| Beat the big arena | 82.00% | ~1,928 |
+| Beat the big arena | 83.00% | ~1,951 |
 | Force Cube | 82.00% | ~1,928 |
-| Got Battery | 80.00% | ~1,881 |
+| Got Battery | 81.00% | ~1,904 |
 | Guard Distracted | 80.00% | ~1,881 |
 | Translocator | 80.00% | ~1,881 |
 | Inner Peace | 78.00% | ~1,834 |

@@ -6,24 +6,24 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 18.00% | ~120,183 |
-| Incurious | 17.00% | ~113,506 |
-| Climate Change | 16.00% | ~106,829 |
-| Stroller | 15.00% | ~100,152 |
-| Toy Train | 14.00% | ~93,475 |
-| Advanced Hiker | 13.00% | ~86,799 |
-| Hiker | 12.00% | ~80,122 |
-| Mojave Courier | 6.00% | ~40,061 |
-| Saved by Nausicaä | 5.00% | ~33,384 |
-| Advanced Voyager | 4.00% | ~26,707 |
-| Expert Stroller | 4.00% | ~26,707 |
-| Voyager | 3.00% | ~20,030 |
-| Orient Express | 3.00% | ~20,030 |
-| Marathon | 3.00% | ~20,030 |
-| Destructionist | 3.00% | ~20,030 |
+| Advanced Stroller | 18.00% | ~120,185 |
+| Incurious | 17.00% | ~113,508 |
+| Climate Change | 16.00% | ~106,831 |
+| Stroller | 15.00% | ~100,154 |
+| Toy Train | 14.00% | ~93,477 |
+| Advanced Hiker | 13.00% | ~86,800 |
+| Hiker | 12.00% | ~80,123 |
+| Mojave Courier | 6.00% | ~40,062 |
+| Saved by Nausicaä | 5.00% | ~33,385 |
+| Advanced Voyager | 4.00% | ~26,708 |
+| Expert Stroller | 4.00% | ~26,708 |
+| Voyager | 3.00% | ~20,031 |
+| Orient Express | 3.00% | ~20,031 |
+| Marathon | 3.00% | ~20,031 |
+| Destructionist | 3.00% | ~20,031 |
 | Expert Hiker | 2.00% | ~13,354 |
 | Lost | 2.00% | ~13,354 |
-| Rocketman | 0.80% | ~5,341 |
+| Rocketman | 0.80% | ~5,342 |
 | Expert Voyager | 0.70% | ~4,674 |
 | Shopaholic | 0.70% | ~4,674 |
 | Dynamite Fishing | 0.70% | ~4,674 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~668 |
 | 20 Miles under the Sea | 0.10% | ~668 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 667,681 (Ranked 28)  
+Progressed: 667,693 (Ranked 28)  
 Completed: 12 (0.00%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 12 (0.00%) (Ranked 368)
 | 2023-12-02 | 666,931 | 12 |
 | 2023-12-03 | 667,363 | 12 |
 | 2023-12-04 | 667,573 | 12 |
-| 2023-12-05 | 667,681 | 12 |
+| 2023-12-05 | 667,693 | 12 |
 ## Awards
 Max (Great for Beginners): 202  (Ranked 290)  
 Sum: 1,604 (Ranked 232)  

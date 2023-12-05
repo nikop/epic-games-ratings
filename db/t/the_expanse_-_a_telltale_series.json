@@ -3,11 +3,11 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 542,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 557,
+  "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15908,
+  "EOS_Progressed": 15909,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -13113,6 +13113,11 @@
       "Time": "2023-12-05T11:07:17.1619658+00:00",
       "NumProgressed": 15908,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-12-05T15:07:06.7342838+00:00",
+      "NumProgressed": 15909,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13189,7 +13194,7 @@
       "Name": "Spore Taste",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "18",
@@ -13205,7 +13210,7 @@
       "Name": "Martian Music",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "2",
@@ -13389,7 +13394,7 @@
       "Name": "Master Negotiator",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "35",
@@ -13404,13 +13409,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15908,
+      "Progressed": 15909,
       "Completed": 40
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1862,
+      "Progressed": 1863,
       "Completed": 822
     }
   ],
@@ -13418,8 +13423,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-03T18:02:39.8331355+00:00",
-  "LastChanged_Achievements": "2023-12-05T14:05:58.8659334+00:00",
+  "LastChanged_Achievements": "2023-12-05T15:07:06.7342834+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-05T14:02:49.4840893+00:00",
-  "LastUpdate_Achievements": "2023-12-05T14:05:58.8660007+00:00"
+  "LastUpdate_Ratings": "2023-12-05T15:03:02.7195503+00:00",
+  "LastUpdate_Achievements": "2023-12-05T15:07:06.7343587+00:00"
 }

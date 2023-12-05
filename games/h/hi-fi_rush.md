@@ -13,7 +13,7 @@ Rating: 4.87 (Ranked 24)
 | Thanks for the free chip, Peppermint! | 15.00% | ~672 |
 | You got this, Peppermint? | 15.00% | ~672 |
 | Perfect Parry | 14.00% | ~627 |
-| Alright, that felt AWESOME! | 13.00% | ~582 |
+| Alright, that felt AWESOME! | 14.00% | ~627 |
 | This will cost you big time | 12.00% | ~537 |
 | I play my own way! | 12.00% | ~537 |
 | Z-shielding's got nothing on us! | 12.00% | ~537 |
@@ -21,20 +21,20 @@ Rating: 4.87 (Ranked 24)
 | Kissing the sky! | 11.00% | ~493 |
 | The Negotiator | 10.00% | ~448 |
 | Whoa! There's ANOTHER health bar!? | 10.00% | ~448 |
+| I look cool. But I can look COOLER. | 10.00% | ~448 |
 | Headliner | 9.00% | ~403 |
 | Time to pay up! | 9.00% | ~403 |
 | You must like calling me in, Chai | 9.00% | ~403 |
 | Out in a puff of smoke | 9.00% | ~403 |
-| I look cool. But I can look COOLER. | 9.00% | ~403 |
 | Does that say weakpoint? | 9.00% | ~403 |
 | Who's the boss now? | 8.00% | ~358 |
 | I have to read these things? | 8.00% | ~358 |
 | Perfecter Parry-er! | 8.00% | ~358 |
 | NOW we got a kickass hideout! | 8.00% | ~240 |
+| There's such a thing as TOO helpful | 6.00% | ~269 |
 | Well that was a rush! | 5.00% | ~224 |
 | Beat-hit mania | 5.00% | ~224 |
 | That's a lot of junk metal… | 5.00% | ~224 |
-| There's such a thing as TOO helpful | 5.00% | ~224 |
 | Chip-tuned | 3.00% | ~134 |
 | Wanna hear my playlist? | 3.00% | ~134 |
 | I told you I'd be fine, Peppermint! | 3.00% | ~134 |

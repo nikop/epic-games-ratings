@@ -22,10 +22,10 @@ Rating: 4.50 (Ranked 592)
 | Blurred photofinish | 9.00% | ~106 |
 | EZ game EZ life | 7.00% | ~82 |
 | First step into a larger world | 7.00% | ~82 |
-| Over the clouds | 6.00% | ~70 |
-| Under the sea, under the sea | 6.00% | ~70 |
-| Even Faster! | 6.00% | ~70 |
-| Longshot | 6.00% | ~70 |
+| Over the clouds | 6.00% | ~71 |
+| Under the sea, under the sea | 6.00% | ~71 |
+| Even Faster! | 6.00% | ~71 |
+| Longshot | 6.00% | ~71 |
 | B-asic! | 5.00% | ~59 |
 | Under the neon lights | 4.00% | ~47 |
 | All Power to Engines! | 4.00% | ~47 |
@@ -58,7 +58,7 @@ Rating: 4.50 (Ranked 592)
 | I, need, more, shelves! | 0.50% | ~6 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,175 (Ranked 254)  
+Progressed: 1,176 (Ranked 254)  
 Completed: 0 (0.00%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 0 (0.00%) (Ranked 368)
 | 2023-11-28 | 1,171 | 0 |
 | 2023-11-29 | 1,173 | 0 |
 | 2023-12-01 | 1,174 | 0 |
-| 2023-12-05 | 1,175 | 0 |
+| 2023-12-05 | 1,176 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

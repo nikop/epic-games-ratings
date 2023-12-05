@@ -3,9 +3,6 @@
 [View Rawdata](../../db/s/spelldrifter.json)  
 Rating: 3.81 (Ranked 1,040)  
 ## Awards
-Max (Character Customization): 21  (Ranked 547)  
-Sum: 21 (Ranked 548)  
-Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 21 |

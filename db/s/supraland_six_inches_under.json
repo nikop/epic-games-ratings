@@ -2498,9 +2498,9 @@
       "ID": "Area4",
       "SetID": "5lok9mm",
       "Name": "Beat the big arena",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1951
     },
     {
       "ID": "Arrested",
@@ -2642,9 +2642,9 @@
       "ID": "GotBattery",
       "SetID": "5lok9mm",
       "Name": "Got Battery",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 1881
+      "UsersEstimate": 1904
     },
     {
       "ID": "Greenhouse",
@@ -2706,9 +2706,9 @@
       "ID": "Map",
       "SetID": "5lok9mm",
       "Name": "Don\u0027t draw dicks pls",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 1975
+      "UsersEstimate": 1998
     },
     {
       "ID": "MissionUnlikely",
@@ -2898,8 +2898,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-11-25T08:00:41.8887629+00:00",
-  "LastChanged_Achievements": "2023-12-05T14:06:10.4420026+00:00",
+  "LastChanged_Achievements": "2023-12-05T15:07:21.5436043+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:00.3494982+00:00",
-  "LastUpdate_Ratings": "2023-12-05T14:00:37.6010178+00:00",
-  "LastUpdate_Achievements": "2023-12-05T14:06:10.4420498+00:00"
+  "LastUpdate_Ratings": "2023-12-05T15:01:51.072778+00:00",
+  "LastUpdate_Achievements": "2023-12-05T15:07:21.5436469+00:00"
 }

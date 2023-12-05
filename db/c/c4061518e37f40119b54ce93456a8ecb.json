@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-grace-92a75a",
   "Ranking_EOS_Progress": 595,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewPlayers": 476,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-30T13:00:00+00:00",
@@ -140,9 +140,9 @@
       "ID": "ACH_AllZenItems",
       "SetID": "aao9n96",
       "Name": "I\u0027m curious what makes you so curious",
-      "Percentage": 43,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_AllenEnding",
@@ -395,8 +395,8 @@
   ],
   "FirstSeen": "2023-06-18T13:01:09.4740669+00:00",
   "FirstSeenAchievements": "2023-05-24T20:04:21.7839136+00:00",
-  "LastChanged_Achievements": "2023-12-05T14:04:17.599346+00:00",
+  "LastChanged_Achievements": "2023-12-05T15:04:57.8124107+00:00",
   "LastUpdate_AppInfo": "2023-11-29T07:56:57.8846771+00:00",
-  "LastUpdate_Ratings": "2023-12-05T13:57:13.6572838+00:00",
-  "LastUpdate_Achievements": "2023-12-05T14:04:17.5993682+00:00"
+  "LastUpdate_Ratings": "2023-12-05T14:57:12.9494126+00:00",
+  "LastUpdate_Achievements": "2023-12-05T15:04:57.8124329+00:00"
 }

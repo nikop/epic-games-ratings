@@ -30,9 +30,9 @@
 | Shame! Shame! Shame! | 43.00% | ~227 |
 | Dungeonlord Gorgu | 42.00% | ~221 |
 | Mana Cannon | 41.00% | ~216 |
-| Tanos' Crusade Against Thalya | 39.00% | ~206 |
-| All’s Well That Ends Evil | 32.00% | ~169 |
-| Unstoppable Horde | 31.00% | ~163 |
+| Tanos' Crusade Against Thalya | 40.00% | ~211 |
+| All’s Well That Ends Evil | 33.00% | ~174 |
+| Unstoppable Horde | 32.00% | ~169 |
 | Master of the Undead | 31.00% | ~163 |
 | The Duel | 29.00% | ~153 |
 | If Looks Could Kill | 27.00% | ~142 |
@@ -46,10 +46,10 @@
 | Sabotage! | 20.00% | ~105 |
 | Brimstone Shaken, Not Stirred | 20.00% | ~105 |
 | Bonus Evilness | 18.00% | ~95 |
-| Raiders of the Lost Stone | 17.00% | ~90 |
+| Raiders of the Lost Stone | 18.00% | ~95 |
 | The Rune Sockets of Finitude (Part 1) | 17.00% | ~90 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~84 |
-| My Little Torture Chamber | 15.00% | ~79 |
+| My Little Torture Chamber | 16.00% | ~84 |
 | Lavalumps on Ice! | 15.00% | ~79 |
 | Rubble and Ashes | 15.00% | ~79 |
 | The Rune Sockets of Finitude (Part 2) | 15.00% | ~79 |

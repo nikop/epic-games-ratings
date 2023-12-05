@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11535,9 +11535,9 @@
       "Count": 835
     }
   ],
-  "EOS_Progressed": 303955,
+  "EOS_Progressed": 303957,
   "EOS_Completed": 521,
-  "EOS_NewPlayers": 492,
+  "EOS_NewPlayers": 487,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36170,6 +36170,11 @@
       "Time": "2023-12-05T12:09:56.6297002+00:00",
       "NumProgressed": 303955,
       "NumCompleted": 521
+    },
+    {
+      "Time": "2023-12-05T15:10:20.6548086+00:00",
+      "NumProgressed": 303957,
+      "NumCompleted": 521
     }
   ],
   "TotalAchievements": 45,
@@ -36229,7 +36234,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24316
+      "UsersEstimate": 24317
     },
     {
       "ID": "PFA_16",
@@ -36245,7 +36250,7 @@
       "Name": "Beast Friends",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24316
+      "UsersEstimate": 24317
     },
     {
       "ID": "PFA_18",
@@ -36261,7 +36266,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 24316
+      "UsersEstimate": 24317
     },
     {
       "ID": "PFA_2",
@@ -36509,7 +36514,7 @@
       "Name": "First Class Student",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45593
+      "UsersEstimate": 45594
     },
     {
       "ID": "PFA_7",
@@ -36540,7 +36545,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303955,
+      "Progressed": 303957,
       "Completed": 521
     }
   ],
@@ -36548,8 +36553,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-05T13:59:59.3588526+00:00",
-  "LastChanged_Achievements": "2023-12-05T14:09:44.5493+00:00",
+  "LastChanged_Achievements": "2023-12-05T15:10:20.6548082+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-05T13:59:59.3588532+00:00",
-  "LastUpdate_Achievements": "2023-12-05T14:09:44.5494091+00:00"
+  "LastUpdate_Ratings": "2023-12-05T15:01:00.7990502+00:00",
+  "LastUpdate_Achievements": "2023-12-05T15:10:20.6549523+00:00"
 }

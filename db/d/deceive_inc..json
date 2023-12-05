@@ -3,11 +3,11 @@
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
   "Ranking_Rating": 448,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 557,
+  "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18993,
+  "EOS_Progressed": 18994,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13469,6 +13469,11 @@
       "Time": "2023-12-05T14:06:22.6291191+00:00",
       "NumProgressed": 18993,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-05T15:07:36.584122+00:00",
+      "NumProgressed": 18994,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13544,7 +13549,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4368
+      "UsersEstimate": 4369
     },
     {
       "ID": "0010",
@@ -13664,7 +13669,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4178
+      "UsersEstimate": 4179
     },
     {
       "ID": "0025",
@@ -13696,7 +13701,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4368
+      "UsersEstimate": 4369
     },
     {
       "ID": "0029",
@@ -13767,7 +13772,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18993,
+      "Progressed": 18994,
       "Completed": 4
     }
   ],
@@ -13775,8 +13780,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-12-05T14:06:22.6291186+00:00",
+  "LastChanged_Achievements": "2023-12-05T15:07:36.5841216+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:38.3504901+00:00",
-  "LastUpdate_Ratings": "2023-12-05T13:57:37.3037642+00:00",
-  "LastUpdate_Achievements": "2023-12-05T14:06:22.6292109+00:00"
+  "LastUpdate_Ratings": "2023-12-05T14:57:45.2941945+00:00",
+  "LastUpdate_Achievements": "2023-12-05T15:07:36.5842017+00:00"
 }

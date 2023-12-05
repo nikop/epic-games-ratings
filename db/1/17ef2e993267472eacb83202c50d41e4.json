@@ -3,8 +3,8 @@
   "Name": "NEXUS",
   "ProductSlug": "nexus-058364",
   "Ranking_Rating": 981,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 557,
+  "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 133,
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8585,
+  "EOS_Progressed": 8586,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 261,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8044,6 +8044,11 @@
       "Time": "2023-12-05T14:09:49.4701159+00:00",
       "NumProgressed": 8585,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-05T15:10:26.7574692+00:00",
+      "NumProgressed": 8586,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -8168,7 +8173,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "GamesPlayed1",
@@ -8176,7 +8181,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2661
+      "UsersEstimate": 2662
     },
     {
       "ID": "GamesPlayed10",
@@ -8248,7 +8253,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "HAUpgraded1",
@@ -8424,7 +8429,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "MaxTowersKilled6",
@@ -8647,7 +8652,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8585,
+      "Progressed": 8586,
       "Completed": 1
     }
   ],
@@ -8655,8 +8660,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-12-05T02:57:10.0290174+00:00",
-  "LastChanged_Achievements": "2023-12-05T14:09:49.4701154+00:00",
+  "LastChanged_Achievements": "2023-12-05T15:10:26.7574687+00:00",
   "LastUpdate_AppInfo": "2023-11-28T15:57:00.1791972+00:00",
-  "LastUpdate_Ratings": "2023-12-05T13:57:26.329838+00:00",
-  "LastUpdate_Achievements": "2023-12-05T14:09:49.4702297+00:00"
+  "LastUpdate_Ratings": "2023-12-05T14:57:30.384494+00:00",
+  "LastUpdate_Achievements": "2023-12-05T15:10:26.7575634+00:00"
 }

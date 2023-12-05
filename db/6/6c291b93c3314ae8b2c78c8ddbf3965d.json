@@ -4,7 +4,7 @@
   "ProductSlug": "fish-db1795",
   "Ranking_EOS_Progress": 780,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewPlayers": 476,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-03T18:57:10.9570203+00:00",
-  "LastUpdate_Ratings": "2023-12-05T13:59:24.8161302+00:00",
-  "LastUpdate_Achievements": "2023-12-05T14:04:16.5028352+00:00"
+  "LastUpdate_Ratings": "2023-12-05T15:00:13.5415268+00:00",
+  "LastUpdate_Achievements": "2023-12-05T15:04:56.3778484+00:00"
 }

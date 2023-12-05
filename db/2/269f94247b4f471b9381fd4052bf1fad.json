@@ -4,7 +4,7 @@
   "ProductSlug": "born-of-bread-008e66",
   "Ranking_EOS_Progress": 780,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewPlayers": 476,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -28,9 +28,299 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-12-05T15:04:34.1379111+00:00",
+  "TotalAchievements": 36,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_ARCHEOLOGIST",
+      "SetID": "6lg1p1e",
+      "Name": "Archeologist",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ATLAS",
+      "SetID": "6lg1p1e",
+      "Name": "Atlas",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_BARGAIN-HUNTER",
+      "SetID": "6lg1p1e",
+      "Name": "Bargain Hunter",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_BEACHED",
+      "SetID": "6lg1p1e",
+      "Name": "Beached",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_BIG-BROTHER",
+      "SetID": "6lg1p1e",
+      "Name": "Big Brother",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_BREAD-AND-BREAKFAST",
+      "SetID": "6lg1p1e",
+      "Name": "Bread and Breakfast",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_COSPLAY",
+      "SetID": "6lg1p1e",
+      "Name": "Cosplay",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DADDY-ISSUES",
+      "SetID": "6lg1p1e",
+      "Name": "Daddy Issues",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEEP-POCKETED",
+      "SetID": "6lg1p1e",
+      "Name": "Deep Pockets",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_EXOTIC-ARSENAL",
+      "SetID": "6lg1p1e",
+      "Name": "Exotic Arsenal",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FIRST-PAYCHECK",
+      "SetID": "6lg1p1e",
+      "Name": "First Paycheck",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FRIENEMY",
+      "SetID": "6lg1p1e",
+      "Name": "Frienemy",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_GOTTA-PET-THEM-ALL",
+      "SetID": "6lg1p1e",
+      "Name": "Gotta Pet Them All",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HEART-OF-THE-CARDS",
+      "SetID": "6lg1p1e",
+      "Name": "Heart of the Cards",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HELPFUL-BREAD",
+      "SetID": "6lg1p1e",
+      "Name": "Helpful Bread",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HOUSE-ARREST",
+      "SetID": "6lg1p1e",
+      "Name": "House Arrest",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_INSANE-COLLECTOR",
+      "SetID": "6lg1p1e",
+      "Name": "Insane Collector",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LITTLE-ARSONIST",
+      "SetID": "6lg1p1e",
+      "Name": "Little Arsonist",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LOREMASTER",
+      "SetID": "6lg1p1e",
+      "Name": "Lore Master",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MISCHIEVOUS-BREAD",
+      "SetID": "6lg1p1e",
+      "Name": "Mischievous Bread",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MYSTERY-SOLVED",
+      "SetID": "6lg1p1e",
+      "Name": "Mystery Solved",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_OPULENT",
+      "SetID": "6lg1p1e",
+      "Name": "Opulent",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PACK-RAT",
+      "SetID": "6lg1p1e",
+      "Name": "Pack Rat",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PARTNER",
+      "SetID": "6lg1p1e",
+      "Name": "Partner",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PHOTOGRAPHIC-MEMORY",
+      "SetID": "6lg1p1e",
+      "Name": "Photographic Memory",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PHYSIOLOGUS",
+      "SetID": "6lg1p1e",
+      "Name": "Physiologus",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PRIVATE-EYE",
+      "SetID": "6lg1p1e",
+      "Name": "Private Eye",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PRO-EXCAVATOR",
+      "SetID": "6lg1p1e",
+      "Name": "Pro Excavator",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PROPERTY-DAMAGE",
+      "SetID": "6lg1p1e",
+      "Name": "Property Damage",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_RACER-CHAMPION",
+      "SetID": "6lg1p1e",
+      "Name": "Break a Sweat",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_RATATOUIED",
+      "SetID": "6lg1p1e",
+      "Name": "Ratatouied",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ROYAL-PARDON",
+      "SetID": "6lg1p1e",
+      "Name": "Royal Pardon",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SPELUNKER",
+      "SetID": "6lg1p1e",
+      "Name": "Spelunker",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_WELL-TRAVELLED",
+      "SetID": "6lg1p1e",
+      "Name": "Well-travelled",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_WHACK-A-MOLE",
+      "SetID": "6lg1p1e",
+      "Name": "Whack-a-mole",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ZEN-MASTER",
+      "SetID": "6lg1p1e",
+      "Name": "Zen Master",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "6lg1p1e",
@@ -40,8 +330,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2023-12-05T14:03:58.8786607+00:00",
+  "LastChanged_Achievements": "2023-12-05T15:04:34.1379101+00:00",
   "LastUpdate_AppInfo": "2023-11-29T20:57:25.6802786+00:00",
-  "LastUpdate_Ratings": "2023-12-05T13:59:30.8323344+00:00",
-  "LastUpdate_Achievements": "2023-12-05T14:03:58.8786637+00:00"
+  "LastUpdate_Ratings": "2023-12-05T15:00:22.4806727+00:00",
+  "LastUpdate_Achievements": "2023-12-05T15:04:34.1706262+00:00"
 }

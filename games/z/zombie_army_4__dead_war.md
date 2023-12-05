@@ -1,7 +1,7 @@
 # Zombie Army 4: Dead War
 [Store](https://store.epicgames.com/en-US/p/zombie-army-4-dead-war)  
 [View Rawdata](../../db/z/zombie_army_4__dead_war.json)  
-Rating: 4.69 (Ranked 231)  
+Rating: 4.69 (Ranked 230)  
 Number of Ratings: 743  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,19 +9,19 @@ Number of Ratings: 743  (23.09.2022)
 | Shoot it, man! Shoot it in the head! | 69.00% | ~30,412 |
 | Say goodbye, creep! | 66.00% | ~29,090 |
 | Blood splattered | 66.00% | ~29,090 |
-| Choo choo! | 63.00% | ~27,767 |
-| Groovy | 62.00% | ~27,326 |
+| Choo choo! | 63.00% | ~27,768 |
+| Groovy | 62.00% | ~27,327 |
 | Cleanup on aisle 4! | 57.00% | ~25,123 |
-| Gold | 51.00% | ~22,478 |
+| Gold | 51.00% | ~22,479 |
 | The boat can leave now...tell the crew | 49.00% | ~21,597 |
-| Give me something to shoot! | 47.00% | ~20,715 |
-| Stand back boy! | 47.00% | ~20,715 |
+| Give me something to shoot! | 47.00% | ~20,716 |
+| Stand back boy! | 47.00% | ~20,716 |
 | Chain reaction | 45.00% | ~19,834 |
 | Weird science | 44.00% | ~19,393 |
 | What did you say, Blain? | 42.00% | ~18,512 |
 | Look mummy! A shark! | 41.00% | ~18,071 |
-| In the dark dark woods... | 39.00% | ~17,189 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,748 |
+| In the dark dark woods... | 39.00% | ~17,190 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,749 |
 | Double tap | 37.00% | ~16,308 |
 | Cranial blowout! | 37.00% | ~16,308 |
 | All of this has happened before… | 36.00% | ~15,867 |
@@ -31,10 +31,10 @@ Number of Ratings: 743  (23.09.2022)
 | You've got red on you | 34.00% | ~14,986 |
 | You're all going to die down here | 32.00% | ~14,104 |
 | He did Nazi that coming | 32.00% | ~14,104 |
-| Kill of the week | 31.00% | ~13,663 |
-| I never liked them anyway | 31.00% | ~13,663 |
+| Kill of the week | 31.00% | ~13,664 |
+| I never liked them anyway | 31.00% | ~13,664 |
 | Is it over? | 28.00% | ~12,341 |
-| Got your back | 27.00% | ~11,900 |
+| Got your back | 27.00% | ~11,901 |
 | Gore soaked | 24.00% | ~10,578 |
 | Shock therapy | 23.00% | ~10,137 |
 | Leave the limbs you've lost | 23.00% | ~10,137 |
@@ -56,11 +56,11 @@ Number of Ratings: 743  (23.09.2022)
 | Gotcha, didn't I? | 7.00% | ~3,085 |
 | A gross gross | 7.00% | ~3,085 |
 | Hail to the king, baby! | 7.00% | ~3,085 |
-| Something wicked this way comes | 6.00% | ~2,644 |
-| Take a little bit of Italy with you | 6.00% | ~2,644 |
-| Staring at Shadows | 6.00% | ~2,644 |
-| I told you we should have gone to the beach | 6.00% | ~2,644 |
-| Hoarder | 6.00% | ~2,644 |
+| Something wicked this way comes | 6.00% | ~2,645 |
+| Take a little bit of Italy with you | 6.00% | ~2,645 |
+| Staring at Shadows | 6.00% | ~2,645 |
+| I told you we should have gone to the beach | 6.00% | ~2,645 |
+| Hoarder | 6.00% | ~2,645 |
 | Kali Ma | 5.00% | ~2,204 |
 | Have you tried turning it off and on again? | 5.00% | ~2,204 |
 | They're coming to get you Barbara | 4.00% | ~1,763 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~441 |
 | None more hard | 0.60% | ~264 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,075 (Ranked 117)  
+Progressed: 44,076 (Ranked 117)  
 Completed: 25 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 25 (0.06%) (Ranked 313)
 | 2023-12-02 | 44,050 | 25 |
 | 2023-12-03 | 44,061 | 25 |
 | 2023-12-04 | 44,071 | 25 |
-| 2023-12-05 | 44,075 | 25 |
+| 2023-12-05 | 44,076 | 25 |
 ## Awards
 Max (Great Boss Battles): 854  (Ranked 164)  
 Sum: 2,579 (Ranked 192)  

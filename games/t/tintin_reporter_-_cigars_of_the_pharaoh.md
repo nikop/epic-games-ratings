@@ -16,10 +16,10 @@
 | Au Revoir, Abudin | 6.00% | ~5 |
 | Mysterious Bungalow | 6.00% | ~5 |
 | Mummy Nightmare | 6.00% | ~5 |
+| Barking Dog | 6.00% | ~5 |
 | Dynamite, Treason and Coconuts | 6.00% | ~5 |
 | Save a Friend | 6.00% | ~5 |
 | The Eyes! | 5.00% | ~4 |
-| Barking Dog | 5.00% | ~4 |
 | Keep the Doctor Away | 4.00% | ~3 |
 | Just a Palm Tree | 4.00% | ~3 |
 | Under the Hood | 4.00% | ~3 |

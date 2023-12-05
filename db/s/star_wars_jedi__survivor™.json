@@ -5685,7 +5685,7 @@
       "Count": 141
     }
   ],
-  "EOS_Progressed": 9288,
+  "EOS_Progressed": 9289,
   "EOS_Completed": 55,
   "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 2,
@@ -14000,6 +14000,11 @@
       "Time": "2023-12-05T14:09:06.5946298+00:00",
       "NumProgressed": 9288,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-12-05T15:09:33.435608+00:00",
+      "NumProgressed": 9289,
+      "NumCompleted": 55
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:45.8400368+00:00",
@@ -14012,7 +14017,7 @@
       "Name": "Rooftop Duel",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 9195
+      "UsersEstimate": 9196
     },
     {
       "ID": "achievement_a10",
@@ -14036,7 +14041,7 @@
       "Name": "Into the Abyss",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 4551
+      "UsersEstimate": 4552
     },
     {
       "ID": "achievement_a13",
@@ -14044,7 +14049,7 @@
       "Name": "A Place You Could Call Home",
       "Percentage": 47,
       "XP": 70,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "achievement_a14",
@@ -14052,7 +14057,7 @@
       "Name": "Han Slowlo",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3622
+      "UsersEstimate": 3623
     },
     {
       "ID": "achievement_a15",
@@ -14084,7 +14089,7 @@
       "Name": "They Never Saw It Coming",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 7152
+      "UsersEstimate": 7153
     },
     {
       "ID": "achievement_a19",
@@ -14100,7 +14105,7 @@
       "Name": "For Saw Gerrera",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 9102
+      "UsersEstimate": 9103
     },
     {
       "ID": "achievement_a20",
@@ -14132,7 +14137,7 @@
       "Name": "Mirror Match",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 5944
+      "UsersEstimate": 5945
     },
     {
       "ID": "achievement_a24",
@@ -14156,7 +14161,7 @@
       "Name": "Riposte",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "achievement_a27",
@@ -14180,7 +14185,7 @@
       "Name": "There Is No Try",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 3529
+      "UsersEstimate": 3530
     },
     {
       "ID": "achievement_a3",
@@ -14188,7 +14193,7 @@
       "Name": "Grab Some Seat",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 8452
+      "UsersEstimate": 8453
     },
     {
       "ID": "achievement_a30",
@@ -14196,7 +14201,7 @@
       "Name": "Now, This Isn\u0027t Podracing",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 6037
+      "UsersEstimate": 6038
     },
     {
       "ID": "achievement_a31",
@@ -14212,7 +14217,7 @@
       "Name": "They\u0027re Probably Fine",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3715
+      "UsersEstimate": 3716
     },
     {
       "ID": "achievement_a33",
@@ -14220,7 +14225,7 @@
       "Name": "Skywalker",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 5851
+      "UsersEstimate": 5852
     },
     {
       "ID": "achievement_a34",
@@ -14260,7 +14265,7 @@
       "Name": "Who Gives a Puck",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 6873
+      "UsersEstimate": 6874
     },
     {
       "ID": "achievement_a39",
@@ -14276,7 +14281,7 @@
       "Name": "The Past Made Present",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 7709
+      "UsersEstimate": 7710
     },
     {
       "ID": "achievement_a40",
@@ -14412,7 +14417,7 @@
       "Name": "For the Path",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 6223
+      "UsersEstimate": 6224
     },
     {
       "ID": "achievement_a8",
@@ -14435,7 +14440,7 @@
     {
       "ID": "3m4b0pk",
       "IsBase": true,
-      "Progressed": 9288,
+      "Progressed": 9289,
       "Completed": 55
     }
   ],
@@ -14443,8 +14448,8 @@
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
   "LastChanged": "2023-12-05T04:57:25.5857175+00:00",
-  "LastChanged_Achievements": "2023-12-05T14:09:06.5946295+00:00",
+  "LastChanged_Achievements": "2023-12-05T15:09:33.4356078+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:30.2850985+00:00",
-  "LastUpdate_Ratings": "2023-12-05T13:57:44.2683685+00:00",
-  "LastUpdate_Achievements": "2023-12-05T14:09:06.5947009+00:00"
+  "LastUpdate_Ratings": "2023-12-05T14:57:55.0538603+00:00",
+  "LastUpdate_Achievements": "2023-12-05T15:09:33.4356758+00:00"
 }

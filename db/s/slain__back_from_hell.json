@@ -244,7 +244,7 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 41524,
+  "EOS_Progressed": 41526,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 2,
@@ -25154,6 +25154,11 @@
       "Time": "2023-12-05T14:04:13.7514447+00:00",
       "NumProgressed": 41524,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-05T15:04:52.9736636+00:00",
+      "NumProgressed": 41526,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 29,
@@ -25205,7 +25210,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -25277,7 +25282,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -25317,7 +25322,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2491
+      "UsersEstimate": 2492
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -25325,7 +25330,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2491
+      "UsersEstimate": 2492
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -25396,7 +25401,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 41524,
+      "Progressed": 41526,
       "Completed": 28
     }
   ],
@@ -25404,8 +25409,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-02T18:57:45.107059+00:00",
-  "LastChanged_Achievements": "2023-12-05T14:04:13.7514442+00:00",
+  "LastChanged_Achievements": "2023-12-05T15:04:52.9736631+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:11.7949704+00:00",
-  "LastUpdate_Ratings": "2023-12-05T13:59:05.4397376+00:00",
-  "LastUpdate_Achievements": "2023-12-05T14:04:13.7515577+00:00"
+  "LastUpdate_Ratings": "2023-12-05T14:59:46.5810837+00:00",
+  "LastUpdate_Achievements": "2023-12-05T15:04:52.9738128+00:00"
 }

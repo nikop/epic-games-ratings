@@ -6,22 +6,22 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~31,861 |
-| Quick Understanding of Block Extrusion | 68.00% | ~28,887 |
-| Nature or Nurture | 52.00% | ~22,090 |
-| Power Glove | 50.00% | ~21,240 |
-| Forgotten Memories | 43.00% | ~18,267 |
-| Cogs in the Machine | 36.00% | ~15,293 |
-| Mission Success | 23.00% | ~9,771 |
-| There's No Place Like Home | 22.00% | ~9,346 |
-| Green Cube Killer | 19.00% | ~8,071 |
+| Lost in Space | 75.00% | ~31,864 |
+| Quick Understanding of Block Extrusion | 68.00% | ~28,890 |
+| Nature or Nurture | 52.00% | ~22,092 |
+| Power Glove | 50.00% | ~21,242 |
+| Forgotten Memories | 43.00% | ~18,269 |
+| Cogs in the Machine | 36.00% | ~15,295 |
+| Mission Success | 23.00% | ~9,772 |
+| There's No Place Like Home | 22.00% | ~9,347 |
+| Green Cube Killer | 19.00% | ~8,072 |
 | Infinity Loop | 17.00% | ~7,222 |
 | Path to Salvation | 17.00% | ~7,222 |
-| Descendants | 15.00% | ~6,372 |
+| Descendants | 15.00% | ~6,373 |
 | The Flawed Teacher | 12.00% | ~5,098 |
 | To Infinity and Beyond | 6.00% | ~2,549 |
 | The Truthful Enemy | 5.00% | ~2,124 |
-| Laser Sharp | 3.00% | ~1,274 |
+| Laser Sharp | 3.00% | ~1,275 |
 | Bronze collector | 2.00% | ~850 |
 | Home Stretch | 2.00% | ~850 |
 | Get me out of here | 2.00% | ~850 |
@@ -36,8 +36,8 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 1.00% | ~425 |
 | Expert Collector | 1.00% | ~425 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,481 (Ranked 119)  
-Completed: 191 (0.45%) (Ranked 216)  
+Progressed: 42,485 (Ranked 119)  
+Completed: 192 (0.45%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -142,7 +142,7 @@ Completed: 191 (0.45%) (Ranked 216)
 | 2023-12-02 | 42,121 | 183 |
 | 2023-12-03 | 42,320 | 186 |
 | 2023-12-04 | 42,415 | 190 |
-| 2023-12-05 | 42,481 | 191 |
+| 2023-12-05 | 42,485 | 192 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -649,9 +649,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471819,
+  "EOS_Progressed": 471820,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 331,
+  "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24444,6 +24444,11 @@
       "Time": "2023-12-05T14:09:48.0613075+00:00",
       "NumProgressed": 471819,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-05T15:10:24.97583+00:00",
+      "NumProgressed": 471820,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -24639,7 +24644,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160418
+      "UsersEstimate": 160419
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -24879,7 +24884,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207600
+      "UsersEstimate": 207601
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -24911,7 +24916,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184009
+      "UsersEstimate": 184010
     },
     {
       "ID": "achievement_win_run_hard",
@@ -25086,21 +25091,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15753,
+      "Progressed": 15754,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471819,
+      "Progressed": 471820,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-01T18:58:58.8781534+00:00",
-  "LastChanged_Achievements": "2023-12-05T14:09:48.0613069+00:00",
+  "LastChanged_Achievements": "2023-12-05T15:10:24.9758298+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:22.9078654+00:00",
-  "LastUpdate_Ratings": "2023-12-05T14:02:39.7008124+00:00",
-  "LastUpdate_Achievements": "2023-12-05T14:09:48.0614972+00:00"
+  "LastUpdate_Ratings": "2023-12-05T15:02:49.1537294+00:00",
+  "LastUpdate_Achievements": "2023-12-05T15:10:24.975994+00:00"
 }

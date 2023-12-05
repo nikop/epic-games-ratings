@@ -10,23 +10,23 @@
 | Death Battle | 47.00% | ~14 |
 | Phantom Kunoichi | 47.00% | ~14 |
 | Divine Retribution | 43.00% | ~13 |
+| Final Showdown | 40.00% | ~12 |
 | Dispel Rumors | 40.00% | ~12 |
+| The End of an Outlaw | 40.00% | ~12 |
 | Captain Mustache | 40.00% | ~12 |
-| Final Showdown | 37.00% | ~11 |
-| The End of an Outlaw | 37.00% | ~11 |
 | Sewer Rat | 33.00% | ~10 |
 | Demon Slayer | 30.00% | ~9 |
 | Urban Explorer | 30.00% | ~9 |
 | Steal Her Away | 30.00% | ~9 |
 | Coward | 30.00% | ~9 |
+| Not Today | 27.00% | ~8 |
 | Fight Fire With Fire | 27.00% | ~8 |
 | Big Eater | 23.00% | ~7 |
 | Tour Guide | 23.00% | ~7 |
-| Not Today | 23.00% | ~7 |
 | The Real O.G. | 20.00% | ~6 |
 | Tomb Raider | 20.00% | ~6 |
 | Talk to the Fist | 17.00% | ~5 |
-| The Hero of the People | 10.00% | ~3 |
+| The Hero of the People | 13.00% | ~4 |
 | Collector | 7.00% | ~2 |
 | The Legend | 7.00% | ~2 |
 | Taoist | 7.00% | ~2 |

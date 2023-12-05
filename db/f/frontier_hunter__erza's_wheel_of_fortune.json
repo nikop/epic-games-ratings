@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 553,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1897,9 +1897,9 @@
       "ID": "ACHIEVEMENT_25",
       "SetID": "7pimpda",
       "Name": "Beginner Artificer",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 199
+      "UsersEstimate": 205
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -2049,9 +2049,9 @@
       "ID": "ACHIEVEMENT_43",
       "SetID": "7pimpda",
       "Name": "Warden Slayer",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -2130,8 +2130,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-05T14:08:25.8638761+00:00",
+  "LastChanged_Achievements": "2023-12-05T15:08:42.5839894+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.7212859+00:00",
-  "LastUpdate_Ratings": "2023-12-05T14:02:45.3653974+00:00",
-  "LastUpdate_Achievements": "2023-12-05T14:08:25.8639199+00:00"
+  "LastUpdate_Ratings": "2023-12-05T15:02:56.8099014+00:00",
+  "LastUpdate_Achievements": "2023-12-05T15:08:42.5840294+00:00"
 }

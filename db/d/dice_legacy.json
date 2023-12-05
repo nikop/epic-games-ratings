@@ -3,8 +3,8 @@
   "Name": "Dice Legacy",
   "ProductSlug": "dice-legacy",
   "Ranking_Rating": 871,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 557,
+  "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 310,
@@ -2394,9 +2394,9 @@
       "ID": "EXILED_DESTROY_CAMP",
       "SetID": "6ohhfoc",
       "Name": "Burn and Pillage",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 83
     },
     {
       "ID": "EXILED_MERCHANT_FRIEND",
@@ -2611,8 +2611,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-11-18T18:58:25.1922744+00:00",
-  "LastChanged_Achievements": "2023-12-05T14:06:35.502559+00:00",
+  "LastChanged_Achievements": "2023-12-05T15:07:52.9261035+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:25.2569096+00:00",
-  "LastUpdate_Ratings": "2023-12-05T14:02:47.558956+00:00",
-  "LastUpdate_Achievements": "2023-12-05T14:06:35.5026012+00:00"
+  "LastUpdate_Ratings": "2023-12-05T15:03:00.0834959+00:00",
+  "LastUpdate_Achievements": "2023-12-05T15:07:52.9261399+00:00"
 }
