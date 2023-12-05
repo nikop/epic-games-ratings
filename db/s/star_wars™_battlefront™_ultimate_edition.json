@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1586,
+  "EOS_Progressed": 1587,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4704,6 +4704,11 @@
       "Time": "2023-12-05T08:09:27.7637034+00:00",
       "NumProgressed": 1586,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-05T11:10:40.5101378+00:00",
+      "NumProgressed": 1587,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4908,7 +4913,7 @@
       "Name": "Scrap collector",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "achievement_32",
@@ -4940,7 +4945,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 1427
+      "UsersEstimate": 1428
     },
     {
       "ID": "achievement_36",
@@ -4980,15 +4985,15 @@
       "Name": "I suggest a new strategy",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "achievement_40",
       "SetID": "271ol84",
       "Name": "Do... or do not. There is no try",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 809
+      "UsersEstimate": 794
     },
     {
       "ID": "achievement_41",
@@ -5156,7 +5161,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "achievement_60",
@@ -5219,13 +5224,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1586,
+      "Progressed": 1587,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1586,
+      "Progressed": 1587,
       "Completed": 1
     }
   ],
@@ -5233,8 +5238,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-05T10:09:28.8728007+00:00",
+  "LastChanged_Achievements": "2023-12-05T11:10:40.5101373+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:10.1536923+00:00",
-  "LastUpdate_Ratings": "2023-12-05T10:02:35.188132+00:00",
-  "LastUpdate_Achievements": "2023-12-05T10:09:28.8728722+00:00"
+  "LastUpdate_Ratings": "2023-12-05T11:02:14.7276023+00:00",
+  "LastUpdate_Achievements": "2023-12-05T11:10:40.5101987+00:00"
 }

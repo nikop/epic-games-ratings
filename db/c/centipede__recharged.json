@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -329,7 +329,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22493,
+  "EOS_Progressed": 22494,
   "EOS_Completed": 116,
   "EOS_NewPlayers": 790,
   "EOS_NewCompleters": 1,
@@ -18764,6 +18764,11 @@
       "Time": "2023-12-05T09:05:07.3151615+00:00",
       "NumProgressed": 22493,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-12-05T11:05:20.7342373+00:00",
+      "NumProgressed": 22494,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 16,
@@ -18775,7 +18780,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 5398
+      "UsersEstimate": 5399
     },
     {
       "ID": "Burning_For_You",
@@ -18847,7 +18852,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 8772
+      "UsersEstimate": 8773
     },
     {
       "ID": "Mirrors",
@@ -18902,15 +18907,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 22493,
+      "Progressed": 22494,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-11-18T21:04:30.8986363+00:00",
-  "LastChanged_Achievements": "2023-12-05T10:04:24.2231648+00:00",
+  "LastChanged_Achievements": "2023-12-05T11:05:20.7342368+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:17.3342523+00:00",
-  "LastUpdate_Ratings": "2023-12-05T09:58:11.0821983+00:00",
-  "LastUpdate_Achievements": "2023-12-05T10:04:24.223279+00:00"
+  "LastUpdate_Ratings": "2023-12-05T10:58:55.8822355+00:00",
+  "LastUpdate_Achievements": "2023-12-05T11:05:20.7343331+00:00"
 }

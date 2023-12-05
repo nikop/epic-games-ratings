@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -7239,10 +7239,10 @@
       "Count": 510
     }
   ],
-  "EOS_Progressed": 730387,
+  "EOS_Progressed": 730397,
   "EOS_Completed": 2463,
-  "EOS_NewPlayers": 3422,
-  "EOS_NewCompleters": 19,
+  "EOS_NewPlayers": 3415,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -33474,6 +33474,11 @@
       "Time": "2023-12-05T10:08:29.1760808+00:00",
       "NumProgressed": 730387,
       "NumCompleted": 2463
+    },
+    {
+      "Time": "2023-12-05T11:09:16.6597411+00:00",
+      "NumProgressed": 730397,
+      "NumCompleted": 2463
     }
   ],
   "TotalAchievements": 51,
@@ -33725,7 +33730,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6573
+      "UsersEstimate": 6574
     },
     {
       "ID": "ach_revival_tour",
@@ -33741,7 +33746,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6573
+      "UsersEstimate": 6574
     },
     {
       "ID": "ach_secrets_of_la",
@@ -33781,7 +33786,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 6573
+      "UsersEstimate": 6574
     },
     {
       "ID": "ach_the_vcla",
@@ -33892,13 +33897,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 730387,
+      "Progressed": 730397,
       "Completed": 2463
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 55929,
+      "Progressed": 55939,
       "Completed": 36629
     }
   ],
@@ -33906,8 +33911,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-12-05T01:45:41.4460983+00:00",
-  "LastChanged_Achievements": "2023-12-05T10:08:29.1760799+00:00",
+  "LastChanged_Achievements": "2023-12-05T11:09:16.6597406+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:31.1640976+00:00",
-  "LastUpdate_Ratings": "2023-12-05T09:57:27.7681834+00:00",
-  "LastUpdate_Achievements": "2023-12-05T10:08:29.1762321+00:00"
+  "LastUpdate_Ratings": "2023-12-05T10:57:49.931262+00:00",
+  "LastUpdate_Achievements": "2023-12-05T11:09:16.659901+00:00"
 }

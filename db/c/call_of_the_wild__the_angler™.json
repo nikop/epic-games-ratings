@@ -937,9 +937,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 6744,
+  "EOS_Progressed": 6745,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10782,6 +10782,11 @@
       "Time": "2023-12-05T07:08:05.2568322+00:00",
       "NumProgressed": 6744,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-05T11:03:55.8897771+00:00",
+      "NumProgressed": 6745,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -10871,9 +10876,9 @@
       "ID": "ACHIEVEMENT_011",
       "SetID": "1a05lfd",
       "Name": "More than a Tourist",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_012",
@@ -11112,13 +11117,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6744,
+      "Progressed": 6745,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6116,
+      "Progressed": 6117,
       "Completed": 113
     }
   ],
@@ -11126,8 +11131,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-28T18:00:23.7744062+00:00",
-  "LastChanged_Achievements": "2023-12-05T09:08:30.8912654+00:00",
+  "LastChanged_Achievements": "2023-12-05T11:03:55.8897763+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:39.2782918+00:00",
-  "LastUpdate_Ratings": "2023-12-05T09:59:31.8992577+00:00",
-  "LastUpdate_Achievements": "2023-12-05T09:08:30.8913382+00:00"
+  "LastUpdate_Ratings": "2023-12-05T11:00:57.56454+00:00",
+  "LastUpdate_Achievements": "2023-12-05T11:03:55.8899355+00:00"
 }

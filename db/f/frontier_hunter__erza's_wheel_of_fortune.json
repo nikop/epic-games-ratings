@@ -1780,17 +1780,17 @@
       "ID": "ACHIEVEMENT_12",
       "SetID": "7pimpda",
       "Name": "Nosebleeder",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_13",
       "SetID": "7pimpda",
       "Name": "Flying Kobold Killer",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -2125,8 +2125,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-05T10:08:16.2682628+00:00",
+  "LastChanged_Achievements": "2023-12-05T11:08:58.3645152+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.7212859+00:00",
-  "LastUpdate_Ratings": "2023-12-05T10:02:49.8548985+00:00",
-  "LastUpdate_Achievements": "2023-12-05T10:08:16.2683035+00:00"
+  "LastUpdate_Ratings": "2023-12-05T11:03:17.0166167+00:00",
+  "LastUpdate_Achievements": "2023-12-05T11:08:58.3645492+00:00"
 }

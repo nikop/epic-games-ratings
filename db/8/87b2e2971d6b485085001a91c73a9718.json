@@ -4,7 +4,7 @@
   "ProductSlug": "kaze-and-the-wild-masks-94a27d",
   "Ranking_EOS_Progress": 616,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-11-30T08:00:00+00:00",
@@ -268,9 +268,9 @@
       "ID": "8",
       "SetID": "279eo25",
       "Name": "Bonus Addict",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "9",
@@ -291,8 +291,8 @@
   ],
   "FirstSeen": "2023-12-03T09:57:17.9885642+00:00",
   "FirstSeenAchievements": "2023-11-20T15:03:30.7239426+00:00",
-  "LastChanged_Achievements": "2023-12-05T10:08:24.5984594+00:00",
+  "LastChanged_Achievements": "2023-12-05T11:09:10.2941061+00:00",
   "LastUpdate_AppInfo": "2023-12-04T15:57:13.2655185+00:00",
-  "LastUpdate_Ratings": "2023-12-05T09:58:27.3739806+00:00",
-  "LastUpdate_Achievements": "2023-12-05T10:08:24.5984724+00:00"
+  "LastUpdate_Ratings": "2023-12-05T10:59:20.2367333+00:00",
+  "LastUpdate_Achievements": "2023-12-05T11:09:10.2941224+00:00"
 }

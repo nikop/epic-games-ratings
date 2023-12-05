@@ -8,7 +8,7 @@
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
-    "PcReleaseDate": "2023-09-30T00:00:00+00:00",
+    "PcReleaseDate": "2023-12-31T00:00:00+00:00",
     "isBlockchainUsed": false,
     "isEpicFirstRun": false,
     "EpicFirstRunAdded": null,
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-03T15:57:11.1110903+00:00",
-  "LastUpdate_Ratings": "2023-12-05T09:58:29.7033106+00:00",
-  "LastUpdate_Achievements": "2023-12-05T10:04:57.3339862+00:00"
+  "LastUpdate_Ratings": "2023-12-05T10:59:23.7628106+00:00",
+  "LastUpdate_Achievements": "2023-12-05T11:06:08.3313347+00:00"
 }

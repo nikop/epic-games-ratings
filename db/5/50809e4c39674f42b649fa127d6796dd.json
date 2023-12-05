@@ -1137,9 +1137,9 @@
       "ID": "FIRST_S_RANK",
       "SetID": "apihg0e",
       "Name": "Superior Ranking",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 162
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1329,9 +1329,9 @@
       "ID": "TOTAL_DESTROYED_OBJECT",
       "SetID": "apihg0e",
       "Name": "Swath of Destruction",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 129
     }
   ],
   "AchievementSets": [
@@ -1344,8 +1344,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-05T10:03:28.966976+00:00",
+  "LastChanged_Achievements": "2023-12-05T11:04:03.3686346+00:00",
   "LastUpdate_AppInfo": "2023-11-28T17:56:55.9843317+00:00",
-  "LastUpdate_Ratings": "2023-12-05T10:02:58.241135+00:00",
-  "LastUpdate_Achievements": "2023-12-05T10:03:28.9670115+00:00"
+  "LastUpdate_Ratings": "2023-12-05T11:03:29.9345648+00:00",
+  "LastUpdate_Achievements": "2023-12-05T11:04:03.3686645+00:00"
 }

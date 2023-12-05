@@ -12,33 +12,33 @@ Number of Ratings: 70,340  (23.09.2022)
 | Skillful | 1.00% | ~10,711 |
 | Apt Survivor | 0.90% | ~9,640 |
 | Make Some Noise | 0.90% | ~9,640 |
-| Handyman | 0.80% | ~8,568 |
-| Survival Treasures | 0.80% | ~8,568 |
-| I | 0.80% | ~8,568 |
-| No one left behind | 0.70% | ~7,497 |
-| Medic | 0.70% | ~7,497 |
-| Sorted | 0.70% | ~7,497 |
-| Resurgence | 0.70% | ~7,497 |
-| Preemptive Strike | 0.70% | ~7,497 |
-| The Grand Sacrifice | 0.60% | ~6,426 |
-| Perfect Escape | 0.60% | ~6,426 |
-| Bloody Millionaire | 0.60% | ~6,426 |
-| Healthy Obsession | 0.60% | ~6,426 |
-| Humanitarian | 0.60% | ~6,426 |
-| Agonizing Escape | 0.50% | ~5,355 |
-| Backdoor Escape | 0.50% | ~5,355 |
-| I've got your back | 0.50% | ~5,355 |
-| Perfect Killing | 0.50% | ~5,355 |
-| Apt Killer | 0.50% | ~5,355 |
-| Risk it all | 0.50% | ~5,355 |
-| II | 0.50% | ~5,355 |
-| Engineer | 0.50% | ~5,355 |
-| Wounded Healer | 0.50% | ~5,355 |
-| Close Shave | 0.50% | ~5,355 |
-| Vulture | 0.40% | ~4,284 |
-| III | 0.40% | ~4,284 |
-| With Scars to Show | 0.40% | ~4,284 |
-| Lifting The Fog | 0.40% | ~4,284 |
+| Handyman | 0.80% | ~8,569 |
+| Survival Treasures | 0.80% | ~8,569 |
+| I | 0.80% | ~8,569 |
+| No one left behind | 0.70% | ~7,498 |
+| Medic | 0.70% | ~7,498 |
+| Sorted | 0.70% | ~7,498 |
+| Resurgence | 0.70% | ~7,498 |
+| Preemptive Strike | 0.70% | ~7,498 |
+| The Grand Sacrifice | 0.60% | ~6,427 |
+| Perfect Escape | 0.60% | ~6,427 |
+| Bloody Millionaire | 0.60% | ~6,427 |
+| Healthy Obsession | 0.60% | ~6,427 |
+| Humanitarian | 0.60% | ~6,427 |
+| Agonizing Escape | 0.50% | ~5,356 |
+| Backdoor Escape | 0.50% | ~5,356 |
+| I've got your back | 0.50% | ~5,356 |
+| Perfect Killing | 0.50% | ~5,356 |
+| Apt Killer | 0.50% | ~5,356 |
+| Risk it all | 0.50% | ~5,356 |
+| II | 0.50% | ~5,356 |
+| Engineer | 0.50% | ~5,356 |
+| Wounded Healer | 0.50% | ~5,356 |
+| Close Shave | 0.50% | ~5,356 |
+| Vulture | 0.40% | ~4,285 |
+| III | 0.40% | ~4,285 |
+| With Scars to Show | 0.40% | ~4,285 |
+| Lifting The Fog | 0.40% | ~4,285 |
 | Blood on your hands | 0.30% | ~3,213 |
 | Escape Artist | 0.30% | ~3,213 |
 | Made it out alive! | 0.30% | ~3,213 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Joke’s On You | 0.10% | ~1,071 |
 | Adept Good Guy | 0.10% | ~1,071 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,071,058 (Ranked 14)  
+Progressed: 1,071,134 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -468,7 +468,7 @@ Completed: 61 (0.01%) (Ranked 346)
 | 2023-12-02 | 1,062,340 | 61 |
 | 2023-12-03 | 1,067,390 | 61 |
 | 2023-12-04 | 1,070,133 | 61 |
-| 2023-12-05 | 1,071,058 | 61 |
+| 2023-12-05 | 1,071,134 | 61 |
 ## Awards
 Max (Diverse Characters): 37,289  (Ranked 15)  
 Sum: 283,155 (Ranked 12)  

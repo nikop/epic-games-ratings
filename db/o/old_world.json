@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2100,9 +2100,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15642,
+  "EOS_Progressed": 15643,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17160,6 +17160,11 @@
       "Time": "2023-12-05T09:06:03.3454712+00:00",
       "NumProgressed": 15642,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-05T11:06:19.6808282+00:00",
+      "NumProgressed": 15643,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -17259,7 +17264,7 @@
       "Name": "Ishtar Gate in Babylon",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACHIEVEMENT_BARBARIAN_INVASION",
@@ -17323,7 +17328,7 @@
       "Name": "Carthage - Ox Hide",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_1_BRONZE",
@@ -18723,7 +18728,7 @@
       "Name": "Learn to Play 5",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACHIEVEMENT_MACEDONIAN_WARS",
@@ -18835,7 +18840,7 @@
       "Name": "Old World Order",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACHIEVEMENT_ONE_TRUE_FAITH",
@@ -19211,7 +19216,7 @@
       "Name": "Cataphract Archer",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CIMMERIAN_ARCHER",
@@ -19323,7 +19328,7 @@
       "Name": "No Undo",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_ONE_CITY_CHALLENGE",
@@ -19459,7 +19464,7 @@
       "Name": "Deposed Tribe",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DISSENT_ALL",
@@ -19483,7 +19488,7 @@
       "Name": "The Great Mage",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_MYTHICAL_BEAST",
@@ -19883,7 +19888,7 @@
       "Name": "Kush",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_KUSH",
@@ -19899,28 +19904,28 @@
       "Name": "Beja Archer",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     }
   ],
   "AchievementSets": [
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15642,
+      "Progressed": 15643,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15642,
+      "Progressed": 15643,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-05T01:45:43.8442323+00:00",
-  "LastChanged_Achievements": "2023-12-05T10:05:05.1516247+00:00",
+  "LastChanged_Achievements": "2023-12-05T11:06:19.6808277+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:20.3030051+00:00",
-  "LastUpdate_Ratings": "2023-12-05T09:57:30.2431039+00:00",
-  "LastUpdate_Achievements": "2023-12-05T10:05:05.1525259+00:00"
+  "LastUpdate_Ratings": "2023-12-05T10:57:53.8392009+00:00",
+  "LastUpdate_Achievements": "2023-12-05T11:06:19.6817723+00:00"
 }

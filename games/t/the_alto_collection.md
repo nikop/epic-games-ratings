@@ -6,14 +6,14 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~13,215 |
-| Finding Your Footing | 25.00% | ~12,236 |
-| Nomad | 17.00% | ~8,320 |
-| Picking Up Speed | 16.00% | ~7,831 |
-| Welcome Maya | 14.00% | ~6,852 |
+| Rookie | 27.00% | ~13,216 |
+| Finding Your Footing | 25.00% | ~12,237 |
+| Nomad | 17.00% | ~8,321 |
+| Picking Up Speed | 16.00% | ~7,832 |
+| Welcome Maya | 14.00% | ~6,853 |
 | Scout | 11.00% | ~5,384 |
 | Sightseer | 11.00% | ~5,384 |
-| Amateur | 10.00% | ~4,894 |
+| Amateur | 10.00% | ~4,895 |
 | Unlock Maya | 8.00% | ~3,916 |
 | Wanderer | 8.00% | ~3,916 |
 | Enter Paz | 7.00% | ~3,426 |
@@ -36,7 +36,7 @@ Number of Ratings: 332  (23.09.2022)
 | Daredevil | 1.00% | ~489 |
 | Introducing Sumara | 1.00% | ~489 |
 | Vandal | 1.00% | ~489 |
-| Unlock Felipe | 0.90% | ~440 |
+| Unlock Felipe | 0.90% | ~441 |
 | Adventurer | 0.80% | ~392 |
 | Unlock Tupa | 0.50% | ~245 |
 | Master Of The Sands | 0.30% | ~147 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~49 |
 | Windswept | 0.10% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,944 (Ranked 113)  
+Progressed: 48,949 (Ranked 113)  
 Completed: 5 (0.01%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,17 +275,17 @@ Completed: 5 (0.01%) (Ranked 346)
 | 2023-12-02 | 48,542 | 5 |
 | 2023-12-03 | 48,800 | 5 |
 | 2023-12-04 | 48,906 | 5 |
-| 2023-12-05 | 48,944 | 5 |
+| 2023-12-05 | 48,949 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 440)  
-Sum: 375 (Ranked 349)  
+Sum: 376 (Ranked 349)  
 Diff (max vs sum): 91  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 48 |
 | This game is Great for Beginners | 44 |
+| This game has Beautiful Visuals | 42 |
 | This game is Highly Recommended | 42 |
-| This game has Beautiful Visuals | 41 |
 | This game has Quickly Understood Controls | 39 |
 | This game is Extremely Fun | 38 |
 | This game is Relaxing | 36 |
@@ -411,3 +411,4 @@ Diff (max vs sum): 91
 | 2023-11-23 | 4.71 | - | 48 | 373 |
 | 2023-11-25 | 4.71 | - | 48 | 374 |
 | 2023-11-29 | 4.71 | - | 48 | 375 |
+| 2023-12-05 | 4.71 | - | 48 | 376 |

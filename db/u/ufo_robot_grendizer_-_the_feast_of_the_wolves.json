@@ -4,7 +4,7 @@
   "ProductSlug": "goldorak-d90cf1",
   "Ranking_EOS_Progress": 605,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 12,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -291,9 +291,9 @@
       "ID": "ACH_THEINTERSTELLARFIGHTER",
       "SetID": "ch874lb",
       "Name": "The Interstellar Fighter",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_THEROYALGUARD",
@@ -346,8 +346,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2023-12-05T10:08:49.4955675+00:00",
+  "LastChanged_Achievements": "2023-12-05T11:09:45.8792232+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:12.6917781+00:00",
-  "LastUpdate_Ratings": "2023-12-05T09:58:34.6760258+00:00",
-  "LastUpdate_Achievements": "2023-12-05T10:08:49.4955835+00:00"
+  "LastUpdate_Ratings": "2023-12-05T10:59:30.8165196+00:00",
+  "LastUpdate_Achievements": "2023-12-05T11:09:45.8792415+00:00"
 }

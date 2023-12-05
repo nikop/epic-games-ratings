@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -4836,9 +4836,9 @@
       "ID": "achievement_4",
       "SetID": "b9pe172",
       "Name": "Council Legion of Merit",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 814
+      "UsersEstimate": 829
     },
     {
       "ID": "achievement_40",
@@ -5376,8 +5376,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-05T10:08:55.57129+00:00",
+  "LastChanged_Achievements": "2023-12-05T11:09:54.6076423+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:17.762066+00:00",
-  "LastUpdate_Ratings": "2023-12-05T10:03:07.0303461+00:00",
-  "LastUpdate_Achievements": "2023-12-05T10:08:55.5714433+00:00"
+  "LastUpdate_Ratings": "2023-12-05T11:03:43.6663991+00:00",
+  "LastUpdate_Achievements": "2023-12-05T11:09:54.6078066+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 31,
+  "Ranking_EOS_NewPlayers": 32,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
@@ -4154,10 +4154,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 3202,
       "NumberOfAwardsMax": 402
+    },
+    {
+      "Time": "2023-12-05T10:59:12.5347148+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3204,
+      "NumberOfAwardsMax": 402
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3202,
+  "NumberOfAwards": 3204,
   "NumberOfAwardsMax": 402,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -4189,7 +4195,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 391
+      "Count": 392
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4213,7 +4219,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 303
+      "Count": 304
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4228,9 +4234,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 497291,
+  "EOS_Progressed": 497302,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3628,
+  "EOS_NewPlayers": 3619,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30413,6 +30419,11 @@
       "Time": "2023-12-05T10:05:40.669328+00:00",
       "NumProgressed": 497291,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-05T11:07:10.0803831+00:00",
+      "NumProgressed": 497302,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -30456,7 +30467,7 @@
       "Name": "Cinematic",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2486
+      "UsersEstimate": 2487
     },
     {
       "ID": "ACH_DESIGNATED_DRIVER",
@@ -30703,15 +30714,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 497291,
+      "Progressed": 497302,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2023-12-04T01:46:00.9658729+00:00",
-  "LastChanged_Achievements": "2023-12-05T10:05:40.6693275+00:00",
+  "LastChanged": "2023-12-05T10:59:12.5347148+00:00",
+  "LastChanged_Achievements": "2023-12-05T11:07:10.0803828+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:50.9367232+00:00",
-  "LastUpdate_Ratings": "2023-12-05T09:58:22.3692477+00:00",
-  "LastUpdate_Achievements": "2023-12-05T10:05:40.6694819+00:00"
+  "LastUpdate_Ratings": "2023-12-05T10:59:12.5347152+00:00",
+  "LastUpdate_Achievements": "2023-12-05T11:07:10.0805823+00:00"
 }

@@ -2062,9 +2062,9 @@
       "Count": 73
     }
   ],
-  "EOS_Progressed": 490984,
+  "EOS_Progressed": 490985,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 430,
+  "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26092,6 +26092,11 @@
       "Time": "2023-12-05T10:06:26.4047814+00:00",
       "NumProgressed": 490984,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-05T11:08:16.6201706+00:00",
+      "NumProgressed": 490985,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 87,
@@ -26215,7 +26220,7 @@
       "Name": "Confident",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 201303
+      "UsersEstimate": 201304
     },
     {
       "ID": "CORECONTAINER",
@@ -26231,7 +26236,7 @@
       "Name": "Death From Above",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 78557
+      "UsersEstimate": 78558
     },
     {
       "ID": "DIVERSITY",
@@ -26247,7 +26252,7 @@
       "Name": "Eradicator",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 328959
+      "UsersEstimate": 328960
     },
     {
       "ID": "EXTERMINATOR",
@@ -26255,7 +26260,7 @@
       "Name": "Exterminator",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 176754
+      "UsersEstimate": 176755
     },
     {
       "ID": "FAITHFULCOMPANION",
@@ -26271,7 +26276,7 @@
       "Name": "Field Promotion",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 363328
+      "UsersEstimate": 363329
     },
     {
       "ID": "FILTHYRICH",
@@ -26295,7 +26300,7 @@
       "Name": "First Blood",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 397697
+      "UsersEstimate": 397698
     },
     {
       "ID": "FLAWLESSVICTORY",
@@ -26303,7 +26308,7 @@
       "Name": "Flawless Victory",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 206213
+      "UsersEstimate": 206214
     },
     {
       "ID": "FLURRY",
@@ -26423,7 +26428,7 @@
       "Name": "Kaboom!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 147295
+      "UsersEstimate": 147296
     },
     {
       "ID": "KICKSTARTER",
@@ -26447,7 +26452,7 @@
       "Name": "Liquidator",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 142385
+      "UsersEstimate": 142386
     },
     {
       "ID": "MAJESTICPONY",
@@ -26551,7 +26556,7 @@
       "Name": "Penny Pincher",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 240582
+      "UsersEstimate": 240583
     },
     {
       "ID": "PEWPEW",
@@ -26615,7 +26620,7 @@
       "Name": "Retry",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 78557
+      "UsersEstimate": 78558
     },
     {
       "ID": "RETRYAGAIN",
@@ -26783,7 +26788,7 @@
       "Name": "Yellow Beats Green",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 274951
+      "UsersEstimate": 274952
     },
     {
       "ID": "YOUMONSTER",
@@ -26798,15 +26803,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 490984,
+      "Progressed": 490985,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2023-11-29T01:52:46.4996179+00:00",
-  "LastChanged_Achievements": "2023-12-05T10:06:26.404781+00:00",
+  "LastChanged_Achievements": "2023-12-05T11:08:16.6201703+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:06.9874031+00:00",
-  "LastUpdate_Ratings": "2023-12-05T10:02:52.6480326+00:00",
-  "LastUpdate_Achievements": "2023-12-05T10:06:26.4049399+00:00"
+  "LastUpdate_Ratings": "2023-12-05T11:03:21.051539+00:00",
+  "LastUpdate_Achievements": "2023-12-05T11:08:16.6203272+00:00"
 }

@@ -782,10 +782,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 375,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-12-05T11:01:41.3083853+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 376,
+      "NumberOfAwardsMax": 48
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 375,
+  "NumberOfAwards": 376,
   "NumberOfAwardsMax": 48,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -811,7 +817,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game is Highly Recommended",
@@ -850,9 +856,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 48944,
+  "EOS_Progressed": 48949,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 913,
+  "EOS_NewPlayers": 915,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26760,6 +26766,11 @@
       "Time": "2023-12-05T10:03:58.7529795+00:00",
       "NumProgressed": 48944,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-05T11:04:44.6240867+00:00",
+      "NumProgressed": 48949,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -26811,7 +26822,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 13215
+      "UsersEstimate": 13216
     },
     {
       "ID": "goals180",
@@ -26827,7 +26838,7 @@
       "Name": "Amateur",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4894
+      "UsersEstimate": 4895
     },
     {
       "ID": "goals75",
@@ -26891,7 +26902,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 8320
+      "UsersEstimate": 8321
     },
     {
       "ID": "novice",
@@ -26899,7 +26910,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7831
+      "UsersEstimate": 7832
     },
     {
       "ID": "playerFelipe",
@@ -26907,7 +26918,7 @@
       "Name": "Unlock Felipe",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "playerIzel",
@@ -26979,7 +26990,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 12236
+      "UsersEstimate": 12237
     },
     {
       "ID": "sandboarder",
@@ -27035,7 +27046,7 @@
       "Name": "Welcome Maya",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6852
+      "UsersEstimate": 6853
     },
     {
       "ID": "unlockpaz",
@@ -27082,15 +27093,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 48944,
+      "Progressed": 48949,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
-  "LastChanged": "2023-11-29T16:56:50.2159506+00:00",
-  "LastChanged_Achievements": "2023-12-05T10:03:58.7529789+00:00",
+  "LastChanged": "2023-12-05T11:01:41.308385+00:00",
+  "LastChanged_Achievements": "2023-12-05T11:04:44.6240863+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:54.929935+00:00",
-  "LastUpdate_Ratings": "2023-12-05T10:00:02.0451456+00:00",
-  "LastUpdate_Achievements": "2023-12-05T10:03:58.7531276+00:00"
+  "LastUpdate_Ratings": "2023-12-05T11:01:41.3083856+00:00",
+  "LastUpdate_Achievements": "2023-12-05T11:04:44.6242543+00:00"
 }

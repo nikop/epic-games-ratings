@@ -20,6 +20,7 @@
 | The Planner | 8.00% | ~1 |
 | Earth's Savior | 8.00% | ~1 |
 | Saucer Beast Unchained | 8.00% | ~1 |
+| The Interstellar Fighter | 8.00% | ~1 |
 | The Space Hydra | 8.00% | ~1 |
 | The Ultimate Attack | 8.00% | ~1 |
 | Gold Seeker | 0.00% | ~0 |
@@ -31,7 +32,6 @@
 | The Battle Axe | 0.00% | ~0 |
 | The Fire Cannons | 0.00% | ~0 |
 | The Flying Octopus | 0.00% | ~0 |
-| The Interstellar Fighter | 0.00% | ~0 |
 | The Royal Guard | 0.00% | ~0 |
 | Vengeance of the Wolf | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

@@ -5175,9 +5175,9 @@
       "Count": 403
     }
   ],
-  "EOS_Progressed": 235119,
+  "EOS_Progressed": 235141,
   "EOS_Completed": 558,
-  "EOS_NewPlayers": 5317,
+  "EOS_NewPlayers": 5319,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -21460,6 +21460,11 @@
       "Time": "2023-12-05T10:08:44.6741912+00:00",
       "NumProgressed": 235119,
       "NumCompleted": 558
+    },
+    {
+      "Time": "2023-12-05T11:09:38.8715842+00:00",
+      "NumProgressed": 235141,
+      "NumCompleted": 558
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21488,7 +21493,7 @@
       "Name": "Am I Seeing This?",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "Defeat_Abberations_B",
@@ -21520,7 +21525,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -21576,7 +21581,7 @@
       "Name": "Not So Special Now",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "Defeat_Tal_Ratha",
@@ -21616,7 +21621,7 @@
       "Name": "Not a Janitor",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "Meet_Flautist",
@@ -21624,7 +21629,7 @@
       "Name": "Familiar Face",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "Meet_Meidra",
@@ -21632,7 +21637,7 @@
       "Name": "Equal Measures",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "Meet_Mudtooth",
@@ -21648,7 +21653,7 @@
       "Name": "Blue Goddess",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "Obtain_Archetype",
@@ -21664,7 +21669,7 @@
       "Name": "Duality",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -21672,7 +21677,7 @@
       "Name": "Top Performer",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "Obtain_Archetype_Secret",
@@ -21816,7 +21821,7 @@
       "Name": "Almost There",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "Upgrade_Relic",
@@ -21824,7 +21829,7 @@
       "Name": "Make Some Room",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "Upgrade_Standard_Weapon_A",
@@ -21832,7 +21837,7 @@
       "Name": "Good, But Could Be Better!",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "Upgrade_Standard_Weapon_B",
@@ -21848,7 +21853,7 @@
       "Name": "Trait Chaser",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -21911,13 +21916,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 235119,
+      "Progressed": 235141,
       "Completed": 558
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 14284,
+      "Progressed": 14306,
       "Completed": 195
     }
   ],
@@ -21925,8 +21930,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-05T05:03:13.965754+00:00",
-  "LastChanged_Achievements": "2023-12-05T10:08:44.6741908+00:00",
+  "LastChanged_Achievements": "2023-12-05T11:09:38.8715838+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-05T10:03:11.6217511+00:00",
-  "LastUpdate_Achievements": "2023-12-05T10:08:44.6742905+00:00"
+  "LastUpdate_Ratings": "2023-12-05T11:03:50.6404955+00:00",
+  "LastUpdate_Achievements": "2023-12-05T11:09:38.8716782+00:00"
 }

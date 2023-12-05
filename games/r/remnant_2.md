@@ -13,19 +13,19 @@ Rating: 4.75 (Ranked 147)
 | Expanding Horizons | 0.50% | ~1,176 |
 | Quest for Survival | 0.50% | ~1,176 |
 | Boss'n Up | 0.50% | ~1,176 |
-| Am I Seeing This? | 0.40% | ~940 |
-| Gleaming the Cube | 0.40% | ~940 |
-| Not So Special Now | 0.40% | ~940 |
-| Not a Janitor | 0.40% | ~940 |
-| Familiar Face | 0.40% | ~940 |
-| Equal Measures | 0.40% | ~940 |
-| Blue Goddess | 0.40% | ~940 |
-| Duality | 0.40% | ~940 |
-| Top Performer | 0.40% | ~940 |
-| Almost There | 0.40% | ~940 |
-| Make Some Room | 0.40% | ~940 |
-| Good, But Could Be Better! | 0.40% | ~940 |
-| Trait Chaser | 0.40% | ~940 |
+| Am I Seeing This? | 0.40% | ~941 |
+| Gleaming the Cube | 0.40% | ~941 |
+| Not So Special Now | 0.40% | ~941 |
+| Not a Janitor | 0.40% | ~941 |
+| Familiar Face | 0.40% | ~941 |
+| Equal Measures | 0.40% | ~941 |
+| Blue Goddess | 0.40% | ~941 |
+| Duality | 0.40% | ~941 |
+| Top Performer | 0.40% | ~941 |
+| Almost There | 0.40% | ~941 |
+| Make Some Room | 0.40% | ~941 |
+| Good, But Could Be Better! | 0.40% | ~941 |
+| Trait Chaser | 0.40% | ~941 |
 | Ghost in the Machine | 0.30% | ~705 |
 | Chaos | 0.30% | ~705 |
 | Traitor | 0.30% | ~705 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 147)
 | You Shall Pass | 0.20% | ~29 |
 | A Foul Feast | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,119 (Ranked 68)  
+Progressed: 235,141 (Ranked 68)  
 Completed: 558 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 558 (0.24%) (Ranked 251)
 | 2023-12-02 | 233,162 | 548 |
 | 2023-12-03 | 234,204 | 554 |
 | 2023-12-04 | 234,896 | 558 |
-| 2023-12-05 | 235,119 | 558 |
+| 2023-12-05 | 235,141 | 558 |
 ## Awards
 Max (Great Boss Battles): 2,623  (Ranked 102)  
 Sum: 6,492 (Ranked 128)  

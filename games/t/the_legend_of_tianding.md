@@ -23,8 +23,8 @@
 | Big Eater | 23.00% | ~7 |
 | Tour Guide | 23.00% | ~7 |
 | Not Today | 23.00% | ~7 |
+| The Real O.G. | 20.00% | ~6 |
 | Tomb Raider | 20.00% | ~6 |
-| The Real O.G. | 17.00% | ~5 |
 | Talk to the Fist | 17.00% | ~5 |
 | The Hero of the People | 10.00% | ~3 |
 | Collector | 7.00% | ~2 |

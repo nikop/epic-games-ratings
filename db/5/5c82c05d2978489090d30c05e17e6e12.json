@@ -155,9 +155,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63492,
+  "EOS_Progressed": 63507,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 4152,
+  "EOS_NewPlayers": 4150,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2395,6 +2395,11 @@
       "Time": "2023-12-05T10:04:16.0670972+00:00",
       "NumProgressed": 63492,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-05T11:05:09.2521747+00:00",
+      "NumProgressed": 63507,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -2407,7 +2412,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 23492
+      "UsersEstimate": 23498
     },
     {
       "ID": "Achievement_10",
@@ -2463,7 +2468,7 @@
       "Name": "Diligent Hogbunny",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "Achievement_17",
@@ -2495,7 +2500,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 17143
+      "UsersEstimate": 17147
     },
     {
       "ID": "Achievement_20",
@@ -2527,7 +2532,7 @@
       "Name": "Festival Masters",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "Achievement_24",
@@ -2583,7 +2588,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 7619
+      "UsersEstimate": 7621
     },
     {
       "ID": "Achievement_30",
@@ -2599,7 +2604,7 @@
       "Name": "Well Traveled",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Achievement_32",
@@ -2615,7 +2620,7 @@
       "Name": "Family Ties",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "Achievement_34",
@@ -2623,7 +2628,7 @@
       "Name": "Warden",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Achievement_4",
@@ -2631,7 +2636,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5079
+      "UsersEstimate": 5081
     },
     {
       "ID": "Achievement_5",
@@ -2671,14 +2676,14 @@
       "Name": "Shielded by L\u00FFs",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     }
   ],
   "AchievementSets": [
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 63492,
+      "Progressed": 63507,
       "Completed": 57
     }
   ],
@@ -2686,8 +2691,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-04T17:03:16.430854+00:00",
-  "LastChanged_Achievements": "2023-12-05T10:04:16.0670967+00:00",
+  "LastChanged_Achievements": "2023-12-05T11:05:09.2521742+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:03:15.0842163+00:00",
-  "LastUpdate_Ratings": "2023-12-05T10:02:56.4888479+00:00",
-  "LastUpdate_Achievements": "2023-12-05T10:04:16.0671245+00:00"
+  "LastUpdate_Ratings": "2023-12-05T11:03:27.1015525+00:00",
+  "LastUpdate_Achievements": "2023-12-05T11:05:09.2522081+00:00"
 }

@@ -7,21 +7,21 @@
 | Too Cool For School | 86.00% | ~164 |
 | Caretaker | 85.00% | ~162 |
 | Feng Shui | 73.00% | ~139 |
-| Who's A Good Boy | 71.00% | ~136 |
+| Who's A Good Boy | 72.00% | ~138 |
 | Power Up | 71.00% | ~136 |
 | Thick Skin | 69.00% | ~132 |
-| Math Wizard | 66.00% | ~126 |
-| Destroy Erase Improve | 66.00% | ~126 |
-| Power Overload | 63.00% | ~120 |
-| Quite A Snack | 60.00% | ~115 |
-| Impenetrable Skin | 57.00% | ~109 |
+| Math Wizard | 67.00% | ~128 |
+| Destroy Erase Improve | 67.00% | ~128 |
+| Power Overload | 64.00% | ~122 |
+| Quite A Snack | 61.00% | ~117 |
+| Impenetrable Skin | 58.00% | ~111 |
 | Overwhelming Power | 55.00% | ~105 |
 | Chomp Chomp! | 47.00% | ~90 |
 | Supreme Power | 46.00% | ~88 |
 | The Duelist | 45.00% | ~86 |
+| Diaper Time! | 44.00% | ~84 |
+| Target Practice | 44.00% | ~84 |
 | Glorious Battle | 43.00% | ~82 |
-| Diaper Time! | 43.00% | ~82 |
-| Target Practice | 43.00% | ~82 |
 | Meat Larder | 41.00% | ~78 |
 | Mutant And Proud | 40.00% | ~76 |
 | The Emperor's New Clothes | 33.00% | ~63 |
@@ -43,7 +43,7 @@
 | Building Blocks | 20.00% | ~38 |
 | Octopostructure | 18.00% | ~34 |
 | Boss Hunter | 16.00% | ~31 |
-| Hawkman | 9.00% | ~17 |
+| Hawkman | 10.00% | ~19 |
 | Fashion Victim | 8.00% | ~15 |
 | Annihilate | 8.00% | ~15 |
 | Godlike Skin | 7.00% | ~13 |

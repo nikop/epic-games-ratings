@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wanderer | 80.00% | ~83 |
-| Something important | 77.00% | ~80 |
-| A piece of the story | 60.00% | ~62 |
+| Something important | 78.00% | ~81 |
+| A piece of the story | 61.00% | ~63 |
 | It's covered up for a reason | 46.00% | ~48 |
 | Do what you have to | 46.00% | ~48 |
 | The artist’s impression | 46.00% | ~48 |

@@ -23,8 +23,8 @@ Number of Ratings: 281  (23.09.2022)
 | I'm the Captain Now | 0.50% | ~34 |
 | Marathon | 0.50% | ~34 |
 | Diamond in the Rough | 0.50% | ~34 |
+| More than a Tourist | 0.40% | ~27 |
 | No Fin left to give | 0.40% | ~27 |
-| More than a Tourist | 0.30% | ~20 |
 | Hook, Line and Sinker | 0.30% | ~20 |
 | Gonna Need a Bigger Boat | 0.30% | ~20 |
 | Aguas Claras Conquistador | 0.20% | ~12 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,744 (Ranked 183)  
+Progressed: 6,745 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 0 (0.00%) (Ranked 368)
 | 2023-12-02 | 6,723 | 0 |
 | 2023-12-03 | 6,737 | 0 |
 | 2023-12-04 | 6,741 | 0 |
-| 2023-12-05 | 6,744 | 0 |
+| 2023-12-05 | 6,745 | 0 |
 ## Awards
 Max (Relaxing): 37  (Ranked 473)  
 Sum: 198 (Ranked 402)  

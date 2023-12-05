@@ -123,9 +123,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 79857,
+  "EOS_Progressed": 79859,
   "EOS_Completed": 862,
-  "EOS_NewPlayers": 526,
+  "EOS_NewPlayers": 527,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -25618,6 +25618,11 @@
       "Time": "2023-12-05T10:06:33.1015685+00:00",
       "NumProgressed": 79857,
       "NumCompleted": 862
+    },
+    {
+      "Time": "2023-12-05T11:08:25.9958352+00:00",
+      "NumProgressed": 79859,
+      "NumCompleted": 862
     }
   ],
   "TotalAchievements": 25,
@@ -25669,7 +25674,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14374
+      "UsersEstimate": 14375
     },
     {
       "ID": "Butcher",
@@ -25685,7 +25690,7 @@
       "Name": "Cut Call",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4791
+      "UsersEstimate": 4792
     },
     {
       "ID": "Fair\u0027sFair",
@@ -25701,7 +25706,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15971
+      "UsersEstimate": 15972
     },
     {
       "ID": "Hearty",
@@ -25781,7 +25786,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 10381
+      "UsersEstimate": 10382
     },
     {
       "ID": "Sniper",
@@ -25828,7 +25833,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 79857,
+      "Progressed": 79859,
       "Completed": 862
     }
   ],
@@ -25836,8 +25841,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-12-05T10:06:33.101568+00:00",
+  "LastChanged_Achievements": "2023-12-05T11:08:25.9958349+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:32.9169393+00:00",
-  "LastUpdate_Ratings": "2023-12-05T09:59:20.4193992+00:00",
-  "LastUpdate_Achievements": "2023-12-05T10:06:33.1017539+00:00"
+  "LastUpdate_Ratings": "2023-12-05T11:00:40.73421+00:00",
+  "LastUpdate_Achievements": "2023-12-05T11:08:25.9959688+00:00"
 }
