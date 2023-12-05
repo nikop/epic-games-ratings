@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.91% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.89% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -55,7 +55,7 @@
 | 53 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 53 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 7.69% |
 | 53 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.69% |
-| 56 | [Ravenlok](games/r/ravenlok.md) | 7.66% |
+| 56 | [Ravenlok](games/r/ravenlok.md) | 7.65% |
 | 57 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.53% |
 | 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.14% |
 | 58 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 7.14% |
@@ -140,9 +140,9 @@
 | 138 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.75% |
 | 139 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.63% |
 | 140 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
-| 141 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 1.56% |
 | 141 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.56% |
-| 143 | [Five Dates](games/f/five_dates.md) | 1.55% |
+| 142 | [Five Dates](games/f/five_dates.md) | 1.55% |
+| 143 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 1.54% |
 | 144 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.53% |
 | 145 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.47% |
 | 145 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.47% |
@@ -249,7 +249,7 @@
 | 244 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
 | 248 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.27% |
 | 249 | [Filament](games/f/filament.md) | 0.26% |
-| 250 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.25% |
+| 249 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.26% |
 | 251 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
 | 251 | [Remnant 2](games/r/remnant_2.md) | 0.24% |
 | 253 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
