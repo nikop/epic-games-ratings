@@ -9,8 +9,8 @@ Rating: 4.38 (Ranked 767)
 | The ABCs | 43.00% | ~673,725 |
 | Home Run | 41.00% | ~642,389 |
 | Keeps Coming Off | 41.00% | ~642,389 |
-| Guts | 20.00% | ~313,360 |
-| Meat Grinder | 19.00% | ~297,692 |
+| Guts | 20.00% | ~313,361 |
+| Meat Grinder | 19.00% | ~297,693 |
 | Burning Man | 16.00% | ~250,688 |
 | Lived to Tell the Tale | 12.00% | ~188,016 |
 | Highlander | 10.00% | ~156,680 |
@@ -44,7 +44,7 @@ Rating: 4.38 (Ranked 767)
 | That’s No Ordinary Cold | 0.10% | ~1,567 |
 | Stairway to Hell | 0.10% | ~1,567 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,566,802 (Ranked 7)  
+Progressed: 1,566,803 (Ranked 7)  
 Completed: 69 (0.00%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 69 (0.00%) (Ranked 368)
 | 2023-12-02 | 1,565,689 | 69 |
 | 2023-12-03 | 1,566,347 | 69 |
 | 2023-12-04 | 1,566,745 | 69 |
-| 2023-12-05 | 1,566,802 | 69 |
+| 2023-12-05 | 1,566,803 | 69 |
 ## Awards
 Max (Diverse Characters): 1,013  (Ranked 152)  
 Sum: 5,279 (Ranked 137)  

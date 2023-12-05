@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 239,
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
     "PcReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1784,7 +1784,7 @@
   ],
   "EOS_Progressed": 500,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5551,9 +5551,9 @@
       "ID": "P_REMOVEPOLLUTION",
       "SetID": "80dcan0",
       "Name": "Greeno-B-Gone",
-      "Percentage": 127,
+      "Percentage": 128,
       "XP": 20,
-      "UsersEstimate": 635
+      "UsersEstimate": 640
     },
     {
       "ID": "P_SAVESANDROCK",
@@ -5623,9 +5623,9 @@
       "ID": "S_CHAT",
       "SetID": "80dcan0",
       "Name": "Chatterbox",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 325
     },
     {
       "ID": "S_DANCE",
@@ -5815,8 +5815,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-12-04T17:58:17.2947163+00:00",
-  "LastChanged_Achievements": "2023-12-05T02:00:22.656697+00:00",
+  "LastChanged_Achievements": "2023-12-05T02:28:40.162511+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:11.8739142+00:00",
-  "LastUpdate_Ratings": "2023-12-05T01:46:43.6179139+00:00",
-  "LastUpdate_Achievements": "2023-12-05T02:00:22.6567498+00:00"
+  "LastUpdate_Ratings": "2023-12-05T02:22:41.5593152+00:00",
+  "LastUpdate_Achievements": "2023-12-05T02:28:40.1625736+00:00"
 }

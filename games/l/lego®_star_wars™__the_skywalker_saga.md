@@ -47,13 +47,13 @@ Number of Ratings: 2,536  (23.09.2022)
 | The Arkanis Sector | 2.00% | ~1,041 |
 | ''A little short for a Stormtrooper...'' | 2.00% | ~1,041 |
 | ''Power! Unlimited power!'' | 2.00% | ~1,041 |
+| ''Jedi Business'' | 2.00% | ~1,041 |
 | ''No more training, do you require'' | 2.00% | ~1,041 |
 | ''You needn't worry about your reward'' | 2.00% | ~1,041 |
-| ''Jedi Business'' | 1.00% | ~520 |
 | ''I've never seen a real one!'' | 1.00% | ~520 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 52,046 (Ranked 112)  
-Completed: 250 (0.48%) (Ranked 212)  
+Completed: 251 (0.48%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -280,6 +280,7 @@ Completed: 250 (0.48%) (Ranked 212)
 | 2023-12-02 | 52,031 | 250 |
 | 2023-12-03 | 52,040 | 250 |
 | 2023-12-04 | 52,046 | 250 |
+| 2023-12-05 | 52,046 | 251 |
 ## Awards
 Max (Great Boss Battles): 2,449  (Ranked 105)  
 Sum: 6,725 (Ranked 126)  

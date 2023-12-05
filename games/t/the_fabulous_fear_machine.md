@@ -25,15 +25,15 @@
 | You had one wish left | 7.00% | ~3 |
 | Bread and bocaua | 7.00% | ~3 |
 | Fanatacism is... poisonous | 7.00% | ~3 |
+| Et in arcadia ego | 7.00% | ~3 |
+| The bully | 7.00% | ~3 |
 | The adventurer | 7.00% | ~3 |
 | ECO mode | 7.00% | ~3 |
+| Welcome to Hellville | 7.00% | ~3 |
 | You've awakened the beast | 4.00% | ~2 |
 | Hate is... addictive | 4.00% | ~2 |
 | Blood Red Island | 4.00% | ~2 |
-| Et in arcadia ego | 4.00% | ~2 |
-| The bully | 4.00% | ~2 |
 | The scholar | 4.00% | ~2 |
-| Welcome to Hellville | 4.00% | ~2 |
 | Blessed antennas | 2.00% | ~1 |
 | The beast in the Oval Office | 2.00% | ~1 |
 | Pulp! Weird Science | 2.00% | ~1 |

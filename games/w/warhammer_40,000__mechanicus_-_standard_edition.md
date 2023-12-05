@@ -13,7 +13,7 @@ Rating: 4.43 (Ranked 696)
 | Taser Goad | 9.00% | ~20,579 |
 | Radium Ready | 9.00% | ~20,579 |
 | Half a cog | 9.00% | ~20,579 |
-| Watch them crumble | 6.00% | ~13,719 |
+| Watch them crumble | 6.00% | ~13,720 |
 | Competent Cohort | 4.00% | ~9,146 |
 | Celestial Cartography Catastrophe | 4.00% | ~9,146 |
 | One with the Machine | 4.00% | ~9,146 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 696)
 | Perma-live | 0.10% | ~229 |
 | Purge the Heretek | 0.10% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,658 (Ranked 70)  
+Progressed: 228,659 (Ranked 70)  
 Completed: 5 (0.00%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 5 (0.00%) (Ranked 368)
 | 2023-12-02 | 228,485 | 5 |
 | 2023-12-03 | 228,585 | 5 |
 | 2023-12-04 | 228,653 | 5 |
-| 2023-12-05 | 228,658 | 5 |
+| 2023-12-05 | 228,659 | 5 |
 ## Awards
 Max (Highly Recommended): 291  (Ranked 258)  
 Sum: 2,205 (Ranked 206)  

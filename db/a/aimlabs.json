@@ -4,11 +4,11 @@
   "ProductSlug": "aimlabs",
   "Ranking_Rating": 387,
   "Ranking_Popularity": 416,
-  "Ranking_PopularitySum": 355,
+  "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 778,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 482,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 483,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -1387,10 +1387,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 352,
       "NumberOfAwardsMax": 60
+    },
+    {
+      "Time": "2023-12-05T02:24:00.3487975+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 353,
+      "NumberOfAwardsMax": 60
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 352,
+  "NumberOfAwards": 353,
   "NumberOfAwardsMax": 60,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1434,7 +1440,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1473,8 +1479,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2023-12-05T01:48:07.0995385+00:00",
+  "LastChanged": "2023-12-05T02:24:00.3487974+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:33.5895441+00:00",
-  "LastUpdate_Ratings": "2023-12-05T01:48:07.099539+00:00",
-  "LastUpdate_Achievements": "2023-12-05T02:00:50.6323811+00:00"
+  "LastUpdate_Ratings": "2023-12-05T02:24:00.3487982+00:00",
+  "LastUpdate_Achievements": "2023-12-05T02:29:20.8760147+00:00"
 }

@@ -191,7 +191,7 @@
   "Tags": [],
   "EOS_Progressed": 7425,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 550,
+  "EOS_NewPlayers": 545,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5620,9 +5620,9 @@
       "ID": "ExplosivePersonality",
       "SetID": "acc6ea0",
       "Name": "Explosive Personality",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 817
+      "UsersEstimate": 891
     },
     {
       "ID": "FasterThanLight",
@@ -5845,8 +5845,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-04T17:58:34.5541174+00:00",
-  "LastChanged_Achievements": "2023-12-05T02:05:23.2446174+00:00",
+  "LastChanged_Achievements": "2023-12-05T02:33:56.0118814+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-05T01:47:00.8023858+00:00",
-  "LastUpdate_Achievements": "2023-12-05T02:05:23.2446617+00:00"
+  "LastUpdate_Ratings": "2023-12-05T02:23:08.474096+00:00",
+  "LastUpdate_Achievements": "2023-12-05T02:33:56.0119251+00:00"
 }

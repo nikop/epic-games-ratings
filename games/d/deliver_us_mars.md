@@ -7,9 +7,9 @@ Rating: 4.20 (Ranked 915)
 | ---- | ---------- | ----- |
 | The beginning of a beautiful collection | 45.00% | ~5 |
 | Better jot that down | 36.00% | ~4 |
+| Home Is... | 27.00% | ~3 |
 | Reading is fundamental | 18.00% | ~2 |
 | Moonbear | 18.00% | ~2 |
-| Home Is... | 18.00% | ~2 |
 | Kats always land on their feet | 9.00% | ~1 |
 | Quick like a Kat | 9.00% | ~1 |
 | Kat-like reflexes | 9.00% | ~1 |

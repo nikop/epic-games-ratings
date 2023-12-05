@@ -7795,9 +7795,9 @@
       "Count": 1391
     }
   ],
-  "EOS_Progressed": 1793354,
+  "EOS_Progressed": 1793369,
   "EOS_Completed": 718,
-  "EOS_NewPlayers": 6186,
+  "EOS_NewPlayers": 6184,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -28905,6 +28905,11 @@
       "Time": "2023-12-05T02:05:41.9349891+00:00",
       "NumProgressed": 1793354,
       "NumCompleted": 718
+    },
+    {
+      "Time": "2023-12-05T02:34:19.8928284+00:00",
+      "NumProgressed": 1793369,
+      "NumCompleted": 718
     }
   ],
   "TotalAchievements": 1328,
@@ -29740,7 +29745,7 @@
       "Name": "Career Criminal",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 12553
+      "UsersEstimate": 12554
     },
     {
       "ID": "bigbank_1",
@@ -30116,7 +30121,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 197269
+      "UsersEstimate": 197271
     },
     {
       "ID": "brooklyn_2",
@@ -30340,7 +30345,7 @@
       "Name": "Virus",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 107601
+      "UsersEstimate": 107602
     },
     {
       "ID": "cac_29",
@@ -33212,7 +33217,7 @@
       "Name": "Taking the High Road",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 12553
+      "UsersEstimate": 12554
     },
     {
       "ID": "glace_10",
@@ -33388,7 +33393,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 71734
+      "UsersEstimate": 71735
     },
     {
       "ID": "gorilla_1",
@@ -33532,7 +33537,7 @@
       "Name": "Guilty of Crime",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 125535
+      "UsersEstimate": 125536
     },
     {
       "ID": "halloween_1",
@@ -33668,7 +33673,7 @@
       "Name": "How Do You Like Me Now?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 107601
+      "UsersEstimate": 107602
     },
     {
       "ID": "i_knew_what_i_was_doing_was_wrong",
@@ -34628,7 +34633,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 161402
+      "UsersEstimate": 161403
     },
     {
       "ID": "no_turning_back",
@@ -34636,7 +34641,7 @@
       "Name": "No Turning Back",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 161402
+      "UsersEstimate": 161403
     },
     {
       "ID": "orange_1",
@@ -35740,7 +35745,7 @@
       "Name": "The Heat\u0027s Around the Corner",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 12553
+      "UsersEstimate": 12554
     },
     {
       "ID": "run_10",
@@ -35924,7 +35929,7 @@
       "Name": "Press [F] to Pay Respects",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 12553
+      "UsersEstimate": 12554
     },
     {
       "ID": "sah_11",
@@ -37276,7 +37281,7 @@
       "Name": "Random Access Larceny",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 12553
+      "UsersEstimate": 12554
     },
     {
       "ID": "trk_br_2",
@@ -37900,7 +37905,7 @@
       "Name": "Hector\u0027s Heroes",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 12553
+      "UsersEstimate": 12554
     },
     {
       "ID": "trk_fir_1",
@@ -38284,7 +38289,7 @@
       "Name": "All That Glimmer isn\u0027t Gold",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 12553
+      "UsersEstimate": 12554
     },
     {
       "ID": "trk_js_3",
@@ -38756,7 +38761,7 @@
       "Name": "Milk and Cookies",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 12553
+      "UsersEstimate": 12554
     },
     {
       "ID": "trk_sw_1",
@@ -39060,7 +39065,7 @@
       "Name": "The Princess is in Another Safe!",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 12553
+      "UsersEstimate": 12554
     },
     {
       "ID": "trk_uj_3",
@@ -39108,7 +39113,7 @@
       "Name": "I Swear Officer, We are Not Transporting Drugs",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 12553
+      "UsersEstimate": 12554
     },
     {
       "ID": "trk_wd_1",
@@ -39524,7 +39529,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 161402
+      "UsersEstimate": 161403
     },
     {
       "ID": "you_shall_not_pass",
@@ -39539,13 +39544,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1793354,
+      "Progressed": 1793369,
       "Completed": 718
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1793354,
+      "Progressed": 1793369,
       "Completed": 116
     }
   ],
@@ -39553,8 +39558,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-12-04T20:00:22.318858+00:00",
-  "LastChanged_Achievements": "2023-12-05T02:05:41.9349887+00:00",
+  "LastChanged_Achievements": "2023-12-05T02:34:19.8928279+00:00",
   "LastUpdate_AppInfo": "2023-12-01T05:57:06.1515486+00:00",
-  "LastUpdate_Ratings": "2023-12-05T01:53:33.1966282+00:00",
-  "LastUpdate_Achievements": "2023-12-05T02:05:41.947489+00:00"
+  "LastUpdate_Ratings": "2023-12-05T02:25:20.1895977+00:00",
+  "LastUpdate_Achievements": "2023-12-05T02:34:19.9050931+00:00"
 }

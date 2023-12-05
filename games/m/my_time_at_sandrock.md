@@ -9,7 +9,7 @@ Number of Ratings: 892  (23.09.2022)
 | Adept Assembler | 237.00% | ~1,185 |
 | Iron Chef | 168.00% | ~840 |
 | Super Spelunker | 132.00% | ~660 |
-| Greeno-B-Gone | 127.00% | ~635 |
+| Greeno-B-Gone | 128.00% | ~640 |
 | Your Especially Earned Trajectory | 105.00% | ~525 |
 | The Little Wood that Could | 104.00% | ~520 |
 | No Mountain Wide Enough | 82.00% | ~410 |
@@ -24,7 +24,7 @@ Number of Ratings: 892  (23.09.2022)
 | Unboxing | 68.00% | ~340 |
 | Big Game Hunter | 65.00% | ~325 |
 | Financially Secure | 65.00% | ~325 |
-| Chatterbox | 64.00% | ~320 |
+| Chatterbox | 65.00% | ~325 |
 | Got Served | 64.00% | ~320 |
 | Builder of the Month | 61.00% | ~305 |
 | Elementary, My Dear | 61.00% | ~305 |

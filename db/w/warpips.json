@@ -4,11 +4,11 @@
   "ProductSlug": "warpips-57e2c4",
   "Ranking_Rating": 696,
   "Ranking_Popularity": 499,
-  "Ranking_PopularitySum": 405,
+  "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 778,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 482,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 483,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
     "PcReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -751,10 +751,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 194,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2023-12-05T02:24:03.9801004+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 196,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 194,
+  "NumberOfAwards": 196,
   "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -792,7 +798,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 25
+      "Count": 27
     },
     {
       "Text": "This game has Challenging Combat",
@@ -827,9 +833,9 @@
   "FirstSeen": "2022-07-22T20:30:43.3276462+00:00",
   "FirstSeenRating": "2022-08-17T17:32:36.298975+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:17.8561641+00:00",
-  "LastChanged": "2023-12-01T03:57:16.2629074+00:00",
-  "LastChanged_Achievements": "2023-12-05T02:02:27.3084674+00:00",
+  "LastChanged": "2023-12-05T02:24:03.9801002+00:00",
+  "LastChanged_Achievements": "2023-12-05T02:31:38.1799542+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:17.3378438+00:00",
-  "LastUpdate_Ratings": "2023-12-05T01:48:20.6713051+00:00",
-  "LastUpdate_Achievements": "2023-12-05T02:02:27.3084696+00:00"
+  "LastUpdate_Ratings": "2023-12-05T02:24:03.9801006+00:00",
+  "LastUpdate_Achievements": "2023-12-05T02:31:38.1799612+00:00"
 }

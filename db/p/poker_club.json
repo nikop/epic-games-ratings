@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-04-27T15:00:00+00:00",
     "PcReleaseDate": "2020-11-20T00:00:00+00:00",
@@ -997,9 +997,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 541433,
+  "EOS_Progressed": 541436,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1240,
+  "EOS_NewPlayers": 1242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26937,6 +26937,11 @@
       "Time": "2023-12-05T02:03:02.2721344+00:00",
       "NumProgressed": 541433,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-05T02:32:29.1730418+00:00",
+      "NumProgressed": 541436,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -26948,7 +26953,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 146187
+      "UsersEstimate": 146188
     },
     {
       "ID": "Backdoor",
@@ -26956,7 +26961,7 @@
       "Name": "Backdoor",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 135358
+      "UsersEstimate": 135359
     },
     {
       "ID": "BeforeYouWreckYourself",
@@ -26972,7 +26977,7 @@
       "Name": "Bet Bet Bet",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 54143
+      "UsersEstimate": 54144
     },
     {
       "ID": "BlindmansBluff",
@@ -27044,7 +27049,7 @@
       "Name": "Cold Caller",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 216573
+      "UsersEstimate": 216574
     },
     {
       "ID": "DeadlyAssassin",
@@ -27052,7 +27057,7 @@
       "Name": "Deadly Assassin",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 86629
+      "UsersEstimate": 86630
     },
     {
       "ID": "DogEatDog",
@@ -27060,7 +27065,7 @@
       "Name": "Dog Eat Dog",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 37900
+      "UsersEstimate": 37901
     },
     {
       "ID": "DressToImpress",
@@ -27100,7 +27105,7 @@
       "Name": "Handy",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 227402
+      "UsersEstimate": 227403
     },
     {
       "ID": "HoldingYourOwn",
@@ -27196,7 +27201,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 411489
+      "UsersEstimate": 411491
     },
     {
       "ID": "ProPlayer",
@@ -27212,7 +27217,7 @@
       "Name": "Quack Quack",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 37900
+      "UsersEstimate": 37901
     },
     {
       "ID": "RankAmateur",
@@ -27220,7 +27225,7 @@
       "Name": "Rank Amateur",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 119115
+      "UsersEstimate": 119116
     },
     {
       "ID": "RegularPunter",
@@ -27260,7 +27265,7 @@
       "Name": "Showoff",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 70386
+      "UsersEstimate": 70387
     },
     {
       "ID": "TheBiggerTheyAre",
@@ -27276,7 +27281,7 @@
       "Name": "Three Way",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 102872
+      "UsersEstimate": 102873
     },
     {
       "ID": "TopDog",
@@ -27307,7 +27312,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 541433,
+      "Progressed": 541436,
       "Completed": 2
     }
   ],
@@ -27315,8 +27320,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-12-04T21:01:55.0231248+00:00",
-  "LastChanged_Achievements": "2023-12-05T02:03:02.2721338+00:00",
+  "LastChanged_Achievements": "2023-12-05T02:32:29.1730414+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:11.118442+00:00",
-  "LastUpdate_Ratings": "2023-12-05T01:55:03.7530673+00:00",
-  "LastUpdate_Achievements": "2023-12-05T02:03:02.2722854+00:00"
+  "LastUpdate_Ratings": "2023-12-05T02:25:40.1200748+00:00",
+  "LastUpdate_Achievements": "2023-12-05T02:32:29.1731727+00:00"
 }

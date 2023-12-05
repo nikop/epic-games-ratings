@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -659,7 +659,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 236088,
+  "EOS_Progressed": 236090,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1469,
   "EOS_NewCompleters": 0,
@@ -16179,6 +16179,11 @@
       "Time": "2023-12-05T02:05:30.0729064+00:00",
       "NumProgressed": 236088,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-05T02:34:05.8903681+00:00",
+      "NumProgressed": 236090,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -16247,7 +16252,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 49578
+      "UsersEstimate": 49579
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -16375,7 +16380,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33052
+      "UsersEstimate": 33053
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -16462,7 +16467,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 236088,
+      "Progressed": 236090,
       "Completed": 0
     }
   ],
@@ -16470,8 +16475,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-04T06:01:30.5373839+00:00",
-  "LastChanged_Achievements": "2023-12-05T02:05:30.0729059+00:00",
+  "LastChanged_Achievements": "2023-12-05T02:34:05.8903677+00:00",
   "LastUpdate_AppInfo": "2023-12-01T02:57:03.9317243+00:00",
-  "LastUpdate_Ratings": "2023-12-05T01:45:42.4064064+00:00",
-  "LastUpdate_Achievements": "2023-12-05T02:05:30.0730148+00:00"
+  "LastUpdate_Ratings": "2023-12-05T02:21:06.3481666+00:00",
+  "LastUpdate_Achievements": "2023-12-05T02:34:05.8904623+00:00"
 }

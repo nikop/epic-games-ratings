@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26673,
+  "EOS_Progressed": 26677,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2281,
+  "EOS_NewPlayers": 2276,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9004,6 +9004,11 @@
       "Time": "2023-12-05T02:05:34.7443574+00:00",
       "NumProgressed": 26673,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-05T02:34:11.909237+00:00",
+      "NumProgressed": 26677,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -9016,7 +9021,7 @@
       "Name": "The Galaxy\u0027s Finest (Story Mode)",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 4001
+      "UsersEstimate": 4002
     },
     {
       "ID": "achievement_10",
@@ -9104,7 +9109,7 @@
       "Name": "The Galaxy\u0027s Finest (Pilot)",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "achievement_20",
@@ -9112,7 +9117,7 @@
       "Name": "Stun \u0027Em",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "achievement_21",
@@ -9120,7 +9125,7 @@
       "Name": "Sound Strategy",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "achievement_22",
@@ -9224,7 +9229,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 5068
+      "UsersEstimate": 5069
     },
     {
       "ID": "achievement_34",
@@ -9240,7 +9245,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 25339
+      "UsersEstimate": 25343
     },
     {
       "ID": "achievement_36",
@@ -9256,7 +9261,7 @@
       "Name": "Asset Secured",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3467
+      "UsersEstimate": 3468
     },
     {
       "ID": "achievement_38",
@@ -9352,7 +9357,7 @@
       "Name": "Dressed for the Job You Want",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "achievement_6",
@@ -9360,7 +9365,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3467
+      "UsersEstimate": 3468
     },
     {
       "ID": "achievement_7",
@@ -9391,7 +9396,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 26673,
+      "Progressed": 26677,
       "Completed": 2
     }
   ],
@@ -9399,8 +9404,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-12-05T02:05:34.7443568+00:00",
+  "LastChanged_Achievements": "2023-12-05T02:34:11.9092367+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:20.4359375+00:00",
-  "LastUpdate_Ratings": "2023-12-05T01:58:33.1039097+00:00",
-  "LastUpdate_Achievements": "2023-12-05T02:05:34.7444484+00:00"
+  "LastUpdate_Ratings": "2023-12-05T02:27:15.8832611+00:00",
+  "LastUpdate_Achievements": "2023-12-05T02:34:11.9093155+00:00"
 }

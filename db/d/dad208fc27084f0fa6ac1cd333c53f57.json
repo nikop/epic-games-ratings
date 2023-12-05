@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
     "PcReleaseDate": "2021-10-14T15:00:00+00:00",
@@ -24,10 +24,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4869,
+  "EOS_Progressed": 4870,
   "EOS_Completed": 47,
   "EOS_NewPlayers": 461,
-  "EOS_NewCompleters": 6,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
     {
@@ -3944,6 +3944,11 @@
       "Time": "2023-12-05T00:04:38.6253306+00:00",
       "NumProgressed": 4869,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-12-05T02:29:38.2327664+00:00",
+      "NumProgressed": 4870,
+      "NumCompleted": 47
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -4004,7 +4009,7 @@
       "Name": "Turn on the TV",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 2775
+      "UsersEstimate": 2776
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -4012,7 +4017,7 @@
       "Name": "Wrong passcode",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 3895
+      "UsersEstimate": 3896
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -4083,14 +4088,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 4869,
+      "Progressed": 4870,
       "Completed": 47
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-12-05T02:01:02.621249+00:00",
+  "LastChanged_Achievements": "2023-12-05T02:29:38.2327661+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:12.1666356+00:00",
-  "LastUpdate_Ratings": "2023-12-05T01:47:34.2169774+00:00",
-  "LastUpdate_Achievements": "2023-12-05T02:01:02.6212793+00:00"
+  "LastUpdate_Ratings": "2023-12-05T02:23:45.5382063+00:00",
+  "LastUpdate_Achievements": "2023-12-05T02:29:38.2327952+00:00"
 }

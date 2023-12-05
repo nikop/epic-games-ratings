@@ -4,8 +4,8 @@
   "ProductSlug": "void-tyrant",
   "Ranking_EOS_Progress": 778,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 482,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 483,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-10-11T17:00:00+00:00",
     "PcReleaseDate": "2019-06-28T12:55:11+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:56:56.5200456+00:00",
   "LastChanged": "2023-03-31T05:56:56.5200457+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:05.2444274+00:00",
-  "LastUpdate_Ratings": "2023-12-05T01:53:58.0122811+00:00",
-  "LastUpdate_Achievements": "2023-12-05T02:00:03.3077611+00:00"
+  "LastUpdate_Ratings": "2023-12-05T02:25:25.937014+00:00",
+  "LastUpdate_Achievements": "2023-12-05T02:28:12.2377992+00:00"
 }
