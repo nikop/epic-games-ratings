@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -133,7 +133,7 @@
   "Tags": [],
   "EOS_Progressed": 1000,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.1,
   "EosHistory": [
@@ -3461,9 +3461,9 @@
       "ID": "_16_UnlockCore8Characters",
       "SetID": "8a1io5d",
       "Name": "Pirates Assemble!",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 250
+      "UsersEstimate": 260
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -3558,8 +3558,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-04T19:02:27.0959811+00:00",
-  "LastChanged_Achievements": "2023-12-05T11:05:50.6135498+00:00",
+  "LastChanged_Achievements": "2023-12-05T12:05:02.5222822+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:16.5122288+00:00",
-  "LastUpdate_Ratings": "2023-12-05T10:57:45.2967104+00:00",
-  "LastUpdate_Achievements": "2023-12-05T11:05:50.6135779+00:00"
+  "LastUpdate_Ratings": "2023-12-05T11:57:38.4905187+00:00",
+  "LastUpdate_Achievements": "2023-12-05T12:05:02.522316+00:00"
 }

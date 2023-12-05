@@ -16,7 +16,7 @@ Rating: 4.04 (Ranked 997)
 | Miner | 26.00% | ~460 |
 | Houston we have a problem | 23.00% | ~407 |
 | Detective | 19.00% | ~336 |
-| The Collector | 18.00% | ~318 |
+| The Collector | 18.00% | ~319 |
 | Get your hands dirty | 11.00% | ~195 |
 | Space Forest | 10.00% | ~177 |
 | All Wheel Trouble | 8.00% | ~142 |
@@ -54,7 +54,7 @@ Rating: 4.04 (Ranked 997)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,769 (Ranked 233)  
+Progressed: 1,770 (Ranked 233)  
 Completed: 0 (0.00%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,6 +252,7 @@ Completed: 0 (0.00%) (Ranked 368)
 | 2023-12-02 | 1,765 | 0 |
 | 2023-12-03 | 1,767 | 0 |
 | 2023-12-04 | 1,769 | 0 |
+| 2023-12-05 | 1,770 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

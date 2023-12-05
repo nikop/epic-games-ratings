@@ -12,7 +12,7 @@
 | The Plains of Strothalm | 71.00% | ~374 |
 | Experienced Thalya | 71.00% | ~374 |
 | Thalya's Concentrated Fury | 69.00% | ~364 |
-| Bad Elves Go Everywhere | 68.00% | ~358 |
+| Bad Elves Go Everywhere | 69.00% | ~364 |
 | Heroes’ Gorge | 65.00% | ~343 |
 | Master of Magic | 63.00% | ~332 |
 | Unicorn steaks – fresh off the hoof! | 61.00% | ~321 |
@@ -43,8 +43,8 @@
 | The Finitude Drill | 24.00% | ~126 |
 | Doom Hill | 22.00% | ~116 |
 | Stop Tanos! | 20.00% | ~105 |
+| Sabotage! | 20.00% | ~105 |
 | Brimstone Shaken, Not Stirred | 20.00% | ~105 |
-| Sabotage! | 19.00% | ~100 |
 | Bonus Evilness | 17.00% | ~90 |
 | Raiders of the Lost Stone | 17.00% | ~90 |
 | The Rune Sockets of Finitude (Part 1) | 17.00% | ~90 |

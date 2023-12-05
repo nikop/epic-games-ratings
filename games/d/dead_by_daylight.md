@@ -6,24 +6,24 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~10,711 |
-| It wakes | 1.00% | ~10,711 |
-| Not half bad | 1.00% | ~10,711 |
-| Skillful | 1.00% | ~10,711 |
-| Apt Survivor | 0.90% | ~9,640 |
-| Make Some Noise | 0.90% | ~9,640 |
-| Handyman | 0.80% | ~8,569 |
-| Survival Treasures | 0.80% | ~8,569 |
-| I | 0.80% | ~8,569 |
-| No one left behind | 0.70% | ~7,498 |
-| Medic | 0.70% | ~7,498 |
-| Sorted | 0.70% | ~7,498 |
-| Resurgence | 0.70% | ~7,498 |
-| Preemptive Strike | 0.70% | ~7,498 |
+| Zealous | 1.00% | ~10,712 |
+| It wakes | 1.00% | ~10,712 |
+| Not half bad | 1.00% | ~10,712 |
+| Skillful | 1.00% | ~10,712 |
+| Apt Survivor | 0.90% | ~9,641 |
+| Make Some Noise | 0.90% | ~9,641 |
+| Handyman | 0.80% | ~8,570 |
+| Survival Treasures | 0.80% | ~8,570 |
+| I | 0.80% | ~8,570 |
+| No one left behind | 0.70% | ~7,499 |
+| Medic | 0.70% | ~7,499 |
+| Sorted | 0.70% | ~7,499 |
+| Healthy Obsession | 0.70% | ~7,499 |
+| Resurgence | 0.70% | ~7,499 |
+| Preemptive Strike | 0.70% | ~7,499 |
 | The Grand Sacrifice | 0.60% | ~6,427 |
 | Perfect Escape | 0.60% | ~6,427 |
 | Bloody Millionaire | 0.60% | ~6,427 |
-| Healthy Obsession | 0.60% | ~6,427 |
 | Humanitarian | 0.60% | ~6,427 |
 | Agonizing Escape | 0.50% | ~5,356 |
 | Backdoor Escape | 0.50% | ~5,356 |
@@ -39,30 +39,30 @@ Number of Ratings: 70,340  (23.09.2022)
 | III | 0.40% | ~4,285 |
 | With Scars to Show | 0.40% | ~4,285 |
 | Lifting The Fog | 0.40% | ~4,285 |
-| Blood on your hands | 0.30% | ~3,213 |
-| Escape Artist | 0.30% | ~3,213 |
-| Made it out alive! | 0.30% | ~3,213 |
-| Nerves of steel | 0.30% | ~3,213 |
-| Gifts for the Fog | 0.30% | ~3,213 |
-| III-50 | 0.30% | ~3,213 |
-| All Aboard | 0.30% | ~3,213 |
-| Item of Obsession | 0.30% | ~3,213 |
-| House of Pain | 0.30% | ~3,213 |
-| Holiday Get-Together | 0.30% | ~3,213 |
-| Near-Death Experience | 0.30% | ~3,213 |
-| Cherish your Life | 0.30% | ~3,213 |
-| Unforgettable Getaway | 0.30% | ~3,213 |
-| Cutting Out | 0.30% | ~3,213 |
-| First to the Punch | 0.30% | ~3,213 |
-| Operation: Survival | 0.30% | ~3,213 |
-| Old West Oasis | 0.30% | ~3,213 |
-| Classy Act | 0.30% | ~3,213 |
-| Every Last Drop | 0.30% | ~3,213 |
-| Raccoon City Recruit | 0.30% | ~3,213 |
-| Flight to Freedom | 0.30% | ~3,213 |
-| Chorus of Chaos | 0.30% | ~3,213 |
-| One More Step | 0.30% | ~3,213 |
-| Second Act | 0.30% | ~3,213 |
+| Blood on your hands | 0.30% | ~3,214 |
+| Escape Artist | 0.30% | ~3,214 |
+| Made it out alive! | 0.30% | ~3,214 |
+| Nerves of steel | 0.30% | ~3,214 |
+| Gifts for the Fog | 0.30% | ~3,214 |
+| III-50 | 0.30% | ~3,214 |
+| All Aboard | 0.30% | ~3,214 |
+| Item of Obsession | 0.30% | ~3,214 |
+| House of Pain | 0.30% | ~3,214 |
+| Holiday Get-Together | 0.30% | ~3,214 |
+| Near-Death Experience | 0.30% | ~3,214 |
+| Cherish your Life | 0.30% | ~3,214 |
+| Unforgettable Getaway | 0.30% | ~3,214 |
+| Cutting Out | 0.30% | ~3,214 |
+| First to the Punch | 0.30% | ~3,214 |
+| Operation: Survival | 0.30% | ~3,214 |
+| Old West Oasis | 0.30% | ~3,214 |
+| Classy Act | 0.30% | ~3,214 |
+| Every Last Drop | 0.30% | ~3,214 |
+| Raccoon City Recruit | 0.30% | ~3,214 |
+| Flight to Freedom | 0.30% | ~3,214 |
+| Chorus of Chaos | 0.30% | ~3,214 |
+| One More Step | 0.30% | ~3,214 |
+| Second Act | 0.30% | ~3,214 |
 | A bite for the Entity | 0.20% | ~2,142 |
 | Blood on your face | 0.20% | ~2,142 |
 | Hemophobia | 0.20% | ~2,142 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Joke’s On You | 0.10% | ~1,071 |
 | Adept Good Guy | 0.10% | ~1,071 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,071,134 (Ranked 14)  
+Progressed: 1,071,219 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -468,10 +468,10 @@ Completed: 61 (0.01%) (Ranked 346)
 | 2023-12-02 | 1,062,340 | 61 |
 | 2023-12-03 | 1,067,390 | 61 |
 | 2023-12-04 | 1,070,133 | 61 |
-| 2023-12-05 | 1,071,134 | 61 |
+| 2023-12-05 | 1,071,219 | 61 |
 ## Awards
 Max (Diverse Characters): 37,289  (Ranked 15)  
-Sum: 283,155 (Ranked 12)  
+Sum: 283,188 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -480,7 +480,7 @@ Diff (max vs sum): 3
 | This game has Amazing Characters | 31,923 |
 | This game has Competitive Players | 31,755 |
 | This game is Extremely Fun | 31,402 |
-| This game has Challenging Combat | 31,271 |
+| This game has Challenging Combat | 31,304 |
 | This game has Quickly Understood Controls | 30,593 |
 | This game has Amazing Storytelling | 28,920 |
 | This game has a Competitive Community | 27,610 |
@@ -804,4 +804,4 @@ Diff (max vs sum): 3
 | 2023-12-02 | 4.51 | - | 37,095 | 281,803 |
 | 2023-12-03 | 4.51 | - | 37,218 | 282,346 |
 | 2023-12-04 | 4.51 | - | 37,289 | 282,989 |
-| 2023-12-05 | 4.51 | - | 37,289 | 283,155 |
+| 2023-12-05 | 4.51 | - | 37,289 | 283,188 |

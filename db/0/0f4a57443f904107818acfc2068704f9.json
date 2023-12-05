@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 842,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1876,9 +1876,9 @@
       "ID": "CompleteChapter10",
       "SetID": "52ail55",
       "Name": "You da Boss, Now",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 109
     },
     {
       "ID": "CompleteChapter11",
@@ -2012,9 +2012,9 @@
       "ID": "CompleteChapter9",
       "SetID": "52ail55",
       "Name": "Ingredients List",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 118
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -2115,8 +2115,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-05T11:08:21.7609617+00:00",
+  "LastChanged_Achievements": "2023-12-05T12:06:50.9113972+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:09.4303292+00:00",
-  "LastUpdate_Ratings": "2023-12-05T11:01:58.2291648+00:00",
-  "LastUpdate_Achievements": "2023-12-05T11:08:21.7609905+00:00"
+  "LastUpdate_Ratings": "2023-12-05T12:00:29.2879522+00:00",
+  "LastUpdate_Achievements": "2023-12-05T12:06:50.9114309+00:00"
 }

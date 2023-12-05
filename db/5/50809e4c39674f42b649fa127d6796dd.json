@@ -4,8 +4,8 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 416,
+  "EOS_Progressed": 417,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1007,6 +1007,11 @@
       "Time": "2023-12-05T06:03:34.3112575+00:00",
       "NumProgressed": 416,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-05T12:03:45.568498+00:00",
+      "NumProgressed": 417,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1035,7 +1040,7 @@
       "Name": "Ares Island Explorer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND3",
@@ -1059,7 +1064,7 @@
       "Name": "Hardened Hedgehog",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ENEMY_DEFEATED_ALL",
@@ -1067,15 +1072,15 @@
       "Name": "Easy Prey",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "FIRST_ACCEL_COMBO",
       "SetID": "apihg0e",
       "Name": "Combo Convert",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 146
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -1115,7 +1120,7 @@
       "Name": "Celestial Rain",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -1123,7 +1128,7 @@
       "Name": "Unknown Threat",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1131,7 +1136,7 @@
       "Name": "Speed Demon",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1139,7 +1144,7 @@
       "Name": "Superior Ranking",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1171,7 +1176,7 @@
       "Name": "The Beginning",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -1179,7 +1184,7 @@
       "Name": "Ancient Defiance",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "MAIN_CLEAR_ISLAND3",
@@ -1195,7 +1200,7 @@
       "Name": "Hope Across Ages",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "MAIN_CLEAR_LAST",
@@ -1209,9 +1214,9 @@
       "ID": "MAIN_CLEAR_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "The Journey Begins",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 229
+      "UsersEstimate": 225
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1235,7 +1240,7 @@
       "Name": "Ares Island Memories",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD3",
@@ -1267,7 +1272,7 @@
       "Name": "Hearty Hedgehog",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SKILL_ALL_OBTAINED",
@@ -1299,7 +1304,7 @@
       "Name": "Kronos Island Expert",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SUB_CLEAR_ISLAND2",
@@ -1329,23 +1334,23 @@
       "ID": "TOTAL_DESTROYED_OBJECT",
       "SetID": "apihg0e",
       "Name": "Swath of Destruction",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 125
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 416,
+      "Progressed": 417,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-05T11:04:03.3686346+00:00",
+  "LastChanged_Achievements": "2023-12-05T12:03:45.5684978+00:00",
   "LastUpdate_AppInfo": "2023-11-28T17:56:55.9843317+00:00",
-  "LastUpdate_Ratings": "2023-12-05T11:03:29.9345648+00:00",
-  "LastUpdate_Achievements": "2023-12-05T11:04:03.3686645+00:00"
+  "LastUpdate_Ratings": "2023-12-05T12:03:22.7500441+00:00",
+  "LastUpdate_Achievements": "2023-12-05T12:03:45.5685222+00:00"
 }

@@ -1,7 +1,7 @@
 # Gloomhaven
 [Store](https://store.epicgames.com/en-US/p/gloomhaven-92f741)  
 [View Rawdata](../../db/g/gloomhaven.json)  
-Rating: 4.47 (Ranked 640)  
+Rating: 4.47 (Ranked 639)  
 Number of Ratings: 68  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,7 +11,7 @@ Number of Ratings: 68  (23.09.2022)
 | Vaccine Incoming | 33.00% | ~8,154 |
 | A normal day in Gloomhaven | 31.00% | ~7,660 |
 | Spread the plague | 29.00% | ~7,166 |
-| Get over here! | 25.00% | ~6,177 |
+| Get over here! | 25.00% | ~6,178 |
 | Just when I thought I was out... | 19.00% | ~4,695 |
 | Precious! | 17.00% | ~4,201 |
 | Mine... All Mine... | 17.00% | ~4,201 |
@@ -29,11 +29,11 @@ Number of Ratings: 68  (23.09.2022)
 | Black death | 8.00% | ~1,977 |
 | Play it again, Sam | 8.00% | ~1,977 |
 | Quad damage | 6.00% | ~1,483 |
-| Power Up! | 5.00% | ~1,235 |
-| Caught off guard | 5.00% | ~1,235 |
-| The Pro from Dover | 5.00% | ~1,235 |
-| Pretty lights! | 5.00% | ~1,235 |
-| Now you see me... | 5.00% | ~1,235 |
+| Power Up! | 5.00% | ~1,236 |
+| Caught off guard | 5.00% | ~1,236 |
+| The Pro from Dover | 5.00% | ~1,236 |
+| Pretty lights! | 5.00% | ~1,236 |
+| Now you see me... | 5.00% | ~1,236 |
 | Merchant of doom | 4.00% | ~988 |
 | I hate portals | 3.00% | ~741 |
 | Down the hatch | 3.00% | ~741 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~25 |
 | Murder Death Kill | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,709 (Ranked 132)  
+Progressed: 24,710 (Ranked 132)  
 Completed: 1 (0.00%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 1 (0.00%) (Ranked 368)
 | 2023-12-02 | 24,205 | 1 |
 | 2023-12-03 | 24,487 | 1 |
 | 2023-12-04 | 24,648 | 1 |
-| 2023-12-05 | 24,709 | 1 |
+| 2023-12-05 | 24,710 | 1 |
 ## Awards
 Max (Character Customization): 3,591  (Ranked 90)  
 Sum: 8,397 (Ranked 101)  

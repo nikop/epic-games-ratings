@@ -20,20 +20,20 @@
 | The Planner | 8.00% | ~1 |
 | Earth's Savior | 8.00% | ~1 |
 | Saucer Beast Unchained | 8.00% | ~1 |
+| The Battle Axe | 8.00% | ~1 |
 | The Interstellar Fighter | 8.00% | ~1 |
+| The Royal Guard | 8.00% | ~1 |
 | The Space Hydra | 8.00% | ~1 |
 | The Ultimate Attack | 8.00% | ~1 |
+| Vengeance of the Wolf | 8.00% | ~1 |
 | Gold Seeker | 0.00% | ~0 |
 | A Land of Peace | 0.00% | ~0 |
 | You can't fool me! | 0.00% | ~0 |
 | The Collector | 0.00% | ~0 |
 | The Broken Guard | 0.00% | ~0 |
 | The Completionist | 0.00% | ~0 |
-| The Battle Axe | 0.00% | ~0 |
 | The Fire Cannons | 0.00% | ~0 |
 | The Flying Octopus | 0.00% | ~0 |
-| The Royal Guard | 0.00% | ~0 |
-| Vengeance of the Wolf | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12 (Ranked 605)  
 Completed: 0 (0.00%) (Ranked 368)  

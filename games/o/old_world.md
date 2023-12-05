@@ -177,6 +177,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Prosperous Kmt | 0.40% | ~63 |
 | Gold Victory (Carthage 1) | 0.30% | ~47 |
 | Carthage - Riches and Influence | 0.30% | ~47 |
+| Bronze Victory (Carthage 2) | 0.30% | ~47 |
 | Cleopatra's Love | 0.30% | ~47 |
 | Holy | 0.30% | ~47 |
 | Great Difficulty | 0.30% | ~47 |
@@ -189,7 +190,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Randomized Leaders | 0.30% | ~47 |
 | Barbarian Horde | 0.20% | ~31 |
 | Blade of the Monkey | 0.20% | ~31 |
-| Bronze Victory (Carthage 2) | 0.20% | ~31 |
 | Silver Victory (Carthage 2) | 0.20% | ~31 |
 | Carthage - Rise of Rome | 0.20% | ~31 |
 | Game of the Week | 0.20% | ~31 |

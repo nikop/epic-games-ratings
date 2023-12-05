@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wanderer | 80.00% | ~83 |
-| Something important | 78.00% | ~81 |
+| Something important | 79.00% | ~82 |
 | A piece of the story | 61.00% | ~63 |
 | It's covered up for a reason | 46.00% | ~48 |
 | Do what you have to | 46.00% | ~48 |
@@ -14,7 +14,7 @@
 | Refuse to look | 38.00% | ~40 |
 | Sign of weakness | 38.00% | ~40 |
 | Finished it | 31.00% | ~32 |
-| Face your fears | 27.00% | ~28 |
+| Face your fears | 28.00% | ~29 |
 | Whispers long forgotten | 16.00% | ~17 |
 | Playtime | 13.00% | ~14 |
 | The tragedy unfolds | 13.00% | ~14 |

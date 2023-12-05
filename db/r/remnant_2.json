@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
     "PcReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -5175,9 +5175,9 @@
       "Count": 403
     }
   ],
-  "EOS_Progressed": 235141,
+  "EOS_Progressed": 235171,
   "EOS_Completed": 558,
-  "EOS_NewPlayers": 5319,
+  "EOS_NewPlayers": 5317,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -21465,6 +21465,11 @@
       "Time": "2023-12-05T11:09:38.8715842+00:00",
       "NumProgressed": 235141,
       "NumCompleted": 558
+    },
+    {
+      "Time": "2023-12-05T12:09:15.171015+00:00",
+      "NumProgressed": 235171,
+      "NumCompleted": 558
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21501,7 +21506,7 @@
       "Name": "Ghost in the Machine",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "Defeat_Boss_No_Damage",
@@ -21517,15 +21522,15 @@
       "Name": "Chaos",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "Defeat_Cube",
       "SetID": "bkp3b1a",
       "Name": "Gleaming the Cube",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 941
+      "UsersEstimate": 1176
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -21533,7 +21538,7 @@
       "Name": "Traitor",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "Defeat_Final_Boss",
@@ -21541,7 +21546,7 @@
       "Name": "Forever is a Long Time Coming",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "Defeat_Guardian",
@@ -21549,7 +21554,7 @@
       "Name": "Power Surge",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "Defeat_Mantis",
@@ -21565,7 +21570,7 @@
       "Name": "The God Gambit",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "Defeat_Nightweaver",
@@ -21573,7 +21578,7 @@
       "Name": "Dark Designs",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "Defeat_Special_Enemies",
@@ -21589,7 +21594,7 @@
       "Name": "Madman\u0027s Paradise",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "Defeat_World_Boss",
@@ -21685,7 +21690,7 @@
       "Name": "Shhh...It\u0027s a Secret",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "Obtain_Blood_Moon_Item",
@@ -21701,7 +21706,7 @@
       "Name": "Was This Supposed To Happen?",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "Obtain_Boss_Weapon",
@@ -21717,7 +21722,7 @@
       "Name": "Strapped",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "Obtain_Guns_B",
@@ -21733,7 +21738,7 @@
       "Name": "Edgelord",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "Obtain_Melee_Weapons_B",
@@ -21749,7 +21754,7 @@
       "Name": "The Web",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "Obtain_Relics",
@@ -21765,7 +21770,7 @@
       "Name": "Scrap Collector",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "Obtain_Scrap_B",
@@ -21773,7 +21778,7 @@
       "Name": "Scrap Hoarder",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "Obtain_Traits_A",
@@ -21789,7 +21794,7 @@
       "Name": "All These Traits\uFFFD",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "Obtain_Traits_C",
@@ -21877,7 +21882,7 @@
       "Name": "Regicide",
       "Percentage": 0.8,
       "XP": 75,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -21916,13 +21921,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 235141,
+      "Progressed": 235171,
       "Completed": 558
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 14306,
+      "Progressed": 14336,
       "Completed": 195
     }
   ],
@@ -21930,8 +21935,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-05T05:03:13.965754+00:00",
-  "LastChanged_Achievements": "2023-12-05T11:09:38.8715838+00:00",
+  "LastChanged_Achievements": "2023-12-05T12:09:15.1710145+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-05T11:03:50.6404955+00:00",
-  "LastUpdate_Achievements": "2023-12-05T11:09:38.8716782+00:00"
+  "LastUpdate_Ratings": "2023-12-05T12:03:36.5064973+00:00",
+  "LastUpdate_Achievements": "2023-12-05T12:09:15.1711514+00:00"
 }

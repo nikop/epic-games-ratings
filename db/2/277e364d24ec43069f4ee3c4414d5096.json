@@ -6,7 +6,7 @@
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 85,
-  "Ranking_EOS_Completed": 327,
+  "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 115927,
+  "EOS_Progressed": 115928,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 594,
+  "EOS_NewPlayers": 593,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -20204,6 +20204,11 @@
       "Time": "2023-12-05T11:10:10.5802045+00:00",
       "NumProgressed": 115927,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-12-05T12:09:38.0757236+00:00",
+      "NumProgressed": 115928,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 49,
@@ -20223,7 +20228,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 89264
+      "UsersEstimate": 89265
     },
     {
       "ID": "EAwards_10",
@@ -20295,7 +20300,7 @@
       "Name": "You Survived",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10433
+      "UsersEstimate": 10434
     },
     {
       "ID": "EAwards_19",
@@ -20399,7 +20404,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 23185
+      "UsersEstimate": 23186
     },
     {
       "ID": "EAwards_30",
@@ -20447,7 +20452,7 @@
       "Name": "Nacho Libre",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 10433
+      "UsersEstimate": 10434
     },
     {
       "ID": "EAwards_36",
@@ -20575,7 +20580,7 @@
       "Name": "Severed 2",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10433
+      "UsersEstimate": 10434
     },
     {
       "ID": "EAwards_7",
@@ -20606,7 +20611,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 115927,
+      "Progressed": 115928,
       "Completed": 51
     }
   ],
@@ -20614,8 +20619,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-05T11:10:10.5802041+00:00",
+  "LastChanged_Achievements": "2023-12-05T12:09:38.0757231+00:00",
   "LastUpdate_AppInfo": "2023-12-01T05:57:06.5040385+00:00",
-  "LastUpdate_Ratings": "2023-12-05T11:02:10.4899442+00:00",
-  "LastUpdate_Achievements": "2023-12-05T11:10:10.5803064+00:00"
+  "LastUpdate_Ratings": "2023-12-05T12:00:37.6147138+00:00",
+  "LastUpdate_Achievements": "2023-12-05T12:09:38.0758408+00:00"
 }

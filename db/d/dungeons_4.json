@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1480,9 +1480,9 @@
       "ID": "ach_main05evil_completed",
       "SetID": "4hg22ll",
       "Name": "Bad Elves Go Everywhere",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 364
     },
     {
       "ID": "ach_main05evil_thalyalevel",
@@ -1736,9 +1736,9 @@
       "ID": "ach_main15drill_sabotage",
       "SetID": "4hg22ll",
       "Name": "Sabotage!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 105
     },
     {
       "ID": "ach_main15drill_untouchable",
@@ -1879,8 +1879,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-05T11:09:17.8936588+00:00",
+  "LastChanged_Achievements": "2023-12-05T12:09:00.3214042+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:15.3424787+00:00",
-  "LastUpdate_Ratings": "2023-12-05T11:01:33.5592746+00:00",
-  "LastUpdate_Achievements": "2023-12-05T11:09:17.8937059+00:00"
+  "LastUpdate_Ratings": "2023-12-05T12:00:13.0342549+00:00",
+  "LastUpdate_Achievements": "2023-12-05T12:09:00.321449+00:00"
 }

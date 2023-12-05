@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 264,
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 48,
+  "Ranking_EOS_NewPlayers": 47,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2212,9 +2212,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 685965,
+  "EOS_Progressed": 685970,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1788,
+  "EOS_NewPlayers": 1789,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28432,6 +28432,11 @@
       "Time": "2023-12-05T11:10:39.6055809+00:00",
       "NumProgressed": 685965,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-05T12:09:59.4623044+00:00",
+      "NumProgressed": 685970,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 54,
@@ -28443,7 +28448,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 541912
+      "UsersEstimate": 541916
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -28531,7 +28536,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 246947
+      "UsersEstimate": 246949
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -28683,7 +28688,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 212649
+      "UsersEstimate": 212651
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -28747,7 +28752,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 102895
+      "UsersEstimate": 102896
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -28843,7 +28848,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 123474
+      "UsersEstimate": 123475
     },
     {
       "ID": "RP_TRUSTED",
@@ -28874,15 +28879,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 685965,
+      "Progressed": 685970,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-12-04T01:47:13.5273281+00:00",
-  "LastChanged_Achievements": "2023-12-05T11:10:39.6055804+00:00",
+  "LastChanged_Achievements": "2023-12-05T12:09:59.4623042+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:37.2595451+00:00",
-  "LastUpdate_Ratings": "2023-12-05T11:00:51.1253144+00:00",
-  "LastUpdate_Achievements": "2023-12-05T11:10:39.6057408+00:00"
+  "LastUpdate_Ratings": "2023-12-05T11:59:44.0857925+00:00",
+  "LastUpdate_Achievements": "2023-12-05T12:09:59.4624619+00:00"
 }

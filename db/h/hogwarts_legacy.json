@@ -11529,7 +11529,7 @@
       "Count": 835
     }
   ],
-  "EOS_Progressed": 303953,
+  "EOS_Progressed": 303955,
   "EOS_Completed": 521,
   "EOS_NewPlayers": 501,
   "EOS_NewCompleters": 3,
@@ -36159,6 +36159,11 @@
       "Time": "2023-12-05T11:10:36.0801255+00:00",
       "NumProgressed": 303953,
       "NumCompleted": 521
+    },
+    {
+      "Time": "2023-12-05T12:09:56.6297002+00:00",
+      "NumProgressed": 303955,
+      "NumCompleted": 521
     }
   ],
   "TotalAchievements": 45,
@@ -36170,7 +36175,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48632
+      "UsersEstimate": 48633
     },
     {
       "ID": "PFA_10",
@@ -36194,7 +36199,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 36474
+      "UsersEstimate": 36475
     },
     {
       "ID": "PFA_13",
@@ -36226,7 +36231,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36474
+      "UsersEstimate": 36475
     },
     {
       "ID": "PFA_17",
@@ -36298,7 +36303,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36474
+      "UsersEstimate": 36475
     },
     {
       "ID": "PFA_25",
@@ -36354,7 +36359,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36474
+      "UsersEstimate": 36475
     },
     {
       "ID": "PFA_31",
@@ -36394,7 +36399,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30395
+      "UsersEstimate": 30396
     },
     {
       "ID": "PFA_36",
@@ -36506,7 +36511,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42553
+      "UsersEstimate": 42554
     },
     {
       "ID": "PFA_8",
@@ -36522,14 +36527,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30395
+      "UsersEstimate": 30396
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303953,
+      "Progressed": 303955,
       "Completed": 521
     }
   ],
@@ -36537,8 +36542,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-05T04:59:35.9005149+00:00",
-  "LastChanged_Achievements": "2023-12-05T11:10:36.0801249+00:00",
+  "LastChanged_Achievements": "2023-12-05T12:09:56.6297+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-05T11:01:04.468676+00:00",
-  "LastUpdate_Achievements": "2023-12-05T11:10:36.0802689+00:00"
+  "LastUpdate_Ratings": "2023-12-05T11:59:52.8810138+00:00",
+  "LastUpdate_Achievements": "2023-12-05T12:09:56.6298191+00:00"
 }

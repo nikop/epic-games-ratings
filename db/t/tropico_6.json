@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1431,9 +1431,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6223,
+  "EOS_Progressed": 6225,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13886,6 +13886,11 @@
       "Time": "2023-12-05T08:09:24.0245234+00:00",
       "NumProgressed": 6223,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-05T12:09:56.4539901+00:00",
+      "NumProgressed": 6225,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -13905,7 +13910,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -13953,7 +13958,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -13969,7 +13974,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -13985,7 +13990,7 @@
       "Name": "Beware The Betman",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -13993,7 +13998,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2800
+      "UsersEstimate": 2801
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -14057,7 +14062,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4667
+      "UsersEstimate": 4669
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -14081,7 +14086,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1183
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -14153,7 +14158,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2863
+      "UsersEstimate": 2864
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -14216,15 +14221,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6223,
+      "Progressed": 6225,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-04T06:58:37.0670736+00:00",
-  "LastChanged_Achievements": "2023-12-05T11:10:35.911215+00:00",
+  "LastChanged_Achievements": "2023-12-05T12:09:56.4539898+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:34.7926512+00:00",
-  "LastUpdate_Ratings": "2023-12-05T11:00:44.2186615+00:00",
-  "LastUpdate_Achievements": "2023-12-05T11:10:35.9113179+00:00"
+  "LastUpdate_Ratings": "2023-12-05T11:59:39.4444876+00:00",
+  "LastUpdate_Achievements": "2023-12-05T12:09:56.4540599+00:00"
 }

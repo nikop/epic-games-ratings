@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 9,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 12,
+  "Ranking_EOS_NewPlayers": 13,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -16178,10 +16178,10 @@
       "Count": 14247
     }
   ],
-  "EOS_Progressed": 970316,
+  "EOS_Progressed": 970319,
   "EOS_Completed": 2844,
-  "EOS_NewPlayers": 12857,
-  "EOS_NewCompleters": 24,
+  "EOS_NewPlayers": 12377,
+  "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
@@ -42208,6 +42208,11 @@
       "Time": "2023-12-05T11:07:45.2726708+00:00",
       "NumProgressed": 970316,
       "NumCompleted": 2844
+    },
+    {
+      "Time": "2023-12-05T12:06:24.9843089+00:00",
+      "NumProgressed": 970319,
+      "NumCompleted": 2844
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -42244,7 +42249,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29109
+      "UsersEstimate": 29110
     },
     {
       "ID": "Denied",
@@ -42396,7 +42401,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29109
+      "UsersEstimate": 29110
     },
     {
       "ID": "Specialist",
@@ -42444,7 +42449,7 @@
       "Name": "The Hermit",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29109
+      "UsersEstimate": 29110
     },
     {
       "ID": "TheHightPriestess",
@@ -42484,7 +42489,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29109
+      "UsersEstimate": 29110
     },
     {
       "ID": "TheWorld",
@@ -42516,7 +42521,7 @@
       "Name": "True Soldier",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 29109
+      "UsersEstimate": 29110
     },
     {
       "ID": "TrueWarrior",
@@ -42755,21 +42760,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 970316,
+      "Progressed": 970319,
       "Completed": 2844
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 98939,
+      "Progressed": 98942,
       "Completed": 10301
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-05T11:03:26.8659677+00:00",
-  "LastChanged_Achievements": "2023-12-05T11:07:45.2726705+00:00",
+  "LastChanged_Achievements": "2023-12-05T12:06:24.9843088+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:33.8863582+00:00",
-  "LastUpdate_Ratings": "2023-12-05T11:03:26.8659683+00:00",
-  "LastUpdate_Achievements": "2023-12-05T11:07:45.272823+00:00"
+  "LastUpdate_Ratings": "2023-12-05T12:03:20.5658362+00:00",
+  "LastUpdate_Achievements": "2023-12-05T12:06:24.9844379+00:00"
 }

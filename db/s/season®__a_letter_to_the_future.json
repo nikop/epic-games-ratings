@@ -3,9 +3,9 @@
   "Name": "SEASON\u00AE: A letter to the future",
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 246,
-  "Ranking_EOS_Completed": 83,
+  "Ranking_EOS_Completed": 82,
   "Ranking_EOS_NewPlayers": 317,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -30,10 +30,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1319,
-  "EOS_Completed": 59,
+  "EOS_Completed": 60,
   "EOS_NewPlayers": 5,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.47,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 4.55,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -2744,6 +2744,11 @@
       "Time": "2023-12-03T18:09:11.1649795+00:00",
       "NumProgressed": 1319,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-12-05T12:09:38.2828013+00:00",
+      "NumProgressed": 1319,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 16,
@@ -2865,9 +2870,9 @@
       "ID": "ACH_THEEND",
       "SetID": "7pam6gn",
       "Name": "The End",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 200,
-      "UsersEstimate": 171
+      "UsersEstimate": 185
     },
     {
       "ID": "ACH_TOURDETIENG",
@@ -2883,15 +2888,15 @@
       "ID": "7pam6gn",
       "IsBase": true,
       "Progressed": 1319,
-      "Completed": 59
+      "Completed": 60
     }
   ],
   "FirstSeen": "2023-02-01T02:21:53.1981765+00:00",
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-05T11:10:10.814287+00:00",
+  "LastChanged_Achievements": "2023-12-05T12:09:38.2828006+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:07.8879724+00:00",
-  "LastUpdate_Ratings": "2023-12-05T11:02:10.9370203+00:00",
-  "LastUpdate_Achievements": "2023-12-05T11:10:10.8143079+00:00"
+  "LastUpdate_Ratings": "2023-12-05T12:00:37.900566+00:00",
+  "LastUpdate_Achievements": "2023-12-05T12:09:38.2828234+00:00"
 }

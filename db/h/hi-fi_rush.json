@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4476,
+  "EOS_Progressed": 4477,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -8140,6 +8140,11 @@
       "Time": "2023-12-05T02:28:52.3990934+00:00",
       "NumProgressed": 4476,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-05T12:04:46.5814459+00:00",
+      "NumProgressed": 4477,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8151,7 +8156,7 @@
       "Name": "Start with a bang!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "Ach002",
@@ -8263,7 +8268,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "Ach016",
@@ -8327,7 +8332,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "Ach024",
@@ -8343,7 +8348,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "Ach026",
@@ -8718,13 +8723,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4476,
+      "Progressed": 4477,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2997,
+      "Progressed": 2998,
       "Completed": 1930
     }
   ],
@@ -8732,8 +8737,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-05T11:05:28.3844159+00:00",
+  "LastChanged_Achievements": "2023-12-05T12:04:46.5814458+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:21.1661658+00:00",
   "LastUpdate_Ratings": "2023-12-05T11:02:24.8214396+00:00",
-  "LastUpdate_Achievements": "2023-12-05T11:05:28.3845023+00:00"
+  "LastUpdate_Achievements": "2023-12-05T12:04:46.5815236+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -389,9 +389,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 324236,
+  "EOS_Progressed": 324255,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4020,
+  "EOS_NewPlayers": 4019,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8469,6 +8469,11 @@
       "Time": "2023-12-05T11:08:00.6012976+00:00",
       "NumProgressed": 324236,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-05T12:06:35.5996384+00:00",
+      "NumProgressed": 324255,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -8481,7 +8486,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9727
+      "UsersEstimate": 9728
     },
     {
       "ID": "S02_BRDA",
@@ -8497,7 +8502,7 @@
       "Name": "Rumors are true",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 1945
+      "UsersEstimate": 1946
     },
     {
       "ID": "S04_BRDC",
@@ -8617,7 +8622,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9727
+      "UsersEstimate": 9728
     },
     {
       "ID": "S19_CHALLENGES",
@@ -8673,7 +8678,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1945
+      "UsersEstimate": 1946
     },
     {
       "ID": "S26_CRTA",
@@ -8689,7 +8694,7 @@
       "Name": "Their fate is sealed",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "S28_CTHB",
@@ -8697,7 +8702,7 @@
       "Name": "Not even from this world",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "S29_RECOVER",
@@ -8777,7 +8782,7 @@
       "Name": "Chaos be damned!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "S39_END_RAPTURE",
@@ -8800,7 +8805,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 324236,
+      "Progressed": 324255,
       "Completed": 4
     }
   ],
@@ -8808,8 +8813,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-02T08:58:54.6895718+00:00",
-  "LastChanged_Achievements": "2023-12-05T11:08:00.6012972+00:00",
+  "LastChanged_Achievements": "2023-12-05T12:06:35.5996381+00:00",
   "LastUpdate_AppInfo": "2023-11-30T19:57:08.777578+00:00",
-  "LastUpdate_Ratings": "2023-12-05T11:01:37.5062603+00:00",
-  "LastUpdate_Achievements": "2023-12-05T11:08:00.6013589+00:00"
+  "LastUpdate_Ratings": "2023-12-05T12:00:15.6147359+00:00",
+  "LastUpdate_Achievements": "2023-12-05T12:06:35.5997016+00:00"
 }

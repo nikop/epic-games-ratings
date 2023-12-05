@@ -6,15 +6,15 @@ Rating: 4.75 (Ranked 147)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Killing Jar | 0.80% | ~1,881 |
-| Regicide | 0.80% | ~114 |
+| Regicide | 0.80% | ~115 |
 | First of Many | 0.70% | ~1,646 |
 | Master of the Dark Arts | 0.70% | ~100 |
 | Not Your Average Trait | 0.60% | ~1,411 |
 | Expanding Horizons | 0.50% | ~1,176 |
+| Gleaming the Cube | 0.50% | ~1,176 |
 | Quest for Survival | 0.50% | ~1,176 |
 | Boss'n Up | 0.50% | ~1,176 |
 | Am I Seeing This? | 0.40% | ~941 |
-| Gleaming the Cube | 0.40% | ~941 |
 | Not So Special Now | 0.40% | ~941 |
 | Not a Janitor | 0.40% | ~941 |
 | Familiar Face | 0.40% | ~941 |
@@ -26,22 +26,22 @@ Rating: 4.75 (Ranked 147)
 | Make Some Room | 0.40% | ~941 |
 | Good, But Could Be Better! | 0.40% | ~941 |
 | Trait Chaser | 0.40% | ~941 |
-| Ghost in the Machine | 0.30% | ~705 |
-| Chaos | 0.30% | ~705 |
-| Traitor | 0.30% | ~705 |
-| Forever is a Long Time Coming | 0.30% | ~705 |
-| Power Surge | 0.30% | ~705 |
-| The God Gambit | 0.30% | ~705 |
-| Dark Designs | 0.30% | ~705 |
-| Madman's Paradise | 0.30% | ~705 |
-| Shhh...It's a Secret | 0.30% | ~705 |
-| Was This Supposed To Happen? | 0.30% | ~705 |
-| Strapped | 0.30% | ~705 |
-| Edgelord | 0.30% | ~705 |
-| The Web | 0.30% | ~705 |
-| Scrap Collector | 0.30% | ~705 |
-| Scrap Hoarder | 0.30% | ~705 |
-| All These Traits� | 0.30% | ~705 |
+| Ghost in the Machine | 0.30% | ~706 |
+| Chaos | 0.30% | ~706 |
+| Traitor | 0.30% | ~706 |
+| Forever is a Long Time Coming | 0.30% | ~706 |
+| Power Surge | 0.30% | ~706 |
+| The God Gambit | 0.30% | ~706 |
+| Dark Designs | 0.30% | ~706 |
+| Madman's Paradise | 0.30% | ~706 |
+| Shhh...It's a Secret | 0.30% | ~706 |
+| Was This Supposed To Happen? | 0.30% | ~706 |
+| Strapped | 0.30% | ~706 |
+| Edgelord | 0.30% | ~706 |
+| The Web | 0.30% | ~706 |
+| Scrap Collector | 0.30% | ~706 |
+| Scrap Hoarder | 0.30% | ~706 |
+| All These Traits� | 0.30% | ~706 |
 | Crafty | 0.20% | ~470 |
 | Only Human | 0.20% | ~470 |
 | Red Room | 0.20% | ~470 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 147)
 | You Shall Pass | 0.20% | ~29 |
 | A Foul Feast | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,141 (Ranked 68)  
+Progressed: 235,171 (Ranked 68)  
 Completed: 558 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 558 (0.24%) (Ranked 251)
 | 2023-12-02 | 233,162 | 548 |
 | 2023-12-03 | 234,204 | 554 |
 | 2023-12-04 | 234,896 | 558 |
-| 2023-12-05 | 235,141 | 558 |
+| 2023-12-05 | 235,171 | 558 |
 ## Awards
 Max (Great Boss Battles): 2,623  (Ranked 102)  
 Sum: 6,492 (Ranked 128)  

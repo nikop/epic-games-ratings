@@ -2,13 +2,13 @@
   "ID": "bc079f73f020432fac896d30c8e2c330",
   "Name": "Gloomhaven",
   "ProductSlug": "gloomhaven-92f741",
-  "Ranking_Rating": 640,
+  "Ranking_Rating": 639,
   "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 101,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -2603,9 +2603,9 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 24709,
+  "EOS_Progressed": 24710,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1276,
+  "EOS_NewPlayers": 1274,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11848,6 +11848,11 @@
       "Time": "2023-12-05T11:09:13.2668241+00:00",
       "NumProgressed": 24709,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-05T12:08:56.8924153+00:00",
+      "NumProgressed": 24710,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -11860,7 +11865,7 @@
       "Name": "Power Up!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "Achievement_Trophy02",
@@ -11924,7 +11929,7 @@
       "Name": "Caught off guard",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "Achievement_Trophy10",
@@ -12132,7 +12137,7 @@
       "Name": "The Pro from Dover",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "Achievement_Trophy36",
@@ -12140,7 +12145,7 @@
       "Name": "Pretty lights!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "Achievement_Trophy37",
@@ -12148,7 +12153,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 6177
+      "UsersEstimate": 6178
     },
     {
       "ID": "Achievement_Trophy38",
@@ -12212,7 +12217,7 @@
       "Name": "Now you see me...",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "Achievement_Trophy46",
@@ -12347,7 +12352,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 24709,
+      "Progressed": 24710,
       "Completed": 1
     }
   ],
@@ -12355,8 +12360,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-03T16:58:41.8271034+00:00",
-  "LastChanged_Achievements": "2023-12-05T11:09:13.2668236+00:00",
+  "LastChanged_Achievements": "2023-12-05T12:08:56.892415+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:31.3646909+00:00",
-  "LastUpdate_Ratings": "2023-12-05T11:00:37.5333227+00:00",
-  "LastUpdate_Achievements": "2023-12-05T11:09:13.2669009+00:00"
+  "LastUpdate_Ratings": "2023-12-05T11:59:34.8443369+00:00",
+  "LastUpdate_Achievements": "2023-12-05T12:08:56.8924948+00:00"
 }

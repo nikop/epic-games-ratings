@@ -2,13 +2,13 @@
   "ID": "e1e92771f6774072bb1b8d0a0a6197f7",
   "Name": "Wonder Boy The Dragons Trap",
   "ProductSlug": "wonder-boy-the-dragons-trap-26381d",
-  "Ranking_Rating": 697,
+  "Ranking_Rating": 696,
   "Ranking_Popularity": 417,
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 779,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-07-14T15:00:00+00:00",
     "PcReleaseDate": "2017-06-08T15:00:00+00:00",
@@ -1141,8 +1141,8 @@
   "FirstSeen": "2022-07-22T20:30:29.5801015+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:35.8235457+00:00",
   "LastChanged": "2023-11-25T05:00:20.3823635+00:00",
-  "LastChanged_Achievements": "2023-12-05T11:09:29.521528+00:00",
+  "LastChanged_Achievements": "2023-12-05T12:09:08.3328328+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:39.3631623+00:00",
-  "LastUpdate_Ratings": "2023-12-05T10:58:10.2044106+00:00",
-  "LastUpdate_Achievements": "2023-12-05T11:09:29.521531+00:00"
+  "LastUpdate_Ratings": "2023-12-05T11:57:55.2607033+00:00",
+  "LastUpdate_Achievements": "2023-12-05T12:09:08.3328388+00:00"
 }

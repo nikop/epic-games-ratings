@@ -22,7 +22,7 @@ Number of Ratings: 98  (23.09.2022)
 | Veni Vidi Vici | 19.00% | ~1,754 |
 | Ragazzi del '99 | 17.00% | ~1,570 |
 | Luigi Cadorna | 15.00% | ~1,385 |
-| The Lion of the Isonzo | 14.00% | ~1,293 |
+| The Lion of the Isonzo | 15.00% | ~1,385 |
 | Uomo Universale | 13.00% | ~1,200 |
 | Dirty Dozen | 12.00% | ~1,108 |
 | Shaken, Not Stirred | 12.00% | ~1,108 |

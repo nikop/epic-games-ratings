@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 513,
+  "EOS_Progressed": 514,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 97,
   "EOS_NewCompleters": -1,
@@ -1445,6 +1445,11 @@
       "Time": "2023-12-04T19:09:18.0507659+00:00",
       "NumProgressed": 513,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-05T12:09:11.4960348+00:00",
+      "NumProgressed": 514,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -1455,9 +1460,9 @@
       "ID": "AchvActivateProbe",
       "SetID": "1hj060c",
       "Name": "The Teleprobe",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 236
     },
     {
       "ID": "AchvAllMemories",
@@ -1489,7 +1494,7 @@
       "Name": "Peacemaker",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "AchvBombing",
@@ -1561,7 +1566,7 @@
       "Name": "Volcanologist",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "AchvLeaveNoManBehind",
@@ -1641,7 +1646,7 @@
       "Name": "The City",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "AchvReachCondor",
@@ -1688,14 +1693,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 513,
+      "Progressed": 514,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-05T11:09:33.8800951+00:00",
+  "LastChanged_Achievements": "2023-12-05T12:09:11.4960342+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.6526822+00:00",
-  "LastUpdate_Ratings": "2023-12-05T10:58:55.093149+00:00",
-  "LastUpdate_Achievements": "2023-12-05T11:09:33.8801156+00:00"
+  "LastUpdate_Ratings": "2023-12-05T11:58:25.3238003+00:00",
+  "LastUpdate_Achievements": "2023-12-05T12:09:11.4960537+00:00"
 }

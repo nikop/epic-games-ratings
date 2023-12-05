@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 339,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
     "PcReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 706,
+  "EOS_Progressed": 707,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.5,
+  "EOS_Completed_Percentage": 8.49,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -431,6 +431,11 @@
       "Time": "2023-12-04T06:06:44.037159+00:00",
       "NumProgressed": 706,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-05T12:06:28.0363335+00:00",
+      "NumProgressed": 707,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -442,7 +447,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -474,7 +479,7 @@
       "Name": "Magical Mineral Golem",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "ACHIEVEMENT006",
@@ -482,15 +487,15 @@
       "Name": "The Lords of the Snowpeak",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ACHIEVEMENT007",
       "SetID": "dejhjd5",
       "Name": "The Lava Mantor Wyrm",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 255
     },
     {
       "ID": "ACHIEVEMENT008",
@@ -522,15 +527,15 @@
       "Name": "A Girl About the Town",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ACHIEVEMENT012",
       "SetID": "dejhjd5",
       "Name": "The Go-To Girl",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 268
+      "UsersEstimate": 262
     },
     {
       "ID": "ACHIEVEMENT013",
@@ -538,7 +543,7 @@
       "Name": "The Pride of the Town",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ACHIEVEMENT014",
@@ -554,7 +559,7 @@
       "Name": "Scavenger\u0027s Honor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACHIEVEMENT016",
@@ -562,7 +567,7 @@
       "Name": "One Mean Merc",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ACHIEVEMENT017",
@@ -594,7 +599,7 @@
       "Name": "Full Force - Garoo",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACHIEVEMENT021",
@@ -602,7 +607,7 @@
       "Name": "Full Force - Isha",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACHIEVEMENT022",
@@ -618,7 +623,7 @@
       "Name": "Armor Master",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT024",
@@ -626,15 +631,15 @@
       "Name": "Amateur Adventurer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACHIEVEMENT025",
       "SetID": "dejhjd5",
       "Name": "Hopeful Hunter",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 480
+      "UsersEstimate": 474
     },
     {
       "ID": "ACHIEVEMENT026",
@@ -650,7 +655,7 @@
       "Name": "Natural Born Monster-Killer",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACHIEVEMENT028",
@@ -658,7 +663,7 @@
       "Name": "On Outlander Lane",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACHIEVEMENT029",
@@ -706,7 +711,7 @@
       "Name": "Money, Money, Money",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ACHIEVEMENT035",
@@ -714,7 +719,7 @@
       "Name": "First Time Fishing",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "ACHIEVEMENT036",
@@ -722,7 +727,7 @@
       "Name": "First Time Hunting",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACHIEVEMENT037",
@@ -738,7 +743,7 @@
       "Name": "Fishing Master",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACHIEVEMENT039",
@@ -760,9 +765,9 @@
       "ID": "ACHIEVEMENT041",
       "SetID": "dejhjd5",
       "Name": "The Great Forest...On Foot!",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 255
     },
     {
       "ID": "ACHIEVEMENT042",
@@ -841,15 +846,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 706,
+      "Progressed": 707,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-05T11:07:49.5943689+00:00",
+  "LastChanged_Achievements": "2023-12-05T12:06:28.0363331+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:13.8048118+00:00",
-  "LastUpdate_Ratings": "2023-12-05T10:57:37.5405089+00:00",
-  "LastUpdate_Achievements": "2023-12-05T11:07:49.5944004+00:00"
+  "LastUpdate_Ratings": "2023-12-05T11:57:33.3119564+00:00",
+  "LastUpdate_Achievements": "2023-12-05T12:06:28.0363707+00:00"
 }

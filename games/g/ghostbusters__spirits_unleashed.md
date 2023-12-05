@@ -5,7 +5,7 @@ Rating: 4.51 (Ranked 572)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 9.00% | ~2,874 |
+| Stylish | 9.00% | ~2,875 |
 | Advancement | 7.00% | ~2,236 |
 | Meticulously Efficient | 7.00% | ~2,236 |
 | I collect Spores, Molds, and Fungi | 5.00% | ~1,597 |
@@ -14,11 +14,11 @@ Rating: 4.51 (Ranked 572)
 | Solo Capture | 5.00% | ~1,597 |
 | Swift Rift Removers | 5.00% | ~1,597 |
 | Teamwork | 5.00% | ~1,597 |
-| Clutch Capture | 4.00% | ~1,277 |
-| Cultured | 4.00% | ~1,277 |
-| There you are! | 4.00% | ~1,277 |
-| Vaporous Expansion | 4.00% | ~1,277 |
-| Whoopsie | 4.00% | ~1,277 |
+| Clutch Capture | 4.00% | ~1,278 |
+| Cultured | 4.00% | ~1,278 |
+| There you are! | 4.00% | ~1,278 |
+| Vaporous Expansion | 4.00% | ~1,278 |
+| Whoopsie | 4.00% | ~1,278 |
 | Animated | 3.00% | ~958 |
 | We have the best insurance | 3.00% | ~958 |
 | Daily Dose | 3.00% | ~958 |
@@ -46,7 +46,7 @@ Rating: 4.51 (Ranked 572)
 | Rivalry | 1.00% | ~319 |
 | Terrifying | 1.00% | ~319 |
 | Surprise! | 0.90% | ~287 |
-| Therapeutic | 0.80% | ~255 |
+| Therapeutic | 0.80% | ~256 |
 | Rift Seeker | 0.60% | ~192 |
 | Master Collector | 0.50% | ~160 |
 | Ghost Expert | 0.30% | ~96 |
@@ -57,7 +57,7 @@ Rating: 4.51 (Ranked 572)
 | Ultimate Defense | 0.20% | ~64 |
 | Line em' up | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,936 (Ranked 124)  
+Progressed: 31,939 (Ranked 124)  
 Completed: 69 (0.22%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 69 (0.22%) (Ranked 255)
 | 2023-12-02 | 31,846 | 69 |
 | 2023-12-03 | 31,893 | 69 |
 | 2023-12-04 | 31,923 | 69 |
-| 2023-12-05 | 31,936 | 69 |
+| 2023-12-05 | 31,939 | 69 |
 ## Awards
 Max (Great for Beginners): 320  (Ranked 251)  
 Sum: 2,880 (Ranked 179)  
