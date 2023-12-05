@@ -298,7 +298,6 @@
 | 295 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 83 | 389 |
 | 295 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 6,375 | 60 |
 | 295 | [Crashlands](games/c/crashlands.md) | 4.66 | 196 | 292 |
-| 295 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.66 | 116,208 | 9 |
 | 295 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,304 | 138 |
 | 295 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 382 | 237 |
 | 295 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.66 | 0 | 558 |
@@ -315,27 +314,28 @@
 | 295 | [Trackmania](games/t/trackmania.md) | 4.66 | 4,100 | 84 |
 | 295 | [Tropico 6](games/t/tropico_6.md) | 4.66 | 103 | 360 |
 | 295 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 219 |
-| 316 | [7 Billion Humans](games/7/7_billion_humans.md) | 4.65 | 0 | 558 |
-| 316 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 558 |
-| 316 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 0 | 558 |
-| 316 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 0 | 558 |
-| 316 | [Black Book](games/b/black_book.md) | 4.65 | 0 | 558 |
-| 316 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 174 | 305 |
-| 316 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 0 | 558 |
-| 316 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.65 | 0 | 558 |
-| 316 | [GigaBash](games/g/gigabash.md) | 4.65 | 0 | 558 |
-| 316 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 0 | 558 |
-| 316 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 4.65 | 0 | 558 |
-| 316 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.65 | 0 | 558 |
-| 316 | [Old World](games/o/old_world.md) | 4.65 | 228 | 274 |
-| 316 | [Road 96](games/r/road_96.md) | 4.65 | 0 | 558 |
-| 316 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 0 | 558 |
-| 316 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 56 | 419 |
-| 316 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 24 | 528 |
-| 316 | [SOMA](games/s/soma.md) | 4.65 | 0 | 558 |
-| 316 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 34 | 486 |
-| 316 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 558 |
-| 316 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.65 | 76 | 396 |
+| 315 | [7 Billion Humans](games/7/7_billion_humans.md) | 4.65 | 0 | 558 |
+| 315 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 558 |
+| 315 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 0 | 558 |
+| 315 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 0 | 558 |
+| 315 | [Black Book](games/b/black_book.md) | 4.65 | 0 | 558 |
+| 315 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 174 | 305 |
+| 315 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.65 | 116,208 | 9 |
+| 315 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 0 | 558 |
+| 315 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.65 | 0 | 558 |
+| 315 | [GigaBash](games/g/gigabash.md) | 4.65 | 0 | 558 |
+| 315 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 0 | 558 |
+| 315 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 4.65 | 0 | 558 |
+| 315 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.65 | 0 | 558 |
+| 315 | [Old World](games/o/old_world.md) | 4.65 | 228 | 274 |
+| 315 | [Road 96](games/r/road_96.md) | 4.65 | 0 | 558 |
+| 315 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 0 | 558 |
+| 315 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 56 | 419 |
+| 315 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 24 | 528 |
+| 315 | [SOMA](games/s/soma.md) | 4.65 | 0 | 558 |
+| 315 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 34 | 486 |
+| 315 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 558 |
+| 315 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.65 | 76 | 396 |
 | 337 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 6,001 | 63 |
 | 337 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 118 | 344 |
 | 337 | [Dead Space](games/d/dead_space.md) | 4.64 | 117 | 346 |
