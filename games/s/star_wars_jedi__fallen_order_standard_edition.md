@@ -5,18 +5,18 @@ Rating: 4.66 (Ranked 295)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 100.00% | ~21,797 |
-| A Long Time Ago | 93.00% | ~20,271 |
+| The Mantis | 100.00% | ~21,798 |
+| A Long Time Ago | 93.00% | ~20,272 |
 | Sabersmith | 80.00% | ~17,438 |
 | The Obstacle is the Way | 78.00% | ~17,002 |
-| Back At You | 73.00% | ~15,912 |
-| Happy Go Wookiee | 69.00% | ~15,040 |
-| Everything is Connected | 60.00% | ~13,078 |
-| Her Name Was Masana Tide | 55.00% | ~11,988 |
-| Bank Shot | 54.00% | ~11,770 |
-| Perfect Timing | 53.00% | ~11,552 |
-| Gorgara Falls | 51.00% | ~11,116 |
-| The Full Glow-Up | 50.00% | ~10,898 |
+| Back At You | 73.00% | ~15,913 |
+| Happy Go Wookiee | 69.00% | ~15,041 |
+| Everything is Connected | 60.00% | ~13,079 |
+| Her Name Was Masana Tide | 55.00% | ~11,989 |
+| Bank Shot | 54.00% | ~11,771 |
+| Perfect Timing | 53.00% | ~11,553 |
+| Gorgara Falls | 51.00% | ~11,117 |
+| The Full Glow-Up | 50.00% | ~10,899 |
 | For A More Civilized Age | 49.00% | ~10,681 |
 | I Knew He Was No Good | 47.00% | ~10,245 |
 | The Holocron Awaits | 46.00% | ~10,027 |
@@ -26,9 +26,9 @@ Rating: 4.66 (Ranked 295)
 | Don't Mess with BD-1 | 42.00% | ~9,155 |
 | Blade Master | 39.00% | ~8,501 |
 | Full House | 36.00% | ~7,847 |
-| Legendary Beasts | 22.00% | ~4,795 |
-| Echo Location | 20.00% | ~4,359 |
-| Visiting Alderaan Places | 18.00% | ~3,923 |
+| Legendary Beasts | 22.00% | ~4,796 |
+| Echo Location | 20.00% | ~4,360 |
+| Visiting Alderaan Places | 18.00% | ~3,924 |
 | Triple Take | 14.00% | ~3,052 |
 | Cal Got Your Tongue? | 14.00% | ~3,052 |
 | Big Bang | 12.00% | ~2,616 |
@@ -45,7 +45,7 @@ Rating: 4.66 (Ranked 295)
 | Kicking Back | 2.00% | ~436 |
 | Not So Fast | 1.00% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,797 (Ranked 141)  
+Progressed: 21,798 (Ranked 141)  
 Completed: 221 (1.01%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 221 (1.01%) (Ranked 168)
 | 2023-12-02 | 21,293 | 217 |
 | 2023-12-03 | 21,610 | 219 |
 | 2023-12-04 | 21,760 | 221 |
-| 2023-12-05 | 21,797 | 221 |
+| 2023-12-05 | 21,798 | 221 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

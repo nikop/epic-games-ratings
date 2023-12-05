@@ -4,11 +4,11 @@
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 1016,
   "Ranking_Popularity": 206,
-  "Ranking_PopularitySum": 187,
+  "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4937,7 +4937,7 @@
   ],
   "EOS_Progressed": 91748,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -27562,8 +27562,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-04T22:57:34.8922146+00:00",
-  "LastChanged_Achievements": "2023-12-05T06:08:30.4271737+00:00",
+  "LastChanged_Achievements": "2023-12-05T07:08:15.4258653+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:50.1764658+00:00",
-  "LastUpdate_Ratings": "2023-12-05T05:58:01.3559231+00:00",
-  "LastUpdate_Achievements": "2023-12-05T06:08:30.4273229+00:00"
+  "LastUpdate_Ratings": "2023-12-05T06:58:06.8925537+00:00",
+  "LastUpdate_Achievements": "2023-12-05T07:08:15.4260239+00:00"
 }

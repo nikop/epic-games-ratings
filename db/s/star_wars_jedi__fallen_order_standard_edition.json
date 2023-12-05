@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2019-11-14T05:00:00+00:00",
     "PcReleaseDate": "2019-11-14T05:00:00+00:00",
@@ -211,9 +211,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21797,
+  "EOS_Progressed": 21798,
   "EOS_Completed": 221,
-  "EOS_NewPlayers": 1214,
+  "EOS_NewPlayers": 1210,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -11306,6 +11306,11 @@
       "Time": "2023-12-05T06:06:02.3787956+00:00",
       "NumProgressed": 21797,
       "NumCompleted": 221
+    },
+    {
+      "Time": "2023-12-05T07:06:07.6963818+00:00",
+      "NumProgressed": 21798,
+      "NumCompleted": 221
     }
   ],
   "AchievementsAdded": "2023-07-27T17:07:04.2576498+00:00",
@@ -11326,7 +11331,7 @@
       "Name": "Everything is Connected",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 13078
+      "UsersEstimate": 13079
     },
     {
       "ID": "achievement_11",
@@ -11342,7 +11347,7 @@
       "Name": "Happy Go Wookiee",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 15040
+      "UsersEstimate": 15041
     },
     {
       "ID": "achievement_13",
@@ -11350,7 +11355,7 @@
       "Name": "Her Name Was Masana Tide",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 11988
+      "UsersEstimate": 11989
     },
     {
       "ID": "achievement_14",
@@ -11358,7 +11363,7 @@
       "Name": "Visiting Alderaan Places",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 3923
+      "UsersEstimate": 3924
     },
     {
       "ID": "achievement_15",
@@ -11366,7 +11371,7 @@
       "Name": "Gorgara Falls",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 11116
+      "UsersEstimate": 11117
     },
     {
       "ID": "achievement_16",
@@ -11390,7 +11395,7 @@
       "Name": "Back At You",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 15912
+      "UsersEstimate": 15913
     },
     {
       "ID": "achievement_19",
@@ -11398,7 +11403,7 @@
       "Name": "Perfect Timing",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 11552
+      "UsersEstimate": 11553
     },
     {
       "ID": "achievement_2",
@@ -11478,7 +11483,7 @@
       "Name": "Bank Shot",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 11770
+      "UsersEstimate": 11771
     },
     {
       "ID": "achievement_29",
@@ -11494,7 +11499,7 @@
       "Name": "Legendary Beasts",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 4795
+      "UsersEstimate": 4796
     },
     {
       "ID": "achievement_30",
@@ -11550,7 +11555,7 @@
       "Name": "The Full Glow-Up",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 10898
+      "UsersEstimate": 10899
     },
     {
       "ID": "achievement_37",
@@ -11574,7 +11579,7 @@
       "Name": "Echo Location",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4359
+      "UsersEstimate": 4360
     },
     {
       "ID": "achievement_4",
@@ -11606,7 +11611,7 @@
       "Name": "The Mantis",
       "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 21797
+      "UsersEstimate": 21798
     },
     {
       "ID": "achievement_8",
@@ -11614,7 +11619,7 @@
       "Name": "A Long Time Ago",
       "Percentage": 93,
       "XP": 25,
-      "UsersEstimate": 20271
+      "UsersEstimate": 20272
     },
     {
       "ID": "achievement_9",
@@ -11629,7 +11634,7 @@
     {
       "ID": "nk00bp",
       "IsBase": true,
-      "Progressed": 21797,
+      "Progressed": 21798,
       "Completed": 221
     }
   ],
@@ -11637,8 +11642,8 @@
   "FirstSeenRating": "2023-01-19T17:57:21.8503862+00:00",
   "FirstSeenAchievements": "2023-07-10T16:05:56.566265+00:00",
   "LastChanged": "2023-11-12T21:59:15.958654+00:00",
-  "LastChanged_Achievements": "2023-12-05T06:06:02.3787952+00:00",
+  "LastChanged_Achievements": "2023-12-05T07:06:07.6963815+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:24.5622301+00:00",
-  "LastUpdate_Ratings": "2023-12-05T06:01:36.1782785+00:00",
-  "LastUpdate_Achievements": "2023-12-05T06:06:02.3789366+00:00"
+  "LastUpdate_Ratings": "2023-12-05T07:01:40.9970417+00:00",
+  "LastUpdate_Achievements": "2023-12-05T07:06:07.6964428+00:00"
 }

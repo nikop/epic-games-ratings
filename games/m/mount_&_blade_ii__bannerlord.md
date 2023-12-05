@@ -19,12 +19,12 @@ Number of Ratings: 5,603  (23.09.2022)
 | This Is Our Land | 14.00% | ~9,395 |
 | Against all odds | 13.00% | ~8,724 |
 | God of the Arena | 13.00% | ~8,724 |
-| Duelist | 10.00% | ~6,710 |
-| Dynasty | 10.00% | ~6,710 |
-| I spit on your grave | 10.00% | ~6,710 |
-| Swordbearer | 10.00% | ~6,710 |
-| What have the Romans ever done for us? | 10.00% | ~6,710 |
-| Butterlord | 9.00% | ~6,039 |
+| Duelist | 10.00% | ~6,711 |
+| Dynasty | 10.00% | ~6,711 |
+| I spit on your grave | 10.00% | ~6,711 |
+| Swordbearer | 10.00% | ~6,711 |
+| What have the Romans ever done for us? | 10.00% | ~6,711 |
+| Butterlord | 9.00% | ~6,040 |
 | Mastery | 8.00% | ~5,368 |
 | Know your enemy | 7.00% | ~4,697 |
 | Crowdfunded | 5.00% | ~3,355 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,105 (Ranked 104)  
+Progressed: 67,106 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,16 +287,16 @@ Completed: 0 (0.00%) (Ranked 368)
 | 2023-12-02 | 66,936 | 0 |
 | 2023-12-03 | 67,037 | 0 |
 | 2023-12-04 | 67,093 | 0 |
-| 2023-12-05 | 67,105 | 0 |
+| 2023-12-05 | 67,106 | 0 |
 ## Awards
 Max (Character Customization): 7,500  (Ranked 53)  
-Sum: 15,613 (Ranked 68)  
+Sum: 15,615 (Ranked 68)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,500 |
 | This game is Great for Beginners | 1,094 |
-| This game has Diverse Characters | 1,033 |
+| This game has Diverse Characters | 1,035 |
 | This game is Highly Recommended | 959 |
 | This game is Extremely Fun | 898 |
 | This game has Amazing Storytelling | 883 |
@@ -633,4 +633,4 @@ Diff (max vs sum): -15
 | 2023-12-02 | 4.74 | - | 7,479 | 15,567 |
 | 2023-12-03 | 4.74 | - | 7,490 | 15,595 |
 | 2023-12-04 | 4.74 | - | 7,500 | 15,609 |
-| 2023-12-05 | 4.74 | - | 7,500 | 15,613 |
+| 2023-12-05 | 4.74 | - | 7,500 | 15,615 |

@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Struck A Pose | 88.00% | ~22,891 |
-| Fried Friendship | 87.00% | ~22,630 |
-| Look At Him Go | 79.00% | ~20,549 |
-| On Rails Experience | 57.00% | ~14,827 |
-| A Daring Devil | 53.00% | ~13,786 |
-| It Took Two | 44.00% | ~11,445 |
-| Break the Bank | 43.00% | ~11,185 |
-| Bug Sized Relaxation | 22.00% | ~5,723 |
-| Plastic Prison Breakers | 17.00% | ~4,422 |
-| Terror Of The Seven Seas | 16.00% | ~4,162 |
-| Realize Your Art | 12.00% | ~3,121 |
-| Force Triangulated | 12.00% | ~3,121 |
-| Meditation Maestro | 12.00% | ~3,121 |
-| Lost And Found | 11.00% | ~2,861 |
-| Something Fishy | 11.00% | ~2,861 |
-| Platforming Prodigy | 9.00% | ~2,341 |
+| Struck A Pose | 88.00% | ~22,895 |
+| Fried Friendship | 87.00% | ~22,635 |
+| Look At Him Go | 79.00% | ~20,553 |
+| On Rails Experience | 57.00% | ~14,830 |
+| A Daring Devil | 53.00% | ~13,789 |
+| It Took Two | 44.00% | ~11,447 |
+| Break the Bank | 43.00% | ~11,187 |
+| Bug Sized Relaxation | 22.00% | ~5,724 |
+| Plastic Prison Breakers | 17.00% | ~4,423 |
+| Terror Of The Seven Seas | 16.00% | ~4,163 |
+| Realize Your Art | 12.00% | ~3,122 |
+| Force Triangulated | 12.00% | ~3,122 |
+| Meditation Maestro | 12.00% | ~3,122 |
+| Lost And Found | 11.00% | ~2,862 |
+| Something Fishy | 11.00% | ~2,862 |
+| Platforming Prodigy | 9.00% | ~2,342 |
 | Snackosaurus | 8.00% | ~2,081 |
 | Mood Swing | 7.00% | ~1,821 |
-| Minigame Megalomania | 4.00% | ~1,040 |
-| Faraway Frequencies | 4.00% | ~1,040 |
+| Minigame Megalomania | 4.00% | ~1,041 |
+| Faraway Frequencies | 4.00% | ~1,041 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,012 (Ranked 129)  
+Progressed: 26,017 (Ranked 129)  
 Completed: 111 (0.43%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,4 +106,4 @@ Completed: 111 (0.43%) (Ranked 219)
 | 2023-12-02 | 25,594 | 110 |
 | 2023-12-03 | 25,857 | 111 |
 | 2023-12-04 | 25,998 | 111 |
-| 2023-12-05 | 26,012 | 111 |
+| 2023-12-05 | 26,017 | 111 |

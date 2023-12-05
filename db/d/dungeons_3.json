@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 181,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -3355,9 +3355,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 42355,
+  "EOS_Progressed": 42356,
   "EOS_Completed": 344,
-  "EOS_NewPlayers": 924,
+  "EOS_NewPlayers": 921,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -28790,6 +28790,11 @@
       "Time": "2023-12-05T06:07:39.1069137+00:00",
       "NumProgressed": 42355,
       "NumCompleted": 344
+    },
+    {
+      "Time": "2023-12-05T07:07:44.2896151+00:00",
+      "NumProgressed": 42356,
+      "NumCompleted": 344
     }
   ],
   "TotalAchievements": 60,
@@ -28801,7 +28806,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 24989
+      "UsersEstimate": 24990
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -28961,7 +28966,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 15671
+      "UsersEstimate": 15672
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -29009,7 +29014,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 18636
+      "UsersEstimate": 18637
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -29073,7 +29078,7 @@
       "Name": "Chorus of damnation",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 8047
+      "UsersEstimate": 8048
     },
     {
       "ID": "ACH_D3_Campaign_Infested_Completed",
@@ -29081,7 +29086,7 @@
       "Name": "Destroy the thing",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 11012
+      "UsersEstimate": 11013
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -29113,7 +29118,7 @@
       "Name": "Flat as a pancake",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 7200
+      "UsersEstimate": 7201
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_2",
@@ -29129,7 +29134,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 11859
+      "UsersEstimate": 11860
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -29185,7 +29190,7 @@
       "Name": "Death and destruction!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 19483
+      "UsersEstimate": 19484
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -29193,7 +29198,7 @@
       "Name": "Shadow hunter",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 12706
+      "UsersEstimate": 12707
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -29201,7 +29206,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 29648
+      "UsersEstimate": 29649
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -29233,7 +29238,7 @@
       "Name": "We don\u2019t have time!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 8047
+      "UsersEstimate": 8048
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_2",
@@ -29249,7 +29254,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 12706
+      "UsersEstimate": 12707
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -29257,7 +29262,7 @@
       "Name": "Lifeguard",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 7200
+      "UsersEstimate": 7201
     },
     {
       "ID": "ACH_D3_Campaign_Water_2",
@@ -29273,22 +29278,22 @@
       "Name": "Tide Master",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 11012
+      "UsersEstimate": 11013
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 42355,
+      "Progressed": 42356,
       "Completed": 344
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-12-03T15:57:46.6134137+00:00",
-  "LastChanged_Achievements": "2023-12-05T06:07:39.1069131+00:00",
+  "LastChanged_Achievements": "2023-12-05T07:07:44.2896148+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:06.4559533+00:00",
-  "LastUpdate_Ratings": "2023-12-05T05:59:05.4703019+00:00",
-  "LastUpdate_Achievements": "2023-12-05T06:07:39.1070876+00:00"
+  "LastUpdate_Ratings": "2023-12-05T06:59:10.8183578+00:00",
+  "LastUpdate_Achievements": "2023-12-05T07:07:44.2897687+00:00"
 }

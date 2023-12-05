@@ -15,7 +15,7 @@
 | Sign of weakness | 38.00% | ~40 |
 | Finished it | 30.00% | ~31 |
 | Face your fears | 27.00% | ~28 |
-| Whispers long forgotten | 15.00% | ~16 |
+| Whispers long forgotten | 16.00% | ~17 |
 | Playtime | 13.00% | ~14 |
 | The tragedy unfolds | 13.00% | ~14 |
 | Tough conversation | 13.00% | ~14 |
@@ -38,12 +38,12 @@
 | Instinct of self-preservation | 4.00% | ~4 |
 | Something to think about | 3.00% | ~3 |
 | I remember It Like Was Yesterday | 3.00% | ~3 |
+| It was worth a try | 3.00% | ~3 |
 | Immortalized in my heart | 3.00% | ~3 |
 | Se7en Seas | 3.00% | ~3 |
 | A Mosaic of Misery | 3.00% | ~3 |
 | The Big Picture | 2.00% | ~2 |
 | Dark correspondence | 2.00% | ~2 |
-| It was worth a try | 2.00% | ~2 |
 | Full Scoop | 2.00% | ~2 |
 | In One Take | 1.00% | ~1 |
 | Preferred Parent | 1.00% | ~1 |
