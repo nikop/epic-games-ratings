@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 24.06% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 24.05% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -118,9 +118,9 @@
 | 116 | [FORECLOSED](games/f/foreclosed.md) | 2.73% |
 | 117 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.62% |
 | 118 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 2.56% |
-| 119 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.51% |
-| 120 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.50% |
-| 120 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 119 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.50% |
+| 119 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.50% |
+| 119 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 122 | [Lamentum](games/l/lamentum.md) | 2.42% |
 | 123 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.40% |
 | 124 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.38% |
@@ -139,9 +139,9 @@
 | 137 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.76% |
 | 138 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.75% |
 | 139 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.63% |
-| 140 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 1.59% |
-| 141 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
-| 142 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.56% |
+| 140 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
+| 141 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 1.56% |
+| 141 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.56% |
 | 143 | [Five Dates](games/f/five_dates.md) | 1.55% |
 | 144 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.53% |
 | 145 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.47% |
@@ -213,7 +213,7 @@
 | 210 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.49% |
 | 212 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.48% |
 | 213 | [Eternights](games/e/eternights.md) | 0.47% |
-| 213 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.47% |
+| 214 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.46% |
 | 215 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
 | 215 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.45% |
 | 217 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.44% |
