@@ -18,13 +18,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | A Lady's Blood in the Snow | 0.60% | ~4,307 |
 | Lady Wing Chun | 0.60% | ~4,307 |
 | Kill Nil | 0.60% | ~4,307 |
+| Stuntmaster | 0.60% | ~4,307 |
 | Street Fighting | 0.60% | ~4,307 |
 | Qi Gong: Essence | 0.60% | ~4,307 |
 | Path of the Prospect | 0.60% | ~4,307 |
 | Rumble in the Hangar | 0.60% | ~4,307 |
 | Fight the way you practice | 0.60% | ~163 |
 | Furious Fists | 0.50% | ~3,589 |
-| Stuntmaster | 0.50% | ~3,589 |
 | Old Child | 0.50% | ~3,589 |
 | Take damage to save time | 0.50% | ~3,589 |
 | Martial Hub | 0.50% | ~136 |

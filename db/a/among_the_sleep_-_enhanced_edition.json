@@ -488,9 +488,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 94640,
+  "EOS_Progressed": 94643,
   "EOS_Completed": 430,
-  "EOS_NewPlayers": 703,
+  "EOS_NewPlayers": 705,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -25898,6 +25898,11 @@
       "Time": "2023-12-05T05:08:54.9265702+00:00",
       "NumProgressed": 94640,
       "NumCompleted": 430
+    },
+    {
+      "Time": "2023-12-05T06:09:10.8350142+00:00",
+      "NumProgressed": 94643,
+      "NumCompleted": 430
     }
   ],
   "TotalAchievements": 10,
@@ -25933,7 +25938,7 @@
       "Name": "Forest Drawings",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "Drawings04",
@@ -25973,7 +25978,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 33124
+      "UsersEstimate": 33125
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -25981,22 +25986,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 10410
+      "UsersEstimate": 10411
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 94640,
+      "Progressed": 94643,
       "Completed": 430
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-10-29T15:00:28.7354435+00:00",
-  "LastChanged_Achievements": "2023-12-05T05:08:54.9265695+00:00",
+  "LastChanged_Achievements": "2023-12-05T06:09:10.8350139+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:15.1014443+00:00",
-  "LastUpdate_Ratings": "2023-12-05T05:03:03.7184699+00:00",
-  "LastUpdate_Achievements": "2023-12-05T05:08:54.9267186+00:00"
+  "LastUpdate_Ratings": "2023-12-05T06:03:12.383787+00:00",
+  "LastUpdate_Achievements": "2023-12-05T06:09:10.8351475+00:00"
 }

@@ -20,6 +20,7 @@ Rating: 4.51 (Ranked 572)
 | Vaporous Expansion | 4.00% | ~1,277 |
 | Whoopsie | 4.00% | ~1,277 |
 | Animated | 3.00% | ~958 |
+| We have the best insurance | 3.00% | ~958 |
 | Daily Dose | 3.00% | ~958 |
 | Ectoplasmic Entity | 3.00% | ~958 |
 | Ghostbuster In Training | 3.00% | ~958 |
@@ -29,7 +30,6 @@ Rating: 4.51 (Ranked 572)
 | Side Hustle | 3.00% | ~958 |
 | Summoner | 3.00% | ~958 |
 | Back Off | 2.00% | ~639 |
-| We have the best insurance | 2.00% | ~639 |
 | Collector | 2.00% | ~639 |
 | Escape Artist | 2.00% | ~639 |
 | Legions | 2.00% | ~639 |
@@ -57,7 +57,7 @@ Rating: 4.51 (Ranked 572)
 | Ultimate Defense | 0.20% | ~64 |
 | Line em' up | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,933 (Ranked 124)  
+Progressed: 31,934 (Ranked 124)  
 Completed: 69 (0.22%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 69 (0.22%) (Ranked 255)
 | 2023-12-02 | 31,846 | 69 |
 | 2023-12-03 | 31,893 | 69 |
 | 2023-12-04 | 31,923 | 69 |
-| 2023-12-05 | 31,933 | 69 |
+| 2023-12-05 | 31,934 | 69 |
 ## Awards
 Max (Great for Beginners): 320  (Ranked 251)  
 Sum: 2,880 (Ranked 179)  

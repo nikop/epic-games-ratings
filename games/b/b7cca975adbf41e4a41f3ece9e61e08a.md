@@ -28,9 +28,9 @@ Rating: 4.74 (Ranked 157)
 | David | 29.00% | ~3,100 |
 | All I Have Is Money | 25.00% | ~2,672 |
 | A Slap In The Face! | 25.00% | ~2,672 |
+| That's So You | 25.00% | ~2,672 |
 | Lover In Dark Alley | 24.00% | ~2,565 |
 | Let Me Be Your Toy Boy | 24.00% | ~2,565 |
-| That's So You | 24.00% | ~2,565 |
 | SALUTE | 24.00% | ~2,565 |
 | Off We Sail Tonight | 19.00% | ~2,031 |
 | Love You Three Thousand | 16.00% | ~1,710 |

@@ -14,10 +14,10 @@ Number of Ratings: 45  (23.09.2022)
 | How Romantic! | 3.00% | ~45 |
 | Cutthroat Competitors | 3.00% | ~45 |
 | Daybreak | 3.00% | ~45 |
+| A Mythic Menagerie | 2.00% | ~30 |
 | Completing the Look | 2.00% | ~30 |
 | War Endured | 2.00% | ~30 |
 | Core Failure | 2.00% | ~30 |
-| A Mythic Menagerie | 1.00% | ~15 |
 | Let Me Get My Chisel | 1.00% | ~15 |
 | Who's Counting? | 1.00% | ~15 |
 | Echoes Die | 1.00% | ~15 |

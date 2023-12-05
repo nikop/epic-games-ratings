@@ -978,9 +978,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 228664,
+  "EOS_Progressed": 228666,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 489,
+  "EOS_NewPlayers": 490,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25968,6 +25968,11 @@
       "Time": "2023-12-05T05:09:52.6014871+00:00",
       "NumProgressed": 228664,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-05T06:10:23.8617626+00:00",
+      "NumProgressed": 228666,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -26027,7 +26032,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22866
+      "UsersEstimate": 22867
     },
     {
       "ID": "ACH_BASE_17",
@@ -26250,7 +26255,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 228664,
+      "Progressed": 228666,
       "Completed": 5
     }
   ],
@@ -26258,8 +26263,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-03T11:00:01.7209861+00:00",
-  "LastChanged_Achievements": "2023-12-05T05:09:52.6014868+00:00",
+  "LastChanged_Achievements": "2023-12-05T06:10:23.8617623+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:22.7221977+00:00",
-  "LastUpdate_Ratings": "2023-12-05T05:00:40.2373987+00:00",
-  "LastUpdate_Achievements": "2023-12-05T05:09:52.6016433+00:00"
+  "LastUpdate_Ratings": "2023-12-05T06:02:41.9957044+00:00",
+  "LastUpdate_Achievements": "2023-12-05T06:10:23.861914+00:00"
 }

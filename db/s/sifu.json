@@ -8051,7 +8051,7 @@
   ],
   "EOS_Progressed": 717806,
   "EOS_Completed": 12943,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -28535,9 +28535,9 @@
       "ID": "20_Traversal_Trophy",
       "SetID": "adcm20g",
       "Name": "Stuntmaster",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 3589
+      "UsersEstimate": 4307
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -28877,8 +28877,8 @@
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-04T17:03:08.231665+00:00",
-  "LastChanged_Achievements": "2023-12-05T05:03:56.544688+00:00",
+  "LastChanged_Achievements": "2023-12-05T06:04:24.1147837+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:06.4352314+00:00",
-  "LastUpdate_Ratings": "2023-12-05T05:02:51.2240177+00:00",
-  "LastUpdate_Achievements": "2023-12-05T05:03:56.5448111+00:00"
+  "LastUpdate_Ratings": "2023-12-05T06:02:55.2425366+00:00",
+  "LastUpdate_Achievements": "2023-12-05T06:04:24.1149029+00:00"
 }

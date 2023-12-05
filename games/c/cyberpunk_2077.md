@@ -1,20 +1,20 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.65 (Ranked 316)  
+Rating: 4.66 (Ranked 295)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,416 |
-| Gun Fu | 7.00% | ~67,909 |
-| The Fool | 6.00% | ~58,208 |
-| Right Back At Ya | 5.00% | ~48,507 |
-| The Lovers | 4.00% | ~38,805 |
-| Full Body Conversion | 3.00% | ~29,104 |
-| Stanislavski's Method | 3.00% | ~29,104 |
-| The Wheel of Fortune | 3.00% | ~29,104 |
-| True Soldier | 3.00% | ~29,104 |
+| V for Vendetta | 12.00% | ~116,419 |
+| Gun Fu | 7.00% | ~67,911 |
+| The Fool | 6.00% | ~58,210 |
+| Right Back At Ya | 5.00% | ~48,508 |
+| The Lovers | 4.00% | ~38,806 |
+| Full Body Conversion | 3.00% | ~29,105 |
+| Stanislavski's Method | 3.00% | ~29,105 |
+| The Wheel of Fortune | 3.00% | ~29,105 |
+| True Soldier | 3.00% | ~29,105 |
 | Christmas Tree Attack | 2.00% | ~19,403 |
 | The Quick and the Dead | 2.00% | ~19,403 |
 | Life of the Road | 2.00% | ~19,403 |
@@ -22,16 +22,16 @@ Number of Ratings: 32,700  (23.09.2022)
 | The High Priestess | 2.00% | ~19,403 |
 | True Warrior | 2.00% | ~19,403 |
 | Legend of The Afterlife | 2.00% | ~19,403 |
-| Relic Ruler | 2.00% | ~1,975 |
-| All the President's Men | 2.00% | ~1,975 |
-| Arachnophobia | 2.00% | ~1,975 |
-| Bushido and Chill | 1.00% | ~9,701 |
-| To Protect and Serve | 1.00% | ~9,701 |
-| Master Crafter | 1.00% | ~9,701 |
-| I Am The Law | 1.00% | ~9,701 |
-| The World | 1.00% | ~9,701 |
-| Two Heads, One Bullet | 1.00% | ~9,701 |
-| Judy vs Night City | 1.00% | ~9,701 |
+| Relic Ruler | 2.00% | ~1,976 |
+| All the President's Men | 2.00% | ~1,976 |
+| Arachnophobia | 2.00% | ~1,976 |
+| Bushido and Chill | 1.00% | ~9,702 |
+| To Protect and Serve | 1.00% | ~9,702 |
+| Master Crafter | 1.00% | ~9,702 |
+| I Am The Law | 1.00% | ~9,702 |
+| The World | 1.00% | ~9,702 |
+| Two Heads, One Bullet | 1.00% | ~9,702 |
+| Judy vs Night City | 1.00% | ~9,702 |
 | Spin Doctor | 0.90% | ~889 |
 | The Wandering Fool | 0.70% | ~6,791 |
 | King of Wands | 0.70% | ~691 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 970,135 (Ranked 15)  
-Completed: 2,843 (0.29%) (Ranked 240)  
+Progressed: 970,159 (Ranked 15)  
+Completed: 2,844 (0.29%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -303,7 +303,7 @@ Completed: 2,843 (0.29%) (Ranked 240)
 | 2023-12-02 | 967,833 | 2,836 |
 | 2023-12-03 | 969,229 | 2,839 |
 | 2023-12-04 | 970,004 | 2,843 |
-| 2023-12-05 | 970,135 | 2,843 |
+| 2023-12-05 | 970,159 | 2,844 |
 ## Awards
 Max (Character Customization): 116,208  (Ranked 9)  
 Sum: 387,763 (Ranked 9)  
@@ -644,4 +644,4 @@ Diff (max vs sum): 0
 | 2023-12-02 | 4.65 | - | 114,587 | 382,001 |
 | 2023-12-03 | 4.65 | - | 115,469 | 385,067 |
 | 2023-12-04 | 4.66 | - | 116,208 | 387,763 |
-| 2023-12-05 | 4.65 | - | 116,208 | 387,763 |
+| 2023-12-05 | 4.66 | - | 116,208 | 387,763 |

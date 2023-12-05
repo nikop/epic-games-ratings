@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -411,9 +411,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 3739,
+  "EOS_Progressed": 3740,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -6216,6 +6216,11 @@
       "Time": "2023-12-05T05:05:43.1224139+00:00",
       "NumProgressed": 3739,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-05T06:06:41.5885919+00:00",
+      "NumProgressed": 3740,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -6235,7 +6240,7 @@
       "Name": "Flawless Victory",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "ACH_ALL_WEAPONS",
@@ -6275,7 +6280,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -6323,7 +6328,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2729
+      "UsersEstimate": 2730
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -6347,7 +6352,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2506
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -6435,7 +6440,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "ACH_MISSION_04",
@@ -6483,7 +6488,7 @@
       "Name": "The Passenger",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "ACH_MISSION_10",
@@ -6523,7 +6528,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2767
+      "UsersEstimate": 2768
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -6539,7 +6544,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 2206
+      "UsersEstimate": 2207
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -6547,7 +6552,7 @@
       "Name": "People Person",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 2131
+      "UsersEstimate": 2132
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -6555,7 +6560,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1570
+      "UsersEstimate": 1571
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -6563,7 +6568,7 @@
       "Name": "Recouped Investment",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -6579,14 +6584,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 2131
+      "UsersEstimate": 2132
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3739,
+      "Progressed": 3740,
       "Completed": 3
     }
   ],
@@ -6594,8 +6599,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-27T19:00:30.5070176+00:00",
-  "LastChanged_Achievements": "2023-12-05T05:05:43.1224136+00:00",
+  "LastChanged_Achievements": "2023-12-05T06:06:41.5885916+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:59.8207235+00:00",
-  "LastUpdate_Ratings": "2023-12-05T05:00:11.0675685+00:00",
-  "LastUpdate_Achievements": "2023-12-05T05:05:43.1224949+00:00"
+  "LastUpdate_Ratings": "2023-12-05T06:01:21.9794586+00:00",
+  "LastUpdate_Achievements": "2023-12-05T06:06:41.5886403+00:00"
 }

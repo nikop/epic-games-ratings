@@ -205,9 +205,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8286,
+  "EOS_Progressed": 8287,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8040,6 +8040,11 @@
       "Time": "2023-12-04T21:10:26.4932641+00:00",
       "NumProgressed": 8286,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-05T06:10:26.4582054+00:00",
+      "NumProgressed": 8287,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -8052,7 +8057,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5966
+      "UsersEstimate": 5967
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -8060,7 +8065,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5800
+      "UsersEstimate": 5801
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -8076,7 +8081,7 @@
       "Name": "Open the Gate!",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2817
+      "UsersEstimate": 2818
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -8084,7 +8089,7 @@
       "Name": "Clear the Air",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 1574
+      "UsersEstimate": 1575
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -8156,7 +8161,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 4060
+      "UsersEstimate": 4061
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -8204,7 +8209,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 5054
+      "UsersEstimate": 5055
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -8228,7 +8233,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3894
+      "UsersEstimate": 3895
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -8331,22 +8336,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8286,
+      "Progressed": 8287,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 903,
-      "Completed": 903
+      "Progressed": 904,
+      "Completed": 904
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-04T18:02:55.9509642+00:00",
-  "LastChanged_Achievements": "2023-12-05T05:09:54.8909471+00:00",
+  "LastChanged_Achievements": "2023-12-05T06:10:26.4582051+00:00",
   "LastUpdate_AppInfo": "2023-12-01T09:57:19.7790129+00:00",
-  "LastUpdate_Ratings": "2023-12-05T05:03:06.5341103+00:00",
-  "LastUpdate_Achievements": "2023-12-05T05:09:54.8909924+00:00"
+  "LastUpdate_Ratings": "2023-12-05T06:03:15.8803067+00:00",
+  "LastUpdate_Achievements": "2023-12-05T06:10:26.458259+00:00"
 }

@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16852,
+  "EOS_Progressed": 16853,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -15468,6 +15468,11 @@
       "Time": "2023-12-04T23:08:17.7339826+00:00",
       "NumProgressed": 16852,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-12-05T06:08:30.143142+00:00",
+      "NumProgressed": 16853,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -15559,7 +15564,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3033
+      "UsersEstimate": 3034
     },
     {
       "ID": "tpote_achievement_2",
@@ -15591,7 +15596,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3370
+      "UsersEstimate": 3371
     },
     {
       "ID": "tpote_achievement_23",
@@ -15631,7 +15636,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3033
+      "UsersEstimate": 3034
     },
     {
       "ID": "tpote_achievement_28",
@@ -15671,7 +15676,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 3033
+      "UsersEstimate": 3034
     },
     {
       "ID": "tpote_achievement_32",
@@ -15767,7 +15772,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4044
+      "UsersEstimate": 4045
     },
     {
       "ID": "tpote_achievement_6",
@@ -15806,15 +15811,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16852,
+      "Progressed": 16853,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-12-05T05:06:51.9300737+00:00",
+  "LastChanged_Achievements": "2023-12-05T06:08:30.1431415+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:14.9686486+00:00",
-  "LastUpdate_Ratings": "2023-12-05T04:58:40.8342942+00:00",
-  "LastUpdate_Achievements": "2023-12-05T05:06:51.9301651+00:00"
+  "LastUpdate_Ratings": "2023-12-05T05:59:19.9621927+00:00",
+  "LastUpdate_Achievements": "2023-12-05T06:08:30.1432674+00:00"
 }

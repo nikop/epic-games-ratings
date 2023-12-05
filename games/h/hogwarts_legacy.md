@@ -41,11 +41,11 @@ Rating: 4.76 (Ranked 129)
 | The Auror's Apprentice | 3.00% | ~9,119 |
 | Floo Around the World | 3.00% | ~9,119 |
 | The Good Samaritan | 2.00% | ~6,079 |
+| Savvy Spender | 2.00% | ~6,079 |
 | Rise to the Challenges | 2.00% | ~6,079 |
 | Demiguise Dread | 2.00% | ~6,079 |
 | Finishing Touches | 2.00% | ~6,079 |
 | A Forte for Achievement | 2.00% | ~6,079 |
-| Savvy Spender | 1.00% | ~3,040 |
 | Merlin's Beard! | 1.00% | ~3,040 |
 | Spilled Milk | 0.90% | ~2,736 |
 | The Nature of the Beast | 0.70% | ~2,128 |

@@ -19,6 +19,7 @@
 | Iron Fist | 8.00% | ~1 |
 | The Exterminator | 8.00% | ~1 |
 | The Space Hydra | 8.00% | ~1 |
+| The Ultimate Attack | 8.00% | ~1 |
 | Gold Seeker | 0.00% | ~0 |
 | A Land of Peace | 0.00% | ~0 |
 | Earth's Savior | 0.00% | ~0 |
@@ -32,7 +33,6 @@
 | The Flying Octopus | 0.00% | ~0 |
 | The Interstellar Fighter | 0.00% | ~0 |
 | The Royal Guard | 0.00% | ~0 |
-| The Ultimate Attack | 0.00% | ~0 |
 | Vengeance of the Wolf | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12 (Ranked 605)  

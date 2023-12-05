@@ -4,7 +4,7 @@
   "ProductSlug": "out-of-bounds-ade206",
   "Ranking_EOS_Progress": 532,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 483,
+  "Ranking_EOS_NewPlayers": 482,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-04-13T17:00:00+00:00",
@@ -358,8 +358,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:52:55.9543084+00:00",
-  "LastChanged_Achievements": "2023-12-05T05:09:35.8440924+00:00",
+  "LastChanged_Achievements": "2023-12-05T06:10:02.4404412+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:04.4296272+00:00",
-  "LastUpdate_Ratings": "2023-12-05T04:57:39.0775716+00:00",
-  "LastUpdate_Achievements": "2023-12-05T05:09:35.8441127+00:00"
+  "LastUpdate_Ratings": "2023-12-05T05:57:56.4795615+00:00",
+  "LastUpdate_Achievements": "2023-12-05T06:10:02.4404576+00:00"
 }

@@ -3639,9 +3639,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31933,
+  "EOS_Progressed": 31934,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 251,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -21389,6 +21389,11 @@
       "Time": "2023-12-05T05:06:45.0629948+00:00",
       "NumProgressed": 31933,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-05T06:08:01.4481874+00:00",
+      "NumProgressed": 31934,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -21422,9 +21427,9 @@
       "ID": "Best_Insurance",
       "SetID": "819popo",
       "Name": "We have the best insurance",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 639
+      "UsersEstimate": 958
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -21807,7 +21812,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31933,
+      "Progressed": 31934,
       "Completed": 69
     }
   ],
@@ -21815,8 +21820,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-05T01:46:29.1659565+00:00",
-  "LastChanged_Achievements": "2023-12-05T05:06:45.0629945+00:00",
+  "LastChanged_Achievements": "2023-12-05T06:08:01.4481871+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:17.1930733+00:00",
-  "LastUpdate_Ratings": "2023-12-05T04:58:07.9936338+00:00",
-  "LastUpdate_Achievements": "2023-12-05T05:06:45.0630941+00:00"
+  "LastUpdate_Ratings": "2023-12-05T05:58:35.309214+00:00",
+  "LastUpdate_Achievements": "2023-12-05T06:08:01.448294+00:00"
 }
