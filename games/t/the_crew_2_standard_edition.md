@@ -1,16 +1,16 @@
 # The Crew 2 Standard Edition
 [Store](https://store.epicgames.com/en-US/p/the-crew-2)  
 [View Rawdata](../../db/t/the_crew_2_standard_edition.json)  
-Rating: 4.67 (Ranked 278)  
+Rating: 4.67 (Ranked 277)  
 Number of Ratings: 2,083  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 736  (Ranked 183)  
-Sum: 5,033 (Ranked 142)  
+Sum: 5,035 (Ranked 142)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 736 |
-| This game is Relaxing | 655 |
+| This game is Relaxing | 657 |
 | This game has Competitive Players | 644 |
 | This game has Quickly Understood Controls | 628 |
 | This game has Amazing Storytelling | 607 |
@@ -354,3 +354,4 @@ Diff (max vs sum): 41
 | 2023-12-02 | 4.67 | - | 735 | 5,016 |
 | 2023-12-03 | 4.67 | - | 736 | 5,028 |
 | 2023-12-04 | 4.67 | - | 736 | 5,033 |
+| 2023-12-05 | 4.67 | - | 736 | 5,035 |

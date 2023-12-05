@@ -3501,10 +3501,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 1905,
       "NumberOfAwardsMax": 945
+    },
+    {
+      "Time": "2023-12-05T04:59:17.5704916+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 1906,
+      "NumberOfAwardsMax": 945
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1905,
+  "NumberOfAwards": 1906,
   "NumberOfAwardsMax": 945,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -3554,7 +3560,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 68
+      "Count": 69
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3575,9 +3581,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 421364,
+  "EOS_Progressed": 421367,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 1745,
+  "EOS_NewPlayers": 1738,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -21035,6 +21041,11 @@
       "Time": "2023-12-05T04:03:37.8190978+00:00",
       "NumProgressed": 421364,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-12-05T05:03:20.4351274+00:00",
+      "NumProgressed": 421367,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 89,
@@ -21150,7 +21161,7 @@
       "Name": "Close call!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 126409
+      "UsersEstimate": 126410
     },
     {
       "ID": "AchievementCommonCause",
@@ -21174,7 +21185,7 @@
       "Name": "Dealmaker",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 307596
+      "UsersEstimate": 307598
     },
     {
       "ID": "AchievementDigitalAge_NAME",
@@ -21214,7 +21225,7 @@
       "Name": "Forgot something",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 147477
+      "UsersEstimate": 147478
     },
     {
       "ID": "AchievementForgotten",
@@ -21230,7 +21241,7 @@
       "Name": "Full garage",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 257032
+      "UsersEstimate": 257034
     },
     {
       "ID": "AchievementGemologist_NAME",
@@ -21246,7 +21257,7 @@
       "Name": "Get out my way",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 117982
+      "UsersEstimate": 117983
     },
     {
       "ID": "AchievementGlobalisationAge",
@@ -21270,7 +21281,7 @@
       "Name": "Individual delivery",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 198041
+      "UsersEstimate": 198042
     },
     {
       "ID": "AchievementIndustrialAge",
@@ -21326,7 +21337,7 @@
       "Name": "Juggler",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 151691
+      "UsersEstimate": 151692
     },
     {
       "ID": "AchievementJustInTime",
@@ -21398,7 +21409,7 @@
       "Name": "Missed it!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 29495
+      "UsersEstimate": 29496
     },
     {
       "ID": "AchievementMultilevelRoad",
@@ -21422,7 +21433,7 @@
       "Name": "Non-Stop",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 189614
+      "UsersEstimate": 189615
     },
     {
       "ID": "AchievementOneWay",
@@ -21430,7 +21441,7 @@
       "Name": "One way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 42136
+      "UsersEstimate": 42137
     },
     {
       "ID": "AchievementOuroboros",
@@ -21478,7 +21489,7 @@
       "Name": "Relocation",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 42136
+      "UsersEstimate": 42137
     },
     {
       "ID": "AchievementSabotage",
@@ -21526,7 +21537,7 @@
       "Name": "Steam Age",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 67418
+      "UsersEstimate": 67419
     },
     {
       "ID": "AchievementTheHare",
@@ -21558,7 +21569,7 @@
       "Name": "To the eyeballs!",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 214896
+      "UsersEstimate": 214897
     },
     {
       "ID": "AchievementTourismAge",
@@ -21654,7 +21665,7 @@
       "Name": "Just One More Valley",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 37863
+      "UsersEstimate": 37864
     },
     {
       "ID": "AchievementKnowingtheropes",
@@ -21757,21 +21768,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 420705,
+      "Progressed": 420708,
       "Completed": 10
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 421364,
+      "Progressed": 421367,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
-  "LastChanged": "2023-12-04T14:59:12.8841428+00:00",
-  "LastChanged_Achievements": "2023-12-05T04:03:37.8190973+00:00",
+  "LastChanged": "2023-12-05T04:59:17.5704914+00:00",
+  "LastChanged_Achievements": "2023-12-05T05:03:20.4351269+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:17.2296428+00:00",
-  "LastUpdate_Ratings": "2023-12-05T03:59:56.8904871+00:00",
-  "LastUpdate_Achievements": "2023-12-05T04:03:37.8192813+00:00"
+  "LastUpdate_Ratings": "2023-12-05T04:59:17.5704918+00:00",
+  "LastUpdate_Achievements": "2023-12-05T05:03:20.4353104+00:00"
 }

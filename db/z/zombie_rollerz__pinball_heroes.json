@@ -990,9 +990,9 @@
       "ID": "PRG_BOSS_FLOWER",
       "SetID": "89cjc9l",
       "Name": "The Flower",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "PRG_BOSS_GIANT",
@@ -1014,17 +1014,17 @@
       "ID": "PRG_BOSS_MAGICIAN",
       "SetID": "89cjc9l",
       "Name": "The Magician",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "PRG_BOSS_NINJA",
       "SetID": "89cjc9l",
       "Name": "The Ninja",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "PRG_BOSS_OOZE",
@@ -1038,9 +1038,9 @@
       "ID": "PRG_BOSS_SHIELD",
       "SetID": "89cjc9l",
       "Name": "The Shield",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "PRG_BOSS_SLIME",
@@ -1294,17 +1294,17 @@
       "ID": "PRG_NORMAL_10002",
       "SetID": "89cjc9l",
       "Name": "Turquoise",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "PRG_NORMAL_10003",
       "SetID": "89cjc9l",
       "Name": "Verse",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "PRG_NORMAL_10004",
@@ -1391,8 +1391,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-08-23T10:59:34.2635846+00:00",
-  "LastChanged_Achievements": "2023-12-05T04:05:08.976069+00:00",
+  "LastChanged_Achievements": "2023-12-05T05:04:31.60678+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:18.2054866+00:00",
-  "LastUpdate_Ratings": "2023-12-05T03:58:57.187769+00:00",
-  "LastUpdate_Achievements": "2023-12-05T04:05:08.9761236+00:00"
+  "LastUpdate_Ratings": "2023-12-05T04:58:31.3553728+00:00",
+  "LastUpdate_Achievements": "2023-12-05T05:04:31.6068757+00:00"
 }

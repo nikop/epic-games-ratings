@@ -13,6 +13,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 5.00% | ~782 |
 | Architect | 5.00% | ~782 |
 | Intrepid | 5.00% | ~782 |
+| Hanging Gardens | 5.00% | ~782 |
 | Enlightened | 4.00% | ~626 |
 | Glorious | 4.00% | ~626 |
 | Good | 4.00% | ~626 |
@@ -24,7 +25,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pioneer | 4.00% | ~626 |
 | Strong | 4.00% | ~626 |
 | Warrior | 4.00% | ~626 |
-| Hanging Gardens | 4.00% | ~626 |
 | Oracle | 4.00% | ~626 |
 | Judaism | 4.00% | ~626 |
 | Greek Paganism | 4.00% | ~626 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,639 (Ranked 152)  
+Progressed: 15,641 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -578,7 +578,7 @@ Completed: 5 (0.03%) (Ranked 330)
 | 2023-12-02 | 15,604 | 5 |
 | 2023-12-03 | 15,619 | 5 |
 | 2023-12-04 | 15,638 | 5 |
-| 2023-12-05 | 15,639 | 5 |
+| 2023-12-05 | 15,641 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,889 (Ranked 220)  

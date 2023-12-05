@@ -2,7 +2,7 @@
   "ID": "f9af68c0b03e425999c18381eb45e5fb",
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
-  "Ranking_EOS_Progress": 308,
+  "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 126,
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 549,
+  "EOS_Progressed": 550,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1732,6 +1732,11 @@
       "Time": "2023-12-05T03:08:27.7202728+00:00",
       "NumProgressed": 549,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-05T05:08:37.0432721+00:00",
+      "NumProgressed": 550,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1741,9 +1746,9 @@
       "ID": "ACHIEVEMENT_1",
       "SetID": "7pimpda",
       "Name": "Travel Streamer",
-      "Percentage": 93,
+      "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 506
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1759,7 +1764,7 @@
       "Name": "Guardian",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -1767,7 +1772,7 @@
       "Name": "Nosebleeder",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -1775,7 +1780,7 @@
       "Name": "Flying Kobold Killer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -1783,7 +1788,7 @@
       "Name": "Youth Magnet",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -1815,7 +1820,7 @@
       "Name": "Kind Adventurer",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -1823,7 +1828,7 @@
       "Name": "Mermaid Killer",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -1831,7 +1836,7 @@
       "Name": "Training Simulation",
       "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1863,7 +1868,7 @@
       "Name": "Master Cook",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -1893,9 +1898,9 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "7pimpda",
       "Name": "Fashion Connoisseur",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 274
+      "UsersEstimate": 280
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -1903,7 +1908,7 @@
       "Name": "Trader",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -1967,7 +1972,7 @@
       "Name": "Giant Claw Spider Challenge",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -1999,7 +2004,7 @@
       "Name": "Storm Traveller",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -2007,7 +2012,7 @@
       "Name": "Mermaid Challenge",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -2023,7 +2028,7 @@
       "Name": "Giantess Slayer",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -2039,7 +2044,7 @@
       "Name": "Berserker Challenge",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_45",
@@ -2047,7 +2052,7 @@
       "Name": "Giantess Challenge",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_46",
@@ -2055,7 +2060,7 @@
       "Name": "Warden Challenge",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -2063,7 +2068,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2077,9 +2082,9 @@
       "ID": "ACHIEVEMENT_7",
       "SetID": "7pimpda",
       "Name": "Apostle of Flame",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 204
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -2102,7 +2107,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 549,
+      "Progressed": 550,
       "Completed": 1
     }
   ],
@@ -2110,8 +2115,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-05T04:08:45.4063236+00:00",
+  "LastChanged_Achievements": "2023-12-05T05:08:37.0432718+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.7212859+00:00",
-  "LastUpdate_Ratings": "2023-12-05T04:02:58.2202204+00:00",
-  "LastUpdate_Achievements": "2023-12-05T04:08:45.4063694+00:00"
+  "LastUpdate_Ratings": "2023-12-05T05:02:49.8215231+00:00",
+  "LastUpdate_Achievements": "2023-12-05T05:08:37.043306+00:00"
 }

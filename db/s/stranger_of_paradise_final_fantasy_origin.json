@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 233,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-03-18T04:00:00+00:00",
@@ -10465,9 +10465,9 @@
       "ID": "017_TROPHY_CLEAR_CHAOS_DIFFICULTY",
       "SetID": "4ajkb4b",
       "Name": "Origin of True Chaos",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 16020
+      "UsersEstimate": 16821
     },
     {
       "ID": "018_TROPHY_CLEAR_LEVEL200_ON_CHAOS",
@@ -10705,8 +10705,8 @@
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2023-12-03T14:57:44.1467972+00:00",
-  "LastChanged_Achievements": "2023-12-05T04:08:19.9294984+00:00",
+  "LastChanged_Achievements": "2023-12-05T05:06:47.1382795+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:14.8259189+00:00",
-  "LastUpdate_Ratings": "2023-12-05T03:59:11.2963215+00:00",
-  "LastUpdate_Achievements": "2023-12-05T04:08:19.9295604+00:00"
+  "LastUpdate_Ratings": "2023-12-05T04:58:42.3299893+00:00",
+  "LastUpdate_Achievements": "2023-12-05T05:06:47.1383341+00:00"
 }

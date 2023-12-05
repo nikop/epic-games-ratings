@@ -10,8 +10,8 @@ Rating: 4.50 (Ranked 592)
 | Enter the Speed Gauntlet | 25.00% | ~294 |
 | I just can't choose | 25.00% | ~294 |
 | A Cheese Grater to the Face | 20.00% | ~235 |
-| It's like an haircut | 18.00% | ~211 |
-| Put it on a shelf | 18.00% | ~211 |
+| It's like an haircut | 18.00% | ~212 |
+| Put it on a shelf | 18.00% | ~212 |
 | Ride in the rising sun | 16.00% | ~188 |
 | Suit up | 16.00% | ~188 |
 | Walked like an Egyptian | 15.00% | ~176 |
@@ -41,10 +41,10 @@ Rating: 4.50 (Ranked 592)
 | [Sweats profusely] | 3.00% | ~35 |
 | It's like a party! | 3.00% | ~35 |
 | Healthy competition | 3.00% | ~35 |
-| This is to go, even Further Beyond! | 2.00% | ~23 |
-| Gitting Gud | 2.00% | ~23 |
-| Redout Champion | 2.00% | ~23 |
-| Great Start | 2.00% | ~23 |
+| This is to go, even Further Beyond! | 2.00% | ~24 |
+| Gitting Gud | 2.00% | ~24 |
+| Redout Champion | 2.00% | ~24 |
+| Great Start | 2.00% | ~24 |
 | S-uper! | 1.00% | ~12 |
 | Put a sign on it | 1.00% | ~12 |
 | Everything is better with friends | 1.00% | ~12 |
@@ -58,7 +58,7 @@ Rating: 4.50 (Ranked 592)
 | I, need, more, shelves! | 0.50% | ~6 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,174 (Ranked 254)  
+Progressed: 1,175 (Ranked 254)  
 Completed: 0 (0.00%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,6 +187,7 @@ Completed: 0 (0.00%) (Ranked 368)
 | 2023-11-28 | 1,171 | 0 |
 | 2023-11-29 | 1,173 | 0 |
 | 2023-12-01 | 1,174 | 0 |
+| 2023-12-05 | 1,175 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

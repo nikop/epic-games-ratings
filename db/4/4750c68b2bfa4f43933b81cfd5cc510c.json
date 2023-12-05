@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-09-29T00:00:00+00:00",
@@ -2319,9 +2319,9 @@
       "Count": 441
     }
   ],
-  "EOS_Progressed": 56041,
+  "EOS_Progressed": 56042,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 881,
+  "EOS_NewPlayers": 873,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11069,6 +11069,11 @@
       "Time": "2023-12-05T04:07:08.0043186+00:00",
       "NumProgressed": 56041,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-05T05:06:07.3212193+00:00",
+      "NumProgressed": 56042,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -11105,7 +11110,7 @@
       "Name": "PlayStyles\u002B",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 35866
+      "UsersEstimate": 35867
     },
     {
       "ID": "achievement_13",
@@ -11113,7 +11118,7 @@
       "Name": "Squad Building Completionist",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 30262
+      "UsersEstimate": 30263
     },
     {
       "ID": "achievement_14",
@@ -11121,7 +11126,7 @@
       "Name": "The Alchemist",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 28020
+      "UsersEstimate": 28021
     },
     {
       "ID": "achievement_15",
@@ -11129,7 +11134,7 @@
       "Name": "Trust me, I\u0027m a Manager",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 27460
+      "UsersEstimate": 27461
     },
     {
       "ID": "achievement_16",
@@ -11137,7 +11142,7 @@
       "Name": "Defensive Masterclass",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 23537
+      "UsersEstimate": 23538
     },
     {
       "ID": "achievement_17",
@@ -11145,7 +11150,7 @@
       "Name": "One Moment Please!",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 33064
+      "UsersEstimate": 33065
     },
     {
       "ID": "achievement_18",
@@ -11169,7 +11174,7 @@
       "Name": "Teamwork works",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3362
+      "UsersEstimate": 3363
     },
     {
       "ID": "achievement_20",
@@ -11185,7 +11190,7 @@
       "Name": "We\u0027re in the Game!",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 46514
+      "UsersEstimate": 46515
     },
     {
       "ID": "achievement_22",
@@ -11193,7 +11198,7 @@
       "Name": "Level Up!",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 29141
+      "UsersEstimate": 29142
     },
     {
       "ID": "achievement_23",
@@ -11337,7 +11342,7 @@
       "Name": "Best of Five",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3362
+      "UsersEstimate": 3363
     },
     {
       "ID": "achievement_4",
@@ -11377,7 +11382,7 @@
       "Name": "Intuition and Execution",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 20735
+      "UsersEstimate": 20736
     },
     {
       "ID": "achievement_8",
@@ -11385,7 +11390,7 @@
       "Name": "Power Shot",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 41470
+      "UsersEstimate": 41471
     },
     {
       "ID": "achievement_9",
@@ -11400,7 +11405,7 @@
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 56041,
+      "Progressed": 56042,
       "Completed": 0
     }
   ],
@@ -11408,8 +11413,8 @@
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
   "LastChanged": "2023-12-05T02:23:11.3070626+00:00",
-  "LastChanged_Achievements": "2023-12-05T04:07:08.0043178+00:00",
+  "LastChanged_Achievements": "2023-12-05T05:06:07.3212189+00:00",
   "LastUpdate_AppInfo": "2023-12-01T05:57:07.0815744+00:00",
-  "LastUpdate_Ratings": "2023-12-05T03:59:14.6809254+00:00",
-  "LastUpdate_Achievements": "2023-12-05T04:07:08.0043984+00:00"
+  "LastUpdate_Ratings": "2023-12-05T04:58:45.1868485+00:00",
+  "LastUpdate_Achievements": "2023-12-05T05:06:07.3212714+00:00"
 }

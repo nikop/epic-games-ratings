@@ -6,15 +6,15 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~307,596 |
-| Full garage | 61.00% | ~257,032 |
-| To the eyeballs! | 51.00% | ~214,896 |
-| Individual delivery | 47.00% | ~198,041 |
-| Non-Stop | 45.00% | ~189,614 |
-| Juggler | 36.00% | ~151,691 |
-| Forgot something | 35.00% | ~147,477 |
-| Close call! | 30.00% | ~126,409 |
-| Get out my way | 28.00% | ~117,982 |
+| Dealmaker | 73.00% | ~307,598 |
+| Full garage | 61.00% | ~257,034 |
+| To the eyeballs! | 51.00% | ~214,897 |
+| Individual delivery | 47.00% | ~198,042 |
+| Non-Stop | 45.00% | ~189,615 |
+| Juggler | 36.00% | ~151,692 |
+| Forgot something | 35.00% | ~147,478 |
+| Close call! | 30.00% | ~126,410 |
+| Get out my way | 28.00% | ~117,983 |
 | Common cause | 26.00% | ~109,555 |
 | Critical care | 26.00% | ~109,555 |
 | Mega-railroad | 23.00% | ~96,914 |
@@ -22,19 +22,19 @@ Number of Ratings: 87  (23.09.2022)
 | Just in time! | 18.00% | ~75,846 |
 | Builder | 17.00% | ~71,632 |
 | Long Haul | 17.00% | ~71,520 |
-| Steam Age | 16.00% | ~67,418 |
+| Steam Age | 16.00% | ~67,419 |
 | Multilevel road | 15.00% | ~63,205 |
 | Bridgemania | 14.00% | ~58,991 |
 | Need to think | 14.00% | ~58,991 |
 | The Tortoise | 12.00% | ~50,564 |
 | Beginner | 11.00% | ~46,350 |
 | Without a lunch break | 11.00% | ~46,350 |
-| One way | 10.00% | ~42,136 |
-| Relocation | 10.00% | ~42,136 |
+| One way | 10.00% | ~42,137 |
+| Relocation | 10.00% | ~42,137 |
 | Industrial Age | 9.00% | ~37,923 |
-| Just One More Valley | 9.00% | ~37,863 |
+| Just One More Valley | 9.00% | ~37,864 |
 | Prick of conscience | 8.00% | ~33,709 |
-| Missed it! | 7.00% | ~29,495 |
+| Missed it! | 7.00% | ~29,496 |
 | At the last moment! | 6.00% | ~25,282 |
 | Overseer | 6.00% | ~25,282 |
 | Highlander | 5.00% | ~21,068 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~421 |
 | World Zapper | 0.10% | ~421 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 421,364 (Ranked 45)  
+Progressed: 421,367 (Ranked 45)  
 Completed: 23 (0.01%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,10 +287,10 @@ Completed: 23 (0.01%) (Ranked 346)
 | 2023-12-02 | 420,717 | 23 |
 | 2023-12-03 | 421,115 | 23 |
 | 2023-12-04 | 421,314 | 23 |
-| 2023-12-05 | 421,364 | 23 |
+| 2023-12-05 | 421,367 | 23 |
 ## Awards
 Max (Challenging Puzzles): 945  (Ranked 158)  
-Sum: 1,905 (Ranked 219)  
+Sum: 1,906 (Ranked 219)  
 Diff (max vs sum): -61  
 | Award | Count |
 | ----- | ----- |
@@ -302,7 +302,7 @@ Diff (max vs sum): -61
 | This game is Relaxing | 101 |
 | This game is Highly Recommended | 96 |
 | This game has Challenging Combat | 83 |
-| This game has Amazing Storytelling | 68 |
+| This game has Amazing Storytelling | 69 |
 | This game has a Creative Community | 66 |
 | This game has Amazing Characters | 50 |
 ## Ratings History
@@ -503,3 +503,4 @@ Diff (max vs sum): -61
 | 2023-12-01 | 4.44 | - | 938 | 1,886 |
 | 2023-12-03 | 4.44 | - | 940 | 1,896 |
 | 2023-12-04 | 4.44 | - | 945 | 1,905 |
+| 2023-12-05 | 4.44 | - | 945 | 1,906 |

@@ -6,7 +6,7 @@ Rating: 4.75 (Ranked 147)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Killing Jar | 0.80% | ~1,880 |
-| Regicide | 0.80% | ~113 |
+| Regicide | 0.80% | ~114 |
 | First of Many | 0.70% | ~1,645 |
 | Master of the Dark Arts | 0.70% | ~99 |
 | Not Your Average Trait | 0.60% | ~1,410 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 147)
 | Red Room | 0.10% | ~235 |
 | A Foul Feast | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,018 (Ranked 68)  
+Progressed: 235,032 (Ranked 68)  
 Completed: 558 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,17 +203,17 @@ Completed: 558 (0.24%) (Ranked 251)
 | 2023-12-02 | 233,162 | 548 |
 | 2023-12-03 | 234,204 | 554 |
 | 2023-12-04 | 234,896 | 558 |
-| 2023-12-05 | 235,018 | 558 |
+| 2023-12-05 | 235,032 | 558 |
 ## Awards
 Max (Great Boss Battles): 2,623  (Ranked 102)  
-Sum: 6,488 (Ranked 128)  
+Sum: 6,492 (Ranked 128)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,623 |
 | This game has Diverse Characters | 428 |
 | This game is Highly Recommended | 419 |
-| This game has Challenging Combat | 409 |
+| This game has Challenging Combat | 413 |
 | This game has Amazing Storytelling | 403 |
 | This game is Relaxing | 403 |
 | This game is Extremely Fun | 399 |
@@ -356,4 +356,4 @@ Diff (max vs sum): -26
 | 2023-12-02 | 4.75 | 2,577 | 6,336 |
 | 2023-12-03 | 4.75 | 2,603 | 6,405 |
 | 2023-12-04 | 4.75 | 2,623 | 6,481 |
-| 2023-12-05 | 4.75 | 2,623 | 6,488 |
+| 2023-12-05 | 4.75 | 2,623 | 6,492 |

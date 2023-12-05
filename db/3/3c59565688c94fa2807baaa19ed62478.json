@@ -160,17 +160,17 @@
       "ID": "ACH_DEFEAT_BULLET",
       "SetID": "b9ng4ag",
       "Name": "Snake Eye",
-      "Percentage": 33,
+      "Percentage": 38,
       "XP": 65,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_DEFEAT_CYBER",
       "SetID": "b9ng4ag",
       "Name": "Killer Debut",
-      "Percentage": 48,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_DEFEAT_EVIL_RICO",
@@ -231,8 +231,8 @@
   ],
   "FirstSeen": "2023-10-21T23:58:29.5927099+00:00",
   "FirstSeenAchievements": "2023-09-02T00:00:26.8543865+00:00",
-  "LastChanged_Achievements": "2023-12-05T04:09:59.5300425+00:00",
+  "LastChanged_Achievements": "2023-12-05T05:09:37.2591534+00:00",
   "LastUpdate_AppInfo": "2023-12-02T04:57:13.8444175+00:00",
-  "LastUpdate_Ratings": "2023-12-05T04:00:55.7109748+00:00",
-  "LastUpdate_Achievements": "2023-12-05T04:09:59.530051+00:00"
+  "LastUpdate_Ratings": "2023-12-05T05:00:02.6371686+00:00",
+  "LastUpdate_Achievements": "2023-12-05T05:09:37.2591612+00:00"
 }

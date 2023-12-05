@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 104506,
+  "EOS_Progressed": 104507,
   "EOS_Completed": 4817,
-  "EOS_NewPlayers": 2178,
+  "EOS_NewPlayers": 2177,
   "EOS_NewCompleters": 147,
   "EOS_Completed_Percentage": 4.61,
   "EosHistory": [
@@ -9594,6 +9594,11 @@
       "Time": "2023-12-05T04:04:39.8875981+00:00",
       "NumProgressed": 104506,
       "NumCompleted": 4817
+    },
+    {
+      "Time": "2023-12-05T05:04:10.5201875+00:00",
+      "NumProgressed": 104507,
+      "NumCompleted": 4817
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -9638,7 +9643,7 @@
       "Name": "Pelagic Perils",
       "Percentage": 55,
       "XP": 75,
-      "UsersEstimate": 57478
+      "UsersEstimate": 57479
     },
     {
       "ID": "ShipDip",
@@ -9646,7 +9651,7 @@
       "Name": "Ship Dip!",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 53298
+      "UsersEstimate": 53299
     },
     {
       "ID": "TheArtOfParley",
@@ -9686,7 +9691,7 @@
       "Name": "Weigh Anchor, Set Sail!",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 82560
+      "UsersEstimate": 82561
     },
     {
       "ID": "WelcomeAboard",
@@ -9701,7 +9706,7 @@
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 104506,
+      "Progressed": 104507,
       "Completed": 4817
     }
   ],
@@ -9709,8 +9714,8 @@
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2023-11-17T20:58:16.4880709+00:00",
-  "LastChanged_Achievements": "2023-12-05T04:04:39.8875977+00:00",
+  "LastChanged_Achievements": "2023-12-05T05:04:10.5201869+00:00",
   "LastUpdate_AppInfo": "2023-11-30T16:57:23.3312057+00:00",
-  "LastUpdate_Ratings": "2023-12-05T04:01:09.1703327+00:00",
-  "LastUpdate_Achievements": "2023-12-05T04:04:39.8876475+00:00"
+  "LastUpdate_Ratings": "2023-12-05T05:00:13.5015013+00:00",
+  "LastUpdate_Achievements": "2023-12-05T05:04:10.5202281+00:00"
 }

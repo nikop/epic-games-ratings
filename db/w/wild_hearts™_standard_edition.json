@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -1748,9 +1748,9 @@
       "ID": "achievement_19",
       "SetID": "2cpn27e",
       "Name": "Counter Specialist",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 176
     },
     {
       "ID": "achievement_2",
@@ -2058,8 +2058,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-05T04:08:42.5659101+00:00",
+  "LastChanged_Achievements": "2023-12-05T05:08:34.7420311+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:14.6460494+00:00",
-  "LastUpdate_Ratings": "2023-12-05T04:00:40.6916337+00:00",
-  "LastUpdate_Achievements": "2023-12-05T04:08:42.5659453+00:00"
+  "LastUpdate_Ratings": "2023-12-05T04:59:51.2029617+00:00",
+  "LastUpdate_Achievements": "2023-12-05T05:08:34.7420656+00:00"
 }

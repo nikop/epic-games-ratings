@@ -2,7 +2,7 @@
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
-  "Ranking_Rating": 278,
+  "Ranking_Rating": 277,
   "Ranking_Popularity": 201,
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 72,
@@ -2254,9 +2254,9 @@
       "Count": 256
     }
   ],
-  "EOS_Progressed": 217520,
+  "EOS_Progressed": 217524,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 1263,
+  "EOS_NewPlayers": 1266,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -28454,6 +28454,11 @@
       "Time": "2023-12-05T04:07:07.6130824+00:00",
       "NumProgressed": 217520,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-12-05T05:06:06.9356135+00:00",
+      "NumProgressed": 217524,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 44,
@@ -28537,7 +28542,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 26102
+      "UsersEstimate": 26103
     },
     {
       "ID": "HappyLittleAccidents",
@@ -28553,7 +28558,7 @@
       "Name": "Happy Planning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15226
+      "UsersEstimate": 15227
     },
     {
       "ID": "HighFiveTheMoon",
@@ -28569,7 +28574,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15226
+      "UsersEstimate": 15227
     },
     {
       "ID": "ItsRainingMen",
@@ -28585,7 +28590,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 15226
+      "UsersEstimate": 15227
     },
     {
       "ID": "Mercyful",
@@ -28809,22 +28814,22 @@
       "Name": "Yabu",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 15226
+      "UsersEstimate": 15227
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 217520,
+      "Progressed": 217524,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-12-04T22:58:59.6636542+00:00",
-  "LastChanged_Achievements": "2023-12-05T04:07:07.6130818+00:00",
+  "LastChanged_Achievements": "2023-12-05T05:06:06.9356132+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:31.5350998+00:00",
-  "LastUpdate_Ratings": "2023-12-05T03:59:55.6632753+00:00",
-  "LastUpdate_Achievements": "2023-12-05T04:07:07.6132266+00:00"
+  "LastUpdate_Ratings": "2023-12-05T04:59:16.6343018+00:00",
+  "LastUpdate_Achievements": "2023-12-05T05:06:06.9357853+00:00"
 }

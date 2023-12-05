@@ -14,31 +14,31 @@ Rating: 4.30 (Ranked 842)
 | The Thrower | 46.00% | ~92 |
 | The Penguin | 45.00% | ~90 |
 | The Shaman | 45.00% | ~90 |
+| The Magician | 40.00% | ~80 |
 | The Tunneler | 40.00% | ~80 |
-| The Magician | 39.00% | ~78 |
 | Level Up!! | 37.00% | ~74 |
-| The Shield | 35.00% | ~70 |
+| The Shield | 36.00% | ~72 |
 | Kill-streak | 29.00% | ~58 |
 | Topped up | 29.00% | ~58 |
 | The Bird | 28.00% | ~56 |
+| The Ninja | 26.00% | ~52 |
 | The Idol | 25.00% | ~50 |
-| The Ninja | 25.00% | ~50 |
 | Inferno Ruins | 25.00% | ~50 |
 | I'm Rich | 22.00% | ~44 |
 | Untouchable | 21.00% | ~42 |
 | 1 is all I need | 21.00% | ~42 |
 | The Slime | 21.00% | ~42 |
+| The Flower | 17.00% | ~34 |
 | The Giant | 17.00% | ~34 |
 | The Blacksmith | 16.00% | ~32 |
-| The Flower | 16.00% | ~32 |
 | The Ooze | 16.00% | ~32 |
 | Out of the Frying Pan... | 16.00% | ~32 |
 | Ember | 16.00% | ~32 |
-| Turquoise | 14.00% | ~28 |
+| Turquoise | 15.00% | ~30 |
 | The Assistant | 13.00% | ~26 |
 | The Steampunk | 13.00% | ~26 |
+| Verse | 11.00% | ~22 |
 | The Droid | 10.00% | ~20 |
-| Verse | 10.00% | ~20 |
 | Iron | 10.00% | ~20 |
 | The Bomber | 8.00% | ~16 |
 | Tested | 8.00% | ~16 |

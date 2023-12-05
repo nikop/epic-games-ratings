@@ -11443,10 +11443,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 49946,
       "NumberOfAwardsMax": 24947
+    },
+    {
+      "Time": "2023-12-05T04:59:35.900515+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 49952,
+      "NumberOfAwardsMax": 24947
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49946,
+  "NumberOfAwards": 49952,
   "NumberOfAwardsMax": 24947,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11478,7 +11484,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1376
+      "Count": 1382
     },
     {
       "Text": "This game is Extremely Fun",
@@ -11525,7 +11531,7 @@
   ],
   "EOS_Progressed": 303951,
   "EOS_Completed": 521,
-  "EOS_NewPlayers": 519,
+  "EOS_NewPlayers": 516,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36520,9 +36526,9 @@
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-12-05T04:00:20.9448822+00:00",
-  "LastChanged_Achievements": "2023-12-05T04:10:21.7713266+00:00",
+  "LastChanged": "2023-12-05T04:59:35.9005149+00:00",
+  "LastChanged_Achievements": "2023-12-05T05:09:55.5240456+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-05T04:00:20.9448831+00:00",
-  "LastUpdate_Achievements": "2023-12-05T04:10:21.7714454+00:00"
+  "LastUpdate_Ratings": "2023-12-05T04:59:35.9005155+00:00",
+  "LastUpdate_Achievements": "2023-12-05T05:09:55.5241831+00:00"
 }

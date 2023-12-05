@@ -19,7 +19,7 @@ Rating: 4.54 (Ranked 529)
 | Stacking the Deck | 2.00% | ~14,607 |
 | Personal Assistant Personally Assisted | 2.00% | ~14,607 |
 | Welcome To Hell-A | 2.00% | ~14,607 |
-| One of Us | 2.00% | ~1,117 |
+| One of Us | 2.00% | ~1,118 |
 | Making Your Mark | 1.00% | ~7,303 |
 | Anger Management | 1.00% | ~7,303 |
 | Perks of the Job | 1.00% | ~7,303 |
@@ -49,7 +49,7 @@ Rating: 4.54 (Ranked 529)
 | LA Influential | 0.40% | ~2,921 |
 | Sole Survivor | 0.40% | ~2,921 |
 | Gore Horse | 0.40% | ~2,921 |
-| Top That, Tisha! | 0.40% | ~223 |
+| Top That, Tisha! | 0.40% | ~224 |
 | Sharpest Tool in the Box | 0.30% | ~2,191 |
 | Survival Skills | 0.20% | ~1,461 |
 | Lawn and Order | 0.20% | ~112 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 529)
 | Bucket List | 0.10% | ~730 |
 | Wilhelm | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 730,328 (Ranked 21)  
+Progressed: 730,336 (Ranked 21)  
 Completed: 2,463 (0.34%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 2,463 (0.34%) (Ranked 233)
 | 2023-12-02 | 729,149 | 2,460 |
 | 2023-12-03 | 729,822 | 2,461 |
 | 2023-12-04 | 730,272 | 2,463 |
-| 2023-12-05 | 730,328 | 2,463 |
+| 2023-12-05 | 730,336 | 2,463 |
 ## Awards
 Max (Great Boss Battles): 7,915  (Ranked 49)  
 Sum: 12,151 (Ranked 82)  

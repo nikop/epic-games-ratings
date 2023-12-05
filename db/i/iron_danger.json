@@ -4,7 +4,7 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 324,
+  "EOS_Progressed": 325,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.23,
   "EosHistory": [
@@ -834,6 +834,11 @@
       "Time": "2023-12-01T17:05:49.4133316+00:00",
       "NumProgressed": 324,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-05T05:03:34.8054434+00:00",
+      "NumProgressed": 325,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -869,7 +874,7 @@
       "Name": "Berry Nice",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_GOOD_STEW",
@@ -909,7 +914,7 @@
       "Name": "Found the Healer",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_KEYU_EXTERMINATOR",
@@ -917,7 +922,7 @@
       "Name": "Keyu Exterminator",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_KNOCK_KNOCK",
@@ -965,7 +970,7 @@
       "Name": "First Shard",
       "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH_SHARD_2",
@@ -989,7 +994,7 @@
       "Name": "Fourth Shard",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_SHARD_5",
@@ -1028,7 +1033,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 324,
+      "Progressed": 325,
       "Completed": 4
     }
   ],
@@ -1036,8 +1041,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-12-05T04:03:55.7269035+00:00",
+  "LastChanged_Achievements": "2023-12-05T05:03:34.8054432+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:24.0129213+00:00",
-  "LastUpdate_Ratings": "2023-12-05T03:59:35.0763291+00:00",
-  "LastUpdate_Achievements": "2023-12-05T04:03:55.7269275+00:00"
+  "LastUpdate_Ratings": "2023-12-05T04:59:00.9528343+00:00",
+  "LastUpdate_Achievements": "2023-12-05T05:03:34.8054587+00:00"
 }

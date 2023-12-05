@@ -201,7 +201,7 @@
   ],
   "EOS_Progressed": 873,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2252,9 +2252,9 @@
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 87
     },
     {
       "ID": "JustOneLap",
@@ -2565,8 +2565,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-05T02:22:43.8735927+00:00",
-  "LastChanged_Achievements": "2023-12-05T04:06:18.6285441+00:00",
+  "LastChanged_Achievements": "2023-12-05T05:05:27.7738354+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-05T03:58:49.9344076+00:00",
-  "LastUpdate_Achievements": "2023-12-05T04:06:18.6286077+00:00"
+  "LastUpdate_Ratings": "2023-12-05T04:58:25.8061761+00:00",
+  "LastUpdate_Achievements": "2023-12-05T05:05:27.7738863+00:00"
 }

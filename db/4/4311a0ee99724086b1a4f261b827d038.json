@@ -659,9 +659,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 236097,
+  "EOS_Progressed": 236101,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1469,
+  "EOS_NewPlayers": 1472,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16194,6 +16194,11 @@
       "Time": "2023-12-05T04:10:17.527634+00:00",
       "NumProgressed": 236097,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-05T05:09:51.9891165+00:00",
+      "NumProgressed": 236101,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -16262,7 +16267,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 49580
+      "UsersEstimate": 49581
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -16358,7 +16363,7 @@
       "Name": "Thaddis Sabbah Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "HW2_MISSION13_COMPLETE",
@@ -16374,7 +16379,7 @@
       "Name": "Balcora Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "HW2_MISSION15_COMPLETE",
@@ -16382,7 +16387,7 @@
       "Name": "Return to Hiigara Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "HW2_MISSION1_COMPLETE",
@@ -16454,7 +16459,7 @@
       "Name": "Counter Attack Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "HW2_TUTORIAL_COMPLETE",
@@ -16462,7 +16467,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 59024
+      "UsersEstimate": 59025
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -16477,7 +16482,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 236097,
+      "Progressed": 236101,
       "Completed": 0
     }
   ],
@@ -16485,8 +16490,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-04T06:01:30.5373839+00:00",
-  "LastChanged_Achievements": "2023-12-05T04:10:17.5276337+00:00",
+  "LastChanged_Achievements": "2023-12-05T05:09:51.9891162+00:00",
   "LastUpdate_AppInfo": "2023-12-01T02:57:03.9317243+00:00",
-  "LastUpdate_Ratings": "2023-12-05T03:57:17.5123709+00:00",
-  "LastUpdate_Achievements": "2023-12-05T04:10:17.5277198+00:00"
+  "LastUpdate_Ratings": "2023-12-05T04:57:15.3386218+00:00",
+  "LastUpdate_Achievements": "2023-12-05T05:09:51.9892033+00:00"
 }

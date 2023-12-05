@@ -997,9 +997,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 541448,
+  "EOS_Progressed": 541449,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1246,
+  "EOS_NewPlayers": 1237,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26952,6 +26952,11 @@
       "Time": "2023-12-05T04:08:46.2617165+00:00",
       "NumProgressed": 541448,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-05T05:08:37.7258574+00:00",
+      "NumProgressed": 541449,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -27059,7 +27064,7 @@
       "Name": "Cold Caller",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 216579
+      "UsersEstimate": 216580
     },
     {
       "ID": "DeadlyAssassin",
@@ -27115,7 +27120,7 @@
       "Name": "Handy",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 227408
+      "UsersEstimate": 227409
     },
     {
       "ID": "HoldingYourOwn",
@@ -27211,7 +27216,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 411500
+      "UsersEstimate": 411501
     },
     {
       "ID": "ProPlayer",
@@ -27322,7 +27327,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 541448,
+      "Progressed": 541449,
       "Completed": 2
     }
   ],
@@ -27330,8 +27335,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-12-04T21:01:55.0231248+00:00",
-  "LastChanged_Achievements": "2023-12-05T04:08:46.261716+00:00",
+  "LastChanged_Achievements": "2023-12-05T05:08:37.7258571+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:11.118442+00:00",
-  "LastUpdate_Ratings": "2023-12-05T04:01:33.3944016+00:00",
-  "LastUpdate_Achievements": "2023-12-05T04:08:46.2618869+00:00"
+  "LastUpdate_Ratings": "2023-12-05T05:00:31.830997+00:00",
+  "LastUpdate_Achievements": "2023-12-05T05:08:37.7260126+00:00"
 }

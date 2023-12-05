@@ -7239,9 +7239,9 @@
       "Count": 510
     }
   ],
-  "EOS_Progressed": 730328,
+  "EOS_Progressed": 730336,
   "EOS_Completed": 2463,
-  "EOS_NewPlayers": 3468,
+  "EOS_NewPlayers": 3461,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -33444,6 +33444,11 @@
       "Time": "2023-12-05T04:09:04.6735445+00:00",
       "NumProgressed": 730328,
       "NumCompleted": 2463
+    },
+    {
+      "Time": "2023-12-05T05:08:52.8946781+00:00",
+      "NumProgressed": 730336,
+      "NumCompleted": 2463
     }
   ],
   "TotalAchievements": 51,
@@ -33815,7 +33820,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 1117
+      "UsersEstimate": 1118
     },
     {
       "ID": "ach_dark_magic",
@@ -33855,29 +33860,29 @@
       "Name": "Top That, Tisha!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 730328,
+      "Progressed": 730336,
       "Completed": 2463
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 55870,
-      "Completed": 36628
+      "Progressed": 55878,
+      "Completed": 36629
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-12-05T01:45:41.4460983+00:00",
-  "LastChanged_Achievements": "2023-12-05T04:09:04.6735441+00:00",
+  "LastChanged_Achievements": "2023-12-05T05:08:52.8946778+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:31.1640976+00:00",
-  "LastUpdate_Ratings": "2023-12-05T03:57:16.0675183+00:00",
-  "LastUpdate_Achievements": "2023-12-05T04:09:04.673669+00:00"
+  "LastUpdate_Ratings": "2023-12-05T04:57:14.156254+00:00",
+  "LastUpdate_Achievements": "2023-12-05T05:08:52.8948021+00:00"
 }

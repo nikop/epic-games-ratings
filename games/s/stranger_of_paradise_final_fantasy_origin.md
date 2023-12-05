@@ -44,7 +44,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | Artifact Collector | 22.00% | ~17,622 |
 | True Potential | 22.00% | ~17,622 |
 | Polymath | 22.00% | ~17,622 |
-| Origin of True Chaos | 20.00% | ~16,020 |
+| Origin of True Chaos | 21.00% | ~16,821 |
 | Master's Awakening | 19.00% | ~15,219 |
 | Jack-of-All-Trades | 19.00% | ~15,219 |
 | Cycle of Darkness | 16.00% | ~12,816 |
