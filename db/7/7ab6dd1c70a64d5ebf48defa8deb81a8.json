@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -1125,9 +1125,9 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_19",
@@ -1284,8 +1284,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-05T12:09:55.7598616+00:00",
+  "LastChanged_Achievements": "2023-12-05T13:16:20.6262166+00:00",
   "LastUpdate_AppInfo": "2023-12-04T20:57:12.3755943+00:00",
-  "LastUpdate_Ratings": "2023-12-05T12:00:16.7383841+00:00",
-  "LastUpdate_Achievements": "2023-12-05T12:09:55.7598892+00:00"
+  "LastUpdate_Ratings": "2023-12-05T13:06:37.7461882+00:00",
+  "LastUpdate_Achievements": "2023-12-05T13:16:20.6262418+00:00"
 }

@@ -199,9 +199,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 874,
+  "EOS_Progressed": 875,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2079,6 +2079,11 @@
       "Time": "2023-12-05T10:05:28.1995909+00:00",
       "NumProgressed": 874,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-05T13:12:07.0874928+00:00",
+      "NumProgressed": 875,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2091,7 +2096,7 @@
       "Name": "Ab Aeterno",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "AbInitio",
@@ -2131,7 +2136,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "BreakTheLoop",
@@ -2145,9 +2150,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 114
     },
     {
       "ID": "ChasingTheLight",
@@ -2203,7 +2208,7 @@
       "Name": "Ecstatic Truth",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Excellent",
@@ -2227,7 +2232,7 @@
       "Name": "Gnothi Seauton",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "GoodCitizen",
@@ -2235,7 +2240,7 @@
       "Name": "Good Citizen",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "GrasslandsRing",
@@ -2251,7 +2256,7 @@
       "Name": "High Plain",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "IntoTheMachine",
@@ -2259,7 +2264,7 @@
       "Name": "Into the Machine",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "JustOneLap",
@@ -2323,7 +2328,7 @@
       "Name": "A New Beginning",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "NewMorality",
@@ -2545,9 +2550,9 @@
       "ID": "WoodedPlateau",
       "SetID": "1n308hc",
       "Name": "Wooded Plateau",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 52
     },
     {
       "ID": "YourBiggestFan",
@@ -2562,7 +2567,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 874,
+      "Progressed": 875,
       "Completed": 1
     }
   ],
@@ -2570,8 +2575,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-05T02:22:43.8735927+00:00",
-  "LastChanged_Achievements": "2023-12-05T12:05:47.0754155+00:00",
+  "LastChanged_Achievements": "2023-12-05T13:12:07.0874926+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-05T11:58:48.1488685+00:00",
-  "LastUpdate_Achievements": "2023-12-05T12:05:47.0754676+00:00"
+  "LastUpdate_Ratings": "2023-12-05T13:05:11.0837103+00:00",
+  "LastUpdate_Achievements": "2023-12-05T13:12:07.0875378+00:00"
 }

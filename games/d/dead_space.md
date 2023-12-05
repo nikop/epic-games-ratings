@@ -41,7 +41,7 @@ Rating: 4.64 (Ranked 337)
 | Full Clearance | 25.00% | ~535 |
 | Pusher | 23.00% | ~492 |
 | Z-Baller | 23.00% | ~492 |
-| Marked | 21.00% | ~449 |
+| Marked | 22.00% | ~471 |
 | Eviscerator | 19.00% | ~406 |
 | Backbreaker | 14.00% | ~299 |
 | Wishbone | 9.00% | ~193 |

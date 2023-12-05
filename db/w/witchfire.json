@@ -2,10 +2,10 @@
   "ID": "2e404271085e4eb480f48c3d2e5f08ed",
   "Name": "Witchfire",
   "ProductSlug": "witchfire-db273e",
-  "Ranking_Rating": 368,
+  "Ranking_Rating": 369,
   "Ranking_Popularity": 443,
   "Ranking_PopularitySum": 387,
-  "Ranking_EOS_Progress": 779,
+  "Ranking_EOS_Progress": 780,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 473,
   "Ranking_EOS_NewCompleters": 125,
@@ -975,6 +975,6 @@
   "FirstSeenRating": "2023-09-21T14:59:00.914233+00:00",
   "LastChanged": "2023-12-04T20:00:01.3671592+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:19.2974639+00:00",
-  "LastUpdate_Ratings": "2023-12-05T12:00:12.0704011+00:00",
-  "LastUpdate_Achievements": "2023-12-05T12:08:57.0260459+00:00"
+  "LastUpdate_Ratings": "2023-12-05T13:06:33.3752234+00:00",
+  "LastUpdate_Achievements": "2023-12-05T13:15:02.8997589+00:00"
 }

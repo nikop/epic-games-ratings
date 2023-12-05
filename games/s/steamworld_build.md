@@ -6,6 +6,7 @@
 | ---- | ---------- | ----- |
 | Botropolis | 50.00% | ~1 |
 | Conducted Trade | 50.00% | ~1 |
+| Digging a Hole | 50.00% | ~1 |
 | Gotta Go Fast | 50.00% | ~1 |
 | It's Yours, My Friend | 50.00% | ~1 |
 | Mathematic | 50.00% | ~1 |
@@ -19,7 +20,6 @@
 | Accustomed Customer | 0.00% | ~0 |
 | Aristocratic | 0.00% | ~0 |
 | Click 'Em All | 0.00% | ~0 |
-| Digging a Hole | 0.00% | ~0 |
 | Dopa-Miner | 0.00% | ~0 |
 | Going Places | 0.00% | ~0 |
 | I'm A Lumberbot | 0.00% | ~0 |

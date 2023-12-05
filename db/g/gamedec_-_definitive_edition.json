@@ -495,9 +495,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 253894,
+  "EOS_Progressed": 253895,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 612,
+  "EOS_NewPlayers": 611,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26105,6 +26105,11 @@
       "Time": "2023-12-05T12:04:44.7740843+00:00",
       "NumProgressed": 253894,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-05T13:11:05.5419333+00:00",
+      "NumProgressed": 253895,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -26116,7 +26121,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 68551
+      "UsersEstimate": 68552
     },
     {
       "ID": "ACH_AON",
@@ -26196,7 +26201,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 22850
+      "UsersEstimate": 22851
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -26260,7 +26265,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 73629
+      "UsersEstimate": 73630
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -26531,7 +26536,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 253894,
+      "Progressed": 253895,
       "Completed": 7
     }
   ],
@@ -26539,8 +26544,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-30T10:59:11.8312964+00:00",
-  "LastChanged_Achievements": "2023-12-05T12:04:44.7740841+00:00",
+  "LastChanged_Achievements": "2023-12-05T13:11:05.5419331+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:30.506273+00:00",
-  "LastUpdate_Ratings": "2023-12-05T11:57:55.6098925+00:00",
-  "LastUpdate_Achievements": "2023-12-05T12:04:44.7742296+00:00"
+  "LastUpdate_Ratings": "2023-12-05T13:04:19.7871837+00:00",
+  "LastUpdate_Achievements": "2023-12-05T13:11:05.5420527+00:00"
 }

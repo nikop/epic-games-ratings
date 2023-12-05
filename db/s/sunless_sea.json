@@ -6,7 +6,7 @@
   "Ranking_Popularity": 283,
   "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 121,
-  "Ranking_EOS_Completed": 346,
+  "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
@@ -766,7 +766,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 41694,
+  "EOS_Progressed": 41696,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 0,
@@ -24066,6 +24066,11 @@
       "Time": "2023-12-05T12:04:56.324111+00:00",
       "NumProgressed": 41694,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-05T13:11:16.8681122+00:00",
+      "NumProgressed": 41696,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -24141,7 +24146,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4586
+      "UsersEstimate": 4587
     },
     {
       "ID": "ach_cursestone",
@@ -24165,7 +24170,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4586
+      "UsersEstimate": 4587
     },
     {
       "ID": "ach_deathofermod",
@@ -24197,7 +24202,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15010
+      "UsersEstimate": 15011
     },
     {
       "ID": "ach_die10",
@@ -24245,7 +24250,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4586
+      "UsersEstimate": 4587
     },
     {
       "ID": "ach_invictus",
@@ -24269,7 +24274,7 @@
       "Name": "Correspondent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5003
+      "UsersEstimate": 5004
     },
     {
       "ID": "ach_legacypupil",
@@ -24301,7 +24306,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4586
+      "UsersEstimate": 4587
     },
     {
       "ID": "ach_newstories",
@@ -24437,7 +24442,7 @@
       "Name": "Lose Your Mind",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5003
+      "UsersEstimate": 5004
     },
     {
       "ID": "ach_terror90",
@@ -24477,7 +24482,7 @@
       "Name": "Sound Mind?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 5003
+      "UsersEstimate": 5004
     },
     {
       "ID": "ach_year1",
@@ -24508,15 +24513,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 41694,
+      "Progressed": 41696,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-12-04T09:57:47.4841582+00:00",
-  "LastChanged_Achievements": "2023-12-05T12:04:56.3241108+00:00",
+  "LastChanged_Achievements": "2023-12-05T13:11:16.8681119+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:04.5816055+00:00",
-  "LastUpdate_Ratings": "2023-12-05T11:58:45.0816059+00:00",
-  "LastUpdate_Achievements": "2023-12-05T12:04:56.3242558+00:00"
+  "LastUpdate_Ratings": "2023-12-05T13:05:07.9080271+00:00",
+  "LastUpdate_Achievements": "2023-12-05T13:11:16.8682422+00:00"
 }

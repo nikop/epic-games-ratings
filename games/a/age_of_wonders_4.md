@@ -9,12 +9,12 @@ Rating: 4.61 (Ranked 387)
 | Secret Technique | 4.00% | ~223 |
 | Walls Cannot Stop Us | 4.00% | ~223 |
 | But this one is mine | 4.00% | ~223 |
+| Full Ascension | 3.00% | ~167 |
 | A Wonderful Discovery | 3.00% | ~167 |
 | Bone Peddler | 3.00% | ~167 |
 | From Friends to Family | 3.00% | ~167 |
 | Valley of Wonders | 2.00% | ~111 |
 | There Can Only Be One! | 2.00% | ~111 |
-| Full Ascension | 2.00% | ~111 |
 | Stronger Together | 2.00% | ~111 |
 | Magical Synergy | 2.00% | ~111 |
 | Seat of Power | 2.00% | ~111 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 387)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,568 (Ranked 189)  
+Progressed: 5,569 (Ranked 189)  
 Completed: 7 (0.13%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,6 +263,7 @@ Completed: 7 (0.13%) (Ranked 276)
 | 2023-12-02 | 5,560 | 7 |
 | 2023-12-03 | 5,567 | 7 |
 | 2023-12-04 | 5,568 | 7 |
+| 2023-12-05 | 5,569 | 7 |
 ## Awards
 Max (Great for Beginners): 35  (Ranked 481)  
 Sum: 85 (Ranked 462)  

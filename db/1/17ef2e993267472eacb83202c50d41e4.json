@@ -6,7 +6,7 @@
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 172,
-  "Ranking_EOS_Completed": 346,
+  "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8582,
+  "EOS_Progressed": 8584,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8034,6 +8034,11 @@
       "Time": "2023-12-05T12:10:01.1881173+00:00",
       "NumProgressed": 8582,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-05T13:16:26.0351568+00:00",
+      "NumProgressed": 8584,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -8094,7 +8099,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "CreditsSpent50000",
@@ -8118,7 +8123,7 @@
       "Name": "Upgraded Enhanced Armor to Level 3",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "EAUpgraded1",
@@ -8166,7 +8171,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2660
+      "UsersEstimate": 2661
     },
     {
       "ID": "GamesPlayed10",
@@ -8190,7 +8195,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "GamesWon10",
@@ -8222,7 +8227,7 @@
       "Name": "Upgraded the Grenade Launcher to Level 3",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "HAPurchased1",
@@ -8262,7 +8267,7 @@
       "Name": "Purchased Healing Sphere",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "HSUPurchased1",
@@ -8310,7 +8315,7 @@
       "Name": "Purchased Incendiary Rounds",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "InhibitorKills3",
@@ -8422,7 +8427,7 @@
       "Name": "Destroyed 6 Towers in a single match",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "MinionKills200",
@@ -8454,7 +8459,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "NeutralKills200",
@@ -8462,7 +8467,7 @@
       "Name": "200 Neutral Eliminations",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "NexusKills1",
@@ -8478,7 +8483,7 @@
       "Name": "10 Eliminations",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "PlayerKills100",
@@ -8542,7 +8547,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "SEUpgraded1",
@@ -8598,7 +8603,7 @@
       "Name": "Purchased Toxic Grenade",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "TPurchased1",
@@ -8622,7 +8627,7 @@
       "Name": "Destroyed 11 Towers",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "WCUpgraded1",
@@ -8637,7 +8642,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8582,
+      "Progressed": 8584,
       "Completed": 1
     }
   ],
@@ -8645,8 +8650,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-12-05T02:57:10.0290174+00:00",
-  "LastChanged_Achievements": "2023-12-05T12:10:01.188117+00:00",
+  "LastChanged_Achievements": "2023-12-05T13:16:26.0351565+00:00",
   "LastUpdate_AppInfo": "2023-11-28T15:57:00.1791972+00:00",
-  "LastUpdate_Ratings": "2023-12-05T11:57:36.1056305+00:00",
-  "LastUpdate_Achievements": "2023-12-05T12:10:01.1882138+00:00"
+  "LastUpdate_Ratings": "2023-12-05T13:04:00.1356038+00:00",
+  "LastUpdate_Achievements": "2023-12-05T13:16:26.0352728+00:00"
 }

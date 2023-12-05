@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4477,
+  "EOS_Progressed": 4478,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -8145,6 +8145,11 @@
       "Time": "2023-12-05T12:04:46.5814459+00:00",
       "NumProgressed": 4477,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-05T13:11:07.2585059+00:00",
+      "NumProgressed": 4478,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8436,7 +8441,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "Ach037",
@@ -8723,13 +8728,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4477,
+      "Progressed": 4478,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2998,
+      "Progressed": 2999,
       "Completed": 1930
     }
   ],
@@ -8737,8 +8742,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-05T12:04:46.5814458+00:00",
+  "LastChanged_Achievements": "2023-12-05T13:11:07.2585057+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:21.1661658+00:00",
-  "LastUpdate_Ratings": "2023-12-05T11:02:24.8214396+00:00",
-  "LastUpdate_Achievements": "2023-12-05T12:04:46.5815236+00:00"
+  "LastUpdate_Ratings": "2023-12-05T13:03:48.1933053+00:00",
+  "LastUpdate_Achievements": "2023-12-05T13:11:07.2585876+00:00"
 }

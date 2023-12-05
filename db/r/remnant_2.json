@@ -5175,9 +5175,9 @@
       "Count": 403
     }
   ],
-  "EOS_Progressed": 235171,
+  "EOS_Progressed": 235216,
   "EOS_Completed": 558,
-  "EOS_NewPlayers": 5317,
+  "EOS_NewPlayers": 5313,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -21470,6 +21470,11 @@
       "Time": "2023-12-05T12:09:15.171015+00:00",
       "NumProgressed": 235171,
       "NumCompleted": 558
+    },
+    {
+      "Time": "2023-12-05T13:15:40.6148393+00:00",
+      "NumProgressed": 235216,
+      "NumCompleted": 558
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21562,7 +21567,7 @@
       "Name": "The Killing Jar",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1881
+      "UsersEstimate": 1882
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -21666,7 +21671,7 @@
       "Name": "First of Many",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1646
+      "UsersEstimate": 1647
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -21898,7 +21903,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -21921,13 +21926,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 235171,
+      "Progressed": 235216,
       "Completed": 558
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 14336,
+      "Progressed": 14381,
       "Completed": 195
     }
   ],
@@ -21935,8 +21940,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-05T05:03:13.965754+00:00",
-  "LastChanged_Achievements": "2023-12-05T12:09:15.1710145+00:00",
+  "LastChanged_Achievements": "2023-12-05T13:15:40.614839+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-05T12:03:36.5064973+00:00",
-  "LastUpdate_Achievements": "2023-12-05T12:09:15.1711514+00:00"
+  "LastUpdate_Ratings": "2023-12-05T13:09:56.2453316+00:00",
+  "LastUpdate_Achievements": "2023-12-05T13:15:40.6149282+00:00"
 }

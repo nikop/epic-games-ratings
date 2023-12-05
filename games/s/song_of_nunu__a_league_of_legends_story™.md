@@ -35,7 +35,7 @@
 | Bullseye | 37.00% | ~400 |
 | It Is Not Over | 36.00% | ~389 |
 | On The Rocks | 35.00% | ~378 |
-| Snowy Poro | 31.00% | ~335 |
+| Snowy Poro | 32.00% | ~346 |
 | Never Gets Old | 31.00% | ~335 |
 | Vertical Power | 27.00% | ~292 |
 | One From The Heart | 14.00% | ~151 |

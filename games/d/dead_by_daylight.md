@@ -6,35 +6,35 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~10,712 |
-| It wakes | 1.00% | ~10,712 |
-| Not half bad | 1.00% | ~10,712 |
-| Skillful | 1.00% | ~10,712 |
-| Apt Survivor | 0.90% | ~9,641 |
-| Make Some Noise | 0.90% | ~9,641 |
-| Handyman | 0.80% | ~8,570 |
-| Survival Treasures | 0.80% | ~8,570 |
-| I | 0.80% | ~8,570 |
+| Zealous | 1.00% | ~10,713 |
+| It wakes | 1.00% | ~10,713 |
+| Not half bad | 1.00% | ~10,713 |
+| Skillful | 1.00% | ~10,713 |
+| Apt Survivor | 0.90% | ~9,642 |
+| Make Some Noise | 0.90% | ~9,642 |
+| Handyman | 0.80% | ~8,571 |
+| Survival Treasures | 0.80% | ~8,571 |
+| I | 0.80% | ~8,571 |
 | No one left behind | 0.70% | ~7,499 |
 | Medic | 0.70% | ~7,499 |
 | Sorted | 0.70% | ~7,499 |
 | Healthy Obsession | 0.70% | ~7,499 |
 | Resurgence | 0.70% | ~7,499 |
 | Preemptive Strike | 0.70% | ~7,499 |
-| The Grand Sacrifice | 0.60% | ~6,427 |
-| Perfect Escape | 0.60% | ~6,427 |
-| Bloody Millionaire | 0.60% | ~6,427 |
-| Humanitarian | 0.60% | ~6,427 |
-| Agonizing Escape | 0.50% | ~5,356 |
-| Backdoor Escape | 0.50% | ~5,356 |
-| I've got your back | 0.50% | ~5,356 |
-| Perfect Killing | 0.50% | ~5,356 |
-| Apt Killer | 0.50% | ~5,356 |
-| Risk it all | 0.50% | ~5,356 |
-| II | 0.50% | ~5,356 |
-| Engineer | 0.50% | ~5,356 |
-| Wounded Healer | 0.50% | ~5,356 |
-| Close Shave | 0.50% | ~5,356 |
+| The Grand Sacrifice | 0.60% | ~6,428 |
+| Backdoor Escape | 0.60% | ~6,428 |
+| Perfect Escape | 0.60% | ~6,428 |
+| Bloody Millionaire | 0.60% | ~6,428 |
+| Humanitarian | 0.60% | ~6,428 |
+| Agonizing Escape | 0.50% | ~5,357 |
+| I've got your back | 0.50% | ~5,357 |
+| Perfect Killing | 0.50% | ~5,357 |
+| Apt Killer | 0.50% | ~5,357 |
+| Risk it all | 0.50% | ~5,357 |
+| II | 0.50% | ~5,357 |
+| Engineer | 0.50% | ~5,357 |
+| Wounded Healer | 0.50% | ~5,357 |
+| Close Shave | 0.50% | ~5,357 |
 | Vulture | 0.40% | ~4,285 |
 | III | 0.40% | ~4,285 |
 | With Scars to Show | 0.40% | ~4,285 |
@@ -45,6 +45,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Nerves of steel | 0.30% | ~3,214 |
 | Gifts for the Fog | 0.30% | ~3,214 |
 | III-50 | 0.30% | ~3,214 |
+| Shock Therapy | 0.30% | ~3,214 |
 | All Aboard | 0.30% | ~3,214 |
 | Item of Obsession | 0.30% | ~3,214 |
 | House of Pain | 0.30% | ~3,214 |
@@ -63,32 +64,31 @@ Number of Ratings: 70,340  (23.09.2022)
 | Chorus of Chaos | 0.30% | ~3,214 |
 | One More Step | 0.30% | ~3,214 |
 | Second Act | 0.30% | ~3,214 |
-| A bite for the Entity | 0.20% | ~2,142 |
-| Blood on your face | 0.20% | ~2,142 |
-| Hemophobia | 0.20% | ~2,142 |
-| Shock Therapy | 0.20% | ~2,142 |
-| Leapfrog | 0.20% | ~2,142 |
-| Cottage Owner | 0.20% | ~2,142 |
-| Serial Killer | 0.20% | ~2,142 |
-| Escaping the Nightmare | 0.20% | ~2,142 |
-| Game Over | 0.20% | ~2,142 |
-| Campbell's Chapel Legacy | 0.20% | ~2,142 |
-| Ancestor's Rite | 0.20% | ~2,142 |
-| Devoted Gatekeeping | 0.20% | ~2,142 |
-| Shrine Apparatus | 0.20% | ~2,142 |
-| Outrun Evil | 0.20% | ~2,142 |
-| Broken Bodies | 0.20% | ~2,142 |
-| Grim Pilgrimage | 0.20% | ~2,142 |
-| Selfless Survival | 0.20% | ~2,142 |
-| End of Days | 0.20% | ~2,142 |
-| Insult and Injury | 0.20% | ~2,142 |
-| Outrun the Overlap | 0.20% | ~2,142 |
-| High Speed Pursuit | 0.20% | ~2,142 |
-| A Fast Death | 0.20% | ~2,142 |
-| Rebuilding The Borgo | 0.20% | ~2,142 |
-| Extraterrestrial | 0.20% | ~2,142 |
-| MU/TH/UR Dearest | 0.20% | ~2,142 |
-| Outta Nowhere | 0.20% | ~2,142 |
+| A bite for the Entity | 0.20% | ~2,143 |
+| Blood on your face | 0.20% | ~2,143 |
+| Hemophobia | 0.20% | ~2,143 |
+| Leapfrog | 0.20% | ~2,143 |
+| Cottage Owner | 0.20% | ~2,143 |
+| Serial Killer | 0.20% | ~2,143 |
+| Escaping the Nightmare | 0.20% | ~2,143 |
+| Game Over | 0.20% | ~2,143 |
+| Campbell's Chapel Legacy | 0.20% | ~2,143 |
+| Ancestor's Rite | 0.20% | ~2,143 |
+| Devoted Gatekeeping | 0.20% | ~2,143 |
+| Shrine Apparatus | 0.20% | ~2,143 |
+| Outrun Evil | 0.20% | ~2,143 |
+| Broken Bodies | 0.20% | ~2,143 |
+| Grim Pilgrimage | 0.20% | ~2,143 |
+| Selfless Survival | 0.20% | ~2,143 |
+| End of Days | 0.20% | ~2,143 |
+| Insult and Injury | 0.20% | ~2,143 |
+| Outrun the Overlap | 0.20% | ~2,143 |
+| High Speed Pursuit | 0.20% | ~2,143 |
+| A Fast Death | 0.20% | ~2,143 |
+| Rebuilding The Borgo | 0.20% | ~2,143 |
+| Extraterrestrial | 0.20% | ~2,143 |
+| MU/TH/UR Dearest | 0.20% | ~2,143 |
+| Outta Nowhere | 0.20% | ~2,143 |
 | A feast for the Entity | 0.10% | ~1,071 |
 | Blood in your mouth | 0.10% | ~1,071 |
 | Cripple them all | 0.10% | ~1,071 |
@@ -239,8 +239,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | Joke’s On You | 0.10% | ~1,071 |
 | Adept Good Guy | 0.10% | ~1,071 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,071,219 (Ranked 14)  
-Completed: 61 (0.01%) (Ranked 346)  
+Progressed: 1,071,330 (Ranked 14)  
+Completed: 61 (0.01%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -468,7 +468,7 @@ Completed: 61 (0.01%) (Ranked 346)
 | 2023-12-02 | 1,062,340 | 61 |
 | 2023-12-03 | 1,067,390 | 61 |
 | 2023-12-04 | 1,070,133 | 61 |
-| 2023-12-05 | 1,071,219 | 61 |
+| 2023-12-05 | 1,071,330 | 61 |
 ## Awards
 Max (Diverse Characters): 37,289  (Ranked 15)  
 Sum: 283,188 (Ranked 12)  

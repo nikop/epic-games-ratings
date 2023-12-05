@@ -2,9 +2,9 @@
   "ID": "173d783680df4fba92423e189f6df67d",
   "Name": "Kids Learn",
   "ProductSlug": "kids-learn-e4a163",
-  "Ranking_EOS_Progress": 662,
+  "Ranking_EOS_Progress": 663,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewPlayers": 381,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-12-01T18:30:00+00:00",
@@ -98,8 +98,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-28T18:03:15.3892997+00:00",
-  "LastChanged_Achievements": "2023-12-05T12:06:12.8525126+00:00",
+  "LastChanged_Achievements": "2023-12-05T13:12:32.2207892+00:00",
   "LastUpdate_AppInfo": "2023-11-28T17:56:55.9603149+00:00",
-  "LastUpdate_Ratings": "2023-12-05T12:00:39.5941326+00:00",
-  "LastUpdate_Achievements": "2023-12-05T12:06:12.8525224+00:00"
+  "LastUpdate_Ratings": "2023-12-05T13:07:00.2336116+00:00",
+  "LastUpdate_Achievements": "2023-12-05T13:12:32.2207932+00:00"
 }

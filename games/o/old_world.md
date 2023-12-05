@@ -349,8 +349,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,643 (Ranked 152)  
-Completed: 5 (0.03%) (Ranked 330)  
+Progressed: 15,644 (Ranked 152)  
+Completed: 5 (0.03%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -578,7 +578,7 @@ Completed: 5 (0.03%) (Ranked 330)
 | 2023-12-02 | 15,604 | 5 |
 | 2023-12-03 | 15,619 | 5 |
 | 2023-12-04 | 15,638 | 5 |
-| 2023-12-05 | 15,643 | 5 |
+| 2023-12-05 | 15,644 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,889 (Ranked 220)  

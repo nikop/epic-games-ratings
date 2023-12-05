@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 155431,
+  "EOS_Progressed": 155432,
   "EOS_Completed": 355,
-  "EOS_NewPlayers": 838,
+  "EOS_NewPlayers": 834,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -20503,6 +20503,11 @@
       "Time": "2023-12-05T12:03:57.8694155+00:00",
       "NumProgressed": 155431,
       "NumCompleted": 355
+    },
+    {
+      "Time": "2023-12-05T13:10:19.5600454+00:00",
+      "NumProgressed": 155432,
+      "NumCompleted": 355
     }
   ],
   "TotalAchievements": 31,
@@ -20618,7 +20623,7 @@
       "Name": "I Have The Power",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 12434
+      "UsersEstimate": 12435
     },
     {
       "ID": "EAwards_21",
@@ -20626,7 +20631,7 @@
       "Name": "Got to catch them all",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 17097
+      "UsersEstimate": 17098
     },
     {
       "ID": "EAwards_22",
@@ -20761,7 +20766,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 155431,
+      "Progressed": 155432,
       "Completed": 355
     }
   ],
@@ -20769,8 +20774,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-12-05T12:03:57.8694153+00:00",
+  "LastChanged_Achievements": "2023-12-05T13:10:19.5600451+00:00",
   "LastUpdate_AppInfo": "2023-12-01T05:57:05.8287606+00:00",
-  "LastUpdate_Ratings": "2023-12-05T12:00:19.6624383+00:00",
-  "LastUpdate_Achievements": "2023-12-05T12:03:57.8695518+00:00"
+  "LastUpdate_Ratings": "2023-12-05T13:06:40.6179127+00:00",
+  "LastUpdate_Achievements": "2023-12-05T13:10:19.5601499+00:00"
 }

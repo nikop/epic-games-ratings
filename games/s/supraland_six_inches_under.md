@@ -47,7 +47,7 @@ Number of Ratings: 209  (23.09.2022)
 | You feel very sorry | 70.00% | ~1,646 |
 | No Match for you | 65.00% | ~1,528 |
 | Bouncy | 62.00% | ~1,458 |
-| Plumbster | 60.00% | ~1,411 |
+| Plumbster | 61.00% | ~1,434 |
 | Faster | 59.00% | ~1,387 |
 | Much Magic | 58.00% | ~1,364 |
 | Chest Detector | 55.00% | ~1,293 |

@@ -2,7 +2,7 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 992,
+  "Ranking_Rating": 991,
   "Ranking_Popularity": 476,
   "Ranking_PopularitySum": 427,
   "Ranking_EOS_Progress": 212,
@@ -583,9 +583,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3044,
+  "EOS_Progressed": 3046,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8888,6 +8888,11 @@
       "Time": "2023-12-05T12:03:53.8994107+00:00",
       "NumProgressed": 3044,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-05T13:10:15.5724283+00:00",
+      "NumProgressed": 3046,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -9075,7 +9080,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "fellowshippower",
@@ -9083,7 +9088,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "fourleafclover",
@@ -9275,7 +9280,7 @@
       "Name": "Natural Talent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "pokerface",
@@ -9289,9 +9294,9 @@
       "ID": "prestigious",
       "SetID": "3nl4bcg",
       "Name": "Prestigious",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1613
+      "UsersEstimate": 1645
     },
     {
       "ID": "prestigiousx10",
@@ -9299,7 +9304,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "relicofthepast",
@@ -9323,7 +9328,7 @@
       "Name": "Scientist",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "scrollmaster",
@@ -9347,7 +9352,7 @@
       "Name": "Superior",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "templeofeternals",
@@ -9355,7 +9360,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1736
     },
     {
       "ID": "thealchemist",
@@ -9387,7 +9392,7 @@
       "Name": "The game is on",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "thepowerofawakening",
@@ -9403,7 +9408,7 @@
       "Name": "The Unstoppable",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "titanpower",
@@ -9459,7 +9464,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2831
+      "UsersEstimate": 2833
     },
     {
       "ID": "warmachinesarmy",
@@ -9491,14 +9496,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2374
+      "UsersEstimate": 2376
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3044,
+      "Progressed": 3046,
       "Completed": 2
     }
   ],
@@ -9506,8 +9511,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-04T21:01:40.580953+00:00",
-  "LastChanged_Achievements": "2023-12-05T12:03:53.8994105+00:00",
+  "LastChanged_Achievements": "2023-12-05T13:10:15.5724281+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:05.1164011+00:00",
-  "LastUpdate_Ratings": "2023-12-05T12:00:33.2690194+00:00",
-  "LastUpdate_Achievements": "2023-12-05T12:03:53.8995683+00:00"
+  "LastUpdate_Ratings": "2023-12-05T13:06:54.2471053+00:00",
+  "LastUpdate_Achievements": "2023-12-05T13:10:15.5725121+00:00"
 }

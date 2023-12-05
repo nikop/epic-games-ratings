@@ -7,19 +7,19 @@ Rating: 4.54 (Ranked 529)
 | ---- | ---------- | ----- |
 | Whatever It Takes | 3.00% | ~1,679 |
 | Pork Chopped | 3.00% | ~1,679 |
-| Dr. Reed, I Presume? | 2.00% | ~14,608 |
-| Git Gutte! | 2.00% | ~14,608 |
-| Bookworm | 2.00% | ~14,608 |
-| Break A Leg | 2.00% | ~14,608 |
-| Coup de Grâce | 2.00% | ~14,608 |
-| Hazardous Materials | 2.00% | ~14,608 |
-| Friends Like These | 2.00% | ~14,608 |
-| Hotel California | 2.00% | ~14,608 |
-| Apex Predator | 2.00% | ~14,608 |
-| Stacking the Deck | 2.00% | ~14,608 |
-| Personal Assistant Personally Assisted | 2.00% | ~14,608 |
-| Welcome To Hell-A | 2.00% | ~14,608 |
-| One of Us | 2.00% | ~1,119 |
+| Dr. Reed, I Presume? | 2.00% | ~14,609 |
+| Git Gutte! | 2.00% | ~14,609 |
+| Bookworm | 2.00% | ~14,609 |
+| Break A Leg | 2.00% | ~14,609 |
+| Coup de Grâce | 2.00% | ~14,609 |
+| Hazardous Materials | 2.00% | ~14,609 |
+| Friends Like These | 2.00% | ~14,609 |
+| Hotel California | 2.00% | ~14,609 |
+| Apex Predator | 2.00% | ~14,609 |
+| Stacking the Deck | 2.00% | ~14,609 |
+| Personal Assistant Personally Assisted | 2.00% | ~14,609 |
+| Welcome To Hell-A | 2.00% | ~14,609 |
+| One of Us | 2.00% | ~1,120 |
 | Making Your Mark | 1.00% | ~7,304 |
 | Anger Management | 1.00% | ~7,304 |
 | Perks of the Job | 1.00% | ~7,304 |
@@ -41,10 +41,10 @@ Rating: 4.54 (Ranked 529)
 | Jumbo Keyring | 0.70% | ~5,113 |
 | Go, Bobcats! | 0.70% | ~5,113 |
 | Rising Star | 0.70% | ~5,113 |
-| On Safari | 0.60% | ~4,382 |
-| Smorgasbord | 0.60% | ~4,382 |
-| Internet Famous | 0.60% | ~4,382 |
-| Variety is the Spice of Death | 0.60% | ~4,382 |
+| On Safari | 0.60% | ~4,383 |
+| Smorgasbord | 0.60% | ~4,383 |
+| Internet Famous | 0.60% | ~4,383 |
+| Variety is the Spice of Death | 0.60% | ~4,383 |
 | Make it So | 0.50% | ~3,652 |
 | LA Influential | 0.40% | ~2,922 |
 | Sole Survivor | 0.40% | ~2,922 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 529)
 | Bucket List | 0.10% | ~730 |
 | Wilhelm | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 730,415 (Ranked 21)  
-Completed: 2,463 (0.34%) (Ranked 234)  
+Progressed: 730,435 (Ranked 21)  
+Completed: 2,463 (0.34%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -286,14 +286,14 @@ Completed: 2,463 (0.34%) (Ranked 234)
 | 2023-12-02 | 729,149 | 2,460 |
 | 2023-12-03 | 729,822 | 2,461 |
 | 2023-12-04 | 730,272 | 2,463 |
-| 2023-12-05 | 730,415 | 2,463 |
+| 2023-12-05 | 730,435 | 2,463 |
 ## Awards
-Max (Great Boss Battles): 7,915  (Ranked 49)  
-Sum: 12,151 (Ranked 82)  
+Max (Great Boss Battles): 7,943  (Ranked 49)  
+Sum: 12,179 (Ranked 82)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,915 |
+| This game has Great Boss Battles | 7,943 |
 | This game is Great for Beginners | 617 |
 | This game has Diverse Characters | 581 |
 | This game has Quickly Understood Controls | 547 |
@@ -533,4 +533,4 @@ Diff (max vs sum): -33
 | 2023-12-02 | 4.54 | 7,869 | 12,068 |
 | 2023-12-03 | 4.54 | 7,892 | 12,110 |
 | 2023-12-04 | 4.54 | 7,915 | 12,148 |
-| 2023-12-05 | 4.54 | 7,915 | 12,151 |
+| 2023-12-05 | 4.54 | 7,943 | 12,179 |

@@ -29,7 +29,7 @@
 | Breaking free | 9.00% | ~9 |
 | Sound Bite | 9.00% | ~9 |
 | Lights! Camera! Action! | 9.00% | ~9 |
-| Heavy Burden | 7.00% | ~7 |
+| Heavy Burden | 8.00% | ~8 |
 | Casting Finished | 6.00% | ~6 |
 | Fisherman | 5.00% | ~5 |
 | We Are Not Alone | 4.00% | ~4 |

@@ -1,20 +1,20 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.05 (Ranked 992)  
+Rating: 4.05 (Ranked 991)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,831 |
-| World Map | 78.00% | ~2,374 |
-| Temple of Eternals | 57.00% | ~1,735 |
-| Prestigious | 53.00% | ~1,613 |
-| Fellowship Power | 42.00% | ~1,278 |
+| Victor | 93.00% | ~2,833 |
+| World Map | 78.00% | ~2,376 |
+| Temple of Eternals | 57.00% | ~1,736 |
+| Prestigious | 54.00% | ~1,645 |
+| Fellowship Power | 42.00% | ~1,279 |
 | Guild Power | 24.00% | ~731 |
-| Prestigious x10 | 21.00% | ~639 |
+| Prestigious x10 | 21.00% | ~640 |
 | Full Party | 20.00% | ~609 |
-| The game is on | 19.00% | ~578 |
-| Exotic Merchant | 17.00% | ~517 |
+| The game is on | 19.00% | ~579 |
+| Exotic Merchant | 17.00% | ~518 |
 | Dragon Clicker | 16.00% | ~487 |
 | Inspection | 15.00% | ~457 |
 | Miner Clicker | 15.00% | ~457 |
@@ -22,12 +22,12 @@ Rating: 4.05 (Ranked 992)
 | Hero inspection | 14.00% | ~426 |
 | Dragon Master | 13.00% | ~396 |
 | Lieutenant | 13.00% | ~396 |
-| Natural Talent | 12.00% | ~365 |
-| Superior | 12.00% | ~365 |
-| The Unstoppable | 12.00% | ~365 |
+| Natural Talent | 12.00% | ~366 |
+| Superior | 12.00% | ~366 |
+| The Unstoppable | 12.00% | ~366 |
 | Milestone collector | 11.00% | ~335 |
 | Mysterious Rock | 11.00% | ~335 |
-| Scientist | 10.00% | ~304 |
+| Scientist | 10.00% | ~305 |
 | Challenger | 9.00% | ~274 |
 | Daily Quest Completionist | 9.00% | ~274 |
 | Doing My Part | 9.00% | ~274 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 992)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,044 (Ranked 212)  
+Progressed: 3,046 (Ranked 212)  
 Completed: 2 (0.07%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 2 (0.07%) (Ranked 307)
 | 2023-12-02 | 2,955 | 2 |
 | 2023-12-03 | 3,010 | 2 |
 | 2023-12-04 | 3,038 | 2 |
-| 2023-12-05 | 3,044 | 2 |
+| 2023-12-05 | 3,046 | 2 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 476)  
 Sum: 157 (Ranked 427)  

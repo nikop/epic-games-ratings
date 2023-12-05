@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 990)  
+Rating: 4.06 (Ranked 989)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of Champions | 0.10% | ~205 |
 | See You on the Flipside | 0.10% | ~205 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,485 (Ranked 65)  
+Progressed: 238,488 (Ranked 65)  
 Completed: 2,499 (1.05%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -768,7 +768,7 @@ Completed: 2,499 (1.05%) (Ranked 165)
 | 2023-12-02 | 238,082 | 2,494 |
 | 2023-12-03 | 238,298 | 2,495 |
 | 2023-12-04 | 238,433 | 2,498 |
-| 2023-12-05 | 238,485 | 2,499 |
+| 2023-12-05 | 238,488 | 2,499 |
 ## Awards
 Max (Great for Beginners): 5,593  (Ranked 70)  
 Sum: 32,729 (Ranked 41)  

@@ -2,7 +2,7 @@
   "ID": "5c82c05d2978489090d30c05e17e6e12",
   "Name": "EARTHLOCK",
   "ProductSlug": "earthlock-e7d979",
-  "Ranking_Rating": 981,
+  "Ranking_Rating": 991,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 106,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.07,
+  "Rating": 4.05,
   "RatingHistory": [
     {
       "Time": "2023-11-20T03:59:04.4319756+00:00",
@@ -149,15 +149,21 @@
       "Rating": 4.07,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-05T13:09:40.3184635+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63522,
+  "EOS_Progressed": 63536,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 4145,
+  "EOS_NewPlayers": 4135,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2405,6 +2411,11 @@
       "Time": "2023-12-05T12:04:32.7950892+00:00",
       "NumProgressed": 63522,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-05T13:10:53.9697544+00:00",
+      "NumProgressed": 63536,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -2417,7 +2428,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 23503
+      "UsersEstimate": 23508
     },
     {
       "ID": "Achievement_10",
@@ -2457,7 +2468,7 @@
       "Name": "Gardener of Lango",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "Achievement_15",
@@ -2505,7 +2516,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 17151
+      "UsersEstimate": 17155
     },
     {
       "ID": "Achievement_20",
@@ -2529,7 +2540,7 @@
       "Name": "Spiritualist of the Sands",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "Achievement_23",
@@ -2593,7 +2604,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 7623
+      "UsersEstimate": 7624
     },
     {
       "ID": "Achievement_30",
@@ -2641,7 +2652,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5082
+      "UsersEstimate": 5083
     },
     {
       "ID": "Achievement_5",
@@ -2649,7 +2660,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3811
+      "UsersEstimate": 3812
     },
     {
       "ID": "Achievement_6",
@@ -2665,7 +2676,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "Achievement_8",
@@ -2673,7 +2684,7 @@
       "Name": "House In Order",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "Achievement_9",
@@ -2688,16 +2699,16 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 63522,
+      "Progressed": 63536,
       "Completed": 57
     }
   ],
   "FirstSeen": "2023-11-16T18:57:39.5657505+00:00",
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
-  "LastChanged": "2023-12-04T17:03:16.430854+00:00",
-  "LastChanged_Achievements": "2023-12-05T12:04:32.7950889+00:00",
+  "LastChanged": "2023-12-05T13:09:40.3184633+00:00",
+  "LastChanged_Achievements": "2023-12-05T13:10:53.9697541+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:03:15.0842163+00:00",
-  "LastUpdate_Ratings": "2023-12-05T12:03:20.7701731+00:00",
-  "LastUpdate_Achievements": "2023-12-05T12:04:32.7951233+00:00"
+  "LastUpdate_Ratings": "2023-12-05T13:09:40.3184639+00:00",
+  "LastUpdate_Achievements": "2023-12-05T13:10:53.9697881+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "ID": "fb33c2ab660c4539a32576d5fd53f055",
   "Name": "Jade",
-  "Ranking_EOS_Progress": 779,
+  "Ranking_EOS_Progress": 780,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 473,
   "Ranking_EOS_NewCompleters": 125,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:57.6832495+00:00",
-  "LastUpdate_Ratings": "2023-12-05T11:59:13.9203163+00:00",
-  "LastUpdate_Achievements": "2023-12-05T12:08:57.1964487+00:00"
+  "LastUpdate_Ratings": "2023-12-05T13:05:36.22758+00:00",
+  "LastUpdate_Achievements": "2023-12-05T13:15:03.0632989+00:00"
 }

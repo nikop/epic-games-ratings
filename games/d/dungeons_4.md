@@ -42,7 +42,7 @@
 | Hungry, Hungry Gorgu! | 25.00% | ~132 |
 | The Finitude Drill | 24.00% | ~126 |
 | Doom Hill | 22.00% | ~116 |
-| Stop Tanos! | 20.00% | ~105 |
+| Stop Tanos! | 21.00% | ~111 |
 | Sabotage! | 20.00% | ~105 |
 | Brimstone Shaken, Not Stirred | 20.00% | ~105 |
 | Bonus Evilness | 17.00% | ~90 |
