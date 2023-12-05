@@ -235,6 +235,7 @@
 | [Disney Dreamlight Valley](../games/d/disney_dreamlight_valley.md) | 15 | 1,000 |
 | [Disney Speedstorm](../games/d/disney_speedstorm.md) | 24 | 1,000 |
 | [Dizzy Fight](../games/0/0e75b2d3188d42378ba82dccbfa48891.md) | 5 | 1,000 |
+| [DNF Duel](../games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 43 | 1,000 |
 | [Dodo Peak](../games/c/cea01263911a4e179a5e3892ef710930.md) | 17 | 1,000 |
 | [Dolmenjord - Viking Islands](../games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 11 | 1,000 |
 | [Dolphin Spirit - Ocean Mission](../games/d/dolphin_spirit_-_ocean_mission.md) | 32 | 1,000 |

@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 24.05% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 24.04% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -39,8 +39,8 @@
 | 37 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 38 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 39 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 10.71% |
-| 40 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 10.45% |
-| 41 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.33% |
+| 40 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.33% |
+| 41 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 10.29% |
 | 42 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.06% |
 | 43 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 43 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
@@ -263,11 +263,11 @@
 | 258 | [Shop Titans](games/s/shop_titans.md) | 0.20% |
 | 258 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.20% |
 | 258 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
-| 264 | [Blanc](games/b/blanc.md) | 0.19% |
 | 264 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.19% |
-| 266 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.18% |
-| 266 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.18% |
-| 266 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
+| 265 | [Blanc](games/b/blanc.md) | 0.18% |
+| 265 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.18% |
+| 265 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.18% |
+| 265 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
 | 269 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.17% |
 | 270 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 270 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
@@ -456,6 +456,7 @@
 | 368 | [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 0.00% |
 | 368 | [Dice Legacy](games/d/dice_legacy.md) | 0.00% |
 | 368 | [Dinobreak](games/5/59b1a57188fb429db7bf5afea8e70d88.md) | 0.00% |
+| 368 | [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 0.00% |
 | 368 | [Dolphin Spirit - Ocean Mission](games/d/dolphin_spirit_-_ocean_mission.md) | 0.00% |
 | 368 | [Don't Byte Your Tongue](games/d/don't_byte_your_tongue.md) | 0.00% |
 | 368 | [Dros](games/a/a46cade12846436281c910ddc51411f3.md) | 0.00% |
@@ -776,4 +777,4 @@
 | 368 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 368 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 368 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,660 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,663 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
