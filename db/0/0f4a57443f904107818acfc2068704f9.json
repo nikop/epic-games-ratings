@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 840,
+  "EOS_Progressed": 841,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
@@ -1792,6 +1792,11 @@
       "Time": "2023-12-04T23:06:10.5732185+00:00",
       "NumProgressed": 840,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-05T02:02:33.1159268+00:00",
+      "NumProgressed": 841,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1860,7 +1865,7 @@
       "Name": "Pathfinder",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "CompleteChapter10",
@@ -1876,7 +1881,7 @@
       "Name": "The Artefact is Mine",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "CompleteChapter12",
@@ -1948,7 +1953,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "CompleteChapter3",
@@ -2099,14 +2104,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 840,
+      "Progressed": 841,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-05T00:06:10.8615701+00:00",
+  "LastChanged_Achievements": "2023-12-05T02:02:33.1159263+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:09.4303292+00:00",
-  "LastUpdate_Ratings": "2023-12-04T23:59:46.9114522+00:00",
-  "LastUpdate_Achievements": "2023-12-05T00:06:10.8615979+00:00"
+  "LastUpdate_Ratings": "2023-12-05T01:53:20.6172345+00:00",
+  "LastUpdate_Achievements": "2023-12-05T02:02:33.1159591+00:00"
 }

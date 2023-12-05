@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 591,
+  "Ranking_Rating": 572,
   "Ranking_Popularity": 251,
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 124,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.5,
+  "Rating": 4.51,
   "RatingHistory": [
     {
       "Time": "2022-10-19T03:31:00.7496554+00:00",
@@ -3553,10 +3553,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2878,
       "NumberOfAwardsMax": 320
+    },
+    {
+      "Time": "2023-12-05T01:46:29.1659567+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 2880,
+      "NumberOfAwardsMax": 320
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2878,
+  "NumberOfAwards": 2880,
   "NumberOfAwardsMax": 320,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3588,7 +3594,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 277
+      "Count": 279
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3633,9 +3639,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31927,
+  "EOS_Progressed": 31929,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 252,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -21368,6 +21374,11 @@
       "Time": "2023-12-05T00:08:00.0714551+00:00",
       "NumProgressed": 31927,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-05T02:02:41.3013874+00:00",
+      "NumProgressed": 31929,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -21593,9 +21604,9 @@
       "ID": "Pesky_Jerks",
       "SetID": "819popo",
       "Name": "Pesky Jerks",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 639
+      "UsersEstimate": 958
     },
     {
       "ID": "Reckless",
@@ -21683,7 +21694,7 @@
       "Name": "Stylish",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2873
+      "UsersEstimate": 2874
     },
     {
       "ID": "Summoner",
@@ -21786,16 +21797,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31927,
+      "Progressed": 31929,
       "Completed": 69
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-12-04T02:21:22.3527028+00:00",
-  "LastChanged_Achievements": "2023-12-05T00:08:00.0714548+00:00",
+  "LastChanged": "2023-12-05T01:46:29.1659565+00:00",
+  "LastChanged_Achievements": "2023-12-05T02:02:41.301387+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:17.1930733+00:00",
-  "LastUpdate_Ratings": "2023-12-04T23:57:49.6653738+00:00",
-  "LastUpdate_Achievements": "2023-12-05T00:08:00.0715743+00:00"
+  "LastUpdate_Ratings": "2023-12-05T01:46:29.165957+00:00",
+  "LastUpdate_Achievements": "2023-12-05T02:02:41.3014796+00:00"
 }

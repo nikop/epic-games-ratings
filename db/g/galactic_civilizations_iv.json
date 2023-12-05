@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 300,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -871,10 +871,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 688,
       "NumberOfAwardsMax": 97
+    },
+    {
+      "Time": "2023-12-05T01:55:09.698109+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 689,
+      "NumberOfAwardsMax": 97
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 688,
+  "NumberOfAwards": 689,
   "NumberOfAwardsMax": 97,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -918,7 +924,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 89
+      "Count": 90
     },
     {
       "Text": "This game has Amazing Characters",
@@ -939,7 +945,7 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 7383,
+  "EOS_Progressed": 7384,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
@@ -8954,6 +8960,11 @@
       "Time": "2023-12-04T20:09:14.5106565+00:00",
       "NumProgressed": 7383,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-05T02:05:03.0454333+00:00",
+      "NumProgressed": 7384,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9021,7 +9032,7 @@
       "Name": "Pirate Cleansing",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "Destroy_Any_Faction",
@@ -9069,7 +9080,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5685
+      "UsersEstimate": 5686
     },
     {
       "ID": "First_Race_Met",
@@ -9085,7 +9096,7 @@
       "Name": "Design a Ship",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1993
+      "UsersEstimate": 1994
     },
     {
       "ID": "First_Stream_Travel",
@@ -9101,7 +9112,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5685
+      "UsersEstimate": 5686
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -9181,7 +9192,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2436
+      "UsersEstimate": 2437
     },
     {
       "ID": "Play_1000_Hours",
@@ -9453,7 +9464,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4799
+      "UsersEstimate": 4800
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -9493,7 +9504,7 @@
       "Name": "Win an Immense Game",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "Win_Influence",
@@ -9540,15 +9551,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7383,
+      "Progressed": 7384,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
-  "LastChanged": "2023-12-04T20:00:37.9539461+00:00",
-  "LastChanged_Achievements": "2023-12-05T00:09:04.2185606+00:00",
+  "LastChanged": "2023-12-05T01:55:09.6981089+00:00",
+  "LastChanged_Achievements": "2023-12-05T02:05:03.0454326+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:22.8362699+00:00",
-  "LastUpdate_Ratings": "2023-12-05T00:00:03.3483413+00:00",
-  "LastUpdate_Achievements": "2023-12-05T00:09:04.2186383+00:00"
+  "LastUpdate_Ratings": "2023-12-05T01:55:09.6981094+00:00",
+  "LastUpdate_Achievements": "2023-12-05T02:05:03.0455192+00:00"
 }

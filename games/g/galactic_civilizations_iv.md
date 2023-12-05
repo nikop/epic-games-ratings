@@ -6,17 +6,17 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 77.00% | ~5,685 |
-| Worker Specialization | 77.00% | ~5,685 |
+| Colonize a Planet | 77.00% | ~5,686 |
+| Worker Specialization | 77.00% | ~5,686 |
 | First Contact | 72.00% | ~5,316 |
-| Win a Battle | 65.00% | ~4,799 |
+| Win a Battle | 65.00% | ~4,800 |
 | Anomaly Researcher | 61.00% | ~4,504 |
 | Unleash My Power | 60.00% | ~4,430 |
-| Own 30 Planets | 33.00% | ~2,436 |
+| Own 30 Planets | 33.00% | ~2,437 |
 | Xenocide | 31.00% | ~2,289 |
 | Design a Civilization | 31.00% | ~2,289 |
 | Commodity Trader | 29.00% | ~2,141 |
-| Design a Ship | 27.00% | ~1,993 |
+| Design a Ship | 27.00% | ~1,994 |
 | Commodity Seller | 24.00% | ~1,772 |
 | Prestige Victory! | 13.00% | ~960 |
 | Galactic War | 10.00% | ~738 |
@@ -28,8 +28,8 @@ Number of Ratings: 429  (23.09.2022)
 | War with the Unknown | 5.00% | ~369 |
 | Conquest Victory! | 4.00% | ~295 |
 | Win Quickly | 4.00% | ~295 |
-| Pirate Cleansing | 3.00% | ~221 |
-| Win an Immense Game | 3.00% | ~221 |
+| Pirate Cleansing | 3.00% | ~222 |
+| Win an Immense Game | 3.00% | ~222 |
 | Artifact Mastery | 2.00% | ~148 |
 | Win as Altarians | 2.00% | ~148 |
 | Win as the Yor | 2.00% | ~148 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,383 (Ranked 179)  
+Progressed: 7,384 (Ranked 179)  
 Completed: 0 (0.00%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,14 +308,15 @@ Completed: 0 (0.00%) (Ranked 368)
 | 2023-12-02 | 7,375 | 0 |
 | 2023-12-03 | 7,380 | 0 |
 | 2023-12-04 | 7,383 | 0 |
+| 2023-12-05 | 7,384 | 0 |
 ## Awards
 Max (Diverse Characters): 97  (Ranked 369)  
-Sum: 688 (Ranked 300)  
+Sum: 689 (Ranked 300)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 97 |
-| This game is Relaxing | 89 |
+| This game is Relaxing | 90 |
 | This game is Highly Recommended | 87 |
 | This game has Quickly Understood Controls | 86 |
 | This game is Extremely Fun | 82 |
@@ -442,3 +443,4 @@ Diff (max vs sum): 69
 | 2023-11-21 | 4.17 | - | 97 | 685 |
 | 2023-11-24 | 4.17 | - | 97 | 686 |
 | 2023-12-04 | 4.17 | - | 97 | 688 |
+| 2023-12-05 | 4.17 | - | 97 | 689 |

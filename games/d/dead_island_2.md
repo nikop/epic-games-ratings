@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,675 |
-| Pork Chopped | 3.00% | ~1,675 |
+| Whatever It Takes | 3.00% | ~1,676 |
+| Pork Chopped | 3.00% | ~1,676 |
 | Dr. Reed, I Presume? | 2.00% | ~14,606 |
 | Git Gutte! | 2.00% | ~14,606 |
 | Bookworm | 2.00% | ~14,606 |
@@ -45,7 +45,7 @@ Rating: 4.54 (Ranked 529)
 | Smorgasbord | 0.60% | ~4,382 |
 | Internet Famous | 0.60% | ~4,382 |
 | Variety is the Spice of Death | 0.60% | ~4,382 |
-| Make it So | 0.50% | ~3,651 |
+| Make it So | 0.50% | ~3,652 |
 | LA Influential | 0.40% | ~2,921 |
 | Gore Horse | 0.40% | ~2,921 |
 | Top That, Tisha! | 0.40% | ~223 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 529)
 | Bucket List | 0.10% | ~730 |
 | Wilhelm | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 730,289 (Ranked 21)  
+Progressed: 730,315 (Ranked 21)  
 Completed: 2,463 (0.34%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,10 +286,10 @@ Completed: 2,463 (0.34%) (Ranked 234)
 | 2023-12-02 | 729,149 | 2,460 |
 | 2023-12-03 | 729,822 | 2,461 |
 | 2023-12-04 | 730,272 | 2,463 |
-| 2023-12-05 | 730,289 | 2,463 |
+| 2023-12-05 | 730,315 | 2,463 |
 ## Awards
 Max (Great Boss Battles): 7,915  (Ranked 49)  
-Sum: 12,148 (Ranked 82)  
+Sum: 12,151 (Ranked 82)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -301,7 +301,7 @@ Diff (max vs sum): -33
 | This game has Amazing Storytelling | 510 |
 | This game is Extremely Fun | 499 |
 | This game is Highly Recommended | 494 |
-| This game has Amazing Characters | 459 |
+| This game has Amazing Characters | 462 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -533,3 +533,4 @@ Diff (max vs sum): -33
 | 2023-12-02 | 4.54 | 7,869 | 12,068 |
 | 2023-12-03 | 4.54 | 7,892 | 12,110 |
 | 2023-12-04 | 4.54 | 7,915 | 12,148 |
+| 2023-12-05 | 4.54 | 7,915 | 12,151 |

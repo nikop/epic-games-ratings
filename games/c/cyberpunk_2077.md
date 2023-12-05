@@ -6,39 +6,39 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,402 |
-| Gun Fu | 7.00% | ~67,901 |
-| The Fool | 6.00% | ~58,201 |
-| Right Back At Ya | 5.00% | ~48,501 |
-| The Lovers | 4.00% | ~38,801 |
-| Full Body Conversion | 3.00% | ~29,101 |
-| Stanislavski's Method | 3.00% | ~29,101 |
-| The Wheel of Fortune | 3.00% | ~29,101 |
-| True Soldier | 3.00% | ~29,101 |
-| Christmas Tree Attack | 2.00% | ~19,400 |
-| The Quick and the Dead | 2.00% | ~19,400 |
-| Life of the Road | 2.00% | ~19,400 |
-| The Hermit | 2.00% | ~19,400 |
-| The High Priestess | 2.00% | ~19,400 |
-| True Warrior | 2.00% | ~19,400 |
-| Legend of The Afterlife | 2.00% | ~19,400 |
-| Relic Ruler | 2.00% | ~1,973 |
-| All the President's Men | 2.00% | ~1,973 |
-| Arachnophobia | 2.00% | ~1,973 |
-| Bushido and Chill | 1.00% | ~9,700 |
-| Master Crafter | 1.00% | ~9,700 |
-| I Am The Law | 1.00% | ~9,700 |
-| The World | 1.00% | ~9,700 |
-| Two Heads, One Bullet | 1.00% | ~9,700 |
-| Judy vs Night City | 1.00% | ~9,700 |
-| To Protect and Serve | 0.90% | ~8,730 |
+| V for Vendetta | 12.00% | ~116,408 |
+| Gun Fu | 7.00% | ~67,905 |
+| The Fool | 6.00% | ~58,204 |
+| Right Back At Ya | 5.00% | ~48,503 |
+| The Lovers | 4.00% | ~38,803 |
+| Full Body Conversion | 3.00% | ~29,102 |
+| Stanislavski's Method | 3.00% | ~29,102 |
+| The Wheel of Fortune | 3.00% | ~29,102 |
+| True Soldier | 3.00% | ~29,102 |
+| Christmas Tree Attack | 2.00% | ~19,401 |
+| The Quick and the Dead | 2.00% | ~19,401 |
+| Life of the Road | 2.00% | ~19,401 |
+| The Hermit | 2.00% | ~19,401 |
+| The High Priestess | 2.00% | ~19,401 |
+| True Warrior | 2.00% | ~19,401 |
+| Legend of The Afterlife | 2.00% | ~19,401 |
+| Relic Ruler | 2.00% | ~1,974 |
+| All the President's Men | 2.00% | ~1,974 |
+| Arachnophobia | 2.00% | ~1,974 |
+| Bushido and Chill | 1.00% | ~9,701 |
+| Master Crafter | 1.00% | ~9,701 |
+| I Am The Law | 1.00% | ~9,701 |
+| The World | 1.00% | ~9,701 |
+| Two Heads, One Bullet | 1.00% | ~9,701 |
+| Judy vs Night City | 1.00% | ~9,701 |
+| To Protect and Serve | 0.90% | ~8,731 |
 | Spin Doctor | 0.90% | ~888 |
 | The Wandering Fool | 0.70% | ~6,790 |
-| King of Wands | 0.70% | ~690 |
-| Easy Come, Easy Go | 0.70% | ~690 |
+| King of Wands | 0.70% | ~691 |
+| Easy Come, Easy Go | 0.70% | ~691 |
+| Ten out of Ten | 0.60% | ~5,820 |
 | Dirty Deeds | 0.60% | ~592 |
 | To Bad Decisions! | 0.50% | ~4,850 |
-| Ten out of Ten | 0.50% | ~4,850 |
 | The Star | 0.50% | ~4,850 |
 | The Sun | 0.50% | ~4,850 |
 | Breathtaking | 0.40% | ~3,880 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 970,018 (Ranked 15)  
+Progressed: 970,067 (Ranked 15)  
 Completed: 2,843 (0.29%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 2,843 (0.29%) (Ranked 240)
 | 2023-12-02 | 967,833 | 2,836 |
 | 2023-12-03 | 969,229 | 2,839 |
 | 2023-12-04 | 970,004 | 2,843 |
-| 2023-12-05 | 970,018 | 2,843 |
+| 2023-12-05 | 970,067 | 2,843 |
 ## Awards
 Max (Character Customization): 116,208  (Ranked 9)  
 Sum: 387,763 (Ranked 9)  

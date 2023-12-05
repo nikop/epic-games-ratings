@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -244,9 +244,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 41497,
+  "EOS_Progressed": 41504,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 387,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -25104,6 +25104,11 @@
       "Time": "2023-12-04T23:03:53.4961161+00:00",
       "NumProgressed": 41497,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-05T02:00:15.3651887+00:00",
+      "NumProgressed": 41504,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 29,
@@ -25115,7 +25120,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6225
+      "UsersEstimate": 6226
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -25123,7 +25128,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8714
+      "UsersEstimate": 8716
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -25131,7 +25136,7 @@
       "Name": "Start As You Mean To Go On",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_05_DEFEATED_THORN_BEAST",
@@ -25147,7 +25152,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -25163,7 +25168,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -25195,7 +25200,7 @@
       "Name": "Four Legged Friend",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_13_DEFEATED_WEREBEAST",
@@ -25211,7 +25216,7 @@
       "Name": "Oh God, Mother! Blood! Blood!",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
@@ -25291,7 +25296,7 @@
       "Name": "Hail the Great Horned Metal God!",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -25299,7 +25304,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -25307,7 +25312,7 @@
       "Name": "Vroll With It",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_27_VROLL_QUICK_KILL",
@@ -25315,7 +25320,7 @@
       "Name": "Swift of Foot, Keen of Blade",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_28_FINISHED_GAME_NO_MANA_USE",
@@ -25323,7 +25328,7 @@
       "Name": "Too Metal For Magic",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_29_FINISHED_GAME_NO_DEATHS",
@@ -25331,7 +25336,7 @@
       "Name": "Heart Of Steel",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_30_FINISHED_HARDCORE_MODE",
@@ -25339,14 +25344,14 @@
       "Name": "Death or Glory",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     }
   ],
   "AchievementSets": [
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 41497,
+      "Progressed": 41504,
       "Completed": 28
     }
   ],
@@ -25354,8 +25359,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-02T18:57:45.107059+00:00",
-  "LastChanged_Achievements": "2023-12-05T00:03:50.25371+00:00",
+  "LastChanged_Achievements": "2023-12-05T02:00:15.3651879+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:11.7949704+00:00",
-  "LastUpdate_Ratings": "2023-12-04T23:58:23.1069711+00:00",
-  "LastUpdate_Achievements": "2023-12-05T00:03:50.2538632+00:00"
+  "LastUpdate_Ratings": "2023-12-05T01:47:02.0315935+00:00",
+  "LastUpdate_Achievements": "2023-12-05T02:00:15.3653222+00:00"
 }

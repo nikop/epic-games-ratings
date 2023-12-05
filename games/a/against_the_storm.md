@@ -6,16 +6,17 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Overgrown Library | 3.00% | ~528 |
 | Abandoned Settlement | 2.00% | ~352 |
 | Frosts | 2.00% | ~352 |
 | Land of Greed | 2.00% | ~352 |
-| Overgrown Library | 2.00% | ~352 |
 | Petrified Necropolis | 2.00% | ~352 |
 | Ominous Presence | 2.00% | ~352 |
 | Gathering Storm | 2.00% | ~352 |
 | Untamed Wilds | 1.00% | ~176 |
 | First Real Expedition | 0.30% | ~53 |
 | Overcoming Difficulty | 0.30% | ~53 |
+| Watchtower | 0.30% | ~53 |
 | The Marshlands | 0.30% | ~53 |
 | Taking Action | 0.30% | ~53 |
 | No Deaths | 0.30% | ~53 |
@@ -24,8 +25,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fertile Meadows | 0.20% | ~35 |
 | Monastery of the Holy Flame | 0.20% | ~35 |
 | Royal Outpost | 0.20% | ~35 |
+| Lost Colonies | 0.20% | ~35 |
+| Statue of the Forefathers | 0.20% | ~35 |
 | Corrosive Torrent | 0.20% | ~35 |
-| Watchtower | 0.20% | ~35 |
 | Coral Forest | 0.20% | ~35 |
 | The Scarlet Orchard | 0.20% | ~35 |
 | Trade Baron | 0.20% | ~35 |
@@ -50,8 +52,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Haunted Forest | 0.10% | ~18 |
 | Levitating Monument | 0.10% | ~18 |
 | Flooded Mines | 0.10% | ~18 |
-| Lost Colonies | 0.10% | ~18 |
-| Statue of the Forefathers | 0.10% | ~18 |
 | Forsaken Gods Temple | 0.10% | ~18 |
 | Cursed Lands | 0.10% | ~18 |
 | Prestigious Expedition | 0.10% | ~18 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.00% | ~0 |
 | Treasure | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,605 (Ranked 146)  
+Progressed: 17,606 (Ranked 146)  
 Completed: 49 (0.28%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,6 +295,7 @@ Completed: 49 (0.28%) (Ranked 244)
 | 2023-12-02 | 17,567 | 49 |
 | 2023-12-03 | 17,585 | 49 |
 | 2023-12-04 | 17,605 | 49 |
+| 2023-12-05 | 17,606 | 49 |
 ## Awards
 Max (Quickly Understood Controls): 441  (Ranked 223)  
 Sum: 3,242 (Ranked 173)  

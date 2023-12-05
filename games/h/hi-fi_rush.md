@@ -7,20 +7,20 @@ Rating: 4.87 (Ranked 24)
 | ---- | ---------- | ----- |
 | Start with a bang! | 19.00% | ~850 |
 | Feeling the beat! | 19.00% | ~850 |
-| You can pet the cat! | 18.00% | ~805 |
+| You can pet the cat! | 18.00% | ~806 |
 | Who put gears in there? | 17.00% | ~761 |
 | Cream of the Crop | 16.00% | ~716 |
 | Thanks for the free chip, Peppermint! | 15.00% | ~671 |
 | You got this, Peppermint? | 15.00% | ~671 |
-| Perfect Parry | 14.00% | ~626 |
-| Alright, that felt AWESOME! | 14.00% | ~626 |
+| Perfect Parry | 14.00% | ~627 |
+| Alright, that felt AWESOME! | 13.00% | ~582 |
 | This will cost you big time | 12.00% | ~537 |
 | I play my own way! | 12.00% | ~537 |
 | Z-shielding's got nothing on us! | 12.00% | ~537 |
 | Uh, they were broken when I got here | 12.00% | ~537 |
 | Kissing the sky! | 11.00% | ~492 |
-| The Negotiator | 10.00% | ~447 |
-| Whoa! There's ANOTHER health bar!? | 10.00% | ~447 |
+| The Negotiator | 10.00% | ~448 |
+| Whoa! There's ANOTHER health bar!? | 10.00% | ~448 |
 | Headliner | 9.00% | ~403 |
 | Time to pay up! | 9.00% | ~403 |
 | You must like calling me in, Chai | 9.00% | ~403 |
@@ -28,9 +28,9 @@ Rating: 4.87 (Ranked 24)
 | I look cool. But I can look COOLER. | 9.00% | ~403 |
 | Does that say weakpoint? | 9.00% | ~403 |
 | Who's the boss now? | 8.00% | ~358 |
+| I have to read these things? | 8.00% | ~358 |
 | Perfecter Parry-er! | 8.00% | ~358 |
 | NOW we got a kickass hideout! | 8.00% | ~240 |
-| I have to read these things? | 7.00% | ~313 |
 | Well that was a rush! | 5.00% | ~224 |
 | Beat-hit mania | 5.00% | ~224 |
 | That's a lot of junk metal… | 5.00% | ~224 |
@@ -39,12 +39,12 @@ Rating: 4.87 (Ranked 24)
 | Wanna hear my playlist? | 3.00% | ~134 |
 | I told you I'd be fine, Peppermint! | 3.00% | ~134 |
 | Check out my moves! | 3.00% | ~134 |
-| I think I deserve some praise, here! | 2.00% | ~89 |
-| I think I found your calling, Macaron | 2.00% | ~89 |
-| This is a breeze! | 2.00% | ~89 |
-| We're Jammin' | 2.00% | ~89 |
-| First we parry, then we counter | 2.00% | ~89 |
-| I hit things with a guitar really well. | 2.00% | ~89 |
+| I think I deserve some praise, here! | 2.00% | ~90 |
+| I think I found your calling, Macaron | 2.00% | ~90 |
+| This is a breeze! | 2.00% | ~90 |
+| We're Jammin' | 2.00% | ~90 |
+| First we parry, then we counter | 2.00% | ~90 |
+| I hit things with a guitar really well. | 2.00% | ~90 |
 | Call me Turbo Chai | 2.00% | ~60 |
 | OK, well THEY came after ME! | 1.00% | ~45 |
 | I'm not done with you yet | 1.00% | ~45 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,474 (Ranked 194)  
+Progressed: 4,475 (Ranked 194)  
 Completed: 8 (0.18%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,6 +296,7 @@ Completed: 8 (0.18%) (Ranked 266)
 | 2023-12-02 | 4,456 | 8 |
 | 2023-12-03 | 4,464 | 8 |
 | 2023-12-04 | 4,474 | 8 |
+| 2023-12-05 | 4,475 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

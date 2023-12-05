@@ -3,11 +3,11 @@
   "Name": "Cave Story\u002B",
   "ProductSlug": "cave-story-plus",
   "Ranking_Rating": 231,
-  "Ranking_Popularity": 344,
-  "Ranking_PopularitySum": 440,
+  "Ranking_Popularity": 343,
+  "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 778,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 481,
+  "Ranking_EOS_NewPlayers": 482,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-12-03T16:00:00+00:00",
@@ -649,18 +649,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 118,
       "NumberOfAwardsMax": 118
+    },
+    {
+      "Time": "2023-12-05T01:50:26.6579281+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 119,
+      "NumberOfAwardsMax": 119
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 118,
-  "NumberOfAwardsMax": 118,
+  "NumberOfAwards": 119,
+  "NumberOfAwardsMax": 119,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 118
+      "Count": 119
     }
   ],
   "EOS_Progressed": 0,
@@ -674,8 +680,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:31.2539727+00:00",
-  "LastChanged": "2023-12-02T01:40:41.2783445+00:00",
+  "LastChanged": "2023-12-05T01:50:26.6579279+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:45.034978+00:00",
-  "LastUpdate_Ratings": "2023-12-04T23:59:16.4248715+00:00",
-  "LastUpdate_Achievements": "2023-12-05T00:03:37.7438503+00:00"
+  "LastUpdate_Ratings": "2023-12-05T01:50:26.6579285+00:00",
+  "LastUpdate_Achievements": "2023-12-05T02:00:03.4487837+00:00"
 }

@@ -5,30 +5,30 @@ Rating: 4.18 (Ranked 936)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~38,840 |
-| Har, Har, Har, Very Funny | 34.00% | ~26,412 |
-| Loose Ends | 33.00% | ~25,635 |
-| To the Victor Go the Spoils | 28.00% | ~21,751 |
-| Knighthood | 27.00% | ~20,974 |
-| Get ReQ'd | 25.00% | ~19,420 |
-| Whispered Words | 24.00% | ~18,643 |
-| The Batman Family | 22.00% | ~17,090 |
-| Lock and Key | 22.00% | ~17,090 |
-| Something in the Clay | 21.00% | ~16,313 |
-| Quartzer Life Crisis | 20.00% | ~15,536 |
-| Working Hard or Harley Working? | 20.00% | ~15,536 |
-| Unstoppable Force | 20.00% | ~15,536 |
-| Bad Apples in Every Orchard | 20.00% | ~15,536 |
-| Snow Problem | 19.00% | ~14,759 |
+| First Step Into the Knight | 50.00% | ~38,842 |
+| Har, Har, Har, Very Funny | 34.00% | ~26,413 |
+| Loose Ends | 33.00% | ~25,636 |
+| To the Victor Go the Spoils | 28.00% | ~21,752 |
+| Knighthood | 27.00% | ~20,975 |
+| Get ReQ'd | 25.00% | ~19,421 |
+| Whispered Words | 24.00% | ~18,644 |
+| The Batman Family | 22.00% | ~17,091 |
+| Lock and Key | 22.00% | ~17,091 |
+| Something in the Clay | 21.00% | ~16,314 |
+| Quartzer Life Crisis | 20.00% | ~15,537 |
+| Working Hard or Harley Working? | 20.00% | ~15,537 |
+| Unstoppable Force | 20.00% | ~15,537 |
+| Bad Apples in Every Orchard | 20.00% | ~15,537 |
+| Snow Problem | 19.00% | ~14,760 |
 | The Show Mud Go On | 18.00% | ~13,983 |
 | From Inside Gotham's Walls | 18.00% | ~13,983 |
 | Protector of Gotham | 17.00% | ~13,206 |
-| Universal Health Scare | 16.00% | ~12,429 |
-| In Your Element | 15.00% | ~11,652 |
-| Voiceless | 15.00% | ~11,652 |
-| Rock and a Hard Place | 14.00% | ~10,875 |
-| Cooldown | 14.00% | ~10,875 |
-| Seeking Asylum | 14.00% | ~10,875 |
+| Universal Health Scare | 16.00% | ~12,430 |
+| In Your Element | 15.00% | ~11,653 |
+| Voiceless | 15.00% | ~11,653 |
+| Rock and a Hard Place | 14.00% | ~10,876 |
+| Cooldown | 14.00% | ~10,876 |
+| Seeking Asylum | 14.00% | ~10,876 |
 | Not On My Watch | 13.00% | ~10,099 |
 | Shock Til They Drop | 13.00% | ~10,099 |
 | End of an Era | 12.00% | ~9,322 |
@@ -36,15 +36,15 @@ Rating: 4.18 (Ranked 936)
 | Gotham Knight | 12.00% | ~9,322 |
 | Gotham City Confidential | 11.00% | ~8,545 |
 | Drone You Out | 10.00% | ~7,768 |
-| Out of Their League | 9.00% | ~6,991 |
-| Solid Alibi | 9.00% | ~6,991 |
+| Out of Their League | 9.00% | ~6,992 |
+| Solid Alibi | 9.00% | ~6,992 |
 | Fusion Expert | 7.00% | ~5,438 |
 | Family Meeting | 6.00% | ~4,661 |
 | A Worthy Successor | 6.00% | ~4,661 |
 | Expert Crime Fighter | 5.00% | ~3,884 |
 | Dressed to Impress | 4.00% | ~3,107 |
-| A Momentum Occasion | 3.00% | ~2,330 |
-| Bat Out of Hell | 3.00% | ~2,330 |
+| A Momentum Occasion | 3.00% | ~2,331 |
+| Bat Out of Hell | 3.00% | ~2,331 |
 | Practice Makes Perfect | 2.00% | ~1,554 |
 | He'd Be So Proud of You | 2.00% | ~1,554 |
 | Talonted | 1.00% | ~777 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 936)
 | Element of Surprise | 0.20% | ~96 |
 | It's Nice to Be Wanted | 0.20% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,681 (Ranked 99)  
+Progressed: 77,685 (Ranked 99)  
 Completed: 124 (0.16%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,10 +296,10 @@ Completed: 124 (0.16%) (Ranked 270)
 | 2023-12-02 | 77,577 | 124 |
 | 2023-12-03 | 77,643 | 124 |
 | 2023-12-04 | 77,678 | 124 |
-| 2023-12-05 | 77,681 | 124 |
+| 2023-12-05 | 77,685 | 124 |
 ## Awards
 Max (Great Boss Battles): 2,991  (Ranked 98)  
-Sum: 5,108 (Ranked 140)  
+Sum: 5,109 (Ranked 140)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
@@ -309,8 +309,8 @@ Diff (max vs sum): -42
 | This game is Relaxing | 267 |
 | This game has Quickly Understood Controls | 265 |
 | This game is Great for Beginners | 265 |
+| This game is Highly Recommended | 262 |
 | This game has Amazing Characters | 261 |
-| This game is Highly Recommended | 261 |
 | This game has Amazing Storytelling | 260 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
@@ -599,3 +599,4 @@ Diff (max vs sum): -42
 | 2023-12-02 | 4.18 | 2,987 | 5,097 |
 | 2023-12-03 | 4.18 | 2,989 | 5,101 |
 | 2023-12-04 | 4.18 | 2,991 | 5,108 |
+| 2023-12-05 | 4.18 | 2,991 | 5,109 |

@@ -389,9 +389,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 324048,
+  "EOS_Progressed": 324084,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4017,
+  "EOS_NewPlayers": 4009,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8414,6 +8414,11 @@
       "Time": "2023-12-05T00:05:55.379246+00:00",
       "NumProgressed": 324048,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-05T02:02:18.1328191+00:00",
+      "NumProgressed": 324084,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -8424,9 +8429,9 @@
       "ID": "S01_DCKA",
       "SetID": "4j44ol8",
       "Name": "May the Torchbearer light our way",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6481
+      "UsersEstimate": 9723
     },
     {
       "ID": "S02_BRDA",
@@ -8434,7 +8439,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6481
+      "UsersEstimate": 6482
     },
     {
       "ID": "S03_OTWA",
@@ -8442,7 +8447,7 @@
       "Name": "Rumors are true",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 1944
+      "UsersEstimate": 1945
     },
     {
       "ID": "S04_BRDC",
@@ -8562,7 +8567,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9721
+      "UsersEstimate": 9723
     },
     {
       "ID": "S19_CHALLENGES",
@@ -8618,7 +8623,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1944
+      "UsersEstimate": 1945
     },
     {
       "ID": "S26_CRTA",
@@ -8650,7 +8655,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2268
+      "UsersEstimate": 2269
     },
     {
       "ID": "S30_DIAMOND",
@@ -8738,14 +8743,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2916
+      "UsersEstimate": 2917
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 324048,
+      "Progressed": 324084,
       "Completed": 4
     }
   ],
@@ -8753,8 +8758,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-02T08:58:54.6895718+00:00",
-  "LastChanged_Achievements": "2023-12-05T00:05:55.3792457+00:00",
+  "LastChanged_Achievements": "2023-12-05T02:02:18.1328184+00:00",
   "LastUpdate_AppInfo": "2023-11-30T19:57:08.777578+00:00",
-  "LastUpdate_Ratings": "2023-12-04T23:59:33.2158519+00:00",
-  "LastUpdate_Achievements": "2023-12-05T00:05:55.3793155+00:00"
+  "LastUpdate_Ratings": "2023-12-05T01:52:16.3429013+00:00",
+  "LastUpdate_Achievements": "2023-12-05T02:02:18.1328873+00:00"
 }

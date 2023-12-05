@@ -13,6 +13,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 5.00% | ~782 |
 | Architect | 5.00% | ~782 |
 | Intrepid | 5.00% | ~782 |
+| Enlightened | 4.00% | ~626 |
 | Glorious | 4.00% | ~626 |
 | Good | 4.00% | ~626 |
 | Just | 4.00% | ~626 |
@@ -32,7 +33,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambitious | 3.00% | ~469 |
 | Drillmaster | 3.00% | ~469 |
 | Brilliant | 3.00% | ~469 |
-| Enlightened | 3.00% | ~469 |
 | Fountainhead | 3.00% | ~469 |
 | Magnificent | 3.00% | ~469 |
 | Wise | 3.00% | ~469 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,638 (Ranked 152)  
+Progressed: 15,639 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -578,9 +578,10 @@ Completed: 5 (0.03%) (Ranked 330)
 | 2023-12-02 | 15,604 | 5 |
 | 2023-12-03 | 15,619 | 5 |
 | 2023-12-04 | 15,638 | 5 |
+| 2023-12-05 | 15,639 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
-Sum: 1,888 (Ranked 220)  
+Sum: 1,889 (Ranked 220)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
@@ -589,7 +590,7 @@ Diff (max vs sum): 54
 | This game is Highly Recommended | 219 |
 | This game is Extremely Fun | 216 |
 | This game is Educational | 212 |
-| This game has Challenging Combat | 204 |
+| This game has Challenging Combat | 205 |
 | This game has Amazing Characters | 198 |
 | This game has Quickly Understood Controls | 195 |
 | This game has Amazing Storytelling | 195 |
@@ -769,3 +770,4 @@ Diff (max vs sum): 54
 | 2023-12-02 | 4.65 | - | 228 | 1,884 |
 | 2023-12-03 | 4.65 | - | 228 | 1,885 |
 | 2023-12-04 | 4.65 | - | 228 | 1,888 |
+| 2023-12-05 | 4.65 | - | 228 | 1,889 |

@@ -8562,10 +8562,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 51074,
       "NumberOfAwardsMax": 6475
+    },
+    {
+      "Time": "2023-12-05T01:52:31.6436539+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 51075,
+      "NumberOfAwardsMax": 6475
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 51074,
+  "NumberOfAwards": 51075,
   "NumberOfAwardsMax": 6475,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -8621,7 +8627,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5588
+      "Count": 5589
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8636,9 +8642,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 477176,
+  "EOS_Progressed": 477177,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 364,
+  "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31766,6 +31772,11 @@
       "Time": "2023-12-05T00:03:17.9871896+00:00",
       "NumProgressed": 477176,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-12-05T01:59:44.3862811+00:00",
+      "NumProgressed": 477177,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -31921,7 +31932,7 @@
       "Name": "Beating Expectations",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 71576
+      "UsersEstimate": 71577
     },
     {
       "ID": "achievement_big_win",
@@ -31977,7 +31988,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 90663
+      "UsersEstimate": 90664
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -32065,7 +32076,7 @@
       "Name": "Attack!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 133609
+      "UsersEstimate": 133610
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -32097,7 +32108,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 195642
+      "UsersEstimate": 195643
     },
     {
       "ID": "achievement_head_to_head",
@@ -32153,7 +32164,7 @@
       "Name": "Top Of The Class",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 109750
+      "UsersEstimate": 109751
     },
     {
       "ID": "achievement_manager_of_the_year",
@@ -32209,7 +32220,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 152696
+      "UsersEstimate": 152697
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -32281,7 +32292,7 @@
       "Name": "Record Signing",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 152696
+      "UsersEstimate": 152697
     },
     {
       "ID": "achievement_rushed_signing",
@@ -32321,7 +32332,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 229044
+      "UsersEstimate": 229045
     },
     {
       "ID": "achievement_signed_a_player",
@@ -32337,7 +32348,7 @@
       "Name": "Goal Machine",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 109750
+      "UsersEstimate": 109751
     },
     {
       "ID": "achievement_unbeaten_host_in_fantasy_draft",
@@ -32393,7 +32404,7 @@
       "Name": "Window Shopping",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 71576
+      "UsersEstimate": 71577
     },
     {
       "ID": "achievement_won_20_cup_competitions",
@@ -32560,15 +32571,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 477176,
+      "Progressed": 477177,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
-  "LastChanged": "2023-12-04T15:00:02.045003+00:00",
-  "LastChanged_Achievements": "2023-12-05T00:03:17.9871892+00:00",
+  "LastChanged": "2023-12-05T01:52:31.6436537+00:00",
+  "LastChanged_Achievements": "2023-12-05T01:59:44.3862807+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:55.7278708+00:00",
-  "LastUpdate_Ratings": "2023-12-04T23:59:37.0997077+00:00",
-  "LastUpdate_Achievements": "2023-12-05T00:03:17.9873488+00:00"
+  "LastUpdate_Ratings": "2023-12-05T01:52:31.6436546+00:00",
+  "LastUpdate_Achievements": "2023-12-05T01:59:44.3864998+00:00"
 }

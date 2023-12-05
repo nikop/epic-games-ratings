@@ -4,10 +4,10 @@
   "ProductSlug": "south-park-the-fractured-but-whole",
   "Ranking_Rating": 44,
   "Ranking_Popularity": 310,
-  "Ranking_PopularitySum": 421,
+  "Ranking_PopularitySum": 420,
   "Ranking_EOS_Progress": 778,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 481,
+  "Ranking_EOS_NewPlayers": 482,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2017-10-16T10:00:00+00:00",
@@ -766,18 +766,24 @@
       "Rating": 4.85,
       "NumberOfAwards": 167,
       "NumberOfAwardsMax": 167
+    },
+    {
+      "Time": "2023-12-05T01:50:32.3321064+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 168,
+      "NumberOfAwardsMax": 168
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 167,
-  "NumberOfAwardsMax": 167,
+  "NumberOfAwards": 168,
+  "NumberOfAwardsMax": 168,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 167
+      "Count": 168
     }
   ],
   "EOS_Progressed": 0,
@@ -791,8 +797,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:01.7638488+00:00",
-  "LastChanged": "2023-12-03T18:58:58.008575+00:00",
+  "LastChanged": "2023-12-05T01:50:32.3321062+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:45.955903+00:00",
-  "LastUpdate_Ratings": "2023-12-04T23:59:17.5512099+00:00",
-  "LastUpdate_Achievements": "2023-12-05T00:04:16.083534+00:00"
+  "LastUpdate_Ratings": "2023-12-05T01:50:32.3321069+00:00",
+  "LastUpdate_Achievements": "2023-12-05T02:00:40.4872891+00:00"
 }

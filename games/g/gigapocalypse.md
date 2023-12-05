@@ -16,14 +16,14 @@
 | Quite A Snack | 60.00% | ~115 |
 | Impenetrable Skin | 57.00% | ~109 |
 | Overwhelming Power | 55.00% | ~105 |
+| Chomp Chomp! | 47.00% | ~90 |
 | Supreme Power | 46.00% | ~88 |
-| Chomp Chomp! | 46.00% | ~88 |
-| The Duelist | 44.00% | ~84 |
+| The Duelist | 45.00% | ~86 |
+| Glorious Battle | 43.00% | ~82 |
 | Diaper Time! | 43.00% | ~82 |
 | Target Practice | 43.00% | ~82 |
-| Glorious Battle | 42.00% | ~80 |
 | Meat Larder | 41.00% | ~78 |
-| Mutant And Proud | 39.00% | ~74 |
+| Mutant And Proud | 40.00% | ~76 |
 | The Emperor's New Clothes | 33.00% | ~63 |
 | Final Evolution | 33.00% | ~63 |
 | You Shall Not Pass | 32.00% | ~61 |
@@ -36,13 +36,13 @@
 | Supremacy | 30.00% | ~57 |
 | Loyal Companion | 27.00% | ~52 |
 | Back To The Future | 26.00% | ~50 |
-| Immortal Skin | 25.00% | ~48 |
+| Immortal Skin | 26.00% | ~50 |
 | Fire Beacon | 24.00% | ~46 |
 | Lunch Before The Lunch | 23.00% | ~44 |
 | From Here To Eternity | 20.00% | ~38 |
 | Building Blocks | 20.00% | ~38 |
 | Octopostructure | 18.00% | ~34 |
-| Boss Hunter | 15.00% | ~29 |
+| Boss Hunter | 16.00% | ~31 |
 | Hawkman | 9.00% | ~17 |
 | Fashion Victim | 8.00% | ~15 |
 | Annihilate | 8.00% | ~15 |

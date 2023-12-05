@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -103,9 +103,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 743,
+  "EOS_Progressed": 744,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1783,6 +1783,11 @@
       "Time": "2023-12-05T00:09:32.6023952+00:00",
       "NumProgressed": 743,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-05T02:05:30.7815703+00:00",
+      "NumProgressed": 744,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1803,7 +1808,7 @@
       "Name": "Asphalt Artist",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "achievement_11",
@@ -1859,7 +1864,7 @@
       "Name": "Your first time?",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "achievement_18",
@@ -1883,7 +1888,7 @@
       "Name": "Team Principal",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "achievement_20",
@@ -1923,7 +1928,7 @@
       "Name": "Miracle in the Mountains",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "achievement_25",
@@ -2002,7 +2007,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 743,
+      "Progressed": 744,
       "Completed": 0
     }
   ],
@@ -2010,8 +2015,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-12-04T08:59:17.8439063+00:00",
-  "LastChanged_Achievements": "2023-12-05T00:09:32.6023949+00:00",
+  "LastChanged_Achievements": "2023-12-05T02:05:30.7815699+00:00",
   "LastUpdate_AppInfo": "2023-11-28T21:56:52.2952246+00:00",
-  "LastUpdate_Ratings": "2023-12-04T23:59:18.7778152+00:00",
-  "LastUpdate_Achievements": "2023-12-05T00:09:32.6024127+00:00"
+  "LastUpdate_Ratings": "2023-12-05T01:50:43.8116846+00:00",
+  "LastUpdate_Achievements": "2023-12-05T02:05:30.7815924+00:00"
 }

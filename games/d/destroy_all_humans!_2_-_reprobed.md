@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Shop Til They Drop | 0.00% | ~0 |
 | Pimp My Raid | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13 (Ranked 598)  
+Progressed: 14 (Ranked 594)  
 Completed: 0 (0.00%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,6 +60,7 @@ Completed: 0 (0.00%) (Ranked 368)
 | 2023-12-02 | 7 | 0 |
 | 2023-12-03 | 12 | 0 |
 | 2023-12-04 | 13 | 0 |
+| 2023-12-05 | 14 | 0 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 481)  
 Sum: 35 (Ranked 508)  

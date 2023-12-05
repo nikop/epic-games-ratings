@@ -1,7 +1,7 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.48 (Ranked 634)  
+Rating: 4.48 (Ranked 633)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,15 +14,15 @@ Number of Ratings: 285  (23.09.2022)
 | Mushroom Madness! | 22.00% | ~1,175 |
 | First Strike | 19.00% | ~1,015 |
 | Spending Spree | 19.00% | ~1,015 |
-| Horder Better Faster Stronger | 18.00% | ~961 |
+| Horder Better Faster Stronger | 18.00% | ~962 |
 | Ten Steps from the Grave | 15.00% | ~801 |
 | Everything Must Go! | 14.00% | ~748 |
 | Next Time on MythForce... | 14.00% | ~748 |
 | Cold-Blooded Critters | 10.00% | ~534 |
 | Death Becomes You | 8.00% | ~427 |
 | Flawless Victory | 7.00% | ~374 |
-| The Harder They Fall | 6.00% | ~320 |
-| On this Episode! | 6.00% | ~320 |
+| The Harder They Fall | 6.00% | ~321 |
+| On this Episode! | 6.00% | ~321 |
 | Deadication | 4.00% | ~214 |
 | Season Finale | 4.00% | ~214 |
 | We've Got a Kaiju on the Field | 3.00% | ~160 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.50% | ~27 |
 | Deadalus and Loving It | 0.20% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,341 (Ranked 190)  
+Progressed: 5,342 (Ranked 190)  
 Completed: 4 (0.07%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 4 (0.07%) (Ranked 306)
 | 2023-12-02 | 5,279 | 4 |
 | 2023-12-03 | 5,316 | 4 |
 | 2023-12-04 | 5,340 | 4 |
-| 2023-12-05 | 5,341 | 4 |
+| 2023-12-05 | 5,342 | 4 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 476)  
 Sum: 290 (Ranked 370)  

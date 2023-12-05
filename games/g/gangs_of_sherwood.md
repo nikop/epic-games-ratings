@@ -36,7 +36,7 @@
 | The Gang prevails | 7.00% | ~4 |
 | Out of the ring | 7.00% | ~4 |
 | King of the Iron Fist | 5.00% | ~3 |
-| No Mercy | 4.00% | ~2 |
+| No Mercy | 5.00% | ~3 |
 | Power of Friendship! | 4.00% | ~2 |
 | Five of Friends | 4.00% | ~2 |
 | The Arsenal | 4.00% | ~2 |

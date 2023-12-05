@@ -5114,9 +5114,9 @@
       "ID": "achievement_72",
       "SetID": "d252ncf",
       "Name": "Weapon Specialist",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 361
+      "UsersEstimate": 376
     },
     {
       "ID": "achievement_73",
@@ -5366,8 +5366,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-05T00:09:04.0577681+00:00",
+  "LastChanged_Achievements": "2023-12-05T02:05:03.1591947+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:17.762066+00:00",
-  "LastUpdate_Ratings": "2023-12-05T00:02:59.8614487+00:00",
-  "LastUpdate_Achievements": "2023-12-05T00:09:04.0579262+00:00"
+  "LastUpdate_Ratings": "2023-12-05T01:58:30.183087+00:00",
+  "LastUpdate_Achievements": "2023-12-05T02:05:03.159364+00:00"
 }

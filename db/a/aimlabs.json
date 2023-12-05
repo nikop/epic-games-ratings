@@ -4,10 +4,10 @@
   "ProductSlug": "aimlabs",
   "Ranking_Rating": 387,
   "Ranking_Popularity": 416,
-  "Ranking_PopularitySum": 346,
+  "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 778,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 481,
+  "Ranking_EOS_NewPlayers": 482,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -1381,10 +1381,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 392,
       "NumberOfAwardsMax": 60
+    },
+    {
+      "Time": "2023-12-05T01:48:07.0995386+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 352,
+      "NumberOfAwardsMax": 60
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 392,
+  "NumberOfAwards": 352,
   "NumberOfAwardsMax": 60,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1467,8 +1473,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2023-12-04T19:00:03.8229354+00:00",
+  "LastChanged": "2023-12-05T01:48:07.0995385+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:33.5895441+00:00",
-  "LastUpdate_Ratings": "2023-12-04T23:58:56.5037187+00:00",
-  "LastUpdate_Achievements": "2023-12-05T00:04:26.5016895+00:00"
+  "LastUpdate_Ratings": "2023-12-05T01:48:07.099539+00:00",
+  "LastUpdate_Achievements": "2023-12-05T02:00:50.6323811+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "1154e67b65a644b888e9af62400c90a6",
   "Name": "Palia",
   "ProductSlug": "palia-0d428e",
-  "Ranking_Rating": 613,
-  "Ranking_Popularity": 174,
-  "Ranking_PopularitySum": 216,
+  "Ranking_Rating": 592,
+  "Ranking_Popularity": 172,
+  "Ranking_PopularitySum": 214,
   "Ranking_EOS_Progress": 778,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 481,
+  "Ranking_EOS_NewPlayers": 482,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-10-24T17:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.49,
+  "Rating": 4.5,
   "RatingHistory": [
     {
       "Time": "2023-10-26T20:01:30.909406+00:00",
@@ -1451,18 +1451,24 @@
       "Rating": 4.49,
       "NumberOfAwards": 1989,
       "NumberOfAwardsMax": 783
+    },
+    {
+      "Time": "2023-12-05T01:49:06.8802281+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2012,
+      "NumberOfAwardsMax": 800
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1989,
-  "NumberOfAwardsMax": 783,
+  "NumberOfAwards": 2012,
+  "NumberOfAwardsMax": 800,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 783
+      "Count": 800
     },
     {
       "Text": "This game is Relaxing",
@@ -1486,7 +1492,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 123
+      "Count": 129
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1543,8 +1549,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2023-12-04T19:59:31.1793109+00:00",
+  "LastChanged": "2023-12-05T01:49:06.8802276+00:00",
   "LastUpdate_AppInfo": "2023-11-28T19:57:03.5176823+00:00",
-  "LastUpdate_Ratings": "2023-12-04T23:59:03.6897204+00:00",
-  "LastUpdate_Achievements": "2023-12-05T00:06:00.428367+00:00"
+  "LastUpdate_Ratings": "2023-12-05T01:49:06.8802284+00:00",
+  "LastUpdate_Achievements": "2023-12-05T02:02:23.0322717+00:00"
 }

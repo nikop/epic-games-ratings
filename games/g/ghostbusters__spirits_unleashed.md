@@ -1,11 +1,11 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 591)  
+Rating: 4.51 (Ranked 572)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 9.00% | ~2,873 |
+| Stylish | 9.00% | ~2,874 |
 | Advancement | 7.00% | ~2,235 |
 | Meticulously Efficient | 7.00% | ~2,235 |
 | I collect Spores, Molds, and Fungi | 5.00% | ~1,596 |
@@ -24,6 +24,7 @@ Rating: 4.50 (Ranked 591)
 | Ectoplasmic Entity | 3.00% | ~958 |
 | Ghostbuster In Training | 3.00% | ~958 |
 | Icing on the Cake | 3.00% | ~958 |
+| Pesky Jerks | 3.00% | ~958 |
 | Right back at ya | 3.00% | ~958 |
 | Side Hustle | 3.00% | ~958 |
 | Summoner | 3.00% | ~958 |
@@ -32,7 +33,6 @@ Rating: 4.50 (Ranked 591)
 | Collector | 2.00% | ~639 |
 | Escape Artist | 2.00% | ~639 |
 | Legions | 2.00% | ~639 |
-| Pesky Jerks | 2.00% | ~639 |
 | Rift Destroyer | 2.00% | ~639 |
 | Seasoned | 2.00% | ~639 |
 | Skilled | 2.00% | ~639 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 591)
 | Ultimate Defense | 0.20% | ~64 |
 | Line em' up | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,927 (Ranked 124)  
+Progressed: 31,929 (Ranked 124)  
 Completed: 69 (0.22%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,10 +286,10 @@ Completed: 69 (0.22%) (Ranked 255)
 | 2023-12-02 | 31,846 | 69 |
 | 2023-12-03 | 31,893 | 69 |
 | 2023-12-04 | 31,923 | 69 |
-| 2023-12-05 | 31,927 | 69 |
+| 2023-12-05 | 31,929 | 69 |
 ## Awards
 Max (Great for Beginners): 320  (Ranked 251)  
-Sum: 2,878 (Ranked 179)  
+Sum: 2,880 (Ranked 179)  
 Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
@@ -300,7 +300,7 @@ Diff (max vs sum): 72
 | This game has Amazing Storytelling | 285 |
 | This game has Competitive Players | 281 |
 | This game is Relaxing | 280 |
-| This game is Extremely Fun | 277 |
+| This game is Extremely Fun | 279 |
 | This game has Amazing Characters | 267 |
 | This game has Quickly Understood Controls | 266 |
 | This game has Playful Visuals | 94 |
@@ -538,3 +538,4 @@ Diff (max vs sum): 72
 | 2023-12-02 | 4.50 | 319 | 2,871 |
 | 2023-12-03 | 4.50 | 320 | 2,877 |
 | 2023-12-04 | 4.50 | 320 | 2,878 |
+| 2023-12-05 | 4.51 | 320 | 2,880 |

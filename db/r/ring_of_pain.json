@@ -3544,9 +3544,9 @@
       "Count": 746
     }
   ],
-  "EOS_Progressed": 240629,
+  "EOS_Progressed": 240632,
   "EOS_Completed": 292,
-  "EOS_NewPlayers": 315,
+  "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -27134,6 +27134,11 @@
       "Time": "2023-12-05T00:09:40.5235084+00:00",
       "NumProgressed": 240629,
       "NumCompleted": 292
+    },
+    {
+      "Time": "2023-12-05T02:05:38.6523343+00:00",
+      "NumProgressed": 240632,
+      "NumCompleted": 292
     }
   ],
   "TotalAchievements": 138,
@@ -27775,9 +27780,9 @@
       "ID": "PARRY50TIMES",
       "SetID": "5l8oe0h",
       "Name": "Deflection",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 963
+      "UsersEstimate": 1203
     },
     {
       "ID": "PASSIVEDEPTH6",
@@ -28248,13 +28253,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240629,
+      "Progressed": 240632,
       "Completed": 292
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2109,
+      "Progressed": 2112,
       "Completed": 394
     }
   ],
@@ -28262,8 +28267,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-04T17:59:42.1827861+00:00",
-  "LastChanged_Achievements": "2023-12-05T00:09:40.5235078+00:00",
+  "LastChanged_Achievements": "2023-12-05T02:05:38.652334+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:52.1458075+00:00",
-  "LastUpdate_Ratings": "2023-12-04T23:59:29.3954091+00:00",
-  "LastUpdate_Achievements": "2023-12-05T00:09:40.5237439+00:00"
+  "LastUpdate_Ratings": "2023-12-05T01:52:01.7818345+00:00",
+  "LastUpdate_Achievements": "2023-12-05T02:05:38.6525767+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "3bb8a6671a8540fda09479156601b3c0",
   "Name": "Quest of Dungeons",
   "ProductSlug": "quest-of-dungeons-3064d5",
-  "Ranking_EOS_Progress": 491,
+  "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 481,
+  "Ranking_EOS_NewPlayers": 423,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-03-23T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58,
+  "EOS_Progressed": 59,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -145,6 +145,11 @@
     {
       "Time": "2023-11-24T10:03:13.4491704+00:00",
       "NumProgressed": 58,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-05T02:03:02.8792886+00:00",
+      "NumProgressed": 59,
       "NumCompleted": 0
     }
   ],
@@ -356,7 +361,7 @@
     {
       "ID": "18i0ipj",
       "IsBase": true,
-      "Progressed": 58,
+      "Progressed": 59,
       "Completed": 0
     }
   ],
@@ -364,8 +369,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.3767866+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.5363654+00:00",
   "LastChanged": "2023-03-31T05:58:05.3767867+00:00",
-  "LastChanged_Achievements": "2023-12-05T00:08:22.4030457+00:00",
+  "LastChanged_Achievements": "2023-12-05T02:03:02.8792881+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:25.4975102+00:00",
-  "LastUpdate_Ratings": "2023-12-04T23:57:00.4734191+00:00",
-  "LastUpdate_Achievements": "2023-12-05T00:08:22.403069+00:00"
+  "LastUpdate_Ratings": "2023-12-05T01:45:41.805124+00:00",
+  "LastUpdate_Achievements": "2023-12-05T02:03:02.8793069+00:00"
 }

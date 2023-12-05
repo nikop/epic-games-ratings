@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 868,
+  "EOS_Progressed": 871,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 5.76,
+  "EOS_Completed_Percentage": 5.74,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3520,6 +3520,11 @@
       "Time": "2023-12-04T20:04:11.3740242+00:00",
       "NumProgressed": 868,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-12-05T02:00:12.9707125+00:00",
+      "NumProgressed": 871,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 25,
@@ -3603,7 +3608,7 @@
       "Name": "A great audience",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "META_RESULT_2-4",
@@ -3651,7 +3656,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -3659,7 +3664,7 @@
       "Name": "Fashion victim",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -3675,7 +3680,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3683,7 +3688,7 @@
       "Name": "Scholar",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "PROGRESS_N1",
@@ -3691,7 +3696,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "PROGRESS_N2",
@@ -3699,7 +3704,7 @@
       "Name": "The great escape",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "PROGRESS_N3",
@@ -3723,21 +3728,21 @@
       "Name": "One last step",
       "Percentage": 21,
       "XP": 80,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 868,
+      "Progressed": 871,
       "Completed": 50
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-05T00:03:47.7224581+00:00",
+  "LastChanged_Achievements": "2023-12-05T02:00:12.9707121+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:43.5720459+00:00",
-  "LastUpdate_Ratings": "2023-12-04T23:57:15.4899166+00:00",
-  "LastUpdate_Achievements": "2023-12-05T00:03:47.7224856+00:00"
+  "LastUpdate_Ratings": "2023-12-05T01:45:55.6241306+00:00",
+  "LastUpdate_Achievements": "2023-12-05T02:00:12.9707357+00:00"
 }

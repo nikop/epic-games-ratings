@@ -4,7 +4,7 @@
   "ProductSlug": "arc-raiders",
   "Ranking_EOS_Progress": 778,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 481,
+  "Ranking_EOS_NewPlayers": 482,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-02T22:57:50.7663645+00:00",
-  "LastUpdate_Ratings": "2023-12-04T23:59:26.9017393+00:00",
-  "LastUpdate_Achievements": "2023-12-05T00:04:14.9136165+00:00"
+  "LastUpdate_Ratings": "2023-12-05T01:52:01.3522415+00:00",
+  "LastUpdate_Achievements": "2023-12-05T02:00:39.3829866+00:00"
 }

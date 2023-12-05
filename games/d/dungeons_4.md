@@ -13,8 +13,8 @@
 | The Plains of Strothalm | 71.00% | ~372 |
 | Thalya's Concentrated Fury | 69.00% | ~362 |
 | Bad Elves Go Everywhere | 69.00% | ~362 |
+| Heroes’ Gorge | 65.00% | ~341 |
 | Master of Magic | 64.00% | ~335 |
-| Heroes’ Gorge | 64.00% | ~335 |
 | Unicorn steaks – fresh off the hoof! | 61.00% | ~320 |
 | Magic Accidents | 58.00% | ~304 |
 | The Ascent | 56.00% | ~293 |
@@ -33,16 +33,16 @@
 | Tanos' Crusade Against Thalya | 39.00% | ~204 |
 | Unstoppable Horde | 32.00% | ~168 |
 | All’s Well That Ends Evil | 32.00% | ~168 |
-| Master of the Undead | 30.00% | ~157 |
+| Master of the Undead | 31.00% | ~162 |
 | The Duel | 29.00% | ~152 |
 | If Looks Could Kill | 27.00% | ~141 |
+| Hungry, Hungry Gorgu! | 26.00% | ~136 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 26.00% | ~136 |
 | Forbidden Knowledge | 26.00% | ~136 |
 | Ghost Pirates? Ghost Heroes! | 26.00% | ~136 |
-| Hungry, Hungry Gorgu! | 25.00% | ~131 |
 | The Finitude Drill | 24.00% | ~126 |
+| Doom Hill | 22.00% | ~115 |
 | Stop Tanos! | 21.00% | ~110 |
-| Doom Hill | 21.00% | ~110 |
 | Sabotage! | 19.00% | ~100 |
 | Brimstone Shaken, Not Stirred | 19.00% | ~100 |
 | Bonus Evilness | 18.00% | ~94 |

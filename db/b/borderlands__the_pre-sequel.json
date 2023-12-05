@@ -2,12 +2,12 @@
   "ID": "6110c92696a54f108c8e9002713ea5f9",
   "Name": "Borderlands: The Pre-Sequel",
   "ProductSlug": "borderlands-the-pre-sequel",
-  "Ranking_Rating": 591,
+  "Ranking_Rating": 592,
   "Ranking_Popularity": 224,
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 778,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 481,
+  "Ranking_EOS_NewPlayers": 482,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2014-10-14T16:00:00+00:00",
@@ -4017,10 +4017,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 3070,
       "NumberOfAwardsMax": 438
+    },
+    {
+      "Time": "2023-12-05T01:56:48.1468641+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 3071,
+      "NumberOfAwardsMax": 438
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3070,
+  "NumberOfAwards": 3071,
   "NumberOfAwardsMax": 438,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4064,7 +4070,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 363
+      "Count": 364
     },
     {
       "Text": "This game is Relaxing",
@@ -4096,8 +4102,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:28.453834+00:00",
-  "LastChanged": "2023-12-04T16:03:03.7780744+00:00",
+  "LastChanged": "2023-12-05T01:56:48.1468639+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:05.9446604+00:00",
-  "LastUpdate_Ratings": "2023-12-05T00:02:43.7805117+00:00",
-  "LastUpdate_Achievements": "2023-12-05T00:09:13.2712382+00:00"
+  "LastUpdate_Ratings": "2023-12-05T01:56:48.1468644+00:00",
+  "LastUpdate_Achievements": "2023-12-05T02:05:11.9589734+00:00"
 }

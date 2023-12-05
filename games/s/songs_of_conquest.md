@@ -8,7 +8,7 @@ Number of Ratings: 292  (23.09.2022)
 | ---- | ---------- | ----- |
 | Adept | 36.00% | ~126 |
 | Double Kill | 25.00% | ~88 |
-| Critical Hit | 15.00% | ~52 |
+| Critical Hit | 15.00% | ~53 |
 | Veteran | 13.00% | ~46 |
 | Dressed For Success | 10.00% | ~35 |
 | Sorcerous Spree | 7.00% | ~25 |
@@ -17,9 +17,9 @@ Number of Ratings: 292  (23.09.2022)
 | Whoops! | 4.00% | ~14 |
 | Master | 4.00% | ~14 |
 | Expert Essence Employment | 4.00% | ~14 |
-| Multi Kill | 3.00% | ~10 |
-| Landlord Extraordinaire | 3.00% | ~10 |
-| Venisti, Vidisti, Perdidisti | 3.00% | ~10 |
+| Multi Kill | 3.00% | ~11 |
+| Landlord Extraordinaire | 3.00% | ~11 |
+| Venisti, Vidisti, Perdidisti | 3.00% | ~11 |
 | The Song of Stoutheart | 2.00% | ~7 |
 | Such A Fungi | 2.00% | ~7 |
 | Trojan Horse | 2.00% | ~7 |
@@ -35,13 +35,13 @@ Number of Ratings: 292  (23.09.2022)
 | Coming Through! | 0.60% | ~2 |
 | Barbecue | 0.60% | ~2 |
 | In The Thick of It | 0.60% | ~2 |
+| Together For Her | 0.60% | ~2 |
 | From the Ashes | 0.60% | ~2 |
 | The Marsh Expands | 0.60% | ~2 |
 | Cleave | 0.60% | ~2 |
 | Grand Master | 0.60% | ~2 |
 | Hello There | 0.30% | ~1 |
 | Fully Charged | 0.30% | ~1 |
-| Together For Her | 0.30% | ~1 |
 | An Empress's Hope | 0.30% | ~1 |
 | Get Over Here! | 0.30% | ~1 |
 | Bringer of Ruin | 0.00% | ~0 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 350 (Ranked 340)  
+Progressed: 351 (Ranked 340)  
 Completed: 0 (0.00%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,6 +86,7 @@ Completed: 0 (0.00%) (Ranked 368)
 | 2023-12-02 | 328 | 0 |
 | 2023-12-03 | 343 | 0 |
 | 2023-12-04 | 350 | 0 |
+| 2023-12-05 | 351 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 515)  
 Sum: 194 (Ranked 405)  

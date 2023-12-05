@@ -5,8 +5,8 @@ Rating: 4.29 (Ranked 849)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 21.00% | ~8,714 |
-| A Good Day To Die | 15.00% | ~6,225 |
+| Man 'O War | 21.00% | ~8,716 |
+| A Good Day To Die | 15.00% | ~6,226 |
 | Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~2,490 |
 | Right Back Atcha | 6.00% | ~2,490 |
 | Killed by Death | 5.00% | ~2,075 |
@@ -14,28 +14,28 @@ Rating: 4.29 (Ranked 849)
 | Down Boy! | 2.00% | ~830 |
 | A Snowball's Chance in Hell | 2.00% | ~830 |
 | Enjoy The Silence | 1.00% | ~415 |
-| Sure Footed As A Goat | 0.90% | ~373 |
-| Backdoor Man | 0.90% | ~373 |
+| Sure Footed As A Goat | 0.90% | ~374 |
+| Backdoor Man | 0.90% | ~374 |
 | Thorn in My Herbicide | 0.80% | ~332 |
 | Red In Tooth And Claw | 0.80% | ~332 |
 | Death Becomes Her | 0.80% | ~332 |
 | The Sky Is Falling | 0.80% | ~332 |
 | Schadenfreude | 0.80% | ~332 |
-| Start As You Mean To Go On | 0.70% | ~290 |
-| Hail the Great Horned Metal God! | 0.70% | ~290 |
-| That'll Come In Handy... | 0.70% | ~290 |
-| Four Legged Friend | 0.50% | ~207 |
-| Oh God, Mother! Blood! Blood! | 0.50% | ~207 |
+| Start As You Mean To Go On | 0.70% | ~291 |
+| Hail the Great Horned Metal God! | 0.70% | ~291 |
+| That'll Come In Handy... | 0.70% | ~291 |
+| Four Legged Friend | 0.50% | ~208 |
+| Oh God, Mother! Blood! Blood! | 0.50% | ~208 |
 | Ice To See You | 0.40% | ~166 |
 | Smack My Imp Up | 0.40% | ~166 |
-| Vroll With It | 0.30% | ~124 |
-| Swift of Foot, Keen of Blade | 0.30% | ~124 |
+| Vroll With It | 0.30% | ~125 |
+| Swift of Foot, Keen of Blade | 0.30% | ~125 |
 | Flame Retardant | 0.20% | ~83 |
-| Too Metal For Magic | 0.10% | ~41 |
-| Heart Of Steel | 0.10% | ~41 |
-| Death or Glory | 0.10% | ~41 |
+| Too Metal For Magic | 0.10% | ~42 |
+| Heart Of Steel | 0.10% | ~42 |
+| Death or Glory | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,497 (Ranked 122)  
+Progressed: 41,504 (Ranked 122)  
 Completed: 28 (0.07%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,6 +264,7 @@ Completed: 28 (0.07%) (Ranked 306)
 | 2023-12-02 | 41,356 | 27 |
 | 2023-12-03 | 41,438 | 28 |
 | 2023-12-04 | 41,497 | 28 |
+| 2023-12-05 | 41,504 | 28 |
 ## Awards
 Max (Great Boss Battles): 128  (Ranked 334)  
 Sum: 128 (Ranked 435)  

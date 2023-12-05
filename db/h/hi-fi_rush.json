@@ -145,7 +145,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4474,
+  "EOS_Progressed": 4475,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
@@ -8130,6 +8130,11 @@
       "Time": "2023-12-04T20:04:33.1689616+00:00",
       "NumProgressed": 4474,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-05T02:00:31.0331166+00:00",
+      "NumProgressed": 4475,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -8165,7 +8170,7 @@
       "Name": "The Negotiator",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "Ach005",
@@ -8213,7 +8218,7 @@
       "Name": "I think I deserve some praise, here!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "Ach011",
@@ -8277,7 +8282,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "Ach019",
@@ -8299,9 +8304,9 @@
       "ID": "Ach021",
       "SetID": "12n4k20",
       "Name": "I have to read these things?",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 358
     },
     {
       "ID": "Ach022",
@@ -8357,7 +8362,7 @@
       "Name": "I think I found your calling, Macaron",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "Ach029",
@@ -8373,7 +8378,7 @@
       "Name": "This is a breeze!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "Ach031",
@@ -8381,7 +8386,7 @@
       "Name": "Perfect Parry",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "Ach032",
@@ -8429,7 +8434,7 @@
       "Name": "We\u0027re Jammin\u0027",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "Ach038",
@@ -8445,7 +8450,7 @@
       "Name": "First we parry, then we counter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "Ach040",
@@ -8515,9 +8520,9 @@
       "ID": "Ach048",
       "SetID": "12n4k20",
       "Name": "Alright, that felt AWESOME!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 626
+      "UsersEstimate": 582
     },
     {
       "ID": "Ach049",
@@ -8525,7 +8530,7 @@
       "Name": "I hit things with a guitar really well.",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "Ach050",
@@ -8541,7 +8546,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "Ach052",
@@ -8708,13 +8713,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4474,
+      "Progressed": 4475,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2995,
+      "Progressed": 2996,
       "Completed": 1930
     }
   ],
@@ -8722,8 +8727,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-12-05T00:04:06.1760885+00:00",
+  "LastChanged_Achievements": "2023-12-05T02:00:31.0331161+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:21.1661658+00:00",
-  "LastUpdate_Ratings": "2023-12-05T00:02:30.3433458+00:00",
-  "LastUpdate_Achievements": "2023-12-05T00:04:06.1761742+00:00"
+  "LastUpdate_Ratings": "2023-12-05T01:55:41.1887582+00:00",
+  "LastUpdate_Achievements": "2023-12-05T02:00:31.0331974+00:00"
 }
