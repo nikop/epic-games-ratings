@@ -168,7 +168,7 @@
 | 157 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 847 | 166 |
 | 157 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 0 | 558 |
 | 157 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 89 | 383 |
-| 169 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 433 | 225 |
+| 169 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 434 | 225 |
 | 169 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.73 | 0 | 558 |
 | 169 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 47 | 443 |
 | 169 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.73 | 0 | 558 |
@@ -260,7 +260,7 @@
 | 255 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 558 |
 | 255 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 558 |
 | 255 | [Coromon](games/c/coromon.md) | 4.68 | 42 | 456 |
-| 255 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,554 | 52 |
+| 255 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,560 | 52 |
 | 255 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,071 | 85 |
 | 255 | [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 744 | 180 |
 | 255 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.68 | 5,721 | 68 |
@@ -430,7 +430,7 @@
 | 420 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.60 | 0 | 558 |
 | 420 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 796 | 173 |
 | 420 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 744 | 180 |
-| 420 | [Returnal™](games/r/returnal™.md) | 4.60 | 97 | 369 |
+| 420 | [Returnal™](games/r/returnal™.md) | 4.60 | 98 | 367 |
 | 420 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.60 | 82 | 391 |
 | 420 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 518 | 211 |
 | 420 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.60 | 27 | 515 |
@@ -514,7 +514,7 @@
 | 509 | [Costume Quest](games/c/costume_quest.md) | 4.55 | 0 | 558 |
 | 509 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 0 | 558 |
 | 509 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 1,745 | 123 |
-| 509 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.55 | 419 | 228 |
+| 509 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.55 | 419 | 229 |
 | 509 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 36 | 476 |
 | 509 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.55 | 32 | 493 |
 | 509 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 73 | 401 |
@@ -538,7 +538,7 @@
 | 529 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 986 | 155 |
 | 529 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 34 | 486 |
 | 529 | [RUINER](games/r/ruiner.md) | 4.54 | 24 | 528 |
-| 529 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 97 | 369 |
+| 529 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 97 | 370 |
 | 529 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 0 | 558 |
 | 529 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.54 | 673 | 188 |
 | 542 | [Dauntless](games/d/dauntless.md) | 4.53 | 24,358 | 18 |
@@ -941,7 +941,7 @@
 | 937 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,991 | 98 |
 | 937 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 213,664 | 5 |
 | 937 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 372 |
-| 942 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 97 | 369 |
+| 942 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 97 | 370 |
 | 942 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.17 | 0 | 558 |
 | 944 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 558 |
 | 944 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 621 | 193 |
@@ -1018,7 +1018,7 @@
 | 1,016 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 447 |
 | 1,016 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.95 | 555 | 206 |
 | 1,016 | [Martha Is Dead](games/m/martha_is_dead.md) | 3.95 | 0 | 558 |
-| 1,019 | [Blazing Sails](games/b/blazing_sails.md) | 3.94 | 417 | 229 |
+| 1,019 | [Blazing Sails](games/b/blazing_sails.md) | 3.94 | 420 | 228 |
 | 1,019 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 29 | 504 |
 | 1,019 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 3.94 | 0 | 558 |
 | 1,019 | [Patron](games/p/patron.md) | 3.94 | 0 | 558 |
