@@ -139,7 +139,7 @@
 | 129 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 558 |
 | 129 | [Legend Bowl](games/l/legend_bowl.md) | 4.76 | 0 | 558 |
 | 129 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.76 | 0 | 558 |
-| 129 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,753 | 122 |
+| 129 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,755 | 122 |
 | 129 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 12,760 | 33 |
 | 129 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 558 |
 | 129 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.76 | 0 | 558 |
@@ -419,7 +419,7 @@
 | 387 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.61 | 0 | 558 |
 | 387 | [Warframe](games/w/warframe.md) | 4.61 | 18,831 | 23 |
 | 387 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 597 | 199 |
-| 420 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 15,130 | 25 |
+| 420 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 15,150 | 25 |
 | 420 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 558 |
 | 420 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,996 | 73 |
 | 420 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 223 | 279 |
@@ -786,7 +786,7 @@
 | 784 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.36 | 0 | 558 |
 | 784 | [Core](games/c/core.md) | 4.36 | 771 | 177 |
 | 784 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 307 |
-| 784 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,784 | 32 |
+| 784 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,790 | 32 |
 | 784 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 4.36 | 0 | 558 |
 | 784 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 558 |
 | 784 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 0 | 558 |
@@ -927,6 +927,7 @@
 | 915 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 78 | 394 |
 | 915 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.20 | 63 | 412 |
 | 927 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 437 |
+| 927 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.19 | 26 | 521 |
 | 927 | [Gone Home](games/g/gone_home.md) | 4.19 | 0 | 558 |
 | 927 | [Grand Tactician: The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.19 | 0 | 558 |
 | 927 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.19 | 40 | 462 |
@@ -935,12 +936,11 @@
 | 927 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 84 | 388 |
 | 927 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 0 | 558 |
 | 927 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 558 |
-| 936 | [Bus Simulator 21 Next Stop](games/b/bus_simulator_21.md) | 4.18 | 0 | 558 |
-| 936 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.18 | 26 | 521 |
-| 936 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 558 |
-| 936 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,991 | 98 |
-| 936 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 213,664 | 5 |
-| 936 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 372 |
+| 937 | [Bus Simulator 21 Next Stop](games/b/bus_simulator_21.md) | 4.18 | 0 | 558 |
+| 937 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 558 |
+| 937 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,991 | 98 |
+| 937 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 213,664 | 5 |
+| 937 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 372 |
 | 942 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 97 | 369 |
 | 942 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.17 | 0 | 558 |
 | 944 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 558 |

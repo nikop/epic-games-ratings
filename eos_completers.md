@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 24.09% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 24.07% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -70,7 +70,7 @@
 | 67 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 6.25% |
 | 69 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
 | 70 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.77% |
-| 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.74% |
+| 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.73% |
 | 72 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
 | 73 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 73 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
