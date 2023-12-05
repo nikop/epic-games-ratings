@@ -5,11 +5,11 @@ Rating: 4.68 (Ranked 255)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,672 |
-| On the Top Step | 88.00% | ~5,310 |
+| Getting on the Step | 94.00% | ~5,673 |
+| On the Top Step | 88.00% | ~5,311 |
 | Setting up for Success | 78.00% | ~4,707 |
-| Team Orders | 76.00% | ~4,586 |
-| Engineer | 56.00% | ~3,379 |
+| Team Orders | 76.00% | ~4,587 |
+| Engineer | 56.00% | ~3,380 |
 | Familiar Faces | 49.00% | ~2,957 |
 | Sharing the Love | 44.00% | ~2,655 |
 | Going the Extra Mile | 43.00% | ~2,595 |
@@ -31,13 +31,13 @@ Rating: 4.68 (Ranked 255)
 | Lightning Round the World | 15.00% | ~905 |
 | Hitting a Bullseye | 15.00% | ~905 |
 | Spinning Around | 14.00% | ~845 |
-| Eagle Eye | 13.00% | ~784 |
-| All in a Weekend's Work | 13.00% | ~784 |
-| Friendly Competition | 13.00% | ~784 |
-| Switcheroo | 13.00% | ~784 |
+| Eagle Eye | 13.00% | ~785 |
+| All in a Weekend's Work | 13.00% | ~785 |
+| Friendly Competition | 13.00% | ~785 |
+| Switcheroo | 13.00% | ~785 |
 | Recycle | 12.00% | ~724 |
-| Undisputed Winner | 10.00% | ~603 |
-| Tinkerer | 10.00% | ~603 |
+| Undisputed Winner | 10.00% | ~604 |
+| Tinkerer | 10.00% | ~604 |
 | For all Those Back at the Factory | 7.00% | ~422 |
 | Living up to Expectations | 7.00% | ~422 |
 | Smooth Operator | 7.00% | ~422 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 255)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,034 (Ranked 186)  
+Progressed: 6,035 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,6 +138,7 @@ Completed: 0 (0.00%) (Ranked 368)
 | 2023-12-02 | 6,006 | 0 |
 | 2023-12-03 | 6,025 | 0 |
 | 2023-12-04 | 6,034 | 0 |
+| 2023-12-05 | 6,035 | 0 |
 ## Awards
 Max (Diverse Characters): 32  (Ranked 493)  
 Sum: 151 (Ranked 429)  

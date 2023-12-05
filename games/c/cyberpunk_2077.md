@@ -1,20 +1,20 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.66 (Ranked 295)  
+Rating: 4.65 (Ranked 315)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,400 |
-| Gun Fu | 7.00% | ~67,900 |
-| The Fool | 6.00% | ~58,200 |
-| Right Back At Ya | 5.00% | ~48,500 |
-| The Lovers | 4.00% | ~38,800 |
-| Full Body Conversion | 3.00% | ~29,100 |
-| Stanislavski's Method | 3.00% | ~29,100 |
-| The Wheel of Fortune | 3.00% | ~29,100 |
-| True Soldier | 3.00% | ~29,100 |
+| V for Vendetta | 12.00% | ~116,402 |
+| Gun Fu | 7.00% | ~67,901 |
+| The Fool | 6.00% | ~58,201 |
+| Right Back At Ya | 5.00% | ~48,501 |
+| The Lovers | 4.00% | ~38,801 |
+| Full Body Conversion | 3.00% | ~29,101 |
+| Stanislavski's Method | 3.00% | ~29,101 |
+| The Wheel of Fortune | 3.00% | ~29,101 |
+| True Soldier | 3.00% | ~29,101 |
 | Christmas Tree Attack | 2.00% | ~19,400 |
 | The Quick and the Dead | 2.00% | ~19,400 |
 | Life of the Road | 2.00% | ~19,400 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 970,004 (Ranked 15)  
+Progressed: 970,018 (Ranked 15)  
 Completed: 2,843 (0.29%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,6 +303,7 @@ Completed: 2,843 (0.29%) (Ranked 240)
 | 2023-12-02 | 967,833 | 2,836 |
 | 2023-12-03 | 969,229 | 2,839 |
 | 2023-12-04 | 970,004 | 2,843 |
+| 2023-12-05 | 970,018 | 2,843 |
 ## Awards
 Max (Character Customization): 116,208  (Ranked 9)  
 Sum: 387,763 (Ranked 9)  
@@ -643,3 +644,4 @@ Diff (max vs sum): 0
 | 2023-12-02 | 4.65 | - | 114,587 | 382,001 |
 | 2023-12-03 | 4.65 | - | 115,469 | 385,067 |
 | 2023-12-04 | 4.66 | - | 116,208 | 387,763 |
+| 2023-12-05 | 4.65 | - | 116,208 | 387,763 |

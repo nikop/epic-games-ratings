@@ -4,8 +4,8 @@
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
   "Ranking_EOS_Progress": 570,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 423,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 424,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -400,8 +400,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-12-04T23:06:12.9538051+00:00",
+  "LastChanged_Achievements": "2023-12-05T00:06:13.2631347+00:00",
   "LastUpdate_AppInfo": "2023-11-29T05:57:16.1514694+00:00",
-  "LastUpdate_Ratings": "2023-12-04T22:57:43.5693094+00:00",
-  "LastUpdate_Achievements": "2023-12-04T23:06:12.9538234+00:00"
+  "LastUpdate_Ratings": "2023-12-04T23:57:35.4489279+00:00",
+  "LastUpdate_Achievements": "2023-12-05T00:06:13.2631532+00:00"
 }

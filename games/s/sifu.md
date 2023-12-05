@@ -27,7 +27,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Stuntmaster | 0.50% | ~3,589 |
 | Old Child | 0.50% | ~3,589 |
 | Take damage to save time | 0.50% | ~3,589 |
-| Martial Hub | 0.50% | ~135 |
+| Martial Hub | 0.50% | ~136 |
 | Scareless | 0.40% | ~2,871 |
 | Dance of the Praying Mantis | 0.40% | ~2,871 |
 | Qi Gong: Mind | 0.40% | ~2,871 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,797 (Ranked 22)  
+Progressed: 717,800 (Ranked 22)  
 Completed: 12,943 (1.80%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,6 +296,7 @@ Completed: 12,943 (1.80%) (Ranked 135)
 | 2023-12-02 | 717,716 | 12,943 |
 | 2023-12-03 | 717,761 | 12,943 |
 | 2023-12-04 | 717,797 | 12,943 |
+| 2023-12-05 | 717,800 | 12,943 |
 ## Awards
 Max (Great Boss Battles): 6,870  (Ranked 55)  
 Sum: 12,053 (Ranked 83)  

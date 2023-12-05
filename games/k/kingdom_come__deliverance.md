@@ -6,21 +6,21 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~259,566 |
-| Cavalier | 25.00% | ~202,786 |
-| Fatso | 23.00% | ~186,563 |
-| Awakening | 21.00% | ~170,340 |
-| Ranger | 20.00% | ~162,229 |
-| Scrooge | 20.00% | ~162,229 |
-| Anorectic | 16.00% | ~129,783 |
-| Firestarter | 16.00% | ~129,783 |
-| Bookworm | 15.00% | ~121,671 |
+| Blacksmith's Son | 32.00% | ~259,567 |
+| Cavalier | 25.00% | ~202,787 |
+| Fatso | 23.00% | ~186,564 |
+| Awakening | 21.00% | ~170,341 |
+| Ranger | 20.00% | ~162,230 |
+| Scrooge | 20.00% | ~162,230 |
+| Anorectic | 16.00% | ~129,784 |
+| Firestarter | 16.00% | ~129,784 |
+| Bookworm | 15.00% | ~121,672 |
 | Insomniac | 13.00% | ~105,449 |
-| Buddy | 12.00% | ~97,337 |
-| Thief | 12.00% | ~97,337 |
+| Buddy | 12.00% | ~97,338 |
+| Thief | 12.00% | ~97,338 |
 | Sinner | 11.00% | ~89,226 |
 | Traveller | 11.00% | ~89,226 |
-| Convict | 10.00% | ~81,114 |
+| Convict | 10.00% | ~81,115 |
 | Haggler | 9.00% | ~73,003 |
 | McLovin | 7.00% | ~56,780 |
 | Runt | 7.00% | ~56,780 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~811 |
 | Wingman | 0.10% | ~811 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 811,143 (Ranked 17)  
+Progressed: 811,148 (Ranked 17)  
 Completed: 52 (0.01%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,16 +318,17 @@ Completed: 52 (0.01%) (Ranked 346)
 | 2023-12-02 | 810,836 | 52 |
 | 2023-12-03 | 811,027 | 52 |
 | 2023-12-04 | 811,143 | 52 |
+| 2023-12-05 | 811,148 | 52 |
 ## Awards
 Max (Character Customization): 7,646  (Ranked 51)  
-Sum: 28,408 (Ranked 49)  
+Sum: 28,413 (Ranked 49)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,646 |
 | This game has Great Boss Battles | 5,598 |
 | This game has Challenging Combat | 1,783 |
-| This game has Diverse Characters | 1,739 |
+| This game has Diverse Characters | 1,744 |
 | This game has Amazing Storytelling | 1,731 |
 | This game is Highly Recommended | 1,704 |
 | This game is Extremely Fun | 1,698 |
@@ -650,4 +651,4 @@ Diff (max vs sum): 2
 | 2023-12-01 | 4.71 | - | 7,643 | 28,381 |
 | 2023-12-02 | 4.71 | - | 7,643 | 28,386 |
 | 2023-12-03 | 4.71 | - | 7,646 | 28,394 |
-| 2023-12-04 | 4.71 | - | 7,646 | 28,408 |
+| 2023-12-04 | 4.71 | - | 7,646 | 28,413 |

@@ -28,9 +28,9 @@ Rating: 4.04 (Ranked 996)
 | To infinity and beyond! | 3.00% | ~53 |
 | Driver's License | 2.00% | ~35 |
 | Explosive Miner | 2.00% | ~35 |
+| Caveman | 2.00% | ~35 |
 | Planetary Defence | 2.00% | ~35 |
 | Rocket Jump | 2.00% | ~35 |
-| Caveman | 1.00% | ~18 |
 | One does not simply... | 1.00% | ~18 |
 | Thunderstruck | 1.00% | ~18 |
 | 5G Network | 0.80% | ~14 |

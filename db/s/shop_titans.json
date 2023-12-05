@@ -7381,10 +7381,10 @@
       "Count": 3792
     }
   ],
-  "EOS_Progressed": 143830,
+  "EOS_Progressed": 143836,
   "EOS_Completed": 291,
-  "EOS_NewPlayers": 1284,
-  "EOS_NewCompleters": 13,
+  "EOS_NewPlayers": 1285,
+  "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -31086,6 +31086,11 @@
       "Time": "2023-12-04T23:06:20.4620209+00:00",
       "NumProgressed": 143830,
       "NumCompleted": 291
+    },
+    {
+      "Time": "2023-12-05T00:08:00.4647037+00:00",
+      "NumProgressed": 143836,
+      "NumCompleted": 291
     }
   ],
   "TotalAchievements": 112,
@@ -31265,7 +31270,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10068
+      "UsersEstimate": 10069
     },
     {
       "ID": "chest02",
@@ -31313,7 +31318,7 @@
       "Name": "The Free Encyclopedia",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "collection05",
@@ -31825,7 +31830,7 @@
       "Name": "Eternal Crusade",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "quest04",
@@ -31833,7 +31838,7 @@
       "Name": "To Hell and Back",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "rareres01",
@@ -31889,7 +31894,7 @@
       "Name": "Cash Only Please",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "sia_a",
@@ -31913,7 +31918,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10068
+      "UsersEstimate": 10069
     },
     {
       "ID": "twinenchant01",
@@ -31992,15 +31997,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 143830,
+      "Progressed": 143836,
       "Completed": 291
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-04T14:03:28.9048198+00:00",
-  "LastChanged_Achievements": "2023-12-04T23:06:20.4620204+00:00",
+  "LastChanged_Achievements": "2023-12-05T00:08:00.4647034+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:14.839929+00:00",
-  "LastUpdate_Ratings": "2023-12-04T23:03:01.536531+00:00",
-  "LastUpdate_Achievements": "2023-12-04T23:06:20.4622169+00:00"
+  "LastUpdate_Ratings": "2023-12-05T00:02:55.2670217+00:00",
+  "LastUpdate_Achievements": "2023-12-05T00:08:00.4649179+00:00"
 }

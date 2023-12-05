@@ -25,7 +25,7 @@
 | The Big Eaty | 50.00% | ~262 |
 | YOU SHALL NOT PASS! | 49.00% | ~257 |
 | “… like son” | 47.00% | ~246 |
-| Pure Dynamite! | 44.00% | ~231 |
+| Pure Dynamite! | 45.00% | ~236 |
 | The Cathedral of Light | 43.00% | ~225 |
 | Shame! Shame! Shame! | 43.00% | ~225 |
 | Dungeonlord Gorgu | 42.00% | ~220 |
@@ -38,8 +38,8 @@
 | If Looks Could Kill | 27.00% | ~141 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 26.00% | ~136 |
 | Forbidden Knowledge | 26.00% | ~136 |
+| Ghost Pirates? Ghost Heroes! | 26.00% | ~136 |
 | Hungry, Hungry Gorgu! | 25.00% | ~131 |
-| Ghost Pirates? Ghost Heroes! | 25.00% | ~131 |
 | The Finitude Drill | 24.00% | ~126 |
 | Stop Tanos! | 21.00% | ~110 |
 | Doom Hill | 21.00% | ~110 |
@@ -54,10 +54,10 @@
 | Rubble and Ashes | 15.00% | ~79 |
 | The Rune Sockets of Finitude (Part 2) | 15.00% | ~79 |
 | The Last Stand - This Time For Real! | 14.00% | ~73 |
+| To the Max! | 12.00% | ~63 |
 | To Infinity And Beyond! | 12.00% | ~63 |
 | Mirror, Mirror | 11.00% | ~58 |
 | Untouchable | 11.00% | ~58 |
-| To the Max! | 11.00% | ~58 |
 | Evilification | 10.00% | ~52 |
 | Laser Eyes Are So Useless | 9.00% | ~47 |
 | Heal Heal Blessing | 9.00% | ~47 |

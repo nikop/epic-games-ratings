@@ -4,8 +4,8 @@
   "ProductSlug": "geometric-sniper-z-ef97ef",
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 480,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 424,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-09-08T17:00:00+00:00",
     "PcReleaseDate": "2022-12-19T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 150,
+  "EOS_Progressed": 151,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -544,6 +544,11 @@
       "Time": "2023-12-04T22:03:44.8554377+00:00",
       "NumProgressed": 150,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-05T00:03:54.2609974+00:00",
+      "NumProgressed": 151,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-28T19:04:41.1727076+00:00",
@@ -556,7 +561,7 @@
       "Name": "MISSION 01",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACHIEVEMENT_AV_02",
@@ -570,9 +575,9 @@
       "ID": "ACHIEVEMENT_AV_03",
       "SetID": "b50kim2",
       "Name": "MISSION 03",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 63
     },
     {
       "ID": "ACHIEVEMENT_AV_04",
@@ -604,7 +609,7 @@
       "Name": "MISSION 07",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_AV_08",
@@ -700,7 +705,7 @@
       "Name": "ZOMBIE KILLER",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_MRE_02",
@@ -788,7 +793,7 @@
       "Name": "MY 5TH REWARD",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_MR_06",
@@ -836,7 +841,7 @@
       "Name": "RUNAWAY 04",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_RW_05",
@@ -955,14 +960,14 @@
     {
       "ID": "b50kim2",
       "IsBase": true,
-      "Progressed": 150,
+      "Progressed": 151,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-12T13:03:58.3163014+00:00",
   "FirstSeenAchievements": "2023-07-24T21:06:11.7516454+00:00",
-  "LastChanged_Achievements": "2023-12-04T23:03:57.4083076+00:00",
+  "LastChanged_Achievements": "2023-12-05T00:03:54.260997+00:00",
   "LastUpdate_AppInfo": "2023-11-28T06:57:03.7569597+00:00",
-  "LastUpdate_Ratings": "2023-12-04T22:57:31.9648286+00:00",
-  "LastUpdate_Achievements": "2023-12-04T23:03:57.4083541+00:00"
+  "LastUpdate_Ratings": "2023-12-04T23:57:23.5484795+00:00",
+  "LastUpdate_Achievements": "2023-12-05T00:03:54.2610335+00:00"
 }

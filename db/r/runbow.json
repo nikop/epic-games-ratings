@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,7 +182,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251867,
+  "EOS_Progressed": 251868,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
@@ -20492,6 +20492,11 @@
       "Time": "2023-12-04T22:09:11.5831626+00:00",
       "NumProgressed": 251867,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-05T00:09:18.3090985+00:00",
+      "NumProgressed": 251868,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -20559,7 +20564,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 42817
+      "UsersEstimate": 42818
     },
     {
       "ID": "cantBeKeptDown",
@@ -20607,7 +20612,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50373
+      "UsersEstimate": 50374
     },
     {
       "ID": "didYourTime",
@@ -20703,7 +20708,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65485
+      "UsersEstimate": 65486
     },
     {
       "ID": "justABit",
@@ -20735,7 +20740,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 35261
+      "UsersEstimate": 35262
     },
     {
       "ID": "myFirstRunbow",
@@ -20870,7 +20875,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251867,
+      "Progressed": 251868,
       "Completed": 6
     }
   ],
@@ -20878,8 +20883,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-04T23:09:29.8017528+00:00",
+  "LastChanged_Achievements": "2023-12-05T00:09:18.3090984+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.4245998+00:00",
-  "LastUpdate_Ratings": "2023-12-04T22:57:54.5669155+00:00",
-  "LastUpdate_Achievements": "2023-12-04T23:09:29.801889+00:00"
+  "LastUpdate_Ratings": "2023-12-04T23:57:46.5338412+00:00",
+  "LastUpdate_Achievements": "2023-12-05T00:09:18.3092176+00:00"
 }

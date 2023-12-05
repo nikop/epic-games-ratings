@@ -2,7 +2,7 @@
   "ID": "8211dc6089af4542926b7a8137b9079e",
   "Name": "Black Book",
   "ProductSlug": "black-book",
-  "Ranking_Rating": 316,
+  "Ranking_Rating": 315,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 109,
@@ -668,9 +668,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 58011,
+  "EOS_Progressed": 58012,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 1560,
+  "EOS_NewPlayers": 1557,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -12043,6 +12043,11 @@
       "Time": "2023-12-04T23:05:38.4186181+00:00",
       "NumProgressed": 58011,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-05T00:05:37.5822688+00:00",
+      "NumProgressed": 58012,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -12167,7 +12172,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 12762
+      "UsersEstimate": 12763
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -12454,15 +12459,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 58011,
+      "Progressed": 58012,
       "Completed": 57
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-12-01T11:58:05.6647761+00:00",
-  "LastChanged_Achievements": "2023-12-04T23:05:38.4186176+00:00",
+  "LastChanged_Achievements": "2023-12-05T00:05:37.5822685+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:55.6045759+00:00",
-  "LastUpdate_Ratings": "2023-12-04T22:59:42.900272+00:00",
-  "LastUpdate_Achievements": "2023-12-04T23:05:38.4187192+00:00"
+  "LastUpdate_Ratings": "2023-12-04T23:59:36.731444+00:00",
+  "LastUpdate_Achievements": "2023-12-05T00:05:37.582337+00:00"
 }

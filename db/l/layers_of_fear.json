@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -675,9 +675,9 @@
       "ID": "find_most_of_family_mementos",
       "SetID": "f2im8d",
       "Name": "Immortalized in my heart",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "find_most_of_rat_sketches",
@@ -723,9 +723,9 @@
       "ID": "finished_it",
       "SetID": "f2im8d",
       "Name": "Finished it",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "first_step",
@@ -962,8 +962,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-04T23:03:51.8515151+00:00",
+  "LastChanged_Achievements": "2023-12-05T00:03:48.5355411+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:53.0795294+00:00",
-  "LastUpdate_Ratings": "2023-12-04T22:57:59.9771897+00:00",
-  "LastUpdate_Achievements": "2023-12-04T23:03:51.8515512+00:00"
+  "LastUpdate_Ratings": "2023-12-04T23:57:52.0730349+00:00",
+  "LastUpdate_Achievements": "2023-12-05T00:03:48.5355797+00:00"
 }

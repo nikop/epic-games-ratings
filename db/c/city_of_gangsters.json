@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -794,10 +794,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 243,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-12-05T00:02:46.8597709+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 244,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 243,
+  "NumberOfAwards": 244,
   "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -823,7 +829,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has Easy Combat",
@@ -856,9 +862,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 355276,
+  "EOS_Progressed": 355279,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 915,
+  "EOS_NewPlayers": 914,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26826,6 +26832,11 @@
       "Time": "2023-12-04T23:05:05.8291596+00:00",
       "NumProgressed": 355276,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-05T00:05:04.0263821+00:00",
+      "NumProgressed": 355279,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -26941,7 +26952,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 53291
+      "UsersEstimate": 53292
     },
     {
       "ID": "ach015",
@@ -27045,7 +27056,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 163427
+      "UsersEstimate": 163428
     },
     {
       "ID": "ach028",
@@ -27061,7 +27072,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39080
+      "UsersEstimate": 39081
     },
     {
       "ID": "ach030",
@@ -27173,7 +27184,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24869
+      "UsersEstimate": 24870
     },
     {
       "ID": "ach044",
@@ -27197,7 +27208,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24869
+      "UsersEstimate": 24870
     },
     {
       "ID": "ach047",
@@ -27205,7 +27216,7 @@
       "Name": "Crossing Over",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 3197
+      "UsersEstimate": 3198
     },
     {
       "ID": "ach048",
@@ -27237,7 +27248,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39080
+      "UsersEstimate": 39081
     },
     {
       "ID": "ach052",
@@ -27365,7 +27376,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 56844
+      "UsersEstimate": 56845
     },
     {
       "ID": "ach069",
@@ -27445,7 +27456,7 @@
       "Name": "People Person",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24869
+      "UsersEstimate": 24870
     },
     {
       "ID": "ach079",
@@ -27476,16 +27487,16 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 355276,
+      "Progressed": 355279,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-08-11T21:00:23.9390359+00:00",
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
-  "LastChanged": "2023-12-02T15:03:01.020756+00:00",
-  "LastChanged_Achievements": "2023-12-04T23:05:05.8291592+00:00",
+  "LastChanged": "2023-12-05T00:02:46.8597708+00:00",
+  "LastChanged_Achievements": "2023-12-05T00:05:04.0263818+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:09.0169735+00:00",
-  "LastUpdate_Ratings": "2023-12-04T23:02:53.1449446+00:00",
-  "LastUpdate_Achievements": "2023-12-04T23:05:05.8293617+00:00"
+  "LastUpdate_Ratings": "2023-12-05T00:02:46.8597712+00:00",
+  "LastUpdate_Achievements": "2023-12-05T00:05:04.0265395+00:00"
 }

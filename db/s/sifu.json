@@ -8049,9 +8049,9 @@
       "Count": 429
     }
   ],
-  "EOS_Progressed": 717797,
+  "EOS_Progressed": 717800,
   "EOS_Completed": 12943,
-  "EOS_NewPlayers": 281,
+  "EOS_NewPlayers": 283,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -28354,6 +28354,11 @@
       "Time": "2023-12-04T23:03:45.2955988+00:00",
       "NumProgressed": 717797,
       "NumCompleted": 12943
+    },
+    {
+      "Time": "2023-12-05T00:03:41.6067917+00:00",
+      "NumProgressed": 717800,
+      "NumCompleted": 12943
     }
   ],
   "TotalAchievements": 60,
@@ -28725,7 +28730,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -28844,21 +28849,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 27098,
+      "Progressed": 27101,
       "Completed": 10759
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 717797,
+      "Progressed": 717800,
       "Completed": 12943
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-04T17:03:08.231665+00:00",
-  "LastChanged_Achievements": "2023-12-04T23:03:45.2955985+00:00",
+  "LastChanged_Achievements": "2023-12-05T00:03:41.6067913+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:06.4352314+00:00",
-  "LastUpdate_Ratings": "2023-12-04T23:02:50.5753259+00:00",
-  "LastUpdate_Achievements": "2023-12-04T23:03:45.2957497+00:00"
+  "LastUpdate_Ratings": "2023-12-05T00:02:44.2043481+00:00",
+  "LastUpdate_Achievements": "2023-12-05T00:03:41.6069049+00:00"
 }

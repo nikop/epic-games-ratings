@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -978,9 +978,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 228653,
+  "EOS_Progressed": 228655,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 497,
+  "EOS_NewPlayers": 494,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25938,6 +25938,11 @@
       "Time": "2023-12-04T23:09:47.6143926+00:00",
       "NumProgressed": 228653,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-05T00:09:32.4014365+00:00",
+      "NumProgressed": 228655,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -25997,7 +26002,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22865
+      "UsersEstimate": 22866
     },
     {
       "ID": "ACH_BASE_17",
@@ -26197,7 +26202,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 27438
+      "UsersEstimate": 27439
     },
     {
       "ID": "ACH_BASE_8",
@@ -26220,7 +26225,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 228653,
+      "Progressed": 228655,
       "Completed": 5
     }
   ],
@@ -26228,8 +26233,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-03T11:00:01.7209861+00:00",
-  "LastChanged_Achievements": "2023-12-04T23:09:47.6143922+00:00",
+  "LastChanged_Achievements": "2023-12-05T00:09:32.4014362+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:22.7221977+00:00",
-  "LastUpdate_Ratings": "2023-12-04T23:02:40.5607936+00:00",
-  "LastUpdate_Achievements": "2023-12-04T23:09:47.6145509+00:00"
+  "LastUpdate_Ratings": "2023-12-05T00:02:33.1502934+00:00",
+  "LastUpdate_Achievements": "2023-12-05T00:09:32.4015638+00:00"
 }

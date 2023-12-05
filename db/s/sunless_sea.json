@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -766,7 +766,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 41675,
+  "EOS_Progressed": 41677,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 380,
   "EOS_NewCompleters": 0,
@@ -24011,6 +24011,11 @@
       "Time": "2023-12-04T22:04:07.0787409+00:00",
       "NumProgressed": 41675,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-05T00:04:16.4050692+00:00",
+      "NumProgressed": 41677,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -24142,7 +24147,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15003
+      "UsersEstimate": 15004
     },
     {
       "ID": "ach_die10",
@@ -24390,7 +24395,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6251
+      "UsersEstimate": 6252
     },
     {
       "ID": "ach_undercurrent",
@@ -24453,15 +24458,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 41675,
+      "Progressed": 41677,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-12-04T09:57:47.4841582+00:00",
-  "LastChanged_Achievements": "2023-12-04T23:04:19.3006875+00:00",
+  "LastChanged_Achievements": "2023-12-05T00:04:16.4050686+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:04.5816055+00:00",
-  "LastUpdate_Ratings": "2023-12-04T22:58:10.6836267+00:00",
-  "LastUpdate_Achievements": "2023-12-04T23:04:19.3008892+00:00"
+  "LastUpdate_Ratings": "2023-12-04T23:58:03.3731179+00:00",
+  "LastUpdate_Achievements": "2023-12-05T00:04:16.40522+00:00"
 }

@@ -6,23 +6,23 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~34,833 |
-| Just The Two of Us | 33.00% | ~33,809 |
-| Up On High | 25.00% | ~25,613 |
-| Under The Hood | 25.00% | ~25,613 |
-| Got Your Nose | 24.00% | ~24,588 |
-| The Gift of Gab | 24.00% | ~24,588 |
-| Wrapping Up | 22.00% | ~22,539 |
-| More Than A Box Of Sand | 18.00% | ~18,441 |
+| Simoon | 34.00% | ~34,834 |
+| Just The Two of Us | 33.00% | ~33,810 |
+| Up On High | 25.00% | ~25,614 |
+| Under The Hood | 25.00% | ~25,614 |
+| Got Your Nose | 24.00% | ~24,589 |
+| The Gift of Gab | 24.00% | ~24,589 |
+| Wrapping Up | 22.00% | ~22,540 |
+| More Than A Box Of Sand | 18.00% | ~18,442 |
 | The Dunboyne | 17.00% | ~17,417 |
 | Badge Hobbyist | 17.00% | ~17,417 |
-| Chum Novice | 16.00% | ~16,392 |
-| Silver-Tongued Sable | 16.00% | ~16,392 |
-| Sticky Paws | 16.00% | ~16,392 |
-| Bubble Up | 16.00% | ~16,392 |
+| Chum Novice | 16.00% | ~16,393 |
+| Silver-Tongued Sable | 16.00% | ~16,393 |
+| Sticky Paws | 16.00% | ~16,393 |
+| Bubble Up | 16.00% | ~16,393 |
 | Thread The Needle | 15.00% | ~15,368 |
-| Power to the People | 14.00% | ~14,343 |
-| Nesting Giant | 14.00% | ~14,343 |
+| Power to the People | 14.00% | ~14,344 |
+| Nesting Giant | 14.00% | ~14,344 |
 | Take That! | 13.00% | ~13,319 |
 | Treasure Tracker | 13.00% | ~13,319 |
 | Big Spender | 13.00% | ~13,319 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~3,074 |
 | Vivacious Vivarium | 2.00% | ~2,049 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102,451 (Ranked 88)  
+Progressed: 102,454 (Ranked 88)  
 Completed: 1,035 (1.01%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,6 +292,7 @@ Completed: 1,035 (1.01%) (Ranked 169)
 | 2023-12-02 | 102,050 | 1,033 |
 | 2023-12-03 | 102,316 | 1,034 |
 | 2023-12-04 | 102,451 | 1,035 |
+| 2023-12-05 | 102,454 | 1,035 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 521)  
 Sum: 94 (Ranked 456)  

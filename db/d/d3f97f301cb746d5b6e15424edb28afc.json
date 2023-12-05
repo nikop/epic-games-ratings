@@ -67,7 +67,7 @@
   "Tags": [],
   "EOS_Progressed": 1152,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2972,9 +2972,9 @@
       "ID": "GSS_ACH_10_THROW_02",
       "SetID": "5fn8ia4",
       "Name": "Steady Hand!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 288
     },
     {
       "ID": "GSS_ACH_11_THROW_03",
@@ -3052,17 +3052,17 @@
       "ID": "GSS_ACH_20_DECORATION_01",
       "SetID": "5fn8ia4",
       "Name": "Decorating!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1025
     },
     {
       "ID": "GSS_ACH_21_LOCKPICKING_01",
       "SetID": "5fn8ia4",
       "Name": "Thief!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1025
     },
     {
       "ID": "GSS_ACH_22_LOCKPICKING_02",
@@ -3260,17 +3260,17 @@
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 2",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 991
+      "UsersEstimate": 1002
     },
     {
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 3",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 818
+      "UsersEstimate": 829
     },
     {
       "ID": "GSS_ACH_49_UPGRADE_STATION_03",
@@ -3557,8 +3557,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-04T17:00:39.9868842+00:00",
-  "LastChanged_Achievements": "2023-12-04T23:08:19.5532795+00:00",
+  "LastChanged_Achievements": "2023-12-05T00:08:08.8028523+00:00",
   "LastUpdate_AppInfo": "2023-12-04T17:57:13.8571473+00:00",
-  "LastUpdate_Ratings": "2023-12-04T22:59:21.6283542+00:00",
-  "LastUpdate_Achievements": "2023-12-04T23:08:19.5533805+00:00"
+  "LastUpdate_Ratings": "2023-12-04T23:59:14.9336183+00:00",
+  "LastUpdate_Achievements": "2023-12-05T00:08:08.8029389+00:00"
 }

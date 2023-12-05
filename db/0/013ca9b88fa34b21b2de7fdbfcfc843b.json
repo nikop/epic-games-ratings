@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -207,7 +207,7 @@
   "Tags": [],
   "EOS_Progressed": 8286,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8186,9 +8186,9 @@
       "ID": "DISCOVER_SCROLLS_1",
       "SetID": "9eia0f5",
       "Name": "Humble Collector",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3480
+      "UsersEstimate": 3563
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -8345,8 +8345,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-04T18:02:55.9509642+00:00",
-  "LastChanged_Achievements": "2023-12-04T23:09:49.714014+00:00",
+  "LastChanged_Achievements": "2023-12-05T00:09:34.5606109+00:00",
   "LastUpdate_AppInfo": "2023-12-01T09:57:19.7790129+00:00",
-  "LastUpdate_Ratings": "2023-12-04T23:03:04.126078+00:00",
-  "LastUpdate_Achievements": "2023-12-04T23:09:49.7140742+00:00"
+  "LastUpdate_Ratings": "2023-12-05T00:02:57.9978042+00:00",
+  "LastUpdate_Achievements": "2023-12-05T00:09:34.5606621+00:00"
 }

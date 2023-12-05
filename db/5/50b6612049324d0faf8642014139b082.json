@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -103,9 +103,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 742,
+  "EOS_Progressed": 743,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1778,6 +1778,11 @@
       "Time": "2023-12-04T23:09:47.7817808+00:00",
       "NumProgressed": 742,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-05T00:09:32.6023952+00:00",
+      "NumProgressed": 743,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1820,9 +1825,9 @@
       "ID": "achievement_13",
       "SetID": "jnappp",
       "Name": "Long Haul Hero",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 30
+      "UsersEstimate": 22
     },
     {
       "ID": "achievement_14",
@@ -1830,7 +1835,7 @@
       "Name": "Vehicle Builder",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "achievement_15",
@@ -1878,7 +1883,7 @@
       "Name": "Team Principal",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "achievement_20",
@@ -1974,7 +1979,7 @@
       "Name": "NEW PB!",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "achievement_8",
@@ -1997,7 +2002,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 742,
+      "Progressed": 743,
       "Completed": 0
     }
   ],
@@ -2005,8 +2010,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-12-04T08:59:17.8439063+00:00",
-  "LastChanged_Achievements": "2023-12-04T23:09:47.7817804+00:00",
+  "LastChanged_Achievements": "2023-12-05T00:09:32.6023949+00:00",
   "LastUpdate_AppInfo": "2023-11-28T21:56:52.2952246+00:00",
-  "LastUpdate_Ratings": "2023-12-04T22:59:25.3609691+00:00",
-  "LastUpdate_Achievements": "2023-12-04T23:09:47.7818101+00:00"
+  "LastUpdate_Ratings": "2023-12-04T23:59:18.7778152+00:00",
+  "LastUpdate_Achievements": "2023-12-05T00:09:32.6024127+00:00"
 }

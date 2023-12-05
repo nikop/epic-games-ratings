@@ -16,12 +16,12 @@
 | A rival with no options | 11.00% | ~5 |
 | The artist | 11.00% | ~5 |
 | The seer | 11.00% | ~5 |
+| You have two wishes left | 11.00% | ~5 |
 | Pulp! Out of this World | 9.00% | ~4 |
 | Pulp! Adventures into the Unknown | 9.00% | ~4 |
 | Kirlian's best disciple | 9.00% | ~4 |
 | Diagnosis: fear | 9.00% | ~4 |
 | Ambition is... blind | 9.00% | ~4 |
-| You have two wishes left | 9.00% | ~4 |
 | You had one wish left | 7.00% | ~3 |
 | Bread and bocaua | 7.00% | ~3 |
 | Fanatacism is... poisonous | 7.00% | ~3 |

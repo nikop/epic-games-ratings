@@ -6,12 +6,13 @@ Rating: 4.75 (Ranked 147)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Killing Jar | 0.80% | ~1,879 |
-| Regicide | 0.80% | ~112 |
+| Regicide | 0.80% | ~113 |
 | First of Many | 0.70% | ~1,644 |
-| Master of the Dark Arts | 0.70% | ~98 |
-| Not Your Average Trait | 0.60% | ~1,409 |
-| Expanding Horizons | 0.50% | ~1,174 |
-| Quest for Survival | 0.50% | ~1,174 |
+| Master of the Dark Arts | 0.70% | ~99 |
+| Not Your Average Trait | 0.60% | ~1,410 |
+| Expanding Horizons | 0.50% | ~1,175 |
+| Quest for Survival | 0.50% | ~1,175 |
+| Boss'n Up | 0.50% | ~1,175 |
 | Am I Seeing This? | 0.40% | ~940 |
 | Gleaming the Cube | 0.40% | ~940 |
 | Not So Special Now | 0.40% | ~940 |
@@ -21,11 +22,11 @@ Rating: 4.75 (Ranked 147)
 | Blue Goddess | 0.40% | ~940 |
 | Duality | 0.40% | ~940 |
 | Top Performer | 0.40% | ~940 |
-| Boss'n Up | 0.40% | ~940 |
 | Almost There | 0.40% | ~940 |
 | Make Some Room | 0.40% | ~940 |
 | Good, But Could Be Better! | 0.40% | ~940 |
 | Trait Chaser | 0.40% | ~940 |
+| Ghost in the Machine | 0.30% | ~705 |
 | Chaos | 0.30% | ~705 |
 | Traitor | 0.30% | ~705 |
 | Forever is a Long Time Coming | 0.30% | ~705 |
@@ -41,7 +42,6 @@ Rating: 4.75 (Ranked 147)
 | Scrap Hoarder | 0.30% | ~705 |
 | All These Traits� | 0.30% | ~705 |
 | Crafty | 0.20% | ~470 |
-| Ghost in the Machine | 0.20% | ~470 |
 | Only Human | 0.20% | ~470 |
 | The Agenda | 0.20% | ~470 |
 | Tall Tales | 0.20% | ~470 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 147)
 | Red Room | 0.10% | ~235 |
 | A Foul Feast | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,896 (Ranked 68)  
+Progressed: 234,924 (Ranked 68)  
 Completed: 558 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,6 +203,7 @@ Completed: 558 (0.24%) (Ranked 251)
 | 2023-12-02 | 233,162 | 548 |
 | 2023-12-03 | 234,204 | 554 |
 | 2023-12-04 | 234,896 | 558 |
+| 2023-12-05 | 234,924 | 558 |
 ## Awards
 Max (Great Boss Battles): 2,623  (Ranked 102)  
 Sum: 6,481 (Ranked 128)  

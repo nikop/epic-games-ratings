@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -251,7 +251,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7867,
+  "EOS_Progressed": 7868,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
@@ -8671,6 +8671,11 @@
       "Time": "2023-12-04T14:06:14.9258951+00:00",
       "NumProgressed": 7867,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-05T00:04:59.9275692+00:00",
+      "NumProgressed": 7868,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -8730,7 +8735,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -8834,7 +8839,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "THING",
@@ -8849,7 +8854,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7867,
+      "Progressed": 7868,
       "Completed": 34
     }
   ],
@@ -8857,8 +8862,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-30T18:59:17.1585861+00:00",
-  "LastChanged_Achievements": "2023-12-04T23:05:01.9445581+00:00",
+  "LastChanged_Achievements": "2023-12-05T00:04:59.9275689+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:30.2114196+00:00",
-  "LastUpdate_Ratings": "2023-12-04T22:57:08.1308133+00:00",
-  "LastUpdate_Achievements": "2023-12-04T23:05:01.9446363+00:00"
+  "LastUpdate_Ratings": "2023-12-04T23:56:58.9132523+00:00",
+  "LastUpdate_Achievements": "2023-12-05T00:04:59.9276208+00:00"
 }

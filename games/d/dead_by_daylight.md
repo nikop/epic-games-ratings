@@ -6,19 +6,19 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~10,701 |
-| It wakes | 1.00% | ~10,701 |
-| Not half bad | 1.00% | ~10,701 |
-| Skillful | 1.00% | ~10,701 |
-| Make Some Noise | 0.90% | ~9,631 |
-| Apt Survivor | 0.80% | ~8,561 |
-| Survival Treasures | 0.80% | ~8,561 |
-| I | 0.80% | ~8,561 |
-| Handyman | 0.70% | ~7,491 |
-| Sorted | 0.70% | ~7,491 |
-| Resurgence | 0.70% | ~7,491 |
+| Zealous | 1.00% | ~10,702 |
+| It wakes | 1.00% | ~10,702 |
+| Not half bad | 1.00% | ~10,702 |
+| Skillful | 1.00% | ~10,702 |
+| Make Some Noise | 0.90% | ~9,632 |
+| Apt Survivor | 0.80% | ~8,562 |
+| Survival Treasures | 0.80% | ~8,562 |
+| I | 0.80% | ~8,562 |
+| No one left behind | 0.70% | ~7,492 |
+| Handyman | 0.70% | ~7,492 |
+| Sorted | 0.70% | ~7,492 |
+| Resurgence | 0.70% | ~7,492 |
 | The Grand Sacrifice | 0.60% | ~6,421 |
-| No one left behind | 0.60% | ~6,421 |
 | Medic | 0.60% | ~6,421 |
 | Bloody Millionaire | 0.60% | ~6,421 |
 | Healthy Obsession | 0.60% | ~6,421 |
@@ -38,27 +38,27 @@ Number of Ratings: 70,340  (23.09.2022)
 | Vulture | 0.40% | ~4,281 |
 | III | 0.40% | ~4,281 |
 | Lifting The Fog | 0.40% | ~4,281 |
-| Blood on your hands | 0.30% | ~3,210 |
-| Escape Artist | 0.30% | ~3,210 |
-| Made it out alive! | 0.30% | ~3,210 |
-| Nerves of steel | 0.30% | ~3,210 |
-| Gifts for the Fog | 0.30% | ~3,210 |
-| III-50 | 0.30% | ~3,210 |
-| Item of Obsession | 0.30% | ~3,210 |
-| Near-Death Experience | 0.30% | ~3,210 |
-| Cherish your Life | 0.30% | ~3,210 |
-| Unforgettable Getaway | 0.30% | ~3,210 |
-| Cutting Out | 0.30% | ~3,210 |
-| First to the Punch | 0.30% | ~3,210 |
-| Operation: Survival | 0.30% | ~3,210 |
-| Old West Oasis | 0.30% | ~3,210 |
-| Classy Act | 0.30% | ~3,210 |
-| Every Last Drop | 0.30% | ~3,210 |
-| Raccoon City Recruit | 0.30% | ~3,210 |
-| With Scars to Show | 0.30% | ~3,210 |
-| Flight to Freedom | 0.30% | ~3,210 |
-| Chorus of Chaos | 0.30% | ~3,210 |
-| Second Act | 0.30% | ~3,210 |
+| Blood on your hands | 0.30% | ~3,211 |
+| Escape Artist | 0.30% | ~3,211 |
+| Made it out alive! | 0.30% | ~3,211 |
+| Nerves of steel | 0.30% | ~3,211 |
+| Gifts for the Fog | 0.30% | ~3,211 |
+| III-50 | 0.30% | ~3,211 |
+| Item of Obsession | 0.30% | ~3,211 |
+| Near-Death Experience | 0.30% | ~3,211 |
+| Cherish your Life | 0.30% | ~3,211 |
+| Unforgettable Getaway | 0.30% | ~3,211 |
+| Cutting Out | 0.30% | ~3,211 |
+| First to the Punch | 0.30% | ~3,211 |
+| Operation: Survival | 0.30% | ~3,211 |
+| Old West Oasis | 0.30% | ~3,211 |
+| Classy Act | 0.30% | ~3,211 |
+| Every Last Drop | 0.30% | ~3,211 |
+| Raccoon City Recruit | 0.30% | ~3,211 |
+| With Scars to Show | 0.30% | ~3,211 |
+| Flight to Freedom | 0.30% | ~3,211 |
+| Chorus of Chaos | 0.30% | ~3,211 |
+| Second Act | 0.30% | ~3,211 |
 | A bite for the Entity | 0.20% | ~2,140 |
 | Blood on your face | 0.20% | ~2,140 |
 | Hemophobia | 0.20% | ~2,140 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Joke’s On You | 0.10% | ~1,070 |
 | Adept Good Guy | 0.10% | ~1,070 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,070,133 (Ranked 14)  
+Progressed: 1,070,237 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -468,9 +468,10 @@ Completed: 61 (0.01%) (Ranked 346)
 | 2023-12-02 | 1,062,340 | 61 |
 | 2023-12-03 | 1,067,390 | 61 |
 | 2023-12-04 | 1,070,133 | 61 |
+| 2023-12-05 | 1,070,237 | 61 |
 ## Awards
 Max (Diverse Characters): 37,289  (Ranked 15)  
-Sum: 282,956 (Ranked 12)  
+Sum: 282,989 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -478,7 +479,7 @@ Diff (max vs sum): 3
 | This game is Highly Recommended | 32,351 |
 | This game has Amazing Characters | 31,874 |
 | This game has Competitive Players | 31,715 |
-| This game is Extremely Fun | 31,369 |
+| This game is Extremely Fun | 31,402 |
 | This game has Challenging Combat | 31,271 |
 | This game has Quickly Understood Controls | 30,593 |
 | This game has Amazing Storytelling | 28,884 |
@@ -802,4 +803,4 @@ Diff (max vs sum): 3
 | 2023-12-01 | 4.51 | - | 37,031 | 281,537 |
 | 2023-12-02 | 4.51 | - | 37,095 | 281,803 |
 | 2023-12-03 | 4.51 | - | 37,218 | 282,346 |
-| 2023-12-04 | 4.51 | - | 37,289 | 282,956 |
+| 2023-12-04 | 4.51 | - | 37,289 | 282,989 |

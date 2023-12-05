@@ -6,22 +6,22 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~31,811 |
-| Quick Understanding of Block Extrusion | 68.00% | ~28,842 |
-| Nature or Nurture | 52.00% | ~22,056 |
-| Power Glove | 50.00% | ~21,208 |
-| Forgotten Memories | 43.00% | ~18,238 |
-| Cogs in the Machine | 36.00% | ~15,269 |
-| Mission Success | 23.00% | ~9,755 |
-| There's No Place Like Home | 22.00% | ~9,331 |
-| Green Cube Killer | 19.00% | ~8,059 |
-| Infinity Loop | 17.00% | ~7,211 |
-| Path to Salvation | 17.00% | ~7,211 |
-| Descendants | 15.00% | ~6,362 |
-| The Flawed Teacher | 12.00% | ~5,090 |
+| Lost in Space | 75.00% | ~31,816 |
+| Quick Understanding of Block Extrusion | 68.00% | ~28,847 |
+| Nature or Nurture | 52.00% | ~22,059 |
+| Power Glove | 50.00% | ~21,211 |
+| Forgotten Memories | 43.00% | ~18,241 |
+| Cogs in the Machine | 36.00% | ~15,272 |
+| Mission Success | 23.00% | ~9,757 |
+| There's No Place Like Home | 22.00% | ~9,333 |
+| Green Cube Killer | 19.00% | ~8,060 |
+| Infinity Loop | 17.00% | ~7,212 |
+| Path to Salvation | 17.00% | ~7,212 |
+| Descendants | 15.00% | ~6,363 |
+| The Flawed Teacher | 12.00% | ~5,091 |
 | To Infinity and Beyond | 6.00% | ~2,545 |
 | The Truthful Enemy | 5.00% | ~2,121 |
-| Laser Sharp | 3.00% | ~1,272 |
+| Laser Sharp | 3.00% | ~1,273 |
 | Bronze collector | 2.00% | ~848 |
 | Home Stretch | 2.00% | ~848 |
 | Get me out of here | 2.00% | ~848 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 1.00% | ~424 |
 | Expert Collector | 1.00% | ~424 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,415 (Ranked 119)  
+Progressed: 42,422 (Ranked 119)  
 Completed: 190 (0.45%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,6 +142,7 @@ Completed: 190 (0.45%) (Ranked 215)
 | 2023-12-02 | 42,121 | 183 |
 | 2023-12-03 | 42,320 | 186 |
 | 2023-12-04 | 42,415 | 190 |
+| 2023-12-05 | 42,422 | 190 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

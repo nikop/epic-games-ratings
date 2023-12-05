@@ -4,8 +4,8 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 299,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 427,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -1801,8 +1801,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-12-04T23:04:52.1717203+00:00",
+  "LastChanged_Achievements": "2023-12-05T00:04:49.9160405+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:14.0830214+00:00",
-  "LastUpdate_Ratings": "2023-12-04T22:58:21.929847+00:00",
-  "LastUpdate_Achievements": "2023-12-04T23:04:52.1717449+00:00"
+  "LastUpdate_Ratings": "2023-12-04T23:58:14.4035406+00:00",
+  "LastUpdate_Achievements": "2023-12-05T00:04:49.9160581+00:00"
 }
