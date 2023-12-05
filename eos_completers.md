@@ -94,7 +94,7 @@
 | 92 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.74% |
 | 93 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.66% |
 | 94 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.61% |
-| 95 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 3.57% |
+| 95 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 3.45% |
 | 96 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.39% |
 | 97 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 98 | [Bunny Park](games/b/bunny_park.md) | 3.30% |
@@ -143,7 +143,7 @@
 | 141 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
 | 142 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.56% |
 | 143 | [Five Dates](games/f/five_dates.md) | 1.55% |
-| 144 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.54% |
+| 144 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.53% |
 | 145 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.47% |
 | 145 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.47% |
 | 147 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.44% |
