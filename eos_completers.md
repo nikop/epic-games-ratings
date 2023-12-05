@@ -170,8 +170,8 @@
 | 168 | [Sable](games/s/sable.md) | 1.01% |
 | 168 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.01% |
 | 170 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.99% |
-| 171 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.97% |
-| 172 | [Trifox](games/t/trifox.md) | 0.96% |
+| 171 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.96% |
+| 171 | [Trifox](games/t/trifox.md) | 0.96% |
 | 173 | [A Musical Story](games/a/a_musical_story.md) | 0.94% |
 | 174 | [Hades](games/h/hades.md) | 0.91% |
 | 175 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.90% |
@@ -776,4 +776,4 @@
 | 368 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 368 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 368 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,659 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,660 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
