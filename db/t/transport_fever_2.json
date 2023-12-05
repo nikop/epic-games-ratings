@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -779,7 +779,7 @@
   ],
   "EOS_Progressed": 1917,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5293,9 +5293,9 @@
       "ID": "achFirstSteamTrainArrived",
       "SetID": "dgl390n",
       "Name": "First steam train arrived",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1150
     },
     {
       "ID": "achGlacierExpress",
@@ -5381,9 +5381,9 @@
       "ID": "achMissionAllMedals",
       "SetID": "dgl390n",
       "Name": "Exemplary student",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 805
+      "UsersEstimate": 824
     },
     {
       "ID": "achMuseumLine",
@@ -5517,8 +5517,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-11-30T19:57:29.6372575+00:00",
-  "LastChanged_Achievements": "2023-12-05T22:04:25.8988602+00:00",
+  "LastChanged_Achievements": "2023-12-05T23:04:12.7547431+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:42.1017313+00:00",
-  "LastUpdate_Ratings": "2023-12-05T21:59:40.9534727+00:00",
-  "LastUpdate_Achievements": "2023-12-05T22:04:25.8989333+00:00"
+  "LastUpdate_Ratings": "2023-12-05T22:59:27.9417271+00:00",
+  "LastUpdate_Achievements": "2023-12-05T23:04:12.7548199+00:00"
 }

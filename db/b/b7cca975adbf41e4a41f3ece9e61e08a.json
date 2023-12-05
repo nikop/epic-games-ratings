@@ -193,9 +193,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 10711,
+  "EOS_Progressed": 10712,
   "EOS_Completed": 192,
-  "EOS_NewPlayers": 391,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.79,
   "EosHistory": [
@@ -5553,6 +5553,11 @@
       "Time": "2023-12-05T22:08:39.1825242+00:00",
       "NumProgressed": 10711,
       "NumCompleted": 192
+    },
+    {
+      "Time": "2023-12-05T23:08:03.9790397+00:00",
+      "NumProgressed": 10712,
+      "NumCompleted": 192
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -5565,7 +5570,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 92,
       "XP": 20,
-      "UsersEstimate": 9854
+      "UsersEstimate": 9855
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -5573,7 +5578,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 9211
+      "UsersEstimate": 9212
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -5637,7 +5642,7 @@
       "Name": "Go Get Some Fries On The Pier",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 3213
+      "UsersEstimate": 3214
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_18",
@@ -5645,7 +5650,7 @@
       "Name": "Days Of Innocence",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 3213
+      "UsersEstimate": 3214
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -5661,7 +5666,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 7819
+      "UsersEstimate": 7820
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -5701,7 +5706,7 @@
       "Name": "Love Actually",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 5141
+      "UsersEstimate": 5142
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -5749,7 +5754,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 7069
+      "UsersEstimate": 7070
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -5781,7 +5786,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 6212
+      "UsersEstimate": 6213
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -5900,7 +5905,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 10711,
+      "Progressed": 10712,
       "Completed": 192
     }
   ],
@@ -5908,8 +5913,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-12-01T14:59:07.0284768+00:00",
-  "LastChanged_Achievements": "2023-12-05T22:08:39.1825239+00:00",
+  "LastChanged_Achievements": "2023-12-05T23:08:03.9790392+00:00",
   "LastUpdate_AppInfo": "2023-12-02T02:15:26.2086692+00:00",
-  "LastUpdate_Ratings": "2023-12-05T21:57:27.3726905+00:00",
-  "LastUpdate_Achievements": "2023-12-05T22:08:39.1825782+00:00"
+  "LastUpdate_Ratings": "2023-12-05T22:57:16.9395781+00:00",
+  "LastUpdate_Achievements": "2023-12-05T23:08:03.9790958+00:00"
 }

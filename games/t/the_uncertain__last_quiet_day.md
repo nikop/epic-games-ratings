@@ -12,14 +12,14 @@
 | Short circuit | 52.00% | ~305 |
 | Curious | 42.00% | ~247 |
 | Everybody lies | 36.00% | ~211 |
-| Trick or Treat? | 23.00% | ~135 |
+| Trick or Treat? | 24.00% | ~141 |
 | There is another way | 23.00% | ~135 |
+| Sysadmin | 22.00% | ~129 |
 | Every little helps | 21.00% | ~123 |
-| Sysadmin | 21.00% | ~123 |
+| The Walking Robot Among Us | 20.00% | ~117 |
 | Annoying | 19.00% | ~112 |
 | Hacker | 19.00% | ~112 |
 | He is just a child | 19.00% | ~112 |
-| The Walking Robot Among Us | 19.00% | ~112 |
 | Uncertain | 18.00% | ~106 |
 | Ace | 17.00% | ~100 |
 | Goody | 17.00% | ~100 |

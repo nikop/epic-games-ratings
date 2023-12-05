@@ -6,36 +6,36 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~10,726 |
-| It wakes | 1.00% | ~10,726 |
-| Not half bad | 1.00% | ~10,726 |
-| Skillful | 1.00% | ~10,726 |
-| Make Some Noise | 1.00% | ~10,726 |
-| Apt Survivor | 0.90% | ~9,654 |
-| Survival Treasures | 0.90% | ~9,654 |
-| I | 0.90% | ~9,654 |
-| Handyman | 0.80% | ~8,581 |
-| Sorted | 0.80% | ~8,581 |
-| Resurgence | 0.80% | ~8,581 |
-| The Grand Sacrifice | 0.70% | ~7,508 |
-| No one left behind | 0.70% | ~7,508 |
-| Medic | 0.70% | ~7,508 |
-| Bloody Millionaire | 0.70% | ~7,508 |
-| Healthy Obsession | 0.70% | ~7,508 |
-| Preemptive Strike | 0.70% | ~7,508 |
-| Humanitarian | 0.70% | ~7,508 |
+| Zealous | 1.00% | ~10,728 |
+| It wakes | 1.00% | ~10,728 |
+| Not half bad | 1.00% | ~10,728 |
+| Skillful | 1.00% | ~10,728 |
+| Make Some Noise | 1.00% | ~10,728 |
+| Apt Survivor | 0.90% | ~9,655 |
+| Survival Treasures | 0.90% | ~9,655 |
+| I | 0.90% | ~9,655 |
+| Handyman | 0.80% | ~8,582 |
+| Sorted | 0.80% | ~8,582 |
+| Resurgence | 0.80% | ~8,582 |
+| The Grand Sacrifice | 0.70% | ~7,509 |
+| No one left behind | 0.70% | ~7,509 |
+| Medic | 0.70% | ~7,509 |
+| Bloody Millionaire | 0.70% | ~7,509 |
+| Healthy Obsession | 0.70% | ~7,509 |
+| Preemptive Strike | 0.70% | ~7,509 |
+| Humanitarian | 0.70% | ~7,509 |
 | Agonizing Escape | 0.60% | ~6,436 |
 | Backdoor Escape | 0.60% | ~6,436 |
 | Perfect Escape | 0.60% | ~6,436 |
 | II | 0.60% | ~6,436 |
 | Close Shave | 0.60% | ~6,436 |
-| I've got your back | 0.50% | ~5,363 |
-| Perfect Killing | 0.50% | ~5,363 |
-| Apt Killer | 0.50% | ~5,363 |
-| Risk it all | 0.50% | ~5,363 |
-| III | 0.50% | ~5,363 |
-| Engineer | 0.50% | ~5,363 |
-| Wounded Healer | 0.50% | ~5,363 |
+| I've got your back | 0.50% | ~5,364 |
+| Perfect Killing | 0.50% | ~5,364 |
+| Apt Killer | 0.50% | ~5,364 |
+| Risk it all | 0.50% | ~5,364 |
+| III | 0.50% | ~5,364 |
+| Engineer | 0.50% | ~5,364 |
+| Wounded Healer | 0.50% | ~5,364 |
 | Escape Artist | 0.40% | ~4,291 |
 | Vulture | 0.40% | ~4,291 |
 | First to the Punch | 0.40% | ~4,291 |
@@ -66,31 +66,31 @@ Number of Ratings: 70,340  (23.09.2022)
 | Raccoon City Recruit | 0.30% | ~3,218 |
 | Chorus of Chaos | 0.30% | ~3,218 |
 | One More Step | 0.30% | ~3,218 |
-| A bite for the Entity | 0.20% | ~2,145 |
-| Blood on your face | 0.20% | ~2,145 |
-| Hemophobia | 0.20% | ~2,145 |
-| Deep Cleansing | 0.20% | ~2,145 |
-| Leapfrog | 0.20% | ~2,145 |
-| Cottage Owner | 0.20% | ~2,145 |
-| Serial Killer | 0.20% | ~2,145 |
-| Escaping the Nightmare | 0.20% | ~2,145 |
-| Game Over | 0.20% | ~2,145 |
-| Party Crasher | 0.20% | ~2,145 |
-| Campbell's Chapel Legacy | 0.20% | ~2,145 |
-| Devoted Gatekeeping | 0.20% | ~2,145 |
-| Shrine Apparatus | 0.20% | ~2,145 |
-| Broken Bodies | 0.20% | ~2,145 |
-| Grim Pilgrimage | 0.20% | ~2,145 |
-| Selfless Survival | 0.20% | ~2,145 |
-| End of Days | 0.20% | ~2,145 |
-| Insult and Injury | 0.20% | ~2,145 |
-| Outrun the Overlap | 0.20% | ~2,145 |
-| High Speed Pursuit | 0.20% | ~2,145 |
-| A Fast Death | 0.20% | ~2,145 |
-| Rebuilding The Borgo | 0.20% | ~2,145 |
-| Extraterrestrial | 0.20% | ~2,145 |
-| MU/TH/UR Dearest | 0.20% | ~2,145 |
-| Outta Nowhere | 0.20% | ~2,145 |
+| A bite for the Entity | 0.20% | ~2,146 |
+| Blood on your face | 0.20% | ~2,146 |
+| Hemophobia | 0.20% | ~2,146 |
+| Deep Cleansing | 0.20% | ~2,146 |
+| Leapfrog | 0.20% | ~2,146 |
+| Cottage Owner | 0.20% | ~2,146 |
+| Serial Killer | 0.20% | ~2,146 |
+| Escaping the Nightmare | 0.20% | ~2,146 |
+| Game Over | 0.20% | ~2,146 |
+| Party Crasher | 0.20% | ~2,146 |
+| Campbell's Chapel Legacy | 0.20% | ~2,146 |
+| Devoted Gatekeeping | 0.20% | ~2,146 |
+| Shrine Apparatus | 0.20% | ~2,146 |
+| Broken Bodies | 0.20% | ~2,146 |
+| Grim Pilgrimage | 0.20% | ~2,146 |
+| Selfless Survival | 0.20% | ~2,146 |
+| End of Days | 0.20% | ~2,146 |
+| Insult and Injury | 0.20% | ~2,146 |
+| Outrun the Overlap | 0.20% | ~2,146 |
+| High Speed Pursuit | 0.20% | ~2,146 |
+| A Fast Death | 0.20% | ~2,146 |
+| Rebuilding The Borgo | 0.20% | ~2,146 |
+| Extraterrestrial | 0.20% | ~2,146 |
+| MU/TH/UR Dearest | 0.20% | ~2,146 |
+| Outta Nowhere | 0.20% | ~2,146 |
 | A feast for the Entity | 0.10% | ~1,073 |
 | Blood in your mouth | 0.10% | ~1,073 |
 | Cripple them all | 0.10% | ~1,073 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Joke’s On You | 0.10% | ~1,073 |
 | Adept Good Guy | 0.10% | ~1,073 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,072,634 (Ranked 14)  
+Progressed: 1,072,750 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -468,14 +468,14 @@ Completed: 61 (0.01%) (Ranked 347)
 | 2023-12-02 | 1,062,340 | 61 |
 | 2023-12-03 | 1,067,390 | 61 |
 | 2023-12-04 | 1,070,133 | 61 |
-| 2023-12-05 | 1,072,634 | 61 |
+| 2023-12-05 | 1,072,750 | 61 |
 ## Awards
-Max (Diverse Characters): 37,289  (Ranked 15)  
-Sum: 283,261 (Ranked 12)  
+Max (Diverse Characters): 37,377  (Ranked 15)  
+Sum: 283,349 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 37,289 |
+| This game has Diverse Characters | 37,377 |
 | This game is Highly Recommended | 32,392 |
 | This game has Amazing Characters | 31,923 |
 | This game has Competitive Players | 31,755 |
@@ -804,4 +804,4 @@ Diff (max vs sum): 3
 | 2023-12-02 | 4.51 | - | 37,095 | 281,803 |
 | 2023-12-03 | 4.51 | - | 37,218 | 282,346 |
 | 2023-12-04 | 4.51 | - | 37,289 | 282,989 |
-| 2023-12-05 | 4.51 | - | 37,289 | 283,261 |
+| 2023-12-05 | 4.51 | - | 37,377 | 283,349 |

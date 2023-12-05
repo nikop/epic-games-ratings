@@ -1627,10 +1627,10 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 161374,
-  "EOS_Completed": 204,
+  "EOS_Progressed": 161376,
+  "EOS_Completed": 205,
   "EOS_NewPlayers": 852,
-  "EOS_NewCompleters": 203,
+  "EOS_NewCompleters": 204,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
     {
@@ -18117,6 +18117,11 @@
       "Time": "2023-12-05T22:05:34.7684577+00:00",
       "NumProgressed": 161374,
       "NumCompleted": 204
+    },
+    {
+      "Time": "2023-12-05T23:05:21.7161561+00:00",
+      "NumProgressed": 161376,
+      "NumCompleted": 205
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -18177,7 +18182,7 @@
       "Name": "The Hunt",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -18193,7 +18198,7 @@
       "Name": "Taste",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -18496,21 +18501,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 160957,
+      "Progressed": 160959,
       "Completed": 1233
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 161374,
-      "Completed": 204
+      "Progressed": 161376,
+      "Completed": 205
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-04T21:01:04.8084079+00:00",
-  "LastChanged_Achievements": "2023-12-05T22:05:34.7684573+00:00",
+  "LastChanged_Achievements": "2023-12-05T23:05:21.7161557+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:51.7108111+00:00",
-  "LastUpdate_Ratings": "2023-12-05T21:59:57.4543834+00:00",
-  "LastUpdate_Achievements": "2023-12-05T22:05:34.7685626+00:00"
+  "LastUpdate_Ratings": "2023-12-05T22:59:44.3222536+00:00",
+  "LastUpdate_Achievements": "2023-12-05T23:05:21.7163344+00:00"
 }

@@ -30,7 +30,7 @@
 | For its own good | 11.00% | ~97 |
 | Fashion victim | 5.00% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 878 (Ranked 272)  
+Progressed: 878 (Ranked 273)  
 Completed: 51 (5.81%) (Ranked 70)  
 ## EOS Players History
 | Date | Progressed | Completed |

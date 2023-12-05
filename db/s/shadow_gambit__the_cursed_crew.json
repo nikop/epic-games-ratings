@@ -131,9 +131,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1003,
+  "EOS_Progressed": 1004,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.19,
   "EosHistory": [
@@ -3346,6 +3346,11 @@
       "Time": "2023-12-05T19:05:48.0203891+00:00",
       "NumProgressed": 1003,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-05T23:04:28.5542374+00:00",
+      "NumProgressed": 1004,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3366,7 +3371,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "_03_FinishAct1",
@@ -3414,7 +3419,7 @@
       "Name": "Swabbie",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "_09_Completion_20",
@@ -3438,7 +3443,7 @@
       "Name": "Seadog",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "_12_Completion_50",
@@ -3476,9 +3481,9 @@
       "ID": "_16_UnlockCore8Characters",
       "SetID": "8a1io5d",
       "Name": "Pirates Assemble!",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 261
+      "UsersEstimate": 251
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -3486,7 +3491,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -3565,7 +3570,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1003,
+      "Progressed": 1004,
       "Completed": 32
     }
   ],
@@ -3573,8 +3578,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-04T19:02:27.0959811+00:00",
-  "LastChanged_Achievements": "2023-12-05T22:04:41.7423783+00:00",
+  "LastChanged_Achievements": "2023-12-05T23:04:28.554237+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:16.5122288+00:00",
-  "LastUpdate_Ratings": "2023-12-05T21:57:27.807283+00:00",
-  "LastUpdate_Achievements": "2023-12-05T22:04:41.7424045+00:00"
+  "LastUpdate_Ratings": "2023-12-05T22:57:17.3103704+00:00",
+  "LastUpdate_Achievements": "2023-12-05T23:04:28.5542801+00:00"
 }

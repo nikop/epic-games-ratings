@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 115968,
+  "EOS_Progressed": 115970,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 596,
+  "EOS_NewPlayers": 595,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -20259,6 +20259,11 @@
       "Time": "2023-12-05T22:09:16.5759007+00:00",
       "NumProgressed": 115968,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-12-05T23:08:58.6095315+00:00",
+      "NumProgressed": 115970,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 49,
@@ -20278,7 +20283,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 89295
+      "UsersEstimate": 89297
     },
     {
       "ID": "EAwards_10",
@@ -20302,7 +20307,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17395
+      "UsersEstimate": 17396
     },
     {
       "ID": "EAwards_13",
@@ -20342,7 +20347,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42908
+      "UsersEstimate": 42909
     },
     {
       "ID": "EAwards_18",
@@ -20366,7 +20371,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 55665
+      "UsersEstimate": 55666
     },
     {
       "ID": "EAwards_20",
@@ -20374,7 +20379,7 @@
       "Name": "King of the Hill",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12756
+      "UsersEstimate": 12757
     },
     {
       "ID": "EAwards_21",
@@ -20398,7 +20403,7 @@
       "Name": "These are not fertilized",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 9277
+      "UsersEstimate": 9278
     },
     {
       "ID": "EAwards_24",
@@ -20422,7 +20427,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12756
+      "UsersEstimate": 12757
     },
     {
       "ID": "EAwards_27",
@@ -20654,14 +20659,14 @@
       "Name": "Grapple Expert",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12756
+      "UsersEstimate": 12757
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 115968,
+      "Progressed": 115970,
       "Completed": 51
     }
   ],
@@ -20669,8 +20674,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-05T22:09:16.5759004+00:00",
+  "LastChanged_Achievements": "2023-12-05T23:08:58.6095309+00:00",
   "LastUpdate_AppInfo": "2023-12-01T05:57:06.5040385+00:00",
-  "LastUpdate_Ratings": "2023-12-05T21:02:39.9177962+00:00",
-  "LastUpdate_Achievements": "2023-12-05T22:09:16.576004+00:00"
+  "LastUpdate_Ratings": "2023-12-05T22:56:50.5159099+00:00",
+  "LastUpdate_Achievements": "2023-12-05T23:08:58.6096598+00:00"
 }

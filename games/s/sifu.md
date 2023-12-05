@@ -33,7 +33,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Mind | 0.40% | ~2,871 |
 | I know Kung-Fu | 0.40% | ~2,871 |
 | Kung-Fu Tussle | 0.40% | ~2,871 |
-| Bloody Sport | 0.40% | ~108 |
+| Bloody Sport | 0.40% | ~109 |
 | Muk Yan Master | 0.30% | ~2,153 |
 | Tiger on Fire | 0.30% | ~2,153 |
 | Source of Flying Daggers | 0.30% | ~2,153 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,824 (Ranked 22)  
+Progressed: 717,827 (Ranked 22)  
 Completed: 12,943 (1.80%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 12,943 (1.80%) (Ranked 135)
 | 2023-12-02 | 717,716 | 12,943 |
 | 2023-12-03 | 717,761 | 12,943 |
 | 2023-12-04 | 717,797 | 12,943 |
-| 2023-12-05 | 717,824 | 12,943 |
+| 2023-12-05 | 717,827 | 12,943 |
 ## Awards
 Max (Great Boss Battles): 6,879  (Ranked 55)  
 Sum: 12,067 (Ranked 83)  

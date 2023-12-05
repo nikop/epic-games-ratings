@@ -389,9 +389,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 324500,
+  "EOS_Progressed": 324515,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4009,
+  "EOS_NewPlayers": 4003,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8524,6 +8524,11 @@
       "Time": "2023-12-05T22:06:12.6776708+00:00",
       "NumProgressed": 324500,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-05T23:05:59.6251769+00:00",
+      "NumProgressed": 324515,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -8560,7 +8565,7 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1622
+      "UsersEstimate": 1623
     },
     {
       "ID": "S05_SWRA",
@@ -8632,7 +8637,7 @@
       "Name": "No damsels in distress",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "S14_ALL_VERYHARD",
@@ -8640,7 +8645,7 @@
       "Name": "The immortal is bound to reborn",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "S15_ALL_IMPOSSIBLE",
@@ -8648,7 +8653,7 @@
       "Name": "A legend among Chimeras",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "S16_VITALITY",
@@ -8656,7 +8661,7 @@
       "Name": "It\u0027s only pain",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "S17_ENTROPY",
@@ -8664,7 +8669,7 @@
       "Name": "I know how to handle it",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "S18_CHALLENGE",
@@ -8680,7 +8685,7 @@
       "Name": "Settle this once and for all",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "S20_KNIGHT",
@@ -8688,7 +8693,7 @@
       "Name": "The Ashen Knight",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "S21_WITCH",
@@ -8696,7 +8701,7 @@
       "Name": "The Shade",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "S22_CORRUPTED",
@@ -8712,7 +8717,7 @@
       "Name": "Through the Veil",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "S24_POSSESSED",
@@ -8720,7 +8725,7 @@
       "Name": "Call this the Judge\u0027s mercy",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "S25_OTWA",
@@ -8736,7 +8741,7 @@
       "Name": "There\u0027s too many of them!",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "S27_LWTC",
@@ -8760,7 +8765,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2271
+      "UsersEstimate": 2272
     },
     {
       "ID": "S30_DIAMOND",
@@ -8776,7 +8781,7 @@
       "Name": "I\u0027ve been waiting for this!",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "S32_NOHIT",
@@ -8784,7 +8789,7 @@
       "Name": "You want more? I\u0027ve got more!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "S33_NORMAL_PLATINUM",
@@ -8792,7 +8797,7 @@
       "Name": "I\u0027m just warming up",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "S34_HARD_PLATINUM",
@@ -8800,7 +8805,7 @@
       "Name": "We learned it the hard way",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "S35_VERYHARD_PLATINUM",
@@ -8808,7 +8813,7 @@
       "Name": "They wanted yet another monster\u2026",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "S36_CHTC_VODA",
@@ -8816,7 +8821,7 @@
       "Name": "Something... unnatural",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "S37_SYNERGY",
@@ -8824,7 +8829,7 @@
       "Name": "We strike as one",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "S38_RAPTURE",
@@ -8855,7 +8860,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 324500,
+      "Progressed": 324515,
       "Completed": 4
     }
   ],
@@ -8863,8 +8868,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-02T08:58:54.6895718+00:00",
-  "LastChanged_Achievements": "2023-12-05T22:06:12.6776704+00:00",
+  "LastChanged_Achievements": "2023-12-05T23:05:59.6251762+00:00",
   "LastUpdate_AppInfo": "2023-11-30T19:57:08.777578+00:00",
-  "LastUpdate_Ratings": "2023-12-05T22:00:01.3820009+00:00",
-  "LastUpdate_Achievements": "2023-12-05T22:06:12.6777695+00:00"
+  "LastUpdate_Ratings": "2023-12-05T22:59:48.2523252+00:00",
+  "LastUpdate_Achievements": "2023-12-05T23:05:59.6252519+00:00"
 }

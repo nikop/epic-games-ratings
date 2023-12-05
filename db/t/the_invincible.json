@@ -4,7 +4,7 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 3663,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 517,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1502,9 +1502,9 @@
       "ID": "AchvBombStop",
       "SetID": "1hj060c",
       "Name": "Peacemaker",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 103
+      "UsersEstimate": 109
     },
     {
       "ID": "AchvBombing",
@@ -1558,9 +1558,9 @@
       "ID": "AchvInvShip",
       "SetID": "1hj060c",
       "Name": "Another giant",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 52
     },
     {
       "ID": "AchvKrautaAlive",
@@ -1686,9 +1686,9 @@
       "ID": "AchvTheEnd",
       "SetID": "1hj060c",
       "Name": "The End",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 55,
-      "UsersEstimate": 150
+      "UsersEstimate": 155
     },
     {
       "ID": "AchvUnity",
@@ -1709,8 +1709,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-05T22:08:50.2080512+00:00",
+  "LastChanged_Achievements": "2023-12-05T23:08:12.5444499+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.6526822+00:00",
-  "LastUpdate_Ratings": "2023-12-05T21:58:14.4259803+00:00",
-  "LastUpdate_Achievements": "2023-12-05T22:08:50.2080719+00:00"
+  "LastUpdate_Ratings": "2023-12-05T22:58:02.5145631+00:00",
+  "LastUpdate_Achievements": "2023-12-05T23:08:12.5444794+00:00"
 }

@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Break Out | 15.00% | ~37 |
 | Trinity | 15.00% | ~37 |
-| Break Out | 14.00% | ~35 |
 | Find Allies | 13.00% | ~32 |
 | Powerful Allies | 11.00% | ~27 |
 | A Taste of Wrath | 11.00% | ~27 |
@@ -17,17 +17,17 @@
 | Scholar | 10.00% | ~25 |
 | The Collector | 10.00% | ~25 |
 | Big Bazar | 9.00% | ~22 |
+| Fashion Victim | 9.00% | ~22 |
 | Stone Collection | 9.00% | ~22 |
-| Fashion Victim | 8.00% | ~20 |
 | Essence Blow | 7.00% | ~17 |
 | Calm before the Storm | 6.00% | ~15 |
 | Alchemist | 6.00% | ~15 |
 | To Battle | 5.00% | ~12 |
 | Godslayer | 5.00% | ~12 |
 | The Mentor | 5.00% | ~12 |
+| Fine Feathers Make Fine Birds | 5.00% | ~12 |
 | Airborne | 4.00% | ~10 |
 | Shatterer | 4.00% | ~10 |
-| Fine Feathers Make Fine Birds | 4.00% | ~10 |
 | Clear Sight | 3.00% | ~7 |
 | Slayer | 2.00% | ~5 |
 | Flawless Victory | 2.00% | ~5 |

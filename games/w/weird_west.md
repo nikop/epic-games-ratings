@@ -6,16 +6,16 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 89.00% | ~1,798 |
-| Self-Improvement | 71.00% | ~1,434 |
-| Perky | 65.00% | ~1,313 |
+| Unforgiven | 88.00% | ~1,778 |
+| Self-Improvement | 71.00% | ~1,435 |
+| Perky | 65.00% | ~1,314 |
 | Let’s Ride | 59.00% | ~1,192 |
-| Welcome to the Weird West | 56.00% | ~1,131 |
-| Dead or Alive | 55.00% | ~1,111 |
-| Full House | 37.00% | ~747 |
+| Welcome to the Weird West | 56.00% | ~1,132 |
+| Dead or Alive | 55.00% | ~1,112 |
+| Full House | 37.00% | ~748 |
 | Off the Trail | 34.00% | ~687 |
 | Justice Served | 29.00% | ~586 |
-| Chain Reaction | 27.00% | ~545 |
+| Chain Reaction | 27.00% | ~546 |
 | Through Their Eyes | 26.00% | ~525 |
 | Dishonored | 25.00% | ~505 |
 | Rain of Death | 25.00% | ~505 |
@@ -30,10 +30,10 @@ Number of Ratings: 125  (23.09.2022)
 | Out on the Ebb Tide | 13.00% | ~263 |
 | Turning the Tables | 13.00% | ~263 |
 | Workers' Rights | 13.00% | ~263 |
-| Elusive Prey | 12.00% | ~242 |
-| Power Behind the Pulpit | 12.00% | ~242 |
-| Something Wicked This Way Comes… | 12.00% | ~242 |
-| There is Hope | 12.00% | ~242 |
+| Elusive Prey | 12.00% | ~243 |
+| Power Behind the Pulpit | 12.00% | ~243 |
+| Something Wicked This Way Comes… | 12.00% | ~243 |
+| There is Hope | 12.00% | ~243 |
 | The Philosopher’s Stone | 10.00% | ~202 |
 | Loyalty to the Pack | 9.00% | ~182 |
 | Eternity Can Wait | 9.00% | ~182 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.50% | ~10 |
 | Winter Has Come | 0.40% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,020 (Ranked 228)  
+Progressed: 2,021 (Ranked 228)  
 Completed: 7 (0.35%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,6 +233,7 @@ Completed: 7 (0.35%) (Ranked 230)
 | 2023-12-01 | 2,016 | 7 |
 | 2023-12-03 | 2,019 | 7 |
 | 2023-12-04 | 2,020 | 7 |
+| 2023-12-05 | 2,021 | 7 |
 ## Awards
 Max (Impact the Story): 29  (Ranked 504)  
 Sum: 29 (Ranked 517)  

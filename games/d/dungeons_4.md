@@ -15,7 +15,7 @@
 | Bad Elves Go Everywhere | 69.00% | ~364 |
 | Heroes’ Gorge | 65.00% | ~343 |
 | Master of Magic | 64.00% | ~338 |
-| Unicorn steaks – fresh off the hoof! | 61.00% | ~322 |
+| Unicorn steaks – fresh off the hoof! | 62.00% | ~327 |
 | Magic Accidents | 59.00% | ~312 |
 | The Ascent | 57.00% | ~301 |
 | It's Warm and Cozy at Home | 57.00% | ~301 |
@@ -31,12 +31,12 @@
 | Dungeonlord Gorgu | 42.00% | ~222 |
 | Mana Cannon | 41.00% | ~216 |
 | Tanos' Crusade Against Thalya | 40.00% | ~211 |
-| All’s Well That Ends Evil | 33.00% | ~174 |
+| All’s Well That Ends Evil | 34.00% | ~180 |
 | Unstoppable Horde | 32.00% | ~169 |
 | Master of the Undead | 31.00% | ~164 |
 | The Duel | 30.00% | ~158 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~143 |
 | If Looks Could Kill | 27.00% | ~143 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 26.00% | ~137 |
 | Forbidden Knowledge | 26.00% | ~137 |
 | Ghost Pirates? Ghost Heroes! | 26.00% | ~137 |
 | Hungry, Hungry Gorgu! | 25.00% | ~132 |

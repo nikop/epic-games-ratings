@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1554,
+  "EOS_Progressed": 1555,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -2263,6 +2263,11 @@
       "Time": "2023-12-04T22:04:44.6082408+00:00",
       "NumProgressed": 1554,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-05T23:04:58.9091418+00:00",
+      "NumProgressed": 1555,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2274,7 +2279,7 @@
       "Name": "Lovebirds",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "10",
@@ -2298,7 +2303,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "13",
@@ -2306,7 +2311,7 @@
       "Name": "Unstoppable",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "14",
@@ -2322,7 +2327,7 @@
       "Name": "Back to rust",
       "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "16",
@@ -2338,7 +2343,7 @@
       "Name": "Balding bloot!",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "18",
@@ -2362,7 +2367,7 @@
       "Name": "Flower Powered",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "20",
@@ -2434,7 +2439,7 @@
       "Name": "Hug therapy",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "30",
@@ -2513,15 +2518,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1554,
+      "Progressed": 1555,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-05T22:05:12.2864654+00:00",
+  "LastChanged_Achievements": "2023-12-05T23:04:58.9091414+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:11.0521144+00:00",
-  "LastUpdate_Ratings": "2023-12-05T21:58:31.1731066+00:00",
-  "LastUpdate_Achievements": "2023-12-05T22:05:12.2864935+00:00"
+  "LastUpdate_Ratings": "2023-12-05T22:58:19.1212239+00:00",
+  "LastUpdate_Achievements": "2023-12-05T23:04:58.9091729+00:00"
 }

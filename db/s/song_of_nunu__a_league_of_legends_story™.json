@@ -4,7 +4,7 @@
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1081,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -2701,9 +2701,9 @@
       "ID": "EV_ACH34",
       "SetID": "6jeac23",
       "Name": "One From The Heart",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 151
+      "UsersEstimate": 162
     },
     {
       "ID": "EV_ACH35",
@@ -2741,9 +2741,9 @@
       "ID": "EV_ACH39",
       "SetID": "6jeac23",
       "Name": "Boosted!",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 422
+      "UsersEstimate": 432
     },
     {
       "ID": "EV_ACH40",
@@ -2796,8 +2796,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-12-05T22:09:36.0086524+00:00",
+  "LastChanged_Achievements": "2023-12-05T23:09:17.7087118+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:30.6562338+00:00",
-  "LastUpdate_Ratings": "2023-12-05T21:59:20.8371868+00:00",
-  "LastUpdate_Achievements": "2023-12-05T22:09:36.0086911+00:00"
+  "LastUpdate_Ratings": "2023-12-05T22:59:07.6227233+00:00",
+  "LastUpdate_Achievements": "2023-12-05T23:09:17.7087699+00:00"
 }

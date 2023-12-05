@@ -2,12 +2,12 @@
   "ID": "4750c68b2bfa4f43933b81cfd5cc510c",
   "Name": "EA SPORTS FC\u2122 24 Standard Edition",
   "ProductSlug": "ea-sports-fc-24",
-  "Ranking_Rating": 842,
+  "Ranking_Rating": 835,
   "Ranking_Popularity": 172,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-09-29T00:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.3,
+  "Rating": 4.31,
   "RatingHistory": [
     {
       "Time": "2023-09-29T21:57:05.6639643+00:00",
@@ -2275,6 +2275,12 @@
       "Rating": 4.3,
       "NumberOfAwards": 3135,
       "NumberOfAwardsMax": 800
+    },
+    {
+      "Time": "2023-12-05T22:58:40.3751795+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 3135,
+      "NumberOfAwardsMax": 800
     }
   ],
   "ReviewsDisabled": false,
@@ -2337,9 +2343,9 @@
       "Count": 441
     }
   ],
-  "EOS_Progressed": 56101,
+  "EOS_Progressed": 56102,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 799,
+  "EOS_NewPlayers": 789,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11162,6 +11168,11 @@
       "Time": "2023-12-05T22:06:01.0373996+00:00",
       "NumProgressed": 56101,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-05T23:05:47.8390691+00:00",
+      "NumProgressed": 56102,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -11214,7 +11225,7 @@
       "Name": "The Alchemist",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 28050
+      "UsersEstimate": 28051
     },
     {
       "ID": "achievement_15",
@@ -11222,7 +11233,7 @@
       "Name": "Trust me, I\u0027m a Manager",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 27489
+      "UsersEstimate": 27490
     },
     {
       "ID": "achievement_16",
@@ -11230,7 +11241,7 @@
       "Name": "Defensive Masterclass",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 23562
+      "UsersEstimate": 23563
     },
     {
       "ID": "achievement_17",
@@ -11246,7 +11257,7 @@
       "Name": "Welcome to the Big Leagues!",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 26928
+      "UsersEstimate": 26929
     },
     {
       "ID": "achievement_19",
@@ -11278,7 +11289,7 @@
       "Name": "We\u0027re in the Game!",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 46564
+      "UsersEstimate": 46565
     },
     {
       "ID": "achievement_22",
@@ -11294,7 +11305,7 @@
       "Name": "Graduation Day",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 26928
+      "UsersEstimate": 26929
     },
     {
       "ID": "achievement_24",
@@ -11470,7 +11481,7 @@
       "Name": "Intuition and Execution",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 20757
+      "UsersEstimate": 20758
     },
     {
       "ID": "achievement_8",
@@ -11486,23 +11497,23 @@
       "Name": "Bring it on",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 16269
+      "UsersEstimate": 16270
     }
   ],
   "AchievementSets": [
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 56101,
+      "Progressed": 56102,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-29T00:00:53.2265881+00:00",
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
-  "LastChanged": "2023-12-05T14:59:47.9184171+00:00",
-  "LastChanged_Achievements": "2023-12-05T22:06:01.0373993+00:00",
+  "LastChanged": "2023-12-05T22:58:40.3751793+00:00",
+  "LastChanged_Achievements": "2023-12-05T23:05:47.8390686+00:00",
   "LastUpdate_AppInfo": "2023-12-01T05:57:07.0815744+00:00",
-  "LastUpdate_Ratings": "2023-12-05T21:58:52.5440476+00:00",
-  "LastUpdate_Achievements": "2023-12-05T22:06:01.0374701+00:00"
+  "LastUpdate_Ratings": "2023-12-05T22:58:40.3751799+00:00",
+  "LastUpdate_Achievements": "2023-12-05T23:05:47.839143+00:00"
 }

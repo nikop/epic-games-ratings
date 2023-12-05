@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14207,
+  "EOS_Progressed": 14208,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15934,6 +15934,11 @@
       "Time": "2023-12-05T22:06:01.391228+00:00",
       "NumProgressed": 14207,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-05T23:05:48.2564062+00:00",
+      "NumProgressed": 14208,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -16017,7 +16022,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 6251
+      "UsersEstimate": 6252
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -16113,7 +16118,7 @@
       "Name": "Art Intern",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2841
+      "UsersEstimate": 2842
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -16144,14 +16149,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 14207,
+      "Progressed": 14208,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-12-05T22:06:01.3912275+00:00",
+  "LastChanged_Achievements": "2023-12-05T23:05:48.2564057+00:00",
   "LastUpdate_AppInfo": "2023-12-02T04:57:13.9800461+00:00",
-  "LastUpdate_Ratings": "2023-12-05T21:57:45.8302098+00:00",
-  "LastUpdate_Achievements": "2023-12-05T22:06:01.3913576+00:00"
+  "LastUpdate_Ratings": "2023-12-05T22:57:34.8483181+00:00",
+  "LastUpdate_Achievements": "2023-12-05T23:05:48.2565531+00:00"
 }

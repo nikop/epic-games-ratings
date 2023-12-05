@@ -99,8 +99,8 @@
 | Pyromaniac | 20.00% | ~302 |
 | No One Left Behind | 20.00% | ~302 |
 | Executioner | 19.00% | ~287 |
+| Patriot | 19.00% | ~287 |
 | Master and Commander | 19.00% | ~287 |
-| Patriot | 18.00% | ~272 |
 | Legend | 18.00% | ~272 |
 | Long Service Medal | 16.00% | ~242 |
 | Sabotage Specialist | 16.00% | ~242 |

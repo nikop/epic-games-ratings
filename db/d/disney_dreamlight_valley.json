@@ -4963,10 +4963,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 8009,
       "NumberOfAwardsMax": 1096
+    },
+    {
+      "Time": "2023-12-05T22:59:47.634404+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 8011,
+      "NumberOfAwardsMax": 1096
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8009,
+  "NumberOfAwards": 8011,
   "NumberOfAwardsMax": 1096,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5016,7 +5022,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 812
+      "Count": 814
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5037,7 +5043,7 @@
       "Count": 535
     }
   ],
-  "EOS_Progressed": 12235,
+  "EOS_Progressed": 12236,
   "EOS_Completed": 295,
   "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 10,
@@ -20607,6 +20613,11 @@
       "Time": "2023-12-05T22:08:27.5592082+00:00",
       "NumProgressed": 12235,
       "NumCompleted": 295
+    },
+    {
+      "Time": "2023-12-05T23:07:52.6183263+00:00",
+      "NumProgressed": 12236,
+      "NumCompleted": 295
     }
   ],
   "TotalAchievements": 15,
@@ -20634,7 +20645,7 @@
       "Name": "Bestest Friend",
       "Percentage": 46,
       "XP": 75,
-      "UsersEstimate": 5628
+      "UsersEstimate": 5629
     },
     {
       "ID": "Chef_Cook",
@@ -20666,7 +20677,7 @@
       "Name": "Duty Bound",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "Gardener",
@@ -20690,7 +20701,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 69,
       "XP": 75,
-      "UsersEstimate": 8442
+      "UsersEstimate": 8443
     },
     {
       "ID": "Miner",
@@ -20728,25 +20739,25 @@
       "ID": "Valleys_Helper",
       "SetID": "chapdi4",
       "Name": "Valley\u0027s Helper",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 7463
+      "UsersEstimate": 7586
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 12235,
+      "Progressed": 12236,
       "Completed": 295
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-12-05T22:00:00.7504322+00:00",
-  "LastChanged_Achievements": "2023-12-05T22:08:27.5592078+00:00",
+  "LastChanged": "2023-12-05T22:59:47.6344038+00:00",
+  "LastChanged_Achievements": "2023-12-05T23:07:52.6183259+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:53.5041293+00:00",
-  "LastUpdate_Ratings": "2023-12-05T22:00:00.7504328+00:00",
-  "LastUpdate_Achievements": "2023-12-05T22:08:27.5592969+00:00"
+  "LastUpdate_Ratings": "2023-12-05T22:59:47.6344044+00:00",
+  "LastUpdate_Achievements": "2023-12-05T23:07:52.6184509+00:00"
 }

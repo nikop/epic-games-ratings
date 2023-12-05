@@ -32,7 +32,7 @@ Number of Ratings: 209  (23.09.2022)
 | Got your own one now | 85.00% | ~1,999 |
 | Don't draw dicks pls | 85.00% | ~1,999 |
 | Ripped | 84.00% | ~1,976 |
-| Beat the big arena | 82.00% | ~1,929 |
+| Beat the big arena | 83.00% | ~1,952 |
 | Force Cube | 82.00% | ~1,929 |
 | Got Battery | 81.00% | ~1,905 |
 | Guard Distracted | 80.00% | ~1,882 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 450,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
     "PcReleaseDate": "2022-01-14T10:00:00+00:00",
@@ -2503,9 +2503,9 @@
       "ID": "Area4",
       "SetID": "5lok9mm",
       "Name": "Beat the big arena",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 1929
+      "UsersEstimate": 1952
     },
     {
       "ID": "Arrested",
@@ -2903,8 +2903,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-11-25T08:00:41.8887629+00:00",
-  "LastChanged_Achievements": "2023-12-05T22:05:52.6249295+00:00",
+  "LastChanged_Achievements": "2023-12-05T23:05:39.7227289+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:00.3494982+00:00",
-  "LastUpdate_Ratings": "2023-12-05T22:00:09.4561552+00:00",
-  "LastUpdate_Achievements": "2023-12-05T22:05:52.6249668+00:00"
+  "LastUpdate_Ratings": "2023-12-05T22:59:56.2665402+00:00",
+  "LastUpdate_Achievements": "2023-12-05T23:05:39.7227945+00:00"
 }

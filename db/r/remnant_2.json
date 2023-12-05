@@ -5211,9 +5211,9 @@
       "Count": 403
     }
   ],
-  "EOS_Progressed": 235501,
+  "EOS_Progressed": 235528,
   "EOS_Completed": 561,
-  "EOS_NewPlayers": 5332,
+  "EOS_NewPlayers": 5340,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -21556,6 +21556,11 @@
       "Time": "2023-12-05T22:08:53.7550474+00:00",
       "NumProgressed": 235501,
       "NumCompleted": 561
+    },
+    {
+      "Time": "2023-12-05T23:08:36.06533+00:00",
+      "NumProgressed": 235528,
+      "NumCompleted": 561
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21968,7 +21973,7 @@
       "Name": "Regicide",
       "Percentage": 0.8,
       "XP": 75,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -22007,13 +22012,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 235501,
+      "Progressed": 235528,
       "Completed": 561
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 14666,
+      "Progressed": 14693,
       "Completed": 197
     }
   ],
@@ -22021,8 +22026,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-05T22:03:08.217073+00:00",
-  "LastChanged_Achievements": "2023-12-05T22:08:53.7550471+00:00",
+  "LastChanged_Achievements": "2023-12-05T23:08:36.0653296+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-05T22:03:08.2170736+00:00",
-  "LastUpdate_Achievements": "2023-12-05T22:08:53.7551382+00:00"
+  "LastUpdate_Ratings": "2023-12-05T23:02:52.8665366+00:00",
+  "LastUpdate_Achievements": "2023-12-05T23:08:36.06547+00:00"
 }

@@ -4481,7 +4481,7 @@
       "Count": 398
     }
   ],
-  "EOS_Progressed": 12241,
+  "EOS_Progressed": 12242,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
@@ -16446,6 +16446,11 @@
       "Time": "2023-12-05T22:09:13.5909322+00:00",
       "NumProgressed": 12241,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-05T23:08:55.5845987+00:00",
+      "NumProgressed": 12242,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -16465,7 +16470,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2203
+      "UsersEstimate": 2204
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -16513,7 +16518,7 @@
       "Name": "Path of the Angel",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "09_PathOfDemon",
@@ -16665,7 +16670,7 @@
       "Name": "Great Upstart",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "29_StrategicVictory",
@@ -17384,21 +17389,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11023,
+      "Progressed": 11024,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12241,
+      "Progressed": 12242,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-05T17:00:39.2277916+00:00",
-  "LastChanged_Achievements": "2023-12-05T22:09:13.5909318+00:00",
+  "LastChanged_Achievements": "2023-12-05T23:08:55.5845984+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:59.5454343+00:00",
-  "LastUpdate_Ratings": "2023-12-05T22:00:08.6329533+00:00",
-  "LastUpdate_Achievements": "2023-12-05T22:09:13.5910855+00:00"
+  "LastUpdate_Ratings": "2023-12-05T22:59:55.4420089+00:00",
+  "LastUpdate_Achievements": "2023-12-05T23:08:55.5848251+00:00"
 }
