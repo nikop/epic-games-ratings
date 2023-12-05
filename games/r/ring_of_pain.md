@@ -75,6 +75,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Decisions, Decisions | 0.20% | ~481 |
 | Fragile Mortality | 0.20% | ~481 |
 | Snake Sneak | 0.20% | ~481 |
+| Fire Away! | 0.20% | ~481 |
 | The Long Run | 0.20% | ~481 |
 | Obsessed | 0.20% | ~481 |
 | Sentimental Value | 0.20% | ~481 |
@@ -118,7 +119,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Just Looking Around | 0.10% | ~241 |
 | Need An Antidote? | 0.10% | ~241 |
 | Sprinter | 0.10% | ~241 |
-| Fire Away! | 0.10% | ~241 |
 | Defuser | 0.10% | ~241 |
 | The Tickler | 0.10% | ~241 |
 | Masochist | 0.10% | ~241 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,663 (Ranked 64)  
+Progressed: 240,664 (Ranked 64)  
 Completed: 292 (0.12%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -374,7 +374,7 @@ Completed: 292 (0.12%) (Ranked 281)
 | 2023-12-02 | 240,522 | 291 |
 | 2023-12-03 | 240,591 | 292 |
 | 2023-12-04 | 240,628 | 292 |
-| 2023-12-05 | 240,663 | 292 |
+| 2023-12-05 | 240,664 | 292 |
 ## Awards
 Max (Quickly Understood Controls): 1,505  (Ranked 133)  
 Sum: 11,708 (Ranked 84)  

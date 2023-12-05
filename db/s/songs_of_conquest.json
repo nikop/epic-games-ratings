@@ -6,9 +6,9 @@
   "Ranking_Popularity": 515,
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 339,
-  "Ranking_EOS_Completed": 368,
+  "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 355,
+  "EOS_Progressed": 356,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1538,6 +1538,11 @@
       "Time": "2023-12-05T16:03:10.9973313+00:00",
       "NumProgressed": 355,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-05T17:03:42.2744397+00:00",
+      "NumProgressed": 356,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1694,7 +1699,7 @@
       "Name": "Double Kill",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "FlameAttackKillCount",
@@ -1932,9 +1937,9 @@
       "ID": "WinSiegeAsAttacker",
       "SetID": "71c0n9i",
       "Name": "Veni, Vidi, Vici",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 14
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -1981,15 +1986,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 355,
+      "Progressed": 356,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-05T16:03:10.9973309+00:00",
+  "LastChanged_Achievements": "2023-12-05T17:03:42.2744391+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:08.015125+00:00",
-  "LastUpdate_Ratings": "2023-12-05T15:58:40.0173732+00:00",
-  "LastUpdate_Achievements": "2023-12-05T16:03:10.9973743+00:00"
+  "LastUpdate_Ratings": "2023-12-05T16:59:06.6429361+00:00",
+  "LastUpdate_Achievements": "2023-12-05T17:03:42.274475+00:00"
 }

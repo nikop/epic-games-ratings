@@ -4,11 +4,11 @@
   "ProductSlug": "aimlabs",
   "Ranking_Rating": 387,
   "Ranking_Popularity": 416,
-  "Ranking_PopularitySum": 353,
-  "Ranking_EOS_Progress": 780,
-  "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 476,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_PopularitySum": 342,
+  "Ranking_EOS_Progress": 781,
+  "Ranking_EOS_Completed": 369,
+  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -1405,10 +1405,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 355,
       "NumberOfAwardsMax": 61
+    },
+    {
+      "Time": "2023-12-05T16:59:50.0619406+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 403,
+      "NumberOfAwardsMax": 61
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 355,
+  "NumberOfAwards": 403,
   "NumberOfAwardsMax": 61,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1446,7 +1452,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 46
+      "Count": 48
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1491,8 +1497,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2023-12-05T11:00:42.716094+00:00",
+  "LastChanged": "2023-12-05T16:59:50.0619405+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:33.5895441+00:00",
-  "LastUpdate_Ratings": "2023-12-05T15:59:21.5909446+00:00",
-  "LastUpdate_Achievements": "2023-12-05T16:04:32.8726853+00:00"
+  "LastUpdate_Ratings": "2023-12-05T16:59:50.0619409+00:00",
+  "LastUpdate_Achievements": "2023-12-05T17:05:03.8836297+00:00"
 }

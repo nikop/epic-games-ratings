@@ -6,7 +6,7 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 58.00% | ~56,549 |
+| Follow the Light | 58.00% | ~56,551 |
 | Let There Be Light | 49.00% | ~47,775 |
 | Float Like a Butterfly | 47.00% | ~45,825 |
 | Nordic Walking | 39.00% | ~38,025 |
@@ -59,22 +59,22 @@ Number of Ratings: 524  (23.09.2022)
 | Meet the Deadline | 0.60% | ~585 |
 | Fast and Furious | 0.60% | ~366 |
 | Cardboard Companions | 0.60% | ~366 |
-| Alan, Wake Up | 0.50% | ~487 |
-| Picking Up After Yourself | 0.50% | ~487 |
+| Alan, Wake Up | 0.50% | ~488 |
+| Picking Up After Yourself | 0.50% | ~488 |
 | License Revoked | 0.50% | ~305 |
 | Whirlwind | 0.50% | ~305 |
 | Creative Space | 0.50% | ~305 |
 | Bright Falls Aficionado | 0.40% | ~390 |
 | Run-On Sentence | 0.40% | ~244 |
-| Gunless Wonder | 0.30% | ~292 |
-| Every Nook and Cranny | 0.30% | ~292 |
+| Gunless Wonder | 0.30% | ~293 |
+| Every Nook and Cranny | 0.30% | ~293 |
 | Tick Tock | 0.30% | ~183 |
 | Collector's Edition | 0.20% | ~195 |
 | Hypercaffeinated | 0.20% | ~195 |
 | No Punctuation | 0.20% | ~122 |
 | Licensed Properties | 0.20% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,499 (Ranked 90)  
+Progressed: 97,501 (Ranked 90)  
 Completed: 110 (0.11%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 110 (0.11%) (Ranked 284)
 | 2023-12-02 | 97,127 | 106 |
 | 2023-12-03 | 97,314 | 107 |
 | 2023-12-04 | 97,426 | 108 |
-| 2023-12-05 | 97,499 | 110 |
+| 2023-12-05 | 97,501 | 110 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

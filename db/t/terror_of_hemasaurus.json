@@ -2,10 +2,10 @@
   "ID": "7304eee6de244842b8158bfa95542b7a",
   "Name": "Terror of Hemasaurus",
   "ProductSlug": "terror-of-hemasaurus-a08800",
-  "Ranking_EOS_Progress": 460,
+  "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-10-17T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T17:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 82,
+  "EOS_Progressed": 83,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.66,
+  "EOS_Completed_Percentage": 3.61,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:56.8436927+00:00",
@@ -285,6 +285,11 @@
       "Time": "2023-12-03T19:04:03.7624601+00:00",
       "NumProgressed": 82,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-05T17:04:56.6360538+00:00",
+      "NumProgressed": 83,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 30,
@@ -294,7 +299,7 @@
       "ID": "ACH_1000_CIVILIANS",
       "SetID": "aio76gp",
       "Name": "Terror Rising",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 10,
       "UsersEstimate": 59
     },
@@ -310,7 +315,7 @@
       "ID": "ACH_100_HELICOPTERS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Brain Chopper",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -358,7 +363,7 @@
       "ID": "ACH_20_CARS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Jalopy Poppy",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 10,
       "UsersEstimate": 57
     },
@@ -374,7 +379,7 @@
       "ID": "ACH_25_BLIMPS",
       "SetID": "aio76gp",
       "Name": "Hindenburgerer",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -446,7 +451,7 @@
       "ID": "ACH_50_POLICE_CARS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Punchy Wagon",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -494,7 +499,7 @@
       "ID": "ACH_KILL_100_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Green-Bodied Monster",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 10,
       "UsersEstimate": 49
     },
@@ -502,7 +507,7 @@
       "ID": "ACH_KILL_300_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Monstrosity Atrocity",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 25,
       "UsersEstimate": 31
     },
@@ -535,7 +540,7 @@
     {
       "ID": "aio76gp",
       "IsBase": true,
-      "Progressed": 82,
+      "Progressed": 83,
       "Completed": 3
     }
   ],
@@ -543,8 +548,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-12-05T16:04:25.4777593+00:00",
+  "LastChanged_Achievements": "2023-12-05T17:04:56.6360535+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:09.4680517+00:00",
-  "LastUpdate_Ratings": "2023-12-05T15:58:23.3727959+00:00",
-  "LastUpdate_Achievements": "2023-12-05T16:04:25.477779+00:00"
+  "LastUpdate_Ratings": "2023-12-05T16:58:49.8014842+00:00",
+  "LastUpdate_Achievements": "2023-12-05T17:04:56.6360729+00:00"
 }

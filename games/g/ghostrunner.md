@@ -1,25 +1,25 @@
 # Ghostrunner
 [Store](https://store.epicgames.com/en-US/p/ghostrunner)  
 [View Rawdata](../../db/g/ghostrunner.json)  
-Rating: 4.72 (Ranked 186)  
+Rating: 4.72 (Ranked 187)  
 Number of Ratings: 1,047  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~18,026 |
-| Sword Runner | 61.00% | ~14,468 |
-| Running out of breath | 54.00% | ~12,808 |
-| Wallrunner | 53.00% | ~12,571 |
-| Homerunner | 45.00% | ~10,673 |
-| Out of order | 44.00% | ~10,436 |
-| I call it luck | 43.00% | ~10,199 |
-| Where are my Keys? | 40.00% | ~9,487 |
+| Longrunner | 76.00% | ~18,027 |
+| Sword Runner | 61.00% | ~14,469 |
+| Running out of breath | 54.00% | ~12,809 |
+| Wallrunner | 53.00% | ~12,572 |
+| Homerunner | 45.00% | ~10,674 |
+| Out of order | 44.00% | ~10,437 |
+| I call it luck | 43.00% | ~10,200 |
+| Where are my Keys? | 40.00% | ~9,488 |
 | Back to hell | 37.00% | ~8,776 |
 | Perfection | 32.00% | ~7,590 |
-| Why not both | 30.00% | ~7,115 |
-| Sword to a gunfight | 29.00% | ~6,878 |
-| Upgrades not mandatory | 29.00% | ~6,878 |
-| Artificial selection | 28.00% | ~6,641 |
+| Why not both | 30.00% | ~7,116 |
+| Sword to a gunfight | 29.00% | ~6,879 |
+| Upgrades not mandatory | 29.00% | ~6,879 |
+| Artificial selection | 28.00% | ~6,642 |
 | Control freak | 27.00% | ~6,404 |
 | Finish line | 26.00% | ~6,167 |
 | Running Wild | 26.00% | ~6,167 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~95 |
 | Up Close And Personal | 0.40% | ~95 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,718 (Ranked 135)  
+Progressed: 23,720 (Ranked 135)  
 Completed: 93 (0.39%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 93 (0.39%) (Ranked 225)
 | 2023-12-02 | 23,563 | 91 |
 | 2023-12-03 | 23,644 | 93 |
 | 2023-12-04 | 23,682 | 93 |
-| 2023-12-05 | 23,718 | 93 |
+| 2023-12-05 | 23,720 | 93 |
 ## Awards
 Max (Great Boss Battles): 523  (Ranked 210)  
 Sum: 756 (Ranked 288)  

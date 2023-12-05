@@ -5,15 +5,15 @@ Rating: 4.56 (Ranked 494)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 82.00% | ~11,364 |
+| Getting Started | 82.00% | ~11,365 |
 | Pay 'n' Spray | 52.00% | ~7,207 |
 | All Dressed Up for San Fierro | 27.00% | ~3,742 |
 | The American Dream | 20.00% | ~2,772 |
 | School's Out | 19.00% | ~2,633 |
 | Smooth Moves | 17.00% | ~2,356 |
-| What happens in Las Venturas... | 16.00% | ~2,217 |
-| Today Was a Good Day | 16.00% | ~2,217 |
-| Horror of the Santa Maria | 11.00% | ~1,524 |
+| What happens in Las Venturas... | 16.00% | ~2,218 |
+| Today Was a Good Day | 16.00% | ~2,218 |
+| Horror of the Santa Maria | 11.00% | ~1,525 |
 | Liberty City State of Mind | 10.00% | ~1,386 |
 | Original Gangster | 9.00% | ~1,247 |
 | The End of the Line | 8.00% | ~1,109 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 494)
 | ...Here we go again | 0.50% | ~69 |
 | I Ain't No Buster | 0.40% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,859 (Ranked 157)  
+Progressed: 13,860 (Ranked 157)  
 Completed: 56 (0.40%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,10 +270,10 @@ Completed: 56 (0.40%) (Ranked 222)
 | 2023-12-02 | 13,827 | 56 |
 | 2023-12-03 | 13,843 | 56 |
 | 2023-12-04 | 13,851 | 56 |
-| 2023-12-05 | 13,859 | 56 |
+| 2023-12-05 | 13,860 | 56 |
 ## Awards
 Max (Great Boss Battles): 423  (Ranked 228)  
-Sum: 696 (Ranked 299)  
+Sum: 697 (Ranked 299)  
 Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
@@ -286,7 +286,7 @@ Diff (max vs sum): -71
 | This game has a Creative Community | 27 |
 | This game is Extremely Fun | 25 |
 | This game has Quickly Understood Controls | 23 |
-| This game has Diverse Characters | 21 |
+| This game has Diverse Characters | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -481,4 +481,4 @@ Diff (max vs sum): -71
 | 2023-12-02 | 4.55 | 413 | 685 |
 | 2023-12-03 | 4.55 | 416 | 688 |
 | 2023-12-04 | 4.55 | 419 | 692 |
-| 2023-12-05 | 4.56 | 423 | 696 |
+| 2023-12-05 | 4.56 | 423 | 697 |

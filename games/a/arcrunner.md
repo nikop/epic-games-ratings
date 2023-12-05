@@ -11,7 +11,7 @@
 | Unlocked and Loaded | 23.00% | ~196 |
 | Terminated II | 21.00% | ~178 |
 | The City | 19.00% | ~162 |
-| Challenge Mastered | 15.00% | ~128 |
+| Challenge Mastered | 16.00% | ~136 |
 | Terminated III | 15.00% | ~128 |
 | Nanonic II | 13.00% | ~110 |
 | Fully Modded | 11.00% | ~94 |
@@ -35,7 +35,7 @@
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 850 (Ranked 274)  
-Completed: 0 (0.00%) (Ranked 368)  
+Completed: 0 (0.00%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

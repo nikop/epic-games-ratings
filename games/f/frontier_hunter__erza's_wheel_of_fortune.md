@@ -21,7 +21,7 @@
 | Guardian | 25.00% | ~138 |
 | Nosebleeder | 25.00% | ~138 |
 | Trader | 21.00% | ~116 |
-| Weapon Boost | 20.00% | ~111 |
+| Weapon Boost | 21.00% | ~116 |
 | Flying Kobold Killer | 18.00% | ~100 |
 | Youth Magnet | 17.00% | ~94 |
 | Furious Scorpion Killer | 16.00% | ~88 |

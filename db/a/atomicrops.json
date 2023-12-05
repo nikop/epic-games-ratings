@@ -4,11 +4,11 @@
   "ProductSlug": "atomicrops",
   "Ranking_Rating": 33,
   "Ranking_Popularity": 325,
-  "Ranking_PopularitySum": 400,
-  "Ranking_EOS_Progress": 780,
-  "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 476,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_PopularitySum": 399,
+  "Ranking_EOS_Progress": 781,
+  "Ranking_EOS_Completed": 369,
+  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2019-09-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -429,10 +429,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 203,
       "NumberOfAwardsMax": 140
+    },
+    {
+      "Time": "2023-12-05T16:57:43.5410261+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 204,
+      "NumberOfAwardsMax": 140
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 203,
+  "NumberOfAwards": 204,
   "NumberOfAwardsMax": 140,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -452,7 +458,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game has Diverse Characters",
@@ -472,8 +478,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:16.7457184+00:00",
-  "LastChanged": "2023-12-04T16:02:59.3149871+00:00",
+  "LastChanged": "2023-12-05T16:57:43.5410259+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:38.5030914+00:00",
-  "LastUpdate_Ratings": "2023-12-05T15:57:17.3208563+00:00",
-  "LastUpdate_Achievements": "2023-12-05T16:08:22.261836+00:00"
+  "LastUpdate_Ratings": "2023-12-05T16:57:43.5410264+00:00",
+  "LastUpdate_Achievements": "2023-12-05T17:08:40.7995542+00:00"
 }

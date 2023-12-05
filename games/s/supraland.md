@@ -6,21 +6,21 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~727,761 |
-| The Blues | 85.00% | ~624,845 |
-| Fast | 66.00% | ~485,174 |
+| Out of bed | 99.00% | ~727,762 |
+| The Blues | 85.00% | ~624,846 |
+| Fast | 66.00% | ~485,175 |
 | Healthbar | 55.00% | ~404,312 |
-| Force Cube | 53.00% | ~389,609 |
+| Force Cube | 53.00% | ~389,610 |
 | Double Jump | 48.00% | ~352,854 |
 | Regeneration | 47.00% | ~345,503 |
-| Triple Jump | 43.00% | ~316,098 |
+| Triple Jump | 43.00% | ~316,099 |
 | Climb the hill | 42.00% | ~308,747 |
 | Through the fire pipe | 39.00% | ~286,694 |
 | MacGuffin | 38.00% | ~279,343 |
-| Just once | 37.00% | ~271,991 |
+| Just once | 37.00% | ~271,992 |
 | Armor | 30.00% | ~220,534 |
-| True holy spirit | 28.00% | ~205,831 |
-| That's how electronics work obviously | 27.00% | ~198,480 |
+| True holy spirit | 28.00% | ~205,832 |
+| That's how electronics work obviously | 27.00% | ~198,481 |
 | Force Cube Catapult | 25.00% | ~183,778 |
 | Holy Sword | 23.00% | ~169,076 |
 | Telefrag | 23.00% | ~169,076 |
@@ -37,7 +37,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | 9 | 13.00% | ~95,565 |
 | Purple Cube | 13.00% | ~95,565 |
 | Supraball Noob | 13.00% | ~95,565 |
-| Strong | 12.00% | ~88,213 |
+| Strong | 12.00% | ~88,214 |
 | Blue King's lair | 11.00% | ~80,862 |
 | Payback | 11.00% | ~80,862 |
 | Got the coins back | 11.00% | ~80,862 |
@@ -57,7 +57,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | Win! | 9.00% | ~66,160 |
 | The real real teleported man | 8.00% | ~58,809 |
 | Well deserved | 6.00% | ~44,107 |
-| Super Sword | 4.00% | ~29,404 |
+| Super Sword | 4.00% | ~29,405 |
 | Happiness | 3.00% | ~22,053 |
 | All Chests | 2.00% | ~14,702 |
 | Poor ancestors | 2.00% | ~14,702 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~735 |
 | DLC: Top of the world | 0.10% | ~735 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 735,112 (Ranked 20)  
+Progressed: 735,113 (Ranked 20)  
 Completed: 766 (0.10%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 766 (0.10%) (Ranked 289)
 | 2023-12-02 | 734,757 | 765 |
 | 2023-12-03 | 734,958 | 766 |
 | 2023-12-04 | 735,058 | 766 |
-| 2023-12-05 | 735,112 | 766 |
+| 2023-12-05 | 735,113 | 766 |
 ## Awards
 Max (Challenging Puzzles): 7,741  (Ranked 50)  
 Sum: 10,102 (Ranked 92)  

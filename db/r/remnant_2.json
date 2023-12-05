@@ -4,7 +4,7 @@
   "ProductSlug": "remnant-2",
   "Ranking_Rating": 147,
   "Ranking_Popularity": 102,
-  "Ranking_PopularitySum": 128,
+  "Ranking_PopularitySum": 127,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 21,
@@ -5113,10 +5113,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6504,
       "NumberOfAwardsMax": 2623
+    },
+    {
+      "Time": "2023-12-05T17:03:25.9603652+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6509,
+      "NumberOfAwardsMax": 2623
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6504,
+  "NumberOfAwards": 6509,
   "NumberOfAwardsMax": 2623,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5130,7 +5136,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 419
+      "Count": 424
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5187,9 +5193,9 @@
       "Count": 403
     }
   ],
-  "EOS_Progressed": 235296,
+  "EOS_Progressed": 235334,
   "EOS_Completed": 558,
-  "EOS_NewPlayers": 5282,
+  "EOS_NewPlayers": 5294,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -21502,6 +21508,11 @@
       "Time": "2023-12-05T16:08:42.0142586+00:00",
       "NumProgressed": 235296,
       "NumCompleted": 558
+    },
+    {
+      "Time": "2023-12-05T17:08:59.9586513+00:00",
+      "NumProgressed": 235334,
+      "NumCompleted": 558
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21514,7 +21525,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -21562,7 +21573,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -21594,7 +21605,7 @@
       "Name": "The Killing Jar",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1882
+      "UsersEstimate": 1883
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -21634,7 +21645,7 @@
       "Name": "Quest for Survival",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -21666,7 +21677,7 @@
       "Name": "Familiar Face",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     },
     {
       "ID": "Meet_Meidra",
@@ -21746,7 +21757,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     },
     {
       "ID": "Obtain_Guns_A",
@@ -21953,22 +21964,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 235296,
+      "Progressed": 235334,
       "Completed": 558
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 14461,
-      "Completed": 196
+      "Progressed": 14499,
+      "Completed": 197
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-12-05T16:02:55.944669+00:00",
-  "LastChanged_Achievements": "2023-12-05T16:08:42.014258+00:00",
+  "LastChanged": "2023-12-05T17:03:25.9603651+00:00",
+  "LastChanged_Achievements": "2023-12-05T17:08:59.9586506+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-05T16:02:55.9446697+00:00",
-  "LastUpdate_Achievements": "2023-12-05T16:08:42.0143751+00:00"
+  "LastUpdate_Ratings": "2023-12-05T17:03:25.9603657+00:00",
+  "LastUpdate_Achievements": "2023-12-05T17:08:59.9587748+00:00"
 }

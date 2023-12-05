@@ -3,7 +3,7 @@
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 312,
-  "Ranking_EOS_Completed": 368,
+  "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 3661,
   "Store": {
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 515,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1497,9 +1497,9 @@
       "ID": "AchvBombStop",
       "SetID": "1hj060c",
       "Name": "Peacemaker",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 98
+      "UsersEstimate": 103
     },
     {
       "ID": "AchvBombing",
@@ -1545,9 +1545,9 @@
       "ID": "AchvEvacuate",
       "SetID": "1hj060c",
       "Name": "Evacuation",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 72
+      "UsersEstimate": 77
     },
     {
       "ID": "AchvInvShip",
@@ -1665,9 +1665,9 @@
       "ID": "AchvSurvivors",
       "SetID": "1hj060c",
       "Name": "Survivors",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 160
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -1704,8 +1704,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-05T16:08:38.0959149+00:00",
+  "LastChanged_Achievements": "2023-12-05T17:08:56.0757006+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.6526822+00:00",
-  "LastUpdate_Ratings": "2023-12-05T15:58:07.7976992+00:00",
-  "LastUpdate_Achievements": "2023-12-05T16:08:38.0959426+00:00"
+  "LastUpdate_Ratings": "2023-12-05T16:58:34.757377+00:00",
+  "LastUpdate_Achievements": "2023-12-05T17:08:56.0757225+00:00"
 }

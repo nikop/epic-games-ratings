@@ -2,13 +2,13 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
-  "Ranking_Rating": 478,
+  "Ranking_Rating": 479,
   "Ranking_Popularity": 467,
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -967,7 +967,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9237,
+  "EOS_Progressed": 9238,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
@@ -8812,6 +8812,11 @@
       "Time": "2023-12-05T16:05:04.5379431+00:00",
       "NumProgressed": 9237,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-05T17:05:35.3880038+00:00",
+      "NumProgressed": 9238,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -8839,7 +8844,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4064
+      "UsersEstimate": 4065
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -8887,7 +8892,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1847
+      "UsersEstimate": 1848
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -8903,7 +8908,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -8943,7 +8948,7 @@
       "Name": "Generalissimo",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ISONZO_ACH_INSUBORDINATION",
@@ -9007,7 +9012,7 @@
       "Name": "\u0022O La Vittoria, O Tutti Accoppati\u0022",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ISONZO_ACH_PEAK_PERFORMANCE",
@@ -9063,7 +9068,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -9182,7 +9187,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9237,
+      "Progressed": 9238,
       "Completed": 10
     }
   ],
@@ -9190,8 +9195,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-03T20:00:14.2357613+00:00",
-  "LastChanged_Achievements": "2023-12-05T16:05:04.5379428+00:00",
+  "LastChanged_Achievements": "2023-12-05T17:05:35.3880034+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:20.0438707+00:00",
-  "LastUpdate_Ratings": "2023-12-05T16:00:01.8464109+00:00",
-  "LastUpdate_Achievements": "2023-12-05T16:05:04.538053+00:00"
+  "LastUpdate_Ratings": "2023-12-05T17:00:31.0747334+00:00",
+  "LastUpdate_Achievements": "2023-12-05T17:05:35.3880744+00:00"
 }

@@ -8,18 +8,18 @@
 | The Teleprobe | 47.00% | ~242 |
 | The City | 42.00% | ~216 |
 | The field base | 38.00% | ~196 |
-| Survivors | 30.00% | ~154 |
+| Survivors | 31.00% | ~160 |
 | The Condor | 29.00% | ~149 |
 | The End | 29.00% | ~149 |
 | The Alliance | 23.00% | ~118 |
 | The Necroevolution | 22.00% | ~113 |
 | Krauta is alive | 21.00% | ~108 |
-| Peacemaker | 19.00% | ~98 |
+| Peacemaker | 20.00% | ~103 |
 | Volcanologist | 19.00% | ~98 |
 | On her own | 16.00% | ~82 |
+| Evacuation | 15.00% | ~77 |
 | Beyond divisions | 15.00% | ~77 |
 | Fierce fight | 14.00% | ~72 |
-| Evacuation | 14.00% | ~72 |
 | I remember everything! | 12.00% | ~62 |
 | Flying Objects Operator | 12.00% | ~62 |
 | Another giant | 9.00% | ~46 |
@@ -35,7 +35,7 @@
 | No more mistakes | 0.60% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 515 (Ranked 312)  
-Completed: 0 (0.00%) (Ranked 368)  
+Completed: 0 (0.00%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

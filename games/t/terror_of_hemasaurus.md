@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Terror Rising | 72.00% | ~59 |
-| Jalopy Poppy | 70.00% | ~57 |
-| Green-Bodied Monster | 60.00% | ~49 |
+| Terror Rising | 71.00% | ~59 |
+| Jalopy Poppy | 69.00% | ~57 |
+| Green-Bodied Monster | 59.00% | ~49 |
 | Chopper Stopper | 46.00% | ~38 |
 | Aerosolized | 41.00% | ~34 |
-| Monstrosity Atrocity | 38.00% | ~31 |
+| Monstrosity Atrocity | 37.00% | ~31 |
 | Test of Faith | 34.00% | ~28 |
 | Reign of Terror | 34.00% | ~28 |
 | Crushing All Cars | 23.00% | ~19 |
-| Brain Chopper | 20.00% | ~16 |
+| Brain Chopper | 19.00% | ~16 |
 | Horror Show | 17.00% | ~14 |
 | Night Bird | 16.00% | ~13 |
 | Demolition Ambition | 13.00% | ~11 |
-| Hindenburgerer | 9.00% | ~7 |
-| Punchy Wagon | 9.00% | ~7 |
+| Hindenburgerer | 8.00% | ~7 |
+| Punchy Wagon | 8.00% | ~7 |
 | Holy Terror | 6.00% | ~5 |
 | Kill All Humans! | 6.00% | ~5 |
 | Midair Affair | 5.00% | ~4 |
@@ -35,8 +35,8 @@
 | Juggle the People | 4.00% | ~3 |
 | Simulation 8e7d28c1 | 4.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82 (Ranked 460)  
-Completed: 3 (3.66%) (Ranked 93)  
+Progressed: 83 (Ranked 459)  
+Completed: 3 (3.61%) (Ranked 93)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -81,6 +81,7 @@ Completed: 3 (3.66%) (Ranked 93)
 | 2023-11-27 | 79 | 3 |
 | 2023-12-01 | 81 | 3 |
 | 2023-12-03 | 82 | 3 |
+| 2023-12-05 | 83 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

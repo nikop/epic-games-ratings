@@ -7,23 +7,23 @@ Number of Ratings: 706  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Having A Field Day | 76.00% | ~5,417 |
-| Get A Room | 75.00% | ~5,345 |
+| Get A Room | 75.00% | ~5,346 |
 | Reap What You Sow | 73.00% | ~5,203 |
-| The First Day | 70.00% | ~4,989 |
-| Novice Researcher | 68.00% | ~4,846 |
-| Green Thumb | 67.00% | ~4,775 |
-| Home Cooked Meal | 61.00% | ~4,347 |
+| The First Day | 70.00% | ~4,990 |
+| Novice Researcher | 68.00% | ~4,847 |
+| Green Thumb | 67.00% | ~4,776 |
+| Home Cooked Meal | 61.00% | ~4,348 |
 | Onward | 58.00% | ~4,134 |
-| The First Week | 56.00% | ~3,991 |
-| Studious Researcher | 53.00% | ~3,777 |
-| Beam Me Up | 52.00% | ~3,706 |
+| The First Week | 56.00% | ~3,992 |
+| Studious Researcher | 53.00% | ~3,778 |
+| Beam Me Up | 52.00% | ~3,707 |
 | Putting Food on the Table | 47.00% | ~3,350 |
-| Adept Researcher | 45.00% | ~3,207 |
-| Retribution | 42.00% | ~2,993 |
-| ...And Don’t Come Back! | 42.00% | ~2,993 |
-| Feast or Famine | 38.00% | ~2,708 |
+| Adept Researcher | 45.00% | ~3,208 |
+| Retribution | 42.00% | ~2,994 |
+| ...And Don’t Come Back! | 42.00% | ~2,994 |
+| Feast or Famine | 38.00% | ~2,709 |
 | Heating Up | 32.00% | ~2,281 |
-| Luminary Researcher | 31.00% | ~2,209 |
+| Luminary Researcher | 31.00% | ~2,210 |
 | Winter Is Coming | 29.00% | ~2,067 |
 | Fit For A King | 28.00% | ~1,996 |
 | Winter Is Here | 25.00% | ~1,782 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~143 |
 | Wabbit Season | 0.50% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,127 (Ranked 182)  
+Progressed: 7,128 (Ranked 182)  
 Completed: 14 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 14 (0.20%) (Ranked 258)
 | 2023-12-02 | 7,078 | 14 |
 | 2023-12-03 | 7,096 | 14 |
 | 2023-12-04 | 7,115 | 14 |
-| 2023-12-05 | 7,127 | 14 |
+| 2023-12-05 | 7,128 | 14 |
 ## Awards
 Max (Great for Beginners): 126  (Ranked 337)  
 Sum: 1,032 (Ranked 261)  

@@ -40,7 +40,7 @@
 | Forbidden Knowledge | 26.00% | ~137 |
 | Ghost Pirates? Ghost Heroes! | 26.00% | ~137 |
 | Hungry, Hungry Gorgu! | 25.00% | ~132 |
-| The Finitude Drill | 24.00% | ~126 |
+| The Finitude Drill | 25.00% | ~132 |
 | Doom Hill | 22.00% | ~116 |
 | Stop Tanos! | 21.00% | ~111 |
 | Sabotage! | 20.00% | ~105 |
@@ -54,8 +54,8 @@
 | Rubble and Ashes | 15.00% | ~79 |
 | The Rune Sockets of Finitude (Part 2) | 15.00% | ~79 |
 | The Last Stand - This Time For Real! | 14.00% | ~74 |
+| To Infinity And Beyond! | 13.00% | ~69 |
 | To the Max! | 12.00% | ~63 |
-| To Infinity And Beyond! | 12.00% | ~63 |
 | Mirror, Mirror | 11.00% | ~58 |
 | Untouchable | 11.00% | ~58 |
 | Evilification | 10.00% | ~53 |

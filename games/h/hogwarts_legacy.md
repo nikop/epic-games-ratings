@@ -5,24 +5,24 @@ Rating: 4.76 (Ranked 130)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,633 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,634 |
 | First Class Student | 15.00% | ~45,594 |
-| Troll with the Punches | 14.00% | ~42,554 |
+| Troll with the Punches | 14.00% | ~42,555 |
 | A Keen Sense of Spell | 13.00% | ~39,515 |
 | That's a Keeper | 13.00% | ~39,515 |
-| The Hallowed Hero | 12.00% | ~36,475 |
-| The Defender of Dragons | 12.00% | ~36,475 |
-| Loom for Improvement | 12.00% | ~36,475 |
-| A Talent for Spending | 12.00% | ~36,475 |
-| Grappling with a Graphorn | 11.00% | ~33,435 |
-| The One Who Mastered Memories | 11.00% | ~33,435 |
-| The Hero of Hogwarts | 11.00% | ~33,435 |
-| Challenge Accepted | 11.00% | ~33,435 |
-| Coasting Along | 11.00% | ~33,435 |
+| The Hallowed Hero | 12.00% | ~36,476 |
+| The Defender of Dragons | 12.00% | ~36,476 |
+| Loom for Improvement | 12.00% | ~36,476 |
+| A Talent for Spending | 12.00% | ~36,476 |
+| Grappling with a Graphorn | 11.00% | ~33,436 |
+| The One Who Mastered Memories | 11.00% | ~33,436 |
+| The Hero of Hogwarts | 11.00% | ~33,436 |
+| Challenge Accepted | 11.00% | ~33,436 |
+| Coasting Along | 11.00% | ~33,436 |
 | Followed the Butterflies | 10.00% | ~30,396 |
 | Rising From the Ashes | 10.00% | ~30,396 |
-| A Sallow Grave | 9.00% | ~27,356 |
-| The Spell Master | 9.00% | ~27,356 |
+| A Sallow Grave | 9.00% | ~27,357 |
+| The Spell Master | 9.00% | ~27,357 |
 | The Avenging Gazelle | 8.00% | ~24,317 |
 | Beast Friends | 8.00% | ~24,317 |
 | Flight the Good Flight | 8.00% | ~24,317 |
@@ -33,10 +33,10 @@ Rating: 4.76 (Ranked 130)
 | The Toast of the Town | 5.00% | ~15,198 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,198 |
 | The Ends Petrify the Means | 5.00% | ~15,198 |
-| Going Through the Potions | 4.00% | ~12,158 |
-| Room with a View | 4.00% | ~12,158 |
-| The Intrepid Explorer | 4.00% | ~12,158 |
-| The Wise Owl | 4.00% | ~12,158 |
+| Going Through the Potions | 4.00% | ~12,159 |
+| Room with a View | 4.00% | ~12,159 |
+| The Intrepid Explorer | 4.00% | ~12,159 |
+| The Wise Owl | 4.00% | ~12,159 |
 | Put Down Roots | 3.00% | ~9,119 |
 | The Auror's Apprentice | 3.00% | ~9,119 |
 | Floo Around the World | 3.00% | ~9,119 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 130)
 | The Nature of the Beast | 0.70% | ~2,128 |
 | Collector's Edition | 0.30% | ~912 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,959 (Ranked 54)  
+Progressed: 303,963 (Ranked 54)  
 Completed: 521 (0.17%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,10 +280,10 @@ Completed: 521 (0.17%) (Ranked 269)
 | 2023-12-02 | 303,789 | 520 |
 | 2023-12-03 | 303,892 | 521 |
 | 2023-12-04 | 303,943 | 521 |
-| 2023-12-05 | 303,959 | 521 |
+| 2023-12-05 | 303,963 | 521 |
 ## Awards
 Max (Character Customization): 24,947  (Ranked 17)  
-Sum: 49,959 (Ranked 30)  
+Sum: 49,965 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -291,14 +291,14 @@ Diff (max vs sum): -13
 | This game has Great Boss Battles | 12,771 |
 | This game is Great for Beginners | 1,382 |
 | This game has Amazing Storytelling | 1,339 |
-| This game has Diverse Characters | 1,330 |
+| This game has Diverse Characters | 1,334 |
 | This game is Extremely Fun | 1,295 |
 | This game is Relaxing | 1,294 |
 | This game has Amazing Characters | 1,259 |
 | This game is Highly Recommended | 1,236 |
 | This game has Quickly Understood Controls | 1,191 |
 | This game has Beautiful Visuals | 1,080 |
-| This game has a Creative Community | 835 |
+| This game has a Creative Community | 837 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -558,4 +558,4 @@ Diff (max vs sum): -13
 | 2023-12-02 | 4.76 | 24,816 | 49,655 |
 | 2023-12-03 | 4.76 | 24,854 | 49,759 |
 | 2023-12-04 | 4.76 | 24,909 | 49,885 |
-| 2023-12-05 | 4.76 | 24,947 | 49,959 |
+| 2023-12-05 | 4.76 | 24,947 | 49,965 |

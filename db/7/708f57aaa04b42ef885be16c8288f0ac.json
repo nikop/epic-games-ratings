@@ -2,12 +2,12 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_Rating": 157,
+  "Ranking_Rating": 168,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.74,
+  "Rating": 4.73,
   "RatingHistory": [
     {
       "Time": "2023-10-30T17:01:05.4334371+00:00",
@@ -183,15 +183,21 @@
       "Rating": 4.74,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-05T16:59:13.5871148+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7446,
+  "EOS_Progressed": 7447,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 451,
+  "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5599,6 +5605,11 @@
       "Time": "2023-12-05T16:09:14.5694819+00:00",
       "NumProgressed": 7446,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-05T17:09:32.130724+00:00",
+      "NumProgressed": 7447,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5651,7 +5662,7 @@
       "Name": "Connection Lost",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "Eavesdropper",
@@ -5683,7 +5694,7 @@
       "Name": "First Time?",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2159
+      "UsersEstimate": 2160
     },
     {
       "ID": "FuneralForTheDeath",
@@ -5755,7 +5766,7 @@
       "Name": "Nasty!",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1192
     },
     {
       "ID": "NoMoreTotems",
@@ -5803,7 +5814,7 @@
       "Name": "The Old-School Way",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "TheQuarterback",
@@ -5882,16 +5893,16 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7446,
+      "Progressed": 7447,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged": "2023-12-04T17:58:34.5541174+00:00",
-  "LastChanged_Achievements": "2023-12-05T16:09:14.5694816+00:00",
+  "LastChanged": "2023-12-05T16:59:13.5871144+00:00",
+  "LastChanged_Achievements": "2023-12-05T17:09:32.1307236+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-05T15:58:46.6864417+00:00",
-  "LastUpdate_Achievements": "2023-12-05T16:09:14.5695392+00:00"
+  "LastUpdate_Ratings": "2023-12-05T16:59:13.5871152+00:00",
+  "LastUpdate_Achievements": "2023-12-05T17:09:32.1307726+00:00"
 }

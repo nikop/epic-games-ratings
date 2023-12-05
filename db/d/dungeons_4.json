@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 527,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 2.28,
   "EosHistory": [
@@ -1728,9 +1728,9 @@
       "ID": "ach_main15drill_completed",
       "SetID": "4hg22ll",
       "Name": "The Finitude Drill",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 132
     },
     {
       "ID": "ach_main15drill_sabotage",
@@ -1816,9 +1816,9 @@
       "ID": "ach_main18unholy_training",
       "SetID": "4hg22ll",
       "Name": "To Infinity And Beyond!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 69
     },
     {
       "ID": "ach_main19war_completed",
@@ -1879,8 +1879,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-05T16:08:26.3682444+00:00",
+  "LastChanged_Achievements": "2023-12-05T17:08:44.8649136+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:15.3424787+00:00",
-  "LastUpdate_Ratings": "2023-12-05T15:59:56.7400195+00:00",
-  "LastUpdate_Achievements": "2023-12-05T16:08:26.3682984+00:00"
+  "LastUpdate_Ratings": "2023-12-05T17:00:25.6763894+00:00",
+  "LastUpdate_Achievements": "2023-12-05T17:08:44.8649587+00:00"
 }

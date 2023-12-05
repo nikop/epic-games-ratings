@@ -2,10 +2,10 @@
   "ID": "63d008723df74b828d6916c39b26052d",
   "Name": "Meta Lordz",
   "ProductSlug": "meta_lordz-8b5183",
-  "Ranking_EOS_Progress": 780,
-  "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 476,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_Progress": 781,
+  "Ranking_EOS_Completed": 369,
+  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-11-06T18:30:00+00:00",
     "PcReleaseDate": "2023-11-06T18:30:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-07T04:57:51.8843787+00:00",
   "LastUpdate_AppInfo": "2023-12-03T18:57:11.4000826+00:00",
-  "LastUpdate_Ratings": "2023-12-05T16:00:00.8496158+00:00",
-  "LastUpdate_Achievements": "2023-12-05T16:05:39.3116505+00:00"
+  "LastUpdate_Ratings": "2023-12-05T17:00:30.0539816+00:00",
+  "LastUpdate_Achievements": "2023-12-05T17:06:09.5799126+00:00"
 }

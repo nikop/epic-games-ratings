@@ -5,17 +5,17 @@ Rating: 4.54 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~5,318 |
+| Prepper | 94.00% | ~5,376 |
 | All thumbs | 92.00% | ~5,261 |
 | I will survive! | 92.00% | ~5,261 |
-| Home, sweet home | 91.00% | ~5,203 |
-| Survivalist | 90.00% | ~5,146 |
-| One way ticket | 85.00% | ~4,860 |
-| Last man standing | 80.00% | ~4,574 |
-| Family guy | 77.00% | ~4,403 |
+| Home, sweet home | 91.00% | ~5,204 |
+| Survivalist | 90.00% | ~5,147 |
+| One way ticket | 85.00% | ~4,861 |
+| Last man standing | 80.00% | ~4,575 |
+| Family guy | 77.00% | ~4,404 |
 | Out of the Bag | 76.00% | ~4,346 |
 | The Dark Side | 71.00% | ~4,060 |
-| Duck and cover! | 66.00% | ~3,774 |
+| Duck and cover! | 66.00% | ~3,775 |
 | Souper! | 65.00% | ~3,717 |
 | 2-1-6 | 59.00% | ~3,374 |
 | Pacifist | 59.00% | ~3,374 |
@@ -29,7 +29,7 @@ Rating: 4.54 (Ranked 529)
 | Atomic drill | 32.00% | ~1,830 |
 | Disco Roach | 28.00% | ~1,601 |
 | Dawkins Residence | 22.00% | ~1,258 |
-| Rescue time! | 19.00% | ~1,086 |
+| Rescue time! | 19.00% | ~1,087 |
 | New order | 18.00% | ~1,029 |
 | New species | 17.00% | ~972 |
 | Enigma | 16.00% | ~915 |
@@ -66,7 +66,7 @@ Rating: 4.54 (Ranked 529)
 | Tora! Tora! Tora! | 0.20% | ~11 |
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,718 (Ranked 187)  
+Progressed: 5,719 (Ranked 187)  
 Completed: 1 (0.02%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 1 (0.02%) (Ranked 337)
 | 2023-12-02 | 5,696 | 1 |
 | 2023-12-03 | 5,710 | 1 |
 | 2023-12-04 | 5,715 | 1 |
-| 2023-12-05 | 5,718 | 1 |
+| 2023-12-05 | 5,719 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
