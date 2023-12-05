@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.94% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.92% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -35,7 +35,7 @@
 | 33 | [Seven Doors](games/s/seven_doors.md) | 13.64% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 12.90% |
 | 35 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 12.35% |
-| 36 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.34% |
+| 36 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.33% |
 | 37 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 38 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 39 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 10.71% |
@@ -80,7 +80,7 @@
 | 77 | [Time on Frog Island](games/t/time_on_frog_island.md) | 4.76% |
 | 77 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 4.76% |
 | 80 | [ZZT!](games/z/zzt!.md) | 4.67% |
-| 81 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.60% |
+| 81 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.61% |
 | 82 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.55% |
 | 83 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.49% |
 | 84 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.41% |
@@ -98,11 +98,11 @@
 | 96 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.39% |
 | 97 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 98 | [Bunny Park](games/b/bunny_park.md) | 3.30% |
-| 99 | [The Complex](games/t/the_complex.md) | 3.19% |
-| 100 | [Destiny 2](games/d/destiny_2.md) | 3.17% |
-| 101 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
-| 101 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.12% |
-| 103 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.09% |
+| 99 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.19% |
+| 100 | [The Complex](games/t/the_complex.md) | 3.18% |
+| 101 | [Destiny 2](games/d/destiny_2.md) | 3.17% |
+| 102 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
+| 102 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.12% |
 | 104 | [Doodle God](games/d/doodle_god.md) | 3.08% |
 | 104 | [Monster Harvest](games/m/monster_harvest.md) | 3.08% |
 | 106 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.07% |
@@ -124,7 +124,7 @@
 | 122 | [Lamentum](games/l/lamentum.md) | 2.42% |
 | 123 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.40% |
 | 124 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.39% |
-| 125 | [Dungeons 4](games/d/dungeons_4.md) | 2.28% |
+| 125 | [Dungeons 4](games/d/dungeons_4.md) | 2.27% |
 | 126 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.25% |
 | 127 | [Bloodshore](games/b/bloodshore.md) | 2.23% |
 | 127 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.23% |
@@ -158,8 +158,8 @@
 | 156 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.26% |
 | 157 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.25% |
 | 157 | [Ten Dates](games/t/ten_dates.md) | 1.25% |
-| 159 | [Iron Danger](games/i/iron_danger.md) | 1.23% |
-| 160 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.22% |
+| 159 | [Iron Danger](games/i/iron_danger.md) | 1.22% |
+| 159 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.22% |
 | 161 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
 | 161 | [Lemon Cake](games/l/lemon_cake.md) | 1.21% |
 | 163 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.15% |
@@ -167,8 +167,8 @@
 | 165 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.05% |
 | 166 | [The Devil's Face](games/t/the_devil's_face.md) | 1.04% |
 | 166 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.04% |
-| 168 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.02% |
-| 169 | [Sable](games/s/sable.md) | 1.01% |
+| 168 | [Sable](games/s/sable.md) | 1.01% |
+| 168 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.01% |
 | 170 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.99% |
 | 171 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.96% |
 | 171 | [Trifox](games/t/trifox.md) | 0.96% |
@@ -692,6 +692,7 @@
 | 369 | [STASIS : BONE TOTEM](games/1/1cc65ff03931492b8e8c288b6fd92e8c.md) | 0.00% |
 | 369 | [SteamWorld Build](games/s/steamworld_build.md) | 0.00% |
 | 369 | [Stellar Interface](games/s/stellar_interface.md) | 0.00% |
+| 369 | [Stone Guardian](games/9/97e89a0da1004cdfb0661afb798fc495.md) | 0.00% |
 | 369 | [Strange House](games/s/strange_house.md) | 0.00% |
 | 369 | [Strawhart](games/s/strawhart.md) | 0.00% |
 | 369 | [Stray Blade](games/s/stray_blade.md) | 0.00% |
@@ -701,6 +702,7 @@
 | 369 | [Sunlight Scream](games/f/f1d0d2bf90c0444684c26bb6190cc74f.md) | 0.00% |
 | 369 | [Super Hydorah](games/0/0a17427d84184578bd1bc06a2f410a58.md) | 0.00% |
 | 369 | [Super Kids Racing](games/6/69cf8b0d605e4d88bc89e2c04199ab2e.md) | 0.00% |
+| 369 | [Super Kids Racing - Mini Edition](games/0/05f959ab5f6d4c64b1072b752ec27140.md) | 0.00% |
 | 369 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 0.00% |
 | 369 | [Survive on Raft](games/s/survive_on_raft.md) | 0.00% |
 | 369 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 0.00% |
@@ -779,4 +781,4 @@
 | 369 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 369 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 369 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,663 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,666 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |

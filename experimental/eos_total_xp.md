@@ -665,6 +665,7 @@
 | [STASIS : BONE TOTEM](../games/1/1cc65ff03931492b8e8c288b6fd92e8c.md) | 20 | 1,000 |
 | [SteamWorld Build](../games/s/steamworld_build.md) | 28 | 1,000 |
 | [Stellar Interface](../games/s/stellar_interface.md) | 132 | 1,000 |
+| [Stone Guardian](../games/9/97e89a0da1004cdfb0661afb798fc495.md) | 16 | 1,000 |
 | [Strange House](../games/s/strange_house.md) | 6 | 1,000 |
 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](../games/s/stranger_of_paradise_final_fantasy_origin.md) | 46 | 1,000 |
 | [Strawhart](../games/s/strawhart.md) | 21 | 1,000 |
@@ -679,6 +680,7 @@
 | [Super Bit Blaster XL](../games/s/super_bit_blaster_xl.md) | 17 | 1,000 |
 | [Super Hydorah](../games/0/0a17427d84184578bd1bc06a2f410a58.md) | 21 | 1,000 |
 | [Super Kids Racing](../games/6/69cf8b0d605e4d88bc89e2c04199ab2e.md) | 8 | 1,000 |
+| [Super Kids Racing - Mini Edition](../games/0/05f959ab5f6d4c64b1072b752ec27140.md) | 5 | 1,000 |
 | [Super Smash Asteroids](../games/s/super_smash_asteroids.md) | 39 | 1,000 |
 | [Supfly Delivery Simulator](../games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 9 | 1,000 |
 | [Supraland](../games/s/supraland.md) | 98 | 1,000 |
