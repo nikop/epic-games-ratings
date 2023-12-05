@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 24.03% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 24.02% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -50,7 +50,7 @@
 | 48 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 9.09% |
 | 49 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.98% |
 | 50 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.57% |
-| 51 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.50% |
+| 51 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.49% |
 | 52 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.70% |
 | 53 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 53 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 7.69% |
@@ -81,8 +81,8 @@
 | 77 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 4.76% |
 | 80 | [ZZT!](games/z/zzt!.md) | 4.67% |
 | 81 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.61% |
-| 82 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.49% |
-| 83 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.47% |
+| 82 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.55% |
+| 83 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.49% |
 | 84 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.41% |
 | 85 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 86 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.27% |
@@ -126,8 +126,8 @@
 | 124 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.38% |
 | 125 | [Dungeons 4](games/d/dungeons_4.md) | 2.28% |
 | 126 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.25% |
-| 127 | [Bloodshore](games/b/bloodshore.md) | 2.24% |
-| 128 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.23% |
+| 127 | [Bloodshore](games/b/bloodshore.md) | 2.23% |
+| 127 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.23% |
 | 129 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.21% |
 | 130 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.92% |
 | 131 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.89% |
@@ -229,12 +229,12 @@
 | 225 | [Ghostrunner](games/g/ghostrunner.md) | 0.39% |
 | 228 | [Train Valley](games/t/train_valley.md) | 0.38% |
 | 229 | [The Surge](games/t/the_surge.md) | 0.37% |
+| 230 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.35% |
 | 230 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
 | 230 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.35% |
 | 230 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.35% |
-| 233 | [Dead Island 2](games/d/dead_island_2.md) | 0.34% |
-| 233 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.34% |
-| 233 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.34% |
+| 234 | [Dead Island 2](games/d/dead_island_2.md) | 0.34% |
+| 234 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.34% |
 | 236 | [Them and Us](games/t/them_and_us.md) | 0.32% |
 | 237 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.31% |
 | 237 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
@@ -296,39 +296,39 @@
 | 294 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 294 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.09% |
 | 294 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 0.09% |
+| 294 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.09% |
 | 294 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
 | 294 | [Port Royale 4](games/p/port_royale_4.md) | 0.09% |
 | 294 | [Riverbond](games/r/riverbond.md) | 0.09% |
 | 294 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 294 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
-| 302 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.08% |
-| 302 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.08% |
-| 302 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.08% |
-| 302 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.08% |
-| 306 | [ATOM RPG](games/a/atom_rpg.md) | 0.07% |
-| 306 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.07% |
-| 306 | [MythForce](games/m/mythforce.md) | 0.07% |
-| 306 | [Saints Row](games/s/saints_row.md) | 0.07% |
-| 306 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
-| 306 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
-| 312 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
-| 312 | [High On Life](games/h/high_on_life.md) | 0.06% |
-| 312 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
-| 312 | [Session: Skate Sim](games/s/session__skate_sim.md) | 0.06% |
-| 312 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.06% |
-| 312 | [SYNCED](games/s/synced.md) | 0.06% |
-| 312 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
-| 319 | [Absolute Drift](games/a/absolute_drift.md) | 0.05% |
-| 319 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
-| 319 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.05% |
-| 319 | [House Party](games/h/house_party.md) | 0.05% |
-| 319 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.05% |
-| 319 | [Operation New Earth](games/o/operation_new_earth.md) | 0.05% |
-| 319 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.05% |
-| 319 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.05% |
-| 327 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.04% |
-| 327 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.04% |
-| 327 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.04% |
+| 303 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.08% |
+| 303 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.08% |
+| 303 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.08% |
+| 303 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.08% |
+| 307 | [ATOM RPG](games/a/atom_rpg.md) | 0.07% |
+| 307 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.07% |
+| 307 | [MythForce](games/m/mythforce.md) | 0.07% |
+| 307 | [Saints Row](games/s/saints_row.md) | 0.07% |
+| 307 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
+| 307 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
+| 313 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
+| 313 | [High On Life](games/h/high_on_life.md) | 0.06% |
+| 313 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
+| 313 | [Session: Skate Sim](games/s/session__skate_sim.md) | 0.06% |
+| 313 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.06% |
+| 313 | [SYNCED](games/s/synced.md) | 0.06% |
+| 313 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
+| 320 | [Absolute Drift](games/a/absolute_drift.md) | 0.05% |
+| 320 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
+| 320 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.05% |
+| 320 | [House Party](games/h/house_party.md) | 0.05% |
+| 320 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.05% |
+| 320 | [Operation New Earth](games/o/operation_new_earth.md) | 0.05% |
+| 320 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.05% |
+| 320 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.05% |
+| 328 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.04% |
+| 328 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.04% |
 | 330 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.03% |
 | 330 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 330 | [Old World](games/o/old_world.md) | 0.03% |
