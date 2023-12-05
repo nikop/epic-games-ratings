@@ -2,7 +2,7 @@
   "ID": "234c754eae5e42d1b5379daee1c313f1",
   "Name": "GPRO - Classic racing manager",
   "ProductSlug": "classic-racing-manager-679706",
-  "Ranking_EOS_Progress": 317,
+  "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 125,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 485,
+  "EOS_Progressed": 486,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
@@ -1104,6 +1104,11 @@
       "Time": "2023-12-03T19:09:50.9747753+00:00",
       "NumProgressed": 485,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-05T21:10:16.9908858+00:00",
+      "NumProgressed": 486,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -1267,7 +1272,7 @@
       "Name": "Wannabe",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHIEVEMENT_190",
@@ -2410,14 +2415,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 485,
+      "Progressed": 486,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-12-05T20:09:34.1577214+00:00",
+  "LastChanged_Achievements": "2023-12-05T21:10:16.9908853+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:19.5662235+00:00",
-  "LastUpdate_Ratings": "2023-12-05T20:00:24.9622072+00:00",
-  "LastUpdate_Achievements": "2023-12-05T20:09:34.157955+00:00"
+  "LastUpdate_Ratings": "2023-12-05T21:01:13.7152751+00:00",
+  "LastUpdate_Achievements": "2023-12-05T21:10:16.9911064+00:00"
 }

@@ -23,6 +23,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 0.30% | ~53 |
 | No Deaths | 0.30% | ~53 |
 | Fox Utopia | 0.30% | ~53 |
+| Homesick | 0.20% | ~35 |
 | Ruined Armory | 0.20% | ~35 |
 | Bandit Camp | 0.20% | ~35 |
 | Ancient Battleground | 0.20% | ~35 |
@@ -43,7 +44,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lizard Utopia | 0.10% | ~18 |
 | Efficient Explorer | 0.10% | ~18 |
 | Refinery | 0.10% | ~18 |
-| Homesick | 0.10% | ~18 |
 | Against All Odds | 0.10% | ~18 |
 | Barren Lands | 0.10% | ~18 |
 | Dangerous Lands | 0.10% | ~18 |

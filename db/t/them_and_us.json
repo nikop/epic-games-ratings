@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -1545,9 +1545,9 @@
       "ID": "ETUA_OutRage",
       "SetID": "65jc0ap",
       "Name": "OUTRAGE",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 60
     },
     {
       "ID": "ETUA_PTD",
@@ -1714,8 +1714,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-12-05T20:06:44.8697867+00:00",
+  "LastChanged_Achievements": "2023-12-05T21:08:23.3205538+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:12.3605954+00:00",
-  "LastUpdate_Ratings": "2023-12-05T19:59:43.441399+00:00",
-  "LastUpdate_Achievements": "2023-12-05T20:06:44.8698223+00:00"
+  "LastUpdate_Ratings": "2023-12-05T21:00:16.6933315+00:00",
+  "LastUpdate_Achievements": "2023-12-05T21:08:23.3205837+00:00"
 }

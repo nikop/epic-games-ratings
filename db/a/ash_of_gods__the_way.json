@@ -260,9 +260,9 @@
       "ID": "collect6",
       "SetID": "c64if4d",
       "Name": "Supplier",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "collect7",
@@ -308,9 +308,9 @@
       "ID": "fights4",
       "SetID": "c64if4d",
       "Name": "Stronger than Gellian steel",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "fights5",
@@ -340,9 +340,9 @@
       "ID": "fights8",
       "SetID": "c64if4d",
       "Name": "Defeat the bear",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "special1",
@@ -476,17 +476,17 @@
       "ID": "story13",
       "SetID": "c64if4d",
       "Name": "Trial by cold",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "story14",
       "SetID": "c64if4d",
       "Name": "There can be only one",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "story15",
@@ -621,8 +621,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2023-12-05T20:07:59.9642846+00:00",
+  "LastChanged_Achievements": "2023-12-05T21:08:54.2482004+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:23.1889916+00:00",
-  "LastUpdate_Ratings": "2023-12-05T19:57:53.6460356+00:00",
-  "LastUpdate_Achievements": "2023-12-05T20:07:59.964316+00:00"
+  "LastUpdate_Ratings": "2023-12-05T20:57:49.3402162+00:00",
+  "LastUpdate_Achievements": "2023-12-05T21:08:54.248227+00:00"
 }

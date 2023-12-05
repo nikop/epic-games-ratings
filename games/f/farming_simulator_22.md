@@ -7,23 +7,23 @@ Number of Ratings: 7,683  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Own use | 74.00% | ~40,610 |
-| I read Shakespeare and stuff | 62.00% | ~34,024 |
+| I read Shakespeare and stuff | 62.00% | ~34,025 |
 | Just a sprinkle | 61.00% | ~33,476 |
-| I'm stumped | 59.00% | ~32,378 |
-| Plant get enough | 59.00% | ~32,378 |
-| It's just the beginning | 57.00% | ~31,280 |
+| I'm stumped | 59.00% | ~32,379 |
+| Plant get enough | 59.00% | ~32,379 |
+| It's just the beginning | 57.00% | ~31,281 |
 | This is just my weekend vehicle | 56.00% | ~30,732 |
 | Hard work pays off | 51.00% | ~27,988 |
-| It's never too late to farm | 49.00% | ~26,890 |
+| It's never too late to farm | 49.00% | ~26,891 |
 | All out of Land | 43.00% | ~23,598 |
 | Field Trip | 42.00% | ~23,049 |
-| I like to switch it up | 39.00% | ~21,402 |
+| I like to switch it up | 39.00% | ~21,403 |
 | Help me to help you | 37.00% | ~20,305 |
 | Ultimutt Pawesomeness | 27.00% | ~14,817 |
 | Van Gogh | 25.00% | ~13,720 |
 | Vehicle fleet | 22.00% | ~12,073 |
-| You wood not believe it | 21.00% | ~11,524 |
-| Well-Oiled Machine | 16.00% | ~8,780 |
+| You wood not believe it | 21.00% | ~11,525 |
+| Well-Oiled Machine | 16.00% | ~8,781 |
 | Clucky Streak | 15.00% | ~8,232 |
 | The plot thickens | 15.00% | ~8,232 |
 | Large-scale supplier | 15.00% | ~8,232 |
@@ -34,7 +34,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Rock on | 11.00% | ~6,037 |
 | Highly cultivated | 10.00% | ~5,488 |
 | Giddy-up! | 10.00% | ~5,488 |
-| Cowherd | 7.00% | ~3,841 |
+| Cowherd | 7.00% | ~3,842 |
 | Fluffyness | 6.00% | ~3,293 |
 | Helper A does not stop … ever | 6.00% | ~3,293 |
 | Road Trip | 5.00% | ~2,744 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~220 |
 | Raisin the stakes | 0.30% | ~165 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,878 (Ranked 111)  
+Progressed: 54,879 (Ranked 111)  
 Completed: 6 (0.01%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 6 (0.01%) (Ranked 347)
 | 2023-12-02 | 54,557 | 6 |
 | 2023-12-03 | 54,714 | 6 |
 | 2023-12-04 | 54,796 | 6 |
-| 2023-12-05 | 54,878 | 6 |
+| 2023-12-05 | 54,879 | 6 |
 ## Awards
 Max (Great for Beginners): 5,734  (Ranked 68)  
 Sum: 43,768 (Ranked 34)  

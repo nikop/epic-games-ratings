@@ -5,29 +5,29 @@ Rating: 4.05 (Ranked 991)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,838 |
-| World Map | 78.00% | ~2,381 |
-| Temple of Eternals | 57.00% | ~1,740 |
-| Prestigious | 53.00% | ~1,618 |
-| Fellowship Power | 42.00% | ~1,282 |
-| Guild Power | 24.00% | ~732 |
-| Prestigious x10 | 21.00% | ~641 |
-| Full Party | 20.00% | ~610 |
+| Victor | 93.00% | ~2,841 |
+| World Map | 78.00% | ~2,383 |
+| Temple of Eternals | 57.00% | ~1,741 |
+| Prestigious | 53.00% | ~1,619 |
+| Fellowship Power | 42.00% | ~1,283 |
+| Guild Power | 24.00% | ~733 |
+| Prestigious x10 | 21.00% | ~642 |
+| Full Party | 20.00% | ~611 |
 | The game is on | 19.00% | ~580 |
 | Exotic Merchant | 17.00% | ~519 |
-| Dragon Clicker | 16.00% | ~488 |
+| Dragon Clicker | 16.00% | ~489 |
 | Inspection | 15.00% | ~458 |
 | Miner Clicker | 15.00% | ~458 |
-| Enlightenment | 14.00% | ~427 |
-| Hero inspection | 14.00% | ~427 |
+| Enlightenment | 14.00% | ~428 |
+| Hero inspection | 14.00% | ~428 |
 | Dragon Master | 13.00% | ~397 |
 | Lieutenant | 13.00% | ~397 |
-| Mysterious Rock | 12.00% | ~366 |
-| Natural Talent | 12.00% | ~366 |
-| Superior | 12.00% | ~366 |
-| The Unstoppable | 12.00% | ~366 |
+| Natural Talent | 12.00% | ~367 |
+| Superior | 12.00% | ~367 |
+| The Unstoppable | 12.00% | ~367 |
 | Milestone collector | 11.00% | ~336 |
-| Scientist | 10.00% | ~305 |
+| Mysterious Rock | 11.00% | ~336 |
+| Scientist | 10.00% | ~306 |
 | Challenger | 9.00% | ~275 |
 | Daily Quest Completionist | 9.00% | ~275 |
 | Doing My Part | 9.00% | ~275 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 991)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,052 (Ranked 212)  
+Progressed: 3,055 (Ranked 212)  
 Completed: 2 (0.07%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 2 (0.07%) (Ranked 307)
 | 2023-12-02 | 2,955 | 2 |
 | 2023-12-03 | 3,010 | 2 |
 | 2023-12-04 | 3,038 | 2 |
-| 2023-12-05 | 3,052 | 2 |
+| 2023-12-05 | 3,055 | 2 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 476)  
 Sum: 157 (Ranked 427)  

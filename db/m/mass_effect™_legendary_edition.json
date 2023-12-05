@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1509,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -5326,9 +5326,9 @@
       "ID": "achievement_94",
       "SetID": "d252ncf",
       "Name": "Problem Solver",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 332
     },
     {
       "ID": "achievement_95",
@@ -5386,8 +5386,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-05T20:09:00.4702054+00:00",
+  "LastChanged_Achievements": "2023-12-05T21:09:33.8354088+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:17.762066+00:00",
-  "LastUpdate_Ratings": "2023-12-05T20:02:52.7502463+00:00",
-  "LastUpdate_Achievements": "2023-12-05T20:09:00.4703607+00:00"
+  "LastUpdate_Ratings": "2023-12-05T21:03:17.6267561+00:00",
+  "LastUpdate_Achievements": "2023-12-05T21:09:33.8355614+00:00"
 }

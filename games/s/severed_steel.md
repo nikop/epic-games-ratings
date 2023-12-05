@@ -1,33 +1,33 @@
 # Severed Steel
 [Store](https://store.epicgames.com/en-US/p/severed-steel)  
 [View Rawdata](../../db/s/severed_steel.json)  
-Rating: 4.69 (Ranked 230)  
+Rating: 4.69 (Ranked 231)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 31.00% | ~214,022 |
-| 50 HEADSHOTS | 29.00% | ~200,214 |
-| SCIENCE AND INDUSTRY | 28.00% | ~193,310 |
-| FINISHED CHAPTER 1 | 27.00% | ~186,406 |
-| FINISHED CHAPTER 2 | 20.00% | ~138,078 |
-| 200 HEADSHOTS | 17.00% | ~117,367 |
-| FINISHED CHAPTER 3 | 16.00% | ~110,463 |
-| FINISHED CHAPTER 4 | 14.00% | ~96,655 |
-| FINISH CHAPTER 5 | 12.00% | ~82,847 |
-| FINISH CHAPTER 6 | 10.00% | ~69,039 |
-| CATHARTIC ESCAPISM | 10.00% | ~69,039 |
-| 1000 KILLS | 9.00% | ~62,135 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~27,616 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,808 |
-| FIRST BLOOD | 2.00% | ~13,808 |
+| 100 KILLS | 31.00% | ~214,013 |
+| 50 HEADSHOTS | 29.00% | ~200,206 |
+| SCIENCE AND INDUSTRY | 28.00% | ~193,302 |
+| FINISHED CHAPTER 1 | 27.00% | ~186,398 |
+| FINISHED CHAPTER 2 | 20.00% | ~138,073 |
+| 200 HEADSHOTS | 17.00% | ~117,362 |
+| FINISHED CHAPTER 3 | 16.00% | ~110,458 |
+| FINISHED CHAPTER 4 | 14.00% | ~96,651 |
+| FINISH CHAPTER 5 | 12.00% | ~82,844 |
+| FINISH CHAPTER 6 | 10.00% | ~69,036 |
+| CATHARTIC ESCAPISM | 10.00% | ~69,036 |
+| 1000 KILLS | 9.00% | ~62,133 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~27,615 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,807 |
+| FIRST BLOOD | 2.00% | ~13,807 |
 | PACEMAKER | 1.00% | ~6,904 |
 | TIME PARADOX | 1.00% | ~6,904 |
-| FIREFIGHT LEVEL 30 | 0.90% | ~6,214 |
-| OUT OF ORDER | 0.90% | ~6,214 |
+| FIREFIGHT LEVEL 30 | 0.90% | ~6,213 |
+| OUT OF ORDER | 0.90% | ~6,213 |
 | PARTYHARD | 0.80% | ~5,523 |
 | NEW GAME PLUS | 0.60% | ~4,142 |
 | FIREFIGHT LEVEL 40 | 0.50% | ~3,452 |
-| CHURCH | 0.40% | ~2,762 |
+| CHURCH | 0.40% | ~2,761 |
 | FIREFIGHT LEVEL 50 | 0.30% | ~2,071 |
 | REMEMBER THE ARMORY | 0.30% | ~2,071 |
 | 5 RUNS | 0.30% | ~2,071 |
@@ -58,8 +58,8 @@ Rating: 4.69 (Ranked 230)
 | THE GAMBLER | 0.10% | ~690 |
 | WARRIOR IN A GARDEN | 0.10% | ~690 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 690,392 (Ranked 26)  
-Completed: 84 (0.01%) (Ranked 347)  
+Progressed: 690,364 (Ranked 26)  
+Completed: 83 (0.01%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -290,8 +290,8 @@ Completed: 84 (0.01%) (Ranked 347)
 | 2023-12-05 | 690,743 | 86 |
 ## Awards
 Max (Great Boss Battles): 424  (Ranked 227)  
-Sum: 424 (Ranked 339)  
-Diff (max vs sum): -112  
+Sum: 424 (Ranked 340)  
+Diff (max vs sum): -113  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 424 |

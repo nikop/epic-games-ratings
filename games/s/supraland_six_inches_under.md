@@ -30,7 +30,7 @@ Number of Ratings: 209  (23.09.2022)
 | Arrested | 85.00% | ~1,999 |
 | Zappy Gun | 85.00% | ~1,999 |
 | Got your own one now | 85.00% | ~1,999 |
-| Don't draw dicks pls | 84.00% | ~1,976 |
+| Don't draw dicks pls | 85.00% | ~1,999 |
 | Ripped | 84.00% | ~1,976 |
 | Beat the big arena | 82.00% | ~1,929 |
 | Force Cube | 82.00% | ~1,929 |
@@ -60,7 +60,7 @@ Number of Ratings: 209  (23.09.2022)
 | Too hot | 20.00% | ~470 |
 | All the chests | 14.00% | ~329 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,352 (Ranked 218)  
+Progressed: 2,352 (Ranked 219)  
 Completed: 290 (12.33%) (Ranked 36)  
 ## EOS Players History
 | Date | Progressed | Completed |

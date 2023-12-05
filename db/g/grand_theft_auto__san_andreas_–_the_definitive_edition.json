@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1663,9 +1663,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 13861,
+  "EOS_Progressed": 13862,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -15458,6 +15458,11 @@
       "Time": "2023-12-05T18:09:14.0356323+00:00",
       "NumProgressed": 13861,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-05T21:09:46.0602623+00:00",
+      "NumProgressed": 13862,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 35,
@@ -15469,7 +15474,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11366
+      "UsersEstimate": 11367
     },
     {
       "ID": "ACH02",
@@ -15589,7 +15594,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2356
+      "UsersEstimate": 2357
     },
     {
       "ID": "ACH17",
@@ -15643,9 +15648,9 @@
       "ID": "ACH23",
       "SetID": "4ck5mbe",
       "Name": "All Dressed Up for San Fierro",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 3604
+      "UsersEstimate": 3743
     },
     {
       "ID": "ACH24",
@@ -15685,7 +15690,7 @@
       "Name": "Original Gangster",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "ACH29",
@@ -15748,7 +15753,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13861,
+      "Progressed": 13862,
       "Completed": 56
     }
   ],
@@ -15756,8 +15761,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-05T16:58:11.3187586+00:00",
-  "LastChanged_Achievements": "2023-12-05T20:09:09.7020534+00:00",
+  "LastChanged_Achievements": "2023-12-05T21:09:46.060262+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:45.2117848+00:00",
-  "LastUpdate_Ratings": "2023-12-05T19:58:13.5913355+00:00",
-  "LastUpdate_Achievements": "2023-12-05T20:09:09.7021526+00:00"
+  "LastUpdate_Ratings": "2023-12-05T20:58:17.1710408+00:00",
+  "LastUpdate_Achievements": "2023-12-05T21:09:46.0603448+00:00"
 }

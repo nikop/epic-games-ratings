@@ -195,9 +195,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7455,
+  "EOS_Progressed": 7457,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 440,
+  "EOS_NewPlayers": 438,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5625,6 +5625,11 @@
       "Time": "2023-12-05T20:09:20.1991406+00:00",
       "NumProgressed": 7455,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-05T21:10:00.0497974+00:00",
+      "NumProgressed": 7457,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5645,7 +5650,7 @@
       "Name": "Baby Steps",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "BeLikeWater",
@@ -5709,7 +5714,7 @@
       "Name": "First Time?",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2162
+      "UsersEstimate": 2163
     },
     {
       "ID": "FuneralForTheDeath",
@@ -5908,7 +5913,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7455,
+      "Progressed": 7457,
       "Completed": 14
     }
   ],
@@ -5916,8 +5921,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-05T16:59:13.5871144+00:00",
-  "LastChanged_Achievements": "2023-12-05T20:09:20.1991402+00:00",
+  "LastChanged_Achievements": "2023-12-05T21:10:00.049797+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-05T19:59:15.0534866+00:00",
-  "LastUpdate_Achievements": "2023-12-05T20:09:20.1991803+00:00"
+  "LastUpdate_Ratings": "2023-12-05T20:59:38.7893323+00:00",
+  "LastUpdate_Achievements": "2023-12-05T21:10:00.0498341+00:00"
 }

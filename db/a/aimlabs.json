@@ -4,7 +4,7 @@
   "ProductSlug": "aimlabs",
   "Ranking_Rating": 388,
   "Ranking_Popularity": 416,
-  "Ranking_PopularitySum": 342,
+  "Ranking_PopularitySum": 336,
   "Ranking_EOS_Progress": 783,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 474,
@@ -1417,10 +1417,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 404,
       "NumberOfAwardsMax": 61
+    },
+    {
+      "Time": "2023-12-05T21:00:25.2493551+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 444,
+      "NumberOfAwardsMax": 61
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 404,
+  "NumberOfAwards": 444,
   "NumberOfAwardsMax": 61,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1489,6 +1495,12 @@
       "Prefix": "This game has",
       "Type": "Playful Visuals",
       "Count": 20
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 40
     }
   ],
   "EOS_Progressed": 0,
@@ -1503,8 +1515,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2023-12-05T17:59:47.9263817+00:00",
+  "LastChanged": "2023-12-05T21:00:25.2493546+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:33.5895441+00:00",
-  "LastUpdate_Ratings": "2023-12-05T19:59:49.9171357+00:00",
-  "LastUpdate_Achievements": "2023-12-05T20:04:56.0479361+00:00"
+  "LastUpdate_Ratings": "2023-12-05T21:00:25.2493553+00:00",
+  "LastUpdate_Achievements": "2023-12-05T21:05:33.6093575+00:00"
 }

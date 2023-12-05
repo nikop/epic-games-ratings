@@ -16,7 +16,7 @@ Rating: 4.57 (Ranked 479)
 | The merciful one | 44.00% | ~27 |
 | Well-to-do | 44.00% | ~27 |
 | Ladies' man | 43.00% | ~26 |
-| Ferocious wild boars | 31.00% | ~19 |
+| Ferocious wild boars | 33.00% | ~20 |
 | Wise man | 30.00% | ~18 |
 | Beast slayer | 30.00% | ~18 |
 | Idiot | 30.00% | ~18 |
@@ -28,8 +28,8 @@ Rating: 4.57 (Ranked 479)
 | Hard worker | 25.00% | ~15 |
 | Master detective | 25.00% | ~15 |
 | Little hero | 23.00% | ~14 |
+| Pandora's box | 23.00% | ~14 |
 | Peacekeeper | 23.00% | ~14 |
-| Pandora's box | 21.00% | ~13 |
 | Ghost hunter | 21.00% | ~13 |
 | Sidelined | 21.00% | ~13 |
 | Workaholic | 20.00% | ~12 |

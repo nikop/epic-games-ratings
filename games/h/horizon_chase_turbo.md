@@ -6,17 +6,17 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~974,749 |
-| I Need a Bigger Garage | 63.00% | ~682,324 |
-| Pump my Ride | 47.00% | ~509,035 |
-| Ghostbuster | 34.00% | ~368,238 |
-| Call Roadside Assistance | 18.00% | ~194,950 |
-| That Was Close | 18.00% | ~194,950 |
-| Quickie | 11.00% | ~119,136 |
-| California Dreamer | 7.00% | ~75,814 |
-| Can't Touch This | 5.00% | ~54,153 |
-| Carménère Taster | 4.00% | ~43,322 |
-| Comeback | 4.00% | ~43,322 |
+| The First of Many | 90.00% | ~974,764 |
+| I Need a Bigger Garage | 63.00% | ~682,335 |
+| Pump my Ride | 47.00% | ~509,043 |
+| Ghostbuster | 34.00% | ~368,244 |
+| Call Roadside Assistance | 18.00% | ~194,953 |
+| That Was Close | 18.00% | ~194,953 |
+| Quickie | 11.00% | ~119,138 |
+| California Dreamer | 7.00% | ~75,815 |
+| Can't Touch This | 5.00% | ~54,154 |
+| Carménère Taster | 4.00% | ~43,323 |
+| Comeback | 4.00% | ~43,323 |
 | Driver from Ipanema | 3.00% | ~32,492 |
 | Supersonic | 3.00% | ~32,492 |
 | Marathonist | 3.00% | ~32,492 |
@@ -33,9 +33,9 @@ Number of Ratings: 1,343  (23.09.2022)
 | Oil Tycoon | 1.00% | ~10,831 |
 | Golden Passport | 1.00% | ~10,831 |
 | Brave and Bold | 1.00% | ~10,831 |
-| Old Master | 0.90% | ~9,747 |
-| Otaku | 0.90% | ~9,747 |
-| Volcano Surfer | 0.80% | ~8,664 |
+| Old Master | 0.90% | ~9,748 |
+| Otaku | 0.90% | ~9,748 |
+| Volcano Surfer | 0.80% | ~8,665 |
 | Survivor | 0.60% | ~6,498 |
 | King of the World | 0.60% | ~6,498 |
 | Getting Famous | 0.50% | ~5,415 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,083 |
 | Look Mom, No Hands! | 0.10% | ~1,083 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,083,054 (Ranked 12)  
+Progressed: 1,083,071 (Ranked 12)  
 Completed: 501 (0.05%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 501 (0.05%) (Ranked 320)
 | 2023-12-02 | 1,081,739 | 500 |
 | 2023-12-03 | 1,082,447 | 500 |
 | 2023-12-04 | 1,082,796 | 500 |
-| 2023-12-05 | 1,083,054 | 501 |
+| 2023-12-05 | 1,083,071 | 501 |
 ## Awards
 Max (Great for Beginners): 172  (Ranked 309)  
 Sum: 1,413 (Ranked 241)  

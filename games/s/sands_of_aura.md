@@ -8,7 +8,7 @@
 | A Small Thirsty Thing | 14.00% | ~14 |
 | Dousing a Venerable Flame | 11.00% | ~11 |
 | Advanced Armaments | 11.00% | ~11 |
-| Spirit Within | 10.00% | ~10 |
+| Spirit Within | 11.00% | ~11 |
 | Leisis Bless You | 9.00% | ~9 |
 | Rain Must Fall | 8.00% | ~8 |
 | Overboard | 8.00% | ~8 |

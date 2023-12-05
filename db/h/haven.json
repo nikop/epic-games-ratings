@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -2328,9 +2328,9 @@
       "ID": "16",
       "SetID": "n50no0",
       "Name": "My little pony",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 70,
-      "UsersEstimate": 295
+      "UsersEstimate": 311
     },
     {
       "ID": "17",
@@ -2520,8 +2520,8 @@
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-05T20:05:23.6126827+00:00",
+  "LastChanged_Achievements": "2023-12-05T21:06:09.2321128+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:11.0521144+00:00",
-  "LastUpdate_Ratings": "2023-12-05T19:58:54.8513993+00:00",
-  "LastUpdate_Achievements": "2023-12-05T20:05:23.6127096+00:00"
+  "LastUpdate_Ratings": "2023-12-05T20:59:11.2645841+00:00",
+  "LastUpdate_Achievements": "2023-12-05T21:06:09.2321429+00:00"
 }

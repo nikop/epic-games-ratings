@@ -6,29 +6,29 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~10,723 |
-| It wakes | 1.00% | ~10,723 |
-| Not half bad | 1.00% | ~10,723 |
-| Skillful | 1.00% | ~10,723 |
-| Make Some Noise | 1.00% | ~10,723 |
-| Apt Survivor | 0.90% | ~9,651 |
-| Survival Treasures | 0.90% | ~9,651 |
-| I | 0.90% | ~9,651 |
-| Handyman | 0.80% | ~8,579 |
-| Sorted | 0.80% | ~8,579 |
-| Resurgence | 0.80% | ~8,579 |
-| The Grand Sacrifice | 0.70% | ~7,506 |
-| No one left behind | 0.70% | ~7,506 |
-| Medic | 0.70% | ~7,506 |
-| Bloody Millionaire | 0.70% | ~7,506 |
-| Healthy Obsession | 0.70% | ~7,506 |
-| Preemptive Strike | 0.70% | ~7,506 |
-| Humanitarian | 0.70% | ~7,506 |
-| Agonizing Escape | 0.60% | ~6,434 |
-| Backdoor Escape | 0.60% | ~6,434 |
-| Perfect Escape | 0.60% | ~6,434 |
-| II | 0.60% | ~6,434 |
-| Close Shave | 0.60% | ~6,434 |
+| Zealous | 1.00% | ~10,725 |
+| It wakes | 1.00% | ~10,725 |
+| Not half bad | 1.00% | ~10,725 |
+| Skillful | 1.00% | ~10,725 |
+| Make Some Noise | 1.00% | ~10,725 |
+| Apt Survivor | 0.90% | ~9,652 |
+| Survival Treasures | 0.90% | ~9,652 |
+| I | 0.90% | ~9,652 |
+| Handyman | 0.80% | ~8,580 |
+| Sorted | 0.80% | ~8,580 |
+| Resurgence | 0.80% | ~8,580 |
+| The Grand Sacrifice | 0.70% | ~7,507 |
+| No one left behind | 0.70% | ~7,507 |
+| Medic | 0.70% | ~7,507 |
+| Bloody Millionaire | 0.70% | ~7,507 |
+| Healthy Obsession | 0.70% | ~7,507 |
+| Preemptive Strike | 0.70% | ~7,507 |
+| Humanitarian | 0.70% | ~7,507 |
+| Agonizing Escape | 0.60% | ~6,435 |
+| Backdoor Escape | 0.60% | ~6,435 |
+| Perfect Escape | 0.60% | ~6,435 |
+| II | 0.60% | ~6,435 |
+| Close Shave | 0.60% | ~6,435 |
 | I've got your back | 0.50% | ~5,362 |
 | Perfect Killing | 0.50% | ~5,362 |
 | Apt Killer | 0.50% | ~5,362 |
@@ -36,14 +36,14 @@ Number of Ratings: 70,340  (23.09.2022)
 | III | 0.50% | ~5,362 |
 | Engineer | 0.50% | ~5,362 |
 | Wounded Healer | 0.50% | ~5,362 |
-| Escape Artist | 0.40% | ~4,289 |
-| Vulture | 0.40% | ~4,289 |
-| First to the Punch | 0.40% | ~4,289 |
-| Operation: Survival | 0.40% | ~4,289 |
-| Every Last Drop | 0.40% | ~4,289 |
-| With Scars to Show | 0.40% | ~4,289 |
-| Lifting The Fog | 0.40% | ~4,289 |
-| Second Act | 0.40% | ~4,289 |
+| Escape Artist | 0.40% | ~4,290 |
+| Vulture | 0.40% | ~4,290 |
+| First to the Punch | 0.40% | ~4,290 |
+| Operation: Survival | 0.40% | ~4,290 |
+| Every Last Drop | 0.40% | ~4,290 |
+| With Scars to Show | 0.40% | ~4,290 |
+| Lifting The Fog | 0.40% | ~4,290 |
+| Second Act | 0.40% | ~4,290 |
 | Blood on your hands | 0.30% | ~3,217 |
 | Made it out alive! | 0.30% | ~3,217 |
 | Nerves of steel | 0.30% | ~3,217 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Joke’s On You | 0.10% | ~1,072 |
 | Adept Good Guy | 0.10% | ~1,072 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,072,349 (Ranked 14)  
+Progressed: 1,072,493 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -468,10 +468,10 @@ Completed: 61 (0.01%) (Ranked 347)
 | 2023-12-02 | 1,062,340 | 61 |
 | 2023-12-03 | 1,067,390 | 61 |
 | 2023-12-04 | 1,070,133 | 61 |
-| 2023-12-05 | 1,072,349 | 61 |
+| 2023-12-05 | 1,072,493 | 61 |
 ## Awards
 Max (Diverse Characters): 37,289  (Ranked 15)  
-Sum: 283,233 (Ranked 12)  
+Sum: 283,261 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -481,7 +481,7 @@ Diff (max vs sum): 3
 | This game has Competitive Players | 31,755 |
 | This game is Extremely Fun | 31,402 |
 | This game has Challenging Combat | 31,304 |
-| This game has Quickly Understood Controls | 30,593 |
+| This game has Quickly Understood Controls | 30,621 |
 | This game has Amazing Storytelling | 28,920 |
 | This game has a Competitive Community | 27,655 |
 | This game has Obsessive Gameplay | 16,768 |
@@ -804,4 +804,4 @@ Diff (max vs sum): 3
 | 2023-12-02 | 4.51 | - | 37,095 | 281,803 |
 | 2023-12-03 | 4.51 | - | 37,218 | 282,346 |
 | 2023-12-04 | 4.51 | - | 37,289 | 282,989 |
-| 2023-12-05 | 4.51 | - | 37,289 | 283,233 |
+| 2023-12-05 | 4.51 | - | 37,289 | 283,261 |

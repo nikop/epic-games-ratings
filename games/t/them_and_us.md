@@ -11,7 +11,7 @@
 | Open Sesame | 30.00% | ~94 |
 | What have I done!? | 20.00% | ~63 |
 | Them and Us | 19.00% | ~60 |
-| OUTRAGE | 18.00% | ~57 |
+| OUTRAGE | 19.00% | ~60 |
 | This Coffin Has Your Name On It! | 16.00% | ~50 |
 | Alone In The Dark | 15.00% | ~47 |
 | The Cultists | 15.00% | ~47 |

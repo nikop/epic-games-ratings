@@ -6,14 +6,14 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 79.00% | ~541,980 |
-| Every story has a beginning | 36.00% | ~246,978 |
-| The first of many | 31.00% | ~212,676 |
-| Positive word of mouth | 18.00% | ~123,489 |
-| Lawn in the U.S.A. | 15.00% | ~102,908 |
+| The dream begins | 79.00% | ~541,988 |
+| Every story has a beginning | 36.00% | ~246,982 |
+| The first of many | 31.00% | ~212,679 |
+| Positive word of mouth | 18.00% | ~123,491 |
+| Lawn in the U.S.A. | 15.00% | ~102,909 |
 | Blade Runner | 9.00% | ~61,745 |
 | Credible | 7.00% | ~48,024 |
-| Teamwork makes the dream work | 6.00% | ~41,163 |
+| Teamwork makes the dream work | 6.00% | ~41,164 |
 | Where there's muck there's brass | 4.00% | ~27,442 |
 | Bigger and better | 4.00% | ~27,442 |
 | Aggressive expansion | 4.00% | ~27,442 |
@@ -27,12 +27,12 @@ Number of Ratings: 5,086  (23.09.2022)
 | The top of the mountain | 2.00% | ~13,721 |
 | First step on the ladder | 2.00% | ~13,721 |
 | Trusted | 2.00% | ~13,721 |
-| Earn your stripes | 0.90% | ~6,174 |
-| Lawn & Order | 0.90% | ~6,174 |
-| The grass is always greener | 0.90% | ~6,174 |
-| Jack of all trades | 0.90% | ~6,174 |
-| All hands on deck | 0.90% | ~6,174 |
-| Professional | 0.90% | ~6,174 |
+| Earn your stripes | 0.90% | ~6,175 |
+| Lawn & Order | 0.90% | ~6,175 |
+| The grass is always greener | 0.90% | ~6,175 |
+| Jack of all trades | 0.90% | ~6,175 |
+| All hands on deck | 0.90% | ~6,175 |
+| Professional | 0.90% | ~6,175 |
 | Worked your grass off | 0.80% | ~5,488 |
 | Phoenix rises | 0.40% | ~2,744 |
 | Cut Loose | 0.40% | ~2,744 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~686 |
 | Mo mowers, mo problems | 0.10% | ~686 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 686,051 (Ranked 27)  
+Progressed: 686,061 (Ranked 27)  
 Completed: 19 (0.00%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,11 +290,11 @@ Completed: 19 (0.00%) (Ranked 369)
 | 2023-12-02 | 685,178 | 19 |
 | 2023-12-03 | 685,634 | 19 |
 | 2023-12-04 | 685,879 | 19 |
-| 2023-12-05 | 686,051 | 19 |
+| 2023-12-05 | 686,061 | 19 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 301)  
-Sum: 989 (Ranked 264)  
-Diff (max vs sum): 37  
+Sum: 989 (Ranked 265)  
+Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 182 |

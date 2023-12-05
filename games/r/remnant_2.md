@@ -8,7 +8,7 @@ Rating: 4.75 (Ranked 147)
 | The Killing Jar | 0.80% | ~1,884 |
 | Regicide | 0.80% | ~117 |
 | First of Many | 0.70% | ~1,648 |
-| Master of the Dark Arts | 0.70% | ~102 |
+| Master of the Dark Arts | 0.70% | ~103 |
 | Not Your Average Trait | 0.60% | ~1,413 |
 | Expanding Horizons | 0.50% | ~1,177 |
 | Gleaming the Cube | 0.50% | ~1,177 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 147)
 | You Shall Pass | 0.20% | ~29 |
 | A Foul Feast | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,446 (Ranked 68)  
+Progressed: 235,480 (Ranked 68)  
 Completed: 561 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,14 +203,14 @@ Completed: 561 (0.24%) (Ranked 251)
 | 2023-12-02 | 233,162 | 548 |
 | 2023-12-03 | 234,204 | 554 |
 | 2023-12-04 | 234,896 | 558 |
-| 2023-12-05 | 235,446 | 561 |
+| 2023-12-05 | 235,480 | 561 |
 ## Awards
-Max (Great Boss Battles): 2,623  (Ranked 102)  
-Sum: 6,514 (Ranked 128)  
-Diff (max vs sum): -26  
+Max (Great Boss Battles): 2,649  (Ranked 102)  
+Sum: 6,540 (Ranked 127)  
+Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,623 |
+| This game has Great Boss Battles | 2,649 |
 | This game has Diverse Characters | 436 |
 | This game is Highly Recommended | 424 |
 | This game has Challenging Combat | 413 |
@@ -356,4 +356,4 @@ Diff (max vs sum): -26
 | 2023-12-02 | 4.75 | 2,577 | 6,336 |
 | 2023-12-03 | 4.75 | 2,603 | 6,405 |
 | 2023-12-04 | 4.75 | 2,623 | 6,481 |
-| 2023-12-05 | 4.75 | 2,623 | 6,514 |
+| 2023-12-05 | 4.75 | 2,649 | 6,540 |

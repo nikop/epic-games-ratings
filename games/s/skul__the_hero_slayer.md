@@ -6,20 +6,20 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,805 |
-| What should I buy? | 84.00% | ~7,050 |
+| The Legend Begins | 93.00% | ~7,806 |
+| What should I buy? | 84.00% | ~7,051 |
 | Focus! | 63.00% | ~5,288 |
 | Rescued Elder Ent | 63.00% | ~5,288 |
 | The End of the Gold Mane Knights | 49.00% | ~4,113 |
 | Rules of Etiquette | 42.00% | ~3,525 |
-| False Goddess, Disappear | 41.00% | ~3,441 |
+| False Goddess, Disappear | 41.00% | ~3,442 |
 | Quick Movements | 35.00% | ~2,938 |
 | Inventory Management | 35.00% | ~2,938 |
 | The Fall of the Leonia Order | 32.00% | ~2,686 |
 | The Hero Killer | 30.00% | ~2,518 |
 | Go Home... | 29.00% | ~2,434 |
 | The Final Battle of the First Hero | 28.00% | ~2,350 |
-| Brain at Full Throttle | 24.00% | ~2,014 |
+| Brain at Full Throttle | 24.00% | ~2,015 |
 | Rookies Welcome | 20.00% | ~1,679 |
 | Deadly Power | 17.00% | ~1,427 |
 | Castle Restoration Plans | 15.00% | ~1,259 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 2.00% | ~168 |
 | Cold-Blooded | 0.80% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,393 (Ranked 174)  
+Progressed: 8,394 (Ranked 174)  
 Completed: 17 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,17 +239,17 @@ Completed: 17 (0.20%) (Ranked 258)
 | 2023-12-02 | 8,375 | 16 |
 | 2023-12-03 | 8,382 | 16 |
 | 2023-12-04 | 8,389 | 17 |
-| 2023-12-05 | 8,393 | 17 |
+| 2023-12-05 | 8,394 | 17 |
 ## Awards
 Max (Great for Beginners): 136  (Ranked 328)  
-Sum: 944 (Ranked 271)  
+Sum: 945 (Ranked 271)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 136 |
 | This game has Diverse Characters | 133 |
 | This game is Highly Recommended | 115 |
-| This game is Extremely Fun | 111 |
+| This game is Extremely Fun | 112 |
 | This game is Relaxing | 108 |
 | This game has Quickly Understood Controls | 104 |
 | This game has Amazing Storytelling | 92 |
@@ -406,4 +406,4 @@ Diff (max vs sum): 57
 | 2023-12-01 | 4.72 | - | 134 | 938 |
 | 2023-12-02 | 4.72 | - | 135 | 941 |
 | 2023-12-04 | 4.73 | - | 136 | 943 |
-| 2023-12-05 | 4.73 | - | 136 | 944 |
+| 2023-12-05 | 4.73 | - | 136 | 945 |

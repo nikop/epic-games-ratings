@@ -21,34 +21,34 @@
 | Berkanan Borgia | 19.00% | ~7 |
 | Power of Inquisition | 19.00% | ~7 |
 | The champion of the arena | 17.00% | ~6 |
+| Trial by cold | 17.00% | ~6 |
 | Rage | 14.00% | ~5 |
 | Protect the Healer! | 14.00% | ~5 |
-| Trial by cold | 14.00% | ~5 |
 | For the greater good | 11.00% | ~4 |
 | Overplay the rogue | 11.00% | ~4 |
+| Stronger than Gellian steel | 11.00% | ~4 |
 | Punish the Punisher | 11.00% | ~4 |
 | Collector | 8.00% | ~3 |
 | The best apprentice | 8.00% | ~3 |
-| Stronger than Gellian steel | 8.00% | ~3 |
 | By own strength | 8.00% | ~3 |
 | The End | 8.00% | ~3 |
 | Nothing is settled | 8.00% | ~3 |
 | First among Frisians | 6.00% | ~2 |
+| Defeat the bear | 6.00% | ~2 |
 | The power of persuasion | 6.00% | ~2 |
 | Deadly strike | 6.00% | ~2 |
 | A solo player | 6.00% | ~2 |
 | Cunning plan | 6.00% | ~2 |
 | All's fair in love and war | 6.00% | ~2 |
-| Defeat the bear | 3.00% | ~1 |
+| Supplier | 3.00% | ~1 |
 | Do it yourself | 3.00% | ~1 |
 | By someone else's hands | 3.00% | ~1 |
+| There can be only one | 3.00% | ~1 |
 | Berserk | 0.00% | ~0 |
-| Supplier | 0.00% | ~0 |
 | Master of the Way | 0.00% | ~0 |
 | Never laid a finger | 0.00% | ~0 |
 | Mate in 4 moves | 0.00% | ~0 |
 | By own rules | 0.00% | ~0 |
-| There can be only one | 0.00% | ~0 |
 | Blood and honour | 0.00% | ~0 |
 | Happily ever after | 0.00% | ~0 |
 | A lesson to all the madmen | 0.00% | ~0 |

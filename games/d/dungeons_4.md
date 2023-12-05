@@ -7,14 +7,14 @@
 | The Last Stand | 89.00% | ~470 |
 | Thalya – Simply Immortal | 89.00% | ~470 |
 | For the Horde! | 82.00% | ~433 |
-| Hammer Time, Round Two | 80.00% | ~422 |
-| The Hellwoods | 75.00% | ~396 |
+| Hammer Time, Round Two | 81.00% | ~428 |
+| The Hellwoods | 76.00% | ~401 |
 | The Plains of Strothalm | 71.00% | ~375 |
 | Experienced Thalya | 71.00% | ~375 |
 | Thalya's Concentrated Fury | 69.00% | ~364 |
 | Bad Elves Go Everywhere | 69.00% | ~364 |
 | Heroes’ Gorge | 65.00% | ~343 |
-| Master of Magic | 63.00% | ~333 |
+| Master of Magic | 64.00% | ~338 |
 | Unicorn steaks – fresh off the hoof! | 61.00% | ~322 |
 | Magic Accidents | 58.00% | ~306 |
 | The Ascent | 56.00% | ~296 |
@@ -41,8 +41,8 @@
 | Ghost Pirates? Ghost Heroes! | 26.00% | ~137 |
 | Hungry, Hungry Gorgu! | 25.00% | ~132 |
 | The Finitude Drill | 25.00% | ~132 |
+| Stop Tanos! | 22.00% | ~116 |
 | Doom Hill | 22.00% | ~116 |
-| Stop Tanos! | 21.00% | ~111 |
 | Sabotage! | 20.00% | ~106 |
 | Brimstone Shaken, Not Stirred | 20.00% | ~106 |
 | Bonus Evilness | 18.00% | ~95 |
