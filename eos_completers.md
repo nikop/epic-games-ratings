@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 24.00% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.99% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -74,7 +74,7 @@
 | 72 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
 | 73 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 73 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 75 | [JARS](games/j/jars.md) | 5.00% |
+| 75 | [JARS](games/j/jars.md) | 4.95% |
 | 76 | [Bugsnax](games/b/bugsnax.md) | 4.84% |
 | 77 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |
 | 77 | [Time on Frog Island](games/t/time_on_frog_island.md) | 4.76% |

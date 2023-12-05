@@ -143,6 +143,7 @@
 | [BloodRayne: Terminal Cut](../games/b/bloodrayne__terminal_cut.md) | 13 | 1,000 |
 | [Bloodshore](../games/b/bloodshore.md) | 17 | 1,000 |
 | [Blossom Tales II The Minotaur Prince](../games/b/blossom_tales_ii_the_minotaur_prince.md) | 20 | 1,000 |
+| [Born of Bread](../games/2/269f94247b4f471b9381fd4052bf1fad.md) | 36 | 1,000 |
 | [Bosorka](../games/b/bosorka.md) | 15 | 1,000 |
 | [Botanicula](../games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 53 | 1,000 |
 | [Bottle: Pilgrim Redux](../games/d/d5f88a2d15f2400db1c116d6651e7c9e.md) | 24 | 1,000 |

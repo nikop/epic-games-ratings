@@ -328,6 +328,7 @@
 | [ANNO Mutationem](../games/a/anno_mutationem.md) | 36 | 1,000 |
 | [Atlas Fallen](../games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 36 | 1,000 |
 | [ATOM RPG](../games/a/atom_rpg.md) | 36 | 1,000 |
+| [Born of Bread](../games/2/269f94247b4f471b9381fd4052bf1fad.md) | 36 | 1,000 |
 | [Deceive Inc.](../games/d/deceive_inc..md) | 36 | 1,000 |
 | [Deponia Doomsday](../games/d/deponia_doomsday.md) | 36 | 1,000 |
 | [Heim](../games/h/heim.md) | 36 | 1,000 |
