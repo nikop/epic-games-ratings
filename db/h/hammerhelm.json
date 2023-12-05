@@ -4,8 +4,8 @@
   "ProductSlug": "hammerhelm",
   "Ranking_EOS_Progress": 783,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 474,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 473,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-10-21T08:00:00+00:00",
     "PcReleaseDate": "2021-04-29T08:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:11.0805227+00:00",
   "LastChanged": "2023-03-31T05:58:11.0805228+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:12.4865565+00:00",
-  "LastUpdate_Ratings": "2023-12-05T20:59:16.096799+00:00",
-  "LastUpdate_Achievements": "2023-12-05T21:05:02.3494335+00:00"
+  "LastUpdate_Ratings": "2023-12-05T21:58:34.580885+00:00",
+  "LastUpdate_Achievements": "2023-12-05T22:04:22.3615862+00:00"
 }

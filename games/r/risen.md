@@ -25,15 +25,15 @@ Rating: 4.57 (Ranked 479)
 | Death of a legend | 26.00% | ~16 |
 | The fourth triplet | 26.00% | ~16 |
 | Archaeologist | 25.00% | ~15 |
+| Pandora's box | 25.00% | ~15 |
 | Hard worker | 25.00% | ~15 |
 | Master detective | 25.00% | ~15 |
 | Little hero | 23.00% | ~14 |
-| Pandora's box | 23.00% | ~14 |
 | Peacekeeper | 23.00% | ~14 |
 | Ghost hunter | 21.00% | ~13 |
 | Sidelined | 21.00% | ~13 |
+| Defender | 20.00% | ~12 |
 | Workaholic | 20.00% | ~12 |
-| Defender | 18.00% | ~11 |
 | Fence | 18.00% | ~11 |
 | Showdown | 16.00% | ~10 |
 | Master thief | 16.00% | ~10 |

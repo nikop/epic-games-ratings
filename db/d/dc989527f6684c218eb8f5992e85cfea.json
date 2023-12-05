@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14205,
+  "EOS_Progressed": 14207,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
@@ -15929,6 +15929,11 @@
       "Time": "2023-12-05T21:07:14.7852253+00:00",
       "NumProgressed": 14205,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-05T22:06:01.391228+00:00",
+      "NumProgressed": 14207,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -16012,7 +16017,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 6250
+      "UsersEstimate": 6251
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -16139,14 +16144,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 14205,
+      "Progressed": 14207,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-12-05T21:07:14.7852249+00:00",
+  "LastChanged_Achievements": "2023-12-05T22:06:01.3912275+00:00",
   "LastUpdate_AppInfo": "2023-12-02T04:57:13.9800461+00:00",
-  "LastUpdate_Ratings": "2023-12-05T20:58:07.7577273+00:00",
-  "LastUpdate_Achievements": "2023-12-05T21:07:14.7852967+00:00"
+  "LastUpdate_Ratings": "2023-12-05T21:57:45.8302098+00:00",
+  "LastUpdate_Achievements": "2023-12-05T22:06:01.3913576+00:00"
 }

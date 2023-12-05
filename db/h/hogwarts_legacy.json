@@ -11473,10 +11473,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 49972,
       "NumberOfAwardsMax": 24947
+    },
+    {
+      "Time": "2023-12-05T21:59:39.7209145+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 49974,
+      "NumberOfAwardsMax": 24947
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49972,
+  "NumberOfAwards": 49974,
   "NumberOfAwardsMax": 24947,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11532,7 +11538,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1236
+      "Count": 1238
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -11553,9 +11559,9 @@
       "Count": 837
     }
   ],
-  "EOS_Progressed": 303974,
+  "EOS_Progressed": 303976,
   "EOS_Completed": 521,
-  "EOS_NewPlayers": 467,
+  "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36223,6 +36229,11 @@
       "Time": "2023-12-05T21:10:12.2492448+00:00",
       "NumProgressed": 303974,
       "NumCompleted": 521
+    },
+    {
+      "Time": "2023-12-05T22:09:34.9092819+00:00",
+      "NumProgressed": 303976,
+      "NumCompleted": 521
     }
   ],
   "TotalAchievements": 45,
@@ -36274,7 +36285,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 18238
+      "UsersEstimate": 18239
     },
     {
       "ID": "PFA_15",
@@ -36330,7 +36341,7 @@
       "Name": "The Good Samaritan",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 6079
+      "UsersEstimate": 6080
     },
     {
       "ID": "PFA_21",
@@ -36370,7 +36381,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 18238
+      "UsersEstimate": 18239
     },
     {
       "ID": "PFA_26",
@@ -36402,7 +36413,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 18238
+      "UsersEstimate": 18239
     },
     {
       "ID": "PFA_3",
@@ -36426,7 +36437,7 @@
       "Name": "Savvy Spender",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 6079
+      "UsersEstimate": 6080
     },
     {
       "ID": "PFA_32",
@@ -36458,7 +36469,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30397
+      "UsersEstimate": 30398
     },
     {
       "ID": "PFA_36",
@@ -36466,7 +36477,7 @@
       "Name": "Rise to the Challenges",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 6079
+      "UsersEstimate": 6080
     },
     {
       "ID": "PFA_37",
@@ -36506,7 +36517,7 @@
       "Name": "Demiguise Dread",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6079
+      "UsersEstimate": 6080
     },
     {
       "ID": "PFA_41",
@@ -36530,7 +36541,7 @@
       "Name": "Finishing Touches",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 6079
+      "UsersEstimate": 6080
     },
     {
       "ID": "PFA_44",
@@ -36546,7 +36557,7 @@
       "Name": "A Forte for Achievement",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 6079
+      "UsersEstimate": 6080
     },
     {
       "ID": "PFA_5",
@@ -36570,7 +36581,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42556
+      "UsersEstimate": 42557
     },
     {
       "ID": "PFA_8",
@@ -36586,23 +36597,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30397
+      "UsersEstimate": 30398
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303974,
+      "Progressed": 303976,
       "Completed": 521
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-12-05T19:00:54.9330298+00:00",
-  "LastChanged_Achievements": "2023-12-05T21:10:12.2492444+00:00",
+  "LastChanged": "2023-12-05T21:59:39.7209143+00:00",
+  "LastChanged_Achievements": "2023-12-05T22:09:34.9092816+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-05T21:00:45.3892385+00:00",
-  "LastUpdate_Achievements": "2023-12-05T21:10:12.2493715+00:00"
+  "LastUpdate_Ratings": "2023-12-05T21:59:39.7209149+00:00",
+  "LastUpdate_Achievements": "2023-12-05T22:09:34.9094173+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-11-01T17:00:00+00:00",
     "PcReleaseDate": "2020-11-04T23:00:00+00:00",
@@ -421,9 +421,9 @@
       "ID": "MY_FIRST_BEER",
       "SetID": "6akbe6n",
       "Name": "My first beer",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "NO_HINTS_USED",
@@ -461,9 +461,9 @@
       "ID": "READ_ALL_BEER_QUOTES",
       "SetID": "6akbe6n",
       "Name": "Wall Reader",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SOBER_10_TIMES",
@@ -492,8 +492,8 @@
   ],
   "FirstSeen": "2023-11-05T04:02:04.3012768+00:00",
   "FirstSeenAchievements": "2023-09-21T09:03:22.496367+00:00",
-  "LastChanged_Achievements": "2023-12-05T21:06:37.4902602+00:00",
+  "LastChanged_Achievements": "2023-12-05T22:05:33.3596973+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.1252738+00:00",
-  "LastUpdate_Ratings": "2023-12-05T21:02:44.7773627+00:00",
-  "LastUpdate_Achievements": "2023-12-05T21:06:37.4902738+00:00"
+  "LastUpdate_Ratings": "2023-12-05T22:02:40.0276435+00:00",
+  "LastUpdate_Achievements": "2023-12-05T22:05:33.3597121+00:00"
 }

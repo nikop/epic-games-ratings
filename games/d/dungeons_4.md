@@ -9,22 +9,22 @@
 | For the Horde! | 82.00% | ~433 |
 | Hammer Time, Round Two | 81.00% | ~428 |
 | The Hellwoods | 76.00% | ~401 |
+| Experienced Thalya | 72.00% | ~380 |
 | The Plains of Strothalm | 71.00% | ~375 |
-| Experienced Thalya | 71.00% | ~375 |
 | Thalya's Concentrated Fury | 69.00% | ~364 |
 | Bad Elves Go Everywhere | 69.00% | ~364 |
 | Heroes’ Gorge | 65.00% | ~343 |
 | Master of Magic | 64.00% | ~338 |
 | Unicorn steaks – fresh off the hoof! | 61.00% | ~322 |
-| Magic Accidents | 58.00% | ~306 |
-| The Ascent | 56.00% | ~296 |
-| It's Warm and Cozy at Home | 56.00% | ~296 |
+| Magic Accidents | 59.00% | ~312 |
+| The Ascent | 57.00% | ~301 |
+| It's Warm and Cozy at Home | 57.00% | ~301 |
 | Trap Master | 55.00% | ~290 |
 | Minions, Minions! | 54.00% | ~285 |
 | Hard Work | 51.00% | ~269 |
 | The Big Eaty | 51.00% | ~269 |
 | YOU SHALL NOT PASS! | 49.00% | ~259 |
-| “… like son” | 47.00% | ~248 |
+| “… like son” | 48.00% | ~253 |
 | Pure Dynamite! | 45.00% | ~238 |
 | Shame! Shame! Shame! | 44.00% | ~232 |
 | The Cathedral of Light | 43.00% | ~227 |
@@ -56,9 +56,9 @@
 | The Last Stand - This Time For Real! | 14.00% | ~74 |
 | To Infinity And Beyond! | 13.00% | ~69 |
 | Mirror, Mirror | 12.00% | ~63 |
+| Untouchable | 12.00% | ~63 |
 | To the Max! | 12.00% | ~63 |
-| Untouchable | 11.00% | ~58 |
-| Evilification | 10.00% | ~53 |
+| Evilification | 11.00% | ~58 |
 | Laser Eyes Are So Useless | 9.00% | ~48 |
 | Heal Heal Blessing | 9.00% | ~48 |
 | Gorgu is in the Best of Health | 8.00% | ~42 |

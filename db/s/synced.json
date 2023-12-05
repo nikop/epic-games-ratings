@@ -2,13 +2,13 @@
   "ID": "d613614e082c4f648835a32f15c1d29b",
   "Name": "SYNCED",
   "ProductSlug": "synced",
-  "Ranking_Rating": 949,
+  "Ranking_Rating": 945,
   "Ranking_Popularity": 365,
   "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.15,
+  "Rating": 4.16,
   "RatingHistory": [
     {
       "Time": "2023-09-09T22:00:06.1147594+00:00",
@@ -1153,6 +1153,12 @@
       "Rating": 4.15,
       "NumberOfAwards": 455,
       "NumberOfAwardsMax": 99
+    },
+    {
+      "Time": "2023-12-05T21:57:49.2094462+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 455,
+      "NumberOfAwardsMax": 99
     }
   ],
   "ReviewsDisabled": false,
@@ -1221,10 +1227,10 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 68121,
+  "EOS_Progressed": 68124,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 433,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 436,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
     {
@@ -11546,6 +11552,11 @@
       "Time": "2023-12-05T21:08:35.1555954+00:00",
       "NumProgressed": 68121,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-05T22:08:18.6619284+00:00",
+      "NumProgressed": 68124,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -11558,7 +11569,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23842
+      "UsersEstimate": 23843
     },
     {
       "ID": "10",
@@ -11685,16 +11696,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 68121,
+      "Progressed": 68124,
       "Completed": 38
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-12-04T21:57:20.5110668+00:00",
-  "LastChanged_Achievements": "2023-12-05T21:08:35.1555953+00:00",
+  "LastChanged": "2023-12-05T21:57:49.2094461+00:00",
+  "LastChanged_Achievements": "2023-12-05T22:08:18.6619277+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:29.380073+00:00",
-  "LastUpdate_Ratings": "2023-12-05T20:58:12.6892582+00:00",
-  "LastUpdate_Achievements": "2023-12-05T21:08:35.1556475+00:00"
+  "LastUpdate_Ratings": "2023-12-05T21:57:49.2094465+00:00",
+  "LastUpdate_Achievements": "2023-12-05T22:08:18.6619909+00:00"
 }

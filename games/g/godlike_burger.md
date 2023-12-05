@@ -5,17 +5,17 @@ Rating: 4.51 (Ranked 572)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~171,310 |
-| FIRST BLOOD | 40.00% | ~152,275 |
-| KEVIN! | 30.00% | ~114,206 |
-| JACK OF ALL TRADES | 23.00% | ~87,558 |
-| CRIMINAL | 20.00% | ~76,138 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~41,876 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~34,262 |
-| HONORS STUDENT | 8.00% | ~30,455 |
-| BUTCHER | 6.00% | ~22,841 |
-| INDIVIDUAL APPROACH | 5.00% | ~19,034 |
-| RAMBO | 5.00% | ~19,034 |
+| MASTER CHEF | 45.00% | ~171,318 |
+| FIRST BLOOD | 40.00% | ~152,283 |
+| KEVIN! | 30.00% | ~114,212 |
+| JACK OF ALL TRADES | 23.00% | ~87,563 |
+| CRIMINAL | 20.00% | ~76,141 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~41,878 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~34,264 |
+| HONORS STUDENT | 8.00% | ~30,457 |
+| BUTCHER | 6.00% | ~22,842 |
+| INDIVIDUAL APPROACH | 5.00% | ~19,035 |
+| RAMBO | 5.00% | ~19,035 |
 | HELL'S KITCHEN | 4.00% | ~15,228 |
 | CELEBRITY | 3.00% | ~11,421 |
 | MARTYR | 3.00% | ~11,421 |
@@ -27,14 +27,14 @@ Rating: 4.51 (Ranked 572)
 | PRUDENT | 1.00% | ~3,807 |
 | SCATTERBRAIN | 0.70% | ~2,665 |
 | HIGH TECHNOLOGIES | 0.60% | ~2,284 |
-| TASTE UNTASTY | 0.50% | ~1,903 |
+| TASTE UNTASTY | 0.50% | ~1,904 |
 | DEBTOR | 0.20% | ~761 |
 | I'VE SEEN SOME… | 0.20% | ~761 |
 | CORRUPTIONIST | 0.10% | ~381 |
 | MISTER ALL THUMBS | 0.10% | ~381 |
 | TRAVELER | 0.10% | ~381 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 380,688 (Ranked 47)  
+Progressed: 380,707 (Ranked 47)  
 Completed: 46 (0.01%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 46 (0.01%) (Ranked 347)
 | 2023-12-02 | 378,929 | 43 |
 | 2023-12-03 | 379,779 | 43 |
 | 2023-12-04 | 380,280 | 45 |
-| 2023-12-05 | 380,688 | 46 |
+| 2023-12-05 | 380,707 | 46 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

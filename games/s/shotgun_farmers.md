@@ -8,7 +8,7 @@
 | First Blood | 63.00% | ~217 |
 | Triple Kill | 61.00% | ~210 |
 | Aspairagus | 59.00% | ~174 |
-| No Asperascope | 57.00% | ~197 |
+| No Asperascope | 58.00% | ~200 |
 | Survivor | 57.00% | ~168 |
 | Cornivore | 54.00% | ~186 |
 | I Believe I Can Fly | 50.00% | ~172 |
@@ -23,7 +23,7 @@
 | Quick-Draw Pod | 22.00% | ~65 |
 | Pork Chop Express | 20.00% | ~69 |
 | Professional Survivor | 20.00% | ~59 |
-| Skin Of Your Teeth | 17.00% | ~59 |
+| Skin Of Your Teeth | 18.00% | ~62 |
 | Carrocketeer | 17.00% | ~59 |
 | This Is My Boomstick | 17.00% | ~50 |
 | Getting Started | 16.00% | ~55 |

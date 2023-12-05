@@ -9,7 +9,7 @@
 | The City | 42.00% | ~217 |
 | The field base | 38.00% | ~196 |
 | Survivors | 32.00% | ~165 |
-| The Condor | 29.00% | ~150 |
+| The Condor | 30.00% | ~155 |
 | The End | 29.00% | ~150 |
 | The Alliance | 24.00% | ~124 |
 | The Necroevolution | 23.00% | ~119 |
@@ -17,8 +17,8 @@
 | Peacemaker | 20.00% | ~103 |
 | Volcanologist | 19.00% | ~98 |
 | On her own | 17.00% | ~88 |
+| Beyond divisions | 16.00% | ~83 |
 | Evacuation | 15.00% | ~78 |
-| Beyond divisions | 15.00% | ~78 |
 | Fierce fight | 14.00% | ~72 |
 | Flying Objects Operator | 13.00% | ~67 |
 | I remember everything! | 12.00% | ~62 |

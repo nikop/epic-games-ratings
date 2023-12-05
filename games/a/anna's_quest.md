@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escape artist | 75.00% | ~64 |
-| Book Worm | 46.00% | ~39 |
-| Ooh, it's shiny! | 45.00% | ~38 |
+| Escape artist | 76.00% | ~65 |
+| Book Worm | 45.00% | ~39 |
+| Ooh, it's shiny! | 45.00% | ~39 |
 | Through the woods | 35.00% | ~30 |
 | Fussy eater | 35.00% | ~30 |
 | My lost nightingale | 35.00% | ~30 |
 | Honey, honey, honey… | 33.00% | ~28 |
 | Back to the anvil | 33.00% | ~28 |
 | Kekekeke... | 33.00% | ~28 |
-| A very special drink | 32.00% | ~27 |
-| So soothing... | 32.00% | ~27 |
-| Roostwig has entered the building | 32.00% | ~27 |
-| Mystery solved | 31.00% | ~26 |
-| Game Over! | 31.00% | ~26 |
-| Sorry Grandpa | 31.00% | ~26 |
+| A very special drink | 31.00% | ~27 |
+| So soothing... | 31.00% | ~27 |
+| Roostwig has entered the building | 31.00% | ~27 |
+| Mystery solved | 30.00% | ~26 |
+| Game Over! | 30.00% | ~26 |
+| Sorry Grandpa | 30.00% | ~26 |
 | Shattered | 29.00% | ~25 |
 | GG | 29.00% | ~25 |
 | Beekeeper | 29.00% | ~25 |
@@ -30,22 +30,22 @@
 | Mischief maker | 27.00% | ~23 |
 | No posters allowed | 27.00% | ~23 |
 | Little genius | 26.00% | ~22 |
-| Turn the last page | 25.00% | ~21 |
-| Pain in the hands | 24.00% | ~20 |
+| Turn the last page | 24.00% | ~21 |
+| Pain in the hands | 23.00% | ~20 |
 | Kill it! KILL IT! | 22.00% | ~19 |
 | Ring-a-ding-ding | 21.00% | ~18 |
 | Close the deal | 20.00% | ~17 |
 | Bahahahaha... | 19.00% | ~16 |
-| Makeover | 18.00% | ~15 |
-| Singstar | 18.00% | ~15 |
-| Cameodalic | 18.00% | ~15 |
+| Makeover | 17.00% | ~15 |
+| Singstar | 17.00% | ~15 |
+| Cameodalic | 17.00% | ~15 |
 | Guilty conscience | 15.00% | ~13 |
 | Clever reference #451 | 14.00% | ~12 |
-| What a mess | 11.00% | ~9 |
+| What a mess | 10.00% | ~9 |
 | Posterboy! | 8.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85 (Ranked 456)  
-Completed: 6 (7.06%) (Ranked 62)  
+Progressed: 86 (Ranked 454)  
+Completed: 6 (6.98%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -95,6 +95,7 @@ Completed: 6 (7.06%) (Ranked 62)
 | 2023-11-25 | 83 | 6 |
 | 2023-12-02 | 84 | 6 |
 | 2023-12-04 | 85 | 6 |
+| 2023-12-05 | 86 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

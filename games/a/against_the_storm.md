@@ -6,7 +6,7 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overgrown Library | 3.00% | ~528 |
+| Overgrown Library | 3.00% | ~529 |
 | Abandoned Settlement | 2.00% | ~352 |
 | Frosts | 2.00% | ~352 |
 | Land of Greed | 2.00% | ~352 |
@@ -34,6 +34,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lost Colonies | 0.20% | ~35 |
 | Statue of the Forefathers | 0.20% | ~35 |
 | Corrosive Torrent | 0.20% | ~35 |
+| A Real Challenge | 0.20% | ~35 |
 | Trade Baron | 0.20% | ~35 |
 | Serving Ale | 0.10% | ~18 |
 | Feeding The People | 0.10% | ~18 |
@@ -56,7 +57,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 0.10% | ~18 |
 | Prestigious Expedition | 0.10% | ~18 |
 | The Queen's Chosen | 0.10% | ~18 |
-| A Real Challenge | 0.10% | ~18 |
 | Blood Flower Farmer | 0.10% | ~18 |
 | Victory Through Prosperity | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.00% | ~0 |
 | Treasure | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,614 (Ranked 146)  
+Progressed: 17,618 (Ranked 146)  
 Completed: 49 (0.28%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 49 (0.28%) (Ranked 244)
 | 2023-12-02 | 17,567 | 49 |
 | 2023-12-03 | 17,585 | 49 |
 | 2023-12-04 | 17,605 | 49 |
-| 2023-12-05 | 17,614 | 49 |
+| 2023-12-05 | 17,618 | 49 |
 ## Awards
 Max (Quickly Understood Controls): 441  (Ranked 223)  
 Sum: 3,242 (Ranked 173)  

@@ -6,23 +6,23 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,474 |
-| Gun Fu | 7.00% | ~67,943 |
-| The Fool | 6.00% | ~58,237 |
-| Right Back At Ya | 5.00% | ~48,531 |
+| V for Vendetta | 12.00% | ~116,476 |
+| Gun Fu | 7.00% | ~67,944 |
+| The Fool | 6.00% | ~58,238 |
+| Right Back At Ya | 5.00% | ~48,532 |
 | The Lovers | 4.00% | ~38,825 |
-| Full Body Conversion | 3.00% | ~29,118 |
-| Stanislavski's Method | 3.00% | ~29,118 |
-| The Hermit | 3.00% | ~29,118 |
-| The Wheel of Fortune | 3.00% | ~29,118 |
-| True Soldier | 3.00% | ~29,118 |
-| Relic Ruler | 3.00% | ~2,977 |
-| Christmas Tree Attack | 2.00% | ~19,412 |
-| The Quick and the Dead | 2.00% | ~19,412 |
-| Life of the Road | 2.00% | ~19,412 |
-| The High Priestess | 2.00% | ~19,412 |
-| True Warrior | 2.00% | ~19,412 |
-| Legend of The Afterlife | 2.00% | ~19,412 |
+| Full Body Conversion | 3.00% | ~29,119 |
+| Stanislavski's Method | 3.00% | ~29,119 |
+| The Hermit | 3.00% | ~29,119 |
+| The Wheel of Fortune | 3.00% | ~29,119 |
+| True Soldier | 3.00% | ~29,119 |
+| Relic Ruler | 3.00% | ~2,978 |
+| Christmas Tree Attack | 2.00% | ~19,413 |
+| The Quick and the Dead | 2.00% | ~19,413 |
+| Life of the Road | 2.00% | ~19,413 |
+| The High Priestess | 2.00% | ~19,413 |
+| True Warrior | 2.00% | ~19,413 |
+| Legend of The Afterlife | 2.00% | ~19,413 |
 | All the President's Men | 2.00% | ~1,985 |
 | Arachnophobia | 2.00% | ~1,985 |
 | Bushido and Chill | 1.00% | ~9,706 |
@@ -41,7 +41,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Sun | 0.60% | ~5,824 |
 | To Bad Decisions! | 0.50% | ~4,853 |
 | The Star | 0.50% | ~4,853 |
-| Breathtaking | 0.40% | ~3,882 |
+| Breathtaking | 0.40% | ~3,883 |
 | Judgement Day | 0.40% | ~397 |
 | King of Swords | 0.40% | ~397 |
 | The Tower | 0.40% | ~397 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The APB is Not Enough | 0.30% | ~298 |
 | King of Pentacles | 0.30% | ~298 |
 | City Lights | 0.20% | ~1,941 |
-| King of Cups | 0.20% | ~198 |
+| King of Cups | 0.20% | ~199 |
 | Frequent Flyer | 0.10% | ~971 |
 | Gunslinger | 0.10% | ~971 |
 | Mean Streets | 0.10% | ~971 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 970,615 (Ranked 15)  
+Progressed: 970,635 (Ranked 15)  
 Completed: 2,844 (0.29%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 2,844 (0.29%) (Ranked 240)
 | 2023-12-02 | 967,833 | 2,836 |
 | 2023-12-03 | 969,229 | 2,839 |
 | 2023-12-04 | 970,004 | 2,843 |
-| 2023-12-05 | 970,615 | 2,844 |
+| 2023-12-05 | 970,635 | 2,844 |
 ## Awards
 Max (Character Customization): 117,137  (Ranked 9)  
 Sum: 390,996 (Ranked 9)  

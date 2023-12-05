@@ -7,14 +7,14 @@ Rating: 4.75 (Ranked 147)
 | ---- | ---------- | ----- |
 | The Killing Jar | 0.80% | ~1,884 |
 | Regicide | 0.80% | ~117 |
-| First of Many | 0.70% | ~1,648 |
+| First of Many | 0.70% | ~1,649 |
 | Master of the Dark Arts | 0.70% | ~103 |
 | Not Your Average Trait | 0.60% | ~1,413 |
-| Expanding Horizons | 0.50% | ~1,177 |
-| Gleaming the Cube | 0.50% | ~1,177 |
-| Quest for Survival | 0.50% | ~1,177 |
-| Familiar Face | 0.50% | ~1,177 |
-| Boss'n Up | 0.50% | ~1,177 |
+| Expanding Horizons | 0.50% | ~1,178 |
+| Gleaming the Cube | 0.50% | ~1,178 |
+| Quest for Survival | 0.50% | ~1,178 |
+| Familiar Face | 0.50% | ~1,178 |
+| Boss'n Up | 0.50% | ~1,178 |
 | Am I Seeing This? | 0.40% | ~942 |
 | Not So Special Now | 0.40% | ~942 |
 | Not a Janitor | 0.40% | ~942 |
@@ -27,21 +27,21 @@ Rating: 4.75 (Ranked 147)
 | Make Some Room | 0.40% | ~942 |
 | Good, But Could Be Better! | 0.40% | ~942 |
 | Trait Chaser | 0.40% | ~942 |
-| Ghost in the Machine | 0.30% | ~706 |
-| Chaos | 0.30% | ~706 |
-| Traitor | 0.30% | ~706 |
-| Forever is a Long Time Coming | 0.30% | ~706 |
-| Power Surge | 0.30% | ~706 |
-| The God Gambit | 0.30% | ~706 |
-| Dark Designs | 0.30% | ~706 |
-| Madman's Paradise | 0.30% | ~706 |
-| Was This Supposed To Happen? | 0.30% | ~706 |
-| Strapped | 0.30% | ~706 |
-| Edgelord | 0.30% | ~706 |
-| The Web | 0.30% | ~706 |
-| Scrap Collector | 0.30% | ~706 |
-| Scrap Hoarder | 0.30% | ~706 |
-| All These Traits� | 0.30% | ~706 |
+| Ghost in the Machine | 0.30% | ~707 |
+| Chaos | 0.30% | ~707 |
+| Traitor | 0.30% | ~707 |
+| Forever is a Long Time Coming | 0.30% | ~707 |
+| Power Surge | 0.30% | ~707 |
+| The God Gambit | 0.30% | ~707 |
+| Dark Designs | 0.30% | ~707 |
+| Madman's Paradise | 0.30% | ~707 |
+| Was This Supposed To Happen? | 0.30% | ~707 |
+| Strapped | 0.30% | ~707 |
+| Edgelord | 0.30% | ~707 |
+| The Web | 0.30% | ~707 |
+| Scrap Collector | 0.30% | ~707 |
+| Scrap Hoarder | 0.30% | ~707 |
+| All These Traits� | 0.30% | ~707 |
 | Crafty | 0.20% | ~471 |
 | Only Human | 0.20% | ~471 |
 | Red Room | 0.20% | ~471 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 147)
 | You Shall Pass | 0.20% | ~29 |
 | A Foul Feast | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,480 (Ranked 68)  
+Progressed: 235,501 (Ranked 68)  
 Completed: 561 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,10 +203,10 @@ Completed: 561 (0.24%) (Ranked 251)
 | 2023-12-02 | 233,162 | 548 |
 | 2023-12-03 | 234,204 | 554 |
 | 2023-12-04 | 234,896 | 558 |
-| 2023-12-05 | 235,480 | 561 |
+| 2023-12-05 | 235,501 | 561 |
 ## Awards
 Max (Great Boss Battles): 2,649  (Ranked 102)  
-Sum: 6,540 (Ranked 127)  
+Sum: 6,547 (Ranked 127)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
@@ -214,9 +214,9 @@ Diff (max vs sum): -25
 | This game has Diverse Characters | 436 |
 | This game is Highly Recommended | 424 |
 | This game has Challenging Combat | 413 |
-| This game has Amazing Storytelling | 403 |
+| This game has Amazing Storytelling | 406 |
+| This game is Extremely Fun | 403 |
 | This game is Relaxing | 403 |
-| This game is Extremely Fun | 399 |
 | This game has Amazing Characters | 395 |
 | This game has Quickly Understood Controls | 389 |
 | This game has Unique Visuals | 337 |
@@ -356,4 +356,4 @@ Diff (max vs sum): -25
 | 2023-12-02 | 4.75 | 2,577 | 6,336 |
 | 2023-12-03 | 4.75 | 2,603 | 6,405 |
 | 2023-12-04 | 4.75 | 2,623 | 6,481 |
-| 2023-12-05 | 4.75 | 2,649 | 6,540 |
+| 2023-12-05 | 4.75 | 2,649 | 6,547 |

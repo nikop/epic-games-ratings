@@ -21,13 +21,13 @@ Rating: 4.53 (Ranked 542)
 | Drug Gifter | 5.00% | ~796 |
 | Heal Thy Medic | 5.00% | ~796 |
 | Call it Even | 5.00% | ~796 |
-| Keep Arjun in Check | 5.00% | ~93 |
+| Keep Arjun in Check | 5.00% | ~94 |
 | Data Archivist | 4.00% | ~637 |
 | Khan's Revenge | 4.00% | ~637 |
 | Master Negotiator | 4.00% | ~75 |
-| Doctor Approved | 3.00% | ~477 |
-| Bottoms up! | 3.00% | ~477 |
-| Thorston Mayer | 3.00% | ~477 |
+| Doctor Approved | 3.00% | ~478 |
+| Bottoms up! | 3.00% | ~478 |
+| Thorston Mayer | 3.00% | ~478 |
 | Data Logger | 2.00% | ~318 |
 | Miraculous Maya | 2.00% | ~318 |
 | Data Master | 2.00% | ~318 |
@@ -35,13 +35,13 @@ Rating: 4.53 (Ranked 542)
 | No Belter Left Behind | 1.00% | ~159 |
 | Debris Spree | 1.00% | ~159 |
 | Data Recoverer | 0.90% | ~143 |
-| Urshanabi Hoarder | 0.60% | ~95 |
+| Urshanabi Hoarder | 0.60% | ~96 |
 | Data Miner | 0.40% | ~64 |
 | Grave Robber | 0.30% | ~48 |
 | Scavenger Star | 0.20% | ~32 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,915 (Ranked 151)  
+Progressed: 15,918 (Ranked 151)  
 Completed: 41 (0.26%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 41 (0.26%) (Ranked 249)
 | 2023-12-02 | 15,842 | 39 |
 | 2023-12-03 | 15,879 | 40 |
 | 2023-12-04 | 15,899 | 40 |
-| 2023-12-05 | 15,915 | 41 |
+| 2023-12-05 | 15,918 | 41 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

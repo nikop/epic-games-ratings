@@ -8,14 +8,14 @@
 | Elevator Pitch | 84.00% | ~71 |
 | Beam me up | 62.00% | ~53 |
 | Rock Bottom | 58.00% | ~49 |
-| Uncaged | 18.00% | ~15 |
+| Uncaged | 20.00% | ~17 |
 | The end is nigh! | 14.00% | ~12 |
 | Get Together | 14.00% | ~12 |
 | Wait for me! | 6.00% | ~5 |
-| Leave no stone unturned | 1.00% | ~1 |
+| Leave no stone unturned | 4.00% | ~3 |
 | The best of both worlds | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85 (Ranked 456)  
+Progressed: 85 (Ranked 457)  
 Completed: 0 (0.00%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |

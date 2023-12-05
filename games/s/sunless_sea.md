@@ -9,8 +9,8 @@ Number of Ratings: 401  (23.09.2022)
 | Sink Beneath the Waves | 36.00% | ~15,018 |
 | Sweet Sorrow | 18.00% | ~7,509 |
 | Rules the Waves | 17.00% | ~7,092 |
-| Thou, All-Shaking Thunder | 15.00% | ~6,257 |
-| Rival | 14.00% | ~5,840 |
+| Thou, All-Shaking Thunder | 15.00% | ~6,258 |
+| Rival | 14.00% | ~5,841 |
 | Correspondent | 12.00% | ~5,006 |
 | Lose Your Mind | 12.00% | ~5,006 |
 | Sound Mind? | 12.00% | ~5,006 |
@@ -26,9 +26,9 @@ Number of Ratings: 401  (23.09.2022)
 | Zee Fever | 5.00% | ~2,086 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,669 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,669 |
-| Storm's Curse | 3.00% | ~1,251 |
-| We're Gonna Need a Bigger Boat | 3.00% | ~1,251 |
-| Come Closer | 3.00% | ~1,251 |
+| Storm's Curse | 3.00% | ~1,252 |
+| We're Gonna Need a Bigger Boat | 3.00% | ~1,252 |
+| Come Closer | 3.00% | ~1,252 |
 | Roaring Rise | 2.00% | ~834 |
 | I am the Captain of my Soul | 2.00% | ~834 |
 | A buoyant escape | 1.00% | ~417 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~42 |
 | Ten Years at Zee | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,716 (Ranked 121)  
+Progressed: 41,718 (Ranked 121)  
 Completed: 4 (0.01%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,15 +290,15 @@ Completed: 4 (0.01%) (Ranked 347)
 | 2023-12-02 | 41,539 | 4 |
 | 2023-12-03 | 41,634 | 4 |
 | 2023-12-04 | 41,675 | 4 |
-| 2023-12-05 | 41,716 | 4 |
+| 2023-12-05 | 41,718 | 4 |
 ## Awards
 Max (Character Customization): 219  (Ranked 283)  
-Sum: 312 (Ranked 365)  
+Sum: 313 (Ranked 365)  
 Diff (max vs sum): -82  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 219 |
-| This game has Amazing Storytelling | 26 |
+| This game has Amazing Storytelling | 27 |
 | This game has Unique Visuals | 25 |
 | This game has Quickly Understood Controls | 22 |
 | This game is Relaxing | 20 |
@@ -407,3 +407,4 @@ Diff (max vs sum): -82
 | 2023-11-24 | 4.58 | - | 218 | 291 |
 | 2023-11-28 | 4.58 | - | 219 | 292 |
 | 2023-12-04 | 4.58 | - | 219 | 312 |
+| 2023-12-05 | 4.58 | - | 219 | 313 |

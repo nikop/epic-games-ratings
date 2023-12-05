@@ -6,24 +6,24 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 69.00% | ~8,439 |
-| Photographer | 68.00% | ~8,317 |
-| Valley's Helper | 61.00% | ~7,461 |
-| Constructor | 51.00% | ~6,238 |
-| Renovator | 51.00% | ~6,238 |
-| Bestest Friend | 46.00% | ~5,626 |
-| Banker | 39.00% | ~4,770 |
-| Gardener | 31.00% | ~3,792 |
-| Generous | 25.00% | ~3,058 |
+| Goofy's Investor | 69.00% | ~8,442 |
+| Photographer | 68.00% | ~8,320 |
+| Valley's Helper | 61.00% | ~7,463 |
+| Constructor | 51.00% | ~6,240 |
+| Renovator | 51.00% | ~6,240 |
+| Bestest Friend | 46.00% | ~5,628 |
+| Banker | 39.00% | ~4,772 |
+| Gardener | 31.00% | ~3,793 |
+| Generous | 25.00% | ~3,059 |
 | Chef Cook | 18.00% | ~2,202 |
-| Miner | 10.00% | ~1,223 |
+| Miner | 10.00% | ~1,224 |
 | Duty Bound | 7.00% | ~856 |
+| Angler | 6.00% | ~734 |
 | Thorn Cleaner | 6.00% | ~734 |
-| Angler | 5.00% | ~612 |
 | Chit Chatter | 3.00% | ~367 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,231 (Ranked 161)  
-Completed: 293 (2.40%) (Ranked 123)  
+Progressed: 12,235 (Ranked 161)  
+Completed: 295 (2.41%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -202,10 +202,10 @@ Completed: 293 (2.40%) (Ranked 123)
 | 2023-12-02 | 12,099 | 288 |
 | 2023-12-03 | 12,149 | 289 |
 | 2023-12-04 | 12,176 | 290 |
-| 2023-12-05 | 12,231 | 293 |
+| 2023-12-05 | 12,235 | 295 |
 ## Awards
 Max (Great for Beginners): 1,096  (Ranked 146)  
-Sum: 8,007 (Ranked 108)  
+Sum: 8,009 (Ranked 108)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
@@ -215,7 +215,7 @@ Diff (max vs sum): 38
 | This game has Amazing Characters | 826 |
 | This game is Relaxing | 812 |
 | This game has Amazing Storytelling | 782 |
-| This game is Extremely Fun | 769 |
+| This game is Extremely Fun | 771 |
 | This game has Quickly Understood Controls | 760 |
 | This game has a Creative Community | 684 |
 | This game has Easy Combat | 535 |
@@ -488,4 +488,4 @@ Diff (max vs sum): 38
 | 2023-12-02 | 4.76 | - | 1,077 | 7,968 |
 | 2023-12-03 | 4.76 | - | 1,080 | 7,977 |
 | 2023-12-04 | 4.76 | - | 1,085 | 7,989 |
-| 2023-12-05 | 4.76 | - | 1,096 | 8,007 |
+| 2023-12-05 | 4.76 | - | 1,096 | 8,009 |

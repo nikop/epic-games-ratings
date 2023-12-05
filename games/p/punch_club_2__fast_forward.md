@@ -49,7 +49,7 @@
 | Mom got better | 40.00% | ~144 |
 | Poisoned fighter | 40.00% | ~144 |
 | The die is cast | 40.00% | ~144 |
-| Get out of my apartment! | 38.00% | ~137 |
+| Get out of my apartment! | 39.00% | ~140 |
 | Seashell hunter | 38.00% | ~137 |
 | Gang wrangler | 37.00% | ~133 |
 | Undercover robot | 37.00% | ~133 |

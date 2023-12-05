@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | It's Rewind Time | 89.00% | ~243 |
 | Wake Up | 81.00% | ~221 |
-| Time Gates | 63.00% | ~172 |
+| Time Gates | 64.00% | ~175 |
 | Command Centre | 50.00% | ~136 |
 | This is a Wall | 43.00% | ~117 |
 | Extendable Bridges | 42.00% | ~115 |

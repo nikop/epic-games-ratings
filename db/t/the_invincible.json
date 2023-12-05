@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 517,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1662,9 +1662,9 @@
       "ID": "AchvReachCondor",
       "SetID": "1hj060c",
       "Name": "The Condor",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 155
     },
     {
       "ID": "AchvSurvivors",
@@ -1694,9 +1694,9 @@
       "ID": "AchvUnity",
       "SetID": "1hj060c",
       "Name": "Beyond divisions",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 83
     }
   ],
   "AchievementSets": [
@@ -1709,8 +1709,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-05T21:09:13.7234734+00:00",
+  "LastChanged_Achievements": "2023-12-05T22:08:50.2080512+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.6526822+00:00",
-  "LastUpdate_Ratings": "2023-12-05T20:58:47.4042826+00:00",
-  "LastUpdate_Achievements": "2023-12-05T21:09:13.7234958+00:00"
+  "LastUpdate_Ratings": "2023-12-05T21:58:14.4259803+00:00",
+  "LastUpdate_Achievements": "2023-12-05T22:08:50.2080719+00:00"
 }

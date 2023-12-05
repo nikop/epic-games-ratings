@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 92.00% | ~510 |
+| Travel Streamer | 93.00% | ~515 |
 | Training Simulation | 78.00% | ~432 |
 | Kuku Bird Hunter | 63.00% | ~349 |
 | Storm Traveller | 57.00% | ~316 |
@@ -12,8 +12,8 @@
 | Fashion Connoisseur | 51.00% | ~283 |
 | Arms Mechanic | 47.00% | ~260 |
 | Flower Thief | 42.00% | ~233 |
+| Beginner Artificer | 37.00% | ~205 |
 | Apostle of Flame | 37.00% | ~205 |
-| Beginner Artificer | 36.00% | ~199 |
 | Beginner Cook | 35.00% | ~194 |
 | Seal Breaker | 31.00% | ~172 |
 | Handyman | 28.00% | ~155 |

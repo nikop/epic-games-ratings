@@ -2,13 +2,13 @@
   "ID": "67eb392889234b4d99a6562c5e60c825",
   "Name": "The Suicide of Rachel Foster",
   "ProductSlug": "the-suicide-of-rachel-foster-1dc01b",
-  "Ranking_Rating": 927,
+  "Ranking_Rating": 926,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1734,
+  "EOS_Progressed": 1735,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.27,
   "EosHistory": [
@@ -3773,6 +3773,11 @@
       "Time": "2023-12-05T12:06:19.7786468+00:00",
       "NumProgressed": 1734,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-12-05T22:05:56.8744686+00:00",
+      "NumProgressed": 1735,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 11,
@@ -3792,7 +3797,7 @@
       "Name": "Freeze to death",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 971
+      "UsersEstimate": 972
     },
     {
       "ID": "ACH_Cacciavite",
@@ -3824,7 +3829,7 @@
       "Name": "Alone",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "ACH_FineGioco",
@@ -3832,7 +3837,7 @@
       "Name": "All together, again",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -3840,7 +3845,7 @@
       "Name": "Pack Rat",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -3848,7 +3853,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -3871,15 +3876,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1734,
+      "Progressed": 1735,
       "Completed": 74
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2023-12-05T21:07:08.7217073+00:00",
+  "LastChanged_Achievements": "2023-12-05T22:05:56.874468+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:27.3131913+00:00",
-  "LastUpdate_Ratings": "2023-12-05T21:02:50.3980443+00:00",
-  "LastUpdate_Achievements": "2023-12-05T21:07:08.7217305+00:00"
+  "LastUpdate_Ratings": "2023-12-05T22:02:43.9882781+00:00",
+  "LastUpdate_Achievements": "2023-12-05T22:05:56.8744922+00:00"
 }

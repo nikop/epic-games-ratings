@@ -4,8 +4,8 @@
   "ProductSlug": "ash-of-gods-the-way-58bd36",
   "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 474,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 473,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-04-27T11:00:00+00:00",
     "PcReleaseDate": "2023-04-27T11:00:00+00:00",
@@ -236,9 +236,9 @@
       "ID": "collect3",
       "SetID": "c64if4d",
       "Name": "Collector",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "collect4",
@@ -276,9 +276,9 @@
       "ID": "collect8",
       "SetID": "c64if4d",
       "Name": "Power of Inquisition",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "fights1",
@@ -316,9 +316,9 @@
       "ID": "fights5",
       "SetID": "c64if4d",
       "Name": "First among Frisians",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "fights6",
@@ -508,17 +508,17 @@
       "ID": "story17",
       "SetID": "c64if4d",
       "Name": "The End",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "story18",
       "SetID": "c64if4d",
       "Name": "Happily ever after",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "story19",
@@ -621,8 +621,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2023-12-05T21:08:54.2482004+00:00",
+  "LastChanged_Achievements": "2023-12-05T22:08:33.0350584+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:23.1889916+00:00",
-  "LastUpdate_Ratings": "2023-12-05T20:57:49.3402162+00:00",
-  "LastUpdate_Achievements": "2023-12-05T21:08:54.248227+00:00"
+  "LastUpdate_Ratings": "2023-12-05T21:57:33.0086074+00:00",
+  "LastUpdate_Achievements": "2023-12-05T22:08:33.0350861+00:00"
 }

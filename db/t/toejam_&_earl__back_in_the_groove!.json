@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58109,
+  "EOS_Progressed": 58110,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13616,6 +13616,11 @@
       "Time": "2023-12-05T21:04:53.0429671+00:00",
       "NumProgressed": 58109,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-05T22:04:15.5938696+00:00",
+      "NumProgressed": 58110,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -13699,7 +13704,7 @@
       "Name": "Flying Present Catcher",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2905
+      "UsersEstimate": 2906
     },
     {
       "ID": "FlyingPresentMaster",
@@ -13939,7 +13944,7 @@
       "Name": "Sunflower Master",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2905
+      "UsersEstimate": 2906
     },
     {
       "ID": "Teamwork",
@@ -14018,7 +14023,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58109,
+      "Progressed": 58110,
       "Completed": 6
     }
   ],
@@ -14026,8 +14031,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-12-05T21:04:53.0429666+00:00",
+  "LastChanged_Achievements": "2023-12-05T22:04:15.5938693+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:50.6046974+00:00",
-  "LastUpdate_Ratings": "2023-12-05T21:01:06.7478008+00:00",
-  "LastUpdate_Achievements": "2023-12-05T21:04:53.0430407+00:00"
+  "LastUpdate_Ratings": "2023-12-05T21:59:55.2439192+00:00",
+  "LastUpdate_Achievements": "2023-12-05T22:04:15.5939764+00:00"
 }
