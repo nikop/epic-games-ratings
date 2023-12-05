@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 24.13% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 24.10% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -70,7 +70,7 @@
 | 67 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 6.25% |
 | 69 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
 | 70 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.77% |
-| 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.76% |
+| 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.74% |
 | 72 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
 | 73 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 73 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
@@ -99,7 +99,7 @@
 | 97 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 98 | [Bunny Park](games/b/bunny_park.md) | 3.30% |
 | 99 | [The Complex](games/t/the_complex.md) | 3.19% |
-| 100 | [Destiny 2](games/d/destiny_2.md) | 3.16% |
+| 100 | [Destiny 2](games/d/destiny_2.md) | 3.17% |
 | 101 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.12% |
 | 101 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.12% |
 | 103 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.10% |
@@ -167,8 +167,8 @@
 | 165 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.05% |
 | 166 | [The Devil's Face](games/t/the_devil's_face.md) | 1.04% |
 | 166 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.04% |
-| 168 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.02% |
-| 169 | [Sable](games/s/sable.md) | 1.01% |
+| 168 | [Sable](games/s/sable.md) | 1.01% |
+| 168 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.01% |
 | 170 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.99% |
 | 171 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.97% |
 | 172 | [Trifox](games/t/trifox.md) | 0.96% |
