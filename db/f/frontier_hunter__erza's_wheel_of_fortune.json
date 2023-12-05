@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 549,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2069,9 +2069,9 @@
       "ID": "ACHIEVEMENT_6",
       "SetID": "7pimpda",
       "Name": "Flower Thief",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 225
+      "UsersEstimate": 231
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -2110,8 +2110,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-05T03:08:27.7202725+00:00",
+  "LastChanged_Achievements": "2023-12-05T04:08:45.4063236+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.7212859+00:00",
-  "LastUpdate_Ratings": "2023-12-05T03:02:48.3170277+00:00",
-  "LastUpdate_Achievements": "2023-12-05T03:08:27.7203061+00:00"
+  "LastUpdate_Ratings": "2023-12-05T04:02:58.2202204+00:00",
+  "LastUpdate_Achievements": "2023-12-05T04:08:45.4063694+00:00"
 }

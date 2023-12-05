@@ -6,7 +6,7 @@ Rating: 4.76 (Ranked 129)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 16.00% | ~48,632 |
-| First Class Student | 15.00% | ~45,592 |
+| First Class Student | 15.00% | ~45,593 |
 | Troll with the Punches | 14.00% | ~42,553 |
 | A Keen Sense of Spell | 13.00% | ~39,514 |
 | That's a Keeper | 13.00% | ~39,514 |
@@ -14,11 +14,11 @@ Rating: 4.76 (Ranked 129)
 | The Defender of Dragons | 12.00% | ~36,474 |
 | Loom for Improvement | 12.00% | ~36,474 |
 | A Talent for Spending | 12.00% | ~36,474 |
-| Grappling with a Graphorn | 11.00% | ~33,434 |
-| The One Who Mastered Memories | 11.00% | ~33,434 |
-| The Hero of Hogwarts | 11.00% | ~33,434 |
-| Challenge Accepted | 11.00% | ~33,434 |
-| Coasting Along | 11.00% | ~33,434 |
+| Grappling with a Graphorn | 11.00% | ~33,435 |
+| The One Who Mastered Memories | 11.00% | ~33,435 |
+| The Hero of Hogwarts | 11.00% | ~33,435 |
+| Challenge Accepted | 11.00% | ~33,435 |
+| Coasting Along | 11.00% | ~33,435 |
 | Followed the Butterflies | 10.00% | ~30,395 |
 | Rising From the Ashes | 10.00% | ~30,395 |
 | A Sallow Grave | 9.00% | ~27,356 |
@@ -37,9 +37,9 @@ Rating: 4.76 (Ranked 129)
 | Room with a View | 4.00% | ~12,158 |
 | The Intrepid Explorer | 4.00% | ~12,158 |
 | The Wise Owl | 4.00% | ~12,158 |
-| Put Down Roots | 3.00% | ~9,118 |
-| The Auror's Apprentice | 3.00% | ~9,118 |
-| Floo Around the World | 3.00% | ~9,118 |
+| Put Down Roots | 3.00% | ~9,119 |
+| The Auror's Apprentice | 3.00% | ~9,119 |
+| Floo Around the World | 3.00% | ~9,119 |
 | The Good Samaritan | 2.00% | ~6,079 |
 | Rise to the Challenges | 2.00% | ~6,079 |
 | Demiguise Dread | 2.00% | ~6,079 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 129)
 | The Nature of the Beast | 0.70% | ~2,128 |
 | Collector's Edition | 0.30% | ~912 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,950 (Ranked 54)  
+Progressed: 303,951 (Ranked 54)  
 Completed: 521 (0.17%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,15 +280,15 @@ Completed: 521 (0.17%) (Ranked 269)
 | 2023-12-02 | 303,789 | 520 |
 | 2023-12-03 | 303,892 | 521 |
 | 2023-12-04 | 303,943 | 521 |
-| 2023-12-05 | 303,950 | 521 |
+| 2023-12-05 | 303,951 | 521 |
 ## Awards
 Max (Character Customization): 24,947  (Ranked 17)  
-Sum: 49,923 (Ranked 30)  
+Sum: 49,946 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 24,947 |
-| This game has Great Boss Battles | 12,748 |
+| This game has Great Boss Battles | 12,771 |
 | This game is Great for Beginners | 1,376 |
 | This game has Amazing Storytelling | 1,332 |
 | This game has Diverse Characters | 1,330 |
@@ -558,4 +558,4 @@ Diff (max vs sum): -13
 | 2023-12-02 | 4.76 | 24,816 | 49,655 |
 | 2023-12-03 | 4.76 | 24,854 | 49,759 |
 | 2023-12-04 | 4.76 | 24,909 | 49,885 |
-| 2023-12-05 | 4.76 | 24,947 | 49,923 |
+| 2023-12-05 | 4.76 | 24,947 | 49,946 |

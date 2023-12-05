@@ -13,8 +13,8 @@ Number of Ratings: 285  (23.09.2022)
 | That'll Leave a Mark | 24.00% | ~1,283 |
 | Mushroom Madness! | 22.00% | ~1,176 |
 | First Strike | 19.00% | ~1,016 |
-| Spending Spree | 18.00% | ~962 |
-| Horder Better Faster Stronger | 17.00% | ~909 |
+| Spending Spree | 19.00% | ~1,016 |
+| Horder Better Faster Stronger | 18.00% | ~962 |
 | Ten Steps from the Grave | 15.00% | ~802 |
 | Everything Must Go! | 14.00% | ~748 |
 | Next Time on MythForce... | 14.00% | ~748 |

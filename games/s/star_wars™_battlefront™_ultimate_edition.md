@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~1,425 |
+| New Recruit | 90.00% | ~1,426 |
 | Off to a good start | 67.00% | ~1,061 |
-| Do... or do not. There is no try | 51.00% | ~807 |
+| Do... or do not. There is no try | 51.00% | ~808 |
 | A good blaster at your side | 30.00% | ~475 |
 | I suggest a new strategy | 19.00% | ~301 |
 | Scrap collector | 18.00% | ~285 |
@@ -17,8 +17,8 @@
 | Together we can rule the galaxy | 14.00% | ~222 |
 | Shoot first | 14.00% | ~222 |
 | Tell Jabba that I've got his money | 10.00% | ~158 |
-| Best star-pilot in the galaxy | 9.00% | ~142 |
-| Survivor | 9.00% | ~142 |
+| Best star-pilot in the galaxy | 9.00% | ~143 |
+| Survivor | 9.00% | ~143 |
 | Never tell me the odds! | 8.00% | ~127 |
 | A cunning warrior | 8.00% | ~127 |
 | What's the cargo? | 7.00% | ~111 |
@@ -33,10 +33,10 @@
 | Not bad for a little furball | 4.00% | ~63 |
 | Patience you must have | 4.00% | ~63 |
 | Don't underestimate the Force | 4.00% | ~63 |
-| I've been waiting for you | 3.00% | ~47 |
-| When 900 years old you reach... | 3.00% | ~47 |
-| Determined | 3.00% | ~47 |
-| Your journey has only started | 3.00% | ~47 |
+| I've been waiting for you | 3.00% | ~48 |
+| When 900 years old you reach... | 3.00% | ~48 |
+| Determined | 3.00% | ~48 |
+| Your journey has only started | 3.00% | ~48 |
 | The Force is strong with this one | 2.00% | ~32 |
 | Precision shot | 2.00% | ~32 |
 | This is a new day, a new beginning | 2.00% | ~32 |
@@ -57,7 +57,7 @@
 | Stop that Droid | 0.90% | ~14 |
 | No such thing as luck | 0.80% | ~13 |
 | Do we take prisoners? | 0.80% | ~13 |
-| I’ll take that bet | 0.60% | ~9 |
+| I’ll take that bet | 0.60% | ~10 |
 | Greed can be a very powerful ally | 0.50% | ~8 |
 | Stay on target | 0.40% | ~6 |
 | That got him! | 0.30% | ~5 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,583 (Ranked 240)  
+Progressed: 1,584 (Ranked 240)  
 Completed: 1 (0.06%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 1 (0.06%) (Ranked 312)
 | 2023-12-02 | 1,519 | 1 |
 | 2023-12-03 | 1,566 | 1 |
 | 2023-12-04 | 1,580 | 1 |
-| 2023-12-05 | 1,583 | 1 |
+| 2023-12-05 | 1,584 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -17,12 +17,14 @@
 | The artist | 11.00% | ~5 |
 | The seer | 11.00% | ~5 |
 | You have two wishes left | 11.00% | ~5 |
+| You had one wish left | 9.00% | ~4 |
 | Pulp! Out of this World | 9.00% | ~4 |
 | Pulp! Adventures into the Unknown | 9.00% | ~4 |
 | Kirlian's best disciple | 9.00% | ~4 |
 | Diagnosis: fear | 9.00% | ~4 |
 | Ambition is... blind | 9.00% | ~4 |
-| You had one wish left | 7.00% | ~3 |
+| You've awakened the beast | 7.00% | ~3 |
+| Hate is... addictive | 7.00% | ~3 |
 | Bread and bocaua | 7.00% | ~3 |
 | Fanatacism is... poisonous | 7.00% | ~3 |
 | Et in arcadia ego | 7.00% | ~3 |
@@ -30,8 +32,6 @@
 | The adventurer | 7.00% | ~3 |
 | ECO mode | 7.00% | ~3 |
 | Welcome to Hellville | 7.00% | ~3 |
-| You've awakened the beast | 4.00% | ~2 |
-| Hate is... addictive | 4.00% | ~2 |
 | Blood Red Island | 4.00% | ~2 |
 | The scholar | 4.00% | ~2 |
 | Blessed antennas | 2.00% | ~1 |
@@ -45,11 +45,11 @@
 | The barbarian invasions | 2.00% | ~1 |
 | America had no Faith | 2.00% | ~1 |
 | Vaccine fans | 2.00% | ~1 |
+| Troy is burning! | 2.00% | ~1 |
 | Pulp! The Perfect Crime | 0.00% | ~0 |
 | Pulp! Mister Mystery | 0.00% | ~0 |
 | Pulp! Skeleton Hand | 0.00% | ~0 |
 | Pulp! The Vault of Horror | 0.00% | ~0 |
-| Troy is burning! | 0.00% | ~0 |
 | A new Hindenburg | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 46 (Ranked 507)  

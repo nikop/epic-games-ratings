@@ -10,8 +10,8 @@ Number of Ratings: 524  (23.09.2022)
 | Let There Be Light | 49.00% | ~47,750 |
 | Float Like a Butterfly | 47.00% | ~45,801 |
 | Nordic Walking | 39.00% | ~38,005 |
-| Bright Falls' Finest | 38.00% | ~37,030 |
-| Under a Thin Layer of Skin | 34.00% | ~33,132 |
+| Bright Falls' Finest | 38.00% | ~37,031 |
+| Under a Thin Layer of Skin | 34.00% | ~33,133 |
 | Park Ranger | 29.00% | ~28,260 |
 | Paging Mr. Wake | 29.00% | ~28,260 |
 | Back! Back, I Say! | 27.00% | ~26,311 |
@@ -57,8 +57,8 @@ Number of Ratings: 524  (23.09.2022)
 | Go Gentle Into That Good Light | 1.00% | ~609 |
 | Words Will Never Harm You | 0.70% | ~426 |
 | Meet the Deadline | 0.60% | ~585 |
-| Fast and Furious | 0.60% | ~365 |
-| Cardboard Companions | 0.60% | ~365 |
+| Fast and Furious | 0.60% | ~366 |
+| Cardboard Companions | 0.60% | ~366 |
 | Alan, Wake Up | 0.50% | ~487 |
 | Picking Up After Yourself | 0.50% | ~487 |
 | License Revoked | 0.50% | ~305 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | No Punctuation | 0.20% | ~122 |
 | Licensed Properties | 0.20% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,448 (Ranked 90)  
+Progressed: 97,449 (Ranked 90)  
 Completed: 109 (0.11%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 109 (0.11%) (Ranked 284)
 | 2023-12-02 | 97,127 | 106 |
 | 2023-12-03 | 97,314 | 107 |
 | 2023-12-04 | 97,426 | 108 |
-| 2023-12-05 | 97,448 | 109 |
+| 2023-12-05 | 97,449 | 109 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

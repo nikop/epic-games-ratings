@@ -6,24 +6,24 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~10,706 |
-| It wakes | 1.00% | ~10,706 |
-| Not half bad | 1.00% | ~10,706 |
-| Skillful | 1.00% | ~10,706 |
-| Make Some Noise | 0.90% | ~9,635 |
+| Zealous | 1.00% | ~10,707 |
+| It wakes | 1.00% | ~10,707 |
+| Not half bad | 1.00% | ~10,707 |
+| Skillful | 1.00% | ~10,707 |
+| Make Some Noise | 0.90% | ~9,636 |
 | Apt Survivor | 0.80% | ~8,565 |
 | Survival Treasures | 0.80% | ~8,565 |
 | I | 0.80% | ~8,565 |
-| No one left behind | 0.70% | ~7,494 |
-| Handyman | 0.70% | ~7,494 |
-| Sorted | 0.70% | ~7,494 |
-| Resurgence | 0.70% | ~7,494 |
-| The Grand Sacrifice | 0.60% | ~6,423 |
-| Medic | 0.60% | ~6,423 |
-| Bloody Millionaire | 0.60% | ~6,423 |
-| Healthy Obsession | 0.60% | ~6,423 |
-| Preemptive Strike | 0.60% | ~6,423 |
-| Humanitarian | 0.60% | ~6,423 |
+| No one left behind | 0.70% | ~7,495 |
+| Handyman | 0.70% | ~7,495 |
+| Sorted | 0.70% | ~7,495 |
+| Resurgence | 0.70% | ~7,495 |
+| The Grand Sacrifice | 0.60% | ~6,424 |
+| Medic | 0.60% | ~6,424 |
+| Bloody Millionaire | 0.60% | ~6,424 |
+| Healthy Obsession | 0.60% | ~6,424 |
+| Preemptive Strike | 0.60% | ~6,424 |
+| Humanitarian | 0.60% | ~6,424 |
 | Agonizing Escape | 0.50% | ~5,353 |
 | Backdoor Escape | 0.50% | ~5,353 |
 | I've got your back | 0.50% | ~5,353 |
@@ -35,10 +35,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | Engineer | 0.50% | ~5,353 |
 | Wounded Healer | 0.50% | ~5,353 |
 | Close Shave | 0.50% | ~5,353 |
-| Vulture | 0.40% | ~4,282 |
-| III | 0.40% | ~4,282 |
-| With Scars to Show | 0.40% | ~4,282 |
-| Lifting The Fog | 0.40% | ~4,282 |
+| Vulture | 0.40% | ~4,283 |
+| III | 0.40% | ~4,283 |
+| With Scars to Show | 0.40% | ~4,283 |
+| Lifting The Fog | 0.40% | ~4,283 |
 | Blood on your hands | 0.30% | ~3,212 |
 | Escape Artist | 0.30% | ~3,212 |
 | Made it out alive! | 0.30% | ~3,212 |
@@ -47,6 +47,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | III-50 | 0.30% | ~3,212 |
 | All Aboard | 0.30% | ~3,212 |
 | Item of Obsession | 0.30% | ~3,212 |
+| House of Pain | 0.30% | ~3,212 |
 | Holiday Get-Together | 0.30% | ~3,212 |
 | Near-Death Experience | 0.30% | ~3,212 |
 | Cherish your Life | 0.30% | ~3,212 |
@@ -66,7 +67,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Hemophobia | 0.20% | ~2,141 |
 | Shock Therapy | 0.20% | ~2,141 |
 | Leapfrog | 0.20% | ~2,141 |
-| House of Pain | 0.20% | ~2,141 |
 | Cottage Owner | 0.20% | ~2,141 |
 | Serial Killer | 0.20% | ~2,141 |
 | Escaping the Nightmare | 0.20% | ~2,141 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Joke’s On You | 0.10% | ~1,071 |
 | Adept Good Guy | 0.10% | ~1,071 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,070,576 (Ranked 14)  
+Progressed: 1,070,672 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -468,16 +468,16 @@ Completed: 61 (0.01%) (Ranked 346)
 | 2023-12-02 | 1,062,340 | 61 |
 | 2023-12-03 | 1,067,390 | 61 |
 | 2023-12-04 | 1,070,133 | 61 |
-| 2023-12-05 | 1,070,576 | 61 |
+| 2023-12-05 | 1,070,672 | 61 |
 ## Awards
 Max (Diverse Characters): 37,289  (Ranked 15)  
-Sum: 283,106 (Ranked 12)  
+Sum: 283,155 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 37,289 |
 | This game is Highly Recommended | 32,392 |
-| This game has Amazing Characters | 31,874 |
+| This game has Amazing Characters | 31,923 |
 | This game has Competitive Players | 31,755 |
 | This game is Extremely Fun | 31,402 |
 | This game has Challenging Combat | 31,271 |
@@ -804,4 +804,4 @@ Diff (max vs sum): 3
 | 2023-12-02 | 4.51 | - | 37,095 | 281,803 |
 | 2023-12-03 | 4.51 | - | 37,218 | 282,346 |
 | 2023-12-04 | 4.51 | - | 37,289 | 282,989 |
-| 2023-12-05 | 4.51 | - | 37,289 | 283,106 |
+| 2023-12-05 | 4.51 | - | 37,289 | 283,155 |

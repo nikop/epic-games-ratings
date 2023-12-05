@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Camp | 59.00% | ~303 |
-| The Teleprobe | 46.00% | ~236 |
+| The Teleprobe | 47.00% | ~241 |
 | The City | 42.00% | ~215 |
 | The field base | 38.00% | ~195 |
 | Survivors | 31.00% | ~159 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -53,9 +53,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1183,
+  "EOS_Progressed": 1184,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2228,6 +2228,11 @@
       "Time": "2023-12-03T20:06:51.1999261+00:00",
       "NumProgressed": 1183,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-05T04:07:26.9015814+00:00",
+      "NumProgressed": 1184,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2399,7 +2404,7 @@
       "Name": "The Greedy Ones",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "EXILED_PRIEST_FRIEND",
@@ -2598,7 +2603,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1183,
+      "Progressed": 1184,
       "Completed": 0
     }
   ],
@@ -2606,8 +2611,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-11-18T18:58:25.1922744+00:00",
-  "LastChanged_Achievements": "2023-12-05T03:07:28.5342652+00:00",
+  "LastChanged_Achievements": "2023-12-05T04:07:26.9015809+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:25.2569096+00:00",
-  "LastUpdate_Ratings": "2023-12-05T03:02:51.3630213+00:00",
-  "LastUpdate_Achievements": "2023-12-05T03:07:28.5343004+00:00"
+  "LastUpdate_Ratings": "2023-12-05T04:03:01.0432799+00:00",
+  "LastUpdate_Achievements": "2023-12-05T04:07:26.9016139+00:00"
 }

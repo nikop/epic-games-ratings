@@ -4,7 +4,7 @@
   "ProductSlug": "forest-grove-6b05cf",
   "Ranking_EOS_Progress": 539,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-28T13:00:00+00:00",
@@ -137,9 +137,9 @@
       "ID": "1",
       "SetID": "36pe9e2",
       "Name": "Entered the Nanodeck",
-      "Percentage": 55,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "10",
@@ -193,9 +193,9 @@
       "ID": "5",
       "SetID": "36pe9e2",
       "Name": "Set the Time",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "6",
@@ -239,8 +239,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-10T13:09:13.1022391+00:00",
-  "LastChanged_Achievements": "2023-12-05T03:05:15.9968323+00:00",
+  "LastChanged_Achievements": "2023-12-05T04:05:20.9747505+00:00",
   "LastUpdate_AppInfo": "2023-11-28T18:57:03.2699178+00:00",
-  "LastUpdate_Ratings": "2023-12-05T03:02:42.3229905+00:00",
-  "LastUpdate_Achievements": "2023-12-05T03:05:15.996841+00:00"
+  "LastUpdate_Ratings": "2023-12-05T04:02:52.6467862+00:00",
+  "LastUpdate_Achievements": "2023-12-05T04:05:20.9747597+00:00"
 }

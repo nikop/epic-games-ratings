@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 37.00% | ~322 |
-| Welcome to the Tower | 35.00% | ~305 |
-| The great escape | 31.00% | ~270 |
-| The Preacher's fate | 30.00% | ~261 |
-| A new dawn | 26.00% | ~226 |
-| Scholar | 24.00% | ~209 |
-| A good beginning | 23.00% | ~200 |
-| True G3M4R | 23.00% | ~200 |
-| The darkness | 23.00% | ~200 |
+| That's the spirit | 37.00% | ~323 |
+| Welcome to the Tower | 35.00% | ~306 |
+| The great escape | 31.00% | ~271 |
+| The Preacher's fate | 29.00% | ~253 |
+| A new dawn | 26.00% | ~227 |
+| Scholar | 24.00% | ~210 |
+| A good beginning | 23.00% | ~201 |
+| True G3M4R | 23.00% | ~201 |
+| The darkness | 23.00% | ~201 |
 | One last step | 21.00% | ~183 |
-| I did it | 20.00% | ~174 |
-| Cable guy | 20.00% | ~174 |
-| Half the way | 20.00% | ~174 |
-| In this together | 19.00% | ~165 |
-| Peace walker | 19.00% | ~165 |
-| Champollion | 19.00% | ~165 |
+| I did it | 20.00% | ~175 |
+| Cable guy | 20.00% | ~175 |
+| Half the way | 20.00% | ~175 |
+| In this together | 19.00% | ~166 |
+| Peace walker | 19.00% | ~166 |
+| Champollion | 19.00% | ~166 |
 | Open door | 17.00% | ~148 |
-| Feels like springtime | 16.00% | ~139 |
-| Alchemists Express | 16.00% | ~139 |
+| Feels like springtime | 16.00% | ~140 |
+| Alchemists Express | 16.00% | ~140 |
 | Free at last | 14.00% | ~122 |
 | Rascal | 14.00% | ~122 |
 | A Link to the Past | 13.00% | ~113 |
@@ -30,8 +30,8 @@
 | For its own good | 10.00% | ~87 |
 | Fashion victim | 5.00% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 871 (Ranked 273)  
-Completed: 50 (5.74%) (Ranked 71)  
+Progressed: 873 (Ranked 272)  
+Completed: 50 (5.73%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -166,4 +166,4 @@ Completed: 50 (5.74%) (Ranked 71)
 | 2023-12-02 | 846 | 49 |
 | 2023-12-03 | 861 | 49 |
 | 2023-12-04 | 868 | 50 |
-| 2023-12-05 | 871 | 50 |
+| 2023-12-05 | 873 | 50 |

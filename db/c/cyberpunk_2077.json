@@ -16160,9 +16160,9 @@
       "Count": 14247
     }
   ],
-  "EOS_Progressed": 970095,
+  "EOS_Progressed": 970112,
   "EOS_Completed": 2843,
-  "EOS_NewPlayers": 13886,
+  "EOS_NewPlayers": 13735,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -42150,6 +42150,11 @@
       "Time": "2023-12-05T03:07:10.6072693+00:00",
       "NumProgressed": 970095,
       "NumCompleted": 2843
+    },
+    {
+      "Time": "2023-12-05T04:07:09.967383+00:00",
+      "NumProgressed": 970112,
+      "NumCompleted": 2843
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -42170,7 +42175,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4850
+      "UsersEstimate": 4851
     },
     {
       "ID": "BushidoAndChill",
@@ -42194,7 +42199,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48505
+      "UsersEstimate": 48506
     },
     {
       "ID": "FollowingTheRiver",
@@ -42234,7 +42239,7 @@
       "Name": "Gun Fu",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 67907
+      "UsersEstimate": 67908
     },
     {
       "ID": "Gunslinger",
@@ -42378,7 +42383,7 @@
       "Name": "The Fool",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58206
+      "UsersEstimate": 58207
     },
     {
       "ID": "TheHermit",
@@ -42410,7 +42415,7 @@
       "Name": "The Star",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4850
+      "UsersEstimate": 4851
     },
     {
       "ID": "TheSun",
@@ -42418,7 +42423,7 @@
       "Name": "The Sun",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4850
+      "UsersEstimate": 4851
     },
     {
       "ID": "TheWheelOfFortune",
@@ -42490,7 +42495,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 116411
+      "UsersEstimate": 116413
     },
     {
       "ID": "YipMan",
@@ -42562,7 +42567,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "Kingofcups",
@@ -42602,7 +42607,7 @@
       "Name": "Relic Ruler",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "UltimateSurvivor",
@@ -42618,7 +42623,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "HydraIsDead",
@@ -42634,7 +42639,7 @@
       "Name": "Arachnophobia",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "KingOfTheCups",
@@ -42697,21 +42702,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 970095,
+      "Progressed": 970112,
       "Completed": 2843
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 98718,
+      "Progressed": 98735,
       "Completed": 10300
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-05T00:02:49.0051151+00:00",
-  "LastChanged_Achievements": "2023-12-05T03:07:10.6072689+00:00",
+  "LastChanged_Achievements": "2023-12-05T04:07:09.9673827+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:33.8863582+00:00",
-  "LastUpdate_Ratings": "2023-12-05T03:02:57.8004599+00:00",
-  "LastUpdate_Achievements": "2023-12-05T03:07:10.6074346+00:00"
+  "LastUpdate_Ratings": "2023-12-05T04:03:07.0675012+00:00",
+  "LastUpdate_Achievements": "2023-12-05T04:07:09.967513+00:00"
 }

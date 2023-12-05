@@ -21,6 +21,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Scarlet Orchard | 0.30% | ~53 |
 | Taking Action | 0.30% | ~53 |
 | No Deaths | 0.30% | ~53 |
+| Fox Utopia | 0.30% | ~53 |
 | Ruined Armory | 0.20% | ~35 |
 | Ancient Battleground | 0.20% | ~35 |
 | Sparkdew Crystals | 0.20% | ~35 |
@@ -32,7 +33,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Corrosive Torrent | 0.20% | ~35 |
 | Coral Forest | 0.20% | ~35 |
 | Trade Baron | 0.20% | ~35 |
-| Fox Utopia | 0.20% | ~35 |
 | Serving Ale | 0.10% | ~18 |
 | Feeding The People | 0.10% | ~18 |
 | Higher Needs | 0.10% | ~18 |

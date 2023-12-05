@@ -245,9 +245,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44202,
+  "EOS_Progressed": 44203,
   "EOS_Completed": 245,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -18580,6 +18580,11 @@
       "Time": "2023-12-05T02:01:29.0286438+00:00",
       "NumProgressed": 44202,
       "NumCompleted": 245
+    },
+    {
+      "Time": "2023-12-05T04:06:17.7371304+00:00",
+      "NumProgressed": 44203,
+      "NumCompleted": 245
     }
   ],
   "TotalAchievements": 44,
@@ -18591,7 +18596,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25195
+      "UsersEstimate": 25196
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -18607,7 +18612,7 @@
       "Name": "Embers",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 9724
+      "UsersEstimate": 9725
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -18615,7 +18620,7 @@
       "Name": "Burning",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7514
+      "UsersEstimate": 7515
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -18767,7 +18772,7 @@
       "Name": "Soul Reaver",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 10166
+      "UsersEstimate": 10167
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -18791,7 +18796,7 @@
       "Name": "Clinging to Life",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 7956
+      "UsersEstimate": 7957
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -18799,7 +18804,7 @@
       "Name": "Wall Lizard",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 8840
+      "UsersEstimate": 8841
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -18807,7 +18812,7 @@
       "Name": "Apex Predator",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 10608
+      "UsersEstimate": 10609
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -18815,7 +18820,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 24311
+      "UsersEstimate": 24312
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -18831,7 +18836,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27847
+      "UsersEstimate": 27848
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -18855,7 +18860,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26521
+      "UsersEstimate": 26522
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -18863,7 +18868,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29615
+      "UsersEstimate": 29616
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -18927,7 +18932,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41108
+      "UsersEstimate": 41109
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -18935,14 +18940,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 22985
+      "UsersEstimate": 22986
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44202,
+      "Progressed": 44203,
       "Completed": 245
     }
   ],
@@ -18950,8 +18955,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-03T18:02:47.0707275+00:00",
-  "LastChanged_Achievements": "2023-12-05T03:06:15.2974782+00:00",
+  "LastChanged_Achievements": "2023-12-05T04:06:17.7371301+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:13.8521051+00:00",
-  "LastUpdate_Ratings": "2023-12-05T03:03:05.3570513+00:00",
-  "LastUpdate_Achievements": "2023-12-05T03:06:15.2976599+00:00"
+  "LastUpdate_Ratings": "2023-12-05T04:03:14.1579241+00:00",
+  "LastUpdate_Achievements": "2023-12-05T04:06:17.7372437+00:00"
 }

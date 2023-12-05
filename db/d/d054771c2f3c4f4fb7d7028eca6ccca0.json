@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1076,
+  "EOS_Progressed": 1079,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1075,
+  "EOS_NewPlayers": 1078,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -549,6 +549,11 @@
       "Time": "2023-12-05T03:07:07.8652921+00:00",
       "NumProgressed": 1076,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-05T04:07:07.296567+00:00",
+      "NumProgressed": 1079,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -623,9 +628,9 @@
       "ID": "ACHIEVEMENT_16",
       "SetID": "c167foo",
       "Name": "Terrible Journey",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -743,9 +748,9 @@
       "ID": "ACHIEVEMENT_32",
       "SetID": "c167foo",
       "Name": "Personal Sanctuary",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -936,14 +941,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 1076,
+      "Progressed": 1079,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-05T03:07:07.8652916+00:00",
+  "LastChanged_Achievements": "2023-12-05T04:07:07.2965667+00:00",
   "LastUpdate_AppInfo": "2023-11-28T10:57:06.6543167+00:00",
-  "LastUpdate_Ratings": "2023-12-05T03:02:28.3214089+00:00",
-  "LastUpdate_Achievements": "2023-12-05T03:07:07.8653326+00:00"
+  "LastUpdate_Ratings": "2023-12-05T04:02:39.4790211+00:00",
+  "LastUpdate_Achievements": "2023-12-05T04:07:07.2965959+00:00"
 }

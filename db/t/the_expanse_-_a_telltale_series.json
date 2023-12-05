@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15904,
+  "EOS_Progressed": 15905,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -13098,6 +13098,11 @@
       "Time": "2023-12-05T03:06:42.0272802+00:00",
       "NumProgressed": 15904,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-12-05T04:06:43.046583+00:00",
+      "NumProgressed": 15905,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13142,7 +13147,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1908
+      "UsersEstimate": 1909
     },
     {
       "ID": "14",
@@ -13358,7 +13363,7 @@
       "Name": "Safe Cracker",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "33",
@@ -13382,29 +13387,29 @@
       "Name": "Madame Undersecretary",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15904,
+      "Progressed": 15905,
       "Completed": 40
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1858,
-      "Completed": 817
+      "Progressed": 1859,
+      "Completed": 818
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-03T18:02:39.8331355+00:00",
-  "LastChanged_Achievements": "2023-12-05T03:06:42.0272798+00:00",
+  "LastChanged_Achievements": "2023-12-05T04:06:43.0465827+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-05T03:02:54.0099701+00:00",
-  "LastUpdate_Achievements": "2023-12-05T03:06:42.0273677+00:00"
+  "LastUpdate_Ratings": "2023-12-05T04:03:03.5074074+00:00",
+  "LastUpdate_Achievements": "2023-12-05T04:06:43.0466671+00:00"
 }
