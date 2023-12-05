@@ -195,7 +195,7 @@
   ],
   "EOS_Progressed": 10702,
   "EOS_Completed": 192,
-  "EOS_NewPlayers": 400,
+  "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.79,
   "EosHistory": [
@@ -5626,9 +5626,9 @@
       "ID": "NEW_ACHIEVEMENT_1_19",
       "SetID": "7opfcp",
       "Name": "A Slap In The Face!",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 2676
+      "UsersEstimate": 2783
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -5674,9 +5674,9 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "7opfcp",
       "Name": "Love Actually",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 5137
+      "UsersEstimate": 5244
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -5883,8 +5883,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-12-01T14:59:07.0284768+00:00",
-  "LastChanged_Achievements": "2023-12-05T15:09:05.2876664+00:00",
+  "LastChanged_Achievements": "2023-12-05T16:08:28.6762082+00:00",
   "LastUpdate_AppInfo": "2023-12-02T02:15:26.2086692+00:00",
-  "LastUpdate_Ratings": "2023-12-05T14:57:33.2996351+00:00",
-  "LastUpdate_Achievements": "2023-12-05T15:09:05.2877366+00:00"
+  "LastUpdate_Ratings": "2023-12-05T15:57:18.4222007+00:00",
+  "LastUpdate_Achievements": "2023-12-05T16:08:28.6762725+00:00"
 }

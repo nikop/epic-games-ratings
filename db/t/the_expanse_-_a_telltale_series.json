@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15909,
+  "EOS_Progressed": 15910,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -13118,6 +13118,11 @@
       "Time": "2023-12-05T15:07:06.7342838+00:00",
       "NumProgressed": 15909,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-12-05T16:05:33.1362755+00:00",
+      "NumProgressed": 15910,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13178,7 +13183,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "16",
@@ -13186,7 +13191,7 @@
       "Name": "Drug Gifter",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "17",
@@ -13274,7 +13279,7 @@
       "Name": "Call it Even",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "27",
@@ -13409,13 +13414,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15909,
+      "Progressed": 15910,
       "Completed": 40
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1863,
+      "Progressed": 1864,
       "Completed": 822
     }
   ],
@@ -13423,8 +13428,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-03T18:02:39.8331355+00:00",
-  "LastChanged_Achievements": "2023-12-05T15:07:06.7342834+00:00",
+  "LastChanged_Achievements": "2023-12-05T16:05:33.1362751+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-05T15:03:02.7195503+00:00",
-  "LastUpdate_Achievements": "2023-12-05T15:07:06.7343587+00:00"
+  "LastUpdate_Ratings": "2023-12-05T16:02:37.2001877+00:00",
+  "LastUpdate_Achievements": "2023-12-05T16:05:33.1363567+00:00"
 }

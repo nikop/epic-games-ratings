@@ -16,7 +16,7 @@
 | Never Let Down | 24.00% | ~132 |
 | A Barking Fox Doesn't Bite | 22.00% | ~121 |
 | Chicken Dinner | 21.00% | ~116 |
-| Peaceful Instinct | 18.00% | ~99 |
+| Peaceful Instinct | 19.00% | ~104 |
 | Maternity | 17.00% | ~94 |
 | Barking in The Rain | 15.00% | ~82 |
 | Family Reunion | 14.00% | ~77 |

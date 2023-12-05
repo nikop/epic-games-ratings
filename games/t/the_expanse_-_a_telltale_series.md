@@ -17,9 +17,9 @@ Rating: 4.53 (Ranked 542)
 | Martian Music | 6.00% | ~955 |
 | Safe Cracker | 6.00% | ~112 |
 | Madame Undersecretary | 6.00% | ~112 |
-| Stogie for Fogey | 5.00% | ~795 |
-| Drug Gifter | 5.00% | ~795 |
-| Call it Even | 5.00% | ~795 |
+| Stogie for Fogey | 5.00% | ~796 |
+| Drug Gifter | 5.00% | ~796 |
+| Call it Even | 5.00% | ~796 |
 | Keep Arjun in Check | 5.00% | ~93 |
 | Data Archivist | 4.00% | ~636 |
 | Heal Thy Medic | 4.00% | ~636 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 542)
 | Scavenger Star | 0.20% | ~32 |
 | Data Collector | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,909 (Ranked 151)  
+Progressed: 15,910 (Ranked 151)  
 Completed: 40 (0.25%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 40 (0.25%) (Ranked 250)
 | 2023-12-02 | 15,842 | 39 |
 | 2023-12-03 | 15,879 | 40 |
 | 2023-12-04 | 15,899 | 40 |
-| 2023-12-05 | 15,909 | 40 |
+| 2023-12-05 | 15,910 | 40 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

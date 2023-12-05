@@ -4,11 +4,11 @@
   "ProductSlug": "witchfire-db273e",
   "Ranking_Rating": 369,
   "Ranking_Popularity": 443,
-  "Ranking_PopularitySum": 387,
+  "Ranking_PopularitySum": 386,
   "Ranking_EOS_Progress": 780,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 476,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-09-20T14:00:00+00:00",
     "PcReleaseDate": "2023-09-20T14:00:00+00:00",
@@ -899,10 +899,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 243,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2023-12-05T15:59:55.8908858+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 245,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 243,
+  "NumberOfAwards": 245,
   "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -922,7 +928,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 38
+      "Count": 40
     },
     {
       "Text": "This game is Extremely Fun",
@@ -979,8 +985,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-20T14:59:38.0794771+00:00",
   "FirstSeenRating": "2023-09-21T14:59:00.914233+00:00",
-  "LastChanged": "2023-12-05T15:01:29.449713+00:00",
+  "LastChanged": "2023-12-05T15:59:55.8908857+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:19.2974639+00:00",
-  "LastUpdate_Ratings": "2023-12-05T15:01:29.4497134+00:00",
-  "LastUpdate_Achievements": "2023-12-05T15:08:57.487587+00:00"
+  "LastUpdate_Ratings": "2023-12-05T15:59:55.8908862+00:00",
+  "LastUpdate_Achievements": "2023-12-05T16:08:22.8351002+00:00"
 }

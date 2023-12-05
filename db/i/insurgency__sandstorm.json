@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 32,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -4240,9 +4240,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 497355,
+  "EOS_Progressed": 497360,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3548,
+  "EOS_NewPlayers": 3516,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30450,6 +30450,11 @@
       "Time": "2023-12-05T15:06:59.2505628+00:00",
       "NumProgressed": 497355,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-05T16:05:27.7059401+00:00",
+      "NumProgressed": 497360,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -30685,7 +30690,7 @@
       "Name": "Special Delivery",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 3481
+      "UsersEstimate": 3482
     },
     {
       "ID": "ACH_STYLING",
@@ -30740,15 +30745,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 497355,
+      "Progressed": 497360,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-12-05T11:58:37.3956023+00:00",
-  "LastChanged_Achievements": "2023-12-05T15:06:59.2505624+00:00",
+  "LastChanged_Achievements": "2023-12-05T16:05:27.7059398+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:50.9367232+00:00",
-  "LastUpdate_Ratings": "2023-12-05T14:59:04.4710055+00:00",
-  "LastUpdate_Achievements": "2023-12-05T15:06:59.2507179+00:00"
+  "LastUpdate_Ratings": "2023-12-05T15:58:20.1059974+00:00",
+  "LastUpdate_Achievements": "2023-12-05T16:05:27.7060649+00:00"
 }

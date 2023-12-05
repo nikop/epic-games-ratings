@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -495,7 +495,7 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 253903,
+  "EOS_Progressed": 253905,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 612,
   "EOS_NewCompleters": 0,
@@ -26120,6 +26120,11 @@
       "Time": "2023-12-05T15:05:14.5207123+00:00",
       "NumProgressed": 253903,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-05T16:04:11.3992896+00:00",
+      "NumProgressed": 253905,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -26171,7 +26176,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 30468
+      "UsersEstimate": 30469
     },
     {
       "ID": "ACH_ENJOY",
@@ -26195,7 +26200,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 33007
+      "UsersEstimate": 33008
     },
     {
       "ID": "ACH_HATTRICK",
@@ -26546,7 +26551,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 253903,
+      "Progressed": 253905,
       "Completed": 7
     }
   ],
@@ -26554,8 +26559,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-30T10:59:11.8312964+00:00",
-  "LastChanged_Achievements": "2023-12-05T15:05:14.5207119+00:00",
+  "LastChanged_Achievements": "2023-12-05T16:04:11.3992893+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:30.506273+00:00",
-  "LastUpdate_Ratings": "2023-12-05T14:58:00.3187632+00:00",
-  "LastUpdate_Achievements": "2023-12-05T15:05:14.5208385+00:00"
+  "LastUpdate_Ratings": "2023-12-05T15:57:37.1253578+00:00",
+  "LastUpdate_Achievements": "2023-12-05T16:04:11.3994597+00:00"
 }

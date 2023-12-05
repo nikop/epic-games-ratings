@@ -26,7 +26,7 @@ Rating: 4.43 (Ranked 696)
 | Access granted | 35.00% | ~819 |
 | Bull and bear | 34.00% | ~796 |
 | Stoker | 33.00% | ~772 |
-| Full Steam ahead | 32.00% | ~749 |
+| Full Steam ahead | 33.00% | ~772 |
 | All mine | 31.00% | ~725 |
 | Financial Shark | 31.00% | ~725 |
 | Socializer | 31.00% | ~725 |

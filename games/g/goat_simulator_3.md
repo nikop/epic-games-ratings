@@ -5,13 +5,13 @@ Rating: 4.84 (Ranked 52)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~230,320 |
-| Private Club | 74.00% | ~187,293 |
-| Rogue Guild | 65.00% | ~164,514 |
-| I Watched the Intro | 57.00% | ~144,266 |
-| Covert Consortium | 55.00% | ~139,204 |
-| Goat Queen | 53.00% | ~134,142 |
-| Reach the Stratosphere | 51.00% | ~129,080 |
+| Forgotten Sorority | 91.00% | ~230,322 |
+| Private Club | 74.00% | ~187,295 |
+| Rogue Guild | 65.00% | ~164,516 |
+| I Watched the Intro | 57.00% | ~144,268 |
+| Covert Consortium | 55.00% | ~139,206 |
+| Goat Queen | 53.00% | ~134,144 |
+| Reach the Stratosphere | 51.00% | ~129,082 |
 | Synchronization Complete | 47.00% | ~118,957 |
 | Secret Society | 45.00% | ~113,895 |
 | Shadow Syndicate | 38.00% | ~96,178 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 52)
 | Move! That! Bus! | 0.60% | ~1,519 |
 | G.O.A.T | 0.40% | ~1,012 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,099 (Ranked 60)  
+Progressed: 253,101 (Ranked 60)  
 Completed: 895 (0.35%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,10 +274,10 @@ Completed: 895 (0.35%) (Ranked 230)
 | 2023-12-02 | 252,809 | 894 |
 | 2023-12-03 | 252,977 | 894 |
 | 2023-12-04 | 253,052 | 895 |
-| 2023-12-05 | 253,099 | 895 |
+| 2023-12-05 | 253,101 | 895 |
 ## Awards
 Max (Great for Beginners): 481  (Ranked 215)  
-Sum: 3,978 (Ranked 155)  
+Sum: 3,980 (Ranked 155)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -285,7 +285,7 @@ Diff (max vs sum): 60
 | This game has Diverse Characters | 459 |
 | This game is Highly Recommended | 424 |
 | This game has Amazing Characters | 396 |
-| This game is Extremely Fun | 390 |
+| This game is Extremely Fun | 392 |
 | This game has Amazing Storytelling | 378 |
 | This game has a Silly Community | 371 |
 | This game is Relaxing | 366 |
@@ -547,4 +547,4 @@ Diff (max vs sum): 60
 | 2023-12-02 | 4.84 | 477 | 3,951 |
 | 2023-12-03 | 4.84 | 480 | 3,966 |
 | 2023-12-04 | 4.84 | 481 | 3,974 |
-| 2023-12-05 | 4.84 | 481 | 3,978 |
+| 2023-12-05 | 4.84 | 481 | 3,980 |

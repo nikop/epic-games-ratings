@@ -34,7 +34,7 @@
 | All’s Well That Ends Evil | 33.00% | ~174 |
 | Unstoppable Horde | 32.00% | ~169 |
 | Master of the Undead | 31.00% | ~163 |
-| The Duel | 29.00% | ~153 |
+| The Duel | 30.00% | ~158 |
 | If Looks Could Kill | 27.00% | ~142 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 26.00% | ~137 |
 | Forbidden Knowledge | 26.00% | ~137 |

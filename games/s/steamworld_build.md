@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Botropolis | 50.00% | ~1 |
-| Conducted Trade | 50.00% | ~1 |
-| Digging a Hole | 50.00% | ~1 |
-| Gotta Go Fast | 50.00% | ~1 |
-| It's Yours, My Friend | 50.00% | ~1 |
-| Mathematic | 50.00% | ~1 |
-| Real Purdy | 50.00% | ~1 |
-| Slotting Machine | 50.00% | ~1 |
-| Stack Overflow | 50.00% | ~1 |
-| Steaming Rich | 50.00% | ~1 |
-| Tutti Frutti | 50.00% | ~1 |
-| Up, Up And Away! | 50.00% | ~1 |
-| Whoa! | 50.00% | ~1 |
+| Real Purdy | 50.00% | ~2 |
+| Botropolis | 25.00% | ~1 |
+| Conducted Trade | 25.00% | ~1 |
+| Digging a Hole | 25.00% | ~1 |
+| Gotta Go Fast | 25.00% | ~1 |
+| It's Yours, My Friend | 25.00% | ~1 |
+| Mathematic | 25.00% | ~1 |
+| Slotting Machine | 25.00% | ~1 |
+| Stack Overflow | 25.00% | ~1 |
+| Steaming Rich | 25.00% | ~1 |
+| Tutti Frutti | 25.00% | ~1 |
+| Up, Up And Away! | 25.00% | ~1 |
+| Whoa! | 25.00% | ~1 |
 | Accustomed Customer | 0.00% | ~0 |
 | Aristocratic | 0.00% | ~0 |
 | Click 'Em All | 0.00% | ~0 |
@@ -33,10 +33,11 @@
 | Systematic | 0.00% | ~0 |
 | Yup. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 682)  
+Progressed: 4 (Ranked 655)  
 Completed: 0 (0.00%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-11-20 | 1 | 0 |
 | 2023-12-04 | 2 | 0 |
+| 2023-12-05 | 4 | 0 |

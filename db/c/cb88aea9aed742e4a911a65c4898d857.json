@@ -2,10 +2,10 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_EOS_Progress": 663,
+  "Ranking_EOS_Progress": 664,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 419,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 420,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -261,9 +261,9 @@
       "ID": "29_NoStoneUnturned",
       "SetID": "37a94m8",
       "Name": "No Stone Unturned",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "30_The GreatestExploration",
@@ -277,9 +277,9 @@
       "ID": "31_DontTouchThis",
       "SetID": "37a94m8",
       "Name": "Don\u0027t Touch This",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "32_AviationSaviour",
@@ -571,8 +571,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged_Achievements": "2023-12-05T15:09:25.3057075+00:00",
+  "LastChanged_Achievements": "2023-12-05T16:08:43.6302157+00:00",
   "LastUpdate_AppInfo": "2023-11-30T02:19:28.0281349+00:00",
-  "LastUpdate_Ratings": "2023-12-05T15:02:37.3460507+00:00",
-  "LastUpdate_Achievements": "2023-12-05T15:09:25.305748+00:00"
+  "LastUpdate_Ratings": "2023-12-05T16:00:20.6222458+00:00",
+  "LastUpdate_Achievements": "2023-12-05T16:08:43.6302649+00:00"
 }

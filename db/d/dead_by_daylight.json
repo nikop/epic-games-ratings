@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 12,
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 5,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 4,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -13364,9 +13364,9 @@
       "Count": 27610
     }
   ],
-  "EOS_Progressed": 1071585,
+  "EOS_Progressed": 1071705,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 21757,
+  "EOS_NewPlayers": 21780,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39699,6 +39699,11 @@
       "Time": "2023-12-05T15:10:27.8954989+00:00",
       "NumProgressed": 1071585,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-05T16:09:31.2354714+00:00",
+      "NumProgressed": 1071705,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 232,
@@ -39798,7 +39803,7 @@
       "Name": "Agonizing Escape",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 5358
+      "UsersEstimate": 5359
     },
     {
       "ID": "ACH_013",
@@ -39822,7 +39827,7 @@
       "Name": "I\u0027ve got your back",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 5358
+      "UsersEstimate": 5359
     },
     {
       "ID": "ACH_016",
@@ -39830,7 +39835,7 @@
       "Name": "No one left behind",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 7501
+      "UsersEstimate": 7502
     },
     {
       "ID": "ACH_017",
@@ -39838,7 +39843,7 @@
       "Name": "Medic",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 7501
+      "UsersEstimate": 7502
     },
     {
       "ID": "ACH_018",
@@ -39846,7 +39851,7 @@
       "Name": "Handyman",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 8573
+      "UsersEstimate": 8574
     },
     {
       "ID": "ACH_019",
@@ -39870,7 +39875,7 @@
       "Name": "Perfect Killing",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 5358
+      "UsersEstimate": 5359
     },
     {
       "ID": "ACH_022",
@@ -39878,7 +39883,7 @@
       "Name": "Zealous",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10716
+      "UsersEstimate": 10717
     },
     {
       "ID": "ACH_023",
@@ -39886,7 +39891,7 @@
       "Name": "It wakes",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10716
+      "UsersEstimate": 10717
     },
     {
       "ID": "ACH_024",
@@ -39894,7 +39899,7 @@
       "Name": "Not half bad",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10716
+      "UsersEstimate": 10717
     },
     {
       "ID": "ACH_025",
@@ -39918,7 +39923,7 @@
       "Name": "Apt Survivor",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 9644
+      "UsersEstimate": 9645
     },
     {
       "ID": "ACH_028",
@@ -39926,7 +39931,7 @@
       "Name": "Apt Killer",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 5358
+      "UsersEstimate": 5359
     },
     {
       "ID": "ACH_029",
@@ -39934,15 +39939,15 @@
       "Name": "Risk it all",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 5358
+      "UsersEstimate": 5359
     },
     {
       "ID": "ACH_030",
       "SetID": "bdmlp8o",
       "Name": "Survival Treasures",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 8573
+      "UsersEstimate": 9645
     },
     {
       "ID": "ACH_031",
@@ -39950,7 +39955,7 @@
       "Name": "Vulture",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 4286
+      "UsersEstimate": 4287
     },
     {
       "ID": "ACH_032",
@@ -40014,15 +40019,15 @@
       "Name": "Skillful",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10716
+      "UsersEstimate": 10717
     },
     {
       "ID": "ACH_040",
       "SetID": "bdmlp8o",
       "Name": "I",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 8573
+      "UsersEstimate": 9645
     },
     {
       "ID": "ACH_041",
@@ -40030,7 +40035,7 @@
       "Name": "II",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 5358
+      "UsersEstimate": 5359
     },
     {
       "ID": "ACH_042",
@@ -40038,7 +40043,7 @@
       "Name": "III",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 4286
+      "UsersEstimate": 4287
     },
     {
       "ID": "ACH_043",
@@ -40174,7 +40179,7 @@
       "Name": "Engineer",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5358
+      "UsersEstimate": 5359
     },
     {
       "ID": "ACH_060",
@@ -40278,7 +40283,7 @@
       "Name": "Sorted",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7501
+      "UsersEstimate": 7502
     },
     {
       "ID": "ACH_073",
@@ -40606,7 +40611,7 @@
       "Name": "Wounded Healer",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 5358
+      "UsersEstimate": 5359
     },
     {
       "ID": "ACH_114",
@@ -40708,9 +40713,9 @@
       "ID": "ACH_129",
       "SetID": "16jml5b",
       "Name": "First to the Punch",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 3215
+      "UsersEstimate": 4287
     },
     {
       "ID": "ACH_130",
@@ -40878,7 +40883,7 @@
       "Name": "Healthy Obsession",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 7501
+      "UsersEstimate": 7502
     },
     {
       "ID": "ACH_151",
@@ -40926,7 +40931,7 @@
       "Name": "Resurgence",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 7501
+      "UsersEstimate": 7502
     },
     {
       "ID": "ACH_157",
@@ -41022,7 +41027,7 @@
       "Name": "Close Shave",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 5358
+      "UsersEstimate": 5359
     },
     {
       "ID": "ACH_169",
@@ -41046,7 +41051,7 @@
       "Name": "Preemptive Strike",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 7501
+      "UsersEstimate": 7502
     },
     {
       "ID": "ACH_172",
@@ -41158,7 +41163,7 @@
       "Name": "With Scars to Show",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4286
+      "UsersEstimate": 4287
     },
     {
       "ID": "ACH_186",
@@ -41358,7 +41363,7 @@
       "Name": "Lifting The Fog",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4286
+      "UsersEstimate": 4287
     },
     {
       "ID": "ACH_211",
@@ -41470,7 +41475,7 @@
       "Name": "Second Act",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4286
+      "UsersEstimate": 4287
     },
     {
       "ID": "ACH_225",
@@ -41478,7 +41483,7 @@
       "Name": "Make Some Noise",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 9644
+      "UsersEstimate": 9645
     },
     {
       "ID": "ACH_226",
@@ -41565,21 +41570,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1071585,
+      "Progressed": 1071705,
       "Completed": 70
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1071585,
+      "Progressed": 1071705,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-12-05T11:58:48.5669302+00:00",
-  "LastChanged_Achievements": "2023-12-05T15:10:27.8954987+00:00",
+  "LastChanged_Achievements": "2023-12-05T16:09:31.2354711+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:13.1126718+00:00",
-  "LastUpdate_Ratings": "2023-12-05T14:59:21.4213782+00:00",
-  "LastUpdate_Achievements": "2023-12-05T15:10:27.8960229+00:00"
+  "LastUpdate_Ratings": "2023-12-05T15:58:31.0474364+00:00",
+  "LastUpdate_Achievements": "2023-12-05T16:09:31.2360362+00:00"
 }

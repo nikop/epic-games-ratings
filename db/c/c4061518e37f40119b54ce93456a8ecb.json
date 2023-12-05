@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 595,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 476,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-05-30T13:00:00+00:00",
     "PcReleaseDate": "2023-05-30T13:00:00+00:00",
@@ -156,9 +156,9 @@
       "ID": "ACH_Bathroom",
       "SetID": "aao9n96",
       "Name": "He doesn\u0027t know how to use the three seashells",
-      "Percentage": 57,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_Beacon",
@@ -196,17 +196,17 @@
       "ID": "ACH_DarkRoom",
       "SetID": "aao9n96",
       "Name": "Let me risk a little more light",
-      "Percentage": 36,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_Disassemble",
       "SetID": "aao9n96",
       "Name": "No disassemble!",
-      "Percentage": 57,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_EnterHeaven",
@@ -228,25 +228,25 @@
       "ID": "ACH_Everett",
       "SetID": "aao9n96",
       "Name": "I KNOW HIM!",
-      "Percentage": 57,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_FirstWish",
       "SetID": "aao9n96",
       "Name": "As you wish",
-      "Percentage": 57,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_FlawlessSecurity",
       "SetID": "aao9n96",
       "Name": "Clever Girl",
-      "Percentage": 43,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_GraceEnding",
@@ -372,9 +372,9 @@
       "ID": "ACH_TransitWorking",
       "SetID": "aao9n96",
       "Name": "It\u0027s working! It\u0027s working!",
-      "Percentage": 64,
+      "Percentage": 71,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_WeatherStations",
@@ -395,8 +395,8 @@
   ],
   "FirstSeen": "2023-06-18T13:01:09.4740669+00:00",
   "FirstSeenAchievements": "2023-05-24T20:04:21.7839136+00:00",
-  "LastChanged_Achievements": "2023-12-05T15:04:57.8124107+00:00",
+  "LastChanged_Achievements": "2023-12-05T16:03:59.3787393+00:00",
   "LastUpdate_AppInfo": "2023-11-29T07:56:57.8846771+00:00",
-  "LastUpdate_Ratings": "2023-12-05T14:57:12.9494126+00:00",
-  "LastUpdate_Achievements": "2023-12-05T15:04:57.8124329+00:00"
+  "LastUpdate_Ratings": "2023-12-05T15:57:04.4170483+00:00",
+  "LastUpdate_Achievements": "2023-12-05T16:03:59.3787587+00:00"
 }

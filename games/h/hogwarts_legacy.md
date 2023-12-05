@@ -1,15 +1,15 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 129)  
+Rating: 4.76 (Ranked 130)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 16.00% | ~48,633 |
 | First Class Student | 15.00% | ~45,594 |
 | Troll with the Punches | 14.00% | ~42,554 |
-| A Keen Sense of Spell | 13.00% | ~39,514 |
-| That's a Keeper | 13.00% | ~39,514 |
+| A Keen Sense of Spell | 13.00% | ~39,515 |
+| That's a Keeper | 13.00% | ~39,515 |
 | The Hallowed Hero | 12.00% | ~36,475 |
 | The Defender of Dragons | 12.00% | ~36,475 |
 | Loom for Improvement | 12.00% | ~36,475 |
@@ -27,9 +27,9 @@ Rating: 4.76 (Ranked 129)
 | Beast Friends | 8.00% | ~24,317 |
 | Flight the Good Flight | 8.00% | ~24,317 |
 | Raising Expectations | 7.00% | ~21,277 |
-| The Seeker of Knowledge | 6.00% | ~18,237 |
-| The Root of the Problem | 6.00% | ~18,237 |
-| Third Time's a Charm | 6.00% | ~18,237 |
+| The Seeker of Knowledge | 6.00% | ~18,238 |
+| The Root of the Problem | 6.00% | ~18,238 |
+| Third Time's a Charm | 6.00% | ~18,238 |
 | The Toast of the Town | 5.00% | ~15,198 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,198 |
 | The Ends Petrify the Means | 5.00% | ~15,198 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 129)
 | The Nature of the Beast | 0.70% | ~2,128 |
 | Collector's Edition | 0.30% | ~912 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,957 (Ranked 54)  
+Progressed: 303,959 (Ranked 54)  
 Completed: 521 (0.17%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 521 (0.17%) (Ranked 269)
 | 2023-12-02 | 303,789 | 520 |
 | 2023-12-03 | 303,892 | 521 |
 | 2023-12-04 | 303,943 | 521 |
-| 2023-12-05 | 303,957 | 521 |
+| 2023-12-05 | 303,959 | 521 |
 ## Awards
 Max (Character Customization): 24,947  (Ranked 17)  
 Sum: 49,959 (Ranked 30)  

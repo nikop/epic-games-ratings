@@ -6,40 +6,41 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~10,716 |
-| It wakes | 1.00% | ~10,716 |
-| Not half bad | 1.00% | ~10,716 |
-| Skillful | 1.00% | ~10,716 |
-| Apt Survivor | 0.90% | ~9,644 |
-| Make Some Noise | 0.90% | ~9,644 |
-| Handyman | 0.80% | ~8,573 |
-| Survival Treasures | 0.80% | ~8,573 |
-| I | 0.80% | ~8,573 |
-| No one left behind | 0.70% | ~7,501 |
-| Medic | 0.70% | ~7,501 |
-| Sorted | 0.70% | ~7,501 |
-| Healthy Obsession | 0.70% | ~7,501 |
-| Resurgence | 0.70% | ~7,501 |
-| Preemptive Strike | 0.70% | ~7,501 |
+| Zealous | 1.00% | ~10,717 |
+| It wakes | 1.00% | ~10,717 |
+| Not half bad | 1.00% | ~10,717 |
+| Skillful | 1.00% | ~10,717 |
+| Apt Survivor | 0.90% | ~9,645 |
+| Survival Treasures | 0.90% | ~9,645 |
+| I | 0.90% | ~9,645 |
+| Make Some Noise | 0.90% | ~9,645 |
+| Handyman | 0.80% | ~8,574 |
+| No one left behind | 0.70% | ~7,502 |
+| Medic | 0.70% | ~7,502 |
+| Sorted | 0.70% | ~7,502 |
+| Healthy Obsession | 0.70% | ~7,502 |
+| Resurgence | 0.70% | ~7,502 |
+| Preemptive Strike | 0.70% | ~7,502 |
 | The Grand Sacrifice | 0.60% | ~6,430 |
 | Backdoor Escape | 0.60% | ~6,430 |
 | Perfect Escape | 0.60% | ~6,430 |
 | Bloody Millionaire | 0.60% | ~6,430 |
 | Humanitarian | 0.60% | ~6,430 |
-| Agonizing Escape | 0.50% | ~5,358 |
-| I've got your back | 0.50% | ~5,358 |
-| Perfect Killing | 0.50% | ~5,358 |
-| Apt Killer | 0.50% | ~5,358 |
-| Risk it all | 0.50% | ~5,358 |
-| II | 0.50% | ~5,358 |
-| Engineer | 0.50% | ~5,358 |
-| Wounded Healer | 0.50% | ~5,358 |
-| Close Shave | 0.50% | ~5,358 |
-| Vulture | 0.40% | ~4,286 |
-| III | 0.40% | ~4,286 |
-| With Scars to Show | 0.40% | ~4,286 |
-| Lifting The Fog | 0.40% | ~4,286 |
-| Second Act | 0.40% | ~4,286 |
+| Agonizing Escape | 0.50% | ~5,359 |
+| I've got your back | 0.50% | ~5,359 |
+| Perfect Killing | 0.50% | ~5,359 |
+| Apt Killer | 0.50% | ~5,359 |
+| Risk it all | 0.50% | ~5,359 |
+| II | 0.50% | ~5,359 |
+| Engineer | 0.50% | ~5,359 |
+| Wounded Healer | 0.50% | ~5,359 |
+| Close Shave | 0.50% | ~5,359 |
+| Vulture | 0.40% | ~4,287 |
+| III | 0.40% | ~4,287 |
+| First to the Punch | 0.40% | ~4,287 |
+| With Scars to Show | 0.40% | ~4,287 |
+| Lifting The Fog | 0.40% | ~4,287 |
+| Second Act | 0.40% | ~4,287 |
 | Blood on your hands | 0.30% | ~3,215 |
 | Escape Artist | 0.30% | ~3,215 |
 | Made it out alive! | 0.30% | ~3,215 |
@@ -55,7 +56,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Cherish your Life | 0.30% | ~3,215 |
 | Unforgettable Getaway | 0.30% | ~3,215 |
 | Cutting Out | 0.30% | ~3,215 |
-| First to the Punch | 0.30% | ~3,215 |
 | Operation: Survival | 0.30% | ~3,215 |
 | Old West Oasis | 0.30% | ~3,215 |
 | Classy Act | 0.30% | ~3,215 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Joke’s On You | 0.10% | ~1,072 |
 | Adept Good Guy | 0.10% | ~1,072 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,071,585 (Ranked 14)  
+Progressed: 1,071,705 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -468,7 +468,7 @@ Completed: 61 (0.01%) (Ranked 347)
 | 2023-12-02 | 1,062,340 | 61 |
 | 2023-12-03 | 1,067,390 | 61 |
 | 2023-12-04 | 1,070,133 | 61 |
-| 2023-12-05 | 1,071,585 | 61 |
+| 2023-12-05 | 1,071,705 | 61 |
 ## Awards
 Max (Diverse Characters): 37,289  (Ranked 15)  
 Sum: 283,188 (Ranked 12)  

@@ -21,11 +21,11 @@ Rating: 4.87 (Ranked 24)
 | Kissing the sky! | 11.00% | ~493 |
 | The Negotiator | 10.00% | ~448 |
 | Whoa! There's ANOTHER health bar!? | 10.00% | ~448 |
+| Out in a puff of smoke | 10.00% | ~448 |
 | I look cool. But I can look COOLER. | 10.00% | ~448 |
 | Headliner | 9.00% | ~403 |
 | Time to pay up! | 9.00% | ~403 |
 | You must like calling me in, Chai | 9.00% | ~403 |
-| Out in a puff of smoke | 9.00% | ~403 |
 | Does that say weakpoint? | 9.00% | ~403 |
 | Who's the boss now? | 8.00% | ~358 |
 | I have to read these things? | 8.00% | ~358 |

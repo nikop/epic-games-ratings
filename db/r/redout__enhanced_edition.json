@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 236710,
+  "EOS_Progressed": 236711,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 387,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -24407,6 +24407,11 @@
       "Time": "2023-12-05T15:07:17.6801054+00:00",
       "NumProgressed": 236710,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-05T16:05:40.8857003+00:00",
+      "NumProgressed": 236711,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -24554,7 +24559,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 78114
+      "UsersEstimate": 78115
     },
     {
       "ID": "NOBUNAGA",
@@ -24682,22 +24687,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 97051
+      "UsersEstimate": 97052
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 236710,
+      "Progressed": 236711,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-12-05T15:07:17.680105+00:00",
+  "LastChanged_Achievements": "2023-12-05T16:05:40.8857+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:57.5074275+00:00",
-  "LastUpdate_Ratings": "2023-12-05T14:58:48.1037473+00:00",
-  "LastUpdate_Achievements": "2023-12-05T15:07:17.6802411+00:00"
+  "LastUpdate_Ratings": "2023-12-05T15:58:09.3494389+00:00",
+  "LastUpdate_Achievements": "2023-12-05T16:05:40.8858336+00:00"
 }

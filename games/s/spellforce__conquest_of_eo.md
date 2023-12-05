@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Enough rooms to swing a cat | 92.00% | ~36 |
-| Home Sweet Home | 92.00% | ~36 |
-| First to the post | 90.00% | ~35 |
-| A kind of Magic | 85.00% | ~33 |
-| Connected | 82.00% | ~32 |
-| Expansion | 77.00% | ~30 |
-| Harvest Time | 72.00% | ~28 |
-| Mine! | 69.00% | ~27 |
-| Artificer's Apprentice | 62.00% | ~24 |
-| Get out of here! | 56.00% | ~22 |
-| Fly the friendly Sky | 56.00% | ~22 |
-| Friend of Lyraine | 54.00% | ~21 |
-| Alchemist's Apprentice | 51.00% | ~20 |
-| Necromancer's Apprentice | 51.00% | ~20 |
-| The Circle | 49.00% | ~19 |
-| Redecorating | 41.00% | ~16 |
-| Friend of Sevenkeeps | 31.00% | ~12 |
+| Enough rooms to swing a cat | 93.00% | ~37 |
+| Home Sweet Home | 93.00% | ~37 |
+| First to the post | 90.00% | ~36 |
+| A kind of Magic | 85.00% | ~34 |
+| Connected | 80.00% | ~32 |
+| Expansion | 78.00% | ~31 |
+| Harvest Time | 70.00% | ~28 |
+| Mine! | 68.00% | ~27 |
+| Artificer's Apprentice | 63.00% | ~25 |
+| Get out of here! | 55.00% | ~22 |
+| Fly the friendly Sky | 55.00% | ~22 |
+| Friend of Lyraine | 53.00% | ~21 |
+| Alchemist's Apprentice | 50.00% | ~20 |
+| Necromancer's Apprentice | 50.00% | ~20 |
+| The Circle | 48.00% | ~19 |
+| Redecorating | 40.00% | ~16 |
+| Friend of Sevenkeeps | 30.00% | ~12 |
 | Bad JuJu | 28.00% | ~11 |
-| Slave to the rhythm | 26.00% | ~10 |
-| Sevenkeeps Seat of Kings | 26.00% | ~10 |
+| Slave to the rhythm | 25.00% | ~10 |
+| Sevenkeeps Seat of Kings | 25.00% | ~10 |
 | Castle Meldec | 23.00% | ~9 |
 | Friend of Alluvyan | 18.00% | ~7 |
 | Friend of Gillyshire | 18.00% | ~7 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39 (Ranked 522)  
+Progressed: 40 (Ranked 519)  
 Completed: 0 (0.00%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 0 (0.00%) (Ranked 368)
 | 2023-11-29 | 36 | 0 |
 | 2023-12-02 | 37 | 0 |
 | 2023-12-03 | 38 | 0 |
-| 2023-12-05 | 39 | 0 |
+| 2023-12-05 | 40 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

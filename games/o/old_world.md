@@ -26,6 +26,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 4.00% | ~626 |
 | Warrior | 4.00% | ~626 |
 | Oracle | 4.00% | ~626 |
+| Pyramids | 4.00% | ~626 |
 | Judaism | 4.00% | ~626 |
 | Greek Paganism | 4.00% | ~626 |
 | Naming Landmarks | 4.00% | ~626 |
@@ -44,7 +45,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate | 3.00% | ~469 |
 | Lighthouse | 3.00% | ~469 |
 | Musaeum | 3.00% | ~469 |
-| Pyramids | 3.00% | ~469 |
 | Learn to Play 1 | 3.00% | ~469 |
 | Learn to Play 2 | 3.00% | ~469 |
 | Christianity | 3.00% | ~469 |

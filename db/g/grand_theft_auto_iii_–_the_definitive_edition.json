@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -547,9 +547,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8716,
+  "EOS_Progressed": 8717,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -11667,6 +11667,11 @@
       "Time": "2023-12-05T13:10:57.5962804+00:00",
       "NumProgressed": 8716,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-05T16:04:03.0312093+00:00",
+      "NumProgressed": 8717,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 29,
@@ -11678,7 +11683,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 7234
+      "UsersEstimate": 7235
     },
     {
       "ID": "ACH02",
@@ -11686,7 +11691,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2963
+      "UsersEstimate": 2964
     },
     {
       "ID": "ACH03",
@@ -11710,7 +11715,7 @@
       "Name": "Mob Boss",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACH06",
@@ -11748,9 +11753,9 @@
       "ID": "ACH10",
       "SetID": "552d41m",
       "Name": "Wreckless Driving",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 2440
+      "UsersEstimate": 2528
     },
     {
       "ID": "ACH11",
@@ -11909,7 +11914,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8716,
+      "Progressed": 8717,
       "Completed": 60
     }
   ],
@@ -11917,8 +11922,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-12-04T13:04:00.769343+00:00",
-  "LastChanged_Achievements": "2023-12-05T15:05:02.7849724+00:00",
+  "LastChanged_Achievements": "2023-12-05T16:04:03.0312089+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:15.6257409+00:00",
-  "LastUpdate_Ratings": "2023-12-05T14:59:49.2384826+00:00",
-  "LastUpdate_Achievements": "2023-12-05T15:05:02.7850386+00:00"
+  "LastUpdate_Ratings": "2023-12-05T15:58:49.7063347+00:00",
+  "LastUpdate_Achievements": "2023-12-05T16:04:03.0313013+00:00"
 }
