@@ -5,7 +5,7 @@
   "Ranking_Rating": 542,
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 508,
-  "Ranking_EOS_Progress": 591,
+  "Ranking_EOS_Progress": 587,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 125,
@@ -270,9 +270,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 16,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -344,6 +344,11 @@
     {
       "Time": "2023-12-05T17:04:38.4954089+00:00",
       "NumProgressed": 15,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-05T20:04:31.5380588+00:00",
+      "NumProgressed": 16,
       "NumCompleted": 0
     }
   ],
@@ -467,7 +472,7 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -507,9 +512,9 @@
       "ID": "ACH_ENTER_TAKOSHIMA",
       "SetID": "4n84pon",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -708,7 +713,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 16,
       "Completed": 0
     }
   ],
@@ -716,8 +721,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-10-14T18:57:04.8470544+00:00",
-  "LastChanged_Achievements": "2023-12-05T19:05:19.9144126+00:00",
+  "LastChanged_Achievements": "2023-12-05T20:04:31.5380583+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:22.421403+00:00",
-  "LastUpdate_Ratings": "2023-12-05T18:57:29.8533811+00:00",
-  "LastUpdate_Achievements": "2023-12-05T19:05:19.9144428+00:00"
+  "LastUpdate_Ratings": "2023-12-05T19:57:39.0580358+00:00",
+  "LastUpdate_Achievements": "2023-12-05T20:04:31.5380852+00:00"
 }

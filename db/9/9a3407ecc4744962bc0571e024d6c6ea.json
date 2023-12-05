@@ -3,8 +3,8 @@
   "Name": "Fort Solis",
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 267,
-  "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_Completed": 207,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 985,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -2622,9 +2622,9 @@
       "ID": "BostonHayDay",
       "SetID": "3ai6ml8",
       "Name": "Boston Hay Day",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 601
+      "UsersEstimate": 611
     },
     {
       "ID": "BoxingClever",
@@ -2654,9 +2654,9 @@
       "ID": "CongratulationsYouAreAnEngineer",
       "SetID": "3ai6ml8",
       "Name": "Congratulations, you\u0027re an engineer",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 414
+      "UsersEstimate": 424
     },
     {
       "ID": "DarkestBeforeTheDawn",
@@ -2781,8 +2781,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-12-05T19:10:07.72479+00:00",
+  "LastChanged_Achievements": "2023-12-05T20:09:12.7640479+00:00",
   "LastUpdate_AppInfo": "2023-11-29T20:57:24.7424697+00:00",
-  "LastUpdate_Ratings": "2023-12-05T18:58:17.8191734+00:00",
-  "LastUpdate_Achievements": "2023-12-05T19:10:07.7248118+00:00"
+  "LastUpdate_Ratings": "2023-12-05T19:58:12.3654156+00:00",
+  "LastUpdate_Achievements": "2023-12-05T20:09:12.7640756+00:00"
 }

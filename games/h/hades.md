@@ -6,48 +6,48 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 88.00% | ~631,422 |
-| Escaped Asphodel | 79.00% | ~566,845 |
-| Arms Collector | 70.00% | ~502,267 |
-| Friends in High Places | 67.00% | ~480,742 |
-| Escaped Elysium | 66.00% | ~473,566 |
-| Chthonic Colleagues | 62.00% | ~444,866 |
-| Is There No Escape? | 52.00% | ~373,113 |
-| Death Dealer | 45.00% | ~322,886 |
-| Skelly Slayer | 42.00% | ~301,360 |
-| Well Stocked | 40.00% | ~287,010 |
-| Back to Work | 38.00% | ~272,660 |
-| Day-or-Night Trader | 37.00% | ~265,484 |
-| Blessed by the Gods | 37.00% | ~265,484 |
-| Urge to Sing | 36.00% | ~258,309 |
-| Blood Bound | 35.00% | ~251,134 |
-| Three-Headed Boy | 32.00% | ~229,608 |
-| River Denizens | 28.00% | ~200,907 |
-| Grown Close | 28.00% | ~200,907 |
-| Home Makeover | 27.00% | ~193,732 |
-| Had to Happen | 25.00% | ~179,381 |
-| The Family Secret | 25.00% | ~179,381 |
-| Tools of the Architect | 23.00% | ~165,031 |
-| Master of Arms | 23.00% | ~165,031 |
+| Escaped Tartarus | 88.00% | ~631,426 |
+| Escaped Asphodel | 79.00% | ~566,848 |
+| Arms Collector | 70.00% | ~502,270 |
+| Friends in High Places | 67.00% | ~480,744 |
+| Escaped Elysium | 66.00% | ~473,569 |
+| Chthonic Colleagues | 62.00% | ~444,868 |
+| Is There No Escape? | 52.00% | ~373,115 |
+| Death Dealer | 45.00% | ~322,888 |
+| Skelly Slayer | 42.00% | ~301,362 |
+| Well Stocked | 40.00% | ~287,012 |
+| Back to Work | 38.00% | ~272,661 |
+| Day-or-Night Trader | 37.00% | ~265,486 |
+| Blessed by the Gods | 37.00% | ~265,486 |
+| Urge to Sing | 36.00% | ~258,310 |
+| Blood Bound | 35.00% | ~251,135 |
+| Three-Headed Boy | 32.00% | ~229,609 |
+| River Denizens | 28.00% | ~200,908 |
+| Grown Close | 28.00% | ~200,908 |
+| Home Makeover | 27.00% | ~193,733 |
+| Had to Happen | 25.00% | ~179,382 |
+| The Family Secret | 25.00% | ~179,382 |
+| Tools of the Architect | 23.00% | ~165,032 |
+| Master of Arms | 23.00% | ~165,032 |
 | To Charon's Credit | 22.00% | ~157,856 |
 | Rare Collectible | 22.00% | ~157,856 |
-| Weapon of Fate | 21.00% | ~150,680 |
-| Something From Everyone | 19.00% | ~136,330 |
-| Hold the Onions | 18.00% | ~129,154 |
-| Well Versed | 17.00% | ~121,979 |
+| Weapon of Fate | 21.00% | ~150,681 |
+| Something From Everyone | 19.00% | ~136,331 |
+| Hold the Onions | 18.00% | ~129,155 |
+| Well Versed | 17.00% | ~121,980 |
 | War-God's Bloodlust | 15.00% | ~107,629 |
 | Musician and Muse | 14.00% | ~100,454 |
-| The Useless Trinket | 13.00% | ~93,278 |
-| Champion of Elysium | 13.00% | ~93,278 |
+| The Useless Trinket | 13.00% | ~93,279 |
+| Champion of Elysium | 13.00% | ~93,279 |
 | Slashed Benefits | 12.00% | ~86,103 |
 | Haste of Hermes | 11.00% | ~78,928 |
-| Bad Call | 10.00% | ~71,752 |
-| Nyx's Mirror | 10.00% | ~71,752 |
-| Night and Darkness | 10.00% | ~71,752 |
-| End to Torment | 10.00% | ~71,752 |
-| Dark Reflections | 9.00% | ~64,577 |
-| Thanks, But No Thanks | 9.00% | ~64,577 |
-| Infernal Arms | 9.00% | ~64,577 |
+| Bad Call | 10.00% | ~71,753 |
+| Nyx's Mirror | 10.00% | ~71,753 |
+| Night and Darkness | 10.00% | ~71,753 |
+| End to Torment | 10.00% | ~71,753 |
+| Dark Reflections | 9.00% | ~64,578 |
+| Thanks, But No Thanks | 9.00% | ~64,578 |
+| Infernal Arms | 9.00% | ~64,578 |
 | Divided by Death | 8.00% | ~57,402 |
 | Harsh Conditions | 7.00% | ~50,227 |
 | One for the Ages | 7.00% | ~50,227 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,701 |
 | Friends Forever | 4.00% | ~28,701 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,525 (Ranked 23)  
+Progressed: 717,529 (Ranked 23)  
 Completed: 6,519 (0.91%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 6,519 (0.91%) (Ranked 174)
 | 2023-12-02 | 717,106 | 6,515 |
 | 2023-12-03 | 717,322 | 6,517 |
 | 2023-12-04 | 717,439 | 6,518 |
-| 2023-12-05 | 717,525 | 6,519 |
+| 2023-12-05 | 717,529 | 6,519 |
 ## Awards
 Max (Character Customization): 3,407  (Ranked 92)  
 Sum: 8,318 (Ranked 103)  

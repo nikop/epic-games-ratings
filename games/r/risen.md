@@ -17,13 +17,13 @@ Rating: 4.57 (Ranked 479)
 | Well-to-do | 44.00% | ~27 |
 | Ladies' man | 43.00% | ~26 |
 | Ferocious wild boars | 31.00% | ~19 |
+| Wise man | 30.00% | ~18 |
 | Beast slayer | 30.00% | ~18 |
 | Idiot | 30.00% | ~18 |
-| Wise man | 28.00% | ~17 |
+| Ogre friend | 28.00% | ~17 |
 | Family man | 26.00% | ~16 |
-| Ogre friend | 26.00% | ~16 |
+| Death of a legend | 26.00% | ~16 |
 | The fourth triplet | 26.00% | ~16 |
-| Death of a legend | 25.00% | ~15 |
 | Archaeologist | 25.00% | ~15 |
 | Hard worker | 25.00% | ~15 |
 | Master detective | 25.00% | ~15 |
@@ -36,8 +36,8 @@ Rating: 4.57 (Ranked 479)
 | Defender | 18.00% | ~11 |
 | Fence | 18.00% | ~11 |
 | Showdown | 16.00% | ~10 |
+| Master thief | 16.00% | ~10 |
 | Freedom fighter | 15.00% | ~9 |
-| Master thief | 15.00% | ~9 |
 | Safecracker | 13.00% | ~8 |
 | Titan Lord | 11.00% | ~7 |
 | Moneybags | 10.00% | ~6 |

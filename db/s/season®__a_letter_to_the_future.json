@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1319,
+  "EOS_Progressed": 1320,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.55,
   "EosHistory": [
@@ -2749,6 +2749,11 @@
       "Time": "2023-12-05T12:09:38.2828013+00:00",
       "NumProgressed": 1319,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-05T20:09:11.1130432+00:00",
+      "NumProgressed": 1320,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 16,
@@ -2776,7 +2781,7 @@
       "Name": "Dream Listener",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_EMOTIONALBAGGAGEHANDLER",
@@ -2887,7 +2892,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1319,
+      "Progressed": 1320,
       "Completed": 60
     }
   ],
@@ -2895,8 +2900,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-05T19:10:05.6203736+00:00",
+  "LastChanged_Achievements": "2023-12-05T20:09:11.1130427+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:07.8879724+00:00",
-  "LastUpdate_Ratings": "2023-12-05T19:02:32.3543256+00:00",
-  "LastUpdate_Achievements": "2023-12-05T19:10:05.6203941+00:00"
+  "LastUpdate_Ratings": "2023-12-05T20:00:43.5176207+00:00",
+  "LastUpdate_Achievements": "2023-12-05T20:09:11.1130662+00:00"
 }

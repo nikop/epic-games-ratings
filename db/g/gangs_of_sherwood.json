@@ -366,9 +366,9 @@
       "ID": "ACH_BOSS_RUSH",
       "SetID": "5akmpni",
       "Name": "Bold and Bossy",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_COMPLETE_ACTS_GANGS",
@@ -550,9 +550,9 @@
       "ID": "ACH_KILL_SHERIFF",
       "SetID": "5akmpni",
       "Name": "Into the Lion\u0027s Den",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_LAUNCH_ENEMY",
@@ -590,9 +590,9 @@
       "ID": "ACH_NO_SIBLINGS",
       "SetID": "5akmpni",
       "Name": "Only Child",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_PLATINUM",
@@ -670,9 +670,9 @@
       "ID": "ACH_UNLOCK_ALL_MOVES",
       "SetID": "5akmpni",
       "Name": "Master of One",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_UNLOCK_ALL_MOVES_GANGS",
@@ -701,8 +701,8 @@
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-12-05T19:07:31.3950805+00:00",
+  "LastChanged_Achievements": "2023-12-05T20:06:10.3869534+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:51.6227723+00:00",
-  "LastUpdate_Ratings": "2023-12-05T18:58:23.3598186+00:00",
-  "LastUpdate_Achievements": "2023-12-05T19:07:31.3951178+00:00"
+  "LastUpdate_Ratings": "2023-12-05T19:58:17.4010167+00:00",
+  "LastUpdate_Achievements": "2023-12-05T20:06:10.3869938+00:00"
 }

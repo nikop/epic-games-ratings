@@ -1959,10 +1959,16 @@
       "Rating": 3.94,
       "NumberOfAwards": 2644,
       "NumberOfAwardsMax": 420
+    },
+    {
+      "Time": "2023-12-05T19:58:30.7925101+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 2648,
+      "NumberOfAwardsMax": 420
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2644,
+  "NumberOfAwards": 2648,
   "NumberOfAwardsMax": 420,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1970,7 +1976,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 372
+      "Count": 376
     },
     {
       "Text": "This game is Relaxing",
@@ -2039,8 +2045,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-12T17:58:51.2912831+00:00",
   "FirstSeenRating": "2023-10-13T14:59:17.6210713+00:00",
-  "LastChanged": "2023-12-05T06:58:24.0619534+00:00",
+  "LastChanged": "2023-12-05T19:58:30.79251+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:10.0869014+00:00",
-  "LastUpdate_Ratings": "2023-12-05T18:58:41.6449127+00:00",
-  "LastUpdate_Achievements": "2023-12-05T19:09:30.9852725+00:00"
+  "LastUpdate_Ratings": "2023-12-05T19:58:30.7925105+00:00",
+  "LastUpdate_Achievements": "2023-12-05T20:08:45.3395695+00:00"
 }

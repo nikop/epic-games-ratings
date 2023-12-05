@@ -30,22 +30,22 @@
 | Hidden Experiment | 16.00% | ~9 |
 | Haute Couture | 16.00% | ~9 |
 | Brilliant Executioner | 11.00% | ~6 |
+| Into the Lion's Den | 11.00% | ~6 |
+| Bold and Bossy | 9.00% | ~5 |
 | Sky High Fighter | 9.00% | ~5 |
-| Into the Lion's Den | 9.00% | ~5 |
-| Bold and Bossy | 7.00% | ~4 |
 | The Gang prevails | 7.00% | ~4 |
 | Out of the ring | 7.00% | ~4 |
 | King of the Iron Fist | 5.00% | ~3 |
 | No Mercy | 5.00% | ~3 |
 | Power of Friendship! | 4.00% | ~2 |
 | Five of Friends | 4.00% | ~2 |
+| Only Child | 4.00% | ~2 |
 | The Arsenal | 4.00% | ~2 |
+| Master of One | 4.00% | ~2 |
 | Sherwood Moment 37 | 2.00% | ~1 |
 | The Crowkiller | 2.00% | ~1 |
 | A Gest of Robyn Hode | 2.00% | ~1 |
 | Money can not buy happiness | 2.00% | ~1 |
-| Only Child | 2.00% | ~1 |
-| Master of One | 2.00% | ~1 |
 | Fashionista | 2.00% | ~1 |
 | Challenger | 0.00% | ~0 |
 | The Apprentice | 0.00% | ~0 |

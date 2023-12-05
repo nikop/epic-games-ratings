@@ -6,42 +6,42 @@ Number of Ratings: 3,099  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Delivering Is What I Do | 92.00% | ~504,589 |
-| Good Samaritan | 90.00% | ~493,619 |
-| Rebuilding America | 80.00% | ~438,773 |
-| Like and Be Liked | 77.00% | ~422,319 |
+| Delivering Is What I Do | 92.00% | ~504,590 |
+| Good Samaritan | 90.00% | ~493,620 |
+| Rebuilding America | 80.00% | ~438,774 |
+| Like and Be Liked | 77.00% | ~422,320 |
 | Apprentice Builder | 72.00% | ~394,896 |
-| A New Day for the UCA | 71.00% | ~389,411 |
-| A Baby Blessing | 65.00% | ~356,503 |
-| Prominent Porter | 65.00% | ~356,503 |
-| Building Bridges | 64.00% | ~351,018 |
-| Well Connected | 62.00% | ~340,049 |
-| The Custom Kid | 61.00% | ~334,564 |
-| Chiral Crafter | 59.00% | ~323,595 |
-| Boots Are a Porter's Best Friend | 59.00% | ~323,595 |
+| A New Day for the UCA | 71.00% | ~389,412 |
+| A Baby Blessing | 65.00% | ~356,504 |
+| Prominent Porter | 65.00% | ~356,504 |
+| Building Bridges | 64.00% | ~351,019 |
+| Well Connected | 62.00% | ~340,050 |
+| The Custom Kid | 61.00% | ~334,565 |
+| Chiral Crafter | 59.00% | ~323,596 |
+| Boots Are a Porter's Best Friend | 59.00% | ~323,596 |
 | The People's Porter | 57.00% | ~312,626 |
-| I Couldn't Hold it In! | 56.00% | ~307,141 |
-| Everyday Delivery | 52.00% | ~285,202 |
-| A Shout in the Dark | 50.00% | ~274,233 |
+| I Couldn't Hold it In! | 56.00% | ~307,142 |
+| Everyday Delivery | 52.00% | ~285,203 |
+| A Shout in the Dark | 50.00% | ~274,234 |
 | A Thirst for Knowledge | 48.00% | ~263,264 |
 | Snooze 'n' Soothe | 48.00% | ~263,264 |
-| Soothing Sounds | 46.00% | ~252,294 |
+| Soothing Sounds | 46.00% | ~252,295 |
 | We Need You | 45.00% | ~246,810 |
 | Catcher Crusher | 45.00% | ~246,810 |
 | Sleep Tight, Little BB | 44.00% | ~241,325 |
 | Giver of Gifts | 39.00% | ~213,902 |
 | All Roads Lead to the UCA | 39.00% | ~213,902 |
-| The Automation Revolution | 37.00% | ~202,932 |
-| Well-Traveled | 37.00% | ~202,932 |
+| The Automation Revolution | 37.00% | ~202,933 |
+| Well-Traveled | 37.00% | ~202,933 |
 | Pathfinder | 36.00% | ~197,448 |
 | I Won't Break | 33.00% | ~180,994 |
 | BB... | 32.00% | ~175,509 |
 | The World's Most Popular Porter | 30.00% | ~164,540 |
-| Pumped Porter | 28.00% | ~153,570 |
-| We're Whole Again | 28.00% | ~153,570 |
+| Pumped Porter | 28.00% | ~153,571 |
+| We're Whole Again | 28.00% | ~153,571 |
 | BBs: A Bridge Between This World and the One Beyond | 26.00% | ~142,601 |
 | "BB" | 26.00% | ~142,601 |
-| Soak and Sigh | 25.00% | ~137,116 |
+| Soak and Sigh | 25.00% | ~137,117 |
 | Deliveries Done | 24.00% | ~131,632 |
 | The Particle of God | 22.00% | ~120,663 |
 | Sixty Deaths and Sixty Births in a Day | 22.00% | ~120,663 |
@@ -70,7 +70,7 @@ Number of Ratings: 3,099  (23.09.2022)
 | Greatest of Great Deliverers | 0.40% | ~2,194 |
 | Homo Faber | 0.40% | ~2,194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 548,466 (Ranked 32)  
+Progressed: 548,467 (Ranked 32)  
 Completed: 2,158 (0.39%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,17 +299,17 @@ Completed: 2,158 (0.39%) (Ranked 225)
 | 2023-12-02 | 547,959 | 2,153 |
 | 2023-12-03 | 548,175 | 2,155 |
 | 2023-12-04 | 548,317 | 2,158 |
-| 2023-12-05 | 548,466 | 2,158 |
+| 2023-12-05 | 548,467 | 2,158 |
 ## Awards
 Max (Great Boss Battles): 8,836  (Ranked 41)  
-Sum: 15,236 (Ranked 69)  
+Sum: 15,237 (Ranked 69)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 8,836 |
 | This game is Great for Beginners | 655 |
 | This game has Amazing Storytelling | 621 |
-| This game has Diverse Characters | 614 |
+| This game has Diverse Characters | 615 |
 | This game has Amazing Characters | 596 |
 | This game is Highly Recommended | 592 |
 | This game is Extremely Fun | 584 |
@@ -645,4 +645,4 @@ Diff (max vs sum): -28
 | 2023-12-02 | 4.89 | - | 8,810 | 15,198 |
 | 2023-12-03 | 4.89 | - | 8,821 | 15,209 |
 | 2023-12-04 | 4.89 | - | 8,827 | 15,218 |
-| 2023-12-05 | 4.89 | - | 8,836 | 15,236 |
+| 2023-12-05 | 4.89 | - | 8,836 | 15,237 |

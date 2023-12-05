@@ -12,7 +12,7 @@
 | The Condor | 29.00% | ~149 |
 | The End | 29.00% | ~149 |
 | The Alliance | 23.00% | ~118 |
-| The Necroevolution | 22.00% | ~113 |
+| The Necroevolution | 23.00% | ~118 |
 | Krauta is alive | 21.00% | ~108 |
 | Peacemaker | 20.00% | ~103 |
 | Volcanologist | 19.00% | ~98 |
@@ -20,8 +20,8 @@
 | Evacuation | 15.00% | ~77 |
 | Beyond divisions | 15.00% | ~77 |
 | Fierce fight | 14.00% | ~72 |
+| Flying Objects Operator | 13.00% | ~67 |
 | I remember everything! | 12.00% | ~62 |
-| Flying Objects Operator | 12.00% | ~62 |
 | Another giant | 9.00% | ~46 |
 | Violent solution | 8.00% | ~41 |
 | Innate curiosity | 7.00% | ~36 |

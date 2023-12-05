@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 88.00% | ~465 |
-| Thalya – Simply Immortal | 88.00% | ~465 |
+| The Last Stand | 89.00% | ~470 |
+| Thalya – Simply Immortal | 89.00% | ~470 |
 | For the Horde! | 82.00% | ~433 |
 | Hammer Time, Round Two | 80.00% | ~422 |
 | The Hellwoods | 75.00% | ~396 |
 | The Plains of Strothalm | 71.00% | ~375 |
 | Experienced Thalya | 71.00% | ~375 |
 | Thalya's Concentrated Fury | 69.00% | ~364 |
-| Bad Elves Go Everywhere | 68.00% | ~359 |
+| Bad Elves Go Everywhere | 69.00% | ~364 |
 | Heroes’ Gorge | 65.00% | ~343 |
 | Master of Magic | 63.00% | ~333 |
 | Unicorn steaks – fresh off the hoof! | 61.00% | ~322 |
@@ -50,13 +50,13 @@
 | The Rune Sockets of Finitude (Part 1) | 18.00% | ~95 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~84 |
 | My Little Torture Chamber | 16.00% | ~84 |
+| The Rune Sockets of Finitude (Part 2) | 16.00% | ~84 |
 | Lavalumps on Ice! | 15.00% | ~79 |
 | Rubble and Ashes | 15.00% | ~79 |
-| The Rune Sockets of Finitude (Part 2) | 15.00% | ~79 |
 | The Last Stand - This Time For Real! | 14.00% | ~74 |
 | To Infinity And Beyond! | 13.00% | ~69 |
+| Mirror, Mirror | 12.00% | ~63 |
 | To the Max! | 12.00% | ~63 |
-| Mirror, Mirror | 11.00% | ~58 |
 | Untouchable | 11.00% | ~58 |
 | Evilification | 10.00% | ~53 |
 | Laser Eyes Are So Useless | 9.00% | ~48 |

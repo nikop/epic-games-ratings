@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 125,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1389,17 +1389,17 @@
       "ID": "ach_main01begin_completed",
       "SetID": "4hg22ll",
       "Name": "The Last Stand",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 470
     },
     {
       "ID": "ach_main01begin_die",
       "SetID": "4hg22ll",
       "Name": "Thalya\u00A0\u2013 Simply Immortal",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 465
+      "UsersEstimate": 470
     },
     {
       "ID": "ach_main01begin_storm",
@@ -1485,9 +1485,9 @@
       "ID": "ach_main05evil_completed",
       "SetID": "4hg22ll",
       "Name": "Bad Elves Go Everywhere",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 359
+      "UsersEstimate": 364
     },
     {
       "ID": "ach_main05evil_thalyalevel",
@@ -1717,9 +1717,9 @@
       "ID": "ach_main14run_mirroruses",
       "SetID": "4hg22ll",
       "Name": "Mirror, Mirror",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 63
     },
     {
       "ID": "ach_main14run_roomdamage",
@@ -1829,9 +1829,9 @@
       "ID": "ach_main19war_completed",
       "SetID": "4hg22ll",
       "Name": "The Rune Sockets of Finitude (Part 2)",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 84
     },
     {
       "ID": "ach_main19war_heal",
@@ -1884,8 +1884,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-05T19:08:55.7741564+00:00",
+  "LastChanged_Achievements": "2023-12-05T20:08:04.3453405+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:15.3424787+00:00",
-  "LastUpdate_Ratings": "2023-12-05T19:01:22.785463+00:00",
-  "LastUpdate_Achievements": "2023-12-05T19:08:55.7742119+00:00"
+  "LastUpdate_Ratings": "2023-12-05T20:00:23.7253465+00:00",
+  "LastUpdate_Achievements": "2023-12-05T20:08:04.3453863+00:00"
 }

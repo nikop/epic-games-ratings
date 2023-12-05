@@ -13,11 +13,11 @@ Rating: 4.53 (Ranked 542)
 | Celebrations are in Order | 7.00% | ~1,114 |
 | Impossible Objects | 7.00% | ~1,114 |
 | Zen Master | 7.00% | ~131 |
+| Stogie for Fogey | 6.00% | ~955 |
 | Spore Taste | 6.00% | ~955 |
 | Martian Music | 6.00% | ~955 |
 | Safe Cracker | 6.00% | ~112 |
 | Madame Undersecretary | 6.00% | ~112 |
-| Stogie for Fogey | 5.00% | ~796 |
 | Drug Gifter | 5.00% | ~796 |
 | Heal Thy Medic | 5.00% | ~796 |
 | Call it Even | 5.00% | ~796 |

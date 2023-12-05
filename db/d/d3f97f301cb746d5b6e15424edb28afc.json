@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -67,7 +67,7 @@
   "Tags": [],
   "EOS_Progressed": 1155,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2891,9 +2891,9 @@
       "ID": "ACH_WASHCAR_01",
       "SetID": "5fn8ia4",
       "Name": "Welcome to the Car Wash",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 566
     },
     {
       "ID": "ACH_WASHCAR_02",
@@ -3259,9 +3259,9 @@
       "ID": "GSS_ACH_45_ORDER_PRODUCTS",
       "SetID": "5fn8ia4",
       "Name": "Products Please!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 947
+      "UsersEstimate": 959
     },
     {
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
@@ -3491,9 +3491,9 @@
       "ID": "GSS_ACH_74_SANDSTORM",
       "SetID": "5fn8ia4",
       "Name": "Sandstorm!",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 589
+      "UsersEstimate": 601
     },
     {
       "ID": "GSS_ACH_75_RACE_02_COMPLETE",
@@ -3572,8 +3572,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-04T17:00:39.9868842+00:00",
-  "LastChanged_Achievements": "2023-12-05T19:03:53.9747554+00:00",
+  "LastChanged_Achievements": "2023-12-05T20:03:27.4432784+00:00",
   "LastUpdate_AppInfo": "2023-12-04T17:57:13.8571473+00:00",
-  "LastUpdate_Ratings": "2023-12-05T19:01:00.9867805+00:00",
-  "LastUpdate_Achievements": "2023-12-05T19:03:53.9749107+00:00"
+  "LastUpdate_Ratings": "2023-12-05T20:00:08.6441811+00:00",
+  "LastUpdate_Achievements": "2023-12-05T20:03:27.443363+00:00"
 }

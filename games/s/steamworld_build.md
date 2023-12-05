@@ -4,40 +4,40 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mathematic | 67.00% | ~10 |
-| Conducted Trade | 53.00% | ~8 |
-| It's Yours, My Friend | 53.00% | ~8 |
-| Digging a Hole | 47.00% | ~7 |
-| Gotta Go Fast | 27.00% | ~4 |
-| Aristocratic | 13.00% | ~2 |
-| Going Places | 13.00% | ~2 |
-| Real Purdy | 13.00% | ~2 |
-| Slotting Machine | 13.00% | ~2 |
-| Steaming Rich | 13.00% | ~2 |
-| Tutti Frutti | 13.00% | ~2 |
-| Whoa! | 13.00% | ~2 |
-| Botropolis | 7.00% | ~1 |
-| Manic Mechanic | 7.00% | ~1 |
-| Mine Sweeper | 7.00% | ~1 |
-| Roll Out | 7.00% | ~1 |
-| Room To Spare | 7.00% | ~1 |
-| Stack Overflow | 7.00% | ~1 |
-| Up, Up And Away! | 7.00% | ~1 |
+| Mathematic | 71.00% | ~12 |
+| Conducted Trade | 65.00% | ~11 |
+| It's Yours, My Friend | 65.00% | ~11 |
+| Digging a Hole | 53.00% | ~9 |
+| Gotta Go Fast | 29.00% | ~5 |
+| Going Places | 24.00% | ~4 |
+| Tutti Frutti | 24.00% | ~4 |
+| Aristocratic | 18.00% | ~3 |
+| Botropolis | 12.00% | ~2 |
+| Real Purdy | 12.00% | ~2 |
+| Roll Out | 12.00% | ~2 |
+| Slotting Machine | 12.00% | ~2 |
+| Steaming Rich | 12.00% | ~2 |
+| Whoa! | 12.00% | ~2 |
+| Dopa-Miner | 6.00% | ~1 |
+| Manic Mechanic | 6.00% | ~1 |
+| Mine Sweeper | 6.00% | ~1 |
+| Room To Spare | 6.00% | ~1 |
+| Stack Overflow | 6.00% | ~1 |
+| Steam Powered | 6.00% | ~1 |
+| Up, Up And Away! | 6.00% | ~1 |
 | Accustomed Customer | 0.00% | ~0 |
 | Click 'Em All | 0.00% | ~0 |
-| Dopa-Miner | 0.00% | ~0 |
 | I'm A Lumberbot | 0.00% | ~0 |
 | Interstellar Performance | 0.00% | ~0 |
 | Nothing But Road | 0.00% | ~0 |
-| Steam Powered | 0.00% | ~0 |
 | Systematic | 0.00% | ~0 |
 | Yup. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15 (Ranked 591)  
+Progressed: 17 (Ranked 581)  
 Completed: 0 (0.00%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-11-20 | 1 | 0 |
 | 2023-12-04 | 2 | 0 |
-| 2023-12-05 | 15 | 0 |
+| 2023-12-05 | 17 | 0 |

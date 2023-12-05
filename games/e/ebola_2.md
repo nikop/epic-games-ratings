@@ -9,12 +9,12 @@
 | Witch ✔ | 23.00% | ~68 |
 | Scent of Meat ✔ | 22.00% | ~65 |
 | Survival ✔ | 4.00% | ~12 |
+| Voodoo ✔ | 1.00% | ~3 |
 | Mask ✔ | 1.00% | ~3 |
 | Exterminate pests ✔ | 1.00% | ~3 |
 | Doctor ✔ | 1.00% | ~3 |
 | Guardian angel ✔ | 1.00% | ~3 |
 | Master of Unlocking ✔ | 1.00% | ~3 |
-| Voodoo ✔ | 0.70% | ~2 |
 | Light will show the truth ✔ | 0.70% | ~2 |
 | Recruit ✔ | 0.70% | ~2 |
 | Saved the planet ✔ | 0.70% | ~2 |

@@ -6,7 +6,7 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Matching | 1.00% | ~21 |
+| Matching | 1.00% | ~22 |
 | First Steps | 0.70% | ~1,685 |
 | Uncharted Territory | 0.60% | ~1,444 |
 | Not Touching You | 0.60% | ~13 |
@@ -42,6 +42,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Sneaky | 0.40% | ~963 |
 | Shadow Walker | 0.40% | ~963 |
 | Flesh Wound | 0.40% | ~963 |
+| Shapeshifting | 0.40% | ~963 |
 | Expensive Look | 0.40% | ~9 |
 | What Doesn't Kill You | 0.40% | ~9 |
 | Consecutive Curses | 0.30% | ~722 |
@@ -59,7 +60,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Spreading Plague | 0.30% | ~722 |
 | Acid Bath | 0.30% | ~722 |
 | New Perspectives | 0.30% | ~722 |
-| Shapeshifting | 0.30% | ~722 |
 | Who Needs Luck? | 0.30% | ~6 |
 | Thank You, Friend | 0.20% | ~481 |
 | Achievement Hunter | 0.20% | ~481 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,667 (Ranked 64)  
+Progressed: 240,670 (Ranked 64)  
 Completed: 292 (0.12%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -374,7 +374,7 @@ Completed: 292 (0.12%) (Ranked 282)
 | 2023-12-02 | 240,522 | 291 |
 | 2023-12-03 | 240,591 | 292 |
 | 2023-12-04 | 240,628 | 292 |
-| 2023-12-05 | 240,667 | 292 |
+| 2023-12-05 | 240,670 | 292 |
 ## Awards
 Max (Quickly Understood Controls): 1,505  (Ranked 133)  
 Sum: 11,710 (Ranked 84)  
