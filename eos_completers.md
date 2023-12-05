@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 24.02% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 24.01% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -136,7 +136,7 @@
 | 134 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.82% |
 | 135 | [Sifu](games/s/sifu.md) | 1.80% |
 | 136 | [Frogun](games/f/frogun.md) | 1.78% |
-| 137 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.76% |
+| 137 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.77% |
 | 138 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.75% |
 | 139 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.63% |
 | 140 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
@@ -231,10 +231,10 @@
 | 229 | [The Surge](games/t/the_surge.md) | 0.37% |
 | 230 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.35% |
 | 230 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
-| 230 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.35% |
 | 230 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.35% |
-| 234 | [Dead Island 2](games/d/dead_island_2.md) | 0.34% |
-| 234 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.34% |
+| 233 | [Dead Island 2](games/d/dead_island_2.md) | 0.34% |
+| 233 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.34% |
+| 233 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.34% |
 | 236 | [Them and Us](games/t/them_and_us.md) | 0.32% |
 | 237 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.31% |
 | 237 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
@@ -329,13 +329,13 @@
 | 320 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.05% |
 | 328 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.04% |
 | 328 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.04% |
-| 330 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.03% |
-| 330 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
-| 330 | [Old World](games/o/old_world.md) | 0.03% |
-| 330 | [Saturnalia](games/s/saturnalia.md) | 0.03% |
-| 330 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 0.03% |
-| 330 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 0.03% |
-| 330 | [Tropico 6](games/t/tropico_6.md) | 0.03% |
+| 328 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 0.04% |
+| 331 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.03% |
+| 331 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
+| 331 | [Old World](games/o/old_world.md) | 0.03% |
+| 331 | [Saturnalia](games/s/saturnalia.md) | 0.03% |
+| 331 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 0.03% |
+| 331 | [Tropico 6](games/t/tropico_6.md) | 0.03% |
 | 337 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
 | 337 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 0.02% |
 | 337 | [Arcadegeddon](games/a/arcadegeddon.md) | 0.02% |
@@ -345,28 +345,28 @@
 | 337 | [Good Company](games/g/good_company.md) | 0.02% |
 | 337 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
 | 337 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
-| 346 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
-| 346 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
-| 346 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 0.01% |
-| 346 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
-| 346 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.01% |
-| 346 | [Forspoken](games/f/forspoken.md) | 0.01% |
-| 346 | [Godlike Burger](games/g/godlike_burger.md) | 0.01% |
-| 346 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 0.01% |
-| 346 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 0.01% |
-| 346 | [Prison Architect](games/p/prison_architect.md) | 0.01% |
-| 346 | [Rocket League®](games/r/rocket_league®.md) | 0.01% |
-| 346 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 0.01% |
-| 346 | [Severed Steel](games/s/severed_steel.md) | 0.01% |
-| 346 | [STAR WARS™: Squadrons](games/s/star_wars™__squadrons.md) | 0.01% |
-| 346 | [Sunless Sea](games/s/sunless_sea.md) | 0.01% |
-| 346 | [The Alto Collection](games/t/the_alto_collection.md) | 0.01% |
-| 346 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 0.01% |
-| 346 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 0.01% |
-| 346 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
-| 346 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 0.01% |
-| 346 | [Train Valley 2](games/t/train_valley_2.md) | 0.01% |
-| 346 | [Verdun](games/v/verdun.md) | 0.01% |
+| 337 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 0.02% |
+| 347 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
+| 347 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
+| 347 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 0.01% |
+| 347 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
+| 347 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.01% |
+| 347 | [Forspoken](games/f/forspoken.md) | 0.01% |
+| 347 | [Godlike Burger](games/g/godlike_burger.md) | 0.01% |
+| 347 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 0.01% |
+| 347 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 0.01% |
+| 347 | [Prison Architect](games/p/prison_architect.md) | 0.01% |
+| 347 | [Rocket League®](games/r/rocket_league®.md) | 0.01% |
+| 347 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 0.01% |
+| 347 | [Severed Steel](games/s/severed_steel.md) | 0.01% |
+| 347 | [STAR WARS™: Squadrons](games/s/star_wars™__squadrons.md) | 0.01% |
+| 347 | [Sunless Sea](games/s/sunless_sea.md) | 0.01% |
+| 347 | [The Alto Collection](games/t/the_alto_collection.md) | 0.01% |
+| 347 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 0.01% |
+| 347 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
+| 347 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 0.01% |
+| 347 | [Train Valley 2](games/t/train_valley_2.md) | 0.01% |
+| 347 | [Verdun](games/v/verdun.md) | 0.01% |
 | 368 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 0.00% |
 | 368 | [12 orbits](games/1/12_orbits.md) | 0.00% |
 | 368 | [1428: Shadows over Silesia](games/4/4bd54a4fed074c488e0bb7428f29d2f4.md) | 0.00% |
@@ -764,6 +764,7 @@
 | 368 | [War Mongrels](games/w/war_mongrels.md) | 0.00% |
 | 368 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 0.00% |
 | 368 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 0.00% |
+| 368 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 0.00% |
 | 368 | [Watch Over Christmas](games/2/263f654a1236484397892332888256aa.md) | 0.00% |
 | 368 | [We Are OFK](games/w/we_are_ofk.md) | 0.00% |
 | 368 | [What The Duck](games/0/087e76c9e4ba4fc8bacc75b794cc27b2.md) | 0.00% |
