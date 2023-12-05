@@ -2,10 +2,10 @@
   "ID": "aec7faa00f9c406bb5427f0e0e0706ba",
   "Name": "Silent Hunter 3 Standard Edition",
   "ProductSlug": "silent-hunter-3",
-  "Ranking_EOS_Progress": 781,
+  "Ranking_EOS_Progress": 783,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-10-13T15:30:00+00:00",
     "PcReleaseDate": null,
@@ -32,6 +32,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-16T18:58:43.0935666+00:00",
   "LastUpdate_AppInfo": "2023-12-01T19:57:18.5101696+00:00",
-  "LastUpdate_Ratings": "2023-12-05T17:57:36.3600313+00:00",
-  "LastUpdate_Achievements": "2023-12-05T18:08:57.6620486+00:00"
+  "LastUpdate_Ratings": "2023-12-05T18:57:48.9951472+00:00",
+  "LastUpdate_Achievements": "2023-12-05T19:09:43.773678+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "45af1465cda34fa2ba13ba42cec4ce76",
   "Name": "Wizordum",
   "ProductSlug": "wizordum-55a7c8",
-  "Ranking_EOS_Progress": 781,
+  "Ranking_EOS_Progress": 783,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-04T20:57:12.7843037+00:00",
-  "LastUpdate_Ratings": "2023-12-05T18:02:43.2029767+00:00",
-  "LastUpdate_Achievements": "2023-12-05T18:07:56.9473147+00:00"
+  "LastUpdate_Ratings": "2023-12-05T19:02:33.620541+00:00",
+  "LastUpdate_Achievements": "2023-12-05T19:08:08.061508+00:00"
 }

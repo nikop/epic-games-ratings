@@ -15,17 +15,18 @@ Rating: 4.75 (Ranked 147)
 | Quest for Survival | 0.50% | ~1,177 |
 | Familiar Face | 0.50% | ~1,177 |
 | Boss'n Up | 0.50% | ~1,177 |
-| Am I Seeing This? | 0.40% | ~941 |
-| Not So Special Now | 0.40% | ~941 |
-| Not a Janitor | 0.40% | ~941 |
-| Equal Measures | 0.40% | ~941 |
-| Blue Goddess | 0.40% | ~941 |
-| Duality | 0.40% | ~941 |
-| Top Performer | 0.40% | ~941 |
-| Almost There | 0.40% | ~941 |
-| Make Some Room | 0.40% | ~941 |
-| Good, But Could Be Better! | 0.40% | ~941 |
-| Trait Chaser | 0.40% | ~941 |
+| Am I Seeing This? | 0.40% | ~942 |
+| Not So Special Now | 0.40% | ~942 |
+| Not a Janitor | 0.40% | ~942 |
+| Equal Measures | 0.40% | ~942 |
+| Blue Goddess | 0.40% | ~942 |
+| Duality | 0.40% | ~942 |
+| Top Performer | 0.40% | ~942 |
+| Shhh...It's a Secret | 0.40% | ~942 |
+| Almost There | 0.40% | ~942 |
+| Make Some Room | 0.40% | ~942 |
+| Good, But Could Be Better! | 0.40% | ~942 |
+| Trait Chaser | 0.40% | ~942 |
 | Ghost in the Machine | 0.30% | ~706 |
 | Chaos | 0.30% | ~706 |
 | Traitor | 0.30% | ~706 |
@@ -34,7 +35,6 @@ Rating: 4.75 (Ranked 147)
 | The God Gambit | 0.30% | ~706 |
 | Dark Designs | 0.30% | ~706 |
 | Madman's Paradise | 0.30% | ~706 |
-| Shhh...It's a Secret | 0.30% | ~706 |
 | Was This Supposed To Happen? | 0.30% | ~706 |
 | Strapped | 0.30% | ~706 |
 | Edgelord | 0.30% | ~706 |
@@ -61,8 +61,8 @@ Rating: 4.75 (Ranked 147)
 | You Shall Pass | 0.20% | ~29 |
 | A Foul Feast | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,368 (Ranked 68)  
-Completed: 558 (0.24%) (Ranked 251)  
+Progressed: 235,396 (Ranked 68)  
+Completed: 559 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -203,7 +203,7 @@ Completed: 558 (0.24%) (Ranked 251)
 | 2023-12-02 | 233,162 | 548 |
 | 2023-12-03 | 234,204 | 554 |
 | 2023-12-04 | 234,896 | 558 |
-| 2023-12-05 | 235,368 | 558 |
+| 2023-12-05 | 235,396 | 559 |
 ## Awards
 Max (Great Boss Battles): 2,623  (Ranked 102)  
 Sum: 6,509 (Ranked 128)  

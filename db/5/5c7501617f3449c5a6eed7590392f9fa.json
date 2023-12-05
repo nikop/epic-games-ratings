@@ -2,10 +2,10 @@
   "ID": "5c7501617f3449c5a6eed7590392f9fa",
   "Name": "Botanicula",
   "ProductSlug": "botanicula-50043d",
-  "Ranking_EOS_Progress": 596,
+  "Ranking_EOS_Progress": 597,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2012-04-19T11:00:00+00:00",
@@ -160,17 +160,17 @@
       "ID": "Ach-02-dzin",
       "SetID": "2pjo9pi",
       "Name": "Dzin",
-      "Percentage": 64,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Ach-02-hopik",
       "SetID": "2pjo9pi",
       "Name": "Hopik",
-      "Percentage": 36,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Ach-02-nosal",
@@ -184,9 +184,9 @@
       "ID": "Ach-02-orchestrion",
       "SetID": "2pjo9pi",
       "Name": "Orchestrion",
-      "Percentage": 64,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Ach-02-parazit",
@@ -208,9 +208,9 @@
       "ID": "Ach-02-tykvovec",
       "SetID": "2pjo9pi",
       "Name": "Tykvovec",
-      "Percentage": 71,
+      "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Ach-02-zlo",
@@ -296,9 +296,9 @@
       "ID": "Ach-04-mesto",
       "SetID": "2pjo9pi",
       "Name": "Mesto",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Ach-04-mura",
@@ -352,9 +352,9 @@
       "ID": "Ach-04-zloB",
       "SetID": "2pjo9pi",
       "Name": "Zlo B",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Ach-05-burak",
@@ -376,9 +376,9 @@
       "ID": "Ach-05-hlavouni",
       "SetID": "2pjo9pi",
       "Name": "Hlavouni",
-      "Percentage": 21,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach-05-hrouda",
@@ -496,9 +496,9 @@
       "ID": "Ach-level-4",
       "SetID": "2pjo9pi",
       "Name": "Level 4",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Ach-level-5",
@@ -535,8 +535,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2023-12-05T18:04:13.4944101+00:00",
+  "LastChanged_Achievements": "2023-12-05T19:04:48.5319074+00:00",
   "LastUpdate_AppInfo": "2023-11-29T17:57:14.0575446+00:00",
-  "LastUpdate_Ratings": "2023-12-05T18:02:28.0693491+00:00",
-  "LastUpdate_Achievements": "2023-12-05T18:04:13.4944483+00:00"
+  "LastUpdate_Ratings": "2023-12-05T19:01:34.8210776+00:00",
+  "LastUpdate_Achievements": "2023-12-05T19:04:48.5319398+00:00"
 }

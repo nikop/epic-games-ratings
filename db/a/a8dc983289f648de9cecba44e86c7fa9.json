@@ -2,10 +2,10 @@
   "ID": "a8dc983289f648de9cecba44e86c7fa9",
   "Name": "Strike Force 3",
   "ProductSlug": "strike-force-3-f567f1",
-  "Ranking_EOS_Progress": 781,
+  "Ranking_EOS_Progress": 783,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-09-06T23:00:00+00:00",
     "PcReleaseDate": "2023-09-06T23:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-18T22:09:37.3171275+00:00",
   "LastUpdate_AppInfo": "2023-11-30T02:19:27.0612334+00:00",
-  "LastUpdate_Ratings": "2023-12-05T18:02:30.5085657+00:00",
-  "LastUpdate_Achievements": "2023-12-05T18:05:01.5682297+00:00"
+  "LastUpdate_Ratings": "2023-12-05T19:01:38.0484885+00:00",
+  "LastUpdate_Achievements": "2023-12-05T19:05:46.8064151+00:00"
 }

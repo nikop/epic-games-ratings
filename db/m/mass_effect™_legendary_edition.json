@@ -4,8 +4,8 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1508,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -5137,9 +5137,9 @@
       "ID": "achievement_73",
       "SetID": "d252ncf",
       "Name": "Scholar",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 603
+      "UsersEstimate": 618
     },
     {
       "ID": "achievement_74",
@@ -5297,9 +5297,9 @@
       "ID": "achievement_91",
       "SetID": "d252ncf",
       "Name": "Well Connected",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 317
     },
     {
       "ID": "achievement_92",
@@ -5381,8 +5381,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-05T18:09:03.9732929+00:00",
+  "LastChanged_Achievements": "2023-12-05T19:09:51.2183476+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:17.762066+00:00",
-  "LastUpdate_Ratings": "2023-12-05T18:03:14.8143194+00:00",
-  "LastUpdate_Achievements": "2023-12-05T18:09:03.973447+00:00"
+  "LastUpdate_Ratings": "2023-12-05T19:03:33.8337417+00:00",
+  "LastUpdate_Achievements": "2023-12-05T19:09:51.2185727+00:00"
 }

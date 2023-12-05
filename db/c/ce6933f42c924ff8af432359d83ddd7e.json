@@ -4,8 +4,8 @@
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
     "PcReleaseDate": "2023-04-26T16:00:00+00:00",
@@ -2722,9 +2722,9 @@
       "ID": "ACH_RADIO_TAPES",
       "SetID": "6f5dahd",
       "Name": "Good listener",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 85,
-      "UsersEstimate": 720
+      "UsersEstimate": 732
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -2761,8 +2761,8 @@
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-12-05T18:09:10.6834605+00:00",
+  "LastChanged_Achievements": "2023-12-05T19:09:59.4822447+00:00",
   "LastUpdate_AppInfo": "2023-12-01T16:57:04.0623116+00:00",
-  "LastUpdate_Ratings": "2023-12-05T17:58:51.5152857+00:00",
-  "LastUpdate_Achievements": "2023-12-05T18:09:10.6834868+00:00"
+  "LastUpdate_Ratings": "2023-12-05T18:59:24.3938543+00:00",
+  "LastUpdate_Achievements": "2023-12-05T19:09:59.4822635+00:00"
 }

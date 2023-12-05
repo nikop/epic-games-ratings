@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 115)
 Number of Ratings: 315  (23.09.2022)  
 ## Awards
 Max (Extremely Fun): 37  (Ranked 474)  
-Sum: 319 (Ranked 362)  
+Sum: 320 (Ranked 362)  
 Diff (max vs sum): 112  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): 112
 | This game is Highly Recommended | 31 |
 | This game is Educational | 30 |
 | This game has Diverse Characters | 30 |
-| This game is Great for Beginners | 28 |
+| This game is Great for Beginners | 29 |
 | This game has Easy Combat | 26 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -178,4 +178,4 @@ Diff (max vs sum): 112
 | 2023-12-01 | 4.77 | - | 37 | 315 |
 | 2023-12-02 | 4.77 | - | 37 | 316 |
 | 2023-12-04 | 4.77 | - | 37 | 317 |
-| 2023-12-05 | 4.77 | - | 37 | 319 |
+| 2023-12-05 | 4.77 | - | 37 | 320 |

@@ -52,12 +52,12 @@ Rating: 3.45 (Ranked 1,051)
 | Bob’s Final Hour | 0.30% | ~5 |
 | Good Samaritan | 0.30% | ~5 |
 | Friendgineering | 0.20% | ~4 |
+| Empty Nest Syndrome | 0.20% | ~4 |
 | Enemy of My Enemy | 0.20% | ~4 |
 | Scream Team | 0.10% | ~2 |
 | Monster Hunters Club | 0.10% | ~2 |
 | Blood Brother | 0.10% | ~2 |
 | Faith Healer | 0.10% | ~2 |
-| Empty Nest Syndrome | 0.10% | ~2 |
 | Someplace to Be | 0.10% | ~2 |
 | Sepsis | 0.10% | ~2 |
 | Deforestation | 0.00% | ~0 |

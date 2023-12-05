@@ -2,10 +2,10 @@
   "ID": "8fadfa9306b34fc1879d2c3bf2a3dd8c",
   "Name": "Zorya: The Celestial Sisters",
   "ProductSlug": "zorya-the-celestial-sisters",
-  "Ranking_EOS_Progress": 781,
+  "Ranking_EOS_Progress": 783,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-02-08T08:00:00+00:00",
     "PcReleaseDate": "2022-02-08T08:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:51.786956+00:00",
   "LastChanged": "2023-03-31T05:57:51.7869561+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:11.7135635+00:00",
-  "LastUpdate_Ratings": "2023-12-05T17:58:45.8052407+00:00",
-  "LastUpdate_Achievements": "2023-12-05T18:04:10.9436885+00:00"
+  "LastUpdate_Ratings": "2023-12-05T18:59:17.1676711+00:00",
+  "LastUpdate_Achievements": "2023-12-05T19:04:45.3982033+00:00"
 }

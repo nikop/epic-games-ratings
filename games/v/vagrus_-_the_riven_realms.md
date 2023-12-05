@@ -27,6 +27,7 @@
 | Merchant | 5.00% | ~10 |
 | Quartermaster | 4.00% | ~8 |
 | The Voice of Hereafter | 4.00% | ~8 |
+| Despised | 4.00% | ~8 |
 | Been There | 4.00% | ~8 |
 | Spiritual Journey | 4.00% | ~8 |
 | Trouble at Fort Larius | 4.00% | ~8 |
@@ -34,7 +35,6 @@
 | Bounty Hunter | 3.00% | ~6 |
 | Potential Unlocked | 3.00% | ~6 |
 | Xevarian Gambit | 3.00% | ~6 |
-| Despised | 3.00% | ~6 |
 | A Terrible Will | 3.00% | ~6 |
 | Life... Finds a Way | 3.00% | ~6 |
 | Inquisitions of Discord | 3.00% | ~6 |

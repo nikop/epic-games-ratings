@@ -2,10 +2,10 @@
   "ID": "2b1429d7bc074d2b8ff0a998f39915e8",
   "Name": "Hold On",
   "ProductSlug": "hold-on-5b3f45",
-  "Ranking_EOS_Progress": 781,
+  "Ranking_EOS_Progress": 783,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-02T22:59:17.3793329+00:00",
-  "LastUpdate_Ratings": "2023-12-05T18:03:13.8170258+00:00",
-  "LastUpdate_Achievements": "2023-12-05T18:08:46.4606554+00:00"
+  "LastUpdate_Ratings": "2023-12-05T19:03:32.5703297+00:00",
+  "LastUpdate_Achievements": "2023-12-05T19:09:29.3273411+00:00"
 }

@@ -36,8 +36,8 @@ Rating: 4.57 (Ranked 479)
 | Defender | 18.00% | ~11 |
 | Fence | 18.00% | ~11 |
 | Showdown | 16.00% | ~10 |
+| Freedom fighter | 15.00% | ~9 |
 | Master thief | 15.00% | ~9 |
-| Freedom fighter | 13.00% | ~8 |
 | Safecracker | 13.00% | ~8 |
 | Titan Lord | 11.00% | ~7 |
 | Moneybags | 10.00% | ~6 |
@@ -49,9 +49,9 @@ Rating: 4.57 (Ranked 479)
 | King Midas | 7.00% | ~4 |
 | Rune master | 5.00% | ~3 |
 | Big game hunter | 3.00% | ~2 |
+| Mage | 3.00% | ~2 |
 | Sharpshooter | 3.00% | ~2 |
 | Jester | 3.00% | ~2 |
-| Mage | 2.00% | ~1 |
 | Gladiator | 2.00% | ~1 |
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |

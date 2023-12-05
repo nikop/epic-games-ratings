@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Shard | 81.00% | ~264 |
+| First Shard | 81.00% | ~265 |
 | Found the Healer | 34.00% | ~111 |
 | Second Shard | 9.00% | ~29 |
 | Champion of Kalevala | 7.00% | ~23 |
@@ -28,8 +28,8 @@
 | Trolled | 1.00% | ~3 |
 | Troll Hunter | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 326 (Ranked 350)  
-Completed: 4 (1.23%) (Ranked 159)  
+Progressed: 327 (Ranked 350)  
+Completed: 4 (1.22%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -136,7 +136,7 @@ Completed: 4 (1.23%) (Ranked 159)
 | 2023-11-28 | 322 | 4 |
 | 2023-11-29 | 323 | 4 |
 | 2023-12-01 | 324 | 4 |
-| 2023-12-05 | 326 | 4 |
+| 2023-12-05 | 327 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

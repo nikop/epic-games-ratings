@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 509,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
     "PcReleaseDate": "2022-10-27T11:00:00+00:00",
@@ -294,17 +294,17 @@
       "ID": "ACH_06_CAT_RESCUE",
       "SetID": "9loam6m",
       "Name": "Cat rescue",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_07_TRUST_GAIN",
       "SetID": "9loam6m",
       "Name": "Trust-gaining exercise",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_08_WESTERN_RANCH",
@@ -597,8 +597,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-12-05T18:06:41.4308329+00:00",
+  "LastChanged_Achievements": "2023-12-05T19:07:49.7275501+00:00",
   "LastUpdate_AppInfo": "2023-11-30T02:19:30.3024246+00:00",
-  "LastUpdate_Ratings": "2023-12-05T17:57:59.3268977+00:00",
-  "LastUpdate_Achievements": "2023-12-05T18:06:41.4308614+00:00"
+  "LastUpdate_Ratings": "2023-12-05T18:58:17.0297839+00:00",
+  "LastUpdate_Achievements": "2023-12-05T19:07:49.727576+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -109,9 +109,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 746,
+  "EOS_Progressed": 747,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1804,6 +1804,11 @@
       "Time": "2023-12-05T10:09:23.164317+00:00",
       "NumProgressed": 746,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-05T19:10:27.6941491+00:00",
+      "NumProgressed": 747,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1832,7 +1837,7 @@
       "Name": "Gravel Guru",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "achievement_12",
@@ -1880,7 +1885,7 @@
       "Name": "Your first time?",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "achievement_18",
@@ -1904,7 +1909,7 @@
       "Name": "Team Principal",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "achievement_20",
@@ -2006,9 +2011,9 @@
       "ID": "achievement_8",
       "SetID": "jnappp",
       "Name": "Ghost Buster",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_9",
@@ -2023,7 +2028,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 746,
+      "Progressed": 747,
       "Completed": 0
     }
   ],
@@ -2031,8 +2036,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-12-05T09:00:57.3990925+00:00",
-  "LastChanged_Achievements": "2023-12-05T18:09:34.3751833+00:00",
+  "LastChanged_Achievements": "2023-12-05T19:10:27.6941486+00:00",
   "LastUpdate_AppInfo": "2023-11-28T21:56:52.2952246+00:00",
-  "LastUpdate_Ratings": "2023-12-05T18:00:13.6647531+00:00",
-  "LastUpdate_Achievements": "2023-12-05T18:09:34.3752071+00:00"
+  "LastUpdate_Ratings": "2023-12-05T19:01:06.0266737+00:00",
+  "LastUpdate_Achievements": "2023-12-05T19:10:27.6941726+00:00"
 }

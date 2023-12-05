@@ -14,12 +14,12 @@
 | A hidden snake | 31.00% | ~11 |
 | Blood and sand | 31.00% | ~11 |
 | Vene, vidi, vici | 25.00% | ~9 |
+| Crimson rivers | 22.00% | ~8 |
 | Surpass the teacher | 22.00% | ~8 |
+| Help of the Gell | 22.00% | ~8 |
 | She-Wolf | 22.00% | ~8 |
-| Crimson rivers | 19.00% | ~7 |
-| Help of the Gell | 19.00% | ~7 |
-| Berkanan Borgia | 17.00% | ~6 |
-| Power of Inquisition | 17.00% | ~6 |
+| Berkanan Borgia | 19.00% | ~7 |
+| Power of Inquisition | 19.00% | ~7 |
 | The champion of the arena | 17.00% | ~6 |
 | Rage | 14.00% | ~5 |
 | Protect the Healer! | 14.00% | ~5 |

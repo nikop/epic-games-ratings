@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11467,10 +11467,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 49971,
       "NumberOfAwardsMax": 24947
+    },
+    {
+      "Time": "2023-12-05T19:00:54.93303+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 49972,
+      "NumberOfAwardsMax": 24947
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49971,
+  "NumberOfAwards": 49972,
   "NumberOfAwardsMax": 24947,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11496,7 +11502,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1259
+      "Count": 1260
     },
     {
       "Text": "This game is Great for Beginners",
@@ -11547,9 +11553,9 @@
       "Count": 837
     }
   ],
-  "EOS_Progressed": 303966,
+  "EOS_Progressed": 303969,
   "EOS_Completed": 521,
-  "EOS_NewPlayers": 483,
+  "EOS_NewPlayers": 484,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36202,6 +36208,11 @@
       "Time": "2023-12-05T18:09:36.6100431+00:00",
       "NumProgressed": 303966,
       "NumCompleted": 521
+    },
+    {
+      "Time": "2023-12-05T19:10:30.4183697+00:00",
+      "NumProgressed": 303969,
+      "NumCompleted": 521
     }
   ],
   "TotalAchievements": 45,
@@ -36221,7 +36232,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33436
+      "UsersEstimate": 33437
     },
     {
       "ID": "PFA_11",
@@ -36229,7 +36240,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33436
+      "UsersEstimate": 33437
     },
     {
       "ID": "PFA_12",
@@ -36245,7 +36256,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 33436
+      "UsersEstimate": 33437
     },
     {
       "ID": "PFA_14",
@@ -36261,7 +36272,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24317
+      "UsersEstimate": 24318
     },
     {
       "ID": "PFA_16",
@@ -36277,7 +36288,7 @@
       "Name": "Beast Friends",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24317
+      "UsersEstimate": 24318
     },
     {
       "ID": "PFA_18",
@@ -36293,7 +36304,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 24317
+      "UsersEstimate": 24318
     },
     {
       "ID": "PFA_2",
@@ -36317,7 +36328,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33436
+      "UsersEstimate": 33437
     },
     {
       "ID": "PFA_22",
@@ -36469,7 +36480,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33436
+      "UsersEstimate": 33437
     },
     {
       "ID": "PFA_4",
@@ -36549,7 +36560,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42555
+      "UsersEstimate": 42556
     },
     {
       "ID": "PFA_8",
@@ -36572,16 +36583,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303966,
+      "Progressed": 303969,
       "Completed": 521
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-12-05T18:00:04.74613+00:00",
-  "LastChanged_Achievements": "2023-12-05T18:09:36.6100428+00:00",
+  "LastChanged": "2023-12-05T19:00:54.9330298+00:00",
+  "LastChanged_Achievements": "2023-12-05T19:10:30.4183694+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-05T18:00:04.7461313+00:00",
-  "LastUpdate_Achievements": "2023-12-05T18:09:36.6102232+00:00"
+  "LastUpdate_Ratings": "2023-12-05T19:00:54.9330304+00:00",
+  "LastUpdate_Achievements": "2023-12-05T19:10:30.4184821+00:00"
 }

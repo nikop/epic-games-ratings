@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -2915,9 +2915,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1016
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -3163,9 +3163,9 @@
       "ID": "GSS_ACH_33_FLY",
       "SetID": "5fn8ia4",
       "Name": "Fly Like an Eagle",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 81
     },
     {
       "ID": "GSS_ACH_34_FLYING_CARS",
@@ -3331,9 +3331,9 @@
       "ID": "GSS_ACH_54_UPGRADE_WORKSHOP_04",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 4",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 254
+      "UsersEstimate": 266
     },
     {
       "ID": "GSS_ACH_55_UPGRADE_WORKSHOP_05",
@@ -3483,9 +3483,9 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1016
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -3572,8 +3572,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-04T17:00:39.9868842+00:00",
-  "LastChanged_Achievements": "2023-12-05T18:03:29.20971+00:00",
+  "LastChanged_Achievements": "2023-12-05T19:03:53.9747554+00:00",
   "LastUpdate_AppInfo": "2023-12-04T17:57:13.8571473+00:00",
-  "LastUpdate_Ratings": "2023-12-05T18:00:09.6724394+00:00",
-  "LastUpdate_Achievements": "2023-12-05T18:03:29.2098003+00:00"
+  "LastUpdate_Ratings": "2023-12-05T19:01:00.9867805+00:00",
+  "LastUpdate_Achievements": "2023-12-05T19:03:53.9749107+00:00"
 }

@@ -1,7 +1,7 @@
 # Fangs
 [Store](https://store.epicgames.com/en-US/p/fangs)  
 [View Rawdata](../../db/f/fangs.json)  
-Rating: 4.13 (Ranked 964)  
+Rating: 4.15 (Ranked 949)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -24,3 +24,4 @@ Rating: 4.13 (Ranked 964)
 | 2023-03-31 | 4.09 | 0 | 0 |
 | 2023-10-25 | 4.11 | 0 | 0 |
 | 2023-11-15 | 4.13 | 0 | 0 |
+| 2023-12-05 | 4.15 | 0 | 0 |

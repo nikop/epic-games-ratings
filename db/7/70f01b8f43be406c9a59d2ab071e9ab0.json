@@ -2,10 +2,10 @@
   "ID": "70f01b8f43be406c9a59d2ab071e9ab0",
   "Name": "Tank Battle 1944",
   "ProductSlug": "tank-battle-1944-f7e87a",
-  "Ranking_EOS_Progress": 781,
+  "Ranking_EOS_Progress": 783,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-08-14T14:00:00+00:00",
     "PcReleaseDate": "2016-03-01T12:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-23T03:58:12.2049119+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:11.6416782+00:00",
-  "LastUpdate_Ratings": "2023-12-05T17:58:36.8651503+00:00",
-  "LastUpdate_Achievements": "2023-12-05T18:06:03.6281357+00:00"
+  "LastUpdate_Ratings": "2023-12-05T18:59:05.132477+00:00",
+  "LastUpdate_Achievements": "2023-12-05T19:07:03.8896349+00:00"
 }

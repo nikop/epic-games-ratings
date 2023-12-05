@@ -35,7 +35,7 @@
 | The Fire Cannons | 0.00% | ~0 |
 | The Flying Octopus | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12 (Ranked 605)  
+Progressed: 12 (Ranked 606)  
 Completed: 0 (0.00%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |

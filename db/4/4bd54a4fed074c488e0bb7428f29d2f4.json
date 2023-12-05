@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 580,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2022-10-04T11:00:00+00:00",
@@ -221,17 +221,17 @@
       "ID": "SOS_EVERYBODYS_DEAD",
       "SetID": "6ci4lm2",
       "Name": "Everybody\u0027s dead, Dave",
-      "Percentage": 18,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SOS_EVIL_CODE",
       "SetID": "6ci4lm2",
       "Name": "Evil code",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SOS_EVIL_DEAD",
@@ -277,9 +277,9 @@
       "ID": "SOS_FOR_GLORY_OF_GOD",
       "SetID": "6ci4lm2",
       "Name": "For the glory of God",
-      "Percentage": 12,
+      "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SOS_GHOSTS",
@@ -357,9 +357,9 @@
       "ID": "SOS_ITS_TRAP",
       "SetID": "6ci4lm2",
       "Name": "It\u0027s a trap!",
-      "Percentage": 18,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SOS_LASTBATTLE",
@@ -381,9 +381,9 @@
       "ID": "SOS_LAST_MINUTE",
       "SetID": "6ci4lm2",
       "Name": "Welcome home",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SOS_LEGACY",
@@ -405,9 +405,9 @@
       "ID": "SOS_MARATHON_RUNNER",
       "SetID": "6ci4lm2",
       "Name": "Legs of iron",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SOS_MOUTH_COIN",
@@ -477,17 +477,17 @@
       "ID": "SOS_POISON",
       "SetID": "6ci4lm2",
       "Name": "Last cup",
-      "Percentage": 12,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SOS_PRISON_BREAK",
       "SetID": "6ci4lm2",
       "Name": "At the bottom",
-      "Percentage": 12,
+      "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SOS_PYROMAN",
@@ -501,25 +501,25 @@
       "ID": "SOS_RED_MINE",
       "SetID": "6ci4lm2",
       "Name": "Red mine",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SOS_RETURN_TO_GRAVE",
       "SetID": "6ci4lm2",
       "Name": "Ready for the grave",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SOS_SECRET_PASSAGEWAY",
       "SetID": "6ci4lm2",
       "Name": "Secret passageway",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SOS_SHAFT_INTO_DARKNESS",
@@ -581,9 +581,9 @@
       "ID": "SOS_WE_HAVE_TO_STOP_THEM",
       "SetID": "6ci4lm2",
       "Name": "We have to stop them",
-      "Percentage": 18,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SOS_WHAT_HURTS",
@@ -612,8 +612,8 @@
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-12-05T18:05:14.7513357+00:00",
+  "LastChanged_Achievements": "2023-12-05T19:06:03.0643745+00:00",
   "LastUpdate_AppInfo": "2023-12-04T15:57:13.4700868+00:00",
-  "LastUpdate_Ratings": "2023-12-05T17:59:44.3140575+00:00",
-  "LastUpdate_Achievements": "2023-12-05T18:05:14.7513771+00:00"
+  "LastUpdate_Ratings": "2023-12-05T19:00:30.5541409+00:00",
+  "LastUpdate_Achievements": "2023-12-05T19:06:03.0644293+00:00"
 }

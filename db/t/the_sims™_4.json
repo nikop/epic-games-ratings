@@ -5,10 +5,10 @@
   "Ranking_Rating": 352,
   "Ranking_Popularity": 112,
   "Ranking_PopularitySum": 91,
-  "Ranking_EOS_Progress": 781,
+  "Ranking_EOS_Progress": 783,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
     "PcReleaseDate": "2014-09-02T15:00:00+00:00",
@@ -10109,10 +10109,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 10387,
       "NumberOfAwardsMax": 1988
+    },
+    {
+      "Time": "2023-12-05T18:59:37.4652246+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 10400,
+      "NumberOfAwardsMax": 1988
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10387,
+  "NumberOfAwards": 10400,
   "NumberOfAwardsMax": 1988,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -10120,7 +10126,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 640
+      "Count": 645
     },
     {
       "Text": "This game is Great for Beginners",
@@ -10168,13 +10174,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 760
+      "Count": 765
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 671
+      "Count": 674
     },
     {
       "Text": "This game has Easy Combat",
@@ -10203,9 +10209,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2023-12-05T17:59:01.3162941+00:00",
-  "LastChanged_Achievements": "2023-12-05T18:03:40.6689994+00:00",
+  "LastChanged": "2023-12-05T18:59:37.4652244+00:00",
+  "LastChanged_Achievements": "2023-12-05T19:04:08.3790858+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:18.890278+00:00",
-  "LastUpdate_Ratings": "2023-12-05T17:59:01.3162947+00:00",
-  "LastUpdate_Achievements": "2023-12-05T18:03:40.669003+00:00"
+  "LastUpdate_Ratings": "2023-12-05T18:59:37.465225+00:00",
+  "LastUpdate_Achievements": "2023-12-05T19:04:08.3790939+00:00"
 }

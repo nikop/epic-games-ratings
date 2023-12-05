@@ -10,23 +10,23 @@ Number of Ratings: 12,664  (23.09.2022)
 | Titan's First Steps | 7.00% | ~10,074 |
 | Basic in Bulk | 6.00% | ~8,635 |
 | Tinkle of Coins | 6.00% | ~8,635 |
-| Disintermediation | 5.00% | ~7,195 |
-| Capitalism Ho! | 5.00% | ~7,195 |
-| One Easy Payment | 4.00% | ~5,756 |
-| Some Assembly Required | 4.00% | ~5,756 |
-| Another Satisfied Customer | 4.00% | ~5,756 |
-| It's Free Real Estate | 4.00% | ~5,756 |
-| Pretty Penny | 4.00% | ~5,756 |
-| Budding Merchant | 4.00% | ~5,756 |
-| Own the Means of Production | 4.00% | ~5,756 |
-| The Daily Grind | 3.00% | ~4,317 |
-| Bounty Hunters | 3.00% | ~4,317 |
-| Demand for Supplies | 3.00% | ~4,317 |
-| Flooding the Market | 3.00% | ~4,317 |
-| Where it Hurts | 3.00% | ~4,317 |
-| One-Armed Bandit | 3.00% | ~4,317 |
-| Dungeon Imports | 3.00% | ~4,317 |
-| Through Repetition, Perfection | 3.00% | ~4,317 |
+| Disintermediation | 5.00% | ~7,196 |
+| Capitalism Ho! | 5.00% | ~7,196 |
+| One Easy Payment | 4.00% | ~5,757 |
+| Some Assembly Required | 4.00% | ~5,757 |
+| Another Satisfied Customer | 4.00% | ~5,757 |
+| It's Free Real Estate | 4.00% | ~5,757 |
+| Pretty Penny | 4.00% | ~5,757 |
+| Budding Merchant | 4.00% | ~5,757 |
+| Own the Means of Production | 4.00% | ~5,757 |
+| The Daily Grind | 3.00% | ~4,318 |
+| Bounty Hunters | 3.00% | ~4,318 |
+| Demand for Supplies | 3.00% | ~4,318 |
+| Flooding the Market | 3.00% | ~4,318 |
+| Where it Hurts | 3.00% | ~4,318 |
+| One-Armed Bandit | 3.00% | ~4,318 |
+| Dungeon Imports | 3.00% | ~4,318 |
+| Through Repetition, Perfection | 3.00% | ~4,318 |
 | On the Path to Greatness | 2.00% | ~2,878 |
 | A Notch Above the Rest | 2.00% | ~2,878 |
 | Ascended | 2.00% | ~2,878 |
@@ -107,8 +107,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Eternal Crusade | 0.90% | ~1,295 |
 | The Greatest Grind | 0.70% | ~1,007 |
 | All or Nothing! | 0.70% | ~1,007 |
-| Anything not Nailed Down | 0.60% | ~863 |
-| Marvels from the World Over | 0.60% | ~863 |
+| Anything not Nailed Down | 0.60% | ~864 |
+| Marvels from the World Over | 0.60% | ~864 |
 | Bane of Legends | 0.50% | ~720 |
 | Ultimate Collector | 0.50% | ~720 |
 | Unleashed Potential | 0.50% | ~720 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~432 |
 | Capitalist Camaraderie | 0.20% | ~288 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 143,909 (Ranked 80)  
+Progressed: 143,919 (Ranked 80)  
 Completed: 291 (0.20%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,7 +348,7 @@ Completed: 291 (0.20%) (Ranked 258)
 | 2023-12-02 | 143,469 | 290 |
 | 2023-12-03 | 143,715 | 291 |
 | 2023-12-04 | 143,830 | 291 |
-| 2023-12-05 | 143,909 | 291 |
+| 2023-12-05 | 143,919 | 291 |
 ## Awards
 Max (Great for Beginners): 4,864  (Ranked 75)  
 Sum: 27,662 (Ranked 50)  

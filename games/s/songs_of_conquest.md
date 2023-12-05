@@ -11,13 +11,13 @@ Number of Ratings: 292  (23.09.2022)
 | Critical Hit | 15.00% | ~54 |
 | Veteran | 13.00% | ~46 |
 | Dressed For Success | 10.00% | ~36 |
+| Sorcerous Spree | 7.00% | ~25 |
 | Humiliation | 7.00% | ~25 |
-| Sorcerous Spree | 6.00% | ~21 |
+| Veni, Vidi, Vici | 5.00% | ~18 |
+| Multi Kill | 4.00% | ~14 |
 | Whoops! | 4.00% | ~14 |
 | Master | 4.00% | ~14 |
 | Expert Essence Employment | 4.00% | ~14 |
-| Veni, Vidi, Vici | 4.00% | ~14 |
-| Multi Kill | 3.00% | ~11 |
 | Landlord Extraordinaire | 3.00% | ~11 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~11 |
 | The Song of Stoutheart | 2.00% | ~7 |

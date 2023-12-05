@@ -13,8 +13,8 @@
 | Carlos Is Tangled | 42.00% | ~18 |
 | Mandy Family | 40.00% | ~17 |
 | Clear the Road | 37.00% | ~16 |
-| Paw patrol member | 35.00% | ~15 |
-| Robot Out of Control | 35.00% | ~15 |
+| Paw patrol member | 37.00% | ~16 |
+| Robot Out of Control | 37.00% | ~16 |
 | Break Time | 33.00% | ~14 |
 | Master of the Rope | 30.00% | ~13 |
 | Training Day | 30.00% | ~13 |
@@ -26,7 +26,7 @@
 | Adventure Bay’s Citizen | 21.00% | ~9 |
 | You Have Been Everywhere | 16.00% | ~7 |
 | Mountain and Ice | 16.00% | ~7 |
-| Everything Under Control | 12.00% | ~5 |
+| Everything Under Control | 14.00% | ~6 |
 | A Great Explorer | 9.00% | ~4 |
 | Nothing Can Stop You | 9.00% | ~4 |
 | King of the Mountain | 5.00% | ~2 |

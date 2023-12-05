@@ -4,8 +4,8 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 587,
+  "EOS_Progressed": 588,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.53,
   "EosHistory": [
@@ -2075,6 +2075,11 @@
       "Time": "2023-12-05T03:09:30.1337635+00:00",
       "NumProgressed": 587,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-05T19:09:53.3576977+00:00",
+      "NumProgressed": 588,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -2143,7 +2148,7 @@
       "Name": "Star Power",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "achievement_17",
@@ -2151,7 +2156,7 @@
       "Name": "Clean Sheet",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "achievement_18",
@@ -2159,7 +2164,7 @@
       "Name": "Perfect Round",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "achievement_2",
@@ -2183,7 +2188,7 @@
       "Name": "From Many, One",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "achievement_5",
@@ -2207,7 +2212,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "achievement_8",
@@ -2230,13 +2235,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 587,
+      "Progressed": 588,
       "Completed": 9
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-05T18:09:05.687255+00:00",
+  "LastChanged_Achievements": "2023-12-05T19:09:53.3576973+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:04.2902397+00:00",
-  "LastUpdate_Ratings": "2023-12-05T17:58:46.4110522+00:00",
-  "LastUpdate_Achievements": "2023-12-05T18:09:05.6872731+00:00"
+  "LastUpdate_Ratings": "2023-12-05T18:59:17.8869557+00:00",
+  "LastUpdate_Achievements": "2023-12-05T19:09:53.3577185+00:00"
 }

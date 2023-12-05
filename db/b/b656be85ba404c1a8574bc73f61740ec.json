@@ -2,10 +2,10 @@
   "ID": "b656be85ba404c1a8574bc73f61740ec",
   "Name": "Real Drift Multiplayer 2",
   "ProductSlug": "real-drift-multiplayer-2-bdc182",
-  "Ranking_EOS_Progress": 781,
+  "Ranking_EOS_Progress": 783,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-09-15T17:00:00+00:00",
     "PcReleaseDate": "2023-09-15T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-24T18:57:44.8835633+00:00",
   "LastUpdate_AppInfo": "2023-12-02T11:57:13.5949494+00:00",
-  "LastUpdate_Ratings": "2023-12-05T17:58:33.5119343+00:00",
-  "LastUpdate_Achievements": "2023-12-05T18:06:30.7433948+00:00"
+  "LastUpdate_Ratings": "2023-12-05T18:59:00.5472932+00:00",
+  "LastUpdate_Achievements": "2023-12-05T19:07:36.9718734+00:00"
 }

@@ -7,7 +7,7 @@ Number of Ratings: 177  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Friend in Need... | 6.00% | ~393 |
-| Smooth Operator: Madison | 4.00% | ~262 |
+| Smooth Operator: Madison | 5.00% | ~327 |
 | The Brahdyssey | 3.00% | ~196 |
 | Caught in the Act | 3.00% | ~196 |
 | Katherine | 3.00% | ~196 |

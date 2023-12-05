@@ -38,8 +38,8 @@ Rating: 4.58 (Ranked 448)
 | Angling Authority | 1.00% | ~83 |
 | Cloverfield Island | 0.20% | ~17 |
 | Giving the People What They Want | 0.20% | ~17 |
+| Very Skilled | 0.20% | ~17 |
 | Workaholic | 0.10% | ~8 |
-| Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8,293 (Ranked 175)  
 Completed: 1 (0.01%) (Ranked 347)  

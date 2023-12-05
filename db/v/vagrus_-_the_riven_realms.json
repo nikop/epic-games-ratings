@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -1144,9 +1144,9 @@
       "ID": "Vanilla_FirstFactionTier5Neg",
       "SetID": "27kik8p",
       "Name": "Despised",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "Vanilla_FirstWin",
@@ -1601,8 +1601,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-12-05T18:06:20.3272316+00:00",
+  "LastChanged_Achievements": "2023-12-05T19:07:24.4591053+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:57.3657871+00:00",
-  "LastUpdate_Ratings": "2023-12-05T17:58:26.9153285+00:00",
-  "LastUpdate_Achievements": "2023-12-05T18:06:20.3273542+00:00"
+  "LastUpdate_Ratings": "2023-12-05T18:58:52.0121067+00:00",
+  "LastUpdate_Achievements": "2023-12-05T19:07:24.4591878+00:00"
 }

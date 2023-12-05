@@ -2,10 +2,10 @@
   "ID": "2c55388d6472490bb78c85add4000147",
   "Name": "Tofas Sahin Online Car Driving",
   "ProductSlug": "tofas-sahin-online-car-driving-4bb680",
-  "Ranking_EOS_Progress": 781,
+  "Ranking_EOS_Progress": 783,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-11-04T12:00:00+00:00",
     "PcReleaseDate": "2023-02-15T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-08T18:14:24.0320891+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:31.3670506+00:00",
-  "LastUpdate_Ratings": "2023-12-05T18:03:03.7494069+00:00",
-  "LastUpdate_Achievements": "2023-12-05T18:07:56.1323556+00:00"
+  "LastUpdate_Ratings": "2023-12-05T19:03:00.2462798+00:00",
+  "LastUpdate_Achievements": "2023-12-05T19:08:06.8815847+00:00"
 }

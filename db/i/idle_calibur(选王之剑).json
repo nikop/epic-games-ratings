@@ -2,10 +2,10 @@
   "ID": "515a14e977a24b6b9acb489dea611eec",
   "Name": "Idle Calibur(\u9009\u738B\u4E4B\u5251)",
   "ProductSlug": "idle-calibur-db9f57",
-  "Ranking_EOS_Progress": 781,
+  "Ranking_EOS_Progress": 783,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2022-01-15T02:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-02T22:58:44.7085824+00:00",
-  "LastUpdate_Ratings": "2023-12-05T17:57:59.6789804+00:00",
-  "LastUpdate_Achievements": "2023-12-05T18:09:20.5622636+00:00"
+  "LastUpdate_Ratings": "2023-12-05T18:58:17.4648946+00:00",
+  "LastUpdate_Achievements": "2023-12-05T19:10:11.4618213+00:00"
 }

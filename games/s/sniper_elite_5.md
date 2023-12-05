@@ -8,16 +8,16 @@ Rating: 4.44 (Ranked 677)
 | Meeting Resistance | 47.00% | ~1,871 |
 | Confirming Suspicions | 41.00% | ~1,632 |
 | The Kraken Wakes | 37.00% | ~1,473 |
-| It's Starting to Crack | 34.00% | ~1,353 |
+| It's Starting to Crack | 34.00% | ~1,354 |
 | Change the Channel | 31.00% | ~1,234 |
 | Lord of War | 30.00% | ~1,194 |
 | Taking it back | 29.00% | ~1,154 |
 | Resourceful | 27.00% | ~1,075 |
 | Target America | 27.00% | ~1,075 |
 | The Kraken Sleeps | 25.00% | ~995 |
-| Liberté | 23.00% | ~915 |
-| Organ Grinder | 23.00% | ~915 |
-| As Quiet as a Mouse | 23.00% | ~915 |
+| Liberté | 23.00% | ~916 |
+| Organ Grinder | 23.00% | ~916 |
+| As Quiet as a Mouse | 23.00% | ~916 |
 | Sharpshooter | 22.00% | ~876 |
 | Gunslinger | 19.00% | ~756 |
 | Explosive Efficiency | 19.00% | ~756 |
@@ -33,7 +33,7 @@ Rating: 4.44 (Ranked 677)
 | Opposing Force | 14.00% | ~557 |
 | Enemy at the Gates | 14.00% | ~557 |
 | Fields of Glory | 14.00% | ~557 |
-| Set Europe Ablaze | 13.00% | ~517 |
+| Set Europe Ablaze | 13.00% | ~518 |
 | Precision Is Key | 10.00% | ~398 |
 | My Little Friend | 10.00% | ~398 |
 | Rigged to Blow | 9.00% | ~358 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 677)
 | Stroll in the Woods | 0.60% | ~24 |
 | Going Overboard | 0.60% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,980 (Ranked 198)  
+Progressed: 3,981 (Ranked 198)  
 Completed: 11 (0.28%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 11 (0.28%) (Ranked 244)
 | 2023-12-02 | 3,967 | 11 |
 | 2023-12-03 | 3,972 | 11 |
 | 2023-12-04 | 3,976 | 11 |
-| 2023-12-05 | 3,980 | 11 |
+| 2023-12-05 | 3,981 | 11 |
 ## Awards
 Max (Great for Beginners): 27  (Ranked 515)  
 Sum: 27 (Ranked 527)  

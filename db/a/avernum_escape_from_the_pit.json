@@ -2,10 +2,10 @@
   "ID": "0bf87bbc635142c0ac1864fce65e3eb5",
   "Name": "Avernum Escape From the Pit",
   "ProductSlug": "avernum-escape-from-the-pit-efe8b6",
-  "Ranking_EOS_Progress": 781,
+  "Ranking_EOS_Progress": 783,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-09-20T13:00:00+00:00",
     "PcReleaseDate": "2012-04-11T13:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:15.7251608+00:00",
   "LastChanged": "2023-03-31T05:58:15.7251609+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:40.5661608+00:00",
-  "LastUpdate_Ratings": "2023-12-05T17:58:14.3929901+00:00",
-  "LastUpdate_Achievements": "2023-12-05T18:05:54.6794005+00:00"
+  "LastUpdate_Ratings": "2023-12-05T18:58:36.0827723+00:00",
+  "LastUpdate_Achievements": "2023-12-05T19:06:52.5041408+00:00"
 }

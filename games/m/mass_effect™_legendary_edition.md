@@ -31,8 +31,8 @@
 | Krogan Ally | 42.00% | ~633 |
 | Merciless | 42.00% | ~633 |
 | Sentinel Ally | 41.00% | ~618 |
+| Scholar | 41.00% | ~618 |
 | Head Hunter | 40.00% | ~603 |
-| Scholar | 40.00% | ~603 |
 | Operative | 39.00% | ~588 |
 | Veteran | 38.00% | ~573 |
 | The Archangel | 38.00% | ~573 |
@@ -93,11 +93,11 @@
 | Last Resort | 21.00% | ~317 |
 | Saboteur | 21.00% | ~317 |
 | Last Witness | 21.00% | ~317 |
+| Well Connected | 21.00% | ~317 |
 | Fact Finder | 21.00% | ~317 |
 | Problem Solver | 21.00% | ~317 |
 | Pyromaniac | 20.00% | ~302 |
 | No One Left Behind | 20.00% | ~302 |
-| Well Connected | 20.00% | ~302 |
 | Executioner | 19.00% | ~287 |
 | Patriot | 19.00% | ~287 |
 | Master and Commander | 19.00% | ~287 |
