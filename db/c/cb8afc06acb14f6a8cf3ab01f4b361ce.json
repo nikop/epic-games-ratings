@@ -395,9 +395,9 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 324633,
+  "EOS_Progressed": 324647,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 3988,
+  "EOS_NewPlayers": 3990,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8570,6 +8570,11 @@
       "Time": "2023-12-06T06:07:58.423231+00:00",
       "NumProgressed": 324633,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-06T07:06:09.8028603+00:00",
+      "NumProgressed": 324647,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -8806,7 +8811,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2272
+      "UsersEstimate": 2273
     },
     {
       "ID": "S30_DIAMOND",
@@ -8901,7 +8906,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 324633,
+      "Progressed": 324647,
       "Completed": 4
     }
   ],
@@ -8909,8 +8914,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-06T06:00:13.3250354+00:00",
-  "LastChanged_Achievements": "2023-12-06T06:07:58.4232307+00:00",
+  "LastChanged_Achievements": "2023-12-06T07:06:09.80286+00:00",
   "LastUpdate_AppInfo": "2023-11-30T19:57:08.777578+00:00",
-  "LastUpdate_Ratings": "2023-12-06T06:00:13.325036+00:00",
-  "LastUpdate_Achievements": "2023-12-06T06:07:58.4233034+00:00"
+  "LastUpdate_Ratings": "2023-12-06T07:00:11.8354016+00:00",
+  "LastUpdate_Achievements": "2023-12-06T07:06:09.8029061+00:00"
 }

@@ -20,11 +20,11 @@ Number of Ratings: 371  (23.09.2022)
 | The Emperor Protects | 4.00% | ~133 |
 | Nemesis Master | 3.00% | ~100 |
 | Gunmaster | 3.00% | ~100 |
+| Just a Scratch | 3.00% | ~100 |
 | A Foul Creche | 3.00% | ~100 |
 | Hold Your Ground | 2.00% | ~67 |
 | Corruption Cleanser | 2.00% | ~67 |
 | Efficient Killer | 2.00% | ~67 |
-| Just a Scratch | 2.00% | ~67 |
 | A Gift Spurned | 2.00% | ~67 |
 | Hive Exterminator | 2.00% | ~67 |
 | Fleetmaster | 1.00% | ~33 |

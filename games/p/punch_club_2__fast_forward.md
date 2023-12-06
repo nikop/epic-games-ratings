@@ -23,7 +23,7 @@
 | Pal of your father? | 68.00% | ~245 |
 | Spirit of the past | 66.00% | ~238 |
 | Employee of the month | 66.00% | ~238 |
-| Law student | 62.00% | ~223 |
+| Law student | 63.00% | ~227 |
 | Workout professional | 61.00% | ~220 |
 | Handyman | 60.00% | ~216 |
 | Champion – starter pack | 60.00% | ~216 |

@@ -23,14 +23,14 @@
 | A Slice of Life | 11.00% | ~11 |
 | Debut | 11.00% | ~11 |
 | The art of movement | 11.00% | ~11 |
+| True Reflection | 11.00% | ~11 |
 | First steps | 10.00% | ~10 |
-| True Reflection | 10.00% | ~10 |
 | Another perspective | 9.00% | ~9 |
 | Breaking free | 9.00% | ~9 |
 | Sound Bite | 9.00% | ~9 |
 | Lights! Camera! Action! | 9.00% | ~9 |
 | Heavy Burden | 8.00% | ~8 |
-| Casting Finished | 6.00% | ~6 |
+| Casting Finished | 7.00% | ~7 |
 | We Are Not Alone | 5.00% | ~5 |
 | Fisherman | 5.00% | ~5 |
 | Body of Work | 4.00% | ~4 |

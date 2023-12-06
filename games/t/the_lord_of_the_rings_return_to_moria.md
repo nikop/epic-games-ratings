@@ -5,23 +5,23 @@ Rating: 4.43 (Ranked 695)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 84.00% | ~240,367 |
-| Delving Onward | 71.00% | ~203,167 |
-| Miner's Helper | 62.00% | ~177,414 |
-| Suit Up | 56.00% | ~160,245 |
-| To the Mountain's Roots | 51.00% | ~145,937 |
-| Remains To Be Seen | 35.00% | ~100,153 |
-| Covered Head to Toe | 34.00% | ~97,291 |
-| Line of Azog, Ended | 33.00% | ~94,430 |
-| Risk a Little Real Light | 31.00% | ~88,707 |
-| Caradhras The Cruel | 18.00% | ~51,507 |
-| A Memory of this Place | 17.00% | ~48,646 |
-| False King, Deposed | 14.00% | ~40,061 |
-| Battering Ram | 13.00% | ~37,200 |
-| Baruk Khazâd! | 12.00% | ~34,338 |
+| Speak Friend | 84.00% | ~240,374 |
+| Delving Onward | 71.00% | ~203,173 |
+| Miner's Helper | 62.00% | ~177,419 |
+| Suit Up | 56.00% | ~160,249 |
+| To the Mountain's Roots | 51.00% | ~145,941 |
+| Remains To Be Seen | 35.00% | ~100,156 |
+| Covered Head to Toe | 34.00% | ~97,294 |
+| Line of Azog, Ended | 33.00% | ~94,432 |
+| Risk a Little Real Light | 31.00% | ~88,709 |
+| Caradhras The Cruel | 18.00% | ~51,509 |
+| A Memory of this Place | 17.00% | ~48,647 |
+| False King, Deposed | 14.00% | ~40,062 |
+| Battering Ram | 13.00% | ~37,201 |
+| Baruk Khazâd! | 12.00% | ~34,339 |
 | Shadow's Bane | 9.00% | ~25,754 |
 | Westgate Weaponcraft | 9.00% | ~25,754 |
-| Deeps Weaponcraft | 8.00% | ~22,892 |
+| Deeps Weaponcraft | 8.00% | ~22,893 |
 | Darkness Is Passing | 7.00% | ~20,031 |
 | Decked Out | 5.00% | ~14,308 |
 | Guarded from Despair | 4.00% | ~11,446 |
@@ -33,7 +33,7 @@ Rating: 4.43 (Ranked 695)
 | Hard-headed | 0.90% | ~2,575 |
 | We're Gonna Need More Mugs | 0.10% | ~286 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 286,151 (Ranked 55)  
+Progressed: 286,159 (Ranked 55)  
 Completed: 62 (0.02%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,10 +81,10 @@ Completed: 62 (0.02%) (Ranked 337)
 | 2023-12-03 | 284,652 | 12 |
 | 2023-12-04 | 285,347 | 19 |
 | 2023-12-05 | 285,997 | 54 |
-| 2023-12-06 | 286,151 | 62 |
+| 2023-12-06 | 286,159 | 62 |
 ## Awards
 Max (Great for Beginners): 618  (Ranked 194)  
-Sum: 3,613 (Ranked 162)  
+Sum: 3,627 (Ranked 162)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
@@ -92,9 +92,9 @@ Diff (max vs sum): 32
 | This game is Highly Recommended | 505 |
 | This game is Extremely Fun | 497 |
 | This game has Amazing Storytelling | 444 |
+| This game has Quickly Understood Controls | 437 |
 | This game is Relaxing | 436 |
-| This game has Quickly Understood Controls | 428 |
-| This game has Amazing Characters | 420 |
+| This game has Amazing Characters | 425 |
 | This game has a Creative Community | 265 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -142,3 +142,4 @@ Diff (max vs sum): 32
 | 2023-12-03 | 4.43 | 593 | 3,521 |
 | 2023-12-04 | 4.43 | 603 | 3,564 |
 | 2023-12-05 | 4.43 | 618 | 3,613 |
+| 2023-12-06 | 4.43 | 618 | 3,627 |

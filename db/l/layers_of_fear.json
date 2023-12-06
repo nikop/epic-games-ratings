@@ -571,9 +571,9 @@
       "ID": "casting_finished",
       "SetID": "f2im8d",
       "Name": "Casting Finished",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "collect_items_mother",
@@ -923,9 +923,9 @@
       "ID": "true_reflection",
       "SetID": "f2im8d",
       "Name": "True Reflection",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "view_most_of_photos",
@@ -962,8 +962,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-06T06:04:13.9250167+00:00",
+  "LastChanged_Achievements": "2023-12-06T07:04:08.9174598+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:53.0795294+00:00",
-  "LastUpdate_Ratings": "2023-12-06T05:58:30.7699918+00:00",
-  "LastUpdate_Achievements": "2023-12-06T06:04:13.9250695+00:00"
+  "LastUpdate_Ratings": "2023-12-06T06:58:32.4431798+00:00",
+  "LastUpdate_Achievements": "2023-12-06T07:04:08.9174891+00:00"
 }

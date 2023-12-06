@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 881,
+  "EOS_Progressed": 882,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 5.79,
+  "EOS_Completed_Percentage": 5.78,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3555,6 +3555,11 @@
       "Time": "2023-12-06T06:04:12.5061888+00:00",
       "NumProgressed": 881,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-12-06T07:04:07.472954+00:00",
+      "NumProgressed": 882,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 25,
@@ -3574,7 +3579,7 @@
       "Name": "In this together",
       "Percentage": 19,
       "XP": 200,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "META_ALL_LINK",
@@ -3686,7 +3691,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -3702,7 +3707,7 @@
       "Name": "Champollion",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -3710,7 +3715,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -3718,7 +3723,7 @@
       "Name": "Scholar",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "PROGRESS_N1",
@@ -3726,7 +3731,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "PROGRESS_N2",
@@ -3765,14 +3770,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 881,
+      "Progressed": 882,
       "Completed": 51
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-06T06:04:12.5061885+00:00",
+  "LastChanged_Achievements": "2023-12-06T07:04:07.4729536+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:43.5720459+00:00",
-  "LastUpdate_Ratings": "2023-12-06T05:57:53.6857975+00:00",
-  "LastUpdate_Achievements": "2023-12-06T06:04:12.5062283+00:00"
+  "LastUpdate_Ratings": "2023-12-06T06:57:56.456333+00:00",
+  "LastUpdate_Achievements": "2023-12-06T07:04:07.4729831+00:00"
 }

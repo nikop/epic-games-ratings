@@ -7,13 +7,13 @@ Number of Ratings: 87  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Dealmaker | 73.00% | ~307,721 |
-| Full garage | 61.00% | ~257,136 |
+| Full garage | 61.00% | ~257,137 |
 | To the eyeballs! | 51.00% | ~214,983 |
-| Individual delivery | 47.00% | ~198,121 |
+| Individual delivery | 47.00% | ~198,122 |
 | Non-Stop | 45.00% | ~189,691 |
 | Juggler | 36.00% | ~151,753 |
-| Forgot something | 35.00% | ~147,537 |
-| Close call! | 30.00% | ~126,460 |
+| Forgot something | 35.00% | ~147,538 |
+| Close call! | 30.00% | ~126,461 |
 | Get out my way | 28.00% | ~118,030 |
 | Common cause | 26.00% | ~109,599 |
 | Critical care | 26.00% | ~109,599 |
@@ -34,7 +34,7 @@ Number of Ratings: 87  (23.09.2022)
 | Industrial Age | 9.00% | ~37,938 |
 | Just One More Valley | 9.00% | ~37,879 |
 | Prick of conscience | 8.00% | ~33,723 |
-| Missed it! | 7.00% | ~29,507 |
+| Missed it! | 7.00% | ~29,508 |
 | At the last moment! | 6.00% | ~25,292 |
 | Overseer | 6.00% | ~25,292 |
 | Highlander | 5.00% | ~21,077 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~421 |
 | World Zapper | 0.10% | ~421 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 421,535 (Ranked 45)  
+Progressed: 421,536 (Ranked 45)  
 Completed: 23 (0.01%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 23 (0.01%) (Ranked 347)
 | 2023-12-03 | 421,115 | 23 |
 | 2023-12-04 | 421,314 | 23 |
 | 2023-12-05 | 421,504 | 23 |
-| 2023-12-06 | 421,535 | 23 |
+| 2023-12-06 | 421,536 | 23 |
 ## Awards
 Max (Challenging Puzzles): 950  (Ranked 158)  
 Sum: 1,913 (Ranked 217)  

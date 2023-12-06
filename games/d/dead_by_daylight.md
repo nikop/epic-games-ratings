@@ -14,9 +14,9 @@ Number of Ratings: 70,340  (23.09.2022)
 | Apt Survivor | 0.90% | ~9,661 |
 | Survival Treasures | 0.90% | ~9,661 |
 | I | 0.90% | ~9,661 |
-| Handyman | 0.80% | ~8,587 |
-| Sorted | 0.80% | ~8,587 |
-| Resurgence | 0.80% | ~8,587 |
+| Handyman | 0.80% | ~8,588 |
+| Sorted | 0.80% | ~8,588 |
+| Resurgence | 0.80% | ~8,588 |
 | The Grand Sacrifice | 0.70% | ~7,514 |
 | No one left behind | 0.70% | ~7,514 |
 | Medic | 0.70% | ~7,514 |
@@ -24,12 +24,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | Healthy Obsession | 0.70% | ~7,514 |
 | Preemptive Strike | 0.70% | ~7,514 |
 | Humanitarian | 0.70% | ~7,514 |
-| Agonizing Escape | 0.60% | ~6,440 |
-| Backdoor Escape | 0.60% | ~6,440 |
-| Perfect Escape | 0.60% | ~6,440 |
-| Perfect Killing | 0.60% | ~6,440 |
-| II | 0.60% | ~6,440 |
-| Close Shave | 0.60% | ~6,440 |
+| Agonizing Escape | 0.60% | ~6,441 |
+| Backdoor Escape | 0.60% | ~6,441 |
+| Perfect Escape | 0.60% | ~6,441 |
+| Perfect Killing | 0.60% | ~6,441 |
+| II | 0.60% | ~6,441 |
+| Close Shave | 0.60% | ~6,441 |
 | I've got your back | 0.50% | ~5,367 |
 | Apt Killer | 0.50% | ~5,367 |
 | Risk it all | 0.50% | ~5,367 |
@@ -46,6 +46,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Flight to Freedom | 0.40% | ~4,294 |
 | Lifting The Fog | 0.40% | ~4,294 |
 | Second Act | 0.40% | ~4,294 |
+| Blood on your face | 0.30% | ~3,220 |
 | Made it out alive! | 0.30% | ~3,220 |
 | Nerves of steel | 0.30% | ~3,220 |
 | Gifts for the Fog | 0.30% | ~3,220 |
@@ -69,12 +70,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.30% | ~3,220 |
 | MU/TH/UR Dearest | 0.30% | ~3,220 |
 | A bite for the Entity | 0.20% | ~2,147 |
-| Blood on your face | 0.20% | ~2,147 |
 | Jump Scares | 0.20% | ~2,147 |
 | Hemophobia | 0.20% | ~2,147 |
 | Deep Cleansing | 0.20% | ~2,147 |
 | Leapfrog | 0.20% | ~2,147 |
 | Cottage Owner | 0.20% | ~2,147 |
+| Texas BBQ | 0.20% | ~2,147 |
 | Serial Killer | 0.20% | ~2,147 |
 | Escaping the Nightmare | 0.20% | ~2,147 |
 | Game Over | 0.20% | ~2,147 |
@@ -126,7 +127,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Huntress | 0.10% | ~1,073 |
 | Adept David | 0.10% | ~1,073 |
 | Butcherin' | 0.10% | ~1,073 |
-| Texas BBQ | 0.10% | ~1,073 |
 | Adept Cannibal | 0.10% | ~1,073 |
 | Dream Demon | 0.10% | ~1,073 |
 | Adept Nightmare | 0.10% | ~1,073 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Joke’s On You | 0.10% | ~1,073 |
 | Adept Good Guy | 0.10% | ~1,073 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,073,391 (Ranked 14)  
+Progressed: 1,073,440 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -469,7 +469,7 @@ Completed: 61 (0.01%) (Ranked 347)
 | 2023-12-03 | 1,067,390 | 61 |
 | 2023-12-04 | 1,070,133 | 61 |
 | 2023-12-05 | 1,072,750 | 61 |
-| 2023-12-06 | 1,073,391 | 61 |
+| 2023-12-06 | 1,073,440 | 61 |
 ## Awards
 Max (Diverse Characters): 37,377  (Ranked 15)  
 Sum: 283,541 (Ranked 12)  

@@ -66,12 +66,12 @@
 | Doppelganger | 30.00% | ~454 |
 | Fade Away | 30.00% | ~454 |
 | Treason | 30.00% | ~454 |
+| Agent | 30.00% | ~454 |
 | Digital Exorcist | 30.00% | ~454 |
 | Archivist | 29.00% | ~439 |
 | Mission Accomplished | 29.00% | ~439 |
 | Suicide Mission | 29.00% | ~439 |
 | Against All Odds | 29.00% | ~439 |
-| Agent | 29.00% | ~439 |
 | Mobilizer | 29.00% | ~439 |
 | Untouchable | 28.00% | ~424 |
 | Giant Killer | 28.00% | ~424 |

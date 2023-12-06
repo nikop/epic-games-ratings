@@ -13412,9 +13412,9 @@
       "Count": 27655
     }
   ],
-  "EOS_Progressed": 1073391,
+  "EOS_Progressed": 1073440,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 21817,
+  "EOS_NewPlayers": 21786,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39822,6 +39822,11 @@
       "Time": "2023-12-06T06:09:38.111281+00:00",
       "NumProgressed": 1073391,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-06T07:09:16.6812102+00:00",
+      "NumProgressed": 1073440,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 232,
@@ -39863,9 +39868,9 @@
       "ID": "ACH_005",
       "SetID": "bdmlp8o",
       "Name": "Blood on your face",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2147
+      "UsersEstimate": 3220
     },
     {
       "ID": "ACH_006",
@@ -39921,7 +39926,7 @@
       "Name": "Agonizing Escape",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 6440
+      "UsersEstimate": 6441
     },
     {
       "ID": "ACH_013",
@@ -39929,7 +39934,7 @@
       "Name": "Backdoor Escape",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 6440
+      "UsersEstimate": 6441
     },
     {
       "ID": "ACH_014",
@@ -39969,7 +39974,7 @@
       "Name": "Handyman",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 8587
+      "UsersEstimate": 8588
     },
     {
       "ID": "ACH_019",
@@ -39985,7 +39990,7 @@
       "Name": "Perfect Escape",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 6440
+      "UsersEstimate": 6441
     },
     {
       "ID": "ACH_021",
@@ -39993,7 +39998,7 @@
       "Name": "Perfect Killing",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 6440
+      "UsersEstimate": 6441
     },
     {
       "ID": "ACH_022",
@@ -40153,7 +40158,7 @@
       "Name": "II",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 6440
+      "UsersEstimate": 6441
     },
     {
       "ID": "ACH_042",
@@ -40401,7 +40406,7 @@
       "Name": "Sorted",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 8587
+      "UsersEstimate": 8588
     },
     {
       "ID": "ACH_073",
@@ -40423,9 +40428,9 @@
       "ID": "ACH_075",
       "SetID": "16jml5b",
       "Name": "Texas BBQ",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1073
+      "UsersEstimate": 2147
     },
     {
       "ID": "ACH_076",
@@ -41049,7 +41054,7 @@
       "Name": "Resurgence",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 8587
+      "UsersEstimate": 8588
     },
     {
       "ID": "ACH_157",
@@ -41145,7 +41150,7 @@
       "Name": "Close Shave",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 6440
+      "UsersEstimate": 6441
     },
     {
       "ID": "ACH_169",
@@ -41688,21 +41693,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1073391,
+      "Progressed": 1073440,
       "Completed": 70
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1073391,
+      "Progressed": 1073440,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-12-06T04:58:56.7184995+00:00",
-  "LastChanged_Achievements": "2023-12-06T06:09:38.1112809+00:00",
+  "LastChanged_Achievements": "2023-12-06T07:09:16.68121+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:13.1126718+00:00",
-  "LastUpdate_Ratings": "2023-12-06T05:58:46.1827088+00:00",
-  "LastUpdate_Achievements": "2023-12-06T06:09:38.1118052+00:00"
+  "LastUpdate_Ratings": "2023-12-06T06:58:46.7830582+00:00",
+  "LastUpdate_Achievements": "2023-12-06T07:09:16.6816992+00:00"
 }

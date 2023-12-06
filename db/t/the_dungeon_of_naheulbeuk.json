@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 63,
+  "Ranking_EOS_NewPlayers": 62,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1449,7 +1449,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 241489,
+  "EOS_Progressed": 241494,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1227,
   "EOS_NewCompleters": 0,
@@ -21214,6 +21214,11 @@
       "Time": "2023-12-06T06:09:06.4905325+00:00",
       "NumProgressed": 241489,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-06T07:08:45.9005031+00:00",
+      "NumProgressed": 241494,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -21273,7 +21278,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16904
+      "UsersEstimate": 16905
     },
     {
       "ID": "Chapter2",
@@ -21281,7 +21286,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12074
+      "UsersEstimate": 12075
     },
     {
       "ID": "Chapter3",
@@ -21625,7 +21630,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19319
+      "UsersEstimate": 19320
     },
     {
       "ID": "DwarfElf15Support",
@@ -21657,7 +21662,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12074
+      "UsersEstimate": 12075
     },
     {
       "ID": "ElfEpic",
@@ -21673,7 +21678,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 86936
+      "UsersEstimate": 86938
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -21689,7 +21694,7 @@
       "Name": "GG EZ",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12074
+      "UsersEstimate": 12075
     },
     {
       "ID": "EndCombatOneHp",
@@ -21873,7 +21878,7 @@
       "Name": "Speedrun",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12074
+      "UsersEstimate": 12075
     },
     {
       "ID": "SupportCount4",
@@ -21928,21 +21933,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 241489,
+      "Progressed": 241494,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 241489,
+      "Progressed": 241494,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-05T23:58:49.2170624+00:00",
-  "LastChanged_Achievements": "2023-12-06T06:09:06.4905321+00:00",
+  "LastChanged_Achievements": "2023-12-06T07:08:45.9005029+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:09.0043717+00:00",
-  "LastUpdate_Ratings": "2023-12-06T05:58:55.8434146+00:00",
-  "LastUpdate_Achievements": "2023-12-06T06:09:06.490746+00:00"
+  "LastUpdate_Ratings": "2023-12-06T06:58:56.4755154+00:00",
+  "LastUpdate_Achievements": "2023-12-06T07:08:45.9006269+00:00"
 }

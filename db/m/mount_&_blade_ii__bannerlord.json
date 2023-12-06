@@ -9480,9 +9480,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 67188,
+  "EOS_Progressed": 67190,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 626,
+  "EOS_NewPlayers": 624,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33745,6 +33745,11 @@
       "Time": "2023-12-06T06:09:33.4107631+00:00",
       "NumProgressed": 67188,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T07:09:11.9654415+00:00",
+      "NumProgressed": 67190,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -33756,7 +33761,7 @@
       "Name": "Against all odds",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8734
+      "UsersEstimate": 8735
     },
     {
       "ID": "Apple of my eye",
@@ -33772,7 +33777,7 @@
       "Name": "Bannerlord",
       "Percentage": 24,
       "XP": 65,
-      "UsersEstimate": 16125
+      "UsersEstimate": 16126
     },
     {
       "ID": "Best served cold",
@@ -33812,7 +33817,7 @@
       "Name": "Crowdfunded",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3359
+      "UsersEstimate": 3360
     },
     {
       "ID": "Crackshot",
@@ -33828,7 +33833,7 @@
       "Name": "Crush your enemies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3359
+      "UsersEstimate": 3360
     },
     {
       "ID": "Duelist",
@@ -33884,7 +33889,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8734
+      "UsersEstimate": 8735
     },
     {
       "ID": "Great Granny",
@@ -33916,7 +33921,7 @@
       "Name": "Horde breaker",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 16125
+      "UsersEstimate": 16126
     },
     {
       "ID": "I can do it",
@@ -33980,7 +33985,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 22172
+      "UsersEstimate": 22173
     },
     {
       "ID": "Lawbringer",
@@ -33988,7 +33993,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26875
+      "UsersEstimate": 26876
     },
     {
       "ID": "Lawmaker",
@@ -33996,7 +34001,7 @@
       "Name": "Lawmaker",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 16125
+      "UsersEstimate": 16126
     },
     {
       "ID": "Long live the Empire",
@@ -34036,7 +34041,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3359
+      "UsersEstimate": 3360
     },
     {
       "ID": "Real Estate",
@@ -34116,7 +34121,7 @@
       "Name": "This Is Our Land",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 9406
+      "UsersEstimate": 9407
     },
     {
       "ID": "This is Sparta",
@@ -34132,7 +34137,7 @@
       "Name": "Trained",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 16125
+      "UsersEstimate": 16126
     },
     {
       "ID": "Undercover",
@@ -34163,15 +34168,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 67188,
+      "Progressed": 67190,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-12-06T01:48:37.1658582+00:00",
-  "LastChanged_Achievements": "2023-12-06T06:09:33.4107628+00:00",
+  "LastChanged_Achievements": "2023-12-06T07:09:11.9654412+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:33.4590063+00:00",
-  "LastUpdate_Ratings": "2023-12-06T05:59:36.2687969+00:00",
-  "LastUpdate_Achievements": "2023-12-06T06:09:33.4109412+00:00"
+  "LastUpdate_Ratings": "2023-12-06T06:59:35.6907791+00:00",
+  "LastUpdate_Achievements": "2023-12-06T07:09:11.9655838+00:00"
 }

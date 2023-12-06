@@ -492,9 +492,9 @@
       "ID": "KR4_ACHIEVEMENT_BONEFLINGERS",
       "SetID": "caeik3h",
       "Name": "The Skeleton War",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "KR4_ACHIEVEMENT_BONEHART",
@@ -1073,8 +1073,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-06T06:06:14.7778402+00:00",
+  "LastChanged_Achievements": "2023-12-06T07:06:07.4628216+00:00",
   "LastUpdate_AppInfo": "2023-11-30T16:57:23.733607+00:00",
-  "LastUpdate_Ratings": "2023-12-06T06:02:31.7815091+00:00",
-  "LastUpdate_Achievements": "2023-12-06T06:06:14.7778939+00:00"
+  "LastUpdate_Ratings": "2023-12-06T07:00:18.5391684+00:00",
+  "LastUpdate_Achievements": "2023-12-06T07:06:07.4628904+00:00"
 }

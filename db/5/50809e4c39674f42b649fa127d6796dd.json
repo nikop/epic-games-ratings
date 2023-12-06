@@ -1205,9 +1205,9 @@
       "ID": "MAIN_CLEAR_ISLAND3",
       "SetID": "apihg0e",
       "Name": "Futile Resistance",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 21
     },
     {
       "ID": "MAIN_CLEAR_ISLAND4",
@@ -1309,9 +1309,9 @@
       "ID": "SUB_CLEAR_ALL",
       "SetID": "apihg0e",
       "Name": "Expert Historian",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SUB_CLEAR_ISLAND1",
@@ -1333,17 +1333,17 @@
       "ID": "SUB_CLEAR_ISLAND3",
       "SetID": "apihg0e",
       "Name": "Chaos Island Expert",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SUB_CLEAR_ISLAND4",
       "SetID": "apihg0e",
       "Name": "Ouranos Island Expert",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "TOTAL_DESTROYED_OBJECT",
@@ -1364,8 +1364,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-06T06:03:29.5922672+00:00",
+  "LastChanged_Achievements": "2023-12-06T07:03:26.0422467+00:00",
   "LastUpdate_AppInfo": "2023-12-05T17:57:05.1429392+00:00",
-  "LastUpdate_Ratings": "2023-12-06T06:02:48.8038256+00:00",
-  "LastUpdate_Achievements": "2023-12-06T06:03:29.5922957+00:00"
+  "LastUpdate_Ratings": "2023-12-06T07:02:44.9223793+00:00",
+  "LastUpdate_Achievements": "2023-12-06T07:03:26.0422688+00:00"
 }

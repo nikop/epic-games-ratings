@@ -8,8 +8,8 @@
 | Conducted Trade | 55.00% | ~16 |
 | It's Yours, My Friend | 52.00% | ~15 |
 | Digging a Hole | 45.00% | ~13 |
+| Going Places | 38.00% | ~11 |
 | Aristocratic | 34.00% | ~10 |
-| Going Places | 34.00% | ~10 |
 | Gotta Go Fast | 31.00% | ~9 |
 | Tutti Frutti | 31.00% | ~9 |
 | Slotting Machine | 21.00% | ~6 |

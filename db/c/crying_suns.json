@@ -649,9 +649,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471843,
+  "EOS_Progressed": 471844,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 325,
+  "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24499,6 +24499,11 @@
       "Time": "2023-12-06T06:09:35.9004617+00:00",
       "NumProgressed": 471843,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-06T07:09:14.5941963+00:00",
+      "NumProgressed": 471844,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -24510,7 +24515,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70776
+      "UsersEstimate": 70777
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -24518,7 +24523,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70776
+      "UsersEstimate": 70777
     },
     {
       "ID": "achievement_first_death",
@@ -24526,7 +24531,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113242
+      "UsersEstimate": 113243
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -24534,7 +24539,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103805
+      "UsersEstimate": 103806
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -24542,7 +24547,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70776
+      "UsersEstimate": 70777
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -24558,7 +24563,7 @@
       "Name": "Chapter IV: Through the Looking Glass",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 37747
+      "UsersEstimate": 37748
     },
     {
       "ID": "achievement_story_complete_chapter_5",
@@ -24598,7 +24603,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311416
+      "UsersEstimate": 311417
     },
     {
       "ID": "achievement_story_landa",
@@ -24622,7 +24627,7 @@
       "Name": "Through the mirror",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37747
+      "UsersEstimate": 37748
     },
     {
       "ID": "achievement_story_meet_mother",
@@ -24670,7 +24675,7 @@
       "Name": "General Vivar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37747
+      "UsersEstimate": 37748
     },
     {
       "ID": "achievement_story_meet_zenon",
@@ -24678,7 +24683,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70776
+      "UsersEstimate": 70777
     },
     {
       "ID": "achievement_story_neon_child",
@@ -24702,7 +24707,7 @@
       "Name": "Back to Ganyma",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37747
+      "UsersEstimate": 37748
     },
     {
       "ID": "achievement_story_spare_oberon",
@@ -25014,7 +25019,7 @@
       "Name": "Kaos Rule",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37747
+      "UsersEstimate": 37748
     },
     {
       "ID": "achievement_win_run_with_starter",
@@ -25022,7 +25027,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103805
+      "UsersEstimate": 103806
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -25141,21 +25146,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15777,
+      "Progressed": 15778,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471843,
+      "Progressed": 471844,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-01T18:58:58.8781534+00:00",
-  "LastChanged_Achievements": "2023-12-06T06:09:35.9004616+00:00",
+  "LastChanged_Achievements": "2023-12-06T07:09:14.5941962+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:22.9078654+00:00",
-  "LastUpdate_Ratings": "2023-12-06T05:57:05.5479075+00:00",
-  "LastUpdate_Achievements": "2023-12-06T06:09:35.9006192+00:00"
+  "LastUpdate_Ratings": "2023-12-06T06:57:09.7424748+00:00",
+  "LastUpdate_Achievements": "2023-12-06T07:09:14.5943229+00:00"
 }

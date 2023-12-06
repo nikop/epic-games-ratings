@@ -3599,9 +3599,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 421535,
+  "EOS_Progressed": 421536,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 1703,
+  "EOS_NewPlayers": 1699,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -21189,6 +21189,11 @@
       "Time": "2023-12-06T06:03:33.5160764+00:00",
       "NumProgressed": 421535,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-12-06T07:03:29.8650788+00:00",
+      "NumProgressed": 421536,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 89,
@@ -21304,7 +21309,7 @@
       "Name": "Close call!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 126460
+      "UsersEstimate": 126461
     },
     {
       "ID": "AchievementCommonCause",
@@ -21368,7 +21373,7 @@
       "Name": "Forgot something",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 147537
+      "UsersEstimate": 147538
     },
     {
       "ID": "AchievementForgotten",
@@ -21384,7 +21389,7 @@
       "Name": "Full garage",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 257136
+      "UsersEstimate": 257137
     },
     {
       "ID": "AchievementGemologist_NAME",
@@ -21424,7 +21429,7 @@
       "Name": "Individual delivery",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 198121
+      "UsersEstimate": 198122
     },
     {
       "ID": "AchievementIndustrialAge",
@@ -21552,7 +21557,7 @@
       "Name": "Missed it!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 29507
+      "UsersEstimate": 29508
     },
     {
       "ID": "AchievementMultilevelRoad",
@@ -21911,21 +21916,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 420876,
+      "Progressed": 420877,
       "Completed": 10
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 421535,
+      "Progressed": 421536,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-12-05T21:00:21.9622464+00:00",
-  "LastChanged_Achievements": "2023-12-06T06:03:33.516076+00:00",
+  "LastChanged_Achievements": "2023-12-06T07:03:29.8650785+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:17.2296428+00:00",
-  "LastUpdate_Ratings": "2023-12-06T05:59:33.9151486+00:00",
-  "LastUpdate_Achievements": "2023-12-06T06:03:33.5162764+00:00"
+  "LastUpdate_Ratings": "2023-12-06T06:59:33.4428254+00:00",
+  "LastUpdate_Achievements": "2023-12-06T07:03:29.8652055+00:00"
 }

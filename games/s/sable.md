@@ -6,13 +6,13 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~34,887 |
-| Just The Two of Us | 33.00% | ~33,861 |
-| Up On High | 25.00% | ~25,652 |
-| Under The Hood | 25.00% | ~25,652 |
-| Got Your Nose | 24.00% | ~24,626 |
-| The Gift of Gab | 24.00% | ~24,626 |
-| Wrapping Up | 22.00% | ~22,574 |
+| Simoon | 34.00% | ~34,888 |
+| Just The Two of Us | 33.00% | ~33,862 |
+| Up On High | 25.00% | ~25,653 |
+| Under The Hood | 25.00% | ~25,653 |
+| Got Your Nose | 24.00% | ~24,627 |
+| The Gift of Gab | 24.00% | ~24,627 |
+| Wrapping Up | 22.00% | ~22,575 |
 | More Than A Box Of Sand | 18.00% | ~18,470 |
 | The Dunboyne | 17.00% | ~17,444 |
 | Badge Hobbyist | 17.00% | ~17,444 |
@@ -21,11 +21,11 @@ Number of Ratings: 43  (23.09.2022)
 | Sticky Paws | 16.00% | ~16,418 |
 | Bubble Up | 16.00% | ~16,418 |
 | Thread The Needle | 15.00% | ~15,392 |
-| Power to the People | 14.00% | ~14,365 |
-| Nesting Giant | 14.00% | ~14,365 |
-| Take That! | 13.00% | ~13,339 |
-| Treasure Tracker | 13.00% | ~13,339 |
-| Big Spender | 13.00% | ~13,339 |
+| Power to the People | 14.00% | ~14,366 |
+| Nesting Giant | 14.00% | ~14,366 |
+| Take That! | 13.00% | ~13,340 |
+| Treasure Tracker | 13.00% | ~13,340 |
+| Big Spender | 13.00% | ~13,340 |
 | Badge Collector | 12.00% | ~12,313 |
 | Quite The Catch | 12.00% | ~12,313 |
 | Rowleys Way | 11.00% | ~11,287 |
@@ -54,8 +54,8 @@ Number of Ratings: 43  (23.09.2022)
 | The Merchant Mask | 6.00% | ~6,157 |
 | Honorary Chum | 6.00% | ~6,157 |
 | Bikes Don't Fly | 6.00% | ~6,157 |
-| The Gliding | 5.00% | ~5,130 |
-| The Entertainer Mask | 5.00% | ~5,130 |
+| The Gliding | 5.00% | ~5,131 |
+| The Entertainer Mask | 5.00% | ~5,131 |
 | The Quick and the Curious | 4.00% | ~4,104 |
 | Bike Aficionado | 4.00% | ~4,104 |
 | Chum Expert | 3.00% | ~3,078 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~3,078 |
 | Vivacious Vivarium | 2.00% | ~2,052 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102,610 (Ranked 88)  
+Progressed: 102,612 (Ranked 88)  
 Completed: 1,038 (1.01%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 1,038 (1.01%) (Ranked 168)
 | 2023-12-03 | 102,316 | 1,034 |
 | 2023-12-04 | 102,451 | 1,035 |
 | 2023-12-05 | 102,587 | 1,037 |
-| 2023-12-06 | 102,610 | 1,038 |
+| 2023-12-06 | 102,612 | 1,038 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 521)  
 Sum: 94 (Ranked 456)  

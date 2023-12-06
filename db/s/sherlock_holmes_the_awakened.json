@@ -3258,9 +3258,9 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 40,
-      "UsersEstimate": 477
+      "UsersEstimate": 485
     },
     {
       "ID": "MQ03_1",
@@ -3451,8 +3451,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-11-26T10:02:59.0802972+00:00",
-  "LastChanged_Achievements": "2023-12-06T06:04:00.4230935+00:00",
+  "LastChanged_Achievements": "2023-12-06T07:03:55.678514+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:20.5690478+00:00",
-  "LastUpdate_Ratings": "2023-12-06T06:02:51.1380392+00:00",
-  "LastUpdate_Achievements": "2023-12-06T06:04:00.4231236+00:00"
+  "LastUpdate_Ratings": "2023-12-06T07:02:47.1825052+00:00",
+  "LastUpdate_Achievements": "2023-12-06T07:03:55.6785342+00:00"
 }
