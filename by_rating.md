@@ -191,7 +191,7 @@
 | 188 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 523 | 210 |
 | 188 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 4.72 | 0 | 557 |
 | 188 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 465 |
-| 188 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.72 | 255 | 269 |
+| 188 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.72 | 255 | 270 |
 | 188 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 80 | 392 |
 | 188 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 350 | 243 |
 | 188 | [The Red Lantern](games/t/the_red_lantern.md) | 4.72 | 0 | 557 |
@@ -406,7 +406,7 @@
 | 388 | [Operation: Tango](games/o/operation__tango.md) | 4.61 | 0 | 557 |
 | 388 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,705 | 101 |
 | 388 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 110 | 354 |
-| 388 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 588 | 200 |
+| 388 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 591 | 200 |
 | 388 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 10,518 | 38 |
 | 388 | [RiME](games/r/rime.md) | 4.61 | 0 | 557 |
 | 388 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,100 | 145 |
@@ -679,7 +679,7 @@
 | 677 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 4.44 | 176 | 303 |
 | 677 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 557 |
 | 677 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.44 | 111 | 350 |
-| 677 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.44 | 255 | 269 |
+| 677 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.44 | 256 | 269 |
 | 677 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 111 | 350 |
 | 677 | [Good Company](games/g/good_company.md) | 4.44 | 0 | 557 |
 | 677 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.44 | 0 | 557 |
