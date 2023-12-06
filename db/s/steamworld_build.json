@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 538,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -178,9 +178,9 @@
       "ID": "GottaGoFast",
       "SetID": "4bd750m",
       "Name": "Gotta Go Fast",
-      "Percentage": 33,
+      "Percentage": 37,
       "XP": 90,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ImALumberbot",
@@ -250,9 +250,9 @@
       "ID": "RollOut",
       "SetID": "4bd750m",
       "Name": "Roll Out",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "RoomToSpare",
@@ -345,8 +345,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-06T08:04:37.4866722+00:00",
+  "LastChanged_Achievements": "2023-12-06T09:04:29.6141527+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:16.2831296+00:00",
-  "LastUpdate_Ratings": "2023-12-06T08:03:00.4862628+00:00",
-  "LastUpdate_Achievements": "2023-12-06T08:04:37.486695+00:00"
+  "LastUpdate_Ratings": "2023-12-06T09:02:47.9170513+00:00",
+  "LastUpdate_Achievements": "2023-12-06T09:04:29.614172+00:00"
 }

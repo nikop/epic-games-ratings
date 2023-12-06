@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38667,
+  "EOS_Progressed": 38668,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -20195,6 +20195,11 @@
       "Time": "2023-12-06T08:04:56.3855533+00:00",
       "NumProgressed": 38667,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-12-06T09:04:48.7328216+00:00",
+      "NumProgressed": 38668,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 14,
@@ -20222,7 +20227,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 10053
+      "UsersEstimate": 10054
     },
     {
       "ID": "allItems",
@@ -20302,7 +20307,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6573
+      "UsersEstimate": 6574
     },
     {
       "ID": "secretItem",
@@ -20317,15 +20322,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 38667,
+      "Progressed": 38668,
       "Completed": 120
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-11-16T13:58:53.3342311+00:00",
-  "LastChanged_Achievements": "2023-12-06T08:04:56.385553+00:00",
+  "LastChanged_Achievements": "2023-12-06T09:04:48.732821+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:07.3802945+00:00",
-  "LastUpdate_Ratings": "2023-12-06T07:58:47.1507619+00:00",
-  "LastUpdate_Achievements": "2023-12-06T08:04:56.3856679+00:00"
+  "LastUpdate_Ratings": "2023-12-06T08:58:43.6986001+00:00",
+  "LastUpdate_Achievements": "2023-12-06T09:04:48.7330019+00:00"
 }

@@ -6,8 +6,8 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 58.00% | ~56,594 |
-| Let There Be Light | 49.00% | ~47,812 |
+| Follow the Light | 58.00% | ~56,595 |
+| Let There Be Light | 49.00% | ~47,813 |
 | Float Like a Butterfly | 47.00% | ~45,861 |
 | Nordic Walking | 39.00% | ~38,055 |
 | Bright Falls' Finest | 38.00% | ~37,079 |
@@ -20,21 +20,21 @@ Number of Ratings: 524  (23.09.2022)
 | Damn Good Cup of Coffee | 25.00% | ~24,394 |
 | They're Heeeeeere! | 24.00% | ~23,418 |
 | Missed by a Mile | 24.00% | ~23,418 |
-| Wheels Within Wheels | 23.00% | ~22,442 |
+| Wheels Within Wheels | 23.00% | ~22,443 |
 | The Six-Gun Scribe | 22.00% | ~21,467 |
 | Heavy Metal | 21.00% | ~20,491 |
 | Iron Horse | 21.00% | ~20,491 |
 | Collateral Carnage | 21.00% | ~20,491 |
 | Come One, Come All | 21.00% | ~20,491 |
 | Perchance to Dream | 20.00% | ~19,515 |
-| It's Not Just a Typewriter Brand | 19.00% | ~18,539 |
-| Thunder and Lightning | 19.00% | ~18,539 |
+| It's Not Just a Typewriter Brand | 19.00% | ~18,540 |
+| Thunder and Lightning | 19.00% | ~18,540 |
 | Gatekeeper | 18.00% | ~17,564 |
 | Two For the Price of One | 18.00% | ~17,564 |
 | The Lady of the Light | 17.00% | ~16,588 |
 | Energized! | 17.00% | ~16,588 |
-| What Light Through Yonder Window | 15.00% | ~14,636 |
-| Right of Way | 15.00% | ~14,636 |
+| What Light Through Yonder Window | 15.00% | ~14,637 |
+| Right of Way | 15.00% | ~14,637 |
 | Tornado Wrangler | 13.00% | ~12,685 |
 | Departure | 12.00% | ~11,709 |
 | Hardboiled Writer | 10.00% | ~9,758 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | No Punctuation | 0.20% | ~122 |
 | Licensed Properties | 0.20% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,576 (Ranked 90)  
+Progressed: 97,577 (Ranked 90)  
 Completed: 110 (0.11%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 110 (0.11%) (Ranked 284)
 | 2023-12-03 | 97,314 | 107 |
 | 2023-12-04 | 97,426 | 108 |
 | 2023-12-05 | 97,544 | 110 |
-| 2023-12-06 | 97,576 | 110 |
+| 2023-12-06 | 97,577 | 110 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

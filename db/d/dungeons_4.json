@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1474,9 +1474,9 @@
       "ID": "ach_main04undead_minions",
       "SetID": "4hg22ll",
       "Name": "Minions, Minions!",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 286
+      "UsersEstimate": 291
     },
     {
       "ID": "ach_main04undead_sacrifice",
@@ -1889,8 +1889,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-06T08:08:47.9233211+00:00",
+  "LastChanged_Achievements": "2023-12-06T09:08:21.0701239+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:15.3424787+00:00",
-  "LastUpdate_Ratings": "2023-12-06T08:00:20.631722+00:00",
-  "LastUpdate_Achievements": "2023-12-06T08:08:47.9233755+00:00"
+  "LastUpdate_Ratings": "2023-12-06T09:00:18.9458454+00:00",
+  "LastUpdate_Achievements": "2023-12-06T09:08:21.0701805+00:00"
 }

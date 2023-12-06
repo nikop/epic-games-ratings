@@ -2,13 +2,13 @@
   "ID": "fee7e9420cd849c3a8e7d09b2622f9b3",
   "Name": "Risen",
   "ProductSlug": "risen-e8e55e",
-  "Ranking_Rating": 479,
+  "Ranking_Rating": 478,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
     "PcReleaseDate": "2009-10-30T16:00:00+00:00",
@@ -401,9 +401,9 @@
       "ID": "id_15",
       "SetID": "bk9jib6",
       "Name": "Archaeologist",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "id_16",
@@ -633,9 +633,9 @@
       "ID": "id_51",
       "SetID": "bk9jib6",
       "Name": "The fourth triplet",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "id_52",
@@ -778,8 +778,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-11-13T23:59:43.760664+00:00",
-  "LastChanged_Achievements": "2023-12-06T08:09:23.9757266+00:00",
+  "LastChanged_Achievements": "2023-12-06T09:08:58.1565372+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:25.2979991+00:00",
-  "LastUpdate_Ratings": "2023-12-06T07:58:43.9828292+00:00",
-  "LastUpdate_Achievements": "2023-12-06T08:09:23.9757546+00:00"
+  "LastUpdate_Ratings": "2023-12-06T08:58:40.4821693+00:00",
+  "LastUpdate_Achievements": "2023-12-06T09:08:58.1565646+00:00"
 }

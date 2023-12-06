@@ -17,9 +17,9 @@ Number of Ratings: 1,225  (23.09.2022)
 | Burn Baby Burn | 59.00% | ~289,714 |
 | Yellow Beats Green | 56.00% | ~274,982 |
 | Salvage Rights | 53.00% | ~260,251 |
+| What IS that? | 51.00% | ~250,430 |
 | Close Call | 50.00% | ~245,520 |
 | Pew Pew | 50.00% | ~245,520 |
-| What IS that? | 50.00% | ~245,520 |
 | Penny Pincher | 49.00% | ~240,610 |
 | Arsenal | 46.00% | ~225,878 |
 | Boot Camp | 45.00% | ~220,968 |

@@ -5,45 +5,45 @@ Rating: 4.64 (Ranked 337)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 93.00% | ~1,996 |
-| Welcome Aboard | 86.00% | ~1,846 |
-| Lab Rat | 77.00% | ~1,652 |
-| All Systems Go | 67.00% | ~1,438 |
-| Brute Force | 67.00% | ~1,438 |
-| Cannon Fodder | 63.00% | ~1,352 |
-| Autofire | 59.00% | ~1,266 |
-| True Believer | 58.00% | ~1,245 |
-| Story Teller | 57.00% | ~1,223 |
-| Raise the Stakes | 56.00% | ~1,202 |
-| Surgeon | 54.00% | ~1,159 |
-| Freeze | 53.00% | ~1,137 |
-| Exterminator | 53.00% | ~1,137 |
-| Greenhouse Effect | 53.00% | ~1,137 |
-| S.O.S. | 48.00% | ~1,030 |
-| Full Arsenal | 47.00% | ~1,009 |
-| Get Off My Ship! | 45.00% | ~966 |
-| Strange Transmissions | 45.00% | ~966 |
-| Wreckage | 44.00% | ~944 |
-| Keeper of the Faith | 42.00% | ~901 |
-| Live with the Hot Ones | 42.00% | ~901 |
-| Betrayed | 40.00% | ~858 |
-| Exodus | 39.00% | ~837 |
-| Legend Teller | 39.00% | ~837 |
-| Mindless Prey | 39.00% | ~837 |
-| There's Always Peng! | 38.00% | ~815 |
+| Marksman | 93.00% | ~1,998 |
+| Welcome Aboard | 86.00% | ~1,847 |
+| Lab Rat | 77.00% | ~1,654 |
+| All Systems Go | 67.00% | ~1,439 |
+| Brute Force | 67.00% | ~1,439 |
+| Cannon Fodder | 63.00% | ~1,353 |
+| Autofire | 59.00% | ~1,267 |
+| True Believer | 58.00% | ~1,246 |
+| Story Teller | 57.00% | ~1,224 |
+| Raise the Stakes | 56.00% | ~1,203 |
+| Surgeon | 54.00% | ~1,160 |
+| Freeze | 53.00% | ~1,138 |
+| Exterminator | 53.00% | ~1,138 |
+| Greenhouse Effect | 53.00% | ~1,138 |
+| S.O.S. | 48.00% | ~1,031 |
+| Full Arsenal | 47.00% | ~1,010 |
+| Get Off My Ship! | 46.00% | ~988 |
+| Strange Transmissions | 45.00% | ~967 |
+| Wreckage | 44.00% | ~945 |
+| Keeper of the Faith | 42.00% | ~902 |
+| Live with the Hot Ones | 42.00% | ~902 |
+| Betrayed | 40.00% | ~859 |
+| Exodus | 39.00% | ~838 |
+| Legend Teller | 39.00% | ~838 |
+| Mindless Prey | 39.00% | ~838 |
+| There's Always Peng! | 38.00% | ~816 |
 | Front Toward Enemy | 34.00% | ~730 |
-| A Cut Above | 33.00% | ~708 |
+| A Cut Above | 33.00% | ~709 |
 | Whole Again | 30.00% | ~644 |
 | Set A Benchmark | 30.00% | ~644 |
-| Full Contact | 27.00% | ~579 |
-| Pack Rat | 27.00% | ~579 |
+| Full Contact | 27.00% | ~580 |
+| Pack Rat | 27.00% | ~580 |
 | Final Regeneration | 26.00% | ~558 |
-| Full Clearance | 25.00% | ~536 |
+| Full Clearance | 25.00% | ~537 |
 | Pusher | 23.00% | ~494 |
 | Z-Baller | 23.00% | ~494 |
-| Marked | 22.00% | ~472 |
+| Marked | 22.00% | ~473 |
 | Eviscerator | 19.00% | ~408 |
-| Backbreaker | 14.00% | ~300 |
+| Backbreaker | 14.00% | ~301 |
 | Wishbone | 8.00% | ~172 |
 | Trusted Contractor | 7.00% | ~150 |
 | Built To Order | 6.00% | ~129 |
@@ -53,7 +53,7 @@ Rating: 4.64 (Ranked 337)
 | Untouchable | 2.00% | ~43 |
 | One Gun | 2.00% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,146 (Ranked 226)  
+Progressed: 2,148 (Ranked 226)  
 Completed: 13 (0.61%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 13 (0.61%) (Ranked 191)
 | 2023-12-03 | 2,110 | 13 |
 | 2023-12-04 | 2,126 | 13 |
 | 2023-12-05 | 2,140 | 13 |
-| 2023-12-06 | 2,146 | 13 |
+| 2023-12-06 | 2,148 | 13 |
 ## Awards
 Max (Great Boss Battles): 117  (Ranked 346)  
 Sum: 117 (Ranked 443)  

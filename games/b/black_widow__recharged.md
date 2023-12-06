@@ -22,7 +22,7 @@ Number of Ratings: 34  (23.09.2022)
 | Time of Our Life | 0.30% | ~66 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 21,886 (Ranked 141)  
-Completed: 59 (0.27%) (Ranked 248)  
+Completed: 60 (0.27%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -251,7 +251,7 @@ Completed: 59 (0.27%) (Ranked 248)
 | 2023-12-03 | 21,675 | 59 |
 | 2023-12-04 | 21,768 | 59 |
 | 2023-12-05 | 21,855 | 59 |
-| 2023-12-06 | 21,886 | 59 |
+| 2023-12-06 | 21,886 | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 380852,
+  "EOS_Progressed": 380860,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 4038,
+  "EOS_NewPlayers": 4030,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8661,6 +8661,11 @@
       "Time": "2023-12-06T08:05:59.3964368+00:00",
       "NumProgressed": 380852,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-12-06T09:05:53.4256318+00:00",
+      "NumProgressed": 380860,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 28,
@@ -8672,7 +8677,7 @@
       "Name": "BUTCHER",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 22851
+      "UsersEstimate": 22852
     },
     {
       "ID": "GB_CELEBRITY",
@@ -8696,7 +8701,7 @@
       "Name": "CRIMINAL",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 76170
+      "UsersEstimate": 76172
     },
     {
       "ID": "GB_DEBTOR",
@@ -8720,7 +8725,7 @@
       "Name": "FIRST BLOOD",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 152341
+      "UsersEstimate": 152344
     },
     {
       "ID": "GB_GOURMET",
@@ -8736,7 +8741,7 @@
       "Name": "GRANDMA WOULD BE PROUD",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 41894
+      "UsersEstimate": 41895
     },
     {
       "ID": "GB_GRATITUDE",
@@ -8768,7 +8773,7 @@
       "Name": "HONORS STUDENT",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 30468
+      "UsersEstimate": 30469
     },
     {
       "ID": "GB_INDIVIDUAL_APPROACH",
@@ -8792,7 +8797,7 @@
       "Name": "JACK OF ALL TRADES",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 87596
+      "UsersEstimate": 87598
     },
     {
       "ID": "GB_KEVIN",
@@ -8800,7 +8805,7 @@
       "Name": "KEVIN!",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 114256
+      "UsersEstimate": 114258
     },
     {
       "ID": "GB_LAW_ABIDING_CITIZEN",
@@ -8824,7 +8829,7 @@
       "Name": "MASTER CHEF",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 171383
+      "UsersEstimate": 171387
     },
     {
       "ID": "GB_MISTER_ALL_THUMBS",
@@ -8895,7 +8900,7 @@
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 380852,
+      "Progressed": 380860,
       "Completed": 46
     }
   ],
@@ -8903,8 +8908,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-10-28T12:59:45.1014127+00:00",
-  "LastChanged_Achievements": "2023-12-06T08:05:59.3964363+00:00",
+  "LastChanged_Achievements": "2023-12-06T09:05:53.4256313+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:14.9979471+00:00",
-  "LastUpdate_Ratings": "2023-12-06T08:02:58.4142469+00:00",
-  "LastUpdate_Achievements": "2023-12-06T08:05:59.396498+00:00"
+  "LastUpdate_Ratings": "2023-12-06T09:02:45.8403665+00:00",
+  "LastUpdate_Achievements": "2023-12-06T09:05:53.4256879+00:00"
 }

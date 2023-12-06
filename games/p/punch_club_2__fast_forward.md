@@ -40,14 +40,14 @@
 | Fight is life | 47.00% | ~169 |
 | Mysterious voice | 47.00% | ~169 |
 | Guiding on the right path | 47.00% | ~169 |
+| Champion – no way back | 44.00% | ~158 |
 | No blades in the gym | 44.00% | ~158 |
-| Champion – no way back | 43.00% | ~155 |
 | Underground dwellers | 42.00% | ~151 |
 | Responsible approach | 42.00% | ~151 |
 | Deal with life | 41.00% | ~148 |
 | GYM professional | 41.00% | ~148 |
+| Poisoned fighter | 41.00% | ~148 |
 | Mom got better | 40.00% | ~144 |
-| Poisoned fighter | 40.00% | ~144 |
 | The die is cast | 40.00% | ~144 |
 | Get out of my apartment! | 39.00% | ~140 |
 | Seashell hunter | 38.00% | ~137 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -856,7 +856,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 49054,
+  "EOS_Progressed": 49057,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 935,
   "EOS_NewCompleters": 0,
@@ -26876,6 +26876,11 @@
       "Time": "2023-12-06T08:04:05.844862+00:00",
       "NumProgressed": 49054,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-06T09:03:57.050231+00:00",
+      "NumProgressed": 49057,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -26943,7 +26948,7 @@
       "Name": "Amateur",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4905
+      "UsersEstimate": 4906
     },
     {
       "ID": "goals75",
@@ -27007,7 +27012,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 8339
+      "UsersEstimate": 8340
     },
     {
       "ID": "novice",
@@ -27023,7 +27028,7 @@
       "Name": "Unlock Felipe",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "playerIzel",
@@ -27039,7 +27044,7 @@
       "Name": "Unlock Maya",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3924
+      "UsersEstimate": 3925
     },
     {
       "ID": "playerPaz",
@@ -27183,7 +27188,7 @@
       "Name": "Wanderer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3924
+      "UsersEstimate": 3925
     },
     {
       "ID": "windswept",
@@ -27198,15 +27203,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 49054,
+      "Progressed": 49057,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-12-05T11:01:41.308385+00:00",
-  "LastChanged_Achievements": "2023-12-06T08:04:05.8448616+00:00",
+  "LastChanged_Achievements": "2023-12-06T09:03:57.0502306+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:54.929935+00:00",
-  "LastUpdate_Ratings": "2023-12-06T07:57:10.0156333+00:00",
-  "LastUpdate_Achievements": "2023-12-06T08:04:05.8450159+00:00"
+  "LastUpdate_Ratings": "2023-12-06T08:57:02.7856059+00:00",
+  "LastUpdate_Achievements": "2023-12-06T09:03:57.0504861+00:00"
 }

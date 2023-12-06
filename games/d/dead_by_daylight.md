@@ -6,19 +6,19 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~10,735 |
-| It wakes | 1.00% | ~10,735 |
-| Not half bad | 1.00% | ~10,735 |
-| Skillful | 1.00% | ~10,735 |
-| Make Some Noise | 1.00% | ~10,735 |
+| It wakes | 2.00% | ~21,472 |
+| Zealous | 1.00% | ~10,736 |
+| Not half bad | 1.00% | ~10,736 |
+| Skillful | 1.00% | ~10,736 |
+| Make Some Noise | 1.00% | ~10,736 |
 | Apt Survivor | 0.90% | ~9,662 |
 | Survival Treasures | 0.90% | ~9,662 |
 | I | 0.90% | ~9,662 |
-| Handyman | 0.80% | ~8,588 |
-| Sorted | 0.80% | ~8,588 |
-| Resurgence | 0.80% | ~8,588 |
+| No one left behind | 0.80% | ~8,589 |
+| Handyman | 0.80% | ~8,589 |
+| Sorted | 0.80% | ~8,589 |
+| Resurgence | 0.80% | ~8,589 |
 | The Grand Sacrifice | 0.70% | ~7,515 |
-| No one left behind | 0.70% | ~7,515 |
 | Medic | 0.70% | ~7,515 |
 | Bloody Millionaire | 0.70% | ~7,515 |
 | Healthy Obsession | 0.70% | ~7,515 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Joke’s On You | 0.10% | ~1,074 |
 | Adept Good Guy | 0.10% | ~1,074 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,073,516 (Ranked 14)  
+Progressed: 1,073,581 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -469,7 +469,7 @@ Completed: 61 (0.01%) (Ranked 347)
 | 2023-12-03 | 1,067,390 | 61 |
 | 2023-12-04 | 1,070,133 | 61 |
 | 2023-12-05 | 1,072,750 | 61 |
-| 2023-12-06 | 1,073,516 | 61 |
+| 2023-12-06 | 1,073,581 | 61 |
 ## Awards
 Max (Diverse Characters): 37,377  (Ranked 15)  
 Sum: 283,541 (Ranked 12)  

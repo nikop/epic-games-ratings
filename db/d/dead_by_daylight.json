@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 4,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -13412,9 +13412,9 @@
       "Count": 27655
     }
   ],
-  "EOS_Progressed": 1073516,
+  "EOS_Progressed": 1073581,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 21783,
+  "EOS_NewPlayers": 21776,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39832,6 +39832,11 @@
       "Time": "2023-12-06T08:09:46.2098233+00:00",
       "NumProgressed": 1073516,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-06T09:09:20.4927672+00:00",
+      "NumProgressed": 1073581,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 232,
@@ -39961,9 +39966,9 @@
       "ID": "ACH_016",
       "SetID": "bdmlp8o",
       "Name": "No one left behind",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 7515
+      "UsersEstimate": 8589
     },
     {
       "ID": "ACH_017",
@@ -39979,7 +39984,7 @@
       "Name": "Handyman",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 8588
+      "UsersEstimate": 8589
     },
     {
       "ID": "ACH_019",
@@ -40011,15 +40016,15 @@
       "Name": "Zealous",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10735
+      "UsersEstimate": 10736
     },
     {
       "ID": "ACH_023",
       "SetID": "bdmlp8o",
       "Name": "It wakes",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10735
+      "UsersEstimate": 21472
     },
     {
       "ID": "ACH_024",
@@ -40027,7 +40032,7 @@
       "Name": "Not half bad",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10735
+      "UsersEstimate": 10736
     },
     {
       "ID": "ACH_025",
@@ -40147,7 +40152,7 @@
       "Name": "Skillful",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10735
+      "UsersEstimate": 10736
     },
     {
       "ID": "ACH_040",
@@ -40411,7 +40416,7 @@
       "Name": "Sorted",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 8588
+      "UsersEstimate": 8589
     },
     {
       "ID": "ACH_073",
@@ -41059,7 +41064,7 @@
       "Name": "Resurgence",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 8588
+      "UsersEstimate": 8589
     },
     {
       "ID": "ACH_157",
@@ -41611,7 +41616,7 @@
       "Name": "Make Some Noise",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 10735
+      "UsersEstimate": 10736
     },
     {
       "ID": "ACH_226",
@@ -41698,21 +41703,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1073516,
+      "Progressed": 1073581,
       "Completed": 70
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1073516,
+      "Progressed": 1073581,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-12-06T04:58:56.7184995+00:00",
-  "LastChanged_Achievements": "2023-12-06T08:09:46.2098229+00:00",
+  "LastChanged_Achievements": "2023-12-06T09:09:20.4927668+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:13.1126718+00:00",
-  "LastUpdate_Ratings": "2023-12-06T07:58:56.8435078+00:00",
-  "LastUpdate_Achievements": "2023-12-06T08:09:46.2103322+00:00"
+  "LastUpdate_Ratings": "2023-12-06T08:58:53.8145995+00:00",
+  "LastUpdate_Achievements": "2023-12-06T09:09:20.4932764+00:00"
 }

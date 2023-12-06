@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~86,940 |
+| Sowwy! | 36.00% | ~86,941 |
 | Alt+F4 | 9.00% | ~21,735 |
 | Where's that freaking Dwarf? | 8.00% | ~19,320 |
 | Déjà vu | 7.00% | ~16,905 |
@@ -44,18 +44,18 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 1.00% | ~2,415 |
 | Lust and Debauchery | 1.00% | ~2,415 |
 | Material Girl | 1.00% | ~2,415 |
-| In Navalu's footsteps | 0.90% | ~2,173 |
+| In Navalu's footsteps | 0.90% | ~2,174 |
 | Lëgal Legend | 0.80% | ~1,932 |
-| An old poacher makes the best gamekeeper | 0.70% | ~1,690 |
-| We come in peace | 0.70% | ~1,690 |
+| An old poacher makes the best gamekeeper | 0.70% | ~1,691 |
+| We come in peace | 0.70% | ~1,691 |
 | Holistic Adventuring Party | 0.60% | ~1,449 |
 | Law and Order | 0.60% | ~1,449 |
-| Scholar of the Lands of Fangh | 0.50% | ~1,207 |
-| It's been a hard day's night | 0.50% | ~1,207 |
+| Scholar of the Lands of Fangh | 0.50% | ~1,208 |
+| It's been a hard day's night | 0.50% | ~1,208 |
 | Friendly fire | 0.40% | ~966 |
 | I'd rather... Just... Sing! | 0.40% | ~966 |
-| The number of the counting shalt be 7 | 0.30% | ~724 |
-| Inception | 0.30% | ~724 |
+| The number of the counting shalt be 7 | 0.30% | ~725 |
+| Inception | 0.30% | ~725 |
 | Cursed die | 0.20% | ~483 |
 | The Blood Countess | 0.20% | ~483 |
 | Free customer service | 0.20% | ~483 |
@@ -67,35 +67,35 @@ Number of Ratings: 118  (23.09.2022)
 | Death is for wimps | 0.20% | ~483 |
 | Super-Ultra-Lydian | 0.20% | ~483 |
 | Demisemiquaver | 0.20% | ~483 |
-| Necrophilia | 0.10% | ~241 |
-| He’s alive! Aliiiive! | 0.10% | ~241 |
-| Restless night | 0.10% | ~241 |
-| King of the Arena | 0.10% | ~241 |
-| Finally free | 0.10% | ~241 |
-| Hoarding | 0.10% | ~241 |
-| Staff cut | 0.10% | ~241 |
-| Legendary brew | 0.10% | ~241 |
-| Elite Adventurers | 0.10% | ~241 |
-| Take your time back in time | 0.10% | ~241 |
-| Egghead | 0.10% | ~241 |
-| A broken clock… | 0.10% | ~241 |
-| Sleep schedule mastery | 0.10% | ~241 |
-| Cute Dungeon | 0.10% | ~241 |
-| Mystical Dungeon | 0.10% | ~241 |
-| Gloomy Dungeon | 0.10% | ~241 |
-| Power struggle | 0.10% | ~241 |
-| Hit snooze | 0.10% | ~241 |
-| Living legends of the Lands of Fangh | 0.10% | ~241 |
-| Minmaxer | 0.10% | ~241 |
-| Iron Golems Tamer | 0.10% | ~241 |
-| And they lived happily ever after... | 0.10% | ~241 |
-| Star-crossed lovers | 0.10% | ~241 |
-| Pyrrhic victory | 0.10% | ~241 |
-| Lord of the Drunks | 0.10% | ~241 |
-| Dumb and dumber | 0.10% | ~241 |
-| Dwarf Candy | 0.10% | ~241 |
+| Necrophilia | 0.10% | ~242 |
+| He’s alive! Aliiiive! | 0.10% | ~242 |
+| Restless night | 0.10% | ~242 |
+| King of the Arena | 0.10% | ~242 |
+| Finally free | 0.10% | ~242 |
+| Hoarding | 0.10% | ~242 |
+| Staff cut | 0.10% | ~242 |
+| Legendary brew | 0.10% | ~242 |
+| Elite Adventurers | 0.10% | ~242 |
+| Take your time back in time | 0.10% | ~242 |
+| Egghead | 0.10% | ~242 |
+| A broken clock… | 0.10% | ~242 |
+| Sleep schedule mastery | 0.10% | ~242 |
+| Cute Dungeon | 0.10% | ~242 |
+| Mystical Dungeon | 0.10% | ~242 |
+| Gloomy Dungeon | 0.10% | ~242 |
+| Power struggle | 0.10% | ~242 |
+| Hit snooze | 0.10% | ~242 |
+| Living legends of the Lands of Fangh | 0.10% | ~242 |
+| Minmaxer | 0.10% | ~242 |
+| Iron Golems Tamer | 0.10% | ~242 |
+| And they lived happily ever after... | 0.10% | ~242 |
+| Star-crossed lovers | 0.10% | ~242 |
+| Pyrrhic victory | 0.10% | ~242 |
+| Lord of the Drunks | 0.10% | ~242 |
+| Dumb and dumber | 0.10% | ~242 |
+| Dwarf Candy | 0.10% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,499 (Ranked 63)  
+Progressed: 241,503 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 7 (0.00%) (Ranked 369)
 | 2023-12-03 | 241,176 | 7 |
 | 2023-12-04 | 241,332 | 7 |
 | 2023-12-05 | 241,460 | 7 |
-| 2023-12-06 | 241,499 | 7 |
+| 2023-12-06 | 241,503 | 7 |
 ## Awards
 Max (Character Customization): 242  (Ranked 272)  
 Sum: 489 (Ranked 329)  

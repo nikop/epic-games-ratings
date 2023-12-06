@@ -9,17 +9,17 @@
 | It's Yours, My Friend | 50.00% | ~15 |
 | Digging a Hole | 43.00% | ~13 |
 | Going Places | 40.00% | ~12 |
+| Gotta Go Fast | 37.00% | ~11 |
 | Aristocratic | 33.00% | ~10 |
-| Gotta Go Fast | 33.00% | ~10 |
 | Tutti Frutti | 33.00% | ~10 |
 | Slotting Machine | 20.00% | ~6 |
 | Mine Sweeper | 17.00% | ~5 |
 | Botropolis | 10.00% | ~3 |
+| Roll Out | 10.00% | ~3 |
 | Steam Powered | 10.00% | ~3 |
 | Systematic | 10.00% | ~3 |
 | Dopa-Miner | 7.00% | ~2 |
 | Real Purdy | 7.00% | ~2 |
-| Roll Out | 7.00% | ~2 |
 | Steaming Rich | 7.00% | ~2 |
 | Whoa! | 7.00% | ~2 |
 | Manic Mechanic | 3.00% | ~1 |

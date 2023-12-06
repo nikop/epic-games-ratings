@@ -5,74 +5,74 @@ Rating: 4.76 (Ranked 130)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 68.00% | ~246,881 |
-| The Player Whisperer | 67.00% | ~243,250 |
-| One of Us, One of Us! | 62.00% | ~225,097 |
-| First Victory | 55.00% | ~199,683 |
-| Clean Sheet | 54.00% | ~196,052 |
-| #DoneDeal | 54.00% | ~196,052 |
-| Off the Books | 51.00% | ~185,161 |
-| Super-Sub | 51.00% | ~185,161 |
-| Hat-trick | 46.00% | ~167,008 |
-| Planned Signing | 43.00% | ~156,116 |
-| "I Would Love It If We Beat Them" | 42.00% | ~152,485 |
-| Scoring Streak | 40.00% | ~145,224 |
-| Thumping | 39.00% | ~141,593 |
-| Wheeler Dealer | 39.00% | ~141,593 |
-| People Pleaser | 38.00% | ~137,963 |
-| Unbeatable! | 37.00% | ~134,332 |
-| One Of Our Own | 36.00% | ~130,702 |
-| They're a Natural | 31.00% | ~112,549 |
-| Record Signing | 31.00% | ~112,549 |
-| Team Performance | 30.00% | ~108,918 |
-| The Only Stat That Matters | 29.00% | ~105,287 |
-| Star Player | 28.00% | ~101,657 |
-| Parked The Bus | 27.00% | ~98,026 |
-| Full Faith | 27.00% | ~98,026 |
-| Goal Rush | 27.00% | ~98,026 |
-| The People's Champion | 27.00% | ~98,026 |
-| Squad Goals | 26.00% | ~94,396 |
-| Beating Expectations | 25.00% | ~90,765 |
-| Unstoppable Force | 25.00% | ~90,765 |
-| You're on Fire | 24.00% | ~87,134 |
-| Tremendous Trio | 24.00% | ~87,134 |
-| Record Sale | 24.00% | ~87,134 |
-| On a Roll | 23.00% | ~83,504 |
-| Drilling Down | 23.00% | ~83,504 |
-| Flavour Of The Month | 23.00% | ~83,504 |
-| Shots For Days | 23.00% | ~83,504 |
-| The Special One | 22.00% | ~79,873 |
-| What A Goal! | 21.00% | ~76,243 |
-| Goal Machine | 20.00% | ~72,612 |
-| Splashing the Cash | 19.00% | ~68,981 |
-| Immovable Object | 19.00% | ~68,981 |
-| Cup Glory! | 19.00% | ~68,981 |
-| Irresistible Force | 17.00% | ~61,720 |
-| Do The Double | 16.00% | ~58,090 |
-| Cash to Burn | 16.00% | ~58,090 |
-| Window Shopping | 14.00% | ~50,828 |
-| Top Form | 13.00% | ~47,198 |
-| A Game of Two Halves | 12.00% | ~43,567 |
-| You're Up! | 12.00% | ~43,567 |
-| Money, Money, Money | 10.00% | ~36,306 |
+| Motivational Speaker | 68.00% | ~246,886 |
+| The Player Whisperer | 67.00% | ~243,255 |
+| One of Us, One of Us! | 62.00% | ~225,102 |
+| First Victory | 55.00% | ~199,687 |
+| Clean Sheet | 54.00% | ~196,056 |
+| #DoneDeal | 54.00% | ~196,056 |
+| Off the Books | 51.00% | ~185,164 |
+| Super-Sub | 51.00% | ~185,164 |
+| Hat-trick | 46.00% | ~167,011 |
+| Planned Signing | 43.00% | ~156,119 |
+| "I Would Love It If We Beat Them" | 42.00% | ~152,488 |
+| Scoring Streak | 40.00% | ~145,227 |
+| Thumping | 39.00% | ~141,596 |
+| Wheeler Dealer | 39.00% | ~141,596 |
+| People Pleaser | 38.00% | ~137,965 |
+| Unbeatable! | 37.00% | ~134,335 |
+| One Of Our Own | 36.00% | ~130,704 |
+| They're a Natural | 31.00% | ~112,551 |
+| Record Signing | 31.00% | ~112,551 |
+| Team Performance | 30.00% | ~108,920 |
+| The Only Stat That Matters | 29.00% | ~105,289 |
+| Star Player | 28.00% | ~101,659 |
+| Parked The Bus | 27.00% | ~98,028 |
+| Full Faith | 27.00% | ~98,028 |
+| Goal Rush | 27.00% | ~98,028 |
+| The People's Champion | 27.00% | ~98,028 |
+| Squad Goals | 26.00% | ~94,397 |
+| Beating Expectations | 25.00% | ~90,767 |
+| Unstoppable Force | 25.00% | ~90,767 |
+| You're on Fire | 24.00% | ~87,136 |
+| Tremendous Trio | 24.00% | ~87,136 |
+| Record Sale | 24.00% | ~87,136 |
+| On a Roll | 23.00% | ~83,505 |
+| Drilling Down | 23.00% | ~83,505 |
+| Flavour Of The Month | 23.00% | ~83,505 |
+| Shots For Days | 23.00% | ~83,505 |
+| The Special One | 22.00% | ~79,875 |
+| What A Goal! | 21.00% | ~76,244 |
+| Goal Machine | 20.00% | ~72,613 |
+| Splashing the Cash | 19.00% | ~68,983 |
+| Immovable Object | 19.00% | ~68,983 |
+| Cup Glory! | 19.00% | ~68,983 |
+| Irresistible Force | 17.00% | ~61,721 |
+| Do The Double | 16.00% | ~58,091 |
+| Cash to Burn | 16.00% | ~58,091 |
+| Window Shopping | 14.00% | ~50,829 |
+| Top Form | 13.00% | ~47,199 |
+| A Game of Two Halves | 12.00% | ~43,568 |
+| You're Up! | 12.00% | ~43,568 |
+| Money, Money, Money | 10.00% | ~36,307 |
 | Clean Sheet Network | 8.00% | ~29,045 |
 | First Goal Network | 8.00% | ~29,045 |
 | First Win Network | 8.00% | ~29,045 |
 | Superb Strike | 8.00% | ~29,045 |
 | Tête-à-tête | 8.00% | ~29,045 |
 | Best in the World | 8.00% | ~29,045 |
-| National Service | 7.00% | ~25,414 |
-| Invincible! | 7.00% | ~25,414 |
-| Domination | 7.00% | ~25,414 |
+| National Service | 7.00% | ~25,415 |
+| Invincible! | 7.00% | ~25,415 |
+| Domination | 7.00% | ~25,415 |
 | Best in the Business | 6.00% | ~21,784 |
 | Total Support | 6.00% | ~21,784 |
 | Second Hand Signing | 6.00% | ~21,784 |
 | You Can Buy Happiness | 6.00% | ~21,784 |
-| Legend | 4.00% | ~14,522 |
-| Bragging Rights | 4.00% | ~14,522 |
-| World Beaters | 4.00% | ~14,522 |
-| Parked The Tank | 4.00% | ~14,522 |
-| World Renowned | 4.00% | ~14,522 |
+| Legend | 4.00% | ~14,523 |
+| Bragging Rights | 4.00% | ~14,523 |
+| World Beaters | 4.00% | ~14,523 |
+| Parked The Tank | 4.00% | ~14,523 |
+| World Renowned | 4.00% | ~14,523 |
 | Invitational | 3.00% | ~10,892 |
 | Cupset Between Friends | 2.00% | ~7,261 |
 | National Hero | 2.00% | ~7,261 |
@@ -82,7 +82,7 @@ Rating: 4.76 (Ranked 130)
 | Freedom of the Country | 2.00% | ~7,261 |
 | On Top of the World | 2.00% | ~7,261 |
 | Part of the Furniture | 1.00% | ~3,631 |
-| First Goal Versus | 0.80% | ~2,904 |
+| First Goal Versus | 0.80% | ~2,905 |
 | The Greatest | 0.70% | ~2,541 |
 | Perfect Host | 0.70% | ~2,541 |
 | First Win Versus | 0.60% | ~2,178 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 130)
 | 200 Club | 0.10% | ~363 |
 | Draft Value | 0.10% | ~363 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363,060 (Ranked 48)  
+Progressed: 363,067 (Ranked 48)  
 Completed: 27 (0.01%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 27 (0.01%) (Ranked 347)
 | 2023-12-03 | 362,601 | 27 |
 | 2023-12-04 | 362,819 | 27 |
 | 2023-12-05 | 363,025 | 27 |
-| 2023-12-06 | 363,060 | 27 |
+| 2023-12-06 | 363,067 | 27 |
 ## Awards
 Max (Diverse Characters): 1,241  (Ranked 140)  
 Sum: 8,602 (Ranked 99)  

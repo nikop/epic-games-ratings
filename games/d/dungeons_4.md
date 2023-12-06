@@ -20,7 +20,7 @@
 | The Ascent | 57.00% | ~302 |
 | It's Warm and Cozy at Home | 57.00% | ~302 |
 | Trap Master | 56.00% | ~296 |
-| Minions, Minions! | 54.00% | ~286 |
+| Minions, Minions! | 55.00% | ~291 |
 | The Big Eaty | 52.00% | ~275 |
 | Hard Work | 51.00% | ~270 |
 | YOU SHALL NOT PASS! | 50.00% | ~264 |

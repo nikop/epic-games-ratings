@@ -3,12 +3,12 @@
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
   "Ranking_Rating": 592,
-  "Ranking_Popularity": 279,
+  "Ranking_Popularity": 278,
   "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -629,18 +629,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 246,
       "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-12-06T08:57:12.0332695+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 247,
+      "NumberOfAwardsMax": 225
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 246,
-  "NumberOfAwardsMax": 224,
+  "NumberOfAwards": 247,
+  "NumberOfAwardsMax": 225,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 224
+      "Count": 225
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -649,7 +655,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471845,
+  "EOS_Progressed": 471846,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 0,
@@ -24509,6 +24515,11 @@
       "Time": "2023-12-06T08:09:43.9178987+00:00",
       "NumProgressed": 471845,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-06T09:09:18.2331038+00:00",
+      "NumProgressed": 471846,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -24560,7 +24571,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47184
+      "UsersEstimate": 47185
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -24640,7 +24651,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117961
+      "UsersEstimate": 117962
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -24704,7 +24715,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160427
+      "UsersEstimate": 160428
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -25151,21 +25162,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15779,
+      "Progressed": 15780,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471845,
+      "Progressed": 471846,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
-  "LastChanged": "2023-12-01T18:58:58.8781534+00:00",
-  "LastChanged_Achievements": "2023-12-06T08:09:43.9178982+00:00",
+  "LastChanged": "2023-12-06T08:57:12.0332693+00:00",
+  "LastChanged_Achievements": "2023-12-06T09:09:18.2331036+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:22.9078654+00:00",
-  "LastUpdate_Ratings": "2023-12-06T07:57:18.8322259+00:00",
-  "LastUpdate_Achievements": "2023-12-06T08:09:43.9181266+00:00"
+  "LastUpdate_Ratings": "2023-12-06T08:57:12.0332701+00:00",
+  "LastUpdate_Achievements": "2023-12-06T09:09:18.2332441+00:00"
 }

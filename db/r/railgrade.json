@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 3669,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 3670,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
     "PcReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -603,9 +603,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 18269,
+  "EOS_Progressed": 18268,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": -65,
+  "EOS_NewPlayers": -66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10368,6 +10368,11 @@
       "Time": "2023-12-05T23:07:59.7362273+00:00",
       "NumProgressed": 18269,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-12-06T09:02:59.8435018+00:00",
+      "NumProgressed": 18268,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 37,
@@ -10419,7 +10424,7 @@
       "Name": "Going the Distance",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 10596
+      "UsersEstimate": 10595
     },
     {
       "ID": "ach.070.8kenough",
@@ -10427,7 +10432,7 @@
       "Name": "8K is Enough for Everyone",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4385
+      "UsersEstimate": 4384
     },
     {
       "ID": "ach.080.eraser",
@@ -10435,7 +10440,7 @@
       "Name": "Eraser",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 13702
+      "UsersEstimate": 13701
     },
     {
       "ID": "ach.090.perfectionist",
@@ -10459,7 +10464,7 @@
       "Name": "Multiverse",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1461
     },
     {
       "ID": "ach.120.simplification",
@@ -10467,7 +10472,7 @@
       "Name": "Simplification",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 6577
+      "UsersEstimate": 6576
     },
     {
       "ID": "ach.130.minimalist",
@@ -10475,7 +10480,7 @@
       "Name": "Minimalist",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 17538
+      "UsersEstimate": 17537
     },
     {
       "ID": "ach.140.legacy",
@@ -10483,7 +10488,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 105,
       "XP": 60,
-      "UsersEstimate": 19182
+      "UsersEstimate": 19181
     },
     {
       "ID": "ach.150.pocket",
@@ -10499,7 +10504,7 @@
       "Name": "Box of Trains",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 6577
+      "UsersEstimate": 6576
     },
     {
       "ID": "ach.170.room",
@@ -10547,7 +10552,7 @@
       "Name": "Hot Water",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 6029
+      "UsersEstimate": 6028
     },
     {
       "ID": "ach.230.infinity",
@@ -10571,7 +10576,7 @@
       "Name": "Before the Downfall",
       "Percentage": 100,
       "XP": 60,
-      "UsersEstimate": 18269
+      "UsersEstimate": 18268
     },
     {
       "ID": "ach.260.investor",
@@ -10579,7 +10584,7 @@
       "Name": "Investor",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2009
     },
     {
       "ID": "ach.270.groundwater",
@@ -10587,7 +10592,7 @@
       "Name": "The poor groundwater levels",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1461
     },
     {
       "ID": "ach.280.metropolis",
@@ -10595,7 +10600,7 @@
       "Name": "Metropolis",
       "Percentage": 8,
       "XP": 110,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1461
     },
     {
       "ID": "ach.290.hightech",
@@ -10627,7 +10632,7 @@
       "Name": "Industrialist",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 4933
+      "UsersEstimate": 4932
     },
     {
       "ID": "ach.330.water",
@@ -10635,7 +10640,7 @@
       "Name": "Money like Water",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 17904
+      "UsersEstimate": 17903
     },
     {
       "ID": "ach.340.steel",
@@ -10674,7 +10679,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 18269,
+      "Progressed": 18268,
       "Completed": 27
     }
   ],
@@ -10682,8 +10687,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-11-26T08:59:05.2764385+00:00",
-  "LastChanged_Achievements": "2023-12-06T08:03:10.5676618+00:00",
+  "LastChanged_Achievements": "2023-12-06T09:02:59.8435005+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:25.6650254+00:00",
-  "LastUpdate_Ratings": "2023-12-06T07:57:16.3461311+00:00",
-  "LastUpdate_Achievements": "2023-12-06T08:03:10.5684344+00:00"
+  "LastUpdate_Ratings": "2023-12-06T08:57:09.4371327+00:00",
+  "LastUpdate_Achievements": "2023-12-06T09:02:59.8436041+00:00"
 }

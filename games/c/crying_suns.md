@@ -9,9 +9,9 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Shutdown | 66.00% | ~311,418 |
 | Jeef Skeejj | 44.00% | ~207,612 |
 | Careful planning | 39.00% | ~184,020 |
-| Second Coming | 34.00% | ~160,427 |
+| Second Coming | 34.00% | ~160,428 |
 | Jeef Skagg | 30.00% | ~141,554 |
-| Mother | 25.00% | ~117,961 |
+| Mother | 25.00% | ~117,962 |
 | In space, no one can hear you scream | 24.00% | ~113,243 |
 | Chapter I: Echoes | 22.00% | ~103,806 |
 | Excelsior Rule | 22.00% | ~103,806 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Pope Zenon | 15.00% | ~70,777 |
 | Tetsuo | 11.00% | ~51,903 |
 | Plan for the worst | 11.00% | ~51,903 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~47,184 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~47,185 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,748 |
 | Through the mirror | 8.00% | ~37,748 |
 | General Vivar | 8.00% | ~37,748 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~16 |
 | Kronos Rule | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 471,845 (Ranked 40)  
+Progressed: 471,846 (Ranked 40)  
 Completed: 20 (0.00%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,14 +316,14 @@ Completed: 20 (0.00%) (Ranked 369)
 | 2023-12-03 | 471,759 | 20 |
 | 2023-12-04 | 471,795 | 20 |
 | 2023-12-05 | 471,829 | 20 |
-| 2023-12-06 | 471,845 | 20 |
+| 2023-12-06 | 471,846 | 20 |
 ## Awards
-Max (Character Customization): 224  (Ranked 279)  
-Sum: 246 (Ranked 383)  
-Diff (max vs sum): -104  
+Max (Character Customization): 225  (Ranked 278)  
+Sum: 247 (Ranked 383)  
+Diff (max vs sum): -105  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 224 |
+| This game has Inclusive Character Customization | 225 |
 | This game is Great for Quick Sessions | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -415,3 +415,4 @@ Diff (max vs sum): -104
 | 2023-11-01 | 4.50 | - | 222 | 244 |
 | 2023-11-08 | 4.50 | - | 223 | 245 |
 | 2023-12-01 | 4.50 | - | 224 | 246 |
+| 2023-12-06 | 4.50 | - | 225 | 247 |

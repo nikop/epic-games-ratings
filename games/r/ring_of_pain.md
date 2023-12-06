@@ -17,6 +17,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Colorful Corpse | 0.50% | ~1,203 |
 | Defeat The Dark | 0.50% | ~1,203 |
 | Goodbye, Frog Friend | 0.50% | ~1,203 |
+| Heartless | 0.50% | ~1,203 |
 | A Donation | 0.50% | ~1,203 |
 | Deflection | 0.50% | ~1,203 |
 | A Quick Escape | 0.50% | ~1,203 |
@@ -32,7 +33,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | I Am Overburdened | 0.40% | ~963 |
 | Destroy Your Fears | 0.40% | ~963 |
 | The Bestiary | 0.40% | ~963 |
-| Heartless | 0.40% | ~963 |
 | What's Yours Is Mine | 0.40% | ~963 |
 | Spine Breaker | 0.40% | ~963 |
 | Shootout | 0.40% | ~963 |

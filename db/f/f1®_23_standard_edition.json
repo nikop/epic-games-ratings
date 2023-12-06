@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -7006,9 +7006,9 @@
       "ID": "achievement_0016",
       "SetID": "9123ogc",
       "Name": "Hitting a Season",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 2477
+      "UsersEstimate": 2537
     },
     {
       "ID": "achievement_0017",
@@ -7287,8 +7287,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-12-05T18:58:42.6618407+00:00",
-  "LastChanged_Achievements": "2023-12-06T08:04:36.0095389+00:00",
+  "LastChanged_Achievements": "2023-12-06T09:04:27.9799148+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:30.4962244+00:00",
-  "LastUpdate_Ratings": "2023-12-06T07:58:30.1746836+00:00",
-  "LastUpdate_Achievements": "2023-12-06T08:04:36.0096566+00:00"
+  "LastUpdate_Ratings": "2023-12-06T08:58:25.6170015+00:00",
+  "LastUpdate_Achievements": "2023-12-06T09:04:27.9800375+00:00"
 }

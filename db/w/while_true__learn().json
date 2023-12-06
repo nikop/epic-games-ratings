@@ -511,9 +511,9 @@
       "Count": 138
     }
   ],
-  "EOS_Progressed": 612931,
+  "EOS_Progressed": 612932,
   "EOS_Completed": 550,
-  "EOS_NewPlayers": 787,
+  "EOS_NewPlayers": 786,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -26331,6 +26331,11 @@
       "Time": "2023-12-06T08:05:07.3193165+00:00",
       "NumProgressed": 612931,
       "NumCompleted": 550
+    },
+    {
+      "Time": "2023-12-06T09:04:59.6779295+00:00",
+      "NumProgressed": 612932,
+      "NumCompleted": 550
     }
   ],
   "TotalAchievements": 28,
@@ -26406,7 +26411,7 @@
       "Name": "We need more gold",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 373888
+      "UsersEstimate": 373889
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -26470,7 +26475,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 570026
+      "UsersEstimate": 570027
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -26478,7 +26483,7 @@
       "Name": "Overmind",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 147103
+      "UsersEstimate": 147104
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -26502,7 +26507,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 404534
+      "UsersEstimate": 404535
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -26518,7 +26523,7 @@
       "Name": "The dawn of civilization",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 324853
+      "UsersEstimate": 324854
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -26526,7 +26531,7 @@
       "Name": "Step by step",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 49034
+      "UsersEstimate": 49035
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -26565,15 +26570,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 612931,
+      "Progressed": 612932,
       "Completed": 550
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-11-16T16:58:16.9123223+00:00",
-  "LastChanged_Achievements": "2023-12-06T08:05:07.3193162+00:00",
+  "LastChanged_Achievements": "2023-12-06T09:04:59.6779289+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:26.1222295+00:00",
-  "LastUpdate_Ratings": "2023-12-06T07:58:09.4112824+00:00",
-  "LastUpdate_Achievements": "2023-12-06T08:05:07.3194563+00:00"
+  "LastUpdate_Ratings": "2023-12-06T08:58:04.1250112+00:00",
+  "LastUpdate_Achievements": "2023-12-06T09:04:59.6781472+00:00"
 }
