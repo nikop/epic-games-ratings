@@ -4,8 +4,8 @@
   "ProductSlug": "horse-club-adventures-2-hazelwood-stories-b257d3",
   "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
     "PcReleaseDate": "2022-10-27T11:00:00+00:00",
@@ -344,33 +344,33 @@
       "ID": "ACH_11_GOOD_BOY",
       "SetID": "9loam6m",
       "Name": "Good boy!",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_12_PHOTO_SERIES",
       "SetID": "9loam6m",
       "Name": "Photo series",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_13_WINNER",
       "SetID": "9loam6m",
       "Name": "Winner",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_14_FRIENDS_FOREVER",
       "SetID": "9loam6m",
       "Name": "Friends forever",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_15_SOMETHING_TO_DO",
@@ -607,8 +607,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-12-06T21:03:19.8750367+00:00",
+  "LastChanged_Achievements": "2023-12-06T22:03:29.8103371+00:00",
   "LastUpdate_AppInfo": "2023-11-30T02:19:30.3024246+00:00",
-  "LastUpdate_Ratings": "2023-12-06T20:58:17.6643313+00:00",
-  "LastUpdate_Achievements": "2023-12-06T21:03:19.8750639+00:00"
+  "LastUpdate_Ratings": "2023-12-06T21:58:31.6584322+00:00",
+  "LastUpdate_Achievements": "2023-12-06T22:03:29.8103654+00:00"
 }

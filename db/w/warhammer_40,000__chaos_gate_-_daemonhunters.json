@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -777,9 +777,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3337,
+  "EOS_Progressed": 3338,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4037,6 +4037,11 @@
       "Time": "2023-12-06T05:05:55.7599273+00:00",
       "NumProgressed": 3337,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T22:06:23.9078498+00:00",
+      "NumProgressed": 3338,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4136,7 +4141,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ExtractorSkullUses",
@@ -4144,7 +4149,7 @@
       "Name": "Surgical Excision",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -4256,7 +4261,7 @@
       "Name": "Friendly Fire",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Kills_Interactable",
@@ -4312,7 +4317,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -4591,21 +4596,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3337,
+      "Progressed": 3338,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3337,
+      "Progressed": 3338,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-05T21:03:07.2587632+00:00",
-  "LastChanged_Achievements": "2023-12-06T21:06:00.1433572+00:00",
+  "LastChanged_Achievements": "2023-12-06T22:06:23.9078495+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:12.7786681+00:00",
-  "LastUpdate_Ratings": "2023-12-06T21:02:48.5814289+00:00",
-  "LastUpdate_Achievements": "2023-12-06T21:06:00.1434374+00:00"
+  "LastUpdate_Ratings": "2023-12-06T22:02:54.5295399+00:00",
+  "LastUpdate_Achievements": "2023-12-06T22:06:23.9079052+00:00"
 }

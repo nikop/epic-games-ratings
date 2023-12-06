@@ -4,8 +4,8 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247,
+  "EOS_Progressed": 248,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -985,6 +985,11 @@
       "Time": "2023-12-05T18:09:35.8813294+00:00",
       "NumProgressed": 247,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-06T22:09:33.4012965+00:00",
+      "NumProgressed": 248,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 36,
@@ -1106,9 +1111,9 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_16",
@@ -1130,9 +1135,9 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_19",
@@ -1283,14 +1288,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 247,
+      "Progressed": 248,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-06T21:09:30.1342017+00:00",
+  "LastChanged_Achievements": "2023-12-06T22:09:33.4012963+00:00",
   "LastUpdate_AppInfo": "2023-12-04T20:57:12.3755943+00:00",
-  "LastUpdate_Ratings": "2023-12-06T20:57:05.259073+00:00",
-  "LastUpdate_Achievements": "2023-12-06T21:09:30.1342303+00:00"
+  "LastUpdate_Ratings": "2023-12-06T21:57:11.9191652+00:00",
+  "LastUpdate_Achievements": "2023-12-06T22:09:33.4013227+00:00"
 }

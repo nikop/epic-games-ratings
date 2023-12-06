@@ -4,8 +4,8 @@
   "ProductSlug": "worldless-49eae3",
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
     "PcReleaseDate": "2023-11-21T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 133,
+  "EOS_Progressed": 134,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -564,6 +564,11 @@
       "Time": "2023-12-06T19:04:56.4016755+00:00",
       "NumProgressed": 133,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T22:04:18.472236+00:00",
+      "NumProgressed": 134,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-17T13:09:54.2114838+00:00",
@@ -582,9 +587,9 @@
       "ID": "ACH_ALL_COMBAT_SKILLS",
       "SetID": "cagp2pi",
       "Name": "Growth",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ALL_HP_UP_COLLECTED",
@@ -598,9 +603,9 @@
       "ID": "ACH_ALL_ORBS_COLLECTED",
       "SetID": "cagp2pi",
       "Name": "Collector",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ALL_WEAPONS",
@@ -622,9 +627,9 @@
       "ID": "ACH_AVEN_UNLOCKED",
       "SetID": "cagp2pi",
       "Name": "Together",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_BIPOLAR_ABSORBED",
@@ -638,17 +643,17 @@
       "ID": "ACH_BRANCH_ALL_SLOTS",
       "SetID": "cagp2pi",
       "Name": "All clean",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_DARK_PALADIN_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Dark Paladin",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_DEMON_ABSORBED",
@@ -662,9 +667,9 @@
       "ID": "ACH_DETERMINATION",
       "SetID": "cagp2pi",
       "Name": "Determination",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_FINAL_TRIAL",
@@ -688,23 +693,23 @@
       "Name": "Absorption",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_LIGHTNING_NIGHTMARE_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Lightning Nightmare",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_LUCA_DEFEATED",
       "SetID": "cagp2pi",
       "Name": "LUCA",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_PHOENIX",
@@ -726,7 +731,7 @@
       "ID": "ACH_SUMMUM_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Summum",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -734,7 +739,7 @@
       "ID": "ACH_SUMMUM_ABSORB_PRE_MEGAFLARE",
       "SetID": "cagp2pi",
       "Name": "No Threat",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -750,31 +755,31 @@
       "ID": "ACH_UNICORN",
       "SetID": "cagp2pi",
       "Name": "Unicorn",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_YINYANG_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Yin-Yang",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
     {
       "ID": "cagp2pi",
       "IsBase": true,
-      "Progressed": 133,
+      "Progressed": 134,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-12-06T21:04:04.8573518+00:00",
+  "LastChanged_Achievements": "2023-12-06T22:04:18.4722354+00:00",
   "LastUpdate_AppInfo": "2023-12-01T13:57:00.5730741+00:00",
-  "LastUpdate_Ratings": "2023-12-06T20:59:48.2941605+00:00",
-  "LastUpdate_Achievements": "2023-12-06T21:04:04.8573641+00:00"
+  "LastUpdate_Ratings": "2023-12-06T22:00:11.3130223+00:00",
+  "LastUpdate_Achievements": "2023-12-06T22:04:18.4722558+00:00"
 }

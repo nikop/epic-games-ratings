@@ -26,9 +26,9 @@
 | The art of movement | 11.00% | ~11 |
 | True Reflection | 11.00% | ~11 |
 | Breaking free | 10.00% | ~10 |
+| Lights! Camera! Action! | 10.00% | ~10 |
 | Another perspective | 9.00% | ~9 |
 | Sound Bite | 9.00% | ~9 |
-| Lights! Camera! Action! | 9.00% | ~9 |
 | Heavy Burden | 8.00% | ~8 |
 | Casting Finished | 7.00% | ~7 |
 | We Are Not Alone | 5.00% | ~5 |

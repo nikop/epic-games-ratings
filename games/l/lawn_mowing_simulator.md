@@ -6,20 +6,20 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 79.00% | ~542,164 |
-| Every story has a beginning | 36.00% | ~247,062 |
-| The first of many | 31.00% | ~212,748 |
-| Positive word of mouth | 18.00% | ~123,531 |
-| Lawn in the U.S.A. | 15.00% | ~102,942 |
-| Blade Runner | 9.00% | ~61,765 |
+| The dream begins | 79.00% | ~542,170 |
+| Every story has a beginning | 36.00% | ~247,065 |
+| The first of many | 31.00% | ~212,750 |
+| Positive word of mouth | 18.00% | ~123,532 |
+| Lawn in the U.S.A. | 15.00% | ~102,944 |
+| Blade Runner | 9.00% | ~61,766 |
 | Credible | 7.00% | ~48,040 |
 | Teamwork makes the dream work | 6.00% | ~41,177 |
-| Where there's muck there's brass | 4.00% | ~27,451 |
-| Bigger and better | 4.00% | ~27,451 |
-| Aggressive expansion | 4.00% | ~27,451 |
-| Size isn't everything | 3.00% | ~20,588 |
-| Close shave | 3.00% | ~20,588 |
-| Established | 3.00% | ~20,588 |
+| Where there's muck there's brass | 4.00% | ~27,452 |
+| Bigger and better | 4.00% | ~27,452 |
+| Aggressive expansion | 4.00% | ~27,452 |
+| Size isn't everything | 3.00% | ~20,589 |
+| Close shave | 3.00% | ~20,589 |
+| Established | 3.00% | ~20,589 |
 | Fighting on all fronts | 2.00% | ~13,726 |
 | Mighty Mowing Park Ranger | 2.00% | ~13,726 |
 | Every good deed… | 2.00% | ~13,726 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~686 |
 | Mo mowers, mo problems | 0.10% | ~686 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 686,283 (Ranked 27)  
+Progressed: 686,291 (Ranked 27)  
 Completed: 19 (0.00%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 19 (0.00%) (Ranked 371)
 | 2023-12-03 | 685,634 | 19 |
 | 2023-12-04 | 685,879 | 19 |
 | 2023-12-05 | 686,080 | 19 |
-| 2023-12-06 | 686,283 | 19 |
+| 2023-12-06 | 686,291 | 19 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 301)  
 Sum: 989 (Ranked 265)  

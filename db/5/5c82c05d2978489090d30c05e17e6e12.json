@@ -161,9 +161,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64090,
+  "EOS_Progressed": 64106,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 3777,
+  "EOS_NewPlayers": 3770,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2576,6 +2576,11 @@
       "Time": "2023-12-06T21:04:31.9771811+00:00",
       "NumProgressed": 64090,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-12-06T22:04:47.3795042+00:00",
+      "NumProgressed": 64106,
+      "NumCompleted": 59
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -2588,7 +2593,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 23713
+      "UsersEstimate": 23719
     },
     {
       "ID": "Achievement_10",
@@ -2660,7 +2665,7 @@
       "Name": "Champions of Umbra",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "Achievement_19",
@@ -2676,7 +2681,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 17304
+      "UsersEstimate": 17309
     },
     {
       "ID": "Achievement_20",
@@ -2708,7 +2713,7 @@
       "Name": "Festival Masters",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "Achievement_24",
@@ -2764,7 +2769,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 7691
+      "UsersEstimate": 7693
     },
     {
       "ID": "Achievement_30",
@@ -2812,7 +2817,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5127
+      "UsersEstimate": 5128
     },
     {
       "ID": "Achievement_5",
@@ -2820,7 +2825,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3845
+      "UsersEstimate": 3846
     },
     {
       "ID": "Achievement_6",
@@ -2859,7 +2864,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 64090,
+      "Progressed": 64106,
       "Completed": 59
     }
   ],
@@ -2867,8 +2872,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-05T13:09:40.3184633+00:00",
-  "LastChanged_Achievements": "2023-12-06T21:04:31.9771808+00:00",
+  "LastChanged_Achievements": "2023-12-06T22:04:47.3795039+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:03:15.0842163+00:00",
-  "LastUpdate_Ratings": "2023-12-06T21:02:45.6431112+00:00",
-  "LastUpdate_Achievements": "2023-12-06T21:04:31.9772117+00:00"
+  "LastUpdate_Ratings": "2023-12-06T22:02:51.2988588+00:00",
+  "LastUpdate_Achievements": "2023-12-06T22:04:47.3795342+00:00"
 }

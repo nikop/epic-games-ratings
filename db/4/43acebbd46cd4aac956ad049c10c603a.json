@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -2190,9 +2190,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 151
     },
     {
       "ID": "BreakTheLoop",
@@ -2318,9 +2318,9 @@
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 106
     },
     {
       "ID": "JustOneLap",
@@ -2406,17 +2406,17 @@
       "ID": "Overload",
       "SetID": "1n308hc",
       "Name": "Overload",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 124
     },
     {
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 80
     },
     {
       "ID": "PrometheusUnbound",
@@ -2510,9 +2510,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 80
     },
     {
       "ID": "TheEdgeOfForever",
@@ -2631,8 +2631,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-05T18:59:22.7453339+00:00",
-  "LastChanged_Achievements": "2023-12-06T21:05:46.9399087+00:00",
+  "LastChanged_Achievements": "2023-12-06T22:06:09.5318449+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-06T20:59:02.4484437+00:00",
-  "LastUpdate_Achievements": "2023-12-06T21:05:46.939953+00:00"
+  "LastUpdate_Ratings": "2023-12-06T21:59:21.5102134+00:00",
+  "LastUpdate_Achievements": "2023-12-06T22:06:09.5318871+00:00"
 }

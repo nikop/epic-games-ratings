@@ -14,9 +14,9 @@
 | Team Builder | 21.00% | ~272 |
 | Aggressive Antivirus | 16.00% | ~207 |
 | Long Live Rock | 16.00% | ~207 |
+| Unblurred Lines | 13.00% | ~168 |
+| Obsessively Thorough | 13.00% | ~168 |
 | Effective Efficiency | 13.00% | ~168 |
-| Unblurred Lines | 12.00% | ~155 |
-| Obsessively Thorough | 12.00% | ~155 |
 | Endlessly Effective | 11.00% | ~142 |
 | What's Behind Every Door? | 6.00% | ~78 |
 | No Stone Unturned | 5.00% | ~65 |

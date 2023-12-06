@@ -4,8 +4,8 @@
   "ProductSlug": "luna-abyss-696590",
   "Ranking_EOS_Progress": 785,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 465,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,5 +34,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-02T19:57:23.2371155+00:00",
   "LastUpdate_Ratings": "2023-12-06T21:00:10.2364697+00:00",
-  "LastUpdate_Achievements": "2023-12-06T21:05:27.9932087+00:00"
+  "LastUpdate_Achievements": "2023-12-06T22:05:47.733256+00:00"
 }

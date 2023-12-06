@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1399,10 +1399,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 491,
       "NumberOfAwardsMax": 242
+    },
+    {
+      "Time": "2023-12-06T21:59:32.6317653+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 493,
+      "NumberOfAwardsMax": 242
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 491,
+  "NumberOfAwards": 493,
   "NumberOfAwardsMax": 242,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1446,7 +1452,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 31
+      "Count": 33
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1461,9 +1467,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 241575,
+  "EOS_Progressed": 241578,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1205,
+  "EOS_NewPlayers": 1201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21301,6 +21307,11 @@
       "Time": "2023-12-06T21:09:05.4458309+00:00",
       "NumProgressed": 241575,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-06T22:09:06.5358584+00:00",
+      "NumProgressed": 241578,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -21760,7 +21771,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 86967
+      "UsersEstimate": 86968
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -22015,21 +22026,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 241575,
+      "Progressed": 241578,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 241575,
+      "Progressed": 241578,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-12-06T20:59:12.9878282+00:00",
-  "LastChanged_Achievements": "2023-12-06T21:09:05.4458308+00:00",
+  "LastChanged": "2023-12-06T21:59:32.6317651+00:00",
+  "LastChanged_Achievements": "2023-12-06T22:09:06.5358582+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:09.0043717+00:00",
-  "LastUpdate_Ratings": "2023-12-06T20:59:12.9878286+00:00",
-  "LastUpdate_Achievements": "2023-12-06T21:09:05.4459791+00:00"
+  "LastUpdate_Ratings": "2023-12-06T21:59:32.6317657+00:00",
+  "LastUpdate_Achievements": "2023-12-06T22:09:06.5360402+00:00"
 }

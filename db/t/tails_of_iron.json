@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -242,10 +242,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2217,
+  "EOS_Progressed": 2218,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 44,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 45,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
     {
@@ -3847,6 +3847,11 @@
       "Time": "2023-12-06T18:04:30.9896473+00:00",
       "NumProgressed": 2217,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-06T22:04:28.4427392+00:00",
+      "NumProgressed": 2218,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 30,
@@ -3874,7 +3879,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "Collect50MonsterParts",
@@ -3938,7 +3943,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 1818
+      "UsersEstimate": 1819
     },
     {
       "ID": "CompleteHunterFaction",
@@ -3962,7 +3967,7 @@
       "Name": "Defeat Avor Warden of the Northern Wastes",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "DefeatMoziQueen",
@@ -3970,7 +3975,7 @@
       "Name": "End of the Mozis",
       "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -3992,9 +3997,9 @@
       "ID": "FixTheTravellersWagon",
       "SetID": "9lj35g4",
       "Name": "Fix the Travellers Wagon",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 998
+      "UsersEstimate": 976
     },
     {
       "ID": "GetRangedWeapon",
@@ -4018,7 +4023,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "Kill25Frogs",
@@ -4058,7 +4063,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "RepairSmith",
@@ -4082,7 +4087,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "ReturnPowerInMines",
@@ -4097,22 +4102,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2217,
+      "Progressed": 2218,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 858,
-      "Completed": 858
+      "Progressed": 859,
+      "Completed": 859
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-12-06T21:04:14.2892715+00:00",
+  "LastChanged_Achievements": "2023-12-06T22:04:28.442739+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:26.7928423+00:00",
-  "LastUpdate_Ratings": "2023-12-06T20:57:07.1601438+00:00",
-  "LastUpdate_Achievements": "2023-12-06T21:04:14.2892976+00:00"
+  "LastUpdate_Ratings": "2023-12-06T21:57:14.0053668+00:00",
+  "LastUpdate_Achievements": "2023-12-06T22:04:28.4427691+00:00"
 }

@@ -5,8 +5,8 @@ Rating: 4.62 (Ranked 368)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 33.00% | ~312 |
-| Rail Rat | 27.00% | ~255 |
+| Time Heals All Wounds | 33.00% | ~313 |
+| Rail Rat | 27.00% | ~256 |
 | The Mysterious Stranger | 26.00% | ~246 |
 | Immaculate Aim | 23.00% | ~218 |
 | The Brass Boss | 23.00% | ~218 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 368)
 | Going to Live Forever | 0.60% | ~6 |
 | Raw Talent | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 946 (Ranked 271)  
+Progressed: 947 (Ranked 271)  
 Completed: 6 (0.63%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,6 +201,7 @@ Completed: 6 (0.63%) (Ranked 191)
 | 2023-11-29 | 943 | 6 |
 | 2023-11-30 | 945 | 6 |
 | 2023-12-01 | 946 | 6 |
+| 2023-12-06 | 947 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

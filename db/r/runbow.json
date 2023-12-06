@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251918,
+  "EOS_Progressed": 251919,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20637,6 +20637,11 @@
       "Time": "2023-12-06T21:09:14.3587536+00:00",
       "NumProgressed": 251918,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-06T22:09:16.3240978+00:00",
+      "NumProgressed": 251919,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -20864,7 +20869,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20153
+      "UsersEstimate": 20154
     },
     {
       "ID": "lockupLockdown",
@@ -20888,7 +20893,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125959
+      "UsersEstimate": 125960
     },
     {
       "ID": "notScared",
@@ -21015,7 +21020,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251918,
+      "Progressed": 251919,
       "Completed": 6
     }
   ],
@@ -21023,8 +21028,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-06T21:09:14.3587532+00:00",
+  "LastChanged_Achievements": "2023-12-06T22:09:16.3240976+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.4245998+00:00",
-  "LastUpdate_Ratings": "2023-12-06T20:58:42.9902835+00:00",
-  "LastUpdate_Achievements": "2023-12-06T21:09:14.3588833+00:00"
+  "LastUpdate_Ratings": "2023-12-06T21:59:00.306376+00:00",
+  "LastUpdate_Achievements": "2023-12-06T22:09:16.3242159+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "dnf-duel-07d055",
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 410,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-12-18T08:00:00+00:00",
     "PcReleaseDate": "2022-06-28T07:00:00+00:00",
@@ -397,8 +397,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
-  "LastChanged_Achievements": "2023-12-06T21:03:40.6711747+00:00",
+  "LastChanged_Achievements": "2023-12-06T22:03:52.2833816+00:00",
   "LastUpdate_AppInfo": "2023-12-05T08:57:14.3241847+00:00",
-  "LastUpdate_Ratings": "2023-12-06T20:57:42.5726364+00:00",
-  "LastUpdate_Achievements": "2023-12-06T21:03:40.6712149+00:00"
+  "LastUpdate_Ratings": "2023-12-06T21:57:52.6812773+00:00",
+  "LastUpdate_Achievements": "2023-12-06T22:03:52.2834102+00:00"
 }

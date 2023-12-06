@@ -19,6 +19,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 0.40% | ~71 |
 | No Deaths | 0.40% | ~71 |
 | First Real Expedition | 0.30% | ~53 |
+| Royal Outpost | 0.30% | ~53 |
 | Watchtower | 0.30% | ~53 |
 | Coral Forest | 0.30% | ~53 |
 | The Scarlet Orchard | 0.30% | ~53 |
@@ -32,7 +33,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fertile Meadows | 0.20% | ~35 |
 | Levitating Monument | 0.20% | ~35 |
 | Monastery of the Holy Flame | 0.20% | ~35 |
-| Royal Outpost | 0.20% | ~35 |
 | Lost Colonies | 0.20% | ~35 |
 | Statue of the Forefathers | 0.20% | ~35 |
 | Corrosive Torrent | 0.20% | ~35 |
@@ -57,6 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Forsaken Gods Temple | 0.10% | ~18 |
 | Prestigious Expedition | 0.10% | ~18 |
 | The Queen's Chosen | 0.10% | ~18 |
+| Treasure | 0.10% | ~18 |
 | Blood Flower Farmer | 0.10% | ~18 |
 | Victory Through Prosperity | 0.10% | ~18 |
 | Ruins | 0.10% | ~18 |
@@ -64,9 +65,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Defying the Crown | 0.10% | ~18 |
 | Into the Forest | 0.10% | ~18 |
 | Paradise | 0.00% | ~0 |
-| Treasure | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,635 (Ranked 146)  
+Progressed: 17,636 (Ranked 146)  
 Completed: 48 (0.27%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 48 (0.27%) (Ranked 248)
 | 2023-12-03 | 17,585 | 49 |
 | 2023-12-04 | 17,605 | 49 |
 | 2023-12-05 | 17,618 | 49 |
-| 2023-12-06 | 17,635 | 49 |
+| 2023-12-06 | 17,636 | 49 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 223)  
 Sum: 3,243 (Ranked 173)  

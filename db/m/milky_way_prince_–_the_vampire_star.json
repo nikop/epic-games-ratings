@@ -4,8 +4,8 @@
   "ProductSlug": "milky-way-prince-the-vampire-star",
   "Ranking_EOS_Progress": 785,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 465,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-08-13T13:00:00+00:00",
     "PcReleaseDate": null,
@@ -44,5 +44,5 @@
   "LastChanged": "2023-03-31T05:57:17.4073626+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:43.7602252+00:00",
   "LastUpdate_Ratings": "2023-12-06T21:00:10.7197763+00:00",
-  "LastUpdate_Achievements": "2023-12-06T21:06:07.9026032+00:00"
+  "LastUpdate_Achievements": "2023-12-06T22:06:32.3213318+00:00"
 }

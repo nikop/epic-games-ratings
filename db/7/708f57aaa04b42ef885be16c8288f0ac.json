@@ -201,9 +201,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7497,
+  "EOS_Progressed": 7499,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 401,
+  "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5726,6 +5726,11 @@
       "Time": "2023-12-06T21:09:22.0178571+00:00",
       "NumProgressed": 7497,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-06T22:09:24.620162+00:00",
+      "NumProgressed": 7499,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5746,7 +5751,7 @@
       "Name": "Baby Steps",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1649
+      "UsersEstimate": 1650
     },
     {
       "ID": "BeLikeWater",
@@ -5810,7 +5815,7 @@
       "Name": "First Time?",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2174
+      "UsersEstimate": 2175
     },
     {
       "ID": "FuneralForTheDeath",
@@ -5938,7 +5943,7 @@
       "Name": "The Quarterback",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1725
     },
     {
       "ID": "ThisIsDharma",
@@ -6009,7 +6014,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7497,
+      "Progressed": 7499,
       "Completed": 14
     }
   ],
@@ -6017,8 +6022,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-06T16:59:26.5793025+00:00",
-  "LastChanged_Achievements": "2023-12-06T21:09:22.0178568+00:00",
+  "LastChanged_Achievements": "2023-12-06T22:09:24.6201617+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-06T20:59:19.2764211+00:00",
-  "LastUpdate_Achievements": "2023-12-06T21:09:22.017907+00:00"
+  "LastUpdate_Ratings": "2023-12-06T21:59:38.7602038+00:00",
+  "LastUpdate_Achievements": "2023-12-06T22:09:24.6202074+00:00"
 }

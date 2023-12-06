@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~522 |
+| Travel Streamer | 92.00% | ~517 |
 | Training Simulation | 78.00% | ~438 |
-| Kuku Bird Hunter | 63.00% | ~353 |
+| Kuku Bird Hunter | 63.00% | ~354 |
 | Storm Traveller | 57.00% | ~320 |
-| Wolf King Killer | 53.00% | ~297 |
-| Fashion Connoisseur | 51.00% | ~286 |
+| Wolf King Killer | 53.00% | ~298 |
+| Fashion Connoisseur | 51.00% | ~287 |
 | Arms Mechanic | 47.00% | ~264 |
 | Flower Thief | 42.00% | ~236 |
-| Beginner Artificer | 37.00% | ~208 |
 | Apostle of Flame | 37.00% | ~208 |
-| Beginner Cook | 35.00% | ~196 |
+| Beginner Artificer | 36.00% | ~202 |
+| Beginner Cook | 35.00% | ~197 |
 | Seal Breaker | 31.00% | ~174 |
 | Handyman | 28.00% | ~157 |
 | Giant Lizard Killer | 26.00% | ~146 |
@@ -26,14 +26,14 @@
 | Youth Magnet | 18.00% | ~101 |
 | Furious Scorpion Killer | 16.00% | ~90 |
 | Lethal Blade Mantis Killer | 16.00% | ~90 |
-| Squeaky Clean | 16.00% | ~90 |
 | Master Artificer | 16.00% | ~90 |
+| Squeaky Clean | 15.00% | ~84 |
 | Kind Adventurer | 14.00% | ~79 |
 | Mermaid Killer | 14.00% | ~79 |
 | Face Slapper | 13.00% | ~73 |
 | Cave Master | 12.00% | ~67 |
-| Boss challenge | 9.00% | ~50 |
-| Berserker Slayer | 9.00% | ~50 |
+| Boss challenge | 9.00% | ~51 |
+| Berserker Slayer | 9.00% | ~51 |
 | Giantess Slayer | 8.00% | ~45 |
 | Master Cook | 7.00% | ~39 |
 | Warden Slayer | 7.00% | ~39 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 1.00% | ~6 |
 | Warden Challenge | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 561 (Ranked 307)  
+Progressed: 562 (Ranked 307)  
 Completed: 1 (0.18%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 1 (0.18%) (Ranked 266)
 | 2023-12-03 | 527 | 1 |
 | 2023-12-04 | 547 | 1 |
 | 2023-12-05 | 555 | 1 |
-| 2023-12-06 | 561 | 1 |
+| 2023-12-06 | 562 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

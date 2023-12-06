@@ -3767,7 +3767,7 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 52050,
+  "EOS_Progressed": 52051,
   "EOS_Completed": 251,
   "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 1,
@@ -14287,6 +14287,11 @@
       "Time": "2023-12-06T21:03:32.1013541+00:00",
       "NumProgressed": 52050,
       "NumCompleted": 251
+    },
+    {
+      "Time": "2023-12-06T22:03:42.9840909+00:00",
+      "NumProgressed": 52051,
+      "NumCompleted": 251
     }
   ],
   "TotalAchievements": 45,
@@ -14426,7 +14431,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 21340
+      "UsersEstimate": 21341
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -14490,7 +14495,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 29668
+      "UsersEstimate": 29669
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -14506,7 +14511,7 @@
       "Name": "Rishi Maze",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2602
+      "UsersEstimate": 2603
     },
     {
       "ID": "COMPLETE_KASHYYYK_KIJIMI",
@@ -14554,7 +14559,7 @@
       "Name": "\u0027\u0027Only one business in the Galaxy...\u0027\u0027",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 2602
+      "UsersEstimate": 2603
     },
     {
       "ID": "EARN_17K_STUDS",
@@ -14562,7 +14567,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50488
+      "UsersEstimate": 50489
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -14578,7 +14583,7 @@
       "Name": "\u0027\u0027Raw, untamed power\u0027\u0027",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 4684
+      "UsersEstimate": 4685
     },
     {
       "ID": "JEDI_MIND_TRICKS_CANTINA",
@@ -14602,7 +14607,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 37476
+      "UsersEstimate": 37477
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -14626,7 +14631,7 @@
       "Name": "\u0027\u0027I\u0027ve never seen a real one!\u0027\u0027",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "SHOOT_50_ENEMIES_HATS",
@@ -14634,7 +14639,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 28107
+      "UsersEstimate": 28108
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -14650,22 +14655,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 37476
+      "UsersEstimate": 37477
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 52050,
+      "Progressed": 52051,
       "Completed": 251
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-12-06T04:59:30.4733201+00:00",
-  "LastChanged_Achievements": "2023-12-06T21:03:32.1013535+00:00",
+  "LastChanged_Achievements": "2023-12-06T22:03:42.9840906+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:20.8912008+00:00",
-  "LastUpdate_Ratings": "2023-12-06T20:59:37.5388543+00:00",
-  "LastUpdate_Achievements": "2023-12-06T21:03:32.1014153+00:00"
+  "LastUpdate_Ratings": "2023-12-06T21:59:59.696182+00:00",
+  "LastUpdate_Achievements": "2023-12-06T22:03:42.9841692+00:00"
 }

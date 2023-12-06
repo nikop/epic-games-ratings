@@ -6,26 +6,26 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~21,502 |
-| Zealous | 1.00% | ~10,751 |
-| Not half bad | 1.00% | ~10,751 |
-| Apt Survivor | 1.00% | ~10,751 |
-| Survival Treasures | 1.00% | ~10,751 |
-| Skillful | 1.00% | ~10,751 |
-| I | 1.00% | ~10,751 |
-| Make Some Noise | 1.00% | ~10,751 |
-| Handyman | 0.90% | ~9,676 |
-| Sorted | 0.90% | ~9,676 |
-| No one left behind | 0.80% | ~8,601 |
-| Medic | 0.80% | ~8,601 |
-| Healthy Obsession | 0.80% | ~8,601 |
-| Resurgence | 0.80% | ~8,601 |
-| Preemptive Strike | 0.80% | ~8,601 |
-| The Grand Sacrifice | 0.70% | ~7,526 |
-| Backdoor Escape | 0.70% | ~7,526 |
-| Perfect Escape | 0.70% | ~7,526 |
-| Bloody Millionaire | 0.70% | ~7,526 |
-| Humanitarian | 0.70% | ~7,526 |
+| It wakes | 2.00% | ~21,505 |
+| Zealous | 1.00% | ~10,752 |
+| Not half bad | 1.00% | ~10,752 |
+| Apt Survivor | 1.00% | ~10,752 |
+| Survival Treasures | 1.00% | ~10,752 |
+| Skillful | 1.00% | ~10,752 |
+| I | 1.00% | ~10,752 |
+| Make Some Noise | 1.00% | ~10,752 |
+| Handyman | 0.90% | ~9,677 |
+| Sorted | 0.90% | ~9,677 |
+| No one left behind | 0.80% | ~8,602 |
+| Medic | 0.80% | ~8,602 |
+| Healthy Obsession | 0.80% | ~8,602 |
+| Resurgence | 0.80% | ~8,602 |
+| Preemptive Strike | 0.80% | ~8,602 |
+| The Grand Sacrifice | 0.70% | ~7,527 |
+| Backdoor Escape | 0.70% | ~7,527 |
+| Perfect Escape | 0.70% | ~7,527 |
+| Bloody Millionaire | 0.70% | ~7,527 |
+| Humanitarian | 0.70% | ~7,527 |
 | Agonizing Escape | 0.60% | ~6,451 |
 | I've got your back | 0.60% | ~6,451 |
 | Perfect Killing | 0.60% | ~6,451 |
@@ -35,42 +35,42 @@ Number of Ratings: 70,340  (23.09.2022)
 | Engineer | 0.60% | ~6,451 |
 | Wounded Healer | 0.60% | ~6,451 |
 | Close Shave | 0.60% | ~6,451 |
-| Vulture | 0.50% | ~5,375 |
-| III | 0.50% | ~5,375 |
-| Blood on your hands | 0.40% | ~4,300 |
-| Escape Artist | 0.40% | ~4,300 |
-| Gifts for the Fog | 0.40% | ~4,300 |
-| III-50 | 0.40% | ~4,300 |
-| First to the Punch | 0.40% | ~4,300 |
-| Operation: Survival | 0.40% | ~4,300 |
-| Every Last Drop | 0.40% | ~4,300 |
-| Raccoon City Recruit | 0.40% | ~4,300 |
-| With Scars to Show | 0.40% | ~4,300 |
-| Flight to Freedom | 0.40% | ~4,300 |
-| Lifting The Fog | 0.40% | ~4,300 |
-| Second Act | 0.40% | ~4,300 |
-| Blood on your face | 0.30% | ~3,225 |
-| Made it out alive! | 0.30% | ~3,225 |
-| Nerves of steel | 0.30% | ~3,225 |
-| Shock Therapy | 0.30% | ~3,225 |
-| All Aboard | 0.30% | ~3,225 |
-| Item of Obsession | 0.30% | ~3,225 |
-| House of Pain | 0.30% | ~3,225 |
-| Cottage Owner | 0.30% | ~3,225 |
-| Holiday Get-Together | 0.30% | ~3,225 |
-| Near-Death Experience | 0.30% | ~3,225 |
-| Cherish your Life | 0.30% | ~3,225 |
-| Campbell's Chapel Legacy | 0.30% | ~3,225 |
-| Ancestor's Rite | 0.30% | ~3,225 |
-| Unforgettable Getaway | 0.30% | ~3,225 |
-| Cutting Out | 0.30% | ~3,225 |
-| Outrun Evil | 0.30% | ~3,225 |
-| Grim Pilgrimage | 0.30% | ~3,225 |
-| Old West Oasis | 0.30% | ~3,225 |
-| Classy Act | 0.30% | ~3,225 |
-| Chorus of Chaos | 0.30% | ~3,225 |
-| One More Step | 0.30% | ~3,225 |
-| MU/TH/UR Dearest | 0.30% | ~3,225 |
+| Vulture | 0.50% | ~5,376 |
+| III | 0.50% | ~5,376 |
+| Blood on your hands | 0.40% | ~4,301 |
+| Escape Artist | 0.40% | ~4,301 |
+| Gifts for the Fog | 0.40% | ~4,301 |
+| III-50 | 0.40% | ~4,301 |
+| First to the Punch | 0.40% | ~4,301 |
+| Operation: Survival | 0.40% | ~4,301 |
+| Every Last Drop | 0.40% | ~4,301 |
+| Raccoon City Recruit | 0.40% | ~4,301 |
+| With Scars to Show | 0.40% | ~4,301 |
+| Flight to Freedom | 0.40% | ~4,301 |
+| Lifting The Fog | 0.40% | ~4,301 |
+| Second Act | 0.40% | ~4,301 |
+| Blood on your face | 0.30% | ~3,226 |
+| Made it out alive! | 0.30% | ~3,226 |
+| Nerves of steel | 0.30% | ~3,226 |
+| Shock Therapy | 0.30% | ~3,226 |
+| All Aboard | 0.30% | ~3,226 |
+| Item of Obsession | 0.30% | ~3,226 |
+| House of Pain | 0.30% | ~3,226 |
+| Cottage Owner | 0.30% | ~3,226 |
+| Holiday Get-Together | 0.30% | ~3,226 |
+| Near-Death Experience | 0.30% | ~3,226 |
+| Cherish your Life | 0.30% | ~3,226 |
+| Campbell's Chapel Legacy | 0.30% | ~3,226 |
+| Ancestor's Rite | 0.30% | ~3,226 |
+| Unforgettable Getaway | 0.30% | ~3,226 |
+| Cutting Out | 0.30% | ~3,226 |
+| Outrun Evil | 0.30% | ~3,226 |
+| Grim Pilgrimage | 0.30% | ~3,226 |
+| Old West Oasis | 0.30% | ~3,226 |
+| Classy Act | 0.30% | ~3,226 |
+| Chorus of Chaos | 0.30% | ~3,226 |
+| One More Step | 0.30% | ~3,226 |
+| MU/TH/UR Dearest | 0.30% | ~3,226 |
 | A bite for the Entity | 0.20% | ~2,150 |
 | Blood in your mouth | 0.20% | ~2,150 |
 | Jump Scares | 0.20% | ~2,150 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Joke’s On You | 0.10% | ~1,075 |
 | Adept Good Guy | 0.10% | ~1,075 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,075,096 (Ranked 14)  
+Progressed: 1,075,231 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -469,7 +469,7 @@ Completed: 61 (0.01%) (Ranked 348)
 | 2023-12-03 | 1,067,390 | 61 |
 | 2023-12-04 | 1,070,133 | 61 |
 | 2023-12-05 | 1,072,750 | 61 |
-| 2023-12-06 | 1,075,096 | 61 |
+| 2023-12-06 | 1,075,231 | 61 |
 ## Awards
 Max (Diverse Characters): 37,377  (Ranked 15)  
 Sum: 283,676 (Ranked 12)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 320,
   "Ranking_EOS_Progress": 785,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 465,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2019-08-02T00:00:00+00:00",
     "PcReleaseDate": "2019-07-23T15:00:00+00:00",
@@ -814,10 +814,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 557,
       "NumberOfAwardsMax": 161
+    },
+    {
+      "Time": "2023-12-06T22:02:37.2776544+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 558,
+      "NumberOfAwardsMax": 161
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 557,
+  "NumberOfAwards": 558,
   "NumberOfAwardsMax": 161,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -837,7 +843,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 48
+      "Count": 49
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -911,8 +917,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:49.195013+00:00",
-  "LastChanged": "2023-12-06T03:01:30.152858+00:00",
+  "LastChanged": "2023-12-06T22:02:37.2776542+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:19.9637488+00:00",
-  "LastUpdate_Ratings": "2023-12-06T21:02:32.0763464+00:00",
+  "LastUpdate_Ratings": "2023-12-06T22:02:37.2776548+00:00",
   "LastUpdate_Achievements": "2023-12-06T21:06:11.4506835+00:00"
 }

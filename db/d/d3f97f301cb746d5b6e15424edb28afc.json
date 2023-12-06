@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -3047,9 +3047,9 @@
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
       "SetID": "5fn8ia4",
       "Name": "Skills to Pay the Bills",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 835
+      "UsersEstimate": 847
     },
     {
       "ID": "GSS_ACH_16_ORDER_FUEL",
@@ -3495,9 +3495,9 @@
       "ID": "GSS_ACH_72_GAME_COMPLETE",
       "SetID": "5fn8ia4",
       "Name": "The Dust Bowl",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 290
+      "UsersEstimate": 302
     },
     {
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
@@ -3592,8 +3592,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-04T17:00:39.9868842+00:00",
-  "LastChanged_Achievements": "2023-12-06T21:03:37.0668579+00:00",
+  "LastChanged_Achievements": "2023-12-06T22:03:48.4557984+00:00",
   "LastUpdate_AppInfo": "2023-12-04T17:57:13.8571473+00:00",
-  "LastUpdate_Ratings": "2023-12-06T21:00:11.9056741+00:00",
-  "LastUpdate_Achievements": "2023-12-06T21:03:37.0669525+00:00"
+  "LastUpdate_Ratings": "2023-12-06T22:02:27.5480279+00:00",
+  "LastUpdate_Achievements": "2023-12-06T22:03:48.4558765+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -973,7 +973,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9252,
+  "EOS_Progressed": 9253,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
@@ -8878,6 +8878,11 @@
       "Time": "2023-12-06T21:05:36.3809694+00:00",
       "NumProgressed": 9252,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-06T22:05:57.0115413+00:00",
+      "NumProgressed": 9253,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -8953,7 +8958,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1850
+      "UsersEstimate": 1851
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -9057,7 +9062,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3238
+      "UsersEstimate": 3239
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -9248,7 +9253,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9252,
+      "Progressed": 9253,
       "Completed": 10
     }
   ],
@@ -9256,8 +9261,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-06T17:57:38.612055+00:00",
-  "LastChanged_Achievements": "2023-12-06T21:05:36.380969+00:00",
+  "LastChanged_Achievements": "2023-12-06T22:05:57.0115409+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:20.0438707+00:00",
-  "LastUpdate_Ratings": "2023-12-06T20:57:15.1675268+00:00",
-  "LastUpdate_Achievements": "2023-12-06T21:05:36.3810411+00:00"
+  "LastUpdate_Ratings": "2023-12-06T21:57:22.9038425+00:00",
+  "LastUpdate_Achievements": "2023-12-06T22:05:57.0115949+00:00"
 }

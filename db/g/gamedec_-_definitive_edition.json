@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 457,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -495,9 +495,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 253985,
+  "EOS_Progressed": 253988,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 590,
+  "EOS_NewPlayers": 591,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26260,6 +26260,11 @@
       "Time": "2023-12-06T21:04:44.5644305+00:00",
       "NumProgressed": 253985,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-06T22:05:01.0773515+00:00",
+      "NumProgressed": 253988,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -26271,7 +26276,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 68576
+      "UsersEstimate": 68577
     },
     {
       "ID": "ACH_AON",
@@ -26295,7 +26300,7 @@
       "Name": "BOY!",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 10159
+      "UsersEstimate": 10160
     },
     {
       "ID": "ACH_CATNIPCATNIP",
@@ -26311,7 +26316,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 30478
+      "UsersEstimate": 30479
     },
     {
       "ID": "ACH_ENJOY",
@@ -26415,7 +26420,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 73656
+      "UsersEstimate": 73657
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -26439,7 +26444,7 @@
       "Name": "Ka-ching!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10159
+      "UsersEstimate": 10160
     },
     {
       "ID": "ACH_LETMEOUT",
@@ -26487,7 +26492,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 63496
+      "UsersEstimate": 63497
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -26591,7 +26596,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 63496
+      "UsersEstimate": 63497
     },
     {
       "ID": "ACH_SOREAD",
@@ -26599,7 +26604,7 @@
       "Name": "So you like to read?",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10159
+      "UsersEstimate": 10160
     },
     {
       "ID": "ACH_TAKEBLUEPILL",
@@ -26686,7 +26691,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 253985,
+      "Progressed": 253988,
       "Completed": 7
     }
   ],
@@ -26694,8 +26699,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-30T10:59:11.8312964+00:00",
-  "LastChanged_Achievements": "2023-12-06T21:04:44.5644302+00:00",
+  "LastChanged_Achievements": "2023-12-06T22:05:01.0773513+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:30.506273+00:00",
-  "LastUpdate_Ratings": "2023-12-06T20:58:10.9060461+00:00",
-  "LastUpdate_Achievements": "2023-12-06T21:04:44.564568+00:00"
+  "LastUpdate_Ratings": "2023-12-06T21:58:24.9109073+00:00",
+  "LastUpdate_Achievements": "2023-12-06T22:05:01.0775083+00:00"
 }

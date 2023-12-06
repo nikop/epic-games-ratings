@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1593,
+  "EOS_Progressed": 1595,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4739,6 +4739,11 @@
       "Time": "2023-12-06T19:10:35.8530058+00:00",
       "NumProgressed": 1593,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-06T22:09:37.8233401+00:00",
+      "NumProgressed": 1595,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4855,7 +4860,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "achievement_22",
@@ -4927,7 +4932,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_30",
@@ -4967,15 +4972,15 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "achievement_35",
       "SetID": "271ol84",
       "Name": "New Recruit",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1420
     },
     {
       "ID": "achievement_36",
@@ -4991,7 +4996,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1069
     },
     {
       "ID": "achievement_38",
@@ -4999,7 +5004,7 @@
       "Name": "Survivor",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "achievement_39",
@@ -5021,9 +5026,9 @@
       "ID": "achievement_40",
       "SetID": "271ol84",
       "Name": "Do... or do not. There is no try",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 796
+      "UsersEstimate": 813
     },
     {
       "ID": "achievement_41",
@@ -5101,9 +5106,9 @@
       "ID": "achievement_5",
       "SetID": "271ol84",
       "Name": "Shoot first",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 239
+      "UsersEstimate": 223
     },
     {
       "ID": "achievement_50",
@@ -5231,7 +5236,7 @@
       "Name": "A cunning warrior",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_8",
@@ -5254,13 +5259,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1593,
+      "Progressed": 1595,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1593,
+      "Progressed": 1595,
       "Completed": 1
     }
   ],
@@ -5268,8 +5273,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-06T21:09:34.3576339+00:00",
+  "LastChanged_Achievements": "2023-12-06T22:09:37.8233399+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:10.1536923+00:00",
-  "LastUpdate_Ratings": "2023-12-06T20:57:28.5087929+00:00",
-  "LastUpdate_Achievements": "2023-12-06T21:09:34.3576979+00:00"
+  "LastUpdate_Ratings": "2023-12-06T21:57:36.9996957+00:00",
+  "LastUpdate_Achievements": "2023-12-06T22:09:37.8233972+00:00"
 }

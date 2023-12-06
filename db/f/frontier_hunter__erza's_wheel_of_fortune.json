@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 561,
+  "EOS_Progressed": 562,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1792,6 +1792,11 @@
       "Time": "2023-12-06T20:08:46.225205+00:00",
       "NumProgressed": 561,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-06T22:08:22.3438403+00:00",
+      "NumProgressed": 562,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1801,9 +1806,9 @@
       "ID": "ACHIEVEMENT_1",
       "SetID": "7pimpda",
       "Name": "Travel Streamer",
-      "Percentage": 93,
+      "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 522
+      "UsersEstimate": 517
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1865,9 +1870,9 @@
       "ID": "ACHIEVEMENT_17",
       "SetID": "7pimpda",
       "Name": "Squeaky Clean",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -1915,7 +1920,7 @@
       "Name": "Beginner Cook",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -1937,9 +1942,9 @@
       "ID": "ACHIEVEMENT_25",
       "SetID": "7pimpda",
       "Name": "Beginner Artificer",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 208
+      "UsersEstimate": 202
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -1955,7 +1960,7 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -1971,7 +1976,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1995,7 +2000,7 @@
       "Name": "Boss challenge",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -2075,7 +2080,7 @@
       "Name": "Berserker Slayer",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -2123,7 +2128,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2162,7 +2167,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 561,
+      "Progressed": 562,
       "Completed": 1
     }
   ],
@@ -2170,8 +2175,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-06T21:08:25.4832538+00:00",
+  "LastChanged_Achievements": "2023-12-06T22:08:22.3438401+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.7212859+00:00",
-  "LastUpdate_Ratings": "2023-12-06T20:57:14.1474758+00:00",
-  "LastUpdate_Achievements": "2023-12-06T21:08:25.4832951+00:00"
+  "LastUpdate_Ratings": "2023-12-06T21:57:21.8036624+00:00",
+  "LastUpdate_Achievements": "2023-12-06T22:08:22.3438709+00:00"
 }
