@@ -6,39 +6,39 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 58.00% | ~56,588 |
-| Let There Be Light | 49.00% | ~47,807 |
+| Follow the Light | 58.00% | ~56,589 |
+| Let There Be Light | 49.00% | ~47,808 |
 | Float Like a Butterfly | 47.00% | ~45,856 |
-| Nordic Walking | 39.00% | ~38,050 |
+| Nordic Walking | 39.00% | ~38,051 |
 | Bright Falls' Finest | 38.00% | ~37,075 |
-| Under a Thin Layer of Skin | 34.00% | ~33,172 |
+| Under a Thin Layer of Skin | 34.00% | ~33,173 |
 | Park Ranger | 29.00% | ~28,294 |
 | Paging Mr. Wake | 29.00% | ~28,294 |
 | Back! Back, I Say! | 27.00% | ~26,343 |
 | Finders Keepers | 27.00% | ~26,343 |
-| Sound and Fury | 25.00% | ~24,391 |
-| Damn Good Cup of Coffee | 25.00% | ~24,391 |
+| Sound and Fury | 25.00% | ~24,392 |
+| Damn Good Cup of Coffee | 25.00% | ~24,392 |
 | They're Heeeeeere! | 24.00% | ~23,416 |
 | Missed by a Mile | 24.00% | ~23,416 |
 | Wheels Within Wheels | 23.00% | ~22,440 |
-| The Six-Gun Scribe | 22.00% | ~21,464 |
+| The Six-Gun Scribe | 22.00% | ~21,465 |
 | Heavy Metal | 21.00% | ~20,489 |
 | Iron Horse | 21.00% | ~20,489 |
 | Collateral Carnage | 21.00% | ~20,489 |
 | Come One, Come All | 21.00% | ~20,489 |
 | Perchance to Dream | 20.00% | ~19,513 |
-| It's Not Just a Typewriter Brand | 19.00% | ~18,537 |
-| Thunder and Lightning | 19.00% | ~18,537 |
+| It's Not Just a Typewriter Brand | 19.00% | ~18,538 |
+| Thunder and Lightning | 19.00% | ~18,538 |
 | Gatekeeper | 18.00% | ~17,562 |
 | Two For the Price of One | 18.00% | ~17,562 |
 | The Lady of the Light | 17.00% | ~16,586 |
 | Energized! | 17.00% | ~16,586 |
 | What Light Through Yonder Window | 15.00% | ~14,635 |
 | Right of Way | 15.00% | ~14,635 |
-| Tornado Wrangler | 13.00% | ~12,683 |
+| Tornado Wrangler | 13.00% | ~12,684 |
 | Departure | 12.00% | ~11,708 |
-| Hardboiled Writer | 10.00% | ~9,756 |
-| A Friend in Need | 10.00% | ~6,103 |
+| Hardboiled Writer | 10.00% | ~9,757 |
+| A Friend in Need | 10.00% | ~6,104 |
 | Drink 'Em Both Up | 9.00% | ~8,781 |
 | Children of the Elder God | 8.00% | ~7,805 |
 | Boob Tube | 7.00% | ~6,830 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | No Punctuation | 0.20% | ~122 |
 | Licensed Properties | 0.20% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,565 (Ranked 90)  
+Progressed: 97,567 (Ranked 90)  
 Completed: 110 (0.11%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 110 (0.11%) (Ranked 284)
 | 2023-12-03 | 97,314 | 107 |
 | 2023-12-04 | 97,426 | 108 |
 | 2023-12-05 | 97,544 | 110 |
-| 2023-12-06 | 97,565 | 110 |
+| 2023-12-06 | 97,567 | 110 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 29,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
     "PcReleaseDate": "2018-03-08T17:00:00+00:00",
@@ -161,9 +161,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63792,
+  "EOS_Progressed": 63808,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 3899,
+  "EOS_NewPlayers": 3898,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2486,6 +2486,11 @@
       "Time": "2023-12-06T03:04:55.7255719+00:00",
       "NumProgressed": 63792,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-06T04:05:05.3057457+00:00",
+      "NumProgressed": 63808,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -2498,7 +2503,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 23603
+      "UsersEstimate": 23609
     },
     {
       "ID": "Achievement_10",
@@ -2586,7 +2591,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 17224
+      "UsersEstimate": 17228
     },
     {
       "ID": "Achievement_20",
@@ -2674,7 +2679,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 7655
+      "UsersEstimate": 7657
     },
     {
       "ID": "Achievement_30",
@@ -2722,7 +2727,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5103
+      "UsersEstimate": 5105
     },
     {
       "ID": "Achievement_5",
@@ -2769,7 +2774,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 63792,
+      "Progressed": 63808,
       "Completed": 58
     }
   ],
@@ -2777,8 +2782,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-05T13:09:40.3184633+00:00",
-  "LastChanged_Achievements": "2023-12-06T03:04:55.7255714+00:00",
+  "LastChanged_Achievements": "2023-12-06T04:05:05.305745+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:03:15.0842163+00:00",
-  "LastUpdate_Ratings": "2023-12-06T03:02:55.5178932+00:00",
-  "LastUpdate_Achievements": "2023-12-06T03:04:55.7256048+00:00"
+  "LastUpdate_Ratings": "2023-12-06T04:03:04.8042983+00:00",
+  "LastUpdate_Achievements": "2023-12-06T04:05:05.3057786+00:00"
 }

@@ -27,9 +27,9 @@
 | So Close | 42.00% | ~454 |
 | You Get Used To It | 42.00% | ~454 |
 | Family | 40.00% | ~432 |
+| Biggest Snowball Ever | 40.00% | ~432 |
 | True Legends | 40.00% | ~432 |
 | Boosted! | 40.00% | ~432 |
-| Biggest Snowball Ever | 39.00% | ~422 |
 | Freeze The Ice Witch | 39.00% | ~422 |
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~422 |
 | Bullseye | 37.00% | ~400 |

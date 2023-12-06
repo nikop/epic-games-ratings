@@ -195,9 +195,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7459,
+  "EOS_Progressed": 7460,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 423,
+  "EOS_NewPlayers": 418,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5635,6 +5635,11 @@
       "Time": "2023-12-06T01:58:21.2014017+00:00",
       "NumProgressed": 7459,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-06T04:09:42.8901689+00:00",
+      "NumProgressed": 7460,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5757,9 +5762,9 @@
       "ID": "HeJustWantedToHelp",
       "SetID": "acc6ea0",
       "Name": "He Just Wanted To Help",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 298
     },
     {
       "ID": "JackOfAllTrades",
@@ -5791,7 +5796,7 @@
       "Name": "Nasty!",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1193
+      "UsersEstimate": 1194
     },
     {
       "ID": "NoMoreTotems",
@@ -5918,7 +5923,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7459,
+      "Progressed": 7460,
       "Completed": 14
     }
   ],
@@ -5926,8 +5931,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-05T16:59:13.5871144+00:00",
-  "LastChanged_Achievements": "2023-12-06T03:09:55.9749501+00:00",
+  "LastChanged_Achievements": "2023-12-06T04:09:42.8901685+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-06T02:59:45.5725276+00:00",
-  "LastUpdate_Achievements": "2023-12-06T03:09:55.9749907+00:00"
+  "LastUpdate_Ratings": "2023-12-06T03:59:45.1506338+00:00",
+  "LastUpdate_Achievements": "2023-12-06T04:09:42.8902038+00:00"
 }

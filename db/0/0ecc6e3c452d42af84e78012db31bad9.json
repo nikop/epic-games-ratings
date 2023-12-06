@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4352,
+  "EOS_Progressed": 4353,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -10989,6 +10989,11 @@
       "Time": "2023-12-06T01:56:39.5670886+00:00",
       "NumProgressed": 4352,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-12-06T04:08:02.9450121+00:00",
+      "NumProgressed": 4353,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 16,
@@ -11032,7 +11037,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 3351
+      "UsersEstimate": 3352
     },
     {
       "ID": "ach_architecture_completed",
@@ -11072,7 +11077,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 3525
+      "UsersEstimate": 3526
     },
     {
       "ID": "ach_food_completed",
@@ -11096,7 +11101,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 3264
+      "UsersEstimate": 3265
     },
     {
       "ID": "ach_magic_wand",
@@ -11112,7 +11117,7 @@
       "Name": "Master",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1698
     },
     {
       "ID": "ach_tornado",
@@ -11127,14 +11132,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4352,
+      "Progressed": 4353,
       "Completed": 36
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-12-06T03:07:54.6978102+00:00",
+  "LastChanged_Achievements": "2023-12-06T04:08:02.9450118+00:00",
   "LastUpdate_AppInfo": "2023-12-01T21:56:53.9270768+00:00",
-  "LastUpdate_Ratings": "2023-12-06T03:00:13.9296529+00:00",
-  "LastUpdate_Achievements": "2023-12-06T03:07:54.6978661+00:00"
+  "LastUpdate_Ratings": "2023-12-06T04:00:12.1553394+00:00",
+  "LastUpdate_Achievements": "2023-12-06T04:08:02.9450694+00:00"
 }

@@ -11,19 +11,19 @@ Number of Ratings: 70,340  (23.09.2022)
 | Not half bad | 1.00% | ~10,732 |
 | Skillful | 1.00% | ~10,732 |
 | Make Some Noise | 1.00% | ~10,732 |
-| Apt Survivor | 0.90% | ~9,658 |
-| Survival Treasures | 0.90% | ~9,658 |
-| I | 0.90% | ~9,658 |
-| Handyman | 0.80% | ~8,585 |
-| Sorted | 0.80% | ~8,585 |
-| Resurgence | 0.80% | ~8,585 |
-| The Grand Sacrifice | 0.70% | ~7,512 |
-| No one left behind | 0.70% | ~7,512 |
-| Medic | 0.70% | ~7,512 |
-| Bloody Millionaire | 0.70% | ~7,512 |
-| Healthy Obsession | 0.70% | ~7,512 |
-| Preemptive Strike | 0.70% | ~7,512 |
-| Humanitarian | 0.70% | ~7,512 |
+| Apt Survivor | 0.90% | ~9,659 |
+| Survival Treasures | 0.90% | ~9,659 |
+| I | 0.90% | ~9,659 |
+| Handyman | 0.80% | ~8,586 |
+| Sorted | 0.80% | ~8,586 |
+| Resurgence | 0.80% | ~8,586 |
+| The Grand Sacrifice | 0.70% | ~7,513 |
+| No one left behind | 0.70% | ~7,513 |
+| Medic | 0.70% | ~7,513 |
+| Bloody Millionaire | 0.70% | ~7,513 |
+| Healthy Obsession | 0.70% | ~7,513 |
+| Preemptive Strike | 0.70% | ~7,513 |
+| Humanitarian | 0.70% | ~7,513 |
 | Agonizing Escape | 0.60% | ~6,439 |
 | Backdoor Escape | 0.60% | ~6,439 |
 | Perfect Escape | 0.60% | ~6,439 |
@@ -46,27 +46,27 @@ Number of Ratings: 70,340  (23.09.2022)
 | Flight to Freedom | 0.40% | ~4,293 |
 | Lifting The Fog | 0.40% | ~4,293 |
 | Second Act | 0.40% | ~4,293 |
-| Made it out alive! | 0.30% | ~3,219 |
-| Nerves of steel | 0.30% | ~3,219 |
-| Gifts for the Fog | 0.30% | ~3,219 |
-| III-50 | 0.30% | ~3,219 |
-| Shock Therapy | 0.30% | ~3,219 |
-| All Aboard | 0.30% | ~3,219 |
-| Item of Obsession | 0.30% | ~3,219 |
-| House of Pain | 0.30% | ~3,219 |
-| Holiday Get-Together | 0.30% | ~3,219 |
-| Near-Death Experience | 0.30% | ~3,219 |
-| Cherish your Life | 0.30% | ~3,219 |
-| Ancestor's Rite | 0.30% | ~3,219 |
-| Unforgettable Getaway | 0.30% | ~3,219 |
-| Cutting Out | 0.30% | ~3,219 |
-| Outrun Evil | 0.30% | ~3,219 |
-| Old West Oasis | 0.30% | ~3,219 |
-| Classy Act | 0.30% | ~3,219 |
-| Raccoon City Recruit | 0.30% | ~3,219 |
-| Chorus of Chaos | 0.30% | ~3,219 |
-| One More Step | 0.30% | ~3,219 |
-| MU/TH/UR Dearest | 0.30% | ~3,219 |
+| Made it out alive! | 0.30% | ~3,220 |
+| Nerves of steel | 0.30% | ~3,220 |
+| Gifts for the Fog | 0.30% | ~3,220 |
+| III-50 | 0.30% | ~3,220 |
+| Shock Therapy | 0.30% | ~3,220 |
+| All Aboard | 0.30% | ~3,220 |
+| Item of Obsession | 0.30% | ~3,220 |
+| House of Pain | 0.30% | ~3,220 |
+| Holiday Get-Together | 0.30% | ~3,220 |
+| Near-Death Experience | 0.30% | ~3,220 |
+| Cherish your Life | 0.30% | ~3,220 |
+| Ancestor's Rite | 0.30% | ~3,220 |
+| Unforgettable Getaway | 0.30% | ~3,220 |
+| Cutting Out | 0.30% | ~3,220 |
+| Outrun Evil | 0.30% | ~3,220 |
+| Old West Oasis | 0.30% | ~3,220 |
+| Classy Act | 0.30% | ~3,220 |
+| Raccoon City Recruit | 0.30% | ~3,220 |
+| Chorus of Chaos | 0.30% | ~3,220 |
+| One More Step | 0.30% | ~3,220 |
+| MU/TH/UR Dearest | 0.30% | ~3,220 |
 | A bite for the Entity | 0.20% | ~2,146 |
 | Blood on your face | 0.20% | ~2,146 |
 | Jump Scares | 0.20% | ~2,146 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Joke’s On You | 0.10% | ~1,073 |
 | Adept Good Guy | 0.10% | ~1,073 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,073,152 (Ranked 14)  
+Progressed: 1,073,244 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -469,16 +469,16 @@ Completed: 61 (0.01%) (Ranked 347)
 | 2023-12-03 | 1,067,390 | 61 |
 | 2023-12-04 | 1,070,133 | 61 |
 | 2023-12-05 | 1,072,750 | 61 |
-| 2023-12-06 | 1,073,152 | 61 |
+| 2023-12-06 | 1,073,244 | 61 |
 ## Awards
 Max (Diverse Characters): 37,377  (Ranked 15)  
-Sum: 283,459 (Ranked 12)  
+Sum: 283,502 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 37,377 |
 | This game is Highly Recommended | 32,435 |
-| This game has Amazing Characters | 31,923 |
+| This game has Amazing Characters | 31,966 |
 | This game has Competitive Players | 31,791 |
 | This game is Extremely Fun | 31,433 |
 | This game has Challenging Combat | 31,304 |
@@ -806,4 +806,4 @@ Diff (max vs sum): 3
 | 2023-12-03 | 4.51 | - | 37,218 | 282,346 |
 | 2023-12-04 | 4.51 | - | 37,289 | 282,989 |
 | 2023-12-05 | 4.51 | - | 37,377 | 283,349 |
-| 2023-12-06 | 4.51 | - | 37,377 | 283,459 |
+| 2023-12-06 | 4.51 | - | 37,377 | 283,502 |

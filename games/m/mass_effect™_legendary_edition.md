@@ -83,8 +83,8 @@
 | Liberator | 26.00% | ~393 |
 | Weapon Specialist | 25.00% | ~378 |
 | Pathfinder | 25.00% | ~378 |
+| Arbiter | 25.00% | ~378 |
 | Savior | 24.00% | ~363 |
-| Arbiter | 24.00% | ~363 |
 | Lost and Found | 24.00% | ~363 |
 | Paramour II | 22.00% | ~333 |
 | Party Crasher | 22.00% | ~333 |

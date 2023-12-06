@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 446,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -901,9 +901,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 11206,
+  "EOS_Progressed": 11208,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -13721,6 +13721,11 @@
       "Time": "2023-12-06T01:57:36.2755258+00:00",
       "NumProgressed": 11206,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-12-06T04:08:58.439344+00:00",
+      "NumProgressed": 11208,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -13804,7 +13809,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "ACH11",
@@ -13892,7 +13897,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 5267
+      "UsersEstimate": 5268
     },
     {
       "ID": "ACH22",
@@ -13900,7 +13905,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2353
+      "UsersEstimate": 2354
     },
     {
       "ID": "ACH23",
@@ -13948,7 +13953,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "ACH29",
@@ -14003,7 +14008,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11206,
+      "Progressed": 11208,
       "Completed": 65
     }
   ],
@@ -14011,8 +14016,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-04T17:01:12.7618907+00:00",
-  "LastChanged_Achievements": "2023-12-06T03:09:11.3282184+00:00",
+  "LastChanged_Achievements": "2023-12-06T04:08:58.4393434+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:55.5499109+00:00",
-  "LastUpdate_Ratings": "2023-12-06T03:01:32.289369+00:00",
-  "LastUpdate_Achievements": "2023-12-06T03:09:11.3283057+00:00"
+  "LastUpdate_Ratings": "2023-12-06T04:01:32.5831477+00:00",
+  "LastUpdate_Achievements": "2023-12-06T04:08:58.4394291+00:00"
 }

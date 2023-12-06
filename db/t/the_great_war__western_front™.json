@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -73,9 +73,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 579,
+  "EOS_Progressed": 580,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2648,6 +2648,11 @@
       "Time": "2023-12-05T23:02:55.3570869+00:00",
       "NumProgressed": 579,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T04:03:36.6042751+00:00",
+      "NumProgressed": 580,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2731,7 +2736,7 @@
       "Name": "La Der des Ders",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -2739,7 +2744,7 @@
       "Name": "Das Ist Endg\u00FCltig!",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -2754,7 +2759,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 579,
+      "Progressed": 580,
       "Completed": 0
     }
   ],
@@ -2762,8 +2767,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-11-20T01:47:16.6107096+00:00",
-  "LastChanged_Achievements": "2023-12-06T03:03:27.5454651+00:00",
+  "LastChanged_Achievements": "2023-12-06T04:03:36.6042744+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:01.0011076+00:00",
   "LastUpdate_Ratings": "2023-12-06T03:02:26.7306118+00:00",
-  "LastUpdate_Achievements": "2023-12-06T03:03:27.5454906+00:00"
+  "LastUpdate_Achievements": "2023-12-06T04:03:36.6043011+00:00"
 }

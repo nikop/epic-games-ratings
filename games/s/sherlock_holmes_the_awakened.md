@@ -5,10 +5,10 @@ Rating: 4.69 (Ranked 231)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 66.00% | ~551 |
-| To Hell In A Handcart | 66.00% | ~551 |
+| Read Between The Lines | 66.00% | ~552 |
+| To Hell In A Handcart | 66.00% | ~552 |
 | High Profile | 59.00% | ~493 |
-| Whispers In The Dark | 57.00% | ~476 |
+| Whispers In The Dark | 57.00% | ~477 |
 | Fond Memories | 56.00% | ~468 |
 | A Method To His Madness | 54.00% | ~451 |
 | History Check | 53.00% | ~443 |
@@ -16,25 +16,25 @@ Rating: 4.69 (Ranked 231)
 | Open Sesame | 50.00% | ~418 |
 | Sticky Fingers | 50.00% | ~418 |
 | Knives Out | 50.00% | ~418 |
-| Land, Ho! | 49.00% | ~409 |
+| Land, Ho! | 49.00% | ~410 |
 | Gaze Into The Abyss | 48.00% | ~401 |
 | Back In The Saddle | 48.00% | ~401 |
 | No Man Is An Island | 48.00% | ~401 |
-| Lock, Stock, And Barrel | 47.00% | ~392 |
-| At Wits' End | 47.00% | ~392 |
-| Fhtagn! | 46.00% | ~384 |
+| Lock, Stock, And Barrel | 47.00% | ~393 |
+| At Wits' End | 47.00% | ~393 |
+| Fhtagn! | 46.00% | ~385 |
 | Up In Flames | 45.00% | ~376 |
-| Bookworm | 44.00% | ~367 |
-| Going Once... | 41.00% | ~342 |
+| Bookworm | 44.00% | ~368 |
+| Going Once... | 41.00% | ~343 |
 | Let Me Be Frank | 39.00% | ~326 |
-| No Stone Unturned | 38.00% | ~317 |
+| No Stone Unturned | 38.00% | ~318 |
 | Brain Food | 36.00% | ~301 |
-| Read It And Weep | 23.00% | ~192 |
+| Read It And Weep | 22.00% | ~184 |
 | Curiosity Killed The Cat | 20.00% | ~167 |
 | Big Breakthrough | 13.00% | ~109 |
 | Reawakened | 4.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 835 (Ranked 277)  
+Progressed: 836 (Ranked 277)  
 Completed: 28 (3.35%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 28 (3.35%) (Ranked 97)
 | 2023-11-28 | 823 | 28 |
 | 2023-12-03 | 825 | 28 |
 | 2023-12-05 | 833 | 28 |
-| 2023-12-06 | 835 | 28 |
+| 2023-12-06 | 836 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

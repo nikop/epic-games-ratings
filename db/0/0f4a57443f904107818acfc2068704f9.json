@@ -1939,9 +1939,9 @@
       "ID": "CompleteChapter16",
       "SetID": "52ail55",
       "Name": "Our Own Miracle",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 59
     },
     {
       "ID": "CompleteChapter17",
@@ -2019,9 +2019,9 @@
       "ID": "CompleteChapter8",
       "SetID": "52ail55",
       "Name": "Troggoff Troubles",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 135
     },
     {
       "ID": "CompleteChapter9",
@@ -2130,8 +2130,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-06T03:07:54.4656317+00:00",
+  "LastChanged_Achievements": "2023-12-06T04:08:02.7236278+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:09.4303292+00:00",
-  "LastUpdate_Ratings": "2023-12-06T03:02:29.7443595+00:00",
-  "LastUpdate_Achievements": "2023-12-06T03:07:54.4656659+00:00"
+  "LastUpdate_Ratings": "2023-12-06T04:02:39.0905369+00:00",
+  "LastUpdate_Achievements": "2023-12-06T04:08:02.7236579+00:00"
 }

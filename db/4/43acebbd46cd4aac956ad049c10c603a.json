@@ -207,7 +207,7 @@
   ],
   "EOS_Progressed": 879,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2224,9 +2224,9 @@
       "ID": "EasternWetlands",
       "SetID": "1n308hc",
       "Name": "Eastern Wetlands",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 62
     },
     {
       "ID": "EcstaticTruth",
@@ -2601,8 +2601,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-05T18:59:22.7453339+00:00",
-  "LastChanged_Achievements": "2023-12-06T03:06:35.7739846+00:00",
+  "LastChanged_Achievements": "2023-12-06T04:06:44.6465342+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-06T02:59:22.6414486+00:00",
-  "LastUpdate_Achievements": "2023-12-06T03:06:35.7740345+00:00"
+  "LastUpdate_Ratings": "2023-12-06T03:59:22.1099362+00:00",
+  "LastUpdate_Achievements": "2023-12-06T04:06:44.6465853+00:00"
 }

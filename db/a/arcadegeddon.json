@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
@@ -752,10 +752,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 464,
       "NumberOfAwardsMax": 65
+    },
+    {
+      "Time": "2023-12-06T04:01:07.988072+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 465,
+      "NumberOfAwardsMax": 65
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 464,
+  "NumberOfAwards": 465,
   "NumberOfAwardsMax": 65,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -781,7 +787,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 59
+      "Count": 60
     },
     {
       "Text": "This game is Relaxing",
@@ -826,7 +832,7 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 9827,
+  "EOS_Progressed": 9828,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
@@ -12326,6 +12332,11 @@
       "Time": "2023-12-05T08:04:00.0724498+00:00",
       "NumProgressed": 9827,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-06T04:05:08.720834+00:00",
+      "NumProgressed": 9828,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 50,
@@ -12369,7 +12380,7 @@
       "Name": "Coup d\u0027Etat",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5503
+      "UsersEstimate": 5504
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -12409,7 +12420,7 @@
       "Name": "Get In The Ring!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "ACH_GREY_GOO",
@@ -12433,7 +12444,7 @@
       "Name": "Guardian Angel",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 2653
+      "UsersEstimate": 2654
     },
     {
       "ID": "ACH_GUNPLAY_AND_COSPLAY",
@@ -12441,7 +12452,7 @@
       "Name": "Gunplay And Cosplay",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 5110
+      "UsersEstimate": 5111
     },
     {
       "ID": "ACH_HACKS_IN_STACKS",
@@ -12449,7 +12460,7 @@
       "Name": "Hacks In Stacks",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 5208
+      "UsersEstimate": 5209
     },
     {
       "ID": "ACH_HERE_COMES_A_NEW_CHALLENGER",
@@ -12481,7 +12492,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 8549
+      "UsersEstimate": 8550
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -12537,7 +12548,7 @@
       "Name": "Photogenic",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 8255
+      "UsersEstimate": 8256
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -12609,7 +12620,7 @@
       "Name": "1.21 Gigawatts",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "ACH_START_YOUR_COLLECTION",
@@ -12641,7 +12652,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 7960
+      "UsersEstimate": 7961
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -12689,7 +12700,7 @@
       "Name": "This Is My Boomstick!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "ACH_TICKET_TITAN",
@@ -12736,15 +12747,15 @@
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 9827,
+      "Progressed": 9828,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
-  "LastChanged": "2023-11-27T06:59:40.9227353+00:00",
-  "LastChanged_Achievements": "2023-12-06T03:04:59.2196325+00:00",
+  "LastChanged": "2023-12-06T04:01:07.9880717+00:00",
+  "LastChanged_Achievements": "2023-12-06T04:05:08.7208335+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:46.9519567+00:00",
-  "LastUpdate_Ratings": "2023-12-06T03:01:08.1645002+00:00",
-  "LastUpdate_Achievements": "2023-12-06T03:04:59.2197269+00:00"
+  "LastUpdate_Ratings": "2023-12-06T04:01:07.9880723+00:00",
+  "LastUpdate_Achievements": "2023-12-06T04:05:08.7209221+00:00"
 }

@@ -18,9 +18,9 @@ Rating: 4.05 (Ranked 991)
 | Dragon Clicker | 16.00% | ~490 |
 | Inspection | 15.00% | ~459 |
 | Miner Clicker | 15.00% | ~459 |
+| Dragon Master | 14.00% | ~428 |
 | Enlightenment | 14.00% | ~428 |
 | Hero inspection | 14.00% | ~428 |
-| Dragon Master | 13.00% | ~398 |
 | Lieutenant | 13.00% | ~398 |
 | Natural Talent | 12.00% | ~367 |
 | Superior | 12.00% | ~367 |

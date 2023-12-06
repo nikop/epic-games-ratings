@@ -3041,9 +3041,9 @@
       "ID": "AC28",
       "SetID": "l4abp0",
       "Name": "The Punished One",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 530
     },
     {
       "ID": "AC29",
@@ -3194,8 +3194,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-02T16:58:47.1446521+00:00",
-  "LastChanged_Achievements": "2023-12-06T03:05:59.9347001+00:00",
+  "LastChanged_Achievements": "2023-12-06T04:06:09.079478+00:00",
   "LastUpdate_AppInfo": "2023-12-06T02:20:25.0557456+00:00",
-  "LastUpdate_Ratings": "2023-12-06T03:01:02.2083071+00:00",
-  "LastUpdate_Achievements": "2023-12-06T03:05:59.9347481+00:00"
+  "LastUpdate_Ratings": "2023-12-06T04:01:01.8359461+00:00",
+  "LastUpdate_Achievements": "2023-12-06T04:06:09.079518+00:00"
 }

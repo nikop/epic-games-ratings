@@ -333,7 +333,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 76045,
+  "EOS_Progressed": 76046,
   "EOS_Completed": 408,
   "EOS_NewPlayers": 573,
   "EOS_NewCompleters": 4,
@@ -25598,6 +25598,11 @@
       "Time": "2023-12-06T02:33:03.7033332+00:00",
       "NumProgressed": 76045,
       "NumCompleted": 408
+    },
+    {
+      "Time": "2023-12-06T04:09:14.6090136+00:00",
+      "NumProgressed": 76046,
+      "NumCompleted": 408
     }
   ],
   "TotalAchievements": 24,
@@ -25625,7 +25630,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 52471
+      "UsersEstimate": 52472
     },
     {
       "ID": "BEST_FRIENDS",
@@ -25649,7 +25654,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15969
+      "UsersEstimate": 15970
     },
     {
       "ID": "FETCH",
@@ -25753,7 +25758,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 15969
+      "UsersEstimate": 15970
     },
     {
       "ID": "SPIRIT_DASH",
@@ -25785,7 +25790,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 9125
+      "UsersEstimate": 9126
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -25800,7 +25805,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 76045,
+      "Progressed": 76046,
       "Completed": 408
     }
   ],
@@ -25808,8 +25813,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-12-06T03:09:27.4127877+00:00",
+  "LastChanged_Achievements": "2023-12-06T04:09:14.6090131+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:18.159527+00:00",
-  "LastUpdate_Ratings": "2023-12-06T02:57:39.4632277+00:00",
-  "LastUpdate_Achievements": "2023-12-06T03:09:27.4128951+00:00"
+  "LastUpdate_Ratings": "2023-12-06T03:57:38.0675782+00:00",
+  "LastUpdate_Achievements": "2023-12-06T04:09:14.6091461+00:00"
 }

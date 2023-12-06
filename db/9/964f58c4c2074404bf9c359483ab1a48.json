@@ -2091,9 +2091,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 1292210,
+  "EOS_Progressed": 1292213,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1248,
+  "EOS_NewPlayers": 1245,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24021,6 +24021,11 @@
       "Time": "2023-12-06T03:06:13.4981317+00:00",
       "NumProgressed": 1292210,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T04:06:22.3363154+00:00",
+      "NumProgressed": 1292213,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -24296,7 +24301,7 @@
       "Name": "25 Taunts In One Game!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 51688
+      "UsersEstimate": 51689
     },
     {
       "ID": "50_riot_shield_kills",
@@ -24328,7 +24333,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 762404
+      "UsersEstimate": 762406
     },
     {
       "ID": "hunter_win",
@@ -24336,7 +24341,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 697793
+      "UsersEstimate": 697795
     },
     {
       "ID": "master_of_loadouts",
@@ -24360,14 +24365,14 @@
       "Name": "Unlock Any Cosmetic",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 284286
+      "UsersEstimate": 284287
     }
   ],
   "AchievementSets": [
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1292210,
+      "Progressed": 1292213,
       "Completed": 0
     }
   ],
@@ -24375,8 +24380,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2023-12-05T19:59:06.6015795+00:00",
-  "LastChanged_Achievements": "2023-12-06T03:06:13.4981313+00:00",
+  "LastChanged_Achievements": "2023-12-06T04:06:22.3363149+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:12.3438566+00:00",
-  "LastUpdate_Ratings": "2023-12-06T02:59:33.0267634+00:00",
-  "LastUpdate_Achievements": "2023-12-06T03:06:13.4982408+00:00"
+  "LastUpdate_Ratings": "2023-12-06T03:59:33.2568822+00:00",
+  "LastUpdate_Achievements": "2023-12-06T04:06:22.3364276+00:00"
 }

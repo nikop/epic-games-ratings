@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11577,10 +11577,10 @@
       "Count": 837
     }
   ],
-  "EOS_Progressed": 303983,
-  "EOS_Completed": 522,
+  "EOS_Progressed": 303987,
+  "EOS_Completed": 523,
   "EOS_NewPlayers": 451,
-  "EOS_NewCompleters": 3,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
@@ -36272,6 +36272,11 @@
       "Time": "2023-12-06T03:10:08.1660722+00:00",
       "NumProgressed": 303983,
       "NumCompleted": 522
+    },
+    {
+      "Time": "2023-12-06T04:10:14.7821422+00:00",
+      "NumProgressed": 303987,
+      "NumCompleted": 523
     }
   ],
   "TotalAchievements": 45,
@@ -36283,7 +36288,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48637
+      "UsersEstimate": 48638
     },
     {
       "ID": "PFA_10",
@@ -36291,7 +36296,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33438
+      "UsersEstimate": 33439
     },
     {
       "ID": "PFA_11",
@@ -36299,7 +36304,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33438
+      "UsersEstimate": 33439
     },
     {
       "ID": "PFA_12",
@@ -36315,7 +36320,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 33438
+      "UsersEstimate": 33439
     },
     {
       "ID": "PFA_14",
@@ -36355,7 +36360,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 27358
+      "UsersEstimate": 27359
     },
     {
       "ID": "PFA_19",
@@ -36387,7 +36392,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33438
+      "UsersEstimate": 33439
     },
     {
       "ID": "PFA_22",
@@ -36443,7 +36448,7 @@
       "Name": "Put Down Roots",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 9119
+      "UsersEstimate": 9120
     },
     {
       "ID": "PFA_29",
@@ -36459,7 +36464,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9119
+      "UsersEstimate": 9120
     },
     {
       "ID": "PFA_30",
@@ -36499,7 +36504,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9119
+      "UsersEstimate": 9120
     },
     {
       "ID": "PFA_35",
@@ -36507,7 +36512,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30398
+      "UsersEstimate": 30399
     },
     {
       "ID": "PFA_36",
@@ -36539,7 +36544,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33438
+      "UsersEstimate": 33439
     },
     {
       "ID": "PFA_4",
@@ -36587,7 +36592,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27358
+      "UsersEstimate": 27359
     },
     {
       "ID": "PFA_45",
@@ -36611,7 +36616,7 @@
       "Name": "First Class Student",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45597
+      "UsersEstimate": 45598
     },
     {
       "ID": "PFA_7",
@@ -36635,23 +36640,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30398
+      "UsersEstimate": 30399
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303983,
-      "Completed": 522
+      "Progressed": 303987,
+      "Completed": 523
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-06T02:24:36.7132039+00:00",
-  "LastChanged_Achievements": "2023-12-06T03:10:08.1660719+00:00",
+  "LastChanged_Achievements": "2023-12-06T04:10:14.782142+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-06T03:00:55.9139127+00:00",
-  "LastUpdate_Achievements": "2023-12-06T03:10:08.1661997+00:00"
+  "LastUpdate_Ratings": "2023-12-06T04:00:55.6269987+00:00",
+  "LastUpdate_Achievements": "2023-12-06T04:10:14.7822509+00:00"
 }

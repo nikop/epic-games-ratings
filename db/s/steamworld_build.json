@@ -136,17 +136,17 @@
       "ID": "ConductedTrade",
       "SetID": "4bd750m",
       "Name": "Conducted Trade",
-      "Percentage": 54,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "DiggingAHole",
       "SetID": "4bd750m",
       "Name": "Digging a Hole",
-      "Percentage": 43,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "DopaMiner",
@@ -160,9 +160,9 @@
       "ID": "GoingPlaces",
       "SetID": "4bd750m",
       "Name": "Going Places",
-      "Percentage": 32,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "GottaGoFast",
@@ -335,8 +335,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-06T03:05:15.0253513+00:00",
+  "LastChanged_Achievements": "2023-12-06T04:05:24.42262+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:16.2831296+00:00",
-  "LastUpdate_Ratings": "2023-12-06T03:03:07.0407541+00:00",
-  "LastUpdate_Achievements": "2023-12-06T03:05:15.0253708+00:00"
+  "LastUpdate_Ratings": "2023-12-06T04:03:16.3867813+00:00",
+  "LastUpdate_Achievements": "2023-12-06T04:05:24.4226374+00:00"
 }

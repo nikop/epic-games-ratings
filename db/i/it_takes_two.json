@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-06-10T11:00:00+00:00",
     "PcReleaseDate": "2021-03-25T11:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 26148,
+  "EOS_Progressed": 26151,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 1416,
+  "EOS_NewPlayers": 1412,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -8993,6 +8993,11 @@
       "Time": "2023-12-06T03:09:14.0093853+00:00",
       "NumProgressed": 26148,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-12-06T04:09:01.104354+00:00",
+      "NumProgressed": 26151,
+      "NumCompleted": 112
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -9005,7 +9010,7 @@
       "Name": "It Took Two",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 11505
+      "UsersEstimate": 11506
     },
     {
       "ID": "achievement_10",
@@ -9029,7 +9034,7 @@
       "Name": "On Rails Experience",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 14904
+      "UsersEstimate": 14906
     },
     {
       "ID": "achievement_13",
@@ -9037,7 +9042,7 @@
       "Name": "Platforming Prodigy",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2353
+      "UsersEstimate": 2354
     },
     {
       "ID": "achievement_14",
@@ -9053,7 +9058,7 @@
       "Name": "Lost And Found",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2876
+      "UsersEstimate": 2877
     },
     {
       "ID": "achievement_16",
@@ -9061,7 +9066,7 @@
       "Name": "Mood Swing",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1830
+      "UsersEstimate": 1831
     },
     {
       "ID": "achievement_17",
@@ -9069,7 +9074,7 @@
       "Name": "Something Fishy",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2876
+      "UsersEstimate": 2877
     },
     {
       "ID": "achievement_18",
@@ -9109,7 +9114,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 22749
+      "UsersEstimate": 22751
     },
     {
       "ID": "achievement_4",
@@ -9117,7 +9122,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 23010
+      "UsersEstimate": 23013
     },
     {
       "ID": "achievement_5",
@@ -9125,7 +9130,7 @@
       "Name": "Plastic Prison Breakers",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 4445
+      "UsersEstimate": 4446
     },
     {
       "ID": "achievement_6",
@@ -9141,7 +9146,7 @@
       "Name": "Look At Him Go",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 20657
+      "UsersEstimate": 20659
     },
     {
       "ID": "achievement_8",
@@ -9149,7 +9154,7 @@
       "Name": "Break the Bank",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 11244
+      "UsersEstimate": 11245
     },
     {
       "ID": "achievement_9",
@@ -9157,20 +9162,20 @@
       "Name": "A Daring Devil",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 13858
+      "UsersEstimate": 13860
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 26148,
+      "Progressed": 26151,
       "Completed": 112
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-12-06T03:09:14.0093849+00:00",
+  "LastChanged_Achievements": "2023-12-06T04:09:01.1043536+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:29.2026189+00:00",
-  "LastUpdate_Ratings": "2023-12-06T02:57:31.9854788+00:00",
-  "LastUpdate_Achievements": "2023-12-06T03:09:14.0094337+00:00"
+  "LastUpdate_Ratings": "2023-12-06T03:57:30.503596+00:00",
+  "LastUpdate_Achievements": "2023-12-06T04:09:01.1044063+00:00"
 }

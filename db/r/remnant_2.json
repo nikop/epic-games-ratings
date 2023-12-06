@@ -5143,10 +5143,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6550,
       "NumberOfAwardsMax": 2649
+    },
+    {
+      "Time": "2023-12-06T04:03:26.6227945+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6552,
+      "NumberOfAwardsMax": 2649
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6550,
+  "NumberOfAwards": 6552,
   "NumberOfAwardsMax": 2649,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5196,7 +5202,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 292
+      "Count": 294
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5217,10 +5223,10 @@
       "Count": 403
     }
   ],
-  "EOS_Progressed": 235614,
+  "EOS_Progressed": 235636,
   "EOS_Completed": 561,
-  "EOS_NewPlayers": 5384,
-  "EOS_NewCompleters": 20,
+  "EOS_NewPlayers": 5386,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
@@ -21587,6 +21593,11 @@
       "Time": "2023-12-06T03:09:13.7763366+00:00",
       "NumProgressed": 235614,
       "NumCompleted": 561
+    },
+    {
+      "Time": "2023-12-06T04:09:00.9289196+00:00",
+      "NumProgressed": 235636,
+      "NumCompleted": 561
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -21615,7 +21626,7 @@
       "Name": "Am I Seeing This?",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "Defeat_Abberations_B",
@@ -21703,7 +21714,7 @@
       "Name": "Not So Special Now",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "Defeat_Tal_Ratha",
@@ -21743,7 +21754,7 @@
       "Name": "Not a Janitor",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "Meet_Flautist",
@@ -21759,7 +21770,7 @@
       "Name": "Equal Measures",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "Meet_Mudtooth",
@@ -21775,7 +21786,7 @@
       "Name": "Blue Goddess",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "Obtain_Archetype",
@@ -21791,7 +21802,7 @@
       "Name": "Duality",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -21799,7 +21810,7 @@
       "Name": "Top Performer",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "Obtain_Archetype_Secret",
@@ -21807,7 +21818,7 @@
       "Name": "Shhh...It\u0027s a Secret",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "Obtain_Blood_Moon_Item",
@@ -21943,7 +21954,7 @@
       "Name": "Almost There",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "Upgrade_Relic",
@@ -21951,7 +21962,7 @@
       "Name": "Make Some Room",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "Upgrade_Standard_Weapon_A",
@@ -21959,7 +21970,7 @@
       "Name": "Good, But Could Be Better!",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "Upgrade_Standard_Weapon_B",
@@ -21975,7 +21986,7 @@
       "Name": "Trait Chaser",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -22015,7 +22026,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -22038,22 +22049,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 235614,
+      "Progressed": 235636,
       "Completed": 561
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 14779,
+      "Progressed": 14801,
       "Completed": 197
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-12-06T01:51:21.296664+00:00",
-  "LastChanged_Achievements": "2023-12-06T03:09:13.7763362+00:00",
+  "LastChanged": "2023-12-06T04:03:26.6227942+00:00",
+  "LastChanged_Achievements": "2023-12-06T04:09:00.9289191+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:21.7120187+00:00",
-  "LastUpdate_Ratings": "2023-12-06T03:03:17.1169847+00:00",
-  "LastUpdate_Achievements": "2023-12-06T03:09:13.7764547+00:00"
+  "LastUpdate_Ratings": "2023-12-06T04:03:26.6227948+00:00",
+  "LastUpdate_Achievements": "2023-12-06T04:09:00.9290087+00:00"
 }

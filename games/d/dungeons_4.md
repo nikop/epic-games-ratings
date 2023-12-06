@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Last Stand | 89.00% | ~471 |
-| Thalya – Simply Immortal | 88.00% | ~466 |
-| For the Horde! | 82.00% | ~434 |
+| Thalya – Simply Immortal | 89.00% | ~471 |
+| For the Horde! | 83.00% | ~439 |
 | Hammer Time, Round Two | 81.00% | ~428 |
 | The Hellwoods | 76.00% | ~402 |
 | Experienced Thalya | 72.00% | ~381 |
@@ -27,8 +27,8 @@
 | “… like son” | 48.00% | ~254 |
 | Pure Dynamite! | 45.00% | ~238 |
 | Shame! Shame! Shame! | 44.00% | ~233 |
+| Dungeonlord Gorgu | 43.00% | ~227 |
 | The Cathedral of Light | 43.00% | ~227 |
-| Dungeonlord Gorgu | 42.00% | ~222 |
 | Mana Cannon | 41.00% | ~217 |
 | Tanos' Crusade Against Thalya | 40.00% | ~212 |
 | All’s Well That Ends Evil | 33.00% | ~175 |
@@ -45,8 +45,8 @@
 | Doom Hill | 22.00% | ~116 |
 | Sabotage! | 20.00% | ~106 |
 | Brimstone Shaken, Not Stirred | 20.00% | ~106 |
+| Raiders of the Lost Stone | 19.00% | ~101 |
 | Bonus Evilness | 18.00% | ~95 |
-| Raiders of the Lost Stone | 18.00% | ~95 |
 | The Rune Sockets of Finitude (Part 1) | 18.00% | ~95 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~85 |
 | My Little Torture Chamber | 16.00% | ~85 |
