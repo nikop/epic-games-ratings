@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 3.00% | ~1,693 |
-| Pork Chopped | 3.00% | ~1,693 |
+| Whatever It Takes | 3.00% | ~1,694 |
+| Pork Chopped | 3.00% | ~1,694 |
 | Dr. Reed, I Presume? | 2.00% | ~14,618 |
 | Git Gutte! | 2.00% | ~14,618 |
 | Bookworm | 2.00% | ~14,618 |
@@ -45,7 +45,7 @@ Rating: 4.54 (Ranked 529)
 | Smorgasbord | 0.60% | ~4,385 |
 | Internet Famous | 0.60% | ~4,385 |
 | Variety is the Spice of Death | 0.60% | ~4,385 |
-| Make it So | 0.50% | ~3,654 |
+| Make it So | 0.50% | ~3,655 |
 | LA Influential | 0.40% | ~2,924 |
 | Sole Survivor | 0.40% | ~2,924 |
 | Gore Horse | 0.40% | ~2,924 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 529)
 | Bucket List | 0.10% | ~731 |
 | Wilhelm | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 730,888 (Ranked 21)  
+Progressed: 730,911 (Ranked 21)  
 Completed: 2,465 (0.34%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,16 +287,16 @@ Completed: 2,465 (0.34%) (Ranked 233)
 | 2023-12-03 | 729,822 | 2,461 |
 | 2023-12-04 | 730,272 | 2,463 |
 | 2023-12-05 | 730,673 | 2,465 |
-| 2023-12-06 | 730,888 | 2,465 |
+| 2023-12-06 | 730,911 | 2,465 |
 ## Awards
 Max (Great Boss Battles): 7,968  (Ranked 49)  
-Sum: 12,223 (Ranked 82)  
+Sum: 12,229 (Ranked 82)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,968 |
 | This game is Great for Beginners | 617 |
-| This game has Diverse Characters | 581 |
+| This game has Diverse Characters | 587 |
 | This game has Quickly Understood Controls | 553 |
 | This game is Relaxing | 527 |
 | This game has Amazing Storytelling | 514 |
@@ -535,4 +535,4 @@ Diff (max vs sum): -33
 | 2023-12-03 | 4.54 | 7,892 | 12,110 |
 | 2023-12-04 | 4.54 | 7,915 | 12,148 |
 | 2023-12-05 | 4.54 | 7,943 | 12,192 |
-| 2023-12-06 | 4.54 | 7,968 | 12,223 |
+| 2023-12-06 | 4.54 | 7,968 | 12,229 |

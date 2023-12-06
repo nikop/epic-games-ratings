@@ -61,6 +61,7 @@
 | Heart of Darkness | 31.00% | ~470 |
 | Bringer of War | 31.00% | ~470 |
 | Focused | 30.00% | ~455 |
+| Friend or Foe | 30.00% | ~455 |
 | Cat's in the Cradle | 30.00% | ~455 |
 | Doppelganger | 30.00% | ~455 |
 | Fade Away | 30.00% | ~455 |
@@ -71,7 +72,6 @@
 | Mission Accomplished | 29.00% | ~440 |
 | Suicide Mission | 29.00% | ~440 |
 | Against All Odds | 29.00% | ~440 |
-| Friend or Foe | 29.00% | ~440 |
 | Mobilizer | 29.00% | ~440 |
 | Untouchable | 28.00% | ~424 |
 | Giant Killer | 28.00% | ~424 |

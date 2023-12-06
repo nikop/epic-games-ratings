@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1274,
+  "EOS_Progressed": 1275,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2892,6 +2892,11 @@
       "Time": "2023-12-06T11:04:35.1200981+00:00",
       "NumProgressed": 1274,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-06T16:04:18.0560589+00:00",
+      "NumProgressed": 1275,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2904,7 +2909,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2950,9 +2955,9 @@
       "ID": "ML_ACHIEVEMENT_07",
       "SetID": "5k00jcd",
       "Name": "Globetrotter",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 370
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -2976,7 +2981,7 @@
       "Name": "Drift champ",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -3024,7 +3029,7 @@
       "Name": "Stage animal",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ML_ACHIEVEMENT_17",
@@ -3080,7 +3085,7 @@
       "Name": "The Scorpion",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -3104,7 +3109,7 @@
       "Name": "The Nitro Bot",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -3160,7 +3165,7 @@
       "Name": "Spin the wheel",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -3208,7 +3213,7 @@
       "Name": "Tools of the trade",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -3232,7 +3237,7 @@
       "Name": "Magic trick",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ML_ACHIEVEMENT_43",
@@ -3240,27 +3245,27 @@
       "Name": "Mission complete",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1274,
+      "Progressed": 1275,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 942,
-      "Completed": 942
+      "Progressed": 943,
+      "Completed": 943
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-06T15:03:49.9815127+00:00",
+  "LastChanged_Achievements": "2023-12-06T16:04:18.0560586+00:00",
   "LastUpdate_AppInfo": "2023-11-30T02:56:57.3535816+00:00",
-  "LastUpdate_Ratings": "2023-12-06T14:57:10.0857127+00:00",
-  "LastUpdate_Achievements": "2023-12-06T15:03:49.9815558+00:00"
+  "LastUpdate_Ratings": "2023-12-06T15:57:19.4822461+00:00",
+  "LastUpdate_Achievements": "2023-12-06T16:04:18.0560965+00:00"
 }

@@ -4553,7 +4553,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77728,
+  "EOS_Progressed": 77729,
   "EOS_Completed": 124,
   "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 0,
@@ -25168,6 +25168,11 @@
       "Time": "2023-12-06T15:03:54.0606608+00:00",
       "NumProgressed": 77728,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-06T16:04:23.1655777+00:00",
+      "NumProgressed": 77729,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -25419,7 +25424,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14768
+      "UsersEstimate": 14769
     },
     {
       "ID": "FREEZE_3",
@@ -25507,7 +25512,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12436
+      "UsersEstimate": 12437
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -25571,7 +25576,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 25650
+      "UsersEstimate": 25651
     },
     {
       "ID": "MYSTERY_02",
@@ -25666,13 +25671,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77728,
+      "Progressed": 77729,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48008,
+      "Progressed": 48009,
       "Completed": 2675
     }
   ],
@@ -25680,8 +25685,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-06T08:58:33.7324209+00:00",
-  "LastChanged_Achievements": "2023-12-06T15:03:54.0606604+00:00",
+  "LastChanged_Achievements": "2023-12-06T16:04:23.1655775+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.5024346+00:00",
-  "LastUpdate_Ratings": "2023-12-06T14:58:39.6509156+00:00",
-  "LastUpdate_Achievements": "2023-12-06T15:03:54.0607771+00:00"
+  "LastUpdate_Ratings": "2023-12-06T15:59:25.2469766+00:00",
+  "LastUpdate_Achievements": "2023-12-06T16:04:23.1656996+00:00"
 }

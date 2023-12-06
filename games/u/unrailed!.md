@@ -6,17 +6,17 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 18.00% | ~120,213 |
-| Incurious | 17.00% | ~113,535 |
-| Climate Change | 16.00% | ~106,856 |
-| Stroller | 15.00% | ~100,178 |
-| Toy Train | 14.00% | ~93,499 |
-| Advanced Hiker | 13.00% | ~86,821 |
-| Hiker | 12.00% | ~80,142 |
-| Mojave Courier | 6.00% | ~40,071 |
+| Advanced Stroller | 18.00% | ~120,215 |
+| Incurious | 17.00% | ~113,537 |
+| Climate Change | 16.00% | ~106,858 |
+| Stroller | 15.00% | ~100,179 |
+| Toy Train | 14.00% | ~93,501 |
+| Advanced Hiker | 13.00% | ~86,822 |
+| Hiker | 12.00% | ~80,144 |
+| Mojave Courier | 6.00% | ~40,072 |
 | Saved by Nausicaä | 5.00% | ~33,393 |
-| Advanced Voyager | 4.00% | ~26,714 |
-| Expert Stroller | 4.00% | ~26,714 |
+| Advanced Voyager | 4.00% | ~26,715 |
+| Expert Stroller | 4.00% | ~26,715 |
 | Voyager | 3.00% | ~20,036 |
 | Orient Express | 3.00% | ~20,036 |
 | Marathon | 3.00% | ~20,036 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~668 |
 | 20 Miles under the Sea | 0.10% | ~668 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 667,851 (Ranked 28)  
+Progressed: 667,863 (Ranked 28)  
 Completed: 12 (0.00%) (Ranked 370)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,11 +289,11 @@ Completed: 12 (0.00%) (Ranked 370)
 | 2023-12-03 | 667,363 | 12 |
 | 2023-12-04 | 667,573 | 12 |
 | 2023-12-05 | 667,765 | 12 |
-| 2023-12-06 | 667,851 | 12 |
+| 2023-12-06 | 667,863 | 12 |
 ## Awards
 Max (Great for Beginners): 202  (Ranked 290)  
-Sum: 1,604 (Ranked 232)  
-Diff (max vs sum): 58  
+Sum: 1,606 (Ranked 231)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 202 |
@@ -302,7 +302,7 @@ Diff (max vs sum): 58
 | This game is Extremely Fun | 187 |
 | This game is Relaxing | 180 |
 | This game has Amazing Characters | 171 |
-| This game has Playful Visuals | 162 |
+| This game has Playful Visuals | 164 |
 | This game is Highly Recommended | 161 |
 | This game has Amazing Storytelling | 149 |
 | This game has Obsessive Gameplay | 138 |
@@ -457,3 +457,4 @@ Diff (max vs sum): 58
 | 2023-11-24 | 4.64 | - | 202 | 1,602 |
 | 2023-12-02 | 4.64 | - | 202 | 1,603 |
 | 2023-12-03 | 4.64 | - | 202 | 1,604 |
+| 2023-12-06 | 4.64 | - | 202 | 1,606 |

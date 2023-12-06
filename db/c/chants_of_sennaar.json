@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 886,
+  "EOS_Progressed": 887,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 5.76,
+  "EOS_Completed_Percentage": 5.75,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -3575,6 +3575,11 @@
       "Time": "2023-12-06T15:04:27.374362+00:00",
       "NumProgressed": 886,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-12-06T16:05:07.6716709+00:00",
+      "NumProgressed": 887,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 25,
@@ -3594,7 +3599,7 @@
       "Name": "In this together",
       "Percentage": 19,
       "XP": 200,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "META_ALL_LINK",
@@ -3658,7 +3663,7 @@
       "Name": "A great audience",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "META_RESULT_2-4",
@@ -3666,7 +3671,7 @@
       "Name": "For its own good",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "META_RESULT_3-4",
@@ -3722,7 +3727,7 @@
       "Name": "Champollion",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -3762,7 +3767,7 @@
       "Name": "A new dawn",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "PROGRESS_N4",
@@ -3785,14 +3790,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 886,
+      "Progressed": 887,
       "Completed": 51
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-12-06T15:04:27.3743614+00:00",
+  "LastChanged_Achievements": "2023-12-06T16:05:07.6716707+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:43.5720459+00:00",
-  "LastUpdate_Ratings": "2023-12-06T14:58:07.6521231+00:00",
-  "LastUpdate_Achievements": "2023-12-06T15:04:27.3743932+00:00"
+  "LastUpdate_Ratings": "2023-12-06T15:58:40.059079+00:00",
+  "LastUpdate_Achievements": "2023-12-06T16:05:07.6717102+00:00"
 }

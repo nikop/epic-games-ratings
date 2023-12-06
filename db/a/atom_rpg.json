@@ -3195,9 +3195,9 @@
       "ID": "DOUBLE_AGENT",
       "SetID": "bf13m8j",
       "Name": "Double agent",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 201
+      "UsersEstimate": 214
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -3443,8 +3443,8 @@
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-06T15:09:21.4224503+00:00",
+  "LastChanged_Achievements": "2023-12-06T16:09:38.0040329+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:27.5202671+00:00",
-  "LastUpdate_Ratings": "2023-12-06T14:57:39.4323944+00:00",
-  "LastUpdate_Achievements": "2023-12-06T15:09:21.4224795+00:00"
+  "LastUpdate_Ratings": "2023-12-06T15:58:00.9960718+00:00",
+  "LastUpdate_Achievements": "2023-12-06T16:09:38.0040678+00:00"
 }

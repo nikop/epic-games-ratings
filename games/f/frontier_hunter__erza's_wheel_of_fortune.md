@@ -8,11 +8,11 @@
 | Training Simulation | 78.00% | ~436 |
 | Kuku Bird Hunter | 63.00% | ~352 |
 | Storm Traveller | 57.00% | ~319 |
-| Wolf King Killer | 52.00% | ~291 |
+| Wolf King Killer | 53.00% | ~296 |
 | Fashion Connoisseur | 51.00% | ~285 |
 | Arms Mechanic | 47.00% | ~263 |
 | Flower Thief | 42.00% | ~235 |
-| Beginner Artificer | 36.00% | ~201 |
+| Beginner Artificer | 37.00% | ~207 |
 | Apostle of Flame | 36.00% | ~201 |
 | Beginner Cook | 35.00% | ~196 |
 | Seal Breaker | 31.00% | ~173 |
@@ -29,13 +29,13 @@
 | Squeaky Clean | 16.00% | ~89 |
 | Master Artificer | 16.00% | ~89 |
 | Kind Adventurer | 14.00% | ~78 |
-| Mermaid Killer | 13.00% | ~73 |
+| Mermaid Killer | 14.00% | ~78 |
 | Cave Master | 13.00% | ~73 |
 | Face Slapper | 13.00% | ~73 |
 | Boss challenge | 9.00% | ~50 |
 | Berserker Slayer | 9.00% | ~50 |
 | Master Cook | 8.00% | ~45 |
-| Giantess Slayer | 7.00% | ~39 |
+| Giantess Slayer | 8.00% | ~45 |
 | Warden Slayer | 7.00% | ~39 |
 | Rebellious | 2.00% | ~11 |
 | Blade Mantis Challenge | 2.00% | ~11 |

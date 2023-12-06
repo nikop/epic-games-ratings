@@ -6,9 +6,9 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~479,159 |
-| Apprentice | 58.00% | ~385,989 |
-| Close Shave | 25.00% | ~166,375 |
+| The Fool | 72.00% | ~479,161 |
+| Apprentice | 58.00% | ~385,991 |
+| Close Shave | 25.00% | ~166,376 |
 | Mercenary | 23.00% | ~153,065 |
 | Ninja | 23.00% | ~153,065 |
 | Northern Scourge | 17.00% | ~113,135 |
@@ -39,23 +39,23 @@ Number of Ratings: 780  (23.09.2022)
 | Cursed Soul | 1.00% | ~6,655 |
 | Champion | 1.00% | ~6,655 |
 | Final Death | 1.00% | ~6,655 |
-| Thomas' Bane | 0.90% | ~5,989 |
+| Thomas' Bane | 0.90% | ~5,990 |
 | Ally | 0.80% | ~5,324 |
-| Gamester | 0.70% | ~4,658 |
+| Gamester | 0.70% | ~4,659 |
 | Hero | 0.60% | ~3,993 |
 | Rebel | 0.60% | ~3,993 |
-| Dungeon Master | 0.50% | ~3,327 |
+| Dungeon Master | 0.50% | ~3,328 |
 | Pilgrim | 0.40% | ~2,662 |
 | Smiths Honour | 0.40% | ~2,662 |
-| Peaceful Coast | 0.30% | ~1,996 |
+| Peaceful Coast | 0.30% | ~1,997 |
 | Money Bags | 0.20% | ~1,331 |
-| Grifter | 0.10% | ~665 |
-| Unburdened | 0.10% | ~665 |
-| Karma | 0.10% | ~665 |
-| Miracle | 0.10% | ~665 |
-| Blood Pact | 0.10% | ~665 |
+| Grifter | 0.10% | ~666 |
+| Unburdened | 0.10% | ~666 |
+| Karma | 0.10% | ~666 |
+| Miracle | 0.10% | ~666 |
+| Blood Pact | 0.10% | ~666 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 665,499 (Ranked 29)  
+Progressed: 665,502 (Ranked 29)  
 Completed: 172 (0.03%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,11 +285,11 @@ Completed: 172 (0.03%) (Ranked 332)
 | 2023-12-03 | 665,395 | 172 |
 | 2023-12-04 | 665,434 | 172 |
 | 2023-12-05 | 665,480 | 172 |
-| 2023-12-06 | 665,499 | 172 |
+| 2023-12-06 | 665,502 | 172 |
 ## Awards
-Max (Amazing Storytelling): 36  (Ranked 476)  
+Max (Amazing Storytelling): 36  (Ranked 477)  
 Sum: 193 (Ranked 407)  
-Diff (max vs sum): 69  
+Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 118 |

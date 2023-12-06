@@ -3,7 +3,7 @@
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 633,
-  "Ranking_Popularity": 476,
+  "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 308,
@@ -744,10 +744,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 290,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-12-06T15:59:42.1800542+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 291,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 290,
+  "NumberOfAwards": 291,
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -761,7 +767,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game is Great for Beginners",
@@ -814,7 +820,7 @@
   ],
   "EOS_Progressed": 5363,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -10818,9 +10824,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
-  "LastChanged": "2023-12-04T15:58:40.0597106+00:00",
-  "LastChanged_Achievements": "2023-12-06T15:04:44.6940539+00:00",
+  "LastChanged": "2023-12-06T15:59:42.180054+00:00",
+  "LastChanged_Achievements": "2023-12-06T16:05:30.9065527+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:08.5943079+00:00",
-  "LastUpdate_Ratings": "2023-12-06T14:58:51.2554621+00:00",
-  "LastUpdate_Achievements": "2023-12-06T15:04:44.6941093+00:00"
+  "LastUpdate_Ratings": "2023-12-06T15:59:42.1800548+00:00",
+  "LastUpdate_Achievements": "2023-12-06T16:05:30.9066006+00:00"
 }

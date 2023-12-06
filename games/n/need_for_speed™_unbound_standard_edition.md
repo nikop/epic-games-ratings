@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 92.00% | ~10,891 |
-| Cool Whip | 90.00% | ~10,654 |
-| Fashion Killa | 88.00% | ~10,417 |
-| Drop the Beat | 86.00% | ~10,181 |
-| Hey Lakeshore | 85.00% | ~10,062 |
-| 100 Miles and Runnin' | 84.00% | ~9,944 |
-| Public Enemy | 82.00% | ~9,707 |
-| Rebel Without a Pause | 68.00% | ~8,050 |
-| Hey Speedie! | 68.00% | ~8,050 |
-| Most Wanted | 64.00% | ~7,576 |
+| Throwing up Tags | 92.00% | ~10,892 |
+| Cool Whip | 90.00% | ~10,655 |
+| Fashion Killa | 88.00% | ~10,418 |
+| Drop the Beat | 86.00% | ~10,182 |
+| Hey Lakeshore | 85.00% | ~10,063 |
+| 100 Miles and Runnin' | 84.00% | ~9,945 |
+| Public Enemy | 82.00% | ~9,708 |
+| Rebel Without a Pause | 68.00% | ~8,051 |
+| Hey Speedie! | 68.00% | ~8,051 |
+| Most Wanted | 64.00% | ~7,577 |
 | New Crew | 62.00% | ~7,340 |
 | Escape Artist | 54.00% | ~6,393 |
-| Serious Guap | 53.00% | ~6,274 |
-| Style it Out | 53.00% | ~6,274 |
+| Serious Guap | 53.00% | ~6,275 |
+| Style it Out | 53.00% | ~6,275 |
 | Untouchable | 52.00% | ~6,156 |
-| Oh, It's On | 50.00% | ~5,919 |
+| Oh, It's On | 50.00% | ~5,920 |
 | Rydell's Rydes | 49.00% | ~5,801 |
-| Cash Money Millionaire | 46.00% | ~5,445 |
+| Cash Money Millionaire | 46.00% | ~5,446 |
 | Lake Better Watch Out | 39.00% | ~4,617 |
 | #Blessed | 34.00% | ~4,025 |
 | Access All Areas | 33.00% | ~3,907 |
@@ -33,8 +33,8 @@
 | Teacher's Pet | 20.00% | ~2,368 |
 | Full House | 18.00% | ~2,131 |
 | Superstar | 18.00% | ~2,131 |
-| B for My Name | 17.00% | ~2,012 |
-| Mixtape | 17.00% | ~2,012 |
+| B for My Name | 17.00% | ~2,013 |
+| Mixtape | 17.00% | ~2,013 |
 | Bring Your A Game | 15.00% | ~1,776 |
 | Flow Master | 12.00% | ~1,421 |
 | The Bear Champ | 5.00% | ~592 |
@@ -46,7 +46,7 @@
 | Catch My Drift | 2.00% | ~237 |
 | Cleaning Up | 2.00% | ~237 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,838 (Ranked 162)  
+Progressed: 11,839 (Ranked 162)  
 Completed: 52 (0.44%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,4 +128,4 @@ Completed: 52 (0.44%) (Ranked 218)
 | 2023-12-03 | 11,667 | 52 |
 | 2023-12-04 | 11,723 | 52 |
 | 2023-12-05 | 11,795 | 52 |
-| 2023-12-06 | 11,838 | 52 |
+| 2023-12-06 | 11,839 | 52 |

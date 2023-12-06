@@ -5,11 +5,11 @@ Rating: 4.76 (Ranked 130)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,640 |
-| First Class Student | 15.00% | ~45,600 |
-| Troll with the Punches | 14.00% | ~42,560 |
-| A Keen Sense of Spell | 13.00% | ~39,520 |
-| That's a Keeper | 13.00% | ~39,520 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,641 |
+| First Class Student | 15.00% | ~45,601 |
+| Troll with the Punches | 14.00% | ~42,561 |
+| A Keen Sense of Spell | 13.00% | ~39,521 |
+| That's a Keeper | 13.00% | ~39,521 |
 | The Hallowed Hero | 12.00% | ~36,480 |
 | The Defender of Dragons | 12.00% | ~36,480 |
 | Loom for Improvement | 12.00% | ~36,480 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 130)
 | The Nature of the Beast | 0.70% | ~2,128 |
 | Collector's Edition | 0.30% | ~912 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304,002 (Ranked 54)  
+Progressed: 304,004 (Ranked 54)  
 Completed: 523 (0.17%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,17 +281,17 @@ Completed: 523 (0.17%) (Ranked 270)
 | 2023-12-03 | 303,892 | 521 |
 | 2023-12-04 | 303,943 | 521 |
 | 2023-12-05 | 303,976 | 521 |
-| 2023-12-06 | 304,002 | 523 |
+| 2023-12-06 | 304,004 | 523 |
 ## Awards
 Max (Character Customization): 24,977  (Ranked 17)  
-Sum: 50,044 (Ranked 30)  
+Sum: 50,045 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 24,977 |
 | This game has Great Boss Battles | 12,793 |
 | This game is Great for Beginners | 1,382 |
-| This game has Amazing Storytelling | 1,339 |
+| This game has Amazing Storytelling | 1,340 |
 | This game has Diverse Characters | 1,334 |
 | This game is Extremely Fun | 1,303 |
 | This game is Relaxing | 1,300 |
@@ -560,4 +560,4 @@ Diff (max vs sum): -13
 | 2023-12-03 | 4.76 | 24,854 | 49,759 |
 | 2023-12-04 | 4.76 | 24,909 | 49,885 |
 | 2023-12-05 | 4.76 | 24,947 | 49,982 |
-| 2023-12-06 | 4.76 | 24,977 | 50,044 |
+| 2023-12-06 | 4.76 | 24,977 | 50,045 |

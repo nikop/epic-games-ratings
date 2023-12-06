@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 1,009)  
+Rating: 3.99 (Ranked 1,008)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,23 +10,23 @@ Number of Ratings: 12,664  (23.09.2022)
 | Titan's First Steps | 7.00% | ~10,081 |
 | Basic in Bulk | 6.00% | ~8,641 |
 | Tinkle of Coins | 6.00% | ~8,641 |
-| Disintermediation | 5.00% | ~7,200 |
-| It's Free Real Estate | 5.00% | ~7,200 |
-| Capitalism Ho! | 5.00% | ~7,200 |
-| One Easy Payment | 4.00% | ~5,760 |
-| Some Assembly Required | 4.00% | ~5,760 |
-| Another Satisfied Customer | 4.00% | ~5,760 |
-| Pretty Penny | 4.00% | ~5,760 |
-| Budding Merchant | 4.00% | ~5,760 |
-| Own the Means of Production | 4.00% | ~5,760 |
-| The Daily Grind | 3.00% | ~4,320 |
-| Bounty Hunters | 3.00% | ~4,320 |
-| Demand for Supplies | 3.00% | ~4,320 |
-| Flooding the Market | 3.00% | ~4,320 |
-| Where it Hurts | 3.00% | ~4,320 |
-| One-Armed Bandit | 3.00% | ~4,320 |
-| Dungeon Imports | 3.00% | ~4,320 |
-| Through Repetition, Perfection | 3.00% | ~4,320 |
+| Disintermediation | 5.00% | ~7,201 |
+| It's Free Real Estate | 5.00% | ~7,201 |
+| Capitalism Ho! | 5.00% | ~7,201 |
+| One Easy Payment | 4.00% | ~5,761 |
+| Some Assembly Required | 4.00% | ~5,761 |
+| Another Satisfied Customer | 4.00% | ~5,761 |
+| Pretty Penny | 4.00% | ~5,761 |
+| Budding Merchant | 4.00% | ~5,761 |
+| Own the Means of Production | 4.00% | ~5,761 |
+| The Daily Grind | 3.00% | ~4,321 |
+| Bounty Hunters | 3.00% | ~4,321 |
+| Demand for Supplies | 3.00% | ~4,321 |
+| Flooding the Market | 3.00% | ~4,321 |
+| Where it Hurts | 3.00% | ~4,321 |
+| One-Armed Bandit | 3.00% | ~4,321 |
+| Dungeon Imports | 3.00% | ~4,321 |
+| Through Repetition, Perfection | 3.00% | ~4,321 |
 | On the Path to Greatness | 2.00% | ~2,880 |
 | A Notch Above the Rest | 2.00% | ~2,880 |
 | Ascended | 2.00% | ~2,880 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.30% | ~432 |
 | Capitalist Camaraderie | 0.20% | ~288 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144,010 (Ranked 80)  
+Progressed: 144,017 (Ranked 80)  
 Completed: 291 (0.20%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,7 +349,7 @@ Completed: 291 (0.20%) (Ranked 259)
 | 2023-12-03 | 143,715 | 291 |
 | 2023-12-04 | 143,830 | 291 |
 | 2023-12-05 | 143,938 | 291 |
-| 2023-12-06 | 144,010 | 291 |
+| 2023-12-06 | 144,017 | 291 |
 ## Awards
 Max (Great for Beginners): 4,864  (Ranked 75)  
 Sum: 27,663 (Ranked 50)  

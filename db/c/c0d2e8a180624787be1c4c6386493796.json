@@ -668,9 +668,9 @@
       "ID": "KR4_ACHIEVEMENT_HAPPY_NEW_YEAR",
       "SetID": "caeik3h",
       "Name": "Happy New Year!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "KR4_ACHIEVEMENT_HEROIC",
@@ -820,9 +820,9 @@
       "ID": "KR4_ACHIEVEMENT_MELTINGFURNACE",
       "SetID": "caeik3h",
       "Name": "Presto Logs",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "KR4_ACHIEVEMENT_MERCENARIES",
@@ -940,9 +940,9 @@
       "ID": "KR4_ACHIEVEMENT_SHAOLIN_MASTER",
       "SetID": "caeik3h",
       "Name": "Follow the Master",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "KR4_ACHIEVEMENT_SKIYETI",
@@ -964,9 +964,9 @@
       "ID": "KR4_ACHIEVEMENT_SON_OF_FIRE",
       "SetID": "caeik3h",
       "Name": "Son of Fire",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPAWN_REINFORCEMENTS",
@@ -1073,8 +1073,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-06T15:06:32.3029733+00:00",
+  "LastChanged_Achievements": "2023-12-06T16:07:55.1010886+00:00",
   "LastUpdate_AppInfo": "2023-11-30T16:57:23.733607+00:00",
-  "LastUpdate_Ratings": "2023-12-06T14:57:05.1582706+00:00",
-  "LastUpdate_Achievements": "2023-12-06T15:06:32.3030434+00:00"
+  "LastUpdate_Ratings": "2023-12-06T15:57:12.9425062+00:00",
+  "LastUpdate_Achievements": "2023-12-06T16:07:55.1011454+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "heim-33ba21",
   "Ranking_EOS_Progress": 716,
   "Ranking_EOS_Completed": 370,
-  "Ranking_EOS_NewPlayers": 471,
+  "Ranking_EOS_NewPlayers": 468,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-03-17T16:00:00+00:00",
@@ -335,8 +335,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:30.0302876+00:00",
-  "LastChanged_Achievements": "2023-12-06T15:03:52.9363868+00:00",
+  "LastChanged_Achievements": "2023-12-06T16:04:21.8914264+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:19.5050965+00:00",
-  "LastUpdate_Ratings": "2023-12-06T15:03:03.8896864+00:00",
-  "LastUpdate_Achievements": "2023-12-06T15:03:52.9364095+00:00"
+  "LastUpdate_Ratings": "2023-12-06T16:03:14.3397207+00:00",
+  "LastUpdate_Achievements": "2023-12-06T16:04:21.8914425+00:00"
 }

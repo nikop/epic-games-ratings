@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -195,7 +195,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7478,
+  "EOS_Progressed": 7483,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 6,
@@ -5690,6 +5690,11 @@
       "Time": "2023-12-06T14:10:44.1879649+00:00",
       "NumProgressed": 7478,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-06T16:09:41.755014+00:00",
+      "NumProgressed": 7483,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5710,7 +5715,7 @@
       "Name": "Baby Steps",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1645
+      "UsersEstimate": 1646
     },
     {
       "ID": "BeLikeWater",
@@ -5742,7 +5747,7 @@
       "Name": "Connection Lost",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1048
     },
     {
       "ID": "Eavesdropper",
@@ -5758,7 +5763,7 @@
       "Name": "Explosive Personality",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "FasterThanLight",
@@ -5774,7 +5779,7 @@
       "Name": "First Time?",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2169
+      "UsersEstimate": 2170
     },
     {
       "ID": "FuneralForTheDeath",
@@ -5806,7 +5811,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -5846,7 +5851,7 @@
       "Name": "Nasty!",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1197
     },
     {
       "ID": "NoMoreTotems",
@@ -5854,7 +5859,7 @@
       "Name": "No More Totems",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "NotLikeTheOthers",
@@ -5894,7 +5899,7 @@
       "Name": "The Old-School Way",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1048
     },
     {
       "ID": "TheQuarterback",
@@ -5902,7 +5907,7 @@
       "Name": "The Quarterback",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1720
+      "UsersEstimate": 1721
     },
     {
       "ID": "ThisIsDharma",
@@ -5918,7 +5923,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "UnResurrected",
@@ -5926,7 +5931,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 7,
       "XP": 45,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -5934,7 +5939,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -5973,7 +5978,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7478,
+      "Progressed": 7483,
       "Completed": 14
     }
   ],
@@ -5981,8 +5986,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-05T16:59:13.5871144+00:00",
-  "LastChanged_Achievements": "2023-12-06T15:09:24.2544659+00:00",
+  "LastChanged_Achievements": "2023-12-06T16:09:41.7550138+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-06T14:59:15.1238229+00:00",
-  "LastUpdate_Achievements": "2023-12-06T15:09:24.2545054+00:00"
+  "LastUpdate_Ratings": "2023-12-06T16:00:17.3946466+00:00",
+  "LastUpdate_Achievements": "2023-12-06T16:09:41.7550601+00:00"
 }

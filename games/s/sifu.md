@@ -26,13 +26,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Fight the way you practice | 0.60% | ~163 |
 | Furious Fists | 0.50% | ~3,589 |
 | Old Child | 0.50% | ~3,589 |
+| Kung-Fu Tussle | 0.50% | ~3,589 |
 | Take damage to save time | 0.50% | ~3,589 |
 | Martial Hub | 0.50% | ~136 |
 | Scareless | 0.40% | ~2,871 |
 | Dance of the Praying Mantis | 0.40% | ~2,871 |
 | Qi Gong: Mind | 0.40% | ~2,871 |
 | I know Kung-Fu | 0.40% | ~2,871 |
-| Kung-Fu Tussle | 0.40% | ~2,871 |
 | Bloody Sport | 0.40% | ~109 |
 | Muk Yan Master | 0.30% | ~2,154 |
 | Tiger on Fire | 0.30% | ~2,154 |
@@ -68,7 +68,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 717,836 (Ranked 22)  
-Completed: 12,943 (1.80%) (Ranked 136)  
+Completed: 12,944 (1.80%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -297,7 +297,7 @@ Completed: 12,943 (1.80%) (Ranked 136)
 | 2023-12-03 | 717,761 | 12,943 |
 | 2023-12-04 | 717,797 | 12,943 |
 | 2023-12-05 | 717,827 | 12,943 |
-| 2023-12-06 | 717,836 | 12,943 |
+| 2023-12-06 | 717,836 | 12,944 |
 ## Awards
 Max (Great Boss Battles): 6,879  (Ranked 55)  
 Sum: 12,069 (Ranked 83)  

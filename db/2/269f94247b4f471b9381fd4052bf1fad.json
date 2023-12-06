@@ -2,9 +2,9 @@
   "ID": "269f94247b4f471b9381fd4052bf1fad",
   "Name": "Born of Bread",
   "ProductSlug": "born-of-bread-008e66",
-  "Ranking_EOS_Progress": 636,
+  "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 370,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -51,6 +51,11 @@
     {
       "Time": "2023-12-06T06:04:01.0300895+00:00",
       "NumProgressed": 6,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T16:04:52.0809804+00:00",
+      "NumProgressed": 7,
       "NumCompleted": 0
     }
   ],
@@ -102,7 +107,7 @@
       "ID": "ACH_BREAD-AND-BREAKFAST",
       "SetID": "6lg1p1e",
       "Name": "Bread and Breakfast",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -142,9 +147,9 @@
       "ID": "ACH_FIRST-PAYCHECK",
       "SetID": "6lg1p1e",
       "Name": "First Paycheck",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FRIENEMY",
@@ -214,9 +219,9 @@
       "ID": "ACH_MISCHIEVOUS-BREAD",
       "SetID": "6lg1p1e",
       "Name": "Mischievous Bread",
-      "Percentage": 17,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_MYSTERY-SOLVED",
@@ -246,9 +251,9 @@
       "ID": "ACH_PARTNER",
       "SetID": "6lg1p1e",
       "Name": "Partner",
-      "Percentage": 67,
+      "Percentage": 71,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_PHOTOGRAPHIC-MEMORY",
@@ -302,7 +307,7 @@
       "ID": "ACH_RATATOUIED",
       "SetID": "6lg1p1e",
       "Name": "Ratatouied",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -351,13 +356,13 @@
     {
       "ID": "6lg1p1e",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2023-12-06T15:04:15.7083213+00:00",
+  "LastChanged_Achievements": "2023-12-06T16:04:52.0809801+00:00",
   "LastUpdate_AppInfo": "2023-11-29T20:57:25.6802786+00:00",
-  "LastUpdate_Ratings": "2023-12-06T14:59:40.169801+00:00",
-  "LastUpdate_Achievements": "2023-12-06T15:04:15.7083407+00:00"
+  "LastUpdate_Ratings": "2023-12-06T16:00:51.7342931+00:00",
+  "LastUpdate_Achievements": "2023-12-06T16:04:52.0810012+00:00"
 }

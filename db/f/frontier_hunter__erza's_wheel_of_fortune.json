@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 559,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1871,9 +1871,9 @@
       "ID": "ACHIEVEMENT_19",
       "SetID": "7pimpda",
       "Name": "Mermaid Killer",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 78
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -1927,9 +1927,9 @@
       "ID": "ACHIEVEMENT_25",
       "SetID": "7pimpda",
       "Name": "Beginner Artificer",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 201
+      "UsersEstimate": 207
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -2071,9 +2071,9 @@
       "ID": "ACHIEVEMENT_42",
       "SetID": "7pimpda",
       "Name": "Giantess Slayer",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -2111,9 +2111,9 @@
       "ID": "ACHIEVEMENT_5",
       "SetID": "7pimpda",
       "Name": "Wolf King Killer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 291
+      "UsersEstimate": 296
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2160,8 +2160,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-06T15:08:25.4880961+00:00",
+  "LastChanged_Achievements": "2023-12-06T16:08:24.9427531+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.7212859+00:00",
-  "LastUpdate_Ratings": "2023-12-06T14:57:08.4661177+00:00",
-  "LastUpdate_Achievements": "2023-12-06T15:08:25.4881287+00:00"
+  "LastUpdate_Ratings": "2023-12-06T15:57:17.1082291+00:00",
+  "LastUpdate_Achievements": "2023-12-06T16:08:24.942785+00:00"
 }

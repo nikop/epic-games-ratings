@@ -5,14 +5,14 @@ Rating: 4.39 (Ranked 752)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 12.00% | ~39,451 |
-| IT MAKES BOOM! | 7.00% | ~23,013 |
-| EXTRA BOOST | 5.00% | ~16,438 |
-| PROTECTED | 4.00% | ~13,150 |
-| PRO | 4.00% | ~13,150 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,863 |
-| AGGRESSIVE RACER | 3.00% | ~9,863 |
-| A TIGER'S FEAR | 2.00% | ~6,575 |
+| ROOKIE | 12.00% | ~39,455 |
+| IT MAKES BOOM! | 7.00% | ~23,016 |
+| EXTRA BOOST | 5.00% | ~16,440 |
+| PROTECTED | 4.00% | ~13,152 |
+| PRO | 4.00% | ~13,152 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,864 |
+| AGGRESSIVE RACER | 3.00% | ~9,864 |
+| A TIGER'S FEAR | 2.00% | ~6,576 |
 | IT'S A LONG WAY TO THE TOP | 1.00% | ~3,288 |
 | TRAINING HARD | 1.00% | ~3,288 |
 | BE OUR GUEST | 1.00% | ~3,288 |
@@ -22,7 +22,7 @@ Rating: 4.39 (Ranked 752)
 | RELEASE THE KRAKEN | 0.90% | ~2,959 |
 | LEGENDARY HERO | 0.90% | ~2,959 |
 | DEFEAT OUR CHAMPION | 0.80% | ~2,630 |
-| THE EYE OF THE HUNTER | 0.70% | ~2,301 |
+| THE EYE OF THE HUNTER | 0.70% | ~2,302 |
 | EXPERIENCED CREW | 0.60% | ~1,973 |
 | ACE BRAWLER | 0.50% | ~1,644 |
 | ACE DEFENDER | 0.50% | ~1,644 |
@@ -30,7 +30,7 @@ Rating: 4.39 (Ranked 752)
 | ACE TRICKSTER | 0.40% | ~1,315 |
 | PERFECTLY POISED | 0.30% | ~986 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 328,755 (Ranked 51)  
+Progressed: 328,794 (Ranked 51)  
 Completed: 490 (0.15%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,10 +256,10 @@ Completed: 490 (0.15%) (Ranked 274)
 | 2023-12-03 | 325,453 | 446 |
 | 2023-12-04 | 326,987 | 461 |
 | 2023-12-05 | 328,188 | 482 |
-| 2023-12-06 | 328,755 | 490 |
+| 2023-12-06 | 328,794 | 490 |
 ## Awards
 Max (Great for Beginners): 111  (Ranked 350)  
-Sum: 773 (Ranked 284)  
+Sum: 774 (Ranked 284)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
@@ -269,7 +269,7 @@ Diff (max vs sum): 66
 | This game has Amazing Characters | 62 |
 | This game has a Competitive Community | 62 |
 | This game has Playful Visuals | 60 |
-| This game is Highly Recommended | 54 |
+| This game is Highly Recommended | 55 |
 | This game has Competitive Players | 52 |
 | This game is Extremely Fun | 50 |
 | This game is Relaxing | 47 |
@@ -344,4 +344,4 @@ Diff (max vs sum): 66
 | 2023-12-03 | 4.40 | 101 | 735 |
 | 2023-12-04 | 4.39 | 109 | 754 |
 | 2023-12-05 | 4.39 | 111 | 767 |
-| 2023-12-06 | 4.39 | 111 | 773 |
+| 2023-12-06 | 4.39 | 111 | 774 |

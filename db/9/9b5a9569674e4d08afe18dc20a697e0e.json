@@ -608,9 +608,9 @@
       "ID": "GAMBLER",
       "SetID": "40o4f14",
       "Name": "The Gambler",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "GENERAL",
@@ -799,8 +799,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-12-06T15:04:08.9899588+00:00",
+  "LastChanged_Achievements": "2023-12-06T16:04:43.2827288+00:00",
   "LastUpdate_AppInfo": "2023-11-30T01:44:08.4871505+00:00",
-  "LastUpdate_Ratings": "2023-12-06T14:57:58.386673+00:00",
-  "LastUpdate_Achievements": "2023-12-06T15:04:08.9899809+00:00"
+  "LastUpdate_Ratings": "2023-12-06T15:58:27.9465806+00:00",
+  "LastUpdate_Achievements": "2023-12-06T16:04:43.2827447+00:00"
 }

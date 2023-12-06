@@ -6,7 +6,7 @@ Rating: 4.52 (Ranked 557)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Legal Counsel | 47.00% | ~5,272 |
-| Greasy Palms | 42.00% | ~4,711 |
+| Greasy Palms | 43.00% | ~4,823 |
 | South American Connection | 26.00% | ~2,916 |
 | Life of the Party | 21.00% | ~2,355 |
 | Tommy Two-Wheels | 16.00% | ~1,795 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 34,
+  "Ranking_EOS_NewPlayers": 33,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -7219,10 +7219,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 12223,
       "NumberOfAwardsMax": 7968
+    },
+    {
+      "Time": "2023-12-06T15:58:18.5979564+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 12229,
+      "NumberOfAwardsMax": 7968
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12223,
+  "NumberOfAwards": 12229,
   "NumberOfAwardsMax": 7968,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7236,7 +7242,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 581
+      "Count": 587
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7281,9 +7287,9 @@
       "Count": 514
     }
   ],
-  "EOS_Progressed": 730888,
+  "EOS_Progressed": 730911,
   "EOS_Completed": 2465,
-  "EOS_NewPlayers": 3251,
+  "EOS_NewPlayers": 3254,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -33661,6 +33667,11 @@
       "Time": "2023-12-06T15:08:37.3620875+00:00",
       "NumProgressed": 730888,
       "NumCompleted": 2465
+    },
+    {
+      "Time": "2023-12-06T16:08:40.6267299+00:00",
+      "NumProgressed": 730911,
+      "NumCompleted": 2465
     }
   ],
   "TotalAchievements": 51,
@@ -33704,7 +33715,7 @@
       "Name": "Make it So",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3654
+      "UsersEstimate": 3655
     },
     {
       "ID": "ach_big_name_in_town",
@@ -34040,7 +34051,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1693
+      "UsersEstimate": 1694
     },
     {
       "ID": "ach_gardening_tools",
@@ -34056,7 +34067,7 @@
       "Name": "Pork Chopped",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1693
+      "UsersEstimate": 1694
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -34079,22 +34090,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 730888,
+      "Progressed": 730911,
       "Completed": 2465
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 56430,
+      "Progressed": 56453,
       "Completed": 36636
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-12-06T13:04:07.3737034+00:00",
-  "LastChanged_Achievements": "2023-12-06T15:08:37.3620871+00:00",
+  "LastChanged": "2023-12-06T15:58:18.5979562+00:00",
+  "LastChanged_Achievements": "2023-12-06T16:08:40.6267297+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:31.1640976+00:00",
-  "LastUpdate_Ratings": "2023-12-06T14:57:51.6039607+00:00",
-  "LastUpdate_Achievements": "2023-12-06T15:08:37.362215+00:00"
+  "LastUpdate_Ratings": "2023-12-06T15:58:18.5979567+00:00",
+  "LastUpdate_Achievements": "2023-12-06T16:08:40.6268673+00:00"
 }
