@@ -44,8 +44,8 @@ Number of Ratings: 75  (23.09.2022)
 | Keen Eye | 1.00% | ~57 |
 | Level: Topple The Top | 0.90% | ~51 |
 | Bet On Bots: Safety First | 0.80% | ~45 |
+| Merry-Go-Around: Self-Made | 0.80% | ~45 |
 | Tycoon | 0.80% | ~45 |
-| Merry-Go-Around: Self-Made | 0.70% | ~40 |
 | Bet On Bots: Inspector's Favorite | 0.60% | ~34 |
 | Trendsetter | 0.60% | ~34 |
 | Level: Heating-Up | 0.50% | ~28 |

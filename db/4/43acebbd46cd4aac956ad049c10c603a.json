@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -207,7 +207,7 @@
   ],
   "EOS_Progressed": 885,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2209,9 +2209,9 @@
       "ID": "ChasingTheLight",
       "SetID": "1n308hc",
       "Name": "Chasing the Light",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 71
     },
     {
       "ID": "Chicken",
@@ -2433,9 +2433,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 133
     },
     {
       "ID": "RenaissanceRobot",
@@ -2545,9 +2545,9 @@
       "ID": "TheThiefOfFire",
       "SetID": "1n308hc",
       "Name": "The Thief of Fire",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 106
     },
     {
       "ID": "TheWordEndures",
@@ -2626,8 +2626,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-05T18:59:22.7453339+00:00",
-  "LastChanged_Achievements": "2023-12-06T16:06:56.7443641+00:00",
+  "LastChanged_Achievements": "2023-12-06T17:05:51.0386566+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-06T15:59:53.8037185+00:00",
-  "LastUpdate_Achievements": "2023-12-06T16:06:56.7444177+00:00"
+  "LastUpdate_Ratings": "2023-12-06T16:59:10.7250354+00:00",
+  "LastUpdate_Achievements": "2023-12-06T17:05:51.0387301+00:00"
 }

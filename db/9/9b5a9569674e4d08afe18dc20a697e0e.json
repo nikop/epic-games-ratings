@@ -4,7 +4,7 @@
   "ProductSlug": "arons-adventure-1e76cd",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 370,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
@@ -672,9 +672,9 @@
       "ID": "LOVERS",
       "SetID": "40o4f14",
       "Name": "Lover\u0027s dream",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "MERCENARY",
@@ -799,8 +799,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-12-06T16:04:43.2827288+00:00",
+  "LastChanged_Achievements": "2023-12-06T17:04:11.9007598+00:00",
   "LastUpdate_AppInfo": "2023-11-30T01:44:08.4871505+00:00",
-  "LastUpdate_Ratings": "2023-12-06T15:58:27.9465806+00:00",
-  "LastUpdate_Achievements": "2023-12-06T16:04:43.2827447+00:00"
+  "LastUpdate_Ratings": "2023-12-06T16:58:08.8241019+00:00",
+  "LastUpdate_Achievements": "2023-12-06T17:04:11.9007801+00:00"
 }

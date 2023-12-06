@@ -2,12 +2,12 @@
   "ID": "calluna",
   "Name": "Control",
   "ProductSlug": "control",
-  "Ranking_Rating": 387,
+  "Ranking_Rating": 388,
   "Ranking_Popularity": 42,
   "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 785,
   "Ranking_EOS_Completed": 370,
-  "Ranking_EOS_NewPlayers": 468,
+  "Ranking_EOS_NewPlayers": 467,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2019-08-27T15:00:00+00:00",
@@ -5756,10 +5756,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 13328,
       "NumberOfAwardsMax": 8829
+    },
+    {
+      "Time": "2023-12-06T16:58:10.8312804+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 13329,
+      "NumberOfAwardsMax": 8829
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13328,
+  "NumberOfAwards": 13329,
   "NumberOfAwardsMax": 8829,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5821,7 +5827,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 527
+      "Count": 528
     }
   ],
   "EOS_Progressed": 0,
@@ -5835,8 +5841,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:45.0678604+00:00",
-  "LastChanged": "2023-12-05T21:57:38.7314653+00:00",
+  "LastChanged": "2023-12-06T16:58:10.8312803+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:35.6243866+00:00",
-  "LastUpdate_Ratings": "2023-12-06T15:58:30.7783496+00:00",
-  "LastUpdate_Achievements": "2023-12-06T16:07:27.3512022+00:00"
+  "LastUpdate_Ratings": "2023-12-06T16:58:10.8312808+00:00",
+  "LastUpdate_Achievements": "2023-12-06T17:06:12.2326387+00:00"
 }

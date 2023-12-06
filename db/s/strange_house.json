@@ -2,9 +2,9 @@
   "ID": "e65306b6830641a68e3b76e5b1bc2dfd",
   "Name": "Strange House",
   "ProductSlug": "strange-house-5fd1b5",
-  "Ranking_EOS_Progress": 530,
+  "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 370,
-  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewPlayers": 381,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-03T11:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 35,
+  "EOS_Progressed": 36,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -202,6 +202,11 @@
       "Time": "2023-12-03T16:08:06.864551+00:00",
       "NumProgressed": 35,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T17:08:27.803992+00:00",
+      "NumProgressed": 36,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-08T22:03:43.7557522+00:00",
@@ -220,7 +225,7 @@
       "ID": "EndPrologue",
       "SetID": "a2ci5mh",
       "Name": "Chapter 1",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 150,
       "UsersEstimate": 3
     },
@@ -228,9 +233,9 @@
       "ID": "FoundPig",
       "SetID": "a2ci5mh",
       "Name": "Piglet",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 200,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "LostCat",
@@ -252,7 +257,7 @@
       "ID": "VisorGlass1",
       "SetID": "a2ci5mh",
       "Name": "Nice Glass",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 150,
       "UsersEstimate": 7
     }
@@ -261,13 +266,13 @@
     {
       "ID": "a2ci5mh",
       "IsBase": true,
-      "Progressed": 35,
+      "Progressed": 36,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:48.3132312+00:00",
-  "LastChanged_Achievements": "2023-12-06T16:08:28.0418369+00:00",
+  "LastChanged_Achievements": "2023-12-06T17:08:27.8039907+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:13.5347599+00:00",
-  "LastUpdate_Ratings": "2023-12-06T16:03:01.7692076+00:00",
-  "LastUpdate_Achievements": "2023-12-06T16:08:28.0418429+00:00"
+  "LastUpdate_Ratings": "2023-12-06T17:02:57.0022491+00:00",
+  "LastUpdate_Achievements": "2023-12-06T17:08:27.8040006+00:00"
 }

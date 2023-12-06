@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 370,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 3667,
+  "Ranking_EOS_NewCompleters": 3668,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -1650,9 +1650,9 @@
       "ID": "AchvPutAsleep",
       "SetID": "1hj060c",
       "Name": "Strong objection",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 31
     },
     {
       "ID": "AchvReachBase",
@@ -1729,8 +1729,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-06T16:08:55.2701444+00:00",
+  "LastChanged_Achievements": "2023-12-06T17:08:48.3358259+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.6526822+00:00",
-  "LastUpdate_Ratings": "2023-12-06T15:59:21.5258869+00:00",
-  "LastUpdate_Achievements": "2023-12-06T16:08:55.2701695+00:00"
+  "LastUpdate_Ratings": "2023-12-06T16:58:47.479908+00:00",
+  "LastUpdate_Achievements": "2023-12-06T17:08:48.3358505+00:00"
 }

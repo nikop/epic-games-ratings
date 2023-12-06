@@ -4874,9 +4874,9 @@
       "ID": "ach_campaign_special7",
       "SetID": "8cb3id7",
       "Name": "Merry-Go-Around: Self-Made",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 45
     },
     {
       "ID": "ach_campaign_special8",
@@ -5218,8 +5218,8 @@
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-12-06T16:06:37.8929576+00:00",
+  "LastChanged_Achievements": "2023-12-06T17:05:37.0584493+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:47.7538127+00:00",
-  "LastUpdate_Ratings": "2023-12-06T15:57:09.5266604+00:00",
-  "LastUpdate_Achievements": "2023-12-06T16:06:37.8930401+00:00"
+  "LastUpdate_Ratings": "2023-12-06T16:57:11.855106+00:00",
+  "LastUpdate_Achievements": "2023-12-06T17:05:37.0585211+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "c2890856ddb844f1a7d552fc929838a7",
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
-  "Ranking_Rating": 16,
+  "Ranking_Rating": 23,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 264,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.88,
+  "Rating": 4.87,
   "RatingHistory": [
     {
       "Time": "2023-08-31T05:00:39.0192379+00:00",
@@ -161,6 +161,12 @@
     {
       "Time": "2023-12-02T16:58:47.1446523+00:00",
       "Rating": 4.88,
+      "NumberOfAwards": 21,
+      "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2023-12-06T17:00:23.3171753+00:00",
+      "Rating": 4.87,
       "NumberOfAwards": 21,
       "NumberOfAwardsMax": 21
     }
@@ -3025,9 +3031,9 @@
       "ID": "AC26",
       "SetID": "l4abp0",
       "Name": "A Leap of Faith",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 424
+      "UsersEstimate": 435
     },
     {
       "ID": "AC27",
@@ -3193,9 +3199,9 @@
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged": "2023-12-02T16:58:47.1446521+00:00",
-  "LastChanged_Achievements": "2023-12-06T16:06:19.3376339+00:00",
+  "LastChanged": "2023-12-06T17:00:23.3171752+00:00",
+  "LastChanged_Achievements": "2023-12-06T17:05:23.7399117+00:00",
   "LastUpdate_AppInfo": "2023-12-06T02:20:25.0557456+00:00",
-  "LastUpdate_Ratings": "2023-12-06T16:01:33.3862775+00:00",
-  "LastUpdate_Achievements": "2023-12-06T16:06:19.3376789+00:00"
+  "LastUpdate_Ratings": "2023-12-06T17:00:23.3171756+00:00",
+  "LastUpdate_Achievements": "2023-12-06T17:05:23.7399769+00:00"
 }

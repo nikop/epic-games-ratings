@@ -16,9 +16,9 @@
 | Tributes of Caladrias | 10.00% | ~25 |
 | Geared Up | 10.00% | ~25 |
 | Scholar | 10.00% | ~25 |
+| Stone Collection | 10.00% | ~25 |
 | Big Bazar | 9.00% | ~22 |
 | Fashion Victim | 9.00% | ~22 |
-| Stone Collection | 9.00% | ~22 |
 | Essence Blow | 7.00% | ~17 |
 | Calm before the Storm | 6.00% | ~15 |
 | Alchemist | 6.00% | ~15 |

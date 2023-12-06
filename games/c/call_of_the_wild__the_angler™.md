@@ -24,8 +24,8 @@ Number of Ratings: 281  (23.09.2022)
 | Marathon | 0.50% | ~34 |
 | Diamond in the Rough | 0.50% | ~34 |
 | More than a Tourist | 0.40% | ~27 |
+| Hook, Line and Sinker | 0.40% | ~27 |
 | No Fin left to give | 0.40% | ~27 |
-| Hook, Line and Sinker | 0.30% | ~20 |
 | Gonna Need a Bigger Boat | 0.30% | ~20 |
 | Aguas Claras Conquistador | 0.20% | ~12 |
 | All Good Kings Must Come to an End | 0.20% | ~12 |

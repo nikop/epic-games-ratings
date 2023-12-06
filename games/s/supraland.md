@@ -1,34 +1,34 @@
 # Supraland
 [Store](https://store.epicgames.com/en-US/p/supraland)  
 [View Rawdata](../../db/s/supraland.json)  
-Rating: 4.61 (Ranked 387)  
+Rating: 4.61 (Ranked 388)  
 Number of Ratings: 25,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~727,847 |
-| The Blues | 85.00% | ~624,919 |
-| Fast | 66.00% | ~485,231 |
-| Healthbar | 55.00% | ~404,359 |
-| Force Cube | 53.00% | ~389,655 |
-| Double Jump | 48.00% | ~352,896 |
-| Regeneration | 47.00% | ~345,544 |
-| Triple Jump | 43.00% | ~316,136 |
-| Climb the hill | 42.00% | ~308,784 |
-| Through the fire pipe | 39.00% | ~286,728 |
-| MacGuffin | 38.00% | ~279,376 |
-| Just once | 37.00% | ~272,024 |
-| Armor | 30.00% | ~220,560 |
-| True holy spirit | 28.00% | ~205,856 |
-| That's how electronics work obviously | 27.00% | ~198,504 |
-| Force Cube Catapult | 25.00% | ~183,800 |
-| Holy Sword | 23.00% | ~169,096 |
-| Telefrag | 23.00% | ~169,096 |
-| Freed from prison | 21.00% | ~154,392 |
-| Stomp | 21.00% | ~154,392 |
-| Double Health | 19.00% | ~139,688 |
-| Buckle | 18.00% | ~132,336 |
-| Green Keycard | 18.00% | ~132,336 |
+| Out of bed | 99.00% | ~727,851 |
+| The Blues | 85.00% | ~624,923 |
+| Fast | 66.00% | ~485,234 |
+| Healthbar | 55.00% | ~404,362 |
+| Force Cube | 53.00% | ~389,658 |
+| Double Jump | 48.00% | ~352,897 |
+| Regeneration | 47.00% | ~345,545 |
+| Triple Jump | 43.00% | ~316,137 |
+| Climb the hill | 42.00% | ~308,785 |
+| Through the fire pipe | 39.00% | ~286,729 |
+| MacGuffin | 38.00% | ~279,377 |
+| Just once | 37.00% | ~272,025 |
+| Armor | 30.00% | ~220,561 |
+| True holy spirit | 28.00% | ~205,857 |
+| That's how electronics work obviously | 27.00% | ~198,505 |
+| Force Cube Catapult | 25.00% | ~183,801 |
+| Holy Sword | 23.00% | ~169,097 |
+| Telefrag | 23.00% | ~169,097 |
+| Freed from prison | 21.00% | ~154,393 |
+| Stomp | 21.00% | ~154,393 |
+| Double Health | 19.00% | ~139,689 |
+| Buckle | 18.00% | ~132,337 |
+| Green Keycard | 18.00% | ~132,337 |
 | Rattle Hag | 16.00% | ~117,632 |
 | All Shells | 15.00% | ~110,280 |
 | Beam | 14.00% | ~102,928 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~735 |
 | DLC: Top of the world | 0.10% | ~735 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 735,199 (Ranked 20)  
+Progressed: 735,203 (Ranked 20)  
 Completed: 767 (0.10%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,14 +335,14 @@ Completed: 767 (0.10%) (Ranked 290)
 | 2023-12-03 | 734,958 | 766 |
 | 2023-12-04 | 735,058 | 766 |
 | 2023-12-05 | 735,152 | 766 |
-| 2023-12-06 | 735,199 | 767 |
+| 2023-12-06 | 735,203 | 767 |
 ## Awards
-Max (Challenging Puzzles): 7,741  (Ranked 50)  
-Sum: 10,102 (Ranked 92)  
+Max (Challenging Puzzles): 7,742  (Ranked 50)  
+Sum: 10,103 (Ranked 92)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 7,741 |
+| This game features Challenging Puzzles | 7,742 |
 | This game is Educational | 284 |
 | This game has Amazing Storytelling | 281 |
 | This game has Amazing Characters | 280 |
@@ -556,3 +556,4 @@ Diff (max vs sum): -42
 | 2023-12-03 | 4.61 | - | 7,737 | 10,096 |
 | 2023-12-04 | 4.61 | - | 7,741 | 10,100 |
 | 2023-12-05 | 4.61 | - | 7,741 | 10,102 |
+| 2023-12-06 | 4.61 | - | 7,742 | 10,103 |

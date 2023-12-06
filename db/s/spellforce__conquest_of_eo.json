@@ -396,9 +396,9 @@
       "ID": "Enslave_Unit_Post_Battle",
       "SetID": "7b9f97e",
       "Name": "Slave to the rhythm",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "First_LevelUp",
@@ -524,9 +524,9 @@
       "ID": "Landmark_TuscariPortal",
       "SetID": "7b9f97e",
       "Name": "Tuscari Sea Portal",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Landmark_UramGorForge",
@@ -813,8 +813,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-06T16:08:25.4568809+00:00",
+  "LastChanged_Achievements": "2023-12-06T17:08:25.8760057+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:11.7959747+00:00",
-  "LastUpdate_Ratings": "2023-12-06T16:00:44.5589784+00:00",
-  "LastUpdate_Achievements": "2023-12-06T16:08:25.4569273+00:00"
+  "LastUpdate_Ratings": "2023-12-06T16:59:46.4310696+00:00",
+  "LastUpdate_Achievements": "2023-12-06T17:08:25.8760649+00:00"
 }

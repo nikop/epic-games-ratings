@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 300,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 370,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -945,9 +945,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 7386,
+  "EOS_Progressed": 7387,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8975,6 +8975,11 @@
       "Time": "2023-12-06T09:08:45.168204+00:00",
       "NumProgressed": 7386,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T17:09:03.2460428+00:00",
+      "NumProgressed": 7387,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9026,7 +9031,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4505
+      "UsersEstimate": 4506
     },
     {
       "ID": "Control_All_Relics",
@@ -9090,7 +9095,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5687
+      "UsersEstimate": 5688
     },
     {
       "ID": "First_Race_Met",
@@ -9098,7 +9103,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5318
+      "UsersEstimate": 5319
     },
     {
       "ID": "First_Ship_Designed",
@@ -9122,7 +9127,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5687
+      "UsersEstimate": 5688
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -9202,7 +9207,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2437
+      "UsersEstimate": 2438
     },
     {
       "ID": "Play_1000_Hours",
@@ -9474,7 +9479,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4801
+      "UsersEstimate": 4802
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -9561,15 +9566,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7386,
+      "Progressed": 7387,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-12-05T01:55:09.6981089+00:00",
-  "LastChanged_Achievements": "2023-12-06T16:09:14.7563053+00:00",
+  "LastChanged_Achievements": "2023-12-06T17:09:03.2460424+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:22.8362699+00:00",
-  "LastUpdate_Ratings": "2023-12-06T15:57:43.3457092+00:00",
-  "LastUpdate_Achievements": "2023-12-06T16:09:14.7563794+00:00"
+  "LastUpdate_Ratings": "2023-12-06T16:57:37.2814261+00:00",
+  "LastUpdate_Achievements": "2023-12-06T17:09:03.2461238+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 8,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -469,9 +469,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1554583,
+  "EOS_Progressed": 1554586,
   "EOS_Completed": 737,
-  "EOS_NewPlayers": 1361,
+  "EOS_NewPlayers": 1356,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -26744,6 +26744,11 @@
       "Time": "2023-12-06T16:06:47.9368972+00:00",
       "NumProgressed": 1554583,
       "NumCompleted": 737
+    },
+    {
+      "Time": "2023-12-06T17:05:44.3001691+00:00",
+      "NumProgressed": 1554586,
+      "NumCompleted": 737
     }
   ],
   "TotalAchievements": 20,
@@ -26755,7 +26760,7 @@
       "Name": "Bacon Donuts",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 9327
+      "UsersEstimate": 9328
     },
     {
       "ID": "ACH_BUZZ_CONTROL_TOWER",
@@ -26787,7 +26792,7 @@
       "Name": "Drift Line Apprentice",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 46637
+      "UsersEstimate": 46638
     },
     {
       "ID": "ACH_DRIFT_LINE_MASTER",
@@ -26803,7 +26808,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 139912
+      "UsersEstimate": 139913
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -26835,7 +26840,7 @@
       "Name": "Mad Skills",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 46637
+      "UsersEstimate": 46638
     },
     {
       "ID": "ACH_MASTER_DRIFTER",
@@ -26851,7 +26856,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 155458
+      "UsersEstimate": 155459
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -26867,7 +26872,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 139912
+      "UsersEstimate": 139913
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -26914,15 +26919,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1554583,
+      "Progressed": 1554586,
       "Completed": 737
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-11-20T10:57:26.3491363+00:00",
-  "LastChanged_Achievements": "2023-12-06T16:06:47.9368969+00:00",
+  "LastChanged_Achievements": "2023-12-06T17:05:44.3001686+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:56.6993207+00:00",
-  "LastUpdate_Ratings": "2023-12-06T15:59:22.5509003+00:00",
-  "LastUpdate_Achievements": "2023-12-06T16:06:47.9370201+00:00"
+  "LastUpdate_Ratings": "2023-12-06T16:58:49.3210791+00:00",
+  "LastUpdate_Achievements": "2023-12-06T17:05:44.3002831+00:00"
 }

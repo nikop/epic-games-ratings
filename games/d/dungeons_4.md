@@ -37,9 +37,9 @@
 | The Duel | 31.00% | ~164 |
 | If Looks Could Kill | 28.00% | ~148 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~143 |
+| Forbidden Knowledge | 27.00% | ~143 |
+| Ghost Pirates? Ghost Heroes! | 27.00% | ~143 |
 | Hungry, Hungry Gorgu! | 26.00% | ~138 |
-| Forbidden Knowledge | 26.00% | ~138 |
-| Ghost Pirates? Ghost Heroes! | 26.00% | ~138 |
 | The Finitude Drill | 25.00% | ~132 |
 | Doom Hill | 23.00% | ~122 |
 | Stop Tanos! | 22.00% | ~117 |

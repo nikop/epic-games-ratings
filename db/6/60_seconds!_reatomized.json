@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -7962,9 +7962,9 @@
       "ID": "ACH_SURVIVE_10_DAYS",
       "SetID": "5nj1ea3",
       "Name": "I will survive!",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 5270
+      "UsersEstimate": 5327
     },
     {
       "ID": "ACH_SURVIVE_111_DAYS",
@@ -7994,9 +7994,9 @@
       "ID": "ACH_SURVIVE_5_DAYS",
       "SetID": "5nj1ea3",
       "Name": "Prepper",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5327
+      "UsersEstimate": 5384
     },
     {
       "ID": "ACH_TOILET_BUSTER",
@@ -8035,8 +8035,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-12-03T20:57:09.9927807+00:00",
-  "LastChanged_Achievements": "2023-12-06T16:03:35.7512745+00:00",
+  "LastChanged_Achievements": "2023-12-06T17:03:21.4389195+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:47.2204383+00:00",
-  "LastUpdate_Ratings": "2023-12-06T15:59:07.7070278+00:00",
-  "LastUpdate_Achievements": "2023-12-06T16:03:35.7513396+00:00"
+  "LastUpdate_Ratings": "2023-12-06T16:58:37.2687143+00:00",
+  "LastUpdate_Achievements": "2023-12-06T17:03:21.4390459+00:00"
 }

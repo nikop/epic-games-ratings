@@ -4620,9 +4620,9 @@
       "ID": "achievement_125",
       "SetID": "d252ncf",
       "Name": "Soldier",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 758
+      "UsersEstimate": 773
     },
     {
       "ID": "achievement_126",
@@ -4820,9 +4820,9 @@
       "ID": "achievement_33",
       "SetID": "b9pe172",
       "Name": "Search and Rescue",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1031
     },
     {
       "ID": "achievement_34",
@@ -5416,8 +5416,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-06T16:09:17.4537944+00:00",
+  "LastChanged_Achievements": "2023-12-06T17:09:05.5408583+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:17.762066+00:00",
-  "LastUpdate_Ratings": "2023-12-06T16:03:11.1579171+00:00",
-  "LastUpdate_Achievements": "2023-12-06T16:09:17.4540354+00:00"
+  "LastUpdate_Ratings": "2023-12-06T17:03:03.7896581+00:00",
+  "LastUpdate_Achievements": "2023-12-06T17:09:05.5410289+00:00"
 }

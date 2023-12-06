@@ -1,29 +1,29 @@
 # Prison Architect
 [Store](https://store.epicgames.com/en-US/p/prison-architect)  
 [View Rawdata](../../db/p/prison_architect.json)  
-Rating: 4.61 (Ranked 387)  
+Rating: 4.61 (Ranked 388)  
 Number of Ratings: 4,491  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~50,228 |
-| Get Busy Living | 16.00% | ~32,146 |
-| Samuel Norton | 9.00% | ~18,082 |
+| Stone Walls | 25.00% | ~50,232 |
+| Get Busy Living | 16.00% | ~32,149 |
+| Samuel Norton | 9.00% | ~18,084 |
 | Spare The Rod | 5.00% | ~10,046 |
-| Don't Put Me In The Dark | 3.00% | ~6,027 |
-| Wait and Hope | 3.00% | ~6,027 |
-| I May Have Found A Way Out Of Here | 3.00% | ~6,027 |
-| Throw The Book At Them | 2.00% | ~4,018 |
-| Iron Bars | 2.00% | ~4,018 |
+| Don't Put Me In The Dark | 3.00% | ~6,028 |
+| Wait and Hope | 3.00% | ~6,028 |
+| I May Have Found A Way Out Of Here | 3.00% | ~6,028 |
+| Throw The Book At Them | 2.00% | ~4,019 |
+| Iron Bars | 2.00% | ~4,019 |
 | D.B. Cooper | 1.00% | ~2,009 |
-| Reformation | 0.60% | ~1,205 |
+| Reformation | 0.60% | ~1,206 |
 | Crowd Control | 0.50% | ~1,005 |
 | Freedom | 0.40% | ~804 |
 | Confined | 0.30% | ~603 |
 | It's Not What You Know... | 0.10% | ~201 |
 | ... It's What You Can Prove | 0.10% | ~201 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200,912 (Ranked 75)  
+Progressed: 200,929 (Ranked 75)  
 Completed: 11 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,15 +253,15 @@ Completed: 11 (0.01%) (Ranked 348)
 | 2023-12-03 | 200,237 | 11 |
 | 2023-12-04 | 200,503 | 11 |
 | 2023-12-05 | 200,745 | 11 |
-| 2023-12-06 | 200,912 | 11 |
+| 2023-12-06 | 200,929 | 11 |
 ## Awards
 Max (Great for Beginners): 591  (Ranked 200)  
-Sum: 4,549 (Ranked 147)  
+Sum: 4,551 (Ranked 147)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 591 |
-| This game is Extremely Fun | 577 |
+| This game is Extremely Fun | 579 |
 | This game is Highly Recommended | 538 |
 | This game has Quickly Understood Controls | 534 |
 | This game is Relaxing | 528 |
@@ -591,4 +591,4 @@ Diff (max vs sum): 53
 | 2023-12-03 | 4.61 | - | 587 | 4,530 |
 | 2023-12-04 | 4.61 | - | 588 | 4,537 |
 | 2023-12-05 | 4.61 | - | 588 | 4,543 |
-| 2023-12-06 | 4.61 | - | 591 | 4,549 |
+| 2023-12-06 | 4.61 | - | 591 | 4,551 |

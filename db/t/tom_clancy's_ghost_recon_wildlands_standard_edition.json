@@ -2,12 +2,12 @@
   "ID": "hyacinth",
   "Name": "Tom Clancy\u0027s Ghost Recon Wildlands Standard Edition",
   "ProductSlug": "ghost-recon-wildlands",
-  "Ranking_Rating": 387,
+  "Ranking_Rating": 388,
   "Ranking_Popularity": 252,
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 785,
   "Ranking_EOS_Completed": 370,
-  "Ranking_EOS_NewPlayers": 468,
+  "Ranking_EOS_NewPlayers": 467,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2018-04-10T15:00:00+00:00",
@@ -4824,6 +4824,6 @@
   "FirstSeen": "2022-07-22T20:20:43.6796979+00:00",
   "LastChanged": "2023-12-06T13:05:22.2511284+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:53.2445919+00:00",
-  "LastUpdate_Ratings": "2023-12-06T15:59:33.8795589+00:00",
-  "LastUpdate_Achievements": "2023-12-06T16:04:41.5001889+00:00"
+  "LastUpdate_Ratings": "2023-12-06T16:58:57.1706126+00:00",
+  "LastUpdate_Achievements": "2023-12-06T17:04:10.4686364+00:00"
 }

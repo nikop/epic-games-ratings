@@ -1075,7 +1075,7 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 15035,
+  "EOS_Progressed": 15043,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 897,
   "EOS_NewCompleters": 0,
@@ -12620,6 +12620,11 @@
       "Time": "2023-12-06T16:09:09.3655678+00:00",
       "NumProgressed": 15035,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-06T17:08:59.0410017+00:00",
+      "NumProgressed": 15043,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -12680,7 +12685,7 @@
       "Name": "Bye Bye",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 6315
+      "UsersEstimate": 6318
     },
     {
       "ID": "a_19",
@@ -12704,7 +12709,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "a_21",
@@ -12712,7 +12717,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "a_22",
@@ -12720,7 +12725,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "a_23",
@@ -12728,7 +12733,7 @@
       "Name": "Quack",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "a_25",
@@ -12879,7 +12884,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 15035,
+      "Progressed": 15043,
       "Completed": 12
     }
   ],
@@ -12887,8 +12892,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-27T12:03:17.4706024+00:00",
-  "LastChanged_Achievements": "2023-12-06T16:09:09.3655675+00:00",
+  "LastChanged_Achievements": "2023-12-06T17:08:59.0410012+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:18.6853909+00:00",
-  "LastUpdate_Ratings": "2023-12-06T16:03:04.7689726+00:00",
-  "LastUpdate_Achievements": "2023-12-06T16:09:09.3656398+00:00"
+  "LastUpdate_Ratings": "2023-12-06T17:02:59.1426777+00:00",
+  "LastUpdate_Achievements": "2023-12-06T17:08:59.0410617+00:00"
 }

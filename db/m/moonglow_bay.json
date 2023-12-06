@@ -4,7 +4,7 @@
   "ProductSlug": "moonglow-bay",
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 370,
-  "Ranking_EOS_NewPlayers": 468,
+  "Ranking_EOS_NewPlayers": 467,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-11-11T17:00:00+00:00",
@@ -124,9 +124,9 @@
       "ID": "ACH_03_ANCIENT",
       "SetID": "cieb1c3",
       "Name": "An Ancient Feud",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_04_CHANGE",
@@ -413,8 +413,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.9355782+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:22.8517258+00:00",
   "LastChanged": "2023-03-31T05:57:52.9355783+00:00",
-  "LastChanged_Achievements": "2023-12-06T16:09:25.8201187+00:00",
+  "LastChanged_Achievements": "2023-12-06T17:09:11.9185698+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:00.4396938+00:00",
-  "LastUpdate_Ratings": "2023-12-06T15:58:34.5429986+00:00",
-  "LastUpdate_Achievements": "2023-12-06T16:09:25.8201419+00:00"
+  "LastUpdate_Ratings": "2023-12-06T16:58:13.5233877+00:00",
+  "LastUpdate_Achievements": "2023-12-06T17:09:11.9185909+00:00"
 }

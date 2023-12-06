@@ -38,7 +38,7 @@
 | Winning streak | 0.00% | ~0 |
 | Finisher | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 845 (Ranked 275)  
+Progressed: 845 (Ranked 277)  
 Completed: 0 (0.00%) (Ranked 370)  
 ## EOS Players History
 | Date | Progressed | Completed |

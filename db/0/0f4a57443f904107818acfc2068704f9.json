@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 845,
+  "EOS_Progressed": 846,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1817,6 +1817,11 @@
       "Time": "2023-12-06T03:07:54.4656322+00:00",
       "NumProgressed": 845,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-06T17:08:12.089727+00:00",
+      "NumProgressed": 846,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -1837,7 +1842,7 @@
       "Name": "Territorial",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -1973,7 +1978,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "CompleteChapter3",
@@ -1981,7 +1986,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "CompleteChapter4",
@@ -2005,7 +2010,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "CompleteChapter7",
@@ -2124,14 +2129,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 845,
+      "Progressed": 846,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-06T16:08:06.9202439+00:00",
+  "LastChanged_Achievements": "2023-12-06T17:08:12.0897266+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:09.4303292+00:00",
-  "LastUpdate_Ratings": "2023-12-06T15:57:14.9592372+00:00",
-  "LastUpdate_Achievements": "2023-12-06T16:08:06.9202704+00:00"
+  "LastUpdate_Ratings": "2023-12-06T16:57:15.9749229+00:00",
+  "LastUpdate_Achievements": "2023-12-06T17:08:12.0897531+00:00"
 }

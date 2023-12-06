@@ -5,33 +5,33 @@ Rating: 4.39 (Ranked 752)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 12.00% | ~39,455 |
-| IT MAKES BOOM! | 7.00% | ~23,016 |
-| EXTRA BOOST | 5.00% | ~16,440 |
-| PROTECTED | 4.00% | ~13,152 |
-| PRO | 4.00% | ~13,152 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,864 |
-| AGGRESSIVE RACER | 3.00% | ~9,864 |
-| A TIGER'S FEAR | 2.00% | ~6,576 |
+| ROOKIE | 12.00% | ~39,461 |
+| IT MAKES BOOM! | 7.00% | ~23,019 |
+| EXTRA BOOST | 5.00% | ~16,442 |
+| PROTECTED | 4.00% | ~13,154 |
+| PRO | 4.00% | ~13,154 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,865 |
+| AGGRESSIVE RACER | 3.00% | ~9,865 |
+| A TIGER'S FEAR | 2.00% | ~6,577 |
 | IT'S A LONG WAY TO THE TOP | 1.00% | ~3,288 |
 | TRAINING HARD | 1.00% | ~3,288 |
 | BE OUR GUEST | 1.00% | ~3,288 |
 | ACE SPEEDSTER | 1.00% | ~3,288 |
 | FRIENDLY | 1.00% | ~3,288 |
 | MASTER | 1.00% | ~3,288 |
-| RELEASE THE KRAKEN | 0.90% | ~2,959 |
-| LEGENDARY HERO | 0.90% | ~2,959 |
-| DEFEAT OUR CHAMPION | 0.80% | ~2,630 |
+| RELEASE THE KRAKEN | 0.90% | ~2,960 |
+| LEGENDARY HERO | 0.90% | ~2,960 |
+| DEFEAT OUR CHAMPION | 0.80% | ~2,631 |
 | THE EYE OF THE HUNTER | 0.70% | ~2,302 |
 | EXPERIENCED CREW | 0.60% | ~1,973 |
 | ACE BRAWLER | 0.50% | ~1,644 |
 | ACE DEFENDER | 0.50% | ~1,644 |
 | FRAMED! | 0.40% | ~1,315 |
 | ACE TRICKSTER | 0.40% | ~1,315 |
-| PERFECTLY POISED | 0.30% | ~986 |
+| PERFECTLY POISED | 0.30% | ~987 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 328,794 (Ranked 51)  
-Completed: 490 (0.15%) (Ranked 274)  
+Progressed: 328,838 (Ranked 51)  
+Completed: 491 (0.15%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -256,7 +256,7 @@ Completed: 490 (0.15%) (Ranked 274)
 | 2023-12-03 | 325,453 | 446 |
 | 2023-12-04 | 326,987 | 461 |
 | 2023-12-05 | 328,188 | 482 |
-| 2023-12-06 | 328,794 | 490 |
+| 2023-12-06 | 328,838 | 491 |
 ## Awards
 Max (Great for Beginners): 111  (Ranked 350)  
 Sum: 774 (Ranked 284)  

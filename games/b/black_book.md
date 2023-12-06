@@ -1,31 +1,31 @@
 # Black Book
 [Store](https://store.epicgames.com/en-US/p/black-book)  
 [View Rawdata](../../db/b/black_book.json)  
-Rating: 4.65 (Ranked 317)  
+Rating: 4.65 (Ranked 316)  
 Number of Ratings: 96  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 28.00% | ~16,323 |
-| Student | 22.00% | ~12,826 |
-| Knower | 16.00% | ~9,328 |
-| Listener | 15.00% | ~8,745 |
-| Aspen Tree | 14.00% | ~8,162 |
-| Healer | 14.00% | ~8,162 |
-| Soldier | 12.00% | ~6,996 |
-| Cow Level | 11.00% | ~6,413 |
-| Scientist | 11.00% | ~6,413 |
-| Herbalist | 10.00% | ~5,830 |
-| Water | 10.00% | ~5,830 |
-| Old Friend | 9.00% | ~5,247 |
-| New Spirits | 9.00% | ~5,247 |
-| Voipel | 9.00% | ~5,247 |
-| Wolf | 9.00% | ~5,247 |
-| Black Mage | 9.00% | ~5,247 |
-| Card Player | 8.00% | ~4,664 |
-| Dead Friend | 8.00% | ~4,664 |
-| Pine Tree | 8.00% | ~4,664 |
-| Collector | 8.00% | ~4,664 |
+| Initiation | 28.00% | ~16,326 |
+| Student | 22.00% | ~12,828 |
+| Knower | 16.00% | ~9,329 |
+| Listener | 15.00% | ~8,746 |
+| Aspen Tree | 14.00% | ~8,163 |
+| Healer | 14.00% | ~8,163 |
+| Soldier | 12.00% | ~6,997 |
+| Cow Level | 11.00% | ~6,414 |
+| Scientist | 11.00% | ~6,414 |
+| Herbalist | 10.00% | ~5,831 |
+| Water | 10.00% | ~5,831 |
+| Old Friend | 9.00% | ~5,248 |
+| New Spirits | 9.00% | ~5,248 |
+| Voipel | 9.00% | ~5,248 |
+| Black Mage | 9.00% | ~5,248 |
+| Card Player | 8.00% | ~4,665 |
+| Dead Friend | 8.00% | ~4,665 |
+| Pine Tree | 8.00% | ~4,665 |
+| Collector | 8.00% | ~4,665 |
+| Wolf | 8.00% | ~4,665 |
 | Worthy | 7.00% | ~4,081 |
 | Black Book | 7.00% | ~4,081 |
 | Black Sorcerer | 7.00% | ~4,081 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,166 |
 | Word Master | 0.20% | ~117 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,298 (Ranked 108)  
+Progressed: 58,307 (Ranked 108)  
 Completed: 57 (0.10%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 57 (0.10%) (Ranked 290)
 | 2023-12-03 | 57,828 | 57 |
 | 2023-12-04 | 58,011 | 57 |
 | 2023-12-05 | 58,172 | 57 |
-| 2023-12-06 | 58,298 | 57 |
+| 2023-12-06 | 58,307 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

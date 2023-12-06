@@ -3,7 +3,7 @@
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 240,
-  "Ranking_EOS_Completed": 314,
+  "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
@@ -31,7 +31,7 @@
   "Tags": [],
   "EOS_Progressed": 1592,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5096,9 +5096,9 @@
       "ID": "achievement_5",
       "SetID": "271ol84",
       "Name": "Shoot first",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 223
+      "UsersEstimate": 239
     },
     {
       "ID": "achievement_50",
@@ -5263,8 +5263,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-06T16:09:57.9773951+00:00",
+  "LastChanged_Achievements": "2023-12-06T17:09:36.6540521+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:10.1536923+00:00",
-  "LastUpdate_Ratings": "2023-12-06T15:57:36.8071439+00:00",
-  "LastUpdate_Achievements": "2023-12-06T16:09:57.9774653+00:00"
+  "LastUpdate_Ratings": "2023-12-06T16:57:32.1244971+00:00",
+  "LastUpdate_Achievements": "2023-12-06T17:09:36.6541094+00:00"
 }

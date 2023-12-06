@@ -6,48 +6,48 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~21,486 |
-| Zealous | 1.00% | ~10,743 |
-| Not half bad | 1.00% | ~10,743 |
-| Apt Survivor | 1.00% | ~10,743 |
-| Survival Treasures | 1.00% | ~10,743 |
-| Skillful | 1.00% | ~10,743 |
-| Make Some Noise | 1.00% | ~10,743 |
-| Handyman | 0.90% | ~9,669 |
-| I | 0.90% | ~9,669 |
-| No one left behind | 0.80% | ~8,594 |
-| Sorted | 0.80% | ~8,594 |
-| Resurgence | 0.80% | ~8,594 |
-| Preemptive Strike | 0.80% | ~8,594 |
-| The Grand Sacrifice | 0.70% | ~7,520 |
-| Medic | 0.70% | ~7,520 |
-| Bloody Millionaire | 0.70% | ~7,520 |
-| Healthy Obsession | 0.70% | ~7,520 |
-| Humanitarian | 0.70% | ~7,520 |
-| Agonizing Escape | 0.60% | ~6,446 |
-| Backdoor Escape | 0.60% | ~6,446 |
-| I've got your back | 0.60% | ~6,446 |
-| Perfect Escape | 0.60% | ~6,446 |
-| Perfect Killing | 0.60% | ~6,446 |
-| Risk it all | 0.60% | ~6,446 |
-| II | 0.60% | ~6,446 |
-| Engineer | 0.60% | ~6,446 |
-| Close Shave | 0.60% | ~6,446 |
+| It wakes | 2.00% | ~21,489 |
+| Zealous | 1.00% | ~10,745 |
+| Not half bad | 1.00% | ~10,745 |
+| Apt Survivor | 1.00% | ~10,745 |
+| Survival Treasures | 1.00% | ~10,745 |
+| Skillful | 1.00% | ~10,745 |
+| Make Some Noise | 1.00% | ~10,745 |
+| Handyman | 0.90% | ~9,670 |
+| I | 0.90% | ~9,670 |
+| No one left behind | 0.80% | ~8,596 |
+| Medic | 0.80% | ~8,596 |
+| Sorted | 0.80% | ~8,596 |
+| Healthy Obsession | 0.80% | ~8,596 |
+| Resurgence | 0.80% | ~8,596 |
+| Preemptive Strike | 0.80% | ~8,596 |
+| The Grand Sacrifice | 0.70% | ~7,521 |
+| Bloody Millionaire | 0.70% | ~7,521 |
+| Humanitarian | 0.70% | ~7,521 |
+| Agonizing Escape | 0.60% | ~6,447 |
+| Backdoor Escape | 0.60% | ~6,447 |
+| I've got your back | 0.60% | ~6,447 |
+| Perfect Escape | 0.60% | ~6,447 |
+| Perfect Killing | 0.60% | ~6,447 |
+| Risk it all | 0.60% | ~6,447 |
+| II | 0.60% | ~6,447 |
+| Engineer | 0.60% | ~6,447 |
+| Wounded Healer | 0.60% | ~6,447 |
+| Close Shave | 0.60% | ~6,447 |
 | Apt Killer | 0.50% | ~5,372 |
 | III | 0.50% | ~5,372 |
-| Wounded Healer | 0.50% | ~5,372 |
-| Blood on your hands | 0.40% | ~4,297 |
-| Escape Artist | 0.40% | ~4,297 |
-| Vulture | 0.40% | ~4,297 |
-| III-50 | 0.40% | ~4,297 |
-| First to the Punch | 0.40% | ~4,297 |
-| Operation: Survival | 0.40% | ~4,297 |
-| Every Last Drop | 0.40% | ~4,297 |
-| Raccoon City Recruit | 0.40% | ~4,297 |
-| With Scars to Show | 0.40% | ~4,297 |
-| Flight to Freedom | 0.40% | ~4,297 |
-| Lifting The Fog | 0.40% | ~4,297 |
-| Second Act | 0.40% | ~4,297 |
+| Blood on your hands | 0.40% | ~4,298 |
+| Escape Artist | 0.40% | ~4,298 |
+| Vulture | 0.40% | ~4,298 |
+| III-50 | 0.40% | ~4,298 |
+| First to the Punch | 0.40% | ~4,298 |
+| Operation: Survival | 0.40% | ~4,298 |
+| Every Last Drop | 0.40% | ~4,298 |
+| Raccoon City Recruit | 0.40% | ~4,298 |
+| With Scars to Show | 0.40% | ~4,298 |
+| Flight to Freedom | 0.40% | ~4,298 |
+| Lifting The Fog | 0.40% | ~4,298 |
+| Second Act | 0.40% | ~4,298 |
 | Blood on your face | 0.30% | ~3,223 |
 | Made it out alive! | 0.30% | ~3,223 |
 | Nerves of steel | 0.30% | ~3,223 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Joke’s On You | 0.10% | ~1,074 |
 | Adept Good Guy | 0.10% | ~1,074 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,074,306 (Ranked 14)  
+Progressed: 1,074,454 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -469,7 +469,7 @@ Completed: 61 (0.01%) (Ranked 348)
 | 2023-12-03 | 1,067,390 | 61 |
 | 2023-12-04 | 1,070,133 | 61 |
 | 2023-12-05 | 1,072,750 | 61 |
-| 2023-12-06 | 1,074,306 | 61 |
+| 2023-12-06 | 1,074,454 | 61 |
 ## Awards
 Max (Diverse Characters): 37,377  (Ranked 15)  
 Sum: 283,594 (Ranked 12)  

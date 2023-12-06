@@ -6,20 +6,21 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Mash Machine | 15.00% | ~3 |
 | Ducks in a Row, Fish in a Barrel | 15.00% | ~3 |
 | Rock of the Bay | 15.00% | ~3 |
-| Mash Machine | 10.00% | ~2 |
+| Furon Fashion | 5.00% | ~1 |
+| Cult Following | 5.00% | ~1 |
 | I Look Up As I Walk to Takoshima | 5.00% | ~1 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 5.00% | ~1 |
+| Shop Til They Drop | 5.00% | ~1 |
 | Ultimate Smoothie | 0.00% | ~0 |
 | Perfect Probulator | 0.00% | ~0 |
 | PK Slam Dunk | 0.00% | ~0 |
-| Furon Fashion | 0.00% | ~0 |
 | Arty Facts | 0.00% | ~0 |
 | Gotta Catch All the Pop Art | 0.00% | ~0 |
 | This Is Earth Radio | 0.00% | ~0 |
 | Against All Odds | 0.00% | ~0 |
-| Cult Following | 0.00% | ~0 |
 | Transmitting From Sol-3 | 0.00% | ~0 |
 | Forbidden Donut | 0.00% | ~0 |
 | Hidden Human Hive Harvest | 0.00% | ~0 |
@@ -48,7 +49,6 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.00% | ~0 |
 | Trans-Siberian Express | 0.00% | ~0 |
 | Arkvoodle Doodle | 0.00% | ~0 |
-| Shop Til They Drop | 0.00% | ~0 |
 | Pimp My Raid | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 20 (Ranked 568)  

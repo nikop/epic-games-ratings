@@ -27,7 +27,7 @@
 | Innate curiosity | 8.00% | ~42 |
 | The Invincible | 6.00% | ~31 |
 | I leave no man behind | 6.00% | ~31 |
-| Strong objection | 5.00% | ~26 |
+| Strong objection | 6.00% | ~31 |
 | Ubiquitous holes | 4.00% | ~21 |
 | Got lost again | 4.00% | ~21 |
 | I leave no man behind (no exceptions) | 2.00% | ~10 |

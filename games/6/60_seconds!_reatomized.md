@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~5,327 |
+| Prepper | 94.00% | ~5,384 |
+| I will survive! | 93.00% | ~5,327 |
 | All thumbs | 92.00% | ~5,270 |
-| I will survive! | 92.00% | ~5,270 |
 | Home, sweet home | 91.00% | ~5,212 |
 | Survivalist | 90.00% | ~5,155 |
 | One way ticket | 85.00% | ~4,869 |

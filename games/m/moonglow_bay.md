@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | The Monster of Moonglow | 3.00% | ~12 |
 | Eternal Tempest | 2.00% | ~8 |
+| An Ancient Feud | 2.00% | ~8 |
 | The Art of Conversation | 2.00% | ~8 |
 | Flying Tackle | 2.00% | ~8 |
-| An Ancient Feud | 1.00% | ~4 |
 | Folklore | 1.00% | ~4 |
 | Selfish Shellfish | 1.00% | ~4 |
 | Ocean Wings | 0.80% | ~3 |

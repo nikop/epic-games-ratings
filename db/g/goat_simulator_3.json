@@ -3,12 +3,12 @@
   "Name": "Goat Simulator 3",
   "ProductSlug": "goat-simulator-3",
   "Ranking_Rating": 51,
-  "Ranking_Popularity": 215,
+  "Ranking_Popularity": 214,
   "Ranking_PopularitySum": 156,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -5519,11 +5519,17 @@
       "Rating": 4.84,
       "NumberOfAwards": 3985,
       "NumberOfAwardsMax": 481
+    },
+    {
+      "Time": "2023-12-06T16:58:46.620878+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3988,
+      "NumberOfAwardsMax": 484
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3985,
-  "NumberOfAwardsMax": 481,
+  "NumberOfAwards": 3988,
+  "NumberOfAwardsMax": 484,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -5554,7 +5560,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 481
+      "Count": 484
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5593,9 +5599,9 @@
       "Count": 347
     }
   ],
-  "EOS_Progressed": 253198,
+  "EOS_Progressed": 253201,
   "EOS_Completed": 895,
-  "EOS_NewPlayers": 724,
+  "EOS_NewPlayers": 709,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -30643,6 +30649,11 @@
       "Time": "2023-12-06T16:09:52.382273+00:00",
       "NumProgressed": 253198,
       "NumCompleted": 895
+    },
+    {
+      "Time": "2023-12-06T17:09:32.1198943+00:00",
+      "NumProgressed": 253201,
+      "NumCompleted": 895
     }
   ],
   "TotalAchievements": 39,
@@ -30686,7 +30697,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 68363
+      "UsersEstimate": 68364
     },
     {
       "ID": "AchievementBigFootID",
@@ -30702,7 +30713,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 75959
+      "UsersEstimate": 75960
     },
     {
       "ID": "AchievementBoulderID",
@@ -30710,7 +30721,7 @@
       "Name": "Raider of the Lost Parking Garage",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 65831
+      "UsersEstimate": 65832
     },
     {
       "ID": "AchievementCastleRenovationID",
@@ -30718,7 +30729,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 230410
+      "UsersEstimate": 230413
     },
     {
       "ID": "AchievementClownID",
@@ -30742,7 +30753,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 70895
+      "UsersEstimate": 70896
     },
     {
       "ID": "AchievementEggID",
@@ -30766,7 +30777,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 83555
+      "UsersEstimate": 83556
     },
     {
       "ID": "AchievementGoatID",
@@ -30782,7 +30793,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 134195
+      "UsersEstimate": 134197
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -30814,7 +30825,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 113939
+      "UsersEstimate": 113940
     },
     {
       "ID": "AchievementIntroID",
@@ -30822,7 +30833,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 144323
+      "UsersEstimate": 144325
     },
     {
       "ID": "AchievementLootBoxID",
@@ -30854,7 +30865,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 96215
+      "UsersEstimate": 96216
     },
     {
       "ID": "AchievementRampID",
@@ -30886,7 +30897,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 187367
+      "UsersEstimate": 187369
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -30902,7 +30913,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 129131
+      "UsersEstimate": 129133
     },
     {
       "ID": "AchievementStreakingID",
@@ -30926,7 +30937,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 139259
+      "UsersEstimate": 139261
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -30934,7 +30945,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 119003
+      "UsersEstimate": 119004
     },
     {
       "ID": "AchievementTrinketID",
@@ -30950,7 +30961,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 164579
+      "UsersEstimate": 164581
     },
     {
       "ID": "AchievementWhaleID",
@@ -30958,23 +30969,23 @@
       "Name": "Real Buoy",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 68363
+      "UsersEstimate": 68364
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 253198,
+      "Progressed": 253201,
       "Completed": 895
     }
   ],
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2023-12-06T02:58:50.4751844+00:00",
-  "LastChanged_Achievements": "2023-12-06T16:09:52.3822728+00:00",
+  "LastChanged": "2023-12-06T16:58:46.6208778+00:00",
+  "LastChanged_Achievements": "2023-12-06T17:09:32.119894+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:53.8008808+00:00",
-  "LastUpdate_Ratings": "2023-12-06T15:59:20.40781+00:00",
-  "LastUpdate_Achievements": "2023-12-06T16:09:52.3824463+00:00"
+  "LastUpdate_Ratings": "2023-12-06T16:58:46.6208783+00:00",
+  "LastUpdate_Achievements": "2023-12-06T17:09:32.1200366+00:00"
 }

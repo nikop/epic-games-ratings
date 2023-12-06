@@ -8,7 +8,7 @@
 | Spectre Inductee | 80.00% | ~1,213 |
 | Medal of Exploration I | 72.00% | ~1,092 |
 | Recruit | 68.00% | ~1,031 |
-| Search and Rescue | 67.00% | ~1,016 |
+| Search and Rescue | 68.00% | ~1,031 |
 | Quarian Ally | 64.00% | ~970 |
 | Medal of Heroism | 60.00% | ~910 |
 | Honorarium of Corporate Service | 60.00% | ~910 |
@@ -17,8 +17,8 @@
 | Medal of Honor | 53.00% | ~803 |
 | Turian Ally | 53.00% | ~803 |
 | Meritorious Service Medal | 52.00% | ~788 |
+| Soldier | 51.00% | ~773 |
 | Charismatic | 51.00% | ~773 |
-| Soldier | 50.00% | ~758 |
 | Soldier Ally | 47.00% | ~713 |
 | Asari Ally | 47.00% | ~713 |
 | Medal of Exploration III | 46.00% | ~697 |

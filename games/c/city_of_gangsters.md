@@ -1,28 +1,28 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.29 (Ranked 849)  
+Rating: 4.29 (Ranked 848)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~163,519 |
-| Copacetic Coordination | 16.00% | ~56,876 |
-| Fronting the Money | 15.00% | ~53,321 |
+| Corner Clout | 46.00% | ~163,522 |
+| Copacetic Coordination | 16.00% | ~56,877 |
+| Fronting the Money | 15.00% | ~53,322 |
 | The Dawn of Automation | 14.00% | ~49,767 |
 | Extraordinary Logistics | 14.00% | ~49,767 |
-| Dirty Money | 13.00% | ~46,212 |
-| Family First | 13.00% | ~46,212 |
-| Cleaning House | 12.00% | ~42,657 |
-| Room in the Back | 12.00% | ~42,657 |
-| Beating the Heat | 11.00% | ~39,102 |
-| Booze Baron | 11.00% | ~39,102 |
+| Dirty Money | 13.00% | ~46,213 |
+| Family First | 13.00% | ~46,213 |
+| Cleaning House | 12.00% | ~42,658 |
+| Room in the Back | 12.00% | ~42,658 |
+| Beating the Heat | 11.00% | ~39,103 |
+| Booze Baron | 11.00% | ~39,103 |
 | Friends on the Force | 10.00% | ~35,548 |
 | Neighborhood Watch | 10.00% | ~35,548 |
-| Core Corps | 8.00% | ~28,438 |
-| Sizeable Stash | 8.00% | ~28,438 |
-| Street Fighter | 7.00% | ~24,883 |
-| Friendly Gestures | 7.00% | ~24,883 |
-| People Person | 7.00% | ~24,883 |
+| Core Corps | 8.00% | ~28,439 |
+| Sizeable Stash | 8.00% | ~28,439 |
+| Street Fighter | 7.00% | ~24,884 |
+| Friendly Gestures | 7.00% | ~24,884 |
+| People Person | 7.00% | ~24,884 |
 | Liquor Lord | 6.00% | ~21,329 |
 | Safety in Numbers | 6.00% | ~21,329 |
 | Moving Experiences | 6.00% | ~21,329 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 849)
 | High Pillow | 0.10% | ~355 |
 | Station Master | 0.10% | ~355 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 355,476 (Ranked 49)  
+Progressed: 355,482 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 370)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 7 (0.00%) (Ranked 370)
 | 2023-12-03 | 355,163 | 7 |
 | 2023-12-04 | 355,276 | 7 |
 | 2023-12-05 | 355,386 | 7 |
-| 2023-12-06 | 355,476 | 7 |
+| 2023-12-06 | 355,482 | 7 |
 ## Awards
 Max (Great for Beginners): 50  (Ranked 437)  
 Sum: 244 (Ranked 387)  

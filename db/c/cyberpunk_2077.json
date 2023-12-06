@@ -2,7 +2,7 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 295,
+  "Ranking_Rating": 294,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 9,
   "Ranking_EOS_Progress": 15,
@@ -16238,9 +16238,9 @@
       "Count": 14554
     }
   ],
-  "EOS_Progressed": 971189,
+  "EOS_Progressed": 971221,
   "EOS_Completed": 2847,
-  "EOS_NewPlayers": 8694,
+  "EOS_NewPlayers": 8623,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -42413,6 +42413,11 @@
       "Time": "2023-12-06T16:07:47.7109454+00:00",
       "NumProgressed": 971189,
       "NumCompleted": 2847
+    },
+    {
+      "Time": "2023-12-06T17:06:28.0728905+00:00",
+      "NumProgressed": 971221,
+      "NumCompleted": 2847
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -42449,7 +42454,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29136
+      "UsersEstimate": 29137
     },
     {
       "ID": "Denied",
@@ -42457,7 +42462,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48559
+      "UsersEstimate": 48561
     },
     {
       "ID": "FollowingTheRiver",
@@ -42473,7 +42478,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 6798
+      "UsersEstimate": 6799
     },
     {
       "ID": "Gearhead",
@@ -42497,7 +42502,7 @@
       "Name": "Gun Fu",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 67983
+      "UsersEstimate": 67985
     },
     {
       "ID": "Gunslinger",
@@ -42601,7 +42606,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29136
+      "UsersEstimate": 29137
     },
     {
       "ID": "Specialist",
@@ -42641,7 +42646,7 @@
       "Name": "The Fool",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58271
+      "UsersEstimate": 58273
     },
     {
       "ID": "TheHermit",
@@ -42649,7 +42654,7 @@
       "Name": "The Hermit",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29136
+      "UsersEstimate": 29137
     },
     {
       "ID": "TheHightPriestess",
@@ -42665,7 +42670,7 @@
       "Name": "The Lovers",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 38848
+      "UsersEstimate": 38849
     },
     {
       "ID": "TheStar",
@@ -42689,7 +42694,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29136
+      "UsersEstimate": 29137
     },
     {
       "ID": "TheWorld",
@@ -42721,7 +42726,7 @@
       "Name": "True Soldier",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 29136
+      "UsersEstimate": 29137
     },
     {
       "ID": "TrueWarrior",
@@ -42753,7 +42758,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 116543
+      "UsersEstimate": 116547
     },
     {
       "ID": "YipMan",
@@ -42825,7 +42830,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "Kingofcups",
@@ -42865,7 +42870,7 @@
       "Name": "Relic Ruler",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 2994
+      "UsersEstimate": 2995
     },
     {
       "ID": "UltimateSurvivor",
@@ -42881,7 +42886,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "HydraIsDead",
@@ -42897,7 +42902,7 @@
       "Name": "Arachnophobia",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "KingOfTheCups",
@@ -42913,7 +42918,7 @@
       "Name": "King of Pentacles",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "KingOfTheSwords",
@@ -42953,28 +42958,28 @@
       "Name": "Easy Come, Easy Go",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 971189,
+      "Progressed": 971221,
       "Completed": 2847
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 99812,
+      "Progressed": 99844,
       "Completed": 10304
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-06T16:02:55.7743308+00:00",
-  "LastChanged_Achievements": "2023-12-06T16:07:47.7109451+00:00",
+  "LastChanged_Achievements": "2023-12-06T17:06:28.07289+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:33.8863582+00:00",
-  "LastUpdate_Ratings": "2023-12-06T16:02:55.7743314+00:00",
-  "LastUpdate_Achievements": "2023-12-06T16:07:47.7110839+00:00"
+  "LastUpdate_Ratings": "2023-12-06T17:02:52.5185432+00:00",
+  "LastUpdate_Achievements": "2023-12-06T17:06:28.0730211+00:00"
 }

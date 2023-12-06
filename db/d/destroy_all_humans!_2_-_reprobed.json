@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 568,
   "Ranking_EOS_Completed": 370,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -375,9 +375,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -407,9 +407,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -447,9 +447,9 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -711,9 +711,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -736,8 +736,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-10-14T18:57:04.8470544+00:00",
-  "LastChanged_Achievements": "2023-12-06T16:05:26.5016471+00:00",
+  "LastChanged_Achievements": "2023-12-06T17:04:44.0227977+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:22.421403+00:00",
-  "LastUpdate_Ratings": "2023-12-06T15:58:00.7019553+00:00",
-  "LastUpdate_Achievements": "2023-12-06T16:05:26.5016972+00:00"
+  "LastUpdate_Ratings": "2023-12-06T16:57:49.2071517+00:00",
+  "LastUpdate_Achievements": "2023-12-06T17:04:44.0228208+00:00"
 }

@@ -1,28 +1,28 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.67 (Ranked 278)  
+Rating: 4.67 (Ranked 277)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,679 |
-| On the Top Step | 89.00% | ~5,377 |
-| Setting up for Success | 78.00% | ~4,713 |
-| Team Orders | 76.00% | ~4,592 |
+| Getting on the Step | 94.00% | ~5,680 |
+| On the Top Step | 89.00% | ~5,378 |
+| Setting up for Success | 78.00% | ~4,714 |
+| Team Orders | 76.00% | ~4,593 |
 | Engineer | 56.00% | ~3,384 |
 | Familiar Faces | 49.00% | ~2,961 |
-| Sharing the Love | 44.00% | ~2,658 |
+| Sharing the Love | 44.00% | ~2,659 |
 | Going the Extra Mile | 43.00% | ~2,598 |
 | Hitting a Season | 42.00% | ~2,538 |
 | A Dozen Pieces | 35.00% | ~2,115 |
-| Challenge Yourself | 34.00% | ~2,054 |
-| Making History | 32.00% | ~1,933 |
+| Challenge Yourself | 34.00% | ~2,055 |
+| Making History | 32.00% | ~1,934 |
 | Network Success | 29.00% | ~1,752 |
 | Writing a new Chapter | 26.00% | ~1,571 |
 | Spring Cleaning | 24.00% | ~1,450 |
 | Reduce | 21.00% | ~1,269 |
 | Ups and Downs | 21.00% | ~1,269 |
-| Crucial Combo | 20.00% | ~1,208 |
+| Crucial Combo | 20.00% | ~1,209 |
 | Reuse | 18.00% | ~1,088 |
 | Gathering Dust | 17.00% | ~1,027 |
 | One for the Book | 17.00% | ~1,027 |
@@ -31,10 +31,10 @@ Rating: 4.67 (Ranked 278)
 | Hitting a Bullseye | 16.00% | ~967 |
 | Lightning Round the World | 15.00% | ~906 |
 | Spinning Around | 14.00% | ~846 |
-| Eagle Eye | 13.00% | ~785 |
-| All in a Weekend's Work | 13.00% | ~785 |
-| Friendly Competition | 13.00% | ~785 |
-| Switcheroo | 13.00% | ~785 |
+| Eagle Eye | 13.00% | ~786 |
+| All in a Weekend's Work | 13.00% | ~786 |
+| Friendly Competition | 13.00% | ~786 |
+| Switcheroo | 13.00% | ~786 |
 | Recycle | 12.00% | ~725 |
 | Undisputed Winner | 10.00% | ~604 |
 | Tinkerer | 10.00% | ~604 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 278)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,042 (Ranked 186)  
+Progressed: 6,043 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 370)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 0 (0.00%) (Ranked 370)
 | 2023-12-03 | 6,025 | 0 |
 | 2023-12-04 | 6,034 | 0 |
 | 2023-12-05 | 6,039 | 0 |
-| 2023-12-06 | 6,042 | 0 |
+| 2023-12-06 | 6,043 | 0 |
 ## Awards
 Max (Diverse Characters): 32  (Ranked 494)  
 Sum: 152 (Ranked 429)  

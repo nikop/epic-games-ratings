@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -569,9 +569,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 97599,
+  "EOS_Progressed": 97601,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 908,
+  "EOS_NewPlayers": 905,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -24339,6 +24339,11 @@
       "Time": "2023-12-06T16:09:57.3076404+00:00",
       "NumProgressed": 97599,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-12-06T17:09:36.0562716+00:00",
+      "NumProgressed": 97601,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 67,
@@ -24350,7 +24355,7 @@
       "Name": "Follow the Light",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 56607
+      "UsersEstimate": 56609
     },
     {
       "ID": "02",
@@ -24516,9 +24521,9 @@
       "ID": "22",
       "SetID": "212770e",
       "Name": "The Six-Gun Scribe",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 21472
+      "UsersEstimate": 22448
     },
     {
       "ID": "23",
@@ -24700,9 +24705,9 @@
       "ID": "45",
       "SetID": "212770e",
       "Name": "Collector\u0027s Edition",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 293
+      "UsersEstimate": 195
     },
     {
       "ID": "46",
@@ -24885,21 +24890,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 97599,
+      "Progressed": 97601,
       "Completed": 110
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 61067,
+      "Progressed": 61069,
       "Completed": 93
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-11-23T00:00:36.1638519+00:00",
-  "LastChanged_Achievements": "2023-12-06T16:09:57.30764+00:00",
+  "LastChanged_Achievements": "2023-12-06T17:09:36.0562713+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:16.2842941+00:00",
-  "LastUpdate_Ratings": "2023-12-06T15:59:09.1883728+00:00",
-  "LastUpdate_Achievements": "2023-12-06T16:09:57.3078281+00:00"
+  "LastUpdate_Ratings": "2023-12-06T16:58:38.3419469+00:00",
+  "LastUpdate_Achievements": "2023-12-06T17:09:36.0564003+00:00"
 }

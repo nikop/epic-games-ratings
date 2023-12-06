@@ -6,7 +6,7 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 58.00% | ~56,607 |
+| Follow the Light | 58.00% | ~56,609 |
 | Let There Be Light | 49.00% | ~47,824 |
 | Float Like a Butterfly | 47.00% | ~45,872 |
 | Nordic Walking | 39.00% | ~38,064 |
@@ -21,7 +21,7 @@ Number of Ratings: 524  (23.09.2022)
 | They're Heeeeeere! | 24.00% | ~23,424 |
 | Missed by a Mile | 24.00% | ~23,424 |
 | Wheels Within Wheels | 23.00% | ~22,448 |
-| The Six-Gun Scribe | 22.00% | ~21,472 |
+| The Six-Gun Scribe | 23.00% | ~22,448 |
 | Heavy Metal | 21.00% | ~20,496 |
 | Iron Horse | 21.00% | ~20,496 |
 | Collateral Carnage | 21.00% | ~20,496 |
@@ -68,13 +68,13 @@ Number of Ratings: 524  (23.09.2022)
 | Run-On Sentence | 0.40% | ~244 |
 | Gunless Wonder | 0.30% | ~293 |
 | Every Nook and Cranny | 0.30% | ~293 |
-| Collector's Edition | 0.30% | ~293 |
 | Tick Tock | 0.30% | ~183 |
+| Collector's Edition | 0.20% | ~195 |
 | Hypercaffeinated | 0.20% | ~195 |
 | No Punctuation | 0.20% | ~122 |
 | Licensed Properties | 0.20% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,599 (Ranked 90)  
+Progressed: 97,601 (Ranked 90)  
 Completed: 110 (0.11%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 110 (0.11%) (Ranked 285)
 | 2023-12-03 | 97,314 | 107 |
 | 2023-12-04 | 97,426 | 108 |
 | 2023-12-05 | 97,544 | 110 |
-| 2023-12-06 | 97,599 | 110 |
+| 2023-12-06 | 97,601 | 110 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

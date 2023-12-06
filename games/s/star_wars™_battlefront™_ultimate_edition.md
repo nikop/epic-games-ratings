@@ -12,10 +12,10 @@
 | Scrap collector | 18.00% | ~287 |
 | Great shot, kid! | 18.00% | ~287 |
 | All right, I'll give it a try | 17.00% | ~271 |
+| Shoot first | 15.00% | ~239 |
 | The power of the Force | 14.00% | ~223 |
 | Collector | 14.00% | ~223 |
 | Together we can rule the galaxy | 14.00% | ~223 |
-| Shoot first | 14.00% | ~223 |
 | Tell Jabba that I've got his money | 10.00% | ~159 |
 | Best star-pilot in the galaxy | 9.00% | ~143 |
 | Survivor | 9.00% | ~143 |
@@ -69,7 +69,7 @@
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,592 (Ranked 240)  
-Completed: 1 (0.06%) (Ranked 314)  
+Completed: 1 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

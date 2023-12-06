@@ -20,8 +20,8 @@
 | The Circle | 49.00% | ~20 |
 | Alchemist's Apprentice | 49.00% | ~20 |
 | Redecorating | 41.00% | ~17 |
+| Slave to the rhythm | 29.00% | ~12 |
 | Friend of Sevenkeeps | 29.00% | ~12 |
-| Slave to the rhythm | 27.00% | ~11 |
 | Bad JuJu | 27.00% | ~11 |
 | Sevenkeeps Seat of Kings | 24.00% | ~10 |
 | Castle Meldec | 22.00% | ~9 |
@@ -54,12 +54,12 @@
 | Elynn's Tale | 7.00% | ~3 |
 | Lytra's Tale | 7.00% | ~3 |
 | Silver Drift Hollow Mine | 7.00% | ~3 |
+| Tuscari Sea Portal | 7.00% | ~3 |
 | Balanced | 7.00% | ~3 |
 | Friend of Grey Dusk Vale | 7.00% | ~3 |
 | Friend of Uram Gor | 7.00% | ~3 |
 | Defeat Raith | 5.00% | ~2 |
 | Crypt of the Revenant | 5.00% | ~2 |
-| Tuscari Sea Portal | 5.00% | ~2 |
 | Fireforge | 5.00% | ~2 |
 | Master Alchemist | 5.00% | ~2 |
 | Master Artificer | 5.00% | ~2 |

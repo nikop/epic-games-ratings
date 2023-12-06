@@ -115,9 +115,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 749,
+  "EOS_Progressed": 750,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1825,6 +1825,11 @@
       "Time": "2023-12-06T13:15:53.2344611+00:00",
       "NumProgressed": 749,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T17:09:30.5832337+00:00",
+      "NumProgressed": 750,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -1893,7 +1898,7 @@
       "Name": "Class Act",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "achievement_17",
@@ -1901,7 +1906,7 @@
       "Name": "Your first time?",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "achievement_18",
@@ -1925,7 +1930,7 @@
       "Name": "Team Principal",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "achievement_20",
@@ -2013,7 +2018,7 @@
       "Name": "Keepin it real",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_7",
@@ -2044,7 +2049,7 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 749,
+      "Progressed": 750,
       "Completed": 0
     }
   ],
@@ -2052,8 +2057,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2023-12-05T22:59:34.3672258+00:00",
-  "LastChanged_Achievements": "2023-12-06T16:09:50.4376213+00:00",
+  "LastChanged_Achievements": "2023-12-06T17:09:30.5832334+00:00",
   "LastUpdate_AppInfo": "2023-12-05T21:56:59.3509515+00:00",
-  "LastUpdate_Ratings": "2023-12-06T16:01:38.5354955+00:00",
-  "LastUpdate_Achievements": "2023-12-06T16:09:50.4376447+00:00"
+  "LastUpdate_Ratings": "2023-12-06T17:00:27.0687913+00:00",
+  "LastUpdate_Achievements": "2023-12-06T17:09:30.5832569+00:00"
 }
