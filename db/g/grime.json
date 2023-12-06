@@ -1627,9 +1627,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 161409,
+  "EOS_Progressed": 161410,
   "EOS_Completed": 210,
-  "EOS_NewPlayers": 882,
+  "EOS_NewPlayers": 883,
   "EOS_NewCompleters": 209,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -18172,6 +18172,11 @@
       "Time": "2023-12-06T09:05:38.6893251+00:00",
       "NumProgressed": 161409,
       "NumCompleted": 210
+    },
+    {
+      "Time": "2023-12-06T10:05:56.8804196+00:00",
+      "NumProgressed": 161410,
+      "NumCompleted": 210
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -18438,9 +18443,9 @@
       "ID": "MISC_PULLANENEMY",
       "SetID": "ccc0dlh",
       "Name": "Yank",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 323
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -18551,21 +18556,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 160992,
+      "Progressed": 160993,
       "Completed": 1233
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 161409,
+      "Progressed": 161410,
       "Completed": 210
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-04T21:01:04.8084079+00:00",
-  "LastChanged_Achievements": "2023-12-06T09:05:38.6893247+00:00",
+  "LastChanged_Achievements": "2023-12-06T10:05:56.8804193+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:51.7108111+00:00",
-  "LastUpdate_Ratings": "2023-12-06T09:00:17.4540716+00:00",
-  "LastUpdate_Achievements": "2023-12-06T09:05:38.6894076+00:00"
+  "LastUpdate_Ratings": "2023-12-06T10:02:34.055296+00:00",
+  "LastUpdate_Achievements": "2023-12-06T10:05:56.880526+00:00"
 }

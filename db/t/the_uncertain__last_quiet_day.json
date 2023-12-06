@@ -4,8 +4,8 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 587,
+  "EOS_Progressed": 588,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.07,
+  "EOS_Completed_Percentage": 3.06,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:50.241177+00:00",
@@ -854,6 +854,11 @@
       "Time": "2023-12-03T20:09:51.3550995+00:00",
       "NumProgressed": 587,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-06T10:09:18.714602+00:00",
+      "NumProgressed": 588,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 32,
@@ -863,9 +868,9 @@
       "ID": "ACE",
       "SetID": "2iigf77",
       "Name": "Ace",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 94
     },
     {
       "ID": "ANNOYING",
@@ -889,7 +894,7 @@
       "Name": "Buckle up",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -913,7 +918,7 @@
       "Name": "Everybody lies",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "EVERY_LITTLE_HELPS",
@@ -953,15 +958,15 @@
       "Name": "Hands up!",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "HAPPY_HALLOWEEN",
       "SetID": "2iigf77",
       "Name": "Trick or Treat?",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 141
+      "UsersEstimate": 135
     },
     {
       "ID": "HE_IS_JUST_A_CHILD",
@@ -985,7 +990,7 @@
       "Name": "I can do a thing or two",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "LUCKY_DOG",
@@ -993,7 +998,7 @@
       "Name": "Lucky dog",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "METICULOUS",
@@ -1025,7 +1030,7 @@
       "Name": "Now you know",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "PERFECT_HEARING",
@@ -1039,9 +1044,9 @@
       "ID": "PLEASE",
       "SetID": "2iigf77",
       "Name": "Please oh pleeease!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 94
     },
     {
       "ID": "POOL",
@@ -1049,7 +1054,7 @@
       "Name": "Accurate",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "QUICK_CHARGE",
@@ -1057,7 +1062,7 @@
       "Name": "Quick charge",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "SHORT_CIRCUIT",
@@ -1065,7 +1070,7 @@
       "Name": "Short circuit",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "SILENT",
@@ -1073,7 +1078,7 @@
       "Name": "Silent",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "SYSADMIN",
@@ -1113,14 +1118,14 @@
       "Name": "The Walking Robot Among Us",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     }
   ],
   "AchievementSets": [
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 587,
+      "Progressed": 588,
       "Completed": 18
     }
   ],
@@ -1128,8 +1133,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-12-06T09:09:00.3090601+00:00",
+  "LastChanged_Achievements": "2023-12-06T10:09:18.7146017+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:50.8279078+00:00",
-  "LastUpdate_Ratings": "2023-12-06T08:58:42.9692016+00:00",
-  "LastUpdate_Achievements": "2023-12-06T09:09:00.3090775+00:00"
+  "LastUpdate_Ratings": "2023-12-06T09:58:47.0917886+00:00",
+  "LastUpdate_Achievements": "2023-12-06T10:09:18.7146237+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -11583,9 +11583,9 @@
       "Count": 837
     }
   ],
-  "EOS_Progressed": 303990,
+  "EOS_Progressed": 303991,
   "EOS_Completed": 523,
-  "EOS_NewPlayers": 446,
+  "EOS_NewPlayers": 444,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -36293,6 +36293,11 @@
       "Time": "2023-12-06T06:09:32.2831224+00:00",
       "NumProgressed": 303990,
       "NumCompleted": 523
+    },
+    {
+      "Time": "2023-12-06T10:09:33.0338756+00:00",
+      "NumProgressed": 303991,
+      "NumCompleted": 523
     }
   ],
   "TotalAchievements": 45,
@@ -36304,7 +36309,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48638
+      "UsersEstimate": 48639
     },
     {
       "ID": "PFA_10",
@@ -36632,7 +36637,7 @@
       "Name": "First Class Student",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45598
+      "UsersEstimate": 45599
     },
     {
       "ID": "PFA_7",
@@ -36663,7 +36668,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303990,
+      "Progressed": 303991,
       "Completed": 523
     }
   ],
@@ -36671,8 +36676,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-06T08:00:00.6379472+00:00",
-  "LastChanged_Achievements": "2023-12-06T09:09:14.7007304+00:00",
+  "LastChanged_Achievements": "2023-12-06T10:09:33.0338754+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-06T08:59:58.5426638+00:00",
-  "LastUpdate_Achievements": "2023-12-06T09:09:14.7008411+00:00"
+  "LastUpdate_Ratings": "2023-12-06T10:00:05.3801997+00:00",
+  "LastUpdate_Achievements": "2023-12-06T10:09:33.0340231+00:00"
 }

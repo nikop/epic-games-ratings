@@ -6,46 +6,46 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~21,472 |
+| It wakes | 2.00% | ~21,473 |
 | Zealous | 1.00% | ~10,736 |
 | Not half bad | 1.00% | ~10,736 |
+| Apt Survivor | 1.00% | ~10,736 |
 | Skillful | 1.00% | ~10,736 |
 | Make Some Noise | 1.00% | ~10,736 |
-| Apt Survivor | 0.90% | ~9,662 |
-| Survival Treasures | 0.90% | ~9,662 |
-| I | 0.90% | ~9,662 |
+| Survival Treasures | 0.90% | ~9,663 |
+| I | 0.90% | ~9,663 |
 | No one left behind | 0.80% | ~8,589 |
 | Handyman | 0.80% | ~8,589 |
 | Sorted | 0.80% | ~8,589 |
 | Resurgence | 0.80% | ~8,589 |
-| The Grand Sacrifice | 0.70% | ~7,515 |
-| Medic | 0.70% | ~7,515 |
-| Bloody Millionaire | 0.70% | ~7,515 |
-| Healthy Obsession | 0.70% | ~7,515 |
-| Preemptive Strike | 0.70% | ~7,515 |
-| Humanitarian | 0.70% | ~7,515 |
-| Agonizing Escape | 0.60% | ~6,441 |
-| Backdoor Escape | 0.60% | ~6,441 |
-| I've got your back | 0.60% | ~6,441 |
-| Perfect Escape | 0.60% | ~6,441 |
-| Perfect Killing | 0.60% | ~6,441 |
-| II | 0.60% | ~6,441 |
-| Close Shave | 0.60% | ~6,441 |
+| The Grand Sacrifice | 0.70% | ~7,516 |
+| Medic | 0.70% | ~7,516 |
+| Bloody Millionaire | 0.70% | ~7,516 |
+| Healthy Obsession | 0.70% | ~7,516 |
+| Preemptive Strike | 0.70% | ~7,516 |
+| Humanitarian | 0.70% | ~7,516 |
+| Agonizing Escape | 0.60% | ~6,442 |
+| Backdoor Escape | 0.60% | ~6,442 |
+| I've got your back | 0.60% | ~6,442 |
+| Perfect Escape | 0.60% | ~6,442 |
+| Perfect Killing | 0.60% | ~6,442 |
+| II | 0.60% | ~6,442 |
+| Close Shave | 0.60% | ~6,442 |
 | Apt Killer | 0.50% | ~5,368 |
 | Risk it all | 0.50% | ~5,368 |
 | III | 0.50% | ~5,368 |
 | Engineer | 0.50% | ~5,368 |
 | Wounded Healer | 0.50% | ~5,368 |
-| Blood on your hands | 0.40% | ~4,294 |
-| Escape Artist | 0.40% | ~4,294 |
-| Vulture | 0.40% | ~4,294 |
-| First to the Punch | 0.40% | ~4,294 |
-| Operation: Survival | 0.40% | ~4,294 |
-| Every Last Drop | 0.40% | ~4,294 |
-| With Scars to Show | 0.40% | ~4,294 |
-| Flight to Freedom | 0.40% | ~4,294 |
-| Lifting The Fog | 0.40% | ~4,294 |
-| Second Act | 0.40% | ~4,294 |
+| Blood on your hands | 0.40% | ~4,295 |
+| Escape Artist | 0.40% | ~4,295 |
+| Vulture | 0.40% | ~4,295 |
+| First to the Punch | 0.40% | ~4,295 |
+| Operation: Survival | 0.40% | ~4,295 |
+| Every Last Drop | 0.40% | ~4,295 |
+| With Scars to Show | 0.40% | ~4,295 |
+| Flight to Freedom | 0.40% | ~4,295 |
+| Lifting The Fog | 0.40% | ~4,295 |
+| Second Act | 0.40% | ~4,295 |
 | Blood on your face | 0.30% | ~3,221 |
 | Made it out alive! | 0.30% | ~3,221 |
 | Nerves of steel | 0.30% | ~3,221 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Joke’s On You | 0.10% | ~1,074 |
 | Adept Good Guy | 0.10% | ~1,074 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,073,581 (Ranked 14)  
+Progressed: 1,073,646 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -469,7 +469,7 @@ Completed: 61 (0.01%) (Ranked 347)
 | 2023-12-03 | 1,067,390 | 61 |
 | 2023-12-04 | 1,070,133 | 61 |
 | 2023-12-05 | 1,072,750 | 61 |
-| 2023-12-06 | 1,073,581 | 61 |
+| 2023-12-06 | 1,073,646 | 61 |
 ## Awards
 Max (Diverse Characters): 37,377  (Ranked 15)  
 Sum: 283,541 (Ranked 12)  

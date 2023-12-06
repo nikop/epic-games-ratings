@@ -2,13 +2,13 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 937,
+  "Ranking_Rating": 938,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4553,7 +4553,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 77721,
+  "EOS_Progressed": 77722,
   "EOS_Completed": 124,
   "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
@@ -25143,6 +25143,11 @@
       "Time": "2023-12-06T08:03:46.6487704+00:00",
       "NumProgressed": 77721,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-06T10:03:55.947896+00:00",
+      "NumProgressed": 77722,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -25258,7 +25263,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16321
+      "UsersEstimate": 16322
     },
     {
       "ID": "CLAYFACE_2",
@@ -25298,7 +25303,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5440
+      "UsersEstimate": 5441
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -25482,7 +25487,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12435
+      "UsersEstimate": 12436
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -25498,7 +25503,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 38860
+      "UsersEstimate": 38861
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -25641,13 +25646,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 77721,
+      "Progressed": 77722,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 48001,
+      "Progressed": 48002,
       "Completed": 2675
     }
   ],
@@ -25655,8 +25660,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-06T08:58:33.7324209+00:00",
-  "LastChanged_Achievements": "2023-12-06T09:03:36.9973701+00:00",
+  "LastChanged_Achievements": "2023-12-06T10:03:55.9478956+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.5024346+00:00",
-  "LastUpdate_Ratings": "2023-12-06T08:58:33.7324214+00:00",
-  "LastUpdate_Achievements": "2023-12-06T09:03:36.9975242+00:00"
+  "LastUpdate_Ratings": "2023-12-06T09:58:37.4570515+00:00",
+  "LastUpdate_Achievements": "2023-12-06T10:03:55.9480046+00:00"
 }

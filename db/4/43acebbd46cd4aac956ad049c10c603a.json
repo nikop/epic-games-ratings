@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -205,7 +205,7 @@
       "Count": 48
     }
   ],
-  "EOS_Progressed": 879,
+  "EOS_Progressed": 880,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
@@ -2110,6 +2110,11 @@
       "Time": "2023-12-05T23:05:12.831576+00:00",
       "NumProgressed": 879,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-06T10:05:48.0783397+00:00",
+      "NumProgressed": 880,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2218,7 +2223,7 @@
       "Name": "Discovery",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "EasternWetlands",
@@ -2378,7 +2383,7 @@
       "Name": "Overload",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "Persistent",
@@ -2593,7 +2598,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 879,
+      "Progressed": 880,
       "Completed": 1
     }
   ],
@@ -2601,8 +2606,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-05T18:59:22.7453339+00:00",
-  "LastChanged_Achievements": "2023-12-06T09:05:29.7440344+00:00",
+  "LastChanged_Achievements": "2023-12-06T10:05:48.0783394+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-06T08:58:53.3148625+00:00",
-  "LastUpdate_Achievements": "2023-12-06T09:05:29.7440784+00:00"
+  "LastUpdate_Ratings": "2023-12-06T09:58:57.3653378+00:00",
+  "LastUpdate_Achievements": "2023-12-06T10:05:48.078385+00:00"
 }

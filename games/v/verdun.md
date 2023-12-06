@@ -1,21 +1,21 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.53 (Ranked 542)  
+Rating: 4.53 (Ranked 543)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~51,185 |
-| Worth it | 63.00% | ~41,342 |
-| Eagle Eye | 55.00% | ~36,092 |
-| Corpseman I | 40.00% | ~26,249 |
-| Blast fishing | 37.00% | ~24,280 |
-| Not alone | 32.00% | ~20,999 |
-| Headhunter I | 26.00% | ~17,062 |
+| Setting an example | 78.00% | ~51,188 |
+| Worth it | 63.00% | ~41,344 |
+| Eagle Eye | 55.00% | ~36,094 |
+| Corpseman I | 40.00% | ~26,250 |
+| Blast fishing | 37.00% | ~24,282 |
+| Not alone | 32.00% | ~21,000 |
+| Headhunter I | 26.00% | ~17,063 |
 | Manual Labour I | 25.00% | ~16,406 |
-| Developers, Developers, Developers | 24.00% | ~15,749 |
-| Basic Training | 24.00% | ~15,749 |
+| Developers, Developers, Developers | 24.00% | ~15,750 |
+| Basic Training | 24.00% | ~15,750 |
 | Furchtlos und Treu | 13.00% | ~8,531 |
 | Gott Mit Uns | 12.00% | ~7,875 |
 | This We'll Defend! | 9.00% | ~5,906 |
@@ -41,8 +41,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | In My Defens God Me Defend | 3.00% | ~1,969 |
 | Silver x100 | 3.00% | ~1,969 |
 | Impavidum Ferient Bella! | 3.00% | ~1,969 |
-| Bronze x100 | 2.00% | ~1,312 |
-| Shoot, Cover, Reload, Repeat | 2.00% | ~1,312 |
+| Bronze x100 | 2.00% | ~1,313 |
+| Shoot, Cover, Reload, Repeat | 2.00% | ~1,313 |
 | Gold x100 | 1.00% | ~656 |
 | Hunting the Hun | 1.00% | ~656 |
 | #1 | 1.00% | ~656 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Headhunter II | 1.00% | ~656 |
 | Corpseman III | 1.00% | ~656 |
 | Elite Player | 0.80% | ~525 |
-| Manual Labour III | 0.40% | ~262 |
+| Manual Labour III | 0.40% | ~263 |
 | Buddy | 0.30% | ~197 |
 | War is better with friends II | 0.20% | ~131 |
 | Gold Collector | 0.10% | ~66 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~66 |
 | Blood Brother | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,622 (Ranked 105)  
+Progressed: 65,626 (Ranked 105)  
 Completed: 4 (0.01%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 4 (0.01%) (Ranked 347)
 | 2023-12-03 | 65,451 | 4 |
 | 2023-12-04 | 65,531 | 4 |
 | 2023-12-05 | 65,609 | 4 |
-| 2023-12-06 | 65,622 | 4 |
+| 2023-12-06 | 65,626 | 4 |
 ## Awards
 Max (Highly Recommended): 104  (Ranked 359)  
 Sum: 816 (Ranked 281)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1297,9 +1297,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 259083,
+  "EOS_Progressed": 259084,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23387,6 +23387,11 @@
       "Time": "2023-12-06T09:05:18.3393477+00:00",
       "NumProgressed": 259083,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-06T10:05:36.5987342+00:00",
+      "NumProgressed": 259084,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -23510,7 +23515,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7772
+      "UsersEstimate": 7773
     },
     {
       "ID": "CreditLevel3",
@@ -23630,7 +23635,7 @@
       "Name": "Interior designer",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1554
+      "UsersEstimate": 1555
     },
     {
       "ID": "KillCrawlingThing",
@@ -23670,7 +23675,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7772
+      "UsersEstimate": 7773
     },
     {
       "ID": "KillOtherWithMine",
@@ -23845,7 +23850,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 259083,
+      "Progressed": 259084,
       "Completed": 3
     }
   ],
@@ -23853,8 +23858,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-05T19:00:59.7708476+00:00",
-  "LastChanged_Achievements": "2023-12-06T09:05:18.3393471+00:00",
+  "LastChanged_Achievements": "2023-12-06T10:05:36.5987339+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:43.7496821+00:00",
-  "LastUpdate_Ratings": "2023-12-06T09:00:02.6151379+00:00",
-  "LastUpdate_Achievements": "2023-12-06T09:05:18.3395299+00:00"
+  "LastUpdate_Ratings": "2023-12-06T10:00:09.5858752+00:00",
+  "LastUpdate_Achievements": "2023-12-06T10:05:36.5988753+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "66a0893b7b9a42a695f0a387d64dfcc6",
   "Name": "Sable",
   "ProductSlug": "sable",
-  "Ranking_Rating": 542,
+  "Ranking_Rating": 543,
   "Ranking_Popularity": 521,
   "Ranking_PopularitySum": 456,
   "Ranking_EOS_Progress": 88,
@@ -515,9 +515,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 102625,
+  "EOS_Progressed": 102627,
   "EOS_Completed": 1038,
-  "EOS_NewPlayers": 1182,
+  "EOS_NewPlayers": 1177,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -26810,6 +26810,11 @@
       "Time": "2023-12-06T09:09:03.4810625+00:00",
       "NumProgressed": 102625,
       "NumCompleted": 1038
+    },
+    {
+      "Time": "2023-12-06T10:09:21.9577287+00:00",
+      "NumProgressed": 102627,
+      "NumCompleted": 1038
     }
   ],
   "TotalAchievements": 56,
@@ -26821,7 +26826,7 @@
       "Name": "Just The Two of Us",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 33866
+      "UsersEstimate": 33867
     },
     {
       "ID": "ach_001_game_complete",
@@ -26861,7 +26866,7 @@
       "Name": "The Machinist Mask",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 10262
+      "UsersEstimate": 10263
     },
     {
       "ID": "ach_006_beetle_mask",
@@ -26917,7 +26922,7 @@
       "Name": "The Cartographer Mask",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 10262
+      "UsersEstimate": 10263
     },
     {
       "ID": "ach_013_collect_masks",
@@ -26949,7 +26954,7 @@
       "Name": "The Dunboyne",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 17446
+      "UsersEstimate": 17447
     },
     {
       "ID": "ach_017_door_trellicks_pillar",
@@ -26989,7 +26994,7 @@
       "Name": "Balfron Connection",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10262
+      "UsersEstimate": 10263
     },
     {
       "ID": "ach_022_reveal_any_monument",
@@ -27021,7 +27026,7 @@
       "Name": "Ceiling Of Stars",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10262
+      "UsersEstimate": 10263
     },
     {
       "ID": "ach_026_fix_wind_tower",
@@ -27029,7 +27034,7 @@
       "Name": "Up On High",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 25656
+      "UsersEstimate": 25657
     },
     {
       "ID": "ach_027_fix_atomic_heart",
@@ -27045,7 +27050,7 @@
       "Name": "Take That!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 13341
+      "UsersEstimate": 13342
     },
     {
       "ID": "ach_029_collect_lightning_crystal",
@@ -27117,7 +27122,7 @@
       "Name": "Badge Hobbyist",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 17446
+      "UsersEstimate": 17447
     },
     {
       "ID": "ach_038_collect_badges_2",
@@ -27133,7 +27138,7 @@
       "Name": "Simoon",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 34892
+      "UsersEstimate": 34893
     },
     {
       "ID": "ach_040_customise_hoverbike",
@@ -27141,7 +27146,7 @@
       "Name": "Under The Hood",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 25656
+      "UsersEstimate": 25657
     },
     {
       "ID": "ach_041_talk_to_npcs_1",
@@ -27173,7 +27178,7 @@
       "Name": "More Than A Box Of Sand",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 18472
+      "UsersEstimate": 18473
     },
     {
       "ID": "ach_045_open_chests_2",
@@ -27181,7 +27186,7 @@
       "Name": "Treasure Tracker",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 13341
+      "UsersEstimate": 13342
     },
     {
       "ID": "ach_046_stay_airborne",
@@ -27229,7 +27234,7 @@
       "Name": "Playing Dress Up",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10262
+      "UsersEstimate": 10263
     },
     {
       "ID": "ach_052_spend_cuts_1",
@@ -27237,7 +27242,7 @@
       "Name": "Big Spender",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 13341
+      "UsersEstimate": 13342
     },
     {
       "ID": "ach_053_angler_mask",
@@ -27261,22 +27266,22 @@
       "Name": "Vivacious Vivarium",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2052
+      "UsersEstimate": 2053
     }
   ],
   "AchievementSets": [
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 102625,
+      "Progressed": 102627,
       "Completed": 1038
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-12-03T22:58:57.1479092+00:00",
-  "LastChanged_Achievements": "2023-12-06T09:09:03.4810621+00:00",
+  "LastChanged_Achievements": "2023-12-06T10:09:21.9577285+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:38.0200623+00:00",
-  "LastUpdate_Ratings": "2023-12-06T08:59:51.3523756+00:00",
-  "LastUpdate_Achievements": "2023-12-06T09:09:03.4811993+00:00"
+  "LastUpdate_Ratings": "2023-12-06T09:59:57.807573+00:00",
+  "LastUpdate_Achievements": "2023-12-06T10:09:21.9578486+00:00"
 }

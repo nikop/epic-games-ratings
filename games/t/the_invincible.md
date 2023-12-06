@@ -15,7 +15,7 @@
 | The Necroevolution | 23.00% | ~120 |
 | Krauta is alive | 22.00% | ~114 |
 | Peacemaker | 21.00% | ~109 |
-| Volcanologist | 19.00% | ~99 |
+| Volcanologist | 20.00% | ~104 |
 | On her own | 17.00% | ~88 |
 | Beyond divisions | 16.00% | ~83 |
 | Evacuation | 15.00% | ~78 |

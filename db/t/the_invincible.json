@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 520,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1589,9 +1589,9 @@
       "ID": "AchvLava",
       "SetID": "1hj060c",
       "Name": "Volcanologist",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 104
     },
     {
       "ID": "AchvLeaveNoManBehind",
@@ -1724,8 +1724,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-06T09:08:30.7810637+00:00",
+  "LastChanged_Achievements": "2023-12-06T10:08:48.4436795+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.6526822+00:00",
-  "LastUpdate_Ratings": "2023-12-06T08:58:31.2905749+00:00",
-  "LastUpdate_Achievements": "2023-12-06T09:08:30.7810814+00:00"
+  "LastUpdate_Ratings": "2023-12-06T09:58:34.9892596+00:00",
+  "LastUpdate_Achievements": "2023-12-06T10:08:48.4437032+00:00"
 }

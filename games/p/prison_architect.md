@@ -1,15 +1,15 @@
 # Prison Architect
 [Store](https://store.epicgames.com/en-US/p/prison-architect)  
 [View Rawdata](../../db/p/prison_architect.json)  
-Rating: 4.61 (Ranked 387)  
+Rating: 4.61 (Ranked 388)  
 Number of Ratings: 4,491  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~50,207 |
-| Get Busy Living | 16.00% | ~32,133 |
-| Samuel Norton | 9.00% | ~18,075 |
-| Spare The Rod | 5.00% | ~10,041 |
+| Stone Walls | 25.00% | ~50,210 |
+| Get Busy Living | 16.00% | ~32,135 |
+| Samuel Norton | 9.00% | ~18,076 |
+| Spare The Rod | 5.00% | ~10,042 |
 | Don't Put Me In The Dark | 3.00% | ~6,025 |
 | Wait and Hope | 3.00% | ~6,025 |
 | I May Have Found A Way Out Of Here | 3.00% | ~6,025 |
@@ -19,11 +19,11 @@ Number of Ratings: 4,491  (23.09.2022)
 | Reformation | 0.60% | ~1,205 |
 | Crowd Control | 0.50% | ~1,004 |
 | Freedom | 0.40% | ~803 |
-| Confined | 0.30% | ~602 |
+| Confined | 0.30% | ~603 |
 | It's Not What You Know... | 0.10% | ~201 |
 | ... It's What You Can Prove | 0.10% | ~201 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200,829 (Ranked 75)  
+Progressed: 200,841 (Ranked 75)  
 Completed: 11 (0.01%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 11 (0.01%) (Ranked 347)
 | 2023-12-03 | 200,237 | 11 |
 | 2023-12-04 | 200,503 | 11 |
 | 2023-12-05 | 200,745 | 11 |
-| 2023-12-06 | 200,829 | 11 |
+| 2023-12-06 | 200,841 | 11 |
 ## Awards
 Max (Great for Beginners): 591  (Ranked 200)  
 Sum: 4,548 (Ranked 147)  

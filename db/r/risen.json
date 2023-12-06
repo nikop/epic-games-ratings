@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
     "PcReleaseDate": "2009-10-30T16:00:00+00:00",
@@ -409,9 +409,9 @@
       "ID": "id_16",
       "SetID": "bk9jib6",
       "Name": "Little hero",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "id_17",
@@ -778,8 +778,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-11-13T23:59:43.760664+00:00",
-  "LastChanged_Achievements": "2023-12-06T09:08:58.1565372+00:00",
+  "LastChanged_Achievements": "2023-12-06T10:09:16.655328+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:25.2979991+00:00",
-  "LastUpdate_Ratings": "2023-12-06T08:58:40.4821693+00:00",
-  "LastUpdate_Achievements": "2023-12-06T09:08:58.1565646+00:00"
+  "LastUpdate_Ratings": "2023-12-06T09:58:44.5509123+00:00",
+  "LastUpdate_Achievements": "2023-12-06T10:09:16.6553625+00:00"
 }

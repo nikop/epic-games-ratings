@@ -30,9 +30,9 @@ Rating: 4.62 (Ranked 369)
 | The Family Fortune | 19.00% | ~180 |
 | The Man Who Shattered Time | 18.00% | ~170 |
 | Street Style | 17.00% | ~161 |
+| Treasure Trove | 15.00% | ~142 |
 | Whiz Kid | 15.00% | ~142 |
 | Cartographer | 15.00% | ~142 |
-| Treasure Trove | 14.00% | ~132 |
 | Good Neighbor | 13.00% | ~123 |
 | Chaincrawler Explorer | 12.00% | ~114 |
 | Family Memories | 12.00% | ~114 |

@@ -2,12 +2,12 @@
   "ID": "ae373893881044d2bf26d6f8363a120e",
   "Name": "Supraland",
   "ProductSlug": "supraland",
-  "Ranking_Rating": 387,
+  "Ranking_Rating": 388,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 92,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2021-07-02T15:00:00+00:00",
@@ -3253,9 +3253,9 @@
       "Count": 196
     }
   ],
-  "EOS_Progressed": 735170,
+  "EOS_Progressed": 735171,
   "EOS_Completed": 767,
-  "EOS_NewPlayers": 795,
+  "EOS_NewPlayers": 793,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -29118,6 +29118,11 @@
       "Time": "2023-12-06T09:08:52.9721392+00:00",
       "NumProgressed": 735170,
       "NumCompleted": 767
+    },
+    {
+      "Time": "2023-12-06T10:09:11.5763636+00:00",
+      "NumProgressed": 735171,
+      "NumCompleted": 767
     }
   ],
   "TotalAchievements": 98,
@@ -29361,7 +29366,7 @@
       "Name": "Through the fire pipe",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 286716
+      "UsersEstimate": 286717
     },
     {
       "ID": "FliesBeam",
@@ -29377,7 +29382,7 @@
       "Name": "Force Cube",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 389640
+      "UsersEstimate": 389641
     },
     {
       "ID": "Force_Cube_Catapult",
@@ -29385,7 +29390,7 @@
       "Name": "Force Cube Catapult",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 183792
+      "UsersEstimate": 183793
     },
     {
       "ID": "Freed_from_Prison",
@@ -29513,7 +29518,7 @@
       "Name": "Climb the hill",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 308771
+      "UsersEstimate": 308772
     },
     {
       "ID": "Holy_Sword",
@@ -29641,7 +29646,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 727818
+      "UsersEstimate": 727819
     },
     {
       "ID": "PanicLights",
@@ -29761,7 +29766,7 @@
       "Name": "Fast",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 485212
+      "UsersEstimate": 485213
     },
     {
       "ID": "Strong",
@@ -29769,7 +29774,7 @@
       "Name": "Strong",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 88220
+      "UsersEstimate": 88221
     },
     {
       "ID": "SuperSword",
@@ -29801,7 +29806,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 624894
+      "UsersEstimate": 624895
     },
     {
       "ID": "ThroughPipe",
@@ -29841,7 +29846,7 @@
       "Name": "Triple Jump",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 316123
+      "UsersEstimate": 316124
     },
     {
       "ID": "True_Holy_Spirit",
@@ -29912,15 +29917,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 735170,
+      "Progressed": 735171,
       "Completed": 767
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2023-12-05T16:02:34.7804037+00:00",
-  "LastChanged_Achievements": "2023-12-06T09:08:52.972139+00:00",
+  "LastChanged_Achievements": "2023-12-06T10:09:11.5763634+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:06.113229+00:00",
-  "LastUpdate_Ratings": "2023-12-06T09:02:34.7551705+00:00",
-  "LastUpdate_Achievements": "2023-12-06T09:08:52.9723098+00:00"
+  "LastUpdate_Ratings": "2023-12-06T10:02:51.5893579+00:00",
+  "LastUpdate_Achievements": "2023-12-06T10:09:11.5765398+00:00"
 }

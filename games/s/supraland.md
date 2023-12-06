@@ -1,27 +1,27 @@
 # Supraland
 [Store](https://store.epicgames.com/en-US/p/supraland)  
 [View Rawdata](../../db/s/supraland.json)  
-Rating: 4.61 (Ranked 387)  
+Rating: 4.61 (Ranked 388)  
 Number of Ratings: 25,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~727,818 |
-| The Blues | 85.00% | ~624,894 |
-| Fast | 66.00% | ~485,212 |
+| Out of bed | 99.00% | ~727,819 |
+| The Blues | 85.00% | ~624,895 |
+| Fast | 66.00% | ~485,213 |
 | Healthbar | 55.00% | ~404,344 |
-| Force Cube | 53.00% | ~389,640 |
+| Force Cube | 53.00% | ~389,641 |
 | Double Jump | 48.00% | ~352,882 |
 | Regeneration | 47.00% | ~345,530 |
-| Triple Jump | 43.00% | ~316,123 |
-| Climb the hill | 42.00% | ~308,771 |
-| Through the fire pipe | 39.00% | ~286,716 |
+| Triple Jump | 43.00% | ~316,124 |
+| Climb the hill | 42.00% | ~308,772 |
+| Through the fire pipe | 39.00% | ~286,717 |
 | MacGuffin | 38.00% | ~279,365 |
 | Just once | 37.00% | ~272,013 |
 | Armor | 30.00% | ~220,551 |
 | True holy spirit | 28.00% | ~205,848 |
 | That's how electronics work obviously | 27.00% | ~198,496 |
-| Force Cube Catapult | 25.00% | ~183,792 |
+| Force Cube Catapult | 25.00% | ~183,793 |
 | Holy Sword | 23.00% | ~169,089 |
 | Telefrag | 23.00% | ~169,089 |
 | Freed from prison | 21.00% | ~154,386 |
@@ -37,7 +37,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | 9 | 13.00% | ~95,572 |
 | Purple Cube | 13.00% | ~95,572 |
 | Supraball Noob | 13.00% | ~95,572 |
-| Strong | 12.00% | ~88,220 |
+| Strong | 12.00% | ~88,221 |
 | Blue King's lair | 11.00% | ~80,869 |
 | Payback | 11.00% | ~80,869 |
 | Got the coins back | 11.00% | ~80,869 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~735 |
 | DLC: Top of the world | 0.10% | ~735 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 735,170 (Ranked 20)  
+Progressed: 735,171 (Ranked 20)  
 Completed: 767 (0.10%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 767 (0.10%) (Ranked 289)
 | 2023-12-03 | 734,958 | 766 |
 | 2023-12-04 | 735,058 | 766 |
 | 2023-12-05 | 735,152 | 766 |
-| 2023-12-06 | 735,170 | 767 |
+| 2023-12-06 | 735,171 | 767 |
 ## Awards
 Max (Challenging Puzzles): 7,741  (Ranked 50)  
 Sum: 10,102 (Ranked 92)  

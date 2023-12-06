@@ -6,14 +6,14 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 74.00% | ~40,625 |
-| I read Shakespeare and stuff | 62.00% | ~34,037 |
-| Just a sprinkle | 61.00% | ~33,488 |
-| I'm stumped | 59.00% | ~32,390 |
-| Plant get enough | 59.00% | ~32,390 |
-| It's just the beginning | 57.00% | ~31,292 |
-| This is just my weekend vehicle | 56.00% | ~30,743 |
-| Hard work pays off | 51.00% | ~27,998 |
+| Own use | 74.00% | ~40,626 |
+| I read Shakespeare and stuff | 62.00% | ~34,038 |
+| Just a sprinkle | 61.00% | ~33,489 |
+| I'm stumped | 59.00% | ~32,391 |
+| Plant get enough | 59.00% | ~32,391 |
+| It's just the beginning | 57.00% | ~31,293 |
+| This is just my weekend vehicle | 56.00% | ~30,744 |
+| Hard work pays off | 51.00% | ~27,999 |
 | It's never too late to farm | 49.00% | ~26,901 |
 | All out of Land | 43.00% | ~23,607 |
 | Field Trip | 42.00% | ~23,058 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~220 |
 | Raisin the stakes | 0.30% | ~165 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,899 (Ranked 111)  
+Progressed: 54,900 (Ranked 111)  
 Completed: 6 (0.01%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 6 (0.01%) (Ranked 347)
 | 2023-12-03 | 54,714 | 6 |
 | 2023-12-04 | 54,796 | 6 |
 | 2023-12-05 | 54,887 | 6 |
-| 2023-12-06 | 54,899 | 6 |
+| 2023-12-06 | 54,900 | 6 |
 ## Awards
 Max (Great for Beginners): 5,734  (Ranked 68)  
 Sum: 43,778 (Ranked 34)  

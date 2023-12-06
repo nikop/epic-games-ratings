@@ -4,41 +4,41 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I can do a thing or two | 60.00% | ~352 |
-| Buckle up | 59.00% | ~346 |
-| Quick charge | 59.00% | ~346 |
-| Now you know | 53.00% | ~311 |
-| Hands up! | 52.00% | ~305 |
-| Short circuit | 52.00% | ~305 |
+| I can do a thing or two | 60.00% | ~353 |
+| Buckle up | 59.00% | ~347 |
+| Quick charge | 59.00% | ~347 |
+| Now you know | 53.00% | ~312 |
+| Hands up! | 52.00% | ~306 |
+| Short circuit | 52.00% | ~306 |
 | Curious | 42.00% | ~247 |
-| Everybody lies | 36.00% | ~211 |
-| Trick or Treat? | 24.00% | ~141 |
+| Everybody lies | 36.00% | ~212 |
+| Trick or Treat? | 23.00% | ~135 |
 | There is another way | 23.00% | ~135 |
 | Sysadmin | 22.00% | ~129 |
 | Every little helps | 21.00% | ~123 |
-| The Walking Robot Among Us | 20.00% | ~117 |
+| The Walking Robot Among Us | 20.00% | ~118 |
 | Annoying | 19.00% | ~112 |
 | Hacker | 19.00% | ~112 |
 | He is just a child | 19.00% | ~112 |
 | Uncertain | 18.00% | ~106 |
-| Ace | 17.00% | ~100 |
 | Goody | 17.00% | ~100 |
-| Please oh pleeease! | 17.00% | ~100 |
+| Ace | 16.00% | ~94 |
 | Concrete painting | 16.00% | ~94 |
 | Found it! | 16.00% | ~94 |
 | Hipster | 16.00% | ~94 |
 | Not what it seems | 16.00% | ~94 |
+| Please oh pleeease! | 16.00% | ~94 |
 | That's much better! | 15.00% | ~88 |
 | Not as clumsy or random | 13.00% | ~76 |
 | Blade Runner | 10.00% | ~59 |
 | Perfect hearing | 9.00% | ~53 |
 | Meticulous | 8.00% | ~47 |
-| Lucky dog | 4.00% | ~23 |
-| Accurate | 4.00% | ~23 |
-| Silent | 4.00% | ~23 |
+| Lucky dog | 4.00% | ~24 |
+| Accurate | 4.00% | ~24 |
+| Silent | 4.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 587 (Ranked 302)  
-Completed: 18 (3.07%) (Ranked 106)  
+Progressed: 588 (Ranked 302)  
+Completed: 18 (3.06%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -161,6 +161,7 @@ Completed: 18 (3.07%) (Ranked 106)
 | 2023-11-30 | 585 | 18 |
 | 2023-12-02 | 586 | 18 |
 | 2023-12-03 | 587 | 18 |
+| 2023-12-06 | 588 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

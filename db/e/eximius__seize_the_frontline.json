@@ -2,13 +2,13 @@
   "ID": "1c943de0163f4f0982f34dc0fc37dce9",
   "Name": "Eximius: Seize the Frontline",
   "ProductSlug": "eximius-seize-the-frontline",
-  "Ranking_Rating": 937,
+  "Ranking_Rating": 938,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -333,9 +333,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 200974,
+  "EOS_Progressed": 200975,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 295,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24533,6 +24533,11 @@
       "Time": "2023-12-06T09:05:51.4462325+00:00",
       "NumProgressed": 200974,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-06T10:06:09.5094906+00:00",
+      "NumProgressed": 200975,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -24576,7 +24581,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 36175
+      "UsersEstimate": 36176
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -24648,7 +24653,7 @@
       "Name": "Tag Team Champions",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 4019
+      "UsersEstimate": 4020
     },
     {
       "ID": "ACH_WIN_COOP_NODAMAGE_SIEGE",
@@ -24671,7 +24676,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 200974,
+      "Progressed": 200975,
       "Completed": 4
     }
   ],
@@ -24679,8 +24684,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-11-21T16:01:30.5134894+00:00",
-  "LastChanged_Achievements": "2023-12-06T09:05:51.4462318+00:00",
+  "LastChanged_Achievements": "2023-12-06T10:06:09.5094905+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:17.0251486+00:00",
-  "LastUpdate_Ratings": "2023-12-06T08:57:42.3543636+00:00",
-  "LastUpdate_Achievements": "2023-12-06T09:05:51.4464091+00:00"
+  "LastUpdate_Ratings": "2023-12-06T09:57:47.1385363+00:00",
+  "LastUpdate_Achievements": "2023-12-06T10:06:09.509587+00:00"
 }

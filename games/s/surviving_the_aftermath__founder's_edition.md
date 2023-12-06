@@ -6,50 +6,50 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 84.00% | ~377,987 |
-| Leader | 48.00% | ~215,993 |
-| Healer | 38.00% | ~170,994 |
-| Explorer | 36.00% | ~161,995 |
-| Aspiring Inventor | 28.00% | ~125,996 |
-| Adventurer | 27.00% | ~121,496 |
-| Famous Healer | 24.00% | ~107,996 |
-| Local Leader | 21.00% | ~94,497 |
-| Famous Explorer | 20.00% | ~89,997 |
-| New Opportunities | 20.00% | ~89,997 |
-| Energized | 20.00% | ~89,997 |
-| Survivor | 19.00% | ~85,497 |
-| The Great Healer | 18.00% | ~80,997 |
-| The Long Haul | 18.00% | ~80,997 |
-| Catastrofan | 17.00% | ~76,497 |
-| Cleaner | 16.00% | ~71,998 |
-| Legendary Explorer | 15.00% | ~67,498 |
-| Finders, Keepers | 14.00% | ~62,998 |
-| Ice Lakes | 13.00% | ~58,498 |
-| Mentor | 13.00% | ~58,498 |
-| Top Notch | 13.00% | ~58,498 |
-| Great Leader | 12.00% | ~53,998 |
-| Real Survivor | 12.00% | ~53,998 |
-| Merchant | 11.00% | ~49,498 |
-| Spreading Influence | 10.00% | ~44,998 |
-| Rocket Surgeon | 10.00% | ~44,998 |
-| Big Game Hunter | 9.00% | ~40,499 |
-| Around the World | 9.00% | ~40,499 |
-| War Never Changes | 9.00% | ~40,499 |
-| Sky Burial | 9.00% | ~40,499 |
-| Bookworm | 8.00% | ~35,999 |
-| Friendly | 7.00% | ~31,499 |
-| Famous Adventurer | 7.00% | ~31,499 |
-| Prepared for Anything | 7.00% | ~31,499 |
-| Big Catastrofan | 7.00% | ~31,499 |
-| It's a Finnish Thing | 5.00% | ~22,499 |
-| Trader | 4.00% | ~17,999 |
-| Bread and Circuses | 4.00% | ~17,999 |
-| New Eden | 3.00% | ~13,500 |
-| Amped Up | 3.00% | ~13,500 |
-| Really Friendly | 2.00% | ~9,000 |
-| Luxurious Living | 2.00% | ~9,000 |
-| Look, no Hands! | 2.00% | ~9,000 |
-| Tailored to fit | 2.00% | ~9,000 |
+| First Step | 84.00% | ~378,042 |
+| Leader | 48.00% | ~216,024 |
+| Healer | 38.00% | ~171,019 |
+| Explorer | 36.00% | ~162,018 |
+| Aspiring Inventor | 28.00% | ~126,014 |
+| Adventurer | 27.00% | ~121,514 |
+| Famous Healer | 24.00% | ~108,012 |
+| Local Leader | 21.00% | ~94,510 |
+| Famous Explorer | 20.00% | ~90,010 |
+| New Opportunities | 20.00% | ~90,010 |
+| Energized | 20.00% | ~90,010 |
+| Survivor | 19.00% | ~85,510 |
+| The Great Healer | 18.00% | ~81,009 |
+| The Long Haul | 18.00% | ~81,009 |
+| Catastrofan | 17.00% | ~76,508 |
+| Cleaner | 16.00% | ~72,008 |
+| Legendary Explorer | 15.00% | ~67,508 |
+| Finders, Keepers | 14.00% | ~63,007 |
+| Ice Lakes | 13.00% | ~58,506 |
+| Mentor | 13.00% | ~58,506 |
+| Top Notch | 13.00% | ~58,506 |
+| Great Leader | 12.00% | ~54,006 |
+| Real Survivor | 12.00% | ~54,006 |
+| Merchant | 11.00% | ~49,506 |
+| Spreading Influence | 10.00% | ~45,005 |
+| Rocket Surgeon | 10.00% | ~45,005 |
+| Big Game Hunter | 9.00% | ~40,504 |
+| Around the World | 9.00% | ~40,504 |
+| War Never Changes | 9.00% | ~40,504 |
+| Sky Burial | 9.00% | ~40,504 |
+| Bookworm | 8.00% | ~36,004 |
+| Friendly | 7.00% | ~31,504 |
+| Famous Adventurer | 7.00% | ~31,504 |
+| Prepared for Anything | 7.00% | ~31,504 |
+| Big Catastrofan | 7.00% | ~31,504 |
+| It's a Finnish Thing | 5.00% | ~22,502 |
+| Trader | 4.00% | ~18,002 |
+| Bread and Circuses | 4.00% | ~18,002 |
+| New Eden | 3.00% | ~13,502 |
+| Amped Up | 3.00% | ~13,502 |
+| Really Friendly | 2.00% | ~9,001 |
+| Luxurious Living | 2.00% | ~9,001 |
+| Look, no Hands! | 2.00% | ~9,001 |
+| Tailored to fit | 2.00% | ~9,001 |
 | Ranch Hand | 1.00% | ~4,500 |
 | A Closer Look | 1.00% | ~4,500 |
 | Doomsday is canceled | 1.00% | ~4,500 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.10% | ~450 |
 | Customized calamities | 0.10% | ~450 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 449,985 (Ranked 43)  
+Progressed: 450,050 (Ranked 43)  
 Completed: 21 (0.00%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 21 (0.00%) (Ranked 369)
 | 2023-12-03 | 445,370 | 19 |
 | 2023-12-04 | 447,520 | 19 |
 | 2023-12-05 | 449,439 | 21 |
-| 2023-12-06 | 449,985 | 21 |
+| 2023-12-06 | 450,050 | 21 |
 ## Awards
 Max (Great for Beginners): 164  (Ranked 313)  
 Sum: 1,063 (Ranked 259)  

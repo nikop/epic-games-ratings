@@ -25,7 +25,7 @@
 | Employee of the month | 66.00% | ~238 |
 | Law student | 63.00% | ~227 |
 | Workout professional | 61.00% | ~220 |
-| Handyman | 60.00% | ~216 |
+| Handyman | 61.00% | ~220 |
 | Champion – starter pack | 60.00% | ~216 |
 | It's good to be alive | 60.00% | ~216 |
 | Own four walls | 60.00% | ~216 |

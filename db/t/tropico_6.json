@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1431,9 +1431,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6233,
+  "EOS_Progressed": 6234,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13926,6 +13926,11 @@
       "Time": "2023-12-06T08:09:40.4090275+00:00",
       "NumProgressed": 6233,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-06T10:09:33.1832807+00:00",
+      "NumProgressed": 6234,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -14097,7 +14102,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4675
+      "UsersEstimate": 4676
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -14193,7 +14198,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2867
+      "UsersEstimate": 2868
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -14209,7 +14214,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2306
+      "UsersEstimate": 2307
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -14256,15 +14261,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6233,
+      "Progressed": 6234,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-04T06:58:37.0670736+00:00",
-  "LastChanged_Achievements": "2023-12-06T09:09:14.8324311+00:00",
+  "LastChanged_Achievements": "2023-12-06T10:09:33.1832805+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:34.7926512+00:00",
-  "LastUpdate_Ratings": "2023-12-06T08:59:45.1724018+00:00",
-  "LastUpdate_Achievements": "2023-12-06T09:09:14.8325127+00:00"
+  "LastUpdate_Ratings": "2023-12-06T09:59:50.8690576+00:00",
+  "LastUpdate_Achievements": "2023-12-06T10:09:33.1833494+00:00"
 }

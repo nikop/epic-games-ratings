@@ -35,8 +35,8 @@
 | Unstoppable Horde | 32.00% | ~169 |
 | Master of the Undead | 31.00% | ~164 |
 | The Duel | 30.00% | ~159 |
+| If Looks Could Kill | 28.00% | ~148 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~143 |
-| If Looks Could Kill | 27.00% | ~143 |
 | Hungry, Hungry Gorgu! | 26.00% | ~138 |
 | Forbidden Knowledge | 26.00% | ~138 |
 | Ghost Pirates? Ghost Heroes! | 26.00% | ~138 |
@@ -59,7 +59,7 @@
 | Untouchable | 12.00% | ~63 |
 | To the Max! | 12.00% | ~63 |
 | Evilification | 11.00% | ~58 |
-| Laser Eyes Are So Useless | 9.00% | ~48 |
+| Laser Eyes Are So Useless | 10.00% | ~53 |
 | Heal Heal Blessing | 9.00% | ~48 |
 | Gorgu is in the Best of Health | 8.00% | ~42 |
 | Hands Off My Stones | 8.00% | ~42 |

@@ -2,13 +2,13 @@
   "ID": "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
   "Name": "Godfall Ultimate Edition",
   "ProductSlug": "godfall",
-  "Ranking_Rating": 981,
+  "Ranking_Rating": 982,
   "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 272,
   "Ranking_EOS_Progress": 783,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 466,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-04-07T16:00:00+00:00",
     "PcReleaseDate": "2022-04-07T16:00:00+00:00",
@@ -1447,6 +1447,6 @@
   "FirstSeen": "2022-07-22T20:17:29.0337311+00:00",
   "LastChanged": "2023-12-04T16:01:51.0020891+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:11.5974423+00:00",
-  "LastUpdate_Ratings": "2023-12-06T08:57:20.5961666+00:00",
-  "LastUpdate_Achievements": "2023-12-06T09:05:10.9030024+00:00"
+  "LastUpdate_Ratings": "2023-12-06T09:57:25.3729492+00:00",
+  "LastUpdate_Achievements": "2023-12-06T10:05:29.3029391+00:00"
 }
