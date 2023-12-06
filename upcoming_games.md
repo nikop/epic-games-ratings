@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Revive and Prosper](games/3/3a27a82bc5d04ff6a57ae77b34b09555.md) | 2023-12-06 | - |  | - | - |
 | [Dark Mystery](games/9/9a390b228537424c9b46fb0a3dbce676.md) | 2023-12-06 | 8 (1,000 XP) | 0 | - | - |
 | [1001 Jigsaw. World Tour: London](games/8/817bb3befd094b0f8ec6d5df1ffb4623.md) | 2023-12-06 | - |  | - | - |
 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 2023-12-07 | - |  | - | - |
@@ -96,6 +95,7 @@
 | [Howl](games/h/howl.md) | 2024-01-23 | - |  | - | - |
 | [Tiny Jump](games/0/08d22307c66c4923ae6fab7edfa6e227.md) | 2024-01-29 | - |  | - | - |
 | [Murder Is Game Over - Deal Killer](games/b/b2a82abf9d2b4356a29a4c5d2a15c830.md) | 2024-01-31 | - |  | - | - |
+| [Project XSTING](games/2/23742f73e6594075a1f74e57ed7a6d5b.md) | 2024-01-31 | - |  | - | - |
 | [The Harvest](games/1/171eb5b083604de697c6d64e243d308b.md) | 2024-01-31 | - |  | - | - |
 | [Total Reload](games/t/total_reload.md) | 2024-01-31 | - |  | - | - |
 | [The Evolving Forest](games/6/6e80378d8a1444cf94e8221bee233464.md) | 2024-01-31 | - |  | - | - |
@@ -140,7 +140,7 @@
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
 | [Forgotten Runiverse](games/2/28102c9b12f0424cb937170f7f6286b9.md) | 2024-06-30 | - |  | - | - |
 | [I Love Finding Cats](games/2/22d7d08b02de4ce79b0316ced5064741.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 391,802 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 391,858 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
