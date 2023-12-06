@@ -825,6 +825,7 @@
 | [Aya & Naya](../games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 5 | 1,000 |
 | [Balloon Strike](../games/5/524a7bde223b442d9e006c9891b5d702.md) | 5 | 1,000 |
 | [Cepheus Protocol](../games/c/cepheus_protocol.md) | 5 | 1,000 |
+| [Coryphaeus Championships](../games/c/coryphaeus_championships.md) | 5 | 1,000 |
 | [Cyber Drift](../games/c/cyber_drift.md) | 5 | 1,000 |
 | [Dizzy Fight](../games/0/0e75b2d3188d42378ba82dccbfa48891.md) | 5 | 1,000 |
 | [EndlessRunner](../games/f/f42ed367eda74abfbd1d190de7fe0f10.md) | 5 | 1,000 |

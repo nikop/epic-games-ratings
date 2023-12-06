@@ -6,7 +6,7 @@
 | 1 | [The Repair House: Restoration Sim](games/7/76c6650b9d624427aab1c0f1ff3defb6.md) | 100.00% |
 | 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.18% |
 | 6 | [greensheen Production](games/g/greensheen_production.md) | 46.67% |
-| 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.51% |
+| 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.38% |
 | 8 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 44.44% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.93% |
 | 10 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 37.50% |
@@ -18,7 +18,7 @@
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.74% |
+| 19 | [The Riflemen](games/t/the_riflemen.md) | 23.73% |
 | 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 22.73% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 21 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 20.00% |
@@ -80,7 +80,7 @@
 | 77 | [Time on Frog Island](games/t/time_on_frog_island.md) | 4.76% |
 | 77 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 4.76% |
 | 80 | [ZZT!](games/z/zzt!.md) | 4.67% |
-| 81 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.62% |
+| 81 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.63% |
 | 82 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.55% |
 | 83 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.49% |
 | 84 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.41% |
@@ -213,9 +213,9 @@
 | 210 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.49% |
 | 212 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.48% |
 | 213 | [Eternights](games/e/eternights.md) | 0.47% |
-| 214 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 214 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.46% |
-| 216 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.45% |
+| 215 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
+| 215 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.45% |
 | 217 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.44% |
 | 217 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.44% |
 | 219 | [It Takes Two](games/i/it_takes_two.md) | 0.43% |
@@ -229,12 +229,12 @@
 | 225 | [Ghostrunner](games/g/ghostrunner.md) | 0.39% |
 | 228 | [Train Valley](games/t/train_valley.md) | 0.38% |
 | 229 | [The Surge](games/t/the_surge.md) | 0.37% |
-| 230 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.35% |
 | 230 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
 | 230 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.35% |
-| 233 | [Dead Island 2](games/d/dead_island_2.md) | 0.34% |
-| 233 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.34% |
-| 233 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.34% |
+| 232 | [Dead Island 2](games/d/dead_island_2.md) | 0.34% |
+| 232 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.34% |
+| 232 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.34% |
+| 232 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.34% |
 | 236 | [Them and Us](games/t/them_and_us.md) | 0.32% |
 | 237 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.31% |
 | 237 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
@@ -402,6 +402,7 @@
 | 369 | [Battle Ram](games/b/battle_ram.md) | 0.00% |
 | 369 | [Battlefield V Definitive Edition](games/b/battlefield_v_definitive_edition.md) | 0.00% |
 | 369 | [Biped](games/b/biped.md) | 0.00% |
+| 369 | [Black Academy](games/5/5bc5fe63f152435caf6a316d66bc87e3.md) | 0.00% |
 | 369 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 0.00% |
 | 369 | [Blood Flowers](games/5/5ab7474f6a7043aaba392d4b64096737.md) | 0.00% |
 | 369 | [Blood of Titans](games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | 0.00% |
@@ -434,6 +435,7 @@
 | 369 | [Cloud Cutter](games/c/cloud_cutter.md) | 0.00% |
 | 369 | [Colossal Cave](games/c/colossal_cave.md) | 0.00% |
 | 369 | [Contraption Maker](games/f/fafd1bf30a1e489e819444377e309999.md) | 0.00% |
+| 369 | [Coryphaeus Championships](games/c/coryphaeus_championships.md) | 0.00% |
 | 369 | [Covid Carl](games/c/covid_carl.md) | 0.00% |
 | 369 | [Crayta](games/c/crayta.md) | 0.00% |
 | 369 | [Creepy Tale 3 - Ingrid Penance](games/0/078713096df541f58f5fc4032efeeb2d.md) | 0.00% |
