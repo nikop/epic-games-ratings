@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15920,
+  "EOS_Progressed": 15923,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13158,6 +13158,11 @@
       "Time": "2023-12-06T00:05:43.4635322+00:00",
       "NumProgressed": 15920,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-06T01:55:02.9554533+00:00",
+      "NumProgressed": 15923,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13186,7 +13191,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "12",
@@ -13202,7 +13207,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1911
     },
     {
       "ID": "14",
@@ -13248,9 +13253,9 @@
       "ID": "19",
       "SetID": "458bbdk",
       "Name": "Martian Music",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 955
+      "UsersEstimate": 1115
     },
     {
       "ID": "2",
@@ -13264,9 +13269,9 @@
       "ID": "20",
       "SetID": "458bbdk",
       "Name": "Thorston Mayer",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 478
+      "UsersEstimate": 637
     },
     {
       "ID": "21",
@@ -13274,7 +13279,7 @@
       "Name": "Drone Dodger",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "22",
@@ -13322,7 +13327,7 @@
       "Name": "Bosmang",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "28",
@@ -13346,7 +13351,7 @@
       "Name": "Captain Drummer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "30",
@@ -13378,7 +13383,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "7",
@@ -13402,7 +13407,7 @@
       "Name": "Impossible Objects",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "31",
@@ -13418,7 +13423,7 @@
       "Name": "Safe Cracker",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "33",
@@ -13442,20 +13447,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15920,
+      "Progressed": 15923,
       "Completed": 41
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1874,
+      "Progressed": 1877,
       "Completed": 826
     }
   ],
@@ -13463,8 +13468,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-03T18:02:39.8331355+00:00",
-  "LastChanged_Achievements": "2023-12-06T00:05:43.4635317+00:00",
+  "LastChanged_Achievements": "2023-12-06T01:55:02.9554529+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-06T00:02:44.2738214+00:00",
-  "LastUpdate_Achievements": "2023-12-06T00:05:43.4636152+00:00"
+  "LastUpdate_Ratings": "2023-12-06T01:50:55.2522853+00:00",
+  "LastUpdate_Achievements": "2023-12-06T01:55:02.9555304+00:00"
 }

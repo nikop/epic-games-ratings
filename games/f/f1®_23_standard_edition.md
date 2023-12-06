@@ -6,7 +6,7 @@ Rating: 4.67 (Ranked 277)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting on the Step | 94.00% | ~5,677 |
-| On the Top Step | 88.00% | ~5,314 |
+| On the Top Step | 89.00% | ~5,375 |
 | Setting up for Success | 78.00% | ~4,710 |
 | Team Orders | 76.00% | ~4,590 |
 | Engineer | 56.00% | ~3,382 |

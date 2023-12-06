@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -195,9 +195,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7457,
+  "EOS_Progressed": 7459,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 428,
+  "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5630,6 +5630,11 @@
       "Time": "2023-12-05T21:10:00.0497974+00:00",
       "NumProgressed": 7457,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-06T01:58:21.2014017+00:00",
+      "NumProgressed": 7459,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -5752,9 +5757,9 @@
       "ID": "HeJustWantedToHelp",
       "SetID": "acc6ea0",
       "Name": "He Just Wanted To Help",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 298
+      "UsersEstimate": 224
     },
     {
       "ID": "JackOfAllTrades",
@@ -5842,7 +5847,7 @@
       "Name": "The Quarterback",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1716
     },
     {
       "ID": "ThisIsDharma",
@@ -5898,7 +5903,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "k01101110",
@@ -5906,14 +5911,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 7457,
+      "Progressed": 7459,
       "Completed": 14
     }
   ],
@@ -5921,8 +5926,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-05T16:59:13.5871144+00:00",
-  "LastChanged_Achievements": "2023-12-06T00:09:22.6824707+00:00",
+  "LastChanged_Achievements": "2023-12-06T01:58:21.2014012+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:30.2062619+00:00",
-  "LastUpdate_Ratings": "2023-12-05T23:58:55.1484647+00:00",
-  "LastUpdate_Achievements": "2023-12-06T00:09:22.6825068+00:00"
+  "LastUpdate_Ratings": "2023-12-06T01:47:48.1503195+00:00",
+  "LastUpdate_Achievements": "2023-12-06T01:58:21.2014893+00:00"
 }

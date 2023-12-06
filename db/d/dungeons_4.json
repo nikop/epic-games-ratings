@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 125,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 528,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 2.27,
   "EosHistory": [
@@ -1421,17 +1421,17 @@
       "ID": "ach_main02horde_creatures",
       "SetID": "4hg22ll",
       "Name": "For the Horde!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 433
+      "UsersEstimate": 438
     },
     {
       "ID": "ach_main02horde_traps",
       "SetID": "4hg22ll",
       "Name": "Trap Master",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 290
+      "UsersEstimate": 296
     },
     {
       "ID": "ach_main03demon_completed",
@@ -1813,9 +1813,9 @@
       "ID": "ach_main18unholy_researches",
       "SetID": "4hg22ll",
       "Name": "To the Max!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 69
     },
     {
       "ID": "ach_main18unholy_training",
@@ -1884,8 +1884,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-06T00:08:36.9020656+00:00",
+  "LastChanged_Achievements": "2023-12-06T01:57:20.4055239+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:15.3424787+00:00",
-  "LastUpdate_Ratings": "2023-12-06T00:00:05.4288236+00:00",
-  "LastUpdate_Achievements": "2023-12-06T00:08:36.9021203+00:00"
+  "LastUpdate_Ratings": "2023-12-06T01:49:25.9926264+00:00",
+  "LastUpdate_Achievements": "2023-12-06T01:57:20.4055907+00:00"
 }

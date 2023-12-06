@@ -7,7 +7,7 @@ Number of Ratings: 177  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Friend in Need... | 6.00% | ~393 |
-| Smooth Operator: Madison | 5.00% | ~327 |
+| Smooth Operator: Madison | 5.00% | ~328 |
 | The Brahdyssey | 3.00% | ~196 |
 | Caught in the Act | 3.00% | ~196 |
 | Katherine | 3.00% | ~196 |
@@ -15,13 +15,13 @@ Number of Ratings: 177  (23.09.2022)
 | Relentless | 3.00% | ~196 |
 | If at First You Don't Succeed... | 3.00% | ~196 |
 | Drunk and Disorderly: Stephanie | 2.00% | ~131 |
-| Amy | 1.00% | ~65 |
-| Drunk and Disorderly: Ashley | 1.00% | ~65 |
-| IRL Let's Player | 1.00% | ~65 |
-| Inspector | 1.00% | ~65 |
-| Newcomer: Vickie | 1.00% | ~65 |
-| Social Butterfly | 1.00% | ~65 |
-| The Muse: Madison | 1.00% | ~65 |
+| Amy | 1.00% | ~66 |
+| Drunk and Disorderly: Ashley | 1.00% | ~66 |
+| IRL Let's Player | 1.00% | ~66 |
+| Inspector | 1.00% | ~66 |
+| Newcomer: Vickie | 1.00% | ~66 |
+| Social Butterfly | 1.00% | ~66 |
+| The Muse: Madison | 1.00% | ~66 |
 | Smooth Operator: Ashley | 0.80% | ~52 |
 | The Crush | 0.80% | ~52 |
 | Amy: Scavenger Hunt | 0.70% | ~46 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~7 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,549 (Ranked 184)  
+Progressed: 6,550 (Ranked 184)  
 Completed: 3 (0.05%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,6 +298,7 @@ Completed: 3 (0.05%) (Ranked 320)
 | 2023-12-03 | 6,546 | 3 |
 | 2023-12-04 | 6,548 | 3 |
 | 2023-12-05 | 6,549 | 3 |
+| 2023-12-06 | 6,550 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -5,28 +5,28 @@ Rating: 4.43 (Ranked 695)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 76.00% | ~1,780 |
-| A new Journey | 75.00% | ~1,756 |
-| Departure | 74.00% | ~1,733 |
+| Country Bumpkin | 76.00% | ~1,781 |
+| A new Journey | 75.00% | ~1,757 |
+| Departure | 74.00% | ~1,734 |
 | From X to Y | 73.00% | ~1,710 |
-| Way of Iron | 70.00% | ~1,639 |
-| Mystery Tour | 69.00% | ~1,616 |
+| Way of Iron | 70.00% | ~1,640 |
+| Mystery Tour | 69.00% | ~1,617 |
 | We brake for nobody | 68.00% | ~1,593 |
 | Brainstorm | 66.00% | ~1,546 |
 | Travel Company | 66.00% | ~1,546 |
-| Mind the Gap | 65.00% | ~1,522 |
-| All around the World | 63.00% | ~1,475 |
-| Right through the middle | 58.00% | ~1,358 |
+| Mind the Gap | 65.00% | ~1,523 |
+| All around the World | 63.00% | ~1,476 |
+| Right through the middle | 58.00% | ~1,359 |
 | Facility Manager | 54.00% | ~1,265 |
 | Poor Devil | 54.00% | ~1,265 |
-| Producer | 51.00% | ~1,194 |
+| Producer | 51.00% | ~1,195 |
 | Bridge Builder | 42.00% | ~984 |
-| Apprentice | 41.00% | ~960 |
+| Apprentice | 41.00% | ~961 |
 | Going once, going twice, sold | 36.00% | ~843 |
 | Access granted | 35.00% | ~820 |
-| Bull and bear | 34.00% | ~796 |
+| Bull and bear | 34.00% | ~797 |
 | Stoker | 33.00% | ~773 |
-| Full Steam ahead | 32.00% | ~749 |
+| Full Steam ahead | 32.00% | ~750 |
 | All mine | 31.00% | ~726 |
 | Financial Shark | 31.00% | ~726 |
 | Socializer | 31.00% | ~726 |
@@ -61,7 +61,7 @@ Rating: 4.43 (Ranked 695)
 | United States | 0.60% | ~14 |
 | Together we stand | 0.60% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,342 (Ranked 220)  
+Progressed: 2,343 (Ranked 220)  
 Completed: 0 (0.00%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,6 +263,7 @@ Completed: 0 (0.00%) (Ranked 369)
 | 2023-12-03 | 2,331 | 0 |
 | 2023-12-04 | 2,336 | 0 |
 | 2023-12-05 | 2,342 | 0 |
+| 2023-12-06 | 2,343 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

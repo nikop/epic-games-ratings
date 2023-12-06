@@ -6,46 +6,46 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~10,729 |
-| It wakes | 1.00% | ~10,729 |
-| Not half bad | 1.00% | ~10,729 |
-| Skillful | 1.00% | ~10,729 |
-| Make Some Noise | 1.00% | ~10,729 |
-| Apt Survivor | 0.90% | ~9,656 |
-| Survival Treasures | 0.90% | ~9,656 |
-| I | 0.90% | ~9,656 |
-| Handyman | 0.80% | ~8,583 |
-| Sorted | 0.80% | ~8,583 |
-| Resurgence | 0.80% | ~8,583 |
-| The Grand Sacrifice | 0.70% | ~7,510 |
-| No one left behind | 0.70% | ~7,510 |
-| Medic | 0.70% | ~7,510 |
-| Bloody Millionaire | 0.70% | ~7,510 |
-| Healthy Obsession | 0.70% | ~7,510 |
-| Preemptive Strike | 0.70% | ~7,510 |
-| Humanitarian | 0.70% | ~7,510 |
-| Agonizing Escape | 0.60% | ~6,437 |
-| Backdoor Escape | 0.60% | ~6,437 |
-| Perfect Escape | 0.60% | ~6,437 |
-| II | 0.60% | ~6,437 |
-| Close Shave | 0.60% | ~6,437 |
-| I've got your back | 0.50% | ~5,364 |
-| Perfect Killing | 0.50% | ~5,364 |
-| Apt Killer | 0.50% | ~5,364 |
-| Risk it all | 0.50% | ~5,364 |
-| III | 0.50% | ~5,364 |
-| Engineer | 0.50% | ~5,364 |
-| Wounded Healer | 0.50% | ~5,364 |
-| Blood on your hands | 0.40% | ~4,291 |
-| Escape Artist | 0.40% | ~4,291 |
-| Vulture | 0.40% | ~4,291 |
-| First to the Punch | 0.40% | ~4,291 |
-| Operation: Survival | 0.40% | ~4,291 |
-| Every Last Drop | 0.40% | ~4,291 |
-| With Scars to Show | 0.40% | ~4,291 |
-| Flight to Freedom | 0.40% | ~4,291 |
-| Lifting The Fog | 0.40% | ~4,291 |
-| Second Act | 0.40% | ~4,291 |
+| Zealous | 1.00% | ~10,730 |
+| It wakes | 1.00% | ~10,730 |
+| Not half bad | 1.00% | ~10,730 |
+| Skillful | 1.00% | ~10,730 |
+| Make Some Noise | 1.00% | ~10,730 |
+| Apt Survivor | 0.90% | ~9,657 |
+| Survival Treasures | 0.90% | ~9,657 |
+| I | 0.90% | ~9,657 |
+| Handyman | 0.80% | ~8,584 |
+| Sorted | 0.80% | ~8,584 |
+| Resurgence | 0.80% | ~8,584 |
+| The Grand Sacrifice | 0.70% | ~7,511 |
+| No one left behind | 0.70% | ~7,511 |
+| Medic | 0.70% | ~7,511 |
+| Bloody Millionaire | 0.70% | ~7,511 |
+| Healthy Obsession | 0.70% | ~7,511 |
+| Preemptive Strike | 0.70% | ~7,511 |
+| Humanitarian | 0.70% | ~7,511 |
+| Agonizing Escape | 0.60% | ~6,438 |
+| Backdoor Escape | 0.60% | ~6,438 |
+| Perfect Escape | 0.60% | ~6,438 |
+| Perfect Killing | 0.60% | ~6,438 |
+| II | 0.60% | ~6,438 |
+| Close Shave | 0.60% | ~6,438 |
+| I've got your back | 0.50% | ~5,365 |
+| Apt Killer | 0.50% | ~5,365 |
+| Risk it all | 0.50% | ~5,365 |
+| III | 0.50% | ~5,365 |
+| Engineer | 0.50% | ~5,365 |
+| Wounded Healer | 0.50% | ~5,365 |
+| Blood on your hands | 0.40% | ~4,292 |
+| Escape Artist | 0.40% | ~4,292 |
+| Vulture | 0.40% | ~4,292 |
+| First to the Punch | 0.40% | ~4,292 |
+| Operation: Survival | 0.40% | ~4,292 |
+| Every Last Drop | 0.40% | ~4,292 |
+| With Scars to Show | 0.40% | ~4,292 |
+| Flight to Freedom | 0.40% | ~4,292 |
+| Lifting The Fog | 0.40% | ~4,292 |
+| Second Act | 0.40% | ~4,292 |
 | Made it out alive! | 0.30% | ~3,219 |
 | Nerves of steel | 0.30% | ~3,219 |
 | Gifts for the Fog | 0.30% | ~3,219 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Joke’s On You | 0.10% | ~1,073 |
 | Adept Good Guy | 0.10% | ~1,073 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,072,867 (Ranked 14)  
+Progressed: 1,073,042 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -469,10 +469,10 @@ Completed: 61 (0.01%) (Ranked 347)
 | 2023-12-03 | 1,067,390 | 61 |
 | 2023-12-04 | 1,070,133 | 61 |
 | 2023-12-05 | 1,072,750 | 61 |
-| 2023-12-06 | 1,072,867 | 61 |
+| 2023-12-06 | 1,073,042 | 61 |
 ## Awards
 Max (Diverse Characters): 37,377  (Ranked 15)  
-Sum: 283,349 (Ranked 12)  
+Sum: 283,380 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -480,7 +480,7 @@ Diff (max vs sum): 3
 | This game is Highly Recommended | 32,392 |
 | This game has Amazing Characters | 31,923 |
 | This game has Competitive Players | 31,755 |
-| This game is Extremely Fun | 31,402 |
+| This game is Extremely Fun | 31,433 |
 | This game has Challenging Combat | 31,304 |
 | This game has Quickly Understood Controls | 30,621 |
 | This game has Amazing Storytelling | 28,920 |
@@ -806,3 +806,4 @@ Diff (max vs sum): 3
 | 2023-12-03 | 4.51 | - | 37,218 | 282,346 |
 | 2023-12-04 | 4.51 | - | 37,289 | 282,989 |
 | 2023-12-05 | 4.51 | - | 37,377 | 283,349 |
+| 2023-12-06 | 4.51 | - | 37,377 | 283,380 |

@@ -5,15 +5,15 @@ Rating: 4.76 (Ranked 130)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,636 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,637 |
 | First Class Student | 15.00% | ~45,597 |
 | Troll with the Punches | 14.00% | ~42,557 |
-| A Keen Sense of Spell | 13.00% | ~39,517 |
-| That's a Keeper | 13.00% | ~39,517 |
-| The Hallowed Hero | 12.00% | ~36,477 |
-| The Defender of Dragons | 12.00% | ~36,477 |
-| Loom for Improvement | 12.00% | ~36,477 |
-| A Talent for Spending | 12.00% | ~36,477 |
+| A Keen Sense of Spell | 13.00% | ~39,518 |
+| That's a Keeper | 13.00% | ~39,518 |
+| The Hallowed Hero | 12.00% | ~36,478 |
+| The Defender of Dragons | 12.00% | ~36,478 |
+| Loom for Improvement | 12.00% | ~36,478 |
+| A Talent for Spending | 12.00% | ~36,478 |
 | Grappling with a Graphorn | 11.00% | ~33,438 |
 | The One Who Mastered Memories | 11.00% | ~33,438 |
 | The Hero of Hogwarts | 11.00% | ~33,438 |
@@ -26,7 +26,7 @@ Rating: 4.76 (Ranked 130)
 | The Avenging Gazelle | 8.00% | ~24,318 |
 | Beast Friends | 8.00% | ~24,318 |
 | Flight the Good Flight | 8.00% | ~24,318 |
-| Raising Expectations | 7.00% | ~21,278 |
+| Raising Expectations | 7.00% | ~21,279 |
 | The Seeker of Knowledge | 6.00% | ~18,239 |
 | The Root of the Problem | 6.00% | ~18,239 |
 | Third Time's a Charm | 6.00% | ~18,239 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 130)
 | The Nature of the Beast | 0.70% | ~2,128 |
 | Collector's Edition | 0.30% | ~912 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,978 (Ranked 54)  
+Progressed: 303,981 (Ranked 54)  
 Completed: 522 (0.17%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,10 +281,10 @@ Completed: 522 (0.17%) (Ranked 269)
 | 2023-12-03 | 303,892 | 521 |
 | 2023-12-04 | 303,943 | 521 |
 | 2023-12-05 | 303,976 | 521 |
-| 2023-12-06 | 303,978 | 522 |
+| 2023-12-06 | 303,981 | 522 |
 ## Awards
 Max (Character Customization): 24,947  (Ranked 17)  
-Sum: 49,982 (Ranked 30)  
+Sum: 49,987 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -297,7 +297,7 @@ Diff (max vs sum): -13
 | This game is Relaxing | 1,300 |
 | This game has Amazing Characters | 1,260 |
 | This game is Highly Recommended | 1,238 |
-| This game has Quickly Understood Controls | 1,191 |
+| This game has Quickly Understood Controls | 1,196 |
 | This game has Beautiful Visuals | 1,080 |
 | This game has a Creative Community | 837 |
 ## Ratings History
@@ -560,3 +560,4 @@ Diff (max vs sum): -13
 | 2023-12-03 | 4.76 | 24,854 | 49,759 |
 | 2023-12-04 | 4.76 | 24,909 | 49,885 |
 | 2023-12-05 | 4.76 | 24,947 | 49,982 |
+| 2023-12-06 | 4.76 | 24,947 | 49,987 |

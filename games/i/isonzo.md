@@ -21,7 +21,7 @@ Number of Ratings: 98  (23.09.2022)
 | The Italian Job | 19.00% | ~1,756 |
 | Veni Vidi Vici | 19.00% | ~1,756 |
 | Ragazzi del '99 | 17.00% | ~1,571 |
-| Luigi Cadorna | 15.00% | ~1,386 |
+| Luigi Cadorna | 15.00% | ~1,387 |
 | The Lion of the Isonzo | 14.00% | ~1,294 |
 | Uomo Universale | 13.00% | ~1,202 |
 | Dirty Dozen | 12.00% | ~1,109 |
@@ -33,8 +33,8 @@ Number of Ratings: 98  (23.09.2022)
 | Dante's Inferno | 9.00% | ~832 |
 | I Have the High Ground | 9.00% | ~832 |
 | Millenial | 9.00% | ~832 |
-| The Show Must Go On | 8.00% | ~739 |
-| Tosca | 8.00% | ~739 |
+| The Show Must Go On | 8.00% | ~740 |
+| Tosca | 8.00% | ~740 |
 | 12th Bottle of the Isonzo | 6.00% | ~555 |
 | The Enlightment | 6.00% | ~555 |
 | Cercatore d'Oro | 5.00% | ~462 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~37 |
 | Can I Go Home Now? | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,243 (Ranked 170)  
+Progressed: 9,244 (Ranked 170)  
 Completed: 10 (0.11%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,6 +276,7 @@ Completed: 10 (0.11%) (Ranked 284)
 | 2023-12-03 | 9,216 | 10 |
 | 2023-12-04 | 9,234 | 10 |
 | 2023-12-05 | 9,243 | 10 |
+| 2023-12-06 | 9,244 | 10 |
 ## Awards
 Max (Diverse Characters): 38  (Ranked 467)  
 Sum: 322 (Ranked 362)  

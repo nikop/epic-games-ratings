@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
     "PcReleaseDate": "2021-10-14T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4918,
+  "EOS_Progressed": 4920,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.96,
   "EosHistory": [
@@ -4044,6 +4044,11 @@
       "Time": "2023-12-06T00:04:57.3707807+00:00",
       "NumProgressed": 4918,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-12-06T01:54:01.0265931+00:00",
+      "NumProgressed": 4920,
+      "NumCompleted": 47
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -4056,7 +4061,7 @@
       "Name": "Finish The Hidden Room",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_HIDDENROOM",
@@ -4064,7 +4069,7 @@
       "Name": "Unlock the secret room",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_MASK",
@@ -4096,7 +4101,7 @@
       "Name": "Move the sofa",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 1721
+      "UsersEstimate": 1722
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -4104,7 +4109,7 @@
       "Name": "Turn on the TV",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 2803
+      "UsersEstimate": 2804
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -4112,7 +4117,7 @@
       "Name": "Wrong passcode",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 3934
+      "UsersEstimate": 3936
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -4183,14 +4188,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 4918,
+      "Progressed": 4920,
       "Completed": 47
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-12-06T00:04:57.3707804+00:00",
+  "LastChanged_Achievements": "2023-12-06T01:54:01.0265925+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:12.1666356+00:00",
-  "LastUpdate_Ratings": "2023-12-05T23:59:19.7589474+00:00",
-  "LastUpdate_Achievements": "2023-12-06T00:04:57.3708171+00:00"
+  "LastUpdate_Ratings": "2023-12-06T01:48:22.6361347+00:00",
+  "LastUpdate_Achievements": "2023-12-06T01:54:01.0266243+00:00"
 }

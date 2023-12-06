@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -7201,10 +7201,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 12192,
       "NumberOfAwardsMax": 7943
+    },
+    {
+      "Time": "2023-12-06T01:45:52.7308132+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 12196,
+      "NumberOfAwardsMax": 7943
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12192,
+  "NumberOfAwards": 12196,
   "NumberOfAwardsMax": 7943,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7236,7 +7242,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 494
+      "Count": 498
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7263,10 +7269,10 @@
       "Count": 514
     }
   ],
-  "EOS_Progressed": 730685,
+  "EOS_Progressed": 730714,
   "EOS_Completed": 2465,
-  "EOS_NewPlayers": 3292,
-  "EOS_NewCompleters": 18,
+  "EOS_NewPlayers": 3294,
+  "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -33568,6 +33574,11 @@
       "Time": "2023-12-06T00:08:36.0201315+00:00",
       "NumProgressed": 730685,
       "NumCompleted": 2465
+    },
+    {
+      "Time": "2023-12-06T01:57:19.2326086+00:00",
+      "NumProgressed": 730714,
+      "NumCompleted": 2465
     }
   ],
   "TotalAchievements": 51,
@@ -33611,7 +33622,7 @@
       "Name": "Make it So",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3653
+      "UsersEstimate": 3654
     },
     {
       "ID": "ach_big_name_in_town",
@@ -33947,7 +33958,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1687
+      "UsersEstimate": 1688
     },
     {
       "ID": "ach_gardening_tools",
@@ -33955,7 +33966,7 @@
       "Name": "Lawn and Order",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ach_pork_chops",
@@ -33963,7 +33974,7 @@
       "Name": "Pork Chopped",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1687
+      "UsersEstimate": 1688
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -33986,22 +33997,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 730685,
+      "Progressed": 730714,
       "Completed": 2465
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 56227,
+      "Progressed": 56256,
       "Completed": 36632
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-12-05T16:57:48.3255752+00:00",
-  "LastChanged_Achievements": "2023-12-06T00:08:36.0201312+00:00",
+  "LastChanged": "2023-12-06T01:45:52.7308131+00:00",
+  "LastChanged_Achievements": "2023-12-06T01:57:19.2326082+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:31.1640976+00:00",
-  "LastUpdate_Ratings": "2023-12-05T23:57:30.9216541+00:00",
-  "LastUpdate_Achievements": "2023-12-06T00:08:36.0202518+00:00"
+  "LastUpdate_Ratings": "2023-12-06T01:45:52.7308139+00:00",
+  "LastUpdate_Achievements": "2023-12-06T01:57:19.2328327+00:00"
 }

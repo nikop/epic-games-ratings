@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 429,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -6932,9 +6932,9 @@
       "ID": "achievement_0008",
       "SetID": "9123ogc",
       "Name": "On the Top Step",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 5314
+      "UsersEstimate": 5375
     },
     {
       "ID": "achievement_0009",
@@ -7277,8 +7277,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-12-05T18:58:42.6618407+00:00",
-  "LastChanged_Achievements": "2023-12-06T00:04:25.1297039+00:00",
+  "LastChanged_Achievements": "2023-12-06T01:53:17.6815926+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:30.4962244+00:00",
-  "LastUpdate_Ratings": "2023-12-05T23:58:10.95635+00:00",
-  "LastUpdate_Achievements": "2023-12-06T00:04:25.1297556+00:00"
+  "LastUpdate_Ratings": "2023-12-06T01:46:47.6570439+00:00",
+  "LastUpdate_Achievements": "2023-12-06T01:53:17.6816566+00:00"
 }

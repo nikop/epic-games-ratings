@@ -2377,7 +2377,7 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 46387,
+  "EOS_Progressed": 46388,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 448,
   "EOS_NewCompleters": 0,
@@ -27337,6 +27337,11 @@
       "Time": "2023-12-06T00:05:00.0069316+00:00",
       "NumProgressed": 46387,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-12-06T01:54:04.8642033+00:00",
+      "NumProgressed": 46388,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 75,
@@ -27348,7 +27353,7 @@
       "Name": "That Was Easy!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9277
+      "UsersEstimate": 9278
     },
     {
       "ID": "achievements_10",
@@ -27404,7 +27409,7 @@
       "Name": "Mad Genius",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 16235
+      "UsersEstimate": 16236
     },
     {
       "ID": "achievements_19",
@@ -27412,7 +27417,7 @@
       "Name": "Bane of Monsters",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 12988
+      "UsersEstimate": 12989
     },
     {
       "ID": "achievements_2",
@@ -27452,7 +27457,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 27832
+      "UsersEstimate": 27833
     },
     {
       "ID": "achievements_24",
@@ -27468,7 +27473,7 @@
       "Name": "Chainbreaker - III",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 12988
+      "UsersEstimate": 12989
     },
     {
       "ID": "achievements_26",
@@ -27540,7 +27545,7 @@
       "Name": "Cannon Fodder - II",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 13452
+      "UsersEstimate": 13453
     },
     {
       "ID": "achievements_34",
@@ -27604,7 +27609,7 @@
       "Name": "Silent Waters",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9277
+      "UsersEstimate": 9278
     },
     {
       "ID": "achievements_41",
@@ -27644,7 +27649,7 @@
       "Name": "Legendary Warrior",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 5566
+      "UsersEstimate": 5567
     },
     {
       "ID": "achievements_46",
@@ -27652,7 +27657,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 39429
+      "UsersEstimate": 39430
     },
     {
       "ID": "achievements_47",
@@ -27684,7 +27689,7 @@
       "Name": "Necromancer\u0027s Apprentice",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 23657
+      "UsersEstimate": 23658
     },
     {
       "ID": "achievements_50",
@@ -27692,7 +27697,7 @@
       "Name": "Master of Destruction",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1855
+      "UsersEstimate": 1856
     },
     {
       "ID": "achievements_51",
@@ -27724,7 +27729,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 19946
+      "UsersEstimate": 19947
     },
     {
       "ID": "achievements_55",
@@ -27780,7 +27785,7 @@
       "Name": "Head of Order",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9277
+      "UsersEstimate": 9278
     },
     {
       "ID": "achievements_62",
@@ -27932,7 +27937,7 @@
       "Name": "Shadow Between Worlds",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 13452
+      "UsersEstimate": 13453
     },
     {
       "ID": "achievements_9",
@@ -27947,15 +27952,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 46387,
+      "Progressed": 46388,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-12-03T15:59:33.0645995+00:00",
-  "LastChanged_Achievements": "2023-12-06T00:05:00.0069311+00:00",
+  "LastChanged_Achievements": "2023-12-06T01:54:04.864203+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:08.4190258+00:00",
-  "LastUpdate_Ratings": "2023-12-05T23:57:01.2798156+00:00",
-  "LastUpdate_Achievements": "2023-12-06T00:05:00.0070865+00:00"
+  "LastUpdate_Ratings": "2023-12-06T01:45:10.1616867+00:00",
+  "LastUpdate_Achievements": "2023-12-06T01:54:04.8643885+00:00"
 }

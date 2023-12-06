@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 555,
+  "EOS_Progressed": 556,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1762,6 +1762,11 @@
       "Time": "2023-12-05T23:07:48.9873921+00:00",
       "NumProgressed": 555,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-06T01:57:01.537634+00:00",
+      "NumProgressed": 556,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -1773,7 +1778,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1781,7 +1786,7 @@
       "Name": "Giant Lizard Killer",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -1813,7 +1818,7 @@
       "Name": "Youth Magnet",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -1843,9 +1848,9 @@
       "ID": "ACHIEVEMENT_18",
       "SetID": "7pimpda",
       "Name": "Kind Adventurer",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -1861,7 +1866,7 @@
       "Name": "Training Simulation",
       "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1885,7 +1890,7 @@
       "Name": "Beginner Cook",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -1909,7 +1914,7 @@
       "Name": "Beginner Artificer",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -1925,7 +1930,7 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -2029,7 +2034,7 @@
       "Name": "Storm Traveller",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -2093,7 +2098,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2101,7 +2106,7 @@
       "Name": "Flower Thief",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -2109,7 +2114,7 @@
       "Name": "Apostle of Flame",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -2125,14 +2130,14 @@
       "Name": "Handyman",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 555,
+      "Progressed": 556,
       "Completed": 1
     }
   ],
@@ -2140,8 +2145,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-06T00:08:22.9937953+00:00",
+  "LastChanged_Achievements": "2023-12-06T01:57:01.5376334+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.7212859+00:00",
-  "LastUpdate_Ratings": "2023-12-06T00:02:40.7551879+00:00",
-  "LastUpdate_Achievements": "2023-12-06T00:08:22.9938321+00:00"
+  "LastUpdate_Ratings": "2023-12-06T01:50:50.2150177+00:00",
+  "LastUpdate_Achievements": "2023-12-06T01:57:01.5376889+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "078713096df541f58f5fc4032efeeb2d",
   "Name": "Creepy Tale 3 - Ingrid Penance",
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
-  "Ranking_EOS_Progress": 567,
+  "Ranking_EOS_Progress": 568,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 387,
   "Ranking_EOS_NewCompleters": 125,
@@ -142,9 +142,9 @@
       "ID": "creepytale3_ach_10",
       "SetID": "7idcjbn",
       "Name": "Naughty girl",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "creepytale3_ach_11",
@@ -222,9 +222,9 @@
       "ID": "creepytale3_ach_21",
       "SetID": "7idcjbn",
       "Name": "Larva",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "creepytale3_ach_22",
@@ -405,8 +405,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-12-06T00:03:07.4400938+00:00",
+  "LastChanged_Achievements": "2023-12-06T01:51:31.2467479+00:00",
   "LastUpdate_AppInfo": "2023-11-29T05:57:16.1514694+00:00",
-  "LastUpdate_Ratings": "2023-12-05T23:58:06.9028198+00:00",
-  "LastUpdate_Achievements": "2023-12-06T00:03:07.440121+00:00"
+  "LastUpdate_Ratings": "2023-12-06T01:46:42.6161315+00:00",
+  "LastUpdate_Achievements": "2023-12-06T01:51:31.2467727+00:00"
 }

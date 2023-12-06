@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2342,
+  "EOS_Progressed": 2343,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6522,6 +6522,11 @@
       "Time": "2023-12-05T20:04:46.8945068+00:00",
       "NumProgressed": 2342,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T01:53:31.648391+00:00",
+      "NumProgressed": 2343,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -6533,7 +6538,7 @@
       "Name": "Apprentice",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "A01",
@@ -6629,7 +6634,7 @@
       "Name": "Departure",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1733
+      "UsersEstimate": 1734
     },
     {
       "ID": "A13",
@@ -6645,7 +6650,7 @@
       "Name": "A new Journey",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1756
+      "UsersEstimate": 1757
     },
     {
       "ID": "A15",
@@ -6653,7 +6658,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "A16",
@@ -6693,7 +6698,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "A21",
@@ -6805,7 +6810,7 @@
       "Name": "Producer",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1194
+      "UsersEstimate": 1195
     },
     {
       "ID": "A35",
@@ -6821,7 +6826,7 @@
       "Name": "Way of Iron",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1640
     },
     {
       "ID": "A37",
@@ -6829,7 +6834,7 @@
       "Name": "All around the World",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 1475
+      "UsersEstimate": 1476
     },
     {
       "ID": "A38",
@@ -6853,7 +6858,7 @@
       "Name": "Mind the Gap",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "A41",
@@ -6861,7 +6866,7 @@
       "Name": "Right through the middle",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "A42",
@@ -6901,7 +6906,7 @@
       "Name": "Mystery Tour",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1617
     },
     {
       "ID": "A47",
@@ -6917,7 +6922,7 @@
       "Name": "Bull and bear",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "A49",
@@ -6972,7 +6977,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2342,
+      "Progressed": 2343,
       "Completed": 0
     }
   ],
@@ -6980,8 +6985,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-11-30T04:58:15.2610006+00:00",
-  "LastChanged_Achievements": "2023-12-06T00:04:35.8043941+00:00",
+  "LastChanged_Achievements": "2023-12-06T01:53:31.6483907+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:13.3452501+00:00",
-  "LastUpdate_Ratings": "2023-12-05T23:57:07.6587785+00:00",
-  "LastUpdate_Achievements": "2023-12-06T00:04:35.8044645+00:00"
+  "LastUpdate_Ratings": "2023-12-06T01:45:19.1556519+00:00",
+  "LastUpdate_Achievements": "2023-12-06T01:53:31.6484685+00:00"
 }

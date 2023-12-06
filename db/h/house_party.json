@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6549,
+  "EOS_Progressed": 6550,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6607,6 +6607,11 @@
       "Time": "2023-12-05T22:03:45.2252748+00:00",
       "NumProgressed": 6549,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-06T01:52:21.2674953+00:00",
+      "NumProgressed": 6550,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -6626,7 +6631,7 @@
       "Name": "Amy",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Amy_Scav",
@@ -6738,7 +6743,7 @@
       "Name": "Drunk and Disorderly: Ashley",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "DnD_Madison",
@@ -6850,7 +6855,7 @@
       "Name": "IRL Let\u0027s Player",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "IceBath",
@@ -6866,7 +6871,7 @@
       "Name": "Inspector",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ItSmellsLikeRoses",
@@ -6914,7 +6919,7 @@
       "Name": "Newcomer: Vickie",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "NoticeMe",
@@ -6986,7 +6991,7 @@
       "Name": "Smooth Operator: Madison",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "SmellBlood",
@@ -7002,7 +7007,7 @@
       "Name": "Social Butterfly",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Stephanie",
@@ -7058,7 +7063,7 @@
       "Name": "The Muse: Madison",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ThatsANiceBush",
@@ -7169,21 +7174,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3588,
+      "Progressed": 3589,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6549,
+      "Progressed": 6550,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-12-06T00:03:43.9899752+00:00",
+  "LastChanged_Achievements": "2023-12-06T01:52:21.267495+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:30.2286375+00:00",
-  "LastUpdate_Ratings": "2023-12-05T23:58:09.0579655+00:00",
-  "LastUpdate_Achievements": "2023-12-06T00:03:43.9900648+00:00"
+  "LastUpdate_Ratings": "2023-12-06T01:46:45.1188331+00:00",
+  "LastUpdate_Achievements": "2023-12-06T01:52:21.2675629+00:00"
 }

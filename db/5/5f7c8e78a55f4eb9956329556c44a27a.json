@@ -4,7 +4,7 @@
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
@@ -755,9 +755,9 @@
       "ID": "TINGWD_CARMACK",
       "SetID": "c0imaa6",
       "Name": "Carmack junior",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TINGWD_CHAP_END_01",
@@ -771,9 +771,9 @@
       "ID": "TINGWD_CHAP_END_02",
       "SetID": "c0imaa6",
       "Name": "A soundly led quest",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "TINGWD_CHAP_END_03",
@@ -795,9 +795,9 @@
       "ID": "TINGWD_CHAP_END_05",
       "SetID": "c0imaa6",
       "Name": "It\u0027s not over yet",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "TINGWD_CHAP_END_06",
@@ -883,9 +883,9 @@
       "ID": "TINGWD_OUTBOX",
       "SetID": "c0imaa6",
       "Name": "Outside the box",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "TINGWD_PERPETUITY",
@@ -978,8 +978,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-12-06T00:05:39.8961285+00:00",
+  "LastChanged_Achievements": "2023-12-06T01:54:58.2013078+00:00",
   "LastUpdate_AppInfo": "2023-12-04T20:57:13.2165924+00:00",
-  "LastUpdate_Ratings": "2023-12-05T23:57:13.5937186+00:00",
-  "LastUpdate_Achievements": "2023-12-06T00:05:39.8961562+00:00"
+  "LastUpdate_Ratings": "2023-12-06T01:45:27.8695134+00:00",
+  "LastUpdate_Achievements": "2023-12-06T01:54:58.2013318+00:00"
 }

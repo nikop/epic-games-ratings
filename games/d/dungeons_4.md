@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | The Last Stand | 89.00% | ~470 |
 | Thalya – Simply Immortal | 89.00% | ~470 |
-| For the Horde! | 82.00% | ~433 |
+| For the Horde! | 83.00% | ~438 |
 | Hammer Time, Round Two | 81.00% | ~428 |
 | The Hellwoods | 76.00% | ~401 |
 | Experienced Thalya | 72.00% | ~380 |
@@ -19,7 +19,7 @@
 | Magic Accidents | 59.00% | ~312 |
 | The Ascent | 57.00% | ~301 |
 | It's Warm and Cozy at Home | 57.00% | ~301 |
-| Trap Master | 55.00% | ~290 |
+| Trap Master | 56.00% | ~296 |
 | Minions, Minions! | 54.00% | ~285 |
 | Hard Work | 51.00% | ~269 |
 | The Big Eaty | 51.00% | ~269 |
@@ -54,10 +54,10 @@
 | The Rune Sockets of Finitude (Part 2) | 16.00% | ~84 |
 | Lavalumps on Ice! | 15.00% | ~79 |
 | The Last Stand - This Time For Real! | 14.00% | ~74 |
+| To the Max! | 13.00% | ~69 |
 | To Infinity And Beyond! | 13.00% | ~69 |
 | Mirror, Mirror | 12.00% | ~63 |
 | Untouchable | 12.00% | ~63 |
-| To the Max! | 12.00% | ~63 |
 | Evilification | 11.00% | ~58 |
 | Laser Eyes Are So Useless | 9.00% | ~48 |
 | Heal Heal Blessing | 9.00% | ~48 |

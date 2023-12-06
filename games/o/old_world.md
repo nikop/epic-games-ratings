@@ -10,10 +10,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 7.00% | ~1,096 |
 | Explorer | 6.00% | ~939 |
 | Friendly Family | 6.00% | ~939 |
-| Able | 5.00% | ~782 |
-| Architect | 5.00% | ~782 |
-| Intrepid | 5.00% | ~782 |
-| Hanging Gardens | 5.00% | ~782 |
+| Able | 5.00% | ~783 |
+| Architect | 5.00% | ~783 |
+| Intrepid | 5.00% | ~783 |
+| Hanging Gardens | 5.00% | ~783 |
 | Ambitious | 4.00% | ~626 |
 | Enlightened | 4.00% | ~626 |
 | Glorious | 4.00% | ~626 |
@@ -91,47 +91,47 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Clergy | 2.00% | ~313 |
 | Kushite Pyramids | 2.00% | ~313 |
 | Kushite Paganism | 2.00% | ~313 |
-| Bad Heir Day | 1.00% | ~156 |
-| Capable | 1.00% | ~156 |
-| Devout | 1.00% | ~156 |
-| Ready | 1.00% | ~156 |
-| Subjugator | 1.00% | ~156 |
-| Strong Difficulty | 1.00% | ~156 |
-| Clerics | 1.00% | ~156 |
-| Hunters | 1.00% | ~156 |
-| Landowners | 1.00% | ~156 |
-| Statesmen | 1.00% | ~156 |
-| Traders | 1.00% | ~156 |
-| Hittite Iron | 1.00% | ~156 |
-| Circus Maximus | 1.00% | ~156 |
-| Hagia Sophia | 1.00% | ~156 |
-| Church of the Holy Sepulchre | 1.00% | ~156 |
-| Pantheon | 1.00% | ~156 |
-| Via Recta Souk | 1.00% | ~156 |
-| Learn to Play 4 | 1.00% | ~156 |
-| Babylonia | 1.00% | ~156 |
-| Carthage | 1.00% | ~156 |
-| Egypt | 1.00% | ~156 |
-| One True Faith | 1.00% | ~156 |
-| Assyrian Paganism | 1.00% | ~156 |
-| Economic Reform | 1.00% | ~156 |
-| Industrial Progress | 1.00% | ~156 |
-| Military Prestige | 1.00% | ~156 |
-| Dualism | 1.00% | ~156 |
-| Enlightenment | 1.00% | ~156 |
-| Gnosticism | 1.00% | ~156 |
-| Legalism | 1.00% | ~156 |
-| Redemption | 1.00% | ~156 |
-| Revelation | 1.00% | ~156 |
-| Veneration | 1.00% | ~156 |
-| Cimmerian Archer | 1.00% | ~156 |
-| Mounted Lancer | 1.00% | ~156 |
-| Legionary | 1.00% | ~156 |
-| Phalangite | 1.00% | ~156 |
-| Ambition Victory | 1.00% | ~156 |
+| Bad Heir Day | 1.00% | ~157 |
+| Capable | 1.00% | ~157 |
+| Devout | 1.00% | ~157 |
+| Ready | 1.00% | ~157 |
+| Subjugator | 1.00% | ~157 |
+| Strong Difficulty | 1.00% | ~157 |
+| Clerics | 1.00% | ~157 |
+| Hunters | 1.00% | ~157 |
+| Landowners | 1.00% | ~157 |
+| Statesmen | 1.00% | ~157 |
+| Traders | 1.00% | ~157 |
+| Hittite Iron | 1.00% | ~157 |
+| Circus Maximus | 1.00% | ~157 |
+| Hagia Sophia | 1.00% | ~157 |
+| Church of the Holy Sepulchre | 1.00% | ~157 |
+| Pantheon | 1.00% | ~157 |
+| Via Recta Souk | 1.00% | ~157 |
+| Learn to Play 4 | 1.00% | ~157 |
+| Babylonia | 1.00% | ~157 |
+| Carthage | 1.00% | ~157 |
+| Egypt | 1.00% | ~157 |
+| One True Faith | 1.00% | ~157 |
+| Assyrian Paganism | 1.00% | ~157 |
+| Economic Reform | 1.00% | ~157 |
+| Industrial Progress | 1.00% | ~157 |
+| Military Prestige | 1.00% | ~157 |
+| Dualism | 1.00% | ~157 |
+| Enlightenment | 1.00% | ~157 |
+| Gnosticism | 1.00% | ~157 |
+| Legalism | 1.00% | ~157 |
+| Redemption | 1.00% | ~157 |
+| Revelation | 1.00% | ~157 |
+| Veneration | 1.00% | ~157 |
+| Cimmerian Archer | 1.00% | ~157 |
+| Mounted Lancer | 1.00% | ~157 |
+| Legionary | 1.00% | ~157 |
+| Phalangite | 1.00% | ~157 |
+| Turreted Elephant | 1.00% | ~157 |
+| Ambition Victory | 1.00% | ~157 |
 | Rome | 0.90% | ~141 |
 | Hittite Paganism | 0.90% | ~141 |
-| Turreted Elephant | 0.90% | ~141 |
 | All Nations | 0.90% | ~141 |
 | Poetic Leader | 0.90% | ~141 |
 | Peacemaker | 0.80% | ~125 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,650 (Ranked 152)  
+Progressed: 15,651 (Ranked 152)  
 Completed: 5 (0.03%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -579,7 +579,7 @@ Completed: 5 (0.03%) (Ranked 331)
 | 2023-12-03 | 15,619 | 5 |
 | 2023-12-04 | 15,638 | 5 |
 | 2023-12-05 | 15,649 | 5 |
-| 2023-12-06 | 15,650 | 5 |
+| 2023-12-06 | 15,651 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 274)  
 Sum: 1,889 (Ranked 220)  

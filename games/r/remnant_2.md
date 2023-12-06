@@ -5,7 +5,7 @@ Rating: 4.75 (Ranked 147)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 0.80% | ~1,884 |
+| The Killing Jar | 0.80% | ~1,885 |
 | Regicide | 0.80% | ~118 |
 | First of Many | 0.70% | ~1,649 |
 | Master of the Dark Arts | 0.70% | ~103 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 147)
 | You Shall Pass | 0.20% | ~29 |
 | A Foul Feast | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,549 (Ranked 68)  
+Progressed: 235,581 (Ranked 68)  
 Completed: 561 (0.24%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,10 +204,10 @@ Completed: 561 (0.24%) (Ranked 251)
 | 2023-12-03 | 234,204 | 554 |
 | 2023-12-04 | 234,896 | 558 |
 | 2023-12-05 | 235,528 | 561 |
-| 2023-12-06 | 235,549 | 561 |
+| 2023-12-06 | 235,581 | 561 |
 ## Awards
 Max (Great Boss Battles): 2,649  (Ranked 102)  
-Sum: 6,547 (Ranked 127)  
+Sum: 6,550 (Ranked 127)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
@@ -220,7 +220,7 @@ Diff (max vs sum): -25
 | This game is Relaxing | 403 |
 | This game has Amazing Characters | 395 |
 | This game has Quickly Understood Controls | 389 |
-| This game has Unique Visuals | 337 |
+| This game has Unique Visuals | 340 |
 | This game has a Creative Community | 292 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -358,3 +358,4 @@ Diff (max vs sum): -25
 | 2023-12-03 | 4.75 | 2,603 | 6,405 |
 | 2023-12-04 | 4.75 | 2,623 | 6,481 |
 | 2023-12-05 | 4.75 | 2,649 | 6,547 |
+| 2023-12-06 | 4.75 | 2,649 | 6,550 |

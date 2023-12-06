@@ -15,7 +15,7 @@
 | Bladesmith | 8.00% | ~8 |
 | The Guardian of Fire | 7.00% | ~7 |
 | Explorer | 6.00% | ~6 |
-| Sovereignty of Irons | 5.00% | ~5 |
+| Sovereignty of Irons | 6.00% | ~6 |
 | A Sandwyrm's Hoard | 5.00% | ~5 |
 | Twin Thorns | 5.00% | ~5 |
 | Sommelier | 4.00% | ~4 |

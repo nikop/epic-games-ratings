@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -1990,9 +1990,9 @@
       "ID": "CompleteChapter5",
       "SetID": "52ail55",
       "Name": "Breathing Easy",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 219
     },
     {
       "ID": "CompleteChapter6",
@@ -2070,9 +2070,9 @@
       "ID": "Defeat250Units",
       "SetID": "52ail55",
       "Name": "Feeding Shyish",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 312
+      "UsersEstimate": 321
     },
     {
       "ID": "Win100OnlineMatched",
@@ -2125,8 +2125,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-06T00:06:25.2204389+00:00",
+  "LastChanged_Achievements": "2023-12-06T01:56:39.331473+00:00",
   "LastUpdate_AppInfo": "2023-12-01T08:57:09.4303292+00:00",
-  "LastUpdate_Ratings": "2023-12-06T00:02:29.2449288+00:00",
-  "LastUpdate_Achievements": "2023-12-06T00:06:25.2204739+00:00"
+  "LastUpdate_Ratings": "2023-12-06T01:50:33.7295764+00:00",
+  "LastUpdate_Achievements": "2023-12-06T01:56:39.3315161+00:00"
 }

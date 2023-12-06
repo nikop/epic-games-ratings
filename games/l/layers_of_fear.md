@@ -57,7 +57,7 @@
 | Once Upon a Time | 0.00% | ~0 |
 | Rocket Science | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 104 (Ranked 435)  
+Progressed: 104 (Ranked 436)  
 Completed: 0 (0.00%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
