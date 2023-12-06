@@ -23,9 +23,9 @@ Rating: 4.76 (Ranked 130)
 | Rising From the Ashes | 10.00% | ~30,402 |
 | A Sallow Grave | 9.00% | ~27,362 |
 | The Spell Master | 9.00% | ~27,362 |
-| The Avenging Gazelle | 8.00% | ~24,321 |
-| Beast Friends | 8.00% | ~24,321 |
-| Flight the Good Flight | 8.00% | ~24,321 |
+| The Avenging Gazelle | 8.00% | ~24,322 |
+| Beast Friends | 8.00% | ~24,322 |
+| Flight the Good Flight | 8.00% | ~24,322 |
 | Raising Expectations | 7.00% | ~21,281 |
 | The Seeker of Knowledge | 6.00% | ~18,241 |
 | The Root of the Problem | 6.00% | ~18,241 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 130)
 | The Nature of the Beast | 0.70% | ~2,128 |
 | Collector's Edition | 0.30% | ~912 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304,018 (Ranked 54)  
+Progressed: 304,019 (Ranked 54)  
 Completed: 523 (0.17%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 523 (0.17%) (Ranked 270)
 | 2023-12-03 | 303,892 | 521 |
 | 2023-12-04 | 303,943 | 521 |
 | 2023-12-05 | 303,976 | 521 |
-| 2023-12-06 | 304,018 | 523 |
+| 2023-12-06 | 304,019 | 523 |
 ## Awards
 Max (Character Customization): 24,977  (Ranked 17)  
 Sum: 50,057 (Ranked 30)  

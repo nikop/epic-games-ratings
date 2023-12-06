@@ -21,7 +21,7 @@
 | My Darkest Day | 50.00% | ~542 |
 | Rhythm Of Willump | 47.00% | ~510 |
 | The Relentless Storm | 47.00% | ~510 |
-| A Tragic Reminder | 45.00% | ~488 |
+| A Tragic Reminder | 46.00% | ~499 |
 | 3000 Year Blackout | 45.00% | ~488 |
 | The Finisher | 43.00% | ~467 |
 | So Close | 42.00% | ~456 |

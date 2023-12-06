@@ -20,7 +20,7 @@ Rating: 4.54 (Ranked 529)
 | Personal Assistant Personally Assisted | 2.00% | ~14,622 |
 | This is My Weapon | 2.00% | ~14,622 |
 | Welcome To Hell-A | 2.00% | ~14,622 |
-| One of Us | 2.00% | ~1,132 |
+| One of Us | 2.00% | ~1,133 |
 | Making Your Mark | 1.00% | ~7,311 |
 | Anger Management | 1.00% | ~7,311 |
 | Perks of the Job | 1.00% | ~7,311 |
@@ -37,27 +37,27 @@ Rating: 4.54 (Ranked 529)
 | Max Headroom | 1.00% | ~7,311 |
 | Our True Nature | 1.00% | ~7,311 |
 | Down with the Sickness | 0.90% | ~6,580 |
+| Not Even My Final Form | 0.80% | ~5,849 |
 | Jumbo Keyring | 0.80% | ~5,849 |
 | Go, Bobcats! | 0.80% | ~5,849 |
 | Rising Star | 0.80% | ~5,849 |
-| Not Even My Final Form | 0.70% | ~5,118 |
-| On Safari | 0.60% | ~4,386 |
-| Smorgasbord | 0.60% | ~4,386 |
-| Internet Famous | 0.60% | ~4,386 |
-| Variety is the Spice of Death | 0.60% | ~4,386 |
-| Make it So | 0.50% | ~3,655 |
+| On Safari | 0.60% | ~4,387 |
+| Smorgasbord | 0.60% | ~4,387 |
+| Internet Famous | 0.60% | ~4,387 |
+| Variety is the Spice of Death | 0.60% | ~4,387 |
+| Make it So | 0.50% | ~3,656 |
 | LA Influential | 0.40% | ~2,924 |
 | Sole Survivor | 0.40% | ~2,924 |
 | Gore Horse | 0.40% | ~2,924 |
 | Sharpest Tool in the Box | 0.40% | ~2,924 |
-| Top That, Tisha! | 0.40% | ~226 |
+| Top That, Tisha! | 0.40% | ~227 |
 | Survival Skills | 0.20% | ~1,462 |
 | Lawn and Order | 0.20% | ~113 |
 | Donk! | 0.10% | ~731 |
 | Bucket List | 0.10% | ~731 |
 | Wilhelm | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731,081 (Ranked 21)  
+Progressed: 731,101 (Ranked 21)  
 Completed: 2,465 (0.34%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,17 +287,17 @@ Completed: 2,465 (0.34%) (Ranked 233)
 | 2023-12-03 | 729,822 | 2,461 |
 | 2023-12-04 | 730,272 | 2,463 |
 | 2023-12-05 | 730,673 | 2,465 |
-| 2023-12-06 | 731,081 | 2,465 |
+| 2023-12-06 | 731,101 | 2,465 |
 ## Awards
 Max (Great Boss Battles): 7,968  (Ranked 49)  
-Sum: 12,238 (Ranked 82)  
+Sum: 12,240 (Ranked 82)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,968 |
 | This game is Great for Beginners | 618 |
 | This game has Diverse Characters | 587 |
-| This game has Quickly Understood Controls | 553 |
+| This game has Quickly Understood Controls | 555 |
 | This game is Relaxing | 530 |
 | This game has Amazing Storytelling | 514 |
 | This game is Extremely Fun | 506 |
@@ -535,4 +535,4 @@ Diff (max vs sum): -33
 | 2023-12-03 | 4.54 | 7,892 | 12,110 |
 | 2023-12-04 | 4.54 | 7,915 | 12,148 |
 | 2023-12-05 | 4.54 | 7,943 | 12,192 |
-| 2023-12-06 | 4.54 | 7,968 | 12,238 |
+| 2023-12-06 | 4.54 | 7,968 | 12,240 |

@@ -5,15 +5,15 @@ Rating: 4.05 (Ranked 992)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,865 |
-| World Map | 78.00% | ~2,403 |
-| Temple of Eternals | 57.00% | ~1,756 |
+| Victor | 93.00% | ~2,866 |
+| World Map | 78.00% | ~2,404 |
+| Temple of Eternals | 57.00% | ~1,757 |
 | Prestigious | 53.00% | ~1,633 |
 | Fellowship Power | 42.00% | ~1,294 |
-| Guild Power | 24.00% | ~739 |
+| Guild Power | 24.00% | ~740 |
 | Prestigious x10 | 21.00% | ~647 |
 | Full Party | 20.00% | ~616 |
-| The game is on | 19.00% | ~585 |
+| The game is on | 19.00% | ~586 |
 | Exotic Merchant | 17.00% | ~524 |
 | Dragon Clicker | 16.00% | ~493 |
 | Inspection | 15.00% | ~462 |
@@ -35,10 +35,10 @@ Rating: 4.05 (Ranked 992)
 | Mastery | 9.00% | ~277 |
 | Scroll Master | 9.00% | ~277 |
 | The power of Awakening | 9.00% | ~277 |
-| Four Leaf Clover | 8.00% | ~246 |
-| Frostfire Liberator | 8.00% | ~246 |
-| Moving Up The Ladder | 8.00% | ~246 |
-| Relic Of The Past | 8.00% | ~246 |
+| Four Leaf Clover | 8.00% | ~247 |
+| Frostfire Liberator | 8.00% | ~247 |
+| Moving Up The Ladder | 8.00% | ~247 |
+| Relic Of The Past | 8.00% | ~247 |
 | Here We Go Again | 7.00% | ~216 |
 | Master Enchanter | 7.00% | ~216 |
 | The father of Dragons | 7.00% | ~216 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 992)
 | Jewel Enchanting | 0.20% | ~6 |
 | War Machines Army | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,081 (Ranked 212)  
+Progressed: 3,082 (Ranked 212)  
 Completed: 2 (0.06%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,16 +306,16 @@ Completed: 2 (0.06%) (Ranked 313)
 | 2023-12-03 | 3,010 | 2 |
 | 2023-12-04 | 3,038 | 2 |
 | 2023-12-05 | 3,056 | 2 |
-| 2023-12-06 | 3,081 | 2 |
+| 2023-12-06 | 3,082 | 2 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 477)  
-Sum: 157 (Ranked 427)  
+Sum: 158 (Ranked 427)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |
 | This game is Great for Quick Sessions | 31 |
-| This game has Diverse Characters | 25 |
+| This game has Diverse Characters | 26 |
 | This game has Playful Visuals | 25 |
 | This game is Highly Recommended | 20 |
 | This game has a Kind Community | 20 |
@@ -391,3 +391,4 @@ Diff (max vs sum): 50
 | 2023-12-01 | 4.03 | 35 | 135 |
 | 2023-12-03 | 4.05 | 36 | 137 |
 | 2023-12-04 | 4.05 | 36 | 157 |
+| 2023-12-06 | 4.05 | 36 | 158 |

@@ -2,12 +2,12 @@
   "ID": "d3cd5da88f95469fb834c7eb7382a1fc",
   "Name": "To The Rescue",
   "ProductSlug": "to-the-rescue-a6c254",
-  "Ranking_Rating": 1035,
+  "Ranking_Rating": 1036,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
-  "Ranking_EOS_Progress": 785,
+  "Ranking_EOS_Progress": 786,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewPlayers": 466,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-11-02T12:00:00+00:00",
@@ -71,6 +71,6 @@
   "FirstSeenRating": "2023-03-31T05:58:42.126936+00:00",
   "LastChanged": "2023-10-12T11:57:31.2950117+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:39.0505986+00:00",
-  "LastUpdate_Ratings": "2023-12-06T21:58:03.553881+00:00",
-  "LastUpdate_Achievements": "2023-12-06T22:03:11.9913122+00:00"
+  "LastUpdate_Ratings": "2023-12-06T22:58:18.4196322+00:00",
+  "LastUpdate_Achievements": "2023-12-06T23:03:27.4216762+00:00"
 }

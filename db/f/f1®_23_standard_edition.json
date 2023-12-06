@@ -771,9 +771,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6049,
+  "EOS_Progressed": 6050,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6906,6 +6906,11 @@
       "Time": "2023-12-06T22:05:01.6339641+00:00",
       "NumProgressed": 6049,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T23:05:41.5262352+00:00",
+      "NumProgressed": 6050,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -6958,7 +6963,7 @@
       "Name": "Setting up for Success",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4718
+      "UsersEstimate": 4719
     },
     {
       "ID": "achievement_0007",
@@ -6966,15 +6971,15 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 5686
+      "UsersEstimate": 5687
     },
     {
       "ID": "achievement_0008",
       "SetID": "9123ogc",
       "Name": "On the Top Step",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 5384
+      "UsersEstimate": 5324
     },
     {
       "ID": "achievement_0009",
@@ -7006,7 +7011,7 @@
       "Name": "Seasoned Rookie",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "achievement_0013",
@@ -7030,7 +7035,7 @@
       "Name": "Lightning Round the World",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 907
+      "UsersEstimate": 908
     },
     {
       "ID": "achievement_0016",
@@ -7070,7 +7075,7 @@
       "Name": "For all Those Back at the Factory",
       "Percentage": 7,
       "XP": 75,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "achievement_0021",
@@ -7078,7 +7083,7 @@
       "Name": "Team Orders",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 4597
+      "UsersEstimate": 4598
     },
     {
       "ID": "achievement_0022",
@@ -7086,7 +7091,7 @@
       "Name": "A Dozen Pieces",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2117
+      "UsersEstimate": 2118
     },
     {
       "ID": "achievement_0023",
@@ -7110,7 +7115,7 @@
       "Name": "Wait, I know you?",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "achievement_0026",
@@ -7174,7 +7179,7 @@
       "Name": "Engineer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 3387
+      "UsersEstimate": 3388
     },
     {
       "ID": "achievement_0034",
@@ -7190,7 +7195,7 @@
       "Name": "Living up to Expectations",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "achievement_0036",
@@ -7222,7 +7227,7 @@
       "Name": "Smooth Operator",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "achievement_0040",
@@ -7238,7 +7243,7 @@
       "Name": "Filling in the Gaps",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "achievement_0042",
@@ -7262,7 +7267,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 2601
+      "UsersEstimate": 2602
     },
     {
       "ID": "achievement_0045",
@@ -7309,7 +7314,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 6049,
+      "Progressed": 6050,
       "Completed": 0
     }
   ],
@@ -7317,8 +7322,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-12-05T18:58:42.6618407+00:00",
-  "LastChanged_Achievements": "2023-12-06T22:05:01.6339638+00:00",
+  "LastChanged_Achievements": "2023-12-06T23:05:41.5262346+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:30.4962244+00:00",
-  "LastUpdate_Ratings": "2023-12-06T21:58:52.0443717+00:00",
-  "LastUpdate_Achievements": "2023-12-06T22:05:01.6340662+00:00"
+  "LastUpdate_Ratings": "2023-12-06T22:59:18.6252527+00:00",
+  "LastUpdate_Achievements": "2023-12-06T23:05:41.5263536+00:00"
 }

@@ -15,7 +15,7 @@
 | Memory Rouser | 64.00% | ~232 |
 | Subsistence Skills | 64.00% | ~232 |
 | Kemono Hunter | 59.00% | ~214 |
-| Expert Conjuror | 56.00% | ~203 |
+| Expert Conjuror | 57.00% | ~206 |
 | Flawless Crystal | 54.00% | ~195 |
 | Bonds of Enmity | 53.00% | ~192 |
 | Distance Devourer | 52.00% | ~188 |

@@ -2,9 +2,9 @@
   "ID": "ddc07fbe88ba4c719c9f536cb5109d1f",
   "Name": "The Mystery Of Woolley Mountain",
   "ProductSlug": "the-mystery-of-woolley-mountaain-6a1960",
-  "Ranking_EOS_Progress": 785,
+  "Ranking_EOS_Progress": 786,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewPlayers": 466,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-05-26T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-06T13:12:11.2765526+00:00",
-  "LastChanged_Achievements": "2023-12-06T22:08:05.7568381+00:00",
+  "LastChanged_Achievements": "2023-12-06T23:07:57.6140392+00:00",
   "LastUpdate_AppInfo": "2023-12-02T02:15:26.1132963+00:00",
-  "LastUpdate_Ratings": "2023-12-06T21:58:24.3580572+00:00",
-  "LastUpdate_Achievements": "2023-12-06T22:08:05.7568398+00:00"
+  "LastUpdate_Ratings": "2023-12-06T22:58:43.3796502+00:00",
+  "LastUpdate_Achievements": "2023-12-06T23:07:57.6140423+00:00"
 }

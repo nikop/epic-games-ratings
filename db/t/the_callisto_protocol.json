@@ -1583,7 +1583,7 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 16514,
+  "EOS_Progressed": 16515,
   "EOS_Completed": 81,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
@@ -9418,6 +9418,11 @@
       "Time": "2023-12-06T01:57:15.574671+00:00",
       "NumProgressed": 16514,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-12-06T23:08:31.7193902+00:00",
+      "NumProgressed": 16515,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 47,
@@ -9533,7 +9538,7 @@
       "Name": "Get a Grip",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1651
+      "UsersEstimate": 1652
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -9804,13 +9809,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16514,
+      "Progressed": 16515,
       "Completed": 81
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4440,
+      "Progressed": 4441,
       "Completed": 29
     }
   ],
@@ -9818,8 +9823,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-06T09:02:47.3119849+00:00",
-  "LastChanged_Achievements": "2023-12-06T22:08:33.8465938+00:00",
+  "LastChanged_Achievements": "2023-12-06T23:08:31.7193897+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:15.6187637+00:00",
-  "LastUpdate_Ratings": "2023-12-06T22:02:59.9293101+00:00",
-  "LastUpdate_Achievements": "2023-12-06T22:08:33.8466661+00:00"
+  "LastUpdate_Ratings": "2023-12-06T23:03:10.9650812+00:00",
+  "LastUpdate_Achievements": "2023-12-06T23:08:31.7194744+00:00"
 }

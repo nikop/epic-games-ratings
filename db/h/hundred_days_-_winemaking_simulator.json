@@ -1075,9 +1075,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 15068,
+  "EOS_Progressed": 15072,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 889,
+  "EOS_NewPlayers": 887,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -12650,6 +12650,11 @@
       "Time": "2023-12-06T22:08:58.2970393+00:00",
       "NumProgressed": 15068,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-06T23:09:00.7958476+00:00",
+      "NumProgressed": 15072,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -12710,7 +12715,7 @@
       "Name": "Bye Bye",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 6329
+      "UsersEstimate": 6330
     },
     {
       "ID": "a_19",
@@ -12718,7 +12723,7 @@
       "Name": "Bonjour!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "a_2",
@@ -12726,7 +12731,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "a_20",
@@ -12766,7 +12771,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "a_26",
@@ -12870,7 +12875,7 @@
       "Name": "Treasure of Roero",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "a_6",
@@ -12909,7 +12914,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 15068,
+      "Progressed": 15072,
       "Completed": 12
     }
   ],
@@ -12917,8 +12922,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-27T12:03:17.4706024+00:00",
-  "LastChanged_Achievements": "2023-12-06T22:08:58.2970389+00:00",
+  "LastChanged_Achievements": "2023-12-06T23:09:00.7958471+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:18.6853909+00:00",
-  "LastUpdate_Ratings": "2023-12-06T22:02:58.2248725+00:00",
-  "LastUpdate_Achievements": "2023-12-06T22:08:58.29711+00:00"
+  "LastUpdate_Ratings": "2023-12-06T23:03:09.3659626+00:00",
+  "LastUpdate_Achievements": "2023-12-06T23:09:00.7959289+00:00"
 }

@@ -943,9 +943,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 6749,
+  "EOS_Progressed": 6750,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10813,6 +10813,11 @@
       "Time": "2023-12-06T18:03:57.4295355+00:00",
       "NumProgressed": 6749,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T23:04:14.9414939+00:00",
+      "NumProgressed": 6750,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -10824,7 +10829,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -10896,7 +10901,7 @@
       "Name": "License to Gill",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -10984,7 +10989,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -11143,13 +11148,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6749,
+      "Progressed": 6750,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6121,
+      "Progressed": 6122,
       "Completed": 113
     }
   ],
@@ -11157,8 +11162,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-05T17:00:00.1700867+00:00",
-  "LastChanged_Achievements": "2023-12-06T22:03:50.8544102+00:00",
+  "LastChanged_Achievements": "2023-12-06T23:04:14.9414935+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:39.2782918+00:00",
-  "LastUpdate_Ratings": "2023-12-06T22:00:28.2172263+00:00",
-  "LastUpdate_Achievements": "2023-12-06T22:03:50.8544846+00:00"
+  "LastUpdate_Ratings": "2023-12-06T23:01:20.9838437+00:00",
+  "LastUpdate_Achievements": "2023-12-06T23:04:14.9415606+00:00"
 }

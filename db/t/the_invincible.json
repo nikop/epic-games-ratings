@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 523,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1668,9 +1668,9 @@
       "ID": "AchvReachBase",
       "SetID": "1hj060c",
       "Name": "The field base",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 209
     },
     {
       "ID": "AchvReachCamp",
@@ -1700,9 +1700,9 @@
       "ID": "AchvSurvivors",
       "SetID": "1hj060c",
       "Name": "Survivors",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 178
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -1739,8 +1739,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-06T22:08:46.9058369+00:00",
+  "LastChanged_Achievements": "2023-12-06T23:08:47.0900162+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:58.6526822+00:00",
-  "LastUpdate_Ratings": "2023-12-06T21:58:57.9147474+00:00",
-  "LastUpdate_Achievements": "2023-12-06T22:08:46.9058601+00:00"
+  "LastUpdate_Ratings": "2023-12-06T22:59:25.8836887+00:00",
+  "LastUpdate_Achievements": "2023-12-06T23:08:47.0900452+00:00"
 }

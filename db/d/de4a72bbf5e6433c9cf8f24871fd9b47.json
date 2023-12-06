@@ -2,9 +2,9 @@
   "ID": "de4a72bbf5e6433c9cf8f24871fd9b47",
   "Name": "Littlelands",
   "ProductSlug": "littlelands-7774b6",
-  "Ranking_EOS_Progress": 785,
+  "Ranking_EOS_Progress": 786,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewPlayers": 466,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-30T23:57:07.2602121+00:00",
-  "LastUpdate_Ratings": "2023-12-06T22:00:16.0053223+00:00",
-  "LastUpdate_Achievements": "2023-12-06T22:03:24.3606139+00:00"
+  "LastUpdate_Ratings": "2023-12-06T23:01:05.3333324+00:00",
+  "LastUpdate_Achievements": "2023-12-06T23:03:42.4666053+00:00"
 }

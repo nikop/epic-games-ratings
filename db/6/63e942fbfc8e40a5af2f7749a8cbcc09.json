@@ -2,9 +2,9 @@
   "ID": "63e942fbfc8e40a5af2f7749a8cbcc09",
   "Name": "Last Labyrinth",
   "ProductSlug": "last-labyrinth-5aed27",
-  "Ranking_EOS_Progress": 562,
+  "Ranking_EOS_Progress": 556,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-06-21T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21,
+  "EOS_Progressed": 22,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -134,6 +134,11 @@
       "Time": "2023-11-23T11:04:36.5367422+00:00",
       "NumProgressed": 21,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T23:03:39.7561468+00:00",
+      "NumProgressed": 22,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -167,15 +172,15 @@
       "ID": "ClearA01",
       "SetID": "94lmepd",
       "Name": "The Beginning of the End",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ClearC01",
       "SetID": "94lmepd",
       "Name": "The Emperor",
-      "Percentage": 48,
+      "Percentage": 45,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -183,7 +188,7 @@
       "ID": "ClearC01END",
       "SetID": "94lmepd",
       "Name": "The Moon",
-      "Percentage": 48,
+      "Percentage": 45,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -191,7 +196,7 @@
       "ID": "ClearC02",
       "SetID": "94lmepd",
       "Name": "Strength",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -199,7 +204,7 @@
       "ID": "ClearC02END",
       "SetID": "94lmepd",
       "Name": "Judgement",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -207,7 +212,7 @@
       "ID": "ClearD01",
       "SetID": "94lmepd",
       "Name": "The Magician",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -215,7 +220,7 @@
       "ID": "ClearD01END",
       "SetID": "94lmepd",
       "Name": "The Devil",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -223,7 +228,7 @@
       "ID": "ClearD02",
       "SetID": "94lmepd",
       "Name": "The High Priestess",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -231,7 +236,7 @@
       "ID": "ClearD02END",
       "SetID": "94lmepd",
       "Name": "The Star",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -239,7 +244,7 @@
       "ID": "ClearE01",
       "SetID": "94lmepd",
       "Name": "The Fool",
-      "Percentage": 52,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -247,7 +252,7 @@
       "ID": "ClearE01END",
       "SetID": "94lmepd",
       "Name": "The Sun",
-      "Percentage": 52,
+      "Percentage": 50,
       "XP": 50,
       "UsersEstimate": 11
     },
@@ -271,7 +276,7 @@
       "ID": "ClearF01",
       "SetID": "94lmepd",
       "Name": "The Empress",
-      "Percentage": 62,
+      "Percentage": 59,
       "XP": 5,
       "UsersEstimate": 13
     },
@@ -279,7 +284,7 @@
       "ID": "ClearF01END",
       "SetID": "94lmepd",
       "Name": "The Tower",
-      "Percentage": 62,
+      "Percentage": 59,
       "XP": 5,
       "UsersEstimate": 13
     },
@@ -287,7 +292,7 @@
       "ID": "ClearG01",
       "SetID": "94lmepd",
       "Name": "Temperance",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -295,7 +300,7 @@
       "ID": "ClearH01",
       "SetID": "94lmepd",
       "Name": "The Hierophant",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -303,7 +308,7 @@
       "ID": "ClearI01",
       "SetID": "94lmepd",
       "Name": "The Lovers",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -311,7 +316,7 @@
       "ID": "ClearJ01",
       "SetID": "94lmepd",
       "Name": "Justice",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -319,7 +324,7 @@
       "ID": "ClearK01",
       "SetID": "94lmepd",
       "Name": "The Hanged Man",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -327,7 +332,7 @@
       "ID": "ClearL01",
       "SetID": "94lmepd",
       "Name": "The Hermit",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -335,7 +340,7 @@
       "ID": "ClearM01",
       "SetID": "94lmepd",
       "Name": "Wheel Of Fortune",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -343,7 +348,7 @@
       "ID": "ClearTE01",
       "SetID": "94lmepd",
       "Name": "First Tale",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -351,7 +356,7 @@
       "ID": "ClearTE02",
       "SetID": "94lmepd",
       "Name": "Second Tale",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -375,7 +380,7 @@
       "ID": "ClearTE03_03",
       "SetID": "94lmepd",
       "Name": "Fifth Tale",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -391,7 +396,7 @@
       "ID": "ClearTE05",
       "SetID": "94lmepd",
       "Name": "Seventh Tale",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -399,7 +404,7 @@
       "ID": "ClearTE06",
       "SetID": "94lmepd",
       "Name": "Eighth Tale",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -407,7 +412,7 @@
       "ID": "ClearTE07",
       "SetID": "94lmepd",
       "Name": "Ninth Tale",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -424,14 +429,14 @@
     {
       "ID": "94lmepd",
       "IsBase": true,
-      "Progressed": 21,
+      "Progressed": 22,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-11T06:01:10.0585097+00:00",
   "FirstSeenAchievements": "2023-05-25T04:01:22.7183097+00:00",
-  "LastChanged_Achievements": "2023-12-06T22:03:22.3188496+00:00",
+  "LastChanged_Achievements": "2023-12-06T23:03:39.7561463+00:00",
   "LastUpdate_AppInfo": "2023-11-30T16:57:24.1145244+00:00",
-  "LastUpdate_Ratings": "2023-12-06T21:58:01.7746951+00:00",
-  "LastUpdate_Achievements": "2023-12-06T22:03:22.3188719+00:00"
+  "LastUpdate_Ratings": "2023-12-06T22:58:16.2072611+00:00",
+  "LastUpdate_Achievements": "2023-12-06T23:03:39.7562084+00:00"
 }

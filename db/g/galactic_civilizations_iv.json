@@ -2,12 +2,12 @@
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
-  "Ranking_Rating": 943,
+  "Ranking_Rating": 944,
   "Ranking_Popularity": 370,
   "Ranking_PopularitySum": 300,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -945,9 +945,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 7388,
+  "EOS_Progressed": 7389,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8985,6 +8985,11 @@
       "Time": "2023-12-06T19:09:51.7431169+00:00",
       "NumProgressed": 7388,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T23:09:05.9997927+00:00",
+      "NumProgressed": 7389,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9060,7 +9065,7 @@
       "Name": "Xenocide",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2290
+      "UsersEstimate": 2291
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -9076,7 +9081,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2290
+      "UsersEstimate": 2291
     },
     {
       "ID": "First_Major_Ally",
@@ -9100,7 +9105,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5689
+      "UsersEstimate": 5690
     },
     {
       "ID": "First_Race_Met",
@@ -9108,7 +9113,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5319
+      "UsersEstimate": 5320
     },
     {
       "ID": "First_Ship_Designed",
@@ -9132,7 +9137,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5689
+      "UsersEstimate": 5690
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -9356,7 +9361,7 @@
       "Name": "Win as Arceans",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Win_As_Baratak",
@@ -9388,7 +9393,7 @@
       "Name": "Win as Festron",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Win_As_Iconian",
@@ -9436,7 +9441,7 @@
       "Name": "Win as the Navigators",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Win_As_Onyx",
@@ -9484,7 +9489,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4802
+      "UsersEstimate": 4803
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -9548,7 +9553,7 @@
       "Name": "Prestige Victory!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "Win_Quickly",
@@ -9571,15 +9576,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7388,
+      "Progressed": 7389,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-12-05T01:55:09.6981089+00:00",
-  "LastChanged_Achievements": "2023-12-06T22:09:02.5498154+00:00",
+  "LastChanged_Achievements": "2023-12-06T23:09:05.9997921+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:22.8362699+00:00",
-  "LastUpdate_Ratings": "2023-12-06T21:57:42.0394025+00:00",
-  "LastUpdate_Achievements": "2023-12-06T22:09:02.5499072+00:00"
+  "LastUpdate_Ratings": "2023-12-06T22:57:50.4472763+00:00",
+  "LastUpdate_Achievements": "2023-12-06T23:09:05.9998697+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 517,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -157,9 +157,9 @@
       "ID": "Aristocratic",
       "SetID": "4bd750m",
       "Name": "Aristocratic",
-      "Percentage": 42,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "Botropolis",
@@ -213,9 +213,9 @@
       "ID": "GottaGoFast",
       "SetID": "4bd750m",
       "Name": "Gotta Go Fast",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 90,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ImALumberbot",
@@ -325,17 +325,17 @@
       "ID": "SteamingRich",
       "SetID": "4bd750m",
       "Name": "Steaming Rich",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Systematic",
       "SetID": "4bd750m",
       "Name": "Systematic",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "TuttiFrutti",
@@ -380,8 +380,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-06T22:05:03.1347349+00:00",
+  "LastChanged_Achievements": "2023-12-06T23:05:43.3393327+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:16.2831296+00:00",
-  "LastUpdate_Ratings": "2023-12-06T22:03:00.7530275+00:00",
-  "LastUpdate_Achievements": "2023-12-06T22:05:03.1347506+00:00"
+  "LastUpdate_Ratings": "2023-12-06T23:03:11.8675152+00:00",
+  "LastUpdate_Achievements": "2023-12-06T23:05:43.3393557+00:00"
 }

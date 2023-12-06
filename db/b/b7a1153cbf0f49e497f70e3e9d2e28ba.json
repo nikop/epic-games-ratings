@@ -2,9 +2,9 @@
   "ID": "b7a1153cbf0f49e497f70e3e9d2e28ba",
   "Name": "Arcatron-Z",
   "ProductSlug": "arcatronz-2bb3f2",
-  "Ranking_EOS_Progress": 785,
+  "Ranking_EOS_Progress": 786,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewPlayers": 466,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-07-01T16:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-08T04:57:10.0894158+00:00",
   "LastUpdate_AppInfo": "2023-12-05T18:57:05.1402378+00:00",
-  "LastUpdate_Ratings": "2023-12-06T21:57:58.4243045+00:00",
-  "LastUpdate_Achievements": "2023-12-06T22:03:46.1068456+00:00"
+  "LastUpdate_Ratings": "2023-12-06T22:58:11.97428+00:00",
+  "LastUpdate_Achievements": "2023-12-06T23:04:09.1171243+00:00"
 }

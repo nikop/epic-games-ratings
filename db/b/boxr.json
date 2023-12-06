@@ -2,9 +2,9 @@
   "ID": "149c9c27b21f41d59b124443042dbfb4",
   "Name": "BoxR",
   "ProductSlug": "boxr-62411f",
-  "Ranking_EOS_Progress": 785,
+  "Ranking_EOS_Progress": 786,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewPlayers": 466,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-04-12T22:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-02T22:59:05.148679+00:00",
-  "LastUpdate_Ratings": "2023-12-06T21:58:42.5432956+00:00",
-  "LastUpdate_Achievements": "2023-12-06T22:08:04.1529319+00:00"
+  "LastUpdate_Ratings": "2023-12-06T22:59:06.4281887+00:00",
+  "LastUpdate_Achievements": "2023-12-06T23:07:55.6672337+00:00"
 }

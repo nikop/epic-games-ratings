@@ -8,7 +8,7 @@
 | Your first fight | 87.00% | ~313 |
 | Good Person Chip | 86.00% | ~310 |
 | First winning | 85.00% | ~306 |
-| Your first job | 83.00% | ~299 |
+| Your first job | 84.00% | ~302 |
 | Fitness professional | 79.00% | ~284 |
 | Old movies enjoyer | 79.00% | ~284 |
 | Depressed visitor | 79.00% | ~284 |

@@ -1467,7 +1467,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 241578,
+  "EOS_Progressed": 241584,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1201,
   "EOS_NewCompleters": 0,
@@ -21312,6 +21312,11 @@
       "Time": "2023-12-06T22:09:06.5358584+00:00",
       "NumProgressed": 241578,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-06T23:09:10.6381043+00:00",
+      "NumProgressed": 241584,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -21323,7 +21328,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7247
+      "UsersEstimate": 7248
     },
     {
       "ID": "100Fail",
@@ -21339,7 +21344,7 @@
       "Name": "Holistic Adventuring Party",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "BarbarianEpic",
@@ -21355,7 +21360,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7247
+      "UsersEstimate": 7248
     },
     {
       "ID": "BookCollection",
@@ -21371,7 +21376,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16910
+      "UsersEstimate": 16911
     },
     {
       "ID": "Chapter2",
@@ -21387,7 +21392,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7247
+      "UsersEstimate": 7248
     },
     {
       "ID": "Chapter4",
@@ -21475,7 +21480,7 @@
       "Name": "The Woman in the High Castle",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7247
+      "UsersEstimate": 7248
     },
     {
       "ID": "DLC1ChooseNecro",
@@ -21723,7 +21728,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19326
+      "UsersEstimate": 19327
     },
     {
       "ID": "DwarfElf15Support",
@@ -21771,7 +21776,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 86968
+      "UsersEstimate": 86970
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -21819,7 +21824,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 21742
+      "UsersEstimate": 21743
     },
     {
       "ID": "FollowBraztok",
@@ -21891,7 +21896,7 @@
       "Name": "Law and Order",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "Poster",
@@ -22026,21 +22031,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 241578,
+      "Progressed": 241584,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 241578,
+      "Progressed": 241584,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-06T21:59:32.6317651+00:00",
-  "LastChanged_Achievements": "2023-12-06T22:09:06.5358582+00:00",
+  "LastChanged_Achievements": "2023-12-06T23:09:10.6381042+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:09.0043717+00:00",
-  "LastUpdate_Ratings": "2023-12-06T21:59:32.6317657+00:00",
-  "LastUpdate_Achievements": "2023-12-06T22:09:06.5360402+00:00"
+  "LastUpdate_Ratings": "2023-12-06T23:00:10.4059479+00:00",
+  "LastUpdate_Achievements": "2023-12-06T23:09:10.6382518+00:00"
 }

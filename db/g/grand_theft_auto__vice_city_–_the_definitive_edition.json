@@ -2,7 +2,7 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 558,
+  "Ranking_Rating": 559,
   "Ranking_Popularity": 349,
   "Ranking_PopularitySum": 446,
   "Ranking_EOS_Progress": 163,
@@ -901,9 +901,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 11227,
+  "EOS_Progressed": 11229,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -13781,6 +13781,11 @@
       "Time": "2023-12-06T22:08:48.5263971+00:00",
       "NumProgressed": 11227,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-12-06T23:08:49.0570736+00:00",
+      "NumProgressed": 11229,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -13920,7 +13925,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "ACH18",
@@ -13952,7 +13957,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 5277
+      "UsersEstimate": 5278
     },
     {
       "ID": "ACH22",
@@ -13968,7 +13973,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2919
+      "UsersEstimate": 2920
     },
     {
       "ID": "ACH24",
@@ -13992,7 +13997,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1796
+      "UsersEstimate": 1797
     },
     {
       "ID": "ACH27",
@@ -14024,7 +14029,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "ACH31",
@@ -14063,7 +14068,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11227,
+      "Progressed": 11229,
       "Completed": 65
     }
   ],
@@ -14071,8 +14076,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-04T17:01:12.7618907+00:00",
-  "LastChanged_Achievements": "2023-12-06T22:08:48.5263968+00:00",
+  "LastChanged_Achievements": "2023-12-06T23:08:49.0570717+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:55.5499109+00:00",
-  "LastUpdate_Ratings": "2023-12-06T21:57:23.8015863+00:00",
-  "LastUpdate_Achievements": "2023-12-06T22:08:48.5264822+00:00"
+  "LastUpdate_Ratings": "2023-12-06T22:57:27.6511021+00:00",
+  "LastUpdate_Achievements": "2023-12-06T23:08:49.0571584+00:00"
 }

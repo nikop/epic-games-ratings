@@ -2,12 +2,12 @@
   "ID": "48e20c81667c4ff49c85dd79ac3a01b0",
   "Name": "Redfall",
   "ProductSlug": "redfall",
-  "Ranking_Rating": 1052,
+  "Ranking_Rating": 1053,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2843,9 +2843,9 @@
       "ID": "Achievement_056",
       "SetID": "6b34g18",
       "Name": "Rum Runner",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Achievement_057",
@@ -2972,8 +2972,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-11-22T22:57:36.1602113+00:00",
-  "LastChanged_Achievements": "2023-12-06T22:04:56.7645508+00:00",
+  "LastChanged_Achievements": "2023-12-06T23:05:35.9308777+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:04.1370946+00:00",
-  "LastUpdate_Ratings": "2023-12-06T21:57:50.5846601+00:00",
-  "LastUpdate_Achievements": "2023-12-06T22:04:56.764631+00:00"
+  "LastUpdate_Ratings": "2023-12-06T22:58:01.6648737+00:00",
+  "LastUpdate_Achievements": "2023-12-06T23:05:35.9309655+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "87b2e2971d6b485085001a91c73a9718",
   "Name": "Kaze and the Wild Masks",
   "ProductSlug": "kaze-and-the-wild-masks-94a27d",
-  "Ranking_EOS_Progress": 598,
+  "Ranking_EOS_Progress": 593,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-11-30T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14,
+  "EOS_Progressed": 15,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -89,6 +89,11 @@
       "Time": "2023-12-06T21:08:33.6418488+00:00",
       "NumProgressed": 14,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T23:08:28.6756885+00:00",
+      "NumProgressed": 15,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-20T15:03:30.7239426+00:00",
@@ -99,7 +104,7 @@
       "ID": "1",
       "SetID": "279eo25",
       "Name": "Crystal Collector",
-      "Percentage": 36,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -107,7 +112,7 @@
       "ID": "10",
       "SetID": "279eo25",
       "Name": "Untouchable!",
-      "Percentage": 79,
+      "Percentage": 73,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -115,7 +120,7 @@
       "ID": "11",
       "SetID": "279eo25",
       "Name": "Queen of the Hill",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -131,7 +136,7 @@
       "ID": "13",
       "SetID": "279eo25",
       "Name": "Golden Rabbit",
-      "Percentage": 36,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -155,7 +160,7 @@
       "ID": "16",
       "SetID": "279eo25",
       "Name": "Grounded!",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -163,7 +168,7 @@
       "ID": "17",
       "SetID": "279eo25",
       "Name": "Beet Broken",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -187,7 +192,7 @@
       "ID": "2",
       "SetID": "279eo25",
       "Name": "Crystal Addict",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -195,7 +200,7 @@
       "ID": "20",
       "SetID": "279eo25",
       "Name": "Out of sight, Out of mind",
-      "Percentage": 36,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -203,7 +208,7 @@
       "ID": "21",
       "SetID": "279eo25",
       "Name": "The floor is lava!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -251,7 +256,7 @@
       "ID": "4",
       "SetID": "279eo25",
       "Name": "Who are they?",
-      "Percentage": 57,
+      "Percentage": 53,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -259,7 +264,7 @@
       "ID": "5",
       "SetID": "279eo25",
       "Name": "Card Addict",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -275,7 +280,7 @@
       "ID": "7",
       "SetID": "279eo25",
       "Name": "Green Island",
-      "Percentage": 36,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -300,14 +305,14 @@
     {
       "ID": "279eo25",
       "IsBase": true,
-      "Progressed": 14,
+      "Progressed": 15,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-03T09:57:17.9885642+00:00",
   "FirstSeenAchievements": "2023-11-20T15:03:30.7239426+00:00",
-  "LastChanged_Achievements": "2023-12-06T22:08:31.3589107+00:00",
+  "LastChanged_Achievements": "2023-12-06T23:08:28.675688+00:00",
   "LastUpdate_AppInfo": "2023-12-04T15:57:13.2655185+00:00",
-  "LastUpdate_Ratings": "2023-12-06T21:59:16.1041313+00:00",
-  "LastUpdate_Achievements": "2023-12-06T22:08:31.3589245+00:00"
+  "LastUpdate_Ratings": "2023-12-06T22:59:48.8989991+00:00",
+  "LastUpdate_Achievements": "2023-12-06T23:08:28.6757042+00:00"
 }

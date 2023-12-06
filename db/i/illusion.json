@@ -2,9 +2,9 @@
   "ID": "037c743f57a54659a5e49d00fa6115e5",
   "Name": "illusion",
   "ProductSlug": "illusion-08a48b",
-  "Ranking_EOS_Progress": 785,
+  "Ranking_EOS_Progress": 786,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewPlayers": 466,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-04-14T15:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-02T22:57:15.986578+00:00",
-  "LastUpdate_Ratings": "2023-12-06T21:59:41.4985883+00:00",
-  "LastUpdate_Achievements": "2023-12-06T22:08:21.1648325+00:00"
+  "LastUpdate_Ratings": "2023-12-06T23:00:21.8218134+00:00",
+  "LastUpdate_Achievements": "2023-12-06T23:08:16.4007821+00:00"
 }

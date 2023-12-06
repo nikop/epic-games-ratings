@@ -1,7 +1,7 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.48 (Ranked 633)  
+Rating: 4.48 (Ranked 632)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,8 +13,8 @@ Number of Ratings: 285  (23.09.2022)
 | That'll Leave a Mark | 24.00% | ~1,289 |
 | Mushroom Madness! | 22.00% | ~1,182 |
 | First Strike | 19.00% | ~1,020 |
+| Horder Better Faster Stronger | 18.00% | ~967 |
 | Spending Spree | 18.00% | ~967 |
-| Horder Better Faster Stronger | 17.00% | ~913 |
 | Ten Steps from the Grave | 15.00% | ~806 |
 | Everything Must Go! | 14.00% | ~752 |
 | Next Time on MythForce... | 14.00% | ~752 |
