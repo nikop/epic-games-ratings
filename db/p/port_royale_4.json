@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1062,
+  "EOS_Progressed": 1063,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2866,6 +2866,11 @@
       "Time": "2023-12-05T19:07:05.4974667+00:00",
       "NumProgressed": 1062,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-06T11:07:37.9383669+00:00",
+      "NumProgressed": 1063,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2981,7 +2986,7 @@
       "Name": "In a mint condition",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "ACH014",
@@ -2989,7 +2994,7 @@
       "Name": "Christening",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ACH015",
@@ -3053,7 +3058,7 @@
       "Name": "Fleet Admiral",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH023",
@@ -3061,7 +3066,7 @@
       "Name": "Gofer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "ACH024",
@@ -3101,7 +3106,7 @@
       "Name": "Traffic chaos",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH029",
@@ -3141,7 +3146,7 @@
       "Name": "A true pirate!",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH034",
@@ -3165,7 +3170,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "ACH037",
@@ -3181,7 +3186,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "ACH039",
@@ -3229,7 +3234,7 @@
       "Name": "Greed for gold",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "ACH045",
@@ -3253,7 +3258,7 @@
       "Name": "Overpopulation",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH048",
@@ -3276,15 +3281,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1062,
+      "Progressed": 1063,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2023-12-06T10:06:00.1090977+00:00",
+  "LastChanged_Achievements": "2023-12-06T11:07:37.9383662+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:26.2351683+00:00",
-  "LastUpdate_Ratings": "2023-12-06T09:58:08.9854059+00:00",
-  "LastUpdate_Achievements": "2023-12-06T10:06:00.1091456+00:00"
+  "LastUpdate_Ratings": "2023-12-06T10:58:50.5042045+00:00",
+  "LastUpdate_Achievements": "2023-12-06T11:07:37.9384357+00:00"
 }

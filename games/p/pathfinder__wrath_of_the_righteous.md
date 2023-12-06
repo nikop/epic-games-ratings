@@ -10,7 +10,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | A Spark | 19.00% | ~2,326 |
 | Burning City | 18.00% | ~2,204 |
 | Defender's Heart | 16.00% | ~1,959 |
-| Mythic Choices | 15.00% | ~1,836 |
+| Mythic Choices | 15.00% | ~1,837 |
 | Banner over the Citadel | 14.00% | ~1,714 |
 | Queen's Gratitude | 12.00% | ~1,469 |
 | Fifth Crusade | 9.00% | ~1,102 |
@@ -43,7 +43,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Capitulation Is Now Moot | 2.00% | ~245 |
 | Your First Big Enemy | 2.00% | ~245 |
 | Truly Important Deed | 2.00% | ~245 |
-| Stay Underground | 2.00% | ~220 |
+| Stay Underground | 2.00% | ~221 |
 | The Final Threshold | 1.00% | ~122 |
 | Path of the Legend | 1.00% | ~122 |
 | Strategic Victory | 1.00% | ~122 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,243 (Ranked 161)  
+Progressed: 12,244 (Ranked 161)  
 Completed: 0 (0.00%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,7 +353,7 @@ Completed: 0 (0.00%) (Ranked 369)
 | 2023-12-03 | 12,230 | 0 |
 | 2023-12-04 | 12,239 | 0 |
 | 2023-12-05 | 12,242 | 0 |
-| 2023-12-06 | 12,243 | 0 |
+| 2023-12-06 | 12,244 | 0 |
 ## Awards
 Max (Character Customization): 1,755  (Ranked 122)  
 Sum: 7,113 (Ranked 120)  

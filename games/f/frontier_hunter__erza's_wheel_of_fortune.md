@@ -23,15 +23,15 @@
 | Trader | 21.00% | ~117 |
 | Weapon Boost | 21.00% | ~117 |
 | Flying Kobold Killer | 18.00% | ~100 |
-| Youth Magnet | 17.00% | ~95 |
+| Youth Magnet | 18.00% | ~100 |
 | Furious Scorpion Killer | 16.00% | ~89 |
+| Lethal Blade Mantis Killer | 16.00% | ~89 |
+| Squeaky Clean | 16.00% | ~89 |
 | Master Artificer | 16.00% | ~89 |
-| Lethal Blade Mantis Killer | 15.00% | ~83 |
-| Squeaky Clean | 15.00% | ~83 |
 | Kind Adventurer | 14.00% | ~78 |
 | Mermaid Killer | 13.00% | ~72 |
 | Cave Master | 13.00% | ~72 |
-| Face Slapper | 12.00% | ~67 |
+| Face Slapper | 13.00% | ~72 |
 | Berserker Slayer | 9.00% | ~50 |
 | Boss challenge | 8.00% | ~44 |
 | Master Cook | 7.00% | ~39 |

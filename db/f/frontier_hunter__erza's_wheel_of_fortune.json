@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 556,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1816,9 +1816,9 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "7pimpda",
       "Name": "Youth Magnet",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -1832,17 +1832,17 @@
       "ID": "ACHIEVEMENT_16",
       "SetID": "7pimpda",
       "Name": "Lethal Blade Mantis Killer",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_17",
       "SetID": "7pimpda",
       "Name": "Squeaky Clean",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -1880,9 +1880,9 @@
       "ID": "ACHIEVEMENT_21",
       "SetID": "7pimpda",
       "Name": "Face Slapper",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -2145,8 +2145,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-06T10:08:25.7172802+00:00",
+  "LastChanged_Achievements": "2023-12-06T11:08:54.9570056+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:54.7212859+00:00",
-  "LastUpdate_Ratings": "2023-12-06T09:57:06.3058305+00:00",
-  "LastUpdate_Achievements": "2023-12-06T10:08:25.7173195+00:00"
+  "LastUpdate_Ratings": "2023-12-06T10:57:15.1235001+00:00",
+  "LastUpdate_Achievements": "2023-12-06T11:08:54.9570482+00:00"
 }

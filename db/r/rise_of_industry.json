@@ -306,9 +306,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 757335,
+  "EOS_Progressed": 757338,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1739,
+  "EOS_NewPlayers": 1736,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26691,6 +26691,11 @@
       "Time": "2023-12-06T10:04:32.8033418+00:00",
       "NumProgressed": 757335,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-06T11:05:33.1358536+00:00",
+      "NumProgressed": 757338,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -26766,7 +26771,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 280214
+      "UsersEstimate": 280215
     },
     {
       "ID": "ach_demolish_trees",
@@ -26806,7 +26811,7 @@
       "Name": "I would drive 500 tiles...",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 90880
+      "UsersEstimate": 90881
     },
     {
       "ID": "ach_place_all_buildngs",
@@ -26830,7 +26835,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 363521
+      "UsersEstimate": 363522
     },
     {
       "ID": "ach_produced",
@@ -26902,7 +26907,7 @@
       "Name": "Landscaper",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 90880
+      "UsersEstimate": 90881
     },
     {
       "ID": "ach_warehouse_clients",
@@ -26917,7 +26922,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 757335,
+      "Progressed": 757338,
       "Completed": 4
     }
   ],
@@ -26925,8 +26930,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-12-01T16:00:20.573033+00:00",
-  "LastChanged_Achievements": "2023-12-06T10:04:32.8033411+00:00",
+  "LastChanged_Achievements": "2023-12-06T11:05:33.1358531+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:48.2793567+00:00",
-  "LastUpdate_Ratings": "2023-12-06T09:58:21.6545068+00:00",
-  "LastUpdate_Achievements": "2023-12-06T10:04:32.8034833+00:00"
+  "LastUpdate_Ratings": "2023-12-06T10:59:08.8708649+00:00",
+  "LastUpdate_Achievements": "2023-12-06T11:05:33.135986+00:00"
 }

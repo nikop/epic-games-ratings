@@ -6,14 +6,14 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~26,879 |
-| Landlord | 33.00% | ~22,175 |
-| Bannerlord | 24.00% | ~16,127 |
-| Horde breaker | 24.00% | ~16,127 |
-| Lawmaker | 24.00% | ~16,127 |
-| Trained | 24.00% | ~16,127 |
-| The king is pleased | 19.00% | ~12,767 |
-| King Solomon | 18.00% | ~12,095 |
+| Lawbringer | 40.00% | ~26,881 |
+| Landlord | 33.00% | ~22,177 |
+| Bannerlord | 24.00% | ~16,129 |
+| Horde breaker | 24.00% | ~16,129 |
+| Lawmaker | 24.00% | ~16,129 |
+| Trained | 24.00% | ~16,129 |
+| The king is pleased | 19.00% | ~12,769 |
+| King Solomon | 18.00% | ~12,097 |
 | Apple of my eye | 16.00% | ~10,752 |
 | I can do it | 16.00% | ~10,752 |
 | This Is Our Land | 14.00% | ~9,408 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,197 (Ranked 104)  
+Progressed: 67,203 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,15 +288,15 @@ Completed: 0 (0.00%) (Ranked 369)
 | 2023-12-03 | 67,037 | 0 |
 | 2023-12-04 | 67,093 | 0 |
 | 2023-12-05 | 67,170 | 0 |
-| 2023-12-06 | 67,197 | 0 |
+| 2023-12-06 | 67,203 | 0 |
 ## Awards
 Max (Character Customization): 7,508  (Ranked 53)  
-Sum: 15,634 (Ranked 68)  
+Sum: 15,636 (Ranked 68)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,508 |
-| This game is Great for Beginners | 1,094 |
+| This game is Great for Beginners | 1,096 |
 | This game has Diverse Characters | 1,035 |
 | This game is Highly Recommended | 962 |
 | This game is Extremely Fun | 898 |
@@ -635,4 +635,4 @@ Diff (max vs sum): -15
 | 2023-12-03 | 4.74 | - | 7,490 | 15,595 |
 | 2023-12-04 | 4.74 | - | 7,500 | 15,609 |
 | 2023-12-05 | 4.74 | - | 7,508 | 15,633 |
-| 2023-12-06 | 4.74 | - | 7,508 | 15,634 |
+| 2023-12-06 | 4.74 | - | 7,508 | 15,636 |

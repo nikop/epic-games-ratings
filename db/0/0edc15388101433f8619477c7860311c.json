@@ -4,7 +4,7 @@
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
   "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 355,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
@@ -402,9 +402,9 @@
       "ID": "MoneyCamouflage",
       "SetID": "7m88n8p",
       "Name": "Money Camouflage",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "MortuaryMarkup",
@@ -497,8 +497,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-12-06T10:03:36.7577799+00:00",
+  "LastChanged_Achievements": "2023-12-06T11:04:14.0104581+00:00",
   "LastUpdate_AppInfo": "2023-12-04T11:56:57.3079922+00:00",
-  "LastUpdate_Ratings": "2023-12-06T09:57:45.5213766+00:00",
-  "LastUpdate_Achievements": "2023-12-06T10:03:36.7577935+00:00"
+  "LastUpdate_Ratings": "2023-12-06T10:58:14.0897135+00:00",
+  "LastUpdate_Achievements": "2023-12-06T11:04:14.0104729+00:00"
 }

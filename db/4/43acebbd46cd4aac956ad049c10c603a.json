@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -2453,9 +2453,9 @@
       "ID": "Sinner",
       "SetID": "1n308hc",
       "Name": "Sinner",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SouthernCoast",
@@ -2477,9 +2477,9 @@
       "ID": "TextAdventurer",
       "SetID": "1n308hc",
       "Name": "Text Adventurer",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TheAllGifted",
@@ -2565,9 +2565,9 @@
       "ID": "Wanderers",
       "SetID": "1n308hc",
       "Name": "Wanderers",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 88
     },
     {
       "ID": "WesternDelta",
@@ -2606,8 +2606,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-05T18:59:22.7453339+00:00",
-  "LastChanged_Achievements": "2023-12-06T10:05:48.0783394+00:00",
+  "LastChanged_Achievements": "2023-12-06T11:07:20.713475+00:00",
   "LastUpdate_AppInfo": "2023-11-30T13:57:29.8773292+00:00",
-  "LastUpdate_Ratings": "2023-12-06T09:58:57.3653378+00:00",
-  "LastUpdate_Achievements": "2023-12-06T10:05:48.078385+00:00"
+  "LastUpdate_Ratings": "2023-12-06T11:00:02.65492+00:00",
+  "LastUpdate_Achievements": "2023-12-06T11:07:20.7135331+00:00"
 }

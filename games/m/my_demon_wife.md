@@ -22,7 +22,7 @@
 | Romantic Ending | 0.00% | ~0 |
 | All traps locked | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 715)  
+Progressed: 1 (Ranked 716)  
 Completed: 0 (0.00%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |

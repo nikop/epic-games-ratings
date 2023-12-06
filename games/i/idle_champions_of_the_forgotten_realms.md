@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 0.60% | ~1,432 |
+| A Brief Tour of the Realms | 0.70% | ~1,670 |
 | Beast Intentions | 0.30% | ~716 |
 | The Cursed Farmer | 0.30% | ~716 |
 | The Ring of Regeneration | 0.20% | ~477 |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of Champions | 0.10% | ~205 |
 | See You on the Flipside | 0.10% | ~205 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,587 (Ranked 65)  
+Progressed: 238,591 (Ranked 65)  
 Completed: 2,500 (1.05%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -769,15 +769,15 @@ Completed: 2,500 (1.05%) (Ranked 165)
 | 2023-12-03 | 238,298 | 2,495 |
 | 2023-12-04 | 238,433 | 2,498 |
 | 2023-12-05 | 238,538 | 2,500 |
-| 2023-12-06 | 238,587 | 2,500 |
+| 2023-12-06 | 238,591 | 2,500 |
 ## Awards
 Max (Great for Beginners): 5,596  (Ranked 70)  
-Sum: 32,733 (Ranked 41)  
+Sum: 32,737 (Ranked 41)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,596 |
-| This game has Diverse Characters | 5,566 |
+| This game has Diverse Characters | 5,570 |
 | This game has Quickly Understood Controls | 4,832 |
 | This game is Relaxing | 4,717 |
 | This game has Amazing Characters | 4,238 |
@@ -1100,4 +1100,4 @@ Diff (max vs sum): 29
 | 2023-12-03 | 4.06 | - | 5,589 | 32,719 |
 | 2023-12-04 | 4.06 | - | 5,593 | 32,728 |
 | 2023-12-05 | 4.06 | - | 5,593 | 32,730 |
-| 2023-12-06 | 4.06 | - | 5,596 | 32,733 |
+| 2023-12-06 | 4.06 | - | 5,596 | 32,737 |

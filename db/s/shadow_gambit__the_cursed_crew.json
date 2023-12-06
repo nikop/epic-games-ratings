@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -131,9 +131,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1008,
+  "EOS_Progressed": 1009,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.17,
   "EosHistory": [
@@ -3371,6 +3371,11 @@
       "Time": "2023-12-06T08:04:52.1286783+00:00",
       "NumProgressed": 1008,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-06T11:06:16.1143373+00:00",
+      "NumProgressed": 1009,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -3383,7 +3388,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -3391,7 +3396,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "_03_FinishAct1",
@@ -3399,7 +3404,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -3423,7 +3428,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "_07_FinishAct3",
@@ -3439,7 +3444,7 @@
       "Name": "Swabbie",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "_09_Completion_20",
@@ -3447,7 +3452,7 @@
       "Name": "Powder Monkey",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "_10_Completion_30",
@@ -3479,7 +3484,7 @@
       "Name": "Corsair",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "_14_Completion_70",
@@ -3519,7 +3524,7 @@
       "Name": "Fully Decked",
       "Percentage": 6,
       "XP": 125,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -3590,7 +3595,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1008,
+      "Progressed": 1009,
       "Completed": 32
     }
   ],
@@ -3598,8 +3603,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-04T19:02:27.0959811+00:00",
-  "LastChanged_Achievements": "2023-12-06T10:05:03.0619531+00:00",
+  "LastChanged_Achievements": "2023-12-06T11:06:16.1143369+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:16.5122288+00:00",
-  "LastUpdate_Ratings": "2023-12-06T09:57:47.0273126+00:00",
-  "LastUpdate_Achievements": "2023-12-06T10:05:03.0619813+00:00"
+  "LastUpdate_Ratings": "2023-12-06T10:58:16.4343803+00:00",
+  "LastUpdate_Achievements": "2023-12-06T11:06:16.1143774+00:00"
 }

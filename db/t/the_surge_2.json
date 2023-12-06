@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 355,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -3454,9 +3454,9 @@
       "ID": "ACHV_22",
       "SetID": "8p5mlmc",
       "Name": "Offensive Defense",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 444
+      "UsersEstimate": 466
     },
     {
       "ID": "ACHV_23",
@@ -3751,8 +3751,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-11-22T02:25:03.2214817+00:00",
-  "LastChanged_Achievements": "2023-12-06T10:08:13.0895468+00:00",
+  "LastChanged_Achievements": "2023-12-06T11:08:37.3576189+00:00",
   "LastUpdate_AppInfo": "2023-12-02T15:57:22.233164+00:00",
-  "LastUpdate_Ratings": "2023-12-06T09:59:55.8826086+00:00",
-  "LastUpdate_Achievements": "2023-12-06T10:08:13.0896774+00:00"
+  "LastUpdate_Ratings": "2023-12-06T11:01:30.2851471+00:00",
+  "LastUpdate_Achievements": "2023-12-06T11:08:37.3576668+00:00"
 }

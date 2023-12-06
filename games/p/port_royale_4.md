@@ -8,20 +8,20 @@ Number of Ratings: 53  (23.09.2022)
 | ---- | ---------- | ----- |
 | Cabin boy | 80.00% | ~850 |
 | My little farm | 64.00% | ~680 |
-| Every beginning is difficult | 63.00% | ~669 |
-| Gofer | 57.00% | ~605 |
+| Every beginning is difficult | 63.00% | ~670 |
+| Gofer | 57.00% | ~606 |
 | 3, 2, 1, mine | 56.00% | ~595 |
-| O Captain! My Captain! | 55.00% | ~584 |
+| O Captain! My Captain! | 55.00% | ~585 |
 | Seafarer | 51.00% | ~542 |
-| Greed for gold | 44.00% | ~467 |
+| Greed for gold | 44.00% | ~468 |
 | Intangible | 43.00% | ~457 |
 | I'm out of here for a while | 42.00% | ~446 |
-| In a mint condition | 39.00% | ~414 |
+| In a mint condition | 39.00% | ~415 |
 | Licence to Kill | 37.00% | ~393 |
 | Pirates! | 35.00% | ~372 |
 | Collectionitis | 30.00% | ~319 |
 | Megalomania | 29.00% | ~308 |
-| Christening | 28.00% | ~297 |
+| Christening | 28.00% | ~298 |
 | Groundskeeper | 26.00% | ~276 |
 | Walk the plank | 22.00% | ~234 |
 | Wholesale | 22.00% | ~234 |
@@ -39,8 +39,8 @@ Number of Ratings: 53  (23.09.2022)
 | Buccaneer | 6.00% | ~64 |
 | The Grande Bouffe | 6.00% | ~64 |
 | Flying Dutchman | 5.00% | ~53 |
-| A true pirate! | 4.00% | ~42 |
-| Overpopulation | 4.00% | ~42 |
+| A true pirate! | 4.00% | ~43 |
+| Overpopulation | 4.00% | ~43 |
 | Premier Maître | 3.00% | ~32 |
 | Supreme conqueror | 3.00% | ~32 |
 | Master & Commander | 3.00% | ~32 |
@@ -53,11 +53,11 @@ Number of Ratings: 53  (23.09.2022)
 | Capitalist | 0.90% | ~10 |
 | Raiders of the Lost Ark | 0.90% | ~10 |
 | Parlay? | 0.90% | ~10 |
-| Fleet Admiral | 0.80% | ~8 |
-| Traffic chaos | 0.80% | ~8 |
+| Fleet Admiral | 0.80% | ~9 |
+| Traffic chaos | 0.80% | ~9 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,062 (Ranked 263)  
+Progressed: 1,063 (Ranked 263)  
 Completed: 1 (0.09%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,6 +255,7 @@ Completed: 1 (0.09%) (Ranked 294)
 | 2023-11-29 | 1,058 | 1 |
 | 2023-11-30 | 1,061 | 1 |
 | 2023-12-05 | 1,062 | 1 |
+| 2023-12-06 | 1,063 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

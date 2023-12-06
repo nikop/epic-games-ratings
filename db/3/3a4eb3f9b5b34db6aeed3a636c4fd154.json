@@ -2,9 +2,9 @@
   "ID": "3a4eb3f9b5b34db6aeed3a636c4fd154",
   "Name": "Quiz Time",
   "ProductSlug": "quiz-time-e4daaa",
-  "Ranking_EOS_Progress": 715,
+  "Ranking_EOS_Progress": 684,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 466,
+  "Ranking_EOS_NewPlayers": 413,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-12-05T18:30:00+00:00",
@@ -22,15 +22,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-12-02T18:03:40.8755245+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T11:05:49.8255952+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -83,13 +88,13 @@
     {
       "ID": "1329d9o",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-12-02T18:03:40.8766537+00:00",
-  "LastChanged_Achievements": "2023-12-06T10:04:44.5176021+00:00",
+  "LastChanged_Achievements": "2023-12-06T11:05:49.8255948+00:00",
   "LastUpdate_AppInfo": "2023-12-02T17:57:09.326495+00:00",
-  "LastUpdate_Ratings": "2023-12-06T09:58:57.038978+00:00",
-  "LastUpdate_Achievements": "2023-12-06T10:04:44.5176058+00:00"
+  "LastUpdate_Ratings": "2023-12-06T11:00:02.1588403+00:00",
+  "LastUpdate_Achievements": "2023-12-06T11:05:49.8256021+00:00"
 }

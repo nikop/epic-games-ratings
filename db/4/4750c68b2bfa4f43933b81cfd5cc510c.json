@@ -2,7 +2,7 @@
   "ID": "4750c68b2bfa4f43933b81cfd5cc510c",
   "Name": "EA SPORTS FC\u2122 24 Standard Edition",
   "ProductSlug": "ea-sports-fc-24",
-  "Ranking_Rating": 842,
+  "Ranking_Rating": 835,
   "Ranking_Popularity": 173,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 110,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.3,
+  "Rating": 4.31,
   "RatingHistory": [
     {
       "Time": "2023-09-29T21:57:05.6639643+00:00",
@@ -2293,10 +2293,16 @@
       "Rating": 4.3,
       "NumberOfAwards": 3143,
       "NumberOfAwardsMax": 800
+    },
+    {
+      "Time": "2023-12-06T11:00:30.2456111+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 3144,
+      "NumberOfAwardsMax": 800
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3143,
+  "NumberOfAwards": 3144,
   "NumberOfAwardsMax": 800,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2304,7 +2310,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 357
+      "Count": 358
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2355,9 +2361,9 @@
       "Count": 445
     }
   ],
-  "EOS_Progressed": 56120,
+  "EOS_Progressed": 56121,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 752,
+  "EOS_NewPlayers": 746,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11230,6 +11236,11 @@
       "Time": "2023-12-06T10:07:53.8463383+00:00",
       "NumProgressed": 56120,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T11:08:09.598394+00:00",
+      "NumProgressed": 56121,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -11298,7 +11309,7 @@
       "Name": "Defensive Masterclass",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 23570
+      "UsersEstimate": 23571
     },
     {
       "ID": "achievement_17",
@@ -11354,7 +11365,7 @@
       "Name": "Level Up!",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 29182
+      "UsersEstimate": 29183
     },
     {
       "ID": "achievement_23",
@@ -11466,7 +11477,7 @@
       "Name": "Golden Generation",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 6734
+      "UsersEstimate": 6735
     },
     {
       "ID": "achievement_36",
@@ -11530,7 +11541,7 @@
       "Name": "Dead-ball specialist",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 33672
+      "UsersEstimate": 33673
     },
     {
       "ID": "achievement_7",
@@ -11538,7 +11549,7 @@
       "Name": "Intuition and Execution",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 20764
+      "UsersEstimate": 20765
     },
     {
       "ID": "achievement_8",
@@ -11546,7 +11557,7 @@
       "Name": "Power Shot",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 41529
+      "UsersEstimate": 41530
     },
     {
       "ID": "achievement_9",
@@ -11561,16 +11572,16 @@
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 56120,
+      "Progressed": 56121,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-29T00:00:53.2265881+00:00",
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
-  "LastChanged": "2023-12-06T09:59:16.1395881+00:00",
-  "LastChanged_Achievements": "2023-12-06T10:07:53.8463378+00:00",
+  "LastChanged": "2023-12-06T11:00:30.245611+00:00",
+  "LastChanged_Achievements": "2023-12-06T11:08:09.5983937+00:00",
   "LastUpdate_AppInfo": "2023-12-01T05:57:07.0815744+00:00",
-  "LastUpdate_Ratings": "2023-12-06T09:59:16.1395886+00:00",
-  "LastUpdate_Achievements": "2023-12-06T10:07:53.8464139+00:00"
+  "LastUpdate_Ratings": "2023-12-06T11:00:30.2456117+00:00",
+  "LastUpdate_Achievements": "2023-12-06T11:08:09.5984568+00:00"
 }

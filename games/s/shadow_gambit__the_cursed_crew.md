@@ -5,15 +5,15 @@ Rating: 4.78 (Ranked 106)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 66.00% | ~665 |
-| The Adventure Begins | 51.00% | ~514 |
-| Swabbie | 39.00% | ~393 |
+| A New Journey | 66.00% | ~666 |
+| The Adventure Begins | 51.00% | ~515 |
+| Swabbie | 39.00% | ~394 |
 | With Great Power… | 38.00% | ~383 |
 | This Belongs in a Museum | 35.00% | ~353 |
 | The Gambit Has Begun | 32.00% | ~323 |
-| Somewhere Deep in the Lost Caribbean | 29.00% | ~292 |
-| Powder Monkey | 29.00% | ~292 |
-| Mirror Mirror on the Wall | 28.00% | ~282 |
+| Somewhere Deep in the Lost Caribbean | 29.00% | ~293 |
+| Powder Monkey | 29.00% | ~293 |
+| Mirror Mirror on the Wall | 28.00% | ~283 |
 | Pirates Assemble! | 25.00% | ~252 |
 | Buccaneer | 22.00% | ~222 |
 | Fishy Fish | 21.00% | ~212 |
@@ -26,13 +26,13 @@ Rating: 4.78 (Ranked 106)
 | Tobacco Travesty | 10.00% | ~101 |
 | Accursed Artifacts | 10.00% | ~101 |
 | Lyrical Longing | 9.00% | ~91 |
-| Corsair | 6.00% | ~60 |
-| Fully Decked | 6.00% | ~60 |
+| Corsair | 6.00% | ~61 |
+| Fully Decked | 6.00% | ~61 |
 | Freebooter | 4.00% | ~40 |
 | Marauder | 4.00% | ~40 |
 | Welcome Back Jester | 4.00% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,008 (Ranked 266)  
+Progressed: 1,009 (Ranked 266)  
 Completed: 32 (3.17%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 32 (3.17%) (Ranked 101)
 | 2023-12-03 | 996 | 31 |
 | 2023-12-04 | 1,000 | 31 |
 | 2023-12-05 | 1,004 | 32 |
-| 2023-12-06 | 1,008 | 32 |
+| 2023-12-06 | 1,009 | 32 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escape from Fleed | 38.00% | ~5 |
-| First Contact | 31.00% | ~4 |
+| Escape from Fleed | 46.00% | ~6 |
+| First Contact | 38.00% | ~5 |
+| Strength in Defeat | 31.00% | ~4 |
 | The Remains of Fleed | 31.00% | ~4 |
 | Life of Pi | 31.00% | ~4 |
 | Technology first! | 31.00% | ~4 |
 | The Legend | 31.00% | ~4 |
-| Strength in Defeat | 23.00% | ~3 |
 | The Keeper of Fleed | 23.00% | ~3 |
 | A Good Paint Job | 15.00% | ~2 |
 | Iron Fist | 15.00% | ~2 |

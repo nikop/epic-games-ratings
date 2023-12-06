@@ -2,7 +2,7 @@
   "ID": "87b7ded137594cbbbe7b772826ec3289",
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
-  "Ranking_Rating": 592,
+  "Ranking_Rating": 593,
   "Ranking_Popularity": 476,
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 202,
@@ -6486,9 +6486,9 @@
       "ID": "ACH_MISSION_09",
       "SetID": "816efe",
       "Name": "The Passenger",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1122
     },
     {
       "ID": "ACH_MISSION_10",
@@ -6599,8 +6599,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-27T19:00:30.5070176+00:00",
-  "LastChanged_Achievements": "2023-12-06T10:06:01.7549791+00:00",
+  "LastChanged_Achievements": "2023-12-06T11:07:40.2113914+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:59.8207235+00:00",
-  "LastUpdate_Ratings": "2023-12-06T09:57:11.7712122+00:00",
-  "LastUpdate_Achievements": "2023-12-06T10:06:01.7550217+00:00"
+  "LastUpdate_Ratings": "2023-12-06T10:57:23.5379179+00:00",
+  "LastUpdate_Achievements": "2023-12-06T11:07:40.2114425+00:00"
 }

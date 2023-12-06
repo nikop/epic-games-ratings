@@ -2,12 +2,12 @@
   "ID": "1093790870b043cdbae03d91d76d9ae6",
   "Name": "Tom Clancy\u0027s Rainbow Six Extraction",
   "ProductSlug": "rainbow-six-extraction",
-  "Ranking_Rating": 592,
+  "Ranking_Rating": 593,
   "Ranking_Popularity": 302,
   "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 783,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 466,
+  "Ranking_EOS_NewPlayers": 467,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-01-20T05:00:00+00:00",
@@ -2398,6 +2398,6 @@
   "FirstSeen": "2022-07-22T20:22:18.7941234+00:00",
   "LastChanged": "2023-12-04T17:58:58.8321146+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:21.3754152+00:00",
-  "LastUpdate_Ratings": "2023-12-06T09:59:39.7108954+00:00",
-  "LastUpdate_Achievements": "2023-12-06T10:09:20.5187921+00:00"
+  "LastUpdate_Ratings": "2023-12-06T11:01:06.4396493+00:00",
+  "LastUpdate_Achievements": "2023-12-06T11:10:11.6450535+00:00"
 }

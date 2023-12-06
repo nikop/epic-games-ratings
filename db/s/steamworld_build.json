@@ -170,9 +170,9 @@
       "ID": "GoingPlaces",
       "SetID": "4bd750m",
       "Name": "Going Places",
-      "Percentage": 43,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "GottaGoFast",
@@ -202,9 +202,9 @@
       "ID": "ItsYoursMyFriend",
       "SetID": "4bd750m",
       "Name": "It\u0027s Yours, My Friend",
-      "Percentage": 50,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ManicMechanic",
@@ -345,8 +345,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-06T10:04:48.0415207+00:00",
+  "LastChanged_Achievements": "2023-12-06T11:05:54.661438+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:16.2831296+00:00",
-  "LastUpdate_Ratings": "2023-12-06T10:03:05.377356+00:00",
-  "LastUpdate_Achievements": "2023-12-06T10:04:48.0415407+00:00"
+  "LastUpdate_Ratings": "2023-12-06T11:03:25.2793488+00:00",
+  "LastUpdate_Achievements": "2023-12-06T11:05:54.6614561+00:00"
 }

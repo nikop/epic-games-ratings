@@ -6,35 +6,35 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,511 |
-| Gun Fu | 7.00% | ~67,965 |
-| The Fool | 6.00% | ~58,256 |
-| Right Back At Ya | 5.00% | ~48,546 |
-| The Lovers | 4.00% | ~38,837 |
-| Full Body Conversion | 3.00% | ~29,128 |
-| Stanislavski's Method | 3.00% | ~29,128 |
-| The Hermit | 3.00% | ~29,128 |
-| The Wheel of Fortune | 3.00% | ~29,128 |
-| True Soldier | 3.00% | ~29,128 |
-| Relic Ruler | 3.00% | ~2,986 |
+| V for Vendetta | 12.00% | ~116,515 |
+| Gun Fu | 7.00% | ~67,967 |
+| The Fool | 6.00% | ~58,257 |
+| Right Back At Ya | 5.00% | ~48,548 |
+| The Lovers | 4.00% | ~38,838 |
+| Full Body Conversion | 3.00% | ~29,129 |
+| Stanislavski's Method | 3.00% | ~29,129 |
+| The Hermit | 3.00% | ~29,129 |
+| The Wheel of Fortune | 3.00% | ~29,129 |
+| True Soldier | 3.00% | ~29,129 |
+| Relic Ruler | 3.00% | ~2,987 |
 | Christmas Tree Attack | 2.00% | ~19,419 |
 | The Quick and the Dead | 2.00% | ~19,419 |
 | Life of the Road | 2.00% | ~19,419 |
 | The High Priestess | 2.00% | ~19,419 |
 | True Warrior | 2.00% | ~19,419 |
 | Legend of The Afterlife | 2.00% | ~19,419 |
-| All the President's Men | 2.00% | ~1,991 |
-| Arachnophobia | 2.00% | ~1,991 |
-| Bushido and Chill | 1.00% | ~9,709 |
-| To Protect and Serve | 1.00% | ~9,709 |
-| Master Crafter | 1.00% | ~9,709 |
-| I Am The Law | 1.00% | ~9,709 |
-| The World | 1.00% | ~9,709 |
-| Two Heads, One Bullet | 1.00% | ~9,709 |
-| Judy vs Night City | 1.00% | ~9,709 |
+| All the President's Men | 2.00% | ~1,992 |
+| Arachnophobia | 2.00% | ~1,992 |
+| Bushido and Chill | 1.00% | ~9,710 |
+| To Protect and Serve | 1.00% | ~9,710 |
+| Master Crafter | 1.00% | ~9,710 |
+| I Am The Law | 1.00% | ~9,710 |
+| The World | 1.00% | ~9,710 |
+| Two Heads, One Bullet | 1.00% | ~9,710 |
+| Judy vs Night City | 1.00% | ~9,710 |
 | Spin Doctor | 0.90% | ~896 |
-| Easy Come, Easy Go | 0.80% | ~796 |
-| The Wandering Fool | 0.70% | ~6,796 |
+| Easy Come, Easy Go | 0.80% | ~797 |
+| The Wandering Fool | 0.70% | ~6,797 |
 | King of Wands | 0.70% | ~697 |
 | Dirty Deeds | 0.70% | ~697 |
 | Ten out of Ten | 0.60% | ~5,826 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 970,926 (Ranked 15)  
+Progressed: 970,958 (Ranked 15)  
 Completed: 2,845 (0.29%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,23 +304,23 @@ Completed: 2,845 (0.29%) (Ranked 240)
 | 2023-12-03 | 969,229 | 2,839 |
 | 2023-12-04 | 970,004 | 2,843 |
 | 2023-12-05 | 970,654 | 2,844 |
-| 2023-12-06 | 970,926 | 2,845 |
+| 2023-12-06 | 970,958 | 2,845 |
 ## Awards
 Max (Character Customization): 117,137  (Ranked 9)  
-Sum: 391,553 (Ranked 9)  
+Sum: 392,612 (Ranked 9)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 117,137 |
-| This game has Great Boss Battles | 84,207 |
+| This game has Great Boss Battles | 84,999 |
 | This game is Great for Beginners | 23,629 |
 | This game has Diverse Characters | 23,279 |
 | This game is Highly Recommended | 22,110 |
 | This game has Amazing Storytelling | 22,107 |
 | This game is Extremely Fun | 21,779 |
 | This game has Amazing Characters | 21,524 |
+| This game has Quickly Understood Controls | 20,844 |
 | This game is Relaxing | 20,820 |
-| This game has Quickly Understood Controls | 20,577 |
 | This game has a Creative Community | 14,384 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -646,4 +646,4 @@ Diff (max vs sum): 0
 | 2023-12-03 | 4.65 | - | 115,469 | 385,067 |
 | 2023-12-04 | 4.66 | - | 116,208 | 387,763 |
 | 2023-12-05 | 4.66 | - | 117,137 | 391,296 |
-| 2023-12-06 | 4.66 | - | 117,137 | 391,553 |
+| 2023-12-06 | 4.66 | - | 117,137 | 392,612 |

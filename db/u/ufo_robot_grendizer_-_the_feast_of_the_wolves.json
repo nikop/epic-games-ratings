@@ -128,25 +128,25 @@
       "ID": "ACH_ESCAPEFROMFLEED",
       "SetID": "ch874lb",
       "Name": "Escape from Fleed",
-      "Percentage": 38,
+      "Percentage": 46,
       "XP": 35,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_FIRSTCONTACT",
       "SetID": "ch874lb",
       "Name": "First Contact",
-      "Percentage": 31,
+      "Percentage": 38,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_FIRSTDEATH",
       "SetID": "ch874lb",
       "Name": "Strength in Defeat",
-      "Percentage": 23,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_FIRSTLEGENDARYLOOT",
@@ -351,8 +351,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2023-12-06T10:08:57.4439596+00:00",
+  "LastChanged_Achievements": "2023-12-06T11:09:38.819902+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:12.6917781+00:00",
-  "LastUpdate_Ratings": "2023-12-06T09:58:59.5086857+00:00",
-  "LastUpdate_Achievements": "2023-12-06T10:08:57.4439765+00:00"
+  "LastUpdate_Ratings": "2023-12-06T11:00:05.5633962+00:00",
+  "LastUpdate_Achievements": "2023-12-06T11:09:38.8199188+00:00"
 }

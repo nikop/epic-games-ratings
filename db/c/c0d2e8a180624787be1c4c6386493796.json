@@ -444,9 +444,9 @@
       "ID": "KR4_ACHIEVEMENT_APEX_PREDATOR",
       "SetID": "caeik3h",
       "Name": "Apex Predator",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "KR4_ACHIEVEMENT_ASRA_MAX",
@@ -716,9 +716,9 @@
       "ID": "KR4_ACHIEVEMENT_INCREDIBLES",
       "SetID": "caeik3h",
       "Name": "Nothing is beneath me!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "KR4_ACHIEVEMENT_INFERNALDEN",
@@ -772,9 +772,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_HARD",
       "SetID": "caeik3h",
       "Name": "No Survivors III",
-      "Percentage": 67,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
@@ -1073,8 +1073,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-06T10:08:00.736086+00:00",
+  "LastChanged_Achievements": "2023-12-06T11:08:19.5343945+00:00",
   "LastUpdate_AppInfo": "2023-11-30T16:57:23.733607+00:00",
-  "LastUpdate_Ratings": "2023-12-06T09:57:03.0049431+00:00",
-  "LastUpdate_Achievements": "2023-12-06T10:08:00.7361604+00:00"
+  "LastUpdate_Ratings": "2023-12-06T10:57:10.6480892+00:00",
+  "LastUpdate_Achievements": "2023-12-06T11:08:19.5344538+00:00"
 }
