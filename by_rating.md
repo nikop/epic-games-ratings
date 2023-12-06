@@ -541,7 +541,7 @@
 | 529 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 97 | 370 |
 | 529 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 0 | 557 |
 | 529 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.54 | 681 | 188 |
-| 542 | [Dauntless](games/d/dauntless.md) | 4.53 | 24,358 | 18 |
+| 542 | [Dauntless](games/d/dauntless.md) | 4.53 | 24,392 | 18 |
 | 542 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 23 | 535 |
 | 542 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 35 | 481 |
 | 542 | [Duskers](games/d/duskers.md) | 4.53 | 0 | 557 |
@@ -846,7 +846,7 @@
 | 842 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 4.30 | 800 | 173 |
 | 842 | [ELEX II](games/e/elex_ii.md) | 4.30 | 0 | 557 |
 | 842 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 46 | 446 |
-| 842 | [Rogue Company](games/r/rogue_company.md) | 4.30 | 5,746 | 67 |
+| 842 | [Rogue Company](games/r/rogue_company.md) | 4.30 | 5,750 | 67 |
 | 842 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 4.30 | 0 | 557 |
 | 849 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 0 | 557 |
 | 849 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.29 | 50 | 437 |
@@ -1011,17 +1011,17 @@
 | 1,008 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,864 | 75 |
 | 1,008 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 0 | 557 |
 | 1,011 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 5,137 | 72 |
+| 1,012 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 3.97 | 0 | 557 |
 | 1,012 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 0 | 557 |
 | 1,012 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 3.97 | 0 | 557 |
 | 1,012 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 557 |
 | 1,012 | [The Front](games/t/the_front.md) | 3.97 | 22 | 540 |
-| 1,016 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 449 |
-| 1,016 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.95 | 556 | 206 |
-| 1,016 | [Martha Is Dead](games/m/martha_is_dead.md) | 3.95 | 0 | 557 |
-| 1,019 | [Blazing Sails](games/b/blazing_sails.md) | 3.94 | 420 | 229 |
-| 1,019 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 29 | 504 |
-| 1,019 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 3.94 | 0 | 557 |
-| 1,019 | [Patron](games/p/patron.md) | 3.94 | 0 | 557 |
+| 1,017 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 449 |
+| 1,017 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.95 | 556 | 206 |
+| 1,017 | [Martha Is Dead](games/m/martha_is_dead.md) | 3.95 | 0 | 557 |
+| 1,020 | [Blazing Sails](games/b/blazing_sails.md) | 3.94 | 420 | 229 |
+| 1,020 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 29 | 504 |
+| 1,020 | [Patron](games/p/patron.md) | 3.94 | 0 | 557 |
 | 1,023 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 557 |
 | 1,023 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.93 | 0 | 557 |
 | 1,023 | [Ironcast](games/i/ironcast.md) | 3.93 | 0 | 557 |

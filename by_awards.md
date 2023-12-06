@@ -17,7 +17,7 @@
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 37,377 | 4.51 | 572 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 29,299 | 4.64 | 337 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 24,977 | 4.76 | 130 |
-| 18 | [Dauntless](games/d/dauntless.md) | 24,358 | 4.53 | 542 |
+| 18 | [Dauntless](games/d/dauntless.md) | 24,392 | 4.53 | 542 |
 | 19 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 22,541 | 4.74 | 157 |
 | 20 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 21,501 | 4.26 | 872 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 20,943 | 4.89 | 11 |
@@ -66,7 +66,7 @@
 | 64 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,997 | 4.66 | 295 |
 | 65 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 5,958 | 4.69 | 231 |
 | 66 | [Prey](games/p/prey.md) | 5,802 | 4.63 | 352 |
-| 67 | [Rogue Company](games/r/rogue_company.md) | 5,746 | 4.30 | 842 |
+| 67 | [Rogue Company](games/r/rogue_company.md) | 5,750 | 4.30 | 842 |
 | 68 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 5,734 | 4.68 | 258 |
 | 69 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,684 | 4.85 | 45 |
 | 70 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,593 | 4.06 | 989 |
@@ -205,7 +205,7 @@
 | 202 | [Vampyr](games/v/vampyr.md) | 580 | 4.32 | 828 |
 | 204 | [Filament](games/f/filament.md) | 574 | 4.33 | 819 |
 | 205 | [Godfall Ultimate Edition](games/g/godfall.md) | 565 | 4.07 | 981 |
-| 206 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 556 | 3.95 | 1,016 |
+| 206 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 556 | 3.95 | 1,017 |
 | 207 | [Brawlhalla](games/b/brawlhalla.md) | 554 | 4.60 | 420 |
 | 208 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 550 | 4.87 | 24 |
 | 209 | [Terraforming Mars](games/t/terraforming_mars.md) | 529 | 4.53 | 542 |
@@ -228,7 +228,7 @@
 | 226 | [Slime Rancher](games/s/slime_rancher.md) | 432 | 4.82 | 68 |
 | 227 | [Severed Steel](games/s/severed_steel.md) | 428 | 4.69 | 231 |
 | 228 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 423 | 4.56 | 494 |
-| 229 | [Blazing Sails](games/b/blazing_sails.md) | 420 | 3.94 | 1,019 |
+| 229 | [Blazing Sails](games/b/blazing_sails.md) | 420 | 3.94 | 1,020 |
 | 230 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 415 | 4.75 | 147 |
 | 231 | [For The King](games/f/for_the_king.md) | 412 | 4.70 | 214 |
 | 232 | [Nuclear Throne](games/n/nuclear_throne.md) | 407 | 4.79 | 96 |
@@ -449,7 +449,7 @@
 | 446 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 46 | 4.17 | 942 |
 | 446 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 46 | 4.24 | 890 |
 | 449 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 45 | 4.58 | 448 |
-| 449 | [Ancient Enemy](games/a/ancient_enemy.md) | 45 | 3.95 | 1,016 |
+| 449 | [Ancient Enemy](games/a/ancient_enemy.md) | 45 | 3.95 | 1,017 |
 | 449 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 45 | 4.19 | 927 |
 | 449 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 45 | 4.79 | 96 |
 | 453 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 44 | 4.49 | 612 |
@@ -503,7 +503,7 @@
 | 499 | [Warpips](games/w/warpips.md) | 31 | 4.43 | 695 |
 | 499 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 31 | 4.51 | 572 |
 | 503 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 30 | 4.14 | 958 |
-| 504 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 29 | 3.94 | 1,019 |
+| 504 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 29 | 3.94 | 1,020 |
 | 504 | [Forspoken](games/f/forspoken.md) | 29 | 4.15 | 951 |
 | 504 | [Speed Brawl](games/s/speed_brawl.md) | 29 | 4.33 | 819 |
 | 504 | [The Surge](games/t/the_surge.md) | 29 | 4.43 | 695 |
