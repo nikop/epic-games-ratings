@@ -148,7 +148,7 @@
 | 130 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.76 | 0 | 557 |
 | 147 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 6,732 | 56 |
 | 147 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.75 | 0 | 557 |
-| 147 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 846 | 167 |
+| 147 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 848 | 167 |
 | 147 | [Haven](games/h/haven.md) | 4.75 | 0 | 557 |
 | 147 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 557 |
 | 147 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.75 | 0 | 557 |
@@ -236,7 +236,7 @@
 | 231 | [Cave Story+](games/c/cave_story+.md) | 4.69 | 119 | 343 |
 | 231 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 7,265 | 54 |
 | 231 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.69 | 5,932 | 65 |
-| 231 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.69 | 8,170 | 46 |
+| 231 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.69 | 8,177 | 46 |
 | 231 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.69 | 0 | 557 |
 | 231 | [House Flipper](games/h/house_flipper.md) | 4.69 | 325 | 250 |
 | 231 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.69 | 0 | 557 |
@@ -421,7 +421,7 @@
 | 388 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 599 | 199 |
 | 420 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 15,150 | 25 |
 | 420 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 557 |
-| 420 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 552 | 207 |
+| 420 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 554 | 207 |
 | 420 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 5,000 | 73 |
 | 420 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 223 | 280 |
 | 420 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 79 | 393 |
@@ -468,7 +468,7 @@
 | 448 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 130 | 331 |
 | 448 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 219 | 283 |
 | 448 | [The Colonists](games/t/the_colonists.md) | 4.58 | 0 | 557 |
-| 448 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.58 | 241 | 272 |
+| 448 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.58 | 242 | 272 |
 | 448 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 56 | 419 |
 | 448 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 4.58 | 119 | 343 |
 | 448 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,583 | 58 |
@@ -1016,7 +1016,7 @@
 | 1,012 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 557 |
 | 1,012 | [The Front](games/t/the_front.md) | 3.97 | 22 | 540 |
 | 1,016 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 449 |
-| 1,016 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.95 | 555 | 206 |
+| 1,016 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.95 | 556 | 206 |
 | 1,016 | [Martha Is Dead](games/m/martha_is_dead.md) | 3.95 | 0 | 557 |
 | 1,019 | [Blazing Sails](games/b/blazing_sails.md) | 3.94 | 420 | 229 |
 | 1,019 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 29 | 504 |
@@ -1049,6 +1049,6 @@
 | 1,047 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.71 | 0 | 557 |
 | 1,048 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 557 |
 | 1,049 | [Adios](games/a/adios.md) | 3.53 | 0 | 557 |
-| 1,050 | [Starship Troopers: Extermination](games/9/9920915e59484e01a3fa39f9a1853311.md) | 3.51 | 0 | 557 |
+| 1,049 | [Starship Troopers: Extermination](games/9/9920915e59484e01a3fa39f9a1853311.md) | 3.53 | 0 | 557 |
 | 1,051 | [Redfall](games/r/redfall.md) | 3.45 | 0 | 557 |
 | 1,052 | [Operation New Earth](games/o/operation_new_earth.md) | 3.21 | 0 | 557 |
