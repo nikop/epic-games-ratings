@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 443,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -6888,9 +6888,9 @@
       "ID": "achievement_33",
       "SetID": "222fo9l",
       "Name": "Wishbone",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 193
     },
     {
       "ID": "achievement_34",
@@ -7065,8 +7065,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-26T22:02:06.8733907+00:00",
-  "LastChanged_Achievements": "2023-12-06T13:14:54.6463552+00:00",
+  "LastChanged_Achievements": "2023-12-06T14:09:50.7384944+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:16.9880376+00:00",
-  "LastUpdate_Ratings": "2023-12-06T13:04:03.1593595+00:00",
-  "LastUpdate_Achievements": "2023-12-06T13:14:54.6464154+00:00"
+  "LastUpdate_Ratings": "2023-12-06T13:58:35.8664342+00:00",
+  "LastUpdate_Achievements": "2023-12-06T14:09:50.738547+00:00"
 }

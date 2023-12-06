@@ -3,8 +3,8 @@
   "Name": "Super Alloy Ranger",
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 425,
-  "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 469,
+  "Ranking_EOS_Completed": 178,
+  "Ranking_EOS_NewPlayers": 412,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 115,
+  "EOS_Progressed": 116,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.87,
+  "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:20.3185117+00:00",
@@ -571,6 +571,11 @@
       "Time": "2023-11-28T17:09:24.6247295+00:00",
       "NumProgressed": 115,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-06T14:10:56.393995+00:00",
+      "NumProgressed": 116,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -612,9 +617,9 @@
       "ID": "Achi_05",
       "SetID": "51a97k7",
       "Name": "The Fortress Conqueror",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "Achi_06",
@@ -676,9 +681,9 @@
       "ID": "Achi_13",
       "SetID": "51a97k7",
       "Name": "Grand Escape",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "Achi_14",
@@ -718,7 +723,7 @@
       "Name": "Gear Up",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Achi_19",
@@ -732,7 +737,7 @@
       "ID": "Achi_20",
       "SetID": "51a97k7",
       "Name": "Freshen Up",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 15,
       "UsersEstimate": 63
     },
@@ -772,9 +777,9 @@
       "ID": "Achi_25",
       "SetID": "51a97k7",
       "Name": "Mr. Want It All",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 19
     },
     {
       "ID": "Achi_26",
@@ -788,7 +793,7 @@
       "ID": "Achi_27",
       "SetID": "51a97k7",
       "Name": "GG EZ",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 20,
       "UsersEstimate": 63
     },
@@ -814,7 +819,7 @@
       "Name": "A Grand Show",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Achi_31",
@@ -894,7 +899,7 @@
       "Name": "Toe to Toe",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Achi_41",
@@ -948,9 +953,9 @@
       "ID": "Achi_47",
       "SetID": "51a97k7",
       "Name": "Phew!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 20
+      "UsersEstimate": 19
     },
     {
       "ID": "Achi_48",
@@ -981,7 +986,7 @@
     {
       "ID": "51a97k7",
       "IsBase": true,
-      "Progressed": 115,
+      "Progressed": 116,
       "Completed": 1
     }
   ],
@@ -989,8 +994,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-12-06T13:15:55.9901697+00:00",
+  "LastChanged_Achievements": "2023-12-06T14:10:56.393994+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:44.734492+00:00",
-  "LastUpdate_Ratings": "2023-12-06T13:04:36.6254698+00:00",
-  "LastUpdate_Achievements": "2023-12-06T13:15:55.9902016+00:00"
+  "LastUpdate_Ratings": "2023-12-06T13:59:12.2010897+00:00",
+  "LastUpdate_Achievements": "2023-12-06T14:10:56.3940274+00:00"
 }

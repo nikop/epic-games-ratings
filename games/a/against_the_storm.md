@@ -24,6 +24,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Scarlet Orchard | 0.30% | ~53 |
 | Fox Utopia | 0.30% | ~53 |
 | Homesick | 0.20% | ~35 |
+| Against All Odds | 0.20% | ~35 |
 | Ruined Armory | 0.20% | ~35 |
 | Bandit Camp | 0.20% | ~35 |
 | Ancient Battleground | 0.20% | ~35 |
@@ -46,7 +47,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lizard Utopia | 0.10% | ~18 |
 | Efficient Explorer | 0.10% | ~18 |
 | Refinery | 0.10% | ~18 |
-| Against All Odds | 0.10% | ~18 |
 | Barren Lands | 0.10% | ~18 |
 | Dangerous Lands | 0.10% | ~18 |
 | Fishmen Ritual Site | 0.10% | ~18 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.00% | ~0 |
 | Treasure | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,629 (Ranked 146)  
+Progressed: 17,630 (Ranked 146)  
 Completed: 48 (0.27%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 48 (0.27%) (Ranked 247)
 | 2023-12-03 | 17,585 | 49 |
 | 2023-12-04 | 17,605 | 49 |
 | 2023-12-05 | 17,618 | 49 |
-| 2023-12-06 | 17,629 | 49 |
+| 2023-12-06 | 17,630 | 49 |
 ## Awards
 Max (Quickly Understood Controls): 441  (Ranked 223)  
 Sum: 3,242 (Ranked 173)  

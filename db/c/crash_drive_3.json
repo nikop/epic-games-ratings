@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 469,
+  "Ranking_EOS_NewPlayers": 412,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 411,
+  "EOS_Progressed": 412,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -619,6 +619,11 @@
       "Time": "2023-11-26T15:03:45.8496084+00:00",
       "NumProgressed": 411,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-06T14:05:24.5050015+00:00",
+      "NumProgressed": 412,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -630,7 +635,7 @@
       "Name": "Brace for impact!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -750,7 +755,7 @@
       "Name": "To and Fro",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "FRONT_OR_BACKFLIP",
@@ -878,7 +883,7 @@
       "Name": "Goodbye cruel world",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "LOADED_LVL_DESERT",
@@ -886,7 +891,7 @@
       "Name": "The Wild West",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "LOADED_LVL_FOREST",
@@ -916,9 +921,9 @@
       "ID": "MAX_MULTIPLIER",
       "SetID": "20koof9",
       "Name": "Multiply that!",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 103
     },
     {
       "ID": "ONE_MILLION_CASH",
@@ -950,7 +955,7 @@
       "Name": "Bag of Tricks",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "STUNT_SCORE_DOUBLE",
@@ -958,7 +963,7 @@
       "Name": "Out of this League",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "TAGGED_25_OBJECTS",
@@ -990,7 +995,7 @@
       "Name": "I see the light!",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "WIN_100_EVENTS",
@@ -1046,7 +1051,7 @@
       "Name": "In the Bag!",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "WIN_TAG_EVENT",
@@ -1054,7 +1059,7 @@
       "Name": "You\u0027re it",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "WIN_TANK_BATTLES",
@@ -1069,7 +1074,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 411,
+      "Progressed": 412,
       "Completed": 2
     }
   ],
@@ -1077,8 +1082,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-12-06T13:10:29.9490645+00:00",
+  "LastChanged_Achievements": "2023-12-06T14:05:24.5050008+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:13.2224849+00:00",
-  "LastUpdate_Ratings": "2023-12-06T13:05:45.3729692+00:00",
-  "LastUpdate_Achievements": "2023-12-06T13:10:29.9491015+00:00"
+  "LastUpdate_Ratings": "2023-12-06T14:00:26.5557102+00:00",
+  "LastUpdate_Achievements": "2023-12-06T14:05:24.5050383+00:00"
 }

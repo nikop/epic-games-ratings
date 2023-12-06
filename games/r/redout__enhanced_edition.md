@@ -6,26 +6,26 @@ Number of Ratings: 274  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~97,067 |
-| NATURAL BORN WINNER | 33.00% | ~78,127 |
-| CALLING HOUSTON | 28.00% | ~66,289 |
+| VANGUARD | 41.00% | ~97,068 |
+| NATURAL BORN WINNER | 33.00% | ~78,128 |
+| CALLING HOUSTON | 28.00% | ~66,290 |
 | SNEAKY SNEAKY | 22.00% | ~52,085 |
 | TRICK UP YOUR SLEEVE | 22.00% | ~52,085 |
 | GT9STRADALE | 20.00% | ~47,350 |
 | CHALLENGER | 11.00% | ~26,042 |
-| ON A ROLL | 9.00% | ~21,307 |
+| ON A ROLL | 9.00% | ~21,308 |
 | CENTAUR | 8.00% | ~18,940 |
 | FASTER THAN EVER | 8.00% | ~18,940 |
 | CHALLENGE THE WORLD | 7.00% | ~16,572 |
 | PHOTOFINISH | 7.00% | ~16,572 |
-| QAREEN | 5.00% | ~11,837 |
-| TAKATORA | 5.00% | ~11,837 |
+| QAREEN | 5.00% | ~11,838 |
+| TAKATORA | 5.00% | ~11,838 |
 | SHOWOFF | 4.00% | ~9,470 |
 | GILA | 3.00% | ~7,102 |
 | PRO | 2.00% | ~4,735 |
 | RESPWND | 2.00% | ~4,735 |
 | SHINY SHINY GOLD | 2.00% | ~4,735 |
-| HARDCORE | 1.00% | ~2,367 |
+| HARDCORE | 1.00% | ~2,368 |
 | ACE | 0.80% | ~1,894 |
 | TACTICIAN | 0.60% | ~1,420 |
 | GTX COMPETIZIONE | 0.50% | ~1,184 |
@@ -34,14 +34,14 @@ Number of Ratings: 274  (23.09.2022)
 | DRAGOON | 0.40% | ~947 |
 | FLAWLESS | 0.40% | ~947 |
 | MARID | 0.30% | ~710 |
-| BETTER THAN EVER | 0.20% | ~473 |
-| IINI | 0.20% | ~473 |
-| NOBUNAGA | 0.20% | ~473 |
-| ODIN | 0.20% | ~473 |
-| PILE UP TROPHIES | 0.20% | ~473 |
+| BETTER THAN EVER | 0.20% | ~474 |
+| IINI | 0.20% | ~474 |
+| NOBUNAGA | 0.20% | ~474 |
+| ODIN | 0.20% | ~474 |
+| PILE UP TROPHIES | 0.20% | ~474 |
 | ENLIGHTENED | 0.10% | ~237 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,748 (Ranked 66)  
+Progressed: 236,750 (Ranked 66)  
 Completed: 49 (0.02%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 49 (0.02%) (Ranked 337)
 | 2023-12-03 | 236,629 | 49 |
 | 2023-12-04 | 236,687 | 49 |
 | 2023-12-05 | 236,719 | 49 |
-| 2023-12-06 | 236,748 | 49 |
+| 2023-12-06 | 236,750 | 49 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

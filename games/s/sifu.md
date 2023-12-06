@@ -34,10 +34,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | I know Kung-Fu | 0.40% | ~2,871 |
 | Kung-Fu Tussle | 0.40% | ~2,871 |
 | Bloody Sport | 0.40% | ~109 |
-| Muk Yan Master | 0.30% | ~2,153 |
-| Tiger on Fire | 0.30% | ~2,153 |
-| Source of Flying Daggers | 0.30% | ~2,153 |
-| Detective Story | 0.30% | ~2,153 |
+| Muk Yan Master | 0.30% | ~2,154 |
+| Tiger on Fire | 0.30% | ~2,154 |
+| Source of Flying Daggers | 0.30% | ~2,154 |
+| Detective Story | 0.30% | ~2,154 |
 | The best strikes are the ones we avoid | 0.30% | ~81 |
 | Iron Money | 0.20% | ~1,436 |
 | Legendary Talismans of Wuxing | 0.20% | ~1,436 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~27 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,833 (Ranked 22)  
+Progressed: 717,835 (Ranked 22)  
 Completed: 12,943 (1.80%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 12,943 (1.80%) (Ranked 136)
 | 2023-12-03 | 717,761 | 12,943 |
 | 2023-12-04 | 717,797 | 12,943 |
 | 2023-12-05 | 717,827 | 12,943 |
-| 2023-12-06 | 717,833 | 12,943 |
+| 2023-12-06 | 717,835 | 12,943 |
 ## Awards
 Max (Great Boss Battles): 6,879  (Ranked 55)  
 Sum: 12,069 (Ranked 83)  

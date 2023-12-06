@@ -1,7 +1,7 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 231)  
+Rating: 4.69 (Ranked 232)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 470,047 (Ranked 41)  
+Progressed: 470,061 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -600,7 +600,7 @@ Completed: 1 (0.00%) (Ranked 369)
 | 2023-12-03 | 468,823 | 1 |
 | 2023-12-04 | 469,312 | 1 |
 | 2023-12-05 | 469,827 | 1 |
-| 2023-12-06 | 470,047 | 1 |
+| 2023-12-06 | 470,061 | 1 |
 ## Awards
 Max (Educational): 7,265  (Ranked 54)  
 Sum: 59,896 (Ranked 24)  

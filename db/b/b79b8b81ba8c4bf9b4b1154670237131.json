@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -113,9 +113,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14482,
+  "EOS_Progressed": 14484,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 868,
+  "EOS_NewPlayers": 867,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2688,6 +2688,11 @@
       "Time": "2023-12-06T13:14:54.2704117+00:00",
       "NumProgressed": 14482,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-06T14:09:50.4308697+00:00",
+      "NumProgressed": 14484,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -2700,7 +2705,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 5503
+      "UsersEstimate": 5504
     },
     {
       "ID": "ACH_AE_10",
@@ -2708,7 +2713,7 @@
       "Name": "Together We Fight",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "ACH_AE_11",
@@ -2732,7 +2737,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 10862
+      "UsersEstimate": 10863
     },
     {
       "ID": "ACH_AE_14",
@@ -2780,7 +2785,7 @@
       "Name": "Signature Style",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2027
+      "UsersEstimate": 2028
     },
     {
       "ID": "ACH_AE_2",
@@ -2868,7 +2873,7 @@
       "Name": "Swiped Right",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "ACH_AE_3",
@@ -2979,7 +2984,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 14482,
+      "Progressed": 14484,
       "Completed": 14
     }
   ],
@@ -2987,8 +2992,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-06T04:58:43.6261983+00:00",
-  "LastChanged_Achievements": "2023-12-06T13:14:54.2704108+00:00",
+  "LastChanged_Achievements": "2023-12-06T14:09:50.4308692+00:00",
   "LastUpdate_AppInfo": "2023-12-05T16:57:22.7146917+00:00",
-  "LastUpdate_Ratings": "2023-12-06T13:05:22.5997997+00:00",
-  "LastUpdate_Achievements": "2023-12-06T13:14:54.2704512+00:00"
+  "LastUpdate_Ratings": "2023-12-06T14:00:01.5978165+00:00",
+  "LastUpdate_Achievements": "2023-12-06T14:09:50.4309049+00:00"
 }

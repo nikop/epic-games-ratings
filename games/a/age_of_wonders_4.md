@@ -53,9 +53,9 @@ Rating: 4.62 (Ranked 368)
 | One for All, All for One | 0.60% | ~33 |
 | Pruning for Progress | 0.50% | ~28 |
 | Duality | 0.50% | ~28 |
+| The Magic That Empowers Me! | 0.30% | ~17 |
 | Betrayal Most Foul | 0.30% | ~17 |
 | Snap Out of It! | 0.20% | ~11 |
-| The Magic That Empowers Me! | 0.20% | ~11 |
 | Jack of All Tomes | 0.20% | ~11 |
 | A Very Special Ring | 0.20% | ~11 |
 | I Want to Break Free | 0.10% | ~6 |

@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 236748,
+  "EOS_Progressed": 236750,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -24487,6 +24487,11 @@
       "Time": "2023-12-06T13:13:14.2176417+00:00",
       "NumProgressed": 236748,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-06T14:08:24.1751589+00:00",
+      "NumProgressed": 236750,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -24506,7 +24511,7 @@
       "Name": "BETTER THAN EVER",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "CALLINGHOUSTON",
@@ -24514,7 +24519,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 66289
+      "UsersEstimate": 66290
     },
     {
       "ID": "CENTAUR",
@@ -24602,7 +24607,7 @@
       "Name": "HARDCORE",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2367
+      "UsersEstimate": 2368
     },
     {
       "ID": "HIDDENPOWER",
@@ -24618,7 +24623,7 @@
       "Name": "IINI",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "MARID",
@@ -24634,7 +24639,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 78127
+      "UsersEstimate": 78128
     },
     {
       "ID": "NOBUNAGA",
@@ -24642,7 +24647,7 @@
       "Name": "NOBUNAGA",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "ODIN",
@@ -24650,7 +24655,7 @@
       "Name": "ODIN",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "ONAROLL",
@@ -24658,7 +24663,7 @@
       "Name": "ON A ROLL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21307
+      "UsersEstimate": 21308
     },
     {
       "ID": "PHOTOFINISH",
@@ -24674,7 +24679,7 @@
       "Name": "PILE UP TROPHIES",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "PRO",
@@ -24690,7 +24695,7 @@
       "Name": "QAREEN",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11837
+      "UsersEstimate": 11838
     },
     {
       "ID": "RESPWND",
@@ -24738,7 +24743,7 @@
       "Name": "TAKATORA",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11837
+      "UsersEstimate": 11838
     },
     {
       "ID": "TRICKUPYOURSLEEVE",
@@ -24762,22 +24767,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 97067
+      "UsersEstimate": 97068
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 236748,
+      "Progressed": 236750,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-12-06T13:13:14.2176412+00:00",
+  "LastChanged_Achievements": "2023-12-06T14:08:24.1751582+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:57.5074275+00:00",
-  "LastUpdate_Ratings": "2023-12-06T13:05:11.5900116+00:00",
-  "LastUpdate_Achievements": "2023-12-06T13:13:14.217752+00:00"
+  "LastUpdate_Ratings": "2023-12-06T13:59:50.0826853+00:00",
+  "LastUpdate_Achievements": "2023-12-06T14:08:24.1753841+00:00"
 }

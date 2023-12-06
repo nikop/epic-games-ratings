@@ -9486,9 +9486,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 67214,
+  "EOS_Progressed": 67218,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 615,
+  "EOS_NewPlayers": 612,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33786,6 +33786,11 @@
       "Time": "2023-12-06T13:15:57.4199171+00:00",
       "NumProgressed": 67214,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T14:10:57.8657857+00:00",
+      "NumProgressed": 67218,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -33805,7 +33810,7 @@
       "Name": "Apple of my eye",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10754
+      "UsersEstimate": 10755
     },
     {
       "ID": "Bannerlord",
@@ -33813,7 +33818,7 @@
       "Name": "Bannerlord",
       "Percentage": 24,
       "XP": 65,
-      "UsersEstimate": 16131
+      "UsersEstimate": 16132
     },
     {
       "ID": "Best served cold",
@@ -33837,7 +33842,7 @@
       "Name": "Butterlord",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 6049
+      "UsersEstimate": 6050
     },
     {
       "ID": "Catch",
@@ -33877,7 +33882,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6721
+      "UsersEstimate": 6722
     },
     {
       "ID": "Dynasty",
@@ -33885,7 +33890,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 6721
+      "UsersEstimate": 6722
     },
     {
       "ID": "Entrepreneur",
@@ -33917,7 +33922,7 @@
       "Name": "Freedom!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "God of the Arena",
@@ -33957,7 +33962,7 @@
       "Name": "Horde breaker",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 16131
+      "UsersEstimate": 16132
     },
     {
       "ID": "I can do it",
@@ -33965,7 +33970,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10754
+      "UsersEstimate": 10755
     },
     {
       "ID": "I spit on your grave",
@@ -33973,7 +33978,7 @@
       "Name": "I spit on your grave",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6721
+      "UsersEstimate": 6722
     },
     {
       "ID": "Jack of All Trades",
@@ -34021,7 +34026,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 22181
+      "UsersEstimate": 22182
     },
     {
       "ID": "Lawbringer",
@@ -34029,7 +34034,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26886
+      "UsersEstimate": 26887
     },
     {
       "ID": "Lawmaker",
@@ -34037,7 +34042,7 @@
       "Name": "Lawmaker",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 16131
+      "UsersEstimate": 16132
     },
     {
       "ID": "Long live the Empire",
@@ -34045,7 +34050,7 @@
       "Name": "Long live the Empire!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "Mastery",
@@ -34085,7 +34090,7 @@
       "Name": "Real Estate",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "Ride it like you stole it",
@@ -34157,7 +34162,7 @@
       "Name": "This Is Our Land",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 9410
+      "UsersEstimate": 9411
     },
     {
       "ID": "This is Sparta",
@@ -34173,7 +34178,7 @@
       "Name": "Trained",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 16131
+      "UsersEstimate": 16132
     },
     {
       "ID": "Undercover",
@@ -34197,22 +34202,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6721
+      "UsersEstimate": 6722
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 67214,
+      "Progressed": 67218,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-12-06T11:01:21.6944411+00:00",
-  "LastChanged_Achievements": "2023-12-06T13:15:57.4199165+00:00",
+  "LastChanged_Achievements": "2023-12-06T14:10:57.8657851+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:33.4590063+00:00",
-  "LastUpdate_Ratings": "2023-12-06T13:06:52.4758116+00:00",
-  "LastUpdate_Achievements": "2023-12-06T13:15:57.4200339+00:00"
+  "LastUpdate_Ratings": "2023-12-06T14:01:40.1145685+00:00",
+  "LastUpdate_Achievements": "2023-12-06T14:10:57.8659586+00:00"
 }

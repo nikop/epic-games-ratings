@@ -15,12 +15,12 @@ Rating: 4.64 (Ranked 337)
 | We're All Very Impressed, Trust Me | 3.00% | ~740 |
 | First Bounty Down | 3.00% | ~740 |
 | G3 Graduation | 3.00% | ~740 |
+| Hardest Battle In The Game | 3.00% | ~740 |
 | Who's The Boss? | 3.00% | ~740 |
 | Don't Knife The Hand That Feeds | 3.00% | ~740 |
 | Lezduit! | 2.00% | ~493 |
 | Eye Scream, You Scream | 2.00% | ~493 |
 | Legendary Bounty Hunter | 2.00% | ~493 |
-| Hardest Battle In The Game | 2.00% | ~493 |
 | Self-Actualization | 2.00% | ~493 |
 | Fallout Doesn't Let You Do This | 2.00% | ~493 |
 | Spent 15 Hours At The Alien Strip Club | 2.00% | ~493 |

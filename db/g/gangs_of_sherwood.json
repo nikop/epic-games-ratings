@@ -416,9 +416,9 @@
       "ID": "ACH_COOP_MISSIONS",
       "SetID": "5akmpni",
       "Name": "Merry Co-operation",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_ENCOUNTER_S_RANK",
@@ -440,9 +440,9 @@
       "ID": "ACH_ENEMY_LEDGE_FALL",
       "SetID": "5akmpni",
       "Name": "Watch your Step!",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_ENEMY_LEDGE_THROW",
@@ -632,9 +632,9 @@
       "ID": "ACH_REBEL_INSTINCT",
       "SetID": "5akmpni",
       "Name": "Rebel Unleashed",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_REPUTATION_LVL_4",
@@ -711,8 +711,8 @@
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-12-06T13:13:22.7188909+00:00",
+  "LastChanged_Achievements": "2023-12-06T14:08:33.8189694+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:51.6227723+00:00",
-  "LastUpdate_Ratings": "2023-12-06T13:04:42.2359892+00:00",
-  "LastUpdate_Achievements": "2023-12-06T13:13:22.7189316+00:00"
+  "LastUpdate_Ratings": "2023-12-06T13:59:18.5377716+00:00",
+  "LastUpdate_Achievements": "2023-12-06T14:08:33.8190059+00:00"
 }

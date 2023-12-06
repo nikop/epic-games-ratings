@@ -1154,9 +1154,9 @@
       "ID": "FIRST_POWER_BOOST",
       "SetID": "apihg0e",
       "Name": "Speed Demon",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 194
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1202,9 +1202,9 @@
       "ID": "MAIN_CLEAR_ISLAND2",
       "SetID": "apihg0e",
       "Name": "Ancient Defiance",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 42
     },
     {
       "ID": "MAIN_CLEAR_ISLAND3",
@@ -1369,8 +1369,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-06T13:10:02.5616696+00:00",
+  "LastChanged_Achievements": "2023-12-06T14:04:54.302445+00:00",
   "LastUpdate_AppInfo": "2023-12-05T17:57:05.1429392+00:00",
-  "LastUpdate_Ratings": "2023-12-06T13:08:55.8378115+00:00",
-  "LastUpdate_Achievements": "2023-12-06T13:10:02.5617037+00:00"
+  "LastUpdate_Ratings": "2023-12-06T14:03:40.150313+00:00",
+  "LastUpdate_Achievements": "2023-12-06T14:04:54.3024742+00:00"
 }

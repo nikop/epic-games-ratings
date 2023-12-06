@@ -4,7 +4,7 @@
   "ProductSlug": "zoeti-3ccef9",
   "Ranking_EOS_Progress": 540,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 469,
+  "Ranking_EOS_NewPlayers": 471,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-16T22:30:00+00:00",
@@ -216,9 +216,9 @@
       "ID": "BOSS_KILL3",
       "SetID": "1icc7kd",
       "Name": "Boulder Breaker",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "BOSS_KILL4",
@@ -415,8 +415,8 @@
   ],
   "FirstSeen": "2023-05-19T06:56:53.0270163+00:00",
   "FirstSeenAchievements": "2023-05-16T17:00:43.3294802+00:00",
-  "LastChanged_Achievements": "2023-12-06T13:15:47.1432967+00:00",
+  "LastChanged_Achievements": "2023-12-06T14:10:47.0085148+00:00",
   "LastUpdate_AppInfo": "2023-12-06T11:56:58.3537091+00:00",
-  "LastUpdate_Ratings": "2023-12-06T13:04:44.2938307+00:00",
-  "LastUpdate_Achievements": "2023-12-06T13:15:47.1433166+00:00"
+  "LastUpdate_Ratings": "2023-12-06T13:59:20.7473083+00:00",
+  "LastUpdate_Achievements": "2023-12-06T14:10:47.0085306+00:00"
 }

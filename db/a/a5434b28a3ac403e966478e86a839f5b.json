@@ -2,10 +2,10 @@
   "ID": "a5434b28a3ac403e966478e86a839f5b",
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
-  "Ranking_EOS_Progress": 302,
+  "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 589,
+  "EOS_Progressed": 590,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.36,
   "EosHistory": [
@@ -1945,6 +1945,11 @@
       "Time": "2023-12-06T13:12:32.0258461+00:00",
       "NumProgressed": 589,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-06T14:07:37.1847196+00:00",
+      "NumProgressed": 590,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1989,7 +1994,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_eou5",
@@ -1997,7 +2002,7 @@
       "Name": "Shut Down Processing Plant",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_eou6",
@@ -2005,7 +2010,7 @@
       "Name": "Destroy Strogg Main Reactor",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_eou7",
@@ -2013,7 +2018,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_eou8",
@@ -2060,14 +2065,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 589,
+      "Progressed": 590,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-06T13:12:32.0258454+00:00",
+  "LastChanged_Achievements": "2023-12-06T14:07:37.184719+00:00",
   "LastUpdate_AppInfo": "2023-12-01T02:57:04.7742385+00:00",
-  "LastUpdate_Ratings": "2023-12-06T13:06:05.6062899+00:00",
-  "LastUpdate_Achievements": "2023-12-06T13:12:32.0258672+00:00"
+  "LastUpdate_Ratings": "2023-12-06T14:00:48.0384975+00:00",
+  "LastUpdate_Achievements": "2023-12-06T14:07:37.1847373+00:00"
 }

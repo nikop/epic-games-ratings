@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 459,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -7820,9 +7820,9 @@
       "ID": "13",
       "SetID": "3aa2279",
       "Name": "The Magic That Empowers Me!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 17
     },
     {
       "ID": "14",
@@ -8283,8 +8283,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-06T09:59:38.5401688+00:00",
-  "LastChanged_Achievements": "2023-12-06T13:13:32.1678512+00:00",
+  "LastChanged_Achievements": "2023-12-06T14:08:43.2353825+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:28.1716609+00:00",
-  "LastUpdate_Ratings": "2023-12-06T13:06:37.3183086+00:00",
-  "LastUpdate_Achievements": "2023-12-06T13:13:32.1679234+00:00"
+  "LastUpdate_Ratings": "2023-12-06T14:01:22.7108094+00:00",
+  "LastUpdate_Achievements": "2023-12-06T14:08:43.2354621+00:00"
 }

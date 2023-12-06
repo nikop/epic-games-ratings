@@ -2,7 +2,7 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
-  "Ranking_Rating": 478,
+  "Ranking_Rating": 477,
   "Ranking_Popularity": 467,
   "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 170,
@@ -967,9 +967,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9247,
+  "EOS_Progressed": 9248,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -8857,6 +8857,11 @@
       "Time": "2023-12-06T11:07:05.5330631+00:00",
       "NumProgressed": 9247,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-06T14:07:33.9271358+00:00",
+      "NumProgressed": 9248,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -8932,7 +8937,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1849
+      "UsersEstimate": 1850
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -9036,7 +9041,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3236
+      "UsersEstimate": 3237
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -9162,9 +9167,9 @@
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
       "SetID": "akchbl3",
       "Name": "The Lion of the Isonzo",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1387
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -9227,7 +9232,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9247,
+      "Progressed": 9248,
       "Completed": 10
     }
   ],
@@ -9235,8 +9240,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-03T20:00:14.2357613+00:00",
-  "LastChanged_Achievements": "2023-12-06T13:12:28.9568662+00:00",
+  "LastChanged_Achievements": "2023-12-06T14:07:33.9271351+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:20.0438707+00:00",
-  "LastUpdate_Ratings": "2023-12-06T13:03:08.4680163+00:00",
-  "LastUpdate_Achievements": "2023-12-06T13:12:28.9569229+00:00"
+  "LastUpdate_Ratings": "2023-12-06T13:57:36.6702253+00:00",
+  "LastUpdate_Achievements": "2023-12-06T14:07:33.9271884+00:00"
 }

@@ -1,22 +1,22 @@
 # Goat Simulator 3
 [Store](https://store.epicgames.com/en-US/p/goat-simulator-3)  
 [View Rawdata](../../db/g/goat_simulator_3.json)  
-Rating: 4.84 (Ranked 52)  
+Rating: 4.84 (Ranked 51)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~230,397 |
-| Private Club | 74.00% | ~187,356 |
-| Rogue Guild | 65.00% | ~164,570 |
-| I Watched the Intro | 57.00% | ~144,315 |
-| Covert Consortium | 55.00% | ~139,251 |
-| Goat Queen | 53.00% | ~134,188 |
-| Reach the Stratosphere | 51.00% | ~129,124 |
-| Synchronization Complete | 47.00% | ~118,996 |
-| Secret Society | 45.00% | ~113,933 |
-| Shadow Syndicate | 38.00% | ~96,210 |
+| Forgotten Sorority | 91.00% | ~230,399 |
+| Private Club | 74.00% | ~187,358 |
+| Rogue Guild | 65.00% | ~164,571 |
+| I Watched the Intro | 57.00% | ~144,316 |
+| Covert Consortium | 55.00% | ~139,252 |
+| Goat Queen | 53.00% | ~134,189 |
+| Reach the Stratosphere | 51.00% | ~129,125 |
+| Synchronization Complete | 47.00% | ~118,997 |
+| Secret Society | 45.00% | ~113,934 |
+| Shadow Syndicate | 38.00% | ~96,211 |
 | What a Waste of Money | 33.00% | ~83,551 |
-| New Goat Order | 30.00% | ~75,955 |
+| New Goat Order | 30.00% | ~75,956 |
 | Don't touch the servers | 28.00% | ~70,892 |
 | San Angora: Become Human | 27.00% | ~68,360 |
 | Real Buoy | 27.00% | ~68,360 |
@@ -24,7 +24,7 @@ Rating: 4.84 (Ranked 52)
 | Welcome to Earth | 25.00% | ~63,296 |
 | Into the Matrix | 19.00% | ~48,105 |
 | Egg Simulator | 18.00% | ~45,573 |
-| Where is It? | 17.00% | ~43,041 |
+| Where is It? | 17.00% | ~43,042 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~37,978 |
 | 401(K.O.) | 15.00% | ~37,978 |
 | Black Market | 14.00% | ~35,446 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 52)
 | Move! That! Bus! | 0.60% | ~1,519 |
 | G.O.A.T | 0.40% | ~1,013 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,184 (Ranked 60)  
+Progressed: 253,186 (Ranked 60)  
 Completed: 895 (0.35%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 895 (0.35%) (Ranked 230)
 | 2023-12-03 | 252,977 | 894 |
 | 2023-12-04 | 253,052 | 895 |
 | 2023-12-05 | 253,140 | 895 |
-| 2023-12-06 | 253,184 | 895 |
+| 2023-12-06 | 253,186 | 895 |
 ## Awards
 Max (Great for Beginners): 481  (Ranked 215)  
 Sum: 3,985 (Ranked 156)  

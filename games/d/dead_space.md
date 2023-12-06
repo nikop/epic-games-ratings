@@ -44,7 +44,7 @@ Rating: 4.64 (Ranked 337)
 | Marked | 22.00% | ~473 |
 | Eviscerator | 19.00% | ~408 |
 | Backbreaker | 14.00% | ~301 |
-| Wishbone | 8.00% | ~172 |
+| Wishbone | 9.00% | ~193 |
 | Trusted Contractor | 7.00% | ~150 |
 | Built To Order | 6.00% | ~129 |
 | Merchant | 5.00% | ~107 |

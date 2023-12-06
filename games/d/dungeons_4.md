@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Last Stand | 89.00% | ~472 |
-| Thalya – Simply Immortal | 88.00% | ~466 |
-| For the Horde! | 82.00% | ~435 |
+| Thalya – Simply Immortal | 89.00% | ~472 |
+| For the Horde! | 83.00% | ~440 |
 | Hammer Time, Round Two | 81.00% | ~429 |
 | The Hellwoods | 76.00% | ~403 |
 | Experienced Thalya | 72.00% | ~382 |
@@ -34,26 +34,26 @@
 | All’s Well That Ends Evil | 33.00% | ~175 |
 | Unstoppable Horde | 32.00% | ~170 |
 | Master of the Undead | 31.00% | ~164 |
-| The Duel | 30.00% | ~159 |
+| The Duel | 31.00% | ~164 |
 | If Looks Could Kill | 28.00% | ~148 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~143 |
 | Hungry, Hungry Gorgu! | 26.00% | ~138 |
 | Forbidden Knowledge | 26.00% | ~138 |
 | Ghost Pirates? Ghost Heroes! | 26.00% | ~138 |
 | The Finitude Drill | 25.00% | ~132 |
+| Doom Hill | 23.00% | ~122 |
 | Stop Tanos! | 22.00% | ~117 |
-| Doom Hill | 22.00% | ~117 |
 | Brimstone Shaken, Not Stirred | 21.00% | ~111 |
 | Sabotage! | 20.00% | ~106 |
 | Bonus Evilness | 19.00% | ~101 |
 | Raiders of the Lost Stone | 19.00% | ~101 |
 | The Rune Sockets of Finitude (Part 1) | 18.00% | ~95 |
+| The Rune Sockets of Finitude (Part 2) | 17.00% | ~90 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~85 |
 | My Little Torture Chamber | 16.00% | ~85 |
-| The Rune Sockets of Finitude (Part 2) | 16.00% | ~85 |
+| Rubble and Ashes | 16.00% | ~85 |
 | Lavalumps on Ice! | 15.00% | ~80 |
-| Rubble and Ashes | 15.00% | ~80 |
-| The Last Stand - This Time For Real! | 14.00% | ~74 |
+| The Last Stand - This Time For Real! | 15.00% | ~80 |
 | To Infinity And Beyond! | 13.00% | ~69 |
 | Mirror, Mirror | 12.00% | ~64 |
 | Untouchable | 12.00% | ~64 |

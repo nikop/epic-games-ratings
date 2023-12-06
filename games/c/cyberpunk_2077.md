@@ -6,39 +6,39 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,525 |
-| Gun Fu | 7.00% | ~67,973 |
-| The Fool | 6.00% | ~58,262 |
-| Right Back At Ya | 5.00% | ~48,552 |
-| The Lovers | 4.00% | ~38,842 |
-| Full Body Conversion | 3.00% | ~29,131 |
-| Stanislavski's Method | 3.00% | ~29,131 |
-| The Hermit | 3.00% | ~29,131 |
-| The Wheel of Fortune | 3.00% | ~29,131 |
-| True Soldier | 3.00% | ~29,131 |
-| Relic Ruler | 3.00% | ~2,990 |
-| Christmas Tree Attack | 2.00% | ~19,421 |
-| The Quick and the Dead | 2.00% | ~19,421 |
-| Life of the Road | 2.00% | ~19,421 |
-| The High Priestess | 2.00% | ~19,421 |
-| True Warrior | 2.00% | ~19,421 |
-| Legend of The Afterlife | 2.00% | ~19,421 |
-| All the President's Men | 2.00% | ~1,993 |
-| Arachnophobia | 2.00% | ~1,993 |
-| Bushido and Chill | 1.00% | ~9,710 |
-| To Protect and Serve | 1.00% | ~9,710 |
-| Master Crafter | 1.00% | ~9,710 |
-| I Am The Law | 1.00% | ~9,710 |
-| The World | 1.00% | ~9,710 |
-| Two Heads, One Bullet | 1.00% | ~9,710 |
-| Judy vs Night City | 1.00% | ~9,710 |
+| V for Vendetta | 12.00% | ~116,531 |
+| Gun Fu | 7.00% | ~67,976 |
+| The Fool | 6.00% | ~58,265 |
+| Right Back At Ya | 5.00% | ~48,554 |
+| The Lovers | 4.00% | ~38,844 |
+| Full Body Conversion | 3.00% | ~29,133 |
+| Stanislavski's Method | 3.00% | ~29,133 |
+| The Hermit | 3.00% | ~29,133 |
+| The Wheel of Fortune | 3.00% | ~29,133 |
+| True Soldier | 3.00% | ~29,133 |
+| Relic Ruler | 3.00% | ~2,991 |
+| Christmas Tree Attack | 2.00% | ~19,422 |
+| The Quick and the Dead | 2.00% | ~19,422 |
+| Life of the Road | 2.00% | ~19,422 |
+| The High Priestess | 2.00% | ~19,422 |
+| True Warrior | 2.00% | ~19,422 |
+| Legend of The Afterlife | 2.00% | ~19,422 |
+| All the President's Men | 2.00% | ~1,994 |
+| Arachnophobia | 2.00% | ~1,994 |
+| Bushido and Chill | 1.00% | ~9,711 |
+| To Protect and Serve | 1.00% | ~9,711 |
+| Master Crafter | 1.00% | ~9,711 |
+| I Am The Law | 1.00% | ~9,711 |
+| The World | 1.00% | ~9,711 |
+| Two Heads, One Bullet | 1.00% | ~9,711 |
+| Judy vs Night City | 1.00% | ~9,711 |
 | Spin Doctor | 0.90% | ~897 |
-| Easy Come, Easy Go | 0.80% | ~797 |
-| The Wandering Fool | 0.70% | ~6,797 |
+| Easy Come, Easy Go | 0.80% | ~798 |
+| The Wandering Fool | 0.70% | ~6,798 |
 | King of Wands | 0.70% | ~698 |
 | Dirty Deeds | 0.70% | ~698 |
-| Ten out of Ten | 0.60% | ~5,826 |
-| The Sun | 0.60% | ~5,826 |
+| Ten out of Ten | 0.60% | ~5,827 |
+| The Sun | 0.60% | ~5,827 |
 | To Bad Decisions! | 0.50% | ~4,855 |
 | The Star | 0.50% | ~4,855 |
 | Autojock | 0.40% | ~3,884 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 971,041 (Ranked 15)  
+Progressed: 971,088 (Ranked 15)  
 Completed: 2,847 (0.29%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,10 +304,10 @@ Completed: 2,847 (0.29%) (Ranked 240)
 | 2023-12-03 | 969,229 | 2,839 |
 | 2023-12-04 | 970,004 | 2,843 |
 | 2023-12-05 | 970,654 | 2,844 |
-| 2023-12-06 | 971,041 | 2,847 |
+| 2023-12-06 | 971,088 | 2,847 |
 ## Awards
 Max (Character Customization): 117,137  (Ranked 9)  
-Sum: 392,612 (Ranked 9)  
+Sum: 393,061 (Ranked 9)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -315,13 +315,13 @@ Diff (max vs sum): 0
 | This game has Great Boss Battles | 84,999 |
 | This game is Great for Beginners | 23,629 |
 | This game has Diverse Characters | 23,279 |
-| This game is Highly Recommended | 22,110 |
+| This game is Highly Recommended | 22,389 |
 | This game has Amazing Storytelling | 22,107 |
 | This game is Extremely Fun | 21,779 |
 | This game has Amazing Characters | 21,524 |
 | This game has Quickly Understood Controls | 20,844 |
 | This game is Relaxing | 20,820 |
-| This game has a Creative Community | 14,384 |
+| This game has a Creative Community | 14,554 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -646,4 +646,4 @@ Diff (max vs sum): 0
 | 2023-12-03 | 4.65 | - | 115,469 | 385,067 |
 | 2023-12-04 | 4.66 | - | 116,208 | 387,763 |
 | 2023-12-05 | 4.66 | - | 117,137 | 391,296 |
-| 2023-12-06 | 4.66 | - | 117,137 | 392,612 |
+| 2023-12-06 | 4.66 | - | 117,137 | 393,061 |

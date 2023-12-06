@@ -6,24 +6,24 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 2.00% | ~21,478 |
-| Zealous | 1.00% | ~10,739 |
-| Not half bad | 1.00% | ~10,739 |
-| Apt Survivor | 1.00% | ~10,739 |
-| Skillful | 1.00% | ~10,739 |
-| Make Some Noise | 1.00% | ~10,739 |
-| Handyman | 0.90% | ~9,665 |
-| Survival Treasures | 0.90% | ~9,665 |
-| I | 0.90% | ~9,665 |
-| No one left behind | 0.80% | ~8,591 |
-| Sorted | 0.80% | ~8,591 |
-| Resurgence | 0.80% | ~8,591 |
-| The Grand Sacrifice | 0.70% | ~7,517 |
-| Medic | 0.70% | ~7,517 |
-| Bloody Millionaire | 0.70% | ~7,517 |
-| Healthy Obsession | 0.70% | ~7,517 |
-| Preemptive Strike | 0.70% | ~7,517 |
-| Humanitarian | 0.70% | ~7,517 |
+| It wakes | 2.00% | ~21,481 |
+| Zealous | 1.00% | ~10,740 |
+| Not half bad | 1.00% | ~10,740 |
+| Apt Survivor | 1.00% | ~10,740 |
+| Skillful | 1.00% | ~10,740 |
+| Make Some Noise | 1.00% | ~10,740 |
+| Handyman | 0.90% | ~9,666 |
+| Survival Treasures | 0.90% | ~9,666 |
+| I | 0.90% | ~9,666 |
+| No one left behind | 0.80% | ~8,592 |
+| Sorted | 0.80% | ~8,592 |
+| Resurgence | 0.80% | ~8,592 |
+| Preemptive Strike | 0.80% | ~8,592 |
+| The Grand Sacrifice | 0.70% | ~7,518 |
+| Medic | 0.70% | ~7,518 |
+| Bloody Millionaire | 0.70% | ~7,518 |
+| Healthy Obsession | 0.70% | ~7,518 |
+| Humanitarian | 0.70% | ~7,518 |
 | Agonizing Escape | 0.60% | ~6,444 |
 | Backdoor Escape | 0.60% | ~6,444 |
 | I've got your back | 0.60% | ~6,444 |
@@ -43,6 +43,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | First to the Punch | 0.40% | ~4,296 |
 | Operation: Survival | 0.40% | ~4,296 |
 | Every Last Drop | 0.40% | ~4,296 |
+| Raccoon City Recruit | 0.40% | ~4,296 |
 | With Scars to Show | 0.40% | ~4,296 |
 | Flight to Freedom | 0.40% | ~4,296 |
 | Lifting The Fog | 0.40% | ~4,296 |
@@ -66,7 +67,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Grim Pilgrimage | 0.30% | ~3,222 |
 | Old West Oasis | 0.30% | ~3,222 |
 | Classy Act | 0.30% | ~3,222 |
-| Raccoon City Recruit | 0.30% | ~3,222 |
 | Chorus of Chaos | 0.30% | ~3,222 |
 | One More Step | 0.30% | ~3,222 |
 | MU/TH/UR Dearest | 0.30% | ~3,222 |
@@ -93,6 +93,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | High Speed Pursuit | 0.20% | ~2,148 |
 | A Fast Death | 0.20% | ~2,148 |
 | Rebuilding The Borgo | 0.20% | ~2,148 |
+| Complete the Evolution | 0.20% | ~2,148 |
 | Extraterrestrial | 0.20% | ~2,148 |
 | Outta Nowhere | 0.20% | ~2,148 |
 | A feast for the Entity | 0.10% | ~1,074 |
@@ -227,7 +228,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Thalita | 0.10% | ~1,074 |
 | Adept Renato | 0.10% | ~1,074 |
 | Slip Into the Stream | 0.10% | ~1,074 |
-| Complete the Evolution | 0.10% | ~1,074 |
 | Adept Singularity | 0.10% | ~1,074 |
 | Adept Gabriel | 0.10% | ~1,074 |
 | Adept Cage | 0.10% | ~1,074 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Joke’s On You | 0.10% | ~1,074 |
 | Adept Good Guy | 0.10% | ~1,074 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,073,919 (Ranked 14)  
+Progressed: 1,074,039 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -469,7 +469,7 @@ Completed: 61 (0.01%) (Ranked 347)
 | 2023-12-03 | 1,067,390 | 61 |
 | 2023-12-04 | 1,070,133 | 61 |
 | 2023-12-05 | 1,072,750 | 61 |
-| 2023-12-06 | 1,073,919 | 61 |
+| 2023-12-06 | 1,074,039 | 61 |
 ## Awards
 Max (Diverse Characters): 37,377  (Ranked 15)  
 Sum: 283,594 (Ranked 12)  

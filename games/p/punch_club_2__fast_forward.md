@@ -35,7 +35,7 @@
 | Intriguing candies | 57.00% | ~205 |
 | Legal courier | 56.00% | ~202 |
 | Extreme neuropower! | 55.00% | ~198 |
-| Escaped from a big trouble | 52.00% | ~187 |
+| Escaped from a big trouble | 53.00% | ~191 |
 | Now you are worthy | 49.00% | ~176 |
 | Fight is life | 47.00% | ~169 |
 | Mysterious voice | 47.00% | ~169 |
@@ -56,22 +56,22 @@
 | Problems of cyborgs | 36.00% | ~130 |
 | Not little hacker | 36.00% | ~130 |
 | Absolute Champion! | 36.00% | ~130 |
+| The lonesome road | 35.00% | ~126 |
+| Key memories | 35.00% | ~126 |
+| The heart of the Resistance | 35.00% | ~126 |
 | Your own way | 35.00% | ~126 |
 | Trap disarmed | 34.00% | ~122 |
 | Another world | 34.00% | ~122 |
-| The lonesome road | 34.00% | ~122 |
 | Keep nature safe | 34.00% | ~122 |
 | Family comes first | 34.00% | ~122 |
-| Key memories | 34.00% | ~122 |
 | Careerist | 34.00% | ~122 |
 | Anyone can resist | 34.00% | ~122 |
-| The heart of the Resistance | 34.00% | ~122 |
 | The last bell ring | 32.00% | ~115 |
+| Silver’s past | 31.00% | ~112 |
 | Better cooking at home | 31.00% | ~112 |
 | The only right decision | 31.00% | ~112 |
-| Silver’s past | 30.00% | ~108 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 360 (Ranked 337)  
+Progressed: 360 (Ranked 338)  
 Completed: 9 (2.50%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |

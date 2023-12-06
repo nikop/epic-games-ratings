@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -329,9 +329,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22576,
+  "EOS_Progressed": 22577,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 789,
+  "EOS_NewPlayers": 782,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -18889,6 +18889,11 @@
       "Time": "2023-12-06T13:11:15.0286721+00:00",
       "NumProgressed": 22576,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-12-06T14:06:13.3695319+00:00",
+      "NumProgressed": 22577,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 16,
@@ -18996,7 +19001,7 @@
       "Name": "Shooting Shark",
       "Percentage": 48,
       "XP": 90,
-      "UsersEstimate": 10836
+      "UsersEstimate": 10837
     },
     {
       "ID": "Sole_Survivor",
@@ -19027,15 +19032,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 22576,
+      "Progressed": 22577,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-11-18T21:04:30.8986363+00:00",
-  "LastChanged_Achievements": "2023-12-06T13:11:15.0286716+00:00",
+  "LastChanged_Achievements": "2023-12-06T14:06:13.3695314+00:00",
   "LastUpdate_AppInfo": "2023-12-02T20:57:17.3342523+00:00",
-  "LastUpdate_Ratings": "2023-12-06T13:05:10.2136389+00:00",
-  "LastUpdate_Achievements": "2023-12-06T13:11:15.0287631+00:00"
+  "LastUpdate_Ratings": "2023-12-06T13:59:48.6607731+00:00",
+  "LastUpdate_Achievements": "2023-12-06T14:06:13.3696471+00:00"
 }

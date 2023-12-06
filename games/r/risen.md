@@ -1,7 +1,7 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.57 (Ranked 478)  
+Rating: 4.57 (Ranked 477)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -40,10 +40,10 @@ Rating: 4.57 (Ranked 478)
 | Freedom fighter | 15.00% | ~9 |
 | Safecracker | 13.00% | ~8 |
 | Titan Lord | 11.00% | ~7 |
+| Terror of the hens | 10.00% | ~6 |
 | Moneybags | 10.00% | ~6 |
 | King of the handymen | 10.00% | ~6 |
 | The traveler | 8.00% | ~5 |
-| Terror of the hens | 8.00% | ~5 |
 | Expert | 8.00% | ~5 |
 | Fervent swimmer | 7.00% | ~4 |
 | King Midas | 7.00% | ~4 |
