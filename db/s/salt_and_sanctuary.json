@@ -2838,9 +2838,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 540073,
+  "EOS_Progressed": 540074,
   "EOS_Completed": 1636,
-  "EOS_NewPlayers": 605,
+  "EOS_NewPlayers": 601,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -28148,6 +28148,11 @@
       "Time": "2023-12-06T05:03:25.2584717+00:00",
       "NumProgressed": 540073,
       "NumCompleted": 1636
+    },
+    {
+      "Time": "2023-12-06T06:03:09.651666+00:00",
+      "NumProgressed": 540074,
+      "NumCompleted": 1636
     }
   ],
   "TotalAchievements": 37,
@@ -28159,7 +28164,7 @@
       "Name": "Branded",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 70209
+      "UsersEstimate": 70210
     },
     {
       "ID": "COASTROCK",
@@ -28271,7 +28276,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 216029
+      "UsersEstimate": 216030
     },
     {
       "ID": "THE_CASTLE",
@@ -28431,7 +28436,7 @@
       "Name": "The Village",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 91812
+      "UsersEstimate": 91813
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -28454,15 +28459,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 540073,
+      "Progressed": 540074,
       "Completed": 1636
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-11-29T22:57:54.9181059+00:00",
-  "LastChanged_Achievements": "2023-12-06T05:03:25.2584713+00:00",
+  "LastChanged_Achievements": "2023-12-06T06:03:09.6516657+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:23.0359124+00:00",
-  "LastUpdate_Ratings": "2023-12-06T04:57:20.3531909+00:00",
-  "LastUpdate_Achievements": "2023-12-06T05:03:25.2586292+00:00"
+  "LastUpdate_Ratings": "2023-12-06T05:57:05.4586179+00:00",
+  "LastUpdate_Achievements": "2023-12-06T06:03:09.6519074+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15924,
+  "EOS_Progressed": 15928,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -13168,6 +13168,11 @@
       "Time": "2023-12-06T03:06:58.8391141+00:00",
       "NumProgressed": 15924,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-06T06:05:48.295558+00:00",
+      "NumProgressed": 15928,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -13228,7 +13233,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "16",
@@ -13244,7 +13249,7 @@
       "Name": "Spore Taste",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "18",
@@ -13258,9 +13263,9 @@
       "ID": "19",
       "SetID": "458bbdk",
       "Name": "Martian Music",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 955
+      "UsersEstimate": 1115
     },
     {
       "ID": "2",
@@ -13268,7 +13273,7 @@
       "Name": "Data Logger",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "20",
@@ -13308,7 +13313,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "25",
@@ -13380,7 +13385,7 @@
       "Name": "Data Master",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "6",
@@ -13436,7 +13441,7 @@
       "Name": "Zen Master",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "34",
@@ -13459,13 +13464,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15924,
+      "Progressed": 15928,
       "Completed": 41
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1878,
+      "Progressed": 1882,
       "Completed": 827
     }
   ],
@@ -13473,8 +13478,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-03T18:02:39.8331355+00:00",
-  "LastChanged_Achievements": "2023-12-06T05:05:59.6514208+00:00",
+  "LastChanged_Achievements": "2023-12-06T06:05:48.2955578+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:08.4646281+00:00",
-  "LastUpdate_Ratings": "2023-12-06T05:03:01.7267022+00:00",
-  "LastUpdate_Achievements": "2023-12-06T05:05:59.6514971+00:00"
+  "LastUpdate_Ratings": "2023-12-06T06:02:44.0706603+00:00",
+  "LastUpdate_Achievements": "2023-12-06T06:05:48.2956179+00:00"
 }

@@ -12,8 +12,8 @@
 | Blue Dreams | 66.00% | ~715 |
 | He's Famous! | 66.00% | ~715 |
 | Krugmazing | 64.00% | ~693 |
+| Moneyball | 61.00% | ~661 |
 | The Fire Below the Mountain | 61.00% | ~661 |
-| Moneyball | 60.00% | ~650 |
 | No Bites | 55.00% | ~596 |
 | Iceborn | 55.00% | ~596 |
 | Tear of Freedom | 53.00% | ~574 |

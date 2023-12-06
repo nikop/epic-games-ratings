@@ -14,10 +14,10 @@
 | Opulent | 31.00% | ~46 |
 | Sparkly | 30.00% | ~45 |
 | Teamwork | 23.00% | ~34 |
-| Ready to Rock | 21.00% | ~31 |
+| Ready to Rock | 22.00% | ~33 |
 | Beginning of the End | 19.00% | ~28 |
+| Bling | 19.00% | ~28 |
 | Determined | 19.00% | ~28 |
-| Bling | 18.00% | ~27 |
 | Geared | 17.00% | ~25 |
 | Master Crafter | 13.00% | ~19 |
 | Master Trader | 13.00% | ~19 |

@@ -11,11 +11,11 @@ Rating: 3.95 (Ranked 1,017)
 | Underworld Initiate | 2.00% | ~1,835 |
 | Too Old for This | 2.00% | ~1,835 |
 | Fancy Pants | 2.00% | ~1,835 |
+| Off the Rocks | 2.00% | ~1,835 |
 | Roid Ranger | 1.00% | ~918 |
 | Hidden Sonata | 1.00% | ~918 |
 | Case Closed | 1.00% | ~918 |
 | King of the Hill | 1.00% | ~918 |
-| Off the Rocks | 1.00% | ~918 |
 | Raider’s Ruin | 1.00% | ~918 |
 | Dragonslayer | 1.00% | ~918 |
 | Rockay Rex | 1.00% | ~918 |

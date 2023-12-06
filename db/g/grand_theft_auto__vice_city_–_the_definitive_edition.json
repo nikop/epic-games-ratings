@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 446,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -901,9 +901,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 11208,
+  "EOS_Progressed": 11209,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -13726,6 +13726,11 @@
       "Time": "2023-12-06T04:08:58.439344+00:00",
       "NumProgressed": 11208,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-12-06T06:08:50.0883272+00:00",
+      "NumProgressed": 11209,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -13825,7 +13830,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "ACH13",
@@ -13841,7 +13846,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4707
+      "UsersEstimate": 4708
     },
     {
       "ID": "ACH15",
@@ -14008,7 +14013,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11208,
+      "Progressed": 11209,
       "Completed": 65
     }
   ],
@@ -14016,8 +14021,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-04T17:01:12.7618907+00:00",
-  "LastChanged_Achievements": "2023-12-06T05:09:00.9618797+00:00",
+  "LastChanged_Achievements": "2023-12-06T06:08:50.0883268+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:55.5499109+00:00",
   "LastUpdate_Ratings": "2023-12-06T05:00:23.6558746+00:00",
-  "LastUpdate_Achievements": "2023-12-06T05:09:00.9619592+00:00"
+  "LastUpdate_Achievements": "2023-12-06T06:08:50.0884298+00:00"
 }

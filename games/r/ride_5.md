@@ -19,7 +19,7 @@
 | Go-Faster Stripes | 17.00% | ~401 |
 | I'm Here Too! | 16.00% | ~377 |
 | We've Just Begun | 11.00% | ~259 |
-| Stamina Star | 8.00% | ~188 |
+| Stamina Star | 9.00% | ~212 |
 | Is It the Right Size? | 8.00% | ~188 |
 | Evangelist | 6.00% | ~141 |
 | Make It Your Own! | 5.00% | ~118 |

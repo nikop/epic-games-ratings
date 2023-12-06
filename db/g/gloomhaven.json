@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -2609,7 +2609,7 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 24846,
+  "EOS_Progressed": 24848,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 1286,
   "EOS_NewCompleters": 0,
@@ -11939,6 +11939,11 @@
       "Time": "2023-12-06T05:08:45.825099+00:00",
       "NumProgressed": 24846,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-06T06:08:34.4574801+00:00",
+      "NumProgressed": 24848,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -12135,7 +12140,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 10187
+      "UsersEstimate": 10188
     },
     {
       "ID": "Achievement_Trophy25",
@@ -12167,7 +12172,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 8199
+      "UsersEstimate": 8200
     },
     {
       "ID": "Achievement_Trophy29",
@@ -12183,7 +12188,7 @@
       "Name": "Spread the plague",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 7205
+      "UsersEstimate": 7206
     },
     {
       "ID": "Achievement_Trophy31",
@@ -12191,7 +12196,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 7702
+      "UsersEstimate": 7703
     },
     {
       "ID": "Achievement_Trophy32",
@@ -12287,7 +12292,7 @@
       "Name": "Light of my life",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3478
+      "UsersEstimate": 3479
     },
     {
       "ID": "Achievement_Trophy44",
@@ -12438,7 +12443,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 24846,
+      "Progressed": 24848,
       "Completed": 1
     }
   ],
@@ -12446,8 +12451,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-05T13:59:38.0157195+00:00",
-  "LastChanged_Achievements": "2023-12-06T05:08:45.8250985+00:00",
+  "LastChanged_Achievements": "2023-12-06T06:08:34.4574799+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:31.3646909+00:00",
-  "LastUpdate_Ratings": "2023-12-06T04:59:41.4368197+00:00",
-  "LastUpdate_Achievements": "2023-12-06T05:08:45.8252129+00:00"
+  "LastUpdate_Ratings": "2023-12-06T05:59:32.6911509+00:00",
+  "LastUpdate_Achievements": "2023-12-06T06:08:34.4576114+00:00"
 }

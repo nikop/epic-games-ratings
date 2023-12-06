@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -1877,9 +1877,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 65615,
+  "EOS_Progressed": 65616,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 635,
+  "EOS_NewPlayers": 636,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -27142,6 +27142,11 @@
       "Time": "2023-12-06T01:53:59.9875251+00:00",
       "NumProgressed": 65615,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-06T06:05:01.9813478+00:00",
+      "NumProgressed": 65616,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -27153,7 +27158,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 36088
+      "UsersEstimate": 36089
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -27441,7 +27446,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 41337
+      "UsersEstimate": 41338
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -27624,15 +27629,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 65615,
+      "Progressed": 65616,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-12-03T20:57:55.9094528+00:00",
-  "LastChanged_Achievements": "2023-12-06T05:05:14.4653183+00:00",
+  "LastChanged_Achievements": "2023-12-06T06:05:01.9813477+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:11.1920851+00:00",
-  "LastUpdate_Ratings": "2023-12-06T04:59:12.0191442+00:00",
-  "LastUpdate_Achievements": "2023-12-06T05:05:14.4654628+00:00"
+  "LastUpdate_Ratings": "2023-12-06T05:59:01.6025072+00:00",
+  "LastUpdate_Achievements": "2023-12-06T06:05:01.9814951+00:00"
 }

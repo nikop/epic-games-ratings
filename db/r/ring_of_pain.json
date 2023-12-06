@@ -3556,9 +3556,9 @@
       "Count": 746
     }
   ],
-  "EOS_Progressed": 240683,
+  "EOS_Progressed": 240685,
   "EOS_Completed": 292,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -27256,6 +27256,11 @@
       "Time": "2023-12-06T02:33:51.8045507+00:00",
       "NumProgressed": 240683,
       "NumCompleted": 292
+    },
+    {
+      "Time": "2023-12-06T06:09:37.4953443+00:00",
+      "NumProgressed": 240685,
+      "NumCompleted": 292
     }
   ],
   "TotalAchievements": 138,
@@ -27265,9 +27270,9 @@
       "ID": "ACCEPT500GIFTS",
       "SetID": "5l8oe0h",
       "Name": "Thank You, Friend",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 722
     },
     {
       "ID": "ALLACHIEVEMENTS",
@@ -28370,13 +28375,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240683,
+      "Progressed": 240685,
       "Completed": 292
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2163,
+      "Progressed": 2165,
       "Completed": 394
     }
   ],
@@ -28384,8 +28389,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-05T21:59:57.9209053+00:00",
-  "LastChanged_Achievements": "2023-12-06T05:09:47.8677354+00:00",
+  "LastChanged_Achievements": "2023-12-06T06:09:37.495344+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:57:52.1458075+00:00",
-  "LastUpdate_Ratings": "2023-12-06T05:00:17.1622383+00:00",
-  "LastUpdate_Achievements": "2023-12-06T05:09:47.8679649+00:00"
+  "LastUpdate_Ratings": "2023-12-06T06:00:09.9500476+00:00",
+  "LastUpdate_Achievements": "2023-12-06T06:09:37.4955729+00:00"
 }

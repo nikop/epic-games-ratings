@@ -46,7 +46,7 @@ Rating: 4.20 (Ranked 915)
 | Something... unnatural | 0.10% | ~325 |
 | We strike as one | 0.10% | ~325 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 324,626 (Ranked 52)  
+Progressed: 324,633 (Ranked 52)  
 Completed: 4 (0.00%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,14 +120,14 @@ Completed: 4 (0.00%) (Ranked 369)
 | 2023-12-03 | 323,521 | 4 |
 | 2023-12-04 | 324,031 | 4 |
 | 2023-12-05 | 324,515 | 4 |
-| 2023-12-06 | 324,626 | 4 |
+| 2023-12-06 | 324,633 | 4 |
 ## Awards
-Max (Great Boss Battles): 63  (Ranked 412)  
-Sum: 63 (Ranked 477)  
-Diff (max vs sum): -65  
+Max (Great Boss Battles): 65  (Ranked 411)  
+Sum: 65 (Ranked 477)  
+Diff (max vs sum): -66  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 63 |
+| This game has Great Boss Battles | 65 |
 | This game has Inclusive Character Customization | 41 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -170,3 +170,4 @@ Diff (max vs sum): -65
 | 2023-11-28 | 4.20 | 63 | 63 |
 | 2023-12-01 | 4.21 | 63 | 63 |
 | 2023-12-02 | 4.20 | 63 | 63 |
+| 2023-12-06 | 4.20 | 65 | 65 |

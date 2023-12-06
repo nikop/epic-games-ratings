@@ -5,14 +5,14 @@ Rating: 4.74 (Ranked 157)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 92.00% | ~9,861 |
-| I Challenge You To Save More Money! | 86.00% | ~9,218 |
-| I Love How Tough You Are | 73.00% | ~7,825 |
+| Last Night...Did We... | 92.00% | ~9,862 |
+| I Challenge You To Save More Money! | 86.00% | ~9,219 |
+| I Love How Tough You Are | 73.00% | ~7,826 |
 | Wanna Come To My Place For Dinner? | 66.00% | ~7,075 |
 | What I Want Is You | 61.00% | ~6,539 |
-| To Be Or Not To Be | 58.00% | ~6,217 |
+| To Be Or Not To Be | 58.00% | ~6,218 |
 | Are You Alright? | 50.00% | ~5,360 |
-| Love Actually | 48.00% | ~5,145 |
+| Love Actually | 48.00% | ~5,146 |
 | Drama King | 42.00% | ~4,502 |
 | You're Really Something Else | 37.00% | ~3,966 |
 | Go Clean up In Your Own Way | 36.00% | ~3,859 |
@@ -20,8 +20,8 @@ Rating: 4.74 (Ranked 157)
 | FIRST LOVE | 35.00% | ~3,752 |
 | Drama CP: Reel to Real | 35.00% | ~3,752 |
 | Worthless Speech | 35.00% | ~3,752 |
-| ONE PUNCH | 34.00% | ~3,644 |
-| Absolutely Elegant | 33.00% | ~3,537 |
+| ONE PUNCH | 34.00% | ~3,645 |
+| Absolutely Elegant | 33.00% | ~3,538 |
 | Still Single | 32.00% | ~3,430 |
 | Go Get Some Fries On The Pier | 30.00% | ~3,216 |
 | Days Of Innocence | 30.00% | ~3,216 |
@@ -48,8 +48,8 @@ Rating: 4.74 (Ranked 157)
 | Tall; Grande; Venti | 2.00% | ~214 |
 | Limerence | 2.00% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,719 (Ranked 164)  
-Completed: 192 (1.79%) (Ranked 136)  
+Progressed: 10,720 (Ranked 164)  
+Completed: 193 (1.80%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -108,7 +108,7 @@ Completed: 192 (1.79%) (Ranked 136)
 | 2023-12-03 | 10,641 | 188 |
 | 2023-12-04 | 10,680 | 188 |
 | 2023-12-05 | 10,712 | 192 |
-| 2023-12-06 | 10,719 | 192 |
+| 2023-12-06 | 10,720 | 193 |
 ## Awards
 Max (Impact the Story): 23  (Ranked 535)  
 Sum: 23 (Ranked 537)  

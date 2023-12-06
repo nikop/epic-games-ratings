@@ -5,22 +5,22 @@ Rating: 4.76 (Ranked 130)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 68.00% | ~246,875 |
-| The Player Whisperer | 67.00% | ~243,245 |
-| One of Us, One of Us! | 62.00% | ~225,092 |
+| Motivational Speaker | 68.00% | ~246,876 |
+| The Player Whisperer | 67.00% | ~243,246 |
+| One of Us, One of Us! | 62.00% | ~225,093 |
 | First Victory | 55.00% | ~199,679 |
-| Clean Sheet | 54.00% | ~196,048 |
-| #DoneDeal | 54.00% | ~196,048 |
+| Clean Sheet | 54.00% | ~196,049 |
+| #DoneDeal | 54.00% | ~196,049 |
 | Off the Books | 51.00% | ~185,157 |
 | Super-Sub | 51.00% | ~185,157 |
 | Hat-trick | 46.00% | ~167,004 |
-| Planned Signing | 43.00% | ~156,112 |
+| Planned Signing | 43.00% | ~156,113 |
 | "I Would Love It If We Beat Them" | 42.00% | ~152,482 |
 | Scoring Streak | 40.00% | ~145,221 |
-| Thumping | 39.00% | ~141,590 |
-| Wheeler Dealer | 39.00% | ~141,590 |
+| Thumping | 39.00% | ~141,591 |
+| Wheeler Dealer | 39.00% | ~141,591 |
 | People Pleaser | 38.00% | ~137,960 |
-| Unbeatable! | 37.00% | ~134,329 |
+| Unbeatable! | 37.00% | ~134,330 |
 | One Of Our Own | 36.00% | ~130,699 |
 | They're a Natural | 31.00% | ~112,546 |
 | Record Signing | 31.00% | ~112,546 |
@@ -34,16 +34,16 @@ Rating: 4.76 (Ranked 130)
 | Squad Goals | 26.00% | ~94,394 |
 | Beating Expectations | 25.00% | ~90,763 |
 | Unstoppable Force | 25.00% | ~90,763 |
-| You're on Fire | 24.00% | ~87,132 |
-| Tremendous Trio | 24.00% | ~87,132 |
-| Record Sale | 24.00% | ~87,132 |
+| You're on Fire | 24.00% | ~87,133 |
+| Tremendous Trio | 24.00% | ~87,133 |
+| Record Sale | 24.00% | ~87,133 |
 | On a Roll | 23.00% | ~83,502 |
 | Drilling Down | 23.00% | ~83,502 |
 | Flavour Of The Month | 23.00% | ~83,502 |
 | Shots For Days | 23.00% | ~83,502 |
-| The Special One | 22.00% | ~79,871 |
+| The Special One | 22.00% | ~79,872 |
 | What A Goal! | 21.00% | ~76,241 |
-| Goal Machine | 20.00% | ~72,610 |
+| Goal Machine | 20.00% | ~72,611 |
 | Splashing the Cash | 19.00% | ~68,980 |
 | Immovable Object | 19.00% | ~68,980 |
 | Cup Glory! | 19.00% | ~68,980 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 130)
 | 200 Club | 0.10% | ~363 |
 | Draft Value | 0.10% | ~363 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363,052 (Ranked 48)  
+Progressed: 363,053 (Ranked 48)  
 Completed: 27 (0.01%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 27 (0.01%) (Ranked 347)
 | 2023-12-03 | 362,601 | 27 |
 | 2023-12-04 | 362,819 | 27 |
 | 2023-12-05 | 363,025 | 27 |
-| 2023-12-06 | 363,052 | 27 |
+| 2023-12-06 | 363,053 | 27 |
 ## Awards
 Max (Diverse Characters): 1,241  (Ranked 140)  
 Sum: 8,602 (Ranked 99)  

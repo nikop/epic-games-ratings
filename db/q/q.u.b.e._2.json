@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -563,9 +563,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 42560,
+  "EOS_Progressed": 42561,
   "EOS_Completed": 193,
-  "EOS_NewPlayers": 927,
+  "EOS_NewPlayers": 923,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -9573,6 +9573,11 @@
       "Time": "2023-12-06T05:08:54.3481923+00:00",
       "NumProgressed": 42560,
       "NumCompleted": 193
+    },
+    {
+      "Time": "2023-12-06T06:08:42.9378822+00:00",
+      "NumProgressed": 42561,
+      "NumCompleted": 193
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -9745,7 +9750,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 22131
+      "UsersEstimate": 22132
     },
     {
       "ID": "ACH_PEAK",
@@ -9801,7 +9806,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 31920
+      "UsersEstimate": 31921
     },
     {
       "ID": "ACH_STATUE",
@@ -9816,15 +9821,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 42560,
+      "Progressed": 42561,
       "Completed": 193
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-12-05T07:59:15.0508774+00:00",
-  "LastChanged_Achievements": "2023-12-06T05:08:54.3481921+00:00",
+  "LastChanged_Achievements": "2023-12-06T06:08:42.9378819+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:17.490773+00:00",
-  "LastUpdate_Ratings": "2023-12-06T04:59:47.4432851+00:00",
-  "LastUpdate_Achievements": "2023-12-06T05:08:54.3482408+00:00"
+  "LastUpdate_Ratings": "2023-12-06T05:59:38.9726323+00:00",
+  "LastUpdate_Achievements": "2023-12-06T06:08:42.9379432+00:00"
 }

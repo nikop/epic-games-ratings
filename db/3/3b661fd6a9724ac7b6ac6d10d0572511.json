@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 6,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-06-08T15:00:00+00:00",
     "PcReleaseDate": "2013-08-12T22:00:00+00:00",
@@ -7837,9 +7837,9 @@
       "Count": 1397
     }
   ],
-  "EOS_Progressed": 1794230,
+  "EOS_Progressed": 1794240,
   "EOS_Completed": 718,
-  "EOS_NewPlayers": 6211,
+  "EOS_NewPlayers": 6204,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -29087,6 +29087,11 @@
       "Time": "2023-12-06T05:09:51.3368449+00:00",
       "NumProgressed": 1794230,
       "NumCompleted": 718
+    },
+    {
+      "Time": "2023-12-06T06:09:40.8614479+00:00",
+      "NumProgressed": 1794240,
+      "NumCompleted": 718
     }
   ],
   "TotalAchievements": 1328,
@@ -30298,7 +30303,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 197365
+      "UsersEstimate": 197366
     },
     {
       "ID": "brooklyn_2",
@@ -33570,7 +33575,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 71769
+      "UsersEstimate": 71770
     },
     {
       "ID": "gorilla_1",
@@ -33714,7 +33719,7 @@
       "Name": "Guilty of Crime",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 125596
+      "UsersEstimate": 125597
     },
     {
       "ID": "halloween_1",
@@ -34810,7 +34815,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 161481
+      "UsersEstimate": 161482
     },
     {
       "ID": "no_turning_back",
@@ -34818,7 +34823,7 @@
       "Name": "No Turning Back",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 161481
+      "UsersEstimate": 161482
     },
     {
       "ID": "orange_1",
@@ -39706,7 +39711,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 161481
+      "UsersEstimate": 161482
     },
     {
       "ID": "you_shall_not_pass",
@@ -39721,13 +39726,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1794230,
+      "Progressed": 1794240,
       "Completed": 718
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1794230,
+      "Progressed": 1794240,
       "Completed": 116
     }
   ],
@@ -39735,8 +39740,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-12-06T01:50:35.9002755+00:00",
-  "LastChanged_Achievements": "2023-12-06T05:09:51.3368445+00:00",
+  "LastChanged_Achievements": "2023-12-06T06:09:40.8614475+00:00",
   "LastUpdate_AppInfo": "2023-12-01T05:57:06.1515486+00:00",
-  "LastUpdate_Ratings": "2023-12-06T05:02:48.6462469+00:00",
-  "LastUpdate_Achievements": "2023-12-06T05:09:51.3489644+00:00"
+  "LastUpdate_Ratings": "2023-12-06T06:02:30.1618489+00:00",
+  "LastUpdate_Achievements": "2023-12-06T06:09:40.8732154+00:00"
 }

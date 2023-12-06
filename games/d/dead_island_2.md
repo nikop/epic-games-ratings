@@ -21,43 +21,43 @@ Rating: 4.54 (Ranked 529)
 | This is My Weapon | 2.00% | ~14,615 |
 | Welcome To Hell-A | 2.00% | ~14,615 |
 | One of Us | 2.00% | ~1,126 |
-| Making Your Mark | 1.00% | ~7,307 |
-| Anger Management | 1.00% | ~7,307 |
-| Perks of the Job | 1.00% | ~7,307 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,307 |
-| But Doctor, I am Butcho | 1.00% | ~7,307 |
-| Slayer Squad | 1.00% | ~7,307 |
-| Can't Handle the Truth | 1.00% | ~7,307 |
-| Like Riding a Bike | 1.00% | ~7,307 |
-| Zombologist | 1.00% | ~7,307 |
-| Ooh, Shiny! | 1.00% | ~7,307 |
-| A Patton Emerges | 1.00% | ~7,307 |
-| I Am the Resurrection | 1.00% | ~7,307 |
-| Max Headroom | 1.00% | ~7,307 |
-| Our True Nature | 1.00% | ~7,307 |
+| Making Your Mark | 1.00% | ~7,308 |
+| Anger Management | 1.00% | ~7,308 |
+| Perks of the Job | 1.00% | ~7,308 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~7,308 |
+| But Doctor, I am Butcho | 1.00% | ~7,308 |
+| Slayer Squad | 1.00% | ~7,308 |
+| Can't Handle the Truth | 1.00% | ~7,308 |
+| Like Riding a Bike | 1.00% | ~7,308 |
+| Zombologist | 1.00% | ~7,308 |
+| Ooh, Shiny! | 1.00% | ~7,308 |
+| A Patton Emerges | 1.00% | ~7,308 |
+| I Am the Resurrection | 1.00% | ~7,308 |
+| Max Headroom | 1.00% | ~7,308 |
+| Our True Nature | 1.00% | ~7,308 |
 | Humanity Distilled | 0.90% | ~6,577 |
 | Down with the Sickness | 0.90% | ~6,577 |
 | Not Even My Final Form | 0.70% | ~5,115 |
 | Jumbo Keyring | 0.70% | ~5,115 |
 | Go, Bobcats! | 0.70% | ~5,115 |
 | Rising Star | 0.70% | ~5,115 |
-| On Safari | 0.60% | ~4,384 |
-| Smorgasbord | 0.60% | ~4,384 |
-| Internet Famous | 0.60% | ~4,384 |
-| Variety is the Spice of Death | 0.60% | ~4,384 |
+| On Safari | 0.60% | ~4,385 |
+| Smorgasbord | 0.60% | ~4,385 |
+| Internet Famous | 0.60% | ~4,385 |
+| Variety is the Spice of Death | 0.60% | ~4,385 |
 | Make it So | 0.50% | ~3,654 |
 | LA Influential | 0.40% | ~2,923 |
 | Sole Survivor | 0.40% | ~2,923 |
 | Gore Horse | 0.40% | ~2,923 |
 | Sharpest Tool in the Box | 0.40% | ~2,923 |
 | Top That, Tisha! | 0.40% | ~225 |
-| Survival Skills | 0.20% | ~1,461 |
+| Survival Skills | 0.20% | ~1,462 |
 | Lawn and Order | 0.20% | ~113 |
 | Donk! | 0.10% | ~731 |
 | Bucket List | 0.10% | ~731 |
 | Wilhelm | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 730,745 (Ranked 21)  
+Progressed: 730,754 (Ranked 21)  
 Completed: 2,465 (0.34%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 2,465 (0.34%) (Ranked 233)
 | 2023-12-03 | 729,822 | 2,461 |
 | 2023-12-04 | 730,272 | 2,463 |
 | 2023-12-05 | 730,673 | 2,465 |
-| 2023-12-06 | 730,745 | 2,465 |
+| 2023-12-06 | 730,754 | 2,465 |
 ## Awards
 Max (Great Boss Battles): 7,943  (Ranked 49)  
 Sum: 12,196 (Ranked 82)  
