@@ -141,7 +141,7 @@
 | 130 | [Legend Bowl](games/l/legend_bowl.md) | 4.76 | 0 | 557 |
 | 130 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.76 | 0 | 557 |
 | 130 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,755 | 122 |
-| 130 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 12,786 | 33 |
+| 130 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 12,812 | 32 |
 | 130 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 557 |
 | 130 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.76 | 0 | 557 |
 | 130 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 53 | 427 |
@@ -419,7 +419,7 @@
 | 387 | [Warframe](games/w/warframe.md) | 4.61 | 18,851 | 23 |
 | 387 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 599 | 199 |
 | 387 | [Witchfire](games/w/witchfire.md) | 4.61 | 47 | 444 |
-| 420 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 15,150 | 25 |
+| 420 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 15,174 | 25 |
 | 420 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 557 |
 | 420 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 554 | 207 |
 | 420 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 5,000 | 73 |
@@ -476,7 +476,7 @@
 | 448 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.58 | 0 | 557 |
 | 448 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 226 | 276 |
 | 448 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.58 | 92 | 379 |
-| 448 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,628 | 26 |
+| 448 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,631 | 26 |
 | 448 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 22 | 540 |
 | 479 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 557 |
 | 479 | [Among Us](games/a/among_us.md) | 4.57 | 2,893 | 99 |
@@ -738,7 +738,7 @@
 | 726 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,233 | 108 |
 | 726 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 72 | 402 |
 | 726 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 0 | 557 |
-| 726 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,562 | 130 |
+| 726 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,565 | 130 |
 | 740 | [Beyond Blue](games/b/beyond_blue.md) | 4.40 | 0 | 557 |
 | 740 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 557 |
 | 740 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.40 | 0 | 557 |
@@ -787,7 +787,7 @@
 | 785 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.36 | 0 | 557 |
 | 785 | [Core](games/c/core.md) | 4.36 | 771 | 177 |
 | 785 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 308 |
-| 785 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,790 | 32 |
+| 785 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,790 | 33 |
 | 785 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 557 |
 | 785 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 0 | 557 |
 | 785 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 26 | 521 |
@@ -987,7 +987,7 @@
 | 981 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 0 | 557 |
 | 981 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 4.07 | 0 | 557 |
 | 981 | [Tharsis](games/t/tharsis.md) | 4.07 | 0 | 557 |
-| 988 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,593 | 70 |
+| 988 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,596 | 70 |
 | 988 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 4.06 | 0 | 557 |
 | 988 | [Pinball FX](games/p/pinball_fx.md) | 4.06 | 203 | 289 |
 | 991 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.05 | 0 | 557 |
