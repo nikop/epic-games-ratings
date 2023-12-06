@@ -230,7 +230,7 @@
 | 228 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 423 | 4.56 | 494 |
 | 229 | [Blazing Sails](games/b/blazing_sails.md) | 420 | 3.94 | 1,020 |
 | 230 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 415 | 4.75 | 147 |
-| 231 | [For The King](games/f/for_the_king.md) | 412 | 4.70 | 214 |
+| 231 | [For The King](games/f/for_the_king.md) | 413 | 4.70 | 214 |
 | 232 | [Nuclear Throne](games/n/nuclear_throne.md) | 407 | 4.79 | 96 |
 | 233 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 402 | 4.61 | 387 |
 | 234 | [Alan Wake 2](games/a/alan_wake_2.md) | 394 | 4.78 | 106 |
@@ -411,9 +411,9 @@
 | 409 | [Ranch Simulator](games/r/ranch_simulator.md) | 68 | 4.43 | 695 |
 | 409 | [Symphony of War](games/s/symphony_of_war.md) | 68 | 4.64 | 337 |
 | 411 | [Arcadegeddon](games/a/arcadegeddon.md) | 65 | 4.49 | 612 |
-| 412 | [Heavy Rain](games/h/heavy_rain.md) | 63 | 4.59 | 437 |
-| 412 | [In Sound Mind](games/i/in_sound_mind.md) | 63 | 4.61 | 387 |
-| 412 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 63 | 4.20 | 915 |
+| 411 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 65 | 4.20 | 915 |
+| 413 | [Heavy Rain](games/h/heavy_rain.md) | 63 | 4.59 | 437 |
+| 413 | [In Sound Mind](games/i/in_sound_mind.md) | 63 | 4.61 | 387 |
 | 415 | [Poker Club](games/p/poker_club.md) | 62 | 3.83 | 1,034 |
 | 416 | [Aimlabs](games/a/aimlabs.md) | 61 | 4.61 | 387 |
 | 417 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.43 | 695 |

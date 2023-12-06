@@ -216,7 +216,7 @@
 | 214 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,614 | 80 |
 | 214 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.70 | 121 | 341 |
 | 214 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 469 | 218 |
-| 214 | [For The King](games/f/for_the_king.md) | 4.70 | 412 | 231 |
+| 214 | [For The King](games/f/for_the_king.md) | 4.70 | 413 | 231 |
 | 214 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 52 | 429 |
 | 214 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,342 | 136 |
 | 214 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,952 | 114 |
@@ -398,7 +398,7 @@
 | 387 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 50,232 | 12 |
 | 387 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 0 | 557 |
 | 387 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.61 | 41 | 459 |
-| 387 | [In Sound Mind](games/i/in_sound_mind.md) | 4.61 | 63 | 412 |
+| 387 | [In Sound Mind](games/i/in_sound_mind.md) | 4.61 | 63 | 413 |
 | 387 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 402 | 233 |
 | 387 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,324 | 137 |
 | 387 | [MudRunner](games/m/mudrunner.md) | 4.61 | 289 | 260 |
@@ -438,7 +438,7 @@
 | 420 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 24 | 528 |
 | 437 | [DOOM 3](games/d/doom_3.md) | 4.59 | 71 | 403 |
 | 437 | [GRIME](games/g/grime.md) | 4.59 | 54 | 424 |
-| 437 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 63 | 412 |
+| 437 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 63 | 413 |
 | 437 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.59 | 0 | 557 |
 | 437 | [NORCO](games/n/norco.md) | 4.59 | 0 | 557 |
 | 437 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.59 | 0 | 557 |
@@ -925,7 +925,7 @@
 | 915 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.20 | 188 | 294 |
 | 915 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.20 | 40 | 462 |
 | 915 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 78 | 394 |
-| 915 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.20 | 63 | 412 |
+| 915 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.20 | 65 | 411 |
 | 927 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 437 |
 | 927 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 4.19 | 0 | 557 |
 | 927 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.19 | 26 | 521 |
