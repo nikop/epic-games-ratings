@@ -193,9 +193,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 10716,
+  "EOS_Progressed": 10717,
   "EOS_Completed": 192,
-  "EOS_NewPlayers": 382,
+  "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.79,
   "EosHistory": [
@@ -5568,6 +5568,11 @@
       "Time": "2023-12-06T02:32:32.4887802+00:00",
       "NumProgressed": 10716,
       "NumCompleted": 192
+    },
+    {
+      "Time": "2023-12-06T03:08:57.4318646+00:00",
+      "NumProgressed": 10717,
+      "NumCompleted": 192
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -5580,7 +5585,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 92,
       "XP": 20,
-      "UsersEstimate": 9859
+      "UsersEstimate": 9860
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -5588,7 +5593,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 9216
+      "UsersEstimate": 9217
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -5596,7 +5601,7 @@
       "Name": "My Dear Love!",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -5724,7 +5729,7 @@
       "Name": "Absolutely Elegant",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 3536
+      "UsersEstimate": 3537
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_26",
@@ -5740,7 +5745,7 @@
       "Name": "Counting Sheep?",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_28",
@@ -5796,7 +5801,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 6215
+      "UsersEstimate": 6216
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -5820,7 +5825,7 @@
       "Name": "ONE PUNCH",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 3643
+      "UsersEstimate": 3644
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -5900,7 +5905,7 @@
       "Name": "This Ain\u0027t Right In Many Ways...",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_9",
@@ -5915,7 +5920,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 10716,
+      "Progressed": 10717,
       "Completed": 192
     }
   ],
@@ -5923,8 +5928,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-12-01T14:59:07.0284768+00:00",
-  "LastChanged_Achievements": "2023-12-06T02:32:32.4887796+00:00",
+  "LastChanged_Achievements": "2023-12-06T03:08:57.4318641+00:00",
   "LastUpdate_AppInfo": "2023-12-02T02:15:26.2086692+00:00",
-  "LastUpdate_Ratings": "2023-12-06T02:21:16.039721+00:00",
-  "LastUpdate_Achievements": "2023-12-06T02:32:32.4888355+00:00"
+  "LastUpdate_Ratings": "2023-12-06T02:57:44.0362317+00:00",
+  "LastUpdate_Achievements": "2023-12-06T03:08:57.4319124+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -1041,9 +1041,9 @@
       "ID": "HYPNO_CORRECT_GROUP",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Brainiacs",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "HYPNO_OUTLIER_ID",
@@ -1129,9 +1129,9 @@
       "ID": "TIME_PERFECT_GUEST",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Guest",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -1176,8 +1176,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-06T02:33:10.3006197+00:00",
+  "LastChanged_Achievements": "2023-12-06T03:09:33.8351302+00:00",
   "LastUpdate_AppInfo": "2023-12-02T01:39:51.8916721+00:00",
-  "LastUpdate_Ratings": "2023-12-06T02:24:04.47228+00:00",
-  "LastUpdate_Achievements": "2023-12-06T02:33:10.3006368+00:00"
+  "LastUpdate_Ratings": "2023-12-06T03:00:25.0144642+00:00",
+  "LastUpdate_Achievements": "2023-12-06T03:09:33.835148+00:00"
 }

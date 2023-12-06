@@ -4,8 +4,8 @@
   "ProductSlug": "survivor-castaway-island-16f672",
   "Ranking_EOS_Progress": 568,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 387,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-10-03T08:00:00+00:00",
     "PcReleaseDate": "2023-10-03T08:00:00+00:00",
@@ -147,9 +147,9 @@
       "ID": "_01",
       "SetID": "670ak8f",
       "Name": "Let there be light",
-      "Percentage": 75,
+      "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "_02",
@@ -187,9 +187,9 @@
       "ID": "_06",
       "SetID": "670ak8f",
       "Name": "Gossiper",
-      "Percentage": 65,
+      "Percentage": 70,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "_07",
@@ -234,8 +234,8 @@
   ],
   "FirstSeen": "2023-10-05T01:45:17.1796579+00:00",
   "FirstSeenAchievements": "2023-09-18T15:06:02.8477562+00:00",
-  "LastChanged_Achievements": "2023-12-06T02:31:50.5331535+00:00",
+  "LastChanged_Achievements": "2023-12-06T03:08:16.6859562+00:00",
   "LastUpdate_AppInfo": "2023-12-06T02:20:26.1170179+00:00",
-  "LastUpdate_Ratings": "2023-12-06T02:26:14.1543979+00:00",
-  "LastUpdate_Achievements": "2023-12-06T02:31:50.5331608+00:00"
+  "LastUpdate_Ratings": "2023-12-06T03:02:29.9686286+00:00",
+  "LastUpdate_Achievements": "2023-12-06T03:08:16.6859652+00:00"
 }

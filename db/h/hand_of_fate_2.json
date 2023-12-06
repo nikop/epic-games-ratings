@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -943,7 +943,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 665483,
+  "EOS_Progressed": 665484,
   "EOS_Completed": 172,
   "EOS_NewPlayers": 286,
   "EOS_NewCompleters": 0,
@@ -22618,6 +22618,11 @@
       "Time": "2023-12-06T01:57:00.4159828+00:00",
       "NumProgressed": 665483,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-12-06T03:08:35.5978081+00:00",
+      "NumProgressed": 665484,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 48,
@@ -22637,7 +22642,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 385980
+      "UsersEstimate": 385981
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -22813,7 +22818,7 @@
       "Name": "Leap of Faith",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19964
+      "UsersEstimate": 19965
     },
     {
       "ID": "Achievement_25_Purgatorium",
@@ -22885,7 +22890,7 @@
       "Name": "Combat Ready",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19964
+      "UsersEstimate": 19965
     },
     {
       "ID": "Achievement_34_Close_Shave",
@@ -22909,7 +22914,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59893
+      "UsersEstimate": 59894
     },
     {
       "ID": "Achievement_37_Champion",
@@ -22933,7 +22938,7 @@
       "Name": "Stuffed Potato",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19964
+      "UsersEstimate": 19965
     },
     {
       "ID": "Achievement_40_Broken_Heart",
@@ -23012,15 +23017,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 665483,
+      "Progressed": 665484,
       "Completed": 172
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-24T17:58:48.2867936+00:00",
-  "LastChanged_Achievements": "2023-12-06T02:32:09.8876328+00:00",
+  "LastChanged_Achievements": "2023-12-06T03:08:35.5978076+00:00",
   "LastUpdate_AppInfo": "2023-12-02T19:57:29.5131333+00:00",
-  "LastUpdate_Ratings": "2023-12-06T02:22:53.2990635+00:00",
-  "LastUpdate_Achievements": "2023-12-06T02:32:09.8877416+00:00"
+  "LastUpdate_Ratings": "2023-12-06T02:59:16.8692348+00:00",
+  "LastUpdate_Achievements": "2023-12-06T03:08:35.5979159+00:00"
 }

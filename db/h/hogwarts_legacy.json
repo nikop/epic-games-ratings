@@ -11577,7 +11577,7 @@
       "Count": 837
     }
   ],
-  "EOS_Progressed": 303982,
+  "EOS_Progressed": 303983,
   "EOS_Completed": 522,
   "EOS_NewPlayers": 451,
   "EOS_NewCompleters": 3,
@@ -36267,6 +36267,11 @@
       "Time": "2023-12-06T02:33:45.3415677+00:00",
       "NumProgressed": 303982,
       "NumCompleted": 522
+    },
+    {
+      "Time": "2023-12-06T03:10:08.1660722+00:00",
+      "NumProgressed": 303983,
+      "NumCompleted": 522
     }
   ],
   "TotalAchievements": 45,
@@ -36614,7 +36619,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42557
+      "UsersEstimate": 42558
     },
     {
       "ID": "PFA_8",
@@ -36637,7 +36642,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 303982,
+      "Progressed": 303983,
       "Completed": 522
     }
   ],
@@ -36645,8 +36650,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-12-06T02:24:36.7132039+00:00",
-  "LastChanged_Achievements": "2023-12-06T02:33:45.3415671+00:00",
+  "LastChanged_Achievements": "2023-12-06T03:10:08.1660719+00:00",
   "LastUpdate_AppInfo": "2023-12-02T18:57:18.0729181+00:00",
-  "LastUpdate_Ratings": "2023-12-06T02:24:36.7132049+00:00",
-  "LastUpdate_Achievements": "2023-12-06T02:33:45.3417574+00:00"
+  "LastUpdate_Ratings": "2023-12-06T03:00:55.9139127+00:00",
+  "LastUpdate_Achievements": "2023-12-06T03:10:08.1661997+00:00"
 }

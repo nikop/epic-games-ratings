@@ -6,11 +6,11 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~10,731 |
-| It wakes | 1.00% | ~10,731 |
-| Not half bad | 1.00% | ~10,731 |
-| Skillful | 1.00% | ~10,731 |
-| Make Some Noise | 1.00% | ~10,731 |
+| Zealous | 1.00% | ~10,732 |
+| It wakes | 1.00% | ~10,732 |
+| Not half bad | 1.00% | ~10,732 |
+| Skillful | 1.00% | ~10,732 |
+| Make Some Noise | 1.00% | ~10,732 |
 | Apt Survivor | 0.90% | ~9,658 |
 | Survival Treasures | 0.90% | ~9,658 |
 | I | 0.90% | ~9,658 |
@@ -30,22 +30,22 @@ Number of Ratings: 70,340  (23.09.2022)
 | Perfect Killing | 0.60% | ~6,439 |
 | II | 0.60% | ~6,439 |
 | Close Shave | 0.60% | ~6,439 |
-| I've got your back | 0.50% | ~5,365 |
-| Apt Killer | 0.50% | ~5,365 |
-| Risk it all | 0.50% | ~5,365 |
-| III | 0.50% | ~5,365 |
-| Engineer | 0.50% | ~5,365 |
-| Wounded Healer | 0.50% | ~5,365 |
-| Blood on your hands | 0.40% | ~4,292 |
-| Escape Artist | 0.40% | ~4,292 |
-| Vulture | 0.40% | ~4,292 |
-| First to the Punch | 0.40% | ~4,292 |
-| Operation: Survival | 0.40% | ~4,292 |
-| Every Last Drop | 0.40% | ~4,292 |
-| With Scars to Show | 0.40% | ~4,292 |
-| Flight to Freedom | 0.40% | ~4,292 |
-| Lifting The Fog | 0.40% | ~4,292 |
-| Second Act | 0.40% | ~4,292 |
+| I've got your back | 0.50% | ~5,366 |
+| Apt Killer | 0.50% | ~5,366 |
+| Risk it all | 0.50% | ~5,366 |
+| III | 0.50% | ~5,366 |
+| Engineer | 0.50% | ~5,366 |
+| Wounded Healer | 0.50% | ~5,366 |
+| Blood on your hands | 0.40% | ~4,293 |
+| Escape Artist | 0.40% | ~4,293 |
+| Vulture | 0.40% | ~4,293 |
+| First to the Punch | 0.40% | ~4,293 |
+| Operation: Survival | 0.40% | ~4,293 |
+| Every Last Drop | 0.40% | ~4,293 |
+| With Scars to Show | 0.40% | ~4,293 |
+| Flight to Freedom | 0.40% | ~4,293 |
+| Lifting The Fog | 0.40% | ~4,293 |
+| Second Act | 0.40% | ~4,293 |
 | Made it out alive! | 0.30% | ~3,219 |
 | Nerves of steel | 0.30% | ~3,219 |
 | Gifts for the Fog | 0.30% | ~3,219 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Joke’s On You | 0.10% | ~1,073 |
 | Adept Good Guy | 0.10% | ~1,073 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,073,092 (Ranked 14)  
+Progressed: 1,073,152 (Ranked 14)  
 Completed: 61 (0.01%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -469,17 +469,17 @@ Completed: 61 (0.01%) (Ranked 347)
 | 2023-12-03 | 1,067,390 | 61 |
 | 2023-12-04 | 1,070,133 | 61 |
 | 2023-12-05 | 1,072,750 | 61 |
-| 2023-12-06 | 1,073,092 | 61 |
+| 2023-12-06 | 1,073,152 | 61 |
 ## Awards
 Max (Diverse Characters): 37,377  (Ranked 15)  
-Sum: 283,423 (Ranked 12)  
+Sum: 283,459 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 37,377 |
 | This game is Highly Recommended | 32,435 |
 | This game has Amazing Characters | 31,923 |
-| This game has Competitive Players | 31,755 |
+| This game has Competitive Players | 31,791 |
 | This game is Extremely Fun | 31,433 |
 | This game has Challenging Combat | 31,304 |
 | This game has Quickly Understood Controls | 30,621 |
@@ -806,4 +806,4 @@ Diff (max vs sum): 3
 | 2023-12-03 | 4.51 | - | 37,218 | 282,346 |
 | 2023-12-04 | 4.51 | - | 37,289 | 282,989 |
 | 2023-12-05 | 4.51 | - | 37,377 | 283,349 |
-| 2023-12-06 | 4.51 | - | 37,377 | 283,423 |
+| 2023-12-06 | 4.51 | - | 37,377 | 283,459 |

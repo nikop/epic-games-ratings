@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-06-03T12:00:00+00:00",
     "PcReleaseDate": "2018-11-09T16:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 23992,
+  "EOS_Progressed": 23993,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1431,
+  "EOS_NewPlayers": 1427,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9008,6 +9008,11 @@
       "Time": "2023-12-06T02:33:22.7243205+00:00",
       "NumProgressed": 23992,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-06T03:09:46.0219338+00:00",
+      "NumProgressed": 23993,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T23:03:51.052105+00:00",
@@ -9020,7 +9025,7 @@
       "Name": "Storyteller",
       "Percentage": 7,
       "XP": 85,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "achievement_10",
@@ -9052,7 +9057,7 @@
       "Name": "Grim Reaper",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 18234
+      "UsersEstimate": 18235
     },
     {
       "ID": "achievement_14",
@@ -9076,7 +9081,7 @@
       "Name": "Heads Down",
       "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 17754
+      "UsersEstimate": 17755
     },
     {
       "ID": "achievement_17",
@@ -9092,7 +9097,7 @@
       "Name": "Eager Beaver",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 11516
+      "UsersEstimate": 11517
     },
     {
       "ID": "achievement_19",
@@ -9124,7 +9129,7 @@
       "Name": "Not On My Watch",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 17034
+      "UsersEstimate": 17035
     },
     {
       "ID": "achievement_3",
@@ -9172,7 +9177,7 @@
       "Name": "Enemy Attrition",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 17994
+      "UsersEstimate": 17995
     },
     {
       "ID": "achievement_9",
@@ -9187,13 +9192,13 @@
     {
       "ID": "akc8324",
       "IsBase": true,
-      "Progressed": 23992,
+      "Progressed": 23993,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-28T21:07:50.8080594+00:00",
-  "LastChanged_Achievements": "2023-12-06T02:33:22.7243201+00:00",
+  "LastChanged_Achievements": "2023-12-06T03:09:46.0219334+00:00",
   "LastUpdate_AppInfo": "2023-12-02T21:57:13.6448479+00:00",
-  "LastUpdate_Ratings": "2023-12-06T02:22:05.2530705+00:00",
-  "LastUpdate_Achievements": "2023-12-06T02:33:22.7243645+00:00"
+  "LastUpdate_Ratings": "2023-12-06T02:58:31.4677464+00:00",
+  "LastUpdate_Achievements": "2023-12-06T03:09:46.0219893+00:00"
 }

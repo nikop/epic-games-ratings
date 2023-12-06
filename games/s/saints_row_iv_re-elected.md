@@ -5,28 +5,28 @@ Rating: 4.40 (Ranked 740)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 63.00% | ~197,992 |
-| Destroyer-In-Chief | 56.00% | ~175,993 |
-| There Is No Pancakes | 53.00% | ~166,565 |
-| First of Many | 41.00% | ~128,852 |
-| Woah. | 36.00% | ~113,138 |
-| Don't Look Down | 29.00% | ~91,139 |
-| Don't Panic | 27.00% | ~84,854 |
-| Ooo A Piece of Candy! | 22.00% | ~69,140 |
-| Ghost in the Machine | 17.00% | ~53,426 |
-| All Too Easy | 15.00% | ~47,141 |
-| Didn't Need to See Him Naked | 13.00% | ~40,855 |
-| Indomitable | 10.00% | ~31,427 |
+| Zero Saints Thirty | 63.00% | ~197,998 |
+| Destroyer-In-Chief | 56.00% | ~175,998 |
+| There Is No Pancakes | 53.00% | ~166,569 |
+| First of Many | 41.00% | ~128,856 |
+| Woah. | 36.00% | ~113,142 |
+| Don't Look Down | 29.00% | ~91,142 |
+| Don't Panic | 27.00% | ~84,856 |
+| Ooo A Piece of Candy! | 22.00% | ~69,142 |
+| Ghost in the Machine | 17.00% | ~53,428 |
+| All Too Easy | 15.00% | ~47,142 |
+| Didn't Need to See Him Naked | 13.00% | ~40,857 |
+| Indomitable | 10.00% | ~31,428 |
 | Bow to the Boss! | 9.00% | ~28,285 |
 | Friend of the Raptors | 9.00% | ~28,285 |
-| About Time! | 8.00% | ~25,142 |
-| Blast from the Past | 8.00% | ~25,142 |
-| Actor-Turned-Politician | 7.00% | ~21,999 |
-| Betrayed | 7.00% | ~21,999 |
-| Maximum Stopping Power | 7.00% | ~21,999 |
-| Keymaster | 6.00% | ~18,856 |
-| Poodle Skirt | 6.00% | ~18,856 |
-| You Chose... Poorly | 6.00% | ~18,856 |
+| About Time! | 8.00% | ~25,143 |
+| Blast from the Past | 8.00% | ~25,143 |
+| Actor-Turned-Politician | 7.00% | ~22,000 |
+| Betrayed | 7.00% | ~22,000 |
+| Maximum Stopping Power | 7.00% | ~22,000 |
+| Keymaster | 6.00% | ~18,857 |
+| Poodle Skirt | 6.00% | ~18,857 |
+| You Chose... Poorly | 6.00% | ~18,857 |
 | Double Team | 5.00% | ~15,714 |
 | Imperator | 5.00% | ~15,714 |
 | *BEEP* YOU, CLAWZ! | 4.00% | ~12,571 |
@@ -42,13 +42,13 @@ Rating: 4.40 (Ranked 740)
 | Paranormal Bromance | 3.00% | ~9,428 |
 | Saints & Sensibility | 3.00% | ~9,428 |
 | The Two Shaundis | 3.00% | ~9,428 |
-| Benjamin [CENSORED] King | 2.00% | ~6,285 |
-| Better This Way | 2.00% | ~6,285 |
-| Bouncin' with an Old Friend | 2.00% | ~6,285 |
-| Our Gift to You | 2.00% | ~6,285 |
-| The Face of the Saints | 2.00% | ~6,285 |
-| The Twin Saints | 2.00% | ~6,285 |
-| Where's My Cape? | 2.00% | ~6,285 |
+| Benjamin [CENSORED] King | 2.00% | ~6,286 |
+| Better This Way | 2.00% | ~6,286 |
+| Bouncin' with an Old Friend | 2.00% | ~6,286 |
+| Our Gift to You | 2.00% | ~6,286 |
+| The Face of the Saints | 2.00% | ~6,286 |
+| The Twin Saints | 2.00% | ~6,286 |
+| Where's My Cape? | 2.00% | ~6,286 |
 | A Real Cluster.... | 1.00% | ~3,143 |
 | A Very Genki Holiday | 1.00% | ~3,143 |
 | Here! Catch! | 1.00% | ~3,143 |
@@ -56,7 +56,7 @@ Rating: 4.40 (Ranked 740)
 | Switch Hitter | 1.00% | ~3,143 |
 | The Whole Story | 1.00% | ~3,143 |
 | Zoo Keeper | 1.00% | ~3,143 |
-| Make a List, Check it Twice | 0.90% | ~2,828 |
+| Make a List, Check it Twice | 0.90% | ~2,829 |
 | Dear Santa | 0.70% | ~2,200 |
 | Rigging the Race | 0.70% | ~2,200 |
 | Back in the Day | 0.60% | ~1,886 |
@@ -78,7 +78,7 @@ Rating: 4.40 (Ranked 740)
 | Super Power Team Up! | 0.10% | ~314 |
 | Ultimate Hot Potato | 0.10% | ~314 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 314,273 (Ranked 53)  
+Progressed: 314,282 (Ranked 53)  
 Completed: 17 (0.01%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 17 (0.01%) (Ranked 347)
 | 2023-12-03 | 313,221 | 17 |
 | 2023-12-04 | 313,698 | 17 |
 | 2023-12-05 | 314,199 | 17 |
-| 2023-12-06 | 314,273 | 17 |
+| 2023-12-06 | 314,282 | 17 |
 ## Awards
 Max (Great Boss Battles): 502  (Ranked 212)  
 Sum: 502 (Ranked 325)  

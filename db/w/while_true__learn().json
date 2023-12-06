@@ -511,7 +511,7 @@
       "Count": 138
     }
   ],
-  "EOS_Progressed": 612913,
+  "EOS_Progressed": 612914,
   "EOS_Completed": 550,
   "EOS_NewPlayers": 785,
   "EOS_NewCompleters": 2,
@@ -26301,6 +26301,11 @@
       "Time": "2023-12-06T01:53:59.6842716+00:00",
       "NumProgressed": 612913,
       "NumCompleted": 550
+    },
+    {
+      "Time": "2023-12-06T03:05:55.4758516+00:00",
+      "NumProgressed": 612914,
+      "NumCompleted": 550
     }
   ],
   "TotalAchievements": 28,
@@ -26376,7 +26381,7 @@
       "Name": "We need more gold",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 373877
+      "UsersEstimate": 373878
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -26424,7 +26429,7 @@
       "Name": "Beauty and harmony",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 294198
+      "UsersEstimate": 294199
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -26432,7 +26437,7 @@
       "Name": "More FPS for the FPS god!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 306456
+      "UsersEstimate": 306457
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -26440,7 +26445,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 570009
+      "UsersEstimate": 570010
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -26480,7 +26485,7 @@
       "Name": "RNG is my best friend now",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 110324
+      "UsersEstimate": 110325
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -26535,15 +26540,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 612913,
+      "Progressed": 612914,
       "Completed": 550
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-11-16T16:58:16.9123223+00:00",
-  "LastChanged_Achievements": "2023-12-06T02:29:45.825739+00:00",
+  "LastChanged_Achievements": "2023-12-06T03:05:55.4758511+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:26.1222295+00:00",
-  "LastUpdate_Ratings": "2023-12-06T02:21:47.6036976+00:00",
-  "LastUpdate_Achievements": "2023-12-06T02:29:45.8258801+00:00"
+  "LastUpdate_Ratings": "2023-12-06T02:58:14.1220845+00:00",
+  "LastUpdate_Achievements": "2023-12-06T03:05:55.4759677+00:00"
 }

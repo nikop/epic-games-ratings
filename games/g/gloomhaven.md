@@ -6,28 +6,28 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 41.00% | ~10,181 |
-| Overkill | 34.00% | ~8,443 |
-| Vaccine Incoming | 33.00% | ~8,194 |
-| A normal day in Gloomhaven | 31.00% | ~7,698 |
-| Spread the plague | 29.00% | ~7,201 |
-| Get over here! | 25.00% | ~6,208 |
-| Just when I thought I was out... | 19.00% | ~4,718 |
-| Precious! | 17.00% | ~4,221 |
-| Mine... All Mine... | 17.00% | ~4,221 |
+| I'm not dead yet | 41.00% | ~10,183 |
+| Overkill | 34.00% | ~8,444 |
+| Vaccine Incoming | 33.00% | ~8,196 |
+| A normal day in Gloomhaven | 31.00% | ~7,699 |
+| Spread the plague | 29.00% | ~7,202 |
+| Get over here! | 25.00% | ~6,209 |
+| Just when I thought I was out... | 19.00% | ~4,719 |
+| Precious! | 17.00% | ~4,222 |
+| Mine... All Mine... | 17.00% | ~4,222 |
 | Grizzled veteran | 15.00% | ~3,725 |
 | Anatomy Lesson | 15.00% | ~3,725 |
-| Light of my life | 14.00% | ~3,476 |
-| Obstacle race | 13.00% | ~3,228 |
+| Light of my life | 14.00% | ~3,477 |
+| Obstacle race | 13.00% | ~3,229 |
 | You activated my trap card! | 12.00% | ~2,980 |
-| Who's the Boss? | 11.00% | ~2,731 |
-| Augmented rat | 11.00% | ~2,731 |
-| Doom and gloom | 10.00% | ~2,483 |
+| Who's the Boss? | 11.00% | ~2,732 |
+| Augmented rat | 11.00% | ~2,732 |
+| Doom and gloom | 10.00% | ~2,484 |
 | Dungeon Veteran | 9.00% | ~2,235 |
-| Pack leader | 8.00% | ~1,986 |
-| Pain is your friend | 8.00% | ~1,986 |
-| Black death | 8.00% | ~1,986 |
-| Play it again, Sam | 8.00% | ~1,986 |
+| Pack leader | 8.00% | ~1,987 |
+| Pain is your friend | 8.00% | ~1,987 |
+| Black death | 8.00% | ~1,987 |
+| Play it again, Sam | 8.00% | ~1,987 |
 | Quad damage | 6.00% | ~1,490 |
 | Power Up! | 5.00% | ~1,242 |
 | Caught off guard | 5.00% | ~1,242 |
@@ -55,8 +55,8 @@ Number of Ratings: 68  (23.09.2022)
 | Born Support | 0.50% | ~124 |
 | A tough job | 0.40% | ~99 |
 | The evil that men do | 0.40% | ~99 |
-| MacReady Steady.. Go! | 0.30% | ~74 |
-| Pull out the big guns | 0.30% | ~74 |
+| MacReady Steady.. Go! | 0.30% | ~75 |
+| Pull out the big guns | 0.30% | ~75 |
 | The Cartographer | 0.20% | ~50 |
 | Beware my power | 0.20% | ~50 |
 | The Jaws of victory! | 0.20% | ~50 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~25 |
 | Murder Death Kill | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,831 (Ranked 132)  
+Progressed: 24,836 (Ranked 132)  
 Completed: 1 (0.00%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 1 (0.00%) (Ranked 369)
 | 2023-12-03 | 24,487 | 1 |
 | 2023-12-04 | 24,648 | 1 |
 | 2023-12-05 | 24,794 | 1 |
-| 2023-12-06 | 24,831 | 1 |
+| 2023-12-06 | 24,836 | 1 |
 ## Awards
 Max (Character Customization): 3,592  (Ranked 90)  
 Sum: 8,398 (Ranked 101)  

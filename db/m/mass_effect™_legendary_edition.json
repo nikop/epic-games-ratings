@@ -4888,9 +4888,9 @@
       "ID": "achievement_43",
       "SetID": "d252ncf",
       "Name": "Friend or Foe",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 438
+      "UsersEstimate": 454
     },
     {
       "ID": "achievement_44",
@@ -5396,8 +5396,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-06T02:33:06.3582149+00:00",
+  "LastChanged_Achievements": "2023-12-06T03:09:30.1466356+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:59:17.762066+00:00",
-  "LastUpdate_Ratings": "2023-12-06T02:26:56.64365+00:00",
-  "LastUpdate_Achievements": "2023-12-06T02:33:06.3583761+00:00"
+  "LastUpdate_Ratings": "2023-12-06T03:03:10.6444154+00:00",
+  "LastUpdate_Achievements": "2023-12-06T03:09:30.1468234+00:00"
 }

@@ -6,23 +6,23 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~116,486 |
-| Gun Fu | 7.00% | ~67,950 |
-| The Fool | 6.00% | ~58,243 |
-| Right Back At Ya | 5.00% | ~48,536 |
+| V for Vendetta | 12.00% | ~116,488 |
+| Gun Fu | 7.00% | ~67,951 |
+| The Fool | 6.00% | ~58,244 |
+| Right Back At Ya | 5.00% | ~48,537 |
 | The Lovers | 4.00% | ~38,829 |
 | Full Body Conversion | 3.00% | ~29,122 |
 | Stanislavski's Method | 3.00% | ~29,122 |
 | The Hermit | 3.00% | ~29,122 |
 | The Wheel of Fortune | 3.00% | ~29,122 |
 | True Soldier | 3.00% | ~29,122 |
-| Relic Ruler | 3.00% | ~2,980 |
-| Christmas Tree Attack | 2.00% | ~19,414 |
-| The Quick and the Dead | 2.00% | ~19,414 |
-| Life of the Road | 2.00% | ~19,414 |
-| The High Priestess | 2.00% | ~19,414 |
-| True Warrior | 2.00% | ~19,414 |
-| Legend of The Afterlife | 2.00% | ~19,414 |
+| Relic Ruler | 3.00% | ~2,981 |
+| Christmas Tree Attack | 2.00% | ~19,415 |
+| The Quick and the Dead | 2.00% | ~19,415 |
+| Life of the Road | 2.00% | ~19,415 |
+| The High Priestess | 2.00% | ~19,415 |
+| True Warrior | 2.00% | ~19,415 |
+| Legend of The Afterlife | 2.00% | ~19,415 |
 | All the President's Men | 2.00% | ~1,987 |
 | Arachnophobia | 2.00% | ~1,987 |
 | Bushido and Chill | 1.00% | ~9,707 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 970,720 (Ranked 15)  
+Progressed: 970,734 (Ranked 15)  
 Completed: 2,844 (0.29%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 2,844 (0.29%) (Ranked 240)
 | 2023-12-03 | 969,229 | 2,839 |
 | 2023-12-04 | 970,004 | 2,843 |
 | 2023-12-05 | 970,654 | 2,844 |
-| 2023-12-06 | 970,720 | 2,844 |
+| 2023-12-06 | 970,734 | 2,844 |
 ## Awards
 Max (Character Customization): 117,137  (Ranked 9)  
 Sum: 391,296 (Ranked 9)  

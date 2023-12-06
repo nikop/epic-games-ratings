@@ -5513,10 +5513,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 3982,
       "NumberOfAwardsMax": 481
+    },
+    {
+      "Time": "2023-12-06T02:58:50.4751846+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3985,
+      "NumberOfAwardsMax": 481
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3982,
+  "NumberOfAwards": 3985,
   "NumberOfAwardsMax": 481,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5542,7 +5548,7 @@
       "Text": "This game has a Silly Community",
       "Prefix": "This game has a",
       "Type": "Silly Community",
-      "Count": 371
+      "Count": 374
     },
     {
       "Text": "This game is Great for Beginners",
@@ -5589,7 +5595,7 @@
   ],
   "EOS_Progressed": 253149,
   "EOS_Completed": 895,
-  "EOS_NewPlayers": 713,
+  "EOS_NewPlayers": 711,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -30911,9 +30917,9 @@
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2023-12-05T22:58:01.560205+00:00",
-  "LastChanged_Achievements": "2023-12-06T02:33:44.4826594+00:00",
+  "LastChanged": "2023-12-06T02:58:50.4751844+00:00",
+  "LastChanged_Achievements": "2023-12-06T03:10:07.3826489+00:00",
   "LastUpdate_AppInfo": "2023-12-02T22:58:53.8008808+00:00",
-  "LastUpdate_Ratings": "2023-12-06T02:22:25.6917679+00:00",
-  "LastUpdate_Achievements": "2023-12-06T02:33:44.4828115+00:00"
+  "LastUpdate_Ratings": "2023-12-06T02:58:50.4751849+00:00",
+  "LastUpdate_Achievements": "2023-12-06T03:10:07.3827722+00:00"
 }

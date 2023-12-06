@@ -35,7 +35,7 @@ Rating: 4.30 (Ranked 842)
 | Out of the Frying Pan... | 16.00% | ~32 |
 | Ember | 16.00% | ~32 |
 | Turquoise | 15.00% | ~30 |
-| The Assistant | 13.00% | ~26 |
+| The Assistant | 14.00% | ~28 |
 | The Steampunk | 13.00% | ~26 |
 | Verse | 11.00% | ~22 |
 | The Droid | 10.00% | ~20 |
@@ -51,6 +51,7 @@ Rating: 4.30 (Ranked 842)
 | Aluminum | 5.00% | ~10 |
 | It's a Trap! | 3.00% | ~6 |
 | Blaze | 3.00% | ~6 |
+| Topaz | 3.00% | ~6 |
 | Chorus | 3.00% | ~6 |
 | TNT | 3.00% | ~6 |
 | Analyzed | 3.00% | ~6 |
@@ -60,7 +61,6 @@ Rating: 4.30 (Ranked 842)
 | Gunpowder | 3.00% | ~6 |
 | Combo Master | 2.00% | ~4 |
 | Really Bad Luck | 2.00% | ~4 |
-| Topaz | 2.00% | ~4 |
 | Immortality | 2.00% | ~4 |
 | Titanium | 2.00% | ~4 |
 | Rocket | 2.00% | ~4 |
